@@ -1,0 +1,71 @@
+{{Top|leg}}
+{{Youmay|a rail-tracks based tram|[[Hovertrain/Legends|Hovertrain]]}}
+{{GroundVehicle
+|image=[[File:ZakuulTram-SWTOR.png]]
+|name=Tram
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=various
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Passenger transportation<ref name="zakuul" /><ref name="corellia" />
+|firstuse=
+|retired=
+|affiliation=*[[Coronet Junction]]<ref name="corellia" />
+*[[Czerka Arms/Legends|Czerka Corporation]]<ref name="cz" />
+*[[Kaon City]]<ref name="Kaon" />
+*[[Old World]] of [[Zakuul]]<ref name="zakuul" />
+}}
+A '''tram''' was a passenger vehicle running along a series of tram-tracks, used for public transportation on various worlds of the Galaxy. Typically found in dense urban districts, trams were common during the time of wars between the [[Galactic Republic/Legends|Galactic Republic]] and the [[Sith Empire (Post–Great Hyperspace War)|reconstituted Sith Empire]].
+
+Trams were typically designed with as a single car with a row of windows on the sides. Some trams, however, had multiple compartments.<ref name="KotFE 10">{{TORcite|exp=kotfe|chapter=10}}</ref> While usual trams could go in both directions despite being asymmetrical,<ref name="zakuul">{{TORcite|exp=kotfe|type=location|[[Zakuul]]}}</ref> some trams were equipped with a mono-directional rocket engine; such [[Rocket tram|rocket trams]] could achieve greater speeds and were therefore used in especially large cities, such as [[Coronet City/Legends|Coronet City]] on [[Corellia/Legends|Corellia]].<ref name="corellia">{{TORcite|type=location|[[Corellia/Legends|Corellia]]}}</ref>
+
+==History==
+A highly developed tram system existed in the [[Old World]] on [[Zakuul]], with multiple tracks running across the town both under and above the ground. As the the city evolved, some of the tracks were left out of commission and old trams were turned in public spaces, such as [[Tram Market]].<ref name="zakuul" /> Tram tunnels had an extensive network of maintenance shafts, which were infested with Zakuulian wildlife due to proximity to the [[Endless Swamp]]. To deal with it, bio-extermination droids were guarding the shafts.<ref name="KotFE 7">{{TORcite|exp=kotfe|chapter=7}}</ref>
+
+A system of tram tracks was also implemented in the [[Kaon City]] on the planet [[Kaon]] of the [[Tion Hegemony/Legends|Tion Hegemony]]<ref name="Kaon">{{TORcite|type=location|[[Kaon]]}}</ref> and on [[Czerka Arms/Legends|Czerka]] controlled [[Moon/Legends|moon]] [[CZ-198]].<ref name="cz">{{TORcite|exp=rothc|type=location|[[CZ-198]]}}</ref>
+
+==Appearances==
+*''[[Star Wars: The Old Republic]]'' {{1st}}
+*''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]''
+*''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Train models]]
+[[Category:Transportation technology]]

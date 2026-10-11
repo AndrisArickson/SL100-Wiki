@@ -1,0 +1,165 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Torpedo_Sphere-DSOTM.jpg]]
+|name=Torpedo Sphere
+|designer=
+|manufacturer=[[Loronar Defense Industries]]<ref name="EGD">''[[The Essential Guide to Droids]]''</ref>
+|line=
+|model=
+|type=[[Siege platform/Legends|Dedicated siege platform]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref>
+|cost=Not available for sale; 327,830,000 [[Galactic Credit Standard/Legends|credits]] {{C|construction cost}}<ref name="SG">''[[Starships of the Galaxy]]''</ref>
+|modifier=
+|sysmods=
+|length=1,900 [[Meter/Legends|meters]]<ref name="ISB" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=930 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="Chart">{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}</ref>
+|maneuverability=
+|engine=[[Sublight engine/Legends|Equipped]]<ref name="LoE">''[[Lords of the Expanse]]''</ref>
+|hyperdrive=*[[Hyperdrive/Legends|Class 3]]<ref name="ISB" />
+*Class 18 {{C|back-up}}<ref name="ISB2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Loronar Corporation/Legends|Loronar Corporation]] [[DS-13 projector]]s<ref name="DSOTM">''[[Death Star Owner's Technical Manual]]''</ref>
+|hull=
+|sensor=[[Dedicated energy receptor/Legends|Dedicated energy receptors]]<ref name="ISB" />
+|target=
+|navigation=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] [[Navigation computer/Legends|navigation computer]]<ref name="DSOTM" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*10 [[Turbolaser/Legends|turbolaser]] batteries<ref name="ISB" />
+*500 [[Proton torpedo launcher/Legends|proton torpedo tubes]]<ref name="ISB" />
+*[[Two-wave gravshock]] {{C|custom ordnance}}<ref name="ISB" />
+|complement=*[[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttles]]<ref name="LoE" />
+*[[MT/191 drop-ship]]s<ref name="LoE" />
+|bays=
+|escapepods=
+|crew=61,245; 2,030 [[Gunner/Legends|gunners]]<ref name="ISB2" />
+|skeleton=20,415<ref name="ISB2" />
+|passengers=8,540 {{C|[[Soldier/Legends|troops]]}}<ref name="ISB" />
+|capacity=3.8 million [[Metric ton/Legends|metric tons]]<ref name="ISB2" />
+|cargohandling=
+|consumables=4 [[Standard year/Legends|years]]<ref name="ISB2" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Planet/Legends|Planetary]] [[Orbital bombardment/Legends|bombardment]]<ref name="ISB" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="ISB" />
+**[[Imperial Navy/Legends|Imperial Navy]]
+*[[Thrawn's confederation|Thrawn's Confederation]]<ref name="The Last Command Sourcebook">''[[The Last Command Sourcebook]]''</ref>
+**[[Thrawn's fleet (Galactic Empire)|Thrawn's Fleet]]<ref name="The Last Command Sourcebook" />
+*[[Dark Empire]]
+}}
+{{Quote|When the sphere arrives in orbit, it will reduce the base to slag in mere hours.|[[Commander/Legends|Commander]] [[Callus]]|<ref name="BI" />}}
+The '''Torpedo Sphere''' was a massive mobile [[Battle station/Legends|battle station]] manufactured by [[Loronar Defense Industries]], a subsidiary of [[Loronar Corporation/Legends|Loronar Corporation]].
+
+==Role==
+The Torpedo Sphere was constructed by [[Loronar Corporation/Legends|Loronar Corporation]], under their subsidiary imprint [[Loronar Defense Industries]].<ref name="EGD" /> It was designed to accomplish one objective; to neutralize and knock out a [[Planet/Legends|planet's]] [[Planetary shield/Legends|planetary shields]]. Planetary shields prevented the use of [[Soldier/Legends|soldiers]] in invading a planet, unless the shields could be taken down first. Planetary shields also protected planets from [[Orbit/Legends|orbital]] bombardment from [[Star Destroyer/Legends|Star Destroyers]]. The Torpedo Sphere was produced to overcome these obstacles.<ref name="ISB" /> Torpedo Spheres were not available for sale, but cost 327,830,000 [[Galactic Credit Standard/Legends|credits]] to construct.<ref name="SG" />
+
+==Design==
+===Layout===
+Measuring 1,900 [[Meter/Legends|meters]] in diameter, the Torpedo Sphere was a massive, nearly spherical, mobile [[Battle station/Legends|battle station]] with an equatorial trench. The outer hull of the Torpedo Sphere was covered with thousands of [[Dedicated energy receptor/Legends|dedicated energy receptors]] that were programmed to scan and analyze power emissions from a target planet's shield, looking for a weak point to exploit. All planetary shields suffered from power fluctuations like any mechanical device, and the Torpedo Sphere's DERs constantly scanned to find a weak spot of around a twenty percent power drop.<ref name="ISB" />
+
+===Offensive and defensive systems===
+[[File:Torpsphere.jpg|thumb|left|250px|A Torpedo Sphere bombarding a planetary shield]]
+Each Torpedo Sphere was armed with five hundred [[Proton torpedo launcher/Legends|proton torpedo tubes]], arranged in an inverted cone in the center of the vessel's equatorial trench.<ref name="ISB" /> The tubes were designed to fire simultaneously in a single salvo. Because all the tubes had to be calibrated and coordinated to fire by teams of [[Technician/Legends|technicians]], the launchers could not be automatically fire-linked, and therefore could not be synchronized to fire at targets less than planet-sized. It was possible to link up to fifty tubes together using fire-link controls taken from other weapons to target and fire at normal [[Starship/Legends|starships]].<ref name="SG" /> The tubes were surrounded by a ring of ten heavy [[Turbolaser/Legends|turbolaser]] batteries.<ref name="ISB" />
+
+To accomplish its primary mission, the Torpedo Sphere arrived in [[Orbit/Legends|orbit]] of a target planet, and scanned the shields to determine its weak point and to locate the [[Deflector shield generator/Legends|deflector shield generators]]. A hundred heavy weapon technicians<ref name="ISB" /> took several [[Standard hour/Legends|hours]]<ref name="SG" /> to calibrate and coordinate the [[Proton torpedo/Legends|proton torpedo]] launchers once the weak spot had been identified, and fired the salvo at a target of no more than six square [[Meter/Legends|meters]] to open a hole in the shield. The hole was, in actuality, a power surge that barely lasted for a few [[Microsecond/Legends|microseconds]], and the turbolaser batteries fired through the hole to destroy the planet's shield generators. If the turbolasers failed to fire in time to take advantage of the shield weakness, the entire process had to be started over. The hardest part of the Torpedo Sphere's mission was to determine the location of the target planet's shield generators. On board [[Sensor/Legends|sensors]] were unable to penetrate the shield to locate the shield generators on the surface; as such, technicians aboard the Sphere analyzed the shield's power waves to determine where the power was entering the shield from to determine the location of the generating source.<ref name="ISB" /> At least two Loronar [[DS-13 projector]] [[Deflector shield generator/Legends|deflector shield generators]] were employed to shield the vessel.
+
+===Propulsion===
+Torpedo Spheres could reach relative speeds of 930 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]],<ref name="Chart" /> and were equipped with a Class 3 [[Hyperdrive/Legends|hyperdrive]],<ref name="ISB" /> with a Class 18 as a back-up.<ref name="ISB2" /> The Sphere's [[Sublight engine/Legends|sublight drives]] were located in the equatorial trench at the rear of the vessel, directly opposite to the proton torpedo launchers. The hyperdrive was located just above the sublight engines. The [[Navigation computer/Legends|navigation computer]] was a [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] model.<ref name="DSOTM" />
+
+Each vessel had a cargo capacity of 3.8 million [[Metric ton/Legends|metric tons]], and carried consumables for a duration of four [[Standard year/Legends|years]].<ref name="ISB2" /> Torpedo Spheres did not carry any supporting [[Starfighter/Legends|starfighters]], instead relying on an escort of a [[Star Destroyer/Legends|Star Destroyer]] or other [[Capital ship/Legends|capital ships]]. It did, however, have hangar space to carry cargo [[Shuttle/Legends|shuttles]], [[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttles]], and [[MT/191 drop-ship]]s.<ref name="LoE" />
+
+The [[Reactor/Legends|reactor core chamber]] was a huge metallic Sphere with coolant conduits and heat sinks. A metallic platform ran around the reactor wall some one hundred and fifty meters above the actual reactor, which was a twenty-meter Sphere covered in coolant coils. Ultraviolet purple light emanated from ports along the reactor's sides. The entire core was warm and unpleasant to be in due to the radiation being emitted from the core.<ref name="LoE" />
+
+===Command and control===
+[[File:Torpedo_Sphere_Bridge.png|thumb|right|250px|A Torpedo Sphere main bridge]]
+Torpedo Spheres required a crew of 63,275 to operate; 61,245 regular crew and 2,030 dedicated [[Gunner/Legends|gunners]]. If needed, the Torpedo Sphere could be operated by a skeleton crew of only 20,415.<ref name="ISB2" /> In addition to the crew, 8,540 troops were transported aboard.<ref name="ISB" /> The main [[Bridge (starship)/Legends|bridge]] was located at the tip of the Torpedo Sphere's northern pole. The front of the bridge was dominated by a huge viewport which offered the command crew an actual view of target, and a tactical display off to the starboard side depicted battle information. Systems operations was located on the port side, and two crew pits were located just in front of the viewport where technicians analyzed and updated tactical and systems operation data. Computerized console seats were available for the Sphere's [[Captain/Legends|captain]], [[Executive officer/Legends|first officer]], and [[Tactical officer/Legends|tactical officer]] on a raised command platform located in the center of the bridge, and a [[Holobooth/Legends|holobooth]] to send and receive holocomm transmissions was located at the port rear. Across from the bridge on the starboard side was the navigation nook, which was dedicated to operating and maintaining the sublight and hyperspace [[Engine/Legends|engines]]. At the rear of the bridge were two separate rooms, the general meeting room for conferences equipped with a small [[Holoprojector/Legends|holoprojection]] unit, and the captain's office. Twenty-four technicians were required to operate the bridge at full capacity, with another eight technicians manning the navigation nook. Twelve [[Stormtrooper/Legends|stormtroopers]] were assigned to the bridge as security. The captain commanded the day shift, while the first officer ran the night shift.<ref name="LoE" />
+
+Torpedo Spheres had a dozen separate [[Hangar/Legends|hangar]] bays,<ref name="LoE" /> located along the Sphere's equatorial trench.<ref name="DSOTM" /> Each hangar had a sixty-meter opening to space which was sealed with a [[Magnetic field/Legends|magnetic field]] to prevent the [[Atmosphere/Legends|atmosphere]] from escaping. Each hangar had enough space for four mid-sized [[Shuttle/Legends|shuttles]] to land, and lower storage bays were accessible by a pair of vehicle lifts. Two walls were studded with [[Power cell/Legends|power cell]] rechargers, and each bay was sealed off from the rest of the Sphere with a pair of [[Blast door/Legends|blast doors]]. Two [[Skiff/Legends|cargo skiffs]] were assigned to each bay to help to move cargo. The bay's control room was located fifteen meters above the hangar floor, accessible by a [[Turbolift/Legends|turbolift]]. A [[Transparisteel/Legends|transparisteel]] viewport overlooked the hangar, and the technicians in the control room were responsible for the activation of the magnetic field, the opening of the blast doors, and the vehicle lift controls.<ref name="LoE" />
+
+Crew quarters were a collection of five separate areas. In the center was a communal circular chamber that housed a mess hall, along with consumables storage and [[Droid/Legends|droid]]-staffed kitchen. Four corridors ran off the central chamber leading to crew quarters. Each spoke contained four separate crew quarters with [[Refresher/Legends|refreshers]], clusted around a central common area. Five crew sprawls were referred to as a [[Crew Cluster]].<ref name="LoE" />
+
+Twenty security stations were scattered around the Sphere with barracks and sanitary facilities for [[Imperial Navy Trooper/Legends|Imperial Navy troopers]] and stormtroopers. The armories were stocked with blasters, blast helmets and blast vests, and offices for security personnel. The command station was located in the center of the security station, and the computer system was tied into the Sphere's [[Holocamera/Legends|holocam]] network. Technicians working in the computer pits controlled the Sphere's blast doors and security features. Generally, the security stations were manned by twenty-four soldiers and twelve security technicians. Some of the security stations were reserved for use by the [[Imperial Security Bureau/Legends|Imperial Security Bureau]].<ref name="LoE" />
+
+Gun-metal gray corridors provided access throughout the Sphere with [[Glowrod/Legends|glowrods]] spaced fifteen meters apart. Clusters of [[Turbolift/Legends|turbolifts]] were set every one hundred meters, with blast doors every twenty. Maintenance Access Shafts ran throughout the volume of the Sphere. They were typically two hundred and fifty meters long, and twenty meters in diameter. Each access hatch from the maintenance bays was flanked by pair of ladders up and down the shaft.<ref name="LoE" />
+
+[[File:Torpedo_Sphere_DER_targeting_control_room.png|thumb|left|250px|A DER targeting control room]]
+Torpedo Spheres contained one hundred and twenty [[DER targeting control room]]s. Each control room contained four computer stations dedicated to targeting and launching the Sphere's primary weapons. Two computers were dedicated to targeting and tracking the energy output of the target planet's planetary shields. The third computer analyzed the information collected by the other computers and saved the information onto the system database, which was the fourth computer. The computers were linked to their own dedicated power generators, which were located in separate rooms off the control room. A holoprojector dominated the center of the room, displaying a hologram of the target planet. Each DER targeting control room was connected to four [[torpedo launching station]]s, for a total of four hundred and eighty in the Sphere. The launching stations were responsible for the targeting and firing of the proton torpedoes. Maintenance hatches in both locations linked to the torpedo launch tubes that ran from the outer rim of the Sphere to the [[torpedo storage center]]. A retractable ladder in the tube allowed manual access from the control room down the tube.<ref name="LoE" />
+
+Turbolifts from the launching stations led to the loading area of the torpedo storage centers. At one end of the chamber was a cluster of twenty-five launch tubes. And the other end was a set of retractable blast doors leading to the torpedo storage. The storage chamber took up most of the storage center, which was made up of quadruple strength walls containing six racks loaded with thousands of proton torpedoes. The strengthened walls were to prevent collateral damage from an accidental explosion. Twenty-five [[B1-series worker droid]]s staffed the storage center, and were responsible for retrieving and loading the proton torpedoes into the launch tubes.<ref name="LoE" />
+
+==History==
+{{Quote|The Empire has put hundreds of torpedo spheres into production over the last few years, so if you haven't seen one yet you will soon.|[[Bevel Lemelisk]]|<ref name="IH">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>}}
+===Early Galactic Civil War===
+The Torpedo Sphere was a precursor to the [[Death Star/Legends|Death Star]],<ref name="SWE">''[[Star Wars Encyclopedia]]''</ref> and it was rumored that the [[Yaga Minor/Legends|Yaga Minor]] [[Yaga Minor weapons range|weapons range]] was the location for early tests of the Torpedo Sphere prototype.<ref name="The Last Command Sourcebook" /> In the [[Navy Order of Battle|Imperial Navy Order of Battle]], a [[torpedo line]] was comprised of two Torpedo Spheres. Two torpedo lines and a [[pursuit line]] constituted a [[bombard squadron]], with three bombard squadrons and a [[light squadron]] making up a [[system bombard]]. Two [[system bombard]]s and two [[force escort]]s equalled a [[bombard fleet]].<ref name="ISB" />  Despite this organization, throughout the entirety of the [[Galactic Civil War]], there were no more than six Torpedo Spheres in service at any one time,<ref name="SG" /> though the Empire had laid down hundreds more.<ref name="IH" /> Due to the fact that it was a mobile, spherical [[Battle station/Legends|battle station]], members of the [[Alliance to Restore the Republic/Legends|Alliance]] took to calling them "pocket [[Death Star/Legends|Death Stars]]."<ref name="SG" /> The Imperial superweapon known as the [[two-wave gravshock]] was housed in the shell of a Torpedo Sphere.<ref name="ISB" />
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], an Alliance team hijacked the [[Field Secured Container Vessel/Legends|Field Secured Container Vessel]] ''[[Black Ice/Legends|Black Ice]]'' and took it to the [[Mortex sector/Legends|Mortex sector]] [[Mortex Sector HQ|HQ]] at [[Fangol]]. Unfortunately, automated systems aboard the ''Black Ice'' broadcast a distress signal that called Imperial forces to Fangol. Over the course of a week, the Imperial forces [[Blitz on Fangol|blitzed]] the Alliance base in several waves until a [[Unidentified Torpedo Sphere (Fangol)|Torpedo Sphere]] arrived in orbit. The ''Black Ice'' was used to ram and destroy the Torpedo Sphere.<ref name="BI">[[Black Ice (adventure)|''Black Ice'']]</ref>
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], a [[Unidentified Torpedo Sphere (Tallaan)|Torpedo Sphere]] was undergoing an upgrade at the [[Tallaani Shipyards]]. It was temporarily disarmed, and only had a crew of 1,200 security personnel&mdash;eight hundred navy troopers and four hundred stormtroopers&mdash;were aboard, along with 13,000 work crew personnel. Various factions, including the [[Justice Action Network]] and the [[Pelagia Freedom Force]], worked to destroy the Torpedo Sphere. The incident gave the Empire the justification it needed to take a stronger hand in ruling the [[Tapani sector/Legends|Tapani sector]].<ref name="LoE" /> [[Starlyte Station]], a [[Space station/Legends|space station]] in orbit of [[Tshindral III]], was constructed in the same spherical pattern as the Torpedo Sphere.<ref name="WH">''[[Wretched Hives of Scum & Villainy]]''</ref>
+
+===Post-Endor===
+{{Quote|Too many of these remain in Imperial hands. As we capture more territory, I fear Imperial commanders will stubbornly hold their homeworlds using these miniature Death Stars as fortresses|[[Princess/Legends|Princess]] [[Leia Organa Solo/Legends|Leia Organa Solo]], in the ''[[Imperial Handbook: A Commander's Guide]]''|<ref name="IH" />}}
+By the time of the [[Battle of Endor/Legends|Battle of Endor]], a [[Grand Admiral Pitta's torpedo sphere|Torpedo Sphere]] was being used defensively to guard the major shipyards at [[Corellia/Legends|Corellia]]. A few [[Standard month/Legends|months]] after [[Endor/Legends|Endor]], this Torpedo Sphere was commandeered by [[Grand Admiral/Legends|Grand Admiral]] [[Danetta Pitta]], who bribed the [[Corellian/Legends|Corellian]] [[Diktat]] to become the protector of the [[Corellian sector/Legends|Corellian sector]]. Pitta took the Torpedo Sphere as his flagship, and it engaged the forces of Grand Admiral [[Josef Grunger]] at the [[Battle of Tralus (Galactic Civil War)|Battle of Tralus]]. Pitta was winning the battle through masterful use of the Torpedo Sphere's combat capabilities, and in a fit of spite, Grunger rammed his own flagship, the [[Executor-class Star Dreadnought/Legends|''Executor''-class Star Dreadnought]] [[Aggressor (Executor-class)|''Aggressor'']], into the Torpedo Sphere, destroying both vessels.<ref name="I66">{{InsiderCite|66|Who's Who: Imperial Grand Admirals}}</ref> Another [[Unidentified Torpedo Sphere (Chasin)|Torpedo Sphere]] was stationed at [[Chasin]] at the time of the [[Imperial Civil War]], and was [[Battle of Chasin|destroyed]] when the captain of the [[Vengeance-class dreadnought|''Vengeance''-class dreadnought]] [[Javelin (Vengeance-class)|''Javelin'']] rammed his ship into it during the fighting.<ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+
+In [[10 ABY/Legends|10 ABY]], [[New Republic/Legends|New Republic]] [[Historian/Legends|historian]] [[Arhul Hextrophon/Legends|Arhul Hextrophon]] recognized that, due to Super Star Destroyers and Torpedo Spheres, it had been impossible to estimate the power of the average [[Sector Group/Legends|Sector Group]] in the past. He made this observation in a guest lecture at the [[Brionelle Memorial Military Academy]] on [[Chandrila/Legends|Chandrila]] shortly after the [[Battle of Calamari]].<ref name="DESB">''[[Dark Empire Sourcebook]]''</ref>
+
+==Appearances==
+*[[Black Ice (adventure)|''Black Ice'']] {{1st}}
+*''[[The Glove of Darth Vader]]'' {{Mo}}
+*[[Children of the Jedi (novel)|''Children of the Jedi'']] {{Mo}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{1stm}}
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2000-10-XX -->''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2003-03-04 -->{{InsiderCite|66|Who's Who: Imperial Grand Admirals}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-08-18 -->''[[The Essential Atlas]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-11-05 -->''[[Death Star Owner's Technical Manual]]''
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Torpedosphäre
+|es=Esfera de Torpedos/Leyendas
+|nl=Torpedo Sphere
+}}
+
+[[Category:Battlestations]]
+[[Category:Loronar Defense Industries products]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:Torpedo Spheres]]
+}}
