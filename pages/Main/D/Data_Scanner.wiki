@@ -1,0 +1,44 @@
+{{Top|leg}}
+{{Device
+|image=[[File:Tag_Scanner_Datapad.png]]
+|name=Data Scanner
+|manufacturer=[[MerenData/Legends|MerenData]]<ref name="PSG">''[[Platt's Smugglers Guide]]''</ref>
+|model=
+|type=Tag scanner and [[Datapad/Legends|datapad]]<ref name="PSG" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=150 [[Galactic Credit Standard/Legends|credits]]<ref name="PSG" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Interpret coding on cargo tags<ref name="PSG" />
+|heritage=
+|affiliation=
+}}
+The '''Data Scanner''' was a code reading [[Datapad/Legends|datapad]] manufactured by [[MerenData/Legends|MerenData]]. It was a standard datapad interface with inventory tracking programming, coupled with a removable scanner unit. Running the scanner over the marker tag produced by the [[Cargo Label Generator 2-CLG]] read the code, and that data was downloaded to the datapad by returning the scanner unit to its socket.<ref name="PSG" />
+
+==Sources==
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Datapads]]
+[[Category:MerenData products]]

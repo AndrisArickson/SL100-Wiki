@@ -1,0 +1,93 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:HighlyPracticalSpaceWings-GG8.jpg]]
+|name=Deep-X Explorer
+|designer=
+|manufacturer=[[Uulshos Manufacturing/Legends|Uulshos Manufacturing]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=
+|type=[[Scout ship/Legends|Scout vessel]]<ref name="GG8" />
+|cost=*135,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="TUR">''[[The Unknown Regions]]''</ref>
+*55,000 credits {{C|used}}<ref name="TUR" />
+|modifier=
+|sysmods=
+|length=12 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 1]]<ref name="GG8" />
+*[[Backup hyperdrive|Class 8]]<ref name="GG8" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="GG8" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="GG8" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Blaster cannon/Legends|blaster cannons]]<ref name="GG8" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="GG8" />
+|skeleton=
+|passengers=5<ref name="GG8" />
+|capacity=*50 [[Metric ton/Legends|metric tons]]<ref name="GG8" />
+*20 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="TUR" />
+|role=Long range [[Scout/Legends|scouting]]<ref name="GG8" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+{{Quote|Originally designed as a space yacht, the Deep-X Explorer has become popular with scouts, who have converted this starship class for deep space exploration.|Fizzi|<ref name="J9">{{JournalCite|9|Fizzi's Slightly Used Starships (article)}}</ref>}}
+The '''Deep-X Explorer''' was a [[Scout ship/Legends|scout vessel]] manufactured by [[Uulshos Manufacturing/Legends|Uulshos Manufacturing]]. It was a variant of the [[DPx yacht]].
+
+==Characteristics==
+Constructed by [[Uulshos Manufacturing/Legends|Uulshos Manufacturing]], the Deep-X Explorer was a variant of the [[DPx yacht]], intended for use as a long-range [[Scout/Legends|scouting]] [[Starship/Legends|vessel]]. Like its base model, it employed a dual-[[Engine/Legends|engine]] configuration and a forward-swept-wing body for improved maneuverability and [[Atmosphere/Legends|atmospheric]] handling. For the Deep-X, the engine compartment had been enhanced for maximum performance, including two [[Hyperdrive/Legends|hyperdrives]], which made the ship one of the fastest and most reliable long-range vessels in [[The galaxy/Legends|the galaxy]]. The [[Sublight engine/Legends|sublight engines]] were on par with those found in [[Starfighter/Legends|starfighters]], and it was armed with two [[Blaster cannon/Legends|blaster cannons]]. However, in order to use the weapons, passengers had to act as [[Gunner/Legends|gunners]].<ref name="GG8" />
+
+==Role==
+The Deep-X Explorer was a long-range, deep space scout vessel.<ref name="GG8" />
+
+==History==
+[[File:Deepx-starseeder-tur.jpg|thumb|left|150px|A Deep-X Explorer alongside a [[Star Seeder-class Colony Ship|''Star Seeder''-class Colony Ship]]]]
+The Deep-X Explorer was a variant of the DPx [[Yacht/Legends|yacht]]. The DPx was a top of the line luxury vessel, but conversion to the Deep-X created one of the galaxy's fastest and most successful [[Scout ship/Legends|scout vessels]].<ref name="GG8" />
+
+The ''[[Wild Star]]'' was a Deep-X Explorer active during the [[Galactic Civil War/Legends|Galactic Civil War]]. It was present at [[Fizzi's Slightly Used Starships]] awaiting purchase. Its sublight engines had been replace with a [[Boshaa-C'hi Ion Drive]].<ref name="J9" />
+
+==Appearances==
+*''[[The Last of the Jedi: The Desperate Mission]]''
+
+==Sources==
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 1996-02-XX -->{{JournalCite|9|Fizzi's Slightly Used Starships (article)}}
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Deep-X Explorers}}
+{{Reflist}}
+
+{{Interlang
+|de=Deep-X Explorer
+}}
+
+[[Category:Scout starship classes]]
+[[Category:Uulshos Manufacturing products]]
+
+{{RelatedCategories
+|[[Category:DPx yachts]]
+}}

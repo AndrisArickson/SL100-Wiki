@@ -1,0 +1,108 @@
+{{Top|leg|title=''Defender''-class assault carrier}}
+{{Otheruses|Defender-class}}
+{{StarshipClass
+|image=[[File:Defender_Carrier.jpg]]
+|name=''Defender''-class assault carrier
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]
+|line=*[[Defender (ship-design program)|Defender program]] {{C|Original design}}
+*[[New Class Modernization Program]] {{C|Final development}}<ref name="TNEC">''[[The New Essential Chronology]]''</ref>
+|model=''Defender''-class assault carrier
+|type=[[Carrier/Legends|Carrier]]
+|cost=
+|modifier=
+|sysmods=
+|length=700 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer per hour/Legends|km/h]]
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Light anti-fighter [[Laser cannon/Legends|laser cannons]] (20)
+:Fire arc: 5 fore, 5 port, 5 starboard, 5 aft
+:Crew: 1
+:[[Atmosphere/Legends|Atmospheric]] range: 50 [[Kilometer/Legends|km]]
+|complement=*3 [[Fighter wing/Legends|wings]] of [[Starfighter/Legends|starfighters]]
+*[[Assault shuttle/Legends|Assault shuttles]]
+*Various personnel [[Transport/Legends|transports]]
+|bays=
+|escapepods=
+|crew=*Crew (4,050)
+*[[Gunner/Legends|Gunners]] (20)
+|skeleton=1,350
+|passengers=700 {{C|[[Troop/Legends|troops]]}}
+|capacity=12,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=5 [[Standard month/Legends|months]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale
+|role=[[Assault carrier]]
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''''Defender''-class assault carrier''' was a [[Starfighter/Legends|starfighter]] [[Carrier/Legends|carrier]] first deployed by the [[New Republic/Legends|New Republic]] shortly before the [[Black Fleet Crisis]].
+
+==Characteristics==
+These ships served as starfighter platforms, and were very lightly armed. They lacked heavy guns, and were only armed with 20 light anti-starfighter [[Laser cannon/Legends|laser cannons]] for self-defense. The ''Defender''-class [[assault carrier]] was equipped with a Class 1 [[Hyperdrive/Legends|hyperdrive]], and had a crew of 4,050 in addition to 20 [[Gunner/Legends|gunners]].
+
+In addition to its starfighters, the ''Defender''-class assault carrier also held assault shuttles and various personnel transports for its 700 troops.
+
+==History==
+The 700-meter-long ''Defender''-class was originally designed as part of the [[Defender (ship-design program)|Defender program]] in the early years of the New Republic. They were eventually folded into the [[New Class Modernization Program]], under which these assault carriers also lent their basic hull-design to the [[Majestic-class heavy cruiser|''Majestic''-class heavy cruiser]].
+
+Each of these ships was home to three New Republic [[Fighter wing/Legends|wings]], sometimes consisting of a single type of starfighter. The majority of ''Defender''-class carriers in the [[New Republic Fifth Fleet|New Republic Fifth Battle Group]] carried [[E-7 E-wing multi-role starfighter|E-wing starfighter]] [[Fighter wing/Legends|wings]], while a few were dedicated to supporting [[BTL-S8 K-wing assault starfighter|K-wing bomber]] wings. Only one of these ships actually carried [[Defender starfighter]]s, the starfighter it was originally designed to host.
+
+==Behind the scenes==
+The only official image of the ''Defender''-class assault carrier is found in the RPG sourcebook ''[[Cracken's Threat Dossier]]''. Like the pictures of other New Class ships, this picture is problematic when set against information from ''[[The Black Fleet Crisis]]'' novels, on which ''Cracken's Threat Dossier'' is based: the ''Majestic'' and ''Defender'' classes look nothing alike, even though they are supposed to be built on the same hull. Because of this, it is hard to know what these two classes "really" look like.
+
+''Cracken's Threat Dossier'' originally gave the assault carrier one wing of fighters. This equals 36 fighters in the New Republic and was an oddly small number for a dedicated carrier of that size. The newer ''[[The Essential Guide to Warfare]]'' provided the more suitable fact that three wings were meant to be housed.
+
+==Appearances==
+*''[[Shield of Lies]]'' {{1st}}
+*[[Shield of Lies (abridged audiobook)|''Shield of Lies'' abridged audiobook]]
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2000-04-04 -->[[The Essential Chronology (real-world book)|''The Essential Chronology'']]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WebCite|url=http://www.alternities.com/html/blackfleet.htm#fifth|text=''Star Wars The Black Fleet Crisis'' by Michael P. Kube-McDowell|work=[http://www.alternities.com/default.html Michael P. Kube-McDowell's website]|archivedate=20240302165643}}
+
+{{NewClassNav}}
+
+{{Interlang
+|es=Portanaves de asalto clase Defensor
+}}
+
+[[Category:Assault carrier classes]]
+[[Category:New Class starship classes]]
+
+{{RelatedCategories
+|[[Category:Defender-class assault carriers]]
+}}

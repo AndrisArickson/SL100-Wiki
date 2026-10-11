@@ -1,0 +1,571 @@
+{{Top|canon=DS-2 Death Star II Mobile Battle Station}}
+{{Otheruses|Death Star}}
+{{MultipleIssues|citation|updatecontent=[[Death Star Owner's Technical Manual]]}}
+{{SpaceStation
+|is_mobile=1
+|image=[[File:DeathStar2.jpg]]
+|name=Death Star II
+|designer=
+|manufacturer=[[Imperial Department of Military Research/Legends|Imperial Department of Military Research]]<ref name="db">{{DB|location|deathstarii|Death Star II}}</ref>
+|line=
+|model=Death Star II battlestation<ref name="DS1">''[[Death Star Owner's Technical Manual]]''</ref>
+|type=[[Battle station/Legends|Battlestation]]<ref name="Episode VI">{{Film|VI}}</ref>
+|cost=Unknown<ref name="DS1" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|diameter=<!--The 160 km figure given here is correct according to the cited source, and the retcon has been explicitly confirmed by Leland Chee via Twitter. If you change it back to 900 km, you will probably be blocked for ignoring this warning.-->160 [[Kilometer/Legends|kilometers]]<ref name="DS1" />
+|mass=
+|max accel=
+|mglt=20 [[Megalight|MGLT]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|max speed=
+|maneuverability=
+|engine=*[[Ion engine/Legends|Ion drives]] {{C|incomplete as of [[4 ABY/Legends|4 ABY]]}}<ref name="Essential Guide to Vehicles and Vessels">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|hyperdrive=*Class 3.0<ref name="BtM" /><ref name="DS1" />
+*Class 20.0 {{C|[[Backup hyperdrive|backup]]}}<ref name="DS1" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="DS1" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Concave Dish Composite Beam Superlaser]] (1)<ref name="DS1" />
+*[[Turbolaser/Legends|Turbolaser]] batteries (15,000)<ref name="BtM" /><ref name="DS1" />
+*Heavy turbolaser batteries (15,000)<ref name="BtM" /><ref name="DS1" />
+*[[Laser cannon/Legends|Laser cannons]] (7,500)<ref name="BtM" /><ref name="DS1" />
+*[[Ion cannon/Legends|Ion cannons]] (5,000)<ref name="BtM" /><ref name="DS1" />
+*[[Tractor beam/Legends|Tractor beam]] generators (768)<ref name="BtM" />
+**[[Tractor beam/Legends|Tractor beam]] emplacements (1,500)<ref name="DS1" />
+|complement=*[[Scimitar Squadron (Imperial)/Legends|Scimitar Squadron]]<ref name="CCG-Scimitar2">{{CCG|set=Death Star II Limited|cardname=Scimitar 2}}</ref>
+*[[Scythe Squadron/Legends|Scythe Squadron]]<ref name="CCG-Scythe1">{{CCG|set=Death Star II Limited|cardname=Scythe 1}}</ref>
+|bays=*[[Hangar 272/Legends|Hangar 272]]<ref name="Episode VI" />
+|escapepods=
+|crew=*Crew (485,560)<ref name="BtM" /><ref name="DS1" />
+*[[Gunner/Legends|Gunners]] (152,275)<ref name="BtM" /><ref name="DS1" />
+*Troops (1,295,950)<ref name="BtM" /><ref name="DS1" />
+*Infantry (127,570)<ref name="BtM" /><ref name="DS1" />
+*Technical personnel (75,860)<ref name="BtM" /><ref name="DS1" />
+*Support ship [[Pilot/Legends|pilots]] and crew (334,432)<ref name="BtM" /><ref name="DS1" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=3 [[Standard year/Legends|years]]<ref name="DS1" />
+|lifesupport=
+|communications=
+|othersystems=
+|region=
+|sector=
+|system=
+|coordinates=
+|xyz=
+|orbited=
+|distance=
+|routes=
+|role=*[[Battle station/Legends|Battlestation]]<ref name="Episode VI" />
+*[[Battleship/Legends|Battleship]] {{C|dreadnought}}<ref name="Episode VI" />
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="Episode VI" />
+*[[IG-88's Droid Army]] {{C|secretly}}<ref name="IG-88">{{StoryCite|story=Therefore I Am: The Tale of IG-88|book=Tales of the Bounty Hunters}}</ref>
+|constructed=
+|destroyed=4 [[Galactic Standard Calendar|ABY]]<ref name="Episode VI" /> (39:3 GrS)
+|retired=
+|battles=[[Battle of Endor/Legends|Battle of Endor]]<ref name="Episode VI" />
+|owners=[[Galactic Empire/Legends|Galactic Empire]]<ref name="Episode VI" />
+|namedcrew=*[[Colonel/Legends|Colonel]] [[Davod Jon]]<ref name="Episode VI" />
+*[[Lieutenant/Legends|Lieutenant]] [[Endicott/Legends|Endicott]]<ref name="Episode VI" />
+*[[Captain/Legends|Captain]] [[Sarkli]]<ref name="Episode VI" />
+*[[Sergeant/Legends|Sergeant]] [[Jad Bean/Legends|Jad Bean]]<ref name="Episode VI" />
+*A [[Unidentified Death Star trooper|Death Star trooper]]<ref name="Episode VI" />
+*[[R2-Q5/Legends|R2-Q5]]<ref name="Episode VI" />
+*[[R5-J2/Legends|R5-J2]]<ref name="Episode VI" />
+|captains=*[[Moff/Legends|Moff]] [[Birra Seah]]<ref name="Star Wars 5">[[Star Wars (2013) 5|''Star Wars'' (2013) 5]]</ref>
+*[[Moff/Legends|Moff]] [[Tiaan Jerjerrod/Legends|Tiaan Jerjerrod]]<ref name="Episode VI" />
+|registry=
+|aliases=
+|population=
+|interest=*[[Death Star command center]]<ref name="Episode VI" />
+*[[Emperor's Tower/Legends|Emperor's Tower]]<ref name="Episode VI" />
+**[[Emperor's Throne Room/Legends|Emperor's Throne Room]]<ref name="Episode VI" />
+|services=
+|sectors=[[Theta Sector]]<ref name="DSTC">''[[Death Star Technical Companion]]''</ref>
+|modules=
+}}
+{{Quote|That blast came from the Death Star! That thing's operational!|[[Lando Calrissian/Legends|Lando Calrissian]]|<ref name="Episode VI" />}}
+The '''Death Star II''' was the second [[Death Star/Legends|Death Star]] [[Battle station/Legends|battle station]] to be constructed by the [[Galactic Empire/Legends|Galactic Empire]]. The man ordered to construct it was [[Tiaan Jerjerrod|Moff Tiaan Jerjerrod]]. It was significantly larger than [[DS-1 Orbital Battle Station/Legends|its predecessor]], measuring 160 [[Kilometer/Legends|kilometers]]<!--The 160 km figure given here is correct according to the Death Star Owner's Technical Manual, and the retcon has been explicitly confirmed by Leland Chee via Twitter. If you change it back to 900 km, you will probably be blocked for ignoring this warning.--> in diameter, and was built after the destruction of the first Death Star at the [[Battle of Yavin/Legends|Battle of Yavin]]. [[Palpatine/Legends|Darth Sidious]] insisted on the reconstruction of the battlestation as it was an integral part in his plan to destroy the [[Alliance to Restore the Republic/Legends|Rebel Alliance]], leaving [[The galaxy/Legends|the galaxy]] in the hands of the Empire.
+
+The Death Star's [[Concave Dish Composite Beam Superlaser|superlaser]] was revealed to be operational before the construction of the station was completed, surprising the Alliance attackers during the [[Battle of Endor/Legends|Battle of Endor]]. This was Darth Sidious' plan all along, and it nearly led to the loss of the Rebels. The Alliance ground forces on the [[Endor/Legends|forest moon of Endor]] managed to deactivate the energy shield surrounding the battlestation, and the [[Alliance Fleet/Legends|Rebel fleet]] proceeded to destroy the station from within, signifying the beginning of the downfall of the Empire.
+
+==Description==
+{{Quote|It is protected by an energy shield which is generated from the nearby forest moon of Endor. The shield must be deactivated if any attack is to be attempted.|[[Admiral/Legends|Admiral]] [[Gial Ackbar/Legends|Gial Ackbar]]|<ref name="Episode VI" />}}
+[[File:DeathStarIIHangars-TCSBRBD2.png|thumb|left|250px|The area around the equatorial trench, still under construction]]
+Like its predecessor, the Death Star II was made of [[Quadanium steel/Legends|quadanium steel]] and equally divided into two hemispheres, which were in turn subdivided into 12 zones. The newest iteration of this dreaded [[Superweapon/Legends|superweapon]], however, had a diameter of 160 [[Kilometer/Legends|kilometers]].<ref name="Star Wars: Complete Locations">[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]</ref><ref name="DS1" />
+
+The second iteration of the battlestation was also designed by engineer [[Bevel Lemelisk]], the original Death Star's designer. Lemelisk was executed for the design flaws in the final version of the destroyed Death Star I, but was [[Cloning/Legends|cloned]] by Emperor Palpatine in order to redesign the superweapon, eliminating the flaws of the former battlestation. In the newest version, he added thousands of [[Turbolaser/Legends|turbolasers]] while removing any external weaknesses.<ref name="gg5">''[[Galaxy Guide 5: Return of the Jedi]]''</ref>
+
+The most important revisions to the Death Star design made by Lemelisk were made to take into account and eradicate the technical flaws of the original battlestation which had enabled it to be destroyed during the Battle of Yavin. The first major change made in this redesign was the elimination of the two-meter-wide [[Thermal exhaust port/Legends|thermal exhaust port]] that was used to ignite a chain reaction in the main reactor of the first Death Star, destroying it. This was greatly improved, from a defensive standpoint, in the new revision. Instead of venting gases out of a single port, millions of millimeter-wide exhaust ports were scattered over the surface of the station, each of which propelled a small amount of the excess heat and gases into the vacuum.<ref name="db" /><ref name="DS1" /> The new system also took advantage of new highly-advanced protections and safe-guards that would seal the small exhaust ports in the event of any unexpected excess of heat or energy.<ref name="Star Wars: Complete Locations" /><ref name="DS1" />
+
+[[File:DeathStarIIHangar-TCWBRBD2.png|thumb|left|250px|One of the smaller hangars on the Death Star II]]
+The second main advancement in the second Death Star battlestation was the improvement of its [[Superlaser/Legends|superlaser]]. Still located in the northern hemisphere of the battlestation, the much improved superlaser equipped in the second Death Star was much more powerful than its predecessor, and took only three minutes to recharge, in comparison to the 24 hour recharge required for the first Death Star's superlaser. In addition, while the first Death Star only had the capabilities to fire on very large targets, such as [[Planet/Legends|planetary]] bodies, the improved superweapon was upgraded with additional lower-power weapon fire options and targeting systems that were more suited for fine-tuned accuracy, while still maintaining great destructive power, in order to fire the powerful weapon on enemy [[Capital ship/Legends|capital ships]]. Unlike the previous Death Star's superlaser that consisted of eight equal sized tributary beams circling the dish, the Second Death Star's superlaser consisted of seven equal sized tributary beams around the dish and one large beam in the center.<ref name="Episode VI" /> The increased external surface area of the new station also allowed for larger amounts of conventional armaments, such as turbolasers and other defense batteries, to be placed, further increasing the already impressive Death Star's defenses.<ref name="db" /><ref name="DS1" />
+
+The third main advancement in the second Death Star battle station was that it now carried three hypermatter reactors, two of which were used solely for the Superlaser Mk. II, making it immensely more powerful than the Superlaser Mk. I used on the first Death Star, which had to share its one hypermatter reactor between all the systems aboard it.<ref name="The Essential Guide to Warfare">''[[The Essential Guide to Warfare]]''</ref>
+
+==History==
+===Construction===
+{{Quote|Many Bothans died to bring us this information.|[[Mon Mothma/Legends|Mon Mothma]]|<ref name="Episode VI" />}}
+[[File:DeathStarIIUnderConstruction.jpg|thumb|left|200px|The Death Star II under construction near Endor]]
+The idea for the second Death Star's development originated as one of two possible scenarios by Bevel Lemelisk and the [[Imperial Department of Military Research/Legends|Imperial Department of Military Research]] for further development of the Death Star's development, shortly after the completion of the first Death Star.<ref name="Imperial Handbook">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref> The second Death Star's construction started during the [[Battle of Yavin/Legends|Battle of Yavin]], when Darth Sidious ordered the construction of new superlasers, to which the resources for its construction, including Hyperspace tugs and [[threadship]]s, would be sent from their origin near Sullust to Endor via the [[Silvestri Trace]], an obscure hyperspace route. Ironically, he issued this order shortly before the first Death Star's destruction at the hands of [[Luke Skywalker/Legends|Luke Skywalker]].<ref name="The Essential Guide to Warfare" />
+
+Different from the Empire's first Death Star, which, as a result of supply and design problems, took twenty-one [[Galactic Standard Calendar|years]] to be considered an operational battlestation, this much larger Death Star took far less time to construct. Methods of faster construction had been developed in the years since the original station's conception, added to the fact that Imperial engineers made sure to allocate enough space on the station for the maximum possible amount of self-replicating construction droids.<ref name="Star Wars: Complete Locations" />
+
+The second Death Star's building location remained secret from the Alliance, unlike the first station's construction site at [[Despayre]]. After the initial stages of construction, the station was put under the command of [[Anakin Skywalker/Legends|Darth Vader]] during its relocation to a new construction site in the [[Endor system/Legends|Endor system]]. Endor was selected due to the massive concentration of strategic metals on the planets [[Dor]], [[Eloggi]], and [[Megiddo]] in the system,<ref name="Star Wars Gamer 9">[[Star Wars Gamer 9|''Star Wars Gamer'' 9]]</ref> but the actual construction site was in geosynchronous orbit around the forested Sanctuary Moon, protected by a powerful [[Deflector shield generator/Legends|shield generator]] on the moon's surface.<ref name="Star Wars: Complete Locations" /><ref name="db" /> Its remote status also further reflected the severity of Darth Vader's punishment for his failure at Yavin, due to his being assigned there to oversee the initial construction efforts in the area as well as his being demoted from his position as commander of the primary Imperial fleet.<ref name="Yavin3">[[Star Wars (2013) 3|''Star Wars'' (2013) 3]]</ref>
+
+{{GameMechanics|legends=1|Star Wars: The Interactive Video Board Game}}
+During the journey, Vader diverted the Death Star from its path to eliminate a large Rebel Alliance presence on the planet [[D'rinba IV]]. A Rebel strike team led by [[Corwin Shelvay/Legends|Corwin Shelvay]] was able to prevent the planet's destruction, but was unable to warn the Fleet of the superlaser's operational status in time.<ref name="The Dark Forces Saga">{{Wizards|url=default.asp?x=starwars/article/sw20050407a|series=The Dark Forces Saga|text=Part 1}}</ref>
+{{Endgame}}
+
+[[File:DSII-reactorcore.png|thumb|250px|The Death Star II reactor core shaft.]]
+At the new location of the battlestation, in the [[Moddell sector/Legends|Moddell sector]], construction resumed soon after the superweapon's arrival. Recommissioned from his former position of [[Moff/Legends|Moff]] of the [[Quanta sector/Legends|Quanta sector]], Moff [[Tiaan Jerjerrod/Legends|Tiaan Jerjerrod]] was placed in charge of supervising the final stages of the station's construction.<ref name="Jerjerrod in the Databank">{{DB|character|moffjerjerrod|Jerjerrod, Moff}}</ref>
+
+Resources that could not be produced locally were secretly ferried to the distant world from all over the galaxy along the [[Sanctuary Pipeline/Legends|Sanctuary Pipeline]],<ref name="Geonosis and the Outer Rim Worlds">''[[Geonosis and the Outer Rim Worlds]]''</ref> with some of the materials shipped to the area on three hundred ships from [[Prince/Legends|Prince]] [[Xizor/Legends|Xizor's]] civilian company [[Xizor Transport Systems/Legends|Xizor Transport Systems]]. It is unclear what percentage of construction material the XTS haulers carried, or whether the outsourcing was genuinely necessary. Darth Sidious not only anticipated Xizor's decision to pass on the location of the Death Star II to the Rebel Alliance, but even leaked his personal schedule so the Rebels would know when he would personally be aboard. This may have been the sole reason for his involvement of the [[Falleen/Legends|Falleen]] in the first place.
+
+[[IG-88A/Legends|IG-88A]], a [[Droid/Legends|droid]] [[Bounty hunter/Legends|bounty hunter]], had uploaded his consciousness into a computer core that was in transit to the location of the second Death Star. When the computer core was installed into the battlestation, the entire Death Star effectively became IG-88A's droid body. He took control of the computer systems on board the station, and planned to use the superweapon to further his [[Droid Revolution]]. Although many incidents of computer commands being executed autonomously occurred, they were simply documented as technical faults and glitches. Darth Sidious was the only one to recognize any strange happenings, as IG-88A played a joke on the Emperor by shutting doors in front of him.<ref name="IG-88" />
+
+===Acquiring the Death Star II plans===
+{{Main|Death Star II plans}}
+{{Quote|Everything that has transpired has done so according to my design.|Darth Sidious|<ref name="Episode VI" />}}
+The first bits of information linked to the construction of the second Death Star came by way of Imperial defector [[Commander/Legends|Commander]] [[Zaletta]], hoping to prove his integrity to the Alliance. High on the Imperial command structure, Zaletta had a vast knowledge of secret Imperial projects. He informed the Alliance of a secret Imperial research facility in the [[Kuat system/Legends|Kuat system]] testing a new experimental [[Reactor/Legends|reactor system]], which was likely connected to the Death Star. Next, he informed the Alliance that a massive Imperial convoy was to pass through the [[Eidoloni system/Legends|Eidoloni system]]. It was discovered that the convoy, which consisted of XTS cargo freighters and was protected by a very large escort including the [[Victory II-class Star Destroyer/Legends|''Victory II''-class Star Destroyers]] [[Protector (Victory I-class)|''Protector'']] and [[Vanguard (Victory II-class)|''Vanguard'']], was carrying construction material. The convoy was, unknown to the Alliance at the time, headed for the Death Star II construction site over the forest moon of Endor.<ref name="xwa">''[[Star Wars: X-Wing Alliance]]''</ref>
+
+[[File:Dsiipown.png|thumb|left|250px|The Death Star II's superlaser with eight tributary beams.]]
+Shortly before the [[Battle of Yavin/Legends|Battle of Yavin]], a [[Mistryl Shadow Guard]] team led by [[Manda D'ulin]] was able to steal a prototype section of the second Death Star's superlaser from an Imperial research facility on [[Gorno]]. The model, codenamed [[Hammertong/Legends|Hammertong]], was installed on a [[Strike-class medium cruiser|''Strike''-class medium cruiser]], which [[Shada D'ukal]] and [[Karoly D'ulin]] crash-landed in the [[Dune Sea/Legends|Dune Sea]] on [[Tatooine/Legends|Tatooine]]. Their [[Astromech droid/Legends|astromech droid]], [[D4|Deefour]], containing the technical readouts of Hammertong, was later stolen by a [[Alliance to Restore the Republic/Legends|Rebel Alliance]] member named [[Riij Winward]].<ref name="HTTOTTS">{{StoryCite|story=Hammertong: The Tale of the "Tonnika Sisters"|book=Tales from the Mos Eisley Cantina}}</ref>
+
+The actual plans concerning the existence of the Death Star and its location first came into Rebel hands via the devious scheming of Prince Xizor, under authorization of Darth Sidious. It is uncertain though, if the Emperor did not first concoct a similar plot, and only allowed Xizor to believe it was his own idea in order to use the criminal leader as a pawn. Xizor leaked information of a massive construction project being undertaken by the Empire to the [[Bothan Spynet/Legends|Bothan Spynet]] through a female [[Black Sun/Legends|Black Sun]] contact, which likely was his own personal aide, [[Guri]]. The Bothans first attempted to learn of the details of this project by bribing a high-ranking Imperial officer into allowing them to infiltrate a [[Slicer droid/Legends|slicer droid]] into the [[Coruscant/Legends|Coruscant]] computer network to locate and copy the plans, though this plan failed. They did, however, learn that that project details were being held in closely guarded special computers, of which one of these was being shipped secretly from Coruscant to [[Bothawui/Legends|Bothawui]] disguised as a simple [[Freighter/Legends|freighter]] carrying fertilizer. [[Koth Melan]], a leader of the Bothan Spynet, chose to relay this knowledge to the Alliance for free, rather than sell the information as Bothans were known to do, out of disgust for the execution of his father by the Empire. [[Luke Skywalker/Legends|Luke Skywalker]] and [[Dash Rendar/Legends|Dash Rendar]], along with a group of Bothans with Alliance sympathies, planned to intercept the Imperial freighter Suprosa at Bothawui and steal the secret computer.<ref name="xwa" />
+
+Skywalker, in his personal [[T-65 X-wing starfighter/Legends|X-wing]], and Rendar, in his [[YT-2400 light freighter/Legends|YT-2400 light freighter]] [[Outrider/Legends|''Outrider'']], were joined by a dozen [[BTL-S3 Y-wing starfighter/Legends|BTL-S3 Y-wing starfighters]] piloted by the squad of Bothans and Alliance [[Pilot/Legends|pilot]] [[Ace Azzameen/Legends|Ace Azzameen]]. They successfully [[Raid on the Suprosa|intercepted]] the ''[[Suprosa]]'' as it exited [[Hyperspace/Legends|hyperspace]], but quickly learned that the seemingly defenseless freighter was in fact heavily armed and shielded, and instructed not to surrender its cargo without a fight. The freighter managed to launch a single [[diamond boron missile]], which destroyed four of the Y-wings. Before Skywalker and Azzameen managed to subdue the freighter, six Y-wings were destroyed in total, including all twelve Bothan pilots on board. Rendar then boarded the ''Suprosa'' with a group of Bothans led by Melan to capture the computer. The resistance of the ''Suprosa'' was to ensure that the Alliance did not believe they had acquired the information too easily, thus suspecting it to be compromised. In order to prevent losing the supercomputer to a self-destruction device, Melan took it to the Bothan colony world of [[Kothlis/Legends|Kothlis]] to be decrypted by a special team. Inside a safehouse on Kothlis, Bothan technicians working on the computer had just tapped into its data when a group of bounty hunters blasted into the facility looking for Skywalker, unaware of the computer's existence. A single Bothan managed to escape the safehouse and the planet with the computer along with [[Borsk Fey'lya]] aboard his personal [[Shuttle/Legends|shuttle]], ''[[Fey'lya's Pride]]'', just as Darth Vader and his personal flagship [[Executor/Legends|''Executor'']] arrived in system along with the [[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]] [[Avenger/Legends|''Avenger'']].<ref name="xwa" />
+
+Vader was sent to Kothlis by the Emperor both to collect Skywalker, who was being held prisoner on the planet by the group of bounty hunters, and also to further make it appear as if the Empire was genuinely concerned with the loss of the stolen computer. The shuttle transferred the lone Bothan and the computer with half of the plans to one of two [[CR90 corvette/Legends|CR90 corvettes]] with the name [[Razor (CR90 corvette)|''Razor'']], which was stationed near [[Kothlis II]], a Rebel outpost platform in orbit over the planet. The two Star Destroyers destroyed the Kothlis II facility, but were unable to prevent ''Razor'' and the Death Star plans from escaping into hyperspace. However, the ''Avenger'' soon caught up with and captured the ''Razor'' a short time later, although the Bothan fled desperately with the supercomputer aboard an [[Escape pod/Legends|escape pod]]. The pod was picked up by the civilian [[Dreadnaught-class heavy cruiser/Legends|''Dreadnaught'' cruiser]] [[Mercury (Dreadnaught-class)|''Mercury'']], from which it was transferred to the [[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruiser]] [[Independence/Legends|''Independence'']]. Meanwhile, the other ''Razor'' was entangled in a conflict with the Imperial I Star Destroyer ''Motivator'' over Kothlis, of which the latter was eventually shot down over Kothlis by Rogue Squadron. They then entered Kothlis's atmosphere to retrieve the data from the ''Motivator''{{'s}} wreck. Afterwards, the data was finally secured and decrypted, and the existence of the Death Star realized.<ref name="xwa" /><ref name="SW:RSII:RL">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref> Likewise, a [[Battle of Korriban (Galactic Civil War)|mission to Korriban]] by [[Renegade Squadron/Legends|Renegade Squadron]], where they were to trap Darth Sidious long enough to steal his datapad to find anything useful, revealed that Palpatine was to personally oversee the construction of the Death Star II.<ref name="SWBRS">''[[Star Wars Battlefront: Renegade Squadron]]''</ref>
+
+[[File:Battle_over_Endor.png|thumb|right|250px|The Death Star II in orbit over Endor during the [[Battle of Endor/Legends|Battle of Endor]].]]
+In order to confirm the newly acquired information on the second Death Star, a group of Bothans covertly infiltrated the Death Star II construction site in the Endor system aboard three freighters disguised as cargo haulers. There, they determined that construction was indeed taking place over the Forest Moon of Endor, that the battlestation was being protected by an energy shield projecting from the Sanctuary Moon, and that the Death Star's main superlaser was not yet operational, though this final piece of information would turn out to be false. As these Bothans were returning to rendezvous with the Alliance fleet with their reconnaissance data, they were stopped by the ''Imperial II''-class Star Destroyer [[Emancipator|''Accuser'']] and the [[Immobilizer 418 Interdictor-class Heavy Cruiser|Immobilizer 418 cruiser]] [[Grappler (Immobilizer 418 cruiser)|''Grappler'']] as part of an [[Imperial Office of Customs/Legends|Imperial Customs]] patrol searching for the spies. A flight of X-wings and [[RZ-1 A-wing interceptor/Legends|A-wings]] attached to the Mon Calamari Star Cruiser [[Liberty/Legends|''Liberty'']] arrived and managed to drive off the Interdictor cruiser, allowing one of the Bothan freighters to escape to the Alliance fleet. The remaining two ships were destroyed by the ''Accuser'' and all Bothans aboard were killed. Still, the deaths of many Bothans enabled the Alliance to coordinate the attack that destroyed the second Death Star.<ref name="xwa" />
+
+The Empire eventually utilized the Death Star II as bait for a trap against the Rebel Alliance. They also planned on using the battlestation's superlaser on [[Dac/Legends|Dac]] and [[Chandrila/Legends|Chandrila]] after wiping out the Rebel Alliance at Endor.<ref name="The Essential Guide to Warfare" />
+
+===Battle of Endor===
+{{Main|Battle of Endor/Legends}}
+{{Quote|It's a trap!|Admiral Ackbar during the [[Battle of Endor/Legends|Battle of Endor]]|audio=ItsATrap-ROTJ.flac|<ref name="Episode VI" />}}
+Soon after learning of the secret location of the unfinished second Death Star, the Alliance met secretly at [[Sullust/Legends|Sullust]] and formed battle plans for their assault on the station above the forest moon of Endor. There, the orbiting Death Star was protected from any external attacks by a surrounding energy shield projected from the moon's surface. It would have to be disabled before any forces could engage the battlestation itself.<ref name="Episode VI" />
+
+[[File:Wingless_MC80_toast.png|thumb|left|250px|The Death Star II firing its [[Superlaser/Legends|superlaser]] at a [[Unidentified MC80 Home One type Star Cruiser|Mon Calamari Star Cruiser]] over [[Endor/Legends|Endor]].]]
+With that in mind, the Alliance split their forces into two teams, each with separate goals. A small ground squad, consisting of [[General/Legends|General]] [[Han Solo/Legends|Han Solo]], [[Chewbacca/Legends|Chewbacca]], [[Leia Organa Solo/Legends|Leia Organa]], Luke Skywalker, the droids [[C-3PO/Legends|C-3PO]] and [[R2-D2/Legends|R2-D2]], and numerous other Rebel commandos, was dispatched down to the surface of the forest moon of Endor, with the goal of disabling the energy shield. The Alliance fleet, led by General [[Lando Calrissian/Legends|Lando Calrissian]] piloting the [[Millennium Falcon/Legends|''Millennium Falcon'']], would then arrive to destroy the main reactor of the Death Star from the inside: the Alliance fleet would provide a distraction of sorts, engaging the Imperial fleet, while the Falcon and a small detachment of fighters would fly directly into the station's core and destroy the main [[Hypermatter/Legends|hypermatter]] reactor core.<ref name="Episode VI" />
+
+Eventually, after several ships in the Rebel fleet, including the [[Liberty/Legends|''Liberty'']], the ''[[Urjani]]'', the ''[[Redemption/Legends|Redemption]]'', and an [[Unidentified MC80 Home One type Star Cruiser|MC80 ''Home One'' type Star Cruiser]] were destroyed, the ground team on Endor succeeded in destroying the shield projector, with the help of the indigenous [[Ewok/Legends|Ewoks]], allowing General [[Lando Calrissian/Legends|Lando Calrissian]] and several [[Starfighter/Legends|starfighters]] of the fleet to commence their run on the station's main reactor. The pilots flew through the very tight coolant shaft<ref name="CCG Coolant Shaft">{{CCG|set=Death Star II Limited|cardname=Death Star II: Coolant Shaft}}</ref> and the station's capacitators<ref name="CCG Capacitators">{{CCG|set=Death Star II Limited|cardname=Death Star II: Capacitors}}</ref> to the center of the massive station, and detonated the core with well placed [[Concussion missile/Legends|concussion missiles]], launched by the Falcon, and [[Proton torpedo/Legends|proton torpedoes]] launched from an X-Wing fighter piloted by [[Wedge Antilles/Legends|Wedge Antilles]] targeting the reactor's primary control tower. The projectiles all connected with their targets and the resulting explosion created a reaction which destroyed the space station completely. Just prior to the destruction, a large amount of the non-essential crew underwent an evacuation order.<ref name="Episode VI" />
+
+[[File:Ds2destroyed.png|thumb|right|250px|The second Death Star is destroyed over [[Endor/Legends|Endor]].]]
+The explosion of the station's hypermatter core created a minor [[Wormhole/Legends|wormhole]] at its collapse. Most of the station's wreckage was instantly obliterated,<ref name="Apocalypse Endor">{{Tales|14|Apocalypse Endor}}</ref> though some would pass through said wormhole, including [[Glove of Darth Vader|Darth Vader's right glove]]. While some debris ended up on [[Dac/Legends|Mon Calamari]], it is believed that more was dispersed throughout the galaxy.<ref name="The Glove of Darth Vader">''[[The Glove of Darth Vader]]''</ref> The wreckage that was not destroyed and did not enter the wormhole remained in Endor's orbit or [[Endor disaster|fell to the moon's surface]],<ref name="Star Wars: Complete Locations" /> though most of the wreckage that fell towards the moon was picked up by the Rebels with tractor beams, before it could cause too much damage.<ref name="Apocalypse Endor" />
+
+==Behind the scenes==
+[[File:DeathStarII_egvv.jpg|thumb|left|180px|Death Star II schematics]]
+The Death Star II first appeared in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], the third and final installment of the ''[[Star Wars]]'' [[original trilogy]].<ref name="Episode VI" />
+
+There are discrepancies regarding the size of the Death Star II, which has generated some controversy. The [[West End Games]] [[Star Wars: The Roleplaying Game|RPG]] initially claimed that the second Death Star had a diameter of 160 kilometers. The majority of [[Star Wars Legends|Expanded Universe]] material since then has repeated this number, although the ''[[Inside the Worlds of Star Wars Trilogy]]'' fact book, via detailed scaling of the station in the film and statements by [[Industrial Light & Magic|ILM]] visual effects designer Richard Edlund show that the second Death Star was actually over 900 kilometers in diameter.<ref name="TheForce">{{WebCite|url=http://www.theforce.net/swtc/ds|text=STAR WARS: Death Stars|work=[[TheForce.net]]|archiveurl=https://archive.vn/lPtW8}}</ref> The Official Site's Databank updated its article in 2008 to reflect the higher number.<ref name="db" /> ''[[Star Wars Insider 105]]'' also included this size. However, the ''[[Death Star Owner's Technical Manual]]'' changed the size back to 160 km.
+
+During the running of the [[Marvel Comics]]' ''[[Star Wars (1977)|Star Wars]]'' [[Star Wars comic books|comic book]] series, writer [[David Michelinie]] suggested the Empire to develop a new Death Star. However, knowing that [[George Lucas]] already planned to feature the Death Star in ''Return of the Jedi'', [[Lucasfilm]] stepped in and requested Michelinie to not go ahead with the idea.<ref>{{WebCite|url=https://www.forcecast.net/story/indycast/IndyCast_Episode_138_142195.asp|text=IndyCast: Episode 138|work=[[IndyCast]]|archivedate=20130802112030}}</ref>
+
+If the players do not win the [[Star Wars: The Interactive Video Board Game|Interactive Video Board Game]], Darth Vader destroys D'rinba IV. However, since the in-game objective is to prevent him from doing so, the outcome due to failure results in an apocryphal version of events as regards canon.
+
+==Appearances==
+{{ScrollBox|content=
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*''[[Purge – Seconds to Die]]'' {{Vision|[[Sha Koon]]}}
+*{{StoryCite|story=Therefore I Am: The Tale of IG-88|book=Tales of the Bounty Hunters}}
+*[[Death Star (novel)|''Death Star'']] {{Imo}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{Po}}
+*{{StoryCite|story=Hammertong: The Tale of the "Tonnika Sisters"|book=Tales from the Mos Eisley Cantina}} {{Ab|Hammertong (audiobook)}} {{Mo}}
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*''[[Choices of One]]''
+*{{WEGCite|story=Tales of the Smoking Blaster|book=Star Wars Gamemaster Handbook|stext=Tales of the ''Smoking Blaster''}} {{Mo}}
+*{{WEGCite|story=In the Emperor's Service|book=Shadows of the Empire Sourcebook}} {{Imo}}
+*''[[Star Wars Galaxies: The Ruins of Dantooine]]'' {{Imo}}
+*{{GalaxiesNGE}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 51|''Star Wars'' (1977) 51]] {{Reprint|Star Wars (1977) 51}} {{Mo}}
+*''[[Star Wars Adventures: The Will of Darth Vader]]'' {{Mo}}
+*''[[Star Wars: The Interactive Video Board Game]]''
+*''[[Star Wars: Demolition]]'' {{Nc}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire Galoob minicomic|''Star Wars: Shadows of the Empire'' Galoob minicomic]] {{Imo}}
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]] {{Mo}}
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]] {{Mo}}
+*[[Star Wars: Shadows of the Empire (junior novelization)|''Star Wars: Shadows of the Empire'' junior novelization]] {{Mo}}
+*[[Star Wars: Shadows of the Empire Ertl minicomic|''Star Wars: Shadows of the Empire'' Ertl minicomic]] {{Imo}}
+*''[[The Life and Legend of Obi-Wan Kenobi]]''
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Star Wars (1977) 77|''Star Wars'' (1977) 77]] {{Reprint|Star Wars (1977) 77}} {{Imo}}
+*[[Star Wars (1977) 80|''Star Wars'' (1977) 80]] {{Reprint|Star Wars (1977) 80}} {{Imo}}
+*''[[The Rise and Fall of Darth Vader]]''
+*{{RJRadio|Tatooine Haunts}} {{Imo}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}} {{1st|in book}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*[[Return of the Jedi 1|''Return of the Jedi'' 1]] {{Reprint|Return of the Jedi 1}}
+*[[Return of the Jedi 2|''Return of the Jedi'' 2]] {{Reprint|Return of the Jedi 2}}
+*{{RJRadio|Prophecies and Destinies}}
+*[[Mara Jade – By the Emperor's Hand 2|''Mara Jade – By the Emperor's Hand'' 2]]
+*{{WEGCite|story=The Passage From Perdition|book=Mos Eisley Adventure Set}} {{Mo}}
+*''[[Slave Ship]]'' {{Mo}}
+*''[[Hard Merchandise]]'' {{Mo}}
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*{{StoryCite|story=One Last Night in the Mos Eisley Cantina: The Tale of the Wolfman and the Lamproid|book=Tales from the Mos Eisley Cantina}}
+*[[The Ewoks Join the Fight (storybook)|''The Ewoks Join the Fight'' storybook]]
+*{{RJRadio|So Turns a Galaxy, So Turns a Wheel}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*{{RJRadio|Blood of a Jedi}}
+*''[[The Truce at Bakura]]'' {{Mo}}
+*[[Star Wars (1977) 81|''Star Wars'' (1977) 81]] {{Reprint|Star Wars (1977) 81}} {{Mo}}
+*[[Star Wars (1977) 82|''Star Wars'' (1977) 82]] {{Reprint|Star Wars (1977) 82}} {{Imo}}
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]] {{Wreck}}
+*[[Star Wars (1977) 98|''Star Wars'' (1977) 98]] {{Reprint|Star Wars (1977) 98}} {{Mo}}
+*{{Tales|23|Lucky (comic story)}} {{Mo}}
+*''[[X-Wing Rogue Squadron Special]]'' {{Flash}}
+*[[X-Wing Rogue Squadron 1|''X-Wing Rogue Squadron'' 1]] {{Flash}}
+*[[X-Wing Rogue Squadron 2|''X-Wing Rogue Squadron'' 2]] {{Mo}}
+*[[X-Wing Rogue Squadron 5|''X-Wing Rogue Squadron'' 5]] {{Mo}}
+*[[X-Wing Rogue Squadron 7|''X-Wing Rogue Squadron'' 7]] {{Mo}}
+*''[[A New Hope: The Life of Luke Skywalker]]'' {{Ab|A New Hope: The Life of Luke Skywalker (audiobook)}} {{Mo}}
+*{{GamerCite|2|A Credit for Your Thoughts}} {{Mo}}
+*{{JournalCite|1|Escape from Balis-Baurgh|reprint=1}} {{Mo}}
+*[[X-Wing Rogue Squadron 9|''X-Wing Rogue Squadron'' 9]] {{C|as tally marking}}
+*[[Star Tours (real-world)|''Star Tours'']] {{Nc}}
+*[[X-Wing Rogue Squadron 13|''X-Wing Rogue Squadron'' 13]] {{Flash}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]] {{Flash}}
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Wreck}} {{Flash}}
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]] {{Imo}}
+*[[X-Wing Rogue Squadron 33|''X-Wing Rogue Squadron'' 33]] {{Imo}}
+*{{Tales|22|Marooned}} {{Mo}}
+*''[[The Glove of Darth Vader]]'' {{Mo}}
+*''[[The Lost City of the Jedi]]'' {{Mo}}
+*''[[Luke Skywalker and the Shadows of Mindor]]'' {{Mo}}
+*{{WEGCite|story=Free Time|book=The Politics of Contraband|reprint=1}}
+*{{WEGCite|story=Freedom Strike Seltos (adventure)|book=Twin Stars of Kira (sourcebook)}} {{Mo}}
+*{{JournalCite|7|Missed Chance|reprint=1}} {{Mo}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}} {{Hologram}}
+*{{JournalCite|4|Starter's Tale}} {{Flash}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}} {{Mo}}
+*{{StoryCite|story=Hutt and Seek|book=Tales from the New Republic}} {{Mo}}
+*{{WEGCite|story=A Grand Admiral Returns|book=Heir to the Empire Sourcebook|reprint=1}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{Mo}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{Wreck}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Isard's Revenge]]'' {{Mo}}
+*''[[Jedi Search]]'' {{Mo}}
+*''[[Champions of the Force]]'' {{Mo}}
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Before the Storm]]'' {{Mo}}
+*''[[Tyrant's Test]]'' {{Mo}}
+*''[[Assault at Selonia]]'' {{Mo}}
+*''[[Young Jedi Knights: The Lost Ones]]'' {{Mo}}
+*''[[Young Jedi Knights: Jedi Under Siege]]'' {{Mo}}
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]'' {{Mo}}
+*''[[The New Jedi Order: Dark Tide II: Ruin]]'' {{Mo}}
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]'' {{Mo}}
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]'' {{Mo}}
+*''[[The New Jedi Order: Force Heretic II: Refugee]]'' {{Mo}}
+*''[[The New Jedi Order: The Unifying Force]]'' {{Mo}}
+*{{Tales|14|Apocalypse Endor}} {{Wreck}} {{Flash}}
+*''[[Legacy of the Force: Betrayal]]'' {{Mo}}
+*''[[Legacy of the Force: Fury]]'' {{Wreck}}
+}}
+
+===Non-canon appearances===
+{{Mediacat|imagecat=Images of Death Star II}}
+*<!-- 2001-12-12 -->{{Tales|10|A Wookiee Scorned!}} {{Mo}}
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+*<!-- 2006-03-29 -->''[[The Return of Tag & Bink: Special Edition]]''
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2012-11-08 -->''[[Angry Birds Star Wars]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1983-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (Max Rebo)|''Star Wars: Return of the Jedi Coloring Book'' (Max Rebo)]] {{Po}}
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1984-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (1984)|''Star Wars: Return of the Jedi Coloring Book'' (1984)]] {{Po}}
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']] {{Po}}
+*<!-- 1987-10-XX -->{{LucasFanClubCite|1|Star Wars: Ten Year Tribute|''Star Wars'': Ten Year Tribute}} {{Po}}
+*<!-- 1989-XX-XX -->''[[Battle for Endor]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-01-XX -->''[[Galaxy Guide 7: Mos Eisley]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]''
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-06-XX -->''[[Star Wars Miniatures Battles Companion]]''
+*<!-- 1994-08-XX -->{{JournalCite|3|The Pentastar Alignment|reprint=1}}
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1995-06-XX -->''[[Classic Campaigns]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+<!-- 1996-09-XX -->{{CardGameSet|set={{Topps|set=1996 Topps Star Wars: Shadows of the Empire|parent=1}}|cards=
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Dash Aboard the ''Suprosa''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC097.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Dash's Persuasive Charm|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC032.jpg}} {{Imo}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Xizor Greets Vader|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC006.jpg}}
+}}
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]]
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1996-XX-XX -->{{Galoob|set=Micro Machines|pack=''Shadows of the Empire'' Collection III|link=soteMM3.asp}}
+*<!-- 1996-XX-XX -->{{KennerCite|set=Star Wars: Shadows of the Empire (toy line)|pack=Darth Vader vs. Prince Xizor|link=soteKxizor-vader.asp}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=Death Star II}}
+*<!-- 1997-09-XX -->{{Kids1997Cite|4|Meet...|Meet Wedge!}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-12-XX -->{{Kids1997Cite|6|Star Wars Kids Feature Planet|Feature Planet: Endor}}
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+*<!-- 1998-11-XX -->{{CCG|set=Enhanced Premiere|cardname=Luke With Lightsaber}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Bothan Spy}}
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]'' {{Imo}}
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 1999-06-30 -->{{CardGameSet|set={{CCG|set=Endor Limited|parent=1}}|cards=
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Early Warning Network}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Fly Casual}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Ominous Rumors}}
+}}
+*<!-- 2000-01-03 -->{{InsiderCite|47|In the Star Wars Universe|In the ''Star Wars'' Universe: Mike Quinn}}
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Admiral Chiraneau}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Anakin Skywalker}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=B-wing Attack Squadron}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Captain Godherdt}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Captain Jonus}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Captain Sarkli}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Colonel Davod Jon}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Combat Response}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Concussion Missiles (Light)}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II: Capacitors}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II: Coolant Shaft}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II: Docking Bay}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II: Reactor Core}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II: Throne Room}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Desperate Counter}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=DS-181-3}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=DS-181-4}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Emperor's Power}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Endor Shield}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Fighters Coming In}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Gray Squadron 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Head Back To The Surface}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Imperial Command}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Lieutenant Endicott}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Lieutenant Hebsly}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Lord Vader}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Major Mianda}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Major Rhymer}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Menace Fades}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Mobilization Points}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Moff Jerjerrod}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Obsidian 10}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Operational As Planned}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Overseeing It Personally}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Prepared Defenses}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Red Squadron 4}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Red Squadron 7}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Rise, My Friend}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Royal Escort}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Saber 3}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scimitar 2}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scythe 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scythe 3}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scythe Squadron TIE}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Something Special Planned For Them}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Superlaser Mark II}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=The Emperor's Shield}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=The Emperor's Sword}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=The Time For Our Attack Has Come}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=TIE Interceptor}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-04-03 -->[[The Essential Guide to Alien Species (real-world book)|''The Essential Guide to Alien Species'']]
+<!-- 2001-05-11 -->{{CardGameSet|set={{CCG|set=Tatooine Limited|parent=1}}|cards=
+*<!-- 2001-05-11 -->{{CCG|set=Tatooine Limited|cardname=End Of A Reign}}
+*<!-- 2001-05-11 -->{{CCG|set=Tatooine Limited|cardname=We Shall Double Our Efforts!}}
+}}
+*<!-- 2001-08-02 -->''[[The Dark Side Sourcebook]]''
+*<!-- 2001-08-07 -->[[Galactic Phrase Book & Travel Guide (real-life book)|''Galactic Phrase Book & Travel Guide'']]
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=You Cannot Hide Forever & Mobilization Points}}
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Diversionary Tactics}}
+*<!-- 2001-10-XX -->''[[Alien Anthology]]''
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2003-03-04 -->{{InsiderCite|66|Who's Who: Imperial Grand Admirals}}
+*<!-- 2003-06-12 -->{{Wizards|url=default.asp?x=starwars/article/sw20030612arbra2|series=Arbra: Sanctuary In the Storm|text=Part 2: Judge Him Not By His Size}}
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*<!-- 2004-06-10 -->''[[Ultimate Adversaries]]''
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+*<!-- 2004-09-30 -->{{Wizards|url=default.asp?x=starwars/article/sw20040930bespinmain|text=Bespin: Action Tidings|int=Bespin: Action Tidings}}
+<!-- 2004-10-06 -->{{CardGameSet|set={{TCG|set=Return of the Jedi|parent=1}}|cards=
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Death Star II (A)}}
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Death Star II (B)}}
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Mixed Battlegroup}}
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Reactor Core}}
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Throne Room}}
+}}
+*<!-- 2004-12-16 -->{{Wizards|url=default.asp?x=starwars/article/sw20041216b|text=Furry and Fury}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]''
+*<!-- 2005-04-07 -->{{Wizards|url=default.asp?x=starwars/article/sw20050407a|series=The Dark Forces Saga|text=Part 1}}
+*<!-- 2005-06-22 -->{{Blog|holocron|7|Death Star timeline}}
+*<!-- 2005-08-04 -->{{Wizards|url=default.asp?x=swminis/article/universepreview8|text=''Universe'' Preview 8}}
+*<!-- 2005-10-06 -->''[[Star Wars: The Ultimate Visual Guide]]''
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-11-27 -->[[Jedi vs. Sith: The Essential Guide to the Force (real-life book)|''Jedi vs. Sith: The Essential Guide to the Force'']]
+*<!-- 2008-01-04 -->{{SWArchive|url=eu/lit/ref/f20080104/indexp3.html|text=Checklist: 10 ''Star Wars'' Superweapons - Death Star II}}
+*<!-- 2008-02-18 -->''[[Star Wars: Epic Battles]]''
+*<!-- 2008-03-18 -->''[[Fate of the Jedi: Dramatis Personae]]''
+*<!-- 2008-06-17 -->{{InsiderCite|102|Classic Moment|Classic Moment: The Emperor Taunts Luke}}
+*<!-- 2008-11-04 -->[[Star Wars Insider 105|''Star Wars Insider'' 105]]
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-01 -->{{Hyperspace|url=fans/hyperspace/source/feature20081201.html|text=Castaways of Endor|int=Castaways of Endor}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-08-18 -->''[[The Essential Atlas]]''
+*<!-- 2009-09-XX -->''[[Star Wars: Spaceships]]'' {{Po}}
+*<!-- 2009-11-20 -->{{Hyperspace|url=fans/hyperspace/source/nagai11202009/index.html|text=The Forgotten War: The Nagai and the Tofs|int=The Forgotten War: The Nagai and the Tofs}}
+*<!-- 2009-12-15 -->{{SWGTCG|set=The Nightsister's Revenge|cardname=Emperor's Spire}}
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+*<!-- 2010-02-21 -->{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=Rebuild the Death Star}}
+*<!-- 2010-03-30 -->{{Wizards|url=default.asp?x=starwars/article/Mesop5|text=Message to Spacers 5}}
+*<!-- 2010-11-01 -->''[[Star Wars Art: Visions]]''
+*<!-- 2011-09-13 -->{{DB|location|deathstarii|Death Star II}}
+*<!-- 2011-09-13 -->{{DB|character|janusgreejatus|Greejatus, Janus}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2011-12-13 -->{{InsiderCite|130|A Certain Point of View|A Certain Point of View: Family Tradition|reprint=1}}
+*<!-- 2012-02-20 -->''[[Star Wars: Beware the Sith]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-04-30 -->''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]''
+*<!-- 2012-10-02 -->''[[The Essential Reader's Companion]]''
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Imperial Command|link=core/imperial-command-core-26-1}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Emperor's Web|link=core/the-emperors-web-core-23-1}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=X-Wing Escort|link=core/x-wing-escort-core-12-3}} {{Po}}
+}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Arvel Crynyd}} {{Po}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Alpha Squadron Pilot}} {{Po}}
+*<!-- 2013-03-14 -->{{FFGTCG|set=The Desolation of Hoth|cardname=Wedge Antilles|link=the-hoth-cycle/the-desolation-of-hoth/wedge-antilles-the-desolation-of-hoth-38-2}} {{Po}} {{Hologram}}
+*<!-- 2013-06-13 -->{{SW|url=news/the-droids-re-animated-part-1|series=The Droids Re-Animated|text=Part 1|nolive=1}}
+<!-- 2013-09-04 -->{{CardGameSet|set={{ForceCollection|parent=1}}|cards=
+*<!-- 2013-09-04 -->{{ForceCollection|Emperor's Royal Guard}} {{Po}}
+*<!-- 2013-09-04 -->{{ForceCollection|Lando Calrissian}}
+*<!-- 2013-09-04 -->{{ForceCollection|Darth Vader|star=5}} {{Po}}
+*<!-- 2013-09-04 -->{{ForceCollection|Han Solo|star=5}} {{Imo}}
+}}
+*<!-- 2013-12-12 -->''[[Star Wars: Sith Wars]]''
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Admiral Piett|link=balance-of-the-force/admiral-piett-balance-of-the-force-d01-38}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Along the Sanctuary Pipeline|link=balance-of-the-force/along-the-sanctuary-pipeline-balance-of-the-force-d01-3}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Blue Leader|link=balance-of-the-force/blue-leader-balance-of-the-force-92-2}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Death Star Guards|link=balance-of-the-force/death-star-guards-balance-of-the-force-d01-18}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Death Star II|link=balance-of-the-force/death-star-ii-balance-of-the-force-d01-1}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fully Armed|link=balance-of-the-force/fully-armed-balance-of-the-force-d01-56}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Heightened Security|link=balance-of-the-force/heightened-security-balance-of-the-force-d01-4}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Lemelisk's Ambition|link=balance-of-the-force/lemelisks-ambition-balance-of-the-force-d01-2}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Mission at Kothlis|link=balance-of-the-force/mission-at-kothlis-balance-of-the-force-l01}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=TIE Interceptor|link=balance-of-the-force/tie-interceptor-balance-of-the-force-d01-23}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=We Shall Double Our Efforts|link=balance-of-the-force/we-shall-double-our-efforts-balance-of-the-force-d01-52}} {{Po}}
+}}
+*<!-- 2014-04-15 -->[[Star Wars Magazine 1 (2014)|''Star Wars Magazine'' 1]]
+*<!-- 2014-04-25 -->{{SWE|characters|ackbar|Ackbar}}
+*<!-- 2014-04-25 -->{{SWE|technology|deathstar|Death Star}}
+*<!-- 2014-04-25 -->{{SWE|technology|imperialshuttle|Imperial shuttle}}
+*<!-- 2014-04-25 -->{{SWE|characters|landocalrissian|Lando Calrissian}}
+*<!-- 2014-04-25 -->{{SWE|technology|moncalcruiser|Mon Calamari star cruiser}}
+*<!-- 2014-04-25 -->{{SWE|characters|niennunb|Nien Nunb}}
+*<!-- 2014-04-25 -->{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=I Am a Jedi|link=between-the-shadows/i-am-a-jedi-r1143}} {{Po}}
+*<!-- 2015-01-06 -->{{BuildFalconCite|1|Starship Fact File}}
+*<!-- 2015-06-18 -->[[Star Wars: Force and Destiny Beginner Game|''Star Wars: Force and Destiny'' Beginner Game]] {{Po}}
+*<!-- 2015-09-22 -->{{InsiderCite|issue1=160|issue2=161|The Return of the Jedi Archives of James Kahn|''The Return of the Jedi'' Archives of James Kahn}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2015-12-17 -->''[[Keeping the Peace]]''
+*<!-- 2021-06-15 -->{{HasbroCite|set=Star Wars: The Black Series|pack=Luke Skywalker & Ysalamiri|altlink=https://www.gamestop.com/toys-collectibles/collectibles/figures/products/star-wars-luke-skywalker-with-ysalamiri-the-black-series-lucasfilm-50th-anniversary-action-figure/11113850.html}}
+}}
+
+===Non-canon sources===
+*<!-- 1982-XX-XX -->''[[Return of the Ewok]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WebCite|url=https://www.stardestroyer.net/Empire/Tech/Beam/DeathStar.html|text=Michael Wong's analysis of Death Star I firepower|archivedate=20010712033437}}
+*{{WebCite|url=https://www.theforce.net/swtc/ds|text=Star Wars Technical Commentaries - Death Stars|archivedate=20231227153438}}
+
+{{Interlang
+|cs=Hvězda Smrti II
+|de=Zweiter Todesstern
+|es=Estrella de la Muerte II
+|fr=Étoile de la Mort/Légendes
+|it=Morte Nera II
+|hu=Második Halálcsillag
+|nl=Death Star II
+|ja=第2デス・スター
+|pl=Druga Gwiazda Śmierci/Legendy
+|pt=Estrela da Morte II
+|fi=Kuolemantähti II
+}}
+
+[[Category:Death Stars]]
+[[Category:Galactic Empire space stations]]
+[[Category:Imperial Department of Military Research products]]
+
+{{RelatedCategories
+|[[Category:Death Star II locations]]
+}}

@@ -1,0 +1,83 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=Dedicated energy receptor
+|manufacturer=
+|model=
+|type=[[Sensor/Legends|Sensor]]<ref name="SWS">''[[The Star Wars Sourcebook]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''dedicated energy receptor''' ('''DER''') was a passive [[Sensor/Legends|sensor]] designed to detect any electromagnetic emission within range. They were the primary passive sensor used in military [[Sensor array/Legends|sensor arrays]]. The array was capable of picking up emissions from varied sources, including [[Comlink/Legends|comlink]] transmissions, [[Navigational beacon/Legends|navigational beacons]], heat, and [[Laser/Legends|laser]] light.<ref name="SWS" />
+
+The effectiveness of the dedicated energy receptor was down to the skill of the individual or [[Computer/Legends|computer]] operating it. The sensor processed a large amount of information, and interpreting the data correctly was vital. A poor operator could mistake a stray cosmic ray for a communication signal, while an expert operator could filter through static to discover [[Starship/Legends|starships]] trying to sneak by the sensor.<ref name="SWS" />
+
+A DER concentrated its scanning in a narrow, focused beam and is intended to gather detailed, specific information on a previously detected target. Because of its narrow focus, a DER was of little use in early threat detection.
+
+DERs were commonly found in the sensor suites of most military starships, including [[Alliance to Restore the Republic/Legends|Rebel Alliance]] [[Starfighter/Legends|starfighters]] and [[Imperial I-class Star Destroyer/Legends|Imperial Star Destroyers]].
+
+Dr. [[Lucien]] wished to install them in infiltration [[Droid/Legends|droids]].
+
+[[Galactic Empire/Legends|Imperial]] [[Torpedo Sphere/Legends|Torpedo Spheres]] utilized thousands of DER devices to find and target weak spots in a planetary shield, by tracking down anomalies and fluctuations in the shields.
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-02-XX -->{{JournalCite|5|A Buyer's Guide to Alternative Starships}}
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Field Guide: Slicing Aids}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Hyperwave Scan}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Droid Sensorscope}}
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 2006-06-07 -->''[[Star Wars Omnibus: X-Wing Rogue Squadron Volume 1]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Communications sensors]]
+[[Category:Droid sensors]]
+[[Category:Emplacement sensors]]
+[[Category:General purpose sensors]]
+[[Category:General starship components]]
+[[Category:Starship sensors]]
