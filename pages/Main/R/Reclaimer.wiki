@@ -1,0 +1,73 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:Reclaimer.jpg]]
+|name=''Reclaimer''
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Customized space vehicle<ref name="GoA:V2">{{WEGCite|book=Classic Adventures: Volume Two|story=Graveyard of Alderaan}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=22.5 [[Meter/Legends|meters]]<ref name="GoA:V2" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=750 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GoA:V2" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 1]]<ref name="GoA">''[[Graveyard of Alderaan]]''</ref>
+*[[Backup hyperdrive|Class 15]]<ref name="GoA:V2" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="GoA" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Heavy [[Laser cannon/Legends|laser cannon]]<ref name="GoA" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="GoA" />
+|skeleton=
+|passengers=4<ref name="GoA" />
+|capacity=75 [[Metric ton/Legends|metric tons]], 30 [[Cubic meter/Legends|cubic meters]]<ref name="GoA" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="GoA" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=Personal transport<ref name="GoA" />
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Vog Salvage, Inc.]]<ref name="GoA" />
+|navy=
+|fleet=
+|owners=[[Belinda Vog]]<ref name="GoA" />
+|captains=Belinda Vog<ref name="GoA" />
+|registry=
+|aliases=
+}}
+The '''''Reclaimer''''' was a customized salvage [[Starship/Legends|ship]] of [[Belinda Vog]]. It carried two crew, four passengers, 75 metric tons of cargo, and 1 month's consumables. It had a class 1 [[Hyperdrive/Legends|hyperdrive]] and a class 15 backup. It could fly 750 kmh in [[Atmosphere/Legends|atmosphere]] and had a [[Navigation computer/Legends|nav computer]]. It was equipped with [[Deflector shield/Legends|shields]] as well as a heavy [[Laser cannon/Legends|laser cannon]].
+
+==Appearances==
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Reclaimer
+}}
+
+[[Category:Transports]]
