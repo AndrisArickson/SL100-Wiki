@@ -1,0 +1,365 @@
+**Materials Reference**
+
+### Availability:
+
+|  | Outpost | Spaceport | City | Megopolis |
+| --- | --- | --- | --- | --- |
+| Common | In Stock | In Stock | In Stock | In Stock |
+| Uncommon | 60% | 90% | In Stock | In Stock |
+| Scarce | 30% | 60% | 90% | In Stock |
+| Rare | 15% | 30% | 60% | 75% |
+| Exotic | Not Stocked | 5% | 20% | 40% |
+| Unique | Not Stocked | Not Stocked | Not Stocked | Not Stocked |
+
+(old to new)
+
+- **Village → "Outpost"&#32;**
+
+Examples: A waystation, asteroid mining outpost, a small frontier settlement, a cluster of homesteads and a cantina. Anchorhead on Tatooine (a dusty moisture-farmer outpost) 200 - 5,000 people
+
+- **Town → "Spaceport"**
+
+Examples: A Settlement with a spaceport, bigger, with a landing field, market, and a rougher crowd; the local hub people travel to. Mos Eisley / Mos Espa on Tatooine. 5,000 - 50,000 people
+
+- **City → "City"**
+
+Examples: A proper urban centre with districts, industry, and government like Theed on Naboo, or Bestine. Has a local government 100,000 - 2 million people
+
+- **Megopolis City World** 
+
+Examples: A city-world / city-planet, urban surface pole to pole like Coruscant, Corellia. 100 million people or more
+
+
+**Encumbrance points:** used for Weight in the tables below. (not kg)
+
+**Resist**: damage reduction against lightsabers
+
+**Armour Points**: damage reduction against blasters and non lightsaber weapons
+
+**LIGHTEST MATERIALS - Common**
+
+| **Material** | **Armour Points - Resist** | **Weight** | **Properties** | **Scarcity** | **Extra Info** |
+| --- | --- | --- | --- | --- | --- |
+| Natural Cloth | 0 - 0 | 0 | Treatment | Common | Gungan weave |
+| Synthetic Cloth | 0 - 0 | 0 | Treatment | Common | tomuon cloth or muunyak-wool<br/><br/>or Coarseweave ie Jedi Robes |
+| Natural Hide | 1 - 0 | 1 |  | Common | Rancor Hide |
+| Armourweave | 2 - 1 | 1 | Flexible | Common |  |
+| Verpine fiber ultramesh | 1 - 1 (3 - 3 charged) | 1 | Flexible / +1 resist | Uncommon | costs 12k credits<br/><br/>Hardened when charged  |
+
+**LIGHTEST MATERIALS (Scarce -> Unique)**
+
+| **Material** | **Armour Points - Resist** | **Weight** | **Properties** | **Scarcity** | **Extra Info** |
+| --- | --- | --- | --- | --- | --- |
+| Shadowsilk | 0 - 0 | 0 | Treatment | Rare |  |
+| Umbraspider silk  | 0 - 0 | 0 | Treatment | Unique | From a single world |
+| Mabari steelweave | 1 - 2 | 1 | Flexible | Unique | Single world |
+| Molytex / quantum fiber | 3 - 3 | 1 | Flexible, Vaccum | Unique | A.K.A Laminanium |
+| Cortosis Weave | 0 - 3 | 1 | Treatment | Exotic |  |
+
+**Non armoured fabrics**
+
+- **Coarseweave** is an ordinary clothing fabric, a plain woven textile used to make everyday garments across the galaxy — no protective or combat properties: 65 credits 
+- **Shadowsilk** — flat-black fibre that absorbs light and sound; the basis of the shadowsuit (stealth rather than heavy protection). A synthetic silk, engineered by the chemists of Ayelixe/Krongbing Textiles by studying the light-bending fur of the Defel species, rather than sourcing umbraspider silk directly. Because shadowsilk was manufactured rather than harvested from a rare creature, it could be mass-produced, and a commercial product — Ayelixe/Krongbing brought shadowsuits made from it to market before 22 BBY at 600 credits, which is fairly affordable for specialist stealth gear (cheaper than the 2,500-credit Sakiyan shadowsuit or the 8,000-credit mimetic suit). Shadowsilk existed for stealth/infiltration use (light- and sound-absorbing), so its buyers were a narrow market — special forces, spies, infiltrators — not the general public. Uncommon in everyday terms and tied to a niche use, but commercially manufactured and reasonably priced
+- **Umbraspider silk** - best in class: made by the Sakiyan species. A scarce, specialist material, a natural product spun by umbraspiders, not synthesized in a factory — so supply depends on harvesting the spiders' webs rather than industrial production.
+
+**Armoured fabrics (increasing rarity)**
+
+- General "**Armorweave**" (AP 2 - R 1) is the flagship armoured cloth; dissipates blaster bolts and offers limited lightsaber resistance while staying flexible like normal clothing (real-world analogue: Kevlar). Used for Vader's cape, Grievous's and the MagnaGuards' garments, Serenno nobility capes, and the bodysuit under Mandalorian armour. 
+- **Mabari armorweave / Mabari steelweave** (AP 1 - R 2) — a variant with strong protection against energy weapons, weaker against kinetic/physical damage. Mabari armorweave was relatively scarce, prized equipment - specialist rather than mass-market.
+    - It originated with the **Mabari**, an ancient warrior order from the planet Zolan (home of the Clawdite species) that survived until the last decades of the Republic. Members of the order traditionally wore it, and it was tied to their rank system (they awarded clasps signifying rank).
+    - By the time of the **Galactic Civil War** it had passed out of the order's exclusive use and was **mainly worn by mercenaries** — so it was around, but as niche professional gear, not standard-issue
+- **Molytex / quantum fiber&#32;**— (AP 3 - R 3) layered together in the armored jumpsuits, blast-proof vests, body armour, and techstaffs. Its most notable property, though, is what it becomes when combined with quantum fiber.
+    - Quantum fiber is a synthetic armour fibre that, when layered alternately with molytex, forms laminanium — the near-impenetrable armour material famous for plating the YVH-series battle droids. The alternating-layer construction is what makes the composite so tough.
+    - In practice — the armored jumpsuit: The New Jedi Order-era Myrkr strike team (the mission to kill the voxyn queen) wore lightweight armored jumpsuits lined with this same molytex/quantum-fiber layering. That lining gave the suits remarkable protection for their weight:
+        - absorbed heavy physical impacts (wearers shrugged off thud-bug hits with a flinch; only the hardest blows caused broken bones rather than cuts)
+        - withstood tremendous heat
+        - resisted slashing — deflected voxyn claws and razor-bug strikes
+        - could still be punctured by amphistaffs (the Yuuzhan Vong's living weapons)
+        - doubled as a vacsuit: it could be sealed airtight for vacuum
+    - So the relationship is: molytex (a base military material) + quantum fiber (a synthetic fibre) → laminanium (the finished composite armour), used both as rigid droid plating and as a flexible garment lining.
+- **Verpine fiber ultramesh&#32;**— (AP 3 - R 3) high-end mesh that looks like ordinary cloth until an electrical charge is run through it, then stiffens into medium armour; can be tailored from full suits to lightweight jumpsuits. - The techniques for making ultramesh were a carefully-guarded secret among the Verpine for millennia, as the manufacturing technique could be applied to other materials, making them substantially lighter and more durable; the [Mando-Verpine Assault Fighter](https://starwars.fandom.com/wiki/Bes%27uliik "Bes'uliik") jointly developed by [MandalMotors](https://starwars.fandom.com/wiki/MandalMotors "MandalMotors") and the Verpine of [Roche Industries](https://starwars.fandom.com/wiki/Roche_Hive_Mechanical_Apparatus_Design_and_Construction_Activity_for_Those_Who_Need_the_Hive%27s_Machines/Legends "Roche Hive Mechanical Apparatus Design and Construction Activity for Those Who Need the Hive's Machines/Legends") being one notable example. Despite this secrecy, the Verpine exported fiber mesh and ultramesh armor for centuries, making it a relatively common sight throughout the galaxy.
+
+**METAL ALLOYS - Common**
+
+| **Material** | **Armour Points - Resist** | **Weight** | **Properties** | **Scarcity** | **Extra Info** |
+| --- | --- | --- | --- | --- | --- |
+| Steel | 3 - 0 | 2 |  | Common | Everywhere |
+| Transparisteel | 3 - 0 | 2 | Transparent alloy used for viewports and canopies | Common | All spacefaring species.<br/><br/>Replaces glass in virtually all vehicles and structures |
+| Durasteel | 4  | 2 | Standard structural metal; strong but not lightsaber-resistant | Common galaxy-wide | All spacefaring species<br/><br/>Backbone of starship and construction industry |
+| Carbonite | 4 - 4 | 10 | Preserves organic matter in suspended animation; used in freight too | Common industrial material | Hutts, bounty hunters, general galaxy<br/><br/>Used to freeze Han Solo; also standard ore-freight medium |
+| Agrinium | 1 - 4 | 1 | Lightweight reflective metal; heat and radiation resistant | Common | Miners, military engineers<br/><br/>Used in radiation suits and shielding |
+| Bondite | 5 - 0 | 3 | Used in restraints and binders; extremely strong tensile strength | Common | Bounty hunters, Imperial forces, police forces galaxy-wide<br/><br/>Standard material for stun cuffs and prisoner restraints |
+
+**Special Material note**
+
+**Cortosis, Phrik, and Beskar** are the three main lightsaber-blocking metals — each rare, each with different ownership (Sith, Separatists, Mandalorians respectively)
+
+**METALS ALLOYS** **(Scarce -> Unique)**
+
+| **Material** | **Armour Points - Resist** | **Weight** | **Properties** | **Scarcity** | **Extra Info** |
+| --- | --- | --- | --- | --- | --- |
+| Quadanium steel | 5 - Resist 1 | 2 | extremely durable  high-stress military surfaces. | Scarce | 30 credits a unit |
+| Cortosis | 0 - Resist 3 | 2 | Lightsaber-resistant; short-circuits blades on contact; conducts electricity dangerously | Rare; found on Apatros, Bal'demnic, Haruun Kal | Humans (miners), Yuuzhan Vong aware, Sith exploited heavily<br/><br/>Weaved into armour and weapons by Sith during the Old Republic era |
+| Beskar (Mandalorian Iron) | 6 - Resist 6 | 3 | Nearly indestructible; resists lightsaber strikes; Force-neutral<br/> | Unique; mined exclusively on Mandalore and Concordia | Mandalorians exclusively (cultural and genetic heritage); occasionally traded to outsiders<br/><br/>Made only by specially trained Armourers<br/><br/>Considered sacred by Mandalorians; lost ore caches are major plot drivers |
+| Chromium | 0 - Resist 3 | 1 | Plating | Exotic, used in hyperdrives | Royal house of Naboo used this as a starship plating<br/><br/>Used as Currency |
+| Phrik | 5 - Resist 5 | 1 | Lightsaber-resistant alloy; extremely durable | Exotic; found on Al’Har system | Confederacy of Independent Systems, Sith; General Grievous’s electrostaffs made of it<br/><br/>One of few non-Force materials that can block a lightsaber |
+| Laminanium | 3 - 3 | 2 | Self-repairing metal used in Mon Calamari ship hulls<br/><br/>Vacuum | Unique; Mon Cal proprietary | Mon Calamari exclusively<br/><br/>Hulls slowly regenerate minor damage |
+| Neuranium | 15 - 10 | 20 | One of the densest and hardest substances known; used in vault doors and reactor shielding | Scarce | Imperial engineers, high-security vault builders<br/><br/>Too heavy for most practical armour use |
+| Alchemical Sith Steel | 3 - Resist 3 |  | Forged via Sith alchemy; resists lightsabers; Force-imbued<br/> | Unique; Sith knowledge only | Sith Lords, dark side practitioners<br/><br/>Used to create weapons, armour, and artefacts by ancient Sith |
+| Songsteel | 4 - Resist 5 | 1 | Extremely light weight, brittle against blunt/kinetic hits and brutally time consuming to forge | Exotic; Sourced from the Asteroid remains of Oblis | Framed as a duelist/Jedi-Sith artisan material rather than military-grade, with commissions taking months rather than being bought outright. Mostly using in melee weapons, armour pieces are incredibly rare |
+
+**Agrinium**
+
+- Radiation-resistant metal used to shield/insulate electronics and droids; a niche defensive metal which naturally resists radiation and electromagnetic effects. Rather than being a structural material, it's used as insulation — a protective layer wrapped around sensitive electronics and droid systems so they keep working in high-radiation environments or through electromagnetic assaults. You don't build a hull out of it, you line the vulnerable parts with it
+- Example: shielded chassis of droids working near reactors or in high-radiation mining sites
+- Origin/maker: worked into tech by manufacturers such as BlasTech and Czerka Corporation
+- [Agrinium — Wookieepedia](https://starwars.fandom.com/wiki/Agrinium), [Agrinium Mesh — Star Wars RP: Chaos](https://www.starwarsrp.net/threads/agrinium-mesh.101236/)
+
+**Alchemical Sith Steel**
+
+- An ordinary Metal forged through Sith alchemy, dark-side-imbued and lightsaber-resistant; 
+- Example: a Sith sword (as wielded by early Sith Lords) Sith Lords forged blades that were unnaturally hard and able to turn aside a lightsaber.
+- Origin/maker: forged by Sith alchemists and Sith Lords, associated with the Sith homeworld Korriban
+- [Sith alchemy — Wookieepedia](https://starwars.fandom.com/wiki/Sith_alchemy/Legends)
+
+**Beskar (Mandalorian Iron)**
+
+- Exceptionally durable ore; resists lightsaber strikes and blaster fire; it can turn aside lightsaber strikes and blaster fire. Deceptively light — during forging, carbon forms a molecular framework that keeps beskar lighter than you'd expect for its toughness
+- Depending on how it's alloyed and processed, beskar can be shaped into solid plates, laminates, wire, mesh, micronized particles, or even a transparent film.
+- A distinctive "voice" — struck beskar gives a deep, muted sound rather than the high ring of durasteel, a tell that smiths and warriors recognize. The real secret isn't just the ore, it's the working of it. Mandalorian forging techniques were closely guarded and passed down within the culture for generations
+- Example: Mandalorian crusader armor, traditional beskad sword, kal knives, crushgaunts, and even lightsaber hilts. It scaled up, too — micronized beskar armored Mandalorian starfighters like the Bes'uliik,
+- Origin/maker: mined on Mandalore and its moon Concordia, forged by Mandalorian smiths; is the material at the heart of Mandalorian identity, and arguably the toughest practical armor metal in the galaxy. It was exported by Mandalore as one of their primary exports.
+- [Mandalorian iron — Wookieepedia](https://starwars.fandom.com/wiki/Mandalorian_iron/Legends)
+
+**Bondite**
+
+- Durable metal used for construction and crafted plating
+- Example: scavenged hull/structural plating reworked in the Old Republic era
+- Origin/maker: scavenged on worlds such as Balmorra, Taris, Hoth and Quesh
+- [Bondite — Wookieepedia](https://starwars.fandom.com/wiki/Bondite)
+
+**Carbonite**
+
+- Alloy used for carbon-freezing — encasing objects, perishables or beings for transport or hibernation
+- Carbonite starts as a liquid derived from frozen tibana gas/carbon gas that can be flash-frozen into a solid metal block. Its defining trick is stasis — whatever's sealed inside is held frozen and unchanging until it's thawed. 
+- Its stasis properties were reportedly discovered by scientists from Koros Major, and the payoff was huge: sleeper ships carrying hibernating crews could replace slow generation ships, so a voyage no longer needed people to live and die aboard across centuries. As hyperdrive technology matured and trips got short, that medical-stasis use faded, but carbonite stuck around for industry and, less savorily, crime.
+- Example: sleeper ships carrying hibernating crews, encasing perishable goods for long journeys, bounty hunter prisoner transport ie the carbonite slab encasing Han Solo on Cloud City
+- Origin/maker: processed from mined ore; carbon-freezing famously done at Cloud City on Bespin
+- [Carbonite — Wookieepedia](https://starwars.fandom.com/wiki/Carbonite/Legends)
+
+**Chromium**
+
+- Reflective, silvered mirror finish corrosion-resistant coating of metal; 
+- Extracted from one of Naboo's moons, so the source itself was limited
+- It was classed as "a scarce and precious metal element" — valuable enough that it could be used as currency
+- Not reserved by law so much as by cost and custom; It wasn't forbidden to commoners, though. Its expense was the real gatekeeper, and non-royals with means still used it: 
+- Example: the mirror finish of Queen Amidala's Naboo Royal Starship, Captain Phasma's armor was coated in chromium salvaged from Palpatine's old yacht, Lando Calrissian owned chromium-plated blasters, and C-3PO's plating had a chromium finish
+- Origin/maker: applied by the Theed Palace Space Vessel Engineering Corps on Naboo
+- [Chromium — Wookieepedia](https://starwars.fandom.com/wiki/Chromium)
+
+**Durasteel**
+
+- The galaxy's workhorse structural alloy — tougher and lighter than steel, refined descendant of steel that's dramatically tougher, outperforming even common titanium alloys.
+- Properties: resists kinetic impacts and vibro-weapons; briefly withstands a lightsaber
+- Source: manufactured from zersium ore, mined on Nag Ubdur
+- Cost: \~75 credits per unit around 3 ABY
+- Example: starship hulls, blast doors, buildings, vehicle armor, Vader's helmet composite, the Millennium Falcon's plating, Imperial Star Destroyer hull plating
+- Origin/maker: manufactured galaxy-wide; no single world of origin
+- [Durasteel — Wookieepedia](https://starwars.fandom.com/wiki/Durasteel/Legends)
+
+**Laminanium**
+
+- Self-healing metal composite that flows to seal breaches; a "living armor" alloy that repairs its own battle damage. Its trick is that it can melt and re-solidify at room temperature, so when a plate is breached, the metal flows back into the wound and seals it shut, restoring the armor without any repair crew or downtime.
+- Example: the self-repairing armor of YVH battle droids, shielding armored computer cores and droid outer shells where continuous integrity matters
+- Origin/maker: used by Tendrando Arms (Lando Calrissian's droid company) in its YVH line
+- [Laminanium — Wookieepedia](https://starwars.fandom.com/wiki/Laminanium/Legends)
+
+**Neuranium**
+
+- Extremely dense metal; blocks radiation and sensor scans even in thin layers; a dark, extraordinarily dense metal, and its density is its superpower: even a thin layer blocks sensor scans and radiation, so anything sealed behind it becomes invisible to detection gear.
+- Example: a solid neuranium statue used to conceal what sits behind it from scanners
+- Origin/maker: rare and costly; favored by the wealthy and powerful for statuary (e.g. on Coruscant), lightsaber components, proton-bomb reaction containment
+- [Neuranium — Wookieepedia](https://starwars.fandom.com/wiki/Neuranium/Legends)
+
+**Phrik**
+
+- Rare, extremely hard alloy that diffuses lightsaber energy, can parry
+- Example: the electrostaff of an IG-100 MagnaGuard from Baktoid Armor Workshop; Sith lightsabers, Darth Sidious forged a pair of phrik-hilted lightsabers
+- Heavy war machines — the exoskeleton/armor of the fearsome Phase III Dark Trooper used phrik
+- Origin/maker: refined from mined phrik ore; MagnaGuards built by Holowan Mechanicals; 
+- Mined in limited quantities — sources include Tatooine (the Arkanis sector, e.g. the Mos Algo mine) and the world Gromas in the Perkell sector
+- [Phrik — Wookieepedia](https://starwars.fandom.com/wiki/Phrik)
+
+**Quadanium (Quadanium Steel)**
+
+- High-strength alloy tougher than durasteel, prized for a high strength-to-weight ratio; is one of the galaxy's premium high-strength alloys 
+- Example: the solar-collector wing panels of a TIE fighter, Heavy hull plating on the Death Star's armored hull plating and Weapons and defense hardware: casings and structure of laser cannons, ion and proton weapons, cluster missiles, and deflector-shield components, where structural integrity under stress matters
+- Origin/maker: mass-produced for Imperial hardware (TIE series and Death Star hull plating); no single world of origin
+- [Quadanium steel — Wookieepedia](https://starwars.fandom.com/wiki/Quadanium_steel)
+
+**Steel**
+
+- Basic iron-carbon alloy, largely obsolete in galactic technology; Plain steel is the galaxy's legacy metal — the ancestor that durasteel refined into obsolescence. It still saw use, but in a setting full of superior alloys it's distinctly lower tier.
+- Example: primitive melee weapons and tools on low-technology worlds
+- Origin/maker: smelted across countless worlds; no single source
+- [Steel — Wookieepedia](https://starwars.fandom.com/wiki/Steel)
+
+**Tibanna Gas**
+
+- Bespin-mined gas, "spin-sealed" to amplify weapon energy output; One of the most strategically valuable substances in the galaxy. Highly reactive and explosive, it's mined from the atmosphere of the gas giant Bespin, which is the entire reason Cloud City exists.
+- Killer use: "spin-sealed" tibanna amplifies energy output, charging weapons from starship cannons to handheld blasters
+- Other uses: coolant in hyperdrives and repulsorlifts; even breathed by some species
+- Example: the gas charge in a DL-44 heavy blaster pistol
+- Origin/maker: mined from the atmosphere of Bespin by the Bespin Mining Corporation (Cloud City)
+- [Tibanna gas — Wookieepedia](https://starwars.fandom.com/wiki/Tibanna_gas/Legends)
+
+**Transparisteel**
+
+- Transparent material nearly as strong as durasteel; Where you need to survive a vacuum, a micrometeorite, or a blaster bolt. Transparisteel is a transparent alloy engineered to be nearly as strong as durasteel while staying clear enough to look through
+- Example: cockpit canopies, viewports, windows of expensive buildings, ie the eye lenses of Vader's helmet
+- Origin/maker: manufactured galaxy-wide for viewports and canopies; no single world of origin; manufactured from lommite ore, refined and processed rather than found transparent in naturem, Production is industrial-scale enough to have dedicated plants — the Xartun transparisteel factory is one named example
+- Around 3 ABY it sold for roughly 70 credits per unit, widely available on worlds like Tatooine, Akiva, and Kijimi
+- [Transparisteel — Wookieepedia](https://starwars.fandom.com/wiki/Transparisteel/Legends)
+
+**Gaseous Materials**
+
+| **Material** | **Properties** | **Scarcity** | **Extra Info** |
+| --- | --- | --- | --- |
+| Blaster Gases | Conductive | Uncommon to rare<br/><br/>quality blaster gas was scarce enough to smuggle | Critical to galactic weapons economy<br/><br/>Eleton, orveth, prothium, sig, skevon, and tolium and Tibanna Gas |
+| Toxic & chemical-weapon gases | deadly nerve gas | Rare | Fex-M3: a fast-acting, deadly nerve gas<br/><br/>Trihexalophine1138<br/><br/>Dioxis |
+| Industrial gases |  | Common | Tibanna Gas, Hyperdrive fuel gases (Clouzon-36)<br/> |
+
+**Weapon / blaster gases** — the plasma in a blaster bolt starts as gas fed through the weapon's chambers; the gas type sets the bolt's color, density, and power.
+
+- The six most common blaster gases: eleton, orveth, prothium, sig, skevon, and tolium
+- Tibanna is the premium example — "spin-sealed" tibanna from Bespin dramatically boosts energy output, used in everything from hand blasters to starship cannons
+- Harvested commercially (e.g. by Blethern Gas Industries) from worlds like Bespin, Yavin, and Taloraan; on gas-poor worlds like Tatooine, quality blaster gas was scarce enough to smuggle
+
+**Industrial gases** — what moves ships and cools their drives,volatile gases used to make weapons hit harder or freeze targets..
+
+- Tibanna doubles as a coolant/conductor in hyperdrives and repulsorlifts
+- Hyperdrive fuel gases (Clouzon-36 is one named misty hyperfuel) power the jump to lightspeed
+- Various reactor and coolant gases keep engines and power plants from cooking themselves
+- Nergon-14: a cryogenic accelerant packed into proton torpedoes and some explosives to intensify the blast
+
+**Toxic & chemical-weapon gases**
+
+- Fex-M3: a fast-acting, deadly nerve gas
+- Trihexalophine1138: a toxic industrial gas (stored, notoriously, at Cloud City)
+- Plus a range of nerve toxins, knockout/anesthetic, and sleeping gases used by militaries and criminals alike
+
+| **Material** | **Armour Points - Resist** | **Weight** | **Properties** | **Scarcity** | **Extra Info** |
+| --- | --- | --- | --- | --- | --- |
+| Alchemical Sith Steel | 3 - Resist 3 |  | Forged via Sith alchemy; resists lightsabers; Force-imbued<br/> | Unique; Sith knowledge only | Sith Lords, dark side practitioners<br/><br/>Used to create weapons, armour, and artefacts by ancient Sith |
+
+**Crystal Weight - 0 Encumbrance Points**
+
+**All Crystals are Exotic**
+
+| **CRYSTALS** | **Properties** | **Known Species / Groups** | **Notes** |
+| --- | --- | --- | --- |
+| Kyber Crystal | Force-attuned; focuses energy into lightsaber blade; resonates with the Force | Jedi (primarily), Sith (corrupted ‘bled’ red crystals) | Each Jedi bonds to their crystal through the Force; Sith crystals crack and turn red |
+| Krayt Dragon Pearl | Naturally formed inside krayt dragons; Force-resonant; used in lightsabers | Tusken Raiders (ritualistic knowledge), Jedi, Sith | Highly prized; some Force users preferred them over kyber |
+| Adegan Crystal (Mephite / Pontite) | Lightsaber crystal variants; Pontite emits calming Force energy; Mephite is standard | Jedi Order | Pontite crystals were used by Jedi healers specifically |
+| Corusca Gem | Hardest substance in the galaxy; forms in Yavin’s gas giant core; can cut through durasteel | Lando Calrissian (GemDiver Station), gem traders | Used as cutting tools and in jewellery by the ultra-wealthy |
+| Barab Ore Ingot | Stores solar energy; releases it as intense heat/radiation burst when struck | Barabel species (homeworld miners) | Lizard-like Barabels use it in weapons; short-duration energy burst makes it dangerous in combat |
+| Sugilite | Rare crystal; Force-sensitive; used in some Jedi and Sith artefacts | Jedi archivists, Sith | Minor lightsaber crystal variant |
+| Galvyn Crystal | Found on Galvyn; used in early holocron construction | Ancient Jedi, Sith | Historical; mostly found in museums or hidden vaults |
+| Firkrann Crystal | Lightsaber crystal; blade electrocutes on contact | Dark Jedi, Sith | Particularly cruel in combat; leaves burn/shock wounds |
+| Damind Crystal | Increases lightsaber blade precision and power | Jedi, Sith | Preferred by duelists who favour precision over power |
+| Opila Crystal | Strengthens blade and increases damage output | Jedi, Sith | Combat-focused crystal; popular among Jedi Guardians |
+| Nextor Crystal | Creates an unstable but more powerful blade | Dark Jedi primarily | The instability makes it risky; favoured by aggressive combatants |
+| Lambent Crystal | Bioluminescent Yuuzhan Vong crystal; Force-sensitive despite Vong origin paradox | harvested from Yuuzhan Vong space | Jacen Solo (most notable user), some Jedi who fought the Vong. Anakin Solo’s and later Jacen’s lightsaber crystal; the blade could detect nearby Yuuzhan Vong |
+
+**One of a kind**
+
+| **CRYSTALS** | **Properties** | **Known Species / Groups** | **Notes** |
+| --- | --- | --- | --- |
+| Kaiburr Crystal | Amplifies Force ability dramatically (100x near Mimban); shrinks when removed from Mimban | Ancient Mimban priests, Jedi, Sith who sought it | Featured in *Splinter of the Mind’s Eye*; Vader sought it |
+
+
+| **ORGANIC BIOLOGICAL MATERIALS** | **Properties** | **Weight** | **Scarcity** | **Known Species / Groups** | **Notes** |
+| --- | --- | --- | --- | --- | --- |
+| Bacta | Liquid healing agent; accelerates tissue regeneration dramatically |  | Common  | Vratix (creators/farmers), Humans (Thyferran companies control supply), galaxy-wide use. (manufactured on Thyferra) | The Vratix insect species discovered and cultivate it; humans seized economic control |
+| Kolto | Earlier healing liquid; less effective than bacta; from Manaan oceans |  | Rare;  | Selkath (native guardians), Republic-era medics, tied to Manaan | Pre-dates bacta; Selkath controlled all supply and used it as political leverage |
+| Spice glitterstim | Psychoactive; glitterstim briefly grants telepathy;  | 100 credits is 10g (1 dose) | Rare | Illegal <br/><br/>Narcotic<br/><br/>Hutts (trade), Pyke Syndicate (Kessel spice), humans, various species | Glitterstim is the most dangerous and valuable; exposure to light destroys it<br/><br/>Invented during the cold war 3640 BBY |
+| Spice, ryll | Psychoactive;  ryll is medicinal | 10 credits is 10g (1 dose) | common | Sometimes legal; if sold for medicine and licenced. Legal to produce but only sold when licenced<br/><br/>Narcotic<br/><br/>Hutts (trade), Pyke Syndicate (Kessel spice), humans, various species | Mined on Ryloth, and Nals 3; a real medicine that's also widely abused, common enough that it doesn't command premium prices. |
+| Spice, andris | Psychoactive; | 200 credit is 10g (1 dose) | uncommon | Legal<br/><br/>Hutts (trade), Pyke Syndicate (Kessel spice), humans, various species | prized as a food enhancer and preservative, and — notably — as a treatment for hibernation sickness, the disorientation and illness suffered by beings coming out of carbon-freeze or stasis |
+
+**Spice - Glitterstim**
+
+The king of spices, the most potent and sought-after variety, and the one that made Kessel infamous. Among the most expensive substances in the galaxy
+
+- Properties: grants the user brief telepathic/mind-reading ability and heightened perception, plus intense euphoria; extremely addictive and can turn lethal with prolonged use. It's also photosensitive, it must be harvested and stored in total darkness, because exposure to light activates and then ruins it (which is why it ships in lightproof packaging)
+- Source: the spice mines of Kessel, where miners worked in pitch black at risk of losing fingers to the razor-sharp mineral or being killed by the energy spiders that spin it
+- Examples of use: Han Solo's infamous Kessel runs hauled glitterstim for Jabba; combined with ryll it forms "glitteryll," a memory-wiping cocktail used to erase the minds of Jedi Quinlan Vos and Aayla Secura
+
+**Spice - Ryll**
+
+The everyday spice, milder, cheaper, and unusual in that it has a legitimate side.
+
+- Properties: a psychoactive narcotic noticeably weaker than glitterstim, but also genuinely useful where refined ryll has medicinal and scientific applications, so it isn't purely a street drug
+- Source: mined chiefly on Ryloth, the homeworld of the Twi'leks, and closely tied to their people and economy
+- Examples of use: legitimate medicine on one hand; illicit narcotic sold in places like the shantytown Traitor's Remorse on the other; and as the base that, mixed with glitterstim, becomes memory-wiping glitteryll
+
+**Spice - Andris**
+
+Barely a "drug" at all, more a valuable commodity with practical uses.
+
+- Properties: prized as a food enhancer and preservative, and as a treatment for hibernation sickness, the disorientation and illness suffered by beings coming out of carbon-freeze or stasis
+- Source: extracted from Seylott and from Empress Teta and its moon Atale, deep in the galaxy's Deep Core
+- Examples of use: seasoning and preserving food; dosed to spacers recovering from hibernation sickness after long journeys in stasis
+
+| **ORGANIC BIOLOGICAL MATERIALS** | **Properties** | **Weight** | **Scarcity** | **Known Species / Groups** | **Notes** |
+| --- | --- | --- | --- | --- | --- |
+| Vonduun Crab Armour | Living armour grown from Vonduun crabs; resists lightsabers; Force-‘empty’ |  | Exotic; Yuuzhan Vong biological tech only | Yuuzhan Vong exclusively | As living organisms, the Yuuzhan Vong exist outside the Force; armour shares this trait, making it lightsaber-resistant and Force-‘invisible’ |
+| Amphistaff | Living weapon (serpent); can harden to staff, form a whip, or spit venom |  | Exotic; Yuuzhan Vong biological tech | Yuuzhan Vong warriors exclusively | The primary weapon of Yuuzhan Vong warriors; also shares Force-invisibility |
+| Ooglith Masquer | Living disguise organism; moulds to wearer’s body to mimic another species |  | Exotic; Yuuzhan Vong biological tech | Yuuzhan Vong spies, shapers | Used for infiltration; painful to wear; biologically bonded to user |
+| Silenth Pelt / Cowl | Muffles the Force presence of the wearer; used to hide from Force-sensitives |  | Exotic | Sith assassins, dark side cults; Anzati hunters | Force-dampening cloak made from organic hide |
+| Ysalamiri | Bubble of Force-nullification; Force cannot be used within their radius |  | Scarce; native to Myrkr, (tissue/field, not armour) | Noghri, Grand Admiral Thrawn (weaponised use), smugglers near Myrkr | Thrawn famously used them to counter Jedi; they project a Force-null bubble \~10m |
+| Mnemite | Neural parasite; feeds on memory and intelligence |  | Rare; found near Dorin | Baran Do sages (Kel Dor), Sith bio-alchemists | Weaponised by Sith; victims suffer progressive memory loss |
+| Neuroparalytic Venom  | Paralytic toxin; harvested from creatures like the Nexu or Gornt |  | Rare; creature-dependent (various species) | Bounty hunters, Zeltron chemists, assassins | Used in darts and poisons; some variants bypass standard medical treatment |
+| Rancor Hide Armour | Extremely tough; blaster-resistant to a degree; heavy |  | Rare; rancors are difficult to kill and found on Dathomir, Nal Hutta, Felucia<br/><br/>Native to Dathomir | Dathomirian Witches (Nightsisters), Hutt-world slavers, big game hunters | Heavy but strong; Nightsisters used it for ritual armour |
+| Drexl Leather | Tough hide from Drexl flying predators of Onderon |  | Rare; Onderon/Dxun-specific | Onderonians, Beast Riders of Onderon | Used in armour and saddles by the Beast Riders |
+
+**Camouflage and concealment systems&#32;**
+
+Camouflage and concealment systems in Star Wars Legends fall into a few families:
+
+**Starship cloaking devices** — the top tier. These generate a field that absorbs incoming sensor scans while masking the ship's own emissions, rendering it invisible to sensors and the naked eye. Two crystal/ore technologies power them:
+
+- *Stygium* — the superior type, using crystals mined on Aeten II. Efficient (you can still see out while cloaked), but the accessible crystal reserves were depleted around the Battle of Yavin, making new stygium cloaks nearly impossible to build. The TIE Phantom used a Mk. III stygium cloak.
+- *Hibridium* — the Empire's fallback ore from Garos IV. Crude by comparison: it caused "double blindness" (the cloaked crew was blind to the outside galaxy too) and became dangerously unstable in hyperspace, often destroying the ship.
+
+**Personal stealth gear** — belt-worn or wearable systems:
+
+- *Stealth field generator* (personal cloaking device) — bends light around the wearer and dampens sound; hard to detect but not true invisibility. Modern versions add optical camouflage, EM dampers, acoustic bafflers, and thermal shielding.
+- *Stealth suit* — full-body concealment using optical camo, silhouette breakers, thermal sinks, and sound deadeners.
+- *Mimetic suit* — a high-end stealth suit combining optical camouflage with EM/heat shielding and sound bafflers, rendering the user nearly invisible to both eyes and sensors.
+- *Cloaking coat / camouflage suit* — simpler garment-based versions.
+
+**Sensor countermeasures** — don't hide you visually, just electronically:
+
+- *Sensor jammer* — floods an area with static to blind local sensors; downside is it's indiscriminate (jams friendlies too) and broadcasts your general location.
+- *Sensor mask* — a subtler device that makes a ship harder to detect (e.g. 4-LOM and Zuckuss's *Mist Hunter*).
+
+**Starship cloaking devices**
+
+- Full ship-mounted cloaking device: millions of credits (scales with device size) — the top-tier, price-prohibitive option
+
+**Personal cloaking (stealth field generators)**
+
+- Old Republic era: 5,000 credits
+- Rebellion era (genuine Old Republic antiques): 20,000 credits
+- Rebellion era (restricted recreations): 3,800 credits
+
+**Stealth / camouflage suits**
+
+- Shadowsuit: 600 credits
+- CX-2000 holographic ghillie suit: 800 credits
+- Sakiyan shadowsuit: 2,500 credits
+- Mimetic suit: 8,000 credits (used by law enforcement, intelligence agencies, criminals)
+
+**Sensor countermeasures**
+
+- BlindSide Sensor Jammer: 5,000 credits plus installation

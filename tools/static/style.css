@@ -30,3 +30,4 @@ blockquote.tquote{border-left:4px solid var(--accent);margin:10px 0;padding:4px 
 textarea{width:100%;min-height:62vh;font:14px/1.45 ui-monospace,Menlo,Consolas,monospace;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:10px}
 .preview{border:2px dashed var(--accent);padding:6px 18px 18px;margin-bottom:14px}ul.cols{columns:3 240px}
 @media(max-width:800px){.wrap{flex-direction:column}nav{width:auto}.infobox{float:none;width:100%;margin:0 0 12px}}
+span.unlinked{color:inherit;cursor:default}

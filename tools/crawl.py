@@ -51,6 +51,29 @@ def release_lock():
 
 
 # -------------------------------------------------------------------- discover
+def cmd_topup(con):
+    """Cheap incremental discovery: newest category members first; stop once a whole page is already known."""
+    cat = CFG["legends_category"]
+    cont, new = None, 0
+    while not should_stop():
+        p = dict(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmprop="ids|title|type|timestamp",
+                 cmtype="page", cmsort="timestamp", cmdir="desc")
+        if cont:
+            p["cmcontinue"] = cont
+        r = api(**p)
+        mem = r["query"]["categorymembers"]
+        known = {t for (t,) in con.execute("SELECT title FROM pages WHERE title IN (%s)" % ",".join("?" * len(mem)), [m["title"] for m in mem])} if mem else set()
+        rows = [(m["title"], m["pageid"], m["ns"], "listed", 100) for m in mem if m["title"] not in known]
+        con.executemany("INSERT OR IGNORE INTO pages(title,pageid,ns,status,priority) VALUES(?,?,?,?,?)", rows)
+        con.commit()
+        new += len(rows)
+        log("topup: %d new so far (%d known on this page)" % (new, len(known)))
+        cont = r.get("continue", {}).get("cmcontinue")
+        if not cont or not rows:
+            break
+    log("topup: %d new Legends pages queued" % new)
+
+
 def cmd_discover(con):
     cat = CFG["legends_category"]
     cont = state_get(con, "discover_cont")
@@ -324,7 +347,7 @@ def main():
     acquire_lock()
     try:
         steps = {"all": ["discover", "prioritize", "fetch", "images", "placeholders", "export"],
-                 "discover": ["discover"], "prioritize": ["prioritize"], "fetch": ["fetch"],
+                 "discover": ["discover"], "topup": ["topup", "fetch", "images", "placeholders", "export"], "prioritize": ["prioritize"], "fetch": ["fetch"],
                  "images": ["images"], "placeholders": ["placeholders"]}.get(cmd)
         if not steps:
             sys.exit("unknown command " + cmd)
@@ -337,6 +360,8 @@ def main():
                 log("=== %s ===" % s)
                 if s == "discover":
                     cmd_discover(con)
+                elif s == "topup":
+                    cmd_topup(con)
                 elif s == "prioritize":
                     cmd_prioritize(con)
                 elif s == "fetch":

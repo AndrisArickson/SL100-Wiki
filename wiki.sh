@@ -9,6 +9,8 @@ LOG=data/logs/crawl.log
 running() { [ -f data/crawl.lock ] && kill -0 "$(cat data/crawl.lock 2>/dev/null)" 2>/dev/null; }
 
 case "${1:-help}" in
+  topup)      # add newly tagged Legends pages (cheap), then fetch + images + export
+    "$PY" tools/crawl.py topup ;;
   start)      # full harvest in the background (resumable; safe to run again)
     if running; then echo "Already running (pid $(cat data/crawl.lock))."; exit 0; fi
     shift; nohup "$PY" tools/crawl.py all "$@" >> "$LOG" 2>&1 &

@@ -19,6 +19,8 @@ HIDDEN_TEMPLATES = {"top", "bottom", "otheruses", "multipleissues", "interlang",
                     "dablink", "about", "for", "distinguish", "redirect", "notnc", "inuse", "delete"}
 HIDDEN_PREFIXES = ("top|", "interlang", "otheruses", "multipleissues", "sources", "cleanup")
 BLOCK_TOKEN_START = ("<table", "<div", "<figure", "<ul class=\"gallery", "<blockquote", "<pre", "<ol", "<ul", "<h")
+FANDOM_URL = re.compile(r"^(?:https?:)?//[a-z0-9.-]*starwars\.(?:fandom|wikia)\.(?:com|org)/", re.I)
+OWN_PREFIXES = ("SL100:", "SL100 ", "User:", "Talk:", "Help:", "Project:")   # our own space: red links invite new pages
 INTERWIKI = {"w": "https://community.fandom.com/wiki/", "wikipedia": "https://en.wikipedia.org/wiki/",
              "wikt": "https://en.wiktionary.org/wiki/", "commons": "https://commons.wikimedia.org/wiki/",
              "c": "https://community.fandom.com/wiki/", "w:c:starwars": "https://starwars.fandom.com/wiki/"}
@@ -293,10 +295,15 @@ class Renderer:
             return ""
         if pre in ("file", "image") and not forced:
             return self.tok(self.render_file(target.split(":", 1)[1], parts[1:]))
+        if re.match(r"(?:w|c):(?:c:)?starwars:", target, re.I):          # interwiki back to the live Wookieepedia
+            lab = parts[1] if len(parts) > 1 else target.split(":")[-1].replace("_", " ")
+            return self.tok('<span class="unlinked" title="Wookieepedia link removed">%s</span>' % self.fmt(lab + trail))
         for iw, base in INTERWIKI.items():
             if target.lower().startswith(iw + ":") and iw in ("w", "wikipedia", "wikt", "commons", "c"):
                 url = base + urllib.parse.quote(target.split(":", 1)[1].strip().replace(" ", "_"), safe="/:()'")
                 label = parts[1] if len(parts) > 1 else target.split(":")[-1]
+                if "fandom.com" in base and iw in ("w", "c"):
+                    pass
                 return self.tok('<a class="ext" href="%s" rel="nofollow">%s</a>' % (url, self.fmt(label + trail)))
         base_t, _, frag = target.partition("#")
         norm = re.sub(r"\s+", " ", base_t.replace("_", " ")).strip()
@@ -312,6 +319,13 @@ class Renderer:
         label = self.fmt(label + trail)
         if not norm:                               # section link on same page
             return self.tok('<a href="#%s">%s</a>' % (_html.escape(slug(frag), quote=True), label))
+        if not self.exists(norm):
+            # Legends-only wiki: prefer the /Legends version of a title; never link out to pages we do not hold
+            alt = norm if norm.endswith("/Legends") else norm + "/Legends"
+            if self.exists(alt):
+                norm = alt
+            elif not norm.startswith(OWN_PREFIXES):
+                return self.tok('<span class="unlinked" title="Not in this Legends wiki">%s</span>' % label)
         href = wiki_href(norm) + ("#" + urllib.parse.quote(slug(frag)) if frag else "")
         cls = "" if self.exists(norm) else ' class="new"'
         return self.tok('<a href="%s"%s title="%s">%s</a>' % (href, cls, _html.escape(norm, quote=True), label))
@@ -559,10 +573,12 @@ class Renderer:
                 url = "https:" + url
             label = m.group(2)
             lab = self.fmt(label) if label else "[link]"
+            if FANDOM_URL.search(url):
+                return self.tok('<span class="unlinked" title="External Wookieepedia link removed">%s</span>' % lab)
             return self.tok('<a class="ext" href="%s" rel="nofollow">%s</a>' % (_html.escape(url, quote=True), lab))
         s = re.sub(r"\[((?:https?:)?//[^\s\]\x00]+)(?:\s+([^\]]*))?\]", br, s)
         s = re.sub(r"(?<![\"'=>\x00\w])(https?://[^\s<>\]\x00\"]+)",
-                   lambda m: self.tok('<a class="ext" href="%s" rel="nofollow">%s</a>' %
+                   lambda m: self.tok('<span class="unlinked">%s</span>' % _html.escape(m.group(1))) if FANDOM_URL.search(m.group(1)) else self.tok('<a class="ext" href="%s" rel="nofollow">%s</a>' %
                                       (_html.escape(m.group(1), quote=True), _html.escape(m.group(1)))), s)
         return s
 
