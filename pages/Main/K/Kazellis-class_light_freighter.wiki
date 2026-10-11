@@ -1,0 +1,91 @@
+{{Top|leg|title=''Kazellis''-class light freighter}}
+{{StarshipClass
+|image=[[File:TheClaw.png]]
+|name=''Kazellis''-class light freighter
+|designer=
+|manufacturer=[[Kazellis Corporation]]<ref name="SAV">[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]</ref><ref name="SS">''[[Stock Ships]]''</ref>
+|line=
+|model=
+|type=[[Light freighter/Legends|Light freighter]]<ref name="SAV" /><ref name="SS" />
+|cost=50,000 [[Galactic Credit Standard/Legends|credits]] {{C|23,000 used}}<ref name="SAV" />
+|modifier=
+|sysmods=
+|length=28 [[Meter/Legends|meters]]<ref name="SS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1000 [[Kilometer per hour/Legends|km/h]]<ref name="SAV" /><ref name="SS" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2 {{C|Backup class 12}}<ref name="SAV" /><ref name="SS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SS" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="SAV" /><ref name="SS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Quad [[Laser cannon/Legends|laser cannons]]<ref name="SAV" /><ref name="SS" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="SAV" /><ref name="SS" />
+|skeleton=
+|passengers=3<ref name="SAV" /><ref name="SS" />
+|capacity=100 tons<ref name="SAV" /><ref name="SS" />
+|cargohandling=
+|consumables=2 months<ref name="SAV" /><ref name="SS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="SAV" />
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Kazellis''-class light freighter''' was a [[Freighter/Legends|freighter]] manufactured and produced by the [[Kazellis Corporation]].
+
+==Characteristics==
+The Kazellis was a sleek and elegant flying wing design that had a number of advanced systems built into the stock model, foremost being an advanced [[Ion engine/Legends|drive system]] that gave it a sharp edge in speed over other freighters, like the YT-1300. The ship's speed, coupled with other above par systems, like robust shields and a [[Quad laser cannon/Legends|quad laser cannon]], made the ship popular with [[Smuggler/Legends|smugglers]] who wanted a ship that needed very few modifications to be immediately useful.<ref name="SAV" />
+
+In keeping with the company's philosophy, most of the ship's systems were easily upgraded and replaced; many of the ship's parts were fitted with universal joints and interfaces, allowing mechanics to use parts from a myriad of manufacturers.<ref name="SS" />
+
+[[File:KazellisDeck.png|left|200px|''Kazellis'' stock deckplan]]
+
+Possessing a comfortable interior, the Kazellis came stock with many amenities at the expense of cargo space, including a machine shop, [[medical bay]], armory, and [[Acceleration couch/Legends|acceleration couches]].<ref name="SS" />
+
+==History==
+Developed by the [[Kazellis Corporation]] - a joint venture between [[Human/Legends|Human]] and [[Twi'lek/Legends|Twi'lek]] manufactures - the Kazellis was a short lived line that produced only several hundred ships before the Corporation was [[Imperialization/Legends|forcibly driven]] out of business by the [[Galactic Empire/Legends|Empire]]. Due to this, the ship was relatively well known and thought highly of, but was considered very rare.<ref name="SS" /><ref name="COO">''[[Choices of One]]''</ref>
+
+==Appearances==
+*''[[Choices of One]]''
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}}
+
+==Sources==
+*<!-- 1994-02-XX -->{{JournalCite|1|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2016-06-02 -->''[[Savage Spirits]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Carguero ligero clase Kazellis
+}}
+
+[[Category:Freighter classes]]
+[[Category:Kazellis Corporation products]]
+
+{{RelatedCategories
+|[[Category:Kazellis-class light freighters]]
+}}

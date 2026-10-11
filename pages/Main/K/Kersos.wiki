@@ -1,0 +1,44 @@
+{{Top|leg}}
+{{Family
+|image=
+|name=Kersos
+|type=Clan<ref name="MBS">''[[MedStar I: Battle Surgeons]]''</ref>
+|species=
+|first=
+|head=
+|relatives=[[Vondars]] {{C|through marriage}}<ref name="MBS" />
+|origin=
+|locations=
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=[[Ensterite]]s<ref name="MBS" />
+}}
+{{Quote|So, there I was. A fresh lieutenant in the service of the Republic, my wife gone, and my family and culture no longer available to me. We had no children. I couldn't go home.|Erel Kersos|<ref name="MJH">''[[MedStar II: Jedi Healer]]''</ref>}}
+'''Kersos''' were an [[Ensterite]] clan.<ref name="MBS" />
+
+{{Stub}}
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree| | |EREM|y|EREF| |EREM=[[Erel Kersos's mother]]|EREF=[[Erel Kersos's father]]|boxstyle_EREM=f|boxstyle_EREF=m}}
+{{FamilyTree| | | |,|-|^|-|.| |}}
+{{FamilyTree| | |GRN| |ERE|GRN=[[Erel Kersos's sister]]/[[Erel Kersos's brother|brother]]|ERE=[[Erel Kersos]]<br />{{C|disowned}}<ref name="MJH" />|boxstyle_GRN=u|boxstyle_ERE=m}}
+{{FamilyTree| | | |!| | | | | |}}
+{{FamilyTree| | |JOSM|y|JOSF|JOSM=[[Jos Vondar's mother]]|JOSF=[[Jos Vondar's father]]<ref name="MBS" />|boxstyle_JOSM=f|boxstyle_JOSF=m}}
+{{FamilyTree| | | | | |!| | | |}}
+{{FamilyTree| | | | |VON| | |VON={{C|see [[Vondars]]}}<ref name="MBS" />|boxstyle_VON=u}}
+{{FamilyTree/end}}
+
+==Appearances==
+*''[[MedStar I: Battle Surgeons]]'' {{1stm}}
+*[[MedStar I: Battle Surgeons (abridged audiobook)|''MedStar I: Battle Surgeons'' abridged audiobook]] {{Mo}}
+*''[[MedStar II: Jedi Healer]]'' {{1st}}
+*[[MedStar II: Jedi Healer (abridged audiobook)|''MedStar II: Jedi Healer'' abridged audiobook]]
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Clans]]

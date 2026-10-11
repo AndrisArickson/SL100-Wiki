@@ -1,0 +1,11 @@
+{{Top|leg}}
+The '''key-code replicator input/output jack''' was a type of [[I/O jack]] used by [[Electronic lock breaker/Legends|electronic lock breakers]]. When plugged directly into a door [[Lock/Legends|lock]], the jack spiked a large polynomial computation into the device that kept the main security programming occupied while a secondary [[Slicer/Legends|slicing]] program flashed through random code combinations sequences in order to find the correct authorization code andopen the mechanism.<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref> The polynomial computation essentially kept the lock's security computer occupied and convinced it there was no attempts at subverting it. The jack could even be targeted at locks that were secured by an individual's genetic code. In this instance, the slicing program randomly cycled through gene-sequence codes until the correct one was discovered.<ref name="GFT">''[[Gundark's Fantastic Technology: Personal Gear]]''</ref>
+
+==Sources==
+*<!-- 1997-09-XX -->''[[Gundark's Fantastic Technology: Personal Gear]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Technology]]
