@@ -1,0 +1,84 @@
+{{Top|canon=Heat sensor}}
+{{Device
+|image=
+|name=Heat detector
+|manufacturer=
+|model=
+|type=[[Sensor/Legends|Sensor]]<ref name="RPG">[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Tracking via heat particles<ref name="COM">{{StoryCite|story=Caverns of Mystery!|book=Pizzazz 7}}</ref>
+|heritage=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="COM" />
+}}
+{{Quote|Our ''detectors'' had no trouble following the ''heat particle trail'' from those droids' ''power cells''.|Stormtrooper|<ref name="The Keeper's Secret!">{{StoryCite|story=The Keeper's Secret!|book=Pizzazz 8}}</ref>}}
+A '''heat detector''' was a type of [[Sensor/Legends|sensor]].<ref name="RPG" /> A heat detector functioned by examining energy,<ref name="SWS">''[[The Star Wars Sourcebook]]''</ref> such as particles of heat,<ref name="COM" /> emitted by another source.<ref name="SWS" /> [[Industrial Automaton/Legends|Industrial Automaton's]] [[R2-series astromech droid/Legends|R2-series astromech droids]] were equipped with heat detectors as part of their standard sensor package.<ref name="RPG" />
+
+[[Galactic Empire/Legends|Imperial]] [[Stormtrooper/Legends|Stormtroopers]] were capable of tracking [[Droid/Legends|droids]] with heat detectors due to the heat particles emitted by droid [[Power cell/Legends|power cells]].<ref name="COM" /> Heat detectors fitted to [[Seeker (droid)/Legends|seeker droids]] could be fitted with [[infrared scope]]s to detect footprints and other heat sources.<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref> [[Scarab Mark VI assassin droid]]s used heat detectors, in conjunction with [[pheromone sniffer]]s and [[biorhythm analyzer]]s to track their targets.<ref name="EGTD">''[[The Essential Guide to Droids]]''</ref>
+
+==Appearances==
+*''[[Cloak of Deception]]'' {{ID|heat sensor}}
+*''[[Death in the Undercity]]'' {{Reprint|Death in the Undercity}} {{ID|heat sensor}}
+*{{WEGCite|story=Triple Cross|book=Supernova (sourcebook)}} {{ID|infrared heat sensitive alarm}}
+*{{StoryCite|story=The Day after the Death Star!|book=Star Wars Weekly 97|reprint=1}} {{Mo}}
+*{{StoryCite|story=Caverns of Mystery!|book=Pizzazz 7}} {{1stm}}
+*{{StoryCite|story=The Keeper's Secret!|book=Pizzazz 8}} {{Mo}}
+*''[[Mission to Lianna]]''
+*''[[The Bounty Hunter]]'' {{Mo}}
+
+==Sources==
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]'' {{ID|heat sensor}}
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-09-XX -->''[[Galaxy Guide 11: Criminal Organizations]]''
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]'' {{ID|heat sensor}}
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]'' {{ID|heat sensor}}
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Han Seeker}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Luke Seeker}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Tagge Seeker}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Tarkin Seeker}}
+}}
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+<!-- 1996-07-XX -->{{CardGameSet|set={{CCG|set=A New Hope Limited|parent=1}}|cards=
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Leia Seeker}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Motti Seeker}}
+}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]'' {{ID|heat sensor}}
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]'' {{ID|heat sensor}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Droid Sensorscope}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]'' {{ID|heat sensor}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]'' {{ID|heat sensor}}
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]'' {{ID|heat sensor}}
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]'' {{ID|heat sensor}}
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Droid sensors]]
+[[Category:Sensor types]]
+[[Category:Temperature sensors]]

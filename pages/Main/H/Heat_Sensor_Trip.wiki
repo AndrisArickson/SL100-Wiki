@@ -1,0 +1,47 @@
+{{Top|leg}}
+{{Device
+|image=[[File:Heat_Sensor_Trip.jpg]]
+|name=Heat Sensor Trip
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="RoE">''[[Rules of Engagement: The Rebel SpecForce Handbook]]''</ref>
+|model=
+|type=[[Heat detector]]<ref name="RoE" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=100 [[Galactic Credit Standard/Legends|credits]]<ref name="RoE" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=20 [[Meter/Legends|meters]], 45-degree arc<ref name="CRFG">[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]</ref>
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''Heat Sensor Trip''' was an automated [[heat detector]] produced by the [[SoroSuub Corporation/Legends|SoroSuub Corporation]].<ref name="RoE" /> The Trip consisted of two elements; the [[Sensor/Legends|sensor]] itself and a [[Computer/Legends|computer]] system. The sensor was a small lens made of synthetic [[byrothsis]] that scanned a 45 degree arc in front of the device. It could scan a complete breakdown of any heat signatures in its field of vision. The sensor was connected by a cable to a computer, which was supplied separately; a [[Datapad/Legends|datapad]] could also be used. Although the sensor was set to trigger in the event of any heat signatures crossing its field of vision, certain allowances could be programmed into the computer, which compared the heat signatures recorded by the sensor against a library of stored heat patterns. In this way, the sensor could be calibrated to ignore a large amount of creatures while still allowing accurate detection of intruders.<ref name="CRFG" />
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], [[Galactic Empire/Legends|Imperial]] bases coded the unique signature of [[Stormtrooper armor/Legends|stormtrooper armor]] into the sensors to allow their patrols to pass unhindered. [[General/Legends|General]] [[Airen Cracken/Legends|Airen Cracken]] also believed that the stormtrooper armor had been modified with heat producing elements to produce a totally unique signature that would not be replicated by stormtrooper armor taken from elsewhere, meaning that any [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] mission to infiltrate the bases could not rely on stolen armor.<ref name="CRFG" />
+
+==Sources==
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:SoroSuub Corporation products]]
+[[Category:Temperature sensors]]

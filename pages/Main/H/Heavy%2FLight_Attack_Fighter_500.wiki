@@ -1,0 +1,81 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:HLAF-500_SoF.jpg]]
+|name=Heavy/Light Attack Fighter 500
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="Cracken">''[[Cracken's Threat Dossier]]''</ref>
+|line=
+|model=
+|type=[[Starfighter/Legends|Starfighter]]<ref name="Cracken" />
+|cost=*70,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SoF">''[[Suns of Fortune]]''</ref>
+*40,000 credits {{C|used}}<ref name="Cracken" />
+|modifier=
+|sysmods=
+|length=12 [[Meter/Legends|meters]]<ref name="Cracken" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,300 [[Kilometer per hour/Legends|kmh]]<ref name="Cracken" />
+|maneuverability=
+|engine=[[9X2 fusial thrust engine]]s<ref name="Cracken" />
+|hyperdrive=Class 2.0<ref name="SoF" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="Cracken">''[[Cracken's Threat Dossier]]''</ref>
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="Cracken" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 light [[Laser cannon/Legends|laser cannons]]<ref name="SoF" />
+*2 [[Proton torpedo launcher/Legends|proton torpedo launchers]]<ref name="Cracken" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="Cracken" />
+|skeleton=
+|passengers=
+|capacity=65 [[Kilogram/Legends|kilograms]]<ref name="Cracken" />
+|cargohandling=
+|consumables=2 [[Standard day/Legends|days]]<ref name="Cracken" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Multi-purpose starfighter<ref name="Cracken" />
+|firstuse=
+|retired=
+|affiliation=*[[Corellian Defense Force/Legends|Corellian Defense Force]]<ref name="Cracken" />
+*[[Sacorrian Triad]]<ref name="SaC">''[[Showdown at Centerpoint]]''</ref>
+}}
+The '''Heavy/Light Attack Fighter 500''', commonly known as the '''HLAF-500 starfighter''',was a modified version of [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation's]] earlier [[Light Attack Fighter Model 250|LAF-250]] patrol fighter, which the [[Corellian Defense Force/Legends|Corellian Defense Force]] demanded to compensate for the combat weakness of the original design.
+
+The HLAF-500 retained the basic LAF-250 fighter platform, but replaced the underpowered drives with [[SoroSuub Corporation/Legends|SoroSuub]] [[9X2 fusial thrust engine]]s, and supplemented the original armament of twin lasers with extra weapons hardpoints, normally outfitted with a pair of [[Proton torpedo/Legends|proton torpedo]] launchers. The upgraded fighter also boasted slightly improved shields and maneuverability.
+
+The resulting fighter boasted very fast acceleration, allied to a decent armament and dogfighting capability.
+
+HLAF-500's were used by the [[Sacorrian Triad]] during the [[Battle of Centerpoint Station (Corellian Crisis)|Battle of Centerpoint Station]].<ref name="SaC" />
+
+==Appearances==
+*''[[Showdown at Centerpoint]]'' {{1st}}
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]'' {{1stID|HLAF-500 and Heavy/Light Attack Fighter}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|HLAF-500}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]'' {{1stID|Heavy/Light Attack Fighter 500}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Caza de Ataque Ligero/Pesado 500
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Starfighter classes]]

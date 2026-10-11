@@ -1,0 +1,91 @@
+{{Top}}
+{{RepulsorliftVehicle
+|image=[[File:Heavy_Tracker.jpg]]
+|name=Heavy Tracker
+|designer=
+|manufacturer=[[Mekuun Corporation/Legends|Mekuun Corporation]]<ref name="RASB">''[[The Rebel Alliance Sourcebook]]''</ref>
+|line=
+|model=
+|type=[[Combat Assault Vehicle]]<ref name="RASB" />
+|cost=*125,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+*75,000 credits (used)<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=22.2 [[Meter/Legends|meters]]<ref name="RASB2">[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|speed=130 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="RASB2" />
+|max alt=Ground level&mdash;2 meters<ref name="RASB2" />
+|maneuverability=
+|engine=[[Repulsorlift/Legends|Repulsorlift]]<ref name="RASB2" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Omniprobe sensor array/Legends|Omniprobe sensor array]]<ref name="RASB2" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=1 [[Mk 2e/W heavy laser cannon]]<ref name="MBC">''[[Star Wars Miniatures Battles Companion]]''</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=4; 2 [[Gunner/Legends|gunners]]<ref name="RASB2" />
+|skeleton=3<ref name="RASB2" />
+|passengers=5 (omniprobe operators)<ref name="RASB2" />
+|capacity=250 [[Kilogram/Legends|kilograms]]<ref name="RASB2" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Mobile scanning unit<ref name="RASB" />
+*Fire support<ref name="RASB" />
+*Mobile command center<ref name="RECG" />
+|firstuse=
+|retired=
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="RASB" />
+*[[New Republic/Legends|New Republic]]<ref name="SaBP">{{JournalCite|9|Stand at Bhir'khi Pass (article)}}</ref>
+}}
+The [[Mekuun Corporation/Legends|Mekuun Corporation]] '''Heavy Tracker''' was a [[Repulsorlift/Legends|repulsorlift]] [[Combat Assault Vehicle]] used as mobile surveillance and communications center by the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]].
+
+==Characteristics==
+[[File:Hvytracker.jpg|thumb|left|200px|Top view of the Heavy Tracker]]
+The [[Mekuun Corporation/Legends|Mekuun Corporation]] Heavy Tracker was a 22.2 [[Meter/Legends|meter]] long [[Repulsorlift/Legends|repulsorlift]] vehicle. It had a top speed of one hundred and thirty [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]], and a ground clearance of two meters.<ref name="RASB2" /> Heavy Trackers were equipped with an [[Omniprobe sensor array/Legends|omniprobe sensor array]],<ref name="RASB" /> a standard military-grade [[Sensor/Legends|sensor]] array,<ref name="RECG" /> and integrated long-range [[Comlink/Legends|comlink]] to detect enemy forces and then relay that information to front line combat units. The omniprobe conducted low-level scans tied to a [[Planet/Legends|planet's]] [[Gravity/Legends|gravitational]] center, with the [[Sensor/Legends|sensor]] beam following the terrain which allowed it to detect enemy units without requiring line-of-sight.<ref name="RASB" />
+
+The Heavy Tracker was a heavily armored craft armed with a single<ref name="RASB" /> [[Mk 2e/W heavy laser cannon]]<ref name="MBC" /> The cannon was fed data acquired by the omniprobe, allowing it to fire at selected targets from long range.<ref name="RASB" /> A crew of six operated the craft, two of whom were the [[Gunner/Legends|gunners]] assigned to man the heavy laser cannon, although it could be run by a crew of three individuals if needed. Five additional crew operated the omniprobe;<ref name="RASB2" /> two communications [[Technician/Legends|technicians]], two [[Sensor/Legends|sensor]] technicians, and the [[Commander/Legends|commander]].<ref name="SaBP" /> It could carry two hundred and fifty [[Kilogram/Legends|kilograms]] of cargo, and consumables to last a [[Standard week/Legends|week]].<ref name="RASB2" /> Heavy Trackers cost 125,000 [[Galactic Credit Standard/Legends|credits]] to buy new, and 75,000 used.<ref name="RECG" />
+
+==History==
+The [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] classified the Heavy Tracker as a [[Combat Assault Vehicle]], but utilized them as mobile scanning units rather than direct assault craft. Due to the vehicle's large target profile, slow speed, and long-range targeting capabilities, Heavy Trackers were kept behind the front lines since they had no reason to enter close combat situations.<ref name="RASB" />
+
+==Appearances==
+*{{JournalCite|9|Stand at Bhir'khi Pass (article)|reprint=1}}
+
+==Sources==
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->''[[Star Wars Miniatures Battles Companion]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1997-XX-XX -->''[[Classic Adventures: Volume Four — The Best of the Journal]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Rastreador Pesado/Leyendas
+|fi=Heavy Tracker/Legends
+|nl=Heavy Tracker
+}}
+
+[[Category:Mekuun Corporation products]]
+[[Category:Speeder models]]
+[[Category:Vehicle classes of the Alliance to Restore the Republic]]
+[[Category:Vehicle classes of the New Republic]]

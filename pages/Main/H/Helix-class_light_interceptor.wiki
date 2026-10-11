@@ -1,0 +1,115 @@
+{{Top|leg|title=''Helix''-class light interceptor}}
+{{Otheruses|Helix}}
+{{StarshipClass
+|image=[[File:Helix-AJ5.png]]
+|name=''Helix''-class light interceptor
+|designer=
+|manufacturer=[[Arakyd Industries/Legends|Arakyd Industries]]<ref name="AJ5-AS">{{JournalCite|5|A Buyer's Guide to Alternative Starships}}</ref>
+|line=
+|model=''Helix''-class light interceptor
+|type=Armed freighter
+|cost=*215,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="AJ5-AS" />
+*≈182,000 credits {{C|used}}<ref name="AJ5-AS" />
+|modifier=
+|sysmods=
+|length=30.9 [[Meter/Legends|meters]]<ref name="AJ5-AS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=750 [[Kilometer per hour/Legends|km/h]]<ref name="AJ5-AS" />
+|maneuverability=
+|engine=Arakyd [[H-L Block ion drive]]s (4)<ref name="AJ5-AS" />
+|hyperdrive=Model A:
+*Class 2 [[Incom Corporation/Legends|Incom]] [[GBp-625 hyperdrive]]<ref name="AJ5-AS" />
+Model B:
+*Class 1 Incom [[GBp-629 hyperdrive]]<ref name="AJ5-AS" />
+Both models:
+*Class 12 {{C|backup}}<ref name="AJ5-AS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=80 [[Fuel cell/Legends|fuel cells]]<ref name="AJ5-AS" />
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="AJ5-AS" />
+|avionics=Arakyd [[LBE flight control computer]]<ref name="AJ5-AS" />
+|maincomp=
+|countermeasures=
+|armament=*Arakyd [[Plasburst laser cannon/Legends|Plasburst laser cannon]] [[Turret/Legends|turrets]] (2)<ref name="AJ5-AS" />
+*[[Ion cannon/Legends|Ion cannons]] (2)<ref name="AJ5-AS" />
+*[[Proton torpedo/Legends|Proton torpedo]] [[Proton torpedo launcher/Legends|launcher]] (1)<ref name="AJ5-AS" />
+|complement=
+|bays=
+|escapepods=
+|crew=Pilots (2)<ref name="AJ5-AS" />
+|skeleton=
+|passengers=4<ref name="AJ5-AS" />
+|capacity=35 [[Metric ton/Legends|metric tons]]<ref name="AJ5-AS" />
+|cargohandling=
+|consumables=4 [[Standard week/Legends|weeks]]<ref name="AJ5-AS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Freighter
+|firstuse=
+|retired=
+|affiliation=Various<ref name="AJ5-AS" />
+*[[Antarian Rangers/Legends|Antarian Rangers]]<ref name="TLJ">[[The Last Jedi (novel)|''The Last Jedi'']]</ref>
+}}
+The '''''Helix''-class light interceptor''' was an armed [[Freighter/Legends|freighter]] manufactured by [[Arakyd Industries/Legends|Arakyd Industries]] that could easily serve as a [[Starfighter/Legends|starfighter]]. A second generation was also produced, the "Model B."
+
+==Characteristics==
+The original model of the interceptor had a Class 2 [[Incom Corporation/Legends|Incom Corporation]] [[GBp-625 hyperdrive]], whereas the Model B came with a Class 1 [[GBp-629 hyperdrive]].
+
+Both variants of the craft had a [[LBE flight control computer]], 4 [[H-L Block ion drive]]s, a Class 12 backup hyperdrive, 80 fuel cells, and an atmospheric capability of 750 kilometers per hour along with great maneuverability.
+
+A [[Duranium/Legends|duranium]]-[[kathor]] composite hull was protected by [[Deflector shield/Legends|shields]]. The craft boasted 2 [[Plasburst laser cannon/Legends|Plasburst laser cannon]] belly turrets that could be fire-linked, 2 forward fire-linked [[Ion cannon/Legends|ion cannons]], and 1 forward dorsal [[Proton torpedo/Legends|proton torpedo]] launcher that carried 5 [[Mark V-rated torpedo]]es.
+
+==History==
+The craft was only manufactured for 6 months before the [[Bureau of Ships and Services/Legends|Bureau of Ships and Services]] realized that Arakyd was manufacturing an illegally-armed "freighter". The Empire then mandated an end to the production, but that did not stop Arakyd from selling the existing craft.
+
+The Empire demanded that all owners of such craft strip them down to meet [[Safe Starship Regulations]] and register the craft with the [[Imperial Security Bureau/Legends|ISB]], but few people actually did so, and many [[Galactic Empire/Legends|Imperial]] nobles maintained their ships as delivered.
+
+==Appearances==
+*[[The Last Jedi (novel)|''The Last Jedi'']]
+*{{JournalCite|12|Small Favors}}
+*''[[Galaxy of Fear: City of the Dead]]'' {{1st}}
+*''[[Galaxy of Fear: Planet Plague]]''
+*''[[Galaxy of Fear: The Nightmare Machine]]''
+*''[[Galaxy of Fear: Ghost of the Jedi]]''
+*''[[Galaxy of Fear: Army of Terror]]''
+*{{Hyperspace|url=hyperspace/fiction/feature20090531/index.html?page=1|text=Death in the Slave Pits of Lorrd: A Hyperspace Exclusive|int=Death in the Slave Pits of Lorrd}}
+*''[[Galaxy of Fear: The Brain Spiders]]''
+*''[[Galaxy of Fear: The Swarm]]''
+*''[[Galaxy of Fear: Spore]]''
+*''[[Galaxy of Fear: The Doomsday Ship]]''
+*''[[Galaxy of Fear: Clones]]''
+*''[[Galaxy of Fear: The Hunger]]''
+*{{DarkStryder|adventure=Wildfire (adventure)|book=The Kathol Outback|reprint=yes}}
+*{{JournalCite|15|Two for One}} {{Mo}}
+
+==Sources==
+*<!-- 1995-02-XX -->{{JournalCite|5|A Buyer's Guide to Alternative Starships}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Lehký interceptor třídy Helix
+|de=Helix-Klasse Abfangjäger
+}}
+
+[[Category:Arakyd Industries products]]
+[[Category:Freighter classes]]
+[[Category:Starfighter classes]]
+
+{{RelatedCategories
+|[[Category:Helix-class light interceptors]]
+}}

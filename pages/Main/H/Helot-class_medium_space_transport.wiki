@@ -1,0 +1,109 @@
+{{Top|leg|title=''Helot''-class medium space transport}}
+{{StarshipClass
+|image=[[File:Spaceshipmynock.jpg]]
+|name=''Helot''-class medium space transport
+|designer=
+|manufacturer=[[Cygnus Spaceworks/Legends|Cygnus Spaceworks]]<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+|line=
+|model=''Helot''-class medium space transport<ref name="LECG" />
+|type=[[Transport/Legends|Transport]]<ref name="LECG" />
+|cost=105,000 [[Galactic Credit Standard/Legends|credits]] (new), 45,000 credits (used)<ref name="LECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 km/h<ref name="LECG" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="LECG" />
+*Backup class 10<ref name="LECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=None<ref name="LECG" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]]<ref name="LECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Medium [[Laser cannon/Legends|laser cannons]]<ref name="LECG" />
+|complement=None<ref name="LECG" />
+|bays=
+|escapepods=
+|crew=2<ref name="LECG" />
+|skeleton=
+|passengers=6<ref name="LECG" />
+|capacity=100 tons<ref name="LECG" />
+|cargohandling=
+|consumables=3 months<ref name="LECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="LECG" />
+|role=[[Transport/Legends|Transport]]<ref name="LECG" />
+|firstuse=Prior to [[29 ABY/Legends|29 ABY]]<ref name="LECG" />
+|retired=
+|affiliation=
+}}
+The [[Cygnus Spaceworks/Legends|Cygnus Spaceworks]] '''''Helot''-class medium space transport''' was a [[Transport/Legends|transport]] that was designed in the time before the resurgence of the [[Fel Empire|Galactic Empire]], that had already declined in popularity by the end of the [[Yuuzhan Vong]] [[Yuuzhan Vong War|invasion]] of [[The galaxy/Legends|the galaxy]]. The ship was designed by [[Engineer/Legends|engineers]] from both Cygnus Spaceworks and [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]], and was designed as an affordable ship. The Helot lacked shields and had low maneuverability, but was equipped with fire-linked [[Laser cannon/Legends|laser cannons]].
+
+By [[137 ABY]], the ''Helot''-class transport had become little more than a memory to many [[Spacer/Legends|spacers]], however, many were still in use. [[Bounty hunter/Legends|Bounty hunter]] and former [[Jedi/Legends|Jedi]] [[Cade Skywalker]] owned a ''Helot''-class medium space transport dubbed the [[Mynock (Helot-class)|''Mynock'']].
+
+==Appearances==
+{{ScrollBox|content=
+*[[Legacy (2006) 3|''Legacy'' (2006) 3]] {{1st}}
+*[[Legacy (2006) 5|''Legacy'' (2006) 5]]
+*[[Legacy (2006) 6|''Legacy'' (2006) 6]]
+*[[Legacy (2006) 7|''Legacy'' (2006) 7]]
+*[[Legacy (2006) 12|''Legacy'' (2006) 12]]
+*[[Legacy (2006) 14|''Legacy'' (2006) 14]]
+*[[Legacy (2006) 17|''Legacy'' (2006) 17]]
+*[[Legacy (2006) 19|''Legacy'' (2006) 19]]
+*[[Legacy (2006) 23|''Legacy'' (2006) 23]]
+*[[Legacy (2006) 24|''Legacy'' (2006) 24]]
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+*[[Legacy (2006) 26|''Legacy'' (2006) 26]]
+*[[Legacy (2006) 28|''Legacy'' (2006) 28]]
+*[[Legacy (2006) 29|''Legacy'' (2006) 29]]
+*[[Legacy (2006) 31|''Legacy'' (2006) 31]]
+*[[Legacy (2006) 34|''Legacy'' (2006) 34]]
+*[[Legacy (2006) 35|''Legacy'' (2006) 35]]
+*[[Legacy (2006) 37|''Legacy'' (2006) 37]]
+*[[Legacy (2006) 38|''Legacy'' (2006) 38]]
+*[[Legacy (2006) 40|''Legacy'' (2006) 40]]
+*[[Legacy (2006) 43|''Legacy'' (2006) 43]]
+*[[Legacy (2006) 50|''Legacy'' (2006) 50]]
+*[[Legacy — War 2|''Legacy — War'' 2]]
+*[[Legacy — War 3|''Legacy — War'' 3]]
+*[[Legacy — War 4|''Legacy — War'' 4]]
+*[[Legacy — War 5|''Legacy — War'' 5]]
+*[[Legacy — War 6|''Legacy — War'' 6]]
+}}
+
+==Sources==
+*<!-- 2006-06-07 -->[[Star Wars: Legacy (2006) 0|''Star Wars: Legacy'' (2006) 0]]
+*<!-- 2008-01-02 -->[[Star Wars: Legacy (2006) 0½|''Star Wars: Legacy'' (2006) 0½]]
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]'' {{1stID|''Helot''-class medium space transport}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Transportní loď třídy Helot
+|de=Helot-Klasse Medium-Transporter
+|es=Transporte espacial mediano clase Helot
+}}
+
+[[Category:Cygnus Spaceworks products]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Helot-class medium space transports]]
+}}
