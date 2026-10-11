@@ -1,0 +1,103 @@
+{{Top|leg|title=''Warrior''-class gunship}}
+{{Otheruses|Warrior}}
+{{StarshipClass
+|image=[[File:Warrior_Gunship.jpg]]
+|name=''Warrior''-class gunship
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|line=[[New Class Modernization Program]]<ref name="CTD" />
+|model=''Warrior''-class gunship<ref name="CTD" />
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=190 [[Meter/Legends|meters]]<ref name="CTD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=75
+|max speed=1,050 [[Kilometer per hour/Legends|km/h]]<ref name="CTD" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="CTD" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="CTD" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="CTD" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] [[Cannon/Legends|cannons]] (10)
+:Fire arc: 4 fore, 3 port, 3 starboard<ref name="CTD" />
+*[[Laser cannon/Legends|Laser cannons]] (8)
+:Fire arc: 2 fore, 3 port, 3 starboard<ref name="CTD" />
+*[[Concussion missile/Legends|Concussion missile]] [[Concussion missile launcher/Legends|tubes]] (4)
+:Fire arc: 2 fore, 2 aft<ref name="CTD" />
+*[[Antimissile octet]]s<ref name="TT">''[[Tyrant's Test]]''</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=*Crewmembers (44)<ref name="CTD" />
+*[[Gunner/Legends|Gunners]] (36)<ref name="CTD" />
+|skeleton=22<ref name="CTD" />
+|passengers=10<ref name="CTD" />
+|capacity=500 [[Metric ton/Legends|metric tons]]<ref name="CTD" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="CTD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Heavy assault ship<ref name="CTD" />
+*Gunship<ref name="TT" />
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]<ref name="CTD" />
+}}
+The '''''Warrior''-class gunship''' was a deadly addition to the [[New Republic/Legends|New Republic]] fleet produced under the [[New Class Modernization Program]].
+
+==Characteristics==
+These small but powerful warships were designed for one purpose, which was to smash enemy formations by destroying their main combat ships. They were armed with 10 [[Turbolaser/Legends|turbolaser]] cannons, 8 laser cannons (with at least some in twin [[Barrel/Legends|barrel]] batteries), and 4 [[Concussion missile/Legends|concussion missile]] tubes, plus a number of antimissile weapons.<ref name="CTD" /> ''Warrior''-class gunships packed enough firepower to threaten heavy cruisers, and their racks of [[Concussion missile/Legends|CM-9 concussion missiles]], the same weapon carried by the [[Majestic-class heavy cruiser|''Majestic''-class heavy cruiser]],<ref name="TT" /> could even cripple [[Star Destroyer/Legends|Star Destroyers]].<ref name="CTD" />
+
+Following New Class practice, the ''Warrior''-class gunship was built on the same hull as the [[Agave-class picket ship|''Agave''-class picket ship]]. Like the ''Agave'', the ''Warrior'' was 190 meters long and was equipped with a Class 1 [[Hyperdrive/Legends|hyperdrive]]. At sublight speeds, it was driven by a bank of at least six engines. These ships had a small crew of only 44 people, along with 36 gunners and room for 10 additional passengers.<ref name="CTD" />
+
+In spite of their strengths, the ''Warrior''-class were designed for fast attacks, and not for extended, close-range combat against [[Cruiser/Legends|cruisers]].<ref name="CTD" /> While they were significantly more robust than their ''Agave''-class cousins, their [[Deflector shield/Legends|deflector shields]] would be overwhelmed in a matter of minutes by heavy cruiser [[Turbolaser/Legends|turbolasers]], and their [[Particle shield/Legends|particle shields]] could be brought down by a single missile salvo. This vulnerability was seen in the [[Battle of ILC-905]], when the New Republic gunship [[Vanguard (Warrior-class)|''Vanguard'']] engaged two [[Yevetha]]n [[Aramadia-class thrustship|''Aramadia''-class thrustships]]. Although ''Vanguard'' played a major role in destroying one of the enemy cruisers, it was obliterated after a few volleys of enemy missiles.<ref name="TT" />
+
+==History==
+To perform their mission, these ships normally moved ahead of the main fleet to make first contact with the enemy. ''Warrior''-class gunships had enough laser cannons to fend off starfighters, while their armor provided protection beyond the typical starfighter's ability to do damage.<ref name="CTD" />
+
+Once a ''Warrior'' group had penetrated enemy screening lines, they targeted and destroyed the enemy's main ships before withdrawing into [[Hyperspace/Legends|hyperspace]]. Individual gunships could also be used in smaller squadrons, paired with cruisers as robust and well-armed support ships, capable of scouting more aggressively than sensor pickets or starfighters.<ref name="CTD" /> ''Warrior'' gunships were also used to clear corridors for surface forces to land after planetary guns had been disabled.
+
+==Behind the scenes==
+The only official image of the ''Warrior''-class gunship is found in the RPG sourcebook ''Cracken's Threat Dossier''. Like the pictures of other New Class ships, this picture contradicts information from the [[Black Fleet Crisis]] novels, on which ''Cracken's Threat Dossier'' is based. The ''Warrior'' and ''Agave'' classes look nothing alike, even though they are supposed to be built on the same hull.
+
+==Appearances==
+*''[[Tyrant's Test]]'' {{1st}}
+*[[Tyrant's Test (abridged audiobook)|''Tyrant's Test'' abridged audiobook]]
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{NewClassNav}}
+
+{{Interlang
+|es=Cañonera clase Guerrero
+}}
+
+[[Category:Gunship starship classes]]
+[[Category:New Class starship classes]]
+
+{{RelatedCategories
+|[[Category:Warrior-class gunships]]
+}}

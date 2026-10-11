@@ -1,0 +1,82 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:RabbitsFoot-SW1977-16.jpg]]
+|name=WUD-500 star yacht
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=
+|model=
+|type=Star [[Yacht/Legends|yacht]]
+|cost=185,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}, 92,500 credits {{C|used}}
+|modifier=
+|sysmods=
+|length=18.5 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=1,000 [[Kilometer per hour/Legends|km/h]]
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=x1 {{C|backup x8}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] {{C|2, fire-linked}}
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=1
+|passengers=7
+|capacity=3 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=4 [[Standard month/Legends|months]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]
+|firstuse=
+|retired=
+|affiliation=
+}}
+{{Quote|'''Captain!''' They're bringing the fight to '''us'''. Only a '''N-class freighter''' by the sensors, so--|Slssk|<ref name="Star Wars (1977) 16">[[Star Wars (1977) 16|''Star Wars'' (1977) 16]]</ref>}}
+The '''WUD-500''' was an outdated [[Corellian Engineering Corporation/Legends|CEC]] star yacht design, with features similar to the freighters of the [[YT-series/Legends|YT-series]]. It was also called an '''N-class freighter'''.
+
+The Corporation intended to bring up a popular luxury craft besides their popular freighter designs. They, however, could never gain as much acceptance on the luxury market as the more famous-for-luxury corporation [[SoroSuub Corporation/Legends|SoroSuub]]. It measured 18.5 meters in length and could be operated without great difficulty by a single pilot. As for cargo-space, the WUD-500 had room enough for three metric tons of cargo, as well as being able to take seven passengers.
+
+However, sole smugglers required such vessels, as it features excellent sublight engines and hyperdrive suite as well as a fair weapons complement for a ship of its size.
+
+The smuggler [[Jaxxon/Legends|Jaxxon]] owned and modified a WUD-500 which he named [[Rabbit's Foot/Legends|''Rabbit's Foot'']].
+
+==Appearances==
+*[[Star Wars (1977) 16|''Star Wars'' (1977) 16]] {{Reprint|Star Wars (1977) 16}} {{1st}}
+
+==Sources==
+*<!-- 2001-06-19 -->{{GamerCite|4|The Starhoppers of Aduba-3}}
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=WUD-5000
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Yacht classes]]
+
+{{RelatedCategories
+|[[Category:WUD-500 star yachts]]
+}}

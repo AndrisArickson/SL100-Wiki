@@ -1,0 +1,72 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Warlord Dropship
+|designer=
+|manufacturer=[[Telgorn Corporation/Legends|Telgorn Corporation]]<ref name="WC">{{JournalCite|2|A World to Conquer}}</ref>
+|line=
+|model=
+|type=[[Dropship/Legends|Dropship]]<ref name="WC" />
+|cost=
+|modifier=
+|sysmods=
+|length=110 [[Meter/Legends|meters]]<ref name="WC" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=*1,200 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]] {{C|during drop}}<ref name="WC" />
+*800 KMH {{C|return flight}}<ref name="WC" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="WC" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="WC" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=6 double [[Turbolaser/Legends|turbolaser cannons]]<ref name="WC" />
+|complement=
+|bays=
+|escapepods=
+|crew=200<ref name="WC" />
+|skeleton=
+|passengers=360 ([[Soldier/Legends|troops]])<ref name="WC" />
+|capacity=180 [[Metric ton/Legends|metric tons]]<ref name="WC" />
+|cargohandling=
+|consumables=3 [[Standard day/Legends|days]]<ref name="WC" />
+|lifesupport=
+|communications=
+|othersystems=[[Ablative heatshield]]<ref name="WC" />
+|availability=
+|role=Troop or armor dropship<ref name="WC" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Warlord Dropship''' was an [[Galactic Empire/Legends|Imperial]] [[Transport/Legends|transport]] used for large ground operations.
+
+==Characteristics==
+The largest [[Dropship/Legends|dropship]] used by the [[Imperial Navy/Legends|Imperial Navy]], the Warlord Dropship measured 110 meters in length, dwarfing other Imperial dropships. Produced by [[Telgorn Corporation/Legends|Telgorn Corporation]], the Warlord Dropship was capable of transporting up to 360 troops and up to 180 metric tons of cargo, or a [[Armor platoon|platoon]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref> of 4 [[All Terrain Armored Transport/Legends|AT-ATs]], in addition to a crew of 200.<ref name="WC" />
+
+Each dropship was protected by thick armor plating and six double [[Turbolaser/Legends|turbolaser]] cannons. In atmospheric descent, a Warlord Dropship could achieve 1,200 kilometers per hour in descent and 800 kilometers per hour in ascent.
+
+Because of its size, the dropship required an [[Ablative heatshield|ablative shield]] to withstand drop temperatures. The shield had to be replaced after each drop, which required at least two hours in a well equipped [[Star Destroyer/Legends|Star Destroyer]] bay.
+
+==Appearances==
+*{{JournalCite|2|A World to Conquer}} {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Dropship classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Telgorn Corporation products]]

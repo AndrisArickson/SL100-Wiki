@@ -1,0 +1,74 @@
+{{Top|leg|title=''Warden''-class light cruiser}}
+{{StarshipClass
+|image=
+|name=''Warden''-class light cruiser
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="AJ4">{{JournalCite|4|Loyalties}}</ref>
+|line=
+|model=''Warden''-class light cruiser<ref name="AJ4" />
+|type=[[Light cruiser/Legends|Light cruiser]]<ref name="AJ4" />
+|cost=
+|modifier=
+|sysmods=
+|length=42 [[Meter/Legends|meters]]<ref name="AJ4" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,200 [[Kilometer per hour/Legends|kmh]]<ref name="AJ4" />
+|maneuverability=
+|engine=
+|hyperdrive=*x1 {{C|Primary}}<ref name="AJ4" />
+*x10 {{C|Backup}}<ref name="AJ4" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=Improved over the [[Guardian-class light cruiser|''Guardian''-class]]<ref name="AJ4" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Turreted [[Laser cannon/Legends|laser cannons]] (2)<ref name="AJ4" />
+|complement=
+|bays=
+|escapepods=
+|crew=16<ref name="AJ4" />
+|skeleton=
+|passengers=14<ref name="AJ4" />
+|capacity=100 [[Metric ton/Legends|tons]]<ref name="AJ4" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="AJ4" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Picket<ref name="AJ4" />
+*Patrol<ref name="AJ4" />
+*Customs [[Corvette/Legends|corvette]]<ref name="AJ4" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="AJ4" />
+}}
+A small [[Starship/Legends|starship]] with a wide mission profile, the '''''Warden''-class light cruiser''' was produced by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] as a follow-up to the [[Guardian-class light cruiser|''Guardian''-class light cruiser]].
+
+==Characteristics==
+Slightly larger than its predecessor at 42 [[Meter/Legends|meters]], the ''Warden''-class was designed as a general security [[Starship/Legends|vessel]], capable of completing customs, patrol and engagement missions. It featured more powerful engines than the [[Guardian-class light cruiser|''Guardian''-class]], as well as improved [[Sensor/Legends|sensor]] capabilities. A crew of sixteen operated the vessel with one gunner manning a pair of turret-mounted [[Laser cannon/Legends|laser cannons]]. In addition, the interior could support fourteen troopers and 100 [[Metric ton/Legends|metric tons]] of cargo.<ref name="AJ4" />
+
+==Appearances==
+*{{JournalCite|4|Loyalties}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Crucero ligero clase Protector
+}}
+
+[[Category:Light cruiser classes]]
+[[Category:Sienar Fleet Systems products]]
+[[Category:Starship classes of the Galactic Empire]]

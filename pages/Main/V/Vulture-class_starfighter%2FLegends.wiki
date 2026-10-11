@@ -1,0 +1,375 @@
+{{Top|fga|title=''Vulture''-class starfighter}}
+{{Otheruses|Vulture}}
+{{StarshipClass
+|image=[[File:Droid_Starfighters.png]]
+|name=''Vulture''-class starfighter<br />Variable Geometry Self-Propelled Battle Droid, Mark I
+|designer=
+|manufacturer=*[[Haor Chall Engineering/Legends|Haor Chall Engineering]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*[[Baktoid Armor Workshop/Legends|Baktoid Armor Workshop]]<ref name="LOE">''[[Labyrinth of Evil]]''</ref><ref name="SOTGSE">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=[[Droid starfighter/Legends|Droid starfighters]]<ref name="SOTGSE" />
+|model=Variable Geometry Self-Propelled [[Battle droid/Legends|Battle Droid]], Mark I<ref name="NEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|type=[[Starfighter/Legends|Starfighter]]<ref name="SOTGSE" />
+|cost=19,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SOTGSE" />
+|modifier=
+|sysmods=
+|length=3.6 [[Meter/Legends|meters]]<ref name="Droid starfighter in the databank">{{DB|starship|droidstarfighter|droid starfighter}}</ref><ref name="NEGVV" />
+|width=
+|height=3.5 meters<ref name="tcwce">''[[Star Wars: The Clone Wars Character Encyclopedia]]''</ref>
+|mass=
+|max accel=
+|mglt=
+|max speed=1,180 [[Kilometer per hour/Legends|km/h]]<ref name="SOTGSE" />
+|maneuverability=100<ref name="BF:RS">''[[Star Wars Battlefront: Renegade Squadron]]''</ref> [[DPF/Legends|DPF]]
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="CCS" />
+|poweroutput=
+|power=
+|shield gen=None<ref name="SOTGSE" />
+|hull=Non-magnetic [[alclad alloy]]<ref name="Episode I Cross-Sections">''[[Star Wars: Episode I Incredible Cross-Sections]]''</ref>
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Trade Federation/Legends|Trade Federation]] version:
+*[[Blaster cannon/Legends|Blaster cannons]] (4)<ref name="FF48">{{FactFile|48|TRA 1-2|Trade Federation Droid Starfighter}}</ref>
+*[[Energy torpedo launcher]]s (2)<ref name="FF48" />
+[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] version:
+*[[Blaster/Legends|Blaster]] [[Cannon/Legends|cannons]] (4)<ref name="hasbro">[[Hasbro]] Titanium-series Vulture Droid [https://www.rebelscum.com/SWTS06vulture.asp]</ref> (6)<ref name="TCW">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+*[[Concussion missile launcher/Legends|Concussion missile launchers]]<ref name="SOTGSE" />
+**[[Concussion missile/Legends|Medium concussion missile]] (6)<ref name="SOTGSE" />
+**[[Discord missile/Legends|Discord missile]] (4)<ref name="ROTS">{{Film|III}}</ref>
+*[[Pistoeka sabotage droid/Legends|Buzz droid]] [[Missile launcher/Legends|missile launchers]] (2)<ref name="hasbro" />
+|complement=
+|bays=
+|escapepods=
+|crew=Integrated [[Droid/Legends|droid]] [[Droid brain/Legends|brain]]<ref name="CCS" />
+|skeleton=
+|passengers=None<ref name="CCS" /><ref name="SOTGSE" />
+|capacity=None<ref name="CCS" /><ref name="SOTGSE" />
+|cargohandling=
+|consumables=2 [[Standard day/Legends|days]]<ref name="SOTGSE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="SOTGSE" />
+|role=In [[Starfighter/Legends|starfighter]] mode:
+*Starfighter<ref name="CCS" />
+*[[Interceptor/Legends|Interceptor]]<ref name="CCS" />
+*Escort
+In [[Walker/Legends|walker]]-stance:
+*Walker<ref name="CCS" />
+*Reconnaissance<ref name="CCS" />
+|firstuse=
+|retired=
+|affiliation=*[[Trade Federation/Legends|Trade Federation]]<ref name="CCS" />
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="Rogue Planet" />
+**[[Outland Regions Security Force/Legends|Republic Outland Regions Security Force]]<ref name="Rogue Planet" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="SOTGSE" />
+*[[Separatist holdouts/Legends|Separatist holdouts]]<ref name="BII">''[[Star Wars: Battlefront II]]''</ref>
+**[[Gizor Dellso's navy]]<ref name="BII" />
+*[[Detritus Satellites]]<ref name="SWG:DS">{{SWGcite|exp=JtL|type=other|Dantooine system}}</ref>
+*[[Jillion Bolts Company]]<ref name="SWG:ES">{{SWGcite|exp=JtL|type=other|Endor system}}</ref>
+*[[S.A.T Artisan Sect]]<ref name="SWG:ES" />
+*[[Scintilla Scavenger/Legends|Scintilla Scavengers]]<ref name="SWG:NS">{{SWGcite|exp=JtL|type=other|Naboo system}}</ref>
+}}
+{{Quote|Droids don't talk back, they don't question your orders, and they never complain when you send them on suicide missions.|[[Rune Haako/Legends|Rune Haako]]|<ref name="NEGVV" />}}
+The '''''Vulture''-class starfighter''' (also known as the '''Variable Geometry Self-Propelled Battle Droid, Mark I''' or simply as the '''vulture droid''') was a [[Droid starfighter/Legends|droid starfighter]] used by the [[Trade Federation/Legends|Trade Federation]]. Later, in much greater numbers, it was utilized by the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]. It participated heavily in the [[Clone Wars/Legends|Clone Wars]], at engagements such as the [[Battle of Kamino/Legends|Battles of Kamino]] and [[Battle of Coruscant/Legends|Coruscant]].
+
+Like most of the Trade Federation's armed forces, it carried no living [[Pilot/Legends|pilot]], but rather a [[Droid/Legends|droid]] brain that was [[Droid control program|linked]] to a [[Central Control Computer/Legends|central control computer]], often aboard a [[Lucrehulk-class battleship/Legends|''Lucrehulk''-class Droid Control Ship]]. Each Trade Federation [[Lucrehulk-class battleship/Legends|battleship]] carried 1,500 such droid [[Starfighter/Legends|starfighters]].
+
+The ''Vulture''-class was designed by [[Haor Chall Engineering/Legends|Haor Chall Engineering]], which was founded by the fanatical [[Xi Char/Legends|Xi Char]], a religious order dedicated to high-precision manufacturing. As a result, it represented classic [[Xi Charrian/Legends|Xi Charrian]] design&mdash; an insectoid appearance, multiple weapons emplacements, and a compact body that offered only a small target for enemy fighters.
+
+==Characteristics==
+[[File:Droidfighter_ep1ig.png|thumb|left|200px|''Vulture''-class schematics]]
+The vulture [[Droid/Legends|droid]] carried four [[Blaster cannon/Legends|blaster cannons]] and two [[energy torpedo launcher]]s, and could reach 1200 [[Kilometer/Legends|kilo-meters]] per [[Standard hour/Legends|hour]] in a [[Planet/Legends|planet's]] [[Atmosphere/Legends|atmosphere]]. When not in flight, the ship could [[Droidification|transform]] into a walking weapons platform, used for ground patrol and [[Troop/Legends|troop]] support. While in this mode, the [[Droid starfighter/Legends|droid starfighter]] could also latch onto surfaces in zero [[Gravity/Legends|gravity]], allowing it to launch directly from the external hull of a [[Capital ship/Legends|capital ship]].<ref name="ROTS" /> The class featured [[thrust damper]]s, which if disabled forced starfighters to switch to the walker mode to operate.<ref name="SWJPB">[[Star Wars: Episode I Jedi Power Battles|''Star Wars'': Episode I ''Jedi Power Battles'']]</ref> When docked in a [[Hangar/Legends|hangar]], they would often flex their components as part of self-maintenance.<ref name="EPI: VD">''[[Star Wars: Episode I: The Visual Dictionary]]''</ref> ''Vulture''s were also programmed to self-destruct if their link with their host [[Lucrehulk-class battleship/Legends|control ship]] was severed.<ref name="Droid starfighter in the databank" /> The ships were controlled via a [[Central Control Computer/Legends|Central Control Computer]] on a ''Lucrehulk''-class Droid Control Ships.<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+
+A droid [[starfighter]] was capable of maneuvers that would kill an [[Species/Legends|organic]] [[Pilot/Legends|pilot]], but they lacked the resourcefulness and cunning of living pilots, although they were capable of responding much faster.<ref name="Shatterpoint">[[Shatterpoint (novel)|''Shatterpoint'']]</ref> Vulture droids had an unusual [[Fuel/Legends|fuel]] system, relying on solid-fuel concentrate slugs that provided propulsion upon ignition.<ref name="NEGVV" /> However, they could only function for 35 [[Standard minute/Legends|minutes]] before having to be refueled. The [[Trade Federation/Legends|Trade Federation]] solved this issue by sending vulture droids into battle in timed, rotating swarms.<ref name="EPI: VD" /> Although they could react quicker to new situations than organic pilots, they had trouble responding to friendly units firing on them, a weakness [[Mace Windu/Legends|Mace Windu]] exploited on [[Haruun Kal/Legends|Haruun Kal]]<ref name="Shatterpoint" /> and the [[Battle of Coruscant/Legends|Battle of Coruscant]].<ref name="Clone Wars Chapter 23">{{CW|23}}</ref>
+
+[[File:TradeFederationFighter.jpg|thumb|left|250px|Light, standard and advanced Trade Federation droid starfighters]]
+''Vulture''-class droids were capable of communicating with other battle droids, as shown during the Jedi's visit to the [[Saak'ak/Legends|''Saak'ak'']], [[Nute Gunray/Legends|Nute Gunray's]] [[Flagship/Legends|flagship]].
+
+Vulture droid starfighters were usually named by a six-digit designation number, consisting of ''DFS-'' and a three-digit alpha-numeric combination, as illustrated by the fighters [[DFS-1VR]] and [[DFS-4CT]].<ref name="SWTCG">[[Star Wars Trading Card Game|''Star Wars'' Trading Card Game]]</ref>
+
+[[File:VultureDroidWalk-SWCTP.png|thumb|right|200px|A vulture droid starfighter in walking configuration.]]
+''Vulture''-class fighters were launched in overwhelming numbers and excelled in both [[Atmosphere/Legends|atmospheric]] and [[Space warfare/Legends|space combat]]. The vulture droid's weapon systems consisted of four [[Blaster cannon/Legends|blaster cannons]] with two per wing. In standard flight format, the drone's wings were collapsed to conceal its blaster cannons. In combat, these wings split up to reveal these blaster cannons. In addition, the droid possessed two [[Energy torpedo/Legends|energy torpedo]] launchers that would weaken enemy targets before the starfighter delivered a blaster cannon barrage. In walker-mode, the ''Vulture''-class could only use its two torpedo launchers as its cannons were situated on the legs and pointed downwards.<ref name="EPI: VD" /> During the Clone Wars, vulture droids were modified to carry six blaster cannons and four [[Pistoeka sabotage droid/Legends|buzz droid]] [[Discord missile/Legends|discord missiles]] instead of energy torpedoes,<ref name="ROTS" /> however it's more than likely that they could carry other types of missiles. The ''Vulture'' droid design was used to produce the [[Hyena-class bomber/Legends|''Hyena''-class bomber]], another type of automated droid starfighter used by the Separatist Alliance.<ref name="SWE Hyena bombers">{{SWE|technology|hyenabombers|hyena bombers}}</ref> The ''Vulture''-class fighters, at least by the time of the Battle of Coruscant, also developed at least some capability of speech, as several were heard making statements in Neimoidian before making various maneuvers.<ref name="ROTS" />
+
+==Operational history==
+===Pre&ndash;Clone Wars===
+[[File:TFDCSbleedsVultures-BTMF30.png|thumb|left|300px|Vulture droids are launched from the Trade Federation Droid Control Ship in the Battle of Naboo.]]
+The droid starfighter endured rigorous testing before being deployed in the Trade Federation [[Invasion of Naboo/Legends|Invasion of Naboo]] in [[32 BBY/Legends|32 BBY]].<ref name="EPI: VD" />
+
+Only [[Standard month/Legends|months]] before [[Palpatine/Legends|Darth Sidious]] gave the order for Naboo's [[Blockade/Legends|blockade]], through machinations with the [[Trade Federation/Legends|Trade Federation]] he commissioned [[Trinkatta Starships]] of [[Esseles/Legends|Esseles]] in the [[Darpa sector/Legends|Darpa sector]] to outfit 50 ''Vulture''-class droid starfighters with [[Hyperdrive/Legends|hyperdrives]]&mdash;which the [[Galactic Republic/Legends|Republic]] had outlawed for that type of small fighter. The [[Sith Lord/Legends|Sith Lord]] wished for the starfighters to be used to take over the planet [[Brentaal IV/Legends|Brentaal]], which would then have allowed the Trade Federation to control with impunity two major galactic [[Hyperspace route|trade routes]]: the [[Perlemian Trade Route/Legends|Perlemian]] and the [[Hydian Way/Legends|Hydian Way]]. The pre&ndash;Clone Wars plot was foiled when the [[Jedi High Council/Legends|Jedi High Council]], unbeknownst to the [[Galactic Senate/Legends|Republic Senate]] (members of which might have been implicated), sent a team headed by [[Qui-Gon Jinn/Legends|Qui-Gon Jinn]] to investigate what party or parties had placed the illegal order.<ref name="Episode I Adventures 1: Search for the Lost Jedi">''[[Episode I Adventures 1: Search for the Lost Jedi]]''</ref>
+
+Droid starfighters were employed during skirmishes with [[Dega]]n [[Pirate/Legends|pirates]] in the [[Elrood sector/Legends|Elrood sector]] and were responsible for [[Occupation of Karthakk|defeating]] the pirate [[Nym/Legends|Nym's]] [[Lok Revenants/Legends|forces]] on [[Lok/Legends|Lok]].<ref name="Star Wars: Starfighter">[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']]</ref> The Naboo first encountered these drones when [[Echo Flight]] pilots led by [[Essara Till/Legends|Essara Till]] battled them during an [[Battle at TFP-9|assault]] on [[Station TFP-9]], not long before the assault on Naboo.<ref name="Starfighter Trap">{{GamerCite|1|The Starfighter Trap}}</ref>
+
+The droid starfighter then saw action in the Invasion of Naboo, during which they at first provided general air superiority, and later during the [[Battle of Naboo/Legends|Battle of Naboo]] swarms of them fought Naboo [[N-1 starfighter/Legends|N-1 starfighters]] in the [[Battle of Naboo/Legends|battle above the planet]]. The vultures were ultimately neutralized when [[Anakin Skywalker/Legends|Anakin Skywalker]] disabled [[Vuutun Palaa/Legends|the]] [[Lucrehulk-class battleship/Legends|''Lucrehulk''-class Droid Control Ship]].<ref name="TPM">{{Film|I}}</ref> Reports later suggested that the droid starfighters performed sluggishly during the battle due to an overwhelmed Central Control Computer, which also had to direct large numbers of ground troops.<ref name="OF">[[Outbound Flight (novel)|''Outbound Flight'']]</ref>
+
+After the battle, droid starfighters commanded by [[Raith Sienar/Legends|Raith Sienar]] participated as part of the [[Trade Federation fleet/Legends|Trade Federation Defense Fleet]] alongside Republic forces during the [[Second Battle of Zonama Sekot|attack]] on the living world [[Zonama Sekot/Legends|Zonama Sekot]].<ref name="Rogue Planet">''[[Rogue Planet]]''</ref> They would also be part of the Trade Federation force sent to destroy ''[[Outbound Flight]]'', but were neutralized thanks to the [[Chiss/Legends|Chiss]] [[Commander/Legends|Commander]] [[Mitth'raw'nuruodo/Legends|Thrawn]], who exploited their reliance on the droid-control signal by jamming its entire spectrum, nullifying the whole force. The captured [[Merchant/Legends|trader]] [[Jorj Car'das]] later reflected on the incident and mentioned the reports he had read about the starfighters' performance during the Battle of Naboo.<ref name="OF" /> They also saw action during the Trade Federation's occupation of the [[Karthakk system]].<ref name="Star Wars: Jedi Starfighter">''[[Star Wars: Jedi Starfighter]]''</ref>
+
+===Clone Wars===
+{{Quote|Master, General Grievous's ship is directly ahead, the one ''crawling'' with vulture droids.|Anakin Skywalker, referring to the Invisible Hand during the Battle of Coruscant|audio=DeadAhead-ROTS.flac|<ref name="ROTS" />}}
+[[File:CISVultureDroidWalk-TCW.png|thumb|left|300px|Vulture droid with the markings of the Confederacy of Independent Systems.]]
+During the [[Clone Wars/Legends|Clone Wars]], many ''Vulture''-class droids were painted with the blue and white hexagonal insignia of the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]], although many were seen in the early and middle stages of the war with Trade Federation brown coloring,<ref name="SW: TCW">[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]</ref> and were upgraded with buzz droid missile launchers, which they opened their wings to launch.<ref name="ROTS" /> Other manufacturers, chiefly [[Baktoid Armor Workshop/Legends|Baktoid Armor Workshop]], began production of the ''Vulture'' which had originally been built solely by its Xi Char developers.<ref name="LOE" />
+
+Vulture droids were fielded by the Confederacy against the Republic in numerous battles and conflicts including the [[First Battle of Geonosis/Legends|First Battle of Geonosis]] and the Battle of Coruscant,<ref name="ROTS" /> although the Confederacy also made substantial use of other fighters, such as the [[Nantex-class territorial defense starfighter/Legends|''Nantex''-class territorial defense starfighter]].<ref name="SW: CW">''[[Star Wars: Clone Wars]]''</ref> However, they did not pose a serious challenge for [[Jedi ace]]s such as Anakin Skywalker, as demonstrated in the [[Battle of Terra Sool]].<ref name="Skywalkers">{{CWACite|2|Skywalkers}}</ref>
+
+In addition to being launched from capital ships, vulture droids were also deployed from [[Automated vulture droid deployment station/Legends|satellite pods]] to defend areas from potentially hostile approaching vessels.<ref name="SW:TCW_BH">{{TCW|Bounty Hunters (episode)}}</ref>
+
+[[File:ValahariVultureDroid.jpg|thumb|right|200px|Advanced [[Valahari/Legends|Valahari]]-designed vulture droids]]
+At some point during the conflict, the Separatists entered into a trade agreement with the [[House of Vane]] from the planet [[Valahari/Legends|Valahari]]. The inhabitants of this world were famous for being excellent starship engineers. After the formation of this pact, which was formed between [[Count/Legends|Count]] [[Dooku/Legends|Dooku]] and his old friend [[Harko Vane]], who believed in neutrality but that the exchange of Valahari technology would benefit his world's economy. Thus, despite aiding the Separatists, the Valahari claimed to be neutral in the Clone Wars. This alliance led to Valahari fighter components being added to advanced Vulture droid models, increasing their speed and destructive power. These improved droid fighters were dispatched against the Republic, where they destroyed a battle group led by [[Jedi Master/Legends|Jedi Master]] [[Toluz Cheq]] in the [[Rial Kroon system/Legends|Rial Kroon system]]. Before he was killed, he managed to upload a transmission and a scan of the droid fighters to [[Coruscant/Legends|Coruscant]], thus informing them of this new threat. This led the [[Jedi Council/Legends|Jedi Council]] to dispatch [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] and Anakin Skywalker to Valahari to negotiate an end to the Confederacy-Valahari alliance.<ref name="HotC1">[[The Clone Wars 10|''The Clone Wars'' 10]]</ref>
+
+When Anakin Skywalker and Obi-Wan Kenobi arrived on [[Iego/Legends|Iego]] looking for the antidote to the deadly [[Blue Shadow Virus/Legends|Blue Shadow Virus]], a young Human boy named [[Jaybo Hood/Legends|Jaybo Hood]] had a reprogrammed army of droids left over from the Separatists, which included several vulture droids.
+
+[[File:Vulture_Droids.jpg|thumb|left|200px|Vulture droids in walking mode during the Battle of Coruscant.]]
+During the Battle of Coruscant, Mace Windu rode a vulture by tugging on its cranial wires.<ref name="SW: CW" /> [[General/Legends|General]] [[Grievous/Legends|Grievous]] often used them for suicide attacks designed to sow chaos, by making them perform kamikaze attacks on civilian targets.<ref name="LOE" /> An [[Vulture-class starfighter/Legends|advanced model]] was deployed prior to and during the Clone Wars.<ref name="SWGB">''[[Star Wars: Galactic Battlegrounds]]''</ref> Late in the war, ''Vulture''s were augmented by [[Droid tri-fighter/Legends|droid tri-fighters]], which were sturdier but less common.<ref name="LOE" /><ref name="ROTS" />
+
+===Galactic Civil War===
+Despite the [[Mission to Mustafar/Legends|deactivation of the droid armies]], ''Vulture''-class units were apparently being used by some parties by [[18 BBY/Legends|18 BBY]].<ref name="Last of the Jedi">''[[The Last of the Jedi: Secret Weapon]]''</ref> In addition, several ''Vulture''-class starfighters were modified by [[Separatist holdouts/Legends|Separatist holdouts]] during the [[Reconquest of the Rim]] to accompany organic pilots, of which the 77th Air Wing encountered on Kelrodo-Ai in 17 BBY in the Western Reaches Operation.<ref name="Guns">{{InsiderCite|132|The Guns of Kelrodo-Ai (short story)}}</ref>
+
+Between 1 BBY and 0 BBY, several vulture droids were deployed to Naboo from ''Lucrehulk''-class battleships belonging to an unknown party, resulting in a [[Skirmish over Naboo (Galactic Civil War)|battle]] over Naboo's atmosphere by a Rebel Alliance cell on Naboo.<ref name="ST2">''[[Star Tours: The Adventures Continue]]''</ref>
+
+A few years after the Clone Wars, [[Gizor Dellso]] utilized ''Vulture''-class starfighters to defend his facility on [[Mustafar/Legends|Mustafar]]. However, the [[Galactic Empire/Legends|Galactic Empire]] uncovered his plan, and the [[Stormtrooper/Legends|stormtroopers]] of the [[501st Legion/Legends|501st Legion]] stormed the planet, destroying the orbiting defense ships and decimating the facility.<ref name="BII" /> Even after this, ''Vulture''s would continue to be used by various parties, such as smugglers. Additionally, some groups of independent sentient ''Vulture'' droids were spotted in remote parts of some star systems, including the [[Detritus Satellites]] or the [[Scintilla Scavenger/Legends|Scintilla Scavengers]].<ref name="SWG">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+
+==Behind the scenes==
+[[File:VultureDroidConcept.jpg|thumb|right|200px|Vulture droid concept art]]
+The Vulture droid's first appearance was in the [[Star Wars: Episode I The Phantom Menace (novelization)|novelization of ''Star Wars Episode I: The Phantom Menace'']].<ref name="TPM novel">[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]]</ref> In the early plans for [[Star Wars: Episode I The Phantom Menace|''The Phantom Menace'']], the Trade Federation was intended to use more conventional starfighters that were merely piloted by [[B1-series battle droid/Legends|B1-Series battle droids]], like those in the [[Star Wars: Battlefront|''Battlefront'']] games. An early concept sketch depicted a fighter whose cockpit strongly resembled those of the [[TIE series/Legends|TIE Series]]. It was later decided that the fighters should themselves be droids.<ref name="Droid starfighter in the databank" />
+
+In the [[Star Wars: Clone Wars|''Clone Wars'']] cartoon, ''Vulture''s are depicted with brown coloring during the attack on Coruscant, despite being depicted as blue in the film. This can be considered an artistic inconsistency in the cartoon, though the cartoon itself was released before the movie.<ref name="Clone Wars Chapter 23" /> In the games ''Star Wars: Battlefront'' and ''[[Star Wars: Battlefront II]]'', Vulture droids (as well as other droid starships, such as the Droid Tri-fighter) are depicted as requiring a pilot. This can be attributed to game mechanics.<ref name="BII" /> During the movie ''The Clone Wars'', Vulture droids fire their blaster cannons from their energy-torpedo ports rather than from between their wings. This is possibly due to artistic license; however, it's established that Vulture droids can fire blaster bolts from their torpedo emitters but primarily only when they are in walker mode. This may have also been done to make animating and tracking the shots easier for the animators.
+
+There is a size variation of the Vulture droid (despite being much larger than the average droid). The difference is visible on the ''Star Wars: The Clone Wars'' TV series and [[Star Wars: Episode III Revenge of the Sith|''Revenge of the Sith'']]. Until now, the figures of the vulture droid that have been made by Hasbro and listed in ''[[Star Wars: Episode I Incredible Cross-Sections]]'' match exactly with the established size of 3.5 meters, as can be seen in [[Cartoon Network]]'s animated mini-series. In 2009, Hasbro stipulated that the new larger model of the droid starfighter will be released as an action figure.
+
+Five variations of the Vulture Droid Starfighter were released by [[the LEGO Group]], in 1999, 2005, 2007, and, for ''Star Wars: The Clone Wars'', 2009 and 2014.
+
+==Appearances==
+{{ScrollBox|content=
+[[File:VultureConcept.jpg|150px|thumb|Early concept art]]
+{{Mediacat|imagecat=Images of Vulture droid starfighters}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*[[Darth Plagueis (novel)|''Darth Plagueis'']] {{Ab|Darth Plagueis (audiobook)}}
+*{{GamerCite|1|The Starfighter Trap}}
+*''[[Cloak of Deception]]''
+*[[Star Wars: Obi-Wan (video game)|''Star Wars: Obi-Wan'']]
+*''[[Episode I Adventures 1: Search for the Lost Jedi]]''
+*[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']]
+*{{Film|I}}
+*[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]] {{Ab|Star Wars: Episode I The Phantom Menace (unabridged audiobook)}} {{1st}}
+*[[Star Wars: Episode I The Phantom Menace (junior novelization)|''Star Wars'': Episode I ''The Phantom Menace'' junior novelization]]
+*[[Star Wars: Episode I The Phantom Menace Movie Storybook|''Star Wars'': Episode I ''The Phantom Menace Movie Storybook'']]
+*[[Star Wars: The Phantom Menace Cine-Manga|''Star Wars: The Phantom Menace'' Cine-Manga]]
+*[[Star Wars: Episode I The Phantom Menace (video game)|''Star Wars'': Episode I ''The Phantom Menace'' video game]]
+*''[[Star Wars: Episode I: Battle for Naboo]]''
+*[[Star Wars: Invasion of Theed Adventure Game|''Star Wars: Invasion of Theed'' Adventure Game]]
+*[[Star Wars: Episode I — The Phantom Menace 2|''Star Wars: Episode I — The Phantom Menace'' 2]]
+*[[Star Wars: Episode I — The Phantom Menace 4|''Star Wars: Episode I — The Phantom Menace'' 4]]
+*''[[Star Wars: Battlefront]]''
+*{{Wizards|url=default.asp?x=starwars/article/sw20001120battle|text=Battle in the Streets!|int=Battle in the Streets!}}
+*''[[Rogue Planet]]''
+*[[Outbound Flight (novel)|''Outbound Flight'']] {{Ab|Outbound Flight (unabridged audiobook)}}
+*[[Starfighter: Crossbones 1|''Starfighter: Crossbones'' 1]] {{Flash}}
+*[[Starfighter: Crossbones 2|''Starfighter: Crossbones'' 2]]
+*''[[Star Wars: Jedi Starfighter]]''
+*[[Star Wars: Episode II — Attack of the Clones 4|''Star Wars: Episode II — Attack of the Clones'' 4]]
+*''[[Star Wars: Battlefront II]]''
+*''[[Machines of War]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]
+*''[[Boba Fett: Crossfire]]''
+*[[Republic 50|''Republic'' 50]]
+*[[Star Wars: Clone Wars Cine-Manga|''Star Wars: Clone Wars'' Cine-Manga]]
+*{{CW|7}}
+*{{InsiderCite|65|The Pengalan Tradeoff|reprint=1}}
+*{{CW|10}}
+*{{CW|11}}
+*{{CW|20}}
+*{{CWACite|5|Heroes on Both Sides (comic story)}}
+*''[[Jedi: Count Dooku]]''
+*{{Tales|22|Honor Bound}}
+*[[Republic 62|''Republic'' 62]]
+*[[Republic 64|''Republic'' 64]] {{Flash}}
+*[[Republic 67|''Republic'' 67]]
+*[[Republic 70|''Republic'' 70]]
+*[[Republic 71|''Republic'' 71]]
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*[[Star Wars: The Clone Wars (novelization)|''Star Wars: The Clone Wars'' novelization]] {{Ab|Star Wars: The Clone Wars (audiobook)}}
+*''[[Star Wars: The Clone Wars: Lightsaber Duels]]''
+*{{TCW|Ambush}} {{Flash}}
+*{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}}
+*{{TCW|Destroy Malevolence|Destroy ''Malevolence''}}
+*{{TCW|Rookies (episode)}}
+*''[[The Clone Wars: The Fall of Falleen]]'' {{Co}}
+*{{TCW|Downfall of a Droid}}
+*{{TCW|Duel of the Droids}}
+*''[[The Clone Wars: The Wind Raiders of Taloraan]]''
+*''[[The Clone Wars: Shipyards of Doom]]''
+*[[Shatterpoint (novel)|''Shatterpoint'']] {{Ab|Shatterpoint (unabridged audiobook)}}
+*{{StoryCite|story=Equipment (short story)|book=Star Wars: Short Story Collection}}
+*''[[The Clone Wars: No Prisoners]]'' {{Ab|The Clone Wars: No Prisoners (audiobook)}}
+*{{TCW|Bombad Jedi}}
+*{{TCW|Cloak of Darkness}}
+*{{TCW|Dooku Captured}}
+*''[[The Clone Wars: Crash Course]]''
+*{{TCW|Jedi Crash}}
+*{{TCW|Mystery of a Thousand Moons}}
+*{{TCW|Storm Over Ryloth}}
+*{{TCW|Innocents of Ryloth}} {{Flash}}
+*{{TCW|Liberty on Ryloth}}
+*''[[Star Wars: The Clone Wars: Republic Heroes]]''
+*''[[The Clone Wars: The Colossus of Destiny]]''
+*{{TCWComicCite|6.1|Inside Job}}
+*{{TCWComicCite|6.2|Keep the Faith!}}
+*''[[The Clone Wars: Act on Instinct]]''
+*{{TCW|Holocron Heist}}
+*{{SWArchive|url=games/playnow/airstrike/index.html|text=''Air Strike''|int=Air Strike}}
+*{{TCW|Cargo of Doom}}
+*{{TCW|Bounty Hunters (episode)}}
+*{{TCW|The Zillo Beast}}
+*[[The Clone Wars 10|''The Clone Wars'' 10]]
+*''[[The Clone Wars: The Valsedian Operation]]''
+*{{TCW|Duchess of Mandalore}}
+*{{InsiderCite|72|Republic HoloNet News Core Edition 15:01:03}} {{Mo}}
+*{{InsiderCite|74|CIS Shadowfeed Dispatch 15:2:29 Edition}} {{Po}}
+*{{SWArchive|url=games/playnow/gunship|text=Gunship Over Florrum|int=Gunship Over Florrum}}
+*[[The Clone Wars: Hunting the Hunters (Part III)|''The Clone Wars: Hunting the Hunters'' (Part III)]]
+*{{SWArchive|url=games/playnow/droids_over_iego|text=Droids Over Iego|int=Droids Over Iego}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|The Citadel (episode)}} {{Flash}}
+*{{TCW|Citadel Rescue}}
+*[[The Clone Wars 1|''The Clone Wars'' 1]]
+*[[The Clone Wars 3|''The Clone Wars'' 3]]
+*[[The Clone Wars 6|''The Clone Wars'' 6]]
+*{{TCW|Massacre}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|The Unknown}}
+*{{TCW|Crisis at the Heart}}
+*[[General Grievous 1|''General Grievous'' 1]]
+*{{CW|22}}
+*[[Obsession 3|''Obsession'' 3]]
+*[[Obsession 4|''Obsession'' 4]]
+*[[Free Comic Book Day 2005 Special]] {{Mo}}
+*''[[Boba Fett: A New Threat]]''
+*''[[Reversal of Fortune]]''
+*[[Republic 76|''Republic'' 76]]
+*''[[Labyrinth of Evil]]''
+*{{CW|23}}
+*{{CW|25}}
+*{{Film|III}}
+*[[Star Wars: Episode III Revenge of the Sith (junior novelization)|''Star Wars'': Episode III ''Revenge of the Sith'' junior novelization]]
+*[[Star Wars: Episode III — Revenge of the Sith 1|''Star Wars: Episode III — Revenge of the Sith'' 1]]
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*''[[The Last of the Jedi: Secret Weapon]]''
+*{{InsiderCite|132|The Guns of Kelrodo-Ai (short story)|reprint=1}}
+*[[Agent of the Empire – Iron Eclipse 4|''Agent of the Empire – Iron Eclipse'' 4]]
+*[[Agent of the Empire – Iron Eclipse 5|''Agent of the Empire – Iron Eclipse'' 5]]
+*''[[Star Tours: The Adventures Continue]]''
+*{{CWACite|2|Skywalkers}} {{Flash}}
+*''[[Star Wars Battlefront: Renegade Squadron]]'' {{Nc}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*{{GalaxiesNGE}} {{Mo}}
+*''[[Legacy of the Force: Tempest]]'' {{Mo}}
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}}
+*{{StoryCite|story=Celestia Galactica Photografica|book=Star Wars: Visionaries}}
+}}
+
+===Non-canon appearances===
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]''
+*<!-- 2005-12-XX -->{{StoryCite|story=Evil Eyes|book=Star Wars Manga: Black}}
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2011-07-22 -->''[[LEGO Star Wars: The Padawan Menace]]''
+*<!-- 2011-09-XX -->''[[LEGO Star Wars: Darth Maul's Mission]]''
+*<!-- 2012-01-16 -->[[LEGO Star Wars: The Phantom Menace|''LEGO Star Wars: The Phantom Menace'' DK Reader]] {{Po}}
+
+==Sources==
+{{ScrollBox|
+{{Mediacat|imagecat=Images of Vulture droid starfighters}}
+*<!-- 1999-05-03 -->[[Star Wars: Episode I The Phantom Menace: Prima's Official Strategy Guide|''Star Wars'': Episode I ''The Phantom Menace'': Prima's Official Strategy Guide]]
+*<!-- 1999-05-04 -->''[[Star Wars: Episode I Incredible Cross-Sections]]''
+*<!-- 1999-05-XX -->''[[Star Wars: Episode I: The Visual Dictionary]]''
+*<!-- 1999-05-XX -->{{HasbroCite|set=Star Wars: Episode I (toy line)|pack=Trade Federation Droid Fighters|altlink=https://www.rebelscum.com/episodeIvehdroidfighters.asp}}
+*<!-- 1999-06-23 -->[[Star Wars: Episode I Insider's Guide|''Star Wars'': Episode I ''Insider's Guide'']]
+*<!-- 1999-11-06 -->''[[Star Wars Episode I: The Data File]]''
+*<!-- 2000-03-29 -->[[Star Wars: Episode I Jedi Power Battles: Prima's Official Strategy Guide|''Star Wars'': Episode I ''Jedi Power Battles'': Prima's Official Strategy Guide]]
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-02-08 -->''[[Secrets of Naboo]]''
+*<!-- 2001-02-21 -->[[Star Wars: Starfighter: Prima's Official Strategy Guide|''Star Wars: Starfighter'': Prima's Official Strategy Guide]]
+<!-- 2001-08-08 -->{{CardGameSet|set={{CCG|set=Coruscant Limited|parent=1}}|cards=
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Droid Starfighter}}
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Establish Control}}
+}}
+<!-- 2001-12-12 -->{{CardGameSet|set={{CCG|set=Theed Palace Limited|parent=1}}|cards=
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Blockade Flagship: Docking Bay (Dark)}}
+*<!-- 2001-10-31 -->{{CCG|set=Theed Palace Limited|cardname=DFS Squadron Starfighter}}
+*<!-- 2001-10-31 -->{{CCG|set=Theed Palace Limited|cardname=DFS-1015}}
+*<!-- 2001-10-31 -->{{CCG|set=Theed Palace Limited|cardname=DFS-1308}}
+*<!-- 2001-10-31 -->{{CCG|set=Theed Palace Limited|cardname=DFS-327}}
+*<!-- 2001-10-31 -->{{CCG|set=Theed Palace Limited|cardname=Droid Starfighter Laser Cannons}}
+*<!-- 2001-10-31 -->{{CCG|set=Theed Palace Limited|cardname=Fighters Straight Ahead}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=In Complete Control}}
+}}
+*<!-- 2001-12-XX -->[[Star Wars: Obi-Wan: Prima's Official Strategy Guide|''Star Wars: Obi-Wan'': Prima's Official Strategy Guide]]
+*<!-- 2002-10-29 -->[[Star Wars: The Clone Wars: Prima's Official Strategy Guide|''Star Wars: The Clone Wars'': Prima's Official Strategy Guide]]
+*<!-- 2002-11-28 -->{{FactFile|48|TRA 1-2|Trade Federation Droid Starfighter}}
+*<!-- 2003-01-01 -->{{FactFile|53|TRA 3-4|Trade Federation Droid Starfighter}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-09-28 -->[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]''
+*<!-- 2005-10-17 -->{{Hyperspace|url=hyperspace/member/galactic/2005/10/galactic20051017.html|series=Galactic Gallery|text=Droid Flying Wing}}
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2006-09-XX -->{{SWMiniCite|set=Bounty Hunters|pack=Droid Starfighter in Walking Mode}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2008-07-26 -->''[[Star Wars: The Clone Wars: The Visual Guide]]''
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=V-wing}}
+*<!-- 2010-07-XX -->[[Star Wars: ABC|''Star Wars'': ABC]]
+*<!-- 2010-08-12 -->[[Star Wars: The Official Starships & Vehicles Collection 50|''Star Wars: The Official Starships & Vehicles Collection'' 50]]
+<!-- 2011-08-25 -->{{SourceContents|issue={{StarshipsVehiclesCite|77|parent=1}}|contents=
+*<!-- 2011-08-25 -->{{StarshipsVehiclesCite|77|Legendary Craft}}
+*<!-- 2011-08-25 -->{{StarshipsVehiclesCite|77|In Command}}
+*<!-- 2011-08-25 -->{{StarshipsVehiclesCite|77|Did You Know?}}
+}}
+*<!-- 2011-09-13 -->{{DB|starship|droidstarfighter|droid starfighter}}
+*<!-- 2012-01-16 -->''[[Star Wars: Battle for Naboo]]''
+*<!-- 2012-01-16 -->''[[Star Wars: The Phantom Menace: The Expanded Visual Dictionary]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-04-30 -->''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]'' {{Po}}
+*<!-- 2013-06-03 -->''[[Star Wars: The Clone Wars: Episode Guide]]''
+*<!-- 2013-12-12 -->''[[Star Wars: Sith Wars]]''
+*<!-- 2014-03-18 -->{{SW|url=news/the-essential-guide-to-warfare-authors-cut-part-6-showdown-at-naboo|series=Star Wars: The Essential Guide to Warfare Author's Cut|text=Part 6: Showdown at Naboo}}
+*<!-- 2014-04-25 -->{{SWE|technology|droid-gunship|droid gunship}}
+*<!-- 2014-04-25 -->{{SWE|technology|hyenabombers|hyena bombers}}
+*<!-- 2014-04-25 -->{{SWE|technology|vulturedroid|vulture droid}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]] {{Po}}
+}}
+
+==Notes and references==
+{{ScrollBox|content=
+{{Reflist|2}}
+}}
+
+{{Interlang
+|de=Selbstangetriebener Kampfdroide mit variabler Geometrie, Typ I#legends
+|es=Droide de Combate Autopropulsado de Geometría Variable, Mark I/Leyendas
+|hu=Droid keselyűvadász
+|it=Caccia stellare droide classe Vulture
+|ja=可変翼自動推進式バトル・ドロイド・マークI/レジェンズ
+|nl=Variable Geometry Self-Propelled Battle Droid, Mark I
+|pl=Droid-myśliwiec o zmiennej geometrii skrzydeł, Mark I/Legendy
+|pt=Legends:Dróide de Batalha Autopropulsionado de Geometria Variável, Mark I
+|deFA=1
+}}
+
+[[Category:Baktoid Armor Workshop products]]
+[[Category:Droid models of the Confederacy of Independent Systems]]
+[[Category:Droid models of the Trade Federation]]
+[[Category:Droid starfighter classes]]
+[[Category:Haor Chall Engineering products]]
+[[Category:Starship classes of the Trade Federation]]
+{{RelatedCategories
+|[[Category:Vulture-class starfighters]]
+}}

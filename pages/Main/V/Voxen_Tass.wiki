@@ -1,0 +1,72 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:Brayl.jpg]]
+|name=''Voxen Tass''
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Brayl-class bulk freighter|''Brayl''-class bulk freighter]]<ref name="IA TAS">{{WEGCite|story=The Argovia Strike|book=Instant Adventures}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=100 [[Meter/Legends|meters]]<ref name="IA TAS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=600 [[Kilometer per hour/Legends|kmh]]<ref name="IA TAS" />
+|maneuverability=
+|engine=
+|hyperdrive=*x3{{C|primary}}<ref name="IA TAS" />
+*x12{{C|backup}}<ref name="IA TAS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="IA TAS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 pilot and 7 other crew<ref name="IA TAS" />
+|skeleton=
+|passengers=
+|capacity=75,000 [[Metric ton/Legends|metric tons]]<ref name="IA TAS" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="IA TAS" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="IA TAS" />
+|navy=
+|fleet=
+|owners=
+|captains=[[Leona Makk]]<ref name="IA TAS" />
+|registry=
+|aliases=
+}}
+The '''''Voxen Tass''''' was a modified [[Brayl-class bulk freighter|''Brayl''-class bulk freighter]] that was operational during the [[Galactic Civil War/Legends|Galactic Civil War]]. Captained by [[Leona Makk]], the ''Voxen Tass'' was a ship from [[Shang Lines]]. At one point it delivered an [[Alliance to Restore the Republic/Legends|Alliance]] strike team to [[Argovia]], where the team destroyed a [[Sensor/Legends|sensornet]] established by the [[Galactic Empire/Legends|Galactic Empire]].
+
+==Appearances==
+*{{WEGCite|story=The Argovia Strike|book=Instant Adventures}} {{1st}}
+
+==Sources==
+*<!-- 2008-12-09 -->{{CSWECite|II|278|Makk, Leona}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Brayl-class bulk freighters]]

@@ -1,0 +1,81 @@
+{{Top|leg|title=''Wander''-class jump freighter}}
+{{StarshipClass
+|image=[[File:Alabak_Gold.jpg]]
+|name=''Wander''-class jump freighter
+|designer=
+|manufacturer=[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]<ref name="TM-CA3">{{WEGCite|book=Classic Adventures: Volume Three|story=Tatooine Manhunt}}</ref>
+|line=
+|model=
+|type=[[Freighter/Legends|Freighter]]<ref name="TM-CA3" />
+|cost=
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="TM-CA3" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|km]][[Standard hour/Legends|h]]<ref name="TM-CA3" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="TM-CA3" />
+*[[Backup hyperdrive|Class 12]]<ref name="TM-CA3" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="TM-CA3" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="TM-CA3" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="TM-CA3" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Laser cannon/Legends|double laser cannons]]<ref name="TM-CA3" />
+|complement=
+|bays=
+|escapepods=
+|crew=1; 2 [[Gunner/Legends|gunners]]<ref name="TM-CA3" />
+|skeleton=
+|passengers=6<ref name="TM-CA3" />
+|capacity=75 [[Metric ton/Legends|metric tons]]<ref name="TM-CA3" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|months]]<ref name="TM-CA3" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Wander''-class jump freighter''' was a [[Mon Calamari/Legends|Mon Calamari]] freighter design.
+
+==History==
+It was used during the last years of the [[Galactic Republic/Legends|Galactic Republic]] and continued into the time of the [[Galactic Empire/Legends|Galactic Empire]].
+
+One ''Wander''-class jump [[Freighter/Legends|freighter]], ''[[Alabak's Gold]]'', was in service to the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. It was used by the Alliance team tasked with [[Escape from Tatooine|retrieving]] [[Adar Tallon/Legends|Adar Tallon]] from [[Tatooine/Legends|Tatooine]].<ref name="TM-CA3" />
+
+==Appearances==
+*''[[Tatooine Manhunt]]'' {{Reprint|Tatooine Manhunt}} {{ID|Calamari jump freighter}}
+
+==Sources==
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{ID|Calamari jump freighter}}
+*<!-- 2016-06-02 -->''[[Savage Spirits]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Carguero saltador clase Errante
+}}
+
+[[Category:Freighter classes]]
+[[Category:Mon Calamari Shipyards products]]
+
+{{RelatedCategories
+|[[Category:Wander-class jump freighters]]
+}}
