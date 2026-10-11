@@ -1,0 +1,108 @@
+{{Top}}
+{{GroundVehicle
+|image=[[File:AT-OT_side.jpg]]
+|name=All Terrain Open Transport
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="ATOTDB">{{DB|vehicle|atot|All Terrain Open Transport (AT-OT walker)}}</ref>
+|line=
+|model=All Terrain Open Transport<ref name="ATOTDB" />
+|type=[[Walker/Legends|Walker]]<ref name="ATOTDB" />
+|cost=
+|modifier=
+|sysmods=
+|length=14.3 [[Meter/Legends|meters]]<ref name="ATOTDB" />
+|width=
+|height=5.8 meters<ref name="ATOTDB" />
+|mass=
+|max accel=
+|speed=55 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="starships72">[[Star Wars: The Official Starships & Vehicles Collection 72|''Star Wars: The Official Starships & Vehicles Collection'' 72]]</ref>
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Medium [[Laser cannon/Legends|laser cannons]] {{C|2 forward}}<ref name="starships72" />
+*Anti-personnel laser cannons {{C|2 rear}}<ref name="starships72" />
+|complement=
+|bays=
+|escapepods=
+|crew=1 pilot<ref name="starships72" />
+|skeleton=
+|passengers=*34 seated troops {{C|standard configuration}}<ref name="ATOTDB" /><ref name="starships72" />
+*25 standing troops<ref name="starships72" />
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Troop [[Transport/Legends|transport]]<ref name="ATOTDB" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="ATOTDB" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+**[[Imperial Army/Legends|Imperial Army]]<ref name="RECG" />
+}}
+The '''All Terrain Open Transport (AT-OT)''' was a [[Walker/Legends|walking]] troop [[Carrier/Legends|carrier]] used by the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] during the [[Clone Wars/Legends|Clone Wars]].
+
+==Characteristics==
+[[File:ATOT-CVDp185.jpg|thumb|left|200px|AT-OT sideview]]
+As an armored vehicle, the AT-OT differed from the other walkers in [[Kuat Drive Yards/Legends|Kuat Drive Yards]]' AT-series, as it was not designed for combat. Instead, it was used to reinforce armies behind friendly lines as a cargo [[Walker/Legends|walker]].<ref name="ATOTDB" />
+
+Although these eight-legged walkers were well-armored and equipped with four [[Laser cannon/Legends|laser cannons]] for defense, their open tops made them extremely vulnerable to attacks from above. AT-OT walkers had enough seats for at least 34 [[Clone trooper/Legends|clone troopers]], but they could carry more troops if required, thanks to the open-bed design. The vehicle's defenses included two forward cannons and two tail cannons.<ref name="ATOTDB" /> The AT-OT was not used for attack; it was mainly used for carrying a vast number of clone troopers onto the battlefield.
+
+==History==
+<div style="float:right">[[File:Atotfelucia.jpg|thumb|300px|AT-OT on Felucia.]]</div>
+With the open top design making transport of troops a risky endeavor, the personnel walker was commonly used throughout the Clone Wars far from the front lines, only traveling far enough to deposit troops at the outer perimeters of battles. They were used to good effect in heavily-forested terrain, where cover was relatively abundant.<ref name="SW:TCVD">''[[Star Wars: The Complete Visual Dictionary]]''</ref>
+
+The AT-OT walkers participated in the [[Outer Rim Sieges/Legends|Outer Rim Sieges]], most notably in the [[Battle of Felucia (Outer Rim Sieges)/Legends|Battle of Felucia]],<ref name="ROTS">{{Film|III}}</ref> where they carried troops through the battlefield and toward crucial water treatment facilities, in an attempt to stop contaminated water from being released into [[Felucia/Legends|Felucia's]] planetary water supply by the [[Confederacy of Independent Systems/Legends|Separatist]] leader, [[Shu Mai/Legends|Shu Mai]].<ref name="EA:ROF">''[[Reversal of Fortune]]''</ref>
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], a similar [[All Terrain Tactical Enforcer (cargo transport)|open-top]] cargo walker, derived from the [[All Terrain Tactical Enforcer/Legends|AT-TE]] design, served the [[Galactic Empire/Legends|Empire]].<ref name="SWE:TTLM">''[[Star Wars: Empire: To the Last Man]]''</ref>
+
+==Behind the scenes==
+[[The LEGO Group]] released a building set with a [[Low Altitude Assault Transport/carrier/Legends|LAAT/c]] gunship that carried an AT-OT.<ref name="LegoSWTCW">{{LEGOCite|type=ucs|num=10195|name=Republic Dropship with AT-OT}}</ref>
+
+==Appearances==
+*{{Film|III}} {{1st}}
+*[[Star Wars: The Force Unleashed]] (DS)
+
+==Non-canon appearances==
+*''[[Kinect Star Wars]]''
+
+==Sources==
+{{Mediacat|imagecat=Images of All Terrain Open Transports}}
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2008-03-05 -->{{PocketModel|set=Order 66|cardname=21st Nova Corps AT-OT}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]'' {{C|Indirect reference}}
+*<!-- 2011-09-13 -->{{DB|vehicle|atot|All Terrain Open Transport (AT-OT walker)}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Brickipedia|10195 Republic Dropship with AT-OT}}
+
+{{Interlang
+|cs=AT-OT/Legendy
+|de=Allterrain Offener Transporter#legends
+|es=Transporte Abierto Todo Terreno/Leyendas
+|fi=All Terrain Open Transport/Legends
+|hu=AT-OT
+|it=All Terrain Open Transport
+|nl=All Terrain Open Transport
+|pl=All_Terrain_Open_Transport/Legendy
+|uk=AT-OT/Легенди
+}}
+
+[[Category:AT-series models|Open Transport]]
+[[Category:Kuat Drive Yards products]]
+[[Category:Vehicle classes of the Galactic Empire]]
+[[Category:Vehicle classes of the Galactic Republic]]

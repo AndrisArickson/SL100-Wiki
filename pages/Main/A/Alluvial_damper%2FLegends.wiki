@@ -1,0 +1,99 @@
+{{Top}}
+{{Device
+|image=[[File:Damper.jpg]]
+|name=Alluvial damper
+|manufacturer=
+|model=
+|type=[[Starship/Legends|Starship]] component<ref name="SWS">''[[The Star Wars Sourcebook]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Controls excess ion particle emissions<ref name="SWS" />
+|heritage=
+|affiliation=
+}}
+{{Quote|Alluvial dampers regulate the flow of ion particles into the hyperdrive to help keep it from overheating.|Malavai Quinn|<ref name="Star Wars: The Old Republic">''[[Star Wars: The Old Republic]]''</ref>}}
+An '''alluvial damper''' was a subsystem of a [[Starship/Legends|starship's]] [[Hyperdrive/Legends|hyperdrive]] that was responsible for the regulation of thrust output from the generator. It operated by moving a [[Servomotor/Legends|servomotor]]-controlled plate to channel the emission of ion particles from the hyperdrive in a certain direction.
+
+[[Han Solo/Legends|Han Solo]] once resisted a temptation to convert [[C-3PO/Legends|C-3PO]] into a pair of backup alluvial dampers.<ref name="Dark Force Rising">''[[Dark Force Rising]]''</ref>
+
+{{Tech-stub}}
+
+==Appearances==
+*{{SWArchive|url=games/videgames/tor_smugglersvanguard/index.html|text=''The Old Republic: Smuggler's Vanguard''|int=The Old Republic: Smuggler's Vanguard}} {{Mo}}
+*''[[Star Wars: The Old Republic]]'' {{Mo}}
+*[[Outbound Flight (novel)|''Outbound Flight'']] {{Ab|Outbound Flight (unabridged audiobook)}}
+*{{StoryCite|story=A Hunter's Fate: Greedo's Tale|book=Tales from the Mos Eisley Cantina}}
+*{{JournalCite|14|Crimson Bounty}}
+*{{Film|V}} {{Mo}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]] {{Mo}}
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}} {{1stm|in book}}
+*[[Star Wars (1977) 41|''Star Wars'' (1977) 41]] {{Reprint|Star Wars (1977) 41}} {{Mo}}
+*{{ESBRadio|The Millennium Falcon Pursuit}} {{Mo}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{Mo}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}} {{Mo}}
+*''[[Star Wars: Jedi Knight: Jedi Academy]]'' {{C|As damper}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}} {{Mo}}
+*''[[Legacy of the Force: Sacrifice]]'' {{C|As damper}}
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}}
+
+===Non-canon appearances===
+*<!-- 1997-03-XX -->''[[Star Wars: Yoda Stories]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Starfighter Battle Book: X-wing vs TIE Interceptor]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]] {{Mo}}
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Han's Toolkit}}
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2001-11-06 -->{{GamerCite|7|Secrets of Mos Eisley}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|link=https://swtcg.com/Content/Images/Cards/ESB/Emergency_Repairs.webp?v=2|cardname=Emergency Repairs}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Amortiguador aluvial
+}}
+
+[[Category:Hyperdrive parts]]

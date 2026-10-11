@@ -1,0 +1,113 @@
+{{Top}}
+{{GroundVehicle
+|image=[[File:Eaw_at-aa_perspective.jpg]]
+|name=All Terrain Anti Aircraft
+|designer=
+|manufacturer=[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="EAWGG">[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]</ref>
+|line=[[AT-series/Legends|All Terrain]]
+|model=All Terrain Anti-Aircraft<ref name="EAWGG" />
+|type=[[Walker/Legends|Walker]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|cost=135,000 [[Galactic Credit Standard/Legends|credits]]<ref name="Stay on Target">[[Stay on Target (sourcebook)|''Stay on Target'']]</ref> {{C|Not available for sale}}<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=18 [[Meter/Legends|meters]]<ref name="db">{{DB|vehicle|ataa|All Terrain Anti Aircraft (AT-AA walker)}}</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|speed=60 [[Kilometer per hour/Legends|km/h]]<ref name="RECG" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=Standard model:
+*[[Anti-aircraft flak pod]]<ref name="RECG" />
+*[[Blaster rifle/Legends|Blaster rifle]] mounts {{C|optional}}<ref name="db" />
+Alternate armament:
+*Concussion missile launcher<ref name="RECG" /><ref name="Stay on Target" />
+**36 [[Concussion missile/Legends|concussion missiles]]<ref name="RECG" />
+*Turret mounted twin light flak cannons<ref name="Stay on Target" />
+|complement=
+|bays=
+|escapepods=
+|crew=3&ndash;4 (1 pilot and 1<ref name="Stay on Target" />&ndash;2 gunners, plus 1 commander<ref name="Stay on Target" />)<ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=250 [[Kilogram/Legends|kilograms]]<ref name="RECG" />
+|cargohandling=
+|consumables=3 days<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=Combat walker<ref name="db" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="RECG" />
+**[[Imperial Army/Legends|Imperial Army]]<ref name="RECG" />
+}}
+{{Quote|Watching the skies.|An AT-AA pilot|<ref name="EaW">''[[Star Wars: Empire at War]]''</ref>}}
+The '''All Terrain Anti Aircraft (AT-AA)''' was a quick-moving, quadrupedal, mobile anti-aircraft [[Walker/Legends|walker]] used by the [[Galactic Empire/Legends|Galactic Empire]].
+
+==Characteristics==
+[[File:Eaw_at-aa.jpg|thumb|left|150px|Multiple views of an AT-AA]]
+
+The AT-AA had four stubby legs and lizard-like locomotion, along with a low profile not seen in other Imperial [[Walker/Legends|walkers]]. On most models, the only weapon was a turreted [[Anti-aircraft flak pod|flak pod]], capable of firing several types of ordnance.<ref name="db" /> Other versions could be equipped with one or three rocket-launching tubes.<ref name="RECG" /> Initially the AT-AA had an inability to fire at ground targets. This was partially rectified with the addition of gun ports to allow the crew to fend off infantry attacks.<ref name="RECG" />
+
+Some variation had flak pods replaced with concussion missile launchers.<ref name="RECG" /> The AT-AA also carried electronic countermeasure systems that could scramble missile guidance systems, thus lowering the risk of missile strikes.<ref name="db" />
+
+==History==
+{{Quote|Move! Move!|Unnamed AT-AA pilot|<ref name="EaW" />}}
+[[File:AT-AA1.jpg|thumb|left|250px|AT-AAs firing]]
+
+Its preliminary designs were developed as far back as the [[Clone Wars/Legends|Clone Wars]], and the design began production early on in the time of the [[New Order/Legends|New Order]].<ref name="db" /> The walker saw action during the [[Galactic Civil War/Legends|Galactic Civil War]], where it was used against aircraft, but was useless against any ground vehicles.<ref name="RECG" /> Although the troopers aboard could fix blaster rifle mounts on the vehicle, the AT-AA still relied heavily on escorting infantry vehicles,<ref name="db" /> including AT-STs.<ref name="Stay on Target" />
+
+During the [[Battle of Kalaan]], AT-AA batteries protected the armored columns from airborne enemies, bringing down scores of [[Alliance to Restore the Republic/Legends|Alliance]] [[T-47 airspeeder/Legends|T-47 airspeeders]].<ref name="FC">''[[Star Wars: Force Commander]]''</ref>
+
+AT-AAs were used even in the time of the [[New Republic/Legends|New Republic]], where they [[Liberation of Coruscant (Galactic Civil War)|defended]] the [[Coruscant/Legends|galactic capital]] from the [[New Republic Defense Force/Legends|New Republic Defense Force]].<ref name="SWGBCC">''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''</ref>
+
+==Behind the scenes==
+The AT-AA is the only Imperial siege weapon originating from the [[Star Wars Legends|Expanded Universe]] to appear in all three of the major ''[[Star Wars]]'' RTS games.<ref name="GC">''[[Star Wars: Galactic Battlegrounds]]''</ref><ref name="FC" /><ref name="EaW" />
+
+==Appearances==
+[[File:Aarocket.jpg|thumb|175px|An AT-AA with a missile tube.]]
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*''[[Star Wars: Force Commander]]'' {{1st}}
+
+==Sources==
+{{Mediacat|imagecat=Images of All Terrain Anti-Aircraft}}
+*<!-- 2000-04-10 -->[[Star Wars: Force Commander: Prima's Official Strategy Guide|''Star Wars: Force Commander'': Prima's Official Strategy Guide]]
+*<!-- 2002-12-03 -->{{InsiderCite|64|The Vehicles of Episode II}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|ataa|All Terrain Anti Aircraft (AT-AA walker)}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=All-Terrain-Luftabwehrläufer
+|es=AntiAéreo Todo Terreno
+|fi=All Terrain Anti-Aircraft
+|it=All Terrain Anti-Aircraft
+|no=AT-AA
+|pl=All Terrain Anti-Aircraft
+|uk=AT-AA/Легенди
+}}
+
+[[Category:AT-series models|Anti Aircraft]]
+[[Category:Rothana Heavy Engineering products]]
+[[Category:Vehicle classes of the Galactic Empire]]

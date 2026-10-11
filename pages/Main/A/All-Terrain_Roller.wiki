@@ -1,0 +1,56 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=All-Terrain Roller
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Wheeled
+|cost=3,500 [[Galactic Credit Standard/Legends|credits]] {{C|500 used}}
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=120 [[Kilometer per hour/Legends|km/h]]
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1
+|skeleton=
+|passengers=1
+|capacity=
+|cargohandling=
+|consumables=1 [[Standard day/Legends|day]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+An '''All-Terrain Roller''' was a vehicle that moved on three or four wheels, and was able to handle wide varieties of terrain.
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]'' {{1stm}}
+
+[[Category:Crawler and wheeled vehicle models]]

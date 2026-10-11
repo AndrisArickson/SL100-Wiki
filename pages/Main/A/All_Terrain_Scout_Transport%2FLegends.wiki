@@ -1,0 +1,568 @@
+{{Top}}
+{{GroundVehicle
+|image=[[File:ATST-ArtofROTJ.png]]
+|name=All Terrain Scout Transport
+|designer=
+|manufacturer=*[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="SWAJ10_281">[[Star Wars Adventure Journal 10|''Star Wars Adventure Journal'' 10]]</ref><ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*[[Imperial Department of Military Research/Legends|Imperial Department of Military Research]]<ref name="CCS" />
+|line=[[AT-series/Legends|All Terrain]] series<ref name="SWTSAT-ST">''[[Star Wars: Titanium Series]]'' AT-ST (Hoth)</ref>
+|model=All Terrain Scout Transport<ref name="CCS" />
+|type=[[Walker/Legends|Walker]]<ref name="ESB">{{Film|V}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=6.4 [[Meter/Legends|meters]]<ref name="SWRPGRGR">''[[Star Wars Roleplaying Game Revised Core Rulebook]]''</ref>
+|width=
+|height=8.6 meters<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="CCS" /><ref name="IHB">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>
+|mass=12,100 [[Kilogram/Legends|kilograms]]<ref name="H2H">''[[Star Wars: Head-to-Head Tag Teams]]''</ref>
+|max accel=
+|speed=90 [[Kilometer per hour/Legends|km/h]]<ref name="BtM" /><ref name="CCS" /><ref name="IHB" />
+|velocity=
+|engine=[[PowaTek]] [[AH-50 disposable high-intensity power cell|AH-50]] energy cell<ref name="CCS" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=Ground-penetrating sensor systems<ref name="SWTSAT-ST" />
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*1 [[Taim & Bak/Legends|Taim & Bak]] [[MS-4 twin blaster cannon/Legends|MS-4 twin blaster cannon]]<ref name="CCS" />
+*1 light [[E-web twin blaster cannon]]<ref name="CCS" />
+*1 [[Dymek/Legends|Dymek]] [[DW-3 concussion grenade launcher/Legends|DW-3 concussion grenade launcher]]<ref name="CCS" />
+**[[Homing concussion missile]]s<ref name="SW:RSIII:RS">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref>
+OR
+*1 [[Mk 2/W twin blaster cannon]]<ref name="MBC">''[[Star Wars Miniatures Battles Companion]]''</ref>
+*1 [[Mk 1/W twin light blaster cannon]]<ref name="MBC" />
+*1 [[Mk 1/W concussion grenade launcher]]<ref name="MBC" />
+**3 [[Mk 2/W concussion grenade]]s<ref name="MBC" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Vehicle Command Crewer|Pilot]] (1)<ref name="BtM" />
+*[[Gunner/Legends|Gunner]] (1)<ref name="BtM" />
+|skeleton=
+|passengers=
+|capacity=200 kilograms<ref name="BtM" /><ref name="CCS" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Anti-personnel<ref name="ESB" />
+*Reconnaissance<ref name="SWTSAT-ST" /><ref name="TNEGTVAV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+*Troop support<ref name="TNEGTVAV" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="LoE">''[[Labyrinth of Evil]]''</ref>
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="SW:RSIII:RS" />
+*[[Zann Consortium/Legends|Zann Consortium]] {{C|stolen}}<ref name="Forces">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="TNJO: TUF">''[[The New Jedi Order: The Unifying Force]]''</ref>
+*[[Dark Empire]]<ref name="Dark Empire II">''[[Star Wars: Dark Empire II]]''</ref>
+*[[Empire Reborn]]<ref name="Outcast">''[[Star Wars: Jedi Knight II: Jedi Outcast]]''</ref>
+*[[New Republic/Legends|New Republic]]<ref name="AoCII:JE">''[[The New Jedi Order: Agents of Chaos II: Jedi Eclipse]]''</ref>
+}}
+{{Quote|AT-STs will no longer be deployed on planets with an abundance of trees or other known obstacles such as rock-wielding primitives.|[[Imperial AT-ST manual|AT-ST service manual]], post-[[Battle of Endor/Legends|Battle of Endor]]|<ref name="TNEGTVAV" />}}
+The '''All Terrain Scout Transport (AT-ST)''', also known as the '''chicken walker''' for its two-legged design, was a bipedal [[Walker/Legends|walker]] used by the [[Galactic Republic/Legends|Galactic Republic]] during the late [[Clone Wars/Legends|Clone Wars]] and, later and more extensively, by the [[Galactic Empire/Legends|Galactic Empire]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. It was a successor of the [[All Terrain Experimental Transport|AT-XT]].
+
+==Characteristics==
+===Main design===
+[[File:Atstblue.jpg|thumb|left|180px|AT-ST [[:Category:Technical drawing images|schematics]].]]
+Colloquially known as a "chicken [[Walker/Legends|walker]]" because of its shape and walking motion, the AT-ST was a light, heavily-armed, ground combat vehicle, and able to trek various environments. The stock model was equipped with a chin-mounted, double [[Blaster cannon/Legends|blaster cannon]], a light [[E-Web heavy repeating blaster/Legends|E-Web]] twin [[Blaster cannon/Legends|blaster cannon]] on the port side, a [[Concussion grenade/Legends|concussion grenade]] launcher on the starboard side of its head, two clawed feet, and was encased with 9095-T8511 grade durasteel.<ref name="SW:RSIII:RS" />
+
+The AT-ST was designed to be a recon, hit-and-run vehicle. It was lighter than its bigger brother, the [[All Terrain Armored Transport/Legends|AT-AT]], and could withstand standard blaster fire, but was vulnerable to heavy laser fire and [[Missile/Legends|missiles]], as well as physical attacks to the legs and the side of the head. The latter weakness was witnessed during the [[Battle of Endor/Legends|Battle of Endor]], when the [[Ewok/Legends|Ewok]] tribal warriors destroyed an AT-ST by using logs to ram the sides of the walker's head.<ref name="Star Wars: The Visual Dictionary">''[[Star Wars: The Visual Dictionary]]''</ref> The AT-ST could also be infiltrated by [[Species/Legends|species]] with great physical strength. At Endor, the [[Wookiee/Legends|Wookiee]], [[Chewbacca/Legends|Chewbacca]], forced his way through the top hatch and took control of the walker in this manner.<ref name="ROTJ">{{Film|VI}}</ref>
+
+<div style="float:right">[[File:AT-ST_2015_Regional_Championship_Prize_card.png|thumb|180px|An AT-ST stands over a downed Rebel snowspeeder on Hoth.]]</div>
+The AT-ST's chin blasters had an effective range of two kilometers<ref name="TNEGTVAV" /> and were used for anti-vehicle attacks, while the armor-shielded [[Blaster/Legends|blaster]] cannon and grenade launcher provided close-range protection against infantry and light emplacements. Like the AT-AT, the AT-ST utilized a [[Hologram/Legends|holographic]] [[Targeting computer/Legends|targeting system]], allowing a 360-degree view of its position.<ref name="The Essential Guide to Vehicles and Vessels">''[[The Essential Guide to Vehicles and Vessels]]''</ref> The armor was not sufficient to withstand blasts from [[Starship/Legends|starship]] cannons, but was impervious to small-arms fire.<ref name="RS II guide">''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''</ref> In addition, according to [[Leia Organa Solo/Legends|Leia Organa Solo]], the area behind the angled viewport visors was weak enough to be susceptible to missile fire, although [[Han Solo/Legends|Han Solo]] wondered with surprise how she knew that.<ref name="IHB" />
+
+The 8.6-[[Meter/Legends|meter]]-tall walkers were piloted by a crew of two [[Vehicle Command Crewer|Imperial Army pilots]] and carried 200 [[Kilogram/Legends|kilograms]] of cargo,<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref> which had to be loaded and unloaded via the single hatch located atop the superstructure accessible using a series of handholds placed on the sides of the walker. However, for practicality, the preferred method of entry inside military bases was to use a loading platform.
+
+The bipedal propulsion system was one of the primary weaknesses of the AT-ST. On even terrain, the walker could achieve over 90 kilometers per hour, but on uneven or shifting terrain, a walker could quickly become unbalanced enough to fall over.<ref name="ROTJ" /> In rare cases, AT-STs are even capable of leaping when in combat with an enemy.<ref name="SSW:TESB">''[[Super Star Wars: The Empire Strikes Back]]''</ref> One leg weighted a quarter of a [[metric ton/Legends|metric ton]].<ref name="Star Wars: Rebel Agent">''[[Star Wars: Rebel Agent]]''</ref>
+
+An advanced gyro system, located beneath the command module, provided the balance needed, but could be easily damaged. Following the Battle of Hoth, Rebel tacticians learned to ambush and immobilize AT-ST's; once trapped, a well-placed rifle shot could destroy the walker's gyro system.<ref name="TNEGTVAV" />
+
+===Modular attachments===
+[[File:Walker_Assault.jpg|thumb|left|200px|Two AT-STs and an [[All Terrain Personal Transport/Legends|AT-PT]]. The AT-STs have various modifications added.]]
+The AT-ST was a highly modular walker design, being able to switch weapons slots and additional tools to fulfill a variety of roles on the battlefield.<ref name="NR:WA">{{SWGTCG|set=The Nightsister's Revenge|cardname=Walker Assault}}</ref><ref name="acDA">{{DeviantArt|username=ukitakumuki|url=ukitakumuki/art/Walker-Assault-157979854|name=[[Kai Lim]]|text=Walker Assault}}</ref>
+
+Known modifications included a top-mounted, shielded gun turret for soldiers standing on lookout, [[Mortar/Legends|mortars]] bolted to the upper side of the turret, side-mounted six-slot [[Missile launcher/Legends|rocket launchers]] instead of laser cannons, and grenade launcher mounts on the walker's lower cheeks.<ref name="NR:WA" /><ref name="acDA" />
+
+Other modifications included communications antennae, using additional armor plates to cover the [[Battery/Legends|battery]] packs and having a winch system underneath the chin gun.<ref name="NR:WA" /><ref name="acDA" /> During the construction of the Imperial base on [[Endor/Legends|Endor]], several AT-STs had their chin guns replaced with metal clamps and were used to tear down trees and make clearings for future construction.<ref name="swcomcvi">{{SWArchive|url=shop/art_and_collectibles/cvi_art_dave_dorman/index.html|text=Breaking Ground: Imperial Base, Moon of Endor - Celebration VI Art Print, By Dave Dorman}}</ref>
+
+==Variant models==
+===AT-ST/A===
+{{Main|All Terrain Scout Transport/Assault/Legends}}
+[[File:ATST_chron.jpg|thumb|right|200px|A frontal view of an AT-ST.]]
+The Assault version of the AT-ST featured longer legs, a heavy, chin-mounted blaster cannon and a reinforced gyro balance system.<ref name="TNEGTVAV" />
+
+===AT-KT===
+{{Main|All Terrain Kashyyyk Transport}}
+This variant was equipped with large weapons-mounts fitted to the upper portion of each leg of the walker. They were used in guerrilla warfare against [[Wookiee/Legends|Wookiees]].<ref name="TFU">''[[Star Wars: The Force Unleashed]]''</ref>
+
+===AT-CT===
+{{Main|All Terrain Construction Transport/Legends}}
+The AT-CT variant was an AT-ST walker fitted with arms for use in construction. Though not designed for combat, the AT-CT could use the anti gravity beams on the side of the cockpit to lift an object and hurl it, repulsing it with enough force to make it a potent anti infantry weapon, as it could use the surrounding environment as a weapon.<ref name="TFU" />
+
+===AT-RCT===
+{{Main|All Terrain Riot Control Transport}}
+During the Clone Wars, the first AT-RCTs were developed. They had an open cockpit design, where the pilot and gunner sat one in front of the other.<ref name="SWEIII:ROTSc">[[Star Wars: Episode III — Revenge of the Sith (comic series)|''Star Wars: Episode III — Revenge of the Sith'' comic adaptation]]</ref>
+
+===AT-MP===
+{{Main|All Terrain Missile Platform/Legends}}
+This variant looked a bit like a squat AT-ST but boasted 8 missile launchers and a single rotary chaingun.<ref name="FU2">''[[Star Wars: The Force Unleashed II]]'' Databank</ref>
+
+==History==
+===Deployment begins===
+{{Quote|The design was field tested and found to be quite effective in the Clone Wars. Unfortunately there persisted a continued culture of resistance to its usage, as well as an unwarranted opinion among the general population that it is prone to falling, or is in some way structurally deficient. But the statistics speak for themselves. For every man that has laughed at the ungainly appearance, a dozen more have fallen to its guns, or been crushed beneath its feet|An [[Annual Imperial Military Technology Update]]|<ref name="TFUII">''[[Star Wars: The Force Unleashed II]]'' {{C|[[Wikipedia:PlayStation 3|PS3]]/[[Wikipedia:Xbox 360|Xbox 360]] "AT-ST" databank entry}}</ref>}}
+[[File:ATST_cockpit_view.jpg|thumb|left|200px|View of an AT-ST cockpit.]]
+Early on in the Clone Wars, engineers at [[Rothana Heavy Engineering/Legends|Rothana]] were busy developing a new bipedal walker, known as the All Terrain Scout Transport, following their construction and testing of the [[All Terrain Experimental Transport|AT-XT]]. The AT-XT enjoyed moderate success during its somewhat brief operational time, but was rarely used during the war.<ref name="Star Wars: The Clone Wars">[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]</ref> At the end of the war, the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] constructed some of these weapons on the planet [[Diado]]. This production ceased when [[Saesee Tiin/Legends|Saesee Tiin]] destroyed the factory.
+
+The earliest models were deployed by the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] during the latter stages of the Clone Wars. The conflict also saw the debut of several other bipedal walker designs, like the [[All Terrain Recon Transport/Legends|AT-RT]].
+
+===Assorted Imperial deployments===
+{{Quote|It is best to deploy AT-STs in urban environments. The fear inspired is usually enough to get the job done.|[[Imperial AT-ST manual|AT-ST service manuals]]|<ref name="The Shadow Syndicate">{{SWGTCG|set=The Shadow Syndicate|cardname=AT-ST}}</ref>}}
+Under the Empire, [[Balmorra/Legends|Balmorra]] was the center of AT-ST production. The AT-ST was later viewed by Imperial commanders as a highly versatile weapon, excelling against infantry and lightly armored vehicles, but also useful for protecting vital units and patrolling hostile areas. At least two AT-STs were stationed near an erected statue of [[Palpatine/Legends|the Emperor]] in [[Naboo/Legends|Naboo's]] capital, [[Theed/Legends|Theed]], on [[Empire Day/Legends|Empire Day]] as part of the holiday festivities on the planet.<ref name="Galaxies">{{GalaxiesAED}}</ref>
+
+[[File:AT-ST-TCGbyAdamLane.jpg|thumb|right|200px|An AT-ST in mission.]]
+AT-STs were used by [[Blizzard Force/Legends|Blizzard Force]] during the [[Battle of Hoth/Legends|Battle of Hoth]]. The Blizzard Force AT-ST was specially modified for polar climates, as were all the vehicles used on Hoth. It was equipped with ground-penetrating sensor equipment that could detect instabilities in the permafrost and relay information back to the heavier vehicles, thus ensuring they avoided unstable ground.<ref name="SWTSAT-ST" /> The walkers had a unit insignia consisting of a horned helmet.<ref name="SWTJ2">''[[Star Wars Technical Journal of the Imperial Forces]]''</ref>
+
+[[Wedge Antilles/Legends|Wedge Antilles]] hijacked an AT-ST during the [[Battle of Dubrillion (Galactic Civil War)|Battle of Dubrillion]] as a means to infiltrate an Imperial [[Superlaser/Legends|Superlaser]] facility. He took out several enemy AT-ST's and stormtroopers. He then hijacked an AT-AT with which he destroyed the facility.<ref name="SW:RSIII:RS" />
+
+===Battle of Endor and beyond===
+In the [[Battle of Endor/Legends|Battle of Endor]], AT-STs were deployed by the [[Galactic Empire/Legends|Empire]] against Rebel and [[Ewok/Legends|Ewok]] ground troops. The walkers were very effective against these troops, until many of them were destroyed by Ewok traps and [[Tempest Scout 2/Legends|another AT-ST]] was hijacked by [[Chewbacca/Legends|Chewbacca]] with the help of some Ewoks.<ref name="ROTJ" />
+
+The AT-ST's problem with shifting terrain, despite the designation "All-Terrain," was demonstrated during the Battle of Endor, when [[Ewok/Legends|Ewoks]] released a large pile of logs and stones to roll down the hill into the path of an AT-ST. The walker was unable to handle the rapidly shifting ground and, despite attempts by the pilot to stabilize the vehicle, it fell on its side and was destroyed. The Ewoks also used strategically positioned logs hanging from trees to eliminate several other walkers.<ref name="ROTJ" /> As a direct result of the losses inflicted on the Empire in Endor, AT-STs were later forbidden from being deployed onto worlds composed extensively of forests or natives with primitive weaponry.<ref name="TNEGTVAV" />
+
+The [[Imperial Remnant/Legends|Imperial Remnant]] would go on to use AT-STs, though not as extensively.<ref name="TNJO: TUF" />
+
+Following the Galactic Civil War, AT-STs and AT-ATs were also used by the [[New Republic/Legends|New Republic]]. They were considered as quite old vehicles and were relegated to local planetary defense forces.<ref name="AoCII:JE" />
+
+==Behind the scenes==
+[[File:Atsthoth.jpg|thumb|left|150px|The AT-ST model used on Hoth. Unit insignia seen on the side.]]
+An early scout walker concept was used in the [[Star Wars: Episode III — Revenge of the Sith (comic series)|''Revenge of the Sith'' comic adaptation]].<ref name="SWEIII:ROTSc" /> This was derived from [[Star Wars: Episode III Revenge of the Sith|Episode III]] concept art made by [[Ryan Church]].<ref name="TAOSWEIII:ROTS">''[[The Art of Star Wars Episode III: Revenge of the Sith]]''</ref>
+
+The ''Revenge of the Sith'' script referred to the [[All Terrain Recon Transport/Legends|AT-RT]] walker as a "modified scout walker," which may imply that this two-man design was the basis.
+
+In the June 27, 1982 issue of the ''Star Wars'' comic strip arc "[[The Return of Ben Kenobi]]," the Star Wars scrapbook section depicted a walker called a "Two-Man Imperial Scout Walker." However, it bore a resemblance closer to half of the AT-AT Walkers than to the AT-STs used in the film.
+
+More scenes with the AT-ST were filmed for the [[original trilogy]] movies, but [[George Lucas]] decided that the [[All Terrain Armored Transport/Legends|AT-ATs]] would be more impressive and that the AT-ST would look better in close quarters.<ref name="ATSTitDB">{{DB|vehicle|atst|All Terrain Scout Transport (AT-ST walker)}}</ref>
+
+[[File:ILMATST-SWFB.jpg|thumb|right|220px|Members of the ILM team with a model of an AT-ST.]]
+The AT-ST model received some cosmetic changes for its extensive appearance in [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']], thus explaining the minor differences in the models used for the two films.<ref name="ATSTitDB" />
+
+A mini-game where the player can use an AT-ST is available in the [[1998]] [[Star Wars video games|video game]] [[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']], unlocked through a cheat code.
+
+In the [[2001]] video game ''[[Star Wars: Galactic Battlegrounds]]'' and its [[2002]] expansion pack [[Star Wars: Galactic Battlegrounds: Clone Campaigns|''Clone Campaigns'']], the AT-ST serves as the Galactic Empire's heavy mech destroyer unit. They are produced at [[Factory|mech factories]] in single-player or multi-player.
+
+In the [[2003]] video game ''[[Star Wars: Rogue Squadron III: Rebel Strike]]''{{'s}} tutorial mission, "Tatooine Training," some Imperial recruiters on [[Tatooine/Legends|Tatooine]] will allow the player (Luke Skywalker) to test-ride an AT-ST near Tosche Station, after Luke arrived there in a landspeeder. After getting adjusted to the steering of the AT-ST, the player is then deployed on a droid hunt as a way to identify whether the player is a good shot. After destroying enough droids, the recruiters then stated that, as part of the completion of the training procedure, the player is to "dispatch your application to: Screening Office, Imperial Space Academy, your sector."<ref name="SW:RSIII:RS" />
+
+AT-STs were also seen in the [[2006]] video game ''[[LEGO Star Wars II: The Original Trilogy]]'' and its [[2007]] [[LEGO Star Wars: The Complete Saga|compilation re-release]].
+
+{{Noncanonstart|legends=1}}
+In [[2010]], [[LucasArts]] released a [[Canon|non-canon]] continuation of the dark side storyline of ''[[Star Wars: The Force Unleashed II]]'' as downloadable content. In the storyline, the [[Dark Apprentice]] was ordered by his master, Darth Vader, to hunt down the Rebels on Endor.
+
+Chewbacca took control of an AT-ST and attempted to stop the Dark Apprentice from gaining access to the Endor shield bunker. Han Solo used his rocket launcher to attack the Apprentice, but he used the Force to redirect the rocket into Chewbacca's walker. He then jumped to the top and pried open the top hatch, forcing Chewbacca to come out and grapple with him. The Dark Apprentice bested Chewbacca only to use him as a shield from Solo's blaster shots, killing the Wookiee. The Apprentice then jumped onto the roof of the bunker and impaled Solo on his lightsaber.
+{{Noncanonend}}
+
+==Appearances==
+{{ScrollBox|content=
+[[File:AT-ST_negvv.png|thumb|right|180px|Illustration of an AT-ST from ''The New Essential Guide to Vehicles and Vessels'']]
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Labyrinth of Evil]]''
+*{{CWACite|6|It Takes a Thief}}
+*[[Star Wars: Revenge of the Sith (novelization)|''Star Wars: Revenge of the Sith'' novelization]] {{Ab|Star Wars: Revenge of the Sith (unabridged audiobook)}}
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*{{JournalCite|7|Mist Encounter|reprint=1}} {{Mo}}
+*[[Darth Vader and the Lost Command 1|''Darth Vader and the Lost Command'' 1]]
+*''[[Coruscant Nights I: Jedi Twilight]]'' {{Mo}}
+*{{StoryCite|story=Pax Empirica&mdash;The Wookiee Annihilation|book=Star Wars: Galactic Battlegrounds: Prima's Official Strategy Guide}}
+*{{DoD|The Traitor's Gambit}}
+*{{DoD|The First to Strike}}
+*[[Blood Ties: Boba Fett is Dead 2|''Blood Ties: Boba Fett is Dead'' 2]]
+*[[Blood Ties: Boba Fett is Dead 3|''Blood Ties: Boba Fett is Dead'' 3]]
+*''[[Star Wars: The Force Unleashed]]''
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]] {{Flash}}
+*{{JournalCite|2|The Way of the Yrashu}}
+*{{JournalCite|2|You're in the Army Now!|reprint=1}}
+*{{JournalCite|6|The Cure|reprint=1}}
+*{{JournalCite|6|Swoop Gangs|reprint=1}}
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}} {{Mo}}
+*''[[Star Wars: The Force Unleashed II]]''
+*[[Star Wars: The Force Unleashed II (novelization)|''Star Wars: The Force Unleashed II'' novelization]] {{Ab|Star Wars: The Force Unleashed II (audiobook)}}
+*''[[Star Wars: Lethal Alliance]]''
+*''[[Dark Forces: Soldier for the Empire]]''
+*[[Dark Forces: Soldier for the Empire (audio drama)|''Dark Forces: Soldier for the Empire'' audio drama]]
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{Mo}}
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']] {{Mo}}
+*''[[Star Wars Missions 20: Total Destruction]]''
+*{{WEGCite|story=Tests of the Godking|book=Star Wars Campaign Pack|reprint=1}} {{Mo}}
+*{{WEGCite|story=Lens Reekeene Is Missing|book=Star Wars Campaign Pack|reprint=1}}
+*[[Empire 16|''Empire'' 16]]
+*[[Allegiance (novel)|''Allegiance'']] {{Ab|Allegiance (audiobook)}}
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[River of Chaos 1|''River of Chaos'' 1]]
+*[[River of Chaos 2|''River of Chaos'' 2]]
+*[[River of Chaos 3|''River of Chaos'' 3]]
+*[[River of Chaos 4|''River of Chaos'' 4]]
+*[[Empire 23|''Empire'' 23]]
+*[[Empire 29|''Empire'' 29]]
+*[[Empire 30|''Empire'' 30]]
+*[[Empire 32|''Empire'' 32]]
+*[[Empire 33|''Empire'' 33]]
+*[[Rebellion 1|''Rebellion'' 1]]
+*''[[Introductory Adventure Game]]''
+*{{FFG|story=The Long Arm of the Hutt|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}} {{Mo}}
+*{{FFG|story=Takeover at Whisper Base (adventure)|book=Star Wars: Age of Rebellion Beginner Game|text=''Star Wars: Age of Rebellion'' Beginner Game}}
+*"[[Operation: Shadowpoint]]"
+*''[[Onslaught at Arda I]]''
+*''[[Friends Like These]]''
+*''[[Star Wars Missions 14: The Monsters of Dweem]]''
+*{{JournalCite|1|The Quality of Mercy}}
+*{{WEGCite|story=New Recruits and Rebel Guns|book=Instant Adventures}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*''[[Imperial Double-Cross]]''
+*''[[Star Wars Galaxies: The Ruins of Dantooine]]''
+*{{GalaxiesAED}}
+*{{JournalCite|15|The Draw}} {{C|"Vernet Imperial Army Training Camp" capsule}}
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}} {{Mo}}
+*{{JournalCite|12|Galaxywide NewsNets}}
+*{{JournalCite|13|Galaxywide NewsNets}}
+*{{JournalCite|14|Galaxywide NewsNets}}
+*{{Film|V}} {{1st}}
+*''[[Super Star Wars: The Empire Strikes Back]]''
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*{{WEGCite|story=Marooned on Hoth|book=Star Wars: The Roleplaying Game (first edition)}}
+*[[Star Wars (1977) 51|''Star Wars'' (1977) 51]] {{Reprint|Star Wars (1977) 51}}
+*''[[Star Wars: Imperial Ace]]''
+*''[[Star Wars: Demolition]]''
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*{{JournalCite|2|A World to Conquer}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*{{WEGCite|story=Night Attack|book=Galaxy Guide 5: Return of the Jedi|reprint=1}} {{Mo}}
+*[[The Ewoks Join the Fight (storybook)|''The Ewoks Join the Fight'' storybook]]
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*{{RJRadio|Blood of a Jedi}}
+*''[[The Truce at Bakura]]''
+*{{WEGCite|story=Terror in the Trees|book=Imperial Entanglements (Star Wars Miniatures Battles)}} {{Mo}}
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]]
+*[[X-Wing: Rogue Leader 2|''X-Wing: Rogue Leader'' 2]]
+*[[X-Wing Rogue Squadron 1|''X-Wing Rogue Squadron'' 1]]
+*[[X-Wing Rogue Squadron 2|''X-Wing Rogue Squadron'' 2]]
+*[[X-Wing Rogue Squadron 4|''X-Wing Rogue Squadron'' 4]]
+*[[X-Wing Rogue Squadron 12|''X-Wing Rogue Squadron'' 12]]
+*{{JournalCite|8|Black Curs Blues}}
+*{{JournalCite|9|Easy Credits}}
+*[[X-Wing Rogue Squadron 23|''X-Wing Rogue Squadron'' 23]]
+*{{Tales|22|Marooned}}
+*''[[Dark Forces: Rebel Agent]]''
+*[[Dark Forces: Rebel Agent (audio drama)|''Dark Forces: Rebel Agent'' audio drama]]
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*''[[Dark Forces: Jedi Knight]]''
+*[[Dark Forces: Jedi Knight (audio drama)|''Dark Forces: Jedi Knight'' audio drama]]
+*{{JournalCite|1|A Glimmer of Hope|reprint=1}}
+*{{JournalCite|2|Whispers in the Dark|reprint=1}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*{{DarkStryder|adventure=Shintel Downtime|book=The DarkStryder Campaign|reprint=yes}} {{Mo}}
+*{{DarkStryder|adventure=Showdown (The Kathol Rift)|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*{{JournalCite|3|Mission to Zila|reprint=1}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*{{JournalCite|8|Blaze of Glory (short story)|reprint=1}} {{Mo}}
+*[[Dark Empire 1|''Dark Empire'' 1]]
+*{{JournalCite|14|No Disintegrations, Please}} {{Flash}}
+*[[Crimson Empire 3|''Crimson Empire'' 3]]
+*''[[Star Wars: Jedi Knight II: Jedi Outcast]]''
+*[[Darksaber (novel)|''Darksaber'']]
+*{{Wizards|url=default.asp?x=starwars/article/sw20031120nightsaber|text=Nightsaber|int=Nightsaber}}
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*{{Tales|19|Collapsing New Empires}}
+*[[Union 2|''Union'' 2]]
+*''[[Junior Jedi Knights: Vader's Fortress]]'' {{Mo}} {{C|as Chicken walker}}
+*''[[Young Jedi Knights: Shadow Academy]]''
+*''[[Young Jedi Knights: Diversity Alliance]]'' {{Mo}}
+*[[Chewbacca (2000) 2|''Chewbacca'' (2000) 2]] {{Hologram}}
+*''[[The New Jedi Order: Agents of Chaos II: Jedi Eclipse]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*{{Tales|14|Apocalypse Endor}} {{Flash}}
+}}
+
+===Non-canon appearances===
+{{Mediacat|imagecat=Images of All Terrain Scout Transports}}
+*<!-- 2001-09-19 -->[[Star Wars Infinities: A New Hope 3|''Star Wars Infinities: A New Hope'' 3]]
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2014-01-30 -->[[LEGO Star Wars: Microfighters (video game)|''LEGO Star Wars: Microfighters'' video game]]
+
+==Sources==
+{{ScrollBox|content=
+[[File:Walkerstallgrass.jpg|thumb|200px|AT-STs fighting in tall grass.]]
+*<!-- 1982-XX-XX -->{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=Scout Walker|link=vintScoutWalker.asp}}
+*<!-- 1983-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (Max Rebo)|''Star Wars: Return of the Jedi Coloring Book'' (Max Rebo)]] {{Po}}
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1984-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (1984)|''Star Wars: Return of the Jedi Coloring Book'' (1984)]] {{Po}}
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-10-XX -->''[[Assault on Hoth]]''
+*<!-- 1989-06-XX -->[[Star Wars Miniatures Battles (first edition)|''Star Wars Miniatures Battles'', First Edition]] {{C|AS "AT-ST Scout Walker"}}
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Battle for Endor]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]''
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1993-12-XX -->[[Star Wars Miniatures Battles (Second Edition)|''Star Wars Miniatures Battles'', Second Edition]]
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]] {{Po}}
+*<!-- 1994-06-XX -->''[[Star Wars Miniatures Battles Companion]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-07-XX -->''[[Star Wars Technical Journal of the Imperial Forces]]''
+*<!-- 1994-08-XX -->{{JournalCite|3|Blasters for Hire}}
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1995-01-XX -->''[[Goroth: Slave of the Empire]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-06-XX -->''[[Classic Campaigns]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-07-XX -->{{GalaxyCite|4|The Hard, Cold Facts About Hoth}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Galactic Bazaar|Galactic Bazaar: The Empire Sells Out!}}
+*<!-- 1995-09-XX -->''[[Galaxy Guide 12: Aliens — Enemies and Allies]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=''Imperial''-Class Star Destroyer}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-01-XX -->{{GalaxyCite|6|Operator's Manual}}
+*<!-- 1996-02-XX -->{{JournalCite|9|Repulsortank Battlefield}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Operatives (article)}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Toria Tell's Droid Journal (article)}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]]
+*<!-- 1996-11-XX -->{{JournalCite|11|Cracken's Rebel Operatives (article)}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Blizzard Scout 1}}
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-02-XX -->{{JournalCite|12|Imperial Garrisons}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=AT-ST}}
+*<!-- 1997-09-XX -->''[[Gundark's Fantastic Technology: Personal Gear]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-11 -->''[[Star Wars: The Art of the Brothers Hildebrandt]]'' {{Po}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Tasariq: The Crystal Planet}}
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1998-02-XX -->{{CollectorCite|1|The Man Who Shot Luke Skywalker}}
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+<!-- 1999-06-30 -->{{CardGameSet|set={{CCG|set=Endor Limited|parent=1}}|cards=
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Aim High}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=AT-ST Dual Cannon}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=AT-ST Pilot}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Chewie's AT-ST}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Combat Readiness}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Crossfire}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Endor Occupation}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Endor Operations}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Ewok And Roll}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Ewok Catapult}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Ewok Log Jam}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Imperial Outpost}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Imperial Tyranny}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Lieutenant Arnet}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Lieutenant Watts}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Sneak Attack}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Take The Initiative}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 1}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 2}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 3}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 4}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 5}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 6}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Were You Looking For Me?}}
+}}
+*<!-- 2000-04-10 -->[[Star Wars: Force Commander: Prima's Official Strategy Guide|''Star Wars: Force Commander'': Prima's Official Strategy Guide]]
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+<!-- 2001-10-31 -->{{CardGameSet|set={{CCG|set=Reflections III|parent=1}}|cards=
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Aim High}}
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Crossfire}}
+}}
+*<!-- 2001-11-07 -->[[Star Wars: Galactic Battlegrounds: Prima's Official Strategy Guide|''Star Wars: Galactic Battlegrounds'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2001-XX-XX -->{{LEGOCite|num=7127|name=Imperial AT-ST}}
+*<!-- 2002-01-16 -->{{FactFile|3|ATA 1-2|All-Terrain Armoured Transport (AT-AT)}}
+*<!-- 2002-01-23 -->{{FactFile|4|HOT 1-6|The Battle of Hoth}}
+*<!-- 2002-05-XX -->''[[Star Wars Roleplaying Game Revised Core Rulebook]]''
+*<!-- 2002-09-18 -->{{FactFile|38|ATS 1-2|All Terrain Scout Transport (AT-ST)}}
+*<!-- 2002-XX-XX -->{{LucasArts|url=products/starwarstheclonewars/gameplay/atxt.htm|text=Star Wars: The Clone Wars - AT-XT Assault Walker}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+<!-- 2003-11-XX -->{{CardGameSet|set={{TCG|set=The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=All Terrain Scout Transport|link=https://swtcg.com/Content/Images/Cards/ESB/All_Terrain_Scout_Transport.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Blizzard Force AT-ST|link=https://swtcg.com/Content/Images/Cards/ESB/Blizzard_Force_AT_ST.webp?v=2}}
+}}
+*<!-- 2003-XX-XX -->{{LEGOCite|num=4486|name=Mini AT-ST & Snowspeeder}}
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+*<!-- 2004-09-28 -->[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]
+*<!-- 2004-12-16 -->{{Wizards|url=default.asp?x=starwars/article/sw20041216b|text=Furry and Fury}}
+*<!-- 2005-08-26 -->{{SWMiniCite|set=Universe|pack=AT-ST}}
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-02-24 -->{{SWMiniCite|set=Attack on Endor Scenario Pack}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->{{LEGOCite|type=ucs|num=10174|name=Ultimate Collector's AT-ST}}
+*<!-- 2007-01-XX -->{{LEGOCite|num=7657|name=AT-ST}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2008-02-18 -->''[[Star Wars: Epic Battles]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=identify Weakness}} {{Po}}
+*<!-- 2009-01-29 -->[[Star Wars: The Official Starships & Vehicles Collection 10|''Star Wars: The Official Starships & Vehicles Collection'' 10]]
+*<!-- 2009-03-11 -->{{SWGTCG|set=Galactic Hunters|cardname=Preservation}} {{Po}}
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+<!-- 2009-09-22 -->{{CardGameSet|set={{SWGTCG|set=The Shadow Syndicate|parent=1}}|cards=
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=AT-ST}}
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=Rule by Fear}} {{Po}}
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=Weapons Drill}} {{Po}}
+}}
+*<!-- 2010-02-21 -->{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The Battle of Hoth}}
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+*<!-- 2010-10-26 -->[[Star Wars: The Force Unleashed II: Prima Official Game Guide|''Star Wars: The Force Unleashed II'': Prima Official Game Guide]]
+*<!-- 2010-10-XX -->{{HasbroCite|set=Star Wars: Shadows of the Dark Side|pack=(Target Exclusive) Attack on Hoth|altlink=https://www.banthaskull.com/photo_galleries/gallery/ph_sotds_attack_on_hoth}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Blizzard AT-AT}}
+<!-- 2011-01-27 -->{{SourceContents|issue={{StarshipsVehiclesCite|62|parent=1}}|contents=
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Starship & Vehicle Directory}}
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Star Wars Planet Index}}
+}}
+*<!-- 2011-05-21 -->{{LEGOCite|num=30054|name=AT-ST}}
+*<!-- 2011-05-XX -->''[[Star Wars: Head-to-Head Tag Teams]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|atst|All Terrain Scout Transport (AT-ST walker)}}
+*<!-- 2011-12-13 -->{{InsiderCite|130|Mini Magic!}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-06-XX -->{{LEGOCite|num=9679|name=AT-ST & Endor}}
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=AT-ST|link=core/at-st-core-31-3}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=AT-ST Commander|link=core/at-st-commander-core-31-2}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Hit and Run|link=core/hit-and-run-core-18-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Log Trap|link=core/log-trap-core-17-4}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Endor Gambit|link=core/the-endor-gambit-core-31-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Yub Yub!|link=core/yub-yub-core-17-5}} {{Po}}
+}}
+*<!-- 2012-XX-XX -->{{HasbroCite|set=Star Wars: Movie Heroes|pack=Ewok Pack|altlink=https://www.rebelscum.com/Ewok_Pack_2012_Star_Wars_Movie_Heroes_Hasbro.asp}} {{C|Packaging}}
+*<!-- 2013-03-14 -->{{FFGTCG|set=The Desolation of Hoth|cardname=Lord Vader's Command|link=the-hoth-cycle/the-desolation-of-hoth/lord-vaders-command-the-desolation-of-hoth-41-1}} {{Po}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=MTV-7|link=the-hoth-cycle/a-dark-time/mtv-7-a-dark-time-51-3}}
+*<!-- 2013-06-27 -->{{FFGTCG|set=Assault on Echo Base|cardname=Blizzard Force AT-ST|link=the-hoth-cycle/assault-on-echo-base/blizzard-force-at-st-assault-on-echo-base-56-3}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-08-16 -->{{FFGTCG|set=The Battle of Hoth|cardname=Coordinated Strike|link=the-hoth-cycle/the-battle-of-hoth/coordinated-strike-the-battle-of-hoth-61-5}} {{Po}}
+*<!-- 2013-12-12 -->''[[Star Wars: Sith Wars]]''
+*<!-- 2014-03-28 -->{{FFGTCG|set=Heroes and Legends|cardname=Forward Reconnaissance|link=echoes-of-the-force-cycle/heroes-and-legends/forward-reconnaissance-heroes-and-legends-98-1}} {{Po}}
+*<!-- 2014-04-18 -->{{FFGTCG|set=Lure of the Dark Side|cardname=Adaptive Strategy|link=echoes-of-the-force-cycle/lure-of-the-dark-side/adaptive-strategy-lure-of-the-dark-side-102-5}} {{Po}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]]
+*<!-- 2014-04-25 -->{{FantasyFlightGames|subdomain=images-cdn|url=filer_public/68/c7/68c7af9f-2b82-4ef7-9888-417333e4f4a2/swa01_jin-rio_character_folio_wq.pdf|text=Jin-Rio Character Folio}}
+*<!-- 2014-04-25 -->{{SWE|technology|atstwalker|All Terrain Scout Transport}}
+*<!-- 2014-04-25 -->{{SWE|technology|atrt|AT-RT walker}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-09-12 -->{{SW|url=news/star-wars-the-essential-guide-to-warfare-authors-cut-part-12-tales-of-the-new-republic|series=Star Wars: The Essential Guide to Warfare Author's Cut|text=Part 12: Tales of the New Republic}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Core Set}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']] {{Po}}
+<!-- 2015-01-05 -->{{CardGameSet|set={{FFGTCG|set=Between the Shadows|parent=1}}|cards=
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Commando Raid|link=between-the-shadows/commando-raid-r1169}} {{Po}}
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Sacrifice at Endor|link=between-the-shadows/sacrifice-at-endor-r1163}} {{Po}}
+}}
+<!-- 2015-03-20 -->{{CardGameSet|set={{SWIA|set=General Weiss Villain Pack|parent=1}}|cards=
+*<!-- 2015-03-20 -->{{SWIA|set=General Weiss Villain Pack|cardname=AT-ST|link=AT-ST}}
+*<!-- 2015-03-20 -->{{SWIA|set=General Weiss Villain Pack|cardname=Forest Ambush|link=Forest_Ambush}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=General Weiss Villain Pack|cardname=General Weiss (Field Commander)|link=General_Weiss}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=General Weiss Villain Pack|cardname=Overrun|link=Overrun}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=General Weiss Villain Pack|cardname=Special Modifications|link=Special_Modifications}}
+}}
+*<!-- 2015-03-20 -->{{SWIA|set=Rebel Saboteurs Ally Pack|mission=Breakthrough}} {{Po}}
+<!-- 2015-04-29 -->{{CardGameSet|set={{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Echo Base Invasion}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Man vs. Walker}} {{Po}}
+}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2015-12-17 -->''[[Keeping the Peace]]'' {{Po}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+==External links==
+*{{SWGWiki|AT-ST}}
+*{{SWMW|AT-ST}}
+
+{{Interlang
+|cs=AT-ST/Legendy
+|de=Allterrain-Scouttransporter#legends
+|es=Transporte de Exploración Todo Terreno/Leyendas
+|fi=All Terrain Scout Transport
+|fr=Transport de Reconnaissance Tout Terrain
+|hu=AT-ST
+|it=All Terrain Scout Transport
+|ko=AT-ST 워커
+|nl=All Terrain Scout Transport
+|no=AT-ST
+|pl=All Terrain Scout Transport/Legendy
+|pt=Legends:Transporte de Exploração para Todo Terreno
+|uk=AT-ST/Легенди
+}}
+
+[[Category:AT-series models|Scout Transport]]
+[[Category:Balmorran Arms products]]
+[[Category:Imperial Department of Military Research products]]
+[[Category:Rothana Heavy Engineering products]]
+[[Category:Vehicle classes of the Galactic Empire]]
+[[Category:Vehicle classes of the Galactic Republic]]
+
+{{RelatedCategories
+|[[Category:All Terrain Scout Transports]]
+}}
+[[Category:Vehicle classes of the Dark Empire]]

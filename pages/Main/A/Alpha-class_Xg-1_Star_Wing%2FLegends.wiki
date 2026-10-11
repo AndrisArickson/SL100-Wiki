@@ -1,0 +1,220 @@
+{{Top|title=''Alpha''-class Xg-1 Star Wing}}
+{{Youmay|a [[Starfighter/Legends|starfighter]]|[[Alpha (disambiguation)|other uses of the term]]}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:XWA-Xg1-3d-new.jpg]]
+|name=''Alpha''-class Xg-1 Star Wing
+|designer=
+|manufacturer=[[Cygnus Spaceworks/Legends|Cygnus Spaceworks]]<ref name="SC">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref>
+|line=
+|model=''Alpha''-class Xg-1 Star Wing<ref name="SC" />
+|type=Assault [[Starfighter/Legends|starfighter]]<ref name="SC" />
+|cost=*125,000<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>&ndash;135,000 [[Galactic Credit Standard/Legends|credits]]<ref name="Casual">''[[Fly Casual]]''</ref>
+*75,000 credits (used)<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=10 [[Meter/Legends|meters]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|width=15.1 meters<ref name="XWA" />
+|height=7.2 meters<ref name="XWA" />
+|mass=
+|max accel=20 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA" />
+|mglt=90 MGLT<ref name="SC" /><ref name="XWA" />
+|max speed=1,050 [[Kilometer per hour/Legends|km/h]]<ref name="FOP">''[[The Far Orbit Project]]''</ref>
+|maneuverability=78 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=2 Cygnus [[4K7 Dual Line ion engine|4K7 Dual Line]] [[Ion engine/Legends|ion engines]]<ref name="SC" />
+|hyperdrive=*Class 1<ref name="RECG" />
+*Backup Class 10<ref name="Mesop7">{{Wizards|url=default.asp?x=starwars/article/Mesop7|text=Message to Spacers 7}}</ref>
+|hdrange=
+|hdsystem=Cygnus [[HD7 Hyperdrive Activator Unit]]<ref name="SC" />
+|poweroutput=
+|power=*[[Iotek]] [[ionization reactor]]<ref name="SC" />
+*Iotek [[9j ion power cell]]s<ref name="SC" />
+|shield gen=[[Novaldex/Legends|Novaldex]] forward and rear projecting [[Deflector shield/Legends|shield]] system<ref name="SC" /> (rated 100 [[SBD/Legends|SBD]])<ref name="XWA" />
+|hull=[[Quadanium steel/Legends|Quadanium steel]]-armored [[Titanium/Legends|titanium]] [[Hull/Legends|hull]]<ref name="SC" /> (rated 28 [[RU/Legends|RU]])<ref name="XWA" />
+|sensor=Short-range [[Sensor/Legends|sensors]]<ref name="Casual" />
+|target=
+|navigation=[[Sienar Fleet Systems/Legends|SFS]] [[N-s8.6 Navcon computer system|N-s8.6 Navcon]] [[Navigation computer/Legends|computer system]]<ref name="SC" />
+|avionics=[[Miradyne Limited|Miradyne]] [[RCS-6 flight avionics system|RCS-6]] flight control computer<ref name="SC" />
+|maincomp=
+|countermeasures=
+|armament=*Medium<ref name="Casual" /> [[Taim & Bak/Legends|Taim & Bak]] [[KX5 laser cannon/Legends|KX5 laser cannons]] (2)<ref name="SC" />
+*[[Borstel Galactic Defense/Legends|Borstel]] [[NK-3 ion cannon]]s (2)<ref name="SC" />
+*SFS [[M-s3 concussion missile launcher/Legends|M-s3 concussion missile launchers]] (2),<ref name="SC" /> selective:
+**8 medium [[Concussion missile/Legends|concussion missiles]] each (standard),<ref name="Mesop7" /> [[Advanced concussion missile|advanced]] possible<ref name="Star Wars: TIE Fighter">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+**6 [[Proton torpedo/Legends|proton torpedoes]] each,<ref name="Mesop7" /> [[Advanced Proton Torpedo/Legends|advanced]] possible<ref name="Star Wars: TIE Fighter" />
+**4 heavy concussion missiles each<ref name="Mesop7" />
+**4 [[Plasma torpedo/Legends|shieldbuster torpedoes]] each<ref name="Mesop7" />
+**4 [[Proton rocket/Legends|heavy rockets]] each<ref name="Star Wars: TIE Fighter" />
+**2 heavy [[Space mine/Legends|space mines]] each<ref name="Mesop7" />
+**[[Bomb/Legends|Bombs]]<ref name="RECG" />
+*[[Tractor beam projector/Legends|Tractor beam projector]] (1; optional)<ref name="Star Wars: TIE Fighter" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="FOP" />
+|skeleton=
+|passengers=
+|capacity=100 [[Kilogram/Legends|kilograms]]<ref name="FOP" />
+|cargohandling=
+|consumables=3 [[Standard day/Legends|days]]<ref name="FOP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale<ref name="Mesop7" />
+|role=*Multipurpose starfighter<ref name="Casual" />
+*Assault starfighter<ref name="SC" />
+*[[Gunboat/Legends|Gunboat]]<ref name="SC" />
+*Escort<ref name="Mesop7" />
+*Long-range [[Scout/Legends|scout]]<ref name="Mesop7" />
+*Patrol<ref name="Casual" />
+*Space [[superiority fighter]] (intended)<ref name="Mesop7" />
+|firstuse=[[0 BBY/Legends|0 BBY]]<ref name="XW">[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]</ref>
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="Star Wars: TIE Fighter" />
+**[[Imperial Office of Customs/Legends|Imperial Customs]]<ref name="Casual" />
+*[[Lumini pirates/Legends|Lumini Pirates]]
+}}
+The [[Cygnus Spaceworks/Legends|Cygnus Spaceworks]] '''''Alpha''-class Xg-1 Star Wing''', also known as the '''Xg-1 Starwing'''<ref name="CSWE">{{CSWECite|III|342|Xg-1 Starwing}}</ref> or '''Assault Gunboat''', was one of the [[Galactic Empire/Legends|Galactic Empire's]] first general-deployment [[Starfighter/Legends|starfighters]] to be equipped with [[Deflector shield/Legends|deflector shields]] and a [[Hyperdrive/Legends|hyperdrive]].
+
+==Characteristics==
+[[File:Xg-1_Star_Wing_FC.png|thumb|left|250px|An Xg-1 Star Wing firing proton torpedoes]]
+The 10-meter-long Xg-1 was based on a tri-wing design similar to the [[Lambda-class T-4a shuttle/Legends|''Lambda''-class shuttle]], another craft that Cygnus Spaceworks designed. Like the ''Lambda'' shuttle, the Star Wing had a fixed dorsal wing flanked by a pair of lateral folding wings. When landing, the lower wings folded upwards. However, the Xg-1 had a sleeker cockpit and warhead/engine pods along the side of the [[Hull/Legends|hull]]. It had two additional folding wings that protruded diagonally from the side pods, at an angle reflexive to the lateral wings. These secondary wings afforded the Xg-1 significantly increased maneuverability over its shuttle counterpart. When in flight position, the wing configuration resembled a flattened five-point star, thus the name "Star Wing."<ref name="Star Wars: TIE Fighter" />
+
+Its armament consisted of two chin-mounted [[Laser cannon/Legends|laser cannons]], two [[Ion cannon/Legends|ion cannons]] above the cockpit, and a pair of general-purpose warhead launchers. The Star Wing could also carry the [[Tractor beam/Legends|tractor beam]] weapon developed for the [[TIE/ad starfighter|TIE Avenger]] and newer Imperial starfighters; the only known use of this was during [[Maarek Stele/Legends|Maarek Stele's]] campaign in the [[Eva-T system/Legends|Eva-T system]] to snare enemy craft.<ref name="Star Wars: TIE Fighter" />
+
+The standard payload was sixteen [[Concussion missile/Legends|concussion missiles]],<ref name="RECG" /> eight per launcher, though depending upon the mission the Star Wing could alternatively carry twelve [[Proton torpedo/Legends|proton torpedoes]], eight [[Proton rocket/Legends|heavy rockets]], or four heavy [[Proton bomb/Legends|space bombs]].<ref name="Star Wars: TIE Fighter" /> Some Xg-1s also carried [[Ion torpedo/Legends|ion torpedoes]].<ref name="SSR">''[[Secrets of the Sisar Run]]''</ref>
+
+The Xg-1 was a relatively large starfighter, which enabled it to accommodate a hyperdrive and deflector shields. However, it was not particularly fast and had average maneuverability, making it mediocre in space superiority.<ref name="Star Wars: TIE Fighter" /> The starfighter also borrowed the standard reactor design from the TIE series, which, like those fighters, was mounted directly on the tail of the craft.<ref name="XWA" />
+
+==Role==
+The Star Wing was equipped with a hyperdrive, which meant that it did not need the support of a [[Star Destroyer/Legends|Star Destroyer]] or other [[Carrier/Legends|starfighter carrier]]. It proved very useful in conducting [[Hyperspace/Legends|hyperspace]] raids against convoys and [[Space station/Legends|space stations]], and also served in a reconnaissance capacity.<ref name="Star Wars: TIE Fighter" />
+
+<div style="float:left">[[File:Xg-1Attack-RECG.jpg|thumb|left|250px|A squadron of Xg-1s attacks a ''Dauntless''-class heavy cruiser.]]</div>
+The fact that it was armed with ion cannons made the Star Wing an ideal choice for capture operations or [[Planet/Legends|planetary]] customs duties. Its high magazine capacity made it a deadly bomber, as a [[Squadron/Legends|squadron]] of Star Wings could penetrate most medium-sized [[Capital ship/Legends|capital ships]]' shields with a single warhead salvo from each fighter.<ref name="Star Wars: TIE Fighter" />
+
+The Xg-1 was famed for its resilience. Its powerful shields allowed it to engage foes point blank, enabling it more opportunity to inflict damage, whereas an unshielded craft would be forced to break off the attack. The Star Wing's reinforced hull could survive a direct hit from an advanced concussion missile, and several times these craft were able to return home safely despite being badly damaged. Pilots such as Maarek Stele, having previously flown [[TIE/ln space superiority starfighter/Legends|TIEs]] whose best defense was speed and maneuverability, often took advantage of the Star Wing's defenses to press bold assaults.<ref name="Star Wars: TIE Fighter" /> If the Star Wing was deployed into a combat zone directly by a Star Destroyer or carrier, its deflector shields enabled it to spearhead the attack and draw fire away from unshielded TIEs. One such rare deployment was when Maarek Stele led other [[Imperial Navy/Legends|Imperial Navy]] starfighters at the [[Battle of Mylok IV#Rebel arms deal|final battle of the Conflict at Mylok IV]].<ref name="Star Wars: TIE Fighter" />
+
+The Star Wing was designed and deployed to perform specific missions that standard TIE fighters were unable to complete. It was not planned for widespread production like TIEs, so it did not alter the Imperial doctrine of quantity over quality. (The TIE Avenger and [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE Defender]], however, were designed as high-quality alternatives to using swarms of cheap craft.)<ref name="Star Wars: TIE Fighter" />
+
+==History==
+[[File:Xg-1_Assault_Configuration_XWM.png|thumb|right|250px|Xg-1 Star Wings launching from a ground-based hangar]]
+The Star Wing did not prove overwhelmingly successful in its first independent deployments. As the Star Wing was one of the only hyperdrive-capable starfighters in the Imperial arsenal, there were initially few superiority craft available to escort it. The few hyperspace-capable fighters left in imperial service were holdovers from [[Clone Wars/Legends|the Clone Wars]], such as [[BTL Y-wing starfighter/Legends|Y-Wing starfighters]] and [[Z-95 Headhunter/Legends|Z-95 Headhunters]], which were still common throughout the galaxy the [[Imperial Era/Legends|early years of the Empire]]. The aging republic craft were deemed unsuitable for frontline Imperial service, being relegated to planetary defense, where many found their way into the hands of pirates, criminals, smugglers, and the [[Alliance to Restore the Republic/Legends|Rebel Alliance]]. They also employed the use of [[GAT-12 Skipray Blastboat|Skipray Blastboats]], which, being rather large assault craft, shared many of the same issues as the XG-1 due to the lack of suitable escorts, though they still saw some success in Imperial service. Of the former Republic craft, only the [[Delta-7 Aethersprite-class light interceptor/Legends|Delta-7]] and [[Eta-2 Actis-class interceptor/Legends|ETA-2]] were truly suitable for the task, but these were relatively limited in number, were difficult to fly, and, most importantly, required a separate hyperdrive ring to travel trough hyperspace.
+
+The Xg-1 compared favorably against similarly heavy [[Alliance to Restore the Republic/Legends|Alliance]] craft such as the [[BTL Y-wing starfighter/Legends|Y-wing]] and the [[A/SF-01 B-wing starfighter/Legends|B-wing]]. However, against the more common [[T-65 X-wing starfighter/Legends|X-wing]] and especially the nimble [[RZ-1 A-wing interceptor/Legends|A-wing]] which it was often forced to engage, the Xg-1 had a hard time. The Xg-1 did have the advantage of stronger shields and armor to prolong its survival, but its comparative lack of speed prevented it from coming out on top. Consequently, Star Wings were often forced into lengthy dogfights with more maneuverable Alliance fighters, which detracted from their main mission goals. When the tractor beam weapon was developed, while it would have helped the Xg-1's chances against other starfighters, most flight officers opted to install what limited beam weapons they had on the TIE Avenger and other newer, faster craft, where it would be even more effective.<ref name="Star Wars: TIE Fighter" /> At some point, several Star Wings underwent servicing at the [[Naval Station Validusia/Legends|Naval Station ''Validusia'']].<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+
+As a stopgap, Imperial flight officers decided that hyperspace raids should be conducted in two groups, with a squadron of missile-equipped Star Wings being pressed into the space superiority/escort role, and another group tasked with delivery of the warheads to their target, usually proton torpedoes, heavy rockets, or heavy space bombs. An example of this was the assault on the Rebel [[MC40a light cruiser/Legends|Mon Calamari Light Cruiser]] [[Lulsla (MC40a light cruiser)|''Lulsla'']], in which the Imperials succeeded.<ref name="Star Wars: TIE Fighter" />
+
+Once available, Star Wings were escorted by TIE Avengers&mdash;another class of Imperial fighter equipped with shields and hyperdrive. Because of the hyperspace capability of both classes, they could arrive in a system at the same time, catching Rebel patrols by surprise. As the Avengers proved excellent at space superiority, this enabled Star Wings to concentrate on their intended roles, whether that be capturing craft or assaulting capital ships. Successful Star Wing-Avenger partnerships included the capture of [[Admiral/Legends|Admiral]] [[Harkov]] and the seizure of [[Galactic Electronics]]' [[Electromagnetic pulse/Legends|mag pulse]] weapons.<ref name="Star Wars: TIE Fighter" />
+
+[[File:GUNhanger.jpg|thumb|left|250px|Xg-1 Star Wings docked in racks aboard an Imperial vessel]]
+The Xg-1 was eventually overshadowed by the fast and versatile TIE Defender, which was virtually equal to or superior in every aspect save for armor and cost. However, due to the traitor Admiral [[Demetrius Zaarin]], who threatened loyalist Avenger and Defender facilities, the loyalists were forced to resort to older craft. The Star Wing made a comeback in the [[Eva-T system/Legends|Eva-T system]] to combat the rogue TIE Defender threat. The first was during the "trade" with the [[Rneekii]] pirates for the TIE Defender [[Scientist/Legends|scientist]]; the mutual exchange was actually an Imperial trap, but sending a newer starfighter would be provocative, and also because the Rneekii would underestimate the Gunboat. The Xg-1, however, was piloted by ace Maarek Stele, and it carried a full load of advanced concussion missiles and the new tractor beam weapon. In the following mission, Stele would take the Xg-1 into battle against the Zaarin's TIE Defender and TIE Advanced fighters, where Stele used the tractor beam in conjunction with advanced proton torpedoes to great effect against much faster and more agile craft. Stele's ability and the inclusion of the latest technology in the Star Wing proved that it could prevail against overwhelming odds.<ref name="Star Wars: TIE Fighter" />
+
+The follow-up to the ''Alpha''-class Xg-1 Star Wing was the [[Missile Boat]]. Despite several innovations, notably a much larger warhead capacity and a sublight acceleration system, it lacked ion cannons, so it was not a direct replacement. Three Xg-1s participated in the disabling and capture of the ''Strike'' Cruiser ''[[Nuance]]'', escorted by two Missile Boats. Other noted Star Wing-Missile Boat partnerships included the successive captures of the MC80 Mon Calamari Rebel cruiser ''[[Link]]'' and the rogue ''Victory'' Star Destroyer ''[[Zeplin]]''.<ref name="Star Wars: TIE Fighter" />
+
+==Behind the scenes==
+The Star Wing first made an appearance in [[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']], where it was known as the Assault Gunboat or simply Gunboat. It appeared midway through the main game's second tour of duty&mdash;in order to give the Imperial Navy a fighter with deflector shields. However, two ships had previously appeared in the cutscene after the first tour of duty, assisting [[All Terrain Armored Transport/Legends|AT-ATs]] attacking a Rebel base on [[Orion IV]].
+
+In [[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']], like the preceding [[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']], the craft is commonly named Assault Gunboat or Gunboat (and abbreviated to GUN), although the official Xg-1 Star Wing name does show up in the Combat Chamber introduction. Gunboats and Missile Boats were assigned squadron names Tau, Mau, Mu, Nu, and Rho, in contrast to TIEs, which received the squadron names Alpha, Beta, Gamma, Delta, and Theta.
+
+''[[The Essential Guide to Vehicles and Vessels]]'' states that Imperial Star Destroyers carry five ''Alpha''-class Xg-1 Star Wings, in addition to their standard complement of TIEs, shuttles, and landing barges.
+
+Possibly because of its equivalence to typical Rebel Alliance fighters, the Star Wing has received little to no mention outside of the ''X-wing'' computer game series. While exceptional Imperial fighters such as the TIE/D Defender have shown up increasingly in later [[Star Wars Legends|Expanded Universe]] novels, the Star Wings are rarely depicted in such works.
+
+The ''Alpha''-class Xg-1 Star Wing is playable in [[Fantasy Flight Games]]' [[Star Wars: X-Wing Miniatures Game]]. In the game, it has capabilities similar to the Missile Boat, particularly in its ability to use a [[SubLight Acceleration Motor/Legends|SLAM]].<ref name="Bring on the Alpha Strike">{{FantasyFlightGames|url=en/news/2017/8/21/bring-on-the-alpha-strike|text=Bring on the Alpha Strike}}</ref>
+
+==Appearances==
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{1st|[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']] {{1st|"[[The Farlander Papers]]"}}
+*[[Star Wars: X-Wing Collector's CD-ROM|''Star Wars: X-Wing'' Collector's CD-ROM]]
+*''[[Star Wars: X-Wing Tour of Duty: Imperial Pursuit]]''
+*{{JournalCite|5|A Bitter Winter|reprint=1}}
+*''[[Star Wars: X-Wing Tour of Duty: B-Wing]]''
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*''[[Star Wars: TIE Fighter: Defender of the Empire]]''
+*[[Star Wars: TIE Fighter Collector's CD-ROM|''Star Wars: TIE Fighter'' Collector's CD-ROM]]
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power]]''
+*{{WEGCite|story=The Barani Conspiracy|book=Secrets of the Sisar Run}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Isard's Revenge]]'' {{Mo}}
+*''[[Star Wars: Jedi Knight: Mysteries of the Sith]]''
+*''[[Before the Storm]]'' {{Mo}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Alpha-class Xg-1 Star Wings}}
+*<!-- 1993-06-XX -->''[[X-Wing: The Official Strategy Guide]]''
+*<!-- 1994-05-XX -->{{JournalCite|2|New Horizons}}
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->''[[Star Wars Technical Journal of the Imperial Forces]]''
+*<!-- 1994-11-07 -->''[[Star Wars: Rebel Assault: The Official Insider's Guide]]''
+*<!-- 1995-02-XX -->{{JournalCite|5|A Buyer's Guide to Alternative Starships}}
+*<!-- 1995-03-XX -->''[[X-Wing Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1997-04-XX -->{{GalaxyCite|11|Game Room|Game Room: Darth Vader's Plenty Game}}
+*<!-- 1997-11-XX -->{{JournalCite|15|ISB Intercepts}}
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}}
+*<!-- 2002-09-25 -->{{FactFile|39|SEN 1-2|''Sentinel''-class Imperial Landing Craft}}
+*<!-- 2002-11-13 -->{{FactFile|46|LAM 1-2|''Lambda''-class Imperial Shuttle}}
+*<!-- 2003-08-06 -->{{FactFile|84|TIE 13-14|TIE Bomber}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-12-17 -->{{FactFile|103|XWI 3-4|T-65 X-wing}}
+*<!-- 2008-11-20 -->{{StarshipsVehiclesCite|5|In Command}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2010-03-05 -->{{Hyperspace|url=hyperspace/source/writtenword/index.html?page=1|text=The Written Word|int=The Written Word}}
+*<!-- 2010-04-13 -->{{Wizards|url=default.asp?x=starwars/article/Mesop7|text=Message to Spacers 7}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]'' {{Po}}
+*<!-- 2014-11-05 -->{{FactFile2014|44|STA 3-4|Star destroyers}}
+*<!-- 2014-11-12 -->{{FactFile2014|45|SEN 1-2|''Sentinel''-class Imperial landing craft}}
+*<!-- 2014-12-31 -->{{FactFile2014|51|XWI 3-4|X-wing manoeuvres}}
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+*<!-- 2016-05-05 -->''[[Star Wars: Graphics]]''
+*<!-- 2016-10-31 -->''[[Endless Vigil]]''
+*<!-- 2017-08-21 -->{{FantasyFlightGames|url=en/news/2017/8/21/bring-on-the-alpha-strike|text=Bring on the Alpha Strike}}
+*<!-- 2017-10-20 -->{{FantasyFlightGames|url=en/news/2017/10/20/indiscriminate-devastation|text=Indiscriminate Devastation}}
+*<!-- 2017-12-08 -->{{FantasyFlightGames|url=en/news/2017/12/8/raw-untamed-power|text=Raw, Untamed Power}}
+<!-- 2017-12-08 -->{{CardGameSet|set={{FFGXW|set=Alpha-class Star Wing Expansion Pack}}|cards=
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Lieutenant Karsabi}}
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Linked Battery}} {{Po}}
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Major Vynder}}
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Nu Squadron Pilot}}
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Os-1 Arsenal Loadout}} {{Po}}
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Rho Squadron Veteran}}
+*<!-- 2017-12-08 -->{{FFGXW|set=Alpha-class Star Wing Expansion Pack|cardname=Xg-1 Assault Configuration}}
+}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Galactic Empire Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Lieutenant Karsabi}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Major Vynder}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Nu Squadron Pilot}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Os-1 Arsenal Loadout}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Rho Squadron Pilot}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Xg-1 Assault Configuration}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Alpha-Klasse Xg-1 Angriffskanonenboot#legends
+|es=Ala Estelar Xg-1 clase Alfa/Leyendas
+|fi=Alpha-luokan Xg-1 tähtisiipi
+|pl=Kanonierka szturmowa typu Alpha Xg-1 StarWing
+}}
+
+[[Category:Assault ship classes]]
+[[Category:Cygnus Spaceworks products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:Alpha-class Xg-1 Star Wings]]
+}}

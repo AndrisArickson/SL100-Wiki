@@ -1,0 +1,201 @@
+{{Top}}
+{{Update}}
+{{GroundVehicle
+|image=[[File:AT-PT_NEGVV.png]]
+|name=All Terrain Personal Transport
+|designer=
+|manufacturer=[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="wizards">{{Wizards|url=default.asp?x=starwars/article/sw20021010arms|text=Wings, Walkers, and Whatnot}}</ref>
+|line=[[AT-series/Legends|All Terrain]]
+|model=All Terrain Personal Transport<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|type=[[Walker/Legends|Walker]]<ref name="wizards" />
+|cost=*60,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="wizards" />
+*36,000 credits {{C|used}}<ref name="wizards" />
+|modifier=
+|sysmods=
+|length=4 [[Meter/Legends|meters]]<ref name="wizards" />
+|width=
+|height=3 meters<ref name="wizards" /><ref name="IHB">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>
+|mass=
+|max accel=
+|speed=60 [[Kilometer per hour/Legends|km/h]]<ref name="FF">''[[The Official Star Wars Fact File]]''</ref><ref name="IHB" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*[[Mk 1/W twin blaster cannon]]<ref name="MBC">''[[Star Wars Miniatures Battles Companion]]''</ref>
+*[[Mk 1/W concussion grenade launcher]]<ref name="MBC" />
+**Magazine of either 3<ref name="MBC" /> or 8<ref name="wizards" /> [[Mk 2/W concussion grenade]]s<ref name="MBC" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Vehicle Command Crewer|Pilot]] (1)<ref name="wizards" /><ref name="IHB" />
+*Co-pilot (1) {{C|later models}}<ref name="wizards" />
+|skeleton=
+|passengers=1 {{C|in emergencies}}<ref name="wizards" />
+|capacity=150 [[Kilogram/Legends|kg]]<ref name="wizards" />
+|cargohandling=
+|consumables=2 [[Standard day/Legends|days]]<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=*Heavy cavalry<ref name="IHB" />
+*Heavy strike mech<ref name="SW:GB">''[[Star Wars: Galactic Battlegrounds]]''</ref>
+*Patrol<ref name="EGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+*Reconnaissance<ref name="EGVV" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref>
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="RECG" /><ref name="IHB" />
+**[[Imperial Army/Legends|Imperial Army]]<ref name="RECG" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="RS I">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref>
+*[[New Republic/Legends|New Republic]]<ref name="EGVV" />
+*[[m'Yalfor'ac Order]]
+*[[Pirates of Prexiar]]<ref name="Pirates adventure">{{WEGCite|story=The Pirates of Prexiar|book=Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded}}</ref>
+}}
+{{Quote|As is evident by its designation, the AT-PT is operated by a single trooper. It turns a soldier into an armored, elevated weapons platform, and adds extra firepower to a standard infantry formation.|[[Colonel/Legends|Colonel]] [[Maximilian Veers/Legends|Maximilian Veers]], ''[[Imperial Handbook: A Commander's Guide]]''|<ref name="IHB" />}}
+The '''All Terrain Personal Transport (AT-PT)''' was a light anti-infantry [[Walker/Legends|walker]] used by the [[Galactic Republic/Legends|Galactic Republic]] and, later, the [[Galactic Empire/Legends|Galactic Empire]]. It was manufactured by [[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]], a subsidiary of [[Kuat Drive Yards/Legends|Kuat Drive Yards]]. Made to take a single trooper into an intense combat situation on his own, it was the basis for the [[All Terrain Scout Transport/Legends|AT-ST]] and [[All Terrain Armored Transport/Legends|AT-AT]].
+
+==Characteristics==
+{{Quote|Sure, they don't look like much. But when you're trapped on Eos, where the electromagnetic fields keep 'advanced' airspeeders grounded, you'll wish you had a whole fleet of AT-PTs.|[[Imperial commander]] [[Brenn Tantor]]|<ref name="EGVV" />}}
+[[File:AT-PT_schem.jpg|thumb|left|200px|AT-PT [[:Category:Technical drawing images|schematics]].]]
+AT-PTs were made to take single troopers into intense combat situations on their own, with the firepower of a squad. They stood only three [[Meter/Legends|meters]] tall, and were driven by [[Vehicle Command Crewer|AT-PT pilots]].
+
+The [[Walker/Legends|walkers]] were capable of reaching speeds up to 60 [[Kilometer/Legends|kilometers]] per [[Standard hour/Legends|hour]] and could climb a 45-degree angle, with hydraulic adjusters keeping the unit balanced. The vehicles carried a long-range comm antenna for patrols. The main drive unit provided power and hydraulic pressure for the two legs, and featured cooling vents. The [[Cockpit/Legends|cockpit]] entry hatch was on the side,<ref name="RS I guide" /> while the emergency flare launcher was just above the [[Viewport/Legends|viewport]].<ref name="RS II guide">''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''</ref>
+
+The AT-PT was &mdash; compared to its intended threat, enemy soldiers &mdash; heavily armored, enough so that small-arms fire could not penetrate the craft's armor. The walker was armed with twin [[Blaster cannon/Legends|blaster cannons]] and one [[Concussion grenade/Legends|concussion grenade]] launcher, which were only effective against infantry. The walker's superior agility made up for its light armor (in comparison to most other cavalry units).
+
+[[File:Light_All_Terrain_Personal_Transport.jpg|thumb|left|200px|Light All Terrain Personal Transports.]]
+The units often traveled in packs for increased firepower.<ref name="RS II guide" />
+
+AT-PTs were upgraded versions of [[All Terrain Personal Transport/Legends|Light All Terrain Personal Transports]], which had a more fragile chassis as well as a bubble canopy that offered greater visibility than the Standard AT-PT's vision slit. Both were constructed at Imperial [[Factory/Legends|mech factories]].<ref name="SW:GB" />
+
+==History==
+{{Quote|I don't understand why they keep making these walkers.|Rachi Sitra|<ref name="The Nightsister's Revenge">{{SWGTCG|set=The Nightsister's Revenge|scenario=Light Side scenario campaign}}</ref>}}
+[[File:Targeted_Strike_DC_Mariusz_Gandzel.png|thumb|left|220px|An AT-PT disabled by a missile shot to the leg joint]]
+The AT-PT was designed for the [[Galactic Republic/Legends|Galactic Republic]] decades before the [[Clone Wars/Legends|Clone Wars]], but during the war, the Republic found a need for a small, anti-personnel walker, and the AT-PT became more relevant. It was one of the earliest [[AT-series/Legends|AT series]] transports.
+
+The AT-PT was a limited production model, the majority of which were stationed aboard the [[Dreadnaught-class heavy cruiser/Legends|''Dreadnaught''-class cruisers]] of the legendary [[Katana fleet|''Katana'' fleet]], and many were lost when the fleet itself vanished.
+
+Many of the concepts pioneered in the AT-PT were used in the [[All Terrain Attack Pod/Legends|AT-AP]], [[All Terrain Scout Transport/Legends|AT-ST]] and the [[All Terrain Armored Transport/Legends|AT-AT]].
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], the [[Galactic Empire/Legends|Galactic Empire]] utilized a number of the walkers. They were often used as sentries and patrol vehicles near Imperial installations.
+
+Imperial commander [[Brenn Tantor]] ordered the use of AT-PTs in several battlefronts prior to his defection.<ref name="SW:FC">''[[Star Wars: Force Commander]]''</ref> Tantor also used them during the [[Battle of Eos]].<ref name="EGVV" />
+
+[[File:Trandoshans_At-PT_EotE_by_Christopher_Burdett.jpg|thumb|right|200px|Two [[Trandoshan/Legends|Trandoshans]] escorting an AT-PT.]]
+Large numbers of AT-PTs were used in the [[Defense of Ralltiir|Battle of Ralltiir]] soon after the [[Battle of Yavin/Legends|Battle of Yavin]], where most of them were destroyed by [[Luke Skywalker/Legends|Luke Skywalker]] and [[Rogue Squadron/Legends|Rogue Squadron]].<ref name="RS III">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref> Three AT-PTs were carried aboard a [[Sentinel-class landing craft/Legends|''Sentinel''-class landing craft]] during the [[Search for the Nonnah|search]] for the [[Starship/Legends|starship]] ''[[Nonnah]]''. They also guarded a [[Jade Moon supply base|supply base]] on the [[Jade Moon]]. Several were also on [[Gerrard V]] during the planet's [[Liberation of Gerrard V|liberation]]. Soon after, [[Alliance to Restore the Republic/Legends|Rebel Alliance]] [[Commando/Legends|commandos]] [[Escape from Fest|stole]] three AT-PTs from the [[Weapons Research Facility]] on [[Fest/Legends|Fest]]; they were protected during their escape by the Rebel flight group [[Rogue Squadron/Legends|Rogue Squadron]].<ref name="RS I" /> The [[Sith Lord/Legends|Sith Lord]] and [[Supreme Commander (Galactic Empire)/Legends|Supreme Commander]] of the [[Imperial Military/Legends|Imperial Military]] [[Anakin Skywalker/Legends|Darth Vader]] used AT-PTs during the [[Reytha campaign]] and the [[Zaloriis campaign/Legends|Battle of Zaloriis]]. A number of AT-PTs also served as part of [[Blizzard Force/Legends|Blizzard Force]] under Vader's command during the [[Battle of Hoth/Legends|Battle of Hoth]].<ref name="SW:GB" /> AT-PTs also [[Battle near the Maw|patrolled]] an [[Maw Imperial Prison|Imperial prison]] in [[Maw Cluster/Legends|the Maw]]. The [[Imperial I-class Star Destroyer/Legends|Star Destroyer]] [[Motivator (Imperial-class)|''Motivator'']] carried a group of AT-PTs, which escaped from the ship's wreckage during the [[Battle of Kothlis]].<ref name="RS II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+
+The [[m'Yalfor'ac Order]] in [[Guiteica/Legends|Guiteica]] used some three dozen AT-PTs during the [[Rebellion era]]. Due to the AT-PT being designed for [[Human/Legends|Human]] users, and to the Order being composed almost exclusively by [[Bitthævrian/Legends|Bitthævrians]] (who were larger than Humans), the Order's AT-PTs were commonly piloted by short Bitthævrians. It was believed that the Order took control of those AT-PTs by boarding a [[Pirate/Legends|pirate]] ship in one of the rare situations where Bitthævrians left Guiteica.<ref name="air">''[[Alliance Intelligence Reports]]''</ref>
+
+The walkers of the Katana fleet, along with the fleet itself, were rediscovered by the [[New Republic/Legends|New Republic]], and were used in the Republic's war against [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]].<ref name="EGVV" />
+
+==Behind the scenes==
+[[File:AT-PT.jpg|thumb|left|160px|An AT-PT.]]
+In ''[[Alliance Intelligence Reports]]'', the cost of an AT-PT was specified as 15,000 credits and its capacity as 25 kilograms; those stats were superseded by later publications.
+
+The walkers first appeared in [[Timothy Zahn]]'s novel ''[[Dark Force Rising]]''. In the [[2001]] [[Star Wars video games|video game]] ''[[Star Wars: Galactic Battlegrounds]]'', the AT-PTs serve as the Empire's Heavy Strike Mech unit.
+
+Originally, the AT-PT's forward viewport was restricted to a small window near the roof, with a large anti-glare panel below it. Sometime after its first appearance in the West End Games' ''Dark Force Rising Sourcebook'', the anti-glare panel was mistaken for the lower half of the viewport and almost every image of the walker since then has carried over this mistake.
+
+A walker with the designation of AT-PT was developed by Pandemic Studios for the original ''[[Star Wars: Battlefront]]'', but was cut from the game. Unlike the Imperial version, this walker featured a sleek pod with an open design.
+
+The AT-PT was created by Ralph McQuarrie as the original concept that would later be modified to become the AT-ST.
+
+==Appearances==
+{{Mediacat|imagecat=Images of All Terrain Personal Transports}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront]]'' {{C|cut content}}
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*[[Star Wars: Clone Wars Adventures (video game)|''Star Wars: Clone Wars Adventures'']]
+*''[[The Clone Wars: Decide Your Destiny: The Way of the Jedi]]''
+*''[[Yoda: Dark Rendezvous]]'' {{Ab|Yoda: Dark Rendezvous (unabridged audiobook)}} {{Mo}}
+*[[Yoda: Dark Rendezvous (abridged audiobook)|''Yoda: Dark Rendezvous'' abridged audiobook]] {{Mo}}
+*{{JournalCite|7|Mist Encounter|reprint=1}} {{Mo}}
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*{{WEGCite|story=The Pirates of Prexiar|book=Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded}}
+*{{SWGTCG|set=The Nightsister's Revenge|scenario=Light Side scenario campaign}}
+*{{GalaxiesNGE}}
+*{{DarkStryder|adventure=Showdown (The Kathol Rift)|book=The Kathol Rift|reprint=yes}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{1st|in book}}
+
+==Sources==
+{{ScrollBox|content=
+[[File:All_Terrain_Personal_Transport.jpg|right|thumb|An AT-PT in the field.]]
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-06-XX -->''[[Star Wars Miniatures Battles Companion]]''
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-02-XX -->{{JournalCite|9|Repulsortank Battlefield}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=AT-PT}}
+*<!-- 1997-11-XX -->{{JournalCite|15|Special Military Unit Intelligence Update}}
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 2000-04-10 -->[[Star Wars: Force Commander: Prima's Official Strategy Guide|''Star Wars: Force Commander'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-10-10 -->{{Wizards|url=default.asp?x=starwars/article/sw20021010arms|text=Wings, Walkers, and Whatnot}}
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2002-12-03 -->{{InsiderCite|64|The Vehicles of Episode II}}
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-05-07 -->{{FactFile|71|ATP 1-4|All Terrain Personal Transport (AT-PT)}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-29 -->[[Star Wars: The Official Starships & Vehicles Collection 10|''Star Wars: The Official Starships & Vehicles Collection'' 10]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-12-15 -->{{SWGTCG|set=The Nightsister's Revenge|cardname=AT-PT}}
+*<!-- 2010-03-16 -->{{SWGTCG|set=Threat of the Conqueror|cardname=AT-PT Walker}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]'' {{Po}}
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-06-18 -->''[[Desperate Allies]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|AT-PT Walker|All Terrain Personal Transport}}
+
+{{Interlang
+|cs=AT-PT
+|de=Allterrain-Personentransporter
+|es=Transporte Personal Todo Terreno
+|fi=All Terrain Personal Transport
+|hu=AT-PT
+|it=All Terrain Personal Transport
+|nl=All Terrain Personal Transport
+|no=AT-PT
+|pl=All Terrain Personal Transport
+|pt=Legends:Transporte Pessoal para Todo Terreno
+|uk=AT-PT/Легенди
+}}
+
+[[Category:AT-series models|Personal Transport]]
+[[Category:Rothana Heavy Engineering products]]
+[[Category:Vehicle classes of the Galactic Empire]]
+[[Category:Vehicle classes of the Galactic Republic]]
+[[Category:Vehicle classes of the New Republic]]
