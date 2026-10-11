@@ -8,3 +8,5 @@ __pycache__/
 
 # Copyrighted source-book extracts must never be pushed
 private/
+images/
+Source_Text/
