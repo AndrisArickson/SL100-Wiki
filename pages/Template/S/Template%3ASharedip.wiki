@@ -1,0 +1,9 @@
+{{Ooumb
+|id=attention
+|bg=#F4F2CA
+|image=[[File:Blue-exclamation-mark.png|40px]]
+|caption=This [[wikipedia:IP address|IP address]] ({{PAGENAME}}) is shared by multiple users.
+|message=Comments left on this anonymous user's talk page may be received by other editors using this IP and appear to be irrelevant. Caution should be used when blocking this IP address. If you are frustrated by irrelevant comments appearing here, '''you can avoid them by [[Special:UserLogin|creating an account for yourself]]'''.
+
+<span style="color:red">'''Please note: Users of ISPs such as [[wikipedia:AOL|AOL]] often change IP addresses with each page they load. Comments on this user's talk page will likely not be received by the intended recipient.'''</span>
+}}<noinclude>[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

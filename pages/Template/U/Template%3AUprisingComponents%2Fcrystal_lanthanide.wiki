@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal lanthanide|title=Lanthanide Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Lanthanide<!--
+-->|type=Crystal<!--
+-->|subtype=Defense<!--
+-->|element=None<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=These crystals provide a defensive benefit to equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedlanthanide|cracked lanthanide|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_01.png<!--
+			-->|credits|value|price=262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=300<!--
+			-->|howget|howtoget=<div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Burnin Konn</div><div>Found on Opportunity Missions on Burnin Konn</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|chipped|chippedlanthanide|chipped lanthanide|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<div>Combine 6 Chipped Lanthanide</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Burnin Konn</div><div>Found on Opportunity Missions on Burnin Konn</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dulllanthanide|dull lanthanide|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Combine 7 Chipped Lanthanide</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Burnin Konn</div><div>Found on Opportunity Missions on Burnin Konn</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedlanthanide|faceted lanthanide|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine 9 Dull Lanthanide</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Burnin Konn</div><div>Found on Opportunity Missions on Burnin Konn</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedlanthanide|polished lanthanide|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Lanthanide</div><div>Found on Assault Missions on Burnin Konn</div><div>Found on Opportunity Missions on Burnin Konn</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantlanthanide|brilliant lanthanide|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristinelanthanide|pristine lanthanide|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Lanthanide<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Defensive_06.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Lanthanide<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Defensive_06.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Lanthanide}}
+__NOTOC__
+</noinclude>

@@ -1,0 +1,30 @@
+{{#if: {{{load|}}}
+	|{{#ifeq: {{Imagename|{{{1}}}}} | skip
+		|[[{{{1}}}|link={{{3|}}}|{{#if:{{{4|}}}|{{{4|}}}|{{{3}}}}}]]
+		|[[File:{{Imagename|{{{1}}}}}|{{{load|}}}px|link={{{3|}}}|{{#if:{{{4|}}}|{{{4|}}}|{{{3}}}}}]]
+	}}
+	|{{#if:{{{1|}}}
+		|{{#ifeq: {{#sub:{{Imagename|{{{1}}}}}|0|4}} | skip
+			|{{{1}}}
+			|{{#ifexpr: {{#imgw:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}}} > 1500
+				| [[File:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}|650px]]
+				| {{#ifexpr: {{#imgw:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}}} > 1000
+					| [[File:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}|500px]]
+					| {{#ifexpr: {{#imgw:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}}} > 500
+						| [[File:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}|400px]]
+						| [[File:{{#explode:{{Imagename|{{{1}}}}}|caption:|0}}]]
+					}}
+				}}
+			}}{{#if: {{#explode:{{Imagename|{{{1}}}}}|caption:|1}}
+				|<br>{{#explode:{{Imagename|{{{1}}}}}|caption:|1}}
+				|
+			}}
+		}}
+		|
+	}}
+}}<noinclude>
+
+This template limits the max width of an infobox image. It is built into infoboxes.
+
+[[Category:Infobox utility templates]]
+</noinclude>

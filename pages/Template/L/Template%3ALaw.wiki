@@ -1,0 +1,49 @@
+<infobox theme="Battle300">
+        <data source="relatedevents"><label>Related events</label></data>	
+        <data source="proposedby"><label>Proposed by</label></data>	
+	<image source="image"></image>
+    <title source="name"></title>
+<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header></header>	
+        <data source="dateproposed"><label>Date</label></data>	
+        <data source="government"><label>Government</label></data>
+        <data source="legislativebody"><label>Legislative body</label></data>	
+        <data source="result"><label>Outcome</label></data>
+    </group>
+    <group layout="horizontal">
+    	<header></header>
+        <data source="side1"><label>Support</label></data>	
+        <data source="side2"><label>Opposition</label></data>
+    </group>
+    <group collapse="open">	
+        <data source="otherkeyindividuals"><label>Other key individuals</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Law|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<noinclude>[[category:Event infobox templates]]{{clear}}
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+
+
+===Usage===
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>
+{{Law
+|relatedevents=
+|proposedby=
+|image=
+|name=
+|dateproposed=
+|government=
+|legislativebody=
+|result=
+|side1=
+|side2=
+|otherkeyindividuals=
+}}
+</nowiki></pre></noinclude>

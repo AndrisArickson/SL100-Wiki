@@ -1,0 +1,3 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<includeonly>{{#invoke:UprisingEquipmentInfobox|getTableRow}}</includeonly>}}</onlyinclude><noinclude>
+[[Category:Equipment Templates for Star Wars: Uprising]]
+</noinclude>

@@ -1,0 +1,159 @@
+<noinclude>
+{{ooumb|id=Deprecated_template|caption=This template was [[wikipedia:deprecation|made obsolete]] by the conversion to [[help:infoboxes|portable infoboxes]] in December 2015. It's retained here for historical purposes only. It should not be used on new templates.|image=[[file:dialog-warning.svg]] }}
+This template is used in the construction of infoboxes, in conjuction with {{Tl|Infoboxframe}}. There are four options for the parameter "type": '''heading''', '''image''', '''section''', and '''field'''
+
+====Section====
+</noinclude>{{#ifeq: {{{type|}}} | section |
+{{#if:{{{hidecells|}}}|{{!}}-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{BG2|}}}|{{{BG2|}}}|D6F0F5}}" {{!}} '''{{{section}}}'''|{{!}}-}}
+|}}<noinclude>
+This version of the template is used to create '''section headers''' in an infobox.
+*<code>BG2</code> - used to set the section's background. This should match the BG2 value in the rest of the infobox.
+*<code>hidecells</code> - calculates the hiding function; this field should include all of the fields in this section of the infobox. 
+*<code>section</code> - title of the infobox section.
+
+<pre>{{Infocell
+|type=section
+|BG2=DDDDDD
+|hidecells={{{homeworld|}}}{{{birth|}}}{{{death|}}}
+|section=Biographical&nbsp;information
+}}</pre>
+
+====Field====
+</noinclude>{{#ifeq: {{{type|}}} | field |
+{{#if: {{{fieldname|}}}  |
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}" {{!}} {{{description}}}
+{{!}} class="infoboxcell" style="{{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}; {{{css|}}}" {{!}}
+{{#if:{{{special|}}}|{{{special|}}}|{{{fieldname|}}}}}
+{{!}}-
+|}}
+|}}<noinclude>
+This version of the template is used to create '''fields''' for the infobox, and is the main version that will be used.
+*<code>description</code> - used to set the field's description.
+*<code>fieldname</code> - passes the parameter to the subtemplate. Give it an appropriate name for the field.
+*<code>special</code> - code used to generate a field value other than <code>fieldname</code>. For example, generating an Insider issue link when the fieldname & value is only the issue number.
+
+<pre>{{Infocell
+|type=field
+|description=
+|fieldname=
+}}</pre>
+
+====Multi====
+</noinclude>{{#ifeq: {{{type|}}} | multi |
+{{#if: {{{field1|}}} {{{field2|}}} {{{field3|}}} {{{field4|}}} |{{!}}-
+! class="infoboxsubheading" colspan="{{#if:{{{side4|}}}|4|{{#if:{{{side3|}}}|3|2}}}}" style="background: #{{#if:{{{BG2|}}}|{{{BG2|}}}|B4C5E3}}" {{!}} '''{{{description}}}'''
+{{!}}-
+{{!}} class="infoboxcell" style="vertical-align:top; width:{{#if:{{{side4|}}}|25%|{{#if:{{{side3|}}}|33%|50%}}}}; {{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}" {{!}}
+{{{field1|}}}
+{{!}} class="infoboxcell" style="border-left:1px solid #999999; vertical-align:top; width:{{#if:{{{side4|}}}|25%|{{#if:{{{side3|}}}|33%|50%}}}}; {{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}" {{!}}
+{{{field2|}}}
+{{#if:{{{side3|}}}|
+{{!}} class="infoboxcell" style="border-left:1px solid #999999; vertical-align:top; width:{{#if:{{{side4|}}}|25%|33%}}; {{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}" {{!}}
+{{{field3|}}}
+{{#if:{{{side4|}}}|
+{{!}} class="infoboxcell" style="border-left:1px solid #999999; vertical-align:top; width:25%; {{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}" {{!}}
+{{{field4|}}}
+|}}|}}
+{{!}}-|}}
+|}}<noinclude>
+This version of the template is used to create ''''multi-column sections''' for the infobox, and should only be used in event infoboxes. Unlike other fields, multi-column sections use '''just''' this template, and not the section and field versions of this template. '''This version ''must'' be wrapped in a {{Tl|Infosub}} template or it will break the infobox.'''
+*<code>BG2</code> - used to set the section's background. This should match the BG2 value in the rest of the infobox.
+*<code>description</code> - used to set the field's description.
+*<code>field#</code> - passes the section's four fields to the subtemplate. Replace "side" with the name of the parameter type. 
+*<code>field3</code> and <code>field4</code>- passes the infobox's extra-column parameters to the subtemplate. '''These are required and should not be modified, even if this isn't the combatants section.'''
+
+<pre>{{Infocell
+|type=multi
+|BG2=B4C5E3
+|description=Combatants
+|field1={{{side1|}}}
+|field2={{{side2|}}}
+|field3={{{side3|}}}
+|field4={{{side4|}}}
+|side3={{{side3|}}}
+|side4={{{side4|}}}
+}}</pre>
+
+====Multispan====
+</noinclude>{{#ifeq: {{{type|}}} | multispan |
+{{#if:{{{field|}}}|
+! class="infoboxsubheading" colspan="{{#if:{{{side4|}}}|4|{{#if:{{{side3|}}}|3|2}}}}" style="text-align: center; background: #{{#if:{{{BG2|}}}|{{{BG2|}}}|B4C5E3}}" {{!}} '''{{{description}}}'''
+{{!}}-
+{{!}} class="infoboxcell" colspan="{{#if:{{{side4|}}}|4|{{#if:{{{side3|}}}|3|2}}}}" style="text-align: center; vertical-align:top; {{#if:{{{BG3|}}}|background: #{{{BG3}}}|}}" {{!}}
+{{{field|}}}
+{{!}}-|}}
+|}}<noinclude>
+This version of the template is used to create a '''section and field''' that spans multiple columns. This is really only for civilian casualties. '''This version ''must'' be wrapped in a {{Tl|Infosub}} template or it will break the infobox.'''
+*<code>BG2</code> - used to set the section's background. This should match the BG2 value in the rest of the infobox.
+*<code>description</code> - used to set the field's description.
+*<code>field</code> - passes the section's field to the subtemplate. 
+*<code>field3</code> and <code>field4</code>- passes the infobox's extra-column parameters to the subtemplate. '''Required and should not be modified'''.
+
+<pre>{{Infocell
+|type=multispan
+|BG2=B4C5E3
+|description=Civilian casualties
+|field={{{civilian|}}}
+|field3={{{side3|}}}
+|field4={{{side4|}}}
+}}</pre>
+
+====Heading====
+</noinclude>{{#ifeq: {{{type|}}} | heading |
+{{!}}-
+! class="infoboxheading" colspan="2" style="background: #{{#if:{{{BG1|}}}|{{{BG1|}}}|94C7D1}}; {{{css|}}}" {{!}} {{#if:{{{quotes|}}}|"{{{name|}}}"|{{{name|}}}}}
+{{!}}-
+|}}<noinclude>
+
+This version of the template is used for the '''''name''''' field of an infobox, and should only be used once. 
+*<code>BG1</code> - used to set the default image background. This should match the BG1 values in the rest of the infobox.
+*<code>name</code> - passes the infobox's name parameter to the sub-template. '''Only change this if the intended infobox uses a differently-named parameter, and ''only'' change the occurrence in the parentheses.'''
+*<code>quotes</code> - used to generate quotation marks around the field value. 
+
+Example:
+<pre>{{Infocell
+|type=heading
+|BG1=333333
+|name={{{name|}}}
+}}</pre>
+
+====Image====
+</noinclude>{{#ifeq: {{{type|}}} | image |
+{{#if: {{{image|}}} |
+{{!}}-
+{{!}} class="infoboximage" colspan="2" style="max-width: {{#if:{{{event|}}}|{{#if:{{{width|}}}|{{{width}}}|{{#if:{{{side4|}}}|350px|300px}}}}|250px}}; background: #{{#if:{{{imageBG|}}}|{{{imageBG|}}}|{{#if:{{{BG1|}}}|{{{BG1|}}}|B4C5E3}}}};" {{!}} {{Imagewidth|{{{image|}}}}}
+{{!}}-
+|}}
+|}}<noinclude>
+This version of the template is used for the '''''image''''' field of an infobox, and should only be used once.
+*<code>BG1</code> - used to set the default image background. This should match the BG1 values in the rest of the infobox.
+*<code>maxwidth</code> - used to set the maximum width of the infobox image; defaults to 250px. This really shouldn't be changed.
+*<code>image</code> - passes the infobox's "image" parameter to the sub-template. This is required, and should '''not''' be changed.
+*<code>imageBG</code> - passes the infobox's "imageBG" parameter to the sub-template. This is required, and should '''not''' be changed.
+*<code>event</code> - makes this template a flexible-width component. This requires additional parameters, which are detailed in the second example.
+
+Example:
+<pre>{{Infocell
+|type=image
+|BG1=333333
+|image={{{image|}}}
+|imageBG={{{imageBG|}}}
+|maxwidth=250px
+}}</pre>
+
+<code>event</code> example:
+<pre>{{Infocell
+|type=image
+|BG1=333333
+|image={{{image|}}}
+|imageBG={{{imageBG|}}}
+|event=yes
+|width={{{width|}}}
+|field3={{{side3|}}}
+|field4={{{side4|}}}
+}}</pre>
+
+
+[[Category:Infobox utility templates|{{PAGENAME}}]]</noinclude>

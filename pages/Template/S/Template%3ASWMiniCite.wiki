@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:CardMiniDB|main|template=SWMiniCite|set={{{set|{{{1|}}}}}}}}{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]§|}}|simple=1}}</includeonly><noinclude>{{Documentation}}</noinclude>

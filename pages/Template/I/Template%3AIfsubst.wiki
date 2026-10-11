@@ -1,0 +1,9 @@
+<onlyinclude>{{ {{{|safesubst:}}}#if:{{{demo|}}}
+|{{ {{{|safesubst:}}}#ifeq:{{{demo}}} |no
+ |{{{no|{{{2|}}}}}}
+ |{{{yes|{{{1|}}}}}}
+}}
+|{{ {{{|safesubst:}}}#ifeq:{{ {{{|safesubst:}}}NAMESPACE}}|{{NAMESPACE}}
+ |{{{no|{{{2|}}}}}}
+ |{{{yes|{{{1|}}}}}}
+}}}}</onlyinclude><noinclude>[[Category:Utility templates]]</noinclude>

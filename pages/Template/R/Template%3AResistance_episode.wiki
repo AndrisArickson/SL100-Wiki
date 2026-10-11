@@ -1,0 +1,148 @@
+<includeonly>{{#if:{{{2|{{{episode|}}}}}}
+  | {{Resistance episode/episode|{{{1|{{{season|}}}}}}|{{{2|{{{episode|}}}}}}|{{{noquotes|}}}}}
+  | {{#switch: {{{1|{{{season|}}}}}}
+    | 1 | shorts = [[Star Wars Resistance Season One|''Star Wars Resistance'' Season One]] (and its accompanying shorts)
+    | 2 = [[Star Wars Resistance Season Two|''Star Wars Resistance'' Season Two]]}}
+    | #default = {{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Invalid Film parameter arguments]]|}}
+}}</includeonly><noinclude>
+{{Resistance episode|1|1}}
+
+==Usage==
+<pre><nowiki>{{Resistance episode|season|episode}}</nowiki></pre>, where {{Para|season}} is 1, 2, or "shorts" (without quotes), and {{Para|episode}} is an optional episode number.
+
+This is used by {{Tl|ResistanceDate}} and not superfluous!
+
+==Output==
+===Just season===
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{Resistance episode|shorts}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts}}
+|-
+|<pre><nowiki>{{Resistance episode|1}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1}}
+|-
+|<pre><nowiki>{{Resistance episode|2}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2}}
+|}
+
+
+===Season and episode===
+====Season 1====
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!Code !! Result
+|-
+|<pre><nowiki>{{Resistance episode|1|1}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|1}}
+|-
+|<pre><nowiki>{{Resistance episode|1|2}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|2}}
+|-
+|<pre><nowiki>{{Resistance episode|1|3}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|3}}
+|-
+|<pre><nowiki>{{Resistance episode|1|4}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|4}}
+|-
+|<pre><nowiki>{{Resistance episode|1|5}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|5}}
+|-
+|<pre><nowiki>{{Resistance episode|1|6}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|6}}
+|-
+|<pre><nowiki>{{Resistance episode|1|7}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|7}}
+|-
+|<pre><nowiki>{{Resistance episode|1|8}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|8}}
+|-
+|<pre><nowiki>{{Resistance episode|1|9}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|9}}
+|-
+|<pre><nowiki>{{Resistance episode|1|10}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|10}}
+|-
+|<pre><nowiki>{{Resistance episode|1|11}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|11}}
+|-
+|<pre><nowiki>{{Resistance episode|1|12}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|12}}
+|-
+|<pre><nowiki>{{Resistance episode|1|13}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|13}}
+|-
+|<pre><nowiki>{{Resistance episode|1|14}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|14}}
+|-
+|<pre><nowiki>{{Resistance episode|1|15}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|15}}
+|-
+|<pre><nowiki>{{Resistance episode|1|16}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|16}}
+|-
+|<pre><nowiki>{{Resistance episode|1|17}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|17}}
+|-
+|<pre><nowiki>{{Resistance episode|1|18}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|18}}
+|-
+|<pre><nowiki>{{Resistance episode|1|19}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|19}}
+|-
+|<pre><nowiki>{{Resistance episode|1|20}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|20}}
+|-
+|<pre><nowiki>{{Resistance episode|1|21}}</nowiki></pre> &#32; || &#32; {{Resistance episode|1|21}}
+|}
+
+====Season 2====
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!Code !! Result
+|-
+|<pre><nowiki>{{Resistance episode|2|1}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|1}}
+|-
+|<pre><nowiki>{{Resistance episode|2|2}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|2}}
+|-
+|<pre><nowiki>{{Resistance episode|2|3}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|3}}
+|-
+|<pre><nowiki>{{Resistance episode|2|4}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|4}}
+|-
+|<pre><nowiki>{{Resistance episode|2|5}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|5}}
+|-
+|<pre><nowiki>{{Resistance episode|2|6}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|6}}
+|-
+|<pre><nowiki>{{Resistance episode|2|7}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|7}}
+|-
+|<pre><nowiki>{{Resistance episode|2|8}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|8}}
+|-
+|<pre><nowiki>{{Resistance episode|2|9}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|9}}
+|-
+|<pre><nowiki>{{Resistance episode|2|10}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|10}}
+|-
+|<pre><nowiki>{{Resistance episode|2|11}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|11}}
+|-
+|<pre><nowiki>{{Resistance episode|2|12}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|12}}
+|-
+|<pre><nowiki>{{Resistance episode|2|13}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|13}}
+|-
+|<pre><nowiki>{{Resistance episode|2|14}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|14}}
+|-
+|<pre><nowiki>{{Resistance episode|2|15}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|15}}
+|-
+|<pre><nowiki>{{Resistance episode|2|16}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|16}}
+|-
+|<pre><nowiki>{{Resistance episode|2|17}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|17}}
+|-
+|<pre><nowiki>{{Resistance episode|2|18}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|18}}
+|-
+|<pre><nowiki>{{Resistance episode|2|19}}</nowiki></pre> &#32; || &#32; {{Resistance episode|2|19}}
+|}
+
+====Shorts====
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!Code !! Result
+|-
+|<pre><nowiki>{{Resistance episode|shorts|1}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|1}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|2}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|2}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|3}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|3}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|4}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|4}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|5}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|5}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|6}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|6}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|7}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|7}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|8}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|8}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|9}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|9}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|10}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|10}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|11}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|11}}
+|-
+|<pre><nowiki>{{Resistance episode|shorts|12}}</nowiki></pre> &#32; || &#32; {{Resistance episode|shorts|12}}
+|}
+
+[[Category:Dating citation templates]]</noinclude>

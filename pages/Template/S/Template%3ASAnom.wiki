@@ -1,0 +1,20 @@
+<includeonly>{{#ifexist:Wookieepedia:{{{status}}} article nominations/{{SAnom/Title|{{{1|}}}}}|
+{{Ooumb
+|id={{{template}}}om
+|bg=#F2F5FD
+|image={{{image1}}}
+|caption=This article is nominated to be highlighted as a [[Wookieepedia:{{{status}}} articles|{{{status}}} article]]!
+|message=Feel free to review [[Wookieepedia:{{{status}}} article nominations/{{SAnom/Title|{{{1|}}}}}|this article's entry]] and voice your opinion.
+}}
+|{{Ooumb
+|id={{{template}}}om
+|bg=#F2F5FD
+|image={{{image2}}}
+|caption=Warning: This {{{status}}} article nomination is incomplete.
+|message=To finish the nomination process, please complete the following steps. Otherwise, this message will be removed.
+#[{{fullurl:Wookieepedia:{{{status}}} article nominations/{{SAnom/Title|{{{1|}}}}}|action=edit&preload=Template:{{{template}}}_preload&editintro=Template:{{{template}}}_editintro}} <font style="color: #BA1902">Create the nomination page</font>] so that other users can review the article.
+#Copy <code><nowiki>{{</nowiki>/{{SAnom/Title|{{{1|}}}}}<nowiki>}}</nowiki></code> onto [{{fullurl:Wookieepedia:{{{status}}} article nominations|action=edit&section=1}} the bottom of the {{{template}}} page]. This step is optional; if not done manually, {{U|JocastaBot}} will automatically do so within a few minutes.
+#[[Special:Purge/{{PAGENAME}}|Purge this page]] to update this template.
+}}}}</includeonly><includeonly>[[Category:Wookieepedia {{{status}}} article nominations]]</includeonly><noinclude>
+
+[[Category:Status article templates]]</noinclude>

@@ -1,0 +1,10 @@
+{{iumb
+| id = Merge
+| bg = #AAAABB
+| message = This article should be [[Wookieepedia:Duplicate articles#How articles should be merged|merged]] with '''[[{{{1}}}]]'''.
+| comment = If you disagree, please discuss the matter on this article's [[{{TALKPAGENAME}}|talk page]] or forward the issue to the [[Forum:Senate Hall|Senate Hall]]. Remove this message when finished.
+}}<!-- Template:Merge --><includeonly>{{SpecialCategorizer|[[Category:Articles to be merged|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Articles to be merged]]
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

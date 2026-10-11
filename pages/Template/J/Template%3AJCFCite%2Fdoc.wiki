@@ -1,0 +1,45 @@
+==Purpose==
+The purpose of this template was to provide as much information as possible about each link to the [[Jedi Council Forums]] so that when the boards were moved to the new format in 2012, the then-broken links could be easily updated. Ideally, every link to a post on [http://starwars.wikia.com/index.php?title=Special:LinkSearch&target=http%3A%2F%2Fboards.theforce.net&limit=1000&offset=0 this list] should use this template. This template should continue to be used even though the move is over, as it will enable easy reconstruction of the links should the boards ever move again.
+
+This template should be used for all links, including both references and external links, to make reconstruction of the links as easy as possible if the format ever changes again.
+
+==Usage==
+;For posts:
+<code><nowiki>{{JCFCite|url=posts/{postnum}|board=|thread=|user=|time=|date=|quote=|archiveurl=|archivedate=|archivefile=|nobackup=}}</nowiki></code>
+
+;For threads:
+<code><nowiki>{{JCFCite|url=threads/{threadnum}|num=|board=|thread=|user=|time=|date=|archiveurl=|archivedate=|archivefile=|nobackup=}}</nowiki></code>
+
+;For forums:
+<code><nowiki>{{JCFCite|url=forums/{forumnum}|board=|thread=|user=|time=|date=|archiveurl=|archivedate=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|temp}} Should be added to the code and set to any non-null value ("<code>yes</code>" is recommended for ease of understanding the code) if you are linking to the [http://gd.theforce.net/xentemp/index.php temp boards] that were up while the move was in progress. Setting this parameter with alter the URL path to match that used on the temp boards (unless using the {{Para|url}} parameter), and will also change the subdomain from <code>boards.theforce.net</code> to <code>gd.theforce.net</code> to enable registered users to click the link to the temp boards without getting logged out on the new boards (this does work with the {{Para|url}} parameter).
+*{{Para|url}} The short URL path to the post, thread or forum &mdash; posts/<num>, threads/<num>, or forums/<num>
+*{{Para|board}} Name of the individual board (e.g. "Literature") that the post is located in.
+*{{Para|thread}} Title of the thread the post is located in.
+*{{Para|user}} Username (''not'' real name) of the author of the post.
+*{{Para|date}} Date of the post in Pacific Time (the JCF's official timezone).
+*{{Para|time}} Timestamp of the post in Pacific Time (the JCF's official timezone).
+
+===Optional parameters===
+*{{Para|quote}} Optional quote parameter.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{JCFCite|url=posts/23173257|board=Literature|thread="Unknown Soldier: The Story of General Grievous" by Abel & Joe (SWI #86)|user=[[Abel G. Peña|Halagad_Ventor]]|date=2006-02-15|time=2:27 PM}}
+</nowiki></code>
+
+Results in:
+
+{{JCFCite|url=posts/23173257|board=Literature|thread="Unknown Soldier: The Story of General Grievous" by Abel & Joe (SWI #86)|user=[[Abel G. Peña|Halagad_Ventor]]|date=2006-02-15|time=2:27 PM}}
+
+<code><nowiki>{{JCFCite|url=threads/50055882|board=Literature|thread=Flashback: National Newspaper Coverage of the Finale of "Vector Prime"/Chewbacca|user=xezene|date=2021-05-22|time=2:44 PM|archivedate=20210326232446}}</nowiki></code>
+
+Results in:
+
+{{JCFCite|url=threads/50055882|board=Literature|thread=Flashback: National Newspaper Coverage of the Finale of "Vector Prime"/Chewbacca|user=xezene|date=2021-05-22|time=2:44 PM|archivedate=20210326232446}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

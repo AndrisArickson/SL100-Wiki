@@ -1,0 +1,10 @@
+This template is to be used for linking to /Sources subpages on articles that have exceeded the template inclusion limit.
+
+==Usage==
+Template should be placed directly below the Sources section heading. The entire Sources list for the article should be moved to the subpage, keeping only any entries that include {{Tl|1stm}} or similar templates.
+
+For articles where one or more entry in the Sources includes a [[:Category:First-notation appearance templates|1stm or similar template]], <nowiki><code>{{SourcesPage|full=1}}</code></nowiki> can be used to display additional explanatory text:
+
+{{SourcesPage|full=1}}
+
+<includeonly>[[Category:Internal link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

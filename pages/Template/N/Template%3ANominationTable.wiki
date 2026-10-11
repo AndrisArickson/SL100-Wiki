@@ -1,0 +1,4 @@
+<table class="forumlist darkbackground1" cellpadding="0" cellspacing="0" style="border-radius: 10px 10px 0 0; border-collapse: collapse; overflow: hidden"><tr class="forumlist-header">{{#if:{{{no_date|}}}||<th class="forum_date">Date Nominated</th>}}<th class="forum_title">Nomination</th>{{#if:{{{no_nominator|}}}||<th class="forum_nominator">Nominator</th>}}{{#if:{{{no_edited|}}}||<th class="forum_edited">Last Edited</th>}}
+</tr>{{{1|}}}</table><noinclude>
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

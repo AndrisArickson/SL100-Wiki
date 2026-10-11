@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=PenguinBooks
+|image=[[File:PenguinRandomHouse-Logo.svg|text-top|x16px|link=https://www.penguin.{{{domain|{{{lang|com}}}}}}]]
+|site_text=[[Wikipedia:Penguin Random House|Penguin Books']] [https://www.penguin.{{{domain|{{{lang|com}}}}}} official website]
+|base_url=https://{{#if:{{{libros|}}}|penguinlibros.com|{{#if:{{{group|}}}|us.penguingroup|{{{subdomain|www}}}.penguin}}.{{{domain|{{{lang|com}}}}}}}}
+|target_url={{{url|}}}
+|nolive={{{group|{{{nolive|}}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

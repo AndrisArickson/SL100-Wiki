@@ -1,0 +1,6 @@
+The events of {{#ifeq:{{PAGENAME}}|Terror on Mustafar|''Terror on Mustafar''|''[[Terror on Mustafar]]''}} take place between the dissolution of the [[Imperial Senate]] and the [[death]] of [[Darth Sidious]], which ''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates to [[1 BBY]] and [[4 ABY]] respectively. Therefore, ''Terror on Mustafar'' must take place between 1 [['ABY-BBY' dating system|BBY]] and 4 ABY.<noinclude>
+
+==Usage==
+<code><nowiki>{{TerrorOnMustafarDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

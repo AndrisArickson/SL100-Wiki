@@ -1,0 +1,51 @@
+<noinclude>Old<br><pre>{{UprisingCanonTabs/Main<!--
+	-->|legendsLink={{#if:{{{noLegends|}}}||<!--
+		-->{{#if:{{{legendsLink|<noinclude>Hoth/Legends</noinclude>}}}|{{{legendsLink|<noinclude>Hoth/Legends</noinclude>}}}|<!--
+			-->{{#switch:{{lc:{{NAMESPACE}}}}<!--
+					-->|wookieepedia|template={{#ifexist:<noinclude>Hoth</noinclude><includeonly>{{SUBPAGENAME}}</includeonly>/Legends|<noinclude>Hoth</noinclude><includeonly>{{SUBPAGENAME}}</includeonly>/Legends|}}<!--
+					-->|#default={{#ifexist:<!--
+						-->{{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|{{#titleparts:{{SUBPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}/Legends|<!--
+							-->{{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|{{#titleparts:{{SUBPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}/Legends<!--
+					-->}}<!--
+			-->}}<!--
+		-->}}<!--
+	-->}}<!--
+	
+	
+	-->|canonLink={{#if:{{{noCanon|}}}||<!--
+		-->{{#if:{{{canonLink|<noinclude>Hoth</noinclude>}}}|{{{canonLink|<noinclude>Hoth</noinclude>}}}|<!--
+			-->{{#switch:{{lc:{{NAMESPACE}}}}<!--
+					-->|wookieepedia|template={{#ifexist:<noinclude>Hoth</noinclude><includeonly>{{SUBPAGENAME}}</includeonly>|<noinclude>Hoth</noinclude><includeonly>{{SUBPAGENAME}}</includeonly>|}}<!--
+					-->|#default={{#ifexist:<!--
+						-->{{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|{{#titleparts:{{SUBPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}|<!--
+							-->{{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|{{#titleparts:{{SUBPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}<!--
+					-->}}<!--
+			-->}}<!--
+		-->}}<!--
+	-->}}<!--
+		
+	-->|link={{#if:{{{noLink|}}}||<!--
+		-->{{#if:{{{link|}}}|{{{link}}}|<!--
+			-->{{#switch:{{lc:{{NAMESPACE}}}}<!--
+				-->|wookieepedia|template={{FULLPAGENAME}}<!--
+				-->|#default={{#ifexist:<!--
+					-->Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/{{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|{{#titleparts:{{SUBPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}|<!--
+						-->Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/{{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|{{#titleparts:{{SUBPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}<!--
+				-->}}<!--
+			-->}}<!--
+		-->}}<!--
+	-->}}<!--
+	
+	-->|linkTitle={{{linkTitle|}}}<!--
+	-->|selected={{#if:{{{selected|<noinclude>uprising</noinclude>}}}|{{{selected|<noinclude>uprising</noinclude>}}}|<!--
+			-->{{#ifexpr:{{#if:{{{noCanon|}}}|0|1}} and ({{#ifeq:{{lc:{{SUBPAGENAME}}}}|canon|1|0}} or ({{#if:{{{noLegends|}}}|1|0}} and {{#switch:{{lc:{{NAMESPACE}}}}|wookieepedia|template=0|#default=1}}))|canon|<!--
+				-->{{#switch:{{lc:{{NAMESPACE}}}}<!--
+					-->|wookieepedia|template=uprising<!--
+					-->|#default=legends<!--
+				-->}}<!--
+			-->}}<!--
+		-->}}<!--
+	-->|style={{{style|}}}<!--
+	-->|class={{{class|}}}<!--
+	-->|nocat={{{nocat|<noinclude>1</noinclude>}}}<!--
+-->}}</pre></noinclude><onlyinclude><includeonly>{{#invoke:UprisingCanonTabs|main}}</includeonly></onlyinclude><noinclude>{{Documentation}}</noinclude>

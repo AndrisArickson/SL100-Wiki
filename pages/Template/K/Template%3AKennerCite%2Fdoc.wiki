@@ -1,0 +1,37 @@
+This template is to be used on pages about subjects that have been represented in [[Kenner Products|Kenner]] toy sets.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{KennerCite|set=|text=|pack=|link=|altlink=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*Either of the two following:
+**{{Para|link}} URL of the pack's web page on the website [[Rebelscum.com]], minus the domain name (<code><nowiki>https://rebelscum.com/</nowiki></code>). Note that Rebelscum links are managed under their own [[Module:ArchiveAccess/Rebelscum|ArchiveAccess module]].
+**{{Para|altlink}} Full URL of the pack's page on a website other than <nowiki>Rebelscum.com</nowiki>.
+
+===Optional parameters===
+*{{Para|text}} Formatted name of the collection.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=MTV-7 Multi-Terrain Vehicle|link=vintminiMTV7.asp}}</nowiki></code>
+
+Results in:
+
+{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=MTV-7 Multi-Terrain Vehicle|link=vintminiMTV7.asp}}
+
+<hr />
+<code><nowiki>{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=4-LOM|link=VINt4-LOM.asp}}</nowiki></code>
+
+Results in:
+
+{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=4-LOM|link=VINt4-LOM.asp}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

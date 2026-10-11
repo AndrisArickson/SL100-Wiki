@@ -1,0 +1,10 @@
+{{SmallMB
+|id=user-image
+|image=[[File:Information_icon.svg|35px]]
+|message='''This image is intended solely for use on a Wookieepedian's user page.''' <br />Pursuant to the requirements of '''[[Wookieepedia]]'s [[Wookieepedia:User page and profile policy#User images|user page and profile policy]]''', each user is allowed to upload a '''maximum of three''' such images.<br />
+}}<includeonly>{{SpecialCategorizer|[[Category:User images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:User images]]
+
+[[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

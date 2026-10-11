@@ -1,0 +1,49 @@
+==Input==
+<center>
+{| class="wikitable" style="min-width:80%;"
+! style="max-width:25%;" |Name
+! style="min-width:75%;" |Description
+|-
+!legendsLink
+| style="min-width:75%;" |Override link for legends tab
+|-
+!noLegends
+| style="min-width:75%;" |Disable display of legends tab
+|-
+!canonLink
+| style="min-width:75%;" |Override link for cannon tab
+|-
+!noCanon
+| style="min-width:75%;" |Disable display of cannon tab
+|-
+!link
+| style="min-width:75%;" |Link location for uprising tab
+|-
+!noLink
+| style="min-width:75%;" |Disable the uprising tab
+|-
+!style
+| style="min-width:75%;" |Add style to the main table
+|-
+!class
+| style="min-width:75%;" |Add a class to the main table
+|}
+</center>
+
+==Example(s)==
+<code><pre>
+{{UprisingCanonTabs|legendsLink=Hoth/Legends|canonLink=Hoth|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Hoth}}
+</pre></code>
+
+
+{{UprisingCanonTabs|legendsLink=Hoth/Legends|canonLink=Hoth|link=|nocat=1}}
+
+
+==Template Links==
+* [[Template:UprisingCanonTabs]]
+* [[Template:UprisingCanonTabs/Main]]
+* [[Template:UprisingCanonTabs/Selected]]
+* [[Template:UprisingCanonTabs/NotSelected]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Templates for Star Wars: Uprising|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Star Wars: Uprising Super Walkthrough template documentations|{{PAGENAME}}]]</noinclude>

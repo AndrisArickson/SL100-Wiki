@@ -1,0 +1,4 @@
+{{Dablink|For other uses, see '''[[{{{title|{{{1|{{SimpleTitle}}}}} (disambiguation)}}}|{{{title2|{{{title|{{{1|{{SimpleTitle}}}}}}}}}}}]]'''<!--
+-->{{#if:{{{more|}}}
+|{{#if:{{{more2|}}}|, '''{{HideParanthetical|{{#if:{{#pos:{{{more|}}}|(disambiguation)}}|{{{more}}}|{{{more}}} (disambiguation)}}}}''', and '''{{HideParanthetical|{{#if:{{#pos:{{{more2|}}}|(disambiguation)}}|{{{more2}}}|{{{more2}}} (disambiguation)}}}}'''|&#32;and '''{{HideParanthetical|{{#if:{{#pos:{{{more|}}}|(disambiguation)}}|{{{more}}}|{{{more}}} (disambiguation)}}}}'''}}.
+|.}}}}<!-- Template:Otheruses -->{{#ifeq:{{NAMESPACE}}||{{#if:{{{title|}}}|{{#if:{{#pos:{{{title|}}}|(disambiguation)}}||[[Category:Usages of Template:Otheruses with title parameter|{{PAGENAME}}]]}}|}}|}}<noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

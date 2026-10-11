@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Suvudu
+|image=[[File:Suvudu-logo.jpg|baseline|x12px|link=http://www.suvudu.com]]
+|site_text=[[Unbound Worlds|Suvudu.com]]
+|base_url=https://{{{subdomain|www}}}.suvudu.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

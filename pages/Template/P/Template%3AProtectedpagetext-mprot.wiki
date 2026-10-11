@@ -1,0 +1,5 @@
+<table id="moveprotected" class="article-editintro darkbackground1" style="padding: 5px; width: 100%; border: 2px solid #2f6fab; background:#FFFFFF; -moz-border-radius: 6px; margin-bottom: 4px; clear: left; font-size:110%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Padlockicon4.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><big>'''This page is currently [[Wookieepedia:Protection policy|move-protected]] so that only administrators can rename it.'''</big><br /><br />While most Wookieepedia pages are editable by anyone, page protection is sometimes necessary to prevent vandalism and other forms of disruption. For more information, refer to the [[Wookieepedia:Protection policy|Protection policy]].
+*'''[[{{TALKPAGENAME}}|Post on the talk page]]''' if this page needs to be moved in the meantime. You may also use the [[Forum:Administrators' noticeboard|Administrators' noticeboard]] or ask in <code>#admin-help</code> on [[Wookieepedia:Discord|Discord]].
+</td></tr></table><noinclude>{{Top|fprot}}
+
+[[Category:Administrative templates]]</noinclude>

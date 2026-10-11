@@ -1,0 +1,10 @@
+{{SmallMB
+|image=[[File:Information icon.svg|50px]]
+|message='''This image was uploaded in the [[wikipedia:PNG|PNG]], [[wikipedia:GIF|GIF]], or [[wikipedia:JPEG|JPEG]] [[wikipedia:Image_file_format|file format]], however, the image contains information that could be stored more efficiently or more accurately in the [[wikipedia:SVG|SVG]] file format.''' If possible, it may be prudent to reproduce the current image as a [[wikipedia:Vector_graphics|vector graphic]] in the SVG file format, and re-upload the SVG version of this image file via the main file upload page, superseding the existing image file. After uploading the SVG image file, please amend this file page by replacing this notice with {{Tlp|SVGNowAvailable|NewImage.svg}}, then [[Wookieepedia talk:Images and media for deletion|nominate]] it for eventual deletion.
+|messagestyle=text-align:center
+}}<includeonly>{{SpecialCategorizer|[[Category:Images which should be in SVG format|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Images which should be in SVG format]]
+
+[[Category:File maintenance templates]]</noinclude>

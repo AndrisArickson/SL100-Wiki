@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=PenguinRandomHouse
+|image=[[File:PenguinRandomHouse-Logo.svg|text-top|x16px|link=https://www.penguinrandomhouse.com]]
+|site_text=[[Wikipedia:Penguin Random House|Penguin Random House's]] [https://www.penguinrandomhouse.com official website]
+|base_url=https://{{{subdomain|www}}}.penguinrandomhouse{{#if:{{{retail|}}}|retail|}}.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

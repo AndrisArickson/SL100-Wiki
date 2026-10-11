@@ -1,0 +1,20 @@
+{{#invoke:BaseCitation|main|template=ResistanceAnimationCite
+|mode=magazine
+|image=[[File:SWResA.png|text-top|x16px|link=Star Wars Resistance Animation]]
+|series=Star Wars Resistance Animation
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+}}<noinclude>
+
+==Usage instructions==
+To be used when citing short comics from the ''[[Star Wars Resistance Animation]]''.
+
+ <nowiki>{{</nowiki>ResistanceAnimationCite|''ISSUE NUMBER''|''ARTICLE NAME''|''FORMATTED NAME'' (optional)}} 
+
+*'''Note''': Formatted name is ''only'' needed when the episode name includes either italicization, or intentional parentheses. Otherwise, it should be excluded, as parenthetical descriptors are natively hidden.
+
+[[Category:Comic and children's magazine citation templates]]</noinclude>

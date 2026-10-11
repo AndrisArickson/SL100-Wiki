@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Scholastic
+|image=[[File:Scholastic.png|text-top|x16px|Scholastic Inc.|link=https://{{{subdomain|www}}}.scholastic.{{{domain|com}}}]]
+|site_text=[[Scholastic]]'s [http://www.scholastic.com official website]
+|base_url=https://{{{subdomain|www}}}.scholastic.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

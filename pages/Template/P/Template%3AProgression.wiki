@@ -1,0 +1,11 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<includeonly>{| width={{#if:{{{width|}}}|{{{width|}}}|75%}} align=center class="magistral-font" style="background: transparent"
+|align=center|{{#if:{{{task|}}}|{{{task|}}}:&nbsp;}}<big>'''{{formatnum:{{#if:{{{1|}}}|{{#expr:100*{{{1}}}/{{{2|100}}}round 1}}|0}}}}%'''</big> {{{text|complete}}}
+|-
+|
+{|style="border: 1px solid gray" cellspacing=1 width=100% height=15x
+{{#ifeq:{{#if:{{{1|}}}|{{{1}}}|0}}|0| | {{!}}style="background: #5FDB00; width: {{#ifexpr:({{#if:{{{1|}}}|{{#expr:100*{{{1}}}/{{{2|100}}}}}|0}}<1)|1%|{{#if:{{{1|}}}|{{#expr:100*{{{1}}}/{{{2|100}}}round 1}}|0}}%}}"{{!}} }}
+{{#ifeq:{{#if:{{{1|}}}|{{#expr:100*{{{1}}}/{{{2|100}}}}}|0}}|100|| {{!}}style="background: #E2E2E2;" {{!}} }}
+|}
+|}</includeonly>
+}}
+<noinclude>[[Category:Deprecated templates]]</noinclude>

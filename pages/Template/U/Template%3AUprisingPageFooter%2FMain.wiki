@@ -1,0 +1,67 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<!--
+--><div class="no-mobile UprisingPageFooterWrap PageFooterNoWideTablesWrapper"><!--
+-->{{Navbox with collapsible groups<!--
+-->|name =<noinclude>Navbox with collapsible groups</noinclude><includeonly>UprisingPageFooter</includeonly><!--
+-->|title = <span class="magistral-font class-style letter-spacing-1px" style="text-align:center; padding-right:{{{titlePaddingRight|}}};">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough|Star Wars: Uprising Super Walkthrough]]</span><!--
+-->|selected ={{{1|}}}<!--
+-->|state =<noinclude>mw-uncollapsed</noinclude><includeonly>{{#if:{{{state|}}}|{{#switch{{{state|}}}<!--
+		-->|#default={{#if:{{{pageType|}}}|mw-uncollapsed|{{{state|mw-uncollapsed}}}}}<!--
+	-->}}|{{#if:{{{pageType|}}}|mw-uncollapsed|mw-collapsed}}}}</includeonly><!--
+-->|bodyclass =wikitable<!--
+-->|bodystyle =width:100%; vertical-align:middle; text-align:center;<!--
+-->|style =clear:both;<!--
+-->|titlestyle =padding-left:0.0em; padding-right:0.0em;<!--
+-->|basestyle =padding-left:1.2em; padding-right:1.2em;<!--
+
+-->|state1     =<noinclude>mw-uncollapsed</noinclude><includeonly>{{#ifeq:{{{pageType|}}}|general|uncollapsed|{{#switch:{{lc:{{{state|}}}}}|general|uncollapsed=mw-uncollapsed|autocollapse={{{state}}}|#default=mw-collapsed}}}}</includeonly><!--
+-->|abbr1      =General<!--
+-->|group1     =<span style="text-align:center; padding-right:{{{titlePaddingRight|}}};">General</span><!--
+-->|list1      ={{UprisingPageFooter/General}}<!--
+-->|list1padding=0 0<!--
+-->|list1childpadding=0 0<!--
+-->|noabovetrfirst1=1<!--
+
+
+-->|state2     =<noinclude>mw-uncollapsed</noinclude><includeonly>{{#ifeq:{{{pageType|}}}|equipment|uncollapsed|{{#switch:{{lc:{{{state|}}}}}|equipment|uncollapsed=mw-uncollapsed|autocollapse={{{state}}}|#default=mw-collapsed}}}}</includeonly><!--
+-->|abbr2      =Equipment<!--
+-->|group2     =<span style="text-align:center; padding-right:{{{titlePaddingRight|}}};">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment|Equipment]]</span><!--
+-->|list2      ={{UprisingPageFooter/Equipment|break=<span style="margin-left:2px;margin-right:2px;">'''&middot;'''</span>}}<!--
+-->|noabovetrfirst2=1<!--
+-->|sect2titlestyle=<!--
+
+
+-->|state3     =<noinclude>mw-uncollapsed</noinclude><includeonly>{{#ifeq:{{{pageType|}}}|abilities|uncollapsed|{{#switch:{{lc:{{{state|}}}}}|abilities|ability|uncollapsed=mw-uncollapsed|autocollapse={{{state}}}|#default=mw-collapsed}}}}</includeonly><!--
+-->|abbr3      =Abilities<!--
+-->|group3     =<span style="text-align:center; padding-right:{{{titlePaddingRight|}}};">Abilities</span><!--
+-->|list3      ={{UprisingPageFooter/Abilities|break=<span style="margin-left:2px;margin-right:2px;font-size:1.05em;">'''&middot;'''</span>}}<!--
+-->|list3padding=0 0<!--
+-->|list3childpadding=0 0<!--
+-->|noabovetrfirst3=1<!--
+-->|list3style=border: 0 none;<!--
+
+
+-->|state4     =<noinclude>mw-uncollapsed</noinclude><includeonly>{{#ifeq:{{{pageType|}}}|components|uncollapsed|{{#switch:{{lc:{{{state|}}}}}|components|component|uncollapsed=mw-uncollapsed|autocollapse={{{state}}}|#default=mw-collapsed}}}}</includeonly><!--
+-->|abbr4      =Components<!--
+-->|group4     =<span style="text-align:center; padding-right:{{{titlePaddingRight|}}};">Components</span><!--
+-->|list4      ={{UprisingPageFooter/Components|break=<span style="margin-left:2px;margin-right:2px;font-size:1.05em;">'''&middot;'''</span>}}<!--
+-->|list4padding=0 0<!--
+-->|list4childpadding=0 0<!--
+-->|noabovetrfirst4=1<!--
+-->|list4style=border: 0 none;<!--
+
+
+-->|state5     =<noinclude>mw-uncollapsed</noinclude><includeonly>{{#ifeq:{{{pageType|}}}|factions|uncollapsed|{{#switch:{{lc:{{{state|}}}}}|factions|faction|uncollapsed=mw-uncollapsed|autocollapse={{{state}}}|#default=mw-collapsed}}}}</includeonly><!--
+-->|abbr5      =Factions<!--
+-->|group5     =<span style="text-align:center; padding-right:{{{titlePaddingRight|}}};">Factions</span><!--
+-->|list5      ={{UprisingPageFooter/Factions}}<!--
+-->|list5padding=0 0<!--
+-->|list5childpadding=0 0<!--
+-->|noabovetrfirst5=1<!--
+-->|sect5titlestyle=<!--
+
+-->}}</div><!--
+-->{{#ifeq:{{{debug|0}}}|1|<!--
+	--><div>pageType: {{{pageType|N/A}}}</div><!--
+	--><div>state: {{{state|N/A}}}</div><!--
+-->|}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>

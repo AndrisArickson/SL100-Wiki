@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Tone
+| bg = #3C4363
+| image = [[File:ChooseYourWordsCarefully-Shattered.png|180px]]
+| caption = <span style="color:#FFFFFF">Choose your words carefully.</span>
+| message = <span style="color:#FFFFFF">This article, or a section of this article, may not be written in the formal tone expected of an encyclopedia entry.</span>
+| comment = <span style="color:#FFFFFF">Please improve the article or discuss proposed changes on the [[:{{NAMESPACE}} talk:{{PAGENAME}}|talk page]]. {{#if:{{{1|}}}|The portions of this article that need work include: '''{{{1}}}'''.|}}</span>
+| reason = The following issues need their tone fixed
+| category = Category:Articles with unencyclopedic tone
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with unencyclopedic tone]]}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{Tone|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles with unencyclopedic tone]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates]]</noinclude>

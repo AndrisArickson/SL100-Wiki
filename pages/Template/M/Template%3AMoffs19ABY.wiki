@@ -1,0 +1,11 @@
+{{Nav start|[[Imperial Remnant/Legends|Imperial Remnant]]<br />[[Council of Moffs/Legends|Council of Moffs]] ([[19 ABY/Legends|19 ABY]])}}
+{{Nav text|[[Andray]] · [[Bemos]] · [[Vilim Disra]] · [[Edan]]<br />[[Hort]] · [[Quillan (Moff)|Quillan]] · [[Sander]] · [[Vered]]}}
+{{Nav end|edit=Moffs19ABY}}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+
+==Source==
+This template was created using the following source templates:
+*{{tl|Nav start}}
+*{{tl|Nav text}}
+*{{tl|Nav end}}
+
+[[Category:Organization navbox templates|{{PAGENAME}}]]</noinclude>

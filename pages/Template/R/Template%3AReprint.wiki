@@ -1,0 +1,7 @@
+{{#invoke:Reprint|main|title={{{1|}}}|full={{{full|}}}}}<noinclude>
+
+When adding this template on articles, the following should also be done:
+*One should ensure that it is also used with the corresponding work's entry on the appropriate [[Wookieepedia:Appearances]] or [[Wookieepedia:Sources]] page;
+*The title of the work that was reprinted and the titles of the works in which it was reprinted should both be noted on [[Module:Reprint/data]].
+
+[[Category:Appearance templates]]</noinclude>

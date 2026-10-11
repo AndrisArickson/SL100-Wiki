@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main
+|mode=TV
+|image=[[File:TCW_mini_logo.jpg|text-top|link=Star Wars: The Clone Wars]]
+|series=Star Wars: The Clone Wars
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}{{#if:{{{d|}}}|&#32;<small>(''[[The Clone Wars: Season One#The Clone Wars: Decoded|Decoded]]'')</small>}}<noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

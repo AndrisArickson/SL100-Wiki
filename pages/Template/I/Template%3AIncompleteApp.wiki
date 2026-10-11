@@ -1,0 +1,13 @@
+{| class="noprint stub"
+|-
+![[File:Wiki-shrinkable.png|25px]] This Appearances list is incomplete. You can help Wookieepedia by [[Special:Edit/{{NAMESPACE}}:{{PAGENAME}}|expanding it]].
+|-
+|}<includeonly>[[Category:Incomplete Appearances]]</includeonly><noinclude>
+
+==Usage==
+<pre><nowiki>{{IncompleteApp}}</nowiki></pre>
+
+==Categorization==
+*[[:Category:Incomplete Appearances]]
+
+[[Category:Maintenance templates]]</noinclude>

@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=LegacyEdelweiss
+|image=[[File:EdelweissPlus-Logo.jpg|text-top|x16px|link=https://www.edelweiss.plus]]
+|site_text=the [https://www.edelweiss.plus official Edelweiss website]
+|base_url=https://www.edelweiss.plus
+|target_url={{{url|}}}
+|defunct_site={{#if:{{{live|}}}||1}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

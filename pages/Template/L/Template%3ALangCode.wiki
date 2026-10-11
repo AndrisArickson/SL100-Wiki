@@ -1,0 +1,105 @@
+{{#switch: {{{mode|}}}
+	| name = {{#switch: {{{1|}}}
+		| af = Afrikaans
+                | ar = Arabic
+                | az = Azerbaijani
+                | be = Belarusian
+		| bg = Bulgarian
+                | bn = Bengali
+                | bs = Bosnian
+                | ca = Catalan
+		| cmn = Mandarin
+		| cs = Czech
+                | cy = Welsh
+		| da = Danish
+		| de = German 
+		| el = Greek
+		| en = English
+		| eo = Esperanto
+		| es = Spanish
+                | et = Estonian
+                | fa = Persian
+		| fi = Finnish
+                | fo = Faroese
+		| fr = French
+                | ga = Irish
+                | gd = Scottish Gaelic
+		| he = Hebrew
+                | hi = Hindi
+                | hr = Croatian
+		| hu = Hungarian
+                | hy = Armenian
+                | id = Indonesian
+		| is = Icelandic
+		| it = Italian
+		| ja = Japanese
+                | ka = Georgian
+                | kk = Kazakh
+                | ky = Kyrgyz
+		| ko = Korean
+		| la = Latin
+                | lt = Lithuanian
+		| lv = Latvian
+		| m'a = Mando'a
+                | mk = Macedonian
+                | mn = Mongolian
+		| ms = Malay
+		| nl = Dutch
+		| no = Norwegian
+		| pl = Polish
+		| pt = Portuguese
+                | pt-br = Brazilian Portuguese
+		| ro = Romanian
+		| ru = Russian
+		| sk = Slovak
+                | sl = Slovenian
+                | sq = Albanian
+		| sr = Serbian
+		| sv = Swedish
+                | tg = Tajik
+		| th = Thai
+                | tk = Turkmen
+		| tr = Turkish
+                | tl = Tagalog
+		| tlh = Klingon
+                | uk = Ukrainian
+                | ur = Urdu
+                | uz = Uzbek
+		| vi = Vietnamese
+                | yi = Yiddish
+		| yue = Cantonese
+		| zh = Chinese
+		|
+	}}
+	| BG = {{#switch: {{{1|}}}
+		| 0 = FFE0E8
+		| 1 = F0F8FF
+		| 2 = D0F8FF
+		| 3 = E0F8FF
+		| 4 = E0F8FF
+		| E = F0F8FF
+		| F = FFE0FF
+		| N = C5FCDC
+		| P = F99C99
+		| U = FFEDE0
+		|
+	}}
+	| color = {{#switch: {{{1|}}}
+		| 0 = FFB3B3
+		| 1 = C0C8FF
+		| 2 = 77E0E8
+		| 3 = 99B3FF
+		| 4 = CCCC00
+		| E = C0C8FF
+		| F = FFB3EC
+		| N = 6EF7A7
+		| P = F9CBC9
+		| U = FFE5B3
+		|
+	}}
+	|
+}}<noinclude>
+
+This template will generate code for {{Tl|Lang}}.
+
+[[Category:Language templates]]<noinclude>

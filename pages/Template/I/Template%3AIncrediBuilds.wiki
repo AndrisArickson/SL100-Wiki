@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=IncrediBuilds
+|image=[[File:IncrediBuilds-Favicon.png|text-bottom|x18px|link=https://incredibuilds.com/collections/incredibuilds?page=1&rb_snize_facet6=Star+Wars]]
+|site_text=[[Star Wars IncrediBuilds|''IncrediBuilds'']]{{'}} [https://incredibuilds.com/collections/incredibuilds?page=1&rb_snize_facet6=Star+Wars official website]
+|base_url=https://{{{subdomain|www}}}.incredibuilds.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

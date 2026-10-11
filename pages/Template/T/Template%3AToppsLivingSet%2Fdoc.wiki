@@ -1,0 +1,26 @@
+A dedicated citation template for [[Topps Star Wars Living Set]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{ToppsLivingSet|num=|cardname=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|num}} Number of the card in the set; required for chronological placement.
+*{{Para|cardname}} Name of an individual card.
+*{{Para|link}} Full URL of an individual card's page on a website that displays its front and back, if available; for example, on [https://www.beckett.com Beckett] or [https://www.tcdb.com Trading Card Database].
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Topps]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Backup links===
+{{BackupLinkHelp|Topps}}
+
+==Example(s)==
+<code><nowiki>{{ToppsLivingSet|num=223|cardname=Commander Pyre|link=https://www.tcdb.com/ViewCard.cfm/sid/382560/cid/16840216}}</nowiki></code>
+
+Results in:
+
+{{ToppsLivingSet|num=223|cardname=Commander Pyre|link=https://www.tcdb.com/ViewCard.cfm/sid/382560/cid/16840216}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

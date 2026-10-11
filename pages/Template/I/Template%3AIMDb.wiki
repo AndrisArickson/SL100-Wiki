@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=IMDb
+|image=[[File:IMDb.svg|text-top|x16px|link=https://www.imdb.com]]
+|site_text=the [[wikipedia:IMDb|Internet Movie Database]]
+|base_url=https://{{{subdomain|www}}}.imdb.com
+|target_url={{{url|{{{1|}}}}}}
+|text={{{text|{{{2|{{PAGENAME}}}}}}}}
+|separator=at
+|use_lua_subpage=1
+|allow_unnamed=1
+|no_archive=1
+|optional=1
+}}</includeonly><noinclude>{{Top|mprot|sprot}}{{Documentation}}</noinclude>

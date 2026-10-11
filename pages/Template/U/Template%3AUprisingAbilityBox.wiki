@@ -1,0 +1,91 @@
+{| class="noprint stub plainlinks" style="padding:2px 10px;background: #FFDBDB none repeat scroll 0px 0px;border: 1px solid #BB7070;width:100%;text-align:left;font-size:14px;font-weight:normal;margin:0.5em"
+|-
+|[[File:Cmbox_deletion.png|link=|40px]] <u>'''Warning'''</u> This template initalizes the values for [[Template:UprisingAbilityBox/Main|UprisingAbilityBox/Main]] template.
+|}
+<br/><br/>
+<onlyinclude><!--
+-->{{#switch:{{lc:{{{get|}}}}}<!--
+-->|name<!--
+-->|slot<!--
+-->|trainer<!--
+-->|trainername<!--
+-->|trainerlink<!--
+-->|trainerclass<!--
+-->|trainericon<!--
+-->|location<!--
+-->|locationname<!--
+-->|locationlink<!--
+-->|element<!--
+-->|faction<!--
+-->|price<!--
+-->|price1<!--
+-->|price2<!--
+-->|price3<!--
+-->|description<!--
+-->|1<!--
+-->|rank1<!--
+-->|rank1icon<!--
+-->|2<!--
+-->|rank2<!--
+-->|rank2icon<!--
+-->|3<!--
+-->|rank3<!--
+-->|rank3icon=<!--
+-->|cooldown=<!--
+-->|listitem=<!--
+-->|page<!--
+-->|all<!--  
+-->|{{{null|}}}<!--
+-->|null<!--
+-->|#default=<!--
+-->}}<!--
+-->{{UprisingAbilityBox/Main<!--
+-->|get                  ={{{get|}}}<!--
+-->|style                ={{{style|}}}<!--
+-->|name                 ={{{name|}}}<!--
+-->|displayName          ={{{displayName|}}}<!--
+-->|pageName             ={{{pageName|}}}<!--
+-->|pageLink             ={{{pageLink|}}}<!--
+-->|abilityLink          ={{{abilityLink|{{{pageLink|Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{pageName|{{{name|}}}}}}}}}}}}<!--
+-->|slot                 ={{{slot|}}}<!--
+
+-->|trainer              ={{{trainer|}}}<!--
+-->|trainerName          ={{{trainerName|}}}<!--
+-->|trainerLink          ={{{trainerLink|}}}<!--
+-->|trainerClass         ={{{trainerClass|}}}<!--
+
+-->|location             ={{{location|}}}<!--
+-->|locationName         ={{{locationName|}}}<!--
+-->|locationLink         ={{{locationLink|}}}<!--
+
+-->|element              ={{{element|}}}<!--
+-->|faction              ={{{faction|}}}<!--
+-->|price                ={{{price|{{{price1|}}}}}}<!--
+-->|price2               ={{{price2|}}}<!--
+-->|price3               ={{{price3|}}}<!--
+
+-->|rank1                ={{{rank1|}}}<!--
+-->|rank1Icon            ={{{rank1Icon|}}}<!--
+-->|rank2                ={{{rank2|}}}<!--
+-->|rank2Icon            ={{{rank2Icon|}}}<!--
+-->|rank3                ={{{rank3|}}}<!--
+-->|rank3Icon            ={{{rank3Icon|}}}<!--
+
+-->|cooldown             ={{{cooldown|}}}<!--
+
+-->|heading              ={{{heading|}}}<!--
+-->|headingLevel         ={{{headingLevel|2}}}<!--
+-->|noHeadingBorder      ={{{noHeadingBorder|}}}<!--
+-->|noRankText           ={{{noRankText|}}}<!--
+-->|ranksOnly            ={{{ranksOnly|}}}<!--
+-->|right                ={{{right|}}}<!--
+
+
+-->|PRIMARYBGCOLOR={{UprisingAbilityBox/Defaults|NAME=PRIMARYBGCOLOR|get={{{get|}}}|style={{{style|}}}|ranksOnly={{{ranksOnly|}}}}}<!--
+-->|SECONDARYBGCOLOR={{UprisingAbilityBox/Defaults|NAME=SECONDARYBGCOLOR|get={{{get|}}}|style={{{style|}}}|ranksOnly={{{ranksOnly|}}}}}<!--
+-->|BORDERCOLOR={{UprisingAbilityBox/Defaults|NAME=BORDERCOLOR|get={{{get|}}}|style={{{style|}}}|ranksOnly={{{ranksOnly|}}}}}<!--
+-->|BORDERWIDTH={{UprisingAbilityBox/Defaults|NAME=BORDERWIDTH|get={{{get|}}}|style={{{style|}}}|ranksOnly={{{ranksOnly|}}}}}<!--
+-->|WIDTH={{{width|{{{WIDTH|{{UprisingAbilityBox/Defaults|NAME=WIDTH|get={{{get|}}}|style={{{style|}}}|ranksOnly={{{ranksOnly|}}}}}}}}}}}<!--
+
+-->}}</onlyinclude><noinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]
+</noinclude>

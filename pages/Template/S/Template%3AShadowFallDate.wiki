@@ -1,0 +1,5 @@
+''[[Star Wars: Timelines]]'' dates the events of {{#ifeq:{{PAGENAME}}|Shadow Fall: An Alphabet Squadron Novel|''Shadow Fall: An Alphabet Squadron Novel''|''[[Shadow Fall: An Alphabet Squadron Novel]]''}}{{#if:{{{1|}}}|, including {{{1}}},}} to [[5 ABY]].<noinclude>
+==Usage==
+<code><nowiki>{{ShadowFallDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

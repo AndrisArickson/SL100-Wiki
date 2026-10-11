@@ -1,0 +1,13 @@
+<includeonly><span class="plainlinks">[[File:Metal.jpg|text-top|x16px|link=Metallic Impressions]]&#32;{{#invoke:FormattedTextLookup|main|type=Cards|template=MetallicImpressions|target={{{set|}}}|text={{{stext|}}}}}{{#if:{{{cardname|}}}
+        |&#32;<small>(Card:&#32;{{#if:{{{link|}}}|[{{{link}}} {{{cardname}}}]|{{{cardname}}}}})</small>|}}{{#if:{{{link|}}}|{{ArchiveAccess
+    |template_name=MetallicImpressions
+    |full_url={{{link|}}}
+    |target={{{link|}}}
+    |archiveurl={{{archiveurl|}}}
+    |archivedate={{{archivedate|}}}
+    |archivefile={{{archivefile|}}}
+    |nobackup={{{nobackup|}}}
+    |nolive={{{nolive|}}}
+    |use_lua_subpage=1
+    |par=1
+  }}|{{#ifeq:{{NAMESPACE}}||{{#if:{{{parent|}}}||<small>('''''no card name specified''''')</small>[[Category:Card game citation template usages without cardname|{{PAGENAME}}]]}}|}}}}</span></includeonly><noinclude>{{Documentation}}</noinclude>

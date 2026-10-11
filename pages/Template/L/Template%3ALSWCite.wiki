@@ -1,0 +1,18 @@
+{{#invoke:BaseCitation|main|template=LSWCite
+|mode=magazine
+|image=[[File:LegoSWLogo-Template.svg|text-top|x16px|link=LEGO Star Wars (magazine)]]
+|series=LEGO Star Wars
+|issue={{{1|}}}
+|child={{{2|}}}
+|ctext={{{3|}}}
+|nolink={{{nolink|}}}
+|noquotes={{{noquotes|}}}
+}}<noinclude>
+
+==Usage==
+This template is to be used for the [[LEGO Star Wars (magazine)|''LEGO Star Wars'']] magazine with the following code:
+*<code><nowiki>{{</nowiki>LSWCite|Issue|Article}}</code> for citing individual comics, articles or departments without article name.
+
+*<code>|nolink=</code> &mdash; suppresses the link for the magazine article, in cases where the piece does not need an article.
+
+[[Category:Comic and children's magazine citation templates]]</noinclude>

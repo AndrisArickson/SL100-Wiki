@@ -1,0 +1,25 @@
+{{Iumb
+|id=Spoiler
+|bg={{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#ddb152|#231f20}}|{{#if:{{{3|}}}|#000000|{{#ifeq:{{{1|}}}|Star Wars Outlaws|#29353e|#000000}}}}|{{#if:{{{3|}}}|#000000|{{#ifeq:{{{1|}}}|Star Wars Zero Company|#8f8f8f|#000000}}}}}}
+|fg={{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#231f20|#ffffff}}|{{#if:{{{3|}}}|#ffffff|{{#ifeq:{{{1|}}}|Star Wars Outlaws|#e7edef|#ffffff}}}}|{{#if:{{{3|}}}|#ffffff|{{#ifeq:{{{1|}}}|Star Wars Zero Company|#e7edef|#ffffff}}}}}}
+|image={{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|[[File:HighRepubliccrest-white.svg|white|140px]]|[[File:HighRepublicsymbol-Vandalized.png|140px]]}}|{{#if:{{{3|}}}|[[File:VadersRevelation-TESB.png|115px]]|{{#ifeq:{{{1|}}}|Star Wars Outlaws|[[File:SWOutlaws-WhiteLogo.png|160px]]|[[File:VadersRevelation-TESB.png|115px]]}}}}}}
+|caption={{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|We are all the Republic!|Ride the Storm!}}|{{#if:{{{3|}}}|No. ''I'' am your father!|{{#ifeq:{{{1|}}}|Star Wars Outlaws|The underworld shows no mercy.|No. ''I'' am your father!}}|{{#ifeq:{{{1|}}}|Star Wars Zero Company|It's your turn to take command during the Clone Wars.|No. ''I'' am your father!}}}}}}
+|message=Warning! This page contains [[Wookieepedia:Spoilers|<span style="color:{{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#0f6dae|#ddb152}}|{{#if:{{{3|}}}|#aqua|{{#ifeq:{{{1|}}}|Star Wars Outlaws|#ffb15c|#aqua}}}}}}">spoilers</span>]] from {{#if:{{{1|}}}
+    |{{#if:{{{quote1|}}}|"}}[[{{{1|}}}|<span style="color:{{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#0f6dae|#ddb152}}|{{#if:{{{3|}}}|#aqua|{{#ifeq:{{{1|}}}|Star Wars Outlaws|#ffb15c|#aqua}}}}}}">{{#ifeq:{{{1|}}}|Star Wars Outlaws|''Star Wars Outlaws''|{{{2|{{{1|}}}}}}}}</span>]]{{#if:{{{3|}}}
+        |{{#if:{{{5|}}}|{{#if:{{{quote1|}}}|,"|,}}|{{#if:{{{quote1|}}}|"&#32;and|&#32;and}}}} {{#if:{{{quote2|}}}|"}}[[{{{3|}}}|<span style="color:{{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#0f6dae|#ddb152}}|#aqua}}">{{{4|{{{3|}}}}}}</span>]]{{#if:{{{5|}}}
+            |{{#if:{{{7|}}}|{{#if:{{{quote2|}}}|,"|,}}|{{#if:{{{quote2|}}}|," and|, and}}}} {{#if:{{{quote3|}}}|"}}[[{{{5|}}}|<span style="color:{{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#0f6dae|#ddb152}}|#aqua}}">{{{6|{{{5|}}}}}}</span>]]{{#if:{{{7|}}}
+                |{{#if:{{{quote3|}}}|," and|, and}} {{#if:{{{quote4|}}}|"|}}[[{{{7|}}}|<span style="color:{{#if:{{{thr|}}}|{{#ifeq:{{#expr:{{#time:s}} mod 2}}|0|#0f6dae|#ddb152}}|#aqua}}">{{{8|{{{7|}}}}}}</span>]]{{#if:{{{quote4|}}}|."|.}}
+                |{{#if:{{{quote3|}}}|."|.}}}}
+            |{{#if:{{{quote2|}}}|."|.}}}}
+        |{{#if:{{{quote1|}}}|."|.}}}}
+    |a recently released or soon-to-be-released product.}} Caution is advised.}}<includeonly>{{SpecialCategorizer|{{#if:{{{time|}}}
+    |{{#ifeq:{{{time}}}|skip
+	  |[[Category:Articles with spoilers]]
+	  |{{#ifexpr: {{#time: U|{{{time}}} }} < {{#time: U|now}}
+        |[[Category:Articles with expired spoiler notices]]
+        |[[Category:Articles with spoilers]]
+      }}
+    }}
+	|{{#if:{{{3|}}}|[[Category:Spoiler usages without time parameter]]|[[Category:Spoiler usages without time parameter]]}}
+  }}
+|simple=1}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

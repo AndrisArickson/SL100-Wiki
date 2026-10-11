@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:ToyCitation|main|template=KotoCite
+|image=[[File:Kotobukiya.png|text-bottom|x18px|link=Kotobukiya]]
+|set={{{set}}}
+|stext={{{text|}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{url|}}}
+|baseUrl=https://www.rebelscum.com
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,28 @@
+{{Ooumb
+| bg = #c5fcdc
+| image = [[File:UnderConstruction.png|50px]]
+| message = '''{{PAGENAME}}''' was the '''[[Wookieepedia:Improvement drive|improvement drive]]''' project for the weeks of: <br>
+*{{{1}}}
+*{{{2}}}
+See how it improved: [https://starwars.fandom.com/index.php?title={{{3}}}&diff={{{4}}}] [https://starwars.fandom.com/index.php?title={{{3}}}&diff={{{5}}}] &ndash; [[Wookieepedia:Improvement drive/History|Other improvement drives]]
+}}<noinclude>
+
+==Usage==
+
+For articles that were improvement drive projects twice. Type <nowiki>{{IDformer2}}</nowiki> at the top of the article in question's talk page and fill in the following:
+
+{{{1}}}: The first week it was the ID article; for example "4 September, [[2005]]".
+
+{{{2}}}: The second week it was the ID article; for example "18 December, [[2005]]".
+
+{{{3}}}: The article's title, with underscores; for example "Galactic_Civil_War". Note that you must type "3=(title)".
+
+{{{4}}}: The code following "&diff=" in the first "see how it improved URL; for example "73789&oldid=69807". Note that you must type "4=(code)".
+
+{{{5}}}: The code following "&diff=" in the second "see how it improved URL; for example "170555&oldid=161927". Note that you must type "5=(code)".
+
+Therefore, if put on [[Talk:Galactic Civil War]], '''<nowiki>{{IDformer2|4 September, [[2005]]|18 December, [[2005]]|3=Galactic_Civil_War|4=73789&oldid=69807|5=170555&oldid=161927}}</nowiki>''' produces:
+
+{{IDformer2|4 September, [[2005]]|18 December, [[2005]]|3=Galactic_Civil_War|4=73789&oldid=69807|5=170555&oldid=161927}}
+
+[[Category:Administrative templates|{{PAGENAME}}]][[Category:Talk page templates|{{PAGENAME}}]]</noinclude>

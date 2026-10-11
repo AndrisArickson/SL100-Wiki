@@ -1,0 +1,91 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal havod|title=Havod Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Havod<!--
+-->|type=Crystal<!--
+-->|subtype=Imperial<!--
+-->|element=None<!--
+-->|minlevel=3<!--
+-->|maxlevel=7<!--
+-->|description=These crystals are used to improve Imperial equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedhavod|cracked havod|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_01.png<!--
+			-->|credits|value|price=N/A<!--
+			-->|howget|howtoget=<span style="color:red">'''Not Available'''</span><!--
+			-->|notavailable|notingame=1<!--
+		-->}}<!--
+	-->|chipped|chippedhavod|chipped havod|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_02.png<!--
+			-->|credits|value|price=N/A<!--
+			-->|howget|howtoget=<span style="color:red">'''Not Available'''</span><!--
+			-->|notavailable|notingame=1<!--
+		-->}}<!--
+	-->|dull|dullhavod|dull havod|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_03.png<!--
+			-->|credits|value|price=?<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>From Imperial Opportunities.</div><div>Achieve Captain rank in Sector Battles.</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedhavod|faceted havod|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_04.png<!--
+			-->|credits|value|price=35437<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine ? Dull Havod</div><div>From Imperial Opportunities.</div><div>Achieve Lieutenant rank in Sector Battles.</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedhavod|polished havod|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_05.png<!--
+			-->|credits|value|price=106312<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Havod</div><div>Achieve Commander rank in Sector Battles.</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brillianthavod|brilliant havod|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_06.png<!--
+			-->|credits|value|price=?<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<div>Combine ? Polished Havod</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristinehavod|pristine havod|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Havod<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_07.png<!--
+			-->|credits|value|price=?<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine ? Polished Brilliant</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Havod<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Faction_Imperial_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Havod}}
+__NOTOC__
+</noinclude>

@@ -1,0 +1,40 @@
+<infobox theme="Force">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Technical information</header>	
+        <data source="alternate"><label>Alternate name(s)</label></data>	
+        <data source="number"><label>Form number</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+    	<data source="founder"><label>Founder</label></data>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:LightsaberForm|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|alternate|number|founder|affiliation|ignore=name}}<noinclude>
+[[category:Infobox templates]]
+{{Clear}}
+===Usage===
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>{{Top|}}
+{{LightsaberForm
+|image=
+|name=
+|alternate=
+|number=
+|founder=
+|affiliation=
+}}</nowiki></pre>
+
+==Data Fields==
+*image - Put an image depicting the form in use
+*name - Put the name of the form
+*alternate - Put any alternate names of the form, e.g. Soresu is an alternate name of [[Form III]]
+*number - Put the number of the lightsaber form in Arabic numerals
+*founder - Put the names of the persons/people who developed the form, e.g. the [[Yovshin Swordsmen]] developed [[Jar'Kai]]
+*affiliation - Put the groups of users the form was affiliated with, e.g. [[Form IV]] was affiliated with the [[Jedi]]</noinclude>

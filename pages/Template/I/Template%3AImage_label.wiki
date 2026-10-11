@@ -1,0 +1,1 @@
+<div style="position: absolute; left:{{#expr: {{{x|0}}} * {{{scale|1}}} - 6}}px; top: {{#expr: {{{y|0}}} * {{{scale|1}}} - 8}}px;">{{{text}}}</div><noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

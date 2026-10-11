@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=JoeBooks
+|image=[[File:JoeBooks.png|text-top|x16px|link=https://joebooks.com]]
+|site_text=[[Joe Books]]'s [http://www.joebooks.com official website]
+|base_url=https://{{{subdomain|www}}}.joebooks.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

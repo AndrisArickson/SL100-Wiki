@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SkySound
+|image=[[File:Skysoundlogo.svg|text-bottom|x18px|link=Skywalker Sound|class=darkmodeinvert]]
+|site_text=[[Skywalker Sound]]'s [https://www.skysound.com official website]
+|base_url=https://{{{subdomain|www}}}.skysound.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

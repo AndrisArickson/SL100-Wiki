@@ -1,0 +1,31 @@
+<small>(Subtitles from [[{{#ifeq:{{{1}}}|YouTube|Wikipedia:}}{{{1}}}|{{{2|{{{1}}}}}}]])</small><noinclude>
+==Parameters==
+<nowiki>{{Subtitles|Source's Article|Formatting}}</nowiki>
+
+==Examples==
+Code: <code><nowiki>{{Subtitles|Blu-ray}}</nowiki></code>
+
+Result: 
+{{Subtitles|Blu-ray}}
+
+Code: <code><nowiki>{{Subtitles|DVD}}</nowiki></code>
+
+Result: 
+{{Subtitles|DVD}}
+
+Code: <code><nowiki>{{Subtitles|Disney+}}</nowiki></code>
+
+Result: 
+{{Subtitles|Disney+}}
+
+Code: <code><nowiki>{{Subtitles|Star Wars: The Clone Wars Seasons 1-5 Collector's Edition|''Star Wars: The Clone Wars'' Seasons 1-5 Collector's Edition}}</nowiki></code>
+
+Result:
+{{Subtitles|Star Wars: The Clone Wars Seasons 1-5 Collector's Edition|''Star Wars: The Clone Wars'' Seasons 1-5 Collector's Edition}}
+
+Code: <code><nowiki>{{Subtitles|YouTube}}</nowiki></code>
+
+Result:
+{{Subtitles|YouTube}}
+
+[[Category:Appearance templates]]</noinclude>

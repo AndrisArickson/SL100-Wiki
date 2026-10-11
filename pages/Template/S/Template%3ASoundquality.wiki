@@ -1,0 +1,11 @@
+{{SmallMB
+|image=[[File:Dialog-warning.svg|50px]]
+|message='''This sound sample (audio file) is [[Wikipedia:Image quality|''subpar in quality'']]. It is advised to supersede this existing audio file with a new upload that is of genuine superior quality whenever possible. Then if applicable, [[Wookieepedia:Speedy deletions|nominating this file for speedy deletion]] by amending this file page with the [[Template:Delete|delete template]]. {{#if:{{{1|}}}|Issue(s):''' ''{{{1}}}.''|'''}}<br /><span style="color:red">'''Note that [[Wikipedia:Artificial_intelligence|AI (artificial intelligence)]] ''or'' conventionally [[Wikipedia:https://en.wikipedia.org/wiki/Image_scaling|upscaled]] audio ''does not'' constitute as genuine superior quality'''.</span><br />Please '''discern a version of the current sound sample''' that is of '''genuine superior quality''', and '''replace the existing audio file''' by either:
+*'''Re-uploading the sound sample of superior quality via the [[Special:Upload|main file upload page]]''', and then '''nominating this audio file to be [[Wookieepedia:Speedy deletions|speedily deleted]]''', replacing this notice with the {{Tl|Delete}} template. 
+*'''OR, by uploading the sound sample of superior quality as a new version of this audio file, via the ''file history'' section file page, and then removing [[Template:Soundquality|this notice]] once finished'''.<br />
+}}<includeonly>{{SpecialCategorizer|[[Category:Audio files of poor quality|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Audio files of poor quality]]
+
+[[Category:File maintenance templates]]</noinclude>

@@ -1,0 +1,15 @@
+{{iumb
+| id = Image-template
+| bg = #FEC
+| image = [[File:Bobawhere.jpg|95px]]
+| caption = Boba Fett? Boba Fett? Where?
+| message = This article would benefit from the addition of one or more new images.
+| comment = Please [[Special:Upload|upload]] a relevant image from an official source, and place it here. Once finished, remove this notice.
+}}<includeonly>{{SpecialCategorizer|{{#ifeq:{{{1|}}}|real|[[Category:Real-world articles needing images|{{PAGENAME}}]]|{{#ifeq:{{{1|}}}|person|[[Category:Real-world people articles needing images]]|[[Category:Articles needing illustration|{{PAGENAME}}]]}}}}|simple=1}}</includeonly><noinclude>
+{{Top|fprot|mprot}}
+==Categorization==
+*[[:Category:Articles needing illustration]]
+*[[:Category:Real-world articles needing images]]
+*[[:Category:Real-world people articles needing images]]
+
+[[Category:Maintenance templates]]</noinclude>

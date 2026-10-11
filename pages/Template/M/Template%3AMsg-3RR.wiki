@@ -1,0 +1,13 @@
+{| class="Talk-Notice headerbackground" style="background: #FBB7B7; border: 3px solid #FF0000; padding: .2em; margin: 0 auto 3px auto; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | 
+[[File:Dialog-error.svg|30px]]
+| <span style="font-size:medium;">'''User warning: Three-Revert Rule.'''</span>
+
+'''You have come close to violating, or have already violated, the [[Wookieepedia:User conduct policy#Three-revert rule|Three-Revert Rule]].''' 
+
+If you continue to edit-war, an [[Wookieepedia:Administrators|administrator]] will [[Wookieepedia:Blocking policy|block]] you from editing.
+
+Please reconsider your approach, and pay attention to the advice others provide.{{<includeonly>subst:</includeonly>#if:{{{1|}}}|<p>{{{1}}}</p>}}
+|}<noinclude>{{TestTemplatesNotice}}
+
+To place the above warning on a user's talk page type the following: '''<nowiki>{{subst:Msg-3RR|~~~~}} </nowiki>'''[[Category:User talk templates|Msg-3RR]]</noinclude>

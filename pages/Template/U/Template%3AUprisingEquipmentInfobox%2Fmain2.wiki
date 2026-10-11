@@ -1,0 +1,63 @@
+<onlyinclude><infobox>
+	<image source="image" />
+	<title source="name"><default>{{PAGENAME}}</default></title>
+	<data source="description"></data>
+	
+	<data source="stars"></data>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Info</header>
+		<data source="info"><default>N/A</default></data>
+	</group>
+	
+	<navigation>{{{statTable|}}}</navigation>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Attack Min/Max</header>
+		<data source="attackMin"><label>Min</label><format>'''{{{attackMin}}}'''</format></data>
+		<data source="attackBase"><label>Base</label><format>'''{{{attackBase}}}'''</format></data>
+		<data source="attackMax"><label>Max</label><format>'''{{{attackMax}}}'''</format></data>
+	</group>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Armor Min/Max</header>
+		<data source="armorMin"><label>Min</label><format>'''{{{armorMin}}}'''</format></data>
+		<data source="armorBase"><label>Base</label><format>'''{{{armorBase}}}'''</format></data>
+		<data source="armorMax"><label>Max</label><format>'''{{{armorMax}}}'''</format></data>
+	</group>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Utility Min/Max</header>
+		<data source="utilityMin"><label>Min</label><format>'''{{{utilityMin}}}'''</format></data>
+		<data source="utilityBase"><label>Base</label><format>'''{{{utilityBase}}}'''</format></data>
+		<data source="utilityMax"><label>Max</label><format>'''{{{utilityMax}}}'''</format></data>
+	</group>
+
+	<group>
+		<header>Mods</header>
+		<data source="mod1" />
+		<data source="mod2" />
+		<data source="mod3" />
+		<data source="mod4" />
+		<data source="mod5" />
+		<data source="mod6" />
+	</group>
+	
+	<group layout="horizontal">
+		<header>Salvage</header>
+		<data source="salvage" />
+	</group>
+
+	<group layout="horizontal">
+		<header>Upgrade</header>
+		<data source="upgradeComponents" />
+	</group>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Sell Value</header>
+		<data source="credits"><default>?</default></data>
+	</group>
+	
+	<navigation>{{{navigation|}}}</navigation>
+
+</infobox></onlyinclude><noinclude>[[Category:Equipment Templates for Star Wars: Uprising]]</noinclude>

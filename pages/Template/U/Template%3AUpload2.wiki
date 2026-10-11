@@ -1,0 +1,7 @@
+Please do not upload files without including all the information mandated by our [[Wookieepedia:Files|Files policy]]. The only uploading method supported by Wookieepedia, [[Special:Upload]], will prompt you to enter this information. If you upload more files without the necessary information, it may lead to you being blocked from editing by an administrator. Thank you for your cooperation. {{{1|}}} <!-- Template:Upload2 (second level warning) --><noinclude>{{Top|sprot}}
+==Description==
+Upload warning notice for repeat offenders. Please use {{Tl|Upload1}} for newbies.
+
+==Usage==
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

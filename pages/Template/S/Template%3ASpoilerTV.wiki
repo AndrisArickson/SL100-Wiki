@@ -1,0 +1,66 @@
+{{Iumb
+|id=SpoilerTV
+|bg={{#switch:{{{show|}}}|Ahsoka=#B9B5B6|#000000}}
+|fg={{#switch:{{{show|}}}|Ahsoka=#000000|#ffffff}}
+|image={{#switch:{{{show|}}}|Ahsoka=[[File:AhsokaS1 Logo.png|120px]]|[[File:VisionsPresents-TheNinthJedi-EnglishLogo.png|120px]]}}
+|caption={{#switch:{{{show|}}}|Ahsoka=Are you a Jedi… or not?|Things are about to get a little bumpy.}}
+|message=Warning! This page contains [[Wookieepedia:Spoilers|'''spoilers''']] from {{#if:{{{1|}}}
+    |the episode{{#if:{{{2|}}}|s}} "{{SpoilerTV/data|{{{1}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{2|}}}
+    |{{#if:{{{3|}}}|,"|"&#32;and}} "{{SpoilerTV/data|{{{2}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{3|}}}
+    |{{#if:{{{4|}}}|,"|,"&#32;and}} "{{SpoilerTV/data|{{{3}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{4|}}}
+    |{{#if:{{{5|}}}|,"|,"&#32;and}} "{{SpoilerTV/data|{{{4}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{5|}}}
+    |{{#if:{{{6|}}}|,"|,"&#32;and}} "{{SpoilerTV/data|{{{5}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{6|}}}
+    |{{#if:{{{7|}}}|,"|,"&#32;and}} "{{SpoilerTV/data|{{{6}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{7|}}}
+    |{{#if:{{{8|}}}|,"|,"&#32;and}} "{{SpoilerTV/data|{{{7}}}|show={{{show|TheNinthJedi}}}}}{{#if:{{{8|}}}
+    |,"&#32;and "{{SpoilerTV/data|{{{8}}}|show={{{show|TheNinthJedi}}}}}
+    }}}}}}}}}}}}}}" of&#32;|}}{{#if:{{{1|}}}||the&#32;}}{{#switch:{{{show|TheNinthJedi}}}
+ |TheNinthJedi=''[[Star Wars: Visions Presents - The Ninth Jedi]]''
+ |Ahsoka=[[Ahsoka Season 2|second season]] of ''[[Star Wars: Ahsoka]]''
+ |#default=''[[Star Wars: Visions Presents - The Ninth Jedi]]''
+}}. Caution is advised.}}<includeonly>{{SpecialCategorizer|{{#ifexpr: {{#time: U|{{#if:{{{1|}}}|{{SpoilerTV/data|{{{show|TheNinthJedi}}} {{{1|}}}|date=1}}|{{#switch:{{{show|}}}|Ahsoka = 2027-02-27 |#default = 2026-09-05}}}} }} < {{#time: U|now}}
+  |{{#ifeq:{{NAMESPACE}}|Template||[[Category:Articles with expired spoiler notices]]}}
+  |[[Category:Articles with spoilers]]
+}}}}{{#if:{{{1|}}}||[[Category:Spoiler usages without target parameter]]}}</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>SpoilerTV|show=''Show Name''|''episode number''}}</code>
+
+#The template currently defaults <code>show</code> to the ''[[Star Wars: Visions Presents - The Ninth Jedi]]'', and the episode numbers and names are defined at [[Template:SpoilerTV/data]].
+#Insert template at the top of the page, immediately below the {{Tl|Top}} and disambiguation templates, if they are on the page. {{C|see the [[Wookieepedia:Layout Guide#Spoiler tag|Layout Guide]]}}
+#*For multiple episodes, more parameters may be added to the end of the template.
+#The spoiler's expiry date {{C|see the [[Wookieepedia:Spoilers|spoiler policy]]}} will automatically be determined based on the episode number in the first parameter. Then, on that day, the article will be listed on [[:Category:Articles with expired spoiler notices]] to make removing/updating expired spoiler templates more convenient for editors. Also, between 11:00 UTC and 11:59 UTC that day, {{U|C4-DE Bot}} will automatically either remove the entire template or, where applicable, update it according to the episodes listed there.
+
+==Examples==
+<code><nowiki>{{SpoilerTV}}</nowiki></code>
+
+Results in:
+{{SpoilerTV}}
+
+<hr />
+
+<code><nowiki>{{SpoilerTV|1}}</nowiki></code>
+
+Results in:
+{{SpoilerTV|1}}
+
+<hr />
+
+<code><nowiki>{{SpoilerTV|1|2}}</nowiki></code>
+
+Results in:
+{{SpoilerTV|1|2}}
+
+<hr />
+
+<code><nowiki>{{SpoilerTV|show=Ahsoka}}</nowiki></code>
+
+Results in:
+{{SpoilerTV|show=Ahsoka}}
+
+==Categorization==
+*[[:Category:Articles with spoilers]]
+*[[:Category:Spoiler usages without target parameter]]
+*[[:Category:Spoiler usages without time parameter]]
+
+[[Category:Header templates|{{PAGENAME}}]]
+</noinclude>

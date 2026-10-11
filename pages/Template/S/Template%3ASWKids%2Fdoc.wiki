@@ -1,0 +1,31 @@
+==Usage instructions==
+This template is to be used for all StarWarsKids.com webpages.
+
+<code><nowiki>{{SWKids|subdomain=|url=|text=|int=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://www.starwarskids.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/SWKids]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL contains a subdomain of starwarskids.com other than <code>www</code>, such as <code><nowiki>https://games.starwarskids.com</nowiki></code>, the subdomain can be specified for example, {{Para|subdomain}}<code>games</code>. Default is <code>www</code> if left blank.
+*{{Para|int}} This field is optional and provides a link to the [[Wookieepedia]] article, if one exists.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SWKids|url=galaxy-of-adventures|text=Star Wars Galaxy of Adventures|archiveurl=https://archive.vn/USaZd}}</nowiki></code>
+
+Results in:
+
+{{SWKids|url=galaxy-of-adventures|text=Star Wars Galaxy of Adventures|archiveurl=https://archive.vn/USaZd}}
+
+==See also==
+For videos published on the site's YouTube channel, use {{Tl|SWKidsYouTube}}.
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

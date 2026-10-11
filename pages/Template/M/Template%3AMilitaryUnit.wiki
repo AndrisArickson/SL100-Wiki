@@ -1,0 +1,40 @@
+<includeonly><infobox theme="group">
+	<image source="imagefallback">
+		<default>{{InfoboxGallery|image={{{image|}}}|caption1={{{option1|}}}|image2={{{image2|}}}|caption2={{{option2|}}}}}</default>
+	</image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="type"><label>Military unit type</label></data>	
+        <data source="formation"><label>Formation type</label></data>
+    </group>
+    <group collapse="open">	
+    	<header>Organizational information</header>
+        <data source="commander"><label>Commanding officer(s)</label></data>
+        <data source="second"><label>Second-in-command</label></data>
+        <data source="staff"><label>Staff officer(s)</label></data>
+        <data source="subunit"><label>Sub-units</label></data>
+        <data source="strength"><label>Strength</label></data>	
+        <data source="vehicles"><label>Vehicles</label></data>	
+        <data source="headquarters"><label>Headquarters</label></data>	
+        <data source="location"><label>Location(s)</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="formed"><label>Formed from</label></data>	
+        <data source="founded"><label>Date founded</label></data>	
+        <data source="fragmented"><label>Date fragmented</label></data>	
+        <data source="reorganized"><label>Date reorganized</label></data>	
+        <data source="dissolved"><label>Date dissolved</label></data>        
+        <data source="restored"><label>Date restored</label></data>	
+    </group>
+        <group collapse="open">
+    	<header>Other information</header>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Military_unit|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|type|formation|commander|second|staff|subunit|strength|vehicles|headquarters|location|formed|founded|fragmented|reorganized|dissolved|restored|affiliation|optional=image2,option1,option2|ignore=name}}</includeonly><noinclude>{{Documentation}}</noinclude>

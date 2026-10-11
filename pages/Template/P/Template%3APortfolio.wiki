@@ -1,0 +1,35 @@
+{{Portfolio/SubTemplate
+|type={{{type|}}}
+|current={{{current|}}}
+|former={{{former|}}}
+|current_type={{#if:{{{current|}}}
+  |{{#ifeq:{{{current|}}}|{{{type|}}}
+    |{{#switch:{{{type|}}}
+      |FA=FA
+      |GA=GA
+      |CA=CA
+      |}}
+    |Other
+  }}
+  |{{#switch:{{{type|}}}
+    |FA={{#if:{{{former|}}}|FFA|FA}}
+    |GA={{#if:{{{former|}}}|FGA|GA}}
+    |CA={{#if:{{{former|}}}|FCA|CA}}
+    |}}
+}}
+|link={{{link|}}}
+|article={{{article|}}}
+|user={{{user|}}}
+|current_user={{{current_user|}}}
+|date={{{date|}}}
+|date2={{{date2|}}}
+|nompage={{{nompage|}}}
+|nompage2={{{nompage2|}}}
+|outside={{{outside|}}}
+|image={{{image|}}}
+|quote={{{quote|}}}
+|intro={{{intro|}}}
+}}__NOEDITSECTION__{{#invoke:TemplateParamCheck|main|type|article|intro|optional=link,former,quote,image,user,date,nompage,outside,current,current_user,date2,nompage2}}<noinclude>
+
+[[Category:WookieeProject templates]]
+</noinclude>

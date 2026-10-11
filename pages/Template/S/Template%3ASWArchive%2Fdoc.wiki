@@ -1,0 +1,49 @@
+==Instructions==
+This template is to be used for citing all [[StarWars.com]] content published before the official site's [https://web.archive.org/web/20120103174843/http://www.starwars.com/news/newstarwarscom.html revamp] on [[September 13]], [[2011]], or before the revamp of early [[2014]], and that wasn't kept available at least after this last revamp. Content from this period is identifiable either by the use of .html in filename (<nowiki>http://www.starwars.com/patch/filename.html</nowiki>) or by the complete removal of a selection of the website sections (and url paths) by early 2014 (ex: Shop). For pages on the Cargo Bay subdomain, use {{Tl|CargoBay}}.
+
+For content kept online or published after the revamp of early 2014, use {{Tl|SW}}.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{SWArchive|subdomain=|url=|text=|int=|author=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>http://www.starwars.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the URL. The parameter must be filled with the part between <code><nowiki>http://</nowiki></code> and <code><nowiki>.starwars.com</nowiki></code>.
+*{{Para|int}} This field provides a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|quote}} Relevant quote from the page. Double-quotes will be added automatically.
+*{{Para|oldversion}} Set to 1 when the information is not present on the common ArchiveAccess archivedate's version of the webpage, necessitating a custom archivedate.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+==Backup links==
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SWArchive|url=the_movies/saga/fifteenth_online_anniversary/index.html|text=''Star Wars'' Online: 15 Years Old Today|date=2010-07-15|archivedate=20110913132814}}</nowiki></code>
+
+Results in:
+
+{{SWArchive|url=the_movies/saga/fifteenth_online_anniversary/index.html|text=''Star Wars'' Online: 15 Years Old Today|date=2010-07-15|archivedate=20110913132814}}
+
+<hr />
+;Using {{Para|int}}
+
+<code><nowiki>{{SWArchive|url=vault/collecting/droids_ewoks_25th_anniversary/index.html|text=25 Years of Collecting ''Droids'' and ''Ewoks''!|int=25 Years of Collecting Droids and Ewoks!|author=Pete Vilmur|date=2010-09-07|archivedate=20110617035821}}</nowiki></code>
+
+Results in:
+
+{{SWArchive|url=vault/collecting/droids_ewoks_25th_anniversary/index.html|text=25 Years of Collecting ''Droids'' and ''Ewoks''!|int=25 Years of Collecting Droids and Ewoks!|author=Pete Vilmur|date=2010-09-07|archivedate=20110617035821}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

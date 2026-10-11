@@ -1,0 +1,33 @@
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+Note that care must be taken to avoid an incorrect link.
+
+<code><nowiki>{{SWBoards|url=|thread=|author=|date=|time=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://forums.starwars.com/</nowiki></code>.
+*{{Para|thread}} Title of forum post. Note that it should be capitalized the same way as the original post's title.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|author}} Username of the forum post.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|time}} Time of the forum post, in <code>HH:SS AM/PM</code> format, for example "<code>time=04:01 PM</code>".
+*{{Para|quote}} Relevant quote from forum post. Double-quotes will be added automatically.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SWBoards|url=thread.jspa?threadID=152583&start=1125|thread=Holocron continuity database questions|author=[[Leland Chee|Tasty Taste]]|date=2006-12-28|time=04:01 PM|archivedate=20070303055750}}</nowiki></code>
+
+Results in:
+
+{{SWBoards|url=thread.jspa?threadID=152583&start=1125|thread=Holocron continuity database questions|author=[[Leland Chee|Tasty Taste]]|date=2006-12-28|time=04:01 PM|archivedate=20070303055750}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]][[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

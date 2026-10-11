@@ -1,0 +1,19 @@
+{{Userbox|#7AADCD|#C8DBE2|[[File:{{#if:{{{oldicon|}}}|CA-Icon-old.svg|CA-Icon.svg}}|40px]]|This user helped promote the article [[{{{1}}}|'''{{{2|{{{1}}}}}}''']] to [[Wookieepedia:Comprehensive articles|Comprehensive status]].}}<includeonly>{{SpecialCategorizer|[[Category:Wookieepedians who have promoted articles to Comprehensive status|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Clear}}
+==Description==
+A [[Wookieepedia:Userboxes|userbox]] template originally created by {{U|Master Jonathan}} for users to display their promoted [[Wookieepedia:Comprehensive articles|Comprehensive articles]].
+
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserCA|{{Var|article}}|{{Var|formatted name}}}}</code> into your user page.
+
+===Required parameters===
+#{{Para||{{Var|article}}}} The article name.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|formatted name}}}} The display name of the article.</li>
+#{{Para|oldicon}} A flag to use the [[:File:CA-Icon-old.svg|old Comprehensive article icon]] when set to <code>1</code>.
+
+==Categorization==
+*[[:Category:Wookieepedians who have promoted articles to Comprehensive status]]
+
+[[Category:Wiki userboxes|CA]]</noinclude>

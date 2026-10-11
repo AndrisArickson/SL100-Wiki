@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=RacerWeb
+|image=[[File:GalacticRacer-Logo.png|text-top|x16px|link=https://www.starwarsgalacticracer.com|class=darkmodeinvert]]
+|site_text=''[[Star Wars: Galactic Racer]]''{{'s}} [https://starwarsgalacticracer.com official website]
+|base_url=https://{{{subdomain|www}}}.starwarsgalacticracer.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

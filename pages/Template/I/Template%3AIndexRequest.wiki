@@ -1,0 +1,9 @@
+<includeonly>{{SpecialCategorizer|[[Category:Index requests|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+This template is used to flag articles that you would like {{U|C4-DE Bot}} to create an index for. Simply add this template to the top of the page, and the bot will detect this template within a few minutes. After the index has been created, it will remove the template from the target page.
+
+==Categorization==
+*[[:Category:Index requests]]
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

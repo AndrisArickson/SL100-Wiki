@@ -1,0 +1,34 @@
+{{#invoke:BaseCitation|main|template=StarshipsVehiclesCite
+|mode=ref
+|series=Star Wars: The Official Starships & Vehicles Collection
+|issue={{{1}}}
+|child={{{2}}}
+|ctext={{#invoke:FormattedTextLookup|main|type=RefMagazine|template=StarshipsVehiclesCite
+  |exception=Did You Know?
+  |issue={{{1}}}
+  |target={{{2}}}
+  |text={{{3|}}}
+  |textOnly=true
+  |combine=true
+}}
+|parentMode={{{parent|}}}
+}}<noinclude>
+
+==Usage==
+This template is to be used for issues of ''[[Star Wars: The Official Starships & Vehicles Collection]]''. Place the following code on the page and replace the "issue number" with the appropriate information.
+ <nowiki>{{</nowiki>StarshipsVehiclesCite|ISSUE NUMBER|DEPARTMENT}}
+
+'''Note''': formatted subtitles for each department are defined in [[Module:FormattedTextLookup/RefMagazine]], and do not need to be included in usages of the template. Departments for new issues should be added there.
+
+This template, like the rest of the reference magazine citation templates, is built using [[Module:BaseCitation]]. See [[Module:BaseCitation/doc]] for relevant maintenance categories and help building new templates. 
+
+==Examples==
+<code><nowiki>{{StarshipsVehiclesCite|1|Legendary Craft}}</nowiki></code>
+
+Results in:
+
+{{StarshipsVehiclesCite|1|Legendary Craft}}
+
+{{StarshipsVehiclesCite|1|Did You Know?}}
+
+[[Category:Reference magazine citation templates|StarshipsVehiclesCite]]</noinclude>

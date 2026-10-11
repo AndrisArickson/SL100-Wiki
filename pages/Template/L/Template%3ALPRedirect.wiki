@@ -1,0 +1,14 @@
+{{Iumb
+| id = LPRedirect
+| bg = #7BB0D8
+| image = [[File:ResistanceCelebration-TheEscape.png|150px]]
+| caption = Hey, {{USERNAME}}!
+| message = This redirect was created to comply with a request made under [https://www.fandom.com/community-creation-policy Fandom's Living Person Policy].
+| comment = Please do not recreate the article or change the redirect target.
+}}<noinclude>
+This template is for use on redirects that are a result of a request forwarded by Fandom staff for content on Wookieepedia to comply with [https://www.fandom.com/community-creation-policy Fandom's Living Person Policy].
+
+==Usage==
+<code><nowiki>{{LPRedirect}}</nowiki></code>
+
+[[Category:Disambiguation and redirection templates]]

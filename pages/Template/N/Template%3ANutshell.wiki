@@ -1,0 +1,25 @@
+{{Ooumb
+| id = Nutshell
+| bg  = #f9f9f9;
+| image = [[File:Walnut.svg|30px]]
+| caption = This page in a nutshell
+| message = {{#if:{{{2|}}}|<nowiki />
+*{{{1}}}
+*{{{2}}}{{#if:{{{3|}}}|
+*{{{3}}}}}|{{{1}}}}}
+}}<noinclude>
+
+==Location==
+This infobox template presents a concise summary at the top of [[:Category:Wookieepedia policies and guidelines|Wookieepedia policy and guideline]] pages. It is placed below the title and other infoboxes and above the first paragraph of the main body. 
+
+==Usage==
+<code><nowiki>{{</nowiki>nutshell|text}}</code>
+
+or
+
+<code><nowiki>{{</nowiki>nutshell<br />
+|First bullet point<br />
+|Second bullet point<br />
+|Third bullet point}}</code>
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

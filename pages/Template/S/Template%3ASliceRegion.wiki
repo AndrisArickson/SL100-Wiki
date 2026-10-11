@@ -1,0 +1,15 @@
+<includeonly>
+{{#if:{{{grid|}}}
+  |{{EncyclopediaCite|Scarif and Other Planets in the Outer Rim}} defines [[the Slice]] as the area of [[Realspace|space]] between the [[Perlemian Trade Route]] and the [[Corellian Run]], and ''[[The Living Force]]'' establishes the edge of the [[Core Worlds]] as the coreward border of the Slice. {{GalaxyMapAppendix}} places {{{1|}}} in grid square {{{grid|}}}, which the [[Star Wars Galaxy Map|''Star Wars'' Galaxy Map]] shows falls within the Slice as defined previously.
+  |{{{2|}}} places {{{1|}}} in the area of [[realspace|space]] between the [[Perlemian Trade Route]] and the [[Corellian Run]], which are the borders of [[the Slice]] as defined by {{EncyclopediaCite|Scarif and Other Planets in the Outer Rim}}, and outside of the [[Core Worlds]], which is the coreward edge of the Slice per ''[[The Living Force]]''.
+}}</includeonly><noinclude>
+
+This category is for standardizing citations placing canon systems and astronomical objects in [[the Slice]].
+*<nowiki>{{SliceRegion|Ralchon|{{StarWarsGalaxyMap}}}}</nowiki>
+*:{{SliceRegion|Ralchon|{{StarWarsGalaxyMap}}}}
+
+For systems whose placements rely solely on the "[[Star Systems of the Galaxy]]" appendix, the following should be used:
+*<nowiki>{{SliceRegion|the Molavar [[Star system|system]]|grid=S-15}}</nowiki>
+*:{{SliceRegion|the Molavar [[Star system|system]]|grid=S-15}}
+
+[[Category:Logic citation templates]]</noinclude>

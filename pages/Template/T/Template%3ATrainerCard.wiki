@@ -1,0 +1,5 @@
+<onlyinclude>{{TrainerCard/Main|get={{{get|}}}<!--
+-->|normalizedName={{TrainerCard/Names|{{#if:{{{trainerClass|}}}|{{{trainerClass}}}|{{#if:{{{trainerName|}}}|{{{trainerName}}}|{{#if:{{{trainer|}}}|{{{trainer}}}|{{{name|<noinclude>smuggler</noinclude>}}}}}}}}}}}<!--
+-->|right={{#if:{{{right|}}}|1|0}}<!--
+-->|small={{#if:{{{small|}}}|1|0}}<!--
+-->}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

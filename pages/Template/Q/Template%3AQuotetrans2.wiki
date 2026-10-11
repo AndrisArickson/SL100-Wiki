@@ -1,0 +1,25 @@
+<div class="quote">
+<span {{#if:{{{3|}}}|title="Source:&#32;{{{3}}}"|}}>''&laquo;{{{1}}}&raquo;''</span><br>
+&#8213;{{{2}}}{{#if:{{{3|}}}|<sup class="noprint">[[{{{3|}}}|[src]]]</sup>|<includeonly>{{#if:{{NAMESPACE}}||{{SpecialCategorizer|[[Category:Unsourced quotes]]}}}}</includeonly>}}
+</div><noinclude>{{Top|sprot}}
+{{Clear}}
+==About==
+This template is a modified version of the {{Tl|Quote}} template. It is used for quotes that were originally spoken in a foreign language and later translated into [[Galactic Basic Standard/Legends|Basic]] (English) and was used to present the [[Wookieepedia:Quote of the Day|Quote of the Day]] on the wiki [[Main Page]].
+
+==Usage instructions==
+<pre><nowiki>{{Quotetrans|quote|attribution|source}}</nowiki></pre>
+
+===Notes===
+*If any text is assigned to the ''source'' field, it will be rendered as a browser [[Wikipedia:Tooltip|tooltip]].
+
+==Example==
+===Code===
+<code><nowiki>{{Quotetrans2|Bring her to me!|[[Jabba]] in [[Huttese/Legends|Huttese]]|Star Wars: Episode VI Return of the Jedi}}</nowiki></code>
+
+===Result===
+{{Quotetrans2|Bring her to me!|[[Jabba Desilijic Tiure/Legends|Jabba]] in [[Huttese/Legends|Huttese]]|Star Wars: Episode VI Return of the Jedi}}
+
+==See also==
+*[[Wookieepedia:Templates/Quotes]]
+
+[[Category:Quotation templates|{{PAGENAME}}]]</noinclude>

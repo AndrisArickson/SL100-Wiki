@@ -1,0 +1,32 @@
+<infobox theme="IU-media">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="author"><label>Author(s)</label></data>	
+        <data source="editor"><label>Editor(s)</label></data>	
+        <data source="illustrator"><label>Illustrator(s)</label></data>	
+        <data source="artist"><label>Artist(s)</label></data>			
+        <data source="performer"><label>Performer(s)</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="release date"><label>Release date</label></data>	
+        <data source="media type"><label>Type</label></data>	
+        <data source="pages"><label>Pages</label></data>
+        <data source="published in"><label>Published in</label></data>	     
+    </group>
+        <group collapse="open">
+    	<header>General information</header>
+        <data source="genre"><label>Genre</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:IU_media|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|author|editor|illustrator|artist|performer|publisher|release date|media type|pages|published in|genre|optional=is_appearance,oou_release_date|ignore=name}}{{#if:{{{is_appearance|}}}|{{AppMediaCat}}|}}<!--
+--><noinclude>
+{{Documentation}}
+</noinclude>

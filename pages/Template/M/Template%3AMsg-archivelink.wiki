@@ -1,0 +1,7 @@
+Thank you for contributing to Wookieepedia! Please note that {{#if:{{{1|}}}|your edit to [[{{{1}}}]]|at least one of your recent additions}} added an external link without including a backup link. Our [[Wookieepedia:Sourcing|Sourcing policy]] mandates the inclusion of a permanent archival link in all external links. Instructions for doing this can be found on the respective [[:Category:Internet citation templates|citation template pages]], and you are welcome to join our [[Wookieepedia:Discord|Discord server]] to ask for assistance. {{{2|}}}<!-- Template:Msg-archivelink --><noinclude>
+
+==Usage==
+Type <code><nowiki>{{subst:Msg-archivelink|</nowiki>{{Var|article name}}<nowiki>|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+
+{{TestTemplatesNotice}}
+[[Category:User talk templates|Msg-archivelink]]</noinclude>

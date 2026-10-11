@@ -1,0 +1,15 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Twitter
+|image=[[File:TwitterLogo.svg|text-top|x16px|class=darkmodeinvert|link=https://twitter.com]]
+|site_text=[[Wikipedia:Twitter|Twitter]]
+|base_url=https://twitter.com
+|full_url=https://twitter.com/{{{username|{{{1}}}}}}/{{{url|{{{2|}}}}}}
+|target_url={{#if:{{{url|{{{2|}}}}}}|{{{url|{{{2|}}}}}}|{{{username|{{{1}}}}}}}}
+|username={{{username|{{{1|}}}}}}
+|is_post={{{url|{{{2|}}}}}}
+|author={{{3|{{{name}}}}}}
+|no_profile={{{noprofile|}}}
+|use_lua_subpage=1
+|social_media=1
+|allow_unnamed=3
+}}{{#if:{{{url|{{{2|}}}}}}|{{#if:{{#pos:{{{url|{{{2|}}}}}}|status}}||[[Category:Web citation template usages with invalid URL parameters]]}}|}}{{#if:{{#pos:{{{username|{{{1|}}}}}}|@}}|[[Category:Incorrect usages of Twitter username]]|}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

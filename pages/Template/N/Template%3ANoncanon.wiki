@@ -1,0 +1,51 @@
+{{#if: {{{canon|}}}
+|{{ooumb
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article is [[Canon|non-canon]].
+| message = This article covers a subject containing comic or obvious non-canon material or material that [[Lucasfilm]] otherwise declared non-canon in the canon continuity.
+}}|{{#if: {{{legends|}}}
+|{{ooumb
+| id = Noncanon
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article is [[Canon|non-canon]] within the [[Star Wars Legends|''Star Wars'' Legends]] continuity.
+| message = This article covers a ''Star Wars'' Legends subject that was published under the [[Infinities]] label or that [[Lucasfilm]] otherwise declared non-canon within the Legends continuity.
+}}|{{#if: {{{lego|}}}
+|{{ooumb
+| id = LEGO
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article is [[Canon|non-canon]] within the canon continuity.
+| message = This article covers a subject from a [[LEGO Star Wars|LEGO]] product that has not appeared in a [[canon]] or [[Star Wars Legends|''Star Wars'' Legends]] source, and thus is considered non-canon.
+}}|{{#if: {{{visions|}}}
+|{{ooumb
+| id = Visions
+| bg = #D8E9FC
+| image = [[File:Star-Wars-Visions-series-logo-short.png|class=darkmodeinvert|100px]]
+| caption = This article is [[Canon|non-canon]] within the canon continuity.
+| message = This article covers a subject from a ''[[Star Wars: Visions]]'' story that [[Lucasfilm]] declared is set in an alternate history within a reimagined galaxy.
+}}|{{ooumb
+| id = Noncanon
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article is [[Canon|non-canon]]. 
+| message = This article covers a ''[[Star Wars]]'' subject that is considered non-canon.
+}}}}}}}}}}<includeonly>{{SpecialCategorizer|{{#if:{{{lego|}}}|{{#ifeq:{{{lego|}}}|set|[[Category:LEGO set content]]|[[Category:LEGO content]]}}|}}}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+==Usage==
+For articles considered [[Canon|non-canon]] in the current canon continuity, include the parameter "canon" with any value. Example: <code><nowiki>{{Noncanon|canon=1}}</nowiki></code>
+
+For articles considered [[Canon|non-canon]] that are from ''[[Star Wars: Visions]]'', include the parameter "visions" with any value. Example: <code><nowiki>{{Noncanon|visions=1}}</nowiki></code>
+
+For articles considered [[Canon|non-canon]] that are from [[LEGO Star Wars|LEGO]] material, include the parameter "lego" with any value. Example: <code><nowiki>{{Noncanon|lego=1}}</nowiki></code>
+
+For articles considered [[Canon|non-canon]] in the [[Star Wars Legends|''Star Wars'' Legends]] continuity, include the parameter "legends" with any value. Example: <code><nowiki>{{Noncanon|legends=1}}</nowiki></code>
+
+For real-world articles considered non-canon, include the parameter "real" with any value so that the category will not be applied. Example: <code><nowiki>{{Noncanon|real=1}}</nowiki></code>
+
+==Categorization==
+*[[:Category:Non-canon articles]]
+*[[:Category:Non-canon Legends articles]]
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

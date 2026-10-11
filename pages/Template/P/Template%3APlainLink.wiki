@@ -1,0 +1,4 @@
+<span class="plainlinks">{{SAFESUBST:<noinclude />#if:{{{2|{{{NAME|{{{name|}}}}}}}}}
+ |[{{{1|{{{URL|{{{url}}}}}}}}} {{{2|{{{NAME|{{{name|}}}}}}}}}]
+ |[{{{1|{{{URL|{{{url}}}}}}}}}]
+}}</span><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

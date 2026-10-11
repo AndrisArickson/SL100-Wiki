@@ -1,0 +1,19 @@
+[[File:SW_Rebellion_logo.png|text-top|x16px|link=Star Wars: Rebellion (board game)]]&#32;[[Star Wars: Rebellion (board game)|''Star Wars'': Rebellion]]{{#if:{{{set|}}}|&#32;&mdash;&#32;''[[{{{set}}}]]''|}}{{#if:{{{cardname|}}}|&#32;<small>(Card: {{{cardname}}})</small>|{{#ifeq:{{NAMESPACE}}||{{#if:{{{parent|}}}||&#32;<small>('''''no card name specified''''')</small>[[Category:Citation template usages without cardname|{{PAGENAME}}]]}}|}}}}<noinclude>
+
+==Usage==
+Place the following code on the page and replace "CARD NAME" with the appropriate information. "SET NAME" is an optional parameter and should be left blank unless the card is from the ''[[Rise of the Empire]]'' expansion.
+
+ <nowiki>{{</nowiki>SWR|cardname=''CARD NAME''}}
+
+
+ <nowiki>{{</nowiki>SWR|set=''SET NAME''|cardname=''CARD NAME''}}
+
+==Examples==
+ <nowiki>{{</nowiki>SWR|cardname=Admiral Ackbar}}
+results in: {{SWR|cardname=Admiral Ackbar}}
+
+
+ <nowiki>{{</nowiki>SWR|set=Rise of the Empire|cardname=Armored Patrol}}
+results in: {{SWR|set=Rise of the Empire|cardname=Armored Patrol}}
+
+[[Category:Card game citation templates|{{PAGENAME}}]]</noinclude>

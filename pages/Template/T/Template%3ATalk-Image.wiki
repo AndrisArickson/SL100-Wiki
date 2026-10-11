@@ -1,0 +1,9 @@
+{{SmallMB
+|image=[[File:Information_icon.svg|35px]]
+|message=This image is used solely on talk and discussion pages, such as article talk pages and user talk pages and their archives. This notice template tracks such images in the [[:Category:Talk page images|talk page images category]].
+}}<includeonly>{{SpecialCategorizer|[[Category:Talk page images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Talk page images]]
+
+[[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

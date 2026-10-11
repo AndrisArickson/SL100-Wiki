@@ -1,0 +1,12 @@
+{{Userbox|#23272A|#23272A|[[File:Discord-Logo.svg|30px|link=Wookieepedia:Discord]]|This user frequents the Wookieepedia [[Wookieepedia:Discord|<span style="color:#00CDD0">'''Discord server'''</span>]] as <code>{{{2|{{PAGENAME}}}}}</code>.<br /><small>Username: <code>{{{1}}}</code></small>|border=#5865F2|style1=padding-left:4pt|style2=color:#FFF|headerbackground=0}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserDiscord|{{Var|username}}|{{Var|nickname}}}}</code> into your user page.
+
+===Required parameters===
+#{{Para||{{Var|username}}}} Your Discord username.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|nickname}}}} Your Discord profile name, which on [[Wookieepedia]]'s [[Wookieepedia:Discord|Discord server]] should just display as your username.</li>
+
+[[Category:Userbox templates|Discord]]</noinclude>

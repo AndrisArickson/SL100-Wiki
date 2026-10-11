@@ -1,0 +1,34 @@
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{LEGOWeb|subdomain=|url=|text=|int=|nolive=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the article, minus the domain name (<code><nowiki>https://lego.com/</nowiki></code>).
+*{{Para|text}} Name of the article being cited (formatted name if <code>|int=</code> parameter is used).
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if necessary. Will default to <code>www</code> if left blank.
+*{{Para|int}} Name of the Wookieepedia article corresponding to the LEGO.com article being cited.
+*{{Para|nolive}} Put <code>1</code> here if the content on the original link is no longer available.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{LEGOWeb|url=en-us/product/lego-star-wars-advent-calendar-2021-75307|text=LEGO ''Star Wars'' Advent Calendar 2021|archivedate=20220129185236}}</nowiki></code>
+
+Results in:
+
+{{LEGOWeb|url=en-us/product/lego-star-wars-advent-calendar-2021-75307|text=LEGO ''Star Wars'' Advent Calendar 2021|archivedate=20220129185236}}
+
+<hr />
+<code><nowiki>{{LEGOWeb|subdomain=starwars|url=en-us/Comics/comic2.aspx|text=Star Wars Comics - Giant spiders are awesome....|int=Giant spiders are awesome....|nolive=1|archivedate=20080919000556}}</nowiki></code>
+
+Results in:
+
+{{LEGOWeb|subdomain=starwars|url=en-us/Comics/comic2.aspx|text=Star Wars Comics - Giant spiders are awesome....|int=Giant spiders are awesome....|nolive=1|archivedate=20080919000556}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

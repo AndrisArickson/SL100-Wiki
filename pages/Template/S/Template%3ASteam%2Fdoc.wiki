@@ -1,0 +1,22 @@
+This template is to be used for citing individual pages on [[Wikipedia:Steam (service)|Steam]]' [https://store.steampowered.com official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{Steam|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://store.steampowered.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Steam|url=app/4078430/STAR_WARS_Galactic_Racer|text=STAR WARS: Galactic Racer™|archivedate=20260503031912}}</nowiki></code>
+
+Results in:
+
+{{Steam|url=app/4078430/STAR_WARS_Galactic_Racer|text=STAR WARS: Galactic Racer™|archivedate=20260503031912}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

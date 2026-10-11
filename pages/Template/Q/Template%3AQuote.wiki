@@ -1,0 +1,18 @@
+<div class="quote">
+<!--
+Display the quoted text itself-->:<span>{{#if:{{{formatting|}}}|{{{1}}}|{{#if:{{{translated|}}}|&laquo;|{{#if:{{{quotestart|{{{noquote|}}}}}}||"}}}}{{#if:{{{italics|}}}|{{{1}}}|''<nowiki />{{{1}}}<nowiki />''}}{{#if:{{{translated|}}}|&raquo;|{{#if:{{{quoteend|{{{trans|}}}}}}||"}}}}}}</span>
+<!--
+Display the caption-->:&#8213;{{{2}}}<span class="noprint"><!--
+
+Optionally link to an audio file-->{{#if:{{{audio|}}}|&nbsp;&mdash; https://static.wikia.nocookie.net/starwars/images/e/ee/Quote-audio.png/revision/latest/scale-to-width-down/20?cb=20250116042720 <sm2>{{{audio}}}</sm2> <small>([[:File:{{{audio}}}|file info]])</small>|}}<!--
+
+Link to the source-->{{#if:{{{url|}}}
+  |<sup class="plainlinks">[{{{url|}}} <nowiki>[src]</nowiki>]</sup>{{#ifeq:{{NAMESPACE}}||[[Category:Quotes with obsolete sourcing]]|}}
+  |{{#if:{{{3|}}}
+    |{{#ifeq: {{{3|}}} | {{#replace: {{{3|}}} | <nowiki><ref></nowiki> | | }}
+      | <sup>[[{{{3}}}|[src]]]</sup>{{#ifeq:{{NAMESPACE}}||[[Category:Quotes with obsolete sourcing]]|}}
+      | {{{3}}}
+     }}
+    |<includeonly>{{#ifeq:{{NAMESPACE}}||{{SpecialCategorizer|[[Category:Articles with unsourced quotes]]}}|}}</includeonly>
+   }}
+}}</span></div>{{#ifeq: {{#rpos:{{{3|}}}|�}} | -1 | | [[Category:Quote usages with unrecognized characters]] }}{{#invoke:LinkCheck|main|value={{{1}}}|template=Quote}}<noinclude>{{Top|fprot}}{{Documentation}}<!-- DO NOT CHANGE THE TEMPLATE TYPE TO ANYTHING OTHER THAN "DESIGN." IT WILL MAKE THE REF INVISIBLE ON MOBILE AND OVERALL MAKE THE TEMPLATE UGLIER AND BROKEN.--></noinclude>

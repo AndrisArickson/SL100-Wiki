@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Pedigree
+|image=[[File:Pedigree.png|text-top|x16px|link=https://www.pedigreebooks.com]]
+|site_text=[[Pedigree Books]]'s [https://www.pedigreebooks.com official website]
+|base_url=https://{{{subdomain|www}}}.pedigreebooks.{{{domain|com}}}
+|target_url={{{url|}}}
+|defunct_site=1
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

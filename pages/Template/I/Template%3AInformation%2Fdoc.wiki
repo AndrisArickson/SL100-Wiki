@@ -1,0 +1,55 @@
+==Usage==
+Copy and paste the following code into the image description when uploading new images. ''Note that all of the fields seen below must be present even if they are left blank.''
+
+<pre><nowiki>
+==Summary==
+{{Information
+|attention=
+|description=
+|source=
+|artist=
+|filespecs=
+|licensing=
+|other versions=
+|cat artist=
+|cat licensee=
+|cat subject=
+|cat type=
+}}</nowiki></pre>
+
+===Required parameters===
+*{{Para|description}} A brief description of the file contents, including any links to Wookieepedia pages.
+*{{Para|source}} Cite the source of the file, using [[:Category:Citation templates|citation templates]] or links to out-of-universe pages on Wookieepedia. Can include multiple sources.
+*{{Para|licensing}} Must use one of the [[:Category:Copyright templates|copyright templates]].
+*{{Para|cat artist}} Use category associated with the artist. Multiple can be added if necessary.
+*{{Para|cat licensee}} Use categories associated with the source parameter. If the source of the file is non-Star Wars related, then <code>skip</code> can be used. If the file is a screenshot of a social media post, use <code>social</code>.
+*{{Para|cat subject}} Use categories associated with the subject's description, for example [[:Category:Images of Han Solo]]. If the file is a screenshot of a social media post, use <code>social</code>.
+*{{Para|cat type}} Use categories that specify the [[:Category:Images by type|type of content]], for example [[:Category:Live-action images]]. However, some categories are automatically added based on the template used in the {{Para|licensing}} field, and in this case the parameter can be left blank.  If the file is a screenshot of a social media post, use <code>social</code>.
+
+<span style="color:red">If the {{Para|source}} or {{Para|licensing}} fields are left blank, the file will be categorized into [[:Category:Files with unknown source]] or [[:Category:Files with unknown copyright status]], respectively, and will be subject to deletion per the [[Wookieepedia:Files|Files policy]].</span>
+
+All categories shall be listed alphabetically, excluding words like "<code>the</code>" and "<code>a</code>".
+
+===Optional parameters===
+*{{Para|attention}} Can be used for messages such as {{tl|User-image}}. 
+*{{Para|artist}} Link to the artist's Wookieepedia page, if known/available. Multiple can be added if necessary.
+*{{Para|nonsw artist}}1 Remove the trigger to add the file into [[:Category:Files without artist categorization]]. Only to be used when the artist parameter features a person unrelated to ''Star Wars'', and thus outside the scope of Wookieepedia.
+*{{Para|filespecs}} Detail any changes to the file before it was uploaded to Wookieepedia, such as cropping, removal of text from speech bubbles, color/saturation etc.
+*{{Para|other versions}} Link other versions of the file, for instance, SVG counterparts.
+
+==Example(s)==
+{{Information
+|attention=Something might be maybe wrong! Or not!
+|description=Template for use on image pages and possible integration with the [[Special:Upload|image upload form]]
+|source=Modified merge of [[Commons:w:c:Template:Information|Wikimedia's Template:Information]] and [[Template:Character]]
+|artist=[[User:Xwing328|Xwing328]]
+|filespecs=I did this to that and the other thing.
+|licensing={{tl|Fairuse}}
+|other versions=[[Template:Information]]
+|cat artist=[[:Category:Images by artist]]
+|cat licensee=[[:Category:Images by licensee]]
+|cat subject=[[:Category:Images by subject]]
+|cat type=[[:Category:Images by type]]}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Infobox templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

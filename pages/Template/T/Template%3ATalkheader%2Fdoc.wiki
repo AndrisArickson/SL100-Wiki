@@ -1,0 +1,12 @@
+==Usage==
+<pre><nowiki>{{Talkheader}}</nowiki></pre>
+Results in:
+{{Talkheader}}
+<pre><nowiki>{{Talkheader|comment=This is a comment}}</nowiki></pre>
+Results in:
+{{Talkheader|comment=This is a comment}}
+
+'''See also: [[MediaWiki:Talkpagetext]].'''
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Talk page templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

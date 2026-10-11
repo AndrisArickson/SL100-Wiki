@@ -1,0 +1,7 @@
+<span title="This section header does not conform to the Out of Universe Layout Guide.">‡</span>{{#ifeq:{{NAMESPACE}}||[[Category:Unrecognized section headers on real-world media pages|{{PAGENAME}}]]}}<noinclude>
+
+This is a maintenance template to flag section headers on real-world media articles that are not permitted by the [[Wookieepedia:Layout Guide/Out-of-universe|Out of Universe Layout Guide]].
+
+*[[:Category:Unrecognized section headers on real-world media pages]]
+
+[[Category:Maintenance templates]]</noinclude>

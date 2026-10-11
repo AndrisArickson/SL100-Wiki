@@ -1,0 +1,7 @@
+In ''[[Battlefront: Twilight Company]]'', the [[rebel trooper]] [[Hazram Namir]] refers to [[Brand]] as a [[bounty hunter]] during the [[battle on Vir Aphshire]], which occurs concurrently with the [[Battle of Yavin]]. As {{#ifeq:{{PAGENAME}}|Inbrief|"Inbrief"|"[[Inbrief]]"}} establishes that Brand's [[bounty]] [[Hunting|hunter]] past was not known by other rebels until the [[battle of Allst Prime]], that battle must have taken place before the Battle of Yavin, which corresponds to before [[1 BBY]] per ''[[Star Wars: Galactic Atlas: Updated Edition]]''. Since the [[Alliance to Restore the Republic|Rebel Alliance]] participates in the battle of [[Allst Prime]], the battle must take place after the [[Declaration of the Rebel Alliance]], which ''[[Star Wars: Timelines]]'' places in [[2 BBY]]. Therefore, the battle of Allst Prime, and thus the main events of "Inbrief," must take place between 2 [['ABY-BBY' dating system|BBY]] and 1 BBY.<noinclude>
+
+==Usage==
+<code><nowiki>{{InbriefDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

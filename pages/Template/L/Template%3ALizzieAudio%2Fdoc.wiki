@@ -1,0 +1,25 @@
+This template is to be used for citing individual pages on [[Lizzie Audio]] [https://www.lizzie.audio official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{LizzieAudio|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.lizzie.audio/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{LizzieAudio|url=content/star-wars-legendes-kenobi|text=Star Wars - Légendes : Kenobi|archivedate=20250418192445}}</nowiki></code>
+
+Results in:
+
+{{LizzieAudio|url=content/star-wars-legendes-kenobi|text=Star Wars - Légendes : Kenobi|archivedate=20250418192445}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,13 @@
+==Usage==
+This template is used to document materials from the [[Living Force (roleplaying campaign)|''Living Force'']] roleplaying game by [[Wizards of the Coast]].
+
+<nowiki>{{LivingForce|AdventureName}}</nowiki>
+
+==Example==
+<pre>{{LivingForce|Jigsaw: Portrait of the Artist as a Young Rodian}}</pre>
+
+{{LivingForce|Jigsaw: Portrait of the Artist as a Young Rodian}}
+
+
+<includeonly>[[Category:Citation templates]]</includeonly>
+<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

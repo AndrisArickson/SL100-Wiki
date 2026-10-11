@@ -1,0 +1,13 @@
+{{Iumb
+| id = Recat
+| bg = #bbf 
+| image = [[File:Falconrepairs-hd.jpg|130px]] 
+| caption = This one goes here, that one goes there! 
+| message = Articles in this category are currently being recategorized. 
+| comment = Be aware when adding new articles to this category while this message is up. If you wish to know who is working on the category, please consult the <span class="plainlinks">[{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} edit history]</span> and the [[{{TALKPAGENAME}}|talk page]].
+}}<includeonly>[[Category:Categories undergoing recategorization|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Categories undergoing recategorization]]
+
+[[Category:Category maintenance templates]]</noinclude>

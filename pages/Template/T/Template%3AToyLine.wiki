@@ -1,0 +1,31 @@
+<infobox theme="Toy-line">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="start date"><label>Start date</label></data>
+        <data source="end date"><label>End date</label></data>
+        <data source="toy type"><label>Toy type</label></data>
+        <data source="series"><label>Series</label></data>	
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:ToyLine|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|publisher|start date|end date|toy type|series|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check=1|template_name=ToyLine}}<noinclude>[[category:Media infoboxes]]{{clear}}
+
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. 
+<pre><nowiki>
+{{ToyLine
+|image=
+|title=
+|publisher=
+|start date=
+|end date=
+|toy type=
+|series=
+}}
+</nowiki></pre></noinclude>

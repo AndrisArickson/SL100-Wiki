@@ -1,0 +1,23 @@
+{{ooumb
+| id = Policy
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|45px]]
+| caption = This tutorial is designed for use with Source Editor.
+| message = Source Editor is the official editor for Wookieepedia. To switch to Source Editor, go to the editing tab in [[Special:Preferences#mw-prefsection-editing|your preferences]].
+}}
+{| class="nounderlinelink tutorial" style="float:right; clear:right; margin:2px 0 2px 2px; padding:0; background-color:#F2F5FD; text-align:center; font-size:90%; border-radius:10px; border-spacing:10px; width:13em; overflow:hidden"
+!style="padding:10px"|[[File:Edit-pencil.png|100px]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Welcome, newcomers|Welcome, newcomers]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Editing tutorial: Padawan|Padawan tutorial]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Editing tutorial: Knight|Knight tutorial]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Editing tutorial: Master|Master tutorial]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Gadgets|Gadgets tutorial]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Editing tutorial: Engineer|Engineer tutorial]]
+|-
+|}<noinclude>{{Top|fprot|mprot}}[[Category:Navigation templates|TutorialNav]]</noinclude>

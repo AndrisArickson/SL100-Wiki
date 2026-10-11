@@ -1,0 +1,165 @@
+{{#switch:{{{1|}}}
+|S1=''[[Star Wars: Timelines]]'' dates the events of [[The Bad Batch Season 1|Season 1]] of ''[[Star Wars: The Bad Batch]]''{{#if: {{{2|}}}|, including {{{2}}},|}} to [[19 BBY]].
+|S2="[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Since the events of "[[The Clone Conspiracy]]" occur directly before "Truth and Consequences," it must also take place in 18 [['ABY-BBY' dating system|BBY]]. Therefore, all [[The Bad Batch Season 2|season 2]] of ''[[Star Wars: The Bad Batch]]'' episodes proceeding "The Clone Conspiracy" occur between [[19 BBY]] and 18 BBY, and all season 2 episodes set after "Truth and Consequences" must occur during or after 18 BBY.
+|S3="[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. The events of [[The Bad Batch Season 3|season 3]] of ''[[Star Wars: The Bad Batch]]''{{#if: {{{2|}}}|, including {{{2}}},|}} takes place after the episode, it must take place during or after 18 [['ABY-BBY' dating system|BBY]].
+|101
+|102
+|103
+|104
+|105
+|106
+|107
+|108
+|109
+|110
+|111
+|112
+|113
+|114
+|115
+|116=''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}
+ |101=Aftermath (episode){{!}}Aftermath
+ |102=Cut and Run
+ |103=Replacements
+ |104=Cornered
+ |105=Rampage (episode){{!}}Rampage
+ |106=Decommissioned
+ |107=Battle Scars
+ |108=Reunion
+ |109=Bounty Lost
+ |110=Common Ground
+ |111=Devil's Deal
+ |112=Rescue on Ryloth (episode){{!}}Rescue on Ryloth
+ |113=Infested
+ |114=War-Mantle
+ |115=Return to Kamino
+ |116=Kamino Lost
+ }}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[19 BBY]].
+|201
+|202
+|203
+|204
+|205
+|206=''[[Star Wars: Timelines]]'' dates the events of "[[Kamino Lost]]" to [[19 BBY]]. "[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Since "[[{{#switch:{{{1|}}}
+ |201=Spoils of War
+ |202=Ruins of War
+ |203=The Solitary Clone
+ |204=Faster
+ |205=Entombed
+ |206=Tribe
+}}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} takes place between these two episodes, it must occur between 19 [['ABY-BBY' dating system|BBY]] and 18 BBY.
+|207="[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Since the events of "[[The Clone Conspiracy]]{{#if: {{{2|}}}|," including {{{2}}},|"}} occur directly before "Truth and Consequences," it must also take place in 18 [['ABY-BBY' dating system|BBY]].
+|208="[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Therefore, the events of "Truth and Consequences{{#if: {{{2|}}}|," including {{{2}}},|"}} must take place in 18 [['ABY-BBY' dating system|BBY]].
+|209
+|210
+|211
+|212
+|213
+|214
+|215
+|216
+|301
+|302
+|303
+|304
+|305
+|306
+|307
+|308
+|309
+|310
+|311
+|312
+|313
+|314
+|315="[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Since "[[{{#switch:{{{1|}}}
+ |209=The Crossing
+ |210=Retrieval (episode){{!}}Retrieval
+ |211=Metamorphosis (episode){{!}}Metamorphosis
+ |212=The Outpost
+ |213=Pabu (episode){{!}}Pabu
+ |214=Tipping Point
+ |215=The Summit
+ |216=Plan 99 (episode){{!}}Plan 99
+ |301=Confined
+ |302=Paths Unknown
+ |303=Shadows of Tantiss
+ |304=A Different Approach
+ |305=The Return
+ |306=Infiltration (episode){{!}}Infiltration
+ |307=Extraction
+ |308=Bad Territory
+ |309=The Harbinger
+ |310=Identity Crisis
+ |311=Point of No Return (The Bad Batch){{!}}Point of No Return
+ |312=Juggernaut (episode){{!}}Juggernaut
+ |313=Into the Breach
+ |314=Flash Strike
+ |315=The Cavalry Has Arrived
+}}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} takes place after "Truth and Consequences," it must occur during or after 18 [['ABY-BBY' dating system|BBY]].
+|Epilogue=''[[Star Wars: Timelines]]'' dates the [[Declaration of the Rebel Alliance]] to [[2 BBY]]. ''Timelines'' also dates the [[Alliance to Restore the Republic|Rebel Alliance]]'s reorganization into the [[New Republic]] to [[4 ABY]]. Therefore, the epilogue of "[[The Cavalry Has Arrived]]{{#if: {{{2|}}}|," including {{{2}}},|"}} must occur between 2 [['ABY-BBY' dating system|BBY]] and 4 ABY.
+}}<noinclude>[[Category:Canon television dating citation templates]]
+
+==Usage==
+<nowiki>{{TBBDate|episode|event (optional)}}</nowiki>, where the episode or season uses the ID number (102 for "[[Cut and Run]]," 205 for "[[Entombed]]," etc).
+
+==Series dating==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|[[The Bad Batch Season 1|''The Bad Batch'' Season 1]]||<nowiki>{{TBBDate|S1}}</nowiki>||[[19 BBY]]||{{TBBDate|S1}}
+|-
+|[[The Bad Batch Season 2|''The Bad Batch'' Season 2]]||<nowiki>{{TBBDate|S2}}</nowiki>||During or after [[19 BBY]]||{{TBBDate|S2}}
+|-
+|[[The Bad Batch Season 3|''The Bad Batch'' Season 3]]||<nowiki>{{TBBDate|S3}}</nowiki>||During or after [[18 BBY]]||{{TBBDate|S3}}
+|-
+|"[[Aftermath (episode)|Aftermath]]"||<nowiki>{{TBBDate|101}}</nowiki>||[[19 BBY]]||{{TBBDate|101}}
+|-
+|"[[Cut and Run]]"||<nowiki>{{TBBDate|102}}</nowiki>||[[19 BBY]]||{{TBBDate|102}}
+|-
+|"[[Replacements]]"||<nowiki>{{TBBDate|103}}</nowiki>||[[19 BBY]]||{{TBBDate|103}}
+|-
+|"[[Cornered]]"||<nowiki>{{TBBDate|104}}</nowiki>||[[19 BBY]]||{{TBBDate|104}}
+|-
+|"[[Rampage (episode)|Rampage]]"||<nowiki>{{TBBDate|105}}</nowiki>||[[19 BBY]]||{{TBBDate|105}}
+|-
+|"[[Decommissioned]]"||<nowiki>{{TBBDate|106}}</nowiki>||[[19 BBY]]||{{TBBDate|106}}
+|-
+|"[[Battle Scars]]"||<nowiki>{{TBBDate|107}}</nowiki>||[[19 BBY]]||{{TBBDate|107}}
+|-
+|"[[Reunion]]"||<nowiki>{{TBBDate|108}}</nowiki>||[[19 BBY]]||{{TBBDate|108}}
+|-
+|"[[Bounty Lost]]"||<nowiki>{{TBBDate|109}}</nowiki>||[[19 BBY]]||{{TBBDate|109}}
+|-
+|"[[Common Ground]]"||<nowiki>{{TBBDate|110}}</nowiki>||[[19 BBY]]||{{TBBDate|110}}
+|-
+|"[[Devil's Deal]]"||<nowiki>{{TBBDate|111}}</nowiki>||[[19 BBY]]||{{TBBDate|111}}
+|-
+|"[[Rescue on Ryloth (episode)|Rescue on Ryloth]]"||<nowiki>{{TBBDate|112}}</nowiki>||[[19 BBY]]||{{TBBDate|112}}
+|-
+|"[[Infested]]"||<nowiki>{{TBBDate|113}}</nowiki>||[[19 BBY]]||{{TBBDate|113}}
+|-
+|"[[War-Mantle]]"||<nowiki>{{TBBDate|114}}</nowiki>||[[19 BBY]]||{{TBBDate|114}}
+|-
+|"[[Return to Kamino]]"||<nowiki>{{TBBDate|115}}</nowiki>||[[19 BBY]]||{{TBBDate|115}}
+|-
+|"[[Kamino Lost]]"||<nowiki>{{TBBDate|116}}</nowiki>||[[19 BBY]]||{{TBBDate|116}}
+|-
+|"[[Spoils of War]]"||<nowiki>{{TBBDate|201}}</nowiki>||Between [[19 BBY]] and [[18 BBY]]||{{TBBDate|201}}
+|-
+|"[[Tribe]]"||<nowiki>{{TBBDate|206}}</nowiki>||Between [[19 BBY]] and [[18 BBY]]||{{TBBDate|206}}
+|-
+|"[[The Clone Conspiracy]]"||<nowiki>{{TBBDate|207}}</nowiki>||[[18 BBY]]||{{TBBDate|207}}
+|-
+|"[[Truth and Consequences]]"||<nowiki>{{TBBDate|208}}</nowiki>||[[18 BBY]]||{{TBBDate|208}}
+|-
+|"[[The Crossing]]"||<nowiki>{{TBBDate|209}}</nowiki>||During or after [[18 BBY]]||{{TBBDate|209}}
+|-
+|"[[Plan 99 (episode)|Plan 99]]"||<nowiki>{{TBBDate|216}}</nowiki>||During or after [[18 BBY]]||{{TBBDate|216}}
+|-
+|"[[Confined]]"||<nowiki>{{TBBDate|301}}</nowiki>||During or after [[18 BBY]]||{{TBBDate|301}}
+|-
+|"[[The Cavalry Has Arrived]]"||<nowiki>{{TBBDate|315}}</nowiki>||During or after [[18 BBY]]||{{TBBDate|315}}
+|-
+|Epilogue||<nowiki>{{TBBDate|Epilogue}}</nowiki>||Between [[2 BBY]] and [[4 ABY]]||{{TBBDate|Epilogue}}
+|}</noinclude>

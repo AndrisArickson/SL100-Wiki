@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ILM
+|image=[[File:ILMlogo.svg|text-bottom|x18px|link=Industrial Light & Magic|class=darkmodeinvert]]
+|site_text=[[Industrial Light & Magic]]'s [https://www.ilm.com official website]
+|base_url=https://{{{subdomain|www}}}.ilm.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,12 @@
+{{Iumb
+| id = More-sources
+| bg = #F3F9FF
+| image = [[File:I find your lack of faith disturbing.png|100px]]
+| caption = I find your lack of sources disturbing.
+| message = This article needs to be provided with '''more sources''' and/or '''appearances''' to conform to a [[Wookieepedia:Manual of Style|higher standard]] of article quality.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles needing additional sources|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Articles needing additional sources]]
+
+[[Category:Maintenance templates]]</noinclude>

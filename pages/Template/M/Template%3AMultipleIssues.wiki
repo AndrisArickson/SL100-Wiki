@@ -1,0 +1,61 @@
+{{#invoke:Multiple issues|main|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|{{{8|}}}|{{{9|}}}|image={{{image|}}}|expandcontent={{{expandcontent|}}}|updatecontent={{{updatecontent|}}}}}<includeonly>{{SpecialCategorizer|[[Category:Articles with multiple issues]]|simple=1}}</includeonly><noinclude>{{Top|fprot}}
+
+==Usage==
+<code><nowiki>{{MultipleIssues|parameter 1|parameter 2|...|parameter 9|updatecontent=}}</nowiki></code>
+
+This template supports up to 9 of the following parameters, as well as an additional <code>updatecontent</code> parameter. It does not support {{Tl|NPOV}} or {{Tl|Tone}}.
+
+{| {{Prettytable}}
+|-
+|'''Parameter'''||'''Text'''||'''Maintenance template'''||'''Categorization'''
+|-
+|<code>catneeded</code>||This article belongs in one or more [[:Category:Star Wars|content categories]].||{{Tl|CatNeeded}}||[[:Category:Categoryless]]
+|-
+|<code>citation</code>||This article or section is in need of referencing per Wookieepedia's [[Wookieepedia:Sourcing|sourcing]] guidelines.||{{Tl|Citation}}||[[:Category:Articles needing citation]]
+|-
+|<code>cleanup</code>||This article or section needs to be '''cleaned up''' to conform to a higher standard of article quality.||{{Tl|Cleanup}}||[[:Category:Articles in need of cleanup]]
+|-
+|<code>cleanup-context</code>||Parts of this article do not provide enough context for readers unfamiliar with the subject to understand later content.||{{Tl|Cleanup-context}}||[[:Category:Articles needing context]]
+|-
+|<code>confirm</code>||This article's title or topic requires confirmation from the listed source(s).||{{Tl|ConfirmName}}||[[:Category:Articles with unconfirmed titles]]
+|-
+|<code>contradict</code>||Parts of this article are self-contradictory or confusing, and need to be edited for clarity.||{{Tl|Contradict}}||[[:Category:Self-contradictory articles]]
+|-
+|<code>disputed</code>||The factual accuracy of this article or section is disputed.||{{Tl|Disputed}}||[[:Category:Articles with accuracy disputes]]
+|-
+|<code>expand</code>||It is requested that this article, or a section of this article, be expanded.||{{Tl|Expand}}||[[:Category:Articles to be expanded]]
+|-
+|<code>image</code>||This article would benefit from the addition of one or more new images.||{{Tl|Image}}||[[:Category:Articles needing illustration]]
+|-
+|<code>moresources</code>||This article needs to be provided with '''more sources''' and/or '''appearances''' to conform to a [[Wookieepedia:Manual of Style|higher standard]] of article quality.||{{Tl|MoreSources}}||[[:Category:Articles needing additional sources]]
+|-
+|<code>oou</code>||This article contains inappropriate or misplaced [[Wookieepedia:Manual of Style#Out-of-universe|out-of-universe]] material or perspective.||{{Tl|OutOfUniverse}}||[[:Category:Articles needing out-of-universe cleanup]]
+|-
+|<code>plot</code>||This article's plot summary  is in need of attention. It may be missing or require expansion.||{{Tl|Plot}}||[[:Category:Articles that need plot summary]]
+|-
+|<code>redlink</code>||This article has an excess of redlinks in it.||{{Tl|Redlink}}||[[:Category:Articles with an excess of redlinks]]
+|-
+|<code>split</code>||This article should be split into either multiple articles accessible from a [[Wikipedia:Wikipedia:Disambiguation|disambiguation page]] or a set of articles.||{{Tl|Split}}||[[:Category:Articles to be split]]
+|-
+|<code>stayontarget</code>||This article concerns an out-of-universe subject and hence must adhere to the [[Wookieepedia:Layout Guide/Out-of-universe|Layout Guide for out-of-universe articles]].||{{Tl|StayOnTarget}}||[[:Category:Articles needing to Stay On Target]]
+|-
+|<code>tense</code>||This [[in-universe]] article, or parts of it, should be [[Help:Editing|edited]] to be in past tense, to conform to the [[Wookieepedia:Manual of Style|style]] of [[Wookieepedia]].||{{Tl|Tense}}||[[:Category:Articles with incorrect tense]]
+|-
+|<code>update</code>||Parts of this article have been identified as no longer being up to date.||{{Tl|Update}}||[[:Category:Articles in need of updating]]
+|-
+|<code>updatecontent=</code>||Parts of this article have been identified as no longer being up to date. The article needs to be updated with ''{{{updatecontent}}}''.||{{Tl|Update}}||[[:Category:Articles in need of updating]]
+|}
+
+Use either <code>update</code> or <code>updatecontent=</code>, not both.
+
+==Examples==
+<code><nowiki>{{MultipleIssues|cleanup|npov|tense|updatecontent=[[Ambush]]}}</nowiki></code>
+
+results in
+
+{{MultipleIssues|cleanup|npov|tense|updatecontent=[[Ambush]]}}
+
+==Categorization==
+*[[:Category:Articles with multiple issues]]
+
+[[Category:Maintenance templates]]

@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = StayOnTarget
+| bg = #F8EABA
+| image = [[File:Davish_krail.jpg|100px]]
+| caption = Stay on target.
+| message = This article concerns an out-of-universe subject and hence must adhere to the [[Wookieepedia:Layout Guide/Out-of-universe|Layout Guide for out-of-universe articles]].
+| comment = Please, keep the Biography section on real-world person articles limited exclusively to the person's ''Star Wars'' contributions.
+| reason = The following issues need cleanup
+| category = Category:Articles needing to Stay On Target
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles needing to Stay On Target]]}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{StayOnTarget|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles needing to Stay On Target]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

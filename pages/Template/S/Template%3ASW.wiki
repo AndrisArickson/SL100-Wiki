@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SW
+|image=[[File:SWCustom-2011.png|text-top|x16px|StarWars.com|link=StarWars.com]]
+|site_text=[[StarWars.com]]
+|base_url=https://{{{subdomain|www}}}.starwars.com
+|target_url={{{full_url|{{{url|}}}}}}
+|int={{{int|}}}
+|date={{{date|}}}
+|author={{{author|}}}
+|domain_not_allowed=1
+|base_url_to_check=starwars.com
+|use_lua_subpage=1
+}}{{#ifeq:{{#sub:{{{url|}}}|0|9}}|databank/|[[Category:Web citation template usages with invalid URL parameters]]|}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

@@ -1,0 +1,16 @@
+==Description==
+This template is used to link articles from [[w:c:indianajones|''Indiana Jones'' Wiki]].
+
+==Syntax==
+<code><nowiki>{{</nowiki>IndyWiki|''title'' (optional)}}</code>
+
+Replace "title" with the exact name of the article on the ''Indiana Jones'' Wiki, not the name here. If the name is the same on both wikis, it can be omitted. (Any "/Legends" in the Wookieepedia article name will be left off the ''Indiana Jones'' Wiki link.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the ''Indiana Jones'' Wiki link to change if our article is moved even if ''Indiana Jones'' Wiki's article remains at the same name.
+
+==Samples==
+<code><nowiki>{{IndyWiki|Short Round}}</nowiki></code> 
+
+results in...
+
+{{IndyWiki|Short Round|Short Round}}
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

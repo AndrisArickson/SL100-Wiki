@@ -1,0 +1,93 @@
+==Usage instructions==
+Add <nowiki>{{Top}}</nowiki> to the top of the article page.
+<pre class="wrap"><nowiki>
+{{Top}}
+</nowiki></pre>
+
+As standard, order the template's fields like so:
+<pre class="wrap"><nowiki>
+{{Top|btr|old|imp|reb|new|njo|lgc|real|rwp|rwm|fa|pfa|ffa|ga|pfa|fga|ca|pca|fca|protection level|can|leg|canon=Some article|legends=Some article|hide=1|italics=1|title=''Avenger''-class|italics2=1|title2=''Imperial''-class}}
+</nowiki></pre>
+
+====Titles====
+*italics - use to italicize the ''entire'' part of the article title that is not in parentheses.
+*title - use to ''partially'' italicize the part of the article title that is not in parentheses.
+*italics2 - use to italics the ''entire'' parenthetical descriptor
+*title2 - use to ''partially'' italicize the parenthetical descriptor
+*notitle - used to disable the title functionality, allowing for articles with mid-title parentheses to be unaffected.
+
+====[[Canon]]/[[Star Wars Legends|Legends]] specifications====
+*can - displays the canon banner. Only necessary on OOU articles; the canon banner is default for IU
+*leg - displays the Legends banner. Only necessary if the Legends banner is not already displayed by other criteria. These are: if an article has "/Legends" in its title, if an article has a canon counterpart with "/Canon" in its title, if the parameter "canon=" is used, or if an eras icon is used
+*legends -  page name of the Legends article for the subject; defaults to "PAGENAME/Legends" (unless the current article ends with "/Canon", in which case this is subtracted)
+*canon - page name of the canon article for the subject; defaults to subtracting "/Legends" from the current page name (unless this name lacks this suffix, in which case "/Canon" is added) 
+*noncanon - overrides the application of the Legends or Canon categories, preventing redundant categorization when the {{Tl|Noncanon}} template is used.
+*ncc - displays the non-canon banner with the black canon background
+*ncl - displays the non-canon banner with the yellow Legends background
+*ref - flags as a reference work
+*hide - hides the tab system, for use when the counterpart page is a redirect that is pending deletion
+
+Including a publishing era (see below) negates the use for type specification.
+
+====[[List of publishing eras|Publishing eras]]====
+Note: In-universe articles may not use parameters pertaining to publishing eras in the Top template. These parameters may only be used on out-of-universe articles.
+
+=====Canon=====
+*dotj - [[Dawn of the Jedi era]]
+*tor - [[Old Republic-era|The Old Republic era]]
+*thr - [[High Republic Era|The High Republic era]]
+*fotj - [[Republic Era|Fall of the Jedi era]]
+*rote - [[Imperial Era|Reign of the Empire era]]
+*aor - [[Galactic Civil War|Age of Rebellion era]]
+*tnr - [[New Republic Era|The New Republic era]]
+*rofo - [[First Order-Resistance War|Rise of the First Order era]]
+*cnjo - [[New Jedi Order Era|New Jedi Order era]]
+
+=====Legends=====
+*pre - [[Pre-Republic era]]
+*btr - [[Before the Republic]]
+*old - [[Old Republic era]]
+*imp - [[Rise of the Empire era]]
+*reb - [[Rebellion era]]
+*new - [[New Republic era]]
+*njo - [[New Jedi Order era]]
+*lgc - [[Legacy era]]
+*inf - [[Infinities]]
+
+====Other====
+*real - [[:Category:Real-world articles]]
+*rwp - [[:Category:Real-world people]]
+*rwm - [[:Category:Real-world media]]
+*rwc - [[:Category:Real-world companies]]
+*music - [[:Category:Real-world music]]
+*fa - [[Wookieepedia:Featured articles]]
+*pfa - Featured articles under probation
+*ffa - Articles stripped of "Featured article" status
+*ga - [[Wookieepedia:Good articles]]
+*pga - Good articles under probation
+*fga - Articles stripped of "Good article" status
+*ca - [[Wookieepedia:Comprehensive articles]]
+*pca - Comprehensive articles under probation
+*fca - Articles stripped of "Comprehensive article" status
+*notoc=1 - Prevents the table of contents from displaying
+*audio= - Allows for the linking of [[Wookieepedia:Audio articles archive|audio articles]]
+
+====[[Wookieepedia:Protection policy|Protection]] specifications====
+*fprot - Articles fully protected against editing and/or moving
+*sprot - Articles semi-protected against editing and/or moving
+*ssprot - Articles super-semi-protected against editing
+*mprot - Articles fully protected against moving only
+*uprot - Files fully protected against uploading only
+
+'''Note on banners''': This template will not display the Legends banners on any non-mainspace article or any article that includes "real" as one of its parameters. If you wish to override this (for example, a video game or novel article), add either "canon" or "legends" as one of the parameters in the template to generate the correct banner.
+
+'''Note on categories''': Featured, former featured, good, former good, comprehensive, former comprehensive, fully protected, semi-protected, super-semi-protected, move protected articles, and the upload protected files are added automatically to their respective categories: [[:Category:Wookieepedia Featured articles]], [[:Category:Wookieepedia former Featured articles]], [[:Category:Wookieepedia Good articles]], [[:Category:Wookieepedia former Good articles]], [[:Category:Wookieepedia Comprehensive articles]], [[:Category:Wookieepedia former Comprehensive articles]], [[:Category:Protected pages]], [[:Category:Semi-protected pages]], [[:Category:Super-semi-protected pages]], [[:Category:Move protected pages]], and [[:Category:Upload protected files]].
+
+'''Additional notes''': The options that include the suffix "prot" will automatically detect the actual protection level on the page (except "ssprot", which uses the AbuseFilter and thus must be checked manually). If the protection level does not match the icon used, the icon will not be displayed and the page will be automatically added to [[:Category:Pages with incorrect protection icons]]. Also, if the parameter does not match a valid option, the page will be placed into [[:Category:Pages with bad parameters in Template:Top]].
+
+==Example==
+<pre><nowiki>
+{{Top|imp|reb|new}}
+</nowiki></pre>
+
+<includeonly>[[Category:Top utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Utility template documentation|{{PAGENAME}}]]</noinclude>

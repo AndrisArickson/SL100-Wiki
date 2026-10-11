@@ -1,0 +1,53 @@
+<includeonly><div class="hidable start-hidden" style="text-align:center">
+{| style="width:50%"
+'''By type'''&nbsp;<span class="hidable-button"></span>
+{| id="appearancesTOC" style="padding:5px; border:1px solid #AAAAAA; -moz-border-radius:6px; margin:0 auto 4px auto"
+| style="padding:0 1em;{{#if:{{{people|}}}||color:gray; font-style:italic;}}" | {{#if:{{{people|}}}|[[#app_people|People]]|People}}
+| style="padding:0 1em;{{#if:{{{locations|}}}||color:gray; font-style:italic;}}" | {{#if:{{{locations|}}}|[[#app_ooulocations|Locations]]|Locations}}
+| style="padding:0 1em;{{#if:{{{organizations|}}}||color:gray; font-style:italic;}}" | {{#if:{{{organizations|}}}|[[#app_oouorganizations|Organizations]]|Organizations}}
+| style="padding:0 1em;{{#if:{{{media|}}}||color:gray; font-style:italic;}}" | {{#if:{{{media|}}}|[[#app_oouomedia|Media]]|Media}}
+| style="padding:0 1em;{{#if:{{{miscellanea|}}}||color:gray; font-style:italic;}}" | {{#if:{{{miscellanea|}}}|[[#app_oouomiscellanea|Miscellanea]]|Miscellanea}}
+|}
+|}
+<div class="hidable-content" style="clear:both; text-align:left">
+{| id="appearancesSection" style="width:100%" |
+{{#if:{{{people|}}}
+|<p name="app_people" id="app_people" style="font-weight:bold; font-size:larger">People</p>
+{{{!}} class="appearances"
+{{!}}
+{{{people|}}}
+{{!}}}
+|}}
+{{#if:{{{locations|}}}
+|<p name="app_ooulocations" id="app_ooulocations" style="font-weight:bold; font-size:larger">Locations</p>
+{{{!}} class="appearances"
+{{!}}
+{{{locations|}}}
+{{!}}}
+|}}
+{{#if:{{{organizations|}}}
+|<p name="app_oouorganizations" id="app_oouorganizations" style="font-weight:bold; font-size:larger">Organizations</p>
+{{{!}} class="appearances"
+{{!}}
+{{{organizations|}}}
+{{!}}}
+|}}
+{{#if:{{{media|}}}
+|<p name="app_ooumedia" id="app_ooumedia" style="font-weight:bold; font-size:larger">Media</p>
+{{{!}} class="appearances"
+{{!}}
+{{{media|}}}
+{{!}}}
+|}}
+{{#if:{{{miscellanea|}}}
+|<p name="app_ooumiscellanea" id="app_ooumiscellanea" style="font-weight:bold; font-size:larger">Miscellanea</p>
+{{{!}} class="appearances"
+{{!}}
+{{{miscellanea|}}}
+{{!}}}
+|}}
+|}
+</div></div>{{PreloadCat}}</includeonly>
+<noinclude>
+{{Documentation}}
+[[Category:Templates]]</noinclude>

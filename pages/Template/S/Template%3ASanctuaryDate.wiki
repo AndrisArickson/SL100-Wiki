@@ -1,0 +1,5 @@
+{{SW|url=news/the-bad-batch-sanctuary-novel-announce|text=''The Bad Batch'' is Back in ''Star Wars: Sanctuary'' - Cover Art Reveal}} establishes that the events of {{#ifeq:{{PAGENAME}}|Sanctuary: A Bad Batch Novel|''Sanctuary: A Bad Batch Novel''|''[[Sanctuary: A Bad Batch Novel]]''}} take place after the episode "[[Pabu (episode)|Pabu]]." "[[Truth and Consequences]]" features the official formation of the [[Stormtrooper Corps]], which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Since "Pabu" takes place after "Truth and Consequences," it must occur during or after 18 [['ABY-BBY' dating system|BBY]]. Therefore, the events of ''Sanctuary: A Bad Batch Novel''{{#if: {{{1|}}}|, including {{{1}}},|}} must also take place during or after 18 BBY.<noinclude>
+
+==Usage==
+<code><nowiki>{{SanctuaryDate|event (optional)}}</nowiki></code>
+[[Category:Canon dating citation templates]]</noinclude>

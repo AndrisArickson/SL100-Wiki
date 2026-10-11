@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=OfficialBlog
+|image=[[File:Star_Wars_Blog.png|text-top|x16px|link=Star Wars Blog]]
+|site_text=the [[Star Wars Blog|The Official ''Star Wars'' Blog]]
+|base_url={{#if:{{{old|}}}|https://starwarsblog.wordpress.com|http://starwarsblog.starwars.com/index.php}}
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site={{#if:{{{old|}}}||1}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

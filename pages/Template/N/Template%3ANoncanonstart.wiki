@@ -1,0 +1,13 @@
+<div class="spoiler metadata headerbackground">'''<span style="color:#B00; text-decoration:underline">Warning:</span>''' {{#if:{{{legends|}}}|The following section is '''[[Canon|non-canon]] within the [[Star Wars Legends|''Star Wars'' Legends]] continuity'''. It contains information explicitly released under the [[Infinities]] brand and/or confirmed to be non-canon by the author or [[Lucasfilm]]. Information exclusive to this section did not happen in the "proper" ''Star Wars'' Legends continuity.|The following section is '''[[Canon|non-canon]] with respect to the current ''Star Wars'' canon continuity'''. Information exclusive to this section did not happen in the "proper" ''Star Wars'' continuity.}}<includeonly>{{SpecialCategorizer|[[Category:Articles with non-canon elements]]}}</includeonly></div><noinclude>
+
+==Usage==
+Place <code><nowiki>{{Noncanonstart}}</nowiki></code> at the beginning of a segment of non-canon material, and <code>{{Tl|Noncanonend}}</code> at the end of the segment. Per [[Wookieepedia:Layout Guide/In-universe#Non-canon material|Wookieepedia's Layout Guide]], such material must appear under the article's '''Behind the scenes''' section. Use <code><nowiki>{{Noncanonstart|legends=1}}</nowiki></code> for [[Star Wars Legends|''Star Wars'' Legends]] articles.
+
+==Categorization==
+*[[:Category:Articles with non-canon elements]]
+
+{{Interlang
+|es=Plantilla:Nocanoninicio
+}}
+
+[[Category:Advisory templates|{{PAGENAME}}]]</noinclude>

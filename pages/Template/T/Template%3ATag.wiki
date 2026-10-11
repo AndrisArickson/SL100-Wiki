@@ -1,0 +1,77 @@
+<code class="nowrap">{{#switch:{{{2|pair}}}
+ |c|close  = <!--nothing-->
+ |s|single
+ |o|open
+ |p|pair   = &lt;{{{1|tag}}}{{#if:{{{params|}}}|&#32;{{{params}}}}}
+}}{{#switch:{{{2|pair}}}
+ |c|close  = {{{content|}}}
+ |s|single = &#32;&#47;&gt;
+ |o|open   = &gt;{{{content|}}}
+ |p|pair   = {{#ifeq:{{{1|tag}}}|!--||&gt;}}{{{content|...}}}
+}}{{#switch:{{{2|pair}}}
+ |s|single
+ |o|open   = <!--nothing-->
+ |c|close
+ |p|pair   = {{#ifeq:{{{1|tag}}}|!--|--&gt;|&lt;&#47;{{{1|tag}}}&gt;}}
+}}</code><noinclude>
+__NOTOC__
+==Description==
+This template provides a quick way to mention an [[wikipedia:XML|XML]]/[[wikipedia:HTML|HTML]]-style tag in a preformatted way. Mainly used in discussion/help pages.
+
+==Usage==
+ <nowiki>{{Tag|</nowiki>{{Var|name}}|{{Var|type}}<nowiki>|content=|params=}}</nowiki>
+
+===Required parameters===
+#{{Var|name}} The XML/HTML tag's name (e.g. <code>code</code>, <code>ref</code>, etc.) to display.
+#{{Var|type}} To indicate which tag type to use (default <code>p</code>):
+{| class="wikitable" style="width:700px"
+! Value
+! Output
+|-
+| style="text-align:center" | <code>p</code> || A matching pair of open/start and close/end tags (e.g. {{Tag|div|pair}}). To suppress the ellipsis ("...") between the tags, add an empty {{para|content}} parameter.
+|-
+| style="text-align:center" | <code>o</code> || An open/start tag (e.g. {{Tag|span|open}}).
+|-
+| style="text-align:center" | <code>c</code> || A close/end tag (e.g. {{Tag|span|close}}).
+|-
+| style="text-align:center" | <code>s</code> || A single tag (e.g. {{Tag|hr|single}}).
+|}
+
+===Optional parameters===
+*{{Para|content}} Text to place between open/start and close/end tags.
+*{{Para|params}} Parameters to be included as part of an open/start tag.
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <pre style="border:none; background:none">{{Tag|ref}}</pre> || {{Tag|ref}}
+|-
+| <pre style="border:none; background:none">{{Tag|ref|content=}}</pre> || {{Tag|ref|content=}}
+|-
+| <pre style="border:none; background:none">{{Tag|ref|content=hello}}</pre> || {{Tag|ref|content=hello}}
+|-
+| <pre style="border:none; background:none">{{Tag|font|content=foo}}</pre> || {{Tag|font|content=foo}}
+|-
+| <pre style="border:none; background:none">{{Tag|font|open}}</pre> || {{Tag|font|open}}
+|-
+| <pre style="border:none; background:none">{{Tag|font|open|content=hello}}</pre> || {{Tag|font|open|content=hello}}
+|-
+| <pre style="border:none; background:none">{{Tag|span|close|content=hello}}</pre> || {{Tag|span|close|content=hello}}
+|-
+| <pre style="border:none; background:none">{{Tag|span|pair|content=hello}}</pre> || {{Tag|span|pair|content=hello}}
+|-
+| <pre style="border:none; background:none">{{Tag|ref|open|params=group="note"}}</pre> || {{Tag|ref|open|params=group="note"}}
+|-
+| <pre style="border:none; background:none">{{Tag|references|single}}</pre> || {{Tag|references|single}}
+|-
+| <pre style="border:none; background:none">{{Tag|br|single}}</pre> || {{Tag|br|single}}
+|-
+| <pre style="border:none; background:none">{{Tag|!--|content=comment}}</pre> || {{Tag|!--|content=comment}}
+|}
+
+==Sources==
+{{Wikipedia|Template:Tag}}
+{{Wikipedia|Template:Tag/doc}}
+
+[[Category:Utility metatemplates]]</noinclude>

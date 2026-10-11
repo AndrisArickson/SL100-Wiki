@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWYouTube
+|archive=YouTube
+|image=[[File:The_star_wars_show_logo.svg|text-bottom|x18px|link=The Star Wars Show]]
+|site_text=the official ''[[Star Wars]]'' [https://www.youtube.com/c/StarWars YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|series=''[[The Star Wars Show]]'':
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation|SWYouTube/doc}}[[Category:YouTube series citation templates]]</noinclude>

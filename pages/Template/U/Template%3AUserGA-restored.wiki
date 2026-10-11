@@ -1,0 +1,16 @@
+{{Userbox|#801000|#F07C70|[[File:{{#if:{{{oldicon|}}}|GA-Icon-old.svg|GA-Icon.svg}}|40px]]|This user helped restore the article [[{{{1}}}|'''{{{2|{{{1}}}|}}}''']] to [[Wookieepedia:Good articles|Good status]].}}<includeonly>{{SpecialCategorizer|[[Category:Wookieepedians who have restored articles to Good status|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserGA-restored|{{Var|article}}|{{Var|formatted name}}}}</code> into your user page.
+
+===Required parameters===
+#{{Para||{{Var|article}}}} The article name.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|formatted name}}}} The display name of the article.</li>
+#{{Para|oldicon}} A flag to use the [[:File:GA-Icon-retro.svg|old Good article icon]] when set to <code>1</code>.
+
+==Categorization==
+*[[:Category:Wookieepedians who have restored articles to Good status]]
+
+[[Category:Wiki userboxes|GA-restored]]</noinclude>

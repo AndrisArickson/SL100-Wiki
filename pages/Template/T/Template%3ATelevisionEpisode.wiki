@@ -1,0 +1,64 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="series"><label>Series</label></data>
+        <data source="season"><label>Season</label></data>
+        <data source="episode"><label>Episode</label></data>
+        <data source="production"><label>Production No.</label></data>
+        <data source="screener"><label>Early screening</label></data>
+        <data source="airdate"><label>Air date</label><format><!--
+        -->{{#ifeq:{{lc:{{{airdate|}}}}}|none||{{#ifeq:{{lc:{{{airdate|}}}}}|future||{{#ifeq:{{lc:{{{airdate|}}}}}|canceled||{{#ifeq:{{lc:{{{airdate|}}}}}|cancelled||{{{airdate}}}}}}}}}}}<!--
+        --></format></data>
+        <data source="intl release"><label>International release</label></data>
+        <data source="runtime"><label>Run time</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="director"><label>Director(s)</label></data>
+        <data source="writer"><label>Writer(s)</label></data>
+        <data source="production company"><label>Production company</label></data>
+        <data source="guests"><label>Guest star(s)</label></data>	      
+    </group>
+    <group collapse="open">
+    	<header>Episode chronology</header>
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="canon_timeline"><label>Timeline&#32;<small>&#32;([[Canon]])</small></label></data>
+        <data source="legends_timeline"><label>Timeline&#32;<small>&#32;([[Star Wars Legends|Legends]])</small></label></data>
+        <data source="prev"><label>Prior episode</label></data>
+        <data source="next"><label>Next episode</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:TelevisionEpisode|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|series|season|episode|production|screener|airdate|intl release|runtime|director|writer|production company|guests|prev|next|optional=no_year_check,not_appearance|combo=timeline:canon_timeline:legends_timeline|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check={{{no_year_check|}}}|template_name=TelevisionEpisode}}<includeonly>{{AppMediaCat|not_appearance={{{not_appearance|}}}}}</includeonly><noinclude>[[Category:Television and video infoboxes]]{{clear}}
+
+==Usage==
+<pre>{{TelevisionEpisode
+|image=
+|title=
+|series=
+|season=
+|episode=
+|production=
+|early release=
+|screener=
+|airdate=
+|intl release=
+|runtime=
+|director=
+|writer=
+|production company=
+|guests=
+|timeline=
+|prev=
+|next=
+}}</pre>
+
+{{Interlang
+|tr=Şablon:Dizi bölümü
+}}
+</noinclude>

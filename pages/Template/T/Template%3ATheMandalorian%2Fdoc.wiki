@@ -1,0 +1,14 @@
+==Usage==
+Place the following code on the page and replace the "EPISODE TITLE" with the appropriate episode name.
+<nowiki>{{</nowiki>TheMandalorian|''EPISODE TITLE''}}
+
+==Example(s)==
+<code><nowiki>{{TheMandalorian|Chapter 1: The Mandalorian}}</nowiki></code>
+
+Results in: {{TheMandalorian|Chapter 1: The Mandalorian}}
+
+==Image==
+[[File:The-Mandalorian-logo.png|thumb|left|The Mandalorian series logo]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:TV citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

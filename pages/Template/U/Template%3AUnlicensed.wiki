@@ -1,0 +1,15 @@
+{{Ooumb
+| id = Ambig
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article contains information from an unlicensed [[Star Wars Legends|''Star Wars'' Legends]] source.
+| message = This article's subject originated in a source that was released outside of the [[Lucas Licensing]] process, and thus is considered non-canon by [[Lucasfilm]].
+}}<includeonly>{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Unlicensed media and sources|{{PAGENAME}}]]|[[Category:Articles from unlicensed sources|{{PAGENAME}}]]}}}}</includeonly><noinclude>
+
+==Instructions==
+Use this header template at the top of articles with information exclusively from unlicensed sources. For articles that have a mix of licensed and unlicensed elements, use {{Tl|Unlicensedstart}} and {{Tl|Unlicensedend}} in in-line text.
+
+==Categorization==
+*[[:Category:Articles from unlicensed sources]]
+*[[:Category:Unlicensed media and sources]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

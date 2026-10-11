@@ -1,0 +1,44 @@
+<infobox theme="Sport">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="createdby"><label>Created by</label></data>	
+        <data source="type"><label>Type of sport</label></data>	
+        <data source="regulator"><label>Regulating authority</label></data>	
+        <data source="associated"><label>Associated organizations</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Organizational information</header>
+        <data source="participants"><label>Number of participants</label></data>
+        <data source="teams"><label>Notable teams</label></data>	
+        <data source="players"><label>Notable players</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Other information</header>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Sport|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|createdby|type|regulator|associated|participants|teams|players|affiliation|ignore=name}}<noinclude>
+[[Category:Infobox templates]]
+
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+
+<pre><nowiki>{{Top}}
+{{Sport
+|image=
+|name=
+|createdby=
+|type=
+|regulator=
+|associated=
+|participants=
+|teams=
+|players=
+|affiliation=
+}}</nowiki></pre></noinclude>

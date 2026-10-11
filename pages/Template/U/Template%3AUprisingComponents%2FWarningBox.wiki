@@ -1,0 +1,5 @@
+<onlyinclude>{| class="noprint stub plainlinks headerbackground" style="padding:2px 10px;background:#FFE7CE none repeat scroll 0px 0px;border:1px solid #BBA38A;width:100%;text-align:left;font-size:14px;font-weight:normal;margin:0.5em"
+|-
+|[[File:Cmbox_important.png|link=|40px]] <u>'''Warning'''</u> This template provides {{#if:{{{title|}}}|{{#if:{{{templateTitle|}}}|&#34;'''{{{title|}}}'''&#34;&nbsp;|}}|}}values for the [[{{#if:{{{template|}}}|Template:{{{template|}}}|{{#if:{{{name|}}}|Template:UprisingComponents/{{lc:{{{name|}}}}}|{{{link}}}}}}}|{{#if:{{{templateTitle|}}}|{{{templateTitle|}}}|{{{title|{{{name}}}}}}}}]] template. {{{extra|}}}
+|}
+</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

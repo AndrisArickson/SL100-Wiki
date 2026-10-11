@@ -1,0 +1,9 @@
+<div class="spoiler metadata headerbackground">'''This section of the article assumes completion of a [[roleplaying game]] adventure seed or suggestion.'''</div><noinclude>
+
+==Description==
+To be placed before sections of articles that describe optional [[roleplaying game]] adventure seeds or suggestions.
+
+==Usage==
+Place <code><nowiki>{{RPGseed}}</nowiki></code> before the section describing the suggestion, and place <code>{{Tl|Endgame}}</code> after the section.
+
+[[Category:Advisory templates|{{PAGENAME}}]]</noinclude>

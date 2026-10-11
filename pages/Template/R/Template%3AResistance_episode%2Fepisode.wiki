@@ -1,0 +1,64 @@
+<includeonly>{{#if: {{{3|{{{noquotes|}}}}}}||"}}[[{{#switch: {{{1|{{{season|}}}}}}
+  | 1 = {{#switch: {{{2|{{{episode|}}}}}}
+    | 1 | 2 = The Recruit
+    | 3     = The Triple Dark
+    | 4     = Fuel for the Fire
+    | 5     = The High Tower
+    | 6     = The Children from Tehar
+    | 7     = Signal from Sector Six
+    | 8     = Synara's Score
+    | 9     = The Platform Classic
+    | 10    = Secrets and Holograms
+    | 11    = Station Theta Black (episode){{!}}Station Theta Black
+    | 12    = Bibo (episode){{!}}Bibo
+    | 13    = Dangerous Business
+    | 14    = The Doza Dilemma
+    | 15    = The First Order Occupation
+    | 16    = The New Trooper
+    | 17    = The Core Problem
+    | 18    = The Disappeared
+    | 19    = Descent (episode){{!}}Descent
+    | 20    = No Escape: Part 1
+    | 21    = No Escape: Part 2
+  }}
+  | 2 = {{#switch: {{{2|{{{episode|}}}}}}
+    | 1  = Into the Unknown
+    | 2  = A Quick Salvage Run
+    | 3  = Live Fire
+    | 4  = Hunt on Celsor 3
+    | 5  = The Engineer
+    | 6  = From Beneath
+    | 7  = The Relic Raiders
+    | 8  = Rendezvous Point (episode){{!}}Rendezvous Point
+    | 9  = The Voxx Vortex 5000
+    | 10 = Kaz's Curse
+    | 11 = Station to Station
+    | 12 = The Missing Agent
+    | 13 = Breakout
+    | 14 = The Mutiny
+    | 15 = The New World
+    | 16 = No Place Safe
+    | 17 = Rebuilding the Resistance
+    | 18 | 19 = The Escape (episode){{!}}The Escape
+  }}
+  | shorts = {{#switch: {{{2|{{{episode|}}}}}}
+    | 1  = The Search for Kaz
+    | 2  = Dart and Cover
+    | 3  = Neeku's Reward
+    | 4  = When Thieves Drop By
+    | 5  = Treasure Chest
+    | 6  = G-LN (episode){{!}}G-LN
+    | 7  = Bucket's Quest
+    | 8  = Unmotivated
+    | 9  = The Need for Speed
+    | 10 = Sixty Seconds to Destruction
+    | 11 = Buggle's Day Out
+    | 12 = The Rematch
+  }}
+  | #default = {{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Invalid Film parameter arguments]]|
+}}}}]]{{#if: {{{3|{{{noquotes|}}}}}}||"}}</includeonly><noinclude>
+{{Resistance episode|1|1}}
+
+For use as part of {{Tl|Resistance episode}}.
+
+[[Category:Dating citation templates]]</noinclude>

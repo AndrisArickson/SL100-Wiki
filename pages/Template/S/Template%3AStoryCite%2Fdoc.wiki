@@ -1,0 +1,10 @@
+==Usage==
+Place the following code on the page and replace the "STORY_NAME" and "BOOK_NAME" with the appropriate information. The fields "sformatted" and "bformatted" should be filled out when the displayed text for the story or book needs to be different than the article title. If the "manual" field is used, the italics around the book name are dropped. If the field "smanual" is used, the quotations around the story name are dropped.
+ <nowiki>{{</nowiki>StoryCite|story=STORY_NAME|stext=|book=BOOK_NAME|bformatted=|smanual=|manual=}}
+
+
+*<nowiki>{{StoryCite|book=Star Wars Galactic Adventures (2015)|story=Rescue from Jabba's Palace (Star Wars Galactic Adventures)|reprint=1}}</nowiki>
+*{{StoryCite|book=Star Wars Galactic Adventures (2015)|story=Rescue from Jabba's Palace (Star Wars Galactic Adventures)|reprint=1}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

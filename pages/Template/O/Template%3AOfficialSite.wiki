@@ -1,0 +1,4 @@
+<includeonly><span class="plainlinks">[[File:Globe.svg|text-top|x14px|class=darkmodeinvert]] {{#if:{{{link|}}}|{{{link|}}}&nbsp;|}}[{{{url}}} {{{text|Official website}}}]{{#if:{{{archivedate|}}}{{{archiveurl|}}}
+	|&nbsp;{{C|{{#if:{{{nolive|}}}|content now obsolete;&nbsp;|}}{{#if:{{{archivedate|}}}|[https://web.archive.org/web/{{{archivedate}}}/{{{url}}} backup link]|[{{{archiveurl}}} backup link]}}}}
+	|{{#if:{{{nobackup|}}}||&nbsp;<small>('''[https://web.archive.org/web/{{{url}}} no backup link provided!]'''</span>)</small>[[Category:Pages with missing permanent archival links]]}}
+}}{{#invoke:WebCite|detection|url={{{url|}}}|suppress={{{suppress|}}}}}</span></includeonly><noinclude>{{Documentation}}</noinclude>

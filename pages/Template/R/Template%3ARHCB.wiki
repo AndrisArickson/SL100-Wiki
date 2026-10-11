@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=RHCB
+|image=[[File:RandomHouseChildrensBooks.svg|text-top|x16px|link=https://www.rhcbooks.com]]
+|site_text=[[Random House|Random House Children's Books']] [http://www.rhcbooks.com/ official website]
+|base_url=https://{{{subdomain|www}}}.rhcbooks.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

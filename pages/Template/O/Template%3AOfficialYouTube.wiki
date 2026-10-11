@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=OfficialYouTube
+|archive=YouTube
+|image=[[File:YouTube.svg|baseline|x12px|link=https://www.youtube.com]]
+|site_text={{#if:{{{video|}}}|the official {{#if:{{{wplink|}}}|[[Wikipedia:{{{wplink|}}}|{{{wplink|}}}]]|{{#if:{{{link|}}}|[[{{{link|}}}|{{{name|{{{link|}}}}}}]]|{{{name|}}}}}}} [https://www.youtube.com/{{{channel|}}} YouTube channel]|[https://www.youtube.com YouTube]}}
+|base_url=https://www.youtube.com/{{#if:{{{video|}}}|{{{parameter|watch?v}}}=|}}
+|target_url={{{video|{{{channel}}}}}}
+|text={{#if:{{{video|}}}|{{{text|}}}|{{{name|}}}}}
+|name={{{name|{{{link|{{{wplink|}}}}}}}}}
+|is_profile={{#if:{{{video|}}}||1}}
+|use_lua_subpage=1
+|allow_unnamed=2
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

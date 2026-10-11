@@ -1,0 +1,15 @@
+{{SmallMB
+|image=[[File:Information icon.svg|50px]]
+|message='''This image was potentially subjected to some form of [[wikipedia:Image_editing|processing]] utilizing [[wikipedia:Artificial intelligence|AI (artificial intelligence)]] or conventional means (such as conventional or AI-driven [[wikipedia:Image scaling|upscaling]] and [[wikipedia:Noise reduction|noise reduction]]); although the existing processed image file is likely derived from an official [[Lucasfilm]]-licensed source'''. Pursuant to [[Wookieepedia]]'s [[Wookieepedia:Files|file policy]], the upload and exhibition of processed images from official sources '''is [[Wookieepedia:Files#Restoration_and_enhancement|permitted]]'''. <br />However if possible, it '''may be prudent to supersede the current image file''', '''with a new version not subjected to any such processing, by either''':
+*'''Re-uploading the unprocessed image separately via the [[Special:Upload|main file upload page]]''', and then '''nominating this image file to be [[Wookieepedia:Speedy deletions|speedily deleted]]''' by replacing this notice with the ''{{Tl|Delete}} template''.
+*'''OR, by uploading the unprocessed image as a new version of the current image file''', via the [[#filehistory|'''''file history''''']] section of this file page.
+'''Note that''' if a new version of this image '''has not''' been uploaded, please '''[[Wookieepedia talk:Images and media for deletion|do not nominate]] the current image for deletion'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:Images with upscaling or another form of processing from an official source|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Images with possible AI or conventional processing]]
+
+==See also==
+*[[Forum:CT:Upscaled images]]
+
+[[Category:File maintenance templates]]</noinclude>

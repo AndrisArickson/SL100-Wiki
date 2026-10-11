@@ -1,0 +1,15 @@
+{{#invoke:BaseCitation|main
+|mode=TV
+|image=[[File:Maul-Shadow-Lord-final-logo.png|text-top|x18px|link=Star Wars: Maul - Shadow Lord]]
+|series=Star Wars: Maul - Shadow Lord
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+<code><nowiki>{{MSL|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}</nowiki></code>
+
+
+[[Category:Star Wars: Maul - Shadow Lord|*]]
+[[Category:TV citation templates|MSL]]</noinclude>

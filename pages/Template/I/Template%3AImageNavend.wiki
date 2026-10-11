@@ -1,0 +1,14 @@
+|-
+| {{rb|#D8E9FC}}
+|}
+<noinclude>
+This is the <nowiki>{{ImageNavend}}</nowiki> template, which is used in conjunction with:
+*{{Tl|ImageNavbase}}
+*{{Tl|ImageNavstart}}
+*{{Tl|ImageNavaudio}}
+*{{Tl|ImageNavitalics}}
+*{{Tl|ImageNavplain}}
+*{{Tl|ImageNavquotes}}
+*{{Tl|ImageNavrow}}
+
+These templates can be used to create image category navboxes for media groups, such as a television show or multimedia project, which can be found [[:Category:Image category navigation templates by media|here]]. See [[:Template:StarWarsResistanceImages|this template]] for an example.[[Category:Image category navigation templates]]</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Minecraft
+|image=[[File:Minecraft-Favicon.svg|text-top|x18px|link=https://www.minecraft.net]]
+|site_text=''[[Minecraft]]''{{'}}s [https://www.minecraft.net official website]
+|base_url=https://www.minecraft.net
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

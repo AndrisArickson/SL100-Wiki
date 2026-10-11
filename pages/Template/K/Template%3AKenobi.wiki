@@ -1,0 +1,14 @@
+{{#invoke:BaseCitation|main|template=Kenobi
+|mode=TV
+|image=[[File:Obi-Wan_Kenobi_new_series_logo.png|text-top|x16px|link=Star Wars: Obi-Wan Kenobi]]
+|series=Star Wars: Obi-Wan Kenobi
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "EPISODE TITLE" with the appropriate episode name.
+<nowiki>{{</nowiki>Kenobi|''EPISODE TITLE''|''FORMATTED TITLE'' (optional)}}
+
+This template is intended to be used to cite information from the ''[[Star Wars: Obi-Wan Kenobi]]'' television show and to list episodes from the show in appearances
+
+[[Category:TV citation templates|{{PAGENAME}}]]</noinclude>

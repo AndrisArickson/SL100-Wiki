@@ -1,0 +1,8 @@
+<includeonly>({{ANvotes|{{#dpl:title={{{1|}}}|include={{#if:{{{removal|}}}|#Support removal|#Support}}|skipthispage=no}}|type=RFR|count=total}} users/{{ANvotes|{{#dpl:title={{{1|}}}|include={{#if:{{{removal|}}}|#Oppose removal|#Oppose}}|skipthispage=no}}|type=RFR|count=total}} users)</includeonly><noinclude>__NOTOC__
+==Usage instructions==
+<code><nowiki>{{RFRvotes|{{subst:FULLPAGENAME}}}}</nowiki></code>
+
+Note:
+*Use the actual fullpagename including namespace at the beginning, for example, '''Wookieepedia:Requests for user rights/{{USERNAME}}'''. <span style="color: red;">Do <u>NOT</u> use the magic word <nowiki>{{FULLPAGENAME}}</nowiki> on its own</span>, as the vote counts will be zero on pages such as [[Wookieepedia:Comprehensive article nominations]].
+
+[[Category:Status article templates]]</noinclude>

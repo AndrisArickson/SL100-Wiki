@@ -1,0 +1,241 @@
+{{#switch:{{{1|}}}
+|S1={{WebCite|url=https://www.ign.com/articles/2014/08/08/star-wars-rebels-exclusive-clip-spotlights-conflict-in-space|text=Star Wars Rebels Exclusive Clip Spotlights Conflict in Space|archivedate=20260217202628}} dates "[[The Machine in the Ghost]]" five [[Standard year|years]] before [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[5 BBY]] per ''[[Star Wars: Timelines]]''.
+|S3=According to {{InsiderCite|156|Star Wars Rebels Recounted|''Star Wars Rebels'' Recounted}}, "[[Entanglement]]" takes place between "[[Art Attack]]" and "[[Property of Ezra Bridger]]," which ''[[Star Wars: Timelines]]'' dates to [[5 BBY]].
+|S2
+|S4
+|101
+|102
+|103
+|104
+|105
+|106
+|107=''[[Star Wars: Timelines]]'' dates the events of {{#switch: {{{1}}}|S2="[[Art Attack]]"|S4="[[Property of Ezra Bridger]]"|101|102=''[[Star Wars Rebels: Spark of Rebellion]]''|103="[[Droids in Distress]]"|104="[[Fighter Flight]]"|105="[[Rise of the Old Masters]]"|106="[[Breaking Ranks]]"|107="[[Out of Darkness]]"}} to [[5 BBY]].
+|108
+|109
+|110
+|111
+|112
+|113
+|114
+|115
+|201
+|202
+|203
+|204
+|205
+|206
+|207
+|208
+|209=''[[Star Wars: Timelines]]'' dates the events of {{#switch: {{{1}}}|108="[[Empire Day (episode)|Empire Day]]"|109="[[Gathering Forces]]"|110="[[Path of the Jedi]]"|111="[[Idiot's Array (episode)|Idiot's Array]]"|112="[[Vision of Hope]]"|113="[[Call to Action]]"
+|114="[[Rebel Resolve]]"|115="[[Fire Across the Galaxy]]"|201|202|="[[The Siege of Lothal]]"|203="[[The Lost Commanders]]"|204="[[Relics of the Old Republic]]"|205="[[Always Two There Are]]"|206="[[Brothers of the Broken Horn]]"|207="[[Wings of the Master]]"|208="[[Blood Sisters]]"|209="[[Stealth Strike]]"}} to [[4 BBY]].
+|210
+|211
+|212
+|213
+|214
+|215
+|216
+|217
+|218
+|219
+|220
+|221
+|222=''[[Star Wars: Timelines]]'' dates the events of {{#switch: {{{1}}}|210="[[The Future of the Force]]"|211="[[Legacy (episode)|Legacy]]"|212="[[A Princess on Lothal]]"|213="[[The Protector of Concord Dawn]]"|214="[[Legends of the Lasat]]"|215="[[The Call]]"|216="[[Homecoming]]"|217="[[The Honorable Ones]]"|218="[[Shroud of Darkness]]"|219="[[The Forgotten Droid]]"|220="[[The Mystery of Chopper Base]]"|221|222="[[Twilight of the Apprentice]]"}} to [[3 BBY]].
+|301
+|302
+|303
+|304
+|305
+|306
+|307
+|308
+|309
+|310
+|311
+|312
+|313
+|314
+|315
+|316
+|317
+|318
+|319
+|320
+|321
+|322=''[[Star Wars: Timelines]]'' dates the events of {{#switch: {{{1}}}|301|302="[[Steps Into Shadow]]"|303="[[The Holocrons of Fate]]"|304="[[The Antilles Extraction]]"|305="[[Hera's Heroes]]"|306="[[The Last Battle]]"|307="[[Imperial Supercommandos]]"|308="[[Iron Squadron (episode)|Iron Squadron]]"|309="[[The Wynkahthu Job]]"|310="[[An Inside Man]]"|311="[[Visions and Voices]]"|312|313="[[Ghosts of Geonosis]]"|314="[[Warhead (episode)|Warhead]]"|315="[[Trials of the Darksaber]]"|316="[[Legacy of Mandalore]]"|317="[[Through Imperial Eyes]]"|318="[[Secret Cargo]]"|319="[[Double Agent Droid]]"|320="[[Twin Suns (episode)|Twin Suns]]"|321|322="[[Zero Hour]]"}} to [[2 BBY]].
+|401
+|402
+|403
+|404
+|405
+|406
+|407
+|408
+|409
+|410
+|411
+|412
+|413
+|414
+|415
+|416=''[[Star Wars: Timelines]]'' dates the events of {{#switch: {{{1}}}|401|402="[[Heroes of Mandalore]]"|403|404="[[In the Name of the Rebellion]]"|405="[[The Occupation]]"|406="[[Flight of the Defender]]"|407="[[Kindred]]"|408="[[Crawler Commandeers]]"|409="[[Rebel Assault]]"|410="[[Jedi Night]]"|411="[[DUME]]"|412="[[Wolves and a Door]]"|413="[[A World Between Worlds]]"|414="[[A Fool's Hope]]"|415|416="[[Family Reunion – and Farewell]]"}} to [[1 BBY]].
+|Epilogue={{AhsokaDate|102}} The epilogue to "[[Family Reunion – and Farewell]]" is featured in the episode.
+|=<!--do nothing if no parameter-->
+|#default={{#switch:{{FULLPAGENAME}}|Template:RebelsDate|#default=<span style="font-size: 1.5em; color: red">Template error: Invalid episode number passed into <nowiki>{{RebelsDate}}</nowiki>. See [[Template:RebelsDate|this page]] for instructions on how to properly use the template.</span>}}}}<noinclude>__NOTOC__
+
+==Description==
+This template is used to help date the events of the television series ''[[Star Wars Rebels]]''. To keep the site's articles up to date with canon sources, this template will be updated as new information is released.
+
+==Usage==
+Use the following code, making sure that it is properly formatted as a [[Wookieepedia:Sourcing|reference note]]. For the  televised episodes, "''EPISODE NUMBER''" should be a three-digit number, the first digit being the season number and the other two digits being the individual episode number, e.g., 105 for "[[Rise of the Old Masters]]" (Season 1, Episode 5).
+<nowiki><ref name="Date">{{</nowiki>RebelsDate|''EPISODE NUMBER''}}</ref>
+
+==Complete series dating==
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!width="25%"|Story !!width="25%"| Code !!width="50%"| Result
+|-
+|"[[The Machine in the Ghost]]"||<nowiki>{{RebelsDate|S1}}</nowiki>||{{RebelsDate|S1}}
+|-
+|"[[Art Attack]]"||<nowiki>{{RebelsDate|S2}}</nowiki>||{{RebelsDate|S2}}
+|-
+|"[[Entanglement]]"||<nowiki>{{RebelsDate|S3}}</nowiki>||{{RebelsDate|S3}}
+|-
+|"[[Property of Ezra Bridger]]"||<nowiki>{{RebelsDate|S4}}</nowiki>||{{RebelsDate|S4}}
+|-
+|''[[Star Wars Rebels: Spark of Rebellion]]''||<nowiki>{{RebelsDate|101}} or {{RebelsDate|102}}</nowiki>||{{RebelsDate|101}}
+|-
+|"[[Droids in Distress]]"||<nowiki>{{RebelsDate|103}}</nowiki>||{{RebelsDate|103}}
+|-
+|"[[Fighter Flight]]"||<nowiki>{{RebelsDate|104}}</nowiki>||{{RebelsDate|104}}
+|-
+|"[[Rise of the Old Masters]]"||<nowiki>{{RebelsDate|105}}</nowiki>||{{RebelsDate|105}}
+|-
+|"[[Breaking Ranks]]"||<nowiki>{{RebelsDate|106}}</nowiki>||{{RebelsDate|106}}
+|-
+|"[[Out of Darkness]]"||<nowiki>{{RebelsDate|107}}</nowiki>||{{RebelsDate|107}}
+|-
+|"[[Empire Day (episode)|Empire Day]]"||<nowiki>{{RebelsDate|108}}</nowiki>||{{RebelsDate|108}}
+|-
+|"[[Gathering Forces]]"||<nowiki>{{RebelsDate|109}}</nowiki>||{{RebelsDate|109}}
+|-
+|"[[Path of the Jedi]]"||<nowiki>{{RebelsDate|110}}</nowiki>||{{RebelsDate|110}}
+|-
+|"[[Idiot's Array (episode)|Idiot's Array]]"||<nowiki>{{RebelsDate|111}}</nowiki>||{{RebelsDate|111}}
+|-
+|"[[Vision of Hope]]"||<nowiki>{{RebelsDate|112}}</nowiki>||{{RebelsDate|112}}
+|-
+|"[[Call to Action]]"||<nowiki>{{RebelsDate|113}}</nowiki>||{{RebelsDate|113}}
+|-
+|"[[Rebel Resolve]]"||<nowiki>{{RebelsDate|114}}</nowiki>||{{RebelsDate|114}}
+|-
+|"[[Fire Across the Galaxy]]"||<nowiki>{{RebelsDate|115}}</nowiki>||{{RebelsDate|115}}
+|-
+|"[[The Siege of Lothal]]"||<nowiki>{{RebelsDate|201}} or {{RebelsDate|202}}</nowiki>||{{RebelsDate|201}}
+|-
+|"[[The Lost Commanders]]"||<nowiki>{{RebelsDate|203}}</nowiki>||{{RebelsDate|203}}
+|-
+|"[[Relics of the Old Republic]]"||<nowiki>{{RebelsDate|204}}</nowiki>||{{RebelsDate|204}}
+|-
+|"[[Always Two There Are]]"||<nowiki>{{RebelsDate|205}}</nowiki>||{{RebelsDate|205}}
+|-
+|"[[Brothers of the Broken Horn]]"||<nowiki>{{RebelsDate|206}}</nowiki>||{{RebelsDate|206}}
+|-
+|"[[Wings of the Master]]"||<nowiki>{{RebelsDate|207}}</nowiki>||{{RebelsDate|207}}
+|-
+|"[[Blood Sisters]]"||<nowiki>{{RebelsDate|208}}</nowiki>||{{RebelsDate|208}}
+|-
+|"[[Stealth Strike]]"||<nowiki>{{RebelsDate|209}}</nowiki>||{{RebelsDate|209}}
+|-
+|"[[The Future of the Force]]"||<nowiki>{{RebelsDate|210}}</nowiki>||{{RebelsDate|210}}
+|-
+|"[[Legacy (episode)|Legacy]]"||<nowiki>{{RebelsDate|211}}</nowiki>||{{RebelsDate|211}}
+|-
+|"[[A Princess on Lothal]]"||<nowiki>{{RebelsDate|212}}</nowiki>||{{RebelsDate|212}}
+|-
+|"[[The Protector of Concord Dawn]]"||<nowiki>{{RebelsDate|213}}</nowiki>||{{RebelsDate|213}}
+|-
+|"[[Legends of the Lasat]]"||<nowiki>{{RebelsDate|214}}</nowiki>||{{RebelsDate|214}}
+|-
+|"[[The Call]]"||<nowiki>{{RebelsDate|215}}</nowiki>||{{RebelsDate|215}}
+|-
+|"[[Homecoming]]"||<nowiki>{{RebelsDate|216}}</nowiki>||{{RebelsDate|216}}
+|-
+|"[[The Honorable Ones]]"||<nowiki>{{RebelsDate|217}}</nowiki>||{{RebelsDate|217}}
+|-
+|"[[Shroud of Darkness]]"||<nowiki>{{RebelsDate|218}}</nowiki>||{{RebelsDate|218}}
+|-
+|"[[The Forgotten Droid]]"||<nowiki>{{RebelsDate|219}}</nowiki>||{{RebelsDate|219}}
+|-
+|"[[The Mystery of Chopper Base]]"||<nowiki>{{RebelsDate|220}}</nowiki>||{{RebelsDate|220}}
+|-
+|"[[Twilight of the Apprentice]]"||<nowiki>{{RebelsDate|221}} or {{RebelsDate|222}}</nowiki>||{{RebelsDate|221}}
+|-
+|"[[Steps Into Shadow]]"||<nowiki>{{RebelsDate|301}} or {{RebelsDate|302}}</nowiki>||{{RebelsDate|301}}
+|-
+|"[[The Holocrons of Fate]]"||<nowiki>{{RebelsDate|303}}</nowiki>||{{RebelsDate|303}}
+|-
+|"[[The Antilles Extraction]]"||<nowiki>{{RebelsDate|304}}</nowiki>||{{RebelsDate|304}}
+|-
+|"[[Hera's Heroes]]"||<nowiki>{{RebelsDate|305}}</nowiki>||{{RebelsDate|305}}
+|-
+|"[[The Last Battle]]"||<nowiki>{{RebelsDate|306}}</nowiki>||{{RebelsDate|306}}
+|-
+|"[[Imperial Supercommandos]]"||<nowiki>{{RebelsDate|307}}</nowiki>||{{RebelsDate|307}}
+|-
+|"[[Iron Squadron (episode)|Iron Squadron]]"||<nowiki>{{RebelsDate|308}}</nowiki>||{{RebelsDate|308}}
+|-
+|"[[The Wynkahthu Job]]"||<nowiki>{{RebelsDate|309}}</nowiki>||{{RebelsDate|309}}
+|-
+|"[[An Inside Man]]"||<nowiki>{{RebelsDate|310}}</nowiki>||{{RebelsDate|310}}
+|-
+|"[[Visions and Voices]]"||<nowiki>{{RebelsDate|311}}</nowiki>||{{RebelsDate|311}}
+|-
+|"[[Ghosts of Geonosis]]"||<nowiki>{{RebelsDate|312}} or {{RebelsDate|313}}</nowiki>||{{RebelsDate|312}}
+|-
+|"[[Warhead (episode)|Warhead]]"||<nowiki>{{RebelsDate|314}}</nowiki>||{{RebelsDate|314}}
+|-
+|"[[Trials of the Darksaber]]"||<nowiki>{{RebelsDate|315}}</nowiki>||{{RebelsDate|315}}
+|-
+|"[[Legacy of Mandalore]]"||<nowiki>{{RebelsDate|316}}</nowiki>||{{RebelsDate|316}}
+|-
+|"[[Through Imperial Eyes]]"||<nowiki>{{RebelsDate|317}}</nowiki>||{{RebelsDate|317}}
+|-
+|"[[Secret Cargo]]"||<nowiki>{{RebelsDate|318}}</nowiki>||{{RebelsDate|318}}
+|-
+|"[[Double Agent Droid]]"||<nowiki>{{RebelsDate|319}}</nowiki>||{{RebelsDate|319}}
+|-
+|"[[Twin Suns (episode)|Twin Suns]]"||<nowiki>{{RebelsDate|320}}</nowiki>||{{RebelsDate|320}}
+|-
+|"[[Zero Hour]]"||<nowiki>{{RebelsDate|321}} or {{RebelsDate|322}}</nowiki>||{{RebelsDate|321}}
+|-
+|"[[Heroes of Mandalore]]"||<nowiki>{{RebelsDate|401}} or {{RebelsDate|402}}</nowiki>||{{RebelsDate|401}}
+|-
+|"[[In the Name of the Rebellion]]"||<nowiki>{{RebelsDate|403}} or {{RebelsDate|404}}</nowiki>||{{RebelsDate|403}}
+|-
+|"[[The Occupation]]"||<nowiki>{{RebelsDate|405}}</nowiki>||{{RebelsDate|405}}
+|-
+|"[[Flight of the Defender]]"||<nowiki>{{RebelsDate|406}}</nowiki>||{{RebelsDate|406}}
+|-
+|"[[Kindred]]"||<nowiki>{{RebelsDate|407}}</nowiki>||{{RebelsDate|407}}
+|-
+|"[[Crawler Commandeers]]"||<nowiki>{{RebelsDate|408}}</nowiki>||{{RebelsDate|408}}
+|-
+|"[[Rebel Assault]]"||<nowiki>{{RebelsDate|409}}</nowiki>||{{RebelsDate|409}}
+|-
+|"[[Jedi Night]]"||<nowiki>{{RebelsDate|410}}</nowiki>||{{RebelsDate|410}}
+|-
+|"[[DUME]]"||<nowiki>{{RebelsDate|411}}</nowiki>||{{RebelsDate|411}}
+|-
+|"[[Wolves and a Door]]"||<nowiki>{{RebelsDate|412}}</nowiki>||{{RebelsDate|412}}
+|-
+|"[[A World Between Worlds]]"||<nowiki>{{RebelsDate|413}}</nowiki>||{{RebelsDate|413}}
+|-
+|"[[A Fool's Hope]]"||<nowiki>{{RebelsDate|414}}</nowiki>||{{RebelsDate|414}}
+|-
+|"[[Family Reunion – and Farewell]]"||<nowiki>{{RebelsDate|415}} or {{RebelsDate|416}}</nowiki>||{{RebelsDate|415}}
+|-
+|Epilogue||<nowiki>{{RebelsDate|Epilogue}}</nowiki>||{{RebelsDate|Epilogue}}
+|}
+
+[[Category:Canon television dating citation templates]]
+</noinclude>

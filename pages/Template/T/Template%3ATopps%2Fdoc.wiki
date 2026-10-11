@@ -1,0 +1,85 @@
+This template is to be used for citing sets and cards produced by [[Topps]]
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Topps|set=|stext=|subset=|cardname=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the card set. This will create a link, so it must match the name of the article (or future article for redlinks.)
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Topps]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|stext}} Formatted name of the set.
+*{{Para|subset}} Name of a subset or insert set within a larger set.
+*{{Para|cardname}} Name of an individual card.
+*{{Para|link}} Full URL of an individual card's page on a website that displays its front and back, if available; for example, on [https://www.beckett.com Beckett] or [https://www.tcdb.com Trading Card Database].
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+===Single linked card with archive===
+<code><nowiki>{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600|archivedate=20210426010756}}</nowiki></code>
+
+Results in:
+
+{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600|archivedate=20210426010756}}
+
+<hr />
+
+===Single linked card with subset and archive===
+<code><nowiki>{{Topps|set=2015 Topps Journey to Star Wars: The Force Awakens|subset=Family Legacy|cardname=Satine Kryze & Bo-Katan Kryze|link=https://www.tcdb.com/ViewCard.cfm/sid/117209/cid/8006130/2015-Topps-Star-Wars-Journey-to-the-Force-Awakens---Family-Legacy-FL-8-Satine-Kryze-&-Bo-Katan-Kryze}}</nowiki></code>
+
+Results in:
+
+{{Topps|set=2015 Topps Journey to Star Wars: The Force Awakens|subset=Family Legacy|cardname=Satine Kryze & Bo-Katan Kryze|link=https://www.tcdb.com/ViewCard.cfm/sid/117209/cid/8006130/2015-Topps-Star-Wars-Journey-to-the-Force-Awakens---Family-Legacy-FL-8-Satine-Kryze-&-Bo-Katan-Kryze}}
+
+<hr />
+
+===Entire subset - no card===
+<code><nowiki>{{Topps|set=2007 Topps Star Wars 30th Anniversary|subset=Artist Sketch Cards by [[Katie Cook]]}}</nowiki></code>
+
+Results in:
+
+{{Topps|set=2007 Topps Star Wars 30th Anniversary|subset=Artist Sketch Cards by [[Katie Cook]]}}
+
+<hr />
+
+===Single card with no link===
+<code><nowiki>{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting}}</nowiki></code>
+
+Results in:
+
+{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting}}
+
+<hr />
+
+===Single linked card with no archive===
+<code><nowiki>{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600}}</nowiki></code>
+
+Results in:
+
+{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600}}
+
+<hr />
+
+===Single linked card with nobackup=1===
+<code><nowiki>{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Topps|set=2010 Topps Star Wars Galaxy Series 5|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600|nobackup=1}}
+
+<hr />
+
+===Missing set error===
+<code><nowiki>{{Topps|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Topps|cardname=The New Queen's Fitting|link=https://www.beckett.com/non-sports/2010/star-wars-galaxy-series-5/2-the-new-queens-fitting-7534600|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

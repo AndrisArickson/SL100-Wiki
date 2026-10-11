@@ -1,0 +1,11 @@
+{{Audible|url=pd/Star-Wars-Padawans-Pride-Audiobook/B0D9C77HBL|text=Star Wars: Padawan's Pride|date=2024-09-19}} states that {{#ifeq:{{PAGENAME}}|Padawan's Pride|''Padawan's Pride''|''[[Padawan's Pride]]''}} is set three [[Standard year|years]] after the events of {{Film|I}}, which ''[[Star Wars: Timelines]]'' dates to [[32 BBY]]. Therefore ''Padawan's Pride''{{#if:{{{1|}}}|, including {{{1}}},}} must take place in [[29 BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{PadawansPrideDate}}</nowiki></code>
+
+===Optional input===
+<code><nowiki>{{PadawansPrideDate|XYZ's death}}</nowiki></code>
+
+Changes the last sentence to "''Therefore, Padawan's Pride''', including INPUT, '''must take place in 29 BBY.''
+
+[[Category:Canon dating citation templates]]</noinclude>

@@ -1,0 +1,8 @@
+<div style="float:left; margin-left: 5px; height:35px;">https://static.wikia.nocookie.net/starwars/images/e/ee/Quote-audio.png/revision/latest/scale-to-width-down/35?cb=20250116042720</div><div style="margin-left:50px">'''<sm2>{{{1}}}</sm2> to a preview {{#if:{{{2|}}}| of {{{2}}}|}}<br />[[:File:{{{1}}}|(info)]]{{#if:{{{3|}}}|<small><br />{{{3}}}</small>|}}</div><div clear="left"></div><noinclude>
+==Usage==
+<code><nowiki>{{</nowiki>Listen3|''file_name''|''optional_title''|''optional_description''<nowiki>}}</nowiki></code>
+
+==See also==
+*[[Wookieepedia:Templates/Audio]]
+
+[[Category:Internal link templates|{{PAGENAME}}]][[Category:Media templates|{{PAGENAME}}]]</noinclude>

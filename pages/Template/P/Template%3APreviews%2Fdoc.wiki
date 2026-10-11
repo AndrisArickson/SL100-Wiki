@@ -1,0 +1,32 @@
+This template is used to cite individual pages from the official [https://www.previewsworld.com Previews World website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Previews|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.previewsworld.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Previews|url=Catalog/FEB210650|text=STAR WARS BOUNTY HUNTERS #11}}</nowiki></code>
+
+Results in:
+
+{{Previews|url=Catalog/FEB210650|text=STAR WARS BOUNTY HUNTERS #11}}
+
+<hr />
+<code><nowiki>{{Previews|url=Catalog/FEB210650|text=STAR WARS BOUNTY HUNTERS #11|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Previews|url=Catalog/FEB210650|text=STAR WARS BOUNTY HUNTERS #11|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=UniversalMusic
+|image=[[File:Universal-music-group-logo.png|baseline|x12px|link=https://{{{subdomain|www}}}.universal-music.{{{domain|com}}}]]
+|site_text=[[Universal Music Group]]'s [https://{{{subdomain|www}}}.universal-music.{{{domain|com}}} official website]
+|base_url=https://{{{subdomain|www}}}.universal-music.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

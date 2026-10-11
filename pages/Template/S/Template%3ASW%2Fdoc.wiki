@@ -1,0 +1,59 @@
+==Instructions==
+This template is to be used for [[StarWars.com]] content published, or still available, after the official site's [https://web.archive.org/web/20120103174843/http://www.starwars.com/news/newstarwarscom.html revamp] on [[September 13]], [[2011]] or after the revamp of early [[2014]]. Content from before this period is identifiable either by the use of .html in filename (<nowiki>http://www.starwars.com/patch/filename.html</nowiki>) or by the complete removal of a selection of the website sections (and url paths) by early 2014 (ex: Shop).
+
+{{SW|url=news/star-wars-valentines-day-gift-guide|text=''Star Wars'' Valentine's Day Gift Guide 2024|oldversion=20240515050634}}
+
+For content published prior to the 2011 and 2014 revamps and not available anymore at any time after the 2014 revamp, use {{Tl|SWArchive}}.
+
+For the original, pre-revamp [[Databank (original)|Databank]], use {{Tl|DB}}.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{SW|subdomain=|url=|text=|int=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://www.starwars.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/SW]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the URL between <code><nowiki>https://</nowiki></code> and <code><nowiki>.starwars.com/</nowiki></code> if its not <code><nowiki>www</nowiki></code>. Default is <code><nowiki>www</nowiki></code> if left blank.
+*{{Para|int}} This field provides a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|quote}} Relevant quote from the StarWars.com page. Double-quotes will be added automatically.
+*{{Para|oldversion}} Set to 1 when the information is not present on the current version of the webpage, necessitating a custom archivedate.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SW|url=news/star-wars-is-being-kick-started-with-dynamite|text=Star Wars Is Being Kick-Started with Dynamite|date=2013-01-25}}</nowiki></code>
+
+Results in:
+
+{{SW|url=news/star-wars-is-being-kick-started-with-dynamite|text=Star Wars Is Being Kick-Started with Dynamite|date=2013-01-25}}
+
+<hr />
+;int and nolive=1:
+
+<code><nowiki>{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion|date=2012-10-25|nolive=1}}</nowiki></code>
+
+Results in:
+
+{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion|date=2012-10-25|nolive=1}}
+
+<hr />
+;subdomain:
+
+<code><nowiki>{{SW|subdomain=shop|url=catalog/product.xml?topcatID=1300264;product_id=1314666;category_id=1300760|text=The Clone Wars Action Figure Case Pack 2009 Wave 7|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{SW|subdomain=shop|url=catalog/product.xml?topcatID=1300264;product_id=1314666;category_id=1300760|text=The Clone Wars Action Figure Case Pack 2009 Wave 7|nobackup=1}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

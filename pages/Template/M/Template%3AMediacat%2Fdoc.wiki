@@ -1,0 +1,54 @@
+This template is to be used for linking to the corresponding audio file and/or image categories if an article has any.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article (as outlined in the [[Wookieepedia:Layout_Guide/In-universe#Mediacat|Layout Guide]]), and fill in the required fields.
+
+<code><nowiki>{{Mediacat|from=|soundcat=|soundbycat=|imagecat=|imagebycat=}}</nowiki></code>
+
+===Required parameters===
+*At least one of the following:
+**'''soundcat''': Name of the audio file category, minus its namespace prefix (<code><nowiki>Category:</nowiki></code>).
+**'''soundbycat''': Name of the category for the audio files performed by the article subject, minus its namespace prefix (<code><nowiki>Category:</nowiki></code>).
+**'''imagecat''': Name of the category for the images of the article subject, minus its namespace prefix (<code><nowiki>Category:</nowiki></code>).
+**'''imagebycat''': Name of the category for the images by the article subject, minus its namespace prefix (<code><nowiki>Category:</nowiki></code>).
+
+For real-world media articles, {{Para|from}} should be used to alter the text and display of the template to indicate that the linked categories are for media ''from'' the subject.
+
+===Example(s)===
+<code><nowiki>{{Mediacat|soundcat=Audio files of Dave Filoni|imagecat=Images of Dave Filoni|imagebycat=Images by Dave Filoni}}</nowiki></code>
+
+Results in:
+
+{{Mediacat|soundcat=Audio files of Dave Filoni|imagecat=Images of Dave Filoni|imagebycat=Images by Dave Filoni}}
+{{Clear}}
+<hr />
+<code><nowiki>{{Mediacat|soundcat=Audio files of unidentified henchman (the Cauldron)|imagecat=Images of unidentified henchman (the Cauldron)}}</nowiki></code>
+
+Results in:
+
+{{Mediacat|soundcat=Audio files of unidentified henchman (the Cauldron)|imagecat=Images of unidentified henchman (the Cauldron)}}
+{{Clear}}
+<hr />
+<code><nowiki>{{Mediacat|soundcat=Audio files of Lita}}</nowiki></code>
+
+Results in:
+
+{{Mediacat|soundcat=Audio files of Lita}}
+{{Clear}}
+<hr />
+<code><nowiki>{{Mediacat|imagecat=Images of maps of the Vendusii sector}}</nowiki></code>
+
+Results in:
+
+{{Mediacat|imagecat=Images of maps of the Vendusii sector}}
+{{Clear}}
+<hr />
+<code><nowiki>{{Mediacat|imagebycat=Images by Cherriielle}}</nowiki></code>
+
+Results in:
+
+{{Mediacat|imagebycat=Images by Cherriielle}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internal link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

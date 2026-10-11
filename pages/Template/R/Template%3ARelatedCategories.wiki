@@ -1,0 +1,13 @@
+{{#invoke:RelatedCategories|main}}<noinclude>
+
+==Usage==
+This template is used to add category links to articles without actually adding the pages to the category. This is used in cases like with the [[Arkanis sector/Legends|Arkanis sector]] and [[:Category:Arkanis sector planets]], and the [[Imperial Guard]] and [[:Category:Imperial Guardsmen]]. The sector article is not a planet, and the organization is not an individual, but the categories are still related and relevant.
+
+The template should be placed at the bottom of the article, below the actual categories, and should be as follows (example is for the [[Arkanis sector/Legends|Arkanis sector]]):
+<pre>{{RelatedCategories
+|[[Category:Arkanis sector planets]]
+|[[Category:Arkanis sector stars]]
+|[[Category:Arkanis sector systems]]
+}}</pre>
+
+[[Category:Templates]]

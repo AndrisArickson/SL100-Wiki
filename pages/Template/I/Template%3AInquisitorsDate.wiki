@@ -1,0 +1,6 @@
+The events of {{#ifeq:{{PAGENAME}}|Star Wars: Inquisitors|''Star Wars: Inquisitors''|''[[Star Wars: Inquisitors]]''}} take place after the construction of [[Fortress Vader]] and before the events of ''[[Star Wars Jedi: Survivor]]''. As ''[[Star Wars: Timelines]]'' dates Fortress Vader's construction to [[12 BBY]] and ''Jedi: Survivor'' takes place in [[9 BBY]] per the reasoning [[Template:JediSurvivorDate|here]], the events of ''Inquisitors'' must take place between those [[Standard year|years]].<noinclude>
+
+==Usage==
+<code><nowiki>{{InquisitorsDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

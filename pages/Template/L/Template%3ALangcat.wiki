@@ -1,0 +1,21 @@
+This category is part of the Wookieepedia multilingual coordination project.
+
+To mark your skill in the [[Wikipedia:{{LangCode|mode=name|{{{1}}}}} language|{{LangCode|mode=name|{{{1}}}}} language]], put the following onto your user page:
+
+:<tt><nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|level}}</nowiki></tt>
+
+where "level" stands for:
+* '''0''' - {{LangText|{{{1}}}|0}}
+* '''1''' - {{LangText|{{{1}}}|1}}
+* '''2''' - {{LangText|{{{1}}}|2}}
+* '''3''' - {{LangText|{{{1}}}|3}}
+* '''4''' - {{LangText|{{{1}}}|4}}
+* '''U''' - {{LangText|{{{1}}}|U}}
+* '''E''' - {{LangText|{{{1}}}|E}}
+* '''F''' - {{LangText|{{{1}}}|F}}
+* '''N''' - {{LangText|{{{1}}}|N}}
+* '''P''' - {{LangText|{{{1}}}|P}}
+
+Please do not use more than one level for any one language.
+
+<includeonly>[[Category:Wookieepedia multilingual coordination|{{{1}}}]]</includeonly><noinclude>[[Category:Language templates|{{PAGENAME}}]]</noinclude>

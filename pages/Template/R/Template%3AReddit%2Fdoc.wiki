@@ -1,0 +1,29 @@
+==Instructions==
+This template is to be used for citing individual pages on [[Wikipedia:Reddit|Reddit]].
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{Reddit|url=|thread=|user=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.reddit.com/</nowiki></code>).
+*{{Para|thread}} Title of the thread where the Reddit post is being cited.
+
+====Optional parameters====
+*{{Para|user}} Username (''not'' real name) of the author of the post. May be wikilinked.
+*{{Para|date}} Date the Reddit post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Relevant quote from the Reddit post. Users are encouraged to utilize this optional field in the template whenever possible.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Reddit|url=r/StarWars/comments/5k6cq4/anybody_know_the_names_of_two_particular_star/dbme8sm|thread=Anybody know the names of two particular Star Destroyers that appear in Rogue One?|user=[[John Knoll|JohnKnoll]]|date=2016-12-25|quote=The two ships are the Persecutor and the Intimidator. Affectionately known to the crew at ILM as Timmy and Percy.|archiveurl=https://archive.ph/NWSzu}}</nowiki></code>
+
+Results in:
+
+{{Reddit|url=r/StarWars/comments/5k6cq4/anybody_know_the_names_of_two_particular_star/dbme8sm|thread=Anybody know the names of two particular Star Destroyers that appear in Rogue One?|user=[[John Knoll|JohnKnoll]]|date=2016-12-25|quote=The two ships are the Persecutor and the Intimidator. Affectionately known to the crew at ILM as Timmy and Percy.|archiveurl=https://archive.ph/NWSzu}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

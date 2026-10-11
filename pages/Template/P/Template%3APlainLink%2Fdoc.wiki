@@ -1,0 +1,13 @@
+===Usage===
+Paste the following code into the top of an article, filling all known fields:
+*<nowiki>{{PlainLink|url=//starwars.fandom.com}}</nowiki> gives {{PlainLink|url=//starwars.fandom.com}}
+*<nowiki>{{PlainLink|url=//starwars.fandom.com Wookieepedia}}</nowiki> gives {{PlainLink|url=//starwars.fandom.com Wookieepedia}}
+*<nowiki>{{PlainLink|url=//starwars.fandom.com|Wookieepedia}}</nowiki> gives {{PlainLink|url=//starwars.fandom.com|Wookieepedia}}
+*<nowiki>{{PlainLink|http://www.google.co.uk|Google}}</nowiki> gives {{PlainLink|http://www.google.co.uk|Google}}
+
+Note that if your url or link title contains an equals sign = you must use named parameters:
+
+<nowiki>{{PlainLink|url=//starwars.fandom.com/wiki/Luke_Skywalker?action=edit|name="=" }}</nowiki> gives {{PlainLink|url=//starwars.fandom.com/wiki/Luke_Skywalker?action=edit|name="=" }}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Utility template documentation|{{PAGENAME}}]]</noinclude>

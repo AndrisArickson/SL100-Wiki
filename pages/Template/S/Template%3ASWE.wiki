@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWE
+|image=[[File:Encyclopedia-Logo.jpg|StarWars.com Encyclopedia|link=Encyclopedia (StarWars.com)]]
+|site_text=the [[Encyclopedia (StarWars.com)|Encyclopedia]]
+|base_url=http://starwars.com/explore/encyclopedia
+|target_url={{{1|{{{category|}}}}}}/{{{2|{{{subject|}}}}}}
+|text={{{3|{{{text}}}}}}
+|separator=in
+|use_lua_subpage=1
+|defunct_site=1
+|allow_unnamed=3
+}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

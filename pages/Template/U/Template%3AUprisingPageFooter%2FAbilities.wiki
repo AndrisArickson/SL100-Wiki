@@ -1,0 +1,99 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<onlyinclude><table style="width:100%;border-collapse:collapse;table-layout:fixed;<noinclude>background-color:#000;</noinclude>"><!--
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em;border-top:0 none;max-width:30%;min-width:100px;width:-webkit-min-content;width:-moz-min-content;width:min-content;"><!--
+
+			--><div style="display:inline-block;vertical-align:text-bottom;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities#Passive2|Non-Combat Passive]]</div><!--
+			--><div style="display:inline-block;margin:3px -5px 0 5px;width:21px;"><div class="uprising-sprite filter-white passive-ability tiny"></div></div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.75em; line-height:145%;color:white;padding-left:1em;min-width:66%;border-top:0 none;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Cartel_Savvy|Cartel Savvy]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/In Demand|In Demand]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Insight|Insight]]<!--
+		--></td><!--
+	--></tr><!--
+
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em;"><!--
+			--><div style="display:inline-block;vertical-align:text-bottom;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities#Passive|Combat Passive]]</div><!--
+			--><div style="display:inline-block;margin:3px -5px 0 5px;width:21px;"><div class="uprising-sprite filter-white passive-ability tiny"></div></div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.75em; line-height:145%;color:white;padding-left:1em;min-width:66%;border-top:0 none;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Durable|Durable]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Evasion|Evasion]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Overcharge|Overcharge]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Relentless|Relentless]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Self-Preservation|Self-Preservation]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Streetwise|Streetwise]]<!--
+		--></td><!--
+	--></tr><!--
+	
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em;"><!--
+			--><div style="display:inline-block;vertical-align:text-bottom;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities#Directional|Directional]]</div><!--
+			--><div style="display:inline-block;margin:2px -5px 0 5px;width:21px;"><div class="uprising-sprite filter-white hand-swipe-left tiny"></div></div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.75em; line-height:145%;color:white;padding-left:1em;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Durasteel_Cutter|Durasteel Cutter]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Flamethrower|Flamethrower]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Hold_Out_Blaster|Hold Out Blaster]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Scatter_Gun|Scatter Gun]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Snipe|Snipe]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Wild_Swing|Wild Swing]]<!--
+		--></td><!--
+	--></tr><!--
+	
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em;"><!--
+			--><div style="display:inline-block;vertical-align:text-bottom;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities#Targeted|Targeted]]</div><!--
+			--><div style="display:inline-block;margin:2px -5px 0 5px;width:21px;"><div class="uprising-sprite filter-white hand-double-tap tiny"></div></div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.75em; line-height:145%;color:white;padding-left:1em;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Charge|Charge]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Cryo_Grenade|Cryo Grenade]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Diving_Roll|Diving Roll]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Exploit_Weakness|Exploit Weakness]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Grenade|Grenade]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Holographic_Decoy|Holographic Decoy]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Incendiary_Grenade|Incendiary Grenade]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Sticky_Bomb|Sticky Bomb]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Tox_Bolas|Tox Bolas]]<!--
+		--></td><!--
+	--></tr><!--
+	
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em;"><!--
+			--><div style="display:inline-block;vertical-align:text-bottom;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities#Self|Self]]</div><!--
+			--><div style="display:inline-block;margin:2px -5px 0 5px;width:21px;"><div class="uprising-sprite filter-white hand-self-tap tiny"></div></div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.75em; line-height:145%;color:white;padding-left:1em;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Absolve|Absolve]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Armor_Piercing|Armor Piercing]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Berserk|Berserk]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Caltrops|Caltrops]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Cleave|Cleave]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Cover_Smoke|Cover Smoke]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Crowd_Control|Crowd Control]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Ion_Wave|Ion Wave]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Powercell|Powercell]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Snare_Trap|Snare Trap]]<!--
+		--></td><!--
+	--></tr><!--
+	
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em;"><!--
+			--><div style="display:inline-block;vertical-align:text-bottom;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities#Ultimate|Ultimate]]</div><!--
+			--><div style="display:inline-block;margin:2px -5px 0 5px;width:21px;"><div class="uprising-sprite filter-white ultimate-ability tiny"></div></div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.75em; line-height:145%;color:white;padding-left:1em;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Barrage|Barrage]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Diplomatic_Protection|Diplomatic Protection]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Intimidate|Intimidate]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Minefield|Minefield]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Power_Knuckles|Power Knuckles]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Seeker_Droid_Swarm|Seeker Droid Swarm]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Shock_Strikes|Shock Strikes]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Supply_Cache|Supply Cache]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Think_Fast|Think Fast]]<!--
+		--></td><!--
+	--></tr><!--
+--></table></onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>}}

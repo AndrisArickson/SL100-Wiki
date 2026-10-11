@@ -1,0 +1,16 @@
+{{#invoke:BaseCitation|main|template=InsiderCite
+|mode=magazine
+|image=[[File:SWInsider.png|middle|50px|class=darkmodeinvert|link=Star Wars Insider]]
+|series=Star Wars Insider
+|parent={{#ifeq:{{{1|}}}|Digital Sampler Edition|Star Wars Insider: Digital Sampler Edition|{{{link|}}}}}
+|ptext={{{lformatted|}}}
+|issue={{{1|}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|nolink={{{nolink|}}}
+|noquotes={{{noquotes|}}}
+|reprint={{{reprint|}}}
+|abbr={{#ifeq:{{{reprint|}}}|2||''Star Wars Insider''}}
+}}<noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,45 @@
+This template is to be used on pages about subjects that have been represented in [[Sideshow Collectibles]] sets.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{SideshowCite|set=|text=|pack=|link=|altlink=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*One of the following two parameters:
+:*{{Para|link}} URL of the pack's web page, minus the domain name <code><nowiki>https://www.sideshow.com/</nowiki></code>.
+:*{{Para|altlink}} Full URL on another website.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|company}} Company other than Sideshow Collectibles that produced the collection
+*{{Para|text}} Formatted name of the collection.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Example(s)===
+<code><nowiki>{{SideshowCite|set=Star Wars Mythos|pack=Lomrokk|link=experience/entertainment/main-attractions/star-wars-page/star-wars-mythos/mythos-lomrokk/|archivedate=20130102015657}}</nowiki></code>
+
+Results in:
+
+{{SideshowCite|set=Star Wars Mythos|pack=Lomrokk|link=experience/entertainment/main-attractions/star-wars-page/star-wars-mythos/mythos-lomrokk/|archivedate=20130102015657}}
+
+<hr />
+<code><nowiki>{{SideshowCite|set=Sideshow Collectibles|text=Episode IV: ''A New Hope'' Diorama|pack=Diplomatic Mission|altlink=http://www.rebelscum.com/SSCDIODiplomaticMission.asp|archivedate=20150906145919}}</nowiki></code>
+
+Results in:
+
+{{SideshowCite|set=Sideshow Collectibles|text=Episode IV: ''A New Hope'' Diorama|pack=Diplomatic Mission|altlink=http://www.rebelscum.com/SSCDIODiplomaticMission.asp|archivedate=20150906145919}}
+
+<hr />
+<code><nowiki>{{SideshowCite|set=Acme Archives Art Prints|pack=Ahsoka Tano: Between Worlds|altlink=https://art.sideshow.com/art-prints/star-wars-ahsoka-tano-between-worlds-acme-archives-501211U}}</nowiki></code>
+
+Results in:
+
+{{SideshowCite|set=Acme Archives Art Prints|pack=Ahsoka Tano: Between Worlds|altlink=https://art.sideshow.com/art-prints/star-wars-ahsoka-tano-between-worlds-acme-archives-501211U}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

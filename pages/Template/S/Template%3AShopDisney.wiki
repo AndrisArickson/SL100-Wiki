@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ShopDisney
+|image=[[File:ShopDisneyLogo.svg|text-bottom|x16px|link=https://www.shopdisney.com|class=darkmodeinvert]]
+|site_text=the [[Wikipedia:Disney Store|Disney Store]] [https://www.shopdisney.com official website]
+|base_url=https://{{{subdomain|www}}}.shopdisney.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars: Galaxy's Edge: Traveler's Guide to Batuu|''Star Wars: Galaxy's Edge: Traveler's Guide to Batuu''|''[[Star Wars: Galaxy's Edge: Traveler's Guide to Batuu]]''}} establishes that at the [[time]] of the book's setting the [[Resistance]] was based on [[Batuu]]. ''[[Star Wars: Timelines]]'' dates both the establishment of the Batuu Resistance base and its eventual relocation to [[Ajan Kloss]] to [[34 ABY]]. Therefore, the [[in-universe]] [[Traveler's Guide to Batuu|guide]] must have been [[author]]ed that [[Standard year|year]].<noinclude>
+
+==Usage==
+<code><nowiki>{{TravelersGuidetoBatuuDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

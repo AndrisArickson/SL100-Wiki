@@ -1,0 +1,20 @@
+==Usage==
+<b style="color:red">!! This template currently creates extra whitespace. Please do not use it until this issue is fixed. !!</b><br />
+This template is used to create [[:Category:Stub templates|stub templates]].
+<pre>
+{{Stub_template
+|id=
+|image=
+|type=
+|category=
+|noexpand={{{noexpand|}}}
+}}
+</pre>
+
+Optionally, use {{param|noexpand}} with a non-empty value if you don't want to display "You can help Wookieepedia by expanding it.", which we recommend only in cases such as wrapping in {{Tl|Stub box}}.
+
+Optionally, use {{param|related}} with a non-empty value to say the article is "related to" {{param|type}} rather than "about" {{param|type}}.
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Utility templates|{{PAGENAME}}]]
+[[Category:Stub templates| ]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

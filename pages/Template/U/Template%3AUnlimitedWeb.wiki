@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=UnlimitedWeb
+|image=[[File:SWUnlimitedLogo.png|text-top|x16px|link=https://www.starwarsunlimited.com]]
+|site_text=[[Star Wars: Unlimited|''Star Wars'': Unlimited's]] [https://www.starwarsunlimited.com official website]
+|base_url=https://{{{subdomain|www}}}.starwarsunlimited.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

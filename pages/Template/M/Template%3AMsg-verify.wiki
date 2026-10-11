@@ -1,0 +1,7 @@
+Thank you for contributing to Wookieepedia! Please note that {{#if:{{{1|}}}|your edit to [[{{{1}}}]]|at least one of your recent additions}} added unverified information to a mainspace article. Additions to Wookieepedia's articles must be verifiable by a [[Wookieepedia:Attribution|reliable source]] per our [[Wookieepedia:Sourcing|sourcing policy]], and unverified information may be reverted or deleted. If you would like some help learning how to properly source additions, you can see [[Wookieepedia:Editing tutorial: Padawan#Citations|this tutorial]] or ask for assistance in our [[Wookieepedia:Discord|Discord server]]. Thanks! {{{2|}}}<!-- Template:Msg-verify --><noinclude>
+
+==Usage==
+Type <code><nowiki>{{subst:Msg-verify|</nowiki>{{Var|article name}}<nowiki>|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,15 @@
+{{Ooumb
+| id = RedactedTitle
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The title of this article has been redacted.
+| message = {{#switch:{{{1}}}
+|legends=Although this article is based on official information from the [[Star Wars Legends|''Star Wars'' Legends]] continuity,
+|noncanon=Although this article is based on official [[Canon|non-canon]] information,
+|Although this article is based on [[canon]]ical information,}} the actual name of this subject has been redacted due to being offensive and thereby in violation of [[Wookieepedia:User conduct policy#Discrimination|Fandom Terms of Use]], and it has been replaced by a name of pure conjecture.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with redacted titles|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Articles with redacted titles]]
+
+[[Category:Header templates]]</noinclude>

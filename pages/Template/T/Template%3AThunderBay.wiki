@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ThunderBay
+|image=[[File:ThunderBay-Favicon.png|text-top|x16px|link=https://www.thunderbaybooks.com]]
+|site_text=[[Thunder Bay Press]]'s [https://www.thunderbaybooks.com official website]
+|base_url=https://{{{subdomain|www}}}.thunderbaybooks.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

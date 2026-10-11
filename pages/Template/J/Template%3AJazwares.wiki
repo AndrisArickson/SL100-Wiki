@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Jazwares
+|image=[[File:Jazwares-Favicon.svg|text-bottom|x16px|link=https://shop.jazwares.com]]
+|site_text=[[Jazwares]]' [https://{{{subdomain|www}}}.jazwares.com official website]
+|base_url=https://{{{subdomain|www}}}.jazwares.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

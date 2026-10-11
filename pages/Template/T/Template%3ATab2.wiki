@@ -1,0 +1,24 @@
+<includeonly>| valign="top" class="{{#if:{{{bgcolor|}}}||darkbackground1}}" class="headerbackground" style="border-bottom:2px solid {{{bordercolor|#c6d9f0}}}; background-color:{{{bgcolor|#f2f5fd}}}; font-size:90%; line-height:0.95em; margin: 0; padding: 0; border-top-left-radius:10px; border-top-right-radius:10px; overflow:hidden" width="20" | <div style="padding: 0.5em;"><span style="color:{{{linkcolor|#2f6fab}}};">{{{1|Tab 2}}}</span></div>
+| style="border-bottom:2px solid {{{bordercolor|#c6d9f0}}}" width="3" |&#32;</includeonly><noinclude>
+<br clear="all" />
+==Usage==
+To create a set of tabs, use these four elements. Keep the page tabs in the same order on all pages, use "Tab1" for the current page, and use "Tab2" for all others.
+
+{{tl|TabsTop}}<br/>
+{{tlx|Tab1|Current page name}}<br/>
+{{tlx|Tab2|<nowiki>[[</nowiki>Other page name(s)<nowiki>]]</nowiki>}}<br/>
+{{tl|TabsBottom}}
+
+==Example==
+Using optional variables linkcolor, bgcolor, bordercolor (magenta, yellow, green in differing values in each Tab2):
+<code><nowiki>{{Tab2|Tab2|linkcolor=#d9138a|bgcolor=#e2d810|bordercolor=#19e65e}}</nowiki></code>
+
+Produces:<!--Currently not working correctly in dark mode; currently can't set linkcolor-->
+{{TabsTop}}
+{{Tab2|[[Template:TabsTop|TabsTop]]|linkcolor=#7a0b4d|bgcolor=#817b09|bordercolor=#0f8a38}}
+{{Tab2|[[Template:Tab1|Tab1]]|linkcolor=#d9138a|bgcolor=#e2d810|bordercolor=#19e65e}}
+{{Tab1|Tab2}}
+{{Tab2|[[Template:TabsBottom|TabsBottom]]|linkcolor=#f58ecc|bgcolor=#f8f391|bordercolor=#75f09e}}
+{{TabsBottom}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,8 @@
+[[File:MemoryAlphaIcon.png|link=w:c:memory-alpha:{{{1|{{PAGENAME}}}}}]] [[w:c:memory-alpha:{{{1|{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]] on [[Wikipedia:Memory Alpha|Memory Alpha]]<noinclude>
+
+==Usage==
+<pre>
+<nowiki>{{MA|url|text (optional)}}</nowiki>
+</pre>
+Where "url" is the name of the article on Memory Alpha (the part of the URL right after /wiki/), and "text" is what you wish to be the link text (this is to remove unnecessary things such as "(actor)" which may be a part of the article's name).
+[[Category:Interwiki link templates|MA]]</noinclude>

@@ -1,0 +1,7 @@
+Thank you for contributing to Wookieepedia! All good-faith contributions to Wookieepedia are appreciated, but we ask that you refer to our [[Wookieepedia:Files|Files policy]] and familiarize yourself with the sourcing and licensing requirements before uploading any more images or audio files. The only uploading method supported by Wookieepedia, [[Special:Upload]], will prompt you to enter this information. Thanks! {{{1|}}} <!-- Template:Upload1 (first level warning) --><noinclude>{{Top|sprot}}
+==Description==
+Upload warning notice for first offense by user with appropriate policy link on talk page. {{Tl|Upload2}} can be used for repeat offenders.
+
+==Usage==
+{{TestTemplatesNotice}}
+[[Category:User talk templates|Upload1]]</noinclude>

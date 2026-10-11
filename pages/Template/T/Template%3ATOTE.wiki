@@ -1,0 +1,10 @@
+{{#invoke:BaseCitation|main|template=TOTE
+|mode=TV
+|image=[[File:TalesoftheEmpire-logo.png|text-top|x18px|link=Star Wars: Tales of the Empire]]
+|series=Star Wars: Tales of the Empire
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+{{Documentation}}
+[[Category:TV citation templates]]</noinclude>

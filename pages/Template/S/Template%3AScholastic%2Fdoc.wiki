@@ -1,0 +1,36 @@
+This template is to be used for citing individual pages on [[Scholastic]]'s [http://www.scholastic.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Scholastic|subdomain=|domain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>http://www.scholastic.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, for example, <code>books</code> or <code>blogs</code>. (Defaults to <code>www</code> if not specified).
+*{{Para|domain}} When citing from an international Disney website such as <code><nowiki>https://disney.co.uk/</nowiki></code>. (Defaults to <code>.com</code> if not specified).
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Scholastic|subdomain=shop|url=parent-ecommerce/books/star-wars-the-complete-saga-9780545356312.html|text=Star Wars: The Complete Saga}}</nowiki></code>
+
+Results in:
+
+{{Scholastic|subdomain=shop|url=parent-ecommerce/books/star-wars-the-complete-saga-9780545356312.html|text=Star Wars: The Complete Saga}}
+
+<hr />
+<code><nowiki>{{Scholastic|subdomain=shop|url=parent-ecommerce/books/star-wars-the-complete-saga-9780545356312.html|text=Star Wars: The Complete Saga|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Scholastic|subdomain=shop|url=parent-ecommerce/books/star-wars-the-complete-saga-9780545356312.html|text=Star Wars: The Complete Saga|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

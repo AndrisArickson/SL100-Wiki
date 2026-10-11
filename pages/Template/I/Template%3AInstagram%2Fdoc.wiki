@@ -1,0 +1,57 @@
+==Usage==
+<code><nowiki>{{Instagram|username=|url=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===External links===
+<code><nowiki>{{Instagram|username=|name=}}</nowiki></code>
+
+'''Required parameters'''
+*{{Para|username}} Instagram nickname of author
+*{{Para|name}} Author being cited in the linked post. Supports wikilinks.
+Leaving <code>url</code> blank omits the backup link warning and the maintenance categorization.
+
+'''Optional parameters'''
+*Backup parameters; see below
+
+===References===
+<pre><nowiki>{{Instagram|username=|url=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=|archive_blocked=}}</nowiki></pre>
+
+Required parameters
+*{{Para|username}} Instagram nickname of author
+*{{Para|url}} Permanent URL to Instagram post, excluding the <code><nowiki>https://instagram.com/</nowiki></code> portion.
+*{{Para|name}} Author being cited in the linked post. Supports wikilinks.
+
+Optional parameters
+*{{Para|date}} Date the Instagram post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} A short excerpt from the citation for quick reference in the article.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Instagram|username=starwars|name=[[Star Wars]]|archivedate=20170601014300}}</nowiki></code>
+
+Results in:
+
+{{Instagram|username=starwars|name=[[Star Wars]]|archivedate=20170601014300}}
+
+<hr />
+<code><nowiki>{{Instagram|username=jakeluntdavies|url=p/BqN5uvDlyWJ|name=[[Jake Lunt Davies]]|date=2018-11-15|quote=So this week my contract ended on Star Wars EpIX….which kind of means after 5 years and 5 movies, I’ve finally finished on Star Wars. [&hellip;]|archiveurl=https://archive.is/CgTjc}}</nowiki></code>
+
+Results in:
+
+{{Instagram|username=jakeluntdavies|url=p/BqN5uvDlyWJ|name=[[Jake Lunt Davies]]|date=2018-11-15|quote=So this week my contract ended on Star Wars EpIX….which kind of means after 5 years and 5 movies, I’ve finally finished on Star Wars. [&hellip;]|archiveurl=https://archive.is/CgTjc}}
+
+<hr />
+<code><nowiki>{{Instagram|username=jakeluntdavies|url=p/CohxUHWq_SG|name=[[Jake Lunt Davies]]|archiveurl=https://archive.md/c1dyA|archivefile=File:JakeLuntDavies-RegineerTeedSpeciesTLJConcept-IG.png|archivefile2=File:JakeLuntDavies-TheMarshalAlien-IG.png|archivefile3=File:JakeLuntDavies-RegineerTeedSpeciesTFAConcept-IG.png|archivefile4=File:JakeLuntDavies-RegineerTeedSpeciesTFAConceptCloseup-IG.png}}</nowiki></code>
+
+Results in:
+
+{{Instagram|username=jakeluntdavies|url=p/CohxUHWq_SG|name=[[Jake Lunt Davies]]|archiveurl=https://archive.md/c1dyA|archivefile=File:JakeLuntDavies-RegineerTeedSpeciesTLJConcept-IG.png|archivefile2=File:JakeLuntDavies-TheMarshalAlien-IG.png|archivefile3=File:JakeLuntDavies-RegineerTeedSpeciesTFAConcept-IG.png|archivefile4=File:JakeLuntDavies-RegineerTeedSpeciesTFAConceptCloseup-IG.png}}
+
+==See also==
+[[File:Instagram-Logo.svg|thumb|right|90px|Not an orphan]]
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

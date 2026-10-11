@@ -1,0 +1,11 @@
+Please do not change or otherwise edit others' comments on talk pages or other discussion pages. Doing so violates the [[Wookieepedia:Talk page policy|talk page policy]]; all messages are part of the public record and must remain visible as they have been written by their authors. Thank you for your cooperation.{{<includeonly>subst:</includeonly>#if:{{{1|}}}|<p>{{{1}}}</p>}}<!-- Template:Msg-talkremove --><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-talkc|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+
+==See also==
+*{{Tl|Msg-talk}}
+*{{Tl|Msg-talka}}
+*{{Tl|Msg-talkr}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

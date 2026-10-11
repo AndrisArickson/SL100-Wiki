@@ -1,0 +1,70 @@
+<onlyinclude>{{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+-->|basename|name=Cortosis Scraps<!--
+-->|type=Material<!--
+-->|subtype=Disruption<!--
+-->|element=Disruption<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=This material protects against energy damage.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|<noinclude>5</noinclude>}}}}}}}}<!--
+	-->|perforated|perforatedcortosis scraps|perforated cortosis scraps|perforatedcortosisscraps|perforated cortosisscraps|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Perforated<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Perforated Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_01.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|pressed|pressedcortosis scraps|pressed cortosis scraps|pressedcortosisscraps|pressed cortosisscraps|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pressed<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Pressed Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_02.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|forged|forgedcortosis scraps|forged cortosis scraps|forgedcortosisscraps|forged cortosisscraps|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Forged<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Forged Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_03.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|plated|platedcortosis scraps|plated cortosis scraps|platedcortosisscraps|plated cortosisscraps|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Plated<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Plated Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_04.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|welded|weldedcortosis scraps|welded cortosis scraps|weldedcortosisscraps|welded cortosisscraps|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Welded<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Welded Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_05.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|fused|fusedcortosis scraps|fused cortosis scraps|fusedcortosisscraps|fused cortosisscraps|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Fused<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Fused Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_06.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|hardened|hardenedcortosis scraps|hardened cortosis scraps|hardenedcortosisscraps|hardened cortosisscraps|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Hardened<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Hardened Cortosis Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Disruption_07.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|fullname=Cortosis Scraps<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Material_Disruption_07.png<!--
+		-->}}<!--
+-->}}}}</onlyinclude><noinclude>[[Category:Material Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Cortosis Scraps}}</noinclude>

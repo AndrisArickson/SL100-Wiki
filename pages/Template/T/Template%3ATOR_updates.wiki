@@ -1,0 +1,137 @@
+{{#ifexpr: 1 < {{{1|0}}} and {{{1|0}}} <= 1.7
+	| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}}, the events depicted in post-launch Game Updates released in [[2012]] can be placed in [[3639 BBY]]. Therefore, the events of Game Update {{#switch: {{{1|}}}
+		| 1.1 = 1.1: Rise of the Rakghouls, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		| 1.2 = 1.2: Legacy, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		| 1.3 = 1.3: Allies, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		| 1.4 = 1.4: Terror From Beyond, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		| 1.5 = 1.5: HK-51 Activated, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		| 1.6 = 1.6: Ancient Hypergate, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		| 1.7 = 1.7: Return of the Gree, which was released in [[2012]], can be placed in 3639 [[Galactic Standard Calendar|BBY]].
+		|#default = {{{1|}}}
+	}}
+	|{{#ifexpr: 2 <= {{{1|0}}} and {{{1|0}}} <= 3.3
+		| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}}, ''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]'' takes place from early to mid [[3638 BBY]]{{#ifeq:{{{1|0}}}|2.0|.|, and further Game Updates that were released in [[2013]] take place in the latter half of that [[Standard year/Legends|year]]. The post also states that Game Updates released in [[2014]] can be placed in early and mid [[3637 BBY]], [[Star Wars: The Old Republic: Shadow of Revan|''Shadow of Revan'']] takes place near the end of that year, and that the events of Game Updates 3.1 through 3.3 can be placed in early and mid [[3636 BBY]]. Therefore, the events of Game Update {{#switch: {{{1|0}}}
+			| 2.0 = 2.0 and the Digital Expansion [[Star Wars: The Old Republic: Rise of the Hutt Cartel|''Rise of the Hutt Cartel'']] can be placed in 3638 [[Galactic Standard Calendar|BBY]].
+			| 2.2 = 2.2: Operation Nightmare, which was released in 2013, can be placed in 3638 [[Galactic Standard Calendar|BBY]].
+			| 2.3 = 2.3: Titans of Industry, which was released in 2013, can be placed in 3638 [[Galactic Standard Calendar|BBY]].
+			| 2.4 = 2.4: The Dread War, which was released in 2013, can be placed in 3638 [[Galactic Standard Calendar|BBY]].
+			| 2.5 = 2.5 and the 2013 release of the Digital Expansion [[Star Wars: The Old Republic: Galactic Starfighter|''Galactic Starfighter'']] can be placed in 3638 [[Galactic Standard Calendar|BBY]].
+			| 2.6 = 2.6 and the 2014 update to the Digital Expansion [[Star Wars: The Old Republic: Galactic Starfighter|''Galactic Starfighter'']] can be placed in 3637 [[Galactic Standard Calendar|BBY]].
+			| 2.7 = 2.7: Invasion, which was released in 2014, can be placed in 3637 [[Galactic Standard Calendar|BBY]].
+			| 2.8 = 2.8: Spoils of War, which was released in 2014, can be placed in 3637 [[Galactic Standard Calendar|BBY]].
+			| 2.9 = 2.9 and the 2014 Digital Expansion [[Star Wars: The Old Republic: Galactic Strongholds|''Galactic Strongholds'']] can be placed in 3637 [[Galactic Standard Calendar|BBY]].
+			| 2.10 = 2.10: Forged Alliances, which was released in 2014, can be placed in 3637 [[Galactic Standard Calendar|BBY]].
+			| 3.0 = 3.0 and the Digital Expansion [[Star Wars: The Old Republic: Shadow of Revan|''Shadow of Revan'']] can be placed near the end of 3637 [[Galactic Standard Calendar|BBY]].
+			| 3.1 = 3.1: Conflict on Rishi, which was released in early 2015, can be placed in 3636 [[Galactic Standard Calendar|BBY]], just prior to Chapter I of ''Fallen Empire''.
+			| 3.2 = 3.2: Rise of the Emperor can be placed in 3636 [[Galactic Standard Calendar|BBY]], just prior to Chapter I of ''Fallen Empire''.
+			| 3.3 = 3.3: Grand Togruta Celebration, which was released in early 2015, can be placed in approximately 3636 [[Galactic Standard Calendar|BBY]], just prior to Chapter I of ''Fallen Empire''.
+		}}}}
+		|{{#ifexpr: 4 = {{{1|0}}} 
+			| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}}, the first chapter of ''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]'' takes place in [[3636 BBY]] and the ninth chapter in [[3630 BBY]]. The expansion states that [[Alliance Commander|the Outlander]] woke up five [[Standard year/Legends|years]] after the events of the first chapter, placing Chapters II through VIII in [[3631 BBY]].
+			|{{#ifexpr: 4 < {{{1|0}}} and {{{1|0}}} < 5
+				| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}} the events of the ''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]'' from Chapter IX onwards and first wave of Alliance Alerts take place in [[3630 BBY]]. Therefore, Game Update {{#switch: {{{1|0}}}
+					| 4.1 = 4.1: Anarchy In Paradise, which saw the release of the expansion's Chapter X, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+					| 4.2 = 4.2: Disavowed, which saw the release of the expansion's Chapter XI, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+					| 4.3 = 4.3: Visions in the Dark, which saw the release of the expansion's Chapter XII, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+					| 4.4 = 4.4: Profits and Plunder, which saw the release of the expansion's Chapter XIII, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+					| 4.5 = 4.5: Mandalore's Revenge, which saw the release of the expansion's Chapter XIV, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+					| 4.6 = 4.6: The GEMINI Deception, which saw the release of the expansion's Chapter XV, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+					| 4.7 = 4.7: The Battle of Odessen, which saw the release of the expansion's Chapter XVI, can also be placed in 3630 [[Galactic Standard Calendar|BBY]].
+        }}
+		|{{#ifexpr: 5 = {{{1|0}}} 
+			| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}}, the events of ''[[Star Wars: The Old Republic: Knights of the Eternal Throne]]'' and Game Updates released in [[2016]] can be placed in [[3630 BBY]]. 
+			|{{#ifexpr: 5 < {{{1|0}}} and {{{1|0}}} < 6
+				| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}} the events of Game Updates released in [[2017]] can be placed in [[3629 BBY]], the events from Game Update 5.9 through 5.10 can be placed in [[3628 BBY]], and the events from Game Update 5.10.3 can be placed in [[3627 BBY]]. Therefore, the events of Game Update {{#switch: {{{1|0}}}
+					| 5.1 = 5.1: Defend the Throne can be placed in 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.2 = 5.2: The War for Iokath can be placed in 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.3 = 5.3: Sisters of Carnage, which was released in 2017, can be placed in 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.4 = 5.4: Crisis on Umbara can be placed in 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.5 = 5.5: United Forces Preparation, which was released in 2017, can be placed in 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.6 = 5.6: A Traitor Among the Chiss can be placed in 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.7 = 5.7: Legacy of the Creators can be placed around 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.8 = 5.8: Command Authority can be placed around 3629 [[Galactic Standard Calendar|BBY]].
+					| 5.9 = 5.9: The Nathema Conspiracy can be placed in 3628 [[Galactic Standard Calendar|BBY]].
+					| 5.10.0 = 5.10: Jedi Under Siege can be placed in 3628 [[Galactic Standard Calendar|BBY]].
+					| 5.10.1 = 5.10.1: The Wretched Hive can be placed in 3628 [[Galactic Standard Calendar|BBY]].
+					| 5.10.3 = 5.10.3: The Dantooine Incursion can be placed in 3627 [[Galactic Standard Calendar|BBY]].         }}
+		|{{#ifexpr: 6 = {{{1|0}}}
+			| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}} the events of ''[[Star Wars: The Old Republic: Onslaught]]'' take place in [[3627 BBY]].
+			|{{#ifexpr: 6 < {{{1|0}}} and {{{1|0}}} < 7
+				| According to {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}}, Game Update 6.1 takes place at the very beginning of [[3626 BBY]], and the next Game Update occurs within a couple of [[Standard week/Legends|weeks]]. Therefore, the events of Game Update {{#switch: {{{1|0}}}
+					| 6.1 = 6.1: Task at Hand take place at the beginning of 3626 [[Galactic Standard Calendar|BBY]].
+                    | 6.2 = 6.2: Echoes of Vengeance take place within the first two weeks of 3626 [[Galactic Standard Calendar|BBY]].
+                    | 6.3 = 6.3: The Dark Descent take place in early 3626 [[Galactic Standard Calendar|BBY]], as confirmed in {{TORweb|url=community/showthread.php?t=992539#edit9937284|text=When does Secrets of the Enclave take place?}}.
+				}}
+               |{{#ifexpr: 7 = {{{1|0}}}
+			          | According to {{TORweb|url=community/showthread.php?t=992539#edit9937284|text=When does Secrets of the Enclave take place?}}, content released in [[2021]] is set in [[3626 BBY]], and "events taking place in updates released in the same year IRL are generally meant to take place in the same year in-universe," meaning that content released in [[2022]] such as ''Legacy of the Sith'' is set in [[3625 BBY]]. Therefore, the events of Game Update 7.0: Legacy of the Sith can be placed around 3625 [[Galactic Standard Calendar|BBY]].
+			|{{#ifexpr: 7 < {{{1|0}}} and {{{1|0}}} < 8
+			          | According to {{TORweb|url=community/showthread.php?t=992539#edit9937284|text=When does Secrets of the Enclave take place?}}, content released in [[2021]] is set in [[3626 BBY]], and "events taking place in updates released in the same year IRL are generally meant to take place in the same year in-universe." Therefore, the events of Game Update {{#switch: {{{1|0}}}
+					| 7.1 = 7.1: Digging Deeper, released in [[2022]], take place around [[3625 BBY]].
+                    | 7.2 = 7.2: Showdown on Ruhnuk, released in [[2022]], take place around [[3625 BBY]].
+                    | 7.3 = 7.3: Old Wounds, released in [[2023]], take place around [[3624 BBY]].
+                    | 7.4 = 7.4: Chains in the Dark, released in [[2023]], take place around [[3624 BBY]].
+                    | 7.5 = 7.5: Desperate Defiance, released in [[2024]], take place around [[3623 BBY]].
+                    | 7.6 = 7.6: Galactic Threads, which had content released in [[2024]] and [[2025]], take place around [[3623 BBY]].
+                    | 7.7 = 7.7: Dynamic Worlds, released in [[2025]], take place around [[3622 BBY]].
+                    | 7.8 = 7.8: Pursuit of Ruin, released in [[2025]], take place around [[3622 BBY]].
+                    | 7.8.1 = 7.8.1: Master's Enigma, released in [[2026]], take place around [[3621 BBY]]. However, main story events take place around [[3622 BBY]] per additional reasoning [[Forum:CT:Dating future SWTOR story and Dynamic Encounters|here]].
+                    | 7.9 = 7.9: Legacy Reborn, released in [[2026]], take place around [[3621 BBY]]. However, main story events take place around [[3622 BBY]] per additional reasoning [[Forum:CT:Dating future SWTOR story and Dynamic Encounters|here]].
+                      }}}}}}}}
+                    }}
+				   }}
+               }}
+			}}
+		}}
+	}}
+}}<noinclude>
+
+==Description==
+This template provides detailed information about the in-universe date placement of game updates for ''[[Star Wars: The Old Republic]]''.
+
+==Usage==
+Use <code><nowiki>{{TOR_updates|patch}}</nowiki></code> as part of a [[Wookieepedia:Sourcing|reference note]] citing the in-universe year. For example, <code><nowiki>{{TOR_updates|6.3}}</nowiki></code> refers to Game Update 6.3: ''The Dark Descent'' and produces:
+
+<blockquote>
+{{TOR_updates|6.3}}
+</blockquote>
+
+==Dates==
+{| class="wikitable sortable" {{Prettytable}}
+! Patch !! Release !! Date !! Game Content
+|-
+| 1.1 &ndash; 1.7 || [[2012]] || [[3639 BBY]] || Pre&ndash;[[Star Wars: The Old Republic: Rise of the Hutt Cartel|''Rise of the Hutt Cartel'']] updates
+|-
+| 2.0 &ndash; 2.5 || [[2013]] || [[3638 BBY]] || ''Rise of the Hutt Cartel'' (early/mid), Oricon and [[Star Wars: The Old Republic: Galactic Starfighter|''Galactic Starfighter'']] (late [[3638 BBY]])
+|-
+| 2.6 &ndash; 3.0 || [[2014]] || [[3637 BBY]] || ''Forged Alliances'' (early/mid), [[Star Wars: The Old Republic: Shadow of Revan|''Shadow of Revan'']] (late [[3637 BBY]])
+|-
+| 3.1 &ndash; 3.3 || rowspan="2" | [[2015]] || [[3636 BBY]] || ''Rise of the Emperor'' prior to the events of ''[[Sacrifice (cinematic trailer)|''Sacrifice'']] and [[Star Wars: The Old Republic: Knights of the Fallen Empire|''Knights of the Fallen Empire'']]
+|-
+| 4.0 || 3636 BBY&ndash;[[3631 BBY]] || ''Knights of the Fallen Empire'' Chapter I starts [[3636 BBY]], ends with [[Alliance Commander|the Outlander]]'s awakening in [[3631 BBY]]
+|-
+| 4.1 &ndash; 5.0 || [[2016]] || [[3630 BBY]] || ''Knights of the Fallen Empire'' Chapter IX onward and first wave of Alliance Alerts in early [[3630 BBY]] with the rest of  ''Knights of the Fallen Empire'' and [[Star Wars: The Old Republic: Knights of the Eternal Throne|''Knights of the Eternal Throne'']] all by end of [[3630 BBY]]
+|-
+| 5.1 &ndash; 5.8 || [[2017]] || [[3629 BBY]] || [[War on Iokath]] in first half of [[3629 BBY]], with [[Crisis on Umbara|Umbara]] and [[Mission to Copero|Copero]] in late of the year
+|-
+| 5.9 &ndash; 5.10.0 || [[2018]] || [[3628 BBY]] || [[Mission to Nathema (Zildrog)|Nathema conspiracy]] in early [[3628 BBY]], with [[Invasion of Ossus]] in the end of the year, sparks the [[Third Galactic War]]
+|-
+| 5.10.3 || rowspan="2" | [[2019]] || rowspan="2" | [[3627 BBY]] || Hearts and Minds event takes place a few months after, in early/mid [[3627 BBY]]
+|-
+| 6.0 || [[Star Wars: The Old Republic: Onslaught|''Onslaught'']] expansion begins
+|-
+| 6.1 &ndash; 6.2 || [[2020]] || rowspan="2" | [[3626 BBY]] || ''Task at Hand'' at the beginning of [[3626 BBY]], ''Echoes of Vengeance'' follows within two weeks
+|-
+| 6.3 || [[2021]] || ''The Dark Descent'' in early 3626 BBY
+|-
+| 7.0 &ndash; 7.2 || [[2022]] || c. [[3625 BBY]] || [[Star Wars: The Old Republic: Legacy of the Sith|''Legacy of the Sith'']], ''Digging Deeper'', ''Showdown on Ruhnuk''
+|-
+| 7.3 &ndash; 7.4 || [[2023]] || c. [[3624 BBY]] || ''Old Wounds'', ''Chains in the Dark''
+|-
+| 7.5 &ndash; 7.6 || [[2024]] || c. [[3623 BBY]] || ''Desperate Defiance'', ''Galactic Threads''
+|-
+| 7.7 &ndash; 7.8 || [[2025]] || c. [[3622 BBY]] || ''Dynamic Worlds'', ''Pursuit of Ruin''<ref name="7.6 Note><code><nowiki>{{TOR_updates|7.6}}</nowiki></code> should be used for dating the ''Galactic Threads'' storyline that was released in 7.8.</ref> 
+|-
+| 7.8.1 &ndash; 7.9|| [[2026]] || rowspan="2" | c. [[3622 BBY]]<br />c. [[3621 BBY]]|| ''Master's Enigma'', ''Legacy Reborn'' (Main storylines in c. [[3622 BBY]], other content in c. [[3621 BBY]])
+|}
+==Notes==
+[[Category:Star Wars: The Old Republic dating citation templates]]</noinclude>

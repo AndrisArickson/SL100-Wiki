@@ -1,0 +1,9 @@
+<div class="spoiler metadata headerbackground">'''This section of the article assumes a specific path in {{#if:{{{1|}}}|the roleplaying adventure {{{1|}}}|a roleplaying adventure}}. Alternate paths may be noted in the "[[#Behind the scenes|Behind the scenes]]" section. Some of the events in this section have not been confirmed as [[canon]]ical{{#if:{{{canon|}}}||&nbsp;within the [[Star Wars Legends|''Star Wars'' Legends]] continuity}}.'''</div><noinclude>
+
+==Description==
+To be placed before sections of articles that describe specifically defined paths in a [[roleplaying game]], where such a choice has not specifically been declared canon.
+
+==Usage==
+Use the format <code><nowiki>{{RPG|</nowiki>{{Var|Wikilinked and formatted name of game}}}}</code> for a specific adventure. The {{Para|canon|1}} parameter should be used for [[Canon]] articles. Close assumption sections with <code>{{Tl|Endgame}}</code>.
+
+[[Category:Advisory templates|{{PAGENAME}}]]</noinclude>

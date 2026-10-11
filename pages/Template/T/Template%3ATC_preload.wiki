@@ -1,0 +1,22 @@
+{{Tctop}}
+
+=={{TClinks|{{<includeonly><includeonly></includeonly>subst:<includeonly></includeonly></includeonly>#sub:{{<includeonly><includeonly></includeonly>subst:<includeonly></includeonly></includeonly>PAGENAME}}|3}}}}==
+
+<!-- note that if you are creating this page at a title that has a nomination-specific parenthetical disambiguator, such as "Rex's resistance network (third nomination)", you should replace the above line with one that simply passes the article's title into the TClinks template, like "=={{TClinks|Rex's resistance network}}==" -->
+
+<!-- replace this and the above comment with your nomination reason, and modify the below voting options as needed
+(e.g. change "Delete" to "Turn [PAGENAME] into disambiguation") -->
+
+===Redirect to [PAGENAME]===
+
+===Delete===
+
+===Keep===
+
+===Comments===
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+__NOTOC__
+<includeonly>{{SpecialCategorizer|[[Category:Trash compactor nominations|{{<includeonly><includeonly></includeonly>subst:<includeonly></includeonly></includeonly>#sub:{{<includeonly><includeonly></includeonly>subst:<includeonly></includeonly></includeonly>PAGENAME}}|3}}]]}}</includeonly><noinclude>
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Preloads|{{PAGENAME}}]]</noinclude>

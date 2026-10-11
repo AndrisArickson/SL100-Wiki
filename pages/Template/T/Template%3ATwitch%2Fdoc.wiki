@@ -1,0 +1,56 @@
+This template is to be used for citing individual pages on [[Wikipedia:Twitch (service)|Twitch]].
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+===References===
+<code><nowiki>{{Twitch|subdomain=|video=|text=|channel=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|video}} URL of the VOD minus the domain (<nowiki>https://www.twitch.tv/videos/</nowiki>).
+*{{Para|text}} Name of the video being cited.
+*{{Para|channel}} URL for the Twitch channel, minus the website domain (<nowiki>https://www.twitch.tv</nowiki>).
+*{{Para|name}} The name of the Twitch channel.
+
+====Optional parameters====
+*{{Para|subdomain}} If the URL comtains a subdomain of <nowiki>https://www.twitch.tv</nowiki> other than <code>www</code>, such as <code><nowiki>https://games.twitch.tv</nowiki></code>, the subdomain can be specified for example, {{Para|subdomain}}<code>games</code>. Default is <code>www</code> if left blank.
+*{{Para|date}} Date the Twitch post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} The description of the "Video on demand" (VOD).
+
+====Backup links====
+{{BackupLinkHelp}}
+
+===Externals links===
+<code><nowiki>{{Twitch|channel=|name=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|subdomain}} If the URL comtains a subdomain of <nowiki>https://www.twitch.tv</nowiki> other than <code>www</code>, such as <code><nowiki>https://games.twitch.tv</nowiki></code>, the subdomain can be specified for example, {{Para|subdomain}}<code>games</code>. Default is <code>www</code> if left blank.
+*{{Para|channel}} Use the alphanumeric part of the URL that follows <code><nowiki>https://www.twitch.tv/</nowiki></code>.
+*{{Para|name}} The display name of the channel.
+
+==Example(s)==
+===References===
+<code><nowiki>{{Twitch|video=819923912|text=Sunday! Chat and then? We go Viking|channel=16biteric|name=16bitEric|date=2020-11-29|archiveurl=https://archive.vn/dqceP}}</nowiki></code>
+
+Results in:
+
+{{Twitch|video=819923912|text=Sunday! Chat and then? We go Viking|channel=16biteric|name=16bitEric|date=2020-11-29|archiveurl=https://archive.vn/dqceP}}
+
+<hr />
+<code><nowiki>{{Twitch|video=819923912|text=Sunday! Chat and then? We go Viking|channel=16biteric|name=16bitEric|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Twitch|video=819923912|text=Sunday! Chat and then? We go Viking|channel=16biteric|name=16bitEric|nobackup=1}}
+
+<hr />
+===Externals links===
+<code><nowiki>{{Twitch|channel=16biteric|name=16bitEric}}</nowiki></code>
+
+Results in:
+
+{{Twitch|channel=16biteric|name=16bitEric}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

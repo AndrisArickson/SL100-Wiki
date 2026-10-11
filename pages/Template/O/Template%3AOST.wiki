@@ -1,0 +1,10 @@
+{{#invoke:OST|main|target={{{1|}}}}}<noinclude>
+This template is a specialized display template for [[:Category:Soundtracks]], which have a fairly complex styling. It will automatically generate a formatted pipelink according to the soundtrack rules for any given article.
+
+*<nowiki>{{OST|Andor: Season 2 - Vol. 1 (Episodes 1-3) (Original Score)}}</nowiki>
+
+results in 
+
+*{{OST|Andor: Season 2 - Vol. 1 (Episodes 1-3) (Original Score)}}
+
+[[Category:Citation templates]]</noinclude>

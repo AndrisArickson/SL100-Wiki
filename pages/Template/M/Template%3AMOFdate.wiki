@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Reign of the Empire: Edge of the Abyss|''Reign of the Empire: Edge of the Abyss'|''[[Reign of the Empire: Edge of the Abyss]]''}} establishes its events take place thirteen [[Standard year|years]] after the events of {{#ifeq:{{PAGENAME}}|Reign of the Empire: The Mask of Fear|''Reign of the Empire: The Mask of Fear''|''[[Reign of the Empire: The Mask of Fear]]''}}. {{PenguinRandomHouse|url=books/755774/star-wars-edge-of-the-abyss-reign-of-the-empire-by-rebecca-roanhorse|text=Star Wars: Edge of the Abyss (Reign of the Empire)}} states that the events of ''Edge of the Abyss'' are set a year before the events of [[Andor Season 1|''Andor'' Season 1]], which take place in [[5 BBY]] per the reasoning [[Template:AndorDate|here]]. Therefore, the events of ''Edge of the Abyss'' must be set in [[6 BBY]], and the events of ''The Mask of Fear'' in [[19 BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{MOFdate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

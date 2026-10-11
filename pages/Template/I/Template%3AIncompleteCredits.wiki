@@ -1,0 +1,13 @@
+{| class="noprint stub"
+|-
+![[File:Wiki-shrinkable.png|25px]] This media's Credits list is incomplete. You can help Wookieepedia by [[Special:Edit/{{NAMESPACE}}:{{PAGENAME}}|expanding it]].
+|-
+|}<includeonly>[[Category:Incomplete Credits]]</includeonly><noinclude>
+
+==Usage==
+<pre><nowiki>{{IncompleteCredits}}</nowiki></pre>
+
+==Categorization==
+*[[:Category:Incomplete Credits]]
+
+[[Category:Maintenance templates]]</noinclude>

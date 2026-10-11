@@ -1,0 +1,19 @@
+<small>&mdash;''[[Wookieepedia:Signature policy|Unsigned]] comment by'' {{#if: {{{2|}}}|an anonymous user|[[User:{{{1}}}|{{{1}}}]]}}{{#if:{{{2|}}}|&nbsp;(|&nbsp;([[User talk:{{{1}}}|talk]]&nbsp;&bull;&nbsp;}}[[Special:Contributions/{{{1}}}|contribs]])</small><noinclude>
+{{clear}}
+==Usage instructions==
+<pre><nowiki>{{Unsigned|username}}</nowiki></pre>
+
+==Example==
+====Code====
+<code><nowiki>{{Unsigned|bob}}</nowiki></code>
+
+====Result====
+{{Unsigned|bob}}
+
+====Code====
+<code><nowiki>{{Unsigned|174.23.158.60|anon}}</nowiki></code>
+
+====Result====
+{{Unsigned|174.23.158.60|anon}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

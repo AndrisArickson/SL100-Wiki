@@ -1,0 +1,16 @@
+{| class="Talk-Notice headerbackground" style="background:#FBB7B7; border:3px solid #F00; padding:0.2em; margin:0 auto 3px auto; font-size:95%"
+| style="padding:0 4px;" | [[File:Dialog-error.svg|30px]]
+| <span style="font-size:medium">'''User warning: [[Fanon|Fanart]].'''</span>
+
+'''Please [[Wookieepedia:Canon policy|do not]] add your own fanart to Wookieepedia.''' 
+
+If you continue to add fanart to the site, you will be blocked from editing.
+
+Your input might be more welcome at the [[w:c:swfanon:Main Page|Star Wars Fanon Wiki]].{{#if:{{{1|}}}|<p>{{{1}}}</p>|}}
+|}<noinclude>{{Top|sprot}}
+==Usage==
+Type <code><nowiki>{{subst:Msg-fanon|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|Msg-fanon]]</noinclude>

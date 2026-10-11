@@ -1,0 +1,25 @@
+<tr><th colspan="2" style="padding:0 4px 0 4px; border-top:1px solid #AAAAAA; border-bottom:1px solid #AAAAAA; background:#D8E9FC; font-size:larger;">'''{{{title}}}'''</th></tr>
+<tr><td style="background:transparent;">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%;">
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:35%;">{{{before| }}}<br />{{#if:{{{before-years|}}}|({{{before-years}}})}}<br /><big>'''←'''</big></td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:30%;">
+'''{{{years}}}'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:35%;">{{{after| }}}<br />{{#if:{{{after-years|}}}|({{{after-years}}})}}<br /><big>'''→'''</big></td>
+</tr>
+</table>
+</td>
+</tr>
+<noinclude>{{Top|fprot}}
+
+'''Use the following code in the articles to create this portion of the succession box.'''
+<pre><nowiki>{{SuccessionBox
+|title=
+|years=
+|before=
+|before-years=
+|after=
+|after-years=
+}}</nowiki></pre>
+
+[[Category:Navigation templates|Succession box]]</noinclude>

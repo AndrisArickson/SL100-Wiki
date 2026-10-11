@@ -1,0 +1,15 @@
+==Usage instructions==
+Add {{Tl|IV}} to the top of the page to start a [[Wookieepedia:Consensus#Infobox image consensus votes|consensus vote]] to determine that article's main infobox image.
+
+In the event the page has undergone for an infobox image consensus votes one or more times previously, you will need to add the number of the vote as a parameter to the template (e.g. <code><nowiki>{{IV|second}}</nowiki></code>).
+
+==Categorization==
+*[[:Category:Pages undergoing an infobox image consensus vote]]
+
+==See also==
+*[[Forum:Consensus track]]
+*[[Forum:CT:Image vote tie-defaults and template]]
+*[[Forum:CT:Image vote for template Iv]]
+__EXPECTUNUSEDTEMPLATE__
+
+<includeonly>[[Category:Administrative templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

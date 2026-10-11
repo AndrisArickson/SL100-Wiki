@@ -1,0 +1,31 @@
+==Usage==
+This template is for listing a real-world person or organization's official website in the "[[Wookieepedia:Layout Guide#External links|External links]]" section of their article.
+
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+Replace the "entry number" and "entry name" with the appropriate information.
+
+<code><nowiki>{{OfficialSite|url=|text=|archivedate=|archiveurl=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} Full URL of the web page
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|text}} Custom text to display, overriding the default '''Official website'''
+*{{Para|nolive}} If the original online content is no longer available, use of "<code>|nolive=1</code>". 
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Standard use
+<code><nowiki>{{OfficialSite|url=https://www.flyingarmadillo.com|archivedate=20210410191853}}</nowiki></code>
+
+Results in:
+
+{{OfficialSite|url=https://www.flyingarmadillo.com|archivedate=20210410191853}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

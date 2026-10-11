@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=TitanComics
+|image=[[File:RedTitanThingy.png|text-top|x16px|link=https://titan-comics.com]]
+|site_text=[[Titan Magazines|Titan Comics]]' [https://titan-comics.com official website]
+|base_url=https://{{{subdomain|www}}}.titan-comics.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

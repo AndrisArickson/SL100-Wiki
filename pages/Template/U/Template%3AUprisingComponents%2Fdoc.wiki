@@ -1,0 +1,44 @@
+==Templates==
+* [[Template:UprisingComponents]]
+* [[Template:UprisingComponents/Main]]
+* [[Template:UprisingComponents/Names]]
+* [[Template:UprisingComponents/doc]]
+* [[Template:UprisingComponents/BoxRow]]
+* [[Template:UprisingComponents/BoxStarRow]]
+* [[Template:UprisingComponents/SubtypeIcon]]
+* [[Template:UprisingComponents/LevelColor]]
+* [[Template:UprisingComponents/RightCol]]
+* [[Template:UprisingComponents/EditThisComponent]]
+
+
+==Template Data==
+* [[Template:UprisingComponents/crystal_agrocite]]
+* [[Template:UprisingComponents/crystal_aurodium]]
+* [[Template:UprisingComponents/crystal_berubium]]
+* [[Template:UprisingComponents/crystal_carbonite]]
+* [[Template:UprisingComponents/crystal_chunah]]
+* [[Template:UprisingComponents/crystal_dathomite]]
+* [[Template:UprisingComponents/crystal_electrum]]
+* [[Template:UprisingComponents/crystal_havod]]
+* [[Template:UprisingComponents/crystal_kiax]]
+* [[Template:UprisingComponents/crystal_lanthanide]]
+* [[Template:UprisingComponents/crystal_lothalite]]
+* [[Template:UprisingComponents/material_cortosis_scraps]]
+* [[Template:UprisingComponents/material_desh_scraps]]
+* [[Template:UprisingComponents/material_durasteel_scraps]]
+* [[Template:UprisingComponents/material_mephitine_scraps]]
+* [[Template:UprisingComponents/material_phrik_scraps]]
+
+
+{{UprisingComponents|get=box|baseName=Agrocite|showEditButton=1}}
+
+
+
+
+
+
+
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_Guerilla_Helmet|get=iconbordersmalllevel%bgimage%max}}<div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;"></div></div>{{UprisingComponents|get=iconborder|size=small|baseName=Kiax|level=4|borderColor=level|bgImage=1|num=3}}<div class="class-style position-relative display-inline-block height-130-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;"></div></div>{{UprisingComponents|get=iconborder|size=small|baseName=Lothalite|level=4|borderColor=level|bgImage=1|num=3}}<div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite equals-sign exsmall filter-black class-style position-relative margin-top-25px margin-bottom-35px" style="margin-bottom:0;margin-top:0;top:5px;"></div></div>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_Guerilla_Helmet|get=iconbordersmalllevel%bgimage}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Star Wars: Uprising Super Walkthrough templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Star Wars: Uprising Super Walkthrough template documentations|{{PAGENAME}}]]</noinclude>

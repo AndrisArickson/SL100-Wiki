@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Rebelscum
+|image=[[File:RebelscumLogo.jpg|text-top|x18px|link=https://www.rebelscum.com]]
+|site_text={{#ifeq:{{{subdomain|}}}|forum
+  |[[Rebelscum.com|Rebelscum's]] [https://forum.rebelscum.com Forums]
+  |[[Rebelscum.com]]
+}}
+|base_url=https://{{{subdomain|www}}}.rebelscum.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

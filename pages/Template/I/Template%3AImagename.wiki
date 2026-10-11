@@ -1,0 +1,46 @@
+{{#explode:{{#if: {{#pos: {{{1}}} | .jpeg}}
+		|{{#explode:{{{1}}}|.jpeg|0}}.jpeg
+		|
+	}}{{#if: {{#pos: {{{1}}} | .jpg}}
+		|{{#explode:{{{1}}}|.jpg|0}}.jpg
+		|
+	}}{{#if: {{#pos: {{{1}}} | .png}}
+		|{{#explode:{{{1}}}|.png|0}}.png
+		|
+	}}{{#if: {{#pos: {{{1}}} | .svg}}
+		|:skip
+		|
+	}}{{#if: {{#pos: {{{1}}} | .gif}}
+		|:skip
+		|
+	}}{{#if: {{#pos: {{{1}}} | .SVG}}
+		|:skip
+		|
+	}}{{#if: {{#pos: {{{1}}} | .GIF}}
+		|:skip
+		|
+	}}{{#if: {{#pos: {{{1}}} | .JPEG}}
+		|{{#explode:{{{1}}}|.JPEG|0}}.JPEG
+		|
+	}}{{#if: {{#pos: {{{1}}} | .JPG}}
+		|{{#explode:{{{1}}}|.JPG|0}}.JPG
+		|
+	}}{{#if: {{#pos: {{{1}}} | .PNG}}
+		|{{#explode:{{{1}}}|.PNG|0}}.PNG
+		|
+	}}
+|:
+|1}}{{#if: {{#pos: {{{1}}} | <br />}}
+	|caption:{{#explode:{{{1}}}|<br />|1}}
+	|
+}}{{#if: {{#pos: {{{1}}} | <br/>}}
+	|caption:{{#explode:{{{1}}}|<br/>|1}}
+	|
+}}{{#if:{{#pos:{{{1}}}|<br>}}
+	|caption:{{#explode:{{{1}}}|<br>|1}}
+	|
+}}<noinclude>
+This template extracts the filename from the contents of an image field in an infobox. It is used by [[:Template:Imagewidth]].
+
+[[Category:Infobox utility templates]]
+</noinclude>

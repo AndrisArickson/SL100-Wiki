@@ -1,0 +1,47 @@
+'''Warning''': As a (partially) [[Wikipedia:User-generated content|user-generated content]] tertiary source, IMDb cannot be fully trusted as a referencing material, and therefore should not be considered for usage in references, to the exception of the news they used to publish (see example bellow). Images can be sourced using IMDb when credits are present. 
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{IMDb|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.imdb.com/</nowiki></code>).
+*{{para|text}} Name of the page being cited. Do not provide if it's the same as the article name.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+;Media
+
+<code><nowiki>{{IMDb|title/tt0076759|Star Wars Episode IV: A New Hope}}</nowiki></code>
+
+Results in:
+
+{{IMDb|title/tt0076759|Star Wars Episode IV: A New Hope}}
+
+<hr />
+;Person
+
+<code><nowiki>{{IMDb|name/nm0000184|George Lucas}}</nowiki></code>
+
+Results in:
+
+{{IMDb|url=name/nm0000184|text=George Lucas}}
+
+<hr />
+;News
+
+<code><nowiki>{{IMDb|url=news/sb/1999-03-11#film1|text=Not So Far Away|archivedate=20081216021009|nolive=1}}</nowiki></code>
+
+Results in:
+
+{{IMDb|url=news/sb/1999-03-11#film1|text=Not So Far Away|archivedate=20081216021009|nolive=1}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

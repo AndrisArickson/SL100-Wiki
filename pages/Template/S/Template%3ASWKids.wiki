@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWKids
+|image=[[File:Star Wars Kids mini logo.png|text-top|x16px|StarWarsKids.com|link=StarWarsKids.com]]
+|site_text=[[StarWarsKids.com]]
+|base_url=https://{{{subdomain|www}}}.starwarskids.com
+|target_url={{{full_url|{{{url|}}}}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,70 @@
+{{Book
+|image=[[File:EGVV.jpg]]
+|title=<code><book name></code>
+|author=<code><author></code>
+|cover artist=<code><cover artist></code>
+|illustrator=<code><illustrator></code>
+|editor=<code><editor></code>
+|publisher=<code><publisher></code>
+|release date=<code><release date></code>
+|other date=<code><other date></code>
+|type=<code><media type></code>
+|pages=<code><pages></code>
+|dimensions=<code><dimensions></code>
+|weight=<code><weight></code>
+|isbn=<code><isbn></code>
+|isbn2=<code><isbn2></code>
+|isbn3=<code><isbn3></code>
+|isbn4=<code><isbn4></code>
+|isbn5=<code><isbn5></code>
+|series=<code><series></code>
+|preceded by=<code><preceded by></code>
+|followed by=<code><followed by></code>
+}}
+
+==Usage instructions==
+<pre>{{ReferenceBook
+|image=
+|title=
+|author=
+|cover artist=
+|illustrator=
+|editor=
+|publisher=
+|release date=
+|other date=
+|type=
+|pages=
+|dimensions=
+|weight=
+|isbn=
+|isbn2=
+|isbn3=
+|isbn4=
+|isbn5=
+|series=
+|preceded by=
+|followed by=
+}}</pre>
+
+===Required parameters===
+*{{Para|image}} Use the book's front cover.
+*{{Para|book name}} Use the official full name of the book as published.
+*{{Para|author}} Include the name of the author(s).
+*{{Para|cover artist}} Include the name of the cover artist(s).
+*{{Para|illustrator}} Include the name of the illustrator(s).
+*{{Para|editor}} Include the name of the editor(s).
+*{{Para|publisher}} Include the name of the publisher(s).
+*{{Para|release date}} Include the date in which the book was released.
+*{{Para|type}} Specify if its <code>hardcover</code>, <code>paperback</code>, and/or <code>eBook</code>.
+*{{Para|pages}} Include the number of pages.
+*{{Para|isbn}} Use the book's [[Wikipedia:International Standard Book Number|ISBN]], which will automatically create a link to [[Special:Booksources]]. If no ISBNs are available, use <code>none</code>.
+*{{Para|series}} Include the series the book may be part of.
+*{{Para|preceded by}} Include the preceding book in the series.
+*{{Para|followed by}} Include the subsequent book in the series.
+
+===Optional parameters===
+*{{Para|isbn2}} As per {{Para|isbn}}, but for a second ISBN, if available. Leave the parameter blank if not required.
+*{{Para|isbn3}} As per {{Para|isbn}}, but for a third ISBN, if available. Leave the parameter blank if not required.
+*{{Para|isbn4}} As per {{Para|isbn}}, but for a fourth ISBN if available. Leave the parameter blank if not required.
+*{{Para|isbn5}} As per {{Para|isbn}}, but for a fifth ISBN if available. Leave the parameter blank if not required.

@@ -1,0 +1,9 @@
+{{SW|url=news/swca-2022-20-highlights-from-lucasfilms-studio-showcase|text=SWCA 2022: 20 Highlights from Lucasfilm's Studio Showcase}} states that ''[[Star Wars: Skeleton Crew]]'' takes place in the same timeframe as ''[[Star Wars: The Mandalorian]]'' and ''[[Star Wars: Ahsoka]]'', both of which are dated to [[9 ABY]] per the reasoning [[Template:MandoDate|here]]. Therefore, ''Skeleton Crew''{{#if: {{{1|}}}|, including {{{1}}},|}} must take place around 9 [['ABY-BBY' dating system|ABY]] as well.<noinclude>
+
+==Usage==
+<code><nowiki>{{SkeletonCrewDate}}</nowiki></code>
+
+===Pipelinked===
+<nowiki>Per the reasoning [[:Template:SkeletonCrewDate|here]], the events of ''[[Star Wars: Skeleton Crew]]'' take place around [[9 ABY]].</nowiki>
+
+[[Category:Canon television dating citation templates]]</noinclude>

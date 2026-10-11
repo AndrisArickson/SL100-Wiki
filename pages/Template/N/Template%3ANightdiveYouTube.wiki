@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=NightdiveYouTube
+|archive=YouTube
+|image=[[File:NightdiveStudios-YouTube.svg|text-bottom|x18px|link=https://www.youtube.com/@Nightdivestudios]]
+|site_text=the official [[Nightdive Studios]] [https://www.youtube.com/@Nightdivestudios YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,27 @@
+This template is to be used for citing cards from [[Star Wars Topps Now]]. Set styling is controlled by [[Module:FormattedTextLookup/Cards]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{ToppsNow|series=|episode=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|series}} Name of the television show.
+*{{Para|episode}} episode text of the subset, such as "Episode 12" 
+*{{Para|cardname}} Name of an individual card.
+*{{Para|link}} Full URL of an individual card's page on a website that displays its front and back, if available; for example, on [https://www.beckett.com Beckett] or [https://www.tcdb.com Trading Card Database].
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Topps]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Backup links===
+{{BackupLinkHelp|Topps}}
+
+==Example(s)==
+<code><nowiki>{{ToppsNow|series=Star Wars: Visions|episode=Journey to the Dark Head|cardname=Toul & Bichan duel|link=https://www.tcdb.com/ViewCard.cfm/sid/365519/cid/21465785}}</nowiki></code>
+
+Results in:
+
+{{ToppsNow|series=Star Wars: Visions|episode=Journey to the Dark Head|cardname=Toul & Bichan duel|link=https://www.tcdb.com/ViewCard.cfm/sid/365519/cid/21465785}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

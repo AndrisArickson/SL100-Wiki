@@ -1,0 +1,32 @@
+This template is to be used for citing individual [[Regal Robot]] ''[[Star Wars]]'' toys, primarily using the product pages found on [https://regalrobot.com/shop/ regalrobot.com/shop]. 
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{RegalRobot|set=|text=|pack=|link=|altlink=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*Either of the two following:
+**{{Para|link}} URL of the pack's web page, minus the domain name (<code><nowiki>https://hasbropulse.com/</nowiki></code>).
+**{{Para|altlink}} Full URL of the pack's page on a website other than hasbropulse.com.
+*Either of the two following:
+**{{Para|archivedate}} see below
+**{{Para|archiveurl}} see below
+
+===Optional parameters===
+*{{Para|text}} Formatted name of the collection.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{RegalRobot|set=Star Wars: Archive Collection|pack=Ree-Yees Concept Maquette Replica|link=star-wars/starwars-busts-statues-collectibles/ree-yees-concept-maquette-replica-numbered-edition/|archivedate=20260420030033}}</nowiki></code>
+
+Results in:
+
+{{RegalRobot|set=Star Wars: Archive Collection|pack=Ree-Yees Concept Maquette Replica|link=star-wars/starwars-busts-statues-collectibles/ree-yees-concept-maquette-replica-numbered-edition/|archivedate=20260420030033}}
+
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

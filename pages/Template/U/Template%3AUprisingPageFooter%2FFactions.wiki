@@ -1,0 +1,16 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<onlyinclude><!--
+   
+--><center><table style="border:0 none;table-layout:fixed;font-size:0.8em;"><!--
+	--><tr><!--
+		--><td style="border:0 none;text-align:center;width:33%;padding:0;"><div style="margin:0px -5px -5px -5px;">[[File:TradeSpineLeague.png|link=Trade Spine League|40px]]</div></td><!--
+		--><td style="border:0 none;text-align:center;width:33%;padding:0 5px 0 5px;"><div style="margin:0px -5px -5px -5px;">[[File:IvaxSyndicate.png|link=Ivax Syndicate|40px]]</div></td><!--
+		--><td style="border:0 none;text-align:center;width:33%;padding:0;"><div style="margin:0px -5px -5px -5px;">[[File:Icon Faction Rebel.png|link=Alliance to Restore the Republic|40px]]</div></td><!--
+	--></tr><!--
+	--><tr><!--
+		--><td style="border:0 none;text-align:center;width:33%;padding:0;line-height:1em;"><center>[[Trade Spine League|Trade Spine]]</center></td><!--
+		--><td style="border:0 none;text-align:center;width:33%;padding:0 5px 0 5px;line-height:1em;"><center>[[Ivax Syndicate|Ivax]]</center></td><!--
+		--><td style="border:0 none;text-align:center;width:33%;padding:0;line-height:1em;"><center>[[Alliance to Restore the Republic|Alliance]]</center></td><!--
+	--></tr><!--
+--></table></center><!--
+
+--></onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>}}

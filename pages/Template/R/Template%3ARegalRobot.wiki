@@ -1,0 +1,15 @@
+<includeonly>[[File:Regal-robot-logo.png|text-bottom|x18px|link=https://regalrobot.com/]]&#32;<span class="plainlinks">{{HideParanthetical|{{{set}}}|{{{text|}}}|italics=1}}{{#if:{{{pack|}}}
+        |&#32;<small>(Pack:&#32;{{#if:{{{link|}}}{{{altlink|}}}
+                                   |{{#if:{{{link|}}}|[https://regalrobot.com/shop/{{{link}}} {{{pack}}}]|[{{{altlink}}} {{{pack}}}]}}|{{{pack}}}}})</small>|}}{{#if:{{{link|}}}{{{altlink|}}}|{{ArchiveAccess
+    |template_name=RegalRobot
+    |full_url={{#if:{{{link|}}}|https://regalrobot.com/shop/{{{link}}}|{{{altlink|}}}}}
+    |target={{{link|{{{altlink|}}}}}}
+    |archiveurl={{{archiveurl|}}}
+    |archivedate={{{archivedate|}}}
+    |archivefile={{{archivefile|}}}
+    |shared_site=Rebelscum
+    |nobackup={{{nobackup|}}}
+    |nolive={{{nolive|}}}
+    |use_lua_subpage=1
+    |par=1
+  }}}}</span>{{#if:{{#pos:{{{link|}}}|http}}|[[Category:Templates with invalid URL parameters]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

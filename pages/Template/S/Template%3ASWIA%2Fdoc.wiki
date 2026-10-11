@@ -1,0 +1,43 @@
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{SWIA|set=|cardname=|link=}}</nowiki></code>
+
+The use of unnamed parameters for the set and cardname is deprecated. They are retained for backward compatibility, but will produce hidden tracking categories to determine when they can eventually be removed. New usages of the template should use an explicit {{Para|set}} and {{Para|cardname}}.
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|mission}} Name of the Mission card; use this in place of cardname for mission cards.
+*{{Para|cardname}} Name of the individual non-mission cardname.
+*{{Para|link}} Full URL of the pack's web page. For backward compatibility, {{Para|url}} also works for this, but is considered deprecated, will produce a tracking category, and will eventually be removed. 
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+*<code><nowiki>{{SWIA|set=Heart of the Empire|mission=Into a Corner|link=Into_a_Corner}}</nowiki></code>
+*{{SWIA|set=Heart of the Empire|mission=Into a Corner|link=Into_a_Corner}}
+
+:Without a link
+<code><nowiki>{{SWIA|set=Stormtroopers Villain Pack|cardname=Vader's Finest}}</nowiki></code>
+
+Results in:
+
+{{SWIA|set=Stormtroopers Villain Pack|cardname=Vader's Finest}}
+
+:Using central archive repository
+<code><nowiki>{{SWIA|set=Kayn Somos Villain Pack|cardname=Strength of Command|link=https://images-cdn.fantasyflightgames.com/filer_public/17/f3/17f31f3e-1a6d-4f0f-89b5-69314f71e9fc/strength-of-command.png}}</nowiki></code>
+
+Results in:
+
+{{SWIA|set=Kayn Somos Villain Pack|cardname=Strength of Command|link=https://images-cdn.fantasyflightgames.com/filer_public/17/f3/17f31f3e-1a6d-4f0f-89b5-69314f71e9fc/strength-of-command.png}}
+
+==Icon==
+[[File:ImperialAssault-Cropped.png|thumb|left|x16px]]
+
+Note that this icon was removed from the template due to Wookieepedia's MediaWiki software limitations on template size.
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

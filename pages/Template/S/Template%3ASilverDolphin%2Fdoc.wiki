@@ -1,0 +1,38 @@
+This template is to be used for citing individual pages on [[Silver Dolphin Books]]'s official website.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{SilverDolphin|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>https://www.silverdolphinbooks.com/</nowiki></code>).
+*'''text''': Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SilverDolphin|url=product/Star-Wars-Builders-Droids,630.aspx|text=Star Wars Builders: Droids|archivedate=20170527052741}}</nowiki></code>
+
+Results in:
+
+{{SilverDolphin|url=product/Star-Wars-Builders-Droids,630.aspx|text=Star Wars Builders: Droids|archivedate=20170527052741}}
+
+<hr />
+<code><nowiki>{{SilverDolphin|url=product/Star-Wars-Builders-Droids,630.aspx|text=Star Wars Builders: Droids|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{SilverDolphin|url=product/Star-Wars-Builders-Droids,630.aspx|text=Star Wars Builders: Droids|nobackup=1}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

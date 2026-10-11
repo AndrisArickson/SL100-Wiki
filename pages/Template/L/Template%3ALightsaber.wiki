@@ -1,0 +1,56 @@
+<infobox theme="Lightsaber">
+	<image source="imagefallback">
+		<default>{{InfoboxGallery|image={{{image|}}}|caption1={{{option1|}}}|image2={{{image2|}}}|caption2={{{option2|}}}|image3={{{image3|}}}|caption3={{{option3|}}}}}</default>
+	</image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="model"><label>Model</label></data>	
+        <data source="type"><label>Type</label></data>	
+        <data source="culture"><label>Culture</label></data>
+        <data source="creator"><label>Creators</label></data>			
+        <data source="created"><label>Date created</label></data>	
+        <data source="destroyed"><label>Date destroyed</label></data>	
+        <data source="discovered"><label>Date discovered</label></data>	
+        <data source="owners"><label>Owners</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Physical and technical specifications</header>
+        <data source="hilt model"><label>Hilt model</label></data>
+        <data source="hilt shape"><label>Hilt shape</label></data>			
+        <data source="hilt length"><label>Hilt length</label></data>	
+        <data source="hilt material"><label>Hilt material</label></data>
+        <data source="crystal"><label>Crystal</label></data>	
+        <data source="blade type"><label>Blade type</label></data>
+        <data source="color"><label>Blade color</label></data>	
+        <data source="blade length"><label>Blade length</label></data>	
+        <data source="mods"><label>Modification(s)</label></data>
+        <data source="weight"><label>Weight</label></data>	
+        <data source="protection"><label>Protection type</label></data>	        
+        <data source="capacity"><label>Capacity</label></data>	
+        <data source="range"><label>Range</label></data>	
+        <data source="design"><label>Design</label></data>	
+        <data source="markings"><label>Other markings</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Usage and history</header>
+        <data source="precede"><label>Preceding lightsaber(s)</label></data>
+        <data source="succeed"><label>Succeeding lightsaber(s)</label></data>
+        <data source="purpose"><label>Purpose</label></data>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Lightsaber|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|model|type|culture|creator|created|destroyed|discovered|owners|hilt model|hilt shape|hilt length|hilt material|crystal|blade type|color|blade length|mods|weight|protection|capacity|range|design|markings|precede|succeed|purpose|affiliation|optional=option1,image2,option2,image3,option3|ignore=name}}<noinclude>
+
+{{Documentation}}
+
+{{Interlang
+|es=Plantilla:Sable láser
+}}
+
+[[category:Object infobox templates]]
+</noinclude>

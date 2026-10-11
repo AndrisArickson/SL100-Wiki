@@ -1,0 +1,63 @@
+{{#switch:{{{patch|{{{1|}}}}}}
+  | 1.1.0a = {{TORweb|url=patchnotes/1.1.0a/1192012|text=Patch Notes 1/19/2012}}
+  | 1.1 = {{TORweb|url=patchnotes/1.1.0/rise-rakghouls|text=Game Update 1.1 – Rise of the Rakghouls}}
+  | 1.1.5 = {{TORweb|url=patchnotes/1.1.5/362012|text=1.1.5 Patch Notes}}
+  | 1.2 = {{TORweb|url=patchnotes/1.2.0/legacy|text=Game Update 1.2 - Legacy Patch Notes}}
+  | 1.4 = {{TORweb|url=patchnotes/1.4.0/terror-beyond|text=Game Update 1.4: Terror From Beyond Patch Notes}}
+  | 1.6 = {{TORweb|url=patchnotes/1.6.0/ancient-hypergate|text=Game Update 1.6: Ancient Hypergate Patch Notes}}
+  | 1.6.3 = {{TORweb|url=patchnotes/1.6.3/1232013|text=Game Update 1.6.3 Patch Notes}}
+  | 1.7 = {{TORweb|url=patchnotes/1.7.0/return-gree|text=Game Update 1.7: Return of the Gree Patch Notes}}
+  | 2.0 = {{TORweb|url=patchnotes/2.0-rothc/rise-hutt-cartel-and-scum-and-villainy|text=Game Update 2.0: Rise of the Hutt Cartel and Scum and Villainy Patch Notes}}
+  | 2.1 = {{TORweb|url=patchnotes/2.1.0/customization|text=Game Update 2.1: Customization Patch Notes}}
+  | 2.1.1 = {{TORweb|url=patchnotes/2.1.1/5302013|text=Game Update 2.1.1 Patch Notes}}
+  | 2.10 = {{TORweb|url=patchnotes/992014/game-update-2.10-forged-alliances-patch-notes|text=Game Update 2.10: Forged Alliances Patch Notes}}
+  | 2.2 = {{TORweb|url=patchnotes/2.2/operation-nightmare|text=Game Update 2.2: Operation Nightmare Patch Notes}}
+  | 2.3 = {{TORweb|url=patchnotes/2.3/titans-industry|text=Game Update 2.3: Titans of Industry Patch Notes}}
+  | 2.3.1 = {{TORweb|url=patchnotes/2.3.1/8212013|text=Game Update 2.3.1 Patch Notes}}
+  | 2.4 = {{TORweb|url=patchnotes/2.4.0/dread-war|text=Game Update 2.4: The Dread War Patch Notes}}
+  | 2.4.2 = {{TORweb|url=patchnotes/2.4.2/10292013|text=Game Update 2.4.2 Patch Notes}}
+  | 2.5 = {{TORweb|url=patchnotes/2.5.0/galactic-starfighter-early-access|text=Game Update 2.5: Galactic Starfighter Early Access Patch Notes}}
+  | 2.5.1 = {{TORweb|url=patchnotes/12172013/game-update-2.5.1-patch-notes|text=Game Update 2.5.1 Patch Notes}}
+  | 2.6 = {{TORweb|url=patchnotes/242014/game-update-2.6-galactic-starfighter|text=Game Update 2.6: Galactic Starfighter Patch Notes}}
+  | 2.8 = {{TORweb|url=patchnotes/6102014/game-update-2.8-spoils-war|text=Game Update 2.8: Spoils Of War Patch Notes}}
+  | 2.9 = {{TORweb|url=patchnotes/8192014/game-update-2.9-galactic-strongholds-early-access|text=Game Update 2.9: Galactic Strongholds Early Access Patch Notes}}
+  | 3.0 = {{TORweb|url=patchnotes/1222014/game-update-3.0-shadow-revan-early-access|text=Game Update 3.0: Shadow of Revan Early Access Patch Notes}}
+  | 3.0.1 = {{TORweb|url=patchnotes/12162014/game-update-3.0.1-patch-notes|text=Game Update 3.0.1 Patch Notes}}
+  | 3.2 = {{TORweb|url=patchnotes/4282015/game-update-3.2-rise-emperor|text=Game Update 3.2: Rise of the Emperor Patch Notes}}
+  | 3.3 = {{TORweb|url=patchnotes/7222015/game-update-3.3-grand-togruta-celebration|text=Game Update 3.3: Grand Togruta Celebration Patch Notes}}
+  | 4.0 = {{TORweb|url=patchnotes/10202015/game-update-4.0-knights-fallen-empire-early-access|text=Game Update 4.0: Knights of the Fallen Empire Early Access Patch Notes}}
+  | 4.0.3 = {{TORweb|url=patchnotes/1272015/game-update-4.0.3|text=Game Update 4.0.3}}
+  | 4.1 = {{TORweb|url=patchnotes/282016/game-update-4.1-anarchy-paradise-patch-notes|text=Game Update 4.1: Anarchy in Paradise Patch Notes}}
+  | 4.2 = {{TORweb|url=patchnotes/382016/game-update-4.2-disavowed-patch-notes|text=Game Update 4.2: Disavowed Patch Notes}}
+  | 4.3 = {{TORweb|url=patchnotes/452016/game-update-4.3-visions-dark|text=Game Update 4.3: Visions in the Dark Patch Notes}}
+  | 4.4 = {{TORweb|url=patchnotes/532016/game-update-4.4-profit-and-plunder|text=Game Update 4.4: Profit and Plunder Patch Notes}}
+  | 4.5 = {{TORweb|url=patchnotes/612016/game-update-4.5-mandalore%E2%80%99s-revenge|text=Game Update 4.5: Mandalore's Revenge Patch Notes}}
+  | 4.6 = {{TORweb|url=patchnotes/6282016/game-update-4.6-gemini-deception|text=Game Update 4.6: The GEMINI Deception Patch Notes}}
+  | 4.7.1 = {{TORweb|url=patchnotes/972016/game-update-4.7.1-shroud-memory|text=Game Update 4.7.1: Shroud of Memory}}
+  | 5.0 = {{TORweb|url=patchnotes/11292016/game-update-5.0-knights-eternal-throne-early-access|text=Game Update 5.0: Knights of the Eternal Throne Early Access}}
+  | 5.0.1 = {{TORweb|url=patchnotes/12132016/game-update-5.0.1-patch-notes|text=Game Update 5.0.1 Patch Notes}}
+  | 5.1 = {{TORweb|url=patchnotes/12317/game-update-5.1-defend-throne|text=Game Update 5.1: Defend the Throne}}
+  | 5.10 = {{TORweb|url=patchnotes/12112018/game-update-5.10-jedi-under-siege|text=Game Update 5.10: Jedi Under Siege}}
+  | 5.10.3 = {{TORweb|url=patchnotes/06042019/game-update-5.10.3-dantooine-incursion|text=Game Update 5.10.3: The Dantooine Incursion}}
+  | 5.2 = {{TORweb|url=patchnotes/04182017/game-update-5.2-war-iokath|text=Game Update 5.2: The War for Iokath}}
+  | 5.4 = {{TORweb|url=patchnotes/8222017/game-update-5.4-crisis-umbara|text=Game Update 5.4: Crisis on Umbara}}
+  | 5.6 = {{TORweb|url=patchnotes/11282017/game-update-5.6-traitor-among-chiss|text=Game Update 5.6: A Traitor Among the Chiss}}
+  | 5.6.1 = {{TORweb|url=patchnotes/12122017/game-update-5.6.1|text=Game Update 5.6.1}}
+  | 5.9 = {{TORweb|url=patchnotes/05032018/game-update-5.9-nathema-conspiracy|text=Game Update 5.9: The Nathema Conspiracy}}
+  | 5.9.3 = {{TORweb|url=patchnotes/1022018/game-update-5.9.3-fame-and-fortune|text=Game Update 5.9.3: Fame and Fortune Patch Notes}}
+  | 6.0 = {{TORweb|url=patchnotes/10222019/game-update-6.0-onslaught|text=Game Update 6.0: Onslaught}}
+  | 6.0.2a = {{TORweb|url=patchnotes/12172019/game-update-6.0.2a|text=Game Update 6.0.2a}}
+  | 6.1.4 = {{TORweb|url=patchnotes/10202020/game-update-6.1.4|text=Game Update 6.1.4}}
+  | 6.2 = {{TORweb|url=patchnotes/1292020/game-update-6.2|text=Game Update 6.2}}
+  | 6.2.1 = {{TORweb|url=patchnotes/02162021/game-update-6.2.1|text=Game Update 6.2.1}}
+  | 6.3 = {{TORweb|url=patchnotes/04272021/game-update-6.3|text=Game Update 6.3}}
+  | 7.0 = {{TORweb|url=patchnotes/02152022/game-update-7.0-legacy-sith|text=Game Update 7.0: Legacy of the Sith}}
+  | 7.1 = {{TORweb|url=patchnotes/08022022/game-update-7.1-digging-deeper|text=Game Update 7.1: Digging Deeper}}
+  | 7.2 = {{TORweb|url=patchnotes/12132022/game-update-7.2-showdown-ruhnuk|text=Game Update 7.2: Showdown on Ruhnuk}}
+  | 7.3 = {{TORweb|url=patchnotes/06132023/game-update-7.3-old-wounds|text=Game Update 7.3: Old Wounds}}
+}}<noinclude>
+
+==Usage==
+TORweb/Patch is a specialized usage of {{Tl|TORweb}} that provides easy access to the Patch Notes webpages, with archivedates provided. Simply use <nowiki>{{TORweb/Patch|6.0}}</nowiki> to generate the {{Tl|TORweb}} citation for the 6.0 patch notes.
+
+[[Category:Internet citation templates]]</noinclude>

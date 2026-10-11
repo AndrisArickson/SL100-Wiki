@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Insight
+|image=[[File:InsightEditions-Small.png|text-top|x16px|link=https://insighteditions.com]]
+|site_text=[[Insight Editions]]' [https://insighteditions.com official website]
+|base_url=https://{{{subdomain|www}}}.insighteditions.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,46 @@
+! colspan="{{{colspan|1}}}" style="background:{{{background|#F2F5FD}}}; border:1px solid {{{2|#B4C5E3}}}; width:{{{3|auto}}}" | {{{1}}}<noinclude>
+
+==Notes==
+This template is one in a series of modular source templates meant to be used to generate box-style navigation templates. It is meant to be [[m:Help:substitution|substituted]] and will not work properly if <code>subst:</code> is not present in the template call.
+
+==Usage instructions==
+<pre>{{Nav box heading|text|border|width}}</pre>
+Use <code>|-</code> beforehand to start a heading box on a new row, just like in a table.
+
+===Required parameters===
+#{{Para||{{Var|text}}}} The text content of the box.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|border}}}} The color of the 1px box border, default <code style="padding:0 5px 0 5px; border:1px solid #B4C5E3">#B4C5E3</code>. Enter <code>none</code> or <code>transparent</code> for no border at all.</li>
+#{{Para||{{Var|width}}}} The box width, default automatic.
+#{{Para|colspan}} The column span of the box, default <code>1</code>.
+#{{Para|background}} The heading background color, default <code style="color:black; padding:0 5px 0 5px; background:#F2F5FD">#F2F5FD</code> in light theme. Enter <code>none</code> or <code>transparent</code> for the box to blend in with the container nav box.
+
+==Box-style navigation source templates==
+*{{Tl|Nav box start}}
+*{{Tl|Nav box heading}}
+*{{Tl|Nav box}}
+*{{Tl|Nav box end}}
+
+==Example==
+===Code===
+<pre>
+{{Nav box start|Navigation template test}}
+{{Nav box heading|The 1st box is the deepest}}
+{{Nav box heading|2 Boxy 2 Blurious}}
+|-
+{{Nav box|3 blind boxes}}
+{{Nav box|Box box BOX bOX}}
+{{Nav box end}}
+</pre>
+
+===Result===
+{{Nav box start|Navigation template test}}
+{{Nav box heading|The 1st box is the deepest}}
+{{Nav box heading|2 Boxy 2 Blurious}}
+|-
+{{Nav box|3 blind boxes}}
+{{Nav box|Box box BOX bOX}}
+{{Nav box end}}
+
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

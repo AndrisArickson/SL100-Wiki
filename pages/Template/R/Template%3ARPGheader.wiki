@@ -1,0 +1,12 @@
+{{Ooumb
+| id = Ambig
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The [[canon]]icity of the [[in-universe]] existence of the subject of this article is unconfirmed.
+| message = This article's subject originated in an example passage in a [[roleplaying game]] product; its [[in-universe]] existence is assumed to be [[canon]]ical{{#ifeq:{{{1|}}}|legends|&nbsp;with respect to the [[Star Wars Legends|''Star Wars'' Legends]] continuity}}, as opposed to only being a game-mechanical example, but has not been confirmed by other canonical sources.
+}}<noinclude>
+
+==Usage==
+For [[Star Wars Legends|''Star Wars'' Legends]] articles, use <code><nowiki>{{RPGheader|legends}}</nowiki></code>.
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

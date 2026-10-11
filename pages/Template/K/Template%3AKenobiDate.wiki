@@ -1,0 +1,29 @@
+{{#switch:{{{1|}}}
+  |#default = ''[[Star Wars: Timelines]]'' dates the events of ''[[Star Wars: Obi-Wan Kenobi]]''{{#if:{{{2|}}}|, including {{{2}}},}} to [[9 BBY]].
+  |I|II|III|IV|V|VI = ''[[Star Wars: Timelines]]'' dates the events of "[[Part {{{1|}}}]]{{#if:{{{2|}}}||"}}{{#if:{{{2|}}}|," including {{{2}}},}} to [[9 BBY]].
+}}<noinclude>[[Category:Canon television dating citation templates]]
+
+==Usage==
+<nowiki>{{KenobiDate|Part|Event}}</nowiki>, where {{Para|Part}} is the roman numeric part number of the ''Obi-Wan Kenobi'' episode and the {{Para|Event}} is an event being dated in the episode.
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|''[[Star Wars: Obi-Wan Kenobi]]''||<nowiki>{{KenobiDate}}</nowiki>||[[9 BBY]]||{{KenobiDate}}
+|-
+|"[[Part I]]"||<nowiki>{{KenobiDate|I|the [[death]] of [[Nari]] on [[Tatooine]]}}
+</nowiki>||[[9 BBY]]||{{KenobiDate|I|the [[death]] of [[Nari]] on [[Tatooine]]}}
+|-
+|"Part I"||<nowiki>{{KenobiDate|I}}</nowiki>||[[9 BBY]]||{{KenobiDate|I}}
+|-
+|"[[Part II]]"||<nowiki>{{KenobiDate|II}}</nowiki>||[[9 BBY]]||{{KenobiDate|II}}
+|-
+|"[[Part III]]"||<nowiki>{{KenobiDate|III}}</nowiki>||[[9 BBY]]||{{KenobiDate|III}}
+|-
+|"[[Part IV]]"||<nowiki>{{KenobiDate|IV}}</nowiki>||[[9 BBY]]||{{KenobiDate|IV}}
+|-
+|"[[Part V]]"||<nowiki>{{KenobiDate|V}}</nowiki>||[[9 BBY]]||{{KenobiDate|V}}
+|-
+|"[[Part VI]]"||<nowiki>{{KenobiDate|VI}}</nowiki>||[[9 BBY]]||{{KenobiDate|VI}}
+|}</noinclude>

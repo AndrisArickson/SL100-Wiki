@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Titan Magazines|Titan Books']] [https://www.titanbooks.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{TitanBooks|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.titanbooks.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{TitanBooks|url=8811-star-wars-on-the-front-lines|text=Star Wars - On the Front Lines|archivedate=20190217014821}}</nowiki></code>
+
+Results in:
+
+{{TitanBooks|url=8811-star-wars-on-the-front-lines|text=Star Wars - On the Front Lines|archivedate=20190217014821}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

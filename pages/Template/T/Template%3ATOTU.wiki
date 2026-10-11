@@ -1,0 +1,10 @@
+{{#invoke:BaseCitation|main|template=TOTU
+|mode=TV
+|image=[[File:TalesoftheUnderworld-Logo.png|text-top|x18px|link=Star Wars: Tales of the Underworld]]
+|series=Star Wars: Tales of the Underworld
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+{{Documentation}}
+[[Category:TV citation templates]]</noinclude>

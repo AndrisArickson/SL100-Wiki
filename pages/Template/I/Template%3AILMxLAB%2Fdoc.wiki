@@ -1,0 +1,15 @@
+This template is to be used for all [https://www.ilmimmersive.com ilmimmersive.com] webpages, including those with the old "ilmxlab.com" URL. For [https://www.ilm.com ilm.com], use {{Tl|ILM}} instead.
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{ILMxLAB|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.ilmimmersive.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

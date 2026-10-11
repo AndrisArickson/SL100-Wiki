@@ -1,0 +1,86 @@
+{{Userbox|{{#ifexpr:{{{months|0}}} > 0|lightgreen|{{#switch:{{{1}}}
+ |0.5 = <nowiki/>#00A86B
+ |0.75 = green
+ |1 = darkorange
+ |2 = blue
+ |3 = <nowiki/>#933
+ |<nowiki/>#888}}}}|{{#ifexpr:{{{months|0}}} > 0|lightblue|{{#switch:{{{1}}}
+ |0.5 = lightblue
+ |0.75 = lightgreen
+ |1 = <nowiki/>#FFDB58
+ |2 = lightskyblue
+ |3 = lightcoral
+ |<nowiki/>#CCC}}}}|{{#ifexpr:{{{months|0}}} > 0|{{{months|0}}} mo.|{{#switch:{{{1}}}
+ |0.5 = &lt;6 mo.
+ |0.75 = 6&ndash;12 mo.
+ |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20 = {{{1}}}+ yr.
+ |eon}}}}|This user has contributed to [[Wookieepedia]] for {{#ifexpr:{{{months|0}}} > 0|about {{{months|0}}} months|{{#switch:{{{1}}}
+ |0.5 = six months or less
+ |0.75 = more than six months
+ |1 = more than one year
+ |2 = more than two years
+ |3 = more than three years
+ |4 = more than four years
+ |5 = more than five years
+ |6 = more than six years
+ |7 = more than seven years
+ |8 = more than eight years
+ |9 = more than nine years
+ |10 = more than ten years
+ |11 = more than eleven years
+ |12 = more than twelve years
+ |13 = more than thirteen years
+ |14 = more than fourteen years
+ |15 = more than fifteen years
+ |16 = more than sixteen years
+ |17 = more than seventeen years
+ |18 = more than eighteen years
+ |19 = more than nineteen years
+ |20 = more than twenty years
+ |a very long time}}}}.}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserContributed|</nowiki>{{Var|years}}<nowiki>}}</nowiki></code> into your user page. To specify a number of months instead, use <code><nowiki>{{UserContributed</nowiki>{{Para|months|{{Var|months}}}}<nowiki>}}</nowiki></code>.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="background:none; border:none">{{UserContributed|months=3}}</pre>
+| {{UserContributed|months=3}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|0.5}}</pre>
+| {{UserContributed|0.5}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|0.75}}</pre>
+| {{UserContributed|0.75}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|1}}</pre>
+| {{UserContributed|1}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|2}}</pre>
+| {{UserContributed|2}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|3}}</pre>
+| {{UserContributed|3}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|4}}</pre>
+| {{UserContributed|4}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|5}}</pre>
+| {{UserContributed|5}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|10}}</pre>
+| {{UserContributed|10}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|15}}</pre>
+| {{UserContributed|15}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|19}}</pre>
+| {{UserContributed|19}}
+|-
+| <pre style="background:none; border:none">{{UserContributed|20}}</pre>
+| {{UserContributed|20}}
+|}
+[[Category:Wiki userboxes|Contributed]]</noinclude>

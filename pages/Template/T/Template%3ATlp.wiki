@@ -1,0 +1,7 @@
+&#123;&#123;{{#if:{{{subst|}}}|subst:|}}[[{{ns:Template}}:{{{1}}}|{{{1}}}]]&#124;{{{2}}}&#125;&#125;<noinclude>{{Top|fprot}}
+{{Interlang
+|ko=틀:Tlp
+|tr=Şablon:Tlp
+}}
+
+[[Category:Internal link templates|Template link]]</noinclude>

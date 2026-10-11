@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Twitch
+|image=[[File:TwitchPurple-Logo.svg|text-top|x16px|link=https://twitch.tv]]
+|site_text=[https://twitch.com Twitch]
+|base_url=https://{{{subdomain|www}}}.twitch.com
+|target_url={{#if:{{{url|}}}|{{{url|}}}|{{#if:{{{video|}}}|videos/{{{video|}}}|{{{channel|}}}}}}}
+|username={{{channel|}}}
+|usertext={{{name|}}}
+|is_post={{{video|}}}
+|use_lua_subpage=1
+|social_media={{#if:{{{url|}}}||1}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

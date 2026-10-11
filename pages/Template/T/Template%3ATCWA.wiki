@@ -1,0 +1,24 @@
+[[File:TCWA.png|text-bottom|x18px|link=Star Wars: Clone Wars Adventures (video game)]] ''[[Star Wars: Clone Wars Adventures (video game)|Star Wars: Clone Wars Adventures]]''{{#if:{{{loc|}}}|&#32;<small>(In-game location: {{{loc}}})</small>|{{#if:{{{set|}}}|&#32;&mdash; "Shop"&#32;<small>(Set: {{{set}}})</small>|{{#if:{{{commcard|}}}|&#32;&mdash; "Card Commander"&#32;<small>(Card: {{{commcard}}})</small>|{{#if:{{{cacard|}}}|&#32;&mdash; "Card Assault"&#32;<small>(Card: {{{cacard}}})</small>|{{#if:{{{coll|}}}|&#32;<small>(Collection: {{{coll}}})</small>|&#32;&mdash; "{{{1}}}"}}}}}}}}}}<noinclude>
+__NOTOC__
+==Usage==
+Place the following code on the page and replace the "mini-game name" with the appropriate information.
+
+ <nowiki>{{</nowiki>TCWA|''MINI-GAME NAME''}}
+
+'''In-Game Locations''': The following code can be used ''instead'' of the above formatting to specify in-game locations within the game.
+
+ <nowiki>{{</nowiki>TCWA|loc=''LOCATION NAME''}}
+
+'''Shop Sets''': The following code can be used ''instead'' of the above formatting to specify buyable sets from the in-game Shop.
+
+ <nowiki>{{</nowiki>TCWA|set=''SHOP SET NAME''}}
+
+'''Card Commander Cards''': The following code can be used ''instead'' of the above formatting to specify cards from the Card Commander mini-game.
+ <nowiki>{{</nowiki>TCWA|commcard=''CARD NAME''}}
+
+'''Card Assault Cards''': The following code can be used ''instead'' of the above formatting to specify cards from the Card Assault mini-game.
+ <nowiki>{{</nowiki>TCWA|cacard=''CARD NAME''}}
+
+'''Collections''': The following code can be used ''instead'' of the above formatting to specify Collections.
+ <nowiki>{{</nowiki>TCWA|coll=''COLLECTION NAME''}}
+[[Category:Game citation templates|TCWA]][[Category:Star Wars: The Clone Wars|*]]</noinclude>

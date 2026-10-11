@@ -1,0 +1,13 @@
+{{#invoke:BaseCitation|main|template=Journal
+|mode=magazine
+|image=[[File:SWAJsmall.jpg|text-top|x15px|link=Star Wars Adventure Journal]]
+|series=Star Wars Adventure Journal
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|nolink={{{nolink|}}}
+|noquotes={{{noquotes|}}}
+|reprint={{{reprint|}}}
+}}<noinclude>{{Documentation}}</noinclude>

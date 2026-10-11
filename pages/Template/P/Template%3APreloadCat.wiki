@@ -1,0 +1,11 @@
+{{#ifeq:{{NAMESPACE}}|Template
+  |{{#switch:{{lc:{{#titleparts:{{PAGENAME}}| | -1 }}}}
+    |preloadcat|ibi|doc=
+    |preload=[[Category:Preload templates]]
+    |#default={{#ifexist:Template:{{{1|{{PAGENAME}}}}}/preload
+      ||[[Category:Infoboxes without preloads]]<br /><span style="color: red">'''This infobox does not have'''</span> '''[[Template:{{{1|{{PAGENAME}}}}}/preload|a preload]]'''
+    }}
+  }}
+}}<noinclude>
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Preloads|{{PAGENAME}}]]</noinclude>

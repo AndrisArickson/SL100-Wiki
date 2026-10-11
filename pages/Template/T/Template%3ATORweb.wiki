@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=TORweb
+|image=[[File:SWTOR_mini.png|text-top|x16px|link=https://www.swtor.com]]
+|site_text=[[Star Wars: The Old Republic|''The Old Republic''{{'s}}]] {{#ifeq:{{{subdomain|}}}|forums
+  |[https://forums.swtor.com official forums]
+  |[https://www.swtor.com official website]
+}}
+|base_url=https://{{{subdomain|www}}}.swtor.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|quote={{{quote|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

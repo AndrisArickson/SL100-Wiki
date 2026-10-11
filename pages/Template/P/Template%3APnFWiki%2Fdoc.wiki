@@ -1,0 +1,16 @@
+==Description==
+This template is used to link articles from [[w:c:phineasandferb|''Phineas and Ferb'' Wiki]].
+
+==Syntax==
+<code><nowiki>{{</nowiki>PnFWiki|''title'' (optional)}}</code>
+
+Replace "title" with the exact name of the article on the ''Phineas and Ferb'' Wiki, not the name here. If the name is the same on both wikis, it can be omitted. (Any "/Legends" in the Wookieepedia article name will be left off the ''Phineas and Ferb'' Wiki link.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the ''Phineas and Ferb'' Wiki link to change if our article is moved even if ''Phineas and Ferb'' Wiki's article remains at the same name.
+
+==Examples==
+<code><nowiki>{{PnFWiki|Heinz Darthenshmirtz}}</nowiki></code> 
+
+results in...
+
+{{PnFWiki|Heinz Darthenshmirtz|Heinz Darthenshmirtz}}
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

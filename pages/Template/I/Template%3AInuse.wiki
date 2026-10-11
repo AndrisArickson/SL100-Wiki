@@ -1,0 +1,18 @@
+{{iumb
+| id = Inuse
+| bg = #CFC
+| image = [[File:R2_repair.png|130px]]
+| caption = Hopefully the repair droids can fix it.
+| message = This article is actively undergoing a major {{#if:{{{1|}}}|edit by {{{1}}}|edit}}.
+| comment = As a courtesy and to avoid [[Wikipedia:Edit conflict|edit conflicts]], please do not make edits to this article while this message is displayed. If you wish to know who is working on the article and when the edit session began, please consult the <span class="plainlinks">[{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} edit history]</span> and the [[{{TALKPAGENAME}}|talk page]].
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles undergoing major edits|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|fprot}}
+
+==Usage==
+<code><nowiki>{{Inuse}}</nowiki></code>
+
+:'''Per [[Forum:CT:New inuse guidelines]], pages that remain idle with no edits made to them for a period of seven days (one week) may have this tag removed by an administrator or bot.'''
+
+==Categorization==
+*[[:Category:Articles undergoing major edits]]
+
+[[Category:Maintenance templates]]</noinclude>

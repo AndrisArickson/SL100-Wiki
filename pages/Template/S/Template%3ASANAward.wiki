@@ -1,0 +1,107 @@
+<includeonly><table cellpadding="4" cellspacing="0" border="0" class="headerbackground"; style="border:2px solid #733306; background:#FFEFAF; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:SANAward.png|50px]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big>
+{{#switch:{{{award|}}}
+<!-- Overall status article count -->
+|statusOverall|statusCA|statusGA|statusFA|pStatusOverall|pStatusGA|pStatusFA<!--
+-->={{Quote|How many of these things do you think you blasted?''"<br />"''I don't know. Thousands. Probably tens of thousands. Never kept count like some of the boys.|Garazeb Orrelios and Rex|The Last Battle}}
+<!-- Canon -->
+|canonOverall|canonCA|canonGA|canonFA|pCanonOverall|pCanonGA|pCanonFA<!--
+-->={{Quote|Red Eleven standing by.|Ralo Surrel|Star Wars: Episode IV A New Hope}}
+<!-- Legends -->
+|legendsOverall|legendsCA|legendsGA|legendsFA|pLegendsOverall|pLegendsGA|pLegendsFA<!--
+-->={{Quote|Red Eleven standing by.|Wenton Chan|Star Wars: Episode IV A New Hope}}
+<!-- OOU -->
+|OOUOverall|OOUCA|OOUGA|OOUFA|pOOUOverall|pOOUGA|pOOUFA<!--
+-->={{Quote|Hey guys, you ever see that really old movie, Empire Strikes Back?|Spider-Man|url=https://marvelcinematicuniverse.fandom.com/wiki/Captain_America:_Civil_War}}
+<!-- Within specific WPs -->
+|WPOverall|WPCA|WPGA|WPFA|pWPOverall|pWPGA|pWPFA<!--
+-->={{Quote|Whoo! Yeah! That's one hell of a pilot!|Finn|Star Wars: Episode VII The Force Awakens}}
+<!-- Variety of WP supported -->
+|mostWP|mostWPCA|mostWPGA|mostWPFA|pMostWP|pMostWPGA|pMostWPFA<!--
+-->={{Quote|Make 10 men feel like 100.|Cassian Andor|Rogue One: A Star Wars Story}}
+<!-- Non-WP-affiliated noms-->
+|nonWPOverall|nonWPCA|nonWPGA|nonWPFA|pNonWPOverall|pNonWPGA|pNonWPFA<!--
+-->={{Quote|I don't have people. I'm alone.''"<br />"''Han&hellip; Solo.|Han Solo and Drawd Munbrin|Solo: A Star Wars Story}}
+<!-- Overall high score -->
+|HS|pHS<!--
+-->={{Quote|Over 20,000. Even Master Yoda doesn't have a midi-chlorian count that high.|Obi-Wan Kenobi|Star Wars: Episode I The Phantom Menace}}
+<!-- High score within specific WPs -->
+|WPHS|pWPHS<!--
+-->={{Quote|My total. 65. So what do I win?|Ki-Adi-Mundi|Landing at Point Rain}}
+<!-- Longest status article -->
+|long
+|Long<!--
+-->={{Quote|Look at the size of that thing.|Wedge Antilles|Star Wars: Episode IV A New Hope}}
+<!-- Nominators not awarded any of the other awards -->
+|other<!--
+-->={{Quote|This isn't the Imperial stormtrooper corps. You've never fit in? ''You'll fit right in.''<nowiki />|Bounty Hunters Guild Handbook|The Bounty Hunter Code: From the Files of Boba Fett}}
+|protector =
+|former<!--
+-->={{Quote|Somehow, Palpatine returned.|Poe Dameron|Star Wars: Episode IX The Rise of Skywalker}}
+}}{{#if:{{{multi|}}}|{{Quote|Your reputation was not unwarranted.|"The Client"|Chapter 3: The Sin}}}}
+Thank you for contributing to '''{{SANAward/WPtitles|WP={{{WP|}}}}}'''! Congratulations on{{#if:{{{multi|}}}|&colon;|&#32;}}{{#if:{{{multi|}}}|
+{{#if:{{#pos:{{{awards}}}|WPOverall}}|{{#if:{{#pos:{{{awards}}}|pWPOverall}}|*having the highest number of successful status article nominations affiliated with this WookieeProject among members of either the [[Wookieepedia:AgriCorps|AgriCorps]] or the [[Wookieepedia:Inquisitorius|Inquisitorius]]|*having the highest number of successful status article nominations affiliated with this WookieeProject among members of neither the [[Wookieepedia:AgriCorps|AgriCorps]] nor the [[Wookieepedia:Inquisitorius|Inquisitorius]]}}}}<!--
+-->{{#if:{{#pos:{{{awards}}}|WPCA}}|*having the highest number of successful [[Wookieepedia:Comprehensive articles|Comprehensive article]] nominations affiliated with this WookieeProject}}<!--
+-->{{#if:{{#pos:{{{awards}}}|WPGA}}|{{#if:{{#pos:{{{awards}}}|pWPGA}}|*having the highest number of successful [[Wookieepedia:Good articles|Good article]] nominations affiliated with this WookieeProject among members of the [[Wookieepedia:AgriCorps|AgriCorps]]|*having the highest number of successful [[Wookieepedia:Good articles|Good article]] nominations affiliated with this WookieeProject among non-members of the [[Wookieepedia:AgriCorps|AgriCorps]]}}}}<!--
+-->{{#if:{{#pos:{{{awards}}}|WPFA}}|{{#if:{{#pos:{{{awards}}}|pWPFA}}|*having the highest number of successful [[Wookieepedia:Featured articles|Featured article]] nominations affiliated with this WookieeProject among members of the [[Wookieepedia:Inquisitorius|Inquisitorius]]|*having the highest number of successful [[Wookieepedia:Featured articles|Featured article]] nominations affiliated with this WookieeProject among non-members of the [[Wookieepedia:Inquisitorius|Inquisitorius]]}}}}<!--
+-->{{#if:{{#pos:{{{awards}}}|WPHS}}|{{#if:{{#pos:{{{awards}}}|pWPHS}}|*scoring the most [[User:JocastaBot/Rankings/{{{year}}}|points]] for status article nominations affiliated with this WookieeProject among members of either the [[Wookieepedia:AgriCorps|AgriCorps]] or the [[Wookieepedia:Inquisitorius|Inquisitorius]]|*scoring the most [[User:JocastaBot/Rankings/{{{year}}}|points]] for status article nominations affiliated with this WookieeProject among members of neither the [[Wookieepedia:AgriCorps|AgriCorps]] nor the [[Wookieepedia:Inquisitorius|Inquisitorius]]}}}}<!--
+
+single award category per message
+-->|<u>{{#switch: {{{award|}}}<!--
+-->|other<!--
+-->=having one or more successful<!--
+-->|long|Long<!--
+-->=bringing to status the [[Wookieepedia:Featured articles|Featured article]] with the highest word count<!--
+-->|WPHS|pWPHS|HS|pHS<!--
+-->=scoring the most [[User:JocastaBot/Rankings/{{{year}}}|points]] for<!--
+-->|mostWP|mostWPCA|mostWPGA|mostWPFA|pMostWP|pMostWPGA|pMostWPFA<!--
+-->=having supported the most WookieeProjects with successful <!--
+-->|#default<!--
+-->=having the highest number of successful}}<!--
+
+specify status article tier
+-->{{#switch: {{{award|}}}<!--
+-->|canonCA|legendsCA|OOUCA|nonWPCA|statusCA|WPCA|mostWPCA<!--
+-->=&#32;[[Wookieepedia:Comprehensive articles|Comprehensive article]] nominations<!--
+-->|canonGA|pCanonGA|legendsGA|pLegendsGA|OOUGA|pOOUGA|nonWPGA|pNonWPGA|statusGA|pStatusGA|WPGA|pWPGA|mostWPGA|pMostWPGA<!--
+-->=&#32;[[Wookieepedia:Good articles|Good article]] nominations<!--
+-->|canonFA|pCanonFA|legendsFA|pLegendsFA|OOUFA|pOOUFA|nonWPFA|pNonWPFA|statusFA|pStatusFA|WPFA|pWPFA|mostWPFA|pMostWPFA<!--
+-->=&#32;[[Wookieepedia:Featured articles|Featured article]] nominations<!--
+-->|long|Long<!--
+-->=<!--
+-->|#default<!--
+-->=&#32;status article nominations<!--
+
+specify continuity
+-->}}{{#switch: {{{award|}}}<!--
+-->|canonOverall|pCanonOverall|canonCA|canonGA|pCanonGA|canonFA|pCanonFA<!--
+-->=&#32;on [[canon]] subjects<!--
+-->|legendsOverall|pLegendsOverall|legendsCA|legendsGA|pLegendsGA|legendsFA|pLegendsFA<!--
+-->=&#32;on [[Star Wars Legends|''Star Wars'' Legends]] subjects<!--
+-->|OOUOverall|pOOUOverall|OOUCA|OOUGA|pOOUGA|OOUFA|pOOUFA<!--
+-->=&#32;on real-world subjects}}<!--
+
+specify whether affiliated/unaffiliated with WP(s)
+-->{{#switch: {{{award|}}}<!--
+-->|WPOverall|pWPOverall|WPCA|WPGA|pWPGA|WPFA|pWPFA|WPHS|pWPHS<!--
+-->=&#32;affiliated with this WookieeProject<!--
+-->|nonWPOverall|pNonWPOverall|nonWPCA|nonWPGA|pNonWPGA|nonWPFA|pNonWPFA<!--
+-->=&#32;unaffiliated with any WookieeProjects}}<!--
+
+specify review panel membership (simultaneous nomination limits)
+-->{{#switch: {{{award|}}}<!--
+-->|pCanonGA|pLegendsGA|pOOUGA|pNonWPGA|pStatusGA|pWPGA|pMostWPGA<!--
+-->=&#32;among members of the [[Wookieepedia:AgriCorps|AgriCorps]]<!--
+-->|canonGA|legendsGA|OOUGA|nonWPGA|statusGA|WPGA|mostWPGA<!--
+-->=&#32;among non-members of the [[Wookieepedia:AgriCorps|AgriCorps]]<!--
+-->|pCanonFA|pLegendsFA|pOOUFA|pNonWPFA|pStatusFA|pWPFA|pMostWPFA<!--
+-->=&#32;among members of the [[Wookieepedia:Inquisitorius|Inquisitorius]]<!--
+-->|canonFA|legendsFA|OOUFA|nonWPFA|statusFA|WPFA|mostWPFA<!--
+-->=&#32;among non-members of the [[Wookieepedia:Inquisitorius|Inquisitorius]]<!--
+-->|pCanonOverall|pLegendsOverall|pOOUOverall|pNonWPOverall|pStatusOverall|pWPOverall|pWPHS|pMostWP|pHS<!--
+-->=&#32;among members of either the [[Wookieepedia:AgriCorps|AgriCorps]] or the [[Wookieepedia:Inquisitorius|Inquisitorius]]<!--
+-->|canonOverall|canonCA|legendsOverall|legendsCA|OOUOverall|OOUCA|nonWPOverall|statusOverall|WPOverall|WPHS|mostWP|HS<!--
+-->=&#32;among members of neither the [[Wookieepedia:AgriCorps|AgriCorps]] nor the [[Wookieepedia:Inquisitorius|Inquisitorius]]}}<!--
+
+--></u>}}{{#if:{{{multi|}}}|<nowiki />
+
+<nowiki />|&#32;}}in the year {{{year}}}. {{C|To see more about the Status Article Nomination Awards from this and other years, see [[Wookieepedia:Status Article Nominations Awards|here]]!}}{{SANAward/Messages|WP={{{WP|}}}}}</big></div></td></tr></table></includeonly><noinclude>{{Documentation}} [[Category:Award templates]]</noinclude>

@@ -1,0 +1,70 @@
+<div id="p-lang" style="padding-left=0.5px; padding-right=0.5px;">
+<div>{{int:Otherlanguages}}</div>
+<div class="pBody">
+<ul>
+{{#if:{{{bg|}}}|<li class="interwiki-bg plainlinks {{#if:{{{bgFA|}}}|FA}}" title="bg:{{{bg}}}">[[w:c:bg.starwars:{{{bg}}}|{{#language:bg}}]]</li>
+}}{{#if:{{{ca|}}}|<li class="interwiki-ca plainlinks {{#if:{{{caFA|}}}|FA}}" title="ca:{{{ca}}}">[[w:c:ca.starwars:{{{ca}}}|{{#language:ca}}]]</li>
+}}{{#if:{{{cs|}}}|<li class="interwiki-cs plainlinks {{#if:{{{csFA|}}}|FA}}" title="cs:{{{cs}}}">[[w:c:cs.starwars:{{{cs}}}|{{#language:cs}}]]</li>
+}}{{#if:{{{da|}}}|<li class="interwiki-da plainlinks {{#if:{{{daFA|}}}|FA}}" title="da:{{{da}}}">[[w:c:da.starwars:{{{da}}}|{{#language:da}}]]</li>
+}}{{#if:{{{de|}}}|<li class="interwiki-de plainlinks {{#if:{{{deFA|}}}|FA}} {{#if:{{{deGA|}}}|GA}}" title="de:{{{de}}}">[https://www.jedipedia.net/wiki/{{urlencode:{{{de}}}|WIKI}} {{#language:de}}]</li>
+}}{{#if:{{{el|}}}|<li class="interwiki-el plainlinks {{#if:{{{elFA|}}}|FA}}" title="el:{{{el}}}">[[w:c:el.starwars:{{{el}}}|{{#language:el}}]]</li>
+}}{{#if:{{{es|}}}|<li class="interwiki-es plainlinks {{#if:{{{esFA|}}}|FA}} {{#if:{{{esGA|}}}|GA}} {{#if:{{{esCA|}}}|CA}}" title="es:{{{es}}}">[[w:c:es.starwars:{{{es}}}|{{#language:es}}]]</li>
+}}{{#if:{{{fa|}}}|<li class="interwiki-fa plainlinks {{#if:{{{faFA|}}}|FA}}" title="fa:{{{fa}}}">[[w:c:fa.starwars:{{{fa}}}|{{#language:fa}}]]</li>
+}}{{#if:{{{fr|}}}|<li class="interwiki-fr plainlinks {{#if:{{{frFA|}}}|FA}} {{#if:{{{frGA|}}}|GA}}" title="fr:{{{fr}}}">[[w:c:fr.starwars:{{{fr}}}|{{#language:fr}}]]</li>
+}}{{#if:{{{ga|}}}|<li class="interwiki-ga plainlinks {{#if:{{{gaFA|}}}|FA}}" title="ga:{{{ga}}}">[[w:c:ga.starwars:{{{ga}}}|{{#language:ga}}]]</li>
+}}{{#if:{{{ko|}}}|<li class="interwiki-ko plainlinks {{#if:{{{koFA|}}}|FA}}" title="ko:{{{ko}}}">[[w:c:ko.starwars:{{{ko}}}|{{#language:ko}}]]</li>
+}}{{#if:{{{hr|}}}|<li class="interwiki-hr plainlinks {{#if:{{{hrFA|}}}|FA}}" title="hr:{{{hr}}}">[[w:c:hr.starwars:{{{hr}}}|{{#language:hr}}]]</li>
+}}{{#if:{{{it|}}}|<li class="interwiki-it plainlinks {{#if:{{{itFA|}}}|FA}} {{#if:{{{itGA|}}}|GA}} {{#if:{{{itCA|}}}|CA}}" title="it:{{{it}}}">[[w:c:it.starwars:{{{it}}}|{{#language:it}}]]</li>
+}}{{#if:{{{he|}}}|<li class="interwiki-he plainlinks {{#if:{{{heFA|}}}|FA}}" title="he:{{{he}}}">[[w:c:he.starwars:{{{he}}}|{{#language:he}}]]</li>
+}}{{#if:{{{is|}}}|<li class="interwiki-is plainlinks {{#if:{{{isFA|}}}|FA}}" title="is:{{{is}}}">[[w:c:is.starwars:{{{is}}}|{{#language:is}}]]</li>
+}}{{#if:{{{ka|}}}|<li class="interwiki-ka plainlinks {{#if:{{{kaFA|}}}|FA}}" title="ka:{{{ka}}}">[[w:c:ka.starwars:{{{ka}}}|{{#language:ka}}]]</li>
+}}{{#if:{{{la|}}}|<li class="interwiki-la plainlinks {{#if:{{{laFA|}}}|FA}}" title="la:{{{la}}}">[[w:c:la.starwars:{{{la}}}|{{#language:la}}]]</li>
+}}{{#if:{{{hu|}}}|<li class="interwiki-hu plainlinks {{#if:{{{huFA|}}}|FA}}" title="hu:{{{hu}}}">[[w:c:hu.starwars:{{{hu}}}|{{#language:hu}}]]</li>
+}}{{#if:{{{nl|}}}|<li class="interwiki-nl plainlinks {{#if:{{{nlFA|}}}|FA}}" title="nl:{{{nl}}}">[[w:c:nl.starwars:{{{nl}}}|{{#language:nl}}]]</li>
+}}{{#if:{{{ja|}}}|<li class="interwiki-ja plainlinks {{#if:{{{jaFA|}}}|FA}}" title="ja:{{{ja}}}">[[w:c:ja.starwars:{{{ja}}}|{{#language:ja}}]]</li>
+}}{{#if:{{{no|}}}|<li class="interwiki-no plainlinks {{#if:{{{noFA|}}}|FA}}" title="no:{{{no}}}">[[w:c:no.starwars:{{{no}}}|{{#language:no}}]]</li>
+}}{{#if:{{{pl|}}}|<li class="interwiki-pl plainlinks {{#if:{{{plFA|}}}|FA}}" title="pl:{{{pl}}}">[https://www.ossus.pl/biblioteka/{{urlencode:{{{pl}}}|WIKI}} {{#language:pl}}]</li>
+}}{{#if:{{{pt|}}}|<li class="interwiki-pt plainlinks {{#if:{{{ptFA|}}}|FA}} {{#if:{{{ptGA|}}}|GA}}" title="pt:{{{pt}}}">[[w:c:pt.starwars:{{{pt}}}|{{#language:pt}}]]</li>
+}}{{#if:{{{ro|}}}|<li class="interwiki-ro plainlinks {{#if:{{{roFA|}}}|FA}}" title="ro:{{{ro}}}">[[w:c:ro.starwars:{{{ro}}}|{{#language:ro}}]]</li>
+}}{{#if:{{{sr|}}}|<li class="interwiki-sr plainlinks {{#if:{{{srFA|}}}|FA}}" title="sr:{{{sr}}}">[[w:c:sr.starwars:{{{sr}}}|{{#language:sr}}]]</li>
+}}{{#if:{{{fi|}}}|<li class="interwiki-fi plainlinks {{#if:{{{fiFA|}}}|FA}} {{#if:{{{fiGA|}}}|GA}}" title="fi:{{{fi}}}">[https://www.jedipedia.fi/wiki/{{urlencode:{{{fi}}}|WIKI}} {{#language:fi}}]</li>
+}}{{#if:{{{sv|}}}|<li class="interwiki-sv plainlinks {{#if:{{{svFA|}}}|FA}}" title="sv:{{{sv}}}">[[w:c:sv.starwars:{{{sv}}}|{{#language:sv}}]]</li>
+}}{{#if:{{{tr|}}}|<li class="interwiki-tr plainlinks {{#if:{{{trFA|}}}|FA}}" title="tr:{{{tr}}}">[https://starwarsturkiye.com/wiki/{{urlencode:{{{tr}}}|WIKI}} {{#language:tr}}]</li>
+}}{{#if:{{{uk|}}}|<li class="interwiki-uk plainlinks {{#if:{{{ukFA|}}}|FA}}" title="uk:{{{uk}}}">[[w:c:uk.starwars:{{{uk}}}|{{#language:uk}}]]</li>
+}}{{#if:{{{zh|}}}|<li class="interwiki-zh plainlinks {{#if:{{{zhFA|}}}|FA}}" title="zh:{{{zh}}}">[[w:c:zh.starwars:{{{zh}}}|{{#language:zh}}]]</li>}}</ul>
+</div>
+</div>{{#if:{{NAMESPACE}}||{{#ifeq:{{PAGENAME}}|Interlang||{{#if:{{{bg|}}}{{{ca|}}}{{{cs|}}}{{{da|}}}{{{de|}}}{{{el|}}}{{{es|}}}{{{fa|}}}{{{fi|}}}{{{fr|}}}{{{ga|}}}{{{he|}}}{{{hr|}}}{{{hu|}}}{{{is|}}}{{{it|}}}{{{ja|}}}{{{ka|}}}{{{ko|}}}{{{la|}}}{{{nl|}}}{{{no|}}}{{{pl|}}}{{{pt|}}}{{{ro|}}}{{{sl|}}}{{{sr|}}}{{{sv|}}}{{{tr|}}}{{{uk|}}}{{{zh|}}}||[[Category:Articles with empty interlang]]}}}}}}<noinclude>{{Top|fprot}}
+This template creates a custom interwiki field, replacing the default interwiki format of MediaWiki. It has been adapted by Wookieepedia to be independent of Fandom in its choice of interwiki partners following a discussion in the [[Forum:CT:Foreign language link issues|Consensus track]]. If you find a page in the old format, feel free to update it, and please use the new format from now on in new pages.
+
+The template should be placed between the article text with all its templates and the categories. Parameters should be in alphabetical order. Alternatively you can use [[Wookieepedia:HotCat|HotCat]] tool.
+
+==Usage==
+'''Old format:'''
+<pre><nowiki>{{FA|de}}{{FA|es}}
+[[da:Anakin]]
+[[de:Anakin]]
+[[es:Anakin]]
+[[fi:Anakin (täsmennyssivu)]]</nowiki></pre>
+
+'''New format:'''
+<pre><nowiki>{{Interlang
+|da=Anakin
+|de=Anakin
+|es=Anakin
+|fi=Anakin (täsmennyssivu)
+|deFA=1
+|esGA=1
+}}</nowiki></pre>
+
+'''Output:'''
+{{Interlang
+|da=Anakin
+|de=Anakin
+|es=Anakin
+|fi=Anakin (täsmennyssivu)
+|deFA=1
+|esGA=1
+}}
+
+[[Category:Interwiki link templates]]
+</noinclude>

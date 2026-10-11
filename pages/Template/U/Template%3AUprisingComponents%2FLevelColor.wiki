@@ -1,0 +1,9 @@
+<onlyinclude>{{#switch:{{lc:{{{level|{{{1|<noinclude>purple</noinclude>}}}}}}}}<!--
+	-->|black|darkgray|1=filter-darkgray<!--
+	-->|white|gray|2=filter-gray<!--
+	-->|green|3=filter-green<!--
+	-->|blue|4=filter-blue<!--
+	-->|purple|5=filter-lite-purple2<!--
+	-->|orange|6|7|8=filter-orange<!--
+	-->|#default=<!--
+-->}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

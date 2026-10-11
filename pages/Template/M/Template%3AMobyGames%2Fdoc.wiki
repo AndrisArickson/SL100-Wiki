@@ -1,0 +1,26 @@
+This template is to be used for citing individual pages on [[Wikipedia:MobyGames|MobyGames]].
+
+<span class="error">'''Caution''': As a crowdsourced website, MobyGames can only be used in the External links section.</span>
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{MobyGames|url=|text=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.mobygames.com/</nowiki></code>).
+
+===Optional parameters===
+*{{Para|text}} Name of the page being cited. This parameter is optional, as the template is standardized to integrate the pagename as text).
+
+==Example(s)==
+;Standard usage (in external links only)
+<code><nowiki>{{MobyGames|url=game-group/star-wars-x-wing-tie-fighter-series|text=Star Wars X-Wing / Tie Fighter series}}</nowiki></code>
+
+Results in:
+
+{{MobyGames|url=game-group/star-wars-x-wing-tie-fighter-series|text=Star Wars X-Wing / Tie Fighter series}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

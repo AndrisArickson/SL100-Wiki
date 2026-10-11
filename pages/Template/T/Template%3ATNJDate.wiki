@@ -1,0 +1,27 @@
+According to {{WebCite|url=https://www.animatetimes.com/news/details.php?id=1787282569|text=『スター・ウォーズ：ビジョンズ／九人目のジェダイ』神山健治総監督＆多田俊介監督インタビュー｜「スター・ウォーズ」を日本人が作る理由ーージェダイとライトセーバーに秘められた侍の精神を改めて描く|date=2026-08-21|work=[https://www.animatetimes.com アニメイトタイムズ]|language=[[Wikipedia:Japanese language|Japanese]]|archivedate=20260823054754}}, the director [[Shunsuke Tada]] stated that the events of ''[[Star Wars: Visions Presents - The Ninth Jedi]]'' are envisioned as taking place 200 [[Standard year|years]] after the era in which [[Luke Skywalker]] lived. Since ''[[Star Wars: Timelines]]'' dates Luke Skywalker's [[death]] to [[34 ABY]], the events of {{#switch:{{{1|}}}|1="[[A New Threat]]|2="[[A Hidden Weapon]]|3="[[Voice From the Past]]|4="[[Nawaam Attacks]]|5="[[The Storm of Violence]]|6="[[Light of the Force]]|7="[[The Jedi Strike Back]]|8="[[The Ninth Jedi (episode)|The Ninth Jedi]]|''Star Wars: Visions Presents - The Ninth Jedi''}}{{#if: {{{1|}}}|{{#if: {{{2|}}}|," including {{{2}}},|"}}|{{#if: {{{2|}}}|, including {{{2}}},|}}}} must take place around [[234 ABY]].<noinclude>[[Category:Canon television dating citation templates]]
+
+==Usage==
+<code><nowiki>{{TNJDate|episode|event (optional)}}</nowiki></code>
+
+==Complete series dating==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|Series||<nowiki>{{TNJDate}}</nowiki>||c. [[234 ABY]]||{{TNJDate}}
+|-
+|"[[A New Threat]]"||<nowiki>{{TNJDate|1}}</nowiki>||c. [[234 ABY]]||{{TNJDate|1}}
+|-
+|"[[A Hidden Weapon]]"||<nowiki>{{TNJDate|2}}</nowiki>||c. [[234 ABY]]||{{TNJDate|2}}
+|-
+|"[[Voice From the Past]]"||<nowiki>{{TNJDate|3}}</nowiki>||c. [[234 ABY]]||{{TNJDate|3}}
+|-
+|"[[Nawaam Attacks]]"||<nowiki>{{TNJDate|4}}</nowiki>||c. [[234 ABY]]||{{TNJDate|4}}
+|-
+|"[[The Storm of Violence]]"||<nowiki>{{TNJDate|5}}</nowiki>||c. [[234 ABY]]||{{TNJDate|5}}
+|-
+|"[[Light of the Force]]"||<nowiki>{{TNJDate|6}}</nowiki>||c. [[234 ABY]]||{{TNJDate|6}}
+|-
+|"[[The Jedi Strike Back]]"||<nowiki>{{TNJDate|7}}</nowiki>||c. [[234 ABY]]||{{TNJDate|7}}
+|-
+|"[[The Ninth Jedi (episode)|The Ninth Jedi]]"||<nowiki>{{TNJDate|8}}</nowiki>||c. [[234 ABY]]||{{TNJDate|8}}
+|}

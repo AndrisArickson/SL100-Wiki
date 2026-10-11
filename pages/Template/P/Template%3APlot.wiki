@@ -1,0 +1,19 @@
+{{Iumb
+| id = Plot
+| bg = #F8EABA
+| image = [[File:Help.jpg|75px]]
+| caption = Over here! Help! Please, help!
+| message = This article's plot summary  is in need of attention. It may be missing or require expansion.
+| comment = Please improve the plot summary however you can and remove this notice once finished.
+}}<includeonly>{{SpecialCategorizer|{{#switch:{{{1|}}}
+  |comic=[[Category:Comics that need plot summary|{{PAGENAME}}]]
+  |story=[[Category:Short stories that need plot summary|{{PAGENAME}}]]
+  |adventure=[[Category:RPG adventures that need plot summary|{{PAGENAME}}]]
+  |adaptation=[[Category:Adaptations that need plot summary|{{PAGENAME}}]]
+  |#default=[[Category:Articles that need plot summary|{{PAGENAME}}]]
+}}|simple=1}}</includeonly><noinclude>{{Top|fprot}}
+
+==Categorization==
+*[[:Category:Articles that need plot summary]]
+
+[[Category:Maintenance templates]]</noinclude>

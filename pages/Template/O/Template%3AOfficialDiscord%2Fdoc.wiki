@@ -1,0 +1,39 @@
+==Usage==
+<code><nowiki>{{OfficialDiscord|event=|discordname=|name=|servername=|date=|messagelink=|eventlink=|quote=|archivefile=|nobackup=}}</nowiki></code>
+
+<span style="color:red">'''Per [[Forum:CT:Citing Discord messages from Official Discords|this CT]], please make sure you drop all Discord screenshots&mdash;even from [[Wookieepedia:Canon_policy#What_is_not_a_reliable_resource?|Official Discords]]&mdash;onto [[Wookieepedia:Discord screenshots]]! This template should only be used for messages from Official Discords.'''</span>
+
+===Required parameters===
+*{{Para|discordname}} Discord username.
+*{{Para|name}} Full name of the Discord user.
+*{{Para|servername}} Name of the Official Discord server.
+*{{Para|messagelink}} Discord URL link to the message.
+*{{Para|archivefile}} The uploaded Wookieepedia filename of the screenshot taken of the Discord conversation.
+
+===Optional parameters===
+*{{Para|event}} Include to mark as an event.
+*{{Para|eventlink}} Discord URL link to the event.
+*{{Para|date}} Date the Discord post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Quote of the Discord conversation.
+
+===Notes===
+*If {{Para|event}} is active, {{Para|discordname}} and {{Para|name}} should be omitted.
+*Only use {{Para|eventlink}} when {{Para|event}} is active, otherwise use {{Para|messagelink}}.
+
+==Example(s)==
+<code><nowiki>{{OfficialDiscord|discordname=.holocronkeeper|name=Leland Chee|servername=[[ILM Immersive]]|date=2022-11-28|messagelink=https://discord.com/channels/768613519774973963/768613519774973966/1046599042525843456|quote=For Last Call, we had come up with Nobillian for the species name of Neeva and her brother, Neevan.|archivefile=File:LelandChee-NobillianID-Discord.jpg}}</nowiki></code> 
+
+Results in...
+
+{{OfficialDiscord|discordname=.holocronkeeper|name=Leland Chee|servername=[[ILM Immersive]]|date=2022-11-28|messagelink=https://discord.com/channels/768613519774973963/768613519774973966/1046599042525843456|quote=For Last Call, we had come up with Nobillian for the species name of Neeva and her brother, Neevan.|archivefile=File:LelandChee-NobillianID-Discord.jpg}}
+
+<hr />
+<code><nowiki>{{OfficialDiscord|event=MQHW Community Developer AMA - ILM - Star Wars: Beyond Victory|servername=[[Wikipedia:Meta Quest|Meta Quest and Horizon World]]|date=2025-10-24|messagelink=|eventlink=https://discord.com/events/1152286282941218907/1428800213862055986|quote=|archivefile=File:BeyondVictoryAMA-Discord.png}}</nowiki></code>
+
+Results in...
+
+{{OfficialDiscord|event=MQHW Community Developer AMA - ILM - Star Wars: Beyond Victory|servername=[[Wikipedia:Meta Quest|Meta Quest and Horizon World]]|date=2025-10-24|messagelink=|eventlink=https://discord.com/events/1152286282941218907/1428800213862055986|quote=|archivefile=File:BeyondVictoryAMA-Discord.png}}
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

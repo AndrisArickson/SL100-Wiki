@@ -1,0 +1,33 @@
+This template is to be used for citing individual pages on [[Wikipedia:Target Corporation|Target's]] [https://www.target.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{Target|url=|subdomain=|domain=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>http://www.target.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, for example, <code>books</code>. (Defaults to <code>www</code> if not specified).
+*{{Para|domain}} When citing from an alternate Target website such as <code><nowiki>https://tgtfiles.target.com.edgesuite.net/</nowiki></code>. (Defaults to <code>.com</code> if not specified).
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Target|url=p/star-wars-the-complete-saga-episodes-i-vi-blu-ray/-/A-13308328|text=Star Wars: The Complete Saga (Episodes I-VI) <nowiki>[Blu-ray]</nowiki></nowiki><nowiki>}}</nowiki></code>
+
+Results in:
+
+{{Target|url=p/star-wars-the-complete-saga-episodes-i-vi-blu-ray/-/A-13308328|text=Star Wars: The Complete Saga (Episodes I-VI) <nowiki>[Blu-ray]</nowiki>}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

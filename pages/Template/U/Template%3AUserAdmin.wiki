@@ -1,0 +1,12 @@
+{{Userbox|silver|lightgray|adm|This user is a [[Wookieepedia]] [[Wookieepedia:Administrators|'''administrator''']].|headerbackground=2}}<includeonly>{{SpecialCategorizer|[[Category:Wookieepedia administrators|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserAdmin}}</nowiki></code> into your user page.
+
+==Categorization==
+*[[:Category:Wookieepedia administrators]]
+
+{{Interlang|es=Plantilla:Administrador}}
+
+[[Category:Administrative templates|{{PAGENAME}}]]
+[[Category:Wiki userboxes|Admin]]</noinclude>

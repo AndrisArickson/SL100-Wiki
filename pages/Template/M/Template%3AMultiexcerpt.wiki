@@ -1,0 +1,38 @@
+<table border="0" cellspacing="0" cellpadding="4" style="border:1px solid #AAAAAA; background:{{{background|#00000005}}}; -moz-border-radius:6px; padding:0; margin:.5em 1em .5em 1em; {{#if:{{{width|}}}|width:{{{width}}};|}}">
+{{{1}}}
+{{#if:{{{copyright|}}}|<tr style="text-align:center; background:#00000025;"><td colspan="2" style="font-size:90%; border-top:1px solid #AAAAAA;">''This work is [[Wookieepedia:Copyrights|copyrighted]]. The individual who uploaded this work asserts that this qualifies as [[wikipedia:Fair use|fair use]] of the material under United States copyright law.''</td></tr>|}}</table><noinclude> __NOEDITSECTION__ __NOTOC__
+{{clear}}
+===Field list===
+*copyright (Displays a copyright warning)
+*width (Width modifier)
+*background (defaults to white &ndash; #ffffff)
+
+===Details===
+This template can be used to format items in a similar manner to [[Template:Excerpt]] except that it is for situations where a the information being presented is split over multiple sources. Each source in the template is represented with a separate [[Template:ExcerptSection]]
+
+===Usage===
+'''Example'''
+<pre>{{Multiexcerpt|
+{{ExcerptSection|This information is from source one.</div>
+|source=Source 1
+|attrib=Author 1
+}}
+{{ExcerptSection|This information is from source two.</div>
+|source=Source 2
+|attrib=Author 2
+}}
+|copyright=true}}</pre>
+
+'''Result'''
+{{Multiexcerpt|
+{{ExcerptSection|This information is from source one.
+|source=Source 1
+|attrib=Author 1
+}}
+{{ExcerptSection|This information is from source two.
+|source=Source 2
+|attrib=Author 2
+}}
+|copyright=true}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

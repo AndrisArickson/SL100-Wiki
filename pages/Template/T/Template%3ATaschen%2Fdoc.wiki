@@ -1,0 +1,32 @@
+This template is to be used for citing individual pages on [[TASCHEN]]'s [https://www.taschen.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Taschen|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.taschen.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Taschen|url=pages/en/catalogue/film/all/01170/facts.the_star_wars_archives_19771983.htm|text=The Star Wars Archives. 1977–1983|archivedate=20210212010036}}</nowiki></code>
+
+Results in:
+
+{{Taschen|url=pages/en/catalogue/film/all/01170/facts.the_star_wars_archives_19771983.htm|text=The Star Wars Archives. 1977–1983|archivedate=20210212010036}}
+
+<hr />
+<code><nowiki>{{Taschen|url=pages/en/catalogue/film/all/01170/facts.the_star_wars_archives_19771983.htm|text=The Star Wars Archives. 1977–1983|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Taschen|url=pages/en/catalogue/film/all/01170/facts.the_star_wars_archives_19771983.htm|text=The Star Wars Archives. 1977–1983|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,50 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="author"><label>Author(s)</label></data>	
+        <data source="illustrator"><label>Illustrator(s)</label></data>
+        <data source="editor"><label>Editor(s)</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="release date"><label>Release date</label></data>
+        <data source="published in"><label>Published in</label><format>{{#ifeq:{{lc:{{{published in|}}}}}|none||{{{published in}}}}}</format></data>
+        <data source="reprinted in"><label>Reprinted in</label></data>	
+        <data source="pages"><label>Pages</label></data> 
+    </group>
+        <group collapse="open">
+    	<header>Chronology</header>
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="series"><label>Series</label></data>	
+        <data source="preceded by"><label>Preceded by</label></data>
+        <data source="followed by"><label>Followed by</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:ShortStory|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|author|illustrator|editor|publisher|release date|published in|reprinted in|pages|timeline|series|preceded by|followed by|optional=no_year_check,not_appearance}}<!--
+-->{{#invoke:MediaDateCheck|main|published in|no_year_check={{{no_year_check|}}}|stories=1|image_optional=1|template_name=ShortStory}}<includeonly>{{AppMediaCat|not_appearance={{{not_appearance|}}}}}</includeonly><noinclude>[[category:Media infoboxes]]
+
+==Usage==
+<pre>{{Top|real}}
+{{ShortStory
+|image=
+|title=
+|author=
+|illustrator=
+|editor=
+|publisher=
+|release date=
+|published in=
+|reprinted in=
+|pages=
+|timeline=
+|series=
+|preceded by=
+|followed by=
+}}
+</pre></noinclude>

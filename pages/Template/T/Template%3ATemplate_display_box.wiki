@@ -1,0 +1,37 @@
+{| class="template-display" cellpadding="0" cellspacing="0" style="width:{{{width|100%}}}; border:1px solid #CEDFF2; margin-bottom:6px;"
+|-
+| style="padding:5px;" |
+{{{display|{{{{{1}}}}}}}}
+|-
+| style="background:#F2F5FD; padding:2px" |
+{| cellpadding="0" cellspacing="0" border="0" style="padding:0; float:left; margin:1px;"
+|-
+| class="plainlinks" style="background:#D8E9FC; padding:5px; border-radius:10px; cursor:text;" |&#123;&#123;{{#if:{{{subst|}}}|subst:|}}[[{{ns:Template}}:{{{1}}}|{{{1}}}]]{{#if:{{{param|}}}|&#124;{{{param}}}|}}&#125;&#125;
+|}
+{{#if:{{{cat|}}}|
+{{{!}} cellpadding="0" cellspacing="0" border="0" style="padding:0; float:right; margin:1px;"
+{{!}}-
+{{!}} class="plainlinks" style="background:#D8E9FC; padding:5px; border-radius:10px" {{!}} [[:Category:{{{cat}}}|cat]]&nbsp;{{#if:{{{morecat|}}}|{{{morecat}}}|}}
+{{!}}}|}}
+{| cellpadding="0" cellspacing="0" border="0" style="padding:0; float:right; margin:1px;"
+|-
+| class="plainlinks" style="background:#D8E9FC; padding:5px; border-radius:10px" |[[Special:Whatlinkshere/Template:{{{1}}}|links]]
+|}
+{| cellpadding="0" cellspacing="0" border="0" style="padding:0; float:right; margin:1px;"
+|-
+| class="plainlinks" style="background:#D8E9FC; padding:5px; border-radius:10px" |[[Template talk:{{{1}}}|talk]]
+|}
+{| cellpadding="0" cellspacing="0" border="0" style="padding:0; float:right; margin:1px;"
+|-
+| class="plainlinks" style="background:#D8E9FC; padding:5px; border-radius:10px" |[{{SERVER}}{{localurl:{{ns:Template}}:{{{1}}}|action=edit}} edit]
+|}
+|}<noinclude>{{clear}}
+==Variables==
+*display &ndash; Used to override the automatic template display behavior
+*param &ndash; Used to add parameters
+*width &ndash; Used to modify the template's width.
+*subst &ndash; When assigned a value, the 'subst' modifier is added
+*cat &ndash; Used to link to the category that the template places pages in
+*morecat &ndash; Used to list additional categories.
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

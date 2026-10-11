@@ -1,0 +1,27 @@
+<infobox theme="Language">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+        <data source="users"><label>Users</label></data>
+        <data source="locations"><label>Locations</label></data>	
+        <data source="type"><label>Script type</label></data>	
+        <data source="characteristics"><label>Characteristics</label></data>
+        <data source="related"><label>Related scripts</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Script|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|users|locations|type|characteristics|related|ignore=name}}<noinclude>__NOTOC__
+==Usage==
+<pre>{{Script
+|image=
+|name=
+|users=
+|locations=
+|type=
+|characteristics=
+|related=
+}}</pre>
+[[Category:infobox templates]]

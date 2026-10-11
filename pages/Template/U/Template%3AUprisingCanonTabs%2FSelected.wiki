@@ -1,0 +1,31 @@
+<noinclude><table id="canontab" style="text-align:center;padding:0;margin:0 0 5px 0;border-left:0;border-right:0;border-top:0;border-bottom:7px solid #002e54;border-spacing:0;border-collapse:collapse;width:100%;vertical-align:top;" class="class-style margin-bottom-5px text-align-center border-collapse-collapse vertical-align-top border-bottom-width-7px border-bottom-color-002e54 border-bottom-style-solid width-100-pct"></noinclude><onlyinclude><!--
+--><td id="{{#if:{{{id|}}}|{{{id}}}|<!--
+	-->{{#switch:{{lc:{{{icon|{{{name|<noinclude>uprising</noinclude>}}}}}}}}<!--
+		-->|canon=canontab-canon<!--
+		-->|legends=canontab-legends<!--
+		-->|swur|swup|uprising|starwarsuprising|star wars uprising|starwarsuprisinglogotransparent=canontab-uprising<!--
+		-->|#default=<!--
+	-->}}}}" style="padding:0 0 5px 0;background-color:#002e54;line-height:0.95em;font-size:150%;font-weight:bold;width:20px;vertical-align:top;" class="class-style std-background-002e54 vertical-align-top padding-0 width-170-px padding-bottom-5px"><!--
+	--><span class="content-bg rtop class-style std-background-white display-block padding-0 margin-0" style="background:#ffffff;"><!--
+		--><span class="r1 class-style display-block std-background-002e54 height-1-px padding-0 margin-left-5px margin-right-5px margin-top-0px margin-bottom-0px" style="background:#002e54;"></span><!--
+		--><span class="r2 class-style display-block std-background-002e54 height-1-px padding-0 margin-left-3px margin-right-3px margin-top-0px margin-bottom-0px" style="background:#002e54;"></span><!--
+		--><span class="r3 class-style display-block std-background-002e54 height-1-px padding-0 margin-left-2px margin-right-2px margin-top-0px margin-bottom-0px" style="background:#002e54;"></span><!--
+		--><span class="r4 class-style display-block std-background-002e54 height-1-px padding-0 margin-left-1px margin-right-1px margin-top-0px margin-bottom-0px height-2-px" style="background:#002e54;"></span><!--
+	--></span><!--
+	
+	-->{{#switch:{{lc:{{{icon|{{{name|<noinclude>uprising</noinclude>}}}}}}}}<!--
+		-->|canon|tab-canon|tab-canon-white=<div class="class-style display-block width-170-px height-30-px thumb-no-margin" style="display:block;width:170px;height:30px;">[[File:Tab-canon-white.png|frameless|link={{{link|<noinclude>Hoth/Canon</noinclude>}}}|{{{alt|{{{linkTitle|Click here for Wookieepedia's article on the Canon version of this subject.}}}}}}|170x30px]]</div><!--
+		
+		-->|legends|tab-legends|tab-legends-white=<div class="class-style display-block width-170-px height-30-px thumb-no-margin" style="display:block;width:170px;height:30px;">[[File:Tab-legends-white.png|frameless|link={{{link|<noinclude>Hoth</noinclude>}}}|{{{alt|{{{linkTitle|Click here for Wookieepedia's article on the Legends version of this subject.}}}}}}|170x30px]]</div><!--
+		
+		-->|swur|swup|uprising|starwarsuprising|star wars uprising|starwarsuprisinglogotransparent=<div class="class-style display-block width-170-px height-30-px " style="display:block;width:170px;height:30px;"><!--
+				--><div class="class-style display-inline-block width-76-px height-35-px margin-left-auto margin-right-auto margin-top-0 margin-bottom-0 thumb-no-margin" style="display:block;width:76px;height:35px;margin:0 auto;"><!--
+					-->[[File:StarWarsUprisingLogoTransparent.png|frameless|link={{{link|<noinclude>Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Hoth</noinclude>}}}|{{{alt|{{#if:{{{linkTitle|}}}|{{{linkTitle|}}}|This article covers the Star Wars: Uprising game information for this subject.}}}}}|alt={{{alt|{{#if:{{{linkTitle|}}}|{{{linkTitle|}}}|This article covers the Star Wars: Uprising game information for this subject.}}}}}|x35px]]<!--
+				--></div><!--
+			--></div><!--
+			
+		-->|#default={{#if:{{{icon|}}}|<div class="class-style display-block width-170-px height-30-px thumb-no-margin" style="display:block;width:170px;height:30px;">[[File:{{{icon|}}}|frameless|link={{{link|}}}|{{{alt|{{{linkTitle|}}}}}}|170x30px]]</div>|}}<!--
+	-->}}<!--
+	
+--></td><!--
+--></onlyinclude><noinclude><td id="canontab-separator3" style="width:3000px;" class="class-style width-200px">&#32;</td></table>[[Category:Templates for Star Wars: Uprising]]</noinclude>

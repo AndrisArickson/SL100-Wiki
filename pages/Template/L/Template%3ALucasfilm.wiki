@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Lucasfilm
+|image=[[File:Lucasfilm.svg|text-top|x16px|class=darkmodeinvert|link=https://www.lucasfilm.com]]
+|site_text=[[Lucasfilm]]'s [https://www.lucasfilm.com official website]
+|base_url=https://{{{subdomain|www}}}.lucasfilm.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

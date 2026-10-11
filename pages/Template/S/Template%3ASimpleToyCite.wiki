@@ -1,0 +1,13 @@
+{{#invoke:ToyCitation|main|title=SimpleToyCite
+|set={{{parent|}}}
+|parent=
+|stext={{{text|}}}
+|noitalics=1
+|pack={{{pack|{{{nolink|}}}}}}
+|packtype={{{packtype|Item}}}
+|itemlink={{{item|}}}
+|itext={{{itext|}}}
+|link=
+|url={{{link|}}}
+|skipArchive=true
+}}<noinclude>{{Top|fprot|mprot}}{{Documentation}}</noinclude>

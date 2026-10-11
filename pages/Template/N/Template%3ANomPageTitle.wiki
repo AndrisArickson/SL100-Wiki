@@ -1,0 +1,1 @@
+[[<includeonly>{{#titleparts:{{subst:#ifexpr:{{subst:#count:{{subst:FULLPAGENAME}}| nomination)}} > 0 |{{subst:#sub:{{subst:FULLPAGENAME}}|0|{{subst:#expr:{{subst:#pos:{{subst:FULLPAGENAME}}|(}} - {{subst:#len:{{subst:FULLPAGENAME}}}} - 1}}}}|{{subst:FULLPAGENAME}}}}||2}}</includeonly>]]<noinclude>[[Category:Utility templates]]</noinclude>

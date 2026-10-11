@@ -1,0 +1,250 @@
+This template is to be used for referencing  content from ''[[Star Wars: The Old Republic]]'' video game and its expansions.
+
+==Usage==
+Copy one of the template variations below (see "Examples"), and paste it into an article's reference note.
+
+===Required parameters===
+*{{Para|type}} Type of content, on which is based each variation of the template. Type can be: area, bonus, class, codex, conversation, crewskill, daily, dynamic, enemy, faction, fighter, flashpoint, general, gsiact, gsireq, heroic, item, location, message, operation, other, space, tactical, uprising, warzone and weekly. Pages missing this parameter are listed [[:Category:Invalid TORcite parameter arguments|here]].
+
+===Optional parameters===
+*{{Para|exp}} Designation of the expansion:
+**rothc for ''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]''
+**starfighter for ''[[Star Wars: The Old Republic: Galactic Starfighter]]''
+**strongholds for ''[[Star Wars: The Old Republic: Galactic Strongholds]]''
+**shadow for ''[[Star Wars: The Old Republic: Shadow of Revan]]''
+**kotfe for ''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]''
+**kotet for ''[[Star Wars: The Old Republic: Knights of the Eternal Throne]]''
+**ons for ''[[Star Wars: The Old Republic: Onslaught]]''
+**lots for ''[[Star Wars: The Old Republic: Legacy of the Sith]]''
+*{{Para|chapter}} To cite chapters from expansions and Game Updates.
+
+==Variations and examples==
+===Missions===
+====area====
+"area" is to be used to cite area-wide missions:
+
+Template: <code><nowiki>{{TORcite|type=area|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=area|Wreck of the Stardream|Tatooine}}</nowiki></code>
+
+Result: {{TORcite|type=area|Wreck of the Stardream|Tatooine}}
+
+====bonus====
+"bonus" is to be used to cite bonus missions:
+
+Template: <code><nowiki>{{TORcite|type=bonus|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=bonus|Payment Due|Alderaan}}</nowiki></code>
+
+Result: {{TORcite|type=bonus|Payment Due|Alderaan}}
+
+====chapter (with exp)====
+The "chapter" parameter is to be used instead of "type" to cite chapitral missions from the ''Knights of the Fallen Empire'' and ''Knignts of the Eternal Throne'' expansions and their Game Updates. It must always use the "exp" parameter with either "kotfe" (chapter 1 to 16 and Interlude as "17") or "kotet" (chapter 1 to 9):
+
+Template: <code><nowiki>{{TORcite|exp=kotfe/kotet|chapter=Number (1 to 17)}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|exp=kotfe|chapter=1}}</nowiki></code>
+
+Result: {{TORcite|exp=kotfe|chapter=1}}
+
+====class====
+"class" is to be used to cite class-exclusive missions:
+
+Template: <code><nowiki>{{TORcite|type=class|Class|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=class|Jedi Consular|The Path of a Jedi|Tython}}</nowiki></code>
+
+Result: {{TORcite|type=class|[[The Barsen'thor|Jedi Consular]]|The Path of a Jedi|Tython}}
+
+====conversation====
+"conversation" is to be used to cite conversation missions with companions:
+
+Template: <code><nowiki>{{TORcite|type=conversation|Companion name|Mission name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=conversation|[[Kaliyo Djannis]]|Kaliyo and Yjal}}</nowiki></code>
+
+Result: {{TORcite|type=conversation|[[Kaliyo Djannis]]|Kaliyo and Yjal}}
+
+====crewskill====
+"crewskill" is to be used to cite Crew Skill (Archeology, Bioanalysis, Scavenging, Slicing, Armormech, Armtech, Artifice, Biochem, Cybertech, Syntheweaving, Diplomacy, Investigation, Treasure Hunting or Underworld Trading) missions:
+
+Template: <code><nowiki>{{TORcite|type=crewskill|Skill name|Mission name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=crewskill|Archaeology|Memoirs of a Crimelord}}</nowiki></code>
+
+Result: {{TORcite|type=crewskill|Archaeology|Memoirs of a Crimelord}}
+
+====daily and weekly====
+"daily" and "weekly" is to be used to cite daily repeatable missions:
+
+Template: <code><nowiki>{{TORcite|type=daily/weekly|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|exp=rothc|type=daily|Dread Engines|Oricon}}</nowiki></code>
+
+Result: {{TORcite|exp=rothc|type=daily|Dread Engines|Oricon}}
+
+====dynamic====
+"dynamic" is used to cite Dynamic Encounters:
+
+Template: <code><nowiki>{{TORcite|type=dynamic|Encounter name|Planet}}</nowiki></code>
+
+Result: {{TORcite|exp=lots|type=dynamic|Senatorial Celebration|Coruscant}}
+
+====event====
+"event" is to be used to cite yearly events:
+
+Template: <code><nowiki>{{TORcite|type=event|Bounty Contract Week}}</nowiki></code>
+
+Result: {{TORcite|type=event|Bounty Contract Week}}
+
+====faction====
+"faction" is to be used to cite faction specific (Imperial or Republic) mission:
+
+Template: <code><nowiki>{{TORcite|type=faction|Faction|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=faction|Imperial|Revan's Secret|Nar Shaddaa}}</nowiki></code>
+
+Result: {{TORcite|type=faction|Imperial|Revan's Secret|Nar Shaddaa}}
+
+====general====
+"general" is to be used to cite missions that are not area, class, crew skill, faction, GSI, heroic, space or repeatable-specific missions:
+
+Template: <code><nowiki>{{TORcite|type=general|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=general|Chasing History|Taris}}</nowiki></code>
+
+Result: {{TORcite|type=general|Chasing History|Taris}}
+
+====gsiact and gsireq (with exp)====
+"gsiact" and "gsireq" are to be used to cite [[Galactic Solutions Industries]] missions, respectively "Action Alert" and "Requisition Alert":
+
+Template: <code><nowiki>{{TORcite|exp=Expansion designation|type=gsiact/gsireq|Mission name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|exp=rothc|type=gsiact|Saboteur at Large|Alderaan}}</nowiki></code>
+
+Result: {{TORcite|exp=rothc|type=gsiact|Saboteur at Large|Alderaan}}
+
+====heroic====
+"heroic" is to be used to cite heroic missions:
+
+Template: <code><nowiki>{{TORcite|type=heroic|The Chamber of Speech|Tython}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=heroic|The Chamber of Speech|Tython}}</nowiki></code>
+
+Result: {{TORcite|type=heroic|The Chamber of Speech|Tython}}
+
+====space====
+"space" is to be used to cite space missions:
+
+Template: <code><nowiki>{{TORcite|type=space|Mission name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=space|Jabiim Escort}}</nowiki></code>
+
+Result: {{TORcite|type=space|Jabiim Escort}}
+
+===Environments===
+====enemy====
+"enemy" is to be used to cite the presence of a specific non-playable character (NPC) on the global map, without relation to a mission:
+
+Template: <code><nowiki>{{TORcite|type=enemy|NPC name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=enemy|[[Abiss Sol'oras]]|Coruscant}}</nowiki></code>
+
+Result: {{TORcite|type=enemy|[[Abiss Sol'oras]]|Coruscant}}
+
+====fighter====
+"fighter" is to be used to cite elements from the environment on Galactic Starfighter maps:
+
+Template: <code><nowiki>{{TORcite|type=fighter|Map name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=fighter|Battle Over Iokath}}</nowiki></code>
+
+Result: {{TORcite|type=fighter|Battle Over Iokath}}
+
+====flashpoint and tactical====
+"flashpoint" and "tactical" are to be used to cite elements from the environment in Flashpoints:
+
+Template: <code><nowiki>{{TORcite|type=flashpoint/tactical|Flashpoint name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|exp=kotet|type=flashpoint|A Traitor Among the Chiss}}</nowiki></code>
+
+Result: {{TORcite|exp=kotet|type=flashpoint|A Traitor Among the Chiss}}
+
+====item====
+"item" is to be used to cite a specific item:
+
+Template: <code><nowiki>{{TORcite|type=item|Item name|the Cartel Market}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=item|Tulak Hord's lightsaber|the Cartel Market}}</nowiki></code>
+
+Result: {{TORcite|type=item|Tulak Hord's lightsaber|the Cartel Market}}
+
+====location====
+"location" is to be used to cite elements (including ambient dialogues) from a specific location on the global map:
+
+Template: <code><nowiki>{{TORcite|type=location|Location name|Planet}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=location|[[Old Galactic Market]]|Coruscant}}</nowiki></code>
+
+Result: {{TORcite|type=location|[[Old Galactic Market]]|Coruscant}}
+
+Example (for ambient dialogue): <code><nowiki>{{TORcite|type=location|Ambient dialogue in the [[City/Legends|city]] of [[Olaris]]|Taris}}</nowiki></code>
+
+Result: {{TORcite|type=location|Ambient dialogue in the [[City/Legends|city]] of [[Olaris]]|Taris}}
+
+====operation====
+"operation" is to be used to cite elements from the environment in Operations:
+
+Template: <code><nowiki>{{TORcite|exp=kotet|type=operation|Gods from the Machine}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|exp=kotet|type=operation|Gods from the Machine}}</nowiki></code>
+
+Result: {{TORcite|exp=kotet|type=operation|Gods from the Machine}}
+
+====uprising (with exp)====
+"uprising" is to be used to cite elements from the environment in Uprisings (and must always features "exp=kotet"):
+
+Template: <code><nowiki>{{TORcite|exp=kotet|type=uprising|Uprising name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|exp=kotet|type=uprising|Uprising: Fractured}}</nowiki></code>
+
+Result: {{TORcite|exp=kotet|type=uprising|Uprising: Fractured}}
+
+====warzone====
+"warzone" is to be used to cite elements from the environment in Warzones:
+
+Template: <code><nowiki>{{TORcite|type=warzone|Warzone name}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=warzone|''[[Voidstar]]''}}</nowiki></code>
+
+Result: {{TORcite|type=warzone|''[[Voidstar]]''}}
+
+===Others===
+====codex====
+"codex" is to be used to cite entries from the in-game Codex:
+
+Template: <code><nowiki>{{TORcite|type=codex|Entry title}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=codex|Republic Military Ranks}}</nowiki></code>
+
+Result:{{TORcite|type=codex|Republic Military Ranks}}
+
+====message====
+"message" is to be used to cite mail message sent by a non-playable character (NPC):
+
+Template: <code><nowiki>{{TORcite|type=message|Message title|NPC signature}}</nowiki></code>
+
+Example: <code><nowiki>{{TORcite|type=message|The rogue Jedi Ako Domi|Grand Master Satele Shan}}</nowiki></code>
+
+Result: {{TORcite|type=message|The rogue Jedi Ako Domi|Grand Master Satele Shan}}
+
+====other====
+"other" is to be used to cite any miscellaneous details that could fit into one of others variations of the template:
+
+Template: <code><nowiki>{{TORcite|type=other|Description}}</nowiki></code>
+
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=QuirkBooks
+|image=[[File:QuirkBooks-Icon.svg|text-top|x16px|link=https://quirkbooks.com]]
+|site_text=[[Quirk Books]]'s [https://quirkbooks.com official website]
+|base_url=https://{{{subdomain|www}}}.quirkbooks.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,18 @@
+<includeonly>{{CardGame|PocketModel
+|parent={{{parent|}}}
+|set={{{set|}}}
+|link={{{link|}}}
+|cardname={{{unit|{{{cardname|}}}}}}
+|ctype={{#if:{{{unit|}}}|Unit|Card}}
+|ship={{{ship|}}}
+|text={{{text|}}}
+|full_url={{{link|}}}
+|target={{{link|}}}
+|archiveurl={{{archiveurl|}}}
+|archivedate={{{archivedate|}}}
+|nobackup={{{nobackup|}}}
+|nolive=1
+|use_lua_subpage=1
+|manual_archiveurl={{#if:{{{link|}}}||no-link}}
+}}<!--
+-->{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

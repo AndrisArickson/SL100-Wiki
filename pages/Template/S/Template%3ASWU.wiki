@@ -1,0 +1,49 @@
+<includeonly>{{CardGame|SWU
+|parent={{{parent|}}}
+|set={{{set|}}}
+|link={{{link|}}}
+|base_url=https://starwarsunlimited.com/cards?cid=
+|target={{{link|}}}
+|cardname={{{cardname|}}}{{#if:{{{subtitle|}}}|&#58;&#32;{{{subtitle}}}|}}{{#if:{{{type|}}}|&#32;{{C|{{{type|}}}}}}}
+|text={{{text|}}}
+|customurl={{{altlink|}}}
+|archiveurl={{{archiveurl|}}}
+|archivedate={{{archivedate|}}}
+|archivefile={{{archivefile|}}}
+|nobackup={{{nobackup|}}}
+|nolive={{{nolive|}}}
+|use_lua_subpage=1
+|nourl={{{nourl|}}}
+|promo={{{promo|}}}
+}}{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]] ‡|}}</includeonly><noinclude>
+
+==Usage==
+Place the following code on the page and replace "SET NAME", "URL", and "CARD NAME" with the appropriate information.
+ <nowiki>{{</nowiki>SWU|set=''SET NAME''|cardname=''CARD NAME''|subtitle=''SUBTITLE IF PRESENT''|type=''NON-HYPERSPACE CARD TYPE''|link=''URL''}}
+The Standard and Hyperspace versions should be combined into just the Hyperspace version. Make sure to use the Hyperspace version's ID for the link parameter.
+
+===Required parameters===
+*{{Para|set}} The set's name. Automatically italicized. Leave out parenthetical of "(Star Wars: Unlimited)"
+*{{Para|cardname}} The card's name. If the card is unique (marked by a four-pointed star), separate the card's name and the subtitle (if it has one) with <nowiki>&mdash;</nowiki>.
+*{{Para|type}} The card's type for when it isn't hyperspace.
+*{{Para|link}} The URL of the page, minus <code><nowiki>https://starwarsunlimited.com/cards?cid=</nowiki></code>.
+
+==Examples==
+<nowiki>{{SWU|set=Homeworlds|cardname=Keeper of Skara Nal|subtitle=Awaken|type=Prestige|link=8857024284|archiveurl=https://megalodon.jp/2026-1007-1334-39/https://starwarsunlimited.com:443/cards?cid=8857024284}}</nowiki>
+
+Produces:
+
+{{SWU|set=Homeworlds|cardname=Keeper of Skara Nal|subtitle=Awaken|type=Prestige|link=8857024284|archiveurl=https://megalodon.jp/2026-1007-1334-39/https://starwarsunlimited.com:443/cards?cid=8857024284}}
+
+==Archivelinks==
+Please use megalodon.jp full links for archiveurl like shown in the example.
+
+==Maintenance categories==
+These categories should be watched and kept at 0.
+*[[:Category:Pages with missing permanent archival links]] &mdash; Usages of the template without any archives.
+*[[:Category:Pages using Template:SWU with non-SWUDB archiveurl values]] &mdash; Usages of the template that are using archiveurls unlike the example above.
+*[[:Category:Pages passing alternate links to link parameter of Template:SWU]] &mdash; Usages of the template where the link parameter is not linking to the official database.
+*[[:Category:SWU cards citing the Standard format]] &mdash; usages of the template that use "Standard" as the value for the type parameter. This should only be used for cards for which the Hyperspace version has not yet been released; once they have been, these usages should have their links updated and the type parameter removed.
+
+[[Category:Card game citation templates|{{PAGENAME}}]]
+</noinclude>

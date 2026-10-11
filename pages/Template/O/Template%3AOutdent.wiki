@@ -1,0 +1,110 @@
+<span class="outdent-template" style="display:block; margin-top:-0.5em; color:#AAA;"><!--
+--><span style="display:inline-block; overflow:hidden;">┌</span><!--
+--><span style="display:inline-block; overflow:hidden; width:{{{{{|safesubst:}}}#switch:{{{1|}}}
+|*
+|:=0.8
+|**
+|::=2.4
+|***
+|:::=4.0
+|****
+|::::=5.6
+|*****
+|:::::=7.2
+|******
+|::::::=9
+|*******
+|:::::::=10.6
+|********
+|::::::::=12
+|*********
+|:::::::::=13.6
+|**********
+|::::::::::=15.2
+|***********
+|:::::::::::=16.8
+|************
+|::::::::::::=18.4
+|*************
+|:::::::::::::=20
+|**************
+|::::::::::::::=21.6
+|***************
+|:::::::::::::::=23.2
+|****************
+|::::::::::::::::=24.8
+|*****************
+|:::::::::::::::::=26.4
+|******************
+|::::::::::::::::::=28
+|*******************
+|:::::::::::::::::::=29.6
+|********************
+|::::::::::::::::::::=31.2
+|#default={{#expr:{{{1|10}}}*1.6-0.8}}}}em;"><!--
+-->────────────────────────────────────────────────────────────────────────────────────────────────────</span><!--
+--><span style="display:inline-block; overflow:hidden;">┘</span><!--
+--></span><!--
+--><span>{{{{{|safesubst:}}}#if:{{{2|}}}|{{C|outdent}}&#32;}}</span><noinclude>{{Title-shortcut|<nowiki>{{od}}</nowiki>}}
+
+For outdenting a reply on a talk page when indention gets too deep.  Indenting on talk pages is done using a colon character (:) to produce tabs; this template produces a connector bar and initial text to indicate an outdent, based on the number of colons used in the previous indent.
+=== Usage ===
+
+To outdent posts, insert the number of colons that were used for indenting in the previous post, or use an integer value for that number. 
+
+<div style="border:thin blue solid; padding:8px; margin:4px">
+<pre>::::This is the previous post, indented 4 levels
+{{Outdent|::::}} Start of a new post</pre>
+
+displays as 
+
+::::This is the previous post, indented 4 levels
+{{Outdent|::::}} Start of a new post
+</div>
+
+<div style="border:thin blue solid; padding:8px; margin:4px">
+<pre>::::::This is the previous post, indented 6 levels
+{{Outdent|6}} Start of a new post</pre>
+
+displays as 
+
+::::::This is the previous post, indented 6 levels
+{{Outdent|6}} Start of a new post
+</div>
+
+You can also have the template automatically add a linked tag, by adding any second parameter (its specific value is discarded):
+
+<div style="border:thin blue solid; padding:8px; margin:4px">
+<pre>::::::This is the previous post, indented 6 levels
+{{Outdent|6|link}} Start of a new post</pre>
+
+displays as 
+
+::::::This is the previous post, indented 6 levels
+{{Outdent|6|link}} Start of a new post
+</div>
+
+To not outdent all the way to the left margin, the outdent template itself can be indented using one or more colons:
+<div style="border:thin blue solid; padding:8px; margin:4px">
+<pre>::::::This is the previous post, indented 6 levels
+::{{Outdent|4}} Start of a new post</pre>
+
+displays as
+
+::::::This is the previous post, indented 6 levels
+::{{Outdent|4}} Start of a new post
+</div>
+
+The template supports up to 20 colons as a parameter, but supports any given integer. Values above 40 may show a separated line though.
+
+The default number of colons is 10. Do not use subst: with this template.
+
+This template is contained in the CSS class "outdent-template". Users who would prefer not to see the template can add the following line to their custom CSS ([[Special:MyPage/common.css]]):
+
+:<code>span.outdent-template { display: none; }</code>
+
+{{Wikipedia|Template:Outdent}}
+{{Wikipedia|Template:Outdent/doc}}
+
+[[Category:Utility templates|{{PAGENAME}}]]
+<noinclude>

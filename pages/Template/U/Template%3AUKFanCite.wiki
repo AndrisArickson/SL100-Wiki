@@ -1,0 +1,23 @@
+{{#invoke:BaseCitation|main|template=UKFanCite
+|mode=magazine
+|series=Star Wars: The Official Magazine
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+|reprint={{{reprint|}}}
+}}<noinclude>
+
+==Usage instructions==
+To be used when citing short comics from ''[[Star Wars: The Official Magazine]]''.
+
+ <nowiki>{{</nowiki>UKFanCite|''ISSUE NUMBER''|''ARTICLE NAME''|''FORMATTED NAME'' (optional)}}
+
+*'''Note''': Formatted name is ''only'' needed when the episode name includes either italicization, or intentional parentheses. Otherwise, it should be excluded, as parenthetical descriptors are natively hidden.
+
+*{{UKFanCite|5|Second Trooper|Second Trooper: Memoirs of Mon Mothma}}
+*{{UKFanCite|34|Goldenrod! Top Ten Star Wars Droids|Goldenrod! Top Ten ''Star Wars'' Droids}}
+
+[[Category:Magazine citation templates]]</noinclude>

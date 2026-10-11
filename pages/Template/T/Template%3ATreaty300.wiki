@@ -1,0 +1,31 @@
+<infobox theme="Battle300">
+        <data source="relatedevents"><label>Related events</label></data>
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header></header>	
+        <data source="conflict"><label>Conflict</label></data>	
+        <data source="proposedby"><label>Proposed by</label></data>
+        <data source="date"><label>Date established</label></data>	
+        <data source="dissolved"><label>Date dissolved</label></data>
+        <data source="terms"><label>Terms</label></data>
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+        <header>Parties</header>
+        <data source="side1"></data>	
+        <data source="side2"></data>
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+        <header>Key individuals</header>
+        <data source="ppl1"></data>	
+        <data source="ppl2"></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Treaty|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox><noinclude>
+
+{{Interlang
+|tr=Şablon:Antlaşma300
+}}
+
+[[Category:Event infobox subtemplates]]</noinclude>

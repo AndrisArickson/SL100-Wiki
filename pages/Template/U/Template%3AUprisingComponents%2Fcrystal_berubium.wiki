@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal berubium|title=Berubium Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Berubium<!--
+-->|type=Crystal<!--
+-->|subtype=Trade<!--
+-->|element=None<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=These crystals are used to improve Trade equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedberubium|cracked berubium|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_01.png<!--
+			-->|credits|value|price=262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=300<!--
+			-->|howget|howtoget=<div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth</div><div>Found on Opportunity Missions on Hoth</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|chipped|chippedberubium|chipped berubium|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<div>Combine 6 Cracked Berubium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth</div><div>Found on Opportunity Missions on Hoth</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dullberubium|dull berubium|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Combine 7 Chipped Berubium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth</div><div>Found on Opportunity Missions on Hoth</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedberubium|faceted berubium|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine 9 Dull Berubium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth</div><div>Found on Opportunity Missions on Hoth</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedberubium|polished berubium|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Berubium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth</div><div>Found on Opportunity Missions on Hoth</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantberubium|brilliant berubium|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<div>Combine 10 Polished Berubium</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristineberubium|pristine berubium|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Berubium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_07.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine ? Chipped Berubium</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Berubium<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Faction_TradeSpine_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Berubium}}
+__NOTOC__
+</noinclude>

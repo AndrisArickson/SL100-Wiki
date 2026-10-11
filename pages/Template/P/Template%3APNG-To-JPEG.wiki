@@ -1,0 +1,9 @@
+{{SmallMB
+|image=[[File:Information icon.svg|50px]]
+|message='''This image was uploaded in the [[wikipedia:PNG|PNG]] [[wikipedia:Image file format|file format]], but it contains information that could be stored more efficiently or more accurately in the [[wikipedia:JPEG|JPEG]] file format.'''<br />If possible, please upload a JPEG version of this image. After uploading a JPEG file, please [[Wookieepedia talk:Images and media for deletion|nominate]] the PNG version for deletion and remove this notice.
+}}<includeonly>{{SpecialCategorizer|[[Category:Images which should be in JPEG format|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Images which should be in JPEG format]]
+
+[[Category:File maintenance templates]]</noinclude>

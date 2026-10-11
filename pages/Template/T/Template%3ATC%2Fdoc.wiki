@@ -1,0 +1,24 @@
+==Usage instructions==
+Add {{Tl|TC}} to the top of the page to be deleted.
+
+If the page has undergone a previous TC, you must come up with a name for the new TC discussion page using the following syntax: {{Tlp|TC|TC_page_name}}.
+
+==Source==
+<pre class="wrap"><nowiki>
+{{subst:iumb
+| bg = #B0B0B0
+| image = [[File:VoteOfNoConfidence-SWCT.png|135px]]
+| caption = I move for a vote of no confidence [&hellip;]
+| message = The future of Wookieepedia's coverage of this topic, including whether or not to delete or redirect this article, is currently being discussed in regard to [[Wookieepedia:Notability policy|policy]].
+| comment = Please see '''[[Forum:TC:{{{1|{{FULLPAGENAME}}}}}|this article's entry]]''' in the [[Forum:Trash compactor|forums]] for discussion on the matter. Do not remove this tag until discussion is complete.
+}}
+</nowiki></pre>
+
+==Categorization==
+*[[:Category:Pages in Trash compactor]]
+
+==See also==
+*[[Forum:CT:TC template quote / tweaks]]
+*[[Forum:CT:Image vote for template Tc]]
+
+<includeonly>[[Category:Administrative templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

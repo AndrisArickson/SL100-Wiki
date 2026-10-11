@@ -1,0 +1,13 @@
+{{Ooumb
+| bg = #D8E9FC
+| id = Tales1-20
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| class="ooumb-main" |
+| caption = The subject of this article appeared only in a ''[[Star Wars Tales]]'' [[Star Wars Tales 1|1]]&ndash;[[Star Wars Tales 20|20]] story that was referenced in no other [[Star Wars Legends|''Star Wars'' Legends]] source.
+| message = [[Lucasfilm]] considered all ''Tales'' 1&ndash;20 content that was not "completely outrageous or intentionally comic" to have some level of [[canon]]icity within the ''Star Wars'' Legends continuity. Editor discretion is advised.
+}}<noinclude>
+
+==Usage==
+This template's rationale is based on a [http://www.tm-travolta.net/archives/forums.sw.com/message.jspa%3fmessageID=14952461.1.html declaration] made by [[Leland Chee]]. Per [[Forum:CT:Non-canon Legends content#Vote 3b: Tales content within articles|site policy]], this template will be placed at the top of articles with content exclusively from a ''[[Star Wars Tales]]'' [[Star Wars Tales 1|1]]&ndash;[[Star Wars Tales 20|20]] story that was referenced in no other [[Star Wars Legends|''Star Wars'' Legends]] source. For articles with in-line content from a ''Tales'' 1&ndash;20 story that was referenced in no other Legends source, use {{Tl|Talesstart}} and {{Tl|Talesend}}.
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

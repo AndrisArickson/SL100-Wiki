@@ -1,0 +1,31 @@
+This template is to be used for citing individual pages on [[Unbound Worlds|Suvudu.com]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Suvudu|subdomain=|url=|text=|int=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the subdomain name (<code><nowiki>http://(subdomain).suvudu.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain of the web page's URL. Default is <code><nowiki>www</nowiki></code> if left blank.
+*{{Para|int}} Name of the Wookieepedia article corresponding to the Suvudu.com article being cited.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>|date=2006-02-17</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Suvudu|subdomain=star-wars|url=2012/04/crazy-plans-and-lucky-shots-writing-star-wars-the-essential-guide-to-warfare.html|text=Crazy Plans and Lucky Shots &ndash; Writing Star Wars: The Essential Guide to Warfare|author=Paul Urquhart|date=2012-04-17}}</nowiki></code>
+
+Results in:
+
+{{Suvudu|subdomain=star-wars|url=2012/04/crazy-plans-and-lucky-shots-writing-star-wars-the-essential-guide-to-warfare.html|text=Crazy Plans and Lucky Shots &ndash; Writing Star Wars: The Essential Guide to Warfare|author=Paul Urquhart|date=2012-04-17}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

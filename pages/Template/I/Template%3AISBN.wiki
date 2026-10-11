@@ -1,0 +1,13 @@
+[[Special:BookSources/{{{1|}}}|ISBN {{{1}}}]]<noinclude>{{Top|fprot}}
+
+==Usage==
+This template can be used to link [[Special:BookSources]] in articles on OOU media. The automatic link currently provided by "magic links" is being [[mw:Requests for comment/Future of magic links|deprecated by MediaWiki]] and pages using this functionality are automatically placed in the [[:Category:Pages using ISBN magic links]]. Instead, this template should be used to generate the links.
+
+For example,<br />
+<code><nowiki>*{{ISBN|9781302483746}}; [[December 16]], [[2015]]; [[Marvel Comics]]; US eBook</nowiki></code>
+
+generates
+
+*{{ISBN|9781302483746}}; [[December 16]], [[2015]]; [[Marvel Comics]]; US eBook
+
+[[Category:Internal link templates]]</noinclude>

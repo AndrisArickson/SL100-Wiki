@@ -1,0 +1,63 @@
+{| id="Opening_crawl" cellspacing="0" cellpadding="4" border="0" style="margin:3px; background:#F2F5FD; width:auto; padding:0; border-radius:5px;"
+{{#if: {{{name|}}} | {{!}}- style="text-align:center;"
+! style="padding-top:5px; background:#D8E9FC; border-radius:5px 5px 0 0" {{!}} {{{name}}}}}
+|-
+| style="vertical-align:middle; font-size:90%; color:black;" | {{#tag:pre|{{{text}}}|class="nostyle"|style="overflow:hidden;white-space:pre-wrap"}}
+|-
+| style="text-align:right; font-size:90%; padding-bottom:5px;" | {{#if:{{{audio|}}}|&nbsp;&mdash; https://static.wikia.nocookie.net/starwars/images/e/ee/Quote-audio.png/revision/latest/scale-to-width-down/20?cb=20250116042720 <sm2>{{{audio}}}</sm2> <small>([[:File:{{{audio}}}|file info]])</small>|}}
+|}<noinclude><!-- DO NOT CHANGE THE TEMPLATE TYPE TO ANYTHING OTHER THAN "DESIGN." IT WILL OVERALL MAKE THE TEMPLATE UGLIER AND BROKEN ON MOBILE.-->
+
+==Usage==
+To use, paste in the following code:
+<pre><nowiki>{{OpeningCrawl
+|name=
+|text=
+|audio=
+}}</nowiki></pre>
+
+==Example==
+<pre><nowiki>{{OpeningCrawl
+|name=DARK DISCIPLE
+|text=For years, the galaxy-wide conflict known as the Clone Wars has raged.
+The struggle between the rightful government of the Galactic Republic
+and the Confederacy of Independent Systems has claimed the lives of
+untold billions.
+
+The Force-wielding Jedi, for millennia the guardians of peace in the
+galaxy, have been thwarted at nearly every turn by the Separatists and
+their leader, the Sith Lord Count Dooku.
+
+With the war showing no signs of ending, and the casualties mount-
+ing each day, the Jedi must consider every possible means of defeating
+their cunning foe. Whether some means are too unthinkable&mdash;and some
+allies too untrustworthy&mdash;has yet to be revealed...
+|audio=Dark Disciple crawl.ogg}}</nowiki></pre>
+
+{{OpeningCrawl
+|name=DARK DISCIPLE
+|text=For years, the galaxy-wide conflict known as the Clone Wars has raged.
+The struggle between the rightful government of the Galactic Republic
+and the Confederacy of Independent Systems has claimed the lives of
+untold billions.
+
+The Force-wielding Jedi, for millennia the guardians of peace in the
+galaxy, have been thwarted at nearly every turn by the Separatists and
+their leader, the Sith Lord Count Dooku.
+
+With the war showing no signs of ending, and the casualties mount-
+ing each day, the Jedi must consider every possible means of defeating
+their cunning foe. Whether some means are too unthinkable&mdash;and some
+allies too untrustworthy&mdash;has yet to be revealed...
+|audio=DarkDiscipleCrawl.flac}}
+
+{{Interlang
+|de=Vorlage:Lauftext
+|es=Plantilla:Textoinicial
+|ka=Template:OpeningCrawl
+|no=Mal:Intro
+|pt=Predefinição:Texto abertura
+|fi=Malline:Alkuteksti
+|tr=Şablon:Açılış yazısı
+}}
+
+[[Category:Templates|{{PAGENAME}}]]</noinclude>

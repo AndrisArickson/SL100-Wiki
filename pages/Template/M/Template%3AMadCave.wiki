@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=MadCave
+|image=[[File:MadCave.svg|text-top|x16px|link=https://www.madcavestudios.com]]
+|site_text=[[Mad Cave Studios]]' [https://www.madcavestudios.com official website]
+|base_url=https://{{{subdomain|www}}}.madcavestudios.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

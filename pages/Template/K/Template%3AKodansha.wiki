@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Kodansha
+|image=[[File:Kodansha-Icon.svg|text-top|x16px|link=https://www.kodansha.co.jp]]
+|site_text=[[Kodansha]]'s [https://www.kodansha.co.jp official website]
+|base_url=https://{{{subdomain|www}}}.kodansha.co.jp
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

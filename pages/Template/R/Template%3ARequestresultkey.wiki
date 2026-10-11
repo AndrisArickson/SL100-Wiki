@@ -1,0 +1,5 @@
+'''Result key:'''
+*Successful: The request was approved.
+*Unsuccessful: The request was denied.
+*Removed: The request was invalid or withdrawn.
+<noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

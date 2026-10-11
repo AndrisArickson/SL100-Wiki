@@ -1,0 +1,9 @@
+{| class="headerbackground" style="background-color:#F9F9F9; border:1px solid #AAA; padding:5px;"
+|-
+|[[File:Information icon.svg|40px]]
+|
+|'''Template usage notes'''
+* Please refer to the [[Wookieepedia:Templates/User talk namespace|index of test templates]] before using any template on user talk pages to warn a user. Applying the best template available for your purpose may help reduce confusion from the message you are sending.
+* Please remember to [[m:Help:Substitution|substitute]] the template using <tt><nowiki>{{subst:</nowiki>{{PAGENAME}}}}</tt> rather than <tt><nowiki>{{</nowiki>{{PAGENAME}}}}</tt>.
+{{{1|}}}
+|}<noinclude>[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

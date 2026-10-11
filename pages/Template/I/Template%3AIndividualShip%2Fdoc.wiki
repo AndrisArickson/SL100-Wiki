@@ -1,0 +1,124 @@
+==Purpose==
+This infobox is derived from {{Tl|StarshipClass}} for use on specific examples of a class. {{Tl|StarshipClass}} should only be used on ship class articles.
+
+==Usage instructions==
+Cut and paste the following code into your article, then put the relevant specifications after the "=" signs.
+<pre class="wrap"><nowiki>{{Top|}}
+{{IndividualShip
+|image=
+|name=
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=
+|navy=
+|fleet=
+|owners=
+|captains=
+|registry=
+|aliases=
+}}</nowiki></pre>
+
+==Data fields==
+*image &ndash; Put a link to a clear, preferably forward facing image of the ship.
+*name &ndash; Put the name of the ship. Use italics for proper names, but not for conjectural names.
+*designer &ndash; Identify the designer of the vessel (unique or one-off ships only).
+*manufacturer &ndash; Identify the manufacturer of the vessel.
+*line &ndash; Put the product line or series the ship's model belongs to. For example, the [[Imperial I-class Star Destroyer|''Imperial I''-class Star Destroyer]] is of the [[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]] line.
+*model &ndash; Put the full name of the vessel's model (usually ends with "-class"). For example, the ''[[Relentless]]'' is an [[Imperial I-class Star Destroyer|''Imperial I''-class Star Destroyer]].
+*type &ndash; List the primary type classification of the ship's model. For example, the [[Imperial I-class Star Destroyer|''Imperial I''-class Star Destroyer]] is of the [[Star Destroyer]] type.
+*cost &ndash; Put how much the ship cost.
+*modifier &ndash; List (with bullets, if multiple) the people/organizations who have modified the ship.
+*sysmods &ndash; List (with bullets, if multiple) the systems known to be modified.
+*length &ndash; Length of the ship.
+*width &ndash; Width of the ship.
+*height &ndash; Height of the ship.
+*mass &ndash; Mass of the ship.
+*max accel &ndash; Maximum acceleration in "g".
+*mglt &ndash; Maximum speed in MGLT.
+*max speed &ndash; Maximum atmospheric speed.
+*maneuverability &ndash; Maneuverability rating.
+*engine &ndash; Type and number of sublight and atmospheric drive systems.
+*hyperdrive &ndash; If the ship had a hyperdrive system ("Equipped" or "None"). Use only if the type or range is not known.
+*hdrange &ndash; The range of the ship's hyperdrive. For example, "Class 2".
+*hdsystem &ndash; The full name of the ship's hyperdrvie system.
+*poweroutput &ndash; Power output in watts.
+*power &ndash; Types of power systems.
+*shield gen &ndash; Type of shield generators (with rating if known).
+*hull &ndash; Type of hull materials (with rating if known).
+*sensor &ndash; Types of sensor systems.
+*target &ndash; Types of targeting systems.
+*navigation &ndash; Navigation computer systems.
+*avionics &ndash; Avionics/flight control systems.
+*maincomp &ndash; Main computer system.
+*countermeasures &ndash; Passive offensive or defensive systems such as ECM and stealth systems.
+*armament &ndash; List of weaponry equipped.
+*complement &ndash; Number and type of support craft carried aboard.
+*bays &ndash; Number of docking bays or hangars.
+*escapepods &ndash; Number and type of escape pods.
+*crew &ndash; Number of crew (with crew breakdown if known).
+*skeleton &ndash; Minimum crew required for operation.
+*passengers &ndash; Number and type of passengers carried.
+*capacity &ndash; Cargo capacity in metric tonnes.
+*cargohandling &ndash; Number and type of systems for handling cargo.
+*consumables &ndash; Duration of consumable goods stored aboard.
+*lifesupport &ndash; Type of life-support systems.
+*communications &ndash; Communications equipment.
+*othersystems &ndash; Any systems not already listed in a specific parameter.
+*role &ndash; Duties the ship is known to have performed. For example, command ship.
+*commission &ndash; The date of the ship's commission.
+*destroyed &ndash; The date of the ship's destruction.
+*retired &ndash; The date of the ship's retirement.
+*affiliation &ndash; List governments and/or major organizations who owned or controlled the ship.
+*navy &ndash; The navies who owned or controlled the ship.
+*fleet &ndash; The fleets owned or controlled the ship.
+*owners &ndash; If ship is privately owned, list the owners here in chronological order.
+*captains &ndash; List the ship's known commanding officers here in chronological order.
+*registry &ndash; Relevant IDs used by the ship.
+*aliases &ndash; Any alternate names used by the ship.
+
+[[Category:Infobox template documentation]]

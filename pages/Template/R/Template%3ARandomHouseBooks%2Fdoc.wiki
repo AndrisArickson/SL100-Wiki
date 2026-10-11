@@ -1,0 +1,27 @@
+This template is to be used for citing individual pages on [[Wikipedia:Random House|Random House's]] [https://www.randomhousebooks.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{RandomHouseBooks|subdomain=|url=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.penguinrandomhouse.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{Para|subdomain}} For subdomains of <code><nowiki>randomhousebooks.com</nowiki></code>, such as <code><nowiki>global.penguinrandomhouse.com</nowiki></code>, the subdomain can be specified, for example, <code>|subdomain=global</code>. Defaults to <code>www</code> if left blank.
+*{{Para|date}} Date the page was published online. In the format <code>YYYY-MM-DD</code>.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{RandomHouseBooks|url=books/7821|text=Battlefront: Twilight Company (Star Wars)|oldversion=20150630231841}}</nowiki></code>
+
+Results in:
+
+{{RandomHouseBooks|url=books/7821|text=Battlefront: Twilight Company (Star Wars)|oldversion=20150630231841}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

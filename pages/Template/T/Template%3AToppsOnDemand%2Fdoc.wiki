@@ -1,0 +1,26 @@
+This template is to be used for citing cards from [[Topps On Demand]]. Set styling is controlled by [[Module:FormattedTextLookup/Cards]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{ToppsOnDemand|set=|cardname=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the set
+*{{Para|cardname}} Name of an individual card.
+*{{Para|link}} Full URL of an individual card's page on a website that displays its front and back, if available; for example, on [https://www.beckett.com Beckett] or [https://www.tcdb.com Trading Card Database].
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Topps]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Backup links===
+{{BackupLinkHelp|Topps}}
+
+==Example(s)==
+<code><nowiki>{{ToppsOnDemand|set=Star Wars: The Power of the Light Side|cardname=Caroline Blakiston as Mon Mothma|link=https://www.tcdb.com/ViewCard.cfm/sid/215885/cid/13682882}}</nowiki></code>
+
+Results in:
+
+{{ToppsOnDemand|set=Star Wars: The Power of the Light Side|cardname=Caroline Blakiston as Mon Mothma|link=https://www.tcdb.com/ViewCard.cfm/sid/215885/cid/13682882}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Wikipedia:Disney Store|Disney Store's]] [https://www.shopdisney.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{ShopDisney|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.shopdisney.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{ShopDisney|url=the-child-with-squid-pin-and-plush-set-star-wars-the-mandalorian-pschildsquid030621.html|text=The Child with Squid Pin and Plush Set – Star Wars: The Mandalorian|archivedate=20210425074557}}</nowiki></code>
+
+Results in:
+
+{{ShopDisney|url=the-child-with-squid-pin-and-plush-set-star-wars-the-mandalorian-pschildsquid030621.html|text=The Child with Squid Pin and Plush Set – Star Wars: The Mandalorian|archivedate=20210425074557}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

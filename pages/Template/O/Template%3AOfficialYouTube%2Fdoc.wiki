@@ -1,0 +1,44 @@
+A more specialized version of {{Tl|YouTube}} for official YouTube channels of various organizations. Adds "on the official <name> YouTube channel" as site text.
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use. If used in the External links section, do not add an video or archive links. DO NOT USE UNNAMED PARAMETERS.
+
+Note on YouTube Shorts, it is best before archiving/formatting a link from a Shorts to change its URL (<code><nowiki>https://www.youtube.com/shorts/xxxxxxxxxx</nowiki></code>) to a regular YouTube URL  (<code><nowiki>https://www.youtube.com/watch?v=xxxxxxxxxx</nowiki></code>).
+
+===References===
+<code><nowiki>{{OfficialYouTube|channel=|name=|link=|video=|text=|date=|quote=|subdomain=|parameter=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|channel}} Use the alphanumeric part of the URL that follows <code><nowiki>https://www.youtube.com/</nowiki></code>, for example, either <code>user/channelname</code>, <code>channel/channelname</code>, or <code>c/channelname</code>.
+*{{Para|name}} The display name of the channel.
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+====Optional parameters====
+*{{Para|link}} If the group has a Wookieepedia article, give the article's title here.
+*{{Para|date}} Date the YouTube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} To include a quote. 
+*{{Para|parameter}} To create a link to a YouTube playlist, using <code>|parameter=playlist?list</code>.
+*{{Para|subdomain}} For subdomains of <code><nowiki>youtube.com</nowiki></code>, such as <code><nowiki>music.youtube.com</nowiki></code>, the subdomain can be specified, for example, {{Para|subdomain}}<code>music</code>.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+===Externals links===
+<code><nowiki>{{OfficialYouTube|channel=|name=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|channel}} Use the alphanumeric part of the URL that follows <code><nowiki>https://www.youtube.com/</nowiki></code>, for example, either <code>user/name</code>, <code>channel/name</code>, or <code>c/name</code>.
+*{{Para|name}} The display name of the channel.
+
+==Example(s)==
+<code><nowiki>{{OfficialYouTube|channel=@disneyjunior|name=Disney Junior|link=Disney Junior|video=DgcjI0HYgGw|text=Lys' Creature Caper &#124; Young Jedi Adventures &#124; Short 2|archivedate=20230327135246}}</nowiki></code>
+
+Results in:
+
+{{OfficialYouTube|channel=@disneyjunior|name=Disney Junior|link=Disney Junior|video=DgcjI0HYgGw|text=Lys' Creature Caper &#124; Young Jedi Adventures &#124; Short 2|archivedate=20230327135246}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

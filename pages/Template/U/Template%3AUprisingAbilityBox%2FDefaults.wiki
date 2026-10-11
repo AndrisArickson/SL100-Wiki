@@ -1,0 +1,18 @@
+<onlyinclude><!--
+
+-->{{#switch:{{lc:{{{get|page}}}}}<!--
+
+-->|{{{null|}}}<!--
+-->|page<!--
+-->|#default=<!--
+-->{{#switch:{{{NAME|}}}<!--
+-->|WIDTH=550px<!--
+-->|PRIMARYBGCOLOR={{#ifeq:{{lc:{{{style|}}}}}|lite|light|rgba(6, 48, 83, 0.8)|rgba(6, 48, 83, 0.95)}}<!--
+-->|SECONDARYBGCOLOR={{#ifeq:{{lc:{{{style|}}}}}|lite|light|rgba(92, 124, 153, 0.6)|rgba(92, 124, 153, 0.8)}}<!--
+-->|BORDERCOLOR=rgb(92, 124, 153)<!--
+-->|BORDERWIDTH={{#if:{{{ranksOnly|}}}|2|2}}<!--
+-->|#default=<!--
+-->}}<!--
+
+-->}}<!--
+--></onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

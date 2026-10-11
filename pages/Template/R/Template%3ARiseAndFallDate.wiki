@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars: The Rise and Fall of the Galactic Empire|''Star Wars: The Rise and Fall of the Galactic Empire''|''[[Star Wars: The Rise and Fall of the Galactic Empire]]''}} states that thirty [[Standard year|years]] have passed since the end of the [[Galactic Civil War]] and [[Standard month|months]] have passed since the [[Battle of Exegol]]. As ''[[Star Wars: Timelines]]'' dates the [[Galactic Concordance|end]] of the war to [[5 ABY]] and the Battle of Exegol to [[35 ABY]], the [[in-universe]] ''[[The Rise and Fall of the Galactic Empire]]'' must have been published in 35 [['ABY-BBY' dating system|ABY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{RiseAndFallDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

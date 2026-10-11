@@ -1,0 +1,22 @@
+{{Dablink|This article's plot summary may be found on the article about the original work, [[{{{1}}}#Plot summary|{{{2|''{{{1}}}''}}}]].}}<noinclude>{{Top|sprot}}
+
+==Usage==
+<code><nowiki>{{</nowiki>Plot-link|{{Var|original article}}|{{Var|display text}}}}</code>
+
+In accordance with [[Wookieepedia:Layout Guide/Out-of-universe#Published narrative works]], the Plot summary section of an article about an unabridged audiobook or scriptbook should use this template directing to the original work's article.
+
+===Required parameters===
+#{{Para||{{Var|original article}}}} The title of the original work's article.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|display text}}}} The formatted title of the original work's article, if needed. The display text is italicized by default.</li>
+
+==Examples==
+===Code===
+<pre><nowiki>{{Plot-link|Tarkin (novel)|''Tarkin'' (novel)}}</nowiki></pre>
+
+===Result===
+{{Plot-link|Tarkin (novel)|''Tarkin'' (novel)}}
+
+[[Category:Internal link templates]]
+</noinclude>

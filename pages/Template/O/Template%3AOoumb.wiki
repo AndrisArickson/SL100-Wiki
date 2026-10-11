@@ -1,0 +1,14 @@
+<div id="{{{id|{{<includeonly>subst:</includeonly>PAGENAME}}}}}" class="mobile-hide headertemplate messagebox noprint ooumb hidable noticedark" style="background: {{{bg|#eee}}}; color: {{{fg|#000}}}; border-radius: 10px">
+{| cellpadding="0" cellspacing="0"
+| class="ooumb-table-container" | 
+{| cellpadding="0" cellspacing="0" class="hidable-content"
+|-
+| class="ooumb-icon" | {{{image|}}}
+| class="ooumb-main" |
+<span class="ooumb-caption">{{{caption|}}}</span>
+
+<span class="ooumb-message">{{{message|}}}</span>
+|}
+| class="ooumb-hidable-button" | <span class="hidable-button"></span>
+|}
+</div><noinclude>[[Category:Utility templates]]</noinclude>

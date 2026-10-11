@@ -1,0 +1,20 @@
+<div class="boilerplate metadata darkbackground1" style="padding:0 10px; border:1px solid #AAA; margin:0 auto; background-color:#F3F9FF">This page is an archive of a community-wide discussion. '''This page is no longer live.''' Further comments or questions on this topic should be made in a new [[Forum:Senate Hall|Senate Hall]] page rather than here so that this page is preserved as a historic record. {{{1|}}}<hr /><noinclude></div>
+
+==Description==
+This template is used for creating the blue "archive box" used for closed [[Forum:Senate Hall|Senate Hall]] threads.
+
+==Usage==
+The template takes one optional signature parameter. Place only one of the following lines of code at the top of the vote page to be archived:
+<pre>
+{{subst:SHarchive|~~~~}}
+</pre>
+<pre>
+{{subst:SHarchive}} ~~~~
+</pre>
+
+Then, to avoid disrupting the page layout, add this closing tag at the very end of the thread:
+<pre>
+</div>
+</pre>
+
+[[Category:Archive templates]]</noinclude>

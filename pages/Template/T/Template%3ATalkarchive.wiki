@@ -1,0 +1,11 @@
+<div id="old-forum-warning" class="boilerplate metadata vfd darkbackground1" style="padding:0 10px; border:1px solid #AAA; margin:0 auto; background-color:#F3F9FF">This page is an archive of the discussion of an article. '''This page is no longer live.''' Further comments should be made on the article's [[{{TALKSPACE}}:{{{1|{{BASEPAGENAME}}}}}|current talk page]] rather than here so that this page is preserved as a historic record.<!-- Substituted from Template:Talkarchive --><noinclude></div>
+
+==Usage==
+<pre>
+{{subst:Talkarchive|Article}}
+</pre>
+[[wikipedia:Wikipedia:Substitution|Substitute]] the template at the top of an archived talk page, replace <code>{{Var|Article}}</code> with the appropriate article's name, and add <code><nowiki></div></nowiki></code> to the bottom of the page.
+
+If the article name is not given, the template will use the MediaWiki [[mw:Help:Magic words|magic word]] <code><nowiki>{{BASEPAGENAME}}</nowiki></code>.
+
+[[Category:Archive templates]]</noinclude>

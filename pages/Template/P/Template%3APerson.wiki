@@ -1,0 +1,46 @@
+<infobox theme="Person">
+	<image source="image"></image>
+    <title source="name"></title>
+    <group collapse="open">
+    	<header>Biographical information</header>
+        <data source="birth"><label>Born</label></data>	
+        <data source="death"><label>Died</label></data>	
+        <data source="listedpronouns"><label>Listed pronouns</label></data>	
+        <data source="nationality"><label>Nationality</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Career</header>
+        <data source="occupation"><label>Occupation</label></data>	
+        <data source="companies"><label>Companies</label></data>	
+        <data source="website"><label>Official website</label></data>	
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Person|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|birth|death|listedpronouns|nationality|occupation|companies|website|ignore=name}}<noinclude>[[category:OOU infobox templates]]
+
+===Usage instructions===
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>
+{{Top|rwp}}
+{{Person
+|image=
+|name=
+|birth=
+|death=
+|listedpronouns=
+|nationality=
+|occupation=
+|companies=
+|website=
+}}</nowiki></pre>
+
+'''The "listedpronouns" field of the infobox will only be filled if the individual in question has publicly self-identified their pronouns and a valid source is provided.'''
+
+'''The "website" field of the infobox must be formatted as a shortened url, like this: [https://example.com example.com]. However, if the website as a name, such as [[John Jackson Miller]]'s website "Faraday Press", then the field must be formatted like this: [https://farawaypress.com Faraway Press]. If the name of the website is the same name as the entity which is the subject of the article, revert to using a shortened url.'''
+
+{{Interlang
+|tr=Şablon:Birey
+}}
+</noinclude>

@@ -1,0 +1,15 @@
+{{ooumb
+| id = PartialName
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The title of this article reflects a partial identification revealed in a ''[[Star Wars]]'' source.
+| message = This article's title is derived from the part of this subject's name that is present in a [[canon]]ical source.}}
+<includeonly>[[Category:Articles known by a partial name|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+Example: <nowiki>{{PartialName}}</nowiki>.
+
+==Categorization==
+*[[:Category:Articles known by a partial name]]
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

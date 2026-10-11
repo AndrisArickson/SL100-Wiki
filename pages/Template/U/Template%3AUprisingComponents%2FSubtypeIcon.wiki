@@ -1,0 +1,37 @@
+<onlyinclude>{{#if:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=subtype}}|<!--
+	--><div class="uprising-sprite use-tooltip inner {{#switch:{{lc:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=subtype}}}}<!--
+			-->|trade=salvage-trade-spine<!--
+			-->|offensive|offense=weapon-box<!--
+			-->|empire|imperial=salvage-empire<!--
+			-->|balance|balanced=defense-offense-box<!--
+			-->|defense|defensive=armor-box<!--
+			-->|alliance|rebel=salvage-alliance<!--
+			-->|utility=utility-box<!--
+			-->|ivax|syndicate=salvage-ivax<!--
+			-->|event=star-gold-pentagon<!--
+			-->|chemical=chemical-hexagon<!--
+			-->|toxic=toxic-hexagon<!--
+			-->|explosive=explosive-hexagon<!--
+			-->|neutral=generic-hexagon<!--
+			-->|disruption=disruption-hexagon<!--
+			-->|weapon|#default=salvage-equipment<!--
+		-->}} small absolute-position-right class-style margin-2px {{{iconClass|{{{class|}}}}}}"><!--
+		--><div class="uprising-sprite-tooltip {{{tooltipClass|}}}">{{#switch:{{lc:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=subtype}}}}<!--
+			-->|trade=Trade Spine<!--
+			-->|offensive|offense=Offensive<!--
+			-->|empire|imperial=Imperial<!--
+			-->|balance|balanced=Balanced<!--
+			-->|defense|defensive=Defensive<!--
+			-->|alliance|rebel=Rebel<!--
+			-->|utility=Utility<!--
+			-->|ivax|syndicate=Syndicate<!--
+			-->|event=Event<!--
+			-->|chemical=Chemical<!--
+			-->|toxic=Toxic<!--
+			-->|explosive=Explosive<!--
+			-->|neutral=Neutral<!--
+			-->|disruption=Disruption<!--
+			-->|weapon|#default=Equipment<!--
+		-->}}</div><!--
+	--></div><!--
+-->|}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

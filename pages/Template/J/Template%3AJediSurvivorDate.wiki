@@ -1,0 +1,7 @@
+{{SW|url=games-apps/star-wars-jedi-survivor|text=Star Wars Jedi: Survivor}} dates {{#ifeq:{{PAGENAME}}|Star Wars Jedi: Survivor|''Star Wars Jedi: Survivor''|''[[Star Wars Jedi: Survivor]]''}} to five [[Standard year|years]] after the events of ''[[Star Wars Jedi: Fallen Order]]'', which equates to [[9 BBY]] per ''[[Star Wars: Timelines]]''.<noinclude>
+
+==Usage==
+<code><nowiki>{{JediSurvivorDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

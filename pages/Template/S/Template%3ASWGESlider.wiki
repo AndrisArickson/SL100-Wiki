@@ -1,0 +1,17 @@
+<div class="homepageslider hidable">
+{|width="100%" cellpadding="2" cellspacing="3"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="text-align: left;"|[[File:BSO logo mini.png|24px|link=Star Wars: Galaxy's Edge]] [[Wookieepedia:Star Wars: Galaxy's Edge Visitor's Guide|Visitor's Guide to ''Star Wars'': Galaxy's Edge]]
+|style="font-size: 0.8em; text-align: right;"|<span class="hidable-button" style="color:black;"></span>
+|}
+</div>
+|-
+|style="font-size: 0.9em"|<div class="hidable-content">
+<gallery type="slider">
+File:GalaxysEdge-Slider.jpg|''Star Wars'': Galaxy's Edge|link=Wookieepedia:Star Wars: Galaxy's Edge Visitor's Guide|linktext=Discover the stories behind Star Wars: Galaxy's Edge and live your own adventure!
+</gallery>
+</div>
+|}
+</div><noinclude>{{Top|fprot}}[[Category:Main Page templates]]</noinclude>

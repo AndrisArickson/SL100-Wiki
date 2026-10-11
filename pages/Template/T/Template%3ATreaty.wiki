@@ -1,0 +1,51 @@
+{{{{#if:{{{side4|}}}{{{ppl4|}}}|Treaty400|{{#if:{{{side3|}}}{{{ppl3|}}}|Treaty350|Treaty300}}}}
+|relatedevents={{{relatedevents|}}}
+|image={{{image|}}}
+|name={{{name|}}}
+|conflict={{{conflict|}}}
+|proposedby={{{proposedby|}}}
+|date={{{date|}}}
+|dissolved={{{dissolved|}}}
+|terms={{{terms|}}}
+|side1={{{side1|}}}
+|side2={{{side2|}}}
+|side3={{{side3|}}}
+|side4={{{side4|}}}
+|ppl1={{{ppl1|}}}
+|ppl2={{{ppl2|}}}
+|ppl3={{{ppl3|}}}
+|ppl4={{{ppl4|}}}
+}}{{PreloadCat}}{{#ifeq:{{NAMESPACE}}| |{{#if:{{{side4|}}}|[[Category:4-sided battles]]|}}|}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|relatedevents|image|name|conflict|proposedby|date|dissolved|terms|side1|side2|side3|side4|ppl1|ppl2|ppl3|ppl4|ignore=name}}{{#invoke:EventDateCheck|main}}<noinclude>[[category:Event infobox templates]]
+
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+{{Clear}}
+===Usage===
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>
+{{Treaty
+|relatedevents=
+|image=
+|name=
+|conflict=
+|proposedby=
+|date=
+|dissolved=
+|terms=
+|side1=
+|side2=
+|side3=
+|side4=
+|ppl1=
+|ppl2=
+|ppl3=
+|ppl4=
+}}</nowiki></pre></noinclude>

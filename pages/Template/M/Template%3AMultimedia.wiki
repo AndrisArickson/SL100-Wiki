@@ -1,0 +1,44 @@
+<infobox theme="Other-Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher(s)</label></data>	
+        <data source="primary"><label>Primary media</label></data>	
+        <data source="first date"><label>First media published</label><format><!--
+        -->{{#ifeq:{{lc:{{{first date|}}}}}|none||{{#ifeq:{{lc:{{{first date|}}}}}|future||{{#ifeq:{{lc:{{{first date|}}}}}|canceled||{{{first date|}}}}}}}}}<!--
+        --></format></data>
+        <data source="last date"><label>Last media published</label><format><!--
+        -->{{#ifeq:{{lc:{{{last date|}}}}}|none||{{#ifeq:{{lc:{{{last date|}}}}}|future||{{#ifeq:{{lc:{{{last date|}}}}}|canceled||{{{last date|}}}}}}}}}<!--
+        --></format></data>
+        <data source="media types"><label>Media types</label></data>	    
+    </group>
+    <group collapse="open">
+    	<header>Chronology</header>
+        <data source="timeline"><label>Timeline</label></data>	
+        <data source="preceded by"><label>Preceded by</label></data>
+        <data source="followed by"><label>Followed by</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Multimedia|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|publisher|primary|first date|last date|media types|timeline|preceded by|followed by|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check=1|template_name=Multimedia}}<noinclude>[[category:Media infoboxes]]{{clear}}
+
+==Usage==
+<pre>
+{{Top|real}}
+{{Multimedia
+|image=
+|title=
+|publisher=
+|primary=
+|first date=
+|last date=
+|media types=
+|timeline=
+|preceded by=
+|followed by=
+}}
+</pre></noinclude>

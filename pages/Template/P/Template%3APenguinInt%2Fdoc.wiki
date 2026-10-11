@@ -1,0 +1,26 @@
+This template is to be used for citing individual pages on [[Wikipedia:Penguin Random House|Penguin Random House's]] [https://www.prhinternationalsales.com/ international sales website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{PenguinInt|url=|text=|date=|nolive=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>http://prhinternationalsales.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{PenguinInt|url=book/?isbn=9780593499122|text=Star Wars: The Fallen Star (The High Republic)}}</nowiki></code>
+
+Results in:
+
+{{PenguinInt|url=book/?isbn=9780593499122|text=Star Wars: The Fallen Star (The High Republic)}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,9 @@
+[[{{{1}}}|{{{2|{{{1|}}}}}}]] takes place after the [[Escape from Cloud City]], which is dated to [[3 ABY]] by ''[[Star Wars: Timelines]]''. Additionally, [[Sliro Barsha]] dies during the events of ''[[Star Wars Outlaws]]'', which {{WebCite|url=https://www.thepopverse.com/live-star-wars-stories-from-galaxy-far-away-san-diego-comic-con-2024-high-republic|text=Visit a Galaxy Far, Far Away with our Star Wars liveblog direct from San Diego Comic-Con 2024!|work=[https://www.thepopverse.com Popverse]|archivedate=20240805210120}} dates to 3 ABY. As he is alive during [[Crimson Reign 5|''Crimson Reign'' 5]], and the events of {{{2|{{{1|}}}}}}{{#if: {{{3|}}}|, including {{{3}}},|}} precede the comic, it must also take place during that year.<noinclude>
+
+==Usage==
+<code><nowiki>{{OutlawsComicDate}}</nowiki></code>
+
+===Optional inputs===
+<code><nowiki>{{OutlawsComicDate|COMIC TITLE|FORMATTED COMIC TITLE|EVENT ETC.}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

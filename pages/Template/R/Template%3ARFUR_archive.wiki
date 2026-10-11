@@ -1,0 +1,13 @@
+<div id="old-forum-warning" class="boilerplate metadata rfa" style="padding:0 10px; border:1px solid #AAA; margin:2em 0 0; background-color:#F4F4F4">
+:''The following discussion is preserved as an archive of a [[Wookieepedia:Requests for user rights#Requests for {{{1|adminship}}}|request for {{{1|adminship}}}]] that was '''{{{2|successful}}}'''. <span style="color:red">'''Please do not modify it.'''</span>''<noinclude></div>
+
+==Usage==
+This template should be placed at the top of an archived [[Wookieepedia:Requests for user rights|request for user rights]] page. To use this template, copy and paste <code><nowiki>{{subst:RFUR archive|</nowiki>{{Var|position}}|{{Var|outcome}}}}</code> onto the top of the page.
+
+===Required parameters===
+#{{Para||{{Var|position}}}} The specific user rights level for which the user was nominated: either <code>rollback</code>, <code>adminship</code>, <code>Discussions Moderator</code>, <code>Social Media Team membership</code>, <code>CheckUser</code>, or <code>bureaucratship</code>.
+#{{Para||{{Var|outcome}}}} Either <code>successful</code> (in which case the parameter can be left blank) or <code>unsuccessful</code>.
+
+Finally, add a <code><nowiki></div></nowiki></code> tag at the very end of the page.
+
+[[Category:Archive templates]]</noinclude>

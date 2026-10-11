@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ToppsRipped
+|image=[[File:ToppsRipped-Logo.svg|text-top|x14px|link=Topps]]
+|site_text=[[Topps]] [https://ripped.topps.com Ripped official blog]
+|base_url=https://ripped.topps.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Pikids
+|image=[[File:ThreePointOneFourOneFiveNineKids.png|text-top|x16px|link=https://www.pikidsmedia.com]]
+|site_text=[[Phoenix International Publications|p i kids']] [https://www.pikidsmedia.com official website]
+|base_url=https://{{{subdomain|www}}}.pikidsmedia.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

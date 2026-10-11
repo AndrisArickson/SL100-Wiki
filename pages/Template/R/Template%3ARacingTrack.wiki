@@ -1,0 +1,48 @@
+<infobox theme="Racing-track">
+	<image source="image"></image>
+    <title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="location"><label>Location</label></data>
+        <data source="interest"><label>Points of interest</label></data>	
+        <data source="climate"><label>Climate</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Track information</header>	
+        <data source="circuit"><label>Circuit</label></data>			
+        <data source="terrain"><label>Terrain</label></data>
+        <data source="length"><label>Length</label></data>
+        <data source="favorite"><label>Track favorite</label></data>
+        <data source="laptime"><label>Best lap time</label></data>
+        <data source="racetime"><label>Best race time</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="events"><label>Notable events</label></data>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:RacingTrack|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|location|interest|climate|circuit|terrain|length|favorite|laptime|racetime|events|affiliation|ignore=name}}<noinclude>[[category:Location infobox templates]]{{clear}}
+==Usage==
+'''Note''': this template is intended for racing tracks, not events. For races, circuits or other competitions, use {{Tl|Event}}.
+
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre>{{Top|}}
+{{RacingTrack
+|image=
+|name=
+|location=
+|interest=
+|climate=
+|circuit=
+|terrain=
+|length=
+|favorite=
+|laptime=
+|racetime=
+|events=
+|affiliation=}}</pre></noinclude>

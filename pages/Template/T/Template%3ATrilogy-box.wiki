@@ -1,0 +1,10 @@
+{| class="nb2 hidable darkbackground1" cellpadding="5" cellspacing="5" style="background:{{{1|#D8E9FC}}}; border-radius:10px; overflow:hidden"
+|- class="nb2-firstheading"
+! colspan="3" style="padding:0" | {{{title}}}
+|- class="nb2-inner hidable-content" style="background:#F2F5FD"
+| style="border:{{{2|none}}}; width:{{{3|auto}}}" | ''{{{part1}}}''
+| style="border:{{{2|none}}}; width:{{{3|auto}}}" | ''{{{part2}}}''
+| style="border:{{{2|none}}}; width:{{{3|auto}}}" | ''{{{part3}}}''
+|- class="nb2-end"
+| colspan="3" style="padding:0; background:none" | <span class="hidable-button"></span> {{{{{|safesubst:}}}#if:{{{edit|}}}|{{{{{|safesubst:}}}edi|{{{edit}}}}}|}}
+|}<noinclude>[[Category:Navigation templates|Trilogy-box]]</noinclude>

@@ -1,0 +1,18 @@
+{{Ooumb
+| id = OutlawsHeader
+| bg = #D8E9FC
+| image = [[File:Blue-question-mark.png|40px]]
+| caption = This article has gameplay-based alternatives.
+| message = The specific details of this article are based on the [https://www.youtube.com/watch?v=4u64cVa4Sco recommended order] of [[Kay Vess]]'s journey in the ''[[Star Wars Outlaws]]''.<br />
+<small>Alternative paths should be listed in the [[#Behind_the_scenes|Behind the scenes]] section.</small>
+}}<includeonly>[[Category:Articles with gameplay alternatives|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{OutlawsHeader}}</nowiki></code>
+
+To allow for placing the "main" story events in the order of [[Kijimi]], [[Tatooine]], then [[Akiva]] on mainspace articles. While this order is not strictly [[canon]]ical, narrative directors [[Navid Khavari]] and [[John Björling]] recommended [[Wookieepedia]] order events in this way due to a need to place the events in some form of order to summarize them, indicating that it matched the production order.
+
+==Categorization==
+*[[:Category:Articles with gameplay alternatives]]
+
+[[Category:Header templates]]</noinclude>

@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Tense
+| bg = #7BB0D8
+| image = [[File:Alongtimeago.png|140px]]
+| caption = A long time ago in a galaxy far, far away....
+| message = This [[in-universe]] article, or parts of it, should be [[Wookieepedia:Welcome, newcomers|edited]] to be in past tense to conform to the [[Wookieepedia:Manual of Style|style]] of [[Wookieepedia]]. {{#if:{{{1|}}}|The portions of this article that need work include: '''{{{1}}}'''.|}}
+| comment = 
+| reason = The following issues need [[Wookieepedia:Manual of Style|style]] cleanup
+| category = Category:Articles with incorrect tense
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with incorrect tense|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{Tense|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles with incorrect tense]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates]]</noinclude>

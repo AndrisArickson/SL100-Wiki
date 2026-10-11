@@ -1,0 +1,33 @@
+{{WebCite|url=https://www.ign.com/articles/marvels-new-star-wars-series-to-explore-the-new-republic-era|text=Marvel's New Star Wars Series to Explore the New Republic Erae|author=Schedeen, Jessie|date=2025-01-21|work=[[Wikipedia:IGN|''IGN'']]|archivedate=20250121171444}} states that the events of [[Star Wars (2025)|''Star Wars'' (2025)]] begin around two [[Standard year|years]] after the events of {{Film|VI}}, which ''[[Star Wars: Timelines]]'' dates to [[4 ABY]]. {{#switch:{{{1|}}}|Past is Prologue=Therefore, the events of ''Star Wars'' must take place around [[6 ABY]]. As "[[Past is Prologue]]"{{#if: {{{2|}}}|, including {{{2}}},|}} takes place immediately before the events of ''Star Wars'', its events must also be set around 6 [['ABY-BBY' dating system|ABY]].|Therefore, the events of {{#if: {{{1|}}}|[[Star Wars (2025) {{{1}}}|''Star Wars'' (2025) {{{1}}}]]|''Star Wars''}}{{#if: {{{2|}}}|, including {{{2}}},|}} must take place around [[6 ABY]].}}<noinclude>[[Category:Canon dating citation templates]]
+
+==Usage==
+<code><nowiki>{{StarWars2025Date}}</nowiki></code>
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}}
+!Issue !! Code !! Result
+|-
+|Series||<pre><nowiki>{{StarWars2025Date}}</nowiki></pre>||{{StarWars2025Date}}
+|-
+|"[[Past is Prologue]]"||<pre><nowiki>{{StarWars2025Date|Past is Prologue}}</nowiki></pre>||{{StarWars2025Date|Past is Prologue}}
+|-
+|[[Star Wars (2025) 1|''Star Wars'' (2025) 1]]||<pre><nowiki>{{StarWars2025Date|1}}</nowiki></pre>||{{StarWars2025Date|1}}
+|-
+|[[Star Wars (2025) 2|''Star Wars'' (2025) 2]]||<pre><nowiki>{{StarWars2025Date|2}}</nowiki></pre>||{{StarWars2025Date|2}}
+|-
+|[[Star Wars (2025) 3|''Star Wars'' (2025) 3]]||<pre><nowiki>{{StarWars2025Date|3}}</nowiki></pre>||{{StarWars2025Date|3}}
+|-
+|[[Star Wars (2025) 4|''Star Wars'' (2025) 4]]||<pre><nowiki>{{StarWars2025Date|4}}</nowiki></pre>||{{StarWars2025Date|4}}
+|-
+|[[Star Wars (2025) 5|''Star Wars'' (2025) 5]]||<pre><nowiki>{{StarWars2025Date|5}}</nowiki></pre>||{{StarWars2025Date|5}}
+|-
+|[[Star Wars (2025) 6|''Star Wars'' (2025) 6]]||<pre><nowiki>{{StarWars2025Date|6}}</nowiki></pre>||{{StarWars2025Date|6}}
+|-
+|[[Star Wars (2025) 7|''Star Wars'' (2025) 7]]||<pre><nowiki>{{StarWars2025Date|7}}</nowiki></pre>||{{StarWars2025Date|7}}
+|-
+|[[Star Wars (2025) 8|''Star Wars'' (2025) 8]]||<pre><nowiki>{{StarWars2025Date|8}}</nowiki></pre>||{{StarWars2025Date|8}}
+|-
+|[[Star Wars (2025) 9|''Star Wars'' (2025) 9]]||<pre><nowiki>{{StarWars2025Date|9}}</nowiki></pre>||{{StarWars2025Date|9}}
+|-
+|[[Star Wars (2025) 10|''Star Wars'' (2025) 10]]||<pre><nowiki>{{StarWars2025Date|10}}</nowiki></pre>||{{StarWars2025Date|10}}
+|}</noinclude>

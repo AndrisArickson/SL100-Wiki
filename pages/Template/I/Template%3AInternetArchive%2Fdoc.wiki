@@ -1,0 +1,20 @@
+This template is to be used for linking pages on [[Wikipedia:Internet Archive|Internet Archive]] in the "External links" section of OOU media articles when such items are not found through regular commercial distribution anymore (such as video game manuals or [[The Empire Strikes Back (radio)|''The Empire Strikes Back'' radio dramatization]] for example). Do not use it to cite a licensed official ''Star Wars'' media. If you want to cite a book unrelated to [[Lucasfilm]] with a supporting link to the Internet Archive, use {{Tl|BookCite}} with the "link=" parameter instead.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{InternetArchive|url=|text=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://archive.org/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Example(s)===
+<code><nowiki>{{InternetArchive|url=details/10Episode10TheClashOfLightsabres|text=Star Wars: the Empire Strikes Back Radio Drama}}</nowiki></code>
+
+Results in:
+{{InternetArchive|url=details/10Episode10TheClashOfLightsabres|text=Star Wars: the Empire Strikes Back Radio Drama}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

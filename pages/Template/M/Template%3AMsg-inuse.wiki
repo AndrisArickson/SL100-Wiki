@@ -1,0 +1,9 @@
+While your edit{{{{{|safesubst:}}}#if:{{{2|}}}|&#32;to [[{{{1}}}]]|}} is appreciated, the page{{{{{|safesubst:}}}#if:{{{2|}}}||&#32;you just edited}} currently has a template called {{Tl|Inuse}} at the top. This template means that someone is currently working on improving the article, and to avoid [[wikipedia:Help:Edit conflict|edit conflicts]], no one other than the placer of the template should edit the page while the message is visible. If you would like to notify someone of an issue with the article, feel free to leave a message on the article's talk page or join our [[Wookieepedia:Discord|Discord server]]. {{{{{|safesubst:}}}#if:{{{2|}}}|{{{2}}}|{{{1|}}}}}<noinclude>
+
+==Usage==
+*<code><nowiki>{{subst:Msg-inuse}} ~~~~</nowiki></code>
+*<code><nowiki>{{subst:Msg-inuse|~~~~}}</nowiki></code>
+*<code><nowiki>{{subst:Msg-inuse|</nowiki>{{Var|the article that was edited}}<nowiki>|~~~~}}</nowiki></code>
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

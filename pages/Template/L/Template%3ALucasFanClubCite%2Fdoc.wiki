@@ -1,0 +1,12 @@
+==Usage==
+This template is used to cite content from the original 22 issues of ''The Lucasfilm Fan Club Magazine''. Place the following code on the page and replace the "issue number," "story name" and "formatted name" with the appropriate information. For articles/stories that span multiple '''concurrent''' issues, use the parameters "issue1" and "issue2".
+ <nowiki>{{</nowiki>LucasFanClubCite|ISSUE NUMBER|STORY NAME|''FORMATTED NAME'' (optional)}}
+
+==Example(s)==
+Lucasfilm Magazine:
+<code><nowiki>{{LucasFanClubCite|17|George Lucas: The Future of the Force}}</nowiki></code>
+
+{{LucasFanClubCite|17|George Lucas: The Future of the Force}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Magazine citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

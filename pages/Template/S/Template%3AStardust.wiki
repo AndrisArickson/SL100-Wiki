@@ -1,0 +1,43 @@
+<div id="Stardust" class="mobile-hide headertemplate messagebox noprint iumb" style="background: #D3D3D3; color: #000; border-radius: 10px">
+{| cellpadding="0" cellspacing="0"
+|-
+| class="iumb-table-container" | 
+{| cellpadding="0" cellspacing="0"
+|-
+| class="iumb-icon" | [[File:Under-Construction.png|100px]]
+| class="iumb-main" |
+<span class="iumb-caption">Project Stardust is on the case!</span>
+
+<span class="iumb-message">This article covers an essential topic and has been deemed significantly below Wookieepedia standards. A team of editors is collaborating to improve the quality of the article. Please click the dropdown menu to see the issues that need addressing.<br /><div class="hidable start-hidden">
+<div style="width: 70%; background: #D3D3D3; padding-left: 1em" class="headerbackground">'''Issues:''' <span class="hidable-button headerbackground"></span></div>
+<div class="hidable-content" style="margin-left: 10px">
+{{#if:{{{cleanup|}}}|*'''This article or section needs to be [[Wikipedia:Wikipedia:Cleanup process|cleaned up]] to conform to a higher standard of article quality.'''<br />|}}{{#if:{{{tense|}}}|*'''This [[in-universe]] article, or parts of it, should be edited to be in past tense, to conform to the [[Wookieepedia:Manual of Style|Manual of Style]].'''<br />|}}{{#if:{{{npov|}}}|*'''The neutrality of this article is being disputed. All content on Wookieepedia should be written from a [[Wookieepedia:Manual of Style#Perspective|neutral point of view]].'''<br />|}}{{#if:{{{expand|}}}|*'''It is requested that this article, or a section of this article, be expanded.'''<br />|}}{{#if:{{{image|}}}|*'''This article needs more images.'''<br />|}}{{#if:{{{update|}}}|*'''This article needs to be updated with ''{{{update|}}}'''''<br />|}}{{#if:{{{citation|}}}|*'''This article is in need of referencing per Wookieepedia's [[Wookieepedia:Sourcing|sourcing]] guidelines.'''<br />|}}{{#if:{{{redlink|}}}|*'''This article has an excess of redlinks in it.'''<br />|}}
+</div></div></span>
+
+<span class="iumb-comment">Please see '''[[Wookieepedia:Project Stardust: {{{title|{{FULLPAGENAME}}}}}|the project page]]''' to participate in the project or to check its progress.</span>
+|}
+| |
+|}
+</div><noinclude>
+
+==Categorization==
+*[[:Category:Project Stardust]]
+
+==Usage==
+To use this template, insert {{Tl|Stardust}} to the top of the article. The &#124;title= field should be used if the project page has a different title to the article name. Parameters should then be used to specify issues:
+*<nowiki>image=1</nowiki>
+*<nowiki>update=[[Page to update with]], [[Page to update with]]</nowiki>
+*<nowiki>cleanup=1</nowiki>
+*<nowiki>expand=1</nowiki>
+*<nowiki>tense=1</nowiki>
+*<nowiki>npov=1</nowiki>
+*<nowiki>citation=1</nowiki>
+*<nowiki>redlink=1</nowiki>
+
+==Example==
+<nowiki>{{Stardust|image=1|cleanup=1|expand=1|tense=1|npov=1|citation=1|redlink=1|update=[[Star Wars: The Clone Wars]], [[Ahsoka (novel)|Ahsoka]], [[Star Wars: The Rebel Files]], and {{FactFile2014|18|AHS 1-4|Ahsoka Tano}}}}</nowiki> creates
+
+{{Stardust|image=1|cleanup=1|expand=1|tense=1|npov=1|citation=1|redlink=1|update=[[Star Wars: The Clone Wars]], [[Ahsoka (novel)|Ahsoka]], [[Star Wars: The Rebel Files]], and {{FactFile2014|18|AHS 1-4|Ahsoka Tano}}}}
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>
+[[Category:Project Stardust]]

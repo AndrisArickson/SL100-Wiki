@@ -1,0 +1,24 @@
+<includeonly>{{#switch:{{{1|}}}
+  |1|2|3|4=The first four chapters of {{#ifeq:{{PAGENAME}}|The High Republic: Trials of the Jedi|''The High Republic: Trials of the Jedi''|''[[The High Republic: Trials of the Jedi]]''}} are set between the events of ''[[The High Republic: Tears of the Nameless]]'' and the [[Battle of Eriadu]], both of which take place in [[228 BBY]] per the reasoning [[Template:THRContent228BBY|here]].
+  |5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23=Chapters 5&ndash;23 of {{#ifeq:{{PAGENAME}}|The High Republic: Trials of the Jedi|''The High Republic: Trials of the Jedi''|''[[The High Republic: Trials of the Jedi]]''}}{{#if:{{{2|}}}|, which feature {{{2}}},|}} are set immediately before and concurrent to the [[Battle of Eriadu]], which takes place in [[228 BBY]] per the reasoning [[Template:THRContent228BBY|here]].
+  |24|25|26|27|28|29|30|31|32|33|34|35|36|37=Chapters 24&ndash;37 of {{#ifeq:{{PAGENAME}}|The High Republic: Trials of the Jedi|''The High Republic: Trials of the Jedi''|''[[The High Republic: Trials of the Jedi]]''}} take place shortly after the [[Battle of Eriadu]], which takes place in [[228 BBY]] per the reasoning [[Template:THRContent228BBY|here]].
+  |38|39|40|41=Chapters 38&ndash;41 of {{#ifeq:{{PAGENAME}}|The High Republic: Trials of the Jedi|''The High Republic: Trials of the Jedi''|''[[The High Republic: Trials of the Jedi]]''}}{{#if:{{{2|}}}|, which feature {{{2}}},|}} take place [[Standard week|weeks]] after the [[Battle of Eriadu]], which occurs in [[228 BBY]] per the reasoning [[Template:THRContent228BBY|here]].
+  |=<!--do nothing if no parameter-->
+}}</includeonly><noinclude>
+==Usage==
+<code><nowiki>{{TrialsoftheJediDate|CHAPTER NUMBER}}</nowiki></code>
+
+'''Chapters 1-4 ([[228 BBY]])'''
+:{{TrialsoftheJediDate|1}}
+
+'''Chapters 5-23 ([[228 BBY]])'''
+:{{TrialsoftheJediDate|5}}
+
+'''Chapters 24-37 (c. [[228 BBY]])'''
+:{{TrialsoftheJediDate|24}}
+
+'''Chapters 38-41 (c. [[228 BBY]])'''
+:{{TrialsoftheJediDate|38}}
+
+[[Category:High Republic dating citation templates]]
+</noinclude>

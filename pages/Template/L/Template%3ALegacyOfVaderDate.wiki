@@ -1,0 +1,6 @@
+The events of {{#ifeq:{{PAGENAME}}|Star Wars: Legacy of Vader|''Star Wars: Legacy of Vader''|''[[Star Wars: Legacy of Vader]]''}} take place after the events of {{Film|VIII}}, which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]]. The series also features the ''[[Finalizer]]'' as the [[First Order]]'s [[flagship]]. As ''[[Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy]]'' establishes that the [[Steadfast (Resurgent-class)|''Steadfast'']] became the First Order's flagship following the [[Battle of Batuu]], dated to 34 [['ABY-BBY' dating system|ABY]] by ''Timelines'', the events of ''Legacy of Vader'' must be set in that [[Standard year|year]].<noinclude>
+
+==Usage==
+<code><nowiki>{{LegacyOfVaderDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

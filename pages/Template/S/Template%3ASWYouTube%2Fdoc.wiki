@@ -1,0 +1,42 @@
+This template is to be used for citing individual videos on the official ''[[Star Wars]]'' [https://www.youtube.com/c/StarWars YouTube channel]. For episodes of ''[[The Star Wars Show]]'', ''[[Star Wars: The High Republic Show]]'', or ''[[This Week! in Star Wars]]'', please use {{Tl|StarWarsShow}}, {{Tl|HighRepublicShow}}, and {{Tl|ThisWeek}} respectively.
+
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{SWYouTube|video=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=|sw_url=|sw_archivedate=|sw_archiveurl=|sw_archivefile=|sw_nobackup=|sw_nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Date the YouTube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|sw_url}} Link to the [[StarWars.com]] reposting of the same video. All of the below backup-related parameters are also available if necessary, only with sw_ as a prefix.
+
+For ''[[This Week! in Star Wars]]'' videos, use the {{Tl|ThisWeek}} version of the template, which will display the series name and image instead of the standard YouTube logo. For ''This Week!'' Dispatch entries, the <nowiki>| This Week! in Star Wars Dispatch</nowiki> suffix should be excluded from the text field, and instead should be prefixed with simply "Dispatch: ".
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{SWYouTube|video=bhBGb8J9vsI|text=Star Wars: Phantom Menace 20th Anniversary Celebration Live Panel|date=2019-04-15|archivedate=20200618055559}}</nowiki></code>
+
+Results in:
+
+{{SWYouTube|video=bhBGb8J9vsI|text=Star Wars: Phantom Menace 20th Anniversary Celebration Live Panel|date=2019-04-15|archivedate=20200618055559}}
+
+{{SWYouTube|rXJa1YcV6OQ|Ludwig Göransson &#124; Scoring The Mandalorian &#124; Disney+|sw_url=video/ludwig-goransson-scoring-the-mandalorian}}
+
+{{StarWarsShow|BmH4emDQd8U|The Legends of Luke Skywalker &#124; The Star Wars Show Book Club|sw_url=video/the-legends-of-luke-skywalker-the-star-wars-show-book-club}}
+
+{{ThisWeek|R1_2b23sJRM|Thrawn Ascendancy: Chaos Rising Excerpt, the Sounds of Ben Burtt, and More!|sw_url=video/thrawn-ascendancy-chaos-rising-excerpt-the-sounds-of-ben-burtt-and-more}}
+
+{{HighRepublicShow|v5phi7oXDms|A Deep Dive Into Star Wars: The High Republic, Bringing A Younger Yoda to Life (in VR), and More!|sw_url=video/a-deep-dive-into-star-wars-the-high-republic-bringing-a-younger-yoda-to-life-in-vr-and-more}}
+
+{{RebelsRecon|26MjdKGCvbE|#1.03: Inside "Fighter Flight" &#124; Star Wars Rebels|sw_url=video/rebels-recon-inside-fighter-flight}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

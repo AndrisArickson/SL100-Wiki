@@ -1,0 +1,38 @@
+This template is to be used for citing individual pages on [[Joe Books]]'s [http://www.joebooks.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{JoeBooks|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>https://joebooks.com/</nowiki></code>).
+*'''text''': Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{JoeBooks|url=collections/new-releases/products/star-wars-a-new-hope-cinestory-comic|text=Star Wars: A New Hope Cinestory Comic|archivedate=20171004203836}}</nowiki></code>
+
+Results in:
+
+{{JoeBooks|url=collections/new-releases/products/star-wars-a-new-hope-cinestory-comic|text=Star Wars: A New Hope Cinestory Comic|archivedate=20171004203836}}
+
+<hr />
+<code><nowiki>{{JoeBooks|url=collections/new-releases/products/star-wars-a-new-hope-cinestory-comic|text=Star Wars: A New Hope Cinestory Comic|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{JoeBooks|url=collections/new-releases/products/star-wars-a-new-hope-cinestory-comic|text=Star Wars: A New Hope Cinestory Comic|nobackup=1}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

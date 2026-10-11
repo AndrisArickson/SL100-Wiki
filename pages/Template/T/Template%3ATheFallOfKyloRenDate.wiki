@@ -1,0 +1,27 @@
+<includeonly>{{#switch:{{{1|}}}
+|1=The events of {{#ifeq:{{PAGENAME}}|The Fall of Kylo Ren 1|''The Fall of Kylo Ren'' 1|[[The Fall of Kylo Ren 1|''The Fall of Kylo Ren'' 1]]}} take place after the events of {{Film|VIII}}, which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]]. The issue also features the ''[[Finalizer]]'' as the [[First Order]]'s [[flagship]]. As ''[[Star Wars: The Rise of Skywalker: The Visual Dictionary]]'' establishes that the [[Steadfast (Resurgent-class)|''Steadfast'']] became the First Order's flagship following the [[Battle of Batuu]], which ''Timelines'' also dates to 34 [['ABY-BBY' dating system|ABY]], the events of ''The Fall of Kylo Ren'' 1 must take place in 34 ABY.
+|2=The events of {{#ifeq:{{PAGENAME}}|The Fall of Kylo Ren 2|''The Fall of Kylo Ren'' 2|[[The Fall of Kylo Ren 2|''The Fall of Kylo Ren'' 2]]}} feature the [[Steadfast (Resurgent-class)|''Steadfast'']] as the [[First Order]]'s [[flagship]]. ''[[Star Wars: The Rise of Skywalker: The Visual Dictionary]]'' establishes that the ''Steadfast'' became the First Order's flagship following the [[Battle of Batuu]], which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]]. The issues also take place before the [[death]] of [[Ben Solo|Kylo Ren]], which ''Timelines'' dates to [[35 ABY]]. Therefore, the events of of ''The Fall of Kylo Ren'' 2 must take place between 34 [['ABY-BBY' dating system|ABY]] and 35 ABY.
+|3=The events of {{#ifeq:{{PAGENAME}}|The Fall of Kylo Ren 3|''The Fall of Kylo Ren'' 3|[[The Fall of Kylo Ren 3|''The Fall of Kylo Ren'' 3]]}} take place when the [[Steadfast (Resurgent-class)|''Steadfast'']] is the [[First Order]]'s [[flagship]]. ''[[Star Wars: The Rise of Skywalker: The Visual Dictionary]]'' establishes that the ''Steadfast'' became the First Order's flagship following the [[Battle of Batuu]], which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]]. The issues also take place before the [[death]] of [[Ben Solo|Kylo Ren]], which ''Timelines'' dates to [[35 ABY]]. Therefore, the events of of ''The Fall of Kylo Ren'' 3 must take place between 34 [['ABY-BBY' dating system|ABY]] and 35 ABY.
+|4=The events of {{#ifeq:{{PAGENAME}}|The Fall of Kylo Ren 4|''The Fall of Kylo Ren'' 4|[[The Fall of Kylo Ren 4|''The Fall of Kylo Ren'' 4]]}} take place when the [[Steadfast (Resurgent-class)|''Steadfast'']] is the [[First Order]]'s [[flagship]]. ''[[Star Wars: The Rise of Skywalker: The Visual Dictionary]]'' establishes that the ''Steadfast'' became the First Order's flagship following the [[Battle of Batuu]], which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]]. The issues also take place before the [[death]] of [[Ben Solo|Kylo Ren]], which ''Timelines'' dates to [[35 ABY]]. Therefore, the events of of ''The Fall of Kylo Ren'' 4 must take place between 34 [['ABY-BBY' dating system|ABY]] and 35 ABY.
+|5=The events of {{#ifeq:{{PAGENAME}}|The Fall of Kylo Ren 5|''The Fall of Kylo Ren'' 5|[[The Fall of Kylo Ren 5|''The Fall of Kylo Ren'' 5]]}} take place between the [[Exegol Broadcast]] and the [[death]] of [[Ben Solo|Kylo Ren]], which correspons to [[35 ABY]] per ''[[Star Wars: Timelines]]''.
+}}</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{TheFallOfKyloRenDate|ISSUE NUMBER}}</nowiki></code>
+
+===Examples===
+{|class="wikitable sortable" {{Prettytable}}
+!Part !! Issues !! Date !! Result
+|-
+|[[The Fall of Kylo Ren 1|''The Fall of Kylo Ren'' 1]]||<nowiki>{{TheFallOfKyloRenDate|1}}</nowiki>||[[34 ABY]]||{{TheFallOfKyloRenDate|1}}
+|-
+|[[The Fall of Kylo Ren 2|''The Fall of Kylo Ren'' 2]]||<nowiki>{{TheFallOfKyloRenDate|2}}</nowiki>||Between [[34 ABY]] and [[35 ABY]]||{{TheFallOfKyloRenDate|2}}
+|-
+|[[The Fall of Kylo Ren 3|''The Fall of Kylo Ren'' 3]]||<nowiki>{{TheFallOfKyloRenDate|3}}</nowiki>||Between [[34 ABY]] and [[35 ABY]]||{{TheFallOfKyloRenDate|3}}
+|-
+|[[The Fall of Kylo Ren 4|''The Fall of Kylo Ren'' 4]]||<nowiki>{{TheFallOfKyloRenDate|4}}</nowiki>||Between [[34 ABY]] and [[35 ABY]]||{{TheFallOfKyloRenDate|4}}
+|-
+|[[The Fall of Kylo Ren 5|''The Fall of Kylo Ren'' 5]]||<nowiki>{{TheFallOfKyloRenDate|5}}</nowiki>||[[35 ABY]]||{{TheFallOfKyloRenDate|5}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

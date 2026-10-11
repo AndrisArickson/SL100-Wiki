@@ -1,0 +1,36 @@
+{{TabsTop}}
+{{TabLink|List of planets A{{#if:{{{legends|}}}|/Legends|}}|A}}
+{{TabLink|List of planets B{{#if:{{{legends|}}}|/Legends|}}|B}}
+{{TabLink|List of planets C{{#if:{{{legends|}}}|/Legends|}}|C}}
+{{TabLink|List of planets D{{#if:{{{legends|}}}|/Legends|}}|D}}
+{{TabLink|List of planets E{{#if:{{{legends|}}}|/Legends|}}|E}}
+{{TabLink|List of planets F{{#if:{{{legends|}}}|/Legends|}}|F}}
+{{TabLink|List of planets G{{#if:{{{legends|}}}|/Legends|}}|G}}
+{{TabLink|List of planets H{{#if:{{{legends|}}}|/Legends|}}|H}}
+{{TabLink|List of planets I{{#if:{{{legends|}}}|/Legends|}}|I}}
+{{TabLink|List of planets J{{#if:{{{legends|}}}|/Legends|}}|J}}
+{{TabLink|List of planets K{{#if:{{{legends|}}}|/Legends|}}|K}}
+{{TabLink|List of planets L{{#if:{{{legends|}}}|/Legends|}}|L}}
+{{TabLink|List of planets M{{#if:{{{legends|}}}|/Legends|}}|M}}
+{{TabLink|List of planets N{{#if:{{{legends|}}}|/Legends|}}|N}}
+{{TabLink|List of planets O{{#if:{{{legends|}}}|/Legends|}}|O}}
+{{TabLink|List of planets P{{#if:{{{legends|}}}|/Legends|}}|P}}
+{{TabLink|List of planets Q{{#if:{{{legends|}}}|/Legends|}}|Q}}
+{{TabLink|List of planets R{{#if:{{{legends|}}}|/Legends|}}|R}}
+{{TabLink|List of planets S{{#if:{{{legends|}}}|/Legends|}}|S}}
+{{TabLink|List of planets T{{#if:{{{legends|}}}|/Legends|}}|T}}
+{{TabLink|List of planets U{{#if:{{{legends|}}}|/Legends|}}|U}}
+{{TabLink|List of planets V{{#if:{{{legends|}}}|/Legends|}}|V}}
+{{TabLink|List of planets W{{#if:{{{legends|}}}|/Legends|}}|W}}
+{{TabLink|List of planets X{{#if:{{{legends|}}}|/Legends|}}|X}}
+{{TabLink|List of planets Y{{#if:{{{legends|}}}|/Legends|}}|Y}}
+{{TabLink|List of planets Z{{#if:{{{legends|}}}|/Legends|}}|Z}}
+{{TabsBottom}}<noinclude>
+
+==Usage==
+Copy the below code onto the top of each [[list of planets]] page. Use {{Para|legends|1}} on [[List of planets/Legends|Legends]] pages.
+<pre>
+{{ListOfPlanetsTabs}}
+</pre>
+
+[[Category:Navigation templates]]</noinclude>

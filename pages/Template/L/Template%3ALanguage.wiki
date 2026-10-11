@@ -1,0 +1,41 @@
+<infobox theme="Language">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Linguistic information</header>
+        <data source="users"><label>Users</label></data>
+        <data source="locations"><label>Locations</label></data>	
+        <data source="script"><label>Script</label></data>	
+        <data source="dialects"><label>Dialects</label></data>			
+        <data source="characteristics"><label>Characteristics</label></data>
+        <data source="related"><label>Related languages</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Language|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|users|locations|script|dialects|characteristics|related|ignore=name}}<noinclude>__NOTOC__
+==Usage==
+<pre>{{Language
+|image=
+|name=
+|users=
+|locations=
+|script=
+|dialects=
+|characteristics=
+|related=
+}}</pre>
+[[Category:infobox templates]]
+
+==Data fields==
+*image - a picture of the language, primarily relevant for writing systems
+*name - the name of the language
+*users - species or groups who speak the language
+*locations - areas where the language is widely spoken
+*script - an associated writing system
+*dialects - dialects of the language
+*characteristics - unique characteristics of the language
+*related - related languages
+</noinclude>

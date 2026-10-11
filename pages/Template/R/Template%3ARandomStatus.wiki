@@ -1,0 +1,8 @@
+<div class="showcase">{{#invoke:RandomQueue|main}}</div><noinclude>{{Top|fprot}}
+
+{{Clear}}
+==Usage==
+*mode - "both" will pull from both [[Wookieepedia:Good articles|WP:GA]] and [[Wookieepedia:Featured articles|WP:FA]], while "FA" and "GA" will pull only from their respective pages
+*page - used instead of mode; use to see what a specific page would look like.
+
+[[Category:Main Page templates]]</noinclude>

@@ -1,0 +1,7 @@
+<small>(Appears in simulation)</small><noinclude>[[Category:Appearance templates|{{PAGENAME}}]]<templatedata>
+{
+	"params": {},
+	"description": "For ==Appearances== Sections, indicates that a subject only appears within a simulation in the source.",
+	"format": "inline"
+}
+</templatedata></noinclude>

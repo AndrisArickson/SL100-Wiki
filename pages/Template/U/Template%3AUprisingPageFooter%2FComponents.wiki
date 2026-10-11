@@ -1,0 +1,34 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<onlyinclude><table style="width:100%;border-collapse:collapse;"><!--
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em; line-height:160%;border-top:0 none;"><!--
+			--><div style="display:inline-block;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals|Crystals]]</div><!--
+			--><div style="display:inline-block;margin:2px -5px 0 5px;">[[File:Uprising_Icon_evoSocketMaterials.png|frameless|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals|30x30px]]</div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.73em; line-height:145%;color:white;padding-left:1em;border-top:0 none;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Agrocite|Agrocite]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Aurodium|Aurodium]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Berubium|Berubium]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Carbonite|Carbonite]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Chunah|Chunah]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Electrum|Electrum]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Kiax|Kiax]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Havod|Havod]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Lanthanide|Lanthanide]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Crystals#Lothalite|Lothalite]]<!--
+		--></td><!--
+	--></tr><!--
+	
+	--><tr><!--
+		--><th style="white-space:nowrap; padding-left:1em; padding-right:1em; text-align:right;font-size:0.8em; line-height:160%;"><!--
+			--><div style="display:inline-block;">&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Materials|Materials]]</div><!--
+			--><div style="display:inline-block;margin:2px -5px 0 5px;">[[File:Uprising_Icon_Currency_CartelResources.png|frameless|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/Materials|30x30px]]</div><!--
+		--></th><!--
+		--><td style="text-align:left; font-size:0.73em; line-height:145%;color:white;padding-left:1em;"><!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components#Cortosis|Cortosis]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components#Desh|Desh]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components#Durasteel|Durasteel]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components#Mephitine|Mephitine]]{{{break|&middot;}}}<!--
+			-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components#Phrik|Phrik]]<!--
+		--></td><!--
+	--></tr><!--
+--></table></onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>}}

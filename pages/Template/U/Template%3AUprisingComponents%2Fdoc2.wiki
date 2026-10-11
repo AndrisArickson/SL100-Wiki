@@ -1,0 +1,249 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||
+== Example ==
+<code><pre>
+&#60;noinclude&#62;{{UprisingComponents/WarningBox|name=material desh scraps|title=Desh Scraps|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}&#60;/noinclude&#62;<!--
+-->&#60;onlyinclude&#62;{{#switch:{{lc:{{{get|}}}}}<!-- Compare against the lowercase "get" input
+
+General Component Attributes
+----------------------------
+-->|basename|name=Desh Scraps<!--
+-->|type=Material<!--
+-->|subtype=Neutral<!--
+-->|element=Neutral<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=This material protects against normal damage.<!--
+
+If the get value doesn't match a general attribute, check if the request is for a level specific attribute.
+	- Check if "level" is explicitly given
+	  or level prefix
+	  or full name of item at that level
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	
+	Check against possible combinations of names, prefixes, and spaces. Then check if it is an explicit level number match.
+	-->|perforated|perforateddesh scraps|perforated desh scraps|perforateddeshscraps|perforated deshscraps|1={{#switch:{{lc:{{{get|}}}}}<!--
+	
+			Component Level Specific Attributes
+			-----------------------------------
+			-->|prefix|levelname=Perforated<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Perforated Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_01.png<!--
+			-->|credits|value|price=52<!--
+			-->|usecost|useprice=100<!--
+			-->|upgradecost|upgradeprice=150<!--
+			
+			Separate multiple ways to get the material by simply putting each in a div element
+			-->|howget|howtoget=<div>Low level and repeatable missions.</div><div>Minor reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span>.</div><!--
+			-->|xp=400<!--
+		-->}}<!--
+	-->|pressed|presseddesh scraps|pressed desh scraps|presseddeshscraps|pressed deshscraps|2={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|prefix|levelname=Pressed<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Pressed Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_02.png<!--
+			-->|credits|value|price=157<!--
+			-->|usecost|useprice=300<!--
+			-->|upgradecost|upgradeprice=450<!--
+			-->|howget|howtoget=<div>Combine 4 Perforated Desh Scraps.</div><div>Low level and repeatable missions.</div><div>Minor reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span>.</div><!--
+			-->|xp=1640<!--
+		-->}}<!--
+	-->|forged|forgeddesh scraps|forged desh scraps|forgeddeshscraps|forged deshscraps|3={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|prefix|levelname=Forged<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Forged Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_03.png<!--
+			-->|credits|value|price=472<!--
+			-->|usecost|useprice=900<!--
+			-->|upgradecost|upgradeprice=1350<!--
+			-->|howget|howtoget=<div>Combine 4 Pressed Desh Scraps.</div><div>Low level and repeatable missions.</div><div>Minor reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span>.</div><!--
+			-->|xp=6724<!--
+		-->}}<!--
+	-->|plated|plateddesh scraps|plated desh scraps|plateddeshscraps|plated deshscraps|4={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|prefix|levelname=Plated<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Plated Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_04.png<!--
+			-->|credits|value|price=1417<!--
+			-->|usecost|useprice=2700<!--
+			-->|upgradecost|upgradeprice=4050<!--
+			-->|howget|howtoget=<div>Combine 4 Forged Desh Scraps.</div><div>Low level and repeatable missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span> or <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Chromium|Chromium]]</span>.</div><!--
+			-->|xp=27568<!--
+		-->}}<!--
+	-->|welded|weldeddesh scraps|welded desh scraps|weldeddeshscraps|welded deshscraps|5={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|prefix|levelname=Welded<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Welded Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_05.png<!--
+			-->|credits|value|price=4252<!--
+			-->|usecost|useprice=8100<!--
+			-->|upgradecost|upgradeprice=12150<!--
+			-->|howget|howtoget=<div>Combine 4 Plated Desh Scraps.</div><div>Best reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span> or <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Chromium|Chromium]]</span>.</div><!--
+			-->|xp=113030<!--
+		-->}}<!--
+	-->|fused|fuseddesh scraps|fused desh scraps|fuseddeshscraps|fused deshscraps|6={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|prefix|levelname=Fused<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Fused Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_06.png<!--
+			-->|credits|value|price=12757<!--
+			-->|usecost|useprice=24300<!--
+			-->|upgradecost|upgradeprice=36450<!--
+			-->|howget|howtoget=<div>Combine 4 Welded Desh Scraps.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Chromium|Chromium]]</span>.</div><!--
+			-->|xp=463424<!--
+		-->}}<!--
+	-->|hardened|hardeneddesh scraps|hardened desh scraps|hardeneddeshscraps|hardened deshscraps|7={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|prefix|levelname=Hardened<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Hardened Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_07.png<!--
+			-->|credits|value|price=38272<!--
+			-->|usecost|useprice=72900<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine 4 Fused Desh Scraps.</div><!--
+			-->|xp=1900041<!--
+		-->}}<!--
+		
+	If no level was matched, the full name is simply the component's baseName
+	Also, if no level is matched, a default icon is returned when "icon" or "image" is requested
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Desh Scraps<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Material_Generic_07.png<!--
+		-->}}<!--
+	-->}}<!--
+	
+The following is basic categorization, and template page's doc page tranclusion (AKA what you are reading). DO NOT CHANGE!
+-->}}&#60;/onlyinclude&#62;&#60;noinclude&#62;[[Category:Component Data Templates for Star Wars: Uprising]][[Category:Material Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Desh Scraps}}<br>{{Documentation|NOTOC=1|docName=Component Template Documentation|docPath=UprisingComponents/doc2}}
+__NOTOC__
+&#60;/noinclude&#62;
+</pre></code>
+
+== Switch Values ==
+A "switch" statement in programming is just (in its simplest form) a fast, compact way to compare a single value to a large number of test cases. All the data is stored as return values for these switch statements.
+
+The redundant naming scheme serves two purposes:
+* Idiot proofing
+* It allows simplification for caller function when passing values along the chain. I don't know how to explain it any better than that, but it is important that all the alias names are present. In short: it makes my life easier developing these templates.
+
+
+<big>'''All test cases are lowercase!'''</big><br>
+Another bit of idiot proofing is just making the request case-insensitive by converting it to lowercase before each comparison.
+
+{| class="wikitable" style="min-width:100%;font-size:0.85em;"
+|-
+! class="magistral-font class-style letter-spacing-1px" |Param
+! class="magistral-font class-style letter-spacing-1px" style="max-width:10px;width:10px;" |&#32;*&#32;
+! class="magistral-font class-style letter-spacing-1px" style="" |Example
+! class="magistral-font class-style letter-spacing-1px" style="min-width:50%;" |Description
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>basename<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>name
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|Aurodium
+| class="class-style min-width-fit-content" |Component root name
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>type
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|Crystal<br>Material
+| class="class-style min-width-fit-content" |Component type. Only valid values are:<br>"Crystal" and "Material"
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>subtype
+| style="text-align:center;" |<span style="font-size:0.7em;color:orange" title="Semi-Required">S</span>
+|Offense
+| class="class-style min-width-fit-content" |N/A
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>element
+| style="text-align:center;" |<span style="font-size:0.7em;color:green" title="Optional">O</span>
+|Toxic
+| class="class-style min-width-fit-content" |N/A
+|-
+!class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>minlevel
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|1
+| class="class-style min-width-fit-content" |The lowest level a component can be obtained in-game.[[#minlevel-note|<span id="minlevel-note-source"><sup>[a]</sup></span>]]
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>maxlevel
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|7
+| class="class-style min-width-fit-content" |The highest level a component can reach in-game.[[#maxlevel-note|<span id="maxlevel-note-source"><sup>[b]</sup></span>]]
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>description
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|<small>These crystals provide an offensive benefit to equipment.</small>
+| class="class-style min-width-fit-content" |Description of the material provided by the game.
+|}
+
+a. [[#minlevel-note-source|<span id="minlevel-note">&#94;</span> minlevel]]
+<div class="class-style display-inline-block margin-left-10px" style="font-size:0.85em;"><!--
+	-->Logic dictates that "minLevel" should always be 1. However, considering I ripped the data for many of these components directly from the game's code, it is hard to ignore the fact that some components' lower-level values and names are missing from the game's code entirely. Yet they still all still have icons.<br><!--
+	-->It should be noted that the items in question are not currently available in-game and may be included in future releases.<!--
+	-->Additionally, it could be an issue with my code not properly decrypting the unity code and extracting the data. But in at least one case, the game doesn't even have a reference to the component below level 3 (not even in the language files).<!--
+--></div>
+
+b. [[#maxlevel-note-source|<span id="maxlevel-note">&#94;</span> maxlevel]]
+<div class="class-style display-inline-block margin-left-10px" style="font-size:0.85em;"><!--
+	-->Should always be 7 unless future releases add higher level caps.<!--
+--></div>
+
+
+== Level Switch Values ==
+{| class="wikitable" style="min-width:100%;font-size:0.85em;"
+|-
+! class="magistral-font class-style letter-spacing-1px" |Param
+! class="magistral-font class-style letter-spacing-1px" style="max-width:10px;width:10px;" |&#32;*&#32;
+! class="magistral-font class-style letter-spacing-1px"|Example
+! class="magistral-font class-style letter-spacing-1px" style="min-width:50%;" |Description
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>prefix<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>levelname
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|Cracked
+| class="class-style min-width-fit-content" |The item's name at that level without the baseName included.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>level<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>baselevel<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>levelnum
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|1
+| class="class-style min-width-fit-content" |The component's level as an integer.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>fullname<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>levelfullname
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|Cracked Aurodium
+| class="class-style min-width-fit-content" |The item's full name at that level.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>icon<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>image
+| style="text-align:center;" |<span style="font-size:0.7em;color:red" title="Required">R</span>
+|<small><small><small>Uprising_UI_Prop_Crystal_Offensive_01.png</small></small></small>
+| class="class-style min-width-fit-content" |The component's level-specific icon, hosted on wikia, '''''without''''' the "'''File:'''" at the beginning.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>credits<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>value<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>price
+| style="text-align:center;" |<span style="font-size:0.7em;color:blue" title="Not-Required">N</span>
+|262
+| class="class-style min-width-fit-content" |The sell value (in galactic credits) of the item.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>usecost<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>useprice
+| style="text-align:center;" |<span style="font-size:0.7em;color:blue" title="Not-Required">N</span>
+|100
+| class="class-style min-width-fit-content" |How much it costs to apply the component to a piece of equipment or crew member.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>upgradecost<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>upgradeprice
+| style="text-align:center;" |<span style="font-size:0.7em;color:blue" title="Not-Required">N</span>
+|150
+| class="class-style min-width-fit-content" |Number of credits it costs to upgrade the component.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>xp
+| style="text-align:center;" |<span style="font-size:0.7em;color:blue" title="Not-Required">N</span>
+|400
+| class="class-style min-width-fit-content" |Expierence gained from using the material.
+|-
+! class="magistral-font class-style letter-spacing-1px" style="font-weight:400;padding:0 5px;text-align:left;" |<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>howget<span style="font-size:1.3em; padding:0px 1.5px;">&#124;</span>howtoget
+| style="text-align:center;" |<span style="font-size:0.7em;color:blue" title="Not-Required">N</span>
+|<small><small><small>&#60;div&#62;Found on Crystals Finder Crew Missions&#60;/div&#62;</small></small></small>
+| class="class-style min-width-fit-content" |List of ways to obtain the item at that level.
+|}
+
+*Not all parameters are required for the template to function properly. However, the ability box will be incomplete without some parameters.
+
+* <span style="color:red">REQUIRED</span> - Must be given a value
+* <span style="color:orange">SEMI-REQUIRED</span> - Can be missing or have a null value, but it may have adverse effects. (usually has another parameter that takes over when the value is missing)
+* <span style="color:blue">NOT-REQUIRED</span> - Can be missing or have a null value, but the ability box will be incomplete
+* <span style="color:green">OPTIONAL</span> - Can be missing or have a null value with no repercussions.
+<noinclude>[[Category:Star Wars: Uprising Super Walkthrough template documentations]]</noinclude>
+}}

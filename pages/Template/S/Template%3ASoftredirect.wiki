@@ -1,0 +1,22 @@
+{{Ooumb
+| bg = #eee
+| image = [[File:Go-next.svg|50px|link=Template:Softredirect]]
+| caption = [[Wikipedia:Wikipedia:Soft redirect|Soft redirect]]
+| message = This {{#ifeq:{{NAMESPACE}}|Category|category is a redirect to|page can be found at}} [[{{{1}}}]].{{#ifeq:{{NAMESPACE}}|Category|<p>'''This category should be empty.''' If there are any pages listed below, please recategorize them into the target category above. Do not hard-redirect categories such as this one as redirects do not forward category members to the target category (see [[wikipedia:phab:T5311|MediaWiki task T5311]]).}}
+}}<includeonly>__NOINDEX__{{SpecialCategorizer|{{#if:{{#pos:{{FULLPAGENAME}}|User}}|[[Category:Userpage soft redirects|{{PAGENAME}}]]|[[Category:Soft redirects|{{PAGENAME}}]]}}}}</includeonly><noinclude>
+
+==Usage==
+This template is for redirecting readers from a Wookieepedia link to another wiki. For example, [[Gallery of TV Guide covers]] is a soft redirect to [[w:c:swmerchandise:TV Guide]]. Per [[Forum:CT:WP:NFP cleanup|community consensus]], however, softredirects should not be created to point to [http://starwarsfans.fandom.com/wiki/Star_Wars_Fanpedia ''Star Wars'' Fanpedia].
+
+Normal or "hard" redirects would be undesirable in these circumstances because they could not be undone without handcrafting the correct URL (because there would be no "Redirected from [foo]" message on the page when you get to the destination, so there would be nothing to click on to take you back to the redirect page, and clicking on a link to the redirect page would take you straight to the redirect's target). There would also be infinite-loop security considerations. Therefore hard interwiki redirects have been disabled, and this soft redirect template asks the user to confirm if they wish to proceed to another site.
+
+Please continue to use
+
+<pre><code><nowiki>#REDIRECT [[Other article]]</nowiki></code></pre>
+
+for all internal redirects except for categories. Category redirects should use this template as hard redirects do not forward category members to the target category (see [[wikipedia:phab:T5311|MediaWiki task T5311]]).
+
+==Categorization==
+*[[:Category:Soft redirects]]
+
+[[Category:Disambiguation and redirection templates|{{PAGENAME}}]]</noinclude>

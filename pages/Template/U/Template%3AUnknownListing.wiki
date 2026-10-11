@@ -1,0 +1,17 @@
+<includeonly><span title="This entry is flagged as unknown by Wookieepedia's automated source formatting system.">‡&#32;{{SpecialCategorizer|{{#if:{{{ex|}}}|[[Category:Unrecognized listings found in external links]]|[[{{#switch:{{{1|}}}
+  |url=Category:Unrecognized URL listings found in image sources
+  |file=Category:Unrecognized listings found in image sources
+  |#default=Category:Unrecognized listings found in {{#if:{{{r|}}}|real-world Sources|Appearances or Sources}}
+}}|{{#if:{{{2|}}}|*{{{2}}}|{{PAGENAME}}}}]]}}|simple=1}}</span></includeonly><noinclude>{{Top|fprot|mprot}}
+
+This is a maintenance template to flag entries in the Appearances and Sources sections of articles that are unrecognized by the [[Wookieepedia:Sources|Sources Project]]. These entries should be checked for errors and removed from the article or added to the Sources Project.
+
+*[[:Category:Unrecognized listings found in image sources]]
+*[[:Category:Unrecognized listings found in real-world Sources]]
+*[[:Category:Unrecognized listings found in Appearances or Sources]]
+
+Deprecated/abandoned:
+*[[:Category:Unrecognized URL listings found in image sources]]
+*[[:Category:Unrecognized listings found in external links]]
+
+[[Category:Templates]]</noinclude>

@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWYouTube
+|archive=YouTube
+|image=[[File:This_Week_in_Star_Wars_logo.png|text-bottom|x18px|link=This Week! in Star Wars]]
+|site_text=the official ''[[Star Wars]]'' [https://www.youtube.com/c/StarWars YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|series=''[[This Week! in Star Wars]]''{{#if:{{#count:{{{2|{{{text|}}}}}}|Dispatch}} > 0||:}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation|SWYouTube/doc}}[[Category:YouTube series citation templates]]</noinclude>

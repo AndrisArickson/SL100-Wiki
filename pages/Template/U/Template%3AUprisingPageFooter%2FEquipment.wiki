@@ -1,0 +1,10 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<onlyinclude><!--
+   
+-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Head|Head]]{{{break|&middot;}}}<!--
+-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Torso|Torso]]{{{break|&middot;}}}<!--
+-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Back|Back]]{{{break|&middot;}}}<!--
+-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Hands|Hands]]{{{break|&middot;}}}<!--
+-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Weapons|Weapons]]{{{break|&middot;}}}<!--
+-->[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Legs|Legs]]<!--
+
+--></onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>}}

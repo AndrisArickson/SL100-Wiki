@@ -1,0 +1,12 @@
+{{#ifexist:{{FULLPAGENAMEE}}|'''Warning:''' This page <span class="plainlinks">([{{fullurl:{{FULLPAGENAME}}}} {{FULLPAGENAME}}])</span> already exists. Please do not recreate it!|'''Before creating a new [[Forum:Trash compactor|Trash compactor]] page, please make sure that you are aware of our current [[Wookieepedia:Deletion policy|deletion policy]].''' Remember that some pages may be eligible for speedy deletion, while others (such as articles that have been merged) may only require a redirect.
+
+In the form provided below:
+*Briefly explain why you believe the page in question should be deleted.
+*Add your vote under one of the available subheadings.
+*Sign both your comments ''and'' your vote with four tildes (<code><nowiki>~~~~</nowiki></code>).
+
+''Technical note: Please preview your edits before saving in order to ensure that the page renders correctly. In the rare case that a forward slash (&#32;/&#32;) is embedded in the name of the page to be deleted, you will need to replace the text <code><nowiki>{{SUBPAGENAME}}</nowiki></code> with the correct page name in order to avoid a redlink.''
+}}
+<noinclude>__EXPECTUNUSEDTEMPLATE__
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

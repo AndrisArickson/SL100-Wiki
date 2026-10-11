@@ -1,0 +1,28 @@
+<includeonly>{{#switch: {{PROTECTIONLEVEL: edit | {{FULLPAGENAME}} }}
+|sysop={{Protectedpagetext-fprot}}
+|autoconfirmed=
+{{#switch: {{FULLPAGENAME}}  <!-- check if the page is listed on the spprot list -->
+|A|X|Z|Ahsoka Tano|Abbus-Kelo|Rose Tico|Breast/Legends|Supernatural Encounters: The Trial and Transformation of Arhul Hextrophon|Ploob|Ki-Adi Mundi|Sister|Vaughn={{Protectedpagetext-ssprot}}
+|{{Protectedpagetext-sprot}}
+}}
+{{#ifeq: {{PROTECTIONLEVEL: move | {{FULLPAGENAME}} }} | sysop | {{Protectedpagetext-mprot}} | }} <!-- check if autoconfirmed page is fully move-protected -->
+|{{#ifeq: {{PROTECTIONLEVEL: move | {{FULLPAGENAME}} }} | sysop | {{Protectedpagetext-mprot}} | }} <!-- if neither fprot nor sprot/ssprot, still check for move protection -->
+}}</includeonly><noinclude>{{Top|fprot}}
+
+This template implements [[MediaWiki:Protectedpagetext]].
+
+{{Scroll_box|content=
+[[Template:Protectedpagetext-sprot]]:
+{{Protectedpagetext-sprot}}
+
+[[Template:Protectedpagetext-ssprot]]:
+{{Protectedpagetext-ssprot}}
+
+[[Template:Protectedpagetext-mprot]]:
+{{Protectedpagetext-mprot}}
+
+[[Template:Protectedpagetext-fprot]]:
+{{Protectedpagetext-fprot}}
+}}
+
+[[Category:Administrative templates]]</noinclude>

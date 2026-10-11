@@ -1,0 +1,36 @@
+|-
+! colspan="2" style="color:{{{3|black}}}; background:{{{2|#F2F5FD}}}" | {{{1}}}
+|-<noinclude>
+{{clear}}
+==Notes==
+This template is one in a series of modular source templates meant to be used to generate navigation templates.
+
+==Usage instructions==
+<pre><nowiki>{{Nav_heading|caption|background_color|text_color}}</nowiki></pre>
+
+==Navigation source templates==
+*{{Tl|Nav_start}}
+*{{Tl|Nav_heading}}
+*{{Tl|Nav_text}}
+*{{Tl|Nav_end}}
+
+==Example==
+===Code===
+<pre><nowiki>
+{{Nav_start|Navigation template test}}
+{{Nav_heading|Heading 1}}
+{{Nav_text|blah blah blah blah blah}}
+{{Nav_heading|Heading 2}}
+{{Nav_text|blah blah blah blah blah blah blah blah blah blah}}
+{{Nav_end}}
+</nowiki></pre>
+
+===Result===
+{{Nav_start|Navigation template test}}
+{{Nav_heading|Heading 1}}
+{{Nav_text|blah blah blah blah blah}}
+{{Nav_heading|Heading 2}}
+{{Nav_text|blah blah blah blah blah blah blah blah blah blah}}
+{{Nav_end}}
+
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

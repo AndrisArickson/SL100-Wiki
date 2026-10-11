@@ -1,0 +1,16 @@
+{{Iumb
+| id = Notability/template
+| bg = #f0b0b0
+| image = [[File:Lott Dodd thumb.png|90px]]
+| caption = I object! There is no proof!
+| message = This article on a fandom-related topic does not have '''[[Wookieepedia:Notability policy/Fan projects|proof of notability]]'''.{{#if:{{{1|}}}|<br />'''Additional information:''' ''{{{1}}}''|}}
+| comment = If this article is not provided with reliable references to demonstrate its notability within '''7 days''', it will be deleted.
+}}<noinclude>
+
+==Categorization==
+*[[:Category:OOU articles in need of verification]]
+
+==Note==
+Please use {{Tl|Verify}} for in-universe topics of questionable validity.
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Verification templates]]</noinclude>

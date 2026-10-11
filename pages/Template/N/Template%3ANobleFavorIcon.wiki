@@ -1,0 +1,43 @@
+<onlyinclude><span style="display: inline; position: relative; {{#if:{{{top|}}}|top:{{{top}}};|}}{{#if:{{{left|}}}|left:{{{left}}};|}}" {{#ifeq:{{{title|}}}|0||title="{{#ifeq:{{{title|1}}}|1|{{#switch:{{lc:{{{level|{{{color|{{{type|1}}}}}}}}}}}<!--
+-->|3<!--
+-->|gold<!--
+-->|elaborate<!--
+-->|intricate<!--
+-->|complex<!--
+-->|gilded=Gilded Noble Favor<!--
+-->|2<!--
+-->|silver<!--
+-->|stock<!--
+-->|distinct<!--
+-->|standard<!--
+-->|embossed=Embossed Noble Favor<!--
+-->|1<!--
+-->|bronze<!--
+-->|plain<!--
+-->|blank<!--
+-->|simple<!--
+-->|#default=Simple Noble Favor}}<!--
+-->|{{{title|}}}}}"|}}>[[File:Uprising_Icon_Currency_FactionNobleCourt_0{{#switch:{{lc:{{{level|{{{color|{{{type|1}}}}}}}}}}}<!--
+-->|3<!--
+-->|gold<!--
+-->|elaborate<!--
+-->|intricate=3<!--
+-->|2<!--
+-->|silver<!--
+-->|stock<!--
+-->|distinct=2<!--
+-->|1<!--
+-->|bronze<!--
+-->|plain<!--
+-->|blank<!--
+-->|#default=1}}.png|middle|link={{{link|}}}|{{#switch:{{lc:{{{size|sm}}}}}<!--
+-->|exsm<!--
+-->|exsmall<!--
+-->|exrasmall=14px<!--
+-->|sm<!--
+-->|small=22px<!--
+-->|med<!--
+-->|medium=34px<!--
+-->|#default={{{size|}}}<!--
+-->}}]]</span></onlyinclude>
+[[Category:Star Wars Uprising icons]]

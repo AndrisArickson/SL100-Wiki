@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Spotify
+|image=[[File:Spotify-Logo.svg|text-top|x16px|link=https://open.spotify.com]]
+|site_text=[[Wikipedia:Spotify|Spotify]]
+|base_url=https://{{{subdomain|open}}}.spotify.com
+|target_url={{{url|}}}
+|text={{{text|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

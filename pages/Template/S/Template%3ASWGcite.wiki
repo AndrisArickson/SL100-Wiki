@@ -1,0 +1,160 @@
+{{#invoke:SWGcite|main}}<noinclude>[[Category:Game citation templates]]
+
+==Usage==
+Use this template when referencing content from ''[[Star Wars Galaxies]]''. It is not to be used in the "Appearances" field, only in references.
+*The '''exp''' field should be used if referencing an expansion:
+**AED = ''[[Star Wars Galaxies: An Empire Divided|An Empire Divided]]''
+**JtL = ''[[Star Wars Galaxies: Jump to Lightspeed|Jump to Lightspeed]]''
+**RotW = ''[[Star Wars Galaxies: Rage of the Wookiees|Rage of the Wookiees]]''
+**TTE = ''[[Star Wars Galaxies: Rage of the Wookiees|Rage of the Wookiees]]'' (deprecated)
+**ToOW = ''[[Star Wars Galaxies: Trials of Obi-Wan|Trials of Obi-Wan]]''
+**NGE = {{GalaxiesNGE}}
+**SK = {{GalaxiesNGE}} (deprecated)
+**TCOA = {{GalaxiesNGE}} (deprecated)
+*The '''type''' field will produce different variations for use in referencing different parts of the game, such as the Quest or a Location. 
+**The parameter within the quotation marks should be the title of the quest, point of interest, item, etc.
+**The parameter before Quest denotes the specific faction, class, etc.
+**The parameter that follows the quest title denotes what planet the quest occurs on.
+
+
+Example usage:
+:<code><nowiki>{{SWGcite|exp=|type=|parameter 1|parameter 2}}</nowiki></code>
+
+{| class="wikitable sortable" {{Prettytable}}
+| '''Type''' || '''Result'''
+|-
+|<code>general</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Quest: "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>terminal</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;<code>parameter 1</code> Terminal Mission: "<code>parameter 2</code>"
+|-
+|<code>class</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;<code>parameter1</code> Quest: "<code>parameter 2</code>" on <code>parameter 3</code>
+|-
+|<code>faction</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;<code>parameter1</code> Quest: "<code>parameter 2</code>" on <code>parameter 3</code>
+|-
+|<code>static</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Static Quest: "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>space</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Space Quest: "<code>parameter 1</code>" in the <code>parameter 2</code>
+|-
+|<code>location</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Location: "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>heroic</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Heroic Instance: "<code>parameter 1</code>"
+|-
+|<code>poi</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Point of Interest: "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>space_poi</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Point of Interest: "<code>parameter 1</code>" in the <code>parameter 2</code>
+|-
+|<code>item</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Item: "<code>parameter 1</code>"
+|-
+|<code>event</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Event: "<code>parameter 1 </code>"
+|-
+|<code>herald</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Herald NPC: "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>loading</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Loading Screen: "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>collection</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Collection: "<code>parameter 1</code>"
+|-
+|<code>holocron</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Holocron: "<code>parameter 1</code>"
+|-
+|<code>conversation</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;Conversation with "<code>parameter 1</code>" on <code>parameter 2</code>
+|-
+|<code>message</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;''<code>parameter 1</code>'' from <code>parameter 2</code>
+|-
+|<code>other</code> || [[File:SWG_logo_sm.png|text-bottom|x18px|link=Star Wars Galaxies]] ''[[Star Wars Galaxies]]''&mdash;<code>parameter 1</code>
+|}
+
+===Examples===
+:<code><nowiki>{{SWGcite|exp=AED|type=general|Retrieve the research data and IMGGCUs|Lok}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=general|Retrieve the research data and IMGGCUs|Lok}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=class|Jedi|Searching for a Jedi's Weapon|Naboo}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=class|Jedi|Searching for a Jedi's Weapon|Naboo}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=faction|Rebel|Stolen Starships|Corellia}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=faction|Rebel|Stolen Starships|Corellia}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=space|Dynath Miners: Deliver the Warning|Ord Mantell system}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=space|Dynath Miners: Deliver the Warning|Ord Mantell system}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=location|Theed|Naboo}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=location|Theed|Naboo}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=terminal|Explorer|HoloNet Show on Overland Migration}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=terminal|Explorer|HoloNet Show on Overland Migration}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=NGE|type=heroic|Battle of Echo Base}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=NGE|type=heroic|Battle of Echo Base}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=poi|Fort Tusken|Tatooine}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=poi|Fort Tusken|Tatooine}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=RotW|type=item|Red Hydra Z-5 Pistol}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=RotW|type=item|Red Hydra Z-5 Pistol}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=NGE|type=event|Life Day}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=NGE|type=event|Life Day}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=herald|Errik Darksider|Tatooine}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=herald|Errik Darksider|Tatooine}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=AED|type=loading|Vynock|Talus}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=AED|type=loading|Vynock|Talus}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=NGE|type=collection|Rare Melee Weapons Mark II}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=NGE|type=collection|Rare Melee Weapons Mark II}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=JtL|type=conversation|Dravis|Tatooine}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=JtL|type=conversation|Dravis|Tatooine}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=JtL|type=message|Hello|someone}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=JtL|type=message|Hello|someone}}</span>
+
+----
+
+:<code><nowiki>{{SWGcite|exp=|type=other|Any text can be written here}}</nowiki></code>
+
+<span style="font-size: 0.85em">{{SWGcite|exp=|Any text can be written here}}</span>
+
+</noinclude>

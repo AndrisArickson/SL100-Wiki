@@ -1,0 +1,29 @@
+'''{{tlx|Top-mobile}}''' is a way to allow mobile visitors a way to switch between the canon and Legends version of a page. '''It only works on Mercury, FANDOM's mobile web skin.'''
+==Usage==
+This template is inserted into all '''in-universe [[:Category:infobox templates|infobox templates]]''' as a way of triggering choice between the Legends and Canon versions of a page. It works in Mercury, but is less likely to currently work in the Wookieepedia app, because the app doesn't yet support image linking. 
+
+Strictly speaking, it '''only''' works in Mercury, because it is not active in the default desktop skin.
+
+===How it works===
+When you're on a Canon page&mdash;defined as a page without /Legends in the title, so [[R2-D2]]&mdash;you'll see the following images underneath the main image:
+[[File:OnACanonArticle.png|center|150px]]
+[[file:GoToLegends.png|center|150px|thumb|When clicked on a phone, the "Canon" image will take you to the article, [[Canon]]. The "Go to Legends" image will take you to that article's title + /Legends.  So, if you were on [[Cloud City]], you'd go to [[Cloud City/Legends]].]]
+
+By contrast, if you were on the page [[Sio Bibble/Legends]], you'd see these images:
+[[File:OnALegendsArticle.png|center|150px]]
+[[File:GoToCanon.png|center|150px|thumb|Here, the "Legends" image would take you to [[Star Wars Legends]], and the "Go to Canon" image would take you to the canon version of the article: [[Sio Bibble]].]]
+
+Finally, if you're on a canon page without a Legends counterpart&mdash;like [[Ben Solo]]&mdash;or a Legends page without a canon counterpart&mdash;like [[Keleman Ciro]]&mdash;the switcher will indicate which of the two it is.
+::''A few cases&mdash;typically those involving different names for the topic in canon than in Legends, like [[Watts]]&mdash;are a bit confusing for this system to figure out, so the "fall back" canon/Legends switcher that's a part of {{Tlx|Top}} is available for correct mobile switching.''
+
+==Example images==
+Here are some images taken from both Legends and canon pages from a real iOS phone. These are not simulations of the mobile experience. 
+<gallery hideaddbutton="true"  spacing="small" position="center" captionalign="center" perrow="4" widths="150px" captioncolor="#000">
+Yoda-Legends-Mobile.png|A typical Legends page
+Keleman-Ciro-Mobile.png|A typical Legends-only page
+Rose-Tico-Mobile.png|A typical canon-only page
+R2-Canon-Mobile.png|A typical canon page
+</gallery>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Infobox utility templates|{{PAGENAME}}]]
+[[Category:Top utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

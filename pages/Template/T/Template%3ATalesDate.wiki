@@ -1,0 +1,64 @@
+{{#switch:{{{1|}}}
+  |#default = 
+  |J1 = ''[[Star Wars: Timelines]]'' establishes that [[Ahsoka Tano]] was [[Reproduction|born]] in [[36 BBY]]. As "[[Life and Death]]" features Ahsoka's birth, and flashes forward a [[Standard year|year]], it must span over this time.
+  |J2 = "[[Justice (episode)|Justice]]" takes place after [[Qui-Gon Jinn]] became [[Dooku]]'s [[Padawan]]. According to ''[[Star Wars: Timelines]]'', Jinn became Dooku's Padawan in [[68 BBY]] and became a [[Jedi Knight]] around [[58 BBY]]. Therefore "Justice" must take place between those two years.
+  |J3 = "[[Choices]]" depicts [[Mace Windu]] gaining a seat on the [[Jedi High Council]]. {{Film|III}} established that [[Anakin Skywalker]] was the youngest to ever serve on the Council. ''[[Star Wars: Timelines]]'' dates the film to [[19 BBY]] and Skywalker's birth to [[41 BBY]]. Therefore, Windu must have been at least twenty-two years old. According to the ''[[Star Wars Encyclopedia (series)|Star Wars Encyclopedia]]'' booklet "[[Mace Windu and Other Users of the Force|Mace Windu and Other Force Users]]," Mace Windu was born forty years before the [[Battle of Naboo]], which ''Star Wars: Timelines'' places in [[32 BBY]]. Therefore, Windu gained a seat on the Council no earlier than around [[50 BBY]]. ''[[Master & Apprentice]]'' further establishes that Windu is part of the Jedi Council at the [[time]] of [[Nim Pianna]]'s [[Mutiny on the Advent|death]], which ''Timelines'' dates to [[48 BBY]]. Therefore, the events of "Choices" must take place between these two years.
+  |J4 = "[[The Sith Lord]]" takes place concurrently to {{Film|I}}, which takes place in [[32 BBY]] per ''[[Star Wars: Timelines]]''.
+  |J5 = As [[Ahsoka Tano]] interacts with [[Tera Sinube]] at the beginning of "[[Practice Makes Perfect (episode)|Practice Makes Perfect]]," it must be set after "[[Lightsaber Lost]]." ''[[Star Wars: Timelines]]'' dates the episodes "[[The Deserter]]" and "[[The Mandalore Plot]]" to [[21 BBY]] and {{SW|url=news/star-wars-the-clone-wars-chronological-episodeorder|text=''Star Wars: The Clone Wars'' Chronological Episode Order}} places "Lightsaber Lost" in between those two episodes. Therefore this episode must begin at some point during or after 21 BBY. The episode ends during the [[Skirmish aboard the Tribunal|skirmish aboard the ''Tribunal'']], which occurs during the execution of [[Order 66]], which ''Timelines'' dates to [[19 BBY]].
+  |J6 = "[[Resolve (episode)|Resolve]]" depicts the [[Eleventh Brother]]'s death. As such, it must take place after ''[[Star Wars: Maul - Shadow Lord]]'' which features the Eleventh Brother. {{SW|url=news/star-wars-maul-shadow-lord-first-trailer-poster-art|text=Star Wars: Maul – Shadow Lord Teaser Trailer and First Poster Arrive}} states that ''[[Star Wars: Maul - Shadow Lord]]'' is set "in the period a few short [[Standard year|years]] after [[Order 66]]." Since ''[[Star Wars: Timelines]]'' dates the [[Great Jedi Purge|issuing]] of Order 66 to [[19 BBY]], ''Maul - Shadow Lord'' must take place during or after [[17 BBY]]. The episode also takes place before [[Ahsoka Tano]] actively became part of the Rebellion by the events of "[[Out of Darkness]]," which ''Timelines'' dates to [[5 BBY]].
+  |E1 = ''[[Star Wars: Timelines]]'' dates the [[Battle of Dathomir]] to [[20 BBY]].
+  |E2 = "[[The Path of Anger]]" takes place during [[Mitth'raw'nuruodo|Thrawn]]'s time as an [[Admiral]], placing it between [[9 BBY]] and [[2 BBY]] per ''[[Star Wars: Timelines]]''.
+  |E3 = "[[The Path of Hate]]" takes place during [[Morgan Elsbeth]]'s time as [[Magistrate]] of [[Calodan]], a position she got [[Standard year|years]] after the fall of the [[Galactic Empire]], per ''[[Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy]]'', and lost during the [[Liberation of Calodan]]. ''[[Star Wars: Timelines]]'' dates these to [[5 ABY]] and [[9 ABY]], respectively, meaning she got the position in [[7 ABY]] at the earliest, lost it in 9 [['ABY-BBY' dating system|ABY]], and "The Path of Hate" takes place between these two years.
+  |E4 = "[[Devoted]]" takes place during and immediately after [[Operation: Knightfall]], which ''[[Star Wars: Timelines]]'' dates to [[19 BBY]].
+  |E5 = "[[Realization]]" takes place shortly after "[[Devoted]]," set during and immediately after [[Operation: Knightfall]], which ''[[Star Wars: Timelines]]'' dates to [[19 BBY]].
+  |E6 = "[[The Way Out]]" takes place between the events of ''[[Star Wars: Obi-Wan Kenobi]]'' but before the collapse of the [[Inquisitorius]]. {{HelmetCollectionCite|26|Databank A-Z}} states the Inquisitorius collapsed within three years of the [[Mission to Malachor]], and ''[[Star Wars: Timelines]]'' dates the Mission to [[Malachor]] to [[3 BBY]] and the events of ''Obi-Wan Kenobi'' to [[9 BBY]]. Therefore the Inquisitorius collapsed by [[0 ABY]], and "The Way Out" takes place between these [[Standard year|years]].
+  |U1 = The main story of "[[A Way Forward]]" features [[stormtrooper]]s, meaning it must take place after the stormtrooper program is activated in "[[Truth and Consequences]]," which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Therefore, the main events of "A Way Forward" must take place during or after 18 [['ABY-BBY' dating system|BBY]].
+  |U2|U3 = "[[{{#switch: {{{1}}}|U2=Friends|U3=One Warrior to Another}}]]" is set immediately after "[[A Way Forward]]," which features [[stormtrooper]]s, meaning it must take place after the stormtrooper program is activated in "[[Truth and Consequences]]," which ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates to [[18 BBY]]. Therefore, the events of "{{#switch: {{{1}}}|U2=Friends|U3=One Warrior to Another}}" must take place during or after 18 [['ABY-BBY' dating system|BBY]].
+  |U4
+  |U5
+  |U6 = The events of "[[{{#switch: {{{1}}}|U4=The Good Life|U5=A Good Turn|U6=One Good Deed}}]]" occur before [[Cad Bane]] takes up the life of a [[bounty hunter]]. According to ''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'', Bane was estimated to be forty-one [[Standard year|years]] old in the year 7956 [[Coruscant reckoning calendar|C.R.C.]], eleven years after the 7945 C.R.C. [[Boonta Eve Classic]] of [[Neva Kee]]'s disappearance. As ''[[Star Wars: Timelines]]'' dates that [[Podracing|race]] to [[32 BBY]], it can be calculated that Bane was [[Reproduction|born]] around the year [[62 BBY]]. Furthermore, [[Darth Maul (2017) 3|'' Darth Maul'' (2017) 3]] shows that Bane is already a bounty hunter by the time of its events, which occur in [[33 BBY]] according to ''Timelines''. Therefore, the events of "{{#switch: {{{1}}}|U4=The Good Life|U5=A Good Turn|U6=One Good Deed}}" must take place between around 62 [['ABY-BBY' dating system|BBY]] and 33 BBY.
+}}<noinclude>[[Category:Canon television dating citation templates]]
+
+==Usage==
+<nowiki>{{TalesDate|episode}}</nowiki>, where the episodes uses the ID number (J2 for "[[Justice (episode)|Justice]]," E3 for "[[The Path of Hate]]," etc).
+
+==Complete series dating==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|"[[Life and Death]]"||<nowiki>{{TalesDate|J1}}</nowiki>||Between [[36 BBY]] and [[35 BBY]]||{{TalesDate|J1}}
+|-
+|"[[Justice (episode)|Justice]]"||<nowiki>{{TalesDate|J2}}</nowiki>||Between [[68 BBY]] and c. [[58 BBY]]||{{TalesDate|J2}}
+|-
+|"[[Choices]]"||<nowiki>{{TalesDate|J3}}</nowiki>||Between c. [[50 BBY]] and [[48 BBY]]||{{TalesDate|J3}}
+|-
+|"[[The Sith Lord]]"||<nowiki>{{TalesDate|J4}}</nowiki>||[[32 BBY]]||{{TalesDate|J4}}
+|-
+|"[[Practice Makes Perfect (episode)|Practice Makes Perfect]]"||<nowiki>{{TalesDate|J5}}</nowiki>||Between c. [[21 BBY]] and [[19 BBY]]||{{TalesDate|J5}}
+|-
+|"[[Resolve (episode)|Resolve]]"||<nowiki>{{TalesDate|J6}}</nowiki>||Between [[17 BBY]] and [[5 BBY]]||{{TalesDate|J6}}
+|-
+|"[[The Path of Fear]]"||<nowiki>{{TalesDate|E1}}</nowiki>||[[20 BBY]]||{{TalesDate|E1}}
+|-
+|"[[The Path of Anger]]"||<nowiki>{{TalesDate|E2}}</nowiki>||Between [[9 BBY]] and [[2 BBY]]||{{TalesDate|E2}}
+|-
+|"[[The Path of Hate]]"||<nowiki>{{TalesDate|E3}}</nowiki>||Between [[7 ABY]] and [[9 ABY]]||{{TalesDate|E3}}
+|-
+|"[[Devoted]]"||<nowiki>{{TalesDate|E4}}</nowiki>||[[19 BBY]]||{{TalesDate|E4}}
+|-
+|"[[Realization]]"||<nowiki>{{TalesDate|E5}}</nowiki>||c. [[19 BBY]]||{{TalesDate|E5}}
+|-
+|"[[The Way Out]]"||<nowiki>{{TalesDate|E6}}</nowiki>||Between [[9 BBY]] and [[0 ABY]]||{{TalesDate|E6}}
+|-
+|"[[A Way Forward]]"||<nowiki>{{TalesDate|U1}}</nowiki>||During or after [[18 BBY]]||{{TalesDate|U1}}
+|-
+|"[[Friends]]"||<nowiki>{{TalesDate|U2}}</nowiki>||During or after [[18 BBY]]||{{TalesDate|U2}}
+|-
+|"[[One Warrior to Another]]"||<nowiki>{{TalesDate|U3}}</nowiki>||During or after [[18 BBY]]||{{TalesDate|U3}}
+|-
+|"[[The Good Life]]"||<nowiki>{{TalesDate|U4}}</nowiki>||Between c. [[62 BBY]] and [[33 BBY]]||{{TalesDate|U4}}
+|-
+|"[[A Good Turn]]"||<nowiki>{{TalesDate|U5}}</nowiki>||Between c. [[62 BBY]] and [[33 BBY]]||{{TalesDate|U5}}
+|-
+|"[[One Good Deed]]"||<nowiki>{{TalesDate|U6}}</nowiki>||Between c. [[62 BBY]] and [[33 BBY]]||{{TalesDate|U6}}
+|}</noinclude>

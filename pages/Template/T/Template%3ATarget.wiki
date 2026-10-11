@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Target
+|image=[[File:Target-Logo.svg|text-top|x16px|Target.com|link=https://{{{subdomain|www}}}.target.{{{domain|com}}}]]
+|site_text=[[Wikipedia:Target Corporation|Target's]] [https://{{{subdomain|www}}}.target.{{{domain|com}}} official website]
+|base_url=https://{{{subdomain|www}}}.target.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

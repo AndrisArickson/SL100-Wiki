@@ -1,0 +1,32 @@
+{| id="{{{id|{{lc:{{<includeonly>subst:</includeonly>PAGENAMEE}}}}}}}" class="darkbackground1 messagebox" style="border:2px solid {{{border|#BBD}}}; border-radius:5px; border-spacing:0px; padding:0px; background-color:{{{bg|#EEF}}}; overflow:hidden"
+| style="padding:10px; text-align:center" | {{{image|}}}
+| style="padding:10px 10px 10px 0px; width:100%; font-style:italic; {{{messagestyle|}}}" | {{{message|}}}
+|}<noinclude>
+__NOTOC__
+==Description==
+A '''medium-sized message box''', generally used as a [[:Category:Copyright templates|copyright notice]] inside the {{Tl|Information}} template on a file page.
+
+==Usage==
+<pre>
+{{MediumMB
+|border=
+|bg=
+|image=
+|message=
+}}
+</pre>
+
+===Required parameters===
+*{{Para|image}} The image to include on the left-hand side of the box, such as <code><nowiki>[[File:Copyright-red.svg|50px]]</nowiki></code>.
+*{{Para|message}} The written message on the right-hand side of the box.
+
+===Optional parameters===
+*{{Para|id}} The [[wikipedia:HTML|HTML]] <code>id</code> attribute of the box, which defaults to the template name in lowercase.
+*{{Para|border}} The box border color, default <code style="padding:0 5px; border:2px solid #BBD; border-radius:5px">#BBD</code>.
+*{{Para|bg}} The box background color, default <code style="padding:0 5px; background:#EEF; color:#000">#EEF</code>.
+*{{Para|messagestyle}} Any additional [[wikipedia:CSS|CSS]] styling for the message text, such as <code>text-align:center</code>.
+
+==See also==
+*[[Wookieepedia:Templates/File namespace]]
+
+[[Category:Utility templates]]</noinclude>

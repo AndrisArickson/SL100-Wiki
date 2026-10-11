@@ -1,0 +1,29 @@
+{{#invoke:BaseCitation|main|template=ShipsandVehiclesCite
+|mode=ref
+|series=Star Wars Starships & Vehicles
+|issue={{{1}}}|lookupIssue=yes|lookupIssueType=RefMagazineTitles
+|child={{{2}}}
+|lookupText=true
+|lookupType=RefMagazine
+|lookupCombine=true
+|lookupTextOnly=true
+|lookupTextValue={{{3|}}}
+|parentMode={{{parent|}}}
+}}<noinclude>
+
+==Usage==
+This template is to be used for issues of ''[[Star Wars Starships & Vehicles]]''. Place the following code on the page and replace the "issue number," the "department," and the "article" with the appropriate information.
+<nowiki>{{</nowiki>ShipsandVehiclesCite|ISSUE NUMBER|DEPARTMENT}}
+
+'''Note''': formatted subtitles for each department are defined in [[Module:FormattedTextLookup/RefMagazine]], and do not need to be included in usages of the template. Departments for new issues should be added there.
+
+This template, like the rest of the reference magazine citation templates, is built using [[Module:BaseCitation]]. See [[Module:BaseCitation/doc]] for relevant maintenance categories and help building new templates. 
+
+==Examples==
+<code><nowiki>{{ShipsandVehiclesCite|1|History of the Ship}}</nowiki></code>
+
+Results in:
+
+{{ShipsandVehiclesCite|1|History of the Ship}}
+
+[[Category:Reference magazine citation templates|ShipsandVehiclesCite]]</noinclude>

@@ -1,0 +1,11 @@
+{{Nav start|''[[Star Wars: Rebel Force]]''||425px}}
+{{Nav text|[[Rebel Force: Target|''Target'']] · [[Rebel Force: Hostage|''Hostage'']] · [[Rebel Force: Renegade|''Renegade'']] · [[Rebel Force: Firefight|''Firefight'']] · [[Rebel Force: Trapped|''Trapped'']] · [[Rebel Force: Uprising|''Uprising'']]}}
+{{Nav end|edit=RebelForceNav}}<noinclude>
+
+==Source==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Book series navbox templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,13 @@
+{{iumb
+| id = Underpop
+| bg = #87CEEB
+| image = [[File:TauntaunUnderpop.png|100px]]
+| caption = There isn't enough life in this category to fill a space cruiser.
+| message = It has been [[:Category:Underpopulated categories|requested]] that this category be populated.
+| comment = Please place appropriate pages into this category and remove this message when finished.
+}}<includeonly>{{SpecialCategorizer|[[Category:Underpopulated categories|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Underpopulated categories]]
+
+[[Category:Category maintenance templates]]</noinclude>

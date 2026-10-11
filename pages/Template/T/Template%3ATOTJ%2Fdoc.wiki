@@ -1,0 +1,5 @@
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+
+<code><nowiki>{{TOTJ|EPISODE NAME|FORMATTED NAME (optional)}}</nowiki></code>
+<noinclude>[[Category:Citation template documentation]]</noinclude>

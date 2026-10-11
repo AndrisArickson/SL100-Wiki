@@ -1,0 +1,15 @@
+{{#invoke:BaseCitation|main|template=Resistance
+|mode=TV
+|image=[[File:SWResistanceLogo.jpg|text-top|x16px|link=Star Wars Resistance]]
+|series=Star Wars Resistance
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+ <nowiki>{{</nowiki>Resistance|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+
+==Image==
+[[File:SWResistanceLogo.jpg|thumb|left|Welcome to the Resistance]]
+
+[[Category:TV citation templates|Resistance]][[Category:Star Wars Resistance]]</noinclude>

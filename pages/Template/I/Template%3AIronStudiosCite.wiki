@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:ToyCitation|main|template=SideshowCite
+|image=[[File:SideshowLogo2021.svg|text-top|x16px|link=Iron Studios|class=darkmodeinvert]]
+|set=Iron Studios
+|stext=Iron Studios {{{stext|{{{set}}}}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{altlink|}}}
+|baseUrl=https://www.sideshow.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

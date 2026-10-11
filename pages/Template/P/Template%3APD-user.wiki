@@ -1,0 +1,14 @@
+{{MediumMB
+|border=#88A
+|bg=#F7F8FF
+|image=[[File:PD-icon.svg|50px]]
+|message=This image has been (or is hereby) released into the [[wikipedia:Public domain|'''public domain''']] by its '''creator''', '''{{U|{{{1}}}}}'''. '''This applies worldwide'''. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:User-created public domain images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{PD-user|</nowiki>{{Var|username}}}}</code>
+
+==Categorization==
+*[[:Category:User-created public domain images]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

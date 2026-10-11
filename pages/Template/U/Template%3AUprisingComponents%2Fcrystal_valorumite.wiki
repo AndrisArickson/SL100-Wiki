@@ -1,0 +1,93 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal valorumite|title=Valorumite Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Valorumite<!--
+-->|type=Crystal<!--
+-->|subtype=Noble<!--
+-->|element=None<!--
+-->|minlevel=2<!--
+-->|maxlevel=7<!--
+-->|description=These crystals are used to improve Noble equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedvalorumite|cracked valorumite|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_01.png<!--
+			-->|credits|value|price=N/A<!--
+			-->|howget|howtoget=<span style="color:red">'''Not Available'''</span><!--
+			-->|notavailable|notingame=1<!--
+		-->}}<!--
+	-->|chipped|chippedvalorumite|chipped valorumite|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dullvalorumite|dull valorumite|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedvalorumite|faceted valorumite|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedvalorumite|polished valorumite|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantvalorumite|brilliant valorumite|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristinevalorumite|pristine valorumite|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Valorumite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_07.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Valorumite<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Faction_Noble_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Valorumite}}
+__NOTOC__
+</noinclude>

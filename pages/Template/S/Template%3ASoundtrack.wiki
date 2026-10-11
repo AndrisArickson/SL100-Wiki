@@ -1,0 +1,58 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="composer"><label>Composer(s)</label></data>
+        <data source="conductor"><label>Conductor(s)</label></data>
+        <data source="performer"><label>Performer(s)</label></data>
+        <data source="producer"><label>Producer(s)</label></data>
+        <data source="director"><label>Director(s)</label></data>	
+        <data source="cover artist"><label>Cover artist(s)</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="release date"><label>Release date</label></data>
+        <data source="media type"><label>Media type</label></data>	
+        <data source="run time"><label>Run time</label></data>
+        <data source="discs"><label>Discs</label></data>
+        <data source="tracks"><label>Tracks</label></data>
+        <data source="upc"><label>[[Wikipedia:Universal Product Code|UPC]]</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Chronology</header>
+        <data source="series"><label>Series</label></data>	
+        <data source="preceded by"><label>Preceded by</label></data>
+        <data source="followed by"><label>Followed by</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Soundtrack|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|composer|conductor|performer|producer|director|cover artist|publisher|release date|media type|run time|discs|tracks|upc|series|preceded by|followed by|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check={{{no_year_check|}}}|template_name=Soundtrack}}<noinclude>[[Category:Media infoboxes]]{{Top|sprot}}{{Clear}}
+
+==Usage==
+<pre>
+{{Soundtrack
+|image=
+|title=
+|composer=
+|conductor=
+|performer=
+|producer=
+|director=
+|cover artist=
+|publisher=
+|release date=
+|media type=
+|run time=
+|discs=
+|tracks=
+|upc=
+|series=
+|preceded by=
+|followed by=
+}}
+</pre></noinclude>

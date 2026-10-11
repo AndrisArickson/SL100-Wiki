@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Disney
+|image=[[File:SWCustom-2011.png|text-top|x16px|StarWars.com|link=StarWars.com]]
+|site_text=the [[Wikipedia:Japanese language|Japanese]] [[StarWars.com]]
+|base_url=https://starwars.disney.co.jp
+|target_url={{{full_url|{{{url|}}}}}}
+|int={{{int|}}}
+|date={{{date|}}}
+|author={{{author|}}}
+|domain_not_allowed=1
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

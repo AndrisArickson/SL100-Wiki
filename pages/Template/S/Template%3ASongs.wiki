@@ -1,0 +1,37 @@
+{{Nav_start|[[Musical score|Songs]]}}
+{{Nav_heading|Introduced in Episode IV}}
+{{Nav_text|"[[Mad About Me]]" &middot; "[[Dune Sea Special]]"}}
+
+{{Nav_heading|"[[Christmas in the Stars]]" album}}
+
+{{Nav_heading|Introduced in Episode VI}}
+{{Nav_text|"[[Lapti Nek]]" &middot; "[[Jedi Rocks]]" &middot; "[[Ewok Celebration]]" ("Yub Nub")}}
+
+{{Nav_heading|Introduced in ''Holiday Special''}}
+{{Nav_text|"[[Light the Sky on Fire]]" &middot; "[[Goodnight, But Not Goodbye/Legends|Goodnight, But Not Goodbye]]" &middot; "[[This Minute Now]]" &middot; "[[A Day to Celebrate]]"}}
+
+{{Nav_heading|Introduced in ''Droids'', ''Ewoks'', and ''Star Tours}}
+{{Nav_text|"[[In Trouble Again]]" &middot; "[[Ewoks (song)|Ewoks]]" &middot; "[[Friends Together, Friends Forever]]" &middot; "[[The Droid Rooms]]"}}
+
+{{Nav_heading|Introduced in ''Republic Commando'', ''The Old Republic'', and ''Galaxy's Edge''}}
+{{Nav_text|''[[Vode An]]'' &middot; "[[Clones (song)|Clones]]" &middot; [[Template:TORsongs|'''''The Old Republic''''']] &middot; [[Template:Galaxy's Edge music|'''''Galaxy's Edge''''']]}}
+
+{{Nav_heading|Introduced in sequel trilogy}}
+{{Nav_text|"[[Jabba Flow]]" &middot; "[[Dobra Doompa]]" &middot; "[[Lido Hey]]"}}
+
+{{Nav_heading|Introduced in Anthology Series, LEGO ''Holiday Special'', and LEGO ''Terrifying Tales''}}
+{{Nav_text|"[[Chicken in the Pot]]" &middot; "[[Stormtrooper JP-054 Karaoke]]" &middot; "[[Joh Blastoh]]" &middot; "[[Whirlee Moova Dee Bonkee]]"}}
+
+{{Nav_heading|Introduced in ''Battlefront II'', ''Jedi: Fallen Order'', ''Visions'', and ''Jedi: Survivor''}}
+{{Nav_text|"[[Ma Kapar]]" &middot; "[[Sugaan Essena]]" &middot; "[[Galactic Dreamer]]" &middot; [[Template:SurvivorSongs|'''''Jedi: Survivor''''']]}}
+
+{{Nav_heading|See also: [[:Template:Themes|themes and leitmotifs]]}}
+{{Nav_end|edit=Songs}}<noinclude>
+==Usage==
+'''This navbox is for songs that exist [[In-universe|out-of-universe]].'''
+*For '''songs that originated from ''The Old Republic''''', use {{Tl|TORsongs}}
+*For '''songs that originated from any ''[[Star Wars: Galaxy's Edge]]'' media''', use {{Tl|Galaxy's Edge music}}
+*Otherwise, simply use:
+ <nowiki>{{</nowiki>Songs}}
+
+[[Category:Music navigation templates|Songs]]</noinclude>

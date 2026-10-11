@@ -1,0 +1,43 @@
+{{Ooumb
+| bg = #c5fcdc
+| image = [[File:UnderConstruction.png|50px]]
+| message = '''{{PAGENAME}}''' was the '''[[Wookieepedia:Improvement drive|improvement drive]]''' project for the weeks of: <br>
+*{{{1}}}
+*{{{2}}}
+*{{{3}}}
+See how it improved: [https://starwars.fandom.com/index.php?title={{{4}}}&diff={{{5}}}] [https://starwars.fandom.com/index.php?title={{{4}}}&diff={{{6}}}] [https://starwars.fandom.com/index.php?title={{{4}}}&diff={{{7}}}] &ndash; [[Wookieepedia:Improvement drive/History|Other improvement drives]]
+}}<noinclude>
+
+==Usage==
+
+For articles that were improvement drive projects twice. Type <nowiki>{{IDformer2}}</nowiki> at the top of the article in question's talk page and fill in the following:
+
+{{{1}}}: The first week it was the ID article; for example "13 November, [[2005]]".
+
+{{{2}}}: The second week it was the ID article; for example "4 June, [[2006]]".
+
+{{{3}}}: The second week it was the ID article; for example "10 November, 2006".
+
+{{{4}}}: The article's title, with underscores; for example "C-3PO". Note that you must type "4=(title)".
+
+{{{5}}}: The code following "&diff=" in the first "see how it improved URL; for example "129203&oldid=122158". Note that you must type "5=(code)".
+
+{{{6}}}: The code following "&diff=" in the second "see how it improved URL; for example "511486&oldid=493879". Note that you must type "6=(code)".
+
+{{{7}}}: The code following "&diff=" in the second "see how it improved URL; for example "7=915002&oldid=899172". Note that you must type "7=(code)".
+
+Therefore, if put on [[Talk:C-3PO]], '''<nowiki>{{IDformer3|13 November, [[2005]]|4 June, [[2006]]|10 November, 2006|4=C-3PO|5=129203&oldid=122158|6=511486&oldid=493879|7=915002&oldid=899172}}</nowiki>''' produces:
+
+{{Ooumb
+| bg = #c5fcdc
+| image = [[File:UnderConstruction.png|50px]]
+| message = '''C-3PO''' was the '''[[Wookieepedia:Improvement drive|improvement drive]]''' project for the weeks of: <br>
+*13 November, [[2005]]
+*4 June, [[2006]]
+*10 November, 2006
+See how it improved: [https://starwars.fandom.com/index.php?title=C-3PO&diff=129203&oldid=122158] [https://starwars.fandom.com/index.php?title=C-3PO&diff=511486&oldid=493879] [https://starwars.fandom.com/index.php?title=C-3PO&diff=915002&oldid=899172] &ndash; [[Wookieepedia:Improvement drive/History|Other improvement drives]]
+}}
+
+
+[[Category:Administrative templates|{{PAGENAME}}]]
+[[Category:Talk page templates|{{PAGENAME}}]]</noinclude>

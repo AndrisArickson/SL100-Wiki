@@ -1,0 +1,16 @@
+==Description==
+This template is used to link articles from [https://simpsonswiki.com/wiki/Main_Page Wikisimpsons] under "'''External links'''."
+
+==Syntax==
+<code><nowiki>{{</nowiki>SimpsonsWiki|''title'' (optional)}}</code>
+
+Replace "title" with the exact name of the article on Wikisimpsons, not the name here. If the name is the same on both wikis, it can be omitted. (Any "/Legends" in the Wookieepedia article name will be included on the Wikisimpsons link, so make sure to fill in the title parameter manually.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the Wikisimpsons link to change if our article is moved even if Wikisimpsons' article remains at the same name.
+
+==Samples==
+<code><nowiki>{{SimpsonsWiki|The Mandalorian}}</nowiki></code> 
+
+results in...
+
+{{SimpsonsWiki|The Mandalorian}}
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

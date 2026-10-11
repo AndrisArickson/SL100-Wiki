@@ -1,0 +1,6 @@
+{{#if: {{{1|}}} | Please do not add nonsense to Wookieepedia, such as jokes or off-topic remarks. It is considered [[Wookieepedia:Vandalism|vandalism]]. If you would like to experiment with editing, use the [[Wookieepedia:Jundland Wastes|Jundland Wastes sandbox]]. Thank you.<!-- Template:Test2 (second level warning) --> | Please do not add nonsense to Wookieepedia. It is considered [[Wookieepedia:User conduct policy#Vandalism|vandalism]]. If you would like to experiment with editing, use the [[Wookieepedia:Jundland Wastes|Jundland Wastes sandbox]]. Thank you.<!-- Template:Test2 (second level warning) -->}}<noinclude>
+==Usage==
+{{Top|sprot}}
+For users posting jokes or off-topic remarks, please use <code><nowiki>{{subst:Test2|1}}</nowiki></code>, which will append "'', such as jokes or off-topic remarks''" to the end of the first sentence.
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

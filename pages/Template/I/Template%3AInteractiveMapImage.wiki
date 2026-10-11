@@ -1,0 +1,14 @@
+{{SmallMB
+|image=[[File:Dialog-warning.svg|40px]]
+|message='''This image is ''utilized as the background for an [[Wookieepedia:Layout Guide#Interactive Maps|Interactive Map]], as approved via [[Wookieepedia:Consensus#Animation and video consensus votes|community consensus]]'', and has been [[Wookieepedia:Protection policy|upload-protected]] accordingly. You can find the relevant discussion [[{{{1|}}}|here]].'''
+|messagestyle=text-align:center
+}}<!-- Maybe eventually worth making tracking/holding category for once we get some? --><noinclude>
+
+==Usage==
+<code><nowiki>{{InteractiveMapImage|</nowiki>{{Var|discussion}}}}</code>
+
+==See also==
+*[[Forum:SH:CON tweaks and vote notice templates]]
+*[[Forum:CT:CON tweaks/Vote notice templates]]
+
+[[Category:Header templates|{{PAGENAME}}]][[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

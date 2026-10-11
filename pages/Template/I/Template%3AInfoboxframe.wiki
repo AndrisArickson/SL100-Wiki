@@ -1,0 +1,36 @@
+<div id="{{{divid|}}}" class="infobox hidable" style="padding: 0px; {{#if:{{{event|}}}|{{#if:{{{width|}}}|width:{{{width}}};|{{#if:{{{side4|}}}|width:350px;|{{#if:{{{side3|}}}|width:300px;|width:300px;}}}}}}|{{#if:{{{width|}}}|width:{{{width}}};|}}}}">
+{| class="infoboxtable hidable-content" cellspacing="0" cellpadding="4" style="border-width: 0px"<noinclude>
+|-</noinclude>
+{{{1|}}}
+|}
+<div class="mobile-hide infoboxfooter plainlinks" style="text-align: center; border-radius: 0 0 10px 10px; background: #{{#if:{{{BG1|}}}|{{{BG1|}}}|94C7D1}}"><span class="hidable-button"></span>[[{{{srclink|{{{src|}}}}}}|[Source]]]</div></div><!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+{{ooumb|id=Deprecated_template|caption=This template was [[wikipedia:deprecation|made obsolete]] by the conversion to [[help:infoboxes|portable infoboxes]] in December 2015. It's retained here for historical purposes only. It should not be used on new templates.|image=[[file:dialog-warning.svg]] }}
+This is a framing wrapper template used in the construction of infoboxes. It takes the parameters <code>width</code>, <code>BG1</code>, and <code>src</code>. The actual contents of the frame - the instances of {{Tl|Infocell}} - should be put as the first unnamed parameter.
+*<code>width</code> is used to pass the infobox's own width parameter to this template.
+*<code>BG1</code> sets the infobox color and should match other values of <code>BG1</code> in the infobox. 
+*<code>divid</code> needs the type of infobox to fill the div id. Typically it's the source type of infobox, like "Character_infobox".
+*<code>src</code> needs the infobox's '''full''' name, including Template: to fill the <nowiki>[Source]</nowiki> button. 
+*<code>event</code> is a parameter that will change the infobox to a flexible-width. This should only be used for event infoboxes.
+
+Standard example:
+<pre>{{Infoboxframe
+| put the infocell templates here
+|BG1=333333
+|divid=Character_infobox
+|src=Template:New infobox
+|width={{{width|}}}
+}}</pre>
+
+Event example:
+<pre>{{Infoboxframe
+| put the infocell templates here
+|BG1=333333
+|divid=Character_infobox
+|src=Template:New infobox
+|event=yes
+|width={{{width|}}}
+|field3={{{side3|}}}
+|field4={{{side4|}}}
+}}</pre>
+
+[[Category:Infobox utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,15 @@
+==Description==
+This template is used to add the [[Wikipedia:Sound correspondences between English accents|IPA]] phonetic notation of a subject when available.
+
+==Usage==
+*Place <code><nowiki>{{Pronounced|IPA|file=}}</nowiki></code> immediately after the first mention of the subject's name in the introduction and the article body. Replace "IPA" with the appropiate [[Wikipedia:IPA chart for English dialects|IPA]] phonetic notation.
+*If a corresponding audio file is available, add the full file name to "file=", but exclude the "File:" prefix. Otherwise, remove the "|file=" parameter.
+
+==Examples==
+<code><nowiki>{{Pronounced|ˈkɹeɪə}}</nowiki></code>
+
+results in...
+
+{{Pronounced|ˈkɹeɪə}}
+
+<includeonly>[[Category:Utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

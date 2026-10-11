@@ -1,0 +1,4 @@
+§{{#ifeq:{{NAMESPACE}}|Template||[[Category:Articles manually placed in auto-generated categories|{{PAGENAME}}]]}}<noinclude>
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Templates]]</noinclude>

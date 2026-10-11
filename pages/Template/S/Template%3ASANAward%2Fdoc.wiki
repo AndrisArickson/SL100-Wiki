@@ -1,0 +1,339 @@
+==Usage instructions==
+This award is to be distributed as an end-of-the-year celebration of a WookieeProject's success. 
+
+===Required parameters===
+*|WP = Any shorthand for a particular WookieeProject that is listed as a shortcut [[User:JocastaBot/Project_Data|here]].
+*|award = The specific feat being acknowledged.
+*|year = The year the feat was accomplished.
+
+==Award types== 
+{{ScrollBox|content=
+'''Award for most Canon status articles for someone not a part of the AC or INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=canonOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=canonOverall|year=2022}}
+
+'''Award for most canon Comprehensive articles'''<br />
+<code><nowiki>{{SANAward|WP=none|award=canonCA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=canonCA|year=2022}}
+
+'''Award for most canon Good articles for someone not a part of the AC'''<br />
+<code><nowiki>{{SANAward|WP=none|award=canonGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=canonGA|year=2022}}
+
+'''Award for most canon Featured articles for someone not a part of the INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=canonFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=canonFA|year=2022}}
+
+'''Award for most Canon status articles for someone a part of the AC or INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pCanonOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pCanonOverall|year=2022}}
+
+'''Award for most canon Good articles for someone a part of the AC'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pCanonGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pCanonGA|year=2022}}
+
+'''Award for most canon Featured articles for someone a part of the INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pCanonFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pCanonFA|year=2022}}
+
+'''Award for Award for most Legends status articles for someone not a part of the AC or INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=legendsOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=legendsOverall|year=2022}}
+
+'''Award for most Legends Comprehensive articles'''<br />
+<code><nowiki>{{SANAward|WP=none|award=legendsCA|yea r=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=legendsCA|year=2022}}
+
+'''Award for most Legends Good articles for someone not a part of the AC'''<br />
+<code><nowiki>{{SANAward|WP=none|award=legendsGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=legendsGA|year=2022}}
+
+'''Award for most Legends Featured articles for someone a part of the INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=legendsFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=legendsFA|year=2022}}
+
+'''Award for most Legends status articles for someone a part of the AC or INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pLegendsOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pLegendsOverall|year=2022}}
+
+'''Award for most Legends Good articles for someone a part of the AC'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pLegendsGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pLegendsGA|year=2022}}
+
+'''Award for most Legends Featured articles for someone a part of the INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pLegendsFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pLegendsFA|year=2022}}
+
+'''Award for Award for most OOU status articles for someone not a part of the AC or INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=OOUOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=OOUOverall|year=2022}}
+
+'''Award for most OOU Comprehensive articles'''<br />
+<code><nowiki>{{SANAward|WP=none|award=OOUCA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=OOUCA|year=2022}}
+
+'''Award for most OOU Good articles for someone not a part of the AC'''<br />
+<code><nowiki>{{SANAward|WP=none|award=OOUGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=OOUGA|year=2022}}
+
+'''Award for most OOU Featured articles for someone a part of the INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=OOUFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=OOUFA|year=2022}}
+
+'''Award for most OOU status articles for someone a part of the AC or INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pOOUOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pOOUOverall|year=2022}}
+
+'''Award for most OOU Good articles for someone a part of the AC'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pOOUGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pOOUGA|year=2022}}
+
+'''Award for most OOU Featured articles for someone a part of the INQ'''<br />
+<code><nowiki>{{SANAward|WP=none|award=pOOUFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pOOUFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=mostWP|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=mostWP|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=mostWPCA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=mostWPCA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=mostWPGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=mostWPGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=mostWPFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=mostWPFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pMostWP|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pMostWP|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pMostWPGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pMostWPGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pMostWPFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pMostWPFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=nonWPOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=nonWPOverall|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=nonWPCA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=nonWPCA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=nonWPGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=nonWPGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=nonWPFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=nonWPFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pNonWPOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pNonWPOverall|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pNonWPGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pNonWPGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pNonWPFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pNonWPFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=statusOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=statusOverall|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=statusCA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=statusCA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=statusGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=statusGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=statusFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=statusFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pStatusOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pStatusOverall|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pStatusGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pStatusGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pStatusFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pStatusFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=HS|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=HS|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=pHS|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=pHS|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=WPOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=WPOverall|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=WPCA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=WPCA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=WPGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=WPGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=WPFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=WPFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=pWPOverall|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=pWPOverall|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=pWPGA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=pWPGA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=pWPFA|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=pWPFA|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=WPHS|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=WPHS|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=ANY|award=pWPHS|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=ANY|award=pWPHS|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=long|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=long|year=2022}}
+
+'''Award for '''<br />
+<code><nowiki>{{SANAward|WP=none|award=other|year=2022}}</nowiki></code><br />
+Results in:<br />
+{{SANAward|WP=none|award=other|year=2022}}
+}}
+
+===Extra messages===
+Project Leaders are encouraged to add a message personal to the project to the template. Below are the projects with personal messages.
+<div class="responsivediv"><div class="scrollbox" style="height:400px; width:100%; overflow:auto;">
+{|{{Prettytable}}
+! Project !! Example
+|-
+|[[Wookieepedia:WookieeProject Aliens|Aliens]]||{{SANAward|WP=ALIENS|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Ambition|Ambition]]||{{SANAward|WP=AMB|award=pWPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Astrography|Astrography]]||{{SANAward|WP=AST|award=pWPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Battlefront|Battlefront]]||{{SANAward|WP=SWBF|award=pWPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Chiss|Chiss]]||{{SANAward|WP=CHISS|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Comics|Comics]]||{{SANAward|WP=COMICS|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Data Seekers|Data Seekers]]||{{SANAward|WP=DS|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Entertainment and Culture|Entertainment and Culture]]||{{SANAward|WP=Entertainment|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Ewoks|Ewoks]]||{{SANAward|WP=Ewoks|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Knights of the Old Republic|Knights of the Old Republic]]||{{SANAward|WP=KOTOR|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject LEGO|LEGO]]||{{SANAward|WP=LEGO|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Mandalore|Mandalore]]||{{SANAward|WP=Mando|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject New Sith Wars|New Sith Wars]]||{{SANAward|WP=NSW|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Novels|Novels]]||{{SANAward|WP=N|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Pride|Pride]]||{{SANAward|WP=Pride|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Rebels|Rebels]]||{{SANAward|WP=Rebels|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Resistance|Resistance]]||{{SANAward|WP=Resistance|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Star Wars: Card Trader|Star Wars: Card Trader]]||{{SANAward|WP=SWCT|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Tales of the Jedi|Tales of the Jedi]]||{{SANAward|WP=TOTJ|award=pWPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject The Clone Wars|The Clone Wars]]||{{SANAward|WP=TCW|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject The Mandalorian|The Mandalorian]]||{{SANAward|WP=TMND|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject The Old Republic|The Old Republic]]||{{SANAward|WP=TOR|award=WPHS|year=2022}}
+|-
+|[[Wookieepedia:WookieeProject Warfare|Warfare]]||{{SANAward|WP=Warfare|award=WPHS|year=2022}}
+|}<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
+</div></div>

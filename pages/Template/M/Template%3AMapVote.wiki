@@ -1,0 +1,10 @@
+{{Ooumb
+|id = MainImage
+|bg = #D8E9FC
+|image = [[File:Blue-exclamation-mark.png|40px]]
+|caption = The inclusion of an [[Wookieepedia:Layout Guide#Interactive Map|Interactive Map]] on this article has been decided via [[Wookieepedia:Consensus|community consensus]].
+|message = You can find the relevant discussion [[{{{1}}}|'''here''']]. Please do not alter the placement of or remove the Interactive Map unilaterally.
+}}<noinclude>
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Talk page templates]]</noinclude>

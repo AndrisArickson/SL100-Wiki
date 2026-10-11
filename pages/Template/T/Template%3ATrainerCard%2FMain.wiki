@@ -1,0 +1,41 @@
+<onlyinclude>{{#ifexpr:{{#if:{{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}|0|1}} or {{#ifeq:{{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}|null|1|0}} or {{#ifeq:{{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}|{{{null|}}}|1|0}}||<!--
+	-->{{#switch:{{lc:{{{get|}}}}}<!--
+	-->|#default=<!--
+		--><div class="magistral-font uprising-character-card" style="height:auto;width:100%;box-shadow:{{#ifeq:{{{small|0}}}|1|0px 20px 40px -25px #000|0px 30px 40px -25px #000}};min-width:{{#ifeq:{{{small|0}}}|1|200px|400px}};max-width:{{#ifeq:{{{small|0}}}|1|275px|450px}};{{#ifeq:{{{right|1}}}|1|float:right;margin-left:5px;margin-right:20px;|margin-left:20px;margin-right:5px;}}"><!--
+			--><table style="table-layout:fixed;border-spacing:0px;border-collapse:collapse;width:100%;min-width:{{#ifeq:{{{small|0}}}|1|200px|400px}};border-width:0px;min-height:100px;"><!--
+				--><tr><!--
+					--><td class="uprising-character-image" style="vertical-align: bottom;{{#ifeq:{{{small|0}}}|1|max-width:90px;min-width:90px;width:90px;min-height:90px;height:90px;|max-width:200px;min-width:140px;width:150px;}}background:transparent;padding:0;" colspan="1" rowspan="{{#ifeq:{{{small|0}}}|1|1|{{#if:{{TrainerCard/Defaults|get=quote1|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|4|3}}}}"><!--
+						-->[[File:{{TrainerCard/Defaults|get=image|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|link=|{{#switch:{{lc:{{{normalizedName|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}}}<!--
+							-->|bounty hunter|bounty hunter1|bountyhunter1|bounty|hunter<!--
+							-->|tsskoat bounty hunter|tsskoat (bounty hunter)|tsskoatbountyhunter|tsskoat<!--
+							-->|diplomat|diplomat1|elenzia={{#ifeq:{{{small|0}}}|1|80x80px|165x180px}}<!--
+							-->|#default={{#ifeq:{{{small|0}}}|1|90x90px|180x180px}}<!--
+							-->}}]]<!--
+					--></td><!--
+					--><th class="uprising-character-heading" style="background: #6f251c;" colspan="3"><!--
+						--><span class="uprising-character-name" style="color:#fff;font-size:1.5em;">[[{{#ifexist:Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/{{TrainerCard/Defaults|get=link|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/|}}{{TrainerCard/Defaults|get=link|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|<span style="color:#fff;">{{TrainerCard/Defaults|get=name|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}</span>]]</span><br /><!--
+						--><span class="uprising-character-subname" style="color:#ccc;font-size:0.9em;">{{TrainerCard/Defaults|get=class|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}</span><!--
+					--><div class="class-style vde-box mobile-hide no-mobile global-hide display-block-important">[[Template:TrainerCard/Defaults|V]]&middot;<!--[[Template_talk:TrainerCard/Defaults|D]]&middot;-->[http://starwars.wikia.com/wiki/Template:TrainerCard/Defaults?action=edit E]</div><!--
+					--></th><!--
+				--></tr><!--
+				-->{{#ifeq:{{{small|0}}}|1||<!--
+					--><tr><!--
+						--><th class="uprising-character-info-header" colspan="1">Location</th><!--
+						--><td class="uprising-character-info-data" colspan="2">[[{{TrainerCard/Defaults|get=locationLink|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|{{TrainerCard/Defaults|get=locationName|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}]]</td><!--
+					--></tr><!--
+					--><tr><!--
+						--><th class="uprising-character-info-header" colspan="1">Faction</th><!--
+						--><td class="uprising-character-info-data" colspan="2">[[{{TrainerCard/Defaults|get=factionLink|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|{{TrainerCard/Defaults|get=factionName|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}]]</td><!--
+					--></tr><!--
+					
+					-->{{#if:{{TrainerCard/Defaults|get=quote1|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}|<!--
+						--><tr><!--
+							--><td class="uprising-character-info-data" colspan="3" style="padding-left:20px;padding-right:20px;text-align:center;"><center><small>''{{TrainerCard/Defaults|get=quote1|normalizedName={{#if:{{{normalizedName|}}}|{{{normalizedName}}}|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}|trainerName={{{normalizedName|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}''</small></center></td><!--
+						--></tr><!--
+					-->|}}<!--
+				-->}}<!--
+				
+			--></table><!--
+		--></div><!--
+	-->}}<!--
+-->}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

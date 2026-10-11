@@ -1,0 +1,35 @@
+This template is to be used for citing individual pages on [[Marvel Comics]]' [https://www.marvel.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Marvel|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.marvel.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Marvel|url=comics/issue/52371/princess_leia_2015_2|text=Star Wars: Princess Leia (2015) #2}}</nowiki></code>
+
+Results in:
+
+{{Marvel|url=comics/issue/52371/princess_leia_2015_2|text=Star Wars: Princess Leia (2015) #2|archivedate=20170720024845}}
+
+<hr />
+<code><nowiki>{{Marvel|url=comics/issue/52371/princess_leia_2015_2|text=Star Wars: Princess Leia (2015) #2|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Marvel|url=comics/issue/52371/princess_leia_2015_2|text=Star Wars: Princess Leia (2015) #2|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

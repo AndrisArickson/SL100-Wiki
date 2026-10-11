@@ -1,0 +1,45 @@
+This template is to be used on pages about subjects that have been represented in ''[[Star Wars Miniatures]]'' sets.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{SWMiniCite|set=|pack=|link=|altlink=|archiveurl=|archivedate=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection, ''without'' italics or any parenthetical descriptors, such as <code> (Star Wars Miniatures)</code>.
+*{{Para|pack}} Name of the individual pack.
+*One of the following two parameters:
+:*{{Para|link}} URL of the pack's web page on the website rebelscum.com, minus the domain name (<code><nowiki>https://www.rebelscum.com/</nowiki></code>).
+:*{{Para|altlink}} Full URL of the pack's page on a website other than rebelscum.com.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Example(s)===
+With link and archiveurl:
+
+<code><nowiki>{{SWMiniCite|set=Champions of the Force|pack=Queen Amidala|link=SWminiCOTF31queen.asp}}</nowiki></code>
+
+Results in:
+
+{{SWMiniCite|set=Champions of the Force|pack=Queen Amidala|link=SWminiCOTF31queen.asp}}
+
+<hr />
+With altlink and archivedate:
+
+<code><nowiki>{{SWMiniCite|set=Champions of the Force|pack=Queen Amidala|altlink=https://www.rebelscum.com/SWminiCOTF31queen.asp|archivedate=20170610215315}}</nowiki></code>
+
+Results in:
+
+{{SWMiniCite|set=Champions of the Force|pack=Queen Amidala|altlink=https://www.rebelscum.com/SWminiCOTF31queen.asp|archivedate=20170610215315}}
+
+==Icon==
+[[File:Swminatures-mini.png|thumb|left|x16px]]
+
+Note that this icon was removed from the template due to Wookieepedia's MediaWiki software limitations on template size.
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Miniature game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,15 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Tumblr
+|image=[[File:Tumblr-Logo.svg|text-top|x16px|link=https://tumblr.com]]
+|site_text=[[Wikipedia:Tumblr|Tumblr]]
+|full_url=https://{{{subdomain|}}}.tumblr.{{{domain|com}}}/{{{url|}}}
+|base_url=https://{{{subdomain|www}}}.tumblr.com
+|target_url={{#if:{{{subdomain|}}}|{{{subdomain|}}}.tumblr.{{{domain|com}}}/{{{url|}}}|tumblr.{{{domain|com}}}/{{{username|}}}/{{{url|}}}}}
+|username={{{username|{{{subdomain|}}}}}}
+|usertext={{{name|}}}
+|is_post={{{url|}}}
+|nonsubdomain={{{username|}}}
+|text={{{text|}}}
+|use_lua_subpage=1
+|blog=1
+}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

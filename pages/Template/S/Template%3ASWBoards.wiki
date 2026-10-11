@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWBoards
+|image=[[File:SWicon.png|text-top|x16px|StarWars.com|link=StarWars.com]]
+|site_text=the [[StarWars.com]] [[StarWars.com Message Boards|Message Boards]]
+|base_url=https://forums.starwars.com
+|target_url={{{url|}}}
+|text={{{thread|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

@@ -1,0 +1,15 @@
+{{Userbox|black|skyblue|{{{1}}}|This user is {{{1}}} years old.|style1=color:white}}<noinclude>
+{{Clear}}
+==Usage==
+<code><nowiki>{{</nowiki>UserAge|{{Var|age}}}}</code>
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <pre style="background:none; border:none">{{UserAge|25}}</pre> || {{UserAge|25}}
+|}
+
+{{Interlang|es=Plantilla:UsuarioEdad}}
+
+[[Category:Userbox templates|age]]</noinclude>

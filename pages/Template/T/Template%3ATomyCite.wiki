@@ -1,0 +1,22 @@
+<includeonly><span class="plainlinks">[[File:TakaraTomy.svg|text-bottom|x18px|link=Tomy]]&#32;{{#if:{{{text|}}}
+    |[[{{{set}}}{{!}}{{{text}}}]]
+    |''[[{{{set}}}]]''}}<small>{{#if:{{{pack|}}}
+    |&#32;(Pack:&#32;{{#if:{{{link|}}}
+        |[https://takaratomymall.jp/{{{link}}} {{{pack}}}]
+        |{{#if:{{{url|}}}
+            |[{{{url}}} {{{pack}}}]
+            |{{{pack}}}
+             }}
+        }})
+    |}}</small>{{#if:{{{link|}}}{{{url|}}}|{{ArchiveAccess
+    |template_name=TomyCite
+    |full_url={{#if:{{{link|}}}|https://takaratomymall.jp/{{{link}}}|{{{url|}}}}}
+    |target={{{link|{{{url|}}}}}}
+    |archiveurl={{{archiveurl|}}}
+    |archivedate={{{archivedate|}}}
+    |archivefile={{{archivefile|}}}
+    |nobackup={{{nobackup|}}}
+    |nolive={{{nolive|}}}
+    |use_lua_subpage=1
+    |par=1
+  }}}}</span>{{#if:{{#pos:{{{link|}}}|http}}|[[Category:Templates with invalid URL parameters]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

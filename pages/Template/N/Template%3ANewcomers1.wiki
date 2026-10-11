@@ -1,0 +1,64 @@
+<noinclude>{{Top|fprot}}</noinclude>
+{|width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; table-layout: fixed"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="text-align: left;"|[[File:Wiki-shrinkable.png|25px]] '''WELCOME TO THE WOOKIEEPEDIA COMMUNITY!'''
+|}
+</div>
+|-
+|style="font-size: 0.9em"|<div class="hidable-content">
+[[File:We want you.png|left|150px]]
+'''[[Wookieepedia]]''' is a community of volunteer collaborators such as yourself that works to provide reliable, accurate, and comprehensive documentation of the [[Star Wars Legends|''Star Wars'' Legends]] and [[canon]] continuities, as well as coverage of ''[[Star Wars]]'' media and production. Our goal is to provide a source of information that our readers can trust, and one that is written with the quality expected from an encyclopedia.
+<br />
+
+We rely on fans like you to help us cover the vast amount of information that needs to be documented, and while we currently have [[:Category:Wookieepedians|{{NUMBEROFACTIVEUSERS}} users]] working on the wiki, there are [[Special:Statistics|{{NUMBEROFARTICLES}} content pages]] (including {{formatnum:{{#expr:{{NUMBEROFARTICLES:R}}-{{PAGESINCATEGORY:Disambiguation_pages|R}}-{{PAGESINCATEGORY:Canon_index_pages|R}}-{{PAGESINCATEGORY:Legends_index_pages|R}}-{{PAGESINCATEGORY:Non-canon_index_pages|R}}-{{PAGESINCATEGORY:Real-world_index_pages|R}}}}}} articles) on the wiki in total, and thousands more that [[Special:WantedPages|need to be created]]. The more people who help out, the closer we can get to accomplishing our mission. If you are worried about qualifications, just know that we all start off editing with little to no writing or coding experience. Wookieepedians have learned everything they know from both here and surrounding communities!
+</div>
+|}
+</div>
+{|width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; table-layout: fixed"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="text-align: left;"|[[File:Blue-question-mark.png|25px]] '''HOW TO GET STARTED'''
+|}
+</div>
+|-
+|style="font-size: 0.9em"|<div class="hidable-content">
+<table cellpadding="0" cellspacing="5" border="0"
+style="text-align: left; width: 100%;">
+<tr>
+<td style="vertical-align: top;" width="33%">
+*[[w:c:community:Help:Create an account|'''Create a free Fandom account''']] and verify your email address.
+*Read the policies provided on the right side of this page.
+*Join our [[Wookieepedia:Discord|Discord server]] to make asking questions easier.
+*Switch to the source editor under the editing tab in [[Special:Preferences#mw-prefsection-editing|your preferences]].
+*[https://starwars.fandom.com/wiki/Special:MyPage?action=edit Create your userpage] under the title "User:{{USERNAME}}." (See [[Wookieepedia:User page and profile policy|WP:USER]])
+</td><td style="vertical-align: top;" width="34%">
+*Read the [[Wookieepedia:Editing tutorial: Padawan|tutorial]] for first-time editors.
+*Experiment with editing on the [[Wookieepedia:Jundland Wastes|Jundland Wastes]] page or [https://starwars.fandom.com/wiki/Special:MyPage/Workbench?action=edit create your own personal workbench] under the title "User:{{USERNAME}}/Workbench."
+*Find articles that need improvements (See articles in need of [[:Category:Articles in need of updating|updates]], [[:Category:Articles in need of cleanup|cleanup]], [[:Category:Stubs|expansion]], [[:Category:Articles needing citation|citation]], and [[:Category:Articles needing illustration|images]]).
+*Join a [[Wookieepedia:WookieeProjects|WookieeProject]] to collaborate on articles related to a single topic! {{C|optional}}
+</td>
+</tr>
+</table>
+</div>
+|}
+</div>
+{|width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; table-layout: fixed"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="text-align: left;"|[[File:Edit-pencil.png|25px]] '''EDITING TUTORIALS'''
+|}
+</div>
+|-
+|style="font-size: 0.9em"|<div class="hidable-content">
+<gallery type="slider">
+File:Padawan-slider.png|Padawan|link=[[Wookieepedia:Editing tutorial: Padawan]]|linktext=Learn the basics of editing!
+File:KnightingCeremony-CW21.jpg|Knight|link=[[Wookieepedia:Editing tutorial: Knight]]|linktext=Take the next step in your editing journey!
+File:JediMaster-slider.png|Master|link=[[Wookieepedia:Editing tutorial: Master]]|linktext=Dip your foot into reviewing articles!
+</gallery>
+</div>
+|}
+</div>

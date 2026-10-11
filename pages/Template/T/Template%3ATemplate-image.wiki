@@ -1,0 +1,25 @@
+{{SmallMB
+|image=[[File:Information icon.svg|35px]]
+|message='''This image is used as a template icon for &#123;&#123;[[Template:{{{1}}}|{{{1}}}]]&#125;&#125;{{#if:{{{multi|}}}|, among [{{fullurl:Special:WhatLinksHere|target={{FULLPAGENAMEE}}&namespace=10}} other templates]}}.'''<br />Please exercise caution when uploading new versions of this image as it may be used on a large number of pages. {{#if:{{{height|}}}| For quality reasons, especially if this image is an [[wikipedia:SVG|SVG]], it should be uploaded at a maximum native {{#if:{{{width|}}}|size of {{{width}}}&nbsp;&times;&nbsp;{{{height}}}|height of {{{height}}}}} pixels.|}}}}<includeonly>[[Category:Citation template images|{{PAGENAME}}]]</includeonly><noinclude>
+__NOTOC__
+==Description==
+For denoting images used in any of [[Wookieepedia]]'s [[:Category:Citation templates|Citation citation templates]]. Due to current platform issues with scaling down [[wikipedia:SVG|SVG]] images, any such files should be uploaded at a size no larger than how they are included in their respective templates.
+
+==Usage==
+Place <code><nowiki>{{Template-image|</nowiki>{{Var|template}}}}</code> in the {{Para|attention}} field on the relevant file page's {{Tl|Documentation}} template.
+
+===Required parameters===
+#{{Para||{{Var|template}}}} The name of the template in which the image is used.
+
+===Optional parameters===
+*{{Para|height}} The height at which any new versions of the image should be uploaded. Do not include a unit of measurement; [[wikipedia:Pixel|px]] is assumed.
+*{{Para|width}} The width at which any new versions of the image should be uploaded. Only specify this dimension if {{Para|height}} is also used.
+*{{Para|multi}} A flag set to <code>1</code> if the image is used for multiple templates, which are then listed via [[Special:WhatLinksHere]].
+
+==Categorization==
+*[[:Category:Citation template images]]
+
+==See also==
+*[[Forum:WPWeb:Template icons standardization]]
+
+[[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,7 @@
+<div class="mainpage-box-didyouknow">
+<div class="top">[[File:Wp-dyk.png|25px|left|link=Special:Random]] Did you know&hellip;</div></br />
+{{DidYouKnow}}
+</div>
+<noinclude>__EXPECTUNUSEDTEMPLATE__
+
+{{Top|fprot}}[[Category:Main Page templates]]</noinclude>

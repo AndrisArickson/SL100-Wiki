@@ -1,0 +1,77 @@
+==Usage==
+Place the following code on the page and replace ''ARTICLENAME'' with the correct article name found on [[w:c:starwarscardtrader:Star Wars: Card Trader Wiki|''Star Wars'': Card Trader Wiki]].
+
+The Set will be part of the ''ARTICLENAME'' and therefore needs be in italics. You can achieve this using the ''FORMAT'' parameter as per the examples below.
+
+ <nowiki>{{SWCT|</nowiki>''ARTICLENAME''|''FORMAT''<nowiki>}}</nowiki>
+
+===Example(s)===
+These examples show pre-formatted links for valid SWCT articles.
+
+{| class="wikitable"
+| Code
+| <code><nowiki>{{SWCT|set=2020 Base Series|cardname=Major Vonreg}}</nowiki></code>
+|-
+| Output
+| {{SWCT|set=2020 Base Series|cardname=Major Vonreg}}
+|}
+
+----
+{| class="wikitable"
+| Code
+| <code><nowiki>{{SWCT|set=2020 Base Series}}</nowiki></code>
+|-
+| Output
+| {{SWCT|set=2020 Base Series}}
+|-
+| Note
+| {{Para|set}} adds the "Set: " text, for linking to Set pages instead of cards. Formatting automatically includes italics.
+|}
+
+{| class="wikitable"
+| Code
+| <code><nowiki>{{SWCT|news=Collect Week 8 of Radiant now!|link=Radiant2024-Week8.png}}</nowiki></code>
+|-
+| Output
+| {{SWCT|news=Collect Week 8 of Radiant now!|link=Radiant2024-Week8.png}}
+|-
+| Note
+| {{Para|link}} is optional and used for linking to screenshots on ''Star Wars'': Card Trader Wiki.
+|}
+
+{| class="wikitable"
+| Code
+| <code><nowiki>{{SWCT|set=Splash Screen Fun Facts|nocard=1}}</nowiki></code>
+|-
+| Output
+| {{SWCT|set=Splash Screen Fun Facts|nocard=1}}
+|-
+| Note
+| {{Para|nocard}} removes the "Card: " text, for linking to pages that are not cards.
+|}
+
+===Notes===
+Note 1: Articles that do not exist on the SWCT wiki, will still show as bluelinks. Redlinks are not currently possible for interwiki linking.
+
+Note 2: For card pages, the cardname alone is not enough, as in the case of cards with the same name from different sets. Hence, why the proper SWCT article name must be used as this will be unique.
+
+<!--===Example===
+THIS EXAMPLE IS UNDER DEVELOPMENT - PLEASE IGNORE FOR NOW
+
+This example will show a pre-formatted redlink for a non-existent SWCT article.
+
+Cardname: Doesnotexist
+
+<pre><nowiki>{{SWCT|Doesnotexist}}</nowiki></pre>
+
+Result:
+
+{{SWCT|Doesnotexist}}-->
+
+==Image==
+The Topps Digital logo:
+[[File:ToppsDigitalLogo.png|thumb|left]]
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]][[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

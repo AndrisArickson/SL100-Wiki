@@ -1,0 +1,11 @@
+{{ooumb
+| id = Nickname
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The title of this article is a nickname, call sign, or alias.
+| message = This article is about a subject that has not been identified with an official name and is known only by a nickname, call sign, or alias.
+}}<includeonly>{{SpecialCategorizer|{{#ifeq:{{{1|}}}|callsign|[[Category:Articles that are known by a callsign|{{PAGENAME}}]]|[[Category:Articles that are known by a nickname|{{PAGENAME}}]]}}}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Articles that are known by a nickname]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,22 @@
+<onlyinclude><table class="info-box-nav-table" style="background-color:#BFDAEB;table-layout:fixed;cursor:default;" cellspacing="0" cellpadding="0" rules="all"><!--
+--><tr><th class="info-box-nav-table-title" colspan="3" style="background-color:rgb(191, 218, 235);padding:5px 10px;text-align: left;">Base Stats&#32;&#32;&#32;[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats|<span style="font-size:10px;text-decoration:none;color:rgba(255,255,255,0.7) !important;">What is this?</span>]]</th></tr><!--
+--><tr style="font-family: magistral_medium,arial,helvetica,sans-serif;"><!--
+
+-->{{UprisingEquipmentInfobox/StatsTableCell|name=attack|displayName=Attack|shortName=Attack|value={{{attack|?}}}}}<!--
+-->{{UprisingEquipmentInfobox/StatsTableCell|name=armor|displayName=Armor|shortName=Armor|value={{{armor|?}}}}}<!--
+-->{{UprisingEquipmentInfobox/StatsTableCell|name=utility|displayName=Utility|shortName=Utility|value={{{utility|?}}}}}<!--
+
+--></tr><!--
+--><tr style="font-family: magistral_medium,arial,helvetica,sans-serif;"><!--
+
+-->{{UprisingEquipmentInfobox/StatsTableCell|name=ranged|displayName=Ranged|shortName=Ranged|value={{{ranged|?}}}}}<!--
+-->{{UprisingEquipmentInfobox/StatsTableCell|name=dodge|displayName=Dodge|shortName=Dodge|value={{{dodge|?}}}}}<!--
+-->{{UprisingEquipmentInfobox/StatsTableCell|name=attackspeed|displayName=Attack Speed|shortName=Attk Spd|value={{{attackspeed|?}}}}}<!--
+
+--></tr><!--
+
+
+-->{{#if:{{{levelCap|}}}|<tr style="font-family: magistral_medium,arial,helvetica,sans-serif;">{{UprisingEquipmentInfobox/StatsTableCell|colspan=3|name=levelCap|displayName=Max Upgrade Level|shortName=Max Upgrade Level|value={{{levelCap|?}}}}}</tr>|}}<!--
+
+
+--></table></onlyinclude><noinclude>[[Category:Equipment Templates for Star Wars: Uprising]]</noinclude>

@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=LEGOWeb
+|image=[[File:LegoLogo-Template.svg|text-top|x16px|link=The LEGO Group]]
+|site_text=[[The LEGO Group|LEGO]]'s [https://www.lego.com official website]
+|base_url=https://{{{subdomain|www}}}.lego.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

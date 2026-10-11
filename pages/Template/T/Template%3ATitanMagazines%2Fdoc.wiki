@@ -1,0 +1,37 @@
+This template is to be used for citing individual pages on [[Titan Magazines]]' [https://www.titanmagazines.com official website].
+
+Note: As of 2021, all pages on <tt>titanmagazines.com</tt> redirect to <tt>titan-comics.com/magazines/</tt>. For links on that website, please use {{Tl|TitanComics}}.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{TitanMagazines|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.titanmagazines.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{TitanMagazines|url=t/star-wars-insider/us/168|text=Star Wars Insider Issue #168|archivedate=20161227084621}}</nowiki></code>
+
+Results in:
+
+{{TitanMagazines|url=t/star-wars-insider/us/168|text=Star Wars Insider Issue #168|archivedate=20161227084621}}
+
+<hr />
+<code><nowiki>{{TitanMagazines|url=t/star-wars-insider/us/168|text=Star Wars Insider Issue #168|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{TitanMagazines|url=t/star-wars-insider/us/168|text=Star Wars Insider Issue #168|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

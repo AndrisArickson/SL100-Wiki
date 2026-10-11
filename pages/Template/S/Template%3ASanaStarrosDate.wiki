@@ -1,0 +1,7 @@
+The events of {{#ifeq:{{PAGENAME}}|Star Wars: Sana Starros|''Star Wars: Sana Starros''|''[[Star Wars: Sana Starros]]''}} take place between those of [[Doctor Aphra (2020) 31|issue 31]] and [[Doctor Aphra (2020) 38|issue 38]] of the [[2020]] [[Star Wars: Doctor Aphra (2020)|''Star Wars: Doctor Aphra'']] [[Star Wars comic books|comic-book]] series. Issue 31 is also set after ''[[Star Wars: War of the Bounty Hunters]]'' crossover event, which ''[[Star Wars: Timelines]]'' dates to [[3 ABY]], while issue 38 is a part of the ''[[Star Wars: Dark Droids]]'' crossover event, which is followed by the events of [[Star Wars (2020) 43|issue 43]] of the 2020 [[Star Wars (2020)|''Star Wars'']] series. Furthermore, the flashbacks of [[Star Wars (2020) 50|issue 50]] of the ''Star Wars'' series&mdash;which follow the events of issue 43&mdash;take place approximately twenty-two [[Standard year|years]] after [[Darth Sidious|Sheev Palpatine's]] [[Proclamation of the New Order|ascension]] to the title of [[Galactic Emperor]]. Since ''Timelines'' dates that event to [[19 BBY]], the flashbacks must occur around 3 [['ABY-BBY' dating system|ABY]] and the events of ''Sana Starros'' must therefore also take place around the latter year.<noinclude>
+
+==Usage==
+<code><nowiki>{{SanaStarrosDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

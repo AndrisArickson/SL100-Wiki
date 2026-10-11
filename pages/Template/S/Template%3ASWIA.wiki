@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:CardMiniDB|main|template=SWIA|set={{{set|}}}|mission={{{mission|}}}}}{{#if:{{{rulebook|}}}|&#32;{{C|Rulebook}}|}}{{#if:{{{cardname|}}}|[[Category:SWIA usages with cardname|{{PAGENAME}}]]|}}{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

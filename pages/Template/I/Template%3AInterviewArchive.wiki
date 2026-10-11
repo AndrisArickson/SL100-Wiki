@@ -1,0 +1,14 @@
+<div class="boilerplate metadata rfa headerbackground" style="padding:0 10px; border:1px solid #AAA; margin:2em 0 0; background-color:#F4F4F4">
+:''The following discussion is preserved as an archive of an [[Wookieepedia:Interview and creator interaction policy#Legacy content|interview request]] that was '''{{{1|successful}}}'''. <span style="color:red">'''Please do not modify it.'''</span>''<includeonly>{{SpecialCategorizer|[[Category:Wookieepedia interviews request archive|{{SUBPAGENAME}}]]}}</includeonly><noinclude></div>
+
+==Usage==
+This template should be placed before the actual interview request on archived pages from [[Wookieepedia]]'s [[Wookieepedia:Interview and creator interaction policy|interview and creator interaction policy]]. To use this template, copy and paste one of the following:
+*<code><nowiki>{{subst:InterviewArchive|successful}}</nowiki></code> or <code><nowiki>{{subst:InterviewArchive}}</nowiki></code> for successful interview requests, or
+*<code><nowiki>{{subst:InterviewArchive|unsuccessful}}</nowiki></code> for unsuccessful interview requests.
+
+Finally, add a <code><nowiki></div></nowiki></code> tag at the very end of the page.
+
+==Categorization==
+*[[:Category:Wookieepedia interviews request archive]]
+
+[[Category:Archive templates]]</noinclude>

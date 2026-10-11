@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=TheMandalorian
+|mode=TV
+|image=[[File:The-Mandalorian-logo.png|text-top|x16px|link=Star Wars: The Mandalorian]]
+|series=Star Wars: The Mandalorian
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Documentation}}</noinclude>

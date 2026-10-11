@@ -1,0 +1,11 @@
+{{#invoke:BaseCitation|main|template=TOTJ
+|mode=TV
+|image=[[File:Tales_of_the_Jedi_logo.png|text-top|x18px|link=Star Wars: Tales of the Jedi (television series)]]
+|series=Star Wars: Tales of the Jedi (television series)
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+{{Documentation}}
+
+[[Category:TV citation templates]]</noinclude>

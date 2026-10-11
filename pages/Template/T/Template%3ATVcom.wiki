@@ -1,0 +1,7 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=TVcom
+|site_text=[[Wikipedia:TV.com|TV.com]]
+|base_url=https://www.tv.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

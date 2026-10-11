@@ -1,0 +1,11 @@
+{{nav start|[[Imperial Remnant/Legends|Imperial Remnant]]<br />[[Council of Moffs/Legends|Council of Moffs]] ([[44 ABY]])}}
+{{nav text|[[Callron]] · [[Garreter]] · [[Tol Getelles]] · [[Jowar]] · [[Drikl Lecersen]]<br />[[Malvek]] · [[Poliff]] · [[Quillan (Moff)|Quillan]] · [[Trevin]] · [[Porrak Vansyn]] · [[Woolbam]]}}
+{{nav end|edit=Moffs44ABY}}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+
+==Source==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Organization navbox templates|{{PAGENAME}}]]</noinclude>

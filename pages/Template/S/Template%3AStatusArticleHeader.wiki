@@ -1,0 +1,18 @@
+{{TabsTop}}
+{{TabLink|Wookieepedia:Featured articles|Featured<br />articles}}
+{{TabLink|Wookieepedia:Featured article nominations|Featured<br />article<br />nominations}}
+{{#ifeq:{{{status|}}}|FA|{{TabLink|Wookieepedia:Featured article reviews|Featured<br />article<br />reviews}}|}}
+{{TabLink|Wookieepedia:Inquisitorius|Inquisitorius}}
+{{TabLink|Wookieepedia:Good articles|Good<br />articles}}
+{{TabLink|Wookieepedia:Good article nominations|Good&nbsp;article<br />nominations}}
+{{#ifeq:{{{status|}}}|GA|{{TabLink|Wookieepedia:Good article reviews|Good&nbsp;article<br />reviews}}|}}
+{{TabLink|Wookieepedia:AgriCorps|AgriCorps}}
+{{TabLink|Wookieepedia:Comprehensive articles|Comprehensive<br />articles}}
+{{TabLink|Wookieepedia:Comprehensive article nominations|Comprehensive<br />article<br />nominations}}
+{{#ifeq:{{{status|}}}|CA|{{TabLink|Wookieepedia:Comprehensive article reviews|Comprehensive<br />article<br />reviews}}|}}
+{{TabLink|Wookieepedia:EduCorps|EduCorps}}
+{{TabLink|Wookieepedia:Editing tutorial: Master|Tutorial}}
+{{TabLink|Wookieepedia:Review board recruitment|Recruitment}}
+{{TabsBottom}}<noinclude>
+
+[[Category:Utility templates]]</noinclude>

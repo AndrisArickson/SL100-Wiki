@@ -1,0 +1,9 @@
+<onlyinclude><div style="width:100%;min-width:260px;text-align:left;margin-top:-5px;font-family:magistral_medium,arial,helvetica,sans-serif;"><!--
+--><div class="type-icon" style="float:right;overflow:hidden;position:relative;margin-top:3px;margin-right:5px;height:60px;width:60px;"><div style="position:absolute;{{#switch:{{lc:{{{type|}}}}}|weapon|chest|torso|lowerbody|legs|helm|helmet|head|arm|hand|glove|gloves|backpack|back=top:-20px;left:-20px;|#default=top:-8px;left:-8px;}}">[[File:{{#switch:{{lc:{{{type|}}}}}|weapon=Uprising_Icon_SlotWeapon.png|chest|torso=Uprising_Icon_SlotTorso.png|lowerbody|legs=Uprising_Icon_SlotLegs.png|helm|helmet|head=Uprising_Icon_SlotHead.png|arm|hand|glove|gloves=Uprising_Icon_SlotHands.png|backpack|back=Uprising_Icon_SlotBackpack.png|#default=Uprising_Icon_Status_Missing.png}}|{{#switch:{{lc:{{{type|}}}}}|weapon|chest|torso|lowerbody|legs|helm|helmet|head|arm|hand|glove|gloves|backpack|back=100px|#default=55px}}]]</div></div><!--
+--><dl style="margin:0 0 3px 0;white-space: nowrap;"><!--
+--><dt style="float:left;width:90px;">Type:</dt><dd>{{#if:{{{type|}}}|{{ucfirst:{{{type|?}}}}}|?}}</dd><!--
+--><dt style="float:left;width:90px;">Base:</dt><dd title="Base Stat Value">{{{baseStat|{{{base|?}}}}}}</dd><!--
+-->{{#if:{{{faction|}}}|{{#ifeq:{{lc:{{{faction|}}}}}|weapon| |<dt style="float:left;width:90px;">Faction:</dt><dd>{{ucfirst:{{{faction|?}}}}}</dd>|}}}}<!--
+-->{{#if:{{{element|}}}|<dt style="float:left;width:90px;">Element:</dt><dd>{{ucfirst:{{{element|?}}}}}</dd>|}}<!--
+--></dl><!--
+--></div></onlyinclude><noinclude>[[Category:Equipment Templates for Star Wars: Uprising]]</noinclude>

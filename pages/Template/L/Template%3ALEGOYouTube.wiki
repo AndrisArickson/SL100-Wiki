@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=LEGOYouTube
+|archive=YouTube
+|image=[[File:LegoLogo-Template.svg|text-top|x16px|link=https://www.youtube.com/c/LEGO]]
+|site_text=the official [[The LEGO Group|LEGO]] [https://www.youtube.com/c/LEGO YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

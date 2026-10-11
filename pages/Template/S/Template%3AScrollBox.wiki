@@ -1,0 +1,179 @@
+<div class="responsivediv"><table class="scrollbox" cellpadding="0" cellspacing="0" border="0" style="width:{{{width|100%}}};"><tr><td style="margin-right: 8px"><div style="height:{{{height|400px}}}; width:{{{width|100%}}};">
+{{{content|{{{1}}}}}}
+</div></td></tr></table></div><noinclude>__NOTOC__
+==Usage instructions==
+<pre class="wrap"><nowiki>
+==Notes and references==
+{{ScrollBox|content=
+{{Reflist}}
+}}
+</nowiki></pre>
+
+If {{Tl|Mediacat}} is to be placed in the Notes and references section in accordance with the [[Wookieepedia:Layout Guide|Layout Guide]], then do this to ensure correct formatting:
+
+<pre class="wrap"><nowiki>
+==Notes and references==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of EXAMPLE}}
+{{Reflist}}
+}}
+</nowiki></pre>
+
+NOTE: Optional '''height''' and '''width''' variables can be used to control the width of the scroll box (height defaults to 400 pixels; the former "scroll box" template was 230 pixels)&mdash;nowadays, this is usually unnecessary:
+<pre class="wrap"><nowiki>
+{{ScrollBox|height=300px|content=
+}}
+</nowiki></pre>
+
+<pre class="wrap"><nowiki>
+{{ScrollBox|width=100%|content=
+}}
+</nowiki></pre>
+
+<pre class="wrap"><nowiki>
+{{ScrollBox|height=230px|width=100%|content=
+}}
+</nowiki></pre>
+
+==Example==
+===Code===
+<pre class="wrap"><nowiki>
+{{ScrollBox|content=
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+</nowiki></pre>
+
+===Result===
+{{ScrollBox|content=
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+
+===Alternative code===
+If no width or height are defined, the content= variable is not required either.
+<pre class="wrap"><nowiki>
+{{ScrollBox|
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+</nowiki></pre>
+
+===Result===
+{{ScrollBox|
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

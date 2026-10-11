@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[Unbound Worlds|UnboundWorlds.com]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Unbound|url=|text=|int=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.unboundworlds.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Optional parameters===
+*'''int''': Name of the Wookieepedia article corresponding to the UnboundWorlds.com article being cited.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Unbound|url=2012/10/star-wars-shorts-labor-pains|text=Star Wars Shorts: ''Labor Pains''|archivedate=20170917005745}}</nowiki></code>
+
+Results in:
+
+{{Unbound|url=2012/10/star-wars-shorts-labor-pains|text=Star Wars Shorts: ''Labor Pains''|archivedate=20170917005745}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

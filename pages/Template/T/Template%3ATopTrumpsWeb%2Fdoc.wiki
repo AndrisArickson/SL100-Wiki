@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Top Trumps]]' [https://www.toptrumps.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{TopTrumpsWeb|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.toptrumps.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{TopTrumpsWeb|url=products/star-wars-episodes-7-9-top-trumps-card-game|text=Star Wars Episodes 7-9 Top Trumps Card Game}}</nowiki></code>
+
+Results in:
+
+{{TopTrumpsWeb|url=products/star-wars-episodes-7-9-top-trumps-card-game|text=Star Wars Episodes 7-9 Top Trumps Card Game}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

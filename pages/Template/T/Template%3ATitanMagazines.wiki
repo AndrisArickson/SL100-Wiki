@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=TitanMagazines
+|image=[[File:TitanThingy.png|text-top|x16px|link=https://www.titanmagazines.com|class=darkmodeinvert]]
+|site_text=[[Titan Magazines]]' [https://www.titanmagazines.com official website]
+|base_url=https://{{{subdomain|www}}}.titanmagazines.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

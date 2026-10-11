@@ -1,0 +1,6 @@
+<div class="noprint darkbackground1" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left;">[[File:{{{image}}}|50px|none|{{{project}}} logo]]</div>
+<div style="margin-left: 60px;">{{{text}}}
+<div style="margin-left: 10px;">'''''{{{link}}}'''''</div>
+</div>
+</div><noinclude>[[Category:Interwiki link templates|Sisterproject]]</noinclude>

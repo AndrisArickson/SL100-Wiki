@@ -1,0 +1,11 @@
+{{T|1=|1{{{1}}}={{{2}}}}}<noinclude>
+
+==Usage==
+<code><nowiki>{{Ifempty|</nowiki>{{Var|condition}}|{{Var|output}}<nowiki>}}</nowiki></code>
+
+Outputs <code>{{Var|output}}</code> only if <code>{{Var|condition}}</code> is empty.
+
+==See also==
+*{{Tl|Ifnotempty}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

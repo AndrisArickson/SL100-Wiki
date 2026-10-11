@@ -1,0 +1,9 @@
+<noinclude><pre></noinclude>{{#switch:{{uc:{{{1|}}}}}
+|FA=[[File:LinkFA-star.png|15px]]
+|GA=[[File:GoodIcon.png|15px]]
+|CA=[[File:30px-ComprehensiveArticle.png|15px]]
+|FFA=[[File:LinkDFA-Star.png|15px]]
+|FGA=[[File:30px-FormerGAicon.png|15px]]
+|FCA=[[File:30px-FormerCAIcon.png|15px]]
+|&ensp;&nbsp;&#8201;&#8202;
+}}<noinclude></pre>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

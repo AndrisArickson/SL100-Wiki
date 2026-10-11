@@ -1,0 +1,20 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<onlyinclude><!--
+   
+--><center><table style="border:0 none;table-layout:fixed;font-size:0.8em;"><!--
+	--><tr><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 0;">[{{fullurl:Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Character_Stats}} <span><div title="Character Stats" class="uprising-sprite filter-white heart small" style="margin:1px -5px -10px -5px;"></div></span>]</td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;">[{{fullurl:Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Equipment_Stats}} <span><div title="Equipment Stats" class="uprising-sprite filter-white inventory small" style="margin:1px -5px -10px -5px;"></div></span>]</td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;">[{{fullurl:Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment}} <span><div title="Armory" class="uprising-sprite filter-white armory-chest small" style="margin:1px -5px -10px -5px;"></div></span>]</td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;">[{{fullurl:Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Crew}} <span><div title="Crew" class="uprising-sprite filter-white crew-management small" style="margin:1px -5px -10px -5px;"></div></span>]</td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;">[{{fullurl:Currency}} <span><div title="Currency" class="uprising-sprite filter-white currencies small" style="margin:1px -5px -10px -5px;"></div></span>]</td><!--
+	--></tr><!--
+	--><tr><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 0;line-height:1em;"><center>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Character_Stats|Character]]</center></td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;line-height:1em;"><center>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Equipment_Stats|Stats]]</center></td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;line-height:1em;"><center>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment|Armory]]</center></td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;line-height:1em;"><center>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Crew|Crew]]</center></td><!--
+		--><td style="border:0 none;text-align:center;width:20%;padding:0 5px 0 5px;line-height:1em;"><center>[[Currency]]</center></td><!--
+	--></tr><!--
+--></table></center><!--
+
+--></onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>}}

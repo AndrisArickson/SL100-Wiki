@@ -1,0 +1,45 @@
+{{Clear}}<!--
+--><!-- <div {{#if:{{{float|}}}||class="nb2-wrapper"}} style="{{#if:{{{float|}}}|float: {{{float}}}|text-align: center}}"> -->
+{| class="noprint nb2 hidable nav1" cellpadding="0" cellspacing="0" border="0" style="{{#if:{{{float|}}}|float: {{{float}}};|}}{{#if:{{{3|}}}|width:{{{3}}};|}}{{#if:{{{max|}}}|max-width:{{{max|}}};|}}"
+|-
+! class="nb2-firstheading" style="background:{{{2|#D8E9FC}}}; padding-top:2px; border-radius:10px 10px 0 0; " | {{{1}}}
+|-
+|
+{| class="hidable-content nb2-inner" cellpadding="0" cellspacing="0" border="0"
+|- <noinclude>
+|}
+|-
+|}
+{{clear}}
+==Notes==
+This template is one in a series of modular source templates meant to be used to generate navigation templates.
+
+==Usage instructions==
+<pre><nowiki>{{Nav_start|caption|background_color|width}}</nowiki></pre>
+
+==Navigation source templates==
+*{{Tl|Nav_start}}
+*{{Tl|Nav_heading}}
+*{{Tl|Nav_text}}
+*{{Tl|Nav_end}}
+
+==Example==
+===Code===
+<pre><nowiki>
+{{Nav_start|Navigation template test}}
+{{Nav_heading|Heading 1}}
+{{Nav_text|blah blah blah blah blah}}
+{{Nav_heading|Heading 2}}
+{{Nav_text|blah blah blah blah blah blah blah blah blah blah}}
+{{Nav_end}}
+</nowiki></pre>
+
+===Result===
+{{Nav_start|Navigation template test}}
+{{Nav_heading|Heading 1}}
+{{Nav_text|blah blah blah blah blah}}
+{{Nav_heading|Heading 2}}
+{{Nav_text|blah blah blah blah blah blah blah blah blah blah}}
+{{Nav_end}}
+
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

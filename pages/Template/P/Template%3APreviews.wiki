@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Previews
+|image=[[File:PreviewsWorldLogo.jpg|text-top|x16px|link=https://www.previewsworld.com]]
+|site_text=[https://www.previewsworld.com Previews World's official website]
+|base_url=https://{{{subdomain|www}}}.previewsworld.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

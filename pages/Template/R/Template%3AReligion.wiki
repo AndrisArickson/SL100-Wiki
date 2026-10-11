@@ -1,0 +1,93 @@
+<infobox theme="group">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">	
+    	<header>Organizational information</header>
+        <data source="leader"><label>Title of leader</label></data>
+        <data source="governing"><label>Governing body</label></data>
+        <data source="positions"><label>Positions</label></data>
+        <data source="organizations"><label>Sub-groups</label></data>
+        <data source="sects"><label>Sects</label></data>	
+        <data source="headquarters"><label>Headquarters</label></data>	
+        <data source="language"><label>Official language(s)</label></data>
+        <data source="affiliated"><label>Affiliated organizations</label></data>		
+    </group>
+    <group collapse="open">
+    	<header>Beliefs</header>
+        <data source="texts"><label>Holy text(s)</label></data>	
+        <data source="deities"><label>Deities</label></data>	
+        <data source="locations"><label>Locations & temples</label></data>	
+        <data source="artifacts"><label>Relics & artifacts</label></data>	
+        <data source="ceremonies"><label>Ceremonies</label></data>        
+        <data source="holidays"><label>Holidays</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="founding"><label>Date founded</label></data>	
+        <data source="origin"><label>Location of origin</label></data>	
+        <data source="founder"><label>Founder</label></data>	
+        <data source="collapse"><label>Date of collapse</label></data>	
+        <data source="restore"><label>Date of restoration</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Other information</header>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Religion|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|leader|governing|positions|organizations|sects|headquarters|language|affiliated|texts|deities|locations|artifacts|ceremonies|holidays|founding|origin|founder|collapse|restore|affiliation|ignore=name}}<noinclude>{{Top|fprot}}[[category:Group infobox templates]]{{clear}}
+==Usage instructions==
+Paste the following code at the beginning of the article, filing all relevant fields. If a field doesn't apply, just leave it blank.
+<pre><nowiki>{{Top|}}
+{{Religion
+|image=
+|name=
+|leader=
+|governing=
+|positions=
+|organizations=
+|sects=
+|headquarters=
+|language=
+|affiliated=
+|text=
+|deities=
+|locations=
+|artifacts=
+|ceremonies=
+|holidays=
+|founding=
+|origin=
+|founder=
+|collapse=
+|restore=
+|affiliation=
+}}</nowiki></pre>
+
+==Data Fields==
+*image - Put a link to an image associated with religion (depiction of worship, emblem, etc.)
+*name - Put the name of the religion
+*leader - Put the '''title''' of the leader (not an individual's name), e.g. [[High Priestess/Legends|High Priestess]]
+*governing - Put the governing body, e.g. [[High Circle of Elders]]
+*positions - Put the various positions (titles) members of the religion hold in its hierarchy, e.g. [[Abbot]], [[Priest]]
+*organizations - Put the name of sub-groups; i.e., groups that are accepted by the main body, e.g. [[The Tribe]] was a sub-group of the [[Children of the Watch]]
+*sects - Put the name of sects; i.e., groups that have split off from the main body e.g. the [[Frangawl Cult]] was a sect of the [[Dagoyan Order]]
+*headquarters - Put the name of the headquarters (often where the governing body resides), e.g. [[Jedi Temple/Legends|Jedi Temple]]
+*language - Put the language of worship, e.g. [[Sith (language)]]
+*affiliated - Put non-religious organizations or groups that are '''smaller''' than the religion, e.g. the [[Antarian Rangers]] are affiliated with the [[Jedi Order]]
+*text - Put the names of the holy texts, e.g. [[G'nnoch]]
+*deities - Put the names of the deities, e.g. [[Quay]]
+*locations - Put the locations of temples and/or other places of worship, e.g. [[Akar Kesh]] or [[Naboo]]
+*artifacts - Put relics and/or artifacts associated with the religion, e.g. [[Talisman of Age]]
+*ceremonies - Put ceremonies and/or rituals associated with the religion, e.g. [[Consecration Ceremony]]
+*holidays - Put holidays observed by adherents of the religion, e.g. [[Month of Plenty]]
+*founding - Put the date the religion was founded on
+*origin- Put the location the religion originated at
+*founder - Put the name of the founder of the religion
+*collapse - Put the date of the religion's collapse (if applicable), e.g. the [[Cult of M'dweshuu]] collapsed after Hutt bombardment in [[25,100 BBY]]
+*restore - Put the date of the religion's restoration (if applicable), e.g. the [[New Jedi Order]] was restored in [[138 ABY]].
+*affiliation - Put the non-religious organizations or bodies (e.g. governments) that are '''larger''' than the religion that the religion affiliates itself with, e.g. the [[Galactic Republic]]
+</noinclude>

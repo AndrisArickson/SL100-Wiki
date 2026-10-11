@@ -1,0 +1,16 @@
+==Description==
+This template is used to link articles from [{{MinecraftWikiURL}} Minecraft Wiki] under "'''External links'''."
+
+==Syntax==
+<code><nowiki>{{</nowiki>MinecraftWiki|''title''|''FORMATTED title'' <small>(optional)</small>}}</code>
+
+Replace "title" with the exact name of the article on Wikisimpsons, not the name here. (Any "/Legends" in the Wookieepedia article name will be included on the Minecraft Wiki link, so make sure to fill in the title parameter manually.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the Minecraft Wiki link to change if our article is moved, even if Minecraft Wiki article remains at the same name. Additionally, replace any usage of space with _ (underscore) for the first parameter.
+
+==Examples==
+<code><nowiki>{{MinecraftWiki|Mojang_Studios|Mojang Studios}}</nowiki></code> 
+
+results in...
+
+{{MinecraftWiki|Mojang_Studios|Mojang Studios}}
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

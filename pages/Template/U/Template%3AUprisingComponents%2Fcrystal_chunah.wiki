@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal chunah|title=Chunah Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Chunah<!--
+-->|type=Crystal<!--
+-->|subtype=Syndicate<!--
+-->|element=None<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=These crystals are used to improve Syndicate equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedchunah|cracked chunah|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_01.png<!--
+			-->|credits|value|price=262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=300<!--
+			-->|howget|howtoget=<div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|chipped|chippedchunah|chipped chunah|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<div>Combine 6 Cracked Chunah</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dullchunah|dull chunah|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Combine 7 Chipped Chunah</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedchunah|faceted chunah|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine 9 Dull Chunah</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedchunah|polished chunah|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Chunah</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantchunah|brilliant chunah|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<div>Combine 10 Polished Chunah</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristinechunah|pristine chunah|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Chunah<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_07.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine ? Chipped Chunah</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Chunah<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Faction_Syndicate_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Chunah}}
+__NOTOC__
+</noinclude>

@@ -1,0 +1,9 @@
+<td style="text-align:center; width:20%; border:solid 1px silver" bgcolor=#{{#if:{{{bg|}}}|{{{bg}}}|FFFFFF}}>
+[[{{{page}}}|{{#if: {{{text|}}}|{{{text}}}|{{{page}}}}}]]{{{ref|}}}<br />{{{combatants|}}}
+</td><noinclude>
+
+
+This template is one of several used to create the [[Timeline of the Galactic Civil War]]. This is used for light-colored cells, and has several parameters&mdash;"bg" for color, "page" for the battle article, the optional "text" for pipelinking, "ref" for references, and "combatants".
+
+[[Category:Timeline utility templates]]
+</noinclude>

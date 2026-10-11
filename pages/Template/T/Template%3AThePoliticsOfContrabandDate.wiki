@@ -1,0 +1,30 @@
+The [[Roleplaying game|roleplaying]] adventures published in ''[[The Politics of Contraband]]''{{#if:{{{1|}}}|, including "[[{{#switch:{{{1|}}}
+  | The Politics of Contraband = The Politics of Contraband (adventure){{!}}The Politics of Contraband
+  | The Art of Betrayal = The Art of Betrayal
+  | Free Time = Free Time
+  | The Right Place ... = The Right Place ...
+  | Easy Money = Easy Money
+  }}]],"}} are set in the [[New Republic era]] and before the events of ''[[Heir to the Empire]]''. {{Blog|holocron|24|Star Wars Eras}} and the [[Wookieepedia:The Star Wars Legends Novels Timeline|''Star Wars'' Legends Novels Timeline]] date the beginning of the [[New Republic/Legends|New Republic]] era to [[5 ABY/Legends|5 ABY]], and ''[[The Essential Reader's Companion]]'' sets the events of ''Heir to the Empire'' in [[9 ABY/Legends|9 ABY]].<noinclude>
+==Usage==
+<pre><nowiki>{{ThePoliticsOfContrabandDate|title}}</nowiki></pre>
+where {{Para|title}} is an optional roleplaying adventure title.
+
+==Output==
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{ThePoliticsOfContrabandDate}}</nowiki></pre> &#32; || &#32; {{ThePoliticsOfContrabandDate}}
+|-
+|<pre><nowiki>{{ThePoliticsOfContrabandDate|The Politics of Contraband}}</nowiki></pre> &#32; || &#32; {{ThePoliticsOfContrabandDate|The Politics of Contraband}}
+|-
+|<pre><nowiki>{{ThePoliticsOfContrabandDate|The Art of Betrayal}}</nowiki></pre> &#32; || &#32; {{ThePoliticsOfContrabandDate|The Art of Betrayal}}
+|-
+|<pre><nowiki>{{ThePoliticsOfContrabandDate|Free Time}}</nowiki></pre> &#32; || &#32; {{ThePoliticsOfContrabandDate|Free Time}}
+|-
+|<pre><nowiki>{{ThePoliticsOfContrabandDate|The Right Place ...}}</nowiki></pre> &#32; || &#32; {{ThePoliticsOfContrabandDate|The Right Place ...}}
+|-
+|<pre><nowiki>{{ThePoliticsOfContrabandDate|Easy Money}}</nowiki></pre> &#32; || &#32; {{ThePoliticsOfContrabandDate|Easy Money}}
+|}
+
+[[Category:Legends dating citation templates]]
+</noinclude>

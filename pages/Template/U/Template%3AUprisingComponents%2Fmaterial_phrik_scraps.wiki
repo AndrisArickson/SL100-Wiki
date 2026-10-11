@@ -1,0 +1,70 @@
+<onlyinclude>{{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+-->|basename|name=Phrik Scraps<!--
+-->|type=Material<!--
+-->|subtype=Chemical<!--
+-->|element=Chemical<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=This material protects against elemental damage.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|<noinclude>5</noinclude>}}}}}}}}<!--
+	-->|perforated|perforatedphrik scraps|perforated phrik scraps|perforatedphrikscraps|perforated phrikscraps|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Perforated<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Perforated Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_01.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|pressed|pressedphrik scraps|pressed phrik scraps|pressedphrikscraps|pressed phrikscraps|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pressed<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Pressed Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_02.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|forged|forgedphrik scraps|forged phrik scraps|forgedphrikscraps|forged phrikscraps|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Forged<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Forged Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_03.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|plated|platedphrik scraps|plated phrik scraps|platedphrikscraps|plated phrikscraps|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Plated<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Plated Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_04.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|welded|weldedphrik scraps|welded phrik scraps|weldedphrikscraps|welded phrikscraps|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Welded<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Welded Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_05.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|fused|fusedphrik scraps|fused phrik scraps|fusedphrikscraps|fused phrikscraps|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Fused<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Fused Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_06.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|hardened|hardenedphrik scraps|hardened phrik scraps|hardenedphrikscraps|hardened phrikscraps|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Hardened<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Hardened Phrik Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Chemical_07.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|fullname=Phrik Scraps<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Material_Chemical_07.png<!--
+		-->}}<!--
+-->}}}}</onlyinclude><noinclude>[[Category:Material Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Phrik Scraps}}</noinclude>

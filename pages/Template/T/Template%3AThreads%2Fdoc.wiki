@@ -1,0 +1,43 @@
+==Usage==
+<code><nowiki>
+{{Threads|username=|url=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}
+</nowiki></code>
+
+===Required parameters===
+*{{Para|username}} Threads handle of the user, such as <code>charlesdsoule</code>.
+*{{Para|url}} URL to the post in question, such as <code>post/C2d_nSXM48P</code>.
+*{{Para|name}} Actual name of the user, linked to Wookieepedia if possible, for example <code><nowiki>[[Charles Soule]]</nowiki></code>.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|date}} The date the post was posted online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Users are encouraged to utilize the optional "quote" field in the template whenever possible, as Threads posts are subject to permanent removal at any time.
+
+===Example(s)===
+Post:
+<pre>
+{{Threads|charlesdsoule|post/C2d_nSXM48P|[[Charles Soule]]|date=2024-01-24|quote=Star Wars 48-49 are Leia-focused and (I think) will be really good. Leia was just a kid through the OT. 19 in ANH, 22 in Empire. It was a lot.|archiveurl=https://archive.is/XtuqN}}
+</pre>
+
+Produces:
+
+{{Threads|charlesdsoule|post/C2d_nSXM48P|[[Charles Soule]]|date=2024-01-24|quote=Star Wars 48-49 are Leia-focused and (I think) will be really good. Leia was just a kid through the OT. 19 in ANH, 22 in Empire. It was a lot.|archiveurl=https://archive.is/XtuqN}}
+
+<hr />
+
+Profile:
+<code><nowiki>
+{{Threads|username=charlesdsoule|name=[[Charles Soule]]}}
+</nowiki></code>
+
+Produces:
+
+{{Threads|username=charlesdsoule|name=[[Charles Soule]]}}
+
+==See also==
+*[[:Category:Screenshots of social media posts]]
+*[[Wookieepedia:Social media screenshots]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

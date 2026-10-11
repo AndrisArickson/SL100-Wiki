@@ -1,0 +1,41 @@
+<div id="title-meta" style="display: none">{{{1|{{PAGENAME}}}}}</div><div id="title-align" style="display: none">{{#switch:{{{align}}}|right=right|middle|center=center|left}}</div><noinclude>{{Top|fprot}}
+
+Usage examples:
+*<code><nowiki>{{Title}}</nowiki></code> ''removes namespace''
+*<code><nowiki>{{Title|Foo Bar}}</nowiki></code> ''custom title
+*<code><nowiki>{{Title|align=center}}</nowiki></code> ''centered''
+*<code><nowiki>{{Title|align=right}}</nowiki></code> ''aligned to the right''
+*<code><nowiki>{{Title|Foo Bar|align=center}}</nowiki></code> ''etc''
+
+==Using on your wiki==
+Paste the following code snippet in your MediaWiki:Common.js
+<syntaxhighlight lang="javascript">
+// BEGIN JavaScript title rewrite -- jQuery version and new wikia skin fixes by Grunny
+ 
+function rewriteTitle() {
+	if( typeof( window.SKIP_TITLE_REWRITE ) != 'undefined' && window.SKIP_TITLE_REWRITE ) {
+		return;
+	}
+ 
+	if( $('#title-meta').length == 0 ) {
+		return;
+	}
+ 
+	var newTitle = $('#title-meta').html();
+	if( skin == "oasis" ) {
+		$('header.WikiaPageHeader > h1').html('<div id="title-meta" style="display: inline;">' + newTitle + '</div>');
+		$('header.WikiaPageHeader > h1').attr('style','text-align:' + $('#title-align').html() + ';');
+	} else {
+		$('.firstHeading').html('<div id="title-meta" style="display: inline;">' + newTitle + '</div>');
+		$('.firstHeading').attr('style','text-align:' + $('#title-align').html() + ';');
+	}
+}
+ 
+
+// END JavaScript title rewrite
+     
+addOnloadHook(rewriteTitle);
+</syntaxhighlight>
+
+[[Category:Utility templates|{{PAGENAME}}]]
+[[fi:Malline:Nimi]]</noinclude>

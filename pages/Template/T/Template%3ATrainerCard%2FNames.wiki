@@ -1,0 +1,29 @@
+<onlyinclude>{{#switch:{{lc:{{{trainerName|{{{1|<noinclude>Onn Iria</noinclude>}}}}}}}}<!--
+
+-->|bodyguard1<!--
+-->|tryken bodyguard|tryken (bodyguard)|trykenbodyguard|tryken=tryken<!--
+
+-->|bodyguard|bodyguard2<!--
+-->|ndaya bodyguard|ndaya (bodyguard)|ndayabodyguard|ndaya=ndaya<!--
+
+-->|smuggler|smuggler1<!--
+-->|onn iria|onniria|onn|iria=iria<!--
+
+-->|enforcer|enforcer1<!--
+-->|gurnot (enforcer)|gurnot enforcer|gurnot=gurnot<!--
+
+-->|rebel alliance|rebel|alliance|guerilla<!--
+-->|rebel guerilla|rebelguerilla|rebelguerilla1|rebel guerilla1<!--
+-->|kitomag (rebel guerilla)|kitomag rebel guerilla|kitomag=kitomag<!--
+
+-->|bounty hunter|bounty hunter1|bountyhunter1|bounty|hunter<!--
+-->|tsskoat bounty hunter|tsskoat (bounty hunter)|tsskoatbountyhunter|tsskoat=tsskoat<!--
+
+-->|diplomat|diplomat1|elenzia=elenzia<!--
+
+-->|saboteur|saboteur1|sixess=sixess<!--
+
+-->|commando|commando1|mikral=mikral<!--
+
+-->|#default=<!--
+-->}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

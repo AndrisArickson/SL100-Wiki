@@ -1,0 +1,16 @@
+<noinclude>{| class="wikitable"
+|-
+|</noinclude>style="background: {{
+#switch: {{lc:{{{1|Result}}}}}
+  |won = {{{color|<nowiki>#</nowiki>99FF99}}}
+  |nom = {{{color|<nowiki>#</nowiki>FDD}}}
+  |#default = {{{color|<nowiki>#</nowiki>ccc}}}
+}}; color: {{{text|black}}}; vertical-align: middle; text-align: {{{align|center}}}; {{{style|}}}" class="yes table-yes2"|{{
+#switch: {{lc:{{{1|Result}}}}}
+  |won = Won
+  |nom = Nominated
+  |#default = Result
+}}<noinclude>
+|}
+
+[[Category:Utility templates]]</noinclude>

@@ -1,0 +1,29 @@
+==Usage==
+<code><nowiki>{{MandoDate|Chapter number or season|event}}</nowiki></code>, where {{Para|chapter}} is an optional number from 1-24 (as of 2026-01-31).
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}}
+!Chapter !! Code !! Result
+|-
+|Default||<nowiki>{{MandoDate}}</nowiki>||{{MandoDate}}
+|-
+|1&ndash;16||<nowiki>{{MandoDate|5}}</nowiki>||{{MandoDate|5}}
+|-
+|1&ndash;16||<nowiki>{{MandoDate|12}}</nowiki>||{{MandoDate|12}}
+|-
+|Epilogue||<nowiki>{{MandoDate|epilogue}}</nowiki>||{{MandoDate|epilogue}}
+|-
+|17&ndash;22||<nowiki>{{MandoDate|17}}</nowiki>||{{MandoDate|17}}
+|-
+|23&ndash;24||<nowiki>{{MandoDate|23}}</nowiki>||{{MandoDate|23}}
+|-
+|Season 1||<nowiki>{{MandoDate|S1}}</nowiki>||{{MandoDate|S1}}
+|-
+|Season 2||<nowiki>{{MandoDate|S2}}</nowiki>||{{MandoDate|S2}}
+|-
+|Season 3||<nowiki>{{MandoDate|S3}}</nowiki>||{{MandoDate|S3}}
+|-
+|The Mandalorian and Grogu||<nowiki>{{MandoDate|MandalorianAndGrogu}}</nowiki>||{{MandoDate|MandalorianAndGrogu}}
+|}
+
+<includeonly>[[Category:Canon television dating citation templates]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

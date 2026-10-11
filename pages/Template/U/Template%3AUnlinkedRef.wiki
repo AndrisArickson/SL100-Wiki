@@ -1,0 +1,5 @@
+<includeonly>{{#if:{{NAMESPACE}}||[[Category:Pages with unlinked references|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+This is a maintenance template to flag references that do not include a link or template. It places articles in [[:Category:Pages with unlinked references]].
+
+[[Category:Templates]]</noinclude>

@@ -1,0 +1,78 @@
+{{{{#if:{{{side4|}}}{{{commanders4|}}}{{{unit4|}}}{{{ppl4|}}}{{{casual4|}}}|Mission400|{{#if:{{{side3|}}}{{{commanders3|}}}{{{unit3|}}}{{{ppl3|}}}{{{casual3|}}}|Mission350|Mission300}}}}
+|not_battle={{{not_battle|}}}
+|prev={{{prev|}}}
+|conc={{{conc|}}}
+|next={{{next|}}}
+|image={{{image|}}}
+|name={{{name|}}}
+|conflict={{{conflict|}}}
+|objective={{{objective|}}}
+|date={{{date|}}}
+|place={{{place|}}}
+|result={{{result|}}}
+|side1={{{side1|}}}
+|side2={{{side2|}}}
+|side3={{{side3|}}}
+|side4={{{side4|}}}
+|commanders1={{{commanders1|}}}
+|commanders2={{{commanders2|}}}
+|commanders3={{{commanders3|}}}
+|commanders4={{{commanders4|}}}
+|unit1={{{unit1|}}}
+|unit2={{{unit2|}}}
+|unit3={{{unit3|}}}
+|unit4={{{unit4|}}}
+|ppl1={{{ppl1|}}}
+|ppl2={{{ppl2|}}}
+|ppl3={{{ppl3|}}}
+|ppl4={{{ppl4|}}}
+|casual1={{{casual1|}}}
+|casual2={{{casual2|}}}
+|casual3={{{casual3|}}}
+|casual4={{{casual4|}}}
+|civilian={{{civilian|}}}
+}}<!--
+-->{{#invoke:InfoboxParamCheck|main|prev|conc|next|image|name|conflict|objective|date|place|result|side1|side2|side3|side4|commanders1|commanders2|commanders3|commanders4|unit1|unit2|unit3|unit4|ppl1|ppl2|ppl3|ppl4|casual1|casual2|casual3|casual4|civilian|optional=not_battle}}<!--
+-->{{PreloadCat}}{{#ifeq:{{NAMESPACE}}| |{{#if:{{{side4|}}}|[[Category:4-sided battles]]|}}|}}{{#invoke:EventDateCheck|main|type={{#if:{{{not_battle|}}}|Events|Battles}}}}{{#if:{{{place|}}}{{NAMESPACE}}||[[Category:Events without location|{{PAGENAME}}]]}}<noinclude>[[category:Event infobox templates]]{{Top|fprot|mprot}}
+
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+{{Clear}}
+<pre><nowiki>{{Mission
+|prev=
+|conc=
+|next=
+|image=
+|name=
+|conflict=
+|objective=
+|date=
+|place=
+|result=
+|side1=
+|side2=
+|side3=
+|side4=
+|commanders1=
+|commanders2=
+|commanders3=
+|commanders4=
+|unit1=
+|unit2=
+|unit3=
+|unit4=
+|ppl1=
+|ppl2=
+|ppl3=
+|ppl4=
+|casual1=
+|casual2=
+|casual3=
+|casual4=
+|civilian=
+}}</nowiki></pre></noinclude>

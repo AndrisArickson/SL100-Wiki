@@ -1,0 +1,5 @@
+Thank you for contributing to Wookieepedia! Please note that {{#if:{{{1|}}}|your edit to [[{{{1}}}]]|at least one of your recent additions}} added information from the wrong continuity{{#if:{{{1|}}}||&#32;to an article}}. Subjects that exist in both continuities have separate articles for [[Canon]] and [[Star Wars Legends|Legends]] material, denoted by a banner at the top of each page. In the future, please make sure that you're adding information from the correct continuity to an article, and if you would like assistance, feel free to reach out to members of the community on our [[Wookieepedia:Discord|Discord server]]. {{{2|}}}<!-- Template:Msg-continuity --><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-continuity|</nowiki>{{Var|article title}}<nowiki>|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+[[Category:User talk templates|Msg-continuity]]</noinclude>

@@ -1,0 +1,7 @@
+{{clear}}
+'''QUOTE''' {{#if:{{{1|}}}|([[User:{{{1|}}}|{{{1|}}}]] @ {{{2|}}})|}}
+{{excerpt|{{{3}}}
+|font-family=courier new, courier, monospace
+|background=transparent 
+}}
+<noinclude>[[Category:Templates]]</noinclude>

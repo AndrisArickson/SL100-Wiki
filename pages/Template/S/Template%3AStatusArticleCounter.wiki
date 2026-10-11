@@ -1,0 +1,18 @@
+{{#len:{{#switch:{{{mode|}}}
+  |portfolio={{#switch:{{{nom_type|}}}
+    |FA={{#dplreplace:{{#dplreplace:{{{{{1}}}}}|/((?!File:FA-Icon-retro\.svg).)*/|}}|/\n/|}}
+    |GA={{#dplreplace:{{#dplreplace:{{{{{1}}}}}|/((?!File:GA-Icon-retro\.svg).)*/|}}|/\n/|}}
+    |CA={{#dplreplace:{{#dplreplace:{{{{{1}}}}}|/((?!File:CA-Icon-retro\.svg).)*/|}}|/\n/|}}
+  }}
+  |table={{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{{{{1}}}}}|/\[\[Wookieepedia:[ ]?[A-z]+ article nominations\/.+/|###}}|/((?!\#\#\#).)*/|}}|/#+/|1}}|/\n/|}}
+  |alphabet={{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{{{{1}}}}}|/\*\[.+/|###}}|/\*'+\[.+/|###}}|/((?!\#\#\#).)*/|}}|/#+/|1}}|/\n/|}}
+}}}}<noinclude>
+
+==Usage==
+*Status Article Portfolio: <nowiki>{{StatusArticleCounter|<page>|mode=portfolio|nom_type=FA}}</nowiki>
+*Status Article Table: <nowiki>{{StatusArticleCounter|<page>|mode=table}}</nowiki>
+*Alphabetical Status Article Table: <nowiki>{{StatusArticleCounter|<page>|mode=alphabet}}</nowiki>
+
+Note: this template looks on pages for instances of [[:File:FA-Icon-retro.svg]], [[:File:GA-Icon-retro.svg]], and [[:File:GA-Icon-retro.svg]].
+
+[[Category:Templates]]</noinclude>

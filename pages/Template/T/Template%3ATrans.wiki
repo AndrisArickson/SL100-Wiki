@@ -1,0 +1,10 @@
+*''[[{{{1}}}]]'' - ''{{{2}}}'' ("{{{3}}}")
+<noinclude>{{Top|sprot}} __NOTOC__
+==Usage instructions==
+<code><nowiki>{{trans|original title|foreign language translation|literal translation back into english}}</nowiki></code>
+
+Can also be used to list foreign versions of certain works: <code><nowiki>{{trans|foreign language|foreign language translation|literal translation back into english}}</nowiki></code>
+
+This template is intended for the use of documenting official foreign language translations of titles of '''Star Wars''' material.
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,66 @@
+==Usage==
+<code><nowiki>
+{{Twitter|username=|url=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}
+</nowiki></code>
+
+===Required parameters===
+*{{Para|username}} Twitter handle of the user, such as <code>HolocronKeeper</code>.
+*{{Para|url}} URL to the tweet in question, such as <code>status/21161475288</code>.
+*{{Para|name}} Actual name of the user, linked to Wookieepedia if possible, for example <code><nowiki>[[Leland Chee]]</nowiki></code>.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|date}} The date the Tweet was posted online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Users are encouraged to utilize the optional "quote" field in the template whenever possible, as Twitter posts are subject to permanent removal at any time.
+
+===Example(s)===
+Status:
+<pre>
+{{Twitter|username=HolocronKeeper|url=status/21161475288|name=[[Leland Chee]]|archivedate=20200406095105}}
+</pre>
+
+Produces:
+
+{{Twitter|username=HolocronKeeper|url=status/21161475288|name=[[Leland Chee]]|archivedate=20200406095105}}
+
+<hr />
+
+User:
+<pre>
+{{Twitter|username=HolocronKeeper|name=[[Leland Chee]]|archivedate=20200602104818}}
+</pre>
+
+Produces:
+
+{{Twitter|username=HolocronKeeper|name=[[Leland Chee]]|archivedate=20200602104818}}
+
+<hr />
+
+With quote:
+<pre>
+{{Twitter|username=HolocronKeeper|url=status/21161475288|name=[[Leland Chee]]|date=2010-08-14|quote=Yes, Stewjon will be in the Holocron.|archivedate=20200406095105}}
+</pre>
+
+Produces:
+
+{{Twitter|username=HolocronKeeper|url=status/21161475288|name=[[Leland Chee]]|date=2010-08-14|quote=Yes, Stewjon will be in the Holocron.|archivedate=20200406095105}}
+
+<hr />
+
+With screenshot:
+
+<pre>
+{{Twitter|username=LandryQWalker|url=status/936701004048949248|name=[[Landry Q. Walker]]|date=2017-12-01|quote=Star Wars Adventures 4 - Meet Tadd Marteens. A farmer from Stewjon, Tadd is a new recruit who joined the rebellion after the victory at Yavin. A decent pilot with no combat experience, Tadd flies an A-Wing into battle.|archivefile=File:Tadd Marteens Tweet.png}}
+</pre>
+
+Produces:
+
+{{Twitter|username=LandryQWalker|url=status/936701004048949248|name=[[Landry Q. Walker]]|date=2017-12-01|quote=Star Wars Adventures 4 - Meet Tadd Marteens. A farmer from Stewjon, Tadd is a new recruit who joined the rebellion after the victory at Yavin. A decent pilot with no combat experience, Tadd flies an A-Wing into battle.|archivefile=File:Tadd Marteens Tweet.png}}
+
+==See also==
+*[[:Category:Screenshots of social media posts]]
+*[[Wookieepedia:Social media screenshots]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

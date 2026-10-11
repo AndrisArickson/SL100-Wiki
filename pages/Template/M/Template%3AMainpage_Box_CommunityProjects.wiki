@@ -1,0 +1,6 @@
+<div class="mainpage-box-communityprojects">
+<div class="top">[[File:Wiki-shrinkable.png|25px|left]] Community Projects</div>
+:<div class="subheader">''Community Projects''</div>
+{{CommunityProjects}}
+</div>
+<noinclude>{{Top|fprot}}[[Category:Main Page templates]]</noinclude>

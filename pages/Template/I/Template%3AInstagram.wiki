@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Instagram
+|image=[[File:Instagram-Logo.svg|text-top|x16px|link=https://instagram.com]]
+|site_text=[[wikipedia:Instagram|Instagram]]
+|base_url=https://instagram.com
+|target_url={{#if:{{{url|}}}|{{{url|}}}|{{{username|}}}}}
+|username={{{username|}}}
+|is_post={{{url|}}}
+|author={{{name|}}}
+|no_profile={{{noprofile|}}}
+|use_lua_subpage=1
+|social_media=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

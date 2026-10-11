@@ -1,0 +1,7 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<div style="z-index: 1;display:block;" class="no-mobile class-style position-relative display-block color-white"><!--
+	--><div class="class-style position-relative" style="z-index: 1;"><!--
+		--><div style="position: relative;"><!--
+			-->{{UprisingComponents/EditThisComponent|tableClass=class-style margin-left-auto margin-right-2px|tableStyle=margin-left:auto;margin-right:2px;|dataPage={{{dataPage|<noinclude>material_desh_scraps</noinclude>}}}}}<!--
+		--></div><!--
+	--></div><!--
+--></div>}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

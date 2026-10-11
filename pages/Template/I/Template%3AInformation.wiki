@@ -1,0 +1,35 @@
+<includeonly><infobox theme="image">
+  <title>
+    <default>{{FULLPAGENAME}}</default>
+  </title>
+  <group>
+    <header>Information</header>
+    <data source="attention">
+        <label>'''Attention!'''</label>
+    </data>
+    <data source="description">
+        <label>Description</label>
+    </data>
+    <data source="source">
+        <label>Source</label>
+    </data>
+    <data source="artist">
+        <label>Original designer / artist</label>
+    </data>
+    <data source="author">
+        <label>Original designer / artist</label>
+    </data>
+    <data source="filespecs">
+        <label>Conversion / editing / upload information</label>
+    </data>
+    <data source="licensing">
+        <label>Licensing</label>
+    </data>
+    <data source="other versions">
+        <label>Other versions / source images</label>
+    </data>
+  </group>
+  <navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Information|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{Clear}}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided.
+-->{{#invoke:TemplateParamCheck|main|description|source|licensing|attention|artist|filespecs|other versions|cat artist|cat licensee|cat subject|cat type|optional=nonsw artist|namespace=6}}<!--
+-->{{#invoke:FilenameChecker|main}}</includeonly><noinclude>{{Documentation}}</noinclude>

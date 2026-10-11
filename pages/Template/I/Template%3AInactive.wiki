@@ -1,0 +1,18 @@
+{{Ooumb
+|id=Inactive
+|bg=#d8e9fc
+|image=[[File:Blue-exclamation-mark.png|40px]]
+|caption=Inactive user
+|message=This user has been inactive for 12 months or more and has lost their [[Wookieepedia:User page and profile policy|user page privileges]]. If you are the user in question, simply undo the last edit to this page when you return to normal article editing activity.
+
+'''Last article edit:''' {{{1}}}  {{C|[[Special:Contributions/{{PAGENAME}}|contribs]]}}}}<includeonly>[[Category:Inactive users|{{PAGENAME}}]]</includeonly><noinclude>{{Top|sprot}}
+
+==Usage==
+Type {{Tlx|Inactive|date of last main namespace edit}}, for example, <nowiki>{{Inactive|January 1, 2022}}</nowiki> on the inactive user's page.
+
+Per the [[Wookieepedia:User page and profile policy|'''User page and profile policy''']], users with no Wookieepedia [[w:c:community:Help:User contributions|editing contributions]] after twelve (12) consecutive months are considered inactive and may have their user page replaced with the {{Tl|Inactive}} template. All subpages of inactive users will be [[w:c:community:Help:Redirects|redirected]] to their main user page. Users are welcome to return their user page and subpages to active status at any time.
+
+==Categorization==
+*[[:Category:Inactive users]]
+
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

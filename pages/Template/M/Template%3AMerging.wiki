@@ -1,0 +1,12 @@
+{{iumb
+| id = merging
+| bg = #f5edf5
+| image = [[File:Merge-arrow.svg|50px]]
+| caption = This article is being [[Wookieepedia:Duplicate articles|merged]] with [[{{{1}}}]] and may be outdated.
+| message = If necessary, please only edit the page mentioned above, as this page's content may be deleted in the future.
+| comment = Please see the relevant discussion on the [[{{TALKPAGENAME}}|talk page]].
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles to be merged|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Articles to be merged]]
+[[Category:Maintenance templates]]</noinclude>

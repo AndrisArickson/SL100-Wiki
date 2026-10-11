@@ -1,0 +1,10 @@
+<includeonly>{{#vardefine:display|color:gray; font-style:italic;}}<div class="hidable" style="text-align:center">
+{| style="width:50%"
+'''{{{title|Map}}}'''&#32;<span class="hidable-button"></span>
+|}
+<div class="hidable-content" style="clear:both; text-align:left">
+{| id="gallerySection" style="width:100%" |
+<center>([[:Map:{{{mapname}}}|This map]] uses [[:File:{{{file}}}]] from {{{source}}}.)</center><br />
+{{Map:{{{mapname|Map}}}}}
+|}
+</div></div></includeonly>

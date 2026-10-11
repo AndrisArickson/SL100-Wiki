@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=UbisoftYouTube
+|archive=YouTube
+|image=[[File:Ubisoft-Favicon.svg|text-top|x16px|class=darkmodeinvert|link=https://www.youtube.com/@Ubisoft]]
+|site_text=the official [[Ubisoft]] [https://www.youtube.com/@Ubisoft YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

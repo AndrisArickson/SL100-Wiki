@@ -1,0 +1,14 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=RacerYouTube
+|archive=YouTube
+|image=[[File:GalacticRacerYouTube.jpg|text-top|x18px|link=https://www.starwarsgalacticracer.com|class=darkmodeinvert]]
+|site_text=the official ''[[Star Wars: Galactic Racer]]'' [https://www.youtube.com/@StarWarsGalacticRacer YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|original={{{original|}}}
+|livestream={{{livestream|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}[[Category:YouTube citation templates]]</noinclude>

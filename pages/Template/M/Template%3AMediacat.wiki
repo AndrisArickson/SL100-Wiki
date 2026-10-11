@@ -1,0 +1,43 @@
+<includeonly>{{#if:{{{from|}}}
+|<div class="noprint darkbackground1" style="background: #f2f5fd; font-size: 0.85em; text-align: center; margin: 0 auto 3px auto; overflow: auto; border-radius: 10px; padding: 5px 0">
+|<div class="noprint darkbackground1" {{#if:{{{align|}}}|style="float: {{{align}}}; clear: {{{align}}}|style="float: right; clear: right}}; margin: 2px 0 2px 2px; padding: 5px 0; text-align: left; font-size: 90%; width: {{#ifeq:{{#expr:{{#if:{{{imagecat|}}}|1|0}}+{{#if:{{{soundcat|}}}|1|0}}+{{#if:{{{imagebycat|}}}|1|0}}+{{#if:{{{soundbycat|}}}|1|0}}}}|3|280|250}}px; overflow:hidden; background-color: #D8E9FC; min-height: 35px; border-radius: 10px"><!--
+--><div class="inline-image-template" style="float:left; margin-left: 5px;">[[File:Wiki-shrinkable.png|35px]]</div><!--
+--><div class="inline-image-template" style="padding-left:50px">}}<!--
+-->{{#ifexpr:{{#expr:{{#if:{{{imagecat|}}}|1|0}}+{{#if:{{{soundcat|}}}|1|0}}+{{#if:{{{imagebycat|}}}|1|0}}+{{#if:{{{soundbycat|}}}|1|0}}}}>1
+    |Explore all of Wookieepedia's media for this article subject:<br />{{#if:{{{soundcat|}}}
+	    |'''[[:Category:{{{soundcat}}}|Audio{{#if:{{{from|}}}|&#32;from|{{#if:{{{soundbycat|}}}|&#32;of|}}}}]]'''&nbsp;·&nbsp;
+		|
+	}}{{#if:{{{soundbycat|}}}
+		|'''[[:Category:{{{soundbycat}}}|Audio by]]'''{{#ifeq:{{#expr:{{#if:{{{imagecat|}}}|1|0}}+{{#if:{{{soundcat|}}}|1|0}}+{{#if:{{{imagebycat|}}}|1|0}}}}|3|<br />|{{#if:{{{imagecat|{{{imagebycat|}}}}}}|&nbsp;·&nbsp;|}}}}
+		|
+	}}{{#if:{{{imagecat|}}}
+	    |'''[[:Category:{{{imagecat}}}|Images{{#if:{{{from|}}}|&#32;from|{{#if:{{{imagebycat|}}}|&#32;of|}}}}]]'''{{#if:{{{imagebycat|}}}|&nbsp;·&nbsp;|}}
+		|
+	}}{{#if:{{{imagebycat|}}}
+		|'''[[:Category:{{{imagebycat}}}|Images by]]'''
+		|
+	}}
+    |{{#if:{{{imagecat|}}}|Explore all of Wookieepedia's '''[[:Category:{{{imagecat}}}|images]]''' {{#if:{{{from|}}}|from|for}} this article subject.|}}<!--
+-->{{#if:{{{soundcat|}}}|Explore all of Wookieepedia's '''[[:Category:{{{soundcat}}}|audio files]]''' {{#if:{{{from|}}}|from|for}} this article subject.|}}<!--
+-->{{#if:{{{imagebycat|}}}|Explore all of Wookieepedia's '''[[:Category:{{{imagebycat}}}|images]]''' by this article subject.|}}<!--
+-->{{#if:{{{soundbycat|}}}|Explore all of Wookieepedia's '''[[:Category:{{{soundbycat}}}|audio files]]''' performed by this article subject.|}}
+}}{{#if:{{{from|}}}|</div>|</div></div>}}<!--
+-->{{#if:{{{imagecat|}}}|{{#ifexist:Category:{{{imagecat}}}||{{#ifeq:{{NAMESPACE}}||[[Category:Broken Mediacat category links]]|}}}}}}<!--
+-->{{#if:{{{soundcat|}}}|{{#ifexist:Category:{{{soundcat}}}||{{#ifeq:{{NAMESPACE}}||[[Category:Broken Mediacat category links]]|}}}}}}<!--
+-->{{#if:{{{imagebycat|}}}|{{#ifexist:Category:{{{imagebycat}}}||{{#ifeq:{{NAMESPACE}}||[[Category:Broken Mediacat category links]]|}}}}}}<!--
+-->{{#if:{{{soundbycat|}}}|{{#ifexist:Category:{{{soundbycat}}}||{{#ifeq:{{NAMESPACE}}||[[Category:Broken Mediacat category links]]|}}}}}}<!--
+-->{{#if:{{NAMESPACE}}|{{#if:{{#pos:{{{imagecat|}}}|from}}
+	|{{#ifeq:{{{imagecat|}}}|Images from {{PAGENAME}}||{{#ifeq:{{{imagecat|}}}|images from {{PAGENAME}}|
+		|{{#ifeq:{{{imagecat|}}}|Images from the {{PAGENAME}}|
+		  |{{#ifeq:{{{imagecat|}}}|Images from {{PAGENAME}} products|
+			|{{#if:{{#pos:{{PAGENAME}}|(}}
+				|{{#ifeq:{{{imagecat|}}}|Images from {{#sub: {{PAGENAME}} | 0 | {{#expr:{{#pos:{{PAGENAME}}|(}} - {{#len:{{PAGENAME}}}} - 1}}}}|
+					|{{#ifeq:{{{imagecat|}}}|Images from the {{#sub: {{PAGENAME}} | 0 | {{#expr:{{#pos:{{PAGENAME}}|(}} - {{#len:{{PAGENAME}}}} - 1}}}}|{{#ifeq:{{NAMESPACE}}||[[Category:Imagecat uses with mismatched category and article names]]|}}}}
+				}}
+				|{{#ifeq:{{NAMESPACE}}||[[Category:Imagecat uses with mismatched category and article names]]|}}
+			}}
+		  }}
+        }}
+	}}}}
+|}}|}}<!--
+--></includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

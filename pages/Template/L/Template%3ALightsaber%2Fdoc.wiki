@@ -1,0 +1,69 @@
+==Usage instructions==
+Cut and paste the following code into your article, then put the relevant specifications after the "=" signs.
+<pre class="wrap">
+{{Top}}
+{{Lightsaber
+|image=
+|name=
+|model=
+|type=
+|culture=
+|creator=
+|created=
+|destroyed=
+|discovered=
+|owners=
+|hilt model=
+|hilt shape=
+|hilt length=
+|hilt material=
+|crystal=
+|blade type=
+|color=
+|blade length=
+|mods=
+|weight=
+|protection=
+|capacity=
+|range=
+|design=
+|markings=
+|precede=
+|succeed=
+|purpose=
+|affiliation=
+}}</pre>
+
+==Data fields==
+*image &mdash;
+*name &mdash;
+*model &mdash;
+*type &mdash;
+*culture &mdash;
+*creator &mdash; Who created the lightsaber
+*created &mdash; Date and location created
+*destroyed &mdash; Date and location destroyed
+*discovered &mdash; Date and location discovered
+*owners &mdash; List of individuals who owned the lightsaber, in chronological order
+*hilt model &mdash;
+*hilt shape &mdash;
+*hilt length &mdash;
+*hilt material &mdash;
+*crystal &mdash;
+*blade type &mdash;
+*color &mdash; The color of the blade
+*blade length &mdash;
+*mods &mdash;
+*weight &mdash;
+*protection &mdash;
+*capacity &mdash;
+*range &mdash;
+*design &mdash;
+*markings &mdash;
+*precede &mdash;
+*succeed &mdash;
+*purpose &mdash;
+*affiliation &mdash;
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

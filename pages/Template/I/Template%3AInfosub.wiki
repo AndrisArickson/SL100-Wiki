@@ -1,0 +1,7 @@
+| colspan="2" cellpadding="0" cellspacing="0" style="margin:0; padding:0" |
+{| class="infoboxtable hidable-content" cellspacing="0" cellpadding="4" style="border-width: 0px; width:100%"
+{{{1|}}}
+|}<noinclude>{{ooumb|id=Deprecated_template|caption=This template was [[wikipedia:deprecation|made obsolete]] by the conversion to [[help:infoboxes|portable infoboxes]] in December 2015. It's retained here for historical purposes only. It should not be used on new templates.|image=[[file:dialog-warning.svg]] }}
+This template is used as a secondary version of {{Tl|Infoboxframe}}; it wraps around <code>multi</code> and <code>multispan</code> versions of {{Tl|Infocell}}.
+
+[[Category:Infobox utility templates]]</noinclude>

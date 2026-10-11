@@ -1,0 +1,37 @@
+<includeonly>{{#switch:{{{1|}}}
+|#default={{Bluesky|mikechenwriter.bsky.social|post/3lusxuyn56s2p|[[Mike Chen (author)|Mike Chen]]|date=2025-07-25|quote=Here's some macro-level stuff for you: The book takes place in two parts. The first part is 19 BBY, months after Order 66. The second part is 10 BBY, months before Solo. ND and Jaylen alternate POVs the entire book.}}
+|1a={{Bluesky|mikechenwriter.bsky.social|post/3lusxuyn56s2p|[[Mike Chen (author)|Mike Chen]]|date=2025-07-25|quote=Here's some macro-level stuff for you: The book takes place in two parts. The first part is 19 BBY, months after Order 66. The second part is 10 BBY, months before Solo. ND and Jaylen alternate POVs the entire book.}} dates the events of Part 1 of ''[[Star Wars Outlaws: Low Red Moon]]'' to [[19 BBY]]. As the first chapter of the novel{{#if: {{{2|}}}|, which features {{{2}}},|}} takes place three [[Standard year|years]] prior to the rest of Part 1, its events must be set in [[22 BBY]].
+|1
+|2
+|3={{Bluesky|mikechenwriter.bsky.social|post/3lusxuyn56s2p|[[Mike Chen (author)|Mike Chen]]|date=2025-07-25|quote=Here's some macro-level stuff for you: The book takes place in two parts. The first part is 19 BBY, months after Order 66. The second part is 10 BBY, months before Solo. ND and Jaylen alternate POVs the entire book.}} dates the events of Part {{{1}}} of ''[[Star Wars Outlaws: Low Red Moon]]''{{#if: {{{2|}}}|, which features {{{2}}},|}} to [[{{#switch:{{{1|}}}|1=19|2|3=10}} BBY]].
+|Prologue={{Bluesky|mikechenwriter.bsky.social|post/3lusxuyn56s2p|[[Mike Chen (author)|Mike Chen]]|date=2025-07-25|quote=Here's some macro-level stuff for you: The book takes place in two parts. The first part is 19 BBY, months after Order 66. The second part is 10 BBY, months before Solo. ND and Jaylen alternate POVs the entire book.}} dates the events of Part 1 of ''[[Star Wars Outlaws: Low Red Moon]]'' to [[19 BBY]]. The prologue of the novel{{#if: {{{2|}}}|, which features {{{2}}},|}} takes place fourteen [[Standard year|years]] before Part 1 of the novel. Therefore, the prologue of the novel must take place in [[33 BBY]].
+|Epilogue=The epilogue of ''[[Star Wars Outlaws: Low Red Moon]]''{{#if: {{{2|}}}|, which features {{{2}}},|}} is set during the events of ''[[Star Wars Outlaws]]'', which take place in [[3 ABY]] per the reasoning [[:Template:OutlawsDate|here]].
+|=<!--do nothing if no parameter-->
+}}</includeonly><noinclude>
+
+==Usage==
+''For Parts 1-3'':<br />
+<code><nowiki>{{LRMDate|#|subject}}</nowiki></code>
+
+''For Prologue/Epilogue'':<br />
+<code><nowiki>{{LRMDate|Prologue|subject}}</nowiki></code><br />
+<code><nowiki>{{LRMDate|Epilogue|subject}}</nowiki></code>
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}}
+!Part !! Template !! Date !! Result
+|-
+|Chapter 1||<nowiki>{{LRMDate|1a}}</nowiki>||[[22 BBY]]||{{LRMDate|1a}}
+|-
+|Part 1||<nowiki>{{LRMDate|1}}</nowiki>||[[19 BBY]]||{{LRMDate|1}}
+|-
+|Part 2||<nowiki>{{LRMDate|2}}</nowiki>||[[10 BBY]]||{{LRMDate|2}}
+|-
+|Part 3||<nowiki>{{LRMDate|3}}</nowiki>||[[10 BBY]]||{{LRMDate|3}}
+|-
+|Prologue||<nowiki>{{LRMDate|Prologue}}</nowiki>||[[19 BBY]]||{{LRMDate|Prologue}}
+|-
+|Epilogue||<nowiki>{{LRMDate|Epilogue}}</nowiki>||[[3 ABY]]||{{LRMDate|Epilogue}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

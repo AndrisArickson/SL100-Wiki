@@ -1,0 +1,6 @@
+{{Userbox|brown|beige|[[File:Blogz.jpg|100px]]|This user had a [https://web.archive.org/web/http://blogs.starwars.com{{#if:{{{1|}}}|/{{{1}}}/|}} '''blog'''] on [[StarWars.com]].|style1=padding:0px 2px|headerbackground=0}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserBlog|{{Var|starwars.com username}}}}</code> into your user page.
+
+[[Category:Star Wars userboxes|Blog]]</noinclude>

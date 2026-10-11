@@ -1,0 +1,8 @@
+[[File:SWTOR_Wiki.png|16px|link=w:c:swtor]] [[w:c:swtor:{{{1|{{BASEPAGENAME}}}}}|{{{2|{{{1|{{BASEPAGENAME}}}}}}}}]] on [[w:c:swtor|Star Wars: The Old Republic Wiki]]<noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>SWTOR Wiki|''title'' (optional)}}</code>
+
+Replace "title" with the exact name of the article ''on the Star Wars: The Old Republic Wiki'', not the name here. If the name is the same on both wikis, it can be omitted. (Any "/Legends" in the Wookieepedia article name will be left off the SWTOR Wiki link.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the SWTOR Wiki link to change if our article is moved even if SWTOR Wiki's article remains at the same name.
+
+[[Category:Interwiki link templates|{{PAGENAME}}]]</noinclude>

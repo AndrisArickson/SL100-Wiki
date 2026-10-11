@@ -1,0 +1,9 @@
+{{#invoke:CardMiniDB|main|template=Legion|set={{{set}}}}}<noinclude>
+
+==Usage==
+Place the following code on the page and replace "SET NAME", "URL", and "CARD NAME" with the appropriate information.
+ <nowiki>{{</nowiki>Legion|set=''SET NAME''|cardname=''CARD NAME''}}
+----
+{{Module:CardMiniDB/doc}}
+
+[[Category:Miniature game citation templates]]</noinclude>

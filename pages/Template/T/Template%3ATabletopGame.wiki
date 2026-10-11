@@ -1,0 +1,31 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="release date"><label>Publication date</label></data>   
+    </group>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="expansions"><label>Expansions</label></data>
+        <data source="timeline"><label>Timeline</label></data>		
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:TabletopGame|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|publisher|release date|expansions|timeline|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check=1|image_optional=1|template_name=TabletopGame}}<noinclude>[[Category:Game infoboxes]]{{clear}}
+
+==Usage==
+Copy and paste the following code to use this template:
+<pre>{{Top|real}}
+{{TabletopGame
+|image=
+|title=
+|publisher=
+|release date=
+|expansions=
+|timeline=
+}}</pre></noinclude>

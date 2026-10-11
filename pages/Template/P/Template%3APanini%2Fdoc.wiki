@@ -1,0 +1,39 @@
+This template is to be used for citing individual pages on [[Panini]]'s [https://paninishop.de/ shop website] and [https://panini.co.uk other official sites].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{Panini|shop=1|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>https://www.quartoknows.com/</nowiki></code>).
+*'''text''': Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|shop}} For use when citing to [https://paninishop.de PaniniShop.de] rather than panini.<domain>
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Panini|shop=1|url=star-wars-tv-und-film-magazine/star-wars-fun-action-01-20-ydswfa001|text=Star Wars Fun & Action 1|archivedate=20200401225331|nolive=1}}</nowiki></code>
+
+Results in:
+
+{{Panini|shop=1|url=star-wars-tv-und-film-magazine/star-wars-fun-action-01-20-ydswfa001|text=Star Wars Fun & Action 1|archivedate=20200401225331|nolive=1}}
+
+<hr />
+<code><nowiki>{{Panini|shop=1|url=star-wars-tv-und-film-science-fiction-magazine/star-wars-das-offizielle-magazin-112-ydoswm00423|text=Star Wars - Das offizielle Magazin 112|archivedate=20231227134149}}</nowiki></code>
+
+Results in:
+
+{{Panini|shop=1|url=star-wars-tv-und-film-science-fiction-magazine/star-wars-das-offizielle-magazin-112-ydoswm00423|text=Star Wars - Das offizielle Magazin 112|archivedate=20231227134149}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,36 @@
+This template is to be used for citing individual pages on [[Wikipedia:Substack|Substack]].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{Substack|subdomain=|url=|text=|name=|username=|date=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|subdomain}} Subdomain of the web page.
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.substack.com/</nowiki></code>).
+*{{Para|text}} Name of the article or post being cited.
+*{{Para|name}} Actual name of the user, linked to Wookieepedia if possible, for example <code><nowiki>[[Tom Hoeler]]</nowiki></code>.
+*{{Para|username}} Substack handle of the user, such as <code>darthinternous</code>.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|date}} The date the Tweet was posted online. In the format <code>YYYY-MM-DD</code>.
+
+===Example(s)===
+<code><nowiki>{{Substack|subdomain=thecubicleattheendofthegalaxy|url=p/star-wars-reign-of-the-empire-the|text=Star Wars Reign of the Empire: The Mask of Fear - 100 Things|name=[[Tom Hoeler|Tom]]|username=darthinternous|date=2025-02-11|archivedate=20250211142903}}</nowiki></code>
+
+Results in:
+
+{{Substack|subdomain=thecubicleattheendofthegalaxy|url=p/star-wars-reign-of-the-empire-the|text=Star Wars Reign of the Empire: The Mask of Fear - 100 Things|name=[[Tom Hoeler|Tom]]|username=darthinternous|date=2025-02-11|archivedate=20250211142903}}
+
+<hr />
+
+<code><nowiki>{{Substack|subdomain=imagineamouse|url=p/star-wars-hunters|text=Star Wars: Hunters|name=George Chrysostomou|username=georgechrysostomou|date=2024-07-02|archivedate=20250216053625}}</nowiki></code>
+
+Results in:
+
+{{Substack|subdomain=imagineamouse|url=p/star-wars-hunters|text=Star Wars: Hunters|name=George Chrysostomou|username=georgechrysostomou|date=2024-07-02|archivedate=20250216053625}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

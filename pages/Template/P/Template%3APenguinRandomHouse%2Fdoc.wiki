@@ -1,0 +1,42 @@
+This template is to be used for citing individual pages on [[Wikipedia:Penguin Random House|Penguin Random House's]] [https://www.penguinrandomhouse.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{PenguinRandomHouse|subdomain=|url=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.penguinrandomhouse.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{Para|subdomain}} For subdomains of <code><nowiki>penguinrandomhouse.com</nowiki></code>, such as <code><nowiki>global.penguinrandomhouse.com</nowiki></code>, the subdomain can be specified, for example, <code>|subdomain=global</code>. Defaults to <code>www</code> if left blank.
+*{{Para|date}} Date the page was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|domain}} For international sites
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{PenguinRandomHouse|url=books/565699/star-wars-the-force-awakens-graphic-novel-adaptation-by-alessandro-ferrari|text=Star Wars: The Force Awakens Graphic Novel Adaptation|archivedate=20170907041752}}</nowiki></code>
+
+Results in:
+
+{{PenguinRandomHouse|url=books/565699/star-wars-the-force-awakens-graphic-novel-adaptation-by-alessandro-ferrari|text=Star Wars: The Force Awakens Graphic Novel Adaptation|archivedate=20170907041752}}
+
+<hr />
+<code><nowiki>{{PenguinRandomHouse|url=books/565699/star-wars-the-force-awakens-graphic-novel-adaptation-by-alessandro-ferrari|text=Star Wars: The Force Awakens Graphic Novel Adaptation|archivedate=20170907041752|nolive=1}}</nowiki></code>
+
+Results in:
+
+{{PenguinRandomHouse|url=books/565699/star-wars-the-force-awakens-graphic-novel-adaptation-by-alessandro-ferrari|text=Star Wars: The Force Awakens Graphic Novel Adaptation|archivedate=20170907041752|nolive=1}}
+
+<hr />
+<code><nowiki>{{PenguinRandomHouse|subdomain=global|url=announcements/random-house-launches-new-imprint-random-house-worlds|text=Random House Launches New Imprint, Random House Worlds|date=2022-05-17|archivedate=20220517161306}}</nowiki></code>
+
+Results in:
+
+{{PenguinRandomHouse|subdomain=global|url=announcements/random-house-launches-new-imprint-random-house-worlds|text=Random House Launches New Imprint, Random House Worlds|date=2022-05-17|archivedate=20220517161306}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

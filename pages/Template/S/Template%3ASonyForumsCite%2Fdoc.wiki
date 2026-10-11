@@ -1,0 +1,24 @@
+This template is to be used for citing individual pages on the official ''[[Star Wars Galaxies]]'' forums.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{SonyForumsCite|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the article, minus the domain name (<code><nowiki>http://forums.station.sony.com/</nowiki></code>).
+*{{Para|text}} Name of the article being cited (formatted name if <code>|int=</code> parameter is used).
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SonyForumsCite|url=swg/posts/list.m?topic_id=577070|text=Chapter 8: The Nova Orion Crisis|archivedate=20080322025854}}</nowiki></code>
+
+Results in:
+{{SonyForumsCite|url=swg/posts/list.m?topic_id=577070|text=Chapter 8: The Nova Orion Crisis|archivedate=20080322025854}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

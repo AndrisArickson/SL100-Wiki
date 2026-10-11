@@ -1,0 +1,1 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<includeonly>{{Progression|{{#expr:{{{2|0}}} - {{{1|0}}}}}|{{{2|0}}}|width={{{width|75%}}}|task={{{task|}}}|text={{{text|complete}}}}}</includeonly>}}</onlyinclude><noinclude>[[Category:Deprecated templates]]</noinclude>

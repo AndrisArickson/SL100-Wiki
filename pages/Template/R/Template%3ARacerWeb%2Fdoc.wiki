@@ -1,0 +1,33 @@
+This template is to be used for citing individual pages on the [https://starwarsgalacticracer.com/ official website] for ''[[Star Wars: Galactic Racer]]''.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{RacerWeb|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://www.starwarsgalacticracerq.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL contains a subdomain that is not <code>www</code>, use <code>|subdomain=digital</code>. Default is <code>www</code> if left blank.
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Using the central archive repository
+<code><nowiki>
+{{RacerWeb|url=news/official-gameplay-trailer|text=Pre-Order STAR WARS: Galactic Racer™ Today!}}</nowiki></code>
+
+Results in:
+
+{{RacerWeb|url=news/official-gameplay-trailer|text=Pre-Order STAR WARS: Galactic Racer™ Today!}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,12 @@
+<h3>{{{1}}} - <span id={{{1}}} lang={{{1}}}>[[Wikipedia:{{LangCode|mode=name|{{{1}}}}} language|{{LangCode|mode=name|{{{1}}}}}]]</span></h3>
+'''Category: [[:Category:user {{{1}}}|user {{{1}}}]]'''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|0}}</nowiki>'' &mdash; does not understand''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|1}}</nowiki>'' &mdash; basic''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|2}}</nowiki>'' &mdash; intermediate''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|3}}</nowiki>'' &mdash; advanced''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|P}}</nowiki>'' &mdash; professional''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|F}}</nowiki>'' &mdash; fluent - near native''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|N}}</nowiki>'' &mdash; native''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|U}}</nowiki>'' &mdash; understands, but does not speak''
+* <nowiki>{{Lang|</nowiki>{{{1}}}<nowiki>|E}}</nowiki>'' &mdash; required course in school''
+<noinclude>[[Category:Language_templates|{{PAGENAME}}]]</noinclude>

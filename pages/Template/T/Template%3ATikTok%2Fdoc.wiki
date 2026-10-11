@@ -1,0 +1,59 @@
+==Usage==
+<code><nowiki>{{TikTok|username=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===External links===
+<code><nowiki>{{TikTok|username=|name=}}</nowiki></code>
+
+'''Required parameters'''
+*{{Para|username}} TikTok handle of author
+*{{Para|name}} Author being cited in the linked post. Supports wikilinks.
+
+'''Optional parameters'''
+*Backup parameters; see below
+
+===References===
+<code><nowiki>{{TikTok|username=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+Required parameters
+*{{Para|username}} TikTok handle of author, without the "@".
+*{{Para|url}} Permanent URL to TikTok post, excluding the <code><nowiki>https://www.tiktok.com/</nowiki></code> portion, as well as the profilelink if applicable.
+*{{Para|author}} Author being cited in the linked post. Supports wikilinks.
+*{{Para|text}} The title or caption of the post.
+
+Optional parameters
+*{{Para|date}} Date the TikTok post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} A short excerpt from the citation for quick reference in the article.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{TikTok|username=starwars|name=[[Star Wars]]}}</nowiki></code>
+
+Results in:
+
+{{TikTok|username=starwars|name=[[Star Wars]]}}
+
+<hr />
+<code><nowiki>{{TikTok|starwars|video/7200413053182151979|[[Star Wars]]|description=These are your first steps. #ANewHope, #RevengeoftheSith, and #ObiWanKenobi are now streaming on Disney+.|date=2023-02-15|archivedate=20230912134954}}</nowiki></code>
+
+Results in:
+
+{{TikTok|starwars|video/7200413053182151979|[[Star Wars]]|description=These are your first steps. #ANewHope, #RevengeoftheSith, and #ObiWanKenobi are now streaming on Disney+.|date=2023-02-15|archivedate=20230912134954}}
+
+<hr />
+<code><nowiki>
+{{TikTok|starwars|playlist/Star%20Wars%20Celebration-7219747876384082734|[[Star Wars]]|description=Playlist Star Wars Celebration|archivedate=20240121191515}}</nowiki></code>
+
+Results in:
+
+{{TikTok|starwars|playlist/Star%20Wars%20Celebration-7219747876384082734|[[Star Wars]]|description=Playlist Star Wars Celebration|archivedate=20240121191515}}
+
+==See also==
+*[[:Category:Screenshots of social media posts]]
+*[[Wookieepedia:Social media screenshots]]
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

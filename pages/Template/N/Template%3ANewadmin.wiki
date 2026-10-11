@@ -1,0 +1,35 @@
+{| class="headerbackground" style="border:3px solid #696969; background-color:#ffffff; padding:1px; width:100%;" 
+|-
+| style="background-color:#808080; width:100px; padding:0.5em; font-size:150%; color:#ffffff; margin:10px; border:none; text-align:center;" | Wookieepedia 
+| class="headerbackground" style="background-color:#ffffff; color:#000000; padding: 0 10px; margin:10px; border:none; text-align:justify;" | 
+<div style="text-align: center">"''The hallmark of a well-managed organization is not the absence of problems, but whether or not problems are effectively resolved.''"</div>
+
+<div style="text-align: left">'''Congratulations on becoming an [[Wookieepedia:Administrators|Administrator]]!'''
+
+Hi there, and welcome to the Administration. You've been elected to this position because the community feels that you possess the qualities and integrity which is required of Wookieepedia's administrators. We look forward to having you as part of the team.
+
+As a new administrator, there are some things that you should be aware of before using your newly granted sysop tools. The following links will provide you various overviews of what it means to be an administrator, and will guide you in using your sysop tools. Likewise, don't be afraid to ask more experienced administrators, via their talk pages, [[Wookieepedia:Discord|Discord]], or the administrator mailing list, if you have any questions or concerns about the position.
+ 
+<big>'''Administrator links'''</big>
+
+----
+
+{| width="90%"
+| valign="top" width="50%" |
+*[[Wookieepedia:Administrators#Sysop tools|Sysop tools]]
+*[[Wookieepedia:Administrators' how-to guide|Administrators' how-to guide]]
+| valign="top" width="50%" |
+*[[Wookieepedia:Administrators' reading list|Administrators' reading list]]
+*[[Forum:Administrators' noticeboard|Noticeboard]]
+| valign="top" width="50%" |
+*[[Wookieepedia:Administrators|Administrators]]
+*[[Wookieepedia:Administrators#Becoming a bureaucrat|Bureaucrats]]
+|}
+
+</div>
+<noinclude>
+[[Category:User talk templates|{{PAGENAME}}]]
+[[Category:Administrative templates|{{PAGENAME}}]]
+</noinclude>
+| class="headerbackground" style="background-color: #ffffff; font-size: 150%; color:#ffffff; margin:10px; padding: 5px; border: none; text-align:center; width: 100px" | [[File:Site-logo.png|120px]]
+|}

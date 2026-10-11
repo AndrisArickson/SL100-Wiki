@@ -1,0 +1,21 @@
+<small>&mdash;''Comment added by '' [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]]&nbsp;&bull;&nbsp;[[Special:Contributions/{{{1}}}|contribs]]), an '''impostor'''{{#if:{{{2|}}}|&nbsp;of {{{2}}}}}</small><noinclude>
+{{clear}}
+==Usage instructions==
+<pre><nowiki>
+{{impostor|username}}
+OR
+{{impostor|username|user being impersonated}}
+</nowiki></pre>
+
+==Example==
+====Code====
+<code><nowiki>{{impostor|bob}}</nowiki></code>
+
+<code><nowiki>{{impostor|bob|VIP}}</nowiki></code>
+
+====Result====
+{{impostor|bob}}
+
+{{impostor|bob|VIP}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,43 @@
+<infobox theme="astro">
+	<image source="image"></image>
+    <title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="founded"><label>Date founded</label></data>	
+        <data source="founders"><label>Founded by</label></data>
+        <data source="dissolved"><label>Date dissolved</label></data>
+        <data source="eras"><label>Era(s)</label></data>	
+	</group>
+    <group collapse="open">
+    	<header>Astrographical information</header>
+        <data source="regions"><label>Regions</label></data>	
+        <data source="sectors"><label>Sectors</label></data>
+        <data source="stellar"><label>Stellar bodies</label></data>
+        <data source="endpoints"><label>End points</label></data>				
+        <data source="transitpoints"><label>Transit points</label></data>
+        <data source="otherobjects"><label>Other objects</label></data>
+        <data source="junctions"><label>Junctions</label></data>	
+    </group>
+    <navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:TradeRoute|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}{{#invoke:InfoboxParamCheck|main|image|name|founded|founders|dissolved|eras|regions|sectors|stellar|endpoints|transitpoints|otherobjects|junctions}}<noinclude>[[Category:Astrographical infobox templates]]{{clear}}
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre><nowiki>{{TradeRoute
+|image=
+|name=
+|founded=
+|founders=
+|dissolved=
+|eras=
+|regions=
+|sectors=
+|stellar=
+|endpoints=
+|transitpoints=
+|otherobjects=
+|junctions=
+}}
+</nowiki></pre>
+
+'''Note:''' Per [[Forum:SH:Trade route infobox tweaks]], |endpoints= should be listed alphabetically. And only the highest level transit points get listed via infobox.</noinclude>

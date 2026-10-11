@@ -1,0 +1,45 @@
+{{#switch:{{{nom_type|}}}
+  |FA={{ProjectStatusCount/SubTemplate
+     |shortcut={{{shortcut|}}}
+     |portfolio_page={{{portfolio_page|}}}
+     |legends={{{legends|}}}
+     |notext={{{notext|}}}
+     |color=FAFAD2
+     |count={{ProjectStatusCounter|{{{shortcut}}}|FA}}
+     |nom_type=Featured
+     |board=[[Wookieepedia:Inquisitorius|Inquisitorius]]
+     |icon=[[File:Premium-FeaturedIcon.svg|75px]]
+}}
+  |GA={{ProjectStatusCount/SubTemplate
+     |shortcut={{{shortcut|}}}
+     |portfolio_page={{{portfolio_page|}}}
+     |legends={{{legends|}}}
+     |notext={{{notext|}}}
+     |count={{ProjectStatusCounter|{{{shortcut}}}|GA}}
+     |color=ADDFAD
+     |nom_type=Good
+     |board=[[Wookieepedia:AgriCorps|AgriCorps]]
+     |icon=[[File:Premium-GoodIcon.svg|75px]]
+}}
+  |CA={{ProjectStatusCount/SubTemplate
+     |shortcut={{{shortcut|}}}
+     |portfolio_page={{{portfolio_page|}}}
+     |legends={{{legends|}}}
+     |notext={{{notext|}}}
+     |count={{ProjectStatusCounter|{{{shortcut}}}|CA}}
+     |color=FAB09E
+     |nom_type=Comprehensive
+     |board=[[Wookieepedia:EduCorps|EduCorps]]
+     |icon=[[File:Premium-ComprehensiveArticle.svg|75px]]
+}}
+|}}<noinclude>
+
+==Usage==
+<pre>{{ProjectStatusCount|nom_type=CA|subpage=/Comprehensive Articles|shortcut=WP:SWR|count=8}}</pre>
+
+will produce:
+
+{{ProjectStatusCount|nom_type=CA|subpage=/Comprehensive Articles|shortcut=WP:SWR|count=8}}
+
+[[Category:Templates]]
+</noinclude>

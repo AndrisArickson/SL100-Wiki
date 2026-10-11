@@ -1,0 +1,29 @@
+This template is to be used for citing individual pages on [https://ripped.topps.com Topps Ripped].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{ToppsRipped|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{ToppsRipped|url=2023-topps-star-wars-finest-checklist-spotlight|text=Checklist Spotlight: 2023 Topps Star Wars Finest}}</nowiki></code>
+
+Results in:
+
+{{ToppsRipped|url=2023-topps-star-wars-finest-checklist-spotlight|text=Checklist Spotlight: 2023 Topps Star Wars Finest}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

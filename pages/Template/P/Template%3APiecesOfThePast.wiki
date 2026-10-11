@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=PiecesOfThePast
+|mode=TV
+|image=[[File:PiecesOfThePast-Logo.png|text-top|x16px|link=LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past]]
+|series=LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past
+|child={{{1}}} (Pieces of the Past)
+}}<noinclude>
+
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+ <nowiki>{{</nowiki>RebuildTheGalaxy|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+
+[[Category:TV citation templates]]</noinclude>

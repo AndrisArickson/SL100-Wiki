@@ -1,0 +1,46 @@
+<div class="plainlinks" style="flex: 1; border: 2px solid #D3D3D3; margin: 5px; padding: 5px; align: center; width: 50%;">
+{| width="100%"
+| valign="middle" width="20%" height="105px" |
+{{{file}}}
+| valign="middle" style="margin-left: 15px; padding-left: 15px;" |
+<big>'''[[User:{{{username}}}|{{{username}}}]]''' {{#switch:{{{flag|}}}
+|au=<span style="cursor: help;" title="Australia">[[File:AdminBox-Flag-au.svg|30px]]</span>
+|ca=<span style="cursor: help;" title="Canada">[[File:AdminBox-Flag-ca.svg|30px]]</span>
+|fi=<span style="cursor: help;" title="Finland">[[File:AdminBox-Flag-fi.svg|30px]]</span>
+|lv=<span style="cursor: help;" title="Latvia">[[File:AdminBox-Flag-lv.svg|30px]]</span>
+|mx=<span style="cursor: help;" title="Mexico">[[File:AdminBox-Flag-mx.svg|30px]]</span>
+|nz=<span style="cursor: help;" title="New Zealand">[[File:AdminBox-Flag-nz.svg|30px]]</span>
+|sc=<span style="cursor: help;" title="Scotland">[[File:AdminBox-Flag-sc.svg|30px]]</span>
+|tr=<span style="cursor: help;" title="Turkey">[[File:Flag-of-Turkey.svg|30px]]</span>
+|uk=<span style="cursor: help;" title="United Kingdom">[[File:AdminBox-Flag-uk.svg|30px]]</span>
+|us=<span style="cursor: help;" title="United States">[[File:AdminBox-Flag-us.svg|30px]]</span>
+}}</big><br />
+<small>Mentor since {{{since|}}}</small><br />{{#ifeq:{{{timezone|}}}|0||<small>[https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png Time zone]: {{{timezone|}}}</small><br />}}
+<small>
+[[User talk:{{{username}}}|Talk page]] {{#if:{{{discordusername|}}}
+|&bull; <span style="cursor: help; text-decoration-line: underline; text-decoration-style: dashed;" title="{{{discordusername}}}">Discord</span>
+|}} {{#if:{{{pronouns|}}}
+|&bull; {{{pronouns}}}
+|}}</small>{{#ifeq:{{{timezone|}}}|0|<br />&nbsp;|}}
+|}
+<div style="padding: 5px;"><hr />
+{{{content}}}
+</div>
+</div><noinclude>
+
+==Usage==
+<pre>
+{{MentorBox
+|username=
+|flag=
+|file=
+|since=
+|timezone=
+|discordusername=
+|pronouns=
+|content=
+}}
+</pre>
+
+If the mentor wishes to not reveal timezone, please use <code>|timezone=0</code>.
+[[Category:Administrative templates]]</noinclude>

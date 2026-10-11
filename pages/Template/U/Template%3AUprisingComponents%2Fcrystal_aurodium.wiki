@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal aurodium|title=Aurodium Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Aurodium<!--
+-->|type=Crystal<!--
+-->|subtype=Offense<!--
+-->|element=None<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=These crystals provide an offensive benefit to equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedaurodium|cracked aurodium|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_01.png<!--
+			-->|credits|value|price=262<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|chipped|chippedaurodium|chipped aurodium|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Combine 6 Cracked Aurodium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dullaurodium|dull aurodium|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Combine 7 Chipped Aurodium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedaurodium|faceted aurodium|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Combine 9 Dull Aurodium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedaurodium|polished aurodium|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Aurodium</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Mataou</div><div>Found on Opportunity Missions on Mataou</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantaurodium|brilliant aurodium|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Combine 10 Polished Aurodium</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristineaurodium|pristine aurodium|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Aurodium<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Offensive_06.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=?<!--
+			-->|upgradecost|upgradeprice=?<!--
+			-->|howget|howtoget=<div>Combine ? Chipped Aurodium</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Aurodium<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Offensive_06.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Aurodium}}
+__NOTOC__
+</noinclude>

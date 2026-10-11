@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars: The Ultimate Cookbook|''Star Wars: The Ultimate Cookbook''|''[[Star Wars: The Ultimate Cookbook]]''}} establishes that the publishing of the [[in-universe]] ''[[The Ultimate Cookbook]]'' and the culinary tour that preceded it occurred following the publishing of ''[[The Official Black Spire Outpost Cookbook]]'' and prior to the [[destruction of Kijimi]]. It also establishes that ''The Ultimate Cookbook'' was published following the [[Festival of the Ancestors]] that occurred during that [[time]] period. ''[[Star Wars: Galaxy's Edge: The Official Black Spire Outpost Cookbook]]'' further establishes that ''The Official Black Spire Outpost Cookbook'' was published concurrently with the [[First Order]]'s [[Battle of Batuu|search]] for the [[Resistance]] base on [[Batuu]], which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]]. In addition, ''Timelines'' dates the Festival of the Ancestors and the destruction of [[Kijimi]] to [[35 ABY]], meaning the tour must have taken place between 34 [['ABY-BBY' dating system|ABY]] and 35 ABY and ''The Ultimate Cookbook'' must have been published in 35 ABY.<noinclude>
+
+==Usage==
+<code><nowiki>{{UltimateCookbookDate}}</nowiki>
+
+[[Category:Canon dating citation templates]]</noinclude>

@@ -1,0 +1,40 @@
+This template is intended to be used to list out-of-universe people, locations, and organizations that are mentioned in a given source. It is not intended as a replacement for [[Template:Credits]] and should not be used to cover individuals or companies solely being credited for a piece of media, only those mentioned in the content of the media itself.
+
+This template is not yet in widespread usage, and it's rollout is was discussed here: [[Forum:SH:OOU Appearances Lists]]
+
+"|people" should be used to note real individuals noted in the source, arranged in alphabetical order by surname<br />
+"|locations" should be used to note real locations noted in the source, arranged in alphabetical order<br />
+"|organizations" should be used to note real organizations and companies noted in the source, arranged in alphabetical order<br />
+"|media" should be used to note other media noted in the source, arranged by release date and using templates where possible<br />
+"|miscellanea" should be used to note miscellanoues articles noted in the source, arranged in alphabetical order
+
+To place the template on a page, copy the following code:
+<pre>{{OOUappearances
+|people=
+|locations=
+|organizations=
+|media=
+|miscellanea=
+}}</pre>
+
+This should produce the following table:
+{{OOUappearances
+|people=*[[George Lucas]]
+*[[Stewart McKenny]]
+*[[Genndy Tartakovsky]]
+|locations=*[[Fox Studios, Sydney]]
+*[[Skywalker Ranch]]
+*[[Tunisia]]
+|organizations=*[[501st Legion (fan organization)|501st Legion]]
+*[[Mandalorian Mercs]]
+*[[StarWars.com]]
+|media=
+*{{CW|2}}
+*{{Shortstory|story=The Tale of the Aiwha Pod (short story)|sformatted=The Tale of the Aiwha Pod|book=Star Wars: Republic Commando: Prima Official Game Guide}}
+*{{Film|VII}}
+|miscellanea=
+*[[Jedi Engine]]
+}}
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,7 @@
+[[File:SWGWiki-Logo.png|16px|link=w:c:swg:{{{1|{{BASEPAGENAME}}}}}]] [[w:c:swg:{{{1|{{BASEPAGENAME}}}}}|{{{2|{{{1|{{BASEPAGENAME}}}}}}}}]] on the [[w:c:swg:|SWG Wiki]]<noinclude>{{Top|mprot}}
+==Usage==
+<pre>
+{{SWGWiki|url (optional)|text (optional)}}
+</pre>
+"url" is the name of the article on the SWG wiki (the part of the URL right after <code>/wiki/</code>).  If omitted, it defaults to the name of the Wookieepedia article using the template, minus any <code>/Legends</code> suffix.  "text" is what you wish to be the link text.  If omitted, it defaults to the "url" parameter.
+[[Category:Interwiki link templates|{{PAGENAME}}]]</noinclude>

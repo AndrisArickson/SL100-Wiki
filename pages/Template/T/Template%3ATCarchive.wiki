@@ -1,0 +1,11 @@
+<div id="vfd{{#if:{{{section|}}}|-section}}" class="boilerplate metadata darkbackground1" style="padding:0 10px; border:1px solid #AAA; margin:0 auto; background-color:#F3F9FF">This {{#if:{{{section|}}}|section|page}} is an archive of the [[Forum:Trash compactor|Trash compactor]] discussion about the future of Wookieepedia's coverage of the topic(s) listed below, including whether or not to delete or redirect the relevant page(s). '''This {{#if:{{{section|}}}|section|page}} is no longer live.''' Further comments should be made on the relevant talk pages or in the [[Forum:Senate Hall|Senate Hall]] forum rather than here so that this page is preserved as an historic record. The result of the debate was '''{{{1}}}'''. {{{2}}}<noinclude></div>
+
+==Usage==
+If result of the vote was to delete the page:
+<pre>
+{{subst:TCarchive|delete|~~~~}}
+</pre>
+
+To archive only one section, add parameter <code>section=yes</code>.
+
+[[Category:Archive templates|TCArchive]]</noinclude>

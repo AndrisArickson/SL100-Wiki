@@ -1,0 +1,79 @@
+==Instructions==
+<code><nowiki>{{Quote|dialogue|attribution|source}}</nowiki></code>
+
+;<code>dialogue</code>: this is where the actual quote text goes. To create a linebreak, use the following formatting: <code><nowiki>''"<br />"''</nowiki></code> For quotes with more than two speakers, use {{Tl|Dialogue}} instead.
+;<code>attribution</code>: a short description of the speakers, and additional context if needed. Not followed by a full stop and should only contain links if the subjects cannot be linked elsewhere in the article.
+;<code>source</code>: a reference (footnote) formatted the same way as anywhere else in the article. See [[Wookieepedia:Sourcing]] for more help.
+
+For general rules concerning quotations on Wookieepedia, please see the [[Wookieepedia:Manual of Style#Quotes|Manual of Style]].
+
+===Optional parameters===
+;<code>|quotestart=0</code>: removes the quotation sign (") from the start of the quote. Formerly <code>|noquote=1</code>.
+;<code>|quoteend=0</code>:removes the quotation sign (") from the end of the quote. Formerly <code>|trans=1</code>.
+;<code>|translated=1</code>: replaces the standard quotation signs with &laquo; &raquo; for translated quotes. This replaces the {{Tl|Quotetrans}} template.
+;<code>|italics=0</code>: removes the italics around the quote
+;<code>|formatting=0</code>: removes all formatting from the quote; essentially the same as <code>|quotestart=0|quoteend=0|italics=0</code>
+;<code>|audio=AudioFile.flac</code>: adds a link to an audio version of the quote. Do not include the file prefix.
+
+==Example(s)==
+Code: <code><nowiki>{{Quote|This is my personal battle cruiser&amp;hellip;and I did not name it the ''Executor'' for nothing!|Darth Vader|<ref name="DM">''[[Doom Mission]]''</ref>}}</nowiki></code>
+
+Result:
+{{Quote|This is my personal battle cruiser&hellip;and I did not name it the ''Executor'' for nothing!|Darth Vader|<ref name="DM">''[[Doom Mission]]''</ref>}}
+
+===Two speakers===
+Code: <code><nowiki>{{Quote|I'm Ochi of Bestoon!''"<br />"''What the&amp;mdash;?!|Ochi of Bestoon arrives|<ref name="DV15">[[Darth Vader (2020) 15|''Darth Vader'' 15]]</ref>}}</nowiki></code>
+
+Result:
+{{Quote|I'm Ochi of Bestoon!''"<br />"''What the&mdash;?!|Ochi of Bestoon arrives|<ref name="DV15">[[Darth Vader (2020) 15|''Darth Vader'' 15]]</ref>}}
+
+===Audio===
+Code: <code><nowiki>{{Quote|It's a trap!|Admiral Ackbar|audio=ItsATrap-ROTJ.flac|<ref name="ROTJ">{{Film|VI}}</ref>}}</nowiki></code>
+
+Result:
+{{Quote|It's a trap!|Admiral Ackbar|audio=ItsATrap-ROTJ.flac|<ref name="ROTJ">{{Film|VI}}</ref>}}
+
+{{Quote|[[Battle of Endor|It's a trap!]]|Admiral Ackbar|audio=ItsATrap-ROTJ.flac|<ref name="ROTJ">{{Film|VI}}</ref>}}
+
+===External links===
+Code: <code><nowiki>{{Quote|&amp;hellip;my very first professional comic book gig was drawing a Boba Fett story (in Star Wars Tales #18). The job was set up by one of the nicest people you’ll ever meet in the industry, editor Diana Schutz, and when she asked me, “Would you like to draw Star Wars?” I (being an über Star Wars nerd) ALMOST CRIED!|Stewart McKenny, on getting asked to draw Star Wars|<ref name="FB">{{Facebook|username=stewart.mckenny|url=photo.php?fbid=10155193187439189&set=a.306312484188&type=3|name=Stewart McKenny|date=2017-03-10|archiveurl=https://archive.ph/ngLLq}}</ref>}}</nowiki></code>
+
+Result:
+{{Quote|&hellip;my very first professional comic book gig was drawing a Boba Fett story (in Star Wars Tales #18). The job was set up by one of the nicest people you’ll ever meet in the industry, editor Diana Schutz, and when she asked me, “Would you like to draw Star Wars?” I (being an über Star Wars nerd) ALMOST CRIED!|Stewart McKenny, on getting asked to draw Star Wars|<ref name="FB">{{Facebook|username=stewart.mckenny|url=photo.php?fbid=10155193187439189&set=a.306312484188&type=3|name=Stewart McKenny|date=2017-03-10|archiveurl=https://archive.ph/ngLLq}}</ref>}}
+
+===Quote translated to Basic===
+Code: <code><nowiki>{{Quote|There will be no bargain, young Jedi. I shall enjoy watching you die.|translated=1|Jabba the Hutt, to Luke Skywalker|<ref name="ROTJ">{{Film|VI}}</ref>}}</nowiki></code>
+
+Result:
+{{Quote|There will be no bargain, young Jedi. I shall enjoy watching you die.|translated=1|Jabba the Hutt, to Luke Skywalker|<ref name="ROTJ">{{Film|VI}}</ref>}}
+
+===Quote partially translated to Basic===
+Code: <code><nowiki>{{Quote|Shall we commence an aerial bombardment, sir?''"<br />&amp;laquo;''Oh, well that ''does'' sound like the thing to do, doesn't it? Let's get right ''on'' that&amp;hellip;eventually&amp;hellip;''&amp;raquo;|quoteend=0|Gak-Sixtoo and Bokku|<ref name="DarthVader13">[[Darth Vader (2020) 13|''Darth Vader'' 13]]</ref>}}</nowiki></code>
+
+Result:
+{{Quote|Shall we commence an aerial bombardment, sir?''"<br />&laquo;''Oh, well that ''does'' sound like the thing to do, doesn't it? Let's get right ''on'' that&hellip;eventually&hellip;''&raquo;|quoteend=0|Gak-Sixtoo and Bokku|<ref name="DarthVader13">[[Darth Vader (2020) 13|''Darth Vader'' 13]]</ref>}}
+
+==Old formats==
+===Internal links===
+Code: <code><nowiki>{{Quote|This is my personal battle cruiser&amp;hellip;and I did not name it the ''Executor'' for nothing!|Darth Vader|Doom Mission}}</nowiki></code>
+
+Result:
+{{Quote|This is my personal battle cruiser&hellip;and I did not name it the ''Executor'' for nothing!|Darth Vader|Doom Mission}}
+
+===External links===
+Code: <code><nowiki>{{Quote|&amp;hellip;my very first professional comic book gig was drawing a Boba Fett story (in Star Wars Tales #18). The job was set up by one of the nicest people you’ll ever meet in the industry, editor Diana Schutz, and when she asked me, “Would you like to draw Star Wars?” I (being an über Star Wars nerd) ALMOST CRIED!|Stewart McKenny, on getting asked to draw Star Wars|url=https://archive.ph/ngLLq}}</nowiki></code>
+
+Result:
+{{Quote|&hellip;my very first professional comic book gig was drawing a Boba Fett story (in Star Wars Tales #18). The job was set up by one of the nicest people you’ll ever meet in the industry, editor Diana Schutz, and when she asked me, “Would you like to draw Star Wars?” I (being an über Star Wars nerd) ALMOST CRIED!|Stewart McKenny, on getting asked to draw Star Wars|url=https://archive.ph/ngLLq}}
+
+===Categorization===
+*[[:Category:Quotes with obsolete sourcing]]
+
+==Notes and references==
+{{Reflist}}
+
+==See also==
+*[[Wookieepedia:Templates/Quotes]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Quotation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

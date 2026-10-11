@@ -1,0 +1,24 @@
+<onlyinclude>{{#if:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=prefix|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}|<!--
+--><tr><!--
+	--><td colspan="3"><!--
+		--><table class="class-style width-100-pct std-background-liteblue margin-top--5px"><!--
+			--><tr><!--
+				--><td class="class-style min-width-40-px width-40-px" style="min-width:130px;"><!--
+					--><div class="class-style display-inline-block min-width-50-px width-50-px width-min-content margin--10px thumb-no-margin" style="max-width:65px;min-width:65px;width:65px;"><!--
+						-->[[File:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=image|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}}}|link={{{imageLink|}}}|65x65px]]<!--
+					--></div><!--
+					--><span class="class-style letter-spacing-1px line-height-0-8em font-size-0-8em min-width-70-px width-min-content margin-5px text-align-left"><!--
+						-->'''{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=prefix|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}}}'''<!--
+					--></span><!--
+				--></td><!--
+				
+				--><td class="class-style min-width-50-pct letter-spacing-1px line-height-1-1em font-size-0-5em width-max-content text-align-right" style="min-width:55%;font-size: 0.55em;"><!--
+					-->{{#if:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=howGet|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}}}|<!--
+						-->{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=howGet|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}}}<!--
+					-->|?}}<!--
+				--></td><!--
+			--></tr><!--
+		--></table><!--
+	--></td><!--
+--></tr><!--
+-->|}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

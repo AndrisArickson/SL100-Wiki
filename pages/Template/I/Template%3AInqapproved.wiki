@@ -1,0 +1,5 @@
+<span style="color: green;">'''Approved as a [[Wookieepedia:Featured articles|Featured article]] by [[Wookieepedia:Inquisitorius|Inquisitorius]] {{{1}}} '''</span>
+<noinclude>
+==Usage==
+[[Wookieepedia:Inquisitorius|Inqs]] who need to use this template simply need to put <nowiki>{{Inqapproved|~~~~~}}</nowiki> (making sure to use five <nowiki>~</nowiki><nowiki>'</nowiki>s) on an approved [[Wookieepedia:Featured article nominations|FAN]].
+[[Category:Wookieepedia Inquisitorius templates|{{PAGENAME}}]]</noinclude>

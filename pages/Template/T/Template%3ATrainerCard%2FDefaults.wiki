@@ -1,0 +1,134 @@
+<noinclude>{| class="noprint stub plainlinks" style="padding:2px 10px;background:#FFE7CE none repeat scroll 0px 0px;border:1px solid #BBA38A;width:100%;text-align:left;font-size:14px;font-weight:normal;margin:0.5em"
+|-
+|[[File:Cmbox_important.png|link=|40px]] <u>'''Warning'''</u> This template provides values for the [[Template:TrainerCard|TrainerCard]] template.
+|}
+
+[[File:</noinclude><onlyinclude>{{#switch:{{lc:{{{normalizedName|{{TrainerCard/Names|{{{trainerName|<noinclude>Onn Iria</noinclude>}}}}}}}}}}<!--
+-->|bodyguard1|tryken={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Tryken<!--
+	-->|class=Bodyguard<!--
+	-->|image=Uprising_trainer_bodyguard1_portrait_lg.png<!--
+	-->|link=Tryken<!--
+	-->|factionname=Trade Spine League<!--
+	-->|factionlink=Trade Spine League<!--
+	-->|locationname=Carbon Score Cantina<!--
+	-->|locationlink=Carbon Score Cantina<!--
+	-->|locationimage=<!--
+	-->|quote1=Listen hard and you might even learn something.<!--
+	-->|quote2=I'm stunned. You actually learned something.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|bodyguard|bodyguard2|ndaya={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Ndaya<!--
+	-->|class=Bodyguard<!--
+	-->|image=Uprising_npc_ndaya_portrait_mock_lg.png<!--
+	-->|link=Ndaya<!--
+	-->|factionname=Trade Spine League<!--
+	-->|factionlink=Trade Spine League<!--
+	-->|locationname=Longstar Marketplace<!--
+	-->|locationlink=Longstar Marketplace<!--
+	-->|locationimage=Uprising_Trainers_Smuggler_Onn_Iria_Bodyguard_Ndaya.png<!--
+	-->|quote1=I'll teach you how to stay alive and upright, if you've got the credits.<!--
+	-->|quote2=Tougher already. I like that.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|smuggler|smuggler1|onn iria|onn|iria={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Onn Iria<!--
+	-->|class=Smuggler<!--
+	-->|image=Uprising_trainer_smuggler1_portrait_lg.png<!--
+	-->|link=Onn Iria<!--
+	-->|factionname=Trade Spine League<!--
+	-->|factionlink=Trade Spine League<!--
+	-->|locationname=Longstar Marketplace<!--
+	-->|locationlink=Longstar Marketplace<!--
+	-->|locationimage=Uprising_Trainers_Smuggler_Onn_Iria_Bodyguard_Ndaya.png<!--
+	-->|quote1=I'll teach you a few tricks... for a price, of course.<!--
+	-->|quote2=Pleasure doing business with you.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|enforcer|gurnot={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Gurnot<!--
+	-->|class=Enforcer<!--
+	-->|image=Uprising_Gurnot_head01-300x300.png<!--
+	-->|link=Gurnot<!--
+	-->|factionname=Ivax Syndicate<!--
+	-->|factionlink=Ivax Syndicate<!--
+	-->|locationname=Konn-Nevos Spaceport<!--
+	-->|locationlink=Konn-Nevos Spaceport<!--
+	-->|locationimage=Uprising_Enforcer_Trainer_Gurnot.png<!--
+	-->|quote1=Teach punch for credit. More punch, more credit.<!--
+	-->|quote2=Good.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|rebel alliance|rebel guerilla|guerilla|kitomag={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Kitomag<!--
+	-->|class=Rebel Guerilla<!--
+	-->|image=Uprising_Kitomag_head01-300x300.png<!--
+	-->|link=Kitomag<!--
+	-->|factionname=Rebel Alliance<!--
+	-->|factionlink=Alliance_to_Restore_the_Republic<!--
+	-->|locationname=Konn-Nevos Spaceport<!--
+	-->|locationlink=Konn-Nevos Spaceport<!--
+	-->|locationimage=Uprising_Guerilla_Trainer_Kitomag.PNG<!--
+	-->|quote1=I can show you how to stand up to the Empire.<!--
+	-->|quote2=Put it to good use.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|bounty hunter|bountyhunter|bounty hunter1|bountyhunter1|tsskoat={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Tsskoat<!--
+	-->|class=Bounty Hunter<!--
+	-->|image=Uprising_Tsskoat_BountyHunterTrainer_300x300.png<!-- old: Uprising_npc_trainer_bountyhunter_placeholder.png Uprising_trainer_bountyhunter_portrait.png
+	-->|link=Tsskoat<!--
+	-->|factionname=Ivax Syndicate<!--
+	-->|factionlink=Ivax Syndicate<!--
+	-->|locationname=Paradise Atrium<!--
+	-->|locationlink=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Paradise_Atrium<!--
+	-->|locationimage=<!--
+	-->|quote1=Boss says I should show you a few things. Boss gets what boss wants.<!--
+	-->|quote2=Run them down.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|diplomat|diplomat1|elenzia={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Elenzia<!--
+	-->|class=Diplomat<!--
+	-->|image=Elenzia.png<!--
+	-->|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Elenzia<!--
+	-->|factionname=Noble Court<!--
+	-->|factionlink=Noble Court<!--
+	-->|locationname=Apex Overlook<!--
+	-->|locationlink=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Apex_Overlook<!--
+	-->|locationimage=<!--
+	-->|quote1=I can show you methods beyond bloodshed to fight a war.<!--
+	-->|quote2=I trust my knowledge has not fallen on deaf ears.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|saboteur|saboteur1|sixess={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Sixess<!--
+	-->|class=Saboteur<!--
+	-->|image=Trainer_saboteur_portrait_3.png<!--
+	-->|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Sixess<!--
+	-->|factionname=Kouhun<!--
+	-->|factionlink=Kouhun<!--
+	-->|locationname=Shadow Market<!--
+	-->|locationlink=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Shadow_Market<!--
+	-->|locationimage=<!--
+	-->|quote1=I'll teach you to bomb it or break it for the right price.<!--
+	-->|quote2=Now don't go blowing yourself up.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|commando|commando1|mikral={{#switch:{{lc:{{{get|<noinclude>image</noinclude>}}}}}<!--
+	-->|name=Mikral<!--
+	-->|class=Commando<!--
+	-->|image=Uprising_Mikral_CommandoTrainer_300x300.png<!--
+	-->|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Mikral<!--
+	-->|factionname=Rebel Alliance<!--
+	-->|factionlink=Alliance_to_Restore_the_Republic<!--
+	-->|locationname=Shadow Market<!--
+	-->|locationlink=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Shadow_Market<!--
+	-->|locationimage=<!--
+	-->|quote1=With my training you'll put a big crater in the Empire.<!--
+	-->|quote2=Come back anytime for more instruction.<!--
+	-->|#default=<!--
+	-->}}<!--
+-->|#default=<!--
+-->}}</onlyinclude><noinclude>]][[Category:Star Wars: Uprising Super Walkthrough templates]]</noinclude>

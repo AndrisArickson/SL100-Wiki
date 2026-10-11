@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SonyForumsCite
+|image=[[File:Gal-icon.jpg|text-top|x16px|link=Sony]]
+|site_text=the official ''[[Star Wars Galaxies]]'' forums
+|full_url={{{full_url|}}}
+|base_url=http://forums.station.sony.com
+|target_url={{{full_url|{{{url|}}}}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

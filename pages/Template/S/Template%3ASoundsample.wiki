@@ -1,0 +1,19 @@
+{{MediumMB
+|id=sample20s64k
+|border=#C0C090
+|bg=#F8EABA
+|image=[[File:Quote-audio.png|x50px|(audio)]]
+|message=This is {{#switch:{{#explode:{{PAGENAME}}|.|-1}}|flac = an [[wikipedia:FLAC|'''FLAC''']]|mp3 = a [[wikipedia:MP3|'''MP3''']]|wav = a [[wikipedia:WAV|'''WAV''']]|a}} '''sound sample ([[wikipedia:Digital audio|audio]] [[wikipedia:Audio_file_format|file]]) derived from a [[wikipedia:Copyright|copyrighted]] &copy; source''' by the respective '''copyright owner(s)''', such as a [[wikipedia:Film|'''film''']], [[wikipedia:Television_show|'''television program''']], [[Star Wars video games|'''video game''']], [[Wikipedia:Radio drama|'''radio''']]/[[Wikipedia:Radio drama|'''audio dramatization''']], [[wikipedia:Audiobook|'''audiobook''']], or '''some other media/production'''. Audio samples are exhibited on [[Wookieepedia]] under the '''[[wikipedia:Fair use|fair use]] [https://www.copyright.gov/title17/92chap1.html#107 provision]''' of [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:Fair use sounds|{{PAGENAME}}]][[Category:{{#switch:{{#explode:{{PAGENAME}}|.|-1}}|flac = FLAC files|mp3 = MP3 files|wav = WAV files|Audio files with unrecognized extensions}}|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Fair use sounds]]
+*[[:Category:FLAC files]] {{C|Categorises audio files in the [[wikipedia:FLAC|FLAC file format]] only}}
+*[[:Category:MP3 files]] {{C|Categorises audio files in the [[wikipedia:MP3|MP3 file format]] only}}
+*[[:Category:WAV files]] {{C|Categorises audio files in the [[wikipedia:WAV|WAV file format]] only}}
+*[[:Category:Audio files with unrecognized extensions]] {{C|categorises all other [[wikipedia:Audio_file_format|audio file formats]] or types}}
+
+==See also==
+*[[Wookieepedia:Files#File formats|Wookieepedia:Files&ndash;File formats]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

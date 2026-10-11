@@ -1,0 +1,24 @@
+==Usage==
+<pre>{{LEGOCite|theme|num|name}}</pre>
+
+===Required parameters===
+*{{Para|num}} the unique item number for the set.
+*{{Para|name}} the name of the set, as used on [[w:c:lego|Brickipedia]].
+
+==Optional parameters==
+*{{Para|theme}} the first parameter takes a number of unique abbreviations for each subthem. They are as follows:
+:*<code>micro</code> for Microfighters
+:*<code>ucs</code> for [[LEGO Ultimate Collector's Series]]
+:*<code>gift</code> for Promotional/Gift Set
+*{{Para|fmt}} the formatting (such as italicization) for the set's name
+
+==Example(s)==
+<code><nowiki>{{LEGOCite|num=7180|name=B-Wing at Rebel Control Center}}</nowiki></code>
+
+Results in:
+
+{{LEGOCite|num=7180|name=B-Wing at Rebel Control Center}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]][[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

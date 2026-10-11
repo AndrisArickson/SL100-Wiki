@@ -1,0 +1,9 @@
+<onlyinclude><!--
+	-->{{#if:{{{itemName|<noinclude>1</noinclude>}}}|<!--
+		-->{{#switch:{{lc:{{{itemType|<noinclude>component</noinclude>}}}}}<!--
+			-->|equipment|weapon|armor={{UprisingRecipe/Equipment|name={{{itemName|<noinclude>Standard Guerilla Helmet</noinclude>}}}|size={{{itemSize|{{{size|<noinclude>exsmall</noinclude>}}}}}}|max={{{itemMax|<noinclude>1</noinclude>}}}}}<!--
+			-->|material|component|crystal<!--
+			-->|#default={{UprisingRecipe/Component|name={{{itemName|<noinclude>Kiax</noinclude>}}}|size={{{itemSize|{{{size|<noinclude>exsmall</noinclude>}}}}}}|level={{{itemLevel|<noinclude>4</noinclude>}}}|num={{{itemNum|}}}}}<!--
+		-->}}<!--
+	-->|}}<!--
+--></onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

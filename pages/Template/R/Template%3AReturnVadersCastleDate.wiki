@@ -1,0 +1,10 @@
+[[Star Wars Adventures: Return to Vader's Castle 5|''Star Wars Adventures: Return to Vader's Castle'' 5]] depicts the rescue of Thom Hudd from his imprisonment on Fortress Vader, which began during the events of ''[[Star Wars Adventures: Tales from Vader's Castle]]''. According to {{SW|url=news/tales-from-the-death-star-interview|text=Cavan Scott on the Ghoulactic Horrors of ''Tales from the Death Star''}}, ''Tales from Vader's Castle'' takes place around the events of ''[[Rogue One: A Star Wars Story]]'', which immediately precedes ''[[Star Wars: Episode IV A New Hope]]'', the ending of which is dated to [[0 ABY]] by ''[[Star Wars: Timelines]]''. Since the events of ''Rogue One'' and ''A New Hope'' occur in the span of days, and [[Star Wars Adventures: Ghosts of Vader's Castle 3|''Star Wars Adventures: Ghosts of Vader's Castle'' 3]] mentions that Thom Hudd was imprisoned on Fortress Vader for months, the frame stories of ''[[Star Wars Adventures: Return to Vader's Castle]]'', which span together in a very short period of time, must all occur on 0 ABY at the earliest.<noinclude>
+
+==Usage==
+<code><nowiki>{{ReturnVadersCastleDate}}</nowiki></code>
+
+'''OR'''
+
+<nowiki>The events of [[ISSUE]] take place in [[YEAR]] according to the reasoning [[:Template:ReturnVadersCastle|here]].</nowiki>
+
+[[Category:Canon dating citation templates]]</noinclude>

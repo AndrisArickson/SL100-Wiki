@@ -1,0 +1,14 @@
+{| class="Talk-Notice headerbackground" style="background:#FBB7B7; border:3px solid #F00; padding:0.2em; margin:0 auto 3px auto; font-size:95%"
+| style="padding:0 4px" | [[File:Dialog-error.svg|30px]]
+| <span style="font-size:medium;">'''User warning: Rejection of [[Canon|''Star Wars'' canon]].'''</span>
+
+'''{{{1}}}.'''
+
+While you may reject this in your personal '''[[fanon]]''', Wookieepedia documents what is [[Wookieepedia:Canon policy|'''canon''']]. If you continue to attempt to contradict this canonical fact, you may be blocked by an administrator.
+
+Your input might be more welcome at the [[w:c:swfanon:Main Page|Star Wars Fanon Wiki]].{{<includeonly>subst:</includeonly>#if:{{{2|}}}|<p>{{{2}}}</p>|}}
+|}<noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-rejection|</nowiki>{{Var|message}}<nowiki>|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+[[Category:User talk templates|Msg-rejection]]</noinclude>

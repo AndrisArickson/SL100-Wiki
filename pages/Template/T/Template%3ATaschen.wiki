@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Taschen
+|image=[[File:TASCHEN-Favicon.svg|text-top|x16px|link=https://www.taschen.com]]
+|site_text=[[TASCHEN]]'s [https://www.taschen.com official website]
+|base_url=https://{{{subdomain|www}}}.taschen.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

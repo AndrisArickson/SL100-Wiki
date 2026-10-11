@@ -1,0 +1,21 @@
+{{Iumb
+| id = SpoilerFilm
+| bg = #daa520
+| fg = #315499
+| image = [[File:The-Mandalorian-and-Grogu-final-logo.png|x80px]]
+| caption = Hey. Never touch the buttons.
+| message = '''Warning!''' This page contains [[Wookieepedia:Spoilers|'''spoilers''']] from '''''[[Star Wars: The Mandalorian and Grogu]]'''''. Caution is advised.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with spoilers|{{PAGENAME}}]]}}</includeonly>
+<noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>SpoilerFilm}}</code>
+
+This is the spoiler template for subjects originating from major movie releases such as the [[sequel trilogy]] and ''[[Star Wars Anthology Series]]'' films, as well as their directly related products such as novelizations. Subjects ''not'' originating from these sources continue to use {{Tl|Spoiler}}. This means that subjects such as [[Rey Skywalker|Rey]], who features in [[Star Wars: Episode IX The Rise of Skywalker|''Star Wars'': Episode IX ''The Rise of Skywalker'']] but does not originate from that movie, should use {{Tl|Spoiler}} instead of {{Tl|SpoilerFilm}}.
+
+Per the [[Wookieepedia:Mofferences/March 6, 2016|March 2016 Mofference]], the spoiler period for major movie releases is '''two months''' instead of the normal one month. See [[Wookieepedia:Spoilers]] for details. Any content related to ''[[Star Wars: The Mandalorian and Grogu]]'' will be marked with this template until July 22, 2026.
+
+==Categorization==
+*[[:Category:Articles with spoilers]]
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

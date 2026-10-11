@@ -1,0 +1,10 @@
+{{WebCite|url=https://www.thepopverse.com/live-star-wars-stories-from-galaxy-far-away-san-diego-comic-con-2024-high-republic|text=Visit a Galaxy Far, Far Away with our Star Wars liveblog direct from San Diego Comic-Con 2024!|author=[https://www.thepopverse.com/authors/joshua-lapin-bertone Joshua Lapin-Bertone]|date=2024-07-19|work=[https://www.thepopverse.com Popverse]|quote=We're beginning our journey three years after the Battle of Yavin|archivedate=20250122122917}} dates the events of {{#ifeq:{{PAGENAME}}|Star Wars Outlaws|''Star Wars Outlaws''|''[[Star Wars Outlaws]]''}} to [[3 ABY]].{{#if:{{{APF|}}}|&#32;Per narrative director [[Navid Khavari]]'s [[:File:Outlaws-NavidKhavari-Instagram.png|comments]], the game's "A Pirate's Fortune" [[Wikipedia:Downloadable content{{!}}DLC]] chronologically occurs immediately after the end of ''Outlaws''{{'s}} main events, meaning the DLC must have taken place around that [[Standard year|year]].|}}<noinclude>
+
+==Usage==
+<code><nowiki>{{OutlawsDate}}</nowiki></code>
+
+===A Pirate's Fortune===
+:"A Pirate's Fortune" occurs after the main game's events, so this should be used instead:
+<code><nowiki>{{OutlawsDate|APF=1}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

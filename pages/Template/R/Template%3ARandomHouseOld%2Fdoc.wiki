@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[Wikipedia:Penguin Random House|Random House's]] now-defunct [https://www.randomhouse.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{RandomHouseOld|subdomain=|url=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.randomhouse.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{Para|subdomain}} For subdomains of <code><nowiki>randomhouse.com</nowiki></code>, such as <code><nowiki>global.penguinrandomhouse.com</nowiki></code>, the subdomain can be specified, for example, <code>|subdomain=global</code>. Defaults to <code>www</code> if left blank.
+*{{Para|date}} Date the page was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|domain}} For international sites
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{RandomHouseOld|url=catalog/display.pperl?isbn=9780345509024|text=Star Wars: Clone Wars Gambit: Stealth}}</nowiki></code>
+
+Results in:
+
+{{RandomHouseOld|url=catalog/display.pperl?isbn=9780345509024|text=Star Wars: Clone Wars Gambit: Stealth}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

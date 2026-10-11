@@ -1,0 +1,14 @@
+{{ooumb
+| id = Rankname
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = {{#if:{{{legends|}}}|The title of this article is the [[Military rank/Legends|rank]] and/or affiliation of an individual.|The title of this article is the rank and/or affiliation of an individual.}}
+| message = {{#if:{{{legends|}}}|This [[Star Wars Legends|''Star Wars'' Legends]] article is about an individual who is known only by [[Military rank/Legends|rank]] and/or affiliation.|This article is about an individual who is known only by rank or affiliation.}}
+}}<includeonly>[[Category:Articles known by rank or affiliation|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+For articles considered [[Canon|non-canon]] in the [[Star Wars Legends|''Star Wars'' Legends]] continuity but not part of the current [[canon]] continuity, include the parameter "legends" with any value. Example: <nowiki>{{Rankname|legends=1}}</nowiki>.
+
+==Categorization==
+*[[:Category:Articles known by rank or affiliation]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Panini
+|image=[[File:Panini-Template.svg|baseline|x12px|link=https://{{#if:{{{shop|}}}|paninishop.de|{{#ifeq:{{{domain|}}}|mx|tiendapanini.mx|panini.{{{domain|co.uk}}}}}}}]]
+|site_text=[[Panini]]'s [https://{{#if:{{{shop|}}}|paninishop.de|{{#ifeq:{{{domain|}}}|mx|tiendapanini.mx|panini.{{{domain|co.uk}}}}}}} official website]
+|base_url=https://{{{subdomain|www}}}.{{#if:{{{shop|}}}|paninishop.de|{{#ifeq:{{{domain|}}}|mx|tiendapanini.mx|panini.{{{domain|co.uk}}}}}}}
+|target_url={{{url|}}}
+|lang={{#if:{{{shop|}}}|de|{{{lang|}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>
+{{#if:{{{uk|}}}|[[Category:Convert]]|}}

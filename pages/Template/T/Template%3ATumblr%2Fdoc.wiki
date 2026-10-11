@@ -1,0 +1,38 @@
+This template is to be used for citing [[Wikipedia:Tumblr|Tumblr]] posts.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Tumblr|subdomain=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|subdomain}} Subdomain of the URL of the author's [[Wikipedia:Tumblr|Tumblr]] blog such as the <code><nowiki>jasonfry</nowiki></code> subdomain of the URL <code><nowiki>https://jasonfry.tumblr.com/</nowiki></code> used in the below examples. However, in some cases the username is part of the path and not the subdomain, and the {{Para|username}} parameter must be used instead.
+*{{Para|name}} Name of the author's Tumblr blog.
+
+===Optional parameters===
+*{{Para|date}} Date the Tumblr post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Relevant quote from the Tumblr post. Users are encouraged to utilize this optional field in the template whenever possible, especially when citing canonical information, as Tumblr posts are subject to permanent removal at any time.
+*{{Para|url}} URL of the Tumblr post, minus the domain (and subdomain) name. (For example, if citing the post <code><nowiki>http://jasonfry.tumblr.com/post/24614452839/eg-to-warfare-endnotes-pt-10</nowiki></code>, only put <code><nowiki>post/24614452839/eg-to-warfare-endnotes-pt-10</nowiki></code> in this field, without including <code><nowiki>http://jasonfry.tumblr.com/</nowiki></code>).
+*{{Para|text}} Name of the Tumblr post being cited.
+For use in External links sections and similar, leave <tt>url</tt> and <tt>text</tt> empty.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Tumblr|subdomain=jasonfry|url=post/24614452839/eg-to-warfare-endnotes-pt-10|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 10|date=2012-06-07|quote=A relevant quotation from the post.|archivedate=20170915004051}}</nowiki></code>
+
+Results in:
+
+{{Tumblr|subdomain=jasonfry|url=post/24614452839/eg-to-warfare-endnotes-pt-10|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 10|date=2012-06-07|quote=A relevant quotation from the post.|archivedate=20170915004051}}
+
+<hr />
+<code><nowiki>{{Tumblr|subdomain=jasonfry|url=post/24614452839/eg-to-warfare-endnotes-pt-10|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 10|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Tumblr|subdomain=jasonfry|url=post/24614452839/eg-to-warfare-endnotes-pt-10|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 10|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]

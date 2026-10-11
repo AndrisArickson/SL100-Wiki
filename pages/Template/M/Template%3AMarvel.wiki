@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Marvel
+|image=[[File:Marvel-TemplateLogo.svg|text-top|x16px|link=https://www.marvel.com]]
+|site_text=[[Marvel Comics]]' [https://www.marvel.com official website]
+|base_url=https://{{{subdomain|www}}}.marvel.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

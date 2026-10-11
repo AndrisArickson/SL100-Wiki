@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=PenguinComics
+|image=[[File:PenguinRandomHouseComicsRetail.png|text-top|x16px|link=https://prhcomics.com]]
+|site_text=[[Wikipedia:Penguin Random House|Penguin Random House's]] [https://prhcomics.com Comics Retail website]
+|base_url=https://{{{subdomain|www}}}.{{#switch:{{{domain|}}}|uk = penguin.co.uk|au = penguin.com.au|#default = prhcomics.com}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

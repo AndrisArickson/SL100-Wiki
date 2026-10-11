@@ -1,0 +1,14 @@
+Please do not remove messages from talk pages, including your own. All messages are [[Wookieepedia:Talk page policy|part of the public record]] and must remain visible. If you do not want a message to remain on your talk page, you may archive it on a subpage of this page provided that a link to the archive page is placed at the top of this page. Thank you for your cooperation. {{{1|}}}<!-- Template:Msg-talkarchive --><noinclude>
+==Description==
+Alternative to {{Tl|Msg-talkr}} for use when a user has removed messages from their own talk page.
+
+==Usage==
+Type <code><nowiki>{{subst:Msg-talka|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+
+==See also==
+*{{Tl|Msg-talk}}
+*{{Tl|Msg-talkc}}
+*{{Tl|Msg-talkr}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

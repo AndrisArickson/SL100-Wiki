@@ -1,0 +1,91 @@
+<infobox theme="astro">
+	<image source="image"></image>
+    <title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Astrographical information</header>
+        <data source="region"><label>Region</label></data>		
+        <data source="sector"><label>Sector</label><format>{{#ifeq:{{lc:{{{sector|}}}}}|none||{{#ifeq:{{lc:{{{sector|}}}}}|n/a||{{{sector|}}}}}}}</format></data>
+        <data source="coordinates"><label>Grid square</label></data>
+        <data source="quadrants"><label>Quadrants/regions</label></data>
+        <data source="systems"><label>Systems</label></data>
+        <data source="suns"><label>Suns</label></data>
+        <data source="otherplanets"><label>Other planets</label></data>
+        <data source="moons"><label>Moons</label></data>
+        <data source="stations"><label>Space stations</label></data>
+        <data source="asteroids"><label>Asteroids</label></data>	
+        <data source="comets"><label>Comets</label></data>	
+        <data source="nebulae"><label>Nebulae</label></data>
+        <data source="routes"><label>Trade routes</label></data>
+        <data source="other"><label>Other objects</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Societal information</header>
+        <data source="species"><label>Native species</label></data>	
+        <data source="imports"><label>Major imports</label></data>	
+        <data source="exports"><label>Major exports</label></data>        
+        <data source="affiliation"><label>Affiliation</label></data>	
+    </group>
+    <group layout="stacked">
+    	<header>Cluster battles</header>
+        <data source="b1"><label>{{{battles1}}}</label></data>
+        <data source="b2"><label>{{{battles2}}}</label></data>
+        <data source="b3"><label>{{{battles3}}}</label></data>
+        <data source="b4"><label>{{{battles4}}}</label></data>
+        <data source="b5"><label>{{{battles5}}}</label></data>
+        <data source="b6"><label>{{{battles6}}}</label></data>
+        <data source="b7"><label>{{{battles7}}}</label></data>
+        <data source="b8"><label>{{{battles8}}}</label></data>
+        <data source="b9"><label>{{{battles9}}}</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:StarCluster|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|region|sector|coordinates|systems|suns|otherplanets|moons|stations|asteroids|comets|nebulae|other|routes|quadrants|species|imports|exports|affiliation|battles1|b1|battles2|b2|battles3|b3|battles4|b4|battles5|b5|battles6|b6|battles7|b7|battles8|b8|battles9|b9|optional=unlisted|ignore=name}}<!--
+-->{{#if:{{NAMESPACE}}{{{no_grid_check|}}}||{{#ifeq:{{lc:{{{coordinates|}}}}}|canon-only|[[Category:Legends locations with canon-only grid coordinates]]|{{#invoke:PlanetGridCheck|main|region={{{region|}}}|sector={{{sector|}}}|system=N/A|unlisted={{{unlisted|}}}}}}}}}<noinclude>[[category:Astrographical infobox templates]]
+
+==Usage instructions==
+{{AstroCategoryDoc}}
+
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre><nowiki>{{StarCluster
+|image=
+|name=
+|region=
+|sector=
+|coordinates=
+|quadrants=
+|systems=
+|suns=
+|otherplanets=
+|moons=
+|stations=
+|asteroids=
+|comets=
+|nebulae=
+|routes=
+|other=
+|species=
+|imports=
+|exports=
+|affiliation=
+|battles1=
+|b1=
+|battles2=
+|b2=
+|battles3=
+|b3=
+|battles4=
+|b4=
+|battles5=
+|b5=
+|battles6=
+|b6=
+|battles7=
+|b7=
+|battles8=
+|b8=
+|battles9=
+|b9=
+}}</nowiki></pre></noinclude>

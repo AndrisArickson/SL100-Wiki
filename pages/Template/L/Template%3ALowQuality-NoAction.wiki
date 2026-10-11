@@ -1,0 +1,9 @@
+{{SmallMB
+|image=[[File:Information_icon.svg|35px]]
+|message=This image is of '''low quality''', however, it is at its highest quality based on what is currently available. This notice template tracks such images in the [[:Category:Low quality images|low quality images category]].
+}}<includeonly>{{SpecialCategorizer|[[Category:Low quality images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Low quality images]]
+
+[[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,17 @@
+{{nav start|Resources for maintenance<br />and collaboration|float=right}}
+{{nav heading|[[:Category:Category maintenance|Categories]]}}
+{{nav text|[[:Category:Categoryless|Categoryless articles]] {{C|[[Special:Uncategorizedpages|Uncategorized pages]]}}<br />[[:Category:Overpopulated categories|Overpopulated]] · [[:Category:Underpopulated categories|Underpopulated]]}}
+{{nav heading|[[:Category:Articles in need of cleanup|Cleanup]]}}
+{{nav text|[[:Category:We're Doomed!|Doomed articles]] · [[:Category:Articles with an excess of redlinks|Excessive redlinks]]<br />[[:Category:Articles with incorrect tense|Incorrect tense]] · [[:Category:Articles undergoing major edits|Ongoing major edits]]<br />[[:Category:Articles needing out-of-universe cleanup|Out-of-universe articles written in-universe]]<br />[[:Category:Articles that need plot summary|Plot summaries needed]]}}
+{{nav heading|Controversy}}
+{{nav text|[[:Category:Articles with accuracy disputes|Accuracy]] · [[:Category:Articles with NPOV disputes|Neutrality]]<br />[[:Category:Articles with possible fanon|Possible fanon]] · [[:Category:Articles in need of verification|Verification needed]]}}
+{{nav heading|[[Wookieepedia:Deletion policy|Deletion]] {{C|[[Special:Log/delete|Log]]}}}}
+{{nav text|[[:Category:Candidates for speedy deletion|Speedy deletion]] · [[Forum:Trash compactor|Trash compactor]]}}
+{{nav heading|[[:Category:Disambiguation pages|Disambiguation]]}}
+{{nav text|[[:Category:Articles to be merged|Articles to merge]] · [[:Category:Articles to be split|Articles to split]]}}
+{{nav heading|[[Wookieepedia:Files|Images]]}}
+{{nav text|[[:Category:Covers|Covers]] · [[Wookieepedia:Gallery of requested articles|Images missing articles]]<br />[[Wookieepedia:Image requests|Image requests]]}}
+{{nav heading|Polishing}}
+{{nav text|[[:Category:Articles to be expanded|Expand an article]] · [[Wookieepedia:Featured article nominations|Featured article nominations]]<br />[[Wookieepedia:Stub|Stubs]] {{C|[[Special:Shortpages|Short pages]]}} {{C|[[Special:Wantedpages|Wanted pages]]}} · [[Wookieepedia:Templates|Templates]]}}
+{{nav heading|[[Wookieepedia:WookieeProjects|WookieeProjects]]}}
+{{nav end|edit=Resources}}<noinclude>[[Category:Navigation templates|{{PAGENAME}}]]</noinclude>

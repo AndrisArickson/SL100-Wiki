@@ -1,0 +1,5 @@
+{{#ifexpr: {{REVISIONID}} > 4322847
+    | <span style="color:red;">''The template {{Tl|Ref}} has been deprecated since January 11, 2013 and is retained only for old article revisions. If this page is a current revision, please remove the template.''</span>
+    | {{{1|}}}
+}}<noinclude>{{Deprecated|plain references; formatting previously applied by this template is now handled through [[MediaWiki:Common.css]]}}
+__EXPECTUNUSEDTEMPLATE__</noinclude>

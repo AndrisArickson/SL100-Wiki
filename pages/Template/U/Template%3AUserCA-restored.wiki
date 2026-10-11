@@ -1,0 +1,16 @@
+{{Userbox|#736326|#C2B170|[[File:{{#if:{{{oldicon|}}}|CA-Icon-old.svg|CA-Icon.svg}}|40px]]|This user helped restore the article [[{{{1}}}|'''{{{2|{{{1}}}}}}''']] to [[Wookieepedia:Comprehensive articles|Comprehensive status]].}}<includeonly>{{SpecialCategorizer|[[Category:Wookieepedians who have restored articles to Comprehensive status|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserCA-restored|</nowiki>{{Var|article}}|{{Var|formatted name}}}}</code> into your user page.
+
+===Required parameters===
+#{{Para||{{Var|article}}}} The article name.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|formatted name}}}} The display name of the article.</li>
+#{{Para|oldicon}} A flag to use the [[:File:CA-Icon-retro.svg|old Comprehensive article icon]] when set to <code>1</code>.
+
+==Categorization==
+*[[:Category:Wookieepedians who have restored articles to Comprehensive status]]
+
+[[Category:Wiki userboxes|CA-restored]]</noinclude>

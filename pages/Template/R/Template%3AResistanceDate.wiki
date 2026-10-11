@@ -1,0 +1,152 @@
+<includeonly><onlyinclude>{{ResistanceDate/Reasoning|{{{1|{{{season|}}}}}}|{{{2|{{{episode|}}}}}}}}</onlyinclude></includeonly>
+
+----
+
+==Usage==
+<pre><nowiki>{{ResistanceDate|season|episode}}</nowiki></pre>, where {{Para|season}} is 1, 2, "shorts," or "SWA" (without quotes), and {{Para|episode}} is an optional episode number or comic title.
+
+==Output==
+===Just season===
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{ResistanceDate|shorts}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts}}
+|-
+|<pre><nowiki>{{ResistanceDate|1}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1}}
+|-
+|<pre><nowiki>{{ResistanceDate|2}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2}}
+|-
+|<pre><nowiki>{{ResistanceDate|AxTagrin}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|AxTagrin}}
+|-
+|<pre><nowiki>{{ResistanceDate|TheLostBook}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|TheLostBook}}
+|}
+
+===Season and episode===
+====Season 1====
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{ResistanceDate|1|1}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|1}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|2}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|2}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|3}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|3}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|4}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|4}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|5}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|5}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|6}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|6}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|7}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|7}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|8}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|8}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|9}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|9}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|10}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|10}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|11}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|11}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|12}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|12}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|13}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|13}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|14}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|14}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|15}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|15}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|16}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|16}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|17}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|17}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|18}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|18}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|19}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|19}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|20}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|20}}
+|-
+|<pre><nowiki>{{ResistanceDate|1|21}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|1|21}}
+|}
+
+====Season 2====
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{ResistanceDate|2|1}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|1}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|2}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|2}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|3}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|3}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|4}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|4}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|5}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|5}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|6}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|6}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|7}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|7}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|8}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|8}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|9}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|9}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|10}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|10}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|11}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|11}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|12}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|12}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|13}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|13}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|14}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|14}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|15}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|15}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|16}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|16}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|17}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|17}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|18}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|18}}
+|-
+|<pre><nowiki>{{ResistanceDate|2|19}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|2|19}}
+|}
+
+====Shorts====
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|1}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|1}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|2}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|2}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|3}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|3}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|4}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|4}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|5}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|5}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|6}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|6}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|7}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|7}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|8}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|8}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|9}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|9}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|10}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|10}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|11}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|11}}
+|-
+|<pre><nowiki>{{ResistanceDate|shorts|12}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|shorts|12}}
+|}
+
+===''Star Wars Adventures'' comics===
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{ResistanceDate|SWA|All Aces Battle Royale}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|SWA|All Aces Battle Royale}}
+|-
+|<pre><nowiki>{{ResistanceDate|SWA|Sector 7-E}}</nowiki></pre> &#32; || &#32; {{ResistanceDate|SWA|Sector 7-E}}
+|}
+[[Category:Canon television dating citation templates]]

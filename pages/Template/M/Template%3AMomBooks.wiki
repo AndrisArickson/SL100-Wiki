@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=MomBooks
+|image=[[File:MomBooks.svg|text-top|x16px|link=https://{{{subdomain|www}}}.mombooks.{{{domain|com}}}|class=darkmodeinvert]]
+|site_text=[https://www.mombooks.com Michael O'Mara Books' official website]
+|base_url=https://{{{subdomain|www}}}.mombooks.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

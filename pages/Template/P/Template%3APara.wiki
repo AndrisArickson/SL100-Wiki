@@ -1,0 +1,35 @@
+<code class="nowrap" style="{{SAFESUBST:<noinclude />#if:{{{plain|}}}|border: none; background-color: inherit;}} {{SAFESUBST:<noinclude />#if:{{{plain|}}}{{{mxt|}}}{{{green|}}}{{{!mxt|}}}{{{red|}}}|color: {{SAFESUBST:<noinclude />#if:{{{mxt|}}}{{{green|}}}|#006400|{{SAFESUBST:<noinclude />#if:{{{!mxt|}}}{{{red|}}}|#8B0000|inherit}}}};}} {{SAFESUBST:<noinclude />#if:{{{style|}}}|{{{style}}}}}">&#124;{{SAFESUBST:<noinclude />#if:{{{1|}}}|{{{1}}}&#61;}}{{{2|}}}</code><noinclude>
+
+== Usage ==
+This template is for giving examples of [[Wikipedia:Wikipedia:Template messages|template]] parameter source code (useful in template documentation and talk page discussions of template code).
+
+It must have at least one or two parameters itself. The first parameter is the name of the example parameter to display (this may be ''empty'', but it must be ''present''). The second (optional) parameter is a value for the first example parameter; or, if the first parameter is empty, the second illustrates an example [[Wikipedia:Help:Templates#Parameters|unnamed parameter]] (which in some cases may serve as a pre-defined parameter that takes no <code>{{!}}{{=}}{{var|value}}</code> after it, e.g. the {{para||section}} in {{tlx|Refimprove|section}}).
+
+=== Examples ===
+{| class="wikitable"
+! Code
+! Result
+! Notes
+|-
+ | {{tlx|para|name}}
+ | {{para|name}}
+ | 
+|-
+ | {{tlx|para|title|The Oxford English Dictionary}}
+ | {{para|title|The Oxford English Dictionary}}
+ | 
+|-
+ | {{tlx|para|2=<span style="font-size:1pt;">&nbsp;</span>|3=section}}
+ | {{para||section}}
+ | For [[Wikipedia:Help:Templates#Parameters|unnamed parameters]]; note empty first parameter in the code
+|-
+ | <code><nowiki>{{para|{{var|parameter}}|{{var|value}}}}</nowiki></code>
+ | {{para|{{var|parameter}}|{{var|value}}}}
+ | 
+|}
+When using literal, pre-specified parameter names and values, simply provide them (as in the first through third examples above). When illustrating hypothetical/example parameter names, or variable or user-definable values, use something like {{tlx|var|parameter}}.
+
+See [[Wikipedia:Template:Para]] for more. This is a copy of that.
+
+[[Category:Internal link templates]]
+</noinclude>

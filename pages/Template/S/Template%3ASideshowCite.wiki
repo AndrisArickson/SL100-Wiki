@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:ToyCitation|main|template=SideshowCite
+|image=[[File:SideshowLogo2021.svg|text-top|x16px|link=Sideshow Collectibles|class=darkmodeinvert]]
+|set={{{company|Sideshow Collectibles}}}
+|stext={{{stext|{{#if:{{{company|}}}|{{{company|{{{set|}}}}}}|{{{set}}}}}}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{altlink|}}}
+|baseUrl=https://www.sideshow.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

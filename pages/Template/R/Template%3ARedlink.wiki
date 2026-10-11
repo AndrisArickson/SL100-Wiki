@@ -1,0 +1,18 @@
+{{Iumb
+| id = Redlink
+| bg = #CDC7C9
+| image = [[File:Obiwanarchives.jpg|130px]]
+| caption = Perhaps the archives are incomplete.
+| message = This article contains an excess of redlinks.
+|comment = Attention is requested to create new articles from these links. {{#ifeq:{{{1|}}}|hide||Click "[show]" in the "[[#Credits|Credits]]" and "[[#Appearances|Appearances]]" sections if redlinks are not immediately visible.}} Please remove this message when finished.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with an excess of redlinks|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>{{Top|fprot}}
+
+==Usage==
+This template is to be used for articles with '''''more than 5 redlinks'''''. Remember to click "[show]" in the "Credits" and "Appearances" sections if redlinks aren't immediately visible.
+
+For articles that ''do not'' detail real-life media: <code><nowiki>{{Redlink|hide}}</nowiki></code>
+
+==Categorization==
+*[[:Category:Articles with an excess of redlinks]]
+
+[[Category:Maintenance templates]]</noinclude>

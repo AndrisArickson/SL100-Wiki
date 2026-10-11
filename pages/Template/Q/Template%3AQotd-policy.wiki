@@ -1,0 +1,13 @@
+<small>&mdash;''Vote removed as per QOTD [[Wookieepedia:Voting eligibility policy|policy decision]]'' </small><noinclude>{{Top|sprot}}
+{{clear}}
+==Usage instructions==
+<pre><nowiki>{{qotd-policy}}</nowiki></pre>
+
+==Example==
+====Code====
+<code><nowiki>{{qotd-policy}}</nowiki></code>
+
+====Result====
+{{qotd-policy}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

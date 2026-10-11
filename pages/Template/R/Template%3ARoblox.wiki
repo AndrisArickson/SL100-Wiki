@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Roblox
+|image=[[File:Roblox-Favicon.svg|text-top|x16px|link=https://www.roblox.com]]
+|site_text=''[[Roblox]]''{{'s}} [https://{{{subdomain|www}}}.roblox.com official website]
+|base_url=https://{{{subdomain|www}}}.roblox.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

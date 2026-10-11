@@ -1,0 +1,15 @@
+{{Userbox|#00F|#EEE|[[File:Star Wars Style A poster 1977.jpg|60px]]|This user {{#if:{{{variant|}}}||first}} saw [[Star Wars: Episode IV A New Hope|'''''Star Wars''''']] {{#if:{{{variant|}}}|{{#expr:({{CURRENTYEAR}})-(1977)-(({{CURRENTMONTH}})<(4)or({{CURRENTMONTH}})=(4)and({{CURRENTDAY}})<(25))}} years ago&hellip;|back in [[1977]].}}}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{User1977}}</nowiki></code> into your user page. Include {{Para|variant|1}} for an alternative version.
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <code><nowiki>{{User1977}}</nowiki></code> || {{User 1977}}
+|-
+| <code><nowiki>{{User1977|variant=1}}</nowiki></code> || {{User 1977|variant=1}}
+|}
+
+[[Category:Star Wars userboxes|1977]]</noinclude>

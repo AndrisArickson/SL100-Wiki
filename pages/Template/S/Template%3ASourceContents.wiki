@@ -1,0 +1,9 @@
+<div class="cardgame hidable start-hidden">
+*{{{parent|{{{issue|{{{1|}}}}}}}}} <span class="hidable-button" style="font-size: 10px; font-weight: normal;"></span>
+<div class="cardgame-cards hidable-content">
+{{{contents|{{{2|{{{1|}}}}}}}}}
+</div></div><includeonly>{{#if:{{{parent|{{{issue|{{{1|}}}}}}}}}||[[Category:Template usages with missing parameters]]}}{{#if:{{{contents|{{{2|{{{1|}}}}}}}}}||[[Category:Template usages with missing parameters]]}}{{#if:{{{parent|{{{issue|}}}}}}||[[Category:RefContents usages without named parameters]]}}</includeonly><noinclude>
+
+{{Documentation}}
+
+[[Category:Templates]]</noinclude>

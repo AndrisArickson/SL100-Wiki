@@ -1,0 +1,39 @@
+<noinclude>This template is a compilation of the various evidence that has been gathered about the dates for ''[[Star Wars: The Old Republic]]''. This should be used for dating the various TOR articles.
+
+</noinclude>
+{{#switch:{{{1|}}}
+  |0 = {{TOR_dates/1}}
+  |1 = {{TOR_dates/1}}
+  |2 = {{TOR_dates/2}}
+  |Treaty = {{TOR_dates/Treaty}}
+  |3 = {{TOR_dates/3}}
+  |Belsavis = {{TOR_dates/3}} This article assumes that [[Belsavis/Legends|Belsavis]], as the start of Act III, takes place around the end of 3641 BBY.
+  |Voss = {{TOR_dates/3}} This article assumes that [[Voss]], as the middle of Act III, takes place around the start of 3640 BBY.
+  |4 = {{TOR_dates/4}}
+
+  |#default = {{TORweb|url=community/showthread.php?p=5365704|text=STAR WARS: The Old Republic - Question ! :) - Page 3}} places ''Star Wars: The Old Republic'' about ten to twelve [[Standard year/Legends|years]] after the signing of the [[Treaty of Coruscant]], which is dated to [[3653 BBY]] by ''[[Star Wars: The Old Republic Encyclopedia]]''. ''[[The Old Republic—The Lost Suns 2]]'' takes place ten years after the treaty, one [[Standard week/Legends|week]] after the [[Mission to Nar Shaddaa (Desolator crisis)|mission to Nar Shaddaa]], and around the [[Time/Legends|time]] of the [[SpecForce Incident]]. Since the mission and the incident are respectively part of Act I of the [[Hero of Tython|Jedi Knight]] and [[Meteor (Havoc Squad)|Republic Trooper]]'s storylines, and the Trooper's Act I occurs concurrent to Act I of the [[Voidhound|Smuggler]] storyline, the general events of Act I for all classes can be assumed to occur in 3643 BBY.
+
+The Prologue for each class immediately precedes Act I, and ''The Old Republic Encyclopedia'' places the [[Battle of Ilum]] at the end of Act III in 3640 BBY. Assuming that [[in-universe]] chronology of the ''Star Wars: The Old Republic'' events roughly aligns with the release of story content in real-life as with {{TORweb|url=community/showthread.php?p=9852711#edit9852711|text=Forums: Dear Story Team, What Year Are We Currently In?}}, the Act III Epilogue must take place near the end of 3640 [[Galactic Standard Calendar|BBY]] since it was the chronologically latest story of the ''The Old Republic'' base [[Star Wars video games|game]], which was released toward the end of [[2011]]. Therefore, assuming that ''The Old Republic'' takes place over the course of three years per the former of the two aforementioned [https://swtor.com swtor.com] posts, Act I takes place near the end of 3643 BBY.
+<includeonly>[[Category:TOR dates usages without act argument]]</includeonly>
+}}<noinclude>
+
+==Usages==
+*Prologue / Act I: <nowiki>{{TOR_dates|1}}</nowiki>
+**{{TOR_dates/1}}
+*Act II: <nowiki>{{TOR_dates|2}}</nowiki>
+**{{TOR_dates/2}}
+*Treaty of Coruscant Collapse: <nowiki>{{TOR_dates|Treaty}}</nowiki>
+**{{TOR_dates/Treaty}}
+*General Act III: <nowiki>{{TOR_dates|3}}</nowiki>
+**{{TOR_dates/3}}
+*Belsavis: Early Act III: <nowiki>{{TOR_dates|Belsavis}}</nowiki>
+**{{TOR_dates/3}} This article assumes that [[Belsavis/Legends|Belsavis]], as the start of Act III, takes place around the end of 3641 BBY.
+*Voss: Early Act III: <nowiki>{{TOR_dates|Voss}}</nowiki>
+**{{TOR_dates/3}} This article assumes that [[Voss]], as the middle of Act III, takes place around the start of 3640 BBY.
+*Act III Finale & Epilogue: <nowiki>{{TOR_dates|4}}</nowiki>
+**{{TOR_dates/4}}
+
+For ''The Old Republic'' content released beyond the original 1.0 patch, please use [[:Template:TOR_updates]].
+
+[[Category:Star Wars: The Old Republic dating citation templates| ]]
+</noinclude>

@@ -1,0 +1,7 @@
+<small>(Appears as point(s) on [[The galaxy|galactic]] map(s){{#if:{{{screen|}}}|&nbsp;on [[viewscreen]]&#59; based on correspondence between the map and maps in other sources|{{#if:{{{unnamed|}}}|&#59; based on correspondence between the map and maps in other sources|}}}})</small><noinclude>
+
+*<nowiki>{{MapPoint}}</nowiki> --> {{MapPoint}}
+*<nowiki>{{MapPoint|unnamed=1}}</nowiki> --> {{MapPoint|unnamed=1}}
+*<nowiki>{{MapPoint|screen=1}}</nowiki> --> {{MapPoint|screen=1}}
+
+[[Category:Appearance templates]]</noinclude>

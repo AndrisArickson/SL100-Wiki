@@ -1,0 +1,41 @@
+<includeonly>[[File:Top_Trumps_logo.svg|text-top|x16px|link=Top Trumps]]&#32;<span class="plainlinks">{{HideParanthetical|Top Trumps: {{{set|}}}|{{{sformat|Top Trumps: ''{{{set|}}}''}}}|italics=1}}&#32;{{#if:{{{cardname|}}}
+  |<small>(Card: {{#if:{{{link|}}}
+    |[{{{link}}} {{{cardname}}}]
+    |{{{cardname}}}
+  }}){{#if:{{{link|}}}
+    |{{ArchiveAccess
+      |template_name=TopTrumps
+      |full_url={{{link|}}}
+      |target={{{link|}}}
+      |nobackup={{{nobackup|}}}
+      |archiveurl={{{archiveurl|}}}
+      |archivedate={{{archivedate|}}}
+      |archivefile={{{archivefile|}}}
+      |use_lua_subpage=1
+      |par=1
+    }}
+    |}}</small>
+  |}}</span></includeonly><noinclude>
+This template is to be used for citing sets and cards from the [[Top Trumps]] card game.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{TopTrumps|set=|sformat=|cardname=|link=|nobackup=|archivedate=|archiveurl=}}</nowiki></code>
+
+===Required parameters===
+*'''set''': Name of the card set, minus the Top Trumps: prefix
+*'''cardname''': Name of the individual card.
+*'''link''': Full URL of the card's page on a website such as [https://www.tcdb.com Trading Card Database].
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/TopTrumps]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*'''sformat''': Formatted name of the set.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Image==
+[[File:Top Trumps logo.svg|thumb|left|Not an orphan.]]
+
+[[Category:Card game citation templates|Top Trumps]]</noinclude>

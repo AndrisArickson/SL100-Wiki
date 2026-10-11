@@ -1,0 +1,13 @@
+<div class="noprint" style="float: left; clear: left; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; text-align: left; font-size: 90%;"><div style="float:left; margin-left: 5px; height:15px;">[[File:Musical eighth notes.svg|none|15px|Audio]]</div><div style="margin-left:25px">'''[[:Media:{{{1}}}|{{#if:{{{2|}}}|{{{2}}}|Listen to a preview}}]]''' [[:File:{{{1}}}|(info)]] &middot; [[Wikipedia:Help:Media|(help)]]<br />&mdash;{{#if:{{{3|}}}|{{{3}}}|}}</div></div><br><br><noinclude>{{Clear}}
+
+==Usage==
+<code><nowiki>{{</nowiki>Music1|''file_name''|''optional_title''|''optional_description''<nowiki>}}</nowiki></code>
+
+==Example==
+{{Music1|Arena_Theme_section_1.flac|Arena Theme|[[London Symphony Orchestra]]}}
+
+==See also==
+*[[Wookieepedia:Templates/Audio]]
+
+[[Category:Internal link templates]]
+[[Category:Media templates]]</noinclude>

@@ -1,0 +1,31 @@
+<div id="{{{id|{{lc:{{<includeonly>subst:</includeonly>PAGENAMEE}}}}}}}" class="messagebox noprint darkbackground1" style="border:1px solid {{{border1|#AAA}}}; padding:3px; background:{{{bg1|#EEF}}}">
+{| class="transparent-background" style="width:100%; border:1px solid {{{border2|#CCC}}}; border-collapse:collapse; background:{{{bg2|#FFF}}}"
+| style="padding:5px; text-align:center" | {{{image|}}}
+| style="padding:3px 5px 3px 0px; width:100%; {{{messagestyle|}}}" | {{{message|}}}
+|}
+</div><noinclude>
+__NOTOC__
+==Description==
+A '''small message box''', generally used as a notice inside the {{Tl|Information}} template on a file page.
+
+==Usage==
+<pre>
+{{SmallMB
+|image=
+|message=
+}}
+</pre>
+
+===Required parameters===
+*{{Para|image}} The image to include on the left-hand side of the box, such as <code><nowiki>[[File:Information icon.svg|40px]]</nowiki></code>.
+*{{Para|message}} The written message on the right-hand side of the box.
+
+===Optional parameters===
+*{{Para|id}} The [[wikipedia:HTML|HTML]] <code>id</code> attribute of the box, which defaults to the template name in lowercase.
+*{{Para|border1}} The outer border color, default <code style="padding:0 5px; border:1px solid #AAA; border-radius:3px">#AAA</code>.
+*{{Para|border2}} The inner border color, default <code style="padding:0 5px; border:1px solid #CCC">#CCC</code>.
+*{{Para|bg1}} The outer background color, default <code style="padding:0 5px; background:#EEF; color:#000">#EEF</code> in light mode.
+*{{Para|bg2}} The inner background color, default <code style="padding:0 5px; background:#FFF; color:#000">#FFF</code> in light mode.
+*{{Para|messagestyle}} Any additional [[wikipedia:CSS|CSS]] styling for the message text, such as <code><nowiki>text-align:center</nowiki></code>.
+
+[[Category:Utility templates]]</noinclude>

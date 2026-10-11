@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:ToyCitation|main|template=SEGACite
+|image=[[File:Sega.svg|text-bottom|x18px|link=Sega]]
+|set={{{set}}}
+|stext={{{text|}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{url|}}}
+|baseUrl=https://segaplaza.jp
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

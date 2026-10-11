@@ -1,0 +1,66 @@
+{{Userbox|#999|#CCC|{{#switch:{{{1|}}}
+ |1|I = I
+ |2|II = II
+ |3|III = III
+ |4|IV = IV
+ |5|V = V
+ |6|VI = VI
+ |7|VII = VII
+ |8|VIII = VIII
+ |9|IX = IX
+ |#default = {{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Invalid Film parameter arguments]]|?}}
+ }}
+ |This user's favorite ''[[Star Wars]]'' film is {{#switch:{{{1|}}}
+ |1|I = [[Star Wars: Episode I The Phantom Menace|'''''The Phantom Menace''''']]
+ |2|II = [[Star Wars: Episode II Attack of the Clones|'''''Attack of the Clones''''']]
+ |3|III = [[Star Wars: Episode III Revenge of the Sith|'''''Revenge of the Sith''''']]
+ |4|IV = [[Star Wars: Episode IV A New Hope|'''''A New Hope''''']]
+ |5|V = [[Star Wars: Episode V The Empire Strikes Back|'''''The Empire Strikes Back''''']]
+ |6|VI = [[Star Wars: Episode VI Return of the Jedi|'''''Return of the Jedi''''']]
+ |7|VII = [[Star Wars: Episode VII The Force Awakens|'''''The Force Awakens''''']]
+ |8|VIII = [[Star Wars: Episode VIII The Last Jedi|'''''The Last Jedi''''']]
+ |9|IX = [[Star Wars: Episode IX The Rise of Skywalker|'''''The Rise of Skywalker''''']]
+ |#default = {{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Invalid Film parameter arguments]]|unknown}}
+ }}.|style1=padding:0 3px; font-size:21pt; font-family:Garamond, serif; line-height:normal; color:#FFF
+}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserFilm|{{Var|number}}<nowiki>}}</nowiki></code> into your user page, where <code>{{Var|number}}</code> is either a Roman numeral I&ndash;IX or an Arabic number 1&ndash;9. There is no difference between using a Roman numeral such as <code>IV</code> or its Arabic numeral equivalent <code>4</code>.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="background:none; border:none">{{UserFilm|I}}</pre>
+| {{UserFilm|I}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|II}}</pre>
+| {{UserFilm|II}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|III}}</pre>
+| {{UserFilm|III}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|IV}}</pre>
+| {{UserFilm|IV}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|V}}</pre>
+| {{UserFilm|V}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|VI}}</pre>
+| {{UserFilm|VI}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|VII}}</pre>
+| {{UserFilm|VII}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|VIII}}</pre>
+| {{UserFilm|VIII}}
+|-
+| <pre style="background:none; border:none">{{UserFilm|IX}}</pre>
+| {{UserFilm|IX}}
+|}
+
+==See also==
+*[[Template:Film]]
+
+[[Category:Star Wars userboxes|Film]]</noinclude>

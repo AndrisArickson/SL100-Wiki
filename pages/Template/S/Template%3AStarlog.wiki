@@ -1,0 +1,13 @@
+[[File:StarlogLogo.png|text-top|x16px|link=Starlog (magazine)]]&#32;"{{HideParanthetical|{{{2|}}}|{{{3|}}}}}"&#32;&mdash;&#32;[[Starlog (magazine)|''Starlog'' {{{1}}}]]{{#if: {{{link|}}} |&#32;{{C|[{{{link|}}} web archive]}} }}<noinclude>
+==Usage==
+Place the following code on the page and replace the "issue number" and "story name" with the appropriate information.
+ <nowiki>{{</nowiki>Starlog|''ISSUE NUMBER''|STORY NAME|''FORMATTED NAME'' (optional)|LINK}}
+
+===Example===
+<code><nowiki>{{Starlog|337|Starlog (magazine)|New Hopes}}</nowiki></code>
+
+Results in:
+
+{{Starlog|337|Starlog (magazine)|New Hopes}}
+
+[[Category:Unlicensed magazine citation templates]]</noinclude>

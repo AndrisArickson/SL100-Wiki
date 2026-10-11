@@ -1,0 +1,31 @@
+{| width="100%" style="background:transparent"
+| class="transparent-background" valign="top" width="50%" style="padding:5px; background:#{{#switch:{{{current_type|}}}
+  |FA=FAFAD2
+  |GA=ADDFAD
+  |CA=FAB09E
+  |Other=EFC9FF
+  |FFA=999
+  |FGA=999
+  |FCA=999
+  |999
+}}; border:1px solid #AAA; border-radius:6px; margin-bottom:4px"|
+{{#switch:{{{current_type|}}}
+  |FA=[[File:FA-Icon-retro.svg|right|30px]]
+  |GA=[[File:GA-Icon-retro.svg|right|30px]]
+  |CA=[[File:CA-Icon-retro.svg|right|30px]]
+  |Other=[[File:Atticon.png|right|30px]]
+  |FFA=[[File:FA-Former-retro.svg|right|30px]]
+  |FGA=[[File:GA-Former-retro.svg|right|30px]]
+  |FCA=[[File:CA-Former-retro.svg|right]]
+  |
+}}
+=={{#if:{{{link|}}}|{{{link|}}}|[[{{{article|}}}]]}}==
+{{#if:{{{article|}}}|
+'''{{C|Taken to {{{type|}}} by {{U|{{{user|}}}}}{{#if:{{{date|}}}|&nbsp;on [[Wookieepedia:{{#switch:{{{type|}}}|FA=Featured|GA=Good|CA=Comprehensive|}} article nominations/{{#if:{{{nompage|}}}|{{{nompage}}}|{{{article}}}}}|{{{date}}}]]}}{{#if:{{{current|}}}|, later promoted to {{{current|}}}{{#if:{{{current_user|}}}|&nbsp;by {{U|{{{current_user|}}}}}|}}|{{#if:{{{former|}}}{{{date2|}}}|, later removed|}}}}}}''' {{#if:{{{outside|}}}|'''{{C|outside of project}}'''|}}
+{{#if:{{{date2|}}}|<br />'''{{C|Restored to {{{type|}}} by {{U|{{{user|}}}}}{{#if:{{{date|}}}|&nbsp;on [[Wookieepedia:{{#switch:{{{type|}}}|FA=Featured|GA=Good|CA=Comprehensive|}} article nominations/{{#if:{{{nompage2|}}}|{{{nompage2}}}|{{{article}}}}}|{{{date2}}}]]}}}}'''|}}
+{{#if:{{{image|}}}|[[{{{image}}}|150px|left|link={{{article}}}]]|}}
+{{#if:{{{quote|}}}
+|{{{quote|}}}
+|}}{{{intro}}} {{Rm|{{{article}}}}}
+|NO ARTICLE DEFINED}}
+|}

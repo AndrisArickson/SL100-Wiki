@@ -1,0 +1,6 @@
+The events of {{#ifeq:{{PAGENAME}}|The Living Force|''The Living Force''|''[[The Living Force]]''}} take place one [[Standard year|year]] before the events of {{Film|I}} per {{InsiderCite|224|Launchpad}}, which equates to [[33 BBY]] per ''[[Star Wars: Timelines]]''.<noinclude>
+
+==Usage==
+<code><nowiki>{{LivingForceDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

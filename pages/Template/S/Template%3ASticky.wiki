@@ -1,0 +1,7 @@
+<includeonly>[[Category:Sticky threads]]</includeonly><noinclude>[[:Category:Sticky threads]]
+
+==Purpose and usage==
+This template is for use in making a [[Forum:Senate Hall|Senate Hall]], [[Forum:Consensus track|Consensus track]], or [[WP:TOR]] forum thread "sticky"; i.e. causing it to display at the top of the thread list no matter how old it is. It only does this in the Senate Hall, Consensus track, and WP:TOR forums, not in any other forum. Additionally, use of this template on a thread in any forum that is automatically archived by {{U|JocastaBot}} (currently the Senate Hall, Knowledge Bank, and Administrator's noticeboard) will cause the bot to ignore the thread and never archive it, no matter how inactive it is. It works by adding a category to the page; it has no visible output. To use, place the code <code><nowiki>{{Sticky}}</nowiki></code> immediately after and on the same line as <code><nowiki>{{Shtop}}</nowiki></code>. This should be very sparingly used, generally for threads that should remain visible for long periods of time or be easy to find but which are in danger of falling off the first page due to periods of inactivity.
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

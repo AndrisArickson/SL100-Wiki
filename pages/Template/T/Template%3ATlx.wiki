@@ -1,0 +1,99 @@
+{{[[{{ns:Template}}:{{{1|Tlx}}}|{{{1|Tlx}}}]]{{#if:{{{2|}}}|<code>&#124;</code>{{{2}}}}}{{#if:{{{3|}}}|<code>&#124;</code>{{{3}}}}}{{#if:{{{4|}}}|<code>&#124;</code>{{{4}}}}}{{#if:{{{5|}}}|<code>&#124;</code>''etc.''}}}}<noinclude>{{Top|fprot}}
+----
+Usage: {{Tlx|Tlx|template name|first parameter|...}}<br />
+Up to three parameters for the specified template are displayed as placeholders, more parameters are shown as "<code>|</code>''etc.''", for details see below.
+
+==Documentation==
+{&#123;[[Template:{{PAGENAME}}|{{PAGENAME}}]]&#125;}
+is a generalization of {{Tlx|Tl|x}}, {{Tlx|Tlp|x|y}}, etc. with arguably better readable
+output. This depends on the browser, but too narrow
+uses of "'''{'''", "'''|'''", "'''}'''" in conjunction
+with links can be hard to read.
+
+===Usage===
+:<code>{&#123;{{PAGENAME}}|template name&#125;}</code>
+:<code>{&#123;{{PAGENAME}}|template name|param&#125;}</code>
+:<code>{&#123;{{PAGENAME}}|template name|1|2|3&#125;}</code>
+:<code>{&#123;{{PAGENAME}}|template name|1|2|3&amp;#124;more&#125;}</code>
+:<code>{&#123;{{PAGENAME}}|template name|param&amp;#61;value&#125;}</code>
+''Up to three placeholders for parameters of the specified template''
+
+===Example===
+{| border="1" cellpadding="4" class="wikitable"
+! Code
+! Result
+! Remark
+|-
+|{{Tlx|Tlx|Anchor}}
+|{{Tlx|Anchor}}
+||&#160;
+|-
+|{{Tlx|Tlx|Anchor|one}}
+|{{Tlx|Anchor|one}}
+||&#160;
+|-
+|{{Tlx|Tlx|Anchor|one|two}}
+|{{Tlx|Anchor|one|two}}
+||&#160;
+|-
+|{{Tlx|Tlx|Anchor|1<code>&#124;</code>2<code>&#124;</code>3}}
+|{{Tlx|Anchor|1|2|3}}
+||&#160;
+|-
+|{{Tlx|Tlx|Anchor|1<code>&#124;</code>2<code>&#124;</code>3|4}}
+|{{Tlx|Anchor|1|2|3|4}}
+|up to 3 parameters
+|-
+|{{Tlx|Tlx|Anchor|1<code>&#124;</code>2<code>&#124;</code>3&amp;#124;4}}
+|{{Tlx|Anchor|1|2|3&#124;4}}
+|align="right"|<code>&amp;#124;</code> for more
+|-
+|{{Tlx|Tlx|Anchor|x&#61;u}}
+|{{Tlx|Anchor|x=u}}
+|'''=''' won't work
+|-
+|{{Tlx|Tlx|Anchor|x&amp;#61;u}}
+|{{Tlx|Anchor|x&#61;u}}
+|align="right"|<code>&amp;#61;</code> is okay
+|-
+|{{Tlx|Tlx|Anchor|&lt;nowiki&gt;x&#61;u&lt;/nowiki&gt;}}
+|{{Tlx|Anchor|<nowiki>x=u</nowiki>}}
+|align="right"|sticky nowiki is okay
+|-
+|{{Tlx|Tlx|Anchor|&#160;|two}}
+|{{Tlx|Anchor| |two}}
+|empty won't work
+|-
+|{{Tlx|Tlx|Anchor|&amp;#32;|two}}
+|{{Tlx|Anchor|&#32;|two}}
+|align="right"|<code>&amp;#32;</code> is okay
+|-
+|{{Tlx|Tlx|Anchor|&amp;nbsp;|two}}
+|{{Tlx|Anchor|&#32;|two}}
+|align="right"|<code>&amp;nbsp;</code> is okay
+|-
+|{{Tlx|Tlx|Anchor| &amp;#124; two}}
+|{{Tlx|Anchor| &#124; two}}
+|align="right"|<code>&amp;#124;</code> is okay
+|-
+|| {{Tlx|Tlx|Anchor| {&#123;!&#125;} two}}
+|| {{Tlx|Anchor| {{!}} two}}
+|align="right"|<nowiki>{{!}}</nowiki> is dubious
+|-
+|| {{Tlx|Tlx|Anchor|<nowiki>2=</nowiki>|<nowiki>3=two</nowiki>}}
+|| {{Tlx|Anchor|2=|3=two}}
+|empty really doesn't work
+|-
+|| {{Tlx|Tlx|Anchor|<nowiki>2=one</nowiki>|two}}
+|| {{Tlx|Anchor||two}}
+|'''two''' clobbers '''2=one'''
+|-
+|| {{Tlx|Tlx|Anchor|<nowiki>3=two</nowiki>|<nowiki>2=one</nowiki>}}
+|| {{Tlx|Anchor|3=two|2=one}}
+|align="right"|right to left okay
+|}
+
+
+{{Wikipedia|Template:Tlx}}
+[[Category:Internal link templates]]
+</noinclude>

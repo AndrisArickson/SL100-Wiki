@@ -1,0 +1,31 @@
+This template is designed for the specific use of content that is released exclusively through the [[StarWarsKids.com|''Star Wars'' Kids]] YouTube channel. Videos that are otherwise embedded within a larger webpage should use [[Template:SWKids]].
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{SWKidsYouTube|video=|text=|date=|quote=|parameter=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Date the Youtube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} To include a quote. 
+*{{Para|parameter}} To create a link to a channel's playlist, use <code>|parameter=playlist?list</code>.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{SWKidsYouTube|bb3vhWXClTY|Every Ship in the Star Wars Sequel Trilogy &amp;#124; Star Wars By the Numbers}}</nowiki></code>
+
+Results in:
+{{SWKidsYouTube|bb3vhWXClTY|Every Ship in the Star Wars Sequel Trilogy &#124; Star Wars By the Numbers}}
+
+{{BucketsList|JyX9pS6q6m4|#1.4: "Fuel for the Fire" &#124; Star Wars Resistance|sw_url=video/buckets-list-fuel-for-the-fire-star-wars-resistance|nolive=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

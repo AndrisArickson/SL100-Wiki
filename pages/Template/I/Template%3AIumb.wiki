@@ -1,0 +1,28 @@
+<div id="{{{id|{{<includeonly>subst:</includeonly>PAGENAMEE}}}}}" class="mobile-hide headertemplate messagebox noprint iumb hidable" style="background: {{{bg|#aaa}}}; color: {{{fg|#000}}}; border-radius:10px">
+{| cellpadding="0px" cellspacing="0"
+|-
+| class="iumb-table-container" | 
+{| cellpadding="0" cellspacing="0" class="hidable-content"
+|-
+| class="iumb-icon" | {{{image|}}}
+| class="iumb-main" |
+<span class="iumb-caption">{{{caption|}}}</span>
+
+<span class="iumb-message">{{{message|}}}</span>
+
+<span class="iumb-comment">{{{comment|}}}</span>
+|}
+| class="iumb-hidable-button" | <span class="hidable-button"></span>
+|}
+</div><noinclude>
+
+==Usage==
+<pre><nowiki>
+{{iumb
+| image = [[File:Filename.ext|Npx]]
+| caption = 
+| message = 
+| comment =
+}}
+</nowiki></pre>[[Category:Utility templates]]
+</noinclude>

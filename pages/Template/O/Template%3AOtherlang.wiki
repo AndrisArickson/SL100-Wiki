@@ -1,0 +1,21 @@
+<small>({{#switch:{{{1|}}}
+ |#default = {{{1}}}
+ |fr = [[Wikipedia:French language|French]]
+ |ja = [[Wikipedia:Japanese language|Japanese]]
+}} version)</small><noinclude>
+
+==Parameters==
+<nowiki>{{Otherlang|lang code}}</nowiki>
+
+==Examples==
+Code: <code><nowiki>{{Otherlang|fr}}</nowiki></code>
+
+Result: 
+{{Otherlang|fr}}
+
+Code: <code><nowiki>{{Otherlang|ja}}</nowiki></code>
+
+Result: 
+{{Otherlang|ja}}
+
+[[Category:Appearance templates]]</noinclude>

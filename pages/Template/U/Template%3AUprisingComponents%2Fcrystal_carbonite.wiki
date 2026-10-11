@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal carbonite|title=Carbonite Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Carbonite<!--
+-->|type=Crystal<!--
+-->|subtype=Utility<!--
+-->|element=None<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=These crystals provide a utility benefit to equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedcarbonite|cracked carbonite|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_01.png<!--
+			-->|credits|value|price=262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=300<!--
+			-->|howget|howtoget=<div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth and Bespin</div><div>Found on Opportunity Missions on Hoth and Bespin</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|chipped|chippedcarbonite|chipped carbonite|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<div>Combine 6 Cracked Carbonite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth and Bespin</div><div>Found on Opportunity Missions on Hoth and Bespin</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dullcarbonite|dull carbonite|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Combine 7 Chipped Carbonite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth and Bespin</div><div>Found on Opportunity Missions on Hoth and Bespin</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedcarbonite|faceted carbonite|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine 9 Dull Carbonite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth and Bespin</div><div>Found on Opportunity Missions on Hoth and Bespin</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedcarbonite|polished carbonite|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Carbonite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Hoth and Bespin</div><div>Found on Opportunity Missions on Hoth and Bespin</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantcarbonite|brilliant carbonite|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<div>Combine 10 Polished Carbonite</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristinecarbonite|pristine carbonite|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Carbonite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Utility_06.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine ? Chipped Carbonite</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Carbonite<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Utility_06.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Carbonite}}
+__NOTOC__
+</noinclude>

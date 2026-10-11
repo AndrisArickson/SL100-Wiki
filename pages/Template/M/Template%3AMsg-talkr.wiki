@@ -1,0 +1,11 @@
+Please do not remove messages from talk pages or other discussion pages. All messages are [[Wookieepedia:Talk page policy|part of the public record]] and must remain visible. Thanks! {{{1|}}}<!-- Template:Msg-talkr--><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-talkr|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+
+==See also==
+*{{Tl|Msg-talka}}
+*{{Tl|Msg-talkc}}
+*{{Tl|Msg-talkr}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,3 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<includeonly>{{#invoke:UprisingPageFooter|main}}</includeonly>}}</onlyinclude><noinclude>
+[[Category:Footer Templates for Star Wars: Uprising]]
+</noinclude>

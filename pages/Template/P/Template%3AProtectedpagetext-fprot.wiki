@@ -1,0 +1,7 @@
+<table id="protected" class="article-editintro darkbackground1" style="padding: 5px; width: 100%; border: 2px solid #2f6fab; background:#FFFFFF; -moz-border-radius: 6px; margin-bottom: 4px; clear: left; font-size:110%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Padlockicon3.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><big>'''This page is currently [[Wookieepedia:Protection policy|fully protected]] so that only [[Wookieepedia:Administrators|administrators]] can modify it.'''</big><br /><br />While most Wookieepedia pages are editable by anyone, page protection is sometimes necessary to prevent vandalism and other forms of disruption. 
+*Important policy pages, templates, and files are permanently protected to avoid disruption.
+*'''[[{{TALKPAGENAME}}|Post on the talk page]]''' if you find something that needs to be changed in the meantime. You may also use the [[Forum:Administrators' noticeboard|Administrators' noticeboard]] or ask in <code>#admin-help</code> on [[Wookieepedia:Discord|Discord]].
+</td></tr></table>
+<noinclude>{{Top|fprot}}
+
+[[Category:Administrative templates]]</noinclude>

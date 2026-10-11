@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Reddit
+|image=[[File:RedditLogo.svg|text-top|x16px|link=https://www.reddit.com]]
+|site_text=[[Wikipedia:Reddit|Reddit]]
+|base_url=https://{{{subdomain|www}}}.reddit.com
+|target_url={{{url|}}}
+|text={{{thread|}}}
+|author={{{user|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

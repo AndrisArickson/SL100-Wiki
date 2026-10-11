@@ -1,0 +1,53 @@
+{{MilitaryUnit
+|image=[[File:RexandCompany-Imdb.png]]
+|name=<code><name></code>
+|type=<code><type></code>
+|formation=<code><formation></code>
+|commander=<code><commander></code>
+|second=<code><second></code>
+|staff=<code>&lt;staff></code>
+|subunit=<code><subunit></code>
+|strength=<code><strength></code>
+|vehicles=<code><vehicles></code>
+|headquarters=<code><headquarters></code>
+|location=<code><location></code>
+|formed=<code><formed></code>
+|founded=<code><founded></code>
+|fragmented=<code><fragmented></code>
+|reorganized=<code><reorganized></code>
+|dissolved=<code><dissolved></code>
+|restored=<code><restored></code>
+|affiliation=<code><affiliation></code>}}
+
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+
+<pre><nowiki>{{Top|}}
+{{MilitaryUnit
+|image=
+|name=
+|type=
+|formation=
+|commander=
+|second=
+|staff=
+|subunit=
+|strength=
+|vehicles=
+|headquarters=
+|location=
+|formed=
+|founded=
+|fragmented=
+|reorganized=
+|dissolved=
+|restored=
+|affiliation=
+}}</nowiki></pre>
+
+{{Interlang
+|tr=Şablon:Askeri Birim
+}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Group infobox templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,9 @@
+{{iumb
+|bg=#eee
+|image=[[File:Craft chewie sockpuppet.jpg|80px]]
+|message='''This user is a confirmed puppet master of one or more [[Wookieepedia:Sockpuppetry|abusive sockpuppets]] as determined by [[w:Help:CheckUser|CheckUser]].'''
+|comment=The use of abusive sockpuppets on Wookieepedia is prohibited; sockpuppets are subject to immediate [[Wookieepedia:Blocking policy|blocking]], and the use of sockpuppets to evade a block will result in the block duration being extended or made permanent.<br />'''Admin tools:''' [[Special:Contributions/{{PAGENAME}}|contribs]] - [[Special:Block/{{PAGENAME}}|modify block]] - [{{fullurl:Special:Log/block|page=User:{{PAGENAMEE}}}} block log]
+}}<noinclude>
+
+[[Category:Administrative templates|{{PAGENAME}}]]
+[[Category:User page templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,29 @@
+==Usage==
+<code><nowiki>{{</nowiki>Spoiler|''product's article title''|''formatted name''|time=}}</code>
+
+#Insert template at the top of the page, immediately below the {{Tl|Top}} and disambiguation templates, if they are on the page. {{C|see the [[Wookieepedia:Layout Guide#Spoiler tag|Layout Guide]]}}
+#Replace "''product's article title''" with the title of the article for the product containing the spoiler and "''formatted name''" with the formatted name of the product.
+#*For multiple products, more pairs of the ''product's article title''|''formatted name'' parameters may be added to the end of the template.
+#*If the formatted name is omitted, the first parameter will be used in its place. If both parameters are omitted, the template will display the text shown at the top of this page.
+#*If the product is a [https://www.grammarly.com/blog/quotation-marks-in-titles short work] that requires quotes around it instead of italics, use <code>quote1=1</code> for the first short-work product, <code>quote2=1</code> for the second, and so on as needed.
+#The spoiler's expiry date {{C|see the [[Wookieepedia:Spoilers|spoiler policy]]}} must be added to the ''time'' field using any standard date format (e.g. ''YYYY-MM-DD''). Then, on that day, the article will be listed on [[:Category:Articles with expired spoiler notices]] to make removing/updating expired spoiler templates more convenient for editors. Also, between 11:00 UTC and 11:59 UTC that day, {{U|C4-DE Bot}} will automatically either remove the entire template or, where applicable, update it according to the sources listed there.
+
+==Current themed variants==
+#The code <code>thr=1</code> can be used for a [[Star Wars: The High Republic|''The High Republic'']]&ndash;themed flair.
+#An input of ''[[Star Wars Outlaws]]'' or ''[[Star Wars Zero Company]]'' automatically generates a custom look for the template.
+
+==Examples==
+*'''<code><nowiki>{{Spoiler|Life Day Treasury|''Life Day Treasury''}}</nowiki></code>''' produces the message: <small>"Warning! This page contains spoilers from [[Life Day Treasury|''Life Day Treasury'']]. Caution is advised."</small>
+*'''<code><nowiki>{{Spoiler|Bounty Lost|quote1=1}}</nowiki></code>''' produces the message: <small>"Warning! This page contains spoilers from "[[Bounty Lost]]." Caution is advised."</small>
+*:In both instances, the article will be listed in [[:Category:Articles with spoilers]].
+
+*'''<code><nowiki>{{Spoiler|Bounty Lost|quote1=1|time=2021-07-26}}</nowiki></code>''' produces the message: <small>"Warning! This page contains spoilers from "[[Bounty Lost]]." Caution is advised."</small>
+*:The article will be listed in [[:Category:Articles with spoilers]], and on the specified date, the article will be listed in [[:Category:Articles with expired spoiler notices]]. The template should then be removed.
+
+*'''<code><nowiki>{{Spoiler|Star Wars (2020) 14|''Star Wars'' 14|Darth Vader (2020) 13|''Darth Vader'' 13|Bounty Lost|Bounty Lost|quote3=1|time=2021-07-17}}</nowiki></code>''' produces the message: <small>"Warning! This page contains spoilers from [[Star Wars (2020) 14|''Star Wars'' 14]], [[Darth Vader (2020) 13|''Darth Vader'' 13]], and "[[Bounty Lost|Bounty Lost]]." Caution is advised."</small>
+*:The article will be listed in [[:Category:Articles with spoilers]], and on the specified date, the article will be listed in [[:Category:Articles with expired spoiler notices]]. '''|Star Wars (2020) 14|''Star Wars'' 14''' should then be removed from the template, and '''2021-07-17''' should be changed to one month after the release of [[Darth Vader (2020) 13|''Darth Vader'' 13]], i.e. '''2021-07-24'''.
+
+==Categorization==
+*[[:Category:Articles with spoilers]]
+
+<includeonly>[[Category:Header templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

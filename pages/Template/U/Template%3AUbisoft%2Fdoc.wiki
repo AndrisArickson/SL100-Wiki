@@ -1,0 +1,43 @@
+This template is to be used for citing individual pages on [[Ubisoft]]' [https://ubisoft.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Ubisoft|subdomain=|url=|text=|int=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.ubisoft.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL.
+*{{Para|int}} [[Wookieepedia]] link, if available.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Standard use
+
+<code><nowiki>{{Ubisoft|url=en-us/game/star-wars/outlaws/news-updates/6xTzeAfu46dyxcRLbXvlGg/new-content-available-in-the-star-wars-outlaws-fankit|text=New content available in the Star Wars Outlaws Fankit!}}</nowiki></code>
+
+Results in:
+
+{{Ubisoft|url=en-us/game/star-wars/outlaws/news-updates/6xTzeAfu46dyxcRLbXvlGg/new-content-available-in-the-star-wars-outlaws-fankit|text=New content available in the Star Wars Outlaws Fankit!}}
+
+<hr />
+;With a subdomain
+
+<code><nowiki>{{Ubisoft|subdomain=news|url=en-us/article/1NuKtLdz0qhUg3zgvpLqhL/ubisoft-and-lucasfilm-games-announce-new-story-driven-star-wars-game|text=Ubisoft and Lucasfilm Games Announce New Story-Driven Star Wars Game}}</nowiki></code>
+
+Results in:
+
+{{Ubisoft|subdomain=news|url=en-us/article/1NuKtLdz0qhUg3zgvpLqhL/ubisoft-and-lucasfilm-games-announce-new-story-driven-star-wars-game|text=Ubisoft and Lucasfilm Games Announce New Story-Driven Star Wars Game}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

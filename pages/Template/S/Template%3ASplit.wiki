@@ -1,0 +1,21 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Split
+| bg = #AAAABB
+| image = [[File:Got A Bad feeling.jpg|150px]]
+| caption = It's too big to be a space station.
+| message = This article should be split into either multiple articles accessible from a [[Wikipedia:Wikipedia:Disambiguation|disambiguation page]] or a set of articles.
+| comment = If you disagree, please discuss the matter on this article's [[{{TALKPAGENAME}}|talk page]]. Remove this message when finished.
+| reason = The article needs to be split because
+| category = Category:Articles to be split
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles to be split|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{Split|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+==Categorization==
+*[[:Category:Articles to be split]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

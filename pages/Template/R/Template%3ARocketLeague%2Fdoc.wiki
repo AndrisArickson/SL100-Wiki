@@ -1,0 +1,22 @@
+This template is to be used for citing individual pages on ''[[Rocket League]]''{{'}}s [https://www.rocketleague.com official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{RocketLeague|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.rocketleague.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{RocketLeague|url=en/news/may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024|text=May the 4th Be with You in Rocket League - Celebrate Star Wars Day 2024|archivedate=20240618015742}}</nowiki></code>
+
+Results in:
+
+{{RocketLeague|url=en/news/may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024|text=May the 4th Be with You in Rocket League - Celebrate Star Wars Day 2024|archivedate=20240618015742}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

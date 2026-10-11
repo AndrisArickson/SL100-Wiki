@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=InternetArchive
+|image=[[File:InternetArchive-Favicon.jpg|text-top|x14px|class=darkmodeinvert]]&#32;
+|site_text=the [[Wikipedia:Internet Archive|Internet Archive]]
+|base_url=https://{{#if:{{{subdomain|}}}|{{{subdomain|}}}.|}}archive.org
+|target_url={{{url|}}}
+|subdomain={{{subdomain|}}}
+|nobackup=1
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

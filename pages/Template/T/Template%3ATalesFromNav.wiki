@@ -1,0 +1,13 @@
+{{Nav start|'''[[Tales series|''Tales'' series]]'''}}
+{{Nav text|''[[Tales from the Mos Eisley Cantina]]'' · ''[[Tales from Jabba's Palace]]''<br />''[[Tales of the Bounty Hunters]]'' · ''[[Tales from the Empire]]'' · ''[[Tales from the New Republic]]''}}
+{{Nav heading|Other}}
+{{Nav text|[[We Don't Do Weddings: The Band's Tale (audio drama)|''The Band's Tale'' audio drama]] · [[Nightlily: The Lovers' Tale (audio drama)|''The Lovers' Tale'' audio drama]] · [[Star Wars: Tales (omnibus)|''Star Wars: Tales'' (SFBC)]]}}
+{{Nav end|edit=TalesFromNav}}<noinclude>
+
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Book series navbox templates|{{PAGENAME}}]]</noinclude>

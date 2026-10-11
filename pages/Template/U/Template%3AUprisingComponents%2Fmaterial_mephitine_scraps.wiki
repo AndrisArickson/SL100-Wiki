@@ -1,0 +1,70 @@
+<onlyinclude>{{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+-->|basename|name=Mephitine Scraps<!--
+-->|type=Material<!--
+-->|subtype=Toxic<!--
+-->|element=Toxic<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=This material protects against toxic damage.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|<noinclude>5</noinclude>}}}}}}}}<!--
+	-->|perforated|perforatedmephitine scraps|perforated mephitine scraps|perforatedmephitinescraps|perforated mephitinescraps|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Perforated<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Perforated Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_01.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|pressed|pressedmephitine scraps|pressed mephitine scraps|pressedmephitinescraps|pressed mephitinescraps|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pressed<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Pressed Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_02.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|forged|forgedmephitine scraps|forged mephitine scraps|forgedmephitinescraps|forged mephitinescraps|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Forged<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Forged Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_03.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|plated|platedmephitine scraps|plated mephitine scraps|platedmephitinescraps|plated mephitinescraps|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Plated<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Plated Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_04.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|welded|weldedmephitine scraps|welded mephitine scraps|weldedmephitinescraps|welded mephitinescraps|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Welded<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Welded Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_05.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|fused|fusedmephitine scraps|fused mephitine scraps|fusedmephitinescraps|fused mephitinescraps|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Fused<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Fused Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_06.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|hardened|hardenedmephitine scraps|hardened mephitine scraps|hardenedmephitinescraps|hardened mephitinescraps|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Hardened<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Hardened Mephitine Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Toxic_07.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|fullname=Mephitine Scraps<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Material_Toxic_07.png<!--
+		-->}}<!--
+-->}}}}</onlyinclude><noinclude>[[Category:Material Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Mephitine Scraps}}</noinclude>

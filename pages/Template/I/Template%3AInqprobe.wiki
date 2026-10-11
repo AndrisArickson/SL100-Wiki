@@ -1,0 +1,24 @@
+<noinclude>*</noinclude>[[{{#if:{{{newpage|}}}|{{{newpage}}}|{{{1}}}}}|{{{1}}}]] <small>([[Special:Diff/{{{2}}}/cur|diff]] &bull; [[Wookieepedia:Inq/{{{1}}}{{#if:{{{3|}}}|&#32;({{{3}}} review)|}}|review]])</small>{{#if:{{{c|}}}|&#32;&mdash;&#32;{{{c}}}|}}<noinclude>
+
+==Usage==
+<code><nowiki>{{Inqprobe|article name|oldid of the probe revision|number of review (optional)|c=comment (optional)}}</nowiki></code>
+<hr />
+The article [[Tian Chyler]] was probed, and the revision of the probe was 3405610. The article has not been reviewed in the past.
+
+<code><nowiki>{{Inqprobe|Tian Chyler|3405610}}</nowiki></code>
+
+{{Inqprobe|Tian Chyler|3405610}}
+<hr />
+The article [[501st Legion/Legends|501st Legion]] was probed, and the revision of the probe was 3405598. The article had been probed three times in the past, so this is the fourth review.
+
+<code><nowiki>{{Inqprobe|501st Legion|3405598|fourth}}</nowiki></code>
+
+{{Inqprobe|newpage=501st Legion/Legends|501st Legion|3405598|fourth}}
+<hr />
+A fourth parameter, for comments, can also be used: 
+
+<code><nowiki>{{Inqprobe|501st Legion|3405598|fourth|c=I've kinda fixed this}}</nowiki></code>
+
+{{Inqprobe|newpage=501st Legion/Legends|501st Legion|3405598|fourth|c=I've kinda fixed this}}
+
+[[Category:Wookieepedia Inquisitorius templates|Inqprobe]]</noinclude>

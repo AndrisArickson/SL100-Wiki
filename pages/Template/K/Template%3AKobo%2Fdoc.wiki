@@ -1,0 +1,24 @@
+==Instructions==
+This template is to be used for citing individual pages on [https://www.kobo.com Kobo].
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{Kobo|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.kobo.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Kobo|url=us/en/ebook/star-wars-classic-stores-the-empire-strikes-back|text=Star Wars Classic Stores: The Empire Strikes Back|archivedate=}}</nowiki></code>
+
+Result in:
+
+{{Kobo|url=us/en/ebook/star-wars-classic-stores-the-empire-strikes-back|text=Star Wars Classic Stores: The Empire Strikes Back|archivedate=}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,15 @@
+{{Iumb
+|bg=#A6BAD2
+|image=[[File:DetentionBlockAA23-ANH.png|175px]]
+|caption='''Who is this? What's your operating number?!'''
+|message=This [[Wikipedia:IP address|IP address]] has been [[Wookieepedia:Blocking policy|blocked]] because it is believed to be an [[Wikipedia:Open proxy|open]] [[Wikipedia:Proxy server|proxy]] or [[Wikipedia:Zombie (computing)|zombie computer]].
+|comment=Under that helmet, they could be anybody. To prevent abuse, editing from these proxies is [[Wookieepedia:Sockpuppetry|prohibited]].<br />'''Admin tools:''' [[Special:Contributions/{{PAGENAME}}|contribs]] - [[Special:Block/{{PAGENAME}}|modify block]] - [{{fullurl:Special:Log/block|page=User:{{PAGENAMEE}}}} block log]
+}}<includeonly>[[Category:Open proxies|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+Type {{tl|proxy}} on the user page for the IP in question.
+
+==Categorization==
+*[[:Category:Open proxies]]
+
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

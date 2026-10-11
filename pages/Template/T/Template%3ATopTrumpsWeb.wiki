@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=TopTrumpsWeb
+|image=[[File:Top_Trumps_logo.svg|text-top|x14px|class=darkmodeinvert|link=https://www.toptrumps.com|class=darkmodeinvert]]
+|site_text=[[Top Trumps]]'s [https://www.toptrumps.com official website]
+|base_url=https://{{{subdomain|www}}}.toptrumps.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

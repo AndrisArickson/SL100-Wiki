@@ -1,0 +1,35 @@
+{{UprisingEquipmentInfobox
+|get={{{get|}}}
+|nocat=1
+|image=Uprising_Item_Base_F_Helm_00192.png
+|name=Specialized Trooper Plastoid Helmet
+|description=Defensive gear used by the Empire.
+|levelCap=150
+|type=helmet
+|faction=imperial
+|element=Neutral
+|base=250
+|attack=12.5%
+|armor=24.5%
+|utility=56%
+|maxLevel=150
+|stars=2
+|maxstarcount=7
+}}
+
+
+===Core===
+[[Template:UprisingEquipmentInfobox]]
+[[Template:UprisingEquipmentInfobox/main]]
+
+===Stats Table===
+[[Template:UprisingEquipmentInfobox/StatsTable]]
+[[Template:UprisingEquipmentInfobox/StatsTableCell]]
+
+===Other===
+[[Template:UprisingEquipmentInfobox/Info]]
+[[Template:UprisingEquipmentInfobox/Stars]]
+[[Template:UprisingEquipmentInfobox/Navigation]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Equipment Templates for Star Wars: Uprising|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Star Wars: Uprising Super Walkthrough template documentations|{{PAGENAME}}]]</noinclude>

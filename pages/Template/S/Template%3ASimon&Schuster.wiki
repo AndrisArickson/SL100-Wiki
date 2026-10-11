@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Simon&Schuster
+|image=[[File:SimonAndSchuster-Logo.svg|text-top|x16px|simonandschuster.com|link=https://{{{subdomain|www}}}.simonandschuster.{{{domain|com}}}]]
+|site_text=[[Wikipedia:Simon & Schuster|Simon & Schuster's]] [https://www.simonandschuster.com/ official website]
+|base_url=https://{{{subdomain|www}}}.simonandschuster.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

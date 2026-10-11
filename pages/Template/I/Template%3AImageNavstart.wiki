@@ -1,0 +1,19 @@
+{| class="noprint nb2 hidable" cellpadding="0" cellspacing="0" border="0" style="{{#if:|float: {{{float}}};|margin: auto;}}{{#if:|width:{{{3}}};|}}{{#if:|max-width:;|}}"
+|-
+| {{rt|#D8E9FC}}
+|-
+! class="nb2-firstheading" style="background:#D8E9FC; padding-top:0;" | {{{1|}}}
+|-
+<noinclude>
+
+This is the <nowiki>{{ImageNavstart}}</nowiki> template, which is used in conjunction with:
+*{{Tl|ImageNavbase}}
+*{{Tl|ImageNavend}}
+*{{Tl|ImageNavaudio}}
+*{{Tl|ImageNavitalics}}
+*{{Tl|ImageNavplain}}
+*{{Tl|ImageNavquotes}}
+*{{Tl|ImageNavrow}}
+
+These templates can be used to create image category navboxes for media groups, such as a television show or multimedia project, which can be found [[:Category:Image category navigation templates by media|here]]. See [[:Template:StarWarsResistanceImages|this template]] for an example.
+[[Category:Image category navigation templates]]</noinclude>

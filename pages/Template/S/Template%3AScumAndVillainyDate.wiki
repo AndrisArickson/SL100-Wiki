@@ -1,0 +1,7 @@
+The latest entries chronologically in {{#ifeq:{{PAGENAME}}|Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious|''Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious''|''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''}} are dated to 8011 ([[Coruscant reckoning calendar|C.R.C.]] date) and gives 7980 (C.R.C. date) as the [[Standard year|year]] that the [[carbon-freezing]] of [[Han Solo]], which ''[[Star Wars: Timelines]]'' dates to [[3 ABY]]. Therefore, 8011 C.R.C. must have been around [[34 ABY]]. ''Scum and Villainy'' also mentions [[Hosnian Prime]] as still being [[capital]] of the [[New Republic]], meaning the [[in-universe]] ''[[Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' must have been published prior to the [[Hosnian Cataclysm|destruction]] of the [[planet]], which ''Star Wars: Timelines'' dates to 34 [['ABY-BBY' dating system|ABY]]. As the publishing must have occurred between the [[time]] of the latest entries and the destruction of Hosnian Prime, it therefore also took place around 34 ABY.<noinclude>
+
+==Usage==
+<code><nowiki>{{ScumAndVillainyDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

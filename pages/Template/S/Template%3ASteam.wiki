@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Steam
+|image=[[File:Steam.svg|text-top|x14px|link=https://store.steampowered.com]]
+|site_text=[[Wikipedia:Steam (service)|Steam]]'s [https://store.steampowered.{{{domain|com}}} official website]
+|base_url=https://{{{subdomain|store}}}.steampowered.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

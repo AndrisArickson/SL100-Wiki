@@ -1,0 +1,14 @@
+{{{1}}} is not credited within {{{2}}}.<noinclude>
+
+Template to be used as a reference to explicit the absence of crediting information from a media. Not to be used if another reference already establish the uncredited nature of the contribution.
+
+==Parameters==
+<nowiki>{{Uncredited|Person|Media}}</nowiki>
+
+==Examples==
+Code: <code><nowiki>{{Uncredited|Bryan Hitch|[[War of the Bounty Hunters 4|''War of the Bounty Hunters'' 4]]}}</nowiki></code>
+
+Result:
+{{Uncredited|Bryan Hitch|[[War of the Bounty Hunters 4|''War of the Bounty Hunters'' 4]]}}
+
+[[Category:Utility templates]]</noinclude>

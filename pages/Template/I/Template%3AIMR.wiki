@@ -1,0 +1,15 @@
+{{SmallMB
+|image=[[File:Dialog-warning.svg|50px]]
+|message='''This file exhibited on Wookieepedia has ''uploaded versions that are in<span style="color:red"> violation of the [[Wookieepedia:Files|files policy]]''</span>. It is requested for a [[Wookieepedia:Administrators|Wookieepedia administrator]] to delete these prior revisions as soon as possible, to prevent accidental or malicious reversion.'''
+}}<includeonly>{{SpecialCategorizer|[[Category:Images with policy-violating revisions|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+Add <code><nowiki>{{IMR}}</nowiki></code> to the {{Tl|Information}} template on the file page in question.
+
+==Categorization==
+*[[:Category:Images with policy-violating revisions]]
+
+==See also==
+*[[Forum:CT:File revision deletion tweak]]
+
+[[Category:File maintenance templates]]</noinclude>

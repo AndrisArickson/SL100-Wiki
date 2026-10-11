@@ -1,0 +1,20 @@
+This template is to be used for all [https://www.skyound.com skysound.com] webpages.
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{SkySound|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.skysound.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+==Examples==
+<code><nowiki>{{SkySound|url=latest/behind-the-sound-of-mandalorian-and-obi-wan-kenobi|text=Behind The Sound of The Mandalorian and Obi-Wan Kenobi}}</nowiki></code>
+
+*{{SkySound|url=latest/behind-the-sound-of-mandalorian-and-obi-wan-kenobi|text=Behind The Sound of The Mandalorian and Obi-Wan Kenobi}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

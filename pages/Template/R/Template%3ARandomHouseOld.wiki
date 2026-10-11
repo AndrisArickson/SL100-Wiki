@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=RandomHouseOld
+|image=[[File:PenguinRandomHouse-Logo.svg|text-top|x16px|link=https://web.archive.org/web/20060812111353/http://www.randomhouse.com]]
+|site_text=[[Wikipedia:Penguin Random House|Random House's]] [https://web.archive.org/web/20060812111353/http://www.randomhouse.com official website]
+|base_url=https://{{{subdomain|www}}}.randomhouse{{#if:{{{retail|}}}|retail|}}.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

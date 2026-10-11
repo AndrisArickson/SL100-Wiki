@@ -1,0 +1,6 @@
+==Usage==
+<code><nowiki>{{</nowiki>SWBWiki|''title'' (optional)}}</code>
+
+Replace "title" with the exact name of the article on the ''Star Wars Battlefront'' Wiki, not the name here. If the name is the same on both wikis, it can be omitted. (Any "/Legends" in the Wookieepedia article name will be left off the ''Battlefront'' Wiki link.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the ''Battlefront'' Wiki link to change if our article is moved even if ''Battlefront'' Wiki's article remains at the same name.
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

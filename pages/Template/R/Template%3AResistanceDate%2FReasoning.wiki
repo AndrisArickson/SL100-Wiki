@@ -1,0 +1,20 @@
+<includeonly><onlyinclude>{{#switch: {{{1|{{{season|}}}}}}
+<!--Dating Season One episodes, shorts, and comics-->
+ | 1
+ | shorts
+ | SWA = ''[[Star Wars: Timelines]]'' places the events of [[Star Wars Resistance Season One|''Star Wars Resistance'' Season One]]{{#if: {{{2|{{{episode|}}}}}}|, which {{#switch: {{{1|{{{season|}}}}}}
+  |1=includes the episode "{{Resistance episode|{{{1|{{{season|}}}}}}|{{{2|{{{episode|}}}}}}|noquotes=1}}
+  |shorts={{Resistance episode|{{{1|{{{season|}}}}}}|{{{2|{{{episode|}}}}}}}} occurs concurrently to
+  |SWA="[[{{{2|{{{episode|}}}}}} (comic story)|{{{2|{{{episode|}}}}}}]]" occurs concurrently to}},{{#ifeq: {{{1|{{{season|}}}}}}|1|"}}}} in [[34 ABY]].
+ 
+<!--Dating Season Two episodes-->
+ | 2 = ''[[Star Wars: Timelines]]'' places the events of [[Star Wars Resistance Season Two|''Star Wars Resistance'' Season Two]]{{#if: {{{2|{{{episode|}}}}}}|, which includes the episode "{{Resistance episode|{{{1|{{{season|}}}}}}|{{{2|{{{episode|}}}}}}|noquotes=1}},"}} in [[34 ABY]].
+ | AxTagrin
+ | TheLostBook = ''[[Star Wars: Timelines]]'' places the events of [[Star Wars Resistance Season Two|''Star Wars Resistance'' Season Two]], which would have included the {{#switch: {{{1|{{{season|}}}}}}
+   | AxTagrin = [[Untitled Star Wars Resistance Season Two episode|Ax Tagrin episode]]
+   | TheLostBook = "[[The Lost Book]]"
+ }} per {{WookYouTube|video=ML1nYpSU0d0|text=Wookieepedia Interviews - Brandon Auman}}, in [[34 ABY]].
+ | #default = ''[[Star Wars: Timelines]]'' places the events of ''[[Star Wars Resistance]]'' in [[34 ABY]].
+}}</onlyinclude></includeonly>
+
+[[Category:Canon television dating citation templates]]

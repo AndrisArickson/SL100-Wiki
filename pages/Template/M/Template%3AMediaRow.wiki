@@ -1,0 +1,14 @@
+<onlyinclude>
+|- class="{{{class|{{{2|}}}}}} {{#if:{{{adaptation|}}}|adaptation|}} {{#if:{{{unpublished|}}}|unpublished}}"
+|| {{{date|}}} ||- class="{{{class|{{{2|}}}}}} {{#if:{{{unpublished|}}}|unpublished}}" | {{{code|{{{1|}}}}}} </onlyinclude><noinclude>
+
+This is a modular template used to construct media timelines. 
+*{{Para|adaptation}} &mdash; marks a work as an adaptation for filtering purposes
+*{{Para|unpublished}} &mdash; marks a work as unpublished for filtering purposes
+
+<nowiki>{{MediaRow|N|novel|date=[[232 BBY]]<ref name="Timelines-BBY">''[[Star Wars: Timelines]]''</ref>}}
+|| ''[[The High Republic: Light of the Jedi]]''
+|| 2021-01-05
+</nowiki>
+
+[[Category:Utility templates]]

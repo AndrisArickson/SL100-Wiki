@@ -1,0 +1,134 @@
+<includeonly>{{StarlightDate|[[The High Republic Adventures (2023) 4|''The High Republic Adventures'' (2023) 4]]|one [[Standard year|year]] and two weeks after the destruction of Starlight Beacon|[[228 BBY]]}} Since the events of [[The High Republic Adventures (2023) 6|''The High Republic Adventures'' (2023) 6]] are set immediately following the fourth issue and depict the [[expansion of the Stormwall]], the expansion must have taken place in the same year. Meanwhile, the events of "[[Tales from the Occlusion Zone: No Big Deal]]" include the Stormwall's expansion and also depict the start of [[Pikka Adren]]'s [[Reproduction|pregnancy]]. A later story, "[[Tales from the Occlusion Zone: Sparks Fly]]," states that Adren is eight [[Standard month|months]] pregnant during its events, indicating that it is set eight months after "No Big Deal," and therefore one year, eight months, and two weeks after the fall of Starlight Beacon. "Sparks Fly" is set during the [[Battle of Eriadu]], an event that begins in ''[[The High Republic Adventures Phase III - The Wedding Spectacular]]''. As {{HighRepublicReaderGuide}} places {{#switch:{{{1|}}}||{{#switch:{{FULLPAGENAME}}|Template:THRContent228BBY|#default=<span style="font-size: 1.5em; color: red">Template error: No valid issue number passed into <nowiki>{{THRContent228BBY}}</nowiki>. See [[Template:THRContent228BBY|this page]] for instructions on how to properly use the template.</span> [[Category:Invalid THRContent228BBY parameter arguments]]}}|DFS=''[[The High Republic: Defy the Storm]]''|COC:HA="[[Chronicles of Corellia: Heir Apparent]]"|CAB=''[[The High Republic Adventures: Crash and Burn]]''|TOTF=''[[The High Republic: Temptation of the Force]]''|MTHR=[[Star Wars: The High Republic (2023)|''Star Wars: The High Republic'']]|THR1=[[The High Republic (2023) 1|''The High Republic'' (2023) 1]]|THR2=[[The High Republic (2023) 2|''The High Republic'' (2023) 2]]|THR3=[[The High Republic (2023) 3|''The High Republic'' (2023) 3]]|THR4=[[The High Republic (2023) 4|''The High Republic'' (2023) 4]]|THR5=[[The High Republic (2023) 5|''The High Republic'' (2023) 5]]|THR6=[[The High Republic (2023) 6|''The High Republic'' (2023) 6]]|THR7=[[The High Republic (2023) 7|''The High Republic'' (2023) 7]]|THR8=[[The High Republic (2023) 8|''The High Republic'' (2023) 8]]|THR9=[[The High Republic (2023) 9|''The High Republic'' (2023) 9]]|THR10=[[The High Republic (2023) 10|''The High Republic'' (2023) 10]]|TOTN=''[[The High Republic: Tears of the Nameless]]''|BTN=''[[The High Republic: Beware the Nameless]]''|EOF=''[[Star Wars: The High Republic Adventures – Echoes of Fear]]''|EOF1=[[The High Republic Adventures – Echoes of Fear 1|''The High Republic Adventures – Echoes of Fear'' 1]]|EOF2=[[The High Republic Adventures – Echoes of Fear 2|''The High Republic Adventures – Echoes of Fear'' 2]]|EOF3=[[The High Republic Adventures – Echoes of Fear 3|''The High Republic Adventures – Echoes of Fear'' 3]]|EOF4=[[The High Republic Adventures – Echoes of Fear 4|''The High Republic Adventures – Echoes of Fear'' 4]]|SFH=''[[Star Wars: The High Republic Adventures – Saber for Hire]]''|SFH1=[[The High Republic Adventures – Saber for Hire 1|''The High Republic Adventures – Saber for Hire'' 1]]|SFH2=[[The High Republic Adventures – Saber for Hire 2|''The High Republic Adventures – Saber for Hire'' 2]]|SFH3=[[The High Republic Adventures – Saber for Hire 3|''The High Republic Adventures – Saber for Hire'' 3]]|SFH4=[[The High Republic Adventures – Saber for Hire 4|''The High Republic Adventures – Saber for Hire'' 4]]|EOB3=''[[The High Republic: The Edge of Balance, Vol. 3]]''|EOBP=''[[The High Republic: The Edge of Balance: Premonition]]''|SOS=''[[The High Republic: Seeds of Starlight]]''|HS=''[[The High Republic: Haunted Starlight]]''|COC:CTM="[[Chronicles of Corellia: Cracking the Mask]]"|TB=''[[The High Republic: Tempest Breaker]]''|DFTOZ=''[[Star Wars: The High Republic Adventures – Dispatches from the Occlusion Zone]]''|DFTOZ1=[[The High Republic Adventures – Dispatches from the Occlusion Zone 1|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 1]]|DFTOZ2=[[The High Republic Adventures – Dispatches from the Occlusion Zone 2|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 2]]|DFTOZ3=[[The High Republic Adventures – Dispatches from the Occlusion Zone 3|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 3]]|DFTOZ4=[[The High Republic Adventures – Dispatches from the Occlusion Zone 4|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 4]]}} between the events of "No Big Deal" and ''The Wedding Spectacular'', its events must also be set in 228 [['ABY-BBY' dating system|BBY]].</includeonly><noinclude>
+
+==Usage==
+<pre><nowiki>{{THRContent228BBY|source}}</nowiki></pre>, where {{Para|source}} is any of the keys below.
+
+==Key==
+*DFS = ''[[The High Republic: Defy the Storm]]''
+*COC:HA = "[[Chronicles of Corellia: Heir Apparent]]"
+*CAB = ''[[The High Republic Adventures: Crash and Burn]]''
+*TOTF = ''[[The High Republic: Temptation of the Force]]''
+*MTHR = [[Star Wars: The High Republic (2023)|''Star Wars: The High Republic'']]
+*THR1 = [[The High Republic (2023) 1|''The High Republic'' (2023) 1]]
+*THR2 = [[The High Republic (2023) 2|''The High Republic'' (2023) 2]]
+*THR3 = [[The High Republic (2023) 3|''The High Republic'' (2023) 3]]
+*THR4 = [[The High Republic (2023) 4|''The High Republic'' (2023) 4]]
+*THR5 = [[The High Republic (2023) 5|''The High Republic'' (2023) 5]]
+*THR6 = [[The High Republic (2023) 6|''The High Republic'' (2023) 6]]
+*THR7 = [[The High Republic (2023) 7|''The High Republic'' (2023) 7]]
+*THR8 = [[The High Republic (2023) 8|''The High Republic'' (2023) 8]]
+*THR9 = [[The High Republic (2023) 9|''The High Republic'' (2023) 9]]
+*THR10 = [[The High Republic (2023) 10|''The High Republic'' (2023) 10]]
+*TOTN = ''[[The High Republic: Tears of the Nameless]]''
+*BTN = ''[[The High Republic: Beware the Nameless]]''
+*EOF = ''[[Star Wars: The High Republic Adventures – Echoes of Fear]]''
+*EOF1 = [[The High Republic Adventures – Echoes of Fear 1|''The High Republic Adventures – Echoes of Fear'' 1]]
+*EOF2 = [[The High Republic Adventures – Echoes of Fear 2|''The High Republic Adventures – Echoes of Fear'' 2]]
+*EOF3 = [[The High Republic Adventures – Echoes of Fear 3|''The High Republic Adventures – Echoes of Fear'' 3]]
+*EOF4 = [[The High Republic Adventures – Echoes of Fear 4|''The High Republic Adventures – Echoes of Fear'' 4]]
+*SFH = ''[[Star Wars: The High Republic Adventures – Saber for Hire]]''
+*SFH1 = [[The High Republic Adventures – Saber for Hire 1|''The High Republic Adventures – Saber for Hire'' 1]]
+*SFH2 = [[The High Republic Adventures – Saber for Hire 2|''The High Republic Adventures – Saber for Hire'' 2]]
+*SFH3 = [[The High Republic Adventures – Saber for Hire 3|''The High Republic Adventures – Saber for Hire'' 3]]
+*SFH4 = [[The High Republic Adventures – Saber for Hire 4|''The High Republic Adventures – Saber for Hire'' 4]]
+*EOB3 = [[The High Republic: The Edge of Balance, Vol. 3|''The High Republic: The Edge of Balance'', Vol. 3]]
+*EOBP = ''[[The High Republic: The Edge of Balance: Premonition]]''
+*EOB4 = [[The High Republic: The Edge of Balance, Vol. 4|''The High Republic: The Edge of Balance'', Vol. 4]]
+*SOS = ''[[The High Republic: Seeds of Starlight]]''
+*HS = ''[[The High Republic: Haunted Starlight]]''
+*COC:CTM = "[[Chronicles of Corellia: Cracking the Mask]]"
+*TB = ''[[The High Republic: Tempest Breaker]]''
+*DFTOZ = ''[[Star Wars: The High Republic Adventures – Dispatches from the Occlusion Zone]]''
+*DFTOZ1 = [[The High Republic Adventures – Dispatches from the Occlusion Zone 1|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 1]]
+*DFTOZ2 = [[The High Republic Adventures – Dispatches from the Occlusion Zone 2|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 2]]
+*DFTOZ3 = [[The High Republic Adventures – Dispatches from the Occlusion Zone 3|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 3]]
+*DFTOZ4 = [[The High Republic Adventures – Dispatches from the Occlusion Zone 4|''The High Republic Adventures – Dispatches from the Occlusion Zone'' 4]]
+
+==Output==
+{|{{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{THRContent228BBY|DFS}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|DFS}}
+|-
+|<pre><nowiki>{{THRContent228BBY|COC:HA}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|COC:HA}}
+|-
+|<pre><nowiki>{{THRContent228BBY|CAB}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|CAB}}
+|-
+|<pre><nowiki>{{THRContent228BBY|TOTF}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|TOTF}}
+|-
+|<pre><nowiki>{{THRContent228BBY|MTHR}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|MTHR}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR1}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR1}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR2}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR2}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR3}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR3}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR4}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR4}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR5}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR5}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR6}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR6}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR7}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR7}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR8}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR8}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR9}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR9}}
+|-
+|<pre><nowiki>{{THRContent228BBY|THR10}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|THR10}}
+|-
+|<pre><nowiki>{{THRContent228BBY|TOTN}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|TOTN}}
+|-
+|<pre><nowiki>{{THRContent228BBY|BTN}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|BTN}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOF}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOF}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOF1}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOF1}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOF2}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOF2}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOF3}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOF3}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOF4}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOF4}}
+|-
+|<pre><nowiki>{{THRContent228BBY|SFH}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|SFH}}
+|-
+|<pre><nowiki>{{THRContent228BBY|SFH1}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|SFH1}}
+|-
+|<pre><nowiki>{{THRContent228BBY|SFH2}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|SFH2}}
+|-
+|<pre><nowiki>{{THRContent228BBY|SFH3}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|SFH3}}
+|-
+|<pre><nowiki>{{THRContent228BBY|SFH4}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|SFH4}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOB3}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOB3}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOBP}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOBP}}
+|-
+|<pre><nowiki>{{THRContent228BBY|EOB4}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|EOB4}}
+|-
+|<pre><nowiki>{{THRContent228BBY|SOS}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|SOS}}
+|-
+|<pre><nowiki>{{THRContent228BBY|HS}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|HS}}
+|-
+|<pre><nowiki>{{THRContent228BBY|COC:CTM}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|COC:CTM}}
+|-
+|<pre><nowiki>{{THRContent228BBY|TB}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|TB}}
+|-
+|<pre><nowiki>{{THRContent228BBY|DFTOZ}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|DFTOZ}}
+|-
+|<pre><nowiki>{{THRContent228BBY|DFTOZ1}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|DFTOZ1}}
+|-
+|<pre><nowiki>{{THRContent228BBY|DFTOZ2}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|DFTOZ2}}
+|-
+|<pre><nowiki>{{THRContent228BBY|DFTOZ3}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|DFTOZ3}}
+|-
+|<pre><nowiki>{{THRContent228BBY|DFTOZ4}}</nowiki></pre> &#32; || &#32; {{THRContent228BBY|DFTOZ4}}
+|}
+
+==Errors==
+Any pages that do not use the template correctly will be placed into [[:Category:Invalid THRContent228BBY parameter arguments]].
+
+[[Category:High Republic dating citation templates]]
+</noinclude>

@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Ubisoft
+|image=[[File:Ubisoft-Favicon.svg|text-top|x16px|class=darkmodeinvert|link=https://www.ubisoft.com]]
+|site_text=[[Ubisoft]]'s [https://{{{subdomain|www}}}.ubisoft.com official website]
+|base_url=https://{{{subdomain|www}}}.ubisoft.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

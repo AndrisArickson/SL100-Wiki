@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Kabam
+|image=[[File:Kabam.png|text-top|x16px|link=https://www.kabam.com]]
+|site_text={{#ifeq:{{{subdomain|}}}|community
+  |[[Kabam]] [https://web.archive.org/web/20160925004539/http://community.kabam.com/forums/forum.php Community Forums]
+  |[[Kabam]]'s [https://www.kabam.com official website]
+}}
+|base_url=https://{{{subdomain|www}}}.kabam.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

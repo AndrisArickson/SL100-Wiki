@@ -1,0 +1,49 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<!--
+--><table id="canontab" style="text-align:center;padding:0;margin:0 0 5px 0;border-left:0;border-right:0;border-top:0;border-bottom:7px solid #002e54;border-spacing:0;border-collapse:collapse;width:100%;vertical-align:top;{{{style|}}}" class="class-style margin-bottom-5px text-align-center border-collapse-collapse vertical-align-top border-bottom-width-7px border-bottom-color-002e54 border-bottom-style-solid width-100-pct {{{class|}}}"><!--
+	--><tr><!--
+		-->{{#if:{{{canonLink|<noinclude>Hoth</noinclude>}}}|<!--
+			-->{{UprisingCanonTabs/{{#ifeq:{{lc:{{{selected|}}}}}|canon|Selected|NotSelected}}<!--
+				-->|icon=canon<!--
+				-->|id=canontab-canon<!--
+				-->|link={{{canonLink|<noinclude>Hoth</noinclude>}}}|<!--
+			-->}}<!--
+			--><td id="canontab-separator1" style="width:3px;" class="class-style width-3-px">&#32;</td><!--
+		-->|}}<!--
+		
+		-->{{#if:{{{legendsLink|<noinclude>Hoth/Legends</noinclude>}}}|<!--
+			-->{{UprisingCanonTabs/{{#ifeq:{{lc:{{{selected|}}}}}|legends|Selected|NotSelected}}<!--
+				-->|icon=legends<!--
+				-->|id=canontab-legends<!--
+				-->|link={{{legendsLink|<noinclude>Hoth/Legends</noinclude>}}}|<!--
+			-->}}<!--
+			--><td id="canontab-separator2" style="width:3px;" class="class-style width-3-px">&#32;</td><!--
+		-->|}}<!--
+		
+		-->{{UprisingCanonTabs/{{#ifeq:{{lc:{{{selected|<noinclude>uprising</noinclude>}}}}}|uprising|Selected|NotSelected}}<!--
+			-->|icon=uprising<!--
+			-->|id=canontab-uprising<!--
+			-->|link={{{link|<noinclude>Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Hoth</noinclude>}}}|<!--
+			-->|linkTitle={{{linkTitle|This article covers the Star Wars: Uprising game information for this subject.}}}<!--
+		-->}}<!--
+		
+		--><td id="canontab-separator3" style="width:3000px;" class="class-style width-200px">&#32;</td><!--
+	--></tr><!--
+--></table><!--
+--><includeonly><!--
+	-->{{#if:{{{nocat|<noinclude>1</noinclude>}}}||<!--
+		-->{{#switch:{{lc:{{{selected|}}}}}<!--
+			-->|canon=<!--
+				-->[[Category:Canon articles]]<!--
+				-->{{#if:{{{legendsLink|}}}|[[Category:Canon articles with Legends counterparts]]|}}<!--
+				-->{{#if:{{{link|}}}|[[Category:Canon articles with Star Wars: Uprising counterparts]]|}}<!--
+			-->|legends=<!--
+				-->[[Category:Legends articles]]<!--
+				-->{{#if:{{{canonLink|}}}|[[Category:Legends articles with canon counterparts]]|}}<!--
+				-->{{#if:{{{link|}}}|[[Category:Legends articles with Star Wars: Uprising counterparts]]|}}<!--
+			-->|uprising=<!--
+				-->{{#if:{{{canonLink|}}}|[[Category:Star Wars: Uprising articles with canon counterparts]]|}}<!--
+				-->{{#if:{{{legendsLink|}}}|[[Category:Star Wars: Uprising articles with legends counterparts]]|}}<!--
+		-->}}<!--
+	-->}}<!--
+--></includeonly><!--
+-->}}</onlyinclude><noinclude>[[Category:Templates for Star Wars: Uprising]]</noinclude>

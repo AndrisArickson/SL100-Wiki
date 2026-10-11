@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=Rebels
+|mode=TV
+|image=[[File:Rebels-mini-logo.png|text-top|x15px|link=Star Wars Rebels]]
+|series=Star Wars Rebels
+|child={{#ifeq:{{{1|}}}|Spark of Rebellion|Star Wars Rebels: Spark of Rebellion|{{{1|}}}}}
+|ctext={{#if:{{#pos:{{{1|}}}|Spark of Rebellion}}|Spark of Rebellion|{{{2|}}}}}
+}}<noinclude>{{Top|fprot|mprot}}{{Documentation}}</noinclude>

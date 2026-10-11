@@ -1,0 +1,37 @@
+This template is to be used for citing individual ''[[Metallic Impressions]]'' cards.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{MetallicImpressions|set=|sformatted=|link=|cardname=|archivedate=|archiveurl=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|cardname}} Name of the individual pack.
+*{{Para|link}} Full URL of the pack's web page
+*For '''archive''' options, see [[#backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|sformatted}} Formatted name of the collection.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+;Using the archive central repository
+<code><nowiki>{{MetallicImpressions|set=1996 Metallic Impressions Star Wars: The Art of Ralph McQuarrie|link=https://www.tcdb.com/ViewCard.cfm/sid/75304/cid/7217049/1996-Metallic-Impressions-Star-Wars:-The-Art-of-Ralph-McQuarrie-9-Death-Star-Interior?PageIndex=1|cardname=#9 - Death Star Interior}}</nowiki></code>
+
+Results in:
+
+{{MetallicImpressions|set=1996 Metallic Impressions Star Wars: The Art of Ralph McQuarrie|link=https://www.tcdb.com/ViewCard.cfm/sid/75304/cid/7217049/1996-Metallic-Impressions-Star-Wars:-The-Art-of-Ralph-McQuarrie-9-Death-Star-Interior?PageIndex=1|cardname=#9 - Death Star Interior}}
+
+;Using the archive central repository
+<code><nowiki>{{MetallicImpressions|set=1994-96 Metallic Impressions Star Wars|link=https://www.tcdb.com/ViewCard.cfm/sid/75308/cid/7827144/1994-96-Metallic-Impressions-Star-Wars--25-Bespin's-Cloud-City?PageIndex=1|cardname=#25 - Bespin's Cloud City}}</nowiki></code>
+
+Results in:
+
+{{MetallicImpressions|set=1994-96 Metallic Impressions Star Wars|link=https://www.tcdb.com/ViewCard.cfm/sid/75308/cid/7827144/1994-96-Metallic-Impressions-Star-Wars--25-Bespin's-Cloud-City?PageIndex=1|cardname=#25 - Bespin's Cloud City}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

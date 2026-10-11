@@ -1,0 +1,92 @@
+<includeonly>{{JCFCite|url=posts/27848315|board=Literature|thread=The Essential Atlas and Galactic Cartography: Official Discussion|user=[[Jason Fry|jasonfry]]|date=2007-12-11|time=7:59 AM|accessdate=2024-02-02|quote=I wouldn't get your hopes up re alien homeworlds, beyond simple stuff like the Planetnamian species getting a Planetnamia on the map or things Dan and I can account for with a relatively quick reference.}} [[Jason Fry]], co-author of ''[[The Essential Atlas]]''{{#if:{{{legends|}}}||&nbsp;and a number of maps in the current ''[[Star Wars]]'' [[canon]] (see a list [[Template:Planetnamia#Optional parameters|here]])}}, stated his intention to create {{#if:{{{legends|}}}|[[Homeworld/Legends|homeworlds]]|[[homeworld]]s}} for numerous {{#if:{{{legends|}}}|[[Species/Legends|species]]|[[species]]}} based on context implied from their names.{{#if:{{{species|}}}
+     |&nbsp;This article treats {{#if:{{{system|}}}|the {{{system}}}|{{{homeworld}}}}} as {{#if:{{{system|}}}|the location of&nbsp;}}one such homeworld with regard to the {{{species}}} species.}}{{#if:{{{other|}}}
+     |&nbsp;Given this principle, this article {{#if:{{{species|}}}|also&nbsp;}}makes a similar basic assumption for {{{other}}} in relation to {{#if:{{{legends|}}}|the&nbsp;|}}{{#if:{{{species|}}}|system|{{{system}}}}}.}}</includeonly><noinclude>
+This template is to be used for referencing the rationale, based on [[Jason Fry]]'s comments on the [[Jedi Council Forums]] on [[TheForce.net]], for treating "Planetnamia" [[Star system/Legends|star systems]] as home to "Planetnamian" [[Species/Legends|species]] or the points of origin of other "Planetnamian" subjects.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields and remove any that you don't use.
+
+<code><nowiki>{{Planetnamia|species=|other=|system=|homeworld=|legends=}}</nowiki></code>
+
+===Required parameters===
+*Either or both of the following:
+**'''species''': Linked (or partially linked; see examples below) name of the species.
+**'''other''': Linked (or partially linked; see examples below) name of the non-species subject that's a namesake of the system.
+*Either of the following:
+**'''system''': Linked (or partially linked; see examples below) name of the system.
+**'''homeworld''': Linked (or partially linked; see examples below) name of the specific homeworld.
+
+===Optional parameters===
+*'''legends''': Use this parameter with the value "1" for [[Star Wars Legends|''Star Wars Legends]] subjects.
+**Parameter not needed for [[canon]] subjects related to the following sources:
+***[[Star Wars Galaxy Map (poster)|''Star Wars'' Galaxy Map poster]]
+***''[[Star Wars: Complete Locations, New Edition]]''
+***''[[Star Wars: The Acolyte: The Visual Guide]]''
+***''[[Star Wars: The Mandalorian Visual Guide]]''
+***{{StarWarsGalaxyMap}}
+***{{GalaxyMapAppendix}}
+
+===Examples===
+====Species====
+<code><nowiki>{{Planetnamia|species=[[Halurian ice-boar]]|system=Haluria [[Star system/Legends|system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|species=[[Halurian ice-boar]]|system=Haluria [[Star system/Legends|system]]|legends=1}}
+
+<hr />
+<code><nowiki>{{Planetnamia|species=Halurian [[Water/Legends|ice]]-boar|system=[[Haluria system/Legends|Haluria system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|species=Halurian [[Water/Legends|ice]]-boar|system=[[Haluria system/Legends|Haluria system]]|legends=1}}
+
+<hr />
+<code><nowiki>{{Planetnamia|species=[[Halurian ice-boar]]|system=[[Haluria system/Legends|Haluria system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|species=[[Halurian ice-boar]]|system=[[Haluria system/Legends|Haluria system]]|legends=1}}
+
+<hr />
+<code><nowiki>{{Planetnamia|species=[[Ulmatran condor]]|homeworld=Ulmatra}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|species=[[Ulmatran condor]]|homeworld=Ulmatra|legends=1}}
+
+<hr />
+<code><nowiki>{{Planetnamia|species=[[Benathy]]|homeworld=Benath}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|species=[[Benathy]]|homeworld=Benath}}
+
+====Other subjects====
+<code><nowiki>{{Planetnamia|other=the [[Anorelgan slip-socker]]|system=Anorelga [[Star system/Legends|system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|other=the [[Anorelgan slip-socker]]|system=[[Anorelga system/Legends|Anorelga system]]|legends=1}}
+
+<code><nowiki>{{Planetnamia|other=[[Icindric caviar]]|system=Icindra}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|other=[[Icindric caviar]]|system=Icindra}}
+
+====Multiple subjects====
+<code><nowiki>{{Planetnamia|other=the ''[[Jendirian Valley/Legends|Jendirian Valley]]'' and the ''[[Jendirian Valley III]]''|system=Jendiria [[Star system/Legends|system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|other=the ''[[Jendirian Valley/Legends|Jendirian Valley]]'' and the ''[[Jendirian Valley III]]''|system=Jendiria [[Star system/Legends|system]]|legends=1}}
+
+<hr />
+<code><nowiki>{{Planetnamia|species=[[numatra]]|other=the [[Numatra snakehide]]|system=Numatra [[Star system/Legends|system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Planetnamia|species=[[numatra]]|other=the [[Numatra snakehide]]|system=Numatra [[Star system/Legends|system]]|legends=1}}
+
+[[Category:Logic citation templates]]</noinclude>

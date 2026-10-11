@@ -1,0 +1,6 @@
+[[File:StarWarsTales-Icon.png|baseline|x12px|link=Star Wars Tales]]&#32;{{#if:{{{issue1|}}}
+  |"{{HideParanthetical|{{{1|}}}|{{{2|}}}}}"&#32;&mdash;&#32;[[Star Wars Tales {{{issue1}}}|''Star Wars Tales'' {{{issue1}}}]]&ndash;[[Star Wars Tales {{{issue2}}}|{{{issue2}}}]]
+  |"{{HideParanthetical|{{{2|}}}|{{{3|}}}}}"&#32;&mdash;&#32;[[Star Wars Tales {{{1}}}|''Star Wars Tales'' {{{1}}}]]
+}}<noinclude>
+==Usage==
+'''<nowiki>{{Tales|ISSUE NUMBER|TALE NAME|''FORMATTED NAME'' (optional)}}</nowiki>'''[[Category:Comic citation templates|Tales]]</noinclude>

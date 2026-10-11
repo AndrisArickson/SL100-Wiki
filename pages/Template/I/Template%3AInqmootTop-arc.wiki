@@ -1,0 +1,21 @@
+<div class="darkbackground1" style="padding:5px; border:1px solid #AAA; border-bottom:none; background:#EEE">'''[[Main Page|Wookieepedia]] &gt; [[Wookieepedia:Inquisitorius]] &gt; {{PAGENAME}}'''</div><includeonly>[[Category:Wookieepedia Inquisitorius meetings|{{subst:SUBPAGENAME}}]]</includeonly>
+<div id="old-forum-warning" class="boilerplate metadata meeting" style="padding:0 10px; border:1px solid #AAA; margin:0 auto; background-color:#F3F9FF">
+'''This page is no longer live.''' Further comments should be made on the next [[Wookieepedia:Inquisitorius#Inquisitorius_meeting_pages|Inquisitorius meeting page]] rather than here so that this page is preserved as an historic record.
+----
+<noinclude></div>
+
+==Usage==
+Place the following code at the top of the [[Wookieepedia:Inquisitorius|Inquisitorius]] meeting page to be archived:
+<pre>
+{{subst:InqmootTop-arc}}
+</pre>
+
+Then, to avoid disrupting the page layout, add this closing tag at the very end of the thread:
+<pre>
+</div>
+</pre>
+
+==Categorization==
+*[[:Category:Wookieepedia Inquisitorius meetings]]
+
+[[Category:Archive templates]]</noinclude>

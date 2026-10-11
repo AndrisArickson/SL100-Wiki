@@ -1,0 +1,41 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||== Images listed for deletion ==
+Some of the images and/or media files that you have uploaded have been listed for deletion. Please see [[Wookieepedia:Speedy deletions]] if you are interested in preserving them.{{<includeonly>subst:</includeonly>#ifexist:{{{1|}}}|
+*[[:{{{1}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{2|}}}|
+*[[:{{{2}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{3|}}}|
+*[[:{{{3}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{4|}}}|
+*[[:{{{4}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{5|}}}|
+*[[:{{{5}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{6|}}}|
+*[[:{{{6}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{7|}}}|
+*[[:{{{7}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{8|}}}|
+*[[:{{{8}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{9|}}}|
+*[[:{{{9}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{10|}}}|
+*[[:{{{10}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{11|}}}|
+*[[:{{{11}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{12|}}}|
+*[[:{{{12}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{13|}}}|
+*[[:{{{13}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{14|}}}|
+*[[:{{{14}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{15|}}}|
+*[[:{{{15}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{16|}}}|
+*[[:{{{16}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{17|}}}|
+*[[:{{{17}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{18|}}}|
+*[[:{{{18}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{19|}}}|
+*[[:{{{19}}}]]}}{{<includeonly>subst:</includeonly>#ifexist:{{{20|}}}|
+*[[:{{{20}}}]]}}
+Thank you.<!-- Template:Idw-multi -->}}<noinclude>
+
+==Example==
+'''Wiki markup:'''
+<tt><nowiki>{{subst:idw-multi|File:Wiki.png|File:SWW-logo-old.png|File:SWW-logo-slightly-newer.png}}</nowiki></tt>
+
+'''Result:'''
+== Images listed for deletion ==
+Some of the images and/or media files that you have uploaded have been listed for deletion. Please see [[Wookieepedia:Speedy deletions]] if you are interested in preserving them.
+*[[:File:Wiki.png]]
+*[[:File:SWW-logo-old.png]]
+*[[:File:SWW-logo-slightly-newer.png]]
+Thank you.<!-- Template:Idw-multi --> [YOUR_SIGNATURE] {{CURRENTTIME}}, {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}
+
+{{TestTemplatesNotice|*The maximum number of images that can be listed is currently 20.}}
+[[Category:User talk templates|{{PAGENAME}}]]
+
+==See also==
+*[[Template:idw]]</noinclude>

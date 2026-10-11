@@ -1,0 +1,7 @@
+[[Sana Starros 1|''Sana Starros'' 1]] establishes that {{#ifeq:{{PAGENAME}}|Jorinda|Jorinda|[[Jorinda]]}} had [[Death|died]] before the events of ''[[Star Wars: Sana Starros]]'', which take place around [[3 ABY]] per the reasoning [[Template:SanaStarrosDate|here]]. The issue also states that after Jorinda's death, their [[twin]] [[Youngling|children]]&mdash;[[Phel Starros|Phel]] and [[Sana Starros]]&mdash;were raised by the two's {{#ifeq:{{PAGENAME}}|Phel and Sana Starros' father|Phel and Sana Starros' father|[[Phel and Sana Starros' father|father]]}} and {{#ifeq:{{PAGENAME}}|Luu|Luu|[[Luu]]}}. [[Sana Starros 4|''Sana Starros'' 4]] later establishes that after being raised by her two [[Parent|dads]], Sana left to study at the [[University of Bar'leth]]. ''[[Doctor Aphra: An Audiobook Original]]'' depicts [[Chelli Lona Aphra]] first real noticing of Sana at the [[University]] of [[Bar'leth]] as taking place not long after Aphra had began her [[doctor]]ate, which ''[[Star Wars: Timelines]]'' dates to [[11 BBY]]. Therefore, Sana must have enrolled at the university by around 11 [['ABY-BBY' dating system|BBY]], and Jorinda must have passed away by that same [[time]].<noinclude>
+
+==Usage==
+<code><nowiki>{{JorindaDeathDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

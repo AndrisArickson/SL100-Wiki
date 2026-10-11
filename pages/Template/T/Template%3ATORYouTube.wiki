@@ -1,0 +1,15 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=TORYouTube
+|archive=YouTube
+|image=[[File:SWTOR_mini.png|text-top|x16px|link=https://www.youtube.com/user/swtheoldrepublic]]
+|site_text=the official ''[[Star Wars: The Old Republic]]'' [https://www.youtube.com/user/swtheoldrepublic YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|int={{{int|}}}
+|site_template=TORweb
+|site_name=SWTOR.com
+|site_base_url=https://www.swtor.com
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

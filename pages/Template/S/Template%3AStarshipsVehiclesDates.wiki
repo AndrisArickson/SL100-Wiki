@@ -1,0 +1,48 @@
+<includeonly>While [[De Agostini]] and Altaya list fortnightly release dates for most of the issues of ''[[Star Wars Starships & Vehicles]]'', their marketing about the release schedule on {{DeAgostini|url=miniaturas-figuras/naves-star-wars|text=''Star Wars Naves y Vehículos''}} and {{Altaya|url=miniatures-figurines/star-wars-vaisseaux|text=''Star Wars: Vaisseaux et Véhicules''}} instead states that the issues were sent out in shipments, like the majority of De Agostini's magazine lines. This is confirmed by subscriber reports on {{Rebelscum|subdomain=forum|url=threads/deagostini-altaya-is-back-with-a-new-ships-vehicles-subscriber-line-so-far-only-in-france.1147242|text=DeAgostini / Altaya is back with a new ships & vehicles subscriber line (so far, only in France)}}, starting in [[May]] [[2021]]. Additionally, while the Spanish and French versions were originally in sync, the French edition shipped issues in sets of 3 starting with issue 11, while the Spanish version shipped two issues at a time. As a result, it can be determined that [[Star Wars Starships & Vehicles {{{1}}}|''Star Wars Starships & Vehicles'' {{{1}}}]] was first sent to subscribers around {{#switch:{{{1|}}}
+|1|2 = [[May]], [[2021]].
+|3|4 = [[June]], [[2021]].
+|5|6 = [[August]], [[2021]].
+|7|8|9|10 = [[October]], [[2021]].
+|11|12 = [[November]], [[2021]].
+|13|14 = [[December]], [[2021]].
+|15|16 = [[January]], [[2022]].
+|17|18|19 = [[February]], [[2022]].
+|20|21|22 = [[April]], [[2022]].
+|23|24|25 = [[June]], [[2022]].
+|26|27|28 = [[August]], [[2022]].
+|29|30|31 = [[October]], [[2022]].
+|32|33|34 = [[December]], [[2022]].
+|35|36|37 = [[February]], [[2023]].
+|38|39|40 = [[March]], [[2023]].
+|41|42|43 = [[May]], [[2023]].
+|44|45|46 = [[June]], [[2023]].
+|47|48|49 = [[July]], [[2023]].
+|50|51|52 = [[August]], [[2023]].
+|53|54|55 = [[September]], [[2023]].
+|56|57|58 = [[November]], [[2023]].
+|59|60|61 = [[December]], [[2023]].
+|62|63|64 = [[January]], [[2024]].
+|65|66|67 = [[February]], [[2024]].
+|68|69|70 = [[March]], [[2024]].
+|71|72|73 = [[April]], [[2024]].
+|74|75|76 = [[May]], [[2024]].
+|77|78|79 = [[June]], [[2024]].
+|80|81|82 = [[July]], [[2024]].
+|83|84|85 = [[September]], [[2024]].
+|86|87|88 = [[October]], [[2024]].
+|89|90|91 = [[November]], [[2024]].
+|92|93|94 = [[January]], [[2025]].
+|95|96|97 = [[February]], [[2025]].
+|98|99|100 = [[March]], [[2025]].
+|=<!--do nothing if no parameter-->
+|#default={{#switch:{{FULLPAGENAME}}|Template:StarshipsVehiclesDates|#default=<span style="font-size: 1.5em; color: red">Template error: Invalid issue number passed into <nowiki>{{StarshipsVehiclesDates}}</nowiki>. See [[Template:StarshipsVehiclesDates|this page]] for instructions on how to properly use the template.</span>}}}}</includeonly><noinclude>This template is to be used for citing the release dates of individual issues of [[De Agostini]]'s ''[[Star Wars Starships & Vehicles]]''.
+
+==Usage==
+Copy-paste the following code and replace "NUMBER" with the appropriate issue number.
+ <nowiki>{{</nowiki>StarshipsVehiclesDates|''NUMBER''}}
+
+===Example===
+ <nowiki>{{StarshipsVehiclesDates|75}}</nowiki>
+*{{StarshipsVehiclesDates|75}}
+
+[[Category:Dating citation templates|{{PAGENAME}}]]</noinclude>

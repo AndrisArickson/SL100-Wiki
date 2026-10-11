@@ -1,0 +1,39 @@
+<noinclude>{{#ifeq:{{SUBPAGENAME}}|sandbox|{{Template sandbox notice}}
+}}
+</noinclude><!--
+-->{{#ifeq:{{lc: {{{wrap|}}} }}|no|<SPAN STYLE="white-space:nowrap">}}<!--
+-->{{#if:{{{ 2|{{{1|}}} }}}|<!--2 THEN 1 BECAUSE DEFINED-BUT-EMPTY 1 GIVES FALSE
+-->{{#if:{{{ 1|}}}|<SPAN STYLE="font-variant:small-caps">{{{ 1|}}}</SPAN><!--
+-->}}<!--
+-->{{#if:{{{ 2|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{ 2|}}} }}</SPAN><!--
+-->{{#if:{{{ 3|}}}|<SPAN STYLE="font-variant:small-caps">{{{ 3|}}}</SPAN><!--
+-->{{#if:{{{ 4|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{ 4|}}} }}</SPAN><!--
+-->{{#if:{{{ 5|}}}|<SPAN STYLE="font-variant:small-caps">{{{ 5|}}}</SPAN><!--
+-->{{#if:{{{ 6|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{ 6|}}} }}</SPAN><!--
+-->{{#if:{{{ 7|}}}|<SPAN STYLE="font-variant:small-caps">{{{ 7|}}}</SPAN><!--
+-->{{#if:{{{ 8|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{ 8|}}} }}</SPAN><!--
+-->{{#if:{{{ 9|}}}|<SPAN STYLE="font-variant:small-caps">{{{ 9|}}}</SPAN><!--
+-->{{#if:{{{10|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{10|}}} }}</SPAN><!--
+-->{{#if:{{{11|}}}|<SPAN STYLE="font-variant:small-caps">{{{11|}}}</SPAN><!--
+-->{{#if:{{{12|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{12|}}} }}</SPAN><!--
+-->{{#if:{{{13|}}}|<SPAN STYLE="font-variant:small-caps">{{{13|}}}</SPAN><!--
+-->{{#if:{{{14|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{14|}}} }}</SPAN><!--
+-->{{#if:{{{15|}}}|<SPAN STYLE="font-variant:small-caps">{{{15|}}}</SPAN><!--
+-->{{#if:{{{16|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{16|}}} }}</SPAN><!--
+-->{{#if:{{{17|}}}|<SPAN STYLE="font-variant:small-caps">{{{17|}}}</SPAN><!--
+-->{{#if:{{{18|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{18|}}} }}</SPAN><!--
+-->{{#if:{{{19|}}}|<SPAN STYLE="font-variant:small-caps">{{{19|}}}</SPAN><!--
+-->{{#if:{{{20|}}}|<SPAN STYLE="font-size:80%"    >{{uc: {{{20|}}} }}</SPAN><!--
+-->{{#if:{{{21|}}}
+    |<DIV STYLE="background-color:yellow">[[Template:sc]]: too much segments</DIV><!--
+-->}}<!--
+-->}} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }} }}<!--
+-->{{#ifeq:{{lc: {{{wrap|}}} }}|no|</SPAN>}}<!--
+--><noinclude>
+<!--
+    PLEASE DO NOT ADD DOCUMENTATION/CATEGORIES/INTERWIKIS HERE
+    MAKE ADDITIONS TO THE /doc SUBPAGE INSTEAD, THANKS
+-->
+Borrowed from Wikipedia, a template used for displaying text in {{sc|S|MALL}} {{sc|C|APS}}
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

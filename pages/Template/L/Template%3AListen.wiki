@@ -1,0 +1,12 @@
+{| cellspacing=0 border=0 align=left style="color: inherit; background-color: transparent; margin: 0.25em 0;"
+|- style="vertical-align: top;"
+| rowspan=3 style="width: 30px; padding-right: 3px; padding-top: 4px; vertical-align: top;" | https://static.wikia.nocookie.net/starwars/images/e/ee/Quote-audio.png/revision/latest/scale-to-width-down/35?cb=20250116042720
+| style="vertical-align: top;" | <sm2>{{{filename}}}</sm2> ([[:File:{{{filename}}}|file info]])
+|-
+| style="font-size: 91%; padding: 0; margin: 0;" | {{{description}}}
+|}
+<br clear="left"><noinclude>
+==See also==
+*[[Wookieepedia:Templates/Audio]]
+
+[[Category:Media templates|Listen]]</noinclude>

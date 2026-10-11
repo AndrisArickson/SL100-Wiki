@@ -1,0 +1,3 @@
+<onlyinclude><!--
+	-->{{#if:{{{name|<noinclude>Kiax</noinclude>}}}|{{UprisingComponents|get=iconborder|size={{#if:{{{size|}}}|{{{size}}}|small}}|baseName={{{name|<noinclude>Kiax</noinclude>}}}|level={{{level|<noinclude>4</noinclude>}}}|borderColor=level|bgImage=1|num={{{num|<noinclude>3</noinclude>}}}}}|}}<!--
+--></onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

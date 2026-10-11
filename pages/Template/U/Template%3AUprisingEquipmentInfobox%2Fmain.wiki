@@ -1,0 +1,41 @@
+<onlyinclude><infobox>
+	<image source="image" />
+	<title source="name"><default>{{PAGENAME}}</default></title>
+	<data source="description"></data>
+	
+	<data source="stars"></data>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Info</header>
+		<data source="info"><default>N/A</default></data>
+	</group>
+	
+	<navigation>{{UprisingEquipmentInfobox/StatsTable|attack={{{attack|?}}}|armor={{{armor|?}}}|utility={{{utility|?}}}|ranged={{{ranged|?}}}|dodge={{{dodge|?}}}|attackspeed={{{attackspeed|?}}}|levelCap={{{levelCap|}}}}}</navigation>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Attack Min/Max</header>
+		<data source="attackMin"><label>Min</label></data>
+		<data source="attackMax"><label>Max</label></data>
+	</group>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Armor Min/Max</header>
+		<data source="armorMin"><label>Min</label></data>
+		<data source="armorMax"><label>Max</label></data>
+	</group>
+	
+	<group layout="horizontal" show="incomplete">
+		<header>Utility Min/Max</header>
+		<data source="utilityMin"><label>Min</label></data>
+		<data source="utilityMax"><label>Max</label></data>
+	</group>
+
+	<group layout="horizontal" show="incomplete">
+		<header>Value</header>
+		<data source="credits"><label>Credits</label><default>?</default></data>
+		<data source="salvage"><label>Salvage</label><default>?</default></data>
+	</group>
+	
+	<navigation>{{{navigation|}}}</navigation>
+
+</infobox></onlyinclude><noinclude>[[Category:Equipment Templates for Star Wars: Uprising]]</noinclude>

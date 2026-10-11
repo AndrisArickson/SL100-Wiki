@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Pedigree Books]]'s [https://www.pedigreebooks.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Pedigree|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.pedigreebooks.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Pedigree|url=site/product/clone_wars_annual_2012|text=Clone Wars Annual 2012|archivedate=20120526172021}}</nowiki></code>
+
+Results in:
+
+{{Pedigree|url=site/product/clone_wars_annual_2012|text=Clone Wars Annual 2012|archivedate=20120526172021}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

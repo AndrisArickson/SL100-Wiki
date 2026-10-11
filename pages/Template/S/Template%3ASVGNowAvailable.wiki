@@ -1,0 +1,10 @@
+{{SmallMB
+|image=[[File:Dialog-warning.svg|50px]]
+|message='''This {{#switch:{{#explode:{{PAGENAME}}|.|-1}}|png=[[wikipedia:PNG|'''PNG''']]|jpg=[[wikipedia:JPEG|'''JPEG''']]|webp=[[wikipedia:WebP|'''WebP''']]|}} image was ''superseded'' by a [[wikipedia:Vector graphics|vector graphic]] version in the [[wikipedia:SVG|SVG]] [[wikipedia:Image file format|file format]] and therefore ''is currently obsolete''. Please utilize the [[:{{NAMESPACE}}:{{{1}}}|SVG image file]] (a new version of this image file) instead.'''
+|messagestyle=text-align:center
+}}<includeonly>{{SpecialCategorizer|[[Category:Images made obsolete by an SVG version|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Images made obsolete by an SVG version]]
+
+[[Category:File maintenance templates]]</noinclude>

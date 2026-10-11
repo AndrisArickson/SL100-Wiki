@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=RJRadio
+|mode=tv
+|series=Return of the Jedi (radio)
+|stext=''Return of the Jedi'' radio drama
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Documentation}}</noinclude>

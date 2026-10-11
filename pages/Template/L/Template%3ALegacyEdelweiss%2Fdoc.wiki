@@ -1,0 +1,22 @@
+This template is to be used for citing cancelled and past solicits pages on [https://www.edelweiss.plus/ Edelweiss+'s official website]; specifically for solicits that cannot be replaced by the publisher page.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{LegacyEdelweiss|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.edelweiss.plus/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{LegacyEdelweiss|url=#sku=1942556411&page=1|text=Rogue One: A Star Wars Story: The Official Visual Story Guide}}</nowiki></code>
+
+Results in:
+{{LegacyEdelweiss|url=#sku=1942556411&page=1|text=Rogue One: A Star Wars Story: The Official Visual Story Guide}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

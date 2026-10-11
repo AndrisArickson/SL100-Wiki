@@ -1,0 +1,6 @@
+<table id="semiprotected" class="article-editintro darkbackground1" style="padding: 5px; width: 100%; border: 2px solid #2f6fab; background:#FFFFFF; -moz-border-radius: 6px; margin-bottom: 4px; clear: left; font-size:110%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Padlockicon2.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><big>'''This page is currently [[Wookieepedia:Protection policy|semi-protected]] so that only registered users can modify it.'''</big><br /><br />While most Wookieepedia pages are editable by anyone, page protection is sometimes necessary to prevent vandalism and other forms of disruption. For more information, refer to the [[Wookieepedia:Protection policy|Protection policy]].
+*'''[[Special:UserSignup|Create an account]]''' and wait '''four days''' for your account to reach "autoconfirmed" status, at which point you can edit this page.
+*'''[[{{TALKPAGENAME}}|Post on the talk page]]''' if you find something that needs to be changed in the meantime.
+</td></tr></table><noinclude>{{Top|fprot}}
+
+[[Category:Administrative templates]]</noinclude>

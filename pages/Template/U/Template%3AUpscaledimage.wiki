@@ -1,0 +1,15 @@
+{{SmallMB
+|image=[[File:Dialog-warning.svg|50px]]
+|message='''This image is in possible <span style="color:red">''violation of the [[Wookieepedia:Files|files policy]]</span>'' due to it ''potentially being [[wikipedia:Image scaling|upscaled]] utilising [[Wikipedia:Artificial_intelligence|AI (artificial intelligence)]] or through conventional means''.</span> Therefore, the existing image file should be superseded with a new upload that is not upscaled, and if applicable, potentially [[Wookieepedia:Speedy deletions|nominated for speedy deletion]]''', by amending this file page with the [[Template:Delete|delete template]] as soon as possible. {{#if:{{{1|}}}|<br />Specific issue(s):''' ''{{{1}}}.''|'''}}<br />
+Please '''discern a non-upscaled version of the current image''' and '''replace the existing image file''' by either:
+*'''Re-uploading the non-upscaled image via the [[Special:Upload|main file upload page]]''', and then '''nominate this image file to be [[Wookieepedia:Speedy deletions|speedily deleted]]''', by replacing this notice with the {{Tl|Delete}} template.
+*OR, '''by uploading the non-upscaled image as a new version of this image file''', through this file page, and '''then removing this notice once finished'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:Images with upscaling to be reuploaded|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Images with upscaling to be reuploaded]]
+
+==See also==
+*[[Forum:CT:Upscaled images]]
+*[[Wookieepedia:Files#Restoration and enhancement|Wookieepedia:Files&mdash;Restoration and enhancement]]
+[[Category:File maintenance templates]]</noinclude>

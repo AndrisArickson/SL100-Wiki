@@ -1,0 +1,22 @@
+This template is to be used for citing individual pages on ''[[Minecraft]]''{{'}}s [https://www.minecraft.net official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{Minecraft|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.minecraft.net/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Minecraft|url=en-us/article/star-wars-lands-minecraft|text=Star Wars Lands in Minecraft|archivedate=20250227084214}}</nowiki></code>
+
+Results in:
+
+{{Minecraft|url=en-us/article/star-wars-lands-minecraft|text=Star Wars Lands in Minecraft|archivedate=20250227084214}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

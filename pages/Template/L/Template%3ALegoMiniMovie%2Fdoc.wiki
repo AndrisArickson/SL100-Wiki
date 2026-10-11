@@ -1,0 +1,31 @@
+This template is to be used to cite [[LEGO Star Wars Movie Short]] videos from the official [[The LEGO Group|LEGO]] YouTube channel.
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{LegoMiniMovie|video=|text=|int=|date=|quote=|parameter=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|int}} This field provides a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|date}} Date the Youtube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} To include a quote. 
+*{{Para|parameter}} To create a link to a channel's playlist, use <code>|parameter=playlist?list</code>.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{LegoMiniMovie|FAiCnbKZqcs|Pumpkin Pod Race|series=Battle Story}}</nowiki></code>
+
+Results in:
+
+{{LegoMiniMovie|FAiCnbKZqcs|Pumpkin Pod Race|series=Battle Story}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube series citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

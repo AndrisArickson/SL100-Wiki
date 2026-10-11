@@ -1,0 +1,8 @@
+{{Userbox|#CCC|#EEE|edit|This user has [[Special:Editcount/{{PAGENAME}}|{{Special:Editcount/{{PAGENAME}}}}]] total edits.|headerbackground=2}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserEdits}}</nowiki></code> into your user page.
+
+{{Interlang|es=Plantilla:Ediciones}}
+
+[[Category:Wiki userboxes|Edits]]</noinclude>

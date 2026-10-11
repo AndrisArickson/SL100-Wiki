@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[Titan Magazines|Titan Comics]]' [https://titan-comics.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{TitanComics|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://titan-comics.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL. Default will be empty if left blank.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{TitanComics|url=m/61-star-wars-insider-2021-souvenir-edition/|text=Star Wars Insider 2021 Souvenir Edition|archivedate=20211010104159}}</nowiki></code>
+
+Results in:
+
+{{TitanComics|url=m/61-star-wars-insider-2021-souvenir-edition/|text=Star Wars Insider 2021 Souvenir Edition|archivedate=20211010104159}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

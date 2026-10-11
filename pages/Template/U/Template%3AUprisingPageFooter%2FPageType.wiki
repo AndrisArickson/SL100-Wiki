@@ -1,0 +1,26 @@
+<onlyinclude>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<!--
+	-->{{#switch:{{lc:{{{pagePath|}}}}}<!--
+		-->|head|backpack|weapon|torso|hands=equipment<!--
+		-->|#default=<!--
+			-->{{#switch:{{lc:{{{subPageName|}}}}}<!--
+				-->|stats=general<!--
+				-->|crew=general<!--
+				-->|equipment=general<!--
+				-->|abilities=abilities<!--
+				-->|crystals<!--
+				-->|materials<!--
+				-->|components=components<!--
+				-->|equipment=equipment<!--
+				-->|#default=<!--
+					-->{{#switch:{{lc:{{{rootPageName|}}}}}<!--
+						-->|stats=general<!--
+						-->|crew=general<!--
+						-->|equipment=general<!--
+						-->|abilities=abilities<!--
+						-->|components=components<!--
+						-->|equipment=equipment<!--
+						-->|#default=<!--
+					-->}}<!--
+			-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Footer Templates for Star Wars: Uprising]]</noinclude>

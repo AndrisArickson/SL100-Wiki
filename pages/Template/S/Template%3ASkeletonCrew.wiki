@@ -1,0 +1,14 @@
+{{#invoke:BaseCitation|main|template=SkeletonCrew
+|mode=TV
+|image=[[File:SkeletonCrew-FinalLogo.png|text-top|x16px|link=Star Wars: Skeleton Crew]]
+|series=Star Wars: Skeleton Crew
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "EPISODE TITLE" with the appropriate episode name.
+<nowiki>{{</nowiki>SkeletonCrew|''EPISODE TITLE''|''FORMATTED TITLE'' (optional)}}
+
+This template is intended to be used to cite information from the ''[[Star Wars: Skeleton Crew]]'' television show and to list episodes from the show in appearances
+
+[[Category:TV citation templates|{{PAGENAME}}]]</noinclude>

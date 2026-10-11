@@ -1,0 +1,44 @@
+<infobox theme="Tactics">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="creator"><label>Creator(s)</label></data>
+        <data source="date"><label>Date created</label></data>	
+        <data source="first"><label>First employed</label></data>	
+        <data source="last"><label>Last employed</label></data>			
+        <data source="notable"><label>Notable employments</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Organizational information</header>
+        <data source="purpose"><label>Purpose</label></data>
+        <data source="requisites"><label>Requisites</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Other information</header>
+        <data source="utilized"><label>Utilized by</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Tactics|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|creator|date|first|last|notable|purpose|requisites|utilized|ignore=name}}<noinclude>
+[[category:infobox templates]]
+{{clear}}
+
+===Usage===
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>
+{{Tactics
+|image=
+|name=
+|creator=
+|date=
+|first=
+|last=
+|notable=
+|purpose=
+|requisites=
+|utilized=
+}}</nowiki></pre></noinclude>

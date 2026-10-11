@@ -1,0 +1,15 @@
+====<includeonly>{{subst:NomPageTitle}}</includeonly>====
+Two-week deadline from first request. Voting ends on INSERT DATE HERE.
+
+{{RFRvotes|{{<includeonly>subst</includeonly>:FULLPAGENAME}}}}
+=====Support=====
+
+=====Oppose=====
+
+=====Optional candidate Q&A=====
+
+=====Comments=====
+
+<!-- DO NOT WRITE BELOW THIS LINE! --><noinclude>
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Preloads|{{PAGENAME}}]]</noinclude>

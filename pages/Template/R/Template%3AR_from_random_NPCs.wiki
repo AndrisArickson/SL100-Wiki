@@ -1,0 +1,19 @@
+&#32;
+----
+This is a redirect from a randomly generated non-player/computer-controlled character name from a video game.
+
+For more information, please see [[List of computer-controlled character names in Battlefront games|List of computer-controlled character names in ''Battlefront'' games]], [[List of computer-controlled character names in Star Wars: Squadrons|List of computer-controlled character names in ''Star Wars: Squadrons'']], and ''[[Ewok Village]]''.<includeonly>{{SpecialCategorizer|[[Category:Redirects from randomly generated NPC names]]}}</includeonly><noinclude>
+
+==Usage==
+See '''{{Tl|Bfname}}''' for redirects to [[List of computer-controlled character names in Battlefront games|List of computer-controlled character names in ''Battlefront'' games]]. Otherwise, replace the contents of a suitable page with the following code to be used as a redirect:
+
+<pre>
+#REDIRECT [[PAGENAME]]
+
+{{R_from_random_NPCs}}
+</pre>
+
+==Categorization==
+*[[:Category:Redirects from randomly generated NPC names]]
+
+[[Category:Disambiguation and redirection templates|R from random NPCs]]</noinclude>

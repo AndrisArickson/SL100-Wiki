@@ -1,0 +1,30 @@
+<div class="quote2">
+<span {{#if:{{{url|}}}|title="Source:&#32;{{{url}}}"|}}>"''{{{1}}}''"</span><br />
+&#8213;{{{2}}}{{#if:{{{url|}}}|<sup class="noprint plainlinks">[{{{url|}}} &#91;src&#93;]</sup>|<includeonly>{{#if:{{NAMESPACE}}||{{SpecialCategorizer|[[Category:Unsourced quotes]]}}}}</includeonly>}}
+</div><noinclude>{{Top|sprot}} __NOTOC__
+
+==About==
+This template was used to present the [[Wookieepedia:Quote of the Day|Quote of the Day]] on the wiki [[Main Page]].
+
+==Usage instructions==
+<pre><nowiki>{{Quoteurl2|quote|attribution|url=source}}</nowiki></pre>
+
+===Notes===
+*This is for quotes whose source is a URL, to keep the source tag from breaking.
+*If any text is assigned to the ''source'' field, it will be rendered as a browser [[Wikipedia:Tooltip|tooltip]].
+
+==Example==
+====Code====
+<code><nowiki>{{Quoteurl2|I always wondered which one of the stormtroopers did Darth Vader's laundry.  Now that I think about it, it was probably one of the Royal Guards since they're his own personal attachés. Plus they probably know how to properly separate colors from whites since they wear those bright red robes. Could you imagine if they got one of their robes mixed in with Vader's robes? 'Why is everything purple?!' Now ''that'' would be worthy of a Force choke!|[[wikipedia:Hal Sparks|Hal Sparks]] in an interview|url=http://www.starwars.com/community/news/rocks/f20070214/indexp3.html}}</nowiki></code>
+
+====Result====
+{{Quoteurl2|I always wondered which one of the stormtroopers did Darth Vader's laundry.  Now that I think about it, it was probably one of the Royal Guards since they're his own personal attachés. Plus they probably know how to properly separate colors from whites since they wear those bright red robes. Could you imagine if they got one of their robes mixed in with Vader's robes? 'Why is everything purple?!' Now ''that'' would be worthy of a Force choke!|[[wikipedia:Hal Sparks|Hal Sparks]] in an interview|url=http://www.starwars.com/community/news/rocks/f20070214/indexp3.html}}
+
+==See also==
+*[[Wookieepedia:Templates/Quotes]]
+
+==Note==
+As a heavily used, high-visibility template, this template is protected from editing by anonymous or newly registered users.
+
+[[Category:Deprecated templates]]
+[[Category:Quotation templates|{{PAGENAME}}]]</noinclude>

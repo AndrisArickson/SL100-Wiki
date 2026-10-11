@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Jazwares|Jazwares']] [https://shop.jazwares.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Jazwares|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://shop.jazwares.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Jazwares|subdomain=shop|url=products/star-wars-micro-galaxy-squadron-light-armor-class-series-5-box-set|text=Star Wars Micro Galaxy Squadron Light Armor Class Series 5 Box Set|archivedate=20241211122202}}</nowiki></code>
+
+Results in:
+
+{{Jazwares|subdomain=shop|url=products/star-wars-micro-galaxy-squadron-light-armor-class-series-5-box-set|text=Star Wars Micro Galaxy Squadron Light Armor Class Series 5 Box Set|archivedate=20241211122202}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

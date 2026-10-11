@@ -1,0 +1,12 @@
+{{ooumb
+| id = Policy
+| bg = #D8E9FC
+| image = [[File:Information_icon.svg|45px]]
+| caption = This page or section is an official policy on [[Wookieepedia]].
+| message = It has wide acceptance among editors and is considered a standard that everyone must follow. Please use the [[Forum:Consensus track|Consensus track]] to propose changes to this policy.
+}}<includeonly>{{SpecialCategorizer|[[Category:Policies on Wookieepedia|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|fprot}}
+
+==Categorization==
+*[[:Category:Policies on Wookieepedia]]
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:ToyCitation|main|template=KennerCite
+|image=[[File:Kenner-Template.svg|text-bottom|x16px|link=Kenner Products]]
+|set={{{set}}}
+|stext={{{text|}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link=
+|url={{#if:{{{link|}}}|https://www.rebelscum.com/{{{link|}}}|{{{altlink|}}}}}
+|baseUrl=https://www.rebelscum.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

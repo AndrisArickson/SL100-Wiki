@@ -1,0 +1,13 @@
+{| class="Talk-Notice" class= "headerbackground" style="background: #FBB7B7; border: 3px solid #FF0000; padding: 0.2em; margin: 0 auto 3px auto; font-size: 95%; color: black;"
+| style="padding-right: 4px; padding-left: 4px;" | 
+[[File:Dialog-error.svg|30px]]
+| <font size="3">'''User warning: [[Fanon]].'''</font>
+
+'''Please [[Wookieepedia:Canon policy|do not]] add your own fanfiction to Wookieepedia articles.''' 
+
+[[Wookieepedia:What Wookieepedia is not#Wookieepedia is not the place for fan fiction|Fanon on Wookieepedia will be deleted]].
+
+Your input may be more welcome on the [[W:c:swfanon:Main Page|''Star Wars'' Fanon Wiki]]!{{#if:{{{1|}}}|<p>{{{1}}}</p>|}}
+|}<noinclude>{{TestTemplatesNotice}}
+
+To place the above warning on a user's talk page type the following: '''<nowiki>{{subst:Msg-fanon|~~~~}} </nowiki>'''[[Category:User talk templates|Msg-fanon]]</noinclude>

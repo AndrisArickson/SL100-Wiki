@@ -1,0 +1,6 @@
+Thanks for contributing to Wookieepedia! When adding interwiki links to an article's {{Tl|Interlang}} template, please make sure you are listing them in alphabetical order, in accordance with the [[Wookieepedia:Layout Guide#Interwiki links|Wookieepedia Layout Guide]]. Thank you! {{{1|}}} <!-- Template:Msg-interlang --><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-interlang|~~~~}}</nowiki></code> to place the above notice on a user's talk page.
+
+{{TestTemplatesNotice}}
+[[Category:User talk templates]]</noinclude>

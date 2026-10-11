@@ -1,0 +1,20 @@
+{{Iumb
+|id=Protect
+|bg=#DCE4FA
+|image=[[File:ShieldsUp.png|75px]]
+|caption=They're moving to attack position! Shields up!
+|message=It has been [[Wookieepedia:Requests for protection|requested]] that this page be [[Wookieepedia:Protection policy|protected]]. This is because: '''''{{#if:{{{1|}}}|{{{1}}}|no reason given}}'''''.
+|comment=''[[Wookieepedia:Administrators|Administrators]] - Remember to check [{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} the page history] ([{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|diff=0}} last edit]) before protecting, add or remove the relevant parameter(s) to {{Tl|Top}}, and remove this message when done.''
+}}<includeonly>{{SpecialCategorizer|[[Category:Requests for protection]]}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+==Usage instructions==
+Place the following code on the page to be protected and replace "reason" with the reason why the article should be given protection.
+
+<pre><nowiki>
+{{Protect|''REASON''}}
+</nowiki></pre>
+
+==Categorization==
+*[[:Category:Requests for protection]]
+
+[[Category:Maintenance templates]]</noinclude>

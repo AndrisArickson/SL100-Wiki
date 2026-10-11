@@ -1,0 +1,48 @@
+==<span style="color:red">'''NOTICE'''</span>==
+The [https://web.archive.org/web/20201022051828/https://www.youtube.com/c/ILMxLAB ILMxLAB] and [https://web.archive.org/web/20201019181344/https://www.youtube.com/c/ILMVFX ILMVFX] YouTube channels have since been merged into a single channel&mdash;[https://www.youtube.com/c/ILMVFX Industrial Light & Magic]&mdash;including the entirety of both channels' videos. With that in mind, every video prior to the merge and going forward will be covered using only this template.
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{ILMYouTube|video=|text=|date=|quote=|parameter=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Date the Youtube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} To include a quote. 
+*{{Para|parameter}} To create a link to a channel's playlist, use <code>|parameter=playlist?list</code>.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{ILMYouTube|DM_XwzOK_98|Light & Magic &amp;#124; Official Trailer &amp;#124; Disney+|archivedate=20220707161928}}</nowiki></code>
+
+Results in:
+
+{{ILMYouTube|DM_XwzOK_98|Light & Magic &#124; Official Trailer &#124; Disney+}}
+
+<hr />
+<code><nowiki>{{ILMYouTube|video=fvOw-MAT_p4|text=Age of Jedi - Original Score by Joseph Trapanese &amp;#124; Star Wars: Tales from the Galaxy's Edge|archivedate=20201221032906}}</nowiki></code>
+
+Results in:
+
+{{ILMYouTube|video=fvOw-MAT_p4|text=Age of Jedi - Original Score by Joseph Trapanese &#124; Star Wars: Tales from the Galaxy's Edge}}
+
+<hr />
+For a playlist:
+
+<code><nowiki>{{ILMYouTube|parameter=playlist?list|video=PLD1LJWlLIBcaJqzTLmXsSNqwh2uF_tl8e|text=Star Wars: Tales from the Galaxy's Edge - Original Scores|archivedate=20201203000446}}
+</nowiki></code>
+
+Results in:
+
+{{ILMYouTube|parameter=playlist?list|video=PLD1LJWlLIBcaJqzTLmXsSNqwh2uF_tl8e|text=Star Wars: Tales from the Galaxy's Edge - Original Scores}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Substack
+|image=[[File:Substack-Favicon.svg|text-top|x18px|link=https://www.substack.com]]
+|site_text=[https://{{{subdomain|www}}}.substack.com Substack]
+|base_url=https://{{{subdomain|www}}}.substack.com
+|full_url={{#if:{{{url|}}}||https://{{{subdomain|www}}}.substack.com}}
+|target_url={{{url|{{{subdomain|}}}}}}
+|text={{#if:{{{url|}}}|{{{text|}}}|{{{name|}}}}}
+|use_lua_subpage=1
+|author={{#if:{{{url|}}}|{{#if:{{{name|}}}{{{username|}}}|{{#if:{{{name|}}}|{{{name}}}}} {{#if:{{{username|}}}|([https://substack.com/@{{{username}}} @{{{username}}}])}}|}}|}}
+}}{{#if:{{{name|}}}{{{username|}}}||[[Category:Blog citations missing site name]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

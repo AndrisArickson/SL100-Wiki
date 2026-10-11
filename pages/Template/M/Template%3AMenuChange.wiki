@@ -1,0 +1,7 @@
+<small>(First identified as {{{1|<!--
+-->{{#ifeq: {{#rpos:{{PAGENAME}}|/Legends}} | -1 |<!--
+	-->{{#ifeq: {{#rpos:{{PAGENAME}}|/Canon}} | -1 |<!--
+		-->{{PAGENAME}} | {{#sub:{{PAGENAME}}|0| {{#rpos:{{PAGENAME}}|/Canon}}}}<!--
+	-->}} | {{#sub:{{PAGENAME}}|0| {{#rpos:{{PAGENAME}}|/Legends}}}}<!--
+-->}}<!--
+-->}}} after menu change{{#if:{{{2|{{{simult|}}}}}}|, simultaneous with {{{2|{{{simult}}}}}}|}})</small><noinclude>[[Category:Appearance templates|{{PAGENAME}}]]</noinclude>

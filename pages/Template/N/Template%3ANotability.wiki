@@ -1,0 +1,9 @@
+{{#ifexpr:{{#expr:{{#time: U}} - {{#time: U | {{{time|{{REVISIONTIMESTAMP}}}}}}} }} > 604800|<includeonly>{{Delete|Unverified for over seven days (notability){{#if:{{{1|}}}|&#32;(note: {{{1}}})}}}}</includeonly>|{{Notability/template|{{{1|}}}}}<includeonly>[[Category:OOU articles in need of verification|{{PAGENAME}}]]</includeonly>}}<noinclude>
+
+==Categorization==
+*[[:Category:Articles in need of verification]]
+
+==Note==
+Please use {{Tl|Verify}} for in-universe topics of questionable validity. The actual template is located at [[Template:Notability/template]].
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Verification templates|{{PAGENAME}}]]</noinclude>

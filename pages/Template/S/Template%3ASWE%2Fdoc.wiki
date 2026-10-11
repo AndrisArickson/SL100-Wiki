@@ -1,0 +1,33 @@
+==Usage instructions==
+For citing Databank entries prior to the [[September 11]], [[2011]] overhaul, see {{Tl|DB}}.
+#Find the correct article in the [[Encyclopedia (StarWars.com)|Encyclopedia]]
+#Create a Sources section, if needed, and copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{SWE|category=|subject=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+Note that care must be taken to avoid an incorrect link. "Category" refers to the characters, locations, technology, or groups domain. "Subject" refers to the specific entry's part of the URL.
+
+As of [[July 1]], [[2014]], most (but not all) Encyclopedia entries have been replaced with the new [[Databank (website)|Databank]] entries on [[StarWars.com]]&mdash;citable with {{Tl|Databank}}. All entries were later replaced with the new Databank, with no Encyclopedia entries remaining.
+
+===Required parameters===
+*{{Para|category}} Either characters, locations, technology, or groups. This can be found in the marked part of the following URL: <code><nowiki>http://starwars.com/explore/encyclopedia/</nowiki><mark><u>characters</u></mark>/cadbane</code> which would be <code><mark><u>characters</u></mark></code> in this instance.
+*{{Para|subject}} The specific entry's part of the URL, which can be found at the end of the page's URL marked as follows: <code><nowiki>http://starwars.com/explore/encyclopedia/characters/</nowiki><mark><u>cadbane</u></mark></code> which would be <code><mark><u>cadbane</u></mark></code> in this instance.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{SWE|characters|cadbane|Cad Bane}}</nowiki></code>
+
+Results in:
+
+{{SWE|characters|cadbane|Cad Bane}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

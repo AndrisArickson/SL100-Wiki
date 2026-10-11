@@ -1,0 +1,30 @@
+This template is to be used for citing individual pages on the [[Star Wars IncrediBuilds|''IncrediBuilds'']] [https://incredibuilds.com/brand/star-wars/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{IncrediBuilds|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://incredibuilds.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{IncrediBuilds|url=collections/incredibuilds/products/incredibuilds-star-wars-star-destroyer-book-and-3d-wood-model|text=Star Wars: Star Destroyer Book and 3D Wood Model|archivedate=20211213095204}}</nowiki></code>
+
+Results in:
+
+{{IncrediBuilds|url=collections/incredibuilds/products/incredibuilds-star-wars-star-destroyer-book-and-3d-wood-model|text=Star Wars: Star Destroyer Book and 3D Wood Model|archivedate=20211213095204}}
+
+<hr />
+<code><nowiki>{{IncrediBuilds|url=collections/incredibuilds/products/incredibuilds-star-wars-star-destroyer-book-and-3d-wood-model|text=Star Wars: Star Destroyer Book and 3D Wood Model|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{IncrediBuilds|url=collections/incredibuilds/products/incredibuilds-star-wars-star-destroyer-book-and-3d-wood-model|text=Star Wars: Star Destroyer Book and 3D Wood Model|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

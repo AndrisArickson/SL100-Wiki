@@ -1,0 +1,12 @@
+==Usage==
+Place the following code on the page and replace the "issue number" and "story name" with the appropriate information.
+ <nowiki>{{</nowiki>Journal|''ISSUE NUMBER''|STORY NAME|''FORMATTED NAME'' (optional)}}
+
+*'''Note''': Formatted name is ''only'' needed when the episode name includes either italicization, or intentional parentheses. Otherwise, it should be excluded, as parenthetical descriptors are natively hidden.
+*For stories reprinted in other media, use <code>|reprint=1</code> in Appearances sections.
+
+==Image (not orphan)==
+[[File:SWAJsmall.jpg|thumb|left]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Magazine citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

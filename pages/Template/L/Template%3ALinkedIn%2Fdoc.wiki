@@ -1,0 +1,57 @@
+==Instructions==
+This template is to be used for citing individual pages on [[Wikipedia:LinkedIn|LinkedIn]]. Please note that LinkedIn requires an account to consult the profiles. 
+
+Most of the time, archive.org or any archive service won't be able to provide an archive. In this case, you must provide a screenshot.
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use. If used in the External links section, do not add an archive.
+
+===External links===
+<code><nowiki>{{LinkedIn|url=|text=}}</nowiki></code>
+
+====Required parameters====
+*{{para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.linkedin.com/</nowiki></code>).
+*{{para|text}} Name of the page being cited.
+
+===References===
+<code><nowiki>{{LinkedIn|url=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.linkedin.com/</nowiki></code>).
+*{{para|text}} Name of the page being cited.
+*'''backup link''', see instructions below.
+
+====Optional parameters====
+*{{Para|date}} Date the LinkedIn post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Quote from the LinkedIn post for citation purposes.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+===Externals links===
+<code><nowiki>{{LinkedIn|url=in/eric-musco-40982525|text=Eric Musco|archivedate=20200617225159}}</nowiki></code>
+
+Results in:
+
+{{LinkedIn|url=in/eric-musco-40982525|text=Eric Musco|archivedate=20200617225159}}
+
+<hr />
+
+===References===
+<code><nowiki>{{LinkedIn|url=in/eric-musco-40982525|text=Eric Musco|archivefile=File:Eric_Musco_LinkedIn.png}}</nowiki></code>
+
+Results in:
+
+{{LinkedIn|url=in/eric-musco-40982525|text=Eric Musco|archivefile=File:Eric_Musco_LinkedIn.png}}
+
+<hr />
+
+<code><nowiki>{{LinkedIn|url=pulse/sandy-decrescents-impact-motion-pictures-industry-paksy-plackis-cheng|text=Sandy DeCrescent's Impact on the Motion Pictures Industry|date=2019-05-16|archivedate=20190522160345}}</nowiki></code>
+
+Results in:
+
+{{LinkedIn|url=pulse/sandy-decrescents-impact-motion-pictures-industry-paksy-plackis-cheng|text=Sandy DeCrescent's Impact on the Motion Pictures Industry|date=2019-05-16|archivedate=20190522160345}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,15 @@
+{{Ooumb
+| id = Unknown_development_status
+| bg = #D8E9FC
+| image = [[File:Blue-question-mark.png|40px]]
+| caption = The development status of the subject of this article is unknown.
+| message = This article covers a subject that has been announced, but it has been neither released nor officially canceled in more than two years. Since there have been no official updates on the product within that time, its current development status cannot be determined.
+}}
+{{SpecialCategorizer|{{#switch: {{lc: {{{1}}} }}
+| #default = <includeonly>[[Category:Products with unknown development status|{{PAGENAME}}]]</includeonly>
+}}}}<noinclude>
+
+==Usage==
+Per the consensus at [[Forum:CT:Implementing a new template for articles with unknown development status]], this template should be used at the top of articles for unreleased sources that have had no news for over two years.
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,31 @@
+{{Clear}}
+
+===Usage===
+====Required parameters====
+Paste the following code into the top of an article, filling all known fields:
+<pre>{{Top|}}
+{{InUniverseMedia
+|image=
+|name=
+|author=
+|editor=
+|illustrator=
+|artist=
+|performer=
+|publisher=
+|release date=
+|media type=
+|pages=
+|published in=
+|genre=
+}}
+</pre>
+
+*Note that the {{Para|artist}} parameter is exclusive to musician(s) responsible for creating the article subject (song), while the {{Para|performer}} parameter is for others who performed the songs professionally.
+
+==See also==
+*[[Forum:CT:IU songs and artists]]
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Infobox templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

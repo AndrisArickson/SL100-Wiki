@@ -1,0 +1,3 @@
+<div id="old-forum-warning" class="forumheader" style="padding: 5px; border-radius: 10px">'''[[Forum:Index|Forums]] &gt; [[Forum:Senate Hall archive|Senate Hall archive]] &gt; {{PAGENAME}}'''</div><includeonly>[[Category:Senate Hall archive|{{#if:{{#pos:{{PAGENAME}}|/}}|{{#titleparts:{{PAGENAME}}||2}}|{{#sub:{{PAGENAME}}|3}}}}]]</includeonly><noinclude>
+
+[[Category:Forum templates|{{PAGENAME}}]]</noinclude>

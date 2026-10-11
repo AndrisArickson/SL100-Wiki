@@ -1,0 +1,7 @@
+{{#if:{{{{{{2}}}}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" {{!}} {{{1}}}
+{{!}} class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" {{!}}
+{{{{{{2}}}}}}
+{{!}}-
+|}}<noinclude>{{Top|sprot}} [[Category:Utility templates|Sld]]</noinclude>

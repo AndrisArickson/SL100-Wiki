@@ -1,0 +1,27 @@
+==Usage instructions==
+This template is to be used for citing individual pages on [[Lucasfilm|Lucasfilm]]'s official website [https://lucasfilm.com Lucasfilm.com].
+
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{Lucasfilm|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus <code><nowiki>http://www.lucasfilm.com/</nowiki></code>
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Lucasfilm|url=our-team/kathleen-kennedy|text=Kathleen Kennedy|archivedate=20161127074329}}</nowiki></code>
+
+Results in:
+
+{{Lucasfilm|url=our-team/kathleen-kennedy|text=Kathleen Kennedy|archivedate=20161127074329}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

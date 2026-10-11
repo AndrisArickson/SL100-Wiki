@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=LucasArts
+|image=[[File:LucasArtsIcon.png|text-top|link=https://web.archive.org/web/20140525054538/http://www.lucasarts.com]]
+|site_text=[[LucasArts]]'s [https://web.archive.org/web/20140525054538/http://www.lucasarts.com official website]
+|base_url=http://{{{subdomain|www}}}.lucasarts.{{{domain|com}}}
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

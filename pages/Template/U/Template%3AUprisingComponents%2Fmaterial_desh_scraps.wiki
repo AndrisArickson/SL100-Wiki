@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=material desh scraps|title=Desh Scraps|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Desh Scraps<!--
+-->|type=Material<!--
+-->|subtype=Neutral<!--
+-->|element=Neutral<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=This material protects against normal damage.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|perforated|perforateddesh scraps|perforated desh scraps|perforateddeshscraps|perforated deshscraps|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Perforated<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Perforated Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_01.png<!--
+			-->|credits|value|price=52<!--
+			-->|usecost|useprice=100<!--
+			-->|upgradecost|upgradeprice=300<!--
+			-->|howget|howtoget=<div>Low level and repeatable missions.</div><div>Minor reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span>.</div><!--
+			-->|xp=400<!--
+		-->}}<!--
+	-->|pressed|presseddesh scraps|pressed desh scraps|presseddeshscraps|pressed deshscraps|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pressed<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Pressed Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_02.png<!--
+			-->|credits|value|price=105<!--
+			-->|usecost|useprice=300<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<div>Combine 4 Perforated Desh Scraps.</div><div>Low level and repeatable missions.</div><div>Minor reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span>.</div><!--
+			-->|xp=1640<!--
+		-->}}<!--
+	-->|forged|forgeddesh scraps|forged desh scraps|forgeddeshscraps|forged deshscraps|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Forged<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Forged Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_03.png<!--
+			-->|credits|value|price=200<!--
+			-->|usecost|useprice=900<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Combine 4 Pressed Desh Scraps.</div><div>Low level and repeatable missions.</div><div>Minor reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span>.</div><!--
+			-->|xp=6724<!--
+		-->}}<!--
+	-->|plated|plateddesh scraps|plated desh scraps|plateddeshscraps|plated deshscraps|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Plated<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Plated Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_04.png<!--
+			-->|credits|value|price=400<!--
+			-->|usecost|useprice=2700<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine 4 Forged Desh Scraps.</div><div>Low level and repeatable missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span> or <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Chromium|Chromium]]</span>.</div><!--
+			-->|xp=27568<!--
+		-->}}<!--
+	-->|welded|weldeddesh scraps|welded desh scraps|weldeddeshscraps|welded deshscraps|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Welded<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Welded Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_05.png<!--
+			-->|credits|value|price=800<!--
+			-->|usecost|useprice=8100<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 4 Plated Desh Scraps.</div><div>Best reward level missions.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for a <span class="class-style color-gray color-link-gray">[[Requisition_scrip|Requisition Scrip]]</span> or <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Chromium|Chromium]]</span>.</div><!--
+			-->|xp=113030<!--
+		-->}}<!--
+	-->|fused|fuseddesh scraps|fused desh scraps|fuseddeshscraps|fused deshscraps|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Fused<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Fused Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_06.png<!--
+			-->|credits|value|price=1600<!--
+			-->|usecost|useprice=24300<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<div>Combine 4 Welded Desh Scraps.</div><div>The <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Supply_Crane|Supply Crane]]</span> in exchange for <span class="class-style color-gray color-link-gray">[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Chromium|Chromium]]</span>.</div><!--
+			-->|xp=463424<!--
+		-->}}<!--
+	-->|hardened|hardeneddesh scraps|hardened desh scraps|hardeneddeshscraps|hardened deshscraps|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Hardened<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Hardened Desh Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Generic_07.png<!--
+			-->|credits|value|price=3200<!--
+			-->|usecost|useprice=72900<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine 4 Fused Desh Scraps.</div><!--
+			-->|xp=1900041<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Desh Scraps<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Material_Generic_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Material Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Desh Scraps}}<br>
+__NOTOC__
+</noinclude>

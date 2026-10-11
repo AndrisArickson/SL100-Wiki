@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=MobyGames
+|image=[[File:Globe.svg|text-top|x14px|class=darkmodeinvert]]
+|site_text=[[Wikipedia:MobyGames|MobyGames]]
+|base_url=https://www.mobygames.com
+|target_url={{{url|}}}
+|no_archive=1
+|optional=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

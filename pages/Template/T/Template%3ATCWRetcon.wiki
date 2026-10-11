@@ -1,0 +1,46 @@
+{{Ooumb
+| id = TCWRetcon
+| bg = #D8E9FC
+| image = [[File:Blue-question-mark.png|40px]]
+| caption = This [[Star Wars Legends|''Star Wars'' Legends]] article contains information{{#if:{{{1|}}}
+	|{{#if:{{{cw|}}}
+		|<nowiki /> from {{{1}}} that is affected by the [[Star Wars: The Clone Wars (multimedia project)|''Star Wars: The Clone Wars'' project]].
+		|, notably from {{{1}}}, that is affected by the [[Star Wars: The Clone Wars (multimedia project)|''Star Wars: The Clone Wars'' project]].
+	}}
+	|<nowiki /> that is affected by the [[Star Wars: The Clone Wars (multimedia project)|''Star Wars: The Clone Wars'' project]].
+}}
+| message = {{#if:{{{1|}}}
+	|{{#if:{{{cw|}}}
+		|The continuity of {{{1}}} was never established by Lucasfilm.
+		|A definitive Legends Clone Wars timeline, as well as the continuity of {{{1}}}, was never established by Lucasfilm.
+	}}
+	|A definitive Legends Clone Wars timeline was never established by Lucasfilm. The exact chronology of the events described in this article is unknown.
+}}
+}}<noinclude>
+
+==Usage==
+Place {<nowiki />{TCWRetcon}} onto [[Star Wars Legends|Legends]] Clone Wars articles for which there are unresolved continuity errors.
+
+===Optional parameter===
+To specify an individual product (or products) affected by ''Star Wars: The Clone Wars'', a parameter can be used to note the affected material:
+
+ <nowiki>{{</nowiki>TCWRetcon|'''PRODUCT'''}}
+
+Example:
+
+ <nowiki>{{</nowiki>TCWRetcon|<nowiki>''[[Coruscant Nights I: Jedi Twilight]]''</nowiki>}}
+
+{{TCWRetcon|''[[Coruscant Nights I: Jedi Twilight]]''}}
+
+===="cw" parameter====
+If the article's information is not specifically affected by the revised Clone Wars timeline, the "'''cw'''" parameter can be used to specify that as well.
+
+ <nowiki>{{</nowiki>TCWRetcon|'''PRODUCT'''|cw=y}}
+
+Example:
+
+ <nowiki>{{</nowiki>TCWRetcon|<nowiki>''[[Coruscant Nights I: Jedi Twilight]]''</nowiki>|cw=y}}
+
+{{TCWRetcon|''[[Coruscant Nights I: Jedi Twilight]]''|cw=y}}
+
+[[Category:Header templates]]</noinclude>

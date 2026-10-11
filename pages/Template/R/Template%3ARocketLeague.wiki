@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=RocketLeague
+|image=[[File:RocketLeagueCom-Favicon.svg|text-top|x18px|class=darkmodeinvert|link=https://www.rocketleague.com]]
+|site_text=''[[Rocket League]]''{{'}}s [https://www.rocketleague.com official website]
+|base_url=https://{{{subdomain|www}}}.rocketleague.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

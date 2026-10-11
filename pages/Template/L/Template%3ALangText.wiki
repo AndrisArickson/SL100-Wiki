@@ -1,0 +1,17 @@
+{{#switch: {{{2|}}}
+	| 0 = This user does not understand '''[[:Category:User_{{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]''' (or understands it with considerable difficulties).
+	| 1 = This user is able to contribute with a basic level of '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| 2 = This user is able to contribute with an intermediate level of '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| 3 = This user is able to contribute with an advanced level of '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| 4 = This user is able to contribute with a near-native level of '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| E = This user only speaks '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]''' because it was a required course in school.
+	| F = This user is a non-native speaker of '''[[:Category:User_{{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| N = This user is a native speaker of '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| P = This user is able to contribute with a professional level of '''[[:Category:User {{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]'''.
+	| U = This user understands spoken and written '''[[:Category:User_{{{1}}}|{{LangCode|mode=name|{{{1}}}}}]]''' but does not speak it.
+	|
+}}{{#ifeq:{{NAMESPACE}}|User|[[Category:User {{{1}}}|{{{2}}} {{PAGENAME}}]]|}}<noinclude>
+
+This template will generate the text for {{Tl|Lang}}.
+
+[[Category:Language templates]]<noinclude>

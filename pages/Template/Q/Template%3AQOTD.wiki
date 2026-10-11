@@ -1,0 +1,1 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||{{Wookieepedia:Quote of the Day/{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}}}<noinclude>{{Top|sprot}}[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,7 @@
+Hello! I regret to inform you that your vote on [[{{{1}}}]] has been struck per the [[Wookieepedia:Voting eligibility policy#General rules|Voting eligibility policy]]: "Users must contribute 50 edits within the last 6 months under their registered Wookieepedia account to become voting-eligible. Edits to userpages and talk pages and any reverted and deleted edits do not count toward this total." However, you are welcome to continue participating in the discussion by commenting on the voting page. If you have any questions, please let me know! {{{2|}}} <!-- Template:Msg-votestruck --><noinclude>
+
+==Usage==
+Use {{Tl|Votestruck}} to strike the vote, then type <code><nowiki>{{subst:Msg-votestruck|</nowiki>{{Var|forum title}}<nowiki>|~~~~}}</nowiki></code> to place the above message on the struck voter's talk page.
+
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

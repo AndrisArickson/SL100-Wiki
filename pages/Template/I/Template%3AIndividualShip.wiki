@@ -1,0 +1,75 @@
+<infobox theme="starship">
+	<image source="image" />
+	<title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<group collapse="open">
+		<header>Production information</header>
+		<data source="designer"><label>Designer</label></data>	
+		<data source="manufacturer"><label>Manufacturer</label></data>	
+		<data source="line"><label>Product line</label></data>	
+		<data source="model"><label>Model</label></data>	
+		<data source="type"><label>Type</label></data>	
+		<data source="cost"><label>Cost</label></data>
+                <data source="modifier"><label>Modified by</label></data>
+	</group>
+	<group collapse="open">
+	    <header>Technical specifications</header>
+		<data source="sysmods"><label>Modified systems</label></data>	
+		<data source="length"><label>Length</label></data>	
+		<data source="width"><label>Width</label></data>	
+		<data source="height"><label>Height/depth</label></data>	
+		<data source="mass"><label>Mass</label></data>	
+		<data source="max accel"><label>Maximum acceleration</label></data>        
+		<data source="mglt"><label>Megalight per hour</label></data>	
+		<data source="max speed"><label>Maximum speed (atmosphere)</label></data>	
+		<data source="maneuverability"><label>Maneuverability rating</label></data>	
+		<data source="engine"><label>Engine unit(s)</label></data>	
+		<data source="hyperdrive"><label>Hyperdrive rating</label></data>	
+		<data source="hdrange"><label>Hyperdrive range</label></data>
+		<data source="hdsystem"><label>Hyperdrive system</label></data>	
+		<data source="poweroutput"><label>Power output</label></data>	
+		<data source="power"><label>Power plant</label></data>	
+		<data source="shield gen"><label>Shielding</label></data>	
+		<data source="hull"><label>Hull</label></data>	
+		<data source="sensor"><label>Sensor systems</label></data>
+		<data source="target"><label>Targeting systems</label></data>	
+		<data source="navigation"><label>Navigation system</label></data>	
+		<data source="avionics"><label>Avionics</label></data>	
+		<data source="maincomp"><label>Main computer</label></data>	
+		<data source="countermeasures"><label>Counter<wbr />measures</label></data>	
+		<data source="armament"><label>Armament</label></data>        	
+		<data source="complement"><label>Complement</label></data>	
+		<data source="bays"><label>Docking bays</label></data>	
+		<data source="escapepods"><label>Escape craft</label></data>	
+		<data source="crew"><label>Crew</label></data>
+		<data source="skeleton"><label>Minimum crew</label></data>	
+		<data source="passengers"><label>Passengers</label></data>	
+		<data source="capacity"><label>Cargo capacity</label></data>
+		<data source="cargohandling"><label>Cargo handling systems</label></data>	
+		<data source="consumables"><label>Consumables</label></data>	
+		<data source="lifesupport"><label>Life support</label></data>	
+		<data source="communications"><label>Communication systems</label></data>	
+		<data source="othersystems"><label>Other systems</label></data>
+	</group>
+	<group collapse="open">
+            <header>Usage</header>
+		<data source="role"><label>Role(s)</label></data>	
+		<data source="commission"><label>Commissioned</label></data>	
+		<data source="destroyed"><label>Destroyed</label></data>	
+		<data source="retired"><label>Retired</label></data>	
+		<data source="affiliation"><label>Affiliation</label></data>	
+		<data source="navy"><label>Navy</label></data>	
+		<data source="fleet"><label>Fleet</label></data>	
+		<data source="owners"><label>Owner(s)</label></data>	
+		<data source="captains"><label>Commander(s)</label></data>
+		<data source="registry"><label>Registration number(s)</label></data>	
+		<data source="aliases"><label>Aliases</label></data>	
+	</group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:IndividualShip|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|designer|manufacturer|line|model|type|cost|modifier|sysmods|length|width|height|mass|max accel|mglt|max speed|maneuverability|engine|hyperdrive|hdrange|hdsystem|poweroutput|power|shield gen|hull|sensor|target|navigation|avionics|maincomp|countermeasures|armament|complement|bays|escapepods|crew|skeleton|passengers|capacity|cargohandling|consumables|lifesupport|communications|othersystems|role|commission|destroyed|retired|affiliation|navy|fleet|owners|captains|registry|aliases|ignore=name}}<noinclude>[[Category:Spacecraft infobox templates]]{{clear}}
+
+{{Top|fprot}}
+{{Documentation}}</noinclude>

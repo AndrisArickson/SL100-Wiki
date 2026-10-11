@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=LinkedIn
+|image=[[File:LinkedIn-Logo.svg|text-top|x16px|link=https://www.linkedin.com]]
+|site_text=[[Wikipedia:LinkedIn|LinkedIn]]
+|base_url=https://www.linkedin.com
+|target_url={{{url|}}}
+|is_profile={{#if:{{#rpos:{{{url|}}}|in/}}|1|}}
+|text={{{text|{{{name|}}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

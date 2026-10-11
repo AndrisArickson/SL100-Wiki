@@ -1,0 +1,21 @@
+{|border="0" cellpadding="0" cellspacing="0" width="100%" align="center" valign="top" class="noprint"
+|}
+{{#ifexist:Forum:TC:{{{1|{{FULLPAGENAME}}}}}|
+<div id="{{{id|TC}}}" class="messagebox noprint iumb hidable" style="background: #B0B0B0; color: {{{fg|#000}}}; border-radius:10px">
+{{{!}} cellpadding="0" cellspacing="0"
+{{!}}-
+{{!}} class="iumb-table-container" {{!}} 
+{{{!}} cellpadding="0" cellspacing="0" class="hidable-content"
+{{!}}-
+{{!}} class="iumb-icon" {{!}} [[File:VoteOfNoConfidence-SWCT.png|135px]]
+{{!}} class="iumb-main" {{!}}
+<span class="iumb-caption">I move for a vote of no confidence!</span>
+
+<span class="iumb-message">The future of Wookieepedia's coverage of this topic, including whether or not to delete or redirect this article, is currently being discussed in regard to [[Wookieepedia:Notability policy|policy]].</span>
+
+<span class="iumb-comment">Please see '''[[Forum:TC:{{{1|{{FULLPAGENAME}}}}}|this article's entry]]''' in the [[Forum:Trash compactor|forums]] for discussion on the matter. Do not remove this tag until discussion is complete.</span>
+{{!}}}
+{{!}} class="iumb-hidable-button" {{!}} <span class="hidable-button"></span>
+{{!}}}
+</div>
+|<table id="TC" class="messagebox noprint headerbackground" style="background: #B0B0B0; border: 2px solid #AD0000;"><tr><td style="padding-right: 4px; padding-left: 4px;">'''Warning: This [[Forum:Trash compactor|Trash compactor]] thread is incomplete.'''<br />In order to complete the Trash compactor process, please <span class="plainlinks redlink">[{{fullurl:Forum:TC:{{{1|{{FULLPAGENAME}}}}}|action=edit&preload=Template:TC_preload&editintro=Template:TC_editintro}} create a TC discussion page] so that the community can decide this {{#if:{{NAMESPACE}}|page|article}}'s fate. Otherwise, this message ''will'' be removed.</span></td></tr></table>}}<includeonly>{{SpecialCategorizer|[[Category:Pages in Trash compactor|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|fprot|notoc=1}}{{Documentation}}</noinclude>

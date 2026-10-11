@@ -1,0 +1,13 @@
+<onlyinclude>''[[Thrawn Ascendancy: Lesser Evil]]'' &mdash; [[:File:Chiss_Ascendancy_map.jpg|Map of Chiss Space]]</onlyinclude>
+
+==Usage==
+{{Tl|LesserEvilMap}} renders as {{LesserEvilMap}}. It is intended to be used in &lt;ref&gt; notes, like such:
+
+<pre><ref name="Lesser Evil map">{{LesserEvilMap}}</ref></pre>
+
+'''Colonial Station Chaf''' was a terrestrial astronomical object within the territory of the [[Chiss Ascendancy]] in the [[Unknown Regions]].<ref name="Lesser Evil map">{{LesserEvilMap}}</ref>
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Simple-link citation templates]]

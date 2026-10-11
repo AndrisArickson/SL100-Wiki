@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ToppsDigital
+|image=[[File:ToppsDigitalLogo.png|text-top|x14px|link=Topps]]
+|site_text=[[Topps|Topps Digital's]] [https://play.toppsapps.com official website]
+|base_url=https://{{{subdomain|play}}}.toppsapps.com
+|target_url={{{url|}}}
+|nolive={{{nolive|{{#ifeq:{{{subdomain|}}}|www|1|}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

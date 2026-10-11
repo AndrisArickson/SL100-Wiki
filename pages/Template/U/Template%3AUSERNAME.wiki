@@ -1,0 +1,17 @@
+<span class="insertusername">{{{1|&lt;insert name here&gt;}}}</span><noinclude>
+----
+
+Adds the username of the registered user viewing the page into the page, so that with the code:
+:<code><nowiki>{{USERNAME}} is the best. [[Special:MyPage|{{USERNAME}}'s userpage is good too]].</nowiki></code>
+
+The following will be displayed:
+:{{USERNAME}} is the best. [[Special:MyPage|{{USERNAME}}'s userpage is good too]].
+
+The user reading will always see a compliment directed toward them and their userpage, no matter who they are.
+
+The username replacement doesn't work for unregistered users, so instead they see a default value of "&lt;insert name here&gt;". To change this default, use the first parameter. For unregistered users, <code><nowiki>{{USERNAME|This user}}</nowiki></code> will display as "This user", and for registered users it will display as their username.
+
+'''''Use this template sparingly. Misuse of it (including, but not limited to, adding "<nowiki>{{USERNAME}} is stupid</nowiki>" to pages) may result in a ban.'''''
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

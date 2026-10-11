@@ -1,0 +1,70 @@
+<infobox theme="Music">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="composer"><label>Composer</label></data>	
+        <data source="written"><label>Written</label></data>
+        <data source="recorded"><label>Recorded</label></data>
+        <data source="release date"><label>Released</label></data>
+        <data source="represents"><label>Represents</label></data>
+        <data source="performedby"><label>Performed by</label></data>
+        <data source="genre"><label>Genre</label></data>				
+    </group>
+    <group collapse="open">
+    	<header>Musical details</header>
+        <data source="length"><label>Length</label></data>	
+        <data source="key"><label>[[wikipedia:Key (music)|Key]]</label></data>
+        <data source="tempo"><label>[[Wikipedia:Tempo|Tempo]]/Style</label></data>
+        <data source="texture"><label>[[Wikipedia:Texture (music)|Texture]]</label></data>
+        <data source="timesig"><label>[[Wikipedia:Time signature|Time signature]]</label></data>
+        <data source="meter"><label>[[Wikipedia:Meter (music)|Meter]]</label></data>
+        <data source="mode"><label>[[Wikipedia:Mode (music)|Mode]]</label></data>
+        <data source="lyrics"><label>[[wikipedia:Lyrics|Lyrics]]</label></data>				
+    </group>
+    <group collapse="open">
+    	<header>Usage information</header>
+        <data source="soundtracks"><label>Soundtracks</label></data>	
+        <data source="movies"><label>Movies</label></data>
+        <data source="EU"><label>Legends</label></data>
+        <data source="canon"><label>Canon</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Samples</header>  
+        <data source="media"><label>Versions</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Music|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|composer|written|recorded|release date|represents|performedby|genre|length|key|tempo|texture|timesig|meter|mode|lyrics|soundtracks|movies|EU|canon|media|ignore=name}}<noinclude>
+===Usage instructions===
+Paste the following code at the beginning of the article, filling all relevant fields. If a field doesn't apply, just leave it blank.<br />
+<pre><nowiki>
+{{Top|real}}
+{{Music
+|image=
+|title=
+|composer=
+|written=
+|recorded=
+|release date=
+|represents=
+|performedby=
+|genre=
+|length=
+|key=
+|tempo=
+|texture=
+|timesig=
+|meter=
+|mode=
+|lyrics=
+|soundtracks=
+|movies=
+|EU=
+|canon=
+|media=
+}}
+</nowiki></pre>
+[[Category:Media infoboxes]]</noinclude>

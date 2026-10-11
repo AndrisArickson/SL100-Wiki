@@ -1,0 +1,23 @@
+{{Userbox|#FFB466|#FFE496|{{#switch:{{{1|}}}|4 = fox-4|5 = fox-5|[[File:Firefox-Logo.svg|40px]]}}|This user contributes using {{#switch:{{{1|}}}|4 = unofficial or developmental [[wikipedia:Firefox|'''Mozilla Firefox''']] builds|5 = [[wikipedia:Firefox|'''Mozilla Firefox''']] Alpha versions, and also contributes to Mozilla Firefox itself|[[wikipedia:Firefox|'''Mozilla Firefox''']]}}.|headerbackground=2}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserFirefox}}</nowiki></code> into your user page. For alternate versions, use <code><nowiki>{{UserFirefox|4}}</nowiki></code> or <code><nowiki>{{UserFirefox|5}}</nowiki></code>.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="background:none; border:none">{{UserFirefox}}</pre>
+| {{UserFirefox}}
+|-
+| <pre style="background:none; border:none">{{UserFirefox|4}}</pre>
+| {{UserFirefox|4}}
+|-
+| <pre style="background:none; border:none">{{UserFirefox|5}}</pre>
+| {{UserFirefox|5}}
+|}
+
+{{Interlang|es=Plantilla:Usuario Fx}}
+
+[[Category:Browser userboxes|fox]]</noinclude>

@@ -1,0 +1,37 @@
+==About==
+This template is a modified version of the {{tl|Quote}} template. It was used to present the [[Wookieepedia:Quote of the Day|Quote of the Day]] on the wiki's [[Main Page]].
+
+==Usage instructions==
+<code><nowiki>{{Quote2|dialogue|attribution|source}}</nowiki></code>
+*In case there is an audio file for the quote, add an optional parameter, <tt>|audio=</tt>, where you enter the file name without the "File" prefix.
+*In case the source is an url, add an optional parameter, <tt>|url=</tt>, where you enter the source url.
+*In case you don't want to have a quotation mark (") at the start of the quote, add <tt>|noquote=1</tt> somewhere in the template.
+*In case you don't want to have a quotation mark (") at the end of the quote, add <tt>|trans=1</tt> somewhere in the template.
+
+===Notes===
+If any text is assigned to the ''source'' field, it will be rendered as a browser [[Wikipedia:Tooltip|tooltip]].
+
+==Example(s)==
+Code: <code><nowiki>{{Quote2|Hello.|A guy|Wookieepedia}}</nowiki></code>
+
+Result:
+{{Quote2|Hello.|A guy|Wookieepedia}}
+
+===Audio===
+Code: <code><nowiki>{{Quote2|It's a trap!|Admiral Ackbar|audio=ItsATrap-ROTJ.flac|Star Wars: Episode VI Return of the Jedi}}</nowiki></code>
+
+Result:
+{{Quote2|It's a trap!|Admiral Ackbar|audio=ItsATrap-ROTJ.flac|Star Wars: Episode VI Return of the Jedi}}
+
+===Url as source===
+Code: <code><nowiki>{{Quote2|The best part of the movies, 'Star Wars' and 'Indiana Jones,' too, is that I still love to watch them, just like anybody else does. If they're on TV and I turn it on halfway through, I can't turn it off, even if I've seen it a million times.|George Lucas|url=http://news.yahoo.com/s/ap/20070424/ap_en_mo/star_wars_anniversary_1}}</nowiki></code>
+
+Result:
+{{Quote2|The best part of the movies, 'Star Wars' and 'Indiana Jones,' too, is that I still love to watch them, just like anybody else does. If they're on TV and I turn it on halfway through, I can't turn it off, even if I've seen it a million times.|George Lucas|url=http://news.yahoo.com/s/ap/20070424/ap_en_mo/star_wars_anniversary_1}}
+
+==See also==
+*[[Wookieepedia:Templates/Quotes]]
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Quotation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

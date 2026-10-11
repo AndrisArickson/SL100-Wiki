@@ -1,0 +1,59 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>	
+        <data source="editor"><label>Editor(s)</label></data>	
+        <data source="cover artist"><label>Cover artist(s)</label></data>
+        <data source="contributors"><label>Contributor(s)</label></data>				
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="release date"><label>Release date</label></data>
+        <data source="subscribers"><label>Subscriber(s)</label></data>	
+        <data source="pages"><label>Pages</label></data>
+        <data source="isbn"><label>[[wikipedia:International Standard Book Number|ISBN]]</label><format>[[Special:Booksources/{{{isbn}}}|{{{isbn}}}]]</format></data>	
+        <data source="issn"><label>[[wikipedia:ISSN|ISSN]]</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>General information</header>	
+        <data source="genre"><label>Genre(s)</label></data>	
+        <data source="issue"><label>Issue #</label></data>
+        <data source="series"><label>Series</label></data>		
+        <data source="prev"><label>Previous</label><default>{{#invoke:PrevNext|main|mode=prev}}</default><format>{{#invoke:PrevNext|main|mode=prev|value={{{prev|}}}}}</format></data>
+        <data source="next"><label>Next</label><default>{{#invoke:PrevNext|main|mode=next}}</default><format>{{#invoke:PrevNext|main|mode=next|value={{{next|}}}}}</format></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:MagazineIssue|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|editor|cover artist|contributors|publisher|release date|subscribers|pages|isbn|issn|genre|issue|series|optional=no_year_check,unlicensed,prev,next|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check={{{no_year_check|}}}|template_name=MagazineIssue|unlicensed={{{unlicensed|}}}|misc={{#if:{{{unlicensed|}}}{{#pos:{{PAGENAME}}|LEGO}}|1|}}}}<noinclude>[[category:Media infoboxes]]{{Clear}}
+
+==Usage==
+Copy and paste the following code into the top of the article, filling the appropriate fields. If a field is unknown, or does not apply, simply leave it empty.
+
+<pre>{{Top|real}}
+{{MagazineIssue
+|image=
+|title=
+|editor=
+|cover artist=
+|contributors=
+|publisher=
+|release date=
+|subscribers=
+|pages=
+|isbn=
+|issn=
+|genre=
+|issue=
+|series=
+}}</pre>
+
+{{Interlang
+|tr=Şablon:Dergi
+}}
+
+</noinclude>

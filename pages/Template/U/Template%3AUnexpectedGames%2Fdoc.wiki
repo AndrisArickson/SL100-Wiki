@@ -1,0 +1,32 @@
+This template is to be used for citing individual pages on [[Unexpected Games]]' [https://unexpectedgames.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{UnexpectedGames|subdomain=|url=|text=|archivedate=|archiveurl=|nobackup=|nolive=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://unexpectedgames.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL is a subdomain of asmodee.com, the subdomain can be specified. 
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{UnexpectedGames|url=news/announcing-the-mandalorian-sworn-to-the-creed|text=Announcing The Mandalorian™: Sworn to the Creed}}</nowiki></code>
+
+Results in:
+
+{{UnexpectedGames|url=news/announcing-the-mandalorian-sworn-to-the-creed|text=Announcing The Mandalorian™: Sworn to the Creed}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,6 @@
+{{#ifeq:{{NAMESPACE}}||[[Category:Systems and sectors without region]][[Category:Systems without sector]]}}<noinclude>
+
+This template is used in place of an empty {{Tl|System}} infobox to add [[:Category:Systems and sectors without region]] and [[:Category:Systems without sector]] to the article; this template should be removed and replaced with an infobox when any of the infobox fields can be populated.
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Maintenance templates]]</noinclude>

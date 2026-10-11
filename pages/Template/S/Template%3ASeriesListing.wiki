@@ -1,0 +1,8 @@
+<includeonly>°&#32;[[Category:Series, story arcs or collections listed in {{#if:{{{r|}}}|real-world Appearances|Appearances}}{{#ifeq:{{NAMESPACE}}|||/Other}}|{{#ifeq:{{{l|}}}|2|*{{PAGENAME}}|{{PAGENAME}}}}]]</includeonly><noinclude>{{Top|fprot|mprot}}
+
+This is a maintenance template to flag entries in the Appearances sections of articles that are series, story arcs collections, or other similar media that should not be listed in Appearances. These entries should be split up into the individual issues/episodes/components.
+
+*[[:Category:Series, story arcs or collections listed in Appearances]]
+*[[:Category:Series, story arcs or collections listed in real-world Appearances]]
+
+[[Category:Templates]]</noinclude>

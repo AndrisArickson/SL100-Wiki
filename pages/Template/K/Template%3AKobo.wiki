@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Kobo
+|image=[[File:Rakuten-Logo-Red.svg|text-top|x14px|link=https://www.kobo.com]]
+|site_text=[https://www.kobo.com Kobo]
+|base_url=https://www.kobo.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

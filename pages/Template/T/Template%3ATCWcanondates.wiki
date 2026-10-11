@@ -1,0 +1,483 @@
+{{#switch:{{{1|}}}
+|film=''[[Star Wars: Timelines]]'' dates the events of [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]{{#if: {{{2|}}}|, including {{{2}}},|}} to [[22 BBY]].
+|216
+|116
+|301
+|303
+|101
+|102
+|103
+|104
+|105
+|106
+|107
+|108
+|109
+|110
+|111
+|112
+|113
+|114
+|115
+|117
+|118
+|119
+|120
+|121
+|201
+|202
+|203
+|217
+|218
+|219
+|204
+|205
+|206
+|207
+|208
+|209
+|210=''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}|216=Cat and Mouse|116=The Hidden Enemy|301=Clone Cadets|303=Supply Lines|101=Ambush|102=Rising Malevolence{{!}}Rising ''Malevolence''|103=Shadow of Malevolence{{!}}Shadow of ''Malevolence''|104=Destroy Malevolence{{!}}Destroy ''Malevolence''|105=Rookies (episode){{!}}Rookies|106=Downfall of a Droid|107=Duel of the Droids|108=Bombad Jedi|109=Cloak of Darkness|110=Lair of Grievous|111=Dooku Captured|112=The Gungan General|113=Jedi Crash|114=Defenders of Peace|115=Trespass|117=Blue Shadow Virus (episode){{!}}Blue Shadow Virus|118=Mystery of a Thousand Moons|119=Storm Over Ryloth|120=Innocents of Ryloth|121=Liberty on Ryloth|201=Holocron Heist|202=Cargo of Doom|203=Children of the Force|217=Bounty Hunters (episode){{!}}Bounty Hunters||218=The Zillo Beast|219=The Zillo Beast Strikes Back|204=Senate Spy|205=Landing at Point Rain|206=Weapons Factory|207=Legacy of Terror|208=Brain Invaders|209=Grievous Intrigue|210=The Deserter}}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[{{#switch:{{{1|}}}|216|116|301|303|101|102|103|104|105|106|107|108=22 BBY|109|110|111|112|113|114|115|117|118|119|120|121|201|202|203|217|218|219|204|205|206|207|208|209|210=21 BBY}}]].
+|211=''[[Star Wars: Timelines]]'' dates the events of "[[The Deserter]]" and "[[The Mandalore Plot]]" to [[21 BBY]]. Since {{SW|url=news/star-wars-the-clone-wars-chronological-episodeorder|text=''Star Wars: The Clone Wars'' Chronological Episode Order}} places "[[Lightsaber Lost]]{{#if: {{{2|}}}|," including {{{2}}},|"}} between "The Deserter" and "The Mandalore Plot," it must also be set in 21 [['ABY-BBY' dating system|BBY]].
+|212
+|213
+|214
+|220
+|221
+|222=''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}|212=The Mandalore Plot|213=Voyage of Temptation|214=Duchess of Mandalore|220=Death Trap|221=R2 Come Home|222=Lethal Trackdown}}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[21 BBY]].
+|305=''[[Star Wars: Timelines]]'' dates the events of "[[Lethal Trackdown]]" and "[[The Academy]]" to [[21 BBY]]. Since {{SW|url=news/star-wars-the-clone-wars-chronological-episodeorder|text=''Star Wars: The Clone Wars'' Chronological Episode Order}} places "[[Corruption (episode)|Corruption]]{{#if: {{{2|}}}|," including {{{2}}},|"}} between "Lethal Trackdown" and "The Academy," it must also be set in 21 [['ABY-BBY' dating system|BBY]].
+|306
+|307
+|302
+|304
+|308
+|122
+|309
+|310
+|311
+|215
+|312
+|313
+|314
+|315
+|316
+|317
+|318
+|319
+|320
+|321
+|322
+|401
+|402
+|403
+|404
+|405
+|406
+|407
+|408
+|409
+|410
+|411
+|412
+|413
+|414
+|415
+|416
+|417
+|418
+|419
+|420
+|421
+|422
+|502
+|503
+|504
+|505
+|506
+|507
+|508
+|509
+|510
+|511
+|512
+|513
+|501
+|514
+|515
+|516
+|517
+|518
+|519
+|520
+|601
+|602
+|603
+|604
+|605
+|606
+|607
+|608
+|609
+|610
+|611
+|612
+|613=''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}|306=The Academy|307=Assassin (episode){{!}}Assassin|302=ARC Troopers (episode){{!}}ARC Troopers|304=Sphere of Influence|308=Evil Plans|122=Hostage Crisis|309=Hunt for Ziro|310=Heroes on Both Sides|311=Pursuit of Peace|215=Senate Murders|312=Nightsisters (episode){{!}}Nightsisters|313=Monster|314=Witches of the Mist|315=Overlords|316=Altar of Mortis (episode){{!}}Altar of Mortis|317=Ghosts of Mortis|318=The Citadel (episode)|319=Counterattack|320=Citadel Rescue|321=Padawan Lost|322=Wookiee Hunt|401=Water War|402=Gungan Attack|403=Prisoners|404=Shadow Warrior|405=Mercy Mission (episode){{!}}Mercy Mission|406=Nomad Droids|407=Darkness on Umbara|408=The General (episode){{!}}The General|409=Plan of Dissent|410=Carnage of Krell|411=Kidnapped|412=Slaves of the Republic|413=Escape from Kadavo|414=A Friend in Need|415=Deception|416=Friends and Enemies|417=The Box|418=Crisis on Naboo|419=Massacre|420=Bounty|421=Brothers (episode){{!}}Brothers|422=Revenge (episode){{!}}Revenge|502=A War on Two Fronts|503=Front Runners|504=The Soft War|505=Tipping Points|506=The Gathering (episode){{!}}The Gathering|507=A Test of Strength|508=Bound for Rescue|509=A Necessary Bond|510=Secret Weapons|511=A Sunny Day in the Void|512=Missing in Action|513=Point of No Return (The Clone Wars){{!}}Point of No Return|501=Revival  (episode){{!}}Revival|514=Eminence (episode){{!}}Eminence|515=Shades of Reason|516=The Lawless|517=Sabotage (episode){{!}}Sabotage|518=The Jedi Who Knew Too Much|519=To Catch a Jedi|520=The Wrong Jedi|601=The Unknown|602=Conspiracy|603=Fugitive|604=Orders (episode){{!}}Orders|605=An Old Friend|606=The Rise of Clovis|607=Crisis at the Heart|608=The Disappeared, Part I|609=The Disappeared, Part II|610=The Lost One|611=Voices|612=Destiny (The Clone Wars){{!}}Destiny|613=Sacrifice (episode){{!}}Sacrifice}}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[{{#switch:{{{1|}}}|306|307|302|304|308|122|309|310|311|215=21 BBY|312|313|314|315|316|317|318|319|320|321|322|401|402|403|404|405|406|407|408|409|410|411|412|413|414|415|416|417|418|419|420|421|422|502|503|504|505|506|507|508|509|510|511|512|513=20 BBY|501|514|515|516|517|518|519|520|601|602|603|604|605|606|607|608|609|610|611|612|613=19 BBY}}]].
+|U1=''[[Star Wars: Galactic Atlas]]'' dates the events of "[[A Death on Utapau]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[19 BBY]].
+|U2
+|U3=''[[Star Wars: Galactic Atlas]]'' dates both the events of "[[A Death on Utapau]]" and "[[The Big Bang]]" to [[19 BBY]]. Since {{SW|url=news/star-wars-the-clone-wars-chronological-episodeorder|text=''Star Wars: The Clone Wars'' Chronological Episode Order|oldversion=20170629215538}} places "[[{{#switch:{{{1|}}}|U2=In Search of the Crystal|U3=Crystal Crisis}}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} between "A Death on Utapau" and  "The Big Bang," it must also be set in 19 [['ABY-BBY' dating system|BBY]].
+|U4=''[[Star Wars: Galactic Atlas]]'' dates the events of "[[The Big Bang]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[19 BBY]].
+|DD=''[[Star Wars: The Clone Wars: Character Encyclopedia - Join the Battle!]]'' dates the events of ''[[Dark Disciple]]''{{#if: {{{2|}}}|, including {{{2}}},|}} to nineteen [[Standard year|years]] before the events of {{Film|IV}}, which corresponds to [[19 BBY]] per ''[[Star Wars: Timelines]]''.
+|SOD1
+|SOD2
+|SOD3
+|SOD4
+|705
+|706
+|707
+|708
+|701
+|702
+|703
+|704
+|709
+|710
+|711 
+|712=''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}|SOD1=Darth Maul — Son of Dathomir 1|SOD2=Darth Maul — Son of Dathomir 2|SOD3=Darth Maul — Son of Dathomir 3|SOD4=Darth Maul — Son of Dathomir 4|705=Gone with a Trace|706=Deal No Deal|707=Dangerous Debt|708=Together Again|701=The Bad Batch (episode){{!}}The Bad Batch|702=A Distant Echo|703=On the Wings of Keeradaks|704=Unfinished Business (episode){{!}}Unfinished Business|709=Old Friends Not Forgotten|710=The Phantom Apprentice|711=Shattered|712=Victory and Death }}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[19 BBY]].
+|=<!--do nothing if no parameter-->
+|#default={{#switch:{{FULLPAGENAME}}|Template:TCWcanondates|#default=<span style="font-size: 1.5em; color: red">Template error: Invalid episode number passed into <nowiki>{{TCWcanondates}}</nowiki>. See [[Template:TCWcanondates|this page]] for instructions on how to properly use the template.</span> [[Category:Invalid TCWcanondates parameter arguments]]}}}}<noinclude>__NOTOC__
+
+==Description==
+This template is designed to help users properly cite [[canon]] dating for material from the [[Star Wars: The Clone Wars|''Star Wars: The Clone Wars'' television series]]. It covers:
+*The [[Star Wars: The Clone Wars (film)|theatrical film]]
+*All of the 133 televised episodes of the series (Seasons One through Seven)
+*The 8 Story Reel episodes released as part of [[The Clone Wars Legacy|''The Clone Wars'' Legacy]] multimedia project
+*All 4 issues of ''[[Star Wars: Darth Maul — Son of Dathomir]]''
+*''[[Dark Disciple]]''
+
+To keep the site's articles up to date with canon sources, this template will be updated as new information is released.
+
+==Usage==
+Use the following code, making sure that it is properly formatted as a [[Wookieepedia:Sourcing|reference note]]. For the 133 televised episodes, "''EPISODE NUMBER''" should be a three-digit number, the first digit being the season number and the other two digits being the individual episode number, e.g., 105 for "[[Rookies (episode)|Rookies]]" (Season 1, Episode 5).
+ <nowiki><ref>{{</nowiki>TCWcanondates|''EPISODE NUMBER''}}</ref>
+
+Any pages that do not use the template correctly will be placed into [[:Category:Invalid TCWcanondates parameter arguments]].
+
+The table below lists the usage codes for material other than the 133 televised episodes.
+
+{|{{Prettytable}}
+|- bgcolor="#CCCCCC"
+! Episode/Media||Usage Code for Sourcing
+|-
+|[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]||<code><nowiki>{{TCWcanondates|film}}</nowiki></code>
+|-
+|"[[A Death on Utapau]]"||<code><nowiki>{{TCWcanondates|U1}}</nowiki></code>
+|-
+|"[[In Search of the Crystal]]"||<code><nowiki>{{TCWcanondates|U2}}</nowiki></code>
+|-
+|"[[Crystal Crisis]]"||<code><nowiki>{{TCWcanondates|U3}}</nowiki></code>
+|-
+|"[[The Big Bang]]"||<code><nowiki>{{TCWcanondates|U4}}</nowiki></code>
+|-
+|[[Darth Maul — Son of Dathomir 1|''Darth Maul&mdash;Son of Dathomir'' 1]]||<code><nowiki>{{TCWcanondates|SOD1}}</nowiki></code>
+|-
+|[[Darth Maul — Son of Dathomir 2|''Darth Maul&mdash;Son of Dathomir'' 2]]||<code><nowiki>{{TCWcanondates|SOD2}}</nowiki></code>
+|-
+|[[Darth Maul — Son of Dathomir 3|''Darth Maul&mdash;Son of Dathomir'' 3]]||<code><nowiki>{{TCWcanondates|SOD3}}</nowiki></code>
+|-
+|[[Darth Maul — Son of Dathomir 4|''Darth Maul&mdash;Son of Dathomir'' 4]]||<code><nowiki>{{TCWcanondates|SOD4}}</nowiki></code>
+|-
+|''[[Dark Disciple]]''||<code><nowiki>{{TCWcanondates|DD}}</nowiki></code>
+|}
+
+==Complete series dating==
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!width="25%"|Story !!width="25%"| Code !!width="50%"| Result
+|-
+|"[[Cat and Mouse]]"||<nowiki>{{TCWcanondates|216}}</nowiki>||{{TCWcanondates|216}}
+|-
+|"[[The Hidden Enemy]]"||<nowiki>{{TCWcanondates|116}}</nowiki>||{{TCWcanondates|116}}
+|-
+|[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]||<nowiki>{{TCWcanondates|film}}</nowiki>||{{TCWcanondates|film}}
+|-
+|"[[Clone Cadets]]"||<nowiki>{{TCWcanondates|301}}</nowiki>||{{TCWcanondates|301}}
+|-
+|"[[Supply Lines]]"||<nowiki>{{TCWcanondates|303}}</nowiki>||{{TCWcanondates|303}}
+|-
+|"[[Ambush]]"||<nowiki>{{TCWcanondates|101}}</nowiki>||{{TCWcanondates|101}}
+|-
+|"[[Rising Malevolence|Rising ''Malevolence'']]"||<nowiki>{{TCWcanondates|102}}</nowiki>||{{TCWcanondates|102}}
+|-
+|"[[Shadow of Malevolence|Shadow of ''Malevolence'']]"||<nowiki>{{TCWcanondates|103}}</nowiki>||{{TCWcanondates|103}}
+|-
+|"[[Destroy Malevolence|Destroy ''Malevolence'']]"||<nowiki>{{TCWcanondates|104}}</nowiki>||{{TCWcanondates|104}}
+|-
+|"[[Rookies (episode)|Rookies]]"||<nowiki>{{TCWcanondates|105}}</nowiki>||{{TCWcanondates|105}}
+|-
+|"[[Downfall of a Droid]]"||<nowiki>{{TCWcanondates|106}}</nowiki>||{{TCWcanondates|106}}
+|-
+|"[[Duel of the Droids]]"||<nowiki>{{TCWcanondates|107}}</nowiki>||{{TCWcanondates|107}}
+|-
+|"[[Bombad Jedi]]"||<nowiki>{{TCWcanondates|108}}</nowiki>||{{TCWcanondates|108}}
+|-
+|"[[Cloak of Darkness]]"||<nowiki>{{TCWcanondates|109}}</nowiki>||{{TCWcanondates|109}}
+|-
+|"[[Lair of Grievous]]"||<nowiki>{{TCWcanondates|110}}</nowiki>||{{TCWcanondates|110}}
+|-
+|"[[Dooku Captured]]"||<nowiki>{{TCWcanondates|111}}</nowiki>||{{TCWcanondates|111}}
+|-
+|"[[The Gungan General]]"||<nowiki>{{TCWcanondates|112}}</nowiki>||{{TCWcanondates|112}}
+|-
+|"[[Jedi Crash]]"||<nowiki>{{TCWcanondates|113}}</nowiki>||{{TCWcanondates|113}}
+|-
+|"[[Defenders of Peace]]"||<nowiki>{{TCWcanondates|114}}</nowiki>||{{TCWcanondates|114}}
+|-
+|"[[Trespass]]"||<nowiki>{{TCWcanondates|115}}</nowiki>||{{TCWcanondates|115}}
+|-
+|"[[Blue Shadow Virus (episode)|Blue Shadow Virus]]"||<nowiki>{{TCWcanondates|117}}</nowiki>||{{TCWcanondates|117}}
+|-
+|"[[Mystery of a Thousand Moons]]"||<nowiki>{{TCWcanondates|118}}</nowiki>||{{TCWcanondates|118}}
+|-
+|"[[Storm Over Ryloth]]"||<nowiki>{{TCWcanondates|119}}</nowiki>||{{TCWcanondates|119}}
+|-
+|"[[Innocents of Ryloth]]"||<nowiki>{{TCWcanondates|120}}</nowiki>||{{TCWcanondates|120}}
+|-
+|"[[Liberty on Ryloth]]"||<nowiki>{{TCWcanondates|121}}</nowiki>||{{TCWcanondates|121}}
+|-
+|"[[Holocron Heist]]"||<nowiki>{{TCWcanondates|201}}</nowiki>||{{TCWcanondates|201}}
+|-
+|"[[Cargo of Doom]]"||<nowiki>{{TCWcanondates|202}}</nowiki>||{{TCWcanondates|202}}
+|-
+|"[[Children of the Force]]"||<nowiki>{{TCWcanondates|203}}</nowiki>||{{TCWcanondates|203}}
+|-
+|"[[Bounty Hunters (episode)|Bounty Hunters]]"||<nowiki>{{TCWcanondates|217}}</nowiki>||{{TCWcanondates|217}}
+|-
+|"[[The Zillo Beast]]"||<nowiki>{{TCWcanondates|218}}</nowiki>||{{TCWcanondates|218}}
+|-
+|"[[The Zillo Beast Strikes Back]]"||<nowiki>{{TCWcanondates|219}}</nowiki>||{{TCWcanondates|219}}
+|-
+|"[[Senate Spy]]"||<nowiki>{{TCWcanondates|204}}</nowiki>||{{TCWcanondates|204}}
+|-
+|"[[Landing at Point Rain]]"||<nowiki>{{TCWcanondates|205}}</nowiki>||{{TCWcanondates|205}}
+|-
+|"[[Weapons Factory]]"||<nowiki>{{TCWcanondates|206}}</nowiki>||{{TCWcanondates|206}}
+|-
+|"[[Legacy of Terror]]"||<nowiki>{{TCWcanondates|207}}</nowiki>||{{TCWcanondates|207}}
+|-
+|"[[Brain Invaders]]"||<nowiki>{{TCWcanondates|208}}</nowiki>||{{TCWcanondates|208}}
+|-
+|"[[Grievous Intrigue]]"||<nowiki>{{TCWcanondates|209}}</nowiki>||{{TCWcanondates|209}}
+|-
+|"[[The Deserter]]"||<nowiki>{{TCWcanondates|210}}</nowiki>||{{TCWcanondates|210}}
+|-
+|"[[Lightsaber Lost]]"||<nowiki>{{TCWcanondates|211}}</nowiki>||{{TCWcanondates|211}}
+|-
+|"[[The Mandalore Plot]]"||<nowiki>{{TCWcanondates|212}}</nowiki>||{{TCWcanondates|212}}
+|-
+|"[[Voyage of Temptation]]"||<nowiki>{{TCWcanondates|213}}</nowiki>||{{TCWcanondates|213}}
+|-
+|"[[Duchess of Mandalore]]"||<nowiki>{{TCWcanondates|214}}</nowiki>||{{TCWcanondates|214}}
+|-
+|"[[Death Trap]]"||<nowiki>{{TCWcanondates|220}}</nowiki>||{{TCWcanondates|220}}
+|-
+|"[[R2 Come Home]]"||<nowiki>{{TCWcanondates|221}}</nowiki>||{{TCWcanondates|221}}
+|-
+|"[[Lethal Trackdown]]"||<nowiki>{{TCWcanondates|222}}</nowiki>||{{TCWcanondates|222}}
+|-
+|"[[Corruption (episode)|Corruption]]"||<nowiki>{{TCWcanondates|305}}</nowiki>||{{TCWcanondates|305}}
+|-
+|"[[The Academy]]"||<nowiki>{{TCWcanondates|306}}</nowiki>||{{TCWcanondates|306}}
+|-
+|"[[Assassin (episode)|Assassin]]"||<nowiki>{{TCWcanondates|307}}</nowiki>||{{TCWcanondates|307}}
+|-
+|"[[ARC Troopers (episode)|ARC Troopers]]"||<nowiki>{{TCWcanondates|302}}</nowiki>||{{TCWcanondates|302}}
+|-
+|"[[Sphere of Influence]]"||<nowiki>{{TCWcanondates|304}}</nowiki>||{{TCWcanondates|304}}
+|-
+|"[[Evil Plans]]"||<nowiki>{{TCWcanondates|308}}</nowiki>||{{TCWcanondates|308}}
+|-
+|"[[Hostage Crisis]]"||<nowiki>{{TCWcanondates|122}}</nowiki>||{{TCWcanondates|122}}
+|-
+|"[[Hunt for Ziro]]"||<nowiki>{{TCWcanondates|309}}</nowiki>||{{TCWcanondates|309}}
+|-
+|"[[Heroes on Both Sides]]"||<nowiki>{{TCWcanondates|310}}</nowiki>||{{TCWcanondates|310}}
+|-
+|"[[Pursuit of Peace]]"||<nowiki>{{TCWcanondates|311}}</nowiki>||{{TCWcanondates|311}}
+|-
+|"[[Senate Murders]]"||<nowiki>{{TCWcanondates|215}}</nowiki>||{{TCWcanondates|215}}
+|-
+|"[[Nightsisters]]"||<nowiki>{{TCWcanondates|312}}</nowiki>||{{TCWcanondates|312}}
+|-
+|"[[Monster]]"||<nowiki>{{TCWcanondates|313}}</nowiki>||{{TCWcanondates|313}}
+|-
+|"[[Witches of the Mist]]"||<nowiki>{{TCWcanondates|314}}</nowiki>||{{TCWcanondates|314}}
+|-
+|"[[Overlords]]"||<nowiki>{{TCWcanondates|315}}</nowiki>||{{TCWcanondates|315}}
+|-
+|"[[Altar of Mortis (episode)|Altar of Mortis]]"||<nowiki>{{TCWcanondates|316}}</nowiki>||{{TCWcanondates|316}}
+|-
+|"[[Ghosts of Mortis]]"||<nowiki>{{TCWcanondates|317}}</nowiki>||{{TCWcanondates|317}}
+|-
+|"[[The Citadel (episode)|The Citadel]]"||<nowiki>{{TCWcanondates|318}}</nowiki>||{{TCWcanondates|318}}
+|-
+|"[[Counterattack]]"||<nowiki>{{TCWcanondates|319}}</nowiki>||{{TCWcanondates|319}}
+|-
+|"[[Citadel Rescue]]"||<nowiki>{{TCWcanondates|320}}</nowiki>||{{TCWcanondates|320}}
+|-
+|"[[Padawan Lost]]"||<nowiki>{{TCWcanondates|321}}</nowiki>||{{TCWcanondates|321}}
+|-
+|"[[Wookiee Hunt]]"||<nowiki>{{TCWcanondates|322}}</nowiki>||{{TCWcanondates|322}}
+|-
+|"[[Water War]]"||<nowiki>{{TCWcanondates|401}}</nowiki>||{{TCWcanondates|401}}
+|-
+|"[[Gungan Attack]]"||<nowiki>{{TCWcanondates|402}}</nowiki>||{{TCWcanondates|402}}
+|-
+|"[[Prisoners]]"||<nowiki>{{TCWcanondates|403}}</nowiki>||{{TCWcanondates|403}}
+|-
+|"[[Shadow Warrior]]"||<nowiki>{{TCWcanondates|404}}</nowiki>||{{TCWcanondates|404}}
+|-
+|"[[Mercy Mission (episode)|Mercy Mission]]"||<nowiki>{{TCWcanondates|405}}</nowiki>||{{TCWcanondates|405}}
+|-
+|"[[Nomad Droids]]"||<nowiki>{{TCWcanondates|406}}</nowiki>||{{TCWcanondates|406}}
+|-
+|"[[Darkness on Umbara]]"||<nowiki>{{TCWcanondates|407}}</nowiki>||{{TCWcanondates|407}}
+|-
+|"[[The General (episode)|The General]]"||<nowiki>{{TCWcanondates|408}}</nowiki>||{{TCWcanondates|408}}
+|-
+|"[[Plan of Dissent]]"||<nowiki>{{TCWcanondates|409}}</nowiki>||{{TCWcanondates|409}}
+|-
+|"[[Carnage of Krell]]"||<nowiki>{{TCWcanondates|410}}</nowiki>||{{TCWcanondates|410}}
+|-
+|"[[Kidnapped]]"||<nowiki>{{TCWcanondates|411}}</nowiki>||{{TCWcanondates|411}}
+|-
+|"[[Slaves of the Republic]]"||<nowiki>{{TCWcanondates|412}}</nowiki>||{{TCWcanondates|412}}
+|-
+|"[[Escape from Kadavo]]"||<nowiki>{{TCWcanondates|413}}</nowiki>||{{TCWcanondates|413}}
+|-
+|"[[A Friend in Need]]"||<nowiki>{{TCWcanondates|414}}</nowiki>||{{TCWcanondates|414}}
+|-
+|"[[Deception]]"||<nowiki>{{TCWcanondates|415}}</nowiki>||{{TCWcanondates|415}}
+|-
+|"[[Friends and Enemies]]"||<nowiki>{{TCWcanondates|416}}</nowiki>||{{TCWcanondates|416}}
+|-
+|"[[The Box]]"||<nowiki>{{TCWcanondates|417}}</nowiki>||{{TCWcanondates|417}}
+|-
+|"[[Crisis on Naboo]]"||<nowiki>{{TCWcanondates|418}}</nowiki>||{{TCWcanondates|418}}
+|-
+|"[[Massacre]]"||<nowiki>{{TCWcanondates|419}}</nowiki>||{{TCWcanondates|419}}
+|-
+|"[[Bounty]]"||<nowiki>{{TCWcanondates|420}}</nowiki>||{{TCWcanondates|420}}
+|-
+|"[[Brothers (episode)|Brothers]]"||<nowiki>{{TCWcanondates|421}}</nowiki>||{{TCWcanondates|421}}
+|-
+|"[[Revenge (episode)|Revenge]]"||<nowiki>{{TCWcanondates|422}}</nowiki>||{{TCWcanondates|422}}
+|-
+|"[[A War on Two Fronts]]"||<nowiki>{{TCWcanondates|502}}</nowiki>||{{TCWcanondates|502}}
+|-
+|"[[Front Runners]]"||<nowiki>{{TCWcanondates|503}}</nowiki>||{{TCWcanondates|503}}
+|-
+|"[[The Soft War]]"||<nowiki>{{TCWcanondates|504}}</nowiki>||{{TCWcanondates|504}}
+|-
+|"[[Tipping Points]]"||<nowiki>{{TCWcanondates|505}}</nowiki>||{{TCWcanondates|505}}
+|-
+|"[[The Gathering (episode)|The Gathering]]"||<nowiki>{{TCWcanondates|506}}</nowiki>||{{TCWcanondates|506}}
+|-
+|"[[A Test of Strength]]"||<nowiki>{{TCWcanondates|507}}</nowiki>||{{TCWcanondates|507}}
+|-
+|"[[Bound for Rescue]]"||<nowiki>{{TCWcanondates|508}}</nowiki>||{{TCWcanondates|508}}
+|-
+|"[[A Necessary Bond]]"||<nowiki>{{TCWcanondates|509}}</nowiki>||{{TCWcanondates|509}}
+|-
+|"[[Secret Weapons]]"||<nowiki>{{TCWcanondates|510}}</nowiki>||{{TCWcanondates|510}}
+|-
+|"[[A Sunny Day in the Void]]"||<nowiki>{{TCWcanondates|511}}</nowiki>||{{TCWcanondates|511}}
+|-
+|"[[Missing in Action]]"||<nowiki>{{TCWcanondates|512}}</nowiki>||{{TCWcanondates|512}}
+|-
+|"[[Point of No Return (The Clone Wars)|Point of No Return]]"||<nowiki>{{TCWcanondates|513}}</nowiki>||{{TCWcanondates|513}}
+|-
+|"[[Revival (episode)|Revival]]"||<nowiki>{{TCWcanondates|501}}</nowiki>||{{TCWcanondates|501}}
+|-
+|"[[Eminence (episode)|Eminence]]"||<nowiki>{{TCWcanondates|514}}</nowiki>||{{TCWcanondates|514}}
+|-
+|"[[Shades of Reason]]"||<nowiki>{{TCWcanondates|515}}</nowiki>||{{TCWcanondates|515}}
+|-
+|"[[The Lawless]]"||<nowiki>{{TCWcanondates|516}}</nowiki>||{{TCWcanondates|516}}
+|-
+|"[[Sabotage (episode)|Sabotage]]"||<nowiki>{{TCWcanondates|517}}</nowiki>||{{TCWcanondates|517}}
+|-
+|"[[The Jedi Who Knew Too Much]]"||<nowiki>{{TCWcanondates|518}}</nowiki>||{{TCWcanondates|518}}
+|-
+|"[[To Catch a Jedi]]"||<nowiki>{{TCWcanondates|519}}</nowiki>||{{TCWcanondates|519}}
+|-
+|"[[The Wrong Jedi]]"||<nowiki>{{TCWcanondates|520}}</nowiki>||{{TCWcanondates|520}}
+|-
+|"[[The Unknown]]"||<nowiki>{{TCWcanondates|601}}</nowiki>||{{TCWcanondates|601}}
+|-
+|"[[Conspiracy]]"||<nowiki>{{TCWcanondates|602}}</nowiki>||{{TCWcanondates|602}}
+|-
+|"[[Fugitive]]||<nowiki>{{TCWcanondates|603}}</nowiki>||{{TCWcanondates|603}}
+|-
+|"[[Orders (episode)|Orders]]"||<nowiki>{{TCWcanondates|604}}</nowiki>||{{TCWcanondates|604}}
+|-
+|"[[An Old Friend]]"||<nowiki>{{TCWcanondates|605}}</nowiki>||{{TCWcanondates|605}}
+|-
+|"[[The Rise of Clovis]]"||<nowiki>{{TCWcanondates|606}}</nowiki>||{{TCWcanondates|606}}
+|-
+|"[[Crisis at the Heart]]"||<nowiki>{{TCWcanondates|607}}</nowiki>||{{TCWcanondates|607}}
+|-
+|"[[The Disappeared, Part I]]"||<nowiki>{{TCWcanondates|608}}</nowiki>||{{TCWcanondates|608}}
+|-
+|"[[The Disappeared, Part II]]"||<nowiki>{{TCWcanondates|609}}</nowiki>||{{TCWcanondates|609}}
+|-
+|"[[The Lost One]]"||<nowiki>{{TCWcanondates|610}}</nowiki>||{{TCWcanondates|610}}
+|-
+|"[[Voices]]"||<nowiki>{{TCWcanondates|611}}</nowiki>||{{TCWcanondates|611}}
+|-
+|"[[Destiny (The Clone Wars)|Destiny]]"||<nowiki>{{TCWcanondates|612}}</nowiki>||{{TCWcanondates|612}}
+|-
+|"[[Sacrifice (episode)|Sacrifice]]"||<nowiki>{{TCWcanondates|613}}</nowiki>||{{TCWcanondates|613}}
+|-
+|"[[A Death on Utapau]]"||<nowiki>{{TCWcanondates|U1}}</nowiki>||{{TCWcanondates|U1}}
+|-
+|"[[In Search of the Crystal]]"||<nowiki>{{TCWcanondates|U2}}</nowiki>||{{TCWcanondates|U2}}
+|-
+|"[[Crystal Crisis]]"||<nowiki>{{TCWcanondates|U3}}</nowiki>||{{TCWcanondates|U3}}
+|-
+|"[[The Big Bang]]"||<nowiki>{{TCWcanondates|U4}}</nowiki>||{{TCWcanondates|U4}}
+|-
+|''[[Dark Disciple]]''||<nowiki>{{TCWcanondates|DD}}</nowiki>||{{TCWcanondates|DD}}
+|-
+|[[Darth Maul — Son of Dathomir 1|''Darth Maul—Son of Dathomir'' 1]]||<nowiki>{{TCWcanondates|SOD1}}</nowiki>||{{TCWcanondates|SOD1}}
+|-
+|[[Darth Maul — Son of Dathomir 2|''Darth Maul—Son of Dathomir'' 2]]||<nowiki>{{TCWcanondates|SOD2}}</nowiki>||{{TCWcanondates|SOD2}}
+|-
+|[[Darth Maul — Son of Dathomir 3|''Darth Maul—Son of Dathomir'' 3]]||<nowiki>{{TCWcanondates|SOD3}}</nowiki>||{{TCWcanondates|SOD3}}
+|-
+|[[Darth Maul — Son of Dathomir 4|''Darth Maul—Son of Dathomir'' 4]]||<nowiki>{{TCWcanondates|SOD4}}</nowiki>||{{TCWcanondates|SOD4}}
+|-
+|"[[Gone with a Trace]]"||<nowiki>{{TCWcanondates|705}}</nowiki>||{{TCWcanondates|705}}
+|-
+|"[[Deal No Deal]]"||<nowiki>{{TCWcanondates|706}}</nowiki>||{{TCWcanondates|706}}
+|-
+|"[[Dangerous Debt]]"||<nowiki>{{TCWcanondates|707}}</nowiki>||{{TCWcanondates|707}}
+|-
+|"[[Together Again]]"||<nowiki>{{TCWcanondates|708}}</nowiki>||{{TCWcanondates|708}}
+|-
+|"[[The Bad Batch (episode)|The Bad Batch]]"||<nowiki>{{TCWcanondates|701}}</nowiki>||{{TCWcanondates|701}}
+|-
+|"[[A Distant Echo]]"||<nowiki>{{TCWcanondates|702}}</nowiki>||{{TCWcanondates|702}}
+|-
+|"[[On the Wings of Keeradaks]]"||<nowiki>{{TCWcanondates|703}}</nowiki>||{{TCWcanondates|703}}
+|-
+|"[[Unfinished Business (episode)|Unfinished Business]]"||<nowiki>{{TCWcanondates|704}}</nowiki>||{{TCWcanondates|704}}
+|-
+|"[[Old Friends Not Forgotten]]"||<nowiki>{{TCWcanondates|709}}</nowiki>||{{TCWcanondates|709}}
+|-
+|"[[The Phantom Apprentice]]"||<nowiki>{{TCWcanondates|710}}</nowiki>||{{TCWcanondates|710}}
+|-
+|"[[Shattered]]"||<nowiki>{{TCWcanondates|711}}</nowiki>||{{TCWcanondates|711}}
+|-
+|"[[Victory and Death]]"||<nowiki>{{TCWcanondates|712}}</nowiki>||{{TCWcanondates|712}}
+|}
+
+[[Category:Canon television dating citation templates]]
+</noinclude>

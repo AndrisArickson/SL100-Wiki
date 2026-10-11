@@ -1,0 +1,17 @@
+<includeonly>{{CardGame|SWGTCG
+|parent={{{parent|}}}
+|set={{{set|}}}
+|link={{#if:{{{swglink|{{{cardname|}}}}}}|https://swg.fandom.com/wiki/Special:Redirect/file/{{urlencode:{{{swglink|{{{cardname}}} (card).JPG}}}|WIKI}}|}}
+|cardname={{{cardname|}}}
+|scenario={{{scenario|}}}
+|text={{{text|}}}
+|full_url=https://swg.fandom.com/wiki/Special:Redirect/file/{{urlencode:{{{swglink|{{{cardname}}} (card).JPG}}}|WIKI}}
+|target=https://swg.fandom.com/wiki/Special:Redirect/file/{{urlencode:{{{swglink|{{{cardname}}} (card).JPG}}}|WIKI}}
+|archiveurl={{{archiveurl|}}}
+|archivedate={{{archivedate|}}}
+|nobackup={{{nobackup|}}}
+|nolive={{{nolive|}}}
+|use_lua_subpage=1
+|manual_archiveurl={{#if:{{{swglink|{{{cardname|}}}}}}||no-link}}
+}}<!--
+-->{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

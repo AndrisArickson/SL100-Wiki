@@ -1,0 +1,6 @@
+This template is to be used for linking to an Index namespace article from an associated mainspace article.
+
+==Usage==
+Template should be placed directly below the Appearances section heading. If no Appearances section exists, then it should be placed directly below the Sources heading, and if the article also lacks that then place it directly below the External Links section heading. See [[Wookieepedia:Layout Guide#Index Page]] for more information. 
+
+<includeonly>[[Category:Internal link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

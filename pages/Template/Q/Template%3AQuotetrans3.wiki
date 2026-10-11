@@ -1,0 +1,25 @@
+<div class="quote">
+<span {{#if:{{{4|}}}|title="Source:&#32;{{{4}}}"|}}>''&laquo;{{{1}}}&raquo;''<br>("{{{2}}}")</span><br>
+&#8213;{{{3}}} (''Translated''){{#if:{{{4|}}}|<sup class="noprint">[[{{{4|}}}|[src]]]</sup>|<includeonly>[[Category:Unsourced quotes]]</includeonly>}}
+</div><noinclude>{{Top}}
+{{Clear}}
+==About==
+This template is a modified version of the {{tl|Quote}} template. It is used for quotes that were originally spoken in a foreign language and where a translation is available in [[Galactic Basic Standard/Legends|Basic]] (English) and was used to present the [[Wookieepedia:Quote of the Day|Quote of the Day]] on the wiki [[Main Page]].
+
+==Usage instructions==
+<pre><nowiki>{{Quotetrans3|quote|translation|attribution|source}}</nowiki></pre>
+
+===Notes===
+*If any text is assigned to the ''source'' field, it will be rendered as a browser [[Wikipedia:Tooltip|tooltip]].
+
+==Example==
+===Code===
+<code><nowiki>{{Quotetrans3|Gar nioz-ko ren fal skadzit!|Nice. I try to be civil&mdash;an' all I get's a 'thank you' that'd make a corona sailor blush!|Shem-Larn|Star Wars 51: Resurrection of Evil}}</nowiki></code>
+
+===Result===
+{{Quotetrans3|Gar nioz-ko ren fal skadzit!|Nice. I try to be civil&mdash;an' all I get's a 'thank you' that'd make a corona sailor blush!|Shem-Larn|Star Wars (1977) 51}}
+
+==See also==
+*[[Wookieepedia:Templates/Quotes]]
+
+[[Category:Quotation templates|{{PAGENAME}}]]</noinclude>

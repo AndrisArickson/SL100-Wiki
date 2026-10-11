@@ -1,0 +1,23 @@
+<includeonly><span class="plainlinks pnh">{{#if:{{{set|}}}
+   |{{#invoke:FormattedTextLookup|main|type=Cards|template=SimpleCardCite|target={{{set|}}}|text={{{stext|}}}}}
+   |<span style="color: red"><small>{{Tl|SimpleCardCite}} error: '''set''' parameter must be specified.</small></span>{{#ifeq:{{NAMESPACE}}|Template||{{SpecialCategorizer|[[Category:Invalid usages of Template:SimpleCardCite|{{PAGENAME}}]]|full=1}}}}
+}}</span>&#32;{{#if:{{{cardname|}}}
+  |<span class="plainlinks"><small class="cgct">Card: {{#if:{{{link|}}}
+    |[{{{link}}} {{{cardname}}}]
+    |{{{cardname}}}
+  }}</small>{{#if:{{{link|}}}
+    |{{ArchiveAccess
+      |template_name=SimpleCardCite
+      |full_url={{{link|}}}
+      |target={{{link|}}}
+      |nobackup={{{nobackup|}}}
+      |archiveurl={{{archiveurl|}}}
+      |archivedate={{{archivedate|}}}
+      |archivefile={{{archivefile|}}}
+      |nolive={{{nolive|}}}
+      |no_archive=1
+      |par=1
+    }}</span>
+    |}}
+  |{{#ifeq:{{NAMESPACE}}||{{#if:{{{parent|}}}||&nbsp;<small>(<span style="color: red">'''no card name specified'''</span>)</small>[[Category:Card game citation template usages without cardname|{{PAGENAME}}]]}}|}}
+}}{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}|simple=1}}</span></includeonly><noinclude>{{Documentation}}</noinclude>

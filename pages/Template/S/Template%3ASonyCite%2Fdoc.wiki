@@ -1,0 +1,24 @@
+This template is to be used for citing individual pages on the official ''[[Star Wars Galaxies]]'' website.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{SonyCite|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the article, minus the domain name (<code><nowiki>http://starwarsgalaxies.station.sony.com/</nowiki></code>).
+*{{Para|text}} Name of the article being cited (formatted name if <code>|int=</code> parameter is used).
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{SonyCite|url=expansions_sectors_endor.jsp|text=Karthakk System (Lok)|archivedate=20051012174400}}</nowiki></code>
+
+Results in:
+
+{{SonyCite|url=expansions_sectors_endor.jsp|text=Karthakk System (Lok)|archivedate=20051012174400}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

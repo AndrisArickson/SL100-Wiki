@@ -1,0 +1,65 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="format"><label>Format</label></data>
+        <data source="num episodes"><label>Episode count</label></data>
+        <data source="num seasons"><label>No. of seasons</label></data>	
+        <data source="runtime"><label>Run time</label></data>
+        <data source="network"><label>Network(s)</label></data>
+        <data source="first aired"><label>First aired</label><format><!--
+        -->{{#ifeq:{{lc:{{{first aired|}}}}}|none||{{#ifeq:{{lc:{{{first aired|}}}}}|future||{{{first aired|}}}}}}}<!--
+        --></format></data>
+        <data source="last aired"><label>Last aired</label><format><!--
+        -->{{#ifeq:{{lc:{{{last aired|}}}}}|none||{{#ifeq:{{lc:{{{last aired|}}}}}|future||{{{last aired|}}}}}}}<!--
+        --></format></data> 
+    </group>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="creators"><label>Creator(s)</label></data>
+        <data source="writers"><label>Writer(s)</label></data>
+        <data source="directors"><label>Director(s)</label></data>	
+        <data source="executive producers"><label>Executive producer(s)</label></data>
+        <data source="production company"><label>Production company</label></data>	
+        <data source="starring"><label>Starring</label></data>	
+        <data source="music"><label>Music by</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Chronological information</header>
+        <data source="timeline"><label>Timeline</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:TelevisionSeries|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|format|num episodes|num seasons|runtime|network|first aired|last aired|creators|writers|directors|executive producers|production company|starring|music|timeline|optional=no_year_check,is_appearance|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check=1|sort_key=S}}<!--
+-->{{#if:{{{is_appearance|}}}|{{AppMediaCat}}|}}<noinclude>[[category:Television and video infoboxes]]
+
+==Usage==
+<pre>{{TelevisionSeries
+|image=
+|title=
+|format=
+|num episodes=
+|num seasons=
+|runtime=
+|network=
+|first aired=
+|last aired=
+|creators=
+|writers=
+|directors=
+|executive producers=
+|production company=
+|starring=
+|music=
+|timeline=
+}}</pre>
+
+{{Interlang
+|tr=Şablon:Dizi
+}}
+
+</noinclude>

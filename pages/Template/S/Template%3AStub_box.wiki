@@ -1,0 +1,50 @@
+<div id="Stub box" class="noprint stub plainlinks messagebox iumb" style="background: #abd0e6; color: #000; border-radius: 10px">
+{| cellpadding="0" cellspacing="0"
+|-
+| class="iumb-table-container" | 
+{| cellpadding="0" cellspacing="0"
+|-
+| class="iumb-icon" | [[File:Wiki-shrinkable.png|50px]]
+| class="iumb-main" |
+<span class="iumb-message"><div class="hidable">This article is in multiple stub categories. <span class="hidable-button"></span>
+<div class="hidable-content">{{#if:{{{1|}}}|
+{{{{{1}}}|noexpand=1}}|}}{{#if:{{{2|}}}|
+{{{{{2}}}|noexpand=1}}|}}{{#if:{{{3|}}}|
+{{{{{3}}}|noexpand=1}}|}}{{#if:{{{4|}}}|
+{{{{{4}}}|noexpand=1}}|}}{{#if:{{{5|}}}|
+{{{{{5}}}|noexpand=1}}|}}{{#if:{{{6|}}}|
+{{{{{6}}}|noexpand=1}}|}}{{#if:{{{7|}}}|
+{{{{{7}}}|noexpand=1}}|}}{{#if:{{{8|}}}|
+{{{{{8}}}|noexpand=1}}|}}{{#if:{{{9|}}}|
+{{{{{9}}}|noexpand=1}}|}}
+</div></div></span>
+
+<span class="iumb-comment">Please help Wookieepedia by [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding this article]. See the article's [[{{TALKPAGENAMEE}}|talk page]] for more information.</span>
+|}
+| |
+|}
+</div><noinclude>
+
+==Usage==
+<code><nowiki>{{Stub_box| stub-template-1 | stub-template-2 | ... }}</nowiki></code>
+
+This template supports up to 9 positional (unnamed) parameters: a list of [[:Category:Stub templates|Stub templates]] to surround.
+
+==Examples==
+<code><nowiki>{{Stub_box|Chiss-stub|Military-stub|Planet-stub}}</nowiki></code>
+
+results in
+
+{{Stub_box|Chiss-stub|Military-stub|Planet-stub}}
+and
+
+<code><nowiki>{{Stub_box| Website-stub | Substance-stub | Weapon-stub | Tech-stub }}</nowiki></code>
+
+results in
+
+{{Stub_box| Website-stub | Substance-stub | Weapon-stub | Tech-stub }}
+
+==Categorization==
+None: the template passes on the stub categories applied by included stub templates.
+
+[[Category:Stub templates|*]]

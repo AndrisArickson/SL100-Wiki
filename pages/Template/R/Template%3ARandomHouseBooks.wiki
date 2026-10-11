@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=RandomHouseBooks
+|image=[[File:Random House logo.svg|text-top|x16px|link=https://www.randomhousebooks.com|class=darkmodeinvert]]
+|site_text=[[Wikipedia:Random House|Random House Books']] [https://www.randomhousebooks.com official website]
+|base_url=https://{{{subdomain|www}}}.randomhousebooks.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

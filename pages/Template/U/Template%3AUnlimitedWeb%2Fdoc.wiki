@@ -1,0 +1,35 @@
+This template is to be used for citing individual pages on [[Star Wars: Unlimited|''Star Wars'': Unlimited's]] [https://www.starwarsunlimited.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{UnlimitedWeb|subdomain=|url=|text=|int=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://www.starwarsunlimited.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL is a subdomain of starwarsunlimited.com, the subdomain can be specified. Default is <code><nowiki>www</nowiki></code> if left blank.
+*{{Para|int}} This field provides a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>|date=2006-02-17</code>".
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{UnlimitedWeb|url=articles/press-release|text=Fantasy Flight Games to Release ''Star Wars''™: Unlimited}}</nowiki></code>
+
+Results in:
+
+{{UnlimitedWeb|url=articles/press-release|text=Fantasy Flight Games to Release ''Star Wars''™: Unlimited}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

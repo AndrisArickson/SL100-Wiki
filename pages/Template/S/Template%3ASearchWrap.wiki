@@ -1,0 +1,18 @@
+<onlyinclude>[{{SERVER}}/wiki/Special:Search?ns0=1&redirs=1&search={{urlencode:{{{1|{{{query}}}}}}}}&searchx=Search {{{1|{{{query}}}}}}]</onlyinclude>
+
+==Usage==
+This template is used to display a given search query and link to Wookieepedia's search function for it. It is intended for use on [[Wookieepedia:The Great Typo Hunt]].
+
+<pre><nowiki>{{SearchWrap|query}}</nowiki></pre>, where ''query'' is a term to display and link to search for.
+
+===Examples===
+#<pre><nowiki>{{SearchWrap|assassin}}</nowiki></pre>
+#*{{SearchWrap|assassin}}
+#<pre><nowiki>{{SearchWrap|Alderaan}}</nowiki></pre>
+#*{{SearchWrap|Alderaan}}
+#<pre><nowiki>{{SearchWrap|honour}}</nowiki></pre>
+#*{{SearchWrap|honour}}
+#<pre><nowiki>{{SearchWrap|alchohol}}</nowiki></pre>
+#*{{SearchWrap|alchohol}}
+
+[[Category:Navigation templates]]

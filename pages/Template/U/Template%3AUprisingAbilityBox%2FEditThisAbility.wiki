@@ -1,0 +1,10 @@
+<onlyinclude><table class="no-mobile" style="border:0; padding:0px; margin:0; border-spacing:0px; border-collapse:collapse; float:right;"><!--
+	--><tr><!--
+		--><td border="0" cellspacing="0" cellpadding="0" style="width:16px; text-align:right; padding-right:1px; margin:0px; border:0px;"><!--
+		--></td><!--
+		
+		--><td nowrap="nowrap" border="0" cellspacing="0" cellpadding="0" style="padding:0px; margin:0px; border:0px; display: inline-block;"><!--
+				-->{{{{{|safesubst:}}}#if:{{{abilityTemplateName|}}}|{{{{{|safesubst:}}}edi|{{{abilityTemplateName}}}}}|}}<!--
+		--></td><!--
+	--></tr><!--
+--></table></onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

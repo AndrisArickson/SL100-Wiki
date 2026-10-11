@@ -1,0 +1,7 @@
+Thank you for contributing to Wookieepedia! Please note that {{#if:{{{1|}}}|your edit to [[:{{{1}}}]]|one of your recent edits}} used Fandom's Add Category button on the bottom of the screen&mdash;while we appreciate your adding missing categories to articles, the Add Category button does not add the categories in alphabetical order, which is required per our [[Wookieepedia:Layout Guide#Categories|Layout Guide]]. In the future, please instead add categories by using the [[Special:Preferences#mw-prefsection-editing|source editor]] and manually adding them so that others don't have to correct them afterward. If you need help, feel free to ask another editor or our [[Wookieepedia:Discord|Discord server]]. Thank you! <includeonly>~~</includeonly><noinclude>~~</noinclude>~~<!--Template:Msg-addcategory--><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-addcategory|</nowiki>{{Var|article name (optional)}}<nowiki>}}</nowiki></code> to place the above message on a user's talk page. Your signature will automatically be added.
+
+__EXPECTUNUSEDTEMPLATE__
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

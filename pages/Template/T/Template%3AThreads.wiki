@@ -1,0 +1,14 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Threads
+|image=[[File:Threads-Logo.svg|text-top|x16px|link=https://www.threads.com]]
+|site_text=[[Wikipedia:Threads (social network)|Threads]]
+|base_url=https://www.threads.com/@
+|full_url=https://www.threads.com/@{{{username|{{{1}}}}}}/{{{url|{{{2|}}}}}}
+|target_url={{#if:{{{url|{{{2|}}}}}}|{{{url|{{{2|}}}}}}|{{{username|{{{1}}}}}}}}
+|username={{{username|{{{1|}}}}}}
+|is_post={{{url|{{{2|}}}}}}
+|author={{{3|{{{name}}}}}}
+|use_lua_subpage=1
+|social_media=1
+|allow_unnamed=3
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

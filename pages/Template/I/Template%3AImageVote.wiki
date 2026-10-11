@@ -1,0 +1,9 @@
+{{Ooumb
+|id = MainImage
+|bg = #D8E9FC
+|image = [[File:Blue-exclamation-mark.png|40px]]
+|caption = The main image{{#if:{{{2|}}}|s|}} of this article {{#if:{{{2|}}}|have|has}} been selected via [[Wookieepedia:Consensus#Infobox image consensus votes|community consensus]].
+|message = You can find the relevant discussion{{#if:{{{2|}}}|s|}} [[{{{1}}}|'''here''']]{{#if:{{{3|}}}|, [[{{{3|}}}|'''here''']],}}{{#if:{{{2|}}}| and [[{{{2|}}}|'''here''']]}}. A renewed vote may be held no sooner than six months after the previous one. Please do not change the main image unilaterally unless an official source has released a brand-new image.
+}}<noinclude>
+
+[[Category:Talk page templates]]</noinclude>

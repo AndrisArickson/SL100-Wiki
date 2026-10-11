@@ -1,0 +1,60 @@
+==Usage instructions==
+<code><nowiki>
+{{TORweb|subdomain=|url=|text=|int=|date=|oldversion=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki>
+</code>
+
+===Required parameters===
+*{{Para|url}} The URL of the web page, minus <code>https://www.swtor.com/</code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. While the template support both archiveurl and archivedate parameters, it's designed to work with only the archivedate parameter, and should be used that way. However, archivedates should be put into [[Module:ArchiveAccess/TORweb]], a centralized repository of archivedates for all swtor.com URLs; this allows TORweb to be used on an article without explicitly providing an archivedate, and the template will auto-provide one.
+
+The "url", "text", and "int" fields need to be explicitly assigned to as, otherwise, use of the "=" symbol in the links messes up the template. 
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the URL if its not <code>www</code> as highlighted here: <code>https://<mark>accounts</mark>.swtor.com</code>. Default is <code>www</code> if left blank.
+**Using the "forums" subdomain will change the template to a forums citation version. Please clearly identify the forum post by using {{Para|author}} and {{Para|date}}.
+*{{Para|int}} This field provides a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|author}} Name of the author. Mostly used with {{Para|subdomain=forum}} to identify a post's author. Must be identical to the name used on the source and linked to an article if applicable.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|quote}} Relevant quote from the page. Double-quotes will be added automatically.
+*{{Para|oldversion}} use <code>|oldversion=1</code> when the current version of the entry no longer includes the target information.
+
+For the commonly-referenced Patch Notes, {{Tl|TORweb/Patch}} can be used with just the patch number, and it will auto-generate the URL, text and archivedate.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Using central archive repository
+<code><nowiki>{{TORweb|url=info/news/news-article/20180709|text=#KOTOR15 Week in the #SWTOR Cartel Market!|date=2018-07-09}}</nowiki></code>
+
+Results in:
+
+{{TORweb|url=info/news/news-article/20180709|text=#KOTOR15 Week in the #SWTOR Cartel Market!|date=2018-07-09}}
+
+<hr />
+;Using {{Para|int}}
+<code><nowiki>{{TORweb|url=holonet/galactic-history|text=Timeline 8: The Jedi Civil War|int=Timeline 8: The Jedi Civil War}}</nowiki></code>
+
+Results in:
+
+{{TORweb|url=holonet/galactic-history|text=Timeline 8: The Jedi Civil War|int=Timeline 8: The Jedi Civil War}}
+
+<hr />
+;Using {{Para|subdomain}}
+<code><nowiki>{{TORweb|subdomain=account|url=play-for-free?intcmp=sor_bwa-mkt-t-us-a-003|text=Play Free* Now!|archivedate=20220712132055}}</nowiki></code>
+
+Results in:
+
+{{TORweb|subdomain=account|url=play-for-free?intcmp=sor_bwa-mkt-t-us-a-003|text=Play Free* Now!|archivedate=20220712132055}}
+
+<hr />
+;Using {{Para|subdomain}} with forums
+<code><nowiki>{{TORweb|subdomain=forums|url=topic/935259-game-update-75-desperate-defiance-coming-may-29th/#comment-9815981|text=Game Update 7.5 &quot;Desperate Defiance&quot; coming May 29th!|author=[[Ashley Ruhl|AshleyRuhl]]|date=2024-05-29|quote=I'm happy to announce that beginning in update 7.5, Wilf Scolding will be stepping into the role of the male Imperial Agent.}}</nowiki></code>
+
+Results in:
+
+{{TORweb|subdomain=forums|url=topic/935259-game-update-75-desperate-defiance-coming-may-29th/#comment-9815981|text=Game Update 7.5 &quot;Desperate Defiance&quot; coming May 29th!|author=[[Ashley Ruhl|AshleyRuhl]]|date=2024-05-29|quote=I'm happy to announce that beginning in update 7.5, Wilf Scolding will be stepping into the role of the male Imperial Agent.}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

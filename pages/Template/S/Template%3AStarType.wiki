@@ -1,0 +1,61 @@
+<infobox theme="Star">
+	<image source="image"></image>
+    <title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Classification</header>
+        <data source="type"><label>Star type</label></data>	
+        <data source="color"><label>Color</label></data>
+        <data source="temperature"><label>Temperature</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Habitability</header>
+        <data source="lifespan"><label>Lifespan (in years)</label></data>	
+        <data source="percentstars"><label>Percentage of all stars</label></data>	
+        <data source="supportlife"><label>Possibility of supporting life</label></data>
+        <data source="percenthabitable"><label>Percent habitable</label></data>	
+        <data source="numberhabitable"><label>Number habitable<br />in galaxy</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Examples</header>
+        <data source="star"><label>Sample star</label></data>
+        <data source="system"><label>System example</label></data>
+	</group>
+    <navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:StarType|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|type|color|temperature|lifespan|percentstars|supportlife|percenthabitable|numberhabitable|star|system}}<noinclude>
+
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre>{{StarType
+|image=
+|name=
+|type=
+|color=
+|temperature=
+|lifespan=
+|percentstars=
+|supportlife=
+|percenthabitable=
+|numberhabitable=
+|star=
+|system=
+}}</pre>
+
+==Data fields==
+This infobox's fields are primarily based on information found on pages ix-xi of ''[[The Essential Atlas]]''. Reference that to help you.
+*Name - Star's name. Example: [[Black dwarf/Legends|Black dwarf]]; [[Red supergiant/Legends|Red supergiant]]
+*Type - Classification type. Example: Main-sequence star; Compact star; [[Dwarf star/Legends|Dwarf star]]
+*Color - Star's color. Example: K stars like [[Yavin/Legends|Yavin]] are orange
+*Temperature - Surface temperature. Example: K stars are described as "cool"; blue O and B stars are "hot". See also page 79 of ''[[Galaxy Guide 8: Scouts]]'' for a numerical temperature scale.
+*Lifespan - Give the numerical lifespan in years. Example: For orange K stars like Yavin, 60 billion
+*Percentstars - Percentage of all stars. Example: 7% for white dwarfs
+*Supportlife - Possibility of supporting life. This field should either say "Unlikely" or "Possible" based on ''Atlas'' page xi
+*Percenthabitable - Habitability percentage. Example: 50% for yellow G stars
+*Numberhabitable - Number of habitable stars in the galaxy. Example: 3.75 billion for orange K stars
+*Star - List a sample star. Use the ones listed on ''Atlas'' page xi.
+*System - List an example of a star system that hosts this star type. Only use this field if there is no named example to fill in the "Sample star" field. Example: A system that is said to have a white dwarf star, but the star is not named and we have no article for the star.
+
+[[category:Astrographical infobox templates]]</noinclude>

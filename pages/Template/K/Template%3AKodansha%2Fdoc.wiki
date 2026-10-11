@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[Kodansha]]'s [https://www.kodansha.co.jp official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Kodansha|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.kodansha.co.jp/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Kodansha|url=book/products/0000189553|text=ＳＴＡＲ　ＷＡＲＳ　スター・ウォーズのなかまたち１００　（ディズニーブックス）|archivedate=20250416001144}}</nowiki></code>
+
+Results in:
+
+{{Kodansha|url=book/products/0000189553|text=ＳＴＡＲ　ＷＡＲＳ　スター・ウォーズのなかまたち１００　（ディズニーブックス）|archivedate=20250416001144}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

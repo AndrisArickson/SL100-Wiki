@@ -1,0 +1,6 @@
+Chapter 19 of {{#ifeq:{{PAGENAME}}|Thrawn (novel)|''Thrawn''|[[Thrawn (novel)|''Thrawn'']]}} includes [[Arihnda Pryce]] being appointed [[governor]] of [[Lothal]], which ''[[Star Wars: Timelines]]'' dates to [[11 BBY]]. As chapter 19 also establishes it has been approximately four [[Standard year|years]] since the start of ''Thrawn'', the novel must have began around [[15 BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{ThrawnNovelStartDate}}</nowiki></code>
+[[Category:Canon dating citation templates]]
+</noinclude>

@@ -1,0 +1,55 @@
+<includeonly>{{#switch:{{{1|}}}
+ |S1=''[[Star Wars: Timelines]]'' dates the events of ''[[Star Wars: The Mandalorian]]'' [[The Mandalorian Season One|Season One]]{{#if:{{{2|}}}|, including {{{2}}},}} to [[9 ABY]].
+ |S2=''[[Star Wars: Timelines]]'' dates the events of ''[[Star Wars: The Mandalorian]]'' [[The Mandalorian Season Two|Season Two]]{{#if:{{{2|}}}|, including {{{2}}},}} to [[9 ABY]].
+ |1
+ |2
+ |3
+ |4
+ |5
+ |6
+ |7
+ |8
+ |9
+ |10
+ |11
+ |12
+ |13
+ |14
+ |15
+ |16=''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}
+   |1=Chapter 1: The Mandalorian
+   |2=Chapter 2: The Child
+   |3=Chapter 3: The Sin
+   |4=Chapter 4: Sanctuary
+   |5=Chapter 5: The Gunslinger
+   |6=Chapter 6: The Prisoner
+   |7=Chapter 7: The Reckoning
+   |8=Chapter 8: Redemption
+   |9=Chapter 9: The Marshal
+   |10=Chapter 10: The Passenger
+   |11=Chapter 11: The Heiress
+   |12=Chapter 12: The Siege
+   |13=Chapter 13: The Jedi
+   |14=Chapter 14: The Tragedy
+   |15=Chapter 15: The Believer
+   |16=Chapter 16: The Rescue
+}}]]{{#if:{{{2|}}}|," including {{{2}}},|"}} to [[9 ABY]].
+ |epilogue=The epilogue of "[[Chapter 16: The Rescue]]" takes place between the main events of that episode and the present events of "[[Chapter 1: Stranger in a Strange Land]]", both of which ''[[Star Wars: Timelines]]'' dates to [[9 ABY]]. Therefore, the epilogue of "Chapter 16: The Rescue" also takes place in 9 [['ABY-BBY' dating system|ABY]].
+ |17
+ |18
+ |19
+ |20
+ |21
+ |22
+ |23
+ |24=''[[Star Wars: Timelines]]'' dates the events of "[[Chapter 16: The Rescue]]" to [[9 ABY]]. In addition, {{InsiderCite|228|A Certain Point of View (department)}} also dates "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after the events of {{Film|IV}}, which corresponds to 9 [['ABY-BBY' dating system|ABY]] per ''Timelines''. "Part Seven: Dreams and Madness" takes place after the [[liberation of Mandalore]], which is the main event depicted in "[[Chapter 23: The Spies]]" and "[[Chapter 24: The Return]]," the final two episodes of [[The Mandalorian Season Three|''The Mandalorian'' Season Three]]. Therefore, the events of "{{#switch:{{{1|}}}
+   |17=[[Chapter 17: The Apostate]]
+   |18=[[Chapter 18: The Mines of Mandalore]]
+   |19=[[Chapter 19: The Convert]]
+   |20=[[Chapter 20: The Foundling]]
+   |21=[[Chapter 21: The Pirate]]
+   |22=[[Chapter 22: Guns for Hire]]
+   |23=Chapter 23: The Spies
+   |24=Chapter 24: The Return}}{{#if:{{{2|}}}|," including {{{2}}},|"}} must take place in 9 ABY as well.
+ ||S3=''[[Star Wars: Timelines]]'' dates the events of "[[Chapter 1: The Mandalorian]]" of [[The Mandalorian Season One|''The Mandalorian'' Season One]] to [[9 ABY]]. In addition, {{InsiderCite|228|A Certain Point of View}} also dates "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after the events of {{Film|IV}}, which corresponds to 9 [['ABY-BBY' dating system|ABY]] per ''Timelines''. "Part Seven: Dreams and Madness" takes place after the [[liberation of Mandalore]], which is the main event depicted in "[[Chapter 23: The Spies]]" and "[[Chapter 24: The Return]]," the final two episodes of [[The Mandalorian Season Three|''The Mandalorian'' Season Three]]. Therefore, {{#switch:{{{1|}}}|S3=Season Three|Seasons One through Three}} of ''[[Star Wars: The Mandalorian]]''{{#if:{{{2|}}}|, including {{{2}}},|}} must all be set in 9 ABY as well.
+  |MandalorianAndGrogu={{StoryCite|book=Star Wars: The Mandalorian and Grogu Official Podcast|story=Growing Up}} established that the events of ''[[Star Wars: The Mandalorian and Grogu]]'' take place about ten [[Standard year|years]] into the thirty-year period between {{Film|VI}} and {{Film|VII}}. Since ''[[Star Wars: Timelines]]'' dates the events of ''Return of the Jedi'' to [[4 ABY]], ''The Mandalorian and Grogu''{{#if:{{{2|}}}|, including {{{2}}},|}} must take place around [[14 ABY]].}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,84 @@
+{| align="right" style="margin:0 auto; text-align:center" class="toccolours noprint darkbackground1"
+| colspan="2" bgcolor="#BBBBFF" | [[{{#ifeq:{{PAGENAME}}|May|April 1|
+{{#ifeq:{{PAGENAME}}|February 29|January 29|{{#switch:{{#time:F|{{PAGENAME}} {{CURRENTYEAR}}}}
+| March    = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|February 29|{{#ifeq:{{#time:j|{{PAGENAME}}}}|30|February 29|February {{#time:j|{{PAGENAME}}}}}}}}
+| July     = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|June 30|June {{#time:j|{{PAGENAME}}}}}}
+| October  = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|September 30|September {{#time:j|{{PAGENAME}}}}}}
+| December = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|November 30|November {{#time:j|{{PAGENAME}}}}}}
+|{{#time:F j|{{PAGENAME}} {{CURRENTYEAR}} last month}}
+}}}}}}|<<]]
+| style="font-size:larger" colspan="8" bgcolor="#BBBBFF" | {{#ifeq:{{{1}}}|May|'''[[May]]'''|'''[[{{{1}}}]]'''}}
+| colspan="2" bgcolor="#BBBBFF" | [[{{#ifeq:{{PAGENAME}}|May|June 1|
+{{#ifeq:{{PAGENAME}}|February 29|March 29|{{#switch:{{#time:F|{{PAGENAME}} {{CURRENTYEAR}}}}
+| January = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|February 29|{{#ifeq:{{#time:j|{{PAGENAME}}}}|30|February 29|February {{#time:j|{{PAGENAME}}}}}}}}
+| March   = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|April 30|April {{#time:j|{{PAGENAME}}}}}}
+| August  = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|September 30|September {{#time:j|{{PAGENAME}}}}}}
+| October = {{#ifeq:{{#time:j|{{PAGENAME}}}}|31|November 30|November {{#time:j|{{PAGENAME}}}}}}
+|{{#time:F j|{{PAGENAME}} {{CURRENTYEAR}} next month}}
+}}}}}}|>>]]
+|-
+| &#32;
+| [[{{{1}}} 1|1]]
+| [[{{{1}}} 2|2]]
+| [[{{{1}}} 3|3]]
+| [[{{{1}}} 4|4]]
+| [[{{{1}}} 5|5]]
+| [[{{{1}}} 6|6]]
+| [[{{{1}}} 7|7]]
+| [[{{{1}}} 8|8]]
+| [[{{{1}}} 9|9]]
+| [[{{{1}}} 10|10]]
+| &#32;
+|-
+| &#32;
+| [[{{{1}}} 11|11]]
+| [[{{{1}}} 12|12]]
+| [[{{{1}}} 13|13]]
+| [[{{{1}}} 14|14]]
+| [[{{{1}}} 15|15]]
+| [[{{{1}}} 16|16]]
+| [[{{{1}}} 17|17]]
+| [[{{{1}}} 18|18]]
+| [[{{{1}}} 19|19]]
+| [[{{{1}}} 20|20]]
+| &#32;
+|-
+| &#32;
+| [[{{{1}}} 21|21]]
+| [[{{{1}}} 22|22]]
+| [[{{{1}}} 23|23]]
+| [[{{{1}}} 24|24]]
+| [[{{{1}}} 25|25]]
+| [[{{{1}}} 26|26]]
+| [[{{{1}}} 27|27]]
+| [[{{{1}}} 28|28]]
+| [[{{{1}}} 29|29]]
+| {{#if:{{{hide30|}}}||[[{{{1}}} 30|30]]}}
+| {{#if:{{{hide31|}}}||[[{{{1}}} 31|31]]}}
+|-
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[January|Jan]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[February|Feb]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[March|Mar]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[April|Apr]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[May|May]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[June|Jun]]
+|-
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[July|Jul]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[August|Aug]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[September|Sep]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[October|Oct]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[November|Nov]]
+| style="font-size:smaller" colspan="2" bgcolor="#BBBBFF" | [[December|Dec]]
+|}<noinclude><br clear="all" />
+==Parameters==
+*hide30
+*hide31
+
+[[Category:Real-world content navigation templates]]
+
+{{Interlang
+|es=Plantilla:Mes
+|tr=tr:Şablon:Ay (tarih)
+}}
+
+</noinclude>

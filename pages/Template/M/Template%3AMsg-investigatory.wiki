@@ -1,0 +1,13 @@
+[[File:Dialog-error.svg|30px]] '''You have been [[Wookieepedia:Blocking policy|blocked]] from contributing''' for the duration of an investigation into allegations stating you {{{reason|{{{1}}}}}}. For further clarification on this block, please contact the administration using the email address listed on [[Wookieepedia:Contact]]. {{{2|}}} <!-- Template:Blocked --><noinclude>
+
+==Usage==
+Type <code><nowiki>{{subst:Msg-investigatory|</nowiki>{{Var|reason}}<nowiki>}}</nowiki></code> to place the above message on a user's talk page following an investigatory block. For long-term bans, use {{Tl|Banned}}.
+
+==Examples==
+*Example usage would be <code><nowiki>{{Subst:Msg-investigatory|violated the discrimination policy}}</nowiki></code>.
+*An optional second parameter can be included for a signature: <code><nowiki>{{Subst:Blocked|violated the discrimination policy|~~~~}}</nowiki></code>.
+
+__EXPECTUNUSEDTEMPLATE__
+
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

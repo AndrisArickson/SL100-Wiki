@@ -1,0 +1,156 @@
+{{#ifexpr:{{#if:{{{UTC|}}}|1|0}}*{{#if:{{{ET|}}}|1|0}}|{{#ifeq:{{#time:U|{{{UTC}}}}}|{{#time:U|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+4 hours|+5 hours}}}}||<span style="color:red"><big>The two times you have specified are not the same. This may be due to unanticipated daylight saving time. The UTC time you specified is used in the infobox below. Please recheck your times and correct as needed.</big></span>}}|}}
+<div id="Infobox meeting time" class="infobox" style="padding: 0px; {{#if:{{{width|}}}|width:{{{width}}};|}}">
+{| class="infoboxtable" cellspacing="0" cellpadding="4" style="border-width: 0px"
+|-
+| class="infoboximage" colspan="2" style="max-width: 250px;{{#if:{{{imageBG|}}}|background: #{{{imageBG}}}|{{#if:{{#if:{{{BG1|}}}|{{{BG1}}}|94C7D1}}|background: #{{#if:{{{BG1|}}}|{{{BG1}}}|94C7D1}}|background: #999999}}}}" | {{Imagewidth|{{{image|}}}|maxsize=250}}
+|- 
+! class="infoboxheading" colspan="2" style="{{#if:{{#if:{{{BG1|}}}|{{{BG1}}}|94C7D1}}|background: #{{#if:{{{BG1|}}}|{{{BG1}}}|94C7D1}}|background: #999999}}; {{{css|}}}" | {{{{{{2|name}}}}}}
+|-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{BG2|}}}|{{{BG2}}}|D6F0F5}}" | '''Americas'''
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;12
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -12 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-8 hours|-7 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;11
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -11 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-7 hours|-6 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;10 (Hawaii)
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -10 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-6 hours|-5 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;9 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}||(AKST)}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}||(AKST)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -9 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-5 hours|-4 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;8 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(AKDT)|(PST)}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(AKDT)|(PST)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -8 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-4 hours|-3 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;7 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(PDT)|(MST)}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(PDT)|(MST)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -7 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-3 hours|-2 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;6 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(MDT)|(CST)}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(MDT)|(CST)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -6 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-2 hours|-1 hour}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;5 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(CDT)|(EST)}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(CDT)|(EST)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -5 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|-1 hour|}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;4 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(EDT)|(AST)}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(EDT)|(AST)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -4 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}||+1 hour}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;3 {{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(ADT)|}}|{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|second sunday 07:00 March 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|first sunday 06:00 November 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(ADT)|}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -3 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+1 hour|+2 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;2
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -2 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+2 hours|+3 hours}}}}}}|}}
+|-
+|-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{BG2|}}}|{{{BG2}}}|D6F0F5}}" | '''Europe and Africa'''
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC&minus;1
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} -1 hour|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+3 hours|+4 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC/GMT
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}}|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+4 hours|+5 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+1 {{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|last sunday 01:00 April 1 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|last sunday 01:00 November 1 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(BST)|(CET)}}|{{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|last saturday 21:00 March 31 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|last saturday 21:00 October 31 {{#time:Y|{{{ET}}}}}}}|1|0}}|(BST)|(CET)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +1 hour|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+5 hours|+6 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+2 {{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|last sunday 01:00 April 1 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|last sunday 01:00 November 1 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(CEST)|(EET)}}|{{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|last saturday 21:00 March 31 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|last saturday 21:00 October 31 {{#time:Y|{{{ET}}}}}}}|1|0}}|(CEST)|(EET)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +2 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+6 hours|+7 hours}}}}}}|}}
+|-
+|-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{BG2|}}}|{{{BG2}}}|D6F0F5}}" | '''Asia and Oceania'''
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+3 {{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|last sunday 01:00 April 1 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|last sunday 01:00 November 1 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(EEST)|}}|{{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|last saturday 21:00 March 31 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|last saturday 21:00 October 31 {{#time:Y|{{{ET}}}}}}}|1|0}}|(EEST)|}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +3 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+7 hours|+8 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+4
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +4 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+8 hours|+9 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+5
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +5 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+9 hours|+10 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+6
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +6 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+10 hours|+11 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+7
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +7 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+11 hours|+12 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+8 (AWST)
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +8 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+12 hours|+13 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+9 (KST)
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +9 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+13 hours|+14 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+10 (AEST)
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +10 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+14 hours|+15 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+11 {{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|-10 hours first Sunday 02:00 April 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|-10 hours first Sunday 02:00 October 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}||(AEDT)}}|{{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|-14 hours first Sunday 02:00 April 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|-14 hours first Sunday 02:00 October 0 {{#time:Y|{{{ET}}}}}}}|1|0}}||(AEDT)}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +11 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+15 hours|+16 hours}}}}}}|}}
+|-
+|-
+| class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" | UTC+12 {{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|-12 hours first Sunday 02:00 April 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|-12 hours first Sunday 02:00 October 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}|(NZST)|}}|{{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|-16 hours first Sunday 02:00 April 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|-16 hours first Sunday 02:00 October 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|(NZST)|}}|}}}}
+| class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" | {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +12 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+16 hours|+17 hours}}}}}}|}}
+|-
+{{#if:{{{UTC|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{UTC}}}}}>={{#time:U|-12 hours first Sunday 02:00 April 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{UTC}}}}}<{{#time:U|-12 hours first Sunday 02:00 October 0 {{#time:Y|{{{UTC}}}}}}}|1|0}}||
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" {{!}} UTC+13 (NZDT)
+{{!}} class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" {{!}} {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +13 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+17 hours|+18 hours}}}}}}|}}
+{{!}}-
+}}|{{#if:{{{ET|}}}|{{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|-16 hours first Sunday 02:00 April 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|-16 hours first Sunday 02:00 October 0 {{#time:Y|{{{ET}}}}}}}|1|0}}||
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}" {{!}} UTC+13 (NZDT)
+{{!}} class="infoboxcell" style="{{#if:{{{3|}}}|background: #{{{3}}}|}}; {{{css|}}}" {{!}} {{#if:{{{UTC|}}}{{{ET|}}}|{{#time:H:i l, F j|{{#if:{{{UTC|}}}|{{{UTC}}} +13 hours|{{{ET}}} {{#ifexpr:{{#ifexpr:{{#time:U|{{{ET}}}}}>={{#time:U|second sunday 02:00 March 0 {{#time:Y|{{{ET}}}}}}}|1|0}}*{{#ifexpr:{{#time:U|{{{ET}}}}}<{{#time:U|first sunday 02:00 November 0 {{#time:Y|{{{ET}}}}}}}|1|0}}|+17 hours|+18 hours}}}}}}|}}
+{{!}}-
+}}|}}}}
+|}
+<div class="infoboxfooter plainlinks" style="border-radius: 0 0 10px 10px; text-align: center; background: #94C7D1">{{PlainLink|//starwars.fandom.com/wiki/Template:MeetingTime|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</div></div><noinclude>
+
+==Usage==
+<pre>
+{{MeetingTime
+|image=
+|name=
+|UTC=
+|ET=
+}}
+</pre>
+
+*'''image''': Optional. The image to be displayed at the top of the infobox, using full wikicode. Width should be specified as 250px unless the image is smaller. The <code>|thumb</code> parameter should not be used. A caption can be added by appending <code><nowiki><br /></nowiki></code> followed by the caption.
+*'''name''': Required. The title to be displayed below the image.
+*'''UTC''': The meeting time, expressed in UTC. Time, month, day of the month, and year should be specified. Do not specify the day of the week. This can be formatted in almost any standard human-readable format. A full list of available formats can be found here: [http://www.php.net/manual/en/datetime.formats.time.php time formats], [http://www.php.net/manual/en/datetime.formats.date.php date formats].
+*'''ET''': The meeting time, expressed in United States Eastern Time. Time, month, day of the month, and year should be specified. Do not specify the day of the week. Do not specify the time zone, as the template will account for the time zone, including DST correction if appropriate, automatically. This can be formatted in almost any standard human-readable format. A full list of available formats can be found here: [http://www.php.net/manual/en/datetime.formats.time.php time formats], [http://www.php.net/manual/en/datetime.formats.date.php date formats].
+**Either '''UTC''' or '''ET''' is required. Using both is optional and provides an error check; if both are specified and are not the same time (possibly due to unanticipated DST or a math error), an error message will be displayed.
+
+===How it works===
+If you specify the time in UTC only, the template will automatically make the necessary calculations to display the appropriate times in each field of the infobox. The specified time will also be used to determine in what time zones DST is in effect and in which ones it isn't, and display the appropriate common local abbreviations next to the UTC offsets (this is only done for North American, European, and Australian/New Zealand time zones). UTC+13 will be displayed only if DST is in effect in New Zealand.
+
+If you specify the time in ET only, the template works the same, except that it will first detect whether the time specified is Eastern Standard Time (UTC&minus;5) or Eastern Daylight Time (UTC&minus;4) based on the date given before filling in the fields and time zone labels.
+
+If you specify the time in both UTC and ET, the template will first determine if the two times are identical, accounting for DST on the ET time if needed. If they are not the same, a red error message will be displayed above the infobox alerting you to this fact. Regardless of whether they are the same, the UTC time will be used to fill in the time fields and European/Australian/New Zealand time zone labels, while ET will be used to apply North American time zone labels.
+
+===Known issues/limitations===
+*North American time zone labels change from standard to daylight time and vice versa at 2:00 AM Eastern Time, not 2:00 AM local time.
+*If you specify the time in ET as between 1:00 am and 1:59 am on the first Sunday in November (the night when DST ends in North America), the template will interpret this as daylight time. If you need to specify a time in the first hour after DST ends in the Eastern Time Zone, you will need to use UTC instead.
+
+[[Category:OOU infobox templates|Meeting time]]	
+</noinclude>

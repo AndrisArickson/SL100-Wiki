@@ -1,0 +1,11 @@
+Thank you for contributing to Wookieepedia! Before posting talk page comments, please familiarize yourself with the disclaimer at the top of talk pages, {{Tl|Talkheader}}. Talk pages are for discussion related to changes to the article, ''not'' for a discussion about the topic in question. If you would like to discuss ''Star Wars'' with other fans, feel free to explore the [[Wookieepedia:Discussions|Discussions forums]] or join our [[Wookieepedia:Discord|Discord server]]. {{{1|}}}<!-- Template:Msg-talk --><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-talk|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+
+==See also==
+*{{Tl|Msg-talka}}
+*{{Tl|Msg-talkc}}
+*{{Tl|Msg-talkr}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

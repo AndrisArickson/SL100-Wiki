@@ -1,0 +1,21 @@
+__NOTOC__
+{| class="headerbackground" style="text-align:center; padding: 0" width="100%" cellspacing="0" cellpadding="0" valign="top" border="0" |<noinclude>
+<br clear="all" />
+
+==Usage==
+To create a set of tabs, use these four elements. Keep the page tabs in the same order on all pages, use "Tab1" for the current page and use "Tab2" for all others.
+
+{{tl|TabsTop}}<br/>
+{{tlx|Tab1|Current page name}}<br/>
+{{tlx|Tab2|<nowiki>[[</nowiki>Other page name(s)<nowiki>]]</nowiki>}}<br/>
+{{tl|TabsBottom}}
+
+==Example==
+{{TabsTop}}
+{{Tab1|TabsTop}}
+{{Tab2|[[Template:Tab1|Tab1]]}}
+{{Tab2|[[Template:Tab2|Tab2]]}}
+{{Tab2|[[Template:TabsBottom|TabsBottom]]}}
+{{TabsBottom}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

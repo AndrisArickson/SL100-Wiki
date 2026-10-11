@@ -1,0 +1,5 @@
+<span class="lightMode-hide">{{{dark|{{{1|}}}}}}</span><span class="darkMode-hide">{{{light|{{{2|}}}}}}</span><noinclude>
+
+Used to display specific content depending on dark or light mode. Use |dark= and |light= as parameters.
+
+[[Category:Templates]]</noinclude>

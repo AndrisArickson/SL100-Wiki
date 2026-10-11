@@ -1,0 +1,24 @@
+<onlyinclude>{{#invoke:UprisingPageFooter|main}}</onlyinclude><noinclude>
+
+'''''old:'''''
+<code><pre><!--
+-->{{UprisingPageFooter/Main<!--
+-->|selected={{{selected|}}}<!--
+-->|state={{{state|}}}<!--
+-->|innerTableThPaddingLeft={{{innerTableThPaddingLeft|1.5em}}}<!--
+-->|innerTableThPaddingRight={{{innerTableThPaddingRight|0em}}}<!--
+-->|titlePaddingRight={{{titlePaddingRight|0}}}<!--
+
+-->|pageType={{UprisingPageFooter/PageType|pagePath={{#titleparts:{{FULLPAGENAME}}||2}}|rootPageName={{#titleparts:{{FULLPAGENAME}}|1|2}}|subPageName={{SUBPAGENAME}}}}<!--
+
+-->|debug={{{debug|0}}}<!--
+-->}}<!--
+-->{{#ifeq:{{{debug|0}}}|1|<!--
+	--><div>pagePath: {{#titleparts:{{FULLPAGENAME}}||2}}</div><!--
+	--><div>rootPageName: {{#titleparts:{{FULLPAGENAME}}|1|2}}</div><!--
+	--><div>subPageName: {{SUBPAGENAME}}</div><!--
+	--><div>origPageType: {{UprisingPageFooter/PageType|pagePath={{#titleparts:{{FULLPAGENAME}}||2}}|rootPageName={{#titleparts:{{FULLPAGENAME}}|1|2}}|subPageName={{SUBPAGENAME}}}}</div><!--
+-->|}}<!--
+-->
+</pre></code>
+{{Documentation}}</noinclude>

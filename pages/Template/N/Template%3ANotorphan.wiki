@@ -1,0 +1,7 @@
+{{SmallMB
+| id = notorphan
+| image = [[File:Dialog-warning.svg|50px]]
+| message = <center>'''This image is ''not an orphan'''&mdash;{{#if:{{{citation|}}}|it is used as proof/evidence of a social media post.|'''see [[{{{1}}}]]}}'''''<br />This image '''''is required to be present on [[Wookieepedia]]''''' as it is hyperlinked from a text link or is otherwise useful, '''despite the possibility of the image file being redundant''', such as the image file page '''appearing to have no other page linking to it'''.<br />''Please '''do not delete this image file without verifying that it is actually not needed.'''''</center>
+}}<noinclude>
+
+[[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

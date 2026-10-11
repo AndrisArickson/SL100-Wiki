@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=PenguinInt
+|image=[[File:Penguin_Random_House_International_Sales_USA_logo.png|text-top|x20px|link=https://prhinternationalsales.com|class=darkmodeinvert]]
+|site_text=[[Wikipedia:Penguin Random House|Penguin Random House's]] [https://prhinternationalsales.com international sales website]
+|base_url=https://{{{subdomain|www}}}.prhinternationalsales.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

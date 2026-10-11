@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ILMxLAB
+|image=[[File:Ilmxlab-graphic.png|text-top|x16px|link=https://www.ilmimmersive.com|class=darkmodeinvert]]
+|site_text=[[Industrial Light & Magic]]'s [https://www.ilmimmersive.com Immersive Entertainment website]
+|base_url=https://{{{subdomain|www}}}.ilmimmersive.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

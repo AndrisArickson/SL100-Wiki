@@ -1,0 +1,15 @@
+{| class="Talk-Notice headerbackground" style="background:#FBB7B7; border:3px solid #F00; padding:0.2em; margin:0 auto 3px auto; font-size:95%"
+| style="padding:0 4px;" | [[File:Dialog-error.svg|30px]]
+| <span style="font-size:medium">'''User warning: Vandalism.'''</span>
+
+'''Please do not continue to [[Wookieepedia:User conduct policy#Vandalism|vandalize]] Wookieepedia.''' 
+
+If you continue to vandalize the site, an [[Wookieepedia:Administrators|administrator]] will [[Wookieepedia:Blocking policy|block]] you.
+
+Please reconsider your approach, and pay attention to the advice others provide.{{<includeonly>subst:</includeonly>#if:{{{1|}}}|<p>{{{1}}}</p>}}
+|}<noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Msg-vandalism|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|Msg-vandalism]]</noinclude>

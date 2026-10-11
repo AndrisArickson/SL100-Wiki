@@ -1,0 +1,13 @@
+{{#invoke:BaseCitation|main|template=LucasFanClubCite
+|mode=magazine
+|image=[[File:LFCMlogo.jpg|text-top|x16px|link=Star Wars Insider]]
+|series=The Lucasfilm Fan Club Magazine
+|issue={{{1|}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|nolink={{{nolink|}}}
+|noquotes={{{noquotes|}}}
+|reprint={{{reprint|}}}
+}}<noinclude>{{Documentation}}</noinclude>

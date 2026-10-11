@@ -1,0 +1,23 @@
+{{Marvel|url=articles/comics/star-wars-shadow-of-maul-prequel-comic-maul-shadow-lord-animated-series|text=The 'Star Wars: Shadow of Maul' Comic Series Establishes the World of the Upcoming Animated Show}} establishes the events of ''[[Star Wars: Shadow of Maul]]'' take place between the [[Proclamation of the New Order|formation]] of the [[Galactic Empire]] and the events of ''[[Star Wars: Maul - Shadow Lord]]''. ''[[Star Wars: Timelines]]'' dates the Empire's formation to [[19 BBY]]. Therefore, the events of {{#if: {{{1|}}}|[[Shadow of Maul {{{1|}}}|''Shadow of Maul'' {{{1|}}}]]|''Star Wars: Shadow of Maul''}}{{#if: {{{2|}}}|, including {{{2}}},|}} must take place during or after 19 [['ABY-BBY' dating system|BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{ShadowofMaulDate}}</nowiki></code>
+
+===Examples===
+{|class="wikitable sortable" {{Prettytable}}
+!Issue !! Template !! Date !! Result
+|-
+|''[[Star Wars: Shadow of Maul]]''||<nowiki>{{ShadowofMaulDate}}</nowiki>||During or after [[19 BBY]]||{{ShadowofMaulDate}}
+|-
+|[[Shadow of Maul 1|''Shadow of Maul'' 1]]||<nowiki>{{ShadowofMaulDate|1}}</nowiki>||During or after [[19 BBY]]||{{ShadowofMaulDate|1}}
+|-
+|[[Shadow of Maul 2|''Shadow of Maul'' 2]]||<nowiki>{{ShadowofMaulDate|2}}</nowiki>||During or after [[19 BBY]]||{{ShadowofMaulDate|2}}
+|-
+|[[Shadow of Maul 3|''Shadow of Maul'' 3]]||<nowiki>{{ShadowofMaulDate|3}}</nowiki>||During or after [[19 BBY]]||{{ShadowofMaulDate|3}}
+|-
+|[[Shadow of Maul 4|''Shadow of Maul'' 4]]||<nowiki>{{ShadowofMaulDate|4}}</nowiki>||During or after [[19 BBY]]||{{ShadowofMaulDate|4}}
+|-
+|[[Shadow of Maul 5|''Shadow of Maul'' 5]]||<nowiki>{{ShadowofMaulDate|5}}</nowiki>||During or after [[19 BBY]]||{{ShadowofMaulDate|5}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

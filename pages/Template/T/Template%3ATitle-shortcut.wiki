@@ -1,0 +1,9 @@
+<div id="title-shortcut" class="main noprint" style="float: right; display: none; border: 1px solid #2f6fab; text-align: center; padding: 5px; font-size: 40%">[[Wookieepedia:Shortcut|Shortcut]]:<br />{{{1}}}</div><noinclude>
+
+[[Category:Navigation templates|{{PAGENAME}}]]
+
+{{Interlang
+|es=Plantilla:Titulo-atajo
+|tr=Şablon:Title-shortcut
+}}
+</noinclude>

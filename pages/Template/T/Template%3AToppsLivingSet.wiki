@@ -1,0 +1,23 @@
+<includeonly><span class="pnh">[[File:ToppsLogo-Template.svg|text-top|x16px|link=Topps]]&#32;<span class="plainlinks">[[Topps Star Wars Living Set|Topps ''Star Wars'' Living Set]]<!--
+-->{{#if:{{{cardname|}}}
+  |&#32;<span class="plainlinks"><small class="cgct">Card: {{#if:{{{link|}}}
+    |[{{{link}}} {{#if:{{{num|}}}|&num;{{{num}}}:&#32;|}}{{{cardname}}}]
+    |{{#if:{{{num|}}}|#{{{num}}}:&#32;|}}{{{cardname}}}
+  }}</small>{{#if:{{{link|}}}
+    |{{ArchiveAccess
+      |template_name=Topps
+      |full_url={{{link|}}}
+      |target={{{link|}}}
+      |nobackup={{{nobackup|}}}
+      |archiveurl={{{archiveurl|}}}
+      |archivedate={{{archivedate|}}}
+      |archivefile={{{archivefile|}}}
+      |nolive={{{nolive|}}}
+      |use_lua_subpage=1
+      |par=1
+    }}</span>
+    |}}
+  |{{#ifeq:{{NAMESPACE}}||{{#if:{{{parent|}}}||&nbsp;<small>(<span style="color: red">'''no card name specified'''</span>)</small>[[Category:Citation template usages without cardname|ToppsNow-{{PAGENAME}}]]}}|}}
+}}<!--
+-->{{#if:{{{parent|}}}{{NAMESPACE}}{{{num|}}}||&nbsp;<small>(<span style="color: red">{{Tl|ToppsLivingSet}} error: '''num''' parameter must be specified.</span>)</small>{{SpecialCategorizer|[[Category:Template usages with missing parameters‎|{{PAGENAME}}]]|full=1}}}}<!-- 
+-->{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}|simple=1}}</span></includeonly><noinclude>{{Documentation}}</noinclude>

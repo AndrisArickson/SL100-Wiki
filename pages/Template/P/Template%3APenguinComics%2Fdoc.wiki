@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[Wikipedia:Penguin Random House|Penguin Random House's]] [https://prhcomics.com Comics Retail website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{PenguinComics|subdomain=|url=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://prhcomics.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{Para|subdomain}} For subdomains of <code><nowiki>prhcomics.com</nowiki></code>, such as <code><nowiki>global.prhcomics.com</nowiki></code>, the subdomain can be specified, for example, <code>|subdomain=global</code>. Defaults to <code>www</code> if left blank.
+*{{Para|date}} Date the page was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|domain}} For international sites that do not use the <nowiki>prhcomics.com</nowiki> domain. Currently accepts <code>uk</code> for <nowiki>penguin.co.uk</nowiki>, <code>au</code> for <nowiki>penguin.com.au</nowiki>, and <code>de</code> for <nowiki>penguinrandomhouse.de</nowiki>. It returns <code>prhcomics.com</code> for blank or other entries.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{PenguinComics|url=book/?isbn=75960609601504311|text=Star Wars: Darth Vader 43|archivedate=20240115200326}}</nowiki></code>
+
+Results in:
+
+{{PenguinComics|url=book/?isbn=75960609601504311|text=Star Wars: Darth Vader 43|archivedate=20240115200326}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

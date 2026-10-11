@@ -1,0 +1,16 @@
+''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates the {{#switch: {{{1}}}|1|1 BBY=events that prior to the [[Battle of Yavin]] in {{Film|IV}} to [[1 BBY]]|0=[[Battle of Yavin]] to "0" in [['ABY-BBY' dating system]]|0 ABY=[[Royal Award Ceremony]] to [[0 ABY]]|events that prior to the [[Battle of Yavin]] in {{Film|IV}} to [[1 BBY]], Battle of [[Yavin 4|Yavin]] to "0," and the [[Royal Award Ceremony]] to [[0 ABY]] respectively}}. As ''[[Phineas and Ferb: Star Wars]]'' takes place concurrently with and overlaps with ''A New Hope'', it must take place during this timeframe as well.<noinclude>
+
+==Usage==
+{|class="wikitable sortable" {{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{PnFDate}}</nowiki></pre>||{{PnFDate}}
+|-
+|<pre><nowiki>{{PnFDate|1}}</nowiki></pre>||{{PnFDate|1}}
+|-
+|<pre><nowiki>{{PnFDate|0}}</nowiki></pre>||{{PnFDate|0}}
+|-
+|<pre><nowiki>{{PnFDate|0 ABY}}</nowiki></pre>||{{PnFDate|0 ABY}}
+|}
+
+[[Category:Dating citation templates]]</noinclude>

@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWKidsYouTube
+|archive=YouTube
+|image=[[File:StarWarsKids.jpg|x18px|link=https://www.youtube.com/c/StarWarsKids]]
+|site_text=the official [[StarWarsKids.com|''Star Wars'' Kids]] [https://www.youtube.com/c/StarWarsKids YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|serieslink={{{series|}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

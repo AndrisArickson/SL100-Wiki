@@ -1,0 +1,28 @@
+<div class="{{{1}}}"><center><div class="hidable-content">
+{|width="{{{7}}}%" cellpadding="2" cellspacing="3" style="vertical-align: top; table-layout: fixed"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div style="width: 100%; background-color: {{{3}}}; display:table; border-radius:5px; border:{{{5}}}px solid {{{4}}};">
+{|width="100%"
+! style="font-size: 0.8em; text-align:left"|{{{2}}}
+|style="padding-left: 6px; font-size: 1em; text-align:center" colspan="2"|{{{6}}}{{#if:{{{hide|}}}|&nbsp;<span class="hidable-button" style="font-size: 0.8em"></span>|}}
+|style="font-size: 0.8em; text-align: right;"|{{{2}}}
+|}
+</div>
+|}
+</div></center></div>
+
+<noinclude>{{Top|fprot}}
+
+==Use==
+
+<nowiki>{{Notice|1|2|3|4|5|6|7}}</nowiki>
+
+#Indicates class. Accepts any declared class; use monobook-hide or hidable for Main Page notices
+#Image. Use full image wikimarkup. 30px is standard for template use. Ex: <nowiki>[[File:Yes.jpg|30px]]</nowiki>
+#Background color. Requires # on hex codes.
+#Border color. Requires # on hex codes.
+#Border size. Use between 1px and 5px for best results. '''Does not need "px"'''
+#Notice text. Follows wikimarkup. Could possibly accept other templates; would need to test.
+#Width of box, in percent. 100 stretches full page. 85 offers sides buffers.
+
+[[Category:Main Page templates]]</noinclude>

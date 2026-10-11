@@ -1,0 +1,16 @@
+{{#invoke:BaseCitation|main|template=SpaceFantasyGamerCite
+|mode=magazine
+|image=[[File:SpaceGamerCite.png|text-top|link=Space Gamer/Fantasy Gamer]]
+|series=Space Gamer/Fantasy Gamer
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+|nolink={{{nolink|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "issue number" and "story name" with the appropriate information.
+ <nowiki>{{</nowiki>SpaceFantasyGamerCite|''ISSUE NUMBER''|''STORY NAME''}}
+[[Category:Unlicensed magazine citation templates|SpaceFantasyGamer]]</noinclude>

@@ -1,0 +1,26 @@
+==[[:{{{1}}}]]==
+<!-- comment to force linebreak  -->
+{| align=center border=0 cellpadding=4 cellspacing=4 class= "headerbackground" style="border: 2px solid #FF0000; background-color: #F1F1DE"
+|- 
+| '''Image deletion warning'''
+| class= "headerbackground" style="font-size: 80%" | The image [[:{{{1}}}]] has been listed at [[Wookieepedia:Speedy deletions]]. If you feel that this image should not be deleted, please go there to voice your opinion.
+|}<!-- Template:Idw --><noinclude>
+
+==Example==
+'''Wiki markup:'''
+<tt><nowiki>{{subst:idw|File:Wiki.png}}</nowiki></tt>
+
+'''Result:'''
+==[[:File:Wiki.png]]==
+<!-- comment to force linebreak  -->
+{| align=center border=0 cellpadding=4 cellspacing=4 class= "headerbackground" style="border: 2px solid #FF0000; background-color: #F1F1DE"
+|- 
+| '''Image deletion warning'''
+| class= "headerbackground" style="font-size: 80%" | The image [[:File:Wiki.png]] has been listed at [[Wookieepedia:Speedy deletions]]. If you feel that this image should not be deleted, please go there to voice your opinion.
+|}<!-- Template:Idw -->
+
+{{TestTemplatesNotice}}
+
+==See also==
+*[[Template:Idw-multi]]
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

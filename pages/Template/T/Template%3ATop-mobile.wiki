@@ -1,0 +1,9 @@
+<noinclude>{{#switch: {{#rpos:{{PAGENAME}}|/Legends}}
+	|-1 = {{#ifexist:{{PAGENAME}}/Legends|[[File:OnACanonArticle.png|150px|link=Canon]][[File:GoToLegends.png|150px|link={{BASEPAGENAME}}/Legends]]|<!--
+         -->{{#switch:{{#rpos:{{#dpl: titlematch = {{#titleparts:{{PAGENAME}}}} | skipthispage = no | category = Canon articles{{!}}Non-canon articles }}|{{#titleparts:{{PAGENAME}}}}}}  
+            |-1 = [[File:OnALegendsArticle.png|150px|link=Star Wars Legends]]
+            |#default= [[File:OnACanonArticle.png|150px|link=Canon]]
+            }}}}<!--
+
+    -->|#default = {{#ifexist:{{BASEPAGENAME}}|[[File:OnALegendsArticle.png|150px|link=Star Wars Legends|]][[File:GoToCanon.png|150px|link={{BASEPAGENAME}}]]|}}
+	}}</noinclude><noinclude>{{Top|fprot|mprot}}{{Documentation}}</noinclude>

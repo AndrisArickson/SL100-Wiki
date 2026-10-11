@@ -1,0 +1,95 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal lothalite|title=Lothalite Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Lothalite<!--
+-->|type=Crystal<!--
+-->|subtype=Rebel<!--
+-->|element=None<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=These crystals are used to improve Rebel equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedlothalite|cracked lothalite|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_01.png<!--
+			-->|credits|value|price=262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=300<!--
+			-->|howget|howtoget=<div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Anoat</div><div>Found on Opportunity Missions on Anoat</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|chipped|chippedlothalite|chipped lothalite|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_02.png<!--
+			-->|credits|value|price=787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=800<!--
+			-->|howget|howtoget=<div>Combine 6 Cracked Lothalite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Anoat</div><div>Found on Opportunity Missions on Anoat</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|dull|dulllothalite|dull lothalite|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Combine 7 Chipped Lothalite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Anoat</div><div>Found on Opportunity Missions on Anoat</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedlothalite|faceted lothalite|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Combine 9 Dull Lothalite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Anoat</div><div>Found on Opportunity Missions on Anoat</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedlothalite|polished lothalite|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Combine 10 Faceted Lothalite</div><div>Found on Crystals Finder Crew Missions</div><div>Found on Assault Missions on Anoat</div><div>Found on Opportunity Missions on Anoat</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantlothalite|brilliant lothalite|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<div>Combine ? Polished Lothalite</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristinelothalite|pristine lothalite|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Lothalite<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_07.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<div>Combine ? Brilliant Lothalite</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Lothalite<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Faction_Rebel_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Lothalite}}
+__NOTOC__
+</noinclude>

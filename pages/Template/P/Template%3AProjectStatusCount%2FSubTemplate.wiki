@@ -1,0 +1,14 @@
+{| class="transparent-background" style="border:3px solid #AAAAAA; background-color:#ffffff; padding:1px; width:100%;" 
+|-
+| style="background-color:#{{{color}}}; width:100px; padding:0.5em; font-size:500%; color:#000000; margin:10px; border:none; text-align:center;" | {{{count}}}
+| class="transparent-background" style="background-color:#ffffff; padding: 0 10px; margin:10px; border:none; text-align:justify;" | 
+<div style="text-align: left">{{#if:{{{legends|}}}
+  |'''Currently, this project and/or its participants have taken {{{count}}} articles to {{{nom_type}}} Article status'''. For a full list of the project's articles which have achieved {{{nom_type}}} status, please visit here → '''[[{{{portfolio_page|}}}|Portfolio (canon)]] / [[{{{portfolio_page|}}}/Legends|(Legends)]]'''
+  |{{#if:{{{notext|}}}
+    |&nbsp;→ '''[[{{{portfolio_page|}}}|Portfolio]]'''
+    |'''Currently, this project and/or its participants have taken {{{count}}} articles to {{{nom_type}}} Article status'''. For a full list of the project's articles which have achieved {{{nom_type}}} status, please visit here → '''[[{{{portfolio_page|}}}|{{{shortcut}}}'s {{{nom_type}}} Articles]]'''
+
+:'''{{C|These articles have all passed review by the {{{board}}}. If you see a way they can be updated or improved in line with [[:Category:Policies on Wookieepedia|Wookieepedia's policies]], please feel free to contribute!}}'''}}
+}}</div>
+| class="transparent-background" style="background-color: #ffffff; font-size: 150%; color:#ffffff; margin:10px; padding: 5px; border: none; text-align:center; width: 100px" | <div class="transparent-background" style="background:#FFFFFF;">{{{icon}}}</div>
+|}<noinclude>[[Category:Status article templates]] [[Category:WookieeProject templates]]</noinclude>

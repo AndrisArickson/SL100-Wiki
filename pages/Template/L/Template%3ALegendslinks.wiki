@@ -1,0 +1,6 @@
+In your recent edits, you removed "/Legends" from links on a [[Star Wars Legends|''Star Wars'' Legends]] page. Please do not continue to do so; articles on topics in the Legends continuity should not link to the articles in the new continuity, even if the Legends article is a redlink. For example, the [[Padmé Amidala/Legends]] page should not link to the Canon [[Naboo]] page, as they are two different continuities. Thanks. {{{1|}}}<!-- Template:Legendslinks --><noinclude>
+==Usage==
+Type <code><nowiki>{{subst:Legendslinks|~~~~}}</nowiki></code> to place the above warning on a user's talk page.
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

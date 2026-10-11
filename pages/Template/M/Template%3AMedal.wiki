@@ -1,0 +1,44 @@
+<infobox theme="Medal">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="awarded by"><label>Awarded by</label></data>
+        <data source="eligibility"><label>Eligibility requirements</label></data>	
+        <data source="recipients"><label>Recipients</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Precedence</header>
+        <data source="prerequisites"><label>Prerequisites</label></data>			
+        <data source="upgrades"><label>Upgrades</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Chronological information</header>
+        <data source="first awarded"><label>First awarded</label></data>
+        <data source="last awarded"><label>Last awarded</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Medal|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|awarded by|eligibility|recipients|prerequisites|upgrades|first awarded|last awarded|ignore=name}}<noinclude>
+{{clear}}
+
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre><nowiki>
+{{Medal
+|image=
+|name=
+|awarded by=
+|eligibility=
+|recipients=
+|prerequisites=
+|upgrades=
+|first awarded=
+|last awarded=}}
+</nowiki></pre>
+
+[[category:Object infobox templates]]
+</noinclude>

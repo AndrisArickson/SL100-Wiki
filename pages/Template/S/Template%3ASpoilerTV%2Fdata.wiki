@@ -1,0 +1,12 @@
+{{#switch: {{{show|}}} {{{1}}}
+| TheNinthJedi 1 = {{#if:{{{date|}}}|2026-09-05|[[A New Threat]]}}
+| TheNinthJedi 2 = {{#if:{{{date|}}}|2026-09-05|[[A Hidden Weapon]]}}
+| TheNinthJedi 3 = {{#if:{{{date|}}}|2026-09-05|[[Voice From the Past]]}}
+| TheNinthJedi 4 = {{#if:{{{date|}}}|2026-09-05|[[Nawaam Attacks]]}}
+| TheNinthJedi 5 = {{#if:{{{date|}}}|2026-09-05|[[The Storm of Violence]]}}
+| TheNinthJedi 6 = {{#if:{{{date|}}}|2026-09-05|[[Light of the Force]]}}
+| TheNinthJedi 7 = {{#if:{{{date|}}}|2026-09-05|[[The Jedi Strike Back]]}}
+| TheNinthJedi 8 = {{#if:{{{date|}}}|2026-09-05|[[The Ninth Jedi (episode)|The Ninth Jedi]]}}
+| Ahsoka 1 = {{#if:{{{date|}}}|2027-02-20|Episode 1}}
+| #default = ERROR
+ }}<noinclude>{{Top|sprot}}[[Category:Header templates]]</noinclude>

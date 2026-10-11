@@ -1,0 +1,27 @@
+===Usage instructions===
+Please see '''[[Wookieepedia:Layout Guide#Sources]]''' for the policy relevant to the use of this template.
+
+{{SourceContents|issue=Reference magazine using appropriate citation template
+|contents=*Individual department #1
+*Individual department #2
+}}
+
+==Example(s)==
+{{SourceContents|issue={{HelmetCollectionCite|26|parent=1}}|contents=
+*{{HelmetCollectionCite|26|Databank A-Z|Imperial Future Council&ndash;Inquisitorius}}
+*{{HelmetCollectionCite|26|Helmets|Y-wing Pilot}}
+*{{HelmetCollectionCite|26|Highlights of the Saga|Fall of the ''Malevolence''}}
+*{{HelmetCollectionCite|26|Weapons & Uniforms|Yavin Base}}
+}}
+
+===Code===
+<pre><nowiki>
+{{SourceContents|issue={{HelmetCollectionCite|26|parent=1}}|contents=
+*{{HelmetCollectionCite|26|Databank A-Z|Imperial Future Council&ndash;Inquisitorius}}
+*{{HelmetCollectionCite|26|Helmets|Y-wing Pilot}}
+*{{HelmetCollectionCite|26|Highlights of the Saga|Fall of the ''Malevolence''}}
+*{{HelmetCollectionCite|26|Weapons & Uniforms|Yavin Base}}
+}}
+</nowiki></pre>
+
+<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

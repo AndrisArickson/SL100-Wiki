@@ -1,0 +1,18 @@
+{{iumb
+| id = Update
+| bg = #EEE8AA
+| image = [[File:Z-95 Headhunter.jpg|150px]]
+| caption = Content approaching. {{#if:{{{1|}}}|{{#if:{{#invoke:LinkCount|main|value={{{1|}}}|threshold=6}}||''{{{1|}}}''&ndash;class.}}|}}
+| message = Parts of this article are no longer up to date. {{#if:{{{1|}}}|{{#if:{{#invoke:LinkCount|main|value={{{1|}}}|threshold=6}}|This article needs updating from multiple sources. Click the dropdown below to see the full list.<br /><div class="hidable start-hidden">
+<div style="width: 70%; padding-left: 1em"><span class="hidable-button"></span> Sources</div>
+<div class="hidable-content">
+
+''{{{1|}}}''
+
+</div></div>|}}|}}
+| comment = Please update the article to include missing information, and remove this template when finished.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles in need of updating|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>{{Top|fprot}}
+
+==Categorization==
+*[[:Category:Articles in need of updating]]
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

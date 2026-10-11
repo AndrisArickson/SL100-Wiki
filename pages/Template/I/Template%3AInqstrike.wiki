@@ -1,0 +1,4 @@
+<span style="color: red;">'''Objection(s) overridden by [[Wookieepedia:Inquisitorius|Inquisitorius]] {{{1}}} '''</span><noinclude>
+==Usage==
+This template should be placed after an objection which is overridden following an [[WP:INQ|Inq]] vote. Inqs who need to use this template simply need to put <nowiki>{{Inqstrike|~~~~~}}</nowiki> (making sure to use five <nowiki>~</nowiki><nowiki>'</nowiki>s) on an approved [[WP:FAN|FAN]].
+[[Category:Wookieepedia Inquisitorius templates|{{PAGENAME}}]]</noinclude>

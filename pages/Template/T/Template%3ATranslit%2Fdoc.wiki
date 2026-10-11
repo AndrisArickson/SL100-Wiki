@@ -1,0 +1,44 @@
+==Instructions==
+This template is meant to be used as part of the "description=" parameter of the {{Tl|Information}} template used on File pages, to provide a transliteration of [[Aurebesh]] (or other scripts) formatted in similar way that on the image itself.
+
+==Example==
+<code>{{Translit|<nowiki>{{Translit|</nowiki>The grand
+Coruscant
+theatre
+presents
+
+Theepa
+
+Live in
+concert.
+on her
+hyperdrive
+tour.
+
+This
+weekend
+only.
+Don't miss it!<nowiki>}}</nowiki>}}</code>
+
+Results in:
+
+{{Translit|The grand
+Coruscant
+theatre
+presents
+
+Theepa
+
+Live in
+concert.
+on her
+hyperdrive
+tour.
+
+This
+weekend
+only.
+Don't miss it!}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Quotation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

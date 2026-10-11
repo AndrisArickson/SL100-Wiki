@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=LizzieAudio
+|image=[[File:Lizzie-logo.svg|text-top|x16px|class=darkmodeinvert|link=https://www.lizzie.audio]]
+|site_text=[[Lizzie Audio]] [https://www.lizzie.audio official website]
+|base_url=https://{{{subdomain|www}}}.lizzie.audio
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

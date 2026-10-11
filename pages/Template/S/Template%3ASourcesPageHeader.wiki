@@ -1,0 +1,10 @@
+{{ooumb
+| bg = #D8E9FC
+| image = [[File:Information_icon.svg|45px]]
+| message = Due to technical limitations, this page contains the list of Sources for [[{{#replace:{{PAGENAME}}|/Sources|}}]]. The Sources section on the main article should be replaced with {{Tl|SourcesPage}}, though any individual entries that include {{Tl|1stm}} or [[:Category:First-notation appearance templates|similar templates]] should still be listed on the main article underneath.
+}}<includeonly>[[Category:Sources subpages|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+This template should be placed at the top of any /Sources subpage.
+
+[[Category:Header templates]]</noinclude>

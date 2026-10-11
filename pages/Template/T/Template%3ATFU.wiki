@@ -1,0 +1,19 @@
+{{#ifeq:{{{game|}}}|II|''[[Star Wars: The Force Unleashed II]]''|''[[Star Wars: The Force Unleashed]]''}} {{#if:{{{USE|}}}|&mdash; ''[[Star Wars: The Force Unleashed: Ultimate Sith Edition|Ultimate Sith Edition]]''}}{{#if:{{{version|}}}|&#32;<small>({{{version}}} versions only)</small>}}{{#if:{{{notes|}}}|&#32;<small>({{{notes}}})</small>}}<noinclude>
+
+==Usage==
+*For ''[[Star Wars: The Force Unleashed]]''
+<nowiki>{{</nowiki>TFU|USE=y|version=|notes=}}
+
+*For ''[[Star Wars: The Force Unleashed II]]''
+<nowiki>{{</nowiki>TFU|game=II|version=|notes=}}
+
+Use this template whenever appearances from ''[[Star Wars: The Force Unleashed]]'' or ''[[Star Wars: The Force Unleashed II]]'' require addition notes beyond the basic game version. Add "game=II" for the video game sequel. Add "y" or "1" to the "USE' field to add "&mdash; ''[[Star Wars: The Force Unleashed: Ultimate Sith Edition|Ultimate Sith Edition]]''" for the original game's expansion. For the "version" field, adding "X-box, PS3 and PC" will result in {{C|X-box, PS3 and PC versions only}}, use it to indicate when the subject only appears in certain versions on either game. You can also use "Notes" field to indicate whenever a character only appears as a playable costume or is only available through a cheat code, appears only in a downloadable level, or other notes.
+
+Remove unused optional fields.
+
+==Examples==
+<pre>*{{TFU|game=II|version=[[Wikipedia:PlayStation 3|PS3]]/[[Wikipedia:Xbox 360|Xbox 360]]|notes="[[Mynock/Legends|Mynock]]" databank entry}}</pre> creates:
+
+*{{TFU|game=II|version=[[Wikipedia:PlayStation 3|PS3]]/[[Wikipedia:Xbox 360|Xbox 360]]|notes="[[Mynock/Legends|Mynock]]" databank entry}}
+
+[[Category:Game citation templates|TFU]]</noinclude>

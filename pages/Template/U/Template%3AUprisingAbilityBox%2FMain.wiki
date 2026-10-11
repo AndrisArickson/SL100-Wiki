@@ -1,0 +1,183 @@
+<onlyinclude><includeonly>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|name={{{name}}}<!--
+-->|slot={{{slot}}}<!--
+-->|trainer={{#if:{{{trainer|}}}|{{{trainer}}}|{{#if:{{{trainerName|}}}|[[{{#if:{{{trainerLink|}}}|{{{trainerLink|}}}|{{{trainerName|}}}}}|{{{trainerName}}}]]{{#if:{{{trainerClass|}}}|&nbsp;({{{trainerClass}}})|}}|{{{trainerClass|{{{trainer}}}}}}}}}}<!--
+-->|trainername={{{trainerName}}}<!--
+-->|trainerlink={{{trainerLink}}}<!--
+-->|trainerclass={{{trainerClass}}}<!--
+-->|trainericon={{{trainerIcon|Uprising_Icon_{{{trainer}}}.png}}}<!--
+-->|location={{#if:{{{location|}}}|{{{location}}}|<!--
+		-->{{#if:{{{locationName|}}}|<!--
+			-->{{{locationName|}}}<!--
+			-->|{{{location|{{{locationLink|}}}}}}<!--
+		-->}}<!--
+	-->}}<!--
+-->|locationname={{{locationName}}}<!--
+-->|locationlink={{{locationLink|{{{locationName|{{{locationLink}}}}}}}}}<!--
+-->|element={{{element}}}<!--
+-->|faction={{{faction}}}<!--
+-->|price={{{price}}}<!--
+-->|price2={{{price2}}}<!--
+-->|price3={{{price3}}}<!--
+-->|description={{{description|No description available}}}<!--
+-->|1<!--
+-->|rank1={{{rank1|}}}<!--
+-->|rank1icon={{{rank1Icon|}}}<!--
+-->|2<!--
+-->|rank2={{{rank2|}}}<!--
+-->|rank2icon={{{rank2Icon|}}}<!--
+-->|3<!--
+-->|rank3={{{rank3|}}}<!--
+-->|rank3icon={{{rank3Icon|}}}<!--
+-->|cooldown={{{cooldown|}}}<!--
+-->|tablerow=<noinclude><table class="wikitable magistral-font class-style width-100-pct"></noinclude><!--
+	--><tr style="font-size:0.8em;"><!--
+		--><th rowspan="3" class="class-style letter-spacing-2px" style="padding:0 4px;letter-spacing:2px;font-size:1.4em;background:#3c3c3c;"><!--
+			-->'''[[{{#if:{{{pageLink|}}}|{{{pageLink|}}}|Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{name|<noinclude>Diving Roll</noinclude>}}}}}|<span style="color:#CFCFCF;">{{{name|<noinclude>Diving Roll</noinclude>}}}</span>]]<!--
+		--></th><!--
+		--><td rowspan="3" class="class-style text-align-center width-fit-content" style="padding:0 4px;text-align:center;font-size:1.1em;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;">{{{slot|<noinclude>Targeted</noinclude>}}}</td><!--
+		--><td rowspan="3" class="class-style text-align-center width-fit-content" style="padding:0 4px;text-align:center;font-size:1.1em;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;">{{{element|<noinclude>None</noinclude>}}}</td><!--
+		
+		--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">1</td><!--
+		--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">{{{rank1|<noinclude>?</noinclude>}}}</td><!--
+		--><td class="class-style text-align-left white-space-nowrap" style="text-align:left;padding:0 2px;line-height:1.6em;white-space:nowrap;">{{{price|<noinclude>?</noinclude>}}}</td><!--
+	--></tr><!--
+
+	--><tr style="font-size:0.8em;"><!--
+		--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">2</td><!--
+		--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">{{{rank2|<noinclude>?</noinclude>}}}</td><!--
+		--><td class="class-style text-align-left white-space-nowrap" style="text-align:left;padding:0 2px;line-height:1.6em;white-space:nowrap;">{{{price2|<noinclude>?</noinclude>}}}</td><!--
+	--></tr><!--
+	
+	--><tr style="font-size:0.8em;"><!--
+		--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">3</td><!--
+		--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">{{{rank3|<noinclude>?</noinclude>}}}</td><!--
+		--><td class="class-style text-align-left white-space-nowrap" style="text-align:left;padding:0 2px;line-height:1.6em;white-space:nowrap;">{{{price3|<noinclude>?</noinclude>}}}</td><!--
+	--></tr><!--
+--><noinclude></table></noinclude><!--
+-->|tablerow1<!--
+-->|tablerow2<!--
+-->|tablerow3=<noinclude><table class="wikitable magistral-font class-style width-100-pct"><tr style="font-size:0.8em;"></noinclude><!--
+	--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">{{#switch:{{lc:{{{get|}}}}}|tablerow3=3|tablerow2=2|tablerow1|#default=1}}</td><!--
+	--><td class="class-style text-align-center" style="text-align:center;padding:0 2px;line-height:1.6em;">{{#switch:{{lc:{{{get|}}}}}|tablerow3={{{rank3|<noinclude>?</noinclude>}}}|tablerow2={{{rank2|<noinclude>?</noinclude>}}}|tablerow1|#default={{{rank1|<noinclude>?</noinclude>}}}}}</td><!--
+	--><td class="class-style text-align-left white-space-nowrap" style="text-align:left;padding:0 2px;line-height:1.6em;white-space:nowrap;">{{#switch:{{lc:{{{get|}}}}}|tablerow3={{{price3|<noinclude>?</noinclude>}}}|tablerow2={{{price2|<noinclude>?</noinclude>}}}|tablerow1|#default={{{price|<noinclude>?</noinclude>}}}}}</td><!--
+--><noinclude></tr></table></noinclude><!--
+-->|listitem=<!--
+	--><table class="class-style display-inline-block width-250-px" style="display:inline-block;width:250px;padding:0;border-spacing:0px;"><!--
+		--><tr><!--
+			--><td class="class-style width-80-px height-80-px padding-0" style="width:80px;height:80px;padding:0;"><!--
+				--><div class="class-style width-80-px height-80-px" style="width:80px;height:80px;"><!--
+					-->[[File:{{#if:{{{rank3Icon|<noinclude>Uprising_Icon_Location_Grenade_03.png</noinclude>}}}|{{{rank3Icon|<noinclude>Uprising_Icon_Location_Grenade_03.png</noinclude>}}}|{{{rank1Icon|<noinclude>Uprising_Icon_Location_Grenade.png</noinclude>}}}}}|frameless|link=Wookieepedia:Star Wars: Uprising Super Walkthrough/Abilities/{{{name|<noinclude>Grenade</noinclude>}}}|{{{name|<noinclude>Grenade</noinclude>}}}|80px]]<!--
+				--></div><!--
+			--></td><!--
+			--><td class="class-style height-80-px padding-0" style="height:80px;padding:0;line-height:1.1em;"><!--
+				-->[[Wookieepedia:Star Wars: Uprising Super Walkthrough/Abilities/{{{name|<noinclude>Grenade</noinclude>}}}|<span class="magistral-font class-style font-size-22px" style="font-size:22px;">{{{name|<noinclude>Grenade</noinclude>}}}</span>]]<!--
+			--></td><!--
+		--></tr><!--
+	--></table><!--
+-->|page<!--
+-->|all<!--  
+-->|{{{null|}}}<!--
+-->|null<!--
+-->|#default=<!--
+-->{{#ifeq:{{SUBPAGENAME}}|data|{{#ifeq:{{BASEPAGENAME}}|Star Wars: Uprising Super Walkthrough/Abilities/{{{name|}}}|<!--
+	--><table class="noprint stub plainlinks" style="padding:2px 10px;background: #FFDBDB none repeat scroll 0px 0px;border: 1px solid #BB7070;width:100%;text-align:left;font-size:14px;font-weight:normal;margin:0.5em;"><!--
+		--><tr><td>[[File:Cmbox_deletion.png|link=|40px]] <u>'''Warning'''</u> This a template for "[[{{{abilityLink|Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{name}}}}}}|{{{name}}}]]".</td></tr><!--
+	--></table><!--
+	-->[[Category:Ability Templates for Star Wars: Uprising]]<!--
+	-->|{{#ifeq:{{BASEPAGENAME}}|Star Wars: Uprising Super Walkthrough||{{#ifeq:{{BASEPAGENAME}}|Star Wars: Uprising Super Walkthrough/Abilities||[[<!--  -->Category:Transcludes Ability Template for Star Wars: Uprising]]}}}}<!--
+-->}}|{{#ifeq:{{PAGENAME}}|Star Wars: Uprising Super Walkthrough/Abilities/{{{name|}}}|<!--
+	-->{{#if:{{{name|}}}|{{DISPLAYTITLE:<i>Uprising Ability&#58;</i> <span class="magistral-font">{{{name|}}}</span>}}|}}<!--
+	-->[[Category:Abilities in Star Wars: Uprising]]<!--
+	-->[[Category:Star Wars: Uprising Super Walkthrough]]<!--
+	-->{{#if:{{{slot|}}}|{{#ifeq:{{{slot|}}}|?||[[Category:{{ucfirst:{{{slot|}}}}} Abilities in Star Wars: Uprising]]}}}}<!--
+-->|}}}}<!--
+--><div class="magistral-font" style="width:{{{WIDTH|100%}}};min-width:{{{MINWIDTH|350px}}};{{#if:{{{right|}}}|clear:right;float:right;|}}"><!--
+	-->{{#if:{{{heading|}}}|<table style="border-bottom:1px {{#if:{{{noHeadingBorder|}}}||solid}} #4C4C4C; width:100%; line-height:23px;"><tr><td>{{#ifeq:{{{heading}}}|2||<h{{{headingLevel|2}}} style="display:inline; border-bottom:0px;font-size:25px;">[[Wookieepedia:Star Wars: Uprising Super Walkthrough/Abilities/{{{name|}}}|<span style="color:#3A3A3A;text-decoration:none;">{{#ifeq:{{{heading}}}|1|{{{name|No Name}}}|{{{heading}}}}}</span>]]</h{{{headingLevel|}}}>}}</td><td>{{UprisingAbilityBox/EditThisAbility|abilityTemplateName={{{abilityLink|Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{pageName|{{{name|}}}}}}}}}/data}}</td></tr></table>}}<!--
+	--><table class="toc" style="width:100%;table-layout:fixed;border-collapse: collapse;background-color: transparent;border: 0 none transparent;margin: 0;padding: 0;background: transparent;border-width: 0px;"><!--
+		--><tr style="border-left: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-right: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-top: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};background-color:{{{PRIMARYBGCOLOR}}};"><!--
+			-->{{#if:{{{noRankText|}}}||<td style="color:rgb(206, 204, 77);padding:0 9px 0 5px;height:60px;font-size: 35px;width:108px;">Rank&nbsp;<span style="float:right;">1</span></td>}}<!--
+			--><td {{#if:{{{noRankText|}}}|colspan="2"|}} style="width:60px;text-align:center;" title="Rank 1">{{#if:{{{rank1Icon|}}}|{{Css_Image_Crop|firstDivStyle=margin:0 auto;|cWidth=50|cHeight=50|oTop=5|oLeft=5|bSize=60px|link=|Image={{{rank1Icon|}}}}}|N/A}}</td><!--
+			--><td style="padding-left:5px;color:#fff;min-width:100px;">{{{rank1|?}}}</td><!--
+		--></tr><!--
+		--><tr style="border-left: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-right: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};background-color:{{{PRIMARYBGCOLOR}}};"><!--
+			-->{{#if:{{{noRankText|}}}||<td style="color:rgb(206, 204, 77);padding:0 3px 0 5px;height:60px;font-size: 35px;width:108px;">Rank&nbsp;<span style="float:right;">2</span></td>}}<!--
+			--><td {{#if:{{{noRankText|}}}|colspan="2"|}} style="width:60px;text-align:center;" title="Rank 2">{{#if:{{{rank2Icon|}}}|{{Css_Image_Crop|firstDivStyle=margin:0 auto;|cWidth=50|cHeight=50|oTop=5|oLeft=5|bSize=60px|Image={{{rank2Icon|}}}}}|N/A}}</td><!--
+			--><td style="padding-left:5px;color:#fff;min-width:100px;">{{{rank2|?}}}</td><!--
+		--></tr><!--
+		--><tr style="border-left: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-right: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-bottom: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};background-color:{{{PRIMARYBGCOLOR}}};"><!--
+			-->{{#if:{{{noRankText|}}}||<td style="color:rgb(206, 204, 77);padding:0 3px 0 5px;height:60px;font-size: 35px;width:108px;">Rank&nbsp;<span style="float:right;">3</span></td>}}<!--
+			--><td {{#if:{{{noRankText|}}}|colspan="2"|}} style="width:60px;text-align:center;" title="Rank 3">{{#if:{{{rank3Icon|}}}|{{Css_Image_Crop|firstDivStyle=margin:0 auto;|cWidth=50|cHeight=50|oTop=5|oLeft=5|bSize=60px|Image={{{rank3Icon|}}}}}|N/A}}</td><!--
+			--><td style="padding-left:5px;color:#fff;min-width:100px;">{{{rank3|?}}}</td><!--
+		--></tr><!--
+		-->{{#if:{{{ranksOnly|}}}||<!--
+		--><tr style="color:#1c1c1c;border-left: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-right: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};border-bottom: {{{BORDERWIDTH|1}}}px solid {{{BORDERCOLOR}}};background-color:{{{SECONDARYBGCOLOR}}};"><td colspan="3" style="width:100%;padding:0px 5px 0 5px;font-size:12px;"><!--
+			--><table style="display:inline-table;table-layout:fixed;border-collapse: collapse;min-width:190px;"><!--
+				--><tr style=""><!--
+					--><th align="left" style="letter-spacing:1px;min-width:70px;width:80px;">Slot</th><!--
+					--><td style="text-align:right;">{{{slot|?}}}</td><!--
+				--></tr><!--
+				--><tr style=""><!--
+					--><th align="left" style="letter-spacing:1px;min-width:70px;width:80px;">Trainer</th><!--
+					--><td style="text-align:right;"><!--
+						-->{{#if:{{{trainerName|}}}|{{{trainerLink|{{{trainerName}}}}}}]]<!--
+							-->{{#if:{{{trainerClass|}}}|&nbsp;({{{trainerClass}}})|}}<!--
+						-->|{{{trainer|?}}}}}<!--
+					--></td><!--
+				--></tr><!--
+				--><tr style=""><!--
+					--><th align="left" style="letter-spacing:1px;min-width:70px;width:80px;">Location</th><!--
+					--><td style="text-align:right;"><!--
+						-->{{{locationName|{{{location|?}}}}}}}}<!--
+					--></td><!--
+				--></tr><!--
+			--></table><!--
+			--><table style="float:right;display:inline-table;table-layout:fixed;border-collapse: collapse;min-width:190px;"><!--
+				--><tr style=""><!--
+					--><th align="left" style="letter-spacing:1px;min-width:70px;width:80px;">Element</th><!--
+					--><td style="text-align:right;"><!--
+						-->{{#if:{{{element|}}}|<!--
+							-->{{#switch:{{lc:{{{element|}}}}}<!--
+								-->|chemical=<div class="uprising-sprite chemical-hexagon small" style="margin:0px 5px -10px 0px;"></div>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Elements|Chemical]]<!--
+								-->|disrupt|disruption=<div class="uprising-sprite disruption-hexagon small" style="margin:0px 5px -10px 0px;"></div>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Elements|Disruption]]<!--
+								-->|toxin|toxic=<div class="uprising-sprite toxic-hexagon small" style="margin:0px 5px -10px 0px;"></div>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Elements|Toxic]]<!--
+								-->|explode|explosive=<div class="uprising-sprite explosive-hexagon small" style="margin:0px 5px -10px 0px;"></div>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Stats#Elements|Explosive]]<!--
+								-->|none<!--
+								-->|#default={{{element|?}}}<!--
+							-->}}<!--
+						-->|?}}<!--
+					--></td><!--
+				--></tr><!--
+				--><tr style=""><!--
+					--><th align="left" style="letter-spacing:1px;min-width:70px;width:80px;">Faction</th><!--
+					--><td style="text-align:right;"><!--
+						-->{{#if:{{{faction|{{{factionName|}}}}}}|<!--
+							-->{{#switch:{{lc:{{{factionName|{{{faction|}}}}}}}}<!--
+								-->|trade spine|trade_spine|tradespine|tradespineleague|trade_spine_league|trade spine league=<div class="uprising-sprite filter-black trade-spine-circle small" style="margin:0px 5px -10px 0px;"></div><!--
+								-->|ivax|ivax syndicate|ivax_syndicate|ivaxsyndicate|ring syndicate|ring_syndicate|ringsyndicate=<div class="uprising-sprite ivax-circle small" style="margin:0px 5px -10px 0px;"></div><!--
+								-->|rebel|alliance|rebel alliance|rebel_alliance|rebelalliance=<div class="uprising-sprite alliance-circle small" style="margin:0px 5px -10px 0px;"></div><!--
+								-->|nobles court|noble court|noble_court|nobles|noble=<div class="uprising-sprite nobles-circle small" style="margin:0px 5px -10px 0px;"></div><!--
+								-->|kouhun=<div class="uprising-sprite kouhun-circle small" style="margin:0px 5px -10px 0px;"></div><!--
+								-->|#default=<!--
+							-->}}<!--
+							-->[[{{{faction|{{{factionName|}}}}}}|{{{factionName|{{{faction|}}}}}}]]<!--
+						-->|?}}<!--
+					--></td><!--
+				--></tr><!--
+				--><tr style=""><!--
+					--><th align="left" style="letter-spacing:1px;min-width:70px;width:80px;">Price</th><!--
+					--><td style="text-align:right;"><!--
+						--><span style="display:inline-block;{{#ifexpr:{{#if:{{{price2|}}}|1|0}} or {{#if:{{{price3|}}}|1|0}}|padding-right:4px;border-right: 1px solid rgba(0, 0, 0, 0.5);" title="Rank 1|}}">{{{price|?}}}</span><!--
+						-->{{#if:{{{price2|}}}|<span style="display:inline-block;padding-left:4px;{{#if:{{{price3|}}}|padding-right:4px;border-right: 1px solid rgba(0, 0, 0, 0.5);|}}" title="Rank 2">{{{price2|?}}}</span>|}}<!--
+						-->{{#if:{{{price3|}}}|<span style="display:inline-block;" title="Rank 3">{{{price3|?}}}</span>|}}<!--
+					--></td><!--
+				--></tr><!--
+			--></table><!--
+		--></td></tr><!--
+		-->}}<!--
+	--></table><!--
+--></div><!--
+-->{{#ifeq:{{SUBPAGENAME}}|data|{{#ifeq:{{BASEPAGENAME}}|Star Wars: Uprising Super Walkthrough/Abilities/{{{name|}}}|<!--
+	-->{{Documentation|pagePath=UprisingAbilityBox/doc2}}<!--
+-->|}}|}}<!--
+--></includeonly></onlyinclude>

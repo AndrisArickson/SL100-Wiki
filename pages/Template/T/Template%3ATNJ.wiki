@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=TNJ
+|mode=TV
+|image=[[File:TheNinthJedi-TemplateLogo.png|text-top|x15px|class=darkmodeinvert|link=Star Wars: Visions Presents - The Ninth Jedi]]
+|series=Star Wars: Visions Presents - The Ninth Jedi
+|stext=''Star Wars: Visions Presents - The Ninth Jedi''
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+{{Documentation}}
+
+[[Category:TV citation templates]]</noinclude>

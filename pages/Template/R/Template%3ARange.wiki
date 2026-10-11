@@ -1,0 +1,10 @@
+<span class="plainlinks"><span style="font-weight:bold">[http://www.dnsstuff.com/tools/cidr.ch?ip={{{1}}} <span title="general world location of {{{1}}}">{{{1}}}</span>]:</span> [{{fullurl:Special:Block|wpBlockReason={{urlencode:{{{reason|}}}}}&ip={{{1|}}}}} Block] &bull; [{{fullurl:Special:BlockList|action=unblock&ip={{{1|}}}}} Unblock] &bull;  [{{fullurl:Special:BlockList|action=search&ip={{{1}}}}} List blocks]{{#if:{{{substring|}}}|&nbsp;&bull; [{{fullurl:Special:BlockList|action=search&ip={{{substring}}}}} Search sub-blocks]}} &bull; [{{fullurl:Special:Log|type=&user=&page=User:{{{1|}}}}} Block history]</span><noinclude>
+
+==Usage==
+*<code><nowiki>{{range|CIDR range}}</nowiki></code>. Example: <code><nowiki>{{range|195.93.0.0/16}}</nowiki></code> gives: {{range|195.93.0.0/16}}
+
+Optional Parameters:
+*substring=''ip_fragment'': searches for a substring, handy for finding active individual blocks in a range. Example: <code><nowiki>{{range|195.93.0.0/16|substring=195.93.}}</nowiki></code>
+*reason=''block reason'': allows you to specify a block reason, handy for large lists. Example: <code><nowiki>{{range|195.93.0.0/16|reason=AOL temporary range block}}</nowiki></code>
+
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

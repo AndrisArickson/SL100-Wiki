@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ToppsWeb
+|image=[[File:ToppsLogo-Template.svg|text-top|x14px|link=Topps]]
+|site_text=[[Topps]]' [https://www.topps.com official website]
+|base_url=https://{{{subdomain|www}}}.{{#if:{{{store|}}}|toppsonlinestore|topps}}.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}{{#ifeq:{{{subdomain|}}}|ripped|[[Category:Ripped]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

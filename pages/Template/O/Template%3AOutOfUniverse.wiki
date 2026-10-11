@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Oou
+| bg = #F7F7F7
+| image = [[File:Ewokdirector.jpg|180px]]
+| caption = And&hellip; ACTION!
+| message = This article contains inappropriate or misplaced [[Wookieepedia:Manual of Style#Out-of-universe|out-of-universe]] material or perspective. {{#if:{{{1|}}}|Specifically, it was tagged because: {{{1}}}.|}}
+| comment = Please edit it using the guidelines set forth in the [[Wookieepedia:Manual of Style|Manual of Style]] for [[Wookieepedia:Manual of Style#Out-of-universe|out-of-universe material]], and remove this message when finished.
+| reason = The following issues need out-of-universe cleanup
+| category = Category:Articles needing out-of-universe cleanup
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles needing out-of-universe cleanup|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{OutOfUniverse|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles needing out-of-universe cleanup]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates]]</noinclude>

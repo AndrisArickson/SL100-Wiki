@@ -1,0 +1,8 @@
+{{{1}}}<noinclude>
+
+==Usage==
+Prints the value passed to it.
+
+This is a meta-template for use with complex template nesting tricks.  See also [[Template:F]].
+
+[[Category:Utility metatemplates|{{PAGENAME}}]]</noinclude>

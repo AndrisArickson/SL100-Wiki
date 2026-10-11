@@ -1,0 +1,31 @@
+{{Clear}}
+==Usage==
+Please refer to [[Wookieepedia:List of user languages]] for a comprehensive list of this template's usage.
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <code><nowiki>{{Lang|en|N}}</nowiki></code> || {{Lang|en|N}}
+|-
+| <code><nowiki>{{Lang|de|U}}</nowiki></code> || {{Lang|de|U}}
+|-
+| <code><nowiki>{{Lang|es|E}}</nowiki></code> || {{Lang|es|E}}
+|-
+| <code><nowiki>{{Lang|fr|0}}</nowiki></code> || {{Lang|fr|0}}
+|-
+| <code><nowiki>{{Lang|yue|1}}</nowiki></code> || {{Lang|yue|1}}
+|-
+| <code><nowiki>{{Lang|m'a|2}}</nowiki></code> || {{Lang|m'a|2}}
+|-
+| <code><nowiki>{{Lang|he|3}}</nowiki></code> || {{Lang|he|3}}
+|-
+| <code><nowiki>{{Lang|ja|P}}</nowiki></code> || {{Lang|ja|P}}
+|-
+| <code><nowiki>{{Lang|no|F}}</nowiki></code> || {{Lang|no|F}}
+|}
+
+==See also==
+*[[Wookieepedia:Templates/User namespace#Language]]
+
+<includeonly>[[Category:Language templates|Lang]][[Category:Userbox templates|Lang]]</includeonly><noinclude>[[Category:Template documentation|Lang]]</noinclude>

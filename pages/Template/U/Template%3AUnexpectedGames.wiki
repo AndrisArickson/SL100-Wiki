@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=UnexpectedGames
+|image=[[File:UnexpectedGames-Logo.png|text-top|x16px|link=https://unexpectedgames.com]]
+|site_text=[[Unexpected Games]]' [https://unexpectedgames.com official website]
+|base_url=https://{{#if:{{{subdomain|}}}|{{{subdomain|}}}.|}}unexpectedgames.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

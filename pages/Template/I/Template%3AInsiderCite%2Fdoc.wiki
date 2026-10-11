@@ -1,0 +1,21 @@
+==Usage==
+This template is used to cite content from ''[[Star Wars Insider]]''. Please use {{Tl|LucasFanClubCite}} for issues 1-22. Place the following code on the page and replace the "issue number," "story name" and "formatted name" with the appropriate information. "Issue number" can either be used for numbered issues or for special, non-numbered ones like [[Star Wars Insider Special Edition 2010|''Star Wars Insider'' Special Edition 2010]]. For articles/stories that span multiple '''concurrent''' issues, use the parameters "issue1" and "issue2".
+ <nowiki>{{</nowiki>InsiderCite|ISSUE NUMBER|STORY NAME|''FORMATTED NAME'' (optional)}}
+
+You can override the default link for compilations and such with the "link" parameter:
+ <nowiki>{{</nowiki>InsiderCite|link=LINK TO PAGE|FORMATTED LINK|STORY NAME|''FORMATTED NAME'' (optional)}}
+
+==Example(s)==
+<code><nowiki>{{InsiderCite|131|Things To Look Out For In Star Wars Episode I: The Phantom Menace 3D!}}</nowiki></code>
+
+Results in:
+
+{{InsiderCite|131|Things To Look Out For In Star Wars Episode I: The Phantom Menace 3D!}}
+
+Other use cases:
+*{{InsiderCite|issue1=204|issue2=205|The Rick McCallum Chronicles}}
+*{{InsiderCite|Special Edition 2014|A Certain Point of View (Star Wars Insider)|A Certain Point of View: The Death Star Coup}}
+*{{InsiderCite|link=The Best of Star Wars Insider Volume 3|''The Best of Star Wars Insider'' Volume 3|Back From the Depths!}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Magazine citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

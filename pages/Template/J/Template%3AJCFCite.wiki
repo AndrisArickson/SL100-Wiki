@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=JCFCite
+|site_text=the [[Jedi Council Forums]]' {{{board}}} board
+|base_url=http://{{#if:{{{temp|}}}|gd.theforce.net/xentemp/index.php/?|boards.theforce.net}}
+|target_url={{{url|}}}
+|text={{{thread|}}}
+|author_text={{#if:{{{user|}}}|{{C|post by {{{user|}}}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

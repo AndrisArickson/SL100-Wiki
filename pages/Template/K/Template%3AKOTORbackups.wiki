@@ -1,0 +1,26 @@
+<includeonly>"{{#switch: {{{1}}}
+ | 0 = [[The Taris Holofeed: Prime Edition]]
+ | 13 = [[The Admiral's List: Jimas Veltraa Memorial Edition]]
+ | 14 = [[The Adjudicator Special Report: The Outer Rim]]
+ | 15 = [[The Taris Holofeed: Siege Edition]]
+ | 16 = [[The Admiral's List: Remember Serroco! Edition]]
+ | 17 = [[Adascorp Fiscal Period Financial Report and Outlook: Message from the Chief Executive]]
+ | 18 = [[The Taris Holofeed: Invasion Edition]]
+ | 19 = [[Adascorp Fiscal Period Financial Report and Outlook: Field Report: Project Black Harvest]]
+ | 20 = [[The Adjudicator Special Report: Tools of the Trade]]
+ | 21 = [[The Taris Holofeed Special Proclamation]]
+ | 22 = [[The Admiral's List: Karath Home Safely]]
+ | 23 = [[The Adjudicator Special Report: The Colonies]]
+ | 24 = [[Galactic Republic Defense Ministry Daily Brief KD0092|Galactic Republic Defense Ministry Daily Brief #KD0092]]
+ | Error - nonexistent backup
+}}"&#32;&mdash;&#32;{{#ifeq:{{{1}}}|0|[[Star Wars: Knights of the Old Republic/Rebellion flip-book|''Star Wars: Knights of the Old Republic/Rebellion'' flip-book]]|[[Knights of the Old Republic {{{1}}}|''Knights of the Old Republic'' {{{1}}}]]}}</includeonly><noinclude>
+This template is used for the backups in the ''[[Star Wars: Knights of the Old Republic (comic series)|Knights of the Old Republic]]'' [[Star Wars comic books|comic series]]. Enter the issue in which the backup appeared (issue [[Knights of the Old Republic 0|#0]] or issues [[Knights of the Old Republic 13|#13]]-[[Knights of the Old Republic 24|24]]), and it will format properly.
+
+==Example of usage==
+<code><nowiki>{{KOTORbackups|19}}</nowiki></code>
+
+Results in:
+
+{{KOTORbackups|19}}
+
+[[Category:Comic citation templates]]</noinclude>

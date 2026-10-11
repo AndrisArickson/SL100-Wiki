@@ -1,0 +1,39 @@
+<infobox theme="Location">
+	<image source="imagefallback">
+		<default>{{InfoboxGallery|image={{{image|}}}|caption1={{{option1|}}}|image2={{{image2|}}}|caption2={{{option2|}}}}}</default>
+	</image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>	
+        <data source="created"><label>Constructed</label></data>	
+        <data source="destroyed"><label>Destroyed</label></data>
+        <data source="type"><label>Type</label></data>	
+        <data source="location"><label>Location</label></data>	
+        <data source="terrain"><label>Terrain</label></data>
+        <data source="interest"><label>Points of interest</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Chronological and political information</header>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Location|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+	-->{{#invoke:InfoboxParamCheck|main|image|name|created|destroyed|type|location|terrain|interest|affiliation|optional=option1,image2,option2,unlisted,flora,fauna|ignore=name}}{{#if:{{{unlisted|}}}|[[Category:Locations unlisted in the Appendix]]|}}{{#if:{{{flora|}}}{{{fauna|}}}|[[Category:Flora or fauna usages]]|}}<noinclude>[[Category:Location infobox templates]]
+
+===Usage===
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>{{Top|}}
+{{Location
+|image=
+|name=
+|created=
+|destroyed=
+|type=
+|location=
+|terrain=
+|interest=
+|affiliation=
+}}</nowiki></pre></noinclude>

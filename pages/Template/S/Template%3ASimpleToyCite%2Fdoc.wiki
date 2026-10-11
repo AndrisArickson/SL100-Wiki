@@ -1,0 +1,16 @@
+==Usage==
+A reversed-order version of {{Tl|StoryCite}}, only to be used for certain scenarios such as toy citations.
+
+There are three ways to use this template, depending on what link you want the individual toy to use:
+#Linking to another Wookieepedia article:
+#*<nowiki>{{SimpleToyCite|parent=The Walt Disney Company|item=Jedi|itext=Formatted Name}}</nowiki>
+#*{{SimpleToyCite|parent=The Walt Disney Company|item=Jedi|itext=Formatted Name}}
+#Linking to another website:
+#*<nowiki>{{SimpleToyCite|parent=The Walt Disney Company|pack=Jedi|url=https://www.google.com}}</nowiki>
+#*{{SimpleToyCite|parent=The Walt Disney Company|pack=Jedi|url=https://www.google.com}}
+#No link:
+#*<nowiki>{{SimpleToyCite|parent=Master Replicas|nolink=Mara Jade Lightsaber}}</nowiki>
+#*{{SimpleToyCite|parent=Master Replicas|nolink=Mara Jade Lightsaber}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

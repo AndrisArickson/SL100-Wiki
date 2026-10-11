@@ -1,0 +1,23 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = NPOV
+| bg = #E60000
+| fg = #fff
+| image = [[File:Vader1.jpg|90px]]
+| caption = From my point of view, the Jedi are evil!'''
+| message = The neutrality of this article or section is disputed.
+| comment = This article has been tagged because: {{{1}}}.
+| reason = The following needs to be written in a neutral point-of-view
+| category = Category:Articles with NPOV disputes
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with NPOV disputes|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{NPOV|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles with NPOV disputes]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates]]</noinclude>

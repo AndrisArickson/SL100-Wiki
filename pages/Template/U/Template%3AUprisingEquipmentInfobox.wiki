@@ -1,0 +1,122 @@
+<onlyinclude>{{#switch:{{lc:{{#explode:{{{get|}}}|%|0}}}}<!--
+-->|image={{{image|}}}<!--
+-->|name={{{name|}}}<!--
+-->|description={{{description|}}}<!--
+-->|stars={{{stars|}}}<!--
+-->|maxstarcount={{{maxstarcount|}}}<!--
+-->|starsrender={{UprisingEquipmentInfobox/Stars|stars={{{stars|0}}}|maxstarcount={{{maxstarcount|{{{stars|0}}}}}}}}<!--
+-->|type={{{type|}}}<!--
+-->|faction={{{faction|}}}<!--
+-->|levelcap={{{levelCap|}}}<!--
+-->|navnext={{{navNext|}}}<!--
+-->|navprev={{{navPrev|}}}<!--
+-->|basestat={{{baseStat|}}}<!--
+-->|attack={{{attack|}}}<!--
+-->|armor={{{armor|}}}<!--
+-->|utility={{{utility|}}}<!--
+-->|mod1name={{{mod1Name|}}}<!--
+-->|mod1value={{{mod1Value|}}}<!--
+-->|mod2name={{{mod2Name|}}}<!--
+-->|mod2value={{{mod2Value|}}}<!--
+-->|mod3name={{{mod3Name|}}}<!--
+-->|mod4value={{{mod3Value|}}}<!--
+-->|attackmin={{{attackMin|}}}<!--
+-->|attackmax={{{attackMax|}}}<!--
+-->|armormin={{{armorMin|}}}<!--
+-->|armormax={{{armorMax|}}}<!--
+-->|utilitymin={{{utilityMin|}}}<!--
+-->|utilitymax={{{utilityMax|}}}<!--
+-->|row<!--
+-->|rowfull=<includeonly><tr><!--
+		--><td data-sort-value="<!--
+			-->{{#if:{{{navNext|}}}|{{#if:{{{navPrev|}}}|{{urlencode:{{{name|}}}|WIKI}}{{urlencode:{{#titleparts:{{{navNext|}}}||-1}}|WIKI}}{{urlencode:{{#titleparts:{{{navPrev|}}}||-1}}|WIKI}}|{{urlencode:{{#titleparts:{{{navNext|}}}||-1}}|WIKI}}{{urlencode:{{{name|}}}|WIKI}}}}|{{#if:{{{navPrev|}}}|{{urlencode:{{#titleparts:{{{navPrev|}}}||-1}}|WIKI}}{{urlencode:{{{name|}}}|WIKI}}|{{urlencode:{{{name|}}}|WIKI}}}}|}}<!--
+		-->" style="width:85px;overflow:hidden;">[[File:{{{image|}}}|frameless|link=Wookieepedia:Star Wars: Uprising Super Walkthrough/Equipment/{{{name|}}}|85px]]</td><!--
+		--><td class="magistral-font" style="text-align:center;font-size:16px;min-width:160px;letter-spacing:1px;" data-sort-value="{{{name|}}}">[[Wookieepedia:Star Wars: Uprising Super Walkthrough/Equipment/{{{name|}}}|{{{name|}}}]]</td><!--
+		--><!--<td class="magistral-font" style="text-align:center;font-size:20px;min-width:40px;" data-sort-value="{{{baseStat|0}}}">{{{baseStat|?}}}</td><!--
+		--><td style="text-align:center;min-width:100px;" data-sort-value="{{#expr:({{#ifeq:{{{maxstarcount|0}}}|?|{{{maxstarcount|0}}}|{{{maxstarcount|0}}}}} * 10) + {{#ifeq:{{{stars|0}}}|?|{{{stars|0}}}|{{{stars|0}}}}}}}">{{#ifexpr:({{#if:{{{stars|}}}|1|0}} or {{#if:{{{maxstarcount|}}}|1|0}})|{{UprisingEquipmentInfobox/Stars|stars={{{stars|0}}}|maxstarcount={{{maxstarcount|{{{stars|0}}}}}}|minWidth=150px}}|?}}</td><!--
+		--><td class="magistral-font" style="text-align:center;font-size:20px;min-width:50px;" data-sort-value="{{{levelCap|0}}}">{{{levelCap|?}}}</td><!--
+		--><td class="magistral-font" style="text-align:center;font-size:16px;min-width:60px;" data-sort-value="{{{attackMax|?}}}{{{attackMin|?}}}"><sup><span style="font-size:15px;">{{{attackMin|?}}}</span></sup>&#32;&#8260;&#32;<sub><span style="font-size:15px;">{{{attackMax|?}}}</span></sub></td><!--
+		--><td class="magistral-font" style="text-align:center;font-size:16px;min-width:60px;" data-sort-value="{{{armorMax|?}}}{{{armorMin|?}}}"><sup><span style="font-size:15px;">{{{armorMin|?}}}</span></sup>&#32;&#8260;&#32;<sub><span style="font-size:15px;">{{{armorMax|?}}}</span></sub></td><!--
+		--><td class="magistral-font" style="text-align:center;font-size:16px;min-width:60px;" data-sort-value="{{{utilityMax|?}}}{{{utilityMin|?}}}"><sup><span style="font-size:15px;">{{{utilityMin|?}}}</span></sup>&#32;&#8260;&#32;<sub><span style="font-size:15px;">{{{utilityMax|?}}}</span></sub></td><!--
+	--></tr></includeonly><!--
+-->|iconborderbluebg|iconbordersmallbluebg<!--
+-->|iconborderblue|iconbordersmallblue<!--
+-->|iconborderwhitebg|iconbordersmallwhitebg<!--
+-->|iconbordergold|iconbordersmallgold<!--
+-->|iconborderlevel|iconbordersmalllevel<!--
+-->|iconborder|iconbordersmall=<!--
+	--><div class="class-style position-relative display-inline-block {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|width-65-px height-65-px|{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%small</noinclude>}}}}}|%small}}|width-100-px height-100-px|{{#switch:{{lc:{{#explode:{{{get|<noinclude>iconbordersmalllevel</noinclude>}}}|%|0}}}}|<!--
+			-->iconbordersmallbluebg|iconbordersmallblue|iconbordersmallwhitebg|iconbordersmallgold|iconbordersmalllevel|iconbordersmall=width-100-px height-100-px<!--
+			-->|#default=width-130-px height-130-px<!--
+		-->}}}}}}"><!--
+		-->{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%bgimage</noinclude>}}}}}|%bgimage}}|<div class="uprising-sprite {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|exsmall|{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%small</noinclude>}}}}}|%small}}|small|small}}}} equipment-container-white-bg filter-blue class-style position-absolute top-0 left-0"></div>}}<!--
+		--><div class="uprising-sprite {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|exsmall|{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%small</noinclude>}}}}}|%small}}|small|{{#switch:{{lc:{{#explode:{{{get|<noinclude>iconbordersmalllevel</noinclude>}}}|%|0}}}}<!--
+			-->|iconbordersmallbluebg|iconbordersmallblue|iconbordersmallwhitebg|iconbordersmallgold|iconbordersmalllevel|iconbordersmall=small<!--
+			-->|#default=medium<!--
+		-->}}}}}} {{#switch:{{lc:{{#explode:{{{get|<noinclude>iconbordersmalllevel</noinclude>}}}|%|0}}}}<!--
+			-->|iconborderwhitebg|iconbordersmallwhitebg=equipment-container-white-bg<!--
+			-->|iconbordergold|iconbordersmallgold=equipment-container-gold<!--
+			-->|iconborderblue|iconbordersmallblue=equipment-container-blue-glow<!--
+			-->|iconborderbluebg|iconbordersmallbluebg=equipment-container-blue-bg<!--
+			-->|iconborderlevel|iconbordersmalllevel={{#ifeq:{{{maxstarcount|{{{stars|<noinclude>5</noinclude>}}}}}}|7|equipment-container-gold margin--2px|equipment-container-white {{UprisingComponents/LevelColor|level={{{maxstarcount|{{{stars|<noinclude>5</noinclude>}}}}}}}}}}<!--
+			-->|#default=equipment-container-white<!--
+		-->}} class-style position-absolute top-0 left-0"></div><!--
+		-->{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%max</noinclude>}}}}}|%max}}|<div class="uprising-sprite corner-flag-top-left-crop small filter-exlite-yellow class-style position-absolute top-0 left-0 magistral-font font-size-8px line-height-8px" style=""><div class="class-style margin-left-3px margin-top-5px"><b>MAX</b></div></div>|}}<!--
+		--><div class="class-style position-absolute right-0px {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|bottom-4px width-30-px margin-bottom-2px|bottom-5px width-40-px margin-bottom-3px}}"><!--
+			--><div class="uprising-sprite {{#ifeq:{{{maxstarcount|{{{stars|<noinclude>5</noinclude>}}}}}}|7|star-gold|star-silver {{UprisingComponents/LevelColor|level={{{maxstarcount|{{{stars|<noinclude>5</noinclude>}}}}}}}}}} {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|extiny|tiny}} tiny class-style float-left"></div><!--
+			--><div class="magistral-font class-style float-left {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|font-size-10px line-height-14px|font-size-14px line-height-18px}} color-white">{{{maxstarcount|{{{stars|<noinclude>5</noinclude>}}}}}}</div><!--
+		--></div><!--
+		--><div class="class-style position-relative top-0px left-0px thumb-no-margin {{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|width-65-px height-65-px|{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%small</noinclude>}}}}}|%small}}|width-100-px height-100-px|{{#switch:{{lc:{{#explode:{{{get|<noinclude>iconbordersmalllevel</noinclude>}}}|%|0}}}}<!--
+			-->|iconbordersmallbluebg|iconbordersmallblue|iconbordersmallwhitebg|iconbordersmallgold|iconbordersmalllevel|iconbordersmall=width-100-px height-100-px<!--
+			-->|#default=width-130-px height-130-px<!--
+		-->}}}}}}">[[File:{{{image|<noinclude>Uprising_Item_Base_F_Helm_00192.png</noinclude>}}}|frameless|{{{name|Name Missing}}}|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/{{{name|<noinclude>Refitted Guerilla Helmet</noinclude>}}}|{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%exsmall</noinclude>}}}}}|%exsmall}}|65x65px|{{#if:{{#pos:{{lc:{{{get|<noinclude>iconbordersmalllevel%small</noinclude>}}}}}|%small}}|100x100px|{{#switch:{{lc:{{#explode:{{{get|<noinclude>iconbordersmalllevel</noinclude>}}}|%|0}}}}<!--
+			-->|iconbordersmallbluebg|iconbordersmallblue|iconbordersmallwhitebg|iconbordersmallgold|iconbordersmalllevel|iconbordersmall=100x100px<!--
+			-->|#default=130x130px<!--
+		-->}}}}}}]]</div><!--
+	--></div><!--
+-->|all<!--
+-->|page<!--
+-->|infobox<!--
+-->|null<!--
+-->|{{{null|}}}<!--
+-->|#default=<!--
+--><includeonly><!--
+-->{{#if:{{{notitle|}}}||{{#if:{{{name|}}}|{{DISPLAYTITLE:{{{name|}}}}}|}}}}</includeonly><div class="UprisingEquipmentInfoboxWrapper {{#if:{{{noImageBG|}}}|noImageBG|}}">{{UprisingEquipmentInfobox/main<!--
+	-->|image={{{image|}}}<!--
+	-->|name=<div style="text-align:center;">{{{name|{{PAGENAME}}}}}</div><!--
+	-->|description=<div style="text-align:center;margin-top:5px;margin-bottom:10px;">{{{description|No Description}}}</div><!--
+	-->|stars={{UprisingEquipmentInfobox/Stars|stars={{{stars|0}}}|maxstarcount={{{maxstarcount|{{{stars|0}}}}}}}}<!--
+	-->|info={{UprisingEquipmentInfobox/Info|type={{{type|}}}|baseStat={{{baseStat|{{{base|?}}}}}}|element={{{element|}}}|faction={{{faction|}}}}}<!--
+	-->|attack={{{attack|?}}}<!--
+	-->|armor={{{armor|?}}}<!--
+	-->|utility={{{utility|?}}}<!--
+	-->|attackMin={{#if:{{{attackMin|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">{{{attackMin|}}}</span>|{{#if:{{{attackMax|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">?</span>|}}}}<!--
+	-->|attackMax={{#if:{{{attackMax|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">{{{attackMax|}}}</span>|{{#if:{{{attackMin|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">?</span>|}}}}<!--
+	-->|armorMin={{#if:{{{armorMin|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">{{{armorMin|}}}</span>|{{#if:{{{armorMax|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">?</span>|}}}}<!--
+	-->|armorMax={{#if:{{{armorMax|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">{{{armorMax|}}}</span>|{{#if:{{{armorMin|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">?</span>|}}}}<!--
+	-->|utilityMin={{#if:{{{utilityMin|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">{{{utilityMin|}}}</span>|{{#if:{{{utilityMax|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">?</span>|}}}}<!--
+	-->|utilityMax={{#if:{{{utilityMax|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">{{{utilityMax|}}}</span>|{{#if:{{{utilityMin|}}}|<span class="magistral-font" style="font-size:1.5em;letter-spacing:1px;">?</span>|}}}}<!--
+	-->|levelCap={{{levelCap|?}}}<!--
+	-->|credits=<span style="font-family:magistral_medium,arial,helvetica,sans-serif;font-size:22px;"><div style="display: inline; position: relative; top: -3px;">[[File:Uprising_Icon_Credits.png|middle|link=|28px]]</div>{{{credits|?}}}</span><!--
+	-->|salvage={{{salvage|}}}<!--
+	-->|navigation={{UprisingEquipmentInfobox/Navigation|navNext={{{navNext|}}}|navPrev={{{navPrev|}}}}}<!--
+-->}}</div><includeonly>{{#if:{{{nocat|}}}||<!--
+-->[[Category:Star Wars: Uprising Super Walkthrough]]<!--
+-->{{#if:{{{type|}}}|{{#switch:{{lc:{{{type|}}}}}|weapon=[[Category:Weapons in Star Wars: Uprising]]|chest|torso=[[Category:Torso items in Star Wars: Uprising]]|lowerbody|legs=[[Category:Legs items in Star Wars: Uprising]]|helm|helmet|head=[[Category:Head items in Star Wars: Uprising]]|gloves|hand=[[Category:Hand items in Star Wars: Uprising]]|backpack|back=[[Category:Backpack items in Star Wars: Uprising]]}}|[[Category:Missing Equipment Type]]}}<!--
+-->{{#if:{{{image|}}}||[[Category:Missing Image]]}}<!--
+-->{{#ifexpr:{{#if:{{{get|}}}|0|1}} and {{#if:{{{get}}}|1|0}}|[[Category:Missing get Parameter]]|}}<!--
+-->{{#ifexpr:({{#if:{{{attack|}}}|0|1}} and {{#if:{{{attack}}}|1|0}}) or {{#ifeq:{{{attack|?}}}|?|1|0}}|[[Category:Equipment Missing Attack Value]]|}}<!--
+-->{{#ifexpr:({{#if:{{{armor|}}}|0|1}} and {{#if:{{{armor}}}|1|0}}) or {{#ifeq:{{{armor|?}}}|?|1|0}}|[[Category:Equipment Missing Armor Value]]|}}<!--
+-->{{#ifexpr:({{#if:{{{utility|}}}|0|1}} and {{#if:{{{utility}}}|1|0}}) or {{#ifeq:{{{utility|?}}}|?|1|0}}|[[Category:Equipment Missing Utility Value]]|}}<!--
+-->{{#ifeq:{{EquipmentTable/{{#switch:{{lc:{{{type|}}}}}<!--
+	-->|weapon|weapons=Weapons<!--
+	-->|chest|torso=Torso<!--
+	-->|helm|helmet|head=Head<!--
+	-->|arm|arms|hand|glove|gloves=Hands<!--
+	-->|backpack|back=Back<!--
+	-->|lowerbody|leg|legs<!--
+	-->|#default=Legs<!--
+-->}}List|EquipmentTable/InList|{{{name|}}}}}|1||[[Category:Equipment Missing From List]]}}<!--
+-->}}<!--
+--></includeonly><!--
+-->}}</onlyinclude><noinclude>{{Documentation}}</noinclude>

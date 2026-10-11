@@ -1,0 +1,16 @@
+{| class="noprint stub"
+|-
+![[File:Wiki-shrinkable.png|25px]] This {{#if:{{{oou|}}}|out-of-universe|[[in-universe]]}} list is incomplete. You can help Wookieepedia by [[Special:Edit/{{NAMESPACE}}:{{PAGENAME}}|expanding it]].
+|-
+|}<includeonly>{{#if:{{{oou|}}}|[[Category:Incomplete OOU lists]]|[[Category:Incomplete lists]]}}</includeonly><noinclude>{{Top|sprot}}
+
+==Usage==
+<pre><nowiki>{{IncompleteList|oou=}}</nowiki></pre>
+
+Use <code>|oou=1</code> for out-of-universe lists.
+
+==Categorization==
+*[[:Category:Incomplete lists]]
+*[[:Category:Incomplete OOU lists]]
+
+[[Category:Maintenance templates|Incomplete list]]</noinclude>

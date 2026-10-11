@@ -1,0 +1,4 @@
+{{#if:{{NAMESPACE}}||{{{1}}}}}<noinclude>
+
+Simple template used to lock logic to the main article namespace.
+[[Category:Templates]]</noinclude>

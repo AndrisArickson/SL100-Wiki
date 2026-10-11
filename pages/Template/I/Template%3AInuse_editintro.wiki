@@ -1,0 +1,7 @@
+{| class="article-editintro darkbackground1" style="width:100%; padding:0; border-spacing:5px; border:2px solid #2F6FAB; -moz-border-radius:5px; margin-bottom:5px; clear:left"
+| style="padding:5px; text-align:center" | [[File:Dialog-warning.svg|50px]]
+| style="padding:25px 5px; font-size:110%" | This article is actively undergoing a major edit. As a courtesy, please do not make edits to this article while this message is displayed, in order to avoid edit conflicts. If you wish to know who is working on the article and when the edit session began, please consult the [{{fullurl:{{FULLPAGENAME}}}}?action=history edit history] and the [[Talk:{{PAGENAME}}|talk page]].
+|}<noinclude>
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Edit intros]]</noinclude>

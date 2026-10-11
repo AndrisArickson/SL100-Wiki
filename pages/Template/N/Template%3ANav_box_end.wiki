@@ -1,0 +1,42 @@
+|}
+|- class="nb2-end"
+| style="padding-bottom:5px; background:none" | <span class="hidable-button"></span> {{{{{|safesubst:}}}#if:{{{edit|}}}|{{{{{|safesubst:}}}edi|{{{edit}}}}}|}}
+|}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+
+==Notes==
+This template is one in a series of modular source templates meant to be used to generate box-style navigation templates. It is meant to be [[m:Help:substitution|substituted]] and will not work properly if 'subst:' is not present in the template call.
+
+==Usage instructions==
+<pre>{{Nav box end}}</pre>
+
+===Optional parameters===
+#{{Para|edit}} The name of the navigation template in which this template is transcluded.
+
+==Box-style navigation source templates==
+*{{Tl|Nav box start}}
+*{{Tl|Nav box heading}}
+*{{Tl|Nav box}}
+*{{Tl|Nav box end}}
+
+==Example==
+===Code===
+<pre>
+{{Nav box start|Navigation template test}}
+{{Nav box|The 1st box is the deepest}}
+{{Nav box|2 Boxy 2 Blurious}}
+|-
+{{Nav box|3 blind boxes}}
+{{Nav box|Box box BOX bOX}}
+{{Nav box end}}
+</pre>
+
+===Result===
+{{Nav box start|Navigation template test}}
+{{Nav box|The 1st box is the deepest}}
+{{Nav box|2 Boxy 2 Blurious}}
+|-
+{{Nav box|3 blind boxes}}
+{{Nav box|Box box BOX bOX}}
+{{Nav box end}}
+
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

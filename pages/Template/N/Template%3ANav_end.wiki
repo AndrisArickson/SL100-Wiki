@@ -1,0 +1,48 @@
+<noinclude>
+{|
+|-
+|
+{|
+</noinclude> |-
+|}
+|- class="nb2-end" style="background: {{{2|#D8E9FC}}};"
+| style="padding-bottom:0; border-radius:0 0 10px 10px" |<span class="hidable-button"></span> {{{{{|safesubst:}}}#if:{{{edit|}}}|{{{{{|safesubst:}}}edi|{{{edit}}}}}|}}
+|-
+|}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+{{clear}}
+==Notes==
+This template is one in a series of modular source templates meant to be used to generate navigation templates.
+
+==Usage instructions==
+<pre><nowiki>{{Nav_end}}</nowiki></pre>
+
+'''NOTE:''' An optional '''edit''' variable can be used to add an edit link.
+
+ <nowiki>{{</nowiki>Nav_end|edit=''TEMPLATE NAME''}}
+
+==Navigation source templates==
+*{{Tl|Nav_start}}
+*{{Tl|Nav_heading}}
+*{{Tl|Nav_text}}
+*{{Tl|Nav_end}}
+
+==Example==
+===Code===
+<pre><nowiki>
+{{Nav_start|Navigation template test}}
+{{Nav_heading|Heading 1}}
+{{Nav_text|blah blah blah blah blah}}
+{{Nav_heading|Heading 2}}
+{{Nav_text|blah blah blah blah blah blah blah blah blah blah}}
+{{Nav_end}}
+</nowiki></pre>
+
+===Result===
+{{Nav_start|Navigation template test}}
+{{Nav_heading|Heading 1}}
+{{Nav_text|blah blah blah blah blah}}
+{{Nav_heading|Heading 2}}
+{{Nav_text|blah blah blah blah blah blah blah blah blah blah}}
+{{Nav_end}}
+
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

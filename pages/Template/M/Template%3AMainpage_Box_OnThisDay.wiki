@@ -1,0 +1,7 @@
+<div class="mainpage-box-onthisday">
+<div class="top">[[File:Wp-otd.png|25px|left|link={{CURRENTMONTHNAME}} {{CURRENTDAY}}]] On this day&hellip;</div>
+:<div class="subheader">''On This Day...''</div>
+<p style="margin-bottom: 0px; font-weight: bold;">
+'''[[{{CURRENTMONTHNAME}} {{CURRENTDAY}}]]'''
+{{#if:{{:{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}|{{:{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}|*Nothing happened.}}
+<noinclude>[[Category:Main Page templates]]</noinclude>

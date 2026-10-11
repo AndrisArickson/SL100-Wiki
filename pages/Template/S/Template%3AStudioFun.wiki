@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=StudioFun
+|image=[[File:Studiofun.png|text-top|x16px|link=https://www.studiofun.com]]
+|site_text=[[Studio Fun International]]'s [https://www.studiofun.com official website]
+|base_url=https://{{{subdomain|www}}}.studiofun.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

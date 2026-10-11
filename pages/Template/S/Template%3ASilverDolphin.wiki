@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SilverDolphin
+|image=[[File:SilverDolphin.jpg|text-top|x16px|link=https://www.silverdolphinbooks.com]]
+|site_text=[[Silver Dolphin Books]]' [https://www.silverdolphinbooks.com official website]
+|base_url=https://{{{subdomain|www}}}.silverdolphinbooks.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

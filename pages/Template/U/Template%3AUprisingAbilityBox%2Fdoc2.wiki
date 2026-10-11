@@ -1,0 +1,167 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||
+== Example ==
+<code><pre>
+&#60;onlyinclude&#62;{{UprisingAbilityBox<!--
+-->|get                  ={{{get|}}}<!--
+-->|style                ={{{style|}}}<!--
+-->|heading              ={{{heading|}}}<!--
+-->|headingLevel         ={{{headingLevel|}}}<!--
+-->|noHeadingBorder      ={{{noHeadingBorder|}}}<!--
+-->|ranksOnly            ={{{ranksOnly|}}}<!--
+-->|noRankText           ={{{noRankText|}}}<!--
+-->|right                ={{{right|}}}<!--
+-->|width                ={{{width|{{{WIDTH|}}}}}}<!--
+-->|name                 =Snipe<!--
+-->|pageLink             =Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/Snipe<!--
+
+-->|slot                 =Directional<!--
+-->|trainerName          =Kitomag<!--
+-->|trainerClass         =Guerilla<!--
+-->|locationName         =Konn-Nevos Spaceport<!--
+-->|element              =Disruption<!--
+-->|faction              =Rebel Alliance<!--
+-->|price                ={{CurrencyIcon|icon=credits|size=sm}}?<!--
+-->|price2               ={{CurrencyIcon|icon=RebelHonor|size=sm|top=-2px|level=1}}?<!--
+-->|price3               ={{CurrencyIcon|icon=RebelHonor|size=sm|top=-2px|level=2}}?<!--
+
+-->|rank1                =Charges up a power shot that Pierces, dealing up to %200dx damage<!--
+-->|rank1Icon            =Uprising_Icon_Directional_Snipe.png<!--
+-->|rank2                =Stuns the first enemy hit for a short duration<!--
+-->|rank2Icon            =Uprising_Icon_Directional_Snipe_02.png<!--
+-->|rank3                =Imperils all enemies hit<!--
+-->|rank3Icon            =Uprising_Icon_Directional_Snipe_03.png<!--
+
+-->}}&#60;/onlyinclude&#62;
+</pre></code>
+
+
+<span style="font-size:1.5em;">DO NOT CHANGE THE FIRST 9 PARAMETERS!</span>
+* get
+* style
+* heading
+* headingLevel
+* noHeadingBorder
+* ranksOnly
+* noRankText
+* right
+* width
+
+<span style="font-size:1.5em;">COMMENT OUT ALL WHITE-SPACE!</span>
+
+Looking at the example above, you will see every line ends with a '''&lt;!&#45;&#45;''' and begins with a '''&#45;&#45;&gt;''' (except for the beginning and end). This eliminates all unwanted white-space from the template so the wiki engine doesn't add additional line-breaks.
+This is incredibly important! Make sure you preview your changes before saving!
+
+
+== Parameters ==
+{| class="wikitable" style="min-width:100%;table-layout:fixed;"
+|-
+!Param
+!&#32;*&#32;
+!Example
+! style="min-width:50%;width:50%;" |Description
+|-
+!name
+|<span style="font-size:0.7em;color:red">R</span>||In Demand||Ability Name
+|-
+!displayName
+|<span style="font-size:0.7em;color:green">O</span>||N/A||''No longer used''
+|-
+!pageName
+|<span style="font-size:0.7em;color:green">O</span>||N/A||''No longer used''
+|-
+!abilityLink
+|<span style="font-size:0.7em;color:red">R</span>||N/A||''No longer used''
+|-
+!pageLink
+|<span style="font-size:0.7em;color:red">R</span>|| style="word-break:break-all;" |<small>Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/In_Demand</small>||Full wiki path to ability's page
+|-
+!slot
+|<span style="font-size:0.7em;color:red">R</span>||Passive||Slot type (used for category name so it MUST be entered)
+|-
+!trainer
+|<span style="font-size:0.7em;color:green">O</span>||N/A||Overrides the display value for "Trainer"
+|-
+!trainerName
+|<span style="font-size:0.7em;color:orange">S</span>||Tsskoat||Trainer Name
+|-
+!trainerLink
+|<span style="font-size:0.7em;color:orange">S</span>||Tsskoat||Path to trainer's page if different than name
+|-
+!trainerClass
+|<span style="font-size:0.7em;color:orange">S</span>||Bounty Hunter||Trainer's class (Bodyguard, smuggler, etc...)
+|-
+!location
+|<span style="font-size:0.7em;color:green">O</span>||N/A||Overrides the display value for "Location"
+|-
+!locationName
+|<span style="font-size:0.7em;color:blue">N</span>||Longstar Marketplace||Location of trainer
+|-
+!locationLink
+|<span style="font-size:0.7em;color:blue">N</span>||Longstar Marketplace||Path to location's page if different than name
+|-
+!element
+|<span style="font-size:0.7em;color:blue">N</span>||Chemical||Elemental effect of ability
+|-
+!faction
+|<span style="font-size:0.7em;color:blue">N</span>||Ivax Syndicate||Name of trainer's faction
+|-
+!price
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!price1
+|<span style="font-size:0.7em;color:blue">N</span>|| style="word-break:break-all;font-size:0.7em;" |<nowiki>{{CurrencyIcon|icon=credits|size=sm}}800</nowiki>||Price to acquire ability at level 1 (should include currency icon)
+|-
+!price2
+|<span style="font-size:0.7em;color:blue">N</span>|| style="word-break:break-all;font-size:0.7em;" |<nowiki>{{CurrencyIcon|icon=SyndicateToken|size=sm|top=-2px|level=1}}10</nowiki>||Price to upgrade ability to level 2 (should include currency icon)
+|-
+!price3
+|<span style="font-size:0.7em;color:blue">N</span>|| style="word-break:break-all;font-size:0.7em;" |<nowiki>{{CurrencyIcon|icon=SyndicateToken|size=sm|top=-2px|level=1}}15</nowiki>||Price to upgrade ability to level 3 (should include currency icon)
+|-
+!description
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!rank1
+|<span style="font-size:0.7em;color:red">R</span>||N/A||Description of ability at level 1
+|-
+!rank1Icon
+|<span style="font-size:0.7em;color:red">R</span>||N/A||Ability's level 1 icon
+|-
+!rank2
+|<span style="font-size:0.7em;color:red">R</span>||N/A||Description of ability at level 2
+|-
+!rank2Icon
+|<span style="font-size:0.7em;color:red">R</span>||N/A||Ability's level 3 icon
+|-
+!rank3
+|<span style="font-size:0.7em;color:red">R</span>||N/A||Description of ability at level 3
+|-
+!rank3Icon
+|<span style="font-size:0.7em;color:red">R</span>||N/A||Ability's level 3 icon
+|-
+!heading
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!headingLevel
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!noHeadingBorder
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!noRankText
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!ranksOnly
+|<span style="font-size:0.7em;color:green">O</span>||N/A||N/A
+|-
+!right
+|<span style="font-size:0.7em;color:green">O</span>||N/A||Float box to the right
+|}
+
+*Not all parameters are required for the template to function properly. However, the ability box will be incomplete without some parameters.
+
+* <span style="color:red">REQUIRED</span> - Must be given a value
+* <span style="color:orange">SEMI-REQUIRED</span> - Can be missing or have a null value, but it may have adverse effects. (usually has another parameter that takes over when the value is missing)
+* <span style="color:blue">NOT-REQUIRED</span> - Can be missing or have a null value, but the ability box will be incomplete
+* <span style="color:green">OPTIONAL</span> - Can be missing or have a null value with no repercussions.
+<noinclude>[[Category:Star Wars: Uprising Super Walkthrough template documentations]]</noinclude>
+}}

@@ -1,0 +1,6 @@
+|-
+| style="color:{{{4|black}}}; background:{{{3|#F9F9F9}}}; padding-left:2px; padding-right:3px; text-align:right" | {{{1}}}
+| style="color:{{{4|black}}}; background:{{{3|#F9F9F9}}}; padding-left:3px; padding-right:2px; text-align:left" | {{{2}}}
+|- <noinclude>
+{{Clear}}
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

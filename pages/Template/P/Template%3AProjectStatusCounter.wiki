@@ -1,0 +1,94 @@
+{{#switch:{{{1|}}}:{{{2|}}}
+  |WP:ALIENS:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Aliens/Featured articles|mode=table}}
+  |WP:ALIENS:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Aliens/Good articles|mode=table}}
+  |WP:ALIENS:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Aliens/Comprehensive articles|mode=alphabet}}
+  |WP:AMB:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Ambition/Featured articles|mode=table}}
+  |WP:AMB:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Ambition/Good articles|mode=table}}
+  |WP:AMB:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Ambition/Comprehensive articles|mode=table}}
+  |WP:AST:FA = {{#expr: {{StatusArticleCounter|Wookieepedia:WookieeProject Astrography/Featured articles|mode=table}} + {{StatusArticleCounter|Wookieepedia:WookieeProject Astrography/Featured articles/Legends|mode=table}}}}
+  |WP:AST:GA = {{#expr: {{StatusArticleCounter|Wookieepedia:WookieeProject Astrography/Good articles|mode=table}} + {{StatusArticleCounter|Wookieepedia:WookieeProject Astrography/Good articles/Legends|mode=table}}}}
+  |WP:AST:CA = {{#expr: {{StatusArticleCounter|Wookieepedia:WookieeProject Astrography/Comprehensive articles|mode=table}} + {{StatusArticleCounter|Wookieepedia:WookieeProject Astrography/Comprehensive articles/Legends|mode=table}}}}
+  |WP:Battlefront:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Battlefront|mode=table}}
+  |WP:Battlefront:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Battlefront|mode=table}}
+  |WP:Battlefront:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Battlefront|mode=table}}
+  |WP:CHISS:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Chiss/Featured articles|mode=table}}
+  |WP:CHISS:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Chiss/Good articles|mode=table}}
+  |WP:CHISS:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Chiss/Comprehensive articles|mode=table}} 
+  |WP:Droids:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Droids/Featured articles|mode=table}}
+  |WP:Droids:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Droids/Good articles|mode=table}}
+  |WP:Droids:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Droids/Comprehensive articles|mode=table}} 
+  |WP:ENT:FA = {{StatusArticleCounter|Forum:WP:ENT's status articles|mode=table}}
+  |WP:ENT:GA = {{StatusArticleCounter|Forum:WP:ENT's status articles|mode=table}}
+  |WP:ENT:CA = {{StatusArticleCounter|Forum:WP:ENT's status articles|mode=table}}
+  |WP:Ewoks:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Ewoks/Featured Articles|mode=table}}
+  |WP:Ewoks:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Ewoks/Good Articles|mode=table}}
+  |WP:Ewoks:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Ewoks/Comprehensive Articles|mode=table}}
+  |WP:FFG:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Fantasy Flight Games/Featured articles|mode=table}}
+  |WP:FFG:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Fantasy Flight Games/Good articles|mode=table}}
+  |WP:FFG:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Fantasy Flight Games/Comprehensive articles|mode=table}}
+  |WP:SWG:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Galaxies/Comprehensive Articles|mode=portfolio|nom_type=FA}}
+  |WP:SWG:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Galaxies/Comprehensive Articles|mode=portfolio|nom_type=GA}}
+  |WP:SWG:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Galaxies/Comprehensive Articles|mode=alphabet}}
+  |WP:GE:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Galaxy's Edge/Status articles/Featured|mode=table}}
+  |WP:GE:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Galaxy's Edge/Status articles/Good|mode=table}}
+  |WP:GE:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Galaxy's Edge/Status articles/Comprehensive|mode=table}}
+  |WP:KOTOR:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Knights of the Old Republic/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:KOTOR:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Knights of the Old Republic/Good Articles|mode=table|nom_type=GA}}
+  |WP:KOTOR:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Knights of the Old Republic/Comprehensive Articles|mode=alphabet}}
+  |WP:LE:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Legacy Era/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:LE:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Legacy Era/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:LE:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Legacy Era/Comprehensive Articles|mode=table}}
+  |WP:MD:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Massive Damage/Featured articles|mode=table|nom_type=FA}}
+  |WP:MD:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Massive Damage/Good articles|mode=portfolio|nom_type=GA}}
+  |WP:MD:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Massive Damage/Comprehensive articles|mode=portfolio|nom_type=CA}}
+  |WP:NSW:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject New Sith Wars/Featured articles|mode=portfolio|nom_type=FA}}
+  |WP:NSW:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject New Sith Wars/Good articles|mode=portfolio|nom_type=GA}}
+  |WP:NSW:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject New Sith Wars/Comprehensive Articles|mode=table}}
+  |WP:N:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Novels/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:N:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Novels/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:N:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Novels/Comprehensive Articles|mode=table|nom_type=CA}}
+  |WP:Pride:FA = {{StatusArticleCounter|WookieeProject: Pride — Status Articles|mode=table}}
+  |WP:Pride:GA = {{StatusArticleCounter|WookieeProject: Pride — Status Articles|mode=table}}
+  |WP:Pride:CA = {{StatusArticleCounter|WookieeProject: Pride — Status Articles|mode=table}}
+  |WP:SEP:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Durge's Lance/Featured Articles|mode=table}}
+  |WP:SEP:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Durge's Lance/Good Articles|mode=table}}
+  |WP:SEP:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Durge's Lance/Comprehensive Articles|mode=table}}
+  |WP:SWCT:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Star Wars: Card Trader/Comprehensive articles|mode=alphabet|nom_type=CA}}
+  |WP:SWCT:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Star Wars: Card Trader/Good articles|mode=portfolio|nom_type=GA}}
+  |WP:SWCT:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Star Wars: Card Trader/Featured articles|mode=portfolio|nom_type=FA}}
+  |WP:SWR:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Rebels/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:SWR:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Rebels/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:SWR:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Rebels/Comprehensive Articles|mode=portfolio|nom_type=CA}}
+  |WP:Resistance:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Resistance/Featured Articles|mode=table}}
+  |WP:Resistance:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Resistance/Good Articles|mode=table}}
+  |WP:Resistance:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Resistance/Comprehensive Articles|mode=table}}
+  |WP:TOTJ:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Tales of the Jedi/Featured articles|mode=portfolio|nom_type=FA}}
+  |WP:TOTJ:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Tales of the Jedi/Good articles|mode=portfolio|nom_type=GA}}
+  |WP:TCW:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Clone Wars/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:TCW:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Clone Wars/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:TCW:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Clone Wars/Comprehensive Articles|mode=portfolio|nom_type=CA}}
+  |WP:Mando:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Mandalorian/Featured|mode=table}}
+  |WP:Mando:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Mandalorian/Good|mode=table}}
+  |WP:Mando:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Mandalorian/Comprehensive|mode=table}}
+  |WP:NJO:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject The New Jedi Order/Featured Articles|mode=table}}
+  |WP:NJO:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject The New Jedi Order/Good Articles|mode=table}}
+  |WP:NJO:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject The New Jedi Order/Comprehensive Articles|mode=table}}
+  |WP:TOR:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Old Republic/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:TOR:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Old Republic/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:TOR:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject The Old Republic/Comprehensive Articles|mode=alphabet}}
+  |WP:VG:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Video Games/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:VG:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Video Games/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:VG:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Video Games/Comprehensive Articles|mode=portfolio|nom_type=CA}}
+  |WP:Visions:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Visions/Featured articles|mode=table}}
+  |WP:Visions:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Visions/Good articles|mode=table}}
+  |WP:Visions:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Visions/Comprehensive articles|mode=table}}
+  |WP:Warfare:FA = {{StatusArticleCounter|Wookieepedia:WookieeProject Warfare/Featured Articles|mode=portfolio|nom_type=FA}}
+  |WP:Warfare:GA = {{StatusArticleCounter|Wookieepedia:WookieeProject Warfare/Good Articles|mode=portfolio|nom_type=GA}}
+  |WP:Warfare:CA = {{StatusArticleCounter|Wookieepedia:WookieeProject Warfare/Comprehensive Articles|mode=portfolio|nom_type=CA}}
+  |#default=Invalid: {{{1|}}}:{{{2|}}} {{#ifeq:{{NAMESPACENUMBER}}|10||[[Category:Invalid ProjectStatusCounter values]]}}
+}}<noinclude>
+
+==Usage==
+*<nowiki>{{ProjectStatusCounter|WP:TOR|FA}}</nowiki>
+
+[[Category:Templates]]</noinclude>

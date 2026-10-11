@@ -1,0 +1,18 @@
+{{#invoke:Topic display box|main}}<noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>Topic display box|type=''"FT", "GT", or "CT"''|title=''topic title''|titlestatus=''status of title article''|''1st article's status''|''1st article''|''2nd article's status''|''2nd article''|''3rd article's status''|''3rd article''|<small>...as many articles as needed</small>|fullcategory=''category for full list of possible articles''}}</code>
+
+*'''type=''': Specify "FT" for a featured topic (yellow background), "GT" for a good topic (green background), or "CT" for a comprehensive topic (red background. This changes the background color as indicated. Omitting this results in the white background above. Not case-sensitive.
+*'''title=''': Required. Title of the topic. Can be wikilinked if the title is an overview article that is part of the topic.
+*'''titlestatus=''': Optional. Use to specify status of the title overview article if the topic contains one.
+*status: Specify "FA" for a featured article, "GA" for a good article, or "CA" for a comprehensive article. For topics stripped of status, "FFA", "FGA", and "FCA" can also be used for individual articles stripped of status. Leave blank for no icon at all.
+*articles: Specify article. Should be wikilinked. (Disambigs) should be hidden only if they simply repeat information given by the topic title.
+*'''fullcategory=''': Optional. For incomplete topics, specify a category without "Category:" prefix that contains the full list of possible articles for the topic. Do not use this if all possible articles for the topic are listed.
+
+==Technical notes==
+*Uses [[Module:Topic display box]].
+*Now uses the CSS for columns. This will not work in Internet Explorer 9 and earlier, which will display everything in one single column. But IE9 shouldn't be used anyway, because as of January 12, 2016, Microsoft has stopped supporting it (along with IE10).
+*Lua is still used anyway, so that a theoretically unlimited number of articles can be displayed.
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

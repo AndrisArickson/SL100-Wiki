@@ -1,0 +1,87 @@
+<onlyinclude><!--
+	-->{{UprisingRecipe/Item<!--
+		-->|itemName={{{item1Name|<noinclude>Standard Guerilla Helmet</noinclude>}}}<!--
+		-->|itemType={{{item1Type|<noinclude>equipment</noinclude>}}}<!--
+		-->|itemSize={{{item1Size|{{{size|<noinclude>exsmall</noinclude>}}}}}}<!--
+		-->|itemLevel={{{item1Level|}}}<!--
+		-->|itemMax={{{item1Max|}}}<!--
+		-->|itemNum={{{item1Num|}}}<!--
+	-->}}<!--
+	-->{{#if:{{{item2Name|<noinclude>1</noinclude>}}}|<!--
+		--><div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;margin-right:2px;margin-left:3px;"></div></div><!--
+		
+		-->{{UprisingRecipe/Item<!--
+			-->|itemName={{{item2Name|<noinclude>Kiax</noinclude>}}}<!--
+			-->|itemType={{{item2Type|<noinclude>component</noinclude>}}}<!--
+			-->|itemSize={{{item2Size|{{{size|<noinclude>exsmall</noinclude>}}}}}}<!--
+			-->|itemLevel={{{item2Level|<noinclude>4</noinclude>}}}<!--
+			-->|itemMax={{{item2Max|}}}<!--
+			-->|itemNum={{{item2Num|<noinclude>3</noinclude>}}}<!--
+		-->}}<!--
+		
+		-->{{#if:{{{item3Name|<noinclude>1</noinclude>}}}|<!--
+			--><div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;margin-right:2px;margin-left:3px;"></div></div><!--
+			
+			-->{{UprisingRecipe/Item<!--
+				-->|itemName={{{item3Name|<noinclude>Lothalite</noinclude>}}}<!--
+				-->|itemType={{{item3Type|<noinclude>component</noinclude>}}}<!--
+				-->|itemSize={{{item3Size|{{{size|<noinclude>exsmall</noinclude>}}}}}}<!--
+				-->|itemLevel={{{item3Level|<noinclude>4</noinclude>}}}<!--
+				-->|itemMax={{{item3Max|}}}<!--
+				-->|itemNum={{{item3Num|<noinclude>3</noinclude>}}}<!--
+			-->}}<!--
+			
+			-->{{#if:{{{item4Name|}}}|<!--
+				--><div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;margin-right:2px;margin-left:3px;"></div></div><!--
+				
+				-->{{UprisingRecipe/Item<!--
+					-->|itemName={{{item4Name|}}}<!--
+					-->|itemType={{{item4Type|}}}<!--
+					-->|itemSize={{{item4Size|{{{size|}}}}}}<!--
+					-->|itemLevel={{{item4Level|}}}<!--
+					-->|itemMax={{{item4Max|}}}<!--
+					-->|itemNum={{{item4Num|}}}<!--
+				-->}}<!--
+				
+				-->{{#if:{{{item5Name|}}}|<!--
+					--><div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;margin-right:2px;margin-left:3px;"></div></div><!--
+					
+					-->{{UprisingRecipe/Item<!--
+						-->|itemName={{{item5Name|}}}<!--
+						-->|itemType={{{item5Type|}}}<!--
+						-->|itemSize={{{item5Size|{{{size|}}}}}}<!--
+						-->|itemLevel={{{item5Level|}}}<!--
+						-->|itemMax={{{item5Max|}}}<!--
+						-->|itemNum={{{item5Num|}}}<!--
+					-->}}<!--
+					
+					-->{{#if:{{{item6Name|}}}|<!--
+						--><div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite plus-sign exsmall filter-black class-style position-relative margin-top-30px margin-bottom-30px" style="margin-bottom:0;margin-top:0;top:10px;margin-right:2px;margin-left:3px;"></div></div><!--
+						
+						-->{{UprisingRecipe/Item<!--
+							-->|itemName={{{item6Name|}}}<!--
+							-->|itemType={{{item6Type|}}}<!--
+							-->|itemSize={{{item6Size|{{{size|}}}}}}<!--
+							-->|itemLevel={{{item6Level|}}}<!--
+							-->|itemMax={{{item6Max|}}}<!--
+							-->|itemNum={{{item6Num|}}}<!--
+						-->}}<!--
+						
+					-->|}}<!--
+				-->|}}<!--
+			-->|}}<!--
+		-->|}}<!--
+	-->|}}<!--
+	-->{{#if:{{{resultName|<noinclude>1</noinclude>}}}|<!--
+		--><div class="class-style position-relative display-inline-block height-100-px"><div class="uprising-sprite equals-sign exsmall filter-black class-style position-relative margin-top-25px margin-bottom-35px" style="margin-bottom:0;margin-top:0;top:5px;margin-right:2px;margin-left:3px;"></div></div><!--
+		
+		-->{{UprisingRecipe/Item<!--
+			-->|itemName={{{resultName|<noinclude>Refitted Guerilla Helmet</noinclude>}}}<!--
+			-->|itemType={{{resultType|<noinclude>equipment</noinclude>}}}<!--
+			-->|itemSize={{{resultSize|{{{size|<noinclude>exsmall</noinclude>}}}}}}<!--
+			-->|itemLevel={{{resultLevel|}}}<!--
+			-->|itemMax={{{resultMax|}}}<!--
+			-->|itemNum={{{resultNum|}}}<!--
+		-->}}<!--
+	-->}}<!--
+--></onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

@@ -1,0 +1,16 @@
+{{MediumMB
+|border=#CC9
+|bg=#F1F1DE
+|image=[[File:Heckert gnu.svg|70px]]
+|message='''This library is [[wikipedia:Free software|free software]]'''; '''you can redistribute it and/or modify it''' under the terms of either '''[https://web.archive.org/web/20240723121642/http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html Version 2.1] of the [[wikipedia:GNU Lesser General Public License|GNU Lesser General Public License]], or any subsequent version''' as published by the [[wikipedia:Free Software Foundation|Free Software Foundation]]. This library is distributed in the hope that it will be useful, but '''WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY''' or '''FITNESS FOR A PARTICULAR PURPOSE'''. '''Subject to [[w:Community Central:Disclaimers|Fandom disclaimers]]'''.<br />'''Refer to the [https://web.archive.org/web/20240717155027/http://www.gnu.org/licenses/lgpl-3.0.html text of the GNU Lesser General Public License] and [[Wookieepedia:Copyrights]] for more information'''.<br /><small>The user should have received a copy of the GNU Lesser General Public License, in addition to this library&mdash;if not, write to the Free Software Foundation, Inc. at 59 Temple Place, Suite 330, Boston, MA02111-1307USA.</small>
+}}<includeonly>{{SpecialCategorizer|[[Category:LGPL images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:LGPL images]]
+
+==Sources==
+*{{WebCite|url=https://www.gnu.org/licenses/licenses.html|text=Licenses (GNU Lesser General Public License)|archivedate=20240723121642|nolive=1}}
+*{{WebCite|url=https://www.gnu.org/licenses/old-licenses/old-licenses.html#LGPL|text=Old Licenses (GNU Lesser General Public License)|archivedate=20240723121642|nolive=1}}
+*{{WebCite|url=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html|text=GNU Lesser General Public License v2.1|archivedate=20240723121642|nolive=1}}
+*{{WebCite|url=http://www.gnu.org/licenses/lgpl-3.0.html|text=GNU Lesser General Public License v3.0|archivedate=20240717155027|nolive=1}}
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

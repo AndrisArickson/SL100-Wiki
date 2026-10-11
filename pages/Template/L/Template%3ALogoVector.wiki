@@ -1,0 +1,15 @@
+{{MediumMB
+|border=#BB7C77
+|bg=#FFF7F7
+|image=[[File:Copyright-red.svg|50px]]
+|message=This image is a [[wikipedia:Vector graphics|'''vector graphic''']] '''reproduction''' of a [[wikipedia:Copyright|'''copyrighted''']] and/or [[wikipedia:Trademark|'''trademarked''']] [[Wikipedia:Logo|logo]]. It is believed that logos may be exhibited on [[Wookieepedia]] under the '''[[wikipedia:Fair use|fair use]] provision''' of [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. Use of an organization's logo on this [[wikipedia:Online encyclopedia|online encyclopedia]] '''does not imply endorsement of the organization by Wookieepedia or Fandom''', '''nor does it imply endorsement of Wookieepedia or Fandom by the organization. Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>[[Category:Logos|{{PAGENAME}}]][[Category:Vector graphics|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+Place <code><nowiki>{{LogoVector}}</nowiki></code> in the {{Tl|Information}} template on the relevant file page. Note that this template is used to denote vector replicas traced from logos; if the original logo itself is already in vector format, use {{Tl|Logo}} and add the file to [[:Category:Vector graphics]] manually.
+
+==Categorization==
+*[[:Category:Logos]]
+*[[:Category:Vector graphics]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

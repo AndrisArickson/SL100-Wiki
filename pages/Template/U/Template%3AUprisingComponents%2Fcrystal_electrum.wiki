@@ -1,0 +1,91 @@
+<noinclude>{{UprisingComponents/WarningBox|name=crystal electrum|title=Electrum Crystal|template=UprisingComponents|templateTitle=UprisingComponents|extra=<br><span style="margin-left:45px;color:red;"><big><u>'''Do Not edit without discussion first.'''</u></big></span>}}</noinclude><!--
+--><onlyinclude>{{#switch:{{lc:{{{get|}}}}}<!--
+-->|basename|name=Electrum<!--
+-->|type=Crystal<!--
+-->|subtype=Event<!--
+-->|element=None<!--
+-->|minlevel=3<!--
+-->|maxlevel=7<!--
+-->|description=These crystals provide a Event benefit to equipment.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|}}}}}}}}<!--
+	-->|cracked|crackedelectrum|cracked electrum|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Cracked<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Cracked Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_01.png<!--
+			-->|credits|value|price=N/A<!--
+			-->|howget|howtoget=<span style="color:red">'''Not Available'''</span><!--
+			-->|notavailable|notingame=1<!--
+		-->}}<!--
+	-->|chipped|chippedelectrum|chipped electrum|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Chipped<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Chipped Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_02.png<!--
+			-->|credits|value|price=N/A<!--
+			-->|howget|howtoget=<span style="color:red">'''Not Available'''</span><!--
+			-->|notavailable|notingame=1<!--
+		-->}}<!--
+	-->|dull|dullelectrum|dull electrum|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Dull<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Dull Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_03.png<!--
+			-->|credits|value|price=2362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=1500<!--
+			-->|howget|howtoget=<div>Achieve Captain rank in Sector Battles.</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|faceted|facetedelectrum|faceted electrum|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Faceted<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Faceted Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_04.png<!--
+			-->|credits|value|price=7087<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=2400<!--
+			-->|howget|howtoget=<div>Achieve Lieutenant rank in Sector Battles.</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|polished|polishedelectrum|polished electrum|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Polished<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Polished Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_05.png<!--
+			-->|credits|value|price=21262<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=3500<!--
+			-->|howget|howtoget=<div>Finish Anoat storyline</div><div>Achieve Commander rank in Sector Battles.</div><!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|brilliant|brilliantelectrum|brilliant electrum|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Brilliant<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Brilliant Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_06.png<!--
+			-->|credits|value|price=63787<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=4800<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|pristine|pristineelectrum|pristine electrum|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pristine<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Pristine Electrum<!--
+			-->|icon|image=Uprising_UI_Prop_Crystal_Event_07.png<!--
+			-->|credits|value|price=191362<!--
+			-->|usecost|useprice=<!--
+			-->|upgradecost|upgradeprice=<!--
+			-->|howget|howtoget=<!--
+			-->|xp=None<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|}}}}}<!--
+			-->|fullname=Electrum<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Crystal_Event_07.png<!--
+		-->}}<!--
+	-->}}<!--
+-->}}</onlyinclude><noinclude>[[Category:Crystal Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Electrum}}
+__NOTOC__
+</noinclude>

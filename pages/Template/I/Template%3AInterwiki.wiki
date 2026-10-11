@@ -1,0 +1,17 @@
+{{BaseCitation/Interwiki
+|image=
+|wiki={{#if:{{#pos:{{{1|}}}|w:c}}|[[Category:Invalid usages of Template:Interwiki]]{{{1|}}}|w:c:{{{1|}}}}}
+|wiki_name={{{name|{{{2|}}}}}}
+|wiki_link={{{wiki_link|}}}
+|nonfandom={{{base|}}}
+|page={{{page|{{{3|{{BASEPAGENAME}}}}}}}}
+|text={{{text|{{{4|{{BASEPAGENAME}}}}}}}}
+|italics={{{italics|}}}
+|quotes={{{quotes|}}}
+}}<noinclude>
+
+==Usage==
+<pre>
+<nowiki>{{Interwiki|interwiki prefix without w:c:|wiki name|page name|text (optional)}}</nowiki>
+</pre>
+[[Category:Interwiki link templates| ]]</noinclude>

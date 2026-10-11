@@ -1,0 +1,3 @@
+Thank you for contributing to Wookieepedia! {{#if:{{{1|}}}|With regard to your edit to [[{{{1}}}]], please|Please}} be advised that all articles on [[in-universe]] topics are written in past tense. Please see the [[Wookieepedia:Manual of Style#Tense|Manual of Style]] if you would like to learn more about the writing style used on Wookieepedia and feel free to join our [[Wookieepedia:Discord|Discord server]] if you would like assistance. {{{2|}}}<!-- Template:Msg-tense --><noinclude>
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

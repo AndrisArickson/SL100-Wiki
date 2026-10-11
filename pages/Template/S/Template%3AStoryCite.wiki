@@ -1,0 +1,17 @@
+{{#invoke:BaseCitation|main
+|child={{{story}}}
+|ctext={{{stext|{{{sformatted|}}}}}}
+|parent={{{book|}}}
+|ptext={{{text|{{{bformatted|}}}}}}
+|series={{{series|}}}
+|stext={{{srtext|}}}
+|issue={{{issue|}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|noquotes={{{smanual|}}}
+|nolink={{{nolink|}}}
+|noitalics={{{manual|}}}
+|audiobook={{{audiobook|}}}
+|reprint={{{reprint|}}}
+|italicize=1
+}}<noinclude>{{Top|fprot|mprot}}{{Documentation}}</noinclude>

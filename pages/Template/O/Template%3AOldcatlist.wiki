@@ -1,0 +1,15 @@
+<table class="expired" style="border:1px solid black;font-size:85%"><th colspan="2" style="border-bottom:2px dotted black">List of Oldest pages with this short-term category (may need removal)</th><tr><td align="left">Page:</td><td width="150" align="left">Last Edit</td></tr><forum>
+category={{PAGENAME}}
+order=ascending
+timestamp=false
+count=10
+newdays=30
+</forum></table><noinclude>
+
+Usage:
+*<code><nowiki>{{Oldcatlist}}</nowiki></code>
+
+Sporked from Uncyclopedia.
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

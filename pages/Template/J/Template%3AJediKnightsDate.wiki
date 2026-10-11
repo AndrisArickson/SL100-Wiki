@@ -1,0 +1,6 @@
+[[Jedi Knights 1|''Jedi Knights'' 1]] states the events of {{#ifeq:{{PAGENAME}}|Star Wars: Jedi Knights|''Star Wars: Jedi Knights''|''[[Star Wars: Jedi Knights]]''}} take place during the time [[Finis Valorum]] is [[Supreme Chancellor]] of the [[Galactic Republic]], while [[Jedi Knights 5|''Jedi Knights'' 5]] establishes the series is set at least two [[Standard year|years]] before the [[Battle of Naboo]]. As ''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]'' states that a Supreme Chancellor served four-[[Standard year|year]] terms, and the flashback section of [[Tarkin (novel)|''Tarkin'']] that mentions Valorum's re-election is dated to [[36 BBY]] by ''[[Star Wars: Timelines]]'', Valorum must have begun serving as Chancellor in [[40 BBY]]. ''Timelines'' also dates the Battle of Naboo to [[32 BBY]], meaning ''Jedi Knights'' must take place between 40 [['ABY-BBY' dating system|BBY]] and 34 BBY.<noinclude>
+
+==Usage==
+<code><nowiki>{{JediKnightsDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

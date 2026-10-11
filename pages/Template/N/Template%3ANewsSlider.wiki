@@ -1,0 +1,28 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||
+<div class="homepageslider hidable">
+{|width="100%" cellpadding="2" cellspacing="3"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="text-align: left;"|[[File:Resistance_starbird.svg|25px]] '''WookieeNews'''
+|style="font-size: 0.8em; text-align: right;"|<span class="hidable-button" style="color:black;"></span>
+|}
+</div>
+|-
+|style="font-size: 0.9em"|<div class="hidable-content">
+<gallery type="slider">
+File:ObiWanKenobi-NewsSlider.png|''Obi-Wan Kenobi''|link=[https://www.starwars.com/news/obi-wan-kenobi-may-27 https://www.starwars.com/news/obi-wan-kenobi-may-27]|linktext=The new series arrives to Disney+ on May 27!
+
+File:TORLegacyoftheSith-KeyArt.jpg|''Star Wars: The Old Republic: Legacy of the Sith''|link=[https://www.swtor.com/info/news/article/20211207 https://www.swtor.com/info/news/article/20211207]|linktext=The new expansion for ''The Old Republic'' has been released!
+
+File:BookBobaFett-NewsSlider.jpg|''The Book of Boba Fett''|link=[https://starwars.fandom.com/wiki/The_Book_of_Boba_Fett https://starwars.fandom.com/wiki/The_Book_of_Boba_Fett]|linktext=''The Book of Boba Fett'' now streaming on Disney+!
+
+File:Star_Wars_Eclipse_Logo.jpg|''Star Wars Eclipse''|link=[https://www.starwars.com/video/star-wars-eclipse https://www.starwars.com/video/star-wars-eclipse]|linktext=''Star Wars Eclipse'' has been announced!
+
+</gallery>
+</div>
+|}
+</div>
+}}<noinclude>{{Top|fprot}}
+
+[[Category:Main Page templates]]</noinclude>

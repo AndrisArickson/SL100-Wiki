@@ -1,0 +1,7 @@
+The epilogue of {{#ifeq:{{PAGENAME}}|Thrawn (novel)|''Thrawn''|[[Thrawn (novel)|''Thrawn'']]}} depicts [[Eli N. Vanto|Eli Vanto]] contacting [[Admiral]] [[Ar'alani]], which ''[[Star Wars: Timelines]]'' dates to c. [[2 BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{ThrawnNovelEndDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

@@ -1,0 +1,42 @@
+==Usage==
+<code><nowiki>{{Otheruses|title of disambiguation page without parentheses included}}</nowiki></code>
+
+===Example(s)===
+When the disambiguation page title contains "(disambiguation)":
+
+<code><nowiki>{{Otheruses|Mynock}}</nowiki></code>
+
+Results in:
+
+{{Otheruses|Mynock}}
+
+<hr />
+When the disambiguation page title does '''not''' contain "(disambiguation)":
+
+<code><nowiki>{{Otheruses|title=327}}</nowiki></code>
+
+Results in:
+
+{{Otheruses|title=327}}
+
+<hr />
+When linking to a second disambiguation page:
+
+<code><nowiki>{{Otheruses|Commander|more=Outlander (disambiguation)}}</nowiki></code>
+
+Results in:
+
+{{Otheruses|Commander|more=Outlander (disambiguation)}}
+
+<hr />
+
+When linking to a third disambiguation page:
+
+<code><nowiki>{{Otheruses|Commander|more=Outlander (disambiguation)|more2=Bob (disambiguation)}}</nowiki></code>
+
+Results in:
+
+{{Otheruses|Commander|more=Outlander (disambiguation)|more2=Bob (disambiguation)}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Disambiguation and redirection templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

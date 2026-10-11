@@ -1,0 +1,36 @@
+This template is to be used for citing individual pages on [[Wikipedia:Spotify|Spotify]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{Spotify|subdomain=|url=|text=|quote=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>https://open.spotify.com/</nowiki></code>).
+*'''text''': Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Spotify|url=episode/62Bfnw0YA5VMi43njz4GSm|text=Episode 88 &ndash; Michael Moreci talks From A Certain Point of View: The Empire Strikes Back and more|archiveurl=https://megalodon.jp/2026-0609-2056-10/https://open.spotify.com:443/episode/62Bfnw0YA5VMi43njz4GSm}}</nowiki></code>
+
+Results in:
+
+{{Spotify|url=episode/62Bfnw0YA5VMi43njz4GSm|text=Episode 88 &ndash; Michael Moreci talks From A Certain Point of View: The Empire Strikes Back and more|archiveurl=https://megalodon.jp/2026-0609-2056-10/https://open.spotify.com:443/episode/62Bfnw0YA5VMi43njz4GSm}}
+
+<code><nowiki>{{Spotify|url=episode/62Bfnw0YA5VMi43njz4GSm|text=Episode 88 &ndash; Michael Moreci talks From A Certain Point of View: The Empire Strikes Back and more|quote=On November 10, 2020, DelRey released From A Certain Point of View: The Empire Strikes Back and Michael Moreci is on of the 40 contributing authors.|archiveurl=https://megalodon.jp/2026-0609-2056-10/https://open.spotify.com:443/episode/62Bfnw0YA5VMi43njz4GSm}}</nowiki></code>
+
+Results in:
+
+{{Spotify|url=episode/62Bfnw0YA5VMi43njz4GSm|text=Episode 88 &ndash; Michael Moreci talks From A Certain Point of View: The Empire Strikes Back and more|quote=On November 10, 2020, DelRey released From A Certain Point of View: The Empire Strikes Back and Michael Moreci is on of the 40 contributing authors.|archiveurl=https://megalodon.jp/2026-0609-2056-10/https://open.spotify.com:443/episode/62Bfnw0YA5VMi43njz4GSm}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

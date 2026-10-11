@@ -1,0 +1,26 @@
+<includeonly>[[File:Sphero.svg|text-top|x16px|link=Sphero]]&#32;"{{{text}}}" on the [[Star Wars Droids App by Sphero|''Star Wars'' Droids App by Sphero]] <small>([[:File:{{{filename}}}|screenshot]])</small>{{#if:{{{filename|}}}
+    |&#32;
+    |{{#if:{{NAMESPACE}}
+        |&#32;
+        |[[Category:Pages with missing permanent archival links]]}}
+    }}</includeonly><noinclude>
+This template is to be used for citing individual entries from the [[Star Wars Droids App by Sphero|''Star Wars'' Droids App by Sphero]].
+
+==Usage==
+Copy the template code below, paste it into the appropriate place in an article and fill in the required fields.
+
+<code><nowiki>{{Sphero|text=|filename=}}</nowiki></code>
+
+===Required parameters===
+*'''text''': Name of the entry being cited.
+*'''filename''': Filename of the entry's screenshot, minus the <code>File:</code> prefix.
+
+===Examples===
+<code><nowiki>{{Sphero|text=BB-2 and BB-4, BB Units|filename=BB-unit_Data_Sphero.jpg}}</nowiki></code>
+
+Results in:
+
+{{Sphero|text=BB-2 and BB-4, BB Units|filename=BB-unit_Data_Sphero.jpg}}
+
+__NOTOC__
+[[Category:Citation templates]]</noinclude>

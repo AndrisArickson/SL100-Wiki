@@ -1,0 +1,24 @@
+This template is to be used for citing individual pages on [https://www.tv.com TV.com].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{TVcom|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.tv.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{TVcom|url=shows/star-wars-clone-wars/chapter-xxii-370294|text=Star Wars: Clone Wars - Season 2, Episode 2: Chapter XXII|archivedate=20210117115125}}</nowiki></code>
+
+Results in:
+{{TVcom|url=shows/star-wars-clone-wars/chapter-xxii-370294|text=Star Wars: Clone Wars - Season 2, Episode 2: Chapter XXII|archivedate=20210117115125}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

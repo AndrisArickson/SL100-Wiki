@@ -1,0 +1,40 @@
+{{Iumb
+| id = TCRedirect
+| bg = #7BB0D8
+| image = [[File:Captain Tarpals.png|150px]]
+| caption = Hey, {{USERNAME}}! Stoppa dere!
+| message = This redirect was created as a result of a community vote.
+| comment = Please do not recreate the article or change the redirect target without first creating a Trash compactor vote to overturn the [[{{#switch:{{{1}}}
+|vfd = Wookieepedia:Votes_for_deletion/
+|tc = Forum:TC:
+|ct = Forum:CT:}}{{{2}}}|previous decision]].
+}}<noinclude>
+This template is for use on redirects that are a result of a [[Forum:Trash compactor|Trash compactor]] or [[Forum:Consensus track|Consensus track]] decision.
+
+==Usage==
+Copy the template code below and paste it into the appropriate article after the <code><nowiki>#REDIRECT[[Article name]]</nowiki></code>
+
+The first parameter determines the prefix:<br />
+vfd = Wookieepedia:Votes_for_deletion/<br />
+tc = Forum:TC:<br />
+ct = Forum:CT:
+
+The second parameter is the page name, minus the prefix.
+
+==Examples==
+===Votes for deletion===
+The code <code><nowiki>{{TCRedirect|vfd|Shadow jedi}}</nowiki></code> results in:
+
+{{TCRedirect|vfd|Shadow jedi}}
+
+===Trash compactor===
+The code <code><nowiki>{{TCRedirect|tc|TCW lightsabers}}</nowiki></code> results in:
+
+{{TCRedirect|tc|TCW lightsabers}}
+
+===Consensus track===
+The code <code><nowiki>{{TCRedirect|ct|Renaming_VFD}}</nowiki></code> results in:
+
+{{TCRedirect|ct|Renaming_VFD}}
+
+[[Category:Disambiguation and redirection templates]]

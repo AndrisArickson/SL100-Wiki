@@ -1,0 +1,12 @@
+{{#ifeq:{{{1}}}|-||{{#ifeq:[[:Special:Whatlinkshere/{{{1}}}]]|{{raw:Special:Whatlinkshere/{{{1}}}}}|valid}}}}<noinclude>
+
+This template returns "<code>valid</code>" if the given page title is valid, or the empty string otherwise. The page does not need to exist in order for the template to return "<code>valid</code>". As a convenience, the template treats "<code>-</code>" as an invalid page title. The main purpose of this template is to detect whether a template parameter has already been linked manually.
+
+==Examples==
+*<code><nowiki>{{isValidPageName|Main Page}}</nowiki></code> returns "<code>{{isValidPageName|Main Page}}</code>"
+*<code><nowiki>{{isValidPageName|[[Main Page]]}}</nowiki></code> returns "<code>{{isValidPageName|[[Main Page]]}}</code>"
+*<code><nowiki>{{isValidPageName|This page could not POSSIBLY exist, could it?}}</nowiki></code> returns "<code>{{isValidPageName|This page could not POSSIBLY exist, could it?}}</code>"
+*<code><nowiki>{{isValidPageName|-}}</nowiki></code> returns "<code>{{isValidPageName|-}}</code>" (even though "[[-]]" can exist)
+*<code><nowiki>{{isValidPageName}}</nowiki></code> returns "<code>{{isValidPageName}}</code>"
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

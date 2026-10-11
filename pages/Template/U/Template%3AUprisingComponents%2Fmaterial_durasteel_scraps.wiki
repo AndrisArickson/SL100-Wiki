@@ -1,0 +1,70 @@
+<onlyinclude>{{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+-->|basename|name=Durasteel Scraps<!--
+-->|type=Material<!--
+-->|subtype=Explosive<!--
+-->|element=Explosive<!--
+-->|minlevel=1<!--
+-->|maxlevel=7<!--
+-->|description=This material protects against kinetic damage.<!--
+-->|#default={{#switch:{{lc:{{#if:{{{level|}}}|{{{level}}}|{{#if:{{{prefix|}}}|{{{prefix}}}|{{#if:{{{levelName|{{{normalizedName|{{{name|}}}}}}}}}|{{{levelName|{{{normalizedName|{{{name}}}}}}}}}|<noinclude>5</noinclude>}}}}}}}}<!--
+	-->|perforated|perforateddurasteel scraps|perforated durasteel scraps|perforateddurasteelscraps|perforated durasteelscraps|1={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Perforated<!--
+			-->|level|baselevel|levelnum=1<!--
+			-->|fullname|levelfullname=Perforated Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_01.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|pressed|presseddurasteel scraps|pressed durasteel scraps|presseddurasteelscraps|pressed durasteelscraps|2={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Pressed<!--
+			-->|level|baselevel|levelnum=2<!--
+			-->|fullname|levelfullname=Pressed Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_02.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|forged|forgeddurasteel scraps|forged durasteel scraps|forgeddurasteelscraps|forged durasteelscraps|3={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Forged<!--
+			-->|level|baselevel|levelnum=3<!--
+			-->|fullname|levelfullname=Forged Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_03.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|plated|plateddurasteel scraps|plated durasteel scraps|plateddurasteelscraps|plated durasteelscraps|4={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Plated<!--
+			-->|level|baselevel|levelnum=4<!--
+			-->|fullname|levelfullname=Plated Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_04.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|welded|weldeddurasteel scraps|welded durasteel scraps|weldeddurasteelscraps|welded durasteelscraps|5={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Welded<!--
+			-->|level|baselevel|levelnum=5<!--
+			-->|fullname|levelfullname=Welded Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_05.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|fused|fuseddurasteel scraps|fused durasteel scraps|fuseddurasteelscraps|fused durasteelscraps|6={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Fused<!--
+			-->|level|baselevel|levelnum=6<!--
+			-->|fullname|levelfullname=Fused Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_06.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|hardened|hardeneddurasteel scraps|hardened durasteel scraps|hardeneddurasteelscraps|hardened durasteelscraps|7={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|prefix|levelname=Hardened<!--
+			-->|level|baselevel|levelnum=7<!--
+			-->|fullname|levelfullname=Hardened Durasteel Scraps<!--
+			-->|icon|image=Uprising_UI_Prop_Material_Explosive_07.png<!--
+			-->|credits|value|price=<!--
+			-->|howget|howtoget=<!--
+		-->}}<!--
+	-->|#default={{#switch:{{lc:{{{get|<noinclude>fullname</noinclude>}}}}}<!--
+			-->|fullname=Durasteel Scraps<!--
+			-->|defaulticon|defaultimage|icon|image=Uprising_UI_Prop_Material_Explosive_07.png<!--
+		-->}}<!--
+-->}}}}</onlyinclude><noinclude>[[Category:Material Data Templates for Star Wars: Uprising]]{{UprisingComponents|get=box|baseName=Durasteel Scraps}}</noinclude>

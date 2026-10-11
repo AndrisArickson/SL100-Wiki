@@ -1,0 +1,3 @@
+<onlyinclude><!--
+	-->{{#if:{{{name|<noinclude>Standard Guerilla Helmet</noinclude>}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/{{{name|<noinclude>Standard Guerilla Helmet</noinclude>}}}|get=iconbordersmalllevel%bgimage{{#if:{{{size|}}}|%{{{size|exsmall}}}|}}{{#ifeq:{{{max|0}}}|1|%max|}}}}|}}<!--
+--></onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]

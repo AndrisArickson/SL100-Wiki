@@ -1,0 +1,2 @@
+{{#if:{{{file|}}}
+|([[File:Quote-audio.png|12px|link=File:{{{file}}}]] [[Media:{{{file}}}|pronounced]] /[[Wikipedia:IPA chart for English dialects|{{{1}}}]]/)|(pronounced /[[Wikipedia:IPA chart for English dialects|{{{1}}}]]/)}}<noinclude>{{Top|mprot}}{{Documentation}}</noinclude>

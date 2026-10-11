@@ -1,0 +1,53 @@
+{| class="nb2 hidable darkbackground1" cellpadding="0" cellspacing="0" style="background:{{{2|#D8E9FC}}}; width:{{{3|auto}}}; max-width:{{{max|none}}}; float:{{{float|none}}}; border-radius:10px; overflow:hidden"
+|- class="nb2-firstheading"
+! style="padding:5px 5px 0 5px" | {{{1}}}
+|-
+|
+{| class="nb2-inner hidable-content darkbackground1" cellpadding="5px" cellspacing="5px"
+<noinclude>
+|}
+|}
+
+==Notes==
+This template is one in a series of modular source templates meant to be used to generate box-style navigation templates. It is meant to be [[m:Help:substitution|substituted]] and will not work properly if <code>subst:</code> is not present in the template call.
+
+==Usage instructions==
+<pre>{{Nav box start|text|background|width}}</pre>
+
+===Required parameters===
+#{{Para||{{Var|text}}}} The title of the whole box and its contents.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|background}}}} The color of the box background, default <code style="color:black; padding:0 5px 0 5px; background:#D8E9FC">#D8E9FC</code>.</li>
+#{{Para||{{Var|width}}}} The box width, default automatic.
+#{{Para|max}} The maximum box width, default none.
+#{{Para|float}} The horizontal position of the box, default none (centered).
+
+==Box-style navigation source templates==
+*{{Tl|Nav box start}}
+*{{Tl|Nav box heading}}
+*{{Tl|Nav box}}
+*{{Tl|Nav box end}}
+
+==Example==
+===Code===
+<pre>
+{{Nav box start|Navigation template test}}
+{{Nav box|The 1st box is the deepest}}
+{{Nav box|2 Boxy 2 Blurious}}
+|-
+{{Nav box|3 blind boxes}}
+{{Nav box|Box box BOX bOX}}
+{{Nav box end}}
+</pre>
+
+===Result===
+{{Nav box start|Navigation template test}}
+{{Nav box|The 1st box is the deepest}}
+{{Nav box|2 Boxy 2 Blurious}}
+|-
+{{Nav box|3 blind boxes}}
+{{Nav box|Box box BOX bOX}}
+{{Nav box end}}
+
+[[Category:Navbox utility templates|{{PAGENAME}}]]</noinclude>

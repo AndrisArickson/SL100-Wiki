@@ -1,0 +1,5 @@
+{{#ifeq:{{NAMESPACE}}||[[Category:Locations without region]][[Category:Locations without sector]][[Category:Locations without system]][[Category:Locations without grid coordinates]]}}<noinclude>
+
+This template is used in place of an empty {{Tl|CelestialBody}} infobox to add [[:Category:Locations without region]], [[:Category:Locations without sector]], [[:Category:Locations without system]], and [[:Category:Locations without grid coordinates]] to the article; this template should be removed and replaced with an infobox when any of the infobox fields can be populated.
+
+[[Category:Maintenance templates]]</noinclude>

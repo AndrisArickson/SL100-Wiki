@@ -1,0 +1,13 @@
+{| class="noprint stub plainlinks"
+|-
+![[File:Insider47.jpg|17px]] This article is a [[Wookieepedia:Stub|stub]] about a [[Wikipedia:Magazine|magazine]]{{#if:{{{1|}}}|{{#ifeq:{{{1|}}}|issue|&nbsp;issue|{{#ifeq:{{{1|}}}|article|&nbsp;[[Wikipedia:Article (publishing)|article]]|}}}}|}}. You can help Wookieepedia by [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding it].
+|}{{SpecialCategorizer|{{#if:{{{1|}}}|{{#ifeq:{{{1|}}}|issue|<includeonly>[[Category:Magazine issue stubs|{{#ifeq:{{#sub:{{PAGENAME}}|0|11}}|Star Wars -|{{#sub:{{PAGENAME}}|12}}|{{#ifeq:{{#sub:{{PAGENAME}}|0|10}}|Star Wars:|{{#sub:{{PAGENAME}}|11}}|{{#ifeq:{{#sub:{{PAGENAME}}|0|9}}|Star Wars|{{#sub:{{PAGENAME}}|10}}|{{PAGENAME}}}}}}}}]]</includeonly>|{{#ifeq:{{{1|}}}|article|<includeonly>[[Category:Magazine article stubs]]</includeonly>}}}}|<includeonly>[[Category:Magazine stubs]]</includeonly>}}}}<noinclude>
+==Usage==
+To add a magazine to [[:Category:Magazine stubs]], type <code><nowiki>{{Magazine-stub}}</nowiki></code>.
+
+To add a magazine issue to [[:Category:Magazine issue stubs]], type <code><nowiki>{{Magazine-stub|issue}}</nowiki></code>.
+
+To add a magazine article to [[:Category:Magazine article stubs]], type <code><nowiki>{{Magazine-stub|article}}</nowiki></code>.
+
+[[Category:Stub templates with additional parameters|{{PAGENAME}}]]
+</noinclude>

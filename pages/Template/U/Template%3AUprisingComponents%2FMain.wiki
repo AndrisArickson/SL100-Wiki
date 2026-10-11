@@ -1,0 +1,111 @@
+<onlyinclude>{{#if:{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|{{#switch:{{lc:{{{get|box}}}}}<!--
+	-->|box=<div class="class-style position-relative width-fit-content" style="width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;"><!--
+				-->{{#ifeq:{{{showEditButton|<noinclude>1</noinclude>}}}|2|<!--
+					-->{{UprisingComponents/TopRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}}}<!--
+				-->|}}<!--
+				--><div style="z-index: 10000;" class="magistral-font class-style position-relative color-white display-inline-block"><!--
+					--><table class="class-style position-relative min-width-300-px color-white table-layout-fixed std-background-darkblue-solid std-border-liteblue" style="background-color: #385975;width:{{#if:{{{width|}}}|{{{width|}}}|475}}px;min-width:350px;"><!--
+						--><tr><!--
+							--><td colspan="1" class="class-style width-80-px" style="max-width:80px;min-width:80px;width:80px;"><div class="class-style width-80-px margin--15px thumb-no-margin" style="max-width:80px;width:80px;margin:-20px;"><!--
+								-->[[File:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=image|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}|link={{{imageLink|}}}|120x120px]]<!--
+							--></div></td><!--
+							--><td colspan="2" class="class-style position-relative min-width-50-pct width-100-pct" style="width:80%;"><!--
+								-->{{UprisingComponents/SubtypeIcon|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}}}<!--
+								--><div class="class-style position-absolute top-3px"><!--
+									--><h2 class="class-style margin-0 vertical-align-text-top min-width-50-pct line-height-0-9em font-size-1-3em width-200-px margin-top-10px" style="max-width:320px;width:320px;"><!--
+										-->{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=baseName}}<!--
+									--></h2><!--
+									--><div class="class-style text-align-left letter-spacing-1px line-height-0-8em margin-top-5px font-size-0-8em width-200-px" style="max-width:320px;width:320px;"><center><small>'''&#34;<!--
+										-->{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=description}}<!--
+									-->&#34;'''</small></center></div><!--
+								--></div><!--
+							--></td><!--
+						--></tr><!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=1}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=1}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=2}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=2}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=3}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=3}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=4}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=4}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=5}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=5}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=6}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=6}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=7}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=7}}<!--
+						
+						-->{{UprisingComponents/BoxStarRow|get=boxStarRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=8}}<!--
+						-->{{UprisingComponents/BoxRow|get=boxrow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|level=8}}<!--
+					--></table><!--
+				--></div><!--
+				-->{{#ifeq:{{{showEditButton|<noinclude>1</noinclude>}}}|1|<!--
+					-->{{UprisingComponents/RightCol|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}}}<!--
+				-->|}}<!--
+				-->{{#if:{{{after|}}}|{{{after|}}}|}}<!--
+		--></div><!--
+	-->|rendericonwithborder|iconwithborder|iconborder=<!--
+		--><div class="class-style position-relative display-inline-block {{#switch:{{{size|}}}|exsm|exsmall=width-65-px height-65-px|sm|small=width-100-px height-100-px|md|medium|#default=width-130-px height-130-px}}"><!--
+			-->{{#ifeq:{{{bgImage|<noinclude>1</noinclude>}}}|1|<div class="uprising-sprite {{#switch:{{{size|}}}|exsm|exsmall=exsmall|sm|small=small|md|medium|#default=medium}} material-container-white-bg filter-blue class-style position-absolute top-0 left-0"></div>}}<!--
+			--><div class="uprising-sprite material-container-white {{#switch:{{{size|}}}|exsm|exsmall=exsmall|sm|small=small|md|medium|#default=medium}} {{#switch:{{{borderColor|}}}|level={{UprisingComponents/LevelColor|level={{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=level|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}}}|blue=filter-blue|red=filter-red|black=filter-black|purple=filter-purple|orange=filter-orange|green=filter-green|white|none|{{{null|}}}|#default=}} class-style position-absolute top-0 left-0"></div><!--
+			--><div class="class-style position-absolute right-0px {{#switch:{{{size|}}}|exsm|exsmall=bottom-4px width-30-px margin-bottom-2px|#default=bottom-5px width-40-px margin-bottom-3px}}"><!--
+				-->{{#if:{{{num|<noinclude>3</noinclude>}}}|<!--
+					--><div class="magistral-font class-style"><!--
+						--><div class="class-style float-left color-white {{#switch:{{{size|}}}|exsm|exsmall=font-size-7px line-height-9px margin-left-5px|#default=font-size-8px line-height-11px margin-left-8px}} width-12-px" style="color:#fff;width:12px;text-align:center;">X</div><!--
+						--><div class="class-style float-left color-white {{#switch:{{{size|}}}|exsm|exsmall=font-size-8px line-height-9px|#default=font-size-10px line-height-11px}}" style="color:#fff;">{{{num|<noinclude>3</noinclude>}}}</div><!--
+					--></div><!--
+				-->|}}<!--
+				--><div class="class-style clear-both" style="clear:both;"><!--
+					--><div class="uprising-sprite star-silver {{UprisingComponents/LevelColor|level={{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=level|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}}} tiny class-style float-left"></div><!--
+					--><div class="magistral-font class-style float-left {{#switch:{{{size|}}}|exsm|exsmall=font-size-10px line-height-14px|#default=font-size-14px line-height-18px}} color-white"><!--
+						-->{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=level|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}<!--
+					--></div><!--
+				--></div><!--
+			--></div><!--
+			--><div class="class-style position-relative top-0px left-0px thumb-no-margin {{#switch:{{{size|}}}|exsm|exsmall=width-65-px height-65-px|sm|small=width-100-px height-100-px|md|medium|#default=width-130-px height-130-px}}" title="{{#if:{{{title|}}}|{{{title|}}}|{{#if:{{{alt|}}}|{{{alt|}}}|{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=fullName|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}}}}} {{#if:{{{num|<noinclude>3</noinclude>}}}|x {{{num|<noinclude>3</noinclude>}}}|}}">[[File:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=image|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}|frameless |{{#switch:{{{size|}}}|exsm|exsmall=65x65px|sm|small=100x100px|md|medium|#default=130x130px}} |link={{#if:{{{imageLink|}}}|{{{imageLink|}}}|Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components#{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=baseName|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}}}|{{#if:{{{title|}}}|{{{title|}}}|{{#if:{{{alt|}}}|{{{alt|}}}|{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=fullName|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}}}}} {{#if:{{{num|<noinclude>3</noinclude>}}}|x {{{num|<noinclude>3</noinclude>}}}|}}]]</div><!--
+		--></div><!--
+	-->|tablerow=<!--
+		--><noinclude><table class="wikitable magistral-font class-style width-100-pct"><!--
+			--><tr><!--
+			--><th style="padding:0 4px;">Name</th><!--
+			--><th class="class-style width-fit-content" style="padding:0 4px;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;">Type</th><!--
+			--><th class="class-style width-fit-content" style="padding:0 4px;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;">Element</th><!--
+			--><th style="padding:0 4px;">&#9733;</th><th style="padding:0 4px;">Prefix</th><th style="padding:0 4px;">Sell</th><th style="padding:0 4px;">Use</th><th style="padding:0 4px;">Upgrade</th><!--
+			--></tr></noinclude><!--
+			--><tr style="font-size:0.8em;"><!--
+				--><th rowspan="7" class="class-style letter-spacing-2px" style="padding:0 4px;letter-spacing:2px;font-size:1.4em;background:#3c3c3c;">'''[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Components/{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=type|}}s#{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=basename|}}|<span style="letter-spacing:1px;color:#cfcfcf;">{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=basename|}}</span>]]'''</th><!--
+				--><td rowspan="7" class="class-style text-align-center width-fit-content" style="padding:0 4px;text-align:center;font-size:1.1em;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;">{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=subtype}}</td><!--
+				-->{{#ifeq:{{lc:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=type}}}}|material|<td rowspan="7" class="class-style text-align-center width-fit-content" style="padding:0 4px;text-align:center;font-size:1.1em;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;">{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=element}}</td>|}}<!--
+				
+				-->{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=1|style=line-height:1.6em;|padding=0 2px}}<!-- Level 1
+			--></tr><!--
+			
+			--><tr style="font-size:0.8em;">{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=2|style=line-height:1.6em;|padding=0 2px}}</tr><!-- Level 2
+			--><tr style="font-size:0.8em;">{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=3|style=line-height:1.6em;|padding=0 2px}}</tr><!-- Level 3
+			--><tr style="font-size:0.8em;">{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=4|style=line-height:1.6em;|padding=0 2px}}</tr><!-- Level 4
+			--><tr style="font-size:0.8em;">{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=5|style=line-height:1.6em;|padding=0 2px}}</tr><!-- Level 5
+			--><tr style="font-size:0.8em;">{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=6|style=line-height:1.6em;|padding=0 2px}}</tr><!-- Level 6
+			--><tr style="font-size:0.8em;">{{UprisingComponents/TableSubRow|dataPage={{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|level=7|style=line-height:1.6em;|padding=0 2px}}</tr><!-- Level 7
+		--><noinclude></table></noinclude><!--
+	-->|page|card=foo {{{get|}}}<!--
+	-->|rendericon|renderimage=[[File:{{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}|get=image|baseName={{{baseName|<noinclude>agrocite</noinclude>}}}|name={{{name|<noinclude>agrocite</noinclude>}}}|level={{{level|<noinclude>5</noinclude>}}}|levelName={{{levelName|}}}|prefix={{{prefix|}}}}}|link={{{imageLink|}}}|{{{imageSize|{{{size|150x150px}}}}}}]]<!--
+	-->|#default={{UprisingComponents/{{{dataPage|<noinclude>crystal_agrocite</noinclude>}}}<!--
+		-->|get={{{get|}}}<!--
+		-->|dataPage={{{dataPage|}}}<!--
+		-->|baseName={{{baseName|}}}<!--
+		-->|name={{{name|}}}<!--
+		-->|level={{{level|}}}<!--
+		-->|levelName={{{levelName|}}}<!--
+		-->|prefix={{{prefix|}}}<!--
+		-->|imageSize={{{imageSize|}}}<!--
+		-->|size={{{size|}}}<!--
+	-->}}<!--
+-->}}|}}</onlyinclude>[[Category:Star Wars: Uprising Super Walkthrough templates]]
