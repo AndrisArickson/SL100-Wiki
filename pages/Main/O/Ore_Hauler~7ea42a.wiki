@@ -1,0 +1,62 @@
+{{Top|leg}}
+{{Youmay|the [[Repulsorlift/Legends|repulsorlift]] vehicle manufactured by [[Ubrikkian Industries/Legends|Ubrikkian Industries]]|the [[Ore hauler|starship model]]}}
+{{RepulsorliftVehicle
+|image=
+|name=Ore Hauler
+|designer=
+|manufacturer=[[Ubrikkian Industries/Legends|Ubrikkian Industries]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|line=
+|model=
+|type=[[Repulsorlift/Legends|Repulsorlift]] [[Ore/Legends|ore]] barge<ref name="FBS" />
+|cost=20,000 [[Galactic Credit Standard/Legends|credits]]<ref name="FBS" />
+|modifier=
+|sysmods=
+|length=20 [[Meter/Legends|meters]]<ref name="FBS" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=200 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FBS" />
+|max alt=5 meters<ref name="FBS" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="FBS" />
+|skeleton=
+|passengers=1<ref name="FBS" />
+|capacity=55 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The [[Ubrikkian Industries/Legends|Ubrikkian Industries]] '''Ore Hauler''' was a heavy duty barge designed to transport large amounts of [[Ore/Legends|ore]] to [[Refinery/Legends|refineries]] or waiting [[Realspace/Legends|space]] [[Starship/Legends|vessels]]. The craft was essentially an enclosed crew cabin coupled with an open cargo bed.
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Repulsorcraft models]]
+[[Category:Ubrikkian Industries products]]
