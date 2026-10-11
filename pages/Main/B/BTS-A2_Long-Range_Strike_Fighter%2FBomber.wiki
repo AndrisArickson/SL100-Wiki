@@ -1,0 +1,117 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:SWA25-Hwing.png]]
+|name=BTS-A2 Long-Range Strike Fighter/Bomber
+|designer=
+|manufacturer=[[Koensayr Manufacturing/Legends|Koensayr Manufacturing]]<ref name="Target">[[Stay on Target (sourcebook)|''Stay on Target'']]</ref>
+|line=
+|model=
+|type=[[Starfighter/Legends|Starfighter]]<ref name="Target" />
+|cost=
+|modifier=
+|sysmods=
+|length=17.1 [[Meter/Legends|meters]]<ref name="CH35">{{ChallengeCite|35|The H-Wing Strike Fighter}}</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=Koensayr [[R440 Ion Jet Engine]]s<ref name="Target" />
+|hyperdrive=Class 1.0<ref name="Target" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Fabritech/Legends|Fabritech]] [[ANx-y sensor package]]<ref name="Target" />
+|target=
+|navigation=
+|avionics=[[NH-7 flight control avionics package/Legends|NH-7 flight control avionics package]]<ref name="Target" />
+|maincomp=
+|countermeasures=
+|armament=*1 [[KY12 medium laser cannon]] turret<ref name="Target" />
+*2 light [[Ion cannon/Legends|ion cannons]] (fire linked)<ref name="Target" />
+*2 [[Proton torpedo/Legends|proton torpedo]] launchers<ref name="Target" />
+**Standard load: 6 proton torpedoes each<ref name="Target" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 pilot<ref name="Target" />
+*2 weapons personnel<ref name="Target" />
+|skeleton=
+|passengers=1<ref name="Target" />
+|capacity=220 [[Kilogram/Legends|kilograms]]<ref name="CH35" />
+|cargohandling=
+|consumables=1 month<ref name="Target" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Assault [[Starfighter/Legends|starfighter]]<ref name="Target" />
+*[[Bomber/Legends|Bomber]]<ref name="CH35" />
+|firstuse=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="Target" />
+}}
+The '''BTS-A2 Long-Range Strike Fighter/Bomber''' ([[Alliance to Restore the Republic/Legends|Rebel Alliance]] designation '''H-Wing''') was an addition to [[Alliance to Restore the Republic/Legends|Rebel]] fighter wings manufactured by [[Koensayr Manufacturing/Legends|Koensayr Manufacturing]], a company made famous for their rugged [[BTL Y-wing starfighter/Legends|Y-Wing]] starfighters.
+
+Because of the resounding success of their previous fighter, it would only be a matter of [[Time/Legends|time]] before the Alliance military chose to include the H-Wing in their starfighter arsenal. Even so, the number that entered service was expected to remain low, as almost any two single-seated [[Starfighter/Legends|starfighters]] could be purchased for the same price as a single H-Wing.
+
+==Characteristics==
+[[File:H-Wing.jpg|thumb|left|An H-Wing starfighter in flight]]
+The H-Wing was a stable weapons platform capable of delivering a rather hard-hitting punch; only the [[A/SF-01 B-wing starfighter/Legends|B-Wing]] was more heavily armed. The fighter's primary long-range weapon was its medium [[Laser cannon/Legends|laser cannon]] which was mounted in a fully rotating dorsal turret. The weapon could only be fired from the turret's gunnery chair; no fire control for the main weapon was included in the piloting cockpit, a design flaw meaning that, if the [[Gunner/Legends|gunner]] was incapacitated, or indeed was not there, the primary weapon could not be used.
+
+===Armament===
+As with the Y-Wing, the H-Wing carried two [[Arakyd Industries/Legends|Arakyd Industries]] [[Proton torpedo/Legends|proton torpedo]] launchers.<ref name="Target" /> In contrast to the Y-Wing, however, the H-Wing boasted a magazine of six torpedoes (nearly twice that of the earlier Y-Wings). Other than that, the magazines were identical to that of the Y-Wing, making heavy ordnance standard for the two craft. This ordnance was benefited by an elaborately complex, improved fire control system which was quite necessary for the craft to excel in its primary role as a strike fighter/bomber.
+
+As well as these primary weapons, the fighter also had two light [[Ion cannon/Legends|ion cannons]] which were fire linked<ref name="Target" /> for greater effect and were mounted in the starboard nose of the fighter's twin-nose hull. These weapons had a maximum rotation and vertical pivot span of 40 degrees which allowed the second gunner to engage forward targets independent of flight control.
+
+The H-Wing was designed to survive extended combat engagements and multiple hits by using a new heavily reinforced armored hull, with the added protection provided by strong, high-energy shields. However, weapons capability and hull integrity did both come at a great cost; both maneuverability and sublight speed had been sacrificed for increased battle worthiness, creating a distinct disadvantage in the H-Wing that has an extremely small chance of outrunning a numerically superior enemy or of disengaging prior to retreating.
+
+Despite these rather obvious speed and maneuverability disadvantages, the Alliance military planners believed that it had an advantage in combat due to its full combat crew of three. Rebel [[Pilot/Legends|pilots]] of advanced, single-seat fighters often complained that they could not make full use of the craft's various systems on their own; with evasive maneuvering, operating several weapons systems, and angling shields, they were simply overtaxed. However, the H-Wing's three-man crew could provide extremely efficient use of the ship's systems.
+
+The forward cockpit contained two crew stations; primary and secondary. Piloting controls were installed only in the primary station, but shield, [[Ion cannon/Legends|ion cannon]], and torpedo fire control were all installed in both stations, giving the cockpit crew good flexibility. However, the multiple systems, as well as full [[Life support/Legends|life support]], are greatly reflected in the fighters' cost. In combat, the general arrangement was to have shield control operated by the pilot while the ion cannon and torpedo controls were handled by the weaponry officer in the secondary station.
+
+[[File:H-Wing_Layout.jpg|thumb|The layout of a H-Wing Strike Fighter]]
+
+===Design===
+Many of the components used in the Y-Wing were adapted to be used again in the H-Wing, such as an improved [[Fabritech/Legends|Fabritech]] [[ANx-y sensor package]] and Koensayr [[R440 Ion Jet Engine]]s<ref name="Target" /> (complete with their [[thrust vectral]]s), though larger engines were used in the H-Wing. Other components of the Y-wing were not used, however, such as the [[R2-series astromech droid/Legends|R2 unit]] that previously provided nav data. Instead of this, a limited [[Navigation computer/Legends|navigation computer]] similar to that on the B-Wing was used, although the H-Wing's had a higher data storage capacity.
+
+Additionally, the H-Wing did not employ ballistic [[Ejector seat/Legends|ejection seats]] as that option simply was not feasible due to space constraints left from all the other systems which were installed. It did, however, contain a cramped, spartan cabin which included a bunk with a soundproof divider which could be used on a rotational basis to provide increased comfort during long [[Hyperspace/Legends|hyperspace]] jumps.
+
+==History==
+Alliance leaders reviewed reports of the H-Wing's performance from its first encounters with [[Galactic Empire/Legends|Imperial]] fighter craft, encounters that went rather favorably for the oversized starfighter. However, its limited use proved that its greatest capabilities lay in using it as a strike and anti-shipping craft, as well as a screening fighter protecting slower transports and freighters. Some of the high-ranking leaders suggested that the H-Wing should replace the B-Wing as the Alliance's primary assault fighter. These H-Wing proponents cited that the B-Wing required high maintenance and performed poorly after suffering damage. This replacement was not likely, however, for several reasons.
+
+Firstly, many smaller, bay-equipped starships, and even some small outposts, simply did not have fighter bays capable of housing and servicing the H-Wings, which limited its usability. Additionally, the fighter severely lacked in speed, even the comparatively slow B-Wing was faster than the H-Wing.
+
+The final reason that the replacement was not likely, however, was simply economics; not only was the H-Wing a costly space vehicle, it also required a greater number of trained flight personnel than the B-Wing. While this larger flight crew did provide advantages in combat, such trained personnel were always in short supply for the Alliance. What was most likely was that the H-Wing would serve as a special engagement craft, used when its advantages would provide it its greatest combat effectiveness.
+
+The first batches of H-Wings delivered to the Alliance were purchased in small numbers. A group of rebels were to take a commercial transport to the [[Planet/Legends|planet]] they were manufactured on and take delivery of only an individual fighter. They were then to take the fighter to a small rebel outpost where new rebel volunteers were detained until background checks had been cleared.
+
+Unfortunately, when the group arrived at the outpost they discovered an Imperial frigate performing a system-wide search pattern. The rebels on the base activated a decoy [[Sensor pod/Legends|sensor pod]] emplaced on a small moon nearby, giving them some [[Time/Legends|time]] to evacuate all beings on board the single rebel transport they had available. The group was ordered to escort the transport as it attempted to jump into hyperspace.
+
+Shortly after the transport left the ship, a group of four [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]] found the station and moved to attack the transport. Luckily the group managed to hold off the TIEs for enough time to allow the transport to jump to hyperspace, and then follow them.
+
+During the Galactic Civil War, the few H-wings in action were used for escort missions and patrol missions in Rebel-held systems. Their use was limited as few facilities could maintain even one of the complex fighters.<ref name="Target" />
+
+==Behind the scenes==
+As with other [[Starfighter/Legends|starfighters]] using the -wing designations, the H-wing resembles the letter H in the [[Wikipedia:English language|English language]]. However, unlike some of the other starfighters in the -wing line, the "H-Wing" also resembles the letter "[[Herf/Legends|Herf]]," or "H" in [[Aurebesh/Legends|Aurebesh]]. The craft was originally described in the unlicensed roleplaying magazine [[Challenge 35|''Challenge'' 35]], which expanded [[West End Games]]' ''[[Star Wars]]'' RPG line.
+
+The H-wing was expanded on in [[Fantasy Flight Games]]' sourcebook [[Stay on Target (sourcebook)|''Stay on Target'']], as part of the official [[Star Wars: Age of Rebellion (roleplaying game)|''Star Wars: Age of Rebellion'']] series.
+
+==Sources==
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']] {{1stcm}}
+
+===Non-canon sources===
+*<!-- 1988-12-XX -->{{ChallengeCite|35|The H-Wing Strike Fighter}} {{Un}} {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Bomber classes]]
+[[Category:Heavy assault starfighter classes]]
+[[Category:Koensayr Manufacturing products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]

@@ -1,0 +1,104 @@
+{{Top|leg|title=''Bakura''-class destroyer}}
+{{StarshipClass
+|image=[[File:BakuraDestroyer.jpg]]
+|name=''Bakura''-class destroyer
+|designer=
+|manufacturer=[[Bakuran]] [[Shipyard/Legends|shipyards]]
+|line=[[Star Destroyer/Legends|Star Destroyers]]
+|model=''Bakura''-class destroyer
+|type=Star Destroyer
+|cost=
+|modifier=
+|sysmods=
+|length=850 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=[[Sienar Fleet Systems/Legends|SFS]] [[I-a2b solar ionization reactor/Legends|I-a2b solar ionization reactor]]
+|hyperdrive=*Class 2.0
+*Class 8.0 {{C|[[Backup hyperdrive|backup]]}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] batteries (60)
+:Fire Arc: 20 front, 20 left, 20 right
+:Crew: 1 (20), 2 (40)
+:[[Realspace/Legends|Space]] Range: 75 [[Kilometer/Legends|km]]
+:[[Atmosphere/Legends|Atmospheric]] Range: 150 km
+*[[Ion cannon/Legends|Ion cannons]] (60)
+:Fire Arc: 20 front, 15 left, 15 right, 10 back
+:Crew: 1 (15), 2 (45)
+:Space Range: 50 km
+:Atmospheric Range: 100 km
+*[[Tractor beam/Legends|Tractor beam projectors]] (10)
+:Fire Arc: 6 front, 2 left, 2 right
+:Crew: 1 (2), 4 (2), 10 (6)
+:Space Range: 30 km
+:Atmospheric Range: 60 km
+|complement=[[General Purpose Attack Fighter]]s
+|bays=
+|escapepods=
+|crew=*Crew (8,250)
+*Gunners (275)
+|skeleton=5,000
+|passengers=2,000 {{C|troops}}
+|capacity=36,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=6 [[Standard year/Legends|years]]
+|lifesupport=
+|communications=
+|othersystems=[[Hyperwave inertial momentum sustainer]]
+|availability=
+|role=*[[Destroyer/Legends|Destroyer]]
+*[[Cruiser/Legends|Cruiser]]
+*Anti-interdiction blockade runner
+|firstuse=
+|retired=
+|affiliation=[[Bakuran Defense Fleet]]
+}}
+The '''''Bakura''-class destroyer''' formed the backbone of the [[Bakuran Defense Fleet]] that was established following the repulsion of the [[Ssi-ruu]]k at the [[Invasion of Bakura]].
+
+==Characteristics==
+The ''Bakura''-class consisted of [[Interdictor/Legends|interdiction]] [[Cruiser/Legends|cruisers]] and were designed around the power reactor used by [[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyers]]. They were also capable of escaping interdiction fields.
+
+==History==
+By the time of [[18 ABY/Legends|18 ABY]], only three had been known to be built: ''[[Watchkeeper]]'', [[Defender (Bakura-class)|''Defender'']], and [[Sentinel (Bakura-class)|''Sentinel'']]. But there could have been more in the defense fleet, as it was later stated by Admiral [[Hortel Ossilege]] said that he could not leave the Bakuran System without defense during the [[Corellian Crisis]], hinting there could have been a larger force of these destroyers. These three destroyers were the only known destroyers equipped with experimental [[hyperwave inertial momentum sustainer]]s.
+
+The [[New Republic/Legends|New Republic]] convinced the [[Bakuran Senate]] to deploy the three [[Destroyer/Legends|destroyers]] on the Republic's behalf during the Corellian Crisis, due to the fact that their interdiction fields would prove necessary against the likewise-equipped [[Sacorria]]n fleet, and the fact that the [[New Republic Defense Fleet/Legends|New Republic Defense Fleet]] was largely incapacitated due to [[Black Fleet Crisis|the events of the previous year]]. Only ''Defender'' and ''Sentinel'' would return to Bakura following the subsequent [[Battle of Centerpoint Station (Corellian Crisis)|Battle of Centerpoint Station]].
+
+==Behind the scenes==
+Although this class of starship is not called "Star Destroyer" by name, it is designated as such in ''[[Cracken's Threat Dossier]]''.
+
+==Appearances==
+*''[[Assault at Selonia]]'' {{1st}}
+*''[[Showdown at Centerpoint]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+
+{{Interlang
+|de=Bakura-Klasse Zerstörer
+|es=Destructor clase Bakura
+}}
+
+[[Category:Bakuran starship classes]]
+[[Category:Destroyer classes]]
+[[Category:Star Destroyer classes]]
+
+{{RelatedCategories
+|[[Category:Bakura-class destroyers]]
+}}

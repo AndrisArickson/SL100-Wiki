@@ -1,0 +1,64 @@
+{{Top|leg}}
+{{AquaticVehicle
+|image=
+|name=BBK Repulsorsub
+|designer=
+|manufacturer=[[Ubrikkian Industries/Legends|Ubrikkian Industries]]<ref name="BL">{{GamerCite|7|Bartyn's Landing (article)}}</ref>
+|line=
+|model=BBK Repulsorsub<ref name="BL" />
+|type=[[Speeder/Legends|Speeder]]<ref name="BL" />
+|cost=100,000 [[Galactic Credit Standard/Legends|credits]] {{C|estimated}}<ref name="BL" />
+|modifier=
+|sysmods=
+|length=13.5 [[Meter/Legends|meters]]<ref name="BL" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=110 [[Kilometer per hour/Legends|km/h]]<ref name="BL" />
+|engine=[[Repulsorlift/Legends|Repulsor engines]]<ref name="BL" />
+|depth=2000 meters<ref name="BL" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="BL" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Dual [[Turbolaser/Legends|turbolaser]] cannons {{C|2 fire-linked}}<ref name="BL" />
+*[[Proton hydrotorpedo]] launchers (2)<ref name="BL" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[Pilot/Legends|pilot]]<ref name="BL" />
+*2 [[Engineer/Legends|engineers]]<ref name="BL" />
+*1 [[Navigator/Legends|navigator]]<ref name="BL" />
+*1 [[Gunner/Legends|gunner]]<ref name="BL" />
+|skeleton=
+|passengers=25<ref name="BL" />
+|capacity=33,000 [[Kilogram/Legends|kg]]<ref name="BL" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="BL" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Guther Bartyn]]<ref name="BL" />
+}}
+The '''BBK Repulsorsub''' developed by [[Ubrikkian Industries/Legends|Ubrikkian Industries]] was an aquatic and subaquatic vehicle. One example was the escape pod of the ''[[Tria Blue]]''.
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 2001-11-06 -->{{GamerCite|7|Bartyn's Landing (article)}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Submarine models]]
+[[Category:Ubrikkian Industries products]]

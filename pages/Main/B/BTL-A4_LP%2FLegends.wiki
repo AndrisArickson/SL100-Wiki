@@ -1,0 +1,106 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Y-wing_LP.jpg]]
+|name=BTL-A4 LP
+|designer=
+|manufacturer=[[Koensayr Manufacturing/Legends|Koensayr Manufacturing]]<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=[[BTL Y-wing starfighter/Legends|BTL Y-wing starfighters]]<ref name="Starships" />
+|model=BTL-A4 LP "Longprobe"<ref name="Starships" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="Starships" />
+|cost=*185,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="Starships" />
+*90,000 credits (used)<ref name="Starships" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="Starships" />
+*Backup Class 12<ref name="Starships" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="RAS2">[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]</ref>
+*[[Ion cannon/Legends|Ion cannons]] (2)<ref name="RAS2" />
+*[[Proton torpedo launcher/Legends|Proton torpedo launchers]] (2)<ref name="RAS2" />
+**8 torpedoes total<ref name="Starships" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|pilot]] (1)
+*[[Astromech droid/Legends|Astromech droid]] (1)<ref name="Starships" />
+|skeleton=
+|passengers=None<ref name="Starships" />
+|capacity=
+|cargohandling=220 [[Kilogram/Legends|kilograms]]<ref name="Starships" />
+|consumables=1 [[Standard month/Legends|month]]<ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=[[Alliance Military/Legends|Military]]<ref name="Starships" />
+|role=*Long-range reconnaissance
+*[[Bomber/Legends|Bomber]]
+|firstuse=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="RAS2" />
+}}
+The '''BTL-A4 LP''', nicknamed the '''Longprobe''', was a variant of the standard [[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]] used as a reconnaissance and [[Scout/Legends|scouting]] [[Starfighter/Legends|fighter]] by the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==History==
+[[File:YWingLongprobe-SWR.png|thumb|left|180px|A "Longprobe" in flight]]
+The ship was designed so it could better implement the longer-duration missions of the profile of the BTL Y-wing starfighter, such as scouting. As such, the second pilot for the [[BTL-S3 Y-wing starfighter/Legends|S3 variant]], as well as all on-board life and mission support equipment, were removed to allow for this. Because of the consequentially lighter frame, the ship could handle heavier payloads as a substitute for better avionics equipment or weapons-fit out and payloads. In addition, although the turret at the cockpit was retained, it has been changed to save on lightness and locked in the forward firing position.
+
+{{Ship-stub}}
+
+==Appearances==
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*{{StoryCite|story=World of Fire!|book=Star Wars Weekly 107|reprint=1}} {{1st}} {{C|as Y-wing Scout Fighter}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+
+==Sources==
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{ID|Y-wing longprobe}}
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]'' {{ID|Longprobe Y-wing Recon}}
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]] {{ID|BTL A4 Y-wing Longprobe}}
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66871&resource=features|text=Ships: Y-Wing}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]] {{1stID|BTL-A4 LP "Longprobe"}}
+*<!-- 2011-09-13 -->{{DB|starship|ywingstarfighter|Y-wing starfighter}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|Y-wing Longprobe}}
+
+{{Interlang
+|de=BTL-A4 Y-Flügel (FA) Fernaufklärer#legends
+}}
+
+[[Category:BTL Y-wing starfighter models]]
+[[Category:Scout starship classes]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]

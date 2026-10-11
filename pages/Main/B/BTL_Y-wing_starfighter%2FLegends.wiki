@@ -1,0 +1,636 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Y-wing_2.png]]
+|name=BTL Y-wing starfighter
+|designer=
+|manufacturer=[[Koensayr Manufacturing/Legends|Koensayr Manufacturing]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+|line=
+|model=BTL Y-wing starfighter
+|type=Assault [[Starfighter/Legends|starfighter]]
+|cost=*134,999 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+*65,000 credits (used)<ref name="FF" />
+|modifier=
+|sysmods=
+|length=23.4 [[Meter/Legends|meters]]<ref name="SWE Y-wing fighter">{{SWE|technology|ywing|Y-wing starfighter}}</ref>
+|width=16 meters<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|height=
+|mass=
+|max accel=*2,700 G<ref name="BftG">''[[Star Wars: Battles for the Galaxy]]''</ref>
+*11 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=80 MGLT<ref name="XWA" />
+|max speed=1000 [[Kilometer per hour/Legends|km/h]] (higher speeds possible with deflector shields on)<ref name="BtM" />
+|maneuverability=59 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=Koensayr [[R200 Ion Jet engine|R200 ion jet engines]] (2)<ref name="CCS" /> (rated 250 [[KTU]])
+|hyperdrive=Class 1.0<ref name="BtM" />
+|hdrange=
+|hdsystem=Koensayr [[R300-H hyperdrive motivator/Legends|R300-H hyperdrive motivator]]<ref name="BtM" />
+|poweroutput=
+|power=[[Novaldex/Legends|Novaldex]] [[Power generator/Legends|power generator]]; [[Thiodyne/Legends|Thiodyne]] [[03-R cryogenic power cell/Legends|03-R cryogenic power cells]] and [[ionization reactor]]<ref name="SC">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref>
+|shield gen=[[Chempat Engineered Defenses|Chempat]] [[Deflector shield/Legends|shields]]<ref name="SC" /> (rated 75 [[SBD/Legends|SBD]])<ref name="BtM" /><ref name="XWA" />
+|hull=[[Titanium/Legends|Titanium]]-reinforced [[Alusteel/Legends|Alusteel]] alloy<ref name="SC" /> (rated 40 [[RU/Legends|RU]])<ref name="XWA" />
+|sensor=[[Fabritech/Legends|Fabritech]] [[ANs-5d "lock track" full-spectrum transceiver/Legends|ANs-5d full-spectrum transceiver]] with [[PA-9r long-range phased tachyon detection array/Legends|PA-9r long range phased tachyon detection array]] and [[PG-7u short-range primary threat analysis grid/Legends|PG-7u short range primary threat analysis grid]]<ref name="SC" />
+|target=Fabritech [[ANc 2.7 tracking computer/Legends|ANc 2.7 tracking computer]] with [[SI 5g7 "Quickscan" vector imaging system/Legends|SI 5g7 "Quickscan" imaging system]]<ref name="SC" />
+|navigation=
+|avionics=[[Sublight Products Corporation|Subpro]] [[NH-7 flight control avionics package/Legends|NH-7 flight control avionics package]]<ref name="SC" />
+|maincomp=
+|countermeasures=
+|armament=*[[Taim & Bak/Legends|Taim & Bak]] [[IX4 laser cannon/Legends|IX4]] or [[KX5 laser cannon/Legends|KX5 laser cannons]]<ref name="SC" /> (2)<ref name="BtM" />
+*Light [[ArMek/Legends|ArMek]] turreted [[SW-4 ion cannon/Legends|SW-4 ion cannons]] (2)<ref name="CCS" />
+*[[Arakyd Industries/Legends|Arakyd]] [[Flex Tube proton torpedo launcher/Legends|Flex Tube proton torpedo launchers]] (2)<ref name="BtM" />
+**4 torpedoes each<ref name="CCS" />
+*[[Proton bomb/Legends|Proton bombs]]<ref name="Rogue II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="CCS" />
+*Co-pilot/[[Gunner/Legends|gunner]] (1; BTL-S3 included Co-Pilot)<ref name="CCS" />
+*[[Astromech droid/Legends|Astromech droid]] (1)<ref name="CCS" />
+|skeleton=
+|passengers=3; only certain models<ref name="SOTG07">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|capacity=110 [[Kilogram/Legends|kilograms]]<ref name="BtM" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]
+|lifesupport=
+|communications=
+|othersystems=*Koensayr ballistic [[Ejector seat/Legends|ejection seat]]
+*Detachable cockpit
+|availability=
+|role=*Starfighter
+*[[Bomber/Legends|Bomber]]<ref name="SWE Y-wing fighter" />
+*[[Starfighter combat/Legends|Dogfighting]]<ref name="SWE Y-wing fighter" />
+*Escort
+*Scout
+*Courier
+*[[Shuttle/Legends|Shuttle]]
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="SWE Y-wing fighter" />
+*[[Kota's Militia]]<ref name="The Force Unleashed">''[[Star Wars: The Force Unleashed]]''</ref>
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+*[[Alliance of Free Planets]]
+*[[New Republic/Legends|New Republic]]
+*[[Galactic Federation of Free Alliances]]
+*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+*[[Pirate/Legends|Pirates]]
+*[[Mercenary/Legends|Mercenaries]]<ref name="FFGXW-HG">{{FFGXW|set=Most Wanted Expansion Pack|cardname=Hired Gun}}</ref>
+*[[The Syndicate]]<ref name="FFGXW-ST">{{FFGXW|set=Most Wanted Expansion Pack|cardname=Syndicate Thug}}</ref>
+*[[Airam Clans]]<ref name="XWvTF:BoP">''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''</ref>
+}}
+{{Quote|We're using Y-wings because of their greater firepower. But they move like a sleepy Hutt, so watch it.|[[Luke Skywalker/Legends|Luke Skywalker]], during the [[Assault on Kile II]]|<ref name="Star Wars: Rogue Squadron (video game)">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref>}}
+The '''BTL Y-wing starfighter''' was a [[Starfighter/Legends|fighter]]-[[Bomber/Legends|bomber]] built by [[Koensayr Manufacturing/Legends|Koensayr Manufacturing]]. First used during the [[Clone Wars/Legends|Clone Wars]], then throughout the [[Galactic Civil War/Legends|Galactic Civil War]], it was a mainstay of the [[Alliance to Restore the Republic/Legends|Alliance]] [[Alliance Starfighter Corps/Legends|Starfighter Corps]]. It was often used as an assault [[Bomber/Legends|bomber]] to attack enemy [[Capital ship/Legends|capital ships]] directly in conjunction with the later [[A/SF-01 B-wing starfighter/Legends|B-wing starfighters]].
+
+==Design==
+{{Quote|They're the workhorses of this outfit, I can tell you that.|[[Tiree/Legends|Tiree]]|<ref name="Star Wars Episode IV: A New Hope (novel)">[[Star Wars: A New Hope (novelization)|''Star Wars Episode IV: A New Hope'' novel]]</ref>}}
+[[File:Ywing_egvv.jpg|thumb|left|180px|Y-wing [[:Category:Technical drawing images|schematics]]]]
+
+Affectionately known as a "wishbone" to Rebel Alliance and [[New Republic/Legends|New Republic]] [[Pilot/Legends|pilots]], the Y-wing [[Starfighter/Legends|starfighter]] was deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry included two [[Laser cannon/Legends|laser cannons]], two [[Ion cannon/Legends|ion cannons]], and two [[Proton torpedo/Legends|proton torpedo]] launchers. An [[Astromech droid/Legends|astromech droid]], such as an [[R2-series astromech droid/Legends|R2 unit]], could be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.
+
+The Y-wing was a resilient, well-[[Deflector shield/Legends|shielded]] craft, but was slow and ungainly compared to other Alliance fighters. Its deficiencies were partly compensated for by the heavy proton torpedo load it could carry, and its ability to paralyze craft with ion cannon fire without destroying them, a unique ability until the [[A/SF-01 B-wing starfighter/Legends|B-wing starfighter]] was introduced after the [[Battle of Yavin/Legends|Battle of Yavin]]. In addition to the Rebel Alliance, many [[Planet/Legends|planetary]] defense forces, [[Mercenary/Legends|mercenaries]], and [[Pirate/Legends|pirates]] fielded the craft.
+
+The design had many flaws and required constant maintenance. The Y-wing was originally entirely sheathed in an aerodynamic, elegant fuselage, but its high-maintenance nature led to many aggravated maintenance crews getting fed up with constantly having to remove the superficial [[Hull/Legends|hull]] plating and disposing of it altogether. Due to this, many Y-wings had no hull plating (except on the cockpit), exposing the internals of the main hull. Pilots found that this lightened the frame and kept components cooler, noticeably boosting performance.<ref name="Essential Guide to Warfare">''[[The Essential Guide to Warfare]]''</ref>
+
+In at least one Y-wing, special features were included which assisted in the event of crashing on the surface of a planet. Inflatable balloons were deployed which kept the ship afloat in case of a water landing, and the cockpit could be ejected from the rest of the ship and driven as its own vehicle. It is unknown whether this was a standard feature or a customization.<ref name="The Star Wars Holiday Special animated segment">''[[The Story of the Faithful Wookiee]]''</ref>
+
+==Usage==
+{{Quote|They've always gotten me home in one piece.|[[Colonel/Legends|Colonel]] [[Horton Salm/Legends|Horton Salm]]|<ref name="CCG Salm">{{CCG|set=Death Star II Limited|cardname=Colonel Salm}}</ref>}}
+[[File:Original_Y-wing.jpg|thumb|left|280px|A relatively unscathed Y-wing with its hull plates still in place]]
+Despite its shortcomings in speed and maneuverability compared to space superiority fighters such as the [[T-65 X-wing starfighter/Legends|X-wing]] (or especially compared to interceptors like the [[RZ-1 A-wing interceptor/Legends|A-wing]]), the Y-wing was an extremely durable craft, with heavier armor and shielding making it a favorite among some Alliance pilots during the [[Galactic Civil War/Legends|Galactic Civil War]]. The Y-wing also had a larger [[Torpedo/Legends|torpedo]] magazine.
+
+The Y-wing was not a sluggish fighter overall, as its speed and agility exceeded that of its intended replacement, the B-wing, but its lack of mobility meant that the Y-wing was not effective as a space superiority fighter. When properly used by such commanders as [[General/Legends|General]] [[Grisserno]] and [[Horton Salm/Legends|Horton Salm]], Y-wings would accelerate towards their [[Capital ship/Legends|capital ship]] targets, relying on their gunners and wingmates in X-wing starfighters and A-wing interceptors to distract enemy fighters and the enemy ships' [[Gunner/Legends|gunners]]. This would allow the Y-wings and B-wings to focus their fire on capital ships.<ref name="Essential Guide to Warfare" /> This tactic was similar to the [[A-wing Slash/Legends|A-wing Slash]], which involved solely X-wings and A-wings.
+
+==Models==
+There were three common designs of Y-wing, one used during the [[Clone Wars/Legends|Clone Wars]] and two during the height of the Galactic Civil War, as well as six less common variants.
+
+===BTL-B Y-wing===
+{{Main|BTL-B Y-wing starfighter}}
+[[File:BTL-BYwing-SWE.png|thumb|left|180px|BTL-B Y-wing]]
+The first known model was the '''BTL-B''', which served the [[Grand Army of the Republic/Legends|Grand Army]] of the [[Galactic Republic/Legends|Republic]] during the Clone Wars. Unlike its successor designs, the BTL-B model had a full [[Hull/Legends|hull]] covering on both the primary fuselage and engines. A bubble-turret, which swivelled 360 degrees, provided a clear view for the [[Gunner/Legends|gunner]] of the surrounding space. The ship was designed to operate mainly as a bomber and the Republic used them well in this capacity.<ref name="SW:TCWtv">''[[Star Wars: The Clone Wars]]''</ref> On later models, this bubble feature was replaced with a turret operated from within the main cockpit.<ref name="CCS" />
+
+===BTL-S3 Y-wing===
+{{Main|BTL-S3 Y-wing starfighter/Legends}}
+
+<div style="float:right">[[File:Btl-s3.jpg|thumb|left|180px|BTL-S3 Y-wing]]</div>
+
+The '''BTL-S3''' was a two-man strike fighter, and was the most common Y-wing configuration.<ref name="The Essential Guide to Vehicles and Vessels">''[[The Essential Guide to Vehicles and Vessels]]''</ref> The weapons systems officer typically operated the ion cannon turret when needed.<ref name="Star Wars Sourcebook">''[[The Star Wars Sourcebook]]''</ref>
+
+[[Luke Skywalker/Legends|Luke Skywalker]] used this variant on his mission to [[Panna/Legends|Panna]] in [[0 ABY/Legends|0 ABY]],<ref name="Star Wars Holiday Special">''[[The Star Wars Holiday Special]]''</ref> as did [[Leia Organa Solo/Legends|Leia Organa]] and [[C-3PO/Legends|C-3PO]] on their journey to the [[Circarpous system/Legends|Circarpous system]].<ref name="Splinter of the Mind's Eye">''[[Splinter of the Mind's Eye]]''</ref>
+
+Many Y-wings of this variant were modified to become the '''[[BTL-S3B Y-wing starfighter|S3B]]''' variant, with defensive rapid-fire blaster turrets replacing the ion cannon turret,<ref name="Essential Guide to Warfare" /> and [[particle cannon]]s replacing the dual laser cannons on the nose.<ref name="Star Wars: Battlefront II">''[[Star Wars: Battlefront II]]''</ref> These Y-wings were used as heavy [[Capital ship/Legends|capital ship]] destroyers, and were eventually phased out by the new B-wing starfighters.<ref name="Essential Guide to Warfare" />
+
+===BTL-A4 Y-wing===
+{{Main|BTL-A4 Y-wing starfighter/Legends}}
+
+[[File:Ywing.jpg|thumb|left|180px|BTL-A4 Y-wing]]
+
+The BTL-A4 was a one-man version of the S3, which removed the gunner position and locked the overhead ion cannon in a forward-facing position. Shield strength was also reduced to boost engine speed. It was commonly used by pirate, mercenary, and private defense forces, and therefore was also used by the early [[Alliance to Restore the Republic/Legends|Rebel Alliance]] as the primary starfighter for bombing and disabling roles. However, the lack of a gunner and reduced shields typically proved a liability and made the A4 unpopular among pilots. Notably, only one A4 fighter from the Alliance's [[Gold Squadron (Rebel Alliance)/Legends|Gold Squadron]] survived the attack on the [[DS-1 Orbital Battle Station/Legends|Death Star]] at the Battle of Yavin.<ref name="Essential Guide to Warfare" />
+
+As the BTL-S3 became the primary Y-wing variant of the Rebel forces, the A4 was still kept in many units as a supplementary craft. However, [[Red Squadron (Rebel Alliance)/Legends|Red]] and [[Gold Squadron (Rebel Alliance)/Legends|Gold Squadrons]] favored<ref name="X-W">[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]</ref> the A4 variant of the Y-wing and used it with distinction in several climactic battles, such as the Battle of Yavin, the capture of the [[Death Star II/Legends|Death Star II]] [[Death Star II plans|plans]] from the Imperial freighter ''[[Suprosa]]'',<ref name="Shadows of the Empire (novel)">[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]</ref><ref name="Star Wars: X-Wing Alliance">''[[Star Wars: X-Wing Alliance]]''</ref> and the subsequent [[Battle of Endor/Legends|Battle of Endor]].
+
+===BTL-A4 Y-wing "LongProbe"===
+{{Main|BTL-A4 LP "Longprobe"}}
+<div style="float:right">[[File:Y-wing_LP.jpg|thumb|left|180px|A BTL-A4 Y-wing LongProbe]]</div>
+An additional (though less common) BTL-A4 variant known as the "'''LongProbe'''," designated '''BTL-A4 (LP)''', was equipped with a [[Navigation computer/Legends|nav computer]], backup hyperdrive, advanced scanners, and an extended fuel supply in place of the weapons systems officer.<ref name="SOTG07" /> While this was not enough to make it into a true scout craft, its heavy armament gave it a better chance of survival and allowed it to occasionally cause damage to the targets it was scouting.<ref name="SOTG07" /> The LongProbe was used primarily for long-range scouting missions.<ref name="Rebel Alliance Sourcebook">''[[The Rebel Alliance Sourcebook]]''</ref> On such missions, LongProbes operated in recon teams known as LongProbe Y-wing Recon Teams. One such team was sent to [[Alashan]] to check a Rebel [[Archaeology/Legends|archeological]] dig that failed to report back.<ref name="World of Fire!">{{StoryCite|story=World of Fire!|book=Star Wars Weekly 107}}</ref> In contrast with most other Y-wings, this variant was considered too valuable to remove from active duty by the New Republic.<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+
+===BTL-S3 Courier variant===
+[[File:YWingCourier.png|thumb|left|180px|BTL-S3 Y-wing Courier]]
+[[Alliance Intelligence/Legends|Alliance Intelligence]] utilized specially modified Y-wings for long-range courier duty. This variant of the BTL-S3 had no ion cannons (which were removed for baggage space), a larger main cockpit area able to carry up to five people, and a special canopy split down the middle for rapid embarking or disembarking of a passenger during brief landings. This canopy also allowed a passenger to bail out at high altitude and paraglide to their destination. The customization was rare enough that no special designation was created for these modified Y-wings.<ref name="SOTG07" /> Some of the last Rebel soldiers to [[Battle of Hoth/Legends|evacuate]] [[Hoth/Legends|Hoth]] used Y-wings of this type.<ref name="Marvel Star Wars #78">[[Star Wars (1977) 78|''Star Wars'' (1977) 78]]</ref><ref name="Star Wars: Visionaries - Entrenched">{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}</ref> The variant was used by Princess Leia and Luke Skywalker on missions to [[Velmor/Legends|Velmor]] and [[Ventooine/Legends|Ventooine]].<ref name="Marvel Star Wars #49">[[Star Wars (1977) 49|''Star Wars'' (1977) 49]]</ref> A Y-wing modified similarly by [[Rendili StarDrive/Legends|Rendili StarDrive]] was used by Skywalker while he was working for the [[Senate Planetary Intelligence Network]] and helping the [[Adventures of a Jedi Prince|Jedi Prince]] [[Ken]].<ref name="Prophets of the Dark Side">[[Prophets of the Dark Side (novel)|''Prophets of the Dark Side'']]</ref>
+
+===Light Y-wing===
+The [[Light Y-wing]] was a light [[Bomber/Legends|bomber]], which lacked the support pylons on the engine.<ref name="SW:GB">''[[Star Wars: Galactic Battlegrounds]]''</ref>
+
+===Heavy Y-wing===
+The [[Heavy Y-wing]] was a bomber with heavier ordnance and four engine pods.<ref name="SW:GB" />
+
+===Y-Wing Scout Bomber===
+The [[Y-wing scout bomber/Legends|Y-wing Scout Bomber]] was a variant developed and deployed during the Clone Wars.<ref name="Star Wars: The Clone Wars toy line">[[Star Wars: The Clone Wars (toy line)|''Star Wars: The Clone Wars'' toy line]]</ref>
+
+==History==
+[[File:Btlbywing.png|thumb|right|250px|An early Y-wing (with [[Venator-class Star Destroyer/Legends|''Venator''-class Star Destroyers]] in the background) in use by the [[Galactic Republic/Legends|Galactic Republic]] during the [[Clone Wars/Legends|Clone Wars]]]]
+Koensayr Manufacturing designed the Y-wing for use by the Galactic Republic in the Clone Wars, and although the BTL-B model saw combat, as flown by [[Anakin Skywalker/Legends|Anakin Skywalker]] and a group of clone troopers to disable the [[Malevolence/Legends|''Malevolence'']],<ref name="SW:TCWtv" /> the more commonly known BTL-S3 came later. The Y-wing also served during the [[Battle of Ryloth/Legends|Battle of Ryloth]], in the [[Battle of Kamino/Legends|Battle of Kamino]] to stop [[Confederacy of Independent Systems/Legends|Separatist]] frigates, and at the [[Battle of Malastare/Legends|Battle of Malastare]] to help secure the [[Electro-proton bomb/Legends|electro-proton bomb]] by [[Vulture-class starfighter/Legends|Vulture Droids]].
+
+When the Galactic Empire declined to buy the design, Koensayr began selling to various parties, and Y-wings found their way into pirate and mercenary forces; thus the fighter ended up with Rebel groups early in the Galactic Civil War.<ref name="SOTG07" /> BTL-S3 Y-wings were in service at least as early as [[18 BBY/Legends|18 BBY]], and it was a critical vessel in the Rebellion's early days, bearing the brunt of all of its early space battles with the Empire. The Rebels lost more Y-wings in the Galactic Civil War than any other fighter, due to the simple fact that they flew more Y-wings than any other fighter.
+
+[[File:Ywing_targeting_comp.png|thumb|left|200px|The [[Targeting computer/Legends|targeting computer]] on a Y-wing]]
+Even after the introduction of the X-wing, which largely succeeded it in most roles, it continued to serve as an important part of the Alliance arsenal. The Y-wing was best suited for heavy assault missions due to its larger warhead payload and stronger hull and shields, while the X-wing and A-wing were more focused on dealing with enemy starfighters.
+
+It was also invaluable for disabling craft since it was for a time the only predominant Alliance starfighter with ion cannons. The more heavily armed and more advanced B-wing was supposed to supplant the Y-wing for such assault and capture missions. However, the Y-wing still retained an edge over the B-wing in armor. As the Y-wing was a proven design and easier to pilot than the B-wing, which was available in limited numbers, the Y-wing continued to play a role as late as the Battle of Endor.
+
+By the time of [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn's]] [[Thrawn campaign|campaign]] against the [[New Republic/Legends|New Republic]], Y-wings were relegated to planetary defense duties, leaving attack missions to X-wings, A-wings, and B-wings. Their age made them more difficult to repair, and many expected them to leave service as newer fighters came into production.
+
+[[File:Ywing_SOCcover.jpg|thumb|right|200px|A group of Y-wings over [[Corellia/Legends|Corellia]]]]
+
+One exception to this general demotion of Y-wings from active duty was the BTL-A4 "Longprobe" scout, which filled a vital niche in the reconnaissance role. Although partially replaced by the [[T-65BR X-wing reconnaissance starfighter|T-65BR X-wing]] variant, these fighters were considered too valuable to withdraw. Instead, they were upgraded, extending their usefulness until the final years of the long conflict with the Empire, if not beyond.<ref name="CTD" />
+
+Additionally, stubborn old Y-wings, in varying states of repair, were still found throughout the galaxy long after the Galactic Civil War. During the [[Yuuzhan Vong War]], the [[Fian/Legends|Fia]] of the [[Galantos Guard]] employed Y-wings in defense of their homeworld, though pilots of the [[Galactic Federation of Free Alliances|Galactic Alliance]] referred to the starfighters as "old" and "clumsy."<ref name="NJO FH1 R">''[[The New Jedi Order: Force Heretic I: Remnant]]''</ref> Other Y-wings found their way into private ownership and continued to fly during the [[Second Galactic Civil War]].<ref name="Betrayal">''[[Legacy of the Force: Betrayal]]''</ref><ref name="Exile">''[[Legacy of the Force: Exile]]''</ref> In [[44 ABY]], an antique Y-wing was docked at [[Skifter Station|Skifter]] [[Space station/Legends|space station]] [[Orbit/Legends|orbiting]] [[Kuratooine]].<ref name="X:MK">''[[X-Wing: Mercy Kill]]''</ref>
+
+Famous Y-wing pilots included [[Jon Vander/Legends|Jon Vander]], who led [[Gold Squadron (Rebel Alliance)/Legends|Gold Squadron]] during the Battle of Yavin; [[Keyan Farlander/Legends|Keyan Farlander]], the only surviving member from Gold Squadron in the attack; [[Davish Krail/Legends|Davish Krail]], who had flown them for five years; and [[Horton Salm/Legends|Horton Salm]], one of the New Republic's foremost Y-wing pilots. Salm led the Alliance's [[Gray Squadron (Rebel Alliance)/Legends|Gray Squadron]] at the Battle of Endor, surviving the run through the second Death Star's superstructure, later leading [[Aggressor Wing]] through the [[Battle of Brentaal IV (Galactic Civil War)|Battle of Brentaal IV]], which saw him promoted to the rank of [[General/Legends|general]]; he continued to command the Aggressors during the [[evacuation of Ciutric]].
+
+==Behind the scenes==
+''[[Star Wars: Incredible Cross-Sections]]'' erroneously refers to the BTL-A4 Y-wing starfighter as the "BLT-A4 Y-wing." This was corrected in ''[[Star Wars: Complete Cross-Sections]]''.
+
+Because of the conflict in continuity between the Y-wing's appearance in [[Star Wars: The Clone Wars|the ''Clone Wars'' series]] and its history prior to this series, Jason Fry attempted to combine the different sources in the Y-wing's sensor profile in ''The Essential Guide to Warfare''.<ref name="JLT10">{{Tumblr|subdomain=jasonfry|url=post/24614452839/eg-to-warfare-endnotes-pt-10|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 10}}</ref>
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Y-wing.jpg|thumb|An old Y-wing stationed on [[Corellia/Legends|Corellia]]]]
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: The Clone Wars: Lightsaber Duels]]''
+*''[[The Clone Wars: Procedure]]''
+*{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}}
+*''[[The Clone Wars: The Wind Raiders of Taloraan]]''
+*''[[The Clone Wars: Shipyards of Doom]]''
+*[[The Clone Wars 9|''The Clone Wars'' 9]]
+*{{TCW|Storm Over Ryloth}}
+*{{TCW|Innocents of Ryloth}} {{Flash}}
+*{{TCW|Liberty on Ryloth}}
+*''[[Star Wars: The Clone Wars: Republic Heroes]]''
+*''[[The Clone Wars: The Colossus of Destiny]]''
+*[[The Clone Wars 12|''The Clone Wars'' 12]]
+*{{TCW|Landing at Point Rain}}
+*{{TCW|Legacy of Terror}} {{Flash}}
+*{{TCW|Grievous Intrigue}}
+*{{TCW|Senate Murders}} {{Flash}}
+*{{TCW|Nomad Droids}}
+*{{TCW|Darkness on Umbara}}
+*{{TCW|Plan of Dissent}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*{{TCW|Point of No Return (The Clone Wars)}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|The Wrong Jedi}}
+*''[[The Hutt Gambit]]''
+*{{Tales|2|Routine}}
+*{{TFU|version=PS2, PSP and Wii|notes=Wreckage}}
+*''[[Rebel Dawn]]'' {{Mo}}
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+*{{JournalCite|11|The Ando Project}}
+*''[[Rookies: No Turning Back]]''
+*{{WEGCite|story=Rebel Breakout|book=Star Wars: The Roleplaying Game (first edition)}}
+*[[Star Wars: The Force Unleashed II (novelization)|''Star Wars: The Force Unleashed II'' novelization]] {{Ab|Star Wars: The Force Unleashed II (audiobook)}}
+*[[Empire 9|''Empire'' 9]]
+*[[Empire 11|''Empire'' 11]] {{Flash}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*[[Empire 13|''Empire'' 13]]
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars Journal: The Fight for Justice]]''
+*{{Film|IV}}
+*[[Star Wars: A New Hope (novelization)|''Star Wars: A New Hope'' novelization]] {{Ab|Star Wars: A New Hope (unabridged audiobook)}} {{1st|in book}}
+*''[[Star Wars: A Storybook]]''
+*[[Empire 12|''Empire'' 12]]
+*[[Star Wars (1977) 5|''Star Wars'' (1977) 5]] {{Reprint|Star Wars (1977) 5}}
+*{{SWRadio|Force and Counterforce}}
+*[[Empire 15|''Empire'' 15]]
+*{{SWArchive|url=play/online-games/trench-run|text=''Star Wars: Trench Run''|int=Star Wars: Trench Run}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Star Wars Missions 2: Escape from Thyferra]]''
+*''[[Star Wars Missions 3: Attack on Delrakkin]]''
+*''[[Star Wars Missions 4: Destroy the Liquidator]]''
+*''[[Rebel Force: Firefight]]''
+*{{WEGCite|story=Preparing for War|book=The Far Orbit Project}}
+*{{WEGCite|story=The Hijacking of Shipment 1037|book=The Far Orbit Project}}
+*[[Star Wars (1977) 26|''Star Wars'' (1977) 26]] {{Reprint|Star Wars (1977) 26}}
+*[[Vader's Quest 1|''Vader's Quest'' 1]]
+*{{StoryCite|story=World of Fire!|book=Star Wars Weekly 107|reprint=1}}
+*{{StoryCite|story=The Word for World is Death!|book=Star Wars Weekly 110|reprint=1}}
+*"[[The Night Beast]]" {{Reprint|The Night Beast}}
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*{{Kids1997Cite|issue1=11|issue2=15|story=Imperial Spy}}
+*{{Kids1997Cite|issue1=16|issue2=20|story=Death Star Pirates}}
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Empire 20|''Empire'' 20]]
+*[[Empire 21|''Empire'' 21]]
+*[[Empire 22|''Empire'' 22]]
+*[[Empire 40|''Empire'' 40]]
+*''[[The Story of the Faithful Wookiee]]''
+*[[Rebellion 3|''Rebellion'' 3]]
+*[[Rebellion 4|''Rebellion'' 4]]
+*[[Rebellion 5|''Rebellion'' 5]]
+*[[Rebellion 15|''Rebellion'' 15]]
+*''[[Introductory Adventure Game]]''
+*[[Black Ice (adventure)|''Black Ice'']]
+*''[[The Isis Coordinates]]''
+*{{FFG|story=Debts to Pay|book=Star Wars: Edge of the Empire Game Master's Kit|text=''Star Wars'': Edge of the Empire Game Master's Kit}} {{Po}}
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}}
+*''[[Onslaught at Arda I]]''
+*''[[Rescue at Glare Peak]]''
+*{{WEGCite|story=Showdown (The Bissillirus Campaign)|book=Star Wars Gamemaster Kit|reprint=1}}
+*{{WEGCite|story=Into the Heat of Battle|book=Instant Adventures}}
+*{{WEGCite|story=Meltdown (adventure)|book=Instant Adventures}}
+*{{WEGCite|story=Operation: Shadowstrike (adventure)|book=Instant Adventures}}
+*{{WEGCite|story=The Treasure of Celis Mott|book=Instant Adventures}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*''[[The Game Chambers of Questal]]'' {{Reprint|The Game Chambers of Questal}}
+*''[[Splinter of the Mind's Eye]]''
+*[[Splinter of the Mind's Eye 1|''Splinter of the Mind's Eye'' 1]]
+*{{JournalCite|14|Crimson Bounty}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*''[[A Valentine Story]]''
+*{{Film|V}}
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 49|''Star Wars'' (1977) 49]] {{Reprint|Star Wars (1977) 49}}
+*{{WEGCite|story=Droids Can't Fly|book=Shadows of the Empire Sourcebook}}
+*''[[The Further Adventures: Planet of the Hoojibs]]'' {{Po}}
+*[[Star Wars Annual (1977) 2|''Star Wars Annual'' (1977) 2]] {{Reprint|Star Wars Annual (1977) 2}}
+*[[Star Wars (1977) 61|''Star Wars'' (1977) 61]] {{Reprint|Star Wars (1977) 61}}
+*[[Star Wars (1977) 62|''Star Wars'' (1977) 62]] {{Reprint|Star Wars (1977) 62}}
+*[[Star Wars (1977) 65|''Star Wars'' (1977) 65]] {{Reprint|Star Wars (1977) 65}}
+*{{FFG|story=Phantoms in the Dark|book=Strongholds of Resistance}}
+*{{WEGCite|story=The Bacta Heist|book=Tapani Sector Instant Adventures}}
+*''[[Star Wars Adventures: The Will of Darth Vader]]''
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*{{WEGCite|story=Garbage Run|book=Shadows of the Empire Planets Guide}} {{Mo}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*{{GalaxyCite|7|Assignment: Decoy}}
+*[[Star Wars: Shadows of the Empire Ertl minicomic|''Star Wars: Shadows of the Empire'' Ertl minicomic]]
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Star Wars (1977) 78|''Star Wars'' (1977) 78]] {{Reprint|Star Wars (1977) 78}}
+*{{JournalCite|2|A World to Conquer}} {{Mo}}
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*''[[Hard Merchandise]]''
+*{{RJRadio|Blood of a Jedi}}
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]]
+*[[X-Wing: Rogue Leader 3|''X-Wing: Rogue Leader'' 3]]
+*[[Star Wars (1977) 93|''Star Wars'' (1977) 93]] {{Reprint|Star Wars (1977) 93}}
+*{{Tales|23|Lucky (comic story)}}
+*[[Star Tours (real-world)|''Star Tours'']]
+*{{Tales|5|Lando's Commandos: On Eagles' Wings}}
+*{{JournalCite|8|Black Curs Blues}}
+*{{JournalCite|5|One of a Kind (short story)|reprint=1}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 23|''X-Wing Rogue Squadron'' 23]]
+*[[X-Wing Rogue Squadron 24|''X-Wing Rogue Squadron'' 24]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*[[X-Wing Rogue Squadron 26|''X-Wing Rogue Squadron'' 26]]
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]]
+*[[X-Wing Rogue Squadron 29|''X-Wing Rogue Squadron'' 29]]
+*[[X-Wing Rogue Squadron 30|''X-Wing Rogue Squadron'' 30]]
+*[[X-Wing Rogue Squadron 31|''X-Wing Rogue Squadron'' 31]]
+*[[X-Wing Rogue Squadron 33|''X-Wing Rogue Squadron'' 33]]
+*[[X-Wing Rogue Squadron 35|''X-Wing Rogue Squadron'' 35]]
+*''[[The Glove of Darth Vader]]'' {{Mo}}
+*''[[The Lost City of the Jedi]]''
+*''[[Zorba the Hutt's Revenge]]''
+*''[[Mission from Mount Yoda]]''
+*[[Prophets of the Dark Side (novel)|''Prophets of the Dark Side'']]
+*{{WEGCite|story=Freedom Strike Seltos (adventure)|book=Twin Stars of Kira (sourcebook)}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=Wildfire (adventure)|book=The Kathol Outback|reprint=yes}} {{Mo}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[X-Wing: Isard's Revenge]]''
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}}
+*[[Dark Empire 1|''Dark Empire'' 1]] {{Wreck}}
+*[[Crimson Empire II: Council of Blood 5|''Crimson Empire II: Council of Blood'' 5]]
+*''[[Jedi Search]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*[[Children of the Jedi (novel)|''Children of the Jedi'']]
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[X-Wing: Starfighters of Adumar]]'' {{Mo}}
+*{{JournalCite|14|Murder in Slushtime|reprint=1}} {{C|"Callista Ming" capsule}} {{Mo}}
+*''[[The New Rebellion]]''
+*[[Union 2|''Union'' 2]]
+*[[Union 4|''Union'' 4]]
+*''[[Young Jedi Knights: Darkest Knight]]''
+*''[[Young Jedi Knights: Delusions of Grandeur]]''
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]''
+*''[[The New Jedi Order: Recovery]]''
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*''[[The New Jedi Order: Force Heretic III: Reunion]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Fate of the Jedi: Backlash]]'' {{Ab|Fate of the Jedi: Backlash (audiobook)}} {{Mo}}
+*''[[X-Wing: Mercy Kill]]'' {{Ab|X-Wing: Mercy Kill (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-05-02 -->[[Star Wars Infinities: A New Hope 1|''Star Wars Infinities: A New Hope'' 1]]
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2001-12-12 -->{{Tales|10|A Wookiee Scorned!}}
+*<!-- 2001-12-12 -->{{Tales|10|Free Memory}}
+*<!-- 2005-12-XX -->"[[Perfect Evil]]"
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2009-08-28 -->[[LEGO Star Wars: The Quest for R2-D2 (film)|''LEGO Star Wars: The Quest for R2-D2'' film]]
+*<!-- 2011-03-22 -->''[[LEGO Star Wars III: The Clone Wars]]''
+
+==Sources==
+{{ScrollBox|
+{{Mediacat|imagecat=Images of BTL Y-wing starfighters}}
+*<!-- 1983-XX-XX -->{{KennerCite|set=Star Wars: Return of the Jedi (toy line)|pack=Y-Wing Fighter|link=vintYwing.asp}}
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1984-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (1984)|''Star Wars: Return of the Jedi Coloring Book'' (1984)]] {{Po}}
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-01-XX -->{{LucasFanClubCite|2|Star Wars: The Role-Playing Game|''Star Wars: The Role-Playing Game''}} {{Po}}
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[Galaxy Guide 1: A New Hope]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-04-XX -->''[[Galaxy Guide 2: Yavin and Bespin]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]''
+*<!-- 1992-06-XX -->''[[Planets of the Galaxy, Volume Two]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]'' {{Po}}
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-09-XX -->[[Star Wars: The National Public Radio Dramatization|''Star Wars'': The National Public Radio Dramatization]]
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-02-XX -->{{JournalCite|5|Stand and Deliver}}
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Dutch}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Gold 1}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Gold 5}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Han Solo}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Pops}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Yavin 4: Docking Bay (Dark)}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Yavin 4: Docking Bay (Light)}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Y-wing}}
+}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->{{CCG|set=Rebel Leader Pack|cardname=Gold Leader in Gold 1}}
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+<!-- 1996-07-XX -->{{CardGameSet|set={{CCG|set=A New Hope Limited|parent=1}}|cards=
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Gold 2}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=SW-4 Ion Cannon}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Y-wing Assault Squadron}}
+}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Attack on the ''Suprosa''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC033.jpg}}
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]]
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]''
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-05-XX -->{{CCG|set=Official Tournament Sealed Deck|cardname=Gold Squadron Y-wing}}
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=All Wings Report In}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Balanced Attack}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Gold 3}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Gold 4}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Gold 6}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Heavy Fire Zone}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Koensayr Manufacturing}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=X-wing Assault Squadron}}
+}}
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 1999-06-23 -->[[Star Wars: Episode I Insider's Guide|''Star Wars'': Episode I ''Insider's Guide'']]
+*<!-- 2000-04-04 -->[[The Essential Chronology (real-world book)|''The Essential Chronology'']]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Gray Squadron 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Gray Squadron 2}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Gray Squadron Y-wing Pilot}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Green Squadron 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Home One'': Docking Bay}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Kin Kian}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Staging Areas}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=All Wings Report In & Darklighter Spin}}
+*<!-- 2002-04-23 -->''[[The New Essential Guide to Characters]]''
+*<!-- 2002-09-11 -->{{FactFile|37|YWI 1-2|Y-Wing Starfighter}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+<!-- 2003-11-XX -->{{CardGameSet|set={{TCG|set=The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Rebel Fleet|link=https://swtcg.com/Content/Images/Cards/ESB/Rebel_Fleet.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Y-wing Gold Six|link=https://swtcg.com/Content/Images/Cards/ESB/Y_wing_Gold_Six.webp?v=2}}
+}}
+*<!-- 2004-06-10 -->''[[Ultimate Adversaries]]''
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_ywing.jsp|text=Y-Wing}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66871&resource=features|text=Ships: Y-Wing}}
+*<!-- 2006-06-07 -->{{Hyperspace|url=hyperspace/member/galactic/2006/06/galactic20060607.html|series=Galactic Gallery|text=To Your Stations}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-10-30 -->{{Hyperspace|url=hyperspace/member/galactic/2006/10/galactic20061030.html|series=Galactic Gallery|text=Sleek Y}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-07-26 -->''[[Star Wars: The Clone Wars: The Visual Guide]]''
+<!-- 2008-07-26 -->{{CardGameSet|set={{PocketModel|set=Clone Wars|parent=1}}|cards=
+*<!-- 2008-07-26 -->{{PocketModel|set=Clone Wars|cardname=Blue Squadron Y-wing}}
+*<!-- 2008-07-26 -->{{PocketModel|set=Clone Wars|cardname=Shadow Squadron Y-wing}}
+}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Mos Espa Y-wing}}
+*<!-- 2008-12-17 -->{{InsiderCite|106|Classic Moment|Classic Moment: Boba Fett Encounter}}
+*<!-- 2009-02-26 -->[[Star Wars: The Official Starships & Vehicles Collection 12|''Star Wars: The Official Starships & Vehicles Collection'' 12]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=Y-wing}}
+*<!-- 2009-12-07 -->{{SW|url=news/essential-atlas-extra-the-history-of-xim-and-the-tion-cluster|text=Essential Atlas Extra: The History of Xim and the Tion Cluster|int=Xim Week: The History of Xim and the Tion Cluster}}
+*<!-- 2010-04-13 -->{{Wizards|url=default.asp?x=starwars/article/Mesop7|text=Message to Spacers 7}}
+*<!-- 2011-09-13 -->{{DB|starship|ywingstarfighter|Y-wing starfighter}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-02-20 -->''[[Star Wars: Beware the Sith]]''
+<!-- 2012-09-14 -->{{CardGameSet|set={{FFGXW|set=Y-Wing Expansion Pack}}|cards=
+*<!-- 2012-09-14 -->{{FFGXW|set=Y-Wing Expansion Pack|cardname="Dutch" Vander}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Y-Wing Expansion Pack|cardname=Gold Squadron Pilot}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Y-Wing Expansion Pack|cardname=Gray Squadron Pilot}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Y-Wing Expansion Pack|cardname=Horton Salm}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Y-Wing Expansion Pack|cardname=Ion Cannon Turret|reprint=1}}
+}}
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Mobilize the Squadrons|link=core/mobilize-the-squadrons-core-13-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Target of Opportunity|link=core/target-of-opportunity-core-4-6}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Defense of Yavin 4|link=core/the-defense-of-yavin-4-core-8-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Y-Wing|link=core/y-wing-core-8-3}}
+}}
+*<!-- 2013-03-14 -->{{FFGTCG|set=The Desolation of Hoth|cardname=Target of Opportunity|link=the-hoth-cycle/the-desolation-of-hoth/target-of-opportunity-the-desolation-of-hoth-38-6}} {{Po}}
+<!-- 2013-04-25 -->{{CardGameSet|set={{FFGTCG|set=The Search for Skywalker|parent=1}}|cards=
+*<!-- 2013-04-25 -->{{FFGTCG|set=The Search for Skywalker|cardname=Renegade Squadron|link=the-hoth-cycle/the-search-for-skywalker/renegade-squadron-the-search-for-skywalker-44-2}} {{Po}}
+*<!-- 2013-04-25 -->{{FFGTCG|set=The Search for Skywalker|cardname=Target of Opportunity|link=the-hoth-cycle/the-search-for-skywalker/target-of-opportunity-the-search-for-skywalker-44-6}} {{Po}}
+}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=Renegade Squadron Escort|link=the-hoth-cycle/a-dark-time/renegade-squadron-escort-a-dark-time-49-3}} {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Target of Opportunity|link=edge-of-darkness/target-of-opportunity-edge-of-darkness-71-6}} {{Po}}
+*<!-- 2013-09-24 -->{{SW|url=news/the-starwars-com-10-best-starfighters|text=The StarWars.com 10: Best Starfighters}}
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fleet Ambush|link=balance-of-the-force/fleet-ambush-balance-of-the-force-d01-54}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fully Armed|link=balance-of-the-force/fully-armed-balance-of-the-force-d01-56}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Mission at Kothlis|link=balance-of-the-force/mission-at-kothlis-balance-of-the-force-l01}} {{Po}}
+}}
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]''
+*<!-- 2014-04-18 -->{{FFGTCG|set=Lure of the Dark Side|cardname=Target of Opportunity|link=echoes-of-the-force-cycle/lure-of-the-dark-side/target-of-opportunity-lure-of-the-dark-side-103-6}} {{Po}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]] {{Po}}
+*<!-- 2014-04-25 -->{{SWE|technology|malevolence|''Malevolence''}}
+*<!-- 2014-04-25 -->{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*<!-- 2014-04-25 -->{{SWE|technology|ywing|Y-wing starfighter}}
+<!-- 2014-04-30 -->{{CardGameSet|set={{FFGXW|set=Rebel Transport Expansion Pack}}|cards=
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=Engine Booster|reprint=1}} {{Po}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=R5-P9}} {{Po}}
+}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Target of Opportunity|link=between-the-shadows/target-of-opportunity-r1156}} {{Po}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+<!-- 2015-02-26 -->{{CardGameSet|set={{FFGXW|set=Most Wanted Expansion Pack}}|cards=
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Autoblaster Turret}} {{Po}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Bomb Loadout}} {{Po}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=BTL-A4 Y-wing}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Drea Renthal}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Hired Gun}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Kavil}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Syndicate Thug}}
+}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=CR90 Corvette A|reprint=1}} {{Po}}
+<!-- 2015-04-09 -->{{CardGameSet|set={{FFGTCG|set=Draw Their Fire|parent=1}}|cards=
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Desperation|link=rogue-squadron/draw-their-fire/desperation-r1263}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Gray Squadron Gunner|link=rogue-squadron/draw-their-fire/gray-squadron-gunner-r1260}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Gray Squadron Y-Wing|link=rogue-squadron/draw-their-fire/gray-squadron-y-wing-r1261}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Target of Opportunity|link=rogue-squadron/draw-their-fire/target-of-opportunity-r1264}} {{Po}}
+}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Rebel Fighter Squadrons Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Rebel Fighter Squadrons Expansion Pack|cardname="Dutch" Vander|subtitle=Y-wing Squadron}}
+*<!-- 2015-05-14 -->{{Armada|set=Rebel Fighter Squadrons Expansion Pack|cardname=Y-wing Squadron}}
+}}
+*<!-- 2016-03-17 -->{{FFGXW|set=Ghost Expansion Pack|cardname=Predator}} {{Po}}
+*<!-- 2018-08-02 -->{{FFGXW2|set=Core Set|cardname=Predator|reprint=1}} {{Po}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Scum and Villainy Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Drea Renthal}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Kavil}}
+}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+{{Interlang
+|de=BTL Y-Flügel Sternenjäger#legends
+|es=Caza estelar BTL Ala-Y/Leyendas
+|fi=BTL Y-siipinen tähtihävittäjä/Legends
+|hu=BTL-A4 Y-szárnyú csillagvadász
+|ko=BTL-A4 Y윙 강습 전폭기
+|nl=BTL Y-Wing Starfighter
+|no=Y-wing
+|pl=Myśliwiec BTL-A4 Y-wing/Legendy
+|pt=Legends:Caça estelar Y-wing BTL
+}}
+
+[[Category:Bomber classes]]
+[[Category:Koensayr Manufacturing products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the New Republic]]
+[[Category:Starship lines]]
+
+{{RelatedCategories
+|[[Category:BTL Y-wing starfighter models]]
+|[[Category:BTL Y-wing starfighters]]
+}}

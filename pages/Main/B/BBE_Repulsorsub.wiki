@@ -1,0 +1,61 @@
+{{Top|leg}}
+{{AquaticVehicle
+|image=
+|name=BBE Repulsorsub
+|designer=
+|manufacturer=[[Ubrikkian Industries/Legends|Ubrikkian Industries]]<ref name="BL">{{GamerCite|7|Bartyn's Landing (article)}}</ref>
+|line=
+|model=BBE Repulsorsub<ref name="BL" />
+|type=*[[Submarine/Legends|Submersible]]<ref name="BL" />
+*[[Speeder/Legends|Speeder]]<ref name="BL" />
+|cost=*21,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="BL" />
+*16,000 credits {{C|used}}<ref name="BL" />
+|modifier=
+|sysmods=
+|length=36 [[Meter/Legends|meters]]<ref name="BL" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=295 [[Kilometer per hour/Legends|km/h]]<ref name="BL" />
+|engine=
+|depth=300 meters<ref name="BL" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[Pilot/Legends|pilot]]<ref name="BL" />
+*2 [[Engineer/Legends|engineers]]<ref name="BL" />
+|skeleton=
+|passengers=45<ref name="BL" />
+|capacity=70,000 [[Kilogram/Legends|kg]]<ref name="BL" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Standard trawler escape submersible<ref name="BL" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''BBEE Repulsorsuub''' was a vehicle used on [[Lamaredd/Legends|Lamaredd]].
+
+==Sources==
+*<!-- 2001-11-06 -->{{GamerCite|7|Bartyn's Landing (article)}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Submarine models]]
+[[Category:Ubrikkian Industries products]]

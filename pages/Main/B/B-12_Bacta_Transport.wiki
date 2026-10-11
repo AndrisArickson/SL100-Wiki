@@ -1,0 +1,87 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:B12BactaTransport-LordsOfTheExpanse.jpg]]
+|name=B-12 Bacta Transport
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="LE">''[[Lords of the Expanse]]''</ref>
+|line=
+|model=
+|type=[[Transport/Legends|Transport]]<ref name="LE" />
+|cost=1.2 million [[Galactic Credit Standard/Legends|credits]]<ref name="LE" />
+|modifier=
+|sysmods=
+|length=238 [[Meter/Legends|meters]]<ref name="LE" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=[[Ion engine/Legends|Ion engines]] (4)<ref name="LE" />
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="LE" />
+*[[Backup hyperdrive|Class 10]]<ref name="LE" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="LE" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="LE" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="LE" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None<ref name="LE" />
+|complement=
+|bays=
+|escapepods=
+|crew=26<ref name="LE" />
+|skeleton=4<ref name="LE" />
+|passengers=6<ref name="LE" />
+|capacity=600,000 [[Metric ton/Legends|metric tons]]<ref name="LE" />
+|cargohandling=
+|consumables=1 [[Standard year/Legends|year]]<ref name="LE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Bacta/Legends|Bacta]] transport<ref name="LE" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="LE" />
+}}
+The '''B-12 bacta transport''' was manufactured by [[Kuat Drive Yards/Legends|Kuat Drive Yards]] specifically to transport [[Bacta/Legends|bacta]].
+
+==Description==
+[[File:Bacta_Transport_Deckplan.jpg|thumb|left|150px|B-12 Bacta Transport forward Deck Plan]]
+The B-12 was a 238-meter long starship dedicated to [[Bacta/Legends|bacta]] transport. Its hulls was a spinoff of the [[Lancer-class frigate/Legends|''Lancer''-class frigate]] also produced by [[Kuat Drive Yards/Legends|Kuat Drive Yards]]. The ship carried 26 crew, 6 passengers, and 600,000 metric tons of bacta in sixteen pressurized spheres<ref name="LE" /> with controlled temperature to keep the bacta from spoiling.
+
+==History==
+The B-12 bacta transport was commissioned by the [[Galactic Empire/Legends|Galactic Empire]] after the [[Battle of Yavin/Legends|Battle of Yavin]] to transport safely bacta. It soon became one of the most popular bacta transport class.<ref name="LE" />
+
+Sometime before [[1 ABY/Legends|1 ABY]],<ref name="SWG_timeline">{{SWG_timeline}}</ref> a B-12 transport, the ''[[Suveron]]'', was destroyed in the [[Endor system/Legends|Endor system]], releasing half million tons of bacta in space. Although it was not suitable for medicinal use anymore, the bacta survived the vacuum of space and generated a large pocket of space gas later known as the [[Linear Miasma]].<ref name="SWG:TGTLM">{{SWGcite|exp=JtL|type=space|The Grand Tour - Linear Miasma|Endor system}}</ref>
+
+{{Ship-stub}}
+
+==Appearances==
+*{{WEGCite|story=The Mecetti File|book=Tapani Sector Instant Adventures}} {{ID|bacta transport}}
+*{{WEGCite|story=The Bacta Heist|book=Tapani Sector Instant Adventures}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{Mo}}
+
+==Sources==
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]'' {{ID|bacta transport}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of B-12 Bacta Transports}}
+{{Reflist}}
+
+{{Interlang
+|pl=Transportowiec bacty B-12
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Tanker classes]]

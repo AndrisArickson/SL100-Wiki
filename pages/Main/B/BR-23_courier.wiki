@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:BR23courier-RulesOfEngagement.jpg]]
+|name=BR-23 courier
+|designer=
+|manufacturer=[[Republic Sienar Systems/Legends|Republic Sienar Systems]]<ref name="RE">''[[Rules of Engagement: The Rebel SpecForce Handbook]]''</ref>
+|line=
+|model=BR-23 Courier
+|type=Long-Range Troop Transport
+|cost=*70,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}
+*35,000 credits {{C|used}}
+|modifier=
+|sysmods=
+|length=20.7 [[Meter/Legends|meters]]<ref name="RE" />
+|width=
+|height=
+|mass=38 tons/650 m3
+|max accel=
+|mglt=50
+|max speed=850 [[Kilometer per hour/Legends|kmh]]<ref name="RE" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0 {{C|primary}}<ref name="RE" />
+*Class 12.0 {{C|backup}}<ref name="RE" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] turrets (2)<ref name="New">{{WEGCite|story=New Recruits and Rebel Guns|book=Instant Adventures}}</ref>
+|complement=
+|bays=
+|escapepods=2
+|crew=2<ref name="RE" />
+|skeleton=
+|passengers=40 troops<ref name="RE" />
+|capacity=40 [[Metric ton/Legends|metric tons]]<ref name="RE" />
+|cargohandling=
+|consumables=2 weeks<ref name="RE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Combat Transport
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+}}
+The '''BR-23 Courier''' was a durable personnel transport and courier ship that served in [[Galactic Republic/Legends|Galactic Republic]] fleets and militias. After finding the market for [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]] enormously more profitable due to the [[Galactic Empire/Legends|Empire's]] swift move away from [[Transport/Legends|transports]] like the BR-23, [[Santhe/Sienar Technologies|Sienar]] partially refitted its large back stock of BR-23s with civilian-grade systems and dumped them onto the open market. These inexpensive craft, which were easy to repair, proved to be a boon of profit for Sienar.
+
+While most of Sienar's surplus stock found its way into the freighter market, the BR-23 also saw use in cut-rate [[Shuttle/Legends|shuttle]] services and employment as personal [[Skiff/Legends|skiffs]]. After leaving military service the BR-23 proved to be popular among courier services, small-time shipping agents, and a good number of smugglers. In the case of the [[Alliance to Restore the Republic/Legends|Rebellion]], they made it a general policy to acquire these ships wherever they could find them as they could be easily re-converted to their original troop transport duties.
+
+==Appearances==
+*{{WEGCite|story=New Recruits and Rebel Guns|book=Instant Adventures}}
+
+==Sources==
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=BR-23 Kurierschiff
+|es=Mensajero BR-23
+}}
+
+[[Category:Courier classes]]
+[[Category:Republic Sienar Systems products]]
+[[Category:Shuttle classes]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Republic]]

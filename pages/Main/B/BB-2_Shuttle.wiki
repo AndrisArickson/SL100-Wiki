@@ -1,0 +1,61 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=BB-2 Shuttle
+|designer=
+|manufacturer=[[BullbaBong]]
+|line=
+|model=
+|type=[[Transport/Legends|Transport]]
+|cost=*25,000 [[Galactic Credit Standard/Legends|credits]] (new)
+*11,000 credits (used)
+|modifier=
+|sysmods=
+|length=13 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=None
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Blaster cannon/Legends|blaster cannons]]
+|complement=
+|bays=
+|escapepods=
+|crew=+9
+|skeleton=
+|passengers=6
+|capacity=550 [[Kilogram/Legends|kg]]
+|cargohandling=
+|consumables=3 [[Standard day/Legends|days]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''BB-2 Shuttle''' was a type of [[Starship/Legends|spacecraft]] active around the time of the [[Invasion of Naboo/Legends|Invasion of Naboo]]. It was manufactured by the spaceworks arm of [[BullbaBong]], a [[Gungan/Legends|Gungan]] company. The [[Shuttle/Legends|shuttle]] could be used by law enforcement or paramilitary units. The solid in-system ship was fit for long-distance travel.
+
+==Sources==
+*<!-- 2001-03-22 -->{{Wizards|url=starwars/article.asp?x=sw20010322c_shuttle&c=rpg|text=BullbaBong BB-2 Shuttle}} {{1stm}}
+
+[[Category:BullbaBong products]]
+[[Category:Shuttle classes]]

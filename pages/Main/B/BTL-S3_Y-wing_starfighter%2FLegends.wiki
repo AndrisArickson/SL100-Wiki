@@ -1,0 +1,201 @@
+{{Top}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:Btl-s3.jpg]]
+|name=BTL-S3 Y-wing starfighter
+|designer=
+|manufacturer=[[Koensayr Manufacturing/Legends|Koensayr Manufacturing]]<ref name="RAS">''[[The Rebel Alliance Sourcebook]]''</ref>
+|line=[[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]]
+|model=BTL-S3 Y-wing starfighter
+|type=Assault [[Starfighter/Legends|starfighter]]
+|cost=135,000 [[Galactic Credit Standard/Legends|credits]] (new), 65,000 (used)<ref name="RAS" />
+|modifier=
+|sysmods=
+|length=16 meters<ref name="RAS" /><ref name="DB">{{DB|starship|ywingstarfighter|Y-wing starfighter}}</ref>
+|width=
+|height=
+|mass=
+|max accel=2,700 G
+|mglt=
+|max speed=1000 km/h<ref name="RAS" />
+|maneuverability=
+|engine=2 Koensayr [[R200 Ion Jet engine|R200 ion jet engines]] (rated 250 KTU)
+|hyperdrive=Class 1.0
+|hdrange=
+|hdsystem=Koensayr R300-H [[Hyperdrive motivator/Legends|hyperdrive motivator]]
+|poweroutput=
+|power=[[Novaldex/Legends|Novaldex]] power generator; [[Thiodyne/Legends|Thiodyne]] [[03-R cryogenic power cell/Legends|03-R cryogenic power cells]] and [[ionization reactor]]
+|shield gen=[[Chempat Engineered Defenses|Chempat]] [[Deflector shield/Legends|shields]] (75 SBD)
+|hull=[[Titanium/Legends|Titanium]]-reinforced [[Alusteel/Legends|Alusteel]] alloy (40 RU)
+|sensor=[[Fabritech/Legends|Fabritech]] [[ANs-5d sensor unit]] with [[PA-9r long-range phased tachyon detection array/Legends|PA-9r long range phased tachyon detection array]] and [[PG-7u short-range primary threat analysis grid/Legends|PG-7u short range primary threat analysis grid]]
+|target=Fabritech [[ANc 2.7 tracking computer/Legends|ANc 2.7 tracking computer]] with [[SI 5g7 "Quickscan" vector imaging system/Legends|SI 5g7 "Quickscan" imaging system]]
+|navigation=
+|avionics=[[Sublight Products Corporation|Subpro]] [[NH-7 flight control avionics]]
+|maincomp=
+|countermeasures=
+|armament=*[[Taim & Bak/Legends|Taim & Bak]] [[IX4 laser cannon/Legends|IX4]] or [[KX5 laser cannon/Legends|KX5 laser cannons]] (2)
+*[[ArMek/Legends|ArMek]] turreted [[SW-4 ion cannon/Legends|SW-4 ion cannon]] (1)
+*[[Arakyd Industries/Legends|Aratech]] [[Flex Tube proton torpedo launcher/Legends|Flex Tube]] [[Proton torpedo/Legends|proton torpedo]] launchers (2)
+**10 torpedoes
+**20 [[Proton bomb/Legends|proton bombs]]
+|complement=
+|bays=
+|escapepods=0
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="RAS" />
+*Co-pilot/[[Gunner/Legends|gunner]] (1)
+*[[Astromech droid/Legends|Astromech droid]] (1)<ref name="RAS" />
+|skeleton=
+|passengers=None
+|capacity=110 kilograms<ref name="RAS" />
+|cargohandling=
+|consumables=1 week<ref name="RAS" />
+|lifesupport=
+|communications=
+|othersystems=*Koensayr ballistic [[Ejector seat/Legends|ejection seat]]
+*Detachable cockpit
+|availability=
+|role=*Starfighter
+*[[Bomber/Legends|Bomber]]<ref name="BFI guide">[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]</ref>
+*Escort
+*Scout
+*Courier
+*[[Shuttle/Legends|Shuttle]]
+|firstuse=
+|retired=
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref><ref name="BFI">''[[Star Wars: Battlefront]]''</ref>
+*[[Alliance of Free Planets]]
+*[[Cloak (pirates)|Cloak]]<ref name="SWG:DCFD">{{SWGcite|exp=JtL|type=space|Destroy Cloak Fighters Duty|Corellian system}}</ref>
+*[[Hidden Daggers]]<ref name="SWG:HDPQP">{{SWGcite|exp=NGE|type=collection|Hidden Daggers Pilot Quota Progress}}</ref>
+*[[Lok Revenants/Legends|Lok Revenants]]<ref name="SWG:JtL" />
+*[[New Republic/Legends|New Republic]]<ref name="X:Empire">''[[Star Wars: X-Wing Rogue Squadron: In the Empire's Service]]''</ref>
+*[[Ni'lyahin Smugglers]]<ref name="SWG:YS">{{SWGcite|exp=JtL|type=other|Yavin system}}</ref>
+*[[Galactic Federation of Free Alliances]]
+*[[Pirate/Legends|Pirates]]
+*[[Polard Manfred]]'s [[Mercenary/Legends|mercenaries]]<ref name="SWG:CPM">{{SWGcite|exp=JtL|type=space|Capture Polard Manfred|Corellian system}}</ref>
+*[[Kota's Militia]]
+}}
+{{Quote|The Koensayr BTL-S3 Y-wing attack starfighter, long the staple of the Alliance Fighter Corps. The all-purpose craft has proved its worth as a fighter and [...] a bomber noted for its precision.|[[Soontir Fel/Legends|Soontir Fel]]|<ref name="X:Empire" />}}
+The '''BTL-S3 Y-wing starfighter''' was a variant configuration of the [[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]]. It was used primarily by the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]].
+
+==Characteristics==
+{{Quote|The BTL-S3 model's advantage is that the gunner seated behind the pilot is able to use the cockpit ion cannon to find his own targets.|Soontir Fel|<ref name="X:Empire" />}}
+The BTL-S3 was the most common Y-wing configuration.<ref name="The Essential Guide to Vehicles and Vessels">''[[The Essential Guide to Vehicles and Vessels]]''</ref> A two-man strike [[Starfighter/Legends|starfighter]], the first crew member [[Pilot/Legends|piloted]] the craft, while the second acted as a [[Gunner/Legends|gunner]] and controlled the two swivel-mounted [[Ion cannon/Legends|ion cannons]], located right on top of the cockpit.<ref name="Star Wars Sourcebook">''[[The Star Wars Sourcebook]]''</ref><ref name="RAS" />
+
+Many Y-wings of this variant were [[BTL-S3B Y-wing starfighter|modified]] with defensive rapid-fire [[Blaster/Legends|blaster]] turrets replacing the ion cannon turret, and [[Particle beam cannon|particle cannons]] instead of the dual [[Laser cannon/Legends|laser cannons]] on the nose.<ref name="BFII">''[[Star Wars: Battlefront II]]''</ref> These Y-wings were used as heavy [[Capital ship/Legends|capital ship]] destroyers, and were eventually phased out by the new [[A/SF-01 B-wing starfighter/Legends|B-wing starfighters]].
+
+==History==
+[[File:Y-wingdetach.jpg|thumb|left|200px|An S3 cockpit module detaches from the main body.]]
+[[Luke Skywalker/Legends|Luke Skywalker]] used this variant on his mission to [[Panna/Legends|Panna]] in [[0 ABY/Legends|0 ABY]],<ref name="Star Wars Holiday Special">''[[The Star Wars Holiday Special]]''</ref> as did [[Princess/Legends|Princess]] [[Leia Organa Solo/Legends|Leia Organa]] and [[C-3PO/Legends|C-3PO]] on their journey to the [[Circarpous system/Legends|Circarpous system]].<ref name="Splinter of the Mind's Eye">''[[Splinter of the Mind's Eye]]''</ref>
+
+The [[Deretta Destroyers]], a mixed starfighter [[Squadron/Legends|squadron]] of the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]], consisted of several BTL-S3s. Rebel pilot [[Tenk Lenso]] proved his skill as a gunner in the rear of a BTL-S3 while serving with the Destroyers.<ref name="GG3">''[[Galaxy Guide 3: The Empire Strikes Back]]''</ref>
+
+The Rebel Alliance also used two-person Y-wings at numerous battles during the [[Galactic Civil War/Legends|Galactic Civil War]]<ref name="BFII" /> and at the [[Battle of Bespin (Galactic Civil War)|Battle of]] [[Bespin/Legends|Bespin]].<ref name="BFI" />
+
+Several of the BTL-S3s were stationed at [[Echo Base/Legends|Echo Base]] on the [[Planet/Legends|planet]] [[Hoth/Legends|Hoth]] in [[3 ABY/Legends|3 ABY]]. They assisted the base's [[T-65 X-wing starfighter/Legends|T-65 X-wing starfighters]] in the evacuation of numerous [[GR-75 medium transport/Legends|GR-75 medium transports]] through the [[Galactic Empire/Legends|Imperial]] blockade of the planet. [[Rogue Squadron/Legends|Rogue Squadron]] members [[Derek Klivian/Legends|Derek Klivian]] and [[Wes Janson/Legends|Wes Janson]] escorted the [[Transport/Legends|transport]] [[Thon's Orchard/Legends|''Thon's Orchard'']] to safety using a BTL-S3.<ref name="GG3" />
+
+The Rebel Alliance-affiliated [[Bothan/Legends|Bothan]] [[Blue Squadron (Bothan)|Blue Squadron]] used 12 Y-wings. Half of them were destroyed on the [[Raid on the Suprosa|Raid]] on the ''[[Suprosa]]''.<ref name="SOTE">[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]</ref>
+
+During the period after the [[Battle of Endor/Legends|Battle of Endor]], [[Aggressor Wing]]'s New Republic BTL-S3 Y-wing starfighters commanded by Colonel [[Horton Salm/Legends|Horton Salm]] participated in the [[Battle of Brentaal IV (Galactic Civil War)|Battle of Brentaal IV]],<ref name="X:Empire" /> and later rescued Rogue Squadron during the [[evacuation of Ciutric]].<ref name="Mandatory Retirement">''[[Star Wars: X-Wing Rogue Squadron: Mandatory Retirement]]''</ref>
+[[File:Y-wing_canopy-th.jpg|thumb|left|A BTL-S3 as seen in the Star Wars Holiday Special]]
+
+==Behind the scenes==
+The BTL-S3 Y-wing starfighter first appeared in [[1978]]'s novel ''[[Splinter of the Mind's Eye]]'', by [[Alan Dean Foster]], and the first [[Star Wars Legends|Expanded Universe]] novel.
+
+Both ''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]'' and ''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]'' mislabel the single-seat [[BTL-A4 Y-wing starfighter/Legends|BTL-A4 Y-wing starfighter]] as the S3 variant.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of BTL-S3 Y-wing starfighters}}
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Battlefront II]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{Mo}}
+*''[[Star Wars Missions 2: Escape from Thyferra]]''
+*''[[Otherspace II: Invasion]]''
+*''[[The Story of the Faithful Wookiee]]'' {{1stp}}
+*''[[The Star Wars Holiday Special]]''
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*{{GalaxiesNGE}}
+*''[[Splinter of the Mind's Eye]]'' {{1st}}
+*[[Splinter of the Mind's Eye 1|''Splinter of the Mind's Eye'' 1]]
+*[[Star Wars (1977) 68|''Star Wars'' (1977) 68]] {{Reprint|Star Wars (1977) 68}}
+*[[Star Wars (1977) 69|''Star Wars'' (1977) 69]] {{Reprint|Star Wars (1977) 69}} {{Flash}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]]
+*[[Star Wars: Shadows of the Empire (junior novelization)|''Star Wars: Shadows of the Empire'' junior novelization]]
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]]
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*{{Film|VI}}
+*{{Tales|23|Lucky (comic story)}}
+*{{JournalCite|5|One of a Kind (short story)|reprint=1}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]] {{1stID|BTL-S3 Y-wing attack starfighter}}
+*[[X-Wing Rogue Squadron 23|''X-Wing Rogue Squadron'' 23]]
+*[[X-Wing Rogue Squadron 24|''X-Wing Rogue Squadron'' 24]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Wreck}} {{Flash}}
+*[[X-Wing Rogue Squadron 29|''X-Wing Rogue Squadron'' 29]]
+*[[X-Wing Rogue Squadron 30|''X-Wing Rogue Squadron'' 30]]
+*[[X-Wing Rogue Squadron 31|''X-Wing Rogue Squadron'' 31]]
+*[[X-Wing Rogue Squadron 33|''X-Wing Rogue Squadron'' 33]]
+*[[X-Wing Rogue Squadron 35|''X-Wing Rogue Squadron'' 35]]
+}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of BTL-S3 Y-wing starfighters}}
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Y-wing}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Attack on the ''Suprosa''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC033.jpg}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]'' {{C|Erroneous mention}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2002-09-11 -->{{FactFile|37|YWI 1-2|Y-Wing Starfighter}}
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_ywing.jsp|text=Y-Wing}}
+*<!-- 2004-09-28 -->[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66871&resource=features|text=Ships: Y-Wing}}
+*<!-- 2009-02-26 -->{{StarshipsVehiclesCite|12|Action Stations}}
+*<!-- 2011-09-13 -->{{DB|starship|ywingstarfighter|Y-wing starfighter}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2014-04-02 -->{{FactFile2014|13|YWI 1-2|Koensayr BTL-A4 Y-wing}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=BTL-S3 Y-Flügel Sternenjäger#legends
+|es=Caza estelar BTL-S3 Ala-Y/Leyendas
+|pl=Myśliwiec BTL-S3 Y-wing
+|pt=Legends:Caça estelar Y-wing BTL
+}}
+
+[[Category:BTL Y-wing starfighter models]]
+[[Category:Heavy assault starfighter classes]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+
+{{RelatedCategories
+|[[Category:BTL-S3 Y-wing starfighters]]
+}}

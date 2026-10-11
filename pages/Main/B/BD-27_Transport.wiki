@@ -1,0 +1,75 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=BD-27 Transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="AJ9">{{JournalCite|9|Slaying Dragons}}</ref>
+|line=[[BD-series]]<ref name="AJ9" />
+|model=
+|type=[[Barge driver]]<ref name="AJ9" />
+|cost=*800,000 [[Galactic Credit Standard/Legends|credits]] {{C|New}}<ref name="AJ9" />
+*350,000 credits {{C|Used}}<ref name="AJ9" />
+|modifier=
+|sysmods=
+|length=110 [[Meter/Legends|meters]]<ref name="AJ9" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650 [[Kilometer per hour/Legends|kmh]]<ref name="AJ9" />
+|maneuverability=
+|engine=
+|hyperdrive=*x3 {{C|Primary}}<ref name="AJ9" />
+*x15 {{C|Backup}}<ref name="AJ9" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="AJ9" />
+*Co-pilot (1)<ref name="AJ9" />
+|skeleton=
+|passengers=4<ref name="AJ9" />
+|capacity=75,000 [[Metric ton/Legends|metric tons]]<ref name="AJ9" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="AJ9" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''BD-27 Transport''' was a [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] [[barge driver]]. It was the predecessor to the [[Action series/Legends|Action series]] of medium [[Freighter/Legends|freighters]], and defined the basic shape of that transport.
+
+==Characteristics==
+The BD-27 measured 100 meters in length, and its automated systems required only a pilot and co-pilot to operate. However, it required extensive maintenance. The ship had no weapons and weak shields. The entire ship could be connected to a cargo module capable of carrying 75,000 metric tons. The BD-27 was quickly replaced by larger bulk freighters, and was relegated to use in small operations.<ref name="AJ9" />
+
+{{Ship-stub}}
+
+==Appearances==
+*{{JournalCite|9|Slaying Dragons|reprint=1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:BD-27 transports]]
+}}
