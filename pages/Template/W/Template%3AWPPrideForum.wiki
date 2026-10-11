@@ -1,0 +1,15 @@
+<div class="forumheader" style="background:rgba(112, 64, 255, .25); border-radius:10px">'''[[Wookieepedia:WookieeProjects|WookieeProjects]] &gt; [[Wookieepedia:WookieeProject Pride|WookieeProject: Pride]] &gt; {{PAGENAME}}'''</div><includeonly>{{SpecialCategorizer|[[Category:WookieeProject Pride forum]]}}</includeonly>
+{{Ooumb
+| bg = #ece5ff
+| image = [[File:RobinPronovost-CelebrateTheLove.png|150px]]
+| caption = This is a WookieeProject: Pride discussion
+| message = It is intended for [[Wookieepedia:WookieeProject Pride|'''''WookieeProject: Pride''''']] participants and interested parties. If a proposal is agreed upon here, it will be presented to the wider Wookieepedia community as a [[Forum:Senate Hall|Senate Hall]] topic. Those who wish to participate in WP:PRIDE do not have to identify as LGBTQIA+; outing yourself is not required to participate. However, we do request that you already support and have some knowledge regarding LGBTQIA+ rights and representation for the safety and comfort of those involved. Please feel free to follow this discussion!
+}}
+<!-- write after this line, please -->
+<noinclude>
+==Categorization==
+*[[:Category:WookieeProject Pride forum]]
+
+[[Category:Forum templates]]
+[[Category:WookieeProject templates]]
+</noinclude>

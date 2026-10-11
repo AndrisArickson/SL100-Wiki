@@ -1,0 +1,70 @@
+{{Userbox|#6699CC|#CADCF0|[[File:clock2uk.png|40px]]|This user's [[wikipedia:Time zone|'''time zone''']] is '''{{#switch:{{{zone}}}
+| UTC-12 = [[wikipedia:UTC-12|UTC-12]]
+| UTC-11 = [[wikipedia:UTC-11|UTC-11]]
+| UTC-10 = [[wikipedia:UTC-10|UTC-10]]
+| UTC-9:30 = [[wikipedia:UTC-9:30|UTC-9:30]]
+| UTC-9 = [[wikipedia:UTC-9|UTC-9]]
+| UTC-8 = [[wikipedia:UTC-8|UTC-8]]
+| UTC-7 = [[wikipedia:UTC-7|UTC-7]]
+| UTC-6 = [[wikipedia:UTC-6|UTC-6]]
+| UTC-5 = [[wikipedia:UTC-5|UTC-5]]
+| UTC-4 = [[wikipedia:UTC-4|UTC-4]]
+| UTC-3:30 = [[wikipedia:UTC-3:30|UTC-3:30]]
+| UTC-3 = [[wikipedia:UTC-3|UTC-3]]
+| UTC-2 = [[wikipedia:UTC-2|UTC-2]]
+| UTC-1 = [[wikipedia:UTC-1|UTC-1]]
+| UTC-0:25 = [[wikipedia:UTC-0:25|UTC-0:25]]
+| UTC = [[wikipedia:UTC0|UTC&#43;0]]
+| UTC+0:20 = [[wikipedia:UTC0:20|UTC&#43;0:20]]
+| UTC+0:30 = [[wikipedia:UTC0:30|UTC&#43;0:30]]
+| UTC+1 = [[wikipedia:UTC1|UTC&#43;1]]
+| UTC+2 = [[wikipedia:UTC2|UTC&#43;2]]
+| UTC+3 = [[wikipedia:UTC3|UTC&#43;3]]
+| UTC+3:30 = [[wikipedia:UTC3:30|UTC&#43;3:30]]
+| UTC+4 = [[wikipedia:UTC4|UTC&#43;4]]
+| UTC+4:30 = [[wikipedia:UTC4:30|UTC&#43;4:30]]
+| UTC+4:51 = [[wikipedia:UTC4:51|UTC&#43;4:51]]
+| UTC+5 = [[wikipedia:UTC5|UTC&#43;5]]
+| UTC+5:30 = [[wikipedia:UTC5:30|UTC&#43;5:30]]
+| UTC+5:40 = [[wikipedia:UTC5:40|UTC&#43;5:40]]
+| UTC+5:45 = [[wikipedia:UTC5:45|UTC&#43;5:45]]
+| UTC+6 = [[wikipedia:UTC6|UTC&#43;6]]
+| UTC+6:30 = [[wikipedia:UTC6:30|UTC&#43;6:30]]
+| UTC+7 = [[wikipedia:UTC7|UTC&#43;7]]
+| UTC+7:20 = [[wikipedia:UTC7:20|UTC&#43;7:20]]
+| UTC+7:30 = [[wikipedia:UTC7:30|UTC&#43;7:30]]
+| UTC+8 = [[wikipedia:UTC8|UTC&#43;8]]
+| UTC+8:30 = [[wikipedia:UTC8:30|UTC&#43;8:30]]
+| UTC+8:45 = [[wikipedia:UTC8:45|UTC&#43;8:45]]
+| UTC+9 = [[wikipedia:UTC9|UTC&#43;9]]
+| UTC+9:30 = [[wikipedia:UTC9:30|UTC&#43;9:30]]
+| UTC+10 = [[wikipedia:UTC10|UTC&#43;10]]
+| UTC+10:30 = [[wikipedia:UTC10:30|UTC&#43;10:30]]
+| UTC+11 = [[wikipedia:UTC11|UTC&#43;11]]
+| UTC+11:30 = [[wikipedia:UTC11:30|UTC&#43;11:30]]
+| UTC+12 = [[wikipedia:UTC12|UTC&#43;12]]
+| UTC+12:45 = [[wikipedia:UTC12:45|UTC&#43;12:45]]
+| UTC+13 = [[wikipedia:UTC13|UTC&#43;13]]
+| UTC+13:45 = [[wikipedia:UTC13:45|UTC&#43;13:45]]
+| UTC+14 = [[wikipedia:UTC14|UTC&#43;14]]
+| {{{zone}}}
+}}'''.{{#if:{{{zonename|}}}|<br />{{C|[[wikipedia:{{{zonename}}}|{{{zonename}}}]]}}|}}
+}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserTimeZone|zone=|zonename=}}</nowiki></code> to your user page, filling all relevant fields. Check [[wikipedia:List of time zones|Wikipedia's list of time zones]] to find the link to the Wikipedia article describing your timezone.
+
+===Required parameters===
+#{{Para|zone}} The user's numerical time zone relative to [[wikipedia:Greenwich Mean Time|GMT]] or [[wikipedia:Coordinated Universal Time|UTC]] standard time.
+
+===Optional parameters===
+#<li value="2">{{Para|zonename}}The name of the user's time zone.</li>
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <code><nowiki>{{UserTimeZone|zone=UTC+5:45|zonename=Nepal Time}}</nowiki></code> || {{UserTimeZone|zone=UTC+5:45|zonename=Nepal Time}}
+|}
+
+[[Category:Userbox templates|Time zone]]</noinclude>

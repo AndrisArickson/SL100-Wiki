@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=VisionsFocus
+|mode=TV
+|image=[[File:Star-Wars-Visions-series-logo-short.png|text-top|x14px|class=darkmodeinvert|link=Star Wars: Visions]]
+|series=Star Wars: Visions Filmmaker Focus
+|stext=Star Wars: Visions Filmmaker Focus
+|child=Star Wars: Visions Filmmaker Focus#{{{1|}}}
+|ctext={{{2|{{{1|}}}}}}
+}}<noinclude>
+
+{{Documentation}}
+
+[[Category:TV citation templates]]</noinclude>

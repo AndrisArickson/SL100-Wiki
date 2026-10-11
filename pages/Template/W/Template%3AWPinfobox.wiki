@@ -1,0 +1,55 @@
+{{#ifeq:{{NAMESPACE}}|User||<infobox layout="tabular" theme="group">
+	<image source="image"></image>
+	<title source="name"><default>{{PAGENAME}}</default></title>
+	<group collapse="open">
+		<header>Project information</header>
+		<data source="founder"><label>Founder(s)</label></data>
+		<data source="founded"><label>Founded</label></data>
+		<data source="ledby"><label>Led&#32;by</label></data>
+		<data source="chiefeditor"><label>Chief&#32;Editor</label></data>
+	</group>
+	<group collapse="open">
+		<header>Article information</header>
+		<data source="currentmainfocus"><label>Current main&#32;focus</label></data>
+		<data source="featuredarticles"><label>Featured&#32;articles</label></data>
+		<data source="restoredfeaturedarticles"><label>Restored&#32;featured&#32;articles</label></data>
+		<data source="goodarticles"><label>Good&#32;articles</label></data>
+		<data source="restoredgoodarticles"><label>Restored&#32;good&#32;articles</label></data>
+		<data source="completed"><label>Comprehensive articles</label></data>
+		<data source="totalarticles"><label>Total&#32;articles</label></data>
+	</group>
+	<group collapse="open">
+        <header>Writers and editors</header>
+		<data source="participants"><label>Participants</label></data>
+		<data source="guests"><label>Guest writers</label></data>
+	</group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:WPinfobox|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small><br /></navigation>
+</infobox>}}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+{{clear}}
+===Usage instructions===
+Paste the following code at the beginning of the article, filing all relevant fields. If a field doesn't apply, just leave it blank.<br />
+'''Note: This template has customizable colors for both primary and secondary headings. However, the heading colors will default to black and gray; choose your colors appropriately.'''
+<pre><nowiki>
+{{WPinfobox
+|BG1= <--primary heading coloring
+|BG2= <--secondary heading coloring
+|image= 
+|name= 
+|founder=
+|founded=
+|focus= 
+|ledby= 
+|chiefeditor=
+|currentmainfocus=
+|featuredarticles= 
+|restoredfeaturedarticles=
+|goodarticles= 
+|restoredgoodarticles= 
+|completed=
+|participants=
+|guests=
+}}
+</nowiki></pre>
+
+[[Category:OOU infobox templates|{{PAGENAME}}]]
+</noinclude>

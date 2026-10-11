@@ -1,0 +1,17 @@
+<table cellpadding="4" cellspacing="0" border="0" class="headerbackground"; style="border:2px solid #0FFF0F; background:#7FFF7F; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Birthday-RendezvousPoint.png|300px]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big> '''Happy Wookieeversary!'''</big></div>Congratulations on being a Wookieepedian for {{#switch:{{{1}}}|1 = 1 year|{{{1}}} = {{{1}}} years}}!<br /><div>{{SAFESUBST:<noinclude />#if:{{{2|}}}|{{{2|}}}|}}</div><div>&#8213;{{{3}}}</div></td></tr></table><noinclude>
+
+==Usage instructions==
+Copy the code below, modify it as necessary, and paste it onto the talk page of the user who is to be presented with the award. The first parameter populates how many years the user is celebrating, whilst a second parameter may be used to add a customized message.
+
+<code><nowiki>{{Wookieeversary|''Year''|''Custom message''|~~~}}</nowiki></code>
+
+==Examples==
+<code><nowiki>{{Wookieeversary|1||~~~}}</nowiki></code><br />
+Results in:
+{{Wookieeversary|1||[[Special:MyPage|{{USERNAME}}]] ([[Special:MyTalk|talk]])}}
+<br />
+<code><nowiki>{{Wookieeversary|3|You've improved so much, love to see what you'll bring in the next 3 years!|~~~}}</nowiki></code><br />
+Results in:
+{{Wookieeversary|3|You've improved so much, love to see what you'll bring in the next 3 years!|[[Special:MyPage|{{USERNAME}}]] ([[Special:MyTalk|talk]])}}
+
+[[Category:Award templates]]</noinclude>

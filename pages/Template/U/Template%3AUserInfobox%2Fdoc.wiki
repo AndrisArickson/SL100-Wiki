@@ -1,0 +1,114 @@
+__NOEDITSECTION__ __NOTOC__
+===Field list===
+*image
+*name
+*birth
+*birthplace
+*residence
+*gender
+*pronouns
+*height
+*hair
+*eyes
+*occupation
+*hobbies
+*contribs
+*userboxes (place optional userbox template here)
+
+===Color modifiers===
+*c1
+*c2
+*c3
+*imageBG
+*userboxBG
+
+===Usage===
+To use this template, paste the following code into the top of your userpage, filling all relevant fields:
+<pre><nowiki>
+{{UserInfobox
+|c1=
+|c2=
+|c3=
+|userboxBG=
+|image=
+|name=
+|birth= 
+|birthplace=
+|residence=
+|gender=
+|pronouns=
+|height= 
+|hair= 
+|eyes=
+|occupation=
+|hobbies=
+|contribs=
+|userboxes=
+}}</nowiki></pre>
+
+===Notes===
+#All the data fields are collapsible, so do not worry about leaving any of them empty. 
+
+==Example(s)==
+{{UserInfobox
+|c1=3366cc
+|c2=99ccff
+|c3=
+|userboxBG=
+|name=your name
+|birth=your date of birth
+|birthplace=your place of birth
+|gender=your gender
+|pronouns=any pronouns
+|height=your height
+|hair=your hair color
+|eyes=your eye color
+|hobbies=your hobbies
+|contribs=notable contributions
+|userboxes={{Lang|en|N}}
+{{UserFirefox}}
+{{UserSW|3}}
+}}
+
+===Code===
+<pre><nowiki>
+{{UserInfobox
+|c1=3366cc
+|c2=99ccff
+|c3=
+|userboxBG=
+|name=your name
+|birth=your date of birth
+|birthplace=your place of birth
+|gender=your gender
+|pronouns=any pronouns
+|height=your height
+|hair=your hair color
+|eyes=your eye color
+|hobbies=your hobbies
+|contribs=notable contributions
+|userboxes={{Lang|en|N}}
+{{UserFirefox}}
+{{UserSW|3}}
+}}</nowiki></pre>
+
+==Source==
+<syntaxhighlight lang="wikitext">
+{{subst:slh|{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}}} {{subst:sli|{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}}} {{subst:slc|{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}}} {{subst:sls|Biographical information|{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}|hideb}} {{subst:sld|Birth date|birth|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Birthplace|birthplace|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Residence|residence|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sls|Descriptive information|{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}|hidep}} {{subst:sld|Gender|gender|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Height|height|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Hair color|hair|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Eye color|eyes|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sls|General information|{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}|hideg}} {{subst:sld|Occupation|occupation|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Hobbies|hobbies|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sld|Canon contributions|contribs|{{#if:{{{c3|}}}|{{{c3}}}|none}}}} {{subst:sls|Userboxes|{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}|hideu}} {{#if:{{{userboxes|}}}|
+{{!}}- class="infoboxstopalt"
+{{!}} colspan="2" {{!}}
+{{{!}} border="0" cellpadding="0" cellspacing="0" style="padding:0; width:242px; margin:0 auto 0 auto; background:none;"
+{{!}}-
+{{!}} style="background:none;" {{!}} {{{userboxes|}}}
+{{!}}}
+{{!}}- |}} {{subst:slf|{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}}}
+</syntaxhighlight>
+
+{{Interlang
+|es=Plantilla:Usuario
+|pt=Predefinição:Infobox Usuário
+}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:OOU infobox templates|{{PAGENAME}}]]
+[[Category:User page templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,42 @@
+==Usage==
+<code><nowiki>{{WookCite|url=|text=|forum=}}</nowiki></code>
+
+'''Warning: [[Wookieepedia:Attribution|DO NOT]] USE THIS TO CITE [[In-universe|IN-UNIVERSE]] INFORMATION'''
+This template is intended for citing information solely related to [[Wookieepedia]], such as [[Forum:Senate Hall|Senate Hall]] threads, voting pages for the [[Wookieepedia:Wookieepedian of the Month|Wookieepedian of the Month]] award, and article revision history, or for interviews conducted under [[Wookieepedia:Interview and creator interaction policy]].
+
+===Required parameters===
+*{{Para|url}} Use the alphanumeric part of the url that comes after "<code><nowiki>https://starwars.fandom.com/wiki/</nowiki></code>" or "<code><nowiki>https://starwars.fandom.com/f/</nowiki></code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Webpage title.
+
+===Optional===
+*{{Para|forum}} To link to a post on Wookieepedia's [[Wookieepedia:Discussions|Discussions]] forum, use "<code>{{Para|forum}}1</code>".
+
+==Example(s)==
+;For a page on the wiki
+
+<code><nowiki>{{WookCite|url=Wookieepedia:Wookieepedian_of_the_Month/January_2021|text=Wookieepedia:Wookieepedian of the Month/January 2021}}</nowiki></code>
+
+Results in:
+
+{{WookCite|url=Wookieepedia:Wookieepedian_of_the_Month/January_2021|text=Wookieepedia:Wookieepedian of the Month/January 2021}}
+
+<hr />
+;For a page on Discussions
+
+<code><nowiki>{{WookCite|url=p/4400000000000012062|text=Ask An Editor A Question|forum=1}}</nowiki></code>
+
+Results in:
+
+{{WookCite|url=p/4400000000000012062|text=Ask An Editor A Question|forum=1}}
+
+<hr />
+;For a revision
+
+<code><nowiki>{{WookCite|url=Dreadnaught_cruiser?oldid=2927910|text=January 23, 2010 revision of the "Dreadnaught cruiser" article}}</nowiki></code>
+
+Results in:
+
+{{WookCite|url=Dreadnaught_cruiser?oldid=2927910|text=January 23, 2010 revision of the "Dreadnaught cruiser" article}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

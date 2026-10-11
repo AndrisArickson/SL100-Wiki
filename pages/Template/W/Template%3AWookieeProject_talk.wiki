@@ -1,0 +1,13 @@
+{{Ooumb
+|id={{{id|WookieeProject_talk}}}
+|bg={{{bg|#F8EABA}}}
+|image={{{image|[[File:UnderConstruction.png|100px]]}}}
+|caption=
+|message='''{{PAGENAME}}''' is within the scope of '''[[{{{1}}}|{{{2}}}]]''', {{{3}}}. <br />
+If you would like to participate, you can edit the article attached to this notice, or visit the [[{{{1}}}|project page]], where you can join the project and/or contribute to the discussion.
+}}<noinclude>{{Top|fprot}}
+
+[[Category:Utility templates|{{PAGENAME}}]]
+[[Category:WookieeProject templates|*]]
+
+</noinclude>

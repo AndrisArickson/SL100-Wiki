@@ -1,0 +1,36 @@
+<infobox theme="Year">
+    <title source="name"><default>{{#explode:{{PAGENAME}}|/|0}}</default></title>
+<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<image source="image"></image>
+    <data source="galacticera"><label>Galactic era(s)</label><format>{{Year/CanonGalacticEras}}</format></data>
+	<header>Dates in other dating systems</header>
+	<navigation>{{#ifeq:{{#explode:{{#explode:{{PAGENAME}}| |1}}|/|0}} | ABY | Year '''c. {{formatnum:{{#expr:{{formatnum:{{#explode:          {{PAGENAME}}| |0}}|R}} + 7977}}|R}}''' | Year '''c. {{formatnum:{{#expr: 7977 - {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}|R}}'''}} in the [[Coruscant reckoning calendar]]<ref name="Scum and Villainy">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' dates the [[Plot to assassinate Senator Amidala|assassination attempt]] on [[Padmé Amidala Naberrie|Padmé Amidala]] on [[Coruscant]] and the [[carbon-freezing]] of [[Han Solo]]&mdash;events that ''[[Star Wars: Timelines]]'' places in the [[Standard year|years]] [[22 BBY]] and [[3 ABY]] of the [['ABY-BBY' dating system]], respectively&mdash;to 7955.442.1 and 7980.421.2 in the [[Coruscant reckoning calendar]], therefore establishing a difference of approximately 7,977 years between the two dating systems.</ref></navigation>
+	<navigation>{{#ifeq:{{#explode:{{#explode:{{PAGENAME}}| |1}}|/|0}} | ABY | Year '''c. {{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} + 3277}}|R}} LY''' | Year '''c. {{formatnum:{{#expr: 3277 - {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}|R}} LY'''}} in the [[Lothal Calendar]]<ref name="RVG">''[[Star Wars Rebels: The Visual Guide]]'' places the founding of the [[Galactic Empire]] in the [[Standard year|year]] 3258 LY of the [[Lothal Calendar]]. ''[[Star Wars: Timelines]]'' dates the [[proclamation of the New Order]] to [[19 BBY]], placing the zero point&mdash;the [[Battle of Yavin]]&mdash;of the [['ABY-BBY' dating system]] around 3277 LY and therefore establishing a difference of approximately 3,277 years between the two dating systems.</ref></navigation>
+	<navigation class="last-calculated-year">{{#ifeq:{{#explode:{{#explode:{{PAGENAME}}| |1}}|/|0}} | ABY | Year '''c. {{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} + 19}}|R}}''' [[Imperial calendar|After the Formation of the Empire]] | {{#ifexpr: {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}  > 19 | Year '''c. {{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} - 19}}|R}}''' [[Imperial calendar|Before the Formation of the Empire]] |Year '''c. {{formatnum:{{#expr:19 - {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}|R}}''' [[Imperial calendar|After the Formation of the Empire]]}}}}<ref name="Rebel Files">Per ''[[Star Wars: The Rebel Files]]'', a [[Imperial calendar|calendar]] existed during the [[Imperial Era|reign]] of the [[Galactic Empire]] the zero point of which was the Empire's founding. ''[[Star Wars: Timelines]]'' dates the [[proclamation of the New Order]] to the [[Standard year|year]] [[19 BBY]] of the [['ABY-BBY' dating system]], therefore establishing a difference of approximately nineteen years between the two dating systems.</ref></navigation>
+    <group collapse="open">
+    	<header>Facts and statistics</header>	
+        <data source="conflict"><label>Conflicts</label></data>	
+        <data source="chancellor"><label>Chancellor</label></data>
+        <data source="chief"><label>Chief</label></data>	
+        <data source="head"><label>Head</label></data>
+        <data source="emperor"><label>Emperor</label></data>	
+        <data source="events"><label>Events</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Year|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox><noinclude>[[Category:Event infobox subtemplates]]{{Clear}}
+__NOTOC__
+'''Please ignore the error messages. The infobox will work correctly on an article whose title is formatted as "# ABY" or "# BBY".'''
+
+==Using the template==
+<pre><nowiki>
+{{Year
+|type=canon
+|image=
+|conflict=
+|chancellor=
+|chief=
+|head=
+|emperor=
+|events=
+}}
+</nowiki></pre></noinclude>

@@ -1,0 +1,32 @@
+==Welcome, {{{{{|safesubst:}}}PAGENAME}}!==
+{| id="w" width="100%" style="background: transparent;"
+| class="transparent-background" valign="top" width="50%" style="background: #DCE4FA; border: 2px solid #99B0F0; padding: .5em 1em; border-radius: 1em"|
+Hello, {{<includeonly>subst:</includeonly>PAGENAME}}, and [[Wookieepedia:Welcome, newcomers|welcome]] to '''[[Wookieepedia]]'''! We hope you like the place and choose to join us in building the best ''[[Star Wars]]'' encyclopedia there is. Here are some things you should know:
+{| width="100%"
+| valign="top" width="65%" |
+*Wookieepedia is [[Wookieepedia:About|'''the ''Star Wars'' encyclopedia that anyone can edit''']]. Check out our '''[[Wookieepedia:Editing tutorial: Padawan|editing basics tutorial]]''' for how to contribute!
+*Looking for a general ''[[Star Wars]]'' forum? Visit '''[[Wookieepedia:Discussions|Wookieepedia's Discussions]]''' today.
+*Have an idea to suggest? [[Wookieepedia:Voting eligibility policy|'''Community matters''']] on Wookieepedia are discussed via forums such as the '''[[Forum:Senate Hall|Senate Hall]]''', '''[[Forum:Consensus track|Consensus track]]''', and '''[[Forum:Trash compactor|Trash compactor]]'''.
+*Remember to [[Wookieepedia:User conduct policy#Civility|'''be nice''']] to your fellow Wookieepedians. Avoid making [[Wookieepedia:User conduct policy#Unacceptable behavior|'''personal attacks''']] and engaging in [[Wookieepedia:User conduct policy#Three-revert rule|'''edit wars''']]. Using [[Wookieepedia:Sockpuppetry|'''multiple accounts''']] is not allowed.
+*In-universe articles are written in '''past tense''' and from a [[Wookieepedia:Manual of Style#Perspective|'''neutral point of view''']]. Our [[Wookieepedia:Manual of Style|'''Manual of Style''']] and [[Wookieepedia:Layout Guide|'''Layout Guide''']] form the basis for writing on Wookieepedia.
+*All additions to Wookieepedia must be [[Wookieepedia:Sourcing|'''sourced''']] and [[Wookieepedia:Attribution|'''attributed to a reliable, official source''']]. Fanfiction is welcome on the [[w:c:swfanon|'''''Star Wars'' Fanon Wiki''']].
+*We encourage all users to set up a [[Wookieepedia:User page and profile policy|'''user page''']] and create a unique [[Wookieepedia:Signature policy|'''signature''']]. All [[Wookieepedia:Talk page policy|'''talk page and forum''']] comments are part of the public record and comments on them, including your own user talk page, should be left intact. Remember to '''sign your comments''' by typing four tildes, like this: <code><nowiki>~~~~</nowiki></code>
+| valign="middle" width="35%" |
+[[File:Wookiees-Transparent.png|right|250px|link=]]
+|}
+{{Clear}}
+New to wikis? Don't worry, we were all new once. Our [[Wookieepedia:Welcome, newcomers|'''welcome page''']] has everything you need to get started, and the [[Wookieepedia:Jundland Wastes|'''Jundland Wastes sandbox''']] can be used for test edits. Don't be afraid to make mistakes&mdash;[[Wookieepedia:User conduct policy#Be bold|'''be bold''']]!
+
+I hope you enjoy editing here and being a Wookieepedian! If you have any questions, you can consult our [[Wookieepedia:FAQ|'''FAQ''']], ask a question in the [[Forum:Senate Hall|'''Senate Hall forum''']], visit our official [[Wookieepedia:Discord|'''Discord server''']], or leave me a message on <includeonly>[[User talk:{{subst:REVISIONUSER}}|'''my talk page''']].</includeonly><br />'''[[May the Force be with you]]'''! &mdash;<includeonly>~~</includeonly><noinclude>~~</noinclude>~~
+|}<noinclude>{{Top|fprot}}
+
+
+==Usage==
+To place the above box on a new user's talk page type the following: '''<nowiki>{{subst:w}} </nowiki>'''
+
+<big>'''Please subst this template&mdash;it will not work properly if you don't.'''</big>
+
+==See also==
+*[[Forum:CT:Welcome template tweaking]]
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

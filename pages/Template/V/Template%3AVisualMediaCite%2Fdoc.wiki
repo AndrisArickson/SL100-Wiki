@@ -1,0 +1,34 @@
+This template is to be used for [[Wookieepedia:Sourcing|citing]] visual media (films, television shows, video games, etc.) that are not licensed by [[Lucasfilm]]. To cite a licensed publication, simply cite its [[Wookieepedia]] article or corresponding template.
+
+For printed media, see {{Tl|BookCite}}.
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many fields as you can, and remove any that you don't use. Provide wikilinks as needed.
+
+<code><nowiki>{{VisualMediaCite|title=|episode=|director=|prod=|year=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|title}}: Name of the media being cited.
+*{{Para|director}}: Director(s) of the media being cited.
+*{{Para|prod}}: Production company of the media being cited.
+*{{Para|year}}: Release year of the media being cited.
+
+===Optional parameters===
+*{{Para|episode}}: Episode of the media being cited.
+
+===Examples===
+'''Film''':<br />
+<code><nowiki>{{VisualMediaCite|title=[[Wikipedia:The Hunger Games (film)|''The Hunger Games'']]|director=[[Wikipedia:Gary Ross|Gary Ross]]|prod=[[Wikipedia:Lionsgate|Lionsgate]]|year=[[2012]]}}</nowiki></code>
+
+'''Results in''':<br />
+{{VisualMediaCite|title=[[Wikipedia:The Hunger Games (film)|''The Hunger Games'']]|director=[[Wikipedia:Gary Ross|Gary Ross]]|prod=[[Wikipedia:Lionsgate|Lionsgate]]|year=[[2012]]}}
+
+'''Television episode''':<br />
+<code><nowiki>{{VisualMediaCite|title=[[Wikipedia:The Office (American TV series)|''The Office'']]|episode=[[Wikipedia:Ben Franklin (The Office)|Ben Franklin]]|director=[[Wikipedia:Randall Einhorn|Randall Einhorn]]|prod=[[Wikipedia:NBC|NBC]]|year=[[2007]]}}</nowiki></code>
+
+'''Results in''':<br />
+{{VisualMediaCite|title=[[Wikipedia:The Office (American TV series)|''The Office'']]|episode=[[Wikipedia:Ben Franklin (The Office)|Ben Franklin]]|director=[[Wikipedia:Randall Einhorn|Randall Einhorn]]|prod=[[Wikipedia:NBC|NBC]]|year=[[2007]]}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:External media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

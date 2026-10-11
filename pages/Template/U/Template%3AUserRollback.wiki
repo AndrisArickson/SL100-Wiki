@@ -1,0 +1,9 @@
+{{Userbox|silver|lightgray|rb|This user has [[Wookieepedia:Rollback|'''Rollback''']] privileges.|headerbackground=2}}<includeonly>{{SpecialCategorizer|[[Category:Users with Rollback|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserRollback}}</nowiki></code> into your user page.
+
+==Categorization==
+*[[:Category:Users with Rollback]]
+
+[[Category:Wiki userboxes|Rollback]]</noinclude>

@@ -1,0 +1,6 @@
+{{User edits}}<includeonly>{{#ifeq:{{NAMESPACE}}|User||[[Category:Pages with deprecated templates]]}}</includeonly><noinclude>
+{{Clear}}
+==Usage==
+{{Deprecated|{{Tl|UserEdits}}}}
+
+[[Category:Wiki userboxes|edit]]</noinclude>

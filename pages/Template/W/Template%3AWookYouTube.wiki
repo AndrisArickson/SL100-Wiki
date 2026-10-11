@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=WookYouTube
+|archive=YouTube
+|image=[[File:Wiki-shrinkable.png|baseline|x16px|link=https://www.youtube.com/@{{#if:{{{old|}}}|WookieepediaOfficial|WookOfficial}}]]
+|site_text=the {{#if:{{{old|}}}|old&#32;}}official [[Wookieepedia]] [https://www.youtube.com/@{{#if:{{{old|}}}|WookieepediaOfficial|WookOfficial}} YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,45 @@
+'''Please ignore the error messages. The infobox will work correctly on an article whose title is formatted as "# ABY" or "# BBY".'''
+
+'''The template should auto-detect which continuity the page is in, but in case it doesn't work, the type= parameter will shift the infobox into a specific continuity and show the appropriate dating systems.'''
+
+==Example(s)==
+{{Year
+|image=
+|conflict=[[Mandalorian Wars]]
+|chancellor=[[Anwis Eddicus]]
+|chief=[[Mon Mothma/Legends|Mon Mothma]]
+|head=[[Tenel Ka Djo]] (of [[Hapes Consortium/Legends|Hapes Consortium]])
+|emperor=[[Palpatine/Legends|Palpatine]]
+|events=[[Treaty of Coruscant]]}}
+The year is automatically included in the template based upon the page name. The other fields are as follows:
+*Tapani: Year in the Tapani Sector calendar
+*conflict: Ongoing conflicts
+*chancellor: Supreme Chancellor during that year (may be multiple)
+*chief: Chief of State during that year (may be multiple)
+*head: Head of State during that year (may be multiple and can be used for any governing entity)
+*emperor: Emperor during that year (may be multiple)
+*events: Key events during the year. Do '''not''' include every birth, death, or battle.
+
+:'''The year-conversion and galacticera fields have both been deprecated. Their contents are automatically generated, and should not be manually added, as the code for those fields has been removed.'''
+
+==Using the template==
+<pre><nowiki>
+{{Year
+|image=
+|conflict=
+|chancellor=
+|chief=
+|head=
+|emperor=
+|events=}}
+</nowiki></pre>
+
+==Related templates==
+*[[Template:Year/Canon]]
+*[[Template:Year/Legends]]
+*[[Template:Year/GalacticEras]]
+*[[Template:Year/preload]]
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Event infobox templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

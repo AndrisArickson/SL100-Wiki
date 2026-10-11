@@ -1,0 +1,36 @@
+==Usage==
+Place the following code on the page and supply appropriate information after the = signs.
+ <nowiki>{{</nowiki>WEGCite|book=|text=|story=|stext=|smanual=|reprint=}}
+
+The '''book''' and '''story''' fields are required, while '''text''' and '''stext''' are optional formatting parameters, and '''smanual''' and '''reprint''' are optional indicators. If the field '''smanual''' is used, the quotation marks around the story name are omitted. If the field '''reprint''' is used, reprint information is appended.
+
+All formatting must adhere to the [[Wookieepedia:Layout Guide#Sources|Layout Guide]].
+:→<small>Edition follows a comma and is not italicized. See [[Forum:CT:How to name publication edition, redux]]</small>
+
+*Any sourcebook from [[West End Games]] can be used in the '''book''' field. An example is ''[[Galaxy Guide 3: The Empire Strikes Back]]''.
+**By default, the entire sourcebook name is italicized, and any parenthetical at the end is omitted. To use an alternate formatting, use the '''text''' field, as in the third example below.
+*Any story from West End Games can be used in the '''story''' field.
+**If the '''story''' field needs to be formatted then use '''stext''', otherwise omit it. 
+*The '''reprint''' parameter is used in Appearances and Sources sections to denote when a work is reprinted in a later source.
+
+===Examples===
+Without '''stext''' field and with '''reprint''' field
+
+{{WEGCite|book=Star Wars: The Roleplaying Game (first edition)|story=Regina Cayli (adventure)|reprint=1}}
+ <nowiki>{{WEGCite|book=Star Wars: The Roleplaying Game (first edition)|story=Regina Cayli (adventure)|reprint=1}}</nowiki>
+
+With '''stext''' and '''reprint''' fields
+
+{{WEGCite|book=Dark Force Rising Sourcebook|story=Gottu and His Vibro-ax|stext=Gottu and His Vibroaxe|reprint=1}}
+ <nowiki>{{WEGCite|book=Dark Force Rising Sourcebook|story=Gottu and His Vibro-ax|stext=Gottu and His Vibroaxe|reprint=1}}</nowiki>
+
+With '''text''' field
+
+{{WEGCite|book=Star Wars: The Roleplaying Game, Second Edition|text=''Star Wars: The Roleplaying Game'', Second Edition|story=Money Troubles}}
+ <nowiki>{{WEGCite|book=Star Wars: The Roleplaying Game, Second Edition|text=''Star Wars: The Roleplaying Game'', Second Edition|story=Money Troubles}}</nowiki>
+
+==Image==
+[[File:WEGCite-Icon.png|thumb|left|Not an orphan]]
+
+<!-- Add categories below this line -->
+<includeonly>[[Category:Game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

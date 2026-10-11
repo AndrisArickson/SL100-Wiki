@@ -1,0 +1,22 @@
+==Usage==
+Wikipedia template for use in the [[Wookieepedia:Layout Guide#External links|External links]] section of an article. Per policy, please always specify the Wikipedia page title in the parameter (and if need be, a formatted title matching the Wookieepedia page title in another parameter). When no parameters are supplied, the Wikipedia link defaults to the Wookieepedia page title on which the template is used, and it will be categorised in [[:Category:Usages of Template:WP without parameters]].
+
+<code><nowiki>{{WP|page title on Wikipedia|optional formatted title}}</nowiki></code>
+
+==Example(s)==
+<code><nowiki>{{WP|Luke Skywalker}}</nowiki></code>
+
+Results in:
+
+{{WP|Luke Skywalker}}
+
+<hr />
+<code><nowiki>{{WP|The Mandalorian (character)|Din Djarin}}</nowiki></code>
+
+Results in:
+
+{{WP|The Mandalorian (character)|Din Djarin}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

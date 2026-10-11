@@ -1,0 +1,13 @@
+==[[:{{{1}}}]]==
+The article you created at [[{{{1}}}]] met our [[Wookieepedia:Speedy deletions|criteria for speedy deletion]]. Since it appears to be about you or a character you created, I've moved it to [[Special:MyPage|your user space]] instead, which was probably what you intended in the first place (a common mistake among [[Wookieepedia:Welcome, newcomers|newcomers]].)
+
+If you really did mean to create an article about yourself, a persona you use in roleplaying, or a character from your fanfiction, please be aware that [[fanon]] is generally disallowed on Wookieepedia.  The only exception to this rule is user pages, subject to the rules set in our [[Wookieepedia:User page and profile policy|user page policy]]. Your contributions may better fit the [[w:c:swfanon|Star Wars Fanon Wiki]].<noinclude>
+
+==Usage==
+This template is designed for use on user talk pages when content which would be more appropriate on a user page is accidentally placed on a new page in the main article namespace.
+
+Please <code>subst</code> this template by typing <code><nowiki>{{subst:nn-userfy|</nowiki>{{Var|original article title}}<nowiki>}}</nowiki></code>, and don't forget to sign with <code><nowiki>~~~~</nowiki></code>.
+
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|Userfy]]</noinclude>

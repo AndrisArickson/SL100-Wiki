@@ -1,0 +1,18 @@
+{{#invoke:BaseCitation|main|template=Valkyrie
+|mode=magazine
+|image=[[File:Valkyrie.jpg|link=Valkyrie]]
+|series=Valkyrie
+|issue={{{1|{{{issue|}}}}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{{story|{{{2}}}}}}
+|ctext={{{sformatted|{{{3|}}}}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "issue number", "story name" and "formatted name" with the appropriate information.<br />
+<nowiki>{{</nowiki>Valkyrie|''ISSUE NUMBER''|''STORY NAME''|''FORMATTED NAME'' (optional)}}
+
+==Examples==
+*{{Valkyrie|19|Operation Phoenix}}
+*{{Valkyrie|issue1=19|issue2=20|story=Flight of the Jedi}}
+[[Category:Unlicensed magazine citation templates|Valkyrie]]</noinclude>

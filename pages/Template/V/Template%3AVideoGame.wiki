@@ -1,0 +1,83 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="developer"><label>Developer(s)</label></data>
+        <data source="publisher"><label>Publisher(s)</label></data>
+        <data source="release date"><label>Release date</label><format><!--
+        -->{{#ifeq:{{lc:{{{release date|}}}}}|none||{{#ifeq:{{lc:{{{release date|}}}}}|future||{{{release date|}}}}}}}<!--
+        --></format></data>
+        <data source="closed"><label>Date closed</label></data>
+        <data source="upc"><label>[[Wikipedia:Universal Product Code|UPC]]</label></data>
+        <data source="engine"><label>Game engine</label></data>	
+        <data source="genre"><label>Genre</label></data>
+        <data source="modes"><label>Modes</label></data>	
+        <data source="ratings"><label>Rating(s)</label></data>	
+        <data source="platforms"><label>Platform(s)</label></data>
+        <data source="series"><label>Series</label></data>
+        <data source="basegame"><label>Base game</label></data>	
+        <data source="expansions"><label>Expansion(s)</label></data>	     
+    </group>
+    <group collapse="open">
+        <header>Attribution information</header>
+        <data source="director"><label>Director(s)</label></data>
+        <data source="producer"><label>Producer(s)</label></data>
+        <data source="designer"><label>Designer(s)</label></data>
+        <data source="programmer"><label>Programmer(s)</label></data>
+        <data source="artist"><label>Artist(s)</label></data>
+        <data source="writer"><label>Writer(s)</label></data>
+        <data source="composer"><label>Composer(s)</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Chronological information</header>
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="prev"><label>Previous</label></data>
+        <data source="next"><label>Next</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:VideoGame|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|developer|publisher|release date|closed|upc|engine|genre|modes|ratings|platforms|series|basegame|expansions|director|producer|designer|programmer|artist|writer|composer|timeline|prev|next|optional=no_year_check,not_appearance|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check={{{no_year_check|}}}|template_name=VideoGame}}<includeonly>{{AppMediaCat|not_appearance={{{not_appearance|}}}}}</includeonly><noinclude>
+{{Top|sprot}}
+==Usage==
+The attribution information parameters (director to composer) are there to feature only the names of the people involved in leadership/major positions.
+
+<pre>
+{{VideoGame
+|image=
+|title=
+|developer=
+|publisher=
+|release date=
+|closed=
+|upc=
+|engine=
+|genre=
+|modes=
+|ratings=
+|platforms=
+|series=
+|basegame=
+|expansions=
+|director=
+|producer=
+|designer=
+|programmer=
+|artist=
+|writer=
+|composer=
+|timeline=
+|prev=
+|next=
+}}
+</pre>
+
+{{Interlang
+|es=Plantilla:CVG
+}}
+
+[[Category:Game infoboxes]]
+</noinclude>

@@ -1,0 +1,10 @@
+{{Ooumb
+|id=Usermirror
+|bg=#eeeeee
+|image=[[File:Dialog-warning.svg|45px]]
+|caption=This user page was originally at [https://starwars.fandom.com Wookieepedia], the ''Star Wars'' Wiki.
+|message=If you are currently browsing another site, that site is a Wookieepedia mirror and may be outdated. Please see the [https://starwars.fandom.com/wiki/User:{{urlencode:{{{1}}}|WIKI}} original] from which this version of the user page was copied.
+}}<noinclude>
+
+''Usage: <nowiki>{{usermirror|User name}}</nowiki>''
+[[Category:User page templates|{{PAGENAME}}]]</noinclude>

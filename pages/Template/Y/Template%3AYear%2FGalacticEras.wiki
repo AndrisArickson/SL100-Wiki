@@ -1,0 +1,85 @@
+{{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | BBY
+|{{#ifexpr:25053 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} 
+|*[[Pre-Republic era]]<ref name="Era1">''[[The New Essential Chronology]]'' establishes that the [[Pre-Republic era]] preceded the [[Galactic Constitution Conference|foundation]] of the [[Galactic Republic/Legends|Galactic Republic]], which ''[[Star Wars: The Old Republic Encyclopedia]]'' dates to [[25,053 BBY]].</ref>
+*[[Expansionist Era]]<ref name="Era2">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[25,053 BBY]] and [[20,000 BBY/Legends|20,000 BBY]].</ref>
+|{{#ifexpr:20000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} 
+|*[[Expansionist Era]]<ref name="Era1">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[25,053 BBY]] and [[20,000 BBY/Legends|20,000 BBY]].</ref>
+*[[Great Manifest Period/Legends|Great Manifest Period]]<ref name="Era2">''[[The New Essential Chronology]]'' and ''[[The Essential Guide to Warfare]]'' established the endpoints of this era as [[20,000 BBY/Legends|20,000 BBY]] and [[17,018 BBY]].</ref>
+|{{#ifexpr:17018 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Great Manifest Period/Legends|Great Manifest Period]]<ref name="Era1">''[[The New Essential Chronology]]'' and ''[[The Essential Guide to Warfare]]'' established the endpoints of this era as [[20,000 BBY/Legends|20,000 BBY]] and [[17,018 BBY]].</ref>
+*[[Indecta Era]]<ref name="Era2">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[17,018 BBY]] and [[15,000 BBY/Legends|15,000 BBY]].</ref>
+|{{#ifexpr:15000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} 
+|*[[Indecta Era]]<ref name="Era1">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[17,018 BBY]] and [[15,000 BBY/Legends|15,000 BBY]].</ref>
+*[[Kymoodon Era]]<ref name="Era2">''[[The Essential Guide to Warfare]]'' establishes the endpoints of this era as [[15,000 BBY/Legends|15,000 BBY]] and [[11,987 BBY]].</ref>
+|{{#ifexpr:11987 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Kymoodon Era]]<ref name="Era1">''[[The Essential Guide to Warfare]]'' establishes the endpoints of this era as [[15,000 BBY/Legends|15,000 BBY]] and [[11,987 BBY]].</ref>
+*[[Pius Dea Era]]<ref name="Era2">''[[The Essential Guide to Warfare]]'' establishes that the [[Pius Dea Era]] lasted from [[11,987 BBY]] to [[10,966 BBY]].</ref>
+|{{#ifexpr:10966 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Pius Dea Era]]<ref name="Era1">''[[The Essential Guide to Warfare]]'' establishes that the [[Pius Dea Era]] lasted from [[11,987 BBY]] to [[10,966 BBY]].</ref>
+*[[Ductavis Era]]<ref name="Era2">''[[The Essential Guide to Warfare]]'' and ''[[The Essential Atlas]]'' establishes the endpoints of this era as [[10,966 BBY]] and [[9000 BBY]].</ref>
+|{{#ifexpr:9000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Ductavis Era]]<ref name="Era1">''[[The Essential Guide to Warfare]]'' and ''[[The Essential Atlas]]'' establishes the endpoints of this era as [[10,966 BBY]] and [[9000 BBY]].</ref>
+*[[Rianitus Period]]<ref name="Era2">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[9000 BBY]] and [[8000 BBY]].</ref>
+|{{#ifexpr:8000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Rianitus Period]]<ref name="Era1">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[9000 BBY]] and [[8000 BBY]].</ref>
+*[[Subterra Period]]<ref name="Era2">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[8000 BBY]] and [[7000 BBY]].</ref>
+|{{#ifexpr:7000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Subterra Period]]<ref name="Era1">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[8000 BBY]] and [[7000 BBY]].</ref>
+*[[Manderon Period]]<ref name="Era2">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[7000 BBY]] and [[5000 BBY/Legends|5000 BBY]].</ref>
+|{{#ifexpr:5000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Manderon Period]]<ref name="Era1">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[7000 BBY]] and [[5000 BBY/Legends|5000 BBY]].</ref>
+*[[Post-Manderon period]]<ref name="Era2">''[[The Essential Atlas]]'' confirms the [[Manderon Period]] ends in [[5000 BBY/Legends|5000 BBY]], while ''[[The Complete Star Wars Encyclopedia]]'' states the [[Old Sith Wars]] start with the beginning of the [[Great Sith War/Legends|Great Sith War]] in [[4000 BBY/Legends|4000 BBY]].</ref>
+|{{#ifexpr:4000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Post-Manderon period]]<ref name="Era1">''[[The Essential Atlas]]'' confirms the [[Manderon Period]] ends in [[5000 BBY/Legends|5000 BBY]], while ''[[The Complete Star Wars Encyclopedia]]'' states the [[Old Sith Wars]] start with the beginning of the [[Great Sith War/Legends|Great Sith War]] in [[4000 BBY/Legends|4000 BBY]].</ref>
+*[[Old Sith Wars]]<ref name="Era2">''[[The Complete Star Wars Encyclopedia]]'' states that the [[Old Sith Wars]] span from the beginning of the [[Great Sith War/Legends|Great Sith War]] and the [[Sith Civil War]].</ref>
+|{{#ifexpr:3956 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Old Sith Wars]]<ref name="Era1">''[[The Complete Star Wars Encyclopedia]]'' states that the [[Old Sith Wars]] span from the beginning of the [[Great Sith War/Legends|Great Sith War]] and the [[Sith Civil War]].</ref>
+*[[Inter-Sith Wars period]]<ref name="Era2">{{CSWECite|II|407|Old Sith Wars}} establishes that the [[Old Sith Wars]] included the [[Jedi Civil War]], which ended in [[3956 BBY]] per ''[[The Essential Atlas]]'', and {{CSWECite|I|xii|A Timeline of Galactic Events}} dates the beginning of the [[New Sith Wars]] to [[2000 BBY/Legends|2000 BBY]].</ref>
+|{{#ifexpr:2000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Inter-Sith Wars period]]<ref name="Era1">{{CSWECite|II|407|Old Sith Wars}} establishes that the [[Old Sith Wars]] included the [[Jedi Civil War]], which ended in [[3956 BBY]] per ''[[The Essential Atlas]]'', and {{CSWECite|I|xii|A Timeline of Galactic Events}} dates the beginning of the [[New Sith Wars]] to [[2000 BBY/Legends|2000 BBY]].</ref>
+*[[Draggulch Period]]<ref name="Era2">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[2000 BBY/Legends|2000 BBY]] and [[1000 BBY/Legends|1000 BBY]].</ref>
+|{{#ifexpr:1000 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Draggulch Period]]<ref name="Era1">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[2000 BBY/Legends|2000 BBY]] and [[1000 BBY/Legends|1000 BBY]].</ref>
+*[[Great Peace of the Republic]]<ref name="Era2">{{CSWECite|I|363|Great Peace of the Republic}} establishes that the [[Great Peace of the Republic]] lasted between the [[Ruusan campaign]] and the [[First Battle of Geonosis/Legends|beginning]] of the [[Clone Wars/Legends|Clone Wars]], which ''[[The New Essential Chronology]]'' dates to [[1000 BBY/Legends|1000 BBY]] and [[22 BBY/Legends|22 BBY]], respectively.</ref>
+|{{#ifexpr:25053 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} 
+|[[Pre-Republic era]]<ref name="Era">''[[The New Essential Chronology]]'' establishes that the [[Pre-Republic era]] preceded the [[Galactic Constitution Conference|foundation]] of the [[Galactic Republic/Legends|Galactic Republic]], which ''[[Star Wars: The Old Republic Encyclopedia]]'' dates to [[25,053 BBY]].</ref>
+|{{#ifexpr:20000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} 
+|[[Expansionist Era]]<ref name="Era">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[25,053 BBY]] and [[20,000 BBY/Legends|20,000 BBY]].</ref>
+|{{#ifexpr:17018 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Great Manifest Period/Legends|Great Manifest Period]]<ref name="Era">''[[The New Essential Chronology]]'' and ''[[The Essential Guide to Warfare]]'' established the endpoints of this era as [[20,000 BBY/Legends|20,000 BBY]] and [[17,018 BBY]].</ref>
+|{{#ifexpr:15000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} 
+|[[Indecta Era]]<ref name="Era">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[17,018 BBY]] and [[15,000 BBY/Legends|15,000 BBY]].</ref>
+|{{#ifexpr:11987 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Kymoodon Era]]<ref name="Era">''[[The Essential Guide to Warfare]]'' establishes the endpoints of this era as [[15,000 BBY/Legends|15,000 BBY]] and [[11,987 BBY]].</ref>
+|{{#ifexpr:10966 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Pius Dea Era]]<ref name="Era">''[[The Essential Guide to Warfare]]'' establishes that the [[Pius Dea Era]] lasted from [[11,987 BBY]] to [[10,966 BBY]].</ref>
+|{{#ifexpr:9000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Ductavis Era]]<ref name="Era">''[[The Essential Guide to Warfare]]'' and ''[[The Essential Atlas]]'' establishes the endpoints of this era as [[10,966 BBY]] and [[9000 BBY]].</ref>
+|{{#ifexpr:8000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Rianitus Period]]<ref name="Era">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[9000 BBY]] and [[8000 BBY]].</ref>
+|{{#ifexpr:7000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Subterra Period]]<ref name="Era">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[8000 BBY]] and [[7000 BBY]].</ref>
+|{{#ifexpr:5000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Manderon Period]]<ref name="Era">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[7000 BBY]] and [[5000 BBY/Legends|5000 BBY]].</ref>
+|{{#ifexpr:4000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Post-Manderon period]]<ref name="Era">''[[The Essential Atlas]]'' confirms the [[Manderon Period]] ends in [[5000 BBY/Legends|5000 BBY]], while ''[[The Complete Star Wars Encyclopedia]]'' states the [[Old Sith Wars]] start with the beginning of the [[Great Sith War/Legends|Great Sith War]] in [[4000 BBY/Legends|4000 BBY]].</ref>
+|{{#ifexpr:3956 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Old Sith Wars]]<ref name="Era">''[[The Complete Star Wars Encyclopedia]]'' states that the [[Old Sith Wars]] span from the beginning of the [[Great Sith War/Legends|Great Sith War]] and the [[Sith Civil War]].</ref>
+|{{#ifexpr:2000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}} | |0}}|R}}
+|[[Inter-Sith Wars period]]<ref name="Era">{{CSWECite|II|407|Old Sith Wars}} establishes that the [[Old Sith Wars]] included the [[Jedi Civil War]], which ended in [[3956 BBY]] per ''[[The Essential Atlas]]'', and {{CSWECite|I|xii|A Timeline of Galactic Events}} dates the beginning of the [[New Sith Wars]] to [[2000 BBY/Legends|2000 BBY]].</ref>
+|{{#ifexpr:1000 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Draggulch Period]]<ref name="Era">''[[The Essential Atlas]]'' establishes the endpoints of this era as [[2000 BBY/Legends|2000 BBY]] and [[1000 BBY/Legends|1000 BBY]].</ref>
+|{{#ifexpr:21 < {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Great Peace of the Republic]]<ref name="Era">{{CSWECite|I|363|Great Peace of the Republic}} establishes that the [[Great Peace of the Republic]] lasted between the [[Ruusan campaign]] and the [[First Battle of Geonosis/Legends|beginning]] of the [[Clone Wars/Legends|Clone Wars]], which ''[[The New Essential Chronology]]'' dates to [[1000 BBY/Legends|1000 BBY]] and [[22 BBY/Legends|22 BBY]], respectively.</ref>
+|{{#ifexpr:20 > {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Imperial Period]]<ref name="Era">''[[The Essential Guide to Warfare]]'' and ''[[The New Essential Chronology]]'' establish the endpoints of this era as [[19 BBY/Legends|19 BBY]] and [[4 ABY/Legends|4 ABY]].</ref>}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+|{{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | ABY
+|{{#ifexpr:4 = {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|*[[Imperial Period]]<ref name="Era">The [[:File:Beware the Sith timeline.jpg|timeline]] provided in ''[[Star Wars: Beware the Sith]]''.</ref>
+*[[Post-Imperial era/Legends|New Republic Era]]<ref name="Era" />
+|{{#ifexpr:4 > {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}}
+|[[Imperial Period]]<ref name="Era">''[[The Essential Guide to Warfare]]'' and ''[[The New Essential Chronology]]'' establish the endpoints of this era as [[19 BBY/Legends|19 BBY]] and [[4 ABY/Legends|4 ABY]].</ref>
+|{{#ifexpr:{{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} < 20 or {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} = 20
+|[[Post-Imperial era/Legends|New Republic Era]]<ref name="Era">The [[:File:Beware the Sith timeline.jpg|timeline]] provided in ''[[Star Wars: Beware the Sith]]'' establishes that the [[Post-Imperial era/Legends|New Republic Era]] started in [[4 ABY/Legends|4 ABY]] and lasted until at least [[20 ABY/Legends|20 ABY]].</ref>}}}}
+}}}}}}
+<noinclude>[[Category:Event infobox subtemplates]]</noinclude>

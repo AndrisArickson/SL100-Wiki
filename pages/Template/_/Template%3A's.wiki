@@ -1,0 +1,13 @@
+<span style="padding-left: 0.1em;">'</span>s<noinclude>{{Top|fprot}}
+
+==Usage==
+Use the template to add an apostrophe with "s" when it is surrounded by the same apostrophe symbols, which create text in ''italics'' or in '''bold'''. For example:
+
+<pre>The ''[[Thunderer]]''{{'s}} attack failed.</pre>
+The ''[[Thunderer]]''{{'s}} attack failed.
+
+==See also==
+If adding an apostrophe without an "s" to italicized or bolded text, use the {{Tlx|'}} template ([[Template:']]) instead.
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

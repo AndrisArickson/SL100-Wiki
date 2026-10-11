@@ -1,0 +1,10 @@
+||<noinclude>
+; Description
+: This template is used for creating two pipes in [[w:Help:Tables|wikitables]] contained in [[w:Help:Parser functions|parser functions]] or inside templates.
+;Syntax
+:Insert this template using <code><nowiki>{{!!}}</nowiki></code>
+{{Interlang
+|tr=Şablon:!!
+}}
+[[Category:Utility metatemplates]]
+</noinclude>

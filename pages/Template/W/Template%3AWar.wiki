@@ -1,0 +1,56 @@
+{{{{#if:{{{side4|}}}{{{commanders4|}}}|War400|{{#if:{{{side3|}}}{{{commanders3|}}}|War350|War300}}}}
+|prev={{{prev|}}}
+|conc={{{conc|}}}
+|next={{{next|}}}
+|image={{{image|}}}
+|name={{{name|}}}
+|begin={{{begin|}}}
+|end={{{end|}}}
+|date={{{date|}}}
+|place={{{place|}}}
+|result={{{result|}}}
+|battles={{{battles|}}}
+|side1={{{side1|}}}
+|side2={{{side2|}}}
+|side3={{{side3|}}}
+|side4={{{side4|}}}
+|commanders1={{{commanders1|}}}
+|commanders2={{{commanders2|}}}
+|commanders3={{{commanders3|}}}
+|commanders4={{{commanders4|}}}
+}}{{PreloadCat}}{{#ifeq:{{NAMESPACE}}| |{{#if:{{{side4|}}}|[[Category:4-sided battles]]|}}|}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|prev|conc|next|image|name|begin|end|date|place|result|battles|side1|side2|side3|side4|commanders1|commanders2|commanders3|commanders4|ignore=name}}{{#if:{{{place|}}}{{NAMESPACE}}||[[Category:Events without location|{{PAGENAME}}]]}}<noinclude>[[category:Event infobox templates]]
+
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+{{Clear}}
+
+===Usage===
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>{{War
+|prev=
+|conc=
+|next=
+|image=
+|name=
+|begin=
+|end=
+|date=
+|place=
+|result=
+|battles=
+|side1=
+|side2=
+|side3=
+|side4=
+|commanders1=
+|commanders2=
+|commanders3=
+|commanders4=}}</nowiki></pre></noinclude>

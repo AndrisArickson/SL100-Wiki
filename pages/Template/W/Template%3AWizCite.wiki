@@ -1,0 +1,23 @@
+<includeonly>{{#invoke:BaseCitation|main|template=WizCite
+|image=[[File:WizardsoftheCoast.png|text-bottom|x18px|link=Wizards of the Coast]]
+|parent={{{book|}}}
+|ptext={{{text|}}}
+|child={{{story}}}
+|ctext={{{sformatted|}}}
+}}</includeonly><noinclude>
+
+This template is used for citing adventures and stories in the various [[Wizards of the Coast]] RPG sourcebooks. 
+
+==Usage==
+Place the following code on the page and replace the "issue number" and "story name" with the appropriate information.
+ <nowiki>{{</nowiki>WizCite|book=BOOK NAME|story=''STORY NAME''|sformatted=''FORMATTED STORY NAME''}}
+
+For example:
+*<code><nowiki>{{WizCite|story=Shadows of Coruscant|book=Star Wars Roleplaying Game Core Rulebook}}</nowiki></code>
+results in:
+*{{WizCite|story=Shadows of Coruscant|book=Star Wars Roleplaying Game Core Rulebook}}
+
+==Image==
+[[File:WizardsoftheCoast.png|thumb|left|Not an orphan.]]
+
+[[Category:Game citation templates|Wizards]]</noinclude>

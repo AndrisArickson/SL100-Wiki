@@ -1,0 +1,13 @@
+{| style="border: 2px solid #0D509D; background: rgba(102,176,255,.33); width: 85%; text-align: left; margin: 0 auto; padding: 3px; margin-bottom: 3px; font-size: 95%;" 
+|- style="vertical-align:middle;"
+| style="padding:.5em .5em .5em .5em;" | [[File:Site-logo.png|right|100px]]
+| style="overflow:hidden; width:100%; vertical-align:middle; padding: 4px;" | <div style="font-size:larger;">'''"Great shot, kid! That was one in a million!"'''</div>Congratulations &mdash; you have been elected [[Wookieepedia:Wookieepedian of the Month|'''Wookieepedian of the Month''']] for [[Wookieepedia:Wookieepedian of the Month/{{<includeonly>subst:</includeonly>CURRENTMONTHNAME}} {{<includeonly>subst:</includeonly>CURRENTYEAR}}|'''{{<includeonly>subst:</includeonly>CURRENTMONTHNAME}} {{<includeonly>subst:</includeonly>CURRENTYEAR}}''']] by the Wookieepedia community! Feel free to add the {{Tl|UserWotM}} userbox to your userpage to acknowledge this honor. The community thanks you for your efforts and looks forward to future contributions from you! &mdash; {{{1}}}
+|}<br /><noinclude>
+
+==Usage==
+Administrators who archive successful Wookieepedian of the Month nominations: to place the above box on a user's talk page type the following: '''<nowiki>{{subst:WotM_notify|~~~~}} </nowiki>'''
+
+<big>'''Please subst this template&mdash;it will not work properly if you don't.'''</big>
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,6 @@
+The events of ''[[Star Wars: The Acolyte]]'' take place in [[132 BBY]] per the reasoning [[Template:TheAcolyteDate|here]]. ''[[Star Wars: The Acolyte: The Visual Guide]]'' establishes that [[Indara]] is fifty-four [[Standard year|years]] old in ''The Acolyte'' and also states that she is twenty-six years old during the events of {{#ifeq:{{PAGENAME}}|The Acolyte: Wayseeker|''The Acolyte: Wayseeker''|''[[The Acolyte: Wayseeker]]''}}. Therefore, the events of ''Wayseeker'' must take place around [[160 BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{WayseekerDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

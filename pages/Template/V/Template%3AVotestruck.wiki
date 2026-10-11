@@ -1,0 +1,59 @@
+<s>{{{vote}}}</s> <small>(Vote struck, reason: {{#switch:{{{reason|}}}
+  |registere|register|r=Only registered Wookieepedia users are eligible to vote. [[w:c:community:Help:Create an account|Click here]] to create an account.
+  |blocked|block|b=Per [[Wookieepedia:Voting eligibility policy|policy]]: [[Wookieepedia:Blocking policy|Blocked]] users are ineligible from all active votes for the duration of the block. ([[Wookieepedia:Sockpuppetry|Sockpuppet]] votes are also permanently ineligible.)
+  |edits|edit|e=Per [[Wookieepedia:Voting eligibility policy|policy]]: Users must contribute 50 edits within the last 6 months under their registered Wookieepedia account to become voting-eligible. Edits to userpages and talk pages and any reverted and deleted edits do not count toward this total.
+  |account|acc|a=Per [[Wookieepedia:Voting eligibility policy|policy]]: A user's Fandom account must have been registered prior to the start of a vote subject to the [[Wookieepedia:Consensus|Consensus policy]], requests for user rights/removal of user rights votes, or review board membership nominations to be eligible to vote on such forums.
+  |discussions|posts|dis|d=Per [[Wookieepedia:Voting eligibility policy|policy]]: On votes subject to the [[Wookieepedia:Consensus|Consensus policy]] and concerning policies that affect the site's [[Wookieepedia:Discord|Discord server]] or [[Wookieepedia:Discussions|Discussions forum]], users who have not contributed 50 edits within the last 6 months under their registered Wookieepedia account may alternatively only vote if they are a Discussions moderator or have made at least 200 non-deleted posts on the site's Discussions forum within the previous 6 months prior to the start of the vote.
+  |duplicate|dupe|dup=Duplicate vote.
+  |signature|sign|sig|s=Per [[Wookieepedia:Signature policy|policy]]: Invalid or non-existent signature. To generate a signature, use <code><nowiki>~~~~</nowiki></code> or the signature icon [[File:Wikisigbutton.png]].
+  |Per [[Wookieepedia:Voting eligibility policy|policy]]: {{{reason}}}
+}} -- {{{removedby}}})</small><noinclude>
+==Usage==
+This template is to be used by [[Wookieepedia:Administrators|administrators]] when striking ineligible votes, whether it's pursuant to the [[Wookieepedia:Voting eligibility policy|Voting eligibility policy]] or to the rules of the [[Wookieepedia:Star Wars Character of the Year|''Star Wars'' Character of the Year]] contest.
+
+Copy the template code below and wrap it around the vote in question. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<pre>#:{{Votestruck|removedby=~~~~|reason=|vote=}}</pre>
+
+===Required parameters===
+*{{Para|removedby}} Your wiki signature (<code><nowiki>~~~~</nowiki></code>).
+*{{Para|reason}} Reason for the vote being struck, possible value options being:
+{|class="wikitable sortable" {{Prettytable}}
+!Value !! Output
+|-
+|<code>registered</code><br /><code>register</code><br /><code>r</code>||Only registered Wookieepedia users are eligible to vote. [[w:c:community:Help:Create an account|Click here]] to create an account.
+|-
+|<code>blocked</code><br /><code>block</code><br /><code>b</code>||Per [[Wookieepedia:Voting eligibility policy|policy]]: [[Wookieepedia:Blocking policy|Blocked]] users are ineligible from all active votes for the duration of the block. ([[Wookieepedia:Sockpuppetry|Sockpuppet]] votes are also permanently ineligible.)
+|-
+|<code>edits</code><br /><code>edit</code><br /><code>e</code>||Per [[Wookieepedia:Voting eligibility policy|policy]]: Users must contribute 50 edits within the last 6 months under their registered Wookieepedia account to become voting-eligible. Edits to userpages and talk pages and any reverted and deleted edits do not count toward this total.
+|-
+|<code>account</code><br /><code>acc</code><br /><code>a</code>||Per [[Wookieepedia:Voting eligibility policy|policy]]: A user's Fandom account must have been registered prior to the start of a vote subject to the [[Wookieepedia:Consensus|Consensus policy]], requests for user rights/removal of user rights votes, or review board membership nominations to be eligible to vote on such forums.
+|-
+|<code>discussions</code><br /><code>posts</code><br /><code>dis</code><br /><code>d</code>||Per [[Wookieepedia:Voting eligibility policy|policy]]: On votes subject to the [[Wookieepedia:Consensus|Consensus policy]] and concerning policies that affect the site's [[Wookieepedia:Discord|Discord server]] or [[Wookieepedia:Discussions|Discussions forum]], users who have not contributed 50 edits within the last 6 months under their registered Wookieepedia account may alternatively only vote if they are a Discussions moderator or have made at least 200 non-deleted posts on the site's Discussions forum within the previous 6 months prior to the start of the vote.
+|-
+|<code>duplicate</code><br /><code>dupe</code><br /><code>dup</code>||Duplicate vote.
+|-
+|<code>signature</code><br /><code>sign</code><br /><code>sig</code><br /><code>s</code>||Per [[Wookieepedia:Signature policy|policy]]: Invalid or non-existent signature. To generate a signature, use &#126;&#126;&#126;&#126; or the signature icon [[File:Wikisigbutton.png]].
+|}
+*{{Para|vote}} Wrap this parameter around the original vote, minus the <code><nowiki>#</nowiki></code> in front of the vote.
+
+===Notes===
+*Adding <code><nowiki>#:</nowiki></code> before the template is needed to remove the vote from the vote numbering.
+*Please use {{Tl|Msg-votestruck}} to inform users that their votes have been struck if they are [[Wookieepedia:Voting eligibility policy|ineligible]] due to a lack of edits.
+
+==Examples==
+===Code===
+<pre>
+#(some other vote)
+
+#:{{Votestruck|removedby=~~~~|reason=edits|vote=#Yippee. [[User:Imperators II|<b><span>Imperators II</span></b>]]<sup>[[User talk:Imperators II|(Talk)]]</sup> 08:48, 13 December 2024 (UTC)}}
+
+#(some other vote)
+</pre>
+
+===Result===
+#(some other vote)
+#:{{Votestruck|removedby=[[User:Imperators II|<b><span>Imperators II</span></b>]]<sup>[[User talk:Imperators II|(Talk)]]</sup> 09:58, 13 December 2024 (UTC)|reason=edits|vote=#Yippee. [[User:Imperators II|<b><span>Imperators II</span></b>]]<sup>[[User talk:Imperators II|(Talk)]]</sup> 08:48, 13 December 2024 (UTC)}}
+#(some other vote)
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

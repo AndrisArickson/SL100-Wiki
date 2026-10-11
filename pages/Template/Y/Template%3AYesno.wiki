@@ -1,0 +1,34 @@
+{{<includeonly>safesubst:</includeonly>#switch: {{<includeonly>safesubst:</includeonly>lc: {{{1|¬}}} }}
+ |no
+ |n
+ |f
+ |false
+ |off
+ |0        = {{{no|<!-- null -->}}}
+ |         = {{{blank|{{{no|<!-- null -->}}}}}}
+ |¬        = {{{¬|}}}
+ |yes
+ |y
+ |t
+ |true
+ |on
+ |1        = {{{yes|yes}}}
+ |#default = {{{def|{{{yes|yes}}}}}}
+}}<noinclude>
+
+{{tlx|Yesno}} evaluates any input and produces a normalized <samp>yes</samp> or nil output, based on the content of the input and several configurable options. It is not used in article prose, but in coding complex templates.
+
+== Usage ==
+The template distinguishes five different types of input, supplied on the first unnamed parameter:
+# '''Yes''': Case-insensitive forms of <code>Yes</code>, <code>y</code>, <code>true</code>, <code>on</code>, and <code>1</code>; e.g. {{tlx|Yesno|yEs}}
+# '''No''': Case-insensitive forms of <code>No</code>, <code>n</code>, <code>false</code>, <code>off</code>, and <code>0</code>; e.g. {{tlx|Yesno|nO}}
+# '''Nothing''': When the input is defined but either contains no value or consists of [[whitespace character]] only; i.e. <code><nowiki>{{Yesno|}}</nowiki></code> or {{tlx|Yesno|&#32;}}
+# '''Negation''': When the input is either <code>¬</code> or entirely missing; i.e. {{tlx|Yesno|¬}} or {{tlx|Yesno}}
+# '''Anything else''': e.g. {{tlx|Yesno|Purple monkey dish washer}}
+
+By default, the template returns "yes" in the first and last case but returns nil (blank, empty string) in the other cases.
+
+From [[Wikipedia:Template:Yesno]] because it's used in other documentation templates.
+
+[[Category:Internal link templates]]
+</noinclude>

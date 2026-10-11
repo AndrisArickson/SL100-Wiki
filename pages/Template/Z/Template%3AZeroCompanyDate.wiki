@@ -1,0 +1,25 @@
+{{#if:{{{republic|}}}
+|The first half  of ''[[Star Wars Zero Company]]''{{'s}} campaign{{#if:{{{1|}}}|, which includes {{{1}}},|}} takes place after the [[bombing of the Jedi Temple hangar]] and around the start of the [[atrocity on Mahranee]] and spans the remainder of the [[Clone Wars]], including [[Order 66]] and its aftermath. As ''[[Star Wars: Timelines]]'' dates these events to [[19 BBY]], the events of ''Zero Company''{{'}}s early campaign must occur in 19 [['ABY-BBY' dating system|BBY]] as well.
+|{{#if:{{{empire|}}}
+  |The second half of ''[[Star Wars Zero Company]]''{{'s}} campaign begins a [[Standard year|year]] after the [[proclamation of the New Order]] and includes the first [[Standard day|anniversary]] of [[Empire Day]]. Since ''[[Star Wars: Timelines]]'' dates the first anniversary of Empire Day to [[18 BBY]], ''Zero Company''{{'s}} later campaign{{#if:{{{1|}}}|, which includes {{{1}}},|}} must occur in 18 [['ABY-BBY' dating system|BBY]] as well.
+  |The first half  of ''[[Star Wars Zero Company]]''{{'s}} campaign takes place after the [[bombing of the Jedi Temple hangar]] and around the start of the [[atrocity on Mahranee]] and spans the remainder of the [[Clone Wars]], including [[Order 66]] and its aftermath. As ''[[Star Wars: Timelines]]'' dates these events to [[19 BBY]], the events of ''Zero Company''{{'}}s early campaign must occur in 19 [['ABY-BBY' dating system|BBY]] as well. The second half of ''Star Wars Zero Company''{{'s}} campaign begins a [[Standard year|year]] after the [[proclamation of the New Order]] and includes the first [[Standard day|anniversary]] of [[Empire Day]]. Since ''Star Wars: Timelines'' dates the first anniversary of Empire Day to [[18 BBY]], ''Zero Company''{{'s}} later campaign must occur in 18 BBY as well.
+  }}
+}}<noinclude>
+
+==Usage==
+*<code><nowiki>{{ZeroCompanyDate}}</nowiki></code>
+*<code><nowiki>{{ZeroCompanyDate|republic=1|optional event parameter}}</nowiki></code>
+*<code><nowiki>{{ZeroCompanyDate|empire=1|optional event parameter}}</nowiki></code>
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}}
+!Parameter !! Template !! Date !! Result
+|-
+|Default||<nowiki>{{ZeroCompanyDate}}</nowiki>||[[19 BBY]]-[[18 BBY]]||{{ZeroCompanyDate}}
+|-
+|Republic||<nowiki>{{ZeroCompanyDate|republic=1}}</nowiki>||[[19 BBY]]||{{ZeroCompanyDate|republic=1}}
+|-
+|Empire||<nowiki>{{ZeroCompanyDate|empire=1}}</nowiki>||[[18 BBY]]||{{ZeroCompanyDate|empire=1}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

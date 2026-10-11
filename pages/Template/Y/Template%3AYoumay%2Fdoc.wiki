@@ -1,0 +1,33 @@
+This template is to be used for adding a hatnote to an article that points the reader to other articles with similar titles.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus the optional fields if necessary.
+
+<code><nowiki>{{Youmay|</nowiki>''THIS ARTICLE''<nowiki>|</nowiki>''OTHER ARTICLES''<nowiki>|linebreak=}}</nowiki></code>
+
+===Required parameters===
+*'''''THIS ARTICLE''''': Replace this with a very brief summary of the article the template is placed on.
+*'''''OTHER ARTICLES''''': Replace this with a very brief summary of other articles with similar titles.
+
+===Optional parameters===
+*'''linebreak''': Put <code>1</code> or <code>yes</code> after <code>linebreak</code> to add a linebreak between the first and second sentence of the template's message.
+*'''aboutend''': Put <code>1</code> or <code>yes</code> after <code>aboutend</code> to remove the punctuation from the template's first line, allowing for the template to display words in quotation marks like <code>"Vernestra."</code> instead of <code>"Vernestra".</code>
+*'''looking end''': Put <code>1</code> or <code>yes</code> after <code>aboutend</code> to remove the punctuation from the template's second line, allowing for the template to display words in quotation marks like <code>"Vernestra."</code> instead of <code>"Vernestra".</code>
+
+===Examples===
+<code><nowiki>{{Youmay|the [[Star Wars Legends|''Star Wars'' Legends]] novel|the group known as the [[Children of the Jedi]]|linebreak=1}}</nowiki></code>
+
+Results in:
+
+{{Youmay|the [[Star Wars Legends|''Star Wars'' Legends]] novel|the group known as the [[Children of the Jedi]]|linebreak=1}}
+
+----
+
+<code><nowiki>{{Youmay|the [[Mirialan]] [[Jedi Master]] nicknamed "Vern."|the [[Vern|vendor]] on the [[Kuari Princess/Legends|''Kuari Princess'']]|linebreak=1|aboutend=1}}</nowiki></code>
+
+Results in:
+
+{{Youmay|the [[Mirialan]] [[Jedi Master]] nicknamed "Vern."|the [[Vern|vendor]] on the [[Kuari Princess/Legends|''Kuari Princess'']]|linebreak=1|aboutend=1}}
+
+__NOTOC__
+<includeonly>[[Category:Disambiguation and redirection templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

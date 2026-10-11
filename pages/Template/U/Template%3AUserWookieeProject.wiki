@@ -1,0 +1,9 @@
+{{Userbox|#445E52|#B0D3CA|WP|This user is a member of the '''[[Wookieepedia:WookieeProjects|WookieeProject]] ''{{#if:{{IsValidPageName|{{{1}}}}}|[[Wookieepedia:WookieeProject {{{1}}}|{{{1}}}]]|{{{1}}}}}'''''.}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserWookieeProject|</nowiki>{{Var|project name}}}}</code> into your user page.
+
+===Required parameters===
+#{{Para||{{Var|project name}}}} The title of the project page, with "Wookieepedia:WookieeProject" removed from the beginning. The full URL of the project page may be input as an alternative.
+
+[[Category:Wiki userboxes|WookieeProject]]</noinclude>

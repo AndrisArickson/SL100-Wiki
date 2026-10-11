@@ -1,0 +1,28 @@
+<infobox theme="Battle300">
+        <data source="prev"><label>Previous</label></data>
+        <data source="conc"><label>Concurrent</label></data>	
+        <data source="next"><label>Next</label></data>	
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header></header>
+        <data source="begin"><label>Beginning</label></data>	
+        <data source="end"><label>End</label></data>	
+        <data source="date"><label>Date</label></data>
+        <data source="place"><label>Place</label></data>	
+        <data source="result"><label>Outcome</label></data>
+        <data source="battles"><label>Major battles</label></data>		
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Combatants</header>
+        <data source="side1"></data>	
+        <data source="side2"></data>
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Commanders</header>
+        <data source="commanders1"></data>	
+        <data source="commanders2"></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:War|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox><noinclude>[[category:Event infobox subtemplates]]</noinclude>

@@ -1,0 +1,71 @@
+This template is to be used for citing external websites that do not otherwise have a specific [[:Category:Internet citation templates|citation template]] on [[Wookieepedia]].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{WebCite|url=|text=|author=|date=|format=|work=|pages=|language=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} Full URL of online item. Make sure it matches the one used by the Internet Archive's archivedate, as redirects may create errors.
+*{{Para|text}} Title of online item. Note that it should be capitalized the same way as the <title> of the html document.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>|date=2006-02-17</code>".
+*{{Para|format}} Name of the format, such as PDF or Podcast.  HTML implied if not specified.
+*{{Para|work}} Name of the body of work from where the item is from, using a link to either a Wookieepedia or a Wikipedia article. If those are not available, the home page of the website may be linked instead, if the website is still live. If the field is left blank, the website will automatically be displayed. The work parameter may not be added if the domain is already taken into account by [[Module:WebCite]] (see "DOMAINS").
+*{{Para|pages}} Location relevant to the citation, formatted as "<code>p. x</code>" for a single page, and "<code>pp. x–x</code>" for several. This is for PDF document, where the page can be linked to with the <code>#page=''number''</code> anchor tagged on the end of the URL, for example: <code><nowiki>|pages=[http://example.org/file.pdf#page=123 p. 123]</nowiki></code>
+*{{Para|language}} Language of publication. English implied if not specified.
+*{{Para|quote}} Relevant quote from online item. Double-quotes will be added automatically.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+===Standard===
+<code><nowiki>{{WebCite|url=https://tosche-station.net/celebration-2017-interview-with-charles-soule|text=Celebration 2017: Interview with Charles Soule|author=Bria LaVorgna|date=2017-04-19|archivedate=20170502072643}}</nowiki></code>
+
+{{WebCite|url=https://tosche-station.net/celebration-2017-interview-with-charles-soule|text=Celebration 2017: Interview with Charles Soule|author=Bria LaVorgna|date=2017-04-19|archivedate=20170502072643}}
+
+===Using {{Para|quote}}===
+<code><nowiki>{{WebCite|url=https://www.japantimes.co.jp/culture/2009/07/03/music/cd-reviews/sheena-ringo|text=Sheena Ringo|author=James Hadfield|date=2009-07-03|work=[[Wikipedia:The Japan Times|The Japan Times]]|quote=She may be more right than she realizes.|archivedate=20250126043344}}</nowiki></code>
+
+{{WebCite|url=https://www.japantimes.co.jp/culture/2009/07/03/music/cd-reviews/sheena-ringo|text=Sheena Ringo|author=James Hadfield|date=2009-07-03|work=[[Wikipedia:The Japan Times|The Japan Times]]|quote=She may be more right than she realizes.|archivedate=20250126043344}}
+
+===Using {{Para|format}} and {{Para|pages}}===
+<code><nowiki>{{WebCite|url=https://lumiere-a.akamaihd.net/v1/documents/the_mandalorian_project_one-sheet_10_ec1e005f.pdf|text=The Mandalorian Media Kit|date=2019-09-24|format=[[Wikipedia:PDF|PDF]]|work=[[Wikipedia:Walt Disney Direct-to-Consumer & International|Walt Disney Direct-to-Consumer & International]]|pages=[https://lumiere-a.akamaihd.net/v1/documents/the_mandalorian_project_one-sheet_10_ec1e005f.pdf#page=1 p. 1]|archivedate=20191020212207}}</nowiki></code>
+
+{{WebCite|url=https://lumiere-a.akamaihd.net/v1/documents/the_mandalorian_project_one-sheet_10_ec1e005f.pdf|text=The Mandalorian Media Kit|date=2019-09-24|format=[[Wikipedia:PDF|PDF]]|work=[[Wikipedia:Walt Disney Direct-to-Consumer & International|Walt Disney Direct-to-Consumer & International]]|pages=[https://lumiere-a.akamaihd.net/v1/documents/the_mandalorian_project_one-sheet_10_ec1e005f.pdf#page=1 p. 1]|archivedate=20191020212207}}
+
+===Using {{Para|language}}===
+<code><nowiki>{{WebCite|url=https://www.ina.fr/video/CPA8005617402/dossier-sf-l-empire-contre-attaque-video.html|text=Dossier sf : L' empire contre attaque|work=[[Wikipedia:Institut national de l'audiovisuel|INA.fr]]|language=French|archivedate=20210331134744}}</nowiki></code>
+
+{{WebCite|url=https://www.ina.fr/video/CPA8005617402/dossier-sf-l-empire-contre-attaque-video.html|text=Dossier sf : L' empire contre attaque|work=[[Wikipedia:Institut national de l'audiovisuel|INA.fr]]|language=French|archivedate=20210331134744}}
+
+===Using {{Para|nobackup}}===
+<code><nowiki>{{WebCite|url=http://example.com|text=Example|nobackup=1}}</nowiki></code>
+
+{{WebCite|url=http://example.com|text=Example|nobackup=1}}
+
+===Using {{Para|nolive}} with {{Para|archivedate}}===
+<code><nowiki>{{WebCite|url=https://gadgets.ndtv.com/entertainment/features/star-wars-movies-series-may-the-fourth-list-machete-order-sequence-rise-of-skywalker-clone-wars-last-jedi-2222667|text=Star Wars: Watch Order for Movies, Series, From A New Hope to The Mandalorian|archivedate=20210412231302|nolive=1}}</nowiki></code>
+
+{{WebCite|url=https://gadgets.ndtv.com/entertainment/features/star-wars-movies-series-may-the-fourth-list-machete-order-sequence-rise-of-skywalker-clone-wars-last-jedi-2222667|text=Star Wars: Watch Order for Movies, Series, From A New Hope to The Mandalorian|archivedate=20210412231302|nolive=1}}
+
+===Using {{Para|nolive}} with no archive links===
+<code><nowiki>{{WebCite|url=https://gadgets.ndtv.com/entertainment/features/star-wars-movies-series-may-the-fourth-list-machete-order-sequence-rise-of-skywalker-clone-wars-last-jedi-2222667|text=Star Wars: Watch Order for Movies, Series, From A New Hope to The Mandalorian|nolive=1}}</nowiki></code>
+
+{{WebCite|url=https://gadgets.ndtv.com/entertainment/features/star-wars-movies-series-may-the-fourth-list-machete-order-sequence-rise-of-skywalker-clone-wars-last-jedi-2222667|text=Star Wars: Watch Order for Movies, Series, From A New Hope to The Mandalorian|nolive=1}}
+
+===Using {{Para|nolive}} and {{Para|nobackup}}===
+<code><nowiki>{{WebCite|url=http://example.com|text=Example Domain|nobackup=1|nolive=1}}</nowiki></code>
+
+{{WebCite|url=http://example.com|text=Example Domain|nobackup=1|nolive=1}}
+
+==Module(s)==
+*[[Module:WebCite]]
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,26 @@
+{{Nav start|[[File:StarWarsWorkbooks.png|100px|link=Star Wars Workbooks]]}}
+{{Nav heading|Preschool}}
+{{Nav text|[[Star Wars Workbook: Preschool ABC Fun|ABC Fun]] · [[Star Wars Workbook: Preschool Number Fun|Number Fun]] · [[Star Wars Workbook: Preschool Shapes, Colors, and Patterns|Shapes, Colors, and Patterns]]}}
+{{Nav heading|Kindergarten}}
+{{Nav text|[[Star Wars Workbook: Kindergarten Math Skills|Math Skills]] · [[Star Wars Workbook: Kindergarten Phonics and ABCs|Phonics and ABCs]] · [[Star Wars Workbook: Kindergarten Writing & ABCs|Writing & ABCs]]}}
+{{Nav heading|1st Grade}}
+{{Nav text|[[Star Wars Workbook: 1st Grade Math|Math]] · [[Star Wars Workbook: 1st Grade Reading|Reading]] · [[Star Wars Workbook: 1st Grade Writing Skills|Writing Skills]]}}
+{{Nav heading|2nd Grade}}
+{{Nav text|[[Star Wars Workbook: 2nd Grade Math|Math]] · [[Star Wars Workbook: 2nd Grade Reading|Reading]] · [[Star Wars Workbook: 2nd Grade Writing|Writing]]}}
+{{Nav heading|3rd Grade}}
+{{Nav text|[[Star Wars Workbook: 3rd Grade Math|Math]] · [[Star Wars Workbook: 3rd Grade Reading and Writing|Reading and Writing]]}}
+{{Nav heading|4th Grade}}
+{{Nav text|[[Star Wars Workbook: 4th Grade Math|Math]] · [[Star Wars Workbook: 4th Grade Reading and Writing|Reading and Writing]]}}
+{{Nav heading|Miscellaneous}}
+{{Nav text|[[Star Wars Workbook: Alphabet and Phonics|Alphabet and Phonics]]}}
+{{Nav end|edit=WorkbooksNav}}<noinclude>
+
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav heading}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Real-world content navigation templates|{{PAGENAME}}]]
+[[Category:Star Wars Workbooks|{{PAGENAME}}]]</noinclude>

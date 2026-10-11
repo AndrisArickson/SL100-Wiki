@@ -1,0 +1,58 @@
+{|name="userboxes" id="userboxes" style="margin-left: 1em; margin-bottom: 0.5em; width: 242px; border: {{{bordercolor|#99B3FF}}} solid 1px; background-color: {{{backgroundcolor|#FFFFFF}}}; color: {{{textcolor|#000000}}}; {{{extra-css|}}}" align="{{{2|{{{align|right}}}}}}"
+!<big>{{{1|{{{toptext|[[Wookieepedia:Userboxes|Userboxes]]}}}}}}</big>
+|- align="center"
+|<noinclude>
+{{Userboxbottom}}
+==Purpose==
+To collect userboxes into a single column grouping easily.
+
+==Usage==
+<pre><nowiki>{{userboxtop
+| align = 
+| backgroundcolor = 
+| bordercolor = 
+| extra-css =
+| textcolor = 
+| toptext = 
+}}
+
+[userboxes]
+
+{{userboxbottom}}</nowiki></pre>
+
+All of the parameters are '''optional'''.
+
+===Customizing===
+Detailed explanations of the parameters are below.
+
+{| class="wikitable"
+|-
+! Parameter
+! Valid values
+|-
+| <code>align</code>
+| <code>left</code>, <code>center</code>, or <code>right</code> (default)
+|-
+| <code>backgroundcolor</code>
+| Any [[Wikipedia:Web colors|web color]] (name or <tt>#XXXXXX</tt> hex format). Defaults to <tt>#FFFFFF</tt>.
+|-
+| <code>bordercolor</code>
+| Any [[Wikipedia:Web colors|web color]] (name or <tt>#XXXXXX</tt> hex format). Defaults to <tt>#99B3FF</tt>.
+|-
+| <code>extra-css</code>
+| Allows you to provide additional [[Wikipedia:Cascading Style Sheets|CSS]] style information.
+|-
+| <code>textcolor</code>
+| Any [[Wikipedia:Web colors|web color]] (name or <tt>#XXXXXX</tt> hex format). Defaults to <tt>#000000</tt>.
+|-
+| <code>toptext</code>
+| Overrides the standard [[Wikipedia:Wikipedia:Userboxes|Userbox]] text and link. Can include wiki-markup.
+|}
+
+==Hiding userboxes==
+You can hide userboxes which utilize this (as well as a few other) forms of template-based userbox organization. Simply edit your userspace CSS override (for example, [[Special:Mypage/monobook.css|monobook.css]] for the Monobook skin) and add the following–
+
+<code><nowiki>#userboxes { display: none; }</nowiki></code>
+
+==See also==
+*[[Template:Userboxbottom]][[Category:Utility templates|{{PAGENAME}}]]</noinclude>

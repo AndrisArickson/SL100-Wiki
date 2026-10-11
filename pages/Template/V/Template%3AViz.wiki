@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Viz
+|image=[[File:VizMedia-Template.svg|text-bottom|x18px|simonandschuster.com|link=https://{{{subdomain|www}}}.viz.{{{domain|com}}}]]
+|site_text=[[Viz Media]]'s [https://www.viz.com/ official website]
+|base_url=https://{{{subdomain|www}}}.viz.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,14 @@
+==[[{{{1}}}]]==
+<!-- comment to force linebreak  -->
+{| style="border: 2px solid #FF0000; border-spacing: 4px;"
+|- 
+| style="padding:4px;" | '''Please verify'''
+| style="font-size: 80%; padding: 4px;" | Your article [[{{{1}}}]] currently isn't [[Wookieepedia:Attribution|attributed]] to a reliable source. Please familiarize yourself with Wookieepedia's [[Wookieepedia:Sourcing|Sourcing policy and guidelines]] and add a proper source to the article. If a source is not added within one week, your article will be deleted. {{{2|}}}
+|}<!-- Template:Vw --><noinclude>
+
+==Usage==
+Place <code><nowiki>{{subst:Vw|</nowiki>''article name''<nowiki>|~~~~}}</nowiki></code> on the talk page of a user or IP that creates an article without sources.
+
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|Vw]]</noinclude>

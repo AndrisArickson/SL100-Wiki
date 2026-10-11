@@ -1,0 +1,36 @@
+{{Userbox|#CC9000|#EFC35B|{{#ifeq:{{{1|2}}}|w|Retcon|sw-{{{1|2}}}}}|This user {{#switch:{{{1|2}}}
+ |0 = is just being introduced to the '''''[[Star Wars]]'' [[The galaxy|galaxy]]'''.
+ |1 = has a basic understanding of the '''''[[Star Wars]]'' [[The galaxy|galaxy]]'''.
+ |2 = has an intermediate understanding of the '''''[[Star Wars]]'' [[The galaxy|galaxy]]'''.
+ |3 = has an advanced understanding of the '''''[[Star Wars]]'' [[The galaxy|galaxy]]'''.
+ |w = understands the '''''[[Star Wars]]'' [[The galaxy|galaxy]]''' [[Mandalore/Legends|all]] [[Ryloth/Legends|too]] [[George Lucas|well]].
+ | has an intermediate understanding of the '''''[[Star Wars]]'' [[The galaxy|galaxy]]'''.
+ }}
+ |style1={{#ifeq:{{{1|2}}}|w|font-size:10pt|}}
+ }}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserSW|{{Var|level}}<nowiki>}}</nowiki></code> into your user page, where <code>{{Var|level}}</code> is either <code>0</code>, <code>1</code>, <code>2</code>, <code>3</code>, or <code>w</code>.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="background:none; border:none">{{UserSW|0}}</pre>
+| {{UserSW|0}}
+|-
+| <pre style="background:none; border:none">{{UserSW|1}}</pre>
+| {{UserSW|1}}
+|-
+| <pre style="background:none; border:none">{{UserSW|2}}</pre>
+| {{UserSW|2}}
+|-
+| <pre style="background:none; border:none">{{UserSW|3}}</pre>
+| {{UserSW|3}}
+|-
+| <pre style="background:none; border:none">{{UserSW|w}}</pre>
+| {{UserSW|w}}
+|}
+
+[[Category:Star Wars userboxes|SW]]</noinclude>

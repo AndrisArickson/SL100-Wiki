@@ -1,0 +1,15 @@
+{{Userbox|#FFD700|#DAA520|{{#if:{{{variant|}}}|[[File:Hiking.png|45px]]|[[File:Hitchhiker-Luxemburg-1977.jpg|45px]]}}|This user is a pioneer.}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserPioneer}}</nowiki></code> into your user page. Include {{Para|variant|1}} for an alternative version.
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <code><nowiki>{{UserPioneer}}</nowiki></code> || {{UserPioneer}}
+|-
+| <code><nowiki>{{UserPioneer|variant=1}}</nowiki></code> || {{UserPioneer|variant=1}}
+|}
+
+[[Category:Star Wars userboxes|Pioneer]]</noinclude>

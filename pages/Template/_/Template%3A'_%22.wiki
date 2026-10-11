@@ -1,0 +1,10 @@
+<span style="padding-right:0.2em;">'</span>"<noinclude>
+
+==Purpose==
+This template is for use at the end of a 'single-quoted' quotation that terminates a "double-quoted" quotation (or a double-quoted passage that ends in an apostrophe). Its purpose is to slightly space the single and double quotation marks apart for legibility, without actually inserting a space character. It does this with [[wikipedia:CSS|CSS]], and does so because the insertion of an extraneous space character of any kind would be a violation of the [[wikipedia:Semantic Web|semantic integrity of the web content]] of the article or other page in which it appeared by improperly mixing content and presentation.
+
+{{Interlang
+|tr=Şablon:' "
+}}
+[[Category:Utility templates]]
+</noinclude>

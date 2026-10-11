@@ -1,0 +1,5 @@
+==Usage==
+Place the following code on the page and replace the "EPISODE TITLE" with the appropriate episode name.
+ <nowiki>{{</nowiki>Visions|''EPISODE TITLE''|''FORMATTED TITLE'' (optional)}}
+
+<includeonly>[[Category:TV citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

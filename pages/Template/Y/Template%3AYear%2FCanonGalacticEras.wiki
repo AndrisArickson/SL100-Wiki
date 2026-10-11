@@ -1,0 +1,38 @@
+{{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | BBY
+  |
+  {{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} = 19
+    |*[[Republic Era]]<ref name="Era1">''[[The Star Wars Book]]'' dates the beginning and end of the [[Republic Era]] respectively to approximately 25,000 [[Standard year|years]] and nineteen years before the events of {{Film|IV}}, which corresponds to around [[25,000 BBY]] and [[19 BBY]] per ''[[Star Wars: Timelines]]''.</ref>
+*[[Imperial Era]]<ref name="Era3">''[[Star Wars: Timelines]]'' establishes the Imperial Era beginning in [[19 BBY]] and continuing through [[5 ABY]].</ref>
+
+    |{{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} < 19
+      |[[Imperial Era]]<ref name="Era3">''[[Star Wars: Timelines]]'' establishes the Imperial Era beginning in [[19 BBY]] and continuing through [[5 ABY]].</ref>
+
+      |{{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} <= 500 and {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} >= 100
+        |*[[Republic Era]]<ref name="Era1">''[[The Star Wars Book]]'' dates the beginning and end of the [[Republic Era]] respectively to approximately 25,000 [[Standard year|years]] and nineteen years before the events of {{Film|IV}}, which corresponds to around [[25,000 BBY]] and [[19 BBY]] per ''[[Star Wars: Timelines]]''.</ref>
+*[[High Republic Era]]<ref name="Era2">''[[Star Wars: Timelines]]'' dates the endpoints of the [[High Republic Era]] to approximately [[500 BBY]] and [[100 BBY]].</ref>
+
+        |{{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} <= 25000
+          |[[Republic Era]]<ref name="Era1">''[[The Star Wars Book]]'' dates the beginning and end of the [[Republic Era]] respectively to approximately 25,000 [[Standard year|years]] and nineteen years before the events of {{Film|IV}}, which corresponds to around [[25,000 BBY]] and [[19 BBY]] per ''[[Star Wars: Timelines]]''.</ref>
+          
+          |<!--pre-Republic era(s)?-->
+        }}
+      }}
+    }}
+  }}
+
+|{{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | ABY
+|
+{{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} = 5
+|*[[Imperial Era]]<ref name="Era3">''[[Star Wars: Timelines]]'' establishes the Imperial Era beginning in [[19 BBY]] and continuing through [[5 ABY]].</ref>
+*[[New Republic Era]]<ref name="Era4">''[[Star Wars: Timelines]]'' establishes the New Republic Era spanning [[5 ABY]] through [[34 ABY]].</ref>
+
+|{{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} < 5
+|[[Imperial Era]]<ref name="Era3">''[[Star Wars: Timelines]]'' establishes the Imperial Era beginning in [[19 BBY]] and continuing through [[5 ABY]].</ref>
+
+|{{#ifexpr: {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} >= 5 and {{formatnum:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |0}}|R}} <= 35
+|[[New Republic Era]]<ref name="Era4">''[[Star Wars: Timelines]]'' establishes the New Republic Era spanning [[5 ABY]] through [[34 ABY]].</ref>
+}}
+}}
+}}
+}}}}
+<noinclude>[[Category:Event infobox subtemplates]]</noinclude>

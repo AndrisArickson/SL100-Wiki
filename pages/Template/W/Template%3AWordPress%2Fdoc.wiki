@@ -1,0 +1,41 @@
+This template is to be used for citing articles on WordPress.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{WordPress|subdomain=|url=|name=|text=|archivedate=|nobackup=}}</nowiki></code>
+
+For usage in External links, simply use:
+
+<code><nowiki>{{WordPress|subdomain=|name=|archivedate=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|subdomain}} The unique subdomain of the individual WordPress site
+*{{Para|url}} The URL of the web page, minus <code><nowiki>http://wordpress.com/</nowiki></code>.
+*{{Para|name}} Name of the WordPress site being cited
+*{{Para|text}} Name of the article being cited 
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+Reference:
+
+<code><nowiki>{{WordPress|subdomain=accrispin|url=2013/02/09/our-12th-anniversary-and-disneys-plans-for-a-han-solo-film|name=ACCess|text=Our 12th Anniversary, and Disney’s plans for a Han Solo Film|archivedate=20160412145409}}</nowiki></code>
+
+Results in:
+
+{{WordPress|subdomain=accrispin|url=2013/02/09/our-12th-anniversary-and-disneys-plans-for-a-han-solo-film|name=ACCess|text=Our 12th Anniversary, and Disney’s plans for a Han Solo Film|archivedate=20160412145409}}
+
+External links:
+
+<code><nowiki>{{WordPress|subdomain=accrispin|name=ACCess|archivedate=20260105001925}}</nowiki></code>
+
+Results in:
+
+{{WordPress|subdomain=accrispin|name=ACCess|archivedate=20260105001925}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

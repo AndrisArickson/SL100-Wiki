@@ -1,0 +1,14 @@
+<div class="forumheader headerbackground" style="border-radius:10px">'''[[Wookieepedia:WookieeProjects|WookieeProjects]] &gt; [[Wookieepedia:WookieeProject LEGO|WookieeProject: LEGO]] &gt; {{PAGENAME}}'''</div><includeonly>{{SpecialCategorizer|[[Category:WookieeProject LEGO]]}}</includeonly>
+{{Ooumb
+| image = [[File:LegoClassicStarWars.png|150px]]
+| caption = This is a WookieeProject: LEGO discussion
+| message = It is intended for [[Wookieepedia:WookieeProject LEGO|'''''WookieeProject: LEGO''''']] participants and interested parties. If a proposal is agreed upon here, it will be presented to the wider Wookieepedia community as a [[Forum:Senate Hall|Senate Hall]] topic. Please feel free to follow this discussion!
+}}
+<!-- write after this line, please -->
+<noinclude>
+==Categorization==
+*[[:Category:WookieeProject LEGO]]
+
+[[Category:Forum templates]]
+[[Category:WookieeProject templates]]
+</noinclude>

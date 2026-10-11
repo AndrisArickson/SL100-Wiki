@@ -1,0 +1,7 @@
+<var {{#if:{{{class|}}}|class="{{{class}}}"}} {{#if:{{{id|}}}|id="{{{id}}}"}} style="padding-right: 1px;{{{style|}}}" {{#if:{{{lang|}}}|lang="{{{lang}}}"}} {{#if:{{{title|}}}|title="{{{title}}}"}}>{{{1}}}</var><noinclude>
+
+==Usage==
+This template is to help facilitate the displaying of variable names (in mathematics, computer source code, wikimarkup in template documentation, metasyntactic variables, etc.) with the [[Wikipedia:Semantic HTML|semantically correct]] {{tag|var}} tags, which also renders the variable in italics, as is customary. This method is preferred to simply italicizing for many reasons. See [[Wikipedia:Template:Var]], where this is taken from.
+
+[[Category:Internal link templates]]
+</noinclude>

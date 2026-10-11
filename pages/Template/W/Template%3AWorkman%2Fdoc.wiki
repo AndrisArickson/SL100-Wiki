@@ -1,0 +1,32 @@
+This template is to be used for citing individual pages on [[Workman Publishing]]'s official website.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Workman|url=|text=|archivedate=|archiveurl=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.workman.com/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Standard
+<code><nowiki>{{Workman|url=products/star-wars-origami|text=Star Wars Origami|archivedate=20170821043149}}</nowiki></code>
+
+Results in:
+
+{{Workman|url=products/star-wars-origami|text=Star Wars Origami|archivedate=20170821043149}}
+
+<hr />
+<code><nowiki>{{Workman|url=products/star-wars-origami|text=Star Wars Origami|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Workman|url=products/star-wars-origami|text=Star Wars Origami|nobackup=1}}
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

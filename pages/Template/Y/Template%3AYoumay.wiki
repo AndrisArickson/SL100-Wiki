@@ -1,0 +1,1 @@
+<includeonly>{{Dablink|This {{#ifeq:{{NAMESPACE}}|{{ns:0}}|article|page}} is about '''{{{1}}}'''{{#if:{{{aboutend|}}}||.}}{{#if:{{{linebreak|}}}|<br />|&nbsp;}}You may be looking for '''{{{2}}}'''{{#if:{{{lookingend|}}}||.}}}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

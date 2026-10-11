@@ -1,0 +1,20 @@
+<div class="boilerplate metadata darkbackground1" style="padding:0 10px; border:1px solid #AAA; margin:0 auto; background-color:#F3F9FF">This page is an archive of a community-wide discussion. '''This page is no longer live.''' New nominations should take place on [[Wookieepedia:Wookieepedian of the Month]] rather than here so that this page is preserved as a historic record. {{{1|}}}<hr /><includeonly>[[Category:Wookieepedia Wookieepedian of the Month archive pages|{{subst:<noinclude />CURRENTMONTHNAME}} {{subst:<noinclude />CURRENTYEAR}}]]</includeonly><noinclude></div>
+
+==Description==
+This template is used for creating the blue "archive box" used for closed [[Wookieepedia:Wookieepedian of the Month|Wookieepedian of the Month]] votes.
+
+==Usage==
+The template takes one optional signature parameter. Place the following code at the top of the vote page to be archived:
+<pre>
+{{subst:WotMarchive|~~~~}}
+</pre>
+
+Then, to avoid disrupting the page layout, add this closing tag at the very end of the thread:
+<pre>
+</div>
+</pre>
+
+==Categorization==
+*[[:Category:Wookieepedia Wookieepedian of the Month archive pages]]
+
+[[Category:Archive templates]]</noinclude>

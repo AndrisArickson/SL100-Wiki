@@ -1,0 +1,82 @@
+{| class="userbox {{#ifeq:{{{headerbackground|1}}}|0||headerbackground}}" style="width:45px; max-width:238px; border-color:{{{border|{{{color1|{{{1}}}}}}}}}; background:{{{color2|{{{2}}}}}}; {{{style|}}}"
+| class="ubx-icon {{#ifeq:{{{headerbackground|1}}}|2|headerbackground|}}" style="background:{{{color1|{{{1}}}}}}; {{{style1|}}}" | {{{caption|{{{3}}}}}}
+|}<noinclude>
+{{Clear}}
+==Description==
+A miniature {{Tl|Userbox}}, with only a caption cell.
+
+==Usage==
+The template's parameters are listed below. It is not necessary to name the first three parameters if they are assigned values in order, so template calls may use the shorthand form <code><nowiki>{{</nowiki>Userbox|{{Var|color1}}|{{Var|color2}}|{{Var|caption}}}}</code>.
+<pre>
+{{Userbox
+|color1=
+|color2=
+|caption=
+|border=
+|style=
+|style1=
+|headerbackground=
+}}
+</pre>
+
+===Required parameters===
+#{{Para||{{Var|color1}}}} The [[wikipedia:Web colors|color]] of the cell's background and the box border.
+#{{Para||{{Var|color2}}}} The color of the box's background. By default the cell fills the whole box, so this field may be left blank.
+#{{Para||{{Var|caption}}}} The content of the cell. This is often an [[Wookieepedia:Files|image]], which will stretch the cell if not constrained to fit within a 45px&nbsp;&times;&nbsp;45px space.
+
+===Optional parameters===
+#<li value="4">{{Para|border}} The box border color, which defaults to <code>{{Var|color1}}</code>.</li>
+#{{Para|style}} Any additional [[wikipedia:CSS|CSS]] values to set for the entire box. Do not include quotation marks.
+#{{Para|style1}} Any additional CSS for the cell.
+#{{Para|headerbackground}} Determines whether the cell's background is automatically darkened when viewed on a web browser in dark mode. The default value is <code>1</code>, which applies dark-mode behavior to the box background only. Setting {{Para|headerbackground|0}} will disable dark-mode behavior, whereas {{Para|headerbackground|2}} will apply it to the cell.
+
+==Examples==
+{| class="wikitable"
+! Description
+! Code
+! Result
+|-
+| Implicit parameters
+| <pre style="background:none; border:none">{{Userbox-m|#CCC|#EEE|blah}}</pre>
+| {{Userbox-m|#CCC|#EEE|blah}}
+|-
+| Explicit parameters
+| <pre style="background:none; border:none">
+{{Userbox-m
+|color1=#CCC
+|color2=#EEE
+|caption=blah
+}}</pre>
+| {{Userbox-m|color1=#CCC|color2=#EEE|caption=blah}}
+|-
+| Different border color
+| <pre style="background:none; border:none">{{Userbox-m|#CCC|#EEE|blah|border=#F00}}</pre>
+| {{Userbox-m|#CCC|#EEE|blah|border=#F00}}
+|-
+| Extra table styling
+| <pre style="background:none; border:none">{{Userbox-m|#CCC|#EEE|blah|style=border:1px dashed #00F}}</pre>
+| {{Userbox-m|#CCC|#EEE|blah|style=border:1px dashed #00F}}
+|-
+| Extra cell styling
+| <pre style="background:none; border:none">{{Userbox-m|#CCC|#EEE|blah|style1=color:#F00}}</pre>
+| {{Userbox-m|#CCC|#EEE|blah|style1=color:#F00}}
+|-
+| Fully preserved in dark mode
+| <pre style="background:none; border:none">{{Userbox-m|#CCC|#EEE|blah|style1=color:#F00|headerbackground=0}}</pre>
+| {{Userbox-m|#CCC|#EEE|blah|style1=color:#F00|headerbackground=0}}
+|-
+| Fully reactive to dark mode
+| <pre style="background:none; border:none">{{Userbox-m|#CCC|#EEE|blah|style1=color:#F00|headerbackground=2}}</pre>
+| {{Userbox-m|#CCC|#EEE|blah|style1=color:#F00|headerbackground=2}}
+|}
+
+==See also==
+*[[MediaWiki:Common.css]]
+*[[MediaWiki:Fandomdesktop.css]]
+*[[Wookieepedia:User page and profile policy]]
+*[[Wookieepedia:Userboxes]]
+*[[Template:User infobox]]
+*[[Template:Userbox-2]]
+*[[Template:Userbox-r]]
+
+[[Category:Userbox templates|{{PAGENAME}}]][[Category:Utility templates|{{PAGENAME}}]]</noinclude>

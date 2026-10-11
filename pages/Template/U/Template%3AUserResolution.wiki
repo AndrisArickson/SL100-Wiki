@@ -1,0 +1,17 @@
+{{Userbox|#9BA2B8|#E9E5DB|[[File:Computer.png|40px]]|This user's [[wikipedia:Display resolution|monitor resolution]] is '''{{{1}}}'''.|border=#887|headerbackground=2}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserResolution|</nowiki>{{Var|resolution}}}}</code> into your user page.
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <code><nowiki>{{UserResolution|1920 &times; 1080}}</nowiki></code> || {{UserResolution|1920 &times; 1080}}
+|-
+| <code><nowiki>{{UserResolution|HD}}</nowiki></code> || {{UserResolution|HD}}
+|}
+
+{{Interlang|es=Plantilla:Pantalla}}
+
+[[Category:Userbox templates|Resolution]]</noinclude>

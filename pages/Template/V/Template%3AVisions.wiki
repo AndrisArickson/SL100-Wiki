@@ -1,0 +1,11 @@
+{{#invoke:BaseCitation|main|template=Visions
+|mode=TV
+|image=[[File:Star-Wars-Visions-series-logo-short.png|text-top|x14px|class=darkmodeinvert|link=Star Wars: Visions]]
+|series=Star Wars: Visions
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+{{Documentation}}
+
+[[Category:TV citation templates]]</noinclude>

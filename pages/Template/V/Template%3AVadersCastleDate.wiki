@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars Adventures: Shadow of Vader's Castle|''Star Wars Adventures: Shadow of Vader's Castle''|''[[Star Wars Adventures: Shadow of Vader's Castle]]''}} takes place after the [[Battle of Endor]], and [[Star Wars Adventures: Ghosts of Vader's Castle 2|''Star Wars Adventures: Ghosts of Vader's Castle'' 2]], which takes place after ''Shadow of Vader's Castle'', further establishes that the [[Galactic Empire]] still exists, meaning that these comics must be set before the Empire's collapse during the [[Battle of Jakku]]. ''[[Star Wars: Timelines]]'' dates those battles to [[4 ABY]] and [[5 ABY]] respectively, meaning that ''Shadow of Vader's Castle'' and ''[[Star Wars Adventures: Ghosts of Vader's Castle]]'' occur between those [[Standard year|years]].<noinclude>
+
+==Usage==
+<code><nowiki>{{VadersCastleDate}}</nowiki>
+
+[[Category:Canon dating citation templates]]</noinclude>

@@ -1,0 +1,17 @@
+<includeonly>{{#invoke:WebCite|main
+|url={{{url|}}}
+|text={{{text|{{{title|}}}}}}
+|author={{{author|}}}
+|date={{{date|}}}
+|format={{{format|}}}
+|work={{{work|}}}
+|publisher={{{publisher|}}}
+|pages={{{pages|}}}
+|language={{{language|}}}
+|quote={{{quote|}}}
+|archivedate={{{archivedate|{{{oldversion|}}}}}}
+|archiveurl={{{archiveurl|}}}
+|archivefile={{{archivefile|}}}
+|nobackup={{{nobackup|}}}
+|nolive={{{oldversion|{{{nolive|}}}}}}
+}}{{#ifeq:{{{archivedate|}}}|20011007000000|[[Category:Dummy archivedate values]]|}}{{SpecialCategorizer|{{#if:{{{first|}}}{{{last|}}}|[[Category:WebCite usages with incorrect author parameter]]|}}|simple=1}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

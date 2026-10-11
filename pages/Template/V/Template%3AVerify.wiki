@@ -1,0 +1,20 @@
+{{#ifeq: {{FULLPAGENAME}} | Wookieepedia:Template messages/Sources of articles
+    | {{Verify/template}}
+    | {{#ifexpr: {{#expr: {{#time: U}} - {{#time: U | {{{time|{{REVISIONTIMESTAMP}}}}} }} }} > 604800
+        | {{#if:{{{oou|}}}|{{Verify/template|oou=yes|{{{1|}}}}}<includeonly>[[Category:OOU articles in need of verification|{{PAGENAME}}]]</includeonly>|<includeonly>{{Delete|Unverified for over seven days{{#if:{{{1|}}}|&#32;(note: {{{1}}})}}}}</includeonly>}}
+        | {{#if:{{{oou|}}}|{{Verify/template|oou=yes|{{{1|}}}}}<includeonly>[[Category:OOU articles in need of verification|{{PAGENAME}}]]</includeonly>|{{Verify/template|{{{1|}}}}}<includeonly>[[Category:Articles in need of verification|{{PAGENAME}}]]</includeonly>}}
+    }}
+}}<span style="display:none">{{#expr: {{#time: U}} - {{#time: U | {{{time|{{REVISIONTIMESTAMP}}}}} }} }}</span><noinclude>
+
+==Usage==
+The optional parameter <code><nowiki>|time=~~~~~</nowiki></code> automatically tags the article for speedy deletion seven days after the timestamp provided. If this parameter is omitted, the article will instead be automatically tagged for speedy deletion after it is unedited for seven days.
+
+Add the parameter <code>|oou=yes</code> if the article is about an unsourced out-of-universe subject. This changes the wording of the template to fit that type of article.
+
+If further explanation is required (such as if a provided source is unreliable or likely falsified), details can be passed to the template via an unnamed parameter and will be displayed as written. This field can also be used to note possible sources that you cannot personally verify.
+
+==Categorization==
+*[[:Category:Articles in need of verification]]
+*[[:Category:OOU articles in need of verification]]
+
+[[Category:Verification templates|{{PAGENAME}}]]</noinclude>

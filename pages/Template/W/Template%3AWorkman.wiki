@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Workman
+|image=[[File:Workman.svg|text-top|x16px|link=https://www.workman.com]]
+|site_text=[[Workman Publishing]]'s [https://www.workman.com official website]
+|base_url=https://{{{subdomain|www}}}.workman.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

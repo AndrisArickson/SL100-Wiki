@@ -1,0 +1,27 @@
+{{Userbox|#0D509D|#7AB2EC|[[File:60px-Wiki-shrinkable.png|40px]]|This user was [[Wookieepedia:Wookieepedian of the Month|'''Wookieepedian of the Month''']] for [[Wookieepedia:Wookieepedian of the Month/{{{1}}} {{{2}}}|{{{1}}} {{{2}}}]].}}<includeonly>{{#ifeq:{{NAMESPACE}}|User|{{#if:{{{multiple|}}}|{{SpecialCategorizer|[[Category:Wookieepedians of the Month (multiple winners)|{{PAGENAME}}]]}}|{{SpecialCategorizer|[[Category:Wookieepedians of the Month|{{PAGENAME}}]]}}}}|}}</includeonly><noinclude>
+{{Clear}}__NOTOC__
+==Description==
+This [[Wookieepedia:Userboxes|userbox]] can be added to the userpage of anyone who has earned the honor of becoming a [[Wookieepedia:Wookieepedian of the Month|Wookieepedian of the Month]].
+
+==Usage==
+To use this template, paste <code><nowiki>{{</nowiki>UserWotM|{{Var|month}}|{{Var|year}}}}</code> into your user page.
+
+===Required parameters===
+#{{Para||{{Var|month}}}} The month when the award was bestowed.
+#{{Para||{{Var|year}}}} The year when the award was bestowed.
+
+===Optional parameters===
+#<li value="3">{{Para|multiple}} Set to <code>1</code> if the user has received the award more than once, and left blank otherwise.</li>
+
+==Categorization==
+*[[:Category:Wookieepedians of the Month]]
+*[[:Category:Wookieepedians of the Month (multiple winners)]] {{C|for {{Para|multiple|1}}}}
+
+==Examples==
+{| class="wikitable"
+! Code !! Result
+|-
+| <code><nowiki>{{UserWotM|July|2006}}</nowiki></code> || {{UserWotM|July|2006}}
+|}
+
+[[Category:Wiki userboxes|WoTM]]</noinclude>

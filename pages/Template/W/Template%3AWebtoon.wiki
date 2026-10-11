@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Webtoon
+|image=[[File:Webtoon-Logo.svg|text-top|x16px|link=https://www.webtoons.com]]
+|site_text=[[WEBTOON]]'s [https://www.webtoons.com official website]
+|base_url=https://{{#if:{{{subdomain|}}}|{{{subdomain|}}}.|}}webtoons.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

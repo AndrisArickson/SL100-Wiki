@@ -1,0 +1,15 @@
+{{iumb
+| id = WIP
+| bg = #cfc
+| image = [[File:Hkhkinfactory.jpg|130px]]
+| caption = Now, are there any other horrors you wish to subject me to, or is your electronic butchery done?
+| message = This page is a work in progress. Therefore, it is not finished and may undergo critical changes while this message remains in place.
+| comment = As a courtesy and to avoid [[Wikipedia:Edit conflict|edit conflicts]], please do not make edits to this article while this message is displayed. If you wish to know who is working on the article and when the edit session began, please consult the <span class="plainlinks">[{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} edit history]</span> and the [[{{TALKPAGENAME}}|talk page]].
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles undergoing major edits|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+:'''Per [[Forum:CT:WIP limit]], pages that remain idle with no edits made to them for a period of thirty days may have this tag removed by an administrator or bot.'''
+
+==Categorization==
+*[[:Category:Articles undergoing major edits]]
+
+[[Category:Maintenance templates]]</noinclude>

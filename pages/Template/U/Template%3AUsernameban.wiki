@@ -1,0 +1,13 @@
+{{ooumb
+| bg = beige
+| image = [[File:Dialog-warning.svg|45px]]
+| caption = You have been banned because your username is not allowed under Wookieepedia policies.
+| message = This message means that your account has been blocked from editing Wookieepedia because the username you chose is not allowed on this wiki. It may resemble the username of a persistent vandal, of another user, be obscene/offensive or otherwise inappropriate. If you need, consult the administrator that banned you for clarification.
+
+This message does not mean that you, as a person, are unwelcome at Wookieepedia; only your '''username''' is.  Feel free to '''[[Special:Userlogin|create a new account]]''' that does not violate the Wookieepedia username policy. If you find out that you cannot create an account and/or edit pages from your IP address altogether, it may be a technical issue; [[Wookieepedia:Contact|contact]] an administrator to resolve it.}}<!-- Usernameban -->
+<noinclude>{{Top|sprot}}
+
+==Usage==
+<pre>{{subst:Usernameban}}</pre>
+
+[[Category:Administrative templates|{{PAGENAME}}]][[Category:User talk templates|{{PAGENAME}}]]</noinclude>

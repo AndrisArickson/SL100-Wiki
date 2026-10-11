@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ZyngaYouTube
+|archive=YouTube
+|image=[[File:ZyngaYTLogo.jpg|text-bottom|x18px|link=https://www.youtube.com/@ZyngaStarWars]]
+|site_text=the official [[Zynga]] ''[[Star Wars]]'' [https://www.youtube.com/@ZyngaStarWars YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|nolive=1
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

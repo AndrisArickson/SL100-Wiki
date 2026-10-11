@@ -1,0 +1,56 @@
+<infobox theme="Year">
+    <title source="name"><default>{{#explode:{{PAGENAME}}|/|0}}</default></title>
+<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<image source="image"></image>
+    <data source="galacticera"><label>Galactic era(s)</label><format>{{Year/GalacticEras}}</format></data>
+    	<header>Dates in other dating systems</header>
+        <navigation>{{#ifexpr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} > 36453 | Year '''{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} - 36453}}}}''' before the [[Tho Yor Arrival]]<ref name="YearTYA">{{YearMathTYA}}</ref>| Year '''{{formatnum:{{#expr: 36453 - {{#expr:{{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | ABY | -1 | 1}} * {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}}}}}''' after the [[Tho Yor Arrival]]<ref name="YearTYA">{{YearMathTYA}}</ref>}}</navigation>
+        <navigation>{{#ifexpr: {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}  > 3653 |Year '''{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} - 3653}}}}''' before the [[Treaty of Coruscant]]<ref name="YearTC">{{YearMathTC}}</ref>|Year '''{{formatnum:{{#expr: 3653 - {{#expr: {{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | ABY | -1 | 1}} * {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}}}}}''' after the [[Treaty of Coruscant]]<ref name="YearTC">{{YearMathTC}}</ref>}}</navigation>
+        <navigation>{{#ifexpr: {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}  > 1000 |Year '''{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} - 1000}}}}''' before the [[Ruusan Reformations/Legends|Ruusan Reformations]]<ref name="YearRuu">{{YearMathRu}}</ref>|Year '''{{formatnum:{{#expr: 1000 - {{#expr: {{#ifeq: {{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | ABY | -1 | 1}} * {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}}}}}''' after the [[Ruusan Reformations/Legends|Ruusan Reformations]]<ref name="YearRuu">{{YearMathRu}}</ref>}}</navigation>
+        <navigation class="last-calculated-year">{{#ifeq:{{PAGENAME}}| 0 BBY/Legends |Year 35:3<ref name="YearGrS">{{YearMathGRS}}</ref> after the [[Great ReSynchronization]]|{{#ifeq:{{#explode:{{#explode:{{PAGENAME}}|/|0}}| |1}} | ABY |Years '''{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} + 35}}}}:3&ndash;{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} + 36}}}}:2''' after the [[Great ReSynchronization]]<ref name="YearGrS">{{YearMathGRS}}</ref>| {{#ifexpr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} > 35 |Years '''{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} - 35}}}}:3&ndash;{{formatnum:{{#expr:{{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}} - 36}}}}:2''' before the [[Great ReSynchronization]]<ref name="YearGrS">{{YearMathGRS}}</ref>|Years '''{{formatnum:{{#expr: 35 - {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}}}:3&ndash;{{formatnum:{{#expr:36 - {{formatnum:{{#explode:{{PAGENAME}}| |0}}|R}}}}}}:2''' after the [[Great ReSynchronization]]<ref name="YearGrS">{{YearMathGRS}}</ref>}}}}}}</navigation>
+ 
+    <group collapse="open">
+    	<header>Facts and statistics</header>	
+        <data source="conflict"><label>Conflicts</label></data>	
+        <data source="chancellor"><label>Chancellor</label></data>
+        <data source="chief"><label>Chief</label></data>	
+        <data source="head"><label>Head</label></data>
+        <data source="emperor"><label>Emperor</label></data>	
+        <data source="events"><label>Events</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Year|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox><noinclude>[[category:Event infobox subtemplates]]{{Clear}}
+__NOTOC__
+'''Please ignore the error messages. The infobox will work correctly on an article whose title is formatted as "# ABY" or "# BBY".'''
+
+==Example==
+{{Year
+|image=
+|conflict=[[Mandalorian Wars]]
+|chancellor=[[Anwis Eddicus]]
+|chief=[[Mon Mothma/Legends|Mon Mothma]]
+|head=[[Tenel Ka Djo]] (of [[Hapes Consortium/Legends|Hapes Consortium]])
+|emperor=[[Palpatine/Legends|Palpatine]]
+|events=[[Treaty of Coruscant]]}}
+The year is automatically included in the template based upon the page name. The other fields are as follows:
+*Tapani: Year in the Tapani Sector calendar
+*conflict: Ongoing conflicts
+*chancellor: Supreme Chancellor during that year (may be multiple)
+*chief: Chief of State during that year (may be multiple)
+*head: Head of State during that year (may be multiple and can be used for any governing entity)
+*emperor: Emperor during that year (may be multiple)
+*events: Key events during the year. Do '''not''' include every birth, death, or battle.
+
+:'''The year-conversion and galacticera fields have both been deprecated. Their contents are automatically generated, and should not be manually added, as the code for those fields has been removed.'''
+
+==Using the template==
+<pre><nowiki>
+{{Year
+|image=
+|conflict=
+|chancellor=
+|chief=
+|head=
+|emperor=
+|events=}}
+</nowiki></pre></noinclude>

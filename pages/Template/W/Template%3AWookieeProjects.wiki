@@ -1,0 +1,26 @@
+{{Ooumb
+|id = WookieeProjects
+|bg = #D8E9FC
+|image = [[File:Site-logo.png|40px]]
+|caption = The subject of this article is within the scope of multiple [[Wookieepedia:WookieeProjects|WookieeProjects]].
+|message = <ul>
+<li>[[Wookieepedia:WookieeProject {{{1}}}|'''WookieeProject {{{1}}}''']]</li>
+<li>[[Wookieepedia:WookieeProject {{{2}}}|'''WookieeProject {{{2}}}''']]</li>
+<li>[[Wookieepedia:WookieeProject {{{3}}}|'''WookieeProject {{{3}}}''']]</li>
+{{#if:{{{4|}}}
+|<li>[[Wookieepedia:WookieeProject {{{4|}}}|'''WookieeProject {{{4|}}}''']]</li>|}}
+{{#if:{{{5|}}}
+|<li>[[Wookieepedia:WookieeProject {{{5|}}}|'''WookieeProject {{{5|}}}''']]</li>|}}
+{{#if:{{{6|}}}
+|<li>[[Wookieepedia:WookieeProject {{{6|}}}|'''WookieeProject {{{6|}}}''']]</li>|}}
+</ul>
+If you would like to participate, you can edit the article attached to this notice, or visit the project pages, where you can join the projects and/or contribute to the discussion.}}<noinclude>
+
+==Usage==
+<pre>{{WookieeProjects|Ambition|Astrography|Battlefront|Comics}}</pre>
+creates:
+{{WookieeProjects|Ambition|Astrography|Battlefront|Comics}}
+
+The template currently supports up to six separate [[Wookieepedia:WookieeProjects|WookieeProjects]], but more could be added as necessary.
+
+[[Category:WookieeProject templates]]</noinclude>

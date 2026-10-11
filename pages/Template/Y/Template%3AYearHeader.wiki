@@ -1,0 +1,6 @@
+{{#invoke:YearHeader|main}}
+{{Clear}}<noinclude>
+
+This template is used to dynamically generate a year-subpage navigation header, as seen on [[Wookieepedia:Featured article nominations/History]] and the like.
+
+</noinclude>

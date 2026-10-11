@@ -1,0 +1,112 @@
+{{#switch:{{{1|}}}
+  |#default =
+  |101 =
+  |102 = "[[Tatooine Rhapsody]]" takes place after the [[Clone Wars]] and before the [[death]] of the [[Jabba Desilijic Tiure]]. ''[[Star Wars: Timelines]]'' dates the end of the Clone Wars and Jabba's death to [[19 BBY]] and [[4 ABY]] respectively. Therefore, "Tatooine Rhapsody" must take place between 19 [['ABY-BBY' dating system|BBY]] and 4 ABY.
+  |103 = ''[[The Art of Star Wars: Visions]]'' establishes that the events of "[[THE TWINS]]" take place after the [[First Order]]'s fall, which ''[[Star Wars: Timelines]]'' establishes as having occurred during the [[Battle of Exegol]] in [[35 ABY]]. Therefore, "THE TWINS" must occur during or after 35 [['ABY-BBY' dating system|ABY]].
+  |104 = {{WebCite|url=https://jp.ign.com/star-wars-visions/54787/interview|text=『スター・ウォーズ：ビジョンズ』監督インタビュー！キネマシトラス垪和等監督『村の花嫁』|date=2021-09-29|work=[https://jp.ign.com IGN Japan]|language=[[Wikipedia:Japanese language|Japanese]]|archivedate=20250322214529}} establishes that "[[The Village Bride]]" takes place between {{Film|III}} and {{Film|IV}}. ''[[Star Wars: Timelines]]'' dates the events of ''Revenge of the Sith'' to [[19 BBY]] and the events immediately preceding ''A New Hope'' to [[1 BBY]]. Therefore, "The Village Bride" must take place between 19 [['ABY-BBY' dating system|BBY]] and 1 BBY.
+  |105 = According to {{WebCite|url=https://www.animatetimes.com/news/details.php?id=1787282569|text=『スター・ウォーズ：ビジョンズ／九人目のジェダイ』神山健治総監督＆多田俊介監督インタビュー｜「スター・ウォーズ」を日本人が作る理由ーージェダイとライトセーバーに秘められた侍の精神を改めて描く|date=2026-08-21|work=[https://www.animatetimes.com アニメイトタイムズ]|language=[[Wikipedia:Japanese language|Japanese]]|archivedate=20260823054754}}, the director [[Shunsuke Tada]] stated that the events of ''[[Star Wars: Visions Presents - The Ninth Jedi]]'' are envisioned as taking place 200 [[Standard year|years]] after the era in which [[Luke Skywalker]] lived. Since ''[[Star Wars: Timelines]]'' dates Luke Skywalker's [[death]] to [[34 ABY]], the events of ''Star Wars: Visions Presents - The Ninth Jedi'' must take place around [[234 ABY]]. Since {{SW|url=news/star-wars-visions-presents-the-ninth-jedi-trailer|text=''Star Wars: Visions Presents - The Ninth Jedi'' Trailer Debut - Update}} established that the events of ''Star Wars: Visions Presents - The Ninth Jedi'' take place not long after the events of "[[The Ninth Jedi: Child of Hope]]," and {{SWYouTube|CuMW7qcd_KU|Star Wars: Visions &#124; Volume 3 Directors Commentary &#124; "The Ninth Jedi" + "Child of Hope"}} established that the events of "The Ninth Jedi: Child of Hope" take place half a year after the events of "[[The Ninth Jedi (short film)|The Ninth Jedi]],{{#if: {{{2|}}}|" including {{{2}}},|"}} it must also take place around 234 [['ABY-BBY' dating system|ABY]].
+  |106 = "[[T0-B1 (short film)|T0-B1]]" takes place during the [[Great Jedi Purge]], which ended with the [[Mission to Malachor]] according to ''[[The Odyssey of Star Wars: An Epic Poem]]''. ''[[Star Wars: Timelines]]'' dates the mission to [[Malachor]] to [[3 BBY]], this is when the Jedi Purge ended, and the latest that "T0-B1" can take place. "T0-B1" also features the [[TIE/ad v1]], as the TIE/ad v1 was introduced and had its maiden flight on [[Empire Day]] as shown in "[[Empire Day (episode)|Empire Day]]," which ''Star Wars: Timelines'' dates to [[4 BBY]], making this the earliest "T0-B1" can take place. Therefore, "T0-B1{{#if: {{{2|}}}|," including {{{2}}},|"}} must take place between 4 [['ABY-BBY' dating system|BBY]] and 3 BBY.
+  |107 = {{WebCite|url=https://www.ign.com/articles/star-wars-visions-anime-jedi-rock-opera|text=Star Wars Anime Visions Will Include What Became of the Jedi, a Rock Opera, and More|author=Daniel Robson|archivedate=20210922124827}} establishes that the events of "[[The Elder (short film)|The Elder]]" occur before {{Film|I}}, which are dated to [[32 BBY]] by ''[[Star Wars: Timelines]]''. It also takes place hundreds of [[Standard year|years]] after the [[defeat of the Sith]], which ''Star Wars: Timelines'' dates to [[1032 BBY]]. Therefore, "The Elder" must take place between [[832 BBY]] and 32 [['ABY-BBY' dating system|BBY]].
+  |108 = {{WebCite|url=https://www.ign.com/articles/star-wars-visions-anime-jedi-rock-opera|text=Star Wars Anime Visions Will Include What Became of the Jedi, a Rock Opera, and More|author=Daniel Robson|archivedate=20210922124827}} establishes that "[[Lop & Ochō]]" takes place between {{Film|III}} and {{Film|IV}}. ''[[Star Wars: Timelines]]'' dates the events of ''Revenge of the Sith'' to [[19 BBY]] and the events immediately preceding ''A New Hope'' to [[1 BBY]]. As the prologue takes place seven [[Standard year|years]] before the main story, the main story must take place between [[12 BBY]] and 1 [['ABY-BBY' dating system|BBY]], and the the prologue must take place between 19 BBY and [[8 BBY]].
+  |109 =
+  |201 = "[[Sith (short film)|Sith]]" takes place before the [[defeat of the Sith]], which ''[[Star Wars: Timelines]]'' dates to [[1032 BBY]]. Therefore, "Sith{{#if: {{{2|}}}|," including {{{2}}},|"}} must take place before 1032 [['ABY-BBY' dating system|BBY]].
+  |202 =
+  |203 = "[[In the Stars]]" features the [[Galactic Empire]], which formed in [[19 BBY]] and fell in [[5 ABY]] according to ''[[Star Wars: Timelines]]''. The short film also features a [[TIE/ln space superiority starfighter]], which was introduced in [[18 BBY]] according to ''Star Wars: Timelines''. Therefore, "In the Stars{{#if: {{{2|}}}|," including {{{2}}},|"}} must take place between 18 [['ABY-BBY' dating system|BBY]] and 5 ABY.
+  |204 = {{ThisWeek|BgxVjGP8Hi0|Star Wars Day is Here, Visions Volume 2, and More!}} places the events of "[[I Am Your Mother]]" before {{Film|VII}}, which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]], and {{VisionsFocus|I Am Your Mother}} establishes that [[Hans R'kov]] was the [[Hanna City]] dance champion in [[8 ABY]]. Therefore, "I Am Your Mother" must take place between 8 [['ABY-BBY' dating system|ABY]] and 34 ABY.
+  |205 = The events of "[[Journey to the Dark Head]]" take place before the supposed [[Defeat of the Sith|extinction]] of the [[Sith]], which ''[[Star Wars: Timelines]]'' dates to [[1032 BBY]].{{#if:{{{2|}}}|&#32;Therefore, "Journey to the Dark Head," including {{{2}}}, must take place at some point by 1032 [['ABY-BBY' dating system|BBY]].}}
+  |206 = "[[The Spy Dancer]]" takes place over twenty [[Standard year|years]] after the [[Proclamation of the New Order|formation]] of the [[Galactic Empire]], which ''[[Star Wars: Timelines]]'' dates to [[19 BBY]], and before the [[Alliance to Restore the Republic]] transitions into the [[New Republic]], which ''Timelines'' dates to [[4 ABY]]. Therefore, "The Spy Dancer" must take place between [[1 ABY]] and 4 [['ABY-BBY' dating system|ABY]].
+  |207 = "[[The Bandits of Golak]]" takes place during the [[Great Jedi Purge]], which ended with the [[Mission to Malachor]] per ''[[The Odyssey of Star Wars: An Epic Poem]]''. ''[[Star Wars: Timelines]]'' dates the mission to [[3 BBY]], this is when the Jedi Purge ended. The short also features [[TIE/ln space superiority starfighter]]s, which were introduced in [[18 BBY]] per ''Timelines''. Therefore, "The Bandits of Golak" must take place between 18 [['ABY-BBY' dating system|BBY]] and 3 BBY.
+  |208 = "[[The Pit (short film)|The Pit]]" features the [[Galactic Empire]], which was formed [[19 BBY]] and fell in [[5 ABY]] per ''[[Star Wars: Timelines]]''. Therefore, "The Pit" must take place between 19 [['ABY-BBY' dating system|BBY]] and 5 ABY.
+  |209 = "[[Aau's Song]]" takes place prior to the fall of the [[Jedi Order]], which ''[[Star Wars: Timelines]]'' dates to [[19 BBY]]. Therefore, "Aau's Song" must take place before 19 [['ABY-BBY' dating system|BBY]].
+  |301 = "[[The Duel: Payback]]" is described as a sequel to "[[The Duel (short film)|The Duel]]" in {{SW|url=series/star-wars-visions/the-duel-payback-episode-guide|text="The Duel: Payback" Episode Guide &#124; Star Wars: Visions Volume 3}}. ''[[Ronin: A Visions Novel]]'' establishes that the events of "The Duel" took place twenty [[Standard year|years]] after the [[Imperial unification]]. Therefore, the events of Payback must take place at least two [[Standard decade|decades]] after the Imperial unification.
+  |302 = "[[The Song of Four Wings]]" features members of the [[Alliance to Restore the Republic|Rebel Alliance]], which ''[[Star Wars: Timelines]]'' establishes formed in [[2 BBY]] and transitioned into the [[New Republic]] in [[4 ABY]]. Therefore, "The Song of Four Wings" must take place between 2 [['ABY-BBY' dating system|BBY]] and 4 ABY.
+  |303 = According to {{WebCite|url=https://www.animatetimes.com/news/details.php?id=1787282569|text=『スター・ウォーズ：ビジョンズ／九人目のジェダイ』神山健治総監督＆多田俊介監督インタビュー｜「スター・ウォーズ」を日本人が作る理由ーージェダイとライトセーバーに秘められた侍の精神を改めて描く|date=2026-08-21|work=[https://www.animatetimes.com アニメイトタイムズ]|language=[[Wikipedia:Japanese language|Japanese]]|archivedate=20260823054754}}, the director [[Shunsuke Tada]] stated that the events of ''[[Star Wars: Visions Presents - The Ninth Jedi]]'' are envisioned as taking place 200 [[Standard year|years]] after the era in which [[Luke Skywalker]] lived. Since ''[[Star Wars: Timelines]]'' dates Luke Skywalker's [[death]] to [[34 ABY]], and {{SW|url=news/star-wars-visions-presents-the-ninth-jedi-trailer|text=''Star Wars: Visions Presents - The Ninth Jedi'' Trailer Debut - Update}} established that the events of ''Star Wars: Visions Presents - The Ninth Jedi'' take place not long after the events of "[[The Ninth Jedi: Child of Hope]]," the short film{{#if: {{{2|}}}|, including {{{2}}},|}} and the series must take place around [[234 ABY]].
+  |304 = "[[The Bounty Hunters]]" takes place during the [[Republic Era|reign]] of the [[Galactic Republic]], which ended in [[19 BBY]] per ''[[Star Wars: Timelines]]''. Therefore, "The Bounty Hunters" must take place by 19 [['ABY-BBY' dating system|BBY]].
+  |305 = ''[[Star Wars: The Rise and Fall of the Galactic Empire]]'' establishes that the [[DS-1 Orbital Battle Station|Death Star]] became known to [[the galaxy]] with the [[Destruction of Alderaan]], which ''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates to [[1 BBY]]. As a toy of the [[Death Star]] is seen in "[[Yuko's Treasure]]," the events of the short must take place during or after 1 [['ABY-BBY' dating system|BBY]].
+  |306 = {{Instagram|username=starwarsjapan|url=reel/DQjX8TxEc2K|name=[[Star Wars|スター・ウォーズ]]公式|date=2025-11-02|quote=トークセッション「彷徨う者たち」キネマシトラス／垪和等監督【前編】}} establishes that the events of "[[The Lost Ones]]" take place less than a [[Standard month|month]] after the events of "[[The Village Bride]]," which {{WebCite|url=https://jp.ign.com/star-wars-visions/54787/interview|text=『スター・ウォーズ：ビジョンズ』監督インタビュー！キネマシトラス垪和等監督『村の花嫁』|date=2021-09-29|work=[https://jp.ign.com IGN Japan]|language=[[Wikipedia:Japanese language|Japanese]]|archivedate=20250322214529}} places between {{Film|III}} and {{Film|IV}}. ''[[Star Wars: Timelines]]'' dates the events of ''Revenge of the Sith'' to [[19 BBY]] and the events immediately preceding ''A New Hope'' to [[1 BBY]]. Therefore, "The Village Bride" must take place between 19 [['ABY-BBY' dating system|BBY]] and 1 BBY. As ''Timelines'' also establishes the [[Standard year|year]] following the events of ''A New Hope'' to be [[0 ABY]], "The Lost Ones" must take place between 19 BBY and 0 ABY. 
+  |307 = "[[The Smuggler (short film)|The Smuggler]]" features members of the [[Alliance to Restore the Republic|Rebel Alliance]] and [[Great Temple|Yavin 4 Rebel Base]], which ''[[Star Wars: Timelines]]'' establishes formed in [[2 BBY]] and was [[Evacuation of Yavin 4|evacuated]] in [[0 ABY]]. Therefore, "The Smuggler" must take place between 2 [['ABY-BBY' dating system|BBY]] and 0 ABY.
+  |308 =
+  |309 = The visions shown in "[[BLACK]]" feature the destruction of the [[DS-2 Death Star II Mobile Battle Station]] during the [[Battle of Endor]], which took place in [[4 ABY]] per ''[[Star Wars: Timelines]]''. Therefore, "BLACK" must take place in 4 [['ABY-BBY' dating system|ABY]].
+  |Tsukumo = The events of ''[[Star Wars Visions: Tsukumo]]'' feature [[TIE/ln space superiority starfighter|TIE fighters]], which were introduced in [[18 BBY]] per ''[[Star Wars: Timelines]]''. The events of ''Tsukumo'' occur during the [[Great Jedi Purge]], which ended with the [[mission to Malachor]] according to ''[[The Odyssey of Star Wars: An Epic Poem]]''. As ''Timelines'' dates the end of the the mission to [[Malachor]] to [[3 BBY]], the events of ''Tsukumo'' take place between 18 [['ABY-BBY' dating system|BBY]] and 3 BBY.
+}}<noinclude>
+
+==Usage==
+===Volume 1===
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|"[[The Duel (short film)|The Duel]]"||<nowiki>{{VisionsDate|101}}</nowiki>||||{{VisionsDate|101}}
+|-
+|"[[Tatooine Rhapsody]]"||<nowiki>{{VisionsDate|102}}</nowiki>||Between [[19 BBY]] and [[4 ABY]]||{{VisionsDate|102}}
+|-
+|"[[THE TWINS]]"||<nowiki>{{VisionsDate|103}}</nowiki>||During or after [[35 ABY]]||{{VisionsDate|103}}
+|-
+|"[[The Village Bride]]"||<nowiki>{{VisionsDate|104}}</nowiki>||Between [[19 BBY]] and [[1 BBY]]||{{VisionsDate|104}}
+|-
+|"[[The Ninth Jedi (short film)|The Ninth Jedi]]"||<nowiki>{{VisionsDate|105}}</nowiki>||c. [[234 ABY]]||{{VisionsDate|105}}
+|-
+|"[[T0-B1 (short film)|T0-B1]]"||<nowiki>{{VisionsDate|106}}</nowiki>||Between [[4 BBY]] and [[3 BBY]]||{{VisionsDate|106}}
+|-
+|"[[The Elder (short film)|The Elder]]"||<nowiki>{{VisionsDate|107}}</nowiki>||Between [[832 BBY]] and [[32 BBY]]||{{VisionsDate|107}}
+|-
+|"[[Lop & Ochō]]"||<nowiki>{{VisionsDate|108}}</nowiki>||Between [[12 BBY]] and [[1 BBY]]||{{VisionsDate|108}}
+|-
+|"[[Akakiri]]"||<nowiki>{{VisionsDate|109}}</nowiki>||||{{VisionsDate|109}}
+|}
+
+===Volume 2===
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|"[[Sith (short film)|Sith]]"||<nowiki>{{VisionsDate|201}}</nowiki>||By [[1032 BBY]]||{{VisionsDate|201}}
+|-
+|"[[Screecher's Reach (short film)|Screecher's Reach]]"||<nowiki>{{VisionsDate|202}}</nowiki>||||{{VisionsDate|202}}
+|-
+|"[[In the Stars]]"||<nowiki>{{VisionsDate|203}}</nowiki>||Between [[18 BBY]] and [[5 ABY]]||{{VisionsDate|203}}
+|-
+|"[[I Am Your Mother]]"||<nowiki>{{VisionsDate|204}}</nowiki>||Between [[8 ABY]] and [[34 ABY]]||{{VisionsDate|204}}
+|-
+|"[[Journey to the Dark Head]]"||<nowiki>{{VisionsDate|205}}</nowiki>||By [[1032 BBY]]||{{VisionsDate|205}}
+|-
+|"[[The Spy Dancer]]"||<nowiki>{{VisionsDate|206}}</nowiki>||Between [[1 ABY]] and [[4 ABY]]||{{VisionsDate|206}}
+|-
+|"[[The Bandits of Golak]]"||<nowiki>{{VisionsDate|207}}</nowiki>||Between [[18 BBY]] and [[3 BBY]]||{{VisionsDate|207}}
+|-
+|"[[The Pit (short film)|The Pit]]"||<nowiki>{{VisionsDate|208}}</nowiki>||Between [[19 BBY]] and [[5 ABY]]||{{VisionsDate|208}}
+|-
+|"[[Aau's Song]]"||<nowiki>{{VisionsDate|209}}</nowiki>||By [[19 BBY]]||{{VisionsDate|209}}
+|}
+
+===Volume 3===
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|"[[The Duel: Payback]]"||<nowiki>{{VisionsDate|301}}</nowiki>|| ||{{VisionsDate|301}}
+|-
+|"[[The Song of Four Wings]]"||<nowiki>{{VisionsDate|302}}</nowiki>||Between [[2 BBY]] and [[4 ABY]]||{{VisionsDate|302}}
+|-
+|"[[The Ninth Jedi: Child of Hope]]"||<nowiki>{{VisionsDate|303}}</nowiki>||c. [[234 ABY]]||{{VisionsDate|303}}
+|-
+|"[[The Bounty Hunters]]"||<nowiki>{{VisionsDate|304}}</nowiki>||By [[19 BBY]]||{{VisionsDate|304}}
+|-
+|"[[Yuko's Treasure]]"||<nowiki>{{VisionsDate|305}}</nowiki>||During or after [[1 BBY]]||{{VisionsDate|305}}
+|-
+|"[[The Lost Ones]]"||<nowiki>{{VisionsDate|306}}</nowiki>||Between [[19 BBY]] and [[0 ABY]]||{{VisionsDate|306}}
+|-
+|"[[The Smuggler (short film)|The Smuggler]]"||<nowiki>{{VisionsDate|307}}</nowiki>||Between [[2 BBY]] and [[0 ABY]]||{{VisionsDate|307}}
+|-
+|"[[The Bird of Paradise]]"||<nowiki>{{VisionsDate|308}}</nowiki>|| ||{{VisionsDate|308}}
+|-
+|"[[BLACK]]"||<nowiki>{{VisionsDate|309}}</nowiki>||[[4 ABY]]||{{VisionsDate|309}}
+|}
+
+===Other===
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|''[[Star Wars Visions: Tsukumo]]''||<nowiki>{{VisionsDate|Tsukumo}}</nowiki>||Between [[19 BBY]] and [[3 BBY]]||{{VisionsDate|Tsukumo}}
+|}
+
+[[Category:Canon television dating citation templates]]
+[[Category:WookieeProject Visions| ]]
+</noinclude>

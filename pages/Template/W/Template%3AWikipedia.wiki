@@ -1,0 +1,12 @@
+{{Ooumb
+| id = Wikipedia
+| image = [[File:Smallwikipedialogo.png|45px|Wikipedia]]
+| caption =  This page uses content from the [[wikipedia:|English Wikipedia]].
+| message = The original article was at [[Wikipedia:{{{1}}}|'''{{{1}}}''']]. The list of authors can be seen in the [http://en.wikipedia.org/w/index.php?title={{urlencode:{{{1}}}|WIKI}}&amp;action=history '''page history''']. As with [[Wookieepedia]], the text of Wikipedia is available under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 Unported] license.
+}}<noinclude>
+
+==Usage==
+This template is a talk page header meant to document the earliest day of [[Wookieepedia]] history, when it forked from Wikipedia itself back in 2006.
+Never use this template as a pretext to copy content from Wikipedia, as it will be considered akin to plagiarism.
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

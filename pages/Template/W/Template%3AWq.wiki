@@ -1,0 +1,31 @@
+<includeonly><div class="noprint darkbackground1" style="float: right; clear: right; margin: 2px 0 2px 2px; padding: 5px 0; text-align: left; font-size: 90%; width: 250px; overflow:hidden; background-color: #D8E9FC; min-height: 35px; border-radius: 10px"><!--
+--><div class="inline-image-template" style="float: left; margin-left: 5px;">[[File:Wiki-shrinkable.png|35px]]</div><!--
+--><div class="inline-image-template" style="margin-left: 50px;">Wookieepedia has a collection of quotes related to '''''[[Wookieepedia:Quote of the Day/Archive/{{#if:{{{1|}}}
+    |{{{1}}}
+    |{{#ifeq: {{PAGENAME}}
+        |{{BASEPAGENAME}}/Legends
+        |{{BASEPAGENAME}}
+        |{{PAGENAME}}
+        }}
+    }}|{{#ifeq:{{PAGENAME}}
+    |{{BASEPAGENAME}}/Legends
+    |{{BASEPAGENAME}}
+    |{{#if:{{{1|}}}
+        |{{{1}}}
+        |{{PAGENAME}}
+        }}
+    }}]]'''''.</div></div></includeonly><noinclude>__NOTOC__
+==Usage instructions==
+<pre><nowiki>{{Wq|pagename (optional)}}</nowiki></pre>
+
+===Notes===
+The optional ''pagename'' argument allows the template to link to a quote page with a different name to the current page. If it is not included the template links to a quote page sharing the same name as the current page.
+
+==Examples==
+{{Wq}}
+<code><nowiki>{{Wq}}</nowiki></code>
+
+{{Wq|Foo}}
+<code><nowiki>{{Wq|Foo}}</nowiki></code>
+
+[[Category:Internal link templates|Wq]]</noinclude>

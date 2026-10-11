@@ -1,0 +1,17 @@
+<span style="padding-left: {{{padding|0.1em}}};">'</span><noinclude>{{Top|fprot}}
+
+==Usage==
+Use the template to add an apostrophe when it is surrounded by the same apostrophe symbols, which create text in ''italics'' or in '''bold'''. For example:
+
+<pre>The ''[[Colossus]]''{{'}} engines were damaged.</pre>
+The ''[[Colossus]]''{{'}} engines were damaged.
+
+==See also==
+If adding an apostrophe with "s" to italicized or bolded text, use the {{Tlx|'s}} template ([[Template:'s]]) instead.
+
+{{Interlang
+|tr=Şablon:'
+}}
+
+[[Category:Utility templates]]
+</noinclude>

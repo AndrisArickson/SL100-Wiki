@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=WordPress
+|image=[[File:Globe.svg|text-top|x14px|class=darkmodeinvert]]
+|site_text=[[Wikipedia:WordPress|WordPress]]
+|base_url=https://{{{subdomain|}}}.wordpress.{{{domain|com}}}
+|target_url={{{url|{{{subdomain|}}}}}}
+|username={{{subdomain|}}}
+|usertext={{{name|}}}
+|is_post={{{url|}}}
+|text={{{text|}}}
+|use_lua_subpage=1
+|blog=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

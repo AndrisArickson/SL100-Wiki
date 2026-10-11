@@ -1,0 +1,11 @@
+{{#invoke:BaseCitation|main|template=WEGCite
+|image=[[File:WEGCite-Icon.png|text-top|x16px|link=West End Games]]
+|parent={{{book|}}}
+|ptext={{{text|}}}
+|child={{{story}}}
+|ctext={{{stext|}}}
+|noquotes={{{smanual|}}}
+|reprint={{{reprint|}}}
+|reprintParent={{#ifeq:{{{story|}}}|The Ordeal of Boba Fett||{{#ifeq:{{{story|}}}|Regina Cayli (adventure)||1}}}}
+|italicize=1
+}}<noinclude>{{Documentation}}</noinclude>

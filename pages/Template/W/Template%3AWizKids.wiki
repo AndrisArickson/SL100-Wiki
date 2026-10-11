@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=WizKids
+|image=[[File:Wizkids logo.svg|text-bottom|x18px|link=WizKids Games]]
+|site_text=[[WizKids Games]]' [https://web.archive.org/web/20080312015512/http://www.wizkidsgames.com/StarWars/ official site]
+|base_url=http://{{{subdomain|www}}}.wizkidsgames.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|series={{#if:{{{series|}}}|[[{{{series|}}}]]:|}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

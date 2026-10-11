@@ -1,0 +1,49 @@
+This template is to be used for citing articles on [[Wizards.com]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Wizards|url=|text=|int=|archivedate=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} The URL of the web page, minus <code><nowiki>http://wizards.com/</nowiki></code>.
+*{{Para|text}} Name of the article being cited (formatted name if <code>|int=</code> parameter is used).
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL contains a subdomain of <code><nowiki>wizards.com</nowiki></code> other than <code>www</code>, such as <code><nowiki>https://store.wizards.com</nowiki></code>, the subdomain can be specified for example, {{Para|subdomain}}<code>store</code>. Default is blank if left empty.
+*{{Para|int}} Name of the [[Wookieepedia]] article corresponding to the Wizards.com article being cited.
+*{{Para|noquotes}} Put <code>1</code> or <code>yes</code> here to omit the automatic placing of the article title in double quotes.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Using {{Para|int}}
+<code><nowiki>{{Wizards|url=default.asp?x=starwars/article/sw20010222clodhop|text=Operation: Clodhopper|int=Operation: Clodhopper}}</nowiki></code>
+
+Results in:
+
+{{Wizards|url=default.asp?x=starwars/article/sw20010222clodhop|text=Operation: Clodhopper|int=Operation: Clodhopper}}
+
+<hr />
+;Using {{Para|subdomain}} and {{Para|noquotes}}
+
+<code><nowiki>{{Wizards|subdomain=store|url=Product.asp?ProductId=3968|text=''Star Wars'' RPG Core Rulebook
+|noquotes=1|archivedate=20010828001315}}</nowiki></code>
+
+Results in:
+
+{{Wizards|subdomain=store|url=Product.asp?ProductId=3968|text=''Star Wars'' RPG Core Rulebook
+|noquotes=1|archivedate=20010828001315}}
+
+__NOTOC__
+{{Interlang
+|tr=Şablon:Wizards
+}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

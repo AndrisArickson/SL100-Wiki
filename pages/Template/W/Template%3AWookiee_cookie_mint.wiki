@@ -1,0 +1,8 @@
+<table cellpadding="4" cellspacing="0" border="0" class= "headerbackground" style="background:#FFEFAF; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:WasakaMint_Cookie.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big>'''{{{1}}} has awarded you a Mint [[Wookiee-ookiee|Wookiee Cookie]]!'''</big></div>{{{2|''<- Personalized message goes here ->''}}}</td></tr></table><noinclude>
+==Usage instructions==
+Copy the code below, modify it as necessary, and paste it onto the talk page of the user who is to be presented with the award.
+
+{{tlp|Wookiee cookie mint|<nowiki>~~~|</nowiki>''personalized_message''|subst=true}}
+
+[[Category:Award templates]]
+</noinclude>

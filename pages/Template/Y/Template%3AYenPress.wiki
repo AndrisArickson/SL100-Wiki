@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=YenPress
+|image=[[File:YenPress-Icon.svg|text-top|x16px|link=https://yenpress.com]]
+|site_text=[[Yen Press]]'s [https://yenpress.com official website]
+|base_url=https://{{{subdomain|www}}}.yenpress.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

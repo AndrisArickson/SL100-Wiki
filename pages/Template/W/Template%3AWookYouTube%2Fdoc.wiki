@@ -1,0 +1,31 @@
+This template is designed for the specific use of citing interviews published on the official [[Wookieepedia]] [https://www.youtube.com/@WookOfficial YouTube channel].
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you do not use.
+
+<code><nowiki>{{WookYouTube|video=|text=|date=|quote=|parameter=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=|old=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Date the YouTube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} To include a quote. 
+*{{Para|parameter}} To create a link to a channel's playlist, use <code>|parameter=playlist?list</code>.
+*{{Para|old}} For videos that were available on the [https://web.archive.org/web/20240124070017/https://www.youtube.com/@WookieepediaOfficial old YouTube channel]. As the old channel is now defunct, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{WookYouTube|634dMKLWVW4|The WookieeCast Episode 2 - Diving into the Galaxy with Christopher Sean|date=2022-12-06|old=1}}</nowiki></code>
+
+Results in:
+
+{{WookYouTube|634dMKLWVW4|The WookieeCast Episode 2 - Diving into the Galaxy with Christopher Sean|date=2022-12-06|old=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,7 @@
+The events of {{#ifeq:{{PAGENAME}}|Victory's Price: An Alphabet Squadron Novel|''Victory's Price: An Alphabet Squadron Novel''|''[[Victory's Price: An Alphabet Squadron Novel]]''}} begin after the [[Cerberon system campaign]], and the novel also features the [[Battle of Jakku]] at the end of its three main sections. Since ''[[Star Wars: Timelines]]'' dates both of those conflicts to [[5 ABY]], the main events of ''Victory's Price'' must therefore be set in that [[Standard year|year]].<noinclude>
+
+==Usage==
+<code><nowiki>{{VictorysPriceDate}}</nowiki>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

@@ -1,0 +1,17 @@
+<table cellpadding="4" cellspacing="0" border="0" class="headerbackground"; style="border:2px solid #733306; background:#FFEFAF; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Wookieecookie.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big> '''{{#if:{{#pos:{{{1}}}|[User:}}|{{{1}}}|<noinclude>~~</noinclude><includeonly>~~</includeonly>~}} has awarded you a [[Wookiee-ookiee|Wookiee Cookie]]!'''</big></div>for&#32;{{#if:{{#pos:{{{1}}}|[User:}}|{{{2|being awesome!}}}|{{{1|being awesome!}}}}}</td></tr></table><noinclude>
+
+==Usage instructions==
+Copy the code below, modify it as necessary, and paste it onto the talk page of the user who is to be presented with the award. Leaving the message blank will default to "being awesome!"
+
+<nowiki>{{subst:WookieeCookie|</nowiki>''personalized message''<nowiki>}}</nowiki>
+
+==Examples==
+<nowiki>{{subst:WookieeCookie}}</nowiki><br />
+Results in:
+<table cellpadding="4" cellspacing="0" border="0" class="headerbackground"; style="border:2px solid #733306; background:#FFEFAF; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Wookieecookie.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big> '''[[Special:MyPage|{{USERNAME}}]] has awarded you a [[Wookiee-ookiee|Wookiee Cookie]]!'''</big></div>for&#32;being awesome!</td></tr></table>
+<br />
+<nowiki>{{subst:WookieeCookie|''updating this template!''}}</nowiki><br />
+Results in:
+<table cellpadding="4" cellspacing="0" border="0" class="headerbackground"; style="border:2px solid #733306; background:#FFEFAF; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Wookieecookie.png]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big> '''[[Special:MyPage|{{USERNAME}}]] has awarded you a [[Wookiee-ookiee|Wookiee Cookie]]!'''</big></div>for&#32;updating this template!</td></tr></table>
+
+[[Category:Award templates]]</noinclude>

@@ -1,0 +1,93 @@
+{| class="userbox {{#ifeq:{{{headerbackground|1}}}|0||headerbackground}}" style="border-color:{{{border|{{{color1|{{{1}}}}}}}}}; background:{{{color2|{{{2}}}}}}; {{{style|}}}"
+| class="ubx-icon {{#ifeq:{{{headerbackground|1}}}|2|headerbackground|}}" style="background:{{{color1|{{{1}}}}}}; {{#ifeq:{{{border|{{{color1|{{{1}}}}}}}}}|{{{color1|{{{1}}}}}}|{{#ifeq:{{{headerbackground|1}}}|2|box-sizing:border-box; padding-right:1px; width:45.5px|border-right:1px solid {{{color1|{{{1}}}}}}}}|box-sizing:border-box; padding-right:0.5px}}; {{{style1|}}}" | {{{lcaption|{{{3}}}}}}
+| class="ubx-main {{#ifeq:{{{headerbackground|1}}}|0||headerbackground}}" style="background:{{{color2|{{{2}}}}}}; {{{style2|}}}" | {{{text|{{{4}}}}}}
+| class="ubx-icon {{#ifeq:{{{headerbackground|1}}}|2|headerbackground|}}" style="background:{{{color1|{{{1}}}}}}; {{#ifeq:{{{border|{{{color1|{{{1}}}}}}}}}|{{{color1|{{{1}}}}}}|{{#ifeq:{{{headerbackground|1}}}|2|box-sizing:border-box; padding-left:1px; width:45.5px|border-left:1px solid {{{color1|{{{1}}}}}}}}|box-sizing:border-box; padding-left:0.5px}}; {{{style3|}}}" | {{{rcaption|{{{5}}}}}}
+|}<noinclude>
+{{Clear}}
+==Description==
+A template identical in function to {{Tl|Userbox}}, but with two caption cells instead of one.
+
+==Usage==
+The template's parameters are listed below. It is not necessary to name the first five parameters if they are assigned values in order, so template calls may use the shorthand form <code><nowiki>{{</nowiki>Userbox-2|{{Var|color1}}|{{Var|color2}}|{{Var|lcaption}}|{{Var|text}}|{{Var|rcaption}}}}</code>.
+<pre>
+{{Userbox-2
+|color1=
+|color2=
+|lcaption=
+|text=
+|rcaption=
+|border=
+|style=
+|style1=
+|style2=
+|style3=
+|headerbackground=
+}}
+</pre>
+
+===Required parameters===
+#{{Para||{{Var|color1}}}} The [[wikipedia:Web colors|color]] of the outer cells' background and the box border.
+#{{Para||{{Var|color2}}}} The color of the middle cell's background.
+#{{Para||{{Var|lcaption}}}} The content of the left cell. This is often an [[Wookieepedia:Files|image]], which will stretch the cell if not constrained to fit within a 45px&nbsp;&times;&nbsp;45px space.
+#{{Para||{{Var|text}}}} The content of the middle cell.
+#{{Para||{{Var|rcaption}}}} The content of the right cell. This is subject to identical properties as those in the left cell.
+
+===Optional parameters===
+#<li value="6">{{Para|border}} The box border color, which defaults to <code>{{Var|color1}}</code>.</li>
+#{{Para|style}} Any additional [[wikipedia:CSS|CSS]] values to set for the entire box. Do not include quotation marks.
+#{{Para|style1}} Any additional CSS for the left cell.
+#{{Para|style2}} Any additional CSS for the middle cell.
+#{{Para|style3}} Any additional CSS for the right cell.
+#{{Para|headerbackground}} Determines whether each cell's background is automatically darkened when viewed on a web browser in dark mode. The default value is <code>1</code>, which applies dark-mode behavior to the middle cell only. Setting {{Para|headerbackground|0}} will disable dark-mode behavior, whereas {{Para|headerbackground|2}} will apply it to all three cells.
+
+==Examples==
+{| class="wikitable"
+! Description
+! Code
+! Result
+|-
+| Implicit parameters
+| <pre style="background:none; border:none">{{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah}}</pre>
+| {{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah}}
+|-
+| Explicit parameters
+| <pre style="background:none; border:none">
+{{Userbox-2
+|color1=#CCC
+|color2=#EEE
+|lcaption=bl
+|text=blah blah blah
+|rcaption=ah}}</pre>
+| {{Userbox-2|color1=#CCC|color2=#EEE|lcaption=bl|text=blah blah blah|rcaption=ah}}
+|-
+| Different border color
+| <pre style="background:none; border:none">{{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|border=#F00}}</pre>
+| {{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|border=#F00}}
+|-
+| Extra table styling
+| <pre style="background:none; border:none">{{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|border=#00F|style=border-style:dashed}}</pre>
+| {{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|border=#00F|style=border-style:dashed}}
+|-
+| Extra cell styling
+| <pre style="background:none; border:none">{{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|style1=color:#F00|style2=color:#00F|style3=color:#F0F}}</pre>
+| {{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|style1=color:#F00|style2=color:#00F|style3=color:#F0F}}
+|-
+| Fully preserved in dark mode
+| <pre style="background:none; border:none">{{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|style1=color:#F00|style2=color:#00F|style3=color:#F0F|headerbackground=0}}</pre>
+| {{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|style1=color:#F00|style2=color:#00F|style3=color:#F0F|headerbackground=0}}
+|-
+| Fully reactive to dark mode
+| <pre style="background:none; border:none">{{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|style1=color:#F00|style2=color:#00F|style3=color:#F0F|headerbackground=2}}</pre>
+| {{Userbox-2|#CCC|#EEE|bl|blah blah blah|ah|style1=color:#F00|style2=color:#00F|style3=color:#F0F|headerbackground=2}}
+|}
+
+==See also==
+*[[MediaWiki:Common.css]]
+*[[MediaWiki:Fandomdesktop.css]]
+*[[Wookieepedia:User page and profile policy]]
+*[[Wookieepedia:Userboxes]]
+*[[Template:User infobox]]
+*[[Template:Userbox-m]]
+*[[Template:Userbox-r]]
+
+[[Category:Userbox templates|{{PAGENAME}}]][[Category:Utility templates|{{PAGENAME}}]]</noinclude>

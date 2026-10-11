@@ -1,0 +1,26 @@
+==Usage==
+<code><nowiki>{{WookDiscord|discordname=|name=|date=|messagelink=|quote=|archivefile=|nobackup=}}</nowiki></code>
+
+<span style="color:red">'''Per [[Forum:CT:Citing Discord messages from Official Discords|this CT]], please make sure you drop all Discord screenshots&mdash;even from the Wook Discord&mdash;onto [[Wookieepedia:Discord screenshots]]!'''</span>
+
+===Required parameters===
+*{{Para|discordname}} Discord username.
+*{{Para|name}} Full name of the Discord user.
+*{{Para|messagelink}} Discord URL link to the message.
+*{{Para|archivefile}} The uploaded Wookieepedia filename of the screenshot taken of the Discord conversation.
+
+===Optional parameters===
+*{{Para|date}} Date the Discord post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Quote of the Discord conversation.
+
+==Example(s)==
+<code><nowiki>{{WookDiscord|discordname=Holshef|name=Jack Mitchell|date=2021-11-22|messagelink=https://discord.com/channels/397848917036761090/492458000720592906/912207621069615104|quote=In the case of the statues in the emperor's throne room on Death Star II, that's an example of what they call 'ecphrasis,' the description of works of art as a way of giving background that's embedded in the narrative, instead of just having the narrator step back and say, 'OK, there was this guy Darth Bane&hellip;' So in this case I would hesitate to say that the poem was adding to canon by asserting that there were statues in the throne room &mdash; for one thing, none are visible in the film! Personally I would class them as neither canonical nor anti-canonical.|archivefile=File:Mitchell-Discord.png}}</nowiki></code>
+
+Results in:
+
+{{WookDiscord|discordname=Holshef|name=Jack Mitchell|date=2021-11-22|messagelink=https://discord.com/channels/397848917036761090/492458000720592906/912207621069615104|quote=In the case of the statues in the emperor's throne room on Death Star II, that's an example of what they call 'ecphrasis,' the description of works of art as a way of giving background that's embedded in the narrative, instead of just having the narrator step back and say, 'OK, there was this guy Darth Bane&hellip;' So in this case I would hesitate to say that the poem was adding to canon by asserting that there were statues in the throne room &mdash; for one thing, none are visible in the film! Personally I would class them as neither canonical nor anti-canonical.|archivefile=File:Mitchell-Discord.png}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,3 @@
+{{#ifexist:Wookieepedia:Votes for deletion/{{{1}}}|[[Wookieepedia:Votes for deletion/{{{1}}}|{{{1}}}]]|<span class="plainlinks redlink">[{{fullurl:Wookieepedia:Votes for deletion/{{{1}}}|action=edit&preload=Template:VFD_preload&editintro=Template:VFD_editintro}} {{{1}}}]</span>}}<noinclude>
+
+[[Category:Administrative templates|Vfdpage]]</noinclude>

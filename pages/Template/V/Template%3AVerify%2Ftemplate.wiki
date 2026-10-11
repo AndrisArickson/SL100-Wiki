@@ -1,0 +1,16 @@
+{{Iumb
+| id = Verify/template
+| bg = #f0b0b0
+| image = [[File:Lott Dodd thumb.png|100px]]
+| caption = I object! There is no proof!
+| message = {{#if:{{{OOU|{{{oou|}}}}}}|This article does not have any [[Wookieepedia:Attribution|'''reliable sources''']] and is therefore pending proper verification. Please populate a '''Sources''' or '''External links''' section with ''reliable'' sources to satisfy this requirement. See the [[Wookieepedia:Layout Guide/Out-of-universe|Layout Guide]] for more information.|This article does not have a list of '''Appearances''' or '''Sources''' and is therefore pending source verification as '''possible [[fanon]]'''. See the [[Wookieepedia:Layout Guide|Layout Guide]] for more information.}}{{#if:{{{1|}}}|<br />''Further information:'' '''{{{1}}}'''|}}
+| comment = After the article has been properly verified, you may remove this message. Other Wookieepedia articles, Wikipedia, and the Internet Movie Database are ''not'' reliable sources. If this article is not provided with reliable sources in '''7 days''', it will be deleted.
+}}<noinclude>
+
+==Usage==
+See [[Template:Verify#Usage]].
+
+==Categorization==
+*[[:Category:Articles in need of verification]]
+
+[[Category:Verification templates]]</noinclude>

@@ -1,0 +1,31 @@
+{{Iumb
+| bg = {{{color|#ff9933}}}
+| image = {{{image|[[File:Aleena family.jpg|125px|]]}}}
+| caption = {{{caption|I gotta get out of here!}}}
+| message = {{{message|{{{name|This user}}} is taking a Wookieevacation {{{1|{{{reason|either due to personal matters or by choice}}}}}}.}}}
+| comment = {{{comment|{{ucfirst:{{lc:{{{pronoun|They}}}}}}} may still [[Special:Contributions/{{PAGENAME}}|contribute]], but not as much as {{lc:{{{pronoun|they}}}}} usually {{#if:{{{pronoun|}}}|does|do}}. In addition, {{lc:{{{pronoun|they}}}}} may not respond to [[User talk:{{PAGENAME}}|talk page]] messages as quickly.}}}
+}}<noinclude>
+{{Top|sprot|mprot}}
+
+==Usage==
+===Basic usage===
+Use by simply placing <nowiki>{{Vacation}}</nowiki> on your userpage. It includes an optional field describing the nature of the absence, shown in the following example:
+
+<nowiki>{{Vacation|because of a two-month cruise}}</nowiki>
+{{Vacation|because of a two-month cruise}}
+
+The unnamed parameter may also be specified explicitly as <code>|reason=</code>.
+
+===Advanced usage===
+The template contains several optional parameters to override the default behavior, described below. None of these are required. Do not list parameters that you are not using, otherwise you may get undesirable results.
+
+*<code>|color=</code> &ndash; Overrides the default background color.
+*<code>|image=</code> &ndash; Overrides the default image. Use full image syntax, without the <code>|thumb</code> argument.
+*<code>|caption=</code> &ndash; Replaces "I gotta get out of here!"
+*<code>|message=</code> &ndash; Replaces the entire "This user is taking a Wookieevacation" line. If this parameter is used, then the "name", "reason", and unnamed parameters are ignored if present.
+*<code>|name=</code> &ndash; Replaces "This user" with the name of your choice. Ignored if "message" is defined.
+*<code>|reason=</code> &ndash; Replaces "either due to personal matters or by choice". The ending period is provided automatically. Same as the parameter described under "Basic usage" above. Can also be invoked as an unnamed parameter. Ignored if "message" is defined.
+*<code>|comment=</code> &ndash; Replaces the entire "They may still contribute" line. If this parameter is used, then the "pronoun" parameter will be ignored.
+*<code>|pronoun=</code> &ndash; Replaces both usages of the singular "they" in the default comment with the specified pronoun. Automagically converted to proper case for each usage. Also adjusts grammar at end of first sentence to read "he/she usually ''does''" instead of "do". Ignored if "comment" is defined.
+
+[[Category:User page templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,7 @@
+<small>(Wreckage only)</small><noinclude>[[Category:Appearance templates|{{PAGENAME}}]]<templatedata>
+{
+	"params": {},
+	"description": "For ==Appearances== Sections, indicates that only the wreckage of a vehicle appeared in the source.",
+	"format": "inline"
+}
+</templatedata></noinclude>

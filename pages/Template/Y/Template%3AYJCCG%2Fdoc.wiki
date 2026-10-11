@@ -1,0 +1,8 @@
+==Usage==
+Place the following code on the page and replace "SET NAME" with the appropriate information.
+
+<code><nowiki>{{YJCCG|set=''SET NAME''|link=''URL''|cardname=''CARD NAME''}}</nowiki></code>
+
+{{YJCCG|set=Boonta Eve Podrace|link=boontaevepodrace/dark/large/35tc14protocoldroid.html|cardname=TC-14}}
+
+[[Category:Card game citation templates|{{PAGENAME}}]]<noinclude>[[Category:Citation template documentation]]</noinclude>

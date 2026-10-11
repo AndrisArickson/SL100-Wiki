@@ -1,0 +1,88 @@
+<infobox theme="Website">
+	<image source="image"></image>
+    <title source="name"></title>
+    <group collapse="open">
+    	<header></header>
+        <data source="url"><label>URL</label></data>	
+        <data source="slogan"><label>Slogan</label></data>
+        <data source="type"><label>Type</label></data>
+        <data source="language"><label>Language(s)</label></data>
+        <data source="registration"><label>Registration</label></data>	
+        <data source="owner"><label>Owner</label></data> 
+        <data source="creator"><label>Created by</label></data>	
+        <data source="maintainer"><label>Maintained by</label></data>
+        <data source="launch date"><label>Launched</label></data>	
+        <data source="current status"><label>Current status</label></data>
+        <data source="article count"><label>Article count</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Website|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|url|slogan|type|language|registration|owner|creator|maintainer|launch date|current status|article count|ignore=name}}<noinclude>[[category:Media infoboxes]]{{clear}}
+
+==Parameters==
+{| {{Prettytable}}
+! style="text-align: left" | Parameter
+! style="text-align: left" | Explanation
+|-
+| <code>image</code>
+| The website logo.
+|- 
+| <code>name</code>
+| The website's most recognized name.
+|-
+| <code>url</code>
+| The most used URL of the website, use [[Wikipedia:Alexa Internet|Alexa]] to find the most used URL, e.g. [http://www.wikipedia.org/ http://www.wikipedia.org/] ('''required''')
+|-
+| <code>slogan</code>
+| The slogan of the website, e.g. "the free encyclopedia that anyone can edit."
+|-
+| <code>type</code>
+| The type of website, search for similar sites for an idea.
+|-
+| <code>language</code>
+| The language(s) the website is available in
+|-
+| <code>registration</code>
+| Is there registration, none/optional/required?
+|-
+| <code>owner</code>
+| The current owner, company name/persons name/alias etc
+|-
+| <code>creator</code>
+| The person or entity that originally created the website
+|-
+| <code>maintainer</code>
+| The person(s) or entity that maintains the website
+|-
+| <code>launch date</code>
+| When the website was launched, consider using the [[Wikipedia:WHOIS|WHOIS]] data as a last resort if you are unable to determine the launch date.
+|-
+| <code>current status</code>
+| Is the site online/offline/sold etc
+|-
+| <code>article count</code>
+| For wikis, include the current article count via the <code><nowiki>{{NUMBEROFARTICLES}}</nowiki></code> variable, if available
+|}
+
+==Usage==
+Paste the following code into the top of an article, filling all known fields:
+
+<pre>
+{{Website
+|image=
+|name=
+|url=
+|slogan=
+|type=
+|language=
+|registration=
+|owner=
+|creator=
+|maintainer=
+|launch date=
+|current status=
+|article count=
+}}
+</pre></noinclude>

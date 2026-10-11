@@ -1,0 +1,26 @@
+This template is to be used for citing individual pages on [[The World of Star Wars]]
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{WoSW|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{WoSW|url=photos/darth-sidious-darkside|text=Darth Sidious darkside|archivedate=20071226025925}}</nowiki></code>
+
+Results in:
+
+{{WoSW|url=photos/darth-sidious-darkside|text=Darth Sidious darkside|archivedate=20071226025925}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

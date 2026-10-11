@@ -1,0 +1,13 @@
+{{Iumb
+| bg = #239458
+| image = [[File:Hyperspacefalcon.jpg|150px]]
+| caption = Punch it, Chewie!
+| message = This user has voluntarily left Wookieepedia indefinitely. {{#if:{{{1|}}}|<br />Reason: {{{1}}}|}}
+}}<noinclude>
+
+==Usage==
+Use by simply placing <nowiki>{{user left}} or {{user left|your reason for leaving}}</nowiki> on your userpage. Providing a reason is optional.
+
+This notice should only be used when permanently leaving Wookieepedia. For temporary absences, use {{Tl|Vacation}} instead. If you decide to return under this username, you may remove this template.
+
+[[Category:User page templates|{{PAGENAME}}]]</noinclude>

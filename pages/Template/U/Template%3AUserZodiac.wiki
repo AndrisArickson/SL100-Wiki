@@ -1,0 +1,111 @@
+{{Userbox|#{{#switch:{{{1}}}
+ |Aries = F00
+ |Taurus = 013220
+ |Gemini = FFBF00
+ |Cancer = 808080
+ |Leo = B8860B
+ |Virgo = 000080
+ |Libra = 00F
+ |Scorpio = 800000
+ |Sagittarius = 4B0082
+ |Capricorn = 964B00
+ |Aquarius = 8B00FF
+ |Pisces = 0095B6
+ |NoZodiac = 8EADCE
+ }}|#{{#switch:{{{1}}}
+ |Aries = EA8462
+ |Taurus = 00A86B
+ |Gemini = FDE910
+ |Cancer = C0C0C0
+ |Leo = FFDB58
+ |Virgo = 6495ED
+ |Libra = ABCDEF
+ |Scorpio = CC512A
+ |Sagittarius = 96C
+ |Capricorn = B87333
+ |Aquarius = C9A0DC
+ |Pisces = AFEEEE
+ |NoZodiac = E2E2E2
+ }}|{{#switch:{{{1}}}
+ |Aries = ari
+ |Taurus = tau
+ |Gemini = gem
+ |Cancer = can
+ |Leo = leo
+ |Virgo = vir
+ |Libra = lib
+ |Scorpio = sco
+ |Sagittarius = sag
+ |Capricorn = cap
+ |Aquarius = aqu
+ |Pisces = pis
+ |NoZodiac = X
+ }}
+|This user {{#ifeq:{{{1}}}|NoZodiac|believes [[wikipedia:Astrology|astrology]] is nonsense and refuses to use Zodiac sign templates.|is {{#switch:{{{1}}}|Aries|Aquarius = an|a}} [[wikipedia:{{{1}}} (astrology)|'''{{{1}}}''']].}}
+|border=#{{#switch:{{{1}}}
+ |Aries = F00
+ |Taurus = 013220
+ |Gemini = FFBF00
+ |Cancer = 808080
+ |Leo = B8860B
+ |Virgo = 000080
+ |Libra = 00F
+ |Scorpio = 800000
+ |Sagittarius = 4B0082
+ |Capricorn = 964B00
+ |Aquarius = 8B00FF
+ |Pisces = 0095B6
+ |NoZodiac = 000
+ }}
+|style1={{#ifeq:{{{1}}}|NoZodiac||color:#FFF}}
+}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserZodiac|</nowiki>{{Var|sign}}<nowiki>}}</nowiki></code> into your user page.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Aries}}</pre>
+| {{UserZodiac|Aries}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Taurus}}</pre>
+| {{UserZodiac|Taurus}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Gemini}}</pre>
+| {{UserZodiac|Gemini}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Cancer}}</pre>
+| {{UserZodiac|Cancer}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Leo}}</pre>
+| {{UserZodiac|Leo}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Virgo}}</pre>
+| {{UserZodiac|Virgo}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Libra}}</pre>
+| {{UserZodiac|Libra}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Scorpio}}</pre>
+| {{UserZodiac|Scorpio}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Sagittarius}}</pre>
+| {{UserZodiac|Sagittarius}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Capricorn}}</pre>
+| {{UserZodiac|Capricorn}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Aquarius}}</pre>
+| {{UserZodiac|Aquarius}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|Pisces}}</pre>
+| {{UserZodiac|Pisces}}
+|-
+| <pre style="background:none; border:none">{{UserZodiac|NoZodiac}}</pre>
+| {{UserZodiac|NoZodiac}}
+|}
+
+[[Category:Userbox templates|Zodiac]]</noinclude>

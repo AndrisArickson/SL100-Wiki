@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[WEBTOON]]'s [https://www.webtoons.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Webtoon|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.webtoons.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Webtoon|url=en/graphic-novel/star-wars-darth-vader-black-white-red/list?title_no=9247|text=Star Wars™: Darth Vader - Black, White, & Red|archivedate=20251012104729}}</nowiki></code>
+
+Results in:
+
+{{Webtoon|url=en/graphic-novel/star-wars-darth-vader-black-white-red/list?title_no=9247|text=Star Wars™: Darth Vader - Black, White, & Red|archivedate=20251012104729}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

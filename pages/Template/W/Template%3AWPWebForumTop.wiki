@@ -1,0 +1,15 @@
+<div class="darkbackground1 forumheader" style="padding: 5px; border-radius: 10px">'''[[Wookieepedia:WookieeProjects|WookieeProjects]] &gt; [[Wookieepedia:WookieeProject Web|WookieeProject Web]] &gt; {{PAGENAME}}'''</div><includeonly>{{#switch:{{{1}}} |2=[[Category:WookieeProject Web tech forum]] |3=[[Category:WookieeProject Web tutorials forum]] |[[Category:WookieeProject Web indexing forum]]}}</includeonly><noinclude>
+
+==Usage instructions==
+<code><nowiki>{{WPWebForumTop|</nowiki>{{var|categorization}}<nowiki>}}</nowiki></code>
+
+Place this template at the top of a [[Wookieepedia:WookieeProject Web|WookieeProject Web]] forum page.
+
+===Required parameter===
+#{{para||{{var|categorization}}}} Enter either <code>1</code>, <code>2</code>, or <code>3</code> to place the forum page in its appropriate category.
+##[[:Category:WookieeProject Web indexing forum]] (default)
+##[[:Category:WookieeProject Web tech forum]]
+##[[:Category:WookieeProject Web tutorials forum]]
+
+[[Category:Forum templates|{{PAGENAME}}]]
+[[Category:WookieeProject Web|{{PAGENAME}}]]</noinclude>

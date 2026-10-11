@@ -1,0 +1,59 @@
+{{Userbox|||[[File:{{#if:{{{current|}}}|Windows.svg|Windows10.svg}}|35px|]]|This user runs [[wikipedia:Microsoft Windows|'''Microsoft Windows''']].|border=#{{#if:{{{current|}}}|0078D4|00ADEF}}}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserWindows}}</nowiki></code> into your user page. The default icon displayed is the [[:File:Windows10.svg|Windows 10 logo]]; include {{Para|current|1}} for the [[:File:Windows.svg|most recent logo]] instead.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="border:none; background:none">{{UserWindows}}</pre>
+| {{user windows}}
+|-
+| <pre style="border:none; background:none">{{UserWindows|current=1}}</pre>
+| {{user windows|current=1}}
+|-
+| <pre style="border:none; background:none">{{User infobox
+|c1=
+|c2=
+|c3=
+|userboxBG=
+|image=
+|name=JohnDoe1138
+|birth= 
+|birthplace=[[Earth]]
+|residence=
+|gender=
+|pronouns=He/him
+|height= 
+|hair= 
+|eyes=
+|occupation=
+|hobbies=
+|contribs=
+|userboxes={{UserWindows}}
+}}</pre>
+| {{User infobox
+|c1=
+|c2=
+|c3=
+|userboxBG=
+|image=
+|name=JohnDoe1138
+|birth= 
+|birthplace=[[Earth]]
+|residence=
+|gender=
+|pronouns=He/him
+|height= 
+|hair= 
+|eyes=
+|occupation=
+|hobbies=
+|contribs=
+|userboxes={{UserWindows}}
+}}
+|}
+
+[[Category:Operating system userboxes|Windows]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{CardGame|YJCCG
+|parent={{{parent|}}}
+|set={{{set|}}}
+|link={{{link|}}}
+|cardname={{{cardname|}}}
+|text={{{text|}}}
+|customurl={{{altlink|}}}
+|nourl={{{nourl|}}}
+|nobackup={{{nobackup|}}}
+|manual_archiveurl=no-link
+}}{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

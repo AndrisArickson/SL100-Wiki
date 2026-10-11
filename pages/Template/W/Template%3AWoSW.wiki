@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=WoSW
+|image=[[File:TWoSWb.png|text-top|x16px|link=The World of Star Wars]]
+|site_text=[[The World of Star Wars]]
+|base_url=https://starwars.yahoo.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

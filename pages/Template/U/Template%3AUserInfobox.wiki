@@ -1,0 +1,121 @@
+<div id="User_infobox" class="infobox" style="border-width: 0px; padding: 0px; {{#if:{{{width|}}}|width:{{{width}}};|}}">
+{| class="infoboxtable hidable-content" cellspacing="0" cellpadding="4" style="border-width: 0px"
+ |-
+| class="infoboximage" colspan="2" style="max-width: 250px;{{#if:{{{imageBG|}}}|background: #{{{imageBG}}}|{{#if:{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}|background: #{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}|background: #999999}}}}" | {{Imagewidth|{{{image|}}}|maxsize=250}}
+ |- 
+! class="infoboxheading" colspan="2" style="{{#if:{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}|background: #{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}|background: #999999}}; {{{css|}}}" | {{{2|{{{name|{{PAGENAME}}}}}}}}
+ {{#if:{{{birth|}}}{{{birthplace|}}}{{{residence|}}}|{{!}}-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}" {{!}} '''Biographical information'''|{{!}}-}}
+ {{#if:{{{birth|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Birth date
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{birth|}}}
+{{!}}-
+|}} {{#if:{{{birthplace|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Birthplace
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{birthplace|}}}
+{{!}}-
+|}} {{#if:{{{residence|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Residence
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{residence|}}}
+{{!}}-
+|}} {{#if:{{{gender|}}} {{{pronouns|}}} {{{height|}}} {{{hair|}}} {{{eyes|}}} |{{!}}-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}" {{!}} '''Descriptive information'''|{{!}}-}}
+ {{#if:{{{gender|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Gender
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{gender|}}}
+{{!}}-
+|}} {{#if:{{{pronouns|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Pronouns
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{pronouns|}}}
+{{!}}-
+|}} {{#if:{{{height|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Height
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{height|}}}
+{{!}}-
+|}} {{#if:{{{hair|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Hair color
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{hair|}}}
+{{!}}-
+|}} {{#if:{{{eyes|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Eye color
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{eyes|}}}
+{{!}}-
+|}} {{#if:{{{occupation|}}} {{{hobbies|}}} {{{contribs|}}} |{{!}}-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}" {{!}} '''General information'''|{{!}}-}}
+ {{#if:{{{occupation|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Occupation
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{occupation|}}}
+{{!}}-
+|}} {{#if:{{{hobbies|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Hobbies
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{hobbies|}}}
+{{!}}-
+|}} {{#if:{{{contribs|}}}|
+{{!}}-
+{{!}} class="infoboxlabel" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}" {{!}} Canon contributions
+{{!}} class="infoboxcell" style="{{#if:{{#if:{{{c3|}}}|{{{c3}}}|none}}|background: #{{#if:{{{c3|}}}|{{{c3}}}|none}}|}}; {{{css|}}}" {{!}}
+{{{contribs|}}}
+{{!}}-
+|}} {{#if:{{{userboxes|}}}|{{!}}-
+! class="infoboxsubheading" colspan="2" style="background: #{{#if:{{{c2|}}}|{{{c2}}}|D6F0F5}}" {{!}} '''Userboxes'''
+{{!}}- class="infoboxstopalt"
+{{!}} colspan="2" {{!}}
+{{{!}} border="0" cellpadding="0" cellspacing="0" style="padding:0; width:242px; margin:0 auto 0 auto; background:none;"
+{{!}}-
+{{!}} style="background:none;" {{!}}
+{{{userboxes|}}}
+{{!}}}
+{{!}}- 
+|{{!}}-}} 
+|}
+<div class="infoboxfooter plainlinks" style="border-radius: 0 0 10px 10px; text-align: center; background: #{{#if:{{{c1|}}}|{{{c1}}}|94C7D1}}"><span id="infoboxend"></span>{{PlainLink|//starwars.fandom.com/wiki/Template:User_infobox|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</div></div><!--Infobox modernisation WIP, but doesn't allow background color customisations
+<infobox theme="User_infobox">
+	<image source="image" />
+	<title source="name"><default>{{PAGENAME}}</default></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<group>
+		<header>Biographical information test</header>
+		<data source="birth"><label>Birth date</label></data>
+		<data source="birthplace"><label>Birthplace</label></data>
+		<data source="residence"><label>Residence</label></data>
+	</group>
+	<group>
+		<header>Descriptive information</header>
+		<data source="gender"><label>Gender</label></data>
+		<data source="pronouns"><label>Pronouns</label></data>
+		<data source="height"><label>Height</label></data>
+		<data source="hair"><label>Hair color</label></data>
+		<data source="eyes"><label>Eye color</label></data>
+	</group>
+	<group>
+		<header>General information</header>
+		<data source="occupation"><label>Occupation</label></data>
+		<data source="hobbies"><label>Hobbies</label></data>
+		<data source="contribs"><label>Canon contributions</label></data>
+	</group>
+	<group layout="horizontal">
+		<header>Userboxes</header>
+		<data source="userboxes" />
+	</group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:UserInfobox|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>--><!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>{{Top|sprot}}{{Documentation}}</noinclude>

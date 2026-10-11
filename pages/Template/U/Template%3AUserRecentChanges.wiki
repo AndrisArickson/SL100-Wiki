@@ -1,0 +1,8 @@
+{{Userbox|#DDD|#FFF|[[File:UB-senguard.jpg|45px]]|This user is a [[Special:RecentChanges|'''recent changes''']] patroller.}}<noinclude>
+{{Clear}}
+==Usage==
+To use this template, paste <code><nowiki>{{UserRecentChanges}}</nowiki></code> into your user page.
+
+{{Interlang|es=Plantilla:CR}}
+
+[[Category:Wiki userboxes|RecentChanges]]</noinclude>
