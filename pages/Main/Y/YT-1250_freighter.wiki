@@ -1,0 +1,84 @@
+{{Top|canon=YT-1250 transport}}
+{{StarshipClass
+|image=[[File:YT-1250.jpg]]
+|name=YT-1250 freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="SAV">[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="SAV" />
+|model=YT-1250 light freighter<ref name="SAV" />
+|type=[[Light freighter/Legends|Light freighter]]<ref name="SAV" />
+|cost=120,000 [[Galactic Credit Standard/Legends|credits]] (30,000 used)<ref name="SAV" />
+|modifier=
+|sysmods=
+|length=32.25 meters<ref name="MFOWM">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 km/h<ref name="SAV" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2 (Backup class 16)<ref name="SAV" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=Equipped
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]]<ref name="SAV" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Double [[Laser cannon/Legends|laser cannons]]<ref name="SAV" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]]<ref name="SAV" />
+*Copilot
+*[[Gunner/Legends|Gunner]]<ref name="SAV" />
+|skeleton=
+|passengers=5<ref name="SAV" />
+|capacity=80 tons<ref name="SAV" />
+|cargohandling=
+|consumables=3 months<ref name="SAV" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="SAV" />
+|role=[[Transport/Legends|Transport]]
+|firstuse=
+|retired=
+|affiliation=*[[Smuggler/Legends|Smuggler]]
+*[[Pirates & Privateers]]
+*[[Courier/Legends|Couriers]]
+*[[Bounty hunter/Legends|Bounty hunter]]
+}}
+The '''YT-1250 freighter''' was a model of [[Freighter/Legends|freighter]] produced by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]].
+
+==Characteristics==
+[[File:YT-1250_Transport.jpg|thumb|left|200px|YT-1250 schematics]]
+The YT-1250 had 20% less cargo capacity than the stock YT-1200, but it made up for that by having stronger engines, heavier weapons, and a basic set of shields. It wasn't as highly upgradeable as most [[YT-series/Legends|YT-series]] freighters, but it was still able to be modified to suit the user's needs.
+
+==Usage==
+Since the YT-1250 was upgraded and reinforced, it was marketed as suitable for light defense duties, cargo transporting in hazardous areas, and being used as an armed escort for freighter convoys.
+
+==History==
+The YT-1250 was an unusual model for CEC, since it wasn't a new design. With the release of the [[YT-1300 light freighter/Legends|YT-1300]], CEC found itself with a huge back stock of [[YT-1200 medium freighter|YT-1200s]] and [[YT-1210 light freighter/Legends|YT-1210s]]. In an effort to sell these ships, they redesigned the older ships and sold them as a "new" design. Sales remained sluggish but CEC was finally able to sell the whole line off to various small systems and militant trade guilds.
+
+[[Station TFP-9]] in the [[Naboo system/Legends|Naboo system]] had two such freighters for defense.
+
+==Appearances==
+*{{GamerCite|1|The Starfighter Trap}} {{1st}}
+
+==Sources==
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:YT-series freighter classes]]

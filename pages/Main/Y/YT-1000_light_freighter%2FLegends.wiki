@@ -1,0 +1,86 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:YT-100_ETU.png]]
+|name=YT-1000 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=[[YT-series/Legends|YT-series]]
+|model=YT-1000
+|type=[[Light freighter/Legends|Light freighter]]
+|cost=*85,000 [[Galactic Credit Standard/Legends|credits]] (New)<ref name="MFOWM">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+*20,000 credits (Used)<ref name="MFOWM" />
+|modifier=
+|sysmods=
+|length=28 [[Meter/Legends|meters]]<ref name="MFOWM" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=740 [[Kilometer per hour/Legends|km/h]]<ref name="MFOWM" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3<ref name="MFOWM" />
+*Backup: Class 16<ref name="MFOWM" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=Equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] turret<ref name="MFOWM" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="MFOWM" />
+|skeleton=
+|passengers=4<ref name="MFOWM" />
+|capacity=75 [[Metric ton/Legends|metric tons]]<ref name="MFOWM" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="MFOWM" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''YT-1000 light freighter''' or '''YT-1000 transport''' was a [[Freighter/Legends|freighter]] produced by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]. It bore distinct similarities to its successor, the [[YT-1300 light freighter/Legends|YT-1300 light freighter]]. It was a smaller [[Starship/Legends|vessel]], and featured a top-mounted cockpit.
+
+It had been initially intended as an experimental departure from the [[YG-series/Legends|YG-series]] of transports by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] as well as a potential replacement for the venerable [[Barloz-class medium freighter/Legends|''Barloz''-class Medium Freighters]], although even the CEC had not envisioned it as a bold new direction in starship design. In addition to incorporating new technology, the YT-1000's design was also inspired by past starship designs, specifically ancient holograms that yielded images and partial data/schematics for a CEC [[XS stock light freighter/Legends|XS stock light freighter]] dating back to the [[Great Galactic War]]. As the partials left questions unanswered, CEC turned to [[Narro Sienar]], an expert on ancient freighters and the then-owner of [[Santhe/Sienar Technologies]], which led to the creation of the vessel from the design experiment. Although the ship design was popular, CEC opted for a limited release due to mixed reviews of the ship, with the primary desire being for a larger ship that offered more modular options.
+
+As with the later variants of the [[YT-series/Legends|YT-series]], the YT-1000 was favored by [[Smuggler/Legends|smugglers]], who enjoyed the freedom to tinker with the vessel and add many modifications, such as various weaponry. The model was replaced by the [[YT-1200 medium freighter|YT-1200]], [[YT-1210 light freighter/Legends|YT-1210]] and later the YT-1300.
+
+==Appearances==
+*''[[The Jewel of Yavin]]'' {{Po}}
+*''[[Dark Nest I: The Joiner King]]''
+
+==Sources==
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]'' {{1stID|YT-1000 transport}}
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2015-01-06 -->{{BuildFalconCite|1|Starship Fact File}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=YT-1000-Transporter
+}}
+
+[[Category:YT-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YT-1000 light freighters]]
+}}

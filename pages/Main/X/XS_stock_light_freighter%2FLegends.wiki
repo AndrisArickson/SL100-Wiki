@@ -1,0 +1,106 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:XS_stock_light_freighter.png]]
+|name=XS stock light freighter
+|designer=[[Bravis Halcyon]]<ref name="Encyclopedia">''[[Star Wars: The Old Republic Encyclopedia]]''</ref>
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="Holonet">{{Holonet|starships|xs-freighter|XS Freighter}}</ref>
+|line=
+|model=
+|type=[[Light freighter/Legends|Light freighter]]<ref name="Holonet" />
+|cost=
+|modifier=
+|sysmods=
+|length=101 [[Meter/Legends|meters]]<ref name="Encyclopedia" />
+|width=88 meters<ref name="Encyclopedia" />
+|height=27 meters<ref name="Encyclopedia" />
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="TOR">''[[Star Wars: The Old Republic]]''</ref>
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="TOR" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 [[Soniver Arms]] [[HSG-67 laser cannon]]s<ref name="Encyclopedia" />
+*[[Missile/Legends|Missile]] batteries<ref name="Encyclopedia" />
+|complement=
+|bays=
+|escapepods=1<ref name="Encyclopedia" />
+|crew=
+|skeleton=1<ref name="Encyclopedia" />
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=General civilians<ref name="Encyclopedia" />
+|role=Freighter<ref name="Holonet" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+{{Quote|Welcome aboard your Corellian XS Light Freighter: a marvel of customization. I can only speculate why such large engines were mounted to its hull.|C2-N2|<ref name="TOR:IC">{{TORcite|type=class|Smuggler|Introducing C2N2|the XS stock light freighter}}</ref>}}
+The '''XS stock light freighter''' was a model of [[Freighter/Legends|freighter]] used mostly by [[Smuggler/Legends|smugglers]] during the [[Great Galactic War]] and its resultant [[Cold War (Galactic Republic–Sith Empire)|Cold War]]. [[Ace's XS stock light freighter|One]] is used by [[Voidhound]].
+
+==Characteristics==
+{{Quote|She's not pretty, but she's tough.|Nico Okarr|<ref name="Return">{{TORweb|url=info/media/trailers/return|text="Return"|int=Return (cinematic trailer)}}</ref>}}
+[[File:XS_schematics.jpg|thumb|left|200px|Architectural features: versatile cockpit, upper & lateral cannons, and hyperdrive engines]]
+The XS stock light freighter was considered a major advancement in armament, speed and versatility over previous models of light freighter. It was considered one of the fastest and most agile [[Starship/Legends|starships]] in [[The galaxy/Legends|the galaxy]]. It contained a large cargo hold, including many hidden compartments throughout the ship, ideal for smuggling or simply hiding valuables. The XS also boasted powerful engines which allowed it to easily outrun most opponents or authorities, but in the event a fight was necessary, it came armed with standard [[Torpedo/Legends|torpedo]] launchers and [[Laser/Legends|laser]] batteries. In addition, it also held upper and lateral [[Laser turret/Legends|laser turrets]] which could be fired manually, or remotely from within the [[Cockpit/Legends|cockpit]]. Due to the fact that many smugglers and freighter [[Captain/Legends|captains]] both worked and lived aboard their ships, the XS was also designed with many of the standard comforts any being would need, including a lounge for recreation and extra sleeping quarters.<ref name="Holonet" />
+
+Millennia later, designers working for the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] used the schematics of the XS stock light freighter as an inspiration during the development of the [[YT-1000 light freighter/Legends|YT-1000]] freighter.<ref name="Millennium Falcon Owners' Workshop Manual">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+
+{{Ship-stub}}
+
+==Appearances==
+*{{TORweb|url=info/media/trailers/return|text="Return"|int=Return (cinematic trailer)}}
+*''[[The Old Republic: Deceived]]'' {{Ab|The Old Republic: Deceived (audiobook)}} {{1st}}
+*''[[Star Wars: The Old Republic]]''
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]]
+*''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]''
+*''[[Star Wars: The Old Republic: Galactic Strongholds]]''
+*''[[Star Wars: The Old Republic: Shadow of Revan]]''
+*''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]''
+*''[[Star Wars: The Old Republic: Onslaught]]''
+
+==Sources==
+{{Mediacat|imagecat=Images of XS stock light freighters}}
+*<!-- 2010-09-24 -->{{HolonetOld|starships|xs-freighter|XS Freighter}}
+*<!-- 2010-09-24 -->{{TORweb|url=media/concepts/corellian-xs-stock-light-freighter|text=Concept Art &ndash; Corellian XS Stock Light Freighter (1)|nolive=1}}
+*<!-- 2010-09-24 -->{{TORweb|url=media/concepts/corellian-xs-stock-light-freighter-0|text=Concept Art &ndash; Corellian XS Stock Light Freighter (2)|nolive=1}}
+*<!-- 2010-09-24 -->{{TORweb|url=media/concepts/corellian-xs-stock-light-freighter-1|text=Concept Art &ndash; Corellian XS Stock Light Freighter (3)|nolive=1}}
+*<!-- 2011-10-XX -->{{Holonet|starships|xs-freighter|XS Freighter}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2011-11-16 -->''[[The Art and Making of Star Wars: The Old Republic]]''
+*<!-- 2011-12-20 -->''[[Star Wars: The Old Republic Explorer's Guide]]''
+*<!-- 2012-10-15 -->''[[Star Wars: The Old Republic Encyclopedia]]''
+*<!-- 2019-12-12 -->{{TORweb|url=info/news/article/20191212|text=Cartel Market Newest Additions: Available Now!}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Corellianischer leichter XS-Frachter
+|es=Carguero ligero XS/Leyendas
+|fr=Cargo léger XS Stock/Légendes
+|nl=XS Stock Light Freighter
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Freighter classes]]
+
+{{RelatedCategories
+|[[Category:XS stock light freighters]]
+}}

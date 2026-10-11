@@ -1,0 +1,209 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Outrider_negvv.png]]
+|name=YT-2400 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="EVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="SotG">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|model=YT-2400<ref name="SotG old">''[[Starships of the Galaxy]]''</ref>
+|type=[[Light freighter/Legends|Light freighter]]
+|cost=*130,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SotG" />
+*32,000 credits {{C|used}}<ref name="SotG" />
+|modifier=
+|sysmods=
+|length=18.65 [[Meter/Legends|meters]]<ref name="MFOWM">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+|width=28.5 meters<ref name="MFOWM" />
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|km/h]]<ref name="MFOWM" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="MFOWM" />
+*Backup Class 12<ref name="MFOWM" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 248 [[SBD/Legends|SBD]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|hull=Doubled-armored plating<ref name="MFOWM" /> {{C|rated 102 [[RU/Legends|RU]]}}<ref name="XWA" />
+|sensor=
+|target=
+|navigation=Equipped<ref name="MFOWM" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] mounted on [[1D servo turret/Legends|1D servo turrets]] (2)<ref name="MFOWM" />
+|complement=
+|bays=
+|escapepods=
+|crew=3<ref name="MFOWM" />
+|skeleton=1<ref name="MFOWM" />
+|passengers=6<ref name="MFOWM" />
+|capacity=150 [[Metric ton/Legends|metric tons]]<ref name="MFOWM" />
+|cargohandling=
+|consumables=2 months<ref name="MFOWM" />
+|lifesupport=
+|communications=
+|othersystems=2 [[Escape pod/Legends|escape pods]]<ref name="EVV" />
+|availability=
+|role=*[[Transport/Legends|Transport]]<ref name="XWA" />
+*[[Freighter/Legends|Freighter]]
+*[[Smuggler/Legends|Smuggling]] vessel
+|firstuse=
+|retired=
+|affiliation=Various
+*[[Veiled Sorority/Legends|Veiled Sorority]]<ref name="MotPQ">''[[Mask of the Pirate Queen]]''</ref>
+}}
+The '''YT-2400 light freighter''' was a [[YT-series/Legends|YT-series]] [[Light freighter/Legends|light freighter]] produced by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] similar to the [[YT-1300 light freighter/Legends|YT-1300]].
+
+[[Dash Rendar/Legends|Dash Rendar's]] [[Outrider/Legends|''Outrider'']] was a heavily modified YT-2400 [[Freighter/Legends|freighter]], and perhaps the most famous example of the [[Starship/Legends|starship]] amongst [[Fringer/Legends|fringers]].
+
+==Characteristics==
+[[File:YT2400schematics-SS.png|thumb|left|180px|YT-2400 deck plan [[:Category:Technical drawing images|schematics]]]]
+Favored by [[Smuggler/Legends|smugglers]], the [[Starship/Legends|starship]] featured the [[YT-series/Legends|YT-series]] trademark saucer-shaped [[Hull/Legends|hull]] and starboard-mounted command pod. Like most [[Corellian Engineering Corporation/Legends|Corellian]] designs, the YT-2400 was fast, tough, and endlessly modifiable.<ref name="EVV" /> Stock YT-2400s were 18.65 [[Meter/Legends|meters]] in length, required two [[Pilot/Legends|pilots]], and were armed with two [[1D servo turret/Legends|1D servo turret]] [[Laser cannon/Legends|laser cannons]]&mdash;mounted dorsally and ventrally. The ship came with a total of 13 weapon emplacement points, with only 6 used in the stock configuration, allowing for easy modifications to the stock frame. Thus, the design was favored by [[Mercenary/Legends|mercenaries]] and smugglers, or any other being in need of a well-armed [[Transport/Legends|transport]].
+
+With double-armored hull plating and bulky engines, the YT-2400 could easily handle the strain of deep-space combat. The vessel had power to spare and an oversized hull begging for hot-rodded engines and powerful weapons.<ref name="EVV" />
+
+<div style="float:right">[[File:Outrider_btm.jpg|thumb|right|200px|[[Outrider/Legends|''Outrider'']] was arguably the most famous YT-2400]]</div>
+The YT-2400 was configured with a pair of starboard bracing arms that connected to the cockpit compartment, essentially a long tube. The aft section of the cockpit tube contained the primary escape pod, which seated six. The bracing arm's interior space generally was used for crew quarters and living space.
+
+The rounded hull area was devoted to cargo holds and ship's systems. In practice, much of the interior hull space was taken up by modified engines, power generators, weapons systems, and all the other illegal goodies any self-respecting smuggling ship needed. A second escape pod, as well as the airlock, was located on the far side of the cargo compartment, directly opposite the bracing arms.
+
+By [[137 ABY]], the YT-2400 freighter was apparently still in use, as the [[Galactic Alliance Remnant]] utilized the ''[[Scarlet Star]]''.
+
+==Appearances==
+{{ScrollBox|content=
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Bounty Hunter]]''
+*''[[Kinect Star Wars]]''
+*[[The Clone Wars 2|''The Clone Wars'' 2]]
+*''[[Rebel Dawn]]'' {{Mo}}
+*''[[Star Wars: The Force Unleashed II]]''
+*{{WEGCite|story=All the Extras|book=Shadows of the Empire Sourcebook}}
+*{{InsiderCite|128|And Leebo Makes Three|reprint=1}}
+*''[[Shadow Games]]''
+*{{Film|IV}} {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+*{{FFG|story=Debts to Pay|book=Star Wars: Edge of the Empire Game Master's Kit|text=''Star Wars'': Edge of the Empire Game Master's Kit}} {{Co}}
+*''[[Beyond the Rim]]''
+*''[[Mask of the Pirate Queen]]''
+*''[[Onslaught at Arda I]]''
+*''[[Star Wars Galaxies: Trials of Obi-Wan]]''
+*{{JournalCite|14|Crimson Bounty}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{WEGCite|story=Running the Sisar|book=Secrets of the Sisar Run}}
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]] {{1st|in book}}
+*[[Star Wars: Shadows of the Empire (video game)|''Star Wars: Shadows of the Empire'' video game]]
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*"[[The Jabba Tape]]"
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}} {{Mo}}
+*[[Invasion: Revelations 1|''Invasion: Revelations'' 1]]
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]'' {{Mo}}
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]'' {{Mo}}
+*''[[Legacy of the Force: Exile]]''
+*''[[Legacy of the Force: Inferno]]'' {{Mo}}
+*{{InsiderCite|129|A Fair Trade|reprint=1}}
+*''[[Crosscurrent]]''
+*[[Riptide (novel)|''Riptide'']]
+*[[Legacy (2006) 20|''Legacy'' (2006) 20]]
+*[[Legacy (2006) 41|''Legacy'' (2006) 41]]
+*''[[Star Wars: Galaxy of Heroes]]''
+}}
+
+===Non-canon appearances===
+*<!-- 2004-XX-XX -->"[[Shadows in the Force]]" {{Un}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of YT-2400 light freighters}}
+*<!-- 1996-01-XX -->{{GalaxyCite|6|Operator's Manual}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-05-XX -->{{InsiderCite|29|Lucasfilm's Latest}} {{Po}}
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=''Outrider''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC084.jpg}}
+*<!-- 1996-10-XX -->{{GalaxyCite|9|A Guide to the Vehicles in Shadows of the Empire|A Guide to the Vehicles in ''Shadows of the Empire''}}
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1996-XX-XX -->{{KennerCite|set=Star Wars: Shadows of the Empire (toy line)|pack=Dash Rendar's ''Outrider''|link=soteKoutrider.asp}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}}
+<!-- 2001-01-10 -->{{CardGameSet|set={{CCG|set=Reflections II: Expanding the Galaxy|parent=1}}|cards=
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Dash Rendar}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=No Questions Asked}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Outrider}}
+}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2003-04-09 -->{{FactFile|67|MAN 1-2|Manufacturers}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66895&resource=features|text=Ships: YT-2400}}
+*<!-- 2006-08-28 -->{{Hyperspace|url=hyperspace/member/insideronline/89/indexp3.html|text=Underworld Appendix: Swoops, Spice, and Wretched Rogues|int=Underworld Appendix: Swoops, Spice, and Wretched Rogues}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Smuggler's Run|link=edge-of-darkness/smugglers-run-edge-of-darkness-74-5}} {{Po}}
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Dash Rendar|link=balance-of-the-force/dash-rendar-balance-of-the-force-93-2}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Mission at Kothlis|link=balance-of-the-force/mission-at-kothlis-balance-of-the-force-l01}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Supporting Fire|link=balance-of-the-force/supporting-fire-balance-of-the-force-94-6}} {{Po}}
+}}
+*<!-- 2014-04-18 -->{{FFGTCG|set=Lure of the Dark Side|cardname=Against All Odds|link=echoes-of-the-force-cycle/lure-of-the-dark-side/against-all-odds-lure-of-the-dark-side-103-1}} {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-09-09 -->{{InsiderCite|152|Blaster}}
+<!-- 2014-11-26 -->{{CardGameSet|set={{FFGXW|set=YT-2400 Freighter Expansion Pack}}|cards=
+*<!-- 2014-11-26 -->{{FFGXW|set=YT-2400 Freighter Expansion Pack|cardname=Dash Rendar}}
+*<!-- 2014-11-26 -->{{FFGXW|set=YT-2400 Freighter Expansion Pack|cardname=Eaden Vrill}}
+*<!-- 2014-11-26 -->{{FFGXW|set=YT-2400 Freighter Expansion Pack|cardname="Leebo"}}
+*<!-- 2014-11-26 -->{{FFGXW|set=YT-2400 Freighter Expansion Pack|cardname=''Outrider''}}
+*<!-- 2014-11-26 -->{{FFGXW|set=YT-2400 Freighter Expansion Pack|cardname=Wild Space Fringer}}
+}}
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+<!-- 2015-04-09 -->{{CardGameSet|set={{FFGTCG|set=Draw Their Fire|parent=1}}|cards=
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=''Outrider''|link=rogue-squadron/draw-their-fire/outrider-r1267}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Punch It|link=rogue-squadron/draw-their-fire/punch-it-r1269}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=The Daring Escape|link=rogue-squadron/draw-their-fire/the-daring-escape-r1265}} {{Po}}
+}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Supporting Fire|link=rogue-squadron/evasive-maneuvers/supporting-fire-r1310}} {{Po}}
+*<!-- 2015-07-17 -->{{FFGTCG|set=Chain of Command|cardname=Supporting Fire|link=rogue-squadron/chain-of-command/supporting-fire-r1358}} {{Po}}
+*<!-- 2018-08-02 -->{{FFGXW2|set=Core Set|cardname=Outmaneuver|reprint=1}} {{Po}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Rebel Alliance Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Wild Space Fringer}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname="Leebo"}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=''Outrider''}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{OfficialSite|url=https://www.rickknox3d.com/props/star-wars-galaxies|text=3D Models and Props Gallery - Star Wars Galaxies|work=Rick Knox's official website|archiveurl=https://archive.is/lN2eg|nolive=1}}
+*{{SWGWiki|YT-2400}}
+
+{{Interlang
+|cs=Lehký frachťák YT-2400/Legendy
+|de=YT-2400-Frachter
+|es=Carguero ligero YT-2400/Leyendas
+|fr=YT-2400
+|nl=YT-2400 Stock Light Freighter
+|pl=YT-2400
+|pt=Outrider
+}}
+
+[[Category:YT-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YT-2400 light freighters]]
+}}

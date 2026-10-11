@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Ycaqt-SWG10.jpg]]
+|name=Ycaqt droid cargo ship
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]/[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="g10">{{GamerCite|10|Droid Starships}}</ref>
+|line=
+|model=Ycagt droid cargo ship<ref name="g10" />
+|type=Space [[Transport/Legends|transport]]<ref name="g10" />
+|cost=*New: 130,000 credits<ref name="g10" />
+*Used: 32,000 credits<ref name="g10" />
+|modifier=
+|sysmods=
+|length=21 meters<ref name="g10" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=720 km/h<ref name="g10" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2<ref name="g10" />
+*Backup: Class 12<ref name="g10" />
+|hdrange=
+|hdsystem=Equipped<ref name="g10" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Ion cannon/Legends|Ion cannon]] (1)<ref name="g10" />
+|complement=
+|bays=
+|escapepods=
+|crew=0<ref name="g10" />
+|skeleton=
+|passengers=0<ref name="g10" />
+|capacity=250 metric tons<ref name="g10" />
+|cargohandling=
+|consumables=2 years<ref name="g10" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+A product of [[The Nerfworks]] design group, the '''Ycaqt droid cargo ship''' was named after a [[Ycaqt|rather stubborn riding beast]] native to [[Velmor/Legends|Velmor]], a [[Planet/Legends|planet]] on the [[Mid Rim/Legends|Mid Rim]].
+
+The initial idea was to create a [[Droid/Legends|droid]] cargo ship capable of hauling large amounts of freight on short runs along secure [[Hyperspace/Legends|hyperspace]] [[Hyperspace route/Legends|lanes]]. Nerfworks hoped the ship would revolutionize space transport, but while able [[Pilot/Legends|pilots]], the [[Droid brain/Legends|droid brain]] lacked the negotiating fervor of [[Sentience/Legends|sentient]] [[Captain/Legends|captains]]. They also all too frequently became lost during hyperspace jumps, arriving at their programmed destination sometimes weeks, even months late.
+
+Ycaqt droid brains also had a reputation for 'prissiness' similar to that of most [[Protocol droid/Legends|protocol droids]] and tended to get trigger-happy with ships that refused to maintain a respectful distance. Most Ycaqts, however, were armed with only ion weapons and nothing heavier.
+
+Some large corporations found Ycaqts to be economical&mdash;especially once their hyperspace routes were reprogrammed&mdash;but the majority of cargo was still hauled by independent freighter captains.
+
+21 meters long with a cargo capacity of 250 metric tons, the Ycaqts had no room for interior crew, but one or more [[ASP-series labor droid/Legends|ASP labor droids]] could be found stationed in the cargo area.
+
+==Sources==
+*<!-- 2002-05-07 -->{{GamerCite|10|Droid Starships}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Nave de carga droide Ycaqt
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Droid vehicle models]]
+[[Category:Loronar Corporation products]]
+[[Category:Transport classes]]

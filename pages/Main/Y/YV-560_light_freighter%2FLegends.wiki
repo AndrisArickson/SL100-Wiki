@@ -1,0 +1,73 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:YV-560LightFreighter-ETU.png]]
+|name=YV-560 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="ETU">''[[Enter the Unknown]]''</ref>
+|line=[[YV-series/Legends|YV series]]<ref name="ETU" />
+|model=YV-560<ref name="ETU" />
+|type=Light freighter<ref name="ETU" />
+|cost=120,000 [[Galactic Credit Standard/Legends|credits]]<ref name="ETU" />
+|modifier=
+|sysmods=
+|length=30.1 meters<ref name="ETU" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="ETU" />
+*Backup: Class 15<ref name="ETU" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="ETU" />
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="ETU" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Twin Medium [[Laser cannon/Legends|Laser cannon]] {{C|1}}<ref name="ETU" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[Pilot/Legends|pilot]]<ref name="ETU" />
+*1 co-pilot/[[Engineer/Legends|engineer]]<ref name="ETU" />
+|skeleton=
+|passengers=5<ref name="ETU" />
+|capacity=40 [[Metric ton/Legends|tons]]<ref name="ETU" />
+|cargohandling=
+|consumables=8 [[Standard month/Legends|months]]<ref name="ETU" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''YV-560 light freighter''' was an exploration class [[Freighter/Legends|freighter]] made by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]. Similar in design to CEC's [[YT-1300 light freighter/Legends|YT-1300 light freighter]], the YV-560 was slightly smaller, with a 30.1 [[Meter/Legends|meter]] length and a 22.4 meter saucer diameter.<ref name="ETU" />
+
+YV-560 freighters had room for 5 passengers and 2 crew, with approximately 40 [[Metric ton/Legends|tons]] of cargo space and enough [[Foodstuff/Legends|food]] storage for 8 [[Standard month/Legends|months]]. Its compartmentalized cargo bays could be individually sealed by bulkheads in case of serious damage to the ship.<ref name="ETU" />
+
+YV-560 operators could easily survey [[Planet/Legends|planets]] from orbit, due to the long-range sensor capabilities of the numerous antennae in its prow. The YV-560 also featured a dorsal mounted twin medium cannon, a powerful onboard scientific [[Computer/Legends|computer]], a class 2 [[Hyperdrive/Legends|hyperdrive]], and a class 15 backup hyperdrive.<ref name="ETU" />
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Mediacat|imagecat=Images of YV-560 light freighters}}
+
+[[Category:Archaeological technology]]
+[[Category:YV-series freighter classes]]

@@ -1,0 +1,80 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Out_Runner_1.jpg]]
+|name=YL-2200 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="FNM">{{WEGCite|story=Freedom No More|book=Galaxy Guide 3: The Empire Strikes Back (Second Edition)}}</ref>
+|line=
+|model=
+|type=[[Light freighter/Legends|Light freighter]]<ref name="FNM" />
+|cost=*100,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="FNM" />
+*25,000 credits {{C|used}}<ref name="FNM" />
+|modifier=
+|sysmods=
+|length=28.2 [[Meter/Legends|meters]]<ref name="FNM" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FNM" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="FNM" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="FNM" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FNM" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="FNM" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Laser cannon/Legends|laser cannons]]<ref name="FNM" />
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]; 1 [[Gunner/Legends|gunner]]<ref name="FNM" />
+|skeleton=
+|passengers=6<ref name="FNM" />
+|capacity=100 [[Metric ton/Legends|metric tons]]<ref name="FNM" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="FNM" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]<ref name="FNM" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''YL-2200 light freighter''' was a light [[Freighter/Legends|freighter]] sold around the [[3 ABY/Legends|time]] of the [[Battle of Hoth/Legends|Battle of Hoth]]. It is known that the [[Alliance to Restore the Republic/Legends|Rebellion]] made use of this craft.
+
+==Description==
+[[File:Out_Runner_2.jpg|thumb|left|250px|The cockpit of the [[Out Runner]] a YL-2200 light freighter.]]
+The YL-2200 [[Light freighter/Legends|light freighter]] was manufactured by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]], measuring 28.2 [[Meter/Legends|meters]] in length. It required a crew of only one [[Pilot/Legends|pilot]], as well as a single [[Gunner/Legends|gunner]], and could transport six passengers. The YL-2200 could carry 100 [[Metric ton/Legends|metric tons]] of cargo, as well as two [[Standard month/Legends|months]] worth of consumables. They cost 100,000 [[Galactic Credit Standard/Legends|credits]] to buy new, and only 25,000 credits used.<ref name="FNM" />
+
+The YL-2200 could reach speeds of eight hundred [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]] in [[Atmosphere/Legends|atmosphere]], and had a Class 2 [[Hyperdrive/Legends|hyperdrive]], with a Class 12 back-up. The [[Starship/Legends|vessels]] had a [[Navigation computer/Legends|navigation computer]] and [[Deflector shield generator/Legends|deflector shield generator]] installed, along with two [[Laser cannon/Legends|laser cannons]] mounted on turrets.<ref name="FNM" />
+
+==History==
+The ''[[Out Runner]]'' was a modified YL-2200 light freighter in service to the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] during the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="SFS">''[[Strike Force: Shantipole]]''</ref>
+
+==Appearances==
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}}
+*''[[The Isis Coordinates]]''
+*{{WEGCite|story=Freedom No More|book=Galaxy Guide 3: The Empire Strikes Back (Second Edition)}} {{1stID|YL-2200 light freighter}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Freighter classes]]
+
+{{RelatedCategories
+|[[Category:YL-2200 light freighters]]
+}}

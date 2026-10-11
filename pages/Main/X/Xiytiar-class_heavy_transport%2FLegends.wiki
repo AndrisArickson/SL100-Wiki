@@ -1,0 +1,112 @@
+{{Top|title=''Xiytiar''-class heavy transport}}
+{{StarshipClass
+|image=[[File:Xiytiar_Library.jpg]]
+|name=''Xiytiar''-class heavy transport
+|designer=
+|manufacturer=[[TransGalMeg Industries, Incorporated|TransGalMeg Industries]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=''Xiytiar''-class transport<ref name="XWA" />
+|type=[[Transport/Legends|Transport]]
+|cost=800,000 [[Galactic Credit Standard/Legends|credits]]<ref name="PP" />
+|modifier=
+|sysmods=
+|length=164.8 [[Meter/Legends|meters]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=3<ref name="XWA" />
+|hyperdrive=*Class 3 {{C|primary}}<ref name="PP" />
+*Class 16 {{C|backup}}<ref name="PP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 256 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 156 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=Equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Standard configuration: None
+Common upgrade: 2 to 4 [[Laser cannon/Legends|laser cannons]]
+|complement=
+|bays=
+|escapepods=
+|crew=10<ref name="XWA" />
+|skeleton=2<ref name="XWA" />
+|passengers=2<ref name="PP" /> (up to 12 if operating on minimal crew)
+|capacity=5,000 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Cargo Transport
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="XWA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="XWA" />
+}}
+The '''''Xiytiar''-class heavy transport''' was a cargo ship manufactured by [[TransGalMeg Industries, Incorporated]].
+
+==Characteristics==
+It was shaped like a thin, cylinder highlighted by a bulbous front cargo section and a small, rear engine pod. Although marginally faster than the comparable [[MB-C1 medium transport]], it was less durable in combat.
+
+[[File:Xiytiar_under_attack_SOF.png|thumb|left|A ''Xiytiar''-class transport under attack from [[CloakShape fighter/Legends|CloakShape fighters]]]]
+Ships of this class measured 164.8 meters in length, could carry 5,000 metric tons of cargo and up to 12 passengers.<ref name="PP" /> The cargo space was versatile, and at least one ''Xiytiar''-class transport, the ''[[Sungrass]]'', was used as a pocket carrier during a covert [[New Republic/Legends|New Republic]] operation. Despite this versatility, and their ability to be manned by as few as two people, they were considered amongst the least elegant of all starships by many pilots.
+
+[[Lo Khan]]'s freighter, the ''[[Hyperspace Marauder]]'', was probably the most famous ship of this class. Upgraded with a multi-band computer interface, the ship's co-pilot, [[Luwingo]], made up for the ship's lack of combat ability by [[Slicer/Legends|slicing]] into the control systems of attacking craft.
+
+==History==
+In [[7 ABY/Legends|7 ABY]], several members of [[Wraith Squadron]], under the guise of the [[Hawk-bat Independent Space Force]], operated out of the ''Xiytiar''-class transport ''[[Sungrass]]''.
+
+In [[137 ABY]], a ''Xiytiar''-class transport formed part of a [[Hidden Temple]].<ref name="SWL25">[[Legacy (2006) 25|''Legacy'' (2006) 25]]</ref>
+
+==Appearances==
+*[[Republic 65|''Republic'' 65]]
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*[[Dark Empire 5|''Dark Empire'' 5]] {{1st}}
+*[[Dark Empire II 2|''Dark Empire II'' 2]]
+*[[Dark Empire II 3|''Dark Empire II'' 3]]
+*[[Dark Empire II 5|''Dark Empire II'' 5]]
+*[[Crimson Empire II: Council of Blood 1|''Crimson Empire II: Council of Blood'' 1]]
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+
+==Sources==
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]'' {{1stID|''Xiytiar''-class heavy transport}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]'' {{Po}}
+<!-- 2014-05-29 -->{{CardGameSet|set={{FFGTCG|set=Knowledge and Defense|parent=1}}|cards=
+*<!-- 2014-05-29 -->{{FFGTCG|set=Knowledge and Defense|cardname=Along the Gamor Run|link=echoes-of-the-force-cycle/knowledge-and-defense/along-the-gamor-run-knowledge-and-defense-109-1}} {{Po}}
+*<!-- 2014-05-29 -->{{FFGTCG|set=Knowledge and Defense|cardname=''Hyperspace Marauder''|link=echoes-of-the-force-cycle/knowledge-and-defense/hyperspace-marauder-knowledge-and-defense-109-2}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Xiytiar-Klasse Transporter
+|pl=Transportowiec typu Xiytiar
+}}
+
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:TransGalMeg Industries, Incorporated products]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Xiytiar-class heavy transports]]
+}}

@@ -1,0 +1,100 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:YV929ArmedTransport-AOR.png]]
+|name=YV-929 armed freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="g2">{{GamerCite|2|A Legacy of Starships}}</ref>
+|line=[[YV-series/Legends|YV-series]]
+|model=YV-929
+|type=[[Transport/Legends|Transport]]<ref name="g2" />
+|cost=*250,000 credits (New)<ref name="g2" />
+*100,000 credits (Used)<ref name="g2" />
+|modifier=
+|sysmods=
+|length=22 meters<ref name="g2" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1000 km/h
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="g2" />
+*Backup Class 12<ref name="g2" />
+|hdrange=
+|hdsystem=Equipped<ref name="g2" />
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=Equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Double [[Turbolaser/Legends|turbolaser]] cannons (2)<ref name="g2" />
+*[[Ion cannon/Legends|Ion cannons]] (2)<ref name="g2" />
+*Triple [[Blaster/Legends|blasters]] (2)<ref name="g2" />
+*[[Concussion missile launcher/Legends|Concussion missile launchers]] (4)<ref name="g2" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[Pilot/Legends|Pilot]]<ref name="g2" />
+*3 [[Gunner/Legends|Gunners]]<ref name="g2" />
+|skeleton=1
+|passengers=6<ref name="g2" />
+|capacity=150 metric tons<ref name="g2" />
+|cargohandling=
+|consumables=3 months<ref name="g2" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]
+|firstuse=
+|retired=
+|affiliation=*Civilian
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="AOR CRB">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+*[[Corporate Sector/Legends|Corporate Sector]]
+*[[Pirate/Legends|Pirates]]
+}}
+The '''YV-929 armed freighter''' was a 22-meter-long [[Light freighter/Legends|light freighter]] produced by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]. It used the same forward cockpit structure as the much larger [[YV-100 light freighter]].
+
+Unlike most CEC [[Freighter/Legends|freighters]], which came off the assembly lines with minimal weaponry, the YV-929 was designed from the start to be heavily armed for defense against [[Pirate/Legends|pirate]] and [[Alliance to Restore the Republic/Legends|Rebel]] raids, and also featured very strong [[Deflector shield/Legends|shields]].
+
+The YV-929 was armed with two dual [[Turbolaser/Legends|turbolasers]], dual [[Ion cannon/Legends|ion cannon]] turret beneath the cockpit, two triple [[Blaster/Legends|blasters]] mounted on stubby wings, and four [[Concussion missile/Legends|concussion missile]] launchers, half of which fired to the aft. To entice independent ship buyers, the designers added a roomy parlor to the domed section beneath the bridge. This affected the ship's sturdiness, and 929s were infamous for coming apart just after a few hits after losing their shields.<ref name="AOR CRB" />
+
+Despite its compact size and heavy armament, the YV-929 was still able to carry 150 metric tons of cargo.
+
+Not surprisingly, the YV-929 was often used by the very [[Alliance to Restore the Republic/Legends|Rebels]] and pirate groups it was designed to defend against. The second most common user of the design was the [[Corporate Sector Authority/Legends|Corporate Sector Authority]].
+
+It was often referred to as a "flying brick". The Empire often sanctioned or fined CEC for selling the freighters to various third parties such as the Rebel Alliance.<ref name="AOR CRB" />
+
+==YV-929 light freighter==
+{{Main|YV-929 light freighter/Legends}}
+
+A variant of the YV-929 was produced which reduced the armaments by removing the turbolasers and one of the concussion missile launchers. This version of the craft carried enough consumables for six months of operation.
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 2001-02-XX -->{{GamerCite|2|A Legacy of Starships}} {{1stm}}
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]''
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=YV-929 Bewaffneter Frachter
+}}
+
+[[Category:YV-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YV-929 armed freighters]]
+}}

@@ -1,0 +1,84 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Yt-1930-exterior-WHSV.jpg]]
+|name=YT-1930 transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="SAV">[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="SAV" />
+|model=YT-1930<ref name="SAV" />
+|type=[[Light freighter/Legends|Light freighter]]<ref name="SAV" />
+|cost=*135,000 [[Galactic Credit Standard/Legends|credits]] (new)
+*62,000 credits (used)<ref name="SAV" />
+|modifier=
+|sysmods=
+|length=36.8 [[Meter/Legends|meters]]<ref name="MFOWM">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 km/h<ref name="SAV" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2 (backup class 12)<ref name="SAV" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navcomputer]]<ref name="SAV" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Medium [[Laser cannon/Legends|laser cannon]] (1)<ref name="SAV" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="SAV" />
+|skeleton=
+|passengers=6<ref name="SAV" />
+|capacity=200 tons<ref name="SAV" />
+|cargohandling=
+|consumables=4 months<ref name="SAV" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="SAV" />
+|role=[[Transport/Legends|Transport]]
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''YT-1930''' was a moderately successful [[YT-series/Legends|YT-series]] [[Light freighter/Legends|light freighter]] that was released by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] shortly before the [[Battle of Yavin/Legends|Battle of Yavin]].
+
+The design of the YT-1930 was a variant on the successful [[YT-1300 light freighter/Legends|YT-1300 light freighter]], but placed the cockpit along the center line of the ship, and added two wedge-shaped cargo areas at the rear to double the cargo capacity of its predecessor. Most came with a single [[Laser cannon/Legends|laser cannon]] turret. Though some considered it to be the pinnacle of the YT-series, the YT-1930 never gained the following of the older freighter design had.
+
+==Appearances==
+*{{Wizards|url=default.asp?x=starwars/article/sw200200307nebula|text=The Nebula Assassin|int=The Nebula Assassin}}
+
+==Sources==
+{{Mediacat|imagecat=Images of YT-1930 transports}}
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]''
+*<!-- 2001-11-15 -->{{Wizards|url=default.asp?x=starwars/article/sw20011115fleet|text=More Starships!}}
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[File:Yt-1930-interior.jpg|thumb|left|150px|Interior of YT-1930]]
+
+{{Interlang
+|de=YT-1930-Frachter
+|pl=YT-1930
+}}
+
+[[Category:YT-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YT-1930 transports]]
+}}

@@ -1,0 +1,75 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:YV-929_light_freighter.png]]
+|name=YV-929 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="DC">''[[Dangerous Covenants]]''</ref>
+|line=[[YV-series/Legends|YV series]]<ref name="DC" />
+|model=YV-929
+|type=[[Transport/Legends|Transport]]<ref name="DC" />
+|cost=380,000 [[Galactic Credit Standard/Legends|credits]]<ref name="DC" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="DC" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="DC" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="DC" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="DC" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="DC" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Ion cannon/Legends|Ion cannons]] (2)<ref name="DC" />
+*Triple light [[Blaster/Legends|blaster]] cannons (2)<ref name="DC" />
+*[[Concussion missile launcher/Legends|Concussion missile launchers]] (3)<ref name="DC" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[Pilot/Legends|Pilot]]<ref name="DC" />
+*1 Co-pilot<ref name="DC" />
+*2 [[Gunner/Legends|Gunners]]<ref name="DC" />
+|skeleton=
+|passengers=6<ref name="DC" />
+|capacity=
+|cargohandling=
+|consumables=6 months<ref name="DC" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]<ref name="DC" />
+|firstuse=
+|retired=
+|affiliation=*Civilian
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="DC" />
+*[[Pirate/Legends|Pirates]]
+}}
+The '''YV-929 light freighter''' was a variant of the [[YV-929 armed freighter]].
+
+==Characteristics==
+Despite having a noticeably lighter armament than the armed freighter model, it retained enough firepower to arouse suspicions among military patrols and customs inspectors in the [[Core Worlds/Legends|Core Worlds]]. However those same weapons made it very popular in the [[Outer Rim Territories/Legends|Outer Rim Territories]]. Also many mercenary units favored it, often modifying the vessels to increase their weapon loadouts.<ref name="DC" />
+
+==Appearances==
+*''[[Onslaught at Arda I]]'' {{1st}}
+
+==Sources==
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:YV-series freighter classes]]

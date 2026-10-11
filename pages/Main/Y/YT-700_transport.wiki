@@ -1,0 +1,72 @@
+{{Top|canon=YT-700}}
+{{StarshipClass
+|image=[[File:YT-700.jpg]]
+|name=YT-700 transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="WRT">{{JournalCite|5|Wind Raiders of Taloraan}}</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="WRT" />
+|model=YT-700<ref name="WRT" />
+|type=[[Transport/Legends|Transport]]<ref name="WRT" />
+|cost=18,000 [[Galactic Credit Standard/Legends|credits]] (used)<ref name="WRT" />
+|modifier=
+|sysmods=
+|length=21.7 [[Meter/Legends|meters]]<ref name="WRT" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=600 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="WRT" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2.0]]<ref name="WRT" />
+*[[Backup hyperdrive|Class 20]]<ref name="WRT" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="WRT" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="WRT" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]]<ref name="WRT" />
+|complement=
+|bays=
+|escapepods=
+|crew=1 ([[Gunner/Legends|gunners]]: 1)<ref name="WRT" />
+|skeleton=
+|passengers=4<ref name="WRT" />
+|capacity=50 [[Metric ton/Legends|metric tons]]<ref name="WRT" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="WRT" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Transport/Legends|Transport]]<ref name="WRT" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''YT-700''' was a [[Transport/Legends|transport]] [[Starship/Legends|starship]] manufactured by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]. It was one of the first [[Freighter/Legends|freighters]] of the [[YT-series/Legends|YT-series]]. The ''[[Jackpot]]'' was a heavily modified YT-700.
+
+{{Ship-stub}}
+
+==Appearances==
+*{{JournalCite|5|Wind Raiders of Taloraan}} {{1st}}
+
+==Sources==
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:YT-series freighter classes|YT-0700]]
+
+{{RelatedCategories
+|[[Category:YT-700 transports]]
+}}

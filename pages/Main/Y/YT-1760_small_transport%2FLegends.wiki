@@ -1,0 +1,100 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:YT1760SmallTransport-Gamer2.jpg]]
+|name=YT-1760 small transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="g2">{{GamerCite|2|A Legacy of Starships}}</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="g2" />
+|model=YT-1760 small transport<ref name="g2" />
+|type=[[Transport/Legends|Transport]]<ref name="g2" />
+|cost=*80,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="g2" />
+*20,000 credits (used)<ref name="g2" />
+|modifier=
+|sysmods=
+|length=26.5 meters<ref name="MFOWM">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=990 km/h<ref name="MFOWM" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="MFOWM" />
+*Backup Class 15<ref name="MFOWM" />
+|hdrange=
+|hdsystem=Equipped<ref name="g2" />
+|poweroutput=
+|power=
+|shield gen=Not standard equipment, added to most ships as an upgrade
+|hull=
+|sensor=
+|target=
+|navigation=Equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] turrets (2; not standard equipment, but added to most ships)<ref name="MFOWM" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="MFOWM" />
+|skeleton=1<ref name="MFOWM" />
+|passengers=8<ref name="MFOWM" />
+|capacity=10 metric tons<ref name="MFOWM" />
+|cargohandling=
+|consumables=2 months<ref name="MFOWM" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Transport
+*[[Shuttle/Legends|Shuttle]]
+*Courier
+|firstuse=
+|retired=
+|affiliation=*Independent traders
+*[[Smuggler/Legends|Smugglers]]
+*[[Pirate/Legends|Pirates]]
+}}
+The '''YT-1760''' was a light [[Transport/Legends|transport]] built by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]].
+
+==Characteristics==
+[[File:Yt-1760-MFOWM.jpg|thumb|left|150px|Schematic of a YT-1760.]]
+
+Released sometime around the [[Battle of Naboo/Legends|Battle of Naboo]], the YT-1760 was part of the popular [[YT-series/Legends|YT-series]], intended to correct some of the shortcomings of its predecessors. Though it succeeded in improving on the slower sublight and [[Hyperdrive/Legends|hyperdrive]] speeds of older models, it did so at the cost of cargo capacity and defense capability.
+
+==History==
+The YT-1760 was released with no weapons and no combat [[Deflector shield/Legends|shields]], and its hull was less sturdy than many of its predecessors. The larger drive systems had already reduced the cargo capacity to a tenth of the [[YT-1300 light freighter/Legends|YT-1300's]], but most YT-1760 owners decided to trade a little of their remaining cargo room for commercial-grade shield generators. Fortunately, the YT-1760 shared the easy upgradeability of other YT-series ships, and it was also common for owners to add a pair of [[Quad laser cannon/Legends|quad laser cannons]]. Some YT-1760 captains chose to replace the spartan passenger accommodations with more comfortable staterooms, though this reduced the passenger capacity from eight beings to four.
+
+Although few large-scale commercial enterprises purchased YT-1760s, they were fairly popular with independent traders. Their high maintenance requirements caused most YT-1760s to be scrapped by the time of the [[Galactic Civil War/Legends|Galactic Civil War]], but some operators still preferred them to newer ships.
+
+The ''[[Hasty Harpy]]'' was one such vessel [[Captain/Legends|captained]] by [[Lalo Gunn]] during the [[Clone Wars/Legends|Clone Wars]]. She was hired to transport the [[Galactic Republic/Legends|Galactic Republic's]] [[Clone trooper/Legends|clone trooper]] [[Breakout Squad]].<ref name="SM2">''[[The Clone Wars: Secret Missions 2: Curse of the Black Hole Pirates]]''</ref>
+
+==Appearances==
+{{Mediacat|imagecat=Images of YT-1760 small transports}}
+*{{LivingForce|Blinking Eyes: Quarters}}
+*''[[The Clone Wars: Secret Missions 1: Breakout Squad]]''
+*''[[The Clone Wars: Secret Missions 2: Curse of the Black Hole Pirates]]''
+*''[[The Clone Wars: Secret Missions 3: Duel at Shattered Rock]]''
+*''[[The Clone Wars: Strange Allies]]'' {{Flash}}
+
+==Sources==
+*<!-- 2001-02-XX -->{{GamerCite|2|A Legacy of Starships}} {{1stm}}
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=YT-1760 Kleintransporter
+|es=Transporte pequeño YT-1760
+}}
+
+[[Category:YT-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YT-1760 small transports]]
+}}

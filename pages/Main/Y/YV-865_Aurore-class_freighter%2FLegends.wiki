@@ -1,0 +1,100 @@
+{{Top|title=YV-865 ''Aurore''-class freighter}}
+{{StarshipClass
+|image=[[File:YV865_FLT.png]]
+|name=YV-865 ''Aurore''-class freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corp.]]<ref name="FLT">''[[Friends Like These]]''</ref>
+|line=[[YV-series/Legends|YV series]]
+|model=
+|type=[[Freighter/Legends|Freighter]]<ref name="SWE Zygerrian slave ship">{{SWE|technology|zygerrianslaveship|Zygerrian slave ship}}</ref>
+|cost=240,000 [[Galactic Credit Standard/Legends|credits]]<ref name="FLT" />
+|modifier=
+|sysmods=
+|length=52.3 [[Meter/Legends|meters]]<ref name="SWE Zygerrian slave ship" />
+|width=42.33 meters<ref name="SWE Zygerrian slave ship" />
+|height=16.44 meters<ref name="SWE Zygerrian slave ship" />
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2 {{C|primary}}<ref name="FLT" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="FLT" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Twin forward-mounted medium [[Laser cannon/Legends|laser cannons]]<ref name="FLT" />
+*[[Grappling turret/Legends|Grappling turret]]<ref name="FLT" />
+|complement=
+|bays=
+|escapepods=1
+|crew=1 [[Pilot/Legends|pilot]]<ref name="SWE Zygerrian slave ship" />
+|skeleton=
+|passengers=15<ref name="FLT" />
+|capacity=100 [[Slavery/Legends|slaves]]<ref name="FLT" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="FLT" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Slave [[Transport/Legends|transport]]<ref name="SWE Zygerrian slave ship" />
+|firstuse=
+|retired=
+|affiliation=*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="SWE Zygerrian slave ship" />
+*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Nightbrothers/Legends|Nightbrothers]]
+**[[Ohnaka Gang/Legends|Jiro's faction]]
+*[[Zygerrian Slavers Guild]]
+*[[Zygerrian Slave Empire/Legends|Zygerrian Slave Empire]]<ref name="SWE Zygerrian slave ship" />
+}}
+The '''YV-865 ''Aurore''-class freighter''' was a bulky [[Freighter/Legends|freighter]] [[Transport/Legends|transport]] used during the [[Clone Wars/Legends|Clone Wars]]. It became known as the '''Zygerrian slave ship''' due to its widespread use by [[Slavery/Legends|slavers]] such as [[Zygerrian/Legends|Zygerrians]] and [[Thalassian/Legends|Thalassians]].
+
+==History==
+[[Darts D'Nar/Legends|Darts D'Nar]], a Zygerrian who allied himself with [[Count/Legends|Count]] [[Dooku/Legends|Dooku]] and the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]], [[Captain/Legends|captained]] a reddish-colored slave ship named the [[Tecora/Legends|''Tecora'']]. Another grey-colored ship, the [[Delta-T-3/Legends|Delta-T-3]] was used to transport a captive [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]], [[Rex/Legends|CT-7567]] "Rex" and the [[Kiros/Legends|Kiros]] governor [[Roshti/Legends|Roshti]] to the [[Planet/Legends|planet]] [[Kadavo/Legends|Kadavo]].
+
+==Appearances==
+{{Mediacat|imagecat=Images of YV-865 Aurore-class freighters}}
+*{{TCW|Kidnapped}} {{1st}}
+*{{TCW|Slaves of the Republic}}
+*{{TCW|Escape from Kadavo}}
+*{{TCW|Friends and Enemies}}
+*{{TCW|The Box}}
+*{{TCW|Brothers (episode)}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|Missing in Action}} {{C|On a poster}}
+*{{TCW|Revival (episode)}}
+*''[[The Clone Wars: Darth Maul: Shadow Conspiracy]]'' {{1stID|''Aurore''-class freighter}}
+*{{TCW|Eminence (episode)}} {{Flash}}
+*{{TCW|To Catch a Jedi}}
+*''[[Mask of the Pirate Queen]]''
+*''[[Friends Like These]]'' {{1stID|YV-865 ''Aurore''-class freighter}}
+
+==Sources==
+*<!-- 2014-04-25 -->{{SWE|characters|blixus|blixus}} {{C|as "Zygerrian slave ship"}}
+*<!-- 2014-04-25 -->{{SWE|characters|dartsdnar|Darts D'Nar}}
+*<!-- 2014-04-25 -->{{SWE|technology|zygerrianslaveship|Zygerrian slave ship}} {{1stID|Zygerrian slave ship}}
+*<!-- 2014-04-25 -->{{SWE|groups|zygerrians|Zygerrians}} {{C|as "Zygerrian slave ship"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Carguero YV-865 clase Aurore/Leyendas
+}}
+
+[[Category:YV-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YV-865 Aurore-class freighters]]
+}}

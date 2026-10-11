@@ -1,0 +1,922 @@
+{{Top}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:YT1300-CHRON.jpg]]
+|name=YT-1300 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="SotG">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|model=YT-1300<ref name="SotG" />
+|type=[[Light freighter/Legends|Light freighter]]
+|cost=*100,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SotG" />
+*25,000 credits {{C|used}}<ref name="SotG" />
+|modifier=
+|sysmods=
+|length=34.75 [[Meter/Legends|meters]]<ref name="swbpc">''[[Star Wars Blueprints: The Ultimate Collection]]''</ref><ref name="MFOWM">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|km/h]]<ref name="SotG" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="SotG" />
+*Class 12 {{C|backup}}<ref name="SotG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 120 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 76 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=Equipped
+|avionics=
+|maincomp=
+|countermeasures=[[Flare/Legends|Flares]] (7)<ref name="XWA" />
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="XWA" />
+*Quad [[Laser turret/Legends|laser turret]] (1)<ref name="XWA" />
+*[[Proton torpedo launcher/Legends|Proton torpedo launchers]] (2)<ref name="XWA" />
+**3 torpedoes each<ref name="XWA" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="SotG" />
+|skeleton=1
+|passengers=6-15<ref name="SotG" /><ref name="MFOWM" />
+|capacity=25-100 [[Metric ton/Legends|metric tons]]<ref name="MFOWM" /><ref name="Millennium Falcon">[[Millennium Falcon (novel)|''Millennium Falcon'']]</ref>
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="SotG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Transport/Legends|Transport]]<ref name="XWA" />
+*[[Freighter/Legends|Freighter]]
+*[[Smuggler/Legends|Smuggling Vessel]]
+|firstuse=[[72 BBY/Legends|72 BBY]]<ref name="TEGtW">''[[The Essential Guide to Warfare]]''</ref>
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Airam Clans]]<ref name="XWvTF:BoP">''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''</ref>
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="XWA" />
+*[[New Republic/Legends|New Republic]]
+*[[Galactic Federation of Free Alliances]]
+*[[Black Sun/Legends|Black Sun]]<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+*[[Civilian Protection Guild]]<ref name="SWG:RotW">''[[Star Wars Galaxies: Rage of the Wookiees]]''</ref>
+*[[Cloak (pirates)|Cloak]]<ref name="SWG:CtCO">{{SWGcite|exp=JtL|type=space|Capture the Cloak Officer|Corellian system}}</ref>
+*[[Hidden Daggers]]<ref name="SWG:HDPQP">{{SWGcite|exp=NGE|type=collection|Hidden Daggers Pilot Quota Progress}}</ref>
+*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="SWG:JtL" />
+*[[Naboo Diplomatic Corps]]<ref name="SWG:JtL" />
+*[[Smuggler/Legends|Smugglers]]
+*[[Velocity Mercenaries]]<ref name="SWG:DS">{{SWGcite|exp=JtL|type=other|Dantooine system}}</ref>
+*[[Void Wings/Legends|Void Wings]]<ref name="SWG:VWPQP">{{SWGcite|exp=NGE|type=collection|Void Wing Pilot Quota Progress}}</ref>
+*[[Vylukh Clan]]<ref name="SWG:YS">{{SWGcite|exp=JtL|type=other|Yavin system}}</ref>
+*Various others
+}}
+{{Quote|You said yourself that the ships that drove you away were a YT-1300 and an X-wing. Solo and Skywalker?|[[Vilim Disra]] to [[Zothip]]|<ref name="SotP">''[[Specter of the Past]]''</ref>}}
+The '''YT-1300 light freighter''' was one of the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation's]] [[Freighter/Legends|freighter]] designs. The most notable example of this model was the [[Millennium Falcon/Legends|''Millennium Falcon'']], a heavily modified YT-1300.
+
+==Characteristics==
+{{Quote|What a piece of junk!|[[Luke Skywalker/Legends|Luke Skywalker]], referring to the [[Millennium Falcon/Legends|''Millennium Falcon'']]|<ref name="ANH">{{Film|IV}}</ref>}}
+[[File:YT-1300.jpg|thumb|left|180px|Two YT-1300 freighters]]
+
+Conceived by a panel of CEC shipbuilding experts with help from [[Narro Sienar]],<ref name="Millennium Falcon" /> the [[YT-series/Legends|YT-series]] went on to become one of the most popular space [[Transport/Legends|transport]] [[Hull/Legends|hulls]] ever produced, revolutionizing the interstellar shipping industry with its unparalleled application of modular design. Whole sections could be mass-produced and arranged into new configurations as needed without extensive retooling. This saved CEC enormous amounts of [[Galactic Credit Standard/Legends|credits]] by allowing the [[Starship/Legends|starships]] to be brought to market at extremely competitive prices.
+
+The YT-1300 model exemplified this concept with a circular main corridor and modular compartments that could be mounted around it, all radiating outwards from a central core inside a saucer-shaped hull making for both a convenient and economic design.
+
+It was considered an equivalent of its time to the [[Galactic Republic/Legends|Galactic Republic]] [[Barloz-class medium freighter/Legends|Barloz cargo freighter]].
+
+===Appeal===
+{{Quote|She may not look like much, but she's got it where it counts, kid. I made a lot of special modifications myself.|Han Solo to Luke Skywalker on the ''Millennium Falcon''|<ref name="ANH" />}}
+The appeal of the YT-1300 transport was not its basic equipment, but in its ability to take an extraordinary amount of modifications and alterations. In short, the YT-1300 was reliable, durable, and easy to modify, hence its popularity amongst freighter captains throughout [[The galaxy/Legends|the galaxy]].
+
+[[File:YT-1300_SWGJTL.jpg|thumb|left|180px|A YT-1300 with an [[T-65 X-wing starfighter/Legends|X-wing]] escort]]
+
+Like the rest of the YT-series, it featured a saucer-shaped hull with external cockpit. The YT-1300 came in three different configurations: a port-mounted cockpit, a starboard-mounted cockpit, and a centrally mounted cockpit. YT-1300s used [[Fuel cell/Legends|fuel cells]] powered by liquid metal fuel.<ref name="Millennium Falcon" />
+
+Almost every YT-1300 that was sold was later customized with a handful of extra components, from simple underfloor storage space to a new hyperdrive and added firepower. The features the YT-1300 was given on the production line were necessary but basic: the off-center cockpit; two [[Escape pod/Legends|escape pods]], located on the port and starboard side of the freighter; a [[Laser cannon/Legends|laser cannon]] mounted atop the craft; and about 100 tons of cargo space.
+
+Hundreds of thousands of YT-1300s were still in service as of [[40 ABY/Legends|40 ABY]].<ref name="Legacy of the Force: Fury">''[[Legacy of the Force: Fury]]''</ref>
+
+==Ship configuration==
+[[File:YT-1300_72dpi.jpg|thumb|right|180px|The deckplans of a YT-1300 light [[Freighter/Legends|freighter]].]]
+
+A YT-1300 interior could be configured in a number of ways thanks to the modular design. Two of the most popular designs, and which saw the greatest levels of production, were the freight ('''YT-1300f''') and passenger ('''YT-1300p''') configurations. It was not uncommon to find ships with a mixture of both passenger and cargo configurations belonging to more entrepreneurial captains however, and later in the life-cycle of the YT-1300 product line the CEC execs grew wise to this fact.
+
+Realizing that many customers were looking for a balance between cargo and passengers, Corellian Engineering began to deliver ships with a blend of both freight and passenger modules. This configuration, initially called "'''YT-1300fp'''", quickly became the most popular arrangement, over time coming to be recognized as the "stock" version of the ship. The separate designations for freight and passenger configurations disappeared from common usage soon after [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine's]] rise to power.
+
+===YT-1300p===
+[[File:Yt-1300p_schematic.jpg|thumb|left|150px|Schematics of the YT-1300p version]]
+The passenger configuration made full use of the saucer shaped hull to fit as much living space as possible, sacrificing room that would be typically reserved for cargo or machinery in favor of multiple passenger cabin modules. Each passenger cabin had three bunks, a compact refresher and a storage compartment. An official CEC conversion kit could convert two of the bunks into bunk beds, increasing passenger capacity to five beings per cabin. Greater escape pod capacity was also a requirement and two [[Class-6 escape pod/Legends|Class-6 escape pods]] were built into the sides of the YT-1300p to accommodate the larger passenger complement. This supplemented the five [[CEC Class-1 escape pod/Legends|Class-1 escape pods]] located in the engineering bay. As a result, truncated boarding ladders replaced the ramps used for standard access and egress.<ref name="Millennium Falcon" />
+
+===YT-1300f===
+[[File:Yt-1300f_schematic.jpg|thumb|left|150px|Schematic of the YT-1300f version]]
+
+The freight configuration left the interior of the ship as an empty shell, leaving the crew with minimal comforts as more room was given to the cargo holds. Of significant note were the twin boarding ramps, port and starboard, for the access of treaded cargo loaders and droids. These ramps and the overhead clearance they required took up much of the space that housed the escape pods in the YT-1300p. Matching port and starboard docking rings were instead placed in the protrusions on either side of the external hull, again showing the versatility of the CEC designers in that this interior change barely altered the outward appearance of the YT-1300. This frequently led to misidentification by casual starship watchers.
+
+Many a debate ranged over whether it was docking rings or lifepods that were located behind the cylindrical protrusions on the ship's hull. Thanks to the highly customizable nature of the YT-1300, either option, or a combination of the two was possible.
+
+==External modifications==
+[[File:Yt1300_cargo_pods.png|thumb|right|200px|A YT-1300 with additional cargo pods.]]
+
+Many individuals also modified the exterior of the YT-1300, often modifying and expanding the forward mandibles for extra crew and cargo space. It was highly unlikely to find two ships that had exactly the same layout and systems.
+
+The ship could also be fitted with optional external cargo pods. Mounted to the outside dorsal hull of the ship, around the central saucer section, the pods could add up to an additional 100 metric tons of cargo space. This configuration was popular with the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic's]] [[Support Services/Legends|Support Services]]. Such modified freighters were used to resupply Rebel bases and starships located behind enemy lines.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of YT-1300 light freighters}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*[[Star Wars: Obi-Wan (video game)|''Star Wars: Obi-Wan'']]
+*''[[Episode I Adventures 2: The Bartokk Assassins]]''
+*''[[Episode I Adventures 3: The Fury of Darth Maul]]''
+*''[[Episode I Adventures 4: Jedi Emergency]]''
+*''[[Star Wars: Battlefront]]'' {{C|Stock footage from [[Star Wars: Episode IV A New Hope|''A New Hope'']]}}
+*{{LivingForce|The Price of Business}} {{Mo}}
+*{{Film|II}}
+*''[[Star Wars: Battlefront II]]''
+*{{TCW|Blue Shadow Virus (episode)}}
+*{{TCW|Mystery of a Thousand Moons}}
+*{{LivingForce|Who Goes Thaere?}}
+*{{LivingForce|A Mon Alone}} {{Mo}}
+*''[[MedStar II: Jedi Healer]]'' {{Mo}}
+*{{Film|III}}
+*{{LivingForce|EndTimes: The Hand}}
+*{{DoD|The Queen of Air and Darkness}} {{Mo}}
+*{{JournalCite|4|The Final Exit|reprint=1}}
+*''[[The Hutt Gambit]]''
+*{{StoryCite|story=A Hunter's Fate: Greedo's Tale|book=Tales from the Mos Eisley Cantina}}
+*{{Hyperspace|url=hyperspace/member/webstrips/greedo/index.html?show=1|text=A Hunter's Fate: Greedo's Tale|int=A Hunter's Fate: Greedo's Tale (webstrip)}}
+*''[[Lando Calrissian and the Mindharp of Sharu]]''
+*{{JournalCite|2|Out of the Cradle|reprint=1}}
+*''[[Lando Calrissian and the Flamewind of Oseon]]''
+*''[[Lando Calrissian and the Starcave of ThonBoka]]''
+*{{TFU|notes=Wreckage only}}
+*[[Death Star (novel)|''Death Star'']]
+*''[[Rebel Dawn]]''
+*''[[Han Solo at Stars' End]]''
+*[[Han Solo at Stars' End (comic strip)|''Han Solo at Stars' End'' comic]]
+*''[[Han Solo's Revenge]]''
+*{{Tales|16|Kessel Run (comic story)}} {{Flash}}
+*{{JournalCite|3|When the Domino Falls|reprint=1}}
+*{{Tales|17|Planet of the Dead}}
+*{{StoryCite|story=Way of the Wookiee!|book=Star Wars Weekly 94|reprint=1}}
+*''[[Adventures in Hyperspace: Fire Ring Race]]''
+*''[[Adventures in Hyperspace: Shinbone Showdown]]''
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+*{{WEGCite|story=The Beginning of the End|book=Supernova (sourcebook)}}
+*{{JournalCite|2|The Prophecy}}
+*{{JournalCite|9|Lumrunners}} {{Mo}}
+*{{WEGCite|story=Gone To Ground|book=No Disintegrations (West End Games)}}
+*''[[Rookies: Rendezvous]]''
+*{{GamerCite|2|Snow Job}}
+*{{GamerCite|5|The Hutt Hit}}
+*''[[Han Solo and the Lost Legacy]]''
+*''[[Star Tours: The Adventures Continue]]''
+*''[[Star Wars Adventures: Han Solo and the Hollow Moon of Khorya]]''
+*[[Underworld: The Yavin Vassilika 2|''Underworld: The Yavin Vassilika'' 2]]
+*[[Underworld: The Yavin Vassilika 3|''Underworld: The Yavin Vassilika'' 3]]
+*[[Underworld: The Yavin Vassilika 4|''Underworld: The Yavin Vassilika'' 4]]
+*[[Underworld: The Yavin Vassilika 5|''Underworld: The Yavin Vassilika'' 5]]
+*{{WEGCite|story=Balancing the Books|book=The Star Wars Sourcebook|reprint=1}} {{Mo}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*{{JournalCite|1|Breaking Free: The Adventures of Dannen Lifehold}}
+*''[[Jedi Dawn]]'' {{Mo}}
+*''[[Shadow Games]]''
+*{{InsiderCite|131|Maze Run|reprint=1}}
+*{{StoryCite|story=The Sand Tender: The Hammerhead's Tale|book=Tales from the Mos Eisley Cantina}}
+*[[Empire 13|''Empire'' 13]]
+*''[[Star Wars Journal: The Fight for Justice]]''
+*''[[Star Wars Journal: Captive to Evil]]''
+*{{Film|IV}}
+*[[Star Wars: A New Hope (novelization)|''Star Wars: A New Hope'' novelization]] {{Ab|Star Wars: A New Hope (unabridged audiobook)}} {{1st|in book}}
+*[[Star Wars: Episode IV A New Hope (junior novelization)|''Star Wars'': Episode IV ''A New Hope'' junior novelization]]
+*''[[Star Wars: A Storybook]]''
+*''[[Super Star Wars]]''
+*[[Star Wars (1977) 2|''Star Wars'' (1977) 2]] {{Reprint|Star Wars (1977) 2}}
+*{{SWRadio|The Millennium Falcon Deal}}
+*[[Droids (1986) 7|''Droids'' (1986) 7]]
+*{{SWRadio|The Han Solo Solution}}
+*[[X-Wing Rogue Squadron ½|''X-Wing Rogue Squadron'' ½]]
+*[[Star Wars (1977) 3|''Star Wars'' (1977) 3]] {{Reprint|Star Wars (1977) 3}}
+*{{SWRadio|Rogues, Rebels and Robots}}
+*{{Tales|12|Once Bitten}}
+*{{SWRadio|The Luke Skywalker Initiative}}
+*[[Star Wars (1977) 4|''Star Wars'' (1977) 4]] {{Reprint|Star Wars (1977) 4}}
+*{{SWRadio|The Jedi Nexus}}
+*''[[Escape from the Death Star]]''
+*[[Droids (1986) 8|''Droids'' (1986) 8]]
+*[[Star Wars (1977) 5|''Star Wars'' (1977) 5]] {{Reprint|Star Wars (1977) 5}}
+*{{SWRadio|The Case for Rebellion}}
+*{{SWRadio|Force and Counterforce}}
+*[[Star Wars (1977) 6|''Star Wars'' (1977) 6]] {{Reprint|Star Wars (1977) 6}}
+*[[Empire 15|''Empire'' 15]]
+*{{SWArchive|url=play/online-games/trench-run|text=''Star Wars: Trench Run''|int=Star Wars: Trench Run}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*{{JournalCite|3|Changing the Odds: The Adventures of Dannen Lifehold|reprint=1}}
+*''[[Star Wars Missions 1: Assault on Yavin Four]]''
+*''[[Star Wars Missions 2: Escape from Thyferra]]''
+*''[[Star Wars Missions 3: Attack on Delrakkin]]''
+*''[[Star Wars Missions 4: Destroy the Liquidator]]''
+*''[[Star Wars Missions 18: Rogue Squadron to the Rescue]]''
+*''[[Star Wars Missions 19: Bounty on Bonadan]]''
+*''[[Star Wars Missions 20: Total Destruction]]''
+*[[Star Wars (1977) 7|''Star Wars'' (1977) 7]] {{Reprint|Star Wars (1977) 7}}
+*[[Star Wars (1977) 8|''Star Wars'' (1977) 8]] {{Reprint|Star Wars (1977) 8}} {{Flash}}
+*[[Star Wars (1977) 9|''Star Wars'' (1977) 9]] {{Reprint|Star Wars (1977) 9}} {{Flash}}
+*[[Star Wars (1977) 10|''Star Wars'' (1977) 10]] {{Reprint|Star Wars (1977) 10}} {{Mo}}
+*[[Star Wars (1977) 11|''Star Wars'' (1977) 11]] {{Reprint|Star Wars (1977) 11}}
+*[[Star Wars (1977) 12|''Star Wars'' (1977) 12]] {{Reprint|Star Wars (1977) 12}}
+*[[Star Wars (1977) 13|''Star Wars'' (1977) 13]] {{Reprint|Star Wars (1977) 13}}
+*[[Star Wars (1977) 14|''Star Wars'' (1977) 14]] {{Reprint|Star Wars (1977) 14}}
+*[[Star Wars (1977) 15|''Star Wars'' (1977) 15]] {{Reprint|Star Wars (1977) 15}}
+*''[[Rebel Force: Renegade]]''
+*''[[Star Wars Missions 5: The Hunt for Han Solo]]''
+*''[[Star Wars Missions 6: The Search for Grubba the Hutt]]''
+*''[[Star Wars Missions 7: Ithorian Invasion]]''
+*''[[Star Wars Missions 8: Togorian Trap]]''
+*''[[Scoundrel's Luck]]''
+*[[Star Wars (1977) 24|''Star Wars'' (1977) 24]] {{Reprint|Star Wars (1977) 24}}
+*[[Star Wars (1977) 16|''Star Wars'' (1977) 16]] {{Reprint|Star Wars (1977) 16}} {{Mo}}
+*[[Star Wars (1977) 17|''Star Wars'' (1977) 17]] {{Reprint|Star Wars (1977) 17}}
+*[[Star Wars (1977) 18|''Star Wars'' (1977) 18]] {{Reprint|Star Wars (1977) 18}}
+*[[Star Wars (1977) 19|''Star Wars'' (1977) 19]] {{Reprint|Star Wars (1977) 19}}
+*[[Star Wars (1977) 20|''Star Wars'' (1977) 20]] {{Reprint|Star Wars (1977) 20}}
+*[[Star Wars (1977) 21|''Star Wars'' (1977) 21]] {{Reprint|Star Wars (1977) 21}} {{Flash}}
+*[[Star Wars (1977) 22|''Star Wars'' (1977) 22]] {{Reprint|Star Wars (1977) 22}} {{Mo}}
+*[[Star Wars (1977) 23|''Star Wars'' (1977) 23]] {{Reprint|Star Wars (1977) 23}}
+*[[Star Wars (1977) 27|''Star Wars'' (1977) 27]] {{Reprint|Star Wars (1977) 27}} {{Mo}}
+*[[Star Wars (1977) 28|''Star Wars'' (1977) 28]] {{Reprint|Star Wars (1977) 28}}
+*[[Star Wars (1977) 31|''Star Wars'' (1977) 31]] {{Reprint|Star Wars (1977) 31}} {{Mo}}
+*[[Star Wars (1977) 32|''Star Wars'' (1977) 32]] {{Reprint|Star Wars (1977) 32}} {{Mo}}
+*[[Star Wars (1977) 33|''Star Wars'' (1977) 33]] {{Reprint|Star Wars (1977) 33}}
+*[[Star Wars (1977) 34|''Star Wars'' (1977) 34]] {{Reprint|Star Wars (1977) 34}}
+*"[[The Second Kessel Run]]" {{Reprint|The Second Kessel Run}}
+*[[Star Wars (1977) 35|''Star Wars'' (1977) 35]] {{Reprint|Star Wars (1977) 35}}
+*[[Star Wars Annual (1977) 1|''Star Wars Annual'' (1977) 1]] {{Reprint|Star Wars Annual (1977) 1}}
+*[[Star Wars (1977) 36|''Star Wars'' (1977) 36]] {{Reprint|Star Wars (1977) 36}}
+*[[Star Wars (1977) 37|''Star Wars'' (1977) 37]] {{Reprint|Star Wars (1977) 37}}
+*''[[Tatooine Manhunt]]'' {{Reprint|Tatooine Manhunt}} {{Mo}}
+*''[[Star Wars Missions 10: Showdown in Mos Eisley]]'' {{Mo}}
+*''[[Star Wars Missions 11: Bounty Hunters vs. Battle Droids]]''
+*''[[Star Wars Missions 12: The Vactooine Disaster]]''
+*{{StoryCite|series=Star Wars Kids (1997)|srtext=''Star Wars Kids'' (1997)|issue1=1|issue2=5|story=The Rebel Thief}}
+*{{Kids1997Cite|issue1=6|issue2=10|story=X-Wing Marks the Spot}}
+*''[[The Wookiee Storybook]]''
+*"[[The Bounty Hunter of Ord Mantell]]" {{Reprint|The Bounty Hunter of Ord Mantell}}
+*"[[Darth Vader Strikes]]" {{Reprint|Darth Vader Strikes}}
+*"[[The Serpent Masters]]" {{Reprint|The Serpent Masters}}
+*"[[Deadly Reunion]]" {{Reprint|Deadly Reunion}}
+*"[[Traitor's Gambit]]" {{Reprint|Traitor's Gambit}}
+*"[[The Night Beast]]" {{Reprint|The Night Beast}}
+*"[[The Power Gem]]" {{Reprint|The Power Gem}}
+*"[[Iceworld]]" {{Reprint|Iceworld}}
+*"[[It's a Trap]]" {{Reprint|It's a Trap}}
+*[[Star Wars 3-D 1|''Star Wars 3-D'' 1]]
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*{{Kids1997Cite|issue1=11|issue2=15|story=Imperial Spy}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*{{Kids1997Cite|issue1=16|issue2=20|story=Death Star Pirates}}
+*"[[The Paradise Detour]]" {{Reprint|The Paradise Detour}}
+*"[[A New Beginning]]" {{Reprint|A New Beginning}}
+*"[[Showdown (LA Times)|Showdown]]" {{Reprint|Showdown (LA Times)}}
+*"[[The Final Trap]]" {{Reprint|The Final Trap}}
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Empire 20|''Empire'' 20]]
+*[[Empire 22|''Empire'' 22]]
+*[[Empire 24|''Empire'' 24]]
+*[[Empire 25|''Empire'' 25]]
+*''[[Galaxy of Fear: Eaten Alive]]''
+*''[[Galaxy of Fear: City of the Dead]]''
+*{{JournalCite|5|A Bitter Winter|reprint=1}}
+*[[Empire 27|''Empire'' 27]] {{Flash}}
+*''[[Galaxy of Fear: Army of Terror]]''
+*{{Hyperspace|url=hyperspace/fiction/feature20090531/index.html?page=1|text=Death in the Slave Pits of Lorrd: A Hyperspace Exclusive|int=Death in the Slave Pits of Lorrd}}
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}} {{Po}}
+*''[[Choices of One]]''
+*''[[The Mystery of the Rebellious Robot]]''
+*''[[Galaxy of Fear: The Brain Spiders]]'' {{Mo}}
+*[[Rebellion 15|''Rebellion'' 15]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*''[[Introductory Adventure Game]]''
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+*"[[Planet of Kadril]]"
+*{{JournalCite|8|Uhl Eharl Khoehng (short story)|reprint=1}}
+*{{SWComicCite|7.5|Repairs}}
+*{{SWComicCite|7.7|My Spaceship, My Enemy}}
+*{{WEGCite|story=Tales of the Smoking Blaster|book=Star Wars Gamemaster Handbook|stext=Tales of the ''Smoking Blaster''}}
+*{{JournalCite|11|Bungo n' Rusti Get Carry-Out}}
+*"[[The Constancia Affair]]" {{Reprint|The Constancia Affair}}
+*{{FFG|story=Escape from Mos Shuuta|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}
+*{{FFG|story=The Long Arm of the Hutt|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}
+*{{FFG|story=Trouble Brewing|book=Star Wars: Edge of the Empire Core Rulebook|text=''Star Wars: Edge of the Empire'' Core Rulebook}} {{Po}}
+*''[[Beyond the Rim]]'' {{Mo}}
+*''[[Onslaught at Arda I]]'' {{Mo}}
+*"[[Princess Leia, Imperial Servant]]" {{Reprint|Princess Leia, Imperial Servant}}
+*"[[Bring Me the Children]]" {{Reprint|Bring Me the Children}} {{Mo}}
+*"[[As Long As We Live...]]" {{Reprint|As Long As We Live...}}
+*"[[The Frozen World of Ota]]" {{Reprint|The Frozen World of Ota}}
+*{{StoryCite|story=The Pandora Effect|book=The Empire Strikes Back Monthly 151|reprint=1}}
+*''[[Star Wars Missions 13: Prisoner of the Nikto Pirates]]''
+*''[[Star Wars Missions 14: The Monsters of Dweem]]''
+*''[[Star Wars Missions 15: Voyage to the Underworld]]''
+*''[[Han Solo's Rescue Mission]]''
+*''[[Mission to Lianna]]''
+*{{JournalCite|1|The Quality of Mercy}}
+*{{WEGCite|story=New Recruits and Rebel Guns|book=Instant Adventures}} {{Mo}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Galaxy of Fear: The Hunger]]'' {{Mo}}
+*''[[The Star Wars Holiday Special]]''
+*{{Hyperspace|url=hyperspace/member/fiction/f20080522/index.html|text="Lando Calrissian: Idiot's Array"|int=Lando Calrissian: Idiot's Array|newhost=Suvudu}} {{Mo}}
+*''[[Imperial Double-Cross]]'' {{Mo}}
+*''[[Star Wars Galaxies: The Ruins of Dantooine]]''
+*{{GalaxiesAED}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*{{GalaxiesNGE}}
+*''[[The Bounty Hunter]]''
+*{{JournalCite|14|Crimson Bounty}}
+*"[[Side Trip]]" {{Reprint|Side Trip}}
+*{{JournalCite|15|Laughter After Dark (short story)}}
+*''[[Star Wars Adventures: Princess Leia and the Royal Ransom]]''
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}} {{Mo}}
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}}
+*''[[Rebel Mission to Ord Mantell]]''
+*''[[A Valentine Story]]''
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}}
+*[[Star Wars (1977) 39|''Star Wars'' (1977) 39]] {{Reprint|Star Wars (1977) 39}}
+*''[[The Empire Strikes Back: A Storybook]]''
+*''[[Super Star Wars: The Empire Strikes Back]]''
+*{{ESBRadio|Freedom's Winter}}
+*{{ESBRadio|The Coming Storm}}
+*{{ESBRadio|A Question of Survival}}
+*[[Star Wars (1977) 40|''Star Wars'' (1977) 40]] {{Reprint|Star Wars (1977) 40}}
+*{{ESBRadio|Fire and Ice}}
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[The Empire Strikes Back (arcade game)|''The Empire Strikes Back'' arcade game]]
+*[[Star Wars (1977) 41|''Star Wars'' (1977) 41]] {{Reprint|Star Wars (1977) 41}}
+*{{ESBRadio|The Millennium Falcon Pursuit}}
+*{{ESBRadio|Way of the Jedi (episode)}} {{Mo}}
+*[[Star Wars (1977) 42|''Star Wars'' (1977) 42]] {{Reprint|Star Wars (1977) 42}}
+*{{ESBRadio|New Allies, New Enemies}}
+*[[Star Wars (1977) 43|''Star Wars'' (1977) 43]] {{Reprint|Star Wars (1977) 43}}
+*{{ESBRadio|Dark Lord's Fury}} {{Mo}}
+*{{ESBRadio|Gambler's Choice}} {{Mo}}
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*{{ESBRadio|The Clash of Lightsabers}}
+*{{Tales|6|Thank the Maker}} {{Mo}}
+*{{WEGCite|story=Temporary Reassignment|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*[[Star Wars (1977) 45|''Star Wars'' (1977) 45]] {{Reprint|Star Wars (1977) 45}} {{Flash}}
+*[[Star Wars (1977) 46|''Star Wars'' (1977) 46]] {{Reprint|Star Wars (1977) 46}}
+*[[Star Wars (1977) 50|''Star Wars'' (1977) 50]] {{Reprint|Star Wars (1977) 50}}
+*{{WEGCite|story=Droids Can't Fly|book=Shadows of the Empire Sourcebook}}
+*[[Star Wars (1977) 51|''Star Wars'' (1977) 51]] {{Reprint|Star Wars (1977) 51}}
+*[[Star Wars (1977) 52|''Star Wars'' (1977) 52]] {{Reprint|Star Wars (1977) 52}}
+*{{InsiderCite|Special Edition 2012|Vader Adrift|reprint=1}} {{Mo}}
+*[[Star Wars (1977) 86|''Star Wars'' (1977) 86]] {{Reprint|Star Wars (1977) 86}}
+*[[Star Wars (1977) 54|''Star Wars'' (1977) 54]] {{Reprint|Star Wars (1977) 54}}
+*[[Star Wars (1977) 55|''Star Wars'' (1977) 55]] {{Reprint|Star Wars (1977) 55}}
+*[[Star Wars (1977) 56|''Star Wars'' (1977) 56]] {{Reprint|Star Wars (1977) 56}}
+*[[Star Wars (1977) 57|''Star Wars'' (1977) 57]] {{Reprint|Star Wars (1977) 57}}
+*[[Star Wars Annual (1977) 2|''Star Wars Annual'' (1977) 2]] {{Reprint|Star Wars Annual (1977) 2}} {{Flash}}
+*[[Star Wars (1977) 58|''Star Wars'' (1977) 58]] {{Reprint|Star Wars (1977) 58}}
+*[[Star Wars (1977) 59|''Star Wars'' (1977) 59]] {{Reprint|Star Wars (1977) 59}}
+*[[Star Wars (1977) 62|''Star Wars'' (1977) 62]] {{Reprint|Star Wars (1977) 62}}
+*[[Star Wars (1977) 63|''Star Wars'' (1977) 63]] {{Reprint|Star Wars (1977) 63}}
+*[[Star Wars (1977) 67|''Star Wars'' (1977) 67]] {{Reprint|Star Wars (1977) 67}}
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''
+*{{StoryCite|story=The Prize Pelt: The Tale of Bossk|book=Tales of the Bounty Hunters}} {{Mo}}
+*{{Ewoks|Battle for the Sunstar}}
+*[[Star Wars (1977) 68|''Star Wars'' (1977) 68]] {{Reprint|Star Wars (1977) 68}}
+*[[Star Wars (1977) 69|''Star Wars'' (1977) 69]] {{Reprint|Star Wars (1977) 69}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*{{WEGCite|story=Operation: Recovery|book=Shadows of the Empire Planets Guide}}
+*[[Star Wars: Shadows of the Empire Galoob minicomic|''Star Wars: Shadows of the Empire'' Galoob minicomic]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]]
+*[[Star Wars: Shadows of the Empire (junior novelization)|''Star Wars: Shadows of the Empire'' junior novelization]]
+*[[Star Wars: Shadows of the Empire (video game)|''Star Wars: Shadows of the Empire'' video game]]
+*{{GalaxyCite|7|Assignment: Decoy}}
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Star Wars: Shadows of the Empire Ertl minicomic|''Star Wars: Shadows of the Empire'' Ertl minicomic]]
+*''[[The Life and Legend of Obi-Wan Kenobi]]''
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*''[[The Bounty Hunters: Scoundrel's Wages]]''
+*[[Star Wars (1977) 70|''Star Wars'' (1977) 70]] {{Reprint|Star Wars (1977) 70}}
+*[[Star Wars (1977) 71|''Star Wars'' (1977) 71]] {{Reprint|Star Wars (1977) 71}}
+*[[Star Wars (1977) 72|''Star Wars'' (1977) 72]] {{Reprint|Star Wars (1977) 72}}
+*[[Star Wars (1977) 73|''Star Wars'' (1977) 73]] {{Reprint|Star Wars (1977) 73}}
+*[[Star Wars (1977) 74|''Star Wars'' (1977) 74]] {{Reprint|Star Wars (1977) 74}}
+*[[Star Wars (1977) 75|''Star Wars'' (1977) 75]] {{Reprint|Star Wars (1977) 75}}
+*[[Star Wars (1977) 76|''Star Wars'' (1977) 76]] {{Reprint|Star Wars (1977) 76}}
+*[[Star Wars (1977) 77|''Star Wars'' (1977) 77]] {{Reprint|Star Wars (1977) 77}}
+*[[Star Wars (1977) 79|''Star Wars'' (1977) 79]] {{Reprint|Star Wars (1977) 79}} {{Mo}}
+*[[Star Wars (1977) 80|''Star Wars'' (1977) 80]] {{Reprint|Star Wars (1977) 80}}
+*[[Star Wars Annual (1977) 3|''Star Wars Annual'' (1977) 3]] {{Reprint|Star Wars Annual (1977) 3}}
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*{{JournalCite|14|Special Ops: Drop Points}}
+*{{WEGCite|story=There's Many a Slip Betwixt Cup and Lip|book=Mos Eisley Adventure Set}}
+*''[[The Rise and Fall of Darth Vader]]''
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*''[[Super Star Wars: Return of the Jedi]]''
+*[[Return of the Jedi 1|''Return of the Jedi'' 1]] {{Reprint|Return of the Jedi 1}} {{Mo}}
+*''[[Star Wars Journal: Hero for Hire]]'' {{Mo}}
+*[[Return of the Jedi 2|''Return of the Jedi'' 2]] {{Reprint|Return of the Jedi 2}}
+*{{RJRadio|Prophecies and Destinies}}
+*''[[The Mandalorian Armor]]'' {{Mo}}
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*{{RJRadio|Pattern and Web}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*{{RJRadio|Blood of a Jedi}}
+*[[Return of the Jedi (arcade game)|''Return of the Jedi'' arcade game]]
+*''[[The Truce at Bakura]]''
+*[[Star Wars (1977) 81|''Star Wars'' (1977) 81]] {{Reprint|Star Wars (1977) 81}}
+*[[Star Wars (1977) 84|''Star Wars'' (1977) 84]] {{Reprint|Star Wars (1977) 84}}
+*[[Star Wars (1977) 85|''Star Wars'' (1977) 85]] {{Reprint|Star Wars (1977) 85}}
+*[[Star Wars (1977) 91|''Star Wars'' (1977) 91]] {{Reprint|Star Wars (1977) 91}}
+*[[Star Wars (1977) 98|''Star Wars'' (1977) 98]] {{Reprint|Star Wars (1977) 98}}
+*[[Star Wars (1977) 92|''Star Wars'' (1977) 92]] {{Reprint|Star Wars (1977) 92}}
+*[[Star Wars (1977) 93|''Star Wars'' (1977) 93]] {{Reprint|Star Wars (1977) 93}}
+*[[Star Wars (1977) 95|''Star Wars'' (1977) 95]] {{Reprint|Star Wars (1977) 95}}
+*[[Star Wars (1977) 101|''Star Wars'' (1977) 101]] {{Reprint|Star Wars (1977) 101}}
+*[[Star Wars (1977) 99|''Star Wars'' (1977) 99]] {{Reprint|Star Wars (1977) 99}}
+*[[Star Wars (1977) 100|''Star Wars'' (1977) 100]] {{Reprint|Star Wars (1977) 100}}
+*[[Star Wars (1977) 104|''Star Wars'' (1977) 104]] {{Reprint|Star Wars (1977) 104}}
+*[[Star Wars (1977) 106|''Star Wars'' (1977) 106]] {{Reprint|Star Wars (1977) 106}} {{Mo}}
+*''[[X-Wing Rogue Squadron Special]]'' {{Flash}}
+*[[X-Wing Rogue Squadron 1|''X-Wing Rogue Squadron'' 1]] {{Flash}}
+*''[[A New Hope: The Life of Luke Skywalker]]'' {{Ab|A New Hope: The Life of Luke Skywalker (audiobook)}}
+*{{GamerCite|2|A Credit for Your Thoughts}}
+*{{JournalCite|1|Escape from Balis-Baurgh|reprint=1}}
+*{{StoryCite|story=Gathering Shadows|book=Tales from the New Republic}}
+*[[Star Wars (1977) 107|''Star Wars'' (1977) 107]] {{Reprint|Star Wars (1977) 107}}
+*[[Shadows of the Empire: Evolution 1|''Shadows of the Empire: Evolution'' 1]]
+*[[Shadows of the Empire: Evolution 3|''Shadows of the Empire: Evolution'' 3]]
+*[[Shadows of the Empire: Evolution 4|''Shadows of the Empire: Evolution'' 4]]
+*[[Shadows of the Empire: Evolution 5|''Shadows of the Empire: Evolution'' 5]]
+*{{Tales|5|Lando's Commandos: On Eagles' Wings}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]] {{Flash}}
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]]
+*[[X-Wing Rogue Squadron 29|''X-Wing Rogue Squadron'' 29]]
+*[[X-Wing Rogue Squadron 30|''X-Wing Rogue Squadron'' 30]]
+*[[X-Wing Rogue Squadron 31|''X-Wing Rogue Squadron'' 31]]
+*[[X-Wing Rogue Squadron 34|''X-Wing Rogue Squadron'' 34]] {{Mo}}
+*[[Star Wars (1977) 108|''Star Wars'' (1977) 108]]
+*''[[The Glove of Darth Vader]]''
+*''[[The Lost City of the Jedi]]''
+*''[[Zorba the Hutt's Revenge]]''
+*''[[Mission from Mount Yoda]]''
+*''[[Queen of the Empire]]''
+*[[Prophets of the Dark Side (novel)|''Prophets of the Dark Side'']] {{Mo}}
+*''[[Luke Skywalker and the Shadows of Mindor]]''
+*{{WEGCite|story=Chewbacca and the Life-Debt|book=The Last Command Sourcebook|reprint=1}} {{Mo}}
+*{{JournalCite|2|Big Quince (short story)}} {{Mo}}
+*{{JournalCite|4|Starter's Tale}}
+*{{JournalCite|5|Vengeance Strike}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}} {{Mo}}
+*{{DarkStryder|adventure=Shintel Downtime|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Harm's Way|book=The Kathol Rift|reprint=yes}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*{{StoryCite|story=Hutt and Seek|book=Tales from the New Republic}}
+*{{StoryCite|story=Corphelion Interlude|book=A Forest Apart}} {{Mo}}
+*''[[Tatooine Ghost]]''
+*{{InsiderCite|67|The Trouble with Squibs|reprint=1}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*[[Dark Empire 1|''Dark Empire'' 1]]
+*[[Dark Empire 2|''Dark Empire'' 2]]
+*[[Dark Empire 3|''Dark Empire'' 3]]
+*[[Dark Empire 4|''Dark Empire'' 4]]
+*[[Dark Empire 5|''Dark Empire'' 5]]
+*[[Dark Empire 6|''Dark Empire'' 6]]
+*''[[Star Wars: Jedi Knight: Mysteries of the Sith]]''
+*[[Dark Empire II 1|''Dark Empire II'' 1]]
+*[[Dark Empire II 2|''Dark Empire II'' 2]]
+*[[Dark Empire II 5|''Dark Empire II'' 5]]
+*[[Dark Empire II 6|''Dark Empire II'' 6]]
+*''[[Jedi Search]]''
+*{{JournalCite|15|Firestorm (short story)}}
+*[[Dark Apprentice (novel)|''Dark Apprentice'']]
+*''[[Champions of the Force]]''
+*{{Tales|8|The Secret Tales of Luke's Hand!}} {{Mo}}
+*[[Children of the Jedi (novel)|''Children of the Jedi'']]
+*{{StoryCite|story=Simple Tricks|book=Tales from the New Republic}}
+*[[Darksaber (novel)|''Darksaber'']]
+*{{Wizards|url=default.asp?x=starwars/article/sw20031023rebel|text=Rebel Jedi|int=Rebel Jedi}}
+*''[[Planet of Twilight]]''
+*''[[The Crystal Star]]''
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*{{Tales|19|Collapsing New Empires}}
+*''[[Before the Storm]]''
+*''[[Shield of Lies]]''
+*''[[Tyrant's Test]]''
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*[[Union 1|''Union'' 1]] {{Hologram}}
+*[[Union 4|''Union'' 4]] {{Hologram}}
+*''[[Junior Jedi Knights: Promises]]'' {{Mo}}
+*''[[Junior Jedi Knights: Anakin's Quest]]'' {{Mo}}
+*''[[Junior Jedi Knights: Vader's Fortress]]'' {{Mo}}
+*''[[Survivor's Quest]]'' {{Ab|Survivor's Quest (unabridged audiobook)}} {{Mo}}
+*''[[Young Jedi Knights: Diversity Alliance]]''
+*''[[Young Jedi Knights: Return to Ord Mantell]]''
+*{{GamerCite|5|The Crystal|reprint=1}}
+*''[[The New Jedi Order: Vector Prime]]''
+*[[Chewbacca (2000) 3|''Chewbacca'' (2000) 3]]
+*[[Chewbacca (2000) 4|''Chewbacca'' (2000) 4]]
+*[[Invasion 0|''Invasion'' 0]]
+*[[Invasion 4|''Invasion'' 4]]
+*[[Invasion 5|''Invasion'' 5]]
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]'' {{Mo}}
+*''[[The New Jedi Order: Dark Tide II: Ruin]]'' {{Mo}}
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+*''[[The New Jedi Order: Agents of Chaos II: Jedi Eclipse]]''
+*{{Tales|18|Revenants}} {{Mo}}
+*''[[The New Jedi Order: Balance Point]]''
+*''[[The New Jedi Order: Recovery]]''
+*''[[The New Jedi Order: Edge of Victory I: Conquest]]'' {{Mo}}
+*''[[The New Jedi Order: Edge of Victory II: Rebirth]]''
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Dark Journey]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*{{InsiderCite|75|Or Die Trying|reprint=1}} {{Mo}}
+*''[[The New Jedi Order: Force Heretic III: Reunion]]''
+*''[[The New Jedi Order: The Final Prophecy]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*{{Tales|14|Apocalypse Endor}} {{Mo}}
+*''[[Dark Nest I: The Joiner King]]''
+*''[[Dark Nest II: The Unseen Queen]]''
+*''[[Dark Nest III: The Swarm War]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Bloodlines]]''
+*''[[Legacy of the Force: Tempest]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Legacy of the Force: Sacrifice]]'' {{Mo}}
+*''[[Legacy of the Force: Inferno]]''
+*''[[Legacy of the Force: Fury]]''
+*''[[Legacy of the Force: Revelation]]''
+*''[[Legacy of the Force: Invincible]]''
+*[[Riptide (novel)|''Riptide'']] {{Mo}}
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}}
+*''[[Fate of the Jedi: Outcast]]'' {{Ab|Fate of the Jedi: Outcast (audiobook)}}
+*''[[Fate of the Jedi: Omen]]'' {{Ab|Fate of the Jedi: Omen (audiobook)}}
+*''[[Fate of the Jedi: Abyss]]'' {{Ab|Fate of the Jedi: Abyss (audiobook)}}
+*''[[Fate of the Jedi: Backlash]]'' {{Ab|Fate of the Jedi: Backlash (audiobook)}}
+*''[[Fate of the Jedi: Allies]]'' {{Ab|Fate of the Jedi: Allies (audiobook)}}
+*''[[Fate of the Jedi: Vortex]]'' {{Ab|Fate of the Jedi: Vortex (audiobook)}}
+*''[[Fate of the Jedi: Conviction]]'' {{Ab|Fate of the Jedi: Conviction (audiobook)}}
+*''[[Fate of the Jedi: Ascension]]'' {{Ab|Fate of the Jedi: Ascension (audiobook)}}
+*''[[Fate of the Jedi: Apocalypse]]'' {{Ab|Fate of the Jedi: Apocalypse (audiobook)}}
+*[[Crucible (novel)|''Crucible'']] {{Ab|Crucible (audiobook)}}
+*{{StoryCite|story=Celestia Galactica Photografica|book=Star Wars: Visionaries}}
+}}
+
+===Non-canon appearances===
+{{ScrollBox|content=
+[[File:Millennium_Falcon_Old_Layout.jpg|thumb|right|200px|Early [[:Category:Technical drawing images|schematics]] of the ''Millennium Falcon''.]]
+*<!-- 1982-05-XX -->{{StoryCite|story=The Flight of the Falcon|book=The Empire Strikes Back Monthly 157|reprint=1}}
+*<!-- 2001-05-02 -->[[Star Wars Infinities: A New Hope 1|''Star Wars Infinities: A New Hope'' 1]]
+*<!-- 2001-06-06 -->[[Star Wars Infinities: A New Hope 2|''Star Wars Infinities: A New Hope'' 2]]
+*<!-- 2001-09-19 -->[[Star Wars Infinities: A New Hope 3|''Star Wars Infinities: A New Hope'' 3]]
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-11-21 -->[[Star Wars Infinities: A New Hope 4|''Star Wars Infinities: A New Hope'' 4]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2001-12-12 -->{{Tales|10|A Wookiee Scorned!}}
+*<!-- 2001-12-12 -->{{Tales|10|Free Memory}} {{Flash}}
+*<!-- 2002-03-20 -->{{Tales|11|In the Beginning}}
+*<!-- 2002-07-10 -->[[Star Wars Infinities: The Empire Strikes Back 1|''Star Wars Infinities: The Empire Strikes Back'' 1]]
+*<!-- 2002-08-28 -->[[Star Wars Infinities: The Empire Strikes Back 2|''Star Wars Infinities: The Empire Strikes Back'' 2]]
+*<!-- 2002-10-23 -->[[Star Wars Infinities: The Empire Strikes Back 3|''Star Wars Infinities: The Empire Strikes Back'' 3]]
+*<!-- 2002-11-20 -->[[Star Wars Infinities: The Empire Strikes Back 4|''Star Wars Infinities: The Empire Strikes Back'' 4]]
+*<!-- 2003-10-01 -->{{Tales|17|Ghosts of Hoth}}
+*<!-- 2003-11-06 -->[[Star Wars Infinities: Return of the Jedi 1|''Star Wars Infinities: Return of the Jedi'' 1]]
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+*<!-- 2004-05-14 -->{{Tales|19|Into the Great Unknown}}
+*<!-- 2004-05-14 -->{{Tales|19|The Rebel Club}}
+*<!-- 2005-12-XX -->"[[Perfect Evil]]"
+*<!-- 2005-12-XX -->{{StoryCite|story=Oh!! Jawajawa|book=Star Wars Manga: Silver}}
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2011-07-22 -->''[[LEGO Star Wars: The Padawan Menace]]''
+*<!-- 2013-05-29 -->{{YodaChronicles|The Phantom Clone}}
+}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1977-11-XX -->''[[Star Wars Blueprints]]'' {{Po}}
+*<!-- 1978-XX-XX -->{{KennerCite|set=Star Wars (Kenner toy line)|pack=Millennium Falcon|link=Kenner-MilleniumFalcon.asp}}
+*<!-- 1979-03-XX -->''[[Artoo Detoo's Activity Book]]''
+*<!-- 1979-03-XX -->''[[Chewbacca's Activity Book]]''
+*<!-- 1980-XX-XX -->[[The Empire Strikes Back Coloring Book (1980)|''The Empire Strikes Back Coloring Book'' (1980)]]
+*<!-- 1982-XX-XX -->[[The Empire Strikes Back Coloring Book (1982)|''The Empire Strikes Back Coloring Book'' (1982)]]
+*<!-- 1983-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (Luke Skywalker)|''Star Wars: Return of the Jedi Coloring Book'' (Luke Skywalker)]] {{Po}}
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-01-XX -->''[[Galaxy Guide 7: Mos Eisley]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-02-XX -->{{JournalCite|1|Glah Ubooki's Strange & Wondrous Imports (article)}}
+*<!-- 1994-02-XX -->{{JournalCite|1|Smuggler's Log}}
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-08-XX -->{{JournalCite|3|Smuggler's Log}}
+*<!-- 1994-09-XX -->''[[Galaxy Guide 11: Criminal Organizations]]''
+*<!-- 1995-02-XX -->{{JournalCite|5|A Buyer's Guide to Alternative Starships}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->''[[Classic Campaigns]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-11-XX -->{{JournalCite|8|The Yard of Opportunity}}
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=A Few Maneuvers}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Millennium Falcon}}
+}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->{{JournalCite|9|Fizzi's Slightly Used Starships (article)}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->''[[The Kathol Rift]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|A Free-Trader's Guide to the Planets}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Death Star Tractor Beam}}
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+<!-- 1996-09-XX -->{{CardGameSet|set={{Topps|set=1996 Topps Star Wars: Shadows of the Empire|parent=1}}|cards=
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Hyperspace... At Last!|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC048.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=''Outrider''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC084.jpg}}
+}}
+*<!-- 1996-10-XXF -->''[[Endgame]]''
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]]
+<!-- 1996-11-XX -->{{CardGameSet|set={{CCG|set=Hoth Limited|parent=1}}|cards=
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Hoth: Echo Docking Bay (Light)}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Oh, Switch Off}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Surface Defense Cannon}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Turn It Off! Turn It Off!}}
+}}
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Closer?!}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Corrosive Damage}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=I Have A Bad Feeling About This}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=I Want That Ship}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Landing Claw}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Lando System?}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Light Maneuvers}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Moving To Attack Position}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Order To Engage}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Precision Targeting}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Recoil In Fear}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Rycar's Run}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Shot In The Dark}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=They'd Be Crazy To Follow Us}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=This Is No Cave}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Those Rebels Won't Escape Us}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Tight Squeeze}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=We Can Still Outmaneuver Them}}
+}}
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]''
+*<!-- 1997-06-XX -->''[[The Black Sands of Socorro]]''
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-11 -->''[[Star Wars: The Art of the Brothers Hildebrandt]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Flight Escort}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Forced Landing}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=TIE Sentry Ships}}
+}}
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Balanced Attack}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Boba Fett}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Boelo}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Corellian Engineering Corporation}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Docking And Repair Facilities}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Gela Yeens}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Hidden Base}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=It's Not My Fault!}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Jabba's Influence}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Legendary Starfighter}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Local Defense}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Pride Of The Empire}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Sometimes I Amaze Even Myself}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Spaceport Docking Bay (Dark)}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Spaceport Docking Bay (Light)}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Star Destroyer!}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Stay Sharp!}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Steady Aim}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=They're Coming In Too Fast!}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=They're Tracking Us}}
+}}
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=YT-1300 Transport}}
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Lando In ''Millennium Falcon''}}
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Combined Fleet Action}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Concussion Missiles (Light)}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Fighters Coming In}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Gold Squadron 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Head Back To The Surface}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Heading For The Medical Frigate}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Home One'': Docking Bay}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Staging Areas}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Superficial Damage}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}}
+<!-- 2001-01-10 -->{{CardGameSet|set={{CCG|set=Reflections II: Expanding the Galaxy|parent=1}}|cards=
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Artoo & Threepio}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Ghhhk & Those Rebels Won't Escape Us}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Houjix & Out Of Nowhere}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Nar Shaddaa Wind Chimes & Out Of Somewhere}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Sense & Recoil In Fear}}
+}}
+*<!-- 2001-02-XX -->{{GamerCite|2|A Legacy of Starships}}
+*<!-- 2001-03-XX -->''[[Living Force Campaign Guide]]''
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Han, Chewie, And The ''Falcon''}}
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2002-05-30 -->{{HBCite|61}}
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2002-12-03 -->{{InsiderCite|64|Dream Weavers: The People of Industrial Light & Magic}}
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-04-09 -->{{FactFile|67|MAN 1-2|Manufacturers}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->{{PolyhedronCite|162|Exposing the YT-1300 Transport: Secrets of the Falcon|Exposing the YT-1300 Transport: Secrets of the ''Falcon''}}
+*<!-- 2004-03-24 -->''[[Geonosis and the Outer Rim Worlds]]''
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_yt1300.jsp|text=YT-1300}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2004-12-16 -->{{Wizards|url=default.asp?x=starwars/livingforce/swlf20041216|text=Standoffs}}
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-11-23 -->{{SonyCite|url=en_US/players/content.vm?page=Mystery%20on%20Gamma%20Station&resource=features|text=Mystery on Gamma Station}}
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66881&resource=features|text=Ships: YT-1300 Transport}}
+*<!-- 2006-08-28 -->{{Hyperspace|url=hyperspace/member/insideronline/89/indexp3.html|text=Underworld Appendix: Swoops, Spice, and Wretched Rogues|int=Underworld Appendix: Swoops, Spice, and Wretched Rogues}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Millennium Falcon}} {{Po}}
+*<!-- 2008-12-17 -->{{InsiderCite|106|Han Solo: The Early Years|reprint=1}}
+*<!-- 2009-03-11 -->{{SWGTCG|set=Galactic Hunters|cardname=Toughness}} {{Po}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=YT-1300 Light Freighter}}
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+*<!-- 2010-02-23 -->{{Wizards|url=default.asp?x=starwars/article/FringeStatPack|text=Fringe Stat Pack}}
+*<!-- 2010-05-04 -->{{Wizards|url=default.asp?x=starwars/article/Mesop10|text=Message to Spacers 10}}
+*<!-- 2010-07-XX -->[[Star Wars: ABC|''Star Wars'': ABC]]
+<!-- 2010-12-14 -->{{CardGameSet|set={{SWGTCG|set=The Price of Victory|parent=1}}|cards=
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Lando Calrissian|swglink=Lando Calrissian 6 (card).JPG}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Millennium Falcon|swglink=Millennium Falcon 6 (card).JPG}} {{Po}}
+}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-10-29 -->''[[Star Wars: Obi-Wan Kenobi, Jedi Knight]]''
+*<!-- 2012-12-14 -->[[Star Wars: Edge of the Empire Beginner Game|''Star Wars: Edge of the Empire'' Beginner Game]]
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Defense Protocol|link=core/defense-protocol-core-30-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Last Minute Rescue|link=core/last-minute-rescue-core-6-1}} {{Po}}
+}}
+*<!-- 2012-XX-XX -->{{HasbroCite|set=Star Wars: Movie Heroes|packtype=Battle Pack|pack=Rebel Heroes|altlink=https://www.rebelscum.com/Battle_Pack-Rebel_Heroes.asp}} {{Po}} {{C|Packaging}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=Millennium Falcon Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Chewbacca}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Han Solo}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Lando Calrissian}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Outer Rim Smuggler}}
+}}
+<!-- 2013-04-25 -->{{CardGameSet|set={{FFGTCG|set=The Search for Skywalker|parent=1}}|cards=
+*<!-- 2013-04-25 -->{{FFGTCG|set=The Search for Skywalker|cardname=Renegade Squadron|link=the-hoth-cycle/the-search-for-skywalker/renegade-squadron-the-search-for-skywalker-44-2}} {{Po}}
+*<!-- 2013-04-25 -->{{FFGTCG|set=The Search for Skywalker|cardname=Renegade Squadron Mobilization|link=the-hoth-cycle/the-search-for-skywalker/renegade-squadron-mobilization-the-search-for-skywalker-44-1}} {{Po}}
+}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=The Hunt for Han Solo|link=the-hoth-cycle/a-dark-time/the-hunt-for-han-solo-a-dark-time-52-1}} {{Po}}
+<!-- 2013-06-27 -->{{CardGameSet|set={{FFGTCG|set=Assault on Echo Base|parent=1}}|cards=
+*<!-- 2013-06-27 -->{{FFGTCG|set=Assault on Echo Base|cardname=Don't Get Cocky|link=the-hoth-cycle/assault-on-echo-base/dont-get-cocky-assault-on-echo-base-54-6}} {{Po}}
+*<!-- 2013-06-27 -->{{FFGTCG|set=Assault on Echo Base|cardname=Protection|link=the-hoth-cycle/assault-on-echo-base/protection-assault-on-echo-base-53-6}} {{Po}}
+}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Game Master's Kit|''Star Wars: Edge of the Empire'' Game Master's Kit]] {{Po}}
+<!-- 2013-07-19 -->{{CardGameSet|set={{FFGTCG|set=Edge of Darkness|parent=1}}|cards=
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Across the Anoat Sector|link=edge-of-darkness/across-the-anoat-sector-edge-of-darkness-74-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Asteroid Pursuit|link=edge-of-darkness/asteroid-pursuit-edge-of-darkness-90-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Asteroid Sanctuary|link=edge-of-darkness/asteroid-sanctuary-edge-of-darkness-72-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Bring 'Em On|link=edge-of-darkness/bring-em-on-edge-of-darkness-75-5}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Captain Needa|link=edge-of-darkness/captain-needa-edge-of-darkness-88-2}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Lando Calrissian|link=edge-of-darkness/lando-calrissian-edge-of-darkness-71-2}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Let the Wookiee Win|link=edge-of-darkness/let-the-wookiee-win-edge-of-darkness-69-5}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=''Millennium Falcon''|link=edge-of-darkness/millennium-falcon-edge-of-darkness-72-2}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Protection|link=edge-of-darkness/protection-edge-of-darkness-73-6}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Trust Me|link=edge-of-darkness/trust-me-edge-of-darkness-71-1}} {{Po}}
+}}
+*<!-- 2013-08-16 -->{{FFGTCG|set=The Battle of Hoth|cardname=Narrow Escape|link=the-hoth-cycle/the-battle-of-hoth/narrow-escape-the-battle-of-hoth-60-5}} {{Po}}
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=Dengar|link=the-hoth-cycle/escape-from-hoth/dengar-escape-from-hoth-67-2}} {{Po}}
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fully Armed|link=balance-of-the-force/fully-armed-balance-of-the-force-d01-56}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Supporting Fire|link=balance-of-the-force/supporting-fire-balance-of-the-force-91-6}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=The Coruscant Rescue|link=balance-of-the-force/the-coruscant-rescue-balance-of-the-force-l01}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=The Final Ship|link=balance-of-the-force/the-final-ship-balance-of-the-force-l01}} {{Po}}
+}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Decoy}} {{Po}}
+*<!-- 2014-06-26 -->{{FFGXW|set=TIE Defender Expansion Pack|cardname=Outmaneuver|reprint=1}} {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Protection|link=echoes-of-the-force-cycle/it-binds-all-things/protection-r768}} {{Po}}
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Following Fate|link=between-the-shadows/following-fate-r1151}} {{Po}}
+*<!-- 2015-01-06 -->{{BuildFalconCite|1|Starship Fact File}}
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+*<!-- 2015-02-25 -->{{BuildFalconCite|8|Guide to the Galaxy}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=Han Solo Ally Pack|mission=Imperial Entanglements}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=Rebel Saboteurs Ally Pack|mission=Armed and Operational}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Protection|link=rogue-squadron/draw-their-fire/protection-r1258}} {{Po}}
+<!-- 2015-05-29 -->{{CardGameSet|set={{FFGTCG|set=Evasive Maneuvers|parent=1}}|cards=
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Supporting Fire|link=rogue-squadron/evasive-maneuvers/supporting-fire-r1292}} {{Po}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=TIE Fighter Patrol|link=rogue-squadron/evasive-maneuvers/tie-fighter-patrol-r1302}} {{Po}}
+}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Supporting Fire|link=rogue-squadron/attack-run/supporting-fire-r1328}} {{Po}}
+<!-- 2015-07-17 -->{{CardGameSet|set={{FFGTCG|set=Chain of Command|parent=1}}|cards=
+*<!-- 2015-07-17 -->{{FFGTCG|set=Chain of Command|cardname=Breaking the Blockade|link=rogue-squadron/chain-of-command/breaking-the-blockade-r1347}} {{Po}}
+*<!-- 2015-07-17 -->{{FFGTCG|set=Chain of Command|cardname=Supporting Fire|link=rogue-squadron/chain-of-command/supporting-fire-r1346}} {{Po}}
+}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Shield Upgrade|reprint=1}} {{Po}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|YT-1300}}
+
+{{Interlang
+|de=YT-1300-Frachter
+|es=Carguero ligero YT-1300/Leyendas
+|fi=YT-1300 kevyt rahtialus/Legends
+|fr=Cargo Léger YT-1300/Légendes
+|pl=YT-1300
+}}
+
+[[Category:YT-series freighter classes]]
+
+{{RelatedCategories
+|[[Category:YT-1300 light freighters]]
+}}

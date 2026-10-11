@@ -1,0 +1,89 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:XS800LightFreighter-StockShips.png]]
+|name=XS-800 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="ss">''[[Stock Ships]]''</ref>
+|line=
+|model=XS-800 light freighter<ref name="ss" />
+|type=[[Light freighter/Legends|Light freighter]]
+|cost=37,500 [[Galactic Credit Standard/Legends|credits]]<ref name="ss" />
+|modifier=
+|sysmods=
+|length=30.2 [[Meter/Legends|meters]]<ref name="ss" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|km/h]]<ref name="ss" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3.0 {{C|primary}}<ref name="ss" />
+*Class 15 {{C|backup}}<ref name="ss" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Double [[Laser cannon/Legends|laser cannon]] (1)<ref name="ss" />
+|complement=
+|bays=
+|escapepods=2 [[Escape pod/Legends|escape pods]]
+|crew=2<ref name="ss" />
+|skeleton=
+|passengers=8<ref name="ss" />
+|capacity=115 [[Metric ton/Legends|metric tons]]<ref name="ss" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="ss" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=Civilian<ref name="ss" />
+}}
+The '''XS-800 light freighter''' was designed and introduced several [[Standard year/Legends|years]] before the [[Battle of Yavin/Legends|Battle of Yavin]].
+
+==Characteristics==
+[[File:XS800schematic-SS.png|thumb|left|180px|XS-800 schematics]]
+The biggest advantage of this ship was the passengers' comfort. Personal refresher stations, independent climate control for each quarters, and fold-out bunks made it a very comfortable ship for long journeys.<ref name="ss" />
+
+Two escape pods capable of each seating five people were equipped on the XS-800. Also, the cockpit was designed to separate from the ship and land on a [[Planet/Legends|planet]] when there was no other way to rescue passengers and crew. Safety was also guaranteed by its double [[Laser cannon/Legends|laser cannon]].<ref name="ss" />
+
+==History==
+It was a very successful craft, but not as popular as other [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] ships, like the [[CR90 corvette/Legends|CR90 corvette]].<ref name="ss" />
+
+{{Ship-stub}}
+
+==Appearances==
+*{{JournalCite|4|A Deal Gone Sour}}
+
+==Sources==
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]'' {{Po}}
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]'' {{Po}}
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of XS-800 light freighters}}
+{{Reflist}}
+
+{{Interlang
+|es=Carguero XS-800
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Freighter classes]]
+
+{{RelatedCategories
+|[[Category:XS-800 light freighters]]
+}}

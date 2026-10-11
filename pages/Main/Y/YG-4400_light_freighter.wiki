@@ -1,0 +1,65 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=YG-4400 light freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=[[YG-series/Legends|YG-series]]
+|model=YG-4400
+|type=[[Light freighter/Legends|Light freighter]]
+|cost=110,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SOF">''[[Suns of Fortune]]''</ref>
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1
+*Backup: Class 18<ref name="SOF" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=equipped
+|hull=
+|sensor=
+|target=
+|navigation=equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Getaway [[Concussion missile/Legends|concussion missile]] launcher (1)<ref name="SOF" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 pilot
+*1 co-pilot/gunner<ref name="SOF" />
+|skeleton=
+|passengers=2<ref name="SOF" />
+|capacity=
+|cargohandling=
+|consumables=1 month<ref name="SOF" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''YG-4400 light freighter''' was a [[Transport/Legends|transport]] [[Starship/Legends|ship]] created by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] around [[44 BBY/Legends|44 BBY]]. The main distinguishing feature of the YG-4400 was their armament, which included a getaway concussion missile launcher.
+
+==Sources==
+*<!-- 2001-02-22 -->{{Wizards|url=starwars/article.asp?x=sw20010222d&c=rpg|text=The ''Sea Killer''}} {{1stm}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:YG-series freighter classes]]
