@@ -1,0 +1,92 @@
+{{Top|leg|title=''Prowler''-class reconnaissance vessel}}
+{{StarshipClass
+|image=[[File:Prolwerclas.jpg]]
+|name=''Prowler''-class reconnaissance vessel
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]
+|line=[[New Class Modernization Program]]
+|model=
+|type=[[Scout ship/Legends|Scout vessel]]
+|cost=
+|modifier=
+|sysmods=
+|length=48 [[Meter/Legends|meters]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=Baffled [[Sublight engine/Legends|sublight drive]]<ref name="GoI">''[[Galaxy of Intrigue]]''</ref>
+|hyperdrive=*Class 1<ref name="GoI" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="GoI" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]]<ref name="GoI" />
+|avionics=
+|maincomp=
+|countermeasures=Sensor decoys {{C|4 sets}}<ref name="GoI" />
+|armament=Medium [[Concussion missile launcher/Legends|Concussion missile launcher]]<ref name="GoI" />
+*10 [[Concussion missile/Legends|Concussion missiles]]<ref name="GoI" />
+|complement=
+|bays=
+|escapepods=
+|crew=6<ref name="GoI" />
+|skeleton=
+|passengers=0<ref name="GoI" />
+|capacity=3 [[Metric ton/Legends|tons]]<ref name="GoI" />
+|cargohandling=
+|consumables=5 [[Standard month/Legends|months]]<ref name="GoI" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Reconnaissance
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''''Prowler''-class reconnaissance vessel''' was a [[Spy/Legends|spy]] [[Starship/Legends|vessel]] for the [[New Republic/Legends|New Republic]] built by the [[Republic Engineering Corporation]] as part of the [[New Class Modernization Program]].
+
+==Characteristics==
+The ''Prowler''-class shared designs with the [[Ferret-class reconnaissance vessel|''Ferret''-class]] but carried less stealth systems and equipment. [[Starship/Legends|Ships]] of this class were meant to gather information about enemy assets and positions for a prolonged period of time, keeping a distance, while still utilizing the ''Ferret''-class's baffled drive and chemical thrust.
+
+The ''Prowler''-class was equipped with more missiles than the ''Ferret''-class in addition to a decoy package. It required six crewmembers to operate.
+
+Vessels of this class were given alphanumeric designations like [[5P8]].
+
+==Appearances==
+*''[[Before the Storm]]'' {{1st}}
+*[[Before the Storm (abridged audiobook)|''Before the Storm'' abridged audiobook]]
+*''[[Shield of Lies]]''
+*[[Shield of Lies (abridged audiobook)|''Shield of Lies'' abridged audiobook]]
+*''[[Tyrant's Test]]''
+*[[Tyrant's Test (abridged audiobook)|''Tyrant's Test'' abridged audiobook]]
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{NewClassNav}}
+
+{{Interlang
+|es=Nave de reconocimiento clase Merodeador
+}}
+
+[[Category:New Class starship classes]]
+[[Category:Scout starship classes]]
+
+{{RelatedCategories
+|[[Category:Prowler-class reconnaissance vessels]]
+}}
