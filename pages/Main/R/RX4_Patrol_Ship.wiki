@@ -1,0 +1,78 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:RX-4_Patrol_Ship.jpg]]
+|name=RX4 Patrol Ship
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Patrol ship<ref name="HSCS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=33 [[Meter/Legends|meters]]<ref name="HSCS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="HSCS" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 1]]<ref name="HSCS" />
+*[[Backup hyperdrive|Class 14]]<ref name="HSCS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="HSCS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="HSCS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="HSCS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 twin [[Turbolaser/Legends|turbolasers]]<ref name="HSCS" />
+*1 [[Ion cannon/Legends|ion cannon]]<ref name="HSCS" />
+|complement=
+|bays=
+|escapepods=
+|crew=2; 2 [[Gunner/Legends|gunners]]<ref name="HSCS" />
+|skeleton=1<ref name="HSCS" />
+|passengers=6<ref name="HSCS" />
+|capacity=30 [[Metric ton/Legends|metric tons]]<ref name="HSCS" />
+|cargohandling=
+|consumables=2 [[Standard year/Legends|years]]<ref name="HSCS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=System patrol<ref name="HSCS" />
+|firstuse=
+|retired=
+|affiliation=[[Trianii Rangers]]<ref name="HSCS" />
+}}
+The '''RX4 Patrol Ship''' was a vessel used by the [[Trianii Rangers]] for long term patrols of [[Trianii Space/Legends|Trianii Space]]. Due to the family nature of Trianii Rangers, these ships had a much more homey interior than was usual for military vessels. Though not a heavy combat vessel, it was more than capable of dealing with the small-time smugglers and pirates that operated in Trianii space.
+
+{{Ship-stub}}
+
+==Appearances==
+*{{JournalCite|6|Relic (article)|reprint=1}}
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+
+==Sources==
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Patrol craft classes]]
+[[Category:Scout starship classes]]
+
+{{RelatedCategories
+|[[Category:RX4 Patrol Ships]]
+}}

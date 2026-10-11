@@ -1,0 +1,81 @@
+{{Top|leg}}
+{{Device
+|image=[[File:Radiation_Sensor.jpg]]
+|name=Radiation sensor
+|manufacturer=
+|model=
+|type=[[Sensor/Legends|Sensor]]<ref name="RPG">[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Detection and measurement of [[Radiation/Legends|radiation]]<ref name="RPG" />
+|heritage=
+|affiliation=
+}}
+A '''radiation sensor''', also known as a '''radiation counter'''<ref name="SWS2">[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]</ref> or a '''Geiger counter'''<ref name="DES">''[[Dark Empire Sourcebook]]''</ref> was a type of [[Sensor/Legends|sensor]] that measured [[Radiation/Legends|radiation]]. It could be installed into a [[Droid/Legends|droid]] chassis.<ref name="RPG" /> The [[Viper probe droid/Legends|Viper probe droid]] was fitted with radiation sensors as part of its [[Sensor array/Legends|sensor array]].<ref name="EGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+
+==Appearances==
+*''[[Star Wars: The Old Republic]]''
+*[[Star Wars: Invasion of Theed Adventure Game|''Star Wars: Invasion of Theed'' Adventure Game]]
+*{{GalaxiesAED}} {{1st}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{ID|gieger counter}}
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]'' {{ID|geiger counter}}
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]'' {{ID|Geiger counter}}
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]'' {{ID|Geiger counter}}
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]'' {{ID|Geiger counter}}
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]'' {{ID|radiation detector}}
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}} {{ID|radiation counter}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]] {{ID|Geiger counter}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]'' {{ID|Geiger counter}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]'' {{ID|radiation meter}}
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]'' {{ID|Geiger counter}}
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]'' {{ID|radiation counter}}
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP|Geiger counter}}
+
+{{RelatedCategories
+|[[Category:Radiation sensors]]
+}}
+
+[[Category:Droid sensors]]
+[[Category:Sensor types]]

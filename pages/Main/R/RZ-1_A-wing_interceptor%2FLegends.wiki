@@ -1,0 +1,447 @@
+{{Top}}
+{{Citation}}
+{{Otheruses|A-wing}}
+{{StarshipClass
+|image=[[File:Awing-sag.jpg]]
+|name=RZ-1 A-wing interceptor
+|designer=[[General/Legends|General]] [[Jan Dodonna/Legends|Jan Dodonna]] with assistance from [[Walex Blissex/Legends|Walex Blissex]]<ref name="SM:CV">[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]</ref>
+|manufacturer=*[[Alliance Underground Engineering]]<ref name="AOR CB">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+*[[Incom Corporation/Legends|Incom Corporation]]<ref name="AOR CB" />
+|line=
+|model=RZ-1 A-wing [[Interceptor/Legends|interceptor]]
+|type=[[Starfighter/Legends|Starfighter]]<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|cost=175,000 [[Galactic Credit Standard/Legends|credits]]<ref name="Starships" />
+|modifier=
+|sysmods=
+|length=9.6 meters<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+|width=6.48 meters<ref name="BtM" />
+|height=*1.91 meters (fuselage only)<ref name="BtM" />
+*3.11 meters (including [[Stabilizer/Legends|stabilizers]])<ref name="BtM" />
+|mass=
+|max accel=*5,100 G<ref name="NEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+*21 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=120 MGLT<ref name="BtM" />
+|max speed=1,300 [[Kilometer per hour/Legends|km/h]] (higher speeds possible with deflector shields on)<ref name="BtM" />
+|maneuverability=96 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=[[Novaldex/Legends|Novaldex]] [[J-77 "Event Horizon" sublight engine/Legends|J-77 Event Horizon]] (2)<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+|hyperdrive=Class 1.0<ref name="FF" />
+|hdrange=
+|hdsystem=Incom [[GBk-785 hyperdrive]] unit<ref name="FF" />
+|poweroutput=
+|power=[[MPS/Legends|MPS]] [[Bpr-99 fusion reactor/Legends|Bpr-99 fusion reactor]]<ref name="SC">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref>
+|shield gen=[[Sirplex/Legends|Sirplex]] [[Z-9 deflector shield projector/Legends|Z-9 deflector shield projector]]<ref name="BtM" /> (rated 50 [[SBD/Legends|SBD]])<ref name="SC" /><ref name="XWA" />
+|hull=[[Titanium/Legends|Titanium]] alloy frame and [[Durasteel/Legends|durasteel]] outer hull<ref name="BtM" /> (rated 14 [[RU/Legends|RU]])<ref name="XWA" />
+|sensor=[[Fabritech/Legends|Fabritech]] [[ANs-7e sensor unit]] with [[PA-94 long-range phased tachyon detection array/Legends|PA-94 long range phased tachyon detection array]] and [[PG-7u short-range primary threat analysis grid/Legends|PG-7u short range primary threat analysis grid]]<ref name="SC" />
+|target=*[[Fabritech/Legends|Fabritech]] [[ANq 3.6 sensor computer/Legends|ANq 3.6 tracking computer]]<ref name="SC" />
+*[[IN-344-B "Sightline" holographic imaging system/Legends|IN-344-B "Sightline" holographic imaging system]]<ref name="SC" />
+|navigation=Microaxial [[LpL-449 navigation computer/Legends|LpL-449 navigation computer]] (2 jump range)<ref name="FF" />
+|avionics=[[Torplex/Legends|Torplex]] [[Rq9.Z advanced flight control avionics package|Rq9.Z flight control avionics]]<ref name="SC" />
+|maincomp=
+|countermeasures=*[[Miradyne Limited|Miradyne]] [[4x-Phantom Short-Range Sensor Jammer/Legends|4x-Phantom Short-Range Sensor Jammer]]
+*[[Chaff/Legends|Chaff]] or [[flare]] launcher<ref name="XWA" />
+|armament=*[[Borstel Galactic Defense/Legends|Borstel]] [[RG-9 laser cannon/Legends|RG-9 laser cannons]] (2)<ref name="BtM" />
+*[[Dymek/Legends|Dymek]] [[HM-6 Concussion Missile Launcher/Legends|HM-6 Concussion Missile Launchers]] (2)<ref name="BtM" />
+**6 [[Concussion missile/Legends|concussion missiles]] each<ref name="XWA" /> (standard load)<ref name="FF" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+|skeleton=
+|passengers=None<ref name="AOR CB" />
+|capacity=40 [[Kilogram/Legends|kilograms]]<ref name="BtM" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=[[Fijisi]] wood panels<ref name="Bacta War">''[[X-Wing: The Bacta War]]''</ref>
+|availability=
+|role=Interceptor<ref name="SWE">''[[Encyclopedia (StarWars.com)]]''</ref>
+|firstuse=
+|retired=
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="PrimaBF2" />
+*[[Alliance of Free Planets]]
+*[[Cloak (pirates)|Cloak]]<ref name="SWG:DCFD">{{SWGcite|exp=JtL|type=space|Destroy Cloak Fighters Duty|Corellian system}}</ref>
+*[[Confederation]]
+*[[Corellian Security Force]]<ref name="SWG:DHC">{{SWGcite|exp=JtL|type=space|Deliver Hutt Cargo|Dantooine system}}</ref>
+*[[Galactic Federation of Free Alliances]]<ref name="X:MK">''[[X-Wing: Mercy Kill]]''</ref>
+*[[Hidden Daggers]]<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+*[[Mercenary/Legends|Mercenaries]]<ref name="SWG:RotW">''[[Star Wars Galaxies: Rage of the Wookiees]]''</ref>
+*[[New Republic/Legends|New Republic]]<ref name="DFR">''[[Dark Force Rising]]''</ref>
+*[[Pirate/Legends|Pirates]]
+*[[Vylukh Clan]]<ref name="SWG:YS">{{SWGcite|exp=JtL|type=other|Yavin system}}</ref>
+*[[Zann Consortium/Legends|Zann Consortium]]<ref name="FoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+}}
+{{Quote|The A-wing is the fastest fighter we have, capable of matching a TIE Interceptor in speed.|[[General/Legends|General]] [[Carlist Rieekan/Legends|Carlist Rieekan]]|<ref name="RS I">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref>}}
+The '''RZ-1 A-wing interceptor''' was a [[Starfighter/Legends|starfighter]] designed by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. One of the fastest mass-produced [[Interceptor/Legends|interceptors]] in [[The galaxy/Legends|the known galaxy]], the A-wing was even faster than the Imperials' [[TIE/IN interceptor/Legends|TIE Interceptor]], despite also having shielding and a hyperdrive, unlike the cheaper TIE model.
+
+==Characteristics==
+[[File:Awing_egvv.jpg|thumb|left|200px|A-wing [[:Category:Technical drawing images|schematics]]]]
+The RZ-1 A-wing [[Interceptor/Legends|interceptor]] was a small, wedge-shaped craft with a central [[Cockpit/Legends|cockpit]] attached to twin engines. Like its [[Clone Wars/Legends|Clone Wars]] predecessor, the [[Eta-2 Actis-class interceptor/Legends|Eta-2]], the A-wing required [[Pilot/Legends|pilots]] of exceptional skill to take full advantage of the vessel's speed, agility, and special features.
+
+The A-wing's [[Novaldex/Legends|Novaldex]] [[J-77 "Event Horizon" sublight engine/Legends|J-77]] [[Engine/Legends|engines]]<ref name="DB">''[[StarWars.com]] [[Databank (original)|Databank]]''</ref> remained some of the most powerful sublight thrusters two decades after the A-wing's creation. However, the highly sensitive controls made the craft exceptionally difficult to handle. Pilots had to adjust the two dorsal and two ventral stabilizer wings with great care, as even a minor turn could send the A-wing into a massive spinout.
+
+The A-wing's wing-mounted laser cannons could rotate up and down sixty degrees for greater fire control thanks to a short [[hydro-servo bearing]] at the end of each wing tip. Some of A-wings even had their guns modified to swivel in a complete 360-degree arc, providing a surprise to any chasing fighter. However, the cannon mounts had a high rate of mechanical failure, and contributed to the fighter's extremely costly maintenance-to-flight ratio. This, among other reasons, contributed to the difficulty of keeping a squadron of A-wings operational for any length of time.<ref name="CCS" /><ref name="SWS">''[[The Star Wars Sourcebook]]''</ref>
+
+The combination of sensitive controls, unmatched sublight thrust, maneuverable weapon systems, advanced sensory and stealth packages, and fragility, strained even the best pilots. In addition, the A-wing had no [[Astromech droid/Legends|astromech droid]] to manage its weapons systems, requiring pilots to split their attention between flying the craft, & operating the weapon systems.
+
+The craft had an access panel on the forward bow, and carried two [[Dymek/Legends|Dymek]] [[HM-6 Concussion Missile Launcher/Legends|HM-6 Concussion Missile Launchers]] along the sides. Each launcher was capable of launching 6 concussion missiles.<ref name="CCS" /> Thrust control jets were at the rear of the craft, just behind the rear [[Sirplex/Legends|Sirplex]] [[Z-9 deflector shield projector/Legends|Z-9 deflector shield projector]]. The engines, capable of propelling the starfighter to up to 1300 [[Kilometer/Legends|kilometers]] per [[Standard hour/Legends|hour]] and 120 [[Megalight|MGLT]], were placed in the aft of the craft and had thrust vector controls. The A-wing carried a sensor [[Jammer/Legends|jamming unit]],<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref> including a [[Fabritech/Legends|Fabritech]] [[ANs-7e sensor unit]] with [[PA-94 long-range phased tachyon detection array/Legends|PA-94 long range phased tachyon detection array]] and [[PG-7u short-range primary threat analysis grid/Legends|PG-7u short range primary threat analysis grid]], along with targeting systems in the form of a [[Fabritech/Legends|Fabritech]] [[ANq 3.6 sensor computer/Legends|ANq 3.6 tracking computer]] and an [[IN-344-B "Sightline" holographic imaging system/Legends|IN-344-B "Sightline" imaging system]]<ref name="SC" /> The avionics were a [[Torplex/Legends|Torplex]] [[Rq9.Z advanced flight control avionics package|Rq9.z flight control]] system.<ref name="SC" /> The craft carried one [[Pilot/Legends|pilot]] and up to 40 [[Kilogram/Legends|kilograms]] of cargo.<ref name="RS I guide" />
+
+<div style="float:right">[[File:ProtonRocket--XWMRebAces.png|thumb|200px|An A-wing firing a [[Proton rocket/Legends|proton rocket]]]]</div>
+The weapons carried on-board, including [[advanced concussion missile]]s, gave the craft the power to engage large targets<ref name="RS III guide">''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''</ref> up to and including [[Imperial-class Star Destroyer/Legends|Imperial Star Destroyers]].<ref name="RS I guide" />
+
+Many of the starfighters were produced in underground factories, and at least one at the [[Battle of Endor/Legends|Battle of Endor]] had [[fijisi]] wood panels.<ref name="Bacta War" /> The A-wings were maintenance-heavy and prone to breakdowns, although the sensor jammers and concussion weapons were effective in lightning raids.<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+
+Although a capable starfighter, the a-wing was especially notable for its intelligence-gathering and reconnaissance missions, in large part because of its hyperdrive capability, speed, and maneuverability. The ship was littered with concealed multi-spectral imagers and other sensors, which allowed it to gather information about an enemy. These abilities were further enhanced by its sensor-jamming system, which was powerful enough to disrupt detection and targeting systems of TIE fighters and other small vessels, although they were ineffective against capital ships, and acted as a double-edged sword due to the jamming system giving a precise lock on the fighter if detected by the enemy. As such, experienced pilots learned to drop out of hyperspace close to an enemy fleet or space-installation, make a blistering run around (or even through) the enemy formation, using the A-wing's on-board imagers and sensors to gather information, and then escape to hyperspace before being detected.<ref name="CCS" />
+
+The A-wing's wedge-shaped prow was fitted with a reinforced heat shield. Although this was intended to protect the craft during atmospheric entry, it also acted as a makeshift battering ram. However, this ramming maneuver was largely used by pilots as a last resort, with the pilots relying on the nose wedge to breach an enemy ship's hull and either cripple or outright destroy it.<ref name="CCS" /> This tactic was famously demonstrated by [[Arvel Crynyd/Legends|Arvel Crynyd]] during the [[Battle of Endor/Legends|Battle of Endor]], where he rammed the bridge of the Star Dreadnought ''Executor''.<ref name="SWE6">{{Film|VI}}</ref>
+
+==History==
+===Development===
+[[File:CCS_A-wing.jpg|thumb|left|200px|A-wing cross-section.]]
+[[General/Legends|General]] [[Jan Dodonna/Legends|Jan Dodonna's]] after action review of the [[Battle of Yavin/Legends|Battle of Yavin]] affirmed the value of Alliance starfighters, but also highlighted that a simple trio of [[TIE series/Legends|TIE]] starfighters had almost foiled the [[Battle of Yavin/Legends|trench run]]. Dodonna planned to create a dedicated Alliance interceptor, in anticipation of a similar analysis by the [[Imperial Navy/Legends|Imperial Navy]]; indeed, [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] accelerated work on an updated [[TIE/IN interceptor/Legends|TIE Interceptor]] which would match the A-wing's speed.
+
+To design the starfighter, Dodonna turned to [[Walex Blissex/Legends|Walex Blissex]], famed ex-[[Kuat Systems Engineering/Legends|Kuat Systems Engineering]] engineer. Blissex brought valuable experience from work on the Clone Wars-era [[Delta-7 Aethersprite-class light interceptor/Legends|Delta-7 ''Aetherspite''-class light interceptor]] and [[Alpha-3 Nimbus-class V-wing starfighter/Legends|Alpha-3]] interceptors. The pair based initial designs on the [[R-22 Spearhead starfighter|R-22 Spearhead]], already nicknamed by pilots as "A-wings" per the ''-wing'' naming convention for other Rebel craft, of which two had fought at Yavin. They formed [[Alliance Underground Engineering]],<ref name="DB" /> and worked with pilot [[Jake Farrell/Legends|Jake Farrell]]<ref name="EGW" /> in improving a [[Tammuz-an/Legends|Tammuz-an]] design.<ref name="DB" /> It was additionally based off the Delta-7.<ref name="AOR CB" />
+
+===Early production===
+[[File:Awing-NEGVV.png|thumb|180px|An A-wing, view on its engines.]]
+The reduced budget forced Dodonna and Blissex to substantially modify the original design. Blissex redrafted to use components readily available from [[Ordnance and Supply/Legends|Ordnance and Supply Command]], pushing each beyond factory specifications.
+
+The earliest A-wings were hand-assembled at Alliance facilities like [[Cardooine/Legends|Cardooine]] and [[Chardaan Shipyards]]. This resulted in interesting modifications; some fighters incorporated actual wood furnishings for the cockpit interior, such as the one that Rogue Squadron pilot Tycho Celchu flew during the Battle of Endor.<ref name="Bacta War" /> In [[0 ABY/Legends|0 ABY]], the [[Soaring Dactillions]] were assigned the prototypes to fly at the Cardooine [[Rebel base (Cardooine)|Rebel base]]. After a [[Standard week/Legends|week]], they came under [[Assault on Cardooine|attack]] by the Empire, and the Dactillions flew the fighter in battle. Although they proved that the starfighter had superb qualities, only two of the pilots survived.<ref name="Zal">[[Takeover at Whisper Base (adventure)|''Takeover at Whisper Base (Adventure Book)'']] Zal Ace Character Folio</ref>
+
+More serious was the slow production rate, allowing the fielding of just a few full squadrons. Only one full unit, [[Green Squadron (Rebel Alliance)/Legends|Green Squadron]], was present at the [[Battle of Endor/Legends|Battle of Endor]] in [[4 ABY/Legends|4 ABY]]. Elsewhere, A-wings were issued to a handful of crack units, like [[Nomad Squadron]] and [[Pash Cracken/Legends|Pash Cracken's]] wing.
+
+===Operational deployment===
+{{Quote|Any pilot who volunteers to fly an A-wing better be brave or crazy. Probably helps to be a little of both.|General [[Han Solo/Legends|Han Solo]]|<ref name="NEGVV" />}}
+The Rebel Alliance acquired some A-wings at some point after the Battle of Yavin, which they eventually used for the first time when [[Ison Corridor ambush|ambushed]] by Imperial forces in the [[Ison Trade Corridor/Legends|Ison Corridor]].<ref name="RS II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+
+[[File:ObjectsInViewportAreCloserThanTheyAppear-ROTJ.png|thumb|left|250px|Arvel Crynyd steers his A-wing into the bridge of ''Executor'' during the Battle of Endor.]]
+The Rebel's [[Rogue Squadron/Legends|Rogue Squadron]] employed A-wings during the [[Search for the Nonnah|search]] for the starship ''[[Nonnah]]''<ref name="RS I guide" /> around six months after the Battle of Yavin.<ref name="RS I guide" /> The squadron also employed it during a [[Battle above Taloraan|battle above]] Taloraan.<ref name="RS I" /> [[Wedge Antilles/Legends|Wedge Antilles]] flew it during a [[Raid on Bespin|raid]] on [[Bespin/Legends|Bespin]],<ref name="RS II" /> and also flew the starfighter during a [[Mission to Destrillion|strike]] at [[Destrillion]].<ref name="RS III">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref> Rebel pilot [[Ace Azzameen/Legends|Ace Azzameen]] also flew the A-wing during a number of missions with the [[Alliance Fleet/Legends|Alliance Fleet]].<ref name="XWA" /> A lone A-wing piloted by [[Arvel Crynyd/Legends|Arvel Crynyd]] played a major role when it helped to destroy the [[Executor-class Star Dreadnought/Legends|Star Dreadnought]] [[Executor/Legends|''Executor'']] during the Battle of Endor, by ramming its bridge, causing the entire ship to fall and crash into the second Death Star.<ref name="SWE6" />
+
+The A-wing was also used by the Alliance's successor as galactic government: the [[New Republic/Legends|New Republic]].<ref name="DFR" /> In [[8 ABY/Legends|8 ABY]], Rogue Squadron pilot [[Tycho Celchu/Legends|Tycho Celchu]] led [[Surprise Squadron]] at the [[Taking of Kuat|capture]] of [[Kuat/Legends|Kuat]]. Their A-wings were equipped with experimental ion torpedoes. The mission was a success and the massive [[Shipyard/Legends|shipyards]] [[Orbit/Legends|orbiting]] Kuat fell into New Republic hands.<ref name="EGW" />
+
+A-wings also participated in the [[Battle of Calamari|attack]] on [[Dac/Legends|Mon Calamari]], where several were destroyed by [[World Devastator]]s.<ref name="RS I" />
+
+In [[13 ABY/Legends|13 ABY]], A-wings were stationed on [[Coruscant/Legends|Coruscant]]. Gold-striped craft escorted [[Kir Kanos]]' shuttle to a landing pad when it entered restricted airspace near the [[Imperial Palace/Legends|Royal Palace]]. A-wings were also assigned to General [[Han Solo/Legends|Han Solo's]] fleet for [[Battle of Pallaxides|mop-up operations]] around that time. A contingent of A-wings was also carried on-board a Mon Calamari Star Cruiser captained by [[Lar Ndigo]], who was assigned to Solo's fleet and was detached to reconnoiter the planetoid [[RZ7-6113-23]]. The A-wings fought off attacking [[Restored Empire]] [[Alpha-3 Nimbus-class V-wing starfighter/Legends|V-Wing starfighters]] during the ensuring [[Battle of RZ7-6113-23|battle]] over the planetoid.<ref name="CE III">''[[Star Wars: Crimson Empire III: Empire Lost]]''</ref>
+
+Later, after the peace treaty with the Galactic Empire, A-wings were flown by pilots of [[Kyp's Dozen]] to hunt [[Smuggler/Legends|smugglers]] before the squadron was decimated by [[Yuuzhan Vong]] pilots.<ref name="VP">''[[The New Jedi Order: Vector Prime]]''</ref>
+
+In [[44 ABY]], two A-wings were assigned to the [[Galactic Alliance Starfighter Command]] contingent at [[Skifter Station]] [[Orbit/Legends|orbiting]] [[Kuratooine]].<ref name="X:MK" />
+
+[[File:AwingSpaceBattle-SWI40.jpg|thumb|right|180px|An A-wing in battle]]
+Though it had been designed to defend immobile stations or slow-moving Alliance starships from starfighter raids, the A-wing was pressed into service as a quick-strike fighter as part of the post-Yavin Alliance strategy of guerrilla warfare. Using its impressive straight-line acceleration and advanced jamming package, A-wings were able to hit targets before they could respond, and then flee before any defense could be organized.
+
+This change found its apex in a devastating tactic known as the [[A-wing Slash/Legends|A-wing Slash]] which was developed by [[General/Legends|General]] [[Garm Bel Iblis/Legends|Garm Bel Iblis]]. A group of [[T-65 X-wing starfighter/Legends|X-wings]] would approach an Imperial convoy, hiding a number of A-wings in their drive exhaust. The X-wings would then pull away, diverting attention away from the speedy A-wings, which could launch HM-6 [[Concussion missile/Legends|concussion missiles]] against the convoy and pull away.
+
+[[File:A-wing2.jpg|thumb|left|180px|An A-wing in action.]]
+The A-wing also found use in reconnaissance missions, and would become a favorite among Fleet Intelligence and [[Alliance Intelligence/Legends|Alliance Intelligence]] operatives for its speed. A team of A-wings could exit [[Hyperspace/Legends|hyperspace]] near an Imperial objective, begin jamming enemy sensors, draw scans and [[Hologram/Legends|holographic]] imagery, and retreat before being detected. If it was detected, the pilots could easily outrun any pursuers, ensuring the safety of the pilots and the intelligence.
+
+While the A-wing became popular for "hit-and-fade" raids and reconnaissance duty, it was required to operate from a nearby base of operations or carrier ship because of its navigational computer's limitations, which could only store coordinates for two hyperspace jumps before requiring calibration.
+
+The TIE/IN interceptor, better known as the TIE Interceptor, was perhaps the Empire's closest equivalent to the A-wing. The Interceptor had two more laser cannons and better agility which gave it an edge in a dogfight, but its lack of shields and warhead launchers limited its durability and tactical usage. The Interceptor was (like all mass-produced TIEs) generally available in larger numbers, but A-wing pilots tended to be more skilled as they had a higher survival rate than their Interceptor counterparts. In a pure chase, the A-wing could outrun the Interceptor, however this was only if the A-wing was undamaged. Later Imperial starfighters such as the [[TIE/ad starfighter|TIE Avenger]], [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE Defender]], and [[Missile Boat]] were easily more than a match for the A-wing, however they were never mass-produced due to turmoil in the Imperial Navy.
+
+===Replacement===
+[[File:Awings_dfr.jpg|thumb|right|180px|A-wings in a skirmish during the [[Mitth'raw'nuruodo/Legends|Thrawn]] campaign.]]
+Shortly after the Battle of Endor, the [[Mark II A-wing]] entered production. While A-wings were originally built on an individual basis by the Alliance itself, the Mark II was mass produced by the [[Incom Corporation/Legends|Incom Corporation]]. One notable alteration was that the laser cannons of the A-wing Mark II were configured for full 360-degree rotation.
+
+The value of a high speed interceptor was clear, but the A-wing had major defensive and navigational limitations. Thus, new starfighters like the [[E-7 E-wing multi-role starfighter|E-wing]] or T-65AC4 X-wing were created with comparable speed, but some models were given heavier shields and armor, [[Astromech droid/Legends|astromech]] compatibility, and more powerful weapons. Despite the introduction of newer starfighters and efforts to standardize fleet operations, the A-wing's exceptional design allowed it to endure through the [[Yuuzhan Vong War]].
+
+==Behind the scenes==
+Production paintings for [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']] show the A-wing painted in blue markings, but these were changed to red to allow the models to be filmed for bluescreen. According to the [[Star Wars: X-Wing (video game)|''X-wing'']] games, red signifies [[Red Squadron (Rebel Alliance)/Legends|Red Squadron]]. A-wings from other squadrons bear their respective color. One Star Wars Action Fleet A-wing model has green markings instead of red, supporting this claim.
+
+[[File:MCQ-awing.jpg|thumb|left|200px|A-wing concept art by [[Ralph McQuarrie]].]]
+The craft was originally known only as "A fighter" during the production of ''Return of the Jedi''.
+
+A-wings appear in the games ''[[Star Wars: Empire at War]]'', ''Star Wars: X-wing'', ''[[Star Wars: Rebel Assault]]'' and the [[Star Wars: Droids: The Adventures of R2-D2 and C-3PO|''Droids'']] animated series; however, these are set years before the A-wing is stated to have been developed, making it an anomaly. All these pre-Yavin A-wing instances have been [[Retroactive continuity|retconned]] into [[R-22 Spearhead starfighter|R-22 Spearheads]].
+
+Like other ships ([[Executor/Legends|''Executor'']], for example), the size of the A-wing is in dispute. Fans argue that the 9.6 meters and the derived width and height are too big, because visual evidence from ''Return of the Jedi'' seems to suggest the A-wing is very small compared to other starfighters; close-up shots of A-wing pilots show that the cockpit is cramped, and suggest the entire ship cannot be very large.
+
+A size analysis of the studio model used for ''Return of the Jedi'' suggests that the length of the ship is half as long as the documented 9.6 meters. [[Star Wars Technical Journal of the Rebel Forces]] states the model is 60 cm long and the pilot figure a 1/8 scale action figure, which results into a length of 4.8 meters. However, it should be noted that it is entirely possible the 1/8 figure was only used because it fit in the cockpit of the model.
+
+Another way to determine the size by comparing the headroom of the pilot with the relative size of the cockpit to the entire fighter, would be to compare the cockpit film set with the studio model.
+
+The size comparison chart found in the 2011 reference book ''[[Millennium Falcon Owner's Workshop Manual]]'' also depicts an RZ-1 A-wing. By using the well documented sizes of the [[Millennium Falcon/Legends|''Millennium Falcon'']] and the [[T-65 X-wing starfighter/Legends|X-wing]] as a scale, the resulting A-wing size is roughly 7.0 meters.
+
+Although it is unknown on what the original 9.6 meter figure is based on, like the issue on [[Home One/Legends|''Home One'']], the official length remains 9.6 meters until a canon source states otherwise.
+
+The weapons payload of the A-wing varies from source to source, with some not having the concussion missile launchers, and some saying that the laser cannons are actually blaster cannons. In ''[[Star Wars: Battlefront II]]'' for example, A-wings are armed with repeating laser cannons and homing cluster missiles.
+
+[[The LEGO Group]] made several sets of the A-wing. The first was 7134 "A-Wing Fighter" from [[2000]]. The second is 6207 "A-Wing Fighter" from [[2006]]. Both A-wings have [[Red Squadron (Rebel Alliance)/Legends|Red Squadron]] markings. Finally, the third set to have an A-wing was 7754 "Home One Mon Calamari Star Cruiser" from [[August]] [[2009]]. Unlike the previous A-wings, this one sported [[Green Squadron (Rebel Alliance)/Legends|Green Squadron]] markings. In January of [[2013]] a fourth A-Wing was released, the [http://lego.wikia.com/wiki/75003_A-Wing_Starfighter 75003 A-Wing] with a pilot with a more realistic helmet.
+
+==Appearances==
+{{ScrollBox|content=
+[[File:AWanatomy.gif|thumb|A-wing animated schematics.]]
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*{{JournalCite|11|The Ando Project}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*''[[Star Wars Missions 4: Destroy the Liquidator]]''
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Rebellion 2|''Rebellion'' 2]]
+*[[Rebellion 5|''Rebellion'' 5]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*''[[Introductory Adventure Game]]''
+*[[Black Ice (adventure)|''Black Ice'']]
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}} {{Po}}
+*''[[Onslaught at Arda I]]''
+*{{WEGCite|story=Showdown (The Bissillirus Campaign)|book=Star Wars Gamemaster Kit|reprint=1}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{JournalCite|2|A World to Conquer}} {{Mo}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}} {{1st|in book}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*''[[The Truce at Bakura]]''
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]]
+*[[X-Wing: Rogue Leader 2|''X-Wing: Rogue Leader'' 2]]
+*[[X-Wing: Rogue Leader 3|''X-Wing: Rogue Leader'' 3]]
+*''[[X-Wing Rogue Squadron Special]]'' {{Flash}}
+*[[X-Wing Rogue Squadron 13|''X-Wing Rogue Squadron'' 13]]
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]] {{Mo}}
+*[[X-Wing Rogue Squadron 23|''X-Wing Rogue Squadron'' 23]]
+*[[X-Wing Rogue Squadron 26|''X-Wing Rogue Squadron'' 26]]
+*''[[Luke Skywalker and the Shadows of Mindor]]''
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*[[Crimson Empire 4|''Crimson Empire'' 4]]
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Crimson Empire 6|''Crimson Empire'' 6]]
+*[[Crimson Empire II: Council of Blood 1|''Crimson Empire II: Council of Blood'' 1]]
+*[[Crimson Empire II: Council of Blood 3|''Crimson Empire II: Council of Blood'' 3]]
+*[[Crimson Empire II: Council of Blood 4|''Crimson Empire II: Council of Blood'' 4]]
+*[[Crimson Empire II: Council of Blood 5|''Crimson Empire II: Council of Blood'' 5]]
+*[[Crimson Empire II: Council of Blood 6|''Crimson Empire II: Council of Blood'' 6]]
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[X-Wing: Starfighters of Adumar]]''
+*''[[Planet of Twilight]]''
+*[[Crimson Empire III: Empire Lost 3|''Crimson Empire III: Empire Lost'' 3]]
+*[[Crimson Empire III: Empire Lost 4|''Crimson Empire III: Empire Lost'' 4]]
+*''[[Tyrant's Test]]''
+*''[[The New Rebellion]]''
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[The New Jedi Order: Vector Prime]]''
+*''[[The New Jedi Order: Agents of Chaos II: Jedi Eclipse]]''
+*''[[The New Jedi Order: Edge of Victory I: Conquest]]''
+*"[[Emissary of the Void]]" {{Reprint|Emissary of the Void}}
+*''[[The New Jedi Order: Edge of Victory II: Rebirth]]'' {{Mo}}
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Ylesia]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*''[[The New Jedi Order: The Final Prophecy]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Betrayal]]'' {{Mo}} {{C|used to refer to [[Eta-5 interceptor]]}}
+*''[[Legacy of the Force: Tempest]]'' {{Mo}}
+*''[[Legacy of the Force: Fury]]'' {{Mo}}
+*''[[Fate of the Jedi: Outcast]]'' {{Ab|Fate of the Jedi: Outcast (audiobook)}}
+*''[[Fate of the Jedi: Backlash]]'' {{Ab|Fate of the Jedi: Backlash (audiobook)}} {{Mo}}
+*''[[X-Wing: Mercy Kill]]'' {{Ab|X-Wing: Mercy Kill (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-12-12 -->{{Tales|10|A Wookiee Scorned!}}
+*<!-- 2013-05-02 -->[[LEGO Star Wars: The Yoda Chronicles (video game)|''LEGO Star Wars: The Yoda Chronicles'' video game]]
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of RZ-1 A-wing interceptors}}
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1985-XX-XX -->{{KennerCite|set=Star Wars: Droids (toy line)|pack=A-wing Fighter|nobackup=1}}
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->''[[X-Wing: The Official Strategy Guide]]''
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]'' {{Po}}
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|The Free-Trader's Guide to Sevarcos|reprint=1}}
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1994-11-XX -->{{JournalCite|4|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-11-XX -->{{JournalCite|8|The Gree Enclave|reprint=1}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=A-wing}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->{{KennerCite|set=Star Wars: The Power of the Force (1995 toy line)|pack=A-wing Fighter|link=potf2awing.asp}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]'' {{Po}}
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=A-wing}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=A-wing Cannon}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=General Walex Blissex}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Green Squadron 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Green Squadron 3}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Green Squadron A-wing}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Green Squadron Pilot}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Head Back To The Surface}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Home One'': Docking Bay}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Intensify The Forward Batteries}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Staging Areas}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Tycho Celchu}}
+}}
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Diversionary Tactics}}
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-03-27 -->{{FactFile|13|AWI 1-2|A-Wing Starfighter}}
+*<!-- 2002-04-23 -->''[[The New Essential Guide to Characters]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_awing.jsp|text=A-Wing}}
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_interceptor.jsp|text=TIE Interceptor}}
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-05-17 -->{{Hyperspace|url=hyperspace/member/photoreceptor/2005/05/photoreceptor20050517.html|series=Photoreceptor|text=A-wing Ace}}
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66867&resource=features|text=Ships: A-Wing}}
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66877&resource=features|text=Ships: TIE Interceptor (all)}}
+*<!-- 2006-10-18 -->{{Hyperspace|url=hyperspace/member/galactic/2006/10/galactic20061018.html|series=Galactic Gallery|text=Into the Superstructure}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-06-19 -->{{PocketModel|set=Base Set|cardname=Green Squadron A-wing|link=http://www.swpocketmodels.com/images/ship07a.jpg}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+<!-- 2008-05-28 -->{{CardGameSet|set={{PocketModel|set=Scum & Villainy|parent=1}}|cards=
+*<!-- 2008-05-28 -->{{PocketModel|set=Scum & Villainy|cardname=Green Squadron A-wing|link=http://www.swpocketmodels.com/images/shipsv11a.jpg}}
+*<!-- 2008-05-28 -->{{PocketModel|set=Scum & Villainy|cardname=Green Squadron A-wing|link=http://www.swpocketmodels.com/images/shipsv11b.jpg}}
+*<!-- 2008-05-28 -->{{PocketModel|set=Scum & Villainy|cardname=Tycho Celchu's and Arvel Crynyd's A-wings}}
+}}
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Emergency Thrust}} {{Po}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-08-XX -->{{SideshowCite|set=Militaries of Star Wars|packtype=Sixth Scale Figure|pack=Admiral Piett (Imperial Officer, ''Executor'')|altlink=https://www.rebelscum.com/SSC16Piett.asp}}
+*<!-- 2009-12-15 -->{{SWGTCG|set=The Nightsister's Revenge|cardname=A-wing}}
+*<!-- 2010-03-05 -->{{Hyperspace|url=hyperspace/source/writtenword/index.html?page=1|text=The Written Word|int=The Written Word}}
+*<!-- 2011-09-13 -->{{DB|starship|awingstarfighter|A-wing starfighter}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-02-20 -->''[[Star Wars: Beware the Sith]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=A-Wing|link=core/a-wing-core-9-4}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Heroic Sacrifice|link=core/heroic-sacrifice-core-12-6}} {{Po}}
+}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=A-Wing Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Arvel Crynyd}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Green Squadron Pilot|reprint=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Prototype Pilot|reprint=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Push the Limit|reprint=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Tycho Celchu}}
+}}
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2013-09-24 -->{{SW|url=news/the-starwars-com-10-best-starfighters|text=The StarWars.com 10: Best Starfighters}}
+*<!-- 2013-12-10 -->{{InsiderCite|146|Rogues Gallery|Rogues Gallery: Clearance for Immediate Launch|reprint=1}}
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fully Armed|link=balance-of-the-force/fully-armed-balance-of-the-force-d01-56}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Rapid Fire|link=balance-of-the-force/rapid-fire-balance-of-the-force-92-5}} {{Po}}
+}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]]
+*<!-- 2014-04-25 -->{{SWE|technology|awingfighter|A-wing fighter}}
+*<!-- 2014-04-25 -->{{SWE|groups|rebelalliance|Rebel Alliance}}
+*<!-- 2014-04-25 -->{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*<!-- 2014-04-25 -->{{SWE|technology|ywing|Y-wing starfighter}}
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=Knave Squadron Pilot}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+<!-- 2014-07-24 -->{{CardGameSet|set={{FFGTCG|set=It Binds All Things|parent=1}}|cards=
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Evasive Maneuvers|link=echoes-of-the-force-cycle/it-binds-all-things/evasive-maneuvers-r773}} {{Po}}
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Green Squadron A-Wing|link=echoes-of-the-force-cycle/it-binds-all-things/green-squadron-a-wing-r771}}
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Green Squadron Deployment|link=echoes-of-the-force-cycle/it-binds-all-things/green-squadron-deployment-r769}} {{Po}}
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Rebel Fighter Bay|link=echoes-of-the-force-cycle/it-binds-all-things/rebel-fighter-bay-r772}} {{Po}}
+}}
+<!-- 2014-09-25 -->{{CardGameSet|set={{FFGXW|set=Rebel Aces Expansion Pack}}|cards=
+*<!-- 2014-09-25 -->{{FFGXW|set=Rebel Aces Expansion Pack|cardname=A-wing Test Pilot}}
+*<!-- 2014-09-25 -->{{FFGXW|set=Rebel Aces Expansion Pack|cardname=Chardaan Refit}} {{Po}}
+*<!-- 2014-09-25 -->{{FFGXW|set=Rebel Aces Expansion Pack|cardname=Gemmer Sojan}}
+*<!-- 2014-09-25 -->{{FFGXW|set=Rebel Aces Expansion Pack|cardname=Jake Farrell}}
+*<!-- 2014-09-25 -->{{FFGXW|set=Rebel Aces Expansion Pack|cardname=Proton Rockets|reprint=1}} {{Po}}
+}}
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-02-26 -->{{FFGXW|set=StarViper Expansion Pack|cardname=''Virago''}} {{Po}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=CR90 Corvette A|reprint=1}} {{Po}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Assault Frigate Mark II Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=Advanced Projectors|reprint=1}} {{Po}}
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=Assault Frigate Mark II B}} {{Po}}
+}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Rebel Fighter Squadrons Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Rebel Fighter Squadrons Expansion Pack|cardname=A-wing Squadron}}
+*<!-- 2015-05-14 -->{{Armada|set=Rebel Fighter Squadrons Expansion Pack|cardname=Tycho Celchu|subtitle=A-wing Squadron}}
+}}
+*<!-- 2015-06-18 -->''[[Desperate Allies]]''
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2016-08-18 -->''[[Forged in Battle]]''
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Knave Squadron Escort}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Daredevil|reprint=1}} {{Po}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|A-wing}}
+
+{{Interlang
+|cs=Stíhačka_RZ-1_A-wing/Legendy
+|de=RZ-1 A-Flügel Abfangjäger
+|es=Interceptor_RZ-1_Ala-A/Leyendas
+|fi=RZ-1 A-siipinen torjuntahävittäjä
+|fr=A-Wing_RZ-1/Légendes
+|hu=RZ-1 A-szárnyú elfogóvadász
+|nl=RZ-1 A-Wing Interceptor
+|no=RZ-1 A-wing Nærjager
+|pl=A-wing
+|pt=Legends:Interceptador_RZ-1_A-wing
+}}
+
+[[Category:A-wing starfighter models]]
+[[Category:Incom Corporation products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the New Republic]]

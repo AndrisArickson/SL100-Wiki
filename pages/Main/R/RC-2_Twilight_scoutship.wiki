@@ -1,0 +1,78 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Rc-2-lecg.jpg]]
+|name=RC-2 Twilight scoutship
+|designer=
+|manufacturer=[[Incom Corporation/Legends|Incom Corporation]]<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+|line=
+|model=RC-2 Twilight scoutship<ref name="LECG" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="LECG" />
+|cost=275,000 [[Galactic Credit Standard/Legends|credits]] (125,000 used)<ref name="LECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,200 km/h<ref name="LECG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 1<ref name="LECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="LECG" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="LECG" />
+|avionics=
+|maincomp=
+|countermeasures=Advanced jamming suite<ref name="LECG" />
+|armament=*[[Laser cannon/Legends|Laser cannons]]<ref name="LECG" />
+*Proton torpedo launcher<ref name="LECG" />
+**2 [[Proton torpedo/Legends|proton torpedoes]]<ref name="LECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="LECG" />
+|skeleton=
+|passengers=2<ref name="LECG" />
+|capacity=100 kg<ref name="LECG" />
+|cargohandling=
+|consumables=2 weeks<ref name="LECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="LECG" />
+|role=Scout
+|firstuse=
+|retired=
+|affiliation=[[Galactic Federation of Free Alliances]]<ref name="LECG" />
+}}
+The '''RC-2 Twilight''' was a large [[starfighter]] that was primarily used for scouting and reconnaissance.<ref name="LECG" />
+
+==Characteristics==
+Produced by Incom, the RC-2 was a favorite among recon units, and incorporated advanced stealth technology originally used in the [[StealthX]].<ref name="LECG" /> Featuring a large cockpit that allowed the pilot to move around during long missions, the RC-2 was able to carry up to two extra passengers, who could operate sensor stations within the ship's cockpit.<ref name="LECG" />
+
+Operationally the RC-2 relied on its stealth and speed to compensate for its low armor, shielding, and weaponry, with the RC-2 making use of several active and passive technologies in order to survive in the field.<ref name="LECG" /> Notably, the RC-2 made use of a dispersive coating that reduced the ship's [[sensor]] reflectivity as well as dampened its heat signature; this coating was further painted a mottled pattern of dark gray and black hues, lightly speckled with white dots, which enabled the RC-2 to blend into the starfield of open space.<ref name="LECG" /> Further, the RC-2's [[ion engine]]s were tailor made for the craft, and were similar to that of a [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]] - small, with minimal engine glow to betray position.<ref name="LECG" />
+
+Altogether, when it had its engines shut down and the sensors in passive mode, the RC-2 was considered extremely difficult to detect.<ref name="LECG" /> Should the craft be detected, the RC-2 could make use of a limited jamming field that could disrupt enemy sensors and targeting computers, while a pair of powerful torpedoes enabled it to make effective surprise attacks.<ref name="LECG" />
+
+==Sources==
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=RC-2 Twilight-Scoutschiff
+|es=Nave de exploración RC-2 Crepúsculo
+}}
+
+[[Category:Incom Corporation products]]
+[[Category:Scout starship classes]]
+[[Category:Starfighter classes]]
