@@ -1,0 +1,71 @@
+{{Top|title=''Scout''-class 2-M repulsor tank}}
+{{RepulsorliftVehicle
+|image=[[File:SC2-M_Repulsor_Tank.jpg]]
+|name=''Scout''-class 2-M repulsor tank
+|designer=
+|manufacturer=[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="FiB">''[[Forged in Battle]]''</ref>
+|line=[[Saber-class assault tank|''Saber''-class assault tank]]<ref name="FiB" />
+|model=''Scout''-class 2-M Repulsor Tank<ref name="FiB" />
+|type=[[Hovertank/Legends|Repulsortank]]<ref name="FiB" />
+|cost=65,000 credits<ref name="FiB" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=3 meters<ref name="FiB" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Light [[Blaster cannon/Legends|blaster cannons]] (2)<ref name="FiB" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot (1)<ref name="FiB" />
+*Gunner (1)<ref name="FiB" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Scout/Legends|Scout]] vehicle<ref name="FiB" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="FiB" />
+}}
+The '''''Scout''-class 2-M repulsor tank''' or simply '''SC2-M Repulsor Tank''' was a ground-based [[Hovertank/Legends|fighter tank]] produced by [[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]] and used by the [[Galactic Empire/Legends|Galactic Empire]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. It was a [[Scout/Legends|scout]] variant of the [[2-M Saber-class repulsor tank/Legends|2-M ''Saber''-class repulsor tank]].<ref name="FiB" />
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 2015-08-01 -->{{FantasyFlightGames|url=en/news/2015/8/1/return-to-hoth|text=Return to Hoth}}
+*<!-- 2015-11-02 -->{{FantasyFlightGames|url=en/news/2015/11/2/the-killing-cold|text=The Killing Cold}}
+*<!-- 2015-12-23 -->{{FantasyFlightGames|url=en/news/2015/12/23/back-on-the-ice|text=Back on the Ice}}
+*<!-- 2015-12-23 -->{{SWIA|set=Return to Hoth}} {{1st}}
+*<!-- 2016-08-18 -->''[[Forged in Battle]]'' {{1stID|''Scout''-class 2-M repulsor tank}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Tanque Repulsor SC2-M clase Explorador
+}}
+
+[[Category:Saber-class assault tank models]]
+[[Category:Vehicle classes of the Galactic Empire]]

@@ -1,0 +1,168 @@
+{{Top|fga}}
+{{GroundVehicle
+|image=[[File:SPHA-SWCTP.png]]
+|name=Self-Propelled Heavy Artillery
+|designer=
+|manufacturer=[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="AOTC:ICS">''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''</ref><ref name="Wizards">{{Wizards|url=default.asp?x=starwars/article/sw20031204sphat|text=SPHA-T: An Expanded Universe Vehicle from ''The New Essential Guide to Vehicles & Vessels''}}</ref><ref name="db">{{DB|vehicle|sphat|Self Propelled Heavy Artillery - Turbolaser (SPHA-T walker)}}</ref><ref name="FF68">{{FactFile2014|68|SPH 1-2|Self-propelled Heavy Artillery-Turbolaser}}</ref>
+|line=
+|model=Self-Propelled Heavy Artillery<ref name="AOTC:ICS" /><ref name="Wizards" /><ref name="FF68" />
+|type=*[[Walker/Legends|Walker]]<ref name="AOTC:ICS" /><ref name="Wizards" /><ref name="db" /><ref name="FF68" />
+*Mobile [[Artillery/Legends|artillery]]<ref name="AOTC:ICS" />
+|cost=
+|modifier=
+|sysmods=
+|length=40.15 [[Meter/Legends|meters]]<ref name="SWCP">''[[Star Wars Chronicles: The Prequels]]''</ref>
+|width=
+|height=20.6 meters<ref name="TNEG">''[[The New Essential Guide to Vehicles and Vessels]]''</ref><ref name="FF68" />
+|mass=
+|max accel=
+|speed=35 [[Kilometer per hour/Legends|km/h]]<ref name="Wizards" /><ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref><ref name="FF68" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="Wizards" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Main weapon (1)<ref name="db" /><ref name="TCSWE">{{CSWECite|III|182|SPHA-T (self-propelled heavy artillery - turbolaser}}</ref>
+**[[Turbolaser/Legends|Turbolaser]]<ref name="TCWCG" /><ref name="db" /><ref name="TCSWE" /><ref name="FF68" />
+**[[Ion cannon/Legends|Ion cannon]]<ref name="db" /><ref name="TCSWE" /><ref name="FF68" />
+**Anti-vehicle [[Laser/Legends|laser]]<ref name="db" /><ref name="TCSWE" /><ref name="FF68" />
+**[[Concussion missile launcher/Legends|Concussion missile launcher]]<ref name="db" /><ref name="TCSWE" /><ref name="FF68" />
+**[[Mass-driver cannon/Legends|Mass-driver cannon]]<ref name="TCWCG" /><ref name="FF68" />
+*Antipersonnel [[Blaster/Legends|blasters]] (12) {{C|optional}}<ref name="db" /><ref name="TCSWE" /><ref name="FF68" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Primary crew (15)<ref name="db" /><ref name="Wizards" /><ref name="TCSWE" /><ref name="FF68" />
+*[[Gunner/Legends|Gunners]] (10)<ref name="db" /><ref name="Wizards" /><ref name="TCSWE" /><ref name="FF68" />
+|skeleton=12<ref name="FF71">{{FactFile|71|SPH 1-2|Self-Propelled Heavy Artillery-Turbolaser (SPHA-T)}}</ref>
+|passengers=20<ref name="Wizards" /><ref name="TCSWE" /> - 30 [[Clone trooper/Legends|clone troopers]]<ref name="FF71" />
+|capacity=500 [[Kilogram/Legends|kilograms]]<ref name="TCWCG" /><ref name="Wizards" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="TCWCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Self-propelled artillery<ref name="AOTC:ICS" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="AOTC:ICS" /><ref name="db" /><ref name="FF68" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="TOS&VC25">[[Star Wars: The Official Starships & Vehicles Collection 25|''Star Wars: The Official Starships & Vehicles Collection'' 25]]</ref><ref name="IH:ACG">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref><ref name="FF68" />
+}}
+{{Quote|Using this weapon against droids is a necessary evil. But what if such destructive power should be turned against living creatures? A sad thought, indeed.|[[Mace Windu/Legends|Mace Windu]]|<ref name="TNEG" />}}
+The '''Self-Propelled Heavy Artillery''' ('''SPHA''') [[Walker/Legends|walker]], also known as the '''Mobile Assault Cannon (MAC)''',<ref name="Game">[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]</ref> was a modular heavy [[Artillery/Legends|artillery]] unit used by the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] during the [[Clone Wars/Legends|Clone Wars]], and by the [[Galactic Empire/Legends|Galactic Empire]] afterward. It bore a resemblance to the smaller [[RX-200 Falchion-class assault tank/Legends|RX-200 ''Falchion'']] also utilized by the Republic during the Clone Wars. Depending on the configuration, the walker had different names: '''SPHA-T''' ([[Turbolaser/Legends|turbolaser]]), '''SPHA-I''' ([[Ion cannon/Legends|ion cannon]]), '''SPHA-V''' (anti-vehicle laser), '''SPHA-C''' ([[Concussion missile launcher/Legends|concussion missile launcher]]), '''SPHA-M''' ([[Mass-driver cannon/Legends|mass-driver cannon]]) and '''SPHA-F''' (thermobaric cannon).
+
+==Description==
+{{Quote|Their range is greater than we thought.|A [[Muun/Legends|Muun]] during the [[Battle of Muunilinst/Legends|Battle of Muunilinst]]|<ref name="CW4">{{CW|4}}</ref>}}
+[[File:SPHAaft-SWCTP.png|thumb|left|250px|An aft view of a SPHA]]
+A Self-Propelled Artillery Walker (SPHA) had twelve legs that served as mobile support structures. Unlike smaller walkers, such as the [[All Terrain Tactical Enforcer/Legends|AT-TE]], SPHA units were unable to be carried into battle by [[Low Altitude Assault Transport/carrier/Legends|LAAT/c]] gunships because of their large size and weight. Instead, they were deployed directly from landed [[Acclamator-class transgalactic military assault ship/Legends|''Acclamator''-class assault ships]], which could carry 36 of the artillery platforms.<ref name="AOTC:ICS" />
+
+In battle, SPHA walkers usually received orders from ground-based command posts, which provided a less isolated and more in-touch view of the battlefield than the towering walkers. In addition, SPHA units had a complement of 30 [[Clone trooper/Legends|clone troopers]], which could be deployed rapidly via a dorsal hatch. In seconds, the soldiers could disembark the vehicle and secure the area immediately around the walker, providing protection from enemy infantry and other light units.
+
+===Main weapons===
+[[File:SPHAclone-SWCTP.png|thumb|left|250px|An frontal view of a SPHA with a clone trooper for scale.]]
+The SPHA walker chassis served as the basis for a number of different weapons platforms, though the best-chronicled version was the [[Turbolaser/Legends|turbolaser]] (SPHA-T) configuration. This variant's main weapon was a heavy turbolaser cannon, capable of causing extreme direct fire damage to large or slow-moving targets.<ref name="db" /> The turbolaser boasted tremendous range and was capable of penetrating deflector shields.<ref name="TNEG" />
+
+The primary disadvantage of this powerful weapon was that it was incapable of providing indirect fire support to out of sight locations, a problem remedied in other models. Another disadvantage was that the weapon could only be charged to a certain level&mdash;upon firing such shots, they had to be replaced with charged guns from the rear lines.<ref name="ITW:AOTC">''[[Inside the Worlds of Star Wars: Attack of the Clones]]''</ref>
+
+Some of these other variants deployed during the Clone Wars include the [[Ion cannon/Legends|ion cannon]] ([[Self-Propelled Heavy Artillery/Legends|SPHA-I]]), anti-vehicle [[Laser/Legends|laser]] ([[Self-Propelled Heavy Artillery/Legends|SPHA-V]]), [[Concussion missile/Legends|concussion missile]] ([[Self-Propelled Heavy Artillery/Legends|SPHA-C]]), thermobaric burst ([[Self-Propelled Heavy Artillery-Thermobaric launcher|SPHA-F]]), and [[Mass-driver cannon/Legends|mass-driver]] ([[Self-Propelled Heavy Artillery/Legends|SPHA-M]]).<ref name="TCWCG" /> Some of these model variations included 12 retractable antipersonnel [[Blaster/Legends|blasters]], necessitating an additional 10 gunners to the command crew of 15.<ref name="db" />
+
+==History==
+===Development===
+[[File:Spha-t_geonosis.jpg|thumb|right|250px|An SPHA-T walker battery protected by columns of [[Clone trooper/Legends|clone troopers]] and [[All Terrain Tactical Enforcer/Legends|AT-TEs]].]]
+The SPHA walker was developed by [[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]].<ref name="db" />
+
+The power usage of the [[Turbolaser/Legends|turbolaser]] cannon in the SPHA-T variant dictated the design of the other parts of the vehicle.<ref name="db" />
+
+[[File:Sphat-NEGVV.png|thumb|left|250px|An SPHA-T]]
+Designers rejected a complex turret mechanism, choosing instead to rely on the entire walker repositioning itself in order to adjust for different firing coordinates.<ref name="db" /> Like other walkers, the use of articulated legs prevented the SPHA from being vulnerable to anti-[[Repulsorlift/Legends|repulsorlift]] weapons, at the cost of some mobility.<ref name="db" />
+
+The [[Galactic Empire/Legends|Galactic Empire]] later developed a more compact version, the [[Self-Propelled Medium Artillery|SPMA]], which was more mobile and compact, thanks to weight-reducing advancements in technology.<ref name="spmat-db">{{DB|vehicle|spmat|Self-Propelled Medium Artillery - Turbolaser (SPMA-T walker)}}</ref>
+
+===Usage===
+[[File:SPHAT-concentratedfire.png|thumb|right|250px|SPHAs concentrate fire on a fleeing [[Core ship/Legends|''Lucrehulk''-class Core Ship]].]]
+The SPHA, particularly the SPHA-T, first appeared in the [[First Battle of Geonosis/Legends|First Battle of Geonosis]] where it was instrumental in bringing down several [[Core ship/Legends|''Lucrehulk''-class core ships]] and [[Hardcell-class interstellar transport/Legends|''Hardcell''-class interstellar transports]].<ref name="Star Wars: Episode II Attack of the Clones">{{Film|II}}</ref>
+
+SPHA units were used throughout the Clone Wars, seeing action in surface battles such as the [[Siege of Cato Neimoidia|Battle of Cato Neimoidia]],<ref name="Labyrinth of Evil">''[[Labyrinth of Evil]]''</ref> the [[Battle of Muunilinst/Legends|Battle of Muunilinst]]&mdash;where many were destroyed by the nimble [[IG lancer droid/Legends|IG lancer combat droids]]&mdash;,<ref name="CW4" /> the [[Battle of Rhen Var (Clone Wars)|Battle of Rhen Var]],<ref name="Game" /> and the [[Second Battle of Tatooine]].<ref name="Star Wars: Galactic Battlegrounds: Clone Campaigns">''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''</ref>
+
+[[File:VenatorHangarTurbolaser.png|thumb|left|250px|An SPHA-T fires its [[Turbolaser/Legends|turbolaser]] at a [[Munificent-class star frigate|''Munificent''-class star frigate]] from inside the hangar of a [[Venator-class Star Destroyer/Legends|''Venator''-class Star Destroyer]].]]
+At the suggestion of [[Anakin Skywalker/Legends|Anakin Skywalker]], many [[Venator-class Star Destroyer/Legends|''Venator''-class Star Destroyers]] of the [[Open Circle Fleet/Legends|Open Circle Fleet]] had SPHA-T turbolaser cannons installed inside their ventral hangar bays,<ref name="ROTS:ICS">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref> where they were used effectively during the [[Battle of Coruscant/Legends|Battle of Coruscant]], especially against enemy [[Munificent-class star frigate/Legends|''Munificent''-class star frigates]].<ref name="ROTS">{{Film|III}}</ref>
+
+The SPHA-line walkers continued in service in the early years of the [[Galactic Empire/Legends|Galactic Empire]], until the [[Self-Propelled Medium Artillery|SPMA]]-line was developed, with the SPMA vehicles being faster and more maneuverable than the cumbersome SPHA-Ts.<ref name="spmat-db" />
+
+==Behind the scenes==
+[[File:SPHAfrontal.jpg|thumb|right|180px|A schematic of the SPHA-T]]
+Concept art of the SPHA-T was drawn by Concept Design Supervisor [[Erik Tiemens]]. He initially imagined a treaded vehicle, but [[George Lucas]] changed it to a walker. The SPHA's production name was "Clone Tank A".<ref name="db" />
+
+In both ''[[Star Wars: Attack of the Clones: The Visual Dictionary]]'' and ''[[Star Wars: The Complete Visual Dictionary]]'', the SPHA-T's turbolaser is incorrectly labeled as a troop hatch. Also, in ''[[The New Essential Guide to Vehicles and Vessels]]'', the SPHA-T is incorrectly said to be driven by multiple [[Wikipedia:Continuous track|treads]]. It is in fact a [[Walker/Legends|walker]], driven by twelve legs.<ref name="db" />
+
+[[The Official Star Wars Fact File 71]] claims the SPHA-T is 140.2 meters long but that does not match the size seen in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], the dimensions used in [[The New Essential Guide to Vehicles and Vessels]] physically or the listed length in ''[[Star Wars Chronicles: The Prequels]]''.
+
+==Appearances==
+*{{Film|II}} {{1st}}
+*''[[Star Wars: Republic Commando]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]
+*{{CW|1}}
+*[[Star Wars: Clone Wars Cine-Manga|''Star Wars: Clone Wars'' Cine-Manga]]
+*{{CW|4}}
+*{{CW|8}}
+*{{CW|9}} {{Hologram}}
+*{{CW|20}}
+*''[[Jedi: Yoda]]''
+*''[[Jedi Trial]]''
+*{{StoryCite|story=Hide in Plain Sight|book=Free Comic Book Day|bformatted=Free Comic Book Day 2004 Special|reprint=1}}
+*{{CWACite|7|Impregnable (comic story)}}
+*{{CWACite|10|Chain of Command (comic story)}}
+*''[[Labyrinth of Evil]]''
+*{{Film|III}} {{C|SPHA-T cannon from inside a [[Venator-class Star Destroyer/Legends|''Venator''-class Star Destroyer]] only}}
+*''[[Star Wars: The Force Unleashed]]'' {{Wreck}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Self-Propelled Heavy Artillery}}
+*<!-- 2002-04-23 -->''[[Star Wars: Attack of the Clones: The Visual Dictionary]]''
+*<!-- 2002-10-29 -->[[Star Wars: The Clone Wars: Prima's Official Strategy Guide|''Star Wars: The Clone Wars'': Prima's Official Strategy Guide]]
+*<!-- 2002-12-03 -->{{InsiderCite|64|The Vehicles of Episode II}}
+*<!-- 2003-04-03 -->''[[Inside the Worlds of Star Wars: Attack of the Clones]]''
+*<!-- 2003-05-07 -->[[The Official Star Wars Fact File 71|''The Official Star Wars Fact File'' 71]]
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-12-04 -->{{Wizards|url=default.asp?x=starwars/article/sw20031204sphat|text=SPHA-T: An Expanded Universe Vehicle from ''The New Essential Guide to Vehicles & Vessels''}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]'' {{Po}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-11-12 -->{{PocketModel|set=Clone Wars Tactics|cardname=38th Armored Division SPHA-T}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+*<!-- 2009-08-27 -->[[Star Wars: The Official Starships & Vehicles Collection 25|''Star Wars: The Official Starships & Vehicles Collection'' 25]]
+*<!-- 2011-09-13 -->{{DB|starship|republicassaultship|Republic assault ship}}
+*<!-- 2011-09-13 -->{{DB|vehicle|sphat|Self Propelled Heavy Artillery - Turbolaser (SPHA-T walker)}}
+*<!-- 2011-09-13 -->{{DB|vehicle|spmat|Self-Propelled Medium Artillery - Turbolaser (SPMA-T walker)}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-05-13 -->{{FactFile2014|68|SPH 1-2|Self-propelled Heavy Artillery-Turbolaser}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Selbstangetriebene Panzerhaubitze
+|es=Artillería Pesada AutoPropulsada
+|fi=Self-Propelled Heavy Artillery
+|it=SPHA
+|no=SPHA-T
+|pl=Self-Propelled Heavy Artillery
+|pt=Legends:Artilharia_Pesada_Automotriz
+|uk=SPHA/Легенди
+}}
+
+[[Category:Mobile artillery types]]
+[[Category:Rothana Heavy Engineering products]]
+[[Category:Vehicle classes of the Galactic Empire]]
+[[Category:Vehicle classes of the Galactic Republic]]
+[[Category:Walker models]]

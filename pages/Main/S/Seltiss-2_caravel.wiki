@@ -1,0 +1,93 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:HuttCaravel-LoNH.jpg]]
+|name=Seltiss-2 caravel
+|designer=
+|manufacturer=[[Ubrikkian Industries/Legends|Ubrikkian Industries]]<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref><ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+|line=
+|model=
+|type=[[Caravel]]<ref name="LoNH" />
+|cost=550,000<ref name="LoNH" /> - 800,000 [[Galactic Credit Standard/Legends|credits]] {{C|160,000 used}}<ref name="TCWCG" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="FF">[[The Official Star Wars Fact File 80|''The Official Star Wars Fact File'' 80]]</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer per hour/Legends|km/h]]<ref name="TCWCG" />
+|maneuverability=
+|engine=
+|hyperdrive=None<ref name="TCWCG" /><ref name="LoNH" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=None<ref name="LoNH" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Medium [[Laser cannon/Legends|laser cannons]] (2)<ref name="TCWCG" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 Pilot<ref name="TCWCG" /><ref name="LoNH" />
+*1 Co-pilot<ref name="TCWCG" /><ref name="LoNH" />
+*2 Gunners<ref name="TCWCG" /><ref name="LoNH" />
+|skeleton=
+|passengers=12<ref name="TCWCG" /><ref name="LoNH" />
+|capacity=50 tons<ref name="TCWCG" />
+|cargohandling=
+|consumables=1 month<ref name="TCWCG" /><ref name="LoNH" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="TCWCG" />
+|role=[[Yacht/Legends|Yacht]]<ref name="LoNH" />
+|firstuse=
+|retired=
+|affiliation=[[Hutt/Legends|Hutts]]<ref name="LoNH" />
+}}
+The '''Seltiss-2 caravel''' was a pleasure ship manufactured by [[Ubrikkian Industries/Legends|Ubrikkian Industries]] and commonly used by the [[Hutt/Legends|Hutts]]. Because of this, it was often referred to as the '''Hutt caravel''' or '''Hutt chariot'''.
+
+==Characteristics==
+[[File:HuttCaravel_egvv.jpg|thumb|left|180px|Seltiss-2 [[:Category:Technical drawing images|schematics]]]]
+Costing upwards of 400,000 [[Galactic Credit Standard/Legends|credits]], the inside of the Seltiss-2 was covered with [[Greel wood/Legends|greel wood]] and [[chall-crystal]]. The ship had no [[Hyperdrive/Legends|hyperdrive]] as it was only used for journeys between [[Nal Hutta/Legends|Nal Hutta]] and [[Nar Shaddaa/Legends|Nar Shaddaa]], though it featured ample [[Sublight engine/Legends|sublight drive]] capacity.
+
+Many caravels carried concealed weapons to lull potential enemies into a false state of security. The armored front of the ship could be opened up to reveal a view of space, while if there was an emergency, the whole cabin could be ejected. The caravel also contained a kitchen and four small servant cabins, which could not be ejected.
+
+==History==
+The Seltiss-2 was preceded by the [[Seltiss-1 caravel]] in operation during the last decades of the [[Galactic Republic/Legends|Galactic Republic]].
+
+==Appearances==
+*{{StoryCite|story=A Hunter's Fate: Greedo's Tale|book=Tales from the Mos Eisley Cantina}}
+*[[Dark Empire 4|''Dark Empire'' 4]] {{1st}}
+
+==Sources==
+[[File:Seltiss2Caravel-DE.jpg|thumb|A Seltiss-2 on [[Nar Shaddaa/Legends|Nar Shaddaa]] in [[10 ABY/Legends|10 ABY]]]]
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-07-09 -->{{FactFile|80|HUT 1-2|Hutt Caravel}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|Hutt caravel}}
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Seltiss-2-Karavelle
+|es=Carabela Seltiss-2
+|nl=Seltiss-2 Caravel
+|deGA=1
+}}
+
+[[Category:Caravel classes]]
+[[Category:Hutt starship classes]]
+[[Category:Ubrikkian Industries products]]

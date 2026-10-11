@@ -1,0 +1,91 @@
+{{Top|canon=SPMA}}
+{{GroundVehicle
+|image=[[File:Eaw_spma-t.jpg]]
+|name=Self-Propelled Medium Artillery
+|designer=
+|manufacturer=[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="EAWGG">[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]</ref>
+|line=
+|model=Self-Propelled Medium Artillery<ref name="EAWGG" />
+|type=[[Walker/Legends|Walker]]<ref name="db">{{DB|vehicle|spmat|Self-Propelled Medium Artillery - Turbolaser (SPMA-T walker)}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=20 [[Meter/Legends|meters]]<ref name="db" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Heavy [[Turbolaser/Legends|turbolaser]] [[Cannon/Legends|cannon]] (1)<ref name="db" />
+*Antipersonnel [[Blaster cannon/Legends|blaster cannons]] (12)<ref name="db" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Self-propelled [[Artillery/Legends|artillery]]<ref name="db" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="db" />
+**[[Imperial Army/Legends|Imperial Army]]<ref name="db" />
+}}
+The '''Self-Propelled Medium Artillery (SPMA)''' [[Walker/Legends|walker]] was an [[Artillery/Legends|artillery]] piece used by the [[Galactic Empire/Legends|Galactic Empire]]. It was a successor to the [[Self-Propelled Heavy Artillery|SPHA]] artillery line used during the [[Clone Wars/Legends|Clone Wars]].
+
+==Characteristics==
+The '''SPMA-T''' model was fitted with a long-range, variable trajectory [[Turbolaser/Legends|turbolaser]] cannon, and due to its modular design, it could, like its heavier predecessor, be deployed with specific payloads for different missions. It was generally faster and more nimble than the [[Self-Propelled Heavy Artillery|SPHA-T]]. Most of the walkers were also equipped with 12 light anti-infantry [[Blaster/Legends|blasters]]<ref name="db" /> that emerged from the ventral surface of the vehicle when in use.<ref name="sw:eaw">''[[Star Wars: Empire at War]]''</ref>
+
+==History==
+[[File:SPMAscreen.jpg|thumb|left|150px|A SPMA-T, ready to fire.]]
+Improvement in materials after years of research following the Clone Wars meant that the artillery walker could be lightened with the use of more modern alloys and composites.<ref name="db" />
+
+The SPMA walkers' range was quite long, but they required targets to be sensor-painted in order to score a hit. The combination of slow movement and light armor meant that SPMAs were usually dispatched with an escort.<ref name="db" />
+
+==Behind the scenes==
+In the ''Empire at War'' video games, the turbolaser bolt is seen to arc downwards like projectile artillery.
+
+==Appearances==
+*''[[Star Wars: Empire at War]]'' {{1st}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+
+==Sources==
+{{Mediacat|imagecat=Images of Self-Propelled Medium Artillery}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]] {{1stm}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|spmat|Self-Propelled Medium Artillery - Turbolaser (SPMA-T walker)}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Self-Propelled Medium Artillery
+|es=Artillería Mediana AutoPropulsada
+|fi=Self-Propelled Medium Artillery
+|it=SPMA
+|pl=SPMA-T
+|uk=SPMA/Легенди
+}}
+
+[[Category:Mobile artillery types]]
+[[Category:Rothana Heavy Engineering products]]
+[[Category:Vehicle classes of the Galactic Empire]]
+[[Category:Walker models]]

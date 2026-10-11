@@ -1,0 +1,68 @@
+{{Top|leg|italics=1}}
+{{StarshipClass
+|image=
+|name=''Sea Killer''
+|designer=
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="SK">{{Wizards|url=starwars/article.asp?x=sw20010222d&c=rpg|text=The ''Sea Killer''}}</ref>
+|line=[[B'zabuu-class transport]]<ref name="SK" />
+|model=
+|type=[[Transport/Legends|Transport]]<ref name="SK" />
+|cost=
+|modifier=
+|sysmods=
+|length=22 meters<ref name="SK" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 1.0<ref name="SK" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SK" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*1 Dual [[Laser cannon/Legends|laser cannon]] turret,<ref name="SK" />
+*1 [[YG-4400 light freighter|Getaway]] [[Concussion missile/Legends|concussion missile]] launcher, 1 missile<ref name="SK" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Toba]]<ref name="SK" />
+*[[R5-R5]]<ref name="SK" />
+|skeleton=
+|passengers=6<ref name="SK" />
+|capacity=55 metric tons<ref name="SK" />
+|cargohandling=
+|consumables=3 months<ref name="SK" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Smuggler/Legends|Smuggling]]
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Sea Killer''''' was a [[B'zabuu-class transport|''B'zabuu''-class transport]] owned by [[Toba]]. After owning the [[Starship/Legends|craft]] for a month, Toba painted the stylized face of an [[Opee sea killer/Legends|opee sea killer]] on the transport's nose. Toba also installed a Getaway [[Concussion missile launcher/Legends|concussion missile launcher]], removed from a [[YG-4400 light freighter]], which he used for emergency escapes.
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 2001-02-22 -->{{Wizards|url=starwars/article.asp?x=sw20010222d&c=rpg|text=The ''Sea Killer''}}
+*<!-- 2001-03-08 -->{{Wizards|url=starwars/article.asp?x=sw20010308a&c=rpg|text=Meet Toba: Soldier and Scout}} {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:B'zabuu-class transports]]
+[[Category:Smuggler starships]]
