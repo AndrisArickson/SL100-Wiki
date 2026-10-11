@@ -1,0 +1,89 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{SpaceStation
+|image=
+|name=Brentaal HoloNet relay station
+|designer=
+|manufacturer=
+|line=
+|model=[[HoloNet relay/Legends|HoloNet relay station]]<ref name="CatCW">''[[Coruscant and the Core Worlds]]''</ref>
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|region=*[[Core Worlds/Legends|Core Worlds]]<ref name="CatCW" />
+*[[The Slice/Legends|The Slice]]<ref name="Region">''[[The Essential Atlas]]'' &mdash; [[:File:MiscellaneousRegions.jpg|Client States and Miscellaneous Regions map]]</ref>
+**[[Arrowhead]]<ref name="Region" />
+|sector=
+|system=[[Brentaal system/Legends|Brentaal system]]<ref name="CatCW" />
+|coordinates=L-9<ref name="EAOC">{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion}}</ref>
+|xyz=
+|orbited=[[Brentaal IV/Legends|Brentaal IV]]<ref name="CatCW" />
+|distance=
+|routes=
+|role=
+|affiliation=
+|constructed=
+|destroyed=
+|retired=
+|battles=
+|owners=
+|namedcrew=
+|captains=
+|registry=
+|aliases=
+|population=
+|interest=
+|services=
+|sectors=
+|modules=
+}}
+A '''HoloNet relay station''' orbited the [[Planet/Legends|planet]] [[Brentaal IV/Legends|Brentaal IV]]. It was the primary [[Relay station/Legends|relay station]] for the [[Bormea sector/Legends|Bormea sector]], and was guarded by a defense platform.<ref name="CatCW" />
+
+{{Station-stub}}
+
+==Sources==
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Communications satellites]]
+[[Category:Space stations in the Arrowhead]]
+[[Category:Space stations in the Core Worlds]]
