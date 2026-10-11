@@ -1,0 +1,74 @@
+{{Top|leg}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:ModStrikeCruiser1.jpg]]
+|name=Modified Strike Cruiser
+|designer=
+|manufacturer=[[Loronar Corporation/Legends|Loronar Corporation]] {{C|initially}}
+|line=
+|model=Modified [[Strike-class medium cruiser|''Strike''-class medium cruiser]]
+|type=[[Cruiser/Legends|Cruiser]]
+|cost=
+|modifier=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+|sysmods=
+|length=451 meters
+|width=271.91 meters<ref name="scaling">Based on scaling the proportions of the [[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns|''X-wing vs. TIE Fighter: Balance of Power'']] CRUSC.OPT file against the length of 451 meters listed in the craft database</ref>
+|height=103.95 meters
+|mass=
+|max accel=
+|mglt=16
+|max speed=
+|maneuverability=
+|engine=Sublight engines (2)
+|hyperdrive=Equipped
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=2560 SBD
+|hull=1520 RU
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Quad laser cannon/Legends|Quad laser cannons]] (2)
+|complement=
+|bays=
+|escapepods=
+|crew=1,000
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=[[Gravity well projector/Legends|Gravity well projectors]] (4)
+|availability=
+|role=[[Interdictor/Legends|Interdictor]]
+|firstuse=[[3 ABY/Legends|3 ABY]]
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+}}
+'''Modified Strike Cruisers''' were [[Loronar Corporation/Legends|Loronar Corporation]] [[Strike-class medium cruiser|''Strike''-class medium cruisers]] modified by the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] to carry [[Gravity well projector/Legends|gravity well projectors]].
+
+==History==
+When the Rebel Alliance built stolen gravity well projectors into Loronar ''Strike''-class [[Cruiser/Legends|cruisers]], they called the result a "Modified Strike Cruiser" for lack of a better designation. The fuselage of this particular modified version of the ''Strike''-class cruiser had been altered to carry gravity well projectors in a pair of bulbous external housings. With these, the ship could be used as an [[Interdictor/Legends|interdictor]] similar to the [[Galactic Empire/Legends|Imperial]] [[Immobilizer 418 Interdictor-class Heavy Cruiser|Immobilizer 418 cruiser]].
+
+The first Modified Strike Cruiser was [[Peregrine (Strike-class)|''Peregrine'']], which was refitted by the Rebel Alliance and their [[Airam (group)|Airam]] allies with gravity well projectors from the captured Interdictor cruiser ''[[Compellor/Legends|Compellor]]''. At least one other ship, ''[[Sagina]]'', was built to this design at [[Telgorn shipyard|shipyard]] ''[[Calenz]]'' in the [[Nocto system/Legends|Nocto system]], but it is unknown if it already carried operational gravity well projectors when the shipyard was destroyed.
+
+After the [[Spreading the Rebellion|Airam campaign]], there were no recorded sightings of this class. The Rebellion evidently lost the interest and/or capability to build such ships when their shipyard ''Calenz'' was destroyed. Instead, they eventually went on to use the [[CC-7700 frigate/Legends|CC-7700 frigate]] and growing numbers of captured Immobilizer 418 cruisers.
+
+==Appearances==
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Cruiser classes]]
+[[Category:Interdictor starship classes]]
+[[Category:Loronar Corporation products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Strike-class medium cruisers|*]]

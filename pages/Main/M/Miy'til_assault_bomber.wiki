@@ -1,0 +1,94 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:MiytilAssaultBomber-SotGSE.png]]
+|name=Miy'til assault bomber
+|designer=
+|manufacturer=[[Olanji/Charubah]]<ref name="SotGSaga">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=
+|model=Miy'til assault bomber<ref name="SotGSaga" />
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=200,000 [[Galactic Credit Standard/Legends|credits]]<ref name="EGW">''[[Starships of the Galaxy]]''</ref>
+|modifier=
+|sysmods=
+|length=20 meters<ref name="EGW" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer per hour/Legends|km/h]]<ref name="SotGSaga" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="SotGSaga" />
+*Backup Class 12.0<ref name="EGW" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SotGSaga" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2, Single-fire or linked)<ref name="EGW" />
+*Heavy [[Concussion missile/Legends|Concussion missile]] launchers (2, Single-fire or linked)<ref name="EGW" />
+**Standard load: 16 missiles each<ref name="EGW" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="SotGSaga" />
+|skeleton=
+|passengers=None<ref name="SotGSaga" />
+|capacity=400 kilograms<ref name="SotGSaga" />
+|cargohandling=
+|consumables=2 days<ref name="SotGSaga" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Bomber/Legends|Bomber]]<ref name="SotGSaga" />
+|firstuse=
+|retired=
+|affiliation=[[Hapes Consortium/Legends|Hapes Consortium]]<ref name="SotGSaga" />
+}}
+The '''Miy'til assault bomber''' was a [[Hapes Consortium/Legends|Hapes Consortium]] starfighter.
+
+==Characteristics==
+Based on the same [[Hapan]] principles of speed and agility that produced the smaller [[Miy'til starfighter]], the Miy'til assault bomber blended an impressive mix of [[Sublight engine/Legends|sublight]] speed and maneuverability that put it on par with a heavy [[Starfighter/Legends|starfighter]] rather than a [[Bomber/Legends|bomber]].<ref name="EGW" />
+
+Because of its unusual speed and agility for a bomber, it was highly effective in both atmosphere and space, and was far superior to similarly classed bombers, such as the [[TIE/sa tactical bomber/Legends|TIE bombers]].<ref name="EGW" />
+
+The crew consists of the pilot, a gunner and an astromech droid .<ref name="SotGSaga" />
+
+==History==
+It was so rarely employed by the [[Hapes Consortium/Legends|Hapes Consortium]] that even as late as [[25 ABY/Legends|25 ABY]], its abilities were poorly understood by foreign powers. As such, the ship proved to be a nasty surprise in first time engagements.<ref name="EGW" />
+
+==Behind the scenes==
+''[[Cracken's Threat Dossier]]'' (page 44) states that [[Nova-class battle cruiser]]s could transport six assault bombers, but the [[New Republic/Legends|New Republic]] had not information about the bomber; the term Miy'til wasn't used in the source.
+
+[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]] notes that the hyperdrive can only jump to 5 coordinates stored by the astromech droid. Other sources don't mention this limit, but don't make clear if the ship has a navcomputer either.
+
+==Sources==
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]'' {{1stm}}
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-12-23 -->{{Wizards|url=default.asp?x=starwars/article/sw20041223counseling|series=Jedi Counseling|text=55: Ship Squadrons}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[File:Miytilbomber.jpg|thumb|left|200px|Miy'til assault bomber]]
+
+{{Interlang
+|es=Bombardero de asalto Miy'til
+}}
+
+[[Category:Assault ship classes]]
+[[Category:Bomber classes]]
+[[Category:Olanji/Charubah products]]
+[[Category:Starship classes of the Hapan Consortium]]

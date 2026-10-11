@@ -1,0 +1,82 @@
+{{Top|leg|title=''Mneffe''-class Superluminal}}
+{{StarshipClass
+|image=[[File:Mneffe.jpg]]
+|name=''Mneffe''-class Superluminal
+|designer=
+|manufacturer=[[DuroTech]]<ref name="ELUSIVE">{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}}</ref>
+|line=
+|model=''Mneffe''-class superluminal<ref name="ELUSIVE" />
+|type=rapid passenger [[Shuttle/Legends|shuttle]]<ref name="ELUSIVE" />
+|cost=200,000 [[Galactic Credit Standard|credits]] (new), 100,000 [[Galactic Credit Standard|credits]] (used)<ref name="ELUSIVE" />
+|modifier=
+|sysmods=
+|length=27 meters<ref name="ELUSIVE" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 kmh<ref name="ELUSIVE" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1 [[Hyperdrive/Legends|hyperdrive]]<ref name="ELUSIVE" />
+*Class 10 [[hyperdrive]] (backup)<ref name="ELUSIVE" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="ELUSIVE" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Turret-mounted double [[Laser cannon/Legends|laser cannon]] (1)<ref name="ELUSIVE" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1), Copilot (1)<ref name="ELUSIVE" />
+|skeleton=1<ref name="ELUSIVE" />
+|passengers=6<ref name="ELUSIVE" />
+|capacity=20 metric tons<ref name="ELUSIVE" />
+|cargohandling=
+|consumables=1 month<ref name="ELUSIVE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Passenger transport
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Mneffe''-class Superluminal''' was a rapid passenger shuttle produced by [[DuroTech]] during the early years of the [[Galactic Empire/Legends|Galactic Empire]].<ref name="ELUSIVE" />
+
+==Characteristics==
+The ''Mneffe''-class Superluminal was comprised of a long, central fuselage slung beneath a semi-circular wing.<ref name="ELUSIVE" />
+
+Capable of carrying up to six passengers and twenty metric tons of cargo, the Mneffe-class required a [[Pilot/Legends|pilot]] and copilot to operate, though could be flown with a skeleton crew of one. For defense, the vessel was armed with a turret-mounted double [[Laser cannon/Legends|laser cannon]].<ref name="ELUSIVE" />
+
+==History==
+The ''Mneffe''-class was built by [[DuroTech]].<ref name="ELUSIVE" />
+
+{{Cutstart}}
+[[Corellian Translines]] bought up almost the entire production run for their transportation services.<ref name="CT">{{JournalCite|16|Corellian Translines (article)}}</ref>
+
+==Appearances==
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}}
+
+==Sources==
+*<!-- Canceled -->{{JournalCite|16|Corellian Translines (article)}} {{C|Canceled book}} {{C|As ''Superluminal''-class}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:DuroTech products]]
+[[Category:Shuttle classes]]
+
+{{RelatedCategories
+|[[Category:Mneffe-class superluminal shuttles]]
+}}

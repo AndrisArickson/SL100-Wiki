@@ -1,0 +1,71 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:LucansNightmare-ThePoliticsOfContraband.jpg]]
+|name=Model 47 Spitrolighter
+|designer=
+|manufacturer=[[Arden Industries]]<ref name="PC">{{WEGCite|story=The Politics of Contraband (adventure)|book=The Politics of Contraband}}</ref>
+|line=
+|model=
+|type=[[Light freighter/Legends|Light freighter]]<ref name="PC-CA">{{WEGCite|story=The Politics of Contraband (adventure)|book=Classic Adventures}}</ref>
+|cost=155,000 [[Galactic Credit Standard/Legends|credits]]<ref name="PC-CA" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="PC" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="PC-CA" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="PC" />
+*[[Backup hyperdrive|Class 7]]<ref name="PC-CA" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="PC" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="PC" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Laser cannon/Legends|laser cannons]]<ref name="PC" />
+|complement=
+|bays=
+|escapepods=
+|crew=2; 2 [[Gunner/Legends|gunners]]<ref name="PC-CA" />
+|skeleton=1<ref name="PC-CA" />
+|passengers=6<ref name="PC" />
+|capacity=100 [[Metric ton/Legends|metric tons]]<ref name="PC" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="PC" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Model 47 Spitrolighter''' was a [[Light freighter/Legends|light freighter]] manufactured by [[Arden Industries]].
+
+==Known ships==
+*''[[Lucan's Nightmare]]''
+
+==Appearances==
+*{{WEGCite|story=The Politics of Contraband (adventure)|book=The Politics of Contraband|reprint=1}} {{1st}} {{ID|Model 47 Light Freighter}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Arden Industries products]]
+[[Category:Freighter classes]]
+
+{{RelatedCategories
+|[[Category:Model 47 Spitrolighters]]
+}}

@@ -1,0 +1,65 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Mobile Mining Barge I
+|designer=
+|manufacturer=[[Lant Mining Corporation]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|line=
+|model=
+|type=[[Repulsorlift/Legends|Repulsorlift]] [[mining barge]]<ref name="FBS" />
+|cost=30,000 [[Galactic Credit Standard/Legends|credits]]<ref name="FBS" />
+|modifier=
+|sysmods=
+|length=275 [[Meter/Legends|meters]]<ref name="FBS" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=90 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FBS" />
+|max alt=15 [[Meter/Legends|meters]]<ref name="FBS" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*8 high intensity [[Mining laser/Legends|mining lasers]]<ref name="FBS" />
+*8 [[Plasma drill/Legends|plasma drills]]<ref name="FBS" />
+*8 [[Tractor beam/Legends|tractor beams]]<ref name="FBS" />
+|complement=
+|bays=
+|escapepods=
+|crew=55 (24 [[Gunner/Legends|gunners]])<ref name="FBS" />
+|skeleton=20<ref name="FBS" />
+|passengers=
+|capacity=250 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mobile Mining Barge I''' was a [[Repulsorlift/Legends|repulsorlift]] [[mining barge]] developed by [[Lant Mining Corporation]]. Designed as an answer to the problem of [[Mining/Legends|mining]] on the [[Groundquake/Legends|groundquake]]-prone [[Moon/Legends|moon]] of [[Lish V]], the entire vehicle floated on a [[repulsorlift field]].
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Lant Mining Corporation products]]
+[[Category:Mining technology]]
+[[Category:Repulsorcraft models]]

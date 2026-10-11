@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:MobileSpacedock220-LECG.png]]
+|name=Mobile Spacedock 220
+|designer=
+|manufacturer=[[Rendili StarDrive/Legends|Rendili StarDrive]]<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+|line=
+|model=Mobile Spacedock 220<ref name="LECG" />
+|type=
+|cost=100,000,000 [[Galactic Credit Standard/Legends|credits]] (45,000,000 used)<ref name="LECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 4 (Backup Class 12)<ref name="LECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped with modular atmospheric containment fields<ref name="LECG" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="LECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] batteries (2)<ref name="LECG" />
+*Point-defense [[Laser cannon/Legends|laser cannon]] batteries (2)<ref name="LECG" />
+*[[Tractor beam/Legends|Tractor beam]] batteries (4)<ref name="LECG" />
+|complement=*[[Shuttle/Legends|Shuttles]] (20)<ref name="LECG" />
+*[[Work pod]]s (150)<ref name="LECG" />
+|bays=
+|escapepods=
+|crew=1,000<ref name="LECG" />
+|skeleton=
+|passengers=2,000 technicians<ref name="LECG" />
+|capacity=600,000 tons<ref name="LECG" />
+|cargohandling=
+|consumables=1 year<ref name="LECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="LECG" />
+|role=Mobile shipyards<ref name="LECG" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Alliance Remnant]]<ref name="LECG" />
+}}
+The '''Mobile Spacedock 220''' was produced by [[Rendili StarDrive/Legends|Rendili StarDrive]].
+
+==Characteristics==
+The 220 usually handled vessels up to a size of a [[ShaShore-class frigate|''ShaShore''-class frigate]], enveloping them in a vast metal frame while repairs were made. In the case of extensive repairs, sections of the spacedock could be sealed off with individual atmospheric shields to provide an easier working environment.<ref name="LECG" />
+
+The design's central spine structure contained power generators, engines, thrusters, crew quarters and machine shops. When traveling through [[Hyperspace/Legends|hyperspace]], the metal frame's ribs had to be retracted beforehand, a maneuver that often needed 12 to 24 hours of preparations. In an emergency, this could be shortened to only two hours, but required a thorough maintenance check for days afterward, as partially stored segments of the vessel would suffer damage from the journey.<ref name="LECG" />
+
+==History==
+The [[Core Fleet|Galactic Alliance Core Fleet]] managed to acquire one such spacedock. The vessel was one of their most prized assets, and they had difficulty getting enough trustworthy technicians to staff it.<ref name="LECG" />
+
+==Sources==
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Raumdock 220
+|es=Puerto espacial móvil 220
+}}
+
+[[Category:Rendili StarDrive products]]
+[[Category:Shipyard space station classes]]

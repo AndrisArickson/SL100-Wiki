@@ -1,0 +1,283 @@
+{{Top}}
+{{Youmay|the position|the [[Naboo Queen (restaurant)|Naboo Queen]] restaurant}}
+{{Citation}}
+[[File:Theedroyalpalace.png|thumb|200px|[[Theed Royal Palace/Legends|Theed Royal Palace]], residence of the Monarch of [[Naboo/Legends|Naboo]]]]
+
+The '''Monarch of Naboo''' was the [[King/Legends|king]] or [[Queen/Legends|queen]] ruling over the [[Planet/Legends|planet]] of [[Naboo/Legends|Naboo]]. This monarch served as an elected official since a political restructuring circa [[150 BBY/Legends|150 BBY]] and held the powers of [[Head of State/Legends|Head of State]], Head of Government and [[Commander-in-Chief/Legends|Commander-in-Chief]].
+
+==History==
+From the [[Galactic Republic/Legends|Galactic Republic's]] point of view, the monarchy of the [[Naboo (people)/Legends|Naboo people]] was their single most important institution, and its origins could be traced back to the earliest days of their society.<ref name="SON">''[[Secrets of Naboo]]''</ref> Around [[3900 BBY/Legends|3900 BBY]], the [[Galactic Republic/Legends|Republic]] explorer [[Kwilaan/Legends|Kwilaan]], discovered the [[Planet/Legends|planet]] [[Naboo/Legends|Naboo]] with a fleet of three [[Starship/Legends|starships]]. Groups of [[Human/Legends|Human]] refugees fleeing a civil war on [[Grizmallt/Legends|Grizmallt]], led by none other than Kwilaan, settled in the mountains and great grass plains of Naboo.<ref name="NEC">''[[The New Essential Chronology]]''</ref> The settlers established various city-states, which were in a constant struggle with each other. Additionnally, the colonists clashed with the amphibious [[Gungan/Legends|Gungans]], who were native to the planet. In that time of conflict, the Grizmalltian&mdash;who had become the Naboo&mdash;eventually appointed [[First Queen of Naboo|one woman]] their leader. She accepted the position and title of [[Queen/Legends|Queen]], but refused to start a hereditary dynasty, decreeing that her people would elect the wisest among them after her [[Death/Legends|death]].<ref name="SON" />
+
+Despite the early establishment of a meritocratic democracy,<ref name="SON" /> the Naboo did shift to a dynastic system. [[King/Legends|King]] [[Narmlé]] was the earliest known monarch of the line that would eventually be known as the line of kings, a hereditary monarchy solidified in history by King [[Jafan/Legends|Jafan]].
+
+Upon ending the [[Time of Suffering/Legends|Time of Suffering]], Jafan established a unified kingdom at [[Theed/Legends|Theed]] and the [[Great Time of Peace/Legends|Great Time of Peace]] ensued.
+
+==List of rulers of Naboo==
+{|class="wikitable"
+|-
+|Period
+|Portrait
+|Name
+|- valign="top"
+|c. [[3900 BBY/Legends|3900 BBY]]
+|
+|[[First Queen of Naboo|Unidentified Queen]]
+|- valign="top"
+|c. [[2000 BBY/Legends|2000 BBY]]
+|
+|King '''[[Narmlé]]'''
+|- valign="top"
+|
+|
+|King '''[[Jafan/Legends|Jafan I]]'''
+|- valign="top"
+|c. [[832 BBY/Legends|832]]&ndash;c. [[500 BBY/Legends|500 BBY]]
+|
+|King '''[[Jafan III (monarch)|Jafan III]]'''
+|- valign="top"
+|c. 500 BBY
+|
+|Queen '''[[Yram/Legends|Yram]]'''
+|- valign="top"
+|c. [[272 BBY]]
+|
+|[[Unidentified Queen of Naboo (c. 272 BBY)|Unidentified Queen]]
+|- valign="top"
+|c. [[150 BBY/Legends|150 BBY]]&ndash;[[121 BBY]]
+|
+|[[Unidentified Queen of Naboo (Gungan–Naboo War)|Unidentified Queen]]
+|- valign="top"
+|[[65 BBY/Legends|65]]&ndash;[[46 BBY/Legends|46 BBY]]
+|
+|King '''[[Bon Tapalo/Legends|Tapalo]]'''
+|- valign="top"
+|46&ndash;[[33 BBY/Legends|33 BBY]]
+|[[File:VerunaTheInteresting.jpg|80px]]
+|King '''[[Ars Veruna/Legends|Veruna]]'''
+|- valign="top"
+|33&ndash;[[25 BBY/Legends|25 BBY]]
+|[[File:QueenAmidala1.jpg|80px]]
+|Queen '''[[Padmé Amidala/Legends|Amidala]]'''
+|- valign="top"
+|25&ndash;[[21 BBY/Legends|21 BBY]]
+|[[File:Jamillia-large.jpg|80px]]
+|Queen '''[[Jamillia/Legends|Jamillia]]'''
+|- valign="top"
+|21&ndash;[[20 BBY/Legends|20 BBY]]
+|[[File:NeeyutneeFull-SWE.png|80px]]
+|Queen '''[[Neeyutnee/Legends|Neeyutnee]]'''
+|- valign="top"
+|20&ndash;[[18 BBY/Legends|18 BBY]]
+|[[File:Apailana-large.jpg|80px]]
+|Queen '''[[Apailana/Legends|Apailana]]'''
+|- valign="top"
+|18 BBY&ndash;
+|[[File:Kylantha.png|80px]]
+|Queen '''[[Kylantha]]'''
+|- valign="top"
+|
+|
+|Queen '''[[Mairayni]]'''
+|- valign="top"
+|c. [[0 BBY/Legends|0 BBY]]&mdash;
+|
+|[[Unidentified Queen of Naboo (Star Tours)|Unidentified Queen]]
+|- valign="top"
+|c. post-[[4 ABY/Legends|4 ABY]]&mdash;
+|[[File:NRQueen-closeup-WSWFG.jpg|80px]]
+|[[Unidentified Queen of Naboo (New Republic)|Unidentified Queen]]
+|}
+
+==Timeline of known rulers==
+<div style="text-align: center">
+<timeline>
+ImageSize=width:750 height:200
+PlotArea=left:10 bottom:150 top:0 right:10
+DateFormat=yyyy
+Period=from:-1000 till:-65
+TimeAxis=orientation:horizontal format:yyyy
+
+Colors=
+ id:Narmle value:tan1 legend:Narmlé_(c._2000_BBY)
+ id:Jafan value:skyblue legend:Jafan_(c._1000_BBY)
+ id:Unknown1 value:coral legend:Unidentified_Queen_(c._272_BBY)
+ id:Unknown2 value:limegreen legend:Unidentified_Queen_(c._150&ndash;121_BBY)
+
+PlotData=
+ fontsize:S
+ bar:bar1 from:-1000 till:-950 color: Narmle
+ bar:bar1 from:-950 till:-850 color: white
+ bar:bar1 from:-850 till:-800 color: Jafan
+ bar:bar1 from:-800 till:-500 color: white
+ bar:bar1 from:-450 till:-272 color: white
+ bar:bar1 from:-272 till:-212 color: Unknown1
+ bar:bar1 from:-212 till:-150 color: white
+ bar:bar1 from:-150 till:-121 color: Unknown2
+ at:-1000 text:"[[2000 BBY/Legends|c. 2000 BBY]]" shift: (3,30)
+ at:-1000 text:"[[Narmlé]]" shift: (3,15)
+ at:-850 text:"[[850 BBY|c. 850 BBY]]" shift: (3,-25)
+ at:-850 text:"[[Jafan/Legends|Jafan]]" shift: (3,-40)
+ at:-272 text:"[[272 BBY|c. 272 BBY]]" shift: (3,-25)
+ at:-272 text:"[[Unidentified Queen of Naboo (c. 272 BBY)|Unident. Queen]]" shift: (3,-40)
+ at:-150 text:"[[150 BBY/Legends|c. 150 BBY]]" shift: (3,30)
+ at:-150 text:"[[Unidentified Queen of Naboo|Unident. Queen]]" shift: (3,15)
+ at:-121 text:"[[121 BBY]]" shift: (3,-40)
+
+Define $up1 = 149
+Define $down1 = 119
+Define $up2 = 225
+Define $down2 = 175
+
+LineData=
+ at:-1000 width:0.1 frompos:$up1 tillpos:$up2
+ at:-900 width:0.5 frompos:$down1 tillpos:$up2 color: red
+ at:-850 width:0.1 frompos:$down1 tillpos:$down2 color: black
+ at:-500 width:0.1 frompos:$up1 tillpos:$up2
+ at:-272 width:0.1 frompos:$down1 tillpos:$down2
+ at:-150 width:0.1 frompos:$up1 tillpos:$up2
+ at:-121 width:0.1 frompos:$down1 tillpos:$down2
+
+Legend=orientation:vertical position:bottom columns:3
+</timeline>
+
+<timeline>
+ImageSize=width:750 height:200
+PlotArea=left:10 bottom:150 top:0 right:10
+DateFormat=yyyy
+Period=from:-65 till:1
+TimeAxis=orientation:horizontal format:yyyy
+
+Colors=
+ id:Tapalo value:red legend:Tapalo_(65&ndash;46_BBY)
+ id:Veruna value:redorange legend:Veruna_(46&ndash;33_BBY)
+ id:Amidala value:magenta legend:Amidala_(33&ndash;25_BBY)
+ id:Jamillia value:skyblue legend:Jamillia_(25&ndash;21_BBY)
+ id:Neeyutnee value:blue legend:Neeyutnee_(21&ndash;20_BBY)
+ id:Apailana value:coral legend:Apailana_(20&ndash;18_BBY)
+ id:Kylantha value:yellowgreen legend:Kylantha_(18_BBY&mdash;)
+
+PlotData=
+ fontsize:S
+ bar:bar1 from:-65 till:-46 color: Tapalo
+ bar:bar1 from:-46 till:-33 color: Veruna
+ bar:bar1 from:-33 till:-25 color: Amidala
+ bar:bar1 from:-25 till:-21 color: Jamillia
+ bar:bar1 from:-21 till:-20 color: Neeyutnee
+ bar:bar1 from:-20 till:-18 color: Apailana
+ bar:bar1 from:-18 till:end color: Kylantha
+ at:-65 text:"[[65 BBY/Legends|65 BBY]]" shift: (3,-25)
+ at:-65 text:"[[Tapalo]]" shift: (3,-40)
+ at:-46 text:"[[46 BBY/Legends|46 BBY]]" shift: (3,30)
+ at:-46 text:"[[Veruna]]" shift: (3,15)
+ at:-33 text:"[[33 BBY/Legends|33 BBY]]" shift: (3,-25)
+ at:-33 text:"[[Padmé Amidala/Legends|Amidala]]" shift: (3,-40)
+ at:-25 text:"[[25 BBY/Legends|25 BBY]]" shift: (3,30)
+ at:-25 text:"[[Jamillia/Legends|Jamillia]]" shift: (3,15)
+ at:-21 text:"[[21 BBY/Legends|21 BBY]]" align:right shift: (-1,-25)
+ at:-21 text:"[[Neeyutnee/Legends|Neeyutnee]]" align:right shift: (-1,-40)
+ at:-20 text:"[[20 BBY/Legends|20 BBY]]" shift: (3,30)
+ at:-20 text:"[[Apailana/Legends|Apailana]]" shift: (3,15)
+ at:-18 text:"[[18 BBY/Legends|18 BBY]]" shift: (3,-25)
+ at:-18 text:"[[Kylantha]]" shift: (3,-40)
+ at:1 text:"[[1 ABY/Legends|1 ABY]]" align:right shift: (-1,30)
+
+Define $up1 = 149
+Define $down1 = 119
+Define $up2 = 225
+Define $down2 = 175
+
+LineData=
+ at:-65 width:0.1 frompos:$down1 tillpos:$down2
+ at:-46 width:0.1 frompos:$up1 tillpos:$up2
+ at:-33 width:0.1 frompos:$down1 tillpos:$down2
+ at:-25 width:0.1 frompos:$up1 tillpos:$up2
+ at:-21 width:0.1 frompos:$down1 tillpos:$down2
+ at:-20 width:0.1 frompos:$up1 tillpos:$up2
+ at:-18 width:0.1 frompos:$down1 tillpos:$down2
+ at:1 width:0.1 frompos:$up1 tillpos:$up2
+
+Legend=orientation:vertical position:bottom columns:3
+</timeline>
+</div>
+
+{{Stub}}
+
+==Appearances==
+*''[[Star Wars: The Old Republic]]'' {{Mo}}
+*[[Darth Plagueis (novel)|''Darth Plagueis'']] {{Ab|Darth Plagueis (audiobook)}}
+*{{Tales|5|A Summer's Dream}}
+*{{Film|I}} {{1st}}
+*''[[Watch Out, Jar Jar!]]''
+*{{Film|II}}
+*''[[Star Wars: Battlefront II]]''
+*{{TCW|Blue Shadow Virus (episode)}}
+*{{TCW|Mystery of a Thousand Moons}} {{Flash}}
+*{{TCW|Corruption (episode)}} {{Mo}}
+*{{TCW|Assassin (episode)}} {{Mo}}
+*{{TCW|Shadow Warrior}}
+*{{TCW|Crisis on Naboo}}
+*{{Film|III}}
+*''[[The Last of the Jedi: Death on Naboo]]''
+
+===Non-canon appearances===
+*<!-- 2011-09-XX -->''[[LEGO Star Wars: Darth Maul's Mission]]''
+*<!-- 2013-08-27 -->[[Jedi Academy (novel)|''Jedi Academy'']] {{Mo}}
+
+==Sources==
+{{ScrollBox|content=
+{{MoreSources}}
+*<!-- 1999-04-21 -->''[[Star Wars Episode I Who's Who: A Pocket Guide to the Characters of The Phantom Menace]]''
+*<!-- 1999-11-06 -->''[[Star Wars Episode I: The Data File]]''
+*<!-- 2001-02-08 -->''[[Secrets of Naboo]]''
+*<!-- 2002-04-22 -->''[[Star Wars: Attack of the Clones: The Illustrated Companion]]''
+*<!-- 2002-04-23 -->''[[Star Wars: Attack of the Clones: The Visual Dictionary]]''
+*<!-- 2003-12-16 -->''[[Star Wars Galaxies: An Empire Divided Quick Reference Guide]]''
+*<!-- 2005-11-28 -->{{InsiderCite|85|Who's Who in the Delegation of 2000}}
+*<!-- 2007-07-24 -->{{InsiderCite|95|Star Wars Q&A|''Star Wars'' Q&A}}
+*<!-- 2008-02-18 -->''[[Star Wars: Epic Battles]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+<!-- 2011-01-27 -->{{SourceContents|issue={{StarshipsVehiclesCite|62|parent=1}}|contents=
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Action Stations}}
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Welcome On Board}}
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Droids, Aliens & Creatures}}
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|In A Galaxy Far, Far Away}}
+}}
+*<!-- 2012-01-16 -->''[[Star Wars: Battle for Naboo]]''
+*<!-- 2012-01-16 -->''[[Star Wars: Darth Maul, Sith Apprentice]]''
+*<!-- 2012-01-16 -->''[[Star Wars: The Phantom Menace: The Expanded Visual Dictionary]]''
+*<!-- 2012-02-10 -->''[[Book of Sith: Secrets from the Dark Side]]''
+*<!-- 2012-10-29 -->''[[Star Wars: Obi-Wan Kenobi, Jedi Knight]]''
+<!-- 2013-09-04 -->{{CardGameSet|set={{ForceCollection|parent=1}}|cards=
+*<!-- 2013-09-04 -->{{ForceCollection|Boss Nass|star=1}}
+*<!-- 2013-09-04 -->{{ForceCollection|Captain Panaka|star=1}}
+*<!-- 2013-09-04 -->{{ForceCollection|Rabé}}
+*<!-- 2013-09-04 -->{{ForceCollection|Boss Nass|star=3}}
+*<!-- 2013-09-04 -->{{ForceCollection|Captain Panaka|star=3}}
+*<!-- 2013-09-04 -->{{ForceCollection|Lott Dod|star=3}}
+*<!-- 2013-09-04 -->{{ForceCollection|Padmé Amidala (Naboo)|star=3}}
+}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-04-25 -->{{SWE|technology|astromechdroids|astromech droids}} {{C|as "Queen of Naboo"}}
+*<!-- 2014-04-25 -->{{SWE|groups|nabooroyalguards|Naboo royal guards}}
+*<!-- 2014-04-25 -->{{SWE|groups|nabooroyalhandmaidens|Naboo royal handmaidens}}
+*<!-- 2014-04-25 -->{{SWE|characters|padmeamidala|Padmé Amidala}}
+*<!-- 2014-04-25 -->{{SWE|characters|queenneeyutnee|Queen Neeyutnee}}
+*<!-- 2014-04-25 -->{{SWE|characters|siobibble|Sio Bibble}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=films/star-wars-episode-i-the-phantom-menace|text=''Star Wars: The Phantom Menace''}}
+*{{SW|url=films/star-wars-episode-ii-attack-of-the-clones|text=''Star Wars: Attack of the Clones''}}
+
+{{Interlang
+|es=Monarca de Naboo/Leyendas
+}}
+
+[[Category:Titles of monarchs]]
+
+{{RelatedCategories
+|[[Category:Monarchs of Naboo]]
+}}
