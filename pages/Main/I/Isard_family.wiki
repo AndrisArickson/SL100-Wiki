@@ -1,0 +1,42 @@
+{{Top|leg}}
+{{Family
+|image=[[File:Isard.jpg]]
+|name=Isard family
+|type=
+|species=[[Human/Legends|Human]]<ref name="xwing">''[[X-Wing: Rogue Squadron]]''</ref>
+|first=
+|head=
+|relatives=
+|origin=
+|locations=[[Coruscant/Legends|Coruscant]]<ref name="xwing" />
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="dbst">{{DB|organization|shadowtroopers|Utapau shadow troopers}}</ref>
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="xwing" />
+}}
+{{Quote|The Isards make their own luck.|Armand Isard|<ref name="IAD">{{StoryCite|story=Interlude at Darkknell|book=Tales from the New Republic}}</ref>}}
+The '''Isard family''' was a wealthy and influential family of [[Human/Legends|Humans]], some members of which played prominent roles in the [[Galactic Republic/Legends|Galactic Republic]] and the [[Galactic Empire/Legends|Galactic Empire]]. One of them, [[Armand Isard/Legends|Armand Isard]], served as [[Director of Republic Intelligence]]<ref name="dbst" /> and remained in post as [[Director of Imperial Intelligence]] when the Republic was [[Declaration of a New Order|reorganized]] into the Empire.<ref name="xwing" /> When he was sentenced to [[Death/Legends|death]] in [[0 BBY/Legends|0 BBY]],<ref name="cswe">{{CSWECite|II|117|Isard, Armand}}</ref> Isard was initially replaced by [[Lord/Legends|Lord]] [[Cronal]],<ref name="gamer5">{{GamerCite|5|The Emperor's Pawns}}</ref> but his daughter [[Ysanne Isard]] ended up occupying the post.<ref name="xwing" /> Armand Isard also had a [[Armand Isard's brother|brother]] who served in the [[Republic Navy/Legends|Republic Navy]] until he was killed during the [[Stark Hyperspace War/Legends|Stark Hyperspace War]]<ref name="AotE1">[[Agent of the Empire – Iron Eclipse 1|''Agent of the Empire – Iron Eclipse'' 1]]</ref> in [[44 BBY/Legends|44 BBY]].<ref name="shw">''[[Star Wars: The Stark Hyperspace War]]''</ref>
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree| | | |ArmIPar| |ArmIPar=[[Armand Isard/Legends|Armand Isard]]'s parents|boxstyle_ArmIPar=u}}
+{{FamilyTree| | |,|-|^|-|.| | | | | | | |}}
+{{FamilyTree| |ArmBro| |ArmI|y|YsaMom| |ArmBro=[[Armand Isard's brother]]|ArmI=[[Armand Isard/Legends|Armand Isard]]|YsaMom=[[Ysanne Isard]]'s mother|boxstyle_ArmBro=m|boxstyle_ArmI=m|boxstyle_YsaMom=f}}
+{{FamilyTree| | | | | | | | |!| | | | | |}}
+{{FamilyTree| | | | | | | |YSA| | | | |YSA=[[Ysanne Isard]]|boxstyle_YSA=f}}
+{{FamilyTree/end}}
+
+==Appearances==
+*[[Agent of the Empire – Iron Eclipse 1|''Agent of the Empire – Iron Eclipse'' 1]]
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Families]]
+
+{{RelatedCategories
+|[[Category:Isard family]]
+}}
