@@ -1,0 +1,82 @@
+{{Top|Canon=Umbaran Crawler Tank}}
+{{GroundVehicle
+|image=[[File:UmbaranCrawlerTank1-SWE.png]]
+|name=Impeding Assault Tank
+|designer=
+|manufacturer=
+|line=
+|model=[[Umbaran/Legends|Umbaran]] crawler [[Tank/Legends|tank]]<ref name="encyclopedia">{{SWE|technology|umbarancrawlertank|Umbaran crawler tank}}</ref>
+|type=Impeding Assault Tank<ref name="encyclopedia" />
+|cost=
+|modifier=
+|sysmods=
+|length=54.78 [[Meter/Legends|meters]]<ref name="encyclopedia" />
+|width=7.76 meters<ref name="encyclopedia" />
+|height=5.8 meters<ref name="encyclopedia" />
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=[[Ray shield/Legends|Equipped]]<ref name="encyclopedia" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*10 double-ended [[Blaster cannon/Legends|blaster cannons]] {{C|one per body segment}}<ref name="encyclopedia" />
+*4 articulated [[Turret/Legends|turret]] guns {{C|head segment}}<ref name="encyclopedia" />
+*2 twin [[Cannon/Legends|cannons]] {{C|tail segment}}<ref name="encyclopedia" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Umbaran militia]]<ref name="umbarans">{{SWE|groups|umbarans|Umbarans}}</ref>
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="encyclopedia" />
+}}
+The '''Impeding Assault Tank''' ('''IAT'''), more commonly known as the '''Umbaran crawler tank''', was a caterpillar-like ground vehicle developed by the [[Umbaran militia]].
+
+==Description==
+The IAT was a [[Ray shield/Legends|shielded]] machine<ref name="encyclopedia" /> that could be [[Pilot/Legends|piloted]] by a single [[Umbaran/Legends|Umbaran]].<ref name="general" /> It was armed with [[Blaster cannon/Legends|blaster cannons]]&mdash;four at the front and two at the rear, while ten covered the segmented bodies.<ref name="encyclopedia" />
+
+==History==
+[[File:UmbaranCrawlerTank-BattleOfUmbara.png|thumb|left|250px|An Impeding Assault Tank attacks the 501st Legion during the Battle of Umbara.]]
+The only action the IAT had experienced was during the [[Battle of Umbara/Legends|Battle of Umbara]] between the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] from the [[Galactic Republic/Legends|Galactic Republic]] and the [[Umbaran militia]] that had sided with the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]. As the [[Clone trooper/Legends|clone troopers]] of the [[501st Legion/Legends|501st Legion]] patrolled the [[Planet/Legends|planet]] of Umbara, one IAT suddenly sprang out from under the ground, catching many clones off-guard. Following the arrival of additional crawler tanks, the Republic forces used [[Missile launcher/Legends|rocket launchers]] and [[Thermal detonator/Legends|thermal detonators]] to destroy the vehicles.<ref name="general">{{TCW|The General (episode)}}</ref>
+
+==Appearances==
+*{{TCW|The General (episode)}} {{1st}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Impeding Assault Tanks}}
+*<!-- 2012-03-13 -->{{InsiderCite|132|Notes from the Front Line|reprint=1}}
+*<!-- 2012-06-12 -->{{InsiderCite|134|10 Amazing Moments from Star Wars: The Clone Wars: Season Four|10 Amazing Moments from ''Star Wars: The Clone Wars'': Season Four}}
+*<!-- 2014-04-25 -->{{SWE|technology|umbarancrawlertank|Umbaran crawler tank}} {{1stID|Impeding Assault Tank}}
+*<!-- 2014-04-25 -->{{SWE|technology|umbaranmhc|Umbaran MHC}}
+*<!-- 2014-04-25 -->{{SWE|groups|umbarans|Umbarans}} {{C|First mentioned, as "Umbaran crawler tank"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Invasionsabwehrtank
+|nl=Impeding Assault Tank
+|uk=Перешкоджаючий штурмовий танк/Легенди
+}}
+
+[[Category:Tank models]]
+[[Category:Umbaran vehicle classes]]

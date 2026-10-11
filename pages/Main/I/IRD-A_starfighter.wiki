@@ -1,0 +1,93 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:IRD-A_Starfighter.jpg]]
+|name=IRD-A starfighter
+|designer=
+|manufacturer=[[Corporate Sector Authority/Legends|Corporate Sector Authority]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|line=
+|model=IRD-A starfighter<ref name="RECG" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="HSatCSS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref><ref name="RECG" />
+|cost=90,000 [[Galactic Credit Standard/Legends|credits]]<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=10 [[Meter/Legends|meters]]<ref name="HSatCSS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,150 km/h<ref name="HSatCSS" /><ref name="RECG" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="RECG" />
+|poweroutput=
+|power=
+|shield gen=None<ref name="HSatCSS" /><ref name="RECG" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Medium [[Blaster cannon/Legends|blaster cannons]]<ref name="RECG" /> (2)<ref name="HSatCSS" />
+*Light [[Concussion missile/Legends|concussion missile]] launchers<ref name="RECG" /> (2)<ref name="HSatCSS" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="HSatCSS" /><ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=25<ref name="HSatCSS" /> - 40 kg<ref name="RECG" />
+|cargohandling=
+|consumables=1<ref name="RECG" /> - 2days<ref name="HSatCSS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Corporate Sector Authority/Legends|Corporate Sector Authority]]<ref name="HSatCSS" /><ref name="RECG" />
+*[[Confederation]]
+}}
+The '''IRD-A starfighter''', short for '''Intercept *Reconnaissance *Defense''', was an upgraded version of the [[Corporate Sector Authority/Legends|Corporate Sector's]] [[IRD starfighter]].
+
+==Characteristics==
+The original IRD featured powerful engines, twin [[Laser cannon/Legends|laser cannons]], and the best [[Pilot/Legends|pilot]] ejection mechanism of any contemporary fighter, but lacked a [[Hyperdrive/Legends|hyperdrive]]. As a result, the Authority IRD had to be transported by larger vessels such as the [[Marauder-class Assault Corvette/Legends|''Marauder''-class corvette]] or the [[Victory I-class Star Destroyer/Legends|''Victory''-class Star Destroyer]].
+
+==History==
+[[File:Ird.jpg|thumb|left|200px|An original IRD (left) and an IRD-A (right)]]
+The Corporate Sector Authority designed the Authority IRD fighter for the various missions of the [[Picket Fleet/Legends|Picket Fleet]]. Early Authority IRD models were not aerodynamic and performed so badly in atmospheric combat that many pilots refused to engage targets in [[Atmosphere/Legends|atmosphere]]; this led to the development of the Authority IRD-A starfighter, which was deployed during atmospheric battles. The IRD-A had a carefully molded fuselage that channeled air through a vector stabilizer, enhancing both maneuverability and speed; it also mounted [[Concussion missile/Legends|concussion missiles]], making it a tougher opponent than its predecessor.
+
+During [[Han Solo/Legends|Han Solo's]] days in the [[Corporate Sector/Legends|Corporate Sector]], Solo and a group of [[Outlaw tech/Legends|outlaw techs]] fought against the new Authority IRD-A fighters, defeating them in early model [[Z-95 Headhunter/Legends|Z-95 Headhunters]]; this victory was anomalous, however, and other, more successful battles encouraged the Authority to begin a full production run of the IRD-A.
+
+Several IRD-A's were present when [[Jahan Cross]] escaped from the [[Stark Compound]] on [[Etti IV/Legends|Etti IV]]. They gave chase as he fled the compound.<ref name="Agent of the Empire – Iron Eclipse 2">[[Agent of the Empire – Iron Eclipse 2|''Agent of the Empire – Iron Eclipse'' 2]]</ref>
+
+==Appearances==
+*[[Agent of the Empire – Iron Eclipse 2|''Agent of the Empire – Iron Eclipse'' 2]]
+*[[Agent of the Empire – Iron Eclipse 3|''Agent of the Empire – Iron Eclipse'' 3]]
+*''[[Han Solo at Stars' End]]'' {{1st}}
+*''[[Star Wars Missions 20: Total Destruction]]''
+
+==Sources==
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=IRD-Jäger
+|es=Caza IRD
+}}
+
+[[Category:Corporate Sector Authority products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of the Corporate Sector Authority]]

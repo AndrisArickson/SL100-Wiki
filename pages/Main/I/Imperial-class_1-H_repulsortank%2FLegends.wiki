@@ -1,0 +1,90 @@
+{{Top}}
+{{RepulsorliftVehicle
+|image=[[File:1-H.jpg]]
+|name=''Imperial''-class 1-H repulsortank
+|designer=
+|manufacturer=[[Ubrikkian Industries/Legends|Ubrikkian Industries]]<ref name="J9">{{JournalCite|9|Repulsortank Battlefield}}</ref>
+|line=[[Imperial-class repulsortank|''Imperial''-class repulsortank]]<ref name="J9" />
+|model=
+|type=[[Heavy repulsortank]]<ref name="J9" />
+|cost=50,000 [[Galactic Credit Standard/Legends|credits]]<ref name="J9" />
+|modifier=
+|sysmods=
+|length=20.5 [[Meter/Legends|Imperial standard meters]]<ref name="J9" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=300 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]]<ref name="J9" />
+|max alt=2 Imperial standard meters<ref name="J9" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*1 [[Mark 4e/S heavy laser cannon]]<ref name="J9" />
+*1 [[Mark 3/S Medium Blaster Cannon]]<ref name="J9" />
+*2 [[Blaster cannon/Legends|blaster cannons]]<ref name="IHCG">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=*5 (including driver, 2 [[Gunner/Legends|gunners]], and commanding [[Sergeant/Legends|sergeant]])<ref name="J9" />
+|skeleton=
+|passengers=1<ref name="J9" />
+|capacity=250 [[Kilogram/Legends|kilograms]]<ref name="J9" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="J9" />
+*[[Imperial Army/Legends|Imperial Army]]<ref name="J9" />
+**[[Imperial Hammers Elite Armor Unit/Legends|Imperial Hammers Elite Armor Unit]]<ref name="J9" />
+}}
+The '''''Imperial''-class 1-H repulsortank''', also known as the '''Imperial Repulsortank 1-H''', was a heavy variant of the [[Imperial-class repulsortank|''Imperial''-class repulsortank]].
+
+==Description==
+Constructed by [[Ubrikkian Industries/Legends|Ubrikkian Industries]], the 1-H was the standard production model of the [[Imperial-class repulsortank|''Imperial''-class repulsortank]]. It mounted a single [[Merr-Sonn Munitions, Inc./Legends|Merr-Sonn Munitions, Inc.]] [[Mark 4e/S heavy laser cannon]], one of the best [[Laser cannon/Legends|laser cannons]] employed by the [[Imperial Army/Legends|Imperial Army]], as its main weapon. It had a [[Mark 3/S Medium Blaster Cannon]] as its secondary armament,<ref name="J9" /> as well as two additional blaster cannons mounted on either side of its hull which augmented the already formidable amount of firepower of the tank.<ref name="IHCG" /> The 1-H was crewed by five, including a driver, two [[Gunner/Legends|gunners]], and a commanding [[Sergeant/Legends|sergeant]]. There was room for single passengers in the tank. Like all ''Imperial''-class repulsortanks, the 1-H was built on the same 20.5 [[Meter/Legends|meter]]-long chassis and could reach speeds of up to 300 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]]. It had a cargo capacity of 250 [[Kilogram/Legends|kilograms]] and a ground clearance of two meters. 1-Hs cost 50,000 [[Galactic Credit Standard/Legends|credits]].<ref name="J9" />
+
+==History==
+Out of the initial production run of 1,500 [[Hovertank/Legends|repulsortanks]], 1,420 were assigned to the [[DS-1 Orbital Battle Station/Legends|first Death Star]], while the rest were given to the [[Imperial Hammers Elite Armor Unit/Legends|Imperial Hammers Elite Armor Unit]]. After the [[Space station/Legends|station's]] [[Battle of Yavin/Legends|destruction]], during which the majority of the tanks were destroyed, production of the tank continued at a steady, yet reduced pace.<ref name="J9" />
+
+Due to reorganization and retraining of the unit, the Imperial Hammers were not present at the [[Battle of Hoth/Legends|Battle of Hoth]]. [[Colonel/Legends|Colonel]] [[Zel Johans]], the unit's commanding officer, would later maintain that if they had been present, their 1-H tanks would have been more successful against the defending [[Alliance to Restore the Republic/Legends|Alliance]] forces than [[General/Legends|General]] [[Maximilian Veers/Legends|Veers's]] [[All Terrain Armored Transport/Legends|AT-ATs]].<ref name="J15">{{JournalCite|15|Special Military Unit Intelligence Update}}</ref>
+
+==Behind the scenes==
+[[File:Imperial_repulsortank_TRAS.jpg|thumb|right|180px]]
+An Imperial repulsortank as it was depicted in the [[The Rebel Alliance Sourcebook]] boasts a slightly different design to other depictions of the 1-H, which might result in eventual creation of the [[Imperial Heavy Repulsortank]].
+
+==Sources==
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]'' {{ID|Imperial repulsortank}}
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1996-02-XX -->{{JournalCite|9|Repulsortank Battlefield}}
+*<!-- 1997-11-XX -->{{JournalCite|15|Special Military Unit Intelligence Update}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-05-12 -->{{Hyperspace|url=hyperspace/member/sourcearchive/news20090512.html|text=The Battle of Turak IV|int=The Battle of Turak IV}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]'' {{1stID|''Imperial''-class 1-H repulsortank}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=1-H-Repulsorpanzer#legends
+|es=Tanque repulsor 1-H Imperial
+|nl=Imperial-class Repulsortank 1-H
+|uk=Імперський репульсорний танк 1-H
+}}
+
+[[Category:Imperial-class repulsortank models]]

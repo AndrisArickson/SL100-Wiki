@@ -1,0 +1,94 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:IL-5_Ocula.png]]
+|name=IL-5 Ocula
+|designer=
+|manufacturer=[[Czerka Arms/Legends|Czerka Corporation]]<ref name="GS">''[[Star Wars: The Old Republic: Galactic Starfighter]]''</ref>
+|line=
+|model=
+|type=[[Starfighter/Legends|Starfighter]]<ref name="GS" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="GS" />
+|hull=
+|sensor=Equipped<ref name="GS" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 [[Laser cannon/Legends|laser cannons]]<ref name="GS" />
+*Additional missiles and torpedoes equippable<ref name="GS" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Scout/Legends|Scout]]<ref name="GS" />
+*[[Shuttle/Legends|Shuttle]]<ref name="TOR:MS">{{TORcite|exp=strongholds|type=other|Decoration: "Mandalorian Shuttle"}}</ref>
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="GS" />
+*[[Sith Empire (Post–Great Hyperspace War)|Sith Empire]]<ref name="GS" />
+*[[Avesta Militia]]<ref name="TOR:TiP">{{TORcite|exp=rothc|type=faction|Republic|Trouble in Paradise|Keylander Station}}</ref>
+*[[Mandalorian/Legends|Mandalorians]]<ref name="TOR:MS" />
+**[[Mandalorian Trat'ade|Mandalore the Avenger's faction]]<ref name="TOR:ARaaHP">{{TORcite|exp=lots|type=general|A Rock and a Hard Place|Odessen}}</ref>
+}}
+The '''IL-5 Ocula''', also known to the [[Galactic Republic/Legends|Galactic Republic]] as the '''IL-5 Skybolt''', was a [[Starfighter/Legends|starfighter]] produced by [[Czerka Arms/Legends|Czerka Corporation]]. Czerka's first entry into the [[Scout/Legends|scout]] starfighter field, the craft was well-known for its proprietary miniaturization techniques that allowed for almost all popular internal components to be installed.<ref name="GS" />
+
+==History==
+During the [[Galactic War]], the [[Republic Military/Legends|Republic Military]] chose to forgo purchasing the Ocula in favor of [[Corellia StarDrive]]'s designs, but a number of Oculas&mdash;redesignated the Skybolt&mdash;were utilized by regional [[Governor/Legends|governors]] and [[Admiral/Legends|admirals]]. The Ocula was also particularly popular with the [[Sith Empire (Post–Great Hyperspace War)|Sith Empire]], who ordered thousands of Oculas through intermediaries.<ref name="GS" />
+
+During the [[Conquest of Makeb]], Navigator [[Uptin]] transported Republic forces from [[Keylander Station]] to the surface of the [[Planet/Legends|planet]] [[Makeb]] aboard a IL-5 shuttle.<ref name="TOR:TiP" /> During the same campaign, The Sith Empire used a [[Cloaking device/Legends|cloaked]] IL-5 Ocula to transport Imperial operatives from the [[Makeb orbital station]] to the surface of Makeb.<ref name="TOR:TPtH">{{TORcite|exp=rothc|type=faction|Imperial|To Pierce the Heavens|Makeb orbital station}}</ref>
+
+<div style="float: right">[[File:Mandalorian_Shuttle.png|thumb|right|250px|Shae Vizla's shuttle]]</div>
+During the [[Third Galactic War]], [[Whisper (IL-5 Ocula)|one]] IL-5 Ocula was the personal [[Shuttle/Legends|shuttle]] of [[Mandalore the Avenger|Shae Vizla]], better known as Mandalore the Avenger. It was used by Shae Vizla, [[Rass Ordo]] and the [[Alliance Commander|the Commander]] of the [[Eternal Alliance]] to [[Showdown on Ruhnuk|travel]] to [[Ruhnuk]] during the [[Mandalorian civil war (Third Galactic War)|Mandalorian Civil War]].<ref name="TOR:ARaaHP" /> Shae Vizla later used her shuttle to [[Malgus's escape|rescue]] [[Darth Malgus]] from [[Carrick Station]].<ref name="TOR:Sundering">{{TORcite|exp=lots|type=general|Sundering|Carrick Station}}</ref>
+
+==Appearances==
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]]
+*''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]'' {{1st}}
+*''[[Star Wars: The Old Republic: Galactic Starfighter]]''
+*''[[Star Wars: The Old Republic: Galactic Strongholds]]''
+*''[[Star Wars: The Old Republic: Onslaught]]''
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]''
+*{{TORweb|url=info/news/%5Bnews-category%5D/20260528|text="Last Road to Khar Shian"|int=Last Road to Khar Shian}}
+
+==Sources==
+*<!-- 2013-04-04 -->{{TORweb|url=info/news/blog/20130404|text=SIS Intel Report: Key locations overview of the planet Makeb}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{ArtStation|username=dennisbruber|url=artwork/8bBLBG|name=[[Dennis Bruber]]|text=Shuttle for Star Wars: The Old Republic}}
+
+{{Interlang
+|de=IL-5
+|es=IL-5 Ocula
+}}
+
+[[Category:Czerka Arms products]]
+[[Category:Starfighter classes]]
