@@ -1,0 +1,290 @@
+{
+    "mapImage": "TheMidRim.jpg",
+    "pageCategories": [
+        "Interactive Maps of multiple sectors",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1279,
+            1613
+        ]
+    ],
+    "origin": "top-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Featured articles",
+            "color": "#ffff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Good articles",
+            "color": "#00ff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Comprehensive articles",
+            "color": "#ff0000",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "id": "1",
+            "categoryId": "3",
+            "position": [
+                243,
+                1244
+            ],
+            "popup": {
+                "title": "Jidlor Marches",
+                "description": ".",
+                "link": {
+                    "url": "Jidlor_Marches",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "2",
+            "categoryId": "3",
+            "position": [
+                972,
+                1326
+            ],
+            "popup": {
+                "title": "Vendusii sector",
+                "description": ".",
+                "link": {
+                    "url": "Vendusii_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "3",
+            "categoryId": "3",
+            "position": [
+                295,
+                267
+            ],
+            "popup": {
+                "title": "Londori sector",
+                "description": ".",
+                "link": {
+                    "url": "Londori_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "4",
+            "categoryId": "3",
+            "position": [
+                370,
+                222
+            ],
+            "popup": {
+                "title": "Pacor sector",
+                "description": ".",
+                "link": {
+                    "url": "Pacor_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "5",
+            "categoryId": "3",
+            "position": [
+                398,
+                282
+            ],
+            "popup": {
+                "title": "Thory sector",
+                "description": ".",
+                "link": {
+                    "url": "Thory_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "6",
+            "categoryId": "3",
+            "position": [
+                428,
+                355
+            ],
+            "popup": {
+                "title": "Vadigult sector",
+                "description": ".",
+                "link": {
+                    "url": "Vadigult_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "7",
+            "categoryId": "2",
+            "position": [
+                537,
+                301
+            ],
+            "popup": {
+                "title": "Nicandra sector",
+                "description": ".",
+                "link": {
+                    "url": "Nicandra_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "8",
+            "categoryId": "2",
+            "position": [
+                1124,
+                819
+            ],
+            "popup": {
+                "title": "Oktos sector",
+                "description": ".",
+                "link": {
+                    "url": "Oktos_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "9",
+            "categoryId": "2",
+            "position": [
+                1198,
+                1024
+            ],
+            "popup": {
+                "title": "Dohlbani sector",
+                "description": ".",
+                "link": {
+                    "url": "Dohlbani_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "10",
+            "categoryId": "2",
+            "position": [
+                139,
+                1290
+            ],
+            "popup": {
+                "title": "Dononter sector",
+                "description": ".",
+                "link": {
+                    "url": "Dononter_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "11",
+            "categoryId": "2",
+            "position": [
+                746,
+                1351
+            ],
+            "popup": {
+                "title": "Quess sector",
+                "description": ".",
+                "link": {
+                    "url": "Quess_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "12",
+            "categoryId": "2",
+            "position": [
+                984,
+                1089
+            ],
+            "popup": {
+                "title": "Ividal sector",
+                "description": ".",
+                "link": {
+                    "url": "Ividal_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "13",
+            "categoryId": "2",
+            "position": [
+                319,
+                1293
+            ],
+            "popup": {
+                "title": "Oriolan sector",
+                "description": ".",
+                "link": {
+                    "url": "Oriolan_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "14",
+            "categoryId": "2",
+            "position": [
+                609,
+                241
+            ],
+            "popup": {
+                "title": "Hewett sector",
+                "description": ".",
+                "link": {
+                    "url": "Hewett_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                848.528137423857,
+                318.2874836474316
+            ],
+            "popup": {
+                "title": "Pulsar",
+                "description": "The Bedlam Pulsar in the Thusa sector, home to the [[Bedlam Spirits]]. ",
+                "link": {
+                    "url": "Bedlam Pulsar",
+                    "label": "Pulsar of the Bedlam Spirits"
+                },
+                "image": "File:Spirits.jpg"
+            },
+            "id": "15"
+        }
+    ]
+}

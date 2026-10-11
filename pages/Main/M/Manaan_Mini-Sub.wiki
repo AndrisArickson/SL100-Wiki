@@ -1,0 +1,70 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Manaan_Mini-Sub_story.jpg]]
+|name=Manaan Mini-Sub
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Submarine/Legends|Submarine]]<ref name="TOR:BP">{{TORcite|exp=lots|type=faction|Republic|Borrowed Power|Manaan}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]<ref name="TOR:MMS">{{TORcite|exp=lots|type=item|Manaan Mini-Sub|the Cartel Market}}</ref>
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Manaan Mini-Sub''' was a model of [[Submarine/Legends|submarine]] that was used on the planet [[Manaan/Legends|Manaan]] around the time of [[Third Galactic War]]. The [[Alliance Commander|Commander]] of the [[Eternal Alliance]] and the [[Jedi/Legends|Jedi]] [[Arn Peralun]] used such vehicle during the [[Invasion of Manaan]] to access the [[Imperial Kolto Mining Facility]].<ref name="TOR:BP" />
+{{Veh-stub}}
+
+==Behind the scenes==
+[[File:Manaan_Mini-Sub.jpg|thumb|right|220px|The player speeder version of the submersible.]]
+The Manaan Mini-Sub first appeared in the main storyline quests of the video game ''[[Star Wars: The Old Republic: Legacy of the Sith]]''.<ref name="TOR:BP" /> It was later added to the game as a player mount via the [[Cartel Market]]. Although it was a submersible, this mount was used by players as a regular landspeeder mount.<ref name="TOR:MMS" />
+
+==Appearances==
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]] {{1stID|Manaan Mini-Sub}}
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]'' {{1st}}
+
+==Sources==
+*{{TORweb|url=info/news/%5Bnews-category%5D/20250508|text=Game Update 7.7 Recap}}
+*{{TORweb|url=info/news/%5Bnews-category%5D/20250528-1|text=Game Update 7.7 "Dynamic Worlds" is now live!}}
+*{{TORweb|url=info/news/%5Bnews-category%5D/20250528|text=Cartel Market Additions: Game Update 7.7}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Submarine models]]

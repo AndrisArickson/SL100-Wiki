@@ -1,0 +1,113 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Mankvim-814_light_interceptor.png]]
+|name=Mankvim-814 light interceptor
+|designer=
+|manufacturer=[[Feethan Ottraw Scalable Assemblies/Legends|Feethan Ottraw Scalable Assemblies]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref><ref name="SBP6">{{Wizards|url=default.asp?x=starwars/article/SBPreview6|text=''Starship Battles'' Preview 6}}</ref><ref name="SOTGSE">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=
+|model=Mankvim-814 light interceptor<ref name="SBP6" /><ref name="SOTGSE" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="SBP6" /><ref name="SOTGSE" />
+|cost=*New: 15,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SBP6" /><ref name="SOTGSE" />
+*Used: 6,000 credits<ref name="SBP6" /><ref name="SOTGSE" />
+|modifier=
+|sysmods=
+|length=10.7 meters<ref name="CCS" /><ref name="SBP6" />
+|width=6.46 meters<ref name="CCS" />
+|height=3.45 meters<ref name="CCS" />
+|mass=
+|max accel=3,400 G<ref name="CCS" />
+|mglt=
+|max speed=1,450 km/h<ref name="SBP6" /><ref name="SOTGSE" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="CCS" /><ref name="SBP6" />
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SBP6" /><ref name="SOTGSE" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Light<ref name="SOTGSE" /> [[Laser cannon/Legends|laser cannons]] (2)<ref name="CCS" /><ref name="SBP6" /><ref name="SOTGSE" />
+:Fire arc: Front<ref name="SBP6" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="CCS" /><ref name="SOTGSE" />
+|skeleton=
+|passengers=None<ref name="SBP6" /><ref name="SOTGSE" />
+|capacity=None<ref name="SBP6" /><ref name="SOTGSE" />
+|cargohandling=
+|consumables=2 hours<ref name="CCS" /><ref name="SBP6" /><ref name="SOTGSE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="SOTGSE" />
+|role=[[Interceptor/Legends|Interceptor]]<ref name="CCS" /><ref name="SBP6" />
+|firstuse=
+|retired=
+|affiliation=*[[Techno Union/Legends|Techno Union]]<ref name="CCS" /><ref name="SBP6" /><ref name="SOTGSE" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="SBP6" /><ref name="SOTGSE" />
+*[[Corporate Sector Authority/Legends|Corporate Sector Authority]]<ref name="SOTGSE" />
+}}
+The '''Mankvim-814 light interceptor''', also known as the '''Techno Union starfighter''', or '''Rattletrap''',<ref name="Galaxies">{{GalaxiesAED}}</ref> was a [[Starfighter/Legends|starfighter]] used by the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] near the close of the [[Clone Wars/Legends|Clone Wars]].<ref name="CCS" />
+
+==Characteristics==
+[[File:Mankvim814_ICS.jpg|thumb|left|180px|Mankvim-814 cross-section.]]
+
+The Mankvim-814's simple construction consisted largely of a reactor feeding power to a high-velocity [[Ion engine/Legends|ion drive]]. A magnetized rudder tilted the ion flow for off-axis thrust, while side thrusters aided roll and yaw adjustments.<ref name="CCS" />
+
+The interceptor was armed with twin rapid-fire [[Laser cannon/Legends|laser cannons]] and durable [[Deflector shield/Legends|deflector shields]] for combat. The Mankvim-814 light interceptor seated one pilot, typically a [[OOM pilot battle droid/Legends|droid pilot]]. The interceptor's aerodynamic wings, fitted with repulsorlifts, aided the overall maneuverability.<ref name="CCS" />
+
+==History==
+The Mankvim-814 was a bulbous, oval-shaped, short-range fighter created by the [[Feethan Ottraw Scalable Assemblies/Legends|Feethan Ottraw Scalable Assemblies]] on behalf of the [[Techno Union/Legends|Techno Union]] on the [[Planet/Legends|planet]] [[Utapau/Legends|Utapau]]. The Techno Union built these tiny, short-ranged starfighters on the planet from local materials. They were hastily constructed in the [[Grand Hall of the Traders' Guild/Legends|Grand Halls]] without any regard for Utapau's architectural heritage.<ref name="CCS" />
+
+The model was later given to the [[Corporate Sector Authority/Legends|Corporate Sector Authority]], where it was used and produced in limited numbers.<ref name="SOTGSE" />
+
+During the [[Battle of Murkhana (Clone Wars)|Battle of Murkhana]] on the final day of the [[Clone Wars/Legends|Clone Wars]], they were used to combat incoming [[Galactic Republic/Legends|Republic]] [[Clone trooper/Legends|forces]].
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], a number of [[Spacer/Legends|spacers]], used this type of craft for atmospheric travel. The wreck of a crashed Mankvim-814 was found outside of [[Nym's Stronghold]] on [[Lok/Legends|Lok]].<ref name="Galaxies" />
+
+==Behind the scenes==
+While ''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'' gives the maximum atmospheric speed of the Mankvim-814 as being 62,000 km/h, the later published [[Starship Battles (Star Wars Miniatures)|''Starship Battles'']] Preview 6 gives it as being 1,450 km/h. It is possible that the latter is simply gameplay mechanics. ''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]'' mislabels a picture of a [[Scoop skimmer/Legends|scoop skimmer]] as a Mankvim-814 interceptor.
+
+The Mankvim-814 was introduced to the [[Wikipedia:Massively multiplayer online role-playing game|MMORPG]], ''[[Star Wars Galaxies]]'', as part of Chapter 9 in April [[2008]], as a player [[:w:c:swg:Instant Travel Vehicle|instant travel vehicle]].
+
+==Appearances==
+*{{Film|III}} {{1st}}
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*{{GalaxiesNGE}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Mankvim-814 light interceptors}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]''
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2006-11-21 -->{{Wizards|url=default.asp?x=starwars/article/SBPreview6|text=''Starship Battles'' Preview 6}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-04-04 -->{{SonyCite|url=players/news_archive.vm?id=67694&month=042008|text=Friday Feature &ndash; Got It Where It Counts}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|Mankvim-814 Interceptor}}
+*<!-- 2011-09-13 -->{{DB|starship|technounionstarfighter|Techno Union starfighter}}
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Lehký interceptor Mankvim-814
+|de=Mankvim-814-Abfangjäger
+|es=Interceptor ligero Mankvim-814
+|hu=Mankvim-814 könnyű elfogó
+|nl=Mankvim-814 Light Interceptor
+|ja=マンクヴィム814軽インターセプター
+}}
+
+[[Category:Feethan Ottraw Scalable Assemblies products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of the Confederacy of Independent Systems]]

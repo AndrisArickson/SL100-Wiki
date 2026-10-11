@@ -1,0 +1,70 @@
+{{Top|leg|title=''Mansk''-class escort frigate}}
+{{StarshipClass
+|image=[[File:Knifes_Edge.jpg]]
+|name=''Mansk''-class escort frigate
+|designer=
+|manufacturer=[[Tallaani Shipyards]]<ref name="LD">{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}</ref>
+|line=
+|model=
+|type=
+|cost=135,000 [[Galactic Credit Standard/Legends|credits]] {{C|used only}}<ref name="LD" />
+|modifier=
+|sysmods=
+|length=100 [[Meter/Legends|meters]]<ref name="LD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer per hour/Legends|kph]] {{C|[[Atmosphere/Legends|atmosphere]]}}<ref name="LD" />
+|maneuverability=
+|engine=Powerful [[Sublight engine|sublight drives]]<ref name="LD" />
+|hyperdrive=
+|hdrange=Class 3 [[Hyperdrive]] {{C|Class 12 [[Backup hyperdrive|backup]]}}<ref name="LD" />
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Military-grade shielding<ref name="LD" />
+|hull=Military-grade heavy plating<ref name="LD" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Dual [[Laser/Legends|Laser]] turrets (6)<ref name="LD" />
+*[[Ion cannon/Legends|Ion cannon]] (1)<ref name="LD" />
+|complement=
+|bays=
+|escapepods=
+|crew=5 gunners 7<ref name="LD" />
+|skeleton=
+|passengers=30 troops<ref name="LD" />
+|capacity=80 [[Metric ton/Legends|metric tons]]<ref name="LD" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="LD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Escort frigate<ref name="LD" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Mansk''-class escort frigate''' was a [[Starship/Legends|starship]] manufactured by the [[Tallaani Shipyards]] in the [[Tapani sector/Legends|Tapani sector]]. The ''Mansk''-class vessel, ''[[Knife's Edge]]'', was used by [[House Melantha]] during the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="LD" />
+
+{{Ship-stub}}
+
+==Appearances==
+*{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Frigate classes]]
+[[Category:Tallaani Shipyards products]]
+
+{{RelatedCategories
+|[[Category:Mansk-class escort frigates]]
+}}

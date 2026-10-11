@@ -1,0 +1,86 @@
+{{Top|leg}}
+{{Citation}}
+{{GroundVehicle
+|image=[[File:MZ8-FoC.jpg]]
+|name=MZ-8 Mobile Pulse Cannon
+|designer=
+|manufacturer=*[[Taim & Bak/Legends|Taim & Bak]] (pulse cannon)
+*[[Yutrane-Trackata/Legends|Yutrane-Trackata]] (chassis)
+|line=
+|model=MZ-8 Mobile Pulse Cannon
+|type=[[Tank/Legends|Tank]]<ref name="FoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="FoC" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=[[Plasma/Legends|Plasma]] launcher
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Self-propelled artillery
+*Armor
+|firstuse=
+|retired=
+|affiliation=[[Zann Consortium/Legends|Zann Consortium]]<ref name="FoC" />
+}}
+{{Quote|Pulse cannon mobile!|A MZ-8 driver|<ref name="FoC" />}}
+The '''MZ-8 Mobile Pulse Cannon''', also known as the '''plasma tank''', was a self-propelled gun [[Artillery/Legends|artillery]]/[[Tank/Legends|tank]] unit used by [[Tyber Zann]] and [[Zann Consortium/Legends|his criminal organization]] during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==Description==
+[[File:Mz8tank.jpg|thumb|left|A MZ-8 Mobile Pulse Cannon.]]
+
+The MZ-8 housed a [[Taim & Bak/Legends|Taim & Bak]] heavy [[Pulse cannon/Legends|pulse cannon]] mounted on a [[Yutrane-Trackata/Legends|Yutrane-Trackata]] heavy tank chassis. The vehicle sacrificed both speed and mobility for firepower.
+
+When charging for a plasma shot, the tank projected a purple [[Deflector shield/Legends|shield]] in front of its turret. When charging completed, a large purple plasma burst was emitted from the cannon. The cannon was not turreted and the entire tank had to turn in order to line the gun up with its target.
+
+==History==
+In large groups, these tanks could take down even the heaviest armor, such as the [[Galactic Empire/Legends|Imperial]] [[All Terrain Armored Transport/Legends|AT-AT]], as well as buildings, although they often had trouble with faster-moving targets. If they had to take down faster-moving targets, the crew would move the tank and run the target over. They were known for an extremely powerful single shot, being able to take down an Imperial [[All Terrain Scout Transport/Legends|AT-ST]] or even a shielded [[2-M Saber-class repulsor tank/Legends|2-M repulsor tank]] in one blast, but the downside was that the blast only damaged a single target making it close to pointless against infantry. For this reason it worked well as a support unit fulfilling the same role as artillery.
+
+Another downside of using these powerful tools was the fact that the highly unstable plasma they used for weaponry would often explode, destroying the tank. This was often used by the crew of the vehicle who would overload the tank to destroy nearby enemy forces.
+
+==Appearances==
+*''[[Star Wars: Empire at War: Forces of Corruption]]'' {{1st}}
+
+==Sources==
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=MZ-8 Impulsgeschützpanzer
+|pl=MZ-8
+|uk=Пересувна імпульсна гармата MZ-8
+}}
+
+[[Category:Crawler and wheeled vehicle models]]
+[[Category:Mobile artillery types]]
+[[Category:Taim & Bak products]]
+[[Category:Tank models]]
+[[Category:Yutrane-Trackata products]]

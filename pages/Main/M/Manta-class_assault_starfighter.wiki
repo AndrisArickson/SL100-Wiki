@@ -1,0 +1,88 @@
+{{Top|leg|title=''Manta''-class assault starfighter}}
+{{StarshipClass
+|image=[[File:Manta-class_Assault_Starfighter.jpg]]
+|name=''Manta''-class assault starfighter
+|designer=
+|manufacturer=[[Tapani Starship Cooperative]]<ref name="LE">''[[Lords of the Expanse]]''</ref>
+|line=
+|model=
+|type=[[Starfighter/Legends|Starfighter]]<ref name="LE" />
+|cost=95,000 [[Galactic Credit Standard|credits]] (new)<ref name="LE" />
+|modifier=
+|sysmods=
+|length=12 [[Meter/Legends|meters]]<ref name="LE" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=None
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="LE" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="LE" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 [[Ion cannon/Legends|light ion cannons]]<ref name="LE" />
+*2 [[Laser cannon/Legends|medium laser cannons]]<ref name="LE" />
+*2 [[Laser cannon/Legends|heavy laser cannons]]<ref name="LE" />
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[Pilot/Legends|Pilot]]<ref name="LE" />
+*1 [[Gunner/Legends|Gunner]]<ref name="LE" />
+|skeleton=
+|passengers=
+|capacity=100 [[Kilogram/Legends|Kilograms]]<ref name="LE" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="LE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Assault starfighter<ref name="LE" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Manta''-class assault starfighter''' was manufactured by the [[Tapani Starship Cooperative]] at the [[Tallaani Shipyards]] during the time of the [[Galactic Empire/Legends|Galactic Empire]]. It was the [[Starfighter/Legends|starfighter]] of choice in the [[Tapani sector/Legends|Tapani sector]].
+
+==Characteristics==
+The ''Manta''-class starfighter had a flat, organic design inspired by the [[Manta ray|creature]] for which it was named. It featured a trio of retractable landing gears equipped with magnetic clamps, as well as several belly mounted magnetic pads, allowing the starfighter to clamp to the hull of a [[Tapani-class carrier|''Tapani''-class carrier]] and other [[Starship/Legends|starships]] for transportation; the ''Manta''-class starfighter was not fitted with a [[Hyperdrive/Legends|hyperdrive]], hence the need for interstellar transport.<ref name="LE" />
+
+[[File:Mantas_at_Tallaan.jpg|thumb|left|180px|A Manta being stolen from a [[Tallaan]] repair depot]]
+
+The starfighter was designed to defend against pirates that preyed on ships traveling the [[Shapani Bypass/Legends|Shapani Bypass]]. It had two configurations, acting as a high-speed interceptor or attack ship respectively. While in intercept mode, the wings were configured parallel to the hull which maximized speed but only provided average maneuverability. Although very few ships could outrun a ''Manta'' in this configuration, the aggressive capability of the ship was reduced since most power was automatically routed to the engines, leaving only the ion cannons enabled.<ref name="LE" />
+
+When in attack mode, the wings swung down 90 degrees, allowing the fighter's two heavy laser cannons to be deployed, therefore greatly increasing the ship's attack potential. In attack mode, the fighter increased its maneuverability greatly, at the cost of lowering speed for maneuvering.<ref name="LE" />
+
+Factory-model ''Manta''-class starfighters cost around 95,000 [[Galactic Credit Standard/Legends|credits]].
+
+==Appearances==
+*{{WEGCite|story=The Bacta Heist|book=Tapani Sector Instant Adventures}}
+*{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}
+
+==Sources==
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Manta-class assault starfighters}}
+{{Reflist}}
+
+{{Interlang
+|es=Caza estelar de asalto clase Manta
+}}
+
+[[Category:Assault ship classes]]
+[[Category:Starfighter classes]]
+[[Category:Tapani Starship Cooperative products]]

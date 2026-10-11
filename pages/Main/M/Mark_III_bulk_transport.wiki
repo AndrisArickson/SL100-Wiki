@@ -1,0 +1,67 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mark3bt.jpg]]
+|name=Mark III bulk transport
+|designer=
+|manufacturer=[[Sienar Ships]]
+|line=
+|model=Mark III
+|type=Bulk transport
+|cost=400,000 [[Galactic Credit Standard/Legends|credits]] {{C|used}}
+|modifier=
+|sysmods=
+|length=300 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=750 [[Kilometer per hour/Legends|km/h]]
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3.0
+*Class 20 {{C|[[Backup hyperdrive|backup]]}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]]
+|complement=
+|bays=
+|escapepods=
+|crew=10
+|skeleton=
+|passengers=
+|capacity=160,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=5 [[Standard month/Legends|months]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Bulk freighter
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mark III bulk transport''' was a product of [[Sienar Ships]], basically an oversized version of the [[Mark I Bulk Transport|Mark I bulk transport]].
+
+[[Galactic Empire/Legends|Imperial]] forces used a Mark III bulk transport as bait to lure [[Alliance to Restore the Republic/Legends|Rebel]] [[Privateer/Legends|privateers]] or [[Pirate/Legends|pirates]] into a trap.
+
+==Appearances==
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+
+[[Category:Bulk transport classes]]
+[[Category:Sienar Ships products]]
+
+{{RelatedCategories
+|[[Category:Mark III bulk transports]]
+}}
