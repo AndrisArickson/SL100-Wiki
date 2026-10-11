@@ -1,0 +1,89 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Tech 4 PDV
+|designer=
+|manufacturer=[[Imperial Intelligence/Legends|Imperial Intelligence]]<ref name="ISB2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|line=
+|model=
+|type=Unmanned messenger pod<ref name="ISB2" />
+|cost=Not available for sale<ref name="ISB2" />
+|modifier=
+|sysmods=
+|length=9 [[Meter/Legends|meters]]<ref name="ISB2" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=[[Hyperdrive/Legends|Class 0.5]]<ref name="ISB2" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="ISB2" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=*1 [[I2-CG droid/Legends|I2-CG]] {{C|storage/receiving}}<ref name="ISB2" /><ref name="recovery" />
+*1 [[I2AM]] {{C|captain/astrogator}}<ref name="ISB2" /><ref name="recovery" />
+*[[A/E computer|Analysis/encoding computer]] {{C|analysis/encoding/translation}}<ref name="ISB2" /><ref name="recovery" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Courier vessel<ref name="ISB2" />
+|firstuse=
+|retired=
+|affiliation=Imperial Intelligence<ref name="ISB2" />
+}}
+The '''Tech 4 PDV''', also known as '''Plexus Droid Vessels''' ('''PDV'''), were used by [[Imperial Intelligence/Legends|Imperial Intelligence]] [[Courier droid/Legends|courier droids]] which operated as communications and relay ships.
+
+==Characteristics==
+Staffed only by [[Droid/Legends|droids]] and minimally equipped, they were essentially engines and electronics. Used to support the [[Sector Plexus/Legends|Sector Plexus]], PDVs were designed to resemble [[mining droid]]s.<ref name="IS">''[[Imperial Sourcebook]]''</ref>
+
+They were tiny capsule-shaped and could store, process and transport data across the galaxy.<ref name="DH">{{JournalCite|9|Death-Hunter}}</ref><ref name="recovery">{{WEGCite|story=Operation: Recovery|book=Shadows of the Empire Planets Guide}}</ref>
+
+==History==
+One PDV crashed on the [[Third moon of Kothlis]] and salvaged by [[Rithgar]]. Not wanting it to remain in [[Kothlis shadowport|shadowport]], he hired some fringe characters to get rid of it and reprogram it with false information. [[Maja]] had bought salvage rights and was in the process of converting it into a [[starship/Legends|starship]], when some [[scoundrel/Legends|scoundrels]] who loaded the contraption and took it (with Maja inside) away to [[Kothlis]]. When they discovered Maja, he attempted to escape in the [[Arblis Forest]] with his makeshift ship. Eventually an Imperial recovery team arrived to the site, just as the scoundrels finished reprorgamming it.<ref name="recovery" />
+
+One such PDV was carrying information to an Imperial Intelligence [[Sector/Legends|sector]] headquarters when it was intercepted by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]]. In order to prevent its capture by the Rebels, the ship self-destructed after launching an [[I2-CG droid/Legends|I2-CG]] droid that was carrying the intelligence data. Despite the droid's self sacrifice, the Rebels detected the I2 unit descending to [[Goratak III]]. A skirmish ensued on the planet between the Rebel unit and an Imperial team led by [[Feskitt Bobb]].<ref name="MB">[[Star Wars Miniatures Battles (first edition)|''Star Wars Miniatures Battles'', First Edition]]</ref>
+
+[[Moff/Legends|Moff]] [[Jesco Comark]] used these vessels during [[Operation Death-Hunter]]. In order to hide what was being manufactured by the project, the droids were used to transport the materials involved in the operation. The final product, [[Death-Hunter Cyborg]]s were transported aboard the courier droids.<ref name="DH" />
+
+==Appearances==
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+*{{JournalCite|9|Death-Hunter}} {{ID|Plexus Courier Droid}}
+*{{WEGCite|story=Operation: Recovery|book=Shadows of the Empire Planets Guide}}
+
+==Sources==
+*<!-- 1989-06-XX -->[[Star Wars Miniatures Battles (first edition)|''Star Wars Miniatures Battles'', First Edition]]
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]'' {{1stm}}
+*<!-- 1993-12-XX -->[[Star Wars Miniatures Battles (Second Edition)|''Star Wars Miniatures Battles'', Second Edition]]
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Field Guide: Slicing Aids}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]'' {{ID|Plexus Droid vessel}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|Plexus droid vessel}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Courier classes]]
+[[Category:Space pod classes]]
+[[Category:Starship classes of the Galactic Empire]]

@@ -1,0 +1,180 @@
+{{Top}}
+{{SpaceStation
+|image=[[File:Tansarii_Point_Station_2.png]]
+|name=Tansarii Point Station
+|designer=
+|manufacturer=[[Nova Orion Industries]]<ref name="NO">{{SonyCite|url=players/news_archive.vm?id=67539&month=122007|text=Friday Feature &ndash; Nova Orion}}</ref>
+|line=
+|model=
+|type=[[Space station/Legends|Space station]]<ref name="SWG:TPS">{{SWGcite|exp=NGE|type=space_poi|Tansarii Point Station|Bright Jewel system}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SWG:BJS">{{SWGcite|exp=NGE|type=other|Bright Jewel system}}</ref>
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=*[[Z-95 Headhunter/Legends|Z-95 Headhunters]]<ref name="SWG:TPS2">{{SWGcite|exp=NGE|type=other|Tansarii Point Station}}</ref>
+*[[M3-A Scyk interceptor/Legends|M3-A Scyk fighters]]<ref name="SWG:Fpm">{{SWGcite|exp=NGE|type=general|First pilot mission|Tansarii Point Station}}</ref>
+*[[Shuttle/Legends|Shuttle]] (1)<ref name="SWG:TPS2" />
+|bays=*[[Hangar/Legends|Hangars]] (2)<ref name="SWG:TPS2" />
+*Cargo bays (2)<ref name="SWG:TPS2" />
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|region=*[[Mid Rim/Legends|Mid Rim]]<ref name="EAOC">{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion}}</ref>
+*[[New Territories/Legends|New Territories]]<ref name="Region">The [[:File:MiscellaneousRegions.jpg|Client States and Miscellaneous Regions map]] in ''[[The Essential Atlas]]'' places the portions of the [[Mid Rim/Legends|Mid Rim]] and [[Outer Rim Territories/Legends|Outer Rim]] that fall in grid square L-7 in the [[New Territories/Legends|New Territories]].</ref>
+|sector=[[Bright Jewel sector/Legends|Bright Jewel sector]]<ref name="EAOC" />
+|system=[[Bright Jewel system/Legends|Bright Jewel system]]<ref name="SWG:TPS" />
+|coordinates=L-7<ref name="TEA">''[[The Essential Atlas]]''</ref><ref name="TEA">''[[The Essential Atlas]]''</ref>
+|xyz=
+|orbited=
+|distance=
+|routes=
+|role=*Habitation<ref name="SWG:TPS" />
+*[[Starship/Legends|Starship]] repairs<ref name="SWG:TPS" />
+*Catering<ref name="SWG:TPS" />
+*Entertainment<ref name="SWG:TPS" />
+|affiliation=[[Car'das/Legends|Car'das]]<ref name="SWG:TPS" />
+|constructed=
+|destroyed=
+|retired=
+|battles=[[Battle of Tansarii Point Station/Legends|Battle of Tansarii Point Station]]<ref name="SWG:DE">{{SWGcite|exp=NGE|type=general|Darkveil Eclipse|Tansarii Point Station}}</ref>
+|owners=
+|namedcrew=*[[Laetin A'shera]]<ref name="SWG:StILtGW">{{SWGcite|exp=NGE|type=general|Speak to Inaldra's Lieutenant to Get Work|Tansarii Point Station}}</ref>
+*[[Alisia (Gran)|Alisia]]<ref name="SWG:TPS2" />
+*[[2-1b-58|Billingsly]]<ref name="SWG:MW">{{SWGcite|exp=NGE|type=class|Medic|Medic Work|Tansarii Point Station}}</ref>
+*[[Loche Crestingsky]]<ref name="SWG:StILtGW" />
+*[[Rydel Delan]]<ref name="SWG:StILtGW" />
+*[[Dreryn]]<ref name="SWG:TPS2" />
+*[[Raylen Finn]]<ref name="SWG:StILtGW" />
+*[[Rund Jesela]]<ref name="SWG:HtA">{{SWGcite|exp=NGE|type=faction|Rebel|Helping the Alliance|Tansarii Point Station}}</ref>
+*[[Jolka]]<ref name="SWG:StILtGW" />
+*[[Dartas Pytin]]<ref name="SWG:StILtGW" />
+*[[Aleas Rans'ery]]<ref name="SWG:StILtGW" />
+*[[Aja Sen]]<ref name="SWG:StILtGW" />
+*[[Serissu]]<ref name="SWG:StILtGW" />
+*[[Tiarsis]]<ref name="SWG:T">{{SWGcite|exp=NGE|type=general|Tiarsis|Tansarii Point Station}}</ref>
+|captains=[[Inaldra/Legends|Inaldra]]<ref name="SWG:TtI">{{SWGcite|exp=NGE|type=general|Talk to Inaldra|Tansarii Point Station}}</ref>
+|registry=
+|aliases=
+|population=
+|interest=
+|services=
+|sectors=Atrium, mid-level, cargo level<ref name="SWG:TPS2" />
+|modules=
+}}
+{{Quote|Strap yourself in, kid - next stop, Tansarii Point Station. Punch it, Chewie!|[[Han Solo/Legends|Han Solo]], to a spacer|audio=vo-han-solo-9c.flac|<ref name="SWG:EFtE">{{SWGcite|exp=NGE|type=general|Escape From the Empire|an Imperial Space Station}}</ref>}}
+'''Tansarii Point Station''' was a [[Space station/Legends|space station]] built by [[Nova Orion Industries]] and located above [[Ord Mantell/Legends|Ord Mantell]], in the [[Bright Jewel system/Legends|Bright Jewel system]]. The station was owned and operated by the [[Car'das/Legends|Car'das]].
+
+==Description==
+{{Quote|I came to Tansarii station to get a much needed break from my hometown on Lok. There is a lot of fun to be had here if you talk to the right people.|A commoner visiting Tansarii Point Station|<ref name="SWG:TPS2" />}}
+[[File:Station_Gamma_M3A.jpg|thumb|left|200px|[[Ord Mantell/Legends|Ord Mantell]] and Tansarii Point Station, as seen from [[Station Gamma]]]]
+Tansarii Point Station was a space station built by [[Nova Orion Industries]] on the same [[Unidentified H-shaped space station series|design]] as the [[Nova Orion Station]], both being located near [[Ord Mantell/Legends|Ord Mantell]], in the [[Bright Jewel system/Legends|Bright Jewel system]].<ref name="NO" /> The station was opened to travelers and offered numerous services such as [[Starship/Legends|starship]] repairs, catering and entertainment.<ref name="SWG:TPS" /> The station was a also appreciated by [[Smuggler/Legends|smugglers]].<ref name="TCSWE">{{CSWECite|II|99|Inaldra}}</ref>
+
+The interior of Tansarii Point Station included three levels accessible to public.<ref name="SWG:TPS2" />
+<div style="float: right">[[File:Tansarii_Point_Station_Atrium.jpg|thumb|220px|The atrium]]</div>
+The main level was organized around a circular corridor that surrounded the largest room of the station: the [[Cantina/Legends|cantina]]. The circular corridor provided access to multiple other rooms: the [[Station Master]]'s office, the ranged combat and close combat training rooms, the [[Medical bay/Legends|medical center]], the [[Cloning/Legends|cloning]] facility and the [[Hangar/Legends|hangar bays]]. The Hangar Bay 01 was used by Tansarii Point's [[Pilot/Legends|pilots]] and housed a [[Starfighter/Legends|starfighter]] complement as well as a public intra-system [[Shuttle/Legends|shuttle]] service. The Hangar Bay 02 was opened to visiting starships. The lower level had a similar layout than the main level. The circular corridor encircled the [[Droid/Legends|droid]] repair center and opened to other rooms: the storage rooms, the cargo bays and the [[Memory bank/Legends|data storage overflow]] room. The upper level was a large greenhouse known as the atrium. This area comprised flora and fauna coming from various worlds in [[The galaxy/Legends|the galaxy]], including [[bauhin flower]]s from [[Corellia/Legends|Corellia]], [[scrubwort]]s from the [[Endor/Legends|Forest Moon of Endor]], [[flit]]s from [[Lok/Legends|Lok]], [[Scyk/Legends|scyks]] from [[Tatooine/Legends|Tatooine]] and [[tanc mite]]s from [[Yavin 4/Legends|Yavin 4]].<ref name="SWG:TPS2" />
+
+==History==
+{{Quote|Hah! Kid, this place needs all the help it can get. Lately, it's been overrun with thugs and scoundrels, and the station master is powerless to stop them.|Han Solo, to a spacer|<ref name="SWG:YNW">{{SWGcite|exp=NGE|type=general|You Need Work|Tansarii Point Station}}</ref>}}
+During the [[Galactic Civil War/Legends|Galactic Civil War]], Tansarii Point Station was home for the [[Car'das/Legends|Car'das]], a syndicate ruled by [[Talon Karrde]].<ref name="SWG:TPS" /> In fact, the Car'das orriginally controlled two space station in the Bright Jewel system: Tansarii Point Station and [[Station Gamma]], a prominent research facility. However, a mysterious entity wiped out those living there several years before the [[Battle of Yavin/Legends|Battle of Yavin]].<ref name="SWG:SG">{{SWGcite|exp=NGE|type=space_poi|Station Gamma|Bright Jewel system}}</ref>
+
+[[File:Inaldra_2.jpg|thumb|left|220px|[[Inaldra/Legends|Inaldra]] in her office]]
+Around the time of the Battle of Yavin, a [[Twi'lek/Legends|Twi'lek]] woman named [[Inaldra/Legends|Inaldra]] assumed command of Tansarii Point Station.<ref name="SWG:TtI" /> However, shortly after Inaldra took over her new postion, the station was riddled with many problems that seriously threatened the station. On the lower level, malfunctioning droids roamed the droid repair center and attacked any person who entered the area<ref name="SWG:CD">{{SWGcite|exp=NGE|type=general|Crazed Droids|Tansarii Point Station}}</ref> while a band of criminals working for the [[Hutt/Legends|Hutt]] had invaded Cargo Bay 2.<ref name="SWG:KtHB">{{SWGcite|exp=NGE|type=general|Kill the Hutt Boss|Tansarii Point Station}}</ref> On the upper level, the increasing population of wild animals in the atrium had made them turn violent and dangerous for the visitors.<ref name="SWG:TA">{{SWGcite|exp=NGE|type=general|The Atrium|Tansarii Point Station}}</ref> Moreover, the situation also became challenging in the star system due to [[Black Sun/Legends|Black Sun]] [[Pirate/Legends|pirates]] that intensively raided civilian traffic and Car'das starships.<ref name="SWG:E">{{SWGcite|exp=NGE|type=general|Escorting|Tansarii Point Station}}</ref> In addition, a war erupted between the Car'das and the [[Rak'qua]], a tribe of bellicose [[Nautolan/Legends|Nautolan]] living in Station Gamma.<ref name="SWG:LtS">{{SWGcite|exp=NGE|type=class|Spy|Lercer the Spy|Tansarii Point Station}}</ref>
+
+[[File:Tansarii_Point_Station_Millennium_Falcon.jpg|thumb|right|250px|The [[Millennium Falcon/Legends|''Millennium Falcon'']] in Hangar Bay 02]]
+In [[1 ABY/Legends|1 ABY]],<ref name="SWG_timeline">{{SWG_timeline}}</ref> [[Han Solo/Legends|Han Solo]], [[Chewbacca/Legends|Chewbacca]], [[R2-D2/Legends|R2-D2]], [[C-3PO/Legends|C-3PO]] and a [[Spacer/Legends|spacer]] arrived on the station aboard the [[Millennium Falcon/Legends|''Millennium Falcon'']] after escaping from an [[Unidentified Imperial space station|Imperial space station]].<ref name="SWG:EFtE" /> The spacer brought to Tansarii Point Station by Han Solo got involved in the problems facing the station's residents. Hence, as the crisis on Tansarii Point Station reached its climax, numerous independent spacers were recruited by [[Inaldra's Lieutenant]] to provide assistance to the station's staff, in particular to the [[Security Director (Tansarii Point Station)|security director]] and the combat [[Instructor/Legends|instructors]] [[Rydel Delan]] and [[Loche Crestingsky]].<ref name="SWG:StILtGW" />
+
+The security director ordered a group of spacers to get rid of the Hutt criminals;<ref name="SWG:RtI">{{SWGcite|exp=NGE|type=general|Repel the Invaders!|Tansarii Point Station}}</ref> Station Master Inaldra later tasked a spacer with killing the Hutt [[Crime lord/Legends|boss]].<ref name="SWG:KtHB" /> Meanwhile, the spacers working for the [[Sniper/Legends|marksman]] Loche Crestingsky discovered that the malfunctioning droids on the lower level were hacked by the Black Sun. They eventually prevented the Black Sun to [[Slicer/Legends|slice]] into the Tansarii Point's main [[Memory bank/Legends|databanks]].<ref name="SWG:StS">{{SWGcite|exp=NGE|type=general|Stopping the Slicers|Tansarii Point Station}}</ref> In the meantime, spacers working for the [[Unarmed combat/Legends|brawling]] master Rydel Delan significantly reduced the population of hostile beasts present in the atrium.<ref name="SWG:TA" /> They also defeated the [[Genesis Red (gang)|Genesis Red]] gangsters and foiled their attempt to sabotage the station.<ref name="SWG:GRC">{{SWGcite|exp=NGE|type=general|Genesis Red Crimelord|Tansarii Point Station}}</ref> Outside Tansarii Point Station, in Station Gamma, the conflict between the Car'das and the Rak'qua caused high casualties. Nevertheless, [[Officer/Legends|Officer]] [[Antom Moria]] discovered the involvement of a local arms dealer in the outbreak of the conflict and was finally able through negotiation to convince both parties that the war was meaningless.<ref name="SWG:PaW">{{SWGcite|exp=NGE|type=class|Officer|Preventing a War|Tansarii Point Station}}</ref>
+
+[[File:Talonbane_Cobra_dogfight.jpg|thumb|left|250px|A Car'das pilot engages a [[Talonbane Cobra/Legends|Black Sun ace]] near Tansarii Point Station.]]
+In the meanwhile, the skirmishes in Ord Mantell space culminated in Black Sun forces openly attacking the space station and a violent [[Battle of Tansarii Point Station/Legends|space battle]] breaking out between the Car'das and Black Sun starfighters. The Car'das [[Training officer/Legends|flight instructors]] [[Serissu]], [[Laetin A'shera]], [[Aleas Rans'ery]] and [[Dartas Pytin]] therefore recruited and trained a number of independent spacers and pilots who bolstered Car'das forces and made the difference in [[Starfighter combat/Legends|dogfights]].<ref name="SWG:AtA">{{SWGcite|exp=NGE|type=general|Assassinating the Assassin|Tansarii Point Station}}</ref><ref name="SWG:CA">{{SWGcite|exp=NGE|type=general|Counter Attack|Tansarii Point Station}}</ref> Finally, Car'das pilots emerged victorious, removing the Black Sun threat from the Bright Jewel system.<ref name="SWG:DE">{{SWGcite|exp=NGE|type=general|Darkveil Eclipse|Tansarii Point Station}}</ref>
+
+After most of the problems of the station were solved, the Millennium Falcon eventually left Tansarii Point Station. In fact, Han Solo decided to run away promptly when he discovered that the [[Bounty hunter/Legends|bounty hunter]] [[Boba Fett/Legends|Boba Fett]] had been sighted in the station.<ref name="SWG:GtMFW">{{SWGcite|exp=NGE|type=general|Get the Millennium Falcon Working|Tansarii Point Station}}</ref> Yet, Fett ignored that Solo was present on Tansarii Point Station as he was there to track the [[Devaronian/Legends|Devaronian]] fugitive [[Fidaval]].<ref name="SWG:BH">{{SWGcite|exp=NGE|type=class|Bounty Hunter|Bounty Hunter|Tansarii Point Station}}</ref>
+
+Around the same time, a valuable shipment was stolen from an [[Galactic Empire/Legends|Imperial]] ship in transit to [[Coruscant/Legends|Coruscant]]. The thieves were traced back to Tansarii Point Station and an Imperial detachment comprising an [[Imperial officer/Legends|Imperial officer]] and a group of [[Stormtrooper/Legends|stormtroopers]],<ref name="SWG:DfI">{{SWGcite|exp=NGE|type=class|Entertainer|Dancing for Information|Tansarii Point Station}}</ref> including [[TK-363]],<ref name="SWG:TDP">{{SWGcite|exp=NGE|type=class|Jedi|The Dark Path|Tansarii Point Station}}</ref> was tasked to retrieve the cargo.<ref name="SWG:DfI" /> However, as the Car'das were involved in the thief, Officer [[Dreryn]] and the Tansarii Point Station authorities quickly smuggled the shipment out of the station.<ref name="SWG:OD">{{SWGcite|exp=NGE|type=conversation|Officer Dreryn|Tansarii Point Station}}</ref> The cargo, that contained a high-value [[Galactic Republic/Legends|Old Republic]] artifact, was later shipped to the [[Planet/Legends|planet]] Tatooine where it was divided in several parts. Imperial and [[Alliance to Restore the Republic/Legends|Rebel Alliance]] operatives then struggled to recover all the pieces of the artifact, namely a [[R2-series astromech droid/Legends|R2-series astromech droid]].<ref name="SWG:StS2">{{SWGcite|exp=NGE|type=class|Legacy|Starting the Search|Tatooine}}</ref>
+
+The same year, Imperial officer [[Falrey]] and [[Alliance Intelligence/Legends|Rebel Agent]] [[Garek]] were stationed onboard Tansarii Point Station to supervise operatives conducting sensitive operations in Station Gamma.<ref name="SWG:GIFSG">{{SWGcite|exp=NGE|type=faction|Imperial|Get Information From Station Gamma|Tansarii Point Station}}</ref><ref name="SWG:GtDotI">{{SWGcite|exp=NGE|type=faction|Rebel|Gathering the Dirt on the Imperials|Tansarii Point Station}}</ref>
+
+===Residents and visitors===
+[[File:Cardas_guard.png|thumb|right|150px|A [[Car'das/Legends|Car'das]] guard patrolling Tansarii Point Station]]
+{{Quote|It's home for a lot of us. Some are waiting for loved ones to return from Station Gamma. Some are too hurt to travel well. And some of us just love Tansarii Point Station too much to flee.|[[Mira T'rani]], to a spacer|<ref name="SWG:EtW">{{SWGcite|exp=NGE|type=class|Entertainer|Entertain the Wounded|Tansarii Point Station}}</ref>}}
+Following the Battle of Yavin, the station was administered by Station Master Inaldra.<ref name="SWG:TtI" /> Other staff members included Inaldra's Lieutenant, the combat instructors Rydel Delan and Loche Crestingsky, the [[Hunting/Legends|hunter]] [[Raylen Finn]], the pilots Serissu, Dartas Pytin, Laetin A'shera and Aleas Rans'ery, the [[Technician/Legends|mechanic]] [[Jolka]],<ref name="SWG:StILtGW" /> Officer Dreryn,<ref name="SWG:TPS2" /> and [[Rund Jesela]] who headed the cloning facility.<ref name="SWG:HtA" /> The [[Medic/Legends|medic]] [[Aja Sen]],<ref name="SWG:StILtGW" /> the [[Medical droid/Legends|medical droid]] [[2-1b-58|Billingsly]]<ref name="SWG:MW" /> and the [[Nurse/Legends|nurse]] [[Alisia (Gran)|Alisia]] practiced in the medical bay.<ref name="SWG:TPS2" /> [[Tiarsis]] was the owner of the cantina<ref name="SWG:T" /> where worked the manager [[Anvar Keyis]] and the [[entertainer]] [[Mira T'rani]].<ref name="SWG:StAK">{{SWGcite|exp=NGE|type=class|Entertainer|Speak to Anvar Keyis|Tansarii Point Station}}</ref> During that time, a [[Unidentified Bright Jewel system band|musical band]] performed in the cantina; it was comprised of the [[Musician/Legends|musicians]] [[Alisia (Human)|Alisia]], [[Alitra]] and [[Mako (musician)|Mako]] and the dancers [[Mestral]] and [[O'choa Detera]].<ref name="SWG:TPS2" />
+
+[[File:Tansarii_Point_Station_cantina.jpg|thumb|left|250px|Many residents and visitors frequented the cantina]]
+Most of the residents had a job on the station, even if they were not working direcly for the station's autorities. During this period, this comprised the [[Commando/Legends|commando]] [[Snopel]],<ref name="SWG:C">{{SWGcite|exp=NGE|type=class|Commando|Commando|Tansarii Point Station}}</ref> the officers [[Antom Moria]] and [[Neina]]<ref name="SWG:PaW" /> and the [[Spy/Legends|spy]] [[Lercer Gaia]].<ref name="SWG:LtS">{{SWGcite|exp=NGE|type=class|Spy|Lercer the Spy|Tansarii Point Station}}</ref> Also, various [[Merchant/Legends|merchants]] worked in the station such as the resource vendor [[Jesi (vendor)|Jesi]],<ref name="SWG:StAoCC">{{SWGcite|exp=NGE|type=class|Trader|Sharing the Art of Crafting: Clothing|Tansarii Point Station}}</ref> the [[Junk dealer/Legends|junk dealers]] [[Anniya]] and [[Eocade]],<ref name="SWG:TPS2" /> the trader [[Raine Taske]]<ref name="SWG:StAoCC" /> and the [[Con artist/Legends|con artist]] [[Delo]].<ref name="SWG:TPS2" /> In addition, several smugglers were active on the station such as [[Jake Felan]]<ref name="SWG:ST">{{SWGcite|exp=NGE|type=class|Smuggler|Smuggler Trainer|Tansarii Point Station}}</ref> and [[Tarand Crowe/Legends|Tarand Crowe]].<ref name="SWG:S">{{SWGcite|exp=NGE|type=general|Smuggling|Tansarii Point Station}}</ref>
+
+Other inhabitants and visitors included [[Ysanna (individual)|Ysanna]],<ref name="SWG:MS">{{SWGcite|exp=NGE|type=general|Missing Soldier|Tansarii Point Station}}</ref> the [[Scout/Legends|explorer]] [[Frelka]] and his [[Protocol droid/Legends|protocol droid]] [[E-5KL]],<ref name="SWG:FF">{{SWGcite|exp=NGE|type=general|Frelka's Folly|Station Gamma!}}</ref> [[Deavyn Gils]],<ref name="SWG:HDGFHD">{{SWGcite|exp=NGE|type=general|Help Deavyn Gils Find His Datapad|Tansarii Point Station}}</ref> the [[Jedi/Legends|Jedi]] [[Nos'lyn]],<ref name="SWG:FST">{{SWGcite|exp=NGE|type=class|Jedi|Force Sensitive Training|Tansarii Point Station}}</ref> [[Trace (Tansarii Point Station)|Trace]],<ref name="SWG:GtMFW" /> [[Terry]],<ref name="SWG:C" /> the amateur hunter [[Wyle Artis]],<ref name="SWG:ASHT">{{SWGcite|exp=NGE|type=general|A Small Hunting Trip|Tansarii Point Station}}</ref> [[Arslynd]],<ref name="SWG:BH" /> [[Adery Shrial]],<ref name="SWG:HtA" /> the Devaronian brothers [[Ratheb]] and Fidaval,<ref name="SWG:BH" /> [[Idau]], [[Bun'Del]], [[Irving]], [[Mot Draken]], [[Pacus]],<ref name="SWG:TPS2" /> and the collector [[Yawse Felsiy]].<ref name="SWG:DD">{{SWGcite|exp=NGE|type=collection|Dust Durni}}</ref>
+
+==Behind the scenes==
+Tansarii Point Station was a location in the [[2003]] [[Star Wars video games|video game]] ''[[Star Wars Galaxies]]'', a [[Wikipedia:Massively multiplayer online role-playing game|massively multiplayer online roleplaying game]] developed by [[Sony]] Online Entertainment and published by [[LucasArts]],<ref name="SWG:TPS2" /> prior to its closure on [[December 15]], [[2011]].<ref name="Shutdown">{{SonyCite|url=playerinfo|text=IMPORTANT INFORMATION ABOUT ''STAR WARS'' GALAXIES™}}</ref> Tansarii Point Station was first introduced with the "[[W:c:swg:New Game Enhancements|New Game Enhancements]],"<ref name="SWG:TPS" /> released on [[November 15]], [[2005]].<ref name="SonyCite-Publish Archive 2005">{{SonyCite|url=players/content.vm?id=64886&resource=publish|text=Publish Archive 2005}}</ref> It was the location of an introductory player tutorial, accessible only to newly created player characters who selected to go through the "[[W:c:swg:New Player Tutorial|New Player Tutorial]]."<ref name="SWG:TPS2" />
+
+Unused game files indicated that Talon Karrde was intended to be present on the station and involved in a cut quest.<ref>{{GalaxiesNGE}} &mdash; npe_main_quest.stf</ref>
+
+==Appearances==
+*{{GalaxiesNGE}} {{1st}}
+*{{SWGTCG|set=Champions of the Force|scenario=Dark Side scenario campaign}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Tansarii Point Station}}
+*<!-- 2005-11-23 -->{{SonyCite|url=en_US/players/content.vm?page=Mystery%20on%20Gamma%20Station&resource=features|text=Mystery on Gamma Station}}
+*<!-- 2005-11-XX -->{{SonyCite|url=players/guides.vm?id=60008|text=Star Wars Galaxies: Tutorial}}
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-01-20 -->{{SonyCite|url=en_US/players/content.vm?page=Dirty%20Deeds&resource=features|text=Dirty Deeds}} {{Mo}}
+*<!-- 2007-07-XX -->{{SonyCite|url=en_US/players/guides.vm?id=60008|text=Getting Started}}
+*<!-- 2007-12-14 -->{{SonyCite|url=players/news_archive.vm?id=67539&month=122007|text=Friday Feature &ndash; Nova Orion}}
+<!-- 2008-08-19 -->{{CardGameSet|set={{SWGTCG|set=Champions of the Force|parent=1}}|cards=
+*<!-- 2008-08-19 -->{{SWGTCG|set=Champions of the Force|cardname=Imperial Life Support Flight Suit}}
+*<!-- 2008-08-19 -->{{SWGTCG|set=Champions of the Force|cardname=Rebel Life Support Flight Suit}}
+}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Sergeant Snopel}}
+*<!-- 2009-07-22 -->{{SonyCite|url=players/news_archive.vm?id=68381&month=072009|text=Friday Feature &ndash; Leveling your new character. A new player asks; a veteran replies}}
+*<!-- 2009-11-13 -->{{SonyCite|url=players/news_archive.vm?id=68519&month=112009|text=Friday Feature &ndash; Where are they? Famous Characters in Star Wars Galaxies}}
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname=Tansarii Point Veteran}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Talonbane Cobra}}
+
+==Notes and references==
+{{ScrollBox|content=
+{{Reflist}}
+}}
+
+==External links==
+*{{SWGWiki|Tansarii Point Station}}
+*{{SonyForumsCite|url=swg/board/message?board.id=DevDiscussion&message.id=48548|text="Chapter 1: The Corellian Captives", Publish Notes, June 8th}}
+
+[[Category:Bright Jewel system locations]]
+[[Category:Space stations in the Mid Rim]]
+[[Category:Space stations in the New Territories]]
+
+{{RelatedCategories
+|[[Category:Tansarii Point Station residents]]
+}}

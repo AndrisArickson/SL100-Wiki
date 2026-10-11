@@ -1,0 +1,99 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:TalonICombatCloudCar-FF101.png]]
+|name=Talon I combat cloud car
+|designer=
+|manufacturer=[[Ubrikkian Transports/Legends|Ubrikkian Transports]]<ref name="AEG-Extra">{{Wizards|url=default.asp?x=starwars/article/sw20021017web|text=''Arms & Equipment Guide'' Extras!}}</ref>
+|line=
+|model=Talon I combat cloud car<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|type=[[Combat cloud car]]
+|cost=*15,500 [[Galactic Credit Standard/Legends|credits]] (7,500 used)<ref name="AAEG">''[[Arms & Equipment Guide]]''</ref>
+*80,000 credits<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=10 [[Meter/Legends|meters]]<ref name="FF">[[The Official Star Wars Fact File 101|''The Official Star Wars Fact File'' 101]]</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|speed=1,500 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="FF" />
+|max alt=100 kilometers<ref name="EVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|maneuverability=
+|engine=*[[Ubrikkian Repulsorlift Manufacturing|Ubrikkian]] [[Servant ion/repulsorlift engine]]<ref name="EVV" />
+|poweroutput=
+|power=
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Forward double [[Blaster cannon/Legends|blaster cannon]] (fire-linked)<ref name="FF" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="FF" />
+|skeleton=
+|passengers=1<ref name="RECG" />
+|capacity=50 [[Kilogram/Legends|kilograms]]<ref name="RECG" />
+|cargohandling=
+|consumables=1 [[Standard day/Legends|day]]<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="RECG" />
+|role=*[[Planet/Legends|Planetary]] combat
+*Aerospace law enforcement
+|firstuse=
+|retired=
+|affiliation=
+}}
+The [[Ubrikkian Transports/Legends|Ubrikkian]] '''Talon I combat cloud car''' was an armed air vehicle designed to fill a niche between [[Starfighter/Legends|starfighters]] and lighter vehicles like the [[Storm IV Twin-Pod cloud car/Legends|Storm IV]] [[Cloud car/Legends|cloud car]]. Introduced some time before the [[Battle of Yavin/Legends|Battle of Yavin]], Talon I combat cloud cars were known to be used until at least the [[New Jedi Order era|era]] of the [[New Jedi Order]].
+
+==Characteristics==
+[[File:TalonICombatCloudCar_egvv.jpg|thumb|left|180px|Talon I [[:Category:Technical drawing images|schematics]].]]
+
+Unlike most [[Airspeeder/Legends|airspeeders]], which generally had a flight ceiling around a few hundred meters, the Talon I had a ceiling of 100 kilometers. Using the Ubrikkian [[Servant ion/repulsorlift engine]], the Talon I could reach an airspeed of up to 1,500 km/h and could fly in environments that prohibited repulsorlift use by using only its ion thrust and aerodynamic design.
+
+Though [[Deflector shield/Legends|unshielded]], it had good armor for a vessel of its size. A fire-linked double [[Blaster cannon/Legends|blaster cannon]] gave the Talon I sufficient firepower to challenge many starfighters and small transports, and its low cost made it a common sight in the aerospace fleets of many planetary law enforcement and customs agencies. Proper licensing allowed private citizens and organizations to use the Talon I as well.
+
+==History==
+In [[1 ABY/Legends|1.5 ABY]] a [[Corellia/Legends|Corellian]] gang raided and devastated the headquarters of [[Corellian Vehicle Reclamation]] using modified Talon I cloud cars.<ref name="SWG">{{SWGcite|exp=AED|type=terminal||Stop Rampages Through My Office}}</ref>
+
+The [[Noghri/Legends|Noghri]] used Talon I cloud cars on [[Honoghr/Legends|Honoghr]], based out of their main [[Spaceport/Legends|spaceport]] in [[Nystao]]. When [[Luke Skywalker/Legends|Luke Skywalker]] first visited there, he was escorted by a pair of these craft. They were also used on [[Bespin/Legends|Bespin]] and some [[Galactic Empire/Legends|Imperial]]-controlled planets, and were known to be popular in the [[Outer Rim Territories/Legends|Outer Rim]].
+
+==Appearances==
+[[File:Combat_cloud_car.jpg|250px|thumb|A Talon I flying over Cloud City]]
+*''[[Kinect Star Wars]]''
+*{{DoD|The Queen of Air and Darkness}}
+*{{GalaxiesAED}} {{Mo}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}} {{1st|in book}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Talon I combat cloud cars}}
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]'' {{ID|Talon I Combat Cloud Car}} {{1stdesc}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Combat Cloud Car}}
+*<!-- 2002-10-17 -->{{Wizards|url=default.asp?x=starwars/article/sw20021017web|text=''Arms & Equipment Guide'' Extras!}}
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]'' {{So}}
+*<!-- 2003-12-03 -->{{FactFile|101|COM 1-2|Combat Cloud Car}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Talon I Wolkenjäger
+|es=Coche de las nubes de combate Garra I
+|nl=Talon I Combat Cloud Car
+}}
+
+[[Category:Cloud car models]]
+[[Category:Ubrikkian Industries products]]
