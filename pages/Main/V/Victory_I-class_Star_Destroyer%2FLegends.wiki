@@ -1,0 +1,268 @@
+{{Top|leg|title=''Victory I''-class Star Destroyer}}
+{{Otheruses|Victory}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:VSD-SWR.png]]
+|name=''Victory I''-class Star Destroyer
+|designer=[[Walex Blissex/Legends|Walex Blissex]]<ref name="TNEC">''[[The New Essential Chronology]]''</ref>
+|manufacturer=*[[Rendili StarDrive/Legends|Rendili StarDrive]]<ref name="EGTW">''[[The Essential Guide to Warfare]]''</ref><ref name="TEGTVAV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+*[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="EGTW" />
+|line=[[Star Destroyer/Legends|Star Destroyers]]<ref name="SOTG01">''[[Starships of the Galaxy]]''</ref>
+|model=''Victory I''-class Star Destroyer<ref name="SOTG01" />
+|type=Star Destroyer<ref name="SOTG01" />
+|cost=57,000,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SOTG01" />
+|modifier=
+|sysmods=
+|length=900 [[Meter/Legends|meters]]<ref name="SOTG01" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=*[[Alderaan Royal Engineers]] [[LF9 ion engine]]s<ref name="SWSB2">[[The Star Wars Sourcebook (Second Edition)|''Star Wars Sourcebook'' (Second Edition)]]</ref>
+|hyperdrive=*Class 1.0<ref name="SOTG01" />
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="SOTG01" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="SOTG01" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Rated]] 3200 [[SBD/Legends|SBD]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|hull=[[Hull/Legends|Rated]] 1520 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Quad turbolaser cannon/Legends|Quad turbolaser batteries]] (10)<ref name="ImperialSourcebook2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref><ref name="TEGTVAV" /><ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]''</ref>
+**5 port<ref name="ImperialSourcebook2" />
+**5 starboard<ref name="ImperialSourcebook2" />
+*Double [[Turbolaser/Legends|turbolaser]] batteries (40)<ref name="ImperialSourcebook2" /><ref name="TEGTVAV" /><ref name="TCSWE" />
+**10 fore<ref name="ImperialSourcebook2" />
+**15 port<ref name="ImperialSourcebook2" />
+**15 starboard<ref name="ImperialSourcebook2" />
+*[[Concussion missile/Legends|Concussion missile]] tube launchers (80)<ref name="ImperialSourcebook2" /><ref name="TEGTVAV" /><ref name="TCSWE" />
+**20 fore<ref name="ImperialSourcebook2" />
+**20 port<ref name="ImperialSourcebook2" />
+**20 starboard<ref name="ImperialSourcebook2" />
+**20 aft<ref name="ImperialSourcebook2" />
+*[[Tractor beam/Legends|Tractor beam]] projectors (10)<ref name="ImperialSourcebook2" /><ref name="TCSWE" />
+**6 fore<ref name="ImperialSourcebook2" />
+**2 port<ref name="ImperialSourcebook2" />
+**2 starboard<ref name="ImperialSourcebook2" />
+Alternate configuration
+*Light Turbo Quadlasers (10)<ref name="SOTG01" />
+*Heavy Double Turbolaser Cannons (20)<ref name="SOTG01" />
+*[[Assault concussion missile]] tubes (20)
+**80 heavy concussion missiles total<ref name="SOTG01" />
+*[[Tractor beam/Legends|Tractor beam]] projectors (10)<ref name="SOTG01" />
+|complement=*[[TIE series/Legends|TIE Series]] starfighters (24)<ref name="SWSB2" /><ref name="TEGTVAV" /><ref name="TCSWE" />
+*[[Dropship/Legends|Dropships]]<ref name="TEGTVAV" /><ref name="TCSWE" />
+*[[Troop transport/Legends|Troop transports]]<ref name="TEGTVAV" /><ref name="TCSWE" />
+*[[All Terrain Armored Transport/Legends|AT-AT walkers]]<ref name="TEGTVAV" /><ref name="TCSWE" />
+*[[HAVw A5 Juggernaut|Juggernauts]]<ref name="TEGTVAV" /><ref name="TCSWE" />
+*[[HAVr A9 Floating Fortress/Legends|HAVr A9 Floating Fortresses]]<ref name="TEGTVAV" /><ref name="TCSWE" />
+|bays=
+|escapepods=
+|crew=*Crew (4,798)<ref name="SWSB2" />
+*[[Gunner/Legends|Gunners]] (402)<ref name="SWSB2" />
+|skeleton=1,785<ref name="SWSB2" />
+|passengers=2,040 {{C|troops}}<ref name="SWSB2" />
+|capacity=8,100 [[Metric ton/Legends|metric tons]]<ref name="SWSB2" />
+|cargohandling=
+|consumables=4 [[Standard year/Legends|years]]<ref name="SWSB2" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted to military
+|role=*Planetary defense<ref name="TEGTVAV" /><ref name="TCSWE" />
+*Planetary assault<ref name="TEGTVAV" /><ref name="TCSWE" />
+*Ground-troop support<ref name="TEGTVAV" /><ref name="TCSWE" />
+*Ship-to-ship combat<ref name="TEGTVAV" /><ref name="TCSWE" />
+|firstuse=[[20 BBY/Legends|20 BBY]]<ref name="TNEC" />
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="TNEC" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="SWSB2" />
+*[[Corporate Sector Authority/Legends|Corporate Sector Authority]]<ref name="HSATCCSB">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+*[[New Republic/Legends|New Republic]]
+*[[Galactic Federation of Free Alliances]]
+*[[Imperial Remnant/Legends|Imperial Remnant]]
+*[[Confederation]]
+}}
+The '''''Victory I''-class Star Destroyer''', also known as the '''''Victory I''-class Destroyer''' and '''''Victoria I''-class Star Destroyer''', was a [[Warship/Legends|warship]] designed for [[Planet/Legends|planetary]] defense, planetary assault, ground troop support, and ship-to-ship combat. It was used by the [[Galactic Republic/Legends|Galactic Republic]] during the mid-[[Clone Wars/Legends|Clone Wars]],<ref name="TNEC" /> the [[Galactic Empire/Legends|Galactic Empire]] and the [[Corporate Sector/Legends|Corporate Sector]] during the [[Galactic Civil War/Legends|Galactic Civil War]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref> and the [[Confederation]] during the [[Second Galactic Civil War]].<ref name="LOTF">''[[Star Wars: Legacy of the Force]]''</ref>
+
+==Characteristics==
+===Dimensions===
+[[File:VSD_egvv.jpg|thumb|left|180px|''Victory I''-class [[Star Destroyer/Legends|Star Destroyer]] [[:Category:Technical drawing images|schematics]].]]
+''Victory I''-class [[Star Destroyer/Legends|Star Destroyers]] were 900 [[Meter/Legends|meters]] long, just over half the size of the later [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]]. Like later Star Destroyer designs, the Victory possessed the ability to enter the upper levels of a planetary atmosphere. This gave the ship a decided advantage of added precision when engaging in the ground attack operations the class was designed to carry out. In addition, the Victory could also pursue other vessels hoping to escape by diving towards a planet.<ref name="ISB" /> A set of atmospheric maneuvering surfaces were located along the ship's flanks as well.<ref name="TEGTVAV" /> Some Victory variants dispensed with the atmospheric maneuvering surfaces altogether. Star Destroyers of this kind fought in the [[Operation Shadow Hand]], notably in the [[Battle of Balmorra]].<ref name="DEII">''[[Star Wars: Dark Empire II]]''</ref>
+
+===Offensive and defensive systems===
+Despite being several decades old at the time, the [[Deflector shield/Legends|shields]] and [[Hull/Legends|hull]] armor of ''Victory I''-class ships were still quite heavy compared to the other vessels used during the Galactic Civil War. They were equipped with 10 [[Quad turbolaser cannon/Legends|quad turbolaser batteries]], 40 double [[Turbolaser/Legends|turbolaser]] batteries, 80 [[Assault concussion missile|concussion missiles]] tubes, and 10 [[Tractor beam/Legends|tractor beam]] projectors.
+Ships of the class were clad in [[9095-T8511]] grade durasteel.<ref name="TEGTVAV" />
+
+===Complement===
+A single ''Victory I''-class Star Destroyer required 4,798 crew members and 402 [[Gunner/Legends|gunners]] for optimal operation and could transport up to 2,040 troops, 8,100 metric tons of cargo, several ground vehicles like the [[All Terrain Armored Transport/Legends|AT-AT]], and two [[Squadron/Legends|squadrons]] of [[Starfighter/Legends|starfighters]]. <div style="float:right">[[File:SWArmandaCoverArt.png|thumb|left|200px|A pair of ''Victory I'' Destroyers battling Rebellion forces]]</div>
+
+===Propulsion systems===
+The ''Victory I''-class Star Destroyer's biggest disadvantage was its underpowered [[LF9 ion engine]]s, which could not produce sufficient acceleration to pursue newer and faster ships, allowing them to escape ship-to-ship combat. This flaw was rectified in the limited [[Victory II-class Star Destroyer/Legends|''Victory II''-class]], produced shortly before the advent of the Empire.<ref name="TEGTVAV" />
+
+Some variants of the ''Victory''-class were designed with three main thrusters and four auxiliary thrusters, like the larger ''Imperial''-class. Others, like the [[Harrow/Legends|''Harrow'']] and the [[Protector (Victory I-class)|''Protector'']], had two main thrusters and two auxiliary thrusters wedged in-between.<ref name="XwRS:B:T">''[[Star Wars: X-Wing Rogue Squadron: Battleground: Tatooine]]''</ref><ref name="SW:TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+
+The ''Victory'' Star Destroyer's Class 1.0 hyperdrive was superior to that of the ''Imperial''-class Star Destroyer, allowing ''Victory'' ships to reach their destinations in half the time.<ref name="ISB" />
+
+==History==
+===Republic-Imperial origin===
+[[File:Victory_cross_section.jpg|thumb|left|200px|''Victory I'' cross-section.]]
+At the start of the Clone Wars and the introduction of the [[Acclamator-class transgalactic military assault ship/Legends|''Acclamator''-class assault ship]], the [[Arch-Provost/Legends|Arch-Provost]] of [[Rendili/Legends|Rendili]] ordered industrial spies and ship-designers to come up with a way to curb [[Kuat/Legends|Kuat's]] lead on new contracts with the Galactic Republic.<ref name="AOTC:ICS">''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''</ref>
+
+The two rival shipbuilders, [[Rendili StarDrive/Legends|Rendili StarDrive]] and [[Kuat Drive Yards/Legends|Kuat Drive Yards]], later embarked on a collaborative design-project while the war was still in its early phases.<ref name="TCSWE" /> This was called the "[[Victor Initiative Project]]," which resulted in the ''Victory''-class. This design by [[Walex Blissex/Legends|Walex Blissex]] became a direct challenge to Kuat's [[Venator-class Star Destroyer/Legends|''Venator''-class]].<ref name="TNEC" /> 
+
+While considered fine ships at the time, they were rushed to production after many delays and political wrangling within the Republic Navy and Kuat Drive Yards. The resulting vessels required more maintenance and drydock time than was considered acceptable, even by the bureaucratic standards of the Republic. The class became infamous for a range of issues, from malfunctioning hyperdrive couplings to faulty onboard systems that occasionally electrocuted sleeping crew members. These problems gave the Victory I-class a grim reputation as "spacegoing coffins."<ref name=":0">[[Star Wars: Force and Destiny Core Rulebook|''Star Wars: Force and Destiny'' Core Rulebook]]</ref>
+
+An early batch of ''Victory I''-class Star Destroyers were deployed to defend [[Imperial Center Oversector|Sector 0]] against the [[Techno Union/Legends|Techno Union's]] [[Bulwark Fleet|fleet]] of [[Bulwark Mark I]] [[Battlecruiser/Legends|battlecruisers]], which had escaped [[Battle of Foerost (Clone Wars)|the blockade]] of [[Foerost/Legends|Foerost]].<ref name="TNEC" />
+This resulted in the deployment of the "[[Victory Fleet]]" six months ahead of schedule. Despite this, the majority of the initial commission group was not deployed until [[Palpatine/Legends|Palpatine]] had already dissolved the Galactic Republic and established his Imperial rule.<ref name="TNEC" />
+
+A subclass known as the [[Victory II-class Star Destroyer/Legends|''Victory II'']] was introduced later in the [[Clone Wars/Legends|Clone Wars]].<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref> Refitted with new ion engines by [[Hoersch-Kessel Drive, Inc./Legends|Hoersch-Kessel Drive]] to replace the underpowered LF9s, and trading the concussion missiles for [[Ion cannon/Legends|ion cannons]] and extra turbolasers; this variant was designed with an emphasis on space combat. This newer class was externally very similar to its predecessor. Very few ''Victory II's ''were built, as they were introduced not long before the ''Imperial''-class, which essentially supplanted it in the space combat role.
+
+===Imperial service===
+The abundant number of ''Imperial''-class Star Destroyers, and the growing popularity of the ''Imperial''-series amongst the Imperial Starfleet, led to many ''Victory''-class Star Destroyers being decommissioned or sold to groups like the [[Corporate Sector Authority/Legends|Corporate Sector Authority]], which purchased 520.<ref name="HSATCCSB" /> Most of the ''Victory''-series Star Destroyers still in Imperial service near the height of the Empire were often assigned to planetary defense roles. Command of or assignment to one of the old Victory-class Star Destroyers was seen as a dead end for a Navy officer’s career.<ref name=":0" />
+
+[[File:Vsd1-eaw.jpg|thumb|left|180px|A ''Victory''-class Star Destroyer in an attack formation with an [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]] and [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighters]].]]
+Within the [[Imperial Navy/Legends|Imperial Navy]], ''Victory''-class Star Destroyers were considered second only to [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]] for most operations in the [[Outer Rim Territories/Legends|Outer Rim Territories]] against pirates and [[Alliance to Restore the Republic/Legends|Rebels]]. The [[Order of Battle/Legends|order of battle]] considered one ''Victory''-class Star Destroyer the equivalent of two [[Strike-class medium cruiser|''Strike''-class cruisers]].
+
+Heavy squadrons often featured ''Victory''-class Star Destroyers; at the systems force level and above, they accompanied larger Star Destroyers, [[Star Cruiser/Legends|Star Cruisers]], and [[Star Dreadnought/Legends|Star Dreadnoughts]] in major assaults. An example of this was the [[Battle of Ciutric]], where other Star Destroyers used their turbolasers to strip the shields and armor of enemy capital ships, allowing ''Victory'' Destroyers to deliver devastating barrages of concussion missiles against their now-unprotected hulls. The ability to pursue enemies into planetary atmospheres also made ''Victorys'' an invaluable part of many Imperial squadrons.
+
+A key disadvantage of the ''Victory I'' was its low speed, which made its deployment difficult and allowed quicker foes to escape pursuit. During the [[Battle of Denab]], the Rebel commander was able to defeat each Imperial squadron separately before they could come to each others' aid, preventing the Imperials from combining their forces and use the greater firepower of the ''Victory'' ships to devastate the Rebels. After these deficiencies became apparent, Imperial tacticians necessitated assigning support ships, such as [[Immobilizer 418 Interdictor-class Heavy Cruiser|Interdictors]], [[Strike-class medium cruiser|''Strike'' cruisers]], and [[Carrack-class light cruiser/Legends|''Carrack'' cruisers]], to make up for the shortcomings.<ref name="SWS">''[[The Star Wars Sourcebook]]''</ref>
+
+[[File:Avenger_Victory_Balmorra.jpg|thumb|right|180px|A third ''Victory'' Star Destroyer variant at the [[Battle of Balmorra]].]]
+
+While [[Mitth'raw'nuruodo/Legends|Thrawn]] was a Vice Admiral, he had flown his flag on ''Victory'' ships such as the [[Stalwart (Victory-class)|''Stalwart'']] and the ''[[Sceltor]]'', as did Admiral [[Harkov]] with the ''Protector''. Most notably, the ''[[Bombard]]'' and the [[Crusader (Victory-class)|''Crusader'']] all but wiped out the notorious [[Eyttyrmin Batiiv]] pirates during the [[Battle of Khuiumin]]; the pirates were aware of the impending Imperial attack but were overconfident in their ability to defeat a pair of "antiquated" ''Victory'' Star Destroyers.
+
+When [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] took control of the [[Thrawn's confederation|Empire]], this saw a return of the ''Victory''-class to frontline duties, because of a lack of larger and more powerful ships such as the ''Imperial''-class.
+
+===Galactic Alliance service===
+Following the [[Yuuzhan Vong War]], the [[Galactic Federation of Free Alliances]] commissioned an updated version of the ''Victory'' for use as pirate hunters across its territories. Some of these new vessels were fitted with large turrets on the upper hull, each housing a huge asteroid-tug [[Tractor beam/Legends|tractor beam]] sold to the [[Galactic Alliance Defense Force]] by [[Lando Calrissian/Legends|Lando Calrissian]].
+
+Prior to the [[Swarm War]], the [[Killik/Legends|Killiks]] hijacked a Galactic Alliance ''Victory''-class Star Destroyer called the [[Admiral Ackbar (Victory-class)|''Admiral Ackbar'']], which had been used by the Alliance for the blockade of the [[Utegetu Nebula/Legends|Utegetu Nebula]], for the Killiks' invasion of the [[Chiss Ascendancy/Legends|Chiss Ascendancy]].
+
+==Behind the scenes==
+[[File:Victory_size.jpg|thumb|left|180px|A ''Victory''-class Star Destroyer (bottom) shown to scale with an ''Imperial''-class Star Destroyer (1,600 m).]]
+The ''Victory I''-class Star Destroyer was developed from a prototype Star Destroyer model created by [[Colin Cantwell]] for [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']].<ref name="Chronicles">''[[Star Wars Chronicles]]''</ref>
+
+The ''Victory''-class Star Destroyer was first mentioned by name in [[Brian Daley]]'s novel ''[[Han Solo's Revenge]]'' used by the [[Corporate Sector Authority/Legends|Corporate Sector Authority]] Territorial Manager [[Odumin]].
+
+The [[The New Essential Chronology|''New Essential Chronology'']] mentioned that the ''Victory''-class was the product of a "Victor Initiative Project". This tied the ''Victory''-class into the naming scheme used by other large Republic ship classes of the era, all of which had Latin-based names ending in ''-tor'', such as the [[Venator-class Star Destroyer/Legends|''Venator''-class]], the [[Mandator-class Star Dreadnaught|''Mandator''-class]], and the [[Imperial I-class Star Destroyer/Legends|''Imperator''-class]]. ''"Victor"'' comes from the Latin verb ''vincere'', meaning "to conquer", via the supine form'' victum''.
+
+Roleplaying game statistics published by [[West End Games]] originally gave the ''Victory I''-class eighty concussion missile tubes, with an unknown number of missiles. This was later adjusted to twenty tubes with four missiles each by the book ''Starships of the Galaxy'', published by [[Wizards of the Coast]]. However, in ''[[X-Wing: Isard's Revenge]]'', the "eighty-concussion missile launch tubes" of the ''Victory''-class Star Destroyer ''Emperor's Wisdom'' and the comparable missile batteries of her sister ships ''Selonian Fire'' and ''Corusca Fire'', play an important role in the storyline.
+
+''Star Wars: Empire at War'' is the first source to depict details on the ''Victory''-class which appear to represent large cannons flanking the bridge superstructure, similar to the ''Imperial''-class and ''Venator''-class Star Destroyers. A comparison using the game's map editing program (which uses the game's own 3-D rendering engine and depicts all three ships in proper proportion to each other) shows these cannons to be roughly half the size of the corresponding units on the larger destroyers. Therefore, the presence of the cannons on the ''Victory''-class in-game model is likely an unforeseen side-effect of it simply being a scaled down and modified version of the ''Imperial I''-class model.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Victory I-class Star Destroyers}}
+*{{InsiderCite|74|CIS Shadowfeed Dispatch 15:2:29 Edition}}
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*{{JournalCite|7|Mist Encounter|reprint=1}}
+*''[[Coruscant Nights I: Jedi Twilight]]''
+*{{DoD|The Traitor's Gambit}}
+*''[[The Paradise Snare]]'' {{Mo}}
+*''[[Han Solo's Revenge]]'' {{1st}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Star Wars Missions 9: Revolt of the Battle Droids]]''
+*''[[Star Wars Missions 10: Showdown in Mos Eisley]]''
+*''[[Star Wars Missions 11: Bounty Hunters vs. Battle Droids]]''
+*''[[Star Wars Missions 12: The Vactooine Disaster]]''
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*''[[Star Wars: X-Wing Alliance]]''
+*{{WEGCite|story=Den of Spies|book=Twin Stars of Kira (sourcebook)}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*{{JournalCite|3|Mission to Zila|reprint=1}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*''[[Champions of the Force]]''
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[The New Rebellion]]''
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]''
+*''[[The New Jedi Order: Dark Tide II: Ruin]]''
+*''[[Dark Nest II: The Unseen Queen]]''
+*''[[Legacy of the Force: Tempest]]''
+*''[[Legacy of the Force: Inferno]]''
+*''[[Legacy of the Force: Fury]]''
+*''[[Legacy of the Force: Revelation]]''
+}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-10-06 -->{{TCG|set=A New Hope|cardname=''Victory''-class Star Destroyer|link=https://swtcg.com/Content/Images/Cards/ANH/Victory_Class_Star_Destroyer.webp?v=2}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2005-02-01 -->{{FigurineCite|1|Spaceships and Vehicles}}
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-12-03 -->[[Star Wars: The Official Starships & Vehicles Collection 32|''Star Wars: The Official Starships & Vehicles Collection'' 32]]
+*<!-- 2013-12-17 -->{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-2|series=The Imperial Warlords: Despoilers of an Empire|text=Part 2|nolive=1}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+<!-- 2015-03-27 -->{{CardGameSet|set={{Armada|set=Core Set}}|cards=
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=''Dominator''|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=''Victory I''-class Star Destroyer|reprint=1}}
+}}
+}}
+
+==Notes and references==
+{{Reflist|2}}
+
+{{Interlang
+|de=Sieges-I-Klasse Sternenzerstörer#legends
+|es=Destructor Estelar clase Victoria I
+|fr=Destroyer Stellaire de classe Victoire I
+|hu=Victory I-osztályú csillagromboló
+|it=Star Destroyer classe Victory I
+|ja=ヴィクトリーI級スター・デストロイヤー
+|pl=Gwiezdny Niszczyciel typu Victory-I
+|pt=Legends:Destróier Estelar classe Vitória
+|sv=Victory I-klass stjärnjagare
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Rendili StarDrive products]]
+[[Category:Star Destroyer classes]]
+[[Category:Starship class variants and subclasses]]
+[[Category:Starship classes of the Corporate Sector Authority]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the Imperial Remnant]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:Victory I-class Star Destroyers]]
+}}

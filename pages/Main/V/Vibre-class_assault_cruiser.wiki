@@ -1,0 +1,119 @@
+{{Top|leg|title=''Vibre''-class assault cruiser}}
+{{IndividualShip
+|image=[[File:VibreClass.jpg]]
+|name=''Vibre''-class assault cruiser
+|designer=
+|manufacturer=[[Silviut Corporation]]<ref name="JAS">''[[The Jedi Academy Sourcebook]]''</ref><ref name="PaP">''[[Pirates & Privateers]]''</ref><ref name="PaP" />
+|line=
+|model=''Vibre''-class assault cruiser<ref name="JAS" /><ref name="PaP" />
+|type=[[Assault cruiser]]<ref name="JAS" /><ref name="SotG" />
+|cost=Not available for sale<ref name="JAS" /><ref name="PaP" /> (Valued at 2,259,000 [[Galactic Credit Standard/Legends|credits]])<ref name="SotG" />
+|modifier=
+|sysmods=
+|length=100 [[Meter/Legends|meters]]<ref name="JAS" /><ref name="PaP" /><ref name="SotG" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=70<ref name="n1">This is implied by the [[Canon#Canon_and_games|stat block]] "space speed" of 7 in the ''Jedi Academy Sourcebook'' and ''Pirates and Privateers''.</ref>
+|max speed=1,000 [[Kilometer per hour/Legends|km/h]] {{C|in [[Atmosphere/Legends|atmosphere]]}}<ref name="JAS" /><ref name="PaP" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="JAS" />
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="JAS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]] {{C|capital ship grade}}<ref name="JAS" /><ref name="PaP" /><ref name="SotG" />
+|hull=
+|sensor=[[Sensor/Legends|Sensor]] antenna arrays<ref name="JAS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="JAS" />
+|avionics=
+|maincomp=
+|countermeasures=[[Sensor mask (starship technology)|Sensor mask]],<ref name="SotG">''[[Starships of the Galaxy]]''</ref> stealth coating<ref name="JAS" />
+|armament=*Quadruple Light [[Turbolaser/Legends|Turbolaser]] [[Turret/Legends|turret]] (1)<ref name="SotG" />
+*[[Tractor beam projector/Legends|Tractor beam projectors]] (2)<ref name="SotG" />
+*Heavy [[Ion cannon/Legends|Ion cannons]] (4)<ref name="SotG" />
+Or
+*[[Laser cannon/Legends|Laser cannon]] turrets (4)<ref name="JAS" /><ref name="PaP" />
+*[[Tractor beam projector/Legends|Tractor beam projectors]] (2)<ref name="JAS" /><ref name="PaP" />
+*[[Ion cannon/Legends|Ion cannons]] (4)<ref name="JAS" /><ref name="PaP" />
+|complement=
+|bays=
+|escapepods=
+|crew=*30<ref name="PaP" />
+*[[Gunner/Legends|Gunners]] (15)<ref name="PaP" />
+|skeleton=*10<ref name="PaP" />
+*Gunners (10)<ref name="JAS" />
+|passengers=[[Zero-G assault stormtrooper|Spacetroopers]] (60)<ref name="PaP" /><ref name="JAS" /><ref name="SotG" />
+|capacity=500 [[Metric ton/Legends|metric tons]]<ref name="PaP" /><ref name="JAS" /><ref name="SotG" />
+|cargohandling=
+|consumables=5 [[Standard month/Legends|months]]<ref name="PaP" /><ref name="JAS" /><ref name="SotG" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=Assault cruiser
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+|navy=
+|fleet=
+|owners=
+|captains=
+|registry=
+|aliases=
+}}
+The '''''Vibre''-class assault cruiser''' was a [[Starship/Legends|starship]] specifically designed for commerce raiding by the [[Galactic Empire/Legends|Galactic Empire]], used both by elements of the Imperial military and by pro-Imperial [[Privateer/Legends|privateer]] crews.
+
+==History==
+After the defeat of [[Palpatine/Legends|Palpatine]], the remnants of the [[Galactic Empire/Legends|Empire]] shifted tactics; lacking their former resources, they approved the use of smaller ships designed specifically to raid vulnerable [[New Republic/Legends|New Republic]] cargo convoys. The earliest design to embody this innovative "[[assault cruiser]]" concept was the ''Vibre''-class space transport,<ref name="SotG" /> which entered service around [[11 ABY/Legends|11 ABY]]. The type was created by [[Silviut Corporation]], previously known for their outsourced work for [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]], but now shifting to producing their own designs.<ref name="JAS" /> Intended for use by independent [[Privateer/Legends|privateer]] crews operating outside the [[Imperial Navy/Legends|Imperial Navy]],<ref name="PaP" /> the type was also used by the regular Imperial military as a commerce raider.<ref name="JAS" /><ref name="PaP" />
+
+Designed primarily to capture ships and valuable cargos rather than simply destroy them,<ref name="JAS" /><ref name="PaP" /><ref name="SotG" /> the ''Vibre''-class were deployed principally against lightly-guarded convoys of freighters,<ref name="JAS" /><ref name="PaP" /><ref name="SotG" /> but they were capable of knocking out escort vessels for long enough to complete their attack on the transports,<ref name="JAS" /><ref name="SotG" /> and were also used to raid vessels carrying [[New Republic/Legends|New Republic]] officials, and in direct attacks against smaller warships.<ref name="JAS" /> The type became an important and versatile weapon for the remnants of the Empire.<ref name="PaP" />
+
+==Characteristics==
+[[File:Vibre-class_assault_cruiser.jpg|thumb|left|250px|''Vibre''-class [[:Category:Technical drawing images|schematics]].]]
+Sleek and scarab-shaped,<ref name="JAS" /><ref name="SotG" /> the ''Vibre'' measured 100 meters in length,<ref name="JAS" /><ref name="PaP" /><ref name="SotG" /> the minimum size to be officially designated a a [[Capital ship/Legends|capital ship]] by the Empire.<ref name="ISB">''[[Imperial Sourcebook]]''</ref> The design featured a bridge in the bows, large boarding hatches on either side, and four thrusters at the stern - two main engines mounted vertically in the centre, two slightly smaller secondary units on either side.<ref name="JAS" />
+
+The ''Vibre'' was a very small vessel, and only lightly armed, but compensated for these weaknesses with an innovative design emphasising sophisticated [[Sensor/Legends|sensor]] technology.<ref name="SotG" /> Using the sensitive antenna that ringed the ship's median,<ref name="JAS" /> ''Vibre'' crews could locate and identify targets at long range,<ref name="note2">The performance of these systems is implied only by a comparison of the numbers in the [[Canon#Canon_and_games|stat block]] with those for standard Imperial designs in ''[[Imperial Sourcebook|The Imperial Sourcebook]]'', though similarly powerful systems are fitted on other small types such as the [[Gamma-class assault shuttle/Legends|''Gamma''-class shuttle]].</ref> while it was able to sneak close to opponents using systems designed to reduce their ability to detect it,<ref name="PaP" /> including a [[Sensor mask (starship technology)|sensor mask]],<ref name="SotG" /> and a matte-black stealth coating on the hull.<ref name="JAS" />
+
+Conventional firepower consisted of four [[Laser cannon/Legends|laser cannon]] mounted in turrets with extensive firing arcs, two at the very front of the ship and one on each side of the hull right at the stern, but the ''Vibre'' also carried four heavy [[Ion cannon/Legends|ion cannons]], two forward-firing in the bows and one on either broadside,<ref name="JAS" /> and relied on these to knock out ships too large for its modest destructive firepower to destroy outright.<ref name="PaP" /><ref name="SotG" /> With its target disabled, the ''Vibre'' would use its powerful [[Tractor beam/Legends|tractor beams]] to pull itself together with the opposing ship,<ref name="JAS" /><ref name="SotG" /> typically using its laser weaponry to blast a hole in a target's hull for boarding,<ref name="JAS" /> and exposing its interior to hard vacuum in the process,<ref name="SotG" /> before debarking its compliment of [[Zero-G assault stormtrooper|spacetroopers]].<ref name="JAS" /> Once the target ship was captured, an Imperial crew would take control and return it to territory under their control.<ref name="SotG" />
+
+A version of the ship exchanged the laser cannon for four light turbolasers united in a single turret, providing a focused destructive punch that could be aimed in any direction around the ship.<ref name="SotG" />
+
+The type also carried very powerful deflectors, somewhat compensating for the lightly-built hull.<ref name="note2" />
+
+==Behind the scenes==
+The emphasis on the deployment of spacetroopers suggests that the assault cruiser was conceived as a hybrid of the Imperial [[Gamma-class assault shuttle/Legends|assault shuttle]] and a small [[Capital ship/Legends|capital ship]] (the very strong shields and sensors assigned by the stat block also correspond directly to those of the assault shuttle).
+
+The statement that the ship was originally designed specifically for Imperial [[Privateer/Legends|privateers]] is mentioned only in ''[[Pirates & Privateers]]'' and was probably a [[Retroactive continuity|retcon]] to adapt the ship for the use in the setting of that scenario - the "spacetroopers" carried by such privateer vessels are presumably not [[Zero-G assault stormtrooper|Imperial Spacetroopers]], and the source does not comment on whether or not they use standard [[Spacetrooper armor/Legends|spacetrooper armor]].
+
+References to the type's use by regular Imperial units are less explicit, restricted to passing remarks about its service in Imperial "fleets" or "forces", but are inferred here as a natural inference based on the lack of any indication to the contrary in the original description of the ship in the ''[[The Jedi Academy Sourcebook|Jedi Academy Sourcebook]]''.
+
+There is a discrepancy relating to the type's armament between the ''[[The Jedi Academy Sourcebook|Jedi Academy Sourcebook]]'' and the later ''[[Starships of the Galaxy]]'', with the first source listing four turret-mounted [[Laser/Legends|laser cannons]] and showing them in the associated schematic as individually mounted weapons at separate points on the hull, whereas the other changes these to four light [[Turbolaser/Legends|turbolasers]] and states that the ship carries its "heaviest weaponry in a turret", implying that all four turbolasers are group in one mounting with all-around firepower (the ion cannons are mentioned separately in the text, and are consistently indicated as non-turret-mounted). Although it is unclear whether this was intended as a deliberate revision of the armament, this article reflects the difference in the text.
+
+The ''[[The Jedi Academy Sourcebook|Jedi Academy Sourcebook]]'' also refers in passing to the ship mounting "assault blasters", but it is unclear whether this is simply a description of the laser cannon, or a reference to additional light weaponry, excluded from the listed armament due to limited firepower.
+
+There is also a difference in the way the type's tractor beams are described. The ''[[The Jedi Academy Sourcebook|Jedi Academy Sourcebook]]'' states that the assault cruiser "pulls itself" onto its (implicitly much larger) target ships, while ''[[Starships of the Galaxy]]'' says in contrast that they "draw in" the deactivated ship towards the cruiser.
+
+==Sources==
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]'' {{1stm}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-07-24 -->{{FactFile|30|TRA 1-4|Tractor Beams}}
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Vibre-Klasse Angriffskreuzer
+|es=Crucero de asalto clase Vibración
+|pl=Krążownik typu Vibre
+}}
+
+[[Category:Assault cruiser classes]]
+[[Category:Silviut Corporation products]]
+[[Category:Starship classes of the Galactic Empire]]
