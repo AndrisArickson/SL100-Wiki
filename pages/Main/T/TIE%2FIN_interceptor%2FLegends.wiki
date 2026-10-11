@@ -1,0 +1,482 @@
+{{Top}}
+{{Youmay|the [[TIE series/Legends|TIE]] [[Interceptor/Legends|Interceptor]]|the [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]], also known as the "TIE [[Starfighter/Legends|Fighter]]" ("LN" for the original TIE Fighter, "IN" for the TIE Interceptor)}}
+{{IndividualShip
+|image=[[File:TIEinterceptor-SWChron.png]]
+|name=TIE/IN interceptor
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+|line=[[TIE series/Legends|TIE Series]]
+|model=Twin Ion Engine [[Interceptor/Legends|Interceptor]]
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=75,000 credits<ref name="AoR">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+|modifier=
+|sysmods=
+|length=9.6 [[Meter/Legends|meters]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=*4,240 G<ref name="NEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+*21 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="SW:XvTF">''[[Star Wars: X-Wing vs. TIE Fighter]]''</ref><ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=110 MGLT<ref name="TSC">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref>
+|max speed=1,250 [[Kilometer per hour/Legends|km/h]]<ref name="BtM" />
+|maneuverability=104 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=SFS [[P-s5.6 twin ion engine/Legends|P-s5.6 twin ion engines]]<ref name="CCS" /> (rated 175 [[KTU]])<ref name="TSC" />
+|hyperdrive=
+|hdrange=
+|hdsystem=None standard,<ref name="CCS" /> can be equipped as upgrade<ref name="X-Wing: Wraith Squadron">''[[X-Wing: Wraith Squadron]]''</ref>
+|poweroutput=
+|power=SFS [[I-s3a solar ionization reactor/Legends|I-s3a]] [[Solar ionization reactor/Legends|solar ionization reactor]]<ref name="CCS" />
+|shield gen=None standard,<ref name="XWA" /> can be equipped as an upgrade,<ref name="SW:XvTF" />
+|hull=[[Titanium/Legends|Titanium]] [[Hull/Legends|hull]] with [[Quadanium steel/Legends|Quadanium steel]] [[Solar collector/Legends|solar panels]] (rated 16 [[RU/Legends|RU]])<ref name="XWA" />
+|sensor=
+|target=SFS [[T-s9a targeting computer/Legends|T-s9a]] [[Targeting computer/Legends|targeting computer]]<ref name="TSC" />
+|navigation=SFS [[N-s6 Navcon/Legends|N-s6 Navcon]]<ref name="TSC" />
+|avionics=SFS [[F-s4 flight avionics system]]<ref name="TSC" />
+|maincomp=
+|countermeasures=
+|armament=Original design:
+*[[Senko Systems]] [[80-100 laser cannon|80-100 laser cannons]] (4)<ref name="XvsTIE">''[[Starfighter Battle Book: X-wing vs TIE Interceptor]]''</ref>
+
+OR
+
+*SFS [[L-s9.3 laser cannon/Legends|L-s9.3 laser cannons]](6)<ref name="BtM" />
+
+Later refit:
+*SFS [[L-s9.3 laser cannon/Legends|L-s9.3 laser cannons]] (2)
+*[[Blaster cannon/Legends|Blaster cannons]] (4)
+*Multipurpose Warhead Launchers can be mounted with optionally varying payload (2)
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="CCS" />
+|skeleton=
+|passengers=None
+|capacity=75 [[Kilogram/Legends|kilograms]]<ref name="BtM" />
+|cargohandling=
+|consumables=2 [[Standard day/Legends|days]]<ref name="CCS" />
+|lifesupport=
+|communications=
+|othersystems=*[[AE-35 subspace transceiver]]
+*[[Ejector seat/Legends|Ejection seat]]
+|role=*Space superiority fighter
+*[[Interceptor/Legends|Interceptor]]
+|commission=[[1 BBY/Legends|1 BBY]]<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+|destroyed=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+*[[New Republic/Legends|New Republic]]<ref name="X-Wing: Solo Command">''[[X-Wing: Solo Command]]''</ref>
+*[[Empire of the Hand]]<ref name="Crisis of Faith">{{StoryCite|story=Crisis of Faith|book=Heir to the Empire: The 20th Anniversary Edition}}</ref>
+*[[Imperial Remnant/Legends|Imperial Remnant]]
+*[[Galactic Federation of Free Alliances]]
+*[[Peace Brigade]]
+|navy=
+|fleet=
+|owners=
+|captains=
+|registry=
+|aliases=
+}}
+{{Quote|Your generic TIE grunt is just plain suicidal. And the TIE Defender jockey is bloodthirsty. But the TIE Interceptor pilot, he's suicidal ''and'' bloodthirsty. When you see a squad of those maniacs flying your way, you'd better hope your hyperdrive is operational.|[[Kyle Katarn]]|<ref name="NEGVV" />}}
+The '''TIE/IN starfighter''', simply known as the '''TIE Interceptor''', '''T/I'''<ref name="Star Wars: Tie Fighter">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref> or '''SFS-TIE/I/1''',<ref name="XvT">''[[Starfighter Battle Book: X-wing vs TIE Interceptor]]''</ref> was a [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighter]] used by the [[Galactic Empire/Legends|Galactic Empire]]. The TIE [[Interceptor/Legends|Interceptor]] was identifiable by its arrow-shaped [[solar gather-panel|solar collection panels]], a distinct difference from the hexagonal solar arrays of its predecessor, the [[TIE/ln space superiority starfighter/Legends|TIE/LN Fighter]]. The Interceptor was one of the fastest [[Starfighter/Legends|starfighters]] in [[The galaxy/Legends|the galaxy]] at its prime, nearly rivaling the [[Alliance to Restore the Republic/Legends|Alliance's]] [[RZ-1 A-wing interceptor/Legends|RZ-1 A-wing interceptor]].
+
+Due to their speed, distinct shape, and narrow profile in comparison to the TIE/LN starfighter (which was nicknamed "[[List of phrases and slang/Legends|eyeball]]"), TIE Interceptors came to be referred to occasionally as "squints" by enemy pilots.<ref name="Alliance Intelligence Report: TIE Fighters">{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}</ref>
+
+==Characteristics==
+[[File:TIE_Interceptor_by_Darren_Tan.jpg|thumb|left|180px|TIE/IN interceptor]]
+Like most TIE models, the TIE Interceptor shared nearly identical cockpits, drive pods, and wing brace designs with the TIE Fighter. The solar collector panels were lengthened and angled, and the forward center section was removed. This new solar array design gave the Interceptor its unmistakable dagger-like appearance and shrinking its profile to make targeting more frustrating for enemy [[Gunner/Legends|gunners]].<ref name="The Essential Guide to Vehicles and Vessels">''[[The Essential Guide to Vehicles and Vessels]]''</ref> This wing design gave the craft a more menacing visage, continuing the Empire's reputation of ruling through fear.<ref name="Imperial Sourcebook">''[[Imperial Sourcebook]]''</ref>
+
+The original production model came equipped with either four identical [[Senko Systems]] [[80-100 laser cannon|80-100 laser cannons]] with a fire control system that allowed only diagonally opposite guns to fire at the same time to facilitate rapid heat dissipation,<ref name="XvsTIE" /> or four [[L-s9.3 laser cannon/Legends|L-s9.3 laser cannons]] with each weapon able to fire either on its own or linked to the other three. Both types of crafts had one cannon installed on each wingtip. New targeting software was installed in the TIE Interceptor, and the [[Sienar Fleet Systems/Legends|SFS]] [[T-s9a targeting computer/Legends|T-s9a targeting computer]] offered greater accuracy during complex flight maneuvers.<ref name="TSC" /> While the models equipped with Senko Systems' weaponry had them replaced with [[Sensor/Legends|sensor receptors]],<ref name="XvsTIE" /> twin [[Laser cannon/Legends|laser cannon]] hardpoints still remained on the "chin" portion of the other model's cockpit module. Provided that technicians could find room for additional power generators, these cannons could also be utilized.<ref name="The Essential Guide to Vehicles and Vessels" /> Further upgrades, including [[Hyperdrive/Legends|hyperdrives]] and advanced shielding made them equal to the Rebellion's [[X-wing starfighter/Legends|X-wing]] starfighters.<ref name="SW 4 (DH)">[[Star Wars (2013) 4|''Star Wars'' (2013) 4]]</ref> Their weapons were equipped with safeties.<ref name="SW 11 (DH)">[[Star Wars (2013) 11|''Star Wars'' (2013) 11]]</ref>
+
+Later TIE Interceptor models were modified to carry four [[Blaster cannon/Legends|blaster cannons]], replacing the original wingtip laser cannons. The twin chin-mounted laser cannons remained. The new model also came equipped with multi-purpose warhead launchers. These upgrades made the new model more of a multi-purpose fighter rather than an Interceptor, though it still retained its original name. However, despite the adoption of a new model, the older model remained a common sight in Imperial fleets for years to come.<ref name="NEGVV" />
+
+<div style="float:right">[[File:Fightercover.png|thumb|left|180px|A TIE Interceptor firing its "chin" [[Laser cannon/Legends|cannons]].]]</div>
+The TIE Interceptor fielded [[P-s5.6 twin ion engine/Legends|P-s5.6 twin ion engines]].<ref name="TSC" /> The new engines included an advanced ion-stream projector, thus allowing pilots access to more sophisticated combat maneuvers. Twin-port deflectors supported this feat by allowing the pilot individual manipulation of the deflectors, thus providing finer flight control.<ref name="The Essential Guide to Vehicles and Vessels" /> These advancements in engine technology made the TIE Interceptor a superior platform in space combat, achieving speeds beyond all other Alliance starfighters short of the [[RZ-1 A-wing interceptor/Legends|RZ-1 A-wing interceptor]].<ref name="RS II guide">''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''</ref> Interceptors assigned to [[Colonel/Legends|Colonel]] [[Kell Bircher]]'s elite squadron were also equipped with [[Afterburner/Legends|afterburners]].<ref name="SW 11 (DH)" />
+
+The TIE Interceptor's primary role was as its title suggested. Like its predecessors, the Interceptor lacked heavier armor, [[Deflector shield/Legends|deflector shields]], a [[Hyperdrive/Legends|hyperdrive]], and [[Life support/Legends|life support]] systems (though shields and a small hyperdrive could be fitted as an upgrade, these were uncommon). Interceptor pilots were forced to rely on speed, maneuverability, superior numbers, and advanced weapon systems to prevail in its primary role of space superiority.<ref name="The Essential Guide to Vehicles and Vessels" /> The craft's drawbacks meant that any pilot who survived more than a few missions was considered to be a "top gun" in the Imperial fleet.<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref>
+
+With no hyperdrive, the TIE Interceptor was reliant on a [[Capital ship/Legends|capital ship]] for an operations base. [[Star Destroyer/Legends|Star Destroyers]] and prominent [[Shipyard/Legends|shipyards]] such as [[Kuat/Legends|Kuat]] and [[Fondor/Legends|Fondor]] were common staging areas for Interceptor squadrons; however, smaller vessels and more remote locations had to rely on aging [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]].<ref name="The Essential Guide to Vehicles and Vessels" />
+
+[[File:Pincer5.jpg|thumb|left|180px|TIE Interceptors engaging the [[Millennium Falcon/Legends|''Millennium Falcon'']].]]
+There was also a [[Emperor's Royal Guard TIE/IN starfighter|special variant]], painted completely red with significant upgrades, that was available for use by the [[Emperor's Royal Guard/Legends|Emperor's Royal Guards]]. Aside from its paint job and upgrades, this model also featured two small wings protruding from each solar panel.<ref name="Star Wars: Galaxies">{{GalaxiesAED}}</ref>
+
+TIE Interceptors had powerful solar ionization reactors, the same model used in the [[TIE/ad starfighter|TIE Avenger]]. These could handle the special equipment built into the Interceptor, including deflector shields, beam weapons such as special beam jammers, decoy beams, hyperdrives and extra missile racks for increased warhead payload. It was common for [[Alpha Squadron]], [[Avenger Squadron/Legends|Avenger Squadron]], [[Delta Squadron (TIE/D)/Legends|Delta Squadron]], [[Gamma Squadron/Legends|Gamma Squadron]], [[Sunspot Squadron]], and others to carry one or most of these pieces of special equipment at a time.<ref name="TSC" /><ref name="TIE Fighter: The Official Strategy Guide">''[[TIE Fighter: The Official Strategy Guide]]''</ref><ref name="Balance of Power in the Airam Sector">''[[Balance of Power in the Airam Sector]]''</ref>
+
+==History==
+{{Quote|Watch out, interceptors coming in.|A Rebel pilot during the Battle of Endor|<ref name="Rogue Squadron II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>}}
+After the Empire's disastrous loss of 286 TIE/LN starfighters to the [[Lightspeed Panthers]] during the [[Fei Hu campaign]] in [[1 BBY/Legends|1 BBY]], the Empire realized the superiority of the Incom T-65 X-wing starfighters, and decided to create an interceptor model of the TIE series as a means to counter the X-wing, with development succeeding that same year.<ref name="EGW" /> In large part because of the success, they were later utilized in campaigns such as [[Operation Strike Fear]] and [[Operation Skyhook]].<ref name="X-wing">[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]</ref> Interceptors however were also used in early Imperial conflicts, such as [[Battle of Mustafar (Imperial Period)|putting down]] [[Gizor Dellso]]'s droid rebellion.<ref name="EGW" />
+
+Another factor in its development was to have the power of the [[TIE/Advanced starfighter]] but be more cost-effective, as the TIE/Advanced was too expensive to mass-produce.
+
+After the destruction of the [[DS-1 Orbital Battle Station/Legends|first Death Star]] during the [[Battle of Yavin/Legends|Battle of Yavin]], the Empire, realizing quickly the growing threat of the Rebel Alliance, increased mass production of the TIE Interceptors, thus resulting in the TIE Interceptors becoming the new fighter force of the Empire after the battle.
+<div style="float:right">[[File:XWM_Imperial_Aces_box_cover.png|thumb|250px|A Royal Guard Interceptor flying alongside a 181st Interceptor.]]</div>
+[[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]], aware of the superior abilities of the TIE Interceptor, as well as its relatively low cost, had planned to replace all standard TIE Fighters with Interceptors. By the [[Battle of Endor/Legends|Battle of Endor]], TIE Interceptors filled twenty percent of the total Imperial starfighter complement, and overwhelmed many Rebel fighters.<ref name="The Essential Guide to Vehicles and Vessels" />
+
+Two months following the defeat at Yavin, a squadron of Interceptors with concussion warhead mounts [[Mission to Dominus III|ambushed]] Rebel [[Scout/Legends|scouts]].<ref name="SW 1 (DH)">[[Star Wars (2013) 1|''Star Wars'' (2013) 1]]</ref> Upgraded versions with shields and hyperdrives under the command of Colonel Bircher ambushed three members of [[Stealth Squadron|Gray Flight]]&mdash;[[Leia Organa Solo/Legends|Leia Organa]], [[Wedge Antilles/Legends|Wedge Antilles]], and [[Tess Alder]].<ref name="SW 4 (DH)" /> Eleven of the Empire's starfighters were destroyed when the Gray Flight launched proton torpedoes at them. A member of Bircher's flight called for retreat, but the Colonel refused and gave the order for evasion pattern [[Delta Delta Victor]]. The Interceptors then broke off pursuit as their Star Destroyer prepared to fire.<ref name="SW 5 (DH)">[[Star Wars (2013) 5|''Star Wars'' (2013) 5]]</ref>
+
+The Rebels escaped<ref name="SW 5 (DH)" /> and the Imperials [[Ambush of Gray Flight|tracked]] them to their next rendezvous. Bircher once again led them into combat. More of his interceptors were destroyed by a Rebel trap, forcing Bircher to activate his craft's hyperdrive and go to rendezvous coordinates Beta One.<ref name="SW 6 (DH)">[[Star Wars (2013) 6|''Star Wars'' (2013) 6]]</ref>
+
+Soon after, Bircher led the ''Devastator'' to the Rebel fleet. He ordered all of his fighters to launch and [[Attack on the Rebel Fleet|destroy]] the fleet, and two interceptors were commandeered by the Rebel agents Luke Skywalker and Wedge Antilles, who had infiltrated the ship.<ref name="SW 10 (DH)">[[Star Wars (2013) 10|''Star Wars'' (2013) 10]]</ref> The pair activated their afterburners and crash-landed aboard the flagship [[Home One/Legends|''Home One'']]. Later, as the Rebels fought his fighters, he slaved external control to the cruiser and landed in Hangar Five.<ref name="SW 11 (DH)" />
+
+TIE interceptors dueled with the Rebel's premier [[T-65B X-wing starfighter/Legends|T-65B X-wing starfighter]] squadron, the [[Rogue Squadron/Legends|Rogues]], in numerous battles<ref name="SW:RS">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref> around six [[Standard month/Legends|months]] after the destruction of the Imperial Death Star.<ref name="RS I guide" /> A TIE Interceptor captured at the [[Liberation of Gerrard V]] was stored in the Rogue's hangar.<ref name="SW:RS" />
+
+[[File:TIEinterceptor_bf.jpg|thumb|left|200px|A TIE Interceptor.]]
+The TIE Interceptor was considered one of the best, if not the best starfighters for [[Starfighter combat/Legends|dogfighting]]. It was often used by elite Imperial TIE squadrons like the [[181st Imperial Fighter Wing/Legends|181st]],<ref name="RS: Empire's Service">''[[Star Wars: X-Wing Rogue Squadron: In the Empire's Service]]''</ref> the [[128th TIE Interceptor Squadron|128th]],<ref name="RS I guide" /> [[Alpha Squadron]], and [[Avenger Squadron/Legends|Avenger Squadron]]. The Interceptor was also used by squadron leaders in TIE/LN starfighter squadrons, as well as being used by Imperial personnel not in the Imperial TIE Fighter Corps, or the [[Imperial Navy/Legends|Imperial Navy]].<ref name="The Essential Guide to Vehicles and Vessels" /><ref name="Star Wars: Tie Fighter" /><ref name="SW:XvTF" />
+
+Officers of the [[Imperial Navy/Legends|Imperial Navy]] were sometimes known to adopt TIE Interceptors as their personal craft, installing shield projectors and hyperdrives so the Interceptors could be utilized as escape vehicles. [[Apwar Trigit]] was one such officer.<ref name="X-Wing: Wraith Squadron" />
+
+Modified TIE Interceptors were used by Warlord [[Zsinj]] in an attempt to bait and kill [[Wedge Antilles/Legends|Wedge Antilles]]. Finding that [[Wraith Squadron]] and [[Rogue Squadron/Legends|Rogue Squadron]], under Antilles' leadership, were significant impediments to his plans, the Warlord modified twelve Interceptors with droid brains and high-explosives. These ships would fly under the coordination of a central computer and be paired with a piloted craft. They were intended to close with enemy craft and detonate their explosive payloads. The two squadrons thus formed pretended to be the Imperial 181st Fighter Squadron under the command of [[Soontir Fel/Legends|Baron Soontir Fel]].<ref name="X-Wing: Solo Command" />
+
+The Warlord knew that Antilles and Fel had a personal relationship, though he was unaware of its true nature. Using actors such as [[Tetran Cowall]] and computer voice modification, he was successful in his efforts to deceive Antilles. However, Voort saBinring deduced that the ships must be automated and jammed their signal, making them easy prey for the Wraiths and Rogues combined. Finally, Wedge splashed Fel's ship, only to discover Tetran Cowall instead of the Baron.<ref name="X-Wing: Solo Command" />
+
+Due to limited pilots and fighters, [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] had many TIE Interceptors fitted with shields to minimize casualties during the reign of his [[Thrawn's confederation|Empire]]. This practice was continued after his death as the Empire could no longer afford to field profuse fleets of TIE Fighters.<ref name="Databank">{{DB|starship|tieinterceptor|TIE interceptor}}</ref>
+
+Approximately [[15 ABY/Legends|eleven years after]] the Battle of Endor,<ref name="ImpWar">{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-3|series=The Imperial Warlords: Despoilers of an Empire|text=Part 3|nolive=1}}</ref> TIE interceptors were considered an old craft and an unusual sight by [[Han Solo/Legends|Han Solo]] of the [[New Republic/Legends|New Republic]].<ref name="Tales19">{{Tales|19|Collapsing New Empires}}</ref>
+
+The TIE/IN starfighter later became the basis of the [[Predator-class fighter|''Predator''-class fighter]].<ref name="Star Wars: Legacy 2006 0">[[Star Wars: Legacy (2006) 0|''Star Wars: Legacy'' (2006) 0]]</ref>
+
+==Behind the scenes==
+[[File:TIEint_schem.jpg|thumb|right|180px|TIE Interceptor [[:Category:Technical drawing images|schematics]].]]
+Several sources state that the TIE/IN was the main reason behind the development of the [[RZ-1 A-wing interceptor/Legends|RZ-1 A-wing interceptor]] by the Rebel Alliance (as a countermeasure) and that the Interceptor was deployed ''after'' Yavin.
+
+However, the existence of the TIE Interceptor around the Battle of Yavin was well established in the timeline. Interceptors made appearances in [[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']], ''[[Star Wars: Battlefront II]]'', [[Star Wars: Episode III Revenge of the Sith (video game)|''Star Wars Episode III: Revenge of the Sith'' video game]], ''[[LEGO Star Wars II: The Original Trilogy]]'', ''[[LEGO Star Wars: The Complete Saga]]'' (though the Lego Star Wars games are non-canon), and ''[[Star Wars: Lethal Alliance]]'', all of which take place before, during, or shortly after the [[Battle of Yavin/Legends|Battle of Yavin]]. [[West End Games]] ''[[The Star Wars Sourcebook]]'' stated that at the time of Yavin, standard [[Imperial-class Star Destroyer/Legends|Imperial Star Destroyers]] carried one squadron of Interceptors (12 craft), one Bomber squadron, and four TIE/LN starfighter squadrons. By the time of the Battle of Endor, an additional Interceptor squadron has replaced that of the TIE/LN.
+
+Numerous sources depict the TIE Interceptor as having only four wingtip cannons, but their ''very first'' appearance, in [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']], shows them firing their chin-mounted fifth and sixth cannons, in addition to their wingtip cannons throughout the Battle of Endor. It has since been established that each TIE Interceptor comes equipped with cannon mountings on the chin, like the preceding TIE Fighter, allowing for the addition of two more cannons.
+
+In [[1998]], players could fly the Interceptor in unlocked missions in the [[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']] [[Star Wars video games|video game]] if they earned all silver medals during the campaign.
+
+The post-production speed/maneuverability chart for ''Return of the Jedi'' lists the TIE Interceptor as being able to go up to 125 MGLTs and having a maneuverability rating of High.<ref name="ROTJS">''[[Return of the Jedi Sketchbook]]''</ref>
+
+Many of the models of the TIE Interceptor used in ''Return of the Jedi'' have four laser cannons on their wingtips; however, the main model used in the "''Return of the Jedi'' collection" section of the Blu-ray special edition only has two laser cannons total, on the top two wingtips. That may be due to the fragility of the model kit parts used to create the cannons, as publicity photos taken around the time of Return of the Jedi show the miniatures with four wingtip cannons.
+
+===Contradictions===
+Despite [[1989]]'s [[Starfighter Battle Book: X-wing vs TIE Interceptor]] listing the TIE/In's weaponry as four identical [[Senko Systems]] [[80-100 laser cannon|80-100 laser cannons]] with a fire control system which allowed only diagonally opposite guns to fire at the same time to facilitate rapid heat dissipation, in [[1994]] [[The Stele Chronicles]] booklet listed the craft's cannons as being [[Sienar Fleet Systems/Legends|SFS]] [[L-s9.3 laser cannon/Legends|L-s9.3 laser cannons]] with no particular restictions of fire.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of TIE/In interceptors}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*{{JournalCite|12|Festival of High Winds}}
+*''[[Star Tours: The Adventures Continue]]''
+*''[[Star Wars: Lethal Alliance]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*[[Droids (1986) 7|''Droids'' (1986) 7]]
+*[[Droids (1986) 8|''Droids'' (1986) 8]]
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*[[Star Wars (2013) 1|''Star Wars'' (2013) 1]]
+*[[Star Wars (2013) 3|''Star Wars'' (2013) 3]]
+*[[Star Wars (2013) 4|''Star Wars'' (2013) 4]]
+*[[Star Wars (2013) 5|''Star Wars'' (2013) 5]]
+*[[Star Wars (2013) 6|''Star Wars'' (2013) 6]]
+*[[Star Wars (2013) 7|''Star Wars'' (2013) 7]] {{Mo}}
+*[[Star Wars (2013) 10|''Star Wars'' (2013) 10]]
+*[[Star Wars (2013) 11|''Star Wars'' (2013) 11]]
+*''[[Tatooine Manhunt]]'' {{Reprint|Tatooine Manhunt}}
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[River of Chaos 1|''River of Chaos'' 1]]
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}} {{C|Cover picture only}}
+*[[Rebellion 3|''Rebellion'' 3]]
+*[[Rebellion 11|''Rebellion'' 11]]
+*''[[Introductory Adventure Game]]''
+*[[Black Ice (adventure)|''Black Ice'']]
+*"[[Operation: Shadowpoint]]"
+*''[[Onslaught at Arda I]]''
+*''[[Rescue at Glare Peak]]''
+*''[[Mission to Lianna]]''
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}}
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Star Wars: Imperial Ace]]''
+*{{FFG|story=Phantoms in the Dark|book=Strongholds of Resistance}}
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]]
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]]
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*{{Film|VI}} {{1st}}
+*''[[Hard Merchandise]]'' {{Mo}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*[[X-Wing: Rogue Leader 3|''X-Wing: Rogue Leader'' 3]]
+*[[X-Wing Rogue Squadron 2|''X-Wing Rogue Squadron'' 2]]
+*[[X-Wing Rogue Squadron 3|''X-Wing Rogue Squadron'' 3]]
+*[[X-Wing Rogue Squadron 5|''X-Wing Rogue Squadron'' 5]]
+*[[X-Wing Rogue Squadron 8|''X-Wing Rogue Squadron'' 8]]
+*{{GalaxyCite|3|Lumiya: Dark Star of the Empire}}
+*[[X-Wing Rogue Squadron 9|''X-Wing Rogue Squadron'' 9]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 10|''X-Wing Rogue Squadron'' 10]]
+*[[X-Wing Rogue Squadron 11|''X-Wing Rogue Squadron'' 11]]
+*[[X-Wing Rogue Squadron 12|''X-Wing Rogue Squadron'' 12]]
+*{{Tales|5|Lando's Commandos: On Eagles' Wings}}
+*{{JournalCite|8|Black Curs Blues}}
+*[[X-Wing Rogue Squadron 13|''X-Wing Rogue Squadron'' 13]] {{C|Appears in simulation and flashbacks}}
+*[[X-Wing Rogue Squadron 16|''X-Wing Rogue Squadron'' 16]]
+*[[X-Wing Rogue Squadron 20|''X-Wing Rogue Squadron'' 20]]
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 23|''X-Wing Rogue Squadron'' 23]] {{Flash}}
+*[[X-Wing Rogue Squadron 24|''X-Wing Rogue Squadron'' 24]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]] {{Mo}}
+*[[X-Wing Rogue Squadron 33|''X-Wing Rogue Squadron'' 33]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 34|''X-Wing Rogue Squadron'' 34]]
+*[[X-Wing Rogue Squadron 35|''X-Wing Rogue Squadron'' 35]]
+*''[[Luke Skywalker and the Shadows of Mindor]]''
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*''[[Dark Forces: Jedi Knight]]''
+*{{WEGCite|story=The Right Place ...|book=The Politics of Contraband|reprint=1}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*{{JournalCite|5|Vengeance Strike}} {{Po}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=The Saga Begins|book=The DarkStryder Campaign|reprint=yes}} {{Mo}}
+*{{DarkStryder|adventure=Galaxy's Edge|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*{{StoryCite|story=Crisis of Faith|book=Heir to the Empire: The 20th Anniversary Edition}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*''[[Tatooine Ghost]]''
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*{{JournalCite|6|Relic (article)|reprint=1}}
+*[[Dark Empire 1|''Dark Empire'' 1]] {{Wreck}}
+*[[Crimson Empire 1|''Crimson Empire'' 1]]
+*[[Crimson Empire 2|''Crimson Empire'' 2]]
+*[[Crimson Empire 3|''Crimson Empire'' 3]]
+*[[Crimson Empire 4|''Crimson Empire'' 4]]
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Crimson Empire 6|''Crimson Empire'' 6]]
+*[[Crimson Empire II: Council of Blood 1|''Crimson Empire II: Council of Blood'' 1]]
+*[[Crimson Empire II: Council of Blood 2|''Crimson Empire II: Council of Blood'' 2]]
+*[[Crimson Empire II: Council of Blood 3|''Crimson Empire II: Council of Blood'' 3]]
+*[[Crimson Empire II: Council of Blood 4|''Crimson Empire II: Council of Blood'' 4]]
+*[[Crimson Empire II: Council of Blood 5|''Crimson Empire II: Council of Blood'' 5]]
+*[[Crimson Empire II: Council of Blood 6|''Crimson Empire II: Council of Blood'' 6]]
+*''[[Champions of the Force]]''
+*{{Wizards|url=default.asp?x=starwars/article/sw20031120nightsaber|text=Nightsaber|int=Nightsaber}}
+*''[[X-Wing: Starfighters of Adumar]]''
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*{{Tales|19|Collapsing New Empires}}
+*''[[Before the Storm]]''
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*''[[Young Jedi Knights: Jedi Under Siege]]'' {{Mo}}
+*[[Invasion: Revelations 5|''Invasion: Revelations'' 5]]
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]'' {{Mo}}
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Revelation]]''
+*''[[Legacy of the Force: Invincible]]'' {{Mo}}
+*''[[X-Wing: Mercy Kill]]'' {{Ab|X-Wing: Mercy Kill (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2014-01-30 -->[[LEGO Star Wars: Microfighters (video game)|''LEGO Star Wars: Microfighters'' video game]]
+*<!-- 2014-02-19 -->{{Microfighters|Bantha Shakes}}
+*<!-- 2014-03-08 -->{{Microfighters|Rebel Rally Time}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of TIE/In interceptors}}
+[[File:Front_right_view_from_TIE_interceptor.jpg|thumb|Frontal right view from the cockpit of a TIE Interceptor in combat with an X-wing]]
+*<!-- 1983-XX-XX -->[[Star Wars: Return of the Jedi Coloring Book (Max Rebo)|''Star Wars: Return of the Jedi Coloring Book'' (Max Rebo)]] {{Po}}
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1984-XX-XX -->{{KennerCite|set=Star Wars: Return of the Jedi (toy line)|pack=TIE Interceptor|link=vintTIEinterceptor.asp}}
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|The Free-Trader's Guide to Sevarcos|reprint=1}}
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1995-01-XX -->''[[Goroth: Slave of the Empire]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Vader's Custom TIE}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Battle Over Coruscant: Part II|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC067.jpg}} {{Po}}
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=TIE Avenger}}
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=TIE Interceptor}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-11 -->''[[Star Wars: The Art of the Brothers Hildebrandt]]'' {{Po}}
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=A-wing}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Combat Response}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Fighter Cover}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Fighters Coming In}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Flagship Operations}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Saber 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Saber 2}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Saber 3}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Saber 4}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=TIE Interceptor}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2003-02-05 -->{{FactFile|58|TIE 5-6|TIE Interceptor}}
+*<!-- 2003-02-26 -->{{FactFile|61|TIE 7-8|TIE Interceptor}}
+*<!-- 2003-06-XX -->''[[Hero's Guide]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_interceptor.jsp|text=TIE Interceptor}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66877&resource=features|text=Ships: TIE Interceptor (all)}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-11-XX -->{{SWMiniCite|set=Starship Battles|pack=TIE Interceptor Ace}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-04-09 -->[[Star Wars: The Official Starships & Vehicles Collection 15|''Star Wars: The Official Starships & Vehicles Collection'' 15]]
+*<!-- 2010-05-04 -->{{Wizards|url=default.asp?x=starwars/article/Mesop10|text=Message to Spacers 10}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=TIE Interceptor}}
+*<!-- 2011-09-13 -->{{DB|starship|tieinterceptor|TIE interceptor}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Advanced Expansion Pack|cardname=Tempest Squadron Pilot|reprint=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Expose}} {{Po}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=A-Wing Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Arvel Crynyd}} {{Po}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Push the Limit|reprint=1}} {{Po}}
+}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=TIE Interceptor Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Alpha Squadron Pilot}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Avenger Squadron Pilot}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Daredevil}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname="Fel's Wrath"}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Saber Squadron Pilot|reprint=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Soontir Fel}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Turr Phennir}}
+}}
+*<!-- 2013-09-13 -->{{FFGXW|set=B-Wing Expansion Pack|cardname=Dagger Squadron Pilot|reprint=1}} {{Po}}
+*<!-- 2013-09-24 -->{{SW|url=news/the-starwars-com-10-best-starfighters|text=The StarWars.com 10: Best Starfighters}}
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Rapid Fire|link=balance-of-the-force/rapid-fire-balance-of-the-force-92-5}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=TIE Interceptor|link=balance-of-the-force/tie-interceptor-balance-of-the-force-d01-23}}
+}}
+<!-- 2014-03-17 -->{{CardGameSet|set={{FFGXW|set=Imperial Aces Expansion Pack}}|cards=
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Carnor Jax}}
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Kir Kanos}}
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Lieutenant Lorrir}}
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Royal Guard Pilot}}
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Royal Guard TIE}}
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Tetran Cowall}}
+}}
+*<!-- 2014-04-18 -->{{FFGTCG|set=Lure of the Dark Side|cardname=Victory or Death|link=echoes-of-the-force-cycle/lure-of-the-dark-side/victory-or-death-lure-of-the-dark-side-105-1}} {{Po}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]]
+*<!-- 2014-04-25 -->{{SWE|technology|awingfighter|A-wing fighter}}
+*<!-- 2014-04-25 -->{{SWE|technology|tie|TIE fighter}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+<!-- 2014-07-24 -->{{CardGameSet|set={{FFGTCG|set=It Binds All Things|parent=1}}|cards=
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Evasive Maneuvers|link=echoes-of-the-force-cycle/it-binds-all-things/evasive-maneuvers-r773}} {{Po}}
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Green Squadron Deployment|link=echoes-of-the-force-cycle/it-binds-all-things/green-squadron-deployment-r769}} {{Po}}
+}}
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=Superior Numbers|link=echoes-of-the-force-cycle/darkness-and-light/superior-numbers-r811}} {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+*<!-- 2015-02-23 -->''[[Fly Casual]]'' {{Po}}
+<!-- 2015-03-20 -->{{CardGameSet|set={{FFGTCG|set=Ready for Takeoff|parent=1}}|cards=
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=181st TIE Interceptor|link=rogue-squadron/ready-for-takeoff/181st-tie-interceptor-r1243}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=The Empire's Elite|link=rogue-squadron/ready-for-takeoff/the-empire’s-elite-r1241}} {{Po}}
+}}
+*<!-- 2015-03-20 -->{{SWIA|set=Royal Guard Champion Villain Pack|cardname=Infection|link=Infection}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Elite Pilot Training|link=rogue-squadron/draw-their-fire/elite-pilot-training-r1279}} {{Po}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Imperial Fighter Squadrons Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Imperial Fighter Squadrons Expansion Pack|cardname=Soontir Fel|subtitle=TIE Interceptor Squadron}}
+*<!-- 2015-05-14 -->{{Armada|set=Imperial Fighter Squadrons Expansion Pack|cardname=TIE Interceptor Squadron}}
+}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Galactic Empire Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Daredevil|reprint=1}} {{Po}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname="Deathfire"}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Saber Squadron Ace|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Soontir Fel|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Turr Phennir|reprint=1}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|bg=Tie Interceptor
+|cs=TIE Interceptor
+|de=TIE-Abfangjäger#legends
+|es=Interceptor TIE/IN/Leyendas
+|fr=Intercepteur TIE
+|hu=TIE/In elfogóvadász
+|nl=TIE/in Interceptor
+|no=TIE Nærjager
+|pl=Myśliwiec TIE/in/Legendy
+|pt=Interceptador TIE/IN
+}}
+
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Imperial Remnant]]
+[[Category:TIE series models|I-In]]
+
+{{RelatedCategories
+|[[Category:TIE/IN interceptors]]
+}}

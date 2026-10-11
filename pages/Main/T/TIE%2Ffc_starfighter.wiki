@@ -1,0 +1,93 @@
+{{Top|leg|canon=TIE/fc}}
+{{StarshipClass
+|image=[[File:Tiefc.jpg]]
+|name=TIE/fc starfighter
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="db">{{DB|starship|tiefcfighter|TIE/fc fighter}}</ref>
+|line=[[TIE series/Legends|TIE Series]]
+|model=Twin Ion Engine/fire control starfighter
+|type=[[Starfighter/Legends|Starfighter]]<ref name="db" />
+|cost=
+|modifier=
+|sysmods=
+|length=6.3 [[Meter/Legends|meters]]<ref name="db" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|kmh]]<ref name="AJ10">{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}</ref>
+|maneuverability=
+|engine=
+|hyperdrive=None
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=Several
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] (1)<ref name="db" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)
+|skeleton=
+|passengers=
+|capacity=65 [[Kilogram/Legends|kilograms]]<ref name="AJ10" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Reconnaissance
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="db" />
+}}
+The '''TIE/fc starfighter''' was an [[Galactic Empire/Legends|Imperial]] [[Starfighter/Legends|starfighter]].
+
+==Characteristics==
+The TIE/fc starfighter, which stood for "fire control", was a variant of the [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]]. It carried only one [[Laser cannon/Legends|laser cannon]], as several [[Sensor/Legends|sensors]] replaced the second laser cannon found on traditional [[TIE series/Legends|TIE]] fighters. The [[TIE/gt starfighter]] was designed to be dependent on the precise targeting information provided by the TIE/fc starfighter, though large structures could still be destroyed without the TIE/fc's assistance.
+
+The TIE/fc was primarily designed to scan an enemy base and transmit the information back to the [[Imperial Navy/Legends|fleet]]. The fleet ships would then be able to attack the base and evade the enemy's defenses. Because of its importance, the craft was designed to be very maneuverable.
+
+==Appearances==
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{Mo}}
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}} {{Mo}}
+
+==Sources==
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 2002-02-13 -->{{FactFile|7|TIE 1-2|TIE Fighter}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2011-09-13 -->{{DB|starship|tiefcfighter|TIE/fc fighter}}
+*<!-- 2011-09-13 -->{{DB|starship|tiegtfighter|TIE/gt fighter}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=TIE/vb-Jäger
+|es=Caza estelar TIE/fc
+|fr=Chasseur TIE/fc
+|fi=TIE/fc tähtihävittäjä
+|pl=TIE/fc
+}}
+
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:TIE series models|F-Fc]]

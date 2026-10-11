@@ -1,0 +1,91 @@
+{{Top}}
+{{Youmay|the T2-B repulsor tank|the [[T1-B hovertank]], the [[T3-B heavy attack tank]], or the [[T4-B heavy tank]]}}
+{{RepulsorliftVehicle
+|image=[[File:Eawt2b.jpg]]
+|name=T2-B Repulsor Tank
+|designer=
+|manufacturer=[[Yutrane-Trackata/Legends|Yutrane-Trackata]]<ref name="DB">{{DB|vehicle|t2brepulsortank|T2-B Repulsor Tank}}</ref>
+|line=
+|model=T2-B repulsor tank<ref name="EAWGG">[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]</ref>
+|type=[[Repulsorcraft/Legends|Repulsorcraft]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|cost=Not available for sale<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=9 meters<ref name="DB" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=80 km/h<ref name="RECG" />
+|max alt=
+|maneuverability=
+|engine=[[Repulsorlift/Legends|Repulsorlift]]
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Quad light [[Blaster cannon/Legends|blaster cannon]]<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=3<ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=200 kg<ref name="RECG" />
+|cargohandling=
+|consumables=1 week<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=Reconnaissance
+|firstuse=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="DB" />
+}}
+{{Quote|T2-B over.|A Rebel driver|<ref name="Star Wars: Empire at War">''[[Star Wars: Empire at War]]''</ref>}}
+The '''T2-B repulsor tank''' was a light [[Hovertank/Legends|attack tank]] used by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==Description==
+[[File:T2-B-RECG.jpg|thumb|left|180px|A T2-B repulsor tank battles a [[Squad/Legends|squad]] of [[Stormtrooper/Legends|stormtroopers]].]]
+
+The tank's [[Repulsorlift/Legends|repulsorlifts]] allowed it to travel over any form of terrain, even making the transition from water to land with relative ease. The T2-B carried a sophisticated [[Sensor/Legends|sensor]] system, making it a valuable scouting vehicle for air assaults and similar long-range attacks.
+
+But, being armed only with four rapid fire-linked [[Laser/Legends|lasers]], made the [[Hovertank/Legends|repulsor tank]] a weak attack vehicle when compared to the [[All Terrain Armored Transport/Legends|AT-AT]] [[Walker/Legends|walkers]] of the [[Imperial Army/Legends|Imperial Army]]. However, it did have [[Deflector shield/Legends|deflector shields]], which allowed some lasting power while under enemy fire. It countered infantry very well because its shield was strong enough to deflect the majority of small blaster fire, and its rapid fire cannons could make short work of the majority of infantry.
+
+==History==
+The tank, along with many of their vehicles and manufacturing systems, found their way into the hands of the Alliance after the board of directors of [[Yutrane-Trackata/Legends|Yutrane-Trackata]] granted sole use of their products to the [[Galactic Empire/Legends|Galactic Empire]], rebel leaders had exploited the company's reluctance to support the new order by bribing high ranking members to leave shipments of their vehicle vulnerable to being stolen in a well planned raid. The tanks also made their way into the hands of the [[Chubbit]]s when the Empire took control of the mining facilities on [[Aridus/Legends|Aridus]].<ref name="DB" /> The [[Alliance to Restore the Republic/Legends|Rebellion]] only had a limited number of these tanks, so large field formations were rarely used before the [[Battle of Endor/Legends|Battle of Endor]].<ref name="RECG" />
+
+==Appearances==
+*''[[Star Wars: Empire at War]]'' {{1st}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+
+==Sources==
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]] {{1stm}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|twomrepulsortank|2-M Repulsor Tank}}
+*<!-- 2011-09-13 -->{{DB|vehicle|t2brepulsortank|T2-B Repulsor Tank}}
+*<!-- 2011-09-13 -->{{DB|vehicle|t4bheavytank|T4-B Heavy Tank}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']] {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=T2-B Repulsorpanzer
+|es=Tanque repulsor T2-B
+|no=T-2B Repulsortank
+|pl=T2-B
+|uk=Репульсорний танк T2-B/Легенди
+}}
+
+[[Category:Hovertank models]]
+[[Category:Vehicle classes of the Alliance to Restore the Republic]]
+[[Category:Yutrane-Trackata products]]

@@ -1,0 +1,798 @@
+{
+    "mapImage": "ThrawnsCampaigns-TEA.jpg",
+    "pageCategories": [
+        "Interactive Maps of wars",
+        "Legends_articles",
+        "Articles_needing_citation",
+        "Articles_needing_illustration",
+        "Articles_in_need_of_updating"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            2101,
+            2846
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "2",
+            "listId": 1,
+            "name": "Asteroid",
+            "color": "#6f563a",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 2,
+            "name": "Asteroid field",
+            "color": "#ec88e5",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 3,
+            "name": "Astronomical object",
+            "color": "#39fa00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "13",
+            "listId": 4,
+            "name": "Fleet",
+            "color": "#5c7758",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Hyperspace route",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "12",
+            "listId": 6,
+            "name": "Imperial Remnant planet or shipyard",
+            "color": "#01c9fe",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "6",
+            "listId": 7,
+            "name": "Moon",
+            "color": "#2500f5",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "7",
+            "listId": 8,
+            "name": "Nebula",
+            "color": "#7d1ea9",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "11",
+            "listId": 9,
+            "name": "New Republic planet or shipyard",
+            "color": "#fa3c00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "14",
+            "listId": 10,
+            "name": "other",
+            "color": "#252022",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "1",
+            "listId": 11,
+            "name": "Neutral Planet",
+            "color": "#faf000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "8",
+            "listId": 12,
+            "name": "Space station",
+            "color": "#92969d",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "9",
+            "listId": 13,
+            "name": "Star system",
+            "color": "#fa9a09",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "10",
+            "listId": 14,
+            "name": "Teritory\/region",
+            "color": "#2b576a",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "11",
+            "position": [
+                837.2144289248723,
+                1648.973013727029
+            ],
+            "popup": {
+                "title": "Coruscant",
+                "description": "Capital of the New Republic. Grand Admiral Thrawn placed cloaked asteroids in its atmosphere, preventing ships from leaving out of fear of a collision. ",
+                "link": {
+                    "url": "Coruscant",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Katana_fleet?so=search"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1889.3893193304552,
+                1449.5689014324225
+            ],
+            "popup": {
+                "title": "Hutt Space",
+                "description": "",
+                "link": {
+                    "url": "Hutt Space",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Hutt_Space\/Legends?so=search"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1060.6601717798214,
+                411.5361466505707
+            ],
+            "popup": {
+                "title": "Sluis Van",
+                "description": "",
+                "link": {
+                    "url": "Sluis Van",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Sluis_Van\/Legends?so=search"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                879.6408357960652,
+                1657.4582951012676
+            ],
+            "popup": {
+                "title": "First Fleet (Home Fleet)",
+                "description": "",
+                "link": {
+                    "url": "New Republic First Fleet",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/New_Republic_First_Fleet"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2068.994441751838,
+                2107.178207935912
+            ],
+            "popup": {
+                "title": "Mon Calamari",
+                "description": "",
+                "link": {
+                    "url": "Dac",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Dac"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                668.2159082212873,
+                1877.3685040502835
+            ],
+            "popup": {
+                "title": "Bilbringi System",
+                "description": "",
+                "link": {
+                    "url": "Bilbringi system",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bilbringi_system"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                674.8671313818235,
+                1874.385397317153
+            ],
+            "popup": {
+                "title": "Bilbringi Asteroid Fields",
+                "description": "",
+                "link": {
+                    "url": "Bilbringi asteroid fields",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bilbringi_asteroid_fields"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                673.234375,
+                1876.4375
+            ],
+            "popup": {
+                "title": "Bilbringi V",
+                "description": "",
+                "link": {
+                    "url": "Bilbringi V",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bilbringi_V"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                672.59375,
+                1878.8125
+            ],
+            "popup": {
+                "title": "Bilbringi Shipyards",
+                "description": "",
+                "link": {
+                    "url": "Bilbringi Shipyards",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bilbringi_Shipyards"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                676.5023158133173,
+                1875.0925040983395
+            ],
+            "popup": {
+                "title": "Bilbringi VII",
+                "description": "",
+                "link": {
+                    "url": "Bilbringi VII",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bilbringi_VII"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                676.515625,
+                1875.09375
+            ],
+            "popup": {
+                "title": "Bilbringi Depot",
+                "description": "",
+                "link": {
+                    "url": "Bilbringi Depot",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bilbringi_Depot"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1219.9993978051007,
+                1987.9987133925695
+            ],
+            "popup": {
+                "title": "Wayland",
+                "description": "The main location of Thrawn's Mount Tantis Campaign",
+                "link": {
+                    "url": "Wayland",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Wayland?so=search"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1558,
+                2136
+            ],
+            "popup": {
+                "title": "Borderland Regions",
+                "description": "AKA the Trans-Hydian",
+                "link": {
+                    "url": "Trans-Hydian",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Trans-Hydian"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1318,
+                2033
+            ],
+            "popup": {
+                "title": "Mandalorian Space",
+                "description": "AKA the Mandalore Sector",
+                "link": {
+                    "url": "Mandalore sector",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Trans-Hydian"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1210.5,
+                1981
+            ],
+            "popup": {
+                "title": "Myrkr",
+                "description": "",
+                "link": {
+                    "url": "Myrkr",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Myrkr\/Legends?so=search"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1243.0937213259504,
+                1899.995921048253
+            ],
+            "popup": {
+                "title": "Obroa-skai",
+                "description": "",
+                "link": {
+                    "url": "Obroa-skai",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Obroa-skai\/Legends?so=search"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1496.2379489907344,
+                1675.8430714121175
+            ],
+            "popup": {
+                "title": "Kashyyk",
+                "description": "",
+                "link": {
+                    "url": "Kashyyk",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Kashyyyk\/Legends?so=search"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1096,
+                1572
+            ],
+            "popup": {
+                "title": "Kuat",
+                "description": "",
+                "link": {
+                    "url": "Kuat",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Kuat\/Legends"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1018,
+                1646
+            ],
+            "popup": {
+                "title": "Alderaan System",
+                "description": "",
+                "link": {
+                    "url": "Alderaan system",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Alderaan_system\/Legends?so=search"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1027.4261530640536,
+                1646.8516933834694
+            ],
+            "popup": {
+                "title": "The Graveyard Asteroid Field ",
+                "description": "The remains of Alderaan.",
+                "link": {
+                    "url": "The Graveyard",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/The_Graveyard"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                829.4362543318202,
+                1474.3176387739516
+            ],
+            "popup": {
+                "title": "Deep Core",
+                "description": "",
+                "link": {
+                    "url": "Deep Core",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Deep_Core\/Legends"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1997.8694296318301,
+                1621.6891713487103
+            ],
+            "popup": {
+                "title": "Honoghr",
+                "description": "The ruined home of the Noghri, who were essentially enslaved by the Empire to serve as Darth Vader and later Grand Admiral Thrawns' death commandos.",
+                "link": {
+                    "url": "Honoghr",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Honoghr\/Legends?so=search"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1333,
+                1730
+            ],
+            "popup": {
+                "title": "Hapes Consortium ",
+                "description": "",
+                "link": {
+                    "url": "Hapes Consortium ",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Hapes_Consortium\/Legends?so=search"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                699,
+                2305
+            ],
+            "popup": {
+                "title": "Yaga Minor",
+                "description": "",
+                "link": {
+                    "url": "Yaga Minor",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Yaga_Minor\/Legends?so=search"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                724.0773439350246,
+                2230.921894643557
+            ],
+            "popup": {
+                "title": "Entralla Route",
+                "description": "This route connect Ord Mantell and Muunilist",
+                "link": {
+                    "url": "Entralla Route",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Entralla_Route\/Legends"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                705.6925676241743,
+                2363.8579695066283
+            ],
+            "popup": {
+                "title": "Entralla ",
+                "description": "",
+                "link": {
+                    "url": "Entralla ",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Entralla\/Legends"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                801.8590898655449,
+                2127.6843045903215
+            ],
+            "popup": {
+                "title": "Orinda",
+                "description": "",
+                "link": {
+                    "url": "Orinda",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Orinda\/Legends"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                770.0392847121502,
+                2175.7675657110067
+            ],
+            "popup": {
+                "title": "Wistril",
+                "description": "",
+                "link": {
+                    "url": "Wistril",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Wistril"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1323.703894381217,
+                2350.422940664084
+            ],
+            "popup": {
+                "title": "Tangrene",
+                "description": "",
+                "link": {
+                    "url": "Tangrene",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Tangrene\/Legends?so=search"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1052,
+                1398
+            ],
+            "popup": {
+                "title": "Corellia",
+                "description": "",
+                "link": {
+                    "url": "Corellia",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Corellia\/Legends?so=search"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1812,
+                1373
+            ],
+            "popup": {
+                "title": "Nal Hutta",
+                "description": "",
+                "link": {
+                    "url": "Nal Hutta",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Nal_Hutta\/Legends?so=search"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1809.8449356879037,
+                1369.3803474956103
+            ],
+            "popup": {
+                "title": "Nar Shaddaa",
+                "description": "",
+                "link": {
+                    "url": "Nar Shaddaa",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Nar_Shaddaa\/Legends"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                919.9459223236983,
+                813.1727983645296
+            ],
+            "popup": {
+                "title": "Nkllon",
+                "description": "Lando Calrissian's mining latest scheme was interrupted when Thrawn attacked. The Imperial Remnant forces obtained nearly half of Calrissian's mole miners, which were used in the Battle for the Katana Fleet.",
+                "link": {
+                    "url": "Nkllon",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Nkllon\/Legends"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1067.0241328105,
+                359.21024484276614
+            ],
+            "popup": {
+                "title": "Dagobah",
+                "description": "",
+                "link": {
+                    "url": "Dagobah",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Dagobah\/Legends"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                367.5,
+                725.25
+            ],
+            "popup": {
+                "title": "Endor",
+                "description": "",
+                "link": {
+                    "url": "Endor (planet)",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Endor_(planet)\/Legends"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                387.5,
+                731.75
+            ],
+            "popup": {
+                "title": "Forest Moon of Endor",
+                "description": "",
+                "link": {
+                    "url": "Endor ",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Endor\/Legends"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                373.75,
+                741.75
+            ],
+            "popup": {
+                "title": "Death Star Ruins",
+                "description": "Debris field from the second Death Star.",
+                "link": {
+                    "url": "Death Star ruins",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Death_Star_ruins\/Legends"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                840.1101101248767,
+                2009.8563288369373
+            ],
+            "popup": {
+                "title": "Ord Mantell",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": "i checked their help page i don't think there's a stich feature"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                590.1557564982488,
+                775.891496106702
+            ],
+            "popup": {
+                "title": "The Katana Fleet (Dark Force)",
+                "description": "The Katana fleet was a fleet of 200 Dreadnaught-class heavy cruisers. The fleet was lost when a hive virus drove its crews insane and jumped blindly into hyperspace. The New Republic raced against for the lost fleet. However, Thrawn escaped with 178 of the ships before the they arrived.",
+                "link": {
+                    "url": "",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Katana_fleet"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1704.235711141555,
+                1058.8953939582425
+            ],
+            "popup": {
+                "title": "Bothawui",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Bothawui\/Legends"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                209.59865349009186,
+                2135.30963801846
+            ],
+            "popup": {
+                "title": "Empire of the Hand",
+                "description": "The Empire of the Hand was a political power located in Wild Space and had its  capital on Nirauan. Secretly founded by Grand Admiral Thrawn, the Empire of the Hand was established in order to protect the Unknown Regions from the many threats there. ",
+                "link": {
+                    "url": "",
+                    "label": "https:\/\/starwars.fandom.com\/wiki\/Empire_of_the_Hand"
+                }
+            },
+            "id": "43"
+        }
+    ],
+    "markerProgress": false
+}

@@ -1,0 +1,65 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=System Patroller
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|line=
+|model=
+|type=Modified [[IPV-1 System Patrol Craft]]<ref name="FBS" />
+|cost=
+|modifier=
+|sysmods=
+|length=120 [[Meter/Legends|meters]]<ref name="FBS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FBS" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FBS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="FBS" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=4 [[Turbolaser/Legends|turbolaser cannons]]<ref name="FBS" />
+|complement=
+|bays=
+|escapepods=
+|crew=12; 8 [[Gunner/Legends|gunners]]<ref name="FBS" />
+|skeleton=5<ref name="FBS" />
+|passengers=10 ([[Soldier/Legends|troops]])<ref name="FBS" />
+|capacity=200 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="FBS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=System patrol<ref name="FBS" />
+|firstuse=
+|retired=
+|affiliation=[[Lant Mining Corporation]]<ref name="FBS" />
+}}
+The '''System Patroller''' was the standard patrol craft used by the [[Lant Mining Corporation]]'s [[Security Patrol]]. The design of the vessel was a modified [[IPV-1 System Patrol Craft]] manufactured by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]].
+
+System Patrollers were found in any [[Star system/Legends|system]] where the Lant Mining Corporation had a significant [[Mining/Legends|mining]] operation, and were deployed for patrol duties, customs interdiction, and system defense.
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Patrol craft classes]]
+[[Category:Sienar Fleet Systems products]]

@@ -1,0 +1,79 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:TL-1200_Transport_LoNH.png]]
+|name=TL-1200 transport
+|designer=
+|manufacturer=[[Suwantek Systems]]<ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+|line=[[TL-series transport]]
+|model=TL-1200 Freighter<ref name="LoNH" />
+|type=[[Transport/Legends|Transport]]<ref name="LoNH" />
+|cost=170,000 [[Galactic Credit Standard/Legends|credits]]<ref name="LoNH" />
+|modifier=
+|sysmods=
+|length=52 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=military-grade
+|hyperdrive=*Class 2<ref name="LoNH" />
+*Backup: Class 12<ref name="LoNH" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Military-grade
+|hull=
+|sensor=Military-grade
+|target=
+|navigation=Equipped<ref name="LoNH" />
+|avionics=Lateral maneuvering jets
+|maincomp=
+|countermeasures=
+|armament=*Medium [[Laser cannon/Legends|laser cannons]] (2)<ref name="LoNH" />
+|complement=
+|bays=
+|escapepods=
+|crew=6<ref name="LoNH" />
+|skeleton=1
+|passengers=8 standard (Up to 100 in cargo hold)<ref name="LoNH" />
+|capacity=150 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=3 months<ref name="LoNH" />
+|lifesupport=
+|communications=
+|othersystems=*Hyperspace transceiver
+*2 escape pods
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Hutt/Legends|Hutts]]<ref name="LoNH" />
+*[[Suwanee Pirates]]<ref name="LoNH" />
+}}
+The '''TL-1200 transport''' was a [[Freighter/Legends|freighter]] manufactured by [[Suwantek Systems]].<ref name="LoNH" />
+
+==Characteristics==
+The TL-1200 was a reliable medium-sized freighter with decent cargo capacity. While the ship came equipped with a pair of [[Laser cannon/Legends|laser cannons]] mounted on ether side of the bow, many owners chose to add additional weaponry to deal with [[Pirate/Legends|pirates]] and other threats.<ref name="LoNH" />
+
+Though not exceptional, the TL-1200 was a solidly built and dependable vessel, and thus it was a relatively common sight throughout the [[Outer Rim Territories/Legends|Outer Rim Territories]]. In fact, some traders and [[smuggler]]s have been said to seek it out for this very reason, for it tended to go unnoticed where flashier vessels might attract the unwanted attentions of pirates, [[Thief|thieves]], creditors, or criminal syndicates.<ref name="LoNH" />
+
+==Appearances==
+*[[Scourge (novel)|''Scourge'']] {{1st}}
+*''[[Tempest Feud]]''
+
+==Sources==
+*<!-- 2010-05-04 -->{{Wizards|url=default.asp?x=starwars/article/Mesop10|text=Message to Spacers 10}} {{ID|TL-1200}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:TL-series transport classes]]
+
+{{RelatedCategories
+|[[Category:TL-1200 transports]]
+}}

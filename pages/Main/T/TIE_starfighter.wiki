@@ -1,0 +1,92 @@
+{{Top|leg}}
+{{Youmay|a prototype starfighter|[[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]], the most common [[Starfighter/Legends|starfighter]] of the [[Galactic Empire/Legends|Galactic Empire]]}}
+{{StarshipClass
+|image=
+|name=TIE starfighter
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]
+|line=[[TIE series/Legends|TIE Series]]
+|model=Twin Ion Engine starfighter
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=*75,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="TFUCG">''[[The Force Unleashed Campaign Guide]]''</ref>
+*45,000 credits (used)<ref name="TFUCG" />
+|modifier=
+|sysmods=
+|length=6.3 [[Meter/Legends|meters]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=4,100 G
+|mglt=100 MGLT<ref name="BtM" />
+|max speed=1,200 km/h<ref name="BtM" />
+|maneuverability=
+|engine=*SFS [[P-s4 twin ion engine]]s<ref name="FF">''[[The Official Star Wars Fact File]]''</ref> (rated 150 KTU)
+*SFS [[P-w401 ion maneuvering jet/Legends|P-w401 ion maneuvering jet]]s (2)<ref name="FF" />
+|hyperdrive=
+|hdrange=
+|hdsystem=2-jump memory navicomputer<ref name="TFUCG" />
+|poweroutput=
+|power=SFS [[I-a2b solar ionization reactor/Legends|I-a2b solar ionization reactor]]<ref name="FF" />
+|shield gen=None (upgrade only)
+|hull=[[Titanium/Legends|Titanium]] alloy hull (15 RU)
+|sensor=
+|target=
+|navigation=
+|avionics=SFS [[F-s3.2 flight avionics system|F-3.2 flight avionics system]]
+|maincomp=
+|countermeasures=
+|armament=*SFS [[L-s1 laser cannon/Legends|L-s1 laser cannons]] (2)<ref name="BtM" />
+*Concussion missile launchers (2)<ref name="TFUCG" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)
+|skeleton=
+|passengers=None
+|capacity=65 kilograms<ref name="BtM" />
+|cargohandling=
+|consumables=2 days
+|lifesupport=
+|communications=
+|othersystems=*[[AE-35 subspace transceiver]]
+*[[Ejector seat/Legends|Ejection seat]]
+|availability=
+|role=Multi-purpose space superiority fighter
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''TIE starfighter''' was the first upgraded model of the [[Twin Ion Engine starfighter|T.I.E. starfighter]] produced by the [[Galactic Empire/Legends|Galactic Empire]].<ref name="SWSB">''[[The Star Wars Sourcebook]]''</ref>
+
+==Characteristics==
+A modest upgrade of the [[Twin Ion Engine starfighter|T.I.E. starfighter]] used by the [[Galactic Republic/Legends|Galactic Republic]], the TIE starfighter had a centralized power generator running both the engine and the weapons, unlike the later [[TIE/ln space superiority starfighter/Legends|TIE Line starfighter]], which had separate generators.<ref name="SWSB" /> It was tougher than the final TIE/LN version, but also cost more. It featured weak shields, a small hyperdrive and two one-shot concussion missile launchers, which allowed it to serve as a light bomber, long-assault craft or [[Snubfighter/Legends|snubfighter]]. Unfortunately some of these systems were incompatible with the Twin Ion Engine and required a secondary power supply to operate. The TIE model was slower than the TIE/LN, and its [[Laser cannon/Legends|laser cannons]] were not as powerful.<ref name="SWAJ10">[[Star Wars Adventure Journal 10|''Star Wars Adventure Journal'' 10]]</ref>
+
+==History==
+The newly formed [[Galactic Empire/Legends|Galactic Empire]] required a cheap and efficient starfighter that could be mass-produced. [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] especially impressed [[Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]] with TIE starfighters, which cost only a fraction compared to other proposals. The Empire decided to reduce the cost even further by removing secondary energy generators and respective systems, leading to the enormously mass-produced [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]]. The original model still saw some use during the first years of the [[New Order/Legends|New Order]], but became less common later. By [[0 ABY/Legends|0 ABY]], the Line model had become the standard TIE fighter in the [[Imperial Navy/Legends|Imperial Navy]], and most of the original TIE starfighters were replaced or scrapped.<ref name="TFUCG" />
+
+==Behind the scenes==
+[[The Force Unleashed Campaign Guide]] features an entry for a previously unmentioned [[TIE series/Legends|TIE Series]] starfighter called TIE Prototype, which was said to be the predecessor of the standard [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]]. A closer inspection of the entry reveals that this starfighter's description is almost identical to that of the previously established TIE starfighter, and therefore it is simply another designation thereof.<ref name="TFUCG" />
+
+==Sources==
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{1stm}}
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1997-02-XX -->{{JournalCite|12|Imperial Garrisons}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|starship|tiefighter|TIE fighter}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=TIE-Sternenjäger
+|es=Caza estelar TIE
+}}
+
+[[Category:Sienar Fleet Systems products]]
+[[Category:TIE prototypes]]

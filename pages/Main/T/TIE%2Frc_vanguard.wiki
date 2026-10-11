@@ -1,0 +1,86 @@
+{{Top|leg}}
+{{Otheruses|Vanguard}}
+{{StarshipClass
+|image=[[File:TIEVanguard-CCG.png]]
+|name=TIE/rc vanguard
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]
+|line=[[TIE series/Legends|TIE Series]]
+|model=Twin Ion Engine Vanguard
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=
+|modifier=
+|sysmods=
+|length=6.3 [[Meter/Legends|meters]]<ref name="Databank">{{DB|starship|tiercvanguard|TIE/rc vanguard}}</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=None
+|hdrange=
+|hdsystem=None
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=[[Titanium/Legends|Titanium]] alloy hull (15 RU)
+|sensor=Additional [[Sensor/Legends|sensor]] and communications gear
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=SFS [[L-s1 laser cannon/Legends|L-s1 laser cannon]] (1)
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)
+|skeleton=
+|passengers=None
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Reconnaissance
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+**[[Imperial Navy/Legends|Imperial Navy]]
+}}
+The '''TIE/rc vanguard''' was a variant of the [[TIE/rc starfighter]] reconnaissance craft. Like the [[TIE series/Legends|TIE]]/rc, it was a short-range ship based on the common [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]] concept.
+
+==Characteristics==
+The physical differences between the TIE Vanguard and other TIE series [[Starfighter/Legends|starfighters]] were greater than those of the TIE/rc. Several large antennae connected to [[Sensor/Legends|sensor]] arrays and communications equipment protruded from the cockpit ball, and the upper section of each [[Quadanium steel/Legends|Quadanium alloy]] solar ionization panel was shortened and swept outwards to reduce interference with the dorsal scanners.
+
+As with the TIE/rc, weaponry consisted of a sole [[Laser cannon/Legends|laser cannon]] that was placed on the chin of the cockpit ball; however, unlike its predecessor, the Vanguard was protected by limited [[Deflector shield/Legends|shielding]], thus enabling it to better protect any intelligence and other data that it had gathered.
+
+==History==
+The Vanguard was designed to perform scouting and intelligence-gathering missions, and was often deployed by [[Galactic Empire/Legends|Imperial]] forces in order to obtain information on enemy [[Warship/Legends|warship]] or [[Fleet/Legends|fleet]] movements prior to a full fleet engagement. The type saw service with the [[Imperial Navy/Legends|Imperial Navy]] as early as the [[Battle of Yavin/Legends|Battle of Yavin]] in [[0 BBY/Legends|0 BBY]].
+
+==Sources==
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=TIE Vanguard}}
+*<!-- 1996-10-XX -->{{InsiderCite|31|Pick a Card, Any Card: Making Movie Magic at Decipher, Inc.}}
+*<!-- 2011-09-13 -->{{DB|starship|tiercvanguard|TIE/rc vanguard}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=TIE/ek-Vanguard
+|es=Vanguardia TIE
+|fr=TIE Vanguard
+|fi=TIE Vanguard
+}}
+
+[[Category:Scout starship classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:TIE series models|R-Rc Vanguard]]

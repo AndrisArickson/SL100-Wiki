@@ -1,0 +1,81 @@
+{{Top|leg}}
+{{Otheruses|TIE/Advanced starfighter}}
+{{Update|[[The Essential Guide to Warfare]]}}
+{{Merge|TIE/ad starfighter}}
+{{StarshipClass
+|image=
+|name=TIE/x2 starfighter
+|designer=[[TIE Mod Team]]
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]
+|line=
+|model=TIE/x2
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=[[Ion engine/Legends|Ion engines]]
+|hyperdrive=
+|hdrange=
+|hdsystem=Equipped
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=[[0 ABY/Legends|0 ABY]] (35:4 GrS)
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''TIE/x2 starfighter''' was a [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighter]] prototype created by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]].
+
+==Characteristics==
+It incorporated many of the design innovations from the [[TIE Advanced x1/Legends|TIE Advanced x1]], including higher performance [[Ion engine/Legends|ion engines]] than the [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]], a [[Hyperdrive/Legends|hyperdrive]], and improved combat software; it also possessed a hull that was a departure from the TIE series standard, and inward-swept solar/radiator panels configured for higher pilot visibility.
+
+==History==
+Thirty-two TIE/x2 starfighters went through field trials for nine months under some of the best active duty TIE wing commanders in the [[Imperial Navy/Legends|Imperial Navy]], where they were carefully monitored by teams of diagnostic [[Droid/Legends|droids]], maintenance techs, and engineers; their reports (along with glowing reports from the pilots themselves) gave the SFS TIE Mod Team a solid profile of the ships' perks and flaws. The ships were returned to [[Lianna/Legends|Lianna]] at the close of the trials.
+
+==Behind the scenes==
+This is likely the same ship type as, or a predecessor of, the TIE Advanced ships seen in the [[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']] game, despite [[Imperial Defense Daily]]'s report claiming that the ship was not to see active duty service. The TIE Avenger replaced this model in the X-Wing Collector's Series version of X-Wing. This isn't canonical because the TIE Avenger was developed after the Battle of Hoth. It is probably also the TIE Advanced model mentioned in ''[[The Far Orbit Project]]''.
+
+A string in ''[[Star Wars: Empire at War: Forces of Corruption]]'' has TEXT_UNIT_TIE_[[Tanbris/Legends|TANBRIS]] as the string's name, with TIE Advanced X-2 as the data in the string, however no unit uses this string, and there is no TEXT_TOOLTIP string to go with it as its description as there is for all other units. Probably the x2 was planned to be in the game, but was canceled early on, and its name string was left in.
+
+==Appearances==
+*{{JournalCite|5|Galaxywide NewsNets}}
+
+{{TIE}}
+
+{{Interlang
+|es=Caza estelar TIE/x2
+}}
+
+[[Category:Sienar Fleet Systems products]]
+[[Category:TIE prototypes]]
+[[Category:TIE series models]]

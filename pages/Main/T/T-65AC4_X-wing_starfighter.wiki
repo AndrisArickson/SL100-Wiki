@@ -1,0 +1,84 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=T-65AC4 X-wing starfighter
+|designer=
+|manufacturer=[[Incom Corporation/Legends|Incom Corporation]]<ref name="tjas">''[[The Jedi Academy Sourcebook]]''</ref>
+|line=[[T-65 X-wing starfighter/Legends|X-wing]]<ref name="tjas" />
+|model=T-65AC4<ref name="tjas" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="tjas" />
+|cost=*200,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="tjas" />
+*180,000 credits (used)<ref name="sotg01">''[[Starships of the Galaxy]]''</ref>
+|modifier=
+|sysmods=
+|length=12.5 [[Meter/Legends|meters]]<ref name="tjas" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,300 km/h<ref name="tjas" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 1<ref name="tjas" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Heavy [[Laser cannon/Legends|Laser cannons]] (4)<ref name="sotg01" />
+*[[Proton torpedo/Legends|Proton torpedo]] launchers (2)<ref name="sotg01" />
+**4 heavy proton torpedoes each<ref name="sotg01" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot (1)<ref name="tjas" />
+*[[Astromech droid/Legends|Astromech droid]] (1)<ref name="tjas" />
+|skeleton=
+|passengers=
+|capacity=150 kg<ref name="tjas" />
+|cargohandling=
+|consumables=2 days<ref name="sotg01" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''T-65AC4 X-wing starfighter''' was an updated version of the [[T-65 X-wing starfighter/Legends|T-65 X-wing starfighter]].
+
+==Characteristics==
+The T-65AC4 X-wing boasted many improvements over earlier models. It was much faster than the older T-65, with a sublight speed comparable to that of the [[RZ-1 A-wing interceptor/Legends|RZ-1 A-wing interceptor]]. It was also capable of withstanding and causing significant damage, much more so than previous designs.<ref name="tjas" /> It was equipped with heavy [[Laser cannon/Legends|laser cannons]] and more advanced [[Proton torpedo/Legends|proton torpedoes]] as well as an increased torpedo complement of eight compared to the six carried by older models.<ref name="sotg01" /> The T-65AC4 was also easier to fly thanks to a new cockpit layout and improved flight capabilities.<ref name="tjas" />
+
+==History==
+[[Incom Corporation/Legends|Incom Corporation]] designed the T-65AC4 in response to newer starfighters entering service, such as the [[E-7 E-wing multi-role starfighter|E-wing escort starfighter]] and the [[A-9 Vigilance interceptor]]. Rather than allow the X-wing to fall into obsolescence, Incom decided to look at existing X-wing designs in order to find ways to upgrade many of the craft's systems.<ref name="sotg01" /> With all of the changes made, the new design was said to have very little in common with the X-wings of the [[Battle of Yavin/Legends|Battle of Yavin]].<ref name="tjas" /> The new [[Starfighter/Legends|starfighter]] remained popular with some of the galaxy's best pilots even during the [[Yuuzhan Vong War]] and was still considered a dangerous craft.<ref name="sotg01" />
+
+==Sources==
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2011-09-13 -->{{DB|starship|xwing|X-wing starfighter}}
+
+==Notes and references==
+{{Reflist}}
+
+{{X-WingVariantsNav}}
+
+{{Interlang
+|de=T-65AC4 X-Flügel Sternenjäger#legends
+|es=Caza estelar T-65AC4 Ala-X
+}}
+
+[[Category:Starship classes of the New Republic]]
+[[Category:X-wing starfighter models]]

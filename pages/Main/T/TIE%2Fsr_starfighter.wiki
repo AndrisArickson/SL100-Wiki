@@ -1,0 +1,116 @@
+{{Top|leg|canon=TIE/sr}}
+{{Youmay|the 24-[[Meter/Legends|meters]]-long [[TIE series/Legends|TIE]] [[Starfighter/Legends|starfighter]] variant|the [[Scout ship (TIE model)|scout ship]], a [[Hyperdrive/Legends|hyperdrive]]-equipped craft similar in appearance to the [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]]}}
+{{StarshipClass
+|image=[[File:Eaw_tie-scout.jpg]]
+|name=TIE/sr starfighter
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="EAWGG">[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]</ref>
+|line=[[TIE series/Legends|TIE Series]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|model=TIE/sr starfighter<ref name="RECG" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="EAWGG" />
+|cost=*148,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="RECG" />
+*75,000 credits(used)<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=24 meters<ref name="TIE scout">{{DB|starship|tiescout|TIE scout}}</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 km/h<ref name="RECG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 3<ref name="RECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=None<ref name="RECG" />
+|hull=[[Titanium/Legends|Titanium]] alloy
+|sensor=Long-range [[Sensor/Legends|sensor]] systems
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]]<ref name="RECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=SFS [[Laser cannon/Legends|laser cannon]] (1)<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=1 to 3<ref name="RECG" />
+|skeleton=1<ref name="RECG" />
+|passengers=None<ref name="RECG" />
+|capacity=25 tons<ref name="RECG" />
+|cargohandling=
+|consumables=6 months<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="RECG" />
+|role=Long-range reconnaissance vessel
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="RECG" />
+*[[Empire of the Hand]]<ref name="RECG" />
+*[[Restored Empire]]<ref name="CE3">''[[Star Wars: Crimson Empire III: Empire Lost]]''</ref>
+}}
+{{Quote|There might have been some trouble with the pre-launch check list, the crews aren't used to dealing with the hyperdrives on these new TIE scouts.''"<br />"''If so, it's a deficiency they need to correct. Launch practice, Captain, beginning now. Please see to it personally.|[[Captain/Legends|Captain]] [[Dagon Niriz]] and [[Admiral/Legends|Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]]|<ref name="CommandDecision">{{JournalCite|11|Command Decision}}</ref>}}
+The '''TIE/sr starfighter''', or '''TIE scout''', was a limited production [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighter]] used by the [[Galactic Empire/Legends|Galactic Empire]] as a scout and light reconnaissance vessel. It was one of the many TIE variants in service during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==Characteristics==
+[[File:TIEscouthyperspace-TCGDL.jpg|thumb|left|200px|A TIE scout traveling through hyperspace]]
+At 24 meters long, the TIE/sr was one of the largest TIE variants, and it was distinctive in appearance, with a tall, elongated main fuselage behind the cockpit, flanked by large, bent-wing solar panels. Although slow and not very maneuverable by starfighter standards, neither heavily armored nor heavily armed, it boasted an impressive suite of [[com-scan]] equipment, and its enlarged hull could accommodate a crew of up to three, sometimes including a second [[Pilot/Legends|pilot]].
+
+The most notable feature of the TIE scout was that it carried the most capable [[Hyperdrive/Legends|hyperdrive]] of any TIE variant. In contrast to the [[TIE/rc starfighter]] and [[TIE/rc vanguard|TIE Vanguard]] fighters, which were capable of only sublight reconnaissance ahead of their [[Carrier/Legends|carrier]], the TIE scout could undertake extended [[Lightspeed/Legends|lightspeed]] missions without being at the mercy of a capital ship, like most other TIE models.
+
+It was also capable of making a [[Sensor/Legends|sensor]] [[Sensor ping|ping]] that could reveal unseen enemies.
+
+The TIE scout proved to be too expensive for mass production.
+
+===Civilian model===
+Unlike most other TIE designs, the TIE scout also had a civilian variant. The [[Lone Scout-A]], designed as an exploration vessel and armed with a single chin-mounted cannon. This variant could carry three passengers and supplies for up to a year, and boasted a cargo capacity comparing favorably with many [[Light freighter/Legends|light freighters]]: up to 60 cubic meters by volume, or 150 metric tons by weight. Since the Lone Scout-A had shields, the design was still used by the Imperial Navy, as the TIE scout was in need of supplementary designs.
+
+==History==
+[[File:CCG_Limited_Premier.jpg|thumb|right|A [[TIE series/Legends|TIE]] scout.]]
+Several TIE scouts were carried aboard [[Mitth'raw'nuruodo/Legends|Thrawn's]] [[Flagship/Legends|flagship]], ''[[Admonitor]]'', when he was posted to the [[Unknown Regions/Legends|Unknown Regions]]. They may have been design ancestors of the similarly-sized TIE-variant scout ships later used by the pilots of [[Syndic Mitth'raw'nuruodo's Household Phalanx]] based at the [[Hand of Thrawn]].
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], TIE scouts were mostly used in the [[Outer Rim Territories/Legends|Outer Rim Territories]] as a scout fighter to scan locations for reconnaissance, and to detect minefields or potential ambushes in advance to the arrival of other forces. The high cost of the vessel prevented the Empire from using it more extensively, which kept the available units consigned to the most needed areas.<ref name="EAWGG" />
+
+==Appearances==
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{WEGCite|story=Meltdown (adventure)|book=Instant Adventures}}
+*{{JournalCite|11|Command Decision|reprint=1}} {{1st}}
+*''[[Honor Among Thieves]]'' {{Ab|Honor Among Thieves (audiobook)}}
+*[[Crimson Empire III: Empire Lost 1|''Crimson Empire III: Empire Lost'' 1]]
+*[[Crimson Empire III: Empire Lost 3|''Crimson Empire III: Empire Lost'' 3]]
+
+==Sources==
+{{Mediacat|imagecat=Images of TIE/sr starfighters}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=TIE Scout}}
+*<!-- 1996-01-XX -->{{GalaxyCite|6|It Ain't Sabacc}}
+*<!-- 1996-10-XX -->{{InsiderCite|31|Pick a Card, Any Card: Making Movie Magic at Decipher, Inc.}}
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]'' {{ID|TIE scout}}
+*<!-- 2002-02-13 -->{{FactFile|7|TIE 1-2|TIE Fighter}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|starship|tiescout|TIE scout}}
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=TIE Scout|link=echoes-of-the-force-cycle/darkness-and-light/tie-scout-r813}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=TIE-Scout
+|es=Caza estelar TIE/sr
+|uk=Зоряний винищувач TIE/sr
+}}
+
+[[Category:Scout starship classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:TIE series models|s-sr]]

@@ -1,0 +1,88 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:TIE-M4_XWA.jpg]]
+|name=TIE Experimental M4
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]
+|line=[[TIE series/Legends|TIE Series]] Experimental
+|model=Twin Ion Engine Experimental M4 (T/e4)
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=
+|modifier=
+|sysmods=
+|length=8.7 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=144 [[Megalight|MGLT]]
+|max speed=
+|maneuverability=
+|engine=*[[Twin ion engine/Legends|Twin Ion Engines]]
+*1 booster engine
+|hyperdrive=
+|hdrange=
+|hdsystem=Equipped
+|poweroutput=
+|power=
+|shield gen=
+|hull=[[Titanium/Legends|Titanium]] alloy hull (38 [[RU/Legends|RU]])
+|sensor=
+|target=
+|navigation=None ([[Slave circuit|slaved]] to control ship)
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Suicide explosive payload
+|complement=
+|bays=
+|escapepods=
+|crew=Remote control system
+|skeleton=
+|passengers=None
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Long-range anti-[[Capital ship/Legends|capital ship]] missile
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+{{Quote|This "fighter" is nothing more than a big, fast, flying bomb. It carries an explosive payload to a target. End of story. And, most likely, end of target.|Description of a M4|<ref name="Star Wars: X-Wing Alliance: Prima's Official Strategy Guide">[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]</ref>}}
+The '''TIE Experimental M4''', also known as the '''TIE Bomb''', was a guided missile based on [[TIE series/Legends|TIE Series]] technology and a part of the [[TIE Experimental Project]].
+
+==Characteristics==
+A modified [[Starfighter/Legends|starfighter]] built by an [[Galactic Empire/Legends|Imperial]] research project led by [[Director/Legends|Director]] [[Lenzer]] under the command of [[Grand Admiral/Legends|Grand Admiral]] [[Demetrius Zaarin]], the M4 was designed as a cruise missile for destroying [[Capital ship/Legends|capital ships]] and [[Space station/Legends|space stations]]. With wing panels taken directly from the [[TIE/sa tactical bomber/Legends|TIE/sa bomber]] and a similar central pod and wing struts, the TIE M4 was loaded with enough explosives to detonate with five times the explosive force of a kamikaze [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]].
+
+With an oversized booster employed in addition to the standard [[Twin ion engine/Legends|Twin Ion Engines]], the TIE Experimental M4 had greater linear acceleration than a [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE/D Defender]] and as much maneuverability as a standard TIE Fighter. As a guided missile, the TIE M4 had no defensive weaponry. Like the other TIE Experimentals, the M4 was remotely controlled by a modified [[Beta-class ETR-3 escort transport|''Beta''-class ETR-3 escort transport]].
+
+==History==
+[[Alliance to Restore the Republic/Legends|Rebel]] forces only known encounter with the M4 occurred when the Empire executed a retaliatory strike against the cruiser [[Liberty/Legends|''Liberty'']]. ''Liberty's'' fighter squadrons were scrambled in defense, and they managed to save the ship from destruction.
+
+After the destruction of the hangar ship ''[[Sardis/Legends|Sardis]]'' and space platform [[Obsidian (XQ1 Platform)|''Obsidian'']], no TIE Experimental fighters were seen again.
+
+==Appearances==
+*''[[Star Wars: X-Wing Alliance]]'' {{1st}}
+
+==Sources==
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|M4}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=Experimenteller TIE-Jäger M4
+|es=TIE Experimental M4
+|fr=TIE Expérimental M4
+|pl=TIE/e4
+}}
+
+[[Category:TIE prototypes]]

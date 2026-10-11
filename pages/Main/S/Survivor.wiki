@@ -1,0 +1,64 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Survivor
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="HSCS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+|line=
+|model=
+|type=[[Lifeboat]]<ref name="HSCS" />
+|cost=*18,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="HSCS" />
+*5,600 credits (used)<ref name="HSCS" />
+|modifier=
+|sysmods=
+|length=10 [[Meter/Legends|meters]]<ref name="HSCS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="HSCS" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="HSCS" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="HSCS" />
+|skeleton=
+|passengers=14<ref name="HSCS" />
+|capacity=Emergency survival gear<ref name="HSCS" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="HSCS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Emergency survival<ref name="HSCS" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Survivor''' was a [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]&ndash;manufactured class of [[lifeboat]]. They had enough fuel for six [[Standard hour/Legends|hours]] of spaceflight, and a week's worth of consumables. Emergency gear included [[Tent/Legends|tents]], [[thermosuit]]s, portable [[Hand scanner/Legends|hand scanners]], [[substance analyzer]]s, and a [[Hunting rifle/Legends|hunting rifle]] for small game.<ref name="HSCS" />
+
+==Sources==
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Escape pod classes]]

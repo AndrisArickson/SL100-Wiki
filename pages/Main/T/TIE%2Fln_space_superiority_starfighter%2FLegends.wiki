@@ -1,0 +1,1101 @@
+{{Top}}
+{{Youmay|the basic [[TIE series/Legends|TIE]] [[Starfighter/Legends|Fighter]]|the [[LucasArts]] computer game [[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]}}
+{{MultipleIssues|citation|3=expand}}
+{{StarshipClass
+|image=[[File:TIEfighter2-Fathead.png]]
+|name=TIE/ln space superiority starfighter
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="IS">''[[Imperial Sourcebook]]''</ref><ref name="TEGtVaV">''[[The Essential Guide to Vehicles and Vessels]]''</ref><ref name="SotGSE">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=[[TIE series/Legends|TIE Series]]<ref name="TEGtVaV" /><ref name="SotGSE" /><ref name="SWSB">''[[The Star Wars Sourcebook]]''</ref>
+|model=Twin Ion Engine/Ln Starfighter<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+|type=[[Starfighter/Legends|Starfighter]]<ref name="SotGSE" /><ref name="RGRCR">''[[Star Wars Roleplaying Game Revised Core Rulebook]]''</ref>
+|cost=60,000 [[Galactic Credit Standard/Legends|credits]] {{C|25,000 credits used}}<ref name="SotGSE" /><ref name="RGRCR" />
+|modifier=
+|sysmods=
+|length=7.2 [[Meter/Legends|meters]]<ref name="IS" /><ref name="TNEGtVaV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref><ref name="RGRCR" /><ref name="SWSB" />
+|width=6.7 meters<ref name="IS" />
+|height=8.8 meters<ref name="IS" />
+|mass=
+|max accel=*4,100 G<ref name="TNEGtVaV" />
+*20 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=100 MGLT<ref name="SC">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref><ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="XWA" />
+|max speed=1,200 [[Kilometer per hour/Legends|km/h]]<ref name="TNEGtVaV" /><ref name="SotGSE" /><ref name="BtM" /><ref name="RGRCR" />
+|maneuverability=96<ref name="XWA" /> - 100 [[DPF/Legends|DPF]]<ref name="SC" />
+|engine=*[[P-s4 twin ion engine]]s<ref name="TEGtVaV" /><ref name="SC" /><ref name="FF">[[The Official Star Wars Fact File 7|''The Official Star Wars Fact File'' 7]]</ref> (rated 150 [[KTU]])<ref name="SC" />
+*[[P-w401 ion maneuvering jet/Legends|P-w401 ion maneuvering jet]]s (2)<ref name="TEGtVaV" /><ref name="FF" />
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="SotGSE" /><ref name="RGRCR" /><ref name="SWSB" />
+|poweroutput=
+|power=*[[I-a2b solar ionization reactor/Legends|I-a2b solar ionization reactor]]<ref name="CompleteCross">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*[[I-a3b solar ionization reactor]]<ref name="SC" />
+*Secondary generator for cannons<ref name="SWSB" />
+|shield gen=*Stock: None<ref name="SotGSE" /><ref name="RGRCR" /><ref name="SWSB" />
+*Equipped {{C|[[New Republic/Legends|New Republic]] usual modification}}<ref name="XW:SoA">''[[X-Wing: Starfighters of Adumar]]''</ref>
+|hull=*[[Titanium/Legends|Titanium]] [[Hull/Legends|hull]]<ref name="SC" /> {{C|rated 9<ref name="XWA" /> - 15 [[RU/Legends|RU]]<ref name="SC" />}}
+*[[Quadanium steel/Legends|Quadanium steel]] [[Solar collector/Legends|solar panels]]<ref name="SC" />
+|sensor=[[Fabritech/Legends|Fabritech]] Sensor Arrays (2)<ref name="TEGtVaV" /><ref name="TCSWE-Fabritech">{{CSWECite|I|251|Fabritech}}</ref>
+|target=
+|navigation=[[N-s6 Navcon/Legends|N-s6 Navcon]]<ref name="SC" />
+|avionics=[[F-s3.2 flight avionics system]]<ref name="SC" />
+|maincomp=
+|countermeasures=
+|armament=[[L-s1 laser cannon/Legends|L-s1 laser cannons]] (2)<ref name="TEGtVaV" /><ref name="BtM" /><ref name="SC" />
+|complement=
+|bays=
+|escapepods=[[Ejector seat/Legends|Ejector seat]]<ref name="lostinspace">{{CCG|set=Dagobah Limited|cardname=Lost In Space}}</ref>
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="SotGSE" /><ref name="RGRCR" /><ref name="SWSB" />
+|skeleton=
+|passengers=None<ref name="SotGSE" />
+|capacity=65<ref name="SotGSE" /><ref name="BtM" /><ref name="RGRCR" /> - 110 [[Kilogram/Legends|kilograms]]<ref name="SWSB" />
+|cargohandling=
+|consumables=1 - 2 days<ref name="SotGSE" /><ref name="RGRCR" /><ref name="SWSB" />
+|lifesupport=None<ref name="SotGSE" /><ref name="RGRCR" />
+|communications=*[[AE-35 subspace transceiver]]<ref name="lostrelay">{{CCG|set=Dagobah Limited|cardname=Lost Relay}}</ref>
+*Distress beacon<ref name="lostinspace" />
+|othersystems=
+|availability=Military<ref name="SotGSE" />
+|role=Space superiority starfighter<ref name="IS" /><ref name="SC" /><ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref>
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="TEGtVaV" />
+*[[Pirates of Tarnoonga]]<ref name="TPOT">{{DroidsCite|The Pirates of Tarnoonga}}</ref>
+*[[League of Tapani Freeworlds]]<ref name=LotE>''[[Lords of the Expanse]]''</ref>
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="SW:RAII">''[[Star Wars: Rebel Assault II: The Hidden Empire]]''</ref>
+*[[Zann Consortium/Legends|Zann Consortium]]
+*[[New Republic/Legends|New Republic]]<ref name="XW:SC">''[[X-Wing: Solo Command]]''</ref><ref name="XW:SoA" />
+*[[Zsinj's Empire]]<ref name="Wraith">''[[X-Wing: Wraith Squadron]]''</ref>
+*[[Dark Empire]]
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="SotP">''[[Specter of the Past]]''</ref>
+*[[Galactic Federation of Free Alliances]]
+*[[Peace Brigade]]
+*[[Confederation]]
+}}
+{{Quote|&hellip;Sienar System's ''[sic]'' basic TIE fighter&mdash;a commodity which, after hydrogen and stupidity, was the most plentiful in the galaxy&hellip;|Corran Horn|<ref name="I, Jedi">''[[I, Jedi]]''</ref>}}
+The '''TIE/ln space superiority starfighter''', commonly referred to as the '''TIE/LN starfighter''', '''TIE/line starfighter''', '''TIE Fighter''' or '''T/F''', was the signature [[Starfighter/Legends|starfighter]] of the [[Galactic Empire/Legends|Galactic Empire]] and symbol of its [[Realspace/Legends|superiority]]. It was seen in massive numbers throughout most of the [[Galactic Civil War/Legends|Galactic Civil War]] and onward. Occasionally, due to their distinct shape, Rebel and New Republic [[Pilot/Legends|pilots]] referred to the craft as "[[List of phrases and slang/Legends|eyeballs]]."<ref name="Eyeballs">{{CSWECite|I|246|Eyeballs}}</ref>
+
+==Characteristics==
+{{Quote|The aging, outdated craft employed by the Rebels are no match for the power of the TIE, and even the prototype T-65 X-wing created by the traitors who escaped from Incom is clearly outclassed.|Captain David West Reynolds|<ref name="TIE Fighter Pocket Manual">''[[TIE Fighter: A Pocket Manual]]''</ref>}}
+The TIE Fighter is the original design for later upgraded TIE models such as [[TIE/sa tactical bomber/Legends|TIE/sa bomber]], [[TIE/IN interceptor/Legends|TIE/IN interceptor]], [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE/D Defender]], [[TIE/D automated starfighter]], and many more. The TIE Fighter was a descendant of the [[Twin Ion Engine starfighter|T.I.E. starfighter]] and [[TIE starfighter]], and was manufactured by [[Raith Sienar/Legends|Sienar]] Fleet Systems. The namesake for the fighter and line was the Sienar Fleet Systems [[P-s4 twin ion engine]]s that acted as its engines. However, it also to some degree was named after an item of clothing due to its overall shape resembling a [[bow-tie]].<ref name="RS II guide">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+
+[[File:TIE_target_FF7.png|thumb|left|180px|A [[Alliance to Restore the Republic/Legends|Rebel]] [[T-65 X-wing starfighter/Legends|T-65 X-wing starfighter]] in the sights of a TIE Fighter's targeting computer]]
+The TIE/Ln's engine was one of the most precisely manufactured propulsion systems in [[The galaxy/Legends|the galaxy]] and, with no moving parts, was low-maintenance. Unlike the TIE before it, the TIE/Ln sported independent generators for the engine and the weapons. Power conduits were attached between the engine system and the solar arrays for good performance.<ref name="RS I guide" />
+
+The lack of combat [[Deflector shield/Legends|shields]], [[Hyperdrive/Legends|hyperdrive]], and [[Life support/Legends|life-support systems]], in concert with the advanced engine design, reduced the mass of the fighter and conferred exceptional maneuverability. This also made them both inexpensive and quick to replace.
+
+Primary armament was a pair of [[L-s1 laser cannon/Legends|L-S1 laser cannons]], coupled with a powerful sensor suite.<ref name="RS I guide" /> The cannons were relatively powerful, and a well-placed hit on a starfighter or medium-sized [[Transport/Legends|transport]] could damage or destroy it. It did not carry missile tubes, but such weapons could be added if necessary.
+
+Due to the lack of life-support systems, each [[TIE pilot]] had a fully sealed flight suit superior to their [[Alliance to Restore the Republic/Legends|Rebel]] counterparts. The absence of a hyperdrive also rendered the fighter totally dependent on [[Carrier/Legends|carrier]] ships when deployed in enemy systems. TIE/Ln, also lacked landing gear, another mass-reducing measure. While the ships were structurally capable of "sitting" on their wings, they were not designed to land or disembark their pilots without special support. On Imperial ships, TIEs were launched from racks in the hangar bays.
+
+TIEs were designed to attack in large numbers, overwhelming the enemy craft. Standard attack squadrons consisted of 12 fighters while full attack wings were made up of six squadrons.<ref name="Incredible Cross Sections">''[[Star Wars: Incredible Cross-Sections]]''</ref>
+
+Other Imperial pilots considered TIE Fighter pilots to be [[Death/Legends|suicidal]] due to how expendable the starfighters were.<ref name="RS I guide" />
+
+<div style="float:right">[[File:TIEf_xsect.jpg|thumb|left|180px|A TIE Fighter cross-section]]</div>
+Like [[Stormtrooper/Legends|stormtroopers]], TIE pilots had their own identification, such as [[Mithel/Legends|DS-61-2]] (the first two letters indicated the posting, the next two or three digits indicated the squadron number, and the last number indicated the pilot's ranking in the squadron). This procedure reduced them to being no more than anonymous and standardized operatives of the Imperial war machine. This attitude was further reflected by the lack of any sentimental attachment to particular TIEs by TIE pilots, unlike Rebel pilots who often grew attached to their craft. As far as they were concerned, every fighter, whether reconditioned or factory-fresh, was identical. They were considered as nothing more than tools, much in the same way the pilots were. 
+
+The TIE fighter also served the propaganda machine of the Empire well. The philosophy behind their design revolved primarily around the assumption that only pilots with extensive training would be put in their cockpits, with skill making up for the lack of sophisticated onboard weapons systems and even defense shields.<ref name="Rebellion Era Sourcebook">''[[Rebellion Era Sourcebook]]''</ref>
+
+A disadvantage of the fighter was its lack of deflector shields. In combat, pilots had to rely on the TIE/Ln's maneuverability to avoid damage. The cockpit did incorporate crash webbing, a repulsorlift anti-gravity field, and a high-G shock seat to help protect the pilot, however these did next to nothing to help protect against enemy blaster fire.<ref name="TNEGtVaV" /> However, despite this lack of protection, the fighter was at least able to survive glancing hits, such as when the quad laser cannons on the ''Millennium Falcon'' were able to hit a TIE fighter without actually destroying it.
+
+The TIE/Ln's eponymous twin ion engines were also notoriously easy to sabotage; all it took was moving an energizer out of alignment for a TIE's recharge systems to become time bombs.<ref name="TS">"[[Tatooine Sojourn]]"</ref>
+
+The side view of a TIE/Ln's radiator panels curiously resembles the emblem of the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]], but it is not clear if the similarity was intentional. The front/rear cross-section of the fighter was designed to be small to make it difficult to hit with blasters, but these side panels proved easy targets for flanking enemy pilots.<ref name="TNEGtVaV" /> They also hampered the fighter's ability to maneuver while in the atmosphere.
+
+==History==
+[[File:TIEvsX-wing-SWSB.jpg|thumb|left|200px|A T-65 X-wing being fired on by a TIE fighter]]
+{{Quote|For every TIE fighter you shoot down, a thousand more will take its place.|Baron Soontir Fel|<ref name="TNEGtVaV" />}}
+The basic TIE starfighter was designed at some point after 22 BBY and inspired a number of other Imperial starfighters manufactured by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]], which became collectively known as the TIE series. The TIE Line fighter was one of them, and replaced the original model as the standard fleet fighter in the Empire. While the original TIE had performance parity with heavier-built [[T-65 X-wing starfighter/Legends|X-wings]], the newer TIE/Ln boasted improved engines and more powerful weapons, surpassing contemporary Rebel fighters.
+
+TIEs would be used in massive numbers throughout the Galactic Civil War and would be regarded by many as a symbol of the Empire. Some TIEs fell into the hands of the Rebellion, who would sometimes use them to infiltrate Imperial facilities.
+
+It had been intended that the TIE/Ln would be replaced by the [[TIE/IN interceptor/Legends|TIE Interceptor]], as a direct result of the T65 X-wing starfighters owned by the [[Lightspeed Panthers]] outperforming them in the [[Fei Hu campaign]], resulting in 286 destroyed TIEs. Indeed, Interceptors began to see greater use around the time of the [[Battle of Endor/Legends|Battle of Endor]], but the collapse of the Imperial government into sectionalism precluded this. As the Galactic Empire retreated, more and more factories found themselves behind [[New Republic/Legends|New Republic]] lines and ceased production. The New Republic made limited use of captured TIEs, equipping them with shields and assigning them to [[Sector/Legends|sectors]] where they weren't considered a symbol of the [[Galactic Empire/Legends|Empire]]. Their most notable use in New Republic service was at the [[Battle of Adumar]]. Captured TIE fighters were also used for deceptive purposes, such as during the [[Mission to Prefsbelt IV]].
+
+By the time the peace treaty was signed, the Empire (now known as the [[Imperial Remnant/Legends|Imperial Remnant]]) began to use export starfighters manufactured by other races (such as the Sullustan [[SoroSuub Corporation/Legends|SoroSuub Corporation]] [[Preybird-class starfighter|''Preybird''-class starfighter]]) because they lacked the manufacturing facilities to build new TIE Fighters.
+
+==Behind the scenes==
+[[File:TIEmodels_btm.jpg|thumb|left|200px|TIE fighter models under construction for ''A New Hope'']]
+Originally meant to have a blue [[Hull/Legends|hull]], this was abandoned when blue-screen filming made the fighters transparent. The original TIE/Ln fighters seen in [[Star Wars: Episode IV A New Hope|''A New Hope'']] were relatively white; the TIEs of [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] and [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']] were grayer, with a bluish hue added during post-production.
+
+Although [[Star Wars Legends|Expanded Universe]] material and a speed chart used by the film crew of ''Return of the Jedi'' shows the speed of the TIE fighter to be equal to that of an X-wing, ''A New Hope'' shows them overtaking X-wings despite the latter going "full throttle".
+
+In the ''Rogue Squadron'' series of video games, a TIE fighter is used as the basis for the game's sound test to test the input of the stereo surround sound. It first flies toward the player and then flies around the screen.
+
+In the [[2001]] [[Star Wars video games|video game]] ''[[Star Wars: Galactic Battlegrounds]]'', TIE fighters serve as the Galactic Empire's fighter unit and may be built at [[Airbase/Legends|airbase]]s in single player or multiplayer. The [[2005]] video game ''[[Star Wars: Battlefront II]]'' depicts TIE Fighters as having a proton-torpedo launcher in addition to two laser cannons. However this was most likely a [[Canon#Canon and games|game mechanic]], used to balance teams and gameplay.
+
+The ''[[Star Wars: Rogue Squadron III: Rebel Strike]]'' game gave the following description concerning the TIE fighter:
+<blockquote>''The first in the series of advanced twin ion engine starfighters, the original TIE fighter was developed by Sienar Fleet Systems. The agile single-pilot craft has a titanium alloy hull, and quadanium steel armored [[Solar collector/Legends|solar panels]], but lacks a deflector shield and primary life-support systems. The TIE Fighter was intended to be used as a short-range attack craft, launching from nearby Imperial installations. TIE Fighters typically attack in swarms to overwhelm their opponents.''</blockquote>
+
+In 2012 eFX Collectibles released a limited edition of 657 studio-scale TIE Fighter models.
+
+==Appearances==
+{{ScrollBox|content=
+{{IncompleteList}}
+{{Mediacat|imagecat=Images of TIE/LN starfighters}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Jedi Starfighter]]'' {{Nc}}
+*{{Film|II}} {{Nc}}
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*{{Tales|15|First Impressions (comic story)}}
+*{{JournalCite|7|Mist Encounter|reprint=1}}
+*''[[The Last of the Jedi: Reckoning]]''
+*{{DoD|Jaws of the Sarlacc}}
+*{{DroidsCite|The Pirates of Tarnoonga}}
+*{{JournalCite|4|The Final Exit|reprint=1}}
+*''[[The Hutt Gambit]]''
+*{{Tales|2|Routine}}
+*{{JournalCite|2|Out of the Cradle|reprint=1}}
+*[[Boba Fett: Enemy of the Empire 1|''Boba Fett: Enemy of the Empire'' 1]]
+*{{TFU}}
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]] {{Flash}}
+*[[Han Solo at Stars' End (comic strip)|''Han Solo at Stars' End'' comic]]
+*''[[The Abduction]]'' {{Reprint|The Abduction}}
+*{{WEGCite|story=Infiltration (adventure)|book=Supernova (sourcebook)}}
+*{{WEGCite|story=The Beginning of the End|book=Supernova (sourcebook)}}
+*{{JournalCite|1|Stranded|reprint=1}}
+*{{JournalCite|1|The Spira Regatta|reprint=1}}
+*{{JournalCite|2|You're in the Army Now!|reprint=1}}
+*{{JournalCite|4|Loyalties}}
+*{{JournalCite|6|The Cure|reprint=1}}
+*{{JournalCite|7|Rebel Escape}}
+*{{JournalCite|9|Death-Hunter}}
+*{{JournalCite|11|The Ando Project}}
+*{{JournalCite|12|Festival of High Winds}}
+*{{WEGCite|story=Gone To Ground|book=No Disintegrations (West End Games)}}
+*''[[Rookies: Rendezvous]]''
+*''[[Rookies: No Turning Back]]''
+*{{GamerCite|5|Talnar's Rescue}}
+*''[[Star Tours: The Adventures Continue]]''
+*''[[Star Wars Adventures: Han Solo and the Hollow Moon of Khorya]]''
+*''[[Dark Forces: Soldier for the Empire]]''
+*[[Dark Forces: Soldier for the Empire (audio drama)|''Dark Forces: Soldier for the Empire'' audio drama]] {{Mo}}
+*''[[Star Wars: The Force Unleashed II]]''
+*[[Star Wars: The Force Unleashed II (graphic novel)|''Star Wars: The Force Unleashed II'' graphic novel]]
+*{{Tales|issue1=1|issue2=2|Extinction}}
+*[[Empire 1|''Empire'' 1]]
+*[[Empire 8|''Empire'' 8]]
+*[[Empire 9|''Empire'' 9]]
+*[[Empire 11|''Empire'' 11]] {{Flash}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*[[Empire 5|''Empire'' 5]]
+*''[[Star Wars: Dark Forces]]''
+*''[[Star Wars: Dark Forces Remaster]]''
+*{{StoryCite|story=Interlude at Darkknell|book=Tales from the New Republic}} {{Mo}}
+*{{StoryCite|story=Hammertong: The Tale of the "Tonnika Sisters"|book=Tales from the Mos Eisley Cantina}} {{Ab|Hammertong (audiobook)}}
+*[[Empire 13|''Empire'' 13]]
+*''[[Star Wars: Rebel Assault]]''
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars Journal: The Fight for Justice]]''
+*{{Film|IV}}
+*[[Star Wars: A New Hope (novelization)|''Star Wars: A New Hope'' novelization]] {{Ab|Star Wars: A New Hope (unabridged audiobook)}} {{1st|in book}}
+*[[Star Wars: Episode IV A New Hope (junior novelization)|''Star Wars'': Episode IV ''A New Hope'' junior novelization]]
+*''[[Star Wars: A Storybook]]''
+*''[[Super Star Wars]]''
+*[[X-Wing Rogue Squadron ½|''X-Wing Rogue Squadron'' ½]]
+*[[Empire 12|''Empire'' 12]]
+*[[Star Wars (1977) 3|''Star Wars'' (1977) 3]] {{Reprint|Star Wars (1977) 3}}
+*{{SWRadio|Rogues, Rebels and Robots}}
+*{{SWRadio|The Jedi Nexus}}
+*[[Droids (1986) 8|''Droids'' (1986) 8]]
+*[[Star Wars (1977) 5|''Star Wars'' (1977) 5]] {{Reprint|Star Wars (1977) 5}}
+*{{SWRadio|Force and Counterforce}}
+*[[Star Wars (1977) 6|''Star Wars'' (1977) 6]] {{Reprint|Star Wars (1977) 6}}
+*[[Empire 15|''Empire'' 15]]
+*{{SWArchive|url=play/online-games/trench-run|text=''Star Wars: Trench Run''|int=Star Wars: Trench Run}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*[[Empire 7|''Empire'' 7]]
+*''[[Star Wars Missions 1: Assault on Yavin Four]]''
+*''[[Star Wars Missions 3: Attack on Delrakkin]]''
+*''[[Star Wars Missions 4: Destroy the Liquidator]]''
+*''[[Star Wars Missions 17: Darth Vader's Return]]''
+*''[[Star Wars Missions 18: Rogue Squadron to the Rescue]]''
+*{{WEGCite|story=Tests of the Godking|book=Star Wars Campaign Pack|reprint=1}} {{Mo}}
+*{{WEGCite|story=Assault on Repair Station M13 (adventure)|book=Star Wars Campaign Pack|reprint=1}}
+*{{WEGCite|story=Lens Reekeene Is Missing|book=Star Wars Campaign Pack|reprint=1}}
+*{{JournalCite|3|Droid Trouble|reprint=1}}
+*{{JournalCite|4|A Deal Gone Sour}}
+*{{JournalCite|13|The Occupation of Rhamalai}}
+*{{JournalCite|6|To Fight Another Day|reprint=1}}
+*{{JournalCite|12|Small Favors}}
+*[[Star Wars (1977) 7|''Star Wars'' (1977) 7]] {{Reprint|Star Wars (1977) 7}}
+*[[Star Wars (1977) 11|''Star Wars'' (1977) 11]] {{Reprint|Star Wars (1977) 11}} {{Mo}}
+*[[Star Wars (1977) 12|''Star Wars'' (1977) 12]] {{Reprint|Star Wars (1977) 12}} {{Flash}}
+*''[[Rebel Force: Target]]''
+*''[[Rebel Force: Renegade]]'' {{Mo}}
+*''[[Rebel Force: Firefight]]''
+*{{WEGCite|story=Preparing for War|book=The Far Orbit Project}}
+*{{WEGCite|story=The Hijacking of Shipment 1037|book=The Far Orbit Project}}
+*{{WEGCite|story=The Capture of Coh Veshiv|book=The Far Orbit Project}}
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+*{{WEGCite|story=Raid on Brentaal|book=The Far Orbit Project}}
+*''[[Star Wars Missions 7: Ithorian Invasion]]''
+*[[Empire 16|''Empire'' 16]]
+*[[Empire 18|''Empire'' 18]]
+*''[[Scoundrel's Luck]]''
+*[[Star Wars (1977) 24|''Star Wars'' (1977) 24]] {{Reprint|Star Wars (1977) 24}}
+*[[Star Wars (1977) 17|''Star Wars'' (1977) 17]] {{Reprint|Star Wars (1977) 17}} {{Flash}}
+*[[Star Wars (1977) 21|''Star Wars'' (1977) 21]] {{Reprint|Star Wars (1977) 21}}
+*[[Star Wars (1977) 25|''Star Wars'' (1977) 25]] {{Reprint|Star Wars (1977) 25}}
+*[[Star Wars (1977) 26|''Star Wars'' (1977) 26]] {{Reprint|Star Wars (1977) 26}}
+*[[Star Wars (1977) 31|''Star Wars'' (1977) 31]] {{Reprint|Star Wars (1977) 31}} {{Mo}}
+*[[Star Wars (1977) 33|''Star Wars'' (1977) 33]] {{Reprint|Star Wars (1977) 33}}
+*[[Star Wars (1977) 34|''Star Wars'' (1977) 34]] {{Reprint|Star Wars (1977) 34}}
+*[[Vader's Quest 3|''Vader's Quest'' 3]]
+*[[Vader's Quest 4|''Vader's Quest'' 4]]
+*[[Star Wars (2013) 1|''Star Wars'' (2013) 1]]
+*[[Star Wars (1977) 35|''Star Wars'' (1977) 35]] {{Reprint|Star Wars (1977) 35}}
+*[[Star Wars Annual (1977) 1|''Star Wars Annual'' (1977) 1]] {{Reprint|Star Wars Annual (1977) 1}}
+*[[Star Wars (1977) 37|''Star Wars'' (1977) 37]] {{Reprint|Star Wars (1977) 37}}
+*"[[Tatooine Sojourn]]" {{Reprint|Tatooine Sojourn}}
+*''[[Rebel Force: Trapped]]''
+*''[[Star Wars Missions 9: Revolt of the Battle Droids]]''
+*''[[Jedi's Honor]]''
+*''[[Star Wars Missions 11: Bounty Hunters vs. Battle Droids]]'' {{Mo}}
+*{{Kids1997Cite|issue1=6|issue2=10|story=X-Wing Marks the Spot}}
+*{{StoryCite|story=The Kingdom of Ice!|book=Pizzazz 10}}
+*{{StoryCite|story=The Snow Demons!|book=Pizzazz 11}}
+*{{StoryCite|story=Treachery!|book=Pizzazz 12}} {{Mo}}
+*{{StoryCite|story=Death Trap!|book=Pizzazz 13}} {{Mo}}
+*{{StoryCite|story=Pursuit!|book=Star Wars Weekly 60|reprint=1}}
+*{{StoryCite|story=World of Fire!|book=Star Wars Weekly 107|reprint=1}}
+*"[[The Bounty Hunter of Ord Mantell]]" {{Reprint|The Bounty Hunter of Ord Mantell}}
+*"[[Darth Vader Strikes]]" {{Reprint|Darth Vader Strikes}}
+*"[[The Serpent Masters]]" {{Reprint|The Serpent Masters}}
+*"[[Traitor's Gambit]]" {{Reprint|Traitor's Gambit}}
+*"[[The Night Beast]]" {{Reprint|The Night Beast}}
+*"[[Iceworld]]" {{Reprint|Iceworld}}
+*"[[It's a Trap]]" {{Reprint|It's a Trap}}
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*{{Kids1997Cite|issue1=11|issue2=15|story=Imperial Spy}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*{{Kids1997Cite|issue1=16|issue2=20|story=Death Star Pirates}}
+*"[[Showdown (LA Times)|Showdown]]" {{Reprint|Showdown (LA Times)}}
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Empire 23|''Empire'' 23]]
+*[[Empire 25|''Empire'' 25]]
+*''[[Galaxy of Fear: Eaten Alive]]'' {{Hologram}}
+*{{JournalCite|10|Only Droids Serve the Maker|reprint=1}} {{Mo}}
+*{{JournalCite|5|A Bitter Winter|reprint=1}} {{Mo}}
+*''[[Galaxy of Fear: Ghost of the Jedi]]''
+*{{JournalCite|5|Galaxywide NewsNets}}
+*[[Empire 26|''Empire'' 26]]
+*[[Empire 27|''Empire'' 27]]
+*[[Empire 28|''Empire'' 28]]
+*''[[Galaxy of Fear: Army of Terror]]''
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}}
+*[[Otherspace (adventure)|''Otherspace'']]
+*[[Empire 30|''Empire'' 30]]
+*[[Empire 31|''Empire'' 31]]
+*[[Empire 32|''Empire'' 32]]
+*[[Empire 33|''Empire'' 33]]
+*[[Empire 34|''Empire'' 34]]
+*[[Empire 35|''Empire'' 35]]
+*[[Empire 36|''Empire'' 36]]
+*[[Empire 37|''Empire'' 37]]
+*[[Empire 40|''Empire'' 40]]
+*''[[Choices of One]]'' {{Mo}}
+*''[[Galaxy of Fear: The Swarm]]'' {{Mo}}
+*[[Rebellion 0|''Rebellion'' 0]]
+*[[Rebellion 1|''Rebellion'' 1]]
+*[[Rebellion 2|''Rebellion'' 2]]
+*[[Rebellion 4|''Rebellion'' 4]]
+*[[Rebellion 5|''Rebellion'' 5]]
+*[[Rebellion 7|''Rebellion'' 7]]
+*[[Rebellion 11|''Rebellion'' 11]]
+*[[Rebellion 12|''Rebellion'' 12]]
+*[[Rebellion 14|''Rebellion'' 14]]
+*[[Rebellion 15|''Rebellion'' 15]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*''[[Introductory Adventure Game]]''
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+*''[[Boba Fett: Overkill]]''
+*''[[Galaxy of Fear: Spore]]''
+*''[[Galaxy of Fear: The Doomsday Ship]]''
+*[[Black Ice (adventure)|''Black Ice'']]
+*''[[The Isis Coordinates]]''
+*{{WEGCite|story=Courier's Deal|book=Creatures of the Galaxy}}
+*"[[The Constancia Affair]]" {{Reprint|The Constancia Affair}}
+*{{FFG|story=Escape from Mos Shuuta|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}
+*{{FFG|story=The Long Arm of the Hutt|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}
+*''[[Under a Black Sun]]'' {{Mo}}
+*{{FFG|story=Trouble Brewing|book=Star Wars: Edge of the Empire Core Rulebook|text=''Star Wars: Edge of the Empire'' Core Rulebook}}
+*{{FFG|story=Debts to Pay|book=Star Wars: Edge of the Empire Game Master's Kit|text=''Star Wars'': Edge of the Empire Game Master's Kit}} {{Co}}
+*''[[Beyond the Rim]]''
+*{{FFG|story=Perlemian Haul (adventure)|book=Star Wars: Age of Rebellion Core Rulebook|text=''Star Wars: Age of Rebellion'' Core Rulebook}}
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}}
+*''[[Onslaught at Arda I]]''
+*''[[Rescue at Glare Peak]]''
+*''[[Friends Like These]]''
+*"[[Princess Leia, Imperial Servant]]" {{Reprint|Princess Leia, Imperial Servant}}
+*"[[Bring Me the Children]]" {{Reprint|Bring Me the Children}}
+*"[[As Long As We Live...]]" {{Reprint|As Long As We Live...}}
+*"[[The Frozen World of Ota]]" {{Reprint|The Frozen World of Ota}}
+*[[Star Wars (1977) 38|''Star Wars'' (1977) 38]] {{Reprint|Star Wars (1977) 38}}
+*{{StoryCite|story=Dark Knight's Devilry|book=The Empire Strikes Back Monthly 153|reprint=1}} {{Flash}}
+*''[[Star Wars Missions 16: Imperial Jailbreak]]''
+*''[[Han Solo's Rescue Mission]]''
+*{{WEGCite|story=Shine On, Harvest Moon|book=Star Wars: The Roleplaying Game (first edition)}}
+*[[Scavenger Hunt (adventure)|''Scavenger Hunt'']]
+*{{WEGCite|story=Changing the Balance|book=Star Wars Gamemaster Kit|reprint=1}}
+*{{WEGCite|story=Return to Bundim|book=Star Wars Gamemaster Kit|reprint=1}}
+*{{WEGCite|story=Breakthrough in Bissillirus|book=Star Wars Gamemaster Kit|reprint=1}}
+*{{WEGCite|story=Showdown (The Bissillirus Campaign)|book=Star Wars Gamemaster Kit|reprint=1}}
+*''[[Domain of Evil]]'' {{Reprint|Domain of Evil}} {{C|Appears as a Force illusion}}
+*''[[Planet of the Mists]]''
+*''[[Mission to Lianna]]''
+*{{WEGCite|story=Meltdown (adventure)|book=Instant Adventures}}
+*{{WEGCite|story=New Recruits and Rebel Guns|book=Instant Adventures}}
+*{{WEGCite|story=The Treasure of Celis Mott|book=Instant Adventures}} {{Mo}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[The Star Wars Holiday Special]]''
+*{{WEGCite|story=Against the Pirate Armada|book=The Star Wars Sourcebook|reprint=1}}
+*{{Tales|21|Walking the Path That's Given}}
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*{{WEGCite|story=Better Than Nothing|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*''[[Imperial Double-Cross]]'' {{Mo}}
+*{{GalaxiesAED}}
+*{{JournalCite|9|Galaxywide NewsNets}}
+*''[[The Game Chambers of Questal]]'' {{Reprint|The Game Chambers of Questal}}
+*{{JournalCite|9|Combat Moon (short story)|reprint=1}} {{Mo}}
+*{{JournalCite|10|Do No Harm|reprint=1}}
+*{{JournalCite|11|Command Decision|reprint=1}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*{{JournalCite|13|Galaxywide NewsNets}}
+*''[[Battle for the Golden Sun]]''
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}}
+*''[[The Empire Strikes Back: A Storybook]]''
+*''[[Super Star Wars: The Empire Strikes Back]]''
+*{{ESBRadio|Freedom's Winter}}
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 41|''Star Wars'' (1977) 41]] {{Reprint|Star Wars (1977) 41}}
+*{{ESBRadio|The Millennium Falcon Pursuit}}
+*{{Tales|4|Moment of Doubt}} {{Flash}}
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*{{ESBRadio|The Clash of Lightsabers}}
+*[[Star Wars (1977) 50|''Star Wars'' (1977) 50]] {{Reprint|Star Wars (1977) 50}}
+*[[Star Wars (1977) 52|''Star Wars'' (1977) 52]] {{Reprint|Star Wars (1977) 52}}
+*[[Star Wars (1977) 86|''Star Wars'' (1977) 86]] {{Reprint|Star Wars (1977) 86}}
+*''[[Star Wars: Imperial Ace]]''
+*[[Star Wars (1977) 53|''Star Wars'' (1977) 53]] {{Reprint|Star Wars (1977) 53}} {{Mo}}
+*[[Star Wars (1977) 54|''Star Wars'' (1977) 54]] {{Reprint|Star Wars (1977) 54}}
+*[[Star Wars (1977) 64|''Star Wars'' (1977) 64]] {{Reprint|Star Wars (1977) 64}}
+*[[Star Wars (1977) 58|''Star Wars'' (1977) 58]] {{Reprint|Star Wars (1977) 58}}
+*[[Star Wars (1977) 59|''Star Wars'' (1977) 59]] {{Reprint|Star Wars (1977) 59}}
+*[[Star Wars (1977) 60|''Star Wars'' (1977) 60]] {{Reprint|Star Wars (1977) 60}}
+*[[Star Wars (1977) 61|''Star Wars'' (1977) 61]] {{Reprint|Star Wars (1977) 61}}
+*[[Star Wars (1977) 62|''Star Wars'' (1977) 62]] {{Reprint|Star Wars (1977) 62}} {{Flash}}
+*[[Star Wars (1977) 63|''Star Wars'' (1977) 63]] {{Reprint|Star Wars (1977) 63}} {{Flash}}
+*[[Star Wars (1977) 65|''Star Wars'' (1977) 65]] {{Reprint|Star Wars (1977) 65}}
+*[[Star Wars (1977) 66|''Star Wars'' (1977) 66]] {{Reprint|Star Wars (1977) 66}}
+*{{FFG|story=Phantoms in the Dark|book=Strongholds of Resistance}}
+*{{WEGCite|story=The Bacta Heist|book=Tapani Sector Instant Adventures}}
+*''[[Star Wars Adventures: The Will of Darth Vader]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*{{JournalCite|9|Slaying Dragons|reprint=1}}
+*{{JournalCite|8|Firepower|reprint=1}}
+*{{Ewoks|Battle for the Sunstar}}
+*''[[Star Wars: Demolition]]''
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]]
+*[[Star Wars: Shadows of the Empire (junior novelization)|''Star Wars: Shadows of the Empire'' junior novelization]]
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Star Wars: Shadows of the Empire Ertl minicomic|''Star Wars: Shadows of the Empire'' Ertl minicomic]]
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]]
+*{{WEGCite|story=Will the Last Person Leaving Vergesso Turn Off the Lights?|book=Shadows of the Empire Planets Guide}}
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*[[Star Wars (1977) 74|''Star Wars'' (1977) 74]] {{Reprint|Star Wars (1977) 74}}
+*[[Star Wars (1977) 75|''Star Wars'' (1977) 75]] {{Reprint|Star Wars (1977) 75}}
+*[[Star Wars (1977) 76|''Star Wars'' (1977) 76]] {{Reprint|Star Wars (1977) 76}}
+*[[Star Wars (1977) 78|''Star Wars'' (1977) 78]] {{Reprint|Star Wars (1977) 78}} {{Flash}}
+*[[Star Wars (1977) 80|''Star Wars'' (1977) 80]] {{Reprint|Star Wars (1977) 80}}
+*{{JournalCite|2|A World to Conquer}} {{Mo}}
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*[[Return of the Jedi 1|''Return of the Jedi'' 1]] {{Reprint|Return of the Jedi 1}}
+*''[[Star Wars Journal: Hero for Hire]]'' {{Mo}}
+*[[Return of the Jedi 2|''Return of the Jedi'' 2]] {{Reprint|Return of the Jedi 2}}
+*[[Mara Jade – By the Emperor's Hand 2|''Mara Jade – By the Emperor's Hand'' 2]] {{Hologram}}
+*''[[The Mandalorian Armor]]'' {{Mo}}
+*''[[Hard Merchandise]]'' {{Mo}}
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*{{StoryCite|story=One Last Night in the Mos Eisley Cantina: The Tale of the Wolfman and the Lamproid|book=Tales from the Mos Eisley Cantina}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*{{RJRadio|Blood of a Jedi}}
+*''[[The Truce at Bakura]]''
+*{{Tales|12|A Day in the Life}}
+*[[Star Wars (1977) 84|''Star Wars'' (1977) 84]] {{Reprint|Star Wars (1977) 84}}
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]] {{Wreck}}
+*[[X-Wing: Rogue Leader 2|''X-Wing: Rogue Leader'' 2]]
+*[[X-Wing: Rogue Leader 3|''X-Wing: Rogue Leader'' 3]]
+*[[Star Wars (1977) 92|''Star Wars'' (1977) 92]] {{Reprint|Star Wars (1977) 92}}
+*{{Tales|23|Lucky (comic story)}} {{Flash}}
+*''[[X-Wing Rogue Squadron Special]]''
+*[[X-Wing Rogue Squadron 1|''X-Wing Rogue Squadron'' 1]]
+*[[X-Wing Rogue Squadron 2|''X-Wing Rogue Squadron'' 2]]
+*[[X-Wing Rogue Squadron 3|''X-Wing Rogue Squadron'' 3]]
+*[[X-Wing Rogue Squadron 4|''X-Wing Rogue Squadron'' 4]]
+*[[X-Wing Rogue Squadron 5|''X-Wing Rogue Squadron'' 5]]
+*[[X-Wing Rogue Squadron 7|''X-Wing Rogue Squadron'' 7]]
+*[[X-Wing Rogue Squadron 8|''X-Wing Rogue Squadron'' 8]]
+*{{StoryCite|story=Gathering Shadows|book=Tales from the New Republic}}
+*[[X-Wing Rogue Squadron 9|''X-Wing Rogue Squadron'' 9]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 10|''X-Wing Rogue Squadron'' 10]]
+*[[X-Wing Rogue Squadron 11|''X-Wing Rogue Squadron'' 11]]
+*[[X-Wing Rogue Squadron 12|''X-Wing Rogue Squadron'' 12]]
+*[[Star Tours (real-world)|''Star Tours'']]
+*{{JournalCite|8|Black Curs Blues}}
+*[[X-Wing Rogue Squadron 13|''X-Wing Rogue Squadron'' 13]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 14|''X-Wing Rogue Squadron'' 14]]
+*[[X-Wing Rogue Squadron 15|''X-Wing Rogue Squadron'' 15]]
+*[[X-Wing Rogue Squadron 16|''X-Wing Rogue Squadron'' 16]]
+*{{JournalCite|5|One of a Kind (short story)|reprint=1}}
+*{{JournalCite|9|Easy Credits}} {{Mo}}
+*[[X-Wing Rogue Squadron 17|''X-Wing Rogue Squadron'' 17]]
+*[[X-Wing Rogue Squadron 18|''X-Wing Rogue Squadron'' 18]]
+*[[X-Wing Rogue Squadron 19|''X-Wing Rogue Squadron'' 19]]
+*[[X-Wing Rogue Squadron 20|''X-Wing Rogue Squadron'' 20]]
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 23|''X-Wing Rogue Squadron'' 23]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*[[X-Wing Rogue Squadron 26|''X-Wing Rogue Squadron'' 26]] {{Flash}}
+*[[X-Wing Rogue Squadron 29|''X-Wing Rogue Squadron'' 29]]
+*[[X-Wing Rogue Squadron 31|''X-Wing Rogue Squadron'' 31]]
+*[[X-Wing Rogue Squadron 32|''X-Wing Rogue Squadron'' 32]] {{Co}}
+*[[X-Wing Rogue Squadron 33|''X-Wing Rogue Squadron'' 33]]
+*[[X-Wing Rogue Squadron 34|''X-Wing Rogue Squadron'' 34]]
+*[[X-Wing Rogue Squadron 35|''X-Wing Rogue Squadron'' 35]]
+*''[[Mission from Mount Yoda]]'' {{Mo}}
+*''[[Luke Skywalker and the Shadows of Mindor]]''
+*''[[Dark Forces: Rebel Agent]]''
+*[[Dark Forces: Rebel Agent (audio drama)|''Dark Forces: Rebel Agent'' audio drama]]
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*''[[Dark Forces: Jedi Knight]]''
+*[[Dark Forces: Jedi Knight (audio drama)|''Dark Forces: Jedi Knight'' audio drama]]
+*{{WEGCite|story=The Right Place ...|book=The Politics of Contraband|reprint=1}}
+*{{WEGCite|story=Den of Spies|book=Twin Stars of Kira (sourcebook)}}
+*{{JournalCite|7|Missed Chance|reprint=1}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*{{JournalCite|5|Vengeance Strike}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=Omens|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Shintel Downtime|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Traitor in our Midst|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Galaxy's Edge|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*{{JournalCite|3|Mission to Zila|reprint=1}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}}
+*{{JournalCite|12|Betrayal by Knight|reprint=1}} {{Mo}}
+*{{JournalCite|7|Retreat from Coruscant|reprint=1}}
+*[[Dark Empire 1|''Dark Empire'' 1]]
+*[[Dark Empire 2|''Dark Empire'' 2]]
+*[[Dark Empire 3|''Dark Empire'' 3]]
+*[[Dark Empire 4|''Dark Empire'' 4]]
+*[[Dark Empire 5|''Dark Empire'' 5]]
+*[[Dark Empire 6|''Dark Empire'' 6]]
+*[[Dark Empire II 1|''Dark Empire II'' 1]]
+*[[Dark Empire II 2|''Dark Empire II'' 2]]
+*[[Dark Empire II 3|''Dark Empire II'' 3]]
+*[[Dark Empire II 4|''Dark Empire II'' 4]]
+*[[Dark Empire II 5|''Dark Empire II'' 5]]
+*[[Dark Empire II 6|''Dark Empire II'' 6]]
+*{{JournalCite|14|No Disintegrations, Please}}
+*[[Empire's End 1|''Empire's End'' 1]]
+*[[Empire's End 2|''Empire's End'' 2]]
+*[[Crimson Empire 1|''Crimson Empire'' 1]]
+*[[Crimson Empire 2|''Crimson Empire'' 2]]
+*[[Crimson Empire 3|''Crimson Empire'' 3]]
+*[[Crimson Empire 4|''Crimson Empire'' 4]]
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Crimson Empire 6|''Crimson Empire'' 6]]
+*[[Crimson Empire II: Council of Blood 1|''Crimson Empire II: Council of Blood'' 1]]
+*[[Crimson Empire II: Council of Blood 2|''Crimson Empire II: Council of Blood'' 2]]
+*[[Crimson Empire II: Council of Blood 3|''Crimson Empire II: Council of Blood'' 3]]
+*[[Crimson Empire II: Council of Blood 4|''Crimson Empire II: Council of Blood'' 4]]
+*[[Crimson Empire II: Council of Blood 5|''Crimson Empire II: Council of Blood'' 5]]
+*[[Crimson Empire II: Council of Blood 6|''Crimson Empire II: Council of Blood'' 6]]
+*''[[Jedi Search]]''
+*[[Dark Apprentice (novel)|''Dark Apprentice'']]
+*''[[Champions of the Force]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*[[Jedi Academy: Leviathan 1|''Jedi Academy: Leviathan'' 1]]
+*[[Jedi Academy: Leviathan 2|''Jedi Academy: Leviathan'' 2]]
+*[[Jedi Academy: Leviathan 3|''Jedi Academy: Leviathan'' 3]]
+*[[Jedi Academy: Leviathan 4|''Jedi Academy: Leviathan'' 4]]
+*''[[Star Wars: Jedi Knight II: Jedi Outcast]]''
+*{{Hyperspace|url=hyperspace/fiction/shadesofgray/index.html|text="Shades of Gray"|int=Shades of Gray|newhost=Suvudu}}
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[X-Wing: Starfighters of Adumar]]''
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*[[Union 1|''Union'' 1]]
+*[[Union 2|''Union'' 2]]
+*[[Union 3|''Union'' 3]]
+*[[Union 4|''Union'' 4]]
+*''[[Junior Jedi Knights: The Golden Globe]]'' {{Mo}}
+*''[[Junior Jedi Knights: Kenobi's Blade]]'' {{Hologram}}
+*''[[Young Jedi Knights: Heirs of the Force]]''
+*''[[Young Jedi Knights: Shadow Academy]]''
+*''[[Young Jedi Knights: The Lost Ones]]''
+*''[[Young Jedi Knights: Darkest Knight]]''
+*''[[Young Jedi Knights: Jedi Under Siege]]''
+*[[Chewbacca (2000) 1|''Chewbacca'' (2000) 1]] {{Flash}}
+*[[Chewbacca (2000) 2|''Chewbacca'' (2000) 2]]
+*[[Chewbacca (2000) 3|''Chewbacca'' (2000) 3]]
+*[[Chewbacca (2000) 4|''Chewbacca'' (2000) 4]]
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]''
+*[[Invasion: Revelations 5|''Invasion: Revelations'' 5]]
+*''[[The New Jedi Order: Edge of Victory I: Conquest]]'' {{Mo}}
+*''[[The New Jedi Order: Dark Journey]]'' {{Mo}}
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Ylesia]]'' {{Mo}}
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: Force Heretic III: Reunion]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Legacy of the Force: Sacrifice]]'' {{Mo}}
+*''[[Legacy of the Force: Fury]]'' {{Mo}}
+*''[[Legacy of the Force: Revelation]]''
+*''[[Legacy of the Force: Invincible]]'' {{Mo}}
+*''[[Crosscurrent]]'' {{Mo}}
+*''[[Fate of the Jedi: Outcast]]'' {{Ab|Fate of the Jedi: Outcast (audiobook)}} {{Mo}}
+*''[[Star Wars: Galaxy of Heroes]]'' {{C|Parts only}}
+}}
+
+===Non-canon appearances===
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of TIE/LN starfighters}}
+*<!-- 1982-05-XX -->{{StoryCite|story=The Flight of the Falcon|book=The Empire Strikes Back Monthly 157|reprint=1}}
+*<!-- 2001-05-02 -->[[Star Wars Infinities: A New Hope 1|''Star Wars Infinities: A New Hope'' 1]]
+*<!-- 2001-06-06 -->[[Star Wars Infinities: A New Hope 2|''Star Wars Infinities: A New Hope'' 2]]
+*<!-- 2001-09-19 -->[[Star Wars Infinities: A New Hope 3|''Star Wars Infinities: A New Hope'' 3]]
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-11-21 -->[[Star Wars Infinities: A New Hope 4|''Star Wars Infinities: A New Hope'' 4]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2001-12-12 -->{{Tales|10|Trooper (comic story)}}
+*<!-- 2002-03-20 -->{{Tales|11|Prey}} {{Flash}}
+*<!-- 2002-07-10 -->[[Star Wars Infinities: The Empire Strikes Back 1|''Star Wars Infinities: The Empire Strikes Back'' 1]]
+*<!-- 2002-08-28 -->[[Star Wars Infinities: The Empire Strikes Back 2|''Star Wars Infinities: The Empire Strikes Back'' 2]]
+*<!-- 2002-10-23 -->[[Star Wars Infinities: The Empire Strikes Back 3|''Star Wars Infinities: The Empire Strikes Back'' 3]]
+*<!-- 2002-11-20 -->[[Star Wars Infinities: The Empire Strikes Back 4|''Star Wars Infinities: The Empire Strikes Back'' 4]]
+*<!-- 2003-11-06 -->[[Star Wars Infinities: Return of the Jedi 1|''Star Wars Infinities: Return of the Jedi'' 1]]
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+*<!-- 2004-05-14 -->{{Tales|19|Into the Great Unknown}}
+*<!-- 2005-12-XX -->"[[Perfect Evil]]"
+*<!-- 2006-03-29 -->''[[The Return of Tag & Bink: Special Edition]]''
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2008-07-29 -->''[[Soulcalibur IV]]''
+*<!-- 2008-08-21 -->''[[Star Wars: Visions of the Blade]]''
+*<!-- 2008-09-16 -->{{TFU|USE=1}}
+*<!-- 2009-06-11 -->{{LEGOWeb|subdomain=starwars|url=en-us/Comics/comicl13.aspx|text="Do Clones dream of Electric Mynocks?"|int=Do Clones dream of Electric Mynocks?|nolive=1|nobackup=1}}
+*<!-- 2009-08-XX -->"[[Murder on the Executor|Murder on the ''Executor'']]" {{Un}}
+*<!-- 2013-05-02 -->[[LEGO Star Wars: The Yoda Chronicles (video game)|''LEGO Star Wars: The Yoda Chronicles'' video game]]
+*<!-- 2013-07-25 -->[[Club Penguin Star Wars Takeover|''Club Penguin Star Wars'' Takeover]]
+*<!-- 2014-01-30 -->[[LEGO Star Wars: Microfighters (video game)|''LEGO Star Wars: Microfighters'' video game]]
+}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1978-XX-XX -->{{KennerCite|set=Star Wars (Kenner toy line)|pack=Imperial TIE Fighter|link=Kenner-TIE.asp}}
+*<!-- 1979-03-XX -->''[[Artoo Detoo's Activity Book]]''
+*<!-- 1979-03-XX -->''[[Luke Skywalker's Activity Book]]''
+*<!-- 1980-XX-XX -->[[The Empire Strikes Back Coloring Book (1980)|''The Empire Strikes Back Coloring Book'' (1980)]]
+*<!-- 1983-XX-XX -->{{KennerCite|set=Star Wars: Return of the Jedi (toy line)|pack=Battle Damaged Imperial TIE Fighter|nobackup=1}}
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-01-XX -->{{LucasFanClubCite|2|Star Tours: "The Ultimate Adventure" is Still the Ultimate Ride at Disneyland|''Star Tours'': "The Ultimate Adventure" is Still the Ultimate Ride at Disneyland}}
+*<!-- 1988-01-XX -->{{LucasFanClubCite|2|Star Wars: The Role-Playing Game|''Star Wars: The Role-Playing Game''}}
+*<!-- 1988-10-XX -->{{LucasFanClubCite|5|Collections|Collections: Foreign ''Star Wars'' Collectibles}} {{Po}}
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[Galaxy Guide 1: A New Hope]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-04-XX -->''[[Galaxy Guide 2: Yavin and Bespin]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]''
+*<!-- 1992-06-XX -->''[[Planets of the Galaxy, Volume Two]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->''[[X-Wing: The Official Strategy Guide]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]''
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]''
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-02-XX -->{{JournalCite|1|Glah Ubooki's Strange & Wondrous Imports (article)}}
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-03-XX -->''[[Galaxy Guide 10: Bounty Hunters]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|The Free-Trader's Guide to Sevarcos|reprint=1}}
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}}
+*<!-- 1994-05-XX -->{{JournalCite|2|Recon & Report: The Journey to Coruscant|reprint=1}}
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1994-06-XX -->''[[Creatures of the Galaxy]]''
+*<!-- 1994-06-XX -->''[[Star Wars Miniatures Battles Companion]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-08-XX -->{{JournalCite|3|Outlaw Battle Armor}}
+*<!-- 1994-09-XX -->[[Star Wars: The National Public Radio Dramatization|''Star Wars'': The National Public Radio Dramatization]]
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-01-XX -->''[[Goroth: Slave of the Empire]]''
+*<!-- 1995-02-XX -->{{JournalCite|5|Smugglers of the Outer Rim}}
+*<!-- 1995-02-XX -->{{JournalCite|5|Zirtran's Anchor (article)}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-03-XX -->''[[X-Wing Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-04-XX -->''[[Dark Forces Official Player's Guide]]''
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]'' {{ID|TIE/ln}}
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-08-XX -->{{JournalCite|7|Into the Core Worlds}}
+*<!-- 1995-09-XX -->''[[Galaxy Guide 12: Aliens — Enemies and Allies]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-11-XX -->{{JournalCite|8|The Yard of Opportunity}}
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Black 2}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Black 3}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Collision!}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Death Star: Docking Bay 327 (Dark)}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Don't Get Cocky}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Emergency Deployment}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=I Have You Now}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=''Imperial''-Class Star Destroyer}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Imperial Pilot}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Tallon Roll}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=TIE Fighter}}
+}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->{{JournalCite|9|Repulsortank Battlefield}}
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+<!-- 1996-07-XX -->{{CardGameSet|set={{CCG|set=A New Hope Limited|parent=1}}|cards=
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Black 4}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Enhanced TIE Laser Cannon}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=TIE Assault Squadron}}
+}}
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+<!-- 1996-09-XX -->{{CardGameSet|set={{Topps|set=1996 Topps Star Wars: Shadows of the Empire|parent=1}}|cards=
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Battle Over Coruscant: Part I|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC066.jpg}} {{Po}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Battle Over Coruscant: Part III|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC068.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Boba Fett Escapes From Gall|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC017.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Hyperspace... At Last!|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC048.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Leia Meets Dash Rendar|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC011.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Luke Scores a TIE|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC015.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Narrow Escape|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC018.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Vader Senses His Son|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC046.jpg}}
+}}
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]]
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-02-XX -->{{JournalCite|12|Imperial Garrisons}}
+*<!-- 1997-02-XX -->{{JournalCite|12|Shape-shifters}}
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=I Want That Ship}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Light Maneuvers}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Lost In Space}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Lost Relay}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Order To Engage}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Rycar's Run}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Scramble}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Those Rebels Won't Escape Us}}
+}}
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]''
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=TIE Fighter}}
+*<!-- 1997-09-XX -->{{Kids1997Cite|4|Meet...|Meet Wedge!}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-11 -->''[[Star Wars: The Art of the Brothers Hildebrandt]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Atmospheric Assault}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Obsidian 7}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Obsidian 8}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=TIE Sentry Ships}}
+}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Tasariq: The Crystal Planet}}
+*<!-- 1997-11-XX -->{{JournalCite|15|Alien Encounters (article series)|Alien Encounters: The Shard}}
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1997-12-XX -->[[Star Wars Kids (1997) 6|''Star Wars Kids'' (1997) 6]]
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1997-XX-XX -->{{MetallicImpressions|set=Star Wars: Shadows of the Empire Embossed Metal Collector Cards|cardname=ISSUE 2: Rescue Attempt on Gall|link=https://www.rebelscum.com/photo.asp?image=/sote/soteMIcards2bk.jpg}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+<!-- 1998-05-XX -->{{CardGameSet|set={{CCG|set=Official Tournament Sealed Deck|parent=1}}|cards=
+*<!-- 1998-05-XX -->{{CCG|set=Official Tournament Sealed Deck|cardname=Black Squadron TIE}}
+*<!-- 1998-05-XX -->{{CCG|set=Official Tournament Sealed Deck|cardname=Obsidian Squadron TIE}}
+}}
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 1998-10-07 -->''[[TIE Fighter: A Pocket Manual]]''
+*<!-- 1998-10-07 -->''[[X-wing: A Pocket Manual]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=All Power To Weapons}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Antilles Maneuver}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Counter Surprise Assault}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Death Star Assault Squadron}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Dreaded Imperial Starfleet}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=I Can't Shake Him!}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=OS-72-1 In Obsidian 1}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=OS-72-2 In Obsidian 2}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Overwhelmed}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Planetary Subjugation}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Power Pivot}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Pride Of The Empire}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Relentless Pursuit}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Short-range Fighters}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Sienar Fleet Systems}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=''Vengeance''}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Watch Your Back!}}
+}}
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Battle Deployment}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Black 11}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Concussion Missiles (Light)}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Desperate Counter}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Fighters Coming In}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Flagship Operations}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Head Back To The Surface}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Lieutenant Hebsly}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Obsidian 10}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scythe 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scythe 3}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scythe Squadron TIE}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Taking Them With Us}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=The Emperor's Shield}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=The Emperor's Sword}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Tycho Celchu}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}} {{Po}}
+<!-- 2001-01-10 -->{{CardGameSet|set={{CCG|set=Reflections II: Expanding the Galaxy|parent=1}}|cards=
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Dark Maneuvers & Tallon Roll}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Ghhhk & Those Rebels Won't Escape Us}}
+}}
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Short Range Fighters & Watch Your Back!}}
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Desperate Times}}
+*<!-- 2001-11-07 -->[[Star Wars: Galactic Battlegrounds: Prima's Official Strategy Guide|''Star Wars: Galactic Battlegrounds'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2001-XX-XX -->{{LEGOCite|num=7146|name=TIE Fighter}}
+*<!-- 2002-02-13 -->{{FactFile|7|TIE 1-2|TIE Fighter}}
+*<!-- 2002-05-30 -->{{HBCite|61}}
+*<!-- 2002-09-XX -->{{LEGOCite|type=ucs|num=10030|name=Imperial Star Destroyer}}
+*<!-- 2002-10-17 -->{{Wizards|url=default.asp?x=starwars/article/sw20021017web|text=''Arms & Equipment Guide'' Extras!}}
+*<!-- 2002-XX-XX -->{{LEGOCite|num=3219|name=Mini TIE Fighter}}
+*<!-- 2003-04-03 -->{{Wizards|url=default.asp?x=starwars/article/sw20030403coruscant|text=Coruscant: Center of the Empire|int=Coruscant: Center of the Empire}} {{Mo}} {{C|Vignette}}
+*<!-- 2003-06-05 -->{{Wizards|url=default.asp?x=starwars/article/sw20030605arbra|text=Arbra: Sanctuary In the Storm|int=Arbra: Sanctuary In the Storm}}
+*<!-- 2003-06-XX -->''[[Hero's Guide]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_fighter.jsp|text=TIE Fighter}}
+*<!-- 2004-08-06 -->{{Hyperspace|url=hyperspace/member/photoreceptor/2004/08/photoreceptor20040806.html|series=Photoreceptor|text=Battered TIE}}
+*<!-- 2004-09-28 -->[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2004-XX-XX -->{{LEGOCite|num=10131|name=TIE Fighter Collection}}
+*<!-- 2005-04-02 -->''[[The Making of Star Wars Revenge of the Sith]]''
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2005-XX-XX -->{{LEGOCite|num=7263|name=TIE Fighter}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66876&resource=features|text=Ships: TIE Fighter (all)}}
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-11-XX -->{{SWMiniCite|set=Starship Battles|pack=TIE Fighter Ace}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]'' {{1stID|TIE/ln space superiority starfighter}}
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Black Two}}
+*<!-- 2008-XX-XX -->{{LEGOCite|num=8028|name=Mini TIE Fighter}}
+*<!-- 2009-03-11 -->{{SWGTCG|set=Galactic Hunters|cardname=TIE Fighter}}
+*<!-- 2009-05-12 -->{{Hyperspace|url=hyperspace/member/sourcearchive/news20090512.html|text=The Battle of Turak IV|int=The Battle of Turak IV}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-09-XX -->''[[Star Wars: Spaceships]]''
+*<!-- 2009-XX-XX -->{{HasbroCite|set=Star Wars: Titanium Series|pack=Ecliptic Evader TIE Fighter|altlink=https://www.rebelscum.com/SW08TStieevader.asp}}
+*<!-- 2010-03-30 -->{{Wizards|url=default.asp?x=starwars/article/Mesop5|text=Message to Spacers 5}}
+*<!-- 2010-04-13 -->{{Wizards|url=default.asp?x=starwars/article/Mesop7|text=Message to Spacers 7}}
+*<!-- 2010-07-XX -->[[Star Wars: ABC|''Star Wars'': ABC]]
+*<!-- 2011-08-XX -->{{LEGOCite|num=7958|name=Star Wars Advent Calendar}}
+*<!-- 2011-09-01 -->{{LEGOCite|type=ucs|num=10221|name=Super Star Destroyer}}
+*<!-- 2011-09-13 -->{{DB|starship|tiefighter|TIE fighter}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-02-02 -->{{LEGOCite|num=9492|name=TIE Fighter}}
+*<!-- 2012-02-10 -->''[[Book of Sith: Secrets from the Dark Side]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-04-30 -->''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]''
+<!-- 2012-09-14 -->{{CardGameSet|set={{FFGXW|set=Core Set}}|cards=
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname=Academy Pilot|reprint=1}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname=Black Squadron Pilot|reprint=1}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname="Dark Curse"}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname=Luke Skywalker}} {{Po}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname=Marksmanship|reprint=1}} {{Po}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname="Mauler Mithel"}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname="Night Beast"}}
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname=Obsidian Squadron Pilot|reprint=1}}
+}}
+<!-- 2012-09-14 -->{{CardGameSet|set={{FFGXW|set=X-Wing Expansion Pack}}|cards=
+*<!-- 2012-09-14 -->{{FFGXW|set=X-Wing Expansion Pack|cardname=Expert Handling|reprint=1}} {{Po}}
+*<!-- 2012-09-14 -->{{FFGXW|set=X-Wing Expansion Pack|cardname=Wedge Antilles}} {{Po}}
+}}
+<!-- 2012-09-14 -->{{CardGameSet|set={{FFGXW|set=TIE Fighter Expansion Pack}}|cards=
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Fighter Expansion Pack|cardname="Backstabber"}}
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Fighter Expansion Pack|cardname="Howlrunner"}}
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Fighter Expansion Pack|cardname=Swarm Tactics|reprint=1}}
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Fighter Expansion Pack|cardname="Winged Gundark"}}
+}}
+<!-- 2012-09-14 -->{{CardGameSet|set={{FFGXW|set=TIE Advanced Expansion Pack}}|cards=
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Advanced Expansion Pack|cardname=Darth Vader}} {{Po}}
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Advanced Expansion Pack|cardname=Squad Leader}} {{Po}}
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Advanced Expansion Pack|cardname=Storm Squadron Pilot|reprint=1}}
+}}
+*<!-- 2012-10-02 -->''[[The Essential Reader's Companion]]''
+*<!-- 2012-10-23 -->{{InsiderCite|137|Red Five|Red Five: Joe Corroney on Five Great '}} {{Imo}}
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname="Backstabber"|link=core/backstabber-core-27-2}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Black Squadron Assault|link=core/black-squadron-assault-core-21-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Draw Their Fire|link=core/draw-their-fire-core-12-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=I'm on the Leader|link=core/im-on-the-leader-core-21-5}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Tallon Roll|link=core/tallon-roll-core-30-4}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=TIE Attack Squadron|link=core/tie-attack-squadron-core-30-2}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=TIE Fighter|link=core/tie-fighter-core-27-3}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Vader's TIE Advanced|link=core/vaders-tie-advanced-core-21-2}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=X-Wing Escort|link=core/x-wing-escort-core-12-3}} {{Po}}
+}}
+*<!-- 2012-XX-XX -->{{LEGOCite|num=66432|name=Super Pack 3-in-1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Draw Their Fire}} {{Po}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=A-Wing Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Push the Limit|reprint=1}} {{Po}}
+*<!-- 2013-02-28 -->{{FFGXW|set=A-Wing Expansion Pack|cardname=Tycho Celchu}} {{Po}}
+}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Soontir Fel}} {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Game Master's Kit|''Star Wars: Edge of the Empire'' Game Master's Kit]] {{Po}}
+<!-- 2013-07-19 -->{{CardGameSet|set={{FFGTCG|set=Edge of Darkness|parent=1}}|cards=
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Asteroid Pursuit|link=edge-of-darkness/asteroid-pursuit-edge-of-darkness-90-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=''Imperial I''-class Star Destroyer|link=edge-of-darkness/imperial-i-class-star-destroyer-edge-of-darkness-88-3}}
+}}
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2013-09-13 -->{{FFGXW|set=B-Wing Expansion Pack|cardname=Ten Numb}} {{Po}}
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=Vast Resources|link=the-hoth-cycle/escape-from-hoth/vast-resources-escape-from-hoth-68-2}} {{Po}}
+*<!-- 2013-09-24 -->{{SW|url=news/the-starwars-com-10-best-starfighters|text=The StarWars.com 10: Best Starfighters}}
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2013-12-12 -->''[[Star Wars: Sith Wars]]''
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Blue Squadron Support|link=balance-of-the-force/blue-squadron-support-balance-of-the-force-92-1}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Decoy Wing|link=balance-of-the-force/decoy-wing-balance-of-the-force-l01}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fleet Ambush|link=balance-of-the-force/fleet-ambush-balance-of-the-force-d01-54}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fully Armed|link=balance-of-the-force/fully-armed-balance-of-the-force-d01-56}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Heightened Security|link=balance-of-the-force/heightened-security-balance-of-the-force-d01-4}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Rapid Fire|link=balance-of-the-force/rapid-fire-balance-of-the-force-92-5}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Supporting Fire|link=balance-of-the-force/supporting-fire-balance-of-the-force-94-6}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=TIE Interceptor|link=balance-of-the-force/tie-interceptor-balance-of-the-force-d01-23}}
+}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]''
+*<!-- 2014-03-17 -->{{FFGXW|set=Imperial Aces Expansion Pack|cardname=Opportunist}}
+*<!-- 2014-04-18 -->{{FFGTCG|set=Lure of the Dark Side|cardname=Against All Odds|link=echoes-of-the-force-cycle/lure-of-the-dark-side/against-all-odds-lure-of-the-dark-side-103-1}} {{Po}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]]
+*<!-- 2014-04-25 -->{{SWE|groups|empire|Galactic Empire}}
+*<!-- 2014-04-25 -->{{SWE|technology|imperialstardestroyer|Imperial Star Destroyer}}
+*<!-- 2014-04-25 -->{{SWE|technology|tie|TIE fighter}}
+*<!-- 2014-04-25 -->{{SWE|technology|xwing|X-wing starfighter}}
+<!-- 2014-04-30 -->{{CardGameSet|set={{FFGXW|set=Rebel Transport Expansion Pack}}|cards=
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=''Dutyfree''}} {{Po}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=Jek Porkins}} {{Po}}
+}}
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Airen Cracken}} {{Po}}
+*<!-- 2014-06-26 -->{{FFGXW|set=TIE Defender Expansion Pack|cardname=Predator|reprint=1}} {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+<!-- 2014-07-24 -->{{CardGameSet|set={{FFGTCG|set=It Binds All Things|parent=1}}|cards=
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Evasive Maneuvers|link=echoes-of-the-force-cycle/it-binds-all-things/evasive-maneuvers-r773}} {{Po}}
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=Green Squadron A-Wing|link=echoes-of-the-force-cycle/it-binds-all-things/green-squadron-a-wing-r771}} {{Po}}
+}}
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+<!-- 2014-08-21 -->{{CardGameSet|set={{FFGTCG|set=Darkness and Light|parent=1}}|cards=
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=Escort Carrier|link=echoes-of-the-force-cycle/darkness-and-light/escort-carrier-r812}}
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=Superior Numbers|link=echoes-of-the-force-cycle/darkness-and-light/superior-numbers-r811}} {{Po}}
+}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=Intimidation}} {{Po}}
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Warning Shot|link=between-the-shadows/warning-shot-r1203}} {{Po}}
+*<!-- 2015-01-06 -->{{BuildFalconCite|1|Starship Fact File}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]'' {{Po}}
+*<!-- 2015-02-23 -->''[[Fly Casual]]'' {{Po}}
+*<!-- 2015-02-25 -->{{BuildFalconCite|8|Guide to the Galaxy}} {{Po}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Emon Azzameen}} {{Po}}
+<!-- 2015-03-20 -->{{CardGameSet|set={{FFGTCG|set=Ready for Takeoff|parent=1}}|cards=
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=181st TIE Interceptor|link=rogue-squadron/ready-for-takeoff/181st-tie-interceptor-r1243}} {{Po}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=Black Squadron Formation|link=rogue-squadron/ready-for-takeoff/black-squadron-formation-r1235}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=Black Two|link=rogue-squadron/ready-for-takeoff/black-two-r1237}} {{Po}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=Stay on Target|link=rogue-squadron/ready-for-takeoff/stay-on-target-r1240}} {{Po}}
+}}
+*<!-- 2015-03-20 -->{{SWIA|set=Han Solo Ally Pack|mission=Imperial Entanglements}} {{Po}}
+<!-- 2015-03-27 -->{{CardGameSet|set={{Armada|set=Core Set}}|cards=
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=Expanded Hangar Bay|reprint=1}} {{Po}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname="Howlrunner"|subtitle=TIE Fighter Squadron}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=Nebulon-B Support Refit|reprint=1}} {{Po}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=TIE Fighter Squadron|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=''Victory I''-class Star Destroyer|reprint=1}} {{Po}}
+}}
+<!-- 2015-04-09 -->{{CardGameSet|set={{FFGTCG|set=Draw Their Fire|parent=1}}|cards=
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Black Squadron Fighter|link=rogue-squadron/draw-their-fire/black-squadron-fighter-r829}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Guarding the Wing|link=rogue-squadron/draw-their-fire/guarding-the-wing-r1277}} {{Po}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Hand of the Emperor|link=rogue-squadron/draw-their-fire/hand-of-the-emperor-r1275}} {{Po}}
+}}
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=Assault Frigate Mark II A}} {{Po}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Imperial Fighter Squadrons Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Imperial Fighter Squadrons Expansion Pack|cardname="Mauler" Mithel|subtitle=TIE Fighter Squadron}}
+*<!-- 2015-05-14 -->{{Armada|set=Imperial Fighter Squadrons Expansion Pack|cardname=TIE Advanced Squadron}} {{Po}}
+}}
+<!-- 2015-05-29 -->{{CardGameSet|set={{FFGTCG|set=Evasive Maneuvers|parent=1}}|cards=
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Koiogran Turn|link=rogue-squadron/evasive-maneuvers/koiogran-turn-r1304}} {{Po}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Supporting Fire|link=rogue-squadron/evasive-maneuvers/supporting-fire-r1310}} {{Po}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=TIE Fighter Patrol|link=rogue-squadron/evasive-maneuvers/tie-fighter-patrol-r1302}}
+}}
+*<!-- 2015-06-18 -->[[Star Wars: Force and Destiny Beginner Game|''Star Wars: Force and Destiny'' Beginner Game]] {{Po}}
+<!-- 2015-06-25 -->{{CardGameSet|set={{FFGTCG|set=Attack Run|parent=1}}|cards=
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Black Squadron Fighter|link=rogue-squadron/attack-run/black-squadron-fighter-r1332}} {{Po}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Closed Formation|link=rogue-squadron/attack-run/closed-formation-r1333}} {{Po}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Defending the Trench|link=rogue-squadron/attack-run/defending-the-trench-r1329}} {{Po}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Running the Trench|link=rogue-squadron/attack-run/running-the-trench-r1317}} {{Po}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Stay on Target|link=rogue-squadron/attack-run/stay-on-target-r1340}} {{Po}}
+}}
+<!-- 2015-07-17 -->{{CardGameSet|set={{FFGTCG|set=Chain of Command|parent=1}}|cards=
+*<!-- 2015-07-17 -->{{FFGTCG|set=Chain of Command|cardname=Supporting Fire|link=rogue-squadron/chain-of-command/supporting-fire-r1358}} {{Po}}
+*<!-- 2015-07-17 -->{{FFGTCG|set=Chain of Command|cardname=Surprising Maneuver|link=rogue-squadron/chain-of-command/surprising-maneuver-r1352}} {{Po}}
+}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2015-12-17 -->''[[Keeping the Peace]]''
+*<!-- 2016-08-18 -->''[[Forged in Battle]]''
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Galactic Empire Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Daredevil|reprint=1}} {{Po}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Gamma Squadron Ace}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Predator|reprint=1}} {{Po}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Soontir Fel|reprint=1}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP|TIE fighter}}
+*{{SWGWiki|TIE/ln Fighter}}
+*{{SWArchive|url=games/playnow/soundboards/#/?theme=04|text=Official ''Star Wars'' Soundboards: X-wing vs. TIE fighter}}
+
+{{TIE}}
+
+{{Interlang
+|bg=Tie Fighter
+|cs=Stíhačka TIE/LN
+|de=TIE/LN-Raumüberlegenheitsjäger#legends
+|el=Αστρομαχητικό TIE/LN
+|es=Caza estelar TIE/LN
+|fi=TIE/LN tähtihävittäjä
+|fr=Chasseur TIE
+|hu=TIE/LN vadász
+|ja=TIE/LNスターファイター/レジェンズ
+|ka=კოსმოსური უპირატესობის ვარსკვლავური გამანადგურებელი TIE/ln
+|ko=타이/LN 은하전투기
+|nl=TIE/ln Space Superiority Starfighter
+|no=TIE Jager
+|pl=Myśliwiec TIE/ln
+|pt=Caça estelar de superioridade espacial TIE/ln
+|tr=TIE/ln uzay üstünlüğü yıldız savaşçısı/Legends
+|uk=Зоряний винищувач TIE/LN
+|zh=TIE系列
+}}
+
+[[Category:Starship classes of the Dark Empire]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Imperial Remnant]]
+[[Category:TIE series models|l-ln]]
+
+{{RelatedCategories
+|[[Category:TIE/ln starfighters]]
+}}

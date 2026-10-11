@@ -1,0 +1,103 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:XJ3-EGTW.jpg]]
+|name=T-65XJ3 X-wing starfighter
+|designer=
+|manufacturer=[[Incom Corporation/Legends|Incom Corporation]]<ref name="NJOS">''[[The New Jedi Order Sourcebook]]''</ref>
+|line=[[T-65 X-wing starfighter/Legends|X-wing]]
+|model=T-65XJ3 X-wing<ref name="sotg(se)">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|type=[[Starfighter/Legends|Starfighter]]<ref name="NJOS" />
+|cost=*New: 315,000 [[Galactic Credit Standard/Legends|credits]]<ref name="NJOS" />
+*Used: 220,000 credits<ref name="NJOS" />
+|modifier=
+|sysmods=
+|length=12.6 [[Meter/Legends|meters]]<ref name="NJOS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,100 km/h<ref name="sotg(se)" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 1<ref name="NJOS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Strong [[Deflector shield/Legends|shields]] with [[Deflector shield generator/Legends|backup generators]]<ref name="sotg(se)" />
+|hull=
+|sensor=
+|target=
+|navigation=10-jump memory (astromech)<ref name="sotg(se)" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Stutter-fire]] capable heavy [[Laser cannon/Legends|laser cannons]] (4)<ref name="NJOS" />
+*[[Proton torpedo launcher/Legends|Proton torpedo launchers]] (3)<ref name="NJOS" />
+**4 heavy [[Proton torpedo/Legends|proton torpedoes]]<ref name="NJOS" /> or [[Jedi shadow bomb|shadow bombs]] each (standard load)
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="NJOS" />
+*[[Astromech droid/Legends|Astromech droid]] (1)<ref name="sotg(se)" />
+|skeleton=
+|passengers=None<ref name="NJOS" />
+|capacity=35 [[Kilogram/Legends|kilograms]]<ref name="NJOS" />
+|cargohandling=
+|consumables=3 [[Standard day/Legends|days]]<ref name="NJOS" />
+|lifesupport=
+|communications=
+|othersystems=Expandable [[Acceleration compensator/Legends|inertial compensator]] field
+|availability=Military<ref name="sotg(se)" />
+|role=
+|firstuse=[[27 ABY/Legends|27 ABY]]<ref name="TNEGtVaV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|retired=
+|affiliation=*[[New Jedi Order]]
+*[[New Republic/Legends|New Republic]]
+*[[Galactic Federation of Free Alliances]]
+}}
+The '''T-65XJ3 X-wing starfighter''' was a [[Starfighter/Legends|starfighter]] used by the [[New Republic/Legends|New Republic]] and the [[Galactic Federation of Free Alliances]].
+
+==Characteristics==
+This version of the venerable starfighter retains the third [[Proton torpedo/Legends|proton torpedo]] launcher from that standard [[T-65XJ X-wing starfighter|XJ X-wing]] while increasing the number of [[Torpedo/Legends|torpedoes]] carried to twelve.<ref name="NJOS" /> It also incorporated backup [[Deflector shield/Legends|shield]] [[Deflector shield generator/Legends|generators]] that proved useful against the [[Yuuzhan Vong]] [[Dovin basal|"shield grab" attack]].<ref name="sotg(se)" /> Additionally it boasts improved targeting systems, maneuverability, avionics, and [[Laser cannon/Legends|laser cannons]], which fired blue rather than red lasers. Compared to the earlier series of [[T-65 X-wing starfighter/Legends|X-wing starfighters]], the XJ was a great improvement.<ref name="NJOS" />
+
+==History==
+Shortly before the [[Yuuzhan Vong War|invasion]] of the [[Yuuzhan Vong]], the New Republic deployed the first of the XJ-series X-wing. Originally, it was issued to elite [[Squadron/Legends|squadrons]] aboard [[Star Destroyer/Legends|Star Destroyers]] and the [[New Jedi Order]], which resulted in the craft being one of the first to face the deadly [[Yorik-et|coralskippers]].<ref name="NJOS" />
+
+In [[27 ABY/Legends|27 ABY]], the XJ3 X-wing was introduced. Among the improvements it introduced was a mechanism to bring the shields down, then back up to keep them from being overloaded by [[dovin basal]]s, a launcher (on Jedi craft) for their [[Jedi shadow bomb|shadow bombs]], and [[Stutter-fire]] lasers that helped to get past the dovin basal shields of the Yuuzhan Vong ships.<ref name="NJOS" />
+
+==Appearances==
+*''[[The New Jedi Order: Star by Star]]'' {{1st}}
+*''[[The New Jedi Order: Dark Journey]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*''[[The New Jedi Order: Force Heretic III: Reunion]]''
+*''[[The New Jedi Order: The Final Prophecy]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest I: The Joiner King]]''
+*''[[Dark Nest II: The Unseen Queen]]''
+*''[[Legacy of the Force: Tempest]]''
+
+==Sources==
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+
+==Notes and references==
+{{Reflist}}
+
+{{X-WingVariantsNav}}
+
+{{Interlang
+|de=T-65XJ3 X-Flügel Sternenjäger#legends
+|es=Caza estelar T-65XJ3 Ala-X
+}}
+
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the Jedi Order]]
+[[Category:Starship classes of the New Republic]]
+[[Category:X-wing starfighter models|XJ3]]

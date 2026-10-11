@@ -1,0 +1,99 @@
+{{Top|leg}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:StockShipsSuwantek.png]]
+|name=TL-1800 light freighter
+|designer=
+|manufacturer=[[Suwantek Systems]]<ref name="SS">''[[Stock Ships]]''</ref>
+|line=[[TL-series transport|TL-series]]
+|model=TL-1800 transport
+|type=[[Light freighter/Legends|Light freighter]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|cost=*41,500 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SS" />
+*28,000 credits<ref name="PP" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="SS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|km/h]]<ref name="SS" />
+|maneuverability=
+|engine=5 [[Y-v-6 model sublight drive]]<ref name="SS" />
+|hyperdrive=*Class 2.0<ref name="PP" />
+*Class 10 backup<ref name="PP" />
+|hdrange=
+|hdsystem=[[StarBurn 4]] hyperdrive<ref name="SS" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Sienar Fleet Systems/Legends|SFS]] [[Laser cannon/Legends|Laser cannons]] (2)<ref name="SS" />
+|complement=
+|bays=
+|escapepods=
+|crew=2
+|skeleton=1
+|passengers=7
+|capacity=*110 [[Metric ton/Legends|metric tons]] (internal)<ref name="PP" />
+*400 metric tons (with external cargo pods)<ref name="SS" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Hand of Judgment]]
+*[[Imperial Security Bureau/Legends|Imperial Security Bureau]]
+}}
+{{Quote|Usually the 1800's a piece of junk—holds together okay, but it's slow, badly armed, and poorly shielded. The nav computer glitches a lot, too.|[[Joak Quiller]]|<ref name="Allegiance" />}}
+The '''TL-1800 transport''', also known as the '''TL-1800 freighter''' or '''TL-1800 light freighter''', was a [[Light freighter/Legends|light freighter]] manufactured by [[Suwantek Systems]] as part of their [[TL-series transport|TL-series]] line.
+
+==Characteristics==
+The wide-bodied 30-meter-long ship could carry 110 tons of cargo in its internal cargo bay, but could also attach four external cargo pods to its hull. This gave the TL-1800 an exceptional cargo capacity for its size, exceeding that of significantly larger ships such as the [[Etti Lighter]] and the [[YZ-775 medium transport]]. However, these pods reduced the already sluggish [[Freighter/Legends|freighter's]] limited speed and maneuverability, and only one pod could be carried during atmospheric flight.<ref name="SS" />
+
+The TL-1800 was also notable for its highly efficient [[Y-v-6 model sublight drive|Y-v-6 model]] sublight engines and [[StarBurn 4]] [[Hyperdrive/Legends|hyperdrive]], which could operate for a year or more without a major overhaul.<ref name="SS" />
+
+Suwantek Systems would normally contract [[Fabritech/Legends|Fabritech]] or [[Industrial Automaton/Legends|Industrial Automaton]] in the creation of systems such as the nav computer. With the TL-1800 Transport, Suwantek Systems instead tried to develop their own nav computer system, the [[Portal Delta]], in order to cut costs. The Portal Delta was very glitch prone and required constant maintenance. Later models of this vessel contain the more reliable Fabritech units, though earlier models could still be found with the flawed Portal Delta nav computer system.<ref name="SS" />
+
+==History==
+TL-1800 freighters were occasionally used by the [[Imperial Security Bureau/Legends|Imperial Security Bureau]]. One, the ''[[Melnor Spear]]'', was used by [[Daric LaRone]] on his escape from the [[Imperial-class Star Destroyer/Legends|Imperial Star Destroyer]] [[Reprisal (Imperial II-class)|''Reprisal'']].<ref name="Allegiance">[[Allegiance (novel)|''Allegiance'']]</ref>
+
+==Appearances==
+*''[[The Clone Wars: Secret Missions 3: Duel at Shattered Rock]]''
+*''[[The Clone Wars: Secret Missions 4: Guardians of the Chiss Key]]''
+*{{JournalCite|7|Passages}}
+*[[Allegiance (novel)|''Allegiance'']] {{Ab|Allegiance (audiobook)}}
+*''[[Choices of One]]''
+*''[[Planet of the Mists]]'' {{1st}} {{Po}}
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}}
+*''[[Tempest Feud]]''
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]'' {{1stID|TL-1800 light freighter}}
+*<!-- 1997-06-XX -->''[[Stock Ships]]'' {{1stID|TL-1800 transport}}
+*<!-- 2010-05-04 -->{{Wizards|url=default.asp?x=starwars/article/Mesop10|text=Message to Spacers 10}} {{1stID|TL-1800 transport}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=TL-1800-Frachter
+}}
+
+[[Category:Freighter classes]]
+[[Category:TL-series transport classes]]
+
+{{RelatedCategories
+|[[Category:TL-1800 transports]]
+}}

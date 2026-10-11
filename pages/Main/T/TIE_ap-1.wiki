@@ -1,0 +1,95 @@
+{{Top|leg}}
+{{Otheruses|Mauler}}
+{{GroundVehicle
+|image=[[File:Eaw_tie-mauler.jpg]]
+|name=TIE ap-1
+|designer=
+|manufacturer=[[Santhe/Sienar Technologies]]<ref name="EAWGG">[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]</ref>
+|line=[[TIE series/Legends|TIE Series]]<ref name="db">{{DB|vehicle|tiemauler|TIE mauler}}</ref>
+|model=Twin Ion Engine ap-1<ref name="EAWGG" />
+|type=Tracked ground vehicle
+|cost=Not available for sale<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|modifier=
+|sysmods=
+|length=6.7 [[Meter/Legends|meters]]<ref name="db" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=90 [[Kilometer per hour/Legends|km/h]]<ref name="RECG" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=Triple medium [[Blaster cannon/Legends|Blaster cannons]]<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=95 [[Kilogram/Legends|kilograms]]<ref name="RECG" />
+|cargohandling=
+|consumables=5 [[Standard day/Legends|days]]<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=Enhanced self-destruct device<ref name="EAWGG" />
+|availability=Military<ref name="RECG" />
+|role=*Compact assault vehicle<ref name="db" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="db" />
+**[[Imperial Military/Legends|Imperial Military]]<ref name="db" />
+**[[Imperial Army/Legends|Imperial Army]]<ref name="db" />
+*[[Zann Consortium/Legends|Zann Consortium]] {{C|stolen}}<ref name="Forces">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+}}
+{{Quote|Mauler ready.|A [[TIE series/Legends|TIE]] mauler [[Pilot/Legends|pilot]]|<ref name="EAW">''[[Star Wars: Empire at War]]''</ref>}}
+The '''TIE ap-1''', informally known as the '''TIE mauler''', was a light [[Galactic Empire/Legends|Imperial]] ground assault vehicle, created by [[Santhe/Sienar Technologies]], used during the early years of the [[Galactic Civil War/Legends|Galactic Civil War]]. Part of the [[Twin ion engine/Legends|Twin Ion Engine]], or [[TIE series/Legends|TIE]], series, the TIE mauler was created to fulfill the Empire's need for a fast ground assault vehicle to use against the growing [[Alliance to Restore the Republic/Legends|rebellion]] against them. The mauler was equipped with three [[Laser cannon/Legends|laser cannons]] and an enhanced [[Self-destruct mechanism/Legends|self-destruct mechanism]], and, due to its need for speed, was lightly armored. Although it was designed for the Galactic Civil War, it saw limited combat, and the mauler was phased out in favor of the [[TIE crawler/Legends|TIE crawler]], which was based on the design of the mauler.
+
+==Characteristics==
+[[File:Tiecrawlerpreyavin.jpg|thumb|left|A [[TIE series/Legends|TIE]] mauler in action.]]
+
+The TIE mauler was built around a standard [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]] cockpit, fixed between a pair of tank treads, instead of wings. As with its airborne brethren, the mauler emphasized speed and maneuverability at the expense of the protection of armor and [[Deflector shield/Legends|deflector shields]]. Because of their flimsiness, these vehicles were often deployed in groups of five. However, they often proved to be of optimum effectiveness when attacking in even larger numbers (such as 10-15) simply due to their speed, allowing multiple units to quickly overwhelm a defensive force by all attacking one target at a time, which, because of their weak, but rapid-fire cannons, proved highly effective for quickly demolishing lighter enemy resistance one target at a time. Given the right situation, TIE Maulers could end a battle that would normally be expected to be drawn-out by striking before the enemy had a chance to prepare their heavier defenses (assuming that they arrived before they were set up).
+
+Although TIE maulers were armed with three rapid fire blaster cannons, the drivers of these vehicles soon discovered that the vehicles' treads were also effective weapons (perhaps more so than the blaster cannons) against enemy troops. Gruesome displays of the ap-1 running over [[Alliance to Restore the Republic/Legends|Rebel]] soldiers earned it its nickname. Maulers were also equipped with [[Core Overload|core overload]] technology that could be activated in an emergency. This device would overload the engines, causing them to explode after a few moments. Rebel troops tried to use these few seconds to either destroy the mauler or flee.
+
+==History==
+{{Quote|Roll out!|A TIE mauler pilot|<ref name="EAW" />}}
+The vehicle was designed by [[Santhe/Sienar Technologies]] to fulfill the Empire's need for a fast, low-cost ground vehicle. As a result, maulers were used throughout the Galactic Civil War. However, they were the inspiration for the more advanced [[TIE crawler/Legends|century tank]], or TIE crawler.
+
+[[File:Mauler-lancet-recg.jpg|thumb|left|150px|A TIE Mauler being supported by a flight of [[Lancet Aerial Artillery]]]]
+
+==Appearances==
+*''[[Star Wars: Empire at War]]'' {{1st}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+
+==Sources==
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]] {{1stm}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|tiemauler|TIE mauler}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=TIE/ap-1
+|es=TIE ap-1
+|fi=TIE ap-1
+|no=TIE Mauler
+|pl=TIE ap-1
+|uk=TIE ap-1
+}}
+
+[[Category:Crawler and wheeled vehicle models]]
+[[Category:TIE series models|ap-1]]
+[[Category:Vehicle classes of the Galactic Empire]]

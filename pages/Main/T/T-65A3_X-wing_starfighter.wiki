@@ -1,0 +1,80 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=T-65A3 X-wing starfighter
+|designer=
+|manufacturer=[[Incom Corporation/Legends|Incom Corporation]]<ref name="negvv">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|line=[[X-wing starfighter/Legends|X-wing]]<ref name="negvv" />
+|model=T-65A3<ref name="negvv" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="negvv" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="negvv" />
+|hull=
+|sensor=
+|target=Equipped<ref name="negvv" />
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (4)<ref name="dt:o">''[[The New Jedi Order: Dark Tide I: Onslaught]]''</ref>
+*[[Proton torpedo/Legends|Proton torpedo]] magazines (2)<ref name="dt:o" />
+|complement=
+|bays=
+|escapepods=
+|crew=Pilot (1)<ref name="dt:o" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]<ref name="dt:o" />
+}}
+The '''T-65A3 X-wing''' was the [[Starfighter/Legends|starfighter]] flown by [[Rogue Squadron/Legends|Rogue Squadron]] in [[25 ABY/Legends|25 ABY]].<ref name="dt:o" />
+
+It was outfitted with improved [[Deflector shield/Legends|shields]], [[Targeting computer/Legends|targeting computers]] and [[Laser cannon/Legends|laser cannons]].<ref name="negvv" /> The T-65A3 was also used by [[Gavin Darklighter]] in the '[[skipchaser]]' simulation against a [[Yuuzhan Vong]] [[Yorik-et|coralskipper]].<ref name="dt:o" />
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]'' {{1st}}
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+
+==Sources==
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2006-10-19 -->{{Wizards|url=default.asp?x=starwars/article/SBPreview1|text=''Starship Battles'' Preview 1}}
+
+==Notes and references==
+{{Reflist}}
+
+{{X-WingVariantsNav}}
+
+{{Interlang
+|de=T-65A3 X-Flügel Sternenjäger#legends
+|es=Caza estelar T-65A3 Ala-X
+}}
+
+[[Category:Starship classes of the New Republic]]
+[[Category:X-wing starfighter models]]

@@ -1,0 +1,117 @@
+{{Top|canon=Auto-fighter}}
+{{Youmay|the [[TIE series/Legends|TIE]] [[Droid starfighter/Legends|droid starfighter]]|the [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE/D Defender]]}}
+{{StarshipClass
+|image=[[File:TIEDrone_DB.jpg]]
+|name=TIE/D automated starfighter
+|designer=
+|manufacturer=*[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="DES">''[[Dark Empire Sourcebook]]''</ref><ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref>
+*[[Cybot Galactica/Legends|Cybot Galactica]] (piloting system)<ref name="RS I guide" />
+*[[World Devastator]] factories (primary manufacturer)
+|line=[[TIE series/Legends|TIE Series]]<ref name="RS I guide" />
+|model=Twin Ion Engine Drone automated fighter
+|type=[[Droid starfighter/Legends|Droid starfighter]]<ref name="DES" /><ref name="RS I guide" />
+|cost=170,000 credits<ref name="DES" />
+|modifier=
+|sysmods=
+|length=6.1 [[Meter/Legends|meters]]<ref name="DES" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=100 [[Megalight|MGLT]]<ref name="RS I guide" />
+|max speed=1,300 km/h<ref name="DES" />
+|maneuverability=
+|engine=[[Sienar Fleet Systems/Legends|SFS]] [[Twin ion engine/Legends|twin ion engines]]
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="DES" />
+|poweroutput=
+|power=SFS [[Solar ionization reactor/Legends|solar ionization reactor]]
+|shield gen=None<ref name="DES" />
+|hull=[[Titanium/Legends|Titanium]] alloy hull with [[Quadanium steel/Legends|quadanium steel]] armor
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=[[Cybot Galactica/Legends|Cybot Galactica]] [[Ace-6 droid brain]] (1)<ref name="RS I guide" />
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] (2)<ref name="DES" /><ref name="RS I guide" />
+|complement=
+|bays=
+|escapepods=
+|crew=None
+|skeleton=
+|passengers=None
+|capacity=None<ref name="DES" />
+|cargohandling=
+|consumables=1 [[Standard day/Legends|day]]<ref name="DES" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Multi-environment attack fighter<ref name="DES" />
+|firstuse=[[10 ABY/Legends|10 ABY]]<ref name="DES" />
+|retired=
+|affiliation=[[Dark Empire]]<ref name="DES" />
+}}
+The '''TIE/D automated fighter''', or '''droid/drone TIE fighter''', was a [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighter]] used by the reborn [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]] during his attacks on the [[New Republic/Legends|New Republic]] in [[10 ABY/Legends|10 ABY]].
+
+==Characteristics==
+The [[TIE/D]] [[Droid/Legends|automated]] [[Starfighter/Legends|starfighter]] took the standard [[TIE series/Legends|TIE Series]] command pod with [[Twin ion engine/Legends|twin ion engines]] and twin [[Laser cannon/Legends|laser cannons]], additional armor plating and rectangular wing panels with adjustable pitch were added. Despite their heavier armor, they could actually reach a higher atmospheric speed than the [[TIE/IN interceptor/Legends|TIE/IN interceptors]]&mdash;overall, they were fast, small, and very expendable. A single TIE/D cost 170,000 [[Galactic Credit Standard/Legends|credits]].
+
+The starfighter had rectangular solar arrays with a movable wing servo to fuel the power generator. The 6.3 [[Meter/Legends|meter]]-long craft was capable of 100 [[Megalight|MGLT]]. Instead of a living pilot, the craft was equipped with a [[Cybot Galactica/Legends|Cybot Galactica]] [[Ace-6 droid brain]]. The 10-[[Kilogram/Legends|kilogram]] unit allowed [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] to increase the TIE/D's shielding.<ref name="RS I">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref>
+
+==History==
+[[File:TIEdroid_egvv.jpg|thumb|left|180px|[[TIE series/Legends|TIE]] [[Droid/Legends|droid]] [[:Category:Technical drawing images|schematics]].]]
+The TIE/D was initially developed by [[General/Legends|General]] [[Arndall Lott]], one of many post-[[Battle of Endor/Legends|Endor]] [[Warlord/Legends|warlords]].<ref name="DE">''[[Star Wars: Dark Empire]]''</ref> Sienar Fleet Systems engineers based the TIE/D on their original [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]], and as a result, many of the vehicle's design elements came from the standard TIE.<ref name="DB">[[StarWars.com]] [[Databank (original)|Databank]]</ref>
+
+With the automation experiment of the [[Katana fleet|''Katana'' fleet]] as his original inspiration, General Lott's first attempts at automated combat systems were based on [[Slave circuit|slaving]] multiple war machines to a single remote [[Pilot/Legends|pilot]]. Though this method saw limited success, its overall inefficiency and susceptibility to jamming prompted a new approach.<ref name="DE" />
+
+The [[Droid starfighter/Legends|droid starfighters]] of the [[Clone Wars/Legends|Clone Wars]] provided Imperial scientists with the basis for a new automated fighter. Every TIE/D had an integrated Cybot Galactica Ace-6 droid brain which could be updated with new tactics&mdash;despite this, it was still often easily outwitted by sentient starfighter pilots.<ref name="DB" />
+
+<div style="float:right">[[File:TieDSquad.jpg|thumb|180px|TIE/D automated starfighters swarm out from inside a World Devastator.]]</div>
+
+The finalized version of the TIE/D debuted against the [[New Republic/Legends|New Republic]] on [[Dac/Legends|Dac]], six years after the Battle of [[Endor/Legends|Endor]]. The Imperial [[World Devastator]]s invaded the world in the [[Battle of Calamari]], and their internal factories made swarms of TIE/Ds from the elements of the very world they attacked.<ref name="DE" />
+
+During the battle, TIE/D fighters were pitted against New Republic [[V-wing airspeeder|V-wings]] and [[E-7 E-wing multi-role starfighter|E-wings]].<ref name="DE" /> The massive numbers of TIE/Ds provided them with an inherent advantage, but New Republic pilots were able to outwit these drones just as [[Galactic Republic/Legends|Galactic Republic]] [[Clone trooper pilot/Legends|clone]] and [[Jedi/Legends|Jedi]] pilots were able to outwit [[Confederacy of Independent Systems/Legends|Separatist]] droid starfighters in the past.<ref name="DB" /> The New Republic's [[Rogue Squadron/Legends|Rogue Squadron]] battled and defeated squadrons of the automated starfighters, which were attacking [[Mon Calamari/Legends|Mon Calamari]] [[City/Legends|cities]].<ref name="RS I" /> At a similar time, squadrons of TIE/D starfighters also destroyed the [[Mandator III-class dreadnought|''Mandator III''-class dreadnought]] ''[[Aculeus]]''.
+
+When the tide turned against the Empire on Mon Calamari, most of their TIE/D manufacturing capability was destroyed along with the World Devastators.<ref name="DB" />
+
+Robotic TIE Fighters were found abandoned in [[Supreme Warlord]] [[Blitzer Harrsk|Harrsk's]] [[Deep 3]] Shipyard. However, it is unknown if they are the same model. These were subsequently used by the [[Imperial Remnant/Legends|Imperial Remnant]] well into the Yuuzhan Vong War.
+
+==Behind the scenes==
+After premiering in the ''[[Star Wars: Dark Empire]]'' comic book, the TIE/D was the first [[Star Wars Legends|Expanded Universe]] [[LEGO Star Wars|LEGO ''Star Wars'']] set, released in the TIE Collection set (10131).
+
+==Appearances==
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Dark Empire (audio drama)|''Dark Empire'' audio drama]] {{Mo}}
+*[[Dark Empire 3|''Dark Empire'' 3]] {{1st}}
+
+==Sources==
+{{Mediacat|imagecat=Images of TIE/D automated starfighters}}
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 2004-10-26 -->''[[The New Essential Guide to Weapons and Technology]]''
+*<!-- 2005-03-09 -->{{Hyperspace|url=hyperspace/member/insideronline/81/indexp7.html|text=Droids, Technology and the Force: A Clash of Phenomena|int=Droids, Technology and the Force: A Clash of Phenomena (article)}}
+*<!-- 2011-09-13 -->{{DB|starship|tiedfighter|TIE/D fighter}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|cs=Automatizovaná stíhačka TIE/D
+|de=TIE/D-Automatisierter Jäger
+|es=Caza estelar autómata TIE/D
+|fr=TIE droïde
+|pl=TIE/D
+}}
+
+[[Category:Cybot Galactica products]]
+[[Category:Droid starfighter classes]]
+[[Category:Starship classes of the Dark Empire]]
+[[Category:TIE series models|D-d Droid]]

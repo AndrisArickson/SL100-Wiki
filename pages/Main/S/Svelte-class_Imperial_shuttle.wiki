@@ -1,0 +1,80 @@
+{{Top|leg|title=''Svelte''-class Imperial shuttle}}
+{{StarshipClass
+|image=[[File:Svelte_shuttle_JASB.jpg]]
+|name=''Svelte''-class Imperial shuttle
+|designer=
+|manufacturer=[[Silviut Corporation]]<ref name="JAS">''[[The Jedi Academy Sourcebook]]''</ref>
+|line=
+|model=''Svelte''-class Imperial shuttle<ref name="JAS" />
+|type=[[Shuttle/Legends|Shuttle]]<ref name="JAS" />
+|cost=Not available for sale<ref name="JAS" /> {{C|approx. value likely 280,000 [[Galactic Credit Standard/Legends|credits]]}}
+|modifier=
+|sysmods=
+|length=17 [[Meter/Legends|meters]]<ref name="JAS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|km/h]]<ref name="JAS" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="JAS" />
+*Class 5.0 {{C|backup}}<ref name="JAS" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="JAS" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="JAS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Double [[Blaster cannon/Legends|blaster cannons]] (2)<ref name="JAS" />
+*Double [[Laser cannon/Legends|laser cannons]] (2)<ref name="JAS" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilots]] (2)<ref name="JAS" />
+*[[Gunner/Legends|Gunners]] (4)<ref name="JAS" />
+|skeleton=1<ref name="JAS" />
+|passengers=15<ref name="JAS" />
+|capacity=50 [[Metric ton/Legends|metric tons]]<ref name="JAS" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="JAS" />
+|lifesupport=
+|communications=
+|othersystems=Dorsal "wing" panels raise/lower, similar to ''Lambda''- or ''Theta''-class shuttle fins
+|availability=
+|role=*Long-distance personnel shuttle
+*Troop transport
+*Combat support
+|firstuse=Post-[[Thrawn campaign]]
+|retired=
+|affiliation=[[Imperial Remnant/Legends|Imperial Remnant]]
+}}
+The '''''Svelte''-class Imperial shuttle''' was a multi-purpose [[Transport/Legends|transport]] utilized by the [[Imperial Remnant/Legends|Imperial Remnant]] that was designed as a more aggressive replacement for the aging [[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttle]] of the [[Galactic Empire/Legends|Galactic Empire]].
+
+==Characteristics==
+The [[Silviut Corporation]] leveraged its experience as a subcontractor to craft a superior vessel, capable of both long-range transport and space combat support. While inferior to a true [[Starfighter/Legends|starfighter]], the ''Svelte''-class shuttle was capably maneuverable and well-armed for a shuttle.<ref name="SOTG">''[[Starships of the Galaxy]]''</ref>
+
+Often dubbed the "[[Anakin Skywalker/Legends|''Vader'']]-class" shuttle by Imperial pilots, the shuttle's black finish indeed gave it the appearance reminiscent of a space-borne beetle or the famous [[Sith Lord/Legends|Sith Lord]].<ref name="SOTG" />
+
+==Sources==
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]'' {{1stm}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Lanzadera Imperial clase Svelte
+}}
+
+[[Category:Shuttle classes]]
+[[Category:Silviut Corporation products]]
+[[Category:Starship classes of the Imperial Remnant]]

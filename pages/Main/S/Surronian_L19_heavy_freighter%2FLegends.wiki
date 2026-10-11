@@ -1,0 +1,78 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:L19_Heavy_Freighter.jpg]]
+|name=Surronian L19 heavy freighter
+|designer=
+|manufacturer=[[Surron StarTech]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|line=
+|model=
+|type=[[Heavy freighter]]<ref name="PP" />
+|cost=*75,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="SS">''[[Stock Ships]]''</ref>
+*28,500 credits (used)<ref name="SS" />
+|modifier=
+|sysmods=
+|length=50 [[Meter/Legends|meters]]<ref name="PP" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="PP" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="PP" />
+*[[Backup hyperdrive|Class 16]] {{C|Backup}}<ref name="PP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="PP" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="PP" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="PP" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Twin [[Blaster cannon/Legends|blaster cannon]]<ref name="PP" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="PP" />
+|skeleton=
+|passengers=10<ref name="PP" />
+|capacity=150 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=8 [[Standard week/Legends|weeks]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Short-range cargo transport<ref name="PP" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Surronian L19 heavy freighter''' was a [[Freighter/Legends|freighter]] produced by [[Surron StarTech]]. It included [[A1.50 grade ion engine|A1.50]] [[Ion engine/Legends|ion engines]].
+
+[[Moff/Legends|Moff]] [[Aricos Dreleene]] owned an L19, named the ''[[Almost Authentic|First Edition]]''. He had modified this ship, however, to resemble a more expensive [[L19a freighter|L19a]].
+
+About 50 meters in length, the L19 could move at 950 Km/h within atmosphere, and contained two hyperdrives (one for backup and one for primary use), the quality of which was relatively low unless upgraded by the owner.
+The L19 freighter was flown by a single pilot and had the capacity to house 10 passengers, as well as 150 metric tons of cargo.
+The ship also boasted the pantry space to hold about 8 weeks.
+Surron StarTech's L19 heavy freighter was its second attempt to make its mark on the freighter market with a short-range hauler. Being inexpensive, the L19 enjoyed moderately wide use, although never recognized by the galaxy at large anywhere as much as the YT series freighters and the like.
+
+==Sources==
+*<!-- 1995-02-XX -->{{JournalCite|5|Smugglers of the Outer Rim}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]
+[[Category:Surron StarTech products]]
+
+{{RelatedCategories
+|[[Category:Surronian L19 heavy freighters]]
+}}

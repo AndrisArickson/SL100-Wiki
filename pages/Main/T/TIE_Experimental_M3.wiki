@@ -1,0 +1,91 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:TIE-M3_XWA.jpg]]
+|name=TIE Experimental M3
+|designer=[[TIE Experimental Project]] under [[Director/Legends|Director]] [[Lenzer]]<ref name="XWA" />
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=[[TIE series/Legends|TIE Series]]<ref name="XWA" />
+|model=Twin Ion Engine Experimental M3 (T/e3)<ref name="XWA" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="XWA" /><ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|cost=Not available for sale<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=9.6 [[Meter/Legends|meters]]<ref name="XWA" />
+|width=
+|height=
+|mass=
+|max accel=20 [[Megalight|MGLT]]/[[Standard second|sec]]<ref name="XWA" />
+|mglt=102 MGLT<ref name="XWA" />
+|max speed=1,250 [[Kilometer per hour/Legends|km/h]]<ref name="RECG" />
+|maneuverability=102 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=[[Twin ion engine/Legends|Twin ion engines]]<ref name="XWA" />
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="RECG" />
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="RECG" />
+*Optional (30 [[SBD/Legends|SBD]])<ref name="XWA" />
+|hull=[[Titanium/Legends|Titanium]] alloy hull (16 [[RU/Legends|RU]])<ref name="XWA" />
+|sensor=
+|target=
+|navigation=None ([[Slave circuit|slaved]] to control ship)<ref name="XWA" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 warhead launchers<ref name="XWA" />
+*Standard load: 8 [[Concussion missile/Legends|concussion missiles]]<ref name="XWA" /><ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=Remote control system<ref name="XWA" /><ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=75 [[Kilogram/Legends|kilograms]]<ref name="RECG" />
+|cargohandling=
+|consumables=None<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=Experimental [[Bomber/Legends|bomber]]<ref name="XWA" />
+|firstuse=[[3 ABY/Legends|3 ABY]]<ref name="XWA" />
+|retired=Apparently [[3 ABY/Legends|3 ABY]]<ref name="XWA" />
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="XWA" /><ref name="RECG" />
+}}
+The '''TIE Experimental M3''', also known as the '''TIE Warhead''', was an experimental member of the [[TIE series/Legends|TIE Series]] and a part of the [[TIE Experimental Project]].
+
+==Characteristics==
+One of the [[Starfighter/Legends|starfighters]] built by an [[Galactic Empire/Legends|Imperial]] research project led by [[Director/Legends|Director]] [[Lenzer]] under the command of [[Grand Admiral/Legends|Grand Admiral]] [[Demetrius Zaarin]], the M3 was essentially a standard [[TIE/IN interceptor/Legends|TIE/IN interceptor]] but with the original [[Laser cannon/Legends|laser cannons]] removed and a pair of warhead launchers mounted on the outer wing hubs.<ref name="XWA" />
+
+Being based on the TIE Interceptor, the M3 had nearly the same performance, with only slightly reduced maneuverability and speed. Like the other TIE Experimentals, the M3 was remotely controlled by a modified [[Beta-class ETR-3 escort transport|''Beta''-class ETR-3 escort transport]]. Most TIE M3's also had [[Deflector shield/Legends|shield]] generators added with no discernible loss of performance.<ref name="XWA" />
+
+==History==
+[[File:TIEexperimentalM3-RECG.jpg|thumb|left|180px|A [[Renegade Squadron/Legends|Renegade Squadron]] member prepares to steal a docked TIE Warhead.]]
+
+At some point, TIE Experimental M3s crippled an [[T-65 X-wing starfighter/Legends|X-wing]] group, but the first major [[Alliance to Restore the Republic/Legends|Alliance]] engagement with the M3 occurred when [[Admiral/Legends|Admiral]] [[Yamarus/Legends|Yamarus]] ordered a decoy convoy of [[MB-C1 medium transport]]s and [[Z-95 Headhunter/Legends|Z-95 Headhunters]] to draw out the Experimentals and their control craft. The lure was successful, and the Z-95's, armed with experimental [[ion pulse]] warheads, managed to disable or destroy the entire Imperial attack force. The TIEs were found to be unmanned, and the life-support systems on the control craft were rigged to malfunction as soon as the transports were disabled.<ref name="XWA" /> [[Renegade Squadron/Legends|Renegade Squadron]] also made an attempt to steal a vessel of this class.<ref name="RECG" /><!-- Picture on page 30, no further details -->
+
+Later, when the Alliance ordered an intelligence-gathering strike on a TIE Experimental production facility, several waves of M3 fighters were found in the station's defense screen. The Empire launched a retaliatory strike on the cruiser [[Liberty/Legends|''Liberty'']], which included TIE M3's as the primary assault [[Bomber/Legends|bomber]]. They were also present at the main research facility, defending the hangar ship ''[[Sardis/Legends|Sardis]]'' and [[Space station/Legends|space station]] [[Obsidian (XQ1 Platform)|''Obsidian'']].<ref name="XWA" />
+
+After the destruction of space platform ''Obsidian'', no TIE Experimental fighters were seen again.<ref name="XWA" />
+
+==Appearances==
+*''[[Star Wars: X-Wing Alliance]]'' {{1st}}
+
+==Sources==
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=Experimenteller TIE-Jäger M3
+|es=TIE Experimental M3
+|fr=TIE Expérimental M3
+|pl=TIE/e3
+}}
+
+[[Category:TIE prototypes]]

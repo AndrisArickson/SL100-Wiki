@@ -1,0 +1,81 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:TIEFighter.png]]
+|name=TIE Light Duty
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="Galaxies website">{{SonyCite|url=en_US/players/content.vm?id=66876&resource=features|text=Ships: TIE Fighter (all)}}</ref>
+|line=[[TIE series/Legends|TIE Series]]<ref name="Galaxies website" />
+|model=Twin Ion Engine light starfighter<ref name="Galaxies website" />
+|type=Light [[Starfighter/Legends|starfighter]]<ref name="Galaxies website" />
+|cost=Not for sale<ref name="Galaxies website" />
+|modifier=
+|sysmods=
+|length=6.3 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=*SFS [[Twin ion engine/Legends|twin ion engines]]<ref name="Galaxies website" />
+*SFS ion maneuvering jets<ref name="Galaxies website" />
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="Galaxies website" />
+|poweroutput=
+|power=*SFS solar ionization reactor (with limiters)<ref name="Galaxies website" />
+*Secondary generator for cannons
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=SFS [[L-s1 laser cannon/Legends|L-s1 laser cannons]] (2)<ref name="Galaxies website" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="Galaxies website" />
+|skeleton=
+|passengers=None<ref name="Galaxies website" />
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Light starfighter<ref name="Galaxies website" />
+*Training ship<ref name="Galaxies website" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="Galaxies website" />
+}}
+The '''TIE Light Duty''' was a light [[Starfighter/Legends|starfighter]] used by the [[Galactic Empire/Legends|Galactic Empire]] during the [[Galactic Civil War/Legends|Galactic Civil War]], frequently serving as training ships. They were often reconditioned standard [[TIE series/Legends|TIEs]]. TIE Light Duty starfighters had inferior components, lighter armor, and less firepower in order not to be too dangerous to novice pilots. This reduction in firepower also helped to put less stress on fragile reactors and superstructures.
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{1st}}
+
+==Sources==
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66876&resource=features|text=Ships: TIE Fighter (all)}}
+
+==Notes and references==
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|es=Guardián ligero TIE
+|fi=TIE Light Duty
+}}
+
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:TIE series models]]

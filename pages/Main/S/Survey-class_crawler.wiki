@@ -1,0 +1,64 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=Survey-class crawler
+|designer=
+|manufacturer=[[Tagge Company/Legends|TaggeCo]]<ref name="sw6">{{GamerCite|6|Unusual Suspects}}</ref>
+|line=
+|model=Survey-class crawler<ref name="sw6" />
+|type=Ground<ref name="sw6" />
+|cost=
+|modifier=
+|sysmods=
+|length=40 meters<ref name="sw6" />
+|width=
+|height=7 meters<ref name="sw6" />
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot (1)<ref name="sw6" />
+*Co-pilot (1)<ref name="sw6" />
+|skeleton=
+|passengers=26<ref name="sw6" />
+|capacity=20 metric tons<ref name="sw6" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Survey-class crawler''' was a type of [[Sandcrawler/Legends|sandcrawler]].
+
+==Characteristics==
+The crawler was a miniature version of the [[Corellia Mining Corporation/Legends|Corellia Mining Corporation]] [[digger crawler]] used by the [[Jawa/Legends|Jawas]] on [[Tatooine/Legends|Tatooine]]. They were deployed and produced by manufacturer [[Tagge Company/Legends|TaggeCo]].
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 2001-09-04 -->{{GamerCite|6|Unusual Suspects}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Sandcrawler models]]
+[[Category:Tagge Company products]]

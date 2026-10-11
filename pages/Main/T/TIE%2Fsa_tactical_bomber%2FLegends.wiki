@@ -1,0 +1,458 @@
+{{Top}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:TIEBomber-SotGSE.png]]
+|name=TIE/sa tactical bomber
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="TNEGtVaV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|line=[[TIE series/Legends|TIE Series]]<ref name="TNEGtVaV" />
+|model=Twin Ion Engine/sa bomber
+|type=Space/[[Planet/Legends|planetary]] [[Bomber/Legends|bomber]]
+|cost=
+|modifier=
+|sysmods=
+|length=7.8 [[Meter/Legends|meters]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="TNEGtVaV" /><ref name="IS">''[[Imperial Sourcebook]]''</ref>
+|width=8.6 meters<ref name="IS" />
+|height=5.0 meters<ref name="IS" />
+|mass=
+|max accel=*2,380 G<ref name="TNEGtVaV" />
+*13 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=*80 MGLT with empty warhead launchers<ref name="XWA" />
+*60 MGLT with a full payload of warheads<ref name="XWA" />
+|max speed=850 [[Kilometer per hour/Legends|km/h]]<ref name="BtM" />
+|maneuverability=86 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=SFS [[P-s4 twin ion engine]]s<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref> (rated 125 [[KTU]])
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="CCS" /> {{C|could be equipped as upgrade}}
+|poweroutput=
+|power=SFS [[I-a2b solar ionization reactor/Legends|I-a2b solar ionization reactor]]<ref name="CCS" />
+|shield gen=None<ref name="XWA" />
+|hull=[[Titanium/Legends|Titanium]] alloy hull with [[Quadanium steel/Legends|quadanium steel]] armor<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref> {{C|rated 28 [[RU/Legends|RU]]}}<ref name="XWA" />
+|sensor=
+|target=*SFS [[T-s7b targeting computer/Legends|T-s7b targeting computer]]
+*[[Nordoxicon/Legends|Nordoxicon]] bomb sight
+|navigation=SFS [[N-s4 Navcon/Legends|N-s4 Navcon]]
+|avionics=SFS [[F-s3.2 flight avionics system|F-3.2 flight avionics system]]
+|maincomp=
+|countermeasures=
+|armament=*SFS [[L-s1 laser cannon/Legends|L-s1 laser cannons]] (2)<ref name="BtM" />
+*SFS [[T-s5 proton torpedo launcher/Legends|T-s5 proton torpedo launchers]] (2)<ref name="BtM" />
+**Standard load: 4 [[Proton torpedo/Legends|torpedoes]] each {{C|often modified to hold 6 each}}
+*SFS [[M-s3 concussion missile launcher/Legends|M-s3 concussion missile launchers]] (2)<ref name="BtM" />
+**Standard load: 8 [[Concussion missile/Legends|missiles]] each {{C|often modified to hold 10 each}}
+*Bomb bay {{C|variable load}} (1)
+**[[ArmaTek/Legends|ArmaTek]] [[SJ-62/68 orbital mine/Legends|SJ-62/68 orbital mines]]<ref name="CCS" />
+**ArmaTek [[VL-61/79 proton bomb/Legends|VL-61/79 proton bombs]]<ref name="CCS" />
+**[[Thermal detonator/Legends|Thermal detonators]]<ref name="RS I guide" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="CCS" />
+|skeleton=
+|passengers=Optional<ref name="CCS" />
+|capacity=*None in flight pod
+*15 [[Metric ton/Legends|metric tons]] in bomb bay<ref name="BtM" />
+|cargohandling=
+|consumables=2 [[Standard day/Legends|days]]<ref name="CCS" />
+|lifesupport=[[Life support/Legends|Life-support system]] equipped<ref name="TNEGtVaV" />
+|communications=
+|othersystems=[[Ejector seat/Legends|Ejector seat]]
+|availability=
+|role=*[[Heavy assault starfighter/Legends|Heavy assault ship]]<ref name="TNEGtVaV" />
+*Light space bomber<ref name="IS" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="TESB">{{Film|V}}</ref>
+**[[Starfighter Corps (Galactic Empire)/Legends|Starfighter Corps]]<ref name="TESB" />
+*[[Zann Consortium/Legends|Zann Consortium]]
+*[[Zsinj's Empire]]<ref name="Wraith">''[[X-Wing: Wraith Squadron]]''</ref>
+*[[Thrawn's confederation]]<ref name="TLC">''[[The Last Command]]''</ref>
+*[[Dark Empire]]
+*[[United Warlord Fleets]]<ref name="Darksaber">[[Darksaber (novel)|''Darksaber'']]</ref>
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="Rev">{{LivingForce|Polarization: Revelations}}</ref>
+}}
+{{Quote|When the TIE bombers first started shelling Yavin 4, I thought the planet would crack right open. Those egg layers leveled the jungle.|[[Tigran Jamiro/Legends|Tigran Jamiro]]|<ref name="TNEGtVaV" />}}
+The '''TIE/sa tactical bomber''', simply known as the '''TIE/sa bomber''', '''TIE bomber''' or '''T/B''',<ref name="TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref> was a larger, less maneuverable [[TIE series/Legends|TIE]] [[Starfighter/Legends|starfighter]] used for destroying large [[Starship/Legends|starships]] and pinpoint-precision [[Bomber/Legends|bombing]]. The "sa" in the TIE bomber's designation stood for "surface assault."
+
+Due to their distinctive dual-hull shape and aluminium armour, TIE bombers came to be referred to occasionally as "[[List of phrases and slang/Legends|dupes]]" or (albeit indirectly) "sitting ducks" by enemy pilots. The latter nickname was due to its bulky structure making it much slower and far less maneuverable than other TIE craft.
+
+==Characteristics==
+[[File:TIEb_btm.jpg|thumb|left|180px|TIE bombers bombing the surface of [[Yavin 4/Legends|Yavin 4]]]]
+The TIE/sa [[Bomber/Legends|bomber]] had two hulls next to each other; the starboard hull carried the pilot, and the port carried a pair of general-purpose warhead launchers, enabling them to carry a variety of weapons tailored for the mission. The bomber was much more heavily built up than the "fighter" series of TIEs; it carried more sophisticated sensors to penetrate capital ship jamming and [[Sienar Fleet Systems/Legends|SFS]] [[P-s4 twin ion engine]]s powered by a SFS [[I-a2b solar ionization reactor/Legends|I-a2b solar ionization reactor]] to allow a full payload to be carried at a reasonable speed. The ordnance hull could also be swapped for a passenger cabin instead of heavy weapons.
+
+An [[Imperial-class Star Destroyer/Legends|Imperial Star Destroyer]] generally carried a [[Squadron/Legends|squadron]] of 12 bombers.<ref name="RS I guide" /> The TIE bomber was capable of carrying at least one of the following payloads, for a total of 15 [[Metric ton/Legends|metric tons]]:<ref name="RS II guide">''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''</ref> sixteen [[Concussion missile/Legends|concussion missiles]], twelve [[Proton torpedo/Legends|proton torpedoes]], eight [[Proton rocket/Legends|proton rockets]], six [[Space mine/Legends|space mines]], four [[Proton bomb/Legends|proton bombs]], sixty-four [[Thermal detonator/Legends|thermal detonators]], thousands of [[Propaganda/Legends|propaganda]] pamphlets, or supply canisters. Guided concussion missiles/proton torpedoes were generally carried nearing the inside of the second hull, orbital mines were placed in a rack above the missile rack, while proton bombs and orbital mines were generally near the exterior of the hull, near the bomb-drop chute. In addition, the second hull also possessed an ordnance maneuvering arm that retrieves and loads armaments. Its fixed armament was two wing-mounted laser cannons.
+
+The bomber was agile enough to deliver devastating strikes with surgical precision, as shown by a mission when a group of these craft destroyed a Rebel-occupied tower in the middle of a crowded city while leaving the surroundings untouched.
+
+Nonetheless, the bomber was slower and less maneuverable than the [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]]. Like most mass-produced [[TIE series/Legends|TIEs]], it lacked shields, though it did partly compensate by having a stronger hull. This was largely why one of its nicknames by Rebel pilots was "sitting duck," as they were considered easy prey. Standard Imperial doctrine required that bombers be escorted to target by other starfighters.
+
+[[File:TIEbomber_schem.jpg|thumb|left|180px|TIE bomber [[:Category:Technical drawing images|schematics]]]]
+While not expected to engage enemy fighters in dogfights due to their slower speed and agility, TIE bombers could target them from a standoff distance with their large magazines of concussion missiles. During the conflict at [[Mylok IV]], a squadron of [[Demetrius Zaarin]]'s bombers held off large numbers of [[Nharwaak]] and Rebel [[BTL Y-wing starfighter/Legends|Y-wings]], allowing the Imperials to aid the [[Habeen]] in evacuating their base. Due to a shortage of TIE Interceptors during the pacification of the [[Pakuuni system/Legends|Pakuuni system]], [[Maarek Stele/Legends|Maarek Stele]] thrust his bomber into the space superiority role against Rebel and pirates, once defending [[Mitth'raw'nuruodo/Legends|Thrawn's]] craft from an attack while he visited the newly completed outpost [[NL-1]].<ref name="TF" /> Imperial commanders used bombers to counter Rebel [[A/SF-01 B-wing starfighter/Legends|B-wing starfighters]], with the TIEs launching their missiles directly into their flightpaths.<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+
+[[File:Corellian_corvette_TIE_bombers.jpg|thumb|right|250px|TIE/sa bombers assaulting a [[CR-series/Legends|CR-series corvette]].]]
+The TIE bomber's lack of shields was exploited by enemy forces during the [[Sepan Civil War]]. There, the [[Ripoblus (people)|Ripoblus]] conducted an attack on the [[Dimok (people)|Dimok]] [[Battle of Science Station Youst|Science Station Youst]] spearheaded by six [[Gamma-class ATR-6 assault transport|Assault Transports]]. The station's defending fighters, consisting of [[Z-95 Headhunter/Legends|Z-95 Headhunters]] and [[Delta-class JV-7 escort shuttle|''Delta''-class JV-7 escort shuttles]], quickly fell victim to the turrets of the ATR-6 that they were trying to attack. When Admiral [[Harkov]]'s forces entered the area to repel the Ripoblus, they deployed TIE bombers to take out the ATR-6s from a safe distance with [[Proton torpedo/Legends|proton torpedoes]]. Imperial pilots discovered that a full-strength ATR-6 could survive even three torpedo hits, with several bombers lost trying to finish off the injured ATR-6 with laser cannon fire. [[Maarek Stele/Legends|Maarek Stele]] opted wisely to replace his payload with proton rockets, which required more careful aiming, but one of these devastating warheads was enough to quickly destroy an ATR-6. Near the end of the campaign, while covering the transfer of [[TIE/ad starfighter|TIE Avengers]], Stele distracted the gunners of the Dimok cruiser ''[[Ben Het]]'' so bombers could safely conduct their torpedo runs against it, resulting in its destruction.<ref name="TF" />
+
+The TIE bomber, unlike other TIE models, was also equipped with life-support systems and a cockpit ejection seat, although pilots still wore flight suits in case of an emergency.
+
+==History==
+{{Quote|Watch out for those TIE bombers.|[[Crix Madine/Legends|Crix Madine]] during the [[Battle of Hoth/Legends|Battle of Hoth]]|<ref name="RS III">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref>}}
+[[File:MonCalamariBombingRun.jpg|left|thumb|220px|TIE bombers attacking a base on [[Dac/Legends|Mon Calamari]]]]
+The TIE bomber succeeded the [[TIE/gt starfighter]] as the Empire's primary ground-assault craft in the TIE series. The TIE/gt was the first of the series to have its main pod elongated from a sphere to a cylindrical shape to accommodate a bomb bay. Backwater planets and lower-priority capital ships had to initially make do with the TIE/gt, though the eventual widespread adaptation of the bomber phased out the gt in areas such as the [[Dantooine system/Legends|Dantooine system]], where [[McDibbs|"Deathfire" McDibs]] was known to pilot one. The TIE/sa bomber adopted a longer, though similarly elongated, pod to that of the TIE/gt for its dual-pod design and used larger curved wings, with an increased surface area of solar ionization paneling, providing higher power output to accommodate the increase in mass.
+
+The TIE bomber came into service during the early years of the Empire and was used to quell the [[Separatist holdouts/Legends|Separatist holdouts]] still active at the time, namely [[Gizor Dellso]]'s fleet of former CIS naval starships and [[Gizor Dellso's army|private droid army]].<ref name="BFII">''[[Star Wars: Battlefront II]]''</ref>
+
+Two [[Standard month/Legends|months]] after the [[Battle of Yavin/Legends|Battle of Yavin]], TIE bombers were deployed during a Rebel [[Scout/Legends|scouting]] [[Mission to Dominus III|mission]] to the [[Dominus sector/Legends|Dominus sector]] to bomb the Rebel scouts, but the Rebels escaped the bombers.<ref name="SW 1 (DH)">[[Star Wars (2013) 1|''Star Wars'' (2013) 1]]</ref> A short while later, at least one bomber was equipped with a pod under its fuselage. The bomber had a hyperdrive, and under the orders of [[Colonel/Legends|Colonel]] [[Kell Bircher|Bircher]], the pilot followed [[Stealth Squadron]] away from an [[Ambush of Gray Flight|ambush]]. It detonated, severely damaging [[Leia Organa Solo/Legends|Leia Organa's]] X-wing.<ref name="SW 5 (DH)">[[Star Wars (2013) 5|''Star Wars'' (2013) 5]]</ref>
+
+{{GameMechanics|legends=1|Star Wars: Galactic Battlegrounds}}
+TIE bombers were constructed at [[Airbase/Legends|Imperial Airbases]] on the order of [[Anakin Skywalker/Legends|Darth Vader]] during campaigns against the Rebel Alliance.<ref name="SW:GB">''[[Star Wars: Galactic Battlegrounds]]''</ref>
+{{Endgame}}
+
+During the [[Evacuation of Yavin]], TIE bombers bombed the [[Great Temple/Legends|Great Temple]], although several were destroyed by traps planted by [[General/Legends|General]] [[Jan Dodonna/Legends|Jan Dodonna]].<ref name="SW:GB" />
+
+[[File:SIEN01AB.jpg|left|thumb|Sienar Fleet Systems' advertisement for the TIE/sa Bomber]]
+
+Around six months after the Battle of Yavin, the Empire [[Ambush at Mos Eisley|dispatched]] TIE bombers to [[Luke Skywalker/Legends|Luke Skywalker's]] [[Homeworld/Legends|homeworld]], [[Tatooine/Legends|Tatooine]].<ref name="RS I guide" /> The six-ship detachment attacked [[Mos Eisley/Legends|Mos Eisley]] [[Spaceport/Legends|Spaceport]], but were eliminated by the Rebels' [[Rogue Squadron/Legends|Rogue Squadron]]. A group on the planet [[Barkhesh/Legends|Barkhesh]] attempted to interdict a [[Barkhesh Resistance]] [[Convoy/Legends|convoy]], but were stopped by Rogue Squadron. A flight was also [[Search for the Nonnah|sent to bomb]] the crashed Rebel [[Starship/Legends|starship]] ''[[Nonnah]]'' but failed in their mission. A squadron was also sent to [[Corellia/Legends|Corellia]] to [[Battle of Corellia (1 ABY)|interdict]] the defection of [[Crix Madine/Legends|Crix Madine]]. Although the craft destroyed the [[Coronet Capitol Tower]], they were unable to prevent the escape of Madine. TIE bombers were also stationed at the [[Weapons Research Facility]] on [[Fest/Legends|Fest]], and attempted to [[Escape from Fest|destroy]] a Rebel [[Commando/Legends|commando]] team which had absconded with [[All Terrain Personal Transport/Legends|All Terrain Personal Transports]], but were again stopped by Rogue Squadron. A squadron was subsequently assigned to [[Blockade on Chandrila|blockade]] Chandrila, where they failed to stop an [[armored hovertrain]] escorted by Rogue Squadron. Later, a squadron led by [[Moff/Legends|Moff]] [[Kohl Seerdon]] [[Attack on Thyferra|attacked]] [[Thyferra/Legends|Thyferra's]] [[Bacta/Legends|bacta]] supplies, but were again intercepted by Rogue Squadron.<ref name="RS I">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref>
+
+During [[Tycho Celchu/Legends|Tycho Celchu's]] [[Mission to Dantooine|defection]], TIE bombers attempted to interdict the pilot.<ref name="RS III" />
+
+During the [[Battle of Hoth/Legends|Battle of Hoth]], several TIE bomber squadrons attacked escaping Rebel transports trying to run the blockade, causing significant losses among them. Only the intervention of Rogue Squadron in holding off enough of the bombers allowed the greater part of the Rebels to escape.<ref name="RS II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref><ref name="RS III" /> Shortly afterwards, a pair of these craft were used to bomb the [[Big One/Legends|asteroid]] in which the [[Millennium Falcon/Legends|''Millennium Falcon'']] was hiding.<ref name="SWE5">{{Film|V}}</ref>
+
+During the [[Raid at Bakura]], [[Wedge Antilles/Legends|Wedge Antilles]] hijacked a TIE bomber from the prison facility to help save [[Derek Klivian/Legends|Derek Klivian]], who crash-landed on the surface of the planet.<ref name="RS III" /> Bombers also participated in various conflicts on Bespin, including a [[Raid on Bespin|minor raid]] conducted by the Rebel Alliance,<ref name="RS II" /> and the [[Battle of Bespin (Galactic Civil War)|Battle of Bespin]].<ref name="BFI">''[[Star Wars: Battlefront]]''</ref>
+
+After the [[Battle of Endor/Legends|Battle of Endor]], TIE bombers were among the forces which fought against the [[Wookiee/Legends|Wookiee]] [[Liberation of Kashyyyk/Legends|liberation effort]].<ref name="SW:GB" />
+
+In [[14 ABY/Legends|14 ABY]], two TIE bombers were stationed at [[Vjun/Legends|Vjun]] and tried to stop the [[Jedi/Legends|Jedi]] [[Jaden Korr]] from entering [[Bast Castle]].<ref name="SW:JA">''[[Star Wars: Jedi Knight: Jedi Academy]]''</ref>
+
+TIE bombers continued to see extensive use throughout the [[Galactic Civil War/Legends|Galactic Civil War]], where they often performed [[bombing run]]s on enemy forces, and even saw action in the early part of the [[Yuuzhan Vong War]].
+Thousands of TIE bombers saw action with the [[Galactic Alliance Defense Fleet]] during the whole Sith-imperial war.
+
+At least one TIE bomber survived up to [[139 ABY]], where it acted as the personal ship of a [[Unidentified masked bounty hunter|mysterious masked bounty hunter]]. It was summoned via remote control through her cybernetic hand, an element that resulted in her death when [[Ania Solo]] had used the removed cybernetic hand to summon the ship to crush its owner.
+
+===Successors===
+[[File:TIEbomber_negvv.png|thumb|right|180px|A TIE bomber]]
+The TIE bomber quickly supplanted the [[TIE/gt starfighter]] as the Imperial Navy's front-line assault bomber. Despite its disadvantages, notably its lack of speed, shields, and hyperdrive, it endeared itself to bureaucracy as it could be mass-produced like other inexpensive TIEs.
+
+Other warhead-carrying fighters such as the [[Alpha-class Xg-1 Star Wing/Legends|Assault Gunboat]], [[TIE/ad starfighter|TIE Avenger]] (despite its lower magazine capacity), [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE Defender]], and [[Missile Boat]], despite having shields and a hyperdrive, were far costlier and only found deployment in specific missions. The TIE bomber thus remained the mainstay of the Imperial Navy's heavy fighters. One of its most notable accomplishments was the destruction of [[Ali Tarrak]]'s [[Deep Space Manufacturing Facility|TIE Defender manufacturing facility]].
+
+Around the time the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] surfaced, approximately [[3 BBY/Legends|3 BBY]], the [[Sith Lord/Legends|Sith Lord]] [[Anakin Skywalker/Legends|Darth Vader]] commissioned the development of the [[TIE Advanced x1/Legends|TIE Advanced x1]] starfighter, which incorporated the use of the wing design used on the TIE bomber, with a single spherical cockpit module, that had the advantage of an integrated hyperdrive and basic associated shielding, without the significant loss in performance that a TIE/LN starfighter would sacrifice with the added hardware. The project didn't see full production models assembled, however, as the [[TIE/IN interceptor/Legends|TIE Interceptor]] assumed production as the Empire's superior model TIE starfighter due to its agility and speed, with usable firepower.
+
+Further development of the TIE bomber paved the way for the more advanced [[Scimitar assault bomber]], which was designed with the input of TIE bomber ace Captain [[Tomax Bren/Legends|Tomax Bren]] from the elite [[Scimitar assault wing]].<ref name="SMUIU">{{JournalCite|15|Special Military Unit Intelligence Update}}</ref>
+
+==Variants==
+===[[TIE/sh VIP shuttle]]===
+A variant of the bomber replaced the warhead bay with a small cargo bay that could hold two passengers. This craft could ferry personnel from one ship to another or from a ship to a planetary base. [[Captain/Legends|Captain]] [[Lorth Needa/Legends|Lorth Needa]] used a shuttle of this type to personally apologize to Darth Vader for losing track of ''Millennium Falcon''. However, higher-ranking officers usually used the [[Lambda-class T-4a shuttle/Legends|Lambda shuttle]].
+
+===[[TIE/br boarding shuttle]]===
+Another variant of the bomber featured an enlarged secondary pod with clamps and a hull cutter. This could carry a [[Stormtrooper/Legends|stormtrooper]] raiding/boarding party for insertion into a captured or disabled enemy ship. It was used by Darth Vader and a team of stormtroopers to enter [[Princess/Legends|Princess]] [[Leia Organa Solo/Legends|Leia Organa's]] [[CR90 corvette/Legends|CR90 corvette]], [[Tantive IV/Legends|''Tantive IV'']], as well as by [[General/Legends|General]] [[Bentilais san Sk'ar]] and his stormtroopers for a kidnapping mission on [[Shiva IV]].
+
+===[[TIE lander/Legends|TIE lander]]===
+Using larger, vertically elongated wings than that of the bomber, this landing craft carried an additional, much larger, personnel pod on its underside that carried ground troops for surface deployment. [[Lumiya|Shira Brie]] fictitiously recalls these craft landing on her homeworld as a child, as part of a convincing cover story to infiltrate the Rebel Alliance.
+
+===[[TIE Heavy Bomber]]===
+A TIE Heavy Bomber carried two ordnance pods, the second on top of the first.<ref name="SW:GB" />
+
+===[[TIE/ca Punisher/Legends|TIE/IT Interdictor starfighter]]===
+The modular nature of TIE series technology allowed for expansion of the TIE bomber concept. This variant included four ordnance bays, though they appear to have been fairly rare.<ref name="SW:GB" /> They had been developed around the time of the Battle of Yavin, and had the role of heavy space/planetary bomber.<ref name="Stay on Target">[[Stay on Target (sourcebook)|''Stay on Target'']]</ref>
+
+===[[Gand starfighter]]===
+Gand Starfighters were modified TIE bombers, with a [[Hyperdrive motivator/Legends|hyperdrive motivator]] and navicomp, wings cut in Interceptor shape, six concussion missiles and [[Deflector shield/Legends|shields]].
+
+===[[Scimitar assault bomber]]===
+It was 8 meters long, and thus longer than the standard TIE/LN starfighter. Its weapons included two laser cannons, concussion missile launchers, and chutes for thermal detonators and proton grenades. However, instead of two ion engines, it only had one, thus the lack of the prefix TIE. It was designed to bomb planets into submission.
+
+==Behind the scenes==
+While the designs for the bomber and boarding craft were made for [[Star Wars: Episode IV A New Hope|''A New Hope'']], the craft did not appear until the comic [[Star Wars (1977) 12|''Star Wars'' (1977) 12]], and did not make its first movie appearance until [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] and had a brief appearance in [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']]. The boarding craft is shown in the depiction of the Star Destroyer [[Devastator/Legends|''Devastator'']] for ''[[Star Wars: Incredible Cross-Sections]]''.
+
+In ''[[Star Wars: Jedi Knight: Dark Forces II]]'' and its sequel, ''[[Star Wars: Jedi Knight: Jedi Academy]]'', a TIE/sa is shown to possess the ability to hover. This stationary flight is unmentioned in other works save for ''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''. This latter occurrence, however, is thought to owe to game mechanics. In ''[[Star Wars: Battlefront]]'' and ''[[Star Wars: Battlefront II]]'', the TIE bomber can hold two people. In ''Battlefront'' it holds both the pilot and a bomb-aimer (or "bombardier") while in ''Battlefront II'' the pilot controls bombing while the passenger fires and manually aims [[Guided missile/Legends|guided missiles]]. In [[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']], [[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']], ''[[Star Wars: Rogue Squadron II: Rogue Leader]]'', and ''[[Star Wars: Rogue Squadron III: Rebel Strike]]'', the TIE bomber was faster than the [[BTL Y-wing starfighter/Legends|Y-wing]]. In the X-wing series of video games, the TIE/sa has a speed of 80 MGLT.
+
+While the TIE bomber's reactor is listed as a Sienar Fleet Systems I-a2b solar ionization reactor in ''[[Star Wars: Complete Cross-Sections]]'', this reactor is stated in both the same book and other sources to be the same reactor that powers large [[Capital ship/Legends|capital ships]] like the [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]], in which it takes up almost half of the vessel. It is described as a "miniature sun," producing stellar-scale energy, and most likely annihilating tens of thousands of tons of fuel per second. There is no known official explanation for this, and while it is possible that SFS produced multiple sizes of the reactor model, this is a considerable stretch of logic. The far more likely explanation is that the model listed in the book was an error.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of TIE/sa bombers}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*{{Tales|2|Routine}} {{C|dream}}
+*''[[Star Wars: The Force Unleashed]]'' {{C|in [[TIE Fighter Construction Facility|factory]]}}
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]] {{Flash}}
+*{{JournalCite|9|Droids Defiant}} {{Mo}}
+*''[[Star Wars Adventures: Han Solo and the Hollow Moon of Khorya]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*[[Empire 13|''Empire'' 13]] {{Flash}}
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*{{JournalCite|13|The Occupation of Rhamalai}}
+*[[Star Wars (1977) 12|''Star Wars'' (1977) 12]] {{Reprint|Star Wars (1977) 12}} {{Flash}} {{1st}}
+*[[Star Wars (1977) 15|''Star Wars'' (1977) 15]] {{Reprint|Star Wars (1977) 15}}
+*[[Vader's Quest 1|''Vader's Quest'' 1]]
+*[[Vader's Quest 2|''Vader's Quest'' 2]]
+*[[Vader's Quest 3|''Vader's Quest'' 3]]
+*[[Vader's Quest 4|''Vader's Quest'' 4]]
+*[[Star Wars (2013) 1|''Star Wars'' (2013) 1]] {{Mo}}
+*[[Star Wars (2013) 5|''Star Wars'' (2013) 5]]
+*''[[Star Wars Missions 9: Revolt of the Battle Droids]]''
+*''[[Star Wars Missions 11: Bounty Hunters vs. Battle Droids]]''
+*"[[Deadly Reunion]]" {{Reprint|Deadly Reunion}}
+*"[[The Night Beast]]" {{Reprint|The Night Beast}}
+*{{GamerCite|1|Fair Prey}} {{Mo}}
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[River of Chaos 1|''River of Chaos'' 1]]
+*[[Empire 23|''Empire'' 23]] {{Mo}}
+*[[Empire 29|''Empire'' 29]]
+*[[Empire 36|''Empire'' 36]]
+*[[Rebellion 1|''Rebellion'' 1]]
+*[[Rebellion 9|''Rebellion'' 9]]
+*''[[Introductory Adventure Game]]''
+*''[[Boba Fett: Overkill]]''
+*[[Black Ice (adventure)|''Black Ice'']]
+*"[[Operation: Shadowpoint]]"
+*''[[Onslaught at Arda I]]''
+*''[[Mission to Lianna]]''
+*{{WEGCite|story=Operation: Shadowstrike (adventure)|book=Instant Adventures}}
+*{{GalaxiesAED}}
+*{{JournalCite|9|Combat Moon (short story)|reprint=1}}
+*"[[Side Trip]]" {{Reprint|Side Trip}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*{{JournalCite|13|Galaxywide NewsNets}}
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 41|''Star Wars'' (1977) 41]] {{Reprint|Star Wars (1977) 41}}
+*''[[Star Wars: Imperial Ace]]''
+*[[Star Wars (1977) 60|''Star Wars'' (1977) 60]] {{Reprint|Star Wars (1977) 60}} {{Flash}}
+*[[Star Wars (1977) 62|''Star Wars'' (1977) 62]] {{Reprint|Star Wars (1977) 62}} {{Flash}}
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*{{JournalCite|11|The Longest Fall|reprint=1}} {{Mo}}
+*{{Film|VI}}
+*{{Tales|23|Lucky (comic story)}} {{Flash}}
+*[[X-Wing Rogue Squadron 7|''X-Wing Rogue Squadron'' 7]]
+*{{GalaxyCite|3|Lumiya: Dark Star of the Empire}}
+*[[X-Wing Rogue Squadron 9|''X-Wing Rogue Squadron'' 9]] {{C|as tally marking}}
+*{{JournalCite|8|Black Curs Blues}}
+*[[X-Wing Rogue Squadron 16|''X-Wing Rogue Squadron'' 16]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]] {{C|as tally marking}}
+*[[X-Wing Rogue Squadron 33|''X-Wing Rogue Squadron'' 33]] {{C|as tally marking}}
+*[[Star Wars (1977) 108|''Star Wars'' (1977) 108]]
+*''[[Dark Forces: Rebel Agent]]''
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*''[[Dark Forces: Jedi Knight]]''
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*{{DarkStryder|adventure=Omens|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[X-Wing: Isard's Revenge]]''
+*''[[Star Wars: Jedi Knight: Mysteries of the Sith]]''
+*''[[Jedi Search]]''
+*[[Dark Apprentice (novel)|''Dark Apprentice'']]
+*''[[Champions of the Force]]''
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[X-Wing: Starfighters of Adumar]]''
+*{{JournalCite|14|Murder in Slushtime|reprint=1}} {{C|"Callista Ming" capsule}} {{Mo}}
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*''[[Before the Storm]]'' {{Mo}}
+*''[[Young Jedi Knights: Darkest Knight]]''
+*''[[Young Jedi Knights: Jedi Under Siege]]''
+*{{GamerCite|9|Running the Belt}}
+*''[[The New Jedi Order: Vector Prime]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Fury]]'' {{Mo}}
+*''[[Legacy of the Force: Revelation]]''
+*''[[Fate of the Jedi: Outcast]]'' {{Ab|Fate of the Jedi: Outcast (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2002-08-28 -->[[Star Wars Infinities: The Empire Strikes Back 2|''Star Wars Infinities: The Empire Strikes Back'' 2]]
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2014-01-30 -->[[LEGO Star Wars: Microfighters (video game)|''LEGO Star Wars: Microfighters'' video game]]
+*<!-- Canceled -->''[[The Epic Continues]]'' {{C|Cancelled}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of TIE/sa bombers}}
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-01-XX -->{{LucasFanClubCite|2|Collections}}
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-04-XX -->''[[Galaxy Guide 2: Yavin and Bespin]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]'' {{Po}}
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-01-XX -->''[[Goroth: Slave of the Empire]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Galactic Bazaar|Galactic Bazaar: The Empire Sells Out!}}
+*<!-- 1995-09-XX -->''[[Galaxy Guide 12: Aliens — Enemies and Allies]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]''
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Bombing Run}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Star Destroyer: Launch Bay}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=TIE Bomber}} {{1stID|TIE/sa}}
+}}
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=TIE Bomber}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Special Military Unit Intelligence Update}}
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']] {{Co}} {{C|as tally marking}}
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Intruder Missile (Dark)}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Planetary Subjugation}}
+}}
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Death Star II: Docking Bay}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scimitar 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scimitar 2}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Scimitar Squadron TIE}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2003-06-XX -->''[[Hero's Guide]]''
+*<!-- 2003-08-06 -->{{FactFile|84|TIE 13-14|TIE Bomber}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+<!-- 2003-11-XX -->{{CardGameSet|set={{TCG|set=The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Bomber EX-1-2|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Bomber_EX_1_2.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Bomber EX-1-8|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Bomber_EX_1_8.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Bomber Pilot|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Bomber_Pilot.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Bomber Squad|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Bomber_Squad.webp?v=2}}
+}}
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_bomber.jsp|text=TIE Bomber}}
+*<!-- 2004-09-28 -->[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66875&resource=features|text=Ships: TIE Bomber}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=TIE Bomber}}
+*<!-- 2009-03-12 -->[[Star Wars: The Official Starships & Vehicles Collection 13|''Star Wars: The Official Starships & Vehicles Collection'' 13]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|starship|tiebomber|TIE bomber}}
+*<!-- 2011-09-13 -->{{DB|starship|tieshuttle|TIE shuttle}}
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Death from Above|link=core/death-from-above-core-27-6}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=TIE Bomber|link=core/tie-bomber-core-27-4}}
+}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Homing Missiles|reprint=1}} {{Po}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname=Soontir Fel}} {{Po}}
+<!-- 2013-09-13 -->{{CardGameSet|set={{FFGXW|set=TIE Bomber Expansion Pack}}|cards=
+*<!-- 2013-09-13 -->{{FFGXW|set=TIE Bomber Expansion Pack|cardname=Captain Jonus}}
+*<!-- 2013-09-13 -->{{FFGXW|set=TIE Bomber Expansion Pack|cardname=Gamma Squadron Pilot}}
+*<!-- 2013-09-13 -->{{FFGXW|set=TIE Bomber Expansion Pack|cardname=Major Rhymer}}
+*<!-- 2013-09-13 -->{{FFGXW|set=TIE Bomber Expansion Pack|cardname=Proton Bomb|reprint=1}}
+*<!-- 2013-09-13 -->{{FFGXW|set=TIE Bomber Expansion Pack|cardname=Scimitar Squadron Pilot}}
+}}
+*<!-- 2014-04-25 -->{{SWE|technology|tie|TIE fighter}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]] {{1stID|TIE/sa tactical bomber}}
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=Superior Numbers}} {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-05-14 -->{{Armada|set=Victory-class Star Destroyer Expansion Pack|cardname=''Corrupter''|reprint=1}} {{Po}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Imperial Fighter Squadrons Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Imperial Fighter Squadrons Expansion Pack|cardname=Major Rhymer|subtitle=TIE Bomber Squadron}}
+*<!-- 2015-05-14 -->{{Armada|set=Imperial Fighter Squadrons Expansion Pack|cardname=TIE Bomber Squadron}}
+}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Galactic Empire Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Cutlass Squadron Pilot}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname="Deathfire"}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Gamma Squadron Ace}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Major Rhymer}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Scimitar Squadron Pilot}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Soontir Fel|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Galactic Empire Conversion Kit|cardname=Tomax Bren}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|TIE Bomber}}
+
+{{TIE}}
+
+{{Interlang
+|bg=Tie Bomber
+|cs=TIE/sa Bombardér
+|de=TIE-Bomber
+|es=Bombardero TIE/sa/Leyendas
+|fr=Bombardier TIE
+|hu=TIE/sa bombázó
+|nl=TIE/sa Bomber
+|no=TIE Bomber
+|pl=TIE/sa
+|pt=Bombardeiro TIE
+|fi=TIE/sa pommittaja
+|uk=Бомбардувальник TIE/sa/Легенди
+}}
+
+[[Category:Bomber classes]]
+[[Category:Heavy assault starfighter classes]]
+[[Category:Starship classes of the Dark Empire]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:TIE series models|s-sa]]
+
+{{RelatedCategories
+|[[Category:TIE/sa tactical bombers]]
+}}
