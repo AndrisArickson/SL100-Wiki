@@ -1,0 +1,85 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Supa-XWA-3dRender.jpg]]
+|name=Supa Fighter
+|designer=
+|manufacturer=[[Joraan Drive Systems]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref><ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=Supa Fighter<ref name="RECG" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="RECG" />
+|cost=*110,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="RECG" />
+*70,000 credits (used)<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=27.6 meters
+|width=25.7 meters
+|height=9.5 meters
+|mass=
+|max accel=16 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA" />
+|mglt=89 MGLT<ref name="XWA" />
+|max speed=850 km/h<ref name="RECG" />
+|maneuverability=88 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=None<ref name="RECG" />
+|poweroutput=
+|power=
+|shield gen=Rated 80 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 38 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="XWA" />
+*[[Ion cannon/Legends|Ion cannon]] (1)<ref name="XWA" />
+*[[Concussion missile/Legends|Concussion missile]] launchers (2)<ref name="XWA" />
+**8 missiles total<ref name="XWA" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=80 kg<ref name="RECG" />
+|cargohandling=
+|consumables=1 day<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="RECG" />
+|role=*Assault fighter
+*Convoy escort<ref name="RECG" />
+|firstuse=
+|retired=
+|affiliation=[[Black Sun/Legends|Black Sun]]<ref name="RECG" />
+}}
+{{Quote|Those are Black Sun Fighters. Those are the fighters that supposedly replaced the Star Viper.|Aeron Azzameen|<ref name="XWA" />}}
+The '''Supa Fighter''' was manufactured by [[Joraan Drive Systems]] for the [[Black Sun/Legends|Black Sun]] criminal organization during the height of the [[New Order/Legends|New Order]].
+
+==Characteristics==
+A large [[Starfighter/Legends|fighter]] with decent armament, the Supa Fighter was slower than an [[T-65 X-wing starfighter/Legends|X-wing]] but more maneuverable. Its [[Deflector shield/Legends|shields]] and hull strength were comparable to a [[BTL Y-wing starfighter/Legends|Y-wing]]. The Supa Fighter's hull was mostly symmetrical, but in an unusual feature for a starfighter, the cockpit was offset a few meters to the left of its centerline.
+
+Supa Fighters were most often used to defend Black Sun convoys and respond to attacks on Black Sun-allied facilities.<ref name="RECG" /> In this regard, it almost completely replaced the [[StarViper-class attack platform/Legends|StarViper-class attack platform]].
+
+==Appearances==
+*''[[Star Wars: X-Wing Alliance]]'' {{1st}}
+
+==Sources==
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Supa-Jäger
+|es=Caza Supa
+|pl=Myśliwiec typu Supa
+}}
+
+[[Category:Joraan Drive Systems products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of Black Sun]]

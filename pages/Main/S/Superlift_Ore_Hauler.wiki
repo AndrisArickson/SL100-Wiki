@@ -1,0 +1,67 @@
+{{Top|leg}}
+{{Image}}
+{{StarshipClass
+|image=
+|name=Superlift Ore Hauler
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|line=
+|model=
+|type=Medium [[Ore/Legends|ore]] hauler<ref name="FBS" />
+|cost=*1,500,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="FBS" />
+*500,000 credits (used)<ref name="FBS" />
+|modifier=
+|sysmods=
+|length=155 [[Meter/Legends|meters]]<ref name="FBS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FBS" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 4]]<ref name="FBS" />
+*[[Backup hyperdrive|Class 20]] (backup)<ref name="FBS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FBS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="FBS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]] (limited to 4 jumps)<ref name="FBS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=10<ref name="FBS" />
+|skeleton=5<ref name="FBS" />
+|passengers=5<ref name="FBS" />
+|capacity=90,000 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="FBS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Ore transport<ref name="FBS" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Superlift Ore Hauler''', sometimes referred to as a '''Superlifter''', was a deep [[Realspace/Legends|space]] [[Ore/Legends|ore]] hauler. The vessel was manufactured by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]. The ore hauler was slow, sluggish, unarmed, and had a tiny crew. It could carry 90,000 metric tons, cost 1.5 million [[Galactic Credit Standard/Legends|credits]] and was 155 [[Meter/Legends|meters]] long.
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]'' {{1stm}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Freighter classes]]

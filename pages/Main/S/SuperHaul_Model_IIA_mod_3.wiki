@@ -1,0 +1,60 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=SuperHaul Model IIA mod 3
+|designer=
+|manufacturer=[[Ubrikkian Transports/Legends|Ubrikkian Transports]]<ref name="Goroth">''[[Goroth: Slave of the Empire]]''</ref>
+|line=[[SuperHaul]]
+|model=
+|type=Modified cargo [[Skiff/Legends|skiff]]<ref name="Goroth" />
+|cost=32,000<ref name="Goroth" />
+|modifier=
+|sysmods=
+|length=12 [[Meter/Legends|meters]]<ref name="Goroth" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=130 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="Goroth" />
+|max alt=20 meters<ref name="Goroth" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[power harpoon launcher]]s<ref name="Goroth" />
+|complement=
+|bays=
+|escapepods=
+|crew=2 ([[Gunner/Legends|gunners]]: 2)<ref name="Goroth" />
+|skeleton=
+|passengers=2<ref name="Goroth" />
+|capacity=150 [[Metric ton/Legends|metric tons]]<ref name="Goroth" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Harverting skiff<ref name="Goroth" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''SuperHaul Model IIA mod 3''' was a modified cargo [[Skiff/Legends|skiff]] produced by [[Ubrikkian Transports/Legends|Ubrikkian Transports]]. Armed with two [[power harpoon launcher]]s, [[SuperHaul]]s were deployed as harvesting skiffs on the [[Planet/Legends|planet]] [[Goroth Prime/Legends|Goroth Prime]] targeting the native [[jer'usk]]ae due to their hard skin being rich in [[Hyperbaride/Legends|hyperbarides]].
+
+==Sources==
+*<!-- 1995-01-XX -->''[[Goroth: Slave of the Empire]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Skiff models]]
+[[Category:Ubrikkian Transports products]]

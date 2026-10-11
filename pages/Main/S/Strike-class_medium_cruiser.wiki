@@ -1,0 +1,236 @@
+{{Top|leg|title=''Strike''-class medium cruiser}}
+{{StarshipClass
+|image=[[File:StrikeCruiser-SWR.png]]
+|name=''Strike''-class medium cruiser
+|designer=
+|manufacturer=[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=
+|model=''Strike''-class medium cruiser<ref name="Starships" />
+|type=[[Cruiser/Legends|Medium cruiser]]<ref name="Starships" />
+|cost=[[Black market/Legends|Black market]] value 17,000,000 [[Galactic Credit Standard/Legends|credits]] {{C|used}}<ref name="Starships" />
+|modifier=
+|sysmods=
+|length=450 [[Meter/Legends|meters]]<ref name="ImperialSourcebook2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|width=
+|height=90 meters
+|mass=
+|max accel=4 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=16 MGLT<ref name="XWA" />
+|max speed=
+|maneuverability=
+|engine=*2 big [[Sublight engine|engines]]<ref name="XWA" />
+*2 small [[Engine/Legends|engines]]<ref name="XWA" />
+|hyperdrive=*Class 2.0<ref name="Starships" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="Starships" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 1600 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 752 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=[[Sensor/Legends|Equipped]]<ref name="ImperialSourcebook2" />
+|target=
+|navigation=[[Navigation computer/Legends|Nav computer]]<ref name="ImperialSourcebook2" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Light<ref name="Starships" /> [[Turbolaser/Legends|turbolasers]] (20)<ref name="ImperialSourcebook2" />
+**5 fore<ref name="ImperialSourcebook2" />
+**5 port<ref name="ImperialSourcebook2" />
+**5 starboard<ref name="ImperialSourcebook2" />
+**5 aft<ref name="ImperialSourcebook2" />
+*Turbolaser batteries (10)<ref name="ImperialSourcebook2" />
+**4 fore<ref name="ImperialSourcebook2" />
+**3 port<ref name="ImperialSourcebook2" />
+**3 starboard<ref name="ImperialSourcebook2" />
+*[[Ion cannon/Legends|Ion cannons]] (10)<ref name="ImperialSourcebook2" />
+**4 fore<ref name="ImperialSourcebook2" />
+**3 port<ref name="ImperialSourcebook2" />
+**3 starboard<ref name="ImperialSourcebook2" />
+*[[Tractor beam/Legends|Tractor beam]] [[Tractor beam projector/Legends|projectors]] (10)<ref name="ImperialSourcebook2" />
+**2 fore<ref name="ImperialSourcebook2" />
+**3 port<ref name="ImperialSourcebook2" />
+**3 starboard<ref name="ImperialSourcebook2" />
+**2 aft<ref name="ImperialSourcebook2" />
+*[[Warhead/Legends|Warhead]] launcher (1)<ref name="TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref><ref name="XWA" />
+**14<ref name="XWA" /> [[advanced concussion missile]]s<ref name="TF" />
+|complement=*[[Starfighter/Legends|Starfighters]] (18)<ref name="Starships" />
+Depending on configuration:
+*[[All Terrain Scout Transport/Legends|AT-ST]] [[Walker/Legends|walkers]] (2-6)<ref name="Starships" />
+*[[All Terrain Armored Transport/Legends|AT-AT walkers]] (1<ref name="ImperialSourcebook2" /> - 2)<ref name="Starships" />
+*Various [[Dropship/Legends|dropships]]<ref name="Starships" />
+*Support craft<ref name="Starships" />
+|bays=
+|escapepods=
+|crew=*Crew (1,972)<ref name="ImperialSourcebook2" />
+*[[Gunner/Legends|Gunners]] (140)<ref name="ImperialSourcebook2" />
+|skeleton=800<ref name="ImperialSourcebook2" />
+|passengers=340<ref name="ImperialSourcebook2" /> - 1,020 troops<ref name="Starships" />
+|capacity=6,000<ref name="ImperialSourcebook2" /> - 9,000 [[Metric ton/Legends|metric tons]]<ref name="Starships" />
+|cargohandling=
+|consumables=1.5<ref name="ImperialSourcebook2" /> - 2 [[Standard year/Legends|years]]<ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=*Military<ref name="Starships" />
+*Not available for sale<ref name="ImperialSourcebook2" />
+|role=*Light starship<ref name="XWA" />
+*[[Star Cruiser/Legends|Star cruiser]]<ref name="Rebellion">[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]</ref>
+*Escort<ref name="XWA" />
+*Prefab garrison deployer<ref name="ImperialSourcebook2" />
+*[[Troop transport/Legends|Troop transport]]<ref name="ImperialSourcebook2" />
+*[[Carrier/Legends|Carrier]]<ref name="Starships" />
+*Heavy vehicle recovery<ref name="ImperialSourcebook2" />
+*[[Planet/Legends|Planetary]] [[Assault ship/Legends|assault vessel]]<ref name="ImperialSourcebook2" />
+*[[Star system/Legends|System]] garrison [[Flagship/Legends|flagship]]<ref name="Starships" />
+|firstuse=By [[0 BBY/Legends|0 BBY]]<ref name="ImperialHandbook">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="XWA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="XWA" />
+*[[Zaarin coup forces|Zaarin coup forces]]<ref name="TF" />
+*[[Rneekii|Rneekii pirates]]<ref name="TF" />
+*[[Nami|Nami]]<ref name="TF" />
+*[[New Republic/Legends|New Republic]]
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="Starships" />
+*[[Zsinj's Empire]]<ref name="TKT">''[[X-Wing: The Krytos Trap]]''</ref>
+*[[Galactic Federation of Free Alliances]]
+*[[Confederation]]
+*[[Doole's defense fleet|Doole's Defense Fleet]]
+}}
+The '''''Strike''-class medium cruiser''', also known simply as the '''Strike Cruiser''', was a medium [[Cruiser/Legends|star cruiser]] designed by the [[Loronar Corporation/Legends|Loronar Corporation]] during the [[Galactic Civil War/Legends|Galactic Civil War]] for the [[Imperial Navy/Legends|Imperial Navy]] as a general-purpose vessel capable of modular modifications to allow it to fit many mission profiles, yet cheap enough to be produced in large quantities.
+
+==Description==
+The 450-meter-long ''Strike''-class was capable of challenging larger [[Alliance to Restore the Republic/Legends|Alliance]] cruisers with its surprisingly heavy load of firepower, strong [[Deflector shield/Legends|shields]], and high sublight speed. Armaments included 20 light [[Turbolaser/Legends|turbolasers]], ten turbolaser batteries, ten [[Ion cannon/Legends|ion cannons]], and ten [[Tractor beam projector/Legends|tractor beam projectors]]. However, the storage spaces and skeletal structure proved weak against enemy fire once the shields were down.
+
+The [[Order of Battle/Legends|Order of Battle]] considered two ''Strike''-class cruisers the equivalent of one [[Victory I-class Star Destroyer/Legends|''Victory''-class Star Destroyer]].
+
+The interior storage space of the ''Strike''-class could be modified for different missions. The most common sets were designed for [[Planet/Legends|planetary]] garrison, space superiority, and planetary assault. Planetary garrison loadouts included an assault company, two [[All Terrain Scout Transport/Legends|AT-STs]], one [[All Terrain Armored Transport/Legends|AT-AT]], and several support [[Landspeeder/Legends|speeders]]; space superiority included up to three squadrons of [[TIE series/Legends|TIEs]]; the planetary assault loadout included five AT-ATs.
+
+==History==
+[[File:StrikeCruiser1.jpg|thumb|left|250px|Profile of a ''Strike''-class medium cruiser]]
+A departure from the Navy's trend towards increasingly large warships, the ''Strike''-class cruiser was an admission to diminished ability to defend space superiority against the Rebel Alliance and other forces as the conflict wore on.
+
+While [[Luke Skywalker/Legends|Luke Skywalker]] was recovering from his injuries from his [[Duel on Cloud City/Legends|duel on Cloud City]], the [[Alliance Fleet/Legends|Rebel Fleet]] was traveling to its rendezvous point when an Imperial ''Strike''-class cruiser located them and attempted to transmit to Vader the coordinates of the Rebels. However, the Rebels reacted by jamming Imperial communications and dispatching [[Rogue Squadron/Legends|Rogue Squadron's]] [[X-wing starfighter/Legends|X-wings]] under the command of [[Wedge Antilles/Legends|Wedge Antilles]]. The Strike Cruiser's TIE Fighter squadron was quickly overwhelmed, so her commanding officer set a course to escape. The Imperials safeguarded the rear of their Strike Cruiser by concentrating its shields towards the stern of the ship, which successfully deflected the first barrage from one of the X-wings. Rogue Five then exploited the relatively low shielding of the bow of the ship and fired a pair of proton torpedoes that blew the Strike Cruiser apart. Rogue Three's X-wing engine was damaged in the process, and the Rebel Fleet was forced to change course as a precaution to avoid discovery.
+
+During [[Zaarin coup forces|rogue Admiral Zaarin's]] campaign in the Omar system, he successfully [[Destruction of the Grappler|trapped Admiral Thrawn's]] flagship ''[[Sceltor]]'' and sent the Strike Cruiser [[Serpent (Strike-class)|''Serpent'']] to destroy his nemesis. While Thrawn's [[Victory I-class Star Destroyer/Legends|Victory I-class Star Destroyer]] was nominally the more powerful vessel, Zaarin's cruiser had the advantage since it approached from the rear, where most of the Star Destroyer's turbolasers had a poor firing arc. However, this move backfired when [[Maarek Stele/Legends|Maarek Stele]] used a [[Mag-pulse warhead/Legends|Mag Pulse torpedo]] to disable the ''Serpent'' just as it moved into firing range of the ''Sceltor''. Zaarin's Strike Cruiser instead found itself temporarily incapacitated and its shields gradually drained by the hammering of Thrawn's flagship. By the time the Mag Pulse effects had worn off, Stele eliminated the remainder of the ''Serpent''{{'s}} shield and disabled it with his TIE Defender's ion cannons.
+
+During the Imperial campaign against the proliferation of TIE Defender technology in the [[Eva-T system/Legends|Eva-T system]], the Strike Cruiser was used by five factions: loyalist Imperials commanded by [[Mitth'raw'nuruodo/Legends|Thrawn]], the traitor [[Demetrius Zaarin|Zaarin]], the [[Rneekii]], the [[Nami]], and the Rebel Alliance. Zaarin cooperated with the Nami for some time, and the Nami later tried to sell the TIE Defenders to the Rebels, which could explain how the Strike Cruiser, with its Imperial origins, became so widespread.
+
+Ironically, the one big disadvantage of the ''Strike''-class cruiser was a side effect of its biggest advantage. Due to the modular design of the ship, a single, well-placed hit could damage the densely arrayed power connectors between two sections of the ship, shutting down entire systems or weapon batteries. If the ship suffered too many critical hits by large-impact weapons (such as [[Proton torpedo/Legends|proton torpedoes]] or heavy [[Turbolaser/Legends|turbolasers]]), its structure might simply break apart (as was the fate of the ''[[Termagant]]'').<ref name="TKT" /> By the time the ship was introduced into full naval service, this was considered only a minor flaw, as the Empire had enough resources to replenish damaged or lost components that were considered "disposable" at that time.
+
+[[File:Strike-class_cruiser_Size.jpg|thumb|left|180px|''Strike''-class cruiser shown to scale with an [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]] (1,600 m)]]
+
+However, as the war raged on and large starships started to become rare, the [[Imperial Remnant/Legends|Imperial Remnant]] felt the need to make this otherwise reliable, versatile, and thus tactically important class of cruisers more durable, which resulted in reinforcing the connections between the cruiser's basic integral structure and the attached modules in order to prevent easy decoupling. Nevertheless, these spots remained the most vulnerable parts of the ''Strike''-class, and pilots and commanders on both sides of the Galactic Civil War adapted their tactics to deal with this knowledge.
+
+At least one ''Strike''-class cruiser, [[Peregrine (Strike-class)|''Peregrine'']], was modified by the Rebel Alliance with two large, bulbous housings for [[Gravity well projector/Legends|gravity well projectors]], which were removed from a captured Imperial [[Immobilizer 418 Interdictor-class Heavy Cruiser|Interdictor cruiser]]. This ship was designated by the Rebels as a [[Modified Strike Cruiser|modified strike cruiser]].
+
+The [[Eidolon (Strike-class)|''Eidolon'']] was a prototype for a modified Strike-class cruiser that was redesigned by [[Sate Pestage/Legends|Sate Pestage]] to enhance protection for the [[TIE series|TIE fighters]] it carried. This prototype never went into full production as the project was a ruse by Pestage to embezzle funds into private wealth, hidden in a [[Eidolon Base|private retreat]] on [[Tatooine/Legends|Tatooine]].
+
+One ''Strike''-class cruiser, the ''[[Termagant]]'', was used by [[Zsinj|Warlord Zsinj]] alongside his [[Executor-class Star Dreadnought/Legends|Super Star Destroyer]] [[Iron Fist (Executor-class)|''Iron Fist'']] to [[Ambush at Alderaan|intercept and destroy]] a New Republic [[Bacta/Legends|bacta]] convoy.
+
+==Appearances==
+{{ScrollBox|content=
+*{{JournalCite|6|The Cure|reprint=1}}
+*[[Dark Forces: Soldier for the Empire (audio drama)|''Dark Forces: Soldier for the Empire'' audio drama]] {{Mo}}
+*{{StoryCite|story=Hammertong: The Tale of the "Tonnika Sisters"|book=Tales from the Mos Eisley Cantina}} {{Ab|Hammertong (audiobook)}}
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+*''[[Choices of One]]''
+*{{WEGCite|story=Operation: Shadowstrike (adventure)|book=Instant Adventures}}
+*''[[Star Wars: TIE Fighter: Defender of the Empire]]''
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*{{JournalCite|2|A World to Conquer}}
+*[[X-Wing Rogue Squadron 10|''X-Wing Rogue Squadron'' 10]] {{Flash}}
+*[[X-Wing Rogue Squadron 12|''X-Wing Rogue Squadron'' 12]] {{Mo}}
+*[[X-Wing Rogue Squadron 32|''X-Wing Rogue Squadron'' 32]] {{Co}} {{C|Erroneous appearance}}
+*''[[The Glove of Darth Vader]]''
+*''[[The Lost City of the Jedi]]''
+*''[[Mission from Mount Yoda]]''
+*{{WEGCite|story=Den of Spies|book=Twin Stars of Kira (sourcebook)}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*{{DarkStryder|adventure=Traitor in our Midst|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Home (adventure)|book=The Kathol Rift|reprint=yes}} {{Mo}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}}
+*''[[Jedi Search]]''
+*''[[Champions of the Force]]''
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Before the Storm]]''
+*''[[Shield of Lies]]''
+*''[[Tyrant's Test]]''
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}} {{Mo}}
+*''[[Young Jedi Knights: The Emperor's Plague]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Strike-class medium cruisers}}
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Recon & Report: The Journey to Coruscant|reprint=1}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-10-XX -->''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]''
+*<!-- 2002-01-30 -->{{FactFile|5|THR 1-4|Grand Admiral Thrawn}}
+*<!-- 2003-03-04 -->{{InsiderCite|66|Who's Who: Imperial Grand Admirals}}
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-08-08 -->{{SW|url=news/barely-tolerable-alien-henchmen-of-the-empire-part-1|series=Barely Tolerable: Alien Henchmen of the Empire|text=Part 1|nolive=1}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Angriff-Klasse Mittlerer Kreuzer
+|fr=Croiseur moyen de classe Strike
+|pl=Krążownik uderzeniowy Loronar
+|es=Crucero mediano clase Ataque
+}}
+
+[[Category:Cruiser classes]]
+[[Category:Loronar Corporation products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Imperial Remnant]]
+
+{{RelatedCategories
+|[[Category:Strike-class medium cruisers]]
+}}

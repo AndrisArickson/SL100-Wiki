@@ -1,0 +1,636 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Executor-TCWBRBD2.png]]
+|name=Super Star Destroyer
+|designer=
+|manufacturer=*[[Fondor Shipyards/Legends|Fondor Shipyards]]<ref name="DVS">"[[Darth Vader Strikes]]"</ref>
+*[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref>
+*[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="TISWU">''[[The Illustrated Star Wars Universe]]''</ref>
+*[[Rendili/Legends|Rendili]]<ref name="TISWU" />
+|line=
+|model=
+|type=*[[Battlecruiser/Legends|Battlecruiser]] {{C|in the [[Anaxes War College System/Legends|Anaxes War College System]]}}<ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+*[[Dreadnaught/Legends|Dreadnaught]] {{C|in the Anaxes War College System}}<ref name="TEGTW" />
+*[[Star Cruiser/Legends|Star Cruiser]]<ref name="TEGTW" /><ref name="SW:CL">[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]</ref>
+*[[Star Dreadnought/Legends|Star Dreadnought]]<ref name="TEGTW" />
+|cost=
+|modifier=
+|sysmods=
+|length=Known models:
+*15,000 [[Meter/Legends|meters]]<ref name="TEGTW" /><ref name="DESB">''[[Dark Empire Sourcebook]]''</ref>
+*17,500 meters<ref name="TEGTW" /><ref name="DESB" />
+*19,000 meters<ref name="TEGTW" /><ref name="SW:CL" /><ref name="SWE Super Star Destroyer">{{SWE|technology|superstardestroyer|Super Star Destroyer}}</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=13 colossal [[Engine/Legends|engine]] thrusters<ref name="SWE Super Star Destroyer" />
+|hyperdrive=
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]] on all known models<ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]''</ref>
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Over 5,000 [[Turbolaser/Legends|turbolasers]] and [[Ion cannon/Legends|ion cannons]]<ref name="SWE Super Star Destroyer" />
+*[[Tractor beam/Legends|Tractor beam]] projectors<ref name="SOTGSE">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*Individual designs also utilized either [[assault concussion missile]] [[Concussion missile launcher/Legends|launchers]], [[Gravity well projector/Legends|Gravity well projectors]] or [[Superlaser/Legends|superlaser]] cannons<ref name="SOTGSE" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Command ship/Legends|Command ship]]<ref name="ISB" /><ref name="DESB" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="TEGTW" /><ref name="TCSWE" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="ISB" /><ref name="TEGTW" />
+*[[New Republic/Legends|New Republic]]<ref name="TEGTW" /><ref name="CE">''[[Star Wars: Crimson Empire]]''</ref>
+*[[Warlord/Legends|Warlords]]<ref name="Darksaber">[[Darksaber (novel)|''Darksaber'']]</ref>
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="TEGTW" /><ref name="DW">''[[The New Jedi Order: Destiny's Way]]''</ref>
+*[[Galactic Federation of Free Alliances]]<ref name="TEGTW" /><ref name="TUF">''[[The New Jedi Order: The Unifying Force]]''</ref>
+}}
+{{Quote|Concentrate all fire on that Super Star Destroyer!|[[Admiral/Legends|Admiral]] [[Gial Ackbar/Legends|Ackbar]], referring to the [[Executor/Legends|''Executor'']], during the [[Battle of Endor/Legends|Battle of Endor]]|<ref name="Episode 6">{{Film|VI}}</ref>|audio=ConcentrateAllFire-ROTJ.flac}}
+'''Super Star Destroyer (SSD)''' was a term used by [[Galactic Empire/Legends|Imperial]], [[Alliance to Restore the Republic/Legends|Rebel]], [[New Republic/Legends|New Republic]] and [[Galactic Federation of Free Alliances|Galactic Alliance]] personnel for many dagger-shaped [[Warship/Legends|warship]] classes larger than [[Star Destroyer/Legends|Star Destroyers]], ranging from [[Star Cruiser/Legends|Star Cruiser]] to [[Star Dreadnought/Legends|Star Dreadnought]] models.
+
+It was often used concurrently with the term [[Super-class Star Destroyer|''Super''-class Star Destroyer]], both of which capitalized on the general "Star Destroyer" term, which, after getting popular exposure throughout the [[Clone Wars/Legends|Clone Wars]], came to symbolize weapons that in people's minds could destroy entire star systems.
+
+[[Anakin Skywalker/Legends|Darth Vader's]] [[Command ship/Legends|command ship]], the [[Executor/Legends|''Executor'']], was a Super Star Destroyer and one of the most famous Imperial vessels fielded, as was the even deadlier [[Eclipse (Eclipse-class)|''Eclipse'']], which served as one of [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine's]] [[Flagship/Legends|flagships]].
+
+==Characteristics==
+[[File:DarkEmpireFleet.jpg|thumb|left|Fleets of Star Destroyers, Super Star Destroyers, and [[World Devastator]]s fan out from the [[Deep Core/Legends|Deep Core]] during [[Operation Shadow Hand]] in [[10 ABY/Legends|10 ABY]].]]
+The term "Super Star Destroyer" described some of the largest warships ever designed and fielded, and covered various warship classes that served primarily as [[Command ship/Legends|command ships]]. All the known models were at least several kilometers long in order to support their increasingly heavy power generators and armaments.<ref name="HNNAGD">{{SWArchive|url=theclonewars/hnn/001.html#rss|text=HoloNet News — A Galaxy Divided|int=HoloNet News — A Galaxy Divided}}</ref> In at least one ship classification system, SSDs were regarded as large enough to be counted as [[Space station/Legends|space stations]] rather than regular starships.<ref name="SOTG01">''[[Starships of the Galaxy]]''</ref> In large part due to their immense size, Super Star Destroyers required a crew of at least 280,000 to operate. One of the leaders of the Rebel Alliance, [[Mon Mothma/Legends|Mon Mothma]], admitted when learning this that it would pose a dilemma if the Rebel Alliance did manage to capture one intact: they wouldn't have enough personnel to operate it.<ref name="Handbook">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>
+
+The largest known models were usually fitted with extensive command and control suites<ref name="ISB" /> which could handle far more naval forces than previous command stations, such as the Old Republic's [[Republic command ship]]s of the [[Krath Holy Crusade]]<ref name="TOTJ2TQFTS">[[Tales of the Jedi – Dark Lords of the Sith 2|''Tales of the Jedi – Dark Lords of the Sith'' 2]]</ref> or the [[Inexpugnable-class tactical command ship|''Inexpugnable''-class tactical command ships]] of the [[Mandalorian Wars]].<ref name="KOTOR:H">''[[Star Wars: Knights of the Old Republic Handbook]]''</ref>
+Like most other starship production lines, different ships within the same class were often subject to different specifications in terms of armament, crew and support vessels, based on their intended focus and roles.<ref name="SOTGSE" /><ref name="SOTG01" />
+
+Super Star Destroyers were on par with or larger than most other navies' ships-of-the-line, like the [[Trade Federation/Legends|Trade Federation's]] [[Lucrehulk-class battleship/Legends|''Lucrehulk''-class battleships]] or the [[Subjugator-class heavy cruiser/Legends|''Subjugator''-class heavy cruisers]] of the [[Confederacy of Independent Systems/Legends|CIS]].<ref name="HNNAGD" /><ref name="The Clone Wars Campaign Guide">''[[The Clone Wars Campaign Guide]]''</ref>
+As command ships, SSDs like the ''Executor''-class were capable of projecting power across entire [[Oversector/Legends|Oversectors]] and served as command ships for [[The galaxy/Legends|galaxy]]-spanning campaigns.<ref name="SW:CL" /><ref name="DESB" /> They were good expressions of the [[Tarkin Doctrine/Legends|Tarkin Doctrine]], which argued that galactic peace could be achieved by developing the ability to project overwhelming firepower against any enemy, rendering all resistance futile before it even began.<ref name="ISB" />
+
+==History==
+===Origin===
+{{Quote|From Super Star Destroyers to torpedo spheres, it has been nearly impossible to overestimate the amount of destructive force available to the average Moff or Sector Group Commander|Arhul Hextrophon, on the Empire's obsession with super weapons|<ref name="ISB" />}}
+For tens of thousands of years, heavy warships were part of the Republic Navy's strategy for space combat. Large ships fought in the [[Alsakan Conflicts/Legends|Alsakan Conflicts]] and the [[Old Sith Wars]]. They became obsolete at some point after [[3000 BBY]], when fleet doctrine shifted to groups of smaller-scale [[Cruiser/Legends|cruisers]] that combined their firepower and were more maneuverable. These new designs were armed with better weapons and more powerful shields than the older [[Battlecruiser/Legends|battlecruisers]] and [[Battleship/Legends|battleships]].<ref name="HSATCSS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+
+However, by the centuries prior to the Clone Wars, heavy warships had gained prominence again. The first modern design that would be lumped into the Super Star Destroyer category was the ''Procurator''-class Star Battlecruiser, built two centuries before the Clone Wars. It spawned a series of increasingly large warship designs and went on to have many different models in its own production line.<ref name="TEGTW" />
+
+Large vessels like the ''Procurator'' were used for generations by private defensive fleets fielded by rich, industrialized star sectors.<ref name="TEGTW" /><ref name="TCSWE" /> [[Kuat sector/Legends|Kuat]], [[Corellian sector/Legends|Corellia]], and [[Humbarine sector/Legends|Humbarine]] were but three of the industrialized Core sectors that could afford to build such behemoths, which were fitted with [[Hyperdrive/Legends|hyperdrives]] with limited range to highlight their defensive purposes in the relative peace of the time.<ref name="AOTC:ICS">''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''</ref>
+
+While a member of the [[Techno Union/Legends|Techno Union]], the shipyards of Kuat began to experiment further in this period with warship designs that eclipsed previous generations.<ref name="TCSWE" /> Two decades prior to the [[Clone Wars/Legends|Clone Wars]], the shipyard unveiled the ''Mandator''-class, a type of design that would fill out the modern dreadnought category in the Anaxes War College System.<ref name="TEGTW" />
+
+[[File:Imperial-Star-Cruiser.jpg|thumb|right|250px|A [[Bellator-class dreadnought/Legends|''Bellator''-class dreadnought]] orbiting [[Byss/Legends|Byss]] in [[10 ABY/Legends|10 ABY]]]]
+During the Clone Wars, heavy warship classes like the Star Battlecruisers and Star Dreadnoughts were used by the resurgent [[Republic Navy/Legends|Republic Navy]],<ref name="ROTS:ICS">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref> as large defense vessels. Some battlecruisers were refitted to lead task forces on raids deep into Separatist territory.<ref name="TEGTW" />
+
+In the aftermath of the wars, the newly created Galactic Empire began an unprecedented research and development program for a new generation of heavy warship designs,<ref name="TEGTW" /><ref name="DOD">''[[Dawn of Defiance]]''</ref> creating vessels that would bear the colloquial term Super Star Destroyer.<ref name="TEGTW" />
+
+Super Star Destroyer production was sometimes helped along by innovations in other areas. The Clone Wars saw the development of the [[Cardan-class space station|''Cardan''-class space station series]], which came to have some influence on the structuring of future naval projects, including the Super Star Destroyers and the [[DS-1 Orbital Battle Station/Legends|Death Star]] [[Battle station/Legends|battle stations]].<ref name="MTS2">{{Wizards|url=default.asp?x=starwars/article/Mesop2|text=Message to Spacers 2}}</ref>
+
+A few months after the end of the Clone Wars, the [[Sarlacc Project]] was begun. It sought to develop a new, heavy Imperial [[Super Star Destroyer prototype|command ship]]. This vessel, an early prototype for a new generation of dreadnoughts, was 12 kilometers in length and meant to be filled with weapons. It was destroyed by early rebel elements before it could be completed.<ref name="DOD" />
+Despite such an early setback, larger and more refined Star Dreadnought designs were eventually produced, notably the [[Executor-class Star Dreadnought/Legends|''Executor''-class]]<ref name="SBP1">{{SWMiniCite|set=Starship Battles|parent=1|rulebook=1}} {{C|rulebook}}</ref> and [[Eclipse-class dreadnought|''Eclipse''-class]].<ref name="TEGTW" /><ref name="SW:EAW:FOC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+
+The ''Executor''-class became a highly sought after command ship, and the creation of the lead vessel and other members of the class was mired by political intrigue and misinformation campaigns. When the Imperial Navy requested funds for construction of the ''Executor'', it forged a profile on the vessel, calling it a ''Super''-class Star Destroyer and making it out to be less than half its intended size, on par with the earlier ''Mandator''- and ''Mandator II''-classes.<ref name="TEGTW" /> This was done to avoid arousing suspicion in the [[Imperial Senate/Legends|Imperial Senate]] about the true nature of the design<ref name="ISB" /><ref name="SBP1" /> as well as to capitalize on the popularity of the dagger-shaped Star Destroyer class, which dated back to the Clone Wars.<ref name="SOTGSE" /> The Emperor's ultimate plan for these vessels was to have one Super Star Destroyer per sector, to serve as a command ship for Imperial forces stationed at the sector.<ref name="Handbook" />
+
+The term was shortened to "Super Star Destroyer," and both it and the fake designation of ''Super''-class remained in colloquial use long after the real name and designation had been revealed and the first vessel made operational.<ref name="DTII:R">''[[The New Jedi Order: Dark Tide II: Ruin]]''</ref><ref name="DNIII:TSW">''[[Dark Nest III: The Swarm War]]''</ref><ref name="Fn">''[[Legacy of the Force: Fury]]''</ref>
+
+As these vessels came to play a greater role in naval doctrine, some officers and military planners derided the battlecruisers and dreadnoughts as a wasteful budgetary expense. They derisively referred to all the designs as Super Star Destroyers and argued that vessels at Star Destroyer scale and smaller were the only things needed to keep the Empire safe. With the advent and subsequent destruction of the first Death Star, the Navy reluctantly adopted SSDs as a viable and cheaper alternative. Due to their increased effectiveness as terror weapons, dreadnought production was prioritized over battlecruiser designs.<ref name="TEGTW" />
+
+Battlecruisers like the ''Praetor''-class survived the transition into the Galactic Empire, but continued in limited service during the Galactic Civil War.<ref name="TCSWE" /> Battlecruisers were hampered by their relative inflexibility compared to Star Destroyers and the lack of heavier firepower compared to the dreadnought models.<ref name="TEGTW" /> The ''Praetor''-class, for one, was considered outright outdated.<ref name="TCSWE" />
+
+"Super Star Destroyer" and "''Super''-class" later carried over to other warship designs in the following decades, with even the Rebel Alliance referring to anything bigger than a Star Destroyer by these terms.<ref name="SW:CL" /><ref name="SBP1" /> Beyond the colloquialisms, many SSDs were referred to as "star dreadnoughts" as well, contrasting the usage of "star cruiser" (lowercase) to refer to Star Destroyers.<ref name="SOTGSE" />
+
+===Early Imperial production===
+[[File:BigTim-FactFile.jpg|thumb|left|250px|The [[Intimidator (Executor-class)|''Intimidator'']] was one of the later-generation ''Executor''s.]]
+Before the [[Battle of Yavin/Legends|Battle of Yavin]], most Super Star Destroyer dreadnought production lines were still undergoing construction,<ref name="DSn">[[Death Star (novel)|''Death Star'']]</ref> and the few partially constructed ships were only used as command centers<ref name="SW:EAW:FOC" /><ref name="TFU">''[[Star Wars: The Force Unleashed]]''</ref> At least one Super Star Destroyer was also put in dry dock in the [[DS-1 Orbital Battle Station/Legends|first]] [[Death Star/Legends|Death Star]] some time before its [[Battle of Yavin/Legends|destruction]] in [[0 ABY/Legends|0 ABY]].
+
+Once the Empire realized the threat posed by an organized rebellion with the downfall of the first Death Star, the Super Star Destroyers began to be mass-produced, with an average [[Moff/Legends|Moff]] or [[Sector Group Commander]] estimated to have one or more such superweapons in their arsenal throughout the course of the [[Galactic Civil War/Legends|Galactic Civil War]], bringing the total number of ships up to thousands.<ref name="DESB" />
+The ''Executor''-class alone was believed to have had over 20 ships to its name, their combined bulk equating to that of thousands of individual Star Destroyers. Such heavy warships served both as sector as well as regional command centers<ref name="TEC">[[The Essential Chronology (real-world book)|''The Essential Chronology'']]</ref> with individual ships kept off the records as black projects, sent into the [[Unknown Regions/Legends|Unknown Regions]] for secret missions, or stationed at hidden sites as additional assets.<ref name="TEGTW" />
+
+In addition to mass-production, influential individuals could afford customized designs at the height of the Empire. The [[Dark Jedi/Legends|Dark Jedi]] and [[Inquisitorius/Legends|Inquisitor]] [[Jerec (Inquisitor)|Jerec]] had [[Kuat Drive Yards/Legends|Kuat Drive Yards]] build a grandiose [[Vengeance (Vengeance-class)|flagship]] for himself, replacing his ''Imperial''-class Star Destroyer as a sign of his growing ambitions.<ref name="TDFS">{{Wizards|url=default.asp?x=starwars/article/sw20050407a|series=The Dark Forces Saga|text=Part 1}}</ref> This vessel became the lead ship of [[Vengeance-class dreadnought|its own class]] of dreadnoughts in addition to other dreadnought designs being produced during this period.<ref name="TEGTW" />
+
+Overall, despite consisting of several classes with multiple models in each category, each Super Star Destroyer production line was relatively short, compared to the prolific Star Destroyers.<ref name="TEGTW" />
+There were still enough active ships around the time of the [[Battle of Hoth/Legends|Battle of Hoth]] to make Rebel personnel also refer to them by the general term of Super Star Destroyer.<ref name="SW:CL" /><ref name="ITW:OT">''[[Inside the Worlds of Star Wars Trilogy]]''</ref>
+
+While conventional armaments were designed for most ships, the two ''Eclipse''-class dreadnoughts had a [[Superlaser/Legends|superlaser]] as their primary weapon. The bulk of these two ''Super''-class Star Destroyers<ref name="DB">{{DB|technology|gravitywellprojector|gravity well projector}}</ref> was built around each ship's reactor and support systems, making them the most powerful conventional warships in history, and causing the design to attract unwanted attention from criminal third parties.<ref name="U:AGOSAV">{{InsiderCite|89|Underworld: A Galaxy of Scum and Villainy}}</ref>
+
+Their construction took almost over a decade, with the Emperor's downfall leading to delays and shifts in logistics. They were estimated to be powerful enough to allow whoever controlled them a real chance at taking power in the galaxy. This also made them high-profile targets by both the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] and, later, the [[New Republic/Legends|New Republic]].<ref name="SOTGSE" />
+As a symbol of its status, the ''Eclipse'' was escorted by [[Allegiance-class battlecruiser|smaller Super Star Destroyers]] during the [[Battle of Pinnacle Base]].<ref name="DEI">''[[Star Wars: Dark Empire]]''</ref><ref name="SW:DEa">[[Dark Empire (audio drama)|''Dark Empire'' audio drama]]</ref>
+
+===After Endor===
+[[File:Vengeance.jpg|thumb|left|250px|The SSD [[Vengeance (Vengeance-class)|''Vengeance'']], c. [[5 ABY/Legends|5 ABY]]]]
+Following the Empire's collapse as a result of the [[Battle of Endor/Legends|Battle of Endor]], it became increasingly difficult to maintain gargantuan warships, with the gradual breakdown and fracture of the Galactic Empire. Despite dozens of active [[Battle group/Legends|battle groups]] being led by SSDs immediately after [[Endor/Legends|Endor]], the lack of cooperation between various parts of the Empire and the gradual rise to power of the New Republic led to many Super Star Destroyers being destroyed or captured.<ref name="SOTGSE" />
+
+The focus switched to Star Destroyers or smaller vessels for the various Imperial [[Warlord/Legends|warlords]]. Former support ships like the [[Strike-class medium cruiser|''Strike''-class medium cruiser]] saw a renewed service period as more mainline warships in the fleets of the [[Imperial Remnant/Legends|Imperial Remnant]].<ref name="SOTGSE" />
+
+[[File:Eclipse1.jpg|thumb|right|250px|Palpatine's [[Flagship/Legends|flagship]], the [[Eclipse (Eclipse-class)|''Eclipse'']], accompanied by several smaller [[Allegiance-class battlecruiser|battlecruisers]], in orbit above [[Da Soocha V|Pinnacle Moon]]]]
+The last major SSD known to have been commissioned by legitimate Imperial forces was an ''Executor''-class ship known as the ''[[Razor's Kiss]]''. She was, however, destroyed by the New Republic soon after her launch from [[Kuat/Legends|Kuat]] in [[7 ABY/Legends|7.5 ABY]].<ref name="Xw:IF">''[[X-Wing: Iron Fist]]''</ref>
+
+Over the years, the number of Super Star Destroyers dwindled as the older ships left in service were destroyed, captured, or kept in isolated Imperial enclaves. By the time Grand Admiral [[Mitth'raw'nuruodo/Legends|Thrawn]] took command of the Empire five years after Endor, his naval forces could not gain access to anything bigger than individual Star Destroyers.<ref name="TTT">''[[Star Wars: The Thrawn Trilogy]]''</ref> Even warlords who kept diplomatic relations with Thrawn were hesitant to throw their dreadnoughts in with his forces.<ref name="TEGTW" />
+
+Concurrent with the warlordism, some fleet elements were recalled to the [[Deep Core/Legends|Deep Core]], where scores of heavy warships became part of the "[[Dark Empire]]" ruled over by the clones of [[Palpatine/Legends|Palpatine]]. Here, the resurrected Emperor plotted their use as tools of conquest for six years after Endor, unleashing them alongside his fleets of [[World Devastator]]s during the attempt at regaining his former glory with [[Operation Shadow Hand]] in [[10 ABY/Legends|10]] and [[11 ABY/Legends|11 ABY]].<ref name="TEGTW" /><ref name="DESB" />
+
+Prior to this operation, this Dark Empire retook large portions of the [[Core Worlds/Legends|Core Worlds]], beginning a vicious [[Imperial Civil War]] in the aftermath of the retaking of Coruscant from the New Republic. Twelve Super Star Destroyers were destroyed in the infighting, including the [[Mandator III-class dreadnought|''Mandator III''-class]] dreadnoughts ''[[Aculeus]]'' and ''[[Panthac]]'' and the ''Executor''-class dreadnought ''[[Whelm]]''.<ref name="TEGTW" /> (And a few other Super Star Destroyers including these following classes of Super Star Destroyers, ''Vengeance''-class dreadnoughts ''Executor''-class dreadnoughts [[Mandator III-class dreadnought|''Mandator III''-class]]-class dreadnoughts)
+
+During the rise of the resurrected Palpatine, at least four 15-kilometer-long ''Sovereign''-class Super Star Destroyers underwent construction, while the two ''Eclipse''-class vessels were completed and fielded. These six vessels were meant to be the beginning of a new era of superlaser-armed warships, but with the destruction of [[Byss/Legends|Byss]] and the final death of the Emperor, they were all destroyed.<ref name="DESB" />
+
+[[File:Sovereign_star_dreadnought.jpg|thumb|left|250px|A [[Sovereign-class Super Star Destroyer|''Sovereign''-class]] profile]]
+The power having shifted to the New Republic, the threat of SSDs decreased. Despite this, the Republic constructed a counterpart to the Empire's Super Star Destroyers, with the Mon Calamari&ndash;produced [[Viscount-class Star Defender|''Viscount''-class Star Defender]] and [[Mediator-class battle cruiser|''Mediator''-class battle cruiser]] filling holes in the Republic's naval forces.<ref name="VP">''[[The New Jedi Order: Vector Prime]]''</ref>
+
+Apart from the Republic's new designs, several SSDs remained in the hands of foreign powers. One eight-kilometer-long SSD was observed in the fleet of the [[Imperial Remnant/Legends|Imperial Remnant]] during the [[Yuuzhan Vong]] [[Yuuzhan Vong War|invasion]].<ref name="DW" />
+
+===Further service===
+[[File:Allegianceblow.jpg|thumb|right|250px|The [[Allegiance (Allegiance-class)|''Allegiance'']], a Super Star Destroyer battlecruiser, is destroyed while serving in a command role during the [[Battle of Calamari]] in [[10 ABY/Legends|10 ABY]].]]
+During the events surrounding the [[Swarm War]], the ''[[Megador]]'', a Super Star Destroyer equipped with sixteen [[Engine/Legends|engines]], was used as flagship for the then-supreme commander of the [[Galactic Alliance Defense Force]], [[Gilad Pellaeon/Legends|Gilad Pellaeon]].<ref name="DNIII:TSW" />
+
+Super Star Destroyers were known to be used in the [[Second Galactic Civil War]], with the ''Megador''<ref name="I">''[[Legacy of the Force: Inferno]]''</ref> and the [[Dominion (Star Dreadnought)|''Dominion'']]<ref name="Inv">''[[Legacy of the Force: Invincible]]''</ref> participating on the side of [[Darth Caedus]]'s faction of the Galactic Alliance.
+At some point following the Second Galactic Civil War, heavy warships like the [[Star Defender]]s and Star Dreadnoughts were phased out of service, citing the expenses in operating the various designs.<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+
+===Legacy===
+By [[130 ABY]], the main-line [[Pellaeon-class Star Destroyer|''Pellaeon''-class Star Destroyer]] had some of its systems partially based on achievements made with the successful ''Executor''-class.<ref name="SOTGSE" /> The larger [[Imperious-class Star Destroyer|''Imperious''-class Star Destroyer]] was based on the ''Pellaeon'' and had a larger frame than the standard Star Destroyer classes of previous generations, but still shared their designation<ref name="LECG" /> rather than be rated a battlecruiser or a dreadnought.<ref name="TEGTW" />
+
+==Designs==
+===''Allegiance''-class battlecruiser===
+[[File:ByssAllegiance-DEII3.jpg|thumb|right|250px|The 2,200-meter ''Allegiance''-class]]
+{{Main|Allegiance-class battlecruiser}}
+The 2,200 meter ''Allegiance''-class design was a typical example of the Star Cruiser subclass of battlecruisers.<ref name="TEGTW" /> ''Allegiance''s were smaller Super Star Destroyers seen in use as escorts for larger vessels like the ''Eclipse''-class. They had a design reminiscent of the ''Imperial''-class Star Destroyer, only larger.<ref name="SW:DEa" /> The class had a ventrally protruding reactor core and no visible launch bay.<ref name="DEI" />
+
+===The ''Aramadia''===
+[[File:Aramadia_SSD.jpg|thumb|right|250px|The 3,200+ meter ''Aramadia'']]
+{{Main|Aramadia (Super Star Destroyer)}}
+The ''Aramadia'' was an Imperial SSD that was captured by the [[Yevetha]]ns and acted as one of [[Nil Spaar]]'s [[Flagship/Legends|flagships]] during the [[Yevethan Purge]] in [[16 ABY/Legends|16]]-[[17 ABY/Legends|17 ABY]]. Following the [[Battle of N'zoth]] and the end of the Purge, it was towed to [[N'zoth]] and used as a museum. In top-down profile, it resembled the ''Imperial''-class Star Destroyer.<ref name="CATCW">''[[Coruscant and the Core Worlds]]''</ref>
+
+===The ''Arc Hammer''===
+[[File:ArcHammer-FoC.jpg|thumb|right|250px|The 9,600+ meter ''Arc Hammer'']]
+{{Main|Arc Hammer}}
+At least 9.6&#32;km long, almost half as long as an ''Executor''-class Star Dreadnought, the ''Arc Hammer'' was essentially an armed [[factory ship]] that also served as a command ship for the [[Dark Trooper Project]]. The design was very sleek compared to other Super Star Destroyers (similar only to [[Vengeance (Vengeance-class)|Jerec's ship]]), and noteworthy for a large quadruple tower structure protruding from the dorsal and ventral side in the general area of the bridge structure. Dorsal bays could launch the ship's complement of [[Dark Trooper/Legends|Dark troopers]] onto a target in a combat drop. The ''Arc Hammer'' was destroyed from within by [[Kyle Katarn]]'s sabotage.<ref name="SW:DF">''[[Star Wars: Dark Forces]]''</ref>
+
+===''Assertor''-class Star Dreadnought===
+[[File:Assertor_Insider134.jpg|thumb|right|250px|The 15,000-meter ''Assertor''-class]]
+{{Main|Assertor-class Star Dreadnought/Legends}}
+The 15,000 meter ''Assertor''-class Star Dreadnought was a heavily armed Imperial Star Dreadnought. Ships of this class sometimes led elite units that used [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE/D Defender]] starfighter squadrons. Two were seen at [[Naval Station Validusia/Legends|Naval Station ''Validusia'']].
+
+===''Bellator''-class dreadnought===
+[[File:Bellator-class_Star_Battlecruiser.jpg|thumb|right|250px|The 7,200-meter ''Bellator''-class]]
+{{Main|Bellator-class dreadnought/Legends}}
+The 7,200 meter ''Bellator''-class dreadnought was based on the earlier Mandator and Mandator II dreadnought models and was a slightly scaled down version of them. Several vessels were seen at [[Naval Station Validusia/Legends|Naval Station ''Validusia'']]. Two ''Bellator''s were viewed by the commanders of Death Squadron at a fleet gathering prior to the Battle of Hoth.<ref name="TEGTW" /> At least one vessel later served in the forces of the resurrected Emperor Palpatine in [[10 ABY/Legends|10 ABY]]. A ''Bellator'' was escorted by a [[Star Destroyer/Legends|Star Destroyer]] in orbit of Byss around this time.<ref name="DEI" />
+
+===''Eclipse''-class dreadnought===
+[[File:Eclipse_schem.jpg|thumb|right|250px|The 17,500-meter ''Eclipse''-class]]
+{{Main|Eclipse-class dreadnought}}
+The ''Eclipse''-class was designed as flagships for [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]] and were constructed in relative secrecy. They were 17.5 kilometers in length, with much of their interiors taken up by generators used to power the ship's main weapon, a scaled-down [[Superlaser/Legends|superlaser]]. The class's design was meant to evoke ancient seagoing warships.<ref name="DESB" />
+
+===''Executor''-class Star Dreadnought===
+[[File:Executor-CHRON.jpg|thumb|right|250px|The 19,000-meter ''Executor''-class]]
+{{Main|Executor-class Star Dreadnought/Legends}}
+The ''Executor''-class Star Dreadnought was the first class associated with the SSD moniker.<ref name="ISB" /> It was 19 kilometers in length, was powered by a central reactor underneath its command tower, had over 5,000 various weapons-systems,<ref name="SW:CL" /> and could carry over a thousand starfighters in its multiple hangar bays.<ref name="Darksaber" /> Its design was meant to overwhelm any opposition, sending the enemy into retreat or resignation by its mere presence.<ref name="ISB" /> The class became popular within the Imperial Navy, and officers desired such ships as a status symbol.<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref> Since the ''Super''-class designation originated with this ship, it was often called ''Super''-class Star Destroyer interchangeably with other terms.<ref name="ISB" /><ref name="SOTGSE" /><ref name="SOTEn">[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]</ref><ref name="TBFC">''[[The Black Fleet Crisis]]''</ref>
+
+===''Mandator II''-class Star Dreadnaught===
+{{Main|Mandator II-class Star Dreadnaught/Legends}}
+The 8,000-meter ''Mandator II''-class Star Dreadnaught was built and fielded by KDY and the Galactic Republic. The model served in the [[Republic Navy/Legends|Republic Navy]] during the Clone Wars and guarded vital targets from Separatist attacks.<ref name="TEGTW" />
+
+===''Mandator III''-class dreadnought===
+{{Main|Mandator III-class dreadnought}}
+The 12,000-meter ''Mandator III''-class was built and fielded by the Galactic Empire. It was several kilometers longer than previous models and enlarged to carry massive armaments.<ref name="TEGTW" />
+
+===The ''Megador''===
+{{Main|Megador}}
+The ''Megador'' was a sixteen-engined SSD that served in the [[Imperial Remnant/Legends|Imperial Remnant]] during the [[Orinda campaign]] and later on the [[Galactic Federation of Free Alliances]].<ref name="DNIII:TSW" /> It was armed with [[long-range turbolaser]]s during the Second Galactic Civil War.<ref name="I" />
+
+===''Sovereign''-class Super Star Destroyer===
+[[File:Sovereign_star_dreadnought.jpg|thumb|right|250px|The 15,000-meter ''Sovereign''-class]]
+{{Main|Sovereign-class Super Star Destroyer}}
+The ''Sovereign''-class was a 15-kilometer, scaled-down version of the ''Eclipse''-class, meant for mass production. Like the ''Eclipse'', the ''Sovereign'' was armed with a superlaser as its primary weapon. None of the four initial ships survived the fall of the resurrected Palpatine, and all were destroyed before completion.<ref name="DESB" />
+
+===Super Star Destroyer prototype===
+[[File:Sarlaccproject.jpg|thumb|right|250px|The 12,000-meter ''Super Star Destroyer prototype'']]
+{{Main|Super Star Destroyer prototype}}
+This ship, developed in the [[Sarlacc Project]], was 12 kilometers long, had a central reactor, and was meant to be covered in armaments and serve as the Imperial Navy's symbolic flagship. It was destroyed while partially unfinished during the [[Battle of Byss]]. Despite its destruction, it served as a precursor to later classes, like the ''Executor''.<ref name="DOD" />
+
+===''Vengeance''-class dreadnought===
+[[File:Vengeanceabove.jpg|thumb|right|250px|The 19,000-meter ''Vengeance''-class]]
+{{Main|Vengeance-class dreadnought}}
+This 19,000-meter dreadnought model was used by the [[Galactic Empire/Legends|Galactic Empire]]. Several vessels participated in the prelude to [[Operation Shadow Hand]], where at least one was destroyed during the infighting of the [[Imperial Civil War]].<ref name="TEGTW" />
+
+==Appearances==
+{{ScrollBox|content=
+*''[[Star Wars: Galactic Battlegrounds]]'' {{Mo}}
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]'' {{Mo}}
+*{{DoD|The Core of Corruption}} {{Mo}}
+*{{DoD|Jaws of the Sarlacc}}
+*''[[Star Wars: The Force Unleashed]]''
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]] {{Flash}}
+*[[Death Star (novel)|''Death Star'']]
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*''[[Star Wars: Dark Forces]]''
+*''[[Star Wars: Dark Forces Remaster]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Star Wars Missions 18: Rogue Squadron to the Rescue]]''
+*''[[Scoundrel's Luck]]''
+*[[Allegiance (novel)|''Allegiance'']] {{Ab|Allegiance (audiobook)}}
+*"[[Darth Vader Strikes]]" {{Reprint|Darth Vader Strikes}}
+*"[[Traitor's Gambit]]" {{Reprint|Traitor's Gambit}} {{Flash}}
+*"[[The Return of Ben Kenobi]]" {{Reprint|The Return of Ben Kenobi}}
+*"[[The Power Gem]]" {{Reprint|The Power Gem}} {{Hologram}}
+*"[[It's a Trap]]" {{Reprint|It's a Trap}}
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*"[[Showdown (LA Times)|Showdown]]" {{Reprint|Showdown (LA Times)}}
+*"[[The Final Trap]]" {{Reprint|The Final Trap}}
+*{{Tales|4|Sand Blasted}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Galaxy of Fear: The Hunger]]''
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}} {{Mo}}
+*{{GalaxiesAED}} {{C|Appeared in loading screen}}
+*''[[The Game Chambers of Questal]]'' {{Reprint|The Game Chambers of Questal}} {{Mo}}
+*[[Splinter of the Mind's Eye 3|''Splinter of the Mind's Eye'' 3]]
+*[[Star Wars: TIE Fighter Collector's CD-ROM|''Star Wars: TIE Fighter'' Collector's CD-ROM]] {{Mo}}
+*{{JournalCite|12|Galaxywide NewsNets}}
+*{{JournalCite|13|Galaxywide NewsNets}}
+*{{JournalCite|14|Galaxywide NewsNets}}
+*{{Film|V}} {{1st}}
+*[[Star Wars (1977) 39|''Star Wars'' (1977) 39]] {{Reprint|Star Wars (1977) 39}}
+*[[Star Wars (1977) 40|''Star Wars'' (1977) 40]] {{Reprint|Star Wars (1977) 40}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 41|''Star Wars'' (1977) 41]] {{Reprint|Star Wars (1977) 41}}
+*{{ESBRadio|The Millennium Falcon Pursuit}}
+*{{ESBRadio|Way of the Jedi (episode)}}
+*[[Star Wars (1977) 42|''Star Wars'' (1977) 42]] {{Reprint|Star Wars (1977) 42}}
+*{{ESBRadio|New Allies, New Enemies}}
+*{{ESBRadio|Gambler's Choice}} {{Imo}}
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*{{ESBRadio|The Clash of Lightsabers}}
+*{{WEGCite|story=Temporary Reassignment|book=Shadows of the Empire Sourcebook}}
+*''[[Star Wars: Imperial Ace]]''
+*[[Star Wars (1977) 60|''Star Wars'' (1977) 60]] {{Reprint|Star Wars (1977) 60}}
+*[[Star Wars (1977) 61|''Star Wars'' (1977) 61]] {{Reprint|Star Wars (1977) 61}}
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''
+*{{GalaxyCite|11|The Emperor's Trophy|reprint=1}} {{Mo}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*{{WEGCite|story=Hasty Exit|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*''[[The Rise and Fall of Darth Vader]]''
+*{{Film|VI}}
+*[[Return of the Jedi 1|''Return of the Jedi'' 1]] {{Reprint|Return of the Jedi 1}}
+*[[Return of the Jedi 2|''Return of the Jedi'' 2]] {{Reprint|Return of the Jedi 2}}
+*{{RJRadio|Prophecies and Destinies}} {{Imo}}
+*''[[Slave Ship]]''
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*{{RJRadio|Pattern and Web}}
+*{{Tales|12|A Day in the Life}}
+*{{Tales|1|Mara Jade: A Night on the Town}} {{Hologram}}
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]] {{Mo}}
+*''[[Dark Forces: Rebel Agent]]''
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*''[[Dark Forces: Jedi Knight]]''
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Isard's Revenge]]''
+*[[Dark Empire (audio drama)|''Dark Empire'' audio drama]]
+*[[Dark Empire 6|''Dark Empire'' 6]] {{1st}}
+*[[Empire's End (audio drama)|''Empire's End'' audio drama]]
+*[[Empire's End 1|''Empire's End'' 1]]
+*[[Empire's End 2|''Empire's End'' 2]]
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}} {{Vision|[[Corran Horn/Legends|Corran Horn]]}}
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[X-Wing: Starfighters of Adumar]]'' {{Mo}}
+*{{JournalCite|14|Murder in Slushtime|reprint=1}} {{C|"Callista Ming" capsule}} {{Mo}}
+*''[[Before the Storm]]''
+*''[[Shield of Lies]]''
+*''[[Tyrant's Test]]''
+*{{JournalCite|15|Two for One}}
+*''[[Young Jedi Knights: Shards of Alderaan]]'' {{Mo}}
+*''[[The New Jedi Order: Dark Tide II: Ruin]]'' {{Mo}}
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest III: The Swarm War]]''
+*''[[Legacy of the Force: Inferno]]''
+*''[[Legacy of the Force: Fury]]'' {{Mo}}
+*''[[Legacy of the Force: Revelation]]'' {{Mo}}
+*''[[Legacy of the Force: Invincible]]''
+*''[[Fate of the Jedi: Backlash]]'' {{Ab|Fate of the Jedi: Backlash (audiobook)}} {{Hologram}} {{C|in [[Natasi Daala]]'s office}}
+*''[[Fate of the Jedi: Apocalypse]]'' {{Ab|Fate of the Jedi: Apocalypse (audiobook)}}
+*{{StoryCite|story=Celestia Galactica Photografica|book=Star Wars: Visionaries}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-11-21 -->[[Star Wars Infinities: A New Hope 4|''Star Wars Infinities: A New Hope'' 4]]
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1980-06-XX -->''[[The Empire Strikes Back Sketchbook]]''
+*<!-- 1980-10-XX -->''[[The Art of Star Wars Episode V: The Empire Strikes Back]]''
+*<!-- 1983-11-XX -->''[[The Art of Star Wars Episode VI: Return of the Jedi]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1989-01-XX -->''[[Galaxy Guide 1: A New Hope]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1993-11-XX -->''[[The Art of Star Wars Galaxy]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Recon & Report: The Journey to Coruscant|reprint=1}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-08-XX -->{{JournalCite|3|The Pentastar Alignment|reprint=1}}
+*<!-- 1995-01-XX -->''[[From Star Wars to Indiana Jones: The Best of the Lucasfilm Archives]]''
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-04-XX -->''[[Dark Forces Official Player's Guide]]''
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-11-XX -->''[[The Illustrated Star Wars Universe]]''
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Galactic Empire—Ships of the Fleet]]''
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Vader Destroys the Rebel Base|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC029.jpg}}
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]]
+<!-- 1996-11-XX -->{{CardGameSet|set={{CCG|set=Hoth Limited|parent=1}}|cards=
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Admiral Ozzel}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Captain Piett}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=ComScan Detection}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Dark Dissension}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Death Squadron}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Imperial Domination}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=That's It, The Rebels Are There!}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=You Have Failed Me For The Last Time}} {{Po}}
+}}
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-02-XX -->''[[The Complete Star Wars Trilogy Scrapbook]]''
+*<!-- 1997-03-XX -->{{CCG|set=The Empire Strikes Back Introductory Two-Player Game|cardname=Veers}} {{Po}}
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=4-LOM}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=4-LOM's Concussion Rifle}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Apology Accepted}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Asteroids Do Not Concern Me}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Bossk}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Bossk's Mortar Gun}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Comm Chief}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Commander Brandei}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Commander Gherant}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Control (Dark)}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Corporal Derdram}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Corporal Vandolay}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Dengar}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Dengar's Blaster Carbine}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Executor''}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Executor'': Comm Station}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Executor'': Control Station}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Executor'': Holotheatre}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Executor'': Main Corridor}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Executor'': Meditation Chamber}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Field Promotion}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Flagship}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=HoloNet Transmission}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=IG-88}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=IG-88's Neural Inhibitor}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=IG-88's Pulse Cannon}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Imperial Helmsman}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Lieutenant Commander Ardan}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Lieutenant Suba}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Lieutenant Venka}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=No Disintegrations!}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Report To Lord Vader}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Res Luk Ra'auf}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Rogue Asteroid (Light)}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=The Dark Path}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Transmission Terminated}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Visage of the Emperor}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Warrant Officer M'Kae}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=We Don't Need Their Scum}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=What Is Thy Bidding, My Master?}} {{Po}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Zuckuss}} {{Po}}
+}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-09-08 -->''[[Star Wars: The Annotated Screenplays]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-11 -->''[[Star Wars: The Art of the Brothers Hildebrandt]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Chief Retwin}} {{Po}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Imperial Trooper Guard Dainsom}} {{Po}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Lieutenant Cecius}} {{Po}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=TIE Sentry Ships}}
+}}
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-02-XX -->{{CollectorCite|1|Around the Galaxy}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-07-XX -->{{CCG|set=Second Anthology|cardname=Flagship Operations}} {{Po}}
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 1998-10-07 -->''[[TIE Fighter: A Pocket Manual]]'' {{Po}}
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Alert My Star Destroyer!}} {{Imo}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Dreaded Imperial Starfleet}} {{Po}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=''Executor'': Docking Bay}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=OS-72-10}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Oppressive Enforcement}} {{Po}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Star Destroyer!}} {{Imo}}
+}}
+<!-- 1999-06-30 -->{{CardGameSet|set={{CCG|set=Endor Limited|parent=1}}|cards=
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Fly Casual}} {{Po}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=It's An Older Code}} {{Po}}
+}}
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Admiral Piett}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Black 11}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Blue Squadron 5}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Chimaera''}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Commander Merrejk}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Concentrate All Fire}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Flagship ''Executor''}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Flagship Operations}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Inconsequential Losses}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Intensify The Forward Batteries}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Leave Them To Me}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Menace Fades}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Prepared Defenses}} {{Po}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Something Special Planned For Them}} {{Po}}
+}}
+*<!-- 2000-10-XX -->''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]''
+*<!-- 2001-09-XX -->''[[Rebellion Era Sourcebook]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2001-12-27 -->{{FactFile|1|COR 1-4|Coruscant}}
+<!-- 2002-01-23 -->{{SourceContents|issue=[[The Official Star Wars Fact File 4|''The Official Star Wars Fact File'' 4]]|contents=
+*<!-- 2002-01-23 -->{{FactFile|4|HOT 1-6|The Battle of Hoth}}
+*<!-- 2002-01-23 -->{{FactFile|4|OZZ 1-2|Admiral Ozzel}}
+}}
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}}
+*<!-- 2002-03-27 -->{{FactFile|13|AWI 1-2|A-Wing Starfighter}}
+*<!-- 2002-04-23 -->''[[The New Essential Guide to Characters]]''
+*<!-- 2002-05-08 -->{{FactFile|19|VAD 7-12|Darth Vader}}
+*<!-- 2002-05-22 -->{{FactFile|21|SKY 9-12|Luke Skywalker}}
+*<!-- 2002-08-08 -->{{Wizards|url=starwars/article.asp?x=sw20020808dstar&c=rpg|text=Super Star}}
+*<!-- 2002-10-16 -->{{FactFile|42|MED 1-2|Meditation Chamber}}
+*<!-- 2002-10-23 -->{{FactFile|43|SHI 1-4|Energy Shields}}
+*<!-- 2002-11-20 -->{{FactFile|47|EXE 1-2|Executor}}
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-02-26 -->{{FactFile|61|BOU 15-16|Bounty Hunters – Zuckuss}}
+*<!-- 2003-04-30 -->{{FactFile|70|PIE 1-2|Firmus Piett}}
+*<!-- 2003-07-02 -->{{FactFile|79|END 29-30|The Battle of Endor}}
+*<!-- 2003-09-10 -->{{FactFile|89|PIE 3-6|Admiral Firmus Piett}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-15 -->{{FactFile|94|YAV 13-16|The Evacuation of Yavin}}
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+<!-- 2003-11-XX -->{{CardGameSet|set={{TCG|set=The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Admiral Firmus Piett (A)|link=https://swtcg.com/Content/Images/Cards/ESB/Admiral_Firmus_Piett_A.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Admiral Firmus Piett (B)|link=https://swtcg.com/Content/Images/Cards/ESB/Admiral_Firmus_Piett_B.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Admiral Kendal Ozzel (A)|link=https://swtcg.com/Content/Images/Cards/ESB/Admiral_Kendal_Ozzel_A.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Blockade|link=https://swtcg.com/Content/Images/Cards/ESB/Blockade.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Emperor's Bidding|link=https://swtcg.com/Content/Images/Cards/ESB/Emperors_Bidding.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=''Executor'' (A)|link=https://swtcg.com/Content/Images/Cards/ESB/Executor_A.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=''Executor'' Bridge|link=https://swtcg.com/Content/Images/Cards/ESB/Executor_Bridge.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=''Executor'' Hangar|link=https://swtcg.com/Content/Images/Cards/ESB/Executor_Hangar.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Failed for the Last Time|link=https://swtcg.com/Content/Images/Cards/ESB/Failed_for_the_Last_Time.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Imperial Fleet|link=https://swtcg.com/Content/Images/Cards/ESB/Imperial_Fleet.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Imperial II Star Destroyer|link=https://swtcg.com/Content/Images/Cards/ESB/Imperial_II_Star_Destroyer.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Meditation Chamber|link=https://swtcg.com/Content/Images/Cards/ESB/Meditation_Chamber.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Navy Trooper|link=https://swtcg.com/Content/Images/Cards/ESB/Navy_Trooper.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Sacrifice|link=https://swtcg.com/Content/Images/Cards/ESB/Sacrifice.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Search for the Rebels|link=https://swtcg.com/Content/Images/Cards/ESB/Search_for_the_Rebels.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Bomber EX-1-2|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Bomber_EX_1_2.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Fighter EX-4-9|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Fighter_EX_4_9.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Vader's Imperial Shuttle (A)|link=https://swtcg.com/Content/Images/Cards/ESB/Vaders_Imperial_Shuttle_A.webp?v=2}}
+}}
+*<!-- 2004-02-24 -->{{InsiderCite|74|Who's Who in Echo Base: The Unsung Rebels of the Battle of Hoth}}
+*<!-- 2004-03-24 -->''[[Geonosis and the Outer Rim Worlds]]''
+<!-- 2004-04-02 -->{{CardGameSet|set={{TCG|set=Rogues and Scoundrels|parent=1}}|cards=
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=4-LOM (A)|link=https://swtcg.com/Content/Images/Cards/RAS/4_Lom_A.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Admiral Firmus Piett (C)|link=https://swtcg.com/Content/Images/Cards/RAS/Admiral_Firmus_Piett_C.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Boba Fett (G)|link=https://swtcg.com/Content/Images/Cards/RAS/Boba_Fett_G.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Bossk (A)|link=https://swtcg.com/Content/Images/Cards/RAS/Bossk_A.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Call for Hunters|link=https://swtcg.com/Content/Images/Cards/RAS/Call_For_Hunters.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Darth Vader (L)|link=https://swtcg.com/Content/Images/Cards/RAS/Darth_Vader_L.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Dengar (A)|link=https://swtcg.com/Content/Images/Cards/RAS/Dengar_A.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Holoprojection Chamber|link=https://swtcg.com/Content/Images/Cards/RAS/Holoprojection_Chamber.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=IG-88 (A)|link=https://swtcg.com/Content/Images/Cards/RAS/IG_88_A.webp?v=2}} {{Po}}
+*<!-- 2004-04-02 -->{{TCG|set=Rogues and Scoundrels|cardname=Zuckuss (A)|link=https://swtcg.com/Content/Images/Cards/RAS/Zuckuss_A.webp?v=2}} {{Po}}
+}}
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+<!-- 2004-10-06 -->{{CardGameSet|set={{TCG|set=Return of the Jedi|parent=1}}|cards=
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Admiral Ackbar (A)|link=https://swtcg.com/Content/Images/Cards/ROTJ/Admiral_Ackbar_A.webp?v=2}} {{Imo}}
+*<!-- 2004-10-06 -->{{TCG|set=Return of the Jedi|cardname=Endor Imperial Fleet|link=https://swtcg.com/Content/Images/Cards/ROTJ/Endor_Imperial_Fleet.webp?v=2}} {{Po}}
+}}
+*<!-- 2005-02-01 -->{{FigurineCite|1|Spaceships and Vehicles}}
+*<!-- 2005-04-14 -->{{Wizards|url=default.asp?x=starwars/article/sw20050414planet1|series=Byss and the Deep Core|text=Part 1: Byss}}
+*<!-- 2005-07-14 -->''[[Vader: The Ultimate Guide]]''
+*<!-- 2005-10-06 -->''[[Star Wars: The Ultimate Visual Guide]]''
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2006-02-15 -->''[[Star Wars: The Comics Companion]]''
+*<!-- 2006-03-09 -->{{Wizards|url=default.asp?x=starwars/article/sw20060309jc84|series=Jedi Counseling|text=84}}
+*<!-- 2006-10-19 -->{{Wizards|url=default.asp?x=starwars/article/SBPreview1|text=''Starship Battles'' Preview 1}}
+*<!-- 2006-11-21 -->{{FigurineCite|48|Heroes and Villains}}
+*<!-- 2006-11-XX -->{{SWMiniCite|set=Starship Battles|pack=Super Star Destroyer ''Executor''}}
+*<!-- 2006-12-21 -->{{Wizards|url=default.asp?x=starwars/article/rebelraiders|text=Rebel Raiders|int=Rebel Raiders}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-09-04 -->{{InsiderCite|96|The Empire's Finest: Who's Who in the Imperial Military}}
+*<!-- 2007-11-27 -->[[Jedi vs. Sith: The Essential Guide to the Force (real-life book)|''Jedi vs. Sith: The Essential Guide to the Force'']]
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-03-11 -->{{InsiderCite|100|The 100 Greatest Things About Star Wars... Ever!|The 100 Greatest Things About ''Star Wars''... Ever!}}
+*<!-- 2008-08-05 -->{{InsiderCite|103|Inside the Worlds of The Force Unleashed|Inside the Worlds of ''The Force Unleashed''}}
+*<!-- 2008-08-19 -->''[[The Art and Making of Star Wars: The Force Unleashed]]''
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]'' {{Imo}}
+*<!-- 2008-11-04 -->{{InsiderCite|105|25 Years of Return of the Jedi!|25 Years of ''Return of the Jedi''!|reprint=1}}
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']] {{Po}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+*<!-- 2009-08-XX -->{{SideshowCite|set=Militaries of Star Wars|packtype=Sixth Scale Figure|pack=Admiral Piett (Imperial Officer, ''Executor'')|altlink=https://www.rebelscum.com/SSC16Piett.asp}}
+*<!-- 2011-09-13 -->{{InsiderCite|128|Ask Lobot}}
+*<!-- 2011-09-13 -->{{DB|technology|darthvaderssuit|Darth Vader's suit}}
+*<!-- 2011-09-13 -->{{DB|character|dengar|Dengar}}
+*<!-- 2011-09-13 -->{{DB|technology|gravitywellprojector|gravity well projector}}
+*<!-- 2011-09-13 -->{{DB|starship|imperialstardestroyer|Imperial Star Destroyer}}
+*<!-- 2011-09-13 -->{{DB|character|lumiya|Lumiya}}
+*<!-- 2011-09-13 -->{{DB|technology|meditationchamber|meditation chamber}}
+*<!-- 2011-09-13 -->{{DB|character|captainlorthneeda|Needa, Captain Lorth}}
+*<!-- 2011-09-13 -->{{DB|character|admiralozzel|Ozzel, Admiral Kendal}}
+*<!-- 2011-09-13 -->{{DB|character|admiralpiett|Piett, Admiral}}
+*<!-- 2011-09-13 -->{{DB|character|tanithshire|Shire, Tanith}}
+*<!-- 2011-09-13 -->{{DB|character|starkiller|Starkiller (Darth Vader's Secret Apprentice)}}
+*<!-- 2011-09-13 -->{{DB|starship|superstardestroyer|Super Star Destroyer}}
+*<!-- 2011-09-13 -->{{DB|character|darthvader|Vader, Darth}}
+*<!-- 2011-09-13 -->{{DB|character|princexizor|Xizor, Prince}}
+*<!-- 2012-02-20 -->''[[Star Wars: Beware the Sith]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-12-17 -->{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-2|series=The Imperial Warlords: Despoilers of an Empire|text=Part 2|nolive=1}}
+*<!-- 2014-04-22 -->{{ForceCollection|Lieutenant Suba}}
+*<!-- 2014-04-25 -->{{SWE|technology|imperialstardestroyer|Imperial Star Destroyer}}
+*<!-- 2014-04-25 -->{{SWE|technology|superstardestroyer|Super Star Destroyer}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+}}
+
+===Non-canon sources===
+*<!-- 1989-06-XX -->{{ChallengeCite|38|Starfighters Down}} {{Un}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+{{Interlang
+|cs=Hvězdný superdestruktor
+|da=Super Star Destroyer
+|de=Supersternenzerstörer
+|es=Superdestructor Estelar
+|fi=Executor-luokan supertähtituhoaja
+|fr=Super Destroyer Stellaire/Légendes
+|pl=Gwiezdny Niszczyciel typu Super
+}}
+
+[[Category:Capital ship classifications]]
+[[Category:Slang]]
+
+{{RelatedCategories
+|[[Category:Super Star Destroyer variants]]
+|[[Category:Super Star Destroyers]]
+}}
