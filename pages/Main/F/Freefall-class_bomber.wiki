@@ -1,0 +1,92 @@
+{{Top|leg|title=''Freefall''-class bomber}}
+{{StarshipClass
+|image=[[File:NubianTransport.jpg]]
+|name=''Freefall''-class bomber
+|designer=
+|manufacturer=[[Nubia Star Drives, Incorporated/Legends|Nubian Design Collective]]<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref>
+|line=
+|model=''Freefall''-class bomber
+|type=*[[Bomber/Legends|Bomber]] {{C|stock configuration}}
+*[[Starfighter/Legends|Starfighter]] {{C|modified}}
+|cost=70,000 [[Galactic Credit Standard/Legends|credits]] {{C|18,000 used}}<ref name="TCWCG" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer per hour/Legends|km/h]]<ref name="TCWCG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2 {{C|backup class 10}}<ref name="TCWCG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 [[Laser cannon/Legends|laser cannons]]<ref name="TCWCG" />
+*1 bomb chute<ref name="TCWCG" />
+**20 [[Proton bomb/Legends|proton bombs]]<ref name="TCWCG" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="TCWCG" />
+*[[Gunner/Legends|Gunner]] (1)<ref name="TCWCG" />
+*[[Navigator/Legends|Navigator]] (1)<ref name="TCWCG" />
+*Bombardier (1)<ref name="TCWCG" />
+|skeleton=
+|passengers=10<ref name="TCWCG" />
+|capacity=20 [[Metric ton/Legends|metric tons]]<ref name="TCWCG" />
+|cargohandling=
+|consumables=4 [[Standard week/Legends|weeks]]<ref name="TCWCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="TCWCG" />
+|role=*Bomber
+*Starfighter
+|firstuse=
+|retired=
+|affiliation=[[Lok Revenants/Legends|Lok Revenants]]
+}}
+The '''''Freefall''-class bomber''' was designed to serve as a [[Bomber/Legends|bomber]]. [[Jinkins]]' personal starfighter, the ''[[Freefall]]'', was a modified version of this craft.
+
+==Characteristics==
+Measuring 30 meters in length, the ''Freefall''-class was named for the fact that it was designed to simply drop unguided bombs on a target. The craft's central fuselage could accommodate up to 20 metric tons of cargo, and was attached to two huge, wing-mounted sublight engines. A pair of cockpit-mounted laser cannons provided defensive armament, in addition to its bomb chute.
+
+{{Ship-stub}}
+
+==Appearances==
+*[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']] {{1st}}
+*''[[Star Wars: Jedi Starfighter]]''
+
+==Sources==
+*<!-- 2001-07-24 -->{{GamerCite|5|State of the Arts}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Bombardér třídy Freefall
+|de=Freefall-Klasse Sternjäger
+|nl=Freefall-class Starfighter
+}}
+
+[[Category:Bomber classes]]
+[[Category:Nubia Star Drives, Incorporated products]]
+
+{{RelatedCategories
+|[[Category:Freefall-class bombers]]
+}}

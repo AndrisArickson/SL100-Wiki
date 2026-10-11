@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Freighter_Type_C.jpg]]
+|name=Freighter Type C
+|designer=
+|manufacturer=[[Yuung, Tygg & Josse Engineering]] Corporation<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=
+|type=Medium freighter<ref name="XWA" />
+|cost=
+|modifier=
+|sysmods=
+|length=190.43 meters<ref name="XWA" />
+|width=60.31 meters<ref name="XWA" />
+|height=32.06 meters<ref name="XWA" />
+|mass=
+|max accel=4 MGLT/s<ref name="XWA" />
+|mglt=15 MGLT<ref name="XWA" />
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=Equipped<ref name="XWA" />
+|poweroutput=
+|power=
+|shield gen=Rated 232 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 156 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None<ref name="XWA" />
+|complement=
+|bays=
+|escapepods=
+|crew=4<ref name="XWA" />
+|skeleton=1<ref name="XWA" />
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Freight transport<ref name="XWA" />
+|firstuse=
+|retired=
+|affiliation=
+*Various: private and commercial
+}}
+The '''Freighter Type C''' was a medium-sized cargo freighter manufactured by [[Yuung, Tygg & Josse Engineering]].
+
+This common light freighter was found throughout [[The galaxy/Legends|the galaxy]], and was YTJ Corporation's first attempt to satisfy the demand for an economical transport.
+
+Unarmed and only lightly armored, the Type C was best deployed as part of a convoy for safety, as its top speed was far slower than even the most primitive [[Starfighter/Legends|starfighter]].
+
+==Appearances==
+*''[[Star Wars: X-Wing Alliance]]'' {{1st}}
+
+==Sources==
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Typ C-Frachter
+}}
+
+[[Category:Freighter classes]]
+[[Category:Yuung, Tygg & Josse Engineering products]]
+
+{{RelatedCategories
+|[[Category:Freighters Type C]]
+}}

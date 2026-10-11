@@ -1,0 +1,63 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Frozen_Peaks_Lifter.jpg]]
+|name=Frozen Peaks Lifter
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Hoversled/Legends|Hoversled]]<ref name="TOR">{{TORcite|exp=lots|type=item|Frozen Peaks Lifter|Dynamic Encounters: Hoth}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]<ref name="TOR" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Frozen Peaks Lifter''' was a model of [[Hoversled/Legends|hoversled]] that was used during the [[Third Galactic War]].<ref name="TOR" />
+{{Veh-stub}}
+
+==Appearances==
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]'' {{1st}}
+
+==Sources==
+*{{TORweb|url=info/news/article/20241114-0|text=Game Update 7.6 "Galactic Threads" Recap}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Hoversled models]]

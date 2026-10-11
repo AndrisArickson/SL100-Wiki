@@ -1,0 +1,87 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:F-LER.jpg]]
+|name=Freight-Loading External Rover
+|designer=[[Tem Riffle]]
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 [[Laser cannon/Legends|laser cannons]] (optional)
+*[[Power harpoon launcher|Harpoon and tow cable]]
+*[[Ap/11 double laser cannon]] (modified variant)
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Cargo handler
+*[[Spacetug/Legends|Tug]]
+|firstuse=
+|retired=
+|affiliation=Corellian Engineering Corporation
+}}
+{{Quote|To use the F-LER, I'd have to get out of my YT-1300. Who wants that?|A YT-1300 pilot|<ref name="Millennium Falcon Owner's Workshop Manual">''[[Millennium Falcon Owner's Workshop Manual]]''</ref>}}
+The '''Freight-Loading External Rover''', also known as the '''F-LER''', was a small, extremely rare single-pilot [[Starship/Legends|starship]] that was manufactured by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] for use in conjunction with the [[YT-1300 light freighter/Legends|YT-1300 light freighter]].
+
+==History==
+The vehicle was developed by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] (CEC) designer [[Tem Riffle]], who was inspired by a [[Spacetug/Legends|tug]] that he had observed towing a [[YT-1200 medium freighter|YT-1200 freighter]]. The F-LER was designed to fit between the forward mandibles of a YT-1300, and Riffle envisaged that the rover could be a cargo handler, to deliver freight to locations that the YT-1300 was too large to reach. CEC's executives favored Riffle's idea, and many other designers concluded that the addition of a F-LER to a YT-1300 gave the [[Freighter/Legends|freighter]] a sleeker look, while CEC's marketing department believed that YT-1300 owners would want to fill in the gap between the forward mandibles. A prototype F-LER was developed and successfully tested, and CEC began a limited production run of the design. CEC's marketing department also carried out a survey of 500 commercial YT-1300 pilots, to assess the F-LER's market potential.
+
+However, just over a week into the F-LER's production run, the survey results were collated and revealed that most of the surveyed pilots were not interested in the F-LER, because they thought that it would get in the way when loading cargo. As a result, CEC ceased production of the vessel and the F-LER was never sold commercially. One hundred were saved to be used as tugs at CEC orbital assembly facilities, while the rest were scrapped. Eventually, a small number of F-LERs made it onto the open market and a few were modified and fitted with [[Ap/11 double laser cannon]]s. The F-LER's rarity was such that by [[4 ABY/Legends|4 ABY]], a refurbished F-LER was worth more than a vintage "stock" YT-1300.
+
+Despite the F-LER's commercial failure, the research and development that went into the F-LER later resulted in the production of the [[YT-XC]] "mini-fighter," a small exploration ship that was designed to be carried aboard the YT-1300.
+
+==Behind the scenes==
+[[File:Cargo_Handler.jpg|thumb|250px|F-LER next to [[Han Solo/Legends|Han Solo]]]]
+The F-LER was originally a toy planned for the [[Kenner Products|Kenner]] toys storyline ''[[The Epic Continues]]'', as a supplement for the Kenner ''Millennium Falcon'' toy. However, because of that line's cancellation, the toy was never released. Pre-production photos were implemented into a special binder containing toys from the toyline, which were eventually shown to the public with the article [[Galactic Bazaar|''Tales of Phantom Toys'']] in Issue 2 of ''[[Star Wars Galaxy Magazine]]''.
+
+The craft was eventually named and made an official part of [[Star Wars Legends|''Star Wars'' Legends]] with the release of the ''[[Millennium Falcon Owner's Workshop Manual]]''.
+
+==Appearances==
+*''[[The Epic Continues]]'' {{C|Cancelled}} {{Nc}}
+
+==Sources==
+[[File:Yt1300-extras.jpg|thumb|200px|Schematic showing the location of the F-LER and YT-XC when docked with a YT-1300]]
+*<!-- 1995-01-XX -->{{GalaxyCite|2|Galactic Bazaar|Galactic Bazaar: Tales of Phantom Toys}} {{1st}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]'' {{1stID|Freight-Loading External Rover}}
+*<!-- 2013-10-14 -->{{SW|url=news/offscreen-but-not-forgotten-mini-rigs-body-rigs-and-other-kenner-vehicles|text=Offscreen, but Not Forgotten: Mini-Rigs, Body-Rigs, and Other Kenner Vehicles|int=Offscreen, but Not Forgotten: Mini-Rigs, Body-Rigs, and Other Kenner Vehicles|nolive=1}}
+*<!-- 2015-04-21 -->{{InsiderCite|157|Classic Moment|Classic Moment: The Fastest Hunk of Junk in the Toybox!|reprint=1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Tug classes]]
