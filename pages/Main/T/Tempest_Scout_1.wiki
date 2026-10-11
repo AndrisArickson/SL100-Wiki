@@ -1,0 +1,71 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=[[File:Tempestscout1.png]]
+|name=''Tempest Scout 1''
+|designer=
+|manufacturer=*[[Kuat Drive Yards/Legends|Kuat Drive Yards]]
+*[[Balmorran Arms/Legends|Balmorran Arms]]
+|line=
+|model=[[All Terrain Scout Transport/Legends|All Terrain Scout Transport]]
+|type=[[Walker/Legends|Walker]]
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=8.6 meters
+|mass=
+|max accel=
+|speed=90 km/h
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Twin [[Laser cannon/Legends|laser cannon]] (1)
+*Light [[Blaster cannon/Legends|blaster cannon]] (1)
+*[[Concussion grenade/Legends|Concussion grenade]] launcher (1)
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)
+*[[Gunner/Legends|Gunner]] (1)
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+**[[Imperial Army/Legends|Imperial Army]]
+***[[Tempest Force/Legends|Tempest Force]]
+}}
+'''Tempest Scout 1''' was an [[All Terrain Scout Transport/Legends|All Terrain Scout Transport]] in [[Tempest Force/Legends|Tempest Force]]. It was assigned to [[Endor/Legends|Endor]], and it was first to respond to the incident at the [[Endor shield generator bunker|control bunker]]. It was piloted by [[Lieutenant/Legends|Lieutenant]] [[Arnet]] during the [[Battle of Endor/Legends|Battle of Endor]].
+
+==Appearances==
+*{{Film|VI}} {{1st}}
+
+==Sources==
+<!-- 1999-06-30 -->{{CardGameSet|set={{CCG|set=Endor Limited|parent=1}}|cards=
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Lieutenant Arnet}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Tempest Scout 1}}
+}}
+
+{{Interlang
+|de=Tempest Scout 1#legends
+|nl=Tempest Scout 1
+}}
+
+[[Category:All Terrain Scout Transports]]

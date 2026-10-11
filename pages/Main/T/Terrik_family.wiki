@@ -1,0 +1,42 @@
+{{Top|leg}}
+{{Family
+|image=
+|name=Terrik family
+|type=
+|species=[[Human/Legends|Human]]<ref name="XW:RS">''[[X-Wing: Rogue Squadron]]''</ref>
+|first=
+|head=
+|relatives=[[Horn family]]<ref name="XW:BW">''[[X-Wing: The Bacta War]]''</ref>
+|origin=[[Corellia/Legends|Corellia]]<ref name="XW:RS" />
+|locations=
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=
+}}
+The '''Terrik family''' were a [[Corellian/Legends|Corellian]] lineage considered to be a legendary family of [[Smuggler/Legends|smugglers]].<ref name="CCG">{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Pulsar Skate}}</ref> The family consisted of [[Booster Terrik]] and his wife, [[Jysella Terrik|Jysella]], and their daughter, [[Mirax Terrik Horn|Mirax]]. Terrik also considered [[Wedge Antilles/Legends|Wedge Antilles]] to be part of his family after the [[Bonestar Pirates]] killed Antilles' parents.<ref name="SV">''[[Scum and Villainy (sourcebook)|Scum and Villainy]]''</ref> The Terrik family was related to the [[Horn family]] through the marriage of Mirax to [[Rogue Squadron/Legends|Rogue Squadron]] [[Pilot/Legends|pilot]] and former [[Corellian Security Force|CorSec]] officer [[Corran Horn/Legends|Corran Horn]].<ref name="XW:BW" /> The marriage produced two children, [[Valin Horn|Valin]]<ref name="SotP">''[[Specter of the Past]]''</ref> and [[Jysella Horn|Jysella]].<ref name="DT-I">''[[The New Jedi Order: Dark Tide I: Onslaught]]''</ref>
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree|HORNF| |BOOST|y|JYSEL||HORNF={{C|see [[Horn family]]}}|BOOST=[[Booster Terrik]]<ref name="SV" />|JYSEL=[[Jysella Terrik]]<ref name="SV" />}}
+{{FamilyTree| |`|-|.| | | |!| | | |}}
+{{FamilyTree| | |CORRH|y|MIRAX| | ||CORRH=[[Corran Horn/Legends|Corran Horn]]<ref name="XW:BW" />|MIRAX=[[Mirax Terrik Horn]]<ref name="SV" />}}
+{{FamilyTree| | | |,|-|^|-|.| | | |}}
+{{FamilyTree| | |VALIN| |SELLA| | ||VALIN=[[Valin Horn]]<ref name="SotP" />|SELLA=[[Jysella Horn]]<ref name="DT-I" />}}
+{{FamilyTree/end}}
+
+==Appearances==
+*''[[X-Wing: Rogue Squadron]]'' {{1st}}
+*''[[X-Wing: The Bacta War]]''
+
+==Sources==
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Pulsar Skate}} {{1stID|Terrik family}}
+*<!-- 2008-11-18 -->''[[Scum and Villainy (sourcebook)|Scum and Villainy]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellians]]
+[[Category:Families]]

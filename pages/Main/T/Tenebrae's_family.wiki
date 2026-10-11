@@ -1,0 +1,68 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{Family
+|image=[[File:Vaylin_and_Thexan.jpg]]
+|name=Tenebrae's family
+|type=
+|species=*[[Sith (species)/Legends|Sith]]<ref name="Ons">{{TORcite|exp=ons|type=general|Echoes of Oblivion|[[Satele Shan]]'s [[mindscape]]}}</ref>
+*[[Human/Legends|Human]]<ref name="Sacrifice">{{TORweb|url=info/media/trailers/sacrifice|text="Sacrifice"|int=Sacrifice (cinematic trailer)}}</ref>
+|first=
+|head=[[Tenebrae]]<ref name="Sacrifice" />
+|relatives=
+|origin=*[[Nathema|Medriaas]]<ref name="Revan">''[[The Old Republic: Revan]]''</ref>
+*[[Zakuul]]<ref name="Sacrifice" />
+|locations=
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=*[[Sith/Legends|Sith Order]]<ref name="Blood of the Empire 1">''[[The Old Republic, Blood of the Empire Act 1: Shades of the Sith]]''</ref>
+*[[Sith Empire/Legends|Old Sith Empire]]<ref name="Blood of the Empire 1" />
+*[[Sith Empire (Post–Great Hyperspace War)|True Sith Empire]]<ref name="Revan" />
+*[[Eternal Empire]]<ref name="KotFE">{{TORcite|exp=kotfe|chapter=1}}</ref>
+*[[Eternal Alliance]]<ref name="KotET">{{TORcite|exp=kotet|chapter=6}}</ref>
+}}
+The '''family''' of [[Tenebrae]] was originally a line of [[Sith (species)/Legends|pure-blooded Sith]],<ref name="Revan" /> which later became a [[Human/Legends|Human]] lineage when [[Valkorion]] became the host of Tenebrae,<ref name="Dream">{{TORcite|exp=kotfe|chapter=2}}</ref> and had with the latter's body his three children: [[Arcann]], [[Thexan]], and [[Vaylin]].<ref name="Betrayed">{{TORweb|url=info/media/trailers/star-wars-old-republic-–-knights-eternal-throne-–-‘betrayed’-trailer|text="Betrayed"|int=Betrayed}}</ref>
+
+{{Family-stub}}
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree| |Dramath|y|Female||Dramath=[[Dramath]]<ref name="Revan" />|Female=[[Tenebrae's mother|Unknown female]]<ref name="Revan" />
+|boxstyle_Dramath=m
+|boxstyle_Female=f}}
+{{FamilyTree| | | | |!| |}}
+{{FamilyTree| | | |Tenebrae|y|Tirall||Tenebrae=[[Tenebrae]]<ref name="Revan" />|Tirall=[[Senya Tirall]]<ref name="Asylum">{{TORcite|exp=kotfe|chapter=6}}</ref>
+|boxstyle_Tenebrae=m
+|boxstyle_Tirall=f}}
+{{FamilyTree| | | |,|-|-|+|-|-|.|}}
+{{FamilyTree| |Arcann| |Thexan| |Vaylin||Arcann=[[Arcann]]<ref name="Betrayed" />|Thexan=[[Thexan]]<ref name="Betrayed" />|Vaylin=[[Vaylin]]<ref name="Betrayed" />
+|boxstyle_Arcann=m
+|boxstyle_Thexan=m
+|boxstyle_Vaylin=f}}
+{{FamilyTree/end}}
+
+==Appearances==
+*''[[The Old Republic: Revan]]'' {{Ab|The Old Republic: Revan (audiobook)}}
+*''[[The Old Republic, Blood of the Empire Act 1: Shades of the Sith]]'' {{1st}}
+*''[[Star Wars: The Old Republic]]''
+*''[[Star Wars: The Old Republic: Shadow of Revan]]''
+*{{TORweb|url=info/media/trailers/sacrifice|text="Sacrifice"|int=Sacrifice (cinematic trailer)}}
+*{{TORweb|url=info/news/blog/20150728|text="Brothers"|int=Brothers (short story)}} {{Hologram}}
+*''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]''
+*{{TORweb|url=info/media/trailers/star-wars-old-republic-&ndash;-knights-eternal-throne-&ndash;-‘betrayed’-trailer|text="Betrayed"|int=Betrayed}}
+*''[[Star Wars: The Old Republic: Knights of the Eternal Throne]]''
+*''[[Star Wars: The Old Republic: Onslaught]]''
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Famille de Valkorion
+}}
+
+[[Category:Families]]
+[[Category:Force-sensitive bloodlines]]
+[[Category:Tenebrae's family]]

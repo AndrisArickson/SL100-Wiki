@@ -1,0 +1,17 @@
+{{Top|leg}}
+The '''Tharens''' were a wealthy family from [[Corellia/Legends|Corellia]] involved in business. Members included:
+
+*[[Renn Tharen]]
+*[[Sera Tharen]], Renn's wife
+**[[Pavik Tharen]], their son
+**[[Bria Tharen]], their daughter
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree| |RENNT|y|SERAT|RENNT=[[Renn Tharen]]|SERAT=[[Sera Tharen]]|boxstyle_RENNT=m|boxstyle_SERAT=f}}
+{{FamilyTree| | |,|-|^|-|.|}}
+{{FamilyTree| |PAVIK| |BRIAT|PAVIK=[[Pavik Tharen]]|BRIAT=[[Bria Tharen]]|boxstyle_PAVIK=m|boxstyle_BRIAT=f}}
+{{FamilyTree/end}}
+
+[[Category:Corellians]]
+[[Category:Families]]
