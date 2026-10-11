@@ -1,0 +1,108 @@
+{{Top}}
+{{Otheruses|Assault frigate}}
+{{StarshipClass
+|image=[[File:Paragon_SWArmada.png]]
+|name=Assault Frigate Mark II
+|designer=Rendili StarDrive designers splinter group<ref name="AAFMII" />
+|manufacturer=[[Rendili StarDrive/Legends|Rendili StarDrive]]<ref name="AAFMII">{{DB|starship|assaultfrigate_ii|Alliance Assault Frigate (Mark II)}}</ref>
+|line=
+|model=Assault Frigate Mark II<ref name="AAFMII" />
+|type=[[Assault frigate/Legends|Assault frigate]]<ref name="CSWE">{{CSWECite|I|45|Assault frigate}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=700 [[Meter/Legends|meters]]<ref name="AAFMII" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2<ref name="SOTG07">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="SOTG07" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="SOTG07" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (15)<ref name="AAFMII" />
+*[[Quad turbolaser cannon/Legends|Quad turbolasers]] (15)<ref name="SOTG07" />
+*[[Turbolaser/Legends|Turbolaser]] batteries (15)<ref name="SOTG07" />
+|complement=[[Gamma-class assault shuttle/Legends|''Gamma''-class assault shuttle]] (1)<ref name="SOTG07" />
+|bays=
+|escapepods=
+|crew=4,820<ref name="SOTG07" />
+|skeleton=
+|passengers=100 troops<ref name="SOTG07" />
+|capacity=7,500 [[Metric ton/Legends|metric tons]]<ref name="SOTG07" />
+|cargohandling=
+|consumables=1.5 [[Standard year/Legends|years]]<ref name="SOTG07" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Frigate/Legends|Frigate]]<ref name="SOTG07" />
+|firstuse=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="AAFMII" />
+}}
+The '''Assault Frigate Mark II''' was a light [[Warship/Legends|warship]] that saw extensive service with the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] during the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="AAFMII" />
+
+==Characteristics==
+The Assault [[Frigate/Legends|Frigate]] Mk. II was a further development of the [[Dreadnaught-class heavy cruiser/Legends|''Dreadnaught''-class heavy cruiser]] modification project, which produced the [[Assault Frigate Mark I|Mark I Assault Frigate]]. Although the modification procedures allowed for some variation between individual craft, the most common [[Assault frigate/Legends|assault frigate]] configuration had large dorsal engine fins, and could operate with less than a third of the ''Dreadnaught''{{'s}} crew requirements (4,820 nominal / 1600 minimum) thanks to extensive automation systems.<ref name="AAFMII" />
+
+The Assault Frigate Mark II incorporated a shield generator based on [[Mon Calamari/Legends|Mon Calamari]] designs,<ref name="SOTG07" /> as well as Calamari shield subsystems that allowed an increase in shield power for short periods.<ref name="AAFMII" />
+
+==History==
+The Rebel Alliance had a limited number of [[Capital ship/Legends|capital ships]] in [[Alliance Fleet/Legends|its fleet]]. To fill their need for warships, Rebel engineers started retooling decommissioned ships.<ref name="AAFMII" />
+
+Using the design of the ''Dreadnaught''-class heavy cruiser as a starting point, the [[Assault Frigate Mark I|original Assault Frigate]] was created. This design was further modified by dissident engineers at [[Rendili StarDrive/Legends|Rendili StarDrive]], creating the Mark II. The Mark II shirked much of its predecessors' history, however, moving away from the standard Dreadnaught model toward a more original design.<ref name="AAFMII" />
+
+After the Rebellion sympathies of this splinter group was discovered within their company, Rendili StarDrive ended the Mark II project. Though the Mark II did not disappear completely, further production slowed to a trickle. However, the Mark I remained in common use even in the time of the [[New Republic/Legends|New Republic]].<ref name="AAFMII" />
+
+==Appearances==
+*''[[Star Wars: Empire at War]]'' {{1st}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+
+==Sources==
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]] {{1stm}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-12-12 -->{{Wizards|url=default.asp?x=starwars/article/SotG2|text=''Starships of the Galaxy'' Preview 2}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-09-13 -->{{DB|starship|assaultfrigate_ii|Alliance Assault Frigate (Mark II)}}
+*<!-- 2015-03-10 -->{{InsiderCite|156|Blaster}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=Assault Frigate Mark II Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=Assault Frigate Mark II A}}
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=Assault Frigate Mark II B}}
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=''Gallant Haven''|reprint=1}}
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=''Paragon''|reprint=1}}
+}}
+*<!-- 2016-12-22 -->{{Armada|set=The Corellian Conflict}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Angriffsfregatte vom Typ II
+|fr=Frégate d'assaut Mk II
+|pl=Fregata szturmowa Mk.II
+|es=Fragata de Asalto Mark II
+}}
+
+[[Category:Assault frigate classes]]
+[[Category:Rendili StarDrive products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+
+{{RelatedCategories
+|[[Category:Assault Frigates Mark II]]
+}}

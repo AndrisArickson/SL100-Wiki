@@ -1,0 +1,292 @@
+{{Top|italics=1}}
+{{Otheruses|Avenger}}
+{{IndividualShip
+|image=[[File:Avenger-ESBHD.jpg]]
+|name=''Avenger''
+|designer=
+|manufacturer=*[[Kuat Drive Yards/Legends|Kuat Drive Yards]] {{C|primary contractor}}<ref name="SpecPlate">[["Imperial Star Destroyer" SpecPlate]]</ref>
+*[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] {{C|secondary contractor}}<ref name="SpecPlate" />
+*[[Cygnus Spaceworks/Legends|Cygnus Spaceworks]] {{C|secondary contractor; engines}}<ref name="SpecPlate" />
+*[[Taim & Bak/Legends|Taim & Bak]] {{C|secondary contractor; weapon systems}}<ref name="SpecPlate" />
+|line=[[Star Destroyer/Legends|Star Destroyers]]
+|model=[[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]]<ref name="Xwing-Alliance">''[[Star Wars: X-Wing Alliance]]''</ref>
+|type=Star Destroyer
+|cost=
+|modifier=
+|sysmods=
+|length=*1,600 [[Meter/Legends|meters]]
+**1480 meters {{C|overall beam}}<ref name="SpecPlate" />
+|width=
+|height=
+|mass=*359,000 mt {{C|deadweight}}<ref name="SpecPlate" />
+**892,000mt/KPa/atm {{C|displacement}}<ref name="SpecPlate" />
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=*[[Cygnus Spaceworks/Legends|Cygnus Spaceworks]], [[Gemon-4 ion engine/Legends|Gemon-4]] [[Ion engine/Legends|ion engines]]<ref name="SpecPlate" />
+*[[Precise Vector]], [[Class 2 Hyperdrive Booster Engine]]s<ref name="SpecPlate" />
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=[[SFS 1a2b Solar Ionization Reactor Unit]]<ref name="SpecPlate" />
+|shield gen=
+|hull=*34.29 Tapering to 4.11 {{C|main}}<ref name="SpecPlate" />
+*34.29 {{C|aft}}<ref name="SpecPlate" />
+*43.2 {{C|turret faces}}<ref name="SpecPlate" />
+*18.4 {{C|turret tops}}<ref name="SpecPlate" />
+*30.5 {{C|turret backs}}<ref name="SpecPlate" />
+*23.5 {{C|turret sides}}<ref name="SpecPlate" />
+*43.9 {{C|conning tower sides}}<ref name="SpecPlate" />
+*24.4 {{C|belt; Deck 12}}<ref name="SpecPlate" />
+*22.6-17.3 {{C|barbettes}}<ref name="SpecPlate" />
+|sensor=Classified<ref name="SpecPlate" />
+|target=*[[BQS-13 Active Matrix Targeting]]<ref name="SpecPlate" />
+|navigation=*[[BQR-19 Navigation Systems]]<ref name="SpecPlate" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*60 [[Taim & Bak/Legends|Taim & Bak]] [[XX-9 heavy turbolaser/Legends|XX-9 heavy turbolasers]]<ref name="SpecPlate" />
+*60 Forward [[Borstel Galactic Defense/Legends|Borstel Galactic Defense]] [[NK-7 ion cannon/Legends|NK-7 ion cannons]]<ref name="SpecPlate" />
+*Taim & Bak [[Lateral Quad 227 Laser Battery|Lateral Quad 227 Laser Batteries]]<ref name="SpecPlate" />
+*10 Phylon [[Q7 tractor beam projector/Legends|Q7 tractor beam projectors]]<ref name="SpecPlate" />
+|complement=*47,242 crew members<ref name="SpecPlate" />
+**37,085 ship compliment<ref name="SpecPlate" />
+***27,850 enlisted<ref name="SpecPlate" />
+***9,235 officers<ref name="SpecPlate" />
+**9,700 non-commissioned [[Stormtrooper/Legends|stormtroopers]]<ref name="SpecPlate" />
+**457 flight wing crew members<ref name="SpecPlate" />
+***375 enlisted<ref name="SpecPlate" />
+***82 officers<ref name="SpecPlate" />
+*48<ref name="SpecPlate" /> [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]]<ref name="CCG-OS721">{{CCG|set=Special Edition Limited|cardname=OS-72-1 in Obsidian 1}}</ref>
+**[[302nd Flight Wing]]<ref name="SpecPlate" />
+**[[Obsidian Squadron/Legends|Obsidian Squadron]]<ref name="CCG-OS721" />
+*12 [[TIE/sa tactical bomber/Legends|TIE/sa bombers]]<ref name="SpecPlate" />
+*12 [[TIE/br boarding shuttle|TIE boarding crafts]]<ref name="SpecPlate" />
+*[[301st Flight Wing]]<ref name="SpecPlate" />
+**8 [[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttles]]<ref name="SpecPlate" />
+**457 flight wing crew members<ref name="SpecPlate" />
+***375 enlisted flight wings
+***82 flight wing officers
+*[[535th Assault Wing]]
+**12 landing crafts<ref name="SpecPlate" />
+**20 [[All Terrain Armored Transport/Legends|All Terrain Armored Transports]]<ref name="SpecPlate" />
+**30 [[All Terrain Scout Transport/Legends|All Terrain Scout Transports]]<ref name="SpecPlate" />
+*15 Troop Transport Vehicles<ref name="SpecPlate" />
+*5 Assault Gunboats<ref name="SpecPlate" />
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|role=*[[Destroyer/Legends|Destroyer]]<ref name="ESB">{{Film|V}}</ref>
+*[[Command ship/Legends|Command ship]]<ref name="DE2">''[[Star Wars: Dark Empire II]]''</ref>
+*[[Communications ship]]<ref name="CCG-Avenger">{{CCG|set=Dagobah Limited|cardname=''Avenger''}}</ref>
+|commission=
+|destroyed=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="ESB" />
+*[[Alliance to Restore the Republic/Legends|Rebel Alliance]] {{C|briefly under [[Kalast]]}}<ref name="EaW">''[[Star Wars: Empire at War]]''</ref>
+*[[Dark Empire]]<ref name="DE2" />
+|navy=*[[Imperial Navy/Legends|Imperial Navy]]<ref name="ESB" />
+*[[Alliance Fleet/Legends|Alliance Fleet]] {{C|briefly under Kalast}}<ref name="EaW" />
+|fleet=*[[Death Squadron/Legends|Death Squadron]]<ref name="Atlas">''[[The Essential Atlas]]''</ref>
+*[[Shadow Hand Fleet]]<ref name="DE2" />
+|owners=*[[Moff/Legends|Moff]] [[Kalast]]<ref name="EaW" />
+*[[Sedriss QL]]<ref name="DE2" />
+|captains=*[[Captain/Legends|Captain]] [[Ferdas]]<ref name="DoaRB">{{WEGCite|story=Death of a Rebel Base|book=Imperial Sourcebook|reprint=1}}</ref>
+*Captain [[Lorth Needa/Legends|Lorth Needa]]<ref name="ESB" />
+|registry=
+|aliases=
+}}
+{{Quote|Oh, no! It's the ''Avenger''!|[[Bothan/Legends|Bothan]] technician, trying to escape while carrying the [[Death Star II plans|plans]] to the [[Death Star II/Legends|second Death Star]]|<ref name="Xwing-Alliance" />}}
+The '''''Avenger''''', full name '''CVS 1401 ''Avenger''''',<ref name="SpecPlate" /> was a prestigious [[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]] of the [[Imperial Navy/Legends|Imperial Navy]] during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==History==
+===Development===
+{{Quote|Sir, we're having trouble apprehending Moff Kalast. His star destroyer is one of the newer models, and we've been unable to succesfully engage him before he enters hypersapce|An Imperial officer to Grand Moff Tarkin, regarding the now rebel controlled ''Avenger''|<ref name="EaW" />}}
+It was developed by [[Kuat Drive Yards/Legends|Kuat Drive Yards]], with [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]], [[Cygnus Spaceworks/Legends|Cygnus Spaceworks]], and [[Taim & Bak/Legends|Taim & Bak]] providing secondary contracting elements to its design. Its basic blueprints, or SpecPlate, had been drawn up by [[Raith Sienar/Legends|Raith Sienar]] and designed by [[Louis Solis]]. It had been commissioned by [[Lorth Needa/Legends|Lorth Needa]] under special orders. It was developed by a team under the [[Imperial Navy Research, Development and Engineering Center]], composed of the Chief Naval Architect [[Lira Wessex/Legends|Lira Wessex]]; Chief Project Engineer [[J. Johnston]], Senior Structural Engineer [[C. Cantwell]]; Senior Construction Designer [[S. Gawley]]; Chief Design Engineer [[R. McQuarrie]]; and Systems Engineering Director [[D. Beasley]]. Its keel had been laid, with it undergoing a naming ceremony shortly thereafter. Afterwards, it underwent the stepping of the mast, and was launched. It eventually underwent christening of the name ''Avenger'', and had a pre-commission crew man the ship to undergo various trials. It then underwent dock trials, fast cruises, space trails, and contractor fitting out. Eventually, it was delivered to Captain Lorth Needa, and was fitted with an active service crew alongside it undergoing a shakedown cruise before it underwent official commissioning. Upon completion and undergoing its official commissioning ceremony, it had a commemorative SpecPlate placed on the bulkhead until the event where it was stricken from the registry.<ref name="SpecPlate" />
+
+===Imperial Period===
+{{Quote|Sir, we have a priority signal from the Star Destroyer ''Avenger.''"<br />"Right.|An unidentified Imperial Officer and Firmus Piett|<ref name="ESB" />}}
+[[File:Arrest_over_Atzerri.jpg|thumb|left|180px|The ''Avenger'' assisting rebel forces at Atzerri under the command of Moff Kalast, prior to its recapture by the Empire.]]
+One of the ''Avenger's'' earliest missions was the [[Defense of the Karinne|attack]] on the [[CR90 corvette/Legends|CR90 corvette]] ''[[Karinne]]'', carrying a [[Twi'lek/Legends|Twi'lek]] delegation to the [[Alliance to Restore the Republic/Legends|Rebel Alliance]]. The ''Avenger'' launched three flights of [[TIE/sa tactical bomber/Legends|TIE/sa bombers]] against the ''Karinne'', and entered [[Hyperspace/Legends|hyperspace]]. The intervention of two Alliance [[BTL Y-wing starfighter/Legends|BTL Y-wing starfighters]] saved the diplomatic vessel.<ref name="xwing">[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]</ref>
+
+In [[0 BBY/Legends|0 BBY]], the ''Avenger'' was under the command of [[Moff/Legends|Moff]] [[Kalast]]. When he betrayed the [[Galactic Empire/Legends|Galactic Empire]], the Moff used his ship to secretly support the [[Alliance to Restore the Republic/Legends|Rebel Alliance]]. But after giving secret informations about the [[Death Star/Legends|Death Star]] to the rebels, his identity was discovered. [[Anakin Skywalker/Legends|Darth Vader]] tracked Kalast to [[Thyferra/Legends|Thyferra]], [[Atzerri/Legends|Atzerri]] and other [[Star system/Legends|systems]] in the [[Galaxy/Legends|galaxy]] but the Moff and the ''Avenger'' always escaped. Eventually Vader managed to capture the ''Avenger'' thanks to an [[Immobilizer 418 Interdictor-class Heavy Cruiser|Immobilizer 418 cruiser]]. The ship was severely damaged in the [[Capture of Kalast|battle]] and Kalast forced to surrender. The ''Avenger'' was subsequently returned to Imperial service.<ref name="EaW" />
+
+At an unknown point, the ''Avenger'' was presented with the [[Superior Service Award]], the [[Legion of Merit]], the [[Valor Under Fire Citation]], the [[Combat Victory Accreditation]], and the [[Meritorious Service Award]] by the [[Commander Fleet Operations]].<ref name="SpecPlate" />
+
+[[File:AvengerChaseFalcon-ST.jpg|thumb|left|180px|The ''Avenger'' pursues the [[Millennium Falcon/Legends|''Millennium Falcon'']].]]
+As early as [[0 ABY/Legends|0 ABY]], the ''Avenger'' was commanded by [[Captain/Legends|Captain]] [[Lorth Needa/Legends|Lorth Needa]]. Under Needa's command, the ''Avenger'' earned a reputation for subjugating planets in the [[Outer Rim Territories/Legends|Outer Rim Territories]], participating in the subjugation of over 436 worlds.<ref name="SWTSB">''[[Star Wars Trilogy Sourcebook, Special Edition]]''</ref>
+
+After the discovery of an Alliance intelligence facility on [[Dankayo/Legends|Dankayo]], the ''Avenger'' participated in the brutal [[Battle of Dankayo|subjugation]] of the world. Alongside the [[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyers]] [[Devastator/Legends|''Devastator'']] and [[Relentless (Dorja)|''Relentless'']], the ''Avenger'' executed [[Base Delta Zero/Legends|Base Delta Zero]] against Dankayo, incinerating its [[Atmosphere/Legends|atmosphere]] and reducing its surface to slag.<ref name="SH">[[Scavenger Hunt (adventure)|''Scavenger Hunt'']]</ref>
+
+Eight months after the [[Battle of Yavin/Legends|Battle of Yavin]], the ship [[Battle of the Poln system|fought]] [[Warlord/Legends|Warlord]] [[Nuso Esva]]'s forces in the [[Poln system/Legends|Poln system]] as part of [[Death Squadron/Legends|Death Squadron]].<ref name="CoO">''[[Choices of One]]''</ref>
+
+In [[1 ABY/Legends|1 ABY]], Rebel agents destroyed an Imperial depot that contained a large number of [[Space mine/Legends|space mines]] intended for shipment to the ''Avenger''.<ref name="SWG:OMB">{{SWGcite|exp=AED|type=terminal|Rebel|Orbital Mines Bad}}</ref>
+
+<div style="float: right">[[File:AvengerLooms-ESB.png|thumb|180px|The ''Avenger'', pursuing the [[Millennium Falcon/Legends|''Millennium Falcon'']] out of the [[Hoth asteroid field/Legends|Hoth asteroid field]], a task which gained it and its crew a reputation for persistence.]]</div>
+The ''Avenger'' was later reassigned to [[Death Squadron/Legends|Death Squadron]]. It was one of the ships of the Squadron that launched groups of [[Viper probe droid/Legends|Viper probe droids]] into remote reaches of space, carrying out Darth Vader's orders to find the new [[Echo Base/Legends|Rebel Base]], [[Luke Skywalker/Legends|Luke Skywalker]], or the [[Millennium Falcon/Legends|''Millennium Falcon'']].<ref name="Freedom's Winter">{{ESBRadio|Freedom's Winter}}</ref>
+
+The starship's functions had been restored by the time that the ''Millennium Falcon'' departed from the planet during the Rebel evacuation.<ref name="A Guide to the Star Wars Universe, Third Edition, Revised and Expanded">''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]''</ref> The ''Avenger'' unsuccessfully pursued [[Han Solo/Legends|Han Solo's]] fast [[Freighter/Legends|freighter]], a failure which resulted in Needa's execution by Vader. Nevertheless, despite Needa's failure, the ''Avenger'' gained a reputation from the chase as it managed to continuously pursue the ''Millennium Falcon'' past the [[Hoth asteroid field/Legends|Hoth asteroid field]] while other ships in Death Squadron lagged far behind.<ref name="ESB" />
+
+During the [[Battle of Kothlis]], the ''Avenger'' arrived alongside the [[Executor/Legends|''Executor'']] to disrupt a Rebel transfer with [[Bothan/Legends|Bothan]] agents to acquire the [[Death Star II plans]]. The ''Avenger'' captured the CR90 corvette [[Razor (CR90 corvette)|''Razor'']], which held the battlestation plans. However, the ''Avenger''{{'s}} attempt was in vain, as the crew escaped with the plans and delivered them to the Alliance.<ref name="Xwing-Alliance" />
+
+When Vader arrived at the [[Death Star II/Legends|Death Star II]] to put its construction back on schedule, his [[ST 321/Legends|personal shuttle]] was launched from the Avenger.<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="Insider105">{{InsiderCite|105|25 Years of Return of the Jedi!|25 Years of ''Return of the Jedi''!|reprint=1}}</ref> The ''Avenger'' remained with Vader's Death Squadron and served as a communications ship during the [[Battle of Endor/Legends|Battle of Endor]].<ref name="CCG-Avenger" /><ref name="Insider105" />
+
+===Operation Shadow Hand===
+{{Quote|The ''Avenger'' has achieved hyperspace terminus, sir. The fleet is assembled. We are ready to annihilate the planet on your command!|An [[Imperial gunner/Legends|Imperial gunner]] to [[Executor (Imperial rank)|Executor]] [[Sedriss QL]]|<ref name="DE2" />}}
+The ''Avenger'' survived the Battle of Endor and later fought during the [[Operation Shadow Hand]]. Under [[Executor (Imperial rank)|Executor]] [[Sedriss QL]], the ship led the Imperial fleet in the [[Battle of Balmorra]].<ref name="DE2" />
+
+==Behind the scenes==
+Although first seen in [[2 BBY/Legends|2 BBY]], the [[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]] wasn't introduced until [[0 BBY/Legends|0 BBY]].
+
+[[File:ILMAvengerpublicityphoto.jpg|thumb|left|250px|An ILM publicity photo of the ''Avenger'' model]]
+The [[Industrial Light & Magic]] model of the ''Avenger'' used in [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] was 2.59 meters long and detailed with thousands of parts from model kits.
+
+"[[Freedom's Winter]]" ([[1983]]), the first episode of [[The Empire Strikes Back (radio)|''The Empire Strikes Back'' radio drama]], depicted Captain Needa aboard the ''Avenger'' overseeing the launch of the [[Viper probe droid/Legends|Viper probe droid]] that discovered [[Echo Base/Legends|Echo Base]].<ref name="Freedom's Winter" /><ref name="The Empire Strikes Back: The National Public Radio Dramatization">[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]</ref> ''[[Galaxy Guide 3: The Empire Strikes Back]]'' ([[1989]]) followed the radio drama, identifying the ''Avenger'' as the Star Destroyer that launched the Hoth probe. A [[Hoth Limited]] card in the [[Star Wars Customizable Card Game]] ([[1996]]) later contradicted this, introducing the ''[[Stalker/Legends|Stalker]]'' as the Star Destroyer that carried out the operation. The ''[[Star Wars Encyclopedia]]'' and the PC program ''[[Star Wars: Behind the Magic]]'' (both [[1998]]) followed the card game and named the ''Stalker''. Further adding to the confusion, ''[[Star Wars: The Visual Dictionary]]'' (also 1998) identified the ship as the ''Avenger''. Attempting to clarify the discrepancy, ''[[The Essential Atlas]]'' ([[2009]]) states that both ships were responsible for deploying probe droids, without stating with certainty which ship is seen in the film.<ref name="Atlas" />
+
+''Star Wars: Behind the Magic'' also identifies the ''Avenger'' as the Star Destroyer that launched Vader's shuttle at the beginning of [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']].
+
+In the 6th mission of Battle 4 of ''[[Star Wars: X-Wing Alliance]]'', "Protect Imperial Computer", one bonus objective is to destroy the Avenger.
+
+==Appearances==
+{{ScrollBox|content=
+*{{StoryCite|story=Therefore I Am: The Tale of IG-88|book=Tales of the Bounty Hunters}} {{Mo}}
+*{{WEGCite|story=Death of a Rebel Base|book=Imperial Sourcebook|reprint=1}}
+*''[[Star Wars: Empire at War]]''
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*''[[Star Wars: Dark Forces Remaster]]''
+*[[Star Wars: Dark Forces Consumer Electronics Show demo|''Star Wars: Dark Forces'' Consumer Electronics Show demo]]
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Scoundrel's Luck]]''
+*''[[Choices of One]]''
+*''[[The Isis Coordinates]]'' {{Mo}}
+*{{WEGCite|story=The Briefing of Spacetrooper Platoon 243-XT|book=The Star Wars Sourcebook|reprint=1}} {{Mo}}
+*[[Scavenger Hunt (adventure)|''Scavenger Hunt'']]
+*{{GalaxiesAED}} {{Mo}}
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}} {{Imo}}
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}} {{1st|in book}}
+*''[[The Empire Strikes Back: A Storybook]]''
+*{{ESBRadio|Freedom's Winter}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 42|''Star Wars'' (1977) 42]] {{Reprint|Star Wars (1977) 42}}
+*{{ESBRadio|New Allies, New Enemies}}
+*{{Tales|4|Moment of Doubt}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}} {{Mo}}
+*[[Dark Empire II 1|''Dark Empire II'' 1]]
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]'' {{Mo}}
+}}
+
+===Non-canon appearances===
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+
+==Sources==
+{{ScrollBox|content=
+[[File:Avenger_logo.jpg|thumb|180px|CVS1401 ''Avenger'' logo]]
+{{Mediacat|imagecat=Images of Avenger}}
+*<!-- 1980-XX-XX -->''[[Star Wars: The Empire Strikes Back - Official Collectors Edition]]'' {{Imo}}
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]'' {{Po}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-09-XX -->{{InsiderCite|23|LucasArts Update}}
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-10-XX -->{{GalaxyCite|5|Use the Force|Use the Force: All-Aboard Trivia Quiz}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]'' {{Po}}
+*<!-- 1996-04-XX -->''[[The Galactic Empire—Ships of the Fleet]]''
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Wyron Serper}}
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Avenger''}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Captain Needa}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Commander Nemet}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Warrant Officer M'Kae}}
+}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+*<!-- 1998-10-28 -->''[[Anakin Skywalker: The Story of Darth Vader]]''
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=OS-72-1 in Obsidian 1}}
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Saber 2}}
+<!-- 2002-01-23 -->{{SourceContents|issue=[[The Official Star Wars Fact File 4|''The Official Star Wars Fact File'' 4]]|contents=
+*<!-- 2002-01-23 -->{{FactFile|4|HOT 1-6|The Battle of Hoth}}
+*<!-- 2002-01-23 -->{{FactFile|4|MIL 1-2|''Millennium Falcon''}}
+}}
+*<!-- 2002-02-06 -->{{FactFile|6|HOT 7-12|Escape from Hoth}}
+*<!-- 2002-02-13 -->{{FactFile|7|TIE 1-2|TIE Fighter}} {{Po}}
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}} {{Po}}
+*<!-- 2002-03-20 -->{{FactFile|12|REG 1-2|The Alliance Regroups}}
+<!-- 2003-11-XX -->{{CardGameSet|set={{TCG|set=The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=3,720 to 1|link=https://swtcg.com/Content/Images/Cards/ESB/3720_to_1.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=''Avenger'' (A)|link=https://swtcg.com/Content/Images/Cards/ESB/Avenger_A.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Float Away|link=https://swtcg.com/Content/Images/Cards/ESB/Float_Away.webp?v=2}} {{Imo}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Han's Attack|link=https://swtcg.com/Content/Images/Cards/ESB/Hans_Attack.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=''Millennium Falcon'' (E)|link=https://swtcg.com/Content/Images/Cards/ESB/Millennium_Falcon_E.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Outmaneuver Them|link=https://swtcg.com/Content/Images/Cards/ESB/Outmaneuver_Them.webp?v=2}} {{Po}}
+}}
+*<!-- 2007-09-04 -->{{InsiderCite|96|The Empire's Finest: Who's Who in the Imperial Military}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]] {{Po}}
+*<!-- 2008-09-XX -->''[[Star Wars Annual 2009]]''
+*<!-- 2008-10-23 -->[[Star Wars: The Official Starships & Vehicles Collection 3|''Star Wars: The Official Starships & Vehicles Collection'' 3]] {{Po}}
+*<!-- 2008-11-04 -->{{InsiderCite|105|25 Years of Return of the Jedi!|25 Years of ''Return of the Jedi''!|reprint=1}}
+*<!-- 2008-11-20 -->[[Star Wars: The Official Starships & Vehicles Collection 5|''Star Wars: The Official Starships & Vehicles Collection'' 5]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-08-18 -->''[[The Essential Atlas]]''
+*<!-- 2010-02-12 -->[["Imperial Star Destroyer" SpecPlate]]
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Avenger}}
+*<!-- 2011-06-14 -->{{InsiderCite|126|Ask Lobot}}
+*<!-- 2013-03-14 -->{{FFGTCG|set=The Desolation of Hoth|cardname=Communications Officer|link=the-hoth-cycle/the-desolation-of-hoth/communications-officer-the-desolation-of-hoth-41-3}}
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=The ''Executor'' Arrives}} {{Po}}
+*<!-- 2014-04-25 -->{{SWE|characters|captain-needa|Captain Needa}}
+*<!-- 2015-02-25 -->{{BuildFalconCite|8|Guide to the Galaxy}} {{Po}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname="Howlrunner"|subtitle=TIE Fighter Squadron}} {{Po}}
+<!-- 2015-04-29 -->{{CardGameSet|set={{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Reporting to Needa}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=The ''Falcon's'' Escape}}
+}}
+*<!-- 2015-09-22 -->{{InsiderCite|issue1=160|issue2=161|The Return of the Jedi Archives of James Kahn|''The Return of the Jedi'' Archives of James Kahn}} {{Imo}}
+*<!-- 2024-02-28 -->{{NightdiveYouTube|3ndr_cPvwvo|Star Wars™: Dark Forces Remaster - Available Now!}}
+*<!-- 2024-02-28 -->{{SW|url=news/dark-forces-remaster|text=''Dark Forces'' ''Remaster'' Comes to Consoles and PC}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+{{Interlang
+|de=Rächer
+|es=Vengador/Leyendas
+|nl=Avenger
+|pl=Avenger
+}}
+
+[[Category:Captured starships]]
+[[Category:Flagships]]
+[[Category:Imperial II-class Star Destroyers]]
+[[Category:Starships of Death Squadron]]
+[[Category:Starships of the Alliance to Restore the Republic]]
+[[Category:Starships of the Dark Empire]]
+[[Category:Starships of the Galactic Empire]]

@@ -1,0 +1,83 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{SpaceStation
+|image=
+|name=Asteroid base
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|region=[[Core Worlds/Legends|Core Worlds]]<ref name="EAOC">{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion}}</ref>
+|sector=
+|system=[[Bellassa system/Legends|Bellassa system]]<ref name="EAOC" />
+|coordinates=M-11<ref name="EAOC" />
+|xyz=
+|orbited=[[Bellassa/Legends|Bellassa]]<ref name="Darkness and Light">{{FFGTCG|set=Darkness and Light|cardname=Asteroid Base|link=echoes-of-the-force-cycle/darkness-and-light/asteroid-base-r797}}</ref>
+|distance=
+|routes=
+|role=
+|affiliation=
+|constructed=
+|destroyed=
+|retired=
+|battles=
+|owners=
+|namedcrew=
+|captains=
+|registry=
+|aliases=
+|population=
+|interest=
+|services=
+|sectors=
+|modules=
+}}
+This '''asteroid base''' was a [[Space station/Legends|space station]] built into an [[Asteroid/Legends|asteroid]] over [[Bellassa/Legends|Bellassa]].<ref name="Darkness and Light" />
+
+==Sources==
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=Asteroid Base|link=echoes-of-the-force-cycle/darkness-and-light/asteroid-base-r797}} {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Asteroid bases]]

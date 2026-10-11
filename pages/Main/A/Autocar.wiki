@@ -1,0 +1,57 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=Autocar
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=[[Internal-combustion]]<ref name="RPG">[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]</ref>
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Ground transportation<ref name="RPG" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+An '''autocar''' was an archaic [[wheel]]ed ground vehicle that used [[internal-combustion]] to power it.<ref name="RPG" />
+
+==Sources==
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Crawler and wheeled vehicle models]]
