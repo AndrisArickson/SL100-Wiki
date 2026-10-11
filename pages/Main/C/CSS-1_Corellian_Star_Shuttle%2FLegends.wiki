@@ -1,0 +1,112 @@
+{{Top}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:CorellianStarShuttleModel-SWBRBD1.png]]
+|name=CSS-1 Corellian Star Shuttle
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=
+|model=
+|type=Shuttle
+|cost=
+|modifier=
+|sysmods=
+|length=80 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 1.5 {{C|[[Backup hyperdrive|backup]]: Class 12}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None standard, can be refitted with various configurations
+|complement=Varies, based on modular configuration
+|bays=
+|escapepods=
+|crew=8
+|skeleton=
+|passengers=200
+|capacity=900 metric tons
+|cargohandling=
+|consumables=3 [[Standard year/Legends|years]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Shuttle
+*Diplomatic ship
+*[[Transport/Legends|Transport]]
+*[[Corvette/Legends|Corvette]] {{C|refit}}
+*[[Cruiser/Legends|Cruiser]]
+*Armored [[Freighter/Legends|freighter]] {{C|[[Rebellion era]]}}
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*Private individuals
+}}
+The '''CSS-1 Corellian Star Shuttle''', also known as the '''Republic shuttle''', was a [[Starship/Legends|starship]] designed to carry a large number of ambassadors on missions throughout [[The galaxy/Legends|the galaxy]].
+
+==Characteristics==
+[[File:Republic_Shuttle.png|thumb|left|250px|Newly elected Chancellor Palpatine's Star Shuttle ''Perpetuus'' arrives on Naboo.]]
+The CSS-1 Corellian Star Shuttle was more spacious and could carry more people compared to the [[Consular-class light cruiser/Legends|''Consular''-class cruiser]]. It also featured a large meeting room. Because they were diplomatic vessels, Star Shuttles lacked weapons but boasted a powerful [[Deflector shield/Legends|deflector shield]].
+
+The class was manufactured by the famous [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]], which manufactured most of the vessels in use by the Galactic Republic. They were less versatile than most CEC designs, in part due to their extensive armor plating.
+
+The [[Transport/Legends|transport]] had a crew of one [[Captain/Legends|captain]], two co-[[Pilot/Legends|pilots]], two communications officers, and three engineers. It could also carry about 200 passengers and 900 metric tons.
+
+==History==
+Star Shuttles served the Republic in its last decades as diplomatic vessels, but some ships were modified for military service and were equipped with at least two [[Turbolaser/Legends|turbolasers]]. They served in the [[Judicial Forces/Legends|Judicial Forces]] and fought in the [[Stark Hyperspace War/Legends|Stark Hyperspace War]], the [[Yinchorri Uprising]], and the [[Clone Wars/Legends|Clone Wars]]. The Corellian Star Shuttle [[Perpetuus/Legends|''Perpetuus'']] transported Chancellor Palpatine to [[Theed/Legends|Theed]] following the [[Battle of Naboo/Legends|Battle of Naboo]].
+[[File:Republic_Outland_Regions_Security_Force.png|thumb|220x220px|Modified CSS-1's participating in the Stark Hyperspace War]]
+After the transformation of the Republic into an [[Galactic Empire/Legends|Empire]], many Star Shuttles ended up in private hands.<ref name="SOTG01">''[[Starships of the Galaxy]]''</ref> At least one Star Shuttle was used to make up a [[Hidden Temple (Sith–Imperial War)|secret retreat]] in [[137 ABY]].<ref name="SWL25">[[Legacy (2006) 25|''Legacy'' (2006) 25]]</ref>
+
+==Behind the scenes==
+On his blog, [[Daniel Wallace|Dan Wallace]] revealed that [[Palpatine/Legends|Palpatine's]] shuttle was named [[Perpetuus/Legends|''Perpetuus'']] in ''[[The Essential Guide to Episode I]]''. However, since the book was never released, the name is not official.<ref name="Blog-danwallace|34">{{Blog|danwallace|34|Lostwords: The Essential Guide to Episode I}}</ref> ''[[Suns of Fortune]]'' gave the Corellian Star Shuttle the full name of "CSS-1 Corellian Star Shuttle," although it misspelled it as CCS-8 in one location.<ref name="SOF">''[[Suns of Fortune]]''</ref>
+
+==Appearances==
+*[[Jedi Council: Acts of War 4|''Jedi Council: Acts of War'' 4]]
+*{{Film|I}} {{1st}}
+*[[Star Wars: Invasion of Theed Adventure Game|''Star Wars: Invasion of Theed'' Adventure Game]] {{Po}}
+*[[Star Wars (1998) 36|''Star Wars'' (1998) 36]] {{Flash}}
+*{{LivingForce|For Every Action: Counterstrike}}
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+
+==Sources==
+{{Mediacat|imagecat=Images of CSS-1 Corellian Star Shuttles}}
+*<!-- 2000-08-XX -->{{HasbroCite|set=Star Wars: Power of the Jedi|pack=Coruscant Guard|altlink=https://www.rebelscum.com/potjcoruscantgrd.asp}}
+*<!-- 2000-10-XX -->''[[Inside the Worlds of Star Wars: Episode I]]''
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}} {{Po}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2006-11-14 -->''[[Sculpting a Galaxy: Inside the Star Wars Model Shop]]'' {{Po}}
+*<!-- 2012-08-16 -->{{StoryCite|book=Star Wars: X-Wing Miniatures Game Core Set|bformatted=''Star Wars: X-Wing Miniatures Game'' Core Set|story=Mission 1: Political Escort}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]'' {{1stID|CSS-1 Corellian Star Shuttle}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|nl=Corellia Star Shuttle
+|es=Lanzadera estelar Corelliana CSS-1/Leyendas
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Shuttle classes]]
+[[Category:Starship classes of the Galactic Republic]]
+
+{{RelatedCategories
+|[[Category:CSS-1 Corellian Star Shuttles]]
+}}

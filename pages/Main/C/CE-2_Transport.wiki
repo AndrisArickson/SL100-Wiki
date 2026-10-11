@@ -1,0 +1,71 @@
+{{Top|leg}}
+{{Image}}
+{{StarshipClass
+|image=
+|name=CE-2 Transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|line=
+|model=
+|type=Light Freighter
+|cost=*200,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="PP" />
+*95,000 credits {{C|used}}<ref name="PP" />
+|modifier=
+|sysmods=
+|length=100 [[Meter/Legends|meters]]<ref name="PP" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|kmh]]<ref name="PP" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2, Class 12 backup
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="PP" />
+|skeleton=
+|passengers=2<ref name="PP" />
+|capacity=50,000 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''CE-2 Transport''' was a class of [[Freighter/Legends|light freighter]] produced by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]].
+
+==Characteristics==
+The transport had a three-part design, with the middle section consisting of the barge cargo pod. The ship was 100 meters in length, crewed by two pilots, and capable of carrying two passengers. Though relatively slow and lightly armored, the ship boasted 50,000 metric tons of storage in its cargo pod.
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Freighter classes]]

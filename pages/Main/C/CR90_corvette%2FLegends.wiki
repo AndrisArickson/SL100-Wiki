@@ -1,0 +1,536 @@
+{{Top}}
+{{Otheruses|Blockade runner}}
+{{StarshipClass
+|image=[[File:Corvette_negvv.png]]
+|name=CR90 corvette
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="SWSB1">''[[The Star Wars Sourcebook]]''</ref>
+|line=[[CR-series/Legends|CR series]]
+|model=CR90 corvette<ref name="TSC1">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref>
+|type=[[Corvette/Legends|Corvette]]<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref>
+|cost=*3,500,000/2,700,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="PP">''[[Pirates & Privateers]]''</ref>
+*1,500,000 credits {{C|used}}<ref name="D20RCR1">''[[Star Wars Roleplaying Game Revised Core Rulebook]]''</ref>
+|modifier=
+|sysmods=
+|length=150 [[Meter/Legends|meters]]<ref name="SWSB1" />
+|width=
+|height=
+|mass=
+|max accel=2,100 G<ref name="NEGVV1">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|mglt=60 [[Megalight|MGLT]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''&mdash;MGLT is generally considered a "game mechanic" and thus relegated to a non-canonical status when equivalent figures are available, but ''Behind the Magic'' is a reference work and its figure actually differs from the speed used in the ''X-wing'' game series.</ref>
+|max speed=950 [[Kilometer per hour/Legends|km/h]]<ref name="SW2E1">[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]</ref>
+|maneuverability=
+|engine=[[Girodyne/Legends|Girodyne]] [[Ter58 ion turbine engine|Ter58]] high-output [[Ion engine/Legends|ion turbine engines]] {{C|11, in trireme configuration}}<ref name="Giro">''[[Star Wars: Complete Cross-Sections]]''</ref>
+|hyperdrive=Class 2.0<ref name="SWSB1" />
+|hdrange=
+|hdsystem=CEC [[Subspace/Legends|subspace]] [[Hyperdrive/Legends|hyperdrive]]<ref name="SWSE1">[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]</ref>
+|poweroutput=
+|power=[[Mason-Branger]] [[7085 ionization reactor and regulator]]<ref name="SWSE1" />
+|shield gen=[[Phoah-Kingsmeyer]] [[484-J4E screen control and shield projector]]<ref name="SWSE1" /> {{C|rated 400 [[SBD/Legends|SBD]]}}<ref name="XWA1">''[[Star Wars: X-Wing Alliance]]''</ref>
+|hull=[[Iron/Legends|Ferro]]-[[Magnesium/Legends|magnesium]] [[Ceramic/Legends|ceramic]]<ref name="SWSE1" /> (rated 188 [[RU/Legends|RU]])<ref name="XWA1" />
+|sensor=[[Pax Hustana]] variable array [[Sensor/Legends|sensor]] units (2)<ref name="SWSE1" />
+|target=
+|navigation=[[Corellian Chain Management NavCom Unit]] (26640 limited non-AI processing)<ref name="SWSE1" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Taim & Bak/Legends|Taim & Bak]] [[H9 turbolaser/Legends|H9]] dual [[Turbolaser/Legends|turbolasers]] {{C|2 [[Turret/Legends|turrets]]: 1 dorsal, 1 ventral}}<ref name="SWCCS1">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*Taim & Bak H9 single turbolasers {{C|4 turrets mounted on dorsal escape pods: 2 port, 2 starboard}}<ref name="SWCCS1" />
+|complement=
+|bays=Ventral starfighter-scale landing bay (1)<ref name="ROTS1">{{Film|III}}</ref>
+|escapepods=*[[Faberstien-Lago]] [[37s emergency escape pod]]s (8, ventral)<ref name="SWSE1" />
+*Armed<ref name="SWCCS1" /> Faberstien [[Maximum capacity life ship]]s (4, dorsal)<ref name="SWSE1" />
+|crew=30-165 {{C|depending on configuration}}<ref name="SW2E1" />
+|skeleton=7
+|passengers=Up to 600 {{C|depending on configuration}}<ref name="SWSB1" />
+|capacity=Up to 3,000 [[Metric ton/Legends|metric tons]] {{C|depending on configuration}}<ref name="SWSB1" />
+|cargohandling=
+|consumables=1 [[Standard year/Legends|year]]<ref name="SWSB1" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Corvette<ref name="RS I guide" />
+*Light escort
+*[[Transport/Legends|Transport]]<ref name="RS I guide" />
+|firstuse=Prior to [[22 BBY/Legends|22 BBY]]<ref name="HNN1">{{HoloNetNewsWeb|54|regional/1352_4.html|Vigilante Taskforce Departs to Engage Separatists}}</ref>
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="HNN1" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="SWSB1" />
+*[[Kota's Militia]]<ref name="TFU">''[[Star Wars: The Force Unleashed]]''</ref>
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="SWE4A">{{Film|IV}}</ref>
+*[[New Republic/Legends|New Republic]]<ref name="HTTE1">''[[Heir to the Empire]]''</ref>
+*[[Galactic Federation of Free Alliances]]
+*[[Corellian Defense Force/Legends|Corellian Defense Force]]<ref name="TCSWE-Silaban">{{CSWECite|III|151|''Silaban''}}</ref>
+*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="RD">''[[Rebel Dawn]]''</ref><ref name="FoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+**[[Besadii/Legends|Besadii]] [[Kajidic/Legends|kajidic]]<ref name="RD" />
+*[[Zann Consortium/Legends|Zann Consortium]]<ref name="FoC" />
+*[[Mandalorian/Legends|Mandalorians]]<ref name="FoC" />
+*[[Zsinj's Empire]]<ref name="Wraith">''[[X-Wing: Wraith Squadron]]''</ref>
+*[[Airam Clans]]<ref name="XWvTF:BoP">''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''</ref>
+}}
+{{Quote|The Rebel blockade runner is the pride of the Corellian Engineering Corporation's military vehicles. With its mess of huge engines, it can whoop any jerk-ass Imperial.|Corellian Engineering Corporation advertisement|<ref name="Star Wars: Behind the Magic">''[[Star Wars: Behind the Magic]]''</ref>}}
+The '''CR90 corvette''', commonly referred to as the '''Corellian corvette''' or the '''Rebel blockade runner''', also known as an '''Alderaan cruiser''', was a small, multi-purpose [[Capital ship/Legends|capital ship]] manufactured by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]].
+
+The CR90 had a wide variety of users throughout [[The galaxy/Legends|the galaxy]], from [[Pirate/Legends|pirates]] to corporations to galactic [[Navy/Legends|navies]], and had a known operational life from at least as early as [[52 BBY/Legends|52 BBY]] to as late as [[137 ABY]]. It possessed the same legendary adaptability as other CEC products, which allowed it to serve in roles as mundane as [[Freighter/Legends|freight hauling]] or as a high-profile [[Diplomat/Legends|diplomatic]] escort.
+
+==Characteristics==
+[[File:CR90.png|thumb|left|A Corellian corvette]]
+A versatile [[Starship/Legends|starship]], the CR90 was used extensively across the galaxy by governments and private interests.<ref name="RASB1">''[[The Rebel Alliance Sourcebook]]''</ref> The interior of the CR90 featured a modular design to allow for easy reconfiguration of the [[Corellian/Legends|Corellian]] [[Corvette/Legends|corvette]] from one function to another.<ref name="SWSB1" /> Some older model corvettes, like the [[CR70 corvette/Legends|CR70]], could easily be upgraded with retrofit packages like the [[Vanguard c20 retrofit suite|Vanguard c20]] to become CR90s.<ref name="SWI90A">[[Star Wars Insider 90|''Star Wars Insider'' 90]]</ref>
+
+Common configurations included a troop [[Carrier/Legends|carrier]], light escort vessel, cargo [[Transport/Legends|transport]], or passenger liner. Its ease of modification was a trademark of [[Corellian Engineering Corporation/Legends|CEC]] and increased the corvette's resale value.<ref name="SWSB1" /> One of the rarer variants could carry starfighters, such as the [[Ession Strike|''Night Caller'']] and ''[[Constrictor]]''.
+
+The weapon systems varied, although the standard configuration mounted two [[Taim & Bak/Legends|Taim & Bak]] [[H9 turbolaser/Legends|H9 dual]] [[Turbolaser/Legends|turbolasers]] and four single turbolasers.<ref name="SWCCS1" /> CR90 corvettes could carry as many as eight turbolasers, six laser cannons, and four [[Ion cannon/Legends|ion cannons]].<ref name="NEGVV1" /> Under the standard configuration, these turrets were unable to hit anything directly behind the corvette's engines, so CR90 corvettes featured a well-known axial blind spot.<ref name="XWS1">[[X-Wing (game series)|''X-Wing'' game series]]</ref>
+
+A common configuration for combat-oriented corvettes consisted of six H9 dual turbolasers.<ref name="SWSB1" /> A similar armament was mounted on the [[CR92a Assassin-class corvette|CR92a ''Assassin''-class corvette]], a successor of the CR90 that was designed exclusively for combat roles.<ref name="TFG1">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+
+{{IBI|File:BLOC01AB.jpg|A CR90 corvette travels in formation with two [[GR-75 medium transport/Legends|GR-75 medium transports]].}}
+The ship was capable of sustaining acceleration up to 2,100 G<ref name="NEGVV1" /> and could carry 600 passengers.<ref name="SWSB1" /> However, its class 2 [[Hyperdrive/Legends|hyperdrive]]<ref name="SWSB1" /> was slow compared to many ships of similar size. The standard crew was made up of 8 officers and 38 enlisted crew,<ref name="TSC1" /> but could range from 30 to 165 total, depending on its configuration.<ref name="SW2E1" />
+
+Interestingly, the CR90 could be [[Pilot/Legends|piloted]] by as few as two people, as shown when [[Han Solo/Legends|Han Solo]] and [[Chewbacca/Legends|Chewbacca]] flew a series of corvettes bearing the name [[Jaina's Light/Legends|''Jaina's Light'']],<ref name="Routine">{{Tales|2|Routine}}</ref> or even one person if necessary via a steering yoke, as [[Wedge Antilles/Legends|Wedge Antilles]] demonstrated when he flew the modified corvette ''Night Caller''.<ref name="XWWS1">''[[X-Wing: Wraith Squadron]]''</ref>
+
+The 150 [[Meter/Legends|meter]]-long craft could reach atmospheric speeds of 950 [[Kilometer/Legends|kilometers]] per [[Standard hour/Legends|hour]].<ref name="RS I guide" />
+
+==History==
+===Republic service===
+In the last decades of the [[Galactic Republic/Legends|Galactic Republic]],<ref name="TDC1">''[[The DarkStryder Campaign]]''</ref> the CR90 corvette was introduced and older corvette-models like the [[CR70 corvette/Legends|CR70]] were gradually being refitted into this version.<ref name="SWI90A" /> The Republic CR90 corvettes served in the [[Judicial Forces/Legends|Judicial Forces]] and later in the [[Republic Navy/Legends|Republic Navy]] when it was reinstated during the [[Clone Wars/Legends|Clone Wars]]. The CR90 model was considered a mid-sized corvette in the time before the Wars.<ref name="HNN1" />
+
+===Imperial service===
+[[File:Capital_corellian_corvette.png|thumb|left|A corvette in space]]
+A dwarf amongst the massive [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]] of the [[Imperial Navy/Legends|Imperial Navy]], CR90 corvettes were used for diplomatic and escort duty in the [[Galactic Empire/Legends|Galactic Empire]]. In fleet engagements, CR90 corvettes were often tasked with attacking enemy [[Starfighter/Legends|starfighters]] or fleeing the battlefield with important cargo or intelligence. Prior to the [[Dissolution of the Imperial Senate/Legends|Dissolution of the Imperial Senate]] by [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]], these corvettes were used by Imperial senators as diplomatic couriers.
+
+===Rebel and fringe service===
+Unlike their Imperial counterparts, [[Alliance to Restore the Republic/Legends|Alliance]] CR90 corvettes acted as front-line combat ships for the early years of the [[Galactic Civil War/Legends|Galactic Civil War]], generally being used as anti-starfighter screens. The ease of acquiring CR90 parts and mechanics made them a good fit for the desperate Rebellion. Its near ubiquity made it a popular choice amongst Rebels, pirates, and [[Smuggler/Legends|smugglers]], earning it the nickname "blockade runner" for its ability to slip through Imperial nets. However, it proved ineffective against larger ships such as the [[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]] short of [[Ramming/Legends|suicidal ramming]] attacks unless it was used in large numbers against such a vessel. One example was at the [[Space Battle at Kuat]] when five Corvettes caused considerable damage to the Star Destroyer ''[[Tyranny]]''.
+
+Knowing that the corvette was used by the Rebellion, Imperial authorities often stopped them for inspections on the flimsiest of excuses.<ref name="AoRCR">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+
+{{IBI|File:AlderaansPromise-TCGEoD.jpg|''Tantive IV'', a Rebel corvette, leaves Alderaan.}}
+Crime Lord [[Tyber Zann]] acquired CR90 corvettes for his fleet during his corruption efforts in [[The galaxy/Legends|the galaxy]].<ref name="FoC" />
+
+===New Republic service===
+Following the transition of the Alliance into the [[New Republic/Legends|New Republic]], CR90 corvettes continued to play an important role in the newly organized [[New Republic Defense Fleet/Legends|New Republic Defense Fleet]] until phased out of line-duty with modernization efforts like the [[New Class Modernization Program]].
+
+===Later history===
+Several CR90s were used to make up a secret retreat in [[137 ABY]].<ref name="SWL25">[[Legacy (2006) 25|''Legacy'' (2006) 25]]</ref> At least two were used during the [[Evacuation of Dac]].<ref name="Legacy 47">[[Legacy (2006) 47|''Legacy'' (2006) 47]]</ref>
+
+==Descendants==
+[[File:Sundered-Heart.jpg|thumb|left|[[Sundered Heart/Legends|''Sundered Heart'']]]]
+The CR90 design, itself a descendant of a line of similar vessels, provided the basis for a series of derivative designs and creative refits.
+
+===''Sundered Heart''===
+{{Main|Sundered Heart/Legends}}
+A well-known example of a significantly modified CR90 was [[Sundered Heart/Legends|''Sundered Heart'']], a corvette modified for extreme speed. With an added set of sublight engines, this vessel was capable of up to four times the sublight acceleration of the original CR90.<ref name="EAW">''[[Star Wars: Empire at War]]''</ref>
+
+===CR92a ''Assassin''-class===
+{{Main|CR92a Assassin-class corvette}}
+[[File:Assassin-class_Corvette_Ring_Planet.jpg|thumb|right|A [[CR92a Assassin-class corvette|CR92a ''Assassin''-class corvette]]]]
+Sometime around the [[Battle of Hoth/Legends|Battle of Hoth]], the [[CR92a Assassin-class corvette|CR92a ''Assassin''-class corvette]] began to see widespread use. Commonly known as the "Modified Corvette," the ''Assassin''-class was designed specifically for combat. In its default configuration, it carried six dual turbolasers and one warhead launcher. The Imperial Navy was known to use the ''Assassin''-class in significant numbers.<ref name="TFG1" />
+
+===Corellian Buccaneer===
+{{Main|Corellian Buccaneer}}
+The Corellian Buccaneer was another militarized corvette class introduced no later than [[7 ABY/Legends|7 ABY]]. It had similar technical specifications to the CR90, but had a stock armament of ten dual turbolasers. One such vessel was used by the [[Dynamic Automata]] company in the [[Pentastar Alignment]].<ref name="TPA1">{{JournalCite|3|The Pentastar Alignment}}</ref>
+
+===Pocket carriers===
+Some time after the [[Battle of Endor/Legends|Battle of Endor]], the [[New Republic/Legends|New Republic]] captured at least two different CR90 designs capable of carrying starfighters.
+
+====''Night Caller'' and ''Constrictor''====
+{{Main|Ession Strike}}{{Main|Constrictor}}
+The first was ''Night Caller'', captured from [[Warlord/Legends|Warlord]] [[Zsinj]] in [[7 ABY/Legends|7 ABY]]. Though it was very similar to the CR90 in most respects, it was built from the ground up to serve as a small carrier. The primary changes from the original CR90 design were an enlarged bridge section with a cargo hold that held four TIE/ln starfighters and mines, and a [[Tractor beam/Legends|tractor beam]] projector suited to a much larger warship.<ref name="XWWS1" /> The corvette ''Constrictor'' was of the same design and also served in Zsinj's fleet until captured by the New Republic.
+
+====''FarStar''====
+{{Main|FarStar}}
+[[File:FarStar.jpg|thumb|left|''[[FarStar]]'']]
+The second known carrier refit was ''[[FarStar]]''. Originally commissioned in [[52 BBY/Legends|52 BBY]], it was refit by the order of [[Moff/Legends|Moff]] [[Kentor Sarne]]. A large docking bay was grafted onto the vessel's spine, and its [[Hyperdrive/Legends|hyperdrive]] system was modified to accommodate the new hull shape. It is unclear if this modification was in any way standardized or if it was a custom Imperial design.<ref name="TDC1" />
+
+==== ''Eridain'' ====
+{{Main|Eridain}}
+Another known CR90 pocket carrier is the Eridain, although the ship isn't described in detail. It is able to carry 12 X-Wings in it's hangar. <ref name="X-Wing: Rogue Squadron">''[[X-Wing: Rogue Squadron]]''</ref>
+
+==Behind the scenes==
+{{Main|Tantive IV/Legends#Behind the scenes}}<!-- The Tantive IV article will have most of the BTS info on model design. This article will focus on IU characteristics of the class. -->
+The CR90 corvette's design was developed from one originally intended for [[Millennium Falcon/Legends|''Millennium Falcon'']]. When that design was rejected for being too reminiscent of [[Wikipedia:Space: 1999|''Space: 1999's'']] ''Eagle Transporter'', it was adapted to become the CR90. The most obvious change was replacing its cockpit area with the distinctive "hammerhead" bridge section. In addition, the [[Escape pod/Legends|escape pods]] were relocated to the lower hull, with laser cannons being mounted where the pods had originally been placed. This was essential because [[Tantive IV/Legends|''Tantive IV'']] had to launch an escape pod while inside the ''Imperial''-class Star Destroyer [[Devastator/Legends|''Devastator'']]{{'s}} ventral hangar bay.
+
+[[File:Corellian_Corvette_Hologram.jpg|thumb|right|A CR90 Hologram]]
+Corvettes have a well-known "blind spot," in that they cannot shoot anything behind their engines, known especially to gamers of [[X-Wing (game series)|''X-Wing'' computer game series]] and used whenever they had to destroy one. This may appear to contradict the very first scene of [[Star Wars: Episode IV A New Hope|''A New Hope'']]&mdash;''Tantive IV'' shoots ''Devastator'', right behind her. This may be explained by the fact that ''Devastator'' was a much broader target and slightly above her (although ''Tantive''{{'s}} ventral cannon was also used).
+
+Early [[West End Games]] RPG statistics for the Corellian corvette list its armament as six double turbolaser turrets, despite the corvettes seen in ''A New Hope'' and [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']] clearly mounting only two such turrets. This was later retconned by describing the heavier armament as an optional upgrade. The CR90 that appears in ''[[Star Wars: Empire at War]]'' is armed with only eight laser cannons, although this is a simple game balance issue, as the ship is placed into the anti-fighter role as the Rebel counterpart to the [[Tartan-class patrol cruiser]]. In comparison, the ''Imperial''-class Star Destroyers mount only four turbolasers instead of the sixty batteries they are supposed to have, while the [[MC80 Liberty Type Heavy Star Cruiser/Legends|MC80 Liberty type Star Cruiser]] is similarly nerfed from 48 turbolasers to four to match the ''Imperial''-class in strength.
+
+Early schematics for the CR90 show a much smaller ship length-wise than the original filming miniature portrays. The reason is unclear, but the trend toward a stunted look continued and affected every incarnation of the ship, from roleplaying deckplans to computer models for the ''X-Wing'' series. The error was propagated even into Revenge of the Sith's portrayal of the Tantive IV as a stunted ship. This was retconned by the Rebel Alliance Blueprints book as being a CR70 corvette, while the much longer Tantive IV is now recognized as the definitive CR90.
+
+In the ''[[Star Wars: Galactic Battlegrounds]]'' expansion pack [[Star Wars: Galactic Battlegrounds: Clone Campaigns|''Clone Campaigns'']], the player via a cheat code, can get a CR90 corvette (then titled "Rebel Blockade Runner") as a playable ship. The cheat code's name was a reference to the Tantive IV.
+
+''[[The Essential Guide to Warfare]]'' mentions that Corellian corvettes were an important part of the imperial Support Fleet, but doesn't state the corvette model. The book says that CR70 and CR90 were two of the most common models.<ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+
+According to ''[[The Sounds of Star Wars]]'', the sound of the rebel blockade runner in the opening scene of ''A New Hope'' is a mixture of a slowed down World War II AT6 propeller-driven racing airplane and a 747 jet.<ref name="TSOSW">''[[The Sounds of Star Wars]]''</ref>
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of CR90 corvettes}}
+*''[[Star Wars: Jedi Starfighter]]''
+*{{HoloNetNewsWeb|54|regional/1352_4.html|Vigilante Taskforce Departs to Engage Separatists}}
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Jedi Trial]]''
+*{{TCW|Supply Lines}}
+*{{LivingForce|Looking In: Outward Bound}}
+*{{LivingForce|Decision: Almas}}
+*{{LivingForce|Decision: Cularin}}
+*{{TCW|A Friend in Need}}
+*[[Republic 74|''Republic'' 74]]
+*{{CWACite|5|Bailed Out}}
+*{{Film|III}}
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}} {{Mo}}
+*''[[The Paradise Snare]]''
+*''[[The Hutt Gambit]]''
+*{{Tales|2|Routine}}
+*''[[Star Wars: The Force Unleashed]]''
+*''[[Rebel Dawn]]''
+*{{WEGCite|story=The Mynock Conspiracy|book=Supernova (sourcebook)}}
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+*{{JournalCite|11|The Farrimmer Cafe}} {{ID|Corellian Corvette}}
+*[[Empire 8|''Empire'' 8]]
+*[[Empire 11|''Empire'' 11]] {{Flash}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*[[Empire 5|''Empire'' 5]]
+*[[Empire 6|''Empire'' 6]]
+*''[[Star Wars: Dark Forces]]''
+*''[[Star Wars: Dark Forces Remaster]]''
+*''[[Jedi Dawn]]''
+*{{StoryCite|story=Hammertong: The Tale of the "Tonnika Sisters"|book=Tales from the Mos Eisley Cantina}} {{Ab|Hammertong (audiobook)}} {{Mo}}
+*{{SWRadio|A Wind to Shake the Stars}}
+*{{SWRadio|Points of Origin}}
+*''[[Star Wars Journal: Captive to Evil]]''
+*{{Film|IV}}
+*[[Star Wars: A New Hope (novelization)|''Star Wars: A New Hope'' novelization]] {{Ab|Star Wars: A New Hope (unabridged audiobook)}} {{1st|in book}} {{1stID|"Galactic cruiser"|in book}}
+*''[[Star Wars: A Storybook]]''
+*''[[Super Star Wars]]''
+*[[Star Wars (1977) 1|''Star Wars'' (1977) 1]] {{Reprint|Star Wars (1977) 1}}
+*[[Droids (1986) 6|''Droids'' (1986) 6]]
+*{{SWRadio|Black Knight, White Princess, and Pawns}}
+*''[[R2-D2's Mission: A Little Hero's Journey]]''
+*{{StoryCite|story=When the Desert Wind Turns: The Stormtrooper's Tale|book=Tales from the Mos Eisley Cantina}} {{Imo}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Rebel Force: Firefight]]''
+*{{WEGCite|story=The Hijacking of Shipment 1037|book=The Far Orbit Project}}
+*{{WEGCite|story=The Capture of Coh Veshiv|book=The Far Orbit Project}}
+*{{WEGCite|story=The Rival|book=The Far Orbit Project}}
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+*[[Star Wars (2013) 10|''Star Wars'' (2013) 10]]
+*{{WEGCite|story=Scavengers' Race|book=Galaxy Guide 7: Mos Eisley}}
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*{{Kids1997Cite|issue1=11|issue2=15|story=Imperial Spy}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Empire 20|''Empire'' 20]]
+*[[Empire 21|''Empire'' 21]]
+*[[Empire 26|''Empire'' 26]]
+*[[Empire 27|''Empire'' 27]]
+*[[Empire 35|''Empire'' 35]]
+*[[Rebellion 2|''Rebellion'' 2]]
+*[[Rebellion 4|''Rebellion'' 4]]
+*[[Rebellion 15|''Rebellion'' 15]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*''[[Introductory Adventure Game]]''
+*''[[Beyond the Rim]]''
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}}
+*''[[Onslaught at Arda I]]'' {{Hologram}} {{Po}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*{{JournalCite|9|Galaxywide NewsNets}} {{ID|Corellian Corvette}}
+*[[Star Wars: TIE Fighter demo|''Star Wars: TIE Fighter'' demo]]
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 50|''Star Wars'' (1977) 50]] {{Reprint|Star Wars (1977) 50}}
+*[[Star Wars (1977) 86|''Star Wars'' (1977) 86]] {{Reprint|Star Wars (1977) 86}}
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''
+*{{JournalCite|8|Firepower|reprint=1}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Star Wars: Shadows of the Empire Ertl minicomic|''Star Wars: Shadows of the Empire'' Ertl minicomic]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*{{Film|VI}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*''[[The Truce at Bakura]]''
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]]
+*[[Star Wars (1977) 98|''Star Wars'' (1977) 98]] {{Reprint|Star Wars (1977) 98}}
+*[[X-Wing Rogue Squadron 5|''X-Wing Rogue Squadron'' 5]]
+*{{JournalCite|13|Day of the Sepulchral Night (short story)|reprint=1}} {{Mo}}
+*{{GalaxyCite|3|Lumiya: Dark Star of the Empire}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]] {{Flash}}
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]]
+*[[X-Wing Rogue Squadron 30|''X-Wing Rogue Squadron'' 30]] {{Co}}
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*{{JournalCite|7|The Kaal Connection|reprint=1}} {{ID|Corellian corvette}}
+*{{WEGCite|story=For a Few Kilotons More|book=Twin Stars of Kira (sourcebook)}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=The Saga Begins|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Shintel Downtime|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Traitor in our Midst|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Galaxy's Edge|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Little Empires|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Introduction|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Home (adventure)|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Rogue Elements|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Waystation|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*[[Dark Empire 1|''Dark Empire'' 1]]
+*[[Dark Empire 6|''Dark Empire'' 6]]
+*[[Dark Empire II 1|''Dark Empire II'' 1]]
+*[[Crimson Empire II: Council of Blood 1|''Crimson Empire II: Council of Blood'' 1]]
+*[[Crimson Empire II: Council of Blood 2|''Crimson Empire II: Council of Blood'' 2]]
+*[[Crimson Empire II: Council of Blood 3|''Crimson Empire II: Council of Blood'' 3]]
+*[[Crimson Empire II: Council of Blood 4|''Crimson Empire II: Council of Blood'' 4]]
+*[[Crimson Empire II: Council of Blood 5|''Crimson Empire II: Council of Blood'' 5]]
+*[[Crimson Empire II: Council of Blood 6|''Crimson Empire II: Council of Blood'' 6]]
+*[[Dark Apprentice (novel)|''Dark Apprentice'']]
+*''[[Champions of the Force]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*''[[Star Wars: Jedi Knight II: Jedi Outcast]]'' {{Mo}}
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*''[[Survivor's Quest]]'' {{Ab|Survivor's Quest (unabridged audiobook)}} {{Mo}}
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Legacy of the Force: Fury]]''
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+*[[Legacy (2006) 47|''Legacy'' (2006) 47]]
+
+[[File:Blockade_Runner_EGTW.jpg|thumb|200px|A blockade runner breaks through the Imperial blockade]]
+}}
+
+===Non-canon appearances===
+*<!-- 2001-05-02 -->[[Star Wars Infinities: A New Hope 1|''Star Wars Infinities: A New Hope'' 1]]
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]''
+*<!-- 2005-12-XX -->"[[Perfect Evil]]"
+*<!-- 2005-12-XX -->{{StoryCite|story=Tantive IV (comic story)|book=Star Wars Manga: Black|stext=''Tantive IV''}}
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2008-09-16 -->{{TFU|USE=1}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1978-03-XX -->[[Star Wars Official Poster Monthly 6|''Star Wars Official Poster Monthly'' 6]] {{1stID|"Rebel blockade runner"}}
+*<!-- 1979-03-XX -->''[[Artoo Detoo's Activity Book]]''
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-XX-XX -->''[[Lightsaber Dueling Pack]]'' {{ID|Rebel blockade runner}}
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{ID|Corellian Corvette}}
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1992-06-XX -->''[[Planets of the Galaxy, Volume Two]]'' {{ID|Corellian Corvette}}
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]'' {{ID|Corellian Corvette}}
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]] {{ID|Corellian Corvette}}
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]'' {{ID|Corellian Corvette}}
+*<!-- 1993-01-XX -->''[[Galaxy Guide 7: Mos Eisley]]'' {{ID|Corellian Corvette}}
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]'' {{ID|Corellian Corvette and Blockade Runner}}
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]'' {{ID|Corellian Corvette}}
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']] {{ID|Corellian Corvette}}
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]'' {{ID|Corellian Corvette}}
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]'' {{ID|blockade runner}}
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]'' {{ID|blockade runner}}
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]'' {{ID|Corellian Corvette}}
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]'' {{ID|Corellian Corvette}}
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]] {{ID|Corellian Corvette}}
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}} {{ID|Corellian corvette}}
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]'' {{ID|Corellian corvette}}
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]] {{1stID|CR90}}
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-08-XX -->{{JournalCite|3|The Pentastar Alignment|reprint=1}}
+*<!-- 1994-09-XX -->[[Star Wars: The National Public Radio Dramatization|''Star Wars'': The National Public Radio Dramatization]]
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]'' {{ID|Corellian Corvette}}
+*<!-- 1995-02-XX -->{{JournalCite|5|Stand and Deliver}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]'' {{ID|Corellian corvette}}
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]'' {{ID|Corellian Corvette}}
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Corellian Corvette}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Rebel Trooper}} 
+}}
+*<!-- 1996-01-15 -->''[[The Kathol Outback]]''
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->''[[The Kathol Rift]]''
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+<!-- 1996-07-XX -->{{CardGameSet|set={{CCG|set=A New Hope Limited|parent=1}}|cards=
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Besieged}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=R2-Q2}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Rebel Squad Leader}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=''Tantive IV''}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Tractor Beam}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=U-3PO}}
+}}
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=Rebel Blockade Runner}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=First Strike}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Medium Bulk Freighter}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Spiral}}
+}}
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]'' {{ID|blockade runner}}
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Sergeant Tarl}} {{ID|Blockade Runner}}
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Capital Support}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Launching The Assault}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Masanya''}}
+}}
+*<!-- 2000-10-XX -->''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]''
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-02-XX -->{{GamerCite|2|A Legacy of Starships}}
+*<!-- 2001-06-19 -->{{GamerCite|4|Ships of the Smuggler's Alliance}}
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Battle Order & First Strike}}
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-02-13 -->{{FactFile|7|PLA 1-6|Planets of the Core Worlds}}
+*<!-- 2002-05-XX -->''[[Star Wars Roleplaying Game Revised Core Rulebook]]''
+*<!-- 2003-04-09 -->{{FactFile|67|MAN 1-2|Manufacturers}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2005-07-28 -->{{Wizards|url=default.asp?x=starwars/article/sw20050728a|text=Heroes of ''Revenge of the Sith''}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-10 -->{{Hyperspace|url=hyperspace/member/galactic/2006/04/galactic20060410.html|series=Galactic Gallery|text=Blasted Blockade Runner}}
+*<!-- 2006-09-15 -->{{Hyperspace|url=hyperspace/member/galactic/2006/09/galactic20060915.html|series=Galactic Gallery|text=Early Corvette}}
+*<!-- 2006-10-04 -->[[Star Wars Insider 90|''Star Wars Insider'' 90]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-11-14 -->''[[Sculpting a Galaxy: Inside the Star Wars Model Shop]]''
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-04-30 -->{{SWArchive|url=episode-iv/explore/visualguides/chp03.html|text=Episode IV Visual Guide &mdash; Chapter 3: Imperial Boarding Party}}
+*<!-- 2007-05-07 -->{{SWArchive|url=episode-iv/explore/visualguides/chp04.html|text=Episode IV Visual Guide &mdash; Chapter 4: Artoo's Mission}}
+*<!-- 2007-05-14 -->{{SWArchive|url=episode-iv/explore/visualguides/chp05.html|text=Episode IV Visual Guide &mdash; Chapter 5: Vader Confronts the Princess}}
+*<!-- 2007-05-24 -->''[[Star Wars Roleplaying Game Saga Edition Core Rulebook]]''
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-02-05 -->{{Hyperspace|url=hyperspace/source/praji/20090205.html|text=Tinker, Tailor, Soldier, Praji|int=Tinker, Tailor, Soldier, Praji}}
+*<!-- 2009-06-23 -->{{SWGTCG|set=Agents of Deception|cardname=Corellian Corvette Hologram}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+*<!-- 2009-11-20 -->{{Hyperspace|url=fans/hyperspace/source/nagai11202009/index.html|text=The Forgotten War: The Nagai and the Tofs|int=The Forgotten War: The Nagai and the Tofs}}
+*<!-- 2011-09-13 -->{{DB|starship|tantiveiv|Rebel blockade runners}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=''Devastator''|link=core/devastator-core-29-2}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Rebel Fleet|link=core/the-rebel-fleet-core-11-1}} {{Po}}
+}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+<!-- 2013-07-19 -->{{CardGameSet|set={{FFGTCG|set=Edge of Darkness|parent=1}}|cards=
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Alderaan's Promise|link=edge-of-darkness/alderaans-promise-edge-of-darkness-77-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=''Tantive IV''|link=edge-of-darkness/tantive-iv-edge-of-darkness-77-3}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Tractor Beam|link=edge-of-darkness/tractor-beam-edge-of-darkness-84-5}} {{Po}}
+}}
+<!-- 2013-12-13 -->{{CardGameSet|set={{FFGTCG|set=Balance of the Force|parent=1}}|cards=
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fleet Ambush|link=balance-of-the-force/fleet-ambush-balance-of-the-force-d01-54}} {{Po}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fully Armed|link=balance-of-the-force/fully-armed-balance-of-the-force-d01-56}} {{Po}}
+}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-03-19 -->{{FactFile2014|11|TAN 1-2|''Tantive IV''}}
+*<!-- 2014-04-25 -->{{SWE|technology|alderaancruiser|Alderaan cruiser}}
+*<!-- 2014-04-25 -->{{SWE|characters|captainantilles|Captain Antilles}} {{C|as "Alderaan cruiser"}}
+*<!-- 2014-04-25 -->{{SWE|technology|escapepod|escape pod}}
+<!-- 2014-05-22 -->{{CardGameSet|set={{FFGXW|set=Tantive IV Expansion Pack}}|cards=
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=CR90 Corvette (Aft)}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=CR90 Corvette (Fore)}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=''Dodonna's Pride''}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=''Jaina's Light''}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=Leia Organa}} {{Po}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=Raymus Antilles}} {{Po}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=Single Turbolasers|reprint=1}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=''Tantive IV''}}
+}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=Salvage Operation|link=rogue-squadron/ready-for-takeoff/salvage-operation-r1252}} {{Po}}
+<!-- 2015-03-27 -->{{CardGameSet|set={{Armada|set=Core Set}}|cards=
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=CR90 Corvette A|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=CR90 Corvette B|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=''Dodonna's Pride''|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=H9 Turbolasers|reprint=1}} {{Po}}
+}}
+<!-- 2015-05-14 -->{{CardGameSet|set={{Armada|set=CR90 Corellian Corvette Expansion Pack}}|cards=
+*<!-- 2015-05-14 -->{{Armada|set=CR90 Corellian Corvette Expansion Pack|cardname=''Jaina's Light''|reprint=1}}
+*<!-- 2015-05-14 -->{{Armada|set=CR90 Corellian Corvette Expansion Pack|cardname=''Tantive IV''|reprint=1}}
+}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Corellian Corvette|link=rogue-squadron/evasive-maneuvers/corellian-corvette-r1289}}
+*<!-- 2018-08-02 -->{{FFGXW2|set=Core Set|cardname=Predator|reprint=1}} {{Po}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+==External links==
+{{Mediacat|imagecat=Images of CR90 corvettes}}
+*{{WP|Blockade Runner}}
+
+{{Interlang
+|cs=Korveta třídy CR90/Legendy
+|de=CR90-Korvette
+|es=Corbeta CR90/Leyendas
+|fi=CR90-korvetti/Legends
+|fr=Corvette CR90/Légendes
+|it=Corvetta CR90
+|nl=CR90 Corvette
+|no=CR90 Korvett
+|pl=Korweta CR90/Legendy
+|pt=Legends:Corveta CR90
+|itFA=1
+}}
+
+[[Category:Corvette classes]]
+[[Category:CR-series models]]
+[[Category:Hutt starship classes]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:CR90 corvettes]]
+}}

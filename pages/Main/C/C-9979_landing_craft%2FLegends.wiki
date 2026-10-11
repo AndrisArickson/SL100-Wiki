@@ -1,0 +1,253 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:C9979_ep1ig.jpg]]
+|name=C-9979 landing craft
+|designer=
+|manufacturer=[[Haor Chall Engineering/Legends|Haor Chall Engineering]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+|line=
+|model=C-9979 [[Landing craft/Legends|landing craft]]<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref>
+|type=Landing craft
+|cost=*200,000 [[Galactic Credit Standard/Legends|credits]]<ref name="TCWCG" />
+*75,000 credits {{C|used}}<ref name="TCWCG" />
+|modifier=
+|sysmods=
+|length=
+|width=370 [[Meter/Legends|meters]]<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=587 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="FF" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=*None<ref name="CCS" />
+*Equipped {{C|carrier version}}<ref name="SW:SF">[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']]</ref>
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Wingtip [[Laser cannon/Legends|laser cannons]] (4)<ref name="CCS" />
+**Arrangement: 2 fire-linked pairs
+***Fire arc: Front
+*Turret-mounted cannons (4)<ref name="CCS" />
+**Arrangement: 2 fire-linked pairs
+***Fire arc: Turret
+|complement=*[[Platoon Attack Craft/Legends|Platoon Attack Crafts]] {{C|28: 7 per wing}}<ref name="FF" />
+*[[Armored Assault Tank/Legends|Armored Assault Tanks]] {{C|114: 24 per fore wing, 33 per aft wing}}<ref name="FF" />
+*[[Multi-Troop Transport/Legends|Multi-Troop Transports]] or [[Multi-Utility Transport]]s<ref name="TCWPG">[[Star Wars: The Clone Wars: Prima's Official Strategy Guide|''Star Wars: The Clone Wars'': Prima's Official Strategy Guide]]</ref> {{C|11: 3 per fore wing, 3 in staging area, 2 in landing pedestal}}<ref name="FF" />
+*[[NR-N99 Persuader-class droid enforcer/Legends|NR-N99 ''Persuader''-class droid enforcers]]<ref name="Episode III">{{Film|III}}</ref>
+*[[CIS mobile command center/Legends|CIS mobile command center]] (1) and [[Sheathipede-class transport shuttle/Legends|Sheathipede-class transport shuttle]](1)<ref name="Defenders">{{TCW|Defenders of Peace}}</ref>
+*Starfighter Carrier:
+**[[Vulture-class starfighter/Legends|Vulture Droids]]<ref name="SW:SF" />
+**[[Scarab-class starfighter/Legends|Scarab-class Starfighters]]<ref name="SW:SF" />
+**[[Trade Federation droid bomber|Advanced Droid Bombers]]<ref name="SW:SF" />
+|bays=
+|escapepods=
+|crew=*[[OOM-series battle droid/Legends|OOM-series battle droids]] (88)<ref name="FF" />
+:or
+*140 sapients
+|skeleton=
+|passengers=*Repair droids (30)
+*[[OOM command battle droid/Legends|OOM command battle droids]] (40)
+*[[OOM pilot battle droid/Legends|OOM pilot battle droids]] (39)
+*[[OOM-series security droid/Legends|OOM security battle droids]] (15)<ref name="TCWCG" />
+|capacity=1,800 metric tons<ref name="TCWCG" />
+|cargohandling=
+|consumables=1 [[Standard day/Legends|day]]<ref name="TCWCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="TCWCG" />
+|role=*[[Transport/Legends|Transport]]
+*[[Carrier/Legends|Carrier]]<ref name="SW:SF" />
+|firstuse=
+|retired=
+|affiliation=*[[Trade Federation/Legends|Trade Federation]]
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="RP" />
+**[[Outland Regions Security Force/Legends|Republic Outland Regions Security Force]]<ref name="RP" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]
+}}
+{{Quote|It's an invasion army.|[[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]], to [[Qui-Gon Jinn/Legends|Qui-Gon Jinn]] upon seeing landing craft being loaded|<ref name="TPM">{{Film|I}}</ref>}}
+The '''C-9979 landing craft''', also known as the '''Trade Federation landing ship''' or the '''Separatist landing craft''', was a large landing craft built by [[Haor Chall Engineering/Legends|Haor Chall Engineering]] for the [[Trade Federation/Legends|Trade Federation's]] [[Trade Federation Droid Army/Legends|military forces]], and later for the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]. When the Trade Federation began planning to create its military forces, Haor Chall Engineering produced a design for a landing craft that would carry troops and ground vehicles from [[Lucrehulk-class battleship/Legends|warships]] down to [[Planet/Legends|planets]].
+
+==Characteristics==
+{{Quote|There's gotta be a full battalion in there. Probably packing armor, too.|Rys, upon seeing a landing craft|audio=Rys-Full_Battalion.flac|<ref name="Ambush">{{TCW|Ambush}}</ref>}}
+[[File:CC9979trio-BF.jpg|thumb|left|180px|Three C-9979 landing craft]]
+The C-9979 configuration was chosen due to its close resemblance to the commercial barges used by the [[Trade Federation/Legends|Federation's]] merchant fleet.<ref name="CCS" /> The ship had four wings with a wingspan of 370 [[Meter/Legends|meters]]. These wings were removable so that they could be stored away easily aboard the massive battleships. They were bound by powerful tensor fields to the fuselage when the craft was assembled for use. Even the strongest metal alloys were unable to bear the immense cargo weight inside the wings, thus making tensor fields essential for the craft.<ref name="CCS" />
+
+A series of maintenance and repair stores were located along the front of these wings and serviced the assault force components, particularly [[Battle droid/Legends|battle droids]] needing servicing after battles. Forward tensor fields connected the wing mounts firmly to the fuselage, and wing-mounted tensor fields prevented the span of the wings from collapsing under pressure.<ref name="CCS" />
+
+[[File:C9979_ep1ig.png|thumb|left|180px|C-9979 schematics]]
+
+These wings were used to carry vehicles racked in garage channels for maximum loading capacity. Each carried 11 [[Multi-Troop Transport/Legends|MTTs]] that carried troops on the front lines, 28 [[Platoon Attack Craft/Legends|PAC]] for deploying troops reasonably behind the front lines, and 114 [[Armored Assault Tank/Legends|AATs]] for vehicular support. When deployed, these vehicles were guided along repulsor tracks to a staging platform. Since the maneuvering equipment on board was not precise enough to negotiate the cramped confines of the garage zones without causing damage, they required the assistance of the repulsor tracks. At a staging area, the vehicles were rotated into position and grabbed by transport clamps, which brought them aft and led them down the deployment ramp in the landing craft's foot.<ref name="CCS" />
+
+C-9979 landing craft could also function as [[Carrier/Legends|carriers]], holding [[Scarab-class starfighter/Legends|Scarab]] [[Droid starfighter/Legends|droid starfighters]]<ref name="SW:SF" /> or [[Trade Federation droid bomber|bombers]].<ref name="SW:JF">''[[Star Wars: Jedi Starfighter]]''</ref> One carrier, which worked with [[Vana Sage]] in the [[Eos system/Legends|Eos system]], was equipped with a [[Hyperdrive/Legends|hyperdrive]].<ref name="SW:SF" />
+
+Because of its heavy cargo, the landing craft had a huge antigravity lifting capacity. The landing craft was manned and operated by [[B1-series battle droid/Legends|B1-Series battle droids]]. Landing craft were stored in the hangars of warships where they were assembled, serviced, and repaired. When ready for deployment, they were loaded with ground vehicles. Landing craft were always stored in an unloaded condition to prevent structural stress and so that their vehicles could be serviced and repaired.<ref name="CCS" />
+
+==History==
+{{Quote|One hit, and they'll have no defense. You drop a couple ''C-9979's'', and walk droid troops right through the place.|[[Passel Argente/Legends|Passel Argente]]|<ref name="R50">[[Republic 50|''Republic'' 50]]</ref>}}
+[[File:Trade_Federation_Invasion.png|thumb|left|250px|Landing craft, escorted by droid starfighters, approach Naboo.]]
+During the [[Invasion of Naboo/Legends|Invasion of Naboo]], the Trade Federation deployed large numbers of C-9979 landing craft to transport troops and equipment to the major cities of [[Naboo/Legends|Naboo]]. Jedi Knights [[Qui-Gon Jinn/Legends|Qui-Gon Jinn]] and [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] snuck down to the planet on a C-9979.<ref name="TPM" /> The craft was deployed in a pattern of groups of three, to cut off [[City/Legends|cities]] from one another.<ref name="CL">[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]</ref>
+
+Two carriers guarded [[Nod Kartha]], but were [[Battle of Nod Kartha|destroyed]] when the [[Lok Revenants/Legends|Lok Revenants]] attacked the [[Trihexalon]] factory.<ref name="SW:JF" />
+
+Prior to the [[Separatist Crisis/Legends|Separatist Crisis]], three C-9979 landing crafts were deployed by the [[Galactic Republic/Legends|Galactic Republic]] to the living planet [[Zonama Sekot/Legends|Zonoma Sekot]] in [[29 BBY/Legends|29 BBY]] in a coordinated [[Second Battle of Zonama Sekot|assault]] on the planet as it began producing strange living starfighters after reports of a previous [[First Battle of Zonama Sekot|battle]] against Zonama Sekot was reported involving several [[Yuuzhan Vong|unknown combatants]]. These C-9979 landing crafts would be stationed aboard the Republic [[Captor-class heavy munitions cruiser]] ''[[Admiral Korvin]]'' under the command of [[Captain/Legends|Captain]] [[Kett (Galactic Republic)|Kett]] and operating under orders from [[Raith Sienar/Legends|Raith Sienar]] and [[Commander/Legends|Commander]] [[Wilhuff Tarkin/Legends|Wilhuff Tarkin]]. Shortly after engaging Zonoma Sekot, the living planet would retreat from the Republic's assault into the [[Unknown Regions/Legends|Unknown Regions]]<ref name="RP">''[[Rogue Planet]]''</ref>
+
+During the [[Clone Wars/Legends|Clone Wars]], when the Trade Federation pledged its forces to the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]], they were used to transport troops and equipment from orbiting ''Lucrehulk''-class battleships, or other large Separatist ships, down to countless battlefields such as [[Rhen Var/Legends|Rhen Var]] and [[Thule/Legends|Thule]]. Three of the landing crafts were clamped and transported to the bottom of [[Recusant-class light destroyer/Legends|''Recusant''-class light destroyers]].<ref name="SW: TCW">[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]</ref>
+
+[[File:L-2832-TCWS01E01.jpg|thumb|200px|A Separatist landing craft lands on Rugosa.]]
+They were later used during Confederate campaigns on [[Battle of Teth/Legends|Teth]]<ref name="TCW film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref> and [[Battle of Rugosa/Legends|Rugosa]].<ref name="Ambush" />
+
+One was also on [[Maridun/Legends|Maridun]], when [[Lok Durd/Legends|Lok Durd]] tested a [[Defoliator/Legends|new Separatist weapon]]. This variant of the ship was equipped with a [[CIS mobile command center/Legends|mobile command center]], a base that could be taken apart and be rebuilt, which fitted into the landing craft.<ref name="Defenders" />
+
+Later in the war, during the [[Battle of Dathomir/Legends|massacre]] on [[Dathomir/Legends|Dathomir]], [[General/Legends|General]] [[Grievous/Legends|Grievous]], under orders from [[Count/Legends|Count]] [[Dooku/Legends|Dooku]], ordered a Separatist landing craft to be sent down to the planet packing a huge army. When landed, the landing craft deployed [[Battle droid/Legends|battle droids]] and [[Armored Assault Tank/Legends|AATs]]. The droid army easily eliminated the small band of [[Nightsisters/Legends|Nightsisters]].<ref name="Massacre">{{TCW|Massacre}}</ref>
+
+During the [[Battle of Coruscant/Legends|Battle of Coruscant]], large numbers of C-9979 landing ships participated in the raid on the capital world of the [[Galactic Republic/Legends|Republic]] that saw the kidnapping of [[Supreme Chancellor/Legends|Supreme Chancellor]] [[Palpatine/Legends|Palpatine]]. There, they unloaded hundreds of millions of battle [[Droid/Legends|droids]].<ref name="TSGG">{{InsiderCite|86|Unknown Soldier: The Story of General Grievous}}</ref> Some were destroyed by [[Yoda/Legends|Yoda]] using [[The Force/Legends|the Force]].<ref name="SW: CW">''[[Star Wars: Clone Wars]]''</ref>
+
+These ships were also deployed on [[Kashyyyk/Legends|Kashyyyk]] by an invasion force during the [[Battle of Kashyyyk/Legends|Battle of Kashyyyk]]. There, they were seemingly initially camouflaged with netting.<ref name="SW: CW" />
+
+==Behind the scenes==
+C-9979 landing craft made their first appearance in the [[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]].
+
+Early design concepts for the landing ship included dirigible-like transports that ejected carried craft from cocoon-like sockets. [[Doug Chiang]]'s final designs were based on a dragonfly. [[George Lucas]] liked the similarities of this design to an old biplane, and approved this direction.<ref name="DB-Trade Federation landing ship">{{DB|starship|tfed_landingship|Trade Federation landing ship}}</ref>
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of C-9979 landing craft}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*[[Darth Plagueis (novel)|''Darth Plagueis'']] {{Ab|Darth Plagueis (audiobook)}} {{Imo}}
+*''[[Cloak of Deception]]'' {{C|Mentioned only; as Trade Federation Landing Craft}}
+*[[Star Wars: Obi-Wan (video game)|''Star Wars: Obi-Wan'']]
+*[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']]
+*{{Film|I}}
+*[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]] {{Ab|Star Wars: Episode I The Phantom Menace (unabridged audiobook)}} {{1st}}
+*[[Star Wars: Episode I The Phantom Menace (junior novelization)|''Star Wars'': Episode I ''The Phantom Menace'' junior novelization]]
+*[[Star Wars: Episode I The Phantom Menace Movie Storybook|''Star Wars'': Episode I ''The Phantom Menace Movie Storybook'']]
+*[[Star Wars: Episode I The Phantom Menace (video game)|''Star Wars'': Episode I ''The Phantom Menace'' video game]]
+*[[Star Wars: Episode I — The Phantom Menace 1|''Star Wars: Episode I — The Phantom Menace'' 1]]
+*[[Star Wars: Episode I Racer|''Star Wars'': Episode I ''Racer'']]
+*''[[Star Wars: Battlefront]]''
+*''[[Episode I: Obi-Wan Kenobi]]'' {{Flash}}
+*[[Star Wars (1998) 39|''Star Wars'' (1998) 39]] {{Flash}}
+*''[[Rogue Planet]]''
+*''[[Star Wars: Jedi Starfighter]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]
+*[[Republic 50|''Republic'' 50]]
+*{{CWACite|10|Graduation Day}}
+*[[Republic 57|''Republic'' 57]]
+*[[Republic 61|''Republic'' 61]] {{Flash}}
+*{{TCW|The Hidden Enemy}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*[[Star Wars: The Clone Wars (novelization)|''Star Wars: The Clone Wars'' novelization]] {{Ab|Star Wars: The Clone Wars (audiobook)}}
+*''[[Star Wars: The Clone Wars: Lightsaber Duels]]'' {{Flash}}
+*{{TCW|Supply Lines}}
+*{{TCW|Ambush}}
+*{{TCW|Rookies (episode)}}
+*''[[The Clone Wars: The Fall of Falleen]]''
+*[[Star Wars: Clone Wars Adventures (video game)|''Star Wars: Clone Wars Adventures'']]
+*{{TCW|Defenders of Peace}}
+*{{TCW|Storm Over Ryloth}}
+*''[[The Clone Wars: Curfew]]''
+*{{TCW|Liberty on Ryloth}} {{Wreck}}
+*''[[Star Wars: The Clone Wars: Republic Heroes]]''
+*{{TCWComicCite|6.1|Inside Job}}
+*{{TCWComicCite|6.2|Keep the Faith!}}
+*''[[The Clone Wars: Act on Instinct]]''
+*{{TCW|Grievous Intrigue}}
+*{{TCW|The Deserter}} {{Wreck}}
+*{{TCW|ARC Troopers (episode)}} {{Flash}}
+*{{TCW|Padawan Lost}}
+*{{TCW|Water War}}
+*{{TCW|Shadow Warrior}}
+*{{TCW|Kidnapped}}
+*{{TCW|A Friend in Need}}
+*{{TCW|Massacre}}
+*{{TCW|A Necessary Bond}}
+*[[General Grievous 1|''General Grievous'' 1]]
+*[[General Grievous 2|''General Grievous'' 2]]
+*[[General Grievous 3|''General Grievous'' 3]]
+*[[General Grievous 4|''General Grievous'' 4]]
+*{{InsiderCite|issue1=68|issue2=70|Hero of Cartao}}
+*{{CW|22}}
+*''[[Labyrinth of Evil]]''
+*{{CW|23}}
+*{{Film|III}}
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1999-05-04 -->''[[Star Wars: Episode I Incredible Cross-Sections]]''
+*<!-- 1999-05-XX -->''[[Star Wars: Episode I: The Visual Dictionary]]''
+*<!-- 1999-06-23 -->[[Star Wars: Episode I Insider's Guide|''Star Wars'': Episode I ''Insider's Guide'']]
+*<!-- 2000-10-XX -->''[[Inside the Worlds of Star Wars: Episode I]]''
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Begin Landing Your Troops}}
+<!-- 2001-12-12 -->{{CardGameSet|set={{CCG|set=Theed Palace Limited|parent=1}}|cards=
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Blockade Flagship: Docking Bay (Dark)}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Invasion}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Trade Federation Landing Craft}}
+}}
+*<!-- 2001-12-XX -->[[Star Wars: Obi-Wan: Prima's Official Strategy Guide|''Star Wars: Obi-Wan'': Prima's Official Strategy Guide]]
+*<!-- 2002-05-29 -->{{FactFile|22|LAN 1-2|Trade Federation C-9979 Landing Ship}}
+*<!-- 2002-10-29 -->[[Star Wars: The Clone Wars: Prima's Official Strategy Guide|''Star Wars: The Clone Wars'': Prima's Official Strategy Guide]]
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+<!-- 2007-11-14 -->{{CardGameSet|set={{PocketModel|set=Ground Assault|parent=1}}|cards=
+*<!-- 2007-11-14 -->{{PocketModel|set=Ground Assault|cardname=L-1131 C-9979 Landing Craft}}
+*<!-- 2007-11-14 -->{{PocketModel|set=Ground Assault|cardname=L-2384 C-9979 Landing Craft}}
+*<!-- 2007-11-14 -->{{PocketModel|set=Ground Assault|cardname=L-7230 C-9979 Landing Craft}}
+}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+<!-- 2011-08-25 -->{{SourceContents|issue={{StarshipsVehiclesCite|77|parent=1}}|contents=
+*<!-- 2011-08-25 -->{{StarshipsVehiclesCite|77|Action Stations}}
+*<!-- 2011-08-25 -->{{StarshipsVehiclesCite|77|In Command}}
+}}
+*<!-- 2011-09-13 -->{{DB|starship|tfed_landingship|Trade Federation landing ship}}
+*<!-- 2012-01-16 -->''[[Star Wars: The Phantom Menace: The Expanded Visual Dictionary]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-06-03 -->''[[Star Wars: The Clone Wars: Episode Guide]]''
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2014-03-18 -->{{SW|url=news/the-essential-guide-to-warfare-authors-cut-part-6-showdown-at-naboo|series=Star Wars: The Essential Guide to Warfare Author's Cut|text=Part 6: Showdown at Naboo}}
+*<!-- 2014-04-25 -->{{SWE|groups|tradefederation|Trade Federation}} {{Po}}
+*<!-- 2014-04-25 -->{{SWE|technology|tradefederationlandingcraft|Trade Federation landing ship}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Výsadková loď C-9979
+|de=C-9979 Landungsschiff
+|es=Nave de aterrizaje C-9979/Leyendas
+|fr=C-9979
+|it=Nave da sbarco C-9979
+|hu=C-9979-es leszállóhajó
+|nl=C-9979 Lander
+|pl=Barka desantowa C-9979/Legendy
+|pt=Nave de desembarque C-9979
+|fi=C-9979 -laskeutumisalus
+}}
+
+[[Category:Haor Chall Engineering products]]
+[[Category:Starship classes of the Trade Federation]]
+[[Category:Troop transport starship classes]]
+
+{{RelatedCategories
+|[[Category:C-9979 landing craft]]
+}}

@@ -1,0 +1,97 @@
+{{Top}}
+{{Update|[[The Clone Wars: No Prisoners]]}}
+{{StarshipClass
+|image=[[File:CR-20_Troop_Carrier.jpg]]
+|name=CR20 troop carrier
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="db">{{DB|starship|republiccarrier|Republic carrier}}</ref>
+|line=
+|model=CR20 troop carrier<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref>
+|type=[[Troop carrier/Legends|Troop carrier]]<ref name="db" />
+|cost=680,000 [[Galactic Credit Standard/Legends|credits]] {{C|265,000 used}}<ref name="TCWCG" />
+|modifier=
+|sysmods=
+|length=60 [[Meter/Legends|meters]]<ref name="db" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer per hour/Legends|km/h]]<ref name="TCWCG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 3 {{C|backup class 12}}<ref name="TCWCG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Double [[Turbolaser/Legends|turbolaser]] cannons (2)<ref name="db" />
+|complement=[[74-Z speeder bike/Legends|74-Z speeder bikes]] (12)<ref name="db" />
+|bays=
+|escapepods=4
+|crew=*[[Pilot/Legends|Pilots]] (2)<ref name="db" />
+*Communications officer (1)<ref name="db" />
+*Engineers (3)<ref name="db" />
+|skeleton=
+|passengers=40 [[Clone trooper/Legends|clone troopers]]<ref name="db" />
+|capacity=15 [[Metric ton/Legends|tons]]<ref name="TCWCG" />
+|cargohandling=
+|consumables=2 [[Standard week/Legends|weeks]]<ref name="TCWCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="TCWCG" />
+|role=Troop carrier<ref name="db" />
+|firstuse=
+|retired=
+|affiliation=*[[Corellian Defense Force/Legends|Corellian Defense Force]]<ref name="TCWCG" />
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="db" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="The Clone Wars: No Prisoners">''[[The Clone Wars: No Prisoners]]''</ref>
+}}
+The '''CR20 troop carrier''' or '''CR-20 trooper carrier''' was a type of [[Transport/Legends|transport]] ship used to deploy small units of [[Clone trooper/Legends|clone troopers]].
+
+==Characteristics==
+[[File:CR-20_Porax_TCWCG_2.jpg|thumb|left|180px|A CR-20 defends itself from a [[Rogue-class Porax-38 starfighter/Legends|''Rogue''-class starfighter]].]]
+The CR20 troop [[Carrier/Legends|carrier]] was armed with two double [[Turbolaser/Legends|turbolaser]] cannons. It was sixty [[Meter/Legends|meters]] long and could carry up to forty [[Clone trooper/Legends|clone troopers]], twelve [[74-Z speeder bike/Legends|74-Z speeder bikes]], and their corresponding supplies. The carrier's crew consisted of two [[Pilot/Legends|pilots]], one communications officer, and three engineers.
+
+==History==
+Originally designed by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] for use by its security forces, the [[Galactic Republic/Legends|Republic]] purchased surplus CR-20s one standard month after the [[First Battle of Geonosis/Legends|First Battle of Geonosis]]. Despite this, they were widely unseen in the [[Republic Navy/Legends|Republic Navy]] early in the Clone Wars.<ref name="The Clone Wars: No Prisoners">''[[The Clone Wars: No Prisoners]]''</ref> It was not until the [[Battle of JanFathal]], where [[Anakin Skywalker/Legends|Anakin Skywalker]] piloted a [[Confederacy of Independent Systems/Legends|CIS]]-owned CR-20 to rescue [[Republic Intelligence/Legends|Republic Intelligence]] operative [[Hallena Devis]], that the usefulness of the CR-20 Troop Carrier became evident.<ref name="The Clone Wars: No Prisoners" /> Generally, they were used in situations where the large [[Acclamator-class transgalactic military assault ship/Legends|''Acclamator''-class assault ships]] were impractical or unneeded.
+
+==Appearances==
+*{{CW|11}} {{1st}}
+*{{CW|17}}
+*''[[The Clone Wars: No Prisoners]]'' {{Ab|The Clone Wars: No Prisoners (audiobook)}}
+*''[[The Clone Wars: Deadly Hands of Shon-Ju]]''
+*{{CW|22}}
+*{{CWACite|4|The Brink}}
+*''[[Imperial Commando: 501st]]''
+
+==Sources==
+*<!-- 2005-09-26 -->{{InsiderCite|84|Guide to the Grand Army of the Republic}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|starship|republiccarrier|Republic carrier}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|bg=CR-20 преносвач
+|cs=Vojenský transportér CR-20
+|de=CR20-Truppentransporter
+|es=Transportador de Tropas CR20/Leyendas
+|nl=CR-20 Troop Carrier
+}}
+
+[[Category:CR-series models]]
+[[Category:Dropship classes]]
+[[Category:Starship classes of the Galactic Republic]]
