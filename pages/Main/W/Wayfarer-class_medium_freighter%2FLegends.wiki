@@ -1,0 +1,89 @@
+{{Top|title=''Wayfarer''-class medium freighter}}
+{{StarshipClass
+|image=[[File:TheRevenge_1.jpg]]
+|name=''Wayfarer''-class medium freighter
+|designer=
+|manufacturer=[[Kuat Systems Engineering/Legends|Kuat Systems Engineering]]
+|line=
+|model=
+|type=Medium [[Transport/Legends|transport]]
+|cost=*140,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}
+*50,000 credits {{C|used}}<ref name="GAW">''[[Galaxy at War]]''</ref>
+|modifier=
+|sysmods=
+|length=82 [[Meter/Legends|meters]]<ref name="GAW" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=830 [[Kilometer per hour/Legends|km/h]]<ref name="GAW" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="GAW" />
+*Class 14 {{C|backup}}<ref name="GAW" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Quad laser cannon/Legends|Quad laser cannon]] (1)
+*[[Laser cannon/Legends|Laser cannon]] (1)<ref name="GAW" />
+|complement=(2) [[Starfighter/Legends|Starfighters]]<ref name="GAW" />
+|bays=
+|escapepods=
+|crew=10<ref name="GAW" />
+|skeleton=
+|passengers=6<ref name="GAW" />
+|capacity=220 [[Metric ton/Legends|metric tons]]<ref name="GAW" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="GAW" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]
+|firstuse=
+|retired=
+|affiliation=Various
+}}
+The '''''Wayfarer''-class medium freighter''', also known as the '''''Wayfarer''-class medium transport''', was a medium [[Transport/Legends|transport]] constructed by [[Kuat Systems Engineering/Legends|Kuat Systems Engineering]], a now-folded subsidiary of [[Kuat Drive Yards/Legends|Kuat Drive Yards]].
+
+==Design==
+[[File:TheRevenge_2.jpg|thumb|left|180px|The layout of a ''Wayfarer''-class transport]]
+The ''Wayfarer''-class was designed with a detachable portside section originally intended for modular reconfiguration, allowing it to load a passenger section, a hangar bay, or cargo module into an armature extending from the starboard section. Production costs forced [[Kuat Systems Engineering/Legends|Kuat Systems Engineering]] to scale back their plans and create only the hangar bay module, which served as cargo space for most owners, who generally did not carry or store [[Starfighter/Legends|starfighters]]. A few prototypes and custom builds of other modules existed, but were hard to find, limited primarily to bulk commerce corporate shipping operations centered on well-developed metropolitan [[Planet/Legends|planets]] like [[Coruscant/Legends|Coruscant]].
+
+==History==
+[[File:TheSmugglersGambit-AR.png|thumb|left|250px|A smuggler-owned ''Wayfarer''-class transport]]
+The versatility offered by the detachable module was initially exciting, until it was revealed that the armature could not accept standard cargo containers. This, combined with a high price tag, ensured the demise of the ''Wayfarer''-class's production. Despite the flaws that kept the Wayfarer from becoming a huge commercial success, the ship's versatility made it a well-rounded vessel. It was popular with smugglers who could dump the cargo pod if they needed to avoid customs inspectors. It was also used by Rebel forces as an assault shuttle.<ref name="GAW" />
+
+==Appearances==
+*{{LivingForce|Belted In: Incursion}}
+*{{LivingForce|Night Eyes: Night's Homecoming}}
+*{{LivingForce|Jigsaw: Portrait of the Artist as a Young Rodian}}
+*{{LivingForce|Jigsaw: In the Name of the Maker}}
+*{{LivingForce|The Replacements}}
+*{{LivingForce|Decision: Coruscant}}
+
+==Sources==
+*<!-- 2003-05-XX -->{{PolyhedronCite|157|Starships of the Galaxy: Wayfarer-class Medium Transport|Starships of the Galaxy: ''Wayfarer''-class Medium Transport}} {{1stID|''Wayfarer''-class medium freighter}}
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=The Smuggler's Gambit|link=rogue-squadron/attack-run/the-smuggler’s-gambit-r1323}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Kuat Systems Engineering products]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Wayfarer-class medium freighters]]
+}}

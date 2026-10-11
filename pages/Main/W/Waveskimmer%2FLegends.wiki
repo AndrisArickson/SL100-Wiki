@@ -1,0 +1,88 @@
+{{Top}}
+{{Youmay|the single-person craft used by the Empire|the [[Wave-skimmer/Legends|civilian model]]}}
+{{RepulsorliftVehicle
+|image=[[File:Singlepersonwaveskimmer.png]]
+|name=Waveskimmer
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Repulsorcraft/Legends|Repulsorcraft]]<ref name="BGS">''[[Battle for the Golden Sun]]''</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None<ref name="BGS" /> or mounted sonic blaster<ref name="OE">[[Operation: Elrood (book)|''Operation: Elrood'']]</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|Pilot]]<ref name="BGS" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Aquatic assault<ref name="BGS" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="BGS" />
+}}
+The '''waveskimmer''',<ref name="BGS" /> also known as an '''assault skimmer''',<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref> was a small repulsorcraft used by [[Galactic Empire/Legends|Imperial]] [[aquatic assault stormtrooper]]s.<ref name="BGS" />
+
+==Characteristics==
+The waveskimmer was able to move under the [[Ocean/Legends|sea]]<ref name="BGS" /> and surf on waves.<ref name="SSR">''[[Secrets of the Sisar Run]]''</ref> It was a single person vehicle,<ref name="BGS" /> but two people could manage to ride the vehicle.<ref name="SSR" />
+
+It carried no weapons, but the seatroopers would fire their infantry weapons while driving the waveskimmer.<ref name="BGS" /> However, a version with a mounted sonic blaster was used on the [[Planet/Legends|planet]] [[Alluuvia]].<ref name="OE" />
+
+[[Twin-pod paracapsule]]s could be used to drop two waveskimmers and two [[Aquatic assault stormtrooper|seatroopers]] from a [[Starship/Legends|starship]] in [[Orbit/Legends|orbit]].<ref name="SSR" />
+
+==History==
+The [[Imperial Aquatic Garrison]] was an undermanned garrison on the [[Waterworld/Legends|waterworld]] [[Sedri/Legends|Sedri]]. It had fifteen waveskimmers assigned to the base, at least three of them were single person vehicles.<ref name="BGS" />
+
+During the [[Galactic Civil War/Legends|Galactic Civil War]], the [[Strike-class medium cruiser|''Strike''-class medium cruiser]] ''[[Ion Storm]]'' dropped some single person waveskimmers over Sedri, but these weren't usually carried aboard as the [[Cruiser/Legends|cruiser]] had stopped in an Imperial depot en route to requisition the appropriate equipment.<ref name="SSR" />
+
+The [[MFB-4 Mobile Repulsor Base|Imperial Mobile Base]] in [[Elrood/Legends|Elrood]] carried ten waveskimmers equipped with sonic blasters.<ref name="OE" />
+
+==Behind the scenes==
+The vehicle appears first in pages 8,9 and 17 of ''[[Battle for the Golden Sun]]'' (1988), it appears again in pages 76-77 of ''[[Secrets of the Sisar Run]]'' (1997). The stat block is too brief and doesn't contain information about the manufacturer. It is just named waveskimmer or single person waveskimmer, which leads to some confusion.
+
+The vehicle appears also in pages 42 and 47 of [[Operation: Elrood (book)|''Operation: Elrood'']] (1996), but the stat block states a speed of 70 km/h and adds a sonic blaster to the vehicle (other stats are the same). The waveskimmer is used on the waves in the previous appearances and is meant to be used underwater in Operation: Elrood, so 70 km/h may be either the underwater speed or the speed of the version equipped with the sonic blaster. It could also be a typo as 70 km/h is the speed of another vehicle in the same section.
+
+==Appearances==
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Battle for the Golden Sun]]'' {{1st}}
+
+==Sources==
+*<!-- 1994-05-XX -->{{JournalCite|2|Recon & Report: The Journey to Coruscant|reprint=1}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Aquatic repulsorcraft models]]
+[[Category:Vehicle classes of the Galactic Empire]]
