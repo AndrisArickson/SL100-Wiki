@@ -1,0 +1,56 @@
+{{Top|ga|leg}}
+{{Device
+|image=
+|name=Encryption Package 1a.44.87
+|manufacturer=[[AccuTronics/Legends|AccuTronics]]<ref name="SlicingAids">{{JournalCite|10|Cracken's Rebel Field Guide: Slicing Aids}}</ref>
+|model=AccuTronics Encryption Package 1a.44.87<ref name="SlicingAids" />
+|type=
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=500 [[Galactic Credit Standard/Legends|credits]]<ref name="SlicingAids" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Encrypting [[Datafile/Legends|datafiles]]<ref name="SlicingAids" />
+|heritage=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="SlicingAids" />
+}}
+{{Quote|A rather handy item for anyone not wanting or needing to go to enormous lengths to encrypt a datafile. AccuTronics' Encryption Package does just fine for securing the wanted files we circulate throughout the systems &hellip; but I would hardly use it to safeguard the location of Delta Base.|General Airen Cracken|<ref name="SlicingAids" />}}
+The '''Encryption Package 1a.44.87''' was a [[Datafile/Legends|datafile]] encryption device produced by [[AccuTronics/Legends|AccuTronics]]. During the [[Alliance to Restore the Republic/Legends|Rebel Alliance's]] [[Galactic Civil War/Legends|war]] with the [[Galactic Empire/Legends|Galactic Empire]], [[Alliance Intelligence/Legends|Alliance Intelligence]] modified the Encryption Package so that it was suitable for encrypting low-security datafiles. After the formation of the [[New Republic/Legends|New Republic]], the Encryption Package was included in ''[[Gundark's Gear Datalog]]'', a database maintained by the [[Arms dealer/Legends|arms dealer]] "[[Gundark (arms dealer)|Gundark]]."
+
+==Description==
+The Encryption Package 1a.44.87 was a [[Datafile/Legends|datafile]] encryption device produced by [[AccuTronics/Legends|AccuTronics]] that was intended for civilian use. It cost 500 [[Galactic Credit Standard/Legends|credits]] and was suitable for people who did not need to go to great lengths to ensure a datafile was encrypted securely.<ref name="SlicingAids" /> The Encryption Package's encryption algorithm used a base 10 system; however, this could be modified and improved by someone skilled in [[Programmer/Legends|programming]].<ref name="Gundark" />
+
+==History==
+{{Quote|The security protocols on the AccuTronics are a little dated; anybody with some decent programming skills can make the encryption routine more impressive by slicing into the coding algorithms and change them to a base 12 system from its existing base 10.|Chello's note published in ''Gundark's Gear Datalog''|<ref name="Gundark">''[[Gundark's Fantastic Technology: Personal Gear]]''</ref>}}
+During the [[Galactic Civil War/Legends|war]] between the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] and the [[Galactic Empire/Legends|Galactic Empire]], the [[Cryptology]] division of [[Alliance Intelligence/Legends|Alliance Intelligence]] modified and upgraded the AccuTronics Encryption Package 1a.44.87 so that it was suitable for encrypting datafiles with lesser security requirements. In an entry<ref name="SlicingAids" /> in his [[Cracken's Rebel Field Guide|field guide]] for Rebel personnel,<ref name="CRFG">[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]</ref> [[General/Legends|General]] [[Airen Cracken/Legends|Airen Cracken]] deemed the Encryption Package useful for securing wanted files circulated through Alliance systems but considered it insufficient for protecting information, such as the location of the Alliance's [[Delta Base]].<ref name="SlicingAids" />
+
+During the [[Time/Legends|time]] of the [[New Republic/Legends|New Republic]], the Encryption Package was included in ''[[Gundark's Gear Datalog]]'', a database distributed by the [[Arms dealer/Legends|arms dealer]] who operated under the alias "[[Gundark (arms dealer)|Gundark]]." The Encryption Package's entry in the [[Datalog/Legends|datalog]] included a note written on the [[Great ReSynchronization|date]] [[1 ABY/Legends|36:6:3]] by the individual known as [[Chello]], who considered the device's security protocols to be dated. Chello recommended improving the encryption routine by [[Slicer/Legends|slicing]] into the coding algorithms and changing them to use a base 12 system rather than a base 10 system, which Chello believed would make it harder for most rookie slicers to gain access to the encrypted datafile.<ref name="Gundark" />
+
+==Behind the scenes==
+The Encryption Package 1a.44.87 was first mentioned in the [[1996]] article "[[Cracken's Rebel Field Guide: Slicing Aids]]," which appeared in [[Star Wars Adventure Journal 10|''Star Wars Adventure Journal'' 10]]. It was published by [[West End Games]], and was written by [[Craig Robert Carey]] and [[J. P. Pietrzak]].<ref name="SlicingAids" />
+
+==Sources==
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Field Guide: Slicing Aids}} {{1stm}}
+*<!-- 1997-09-XX -->''[[Gundark's Fantastic Technology: Personal Gear]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Encryption technology]]

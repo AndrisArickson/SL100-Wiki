@@ -1,0 +1,83 @@
+{{Top|leg}}
+{{Device
+|image=[[File:LockBreaker-TCVD.jpg]]
+|name=Electronic lock breaker
+|manufacturer=
+|model=
+|type=Security tampering unit<ref name="TLCSB">''[[The Last Command Sourcebook]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=750<ref name="EV">''[[Endless Vigil]]''</ref>&mdash;25,000 [[Galactic Credit Standard/Legends|credits]]<ref name="TLCSB" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Bypass [[electronic lock]]s<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref>
+|heritage=
+|affiliation=
+}}
+An '''electronic lock breaker''',<ref name="EGWT" /> also known as a '''scramble key''', '''lottery key''', or '''luckbreaker''',<ref name="EV" /> was a type of security tampering device<ref name="TLCSB" /> that could bypass [[electronic lock]]s that required a password or code input to open a door.<ref name="EGWT" />
+
+==Description==
+[[File:Electroniclockbreaker.jpg|thumb|250px|An electronic lock breaker in use by [[Galactic Empire/Legends|Imperial]] [[Spy/Legends|spies]] posing as members of the [[New Republic/Legends|New Republic]].]]
+The electronic lock breaker was a high-memory capacity [[Computer/Legends|computer]] coupled with a [[key-code replicator input/output jack]].<ref name="EGWT" /> The devices were capable of breaking through most standard [[electronic lock]]s.<ref name="EotECR">[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]</ref> The [[I/O jack]] was plugged directly into a door [[Lock/Legends|lock]] and a polynomial computation was "spiked" into the lock's security system. The polynomial computation effectively distracted the lock's [[Computer/Legends|computer]] and prevented the system from recognizing the [[Slicer/Legends|slicing]] attempt. At the same time, a secondary program rapidly flashed access code combinations into the lock's systems until it found a match.<ref name="EGWT" /> The electronic lock breaker was also capable of targeting locks that were secured by a genetic code. The slicing program randomly cycled through gene-sequence codes until the correct one was discovered once the polynomial was deployed.<ref name="GFT">''[[Gundark's Fantastic Technology: Personal Gear]]''</ref> The lock breaker could take several [[Standard hour/Legends|hours]] to break through a lock, although they could be pre-programmed with the computer architecture and code sequences from a target lock to cut down the time needed.<ref name="EGWT" />
+
+It was claimed that electronic lock breakers often found the correct code faster then it could input them, and experienced operators could tell when this happened by faint buzzing or vibrations from the device. This allowed the operator to manually input a code they believed was correct before the device cycled it through the locking system. This method could be less effective, but save valuable time if the guess was correct.<ref name="EV" />
+
+A variety of models of electronic lock breaker were available, ranging from simple models aimed at breaking through civilian locks, all the way up to devices that could breach military-grade security.<ref name="AoRCR">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref> Specific models of electronic lock breaker included [[OutlawTech]]'s [[Lock Breaker]]<ref name="EGWT" /> and [[Locris Syndicated Securities/Legends|Locris Syndicated Securities']] [["Skeleton Key" Locksmith's Tool]].<ref name="AoRCR" />
+
+==History==
+[[Jango Fett/Legends|Jango Fett]] owned an electronic lock breaker with code algorithm selectors.<ref name="AotCVD">''[[Star Wars: Attack of the Clones: The Visual Dictionary]]''</ref> During the [[Galactic Civil War/Legends|Galactic Civil War]], [[Finn Darktrin]] used an electronic lock breaker to break into an [[Galactic Empire/Legends|Imperial]] [[Shuttle/Legends|shuttle]].<ref name="RoD">''[[Star Wars Galaxies: The Ruins of Dantooine]]''</ref>
+
+==Appearances==
+*{{GamerCite|1|Fair Prey}}
+*''[[Star Wars Galaxies: The Ruins of Dantooine]]''
+*{{GalaxiesNGE}}
+*{{JournalCite|12|Heroes Need Not Apply}} {{ID|electronic lock breaker}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}} {{1st|in book}}
+
+===Non-canon appearances===
+*<!-- 1997-03-XX -->''[[Star Wars: Yoda Stories]]''
+
+==Sources==
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-09-XX -->''[[Gundark's Fantastic Technology: Personal Gear]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 2002-04-23 -->''[[Star Wars: Attack of the Clones: The Visual Dictionary]]''
+*<!-- 2004-10-26 -->''[[The New Essential Guide to Weapons and Technology]]''
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+*<!-- 2015-06-18 -->[[Star Wars: Force and Destiny Beginner Game|''Star Wars: Force and Destiny'' Beginner Game]]
+*<!-- 2015-07-30 -->[[Star Wars: Force and Destiny Core Rulebook|''Star Wars: Force and Destiny'' Core Rulebook]]
+*<!-- 2016-10-31 -->''[[Endless Vigil]]'' {{ID|scramble key}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Elektronischer Dietrich
+}}
+
+{{RelatedCategories
+|[[Category:Electronic lock breakers]]
+}}
+
+[[Category:Security countermeasures]]

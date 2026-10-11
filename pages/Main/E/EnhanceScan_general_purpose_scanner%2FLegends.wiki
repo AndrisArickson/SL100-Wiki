@@ -1,0 +1,83 @@
+{{Top|leg}}
+{{Device
+|image=[[File:EnhanceScan-SW2Indy.png]]
+|name=EnhanceScan general purpose scanner
+|manufacturer=[[CryonCorp/Legends|CryonCorp]]<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref>
+|model=
+|type=[[Portable scanner/Legends|Portable scanner]]<ref name="EGWT" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=2,000 [[Galactic Credit Standard/Legends|credits]]
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=8 [[Kilogram/Legends|kilograms]]<ref name="NEGWT">''[[The New Essential Guide to Weapons and Technology]]''</ref>
+|protection=
+|capacity=
+|range=1,500 [[Meter/Legends|meters]]<ref name="NEGWT" />
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''EnhanceScan general purpose scanner''' is a multipurpose [[Portable scanner/Legends|portable scanner]] that combined several individual [[Sensor/Legends|sensors]] into one unit. It was manufactured by [[CryonCorp/Legends|CryonCorp]].
+
+==Description==
+The EnhanceScan was a multipurpose [[Portable scanner/Legends|portable scanner]] manufactured by [[CryonCorp/Legends|CryonCorp]]. It was an improved model of CryonCorp's [[Lifedetec bioscanner]], adding several functions that had not been present in the previous design. The scanner had four different scanner modes; [[Bioscan/Legends|bioscanner]], [[Motion sensor/Legends|motion sensor]], [[metal detector]], and communications scanner. The EnhanceScan's screen displayed data relevant to the specific mode that the scanner was in at the time, and always showed specific locations and movement.<ref name="EGWT" />
+
+The EnhanceScan incorporated a bioscanner module, capable of detecting life-forms at ranges up to 1,500 [[Meter/Legends|meters]]. Templates containing the data of over three hundred different creatures could be pre-loaded into the EnhanceScan, allowing the unit to identify life-forms by comparing its readings to the data stored in the memory banks. In this mode, the display screen would show the shape and vital statistics of any creature detected.<ref name="EGWT" />
+
+An in-built motion sensor module detected any movement in a five hundred meter radius from the EnhanceScan. The unit could be set as a automated sentry, programmed to sound an alarm when it detected movement. A metal detector with a range of one hundred meters scanned for concentrations of metals and could be configured to search for specific ones.<ref name="EGWT" />
+
+The communications scanner intercepted all [[Comlink/Legends|comlink]] transmissions that were sent on standard frequencies within a range of three [[Kilometer/Legends|kilometers]]. The unit itself was incapable of transmitting messages.<ref name="EGWT" />
+
+The EnhanceScan was powered by six rechargeable [[Power cell/Legends|power cells]] which could provide enough energy for up to ten [[Standard day/Legends|days]] of operation. The unit had [[Dataport/Legends|dataports]] that allowed the EnhanceScan to be connected to computers, [[Datapad/Legends|datapads]], and [[Droid/Legends|droids]] for the exchanging of data.<ref name="EGWT" />
+
+==History==
+The EnhanceScan was favored by [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] [[Scout/Legends|scouts]], and was used on [[Planet/Legends|planets]] such as [[Hoth/Legends|Hoth]], [[Arbra/Legends|Arbra]], and [[Thila/Legends|Thila]].
+
+==Appearances==
+*''[[Choices of One]]''
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]]
+*{{Film|V}} {{1st}}
+*''[[The Empire Strikes Back Read-Along]]'' {{Po}}
+
+==Sources==
+*<!-- 1982-XX-XX -->[[Star Wars: The Empire Strikes Back Coloring Book (1982)|''The Empire Strikes Back Coloring Book'' (1982)]]
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Portable Scanner}} {{1stID|Cryoncorp EnhanceScan general-purpose scanner}}
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Echo Base Sensors}}
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2004-05-12 -->{{FactFile|124|SCA 1-2|Portable Scanner}}
+*<!-- 2004-10-26 -->''[[The New Essential Guide to Weapons and Technology]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]] {{1stID|Cryoncorp EnhanceScan general purpose scanner}}
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=EnhanceScan
+|nl=EnhanceScan General-Purpose Scanner
+}}
+
+[[Category:Communications sensors]]
+[[Category:CryonCorp products]]
+[[Category:EnhanceScan sensors]]
+[[Category:General purpose sensors]]
+[[Category:Lifeform sensors]]
+[[Category:Motion sensors]]
+[[Category:Portable scanners]]
