@@ -1,0 +1,89 @@
+{{Top|leg|title=''Interceptor IV''-class frigate}}
+{{StarshipClass
+|image=[[File:Interceptor_IV.jpg]]
+|name=''Interceptor IV''-class frigate
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="MOTPQ">''[[Mask of the Pirate Queen]]''</ref>
+|line=
+|model=''Interceptor IV''-class frigate<ref name="MOTPQ" />
+|type=[[Frigate/Legends|Frigate]]
+|cost=300,000 [[Galactic Credit Standard/Legends|credits]]<ref name="MOTPQ" />
+|modifier=
+|sysmods=
+|length=150 [[Meter/Legends|meters]]<ref name="TCSWE">{{CSWECite|II|106|''Interceptor''-class frigate}}</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3<ref name="MOTPQ" />
+*Class 20 {{C|backup}}<ref name="MOTPQ" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="MOTPQ" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="MOTPQ" />
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="MOTPQ" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] [[Cannon/Legends|cannon]] batteries (2)<ref name="MOTPQ" />
+*[[Concussion missile launcher/Legends|Concussion missile launcher]] (1)<ref name="MOTPQ" />
+**3 [[Concussion missile/Legends|Concussion Missiles]]<ref name="MOTPQ" />
+|complement=
+|bays=
+|escapepods=
+|crew=20<ref name="MOTPQ" />
+|skeleton=
+|passengers=5<ref name="MOTPQ" />
+|capacity=
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="MOTPQ" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Frigate<ref name="MOTPQ" />
+*Starfighter support<ref name="MOTPQ" />
+|firstuse=
+|retired=
+|affiliation=[[Zann Consortium/Legends|Zann Consortium]]<ref name="MOTPQ" />
+}}
+{{Quote|Interceptor Four, reporting.|An Interceptor IV [[Captain/Legends|captain]]|<ref name="Star Wars: Empire at War: Forces of Corruption">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>}}
+The '''''Interceptor IV''-class frigate''' was a commonly used [[Starship/Legends|starship]] in the [[Zann Consortium/Legends|Zann Consortium's]] [[Navy/Legends|naval]] forces. It was effective against [[Starfighter/Legends|starfighters]] and small [[Capital ship/Legends|capital ships]].
+
+==Characteristics==
+The Interceptor Four was an upgrade of the [[Interceptor-class frigate/Legends|''Interceptor''-class frigate]] widely used by [[Pirate/Legends|pirate]] forces, which was itself a modified [[Action VI bulk transport/Legends|Action VI transport]].
+
+With superior [[Deflector shield/Legends|shielding]] and improved weaponry, as well as the "full salvo" [[Missile/Legends|missile]] capabilities that allowed the [[Frigate/Legends|frigate]] to fire a barrage of missiles at its target, the Interceptor was a cheap, yet versatile, vessel. It also possessed powerful [[Engine/Legends|engines]] allowing it to reach extremely high sublight velocities for a vessel of its size. The ship's weakness was its lightly armored [[Hull/Legends|hull]].
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[Star Wars: Empire at War: Forces of Corruption]]'' {{1st}}
+*''[[Mask of the Pirate Queen]]'' {{1stID|''Interceptor IV''-class frigate}}
+
+==Sources==
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Interceptor IV-Fregatte
+|es=Fragata Interceptor IV
+|uk=Фрегат типу «Перехоплювач IV»
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Frigate classes]]
+
+{{RelatedCategories
+|[[Category:Interceptor IV-class frigates]]
+}}

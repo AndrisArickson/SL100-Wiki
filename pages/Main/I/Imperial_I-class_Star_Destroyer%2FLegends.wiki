@@ -1,0 +1,449 @@
+{{Top|ffa|title=''Imperial I''-class Star Destroyer}}
+{{Otheruses|Imperial}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:StarDestroyer_negvv.png]]
+|name=''Imperial I''-class Star Destroyer
+|designer=[[Lira Wessex/Legends|Lira Wessex]]<ref name="Imperial Sourcebook1" />
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="ImperialSourcebook2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref><ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*Various subcontractors<ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+|line=[[Star Destroyer/Legends|Star Destroyers]]<ref name="CCS" />
+|model=''Imperator''-class Star Destroyer,<ref name="TCW:TVG">''[[Star Wars: The Clone Wars: The Visual Guide]]''</ref> later renamed ''Imperial I''-class Star Destroyer<ref name="Revenge of the Sith: Incredible Cross-Sections">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref>
+|type=Star Destroyer<ref name="CCS" />
+|cost=150,000,000 [[Galactic Credit Standard/Legends|credits]]<ref name="AOR CRB">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+|modifier=
+|sysmods=
+|length=1,600 [[Meter/Legends|meters]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="CCS" />
+|width=
+|height=
+|mass=
+|max accel=>2,300 g
+|mglt=60 [[Megalight|MGLT]]<ref name="BtM" />
+|max speed=975 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="h2h">''[[Star Wars: Head-to-Head]]''</ref>
+|maneuverability=
+|engine=*KDY [[Destroyer-I ion engine/Legends|Destroyer-I ion engines]] (3)<ref name="Ships of the Fleet">''[[The Galactic Empire—Ships of the Fleet]]''</ref>
+*[[Cygnus Spaceworks/Legends|Cygnus Spaceworks]] [[Gemon-4 ion engine/Legends|Gemon-4 ion engines]] (4) {{C|emergency use}}<ref name="Ships of the Fleet" />
+|hyperdrive=*Class 2.0<ref name="AOR CRB" /><ref name="BtM" />
+*Class 8.0 {{C|[[Backup hyperdrive|backup]]}}<ref name="AOR CRB" />
+|hdrange=
+|hdsystem=Equipped<ref name="BtM" />
+|poweroutput=Peak: ~7,73 × 10<sup>24</sup> W<ref name="CCS" /><ref name="ITW:OT">''[[Inside the Worlds of Star Wars Trilogy]]'', with the ''Executor'' 100 times more massive, it requires at least 100 times more energy to move and vice versa.</ref>
+|power=[[Sienar Fleet Systems/Legends|SFS]] [[I-a2b solar ionization reactor/Legends|I-a2b Solar Ionization Reactor]]<ref name="CCS" />
+|shield gen=KDY [[ISD-72x deflector shield generator dome|ISD-72x shield generator domes]] (2)<ref name="BtM" /> {{C|local area-effect}}<ref name="Star Wars: Complete Locations">[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]</ref>
+|hull=
+|sensor=KDY ISD-72x shield generator domes (2)<ref name="CINEFEX83">From a [[Richard Edlund]] interview in ''CINEFEX'' February 1983 issue</ref><ref name="Star Wars: Complete Locations" />
+|target=[[LeGrange/Legends|LeGrange]] targeting computers<ref name="SWSE">[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]</ref>
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Taim & Bak/Legends|Taim & Bak]] [[XX-9 heavy turbolaser/Legends|XX-9 heavy turbolaser]] batteries (60)<ref name="CCS" /><ref name="TSC">{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}</ref>
+**20 fore<ref name="ImperialSourcebook2" />
+**20 port<ref name="ImperialSourcebook2" />
+**20 starboard<ref name="ImperialSourcebook2" />
+*[[Borstel Galactic Defense/Legends|Borstel]] [[NK-7 ion cannon/Legends|NK-7 ion cannons]] (60)<ref name="CCS" /><ref name="TSC" />
+**20 fore<ref name="ImperialSourcebook2" />
+**15 port<ref name="ImperialSourcebook2" />
+**15 starboard<ref name="ImperialSourcebook2" />
+**10 aft<ref name="ImperialSourcebook2" />
+*Dual [[Heavy turbolaser turret/Legends|heavy turbolaser turrets]] (6)<ref name="CCS" />
+*Dual heavy [[Ion cannon/Legends|ion cannon]] turrets (2)<ref name="CCS" />
+*[[Point-defense laser cannon/Legends|Point-defense]] [[Laser cannon/Legends|laser cannons]] (40)<ref name="RCR">''[[Star Wars Roleplaying Game Revised Core Rulebook]]''</ref>
+*Heavy<ref name="AOR CRB" /> [[Phylon Freight/Legends|Phylon]] [[Q7 tractor beam projector/Legends|Q7 tractor beam projectors]] (10)<ref name="BtM" /><ref name="TSC" />
+**6 fore<ref name="ImperialSourcebook2" />
+**2 port<ref name="ImperialSourcebook2" />
+**2 starboard<ref name="ImperialSourcebook2" />
+|complement=
+Starfighters:
+*Republic/early Imperial complement:
+**[[Alpha-3 Nimbus-class V-wing starfighter/Legends|V-wing starfighters]]<ref name="Cry 4">[[Darth Vader and the Cry of Shadows 4|''Darth Vader and the Cry of Shadows'' 4]]</ref><ref name="DT4">[[Dark Times 4|''Dark Times'' 4]]</ref>
+**[[Eta-2 Actis-class interceptor/Legends|Eta-2 ''Actis''-class interceptors]]<ref name="Cry 4" />
+**[[Aggressive ReConnaissance-170 starfighter/Legends|Aggressive ReConnaissance-170 starfighters]]<ref name="Cry 4" />
+*Standard Imperial-era complement:
+**[[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]] (48)<ref name="CCS" />
+**[[TIE/sa tactical bomber/Legends|TIE/sa bombers]]<ref name="CCS" /> or [[TIE/gt starfighter|TIE/gt bombers]]<ref name="SWSB">''[[The Star Wars Sourcebook]]''</ref> (12)
+**[[TIE/br boarding shuttle|TIE boarding craft]] (12)<ref name="CCS" />
+Support craft:
+*[[Lambda-class T-4a shuttle/Legends|''Lambda''-class shuttles]] (8)<ref name="BtM" />
+*[[Delta-class DX-9 stormtrooper transport|''Delta''-class stormtrooper transports]] (15)<ref name="CCS" />
+*[[Alpha-class Xg-1 Star Wing/Legends|Assault gunboats]] (5)<ref name="BtM" />
+*[[Theta-class barge/Legends|''Theta''-class AT-AT barges]]
+*[[Sentinel-class landing craft/Legends|''Sentinel''-class landing crafts]] (12)<ref name="CCS" />
+*[[Gamma-class assault shuttle/Legends|''Gamma''-class assault shuttle]] (1+)<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+*[[Theta-class T-2c shuttle/Legends|Theta-class T-2c Shuttles]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+*Repair and recovery vehicles
+*A variable number of [[GAT-12 Skipray Blastboat|Skipray Blastboats]]
+Ground assets:
+*[[All Terrain Armored Transport/Legends|AT-AT]] [[Walker/Legends|walkers]] (20)<ref name="BtM" />
+*[[All Terrain Scout Transport/Legends|AT-ST walkers]] (30)<ref name="BtM" />
+*[[IM-455 modular garrison|Prefabricated garrison base]] (1)
+|bays=
+|escapepods=
+|crew=*[[Imperial officer/Legends|Officers]] (9,235)<ref name="CCS" />
+*Enlisted (27,850)<ref name="CCS" />
+**[[Gunner/Legends|Gunners]] (275)<ref name="BtM" />
+|skeleton=5,000<ref name="ImperialSourcebook2" />
+|passengers=[[Stormtrooper/Legends|Stormtroopers]] (9,700)<ref name="CCS" />
+|capacity=36,000 [[Metric ton/Legends|metric tons]]<ref name="BtM" />
+|cargohandling=
+|consumables=2<ref name="AOR CRB" /> - 6 [[Galactic Standard Calendar|years]]<ref name="ImperialSourcebook2" />
+|lifesupport=
+|communications=[[HoloNet/Legends|HoloNet]] transceiver
+|othersystems=
+|availability=Not available for sale<ref name="ImperialSourcebook2" />
+|role=*[[Destroyer/Legends|Destroyer]]<ref name="Star Wars: Complete Locations" /><ref name="ASPB">[["Imperial Star Destroyer" SpecPlate]]</ref>
+*[[Carrier/Legends|Carrier]]<ref name="CCS" />
+*Military [[Transport/Legends|transport]]
+*[[Command ship/Legends|Command ship]]<ref name="Star Wars Episode IV: A New Hope">{{Film|IV}}</ref>
+|firstuse=[[22 BBY/Legends|22 BBY]]<ref name="TCW:TVG" />
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="TCW:TVG" />
+**[[Republic Navy/Legends|Republic Navy]]<ref name="TCW:TVG" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="Star Wars Episode IV: A New Hope" />
+**[[Imperial Navy/Legends|Imperial Navy]]<ref name="Star Wars Episode IV: A New Hope" />
+*[[Imperial Remnant/Legends|Imperial Remnant]]
+*[[New Republic/Legends|New Republic]]<ref name="DESB">''[[Dark Empire Sourcebook]]''</ref>
+**[[New Republic Defense Fleet/Legends|New Republic Defense Fleet]]<ref name="DESB" />
+*[[Galactic Federation of Free Alliances]]
+*[[Confederation]]
+}}
+{{Quote|I maintain that the effectiveness of the Star Destroyer stems from not only its massive firepower, but from its size. When citizens look at a Star Destroyer and then compare it to the craft which might be mustered to attack it, they have a tendency to dismiss such a notion as suicidal rather than approach the problem tactically.|[[Wilhuff Tarkin/Legends|Wilhuff Tarkin]]|<ref name="TNEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>}}
+The '''''Imperial I''-class Star Destroyer''', also known as the '''''Imperial I''-class Destroyer'''<ref name="Imperial Sourcebook1">''[[Imperial Sourcebook]]''</ref> or the '''''Imperator''-class Star Destroyer''',<ref name="Revenge of the Sith: Incredible Cross-Sections" /> was an iconic class of [[Warship/Legends|warships]] designed by [[Lira Wessex/Legends|Lira Wessex]] and built by [[Kuat Drive Yards/Legends|Kuat Drive Yards]].<ref name="Imperial Sourcebook1" /> The ''Imperial''-class [[Star Destroyer/Legends|Star Destroyers]], along with Imperial [[Stormtrooper/Legends|stormtroopers]], represented the might of the [[Imperial Military/Legends|Imperial Military]] throughout [[The galaxy/Legends|the galaxy]] during the reign of the [[Galactic Empire/Legends|Galactic Empire]].<ref name="ISD DB">{{DB|starship|imperialstardestroyer|Imperial Star Destroyer}}</ref>
+
+The ''Imperator''-class was originally used by the [[Republic Navy/Legends|Republic Navy]] toward the end of the [[Clone Wars/Legends|Clone Wars]], and served alongside the [[Tector-class Star Destroyer|''Tector''-class]] in a few task forces during the conflict.<ref name="TCW:TVG" /> It was at the time one of the largest warship classes in the Republic Navy.<ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]''</ref> It later became a mainstay of the [[Imperial Navy/Legends|Imperial Navy]].<ref name="RAC DB">{{DB|starship|republicattackcruiser|Republic attack cruiser}}</ref><ref name="Revenge of the Sith: Incredible Cross-Sections" />
+
+==Characteristics==
+===Cost===
+{{Quote|Half the budget is going to the production of these enormous new Star Destroyers.|[[Mon Mothma/Legends|Mon Mothma]]|<ref name="DL:TRODV">''[[Dark Lord: The Rise of Darth Vader]]''</ref>}}
+The ''Imperial I''-class belonged to the Star Destroyer family of warship, exemplified by its dagger/arrowhead design. A single ''Imperial''-class vessel cost the Empire more than twenty times the cost of a [[EF76 Nebulon-B escort frigate/Legends|EF76 Nebulon-B escort frigate]], which was the equivalent of several [[Star system/Legends|star systems]]' [[Galactic economy|annual economic output]].<ref name="Strike Force: Shantipole">''[[Strike Force: Shantipole]]''</ref><ref name="TFOP">''[[The Far Orbit Project]]''</ref>
+
+===Dimensions===
+[[File:Imperial_I-class_Star_Destroyer_EoD.png|thumb|left|250px|Aft view of an ''Imperial I''-class Star Destroyer in orbit]]
+The ''Imperial''-class was produced in large numbers and was the premier warship class of the Galactic Empire.<ref name="Imperial Sourcebook1" /> All known variants were 1,600 meters long (one mile). Compared to most common frigates and downscaled cruisers<ref name="Revenge of the Sith: Incredible Cross-Sections" /> known from the days of the Old Republic, the ''Imperial''-class was a huge warship,<ref name="Star Wars: Incredible Cross-Sections">''[[Star Wars: Incredible Cross-Sections]]''</ref><ref name="ISD DB" /> but in the [[Imperial Navy/Legends|Imperial Navy]], it was one of the Empire's mid-sized mainline warships,<ref name="Star Wars: Complete Locations" /> like its [[Venator-class Star Destroyer/Legends|predecessor]] had been for the Republic.<ref name="Revenge of the Sith: Incredible Cross-Sections" /> The hulls of the ''Imperial''-class were painted in [[Star Destroyer White]], a purely economic choice as it was the only variety of paint that was produced in sufficient quantities to coat the Empire's immense number of warships.
+
+===Crew requirements===
+According to officially available statistics, ''Imperial''-class Star Destroyers had at least 37,000 [[Imperial officer/Legends|officers]] and crew. Counting the stormtrooper complement (one [[Division/Legends|division]] or [[Legion/Legends|legion]], 9,700 men) would total 46,700. This would include a stormtrooper detachment, [[Starfighter/Legends|starfighter]] [[Pilot/Legends|pilots]], and support craft pilots.<ref name="Imperial Sourcebook1" /> Differing from many other Imperial vessels, recreational facilities provided entertainment for off-duty personnel and "guest rooms' could accommodate Imperial VIPs.<ref name="Star Wars Technical Journal">''[[Star Wars Technical Journal]]''</ref>
+
+===Offensive and defensive systems===
+[[File:Isdreactor.jpg|thumb|left|200px|Cross-section showing from left to right: Main gun batteries, an auxiliary reactor, main hypermatter reactor core, docking and hangar bays, storage areas, tractor beam projectors]]
+
+The ''Imperial I''-class Star Destroyer possessed a main battery of six heavy [[Turbolaser/Legends|turbolasers]] and two heavy [[Ion cannon/Legends|ion cannons]], arranged in four dual mounts flanking the ship's tower structure.<ref name="Star Wars: Incredible Cross-Sections" />
+
+Like with several other Star Destroyer classes, the designers did take advantage of their wedge shape to give the heavy cannons the ability to focus on targets in the forward firing arc that were level with the ship.<ref name="Revenge of the Sith: Incredible Cross-Sections" /><ref name="Star Wars: Incredible Cross-Sections" />
+
+Numerous smaller and medium guns were mounted around the ship to ward off attacks against lesser ships not capable of being targeted by the main battery. They varied in size; some were designed as point-defense cannon to destroy incoming missiles and starfighters while others engaged lesser capital ships. Some ships, such as ''[[Emancipator]]'', were refitted with [[Proton torpedo/Legends|proton torpedo]] launchers. Three triple-gun turrets were mounted on the ridge of the ship, just forward of the lowest, forwardmost terrace of the dorsal superstructure.<ref name="Star Wars: Incredible Cross-Sections" />
+
+Mounted just beyond the forward tip of the attack [[Hangar/Legends|hangar]] (see fighter complement), were two large ventral turbolasers, which sat near the corners of the massive hangar.<ref name="Star Wars Episode IV: A New Hope" />
+
+===Complement===
+''Imperial''-class Star Destroyers typically carried a standard Imperial wing of 6 [[TIE series/Legends|TIE]] [[Squadron/Legends|squadrons]], for a total of 72 starfighters.<ref name="Imperial Sourcebook1" /><ref name="Star Wars: Incredible Cross-Sections" />
+
+The standard wing included four [[TIE/ln space superiority starfighter/Legends|TIE Fighter]] squadrons (one squadron often referred to be a reconnaissance squadron of [[TIE/rc starfighter]]s), one squadron of [[TIE/IN interceptor/Legends|TIE Interceptors]], one squadron of [[TIE/sa tactical bomber/Legends|TIE Bombers]] (lower priority ships had to make do with [[TIE/gt starfighter]]-bombers). Often one or two flights in a fighter squadron were [[TIE/fc starfighter]]s. Sometimes one of the fighter squadrons was used for training purposes. By the Battle of Endor, one of these fighter squadrons had been phased out in favor of a second squadron of TIE Interceptors.<ref name="TEGTVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+
+[[File:ISD_TFU.jpg|thumb|left|230px|''Imperial I''-class Star Destroyer in a planet's atmosphere]]
+
+The attack hangar was located on the underside on the ship and was guarded by a set of armored doors. TIE fighter service and refueling bays, and TIE launch hangars surrounded the main hangar. TIEs were launched from cycling racks and pilots boarded from overhead gantries and were released into space as they disengaged from the front position in the racks.<ref name="Star Wars: Incredible Cross-Sections" />
+
+Returning fighters landed in separate hangars and then were guided by small [[Tractor beam/Legends|tractor beams]] into receiver-carriers. The receivers carried the TIE to a debarkation station where the pilot would exit. Once moved through the transfer tunnels to a launch hangar, the fighter could be serviced and refueled in a separate bay. In the hangar, the TIEs were cycled through a launch rack and ready for the next launch. The small forward hangar was for [[Shuttle/Legends|shuttle]] craft carrying high-ranking officials. The forward hangar was also used as a back-up to the main hangar.<ref name="Star Wars: Incredible Cross-Sections" />
+
+These ships carried 9,700 troops, as well as massive war vehicles such as [[All Terrain Armored Transport/Legends|AT-AT]] and [[All Terrain Scout Transport/Legends|AT-ST]] [[Walker/Legends|walkers]]. [[Theta-class barge/Legends|AT-AT barges]] and other landing craft were used to deliver ground assault forces to a planet's surface.<ref name="Imperial Sourcebook1" /><ref name="Star Wars: Incredible Cross-Sections" /><ref name="Star Wars: Force Commander">''[[Star Wars: Force Commander]]''</ref><ref name="TNEGVV" /> Although larger landing craft could only be carried onboard bigger Imperial vessels,<ref name="Star Wars: Complete Locations" /> the ''Imperial''-class could transfer a large number of heavy walkers to smaller transport ships via a detachable rail system.<ref name="X-wing Rogue Squadron: Mandatory Retirement">''[[Star Wars: X-Wing Rogue Squadron: Mandatory Retirement]]''</ref>
+
+The Star Destroyer could use its guns and TIE starfighters to support any surface action. If a planet required a lasting presence, a Star Destroyer could quickly deploy a [[IM-455 modular garrison|prefabricated garrison base]].<ref name="Imperial Sourcebook1" /> Like most other Star Destroyer models, the ''Imperial''-class was capable of entering atmospheres and supporting ground operations directly.<ref name="The Force Unleashed">''[[Star Wars: The Force Unleashed]]''</ref><ref name="Star Wars: Battlefront II">''[[Star Wars: Battlefront II]]''</ref><ref name="Dark Empire II">''[[Star Wars: Dark Empire II]]''</ref>
+
+===Propulsion systems===
+[[File:ISD-I_engines.jpg|thumb|right|230px|Ion engines on an ''Imperial I'']]
+
+There were entire [[Planet/Legends|planets]] that, throughout their history, did not expend as much power as an ''Imperial''-class ship did in one [[Hyperspace/Legends|hyperspace]] jump.<ref name="Imperial Sourcebook1" /> The [[Hyperspace/Legends|hyperspace]] generator was located along the ship's ventral surface.<ref name="Star Wars Technical Journal" /> A massive [[I-a2b solar ionization reactor/Legends|solar ionization reactor]] bulged from the ventral spine, annihilating [[Hypermatter/Legends|hypermatter]] as fuel to power the ship. Auxiliary reactors flanked the main reactor and the three reactors were connected to the three main engines. In addition, the backup engines were connected to additional reactors as well.<ref name="Star Wars: Incredible Cross-Sections" />
+
+[[Catastrophic release braces]] were located underneath the ventral reactor bulge, in case of emergencies where the core of the main reactor had to be ejected from the ship.<ref name="VG Ch3">{{SWArchive|url=episode-iv/explore/visualguides/chp03.html|text=Episode IV Visual Guide &mdash; Chapter 3: Imperial Boarding Party}}</ref>
+
+As designed, the ''Imperial''-class had a Class 2 [[Hyperdrive/Legends|hyperdrive]] with a Class 8 emergency backup.<ref name="AOR CRB" /> However, KDY's practice of subcontracting out the design to meet Imperial demands led to occasional design quirks: Star Destroyers built by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] were considerably faster, both at sublight and hyperspace speeds.<ref name="TEGTW" />
+
+For sublight propulsion, the ''Imperial''-class relied on an array of three primary [[Destroyer-I ion engine/Legends|Destroyer-I ion engines]] produced by KDY specifically for the vessels. For emergency situations requiring additional thrust, the ''Imperial''-class could use its four [[Gemon-4 ion engine/Legends|Gemon-4 ion engines]].<ref name="TEGTVV" /> The engines were capable of accelerating the ship with a force of several thousand g.<ref name="TNEGVV" />
+
+===Bridge tower===
+The command bridge tower of the ''Imperial''-class Star Destroyer was massive, and the command bridge followed a design similar to that of many other KDY warship classes, such as the ''Venator''-class<ref name="ROTS">{{Film|III}}</ref> and the [[Executor-class Star Dreadnought/Legends|''Executor''-class]] designs.<ref name="Star Wars: Complete Locations" />
+The sensor array on top of the Mk. I's tower had support beams running diagonally across it. These would later be substituted for vertical ones during a minor refit, which made the array look similar to the one on Mk. II vessels.<ref name="ESB">{{Film|V}}</ref>
+The two globes atop the bridge tower served two purposes: aiding both in hyperspace communication and deflector shield generation. The proximity of the deflector shield generators made the bridge tower one of the most protected parts of the Star Destroyer<ref name="TEGTVV" /><ref name="The Force Unleashed" />
+
+==History==
+===Republic origin===
+[[File:Imperial-I-SD-ANH.jpg|thumb|right|230px|An ''Imperial I''-class Star Destroyer as seen from below]]
+The ''Imperator''-class was designed as a massive, powerful, mid-sized warship,<ref name="Revenge of the Sith: Incredible Cross-Sections" /> and appeared in limited numbers during the [[Clone Wars/Legends|Clone Wars]], where it served in several Republic task forces.<ref name="TCW:TVG" />
+As the war neared its end in [[19 BBY/Legends|19 BBY]], the production lines of new ''Imperator''-class and ''Tector''-class destroyers expanded, while the lines for the older, lighter ''Venator''-class slowed down.<ref name="Revenge of the Sith: Incredible Cross-Sections" />
+
+The first vessel was named the [[Executrix/Legends|''Executrix'']],<ref name="TCSWE" /> while the second was the ''[[Exactor/Legends|Exactor]]'', which later served as the first personal flagship of the Imperial enforcer [[Anakin Skywalker/Legends|Darth Vader]].<ref name="DL:TRODV" /> There was also an [[Imperator (Imperial-class)|''Imperator'']] among the Mk.I models, sharing the class name.<ref name="DF:SFTE">''[[Dark Forces: Soldier for the Empire]]''</ref>
+Following the [[Great Jedi Purge/Legends|Great Jedi Purge]] and the establishment of the Galactic Empire in [[19 BBY/Legends|19 BBY]], the ''Imperator'' model was renamed ''Imperial''-class<ref name="Revenge of the Sith: Incredible Cross-Sections" /> and production of the class was increased even further<ref name="DL:TRODV" /> and refined.<ref name="RAC DB" /> Despite the name change, some Imperial documents continued to use the original name to identify the class.<ref name="ASPB" />
+
+===Imperial service===
+{{Quote|I hate the look of these new mass-produced ''Imperator''-class Destroyers. None of the artistry that went into the old Acclamators or Venators&mdash;even the ''Victory Two''s. So goes elegance.|[[Brudi Gayn]]|<ref name="DL:TRODV" />}}
+[[File:Exactor.jpg|thumb|left|230px|The ''Exactor'' orbiting New Plympto in 19 BBY]]
+''Imperial''-class Star Destroyers had a distinguished career in the Imperial Starfleet, where they symbolized the Empire's military might (for better or worse). Eventually, these Star Destroyers rendered older vessels, like the ''Venator''-class, obsolete.<ref name="ROTS:TVD">''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]''</ref>
+
+Capable of laying waste to entire worlds (provided those worlds did not have [[Planetary shield/Legends|planetary shields]]), the ''Imperial''-class became infamous as the prime enforcer of [[Tarkin Doctrine/Legends|Imperial rule]], and even served as a small, peacekeeping [[Battleship/Legends|battleship]].<ref name="Imperial Sourcebook1" /><ref name="Star Wars: Incredible Cross-Sections" /> According to official records, over 25,000 were eventually produced.<ref name="SOTP">''[[Specter of the Past]]''</ref> The Navy's immense demand for Star Destroyers led [[Kuat Drive Yards/Legends|Kuat Drive Yards]] to subcontract the design out to various other shipwrights, which occasionally led to a number of design quirks: Star Destroyers built by the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] were considered the fastest ships in the Imperial Navy, both at sublight and hyperspace speeds.<ref name="TEGTW" />
+
+Within sector-level fleets, the ''Imperial''-class Star Destroyer served a central battleship role, being the flagship of the unit known as the "Battle Squadron." A Sector Group was responsible for patrolling a given sector and comprised 24 Star Destroyers.<ref name="Star Wars Technical Journal" /> It was also observed to operate more or less independently and often far from support ships and facilities. Through many operations, the ''Imperial''-class functioned as a [[Destroyer/Legends|destroyer]], a capital ship fast enough to chase down [[blockade runner]]s and protect fleets. As an escort, it also supported Imperial [[Star Cruiser/Legends|Star Cruisers]] and [[Star Dreadnought/Legends|Star Dreadnoughts]] in fleet combat.<ref name="RESB">''[[Rebellion Era Sourcebook]]''</ref><ref name="Star Wars: Complete Locations" />
+
+When he [[Battle of Hoth/Legends|assaulted Hoth]], Darth Vader commanded the Star Dreadnought [[Executor/Legends|''Executor'']] and brought along a [[Flotilla/Legends|flotilla]] of ''Imperial''-class vessels from [[Death Squadron/Legends|Death Squadron]] to assault the planet. The Rebellion's [[V-150 Planet Defender/Legends|heavy ion cannon]], powered by the reactor of a battlecruiser, easily overwhelmed individual Star Destroyer shields and rapidly disabled ships in orbit.<ref name="ESB" /><ref name="Star Wars: Complete Locations" />
+
+[[File:ExecutorEscort-BTMF27.png|thumb|right|230px|A refitted ''Imperial I''-class Star Destroyer escorting the ''Executor'']]
+In the [[New Republic era]], ''Imperial''-class Star Destroyers continued in the escort role for larger vessels in campaigns like [[Operation Shadow Hand]] in [[10 ABY/Legends|10 ABY]]. The [[Super Star Destroyer/Legends|Super Star Destroyer]] [[Allegiance (Allegiance-class)|''Allegiance'']] led a task force of ''Imperial''-class ships and [[World Devastator]]s during the First Battle of [[Dac/Legends|Mon Calamari]]. This was one of many fleets that struck out from the [[Core Worlds/Legends|Core]] as part of the operation, which was aimed at taking back most of the Galactic Empire's former territories. Operation Shadow Hand saw a relatively heavy use of different types of Super Star Destroyers supported by Star Destroyers.<ref name="DE">''[[Star Wars: Dark Empire]]''</ref>
+
+===Later service===
+Some New Republic ''Imperial I''-class Star Destroyers, like the [[Mon Mothma (Imperial-class)|''Mon Mothma'']], were refitted to include [[Gravity well projector/Legends|gravity well projectors]].<ref name="Star by Star">''[[The New Jedi Order: Star by Star]]''</ref>
+
+===Private service===
+[[File:Errant_Venture.jpg|thumb|left|230px|The ''Errant Venture'']]
+One Star Destroyer was operated by a private individual&mdash;the ''[[Errant Venture/Legends|Errant Venture]]'', formerly the ''Virulence'', which had been captained by the [[Smuggler/Legends|smuggler]] [[Booster Terrik]]. The warship was claimed by Booster in the wake of the decisive [[Battle of Thyferra]] that concluded the [[Bacta War]],<ref name="X-Wing: The Bacta War">''[[X-Wing: The Bacta War]]''</ref> but was in poor condition for many years owing to the great cost of maintaining such a large vessel. In addition, she was stripped of the vast majority of her armament: only ten turbolasers were permitted, and even those were not always functional.<ref name="I Jedi">''[[I, Jedi]]''</ref>
+
+Years later, the vessel received a comprehensive refit in exchange for Booster permitting its use in a New Republic special-operations raid on an Imperial base. The most notable part of this refit was a deep red paint job instead of the classic Imperial white.<ref name="VoTF">''[[Vision of the Future]]''</ref>
+
+==Variants==
+===''Imperial II''-class Star Destroyer===
+{{Main|Imperial II-class Star Destroyer/Legends}}
+Several variant designs and refits were made using the ''Imperial''-class as a basis. The most famous and widely produced, was the [[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]], the second iteration of the class. It included improved armor and weaponry, a different sensor tower and other cosmetic differences.<ref name="Imperial Sourcebook1" />
+
+===''Imperial''-class variant===
+[[File:Victory_basis.jpg|thumb|right|230px|''Imperial''-class variant design]]
+Similar to how some [[Victory-class Star Destroyer/Legends|''Victory''-class]] vessels borrowed design elements from the ''Imperial''-class, at least one ''Imperial'' variant borrowed elements of the ''Victory''-class. It had an elongated command tower and wing-structures on the side of the superstructure.<ref name="SWSB" />
+
+===''Interdictor''-class Star Destroyer===
+{{Main|Interdictor-class Star Destroyer/Legends}}
+Another variant was the [[Interdictor-class Star Destroyer/Legends|''Interdictor''-class Star Destroyer]], heavily modified ''Imperial''-class ships that were fitted with [[Gravity well projector/Legends|gravity-well generators]] and utilized to halt hyperspace travel for enemy ships.<ref name="SOTG01">''[[Starships of the Galaxy]]''</ref>
+
+==Behind the scenes==
+[[File:Imperial_SD_Sketchbook.jpg|thumb|left|230px|Star Destroyer concept sketch]]
+There has been some disagreement over the name of the class. Early material by [[Geoffrey Mandel]], now considered unofficial, showed the Star Destroyer model smaller than they later appeared. The class name ''Imperator'' was used for these drawings, and the ships were to be produced at the [[Gyndine/Legends|Gyndine]] [[Shipyard/Legends|shipyards]]. Many of the designs were greatly upscaled shortly before production began.
+
+''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'' put the debate to rest, by clarifying the issue: while the class was originally named ''Imperator'', it was renamed ''Imperial'' at some point after the Great Jedi Purge. Later sources would reference ''Imperator'', including the novel ''[[Dark Lord: The Rise of Darth Vader]]'' and the [[Star Wars Legends|''Star Wars'' Legends]] section on the ''Venator''-class Star Destroyer's profile in the [[Databank (original)|original Databank]].<ref name="RAC DB" />
+
+The word "[[Wikipedia:Imperator|imperator]]" is [[Wikipedia:Latin|Latin]] and was used as a title for an army commander in the Roman Republic. Later, during the Roman Empire, it became a title worn by the emperors and signified "the supreme power of the Roman emperor." It also acted as the direct namesake for the term [[Emperor/Legends|Emperor]], as the latter term was the Old French spelling for the aforementioned term.<ref name="UNDLDAGA">{{WebCite|url=http://www.archives.nd.edu/cgi-bin/lookup.pl?stem=impera&ending=tor|text=University of Notre Dame Latin Dictionary and Grammar Aid|archivedate=20240731090334}}</ref> Some critics suggest that naming one of the Empire's class of ships ''Imperial'' is redundant.
+
+Based on an animatic of a [[Star Wars: Episode III Revenge of the Sith|''Revenge of the Sith'']] TV spot, an ''Imperator''-class Star Destroyer was scheduled to appear during the final scenes of the film, but was apparently cut and replaced with a ''Venator''-class in post-production.
+
+''Imperial''-class Star Destroyers have featured prominently in many ''Star Wars'' computer games. However, they have generally been weakened to allow the player some chance of defeating them with a starfighter. Some of these game mechanics have included shooting sensor globes and reactor bulbs to bring down the whole ship.
+
+[[File:ISD-1-Chronicles.jpg|thumb|right|250px|The ''Imperial I''-class Star Destroyer miniature used in ''A New Hope'']]
+''Imperial''-class Star Destroyers have sometimes been referred to as [[Cruiser/Legends|cruisers]]. The book [[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'' (Saga Edition)]] referred to most common Star Destroyers as being classified as "star cruisers," with lowercase letters. It also noted that unlike the term "Star Destroyer," "star cruiser" means "a naval cruiser that travels through space."<ref name="SOTG07">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref> Since the ''Imperial''-class has also been called a "star destroyer," the class can be seen as either a naval destroyer or a cruiser, given similarities in their roles.
+''Imperial''-class ships have also been described as [[Battleship/Legends|battleships]] (more specifically, "peacekeeping battleships").<ref name="CCS" /> This is presumably because one ''Imperial'' constituted a line on its own. ''Revenge of the Sith Incredible Cross-Sections'' also mentions warships being "downscaled," depicting at least two separate classification systems, one where regular Star Destroyers are destroyers and another where they are battleships.
+
+Numerous Expanded Universe sources state that the ''Imperial I'' is armed with 60 identical turbolasers and 60 identical ion cannons. However, analysis of the Star Destroyer models used in the films shows that this is a flawed description. The ''[[Star Wars: Incredible Cross-Sections]]'' book followed the movie model more closely, describing three twin-barreled heavy turbolasers and one ion cannon on each side of the command tower, one quad-laser cannon in each side trench, three cannons in front of the terrace superstructure, and numerous smaller guns lining each trench, as well as several tractor-beam projectors located inside the vessel.
+
+The ''[[Star Wars Technical Journal]]'' offers a slightly different number for the crew requirement: 4,520 officers and 32,565 enlisted men making a total crew of 37,085.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Imperial I-class Star Destroyers}}
+*''[[Star Wars: Battlefront]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Battle for the Republic]]''
+*[[Dark Times 4|''Dark Times'' 4]]
+*[[Dark Times 5|''Dark Times'' 5]]
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}} {{C|As ''Imperator''-class}}
+*[[Darth Vader and the Lost Command 1|''Darth Vader and the Lost Command'' 1]]
+*[[Darth Vader and the Lost Command 2|''Darth Vader and the Lost Command'' 2]]
+*[[Darth Vader and the Lost Command 4|''Darth Vader and the Lost Command'' 4]]
+*[[Dark Times—Out of the Wilderness 5|''Dark Times—Out of the Wilderness'' 5]]
+*[[Dark Times—Fire Carrier 1|''Dark Times—Fire Carrier'' 1]] {{Hologram}}
+*[[Dark Times—A Spark Remains 1|''Dark Times—A Spark Remains'' 1]] {{Hologram}}
+*[[Darth Vader and the Cry of Shadows 4|''Darth Vader and the Cry of Shadows'' 4]]
+*{{DoD|The Queen of Air and Darkness}}
+*{{DoD|Echoes of the Jedi}}
+*{{DoD|The Core of Corruption}}
+*''[[The Paradise Snare]]'' {{1stID|''Imperator''-class}}
+*''[[The Hutt Gambit]]'' {{Mo}}
+*{{Tales|2|Routine}}
+*{{Hyperspace|url=hyperspace/member/webstrips/greedo/index.html?show=1|text=A Hunter's Fate: Greedo's Tale|int=A Hunter's Fate: Greedo's Tale (webstrip)}}
+*[[Boba Fett: Enemy of the Empire 1|''Boba Fett: Enemy of the Empire'' 1]]
+*[[Boba Fett: Enemy of the Empire 2|''Boba Fett: Enemy of the Empire'' 2]]
+*[[Boba Fett: Enemy of the Empire 3|''Boba Fett: Enemy of the Empire'' 3]]
+*[[Boba Fett: Enemy of the Empire 4|''Boba Fett: Enemy of the Empire'' 4]]
+*''[[Star Wars: The Force Unleashed]]''
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]] {{Flash}}
+*''[[Rookies: Rendezvous]]''
+*''[[Rookies: No Turning Back]]''
+*{{WizCite|story=Extracting Aleece|book=Galaxy of Intrigue}}
+*''[[Star Wars Adventures: Han Solo and the Hollow Moon of Khorya]]''
+*''[[Death Troopers]]'' {{Ab|Death Troopers (audiobook)}}
+*[[Empire 8|''Empire'' 8]]
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*[[Empire 5|''Empire'' 5]]
+*''[[Star Wars: Rebel Assault]]''
+*''[[Star Wars: Force Commander]]''
+*''[[Star Wars Journal: The Fight for Justice]]'' {{Imo}} {{ID|Imperial cruiser}}
+*''[[Star Wars Journal: Captive to Evil]]''
+*{{Film|IV}}
+*[[Star Wars: A New Hope (novelization)|''Star Wars: A New Hope'' novelization]] {{Ab|Star Wars: A New Hope (unabridged audiobook)}} {{1st|in book}} {{1stID|Imperial cruiser|in book}}
+*[[Star Wars: Episode IV A New Hope (junior novelization)|''Star Wars'': Episode IV ''A New Hope'' junior novelization]]
+*''[[Super Star Wars]]''
+*[[Star Wars (1977) 1|''Star Wars'' (1977) 1]] {{Reprint|Star Wars (1977) 1}}
+*[[Droids (1986) 6|''Droids'' (1986) 6]]
+*''[[R2-D2's Mission: A Little Hero's Journey]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*''[[Star Wars Missions 17: Darth Vader's Return]]'' {{Mo}}
+*''[[Star Wars Missions 18: Rogue Squadron to the Rescue]]'' {{Mo}}
+*{{JournalCite|12|Small Favors}}
+*"[[The Second Kessel Run]]" {{Reprint|The Second Kessel Run}}
+*''[[Star Wars Missions 9: Revolt of the Battle Droids]]'' {{Mo}}
+*[[Empire 25|''Empire'' 25]]
+*[[Empire 28|''Empire'' 28]]
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+*"[[Planet of Kadril]]"
+*"[[Gambler's World]]" {{Reprint|Gambler's World}}
+*"[[Princess Leia, Imperial Servant]]" {{Reprint|Princess Leia, Imperial Servant}}
+*"[[Bring Me the Children]]" {{Reprint|Bring Me the Children}}
+*"[[As Long As We Live...]]" {{Reprint|As Long As We Live...}}
+*[[Star Wars (1977) 38|''Star Wars'' (1977) 38]] {{Reprint|Star Wars (1977) 38}}
+*''[[The Star Wars Holiday Special]]''
+*"[[Side Trip]]" {{Reprint|Side Trip}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}}
+*[[Star Wars (1977) 40|''Star Wars'' (1977) 40]] {{Reprint|Star Wars (1977) 40}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 50|''Star Wars'' (1977) 50]] {{Reprint|Star Wars (1977) 50}}
+*{{JournalCite|9|Slaying Dragons|reprint=1}} {{Imo}}
+*{{Ewoks|Battle for the Sunstar}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Star Wars (1977) 78|''Star Wars'' (1977) 78]] {{Reprint|Star Wars (1977) 78}} {{Mo}}
+*''[[The Rise and Fall of Darth Vader]]''
+*{{Film|VI}}
+*''[[Star Wars Journal: Hero for Hire]]'' {{Imo}}
+*''[[The Mandalorian Armor]]'' {{Flash}} {{Hologram}}
+*''[[Slave Ship]]'' {{Mo}}
+*''[[A New Hope: The Life of Luke Skywalker]]'' {{Ab|A New Hope: The Life of Luke Skywalker (audiobook)}}
+*[[Star Wars (1977) 107|''Star Wars'' (1977) 107]] {{Reprint|Star Wars (1977) 107}}
+*[[Star Wars (1977) 108|''Star Wars'' (1977) 108]]
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*{{JournalCite|1|A Glimmer of Hope|reprint=1}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}} {{Imo}}
+*{{StoryCite|story=Crisis of Faith|book=Heir to the Empire: The 20th Anniversary Edition}}
+*{{Hyperspace|url=hyperspace/fiction/crossroads20080822.html|text="Crossroads"|int=Crossroads|newhost=Suvudu}}
+*''[[Tatooine Ghost]]''
+*{{JournalCite|3|Mission to Zila|reprint=1}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*[[Dark Empire 1|''Dark Empire'' 1]] {{C|Wreckage}}
+*[[Dark Empire 2|''Dark Empire'' 2]]
+*[[Dark Empire 3|''Dark Empire'' 3]]
+*[[Dark Empire 4|''Dark Empire'' 4]]
+*[[Dark Empire 6|''Dark Empire'' 6]]
+*''[[Jedi Search]]''
+*[[Dark Apprentice (novel)|''Dark Apprentice'']]
+*''[[Champions of the Force]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*{{Hyperspace|url=hyperspace/fiction/shadesofgray/index.html|text="Shades of Gray"|int=Shades of Gray|newhost=Suvudu}}
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-05-02 -->[[Star Wars Infinities: A New Hope 1|''Star Wars Infinities: A New Hope'' 1]]
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2001-12-12 -->{{Tales|10|Trooper (comic story)}}
+*<!-- 2002-03-20 -->{{Tales|11|Prey}}
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]''
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2008-09-16 -->{{TFU|USE=1}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-11-XX -->''[[The Illustrated Star Wars Universe]]''
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Imperial-Class Star Destroyer}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-09-XX -->''[[Rebellion Era Sourcebook]]''
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}}
+*<!-- 2002-03-27 -->{{FactFile|13|KUA 1-4|Kuat Drive Yards}}
+*<!-- 2002-05-XX -->''[[Star Wars Roleplaying Game Revised Core Rulebook]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|link=https://swtcg.com/Content/Images/Cards/ESB/Imperial_II_Star_Destroyer.webp?v=2|cardname=''Imperial II''-Class Star Destroyer}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'' {{C|As both ''Imperator''- and ''Imperial''-class}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-11-XX -->{{SWMiniCite|set=Starship Battles|pack=Imperial Star Destroyer}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]'' {{C|As both ''Imperator''- and ''Imperial''-class}}
+*<!-- 2007-04-30 -->{{SWArchive|url=episode-iv/explore/visualguides/chp03.html|text=Episode IV Visual Guide &mdash; Chapter 3: Imperial Boarding Party}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-07-26 -->''[[Star Wars: The Clone Wars: The Visual Guide]]'' {{C|As ''Imperator''-class}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{C|As both ''Imperator''- and ''Imperial''-class}}
+*<!-- 2009-02-05 -->{{Hyperspace|url=hyperspace/source/praji/20090205.html|text=Tinker, Tailor, Soldier, Praji|int=Tinker, Tailor, Soldier, Praji}}
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+*<!-- 2011-09-13 -->{{DB|starship|imperialstardestroyer|Imperial Star Destroyer}}
+*<!-- 2011-09-13 -->{{DB|starship|republicattackcruiser|Republic attack cruiser}} {{C|As both ''Imperator''- and ''Imperial''-class}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=''Devastator''|link=core/devastator-core-29-2}} {{Po}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=Ion Cannon Burst|link=the-hoth-cycle/a-dark-time/ion-cannon-burst-a-dark-time-49-5}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=''Imperial I''-class Star Destroyer|link=edge-of-darkness/imperial-i-class-star-destroyer-edge-of-darkness-88-3}}
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=The ''Executor'' Arrives|link=the-hoth-cycle/escape-from-hoth/the-executor-arrives-escape-from-hoth-66-1}} {{Po}}
+*<!-- 2013-12-10 -->{{InsiderCite|146|Reigniting the Rebellion!}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=''Thunderflare''}} {{Po}}
+*<!-- 2014-05-22 -->{{FFGXW|set=Tantive IV Expansion Pack|cardname=''Tantive IV''}} {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2015-02-25 -->{{BuildFalconCite|8|Guide to the Galaxy}} {{Po}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+{{Interlang
+|cs=Hvězdný destruktor třídy Imperial I/Legendy
+|da=Imperial I-class Star Destroyer
+|de=Imperium I-Klasse Sternenzerstörer#legends
+|es=Destructor Estelar clase Imperial/Leyendas
+|fi=Imperial I-luokan tähtituhoaja/Legends
+|hu=Birodalmi I-osztályú csillagromboló/Legendák
+|pl=Gwiezdny niszczyciel typu Imperial-I/Legendy
+|sv=Imperial I-klass stjärnjagare
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Star Destroyer classes]]
+[[Category:Starship class variants and subclasses]]
+[[Category:Starship classes of the Dark Empire]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the Imperial Remnant]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:Imperial I-class Star Destroyers]]
+}}

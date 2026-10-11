@@ -1,0 +1,77 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Imperial_patrol_landspeeder.png]]
+|name=Imperial patrol landspeeder
+|designer=
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]
+|line=
+|model=
+|type=Modified [[V-35 Courier/Legends|V-35 Courier]]
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=&lt;105 km/h
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Light repeating blaster
+|complement=
+|bays=
+|escapepods=
+|crew=2 (driver and gunner)
+|skeleton=1
+|passengers=2
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Patrol
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+'''[[Galactic Empire/Legends|Imperial]] patrol [[Landspeeder/Legends|landspeeders]]''' were modified [[V-35 Courier/Legends|Sorosuub V-35 Couriers]] used by [[Scout trooper/Legends|scout troopers]] on [[Edan II/Legends|Edan II]]. One was present at an outpost shortly after the [[Assault on Edan Base]].
+
+It had three repulsor engines tucked within the chassis. A rudimentary targeting system was placed at the front seat. The speeder also was marked with "Imperial Patrol" insignia on both sides.
+
+A landspeeder redesigned for planetary patrol that was well armored and mounted a light repeating blaster on the forward hood. The blaster had a 180- or 200-degree fire arc and was fired by the gunner in the forward passenger seat or the driver.
+
+Unlike the base [[V-35 Courier/Legends|V-35]] model, this military variant removes the folding passenger compartment panels, leaving a windshield instead. The chassis is also extended in the mid-section for a row of three seats. It also has a slower maximum speed due to its thicker armor.
+
+==Behind the scenes==
+The ''Introductory Adventure Game'' uses its own rule set and doesn't state the speed in kmh. Making comparisons with other vehicles this patrol vehicle should be slower than usual landspeeders, the speed would be about 200 kmh.
+
+{{Veh-stub}}
+
+==Appearances==
+*''[[Introductory Adventure Game]]''
+*''[[Imperial Double-Cross]]'' {{ID|Imperial patrol speeder}}
+
+==Sources==
+*<!-- 2003-03-12 -->{{FactFile|63|SPE 9-12|V-35 Landspeeder}}
+
+{{Interlang
+|es=Deslizador terrestre patrullero Imperial
+}}
+
+[[Category:Landspeeder models]]
+[[Category:SoroSuub Corporation products]]
+[[Category:Vehicle classes of the Galactic Empire]]

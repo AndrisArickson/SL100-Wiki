@@ -1,0 +1,124 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:ImperialCustomsCorvette-SotGSE.png]]
+|name=Imperial Customs Corvette
+|designer=
+|manufacturer=[[Rendili StarDrive/Legends|Rendili StarDrive]]<ref name="GG6">''[[Galaxy Guide 6: Tramp Freighters]]''</ref>
+|line=
+|model=Light Corvette<ref name="GG6" />
+|type=[[Corvette/Legends|Corvette]]<ref name="GG6" />
+|cost=*Not legally available for sale.<ref name="SotG">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*[[Black market/Legends|Black market]] cost varies based on market conditions.<ref name="PnP">''[[Pirates & Privateers]]''</ref>
+|modifier=
+|sysmods=
+|length=180 [[Meter/Legends|meters]]<ref name="GG6" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|kph]]<ref name="GG6" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="GG6" />
+*Class 8.0 {{C|backup}}<ref name="GG6" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Shield generator]] equipped<ref name="GG6" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="GG6" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Double [[Turbolaser/Legends|turbolaser]] [[Turret/Legends|turrets]] (6)<ref name="GG6" />
+|complement=
+|bays=No onboard craft capacity; multiple external docking systems<ref name="SotG" />
+|escapepods=
+|crew=*Crew (52)<ref name="GG6" />
+*[[Gunner/Legends|Gunners]] (6)<ref name="GG6" />
+|skeleton=18<ref name="GG6" />
+|passengers=20<ref name="GG6" /> {{C|[[Stormtrooper/Legends|stormtroopers]]}}<ref name="SotG" />
+|capacity=500 [[Metric ton/Legends|metric tons]]<ref name="GG6" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="GG6" /> {{C|can be extended mid-mission through capture operations}}<ref name="SotG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=*Legal: military only<ref name="SotG" />
+*Black market: available from [[Pirate/Legends|pirates]] and [[Shadowport/Legends|shadowports]]<ref name="PnP" />
+|role=*Picket<ref name="GG6" />
+*Patrol<ref name="GG6" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="GG6" />
+*[[Rodian Home Fleet]]<ref name="SotEPG" />
+*[[Pirate/Legends|Pirates]]<ref name="2eRE">''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''</ref>
+}}
+{{Quote|A single Imperial Customs corvette approaching. They're hailing us.''"<br />"''Let's hear what they have to say.|[[Minna]] and [[Leia Organa Solo/Legends|Leia Organa]]|<ref name="Constant Spirit">{{InsiderCite|145|Constant Spirit (short story)}}</ref>}}
+The [[Rendili StarDrive/Legends|Rendili StarDrive]] '''light corvette''', commonly known as the '''Imperial Customs Corvette''', was a light [[Starship/Legends|starship]] commonly used for patrol and inspection actions.
+
+==History==
+The [[Imperial Office of Customs/Legends|Imperial Customs Office]] employed a force of patrol vessels that operated independently from the [[Imperial Navy/Legends|Imperial Navy]] in order to spare the [[Galactic Empire/Legends|Imperial]] government the expense of assigning ships of the line to monitor shipping, interdict [[Pirate/Legends|piracy]], and perform search-and-rescue operations.<ref name="PnP" />
+
+[[File:LightCorvetteClass720Freighter-PlattsStarportGuide.jpg|thumb|left|Light Corvette docked with a [[720 light freighter/Legends|Class 720 freighter]]]]
+
+Rendili StarDrive's light corvette was the backbone of this force. Systems with an Imperial Customs branch generally had at least one of these vessels, and more important systems had several. While it was not capable of taking on large [[Warship/Legends|warships]], these ships were more than adequate for taking on most [[Freighter/Legends|freighters]] or [[Starfighter/Legends|starfighters]].<ref name="PnP" /> For boarding operations, the corvette carried a [[Stormtrooper/Legends|stormtrooper]] platoon.<ref name="SotG" /> They were often supported by the smaller [[Imperial Customs Frigate|Imperial Customs frigate]], also a Rendili product.<ref name="PnP" />
+
+Rendili StarDrive sold the Light Corvette to the Imperial Customs Office by an exclusive contract,<ref name="SotG" /> but smaller governmental organizations, such as the [[Rodian/Legends|Rodian]] [[Rodian Home Fleet|Home Fleet]], also acquired the light corvette for system patrol and defense.<ref name="SotEPG">''[[Shadows of the Empire Planets Guide]]''</ref> The utility and efficiency of these craft also created a demand from less legal organizations. Pirates often made an effort to capture light corvettes, and smaller shipbuilding operations such as those at [[Shadowport/Legends|shadowports]] manufactured copies of the design.<ref name="PnP" /> The [[Pyesmev]], a vessel belonging to the [[pirate]] group [[Solar Terrors]], is an example for such a copy.<ref name="Orbit">{{WEGCite|book=The Far Orbit Project|story=The Rival}}</ref>
+
+One corvette, the [[Gatekeeper (Imperial Customs corvette)|''Gatekeeper'']], tried to [[Mission to Quellor|intercept]] a young [[Princess/Legends|Princess]] [[Leia Organa Solo/Legends|Leia Organa]] at [[Quellor/Legends|Quellor]], but it was destroyed in a suicide attack by a [[Rafe Ballon|resistance fighter]] in order to maintain her cover.<ref name="Constant Spirit" />
+
+Right after the [[Battle of Endor/Legends|Battle of Endor]], a customs vessel arrived at [[Tatooine/Legends|Tatooine]] bearing news of the Imperial defeat to the [[Imperial Prefect|Prefect]].<ref name="Passage">{{WEGCite|story=The Passage From Perdition|book=Mos Eisley Adventure Set}}</ref>
+
+==Appearances==
+*''[[The Hutt Gambit]]'' {{1st}}
+*{{InsiderCite|145|Constant Spirit (short story)|reprint=1}}
+*{{JournalCite|6|Swoop Gangs|reprint=1}} {{ID|Customs Corvette}}
+*{{JournalCite|9|Lumrunners}} {{ID|customs corvette}}
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}} {{Po}}
+*{{WEGCite|story=Preparing for War|book=The Far Orbit Project}}
+*{{WEGCite|story=The Rival|book=The Far Orbit Project}}
+*{{WEGCite|story=The Treasure of Celis Mott|book=Instant Adventures}}
+*{{WEGCite|story=Provincial Problems|book=Shadows of the Empire Planets Guide}}
+*{{GalaxyCite|7|Assignment: Decoy}}
+*{{WEGCite|story=The Passage From Perdition|book=Mos Eisley Adventure Set}}
+*{{WEGCite|story=Den of Spies|book=Twin Stars of Kira (sourcebook)}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Imperial Customs Corvettes}}
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]'' {{1stdesc}}
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]'' {{Po}}
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]] {{ID|Imperial Customs Corvette}}
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|Imperial customs vessel}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Imperiale Zollkorvette
+|pl=Korweta celna
+|es=Corbeta Ligera
+}}
+
+[[Category:Corvette classes]]
+[[Category:Rendili StarDrive products]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:Imperial Customs Corvettes]]
+}}
