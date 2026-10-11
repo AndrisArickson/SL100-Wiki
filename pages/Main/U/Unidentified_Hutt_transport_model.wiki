@@ -1,0 +1,72 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{StarshipClass
+|image=[[File:Hutt_Transport_SWG.jpg]]
+|name=Unidentified Hutt transport model
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Transport/Legends|Transport]]<ref name="SWG:TGBS">{{SWGcite|exp=JtL|type=space|Transport Goods Between Systems|Lok system}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=Equipped<ref name="SWG:TGBS" />
+|hyperdrive=
+|hdrange=
+|hdsystem=Equipped<ref name="SWG:TGBS" />
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SWG:TGBS" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Transport<ref name="SWG:TGBS" />
+|firstuse=
+|retired=
+|affiliation=*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="SWG:TGBS" />
+*[[Debris Cult]]<ref name="SWG:RtCE">{{SWGcite|exp=JtL|type=space|Rescue the Company Executive|Yavin system}}</ref>
+*[[Ni'lyahin Smugglers]]<ref name="SWG:Ys">{{SWGcite|exp=JtL|type=other|Yavin system}}</ref>
+}}
+{{Quote|These transports are not ideal for fending off attacks from military craft.|A Hutt pilot|<ref name="SWG:DHC">{{SWGcite|exp=JtL|type=space|Deliver Hutt Cargo|Dantooine system}}</ref>}}
+A model of '''transport''' vessel was used by the [[Hutt Cartel/Legends|Hutt Cartel]] at the time of the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="SWG:TGBS" /> It was a high speed multi purpose transport vessel.<ref name="SWG:DtST">{{SWGcite|exp=JtL|type=space|Destroy the Spice Transport|Dantooine system}}</ref>
+
+{{Ship-stub}}
+
+==Behind the scenes==
+This transport vessel first appeared in the video game ''[[Star Wars Galaxies: Jump to Lightspeed]]''. In the game, the vessel is only identified as the "Hutt Transport".<ref name="SWG:TGBS" />
+
+==Appearances==
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Hutt starship classes]]
+[[Category:Transport classes]]

@@ -1,0 +1,84 @@
+{{Top}}
+{{RepulsorliftVehicle
+|image=[[File:UmbaranHoverTank-SWE.jpg]]
+|name=Umbaran hover tank
+|designer=
+|manufacturer=[[Umbaran/Legends|Umbarans]]<ref name="encyclopedia">{{SWE|technology|umbaranhovertank|Umbaran hover tank}}</ref>
+|line=
+|model=Umbaran hover [[Tank/Legends|tank]]<ref name="encyclopedia" />
+|type=[[Repulsorcraft/Legends|Repulsorcraft]]<ref name="encyclopedia 2">{{SWE|technology|umbarancrawlertank|Umbaran crawler tank}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=12.99 [[Meter/Legends|meters]]<ref name="encyclopedia" />
+|width=
+|height=6.08 meters<ref name="encyclopedia" />
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Electromagnetic plasma cannon/Legends|Electromagnetic plasma cannons]] (2)<ref name="encyclopedia" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="encyclopedia" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Armor/Legends|Armored]] assault vehicle<ref name="encyclopedia" />
+|firstuse=
+|retired=
+|affiliation=*[[Umbaran militia]]<ref name="umbarans">{{SWE|groups|umbarans|Umbarans}}</ref>
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="umbarans" />
+*[[Galactic Republic/Legends|Galactic Republic]] {{C|captured}}
+}}
+The '''Umbaran hover tank''' was a high tech armored assault vehicle made by the [[Umbaran/Legends|Umbaran]] people and used by them during the [[Battle of Umbara/Legends|Battle of Umbara]].
+
+==Description==
+The Umbaran hover tank was a single-pilot vehicle built around an armored control pod flanked by twin conducting vanes that each housed an [[Electromagnetic plasma cannon/Legends|electromagnetic plasma cannon]] capable of decimating entire platoons of enemy troops with a single blast. The conducting vanes rotated and split open to serve as landing struts when the vehicle was powered down in a docked configuration.<ref name="encyclopedia" /> Although its cockpit was armored, its vanes were vulnerable to AT-RT fire.<ref name="dou" />
+
+==History==
+The [[Umbaran militia]] deployed these vehicles during the [[Battle of Umbara/Legends|Battle of Umbara]]. It caused many casualties to the [[Galactic Republic/Legends|Republic]] forces.<ref name="dou" /> Thanks to the Umbaran alliance with the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]], the tank fell into the hands of the [[Separatist Droid Army/Legends|Separatist Droid Army]].<ref name="umbarans" /> These tanks caused heavy casualties though some were destroyed by [[All Terrain Recon Transport/Legends|AT-RTs]].<ref name="dou">{{TCW|Darkness on Umbara}}</ref> A [[Unidentified Jedi Knight (Clone Wars)|Jedi Knight]] hijacked one of them and used them to destroy 4 [[Umbaran mobile heavy cannon/Legends|Umbaran mobile heavy cannons]].<ref name="CWA: Umbara">{{TCWA|Battle of Umbara}}</ref>
+
+==Appearances==
+*[[Star Wars: Clone Wars Adventures (video game)|''Star Wars: Clone Wars Adventures'']]
+*{{TCW|Darkness on Umbara}} {{1st}}
+*{{TCW|The General (episode)}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Umbaran hover tanks}}
+*<!-- 2011-10-28 -->{{SW|url=explore/the-clone-wars/ep407|text="Darkness on Umbara" - ''The Clone Wars'' Episode Guide|nolive=1}}
+*<!-- 2011-11-04 -->{{SW|url=explore/the-clone-wars/ep408|text="The General" - ''The Clone Wars'' Episode Guide|nolive=1}}
+*<!-- 2014-04-25 -->{{SWE|technology|umbarancrawlertank|Umbaran crawler tank}}
+*<!-- 2014-04-25 -->{{SWE|technology|umbaranhovertank|Umbaran hover tank}} {{1stID|Umbaran hover tank}}
+*<!-- 2014-04-25 -->{{SWE|groups|umbarans|Umbarans}} {{Mo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Umbaranischer Schwebepanzer
+|nl=Umbaran Hover Tank
+|uk=Умбаранський ширяючий танк/Легенди
+}}
+
+[[Category:Hovertank models]]
+[[Category:Umbaran vehicle classes]]
