@@ -1,0 +1,119 @@
+{{Top|leg}}
+{{Citation}}
+{{Conjecture|legends}}
+{{SpaceStation
+|image=[[File:Arah.png]]
+|name=Arah mining facility
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Mine / Fuel refinery
+|cost=
+|modifier=
+|sysmods=
+|length=*~600 [[Meter/Legends|meters]] (asteroid)
+*~1.5 [[Kilometer/Legends|km]] (structure)
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Sentry blasters
+*Security drones
+|complement=*1 [[Squadron/Legends|squadrons]] of [[TIE/IN interceptor/Legends|TIE/IN interceptors]] (min)
+*3 [[TIE/ph "Phantom" Multi-Role Stealth Starfighter/Legends|TIE Phantoms]] (min)
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|region=*[[Outer Rim Territories/Legends|Outer Rim Territories]]
+*[[New Territories/Legends|New Territories]]<ref name="Region">{{SW|url=news/essential-atlas-outer-rim-sectors|text=The Essential Atlas Extra: Outer Rim Sectors|int=Star Wars: The Essential Atlas Online Companion}} places the [[Dantus sector/Legends|Dantus sector]] in the [[New Territories/Legends|New Territories]] as defined by the [[:File:MiscellaneousRegions.jpg|Client States and Miscellaneous Regions map]] in ''[[The Essential Atlas]]''.</ref>
+|sector=[[Dantus sector/Legends|Dantus sector]]
+|system=[[Arah system/Legends|Arah system]]
+|coordinates=J-6<ref name="EAOC">{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion}}</ref>
+|xyz=
+|orbited=
+|distance=
+|routes=
+|role=Fuel refinery
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+|constructed=
+|destroyed=[[3 ABY/Legends|3 ABY]]
+|retired=
+|battles=
+|owners=
+|namedcrew=
+|captains=
+|registry=
+|aliases=
+|population=
+|interest=
+|services=
+|sectors=
+|modules=
+}}
+{{Quote|It looks like some sort of ore processing plant.. but it's bigger than anything I've ever seen before!|[[Ace Merrick]] upon seeing the facility|<ref name="Star Wars: Rebel Assault II: The Hidden Empire">''[[Star Wars: Rebel Assault II: The Hidden Empire]]''</ref>}}
+The '''Arah mining facility''' was an Imperial [[oridium]] ore mine located in the [[Arah asteroid belt|Belt of Arah]]. It mined and refined the oridium ore into fuel supplied to the [[TIE/ph "Phantom" Multi-Role Stealth Starfighter/Legends|TIE Phantom]] project.
+
+==Structure==
+[[File:Arahmine_interior.jpg|thumb|left|The Interior of the Mine]]
+The Mine resided on one of the larger Asteroids of the [[Arah asteroid belt|Arah belt]]; A flat, irregular disk surrounded the asteroid's equator and contained extensive pipe and tunnel systems, presumably required to refine and transport the mined materials off the base.
+
+The disk tunnels were interconnected with the central mining area by three access tubes, whose entrances were shielded.
+
+The center of the asteroid was hollowed out by giant escalators <!-- don't look at me - Ace Merrick called them this way. !-->, 'rock scrapers' literally;. The bulkheads holding up the reactor and escalators were littered with sentry guns meant for taking out falling debris, to avoid damage to the structure.
+
+On the asteroid's north pole, as well as an maintenance access tunnel to the core, resided a part of the mining facility, likely for fuel storage and crew habitats.
+
+==History==
+[[File:Arahmine_detail.jpg|thumb|left|The north pole structures of the Mine]]
+The mine was established in secret at some point before [[3 ABY/Legends|3 ABY]]. A [[YT-1300 light freighter/Legends|YT-1300]] freighter pilot was aware of the existence of the mine and subsequently tried to inform the Rebel Alliance of this discovery; However, he was close to [[Dreighton]] when he tried to contact a Rebel Patrol; This brought the attention to the Imperial garrison on the planet, intercepting the ''[[Corellia Star]]'' with TIE fighters and eventually boarding the vessel, killing anyone on board.
+
+[[Rookie One]] was able to retrieve the battered freighter from the Imperial base, and with a full record of the message in their hands the Alliance decided to strike against the facility, forming temporary [[Rascal Squadron]]. The facility and its [[TIE/IN interceptor/Legends|TIE/IN interceptor]] defenders were [[Battle of Arah|destroyed]] soon after, bringing an end to the Imperial operations in the Belt of Arah.
+
+==Behind the scenes==
+The base appears in Chapter 6 "The Mining Facility". [[Richard Green]] and [[Jon Knoles]] agreed that the structure should be a ring-like machine around a big asteroid. Knoles made concept sketches of its exterior and interior, imagining spinning arms that dig out rocks from the shaft interior, sentry guns, and a green mist caused by the generator. [[Garry Gaber]], owing to his knowledge on industrial design, created the 3D maze of pipes and supports in its interior. Green designed the facility's exterior in 3D. He also designed the scene of its destruction, with X-Wings flying out of it, and it is seen whole before exploding; Green wanted to emulate the similar scene in [[Episode VI]] with the destruction of the [[DS-2 Death Star II Mobile Battle Station|Death Star]].<ref>''[[Star Wars: Rebel Assault II Official Player's Guide]]''</ref>
+
+If the player loses their lives in that level, the game over cutscene shows the Belt of Arah with Rece asking Merrick where did Rookie One go; Merrick asks if he is behind her.
+
+==Appearances==
+*{{FFG|story=Debts to Pay|book=Star Wars: Edge of the Empire Game Master's Kit|text=''Star Wars'': Edge of the Empire Game Master's Kit}} {{Mo}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]'' {{1st}}
+
+==Sources==
+*<!-- 1995-10-XX -->{{GalaxyCite|5|Game Room|Game Room: Rebel Rouser}}
+*<!-- 1995-10-XX -->{{InsiderCite|27|LucasArts Update|Excerpts from the Journal of a Rebel Pilot}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Dantus sector locations]]
+[[Category:Galactic Empire space stations]]
+[[Category:Mining stations]]
+[[Category:Space stations in the New Territories]]
+[[Category:Space stations in the Outer Rim Territories]]

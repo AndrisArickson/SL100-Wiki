@@ -1,0 +1,73 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Aramand System Cruiser III
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=140 [[Meter/Legends|meters]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FBS" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 1]]<ref name="FBS" />
+*[[Backup hyperdrive|Class 15]] (backup)<ref name="FBS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FBS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="FBS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]], limited to [[Aramand Cluster]] [[Star system/Legends|star systems]]<ref name="FBS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=4 [[Laser cannon/Legends|laser cannons]]<ref name="FBS" />
+|complement=
+|bays=
+|escapepods=
+|crew=15; 4 [[Gunner/Legends|gunners]]<ref name="FBS" />
+|skeleton=7<ref name="FBS" />
+|passengers=10 ([[Soldier/Legends|troops]])<ref name="FBS" />
+|capacity=250 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="FBS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Aramand Cluster patrol and defense<ref name="FBS" />
+|firstuse=
+|retired=
+|affiliation=[[Taler]]<ref name="FBS" />
+}}
+The '''Aramand System Cruiser III''' was an [[Aramandi]] capital ship used in the [[Taler]] navy.
+
+==Characteristics==
+The patrol vessel was 140 meters long, could transport ten soldiers and had enough room for 250 tons of cargo. Necessary crew amounted to fifteen people, alongside four gunners. The weaponry included four turreted [[Laser cannon/Legends|laser cannons]].
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Aramand-System-Kreuzer III
+}}
+
+[[Category:Cruiser classes]]
+[[Category:Patrol craft classes]]
