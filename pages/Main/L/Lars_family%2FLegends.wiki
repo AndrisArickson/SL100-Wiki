@@ -1,0 +1,82 @@
+{{Top}}
+{{Otheruses|Lars}}
+{{Youmay|the family from [[Tatooine/Legends|Tatooine]] in [[Star Wars Legends|Legends]]|the [[Lar family]], the family from [[Alderaan/Legends|Alderaan]]}}
+{{Family
+|image=[[File:LarsFamily-AOTC.png]]
+|name=Lars family
+|type=
+|species=[[Human/Legends|Human]]<ref name="Episode IV">{{Film|IV}}</ref>
+|first=
+|head=
+|relatives=[[Skywalker family/Legends|Skywalker family]] {{C|through [[marriage]]}}<ref name="Episode II">{{Film|II}}</ref>
+|origin=[[Tatooine/Legends|Tatooine]]<ref name="Episode IV" />
+|locations=
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=
+}}
+{{Quote|You are going to have to stay here. These are good people, Padmé. You'll be safe.|Anakin Skywalker|<ref name="Episode II" />}}
+The '''Lars family''' was a family that lived primarily on the [[Planet/Legends|planet]] [[Tatooine/Legends|Tatooine]]. The earliest known member of the Lars family was [[Lef Lars/Legends|Lef Lars]]. With his wife, [[Gredda Lars/Legends|Gredda]], they had two sons named [[Cliegg Lars/Legends|Cliegg]] and [[Edern Lars/Legends|Edern]]. Cliegg married [[Aika Lars/Legends|Aika]] and had a son named [[Owen Lars/Legends|Owen]]. After Aika died, Cliegg married [[Shmi Skywalker Lars/Legends|Shmi Skywalker]], whom he freed from slavery. Cliegg's son, Owen, married a girl named [[Beru Whitesun Lars/Legends|Beru Whitesun]].
+
+When [[Anakin Skywalker/Legends|Anakin Skywalker]], the son of Shmi, became Darth Vader, his son, [[Luke Skywalker/Legends|Luke Skywalker]], was cared for by Owen and his wife, Beru Whitesun, whom he called "Uncle Owen" and "Aunt Beru." They were killed by [[Galactic Empire/Legends|Imperial]] [[Stormtrooper/Legends|stormtroopers]] in [[0 BBY/Legends|0 BBY]]. Since they had no blood descendants, the family line ended with them.
+
+It is possible that Luke's aunt [[Coolie]] was connected in some way with the Lars family.
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree| | | | | | | |LEF|y|GRE| | ||LEF=[[Lef Lars/Legends|Lef Lars]]|GRE=[[Gredda Lars/Legends|Gredda Lars]]|boxstyle_LEF=m|boxstyle_GRE=f}}
+{{FamilyTree| | | | | | |,|-|-|-|^|-|-|.| | |}}
+{{FamilyTree| |AIK|y|CLIEG|~|SHM| |EDERN||AIK=[[Aika Lars/Legends|Aika Lars]]|CLIEG=[[Cliegg Lars/Legends|Cliegg Lars]]|SHM=[[Shmi Skywalker Lars/Legends|Shmi Skywalker]]|EDERN=[[Edern Lars/Legends|Edern Lars]]|boxstyle_AIK=f|boxstyle_OOLP=u|boxstyle_CLIEG=m|boxstyle_SHM=f|boxstyle_EDERN=m}}
+{{FamilyTree| | | | |!| | | | | | |!| | | | |}}
+{{FamilyTree| | | | |!| | |WSF| |!| | | | ||WSF={{C|see [[Whitesun family]]}}|boxstyle_WSF=u}}
+{{FamilyTree| | | | |!| | | |!| | |!| | | | |}}
+{{FamilyTree| | | |OWENL|V|BWL| |SWF| | ||OWENL=[[Owen Lars/Legends|Owen Lars]]|BWL=[[Beru Whitesun Lars/Legends|Beru Whitesun Lars]]|SWF={{C|see [[Skywalker family/Legends|Skywalker family]]}}|boxstyle_OWENL=m|boxstyle_BWL=f|boxstyle_SWF=u}}
+{{FamilyTree| | | | | | |L|~|~|~|7|!| | | | |}}
+{{FamilyTree| | | | | | | | | |LUKEs| | | | ||LUKEs=[[Luke Skywalker/Legends|Luke Skywalker]]<br />{{C|adopted by Lars family}}|boxstyle_LUKEs=m}}
+{{FamilyTree/end}}
+{{MoreSources}}
+
+==Appearances==
+*{{Film|II}}
+*[[Star Wars: Episode II Attack of the Clones (junior novelization)|''Star Wars'': Episode II ''Attack of the Clones'' junior novelization]] {{Ab|Star Wars: Episode II Attack of the Clones (junior novelization audiobook)|audiobook}}
+*{{TCW|Overlords}} {{Vision|Anakin Skywalker}}
+*{{Film|III}}
+*[[Star Wars: Episode III Revenge of the Sith (junior novelization)|''Star Wars'': Episode III ''Revenge of the Sith'' junior novelization]]
+*{{Film|IV}}
+*[[Star Wars: A New Hope (novelization)|''Star Wars: A New Hope'' novelization]] {{Ab|Star Wars: A New Hope (unabridged audiobook)}} {{1st|in book}}
+*[[Star Wars: Episode IV A New Hope (junior novelization)|''Star Wars'': Episode IV ''A New Hope'' junior novelization]]
+*''[[The Life and Legend of Obi-Wan Kenobi]]''
+*''[[The Rise and Fall of Darth Vader]]''
+
+==Sources==
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=SoroSuub V-35 Landspeeder}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]''
+*<!-- 2002-04-23 -->''[[Star Wars: Attack of the Clones: The Visual Dictionary]]''
+*<!-- 2005-01-25 -->{{InsiderCite|80|Star Wars Q&A|Ask the Master}}
+*<!-- 2011-09-13 -->{{DB|character|cliegglars|Lars, Cliegg}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Familie Lars#legends
+|es=Familia Lars/Leyendas
+|fi=Larsien suku/Legends
+|fr=Famille Lars/Légendes
+|hu=Lars család
+|nl=Lars
+|pl=Rodzina Lars
+|pt=Legends:Família Lars
+|tr=Lars ailesi/Legends
+}}
+
+[[Category:Families]]
+[[Category:Tatooinians]]
+
+{{RelatedCategories
+|[[Category:Lars family]]
+}}

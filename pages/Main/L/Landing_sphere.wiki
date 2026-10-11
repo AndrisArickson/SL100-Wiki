@@ -1,0 +1,65 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:SkyBlind_reconnaissance_ship.jpg]]
+|name=Landing sphere
+|designer=
+|manufacturer=[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=
+|type=Surface to [[Starship/Legends|starship]] transport<ref name="GG8" />
+|cost=
+|modifier=
+|sysmods=
+|length=6 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="GG8" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="GG8" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="GG8" />
+|skeleton=
+|passengers=7<ref name="GG8" />
+|capacity=*5 [[Metric ton/Legends|metric tons]]<ref name="GG8" />
+*2 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Reconnaissance<ref name="GG8" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+[[Loronar Corporation/Legends|Loronar Corporation]] manufactured a '''landing sphere''' was used with their [[SkyBlind]] reconnaissance [[Starship/Legends|ship]]. It was used as a ship to surface transport for the SkyBlind. Although only measuring six [[Meter/Legends|meters]] in length, it could accommodate the entire crew and passengers of the SkyBlind, as well as five [[Metric ton/Legends|metric tons]] of cargo. It was powered by [[Repulsorlift/Legends|repulsorlift]] engines, and was both airtight and [[Water/Legends|water]] resistant. However, it could not travel far from a source of [[Gravity/Legends|gravity]], such as a [[Planet/Legends|planet]]. Not all SkyBlinds carried landing spheres; if the sphere was not present aboard a SkyBlind, the ship's cargo capacity was doubled.
+
+==Sources==
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Loronar Corporation products]]
+[[Category:Repulsorcraft models]]

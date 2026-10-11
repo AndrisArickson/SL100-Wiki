@@ -1,0 +1,60 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Laserskiff.jpg]]
+|name=Laser skiff
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Mining/Legends|Mining]] vehicle<ref name="GoA">''[[Graveyard of Alderaan]]''</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=130 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GoA:V2">{{WEGCite|story=Graveyard of Alderaan|book=Classic Adventures: Volume Two}}</ref>
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Modified mining [[Laser cannon/Legends|laser cannon]]<ref name="GoA:V2" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Mining<ref name="GoA" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+A '''laser skiff''' was a vehicle used to [[Mining/Legends|mine]] the [[Asteroid/Legends|asteroids]] in [[the Graveyard]]. They could move at 130 kmh. Each was equipped with a mining [[Laser cannon/Legends|laser cannon]].
+
+==Appearances==
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Mining technology]]
+[[Category:Skiff models]]

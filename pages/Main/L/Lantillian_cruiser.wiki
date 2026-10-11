@@ -1,0 +1,62 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Lantillian cruiser
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Cruiser/Legends|Cruiser]]<ref name="Tessent">{{GamerCite|9|Race for the Tessent}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Kintan Gunrunners]]<ref name="Tessent" />
+}}
+The '''Lantillian cruiser''' was an armored space vessel smaller than a [[Predator-class gunship|''Predator''-class gunship]]. The [[Kintan Gunrunners]] operated one.<ref name="Tessent" />
+
+==Appearances==
+*{{GamerCite|9|Race for the Tessent}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Cruiser classes]]

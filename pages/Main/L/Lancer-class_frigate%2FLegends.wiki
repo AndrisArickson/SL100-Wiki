@@ -1,0 +1,199 @@
+{{Top|title=''Lancer''-class frigate}}
+{{Otheruses|Lancer}}
+{{StarshipClass
+|image=[[File:LancerClassFrigate-FF77.png]]
+|name=''Lancer''-class frigate
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="AOR CRB">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+|line=
+|model=''Lancer''-class frigate<ref name="AOR CRB" />
+|type=[[Frigate/Legends|Frigate]]<ref name="AOR CRB" />
+|cost=4,760,000 [[Galactic Credit Standard/Legends|credits]]<ref name="Starships2001">''[[Starships of the Galaxy]]''</ref><ref name="AOR CRB" />
+|modifier=
+|sysmods=
+|length=250 [[Meter/Legends|meters]]<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+|width=57 meters
+|height=60 meters
+|mass=
+|max accel=4 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=20 MGLT<ref name="XWA" />
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="AOR CRB" /> or 2<ref name="ImperialSourcebook2" /><ref name="Starships2001" /><ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="AOR CRB" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 576 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 304 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="Starships" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Point-defense laser cannon/Legends|Point-defense]]<ref name="Starships" /> [[AG-2G quad laser cannon/Legends|AG-2G quad laser cannons]] (20)<ref name="FF" /><ref name="ImperialSourcebook2" />
+**5 fore<ref name="ImperialSourcebook2" />
+**5 port<ref name="ImperialSourcebook2" />
+**5 starboard<ref name="ImperialSourcebook2" />
+**5 aft<ref name="ImperialSourcebook2" />
+|complement=[[Shuttle/Legends|Shuttles]] (2)<ref name="TEGTVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|bays=
+|escapepods=
+|crew=*Crew (810)<ref name="ImperialSourcebook2" />
+*[[Gunner/Legends|Gunners]] (40)<ref name="ImperialSourcebook2" />
+|skeleton=375<ref name="ImperialSourcebook2" />
+|passengers=40 [[Troop/Legends|troops]]<ref name="AOR CRB" />
+|capacity=300 [[Metric ton/Legends|metric tons]]<ref name="ImperialSourcebook2" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="ImperialSourcebook2" /><ref name="Starships2001" /><ref name="Starships" /> - 6 [[Standard month/Legends|months]]<ref name="AOR CRB" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale<ref name="ImperialSourcebook2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|role=Anti-[[Starfighter/Legends|starfighter]] screening vessel<ref name="ImperialSourcebook2" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="ImperialSourcebook2" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+*[[New Republic/Legends|New Republic]]
+*[[Doole's defense fleet|Kessel Defence Fleet]]
+*[[Galactic Federation of Free Alliances]]
+*[[Confederation]]
+*[[The Colony]]
+}}
+The '''''Lancer''-class frigate''' was a [[Capital ship/Legends|capital ship]] used for anti-[[Starfighter/Legends|starfighter]] operations in the [[Imperial Navy/Legends|Imperial Navy]].<ref name=":0">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+
+==Description==
+[[File:CCGLancer.jpg|thumb|left|A ''Lancer'' with engines alight]]
+The ''Lancer''-class was a frigate design armed with 20 [[AG-2G quad laser cannon/Legends|AG-2G quad laser cannons]], with at least some of these guns capable of being retracted into the main hull of the vessel.<ref name="TEGTVV" />
+
+The ''Lancer'' was propelled by four drive [[Engine/Legends|engines]] and had a hangar bay area on its ventral side, where it could dock two [[Shuttle/Legends|shuttles]]. In addition, the ''Lancer'' has a docking port located on the top of its bow. The ship's bridge was located in the middle of the bow area, below a similar-looking computer/sensor control room.<ref name="TEGTVV" />
+
+==History==
+===Development and usage===
+<div style="float:right">[[File:LancerFrigate-SWR.png|thumb|left|A ''Lancer''-class frigate in orbit]]</div>
+An early type of ''Lancer''-class frigate saw its initial deployment a few months after the end of the [[Clone Wars/Legends|Clone Wars]].<ref name="CNI:JT">''[[Coruscant Nights I: Jedi Twilight]]''</ref>
+
+[[Galactic Empire/Legends|Imperial]] [[Starship/Legends|starships]] had long focused on ship-to-ship combat capabilities, relegating smaller capital ships to planetary defense rather than picket duty. As [[Alliance to Restore the Republic/Legends|Rebel Alliance]] pilots learned to exploit the major weaknesses of [[Star Destroyer/Legends|Star Destroyers]], commonly called "[[Trench Run Defense]]," Imperial officers grew increasingly concerned over the growing relative effectiveness of these heavily armed and shielded starfighters. After the [[DS-1 Orbital Battle Station/Legends|first Death Star's]] destruction at the [[Battle of Yavin/Legends|Battle of Yavin]] by a handful of Alliance starfighters, and the staggering losses suffered at the hands of the [[Lightspeed Panthers]] during the [[Fei Hu campaign]], the need for greater starfighter defense was clear.<ref name=":0" /><ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+
+[[File:Lancer_schem.jpg|thumb|left|''Lancer'' schematics]]
+[[Admiral/Legends|Admiral]] [[Ilon Drez]] proposed using the [[Kuat Drive Yards/Legends|KDY]] ''Lancer''-class ships to screen enemy starfighters to allow dominant Star Destroyers to pummel enemies in ship-to-ship combat. This was then approved by the [[Naval Command (Imperial)|Imperial Naval Command]]. The final iteration of the craft ran a slim 250 meters with twenty [[Quad laser cannon/Legends|quad laser cannon]] batteries designed specifically for starfighter hunting. However, this came at cost of having no capital grade weaponry or shielding, leaving the ships vulnerable to other capital ships. The ship was also quite slow, allowing many fighters to simply outrun it.<ref name=":0" />
+
+With a high build cost and requiring a relatively large crew of over 800, the Imperial Starfleet found the ''Lancer''-class too expensive for full fleet deployment. A few frigates made it into various fleets, but most admirals preferred to use, and subsequently lose, their [[TIE series/Legends|TIE]] starfighters as anti-starfighter options. As a result, most ''Lancer''-class frigates, like smaller ships before them, were assigned to planetary defense and rear guard operations along with interdiction and anti-piracy patrols in the [[Outer Rim Territories/Legends|Outer Rim Territories]].
+
+===Imperial Remnant and beyond===
+[[File:Lancerstern.png|thumb|right|A ''Lancer''{{'s}} stern]]
+It was not until the emergence of [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] in [[9 ABY/Legends|9 ABY]] that ''Lancer''-class frigates were put to good use. Thrawn used the frigates in raiding missions against key New Republic worlds, where they used their laser cannons to slice through the New Republic's starfighter-based planetary defenses.<ref name="DFR">''[[Dark Force Rising]]''</ref>
+
+As the remnants of the Empire collapsed and the New Republic defeated the remaining aggressive [[Warlord/Legends|warlords]], a number of ''Lancer''-class frigates were captured by the [[New Republic Defense Fleet/Legends|New Republic Defense Fleet]]. While the Defense Fleet incorporated some into planetary defense fleets, most were decommissioned, although the design principles of the ''Lancer''-class were revisited when the New Republic developed the [[Ranger-class gunship|''Ranger''-class gunship]].
+
+[[Moruth Doole]] used two ''Lancers'' to defend [[Kessel/Legends|Kessel]].<ref name="Jedi Search">''[[Jedi Search]]''</ref>
+
+During the [[Yuuzhan Vong War]], the New Republic recommissioned many ''Lancer''-class frigates for use against [[Yorik-et|coralskippers]].
+
+During the [[Dark Nest Crisis]], [[Prime Unu]] [[Raynar Thul|UnuThul]] commanded one piece of this starship model during [[Battle of the Murgo Choke]].
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Battle_for_the_Katana_Fleet-DFRSB-138.jpg|thumb|right|150px|A ''Lancer''-class frigate in battle with a [[Star Galleon-class frigate|''Star Galleon''-class frigate]]]]
+*''[[Coruscant Nights I: Jedi Twilight]]''
+*{{Tales|2|Routine}} {{C|dream}}
+*{{JournalCite|2|The Way of the Yrashu}}
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*[[Star Wars (2013) 17|''Star Wars'' (2013) 17]]
+*[[Black Ice (adventure)|''Black Ice'']]
+*''[[Mission to Lianna]]''
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Hard Merchandise]]''
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign|reprint=yes}} {{Mo}}
+*{{DarkStryder|adventure=Traitor in our Midst|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Plant Food|book=The Kathol Outback|reprint=yes}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{1st|in book}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*''[[Jedi Search]]''
+*{{Wizards|url=default.asp?x=starwars/article/sw20031120nightsaber|text=Nightsaber|int=Nightsaber}}
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Young Jedi Knights: Jedi Bounty]]''
+*''[[The New Jedi Order: Recovery]]''
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*''[[The New Jedi Order: Force Heretic III: Reunion]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest I: The Joiner King]]''
+*''[[Dark Nest II: The Unseen Queen]]''
+}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Lancer-class frigates}}
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{1stm}}
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']]
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=Lancer Frigate}}
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]'' {{Po}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2003-06-18 -->{{FactFile|77|FRI 1-2|''Lancer''-class Frigate}}
+*<!-- 2003-06-25 -->{{FactFile|78|SUP 1-2|Imperial Supply Fleet}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Kuat ''Lancer''-Class Frigate|link=https://swtcg.com/Content/Images/Cards/ESB/Kuat_Lancer_Class_Frigate.webp?v=2}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-08-19 -->{{SonyCite|url=players/news_archive.vm?id=69208&month=082011|text=Galactic Civil War 2 &ndash; Space: The Ships}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-08-16 -->{{FFGTCG|set=The Battle of Hoth|cardname=Orbital Resupply Station|link=the-hoth-cycle/the-battle-of-hoth/orbital-resupply-station-the-battle-of-hoth-63-5}} {{Po}}
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]'' {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|Imperial Lancer-class Frigate|Lancer-class frigate}}
+
+{{Interlang
+|de=Lanzen-Klasse Fregatte
+|es=Fragata clase Lancero/Leyendas
+|fr=Frégate de classe Lancer
+|hu=Lancer-osztályú fregatt
+|nl=Lancer-class Frigate
+|pl=Fregata typu Lancer
+|pt=Fragata classe Lancer
+|tr=Mızraklı-sınıfı fırkateyn/Legends
+}}
+
+[[Category:Frigate classes]]
+[[Category:Kuat Drive Yards products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:Lancer-class frigates]]
+}}

@@ -1,0 +1,80 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:Lady_Sunfire.jpg]]
+|name=''Lady Sunfire''
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="TLCSB">''[[The Last Command Sourcebook]]''</ref><ref name="TTS">''[[The Thrawn Trilogy Sourcebook]]''</ref>
+|line=
+|model=Modified [[Barloz-class medium freighter/Legends|''Barloz''-class heavy freighter]]<ref name="g4">{{GamerCite|4|Ships of the Smuggler's Alliance}}</ref>
+|type=Space [[Transport/Legends|transport]]<ref name="g4" />
+|cost=*New: 300,000 credits<ref name="g4" />
+*Used: 125,000 credits<ref name="g4" />
+|modifier=
+|sysmods=
+|length=41 meters<ref name="TLCSB" /><ref name="TTS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="TLCSB" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="TLCSB" />
+*Backup: Class 8.0<ref name="TLCSB" />
+|hdrange=
+|hdsystem=Equipped<ref name="g4" />
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="TLCSB" />
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="TLCSB" />
+|avionics=
+|maincomp=
+|countermeasures=Yes<ref name="TLCSB" />
+|armament=*[[Quad turbolaser cannon/Legends|Quad turbolaser cannons]] (3)<ref name="TLCSB" /><ref name="TTS" /><ref name="g4" />
+*[[Concussion missile launcher/Legends|Concussion missile launcher]] (4)<ref name="TLCSB" /><ref name="TTS" /><ref name="g4" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="TLCSB" />
+*Co-pilot/[[Gunner/Legends|Gunner]] (1)<ref name="g4" />
+|skeleton=
+|passengers=4<ref name="TLCSB" />
+|capacity=70 metric tons<ref name="TLCSB" />
+|cargohandling=
+|consumables=2 months<ref name="TLCSB" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Smugglers' Alliance]]
+|navy=
+|fleet=
+|owners=[[Clyngunn]]<ref name="TLCSB" />
+|captains=
+|registry=
+|aliases=
+}}
+The '''''Lady Sunfire''''', a modified [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] [[Barloz-class medium freighter/Legends|''Barloz''-class freighter]], was the personal [[Starship/Legends|ship]] of of the [[Smuggler/Legends|smuggler]] [[Clyngunn]] the [[ZeHethbra]]. It was armed with three [[Quad turbolaser cannon/Legends|quad turbolaser cannons]]<ref name="TLCSB" /><ref name="TTS" /><ref name="g4" /> and four aft-firing [[Concussion missile/Legends|concussion missile]] launchers. However, due to the larger powerplant needed for the Lady Sunfire's weapons, the ship could only carry 70 metric tons of cargo as a result.<ref name="TLCSB" /><ref name="TTS" /> The ''Lady Sunfire'' was configured to operate with a crew consisting only of Clyngunn and his [[R3-series astromech droid/Legends|R3-series astromech droid]], which was programmed to operate silently.<ref name="TLCSB" /><ref name="TTS" />
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]'' {{1stm}}
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 2001-04-17 -->{{GamerCite|3|The Smugglers Alliance}}
+*<!-- 2001-06-19 -->{{GamerCite|4|Ships of the Smuggler's Alliance}}
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2008-12-09 -->{{CSWECite|I||''Barloz''-class medium freighter}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Barloz-class medium freighters]]
+[[Category:Starships of the Smugglers' Alliance]]

@@ -1,0 +1,92 @@
+{{Top|leg}}
+{{Otheruses|Lancet}}
+{{RepulsorliftVehicle
+|image=[[File:Lancet-EaW.jpg]]
+|name=Lancet Aerial Artillery
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]
+|line=[[TIE series/Legends|TIE Series]]
+|model=Lancet Aerial Artillery<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|type=[[Repulsorcraft/Legends|Repulsorcraft]]
+|cost=Not available for sale<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=850 [[Kilometer per hour/Legends|km/h]]<ref name="RECG" />
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Proton beam cannon]] (1)<ref name="RECG" />
+*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="RECG" />
+*[[Gunner/Legends|Gunner]] (1)<ref name="RECG" />
+|skeleton=
+|passengers=None<ref name="RECG" />
+|capacity=850 [[Kilogram/Legends|kilograms]]<ref name="RECG" />
+|cargohandling=
+|consumables=2 [[Standard day/Legends|days]]<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=Air-to-ground assault
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="RECG" />
+}}
+{{Quote|Lancet standing by.|Anonymous Lancet pilot|<ref name="Star Wars: Empire at War: Forces of Corruption">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>}}
+The '''Lancet Aerial Artillery''' was an [[Galactic Empire/Legends|Imperial]] air vehicle derived from both the [[TIE series/Legends|TIE Series]] and the [[Lambda-class T-4a shuttle/Legends|''Lambda''-class shuttle]] family.
+
+==Characteristics==
+{{Quote|Blast them out!|Anonymous Lancet pilot|<ref name="Star Wars: Empire at War: Forces of Corruption" />}}
+[[File:LAA_bombing.jpg|thumb|left|A Lancet in action.]]
+
+Blending the dual cylindrical pods of the [[TIE/sa tactical bomber/Legends|TIE/sa bomber]] with the flat-bodied tri-wing configuration of the ''Lambda''-class [[Shuttle/Legends|shuttle]], Lancets were armed with a powerful [[proton beam cannon]] centrally mounted on the fore of the fuselage and angled optimally for air-to-ground attacks. However, the solar array used for TIE's was incorporated into the tri-wing form. They also had 2 anti-air systems to defend themselves.
+
+Like their spacefaring relatives, their lack of combat [[Deflector shield/Legends|shields]] made them vulnerable to anti-aircraft [[Laser cannon/Legends|laser]] and [[Mass-driver cannon/Legends|mass-driver cannons]].
+
+The Lancet was capable of causing tremendous damage to land-based targets. However, its weapons were found to be less effective against mobile targets.
+
+==Behind the scenes==
+The game data file MODELS.MEG refers to the Lancet as the "TIE Lancet," but this is not the craft's in-game label.
+
+==Appearances==
+*''[[Star Wars: Empire at War: Forces of Corruption]]'' {{1st}}
+
+==Sources==
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Lancet Aerial Artillery}}
+{{Reflist}}
+
+{{TIE}}
+
+{{Interlang
+|de=Lancet-Luftartillerie
+|es=Artillería Aérea Lanceta
+|fi=Lancet Aerial Artillery
+|uk=Повітряна артилерія «Ланцет»
+}}
+
+[[Category:Atmospheric repulsorcraft models]]
+[[Category:TIE series models]]
+[[Category:Vehicle classes of the Galactic Empire]]
