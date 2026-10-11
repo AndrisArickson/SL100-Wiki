@@ -1,0 +1,17 @@
+{{SL100 Weapon
+|name=Example blaster pistol (TEMPLATE - numbers are placeholders)
+|legends=[[DL-44 heavy blaster pistol/Legends]]
+|group=Blaster
+|damage=+8
+|range=Medium
+|price=See Legends article - convert to SL100 credits
+|availability=Scarce
+|encumbrance=1
+|qualities=Reliable, Ranged
+|notes=Replace every value above with the final SL100 rules once the damage and economy scales are decided.
+}}
+
+'''Example blaster pistol''' shows the layout for game-statistics pages: a {{SL100 Weapon}} infobox followed by rules text and a link back to the Legends source article.
+
+[[Category:SL100]]
+[[Category:SL100 weapons]]

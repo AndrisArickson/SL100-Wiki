@@ -1,0 +1,38 @@
+local p = {}
+
+p.knownArchiveDates = {	
+	["content/star-wars-legendes-kenobi"] = "20250418192445",
+	["content/star-wars-la-haute-republique-la-lumiere-des-jedi-tome-1"] = "20240806002356",
+	["content/star-wars-la-haute-republique-l-orage-gronde-tome-2"] = "20250418201231",
+	["content/star-wars-la-haute-republique-maitretempete"] = "20240806051755",
+	["content/star-wars-la-haute-republique-la-chute-de-l-etoile-tome-3"] = "20250115000344",
+	["content/star-wars-la-haute-republique-convergence-tome-4"] = "20230606115542",
+	["content/star-wars-la-haute-republique-cataclysme-tome-5"] = "20240806235454",
+	["content/star-wars-la-haute-republique-l-il-des-tenebres-tome-6"] = "20241113195519",
+	["content/star-wars-haute-republique-tome-7-la-tentation-de-la-force"] = "20250418195918",
+	["content/star-wars-ahsoka|text=Star Wars : Ahsoka"] = "20230606115542",
+	["content/star-wars-thrawn"] = "20240807000932",
+	["content/star-wars-episode-7-le-reveil-de-la-force"] = "20240806222146",
+	["content/star-wars-episode-8-les-derniers-jedi"] = "20240807001926",
+	["content/star-wars-episode-9-l-ascension-de-skywalker"] = "20240807004312",
+	["content/star-wars-episode-1-la-menace-fantome"] = "20240806015648",
+	["content/star-wars-episode-2-l-attaque-des-clones"] = "20240806002356",
+	["content/star-wars-episode-3-la-revanche-des-sith"] = "20240806002356",
+	["content/star-wars-episode-4-un-nouvel-espoir"] = "20240812035347",
+	["content/star-wars-episode-5-l-empire-contreattaque"] = "20231022141156",
+	["content/star-wars-episode-6-le-retour-du-jedi"] = "20230506104032",
+	["content/star-wars-dark-plagueis"] = "20240806002356",
+	["content/star-wars-la-croisade-noire-du-jedi-fou-l-heritier-de-l-empire-tome-1"] = "20240807000932",
+	["content/star-wars-la-croisade-noire-du-jedi-fou-la-bataille-des-jedi-tome-2"] = "20240807000932",
+	["content/star-wars-la-croisade-noire-du-jedi-fou-l-ultime-commandement-tome-3"] = "20241113210508",
+	["content/star-wars-the-old-republic-revan-tome-1"] = "20250418203104",
+	["assets/lizzie-logo.svg"] = "20250322175136",
+	["content/star-wars-ahsoka"] = "20230606115542",
+	["content/star-wars-thrawn-alliances-tome-2"] = "20240807000932",
+	["content/star-wars-dark-bane-la-voie-de-la-destruction-tome-1"] = "20250617211030",
+	["content/star-wars-thrawn-trahison-tome-3"] = "20250617210805",
+	["content/star-wars-thrawn-l-ascendance-chaos-croissant-tome-1"] = "20251208231937",
+	["content/star-wars-dark-bane-la-regle-des-deux-tome-2"] = "20260116023800",
+}
+
+return p

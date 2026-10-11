@@ -1,0 +1,36 @@
+local p = {}
+
+p.knownArchiveDates = {
+	['http://blog.theswca.com/2017/10/woktots-kenners-preschool-star-wars-toys.html'] = '20220520010210',
+	['http://theswca.com/images-speci/mailaways/survival.html'] = '20220926013031',
+	['http://theswca.com/images-toys/12inch/12in-leia.html'] = '20220127232323',
+	['http://theswca.com/images-toys/figuretoys/battlewagon.html'] = '20120628012105',
+	['http://theswca.com/images-toys/figuretoys/impcruiser.html'] = '20210308133928',
+	['http://theswca.com/images-toys/figuretoys/impsniper.html'] = '20210126055605',
+	['http://theswca.com/images-toys/figuretoys/jabbadungeon-potf.html'] = '20170423172607',
+	['http://theswca.com/images-toys/figuretoys/jabbadungeon-rotj.html'] = '20160324193822',
+	['http://theswca.com/images-toys/figuretoys/sandskimmer.html'] = '20220323184849',
+	['http://theswca.com/images-toys/figuretoys/securityscout.html'] = '20220323185203',
+	['http://theswca.com/index.php?action=disp_item&item_id=39649'] = '20211207125009',
+	['http://theswca.com/index.php?action=disp_item&item_id=39653'] = '20211207124859',
+	['http://theswca.com/index.php?action=disp_item&item_id=39676'] = '20160410142304',
+	['http://theswca.com/index.php?action=disp_item&item_id=39678'] = '20170707123518',
+	['http://theswca.com/index.php?action=disp_item&item_id=39687'] = '20210927153732',
+	['http://theswca.com/index.php?action=disp_item&item_id=41922'] = '20140928151037',
+	['http://vintagekennerstarwars.blogspot.com/2018/02/imperial-attack-base.html'] = '20221031140548',
+	['http://www.12back.com/playsets/destroyer.php'] = '20220505174009',
+	['http://www.batcavetoyroom.com/2012/07/imperial-troops-have-entered-base.html'] = '20210120061417',
+	['https://archive.org/details/star-wars-collections-return-of-the-jedi-catalog-kenner-1982/mode/2up'] = '20220520010210',
+	['https://archive.org/details/star-wars-collections-return-of-the-jedi-catalog-kenner-1982/page/n15/mode/2up'] = '20220520010210',
+	['https://futureofstarwars.wordpress.com/2021/07/01/retro-review-mini-rig-desert-sail-skiff'] = '20220324154040',
+	['https://mrpalitoy.webs.com/swlargeactionfigures.htm'] = '20220127232323',
+	['https://www.alwayswantedonefinds.com/listing/615276691/1984-kenner-ewok-fire-cart-return-of-the'] = '20230206142553',
+	['https://www.dallasvintagetoys.com/1984kennerstarwarsewokspreschooltreehousefamilyhut1a.aspx'] = '20211021224403',
+	['https://www.jeditemplearchives.com/vintagepics/#potf'] = '20210126055605',
+  ["https://happybeeps.net/starwars-merchandises/r2-d2-4198/"] = "20231217162829",
+  ["https://futureofstarwars.wordpress.com/2021/07/06/retro-review-mlc-3-mobile-laser-cannon-mini-rig"] = "20241130214956",
+  ["POTF2hansolo.asp"] = "20210225112806",
+  ["OTC07hansolo.asp"] = "20210226221750",
+}
+
+return p

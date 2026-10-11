@@ -1,0 +1,3 @@
+{{ArchiveAccess/lua/doc}}
+Note that it is preferable to archive Getty pages through ghostarchive.com rather than the Wayback Machine, which often fail to save properly this website. Furthermore, when using a '''PDF asset''', it is preferable to archive the pdf filepage itself (on the Wayback Machine), rather than the asset page.
+<includeonly>[[Category:Internet citation template archives|{{SUBPAGENAME}}]]</includeonly>
