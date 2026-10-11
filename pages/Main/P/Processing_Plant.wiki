@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{SpaceStationClass
+|image=[[File:PP-XWA.png]]
+|name=Processing Plant
+|designer=
+|manufacturer=[[Telgorn Corporation]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=Space stations<ref name="XWA" />
+|type=
+|cost=
+|length=232.37 meters<ref name="XWA" />
+|width=386.04 meters<ref name="XWA" />
+|height=545.09 meters<ref name="XWA" />
+|diameter=
+|mass=
+|max accel=Immobile<ref name="XWA" />
+|mglt=
+|max speed=
+|maneuverability=
+|engine=None<ref name="XWA" />
+|hyperdrive=None<ref name="XWA" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 640 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 384 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None<ref name="XWA" />
+|complement=
+|bays=1<ref name="XWA" />
+|escapepods=
+|crew=187<ref name="XWA" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=Airlocks (3)<ref name="XWA" />
+|availability=
+|role=[[Mining/Legends|Mining]] utility station<ref name="XWA" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Processing Plant''' was a mining utility station built by [[Telgorn Corporation]].
+
+==Description==
+Processing Plants were structures built to process minerals extracted from [[Asteroid/Legends|asteroids]] and other astronomical bodies with [[Mining/Legends|mining]] operations. They were generally placed near [[Asteroid field/Legends|asteroid fields]] and [[Moon/Legends|moons]].<ref name="XWA" />
+
+The Processing Plant was designed for human habitation, with a small command center located at the end of a long spine, and a small [[Hangar/Legends|hangar]] located in the central section. Total crew complement was 187 beings. The station was unarmed, but did have a [[Deflector shield generator/Legends|shield generator]].<ref name="XWA" />
+
+==History==
+The Processing Plant was built by [[Telgorn Corporation]], a company that produced several types of [[Space station/Legends|space stations]]. They were used by a variety of organizations.<ref name="XWA" /> At least one Processing Plant was used during the [[Galactic Civil War/Legends|Galactic Civil War]] to supply the [[Galactic Empire/Legends|Empire]], [[AL-82673]] in the asteroid field of the [[Kessel system/Legends|Kessel system]].<ref name="xwab6m7">''[[Star Wars: X-Wing Alliance]]'' Battle 6, Mission 7: "Family Reunion"</ref>
+
+==Behind the scenes==
+Though the station's description in ''[[Star Wars: X-Wing Alliance]]'' lists them as being in use by "various,"<ref name="XWA" /> only one Processing Plant is ever seen, in Battle 6, Mission 7, "Family Reunion."<ref name="xwab6m7" />
+
+==Appearances==
+*''[[Star Wars: X-Wing Alliance]]''
+
+==Sources==
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|pl=Stacja typu Processing Plant
+}}
+
+[[Category:Mining technology]]
+[[Category:Telgorn Corporation products]]

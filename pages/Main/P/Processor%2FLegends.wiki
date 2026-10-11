@@ -1,0 +1,56 @@
+{{Top}}
+{{Quote|The case is inconclusive, but the processor doesn't appear to be at fault. The subject claims he committed crimes simply 'for love of money.'|[[Industrial Automaton/Legends|Industrial Automaton]] investigators, after interviewing [[4-LOM/Legends|4-LOM]]|<ref name="NEGTD">''[[The New Essential Guide to Droids]]''</ref>}}
+A '''processor''' was a type of component used in technology<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref> such as [[Droid/Legends|droids]] so that they could function without the aid of a signals from a centralized computer. Types of processors included [[Basic processor|basic]] and [[Heuristic processor/Legends|heuristic processors]]. When a droid was built properly, it was usually the processors that were the starting point, followed by the physical structure.<ref name="NEGTD" /> Processors were also used in medical technology, such as [[Athakam Medtech/Legends|Athakam]]/[[Rhinnal State Medical Academy|RSMA's]] [[Bioscan Unit]], and miniaturized processors were present in [[Starship/Legends|starship]] [[Sensor array/Legends|sensor arrays]] to gather data from the [[Sensor/Legends|sensors]].<ref name="EGWT" />
+
+Processors enabled droids to perform a variety of specialized functions. Advanced processors of the [[BX-series droid commando/Legends|BX-series droid commandos]] allowed them to react quicker than their [[Battle droid/Legends|battle droid]] cousins, making them more effective combatants.<ref name="SWE Commando droid">{{SWE|technology|commandodroid|commando droid}}</ref> The [[Dealer droid/Legends|Automated sabacc dealer droid]] had sophisticated processors which enabled them to quickly spot cheaters.<ref name="EGTD">''[[The Essential Guide to Droids]]''</ref>
+
+Processors could be located in different parts of a droid's structure. In the [[B1-series battle droid/Legends|B1-Series battle droid]], a specialized movement processor was located at the back of the head.<ref name="NEGTD" /> The [[Central processor/Legends|central processor]] of the [[Hyena-class bomber/Legends|hyena-class bomber]] droid was located in its starboard [[Hull/Legends|hull]] unit.<ref name="SWE Hyena bombers">{{SWE|technology|hyenabombers|hyena bombers}}</ref>. The processor of the [[HMP droid gunship/Legends|HMP droid gunship]] was located in a cockpit-like structure underneath the hull.<ref name="CSWE">''[[The Complete Star Wars Encyclopedia]]''</ref>
+
+State of the art digital processors were utilized in [[Cybernetics/Legends|cybernetic]] limb replacements, such as [[Luke Skywalker/Legends|Luke Skywalker's]] [[L-hand 980]] prosthetic.<ref name="CCG-Bionic">{{CCG|set=Cloud City Limited|cardname=Bionic Hand}}</ref>
+
+{{Tech-stub}}
+
+==Appearances==
+*''[[Star Wars: The Old Republic]]'' {{Mo}}
+*''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]'' {{Mo}}
+*{{WEGCite|story=The Mynock Conspiracy|book=Supernova (sourcebook)}}
+*{{JournalCite|6|Finder's Fee|reprint=1}}
+*{{JournalCite|14|Special Ops: Drop Points}} {{ID|CPU}}
+
+==Sources==
+{{ScrollBox|content=
+{{MoreSources}}
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]'' {{ID|processing unit}}
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Toria Tell's Droid Journal (article)}}
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]''
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bionic Hand}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2002-05-XX -->''[[Star Wars Roleplaying Game Revised Core Rulebook]]''
+*<!-- 2004-12-21 -->[[Star Wars: Knights of the Old Republic II: The Sith Lords: Prima Official Game Guide|''Star Wars: Knights of the Old Republic II: The Sith Lords'': Prima Official Game Guide]]
+*<!-- 2005-01-20 -->{{Wizards|url=default.asp?x=starwars/article/sw20050120a|text=We Don't Need That Scum}}
+*<!-- 2006-06-27 -->''[[The New Essential Guide to Droids]]''
+*<!-- 2007-05-24 -->''[[Star Wars Roleplaying Game Saga Edition Core Rulebook]]''
+*<!-- 2008-10-16 -->{{Wizards|url=default.asp?x=starwars/article/PHPhindar|series=Planet Hoppers|text=Phindar}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2014-04-25 -->{{SWE|technology|commandodroid|commando droid}}
+*<!-- 2014-04-25 -->{{SWE|technology|hyenabombers|hyena bombers}}
+*<!-- 2015-03-20 -->{{SWIA|set=IG-88 Villain Pack|cardname=Binary Revolution|link=Binary_Revolution}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Data storage and processing]]
+[[Category:Droid parts]]
+
+{{RelatedCategories
+|[[Category:Droid processors]]
+}}

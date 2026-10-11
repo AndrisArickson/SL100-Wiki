@@ -1,0 +1,69 @@
+{{Top|leg}}
+{{Youmay|[[Iokath]] transportation system|[[Transit tube]]}}
+{{GroundVehicle
+|image=[[File:IokathTram-SWTOR.png]]
+|name=Pneumatic tram
+|designer=[[Iokath]]<ref name="codex">{{TORcite|exp=kotet|type=codex|Pneumatic Trams}}</ref>
+|manufacturer=Iokath<ref name="codex" />
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Personnel transportation<ref name="codex" />
+*Supplies transportation<ref name="codex" />
+|firstuse=
+|retired=
+|affiliation=
+*Iokath<ref name="codex" />
+*[[Sith Empire (Post–Great Hyperspace War)|Sith Empire]]<ref name="Forgotten">{{TORcite|exp=kotet|type=general|The Forgotten World|[[Iokath]]}}</ref>
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="Forgotten" />
+}}
+'''Pneumatic trams''' were capsules integrated into [[Iokath]] tubes, used for transportation of supplies or personnel. The tubes themselves formed a complex network running through every kilometer of the planetary megastructure, doubling as cooling matrix. Trams were propelled by pressurized gas, and could efficiently transport cargo across entire continents.<ref name="codex" />
+
+==History==
+Pneumatic trams were initially created as an energy-efficient method of moving construction supplies to the far corners of the planet, speeding up [[Iokath]]'s creation tenfold. For centuries, the trams operated without incident - until an act of sabotage ignited the pressurized gas and sparked a catastrophic explosion that killed thousands and leveled a nearby settlement. This attack sparked the [[Iokath Civil War]], a centuries-long conflict that ended with the extinction of every organic species on the planet. When the dust settled, Iokath's droid caretakers fixed the tram system and used it to help repair the damage wrought by their deceased creators.<ref name="codex" />
+
+In [[3629 BBY]],<ref name="Date">{{TOR_updates|5.2}}</ref> the [[Sith Empire (Post–Great Hyperspace War)|reconstituted Sith Empire]] and the [[Galactic Republic/Legends|Galactic Republic]] established a presence on [[Iokath]], taking control over their own parts of the tube network to move across facilities on the planet.<ref name="Forgotten" /> In plundering Iokath for resources, small sections of the tubes, along with trams within, were extracted and sold off world.<ref name="Tube deco">{{TORcite|exp=kotet|type=other|Decoration: "Iokath Transport Tube"}}</ref>
+
+==Appearances==
+*''[[Star Wars: The Old Republic: Knights of the Eternal Throne]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+
+[[Category:Transportation technology]]
+[[Category:Iokath technology]]
