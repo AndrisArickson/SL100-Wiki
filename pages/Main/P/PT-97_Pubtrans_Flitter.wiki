@@ -1,0 +1,57 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=PT-97 Pubtrans Flitter
+|designer=
+|manufacturer=[[Incom Corporation/Legends|Incom Corporation]]
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=7.5 [[Meter/Legends|Meters]]
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=1 [[Kilometer/Legends|kilometer]]
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Public transport
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''PT-97 Pubtrans Flitter''' was a model of [[Airspeeder/Legends|flitter]] designed by [[Incom Corporation/Legends|Incom Corporation]] and used by public transportation systems. It measured 7.5 meters in length, and had a flight ceiling of up to a kilometer. The PT-97 could transport up to two passengers, and required a pilot to operate.
+
+==Sources==
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+
+[[Category:Airspeeder models]]
+[[Category:Incom Corporation products]]

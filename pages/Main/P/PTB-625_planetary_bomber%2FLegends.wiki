@@ -1,0 +1,83 @@
+{{Top|fca}}
+{{Update|[[Stay on Target (sourcebook)|''Stay on Target'']]}}
+{{RepulsorliftVehicle
+|image=[[File:PTB-625_heavy_bomber.png]]
+|name=PTB-625 planetary bomber
+|designer=
+|manufacturer=*[[Incom Corporation/Legends|Incom Corporation]]<ref name="ROTS:ICS">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref><ref name="Target">[[Stay on Target (sourcebook)|''Stay on Target'']]</ref>
+*[[Sublight Products Corporation]]<ref name="ROTS:ICS" /><ref name="Target" />
+|line=
+|model=
+|type=[[Airspeeder/Legends|Airspeeder]]<ref name="Target" />
+|cost=130,000 [[Galactic Credit Standard/Legends|credits]]<ref name="Target" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=100 [[Kilometer/Legends|kilometers]]<ref name="Target" />
+|maneuverability=
+|engine=Ion turbofan thrusters (6)<ref name="Target" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Twin light [[Laser cannon/Legends|laser cannons]]<ref name="Target" />
+*Twin [[autoblaster]]s<ref name="Target" />
+*[[Proton bomb/Legends|Proton bomb]] bay<ref name="Target" />
+|complement=
+|bays=
+|escapepods=5<ref name="Target" />
+|crew=5<ref name="Target" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Planetary bomber<ref name="CSWE">{{CSWECite|II|393|NTB-630}}</ref>
+|firstuse=Before [[22 BBY/Legends|22 BBY]]<ref name="Target" />
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="ROTS:ICS" /><ref name="Target" />
+**[[Republic Navy/Legends|Republic Navy]]<ref name="ROTS:ICS" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="Target" />
+}}
+The '''PTB-625 planetary bomber''' was a [[Bomber/Legends|bomber]] that was jointly produced by the [[Incom Corporation/Legends|Incom Corporation]] and [[Sublight Products Corporation]].<ref name="ROTS:ICS" /> With a narrow spaceframe flanked by large [[Engine/Legends|engines]], the PTB-625 resembled other Incom/Subpro [[Starfighter/Legends|starfighters]] such as the [[Z-95 Headhunter/Legends|Z-95 Headhunter]], [[NTB-630 naval bomber/Legends|NTB-630 naval bomber]], and the [[Aggressive ReConnaissance-170 starfighter/Legends|ARC-170]].<ref name="DB">{{DB|starship|arc170fighter|ARC-170 starfighter}}</ref> The PTB-625 was not as maneuverable as the NTB-630 and was designed for [[Planet/Legends|planetary]] bombardment.<ref name="CSWE" /> It was in common use by [[Galactic Republic/Legends|Republic]] [[Republic Navy/Legends|Navy]] forces in the [[Outer Rim Territories/Legends|Outer Rim]] during the [[Clone Wars/Legends|Clone Wars]]<ref name="ROTS:ICS" /> of [[22 BBY/Legends|22 BBY]].<ref name="The New Essential Chronology">''[[The New Essential Chronology]]''</ref>
+
+==Behind the scenes==
+The PTB-625 bomber was first mentioned in the [[2005]] ''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'', a book detailing vehicles seen in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]. Later, the page mentioning the PTB-625 was reprinted in ''[[Star Wars: Complete Cross-Sections]]'', and the bomber received a mention in the [[Databank (original)|Databank]] entry of the ARC-170 starfighter on [[StarWars.com]], as well as in ''[[The Complete Star Wars Encyclopedia]]'' entry of the NTB-630 bomber. The PTB-625 was later mentioned in [[2012]]'s ''[[The Essential Guide to Warfare]]'', by [[Jason Fry]] and [[Paul R. Urquhart]]. It was eventually pictured in The ''Star Wars: Age of Rebellion'' Rules Supplement [[Stay on Target (sourcebook)|''Stay on Target'']].
+
+The written profile of the PTB-625 in ''Stay on Target'' is completely at odds with the illustration used for said profile, explicitly calling the vehicle a “design departure from other Incom/SubPro products” and describing it as a massive flying wing driven by six ion turbofan thrusters, armed with twin light laser cannons mounted in a forward turret and fixed mountings on the dorsal and ventral fuselage each containing twin autoblasters. There has been no official explanation for the discrepancy as of this writing.
+
+==Sources==
+{{Mediacat|imagecat=Images of PTB-625 planetary bombers}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'' {{1stm}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2008-12-09 -->{{CSWECite|II||NTB-630}}
+*<!-- 2011-09-13 -->{{DB|starship|arc170fighter|ARC-170 starfighter}} {{C|as PTB-626}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']] {{1stp}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Bombardero planetario PTB-625/Leyendas
+}}
+
+[[Category:Bomber classes]]
+[[Category:Incom Corporation products]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Subpro Corporation products]]

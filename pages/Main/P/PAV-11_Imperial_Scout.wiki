@@ -1,0 +1,69 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:PAV-11.jpg]]
+|name=PAV-11 Imperial Scout
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Submarine/Legends|Submarine]]<ref name="TOR">{{TORcite|exp=lots|type=faction|Imperial|Retaliation|Manaan}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]<ref name="Bundle">{{TORcite|exp=lots|type=item|PAV-11 Imperial Scout|Cartel Market}}</ref>
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Scout<ref name="Bundle" />
+|firstuse=
+|retired=
+|affiliation=[[Sith Empire (Post–Great Hyperspace War)|Sith Empire]]<ref name="TOR" />
+}}
+The '''PAV-11 Imperial Scout''' was a model of [[Submarine/Legends|submarine]] that was used by the [[Sith Empire (Post–Great Hyperspace War)|Sith Empire]] during the [[Third Galactic War]], including during the [[Invasion of Manaan]].<ref name="TOR" />
+{{Veh-stub}}
+
+==Behind the scenes==
+[[File:PAV-11_Imperial_Scout.jpg|thumb|right|220px|The player speeder version of the submersible.]]
+The PAV-11 Imperial Scout first appeared in the [[Manaan/Legends|Manaan]] [[Invasion Zone]] in the video game ''[[Star Wars: The Old Republic: Legacy of the Sith]]''.<ref name="TOR" /> It was later added to the game as a player mount via the [[Cartel Market]]. Although it was a submersible, this mount was used by players as a regular landspeeder mount.<ref name="Bundle" />
+
+==Appearances==
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]] {{1stID|PAV-11 Imperial Scout}}
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]'' {{1st}}
+
+==Souces==
+*{{TORweb|url=info/news/%5Bnews-category%5D/20250819|text=Cartel Market Additions: Game Update 7.7.1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Submarine models]]
+[[Category:Vehicle classes of the Sith Empire]]

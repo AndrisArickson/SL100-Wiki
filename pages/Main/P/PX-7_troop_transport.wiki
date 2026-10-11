@@ -1,0 +1,60 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=PX-7 troop transport
+|designer=
+|manufacturer=[[Nen-Carvon]]
+|line=PX
+|model=7
+|type=Tracked
+|cost=
+|modifier=
+|sysmods=
+|length=13.25 meters
+|width=
+|height=
+|mass=
+|max accel=
+|speed=130 km/h
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=Twin [[Blaster cannon/Legends|Light blaster cannon]] (fire-linked, turret)
+|complement=
+|bays=
+|escapepods=
+|crew=*1 pilot
+*1 gunner
+|skeleton=
+|passengers=6 troops
+|capacity=100 metric tons
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Mechanized Infantry
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''PX-7 Tracked Troop Transport''' was a ground vehicle produced by [[Nen-Carvon]] for the [[Imperial Military/Legends|Imperial Military]].
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 2001-07-24 -->[[Star Wars Gamer 5|''Star Wars Gamer'' 5]]
+*<!-- 2002-06-13 -->{{Wizards|url=starwars/article.asp?x=sw20020613atalnar&c=rpg|series=Talnar's Rescue|text=Part 1}}
+
+[[Category:Crawler and wheeled vehicle models]]
+[[Category:Nen-Carvon products]]
+[[Category:Vehicle classes of the Galactic Empire]]

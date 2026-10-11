@@ -1,0 +1,109 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:PB-950_patrol_boat_SoF.png]]
+|name=PB-950 patrol boat
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="P&P" />
+|line=
+|model=PB-950 patrol boat
+|type=Light [[Corvette/Legends|corvette]]
+|cost=150,000
+|modifier=
+|sysmods=
+|length=37 [[Meter/Legends|meters]]<ref name="P&P" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|km/h]]<ref name="P&P" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="P&P" />
+*Class 12 {{C|backup}}<ref name="P&P" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="P&P" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Quad laser cannon/Legends|Quad laser cannon]] [[Turret/Legends|turret]] (1)<ref name="P&P" />
+*[[Concussion missile/Legends|Concussion missile]] turret (1)<ref name="P&P" />
+*Medium [[Ion cannon/Legends|ion cannons]] (2)<ref name="P&P" />
+|complement=
+|bays=
+|escapepods=2
+|crew=*2 pilots<ref name="P&P" />
+*2 gunners<ref name="P&P" />
+|skeleton=
+|passengers=8 {{C|troops}}<ref name="P&P" />
+|capacity=180 [[Metric ton/Legends|metric tons]]<ref name="P&P" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="P&P" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Star system/Legends|System]] patrol
+*Customs
+*Pirate vessel
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Galactic Empire/Legends|Galactic Empire]]
+*[[Zann Consortium/Legends|Zann Consortium]]
+*[[Pirate/Legends|Pirates]]
+*[[Smuggler/Legends|Smugglers]]
+*[[Sector Ranger/Legends|Sector Rangers]]
+}}
+The '''PB-950 Patrol Boat''' was a patrol craft produced by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] for three hundred [[Standard year/Legends|years]] up until the end of the [[Clone Wars/Legends|Clone Wars]].
+
+==History==
+Seeing widespread use during the [[Old Republic era|Old Republic]] as a system defense and customs interdiction vessel, the series' sturdy design and reliability came to be a welcome addition to many system and sector fleets.<ref name="AJ9">[[Star Wars Adventure Journal 9|''Star Wars Adventure Journal'' 9]]</ref>
+
+<nowiki> </nowiki>Despite seeing a last surge of popularity at the onset of the [[Clone Wars/Legends|Clone Wars]] before production was halted to make way for the larger and more powerful [[Imperial Customs Corvette|Light corvette]], there are still tens of thousands of patrol boats in operation rounding out [[Imperial Office of Customs/Legends|Imperial Customs]] forces and system defense forces throughout the [[Galactic Empire/Legends|Galactic Empire]],<ref name="P&P">''[[Pirates & Privateers]]''</ref> with the [[Corellian/Legends|Corellians]] employing these craft during the original [[Corellian Crisis]].
+
+==Design==
+[[File:PB-950_deckplan.png|thumb|left|''PB-950'' deck plans]]
+A rugged and reliable ship, the clunky PB-950 was known for its ability to withstand considerable punishment due to its double hulled design.<ref name="SOF">''[[Suns of Fortune]]''</ref> In addition, despite the ship's age, its armament sported enough firepower to deal with [[Smuggler/Legends|smugglers]] and [[Pirate/Legends|pirates]], its stock ion cannons being used to immobilize ships before they could escape.<ref name="SOF" />
+
+Due to these qualities, while the ship declined in dedicated military use, the ship remained popular with smugglers and pirates alike, who appreciated its robust design.<ref name="SOF" />
+
+However, due to the ship's age, replacement parts were scarce and expensive.<ref name="AJ9" /> Many private owners, in order to counter prohibitive costs, elected to entirely replace damaged components with modern equivalents rather than attempt to procure original parts.<ref name="AJ9" /> As a result, ships such as the ''[[Lumrunner]]'' were often extensively upgraded and modified when compared to their stock Clone Wars era counterparts.<ref name="AJ9" />
+
+==Known ships==
+*[[Diligent (PB-950 patrol boat)|''Diligent'']]<ref name="SOF" />
+*''[[Lumrunner]]''
+*''[[Tesserahedron]]''
+
+==Appearances==
+*{{JournalCite|9|Lumrunners}} {{1st}}
+*''[[Ambush at Corellia]]''
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Nave de patrulla PB-950
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Patrol craft classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Galactic Republic]]
+
+{{RelatedCategories
+|[[Category:PB-950 patrol boats]]
+}}
