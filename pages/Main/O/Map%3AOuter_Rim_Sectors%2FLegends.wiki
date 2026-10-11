@@ -1,0 +1,202 @@
+{
+    "mapImage": "Outer Rim Sectors.jpg",
+    "pageCategories": [
+        "Interactive Maps of multiple sectors",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1349,
+            1727
+        ]
+    ],
+    "origin": "top-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Featured articles",
+            "color": "#ffff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Good articles",
+            "color": "#00ff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Comprehensive articles",
+            "color": "#ff0000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Stub sector pages",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "id": "1",
+            "categoryId": "3",
+            "position": [
+                944,
+                1469
+            ],
+            "popup": {
+                "title": "Merel sector",
+                "description": ".",
+                "link": {
+                    "url": "Merel_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "2",
+            "categoryId": "2",
+            "position": [
+                856,
+                1456
+            ],
+            "popup": {
+                "title": "Torch Nebula",
+                "description": ".",
+                "link": {
+                    "url": "Torch_Nebula\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "3",
+            "categoryId": "1",
+            "position": [
+                515,
+                1389
+            ],
+            "popup": {
+                "title": "Bozhnee sector",
+                "description": ".",
+                "link": {
+                    "url": "Bozhnee_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "4",
+            "categoryId": "1",
+            "position": [
+                820,
+                1351
+            ],
+            "popup": {
+                "title": "Juris sector",
+                "description": ".",
+                "link": {
+                    "url": "Juris_sector",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                923.5,
+                1511.5
+            ],
+            "popup": {
+                "title": "Samix sector",
+                "description": "",
+                "link": {
+                    "url": "Samix sector",
+                    "label": "Samix sector (canon)"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                906,
+                1461.5
+            ],
+            "popup": {
+                "title": "Skine sector",
+                "description": "",
+                "link": {
+                    "url": "Skine sector",
+                    "label": "Skine sector"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1028,
+                1379.5
+            ],
+            "popup": {
+                "title": "Pelgrin sector",
+                "description": "",
+                "link": {
+                    "url": "Pelgrin sector",
+                    "label": "Pelgrin sector"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                968.5,
+                1372
+            ],
+            "popup": {
+                "title": "Tolonda sector",
+                "description": "",
+                "link": {
+                    "url": "Tolonda sector",
+                    "label": "Tolona sector"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                882.5,
+                1367.5
+            ],
+            "popup": {
+                "title": "Astal sector",
+                "description": "",
+                "link": {
+                    "url": "Astal sector",
+                    "label": "Astal sector"
+                }
+            },
+            "id": "9"
+        }
+    ]
+}
