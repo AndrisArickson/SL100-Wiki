@@ -1,0 +1,81 @@
+old_name	action	kept_as	new_name	verification	note
+WTC17650 - Star Wars - Revised Core Rulebook.pdf	keep		SW_Revised_Core_Rulebook_WTC17650.pdf		
+01_WTC17650 - Star Wars - Revised Core Rulebook.pdf	delete	WTC17650 - Star Wars - Revised Core Rulebook.pdf		identical	
+WTC88664 - Star Wars - Arms & Equipment Guide.pdf	keep		SW_Arms_and_Equipment_Guide_WTC88664.pdf		
+Star Wars - D20 - Arms & Equipment Guide.pdf	delete	WTC88664 - Star Wars - Arms & Equipment Guide.pdf		same-content	OCR of sample page identical; 97 pp both
+Star Wars d20 - Arms and Equipment Guide.pdf	delete	WTC88664 - Star Wars - Arms & Equipment Guide.pdf		same-content	24 MB lower-quality copy; same pages/first text
+WTC11849 - Star Wars - Darkside Sourcebook.pdf	keep		SW_Dark_Side_Sourcebook_WTC11849.pdf		
+D20 - Star Wars - Errata - Dark Side Sourcebook Errata.pdf	keep		SW_Errata_Dark_Side_Sourcebook.pdf		
+Star Wars - D20 - Errata - Dark Side Sourcebook Errata.pdf	delete	D20 - Star Wars - Errata - Dark Side Sourcebook Errata.pdf		identical	
+WTC17667 - Star Wars - Hero's Guide.pdf	keep		SW_Heros_Guide_WTC17667__variant-161pp.pdf		variant: compare with 185pp WE edition after OCR
+Star Wars - D20 - Hero's Guide (with WE).pdf	keep		SW_Heros_Guide_WTC17667__variant-with-WE-185pp.pdf		variant: compare with 161pp edition after OCR
+WTC17751 - Star Wars - Ultimate Alien Anthology (with WE).pdf	keep		SW_Ultimate_Alien_Anthology_WTC17751__variant-with-WE-229pp.pdf		variant
+Star Wars - D20 - Ultimate Alien Anthology.pdf	keep		SW_Ultimate_Alien_Anthology_WTC17751__variant-225pp.pdf		variant
+WTC12663 - Star Wars - Alien Anthology.pdf	keep		SW_Alien_Anthology_WTC12663.pdf		
+Star Wars RPG - d20 - Alien Anthology - WTC 12663.pdf	delete	WTC12663 - Star Wars - Alien Anthology.pdf		identical	
+WTC11859 - Star Wars - Starships of the galaxy.pdf	keep		SW_Starships_of_the_Galaxy_WTC11859.pdf		
+Star Wars d20 Starships of the galaxy.pdf	delete	WTC11859 - Star Wars - Starships of the galaxy.pdf		identical	
+WTC11837 - Star Wars - Rebellion Era.pdf	keep		SW_Rebellion_Era_WTC11837.pdf		
+WTC17663 - Star Wars - Coruscant and the Core Worlds.pdf	keep		SW_Coruscant_and_the_Core_Worlds_WTC17663.pdf		
+WTC17754 - Star Wars - Galactic Campaign Guide.pdf	keep		SW_Galactic_Campaign_Guide_WTC17754.pdf		
+WTC88572 - Star Wars - Ultimate Adversaries.pdf	keep		SW_Ultimate_Adversaries_WTC88572.pdf		
+WTC88659 - Star Wars - Tempest Feud.pdf	keep		SW_Tempest_Feud_WTC88659.pdf		
+WTC88662 - Star Wars - Power of the Jedi.pdf	keep		SW_Power_of_the_Jedi_WTC88662.pdf		
+d20 - Star Wars - Power of the Jedi Sourcebook.pdf	delete	WTC88662 - Star Wars - Power of the Jedi.pdf		identical	
+WTC88658 - Star Wars - The New Jedi Order Sourcebook.pdf	keep		SW_New_Jedi_Order_Sourcebook_WTC88658__variant-182pp.pdf		variant: same text as 162pp copy at sampled page; 20 extra pages
+Star Wars - D20 - The New Jedi Order Sourcebook.pdf	keep		SW_New_Jedi_Order_Sourcebook_WTC88658__variant-162pp.pdf		variant (not a Geonosis copy despite matching size)
+WTC88887 - Star Wars - Geonosis and the Outer Rim Worlds.pdf	keep		SW_Geonosis_and_the_Outer_Rim_Worlds_WTC88887.pdf		
+Star Wars - D20 - Geonosis and the outer rim worlds.pdf	delete	WTC88887 - Star Wars - Geonosis and the Outer Rim Worlds.pdf		same-content	OCR of sample page identical; 162 pp both
+WTC11794 - Star Wars - Secrets of Naboo.pdf	keep		SW_Secrets_of_Naboo_WTC11794.pdf		
+D20 - Star Wars - Secrets Of Naboo.pdf	delete	WTC11794 - Star Wars - Secrets of Naboo.pdf		same-content	19 MB lower-quality copy; 98 pp both
+WTC11839 - Star Wars - Secrets of Tatooine.pdf	keep		SW_Secrets_of_Tatooine_WTC11839.pdf		
+D20 - Star Wars - Secrets Of Tatooine.pdf	delete	WTC11839 - Star Wars - Secrets of Tatooine.pdf		identical	
+Star Wars - D20 - Secrets of Tatooine.pdf	delete	WTC11839 - Star Wars - Secrets of Tatooine.pdf		identical	
+Star Wars D20 - Secrets of Tatooine.pdf	keep		SW_Secrets_of_Tatooine__variant-95pp.pdf		variant: 95 pp, content did not match sampled page of the 94 pp copy
+WTC11963 - Star Wars - Living Force Campaign Guide.pdf	keep		SW_Living_Force_Campaign_Guide_WTC11963.pdf		
+wtc11963 - Living Force.pdf	delete	WTC11963 - Star Wars - Living Force Campaign Guide.pdf		identical	
+D20 - Star Wars - Living Force Campaign Guide.pdf	delete	WTC11963 - Star Wars - Living Force Campaign Guide.pdf		same-content	13 MB lower-quality copy; 66 pp both
+D20 - Star Wars - Tales Of The Jedi Companion.pdf	keep		SW_Tales_of_the_Jedi_Companion.pdf		
+WTC11833 - Star Wars - Gamemaster Screen.pdf	keep		SW_Gamemaster_Screen_WTC11833.pdf		
+D20 - Star Wars - Game Master Screen.pdf	delete	WTC11833 - Star Wars - Gamemaster Screen.pdf		identical	
+Star Wars - D20 - Game Master Screen.pdf	delete	WTC11833 - Star Wars - Gamemaster Screen.pdf		near-identical	8 pp, 5.87 MB both, bytes differ by 2.4 KB (metadata)
+WTC11795 - Star Wars - Character Record Sheets.pdf	keep		SW_Sheet_Character_Records_WTC11795.pdf		
+D20 - Star Wars - Darkside Character Sheet.pdf	keep		SW_Sheet_Dark_Side_Character.pdf		
+D20 - Star Wars - Map - Royal Naboo Starship Technical Layout.pdf	keep		SW_Map_Royal_Naboo_Starship_Technical_Layout.pdf		
+Star Wars RPG - Ship Sheeta.pdf	keep		SW_Sheet_Ship_Sheeta.pdf		
+Star Wars D20 - Imperial Source Book.pdf	keep		SW_Imperial_Sourcebook_GURPS.pdf		GURPS book, not d20
+Star Wars RPG - d20 - Platt's Smugglers Guide - WEG.pdf	keep		SW_Platts_Smugglers_Guide_WEG-d6.pdf		West End Games d6 book
+Star Wars RPG - d20 - The Smugglers of Naboo.pdf	keep		SW_The_Smugglers_of_Naboo.pdf		
+Star Wars - d20 - Smuggling Rules.pdf	keep		SW_Smuggling_Rules.pdf		
+D20 - Star Wars - Silent Death.pdf	keep		SW_Silent_Death_Dogfighting_Rules.pdf		
+D20 - Star Wars - Lightsaber Construction.pdf	keep		SW_Lightsaber_Construction_Fan.pdf		SWRPGNetwork fan net.guide
+D20 - Star Wars - The Jedi Handbook.pdf	keep		SW_Jedi_Handbook_Fan.pdf		fan compilation
+D20 - Star Wars - Netbook Of Prestige Classes.pdf	keep		SW_Netbook_of_Prestige_Classes_Fan.pdf		fan compilation
+D20 - Star Wars - Revenge Of The Sith.pdf	keep		SW_Revenge_of_the_Sith_Fan.pdf		fan work
+D20 - Star Wars - The Completely Unofficial Star Wars Encyclopedia.pdf	keep		SW_Completely_Unofficial_Encyclopedia_Fan.pdf		fan work, 1,895 pp
+Star Wars D20 All WotC Equipment Articles.pdf	keep		SW_WotC_Equipment_Articles_Web.pdf		web page captures
+The-Jedi-Path.pdf	keep		SW_The_Jedi_Path.pdf		
+SW Galactic Gazetteer.pdf	keep		SW_WebEnh_Galactic_Gazetteer_Hoth_and_Greater_Javin.pdf		
+AA_web_enhancement.pdf	keep		SW_WebEnh_Alien_Anthology.pdf		
+Star Wars - D20 - Alien Anthology (1).pdf	delete	AA_web_enhancement.pdf		identical	
+Heros_Guide_web_enhance_1.pdf	keep		SW_WebEnh_Heros_Guide_1_Templates_and_Prestige_Classes.pdf		
+HEROS_GUIDE_WE2.pdf	keep		SW_WebEnh_Heros_Guide_2_Commerce_and_Shadow_Wing.pdf		
+HEROS_GUIDE _WE3.pdf	keep		SW_WebEnh_Heros_Guide_3_Lightsaber_Forms_and_Fallanassi.pdf		
+JTPtan.pdf	keep		SW_WebEnh_Coruscant_and_the_Core_Worlds_Jtptan.pdf		
+UAA_WE_Meerian_Tchuukthai.pdf	keep		SW_WebEnh_Ultimate_Alien_Anthology_Meerians_and_Tchuukthai.pdf		
+WOC SW - Ships Enhancement.pdf	keep		SW_WebEnh_Ships_Enhancement.pdf		
+D20 - Star Wars - Ships Supplement.pdf	delete	WOC SW - Ships Enhancement.pdf		identical	
+ships_enhancement.pdf	delete	WOC SW - Ships Enhancement.pdf		identical	
+D20 - WotC - Star Wars - Ships Enhancement.pdf	delete	WOC SW - Ships Enhancement.pdf		corrupt-copy	same size as the others but no PDF trailer (unreadable, differs from byte 212,993)
+Star Wars - D20 Adventure - Damsel In Distress (Rbll, lvl1).pdf	keep		SW_Adventure_Damsel_in_Distress_L1.pdf		
+Star Wars - D20 Adventure - Death, Dirt, And The Nerf Rancher's Daughter (lvl6).pdf	keep		SW_Adventure_Death_Dirt_and_the_Nerf_Ranchers_Daughter_L6.pdf		
+Star Wars - D20 Adventure - Head Trip (RotE, lvl5).pdf	keep		SW_Adventure_Head_Trip_L5.pdf		
+Star Wars - D20 Adventure - Last Call At Leatherbacks (YVI, lvl3).pdf	keep		SW_Adventure_Last_Call_at_Leatherbacks_L3.pdf		
+Star Wars - D20 Adventure - Mission To Myrkr (YVI, lvl6-8).pdf	keep		SW_Adventure_Mission_to_Myrkr_L6-8.pdf		
+njo_myrkr_l.pdf	delete	Star Wars - D20 Adventure - Mission To Myrkr (YVI, lvl6-8).pdf		identical	
+Star Wars - D20 Adventure - The Crypt Of Saalo Morn (lvl5-6).pdf	keep		SW_Adventure_The_Crypt_of_Saalo_Morn_L5-6.pdf		
+Star Wars - D20 Adventure - The Nebula Assassin (lvl10).pdf	keep		SW_Adventure_The_Nebula_Assassin_L10.pdf		
+Nebula_new.pdf	delete	Star Wars - D20 Adventure - The Nebula Assassin (lvl10).pdf		same-text	extracted text byte-identical (md5 526b0a9a)
+Star Wars - D20 Adventure - The Rycar Run (lvl4-6).pdf	keep		SW_Adventure_The_Rycar_Run_L4-6.pdf		
+Star Wars - D20 Adventure - The Storm's Edge (Rbll, lvl6).pdf	keep		SW_Adventure_The_Storms_Edge_L6.pdf		
+D20 - Star Wars - The Storm's Edge.pdf	delete	Star Wars - D20 Adventure - The Storm's Edge (Rbll, lvl6).pdf		identical	

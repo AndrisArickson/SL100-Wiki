@@ -26,6 +26,19 @@ case "${1:-help}" in
   export)     "$PY" tools/crawl.py export ;;
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
+  books)      # d20 source-book extraction / OCR (output: ../Source_Text, outside git)
+    shift; sub="${1:-help}"; TXT="../Source_Text"; mkdir -p "$TXT/logs"
+    case "$sub" in
+      pilot|run)
+        if [ -f "$TXT/extract.lock" ] && kill -0 "$(cat "$TXT/extract.lock" 2>/dev/null)" 2>/dev/null; then
+          echo "Extraction already running (pid $(cat "$TXT/extract.lock"))."; exit 0; fi
+        nohup "$PY" tools/books/extract.py "$@" >> "$TXT/logs/extract.log" 2>&1 &
+        echo "Started in background (pid $!). Follow with: ./wiki.sh books log" ;;
+      stop)   touch "$TXT/STOP"; echo "Stop requested; finishing in-flight pages. Re-run to resume." ;;
+      log)    tail -n 40 -f "$TXT/logs/extract.log" ;;
+      catalog) shift; "$PY" tools/books/catalog.py "$@" ;;
+      *)      "$PY" tools/books/extract.py "$@" ;;   # status | qa | batches | sample | compare
+    esac ;;
   *) cat <<'EOF'
 Usage: ./wiki.sh <command>
   start      harvest everything in the background (discover, prioritise, fetch, images, placeholders)
@@ -38,6 +51,7 @@ Usage: ./wiki.sh <command>
   images     look up any new image sizes and (re)generate blank webp placeholders
   export     refresh meta/pages.tsv and meta/images.tsv
   rebuild    rebuild the local database from meta/pages.tsv (after cloning the repo)
+  books pilot | run --batch N | status | qa | stop | log | compare A B   d20 book extraction/OCR (see docs/)
   push       commit new/changed files in chunks and push to GitHub
 EOF
   ;;

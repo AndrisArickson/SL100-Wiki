@@ -1,0 +1,62 @@
+{
+  "pilot_books": [
+    "SW_Revised_Core_Rulebook_WTC17650",
+    "SW_Arms_and_Equipment_Guide_WTC88664",
+    "SW_Heros_Guide_WTC17667__variant-with-WE-185pp",
+    "SW_Heros_Guide_WTC17667__variant-161pp"
+  ],
+  "batches": {
+    "1": {
+      "title": "OCR Core Rulebook, Arms and Equipment Guide, Hero's Guide",
+      "books": ["SW_Revised_Core_Rulebook_WTC17650", "SW_Arms_and_Equipment_Guide_WTC88664", "SW_Heros_Guide_WTC17667__variant-with-WE-185pp"]
+    },
+    "2": {
+      "title": "Completely Unofficial Encyclopedia (fan work, text layer)",
+      "books": ["SW_Completely_Unofficial_Encyclopedia_Fan"]
+    },
+    "3": {
+      "title": "Other text-layer books",
+      "books": [
+        "SW_Adventure_Damsel_in_Distress_L1", "SW_Adventure_Death_Dirt_and_the_Nerf_Ranchers_Daughter_L6",
+        "SW_Adventure_Head_Trip_L5", "SW_Adventure_Last_Call_at_Leatherbacks_L3",
+        "SW_Adventure_Mission_to_Myrkr_L6-8", "SW_Adventure_The_Crypt_of_Saalo_Morn_L5-6",
+        "SW_Adventure_The_Nebula_Assassin_L10", "SW_Adventure_The_Rycar_Run_L4-6", "SW_Adventure_The_Storms_Edge_L6",
+        "SW_WebEnh_Alien_Anthology", "SW_WebEnh_Coruscant_and_the_Core_Worlds_Jtptan",
+        "SW_WebEnh_Galactic_Gazetteer_Hoth_and_Greater_Javin",
+        "SW_WebEnh_Heros_Guide_1_Templates_and_Prestige_Classes", "SW_WebEnh_Heros_Guide_2_Commerce_and_Shadow_Wing",
+        "SW_WebEnh_Heros_Guide_3_Lightsaber_Forms_and_Fallanassi", "SW_WebEnh_Ships_Enhancement",
+        "SW_WebEnh_Ultimate_Alien_Anthology_Meerians_and_Tchuukthai",
+        "SW_Smuggling_Rules", "SW_Lightsaber_Construction_Fan", "SW_Revenge_of_the_Sith_Fan",
+        "SW_The_Smugglers_of_Naboo", "SW_Silent_Death_Dogfighting_Rules", "SW_WotC_Equipment_Articles_Web",
+        "SW_Dark_Side_Sourcebook_WTC11849", "SW_Jedi_Handbook_Fan", "SW_Netbook_of_Prestige_Classes_Fan",
+        "SW_Imperial_Sourcebook_GURPS"
+      ]
+    },
+    "4": {
+      "title": "OCR ships, vehicles and worlds",
+      "books": ["SW_Starships_of_the_Galaxy_WTC11859", "SW_Platts_Smugglers_Guide_WEG-d6", "SW_Rebellion_Era_WTC11837",
+                "SW_Coruscant_and_the_Core_Worlds_WTC17663", "SW_Galactic_Campaign_Guide_WTC17754"]
+    },
+    "5": {
+      "title": "OCR species and adversaries",
+      "books": ["SW_Alien_Anthology_WTC12663", "SW_Ultimate_Alien_Anthology_WTC17751__variant-with-WE-229pp",
+                "SW_Ultimate_Adversaries_WTC88572", "SW_Geonosis_and_the_Outer_Rim_Worlds_WTC88887"]
+    },
+    "6": {
+      "title": "OCR Jedi, Force and campaign books",
+      "books": ["SW_Power_of_the_Jedi_WTC88662", "SW_Tales_of_the_Jedi_Companion",
+                "SW_New_Jedi_Order_Sourcebook_WTC88658__variant-182pp", "SW_Tempest_Feud_WTC88659",
+                "SW_Living_Force_Campaign_Guide_WTC11963", "SW_Secrets_of_Naboo_WTC11794", "SW_Secrets_of_Tatooine_WTC11839"]
+    },
+    "7": {
+      "title": "Leftover mixed books",
+      "books": ["SW_Gamemaster_Screen_WTC11833", "SW_Errata_Dark_Side_Sourcebook", "SW_The_Jedi_Path"]
+    }
+  },
+  "variant_pairs": [
+    ["SW_Heros_Guide_WTC17667__variant-with-WE-185pp", "SW_Heros_Guide_WTC17667__variant-161pp"],
+    ["SW_Ultimate_Alien_Anthology_WTC17751__variant-with-WE-229pp", "SW_Ultimate_Alien_Anthology_WTC17751__variant-225pp"],
+    ["SW_New_Jedi_Order_Sourcebook_WTC88658__variant-182pp", "SW_New_Jedi_Order_Sourcebook_WTC88658__variant-162pp"],
+    ["SW_Secrets_of_Tatooine_WTC11839", "SW_Secrets_of_Tatooine__variant-95pp"]
+  ]
+}
