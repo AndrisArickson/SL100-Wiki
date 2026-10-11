@@ -1,0 +1,49 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=ChemDetect
+|manufacturer=[[Neuro-Saav Technologies/Legends|Neuro-Saav Technologies]]<ref name="RE">''[[Rules of Engagement: The Rebel SpecForce Handbook]]''</ref>
+|model=ChemDetect
+|type=Scanner
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=1,500 [[Galactic Credit Standard/Legends|credits]]<ref name="RE" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=0.5 kg
+|protection=
+|capacity=
+|range=2 meters
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''ChemDetect''' was a specialized molecular analyzer that could take a sample of the local atmosphere and examine it for hazardous or [[Poison/Legends|poisonous]] compounds. It could also be set to automatically scan and sound an audio or vibratory alarm if it detected anything.
+
+High wind conditions or the presence of numerous non-hazardous chemicals could affect the efficiency of the [[scanner]]. When a dangerous compound was detected, the ChemDetect would display information about it.
+
+==Appearances==
+*{{LivingForce|Metatheran Caution: Open Aarms}}
+
+==Sources==
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Portable scanners]]
+[[Category:Toxin sensors]]

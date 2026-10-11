@@ -1,0 +1,168 @@
+{{Top}}
+{{Otheruses|Cloak|more=Shape}}
+{{StarshipClass
+|image=[[File:CloakShapeFighter-SWTCG.png]]
+|name=CloakShape fighter
+|designer=
+|manufacturer=[[Kuat Systems Engineering/Legends|Kuat Systems Engineering]]<ref name="EVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref><ref name="DES">''[[Dark Empire Sourcebook]]''</ref><ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref><ref name="SotGSE">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=
+|model=CloakShape fighter<ref name="TNEGTVAV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref><ref name="SotGSE" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="EVV" /><ref name="DES" /><ref name="SotGSE" />
+|cost=*60,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SotGSE" />
+*15,000 credits {{C|used}}<ref name="DES" /><ref name="SotGSE" />
+|modifier=[[Curich Engineering]]<ref name="DES" />
+|sysmods=*[[Maneuvering Fin]]<ref name="DES" />
+*[[Hyperdrive sled]]<ref name="DES" />
+|length=15 [[Meter/Legends|meters]]<ref name="DES" /><ref name="TNEGTVAV" />
+|width=
+|height=
+|mass=
+|max accel=*3,200 G<ref name="TNEGTVAV" />
+*20 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA" />
+|mglt=93 MGLT<ref name="XWA" />
+|max speed=950 [[Kilometer per hour/Legends|km/h]]<ref name="DES" /><ref name="TNEGTVAV" /><ref name="SotGSE" />
+|maneuverability=72 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=[[807b/9 ion drive]] (2)<ref name="Edge of the Empire Core Rulebook">[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]</ref>
+|hyperdrive=Class: 3.0<ref name="DES" /><ref name="SotGSE" />
+|hdrange=
+|hdsystem=*Stock: None<ref name="DES" /><ref name="SotGSE" />
+**[[Hyperdrive sled]]<ref name="DES" /> or [[Hyperspace transport ring/Legends|hyperdrive ring]]<ref name="TNEGTVAV" />
+*Equipped {{C|usual modification}}<ref name="SotGSE" />
+|poweroutput=
+|power=
+|shield gen=*Stock: None<ref name="DES" /><ref name="SotGSE" />
+*[[Deflector shield generator/Legends|Equipped]] {{C|usual modification}}<ref name="SotGSE" />
+**Rated 96 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 28 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=*Stock: None<ref name="DES" /><ref name="SotGSE" />
+*[[Astromech droid/Legends|Astromech droid]] (1) {{C|usual modification}}<ref name="DES" /><ref name="SotGSE" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="DES" /><ref name="TNEGTVAV" />
+*[[Concussion missile launcher/Legends|Concussion missile launchers]] (2)<ref name="DES" /><ref name="XWA" />
+**Medium [[Concussion missile/Legends|concussion missiles]] (16)<ref name="SotGSE" />
+*[[Proton torpedo launcher/Legends|Proton torpedo launchers]] {{C|usual modification}}<ref name="SotGSE" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="DES" /><ref name="SotGSE" />
+|skeleton=
+|passengers=None<ref name="SotGSE" />
+|capacity=40 [[Kilogram/Legends|kilograms]]<ref name="DES" /><ref name="SotGSE" />
+|cargohandling=
+|consumables=1 [[Standard day/Legends|day]]<ref name="DES" /><ref name="SotGSE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="SotGSE" />
+|role=Stock multipurpose starfighter<ref name="DES" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+{{Quote|I once had a guy come in here looking to buy an 'original' CloakShape. I just laughed and told him that there's no such thing as an 'original' CloakShape.|Mechanic Shug Ninx|<ref name="TNEGTVAV" />}}
+The '''CloakShape fighter''', or '''CS fighter''', was a space and atmospheric fighter built by [[Kuat Systems Engineering/Legends|Kuat Systems Engineering]] decades before the [[Clone Wars/Legends|Clone Wars]], which saw use by a variety of factions throughout the years.
+
+==Characteristics==
+[[File:CloakshapeFighter-NEGVV.png|thumb|left|200px|A CloakShape fighter]]
+These [[Starfighter/Legends|starfighters]] were not considered particularly agile or powerful when first introduced, but the reinforced hull made the vessel quite durable, and overall they were generally considered adequate for their class. They had comparatively small power plants, which made them less than ideal for combat in deep space, but they performed competently in planetary atmospheres and were thus considered best suited to a defensive role.<ref name="TNEGTVAV" />
+
+The CloakShape's simple design, modular compartments, and universal adapters encouraged modification, allowing them to be fitted with a variety of aftermarket systems. A skilled mechanic could remove and replace entire systems with ease, and by the time of the [[Battle of Yavin/Legends|Battle of Yavin]] it was widely considered impossible to find an "original CloakShape."
+
+[[File:CloakShape_egvv.jpg|thumb|left|200px|CloakShape [[:Category:Technical drawing images|schematics]]]]
+Upgrades were commonly available to provide a stronger power generator, greater fuel storage, stronger weapons, more advanced sensors and targeting computers, and more powerful engines. Upgrades could even add completely new systems such as [[Deflector shield/Legends|deflector shields]], or convert the cockpit into an [[Escape pod/Legends|escape pod]]. In stock form, these fighters did not include a [[Hyperdrive/Legends|hyperdrive]], which is why a self-powered [[hyperdrive sled]] was a popular upgrade.
+
+The most popular addition was the [[Curich Engineering]] rear wing and stabilizer conversion kit; it was so common that many assumed that the fighter originally came with the stabilizer. Even with the improved handling and turning radius provided by this modification, however, the CloakShape still had its flaws; like the [[Z-95 Headhunter/Legends|Z-95 Headhunter]], its relatively slow sublight speed allowed heavy weapons, normally useless against a starfighter, to target the sluggish craft.
+
+By [[10 ABY/Legends|10 ABY]], they only cost 15,000 [[Galactic Credit Standard/Legends|credits]].
+
+==History==
+CloakShapes were adopted by the [[Judicial Forces/Legends|Judicial Forces]] of the [[Galactic Republic/Legends|Galactic Republic]], the [[Jedi Order/Legends|Jedi Order]] (as [[Whitecloak fighter]]s, a modified version), several corporations and local governments, and criminal organizations like the [[Nebula Front/Legends|Nebula Front]].
+
+[[File:Cloakshapes.jpg|thumb|left|200px|CloakShapes with rear wing and stabilizer conversion kits]]
+[[Jedi/Legends|Jedi]] [[Padawan/Legends|Padawan]] [[Anakin Skywalker/Legends|Anakin Skywalker]] was familiar with the controls of the CloakShape. In [[23 BBY/Legends|23 BBY]], while on a [[Mission to Fondor (Separatist Crisis)|mission to Fondor]], the 18-year-old Skywalker piloted a CloakShape owned by [[Fondor/Legends|Fondor's]] [[Senator/Legends|Senator]] [[Rodd]] to infiltrate and destroy a [[Groodo]] the [[Hutt/Legends|Hutt]]&ndash;fabricated [[False Sun Runner|counterfeit]] of the ancient [[Corellia StarDrive]] transport the ''[[Sun Runner]]''. While successful in the task (by way of a [[Hypermatter reactor/Legends|hypermatter-reactor]]-planted [[Proton grenade/Legends|proton grenade]] and a [[Concussion missile/Legends|concussion-missile]] bombardment of the ship's sensor-[[Guided missile/Legends|guided missile]] silo), he was forced to make a nighttime crash-landing on the [[Fondorian]] jungle-moon [[Nallastia]], from which he was later retrieved by his [[Jedi Master/Legends|Master]] [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] and [[Jedi Knight/Legends|Jedi Knight]] [[Bultar Swan/Legends|Bultar Swan]]. Skywalker was forced to eject from the CloakShape's [[Cockpit/Legends|cockpit]]—explosive bolts releasing its [[Viewport/Legends|canopy]]—before the starfighter itself spiraled nose-first into a grassy field and blossomed into flame upon impact. His ejected seat's automatic [[Landing jet/Legends|landing jets]] allowed Skywalker to steer himself down near the crash site, which lay in the foothills of [[Mount Octan]].<ref name="Star Wars Adventures 1: Hunt the Sun Runner">''[[Star Wars Adventures 1: Hunt the Sun Runner]]''</ref><ref name="Star Wars Adventures 2: The Cavern of Screaming Skulls">''[[Star Wars Adventures 2: The Cavern of Screaming Skulls]]''</ref>
+
+Despite its drawbacks, the CloakShape remained in service for decades after it was first regarded as outdated. CloakShapes could often be found in service as system patrol craft, smuggler blockade vessels, and support vessels for anti-piracy actions.
+
+[[File:Dogfight_in_the_Clouds-EotE_Core.png|thumb|right|200px|A CloakShape chased by a Z-95]]
+A squadron of CloakShape fighters was part of the [[New Republic/Legends|New Republic]] [[Solo Fleet|fleet]] that [[Hunt for Zsinj|hunted]] for [[Warlord/Legends|Warlord]] [[Zsinj]]; however, due to age, these ships suffered badly during the battles with the warlord.<ref name="XW:SC">''[[X-Wing: Solo Command]]''</ref>
+
+[[Han Solo/Legends|Han Solo]] encountered a CloakShape flown by a [[Bounty hunter/Legends|bounty hunter]] on [[Nar Shaddaa/Legends|Nar Shaddaa]].<ref name="TNEGTVAV" /> The hunter pursued Solo and the [[Millennium Falcon/Legends|''Millennium Falcon'']], following the Corellian through heavy traffic, right into [[Shug Ninx]]'s garage, where the targeting cannons behind the garage's secret door made short work of both the bounty hunter and his ship.
+
+The [[Anzat (species)|Anzat]] [[Kell Douro]] used one of these ships, named [[Predator (Kell Douro's ship)|''Predator'']], as he searched [[The galaxy/Legends|the galaxy]] for the truth of fate. He kept live beings in stasis in the hold to feed upon until his demise.
+
+The ace pilot [[Jayn]] flew one known as the ''[[Leilana's Dagger]]'', named after his deceased wife; however, it was destroyed, along with him, at [[Iope]] shortly after the Battle of Yavin by the assassin [[X-7]].
+
+==Appearances==
+{{ScrollBox|content=
+*{{Wizards|url=default.asp?x=starwars/article/sw20011206a2|text=The Rycar Run|int=The Rycar Run}}
+*''[[Cloak of Deception]]''
+*{{LivingForce|Blinking Eyes: Holes}} {{Mo}}
+*[[Star Wars (1998) 43|''Star Wars'' (1998) 43]]
+*[[Star Wars (1998) 44|''Star Wars'' (1998) 44]]
+*''[[Star Wars Adventures 1: Hunt the Sun Runner]]''
+*''[[Star Wars Adventures 2: The Cavern of Screaming Skulls]]''
+*''[[Jedi Trial]]''
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*[[The Last Jedi (novel)|''The Last Jedi'']]
+*{{DoD|The First to Strike}}
+*{{DoD|The Gem of Alderaan}}
+*''[[The Hutt Gambit]]''
+*''[[Rebel Force: Firefight]]''
+*''[[Rebel Force: Trapped]]''
+*''[[Rebel Force: Uprising]]''
+*{{FFG|story=Crates of Krayts|book=Star Wars: Edge of the Empire Beta|text=''Star Wars: Edge of the Empire'' Beta}}
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*[[Dark Empire 3|''Dark Empire'' 3]] {{1st}}
+*[[Crimson Empire II: Council of Blood 3|''Crimson Empire II: Council of Blood'' 3]]
+*''[[Crosscurrent]]''
+*[[Riptide (novel)|''Riptide'']]
+}}
+
+===Non-canon appearances===
+*<!-- 2001-01-XX -->"[[Light and Dark (adventure)|Light and Dark]]" {{Un}}
+
+==Sources==
+{{Mediacat|imagecat=Images of CloakShape fighters}}
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-08-XX -->''[[Power of the Jedi Sourcebook]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-07-02 -->{{TCG|set=The Phantom Menace|cardname=CloakShape Fighter|link=https://swtcg.com/Content/Images/Cards/PM/CloakShape_Fighter.webp?v=2}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-06-27 -->{{FFGTCG|set=Assault on Echo Base|cardname=Outer Rim Space Pirates|link=the-hoth-cycle/assault-on-echo-base/outer-rim-space-pirates-assault-on-echo-base-57-2}} {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-05-29 -->{{FFGTCG|set=Knowledge and Defense|cardname=Along the Gamor Run|link=echoes-of-the-force-cycle/knowledge-and-defense/along-the-gamor-run-knowledge-and-defense-109-1}} {{Po}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Manteljäger#legends
+|es=Caza Forma de Capa/Leyendas
+|hu=CloakShape vadász
+|nl=CloakShape Fighter
+|no=CloakShape Jager
+|pl=Myśliwiec CloakShape
+}}
+
+[[Category:Kuat Systems Engineering products]]
+[[Category:Starfighter classes]]
+
+{{RelatedCategories
+|[[Category:CloakShape fighters]]
+}}

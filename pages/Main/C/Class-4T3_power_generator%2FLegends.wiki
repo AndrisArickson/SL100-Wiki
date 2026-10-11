@@ -1,0 +1,57 @@
+{{Top|leg}}
+{{Device
+|image=[[File:E-WebHeavyRepeatingBlaster-TCGBoH.jpg]]
+|name=Class-4T3 power generator
+|manufacturer=[[Eksoan/Legends|Eksoan]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref>
+|model=
+|type=[[Power generator/Legends|Power generator]]<ref name="ISB" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''Class-4T3 power generator''' was a [[Power generator/Legends|generator]] manufactured by [[Eksoan/Legends|Eksoan]] and used primarily used to power an [[E-Web heavy repeating blaster/Legends|E-Web heavy repeating blaster]].
+
+==Description==
+The Class-4T3 power generator was a [[Power generator/Legends|power unit]] that connected to the [[E-Web heavy repeating blaster/Legends|E-Web heavy repeating blaster]] via a three-[[Meter/Legends|meter]] long power conduit that attached to a connector on the underside of the weapon's [[TR-62 Autocushion Tripod/Legends|TR-62 Autocushion Tripod]]. The Class-4T3 was equipped with an advanced [[Gk3 Cryocooler]] [[Cooling unit/Legends|cooling unit]] to prevent it from overheating and causing a potentially fatal overload.<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref>
+
+While a [[Gunner/Legends|gunner]] fired the weapon, the accompanying Class-4T3 power generator was generally overseen by a second crew member. The crew member's job was to supervise the generator's power flow to the E-Web and adjust it as necessary to prevent an overload. E-Web deployment on the battlefield took about fifteen minutes, especially if the Class-4T3 was "cold"; some [[Galactic Empire/Legends|Imperial]] crews would attempt to cut down on this set-up time by pre-charging the generators but that left the Class-4T3 more likely to suffer a power surge.<ref name="EGWT" />
+
+The generator could be set to a "preset" mode that allowed a single gunner to operator the weapon without the need for a second crew member. In this mode, the Class-4T3's power flow was keep well within safe operating temperatures but at the cost of reducing the attached E-Web's rate of fire.<ref name="EGWT" />
+
+==Sources==
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]'' {{1stm}} {{ID|Eksoan power unit}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]] {{ID|Eksoan power unit}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Portable Fusion Generator}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 2002-06-26 -->{{FactFile|26|BLA 7-8|E-Web Repeating Blaster}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2013-08-16 -->{{FFGTCG|set=The Battle of Hoth|cardname=E-Web Heavy Repeating Blaster}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Eksoan products]]
+[[Category:Reactors and power generators]]

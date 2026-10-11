@@ -1,0 +1,64 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=''Class-7'' Repair Vessel
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]
+|line=
+|model=KDY ''Class-7'' Repair Vessel
+|type=
+|cost=4,500,000 [[Galactic Credit Standard/Legends|credits]]
+|modifier=
+|sysmods=
+|length=560 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer per hour/Legends|kmh]] {{C|[[Atmosphere/Legends|atmosphere]]}}
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=1 [[Turbolaser/Legends|turbolaser]] battery
+|complement=
+|bays=
+|escapepods=
+|crew=3, 15 [[Droid/Legends|droids]], 1 [[Gunner/Legends|gunner]]
+|skeleton=
+|passengers=10
+|capacity=400,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Mine repair and supply vessel
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''Class-7 Repair Vessel''' were used for supplying, repairing and defending [[Mining/Legends|mining]] colonies.
+
+==Characteristics==
+The Class-7 were 560 [[Meter/Legends|meters]] long and were armed with a turreted [[Turbolaser/Legends|turbolaser]] battery. It also had a [[Hyperdrive/Legends|hyperdrive]].
+
+==Appearances==
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Transport classes]]
