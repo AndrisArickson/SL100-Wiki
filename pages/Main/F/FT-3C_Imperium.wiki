@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:FT-3C_Imperium.png]]
+|name=FT-3C Imperium
+|designer=
+|manufacturer=[[Dromund Kalakar shipyards]]<ref name="GS">''[[Star Wars: The Old Republic: Galactic Starfighter]]''</ref>
+|line=
+|model=
+|type=[[Starfighter/Legends|Starfighter]]<ref name="GS" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="GS" />
+|hull=
+|sensor=Equipped<ref name="GS" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 twin laser cannons<ref name="GS" />
+*equipable missiles or torpedoes
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Reconnaissance<ref name="GS" />
+|firstuse=
+|retired=
+|affiliation=[[Sith Empire (Post–Great Hyperspace War)|Sith Empire]]<ref name="GS" />
+}}
+The '''FT-3C Imperium''' was a [[Starfighter/Legends|starfighter]] in the [[Sith Empire (Post–Great Hyperspace War)|reconstituted Sith Empire]] which performed in Strikefighter roles. Created in the shipyards of [[Dromund Kalakar]], the Imperium was derived from the similar [[F-T2 Quell]], though it was designed as a sensor-oriented coordinator starfighter.
+
+==Appearances==
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]]
+*''[[Star Wars: The Old Republic: Galactic Starfighter]]'' {{1st}}
+*''[[Star Wars: The Old Republic: Galactic Strongholds]]''
+
+==Sources==
+*<!-- 2013-10-XX -->{{TORweb|url=galactic-starfighter|text=Galactic Starfighter}}
+*<!-- 2013-11-20 -->{{TORweb|url=info/news/blog/20131120|text=Developer Update: Strike Fighter Class Starfighter}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{ArtStation|username=cpiccolo|url=artwork/3dm5J|name=[[Christian Piccolo]]|text=Star Wars The Old Republic- Sith Fighter Process Breakdown}}
+*{{ArtStation|username=deningart|url=artwork/KaQG5o|name=[[Ryan Dening]]|text=Sith Interceptor}}
+
+{{Interlang
+|es=FT-3C Imperio
+|fr=Imperium FT-3C
+}}
+
+[[Category:Starfighter classes]]
+[[Category:Starship classes of the Sith Empire]]

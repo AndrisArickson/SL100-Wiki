@@ -1,0 +1,71 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:Coronat.jpg]]
+|name=''Evening Star''
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="MC">{{WEGCite|story=The Mynock Conspiracy|book=Supernova (sourcebook)}}</ref>
+|line=
+|model=[[Corona-class transport|''Corona''-class transport]]<ref name="MC" />
+|type=[[Transport/Legends|Transport]]<ref name="MC" />
+|cost=*105,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="MC" />
+*27,000 credits {{C|used}}<ref name="MC" />
+|modifier=
+|sysmods=
+|length=28.4 [[Meter/Legends|meters]]<ref name="MC" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|KMH]]<ref name="MC" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="MC" />
+*Backup Class 10.0<ref name="MC" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="MC" />
+|hull=
+|sensor=Equipped<ref name="MC" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] turret (1)<ref name="MC" />
+|complement=
+|bays=
+|escapepods=
+|crew=2, 1 gunner<ref name="MC" />
+|skeleton=1<ref name="MC" />
+|passengers=6<ref name="MC" />
+|capacity=80 [[Metric ton/Legends|metric tons]]<ref name="MC" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="MC" />
+|lifesupport=Equipped<ref name="MC" />
+|communications=
+|othersystems=
+|role=[[Transport/Legends|Transport]]<ref name="MC" />
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="MC" />
+|navy=
+|fleet=
+|owners=
+|captains=
+|registry=
+|aliases=
+}}
+The '''''Evening Star''''' was a [[Corona-class transport|''Corona''-class transport]]. During the [[Galactic Civil War/Legends|Galactic Civil War]] a group of rebel agents piloted the ''Evening Star'' to the [[Kantel system]] during the [[Mynock virus]] outbreak.
+
+==Appearances==
+*{{WEGCite|story=The Mynock Conspiracy|book=Supernova (sourcebook)}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corona-class transports]]
+[[Category:Starships of the Alliance to Restore the Republic]]

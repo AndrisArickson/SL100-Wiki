@@ -1,0 +1,385 @@
+{{Top|title=''Executor''-class Star Dreadnought}}
+{{Otheruses|Executor}}
+{{MultipleIssues|citation|cleanup}}
+{{StarshipClass
+|image=[[File:Executor-CHRON.jpg]]
+|name=''Executor''-class Star Dreadnought
+|designer=[[Lira Wessex/Legends|Lira Wessex]]<ref name="ISDDB" />
+|manufacturer=*[[Kuat Drive Yards/Legends|Kuat Drive Yards]] {{C|majority of the ship line}}<ref name="SSD Databank">{{DB|starship|superstardestroyer|Super Star Destroyer}}</ref>
+*[[Fondor Shipyards/Legends|Fondor Shipyards]] {{C|''Executor'' finishing touches; unidentified [[Unidentified Executor-class Star Dreadnought|variant]] of the class that possessed cloaking capabilities}}
+|line=[[Star Dreadnought/Legends|Star Dreadnoughts]]<ref name="SW:Cl1">[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]</ref>
+|model=''Executor''-class Star Dreadnought<ref name="SSD Databank" /><ref name="EGTW">''[[The Essential Guide to Warfare]]''</ref><ref name="sbp1">{{Wizards|url=default.asp?x=starwars/article/SBPreview1|text=''Starship Battles'' Preview 1}}</ref>
+|type=Star [[Dreadnaught/Legends|Dreadnought]]<ref name="SW:Cl1" /><ref name="SSD Databank" />
+|cost=
+|modifier=
+|sysmods=
+|length=19,000 [[Meter/Legends|meters]]<ref name="SSD Databank" /><ref name="SW:Cl1" /><ref name="EGTW" /><ref name="sbp1" /><ref name="SOTG07">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref><ref name="Handbook">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=1230 G<ref name="NEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|mglt=40 [[Megalight|MGLT]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|max speed=
+|maneuverability=
+|engine=[[Executor-50.x engine/Legends|Executor-50.x engine]] (13)<ref name="TGE:SOTF">''[[The Galactic Empire—Ships of the Fleet]]''</ref>
+|hyperdrive=*Class 2.0<ref name="BtM" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="sbp1" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=KDY [[ISD-72x deflector shield generator dome|shield generator domes]] (2)<ref name="BtM" /> {{C|local area-effect}}<ref name="SW:Cl1" />
+|hull=[[Titanium/Legends|Titanium]]-reinforced [[Alusteel/Legends|alusteel]]<ref name="BtM" />
+|sensor=KDY [[Deflector shield generator/Legends|shield generator]] domes (2)<ref name="CINEFEX83">From a [[Richard Edlund]] interview in ''CINEFEX'' February 1983 issue</ref><ref name="SW:Cl1" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] batteries (2,000, fire-linked in groups of 8)<ref name="sbp1" />
+*Heavy turbolaser batteries (2,000, fire-linked in groups of 8)<ref name="sbp1" />
+*[[Assault concussion missile]] [[Concussion missile launcher/Legends|tubes]] (250)<ref name="sbp1" /><ref name="Handbook" />
+**30 [[Missile/Legends|missiles]] each<ref name="sbp1" />
+*Heavy [[Ion cannon/Legends|ion cannons]] (250)<ref name="sbp1" />
+*[[Phylon Transport/Legends|Phylon Transport]] [[Q7 tractor beam projector/Legends|Q7 tractor beam projectors]] (40)<ref name="BtM" />
+*[[Point-defense laser cannon/Legends|Point-defense]] [[Laser cannon/Legends|laser cannons]] (500)<ref name="sbp1" />
+|complement=*[[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighters]] (144)<ref name="BtM" /> (can reach up to 2,048 [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighters]] if fully loaded )<ref name="Darksaber">[[Darksaber (novel)|''Darksaber'']]</ref>
+*[[All Terrain Armored Transport/Legends|AT-ATs]] (30)<ref name="BtM" />
+*[[All Terrain Scout Transport/Legends|AT-STs]] (40)<ref name="BtM" />
+*[[IM-455 modular garrison|Prefabricated garrison bases]] (3)<ref name="SW:Cl1" />
+*Various other assault and support craft (total of 200)<ref name="BtM" />
+**[[Y-85 Titan dropship/Legends|Y-85 Titan dropships]]<ref name="SW:Cl1" />
+|bays=
+|escapepods=
+|crew=*Crew (279,144)<ref name="BtM" />
+*[[Gunner/Legends|Gunners]] (1,590)<ref name="BtM" />
+|skeleton=50,000<ref name="ImperialSourcebook2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|passengers=38,000 troops<ref name="BtM" />
+|capacity=*250,000 [[Metric ton/Legends|metric tons]]<ref name="BtM" />
+*Supplies for 300,000 individuals<ref name="BtM" />
+|cargohandling=[[Beltway]] system<ref name="ELII:RS">''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''</ref>
+|consumables=6 [[Standard year/Legends|years]]<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+|lifesupport=
+|communications=[[HoloNet/Legends|HoloNet]] transceiver<ref name="Star Wars Episode V: The Empire Strikes Back">{{Film|V}}</ref>
+|othersystems=
+|availability=
+|role=*[[Command ship/Legends|Command ship]]<ref name="Star Wars Episode V: The Empire Strikes Back" />
+*[[Carrier/Legends|Carrier]]<ref name="Darksaber" />
+*[[Battleship/Legends|Battleship]] {{C|dreadnought}}<ref name="DVS">"[[Darth Vader Strikes]]"</ref>
+|firstuse=Around [[3 BBY/Legends|3 BBY]]<ref name="TFUvg">[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]]</ref>
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="Star Wars Episode V: The Empire Strikes Back" />
+*[[Thyferran Home Defense Corps]]<ref name="Xw:TBW">''[[X-Wing: The Bacta War]]''</ref>
+*[[Warlord/Legends|Imperial Breakaway Warlords]]<ref name="Darksaber" />
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="EGTW" />
+*[[New Republic/Legends|New Republic]]<ref name="Crimson Empire">''[[Star Wars: Crimson Empire]]''</ref>
+*[[Galactic Federation of Free Alliances]]<ref name="TUF">''[[The New Jedi Order: The Unifying Force]]''</ref>
+}}
+{{Quote|With the ''Executor'' under my command, I will be the ultimate power in the universe!|[[Admiral/Legends|Admiral]] [[Kendal Ozzel/Legends|Kendal Ozzel]], mere moments before his death at the hand of [[Anakin Skywalker/Legends|Darth Vader]]|<ref name="NEGVV" />}}
+The '''''Executor''-class Star Dreadnought''', colloquially known as the '''''Executor''-class Super Star Destroyer''', '''''Executor''-class Star Destroyer''' or simply '''Super Star Destroyer''', was a heavy [[Warship/Legends|warship]] class in the [[Star Dreadnought/Legends|Star Dreadnought]] league,<ref name="SW:Cl1" /><ref name="SSD Databank" /> often used as [[Command ship/Legends|command ships]] and [[Flagship/Legends|flagships]] in the [[Imperial Navy/Legends|Imperial Navy]].<ref name="SW:Cl1" /><ref name="Imperial Sourcebook">''[[Imperial Sourcebook]]''</ref><ref name="Starships of the Galaxy1">''[[Starships of the Galaxy]]''</ref> At their prime, they were among the largest vessels in [[The galaxy/Legends|the galaxy]], and were almost invincible in combat, although they were costly to operate.<ref name="Courtship of Princess Leia">''[[The Courtship of Princess Leia]]''</ref>
+
+==Characteristics==
+[[File:ExecutorEndor-SOTE.png|thumb|left|180px|The [[Executor/Legends|''Executor'']] approaches the [[Death Star II/Legends|second Death Star]]]]
+Like most [[Kuat Drive Yards/Legends|KDY]]-style warships, the ship's overall shape was pointed, although unlike the ''Imperial''-class, the ''Executor''-class was closer to dagger-shaped. It also retained the KDY-style command bridge and possessed a massive cityscape on the top and, to a certain degree, at the aft. Its primary colors were dark gray and white for the main hull, and black for the cityscape sections, although the various lights aboard the vessel combined with operating in deep-space environments at times gave a more cerulean appearance to its hull.
+
+===Dimensions===
+The ''Executor''-class measured 19 kilometers in length<ref name="sbp1" /><ref name="SSD Databank" /> and was 12 times more massive than the ubiquitous [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]].<ref name="SW:Cl1" />
+
+280,734 [[Galactic Empire/Legends|Imperial]] Navy officers, [[Gunner/Legends|gunners]] and enlisted men were said to have crewed each vessel.<ref name="Imperial Sourcebook" /><ref name="Starships of the Galaxy1" /> The [[Alliance to Restore the Republic/Legends|Rebel]] leader [[Mon Mothma/Legends|Mon Mothma]], when learning of the staff required to man such a vessel, admitted it would be virtually impossible to command it, even if the Rebellion were to somehow capture it, due to there not being enough personnel on their end.<ref name="Handbook" />
+
+Though several variants of the ''Executor''-class existed, all followed similar design attributes in terms of structure.<ref name="TBFC">''[[The Black Fleet Crisis]]''</ref><ref name="SW:RSIII">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref><ref name="SOTG07" /> In terms of length, it was also tied with the [[Vengeance-class dreadnought|''Vengeance''-class dreadnought]] as the largest ship class within Star Dreadnoughts or [[Super Star Destroyer/Legends|Super Star Destroyers]].
+
+===Propulsion systems===
+<div style="float:right">[[File:Executor_09_crop.jpg|thumb|250px|Dorsal view of ''Executor''{{'s}} forward superstructure, and starboard engines]]</div>
+The ''Executor''-class was built with one main reactor and an unknown number of secondary reactors that could keep life support and other systems running but not propulsion.<ref name="SW:Cl1" /> Thirteen<ref name="Handbook" /> [[Executor-50.x engine/Legends|Executor-50.x engines]] placed in five thruster banks gave the ''Executor''-class impressive acceleration for its size.<ref name="TGE:SOTF" /> The main reactor was accessible through various service tubes.<ref name="RAII">''[[Star Wars: Rebel Assault II: The Hidden Empire]]''</ref>
+
+===Offensive and defensive systems===
+The ''Executor''-class had over 5,000 weapons emplacements,<ref name="SW:Cl1" /> including [[Turbolaser/Legends|turbolasers]], [[assault concussion missile]] launchers, and [[Ion cannon/Legends|ion cannons]].<ref name="sbp1" /> With warships able to direct all power to their energy weapons,<ref name="ROTS:ICS2">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref> the ''Executor''-class had at least 100 times more firepower than an ''Imperial''-class destroyer.<ref name="SW:Cl1" />
+
+A majority of gun batteries and missile launchers were located in the central cityscape on the class's dorsal side,<ref name="SSD Databank" /> while some point-defense guns were located throughout the side trenches.<ref name="ROTJ">{{Film|VI}}</ref> On at least [[Lusankya/Legends|one ship]], many heavy batteries were sacrificed for an increased number of anti-starfighter cannons.<ref name="SOTG07" />
+
+[[File:Super_Star_Destroyer_AorCR.png|thumb|left|250px|An ''Executor''-class Star Dreadnought firing on a planetary target]]
+Despite its impressive firepower, the design was far from perfect, as the ventral side and the aft were relatively undefended, and ''Executor''-class SSDs required an impressive starfighter defensive screen to chase off enemy starfighters and marauding smaller capital ships who otherwise could remain in the main weaponry's blind spots. In addition, the ''Executor''-class possessed several trenches in its cityscape, which also left it vulnerable to the [[Trench Run Defense]] tactic should its shields be disabled. Such a weakness is what destroyed an in-development variant possessing cloaking abilities at Fondor, and is ultimately what destroyed the ''Executor'' at Endor.<ref name="SW:RSIII" />
+
+Its [[Deflector shield/Legends|shields]] handled much of the power generated&mdash;an amount equivalent to the total power of a medium [[Star/Legends|star]] (3.8 × 10<sup>26</sup> W).<ref name="SW:Cl1" /> Shield projectors were placed throughout the hull, which decentralized the protection system and decreased the chance of all shields falling at once. Known shield segments included the dorsal, ventral, bow, aft, port and starboard shields.<ref name="Xw:TBW" /> In later-model ships, an extra shield generator was mounted in the middle of the ship.<ref name="TBFC" />
+
+In addition to the shield generators, several ''Executor''s had [[Cloaking device/Legends|cloaking]] generators or stealth armor fitted to the vessel, in order to perform sneak attacks on enemy targets.<ref name="SW:RSIII" /><ref name="Darksaber" />
+
+===Sensor domes===
+<div style="float:right">[[File:Shuttle1080i.jpg|thumb|250px|A ventral docking bay on the ''Executor'']]</div>
+The geodesic domes located on and around the ''Executor''{{'s}} [[Bridge (starship)/Legends|bridge tower]] (similar to those of ''Imperial''-class Star Destroyers) served dual purposes. Inside the dome were [[Hyperwave transceiver/Legends|hyperwave transceiver]] coils for [[Hyperspace/Legends|supralight]] active [[Sensor/Legends|sensors]], while vanes jutting out of the dome served as shield projectors for the surrounding area.<ref name="SW:Cl1" /> There were many such geodesic domes scattered around the ship. The ship also possessed long-range scanners, which also ensured, alongside Viper probe droids, that the ''Executor'' could locate Echo base.<ref name="CVD">''[[Star Wars: The Complete Visual Dictionary]]''</ref>
+
+These domes were not vulnerable to external attack as long as the shields remained intact, but concentrated capital-ship bombardment&mdash;such as that ordered by [[Admiral/Legends|Admiral]] [[Gial Ackbar/Legends|Gial Ackbar]] during the [[Battle of Endor/Legends|Battle of Endor]]&mdash;could knock out this protective field. The sensors and shield projectors thus became vulnerable to attack, as demonstrated by Rebel starfighter pilots.<ref name="SW:Cl1" /><ref name="ROTJ" />
+
+===Complement===
+A minimum of 144 [[Starfighter/Legends|starfighters]] were carried on board ''Executor''-class vessels,<ref name="Starships of the Galaxy1" /> but the massive hangars could hold thousands.<ref name="Star Wars Episode V: The Empire Strikes Back" /><ref name="Darksaber" /> In addition to fighters, the ''Executor''-class also carried a large number of landing craft, dropships, ground armor and up to three [[IM-455 modular garrison|prefabricated garrison bases]].<ref name="SW:Cl1" />
+
+At least three hangar bays were located on the portside,<ref name="RAII" /> several underneath the vessel<ref name="Star Wars Episode V: The Empire Strikes Back" /> and multi-level fighter bays deep inside the main superstructure.<ref name="RAII" />
+The class had an internal [[Beltway]] cargo handling system. The internal freight shaft went from the stern to the prow of the battleship, equipped with a tracked hauler that could carry large loads throughout the vessel.<ref name="ELII:RS" />
+
+[[File:Executor-class_bridge_layout.jpg|thumb|left|150px|The bridge layout of an ''Executor''-class Dreadnought]]
+These ''Super''-class Star Destroyers possessed six detention blocks that were used for crew discipline alone. They held ten additional high-security blocks that were used for enemy prisoners. Furthermore, they contained three cargo areas that were designed for the secure transport of large quantities of slaves, refugees or even prisoners of war. Adjacent to the large landing bays used by the bulk shuttles were holding areas that were equipped with only minimal facilities in terms of water taps, ventilation and food dispensers. These regions of the ship were considered adequate for up to a thousand people.<ref name="Tyrant's Test">''[[Tyrant's Test]]''</ref>
+
+===Bridge===
+The bridge tower was almost a starship in itself and was a standard module on many different KDY warship classes. It was equipped with heavy shielding to compensate for its highly visible location, and contained mess halls, special quarters for officers of high rank, and large escape pods.<ref name="SW:Cl1" /> The admiral aboard the vessel even had his own escape pod, directly above the command bridge and next to admiral's suites. The command tower also had its own power generators, relays, and life-support systems. It was connected to the ship's main reactor by a cluster of power feeds. The tower's shaft was also littered with thin flaps that had a variety of purposes, including heat-sink panels, small radiators, antennas, and even defensive cannons on occasion.<ref name="SW:Cl1" />
+
+[[File:Executor_commandsalon.jpg|thumb|right|200px|The command salon of an ''Executor''-class Dreadnought]]
+The bridge of the ''Executor'' had the same basic layout as standard Star Destroyers. The outermost part featured nine triangular viewports. The center contained two crewpits which housed the control consoles for the ship, of which there were six consoles for each crew pit.<ref name="SWTJIF">''[[Star Wars Technical Journal of the Imperial Forces]]''</ref> As the crewpits inhibited the flight data officers, tracking systems specialists, and combat supervisors' ability to see through the bridge's viewport, the crew focused on their consoles without unnecessary distraction.<ref name="CVD" /> Between them was the command walkway.<ref name="Star Wars Episode V: The Empire Strikes Back" /> To the right and left sides of the bridge were two alcoves containing the weapons and defense stations,<ref name="SW:Cl1" /> which were located to the right and left of the hall, respectively, and likewise were placed near minor viewports. Behind the bridge was the Security Foyer,<ref name="SWTJIF" /> which contained the communications stations on the leftmost wall, a [[Turbolift/Legends|turbolift]], and a [[HoloNet/Legends|HoloNet]] pod for ship-to-ship communications at the center. Immediately behind the Security Foyer was a series of steps that led directly to the main corridor, with the immediate entryway to the corridor possessing access doorways to each side.<ref name="SWTJIF" /> On the level directly beneath the bridge was the main navigation complex.<ref name="SW:Cl1" />
+
+==History==
+===Design and construction===
+[[File:Executordeathsquad.jpg|thumb|left|250px|''Executor'', lead ship of the class, and several escorting [[Imperial-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]]]]
+The ''Executor''-class was the brainchild of [[Lira Wessex/Legends|Lira Wessex]], the brilliant and ambitious engineer who already had the designs of the [[Venator-class Star Destroyer/Legends|''Venator''-class]] and ''Imperator''-class (later renamed ''Imperial''-class) Star Destroyers to her credit.<ref name="ISDDB">{{DB|starship|imperialstardestroyer|Imperial Star Destroyer}}</ref><ref name="RACDB">{{DB|starship|republicattackcruiser|Republic attack cruiser}}</ref> Following her work on the already-impressive ''Imperial''-class, Wessex sought to improve on the design.
+
+Adhering to Kuat Drive Yards' philosophy of psychological effect in starship design, or "terror styling,"<ref name="SW:Cl1" /> she believed that the immense size of an ''Imperial''-class Star Destroyer was largely responsible for its ability to intimidate opponents. Working on that theory, she began designing a starship that would dwarf all her previous works. Though KDY had designed and built extremely large warships in the past, such as Star Dreadnoughts like the [[Mandator-class Star Dreadnaught|''Mandator''-class]]<ref name="Attack of the Clones: Incredible Cross-Sections">''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''</ref><ref name="ROTS:ICS2" /> and [[Battlecruiser/Legends|battlecruisers]] like the [[Procurator-class Star Battlecruiser|''Procurator''-class]],<ref name="Attack of the Clones: Incredible Cross-Sections" /> the result obtained by Wessex was utterly gargantuan.<ref name="SW:Cl1" /> Although the ship was developed by Kuat Drive Yards, the Emperor commissioned [[Fondor Shipyards/Legends|Fondor Shipyards]] to finish the lead ship, much to Fondor's consternation, as they had to put several civilian ship designs on hold. Their anger grew worse when it became apparent that Kuat Drive Yards would continue development of all future Super Star Destroyer models, as they hoped this would act as an opportunity to steal future design grants from their business rival. In addition, Kuat was also commissioned to develop a second ''Executor''-class in secret, in order to get away with stating that the ship was developed in both Kuat and Fondor.
+
+[[File:ITW_Executor_tower.jpg|thumb|right|250px|Cutaway of the (damaged) command tower of the [[Executor/Legends|''Executor'']]]]
+Emperor Palpatine authorized the construction of the first four ''Executor''-class ships even before the [[Battle of Yavin/Legends|Battle of Yavin]] ([[0 BBY/Legends|0 BBY]]), but it still had to be slipped past the watchful eyes of various oversight committees in the [[Imperial Senate/Legends|Imperial Senate]]; to the very last, the minority of Senators who opposed Palpatine and his policies used the few political tools they had left to hinder him, and one of these was budget oversight. To conceal the particulars of the vessel from the opposition, the Navy listed the new ship as a "[[Super-class Star Destroyer|''Super''-class Star Destroyer]]" in budget reports submitted to the Senate, and understated its true length (19,000 meters) by many kilometers.<ref name="sbp1" />
+
+Owing to this, the ''Executor''-class and other ships of its range in size came to be unofficially classed "Super Star Destroyers."<ref name="SW:Cl1" /> The ship's length, even in Imperial government scandocs, was variously reported as 8,000 or 12,800 meters, before the true details of the size of the class came to light.<ref name="sbp1" />
+
+The first of the class, the [[Executor/Legends|''Executor'']], began construction in the years preceding the [[Battle of Yavin/Legends|Battle of Yavin]]. The unfinished vessel was used as a headquarters for [[Anakin Skywalker/Legends|Darth Vader]] and his secret apprentice, [[Galen Marek]].<ref name="TFUc">[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]]</ref>
+With the sudden and unanticipated destruction of the Death Star at Yavin, Wessex's production schedule changed completely. At the urging of [[Anakin Skywalker/Legends|Darth Vader]], the Emperor ordered her to rush the new line into production as quickly as possible, to compensate for the loss of the battle station.<ref name="SW:Cl1" /> As certain segments of naval command may have anticipated, a new symbol of intimidation was needed, and as Wessex had believed, the ''Executor''-class fit the need well.
+
+The first two ''Executor''-class ships were now being built simultaneously, with the ''[[Lusankya/Legends|Lusankya]]'' at Kuat Drive Yards and the ''Executor'' moved to the Fondor Shipyards.<ref name="DVS" /> Darth Vader received the finished ''Executor'' at Fondor about half a year after the fiasco at Yavin. The second ship, then known as the ''Executor II'',<ref name="CATC">''[[Coruscant and the Core Worlds]]''</ref> was completed shortly afterwards at Kuat, received its new name, and was hidden on [[Coruscant/Legends|Coruscant]].<ref name="X:TKT">''[[X-Wing: The Krytos Trap]]''</ref>
+
+===Imperial service===
+[[File:Rotj111.png|thumb|left|200px|A view of an ''Executor''-class Star Dreadnought's dorsal surface]]
+The ''Executor'' went on to become the most feared and famous of its class by virtue of its status as Darth Vader's command ship.<ref name="Imperial Sourcebook" /><ref name="SW:Cl1" /> Because of the ''Executor''{{'s}} stance as the lead ship of Darth Vader's fleet, [[Death Squadron/Legends|Death Squadron]], Death Squadron's fleet insignia also bore the image of an ''Executor''-class Star Dreadnought. In addition, four ''Executor''-class Star Dreadnoughts, including the ''Executor'' itself, were known to have been in service to the Empire by the time of the Battle of Hoth in 3 ABY.<ref name="EGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref> However, the vessel was destroyed at the Battle of Endor in [[4 ABY/Legends|4 ABY]], after an [[RZ-1 A-wing interceptor/Legends|A-wing starfighter]] rammed through its bridge and it subsequently crashed into the [[Death Star II/Legends|Death Star II]].
+
+During the early years of the Galactic Civil War, several other ''Executor''-class ships were built and fielded. A [[Fondor shipyard assault|Rebel strike]] destroyed an [[Unidentified Executor-class Star Dreadnought|''Executor''-class ship]], upgraded with cloaking technology, while still under construction at [[Fondor/Legends|Fondor]] in [[3 ABY/Legends|3 ABY]].<ref name="SW:RSIII" /> Another Star Dreadnaught with cloaking capability, the ''[[Terror]]'', was already operational by 3 ABY.<ref name="RAII" /> The [[Vengeance (Executor-class)/Legends|''Vengeance'']] led a [[Task Force Vengeance/Legends|task force]] around this time.<ref name="FOB">''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''</ref> Towards the end of Palpatine's glory days in 4 ABY, other ''Executor''s were noted as well. The [[Guardian (Executor-class)|''Guardian'']] was tasked with protecting [[Coruscant/Legends|Coruscant]],<ref name="WBC">[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]</ref> the [[Annihilator (Executor-class)/Legends|''Annihilator'']] served close to Kuat,<ref name="EAW:FOC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref> the [[Reaper (Executor-class)|''Reaper'']] led [[Scourge Squadron]] on its patrols in the [[Outer Rim Territories/Legends|Outer Rim Territories]]<ref name="TPA">{{JournalCite|3|The Pentastar Alignment}}</ref> and the [[Iron Fist (Executor-class)|''Brawl'']] was given to Admiral [[Zsinj]] by Palpatine himself.<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+
+In the later years, production on ''Executor''-class Star Dreadnoughts and other Super Star Destroyers accelerated in a display of the Emperor's wealth and power. After the death of the Emperor and the fragmentation of the Galactic Empire into feuding fiefs, ''Executor''-class Star Dreadnoughts were popular acquisitions amongst [[Warlord/Legends|warlords]] hoping to improve their military power and prestige. Some would fall into the hands of the [[New Republic/Legends|New Republic]], where they would fight against the Empire they had once served.<ref name="Crimson Empire" /><ref name="The Essential Chronology">[[The Essential Chronology (real-world book)|''The Essential Chronology'']]</ref> The Imperial Warlord [[Superior General]] [[Sander Delvardus]] had a new ''Executor''-class Star Dreadnought constructed at great expense and it was completed in [[12 ABY/Legends|12 ABY]]. It was named the [[Knight Hammer|''Night Hammer'']] and was soon taken by Admiral [[Natasi Daala]] as her flagship. She renamed it the ''Knight Hammer'' and led it in an [[Assault on Yavin 4|attack]] against the [[Jedi Praxeum]] on [[Yavin 4/Legends|Yavin 4]]. However, it was destroyed by the Jedi [[Callista Ming]].<ref name="Darksaber" />
+
+===Legacy===
+[[File:Executor_Imperator_comparison.jpg|thumb|right|250px|Side view of ''Executor''-class Star Dreadnought and ''Imperial''-class Star Destroyer]]
+Following the [[Black Fleet Crisis]], where the New Republic faced the Star Dreadnought [[Intimidator (Executor-class)|''Intimidator'']],<ref name="TBFC" /> a decision was made to build a warship class that could counter threats from rogue warships like the ''Executor''-class. The result was the Star Dreadnought-analogue [[Viscount-class Star Defender|''Viscount''-class Star Defender]] built by the [[Mon Calamari/Legends|Mon Calamari]].<ref name="sbp1" />
+
+In addition to these Star Defenders, the few ''Executor''-class Star Dreadnoughts left after the Galactic Civil War would see heavy action in the [[Yuuzhan Vong War]], where even more ships were lost.<ref name="The New Jedi Order">''[[Star Wars: The New Jedi Order]]''</ref>
+After the war, the only known Star Dreadnought left and operating under the [[Galactic Federation of Free Alliances|Galactic Alliance]] was the [[Guardian (Executor-class)|''Guardian'']], which was present at the [[Battle of Yuuzhan'tar]],<ref name="TUF" /> and later returned to its post at [[Kashyyyk/Legends|Kashyyyk]], following the war's end.<ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]''</ref>
+
+By the [[Sith–Imperial War]], the ''Executor''-class was gone from active service, having been found too expensive to run. It shared this fate with many other heavy warship designs, as fleet doctrine moved towards smaller, compact weapons platforms, like the [[MC140 Scythe-class main battle cruiser|MC140 ''Scythe''-class main battle cruiser]].<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+The final legacy of the ''Executor''-class was its partial inspiration for the [[Pellaeon-class Star Destroyer|''Pellaeon''-class Star Destroyer]], which incorporated systems from both it and the ''Imperial''-class Star Destroyer.<ref name="SOTG07" />
+
+==Behind the scenes==
+[[File:Atari_ESB_ship.jpg|thumb|left|250px|Atari vector drawing with similar [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] production art underneath]]
+Other phrases used to describe these vessels were "[[Cruiser/Legends|cruiser]]" ([[Star Wars: The Empire Strikes Back (novelization)|''The Empire Strikes Back'' novelization]]), "battlecruiser," "[[Battleship/Legends|battleship]]," and "[[Dreadnaught/Legends|dreadnaught]]" (all from the ''[[Classic Star Wars]]'' comics), "Star Destroyer" ([[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]), and "[[Star Cruiser/Legends|Star Cruiser]]" ([[Star Wars (1977)|Marvel's ''Star Wars'']] comics).
+
+In the [[The Empire Strikes Back (arcade game)|''Empire Strikes Back'' arcade game]] for Atari, an Imperial ship can be seen searching for the Rebels' secret base shortly before the Battle of Hoth. This crude vector drawing was similar to an early ''Executor'' production painting. A similar reuse was made in [[Star Wars (1977) 60|''Star Wars'' (1977) 60]] and [[Star Wars (1977) 61|''Star Wars'' (1977) 61]], where the flagship of [[Admiral/Legends|Admiral]] [[Mils Giel]], the [[Helmsman (battlecruiser)|''Helmsman'']], was based on early ''Executor'' concept art.
+
+The filming model of ''Executor'' included some unusual items attached or built-in to create structural details. One notable item visible on close examination of the model is a toy soldier.
+
+Originally, during production of ''The Empire Strikes Back'', the ''Executor'' was meant to be just another type of Star Destroyer, similar in design to the ones seen in [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], only faster. At some point, the design was changed and enlarged, and the vessel became much bigger than its escorting Star Destroyers. [[Canon|G-canon]] movie visuals established a length of around 11 miles, a size that was maintained by the special-effects team for its two on-screen appearances. Early sources like the ''Star Wars Episode V: The Empire Strikes Back'' script (1978), the ''Empire Strikes Back'' novelization (1980), and ''[[The Empire Strikes Back Official Poster Monthly]]'' (1980) described the ''Executor'' as larger and more powerful than the five ISDs accompanying it. (The sources all used "larger," but the other characteristics differed slightly. The script used the phrase "more awesome," the ''Poster Monthly'' "stronger," and the novelization "more ominous." The relation to the five escorting ships remained constant.)
+[[File:ExecutorMan-SWTC.jpg|thumb|right|180px|A toy soldier in the superstructure of the ''Executor'' filming model]]
+''[[A Guide to the Star Wars Universe]]'' (1984) said it was approximately five times larger and more destructive than any Star Destroyer in the Imperial Fleet. Since multiple mile-long Star Destroyers are in [[Star Wars Legends|Legends]] material (implicitly stated in books like [[Darksaber (novel)|''Darksaber'']] and ''[[Dark Forces: Soldier for the Empire]]'', and explicitly stated in ''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''), this is consistent with earlier sources and does not indicate the ''Imperial''-class specifically, which would have created an inconsistency.
+
+In 1989, the roleplaying-game-based ''[[Imperial Sourcebook]]'' stated that the class was exactly five times the length of the ''Imperial''-class Star Destroyer, and this figure was perpetuated for about 15 years, in game and non-game sources. Often, the accompanying ''Executor'' illustrations did not match the model used in the films, with the command tower being too large compared to the rest of the vessel, the tail section being truncated, and the ship having fewer engines (usually stated as nine).
+
+The behind-the-scenes book ''[[From Star Wars to Indiana Jones: The Best of the Lucasfilm Archives]]'' (1995) showed the film props and stated that the ''Executor'' was conceived as eleven times the size of the original Star Destroyer, which itself was one mile (1.6 km) long. The [[Star Wars Customizable Card Game|''Star Wars'' Customizable Card Game]] (1996) stated that the ''Executor'' was over 8 kilometers long, while the [[Topps]] Widevision card set released in the same year repeated that the ''Executor'' was larger than the five ISDs that accompanied it in ''The Empire Strikes Back''. The novel ''[[X-Wing: The Bacta War]]'' also mentioned a sister ship, the ''Lusankya'', as being ten times larger than an ISD [[Battle of Thyferra|it was battling]]. Despite this, the novel also described the ''Lusankya'' as 8 kilometers long.
+[[The Black Fleet Crisis|''The Black Fleet Crisis'']] novel ''[[Shield of Lies]]'' (1996) contained a reference to one of the ''Executor''{{'s}} sister ships as an "''Executor''-class Star Destroyer." The ''Executor''-class would later be reused as the class name of the ''Executor'' and its sister ships.
+The 1998 [[LucasArts]] interactive CD-ROM ''[[Star Wars: Behind the Magic]]'' described the ''Executor'' alternately as 8 and 12.8 kilometers.
+
+[[File:DVSD.jpg|thumb|left|180px|Early [[Executor/Legends|''Executor'']] concept art (top); the [[Praetor Mark II-class battlecruiser|''Praetor Mark II''-class battlecruiser]] [[Helmsman (battlecruiser)|''Helmsman'']], [[Mils Giel|Giel's]] flagship (bottom)]]
+
+In 2004, the ''[[Inside the Worlds of Star Wars Trilogy]]'' reference book changed the ''Executor''{{'s}} length to 19 kilometers. It was explained by continuity checker [[Leland Chee]] to be more consistent with the films. Later books and reference guides mostly followed this number.
+
+The official [[Databank (original)|Databank]] has given various sizes over the years, starting with "over eight times longer than an ISD," to 12.8 kilometers (as a compromise between fan groups), and finally, 19 kilometers. In addition to the ''Executor''{{'s}} size, its class and its members were retconned to be ''Executor''-class Star Dreadnoughts, with the earlier classifications of Super Star Destroyer and ''Super''-class Star Destroyer being explained as military colloquialisms and used originally for disinformation purposes by the Empire (explained on the [[Wizards of the Coast]] [http://www.wizards.com/default.asp?x=starwars/article/sw20060309jc84 website]).
+
+Some fans criticized this information for only pandering to a group derisively called "Saxtonites" (based on the ''Star Wars'' author and technical fan site webmaster [[Curtis Saxton]]), and some still reject that the earlier 8-kilometer number was erroneous or that the films can be used to justify "facts" in the ''Star Wars'' universe, despite being classified by [[Lucas Licensing]] as the highest canon externally and as part of G-canon internally. The continued use of ''Super''-class Star Destroyer and Super Star Destroyer for these bigger warships, now as colloquialisms instead of nomenclature that describes the ship type, limits any potential continuity errors. The latest ship-centered book, [[Starships of the Galaxy (Saga Edition)|the 2007 edition of ''Starships of the Galaxy'']], uses both the colloquial terms as well as the more recent nomenclature, even adding a separate term for SSDs in general, "star dreadnought," regardless of whether they're of the specific Star Dreadnought type.
+
+In addition to the reclassification of the ''Executor'', there have been many additions to the Super Star Destroyer line, which originally only described the ''Executor'' and its class. These include Admiral Giel's flagship seen in the Marvel comics, the [[Eclipse-class dreadnought|''Eclipse'']], the [[Allegiance (Allegiance-class)|''Allegiance'']], and the [[Sovereign-class Super Star Destroyer|''Sovereign'']] seen in ''[[Star Wars: Dark Empire]]'' and [[Dark Empire Sourcebook|its sourcebook]]. Several types are described in ''Inside the Worlds of Star Wars Trilogy'', from smaller [[Star Cruiser#Imperial use|Star Cruisers]] to bigger battlecruisers and Star Dreadnoughts, like the sixteen-engine ''[[Megador]]'' featured in the ''[[Star Wars: The Dark Nest Trilogy|Dark Nest Trilogy]]'', and an early, smaller [[Super Star Destroyer prototype|prototype]] explored in ''[[Dawn of Defiance]]''.
+
+[[File:ExecutorShuttle-ESB.jpg|thumb|right|190px|The light gray ''Executor'' in ''The Empire Strikes Back'']]
+When the domes on ''Executor''{{'s}} bridge tower exploded during the Battle of Endor, a crewman said that the bridge shields were down. This could suggest the domes were shield generators (despite one dome being intact), something that was reinforced by the ''Star Wars Roleplaying Game''{{'s}} sourcebooks. In the February 1983 issue of [[Wikipedia:Cinefex|''Cinefex'']], [[Richard Edlund]] of [[Industrial Light & Magic]] simply referred to them as "radar domes," similar to real-life domes on warships. Despite this, novels like the [[Star Wars: X-Wing (novel series)|''X-wing'']] books have used destroying the domes to disable shields as a plot point. To complicate things, ''The Bacta War'' also mentioned the SSD ''Lusankya'' as having sensor domes. The book ''Inside the Worlds of the Star Wars Trilogy'' clarified that these domes were, in fact, sensor domes built with local-area shield emitter vanes.
+
+In one of the new shots inserted into ''The Empire Strikes Back'' 1997 Special Edition, ''Executor'' was light gray, in contrast to all other shots of it in the film, where it is bluish-gray. This could be accounted for by different background lighting, as the ''Executor'' is seen as both light gray and white in publicity shots.
+
+[[Jason Fry]] in his endnotes admitted that he deliberately kept the exact number of ''Executor''-class Star Dreadnoughts ambiguous, and hoped that the reference to black budgets and intelligence work would cover the [[in-universe]] reason behind the ambiguous amount.<ref name="JFT">{{Tumblr|subdomain=jasonfry|url=post/24881617404/eg-to-warfare-endnotes-pt-11|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 11}}</ref>
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Executorbridge.jpg|thumb|200px|The ''Executor''{{'s}} command bridge]]
+{{Mediacat|imagecat=Images of Executor-class Star Dreadnoughts}}
+*''[[Star Wars: Battlefront II]]'' {{C|only as scenery in some space maps}}
+*''[[Star Wars: The Force Unleashed]]''
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]] {{Flash}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Star Wars Missions 18: Rogue Squadron to the Rescue]]''
+*"[[Darth Vader Strikes]]" {{Reprint|Darth Vader Strikes}}
+*"[[Traitor's Gambit]]" {{Reprint|Traitor's Gambit}} {{Flash}}
+*"[[The Return of Ben Kenobi]]" {{Reprint|The Return of Ben Kenobi}}
+*"[[The Power Gem]]" {{Reprint|The Power Gem}} {{Hologram}}
+*"[[It's a Trap]]" {{Reprint|It's a Trap}}
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*"[[Showdown (LA Times)|Showdown]]" {{Reprint|Showdown (LA Times)}}
+*"[[The Final Trap]]" {{Reprint|The Final Trap}}
+*[[Rebellion 1|''Rebellion'' 1]]
+*[[Rebellion 4|''Rebellion'' 4]]
+*[[Rebellion 5|''Rebellion'' 5]]
+*{{Tales|4|Sand Blasted}}
+*''[[Galaxy of Fear: The Hunger]]''
+*[[Splinter of the Mind's Eye 3|''Splinter of the Mind's Eye'' 3]]
+*''[[The Bounty Hunter]]''
+*{{Film|V}} {{1st}}
+*[[Star Wars (1977) 39|''Star Wars'' (1977) 39]] {{Reprint|Star Wars (1977) 39}}
+*[[Star Wars (1977) 40|''Star Wars'' (1977) 40]] {{Reprint|Star Wars (1977) 40}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 41|''Star Wars'' (1977) 41]] {{Reprint|Star Wars (1977) 41}}
+*[[Star Wars (1977) 42|''Star Wars'' (1977) 42]] {{Reprint|Star Wars (1977) 42}}
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*[[Star Wars (1977) 51|''Star Wars'' (1977) 51]] {{Reprint|Star Wars (1977) 51}}
+*''[[Star Wars: Imperial Ace]]''
+*[[Star Wars (1977) 63|''Star Wars'' (1977) 63]] {{Reprint|Star Wars (1977) 63}}
+*[[Star Wars (1977) 65|''Star Wars'' (1977) 65]] {{Reprint|Star Wars (1977) 65}} {{Imo}}
+*''[[Star Wars Adventures: The Will of Darth Vader]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''
+*{{GalaxyCite|11|The Emperor's Trophy|reprint=1}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*[[Star Wars (1977) 76|''Star Wars'' (1977) 76]] {{Reprint|Star Wars (1977) 76}}
+*''[[The Rise and Fall of Darth Vader]]''
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*[[Return of the Jedi 1|''Return of the Jedi'' 1]] {{Reprint|Return of the Jedi 1}}
+*[[Return of the Jedi 2|''Return of the Jedi'' 2]] {{Reprint|Return of the Jedi 2}}
+*''[[Slave Ship]]'' {{Flash}} {{Hologram}}
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*{{Tales|12|A Day in the Life}}
+*{{Tales|1|Mara Jade: A Night on the Town}} {{Hologram}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*{{JournalCite|4|Starter's Tale}} {{Flash}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Before the Storm]]''
+*''[[Shield of Lies]]''
+*''[[Tyrant's Test]]''
+*{{JournalCite|15|Two for One}}
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest III: The Swarm War]]''
+*{{StoryCite|story=Celestia Galactica Photografica|book=Star Wars: Visionaries}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-11-21 -->[[Star Wars Infinities: A New Hope 4|''Star Wars Infinities: A New Hope'' 4]]
+*<!-- 2005-12-XX -->"[[Perfect Evil]]"
+*<!-- 2005-12-XX -->{{StoryCite|story=Vader vs. Artoo & Threepio|book=Star Wars Manga: Silver}}
+*<!-- 2009-08-XX -->"[[Murder on the Executor|Murder on the ''Executor'']]" {{Un}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Executor-class Star Dreadnoughts}}
+*<!-- 1981-XX-XX -->{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=Dagobah Action Playset|altlink=http://theswca.com/index.php?action=disp_item&item_id=39653}}
+*<!-- 1982-XX-XX -->[[The Empire Strikes Back Coloring Book (1982)|''The Empire Strikes Back Coloring Book'' (1982)]]
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{ID|''Super''-class Star Destroyer}}
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']] {{ID|Super Star Destroyer and ''Super''-class Star Destroyer}}
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]'' {{Po}}
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]] {{ID|''Super''-class Star Destroyer}}
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-08-XX -->{{JournalCite|3|The Pentastar Alignment|reprint=1}}
+*<!-- 1995-04-XX -->''[[Dark Forces Official Player's Guide]]''
+*<!-- 1995-11-XX -->''[[The Illustrated Star Wars Universe]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Galactic Empire—Ships of the Fleet]]''
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Death Squadron}}
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Executor}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Flagship}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Rogue Asteroid (Light)}}
+}}
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Dreaded Imperial Starfleet}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Oppressive Enforcement}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Return To Base}}
+}}
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Admiral Piett}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Commander Merrejk}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Flagship ''Executor''}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Flagship Operations}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Inconsequential Losses}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Intensify The Forward Batteries}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Menace Fades}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Prepared Defenses}}
+}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2006-03-09 -->{{Wizards|url=default.asp?x=starwars/article/sw20060309jc84|series=Jedi Counseling|text=84}}
+*<!-- 2006-10-19 -->{{Wizards|url=default.asp?x=starwars/article/SBPreview1|text=''Starship Battles'' Preview 1}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-05-20 -->''[[Threats of the Galaxy]]''
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-02-05 -->{{Hyperspace|url=hyperspace/source/praji/20090205.html|text=Tinker, Tailor, Soldier, Praji|int=Tinker, Tailor, Soldier, Praji}}
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+*<!-- 2011-09-13 -->{{DB|starship|imperialstardestroyer|Imperial Star Destroyer}}
+*<!-- 2011-09-13 -->{{DB|starship|superstardestroyer|Super Star Destroyer}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-05-01 -->{{InsiderCite|133|The Art of Warfare|The Art of ''Warfare''|reprint=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=TIE Interceptor Expansion Pack|cardname="Fel's Wrath"}} {{Po}}
+<!-- 2013-09-20 -->{{CardGameSet|set={{FFGTCG|set=Escape from Hoth|parent=1}}|cards=
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=''Executor''|link=the-hoth-cycle/escape-from-hoth/executor-escape-from-hoth-66-2}} {{Po}}
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=The ''Executor'' Arrives|link=the-hoth-cycle/escape-from-hoth/the-executor-arrives-escape-from-hoth-66-1}} {{Po}}
+}}
+*<!-- 2013-12-17 -->{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-2|series=The Imperial Warlords: Despoilers of an Empire|text=Part 2|nolive=1}} {{Imo}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=The Admiral's Assault|link=echoes-of-the-force-cycle/it-binds-all-things/the-admiral’s-assault-r782}} {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=181st TIE Interceptor|link=rogue-squadron/ready-for-takeoff/181st-tie-interceptor-r1243}} {{Po}}
+*<!-- 2023-08-22 -->{{NightdiveYouTube|4b9TTurkH4c|Star Wars™: Dark Forces Remaster - Reveal Trailer}}
+*<!-- 2024-02-28 -->{{NightdiveYouTube|3ndr_cPvwvo|Star Wars™: Dark Forces Remaster - Available Now!}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+{{Interlang
+|da=Executor-class Star Dreadnought
+|de=Exekutor-Klasse Sternenschlachtschiff
+|es=Acorazado Estelar clase Ejecutor/Leyendas
+|fi=Executor-luokan supertähtituhoaja/Legends
+|fr=Super Destroyer Stellaire de classe Executor/Légendes
+|hu=Executor-osztályú szuper csillagromboló
+|nl=Executor-class Star Dreadnaught
+|pl=Gwiezdny superniszczyciel typu Executor/Legendy
+|sv=Executor-klass stjärnslagkryssare
+|uk=Зоряний суперруйнівник типу «Кат»
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Star Dreadnought classes]]
+[[Category:Starship classes of the Dark Empire]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Imperial Remnant]]
+[[Category:Starship classes of the New Republic]]
+[[Category:Super Star Destroyer variants]]
+
+{{RelatedCategories
+|[[Category:Executor-class Star Dreadnoughts]]
+}}

@@ -1,0 +1,79 @@
+{{Top|leg|title=''Epoch''-class freighter}}
+{{StarshipClass
+|image=
+|name=Epoch-class freighter
+|designer=
+|manufacturer=[[Shobquix Yards]]<ref name="AJ10">{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}</ref>
+|line=
+|model=''Epoch''-class freighter
+|type=[[Freighter/Legends|Freighter]]<ref name="AJ10" />
+|cost=
+|modifier=
+|sysmods=
+|length=23 [[Meter/Legends|meters]]<ref name="AJ10" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1 {{C|primary}}<ref name="AJ10" />
+*Class 7 {{C|backup}}<ref name="AJ10" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=(1) [[Laser cannon/Legends|laser cannon]]<ref name="AJ10" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Transport/Legends|Transport]]
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Epoch''-class [[Freighter/Legends|freighter]]''' was a type of [[Transport/Legends|transport]] [[Starship/Legends|starship]] in use during the [[Clone Wars/Legends|Clone Wars]].
+
+It was produced by [[Shobquix Yards]] and modelled after the [[YT-1210 light freighter/Legends|YT-1210]] and [[YT-1300 light freighter/Legends|YT-1300]]. It was a sturdy class well suited to mining and ore hauling. The [[Resolve (Epoch-class)|''Resolve'']] was a modified ''Epoch''-class freighter.<ref name="AJ10" />
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[Yoda: Dark Rendezvous]]'' {{Ab|Yoda: Dark Rendezvous (unabridged audiobook)}}
+
+==Sources==
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Epoch-Klasse Frachtschiff
+}}
+
+[[Category:Freighter classes]]
+[[Category:Shobquix Yards products]]
+
+{{RelatedCategories
+|[[Category:Epoch-class freighters]]
+}}

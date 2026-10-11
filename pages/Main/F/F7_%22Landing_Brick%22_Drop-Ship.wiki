@@ -1,0 +1,82 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=F7 "Landing Brick" Drop-Ship
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="RoE">''[[Rules of Engagement: The Rebel SpecForce Handbook]]''</ref>
+|line=
+|model=F7 Drop-ship
+|type=Medium [[Transport/Legends|transport]]
+|cost=
+|modifier=
+|sysmods=
+|length=60 [[Meter/Legends|meters]]<ref name="RoE" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=*1,200 [[Kilometer per hour/Legends|kph]] {{C|drop}}<ref name="RoE" />
+*650 kph {{C|standard}}<ref name="RoE" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=None
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="RoE" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] (1)<ref name="RoE" />
+|complement=
+|bays=
+|escapepods=
+|crew=3<ref name="RoE" />
+|skeleton=
+|passengers=40<ref name="RoE" />
+|capacity=
+|cargohandling=250 [[Metric ton/Legends|metric tons]]<ref name="RoE" />
+|consumables=2 [[Standard day/Legends|days]] {{C|emergency rations}}<ref name="RoE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Troop [[Dropship/Legends|dropship]]
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The [[Kuat Drive Yards/Legends|Kuat Drive Yards]] '''F7 "Landing Brick" Drop-ship''' was a [[Landing craft/Legends|landing craft]] used by the [[Imperial Military/Legends|Imperial Military]].
+
+==Characteristics==
+The F7 was KDY's attempt to improve upon the [[MT/191 drop-ship]] after it acquired [[Meller & Dax]]. While longer than the MT/191, the F7 had only a single deck capable of carrying a [[Platoon/Legends|platoon]] into combat. It was also even less aerodynamic than the MT/191, earning the F7 its unflattering nickname.<ref name="RoE" />
+
+The F7 made up for it by having a larger cargo capacity, superior engines, defensive and offensive systems, as well as a permanent ceramic coating as opposed to the MT/191's [[VACX]]. In emergencies the F7 was often pressed into combat air support, though it was more normally used transporting [[Galactic Empire/Legends|Imperial]] regular and special forces.<ref name="RoE" />
+
+==History==
+[[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] was known to have used F7 Dropships in unconventional attacks as boarding craft against other capital ships.
+
+==Appearances==
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{1st|in book}}
+
+==Sources==
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=F7 Landungsboot
+}}
+
+[[Category:Dropship classes]]
+[[Category:Kuat Drive Yards products]]
+[[Category:Starship classes of the Galactic Empire]]

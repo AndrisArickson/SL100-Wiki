@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:F9-TZ.jpg]]
+|name=F9-TZ Transport
+|designer=
+|manufacturer=[[Zann Consortium/Legends|Zann Consortium]]
+|line=
+|model=F9-TZ Transport<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|type=[[Repulsorcraft/Legends|Repulsorcraft]]<ref name="FoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+|cost=Not available for sale<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=95 km/h<ref name="RECG" />
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="FoC" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="RECG" />
+|skeleton=
+|passengers=40<ref name="RECG" />
+|capacity=1 ton<ref name="RECG" />
+|cargohandling=
+|consumables=1 week<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="RECG" />
+|role=[[Transport/Legends|Transport]]<ref name="FoC" /><ref name="RECG" />
+|firstuse=
+|retired=
+|affiliation=[[Zann Consortium/Legends|Zann Consortium]]<ref name="FoC" /><ref name="RECG" />
+}}
+{{Quote|Cloaking transport here.|A F9-TZ driver|<ref name="FoC" />}}
+The '''F9-TZ Transport''' was a large [[Repulsorlift/Legends|repulsor]] [[Transport/Legends|transport]] utilized by the [[Zann Consortium/Legends|Zann Consortium]].
+
+==Characteristics==
+The F9-TZ was unique in that it employed a [[Cloaking device/Legends|cloaking device]], allowing for clandestine insertions into a battle zone.<ref name="RECG" /> However, due to the power requirements, the F9-TZ could not use its cloaking device and [[Deflector shield/Legends|deflector shield]] at the same time. The cloaking device was fully integrated into the transport, preventing it from being installed on any other vehicles without a complete overhaul. At full charge, this device could operate for 15 minutes before it had to be shut down and recharged, an operation that lasted 30 minutes.<ref name="RECG" />
+
+The F9-TZ had room to carry four [[Squad/Legends|squads]] and their gear, but could not carry any other vehicles.<ref name="RECG" /> In addition, unlike contemporaries such as the [[HAVt B5 Juggernaut]], the F9-TZ was unarmed, making it vulnerable to heavy fire.
+
+The F9-TZ was based in part on the design of [[Baktoid Armor Workshop/Legends|Baktoid Armor Workshop's]] [[RHTT-6 transport]].
+
+==Appearances==
+*''[[Star Wars: Empire at War: Forces of Corruption]]'' {{1st}}
+
+==Sources==
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|F9-TZ cloaking transport}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[File:F9TZ.jpg|thumb|left|A F9-TZ [[Transport/Legends|Transport]].]]
+
+{{Interlang
+|de=F9-TZ Tarntransporter
+|uk=Транспорт F9-TZ
+}}
+
+[[Category:Repulsorcraft troop transport classes]]

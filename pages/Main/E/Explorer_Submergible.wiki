@@ -1,0 +1,69 @@
+{{Top|leg}}
+{{AquaticVehicle
+|image=[[File:Explorersub.jpg]]
+|name=Explorer Submergible
+|designer=
+|manufacturer=[[Hydrospeare Corporation]]
+|line=
+|model=Explorer Submergible
+|type=Aquatic Assault Vehicle (AAV)
+|cost=
+|modifier=
+|sysmods=
+|length=9.1 meters
+|width=
+|height=6 meters
+|mass=
+|max accel=
+|speed=60 kph,<ref name="AIR">''[[Alliance Intelligence Reports]]''</ref> 85 kph<ref name="CFG">[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]</ref>
+|engine=
+|depth=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Forward [[Taim & Bak/Legends|Taim & Bak]] [[SC4 Heavy Blaster Cannon|SC4 heavy blaster cannon]] (1)
+*[[Arakyd Industries/Legends|Arakyd]] [[5-XV Light Blaster Cannon|5-XV light blaster cannon]] turret (1)
+*[[Siep-Irol/Legends|Siep-Irol]] [[Sensall Active Sensor Array|Sensall active sensor array]] (1)
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot (1)
+*Co-pilot (1)
+*Gunners (2)
+|skeleton=
+|passengers=2
+|capacity=500 kg
+|cargohandling=
+|consumables=1 week
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Aquatic Assault
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''Explorer Submergible''' was an Aquatic Assault Vehicle (AAV) manufactured by [[Hydrospeare Corporation]]'s [[Design Team Beta]] for the [[Galactic Empire/Legends|Galactic Empire]]. It had a hull of lightweight [[link-steel]] with [[burthan thread]]s and could also withstand 8,000 bps of [[Water/Legends|waterpressure]], equal to a depth of 5 kilometers underwater on most worlds. The vehicle moves by scuttling across the ocean floor, using the sconce grip legs to grab a secure foothold. The crew compartment is very cramped, with both passengers stuffed into a small cubbyhole, and all crewmembers except the turret gunner lying on their bellies. The pressurized entry/exit hatch is located on the underside of the body.
+
+Originally the Empire intended the Explorer to become an all-terrain, multi-environment amphibious assault craft. Project manager Dr. [[Tolum Harous]] worked hard to fulfill the Empire's initial requirements but the logistics of the project proved impossible for the same design to work both in land and water, as the design team were unable to get the vehicle swift enough underwater and mobile enough on land to meet the Empire's dual criteria, so the Empire opted for a designed purely for underwater exploration and combat. Although Harous wanted to keep trying, the rest of Design Team Beta convinced him to develop the Explorer as a submergible vehicle, and one of the first AAV's. Even then, the Explorer Submergible gave Hydrospeare Corporation a great name, becoming with the [[Aquatic Terrain Armored Transport|AT-AT Swimmer]] one of the best-known designs.<ref name="AIR" />
+
+Although officially considered an "underwater exploration vehicle", its heavy armament was designed to destroy or subdue hostile lifeforms.<ref name="AIR" />
+
+==Sources==
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]'' {{C|as Explorer Submersible}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Aquatic vehicle models]]
+[[Category:Hydrospeare Corporation products]]
+[[Category:Vehicle classes of the Galactic Empire]]
