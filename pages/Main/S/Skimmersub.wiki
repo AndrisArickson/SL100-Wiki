@@ -1,0 +1,62 @@
+{{Top|leg}}
+{{AquaticVehicle
+|image=
+|name=Skimmersub
+|designer=
+|manufacturer=[[Gungan]] and [[Quarren]] [[engineer]]s<ref name="BL">{{GamerCite|7|Bartyn's Landing (article)}}</ref>
+|line=
+|model=
+|type=*[[Submarine|Submersible]]<ref name="BL" />
+*[[Speeder]]<ref name="BL" />
+|cost=*16,000 [[Galactic Credit Standard|credits]] {{C|new}}<ref name="BL" />
+*7,500 credits {{C|used}}<ref name="BL" />
+|modifier=
+|sysmods=
+|length=9.25 [[meter]]s<ref name="BL" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=410 [[Kilometer per hour|km/h]]<ref name="BL" />
+|engine=*[[Repulsorsail]]s (3) {{C|surface}}<ref name="BL" />
+*[[Hydro-jet]]s {{C|submerged}}<ref name="BL" />
+|depth=500 meters<ref name="BL" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[pilot]]<ref name="BL" />
+|skeleton=
+|passengers=4<ref name="BL" />
+|capacity=18,000 [[Kilogram|kg]]<ref name="BL" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Skimmersubs''' were vehicles manufactured by [[Noloh Gunga Bongoform]]. They had windows made of [[transparisteel]].
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 2001-11-06 -->{{GamerCite|7|Bartyn's Landing (article)}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Submarine models]]

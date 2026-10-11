@@ -1,0 +1,63 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Praxon_Sidewinder.jpg]]
+|name=Sidewinder
+|designer=
+|manufacturer=[[Praxon]]<ref name="TOR">{{TORcite|exp=lots|type=item|Praxon Sidewinder|the Voss Reputation Vendor}}</ref>
+|line=
+|model=
+|type=[[Speeder bike/Legends|Speeder bike]]<ref name="TOR" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]<ref name="TOR" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Sidewinder''' was a model of [[Speeder bike/Legends|speeder bike]] that was manufactured by [[Praxon]] during the [[Third Galactic War]].<ref name="TOR" />
+
+==Appearances==
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]'' {{1st}}
+
+==Sources==
+*{{TORweb|url=patchnotes/12102024/game-update-7.6-galactic-threads|text=Game Update 7.6 "Galactic Threads"}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Praxon products]]
+[[Category:Speeder bike models]]
