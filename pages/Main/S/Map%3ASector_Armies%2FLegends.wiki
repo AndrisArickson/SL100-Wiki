@@ -1,0 +1,359 @@
+{
+    "mapImage": "Clone Wars Sector Armies.png",
+    "pageCategories": [
+        "Interactive Maps",
+        "Legends articles"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1720,
+            2235
+        ]
+    ],
+    "origin": "top-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Sector Army",
+            "color": "#FA005A",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                630.385695427807,
+                926.8524548048872
+            ],
+            "popup": {
+                "title": "First Army",
+                "description": "The '''First Army''', also known as '''Azure Hammer Command''' or the '''[[Coruscant\/Legends|Coruscant]] Sector Army''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] tasked with defending of the [[Coruscant sector]].",
+                "link": {
+                    "url": "First Army",
+                    "label": "First Army"
+                },
+                "image": "File:Anaxes.jpg"
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                826.5,
+                1211.5
+            ],
+            "popup": {
+                "title": "Second Army",
+                "description": "The '''Second Army''', also known as the '''2nd Sector Army''' or '''Green Mantle Command''', was a [[Galactic Republic\/Legends|Republic]] Reserve [[Sector Army\/Legends|Sector Army]] during the [[Clone Wars\/Legends|Clone Wars]].",
+                "link": {
+                    "url": "Second Army",
+                    "label": "Second Army"
+                },
+                "image": "File:Siege of Saleucami.jpg"
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                851,
+                832
+            ],
+            "popup": {
+                "title": "Third Mid Rim Army",
+                "description": "The '''Third Mid Rim Army''', also known as the '''3rd Sector Army''', '''Steel Blade Command''' or simply the '''Third Army''', was a [[Sector Army\/Legends|Sector Army]] charged with the defense of [[Sector 3 (Oversector)|Sector 3]].",
+                "link": {
+                    "url": "Third Mid Rim Army",
+                    "label": "Third Mid Rim Army"
+                },
+                "image": "File:CommenceAttack cw22.jpg"
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                931,
+                1041
+            ],
+            "popup": {
+                "title": "Fourth Outer Rim Army",
+                "description": "The '''Fourth Outer Rim Army''', also known as the '''4th Sector Army''', '''White Cuirass Command''', and simply the '''Fourth Army''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] that defended [[Sector 4]].",
+                "link": {
+                    "url": "Fourth Outer Rim Army",
+                    "label": "Fourth Outer Rim Army"
+                },
+                "image": "File:Battle of Mygeeto.jpg"
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                627.5572683030609,
+                1121.660373021781
+            ],
+            "popup": {
+                "title": "Fifth Deep Core Army",
+                "description": "The '''Fifth Deep Core Army''', also known as '''Shadow Hand Command''' and simply the '''Fifth Army''', was a [[Sector Army\/Legends|Sector Army]] of the [[Grand Army of the Republic\/Legends|Grand Army of the Republic]] charged with the defense of [[Sector 5\/Legends|Sector 5]].",
+                "link": {
+                    "url": "Fifth Deep Core Army",
+                    "label": "Fifth Deep Core Army"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                492,
+                909
+            ],
+            "popup": {
+                "title": "Sixth Negative Regions",
+                "description": "The '''Sixth Negative Regions''', also known as '''Black Sword Command''' and simply the '''Sixth Army''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] reserve [[Sector Army\/Legends|Sector Army]] charged with the defense of [[Sector 6]].",
+                "link": {
+                    "url": "Sixth Negative Regions",
+                    "label": "Sixth Negative Regions"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                621.5468606629752,
+                813.0082630338529
+            ],
+            "popup": {
+                "title": "Seventh Army",
+                "description": "The '''Seventh Army''', also known as '''Golden Nyss Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Immalia Oversector]].",
+                "link": {
+                    "url": "Seventh Army",
+                    "label": "Seventh Army"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                557.2001435749994,
+                549.2574336512707
+            ],
+            "popup": {
+                "title": "Eighth Army",
+                "description": "The '''Eighth Army''', also known as '''Bright Jewel Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Bright Jewel Oversector\/Legends|Bright Jewel Oversector]].",
+                "link": {
+                    "url": "Eighth Army",
+                    "label": "Eighth Army"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                746,
+                505
+            ],
+            "popup": {
+                "title": "Ninth Army",
+                "description": "The '''Ninth Army''', also known as '''Brazen Petard Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Relgim Oversector]].",
+                "link": {
+                    "url": "Ninth Army",
+                    "label": "Ninth Army"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                934.0880579474292,
+                647.5452762362008
+            ],
+            "popup": {
+                "title": "Tenth Army",
+                "description": "The '''Tenth Army''', also known as '''Crimson Dagger Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Quelii Oversector]].",
+                "link": {
+                    "url": "Tenth Army",
+                    "label": "Tenth Army"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1182.2825381439075,
+                509.659453904824
+            ],
+            "popup": {
+                "title": "Eleventh Army",
+                "description": "The '''Eleventh Army''', also known as '''Blazing Claw Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Gordian Reach Oversector]].",
+                "link": {
+                    "url": "Eleventh Army",
+                    "label": "Eleventh Army"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1367.544514814783,
+                690.67878988858
+            ],
+            "popup": {
+                "title": "Twelfth Army",
+                "description": "The '''Twelfth Army''', also known as '''Cerulean Spear Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Maldrood Oversector\/Legends|Maldrood Oversector]].",
+                "link": {
+                    "url": "Twelfth Army",
+                    "label": "Twelfth Army"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1233,
+                1466
+            ],
+            "popup": {
+                "title": "Thirteenth Army",
+                "description": "The '''Thirteenth Army''', also known as '''Iron Lance Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Trans-Nebular Oversector]].",
+                "link": {
+                    "url": "Thirteenth Army",
+                    "label": "Thirteenth Army"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1417.041989497841,
+                1679.9211767685601
+            ],
+            "popup": {
+                "title": "Fourteenth Army",
+                "description": "The '''Fourteenth Army''', also known as '''Red Tails Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Tolonda Oversector\/Legends|Tolonda Oversector]].",
+                "link": {
+                    "url": "Fourteenth Army",
+                    "label": "Fourteenth Army"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1040,
+                1864
+            ],
+            "popup": {
+                "title": "Fifteenth Army",
+                "description": "The '''Fifteenth Army''', also known as '''Hook Nebula Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Sarin Oversector]].",
+                "link": {
+                    "url": "Fifteenth Army",
+                    "label": "Fifteenth Army"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                888.8332239514901,
+                1459.3038610383574
+            ],
+            "popup": {
+                "title": "Sixteenth Army",
+                "description": "The '''Sixteenth Army''', also known as '''Ivory Fang Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Pallis Oversector]].",
+                "link": {
+                    "url": "Sixteenth Army",
+                    "label": "Sixteenth Army"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1018.2337649086284,
+                1655.1724394270311
+            ],
+            "popup": {
+                "title": "Seventeenth Army",
+                "description": "The '''Seventeenth Army''', also known as '''Chrome Shield Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Dustig Oversector]].",
+                "link": {
+                    "url": "Seventeenth Army",
+                    "label": "Seventeenth Army"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                705,
+                1857
+            ],
+            "popup": {
+                "title": "Eighteenth Army",
+                "description": "The '''Eighteenth Army''', also known as the '''Night Hammer Command''' or the '''Greater Seswenna's Sector Army''', was one of the [[Sector Army\/Legends|sector armies]] that comprised the [[Grand Army of the Republic\/Legends|Grand Army of the Republic]] during the [[Clone Wars\/Legends|Clone Wars]].",
+                "link": {
+                    "url": "Eighteenth Army",
+                    "label": "Eighteenth Army"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                440,
+                1747
+            ],
+            "popup": {
+                "title": "Nineteenth Army",
+                "description": "The '''Nineteenth Army''', also known as '''Dark Saber Command''', was a [[Galactic Republic\/Legends|Republic]] and later [[Galactic Empire\/Legends|Imperial]] [[Sector Army\/Legends|Sector Army]] charged with the defense of the [[Javin Oversector]].",
+                "link": {
+                    "url": "Nineteenth Army",
+                    "label": "Nineteenth Army"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                659.0235200658623,
+                1335.5601743307116
+            ],
+            "popup": {
+                "title": "Twentieth Army",
+                "description": "The '''Twentieth Army''', also known as '''Emerald Banner Command''', was a [[Galactic Republic\/Legends|Republic]] [[Sector Army\/Legends|Sector Army]] in the [[Grand Army of the Republic\/Legends|Grand Army of the Republic]] during the [[Clone Wars\/Legends|Clone Wars]].",
+                "link": {
+                    "url": "Twentieth Army",
+                    "label": "Twentieth Army"
+                }
+            },
+            "id": "20"
+        }
+    ],
+    "markerProgress": false
+}

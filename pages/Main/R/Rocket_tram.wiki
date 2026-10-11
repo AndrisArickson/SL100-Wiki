@@ -1,0 +1,68 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Rocket_Tram.png]]
+|name=Rocket tram
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=1
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=Track system
+|availability=
+|role=Public transportation
+|firstuse=
+|retired=
+|affiliation=*[[Coronet Junction]]<ref name="corellia" />
+*[[Czerka Arms/Legends|Czerka Corporation]]<ref name="cz" />
+*[[Old World]] on [[Zakuul]]<ref name="KotFE 10">{{TORcite|exp=kotfe|chapter=10}}</ref>
+}}
+'''Rocket tram''' was a type of [[Tram/Legends|tram]] vehicle used for mono-directional high-speed urban public transportation, run on a system of rail tracks. Equiped with a single powerful rocket engine, these trams were in use during the wars between the [[Sith Empire (Post–Great Hyperspace War)|reconstituted Sith Empire]] and the [[Galactic Republic/Legends|Galactic Republic]]. 
+
+Rocket trams were utilized for [[Coronet Junction]], a public transportation system in [[Coronet City/Legends|Coronet City]] on the [[Planet/Legends|planet]] [[Corellia/Legends|Corellia]], connecting the various districts of the city,<ref name="corellia">{{TORcite|type=location|[[Corellia/Legends|Corellia]]}}</ref> and on a [[Czerka Arms/Legends|Czerka]] [[Moon/Legends|moon]] [[CZ-198]], where rocket tram tracks connected several facilities, including [[Czerka Corporate Labs|Corporate Labs]] and the [[CZ-198 Biodome facility|Biodome facility]].<ref name="cz">{{TORcite|exp=rothc|type=location|[[CZ-198]]}}</ref> Rocket trams were also among [[Tram/Legends|trams]] in use in the [[Old World]] on [[Zakuul]].<ref name="KotFE 10">{{TORcite|exp=kotfe|chapter=10}}</ref>
+
+{{Veh-stub}}
+
+==Appearances==
+*''[[Star Wars: The Old Republic]]'' {{1st}}
+*''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]''
+*''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Coronet Junction]]
+[[Category:Train models]]

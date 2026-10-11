@@ -1,0 +1,75 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:NabooStarFighter.jpg]]
+|name=Royal air cruiser
+|designer=
+|manufacturer=[[Theed Palace Space Vessel Engineering Corps/Legends|Theed Palace Space Vessel Engineering Corps]]
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Turbolaser/Legends|Turbolaser]] (1)
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (2)
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]]
+}}
+The [[Naboo/Legends|Naboo]] '''royal air cruiser''' was a model of [[air cruiser]] employed by the [[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]].
+
+==Characteristics==
+The airspeeder frame was devoted to propulsion, while the power supply for the [[Turbolaser/Legends|turbolaser]] cannon was installed just above the cannon itself. Royal air cruisers provided firepower that could level enemy ground installations or take out slow-moving artillery, but were not well suited to defending against ground troops, airspeeders, or ground speeders.
+
+==History==
+[[File:RoyalAirCruiser.jpg|thumb|left|180px|Multiple views of air cruiser.]]
+
+The design presented an engineering challenge to the [[Theed Palace Space Vessel Engineering Corps/Legends|Theed Palace Space Vessel Engineering Corps]] because the goal was to mount a turbolaser cannon with firepower typical for a capital starship onto a mid-sized tactical airspeeder. They compromised by essentially hanging the cannon below a [[Cloud car/Legends|cloud car]]-like vessel shaped like a flying wing.
+
+==Behind the scenes==
+The Royal air cruiser pilot was voiced by [[Paula Killen]] in the game ''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''.<ref name="gbcc">''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]'' credits screen, <code>Game\Data\LIST_x1.CRX</code></ref>
+
+==Appearances==
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Naboo vehicle classes]]
+[[Category:Repulsorcraft models]]
+[[Category:Theed Palace Space Vessel Engineering Corps products]]
