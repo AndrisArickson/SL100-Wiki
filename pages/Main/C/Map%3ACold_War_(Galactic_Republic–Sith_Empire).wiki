@@ -1,0 +1,829 @@
+{
+    "mapImage": "MainGalaxy.png",
+    "pageCategories": [
+        "Interactive_Maps_of_wars",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "description": "Map markers that contain a \"-\" indicate that the exact location of that battle is unknown but that it took place in a location within that sector or grid square. Battle dates may also be approximate.",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1471,
+            1321
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "3653 BBY",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "3653 BBY (Approximate Location)",
+            "color": "#fa005a",
+            "symbol": "-",
+            "symbolColor": "#fff"
+        },
+        {
+            "id": "5",
+            "listId": 3,
+            "name": "3650 BBY",
+            "color": "#fa1300",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "6",
+            "listId": 4,
+            "name": "3645 BBY (Approximate Location)",
+            "color": "#fa4f00",
+            "symbol": "-",
+            "symbolColor": "#fff"
+        },
+        {
+            "id": "7",
+            "listId": 5,
+            "name": "3643 BBY",
+            "color": "#fa7f00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "8",
+            "listId": 6,
+            "name": "3643 BBY (Approximate Location)",
+            "color": "#fa7f00",
+            "symbol": "-",
+            "symbolColor": "#000"
+        },
+        {
+            "id": "3",
+            "listId": 7,
+            "name": "Exact Date Unknown",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 8,
+            "name": "Exact Date Unknown (Approximate Location)",
+            "color": "#ffffff",
+            "symbol": "-",
+            "symbolColor": "#000"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "2",
+            "position": [
+                823.875,
+                727.625
+            ],
+            "popup": {
+                "title": "Attack on the Envoy",
+                "description": "Shortly after the signing of the [[Treaty of Coruscant]], the [[Republic transport ship]] [[Envoy (Republic transport ship)|''Envoy'']] was '''attacked''' by [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Imperial]] forces.",
+                "link": {
+                    "url": "Attack on the Envoy",
+                    "label": "Attack on the Envoy"
+                },
+                "image": "File:RepublicTransportAttacked-TORToP1.jpg"
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                703.75,
+                767.75
+            ],
+            "popup": {
+                "title": "Bombing of the Senate Tower",
+                "description": "The '''Bombing of the Senate Tower''' was an act of terrorism that occurred on the [[Galactic Republic\/Legends|Galactic Republic's]] [[Capital\/Legends|capital]] [[Planet\/Legends|world]] of [[Coruscant\/Legends|Coruscant]] in [[3653 BBY]]&mdash;just days after the end of the [[Great Galactic War]].",
+                "link": {
+                    "url": "Bombing of the Senate Tower",
+                    "label": "Bombing of the Senate Tower"
+                },
+                "image": "File:Senate Tower bombing.jpg"
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                703.4375,
+                1128
+            ],
+            "popup": {
+                "title": "Skirmish in the Ancient Crystal Cave",
+                "description": "Shortly after the [[Treaty of Coruscant]], '''a skirmish''' took place in the [[Crystal Cave (Dantooine)|crystal cave]] on [[Dantooine\/Legends|Dantooine]] between several [[Jedi\/Legends|Jedi]] and a pair of [[Sith\/Legends|Sith]] [[Sith Lord\/Legends|Lords]].",
+                "link": {
+                    "url": "Skirmish in the Ancient Crystal Cave",
+                    "label": "Skirmish in the Ancient Crystal Cave"
+                },
+                "image": "File:Dantooine skirmish JMGD.jpg"
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1018.5873182992217,
+                964.6704262337474
+            ],
+            "popup": {
+                "title": "Mission to Althir III",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], two [[Galactic Republic\/Legends|Galactic Republic]] soldiers, [[Felix Iresso]] and [[Milo Pellam]], undertook a '''scouting mission''' to the planet [[Althir III]].",
+                "link": {
+                    "url": "Mission to Althir III",
+                    "label": "Mission to Althir III"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                786.5625,
+                861.375
+            ],
+            "popup": {
+                "title": "Attack on Mindor",
+                "description": "In the [[Standard year\/Legends|year]] [[3650 BBY\/Legends|3650 BBY]], during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] , the Sith Empire '''attacked''' a [[Chagrian colony|colony]] of [[Chagrian\/Legends|Chagrian]] pacifists on the [[Planet\/Legends|planet]] [[Mindor\/Legends|Mindor]].",
+                "link": {
+                    "url": "Attack on Mindor",
+                    "label": "Attack on Mindor"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                439.625,
+                925.3125
+            ],
+            "popup": {
+                "title": "Raid on Ilum",
+                "description": "Several [[Standard year\/Legends|years]] after the [[Treaty of Coruscant]] began the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] in [[3653 BBY]], the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] sent a small group of [[Sith\/Legends|Sith]] to the planet [[Ilum\/Legends|Ilum]].",
+                "link": {
+                    "url": "Raid on Ilum",
+                    "label": "Raid on Ilum"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                723.2597517192777,
+                492.67664979172696
+            ],
+            "popup": {
+                "title": "Annexation of Kiffu",
+                "description": "The '''Annexation of Kiffu''' was a conflict during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] in which the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] forcibly took control of the [[Kiffar\/Legends|Kiffar]] homeworld of [[Kiffu\/Legends|Kiffu]].",
+                "link": {
+                    "url": "Annexation of Kiffu",
+                    "label": "Annexation of Kiffu"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1184.934188573357,
+                1002.1028914628102
+            ],
+            "popup": {
+                "title": "Imperial Attack on Voss",
+                "description": "The '''Imperial Attack on Voss''' was an event that occurred in approximately [[3645 BBY]], during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]].",
+                "link": {
+                    "url": "Imperial Attack on Voss",
+                    "label": "Imperial Attack on Voss"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1070.5,
+                1070
+            ],
+            "popup": {
+                "title": "Duel on Odacer-Faustin",
+                "description": "In [[3645 BBY]], a '''duel''' occurred on the [[Water\/Legends|snow]]-covered [[Planet\/Legends|world]] of [[Odacer-Faustin]], between [[Jedi Knight\/Legends|Jedi Knight]] [[Rojo Trace]], and [[Shak'Weth]], [[Sith Blademaster|Blademaster]] of the planet's [[Odacer-Faustin Sith academy|Sith academy]].",
+                "link": {
+                    "url": "Duel on Odacer-Faustin",
+                    "label": "Duel on Odacer-Faustin"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1071.0625,
+                1068.5
+            ],
+            "popup": {
+                "title": "Duel in the Odacer-Faustin Sith Temple",
+                "description": "A '''duel''' took place at the [[Odacer-Faustin Sith academy]] in [[3645 BBY]] when the [[Sith Lord\/Legends|Sith Lord]] [[Darth Scabrous]] attempted to [[Death\/Legends|kill]] [[Hestizo Trace]] and eat her [[Heart\/Legends|heart]] in order to grant himself eternal life.",
+                "link": {
+                    "url": "Duel in the Odacer-Faustin Sith Temple",
+                    "label": "Duel in the Odacer-Faustin Sith Temple"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1155.3125,
+                636.3125
+            ],
+            "popup": {
+                "title": "Conflicts on Hutta",
+                "description": "In [[3643 BBY]], several events took place on [[Nal Hutta\/Legends|Hutta]]:\n*[[Mission to Hutta]]\n*[[Skirmish in Tassaa Bareesh's palace]]\n*[[Duel on Hutta]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Nomen Karr duel.png"
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1061.0137251704145,
+                669.6301217836605
+            ],
+            "popup": {
+                "title": "Independent Operation Sebaddon",
+                "description": "'''Independent Operation Sebaddon''' was a conflict that took place at the end of the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]].",
+                "link": {
+                    "url": "Independent Operation Sebaddon",
+                    "label": "Independent Operation Sebaddon"
+                },
+                "image": "File:Darth Chratis Sebaddon.jpg"
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                706.2449947969764,
+                766.0397119810638
+            ],
+            "popup": {
+                "title": "Conflicts on Coruscant",
+                "description": "In [[3643 BBY]], several events took place on [[Coruscant\/Legends|Coruscant]]:\n*[[Skirmish in the Gnawer's Roost]]\n*[[Merchants' Guild Crisis]]\n*[[Mission to Coruscant (Barsen'thor)]]\n*[[Mission to Coruscant (Desolator crisis)]]\n*[[Raid on the Black Sun's clinic]]\n*[[Search for Skavak]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Tarnis Sadic Holo.png"
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                706.0019268409435,
+                931.4806016918038
+            ],
+            "popup": {
+                "title": "Conflicts on Ord Mantell",
+                "description": "In [[3643 BBY]], several events took place on [[Ord Mantell\/Legends|Ord Mantell]]:\n*[[Mission to Ord Mantell (Havoc Squad)]]\n*[[Skirmish in the Fort Garnik hangar]]\n*[[Battle in Drelliad village]]\n*[[Mission to Ord Mantell (Desolator crisis)]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Ferav and Kira.png"
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                879.21875,
+                951.1875
+            ],
+            "popup": {
+                "title": "Conflicts on Taris",
+                "description": "In [[3643 BBY]], several events took place on [[Taris\/Legends|Taris]]:\n*[[Ambush on Taris (Cold War)]]\n*[[Mission to Taris (Barsen'thor)]]\n*[[Mission to Taris (Desolator crisis)]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Shan and Zho.jpg"
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                889.89388412327,
+                181.37288937434943
+            ],
+            "popup": {
+                "title": "Battle for the Allusis",
+                "description": "The '''Battle for the Allusis''' was the culmination of both galactic powers' effort to stop Clan Varad from raiding their settlements using a hijacked advanced [[Valor-class cruiser|''Valor''-class cruiser]], the ''[[Allusis]]'' from the Republic shipyards at [[Fondor\/Legends|Fondor]].",
+                "link": {
+                    "url": "Battle for the Allusis",
+                    "label": "Battle for the Allusis"
+                },
+                "image": "File:Clan varad forces.jpg"
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1101.8491417839375,
+                738.0427028634589
+            ],
+            "popup": {
+                "title": "Battle of the Archenar asteroid field",
+                "description": "The '''Battle of the Archenar asteroid field''' was a battle during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] between the forces of the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]].",
+                "link": {
+                    "url": "Battle of the Archenar asteroid field",
+                    "label": "Battle of the Archenar asteroid field"
+                },
+                "image": "File:Battle of the Archenar asteroid field.png"
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1110.75,
+                1104.875
+            ],
+            "popup": {
+                "title": "Mission to Athiss",
+                "description": "A '''mission''' was undertook by the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] to defeat the followers of [[Vodal Kressh]] on [[Athiss\/Legends|Athiss]].",
+                "link": {
+                    "url": "Mission to Athiss",
+                    "label": "Mission to Athiss"
+                },
+                "image": "File:ProphetOfVodalKresshSaberstaff-SWTOR.jpg"
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                751.6103142274758,
+                605.2834046956847
+            ],
+            "popup": {
+                "title": "Battle of the Balosar system",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], a '''battle''' occurred in the [[Balosar system\/Legends|Balosar system]] between the [[Galactic Republic\/Legends|Galactic Republic]] and [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]].",
+                "link": {
+                    "url": "Battle of the Balosar system",
+                    "label": "Battle of the Balosar system"
+                },
+                "image": "File:Battle of the Balosar system.png"
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                802.75,
+                991.75
+            ],
+            "popup": {
+                "title": "Cademimu uprising",
+                "description": "The '''Cademimu uprising''' was a conflict on [[Cademimu V]] that occurred in the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] between the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and the [[Galactic Republic\/Legends|Galactic Republic]].",
+                "link": {
+                    "url": "Cademimu uprising",
+                    "label": "Cademimu uprising"
+                },
+                "image": "File:Cademimu uprising.png"
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                595.3839097590729,
+                1173.0901499884822
+            ],
+            "popup": {
+                "title": "Duel at the Czerka mining facility",
+                "description": "During the [[Desolator crisis]] of [[3643 BBY]], the [[Sith\/Legends|Sith]] [[Valis]] lured the [[Jedi\/Legends|Jedi]] [[Padawan\/Legends|Padawan]] [[Kira Carsen]] and her [[Hero of Tython|master]] to an [[Czerka asteroid mining facility|abandoned mining facility]], forcing a '''duel''' between them.",
+                "link": {
+                    "url": "Duel at the Czerka mining facility",
+                    "label": "Duel at the Czerka mining facility"
+                },
+                "image": "File:Valis blocks Kira.png"
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1124.75,
+                1079.25
+            ],
+            "popup": {
+                "title": "Conflicts on Dromund Kaas",
+                "description": "In [[3643 BBY]], several events took place on [[Dromund Kaas\/Legends|Dromund Kaas]]:\n*[[Assault on Kaas City]]\n*[[Dromund Kaas rebellion]]\n*[[Grathan's revolt]]\n*[[Mission to Darth Skotia's bunker]]\n*[[Mission to Lord Grathan's estate]]\n*[[Duel in the Sith Sanctum]]\n*[[Duel in the Dark Temple]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Zash-Kallig.jpg"
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                816.25,
+                877.25
+            ],
+            "popup": {
+                "title": "Devastation of Uphrades",
+                "description": "In [[3643 BBY]], during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], the [[Sith Lord\/Legends|Sith Lord]] [[Darth Angral]] '''devastated''' the [[Planet\/Legends|planet]] [[Uphrades]].",
+                "link": {
+                    "url": "Devastation of Uphrades",
+                    "label": "Devastation of Uphrades"
+                },
+                "image": "File:Uphrades.png"
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                817.5625,
+                876.5
+            ],
+            "popup": {
+                "title": "Attack on the Daybreaker",
+                "description": "During the last [[Standard day\/Legends|days]] of the [[Desolator crisis]], Imperial forces '''attacked''' the Republic [[Hospital ship\/Legends|medical frigate]] ''[[Daybreaker]]'' in the [[Uphrades system\/Legends|Uphrades system]].",
+                "link": {
+                    "url": "Attack on the Daybreaker",
+                    "label": "Attack on the Daybreaker"
+                },
+                "image": "File:Daybreaker attack.png"
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                708.4375,
+                928.0625
+            ],
+            "popup": {
+                "title": "Attack on Mannett Point",
+                "description": "During the [[Separatist War]] on [[Ord Mantell\/Legends|Ord Mantell]], the [[Galactic Republic\/Legends|Galactic Republic]] military storage outpost [[Mannett Point]] was '''taken''' by the [[Mantellian Separatist Movement]].",
+                "link": {
+                    "url": "Attack on Mannett Point",
+                    "label": "Attack on Mannett Point"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1173.4437033790755,
+                873.9839815465726
+            ],
+            "popup": {
+                "title": "Battle for Hammer Station",
+                "description": "Around [[3643 BBY]], during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], a '''battle''' occurred aboard the [[Battle station\/Legends|battle station]] known as [[Hammer Station]].",
+                "link": {
+                    "url": "Battle for Hammer Station",
+                    "label": "Battle for Hammer Station"
+                },
+                "image": "File:Kreshan battle.png"
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                788.600837718297,
+                763.1891877694055
+            ],
+            "popup": {
+                "title": "Conflicts on Alderaan",
+                "description": "In [[3643 BBY]], several events took place on [[Alderaan\/Legends|Alderaan]]:\n*[[Mission to Alderaan (Barsen'thor)]]\n*[[Mission to Alderaan (Desolator crisis)]]\n*[[Mission to the Oppressor]]\n*[[Operation: Silverplate]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Death Mark computer.png"
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1153.821490201149,
+                633.6560642907948
+            ],
+            "popup": {
+                "title": "Conflicts on Nar Shaddaa",
+                "description": "In [[3643 BBY]], several events took place on [[Nar Shaddaa\/Legends|Nar Shaddaa]]:\n*[[Mission to Nar Shaddaa (Desolator crisis)]]\n*[[Operation: Glass Echo]]\n*[[Mission to Nar Shaddaa (Barsen'thor)]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Galen and Sadic.png"
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                741.4235571610071,
+                790.3023134105272
+            ],
+            "popup": {
+                "title": "Battle of Javaal",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], a '''skirmish''' between the forces of the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] occurred above the planet of [[Javaal]].",
+                "link": {
+                    "url": "Battle of Javaal",
+                    "label": "Battle of Javaal"
+                },
+                "image": "File:Javaal Fleet Action.png"
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1041.625,
+                320.90625
+            ],
+            "popup": {
+                "title": "Battle of the Llanic system",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] between the forces of the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]], a '''battle''' occurred in the [[Llanic system\/Legends|Llanic system]].",
+                "link": {
+                    "url": "Battle of the Llanic system",
+                    "label": "Battle of the Llanic system"
+                },
+                "image": "File:Battle of the Llanic system.png"
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1182.125,
+                1053.6875
+            ],
+            "popup": {
+                "title": "Battle of Makem Te",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], a [[Republic Navy\/Legends|Republic Navy]] '''operation''' occurred over the [[Planet\/Legends|planet]] [[Makem Te\/Legends|Makem Te]].",
+                "link": {
+                    "url": "Battle of Makem Te (Cold War)",
+                    "label": "Battle of Makem Te"
+                },
+                "image": "File:Battle of Makem Te.png"
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                925.125,
+                1033.1875
+            ],
+            "popup": {
+                "title": "Battle of Nez Peron",
+                "description": "During the battle of Nez Peron, fighters from the elite [[Empire's Fury]] starfighter squadron arrived in the system and engaged the Republic ships in the [[Asteroid field\/Legends|asteroid field]] above Nez Peron in order to demonstrate the Empire's control over the region.",
+                "link": {
+                    "url": "Battle of Nez Peron",
+                    "label": "Battle of Nez Peron"
+                },
+                "image": "File:Battle of Nez Peron.png"
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                720.125,
+                530.5
+            ],
+            "popup": {
+                "title": "Operation Midnight Freedom",
+                "description": "'''Operation Midnight Freedom''' was the codename for a battle during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] which took place over the planet of [[Fondor\/Legends|Fondor]].",
+                "link": {
+                    "url": "Operation Midnight Freedom",
+                    "label": "Operation Midnight Freedom"
+                },
+                "image": "File:Operation Midnight Freedom.png"
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1111.4834716776043,
+                333.1356822865122
+            ],
+            "popup": {
+                "title": "Conflicts on Tatooine",
+                "description": "In [[3643 BBY]], several events took place on [[Tatooine\/Legends|Tatooine]]:\n*[[Mission to Tatooine (Barsen'thor)]]\n*[[Mission to Tatooine (Desolator crisis)]]\n*[[Mission to Tatooine (Hunt for Jaesa Willsaam)]]\n*[[Operation: Stoneduster]]\n*[[Operation: Ghostbreaker]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Kalarath Delta Squad.png"
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                704.625,
+                714.875
+            ],
+            "popup": {
+                "title": "Conflicts on Tython",
+                "description": "In [[3643 BBY]], several events took place on [[Tython\/Legends|Tython]]:\n*[[Search for the Fount of Rajivari]]\n*[[Flesh Raider uprising]]\n*[[Battle of the Oppressor]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Search for the Fount.png"
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                825.5471670352941,
+                730.6622758348243
+            ],
+            "popup": {
+                "title": "Operation: Blackout",
+                "description": "'''Operation: Blackout''' was a covert [[Imperial Intelligence (Sith Empire)|Imperial Intelligence]] operation carried out by the agent codenamed [[Cipher Nine]] on the [[Planet\/Legends|planet]] [[Balmorra\/Legends|Balmorra]] during the [[Hunt for the Eagle]].",
+                "link": {
+                    "url": "Operation: Blackout",
+                    "label": "Operation: Blackout"
+                },
+                "image": "File:Operation Blackout.png"
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1188.3813341316413,
+                911.814194340053
+            ],
+            "popup": {
+                "title": "Operation Silent Roar",
+                "description": "'''Operation Silent Roar''' was the codename for a battle during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]], which occurred above [[Jabiim\/Legends|Jabiim]].",
+                "link": {
+                    "url": "Operation Silent Roar",
+                    "label": "Operation Silent Roar"
+                },
+                "image": "File:Operation Silent Roar.png"
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1010.25,
+                761.5
+            ],
+            "popup": {
+                "title": "Raid on Tholatin",
+                "description": "The '''Raid on Tholatin''' was undertaken by the [[Imperial Intelligence (Sith Empire)|Imperial Intelligence]] in an attempt to capture the terrorist known as [[Eagle|The Eagle]] for the destruction of the [[Dominator (Harrower-class)|''Dominator'']].",
+                "link": {
+                    "url": "Raid on Tholatin",
+                    "label": "Raid on Tholatin"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1172.6040140764164,
+                870.9345835527057
+            ],
+            "popup": {
+                "title": "Battle above Saleucami",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], a '''battle''' betweeen between the forces of the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] occurred above the planet of [[Saleucami\/Legends|Saleucami]].",
+                "link": {
+                    "url": "Battle above Saleucami",
+                    "label": "Battle above Saleucami"
+                },
+                "image": "File:Battle above Saleucami.png"
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                795.8486822254591,
+                705.9577326671193
+            ],
+            "popup": {
+                "title": "Battle of Sarapin Four",
+                "description": "A '''battle''' occurred between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] naval forces over [[Sarapin Four]]. The battle resulted in the [[Republic Navy\/Legends|Republic Navy]] cruiser ''[[Enkindle]]'' being disabled.",
+                "link": {
+                    "url": "Battle of Sarapin Four",
+                    "label": "Battle of Sarapin Four"
+                },
+                "image": "File:Battle of Sarapin 4.png"
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1034.5,
+                161.25
+            ],
+            "popup": {
+                "title": "Bombardment of Skine",
+                "description": "In [[3643 BBY]], in the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]], the [[Advozse Hegemony]] tried to force the surrender of the [[Planet\/Legends|planet]] [[Skine]].",
+                "link": {
+                    "url": "Bombardment of Skine",
+                    "label": "Bombardment of Skine"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1248.3970221848497,
+                546.549347683377
+            ],
+            "popup": {
+                "title": "Battle of the Syvris System",
+                "description": "During the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]], a [[Republic Strategic Information Service]] [[SIS listening post (Syvris system)|listening post]] in the [[Syvris system\/Legends|Syvris system]] was compromised, causing the Empire to '''attack''' the station.",
+                "link": {
+                    "url": "Battle of the Syvris System",
+                    "label": "Battle of the Syvris System"
+                },
+                "image": "File:Battle of the Syvris system.png"
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                787.34375,
+                859.3125
+            ],
+            "popup": {
+                "title": "Battle of the Taspan system",
+                "description": "A '''battle''' occurred in the [[Taspan system]] during the [[Cold War (Galactic Republic\u2013Sith Empire)|Cold War]] when [[Major\/Legends|Major]] [[Boro Fareed]] intended to defect to the Empire.",
+                "link": {
+                    "url": "Battle of the Taspan system",
+                    "label": "Battle of the Taspan system"
+                },
+                "image": "File:Battle of the Taspan system.png"
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                853.831438282756,
+                1008.3342699720167
+            ],
+            "popup": {
+                "title": "Mission to the Vesla system",
+                "description": "In [[3643 BBY]], the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and agents of the [[Galactic Republic\/Legends|Galactic Republic]] clashed during a Republic '''espionage mission''' to the [[Vesla system\/Legends|Vesla system]].",
+                "link": {
+                    "url": "Mission to the Vesla system",
+                    "label": "Mission to the Vesla system"
+                },
+                "image": "File:Mission to Vesla.jpg"
+            },
+            "id": "50"
+        }
+    ],
+    "markerProgress": false
+}

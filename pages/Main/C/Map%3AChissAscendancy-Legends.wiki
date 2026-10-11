@@ -1,0 +1,274 @@
+{
+    "mapImage": "ChissAscendancy.jpg",
+    "pageCategories": [
+        "Interactive Maps",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1889,
+            1887
+        ]
+    ],
+    "origin": "top-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Featured articles",
+            "color": "#ffff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Good articles",
+            "color": "#00ff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Comprehensive articles",
+            "color": "#ff0000",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "id": "1",
+            "categoryId": "3",
+            "position": [
+                766,
+                1013
+            ],
+            "popup": {
+                "title": "Avidich",
+                "description": ".",
+                "link": {
+                    "url": "Avidich\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "2",
+            "categoryId": "3",
+            "position": [
+                291,
+                990
+            ],
+            "popup": {
+                "title": "Kinoss",
+                "description": ".",
+                "link": {
+                    "url": "Kinoss\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "3",
+            "categoryId": "3",
+            "position": [
+                616,
+                323
+            ],
+            "popup": {
+                "title": "Chasdemonus Route",
+                "description": ".",
+                "link": {
+                    "url": "Chasdemonus_Route",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "4",
+            "categoryId": "3",
+            "position": [
+                1694,
+                897
+            ],
+            "popup": {
+                "title": "Phalanx Route",
+                "description": ".",
+                "link": {
+                    "url": "Phalanx_Route",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "5",
+            "categoryId": "3",
+            "position": [
+                1651,
+                444
+            ],
+            "popup": {
+                "title": "Way of Schesa",
+                "description": ".",
+                "link": {
+                    "url": "Way_of_Schesa",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "6",
+            "categoryId": "3",
+            "position": [
+                1113,
+                1641
+            ],
+            "popup": {
+                "title": "Colonial Station Chaf system",
+                "description": ".",
+                "link": {
+                    "url": "Colonial_Station_Chaf_system",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "7",
+            "categoryId": "3",
+            "position": [
+                1096,
+                1381
+            ],
+            "popup": {
+                "title": "Csaus",
+                "description": ".",
+                "link": {
+                    "url": "Csaus",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "8",
+            "categoryId": "3",
+            "position": [
+                1769,
+                1171
+            ],
+            "popup": {
+                "title": "Celwis",
+                "description": ".",
+                "link": {
+                    "url": "Celwis",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "9",
+            "categoryId": "3",
+            "position": [
+                999,
+                1067
+            ],
+            "popup": {
+                "title": "Cioral",
+                "description": ".",
+                "link": {
+                    "url": "Cioral",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "10",
+            "categoryId": "3",
+            "position": [
+                1371,
+                1114
+            ],
+            "popup": {
+                "title": "Cormit",
+                "description": ".",
+                "link": {
+                    "url": "Cormit",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "11",
+            "categoryId": "3",
+            "position": [
+                1027,
+                859
+            ],
+            "popup": {
+                "title": "Jamiron",
+                "description": ".",
+                "link": {
+                    "url": "Jamiron\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "12",
+            "categoryId": "3",
+            "position": [
+                1347,
+                521
+            ],
+            "popup": {
+                "title": "Noris",
+                "description": ".",
+                "link": {
+                    "url": "Noris",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "13",
+            "categoryId": "1",
+            "position": [
+                1684,
+                1653
+            ],
+            "popup": {
+                "title": "Yashuvhu",
+                "description": ".",
+                "link": {
+                    "url": "Yashuvhu",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1096.1690286363,
+                675.37262163223
+            ],
+            "popup": {
+                "title": "Naporar",
+                "description": "",
+                "link": {
+                    "url": "Naporar\/Legends",
+                    "label": "See more"
+                }
+            },
+            "id": "14"
+        }
+    ]
+}

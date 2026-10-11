@@ -1,0 +1,90 @@
+{{Top|leg|title=''Curich''-class shuttle}}
+{{StarshipClass
+|image=[[File:Curich-class_shuttle_AoRDA.png]]
+|name=''Curich''-class shuttle
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="DA">''[[Desperate Allies]]''</ref>
+|line=
+|model=''Curich''-class shuttle<ref name="DA" />
+|type=[[Transport/Legends|Transport]]<ref name="DA" />
+|cost=130,000 [[Galactic Credit Standard/Legends|credits]]<ref name="DA" />
+|modifier=
+|sysmods=
+|length=54 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|kph]]
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="DA" />
+*Class 12.0 {{C|[[Backup hyperdrive|backup]]}}<ref name="DA" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="DA" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=Equipped<ref name="DA" />
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="DA" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Turret/Legends|Turreted]] heavy [[Blaster cannon/Legends|blaster cannon]] (2)<ref name="DA" />
+|complement=
+|bays=
+|escapepods=
+|crew=3<ref name="DA" />
+*[[Pilot/Legends|Pilot]] (1)<ref name="DA" />
+*Co-pilot/[[Engineer/Legends|Engineer]] (1)<ref name="DA" />
+*[[Gunner/Legends|Gunner]] (1)<ref name="DA" />
+|skeleton=
+|passengers=50<ref name="DA" />
+|capacity=300 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="DA" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Shuttle/Legends|Shuttle]]<ref name="DA" />
+|firstuse=
+|retired=
+|affiliation=*Civilian<ref name="DA" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="DA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="DA" />
+}}
+The '''''Curich''-class shuttle''' was an [[Galactic Empire/Legends|Imperial]] [[Shuttle/Legends|shuttle]] design.
+
+==Characteristics==
+[[File:Curich-class.jpg|thumb|left|220px|Port profile view of a ''Curich''-class shuttle]]
+The ''Curich''-class was designed to carry light cargo or passengers for quick, short duration trips, such as across well-known [[Hyperspace route/Legends|hyperspace routes]].
+
+==History==
+Shortly after the destruction of the [[DS-1 Orbital Battle Station/Legends|first Death Star]], [[Governor/Legends|Governor General]] [[Lord/Legends|Lord]] [[Dixton]] employed a ''Curich''-class shuttle fitted to serve his needs to [[Transport/Legends|transport]] himself and his entourage to [[Vakkar/Legends|Vakkar]], the capital of the [[Fakir sector/Legends|Fakir sector]]. However, during transit, his transport was attacked by [[Alliance to Restore the Republic/Legends|Rebel]] forces.<ref name="Godking">{{WEGCite|story=Tests of the Godking|book=Star Wars Campaign Pack}}</ref>
+
+==Appearances==
+*{{WEGCite|story=Tests of the Godking|book=Star Wars Campaign Pack|reprint=1}} {{1st}}
+*{{DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign|reprint=yes}}
+
+==Sources==
+*<!-- 2015-06-18 -->''[[Desperate Allies]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Curich-class shuttles}}
+{{Reflist}}
+
+{{Interlang
+|es=Lanzadera clase Curich
+}}
+
+[[Category:Shuttle classes]]
+[[Category:Sienar Fleet Systems products]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:Curich-class shuttles]]
+}}

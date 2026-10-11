@@ -1,0 +1,929 @@
+{
+    "mapImage": "Clone wars factions.jpg",
+    "pageCategories": [
+        "Interactive Maps of wars",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            2125,
+            2925
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Battles",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Missions",
+            "color": "#e6fa00",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                650,
+                1703
+            ],
+            "popup": {
+                "title": "Battle of Coruscant",
+                "description": "",
+                "link": {
+                    "url": "Battle of Coruscant\/Legends",
+                    "label": "Battle of Coruscant\/Legends"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1574.5,
+                725.5
+            ],
+            "popup": {
+                "title": "First Battle of Geonosis",
+                "description": "",
+                "link": {
+                    "url": "First Battle of Geonosis\/Legends",
+                    "label": "First Battle of Geonosis\/Legends"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1500,
+                720.25
+            ],
+            "popup": {
+                "title": "Battle of Christophsis",
+                "description": "",
+                "link": {
+                    "url": "Battle of Christophsis\/Legends",
+                    "label": "Battle of Christophsis\/Legends"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1703,
+                780
+            ],
+            "popup": {
+                "title": "Battle of Hypori",
+                "description": "",
+                "link": {
+                    "url": "Battle of Hypori\/Legends",
+                    "label": "Battle of Hypori\/Legends"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                529.5,
+                2494
+            ],
+            "popup": {
+                "title": "Battle of Muunilinst",
+                "description": "",
+                "link": {
+                    "url": "Battle of Muunilinst\/Legends",
+                    "label": "Battle of Muunilinst\/Legends"
+                },
+                "image": "File:HighlyAdvancedTactics-CW02.jpg"
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                650,
+                2512.5
+            ],
+            "popup": {
+                "title": "Battle of Dantooine",
+                "description": "",
+                "link": {
+                    "url": "Battle of Dantooine (Clone Wars)",
+                    "label": "Battle of Dantooine (Clone Wars)"
+                },
+                "image": "File:Battle-of-Dantooine.jpg"
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1393.3539123281,
+                2211.1229047703
+            ],
+            "popup": {
+                "title": "Defense of Maridun",
+                "description": "",
+                "link": {
+                    "url": "Defense of Maridun\/Legends",
+                    "label": "Defense of Maridun\/Legends"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1639.7806255716,
+                2246.8317972203
+            ],
+            "popup": {
+                "title": "Battle of Felucia (Outer Rim Sieges)",
+                "description": "",
+                "link": {
+                    "url": "Battle of Felucia (Outer Rim Sieges)\/Legends",
+                    "label": "Battle of Felucia (Outer Rim Sieges)\/Legends"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1968.2317254328,
+                2175.0604589298
+            ],
+            "popup": {
+                "title": "Battle of Mon Calamari",
+                "description": "",
+                "link": {
+                    "url": "Battle of Mon Calamari",
+                    "label": "Battle of Mon Calamari"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1715,
+                1942.5
+            ],
+            "popup": {
+                "title": "Siege of Saleucami",
+                "description": "",
+                "link": {
+                    "url": "Siege of Saleucami\/Legends",
+                    "label": "Siege of Saleucami\/Legends"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1747.5,
+                2025
+            ],
+            "popup": {
+                "title": "Battle of Jabiim",
+                "description": "",
+                "link": {
+                    "url": "Battle of Jabiim",
+                    "label": "Battle of Jabiim"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1193.5,
+                1411.5
+            ],
+            "popup": {
+                "title": "Battle of Mimban",
+                "description": "",
+                "link": {
+                    "url": "Battle of Mimban\/Legends",
+                    "label": "Battle of Mimban\/Legends"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                575,
+                2409.5
+            ],
+            "popup": {
+                "title": "Battle of Mygeeto",
+                "description": "",
+                "link": {
+                    "url": "Battle of Mygeeto",
+                    "label": "Battle of Mygeeto"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                948.5,
+                284.5
+            ],
+            "popup": {
+                "title": "Battle of Utapau",
+                "description": "",
+                "link": {
+                    "url": "Battle of Utapau\/Legends",
+                    "label": "Battle of Utapau\/Legends"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                64,
+                737
+            ],
+            "popup": {
+                "title": "Mission to Bakura",
+                "description": "",
+                "link": {
+                    "url": "Mission to Bakura (Clone Wars)",
+                    "label": "Mission to Bakura (Clone Wars)"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1132.5,
+                2273
+            ],
+            "popup": {
+                "title": "Mission to Ord Cestus",
+                "description": "",
+                "link": {
+                    "url": "Mission to Ord Cestus",
+                    "label": "Mission to Ord Cestus"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1197.1317805488,
+                1905.2992219072
+            ],
+            "popup": {
+                "title": "Attack on Cartao",
+                "description": "",
+                "link": {
+                    "url": "Attack on Cartao",
+                    "label": "Attack on Cartao"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                957,
+                1884
+            ],
+            "popup": {
+                "title": "Battle of Berchest",
+                "description": "",
+                "link": {
+                    "url": "Battle of Berchest",
+                    "label": "Battle of Berchest"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1092.25,
+                2027.25
+            ],
+            "popup": {
+                "title": "Battle of Thustra",
+                "description": "",
+                "link": {
+                    "url": "Battle of Thustra",
+                    "label": "Battle of Thustra"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                978,
+                2089
+            ],
+            "popup": {
+                "title": "Battle of Null",
+                "description": "",
+                "link": {
+                    "url": "Battle of Null",
+                    "label": "Battle of Null"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                96.520075631964,
+                2058.0342866434
+            ],
+            "popup": {
+                "title": "Ambush on Ilum",
+                "description": "",
+                "link": {
+                    "url": "Ambush on Ilum",
+                    "label": "Ambush on Ilum"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1339.5,
+                1719.5
+            ],
+            "popup": {
+                "title": "Battle of Kashyyyk",
+                "description": "",
+                "link": {
+                    "url": "Battle of Kashyyyk\/Legends",
+                    "label": "Battle of Kashyyyk\/Legends"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                675.5,
+                284.5
+            ],
+            "popup": {
+                "title": "Mission to Mustafar",
+                "description": "",
+                "link": {
+                    "url": "Mission to Mustafar\/Legends",
+                    "label": "Mission to Mustafar\/Legends"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                912.16774773065,
+                686.60068453214
+            ],
+            "popup": {
+                "title": "Battle of Haruun Kal",
+                "description": "",
+                "link": {
+                    "url": "Battle of Haruun Kal\/Legends",
+                    "label": "Battle of Haruun Kal\/Legends"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                826.60782720707,
+                1167.7868491296
+            ],
+            "popup": {
+                "title": "Battle of Devaron",
+                "description": "",
+                "link": {
+                    "url": "Battle of Devaron\/Legends",
+                    "label": "Battle of Devaron\/Legends"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1535.25,
+                1958.75
+            ],
+            "popup": {
+                "title": "Battle of Metalorn",
+                "description": "",
+                "link": {
+                    "url": "Battle of Metalorn (Clone Wars)",
+                    "label": "Battle of Metalorn (Clone Wars)"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                981,
+                548.5
+            ],
+            "popup": {
+                "title": "Battle of Omwat",
+                "description": "",
+                "link": {
+                    "url": "Battle of Omwat",
+                    "label": "Battle of Omwat"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1445.5,
+                2150
+            ],
+            "popup": {
+                "title": "Mission to Vjun",
+                "description": "",
+                "link": {
+                    "url": "Mission to Vjun (Clone Wars)",
+                    "label": "Mission to Vjun (Clone Wars)"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1266,
+                2137
+            ],
+            "popup": {
+                "title": "Battle of the Phindar Spaceport",
+                "description": "",
+                "link": {
+                    "url": "Battle of the Phindar Spaceport",
+                    "label": "Battle of the Phindar Spaceport"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1245.0382649742,
+                633.92122933374
+            ],
+            "popup": {
+                "title": "Mission to Trigalis",
+                "description": "",
+                "link": {
+                    "url": "Mission to Trigalis",
+                    "label": "Mission to Trigalis"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1343.5,
+                909.75
+            ],
+            "popup": {
+                "title": "Fall of Falleen",
+                "description": "",
+                "link": {
+                    "url": "Fall of Falleen",
+                    "label": "Fall of Falleen"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1134.9063838044,
+                1894.6926201894
+            ],
+            "popup": {
+                "title": "Battle of Pengalan IV",
+                "description": "",
+                "link": {
+                    "url": "Battle of Pengalan IV",
+                    "label": "Battle of Pengalan IV"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1194,
+                1729
+            ],
+            "popup": {
+                "title": "Battle of Onderon",
+                "description": "",
+                "link": {
+                    "url": "Battle of Onderon",
+                    "label": "Battle of Onderon"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1564.5,
+                2065
+            ],
+            "popup": {
+                "title": "Mission to The Wheel",
+                "description": "",
+                "link": {
+                    "url": "Mission to The Wheel",
+                    "label": "Mission to The Wheel"
+                },
+                "image": "File:AaylaQuin-wheel.jpg"
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                923.5,
+                448
+            ],
+            "popup": {
+                "title": "Battle of Xagobah",
+                "description": "",
+                "link": {
+                    "url": "Battle of Xagobah (Clone Wars)",
+                    "label": "Battle of Xagobah (Clone Wars)"
+                },
+                "image": "File:BobaFett 5 art.jpg"
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                561,
+                717
+            ],
+            "popup": {
+                "title": "Battle of Bomis Koori IV",
+                "description": "",
+                "link": {
+                    "url": "Battle of Bomis Koori IV",
+                    "label": "Battle of Bomis Koori IV"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1193.596246642892,
+                688.7220048756973
+            ],
+            "popup": {
+                "title": "Battle of the Ryndellia system",
+                "description": "",
+                "link": {
+                    "url": "Battle of the Ryndellia system\/Legends",
+                    "label": "Battle of the Ryndellia system\/Legends"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                875.3981951089457,
+                533.51206640525
+            ],
+            "popup": {
+                "title": "Battle of Agomar",
+                "description": "",
+                "link": {
+                    "url": "Battle of Agomar",
+                    "label": "Battle of Agomar"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                768.2715177591838,
+                544.8257749042348
+            ],
+            "popup": {
+                "title": "Battle of Tibrin",
+                "description": "",
+                "link": {
+                    "url": "Battle of Tibrin",
+                    "label": "Battle of Tibrin"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                580.5346673541554,
+                2250.7208845167806
+            ],
+            "popup": {
+                "title": "Battle of JanFathal",
+                "description": "",
+                "link": {
+                    "url": "Battle of JanFathal",
+                    "label": "Battle of JanFathal"
+                },
+                "image": "File:JanFathalBattle.jpg"
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                632.86056916196,
+                2454.367637498506
+            ],
+            "popup": {
+                "title": "Battle of Gwori",
+                "description": "",
+                "link": {
+                    "url": "Battle of Gwori",
+                    "label": "Battle of Gwori"
+                },
+                "image": "File:Battle of gwori.jpg"
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                610.940258945177,
+                2272.6411947335637
+            ],
+            "popup": {
+                "title": "Battle of Yarille",
+                "description": "",
+                "link": {
+                    "url": "Battle of Yarille",
+                    "label": "Battle of Yarille"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1625.1548086295145,
+                602.1934485224799
+            ],
+            "popup": {
+                "title": "Battle of Ryloth",
+                "description": "",
+                "link": {
+                    "url": "Battle of Ryloth\/Legends",
+                    "label": " Battle of Ryloth\/Legends"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1675.1201334087255,
+                2487.5216400042095
+            ],
+            "popup": {
+                "title": "Mission to Zygerria",
+                "description": "",
+                "link": {
+                    "url": "Mission to Zygerria\/Legends",
+                    "label": "Mission to Zygerria\/Legends"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1626.6452758634277,
+                1447.0010684916613
+            ],
+            "popup": {
+                "title": "Mission to Toydaria",
+                "description": "",
+                "link": {
+                    "url": "Mission to Toydaria",
+                    "label": "Mission to Toydaria"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1366.52708749431,
+                1548.8012604465825
+            ],
+            "popup": {
+                "title": "Mission to Skytop Station",
+                "description": "",
+                "link": {
+                    "url": "Mission to Skytop Station\/Legends",
+                    "label": "Mission to Skytop Station\/Legends"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                962.4193931502434,
+                1504.1954157955897
+            ],
+            "popup": {
+                "title": "Battle of Cato Neimoidia",
+                "description": "",
+                "link": {
+                    "url": "Battle of Cato Neimoidia\/Legends",
+                    "label": "Battle of Cato Neimoidia\/Legends"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                970.9622166288017,
+                1504.492555014871
+            ],
+            "popup": {
+                "title": "Mission to Cato Neimoidia",
+                "description": "",
+                "link": {
+                    "url": "Mission to Cato Neimoidia\/Legends",
+                    "label": "Mission to Cato Neimoidia\/Legends"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                879.2380277382911,
+                1427.2459091387457
+            ],
+            "popup": {
+                "title": "Battle of Duro",
+                "description": "",
+                "link": {
+                    "url": "Battle of Duro (Clone Wars)",
+                    "label": "Battle of Duro (Clone Wars)"
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1106.0719627005979,
+                2215.062922241953
+            ],
+            "popup": {
+                "title": "Battle of Dathomir",
+                "description": "",
+                "link": {
+                    "url": "Battle of Dathomir\/Legends",
+                    "label": "Battle of Dathomir\/Legends"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                657.3682675094253,
+                2062.4432922074457
+            ],
+            "popup": {
+                "title": "Battle of Ord Mantell",
+                "description": "",
+                "link": {
+                    "url": "Battle of Ord Mantell (Clone Wars)",
+                    "label": "Battle of Ord Mantell (Clone Wars)"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                640.1350437769578,
+                1745.3556158433757
+            ],
+            "popup": {
+                "title": "Invasion of Scipio",
+                "description": "",
+                "link": {
+                    "url": "Invasion of Scipio\/Legends",
+                    "label": "Invasion of Scipio\/Legends"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                842.0649582615699,
+                1682.8167641730277
+            ],
+            "popup": {
+                "title": "Battle of Alderaan",
+                "description": "",
+                "link": {
+                    "url": "Battle of Alderaan (Clone Wars)",
+                    "label": "Battle of Alderaan (Clone Wars)"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                734.3995989279955,
+                1751.1499436084848
+            ],
+            "popup": {
+                "title": "Battle of Brentaal IV",
+                "description": "Battle of Brentaal IV during the Clone Wars.",
+                "link": {
+                    "url": "Battle of Brentaal IV (Clone Wars)",
+                    "label": "Battle of Brentaal IV (Clone Wars)"
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                746.7511463792601,
+                1759.9887783733166
+            ],
+            "popup": {
+                "title": "Battle of Esseles",
+                "description": "Battle of Esseles during the Clone Wars.",
+                "link": {
+                    "url": "Battle of Esseles (Clone Wars)",
+                    "label": "Battle of Esseles (Clone Wars)"
+                }
+            },
+            "id": "55"
+        }
+    ],
+    "markerProgress": true
+}

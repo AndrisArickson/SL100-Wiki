@@ -1,0 +1,75 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=D9 Runner light freighter
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="sisar">''[[Secrets of the Sisar Run]]''</ref>
+|line=
+|model=D9 Runner
+|type=[[Light freighter/Legends|Light freighter]]<ref name="sisar" />
+|cost=
+|modifier=
+|sysmods=
+|length=23 [[Meter/Legends|meter]]s<ref name="sisar" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=Nav computer equipped<ref name="sisar" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=3 {{C|2 gunners}}<ref name="sisar" />
+|skeleton=1<ref name="sisar" />
+|passengers=4<ref name="sisar" />
+|capacity=75 metric tons<ref name="sisar" />
+|cargohandling=
+|consumables=2 months<ref name="sisar" />
+|lifesupport=Equipped<ref name="sisar" />
+|communications=
+|othersystems=
+|availability=
+|role=[[Transport]]<ref name="sisar" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''D9 Runner light freighter''' was one of the first [[Freighter/Legends|freighter]] designs created by [[Kuat Drive Yards/Legends|Kuat Drive Yards]] after the rise of the [[New Order/Legends|New Order]].<ref name="sisar" />
+
+It was an effective, inexpensive model but was eventually replaced by the [[D11]] Runner light freighter.<ref name="sisar" />
+
+==Known Ships==
+*''[[Starknife]]''
+
+==Appearances==
+*{{WEGCite|story=Running the Sisar|book=Secrets of the Sisar Run}}
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]
+[[Category:Kuat Drive Yards products]]
+
+{{RelatedCategories
+|[[Category:D9 Runner light freighters]]
+}}

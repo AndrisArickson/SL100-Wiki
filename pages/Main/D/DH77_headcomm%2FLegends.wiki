@@ -1,0 +1,54 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=DH77 headcomm
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref>
+|model=
+|type=[[Comlink/Legends|Comlink]]<ref name="ISB" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''DH77 headcomm''' was a [[Comlink/Legends|comlink]] developed by [[SoroSuub Corporation/Legends|SoroSuub Corporation]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. Initial successes with the DH77 led to its widespread use at the [[Platoon/Legends|platoon]] level in the [[Imperial Army/Legends|Imperial Army]],<ref name="ISB" /> and installed in [[Stormtrooper/Legends|stormtrooper]] [[Stormtrooper armor/Legends|helmets]]. The DH77 used linked encoding sequences which allowed the comlink to shift communications frequencies every few [[Standard second|seconds]]. The system also kept all the [[Soldier/Legends|soldiers]] in the unit synchronized to the same frequencies. The coding sequences were automatically deleted if the helmet was removed without first triggering the comlink's control stud.<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref> 
+
+However, a serious flaw with the DH77 headcomm was discovered; the unit could be easily jammed by the presence of high energy particle emissions. Artillery explosions could create dead zones in which transmissions from DH77s were lost, and interference from a [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]] contrail could jam DH77s with a range of three [[Kilometer/Legends|kilometers]]. Despite the introduction of [[Herzfall Corporation/Legends|Herzfall Corporation's]] [[DH107/Legends|DH107]], an improved comlink that was less prone to the problems that plagued the DH77, thousands of DH77s had been issued to field units, and replacement of the units was a low priority for the [[Galactic Empire/Legends|Galactic Empire]].<ref name="ISB" />
+
+==Sources==
+[[File:RiddellTKBP.jpg|thumb|right|300px|DH77 headcomms were built in a Stormtrooper helmet (picture of a Stormtrooper helmet blueprint).]]
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]'' {{1stm}}
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']] {{ID|DH77 stormtrooper headset}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 2002-06-12 -->{{FactFile|24|COM 1-2|Comlinks}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|nl=DH77 Helmet Comlink
+}}
+
+[[Category:Comlinks]]
+[[Category:SoroSuub Corporation products]]

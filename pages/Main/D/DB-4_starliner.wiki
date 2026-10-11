@@ -1,0 +1,68 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=DB-4 starliner
+|designer=
+|manufacturer=[[Dobrutz]]<ref name="Tyrant's Test">''[[Tyrant's Test]]''</ref>
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''DB-4 starliner''' was a type of starliner made by [[Dobrutz]]. The ''[[Penga Rift]]'' was one of these.<ref name="Tyrant's Test" />
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[Tyrant's Test]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Liner classes]]
+
+{{RelatedCategories
+|[[Category:DB-4 starliners]]
+}}

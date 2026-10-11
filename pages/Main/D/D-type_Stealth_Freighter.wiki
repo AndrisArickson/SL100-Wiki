@@ -1,0 +1,68 @@
+{{Top|leg}}
+{{Youmay|the D-type stealth freighter|the [[D-type fighter]]}}
+{{StarshipClass
+|image=
+|name=D-type Stealth Freighter
+|designer=
+|manufacturer=[[Nubia Star Drives, Incorporated/Legends|Nubia Star Drives, Incorporated]]<ref name="SOF">''[[Suns of Fortune]]''</ref>
+|line=
+|model=D-type Stealth Freighter<ref name="SOF" />
+|type=[[Light freighter/Legends|Light freighter]]<ref name="SOF" />
+|cost=200,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SOF" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3<ref name="SOF" />
+*Backup: Class 13<ref name="SOF" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="SOF" />
+|hull=
+|sensor=Equipped
+|target=Equipped
+|navigation=Equipped<ref name="SOF" />
+|avionics=Equipped
+|maincomp=
+|countermeasures=
+|armament=None<ref name="SOF" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot (1)<ref name="SOF" />
+*Systems Engineer (1)<ref name="SOF" />
+|skeleton=
+|passengers=3<ref name="SOF" />
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Transport/Legends|Transport]]<ref name="SOF" />
+*Smuggling Vessel<ref name="SOF" />
+|firstuse=
+|retired=
+|affiliation=Civilians<ref name="SOF" />
+}}
+The '''D-Type Stealth Freighter''' was designed by [[Nubia Star Drives, Incorporated/Legends|Nubia Star Drives, Incorporated]] following the Nubian tradition of designing unusual vessels. Most craft intended for smuggling depended on speed or firepower to avoid capture. The D-type instead relied almost entirely on stealth, carrying no weapons and only managing a low sublight speed due to the baffle shielding drive it was equipped with. Unlike most light freighters, the D-Type was not designed to allow modification of any kind. Instead, if an owner wishes a modified version of the ship, they must commission a customized one from the manufacturer.
+
+==Sources==
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]
+[[Category:Nubia Star Drives, Incorporated products]]
+[[Category:Stealth ship classes]]
