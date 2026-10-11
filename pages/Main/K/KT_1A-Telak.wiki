@@ -1,0 +1,65 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=KT 1A-Telak
+|designer=
+|manufacturer=[[Telak's Terrors]]<ref name="RII">[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']]</ref>
+|line=
+|model=
+|type=[[Light freighter/Legends|Light freighter]]<ref name="RII" />
+|cost=
+|modifier=
+|sysmods=
+|length=19 [[Meter/Legends|meters]]<ref name="RII" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=[[Hyperdrive/Legends|Class 1]]<ref name="RII" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield/Legends|Equipped]]<ref name="RII" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="RII" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Dual [[Laser cannon/Legends|laser cannons]]<ref name="RII" />
+*[[Concussion missile/Legends|Concussion missiles]]<ref name="RII" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="RII" />
+|skeleton=
+|passengers=6<ref name="RII" />
+|capacity=500 [[Kilogram/Legends|kilograms]]<ref name="RII" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="RII" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Pirate/Legends|Pirate]] ship<ref name="RII" />
+|firstuse=
+|retired=
+|affiliation=[[Telak's Terrors]]<ref name="RII" />
+}}
+The '''KT 1A-Telak''' was a [[Light freighter/Legends|light freighter]] developed by the [[Telak's Terrors]] [[Pirate/Legends|pirate]] group.
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1993-06-XX -->[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']] {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]

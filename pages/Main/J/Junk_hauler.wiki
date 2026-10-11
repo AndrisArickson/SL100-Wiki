@@ -1,0 +1,61 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:JunkHauler-CSW.jpg]]
+|name=Junk hauler
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=2 {{C|[[Cockpit/Legends|cockpit]]}}
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=Drop-down scrap cargo bay doors (2)
+|consumables=
+|lifesupport=
+|communications=Communications antenna
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+A '''junk hauler''' was a rectangular-shaped craft housing a two-person [[Cockpit/Legends|cockpit]], a communications antenna, a cargo bay for scrap, and an aft [[Engine/Legends|engine]].
+
+{{Veh-stub}}
+
+==Appearances==
+*{{StoryCite|story=Rust Never Sleeps|book=The Empire Strikes Back Monthly 156|reprint=1}} {{1st}}
+
+[[Category:Repulsorcraft models]]

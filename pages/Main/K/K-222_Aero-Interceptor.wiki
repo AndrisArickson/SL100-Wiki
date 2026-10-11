@@ -1,0 +1,76 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:K-222_aero-interceptor-AoeE3.jpg]]
+|name=K-222 Aero-Interceptor
+|designer=
+|manufacturer=[[zZip Defense Concepts]]<ref name="HSCS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+|line=
+|model=
+|type=High-altitude aero-interceptor<ref name="HSCS" />
+|cost=29,000 [[Galactic Credit Standard/Legends|credits]]<ref name="HSCS" />
+|modifier=
+|sysmods=
+|length=13 [[Meter/Legends|meters]]<ref name="HSCS" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=2,600 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="HSCS" />
+|max alt=150 kilometers<ref name="HSCS" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Double wingtip [[Laser cannon/Legends|laser cannon]]<ref name="HSCS" />
+*[[Concussion missile launcher/Legends|Concussion missile launcher]] {{C|Magazine of six [[Concussion missile/Legends|concussion missiles]]}}<ref name="HSCS" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="HSCS" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Aerial interceptor<ref name="HSCS" />
+|firstuse=
+|retired=
+|affiliation=[[Corporate Sector Authority/Legends|Corporate Sector Authority]]<ref name="HSCS" />
+}}
+The '''K-222 Aero-Interceptor''' was an aircraft manufactured by [[zZip Defense Concepts]].
+
+[[File:K222AeroInterceptor-HanSoloAndTheCorporateSectorSourcebook.jpg|left|thumb|A K-222]]
+A 13-[[Meter/Legends|meter]]-long [[Repulsorlift/Legends|repulsorlift]] vehicle, it required a single pilot. With a flight ceiling of 150 [[Kilometer/Legends|kilometers]], it could achieve 2,600 kilometers per hour. The K-222 boasted a forward fire-linked double laser cannon mounted on the wingtips, and a [[Concussion missile launcher/Legends|concussion missile launcher]] with a magazine of six [[Concussion missile/Legends|concussion missile]].<ref name="HSCS" /> It was nicknamed the "triple deuce."<ref name="CSWE">{{CSWECite|II|187|K-222 Aero-Interceptor}}</ref>
+
+Two of these ships were tasked to shoot down [[Jahan Cross]] when he tried to flee [[Etti IV/Legends|Etti IV]].<ref name="AotE3">[[Agent of the Empire – Iron Eclipse 3|''Agent of the Empire – Iron Eclipse'' 3]]</ref>
+
+==Appearances==
+*[[Agent of the Empire – Iron Eclipse 3|''Agent of the Empire – Iron Eclipse'' 3]] {{1st}}
+
+==Sources==
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]'' {{1stm}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{1stID|K-222 Aero-Interceptor}}
+
+==Notes and references==
+{{Mediacat|imagecat=Images of K-222 Aero-Interceptors}}
+{{Reflist}}
+
+{{Interlang
+|de=K-222 Aero-Abfangjäger
+}}
+
+[[Category:Atmospheric repulsorcraft models]]
+[[Category:Vehicle classes of the Corporate Sector Authority]]
+[[Category:ZZip Defense Concepts products]]

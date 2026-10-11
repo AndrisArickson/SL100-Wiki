@@ -1,0 +1,123 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:JM-5K.png]]
+|name=JumpMaster 5000
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="HoD">''{{GamerCite|7|Harbingers of Doom}}''</ref><ref name="EdgeCore">[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]</ref>
+|line=
+|model=JumpMaster 5000<ref name="TUR">''[[The Unknown Regions]]''</ref>
+|type=[[Transport]]<ref name="TUR" /> / Long-range [[Scout ship|scout]]<ref name="EdgeCore" />
+|cost=110,000 [[Galactic Credit Standard/Legends|credits]] {{C|40,000 used}}<ref name="TUR" /><ref name="EdgeCore" />
+|modifier=
+|sysmods=
+|length=20 [[Meter/Legends|meters]]<ref name="HoD" /><ref name="EdgeCore" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1200 [[Kilometer per hour/Legends|km/h]]<ref name="TUR" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3.0<ref name="TUR" /><ref name="EdgeCore" />
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="TUR" /><ref name="EdgeCore" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=Military-grade long-range [[sensor]] suite<ref name="EdgeCore" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="TUR" /><ref name="EdgeCore" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Twin [[Laser cannon/Legends|Laser cannon]] (1)<ref name="TUR" /><ref name="EdgeCore" />
+|complement=
+|bays=
+|escapepods=
+|crew=1 {{C|[[Pilot/Legends|pilot]]}}<ref name="TUR" /><ref name="EdgeCore" />
+|skeleton=
+|passengers=1<ref name="TUR" /><ref name="EdgeCore" />
+|capacity=50 [[Metric ton/Legends|metric tons]]<ref name="TUR" /><ref name="EdgeCore" />
+|cargohandling=
+|consumables=4 [[Standard month/Legends|months]]<ref name="TUR" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="TUR" />
+|role=[[Scout ship/Legends|Scout vessel]]<ref name="TUR" /><ref name="EdgeCore" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''JumpMaster 5000''',<ref name="TUR" /> also known as the '''JM-5000 Jumpmaster Long Range Scout''',<ref name="EdgeCore" /> or colloquially as simply the '''JM-5K''',<ref name="TUR" /> was a [[scout ship]] designed by [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]].<ref name="HoD" /><ref name="EdgeCore" />
+
+==Characteristics==
+[[File:Jumpmaster5000-tur.jpg|thumb|left|250px|A schematic of a stock JumpMaster]]
+The JumpMaster was designed to be a small one-person vessel capable of long-range scouting and reconnaissance duties over lengthy amounts of time, allowing a single crew member to travel for extended periods in relative comfort, with limited room for other passengers.<ref name="TUR" /> Flat and crescent-shaped, the hull of the ship was packed with powerful and highly sensitive [[sensor]] systems that possessed incredible range.<ref name="EdgeCore" /> An off-set cylindrical fuselage housed the craft's spartan living quarters, cargo-hold, power generators, and drive system.<ref name="TUR" /> Relatively lightly armored, JumpMaster's relied on sheer speed and agility - coupled with their powerful sensors - to avoid trouble.<ref name="EdgeCore" />
+
+While performing admirably in most regards, the JumpMaster was hobbled by a [[Hyperdrive/Legends|hyperdrive]] system that was both slow and prone to breakdowns. Owing to the versatility of a [[Corellian Engineering Corporation/Legends|CEC]] design, however, the craft was extremely modifiable; as a result the first modification done to the craft was often a faster and more reliable hyperdrive engine.<ref name="TUR" /> Beyond this, the craft was equipped with two hard points for modification,<ref name="EdgeCore" /> and could be substantially modified with vastly improved shields and significant increased firepower - as [[Dengar/Legends|Dengar]] did with the ''[[Punishing One]]''.<ref name="TUR" />
+
+==History==
+Designed during the waning years of the [[Galactic Republic/Legends|Galactic Republic]], the JumpMaster was mostly used to scout new [[Hyperspace route/Legends|hyperspace routes]] and map newly discovered systems.<ref name="TUR" /> Indeed, their primary users were the [[Civilian Astrogation Corps/Legends|Civilian Astrogation Corps]], who used the craft to make sure navigation charts were up to date. That said, due to their speed and powerful sensors, it was not uncommon to find JumpMasters in planetary militias, serving as picket ships and early warning patrol craft.<ref name="EdgeCore" />
+
+==Notable users==
+[[File:Punishing_One_JKTCG.jpg|thumb|right|250px|The [[Punishing One]], an infamous JumpMaster 5000]]
+Perhaps the most infamous user of a JumpMaster was the [[Bounty hunter/Legends|bounty hunter]] [[Dengar/Legends|Dengar]], who flew a modified JumpMaster 5000 during the [[Galactic Civil War/Legends|Galactic Civil War]], named ''[[Punishing One]]''.<ref name="TMA">''[[The Mandalorian Armor]]''</ref> The Punishing One was substantially modified from stock, with [[Dengar/Legends|Dengar]] adding a [[Quad laser cannon/Legends|quad laser cannon]], an [[Ion cannon/Legends|Ion cannon]], and a [[Proton torpedo/Legends|proton torpedo]] launcher in addition to a cutting-edge engine bay that drastically increased the ship's speed. Dengar further modified the ship so that an [[R2-series astromech droid/Legends|R2-series astromech droid]] brain could independently operate the quad guns, allowing Dengar to fly the ship without having to worry about firing back.<ref name="HoD" />
+
+==Appearances==
+*''[[Star Wars Missions 6: The Search for Grubba the Hutt]]''
+*''[[Star Wars Missions 7: Ithorian Invasion]]''
+*''[[Star Wars Missions 8: Togorian Trap]]''
+*''[[Star Wars Missions 11: Bounty Hunters vs. Battle Droids]]''
+*''[[Onslaught at Arda I]]''
+*''[[The Jewel of Yavin]]''
+*{{GalaxiesAED}} {{Mo}}
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}} {{1st}}
+*''[[The Mandalorian Armor]]''
+*''[[Slave Ship]]'' {{Imo}}
+*''[[Hard Merchandise]]''
+*''[[Young Jedi Knights: Delusions of Grandeur]]''
+*''[[Young Jedi Knights: Jedi Bounty]]''
+
+==Sources==
+{{Mediacat|imagecat=Images of JumpMaster 5000s}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Punishing One''}}
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Dengar In ''Punishing One''}}
+*<!-- 2000-11-XX -->''[[Aurra Sing: Dawn of the Bounty Hunters]]'' {{C|as Corellian JM 5000}}
+*<!-- 2001-09-04 -->{{GamerCite|6|How the Other Half Hunts}}
+*<!-- 2001-11-06 -->{{GamerCite|7|Harbingers of Doom}}
+*<!-- 2005-01-20 -->{{Wizards|url=default.asp?x=starwars/article/sw20050120a|text=We Don't Need That Scum}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-03-12 -->[[Star Wars: The Official Starships & Vehicles Collection 13|''Star Wars: The Official Starships & Vehicles Collection'' 13]]
+*<!-- 2009-06-23 -->{{SWGTCG|set=Agents of Deception|cardname=Punishing One}}
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+*<!-- 2011-09-13 -->{{DB|character|dengar|Dengar}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-10-15 -->''[[The Bounty Hunter Code: From the Files of Boba Fett]]'' {{Mo}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=''Punishing One''|link=balance-of-the-force/punishing-one-balance-of-the-force-96-2}} {{Po}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Scum and Villainy Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Contracted Scout|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Dengar|ship=JumpMaster 5000|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Manaroo|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=''Punishing One''|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Tel Trevura|reprint=1}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=JumpMaster 5000#legends
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Scout starship classes]]
+
+{{RelatedCategories
+|[[Category:JumpMaster 5000 starships]]
+}}

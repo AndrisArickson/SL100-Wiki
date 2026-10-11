@@ -1,0 +1,90 @@
+{{Top|leg|title=''Kaloth''-style battlecruiser}}
+{{StarshipClass
+|image=[[File:Harmzuay.jpg]]
+|name=''Kaloth''-style battlecruiser
+|designer=
+|manufacturer=[[Kaloth]]
+|line=
+|model=''Kaloth''-style battlecruiser<ref name="SAV">[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]</ref>
+|type=[[Frigate/Legends|Frigate]]<ref name="SAV" />
+|cost=Not available for sale<ref name="SAV" />
+|modifier=
+|sysmods=
+|length=307 [[Meter/Legends|meters]]<ref name="GG9">''[[Galaxy Guide 9: Fragments from the Rim]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|kmh]]<ref name="GG9" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2 {{C|[[Backup hyperdrive|backup]] class 18}}<ref name="SAV" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="SAV" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] batteries (4)<ref name="SAV" />
+*[[Point-defense laser cannon/Legends|Point-defense]] medium [[Laser cannon/Legends|laser cannons]] (4)<ref name="SAV" />
+*[[Tractor beam/Legends|Tractor beam]] projectors (2)<ref name="SAV" />
+|complement=[[Ugly/Legends|Ugly]] [[Starfighter/Legends|starfighters]] (12)<ref name="SAV" />
+|bays=
+|escapepods=
+|crew=1,464<ref name="SAV" />
+|skeleton=
+|passengers=75 {{C|troops}}<ref name="SAV" />
+|capacity=6,540 [[Metric ton/Legends|tons]]<ref name="SAV" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="SAV" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Illegal<ref name="SAV" />
+|role=Frigate
+|firstuse=
+|retired=
+|affiliation=*[[Stark Commercial Combine]]<ref name="EGW">''[[The Essential Guide to Warfare]]''</ref>
+*[[Pirate/Legends|Pirates]]
+}}
+The '''''Kaloth''-style battlecruiser''' was a warship manufactured by [[Kaloth]].
+
+==Characteristics==
+The class's firepower could be compared to an [[EF76 Nebulon-B escort frigate/Legends|EF76 Nebulon-B escort frigate]]. It was only [[Ray shield/Legends|ray shielded]], leaving it vulnerable to physical projectiles (like [[Proton torpedo/Legends|proton torpedoes]]) and space debris. Unlike most cruisers utilized by pirates, the base model did not include [[Ion cannon/Legends|ion weapons]], although it did include a [[Tractor beam/Legends|tractor beam]].
+
+==History==
+The ''Kaloth''-style battlecruiser was designed and introduced at least as of [[44 BBY/Legends|44 BBY]]. That year, they were used by the [[Stark Commercial Combine]] during the [[Stark Hyperspace War/Legends|Stark Hyperspace War]].<ref name="EGW" />
+
+By the time of the [[Caamas Document Crisis]], only few such vessels remained, all of them in hands of [[Pirate/Legends|pirate]] groups such as the [[Cavrilhu Pirates]] or [[Thalassian slavers/Legends|Thalassian slavers]].
+
+One such vessel was used by the Cavrilhu Pirates in a [[Raid at Iphigin|raid]] against [[Iphigin]]. The same vessel was later used to [[Battle of Pesitiin|attack]] the [[Imperial II-class Star Destroyer/Legends|Star Destroyer]] [[Chimaera/Legends|''Chimaera'']] at [[Pesitiin]], where it was destroyed by a volley of 15 proton torpedoes fired by the ''Chimaera''.
+
+Another ''Kaloth''-style battlecruiser was the ''[[Harmzuay]]'', one of the most infamous ships in the Thalassian fleet.<ref name="GG9" />
+
+==Appearances==
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}} {{1st|in book}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+
+==Sources==
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]'' {{1stm}}
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Battlecruiser classes]]
+[[Category:Frigate classes]]
+[[Category:Kaloth products]]
+
+{{RelatedCategories
+|[[Category:Kaloth-style battlecruisers]]
+}}
