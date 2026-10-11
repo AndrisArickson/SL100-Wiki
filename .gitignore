@@ -1,12 +1,12 @@
 # Local state / regenerable data
 data/
-images/placeholders/
-images/full/
 __pycache__/
 *.pyc
 *.tmp
-
+# Images: commit only the blank WebP placeholders (images/placeholders/).
+# Real image files (images/full/) stay out until they are copyright-compliant replacements.
+images/*
+!images/placeholders/
 # Copyrighted source-book extracts must never be pushed
 private/
-images/
 Source_Text/
