@@ -1,0 +1,272 @@
+{{Top|title=''Sentinel''-class landing craft}}
+{{Otheruses|Sentinel}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:Sentinel_negvv.png]]
+|name=''Sentinel''-class landing craft
+|designer=
+|manufacturer=*[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="TEGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+*[[Cygnus Spaceworks/Legends|Cygnus Spaceworks]]<ref name="TEGVV" />
+|line=
+|model=''Sentinel''-class [[Landing craft/Legends|landing craft]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|type=Landing craft
+|cost=240,000 [[Galactic Credit Standard/Legends|credits]]<ref name="TFUCG">''[[The Force Unleashed Campaign Guide]]''</ref>
+|modifier=
+|sysmods=
+|length=38 [[Meter/Legends|meters]]<ref name="XWA" />
+|width=
+|height=
+|mass=
+|max accel=2,400 G<ref name="TNEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|mglt=70 [[Megalight|MGLT]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|max speed=1,000 [[Kilometer per hour/Legends|km/h]]<ref name="BtM" />
+|maneuverability=
+|engine=Cygnus [[HD7 Hyperdrive Activator Unit|HD7 engine]]<ref name="BtM" />
+|hyperdrive=*Class 1.0<ref name="BtM" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="SWTSSE">''[[Star Wars Trilogy Sourcebook, Special Edition]]''</ref>
+|hdrange=
+|hdsystem=[[HD7 Hyperdrive Activator Unit]]<ref name="TEGVV" />
+|poweroutput=
+|power=
+|shield gen=2 forward and 2 aft [[Deflector shield generator/Legends|shield generators]]<ref name="TEGVV" /> {{C|rated 120 [[SBD/Legends|SBD]]}}<ref name="XWA" />
+|hull=Rated 28 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="SWTSSE" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Retractable [[Laser cannon/Legends|laser cannons]] (8)<ref name="BtM" />
+*[[Concussion missile/Legends|Concussion missile]] [[Concussion missile launcher/Legends|launchers]] (2)<ref name="BtM" />
+**8 missiles each<ref name="TEGVV" />
+*Retractable [[Ion cannon/Legends|ion cannon]] [[Turret/Legends|turret]] (1)<ref name="BtM" />
+*Retractable repeating [[Blaster cannon/Legends|blaster cannon]] turrets (2)<ref name="BtM" />
+|complement=*Standard configuration:
+**54 [[Stormtrooper/Legends|stormtroopers]]<ref name="BtM" />
+**12 [[E-Web heavy repeating blaster/Legends|E-Web heavy repeating blasters]]<ref name="BtM" />
+**6 [[74-Z speeder bike/Legends|74-Z speeder bikes]]<ref name="BtM" />
+*Alternate configuration:
+**36 74-Z [[Speeder bike/Legends|speeder bikes]]<ref name="BtM" />
+Or
+**12 [[Compact Assault Vehicle/Wheeled PX-10|Compact Assault Vehicles]]<ref name="BtM" />
+Or [[TIE ap-1|TIE Maulers]]<ref name="EAW">''[[Star Wars: Empire at War]]''</ref>
+Or
+[[Self-Propelled Medium Artillery|SPMA-Ts]]<ref name="EAW" />
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+*Co-pilot/[[Sensor/Legends|sensor]] officer (1)<ref name="FF" />
+*[[Gunner/Legends|Gunners]] (3)<ref name="FF" />
+|skeleton=
+|passengers=up to 75 troops<ref name="TFUCG" />
+|capacity=180 [[Metric ton/Legends|metric tons]] {{C|total capacity for passengers or cargo}}<ref name="BtM" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="TFUCG" />
+|lifesupport=
+|communications=High-power communication array<ref name="TNEGVV" />
+|othersystems=
+|availability=
+|role=*[[Transport/Legends|Transport]]
+*[[Shuttle/Legends|Shuttle]]
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="RS II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="RS I">[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]</ref>
+*[[New Republic/Legends|New Republic]]<ref name="CE6">[[Crimson Empire 6|''Crimson Empire'' 6]]</ref>
+*[[Galactic Federation of Free Alliances]]<ref name="TNJO FHIIR">''[[The New Jedi Order: Force Heretic II: Refugee]]''</ref>
+*[[Jedi Coalition]]<ref name="LotF Fury">''[[Legacy of the Force: Fury]]''</ref>
+*[[Mercenary/Legends|Mercenary]] groups<ref name="TNEGVV" />
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="TNEGVV" />
+*[[Galactic Federation Triumvirate]]
+*[[Fel Empire]]
+}}
+{{Quote|Imperial landing craft. We're about to have ''plenty'' of company.|[[Commander/Legends|Commander]] [[Arhul Narra/Legends|Arhul Narra]]|<ref name="General Skywalker">''[[Star Wars: Empire: "General" Skywalker]]''</ref>}}
+The '''''Sentinel''-class landing craft''',<ref name="BtM" /> also known as the '''''Sentinel''-class shuttle''',<ref name="TFUCG" /> was a [[Transport/Legends|transport]] used primarily by the [[Galactic Empire/Legends|Galactic Empire]] to carry troops, small vehicles, and supplies.
+
+==Characteristics==
+{{Quote|I have a ''Sentinel''-class ship that's standing idle. I think you'll find she's just what you need.|[[Wedge Antilles/Legends|Wedge Antilles]] to [[Massimo]]|<ref name="CE6" />}}
+[[File:Sentinel_schem.jpg|thumb|left|''Sentinel''-class schematics]]
+With its folding wing configuration and matching cockpit module, the ''Sentinel''-class landing craft was based on the [[Lambda-class T-4a shuttle/Legends|''Lambda''-class shuttle]],<ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]''</ref> both shuttles having seen design origins in the [[Theta-class T-2c shuttle/Legends|''Theta''-class shuttle]].<ref name="TFUCG" /> However, unlike its predecessor and its counterpart, the [[Landing craft/Legends|landing craft's]] exterior was encased in armor plating 25% heavier than the armor of a ''Lambda''-class. The landing craft was also equipped with four [[Deflector shield/Legends|deflector shield]] projectors.<ref name="Handbook">''[[Star Wars: Imperial Handbook: A Commander's Guide]]''</ref> Despite its large size and heavy weight, the ''Sentinel''-class was fast and agile due to its [[Cygnus Spaceworks/Legends|Cygnus]] [[HD7 Hyperdrive Activator Unit|HD7 engine]].<ref name="TEGVV" />
+
+The Sentinel relied on a crew consisting of a [[Pilot/Legends|pilot]], a co-pilot/[[Sensor/Legends|sensor]] officer, as well as three gunners, the minimum crew required was just one person. The head gunner handled the eight fire-linked laser cannons, while the remaining gunners manned the ion cannon, the repeating blasters and the fire-linked missile launchers.<ref name="SWTSSE" />
+
+The vehicle's sensor suite, which was located in the cockpit, allowed navigation in nearly all conditions and featured infrared imaging, motion detectors, and life-form indicators. The vessel's computer also featured an automatic mapping function and a rudimentary [[Autopilot/Legends|autopilot]] that could pilot the vessel towards an Imperial garrison, starship, or homing beacon during emergencies, and included powerful communication arrays which enabled contact with all Imperial starships and garrisons within a given system.<ref name="TNEGVV" />
+
+{{IBI|File:Eaw sclc.jpg|A ''Sentinel''-class landing craft with wings folded for landing}}
+The interior of the shuttle could be customized for each mission, removing or adding seating.<ref name="SWTSSE" /> In its standard configuration, a ''Sentinel''-class could carry 54 [[Stormtrooper/Legends|stormtroopers]]<ref name="Handbook" /> (approximately six squads), 12 [[E-Web heavy repeating blaster/Legends|E-Web heavy repeating blasters]], and 6 [[74-Z speeder bike/Legends|74-Z speeder bikes]]. When its seats were removed and it was converted to carrying supplies, it could transport 36 74-Z speeder bikes, or 12 compact assault vehicles<ref name="TEGVV" /> such as [[All Terrain Scout Transport/Legends|AT-STs]]<ref name="EAW" /> or [[All Terrain Personal Transport/Legends|AT-PTs]].<ref name="SW:FC">''[[Star Wars: Force Commander]]''</ref> Its total cargo capacity was 180 metric tons.<ref name="BtM" />
+
+''Sentinels'' could also carry [[TIE ap-1|TIE Maulers]] and [[Self-Propelled Medium Artillery|SPMA-Ts]] into battle.<ref name="EAW" /> For insertion into a planet, a ''Sentinel'' carried a Class 1.0 hyperdrive.<ref name="BtM" /> ''Sentinels'' were also used to deploy [[Imperial Marines/Legends|Marine]] landing forces onto enemy starships.<ref name="BF II">''[[Star Wars: Battlefront II]]''</ref>
+
+The landing craft's weapons load consisted of 8 [[Laser cannon/Legends|laser cannons]], 2 [[Concussion missile/Legends|concussion missile]] launchers, 1 retractable turret-mounted [[Ion cannon/Legends|ion cannon]], and 2 rotating repeating blasters (retractable, used when landing).<ref name="TEGVV" /> Three gunners were responsible for manning these weapons, which were all linked to the shuttle's precise targeting computers. Since the ''Sentinel''-class was heavily armed, it also served as a combat support vehicle.<ref name="TFUCG" />
+
+''Sentinel''-class landing craft were deployed from Imperial [[Airbase/Legends|airbase]]s.<ref name="SW:GB">''[[Star Wars: Galactic Battlegrounds]]''</ref>
+
+==History==
+[[File:Cattena.jpg|thumb|left|210px|[[Cattena Squadron]] prepares to deploy from inside of a ''Sentinel''.]]
+After the [[Clone Wars/Legends|Clone Wars]], the [[Galactic Empire/Legends|Galactic Empire]] made a change from starships like the [[Acclamator-class transgalactic military assault ship/Legends|''Acclamator''-class assault ship]] that were able to land on planets in order to unload troops, to space-bound [[Imperial-class Star Destroyer/Legends|Star Destroyers]], the sheer size of which required them to remain in orbit above the planet. That change brought about the need for a dedicated, armored, and maneuverable landing craft to safely transport troops directly into battlefields.<ref name="TFUCG" /> The Cygnus-Sienar shuttle family fulfilled most of the Empire's needs for light transports, introducing the ''Sentinel''-class landing craft some time before the [[Battle of Yavin/Legends|Battle of Yavin]], and it eventually became the main troop transport in the [[Imperial Navy/Legends|Imperial Navy]].
+
+The primary use of the ''Sentinel''-class was to transport troops between [[Star Destroyer/Legends|Star Destroyers]]/[[Cruiser/Legends|Cruisers]]/[[Star Dreadnought/Legends|Star Dreadnoughts]] and the surface of a planet, but they could also serve as air support, short-range scouts, light cargo vessels, and even starfighter support.<ref name="TFUCG" /> The vehicle was also used in conjunction with larger [[Y-85 Titan dropship/Legends|Y-85 Titan dropships]] or [[Theta-class barge/Legends|AT-AT barges]] for joint infantry and armor assaults, as well as making an excellent atmospheric transport, with many Imperial garrisons keeping at least one Sentinel on-hand for this purpose.<ref name="TNEGVV" />
+
+Landing craft carried ground forces into numerous battlefronts early in the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="EAW" />
+
+A [[Imperial loader shuttle|modified version]] carried special containers for extra cargo, used to deploy vehicles as big as AT-STs.<ref name="RS II" />
+
+{{IBI|File:Sentinel btm.jpg|A ''Sentinel'' flying over Cloud City}}
+A number of ''Sentinel''-class landing craft were used on the desert world of [[Tatooine/Legends|Tatooine]], where they deployed [[Desert stormtrooper/Legends|sandtroopers]] and their [[Dewback/Legends|dewback]] mounts to search for the missing [[Death Star plans/Legends|Death Star plans]] in [[0 BBY/Legends|0 BBY]].<ref name="BtM" /><ref name="SWE4 SE">{{Film|IV}} [[The Star Wars Trilogy Special Edition|Special Edition]] added the ''Sentinels'' to the film.</ref>
+
+In 0 BBY, shortly before the Battle of Yavin, a [[Jedi/Legends|Jedi]] and some Rebel prisoners tried to [[Death Star Uprising|escape]] the [[DS-1 Orbital Battle Station/Legends|Death Star]] in a ''Sentinel'' but the 501st Legion blew the ''Sentinel'' up before they managed to take off. They then killed the Jedi leader and the breakout was over.<ref name="BF II" />
+
+Imperial [[Officer/Legends|officer]] [[Brenn Tantor]], before his defection to the [[Alliance to Restore the Republic/Legends|Rebel Alliance]], used the [[Battlefield Holographic Control Interface]] to order ''Sentinels'' to deploy reinforcements from orbit to numerous battlefronts.<ref name="SW:FC" />
+
+''Sentinels'' also carried reinforcements to [[Anakin Skywalker/Legends|Darth Vader]] in the [[Evacuation of Yavin]].<ref name="SW:GB" />
+
+These shuttles could carry a modified recon speeder bike that featured an encrypted communications link to the ''Sentinel''.<ref name="SWTSSE" />
+
+More than six [[Standard month/Legends|months]] after the Battle of Yavin,<ref name="RS I guide">''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''</ref> a ''Sentinel'' [[Search for the Nonnah|deployed]] a strike force to destroy the Rebel starship ''[[Nonnah]]''.
+
+A landing craft also carried a force to [[Battle of Lubang Minor (Galactic Civil War)|attack]] [[Red Squadron (Rebel Alliance)/Legends|Red Squadron]] on [[Lubang Minor]], but was destroyed by a veteran [[Able|clone trooper]].<ref name="General Skywalker" />
+
+[[File:Reconaissance_mission_TCG_by_David_Nash.jpg|thumb|left|240px|An [[Galactic Empire/Legends|Imperial]] [[Squad/Legends|squad]] disembarking from a ''Sentinel'']]
+The Rebel Alliance had at least one ''Sentinel'', and used it in a [[Rescue on Kessel|raid]] on the [[Kessel prison]].<ref name="RS I" />
+
+In [[3 ABY/Legends|3 ABY]],<ref name="NEC">''[[The New Essential Chronology]]''</ref> ''Sentinels'' carried [[Cold assault stormtrooper|snowtroopers]] to the surface for the [[Battle of Hoth/Legends|Battle of Hoth]].<ref name="RS II" /> A short time later, the Empire deployed seven landing craft to carry its [[Occupation of Bespin|occupation force]] to [[Bespin/Legends|Bespin]].<ref name="SW:GB" />
+
+A Sentinel boarded the Emperor was attacked in mistake by Dr. Raygar by using a cannon that the doctor made from the powers of the Sunstar that was meant for the Emperor. It was seen Dr. Raygar entered to receive his punishment from Emperor Palpatine.
+
+Rebel [[Prison/Legends|prisoners]] from the battle later took a ''Sentinel'' to escape [[Maw Cluster/Legends|the Maw]] after they were [[Battle near the Maw|freed]] by [[Rogue Squadron/Legends|Rogue Squadron]].<ref name="RS II" />
+
+Production continued after the [[Battle of Endor/Legends|Battle of Endor]], selling them to Imperial groups and private companies, by [[6 ABY/Legends|6 ABY]] the shuttle had became quite common.<ref name="TEGVV" /><ref name="BtM" /> Because of their versatility along with heavy arms and armor, the ''Sentinel''-class saw great popularity inside and outside the Galactic Empire, being used by various other groups including the Rebel Alliance, the [[New Republic/Legends|New Republic]],<ref name="BtM" /> [[Galactic Federation of Free Alliances]], [[Mercenary/Legends|mercenary]] groups, and continued serving the [[Imperial Remnant/Legends|Imperial Remnant]] long after the death of [[Palpatine/Legends|Emperor Palpatine]] during the [[Battle of Endor/Legends|Battle of Endor]] in [[4 ABY/Legends|4 ABY]].
+
+The New Republic developed its own unique replacement for the ''Sentinel''-class, the [[Bantha-class troop carrier assault shuttle|''Bantha''-class troop carrier assault shuttle]], which featured much heavier armor than its Imperial counterpart.<ref name="TNEGVV" /> At least one ''Sentinel'', called the ''[[Neuer]]'' was still in use by the [[Fel Empire]] as late as [[139 ABY]].<ref name="Legacy Volume 2 18">[[Legacy (2013) 18|''Legacy'' (2013) 18]]</ref>
+
+==Behind the scenes==
+Several sources list the ''Sentinel''-class as being 20 meters long (i.e. ''[[The New Essential Guide to Vehicles and Vessels]]''), the same length as the ''Lambda''-class shuttle. Based on the vessel's similarity to the ''Lambda''-class and other craft in the same family (especially the [[Kappa-class shuttle|''Kappa''-class shuttle]]), a more realistic length would fall somewhere between 29 and 45 meters. The space combat simulator ''[[Star Wars: X-Wing Alliance]]'' depicts the ''Sentinel''-class at a length of 38 meters, and a side-by-side comparison in the ''[[Star Wars: Empire at War]]'' terrain editor scales the ''Sentinel''-class at approximately 31.6 meters. However, the scales from both ''Empire at War'' games are known to be notoriously incorrect, especially the distortion between starfighters and capital ships. It is currently unknown which is the official canon length.
+
+Many depictions of ''Sentinel''-class shuttles in ''Legends'' media are based on a particular intermediate-stage concept artwork by TyRuben Ellingson, rather than the finalized version from ''Shadows of the Empire'' and the movies. These depictions, as seen in the above images in this article, typically feature a less-bulky hull and perfectly straight wings as compared to the canon ''Sentinel''-class.
+
+The ''Sentinel''-class landing craft is one of few [[List of Legends elements in the films|C-canon elements to be used in the films]]; it first appeared in the [[Star Wars: Shadows of the Empire (video game)|''Shadows of the Empire'' game]], and appeared in the [[The Star Wars Trilogy Special Edition|special edition]] of [[Star Wars: Episode IV A New Hope|''A New Hope'']].
+
+''Sentinels'' serve as the Imperial landing craft in all three ''Star Wars'' RTS [[Star Wars video games|video game]]s: ''[[Star Wars: Force Commander]]'', ''[[Star Wars: Galactic Battlegrounds]]'', and ''[[Star Wars: Empire at War]]''.
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Trooper_Assault_SWTCG.jpg|thumb|right|200px|Stormtroopers disembarking from a ''Sentinel'']]
+{{Mediacat|imagecat=Images of Sentinel-class landing craft}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront]]'' {{C|cut content}}
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*''[[Death Troopers]]'' {{Ab|Death Troopers (audiobook)}}
+*{{Tales|19|The Value of Proper Intelligence to Any Successful Military Campaign is Not to Be Underestimated}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*[[Empire 5|''Empire'' 5]]
+*[[Empire 6|''Empire'' 6]]
+*''[[Star Wars: Force Commander]]''
+*{{Film|IV}} {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+*[[Star Wars: Episode IV A New Hope (junior novelization)|''Star Wars'': Episode IV ''A New Hope'' junior novelization]]
+*{{StoryCite|story=When the Desert Wind Turns: The Stormtrooper's Tale|book=Tales from the Mos Eisley Cantina}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*''[[Scoundrels]]'' {{Ab|Scoundrels (audiobook)}}
+*''[[Star Wars Missions 9: Revolt of the Battle Droids]]''
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Empire 26|''Empire'' 26]]
+*[[Empire 27|''Empire'' 27]]
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}}
+*[[Empire 38|''Empire'' 38]]
+*[[Empire 39|''Empire'' 39]]
+*[[Empire 40|''Empire'' 40]]
+*[[Rebellion 2|''Rebellion'' 2]] {{Flash}}
+*[[Rebellion 15|''Rebellion'' 15]]
+*"[[Operation: Shadowpoint]]" {{Po}}
+*''[[Star Wars Galaxies: The Ruins of Dantooine]]''
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars: Shadows of the Empire (video game)|''Star Wars: Shadows of the Empire'' video game]] {{1st}}
+*[[X-Wing Rogue Squadron 32|''X-Wing Rogue Squadron'' 32]]
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[Tatooine Ghost]]''
+*[[Crimson Empire 1|''Crimson Empire'' 1]]
+*[[Crimson Empire 2|''Crimson Empire'' 2]]
+*[[Crimson Empire 3|''Crimson Empire'' 3]]
+*[[Crimson Empire 4|''Crimson Empire'' 4]]
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Crimson Empire 6|''Crimson Empire'' 6]]
+*''[[Planet of Twilight]]''
+*''[[The New Jedi Order: Edge of Victory I: Conquest]]''
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Fury]]''
+*''[[Legacy of the Force: Revelation]]''
+}}
+
+===Non-canon appearances===
+*<!-- 2005-12-XX -->"[[Perfect Evil]]"
+*<!-- 2007-05-XX -->''[[The Great Golden C-3PO Hunt]]''
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Sentinel-class landing craft}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]'' {{Imo}}
+*<!-- 1996-12-XX -->[[Star Wars: Shadows of the Empire Limited Collector's Edition|''Star Wars: Shadows of the Empire'' Limited Collector's Edition]]
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]'' {{Po}}
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=''Sentinel''-class Landing Craft}}
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]'' {{Po}}
+*<!-- 2002-03-06 -->{{FactFile|10|HUN 1-4|The Hunt for the Droids}}
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}}
+*<!-- 2002-09-25 -->{{FactFile|39|SEN 1-2|''Sentinel''-class Imperial Landing Craft}}
+*<!-- 2002-XX-XX -->{{LucasArts|url=products/outcast/html/spin.html|text=N.R.I. Reports|int=N.R.I. Reports}} {{Mo}}
+*<!-- 2003-03-31 -->{{TCG|set=Battle of Yavin|cardname=Imperial Landing Craft}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-08-19 -->{{SWGTCG|set=Champions of the Force|cardname=Downed Imperial Transport}} {{Po}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+<!-- 2011-02-10 -->{{SourceContents|issue={{StarshipsVehiclesCite|63|parent=1}}|contents=
+*<!-- 2011-02-10 -->{{StarshipsVehiclesCite|63|Starship & Vehicle Directory}}
+*<!-- 2011-02-10 -->{{StarshipsVehiclesCite|63|Did You Know?}}
+}}
+*<!-- 2011-09-13 -->{{DB|starship|imperiallandingcraft|Imperial landing craft}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Fleeing the Empire|link=core/fleeing-the-empire-core-10-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Reconnaissance Mission|link=core/reconnaissance-mission-core-36-1}} {{Po}}
+}}
+*<!-- 2013-06-27 -->{{FFGTCG|set=Assault on Echo Base|cardname=Forward Command Post|link=the-hoth-cycle/assault-on-echo-base/forward-command-post-assault-on-echo-base-58-4}} {{Po}}
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2013-10-17 -->{{SW|url=news/drawing-from-the-imagination-mythological-creatures-in-star-wars-part-1|text=Drawing from the Imagination: Mythological Creatures in ''Star Wars'', Part 1|int=Back from the Drawing Board|nolive=1}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2016-10-31 -->''[[Endless Vigil]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Sentinel-Klasse Landungsboot
+|es=Nave de aterrizaje clase Centinela/Leyendas
+|nl=Sentinel-class Landing Craft
+|pl=Prom typu Sentinel
+|uk=Десантний корабель типу «Вартовий»/Легенди
+}}
+
+[[Category:Assault shuttle classes]]
+[[Category:Cygnus Spaceworks products]]
+[[Category:Sienar Fleet Systems products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the New Republic]]
+[[Category:Starship classes of the Galactic Alliance]]
+
+{{RelatedCategories
+|[[Category:Sentinel-class landing craft]]
+}}
