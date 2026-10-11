@@ -1,0 +1,57 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=Passenger Walker
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Walker/Legends|Walker]]<ref name="E">{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=60 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="E" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="E" />
+|skeleton=
+|passengers=40<ref name="E" />
+|capacity=1 [[Metric ton/Legends|metric tons]]<ref name="E" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Passenger Walkers''' were a model of [[Walker/Legends|walker]] commonly used on the [[Planet/Legends|planet]] [[Emmer]]. Passenger Walkers were variants of the [[All Terrain Armored Transport/Legends|All Terrain Armored Transport]], equipped with banks of windows along the sides and were painted in bright colors. Passenger Walkers were used for tourism and mass transit.<ref name="E" />
+
+==Appearances==
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Walker models]]
