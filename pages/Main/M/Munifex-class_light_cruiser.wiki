@@ -1,0 +1,94 @@
+{{Top|leg|title=''Munifex''-class light cruiser}}
+{{StarshipClass
+|image=[[File:Class1000cruiser.png]]
+|name=''Munifex''-class light cruiser
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="GG6">''[[Galaxy Guide 6: Tramp Freighters]]''</ref>
+|line=
+|model=''Munifex''-class light cruiser<ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+|type=[[Cruiser/Legends|Cruiser]]<ref name="GG6" />
+|cost=
+|modifier=
+|sysmods=
+|length=300 [[Meter/Legends|meters]]<ref name="GG6" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="GG6" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="GG6" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolasers]] (28)<ref name="GG6" />
+*[[Ion cannon/Legends|Ion cannons]] (12)<ref name="GG6" />
+|complement=[[TIE series/Legends|TIE]] [[Starfighter/Legends|starfighter]] [[Squadron/Legends|squadron]] (1)<ref name="GG6" />
+|bays=
+|escapepods=
+|crew=*Crew (580)<ref name="GG6" />
+*[[Gunner/Legends|Gunners]] (80)<ref name="GG6" />
+|skeleton=
+|passengers=200 [[Troop/Legends|troops]]<ref name="GG6" />
+|capacity=500 [[Metric ton/Legends|metric tons]]<ref name="GG6" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Patrol<ref name="GG6" />
+|firstuse=By [[214 BBY]]<ref name="Author's Cut">{{SW|url=news/the-essential-guide-to-warfare-authors-cut-part-6-showdown-at-naboo|series=Star Wars: The Essential Guide to Warfare Author's Cut|text=Part 6: Showdown at Naboo}}</ref>
+|retired=
+|affiliation=*[[Trade Federation/Legends|Trade Federation of Planets]]<ref name="TEGTW" />
+**[[Trade Defense Force]]<ref name="TEGTW" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="GG6" />
+}}
+The '''''Munifex''-class light cruiser''', colloquially known as the '''Class 1000 cruiser''', was a [[Light cruiser/Legends|light cruiser]] design from [[Kuat Drive Yards/Legends|Kuat Drive Yards]], used by the [[Trade Defense Force]] and the [[Galactic Empire/Legends|Galactic Empire]].
+
+==History==
+The ''Munifex''-class was originally used by the [[Trade Defense Force]] and gained its nickname from the number of ships initially ordered.<ref name="TEGTW" />
+
+Around [[214 BBY]], a group of [[Transport/Legends|transport]] businesses in the [[Rseik sector/Legends|Rseik Sector]] decided to join the Trade Federation. They were burdened by pirates, and the Defense Force sent a [[Flotilla/Legends|flotilla]] including a [[Captor-class heavy munitions cruiser|''Captor''-class heavy munitions cruiser]] and two ''Munifex''-class cruisers to stop the pirates.<ref name="Author's Cut" />
+
+Relatively heavily-armed for its size, but not boasting the fastest [[Hyperdrive/Legends|hyperdrive]], it was not as prominent in the [[Galactic Civil War/Legends|Galactic Civil War]] as ships like the [[Carrack-class light cruiser/Legends|''Carrack''-class cruiser]] and the [[Star Galleon-class frigate|''Star Galleon''-class frigate]], and may have been found primarily in relatively low-priority sectors.<ref name="GG6" />
+
+For instance, in the remote [[Minos Cluster/Legends|Minos Cluster]], the Class 1000 cruiser [[Intrepid (Munifex-class)|''Intrepid'']] served as the guard ship for the [[Asteroid/Legends|asteroid]] prison in the [[Gesaril system/Legends|Gesaril system]].<ref name="GG6" />
+
+==Behind the scenes==
+The Munifex was first named in the ''[[The Essential Guide to Warfare]]''.
+
+==Sources==
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]'' {{1stm}} {{ID|Class 1000 Cruiser}}
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]'' {{1stID|''Munifex''-class light cruiser}}
+*<!-- 2014-03-18 -->{{SW|url=news/the-essential-guide-to-warfare-authors-cut-part-6-showdown-at-naboo|series=Star Wars: The Essential Guide to Warfare Author's Cut|text=Part 6: Showdown at Naboo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Munifex-Klasse Leichter Kreuzer
+|es=Crucero ligero clase Munifex
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Light cruiser classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Trade Federation]]
+
+{{RelatedCategories
+|[[Category:Munifex-class light cruisers]]
+}}

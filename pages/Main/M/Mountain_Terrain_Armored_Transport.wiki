@@ -1,0 +1,99 @@
+{{Top|leg|canon=Spider walker}}
+{{GroundVehicle
+|image=[[File:MTAT-FF74.png]]
+|name=Mountain Terrain Armored Transport
+|designer=
+|manufacturer=[[Carida Engines]]<ref name="JAS">''[[The Jedi Academy Sourcebook]]''</ref>
+|line=
+|model=MT-AT spider walker<ref name="JAS" />
+|type=[[Walker/Legends|Walker]]<ref name="JAS" />
+|cost=80,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="a&eg">''[[Arms & Equipment Guide]]''</ref>
+*48,000 credits {{C|used}}<ref name="a&eg" />
+|modifier=
+|sysmods=
+|length=15.6 [[Meter/Legends|meters]]<ref name="JAS" />
+|width=12 meters<ref name="a&eg" />
+|height=12 meters<ref name="a&eg" />
+|mass=
+|max accel=
+|speed=90<ref name="a&eg" /> to 130 [[Kilometer per hour/Legends|km/h]]<ref name="JAS" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Twin [[Blaster cannon/Legends|blaster cannons]] (8)<ref name="JAS" />
+*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="JAS" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="JAS" />
+*[[Gunner/Legends|Gunners]] (2)<ref name="JAS" />
+|skeleton=
+|passengers=None<ref name="a&eg" />
+|capacity=300 [[Kilogram/Legends|kg]]<ref name="JAS" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Mechanized infantry
+*Heavy cavalry
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+}}
+{{Quote|We have eight MT-AT vehicles loaded into the Dreadnaught ''Vendetta'', along with a full compliment of troops and weaponry.|A stormtrooper lieutenant to Ambassador Furgan|<ref name="CotF">''[[Champions of the Force]]''</ref>}}
+The '''Mountain Terrain Armored Transport (MT-AT)''' was an arachnid-like eight-legged [[Walker/Legends|walker]], apparently designed on the [[Galactic Empire/Legends|Galactic Empire's]] [[Fortress world/Legends|fortress world]] of [[Carida/Legends|Carida]]. This design earned it the nickname "Spider Walker".
+
+==Characteristics==
+[[File:MT-AT_egvv.jpg|thumb|left|MT-AT schematics.]]
+Each walker-unit was deployed on-[[Planet/Legends|planet]] by a [[cocoon pod]], similar to the deployment of [[Arakyd Industries/Legends|Arakyd]] [[Viper probe droid/Legends|Viper probe droids]], and emerged from the impact crater fully operational. These cocoon pods encased the walker in a fluid gel that protected its descent to a planet's surface.<ref name="EGtV&V">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+
+A droid brain in the pod controlled the speed and direction and activated decelerating thrusters shortly before impact. When the pod impacted on the surface, the bistate gel hardened, absorbing the kinetic energy and protecting the walker from damage.<ref name="EGtV&V" />
+
+==History==
+[[File:MT-AT_EGVV.jpg|thumb|MT-AT.]]The MT-AT was based on the design of the [[Confederacy of Independent Systems/Legends|Separatist]] [[LM-432 crab droid/Legends|LM-432 crab droid]] used at [[Imperial Academy/Legends|Imperial academies]] following the end of the [[Clone Wars/Legends|Clone Wars]].<ref name="TNEGtD">''[[The New Essential Guide to Droids]]''</ref>
+
+MT-ATs saw action during the attempted kidnapping of [[Anakin Solo]] while he was still a baby, even though half of the force was destroyed by [[Admiral/Legends|Admiral]] [[Gial Ackbar/Legends|Gial Ackbar's]] [[Foreign Intruder Defense Organism|FIDO]] unit.
+All but one of the vehicles were destroyed during the kidnapping attempt, thanks to sturdy Alliance defenses.<ref name="CotF" />
+
+==Appearances==
+*[[Dark Apprentice (novel)|''Dark Apprentice'']] {{1stm}}
+*''[[Champions of the Force]]'' {{1st}}
+
+==Sources==
+{{Mediacat|imagecat=Images of Mountain Terrain Armored Transports}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1996-01-XX -->{{GalaxyCite|6|Operator's Manual}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2002-12-03 -->{{InsiderCite|64|The Vehicles of Episode II}}
+*<!-- 2003-05-28 -->{{FactFile|74|MTA 1-2|Mountain Terrain Armored Transport (MT-AT)}}
+*<!-- 2006-06-27 -->''[[The New Essential Guide to Droids]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=MT-AT
+|de=Allgebirgsterrain-Angriffstransporter
+|es=Transporte Acorazado para Terreno Montañoso
+|fi=Mountain Terrain Armored Transport
+}}
+
+[[Category:Carida Engines products]]
+[[Category:Vehicle classes of the Galactic Empire]]
+[[Category:Walker models]]

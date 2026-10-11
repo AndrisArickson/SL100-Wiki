@@ -1,0 +1,72 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Explorerspbo.jpg]]
+|name=Multi-environment Space Boat
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Multi-environment vehicle<ref name="BGS">''[[Battle for the Golden Sun]]''</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=*[[Repulsorlift/Legends|Repulsorlift]]<ref name="BGS" />
+*[[Sublight engine/Legends|Sublight drive]]<ref name="BGS" />
+|hyperdrive=[[Hyperdrive/Legends|Class 0.5]]<ref name="BGS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="BGS" />
+|hull=
+|sensor=*[[Energy-wave detector]]<ref name="BGS" />
+*[[Radar/Legends|Radar]]<ref name="BGS" />
+*[[Sonar]]<ref name="BGS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="BGS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*2 double [[Laser cannon/Legends|laser cannons]]<ref name="BGS" />
+*[[Tractor beam projector/Legends|Tractor beam projector]]<ref name="BGS" />
+|complement=*2 [[speeder-raft]]s<ref name="BGS" />
+*6 [[glider-sail]]s<ref name="BGS" />
+|bays=
+|escapepods=
+|crew=6<ref name="BGS" />
+|skeleton=
+|passengers=6<ref name="BGS" />
+|capacity=150 [[Metric ton/Legends|metric tons]]<ref name="BGS" />
+|cargohandling=
+|consumables=4 [[Standard month/Legends|months]]<ref name="BGS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Multi-environment Space Boat''' was a space [[Transport/Legends|transport]] also capable of traveling in [[Atmosphere/Legends|atmosphere]] and underwater. The [[Explorer (space boat)|''Explorer'']] was a modified Multi-environment Space Boat.
+
+==Appearances==
+*''[[Battle for the Golden Sun]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Aquatic vehicle models]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Multi-environment Space Boats]]
+}}

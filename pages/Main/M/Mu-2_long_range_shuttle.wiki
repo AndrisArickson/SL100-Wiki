@@ -1,0 +1,106 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mu-2.jpg]]
+|name=Mu-2 long range shuttle
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=[[Scout ship/Legends|Scout vessel]]<ref name="GG8" />
+|type=[[Mu-class shuttle/Legends|''Mu''-class shuttle]]<ref name="GG8" />
+|cost=
+|modifier=
+|sysmods=
+|length=20 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="GG8" />
+*[[Backup hyperdrive|Class 20]] {{C|backup}}<ref name="GG8" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="GG8" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="GG8" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="GG8" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Laser cannon/Legends|laser cannons]]<ref name="GG8" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="GG8" />
+|skeleton=
+|passengers=14<ref name="GG8" />
+|capacity=*100 [[Metric ton/Legends|metric tons]]<ref name="GG8" />
+*40 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Scout ship/Legends|Scout vessel]]<ref name="GG8" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mu-2 long range shuttle''' was a 20-[[Meter/Legends|meter]] long [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] long-range [[Scout ship/Legends|scout ship]].
+
+==Characteristics==
+[[File:Mu-sct-tur.jpg|thumb|left|180px|A Mu-2 class flies over a wrecked [[SCT Scout craft|SCT Scout Craft]]]]
+It carried a pilot, a co-pilot, 14 [[Soldier/Legends|troops]], 100 [[Metric ton/Legends|metric tons]] of cargo, and 6 [[Standard month/Legends|months]] worth of [[Foodstuff/Legends|consumables]]. The ship had a Class 2 [[Hyperdrive/Legends|hyperdrive]], and a Class 20 [[Backup hyperdrive|backup]]. 850 [[Kilometer/Legends|kilometers]] per hour could be achieved in [[Atmosphere/Legends|atmosphere]]. [[Deflector shield/Legends|Deflector shields]] were supplemented by 2 fire-linked forward [[Laser cannon/Legends|laser cannons]]. It was produced in two models. The Model 1 had more seats and was designed to carry 24 passengers. Although the Model 2 carried fewer passengers than the original variety, it had four enclosed sleeping cabins, and boasted a miniature galley.<ref name="UR">''[[The Unknown Regions]]''</ref>
+
+==History==
+The [[Radell Mining Corporation]], the [[Galactic Empire/Legends|Galactic Empire]], and the [[New Republic/Legends|New Republic]] all employed the Mu-2. [[Lando Calrissian/Legends|Lando Calrissian]] possessed a modified Mu-2, the ''[[Cobra]]''.
+
+==Appearances==
+*''[[Adventures in Hyperspace: Fire Ring Race]]''
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*{{Hyperspace|url=hyperspace/member/fiction/f20080522/index.html|text="Lando Calrissian: Idiot's Array"|int=Lando Calrissian: Idiot's Array|newhost=Suvudu}}
+*{{GalaxiesNGE}} {{C|Appeared in loading screen}}
+*[[Star Wars (1977) 79|''Star Wars'' (1977) 79]] {{Reprint|Star Wars (1977) 79}} {{1st}}
+*[[Star Wars (1977) 83|''Star Wars'' (1977) 83]] {{Reprint|Star Wars (1977) 83}}
+*[[Star Wars (1977) 85|''Star Wars'' (1977) 85]] {{Reprint|Star Wars (1977) 85}}
+*[[Star Wars (1977) 91|''Star Wars'' (1977) 91]] {{Reprint|Star Wars (1977) 91}}
+*[[Star Wars (1977) 99|''Star Wars'' (1977) 99]] {{Reprint|Star Wars (1977) 99}}
+*[[Star Wars (1977) 100|''Star Wars'' (1977) 100]] {{Reprint|Star Wars (1977) 100}}
+*[[Star Wars (1977) 102|''Star Wars'' (1977) 102]] {{Reprint|Star Wars (1977) 102}}
+
+==Sources==
+[[File:Cobra-SWGTCGAOD.jpg|thumb|250px|The ''Cobra'']]
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]'' {{Imo}}
+*<!-- 2009-06-23 -->{{SWGTCG|set=Agents of Deception|cardname=Cobra}} {{Po}}
+*<!-- 2009-11-20 -->{{Hyperspace|url=fans/hyperspace/source/nagai11202009/index.html|text=The Forgotten War: The Nagai and the Tofs|int=The Forgotten War: The Nagai and the Tofs}}
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+*<!-- 2011-09-13 -->{{DB|character|lumiya|Lumiya}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Raketoplán třídy Mu Model 2
+|de=Mu-Klasse Modell 2 Shuttle
+|nl=Mu-2 Model 2 Shuttle
+|es=Lanzadera de largo alcance Mu-2
+}}
+
+[[Category:Scout starship classes]]
+[[Category:Shuttle classes]]
+[[Category:Sienar Fleet Systems products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:Mu-2 long range shuttles]]
+}}

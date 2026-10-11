@@ -1,0 +1,100 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Asgpolic.jpg]]
+|name=N-X Police Cruiser
+|designer=
+|manufacturer=[[Theed Palace Space Vessel Engineering Corps/Legends|Theed Palace Space Vessel Engineering Corps]]<ref name="g4">{{GamerCite|4|State of the Arts}}</ref>
+|line=
+|model=N-X Police Cruiser<ref name="g4" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="g4" />
+|cost=Not available for sale<ref name="g4" />
+|modifier=
+|sysmods=
+|length=11 meters<ref name="g4" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=*1 modified [[Nubian 111]]
+*1 [[Nubian]] [[Monarc C-2]]
+|hyperdrive=Class 1 (when modified)<ref name="g4" />
+|hdrange=
+|hdsystem=None<ref name="g4" /><ref name="stats" />
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="g4" />
+*[[Proton torpedo/Legends|Proton torpedo]] magazine (1)<ref name="g4" />
+**Torpedoes (4 typically; 10 against heavy opposition)<ref name="g4" /><ref name="stats" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot/gunner (1)<ref name="g4" />
+*Astromech droid (1)<ref name="g4" />
+|skeleton=
+|passengers=None<ref name="g4" />
+|capacity=65 kilograms<ref name="g4" />
+|cargohandling=
+|consumables=1 week<ref name="g4" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Patrol
+|firstuse=[[32 BBY/Legends|32 BBY]]
+|retired=
+|affiliation=[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]]
+}}
+{{Quote|The Naboo RSF Cruiser functions as a training vehicle for potential N-1 pilots. Its weapons, shields, and other equipment are significantly less powerful than those aboard the N-1. However, the cruiser is still among the most formidable vehicles in the Naboo arsenal.|[[Captain/Legends|Captain]] [[Quarsh Panaka/Legends|Quarsh Panaka]]|<ref name="Star Wars: Episode I: Battle for Naboo">''[[Star Wars: Episode I: Battle for Naboo]]''</ref>}}
+The [[Naboo/Legends|Naboo]] '''N-X Police Cruiser''', most commonly called the '''Police Cruiser''', was the atmospheric version of the [[N-1 starfighter/Legends|N-1 starfighter]], capable of sub-orbital flight, but lacking a [[hyperdrive/Legends|hyperdrive]].<ref name="stats">{{Wizards|url=starwars/article.asp?x=starfighter_stats|text="The Starfighter Trap" Character Statistics}}</ref>
+
+==Characteristics==
+It was nine meters long and resembled the yellow N-1 aside from a third engine module, lack of an [[Astromech droid/Legends|astromech droid]], and the blue paint scheme, though both were remarkably similar in appearance and performance.
+
+The light alloy armored hull on the N-X was similar to the N-1 and also gave the fighter its speed and maneuverability. This made the N-X starfighter an excellent patrol craft and good for atmospheric missions. However, when forced to engage heavier or more numerous enemies, its weakness became apparent. In such situations, the pilot had no alternative but to activate the overthruster and withdraw to friendly supporting units.
+
+==History==
+The N-X was a recent addition to the [[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]] during the [[Invasion of Naboo/Legends|Invasion of Naboo]]. The N-X was designed and manufactured by [[Theed Palace Space Vessel Engineering Corps/Legends|Theed Palace Space Vessel Engineering Corps]] which also developed the highly successful N-1. The RSF garrison in Theed received the first squadron of these fighters a year before the [[Invasion of Naboo/Legends|Battle of Naboo]]. Other Naboo city-states had since started to receive their own N-X squadrons. Because of their likeness to the N-1s, they were often used as training vessels.
+
+During the occupation of [[Theed/Legends|Theed]] by the [[Trade Federation/Legends|Trade Federation]], a mixed force of N-X and N-1 fighters liberated a Trade Federation internment camp, this successful mix of vehicles brought the Trade Federation's droid forces into disarray days before the Trade Federation [[Vuutun Palaa/Legends|Droid Control Ship]] was destroyed in orbit over Naboo. During the [[Clone Wars/Legends|Clone Wars]], the N-X continued to serve the Naboo by combating both pirates and [[Confederacy of Independent Systems/Legends|Separatist]] forces in the Naboo system.
+
+==Behind the scenes==
+[[File:NabooPoliceCruiser.jpg|thumb|An N-X Police Cruiser from ''Star Wars: Battle for Naboo''.]]
+
+The N-X Police Cruiser first appeared in the [[2000]] [[Star Wars video games|video game]] ''[[Star Wars: Episode I: Battle for Naboo]]''. It was later available in the [[2001]] video game [[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']] by using the cheat code "''BLUENSF''", only after the player has achieved a gold medal on all previous missions.
+
+==Appearances==
+*{{GamerCite|1|The Starfighter Trap}}
+*[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']]
+*''[[Star Wars: Episode I: Battle for Naboo]]'' {{1st}}
+*{{LivingForce|Shadows in Green}}
+
+==Sources==
+*<!-- 2001-04-07 -->{{Wizards|url=starwars/article.asp?x=starfighter_stats|text="The Starfighter Trap" Character Statistics}}
+*<!-- 2001-06-19 -->{{GamerCite|4|State of the Arts}}
+*<!-- 2002-03-06 -->{{FactFile|10|NAB 3-4|Naboo N-1 Starfighter}}
+<!-- 2011-01-27 -->{{SourceContents|issue={{StarshipsVehiclesCite|62|parent=1}}|contents=
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Welcome On Board}}
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|In A Galaxy Far, Far Away}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Crucero policial N-X
+}}
+
+[[Category:Air vehicle models]]
+[[Category:Law enforcement vehicle classes]]
+[[Category:Theed Palace Space Vessel Engineering Corps products]]

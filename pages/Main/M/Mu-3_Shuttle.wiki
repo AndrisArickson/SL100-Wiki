@@ -1,0 +1,73 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Mu-3 Shuttle
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="RoE">''[[Rules of Engagement: The Rebel SpecForce Handbook]]''</ref>
+|line=[[Mu-class shuttle/Legends|''Mu''-class shuttle]]<ref name="RoE" />
+|model=
+|type=[[Shuttle/Legends|Shuttle]]<ref name="RoE" />
+|cost=
+|modifier=
+|sysmods=
+|length=20 [[Meter/Legends|meters]]<ref name="RoE" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="RoE" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="RoE" />
+*[[Backup hyperdrive|Class 20]]<ref name="RoE" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="RoE" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="RoE" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="RoE" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Laser cannon/Legends|laser cannons]]<ref name="RoE" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="RoE" />
+|skeleton=
+|passengers=40<ref name="RoE" />
+|capacity=50 [[Metric ton/Legends|metric tons]]<ref name="RoE" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="RoE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Combat [[Transport/Legends|transport]]<ref name="RoE" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="RoE" />
+}}
+The '''Mu-3 Shuttle''' was a [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] general purpose [[Shuttle/Legends|shuttle]].
+
+==Characteristics==
+Unlike previous [[Mu-class shuttle/Legends|''Mu''-class shuttles]], the third variant was a general purpose shuttle used for when stealth was not a mission requirement. While only requiring two crew to pilot the shuttle, it could carry up to forty [[Stormtrooper/Legends|Stormtroopers]] or [[Imperial Army trooper/Legends|Imperial Army troopers]] and their equipment. It was armed with twin fire-linked [[Laser cannon/Legends|laser cannons]].
+
+==Sources==
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Mu-Klasse Modell 3 Shuttle
+|es=Lanzadera Mu-3
+}}
+
+[[Category:Shuttle classes]]
+[[Category:Sienar Fleet Systems products]]
+[[Category:Starship classes of the Galactic Empire]]

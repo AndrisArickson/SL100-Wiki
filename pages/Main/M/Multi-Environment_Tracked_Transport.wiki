@@ -1,0 +1,78 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=[[File:AncientSandCrawler.jpg]]
+|name=Multi-Environment Tracked Transport
+|designer=
+|manufacturer=[[Czerka Arms/Legends|Czerka Corporation]]<ref name="we1">{{Wizards|url=default.asp?x=starwars/article/KOTORweben1|text=KOTOR Campaign Guide Web Enhancement 1: The Sandcrawler}}</ref>
+|line=
+|model=
+|type=
+|cost=*110,000 [[Galactic Credit Standard/Legends|credits]] new
+*40,000 credits used<ref name="we1" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=40 km/h<ref name="we1" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=2 [[Landspeeder/Legends|landspeeders]]<ref name="we1" />
+|bays=
+|escapepods=
+|crew=10<ref name="we1" />
+|skeleton=
+|passengers=60<ref name="we1" />
+|capacity=3 tons<ref name="we1" />
+|cargohandling=
+|consumables=2 months<ref name="we1" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="we1" />
+|role=Transport<ref name="we1" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Multi-Environment Tracked Transport (M-ETT)''', also known as a [[Sandcrawler/Legends|sandcrawler]], was a tracked vehicle manufactured by [[Czerka Arms/Legends|Czerka Corporation]].
+
+==Characteristics==
+[[File:Czerkacrawler.jpg|thumb|left|A damaged Czerka sandcrawler during the Jedi Civil War]]
+At the time of its release it was one of the most sophisticated ground vehicles available for sale. The enormous transport, used often in deserts, could hold enough resources to keep its crew well-stocked in the harsh desert environment. Climate control inside the vehicle also helped ward off the effects of the desert. The vast space within could allow the M-ETT to transport large quantities of supplies to settlements, eliminating the need for frequent trips.<ref name="we1" /> Sometimes, however, the vehicles broke down, occasionally stranding their crew deep in the arid wastes of the worlds they operated on.<ref name="KOTOR">''[[Star Wars: Knights of the Old Republic]]''</ref>
+
+The M-ETT was designed to be used in environments where [[Repulsorcraft/Legends|repulsorcraft]] would be prohibitively expensive or difficult to use, able to run on a wide variety of surfaces. The M-ETT's tracked locomotion was especially good for arid worlds such as [[Tatooine/Legends|Tatooine]], where unstable ground and sand dunes made moving in wheeled vehicles and walkers difficult, and sandstorms caused [[Repulsorlift/Legends|repulsorlifts]] to malfunction.<ref name="we1" />
+
+==Behind the scenes==
+The [http://www.wizards.com/default.asp?x=starwars/article/KOTORweben1 ''KOTOR Campaign Guide'' Web Enhancement 1] from [[Wizards of the Coast]]'s website was the first source to identify this type of sandcrawler. Though the supplement is illustrated by a [[Jawa/Legends|Jawa]] sandcrawler from [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], the era and description suggest it is meant to refer to a type of sandcrawler first seen in ''[[Star Wars: Knights of the Old Republic]]''.
+
+==Appearances==
+*''[[Star Wars: Knights of the Old Republic]]'' {{1st}}
+
+==Sources==
+*<!-- 2003-07-XX -->[[Star Wars: Knights of the Old Republic: Prima's Official Strategy Guide|''Star Wars: Knights of the Old Republic'': Prima's Official Strategy Guide]]
+*<!-- 2008-08-19 -->{{Wizards|url=default.asp?x=starwars/article/KOTORweben1|text=KOTOR Campaign Guide Web Enhancement 1: The Sandcrawler}} {{1stID|Multi-Environment Tracked Transport}}
+*<!-- 2009-09-10 -->[[Star Wars: The Official Starships & Vehicles Collection 26|''Star Wars: The Official Starships & Vehicles Collection'' 26]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Multi-Environment Tracked Transport
+|pl=Multi-Environment Tracked Transport
+}}
+
+[[Category:Czerka Arms products]]
+[[Category:Sandcrawler models]]
