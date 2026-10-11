@@ -1,0 +1,93 @@
+{{Top|title=''Sprint''-class rescue craft}}
+{{StarshipClass
+|image=[[File:Medrunner.jpg]]
+|name=''Sprint''-class rescue craft
+|designer=
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="TRUCE">''[[The Truce at Bakura Sourcebook]]''</ref>
+|line=
+|model=''Sprint''-class rescue craft<ref name="TRUCE" />
+|type=[[Hospital ship/Legends|Medical rescue craft]]<ref name="TRUCE" />
+|cost=
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="TRUCE" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,150 [[Kilometer per hour/Legends|kph]]<ref name="TRUCE" />
+|maneuverability=Extremely high<ref name="TRUCE" />
+|engine=[[Ion engine/Legends|Ion drive]]<ref name="TRUCE" />
+|hyperdrive=*Class 1.0<ref name="TRUCE" />
+*Class 12 {{C|backup}}<ref name="TRUCE" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="TRUCE" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="TRUCE" />
+|hull=
+|sensor=Sophisticated [[Life form indicator]]<ref name="TRUCE" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None<ref name="TRUCE" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilots]] (2)<ref name="TRUCE" />
+*Other crew (1)<ref name="TRUCE" />
+*Medics (5)<ref name="TRUCE" />
+|skeleton=
+|passengers=40 patients<ref name="TRUCE" />
+|capacity=2 [[Metric ton/Legends|metric tons]]<ref name="TRUCE" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="TRUCE" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Hospital ship/Legends|Medical rescue craft]]<ref name="TRUCE" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="TRUCE" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="TRUCE" />
+}}
+The '''''Sprint''-class rescue craft''', also known as a '''Med Runner''', was a [[Hospital ship/Legends|medical rescue craft]] manufactured by [[SoroSuub Corporation/Legends|SoroSuub Corporation]].<ref name="TRUCE" />
+
+==Characteristics==
+[[File:Obsession5-24.jpg|thumb|left|180px|The med runner ''[[Bright Flight]]'' en route to [[Coruscant/Legends|Coruscant]].]]
+
+The SoroSuub Sprint-class medical rescue craft was a fast-response vessel for deep space emergencies. While similar in appearance to the [[Telgorn Corporation/Legends|Telgorn]] [[Gamma-class assault shuttle/Legends|Gamma-class assault shuttle]], having the same flat and wide profile, the Med Runner's design and mission profile was significantly different. A non-military craft, the Med Runner had civilian grade shielding and armor, with the craft carrying no weapons.<ref name="TRUCE" /> A powerful [[hyperdrive]] and [[Ion engine/Legends|ion engine]] package, coupled with a military-grade [[sensor]] suite, allowed the ship to respond to distress calls and reach a disaster scene faster than even other rescue craft.<ref name="TRUCE" />
+
+The Med Runner was extremely fast and agile - ideal for navigating battle debris - while sophisticated and highly sensitive [[life form indicator]]s could detect survivors even amidst the chaotic sensor environment of starship wreckage. The ship's interior had several small well-equipped medical bays, with a total capacity of forty patients. Emergency trauma suites, while lacking the capabilities of a [[bacta tank]], could stabilize the critically injured; allowing the Med Runner to transport the patient to a more sophisticated medical facility.<ref name="TRUCE" />
+
+==History==
+Med runners were used by the [[Galactic Republic/Legends|Galactic Republic]] during the [[Clone Wars/Legends|Clone Wars]]. Several med runners transported the dead and wounded to [[Coruscant/Legends|Coruscant]] following the [[Battle of Boz Pity (Clone Wars)|Battle of Boz Pity]]. The med runner ''[[Bright Flight]]'' was hijacked by [[Asajj Ventress/Legends|Asajj Ventress]], who used it to escape into the [[Unknown Regions/Legends|Unknown Regions]] after her betrayal at the hands of [[Count/Legends|Count]] [[Dooku/Legends|Dooku]].
+
+In [[4 ABY/Legends|4 ABY]],<ref name="Atlas">''[[The Essential Atlas]]''</ref> on the day after the [[Battle of Endor/Legends|Battle of Endor]], a Med Runner rescued [[Wedge Antilles/Legends|Wedge Antilles]], who was floating in space in Endor's orbit. He had been out on patrol for the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] when he encountered an [[Galactic Empire/Legends|Imperial]] [[drone ship]]. While attempting to acquire the message it carried, he accidentally set off a self-destruct sequence that he had to prevent by holding his hand in between two crystals, crushing it. By the time the Med Runner arrived, he was also suffering from hypoxia, as he had had to exit his [[X-wing starfighter/Legends|X-wing]] to prevent the self-destruct.<ref name="Bakura novel">''[[The Truce at Bakura]]''</ref>
+
+==Appearances==
+*[[Obsession 5|''Obsession'' 5]]
+*''[[The Truce at Bakura]]'' {{1st}}
+
+[[File:Bozpity.jpg|thumb|250px|Med runners arrive to aid [[Galactic Republic/Legends|Republic]] casualties after the [[Battle of Boz Pity (Clone Wars)|Battle of Boz Pity]].]]
+
+==Sources==
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Sprint-class rescue craft}}
+{{Reflist}}
+
+{{Interlang
+|de=Sprint-Klasse Rettungsschiff#legends
+|fr=Barge de sauvetage de classe Sprint
+}}
+
+[[Category:Medical starship classes]]
+[[Category:SoroSuub Corporation products]]
+[[Category:Starship classes of the Galactic Republic]]

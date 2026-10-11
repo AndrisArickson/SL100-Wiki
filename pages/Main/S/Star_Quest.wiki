@@ -1,0 +1,70 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=
+|name=Star Quest
+|designer=
+|manufacturer=[[Suwantek Systems]]<ref name="AJ7">{{JournalCite|7|Passages}}</ref>
+|line=
+|model=[[TL-1800 transport]]<ref name="AJ7" />
+|type=[[Light freighter/Legends|Light freighter]]<ref name="AJ7" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|kmh]]<ref name="AJ7" />
+|maneuverability=
+|engine=
+|hyperdrive=*x2 {{C|primary}}<ref name="AJ7" />
+*x10 {{C|backup}}<ref name="AJ7" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] (2)<ref name="AJ7" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="AJ7" />
+|skeleton=
+|passengers=7<ref name="AJ7" />
+|capacity=110 [[Metric ton/Legends|metric tons]]<ref name="AJ7" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="AJ7" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=
+|navy=
+|fleet=
+|owners=[[Tere Metallo]]<ref name="AJ7" />
+|captains=
+|registry=
+|aliases=
+}}
+The '''''Star Quest''''' was a [[Suwantek Systems]] [[TL-1800 transport]] that was owned and operated by the [[Riileb (species)|Riileb]] [[Tere Metallo]].
+
+==Appearances==
+*{{JournalCite|7|Passages}}
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:TL-1800 transports]]

@@ -1,0 +1,83 @@
+{{Top|leg|title=''Starlight''-class light freighter}}
+{{Otheruses|Starlight}}
+{{StarshipClass
+|image=[[File:Starlight-class_light_freighter.jpg]]
+|name=''Starlight''-class light freighter
+|designer=
+|manufacturer=[[Rendili StarDrive/Legends|Rendili StarDrive]] and [[Surron StarTech]]<ref name="SS">''[[Stock Ships]]''</ref>
+|line=
+|model=''Starlight''-class light freighter
+|type=[[Freighter/Legends|Freighter]]<ref name="SS" />
+|cost=26,000 [[Galactic Credit Standard/Legends|credits]] {{C|used}}<ref name="SS" />
+|modifier=
+|sysmods=
+|length=34 [[Meter/Legends|meters]]<ref name="SS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|kmh]]<ref name="SS" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0 {{C|primary}}<ref name="SS" />
+*Class 12 {{C|backup}}<ref name="SS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Turret-mounted [[Blaster cannon/Legends|blaster cannon]]<ref name="SS" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=4<ref name="SS" />
+|capacity=50 [[Metric ton/Legends|metric tons]]<ref name="SS" />
+|cargohandling=
+|consumables=3 [[Standard week/Legends|weeks]]<ref name="SS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Transport
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Starlight''-class light freighter''' was a [[Light freighter/Legends|light freighter]] produced by [[Rendili StarDrive/Legends|Rendili StarDrive]] in conjunction with [[Surron StarTech]]. It proved to be the last design produced by Rendili-Surron.
+
+==Description==
+The ''Starlight''-class was designed in the shape of a flying wing, measuring thirty-four [[Meter/Legends|meters]] in length. The cockpit was located at one end of the curved wing, with a turret-mounted [[Blaster cannon/Legends|blaster cannon]] mounted on the opposite end. The vessel could carry up to four passengers (not including the one [[Pilot/Legends|pilot]] for the crew), and fifty [[Metric ton/Legends|metric tons]] of cargo. Its interior was very rugged with limited living space.
+
+[[File:BeggarsSolace-Journal5.jpg|thumb|left|100px|''Starlight''-class schematics.]]
+
+==Sources==
+{{Mediacat|imagecat=Images of Starlight-class light freighters}}
+*<!-- 1995-02-XX -->{{JournalCite|5|Smugglers of the Outer Rim}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Carguero ligero clase Luz Estelar
+}}
+
+[[Category:Freighter classes]]
+[[Category:Rendili StarDrive products]]
+[[Category:Surron StarTech products]]
+
+{{RelatedCategories
+|[[Category:Starlight-class light freighters]]
+}}

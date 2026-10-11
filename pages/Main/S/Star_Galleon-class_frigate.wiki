@@ -1,0 +1,144 @@
+{{Top|title=''Star Galleon''-class frigate|canon=Star Galleon-class escort frigate}}
+{{StarshipClass
+|image=[[File:StarGalleonClassFrigate-SotGSE.png]]
+|name=''Star Galleon''-class frigate
+|designer=
+|manufacturer=[[Kuat Drive Yards]]<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=
+|model=''Star Galleon''-class frigate<ref name="Starships" />
+|type=[[Frigate]]<ref name="Starships" />
+|cost=17,503,500 [[Galactic Credit Standard|credits]]<ref name="SOTG01">''[[Starships of the Galaxy]]''</ref>
+|modifier=
+|sysmods=
+|length=300 [[Meter/Legends|meters]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="Starships" />
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="Starships" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 320 [[SBD]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|hull=Rated 228 [[RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*10 [[turbolaser]]s (5 on each side)
+*1 forward [[concussion missile]] [[Concussion missile launcher|launcher]]
+**16 heavy concussion missiles<ref name="Starships" />
+|complement=
+|bays=
+|escapepods=
+|crew=*130<ref name="XWA" />
+*20 [[gunner]]s
+|skeleton=50
+|passengers=300 troops<ref name="Starships" />
+|capacity=100,000 [[metric ton]]s<ref name="Starships" />
+|cargohandling=
+|consumables=6 [[Standard month|months]]<ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=[[Hyperdrive]]-equipped cargo bay
+|availability=
+|role=Cargo/escort frigate
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire]]<ref name="XWA" />
+*[[Viraxo Industries]]<ref name="XWA" />
+*[[Zann Consortium]]<ref name="MotPQ">''[[Mask of the Pirate Queen]]''</ref>
+}}
+The '''''Star Galleon''-class frigate''' was an armed cargo [[freighter]] and escort [[frigate]] used by the [[Imperial Navy]]. The ''Star Galleon''-class was manufactured by [[Kuat Drive Yards]].
+
+==Characteristics==
+[[File:Star_Galleon.jpg|thumb|left|180px|Star Galleons in a convoy]]
+The ''Star Galleon''-class frigate was another Imperial success for [[Kuat]]. Even if an attacker withstood a ''Star Galleon''-class ship's [[Concussion missile|concussion-missile]] launcher and ten [[turbolaser]]s, or broke through its shields, it was difficult to steal its cargo. The interior contained sophisticated anti-intruder defenses, and was defended by a complement of up to three hundred troopers.
+
+As a last resort, the cargo hold could be detached and sent into [[hyperspace]] as a separate vessel, similar to an [[escape pod]]. A built-in homing device allowed Imperial agents to track the cargo hold as it automatically jumped at random through hyperspace.<ref name="PP" />
+
+==History==
+[[File:Stargalleonejectscargopod.jpg|thumb|left|180px|A doomed Star galleon ejects its cargo pod]]
+
+Despite the promise of safety and security in the [[Galactic Empire]], Imperial freighters were being attacked or stolen at an alarming rate. In response to the loss of numerous cargo shipments from [[pirate]] and [[Alliance to Restore the Republic|Rebel]] attacks, the Empire developed a [[capital ship]] combining sophisticated weaponry and [[Deflector shield|shields]] with a 100,000-ton cargo capacity. Essentially, the ''Star Galleon''-class was a transport that could act as its own escort.
+
+Despite being an Imperial design, several Star Galleons saw usage with independent civilian shipping companies. One stolen vessel, named ''[[Robber Baron]]'', served as the flagship of the fearsome [[Poss'Nomin]] star pirate [[Reginald Barkbone]], who infamously flew his ship through the [[Fire Rings of Fornax]] to evade pursuit by the [[Loronar navy]].
+
+==Appearances==
+*{{JournalCite|2|The Way of the Yrashu}}
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}} {{ID|star galleon}}
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*{{WEGCite|story=Raid on Brentaal|book=The Far Orbit Project}}
+*{{WEGCite|story=Hunter/Hunted|book=The Far Orbit Project}}
+*{{WEGCite|story=The Grand Prize|book=The Far Orbit Project}}
+*[[Star Wars (2013) 7|''Star Wars'' (2013) 7]]
+*{{JournalCite|5|A Bitter Winter|reprint=1}}
+*''[[Mask of the Pirate Queen]]'' {{Mo}}
+*{{FFG|story=Perlemian Haul (adventure)|book=Star Wars: Age of Rebellion Core Rulebook|text=''Star Wars: Age of Rebellion'' Core Rulebook}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{WEGCite|story=The Right Place ...|book=The Politics of Contraband|reprint=1}} {{ID|Imperial Star Galleon}}
+*{{WEGCite|story=Den of Spies|book=Twin Stars of Kira (sourcebook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{1stm|in book}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}} {{1st|in book}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Star Galleon-class frigates}}
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{ID|Star Galleon}} {{1stm}}
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']] {{ID|Star Galleon}}
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]'' {{ID|Star Galleon}}
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']] {{ID|Star Galleon}}
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}} {{ID|star galleon}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2001-06-19 -->{{GamerCite|4|Ships of the Smuggler's Alliance}}
+*<!-- 2001-09-XX -->''[[Rebellion Era Sourcebook]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2006-08-28 -->{{Hyperspace|url=hyperspace/member/insideronline/89/indexp3.html|text=Underworld Appendix: Swoops, Spice, and Wretched Rogues|int=Underworld Appendix: Swoops, Spice, and Wretched Rogues}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]'' {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-09-27 -->[[Star Wars: Age of Rebellion Beta|''Star Wars: Age of Rebellion'' Beta]]
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Orbital Construction Yard|link=balance-of-the-force/orbital-construction-yard-balance-of-the-force-d01-41}} {{Po}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+}}
+
+==Notes and references==
+{{Reflist}}
+
+[[File:Star_Galleon-class_frigate.jpg|thumb|right|230px|Port-side schematic view of a ''Star Galleon''-class [[frigate]].]]
+
+{{Interlang
+|de=Sterngaleone
+|nl=Star Galleon-class Frigate
+|pl=Gwiezdny galeon
+|es=Fragata clase Galeón Estelar
+}}
+
+[[Category:Frigate classes]]
+[[Category:Kuat Drive Yards products]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:Star Galleon-class frigates]]
+}}

@@ -1,0 +1,60 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{StarshipClass
+|image=[[File:Scoutshipmerson.jpg]]
+|name=Standard scout ship
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Standard scout ship
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=2 engine units
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Laser cannon (1)
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Scout/Legends|Scout]] ship
+|firstuse=
+|retired=
+|affiliation=[[Merson pirates/Legends|Merson pirates]]
+}}
+'''Standard scout ships''' were small, lightly armed craft commonly used by explorers. They also made up the fleet of the [[Merson pirates/Legends|Merson slavers]]. Though not meant for heavy combat, they could easily outgun the transports Merson slavers preyed upon.
+
+==Appearances==
+*[[Star Wars (1977) 24|''Star Wars'' (1977) 24]] {{Reprint|Star Wars (1977) 24}} {{Flash}}
+
+[[Category:Scout starship classes]]

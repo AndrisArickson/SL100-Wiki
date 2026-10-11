@@ -1,0 +1,84 @@
+{{Top|leg}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:StarViper_Mk_II_XWM.png]]
+|name=StarViper Mk. II
+|designer=
+|manufacturer=[[MandalMotors/Legends|MandalMotors]]
+|line=
+|model=
+|type=
+|cost=160,000 [[Galactic Credit Standard/Legends|credits]]
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 2
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Light laser cannons]] (4)
+*[[Ion cannon/Legends|Light ion cannons]] (2)
+|complement=
+|bays=
+|escapepods=
+|crew=1
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=1 week
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Starfighter
+|firstuse=
+|retired=
+|affiliation=*[[Black Sun/Legends|Black Sun]]
+*[[Zann Consortium/Legends|Zann Consortium]]
+*[[Pirate/Legends|Pirates]]
+}}
+The '''StarViper Mk. II''', also known as the '''StarViper M-2''', was a modification of the earlier [[StarViper-class attack platform/Legends|''StarViper''-class attack platform]]. The design had less firepower than its predecessor, trading its [[Laser cannon/Legends|heavy laser cannons]] for lighter [[Laser/Legends|lasers]] and heavier [[Deflector shield/Legends|shielding]] while also removing the original model's [[Proton torpedo/Legends|proton torpedo]] launchers and replacing them with [[Ion cannon/Legends|ion cannons]]. However, the increased versatility offered by the ion cannons made the craft popular with [[Pirate/Legends|pirate]] groups and other criminal forces, including the [[Zann Consortium/Legends|Zann Consortium]].
+
+==History==
+[[File:StarViperMkII-SWX.png|thumb|left|250px|A StarViper Mk. II in landing configuration.]]
+During the [[Galactic Civil War/Legends|Galactic Civil War]] between the [[Galactic Empire/Legends|Galactic Empire]] and [[Alliance to Restore the Republic/Legends|Rebel Alliance]], multiple criminal organizations made use of the StarViper Mk. II fighter. [[Thweek]], a [[Kubaz/Legends|Kubaz]] spy in the employ of [[Teemo/Legends|Teemo]] the [[Hutt/Legends|Hutt]] owned a StarViper Mk. II.<ref name="Thweek">{{FFGXW|set=Guns for Hire Expansion Pack|cardname=Thweek}}</ref> The [[Bounty hunter/Legends|bounty hunter]], [[Dalan Oberos]], also owned one of the modified StarVipers.<ref name="Dalan Oberos">{{FFGXW|set=Guns for Hire Expansion Pack|cardname=Dalan Oberos}}</ref> [[Black Sun/Legends|Black Sun]] [[Assassin/Legends|assassins]] were known to fly StarViper Mk. IIs on their missions as well.<ref name="Assassin">{{FFGXW|set=Guns for Hire Expansion Pack|cardname=Black Sun Assassin}}</ref>
+
+==Appearances==
+*''[[Mask of the Pirate Queen]]'' {{1st}}
+
+==Sources==
+<!-- 2017-10-26 -->{{CardGameSet|set={{FFGXW|set=Guns for Hire Expansion Pack}}|cards=
+*<!-- 2017-10-26 -->{{FFGXW|set=Guns for Hire Expansion Pack|cardname=Black Sun Assassin}} {{Po}}
+*<!-- 2017-10-26 -->{{FFGXW|set=Guns for Hire Expansion Pack|cardname=Dalan Oberos}} {{Po}}
+*<!-- 2017-10-26 -->{{FFGXW|set=Guns for Hire Expansion Pack|cardname=StarViper Mk. II}}
+*<!-- 2017-10-26 -->{{FFGXW|set=Guns for Hire Expansion Pack|cardname=Thweek}} {{Po}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{FantasyFlightGames|url=en/products/x-wing/products/guns-hire-expansion-pack|text=Guns for Hire Expansion Pack}}
+
+[[Category:MandalMotors products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of Black Sun]]
+[[Category:Starship class variants and subclasses]]

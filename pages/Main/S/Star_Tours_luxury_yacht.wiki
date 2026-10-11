@@ -1,0 +1,85 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:TzarinaCrash.jpg]]
+|name=Star Tours luxury yacht
+|designer=
+|manufacturer=
+|line=
+|model=Star Tours luxury yacht<ref name="SWG:ac">{{SWGcite|exp=AED|type=herald|a commoner|Dathomir}}</ref>
+|type=[[Passenger liner/Legends|Spaceliner]]<ref name="SWG:ac" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="SWG:ac" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot droid/Legends|Pilot droid]] (1)<ref name="SWG:ac" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Passenger transport<ref name="SWG:ac" />
+|firstuse=[[0 ABY/Legends|0 ABY]]<ref name="SWG:ac" />
+|retired=
+|affiliation=[[Star Tours/Legends|Star Tours]]<ref name="SWG:ac" />
+}}
+{{Quote|I was one of many who were lucky enough to be some of the first passengers on Star Tours newest luxury yacht. Everything was fine until the droid captain changed course towards Yavin to show us something "neat".|[[Unidentified Tzarina survivor|A commoner]], to a spacer|<ref name="SWG:ac" />}}
+A class of new '''luxury yachts''' was launched by the [[Star Tours/Legends|Star Tours Spacelines]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. These yachts shared many traits with [[Corellian/Legends|Corellian]] designs such as the [[CR90 corvette/Legends|CR90 corvettes]].
+
+==Characteristics==
+{{Quote|Tell the Star Tours company that they need to fix their droids, they're crazy!|A commoner, to a spacer|<ref name="SWG:ac" />}}
+Similarly to the CR90 corvettes of the [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]], the Star Tours yacht had a [[Hammer (tool)/Legends|hammer]]-shaped cockpit, perpendicular to the ship's elongated body. A [[Rectenna/Legends|rectenna]] [[Sensor/Legends|sensor]] was mounted at the stern of the ship.<ref name="SWG:CS">{{SWGcite|exp=AED|type=poi|Crashed Ship|Dathomir}}</ref> Like other vessels flying for Star Tours, the luxury yachts were operated by [[Pilot droid/Legends|pilot droids]].<ref name="CDD">{{SW|url=news/convenient-daily-departures-the-history-of-star-tours|text=Convenient Daily Departures: The History of ''Star Tours''|int=Convenient Daily Departures: The History of Star Tours|nolive=1}}</ref> At least one individual ship of that class, the ''Tzarina'', bore red markings.<ref name="SWG:CS" />
+
+==History==
+{{Quote|The ship was hit by a strange T.I.E. Fighter that was tumbling out of control. Our hyperdrive initiated and drove us straight into this planet. You must let others know...|A commoner, to a spacer|<ref name="SWG:ac" />}}
+Once such yacht, christened ''[[Tzarina]]'', was involved in a major accident during its inaugural flight around the time of the [[Battle of Yavin/Legends|Battle of Yavin]]. The ''Tzarina'' collided with an [[Darth Vader's TIE Advanced/Legends|unidentified]] [[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighter]] in orbit around [[Yavin Prime/Legends|Yavin Prime]]. Because of the impact, the yacht's [[Hyperdrive/Legends|hyperdrive]] initiated, driving the ship to the planet [[Dathomir/Legends|Dathomir]] where it crash landed, causing the death of most its passengers.<ref name="SWG:ac" />
+
+==Behind the scenes==
+The wreckage of the ''Tzarina'' was a location in the [[2003]] [[Star Wars video games|video game]] ''[[Star Wars Galaxies]]'', a [[Wikipedia:Massively multiplayer online role-playing game|massively multiplayer online roleplaying game]] developed by [[Sony]] Online Entertainment and published by [[LucasArts]],<ref name="SWG:CS" /> prior to its closure on [[December 15]], [[2011]].<ref name="Shutdown">{{SonyCite|url=playerinfo|text=IMPORTANT INFORMATION ABOUT ''STAR WARS'' GALAXIES™}}</ref> The crashed ship was identified as the Star Tours luxury yacht ''Tzarina'' by a [[W:c:swg:Herald NPC|herald NPC]]<ref name="SWG:ac" /> added to the game with the "[[W:c:swg:Publish 1 Notes: 13 August 03|Publish 1]]" update, released on [[August 3]], 2003.<ref name="SonyCite-Publish 1: Nightsisters Cave">{{SonyCite|url=recent_updates.jsp?o=60888|text=Publish 1: Nightsisters Cave}}</ref>
+
+In ''Star Wars Galaxies'', the luxury yacht ''Tzarina'' used a generic model that was widely used for many unrelated vessels such as regular inter-system shuttles,<ref name="SWG">{{GalaxiesAED}}</ref> [[Cal Handro]]'s freighter,<ref name="SWG:MD">{{SWGcite|exp=JtL|type=other|Quest: "Man Down!"}}</ref> or a [[GeneTech Syndicate]] transport.<ref name="SWG:RO">{{SWGcite|exp=NGE|type=class|Legacy|Rescue Operation|Talus}}</ref>
+
+In one of the departure sequences of ''[[Star Tours: The Adventures Continue]]'', a Star Tours luxury yacht with the eleven-engine configuration of the CR70 and CR90 could be seen to the left and a smaller version of the [[AA-9 Coruscant freighter/Legends|AA-9 Coruscant freighter]] to the right.
+
+==Appearances==
+*''[[Star Tours: The Adventures Continue]]''
+*{{GalaxiesAED}} {{1st}}
+
+==Sources==
+*<!-- 2013-08-22 -->{{SW|url=news/convenient-daily-departures-the-history-of-star-tours|text=Convenient Daily Departures: The History of ''Star Tours''|int=Convenient Daily Departures: The History of Star Tours|nolive=1}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|Dathomir Crash Site}}
+
+[[Category:Yacht classes]]
