@@ -1,0 +1,111 @@
+{{Top|leg|title=''Belarus''-class medium cruiser}}
+{{StarshipClass
+|image=[[File:BelarusCruiser.jpg]]
+|name=''Belarus''-class medium cruiser
+|designer=[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|manufacturer=
+|line=
+|model=''Belarus''-class medium cruiser<ref name="CTD" />
+|type=Medium line [[Cruiser/Legends|cruiser]]<ref name="CTD" />
+|cost=Not available for sale<ref name="CTD" />
+|modifier=
+|sysmods=
+|length=400 [[Meter/Legends|meters]]<ref name="CTD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] cannons (15)
+:Fire arc: 5 fore, 5 port, 5 starboard
+:Crew: 2
+:[[Realspace/Legends|Space]] range: 75 [[Kilometer/Legends|km]]
+:[[Atmosphere/Legends|Atmospheric]] range: 150 km
+*Turbolaser batteries (10)
+:Fire arc: 5 port, 5 starboard
+:Crew: 4
+:Space range: 75 km
+:Atmospheric range: 150 km
+*[[Ion cannon/Legends|Ion cannons]] (5)
+:Fire arc: 1 fore, 2 port, 2 starboard
+:Crew: 3
+:Space range: 50 km
+:Atmospheric range: 100 km
+*[[Tractor beam/Legends|Tractor beam]] projectors (10)
+:Fire arc: 4 fore, 2 port, 2 starboard, 2 aft
+:Crew: 4
+:Space range: 30 km
+:Atmospheric range: 60 km
+|complement=
+|bays=
+|escapepods=
+|crew=1,753<ref name="CTD" />
+*125 [[Gunner/Legends|gunners]]<ref name="CTD" />
+|skeleton=718<ref name="CTD" />
+|passengers=410 {{C|troops}}<ref name="CTD" />
+|capacity=7,500 [[Metric ton/Legends|metric tons]]<ref name="CTD" />
+|cargohandling=
+|consumables=1 [[Standard year/Legends|year]]<ref name="CTD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Frigate/Legends|Frigate]]
+*[[Cruiser/Legends|Cruiser]] {{C|downscaled}}
+|firstuse=
+|retired=
+|affiliation=*[[New Republic/Legends|New Republic]]<ref name="CTD" />
+*[[Galactic Federation of Free Alliances]]
+}}
+The '''''Belarus''-class medium cruiser''' was one of the earliest [[Starship/Legends|starship]] designs approved by the [[New Republic/Legends|New Republic]], and was produced in limited numbers.
+
+==History==
+The ''Belarus''-class was originally designed by the [[Loronar Corporation/Legends|Loronar Corporation]] as an improvement over the corporation's successful [[Strike-class medium cruiser|''Strike''-class cruiser]] and was rushed into production by the [[New Republic/Legends|New Republic]]. The design was implemented by reducing the [[Turbolaser/Legends|turbolaser]] emplacements and settling on a single design for modular construction. It was moderately more efficient in terms of its crew complement but less adaptable in terms of modularity. Although the class was derived from the earlier Strike class cruiser, the Belarus lacked the earlier ships conformity. The Belarus Class were generally deployed in line formation, with less powerful ships covering the forward and rear of the fleet's deployment. A number of them guarded [[Dac/Legends|Mon Calamari]] at the end of the [[Yuuzhan Vong War]].<ref name="CTD" />
+
+{{Ship-stub}}
+
+==Known ships==
+*''[[Glorious]]''
+
+==Appearances==
+*''[[Before the Storm]]'' {{1st}}
+*''[[The New Jedi Order: The Unifying Force]]''
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{NewClassNav}}
+
+{{Interlang
+|de=Belarus-Klasse Sternenkreuzer
+|es=Crucero mediano clase Belarus
+}}
+
+[[Category:Cruiser classes]]
+[[Category:Loronar Corporation products]]
+[[Category:New Class starship classes]]
+
+{{RelatedCategories
+|[[Category:Belarus-class medium cruisers]]
+}}

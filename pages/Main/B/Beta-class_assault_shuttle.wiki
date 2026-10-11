@@ -1,0 +1,88 @@
+{{Top|leg|title=''Beta''-class assault shuttle}}
+{{Otheruses|Beta|more=Beta-class}}
+{{StarshipClass
+|image=[[File:Beta-class_assault_shuttle.jpg]]
+|name=''Beta''-class assault shuttle
+|designer=
+|manufacturer=[[Telgorn Corporation/Legends|Telgorn Corporation]]<ref name="TLCSB">''[[The Last Command Sourcebook]]''</ref>
+|line=
+|model=''Beta-''class assault shuttle<ref name="TLCSB" />
+|type=[[Assault shuttle/Legends|Assault shuttle]]<ref name="TLCSB" />
+|cost=
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="TLCSB" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|km/h]]<ref name="TLCSB" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 3.0<ref name="TLCSB" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="TLCSB" />
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="TLCSB" />
+|hull=Modular
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]], three jump limit<ref name="TLCSB" />
+|avionics=Telgorn twin-tandem flight computers
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (4)<ref name="TLCSB" />
+*[[Concussion missile/Legends|Concussion missile]] [[Concussion missile launcher/Legends|launcher]] (1)<ref name="TLCSB" />
+*[[Tractor beam/Legends|Tractor beam]] [[Tractor beam projector/Legends|projector]] (1)<ref name="TLCSB" />
+|complement=
+|bays=
+|escapepods=
+|crew=5<ref name="TLCSB" />
+|skeleton=3<ref name="TLCSB" />
+|passengers=Depending on cargo module:
+*40 [[Zero-G assault stormtrooper|spacetroopers]]<ref name="TLCSB" />
+*68 standard [[Troop/Legends|troops]]
+*None {{C|cargo or weapons}}
+|capacity=500 [[Kilogram/Legends|kg]]<ref name="TLCSB" />
+|cargohandling=
+|consumables=5 [[Standard day/Legends|days]]<ref name="TLCSB" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Transport/Legends|Transport]]<ref name="TLCSB" />
+*Boarding craft<ref name="TLCSB" />
+*[[Gunship/Legends|Gunship]]
+*Convoy escort
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="TLCSB" />
+}}
+The '''''Beta''-class assault shuttle''' was an [[Galactic Empire/Legends|Imperial]] [[Shuttle/Legends|shuttle]] and a direct predecessor to the [[Gamma-class assault shuttle/Legends|''Gamma''-class assault shuttle]].
+
+==Characteristics==
+It had a modular hull structure featuring a front five-person command pod and aft engine section. These were permanent, while the central section could be reconfigured according to mission requirements. A spacetrooper module could carry 40 [[Zero-G assault stormtrooper|spacetroopers]], sporting separate launching pods and power couplers for recharging the space suits. Standard troop transport configuration had place for 68 troopers with necessary equipment. There were also cargo modules available for making the ship suitable for transport duty, or additional weapon pods to reconfigure the ''Beta'' into a more powerful [[Gunship/Legends|gunship]]. Its basic armament in non-gunship configuration consisted of four [[laser]] cannons, one [[Concussion missile/Legends|concussion missile]] launcher and one [[Tractor beam/Legends|tractor beam]] projector. ''Beta''-class assault shuttles were both atmosphere and space capable, and had a limited hyperspace capability with Class 3 [[Hyperdrive/Legends|hyperdrive]] and a [[Navigation computer/Legends|navigation computer]] limited to three jumps.
+
+==History==
+The downside to the modular construction of the ship was that the stresses spread along its frame, originating in the modular coupling system, made it require a complete refitting after a two-year-long period of service. This led to the introduction of the ''Gamma''-class assault shuttle with permanent spacetrooper hold. Other roles of ''Beta''-class shuttles were taken up by other classes of space transports. Most of ''Beta''s were removed from service with the introduction of ''Gamma''s, but their career came to a revival with the campaign of [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] against the [[New Republic/Legends|New Republic]] five years after the [[Battle of Endor/Legends|Battle of Endor]]. They were used mostly as boarding craft and transport troopships.
+
+==Appearances==
+*{{JournalCite|12|Small Favors}}
+*[[Children of the Jedi (novel)|''Children of the Jedi'']] {{1st}}
+
+==Sources==
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]'' {{1stm}}
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Assault shuttle classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Telgorn Corporation products]]
+
+{{RelatedCategories
+|[[Category:Beta-class assault shuttles]]
+}}

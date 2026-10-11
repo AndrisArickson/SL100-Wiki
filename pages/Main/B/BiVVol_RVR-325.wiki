@@ -1,0 +1,49 @@
+{{Top|leg}}
+{{Device
+|image=[[File:Bith_vehicle_voice_lock.jpg]]
+|name=BiVVol RVR-325
+|manufacturer=[[Casillis Electronic Defenses]]<ref name="GFT">''[[Galladinium's Fantastic Technology]]''</ref>
+|model=
+|type=Vehicle theft deterrent<ref name="GFT" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=650 [[Galactic Credit Standard/Legends|credits]]<ref name="GFT" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=10 [[Meter/Legends|meters]] (owner option)<ref name="GFT" />
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''BiVVol RVR-325''', known colloquially as the '''Bith Vehicle Voice Lock''' was an anti-theft device. It was tied into a vehicle's main [[control computer]] and then cross-connected to the [[main drive]] [[Main drive control package|control package]]. The device was controlled by a hand-held [[voice recognition link]], and the user could program a series of syllables into the module. If a [[Thief/Legends|thief]] attempted to steal the vehicle, the BiVVoL would prevent the vehicle's ignition and flight control systems from being activated unless the proper sequence was inputted.<ref name="GFT" />
+
+Forging the code required the use of a top grade [[voice replicator]]. A failed attempt to bypass the system would lock-out the vehicle's control mechanisms. The owner of the vehicle could activate a secondary activation system that used [[datakey]]s, [[Datachip/Legends|datachips]], the activation of a certain sub-routine, switches being activated in a certain order, or a variety of scans including [[Retinal scan/Legends|retinal]], [[Dermatoglyphic identification|fingerprint]], and [[Genetic code scan|genetic code]].<ref name="GFT" />
+
+[[Blizz Pinnix]] used a vehicle voice lock to secure his prized, one-of-a-kind [[Speeder bike/Legends|speeder bike]], the [[Black Raptor]].<ref name="WHSV">''[[Wretched Hives of Scum & Villainy]]''</ref>
+
+==Sources==
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]'' {{1stm}}
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]'' {{ID|Bith vehicle voice lock}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Casillis Electronic Defenses products]]
+[[Category:Computer technology]]
+[[Category:Locking mechanisms]]

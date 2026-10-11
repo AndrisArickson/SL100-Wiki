@@ -1,0 +1,639 @@
+{{Top}}
+{{Otheruses|Bespin}}
+{{CelestialBody
+|image=[[File:Bespin_EotECR.png]]
+|name=Bespin
+|region=*[[Outer Rim Territories/Legends|Outer Rim Territories]];<ref name="wizards">{{Wizards|url=default.asp?x=starwars/article/sw20040930bespinmain|text=Bespin: Action Tidings|int=Bespin: Action Tidings}}</ref> [[Greater Javin/Legends|Greater Javin]]
+*[[Western Reaches/Legends|Western Reaches]]<ref name="Region">The [[:File:MiscellaneousRegions.jpg|Client States and Miscellaneous Regions map]] in ''[[The Essential Atlas]]'' places the entirety of grid square K-18 in the [[Western Reaches/Legends|Western Reaches]].</ref>
+|sector=[[Anoat sector/Legends|Anoat sector]];<ref name="EAWGG">[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]</ref> [[Ivax Nebula/Legends|Ivax Nebula]]; [[Ison Trade Corridor/Legends|Ison Corridor]]
+|system=[[Bespin system/Legends|Bespin system]]<ref name="GATORW">''[[Geonosis and the Outer Rim Worlds]]''</ref>
+|coordinates=K-18<ref name="EAOC">{{SW|url=news/star-wars-the-essential-atlas-online-companion|text=''Star Wars: The Essential Atlas'' Online Companion|int=Star Wars: The Essential Atlas Online Companion}}</ref>
+|xyz=
+|distance=49,100 [[Light-year/Legends|light-years]]<ref name="CL">[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]</ref>
+|suns=1: [[Bespin (star)|Bespin]]<ref name="GATORW" />
+|orbited=
+|position=3<ref name="wizards" />
+|moons=More than two, including [[H'gaard]] and [[Drudonna]]<ref name="TCWCG">''[[The Complete Star Wars Encyclopedia]]''</ref><ref name="ActionTidings">{{Wizards|url=default.asp?x=starwars/article/sw20040930bespin1|series=Bespin: Action Tidings|text=Part 1: Live From the Surface}} claims only two moons</ref>
+|routes=[[Ison Trade Corridor/Legends|Ison Corridor]]<ref name="TEA">''[[The Essential Atlas]]''</ref>
+|lengthday=12 [[Standard hour/Legends|standard hours]]<ref name="GATORW" />
+|lengthyear=5,110 [[Standard day/Legends|standard days]]<ref name="GATORW" />
+|class=[[Gas giant/Legends|Gas giant]]<ref name="GATORW" />
+|diameter=118,000 [[Kilometer/Legends|kilometers]]<ref name="GATORW" />
+|atmosphere=[[Atmosphere/Legends|Breathable]] {{C|in the [[Life Zone/Legends|Life Zone]]}}<ref name="GATORW" />
+|climate=[[Temperature/Legends|Temperate]] {{C|in the life zone}}<ref name="GATORW" />
+|gravity=*[[Gravity/Legends|Standard]] {{C|in the life zone}}<ref name="GATORW" />
+*1.5 x standard {{C|surface only}}<ref name="wizards" />
+|terrain=*[[Gas/Legends|Gas]] giant<ref name="wizards" />
+*[[Swamp/Legends|Swamp]] {{C|[[Ugnaught Surface|surface]] only}}<ref name="wizards" />
+*Clouds
+|water=None<ref name="CL" />
+|interest=*[[BesGas Three]]
+*[[Bespin construction platform]]s
+*[[Cloud City/Legends|Cloud City]]
+*[[Floating health spa]]s
+*[[Rethin Sea]]
+*[[Tibanna gas platform]]s
+*[[Ugnaught Surface/Legends|Ugnaught Surface]]
+|flora=*[[Airborne algae sack]]
+*[[Glower]]s<ref name="Galaxy Guide 2: Yavin and Bespin">''[[Galaxy Guide 2: Yavin and Bespin]]''</ref>
+*[[Pink (algae)|Pinks]]
+|fauna=
+*[[Beldon/Legends|Beldon]]<ref name="Wildlife">''[[The Wildlife of Star Wars: A Field Guide]]''</ref>
+*[[Floater (creature)|Floaters]]<ref name="Wildlife" />
+*[[Heliost]]<ref name="UA">''[[Ultimate Adversaries]]''</ref>
+*[[Rawwk/Legends|Rawwk]]<ref name="Wildlife" />
+*[[Thranta/Legends|Thranta]]<ref name="Wildlife" />
+*[[Tibanna mynock]]<ref name="QoAaD">{{DoD|The Queen of Air and Darkness}}</ref>
+*[[Tibannuck]]<ref name="daa" />
+*[[Velker/Legends|Velker]]<ref name="Wildlife" />
+|otherlife=
+|species=*[[Neo-Bespinian]]
+*[[Tibannuck]]<ref name="daa">{{GalaxyCite|7|Design An Alien}}</ref>
+|otherspecies=*[[Human/Legends|Human]]<ref name="GATORW" />
+*[[Lutrillian/Legends|Lutrillian]]<ref name="GATORW" />
+*[[Sullustan/Legends|Sullustan]]<ref name="GATORW" />
+*[[Ugnaught/Legends|Ugnaught]]<ref name="GATORW" />
+|socialgroup=
+|language=[[Galactic Basic Standard/Legends|Galactic Basic Standard]]<ref name="GATORW" />
+|government=Guild<ref name="GATORW" />
+|population=*6 million:<ref name="GATORW" />
+**68% Human<ref name="GATORW" />
+**8% Ugnaught<ref name="GATORW" />
+**6% Lutrillian<ref name="GATORW" />
+**18% other<ref name="GATORW" />
+|demonym=Bespinite<ref name="GATORW" />
+|cities=*[[Cloud City/Legends|Cloud City]] {{C|[[Capital/Legends|capital]]}}
+*[[Tibannopolis]]
+*[[Ugnorgrad/Legends|Ugnorgrad]]
+|imports=*[[Foodstuff/Legends|Foodstuffs]]<ref name="GATORW" />
+*Technology<ref name="GATORW" />
+|exports=*[[Cloud car/Legends|Cloud cars]]<ref name="GATORW" />
+*[[Tibanna/Legends|Tibanna]]<ref name="GATORW" />
+*Tourism<ref name="GATORW" />
+|affiliation=*[[Neo-Bespinian]]s
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="TCWgame">[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]</ref>
+*[[Brotherhood of Darkness/Legends|Brotherhood of Darkness]]
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="TCWgame" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="ESB">{{Film|V}}</ref>
+*[[New Republic/Legends|New Republic]]
+*[[Empire Reborn]]/[[Reborn]]<ref name="JKII:JO">''[[Star Wars: Jedi Knight II: Jedi Outcast]]''</ref>
+*[[Imperial Remnant/Legends|Imperial Remnant]]
+*[[Galactic Federation of Free Alliances]]
+*[[Five Worlds]]
+*[[Darth Krayt's Galactic Empire]]<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+}}
+'''Bespin''' was a [[Gas giant/Legends|gas giant]] in the [[Bespin system/Legends|Bespin system]] of the [[Anoat sector/Legends|Anoat sector]] on the [[Ison Trade Corridor/Legends|Ison Corridor]] in the [[Greater Javin/Legends|Greater Javin]] region of the [[Outer Rim Territories/Legends|Outer Rim Territories]]. It was also a major source of [[Tibanna/Legends|tibanna]] gas, which was refined for production and transport in numerous [[Mining/Legends|mining]] operations including [[Cloud City/Legends|Cloud City]] and [[Tibannopolis]]. It was home to several million individuals, including [[Human/Legends|Humans]], [[Ugnaught/Legends|Ugnaughts]], and [[Lutrillian/Legends|Lutrillians]].
+
+==Overview==
+[[File:Cloud_City.png|thumb|left|250px|[[BesGas Three]], to the left of [[Cloud City/Legends|Cloud City]].]]
+The [[Planet/Legends|planet]] Bespin was a gas giant that was about 118,000 kilometers in diameter. Like most gas giants, it had a solid core made of metal (in this case, [[Rethen/Legends|rethen]], 6,000 kilometers in diameter) followed by layers of metallic gases. Most of the layers of gas were poisonous, and the pressure and temperature were far above what a Human could tolerate. Despite this, from approximately 150 to 180 kilometers down from [[Realspace/Legends|space]] there was a 30 kilometer thick habitable layer known as the Bespin [[Life Zone/Legends|Life Zone]]. This layer had an [[Oxygen/Legends|oxygen]] [[Atmosphere/Legends|atmosphere]] with temperature and pressure suitable for Human life, shielded by the layers below and replenished by airborne [[Algae/Legends|algae]].<ref name="CL" /> It was in this layer that Cloud City was located. As with many gas giants, Bespin had a number of [[Moon/Legends|moons]]. Bespin had a twelve-hour day, and completed a revolution around its [[Star/Legends|star]] approximately once every fourteen [[Standard year/Legends|standard years]].<ref name="Star Wars: Build the Millennium Falcon 3">[[Star Wars: Build the Millennium Falcon 3|''Star Wars: Build the Millennium Falcon'' 3]] - Guide to the Galaxy: Bespin's Settlements</ref>
+
+Bespin's fauna included the winged [[Tibannuck]]s,<ref name="daa" /> [[Velker/Legends|velkers]],<ref name="EAWGG" /> [[Rawwk/Legends|rawwks]],<ref name="JS">''[[Jedi Search]]''</ref> the gas-filled [[Beldon/Legends|beldon]], and airborne algae sacks. Bespin was the type class of the ''Bespin''-class gas giant.<ref name="DS">[[Death Star (novel)|''Death Star'']]</ref>
+
+==History==
+===Old Republic era===
+The planet was first discovered by the explorers from the [[Hyperspace Navigator's Guild]] in years prior to the [[Mandalorian Wars]]. The carbonite-rich [[Empress Teta/Legends|Empress Teta]] established a small gas operation on the planet, but it was mostly destroyed during the [[Mandalorian Wars]] by a fleet of [[Mandalorian/Legends|Mandalorian]] warships, hoping to break up the [[Tibanna/Legends|tibanna]] gas supply chain for the [[Galactic Republic/Legends|Galactic Republic]].<ref name="KOTORCG">''[[Knights of the Old Republic Campaign Guide]]''</ref>
+
+Bespin was first colonized in [[1989 BBY]].<ref name="KOTORCG" /> The planet had its own [[Jedi enclave (Bespin)|Jedi enclave]]. During the [[New Sith Wars]], the [[Brotherhood of Darkness/Legends|Brotherhood of Darkness]] [[Battle of Bespin (New Sith Wars)|captured]] the planet.<ref name="DB:POD">''[[Darth Bane: Path of Destruction]]''</ref> [[Lord/Legends|Lord]] [[Ecclessis Figg/Legends|Ecclessis Figg]] commissioned Cloud City to be built by the [[Incom Corporation/Legends|Incom Corporation]] around [[400 BBY/Legends|400 BBY]].
+
+===Rise of the Empire era===
+During the [[Clone Wars/Legends|Clone Wars]], the planet initially attempted to stay neutral. A Republic warship delivered dozens of orphans to an orphanage there in [[22 BBY/Legends|22 BBY]], including a young [[Boba Fett]], who later [[Escape from Bespin|escaped]].<ref name="Crossfire">''[[Boba Fett: Crossfire]]''</ref> Though always a vital source of Tibanna gas, Bespin’s strategic value surged during the war.<ref name="The Clone Wars Campaign Guide" /> Despite Bespin's declaration of neutrality, the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] [[Battle of Bespin (Clone Wars)|launched an invasion]] of the planet, which was defended by at least one [[Jedi Master/Legends|Jedi Master]], [[Glynn-Beti]].<ref name="Tethan Battle Adventures">''[[The Clone Wars: Decide Your Destiny: Tethan Battle Adventure]]''</ref> The planet, including its Tibanna gas colonies, fell to the Separatists initially.<ref name="NEC">''[[The New Essential Chronology]]''</ref><ref name="Star Wars: The Clone Wars video game">[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]</ref> The planet eventually swung back into the [[Galactic Republic/Legends|Republic's]] hands after a series of orbital battles and [[Starfighter combat/Legends|dogfights]].<ref name="The Clone Wars Campaign Guide">''[[The Clone Wars Campaign Guide]]''</ref> Separatist [[General]] [[Lok Durd/Legends|Lok Durd]] intended to target Bespin with a bio-weapon, but it was [[Battle of Lanteeb|destroyed]] on [[Lanteeb/Legends|Lanteeb]] before he could deploy it.<ref name="Siege">''[[Clone Wars Gambit: Siege]]''</ref>
+
+After the Republic was [[Declaration of a New Order|reorganized]] into the [[Galactic Empire/Legends|Galactic Empire]], the planet was placed under Imperial control,<ref name="IGP">[[Intergalactic Passport (real-life artifact)|Intergalactic Passport]]</ref> although it was largely left alone beyond that.
+
+<div style="float:right">[[File:Bespin_skyscrapers.png|thumb|left|250px|Cloud City's skyline at sunset]]</div>
+This was the planet on which [[Galen Marek]] found [[Rahm Kota/Legends|Rahm Kota]] [[2 BBY/Legends|when]] he was searching for potential leaders of the Rebel Alliance. The former [[Jedi/Legends|Jedi]] had hidden himself on one of Bespin's many [[Bespin construction platform|construction platforms]] and Marek fought one of the [[Palpatine/Legends|Emperor's]] [[Emperor's Shadow Guard|Shadow Guard]] during the meeting.<ref name="TFU:C">[[Star Wars: The Force Unleashed (graphic novel)|''The Force Unleashed'' comic]]</ref> Marek also [[Rescue of Garm Bel Iblis|rescued]] [[Senator/Legends|Senator]] [[Garm Bel Iblis/Legends|Garm Bel Iblis]] while [[Cloud City/Legends|Cloud City]] was filled with criminals and thugs.<ref name="TFU">''[[Star Wars: The Force Unleashed]]''</ref>
+
+===Galactic Civil War===
+During the [[Galactic Civil War/Legends|Galactic Civil War]], [[Lando Calrissian/Legends|Lando Calrissian]] served as [[Baron Administrator/Legends|Baron Administrator]] of [[Cloud City/Legends|Cloud City]]. He helped provide well-paying jobs for the Ugnaughts, and was admired and liked by the citizens of Cloud City.
+
+When Han Solo, along with [[Leia Organa Solo/Legends|Leia Organa]], [[C-3PO/Legends|C-3PO]], and [[Chewbacca/Legends|Chewbacca]] came to [[Cloud City/Legends|Cloud City]] in [[3 ABY/Legends|3 ABY]] to escape from the [[Galactic Empire/Legends|Empire]], they walked into a trap set up by [[Anakin Skywalker/Legends|Darth Vader]], which Lando was forced into aiding. Han Solo was frozen into [[Carbonite/Legends|Carbonite]] and Leia Organa and Chewbacca were to remain in the city. As Boba Fett brought Han onto his ship, [[Slave I/Legends|''Slave I'']], Lando with Lobot's help, got the two out of Imperial custody along with a damaged Threepio and tried to rescue Han from Fett but failed.<ref name="ESB" />
+
+[[File:LukeApproachesBespin-MOTESB.png|thumb|left|200px|Luke Skywalker's X-wing approaches Bespin]]
+Meanwhile, Luke Skywalker [[Duel on Cloud City|dueled]] Vader, lost his right hand, and Vader revealed that he was Luke's father. Pinned between the choice of going with his long-lost father or dying by his blade, Luke plunged into an air vent. When he fell, he managed to grasp onto a weather vane beneath the city. In pain from his wound and his new knowledge, Luke pleaded for [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi's]] help, to no avail. He managed to telepathically communicate with Leia, and was rescued by the ''Millennium Falcon''. The ''Falcon'' in turn managed to escape from the [[Executor/Legends|''Executor'']] when [[R2-D2/Legends|R2-D2]] fixed the disabled [[Hyperdrive/Legends|hyperdrive]].<ref name="ESB" />
+
+However, a garrison of troops was left on the planet, and the garrison [[Occupation of Bespin|fought]] against the Rebel Alliance and Bespin security forces for control of Cloud City's [[Gravity Control Generator]]s. The garrison also destroyed the [[Bespin Government Center]] and built an [[Imperial Palace (Monument)|Imperial Palace]] in its place to cement their occupation.<ref name="SW:GB">''[[Star Wars: Galactic Battlegrounds]]''</ref> Calrissian's former assistant, [[Lobot/Legends|Lobot]], temporarily ousted the garrison from the planet by tricking them into thinking Cloud City's [[Repulsorlift/Legends|repulsorlift]] pods were compromised.<ref name="SW57">[[Star Wars (1977) 57|''Star Wars'' (1977) 57]]</ref>
+
+The [[Zann Consortium/Legends|Zann Consortium]] also raided Bespin during this time, with its leader [[Tyber Zann]], [[IG-88B|IG-88]], and [[Urai Fen]], participating in a mission to steal Tibanna gas. They were successful in doing so and also placed evidence that implicated [[Falleen]] Prince [[Xizor/Legends|Xizor]] and his rival [[Black Sun]] organization for the attack.<ref name="FOC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+
+Later, just before the [[Battle of Endor/Legends|Battle of Endor]] in [[4 ABY/Legends|4 ABY]], the [[Alliance to Restore the Republic/Legends|Alliance]] [[Raid on Bespin|raided]] the still Imperial-controlled colony with the help of [[Rogue Squadron/Legends|Rogue Squadron]]. The successful raid secured shipment of vital tibanna to the Rebel cause.<ref name="RSII">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref> The main [[Liberation of Bespin|battle]] to free Bespin was fought right after Endor. Calrissian, now a [[General/Legends|general]] in the Rebel Alliance, led the [[Alliance Special Forces/Legends|Rebel SpecForces]] against the Empire<ref name="TAB">''[[The Truce at Bakura]]''</ref> and successfully ousted the occupying troops.<ref name="DBC">{{DB|character|chyler|Chyler, Tian}}</ref> The Jedi [[X2]] was also involved in liberating the city with the help of Calrissian and Lobot.<ref name="BF:ES">''[[Star Wars Battlefront: Elite Squadron]]''</ref> Calrissian himself would eventually return to being Baron Administrator.<ref name="ZtHR">''[[Zorba the Hutt's Revenge]]''</ref>
+
+In [[5 ABY/Legends|5 ABY]], Lando lost the Cloud City to [[Zorba Desilijic Tiure]] in a game of [[Sabacc/Legends|sabacc]].<ref name="ZtHR" /> After Zorba was ousted, Lando turned governance of the city over to King [[Ozz (Ugnaught)/Legends|Ozz]] of the Ugnaughts. Lobot became administrator of the City (possibly under the authority of Ozz). Bespin was later taken over by the Empire in [[9 ABY/Legends|9 ABY]] and later, the [[Empire Reborn]].<ref name="JKII:JO" /> During the [[Thrawn campaign]], the [[Bespin garrison]] has been installed on the planet. It was used by [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] to supply the [[Bilbringi Shipyards]] in tibanna gas.<ref name="TLC">''[[The Last Command]]''</ref>
+
+In [[11 ABY/Legends|11 ABY]], Luke Skywalker discovered an elderly man named [[Streen]], who possessed latent Force abilities, living a hermit's life in the abandoned city of [[Tibannopolis]]. Streen's life among the clouds gave him unique abilities to manipulate wind, air, and communing with flying creatures. Streen accompanied Luke to the [[Jedi Praxeum]], where he became one of the earliest students.<ref name="JS" />
+
+In [[12 ABY/Legends|12 ABY]], [[Kyle Katarn]] [[Battle of Bespin (Empire Reborn)|traveled to Bespin]] after he had met with [[Lando Calrissian/Legends|Lando Calrissian]]. During this travel, he had wiped out Reelo Baruk's thugs in the [[Industrial Levels|undercity]], dueled and defeated a [[Reborn]], used [[Lando Calrissian's R5 unit|Lando's R5 unit]] to travel to the city's concourse level, drove all [[Empire Reborn|Reborn]] forces out of the city, and defeated [[Tavion Axmis|Tavion]], sparing her life after she revealed that [[Jan Ors]] is still alive.<ref name="Star Wars: Jedi Knight II: Jedi Outcast">''[[Star Wars: Jedi Knight II: Jedi Outcast]]''</ref>
+
+[[File:Z95bespindefensefighter.jpg|thumb|right|220px|A [[Z-95 Headhunter/Legends|Z-95]] Bespin Defense Fighter with a [[Bespin Motors/Legends|Bespin Motors]] [[Hyperdrive/Legends|hyperdrive]].]]
+
+===Yuuzhan Vong War===
+During the [[Yuuzhan Vong War]], the planet remained untargeted by the [[Yuuzhan Vong]], due to the fact that there was no planet surface to [[Terraforming/Legends|Vongform]]. Unlike many planets during the war, it remained untouched and isolated.<ref name="LECG" />
+
+===Dark Nest Crisis===
+In [[36 ABY]], the planet was plagued with [[tibanna tapper]]s using [[siphoning balloon]]s. [[Jaina Solo Fel|Jaina Solo]] and [[Zekk]] were assigned to investigate. It was eventually discovered the stolen tibanna was being used for the [[Killik/Legends|Killik]] [[nest ship]]s constructed in the [[Tusken's Eye]].<ref name="DNII">''[[Dark Nest II: The Unseen Queen]]''</ref>
+
+===Second Galactic Civil War===
+In [[40 ABY/Legends|40 ABY]], along with [[Adumar/Legends|Adumar]], [[Commenor/Legends|Commenor]], [[Fondor/Legends|Fondor]] and the [[Corporate Sector Authority/Legends|Corporate Sector Authority]], Bespin almost allied with [[Corellia/Legends|Corellia]] in an attempt to challenge the benefits of membership in the [[Galactic Federation of Free Alliances|Galactic Alliance]], during the Second Galactic Civil War.<ref name="E">''[[Legacy of the Force: Exile]]''</ref>
+
+===Darth Krayt's empire===
+During the time of [[Darth Krayt's Galactic Empire]], an [[Ithorian/Legends|Ithorian]] named [[Ormo Haddon]] was the Baron Administrator of Cloud City. Haddon abandoned the outskirts of the city and moved the businesses to the central area.<ref name="LECG" />
+
+==Economy==
+The main economy on Bespin was the mining of [[Tibanna/Legends|tibanna]] gas. Tibanna gas was a very important resource used by both the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] and the [[Galactic Empire/Legends|Galactic Empire]] for powering weapons. When supercharged, the gas could fire a bolt of energy, resulting in the blaster shot. Spinsealed tibanna gas, which occurred naturally on Bespin, had the ability to quadruple the power of blaster bolts passing through it. Most of the settlements on Bespin were mining colonies, such as [[Lando Calrissian/Legends|Lando Calrissian's]] facility in 3 ABY.
+
+While most of the commercial exploitation of Bespin was done by [[Figg & Associates]], there were also a few gas prospectors. These lone pilots would search the skies for "gas strikes" in their ramshackle vessels, where plumes of deep gas would spurt into the high atmosphere due to internal storms deep below them. Some gas prospectors would ride extremely close to storm systems in the hope of gaining many riches from a gas strike, only to vanish without trace in the massive and unpredictable storms.
+
+During the Galactic Civil War, the Empire stored supplies of [[Bacta/Legends|bacta]] on Bespin.
+
+==Flora and fauna==
+Many animals existed in the high atmosphere of Bespin, included the [[Beldon/Legends|beldon]], a huge floating creature that excreted the tibanna gas that made Bespin famous. [[Velker/Legends|Velkers]],<ref name="EAWGG" /> [[Rawwk/Legends|rawwks]],<ref name="JS" /> and [[tibannuck]]s<ref name="daa" /> also lived in the atmosphere, as well as many other exotic and brightly colored animals, many of which were never properly categorized, often called [[Floater (creature)|floaters]]. Some [[Thranta/Legends|thrantas]] were transported to Bespin, thus allowing them to survive the destruction of their homeworld, [[Alderaan/Legends|Alderaan]].
+
+Floating in the gas giant's skies were many different forms of [[Algae/Legends|algae]] and plankton. One kind of algae called "pinks" were so plentiful they gave the sky of Cloud City its distinctive color. Yet another form of algae called [[Glower|"glowers"]] gave the night side of Bespin a distinct purplish glow.<ref name="The Illustrated Star Wars Universe">''[[The Illustrated Star Wars Universe]]''</ref>
+
+==Behind the scenes==
+[[File:MCQ-cloudcity.jpg|thumb|left|250px|Concept art of Bespin by [[Ralph McQuarrie]]]]
+In the [[1974]] [[The Star Wars rough draft|rough draft]] of ''A New Hope'', the planet [[Alderaan (The Star Wars)|Alderaan]], which was set as a giant gas planet and the capital of the [[Galactic Empire (The Star Wars)|New Galactic Empire]] at that time, resembled Bespin in ''The Empire Strikes Back''. There was also a [[Imperial City of Alderaan|city]] that resembled [[Cloud City/Legends|Cloud City]] on that "original Alderaan". Bespin was mentioned in a stamp for the Intergalactic Passport that acted as a backstage pass for ''The Empire Strikes Back'', although most of the stamp was illegible due to apparent wear and tear.
+
+In the early story conferences for ''The Empire Strikes Back'', Ketbrae (also known as Kettlebrae) was a gas giant. It eventually became Bespin.
+
+[[Star Wars (1977) 56|''Star Wars'' (1977) 56]] indicates that Bespin is the home planet of the Ugnaughts, and shows the planet as having a habitable surface &mdash; a phenomenon that is impossible on a gas giant. This error is corrected in the [[Databank (original)|Databank]], which states that Ugnaughts inhabited secret floating platforms below Cloud City. The "surface", which Lando Calrissian plummeted to in the comic, was later established as [[Ugnaught Surface/Legends|Ugnaught Surface]] in ''[[Bespin: Action Tidings]]''.
+
+Bespin serves as a location for multiple Versus Mode matches in ''[[Star Wars: Rogue Squadron III: Rebel Strike]]''.
+
+In the [[2006]] [[Star Wars video games|video game]] ''[[Star Wars: Empire at War]]'', Bespin cannot be destroyed by the [[Death Star/Legends|Death Star]] during space combat, but can from the Galactic Map, unlike most planets.
+
+The [[1998]] PC game [[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']], mistakenly placed Bespin in the [[Churba sector/Legends|Churba sector]], though it is actually located in the [[Mid Rim/Legends|Mid Rim]]. In another error, the planet map displayed at the original [[Star Tours (real-world)|''Star Tours'']] attraction in [[Disneyland Paris]] and [[Tokyo Disneyland]] places the planet within the [[Bala Trix Nebula]].
+
+Bespin also appeared in two missions in the LEGO re-creation of the [[Original trilogy]] in the [[2006]] video game ''[[LEGO Star Wars II: The Original Trilogy]]''. The missions were also included in the game's [[2007]] [[LEGO Star Wars: The Complete Saga|compilation re-release]].
+
+==Appearances==
+{{ScrollBox|content=
+*''[[Star Wars: The Old Republic]]'' {{Mo}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Darth Bane: Path of Destruction]]'' {{Ab|Darth Bane: Path of Destruction (audiobook)}} {{Mo}}
+*''[[Cloak of Deception]]'' {{Mo}}
+*''[[Star Wars: Battlefront]]''
+*{{LivingForce|Trade Wars: Find the Lady}} {{Mo}}
+*''[[The Bounty Hunters: Aurra Sing]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]] {{Mo}}
+*''[[Boba Fett: Crossfire]]''
+*''[[Boba Fett: Maze of Deception]]'' {{Mo}}
+*''[[The Clone Wars: Decide Your Destiny: Tethan Battle Adventure]]''
+*''[[The Clone Wars: Wild Space]]'' {{Ab|The Clone Wars: Wild Space (audiobook)}} {{Mo}}
+*''[[Clone Wars Gambit: Siege]]'' {{Ab|Clone Wars Gambit: Siege (audiobook)}}
+*''[[MedStar II: Jedi Healer]]'' {{Mo}}
+*''[[Labyrinth of Evil]]'' {{Mo}}
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*''[[Coruscant Nights I: Jedi Twilight]]'' {{Mo}}
+*''[[The Last of the Jedi: Return of the Dark Side]]'' {{Mo}}
+*''[[The Last of the Jedi: Reckoning]]'' {{Mo}}
+*{{DoD|The Traitor's Gambit}} {{Mo}}
+*{{DoD|A Wretched Hive (adventure)}} {{Mo}}
+*{{DoD|The Queen of Air and Darkness}}
+*{{StoryCite|story=Therefore I Am: The Tale of IG-88|book=Tales of the Bounty Hunters}}
+*''[[The Hutt Gambit]]'' {{Mo}}
+*''[[Star Wars: The Force Unleashed]]''
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Star Wars: The Force Unleashed (graphic novel)|''Star Wars: The Force Unleashed'' graphic novel]]
+*[[Death Star (novel)|''Death Star'']] {{C|Mentioned as class of gas giant}}
+*''[[Rebel Dawn]]''
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}} {{Mo}}
+*''[[Star Tours: The Adventures Continue]]'' {{C|Weather report list only}}
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*''[[Shadow Games]]'' {{Mo}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Star Wars Missions 10: Showdown in Mos Eisley]]'' {{Mo}}
+*''[[Galaxy of Fear: The Nightmare Machine]]'' {{Mo}}
+*''[[Galaxy of Fear: Spore]]'' {{Mo}}
+*''[[The Isis Coordinates]]''
+*{{WEGCite|story=All Our Sins Remembered|book=Star Wars Gamemaster Kit|reprint=1}} {{Mo}}
+*{{Tales|3|Lady Luck (comic story)}}
+*{{StoryCite|story=A Bad Feeling: The Tale of EV-9D9|book=Tales from Jabba's Palace}}
+*{{Hyperspace|url=hyperspace/member/fiction/f20080522/index.html|text="Lando Calrissian: Idiot's Array"|int=Lando Calrissian: Idiot's Array|newhost=Suvudu}}
+*[[Crisis on Cloud City (adventure book)|''Crisis on Cloud City'']]
+*''[[Imperial Double-Cross]]''
+*''[[The Jewel of Yavin]]''
+*{{GalaxiesAED}} {{Mo}}
+*{{GalaxiesNGE}} {{C|Depicted in paintings}}
+*''[[The Game Chambers of Questal]]'' {{Reprint|The Game Chambers of Questal}}
+*{{JournalCite|14|Galaxywide NewsNets}}
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}}
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}} {{1st|in book}}
+*''[[The Empire Strikes Back: A Storybook]]''
+*''[[Super Star Wars: The Empire Strikes Back]]''
+*[[Star Wars (1977) 42|''Star Wars'' (1977) 42]] {{Reprint|Star Wars (1977) 42}} {{Mo}}
+*{{ESBRadio|New Allies, New Enemies}}
+*{{Tales|4|Moment of Doubt}} {{Mo}}
+*[[Star Wars (1977) 43|''Star Wars'' (1977) 43]] {{Reprint|Star Wars (1977) 43}}
+*{{ESBRadio|Dark Lord's Fury}}
+*{{ESBRadio|Gambler's Choice}}
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*{{ESBRadio|The Clash of Lightsabers}}
+*{{Tales|6|Thank the Maker}}
+*{{WEGCite|story=Up the Intelligence Ladder|book=Shadows of the Empire Sourcebook}}
+*{{WEGCite|story=Temporary Reassignment|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*{{Wizards|url=default.asp?x=starwars/article/sw20010913a|text=The Fall of Cloud City|int=The Fall of Cloud City}}
+*{{WEGCite|story=Jedi Heirlooms|book=Star Wars: The Roleplaying Game (first edition)}} {{Mo}}
+*[[Star Wars (1977) 45|''Star Wars'' (1977) 45]] {{Reprint|Star Wars (1977) 45}} {{Flash}}
+*{{WEGCite|story=Droids Can't Fly|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*[[Star Wars (1977) 55|''Star Wars'' (1977) 55]] {{Reprint|Star Wars (1977) 55}}
+*[[Star Wars (1977) 56|''Star Wars'' (1977) 56]] {{Reprint|Star Wars (1977) 56}}
+*[[Star Wars (1977) 57|''Star Wars'' (1977) 57]] {{Reprint|Star Wars (1977) 57}}
+*{{GalaxyCite|11|The Emperor's Trophy|reprint=1}} {{Mo}}
+*{{JournalCite|5|Wind Raiders of Taloraan}} {{Mo}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]] {{Mo}}
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]] {{Mo}}
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]] {{Mo}}
+*[[Star Wars: Shadows of the Empire (junior novelization)|''Star Wars: Shadows of the Empire'' junior novelization]] {{Mo}}
+*''[[Battle of the Bounty Hunters]]'' {{Mo}}
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]] {{Mo}}
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]] {{Mo}}
+*''[[The Bounty Hunters: Scoundrel's Wages]]'' {{Mo}}
+*[[Star Wars (1977) 77|''Star Wars'' (1977) 77]] {{Reprint|Star Wars (1977) 77}} {{Mo}}
+*[[Star Wars (1977) 79|''Star Wars'' (1977) 79]] {{Reprint|Star Wars (1977) 79}} {{Mo}}
+*''[[The Rise and Fall of Darth Vader]]''
+*{{RJRadio|Tatooine Haunts}} {{Mo}}
+*{{Film|VI}} {{C|Special Edition}}
+*[[Return of the Jedi 1|''Return of the Jedi'' 1]] {{Reprint|Return of the Jedi 1}} {{Mo}}
+*{{StoryCite|story=Sleight of Hand: The Tale of Mara Jade|book=Tales from Jabba's Palace}} {{Mo}}
+*{{StoryCite|story=A Barve Like That: The Tale of Boba Fett|book=Tales from Jabba's Palace}} {{Mo}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}} {{Mo}}
+*''[[The Truce at Bakura]]'' {{Mo}}
+*''[[A New Hope: The Life of Luke Skywalker]]'' {{Ab|A New Hope: The Life of Luke Skywalker (audiobook)}} {{Mo}}
+*[[Star Tours (real-world)|''Star Tours'']]
+*''[[The Glove of Darth Vader]]'' {{Mo}}
+*''[[The Lost City of the Jedi]]''
+*''[[Zorba the Hutt's Revenge]]''
+*''[[Mission from Mount Yoda]]''
+*''[[Queen of the Empire]]''
+*[[Prophets of the Dark Side (novel)|''Prophets of the Dark Side'']] {{Mo}}
+*''[[Luke Skywalker and the Shadows of Mindor]]'' {{Mo}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}} {{Mo}}
+*{{JournalCite|4|Starter's Tale}} {{Flash}}
+*''[[Tatooine Ghost]]'' {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{Mo}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}} {{Mo}}
+*''[[Jedi Search]]''
+*{{JournalCite|15|Firestorm (short story)}} {{Mo}}
+*{{Tales|8|The Secret Tales of Luke's Hand!}} {{Flash}}
+*[[Children of the Jedi (novel)|''Children of the Jedi'']] {{Mo}}
+*''[[Star Wars: Jedi Knight II: Jedi Outcast]]''
+*{{JournalCite|14|Murder in Slushtime|reprint=1}} {{C|"Callista Ming" capsule}}
+*''[[Before the Storm]]''
+*''[[Young Jedi Knights: The Lost Ones]]'' {{Mo}}
+*''[[Young Jedi Knights: Lightsabers]]'' {{Mo}}
+*''[[Young Jedi Knights: Return to Ord Mantell]]'' {{Mo}}
+*''[[Young Jedi Knights: Trouble on Cloud City]]''
+*{{GamerCite|9|Running the Belt}}
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]'' {{Mo}}
+*''[[The New Jedi Order: Star by Star]]'' {{Mo}}
+*''[[The New Jedi Order: Force Heretic I: Remnant]]'' {{Mo}}
+*''[[Dark Nest I: The Joiner King]]'' {{Mo}}
+*''[[Dark Nest II: The Unseen Queen]]''
+*''[[Dark Nest III: The Swarm War]]'' {{Mo}}
+*''[[Legacy of the Force: Exile]]'' {{Mo}}
+*''[[Legacy of the Force: Revelation]]'' {{Mo}}
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}} {{Mo}}
+*''[[Fate of the Jedi: Omen]]'' {{Ab|Fate of the Jedi: Omen (audiobook)}} {{Mo}}
+*''[[Fate of the Jedi: Backlash]]'' {{Ab|Fate of the Jedi: Backlash (audiobook)}} {{Mo}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-12-12 -->{{Tales|10|A Wookiee Scorned!}} {{Mo}}
+*<!-- 2002-03-20 -->{{Tales|11|Tall Tales (Star Wars Tales)}} {{Mo}}
+*<!-- 2002-08-28 -->[[Star Wars Infinities: The Empire Strikes Back 2|''Star Wars Infinities: The Empire Strikes Back'' 2]]
+*<!-- 2004-06-30 -->{{Tales|20|Problem Solvers}} {{Mo}}
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2006-XX-XX -->''[[Death Star Designer]]'' {{Mo}}
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Bespin}}
+*<!-- 1979-03-XX -->[[Star Wars Official Poster Monthly 18|''Star Wars Official Poster Monthly'' 18]] {{1stm}}
+*<!-- 1982-XX-XX -->[[The Empire Strikes Back Coloring Book (1982)|''The Empire Strikes Back Coloring Book'' (1982)]]
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1988-XX-XX -->''[[Lightsaber Dueling Pack]]''
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[Galaxy Guide 1: A New Hope]]''
+*<!-- 1989-04-XX -->''[[Galaxy Guide 2: Yavin and Bespin]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-01-XX -->''[[Galaxy Guide 5: Return of the Jedi]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]''
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-10-XX -->{{GalaxyCite|1|Boba Fett: Mystery Man in Not-So-Shining Armor}}
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1994-12-XX -->{{InsiderCite|24|Lucasfilm's Latest}}
+*<!-- 1994-12-XX -->{{InsiderCite|24|Still Designing A Galaxy Far, Far Away: A Profile of "Artiste Extraordinaire" Ralph McQuarrie|Still Designing A Galaxy Far, Far Away: A Profile of 'Artiste Extraordinaire' Ralph McQuarrie}}
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Communiqués|Communiqués: Empire Remembrances}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Swashbuckler in Disguise}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Game Room|Game Room: Playing Empire Games}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Star FX|Star FX: He Gave...Flair To The Empire}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Galactic Bazaar|Galactic Bazaar: The Empire Sells Out!}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Cyber Notes}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Use the Force|Use the Force: Trivia Strikes Back Contest: An All-Empire Brainteaser}}
+*<!-- 1995-07-XX -->{{InsiderCite|26|The Write Stuff (Star Wars Insider 26)}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->{{GalaxyCite|5|Another Spin Around the Galaxy}}
+*<!-- 1995-10-XX -->{{InsiderCite|27|Irvin Kershner: Renaissance Director}}
+*<!-- 1995-10-XX -->{{InsiderCite|27|The Art of John Alvin Promises the Magic that Lucasfilm Movies Deliver}} {{Po}}
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-11-XX -->''[[The Illustrated Star Wars Universe]]''
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->{{CCG|set=Jedi Pack|cardname=Hyperoute Navigation Chart}}
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{InsiderCite|29|Into the Shadows: A Profile of Author Steve Perry}}
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-07-XX -->{{InsiderCite|30|Head Hunter: An Interview with Jeremy Bulloch}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+<!-- 1996-09-XX -->{{CardGameSet|set={{Topps|set=1996 Topps Star Wars: Shadows of the Empire|parent=1}}|cards=
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Leia's Recurring Nightmare|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC002.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Luke Becomes One with the Force|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC054.jpg}}
+}}
+*<!-- 1996-10-XX -->{{GalaxyCite|9|Size Matters Not (article)}}
+*<!-- 1996-10-XX -->{{InsiderCite|31|Kenner Is Cooking with Star Wars!|Kenner Is Cooking with ''Star Wars''!}}
+*<!-- 1996-11-12 -->[[Return of the Jedi: The National Public Radio Dramatization|''Return of the Jedi'': The National Public Radio Dramatization]] {{Mo}}
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-01-XX -->{{GalaxyCite|10|What's New in the Trilogy}}
+*<!-- 1997-01-XX -->{{GalaxyCite|10|Cyber Notes|Cyber Notes: Catching the Special Edition on the Net}}
+*<!-- 1997-01-XX -->{{InsiderCite|32|Caravan of Courage: Star Wars on Television|''Caravan of Courage'': ''Star Wars'' on Television}}
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]''
+*<!-- 1997-05-XX -->{{JournalCite|13|Scouts' Dispatch}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-08-XX -->{{GalaxyCite|12|Princess Leia: A Heroine's Tale}}
+*<!-- 1997-08-XX -->{{GalaxyCite|12|Galactic Bazaar}}
+*<!-- 1997-09-08 -->''[[Star Wars: The Annotated Screenplays]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-10-XX -->{{GalaxyCite|13|Galactic Bazaar}}
+*<!-- 1997-11-11 -->''[[Star Wars: The Art of the Brothers Hildebrandt]]'' {{Po}}
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Atmospheric Assault}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bespin (Dark)}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bespin (Light)}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bespin: Cloud City (Dark)}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bespin: Cloud City (Light)}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Cloud City Sabacc (Dark)}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=TIE Sentry Ships}}
+}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Tasariq: The Crystal Planet}} {{ID|Besbin}}
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1997-12-XX -->[[Star Wars Kids (1997) 6|''Star Wars Kids'' (1997) 6]]
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-02-XX -->{{CollectorCite|1|Around the Galaxy}}
+*<!-- 1998-02-XX -->{{CollectorCite|1|Don't Leave Home Without It}}
+*<!-- 1998-02-XX -->{{CollectorCite|1|Collectors' Comlink}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->{{CCG|set=Jabba's Palace Limited|cardname=Pucumir Thryss}}
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-08-XX -->{{CollectorCite|3|Fantastic Fans|Fantastic Fans: The Empire Strikes Bock}}
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+*<!-- 1998-11-XX -->{{CollectorCite|4|Around the Galaxy}}
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 1999-02-XX -->{{CollectorCite|5|Around the Galaxy}}
+*<!-- 1999-06-30 -->{{CCG|set=Endor Limited|cardname=Corporal Drazin}}
+<!-- 1999-12-08 -->{{CardGameSet|set={{CCG|set=Enhanced Cloud City|parent=1}}|cards=
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Independent Operation}}
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Quiet Mining Colony}}
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Z-95 Bespin Defense Fighter}}
+}}
+*<!-- 1999-12-XX -->{{CollectorCite|8|Mexican Stand Off}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-04-03 -->[[The Essential Guide to Alien Species (real-world book)|''The Essential Guide to Alien Species'']]
+*<!-- 2001-08-07 -->[[Galactic Phrase Book & Travel Guide (real-life book)|''Galactic Phrase Book & Travel Guide'']]
+*<!-- 2001-09-XX -->''[[Rebellion Era Sourcebook]]''
+*<!-- 2001-11-XX -->''[[The Wildlife of Star Wars: A Field Guide]]''
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2001-12-04 -->{{InsiderCite|57|Who's Who in the New Jedi Order}}
+<!-- 2002-01-23 -->{{SourceContents|issue=[[The Official Star Wars Fact File 4|''The Official Star Wars Fact File'' 4]]|contents=
+*<!-- 2002-01-23 -->{{FactFile|4|ASS 1-2|IG-88 Assassin Droid}}
+*<!-- 2002-01-23 -->{{FactFile|4|MIL 1-2|''Millennium Falcon''}}
+}}
+*<!-- 2002-01-30 -->{{FactFile|5|BES 1-4|Bespin}}
+*<!-- 2002-02-13 -->{{FactFile|7|SAB 1-2|Sabacc}}
+*<!-- 2002-02-20 -->{{FactFile|8|LOB 1-4|Lobot}}
+*<!-- 2002-04-22 -->''[[Star Wars: Attack of the Clones: The Illustrated Companion]]''
+*<!-- 2003-09-XX -->{{SWAdventuresCite|12|:File:GalaxyMap-SWAM12.jpg|Galaxy Map Poster|noquotes=1}}
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*<!-- 2004-03-24 -->''[[Geonosis and the Outer Rim Worlds]]''
+*<!-- 2004-03-25 -->{{Wizards|url=default.asp?x=starwars/article/sw20040325web|text=Galactic Gazetteer: Hoth and the Greater Javin|int=Galactic Gazetteer: Hoth and the Greater Javin}}
+*<!-- 2004-03-25 -->{{Wizards|url=default.asp?x=starwars/article/sw20040325adv|text=Rough and Tundra|int=Rough and Tundra}}
+*<!-- 2004-06-10 -->''[[Ultimate Adversaries]]''
+*<!-- 2004-09-28 -->[[Star Wars Battlefront: Prima Official Game Guide|''Star Wars Battlefront'': Prima Official Game Guide]]
+*<!-- 2004-09-30 -->{{Wizards|url=default.asp?x=starwars/article/sw20040930bespinmain|text=Bespin: Action Tidings|int=Bespin: Action Tidings}}
+*<!-- 2005-01-06 -->{{Wizards|url=default.asp?x=starwars/article/sw20050106a|text=Fringe Benefits}}
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2006-10-31 -->''[[The New Essential Guide to Alien Species]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-08-19 -->''[[Knights of the Old Republic Campaign Guide]]''
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-11-06 -->[[Star Wars: The Official Starships & Vehicles Collection 4|''Star Wars: The Official Starships & Vehicles Collection'' 4]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-08-13 -->[[Star Wars: The Official Starships & Vehicles Collection 24|''Star Wars: The Official Starships & Vehicles Collection'' 24]]
+*<!-- 2009-08-18 -->''[[The Essential Atlas]]''
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+*<!-- 2010-07-XX -->[[Star Wars: ABC|''Star Wars'': ABC]]
+*<!-- 2010-09-28 -->[[The Jedi Path: A Manual for Students of the Force (real-life book)|''The Jedi Path: A Manual for Students of the Force'']]
+*<!-- 2010-10-12 -->''[[The Making of The Empire Strikes Back]]''
+<!-- 2010-12-14 -->{{CardGameSet|set={{SWGTCG|set=The Price of Victory|parent=1}}|cards=
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Boba Fett|swglink=Boba Fett (Avatar) 6 (card).JPG}} {{C|Avatar}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Boba Fett|swglink=Boba Fett 6 (card).JPG}} {{C|Unit}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Carbon-Freezing Chamber Diorama}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Clash of Lightsabers}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Cloud City Lamp}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Cloud City Pod Car}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Cloud City Police}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Cloud City Sconces|swglink=Cloud_city_sconces_card.png}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Cloud City Shelves}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Contentious Opportunity}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Fluid Riposte}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Force Battle}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Ionized Tibanna Gas Display}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Leave the City}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Luke Skywalker|swglink=Luke Skywalker 6 (card).JPG}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Quick Reflexes}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Rachi Sitra|swglink=Rachi Sitra 6 (card).JPG}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Sith Ambush}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=The Heights of Cloud City Diorama}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Twin-Pod Cloud Car}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Twin-Pod Cloud Car Painting}} {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Wing Guard Corporal}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=Wing Guard Sergeant}} {{Po}}
+}}
+*<!-- 2011-01-27 -->{{StarshipsVehiclesCite|62|Star Wars Planet Index}}
+*<!-- 2011-02-10 -->{{StarshipsVehiclesCite|63|Welcome On Board}}
+*<!-- 2011-09-13 -->{{DB|location|bespin|Bespin}}
+*<!-- 2011-09-13 -->{{DB|character|chyler|Chyler, Tian}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-04-30 -->''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]''
+*<!-- 2012-09-14 -->{{FFGXW|set=Core Set|cardname="Night Beast"}} {{Po}}
+*<!-- 2012-09-14 -->{{FFGXW|set=TIE Fighter Expansion Pack|cardname="Howlrunner"}} {{Po}}
+*<!-- 2012-10-02 -->''[[The Essential Reader's Companion]]''
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Last Minute Rescue|link=core/last-minute-rescue-core-6-1}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Bespin Rescue|link=core/the-bespin-exchange-core-33-1}}
+}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=Millennium Falcon Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Chewbacca}} {{Po}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Millennium Falcon Expansion Pack|cardname=Han Solo}} {{Po}}
+}}
+*<!-- 2013-03-14 -->{{FFGTCG|set=The Desolation of Hoth|cardname=Fear|link=the-hoth-cycle/the-desolation-of-hoth/fear-the-desolation-of-hoth-40-4}} {{Po}}
+<!-- 2013-05-24 -->{{CardGameSet|set={{FFGTCG|set=A Dark Time|parent=1}}|cards=
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=Carbonite Chamber Activation|link=the-hoth-cycle/a-dark-time/carbonite-chamber-activation-a-dark-time-52-6}} {{Po}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=Cloud City Incinerator|link=the-hoth-cycle/a-dark-time/cloud-city-incinerator-a-dark-time-52-5}} {{Po}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=Ugnaught|link=the-hoth-cycle/a-dark-time/ugnaught-a-dark-time-52-2}} {{Po}}
+}}
+*<!-- 2013-06-27 -->{{FFGTCG|set=Assault on Echo Base|cardname=Twist of Fate|link=the-hoth-cycle/assault-on-echo-base/twist-of-fate-assault-on-echo-base-57-6}} {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+<!-- 2013-07-19 -->{{CardGameSet|set={{FFGTCG|set=Edge of Darkness|parent=1}}|cards=
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Carbonite Transport|link=edge-of-darkness/carbonite-transport-edge-of-darkness-84-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Cloud City Casino|link=edge-of-darkness/cloud-city-casino-edge-of-darkness-71-4}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Cloud City Guest Quarters|link=edge-of-darkness/cloud-city-guest-quarters-edge-of-darkness-72-4}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Cloud City Operative|link=edge-of-darkness/cloud-city-operative-edge-of-darkness-70-3}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Cloud City Wing Guard|link=edge-of-darkness/cloud-city-wing-guard-edge-of-darkness-73-3}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Lobot|link=edge-of-darkness/lobot-edge-of-darkness-73-2}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=''Millennium Falcon''|link=edge-of-darkness/millennium-falcon-edge-of-darkness-72-2}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Raise the Stakes|link=edge-of-darkness/raise-the-stakes-edge-of-darkness-70-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Security Control Center|link=edge-of-darkness/security-control-center-edge-of-darkness-73-5}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=The Defense of Cloud City|link=edge-of-darkness/the-defense-of-cloud-city-edge-of-darkness-73-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Traitorous Wing Guard|link=edge-of-darkness/traitorous-wing-guard-edge-of-darkness-84-3}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Trust Me|link=edge-of-darkness/trust-me-edge-of-darkness-71-1}} {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=Twist of Fate|link=edge-of-darkness/twist-of-fate-edge-of-darkness-82-6}} {{Po}}
+}}
+*<!-- 2013-09-19 -->{{SW|url=news/so-uncivilized-great-gunslingers-in-star-wars-part-1|series=So Uncivilized: Great Gunslingers in Star Wars|text=Part 1|nolive=1}}
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=Aggression|link=the-hoth-cycle/escape-from-hoth/aggression-escape-from-hoth-66-6}} {{Po}}
+*<!-- 2013-09-26 -->{{SW|url=news/viva-space-vegas-the-history-of-the-marvelous-wheel-part-1|series=Viva Space Vegas! The History of the Marvelous Wheel|text=Part 1|nolive=1}}
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Join Me|link=balance-of-the-force/join-me-balance-of-the-force-94-5}} {{Po}}
+*<!-- 2014-01-01 -->{{LEGOCite|type=micro|num=75030|name=Millennium Falcon}} {{Po}}
+*<!-- 2014-02-12 -->{{FactFile2014|6|22 BBY 75-80|Dark Side Influence}}
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]''
+*<!-- 2014-03-11 -->{{InsiderCite|148|Rogues Gallery|Rogues Gallery: The Cloud City Wing Guards}}
+*<!-- 2014-04-18 -->{{FFGTCG|set=Lure of the Dark Side|cardname=Seeds of Decay|link=echoes-of-the-force-cycle/lure-of-the-dark-side/seeds-of-decay-lure-of-the-dark-side-102-6}} {{Po}}
+*<!-- 2014-04-21 -->''[[Star Wars: What Makes a Monster?]]''
+<!-- 2014-04-22 -->{{CardGameSet|set={{ForceCollection|parent=1}}|cards=
+*<!-- 2014-04-22 -->{{ForceCollection|Lieutenant Sheckil}}
+*<!-- 2014-04-22 -->{{ForceCollection|Lando Calrissian}} {{Po}}
+}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]] {{Po}}
+*<!-- 2014-04-25 -->{{SWE|locations|bespin|Bespin}}
+*<!-- 2014-04-25 -->{{SWE|characters|landocalrissian|Lando Calrissian}}
+*<!-- 2014-05-29 -->{{FFGTCG|set=Knowledge and Defense|cardname=Relentless Pursuit|link=echoes-of-the-force-cycle/knowledge-and-defense/relentless-pursuit-knowledge-and-defense-111-6}} {{Po}}
+*<!-- 2014-06-26 -->{{FFGTCG|set=Join Us or Die|cardname=Seeds of Decay|link=echoes-of-the-force-cycle/join-us-or-die/seeds-of-decay-join-us-or-die-112-6}} {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2014-08-21 -->{{FFGTCG|set=Darkness and Light|cardname=Seeds of Decay|link=echoes-of-the-force-cycle/darkness-and-light/seeds-of-decay-r804}} {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=The Jedi's Resolve|link=between-the-shadows/the-jedi’s-resolve-r1150}} {{Po}}
+*<!-- 2015-01-06 -->{{BuildFalconCite|1|Starship Fact File}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+*<!-- 2015-03-10 -->{{InsiderCite|156|Launchpad|Launch Pad}}
+*<!-- 2015-03-10 -->{{InsiderCite|156|Blaster}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=Han Solo Ally Pack|cardname=Reposition|link=Reposition}} {{Po}}
+*<!-- 2015-03-20 -->{{SWIA|set=Rebel Saboteurs Ally Pack|cardname=Change of Plans|link=Change_of_Plans}} {{Po}}
+<!-- 2015-04-29 -->{{CardGameSet|set={{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Bespin Arrival}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Bringing Back Threepio}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Escape from Bespin}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Introducing Lando}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=One Year Earlier: Bossk}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=One Year Earlier: Lando Calrissian}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=The Duel Continues}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=The East Platform}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=The ''Millennium Falcon'' Departs}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=The Mission: Capture Skywalker: General Veers}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Through the Force}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Vader's Surprise}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=With the Garbage}}
+}}
+*<!-- 2015-09-22 -->{{InsiderCite|160|Jedi Toy Box|reprint=1}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2016-10-31 -->''[[Endless Vigil]]''
+}}
+
+===Non-canon sources===
+*<!-- 1996-07-XX -->{{ShadisCite|27|Corellian Smuggler}} {{Un}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+==External links==
+*{{SWBWiki|Bespin/Original|Bespin}}
+
+{{Interlang
+|bg=Беспин
+|cs=Bespin/Legendy
+|de=Bespin#legends
+|es=Bespin/Leyendas
+|fi=Bespin/Legends
+|fr=Bespin/Légendes
+|hr=Bespin
+|hu=Bespin
+|it=Bespin
+|no=Bespin
+|pl=Bespin/Legendy
+|pt=Legends:Bespin
+}}
+
+[[Category:Bespin system locations]]
+[[Category:Confederacy of Independent Systems planets]]
+[[Category:Confederation planets]]
+[[Category:Darth Krayt's Galactic Empire planets]]
+[[Category:Empire Reborn planets]]
+[[Category:Galactic Alliance planets]]
+[[Category:Galactic Empire planets]]
+[[Category:Galactic Republic planets]]
+[[Category:Gas giants]]
+[[Category:High-gravity planets]]
+[[Category:Imperial Remnant planets]]
+[[Category:Mining planets]]
+[[Category:New Republic planets]]
+[[Category:Planets in the Outer Rim Territories]]
+[[Category:Planets in the Western Reaches]]
+[[Category:Trade worlds]]
+
+{{RelatedCategories
+|[[Category:Battles of Bespin]]
+|[[Category:Bespin locations]]
+|[[Category:Bespinites]]
+|[[Category:Creatures of Bespin]]
+|[[Category:Culture of Bespin]]
+|[[Category:Plants of Bespin]]
+}}

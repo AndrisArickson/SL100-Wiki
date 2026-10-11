@@ -1,0 +1,69 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=BigScoop Robo-Harvester
+|designer=
+|manufacturer=[[Cybot Galactica/Legends|Cybot Galactica]]<ref name="GATORW">''[[Geonosis and the Outer Rim Worlds]]''</ref>
+|line=
+|model=BigScoop Robo-Harvester<ref name="GATORW" />
+|type=Tracked<ref name="GATORW" />
+|cost=*New: 45,000 credits<ref name="GATORW" />
+*Used: 30,000 credits<ref name="GATORW" />
+|modifier=
+|sysmods=
+|length=25 meters<ref name="GATORW" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=60 km/h<ref name="GATORW" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=Harvester blades (4)<ref name="GATORW" />
+|complement=
+|bays=
+|escapepods=
+|crew=0<ref name="GATORW" />
+|skeleton=
+|passengers=0<ref name="GATORW" />
+|capacity=50 tons<ref name="GATORW" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''BigScoop Robo-Harvester''' was a harvester [[Droid/Legends|droid]] model manufactured by [[Cybot Galactica/Legends|Cybot Galactica]]. Standing 25 meters above ground, this [[Agrirobot/Legends|agrirobot]] came with all tools necessary to perform a variety of harvesting work, from fertilizing to collecting grain.
+
+{{Droid-stub}}
+
+==Appearances==
+*''[[The New Jedi Order: Dark Tide II: Ruin]]''
+
+==Sources==
+*<!-- 2004-03-24 -->''[[Geonosis and the Outer Rim Worlds]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=BigScoop Robo-Harvester
+|es=Robo-Cosechador_BigScoop
+}}
+
+[[Category:Agricultural droid models]]
+[[Category:Cybot Galactica products]]

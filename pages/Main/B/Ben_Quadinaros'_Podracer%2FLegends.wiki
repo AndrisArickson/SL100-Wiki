@@ -1,0 +1,70 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Ben Quadinaros' Podracer
+|designer=
+|manufacturer=[[Balta-Trabaat/Legends|Balta-Trabaat]]<ref name="CCG-BenPodracer">{{CCG|set=Tatooine Limited|cardname=Ben Quadinaros' Podracer}}</ref>
+|line=
+|model=[[BT310 Quadra/Legends|BT310 Quadra]]<ref name="CCG-BenPodracer" />
+|type=[[Podracer/Legends|Podracer]]<ref name="CCG-BenPodracer" />
+|cost=
+|modifier=
+|sysmods=
+|length=*2.72 [[Meter/Legends|meters]] (cockpit)<ref name="Podracer">{{DB|vehicle|benquadinarospodracer|Podracer, Ben Quadinaros'}}</ref>
+*4.5 meters (engines)<ref name="Podracer" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=940 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]]<ref name="Podracer" />
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Podracer (profession)/Legends|podracer pilot]]<ref name="CCG-BenPodracer" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Podracing/Legends|Podracing vehicle]]<ref name="CCG-BenPodracer" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Ben Quadinaros' Podracer''' was a [[Balta-Trabaat/Legends|Balta-Trabaat]] [[BT310 Quadra/Legends|BT310 Quadra]] [[Podracer/Legends|Podracer]] owned and operated by [[Ben Quadinaros/Legends|Ben Quadinaros]]. The vehicle incorporated four [[Engine/Legends|engines]] rather than the traditional two. This configuration gave Quadinaros' Podracer the potential to be the fastest, although it also suffered from inconsistent performance.<ref name="CCG-BenPodracer" />
+
+{{Veh-stub}}
+
+==Appearances==
+*{{Film|I}} {{1st}}
+
+==Sources==
+*<!-- 2001-05-11 -->{{CCG|set=Tatooine Limited|cardname=Ben Quadinaros' Podracer}}
+*<!-- 2011-09-13 -->{{DB|vehicle|benquadinarospodracer|Podracer, Ben Quadinaros'}}
+*<!-- 2011-09-13 -->{{DB|character|benquadinaros|Quadinaros, Ben}}
+*<!-- 2012-01-16 -->''[[Ultimate Sticker Collection: Star Wars: The Phantom Menace]]'' {{Po}}
+{{MoreSources}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Quadinaros, Ben's Podracer}}
+[[Category:Personal podracers]]
