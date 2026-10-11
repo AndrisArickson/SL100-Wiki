@@ -1,0 +1,73 @@
+{{Top|leg}}
+{{Youmayd|the walker|Gladiator|[[Gladiator (disambiguation)]]}}
+{{GroundVehicle
+|image=[[File:Gladiatorwalker.jpg]]
+|name=Gladiator walker
+|designer=
+|manufacturer=[[zZip Motor Concepts]]<ref name="GFT">''[[Galladinium's Fantastic Technology]]''</ref>
+|line=
+|model=Recreational light combat walker<ref name="GFT" />
+|type=[[Walker/Legends|Walker]]<ref name="AEG">''[[Arms & Equipment Guide]]''</ref>
+|cost=*40,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="GFT" />
+*24,000 credits (used)<ref name="AEG" />
+|modifier=
+|sysmods=
+|length=2 [[Meter/Legends|meters]]<ref name="AEG" />
+|width=
+|height=3 meters<ref name="AEG" />
+|mass=
+|max accel=
+|speed=55 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GFT" />&mdash;60 kmh<ref name="AEG" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=1 light [[Laser cannon/Legends|laser cannon]]<ref name="GFT" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="GFT" />
+|skeleton=
+|passengers=
+|capacity=40 kg<ref name="AEG" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Personal gladiatorial walker
+|firstuse=
+|retired=
+|affiliation=
+}}
+The [[zZip Motor Concepts]] '''Gladiator walker''' was a personal bipedal [[Walker/Legends|walker]] vehicle used in gladiatorial combat.
+
+==Characteristics==
+Designed from the [[All Terrain Scout Transport/Legends|All Terrain Scout Transport]] and [[All Terrain Personal Transport/Legends|All Terrain Personal Transport]] blueprints, each walker boasted shields and a light [[Blaster cannon/Legends|blaster cannon]]. The [[SecuriTech]] made a similar design. They were equipped with an emergency shut down system, which would cut power if an occupant was in danger of being injured.
+
+==Appearances==
+*{{JournalCite|8|Galaxywide NewsNets}}
+*{{JournalCite|12|Galaxywide NewsNets}}
+*{{JournalCite|13|Galaxywide NewsNets}}
+*{{JournalCite|14|Galaxywide NewsNets}}
+
+==Sources==
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 2002-10-17 -->{{Wizards|url=default.asp?x=starwars/article/sw20021017web|text=''Arms & Equipment Guide'' Extras!}} {{ID|Gladiatorial Walker}}
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Walker models]]
+[[Category:ZZip Motor Concepts products]]

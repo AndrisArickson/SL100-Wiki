@@ -1,0 +1,69 @@
+{{Top|leg|title=''Garman''-class Gas Miner}}
+{{StarshipClass
+|image=[[File:GarmansNotAGPS-FBS.jpg]]
+|name=''Garman''-class Gas Miner
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|line=
+|model=
+|type=[[Atmosphere/Legends|Atmospheric]] [[Mining/Legends|mining]] [[Starship/Legends|vessel]]<ref name="FBS" />
+|cost=*7,500,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="FBS" />
+*5,800,000 credits (used)<ref name="FBS" />
+|modifier=
+|sysmods=
+|length=300 [[Meter/Legends|meters]]<ref name="FBS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="FBS" />
+**[[Backup hyperdrive|Class 8 (backup)]]<ref name="FBS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FBS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="FBS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="FBS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*4 [[Quad laser cannon/Legends|quad laser cannons]]<ref name="FBS" />
+|complement=
+|bays=
+|escapepods=
+|crew=300 (4 [[Gunner/Legends|gunners]])<ref name="FBS" />
+|skeleton=150<ref name="FBS" />
+|passengers=20<ref name="FBS" />
+|capacity=70,000 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=2 [[Standard year/Legends|years]]<ref name="FBS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Garman''-class Gas Miner''' was an [[Gas|atmospheric]] [[mining]] craft used extensively by [[Lant Mining Corporation]].<ref name="FBS" />
+
+More transport vessel than actual mining ship, the Garman acted as a close-orbit storage and support station for its complement of twenty [[Gas Skimmer GS-III]]s. Releasing the skimmers in the upper orbit of [[gas giant]]s, the Garman stored the gasses collected by skimmers in its vast pressurized holds; once its holds were completely filled, the Garman would recall its skimmers and jump to one of the [[Lant Mining Corporation]]s refineries to deposit its cargo and begin the process all over again.<ref name="FBS" />
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Mining starship classes]]
+[[Category:Transport classes]]
