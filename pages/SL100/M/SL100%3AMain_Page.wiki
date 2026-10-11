@@ -1,12 +1,54 @@
-'''Star Legends - Galactic Wars''' is a roleplaying game set in the Star Wars ''Legends'' universe, using a d100 system adapted from ''Warhammer Fantasy Roleplay'' 4th edition.
+'''Star Legends - Galactic Wars''' is a roleplaying game set in the Star Wars ''Legends'' universe, played with a d100 system adapted from ''Warhammer Fantasy Roleplay'' 4th edition. Everything a player or GM needs is on the cards below; the Legends background articles (harvested from Wookieepedia, CC BY-SA 3.0) sit behind them and every game page links to its source.
+
+== Play the game ==
+<div class="sl-cards">
+{{SL100 Card|link=SL100:How to Play|title=How to Play|image=LandoSabacc-SOTETC.jpg|text=Tests, Success Levels, Advantage, Fate and Resolve, Conditions and Critical Wounds: the core d100 rules.}}
+{{SL100 Card|link=SL100:Combat|title=Combat|image=BlasterPistol-tMoM.png|text=Blasters, lightsabers, stun settings, armour and shields, hit locations, lightsaber and combat forms.}}
+{{SL100 Card|link=SL100:The Force|title=The Force|image=Yoda SWSB.png|text=Sense, Control and Alter disciplines, Force powers, sorcerous traditions and Force Influence.}}
+{{SL100 Card|link=SL100:Game Master|title=Game Master|image=Holocron-NEGWT.png|text=Running the game, downtime Endeavours, rewards and the campaign era.}}
+</div>
+
+== Build a character ==
+<div class="sl-cards">
+{{SL100 Card|link=SL100:Character creation|title=Character creation|image=JediTrio-OP.png|text=How the layers fit: characteristics, species, origin world, career and faction.}}
+{{SL100 Card|link=SL100:Characteristics|title=Characteristics|image=Humans-TESB30.jpg|text=The ten characteristics, how they are rolled and what each one does.}}
+{{SL100 Card|link=SL100:Species|title=Species|image=TaeBoon-TCWCE.png|text=Playable Legends species with their modifiers, talents and traits.}}
+{{SL100 Card|link=SL100:Origin|title=Origin|image=Coruscant-EotE.jpg|text=The world you grew up on: Hive, Feral, Industrial, Force Nexus and more.}}
+{{SL100 Card|link=SL100:Careers|title=Careers|image=Smuggler Baron SWRPGAD.png|text=Classes and careers with four levels each: skills, talents, trappings and status.}}
+{{SL100 Card|link=SL100:Skills|title=Skills|image=Datapad-SS.png|text=Every skill, its characteristic and its specialisations.}}
+{{SL100 Card|link=SL100:Talents|title=Talents|image=EotE GMK front character art.png|text=All 167 talents of the d100 rules, revised for the galaxy far, far away.}}
+</div>
+
+== The galaxy in d100 ==
+<div class="sl-cards">
+{{SL100 Card|link=SL100:Weapons|title=Weapons|image=Dl-44.jpg|text=Blasters, slugthrowers, vibroweapons and lightsabers with d100 statistics.}}
+{{SL100 Card|link=SL100:Armour|title=Armour|image=StormtrooperArmor-NEGWT.png|text=Armour points and lightsaber resistance by material; personal shields.}}
+{{SL100 Card|link=SL100:Equipment|title=Equipment|image=Lightsabers-NEGWT.png|text=Gear, cybernetics, materials, prices and availability.}}
+{{SL100 Card|link=SL100:Vehicles and Starships|title=Vehicles & Starships|image=X-wing Fathead.png|text=Speeders, walkers, starfighters and capital ships.}}
+{{SL100 Card|link=SL100:Bestiary|title=Bestiary|image=Rancor-SWE.png|text=Creatures of the Legends galaxy with full stat blocks.}}
+{{SL100 Card|link=SL100:Hyperspace|title=Hyperspace|image=Hyperspacetunnel.png|text=Travel, hyperlanes and astrogation in the campaign era.}}
+</div>
+
+== The Legends galaxy ==
+The setting: Wookieepedia's Legends articles, stored in this wiki. Every SL100 rules page links back to the article it is based on.
+<div class="sl-cards small">
+{{SL100 Card|link=Galaxy/Legends|title=The galaxy|image=Tatooine TPM.png|text=Regions, sectors and worlds; start at [[List of planets/Legends|the planet list]].}}
+{{SL100 Card|link=Species/Legends|title=Species|image=Wookiee NEGAS.jpg|text=Sentient species of the Legends galaxy.}}
+{{SL100 Card|link=Galactic Republic/Legends|title=Republic and Empire|image=Republic Emblem.svg.png|text=Governments and eras: [[Galactic Empire/Legends|Galactic Empire]].}}
+{{SL100 Card|link=Jedi Order/Legends|title=Jedi and Sith|image=Jedi symbol.svg.png|text=The Force traditions: [[Sith/Legends|the Sith]].}}
+{{SL100 Card|link=Starship/Legends|title=Starships|image=YT1300-CHRON.jpg|text=Starfighters, freighters and [[Capital ship/Legends|capital ships]].}}
+{{SL100 Card|link=Droid/Legends|title=Droids|image=R2unit-NEGTD.png|text=Droid degrees, series and manufacturers.}}
+{{SL100 Card|link=Black Sun/Legends|title=Underworld|image=Smuggler Baron SWRPGAD.png|text=Crime syndicates, smugglers and [[Mandalorian/Legends|Mandalorians]].}}
+</div>
+
+== Sources and reference (for GMs) ==
+<div class="sl-cards small">
+{{SL100 Card|link=SL100:Source books|title=Source books (d20)|image=Datacard.png|text=The d20 books, page by page and searchable (private, on your computer only).}}
+{{SL100 Card|link=SL100:Collation|title=Collation reports|image=Holocron-NEGWT.png|text=d20 items matched to Legends articles; Legends check; talent, skill and career comparisons.}}
+</div>
 
 == How this wiki is organised ==
-* Pages ending in <code>/Legends</code> are harvested from Wookieepedia (CC BY-SA 3.0) and carry the canon (Legends) facts.
-* Pages starting with <code>SL100:</code> are our own game material: rules, careers, talents, and the game statistics (cost, availability, damage, etc.) for items, vehicles and creatures.
-* Each game page links to the Legends page it is based on.
-
-== Start here ==
-* [[SL100:Example Weapon]] - template for a weapon entry
-* [[DL-44 heavy blaster pistol/Legends]] - the Legends article the example is based on (after harvesting)
+* Pages starting with <code>SL100:</code> are our own game material; pages ending in <code>/Legends</code> are the Wookieepedia (Legends) reference.
+* Red cards are pages still to be written; press ''Edit'' on any page to work on it. [[SL100:Example Weapon]] shows the layout for a statistics page.
 
 [[Category:SL100]]
