@@ -1,0 +1,111 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=Slave circuit
+|manufacturer=
+|model=
+|type=
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=*Remote control of a vehicle using a communication device (commonly)
+*Expansive automation (rarely)
+|heritage=
+|affiliation=
+}}
+A '''slave circuit''' was a mechanism that allowed for remote control of a vehicle's systems while using a communications device. In technical vernacular, a vehicle that had a slave circuit installed was '''slave-rigged'''. For a vehicle that wasn't slave-rigged, the owner, with a computer and a little programming skill, could set up a temporary slave circuit.
+
+==Uses==
+The most common use of slave circuitry involved an owner using a [[Beckon call/Legends|beckon call]] or other handheld communications device to activate their ship's systems well before entering the vessel. Doing so would allow the owner to make more efficient use of their time.
+
+When attempting a landing at a [[Spaceport/Legends|spaceport]], a ship's pilot could allow the control tower to assist them with landing by transmitting the vessel's slave circuit code. Slave circuit codes could also be used by multiple space vessels to make synchronized [[Hyperspace/Legends|hyperspace]] jumps. Some businesses installed slave circuits on all of the craft that they own, attempting to make theft of company property harder to commit.
+
+The user of a beckon call could also use it to signal the craft to fly to their location. The slave circuit would receive the signal and then tell the ship's computer to proceed to the beckon call's location. The computer would then activate the ship's engines and bring the craft to the user. Some ships could also be programmed to fight their way to the user's location with a reasonable degree of skill.
+
+Especially advanced slave-rigs were used in the [[Katana fleet|''Katana'' fleet]] project. These full-rig slave circuits were used to highly automate 200 [[Dreadnaught-class heavy cruiser/Legends|''Dreadnaught''-class heavy cruisers]],<ref name="TNEC">''[[The New Essential Chronology]]''</ref> reducing the need for an organic complement by a factor of seven&mdash;the resulting crew requirements being 2,200 instead of upward of 16,000. Due to colossal corporate embarrassment and economic loss following the fleet's disappearance into [[Hyperspace/Legends|Hyperspace]], this type of heavy automation was largely abandoned for fear of similar incidents happening again.
+
+==Drawbacks==
+Despite the convenience that a slave circuit afforded, many owners were averse to installing them aboard their ships. Much cited were fears that criminals could steal a ship, just by stealing a beckon call or discovering its slave circuit code. More vehement detractors cited the infamous [[Katana fleet|''Katana'' fleet incident]] as an example of what could go wrong with slave-rigged ships.
+
+==Appearances==
+{{ScrollBox|content=
+*''[[Lando Calrissian and the Flamewind of Oseon]]''
+*{{JournalCite|15|The Great Herdship Heist}}
+*''[[Onslaught at Arda I]]'' {{Mo}}
+*[[X-Wing Rogue Squadron 2|''X-Wing Rogue Squadron'' 2]] {{Mo}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{1st|in book}} {{C|as [[Beckon call/Legends|beckon call]]}}
+*[[Heir to the Empire (abridged audiobook)|''Heir to the Empire'' abridged audiobook]]
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*[[Dark Force Rising (abridged audiobook)|''Dark Force Rising'' abridged audiobook]]
+*''[[Tyrant's Test]]''
+*[[Tyrant's Test (abridged audiobook)|''Tyrant's Test'' abridged audiobook]]
+*''[[The New Rebellion]]''
+*''[[Assault at Selonia]]''
+*[[Assault at Selonia (abridged audiobook)|''Assault at Selonia'' abridged audiobook]]
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*[[Vision of the Future (abridged audiobook)|''Vision of the Future'' abridged audiobook]]
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*[[The New Jedi Order: Force Heretic I: Remnant (abridged audiobook)|''The New Jedi Order: Force Heretic I: Remnant'' abridged audiobook]]
+*''[[The New Jedi Order: Force Heretic II: Refugee]]''
+*[[The New Jedi Order: Force Heretic II: Refugee (abridged audiobook)|''The New Jedi Order: Force Heretic II: Refugee'' abridged audiobook]]
+*''[[The New Jedi Order: The Unifying Force]]''
+*[[The New Jedi Order: The Unifying Force (abridged audiobook)|''The New Jedi Order: The Unifying Force'' abridged audiobook]]
+}}
+
+==Sources==
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']] {{ID|slave-rig}}
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-05-XX -->{{JournalCite|2|The Free-Trader's Guide to Sevarcos|reprint=1}}
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}} {{ID|slave-rig}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]'' {{ID|slave-rig}}
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-09-XX -->''[[Gundark's Fantastic Technology: Personal Gear]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-11-26 -->[[Star Wars: Bounty Hunter: Prima's Official Strategy Guide|''Star Wars: Bounty Hunter'': Prima's Official Strategy Guide]]
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Circuito esclavo
+|fi=Alistusvirtapiiri
+}}
+
+[[Category:Navigational technology]]
+
+{{RelatedCategories
+|[[Category:Slave circuits]]
+}}

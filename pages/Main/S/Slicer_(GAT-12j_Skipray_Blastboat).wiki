@@ -1,0 +1,75 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=
+|name=''Slicer''
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="FBS">''[[Flashpoint! Brak Sector]]''</ref>
+|line=
+|model=
+|type=[[GAT-12j]] Skipray Blastboat<ref name="FBS" />
+|cost=
+|modifier=
+|sysmods=
+|length=25 [[Meter/Legends|meters]]<ref name="FBS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,200 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FBS" />
+|maneuverability=
+|engine=
+|hyperdrive=[[Hyperdrive/Legends|Class 2]]<ref name="FBS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FBS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="FBS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]] (limited to 4 jumps)<ref name="FBS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*1 [[Concussion missile launcher/Legends|Concussion missile launcher]]<ref name="FBS" />
+*2 [[Laser cannon/Legends|laser cannons]]<ref name="FBS" />
+*3 medium [[Ion cannon/Legends|ion cannons]]<ref name="FBS" />
+*1 [[Proton torpedo launcher/Legends|proton torpedo launcher]]<ref name="FBS" />
+|complement=
+|bays=
+|escapepods=
+|crew=2; 2 [[Gunner/Legends|gunners]]<ref name="FBS" />
+|skeleton=1<ref name="FBS" />
+|passengers=10<ref name="FBS" />
+|capacity=20 [[Metric ton/Legends|metric tons]]<ref name="FBS" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|months]]<ref name="FBS" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Bazak's Gang]]<ref name="FBS" />
+|navy=
+|fleet=
+|owners=[[Lekk Bazak]]<ref name="FBS" />
+|captains=
+|registry=
+|aliases=
+}}
+The '''''Slicer''''' was a [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] [[GAT-12j]] Skipray Blastboat. It was one of two Blastboats used by [[Bazak's Gang]].<ref name="FBS" />
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]'' {{1stm}}
+*<!-- 2008-12-09 -->{{CSWECite|II||''NightRunner''}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:GAT-12j Skipray Blastboats]]
+[[Category:Pirate starships]]

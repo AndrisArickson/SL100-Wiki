@@ -1,0 +1,74 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:SkyBlind_reconnaissance_ship.jpg]]
+|name=SkyBlind
+|designer=
+|manufacturer=[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=
+|type=Reconnaissance [[Scout ship/Legends|scout vessel]]<ref name="GG8" />
+|cost=*650,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="TUR">''[[The Unknown Regions]]''</ref>
+*400,000 credits (used)<ref name="TUR" />
+|modifier=
+|sysmods=
+|length=21 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 3]]<ref name="GG8" />
+*[[Backup hyperdrive|Class 20]]<ref name="GG8" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="GG8" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="GG8" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="GG8" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Proton torpedo launcher/Legends|Proton torpedo launcher]]<ref name="GG8" />
+**Payload: 6 [[Proton torpedo/Legends|proton torpedoes]]<ref name="TUR" />
+|complement=[[Landing sphere]] (1)<ref name="GG8" />
+|bays=
+|escapepods=
+|crew=1<ref name="GG8" />
+|skeleton=
+|passengers=7<ref name="GG8" />
+|capacity=*50 [[Metric ton/Legends|metric tons]]<ref name="GG8" />
+*20 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="TUR" />
+|role=Reconnaissance<ref name="GG8" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''SkyBlind''' was a reconnaissance [[Starship/Legends|starship]] designed by [[Loronar Corporation/Legends|Loronar Corporation]] for [[Planet/Legends|planetary]] exploration. The main idea in mind for the design was to stay concealed while gathering information over a planet, to avoid hostile reactions from unknown lifeforms or primitive cultures. The SkyBlind used both [[Sensor jammer/Legends|sensor jammers]] and visually cloaking [[optical shield]]s to conceal itself. To a casual observer on the ground, a SkyBlind would appear as a discoloration in [[Atmosphere/Legends|atmosphere]] that would be easily confused with natural phenomena.<ref name="GG8" />
+
+The ship included a [[Repulsorlift/Legends|repulsorlift]] module for closer inspection and landing on small spots. This [[landing sphere]] could carry all the mission crew along with 5 metric tons of cargo, and like the main Skyblind body, it had cloaking capability. Not all SkyBlinds carried a landing sphere; if no landing sphere was docked aboard, the SkyBlind's cargo space doubled.<ref name="GG8" />
+
+==Sources==
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=CieloCiego
+}}
+
+[[Category:Loronar Corporation products]]
+[[Category:Scout starship classes]]
