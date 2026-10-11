@@ -1,0 +1,326 @@
+{{Top|canon=Dreadnought-class heavy cruiser|title=''Dreadnaught''-class heavy cruiser}}
+{{Otheruses|Dreadnought}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:ImperialDreadnaught-SWR.png]]
+|name=''Dreadnaught''-class heavy cruiser
+|designer=
+|manufacturer=[[Rendili StarDrive/Legends|Rendili StarDrive]]<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|line=
+|model=''Dreadnaught''-class<ref name="Starships" />
+|type=[[Heavy cruiser/Legends|Heavy cruiser]]<ref name="ImperialSourcebook2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|cost=*7,200,000 [[Galactic Credit Standard/Legends|credits]]<ref name="AOR CRB">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+*[[Black market/Legends|Black market]] value 35,555,000 credits {{C|used}}<ref name="Starships" />
+|modifier=
+|sysmods=
+|length=600 [[Meter/Legends|meters]]<ref name="ImperialSourcebook2" />
+|width=116.5 meters<ref name="EGVVDiagram">Calculated from planform illustration in ''[[The Essential Guide to Vehicles and Vessels]]'' based on universally consistent length figure</ref>
+|height=129.7/123.3 meters {{C|including/excluding lower sensor array}}<ref name="EGVVDiagram" />
+|mass=
+|max accel=
+|mglt=20-40 [[Megalight|MGLT]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|max speed=
+|maneuverability=
+|engine=6 [[Ion engine/Legends|ion engines]]<ref name="FF">[[The Official Star Wars Fact File 89|''The Official Star Wars Fact File'' 89]]</ref>
+|hyperdrive=*Class 4<ref name="AOR CRB" />
+*Class 2 {{C|updated}}<ref name="Databank">{{DB|starship|dreadnaught|Dreadnaught heavy cruiser}}</ref>
+*Class 18 {{C|[[Backup hyperdrive|backup]]}}<ref name="ImperialSourcebook2" />
+|hdrange=
+|hdsystem=6 [[Hyperdrive/Legends|hyperdrive engines]]<ref name="EGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|poweroutput=
+|power=Inefficient [[Power generator/Legends|power generators]]<ref name="Databank" />
+|shield gen=Rated 1920 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 1056 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=Medium-range<ref name="AOR CRB" /> primary and secondary [[Sensor/Legends|sensor]] transceiver<ref name="EGVV" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="AOR CRB" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Medium [[Turbolaser/Legends|turbolaser]] batteries (10)<ref name="AOR CRB" />
+**5 fore<ref name="AOR CRB" />
+**5 aft<ref name="AOR CRB" />
+*Light quad turbolaser cannons (20)<ref name="AOR CRB" />
+**10 port<ref name="AOR CRB" />
+**10 starboard<ref name="AOR CRB" />
+*Heavy [[Laser cannon/Legends|laser cannons]] (20)<ref name="AOR CRB" />
+**10 port<ref name="AOR CRB" />
+**10 starboard<ref name="AOR CRB" />
+Common modification:
+*[[Ion cannon/Legends|Ion cannon]]<ref name="DFR">''[[Dark Force Rising]]''</ref>
+*Warhead launcher (1)<ref name="TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+**[[Concussion missile/Legends|Concussion missiles]]<ref name="TF" />
+|complement=*[[Starfighter/Legends|Starfighters]] (12)<ref name="FF" /><ref name="ImperialSourcebook2" />
+**[[Twin Ion Engine starfighter|T.I.E. Starfighters]] {{C|Clone Wars "Standardized Drive"}}<ref name="AJ10">''{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}''</ref>
+**[[TIE series/Legends|TIE Series]] {{C|Common Imperial refit}}<ref name="FF" /><ref name="ImperialSourcebook2" />
+**[[I-7 Howlrunner]]s {{C|Routinely}}<ref name="EGVV" />
+*1+ [[Shuttle/Legends|shuttle]]
+*[[All Terrain Personal Transport/Legends|All Terrain Personal Transports]] {{C|Katana Fleet}}<ref name="TTTSB">''[[The Thrawn Trilogy Sourcebook]]''</ref>
+|bays=1+<ref name="DFR" />
+|escapepods=Several [[Escape pod/Legends|escape pods]]<ref name="Outbound Flight novel">[[Outbound Flight (novel)|''Outbound Flight'']] mentions the Dreadnaughts being "well equipped with escape pods"</ref>
+|crew=*Crew (16,113)<ref name="ImperialSourcebook2" />
+*[[Gunner/Legends|Gunners]] (97)<ref name="ImperialSourcebook2" />
+[[Katana fleet|''Katana'' fleet style]] variant:
+*Crew (2,204)<ref name="TTTSB" />
+|skeleton=9,000<ref name="ImperialSourcebook2" />
+|passengers=3,000 [[Trooper/Legends|troops]]<ref name="AOR CRB" />
+|capacity=9,000 [[Metric ton/Legends|metric tons]]<ref name="ImperialSourcebook2" />
+|cargohandling=
+|consumables=1<ref name="AOR CRB" /> - 2 [[Standard year/Legends|years]]<ref name="ImperialSourcebook2" /><ref name="SOTG01">''[[Starships of the Galaxy]]''</ref><ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale<ref name="Starships" />
+|role=*[[Battleship/Legends|Battleship]] {{C|scaled down}}<ref name="ROTS:ICS">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref>
+*Patrol<ref name="TTTSB" />
+*Convoy escort vessel<ref name="Databank" />
+|firstuse=Approximately [[119 BBY]]<ref name="TEGTW">''[[The Essential Guide to Warfare]]''</ref>
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="TTTSB" />
+**[[Judicial Forces/Legends|Judicial Forces]]<ref name="RP">''[[Rogue Planet]]''</ref>
+**[[Outland Regions Security Force/Legends|Republic Outland Regions Security Force]]<ref name="RP">''[[Rogue Planet]]''</ref>
+*[[Corporate Sector Authority/Legends|Corporate Sector Authority]]
+*[[Sons and Daughters of Freedom]]<ref name="Jedi Trial">''[[Jedi Trial]]''</ref>
+*[[Utapau/Legends|Utapau]]
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="R:DoR">''[[Star Wars: Republic: Dreadnaughts of Rendili]]''</ref>
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="XWA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="DF:SftE">''[[Dark Forces: Soldier for the Empire]]''</ref>
+*[[New Republic/Legends|New Republic]]<ref name="DF:RA">''[[Dark Forces: Rebel Agent]]''</ref>
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="FHI:R">''[[The New Jedi Order: Force Heretic I: Remnant]]''</ref>
+*[[Galactic Federation of Free Alliances]]
+*[[Hutt/Legends|Hutts]]<ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+*[[Chiss/Legends|Chiss]]<ref name="DN1">''[[Dark Nest I: The Joiner King]]''</ref>
+*[[Airam Clans]]<ref name="XWvTF:BoP">''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''</ref>
+}}
+{{Quote|These are built from Mandalorian design. Not the most modern, but ''very'' strong.|[[Supreme Chancellor/Legends|Supreme Chancellor]] [[Palpatine/Legends|Palpatine]]|<ref name="Republic 71">[[Republic 71|''Republic'' 71]]</ref>}}
+The '''''Dreadnaught''-class heavy cruiser''', or simply the '''Dreadnaught''', was a type of [[Capital ship/Legends|capital ship]] built for [[Planet/Legends|planetary]] occupation and space combat used by the [[Galactic Republic/Legends|Galactic Republic]], [[Galactic Empire/Legends|Galactic Empire]], [[New Republic/Legends|New Republic]], local governments, and various other organizations. In use for over a [[Standard century/Legends|century]], they were one of the most ubiquitous ship designs in all of [[The galaxy/Legends|the galaxy]].
+
+==Characteristics==
+{{Quote|Rendili StarDrive's latest gift to the military obsessed.|Captain Dubrak Qennto on the ''Dreadnaught''-class|<ref name="of">[[Outbound Flight (novel)|''Outbound Flight'']]</ref>}}
+===Dimensions===
+[[File:Dreadnaught_schem.jpg|thumb|left|220px|''Dreadnaught''-class heavy [[Cruiser/Legends|cruiser]] [[:Category:Technical drawing images|schematics]].]]
+
+The keel of the ''Dreadnaught''-class ran nearly 600 [[Meter/Legends|meters]] with the bow overlapping to produce a clamshell-like appearance. Each vessel had a cluster of weapons blisters spread across the hull. The ship was designated a heavy [[Cruiser/Legends|cruiser]] in standard classification<ref name="Imperial Sourcebook">''[[Imperial Sourcebook]]''</ref> and was considered a downscaled warship when compared to the ship-designs from the [[Core Worlds/Legends|Core]].<ref name="ROTS:ICS" />
+
+The forward ventral portion of the ''Dreadnaught''-class was used as a massive cargo hold, with a docking port located at the bow of the ship. Additional cargo holds were situated towards the center of the ship, in front of the areas housing the main reactor and secondary power generators. Docking ports were also located on either side of the ship.
+
+===Offensive and defensive systems===
+Weapon systems included twenty [[Quad laser cannon/Legends|quad laser cannons]] (six bow, seven port, seven starboard), ten [[Turbolaser/Legends|turbolaser]] cannons (five port, five starboard and mounted in [[Turbolaser blister|blisters]]), and ten [[Laser cannon/Legends|laser cannons]] (five bow, five stern). Some ships were later customized to feature a warhead launcher for anti-[[Starfighter/Legends|starfighter]] defense.
+
+Deflector shield projectors were also located inside some of the blisters flanking the hull, and the primary and secondary sensor transceivers were located towards the stern of the vessel, on the dorsal and ventral sides, similar to those on [[CR90 corvette/Legends|CR90 corvettes]].
+
+<div style="float:right">[[File:Dreadnaught-class_heavy_cruiser_AoRCR.png|thumb|200px|A Dreadnaught]]</div>
+While technologically advanced at the time of its construction, the ''Dreadnaught''-class lacked in sublight and [[Hyperspace/Legends|hyperspace]] speeds (a Class 4 rating), suffered computer failures, and could not compete with comparable designs in terms of firepower and [[Deflector shield/Legends|shielding]]. Between three and five ''Dreadnaught''-class cruisers could outgun one [[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]].<ref name="DFR" />
+
+===Crew complement===
+In addition to the technical drawbacks, ''Dreadnaught''-class ships also required over 16,000 crewmembers to run at optimal performance&mdash;perhaps the highest crew per kilometer ratio of any modern [[Starship/Legends|starship]]. This high crew requirement put strains on recruitment efforts and turned supplying a Dreadnaught into a logistical nightmare. In comparison, slave-rigged Dreadnaughts reduced the complement requirements down to 2,200 crewmembers.
+
+===Hangar complement===
+[[File:Peregrine-DFR3.jpg|thumb|left|The [[Lady Luck/Legends|''Lady Luck'']] leaving the hangar of the [[Peregrine (Dreadnaught-class)|''Peregine'']].]]
+The initial design was not focused towards [[Carrier/Legends|carrier]] duty, but as the ships were upgraded and refitted, the center cargo holds were converted to hangar space, and a common complement of 12 [[TIE series/Legends|TIE]] starfighters was added to the vessel. Non-Imperial ''Dreadnaught''-class ships tended to be complemented with other [[Snubfighter/Legends|snubfighters]], such as the [[Longshot (Dreadnaught-class)|''Longshot'']] which carried a squadron of at least six [[CloakShape fighter/Legends|CloakShape fighters]]. Meanwhile, the hangar bay of the ''[[New Hope]]'' accommodated several [[X-wing starfighter/Legends|X-wings]], [[Assault shuttle/Legends|assault shuttles]], [[lifeboat]]s, and at least one [[HWK-290 light freighter]]. The ''[[Leviathan (Dreadnaught-class)|Leviathan]]'', a [[Galactic Republic|Republican]] anti-pirate vessel, featured an extended hangar for up to 60 starfighters.
+
+===Main bridge===
+Unlike many contemporary warship designs, the ''Dreadnaught''-class did not have an easily visible bridge section, opting to shelter the command decks and crew stations inside the main armored superstructure. These areas were located on the dorsal side of the bow.
+
+==History==
+[[File:Rendili_Coruscant.jpg|thumb|left|250px|''Dreadnaught''-class cruisers being delivered on [[Coruscant/Legends|Coruscant]] after the [[Battle of Rendili]].]]
+The ''Dreadnaught''-class heavy cruiser was designed and developed by [[Rendili StarDrive/Legends|Rendili StarDrive]] for the Republic [[Judicial Forces/Legends|Judicial Forces]] and as [[Flagship/Legends|flagship]] for [[Planetary Security Forces]]<ref name="TEGTW" /> at least 80 years prior to the [[Clone Wars/Legends|Clone Wars]]<ref name="DF:SFTE">''[[Dark Forces: Soldier for the Empire]]''</ref> and was based on the larger [[Mandalorian/Legends|Mandalorian]] [[Kandosii-type dreadnaught|''Kandosii''-type dreadnaught]] from the time of the [[Mandalorian Wars]].<ref name="R:DoR" /><ref name="KOTORCG">''[[Knights of the Old Republic Campaign Guide]]''</ref>
+
+===Early service===
+After being commissioned, the Dreadnaughts saw use in ending major conflicts, but its shortcomings were quickly apparent. To counter the most glaring flaw of the Dreadnaught fleet, the [[Galactic Republic/Legends|Galactic Republic]] military developed a technology to reduce the crew requirements. By installing a full-rig [[slave circuit]]ry system, the crew requirements could be reduced from 16,000 per ship to a more manageable 2,200.<ref name="HTTE">''[[Heir to the Empire]]''</ref>
+
+[[File:Rendilihomefleet.jpg|thumb|right|220px|Dreadnaughts of the [[Rendili Home Defense Fleet]].]]
+Two hundred of the heavy cruisers were outfitted with this new technology and dubbed the [[Katana fleet|''Katana'' fleet]]. The project failed when the crew were driven insane by a [[hive virus]], slaved the fleet together, and made a random jump into hyperspace before the virus killed off every crew member.<ref name="HTTE" /> A similar system was also fitted to the Dreadnaughts of the [[Rendili Home Defense Fleet]].<ref name="R:DoR" />
+Another famous project that saw the use of Dreadnaughts, was the ill-fated [[Outbound Flight Project]], aimed at extragalactic exploration. The ship-design used six Dreadnaughts to fill out the hull.<ref name="HTTE" />
+
+In addition to galactic governments and organizations, local forces also used these ships, as they constituted a cheaper and more easily accessible alternative to the large warships exclusive to the rich and heavily industrialized sectors.<ref name="ROTS:ICS" /> Due to trade restrictions imposed by the [[Trade Federation/Legends|Trade Federation]], [[Outer Rim Territories/Legends|Outer Rim]] worlds had to rely on homemade fighters and downscaled warships for their own defense, sometimes gaining access to older design plans and leading to localized ''Dreadnaught''-class variations.<ref name="ROTS:ICS" /> For example, the [[Utapauan Security Force]] built and used several as anti-[[Pirate/Legends|piracy]] vessels,<ref name="SEWETP">{{Wizards|url=default.asp?x=starwars/article/sagaenhancementpauans|text=Saga Edition Web Enhancement: The Pau'ans}}</ref> with their largest Rendili cruiser being one-fifth the size of a [[Trade Federation/Legends|Trade Federation]] [[Lucrehulk-class battleship/Legends|battleship]].<ref name="ROTS:ICS" />
+
+During the Clone Wars, the Dreadnaughts saw heavy use in many battles, including the [[Battle of Duro (Clone Wars)|Battle of Duro]], the [[Battle of Rendili]], and the [[Battle of Coruscant/Legends|Battle of Coruscant]].
+Because the more advanced [[Acclamator-class transgalactic military assault ship/Legends|assault ships]] and [[Star Destroyer/Legends|Star Destroyers]] were reserved for clone crews and highly dedicated Republic officers, the planetary security forces and volunteer militaries of the Republic made heavy use of the ''Dreadnaught''-class.<ref name="Starships" />
+
+Some of the vessels would receive the newer [[Twin Ion Engine starfighter|T.I.E. Starfighters]] during the war, to provide a starfighter that could make use of available space on the vessel.<ref name="AJ10" />
+
+===Imperial refitting===
+[[File:Dreadnaught-JKTCG.jpg|thumb|left|220px|A Dreadnaught's port view.]]
+
+Dreadnaughts saw extensive use in the [[Imperial Navy/Legends|Imperial Navy]] due to their abundance. Battle [[Squadron/Legends|squadrons]] assigned to unimportant systems were often assigned a ''Dreadnaught''-class cruiser in place of a more modern cruiser. To increase its field potential, the Imperial Starfleet upgraded the ships' [[Hyperdrive/Legends|hyperdrive]] to Class 2 and converted cargo space into a hangar. With the hangar modification, a Dreadnaught could carry a squadron of [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]]. These upgraded cruisers now saw use as patrol ships, which maintained Imperial dominance over primitive worlds.
+
+===Later use===
+Fifty years after the [[Katana fleet|''Katana'' fleet]] was lost, [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]] recovered 178 of its ships. They proved critical in his assault against the New Republic, since he had an abundance of [[Cloning/Legends|cloned]] navy crewmen.<ref name="DFR" />
+
+[[File:Katana_fleet_DFRTPB.png|thumb|right|220px|Part of the ''Katana'' fleet.]]
+[[Garm Bel Iblis/Legends|Garm Bel Iblis]] maintained a personal fleet of six ''Katana'' fleet Dreadnaughts, which he used to capture 15 of the ''Katana'' ships, including the ''[[Katana]]'' herself; the final ship of the fleet was destroyed in the [[Battle for the Katana fleet|battle for the ''Katana'' fleet]].<ref name="DFR" /> Some of Bel Iblis's Dreadnaughts used [[Ion cannon/Legends|ion cannons]].
+
+The still fledgling fleet of the New Republic used donated, captured, or recovered ''Dreadnaught''-class cruisers until the [[New Republic Defense Fleet/Legends|New Republic Defense Fleet]] formally decommissioned them after the [[New Class Modernization Program|New Class]] project. During the [[Yuuzhan Vong War]], Dreadnaughts would continue to be used by the New Republic and its successor government, the [[Galactic Federation of Free Alliances]].
+
+Many ''Dreadnaught''-class cruisers were converted by the Alliance and later the New Republic into [[Assault Frigate Mark I|assault frigates]], which were much less manpower-intensive than standard Dreadnaughts and carried a heavier armament.<ref name="HTTE" />
+
+Some Dreadnaughts ended up as building material for the [[Hidden Temple (Sith–Imperial War)|Hidden Temple]] during the [[Sith–Imperial War]] in [[127 ABY]].<ref name="SWL25">[[Legacy (2006) 25|''Legacy'' (2006) 25]]</ref>
+
+===Legacy===
+Rendili's practice of letting local shipyards produce their own Dreadnaught-variants on a license lead to many different models being built and fielded.<ref name="TEGTW" /> For instance, the [[Utapaun]]s produced Rendili Dreadnaughts in several different sizes for their own defensive fleet.<ref name="ROTS:ICS" /> The [[Quarren/Legends|Quarren]] of the [[Mon Calamari Orbital Shipyards]] designed some of the most extreme models while working on the Rendili license.<ref name="TEGTW" /> These engineers later defected during the [[Clone Wars/Legends|Clone Wars]], bringing their ideas to the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]. As a result, their refined version of the Rendili Dreadnaught, the [[Providence-class carrier/destroyer/Legends|''Providence''-class carrier/destroyer]] and its upscaled variant, the Separatist Dreadnaught, served the Confederate cause throughout the war.<ref name="TEGTW" />
+
+==Behind the scenes==
+[[File:Dreadnaught_size.jpg|thumb|right|220px|A ''Dreadnaught''-class heavy cruiser shown to scale with an [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]] (1,600m).]]
+Due to the variety of sources used and the common use of modified ''Dreadnaught''-class vessels, the statistics listed in the infobox may not accurately represent a stock Galactic Republic Dreadnaught. The original ''[[Imperial Sourcebook]]'' listed a lighter armament than most later sources. Both sets of specifications are listed here.
+
+Different WEG materials provide a different account of the vessel's fighter complement. The Imperial Sourcebook makes note that the Imperial Navy modified the cargo bays to allow a fighter squadron, while Adventure Journal 10 has the existing republic naval vessels in the game (Carrack and Dreadnaught) receiving T.I.E. Starfighters as part of their republic complement. It's possible but unclarified it was a standard upgrade with the imperial fleet and a per-ship modification on the republic models due to the nature of the vessel's often modified state, and other republic Dreadnaughts being seen with fighters, as this would allow both to be correct.
+
+There was also some discrepancy regarding the armament of the Dreadnaught-class heavy cruiser. While most of the sources agreed with a general weaponry of 10 cannons, 20 quad cannon and 10 batteries, the nature of these weapons was inconsistent. This included 10 laser cannons, 20 quad laser cannon and 10 turbolaser batteries in the ''[[Imperial Sourcebook]]'', ''[[The Thrawn Trilogy Sourcebook]]'' and in ''[[The Complete Star Wars Encyclopedia]]''; or 10 turbolaser cannons, 20 quad turbolaser cannon and 10 turbolaser batteries in ''[[Star Wars Gamemaster Screen, Revised]]'', ''[[Starships of the Galaxy]]'' and in the [[Databank (original)|StarWars.com databank]]. The most recent source, the [[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]], created an intermediate version that is used in the infobox of this article.
+
+[[File:DreadnaughtSketch-PCG.jpg|thumb|left|250px|Dreadnaught-class heavy cruiser concept art for ''Star Wars: TIE Fighter'']]
+''Dreadnaught''-class starships are seen in many of [[Timothy Zahn]]'s novels. They were first shown in action in ''[[Dark Force Rising]]'', in the struggle for control of the ''[[Katana]]'' fleet. These vessels were mentioned earlier in ''[[Heir to the Empire]]'', providing the main hull of [[Nomad City]], and in the [[Battle of Sluis Van]] where the New Republic modified variant (an [[Assault Frigate Mark I|assault frigate]]) is snared by [[Chimaera/Legends|''Chimaera's'']] tractor beam. The Dreadnaughts would also form part of ''[[Outbound Flight]]''. Like many of the ships and vehicles in [[Star Wars: The Thrawn Trilogy|''The Thrawn Trilogy'']], the Dreadnaught originated in the ''Imperial Sourcebook''.
+
+The ''Dreadnaught''-class cruiser seen in [[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']] and ''[[Star Wars: X-Wing vs. TIE Fighter]]'' is noticeably different in physical appearance from other depictions of the vessel, including the model used in that game's sequel, ''[[Star Wars: X-Wing Alliance]]''.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Dreadnaught-class heavy cruisers}}
+*''[[Cloak of Deception]]''
+*''[[Rogue Planet]]'' {{Mo}}
+*[[Outbound Flight (novel)|''Outbound Flight'']] {{Ab|Outbound Flight (unabridged audiobook)}}
+*[[Republic 69|''Republic'' 69]]
+*[[Republic 70|''Republic'' 70]]
+*[[Republic 71|''Republic'' 71]]
+*''[[Jedi Trial]]''
+*''[[The Clone Wars: The Wind Raiders of Taloraan]]''
+*''[[Republic Commando: Hard Contact]]''
+*{{InsiderCite|74|CIS Shadowfeed Dispatch 15:2:29 Edition}}
+*[[Star Wars: Revenge of the Sith (novelization)|''Star Wars: Revenge of the Sith'' novelization]] {{Ab|Star Wars: Revenge of the Sith (unabridged audiobook)}}
+*[[Republic 78|''Republic'' 78]]
+*{{JournalCite|7|Mist Encounter|reprint=1}} {{Mo}}
+*''[[The Hutt Gambit]]''
+*''[[Lando Calrissian and the Flamewind of Oseon]]''
+*''[[Lando Calrissian and the Starcave of ThonBoka]]''
+*{{JournalCite|6|The Cure|reprint=1}}
+*{{JournalCite|7|Silent Fury}}
+*''[[Dark Forces: Soldier for the Empire]]''
+*[[Dark Forces: Soldier for the Empire (audio drama)|''Dark Forces: Soldier for the Empire'' audio drama]]
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*{{JournalCite|4|A Deal Gone Sour}}
+*{{JournalCite|12|Small Favors}}
+*[[Allegiance (novel)|''Allegiance'']] {{Ab|Allegiance (audiobook)}} {{Mo}}
+*[[River of Chaos 1|''River of Chaos'' 1]]
+*''[[Choices of One]]''
+*{{FFG|story=Perlemian Haul (adventure)|book=Star Wars: Age of Rebellion Core Rulebook|text=''Star Wars: Age of Rebellion'' Core Rulebook}} {{Po}}
+*[[Star Wars: TIE Fighter Collector's CD-ROM|''Star Wars: TIE Fighter'' Collector's CD-ROM]]
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Star Wars: Imperial Ace]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*{{WEGCite|story=The Ordeal of Boba Fett|book=Dark Empire Sourcebook|reprint=1}} {{Mo}}
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*''[[Dark Forces: Rebel Agent]]''
+*''[[Dark Forces: Jedi Knight]]''
+*{{InsiderCite|126|Buyer's Market (Insider 126)|reprint=1}} {{Mo}}
+*{{JournalCite|13|Conflict of Interest}} {{Mo}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{Mo}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}} {{1st|in book}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*{{JournalCite|7|Retreat from Coruscant|reprint=1}}
+*''[[Jedi Search]]''
+*''[[Champions of the Force]]''
+*[[Darksaber (novel)|''Darksaber'']] {{Mo}}
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*''[[Before the Storm]]'' {{Mo}}
+*''[[Shield of Lies]]'' {{Mo}}
+*''[[Tyrant's Test]]'' {{Mo}}
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*''[[Survivor's Quest]]'' {{Ab|Survivor's Quest (unabridged audiobook)}}
+*''[[The New Jedi Order: Edge of Victory II: Rebirth]]'' {{Mo}}
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Ylesia]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest I: The Joiner King]]'' {{ID|Dreadnaught}}
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+}}
+
+===Non-canon appearances===
+*<!-- 2001-01-XX -->"[[Light and Dark (adventure)|Light and Dark]]" {{Vision}} {{Un}}
+
+==Sources==
+{{ScrollBox|
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{ID|Dreadnought}}
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]'' {{1stp}} {{1stID|''Dreadnaught''-class Heavy Cruiser}}
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1993-01-XX -->''[[Galaxy Guide 7: Mos Eisley]]'' {{ID|Dreadnaught Cruiser}}
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]'' {{ID|Dreadnaught}}
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]'' {{ID|Dreadnaught heavy cruiser}}
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Recon & Report: The Journey to Coruscant|reprint=1}}
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-10-XX -->{{InsiderCite|31|Pick a Card, Any Card: Making Movie Magic at Decipher, Inc.}}
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1998-02-XX -->{{CollectorCite|1|Playing A Major Role}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-05-XX -->{{CCG|set=Official Tournament Sealed Deck|cardname=''Dreadnaught''-class Heavy Cruiser}}
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-04-04 -->[[The Essential Chronology (real-world book)|''The Essential Chronology'']]
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Grand Admiral Thrawn}}
+*<!-- 2001-07-24 -->{{GamerCite|5|A Campaign Guide to the Centrality}} {{Po}}
+*<!-- 2001-10-10 -->{{JKTCG|set=Masters of the Force|cardname=Dreadnaught|link=http://www.decipher.com/jediknights/cardlists/mastersoftheforce/large/85dreadnaught.html}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2003-09-10 -->{{FactFile|89|DRE 1-2|''Dreadnaught''}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Dreadnaught Heavy Cruiser|link=https://swtcg.com/Content/Images/Cards/ESB/Dreadnaught_Heavy_Cruiser.webp?v=2}}
+*<!-- 2004-09-01 -->{{FactFile|140|FEL 1-2|Baron Soontir Fel}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-09-26 -->{{Wizards|url=default.asp?x=starwars/article/sagaenhancementpauans|text=Saga Edition Web Enhancement: The Pau'ans}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]''
+*<!-- 2009-03-26 -->[[Star Wars: The Official Starships & Vehicles Collection 14|''Star Wars: The Official Starships & Vehicles Collection'' 14]]
+*<!-- 2011-09-13 -->{{DB|starship|dreadnaught|Dreadnaught heavy cruiser}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+}}
+
+==Notes and references==
+{{ScrollBox|{{Reflist}}}}
+
+{{Interlang
+|cs=Těžký křižník třídy Dreadnaught
+|de=Dreadnaught-Klasse Schwerer Kreuzer
+|es=Crucero pesado clase Acorazado
+|fi=Dreadnaught-luokan raskas risteilijä
+|fr=Croiseur lourd de classe Dreadnaught
+|nl=Dreadnaught-class Heavy Cruiser
+|pl=Ciężki krążownik typu Dreadnaught
+}}
+
+[[Category:Heavy cruiser classes]]
+[[Category:Rendili StarDrive products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Confederacy of Independent Systems]]
+[[Category:Starship classes of the Corporate Sector Authority]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:Dreadnaught-class heavy cruisers]]
+}}

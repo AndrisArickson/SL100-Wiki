@@ -1,0 +1,57 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=Driller machine
+|designer=
+|manufacturer=
+|line=
+|model=Driller machine
+|type=Wheeled
+|cost=Not available for sale
+|modifier=
+|sysmods=
+|length=12.6 meters
+|width=
+|height=
+|mass=
+|max accel=
+|speed=60 km/h
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=4
+|skeleton=
+|passengers=4
+|capacity=200 kg
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Trade Federation/Legends|Trade Federation]]
+}}
+'''Driller machines''' resembled huge [[Drill/Legends|drills]] attached to a wheeled mobility system. They were a development of the [[Trade Federation/Legends|Trade Federation]], who utilized them as excavation vehicles. Their purpose was to burrow their way through the ground to find hidden stores of [[Mineral/Legends|minerals]] beneath the surface of a [[Planet/Legends|planet]]. They were twenty-one [[Meter/Legends|meters]] in diameter and nearly thirteen meters in length. Due to the size of the drill itself, visibility was often heavily reduced, which required these machines to be crewed by a large number of [[Sensor/Legends|sensor]] operators as well as navigational specialists, who would guide the drivers onto the correct path.
+
+==Sources==
+*<!-- 2005-04-28 -->{{Wizards|url=default.asp?x=starwars/article/sw20050428planet4|series=Byss and the Deep Core|text=Part 4: Vulpter}}
+
+[[Category:Crawler and wheeled vehicle models]]
+[[Category:Drills]]
+[[Category:Mining tools]]
+[[Category:Vehicle classes of the Trade Federation]]
