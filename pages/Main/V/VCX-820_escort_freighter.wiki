@@ -1,0 +1,77 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:VCX820EscortFreighter-Gamer2.jpg]]
+|name=VCX-820 escort freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=[[VCX series/Legends|VCX series]]
+|model=VCX-820 escort freighter
+|type=[[Light freighter/Legends|Light freighter]]
+|cost=
+|modifier=
+|sysmods=
+|length=20.2 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|km/h]]
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0
+*Class 12 {{C|backup}}
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Military-grade [[Deflector shield/Legends|deflector shield]] [[Deflector shield generator/Legends|generators]]
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Double heavy [[Laser cannon/Legends|laser cannon]] turrets (3)
+*[[Autoblaster]]s (8)
+*[[Proton torpedo/Legends|Proton torpedo]] [[Proton torpedo launcher/Legends|launcher]] (1)
+**Standard load: 16 torpedoes
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)
+*Co-pilot (1)
+*[[Gunner/Legends|Gunners]] (6)
+|skeleton=
+|passengers=3
+|capacity=1 [[Metric ton/Legends|metric ton]]
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Transport/Legends|Transport]]
+*Escort
+*Patrol craft
+|firstuse=
+|retired=
+|affiliation=[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="legacy">{{GamerCite|2|A Legacy of Starships}}</ref>
+}}
+The '''VCX-820 escort freighter''' was a military grade [[Light freighter/Legends|light freighter]] used by the [[Imperial Remnant/Legends|Imperial Remnant]].
+
+==History==
+Designed several years before the [[Yuuzhan Vong War]], the VCX-820 was a heavy yet fast flying-guns platform, and sported eight mandible mounted [[autoblaster]]s that were capable of quickly overwhelming shields in a torrent of blaster fire. Because it was designed to military specifications, it could easily guard convoys of otherwise defenseless bulk freighters and commerce craft, yet despite this, was reasonably priced on the open market.<ref name="legacy" />
+
+Because of its affordability and versatility, at the outbreak of the [[Yuuzhan Vong]], many [[Smuggler/Legends|smugglers]] and private entities sought a ship that was fast and agile, yet heavily defended: the VCX-820 filled this role well, and as a result, many larger trade-firms invested in these vessels, making it quite common during the hard times of the [[New Republic/Legends|New Republic]].<ref name="legacy" />
+
+==Sources==
+*<!-- 2001-02-XX -->{{GamerCite|2|A Legacy of Starships}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Starship classes of the Imperial Remnant]]
+[[Category:VCX-series freighter classes]]

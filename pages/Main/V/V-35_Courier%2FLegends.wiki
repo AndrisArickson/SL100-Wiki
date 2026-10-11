@@ -1,0 +1,134 @@
+{{Top}}
+{{RepulsorliftVehicle
+|image=[[File:V35Courier-AoRDA.png]]
+|name=V-35 Courier
+|designer=
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="a&eg">''[[Arms & Equipment Guide]]''</ref>
+|line=
+|model=V-35 Courier
+|type=[[Speeder/Legends|Speeder]]<ref name="a&eg" />
+|cost=*5,500<ref name="Desperate Allies">''[[Desperate Allies]]''</ref> or 6,500<ref name="a&eg" /> to 8,000 credits (new)<ref name="TFUCG">''[[The Force Unleashed Campaign Guide]]''</ref>
+*1,500<ref name="a&eg" /> to 2,500 (used)<ref name="TFUCG" />
+|modifier=
+|sysmods=
+|length=3.8 meters<ref name="FF">[[The Official Star Wars Fact File 63|''The Official Star Wars Fact File'' 63]]</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|speed=105<ref name="FF" /> to 120 km/h<ref name="a&eg" />
+|max alt=0.5 meters<ref name="FF" />
+|maneuverability=
+|engine=*[[Mk.4 LoFlow cluster turbine]] (3)
+*[[Maglift repulsorlift engine]]<ref name="Far Horizons">''[[Far Horizons]]''</ref>
+|poweroutput=
+|power=[[SoroSuub Corporation/Legends|SoroSuub Corporation]] [[SS80 Dynamo power generator]]<ref name="Far Horizons" />
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=Pilot (1)<ref name="FF" />
+|skeleton=
+|passengers=2<ref name="FF" />
+|capacity=50<ref name="TFUCG" /> to 120 kg<ref name="a&eg" />
+|cargohandling=
+|consumables=1 day<ref name="TFUCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Transport
+|firstuse=
+|retired=
+|affiliation=*[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]]
+*Civilians
+}}
+The '''V-35 Courier''' was a reliable, inexpensive [[Landspeeder/Legends|landspeeder]] produced by the [[SoroSuub Corporation/Legends|SoroSuub Corporation]] several decades before the [[Battle of Yavin/Legends|Battle of Yavin]].
+
+==Characteristics==
+[[File:V35courier_egvv.jpg|thumb|left|180px|V-35 [[:Category:Technical drawing images|schematics]].]]
+
+The SoroSuub V-35 Courier landspeeder was designed as a family vehicle, capable of carrying three humanoids and featured a large cargo space behind the seats. The V-35 housed a large [[Maglift repulsorlift engine|Maglift]] [[Repulsorlift/Legends|repulsorlift]] drive, and three rectangular [[Mk.4 LoFlow cluster turbine|Mk.4 LoFlow cluster]] turbines were mounted atop the speeder.
+
+Additionally, a scanner scope was fitted to the roof of the speeder, just beyond the cockpit and tapering nose. Though practical for family use, the V-35 was no sports vehicle, thanks to a meager top speed of 100 kilometers per hour.
+
+==History==
+<div style="float:right">[[File:Lars_landspeeder.jpg|thumb|right|250px|The V-35 belonging to Owen Lars]]</div>
+Five years prior to the [[Invasion of Naboo/Legends|Invasion of Naboo]], [[Qui-Gon Jinn/Legends|Qui-Gon Jinn]] and [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] used a V-35 landspeeder during a mission on [[Ord Mantell/Legends|Ord Mantell]]. The [[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]] used modified V-35s as patrol speeders.
+
+Later, the Lars family purchased a V-35, which they used to travel to and from the nearby settlement of [[Anchorhead/Legends|Anchorhead]]. Despite the Courier's age, [[Owen Lars/Legends|Owen Lars]] and [[Luke Skywalker/Legends|Luke Skywalker]] kept the speeder in excellent condition through routine maintenance and occasional upgrades&mdash;though Luke still preferred his faster [[X-34 landspeeder/Legends|X-34 landspeeder]].
+
+==Appearances==
+*[[Qui-Gon and Obi-Wan: Last Stand on Ord Mantell 1|''Qui-Gon and Obi-Wan: Last Stand on Ord Mantell'' 1]]
+*[[Star Wars (1998) 7|''Star Wars'' (1998) 7]]
+*{{Film|II}}
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Adventures in Hyperspace: Shinbone Showdown]]''
+*[[Empire 8|''Empire'' 8]]
+*{{Film|IV}} {{1st}}
+*''[[A New Hope Read-Along]]''
+*''[[Heroes in Hiding]]''
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*''[[A New Hope: The Life of Luke Skywalker]]'' {{Ab|A New Hope: The Life of Luke Skywalker (audiobook)}}
+*''[[The New Rebellion]]'' {{Imo}}
+
+==Sources==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of V-35 Couriers}}
+*<!-- 1979-11-XX -->''[[The Art of Star Wars Episode IV: A New Hope]]'' {{ID|Family Landspeeder}}
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]''
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=SoroSuub V-35 Landspeeder}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Tatooine: Mos Eisley (Light)}}
+}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 2000-10-XX -->''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]'' {{Po}}
+*<!-- 2001-05-XX -->''[[Secrets of Tatooine]]''
+*<!-- 2002-10-06 -->{{TCG|set=A New Hope|cardname=SoroSuub V-35 Courier|link=https://swtcg.com/Content/Images/Cards/ANH/SoruSuub_V_35_Courier.webp?v=2}}
+*<!-- 2002-10-17 -->{{Wizards|url=default.asp?x=starwars/article/sw20021017web|text=''Arms & Equipment Guide'' Extras!}}
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2003-03-12 -->{{FactFile|63|SPE 9-12|V-35 Landspeeder}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]''
+*<!-- 2005-05-27 -->{{SonyCite|url=content.jsp?page=Multi-Passenger%20Vehicles|text=Multi-Passenger Vehicles}}
+*<!-- 2005-10-XX -->''[[Creating the Worlds of Star Wars: 365 Days]]'' {{Po}}
+*<!-- 2007-04-24 -->''[[The Making of Star Wars: The Definitive Story Behind the Original Film]]'' {{Po}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-11-21 -->{{SonyCite|url=en_US/players/content.vm?id=66857&resource=features|text=''Corellia Times'' Consumer Reports: Vehicles}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{C|as "V-35"}}
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=V-35 Landspeeder}}
+*<!-- 2009-10-16 -->{{SonyCite|url=players/news_archive.vm?id=68484&month=102009|text=Friday Feature &ndash; Getting Around In ''Star Wars'' Galaxies}}
+*<!-- 2011-09-13 -->{{DB|vehicle|v35landspeeder|V-35 landspeeder}}
+*<!-- 2013-10-15 -->''[[The Bounty Hunter Code: From the Files of Boba Fett]]''
+*<!-- 2014-05-28 -->{{FactFile2014|21|TAT 19-20|The Lars Homestead}} {{ID|family's landspeeder}}
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Sulon Sympathizer|link=rogue-squadron/draw-their-fire/sulon-sympathizer-r1255}} {{Po}}
+*<!-- 2015-06-18 -->''[[Desperate Allies]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|V-35 Landspeeder}}
+*{{SWGWiki|V-35 Landspeeder (Schematic)|V-35 Landspeeder Schematic}}
+
+{{Interlang
+|de=V-35 Landgleiter#legends
+|nl=V-35 Courier Landspeeder
+|pt=Legends:V-35 Courier
+}}
+
+[[Category:Landspeeder models]]
+[[Category:Naboo vehicle classes]]
+[[Category:SoroSuub Corporation products]]

@@ -1,0 +1,116 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:VT-49_Decimator.jpg]]
+|name=VT-49 Decimator
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="FC">''[[Fly Casual]]''</ref>
+|line=
+|model=VT-49 Decimator<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|type=[[Assault ship/Legends|Assault ship]]
+|cost=160,000 [[Galactic Credit Standard/Legends|credits]]<ref name="FC" />
+|modifier=
+|sysmods=
+|length=38 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=975 [[Kilometer per hour/Legends|km/h]]<ref name="RECG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 1 {{C|[[Backup hyperdrive|backup]] class 12}}<ref name="FC" /><ref name="RECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="FC" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Quad laser cannon/Legends|Quad laser cannon]] turrets (2)<ref name="FC" />
+*Twin [[Concussion missile launcher/Legends|concussion missile launchers]]<ref name="FC" />
+**40 [[Missile/Legends|missiles]] total<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Crew (2)<ref name="FC" /><ref name="RECG" />
+*[[Gunner/Legends|Gunners]] (2)<ref name="FC" /><ref name="RECG" />
+|skeleton=2<ref name="RECG" />
+|passengers=6<ref name="FC" /><ref name="RECG" />
+|capacity=80 [[Metric ton/Legends|tons]]<ref name="RECG" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="FC" /><ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=[[Troop/Legends|Troop]] [[Transport/Legends|transport]]
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="RECG" />
+*[[Rodian/Legends|Rodian]] [[Hunting/Legends|hunters]]<ref name="SWG:RotW">''[[Star Wars Galaxies: Rage of the Wookiees]]''</ref>
+*[[Ter-Doac Vaine]]'s forces<ref name="SWG:EG">{{SWGcite|exp=NGE|type=general|End Game|the Nova Orion Station}}</ref>
+}}
+The '''VT-49 Decimator''' was a heavily armed [[Galactic Empire/Legends|Imperial]] [[Transport/Legends|transport]] that had gone through many revisions and modifications, making it one of [[The galaxy/Legends|the galaxy's]] more feared Imperial [[Warship/Legends|warships]].
+
+==History==
+[[File:VT49DecimatorMultiAngleView-SWG.jpg|thumb|left|VT-49 multi-angle view]]
+Decimators were used as either long-range reconnaissance units or [[Picket ship/Legends|picket ships]] stationed along the perimeter of [[Galactic Empire/Legends|Imperial]] [[Navy/Legends|fleets]]. Vessels of this class were also used to break through enemy [[Blockade/Legends|blockades]] to deploy raiding parties.
+
+The command of a VT-49 was a point of pride and accomplishment for the middle ranks of the [[Imperial Navy/Legends|Imperial Navy]]. It was usually seen as a stepping stone on the path towards command of a [[Capital ship/Legends|capital ship]].
+
+In [[0 BBY/Legends|0 BBY]],<ref name="DST">{{Blog|holocron|7|Death Star timeline}}</ref> the [[Mercenary/Legends|mercenary]] [[Rianna Saren]] stole a VT-49 from the [[DS-1 Orbital Battle Station/Legends|Death Star]] to [[Mission to Danuta|go]] to [[Danuta]].<ref name="Lethal Alliance">''[[Star Wars: Lethal Alliance]]'' Nintendo DS version</ref>
+
+==Behind the scenes==
+The designers of the VT-49 Decimator have stated that the ship was created as an "evil" Imperial version of the [[Millennium Falcon/Legends|''Millennium Falcon'']].<ref>{{WebCite|url=http://pc.ign.com/articles/557/557592p1.html|text=Jump to Lightspeed - The Ships of the Empire: We unveil two brand new ships.|work=IGN|date=2004-10-15|archivedate=20090123141636|nolive=1}}</ref> The sounds of the VT-49 Decimator were created by Lead Audio Designer [[Todd Davies]] using the ''Millennium Falcon'' as a reference.<ref>[[Star Wars Galaxies Bonus DVD|''Star Wars Galaxies'' Bonus DVD]] - ''Behind the scenes: Music and sound effects''</ref>
+
+==Appearances==
+*''[[Star Wars: Lethal Alliance]]''
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{1st}}
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*{{GalaxiesNGE}}
+
+==Sources==
+{{Mediacat|imagecat=Images of VT-49 Decimators}}
+*<!-- 2004-10-22 -->{{SonyCite|url=expansions_ships_VT49Decimator.jsp|text=VT49 Decimator}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66879&resource=features|text=Ships: VT-49 Decimator}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Repair and Refurbish}} {{Po}}
+*<!-- 2014-09-09 -->{{InsiderCite|152|Blaster}}
+<!-- 2014-11-26 -->{{CardGameSet|set={{FFGXW|set=VT-49 Decimator Expansion Pack}}|cards=
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=Captain Oicunn}}
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=Commander Kenkirk}}
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=''Dauntless''}}
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=Patrol Leader}}
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=Rear Admiral Chiraneau}}
+}}
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=Conner Net|link=rogue-squadron/ready-for-takeoff/conner-net-r1233}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki}}
+*{{WebCite|url=http://pc.ign.com/articles/557/557592p1.html|text=Jump to Lightspeed - The Ships of the Empire: We unveil two brand new ships.|work=IGN|date=2004-10-15|archivedate=20090123141636|nolive=1}}
+
+{{Interlang
+|de=VT-49 Decimator
+|es=Diezmador VT-49/Leyendas
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Troop transport starship classes]]
+
+{{RelatedCategories
+|[[Category:VT-49 Decimators]]
+}}

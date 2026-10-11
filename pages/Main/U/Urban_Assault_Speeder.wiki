@@ -1,0 +1,62 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Urban Assault Speeder
+|designer=
+|manufacturer=[[RepulsorCorp.]]<ref name="Sins-CC">{{WEGCite|book=Classic Campaigns|story=All Our Sins Remembered}}</ref>
+|line=
+|model=
+|type=Heavy [[Speeder/Legends|speeder]]<ref name="Sins-CC" />
+|cost=
+|modifier=
+|sysmods=
+|length=13.6 [[Meter/Legends|meters]]<ref name="Sins-CC" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=100 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="Sins-CC" />
+|max alt=2 meters<ref name="Sins-CC" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]]<ref name="Sins">{{WEGCite|story=All Our Sins Remembered|book=Star Wars Gamemaster Kit}}</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=2; 1 [[Gunner/Legends|gunner]]<ref name="Sins-CC" />
+|skeleton=
+|passengers=15<ref name="Sins" />
+|capacity=500 [[Kilogram/Legends|kilograms]]<ref name="Sins-CC" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Assault [[Speeder/Legends|speeder]]<ref name="Sins" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Urban Assault Speeder''' was a [[Repulsorlift/Legends|repulsorlift]] vehicle produced by [[RepulsorCorp.]] and used by [[Galactic Empire/Legends|Imperial]] forces in the [[Trax sector/Legends|Trax sector]].
+{{Veh-stub}}
+
+==Appearances==
+*{{WEGCite|story=All Our Sins Remembered|book=Star Wars Gamemaster Kit|reprint=1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:RepulsorCorp. products]]
+[[Category:Speeder models]]
+[[Category:Vehicle classes of the Galactic Empire]]
