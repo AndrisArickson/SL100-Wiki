@@ -1,0 +1,84 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:Theoretika.png]]
+|name=''Theoretika''
+|designer=
+|manufacturer=
+|line=
+|model=[[Unidentified freighter class]]<ref name="Theoretika">{{TORcite|type=faction|Republic|Assertion: Repairs Required|the ''Theoretika''}}</ref>
+|type=[[Research vessel|Mobile research laboratory]]<ref name="Blog">{{TORweb|url=info/news/blog/20121102|text=Community Developer Blog: HK-51 Classified Intel}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=At least 51 crewmembers and researchers<ref name="Theoretika" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=Sufficient for a large crew for several months<ref name="Theoretika" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=Research laboratory<ref name="Blog" />
+|commission=
+|destroyed=Over a century before [[3639 BBY]],<ref name="Update">{{TORweb|url=info/news/blog/20121114|text=Developer Update: Section X and HK-51 Missions in Game Update 1.5}}</ref> [[Unknown Regions/Legends|Unknown Regions]]<ref name="Theoretika" />
+|retired=
+|affiliation=[[Czerka Arms/Legends|Czerka Corporation]]<ref name="Blog" />
+|navy=
+|fleet=
+|owners=
+|captains=Chief [[Diirn]]<ref name="Theoretika" />
+|registry=
+|aliases=
+}}
+{{Quote|We leave this for any who follow. We found this abandoned starship called ''Theoretika'', registered to Czerka Corporation. Air thin, but breathable. Power minimal. We forced open turbolift panels. We climbed down and brought droids called "illuminators" to see. We saw many bodies. We learned of treasure locked inside a distant lab. Then, three of our mates became bodies. It was sabotage. Whatever schematics for the droid called "HK assassin" might be, they aren't worth such trouble. This ship is a trap of death.|A [[Datapad/Legends|datapad]] left by scavengers who were killed exploring the ''Theoretika''|<ref name="Theoretika" />}}
+The '''''Theoretika''''' was a [[Research vessel|mobile research laboratory]] owned by [[Czerka Arms/Legends|Czerka Corporation]] that was active over a [[Standard century/Legends|century]] before the [[Galactic War]] between the [[Galactic Republic/Legends|Galactic Republic]] and the [[Sith Empire (Post–Great Hyperspace War)|Sith Empire]]. Crewed by a team of over fifty engineers, [[Scientist/Legends|scientists]], and researchers, the ''Theoretika'' featured advanced medical and scientific facilities on its six decks, and one of the [[Starship/Legends|ship's]] primary projects in its final [[Standard year/Legends|years]] of activity was a bioengineered [[jurgoran]] specimen labeled [[Specimen Gamma 19]]. The ship's starboard and port engines were located at the rear of the ship on Deck 3 along with Main Engineering, and Deck 4 was primarily habitation, with Barracks 4A-4D located on that level. [[Medical bay/Legends|Medical]] was located on the aft port side of Deck 5, while the primary research lab&mdash;where Science Officer [[Vipp]] worked on Gamma 19&mdash;was located on Deck 6, in the same room as the bridge.<ref name="Theoretika" />
+
+However, while on a routine journey to the [[Planet/Legends|planet]] [[Sleheyron/Legends|Sleheyron]]<ref name="Theoretika" /> around a century before [[3639 BBY]],<ref name="Update" /> the ''Theoretika'' was damaged during its [[Hyperspace/Legends|hyperspace]] jump and ended up in an [[Asteroid field/Legends|asteroid belt]] in the [[Unknown Regions/Legends|Unknown Regions]], causing a major hull breach on the port side of Deck 5, and its crew slowly turned on each other. The crew [[Death/Legends|died]] out in a variety of accidents, though most of the crew was killed when the ship's [[Medical droid/Legends|medical droid]] reclassified the ''Theoretika''{{'s}} remaining food stores as an infestation and destroyed them with its pesticide protocols. The damaged [[Droid/Legends|droid]] then embalmed their corpses, as it had reclassified them as research materials. The ship was eventually rediscovered during the Galactic War, when various individuals sought to recover the only remaining copy of the schematics for the [[HK-51]] [[Assassin droid/Legends|assassin droid]] from the ''Theoretika''{{'s}} databanks.<ref name="Theoretika" />
+
+==Behind the scenes==
+According to the text files for ''[[Star Wars: The Old Republic]]'', the ''Theoretika'' was originally named the ''Theoretikan'', though the name was changed before the release of Update 1.5.
+
+==Appearances==
+*''[[Star Wars: The Old Republic]]'' {{1st}}
+
+==Sources==
+*<!-- 2011-10-XX -->{{Holonet|companions|hk-51|HK-51}}
+*<!-- 2012-11-02 -->{{TORweb|url=info/news/blog/20121102|text=Community Developer Blog: HK-51 Classified Intel}}
+*<!-- 2012-11-14 -->{{TORweb|url=info/news/blog/20121114|text=Developer Update: Section X and HK-51 Missions in Game Update 1.5}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Theoretika
+}}
+
+[[Category:Czerka facilities]]
+[[Category:Research vessels]]
