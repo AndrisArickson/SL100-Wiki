@@ -1,0 +1,99 @@
+{{Top|leg|title=''Agave''-class picket ship}}
+{{StarshipClass
+|image=[[File:AgavePicket.jpg]]
+|name=''Agave''-class picket ship
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|line=[[New Class Modernization Program]]<ref name="TNEC">''[[The New Essential Chronology]]''</ref>
+|model=''Agave''-class picket ship
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=190 [[Meter/Legends|meters]]<ref name="CTD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|km/h]]<ref name="CTD" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="CTD" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="CTD" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=Powerful [[Sensor/Legends|sensors]]
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=Stealth package
+|armament=*[[Turbolaser/Legends|Turbolaser]] [[Cannon/Legends|cannons]] (2)<ref name="CTD" />
+:Fire arc: Forward
+:Crew: 2
+:[[Atmosphere/Legends|Atmospheric]] range: 150 [[Kilometer/Legends|km]]
+*Twin [[Laser cannon/Legends|laser cannon]] [[Turret/Legends|turrets]] (2)<ref name="CTD" />
+:Fire arc: Turret
+:Crew: 1
+:Atmospheric range: 50 km
+*[[Gravity well projector/Legends|Gravity well projector]] (1; optional)
+|complement=
+|bays=
+|escapepods=
+|crew=*Crew members (28)<ref name="CTD" />
+*[[Gunner/Legends|Gunners]] (8)<ref name="CTD" />
+|skeleton=10<ref name="CTD" />
+|passengers=5<ref name="CTD" />
+|capacity=500 [[Metric ton/Legends|metric tons]]<ref name="CTD" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="CTD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Tactical/operational reconnaissance
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''''Agave''-class picket ship''' was a tactical/operational reconnaissance ship produced under the [[New Republic/Legends|New Republic's]] [[New Class Modernization Program]]. Task force commanders sent these ships ahead of the main battlegroup to either scout quietly, or in force. They were assigned to the [[New Republic Fifth Fleet|New Republic Fifth Battle Group]].
+
+==Characteristics==
+''Agave''-class pickets were equipped with Class 1 [[Hyperdrive/Legends|hyperdrives]], powerful sensors, a good stealth package, and shotgun hypertransceivers which allowed them to report information back to the battlegroup with a minimal risk of detection. Some also apparently have [[Interdiction field/Legends|interdiction field]] generators, as was used by the armada chasing the [[Teljkon Vagabond]]. In the event of detection, an ''Agave''-class ship could quickly jump into the safety of [[Hyperspace/Legends|hyperspace]]. ''Agave''-class picket ships' sublight engines provided moderate speed, but were capable of dealing with enemy patrols.
+
+Following New Class focus on efficiency, the basic hull and systems of the ''Agave''-class was also used for the [[Warrior-class gunship|''Warrior''-class]].
+
+==Behind the scenes==
+The only official image of the ''Agave''-class picket ship is found in the RPG sourcebook ''Cracken's Threat Dossier''. Like the pictures of other New Class ships, this picture contradicts information from the [[Black Fleet Crisis]] novels, on which ''Cracken's Threat Dossier'' is based. The ''Warrior'' and ''Agave''-classes look nothing alike, even though they are supposed to be built on the same hull.
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WebCite|url=http://www.alternities.com/html/blackfleet.htm#fifth|text=''Star Wars The Black Fleet Crisis'' by Michael P. Kube-McDowell|work=[http://www.alternities.com/default.html Michael P. Kube-McDowell's website]|archivedate=20240302165643}}
+
+{{NewClassNav}}
+
+{{Interlang
+|de=Sperrschiff
+|es=Nave piquete clase Agave
+}}
+
+[[Category:Interdictor starship classes]]
+[[Category:New Class starship classes]]
+[[Category:Scout starship classes]]
+
+{{RelatedCategories
+|[[Category:Agave-class picket ships]]
+}}

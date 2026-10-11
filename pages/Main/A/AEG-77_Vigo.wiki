@@ -1,0 +1,94 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:AEG77Vigo-SWGTCG.jpg]]
+|name=AEG-77 Vigo
+|designer=
+|manufacturer=
+|line=
+|model=AEG-77 Vigo<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|type=Transport<ref name="RECG" />
+|cost=200,000 [[Galactic Credit Standard/Legends|credits]] (75,000 used)<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 3 (backup class 15)<ref name="RECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="RECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannon]] (2)<ref name="RECG" />
+*Laser cannon turrets (6)<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=8<ref name="RECG" />
+|skeleton=
+|passengers=6<ref name="RECG" />
+|capacity=25 tons (100 tons in unarmed transport version)<ref name="RECG" />
+|cargohandling=
+|consumables=1 month<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="RECG" />
+|role=*Cargo transport
+*Convoy escort
+|firstuse=
+|retired=
+|affiliation=*[[Black Sun/Legends|Black Sun]]<ref name="RECG" />
+*[[Ay'Nat]] pirates<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+}}
+The '''AEG-77 Vigo''' was a transport vessel of the criminal [[Black Sun/Legends|Black Sun]] organization that was also used by [[Xizor Transport Systems/Legends|Xizor Transport Systems]] and other organizations and individuals at the time of the [[Galactic Civil War/Legends|Galactic Civil War]]. Some ships were heavily modified for use as convoy escorts.
+
+==Characteristics==
+[[File:AEG-77.jpg|thumb|200px|left|AEG-77 schematics]]
+The ship provided lots of space for passengers and cargo. Its interior included three decks connected by two elevators, an observation room, a large bridge, a recreation room, an engineering room, and a cargo hold. Modified versions were equipped with two forward mounted guns, four top mounted turrets, and two bottom mounted turrets.
+
+==History==
+[[File:HannaCitySpaceport-SoR.png|thumb|left|200px|A ''Vigo'' about to land at Hanna City Spaceport on Chandrila]]The AEG-77 Vigo was originally used as light defended transport vessels by the [[Black Sun/Legends|Black Sun]] and also later by other organizations, including [[Xizor Transport Systems/Legends|Xizor Transport Systems]] and the [[Hutt/Legends|Hutt]] cartels. As they became known for their light weaponry, more and more transports were attacked and captured by [[Pirate/Legends|pirate]] gangs, especially those smuggling valuable cargo for Black Sun. To counter this threat to its profits, Black Sun decided to modify some of their cargo transports into heavily defended [[Gunship/Legends|gunships]] that would act as escorts for the rest of their convoys.
+
+==Behind the scenes==
+[[File:Aeg77-ird-recg.jpg|left|200px|thumb|An AEG-77 Vigo under attack by a pair of IRD-A starfighters]]
+This gunship was introduced in the [[Star Wars Galaxies: Jump to Lightspeed|''Jump to Lightspeed'']] expansion of ''[[Star Wars Galaxies]]'' as an NPC ship.The name of the vessel was suggested by forum member "Zion Halcyon" on the pilot board of the official Galaxies forums, while the description was provided by forum member "Halyn" after developer Thomas Eidson asked the pilot community for suggestions. AEG stands for "Assault-Escort Gunship", while Vigo means "Cousin" in Old Tionese.<ref>{{SonyForumsCite|url=swg/posts/list.m?start=90&topic_id=501317&#5593528|text=Blacksun Neutral Gunboat Name}}</ref>
+
+Although a detailed interior for the ship was added to the game files in [[2005]],<ref>{{SonyForumsCite|url=swg/posts/list.m?&topic_id=498672|text=Black Sun Transport}}</ref> it was not seen in-game until [[January]] [[2008]] with the release of the Chapter 8 update when it became a multiplayer ship available to freelance ace [[Pilot/Legends|pilots]]. It was one of several ships made playable in Chapter 8 along with the [[X4 Gunship/Legends|X4 Gunship]], the [[Ye-4 gunship]], and the [[N-1 starfighter/Legends|N-1 starfighter]].<ref name="SonyCite-Chapter 8: The Nova Orion Crisis">{{SonyCite|url=players/news_archive.vm?id=67563&month=012008|text=Chapter 8: The Nova Orion Crisis}}</ref>
+
+==Appearances==
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{1st}}
+*{{GalaxiesNGE}}
+
+==Sources==
+{{Mediacat|imagecat=Images of AEG-77 Vigo}}
+*<!-- 2007-11-09 -->{{SonyCite|url=players/news_archive.vm?id=67498&month=112007|text=Friday Feature &ndash; Witness the Firepower}} {{1stID|AEG-77 Vigo}}
+*<!-- 2008-01-14 -->{{SonyCite|url=players/news_archive.vm?id=67563&month=012008|text=Chapter 8: The Nova Orion Crisis}}
+*<!-- 2008-03-XX -->{{SonyCite|url=en_US/players/content.vm?id=66940&resource=features|text=Black Sun AEG-77 Vigo Gunship}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=AEG-77 Vigo Gunship}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]'' {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|Black Sun AEG-77 Vigo Gunship}}
+
+[[Category:Gunship starship classes]]
+[[Category:Starship classes of Black Sun]]
+[[Category:Transport classes]]

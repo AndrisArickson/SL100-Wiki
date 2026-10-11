@@ -1,0 +1,93 @@
+{{Top|leg}}
+{{Youmayd|the starship class|Adventurer|[[Adventurer (disambiguation)]]}}
+{{StarshipClass
+|image=
+|name=Adventurer
+|designer=
+|manufacturer=[[Verpine/Legends|Verpine]]
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Adventurer''' was a [[Verpine/Legends|Verpine]] [[Skiff/Legends|skiff]] design, roughly the size of a [[Starfighter/Legends|starfighter]].
+
+==Characteristics==
+Designed as a personal sporting craft before the ascent of the [[Galactic Empire/Legends|Galactic Empire]], the Adventurer looked sleek and speedy, but this outward appearance was misleading - its actual performance capabilities were decidedly modest, and its crew compartment not particularly comfortable.<ref name="BtS">''[[Before the Storm]]''</ref>
+
+The hull was an aerodynamic [[Wikipedia:lifting body|lifting body]] design, providing additional lift in atmospheric flight, where it used [[hoverjet]]s in place of [[Repulsorlift/Legends|repulsorlifts]] for propulsion.<ref name="BtS" /> The realspace thrusters for space travel had a modest class 2.5 rating.<ref name="BtS" /> To reduce the construction cost of the ship, the Adventurer's main [[power bus]] had a relatively modest capability, incapable of simultaneously handling the realspace propulsion and navigation systems and those associated with the hyperdrive - instead, it was fitted with a [[cascade processor]] which managed their sequential deactivation and activation during transit to and from lightspeed, but which was vulnerable to power surges during reversion to realspace.<ref name="TT">''[[Tyrant's Test]]''</ref>
+
+Although there was a competent [[Hypercomm/Legends|hypercomm]],<ref name="SL">''[[Shield of Lies]]''</ref> as well as a [[Navigation computer/Legends|navcom]] and and a [[Navigation deflector system|navigational deflector]],<ref name="BtS" /> the type was not equipped with anything resembling military-grade [[Deflector shield/Legends|shields]] as standard, nor with weapons or an [[Astromech droid/Legends|astromech droid]] [[Astromech socket/Legends|slot]].<ref name="BtS" /> In addition, the hyperdrive was configured with a FCZ lockout, designed to prevent it from making the jump to lightspeed inside a [[Flight Control Zone]] such as planetary orbit. The ship's computer interface did not allow systems such as the FCZ lockout to be modified or overridden.<ref name="BtS" />
+
+Nonetheless, upgrades to the systems were available - for example, the navigational deflector could be improved beyond the basic Block 1 configuration to at least a Block 3 standard.<ref name="BtS" /> Hotwiring some components was also relatively simple, such as deactivating the FCZ lockout, which was connected to the [[nav controller]] rather than the [[Hyperdrive motivator/Legends|hyperdrive motivator]].<ref name="SL" />
+
+The boarding hatch was accessed by a somewhat slender-looking boarding ladder.<ref name="SL" /> Internally, the Adventurer had a single open cabin, which combined a relatively spacious flight deck area with a forward-facing viewport and seats for a pilot and co-pilot, and an accommodation section with a single bunk and a cramped [[refresher]], both of them screened by curtains.<ref name="BtS" /> There was also a cargo hold, which could accommodate a reasonable quantity of supplies and luggage,<ref name="BtS" /> and a floor hatch in the deck gave internal maintenance access to the drive compartment.<ref name="SL" /> At least some ships also had a [[meal service console]] which could serve three different drinks and a variety of food options.<ref name="BtS" />
+
+At least in the era of the [[New Republic/Legends|New Republic]], the vintage ship was considered unsuitable for any activity beyond pleasure rides, or at best, short business trips to outlying systems that were not served by regular commercial flights.<ref name="BtS" />
+
+==History==
+One particular Adventurer was used by [[Akanah Norand Goss Pell]], who traveled aboard it with [[Luke Skywalker/Legends|Luke Skywalker]] during the [[Black Fleet Crisis]]. Luke gave the ship the name ''[[Mud Sloth]]'', reflecting its dawdling performance compared with the [[Starfighter/Legends|starfighters]] he was used to.
+
+==Appearances==
+*''[[Before the Storm]]'' {{1st}}
+*[[Before the Storm (abridged audiobook)|''Before the Storm'' abridged audiobook]]
+*''[[Shield of Lies]]''
+*[[Shield of Lies (abridged audiobook)|''Shield of Lies'' abridged audiobook]]
+*''[[Tyrant's Test]]''
+*[[Tyrant's Test (abridged audiobook)|''Tyrant's Test'' abridged audiobook]]
+
+==Sources==
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Starfighter classes]]
+[[Category:Verpine culture]]
+
+{{RelatedCategories
+|[[Category:Adventurers]]
+}}

@@ -1,0 +1,42 @@
+{{Top|leg}}
+{{Device
+|image=[[File:LaserCannonComponents-EGWT.png]]
+|name=Actuator Power Feed<br />{{C|A schematic of a laser cannon showing the location of the actuator power feed}}
+|manufacturer=
+|model=
+|type=Weapon component<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+'''Actuator Power Feeds''', also known as '''Actuator Multicycle Power Feeds''', were components used in [[Laser cannon/Legends|laser cannons]] and [[Turbolaser/Legends|turbolasers]]. They allowed the energy generated in the [[Laser actuator/Legends|actuator]] to be transferred along the weapon.<ref name="EGWT" />
+
+==Sources==
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]'' {{C|also as Actuator Multicycle Power Feed}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Weapon components]]

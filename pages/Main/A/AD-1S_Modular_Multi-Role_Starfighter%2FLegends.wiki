@@ -1,0 +1,74 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:AD1SModularMultiRoleStarfighter-SM.png]]
+|name=AD-1S Modular Multi-Role Starfighter
+|designer=
+|manufacturer=[[Koensayr Manufacturing/Legends|Koensayr Manufacturing]]<ref name="Special Mods">''[[Special Modifications]]''</ref>
+|line=
+|model=AD-1S
+|type=Modular Multi-Role [[Starfighter/Legends|Starfighter]]
+|cost=25,000 [[Galactic Credit Standard/Legends|credits]]<ref name="Special Mods" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=None<ref name="Special Mods" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None<ref name="Special Mods" />
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot]]<ref name="Special Mods" />
+|skeleton=
+|passengers=2<ref name="Special Mods" />
+|capacity=
+|cargohandling=
+|consumables=1 week<ref name="Special Mods" />
+|lifesupport=
+|communications=
+|othersystems=Magnetic modular rail system<ref name="Special Mods" />
+|availability=
+|role=Multi-role<ref name="Special Mods" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+[[Koensayr Manufacturing/Legends|Koensayr's]] '''AD-1S Modular Multi-Role Starfighter''' was a highly modifiable design which uses a central chassis for the [[Starfighter/Legends|starfighter]] and equipped with a modular rail system.
+
+==Characteristics==
+[[Koensayr Manufacturing/Legends|Koensayr]] sold the [[Starfighter/Legends|starfighter's]] central chassis for 25,000 [[Galactic Credit Standard/Legends|credits]]. It was flown by one [[Pilot/Legends|pilot]] with space for two passengers. Although unarmed and without a hyperdrive, it featured a magnetic modular rail system for customizable outfitting.<ref name="Special Mods" />
+
+==History==
+The corporate designers believed that the modular system would be valued by military buyers as they could buy one central design, instead of more specialized variants.<ref name="Special Mods" />
+
+Ultimately, the cost of customization and proprietary parts reduced interest in the starfighter, though it found life in service to [[Technician/Legends|mechanics]] who could customize it to their liking.<ref name="Special Mods" />
+
+==Behind the scenes==
+The AD-1S appears in [[Fantasy Flight Games]]' [[2016]] [[roleplaying game]] sourcebook ''[[Special Modifications]]''.<ref name="Special Mods" />
+
+==Sources==
+*<!-- 2016-03-24 -->''[[Special Modifications]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Koensayr Manufacturing products]]
+[[Category:Starfighter classes]]

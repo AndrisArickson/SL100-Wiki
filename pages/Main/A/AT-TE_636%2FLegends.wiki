@@ -1,0 +1,74 @@
+{{Top}}
+{{GroundVehicle
+|image=[[File:ATTE636.jpg]]
+|name=AT-TE 636
+|designer=
+|manufacturer=*[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+|line=
+|model=All Terrain Tactical Enforcer<ref name="CCS" />
+|type=[[Walker/Legends|Walker]]<ref name="CCS" />
+|cost=
+|modifier=
+|sysmods=
+|length=13.2 [[Meter/Legends|meters]]<ref name="SWCP">''[[Star Wars Chronicles: The Prequels]]''</ref>
+|width=5.32 meters<ref name="CCS" />
+|height=5.02 meters<ref name="CCS" />
+|mass=
+|max accel=
+|speed=60 km/h<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*[[Anti-personnel laser cannon]]s (6)<ref name="FF" />
+*[[Mass-driver cannon/Legends|Mass-driver cannon]] (1)<ref name="FF" />
+|complement=*[[IM-6 Battlefield Medical Droid/Legends|IM-6 battlefield medical droid]] (1)<ref name="CCS" />
+*[[All Terrain Recon Transport/Legends|All Terrain Recon Transports]] (2)<ref name="LR">{{TCW|Liberty on Ryloth}}</ref>
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="FF" />
+*Spotter (1)<ref name="FF" />
+*[[Gunner/Legends|Gunner]] (5)<ref name="FF" />
+|skeleton=
+|passengers=38 [[Clone trooper/Legends|clone troopers]]<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref>
+|capacity=10 tons<ref name="TCWCG" />
+|cargohandling=
+|consumables=*Fuel: 500km<ref name="CCS" />
+*Air: 3 weeks<ref name="CCS" />
+*Rations: 3 weeks<ref name="CCS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Armor<ref name="Leland Chee">{{SWBoards|url=thread.jspa?threadID=222689&start=2010#14756254|thread=Welcome some BCaT VIPs|user=[[Leland Chee|Leland Y Chee]]|date=2006-05-08|time=10:05 AM}}</ref>
+*Mechanized infantry<ref name="Leland Chee" />
+*Troop [[Transport/Legends|transport]]<ref name="Leland Chee" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="AOTC">{{Film|II}}</ref>
+}}
+{{Quote|AT-TE 636, lay down cover fire at point 35!|Commander Cody ordering the Walker to cover Waxer and Boil's retreat with General Kenobi and Trapper|<ref name="LPR">{{TCW|Landing at Point Rain}}</ref>}}
+'''AT-TE 636''' was an [[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]] in the service of the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] that took part in the [[Second Battle of Geonosis/Legends|Second Battle of Geonosis]].
+
+==History==
+AT-TE 636 was deployed with six other AT-TEs in [[Obi-Wan Kenobi/Legends|General Kenobi's]] task force. When Kenobi's gunship was shot down, [[Waxer/Legends|Waxer]] and [[Boil/Legends|Boil]] were dispatched to retrieve the wounded general. After they retrieved him, [[Cody/Legends|Commander Cody]] ordered the [[Walker/Legends|walker]] to cover their retreat.<ref name="LPR" />
+
+==Appearances==
+*{{TCW|Landing at Point Rain}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=ATTE6306
+}}
+
+[[Category:All Terrain Tactical Enforcers]]

@@ -1,0 +1,112 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:ActionIVfarorbit.jpg]]
+|name=Action IV transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=[[Action series/Legends|Action series]]<ref name="P&P">''[[Pirates & Privateers]]''</ref>
+|model=Action IV transport<ref name="P&P" />
+|type=[[Transport/Legends|Transport]]<ref name="P&P" />
+|cost=*945,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="P&P" />
+*345,000 credits {{C|used}}<ref name="P&P" />
+|modifier=
+|sysmods=
+|length=100 [[Meter/Legends|meters]]<ref name="P&P" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650 [[Kilometer per hour/Legends|kmh]]<ref name="AJ3">{{JournalCite|3|Smuggler's Log}}</ref>
+|maneuverability=
+|engine=
+|hyperdrive=Class 3.0<ref name="P&P" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=None
+|hull=
+|sensor=
+|target=
+|navigation=None<ref name="P&P" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=2<ref name="AJ3" />
+|crew=8<ref name="P&P" />
+|skeleton=
+|passengers=None
+|capacity=75,000 [[Metric ton/Legends|metric tons]]<ref name="P&P" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="P&P" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Medium [[Bulk freighter/Legends|bulk freighter]]<ref name="P&P" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Action IV transport''' was a [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] medium bulk [[Freighter/Legends|freighter]] of the [[Action series/Legends|Action series]].
+
+==Characteristics==
+[[File:Action_IV.jpg|left|200px|An Action IV is damaged in combat.]]
+
+It had a trapezoidal shape and was roughly 100 meters in length. Internally, its holds could be adapted to various pressures and climates with individual configurations.
+
+The Action IV had two levels. The lower level had the [[Bridge (starship)/Legends|bridge]] and living quarters for the crew. There were two escape pods on this level. The cargo bay spanned both levels, with the upper level having a smaller forward cargo bay. A conduit ran fore to aft, which allowed the crew access to the engineering area in the rear of the ship if the main hold was full or depressurized.<ref name="AJ3" />
+
+==History==
+Even though each ship was sold without any weaponry or defensive [[Deflector shield/Legends|shields]] built in, plenty of after-market systems could be added to the Action IV.
+
+During the time of the [[Galactic Republic/Legends|Galactic Republic]], the Action IV transport ''[[Azure Queen]]'' was captured by [[Black Sun/Legends|Black Sun]] [[Pirate/Legends|pirates]], while en route to the [[Planet/Legends|planet]] [[Rutan/Legends|Rutan]].<ref name="GAW">''[[Galaxy at War]]''</ref>
+
+The [[Imperial Navy/Legends|Imperial Navy]] refitted a number of them as [[Imperial Patrol Ship]]s.
+
+{{Ship-stub}}
+
+==Appearances==
+*{{LivingForce|Looking In: Memories}}
+*{{LivingForce|Twi'light Storm}} {{Mo}}
+*{{DoD|The Core of Corruption}}
+*{{JournalCite|11|The Ando Project}}
+*{{WEGCite|story=The Hijacking of Shipment 1037|book=The Far Orbit Project}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{1stm|in book}}
+
+==Sources==
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-08-XX -->{{JournalCite|3|Smuggler's Log}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2004-03-24 -->''[[Geonosis and the Outer Rim Worlds]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|pl=Frachtowiec Action IV
+|pt=Transporte Action IV
+|es=Transporte Acción IV
+}}
+
+[[Category:Action series models]]
+
+{{RelatedCategories
+|[[Category:Action IV transports]]
+}}
