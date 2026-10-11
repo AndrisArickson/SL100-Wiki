@@ -1,0 +1,86 @@
+{{Top|leg|title=''Conductor''-class short-haul landing craft}}
+{{StarshipClass
+|image=[[File:Conductor-class_landing_craft.jpg]]
+|name=''Conductor''-class short-haul landing craft
+|designer=
+|manufacturer=[[Republic Fleet Systems]]<ref name="KOTORCG">''[[Knights of the Old Republic Campaign Guide]]''</ref>
+|line=
+|model=''Conductor''-class Short-haul Landing Craft<ref name="KOTORCG" />
+|type=[[Shuttle/Legends|Shuttle]]<ref name="KOTORCG" />
+|cost=*250,000 [[Galactic Credit Standard/Legends|credits]]<ref name="KOTORCG" />
+*100,000 credits {{C|used}}<ref name="KOTORCG" />
+|modifier=
+|sysmods=
+|length=19 [[Meter/Legends|meters]]<ref name="KOTORCG" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=500 [[Kilometer per hour/Legends|km/h]]<ref name="KOTORCG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 3<ref name="KOTORCG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Light [[Laser cannon/Legends|laser cannons]]<ref name="KOTORCG" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="KOTORCG" />
+|skeleton=
+|passengers=5 {{C|plus 2 [[Loader droid/Legends|loader droids]]}}<ref name="KOTORCG" />
+|capacity=80 [[Metric ton/Legends|tons]]<ref name="KOTORCG" />
+|cargohandling=
+|consumables=2 [[Standard week/Legends|weeks]]<ref name="KOTORCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Shuttle/Legends|Shuttle]]<ref name="KOTORCG" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Republic/Legends|Galactic Republic]]<ref name="KOTORCG" />
+}}
+The '''Conductor-class short-haul landing craft''' was a special-purpose shuttle, used by the [[Galactic Republic/Legends|Galactic Republic]] as a military cargo transport during the [[Mandalorian Wars]].
+
+==Characteristics==
+It came in several basic lines, of which the CX line was the most frequent. Within this line two additional configurations existed: ships named with a CX followed by a two-digit number had additional fuel storage and a [[Hyperdrive/Legends|hyperdrive]] for traveling from system to system, while those named with a CXB followed by a three-digit number were designed to be carried aboard [[Capital ship/Legends|capital ships]] in [[Hangar/Legends|landing bays]] and could carry more cargo at the expense of range.<ref name="KOTORCG" /> Early in the war [[Carth Onasi]] flew a CXB-560 nicknamed ''[[Deadweight]]''.
+
+==Appearances==
+*[[Knights of the Old Republic 14|''Knights of the Old Republic'' 14]] {{1st}}
+*[[Knights of the Old Republic 15|''Knights of the Old Republic'' 15]]
+*[[Knights of the Old Republic 17|''Knights of the Old Republic'' 17]]
+*[[Knights of the Old Republic 18|''Knights of the Old Republic'' 18]]
+*[[Knights of the Old Republic 19|''Knights of the Old Republic'' 19]]
+*{{Hyperspace|url=hyperspace/fiction/interference20090929.html|text="Interference"|int=Interference|newhost=Suvudu}}
+*[[Knights of the Old Republic 31|''Knights of the Old Republic'' 31]]
+
+==Sources==
+*<!-- 2008-08-19 -->''[[Knights of the Old Republic Campaign Guide]]'' {{1stID|''Conductor''-class short-haul landing craft}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Conductor-Klasse Landungsboot
+|es=Nave de aterrizaje de corto alcance clase Conductor
+}}
+
+[[Category:Cargo shuttle classes]]
+[[Category:Republic Sienar Systems products]]
+[[Category:Starship classes of the Galactic Republic]]
+
+{{RelatedCategories
+|[[Category:Conductor-class short-haul landing craft]]
+}}

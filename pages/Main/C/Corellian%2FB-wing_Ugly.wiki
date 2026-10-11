@@ -1,0 +1,87 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:BWingUgly-CTD140.jpg]]
+|name=Corellian/B-wing Ugly
+|designer=
+|manufacturer=*[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] (cockpit)
+*[[Slayn & Korpil/Legends|Slayn & Korpil]] (fuselage)
+*[[Pirate/Legends|Pirates]] (final assembly)
+|line=
+|model=Corellian B-wing "ugly"
+|type=[[Ugly/Legends|Ugly]] [[Starfighter/Legends|starfighter]]<ref name="SAV">[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]</ref>
+|cost=110,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SAV" />
+|modifier=
+|sysmods=
+|length=16.9 [[Meter/Legends|meters]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=650<ref name="SAV" /> - 950 [[Kilometer per hour/Legends|km/h]]<ref name="CTD" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2<ref name="SAV" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="CTD" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped (two-jump limit)<ref name="CTD" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Anti-infantry [[Turbolaser/Legends|turbolaser]] cannon turret (1)<ref name="SAV" />
+*Light [[Ion cannon/Legends|ion cannons]]<ref name="SAV" />
+*[[Proton torpedo/Legends|Proton torpedo]] launcher<ref name="SAV" />
+**8 torpedoes<ref name="SAV" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="SAV" />
+*[[Gunner/Legends|Gunner]] (1)<ref name="SAV" />
+|skeleton=
+|passengers=2<ref name="SAV" />
+|capacity=65<ref name="CTD" /> - 450 [[Kilogram/Legends|kg]]<ref name="SAV" />
+|cargohandling=
+|consumables=1<ref name="CTD" /> - 2 [[Standard week/Legends|weeks]]<ref name="SAV" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="SAV" />
+|role=Assault fighter
+|firstuse=
+|retired=
+|affiliation=*[[Pirate/Legends|Pirates]]<ref name="CTD" />
+*[[Sacorrian Triad]]<ref name="SaC">''[[Showdown at Centerpoint]]''</ref>
+}}
+The '''Corellian/B-wing Ugly''', also known as the '''C-Wing Ugly''', was an [[Ugly/Legends|Ugly]] [[Starfighter/Legends|starfighter]] built by bolting the cockpit of a [[Corellian Engineering Corporation/Legends|Corellian]] [[YT-series/Legends|YT-series]] [[Light freighter/Legends|light freighter]] onto the fuselage of a [[A/SF-01 B-wing starfighter/Legends|B-wing starfighter]].
+
+==Design==
+The Corellian/B-wing was essentially flying junk, typically only used by cash-strapped [[Pirate/Legends|pirates]], built using wreckage found at various battle-sites.
+
+The Ugly's mission profile usually only required the vessel to damage lightly [[Deflector shield/Legends|shielded]] targets. Against heavier-shielded and better-armed vessels, the Ugly was less than a match. The cobbled-together nature of their construction also meant that very few Uglies could be relied upon to perform at anywhere near peak levels.
+
+A large number of these Uglies were employed by the [[Sacorrian Triad]] during the [[Corellian Crisis|First Corellian Insurrection]], but they were no match for the [[Bakura/Legends|Bakuran]] fleet's [[General Purpose Attack Fighter]]s.
+
+Later "refinements" to the design included an anti-infantry [[Turbolaser/Legends|turbolaser]], intended for use on the ground, attached to the ship's undercarriage.
+
+==Appearances==
+*''[[Ambush at Corellia]]'' {{1st}}
+*''[[Showdown at Centerpoint]]''
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Corelliano/Ala-B Feo
+}}
+
+[[Category:Uglies]]

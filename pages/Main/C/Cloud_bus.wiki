@@ -1,0 +1,58 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Cloud bus
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Atmosphere|Atmospheric]] vehicle
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=[[Repulsorlift]] engine
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Mass commuter atmospheric vehicle
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Cloud buses''' were flying [[Atmosphere|atmospheric]] vehicles that were used for mass commuter transport.
+
+{{Veh-stub}}
+
+==Appearances==
+*''[[Jedi Quest: The False Peace]]'' {{1st}}
+
+[[Category:Air vehicle types]]

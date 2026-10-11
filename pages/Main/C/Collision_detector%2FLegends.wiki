@@ -1,0 +1,52 @@
+{{Top}}
+{{Device
+|image=
+|name=Collision detector
+|manufacturer=
+|model=
+|type=*Safety device<ref name="EV">''[[Endless Vigil]]''</ref>
+*[[Sensor/Legends|Sensor]]<ref name="SWS">''[[The Star Wars Sourcebook]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=2,200 [[Galactic Credit Standard/Legends|credits]]<ref name="EV" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Avoid collision<ref name="EV" />
+|heritage=
+|affiliation=
+}}
+A '''collision detector''', also known as a '''collision alarm''', '''collision avoidance system''', or '''collision monitor''',<ref name="SWS" /> was a type of safety device<ref name="EV" /> and [[Sensor/Legends|sensor]] hardwired into a [[Starship/Legends|starship]]<ref name="SWS" /> or vehicle to alert the operator of an imminent impact. The devices were common in most vehicles; though they were banned from being incorporated into [[Podracer/Legends|Podracers]] in many race series. Frowned upon by veteran racers, they were often times referred to derisively as "electronic nannies."<ref name="EV" /> They were also used in [[Adumar/Legends|Adumari]] [[Starfighter/Legends|starfighters]].
+
+==Appearances==
+*''[[X-Wing: Starfighters of Adumar]]'' {{ID|collision alarm}}
+
+==Sources==
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{ID|collision monitor}}
+*<!-- 2016-10-31 -->''[[Endless Vigil]]''
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Collision Detector|reprint=1}} {{ID|collision detector}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Starfighter sensors]]
+
+{{RelatedCategories
+|[[Category:Collision avoidance systems]]
+}}

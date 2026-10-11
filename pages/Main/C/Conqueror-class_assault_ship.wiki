@@ -1,0 +1,120 @@
+{{Top|leg|title=''Conqueror''-class assault ship}}
+{{Citation}}
+{{Otheruses|Conqueror}}
+{{StarshipClass
+|image=[[File:GuriStinger-SOTEC.jpg]]
+|name=''Conqueror''-class assault ship
+|designer=
+|manufacturer=[[Surronian (species)|Surronian]] hive guild
+|line=
+|model=''Conqueror''-class assault ship<ref name="SAV">[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]</ref>
+|type=
+|cost=100,500 [[Galactic Credit Standard/Legends|credits]] {{C|46,000 used}}<ref name="SAV" />
+|modifier=
+|sysmods=
+|length=28 meters<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 kph<ref name="SAV" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 1 {{C|backup class 10}}<ref name="SAV" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="SAV" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Medium [[Laser cannon/Legends|laser cannon]] (2)<ref name="SAV" />
+*Forward fire-linked [[Ion cannon/Legends|ion cannon]] (1)<ref name="SAV" />
+|complement=
+|bays=
+|escapepods=
+|crew=3:<ref name="SAV" />
+*[[Pilot/Legends|Pilot]] (1)<ref name="Dangerous Covenants">''[[Dangerous Covenants]]''</ref>
+*[[Gunner/Legends|Gunner]] (1)<ref name="Dangerous Covenants" />
+*[[Engineer/Legends|Engineer]] (1)<ref name="Dangerous Covenants" />
+|skeleton=1<ref name="SAV" />
+|passengers=1<ref name="SAV" />
+|capacity=25 tons<ref name="SAV" />
+|cargohandling=
+|consumables=1 month<ref name="SAV" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="SAV" />
+|role=*Assault ship
+*Transport
+|firstuse=
+|retired=
+|affiliation=*[[Surronian (species)|Surronian]] planetary defense forces
+*[[Galactic Republic/Legends|Galactic Republic]] (at least 1)
+*[[Black Sun/Legends|Black Sun]]
+}}
+The '''''Conqueror''-class assault ship''' was manufactured by a [[Surronian (species)|Surronian]] hive guild.
+
+==Characteristics==
+[[File:Surronian_Conqueror-class_Assault_Ship.jpg|thumb|left|180px|''Conqueror''-class schematics]]
+The ship was 28 meters long. It required at least a crew of 1, but optimally 2. It could carry a single passenger, 1 month's worth of [[Foodstuff/Legends|consumables]], and 25 metric tons of cargo.
+
+The craft could achieve 1,000 kph. It had a Class 1 [[Hyperdrive/Legends|hyperdrive]] and a Class 10 backup.
+
+A typical ship was shielded, with 2 double laser cannon turrets and 2 forward fire-linked ion cannons. For emergencies, it had a single escape pod.
+
+==History==
+The Surronians used the craft for planetary defense. They did not sell them to outsiders, but did give them occasionally as gifts.
+
+The craft were manufactured at least as early as the [[Clone Wars/Legends|Clone Wars]].
+
+[[Guri]]'s ''[[Stinger]]'' was a ''Conqueror''-class assault ship.
+
+==Appearances==
+{{Mediacat|imagecat=Images of Conqueror-class assault ships}}
+*''[[MedStar I: Battle Surgeons]]''
+*''[[MedStar II: Jedi Healer]]''
+*''[[Coruscant Nights I: Jedi Twilight]]''
+*{{GalaxiesNGE}} {{C|Appeared in loading screen}}
+*''[[Star Wars Adventures: Princess Leia and the Royal Ransom]]''
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]] {{1st|in book}}
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]] {{1st}}
+*[[Shadows of the Empire: Evolution 3|''Shadows of the Empire: Evolution'' 3]]
+*''[[The New Jedi Order: The Unifying Force]]'' {{Mo}}
+*''[[Legacy of the Force: Sacrifice]]''
+
+==Sources==
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+<!-- 2001-01-10 -->{{CardGameSet|set={{CCG|set=Reflections II: Expanding the Galaxy|parent=1}}|cards=
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Black Sun Fleet}}
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Stinger}}
+}}
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-09-22 -->{{SWGTCG|set=The Shadow Syndicate|cardname=Stinger}}
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Conqueror-Klasse Angriffsschiff#legends
+}}
+
+[[Category:Assault ship classes]]
+[[Category:Surronian culture]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Conqueror-class assault ships]]
+}}

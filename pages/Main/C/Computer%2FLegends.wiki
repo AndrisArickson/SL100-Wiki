@@ -1,0 +1,584 @@
+{{Top}}
+{{Device
+|image=[[File:Computer_Expertise.jpg]]
+|name=Computer
+|manufacturer=
+|model=
+|type=
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=Galaxy-wide
+|cost=
+|value=
+|structure=Tower (unless built into monitor), Display, and Interface (input-output)
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Multipurpose
+|heritage=
+|affiliation=
+}}
+{{Quote|It's amazing what computers can do these days.|[[Garin]]|<ref name="The Weekly Luncheon">{{WEGCite|story=The Weekly Luncheon|book=Shadows of the Empire Sourcebook}}</ref>}}
+A '''computer''' was a ubiquitous piece of hardware utilized in a multitude of applications throughout the [[Galaxy/Legends|galaxy]], from [[Droid/Legends|droids]] to [[Starfighter/Legends|starfighters]] to [[Datapad/Legends|datapads]]. A computer consisted of an input system, a processor to accomplish tasks, and an output to relay information or commands. A computer generally used complex mathematics to run varying protocols, such as numerical calculations, synchronous communication (with encryption), sensor interpretation and coordination, even the complex systems of artificial life-forms, such as droids, built around an [[Artificial intelligence/Legends|artificial intelligence]].
+
+The complete details of computer systems, sub-routines, computing languages and processing functionality are probably too manifold to specify in a comprehensible fashion. However, the clear purpose and usage of computer systems throughout the [[Galaxy/Legends|galaxy]] can be enumerated and commented on at length.
+
+A '''minicomputer''' referred to a smaller version of a computer.
+
+==Data==
+===Personal computing===
+In everyday life throughout the galaxy, sentients of all types used computers to work more efficiently, store and retrieve information and communicate extensively.
+
+A commonly used device was a [[Datapad/Legends|datapad]], the computing capacity of a datapad allowed for it to interface with other computer systems, at times analyze surroundings through sensors, even play holo-recordings for informational or entertainment purposes. These personal computing devices could serve as mobile workstations to access and maintain facility and starship systems through wireless and hard-wired connections.
+The systems within personal starships were all coordinated and integrated through computers. The [[Navigation computer/Legends|Navigation computer]], also known as a "navicomputer", is a prime example. The [[Hyperdrive/Legends|Hyperdrive]] and navigational systems needed to communicate in order for travel in [[Hyperspace/Legends|Hyperspace]] to be possible. At the heart of this communication was the Navicomputer, a computing device that factored the location of the given starship, desired destination, and intended travel route through Hyperspace in order to determine a safe route for the starcraft. This required the accessing and processing of starcharts, interpretation of sensor data from the ship's own sensors, communication with the systems of the [[Hyperdrive/Legends|Hyperdrive]] and its various failsafes as well as diagnostics of every involved system. The Ship's computer handles all of these tasks with near instantaneous results and an incredibly high rate of success and efficacy.
+Numerous facilities and affiliations maintain and use computer systems for informational and organizational purposes. The [[Jedi Order/Legends|Jedi Order]] maintained an information archive, in effect a massive encyclopedic computer system for data storage and access. A communication system built around computers with a beacon to alert traveling Jedi to recent events was used. A Holo-security recording system was run via computers on the [[Jedi Temple/Legends|Jedi Temple]] premises. These are just some of the applications of computers known throughout the galaxy.
+
+===Droids===
+{{Quote|Mechanical and/or electronic construct designed and put into service to assist organic life.|[[Cybot Galactica/Legends|Cybot Galactica]]|<ref name="The New Essential Guide to Droids">''[[The New Essential Guide to Droids]]''</ref>}}
+{{Main|Droid/Legends}}
+[[File:Astromechs_TotG.jpg|thumb|left|245px|An [[R5-series astromech droid|R5]], [[R4 astromech droid/Legends|R4]] and [[R7-series astromech droid]]]]
+[[Droid/Legends|Droids]] were [[Humanoid/Legends|humanoid]] frames, made of various materials, that were loaded with [[Artificial intelligence/Legends|artificial intelligence]] units. The materials varied by the droids designed use. Different droids were loaded with different AI's and programs, which were classified under one of five classes. Class one droids dealt with medicine, mathematics, and physical sciences.<ref name="The New Essential Guide to Droids" />Class two droids dealt with engineering tasks, environmental work, and repairing [[Starship/Legends|starships]].<ref name="The New Essential Guide to Droids" />Class three droids interacted with [[Species/Legends|organic beings]] in tasks dealing with protocol, tutoring, and child care.<ref name="The New Essential Guide to Droids" />Class four droids included security droids and assassin droids.<ref name="The New Essential Guide to Droids" /> Class five droids were for basic labor.<ref name="The New Essential Guide to Droids" />[[Astromech droid/Legends|Astromech droids]] were loaded with navigational, repair, and ship design computer programs that allowed them to preform these tasks. While [[Protocol droid/Legends|Protocol droid]] AI units were loaded with [[Language/Legends|Language]], Diplomatic, and other Computer programs. Medical droids contained programs that dealt with medications, surgical procedures, biology, and other medical protocols. [[Astromech droid/Legends|Astromech droids]] such as [[R2-D2/Legends|R2-D2]] and [[T3-M4]] were very talented at slicing. R2 was able to open virtually any door, which has saved many lives. R2 was able to open the doors on the shield base on Endor, allowing the [[Death Star/Legends|Death Star]] to be destroyed. As well as opening the doors on [[Bespin/Legends|Bespin]], to try and reach [[Han Solo/Legends|Han Solo]] and [[Boba Fett/Legends|Boba Fett]].
+
+===Starships===
+{{Quote|With the Falcon's sensors, it's like seeing the future. You'll know where each Imperial fighter is headed before the TIE pilots have made a move.|[[Lando Calrissian/Legends|Lando Calrissian]]|<ref name="The New Essential Guide to Weapons and Technology">''[[The New Essential Guide to Weapons and Technology]]''</ref>}}
+{{Main|Starship/Legends}}
+Among computers, some were made for specific tasks, such as [[Navigation computer/Legends|Navigation computer's]] or nav computers. These computers were specialized processing units used to calculate hyperspace and realspace jumps, trajectories, and routes.<ref name="Star Wars: The Complete Visual Dictionary">''[[Star Wars: The Complete Visual Dictionary]]''</ref> These computers plotted routes based on received drift charts and other navigational data based on the data received from the ship sensor array. The [[Millennium Falcon/Legends|Millennium Falcon]] was equipped with a [[Fabritech/Legends|Fabritech]][[ANq-51 sensor array computer/Legends|ANq-51 sensor array computer]]. This sensor allowed the Millennium Falcon to scan up to 500,000 Kilometers for ships and other objects. Sensor arrays have a long-range sensor device, to scan around the ship; a computer to read the sensor data; and a display to show the data. There are many different types of sensors: Passive-mode sensors, which gather immediate area data; Scan-mode (Active sensors), which collect long-range data; Search-mode sensors, which scan specific areas; and Focus-mode sensors, which scan small areas with great accuracy. Full-spectrum (universal sensors) have multiple scanners that scan in different ranges and modes to detect nearly all objects, emissions, or energy fields. Electrophoto receptors (EPR's) are short-range visual scanners combining infrared, ultraviolet, and standard ranges to gather information. These scanners can focus on emissions left by engines, heat, comm transmissions, and weapons. Most scanners can also detect organics, gravitational anomalies, and disturbances in [[Hyperspace/Legends|hyperspace]]<ref name="The New Essential Guide to Weapons and Technology" /> All of these sensors are controlled and monitored by the ship computer, which sends the data to the operator through text or graphics on a data screen.<ref name="The New Essential Guide to Weapons and Technology" />
+
+===Slicers and hackers===
+[[File:UnauthorizedAccess-AoD.jpg|thumb|right|200px|A slicer gains unauthorized access to a computer.]]
+{{Quote|He showed me how to slice into a computer's security system; how to get inside a locked building without the entrance codes, and how to spot a wealthy mark for a quick shell game.|Mission, about her brother Griff|<ref name="Star Wars: Knights of the Old Republic">''[[Star Wars: Knights of the Old Republic]]''</ref>}}
+{{Main|Slicer/Legends}}
+Where there were computers, there were safeguards. Passwords, retinal scanners, fingerprint scanners, and voice-recognition were among these. These safeguards were programs that protected a persons personal data and unauthorized use of the computer, but programs could be made to find glitches, introduce viruses, spy-ware, and ways to get around those safeguards. The people that dealt with these illegal programs were called [[Slicer/Legends|slicers]]. Slicers used computer programs that were usually self-made to find the glitches and loop-holes, as well as slicing by hand. Slicing by hand took very detailed knowledge of computers and skill to hack using sheer knowledge of code to cheat around security and find passwords through information around them. Some companies made anti-security devices to hack through security, such as the [[Anti-register device]].<ref name="The New Essential Guide to Weapons and Technology" /> Slicers used their computer and hacking skills to cheat people out of money in their bank accounts, steal personal information to obtain profit, and access information that is restricted. Even though it was illegal, many criminals indulged into the role of slicing. [[Galactic Republic/Legends|Republic]] [[Clone commando/Legends|clone commando]] units were taught to slice into computers blocking their path or to get information needed to complete their mission for the good of the Republic.<ref name="Star Wars:Republic Commando">''[[Star Wars: Republic Commando]]''</ref> Though Jaing, a [[Null-class Advanced Recon Commando]] created and introduced a virus into thousands of banks, that siphoned off very small amounts of credits out of millions of bank accounts, which led to him gaining billions of credits.<ref name="Republic Commando: True Colors">''[[Republic Commando: True Colors]]''</ref>
+
+===Anti-Security devices===
+Anti-Security devices were created to break security without needing to hand slice, or making programs to slice.
+Several known Anti-Security devices include:
+*[[Anti-register device]]
+An Anti-register device was a tool that enabled the user to crack into any-print reliable security system, thought the only one known was destroyed on [[Phindar/Legends|Phindar]] during its liberation.<ref name="The New Essential Guide to Weapons and Technology" />
+
+*[[Electronic lock breaker/Legends|Electronic lock breaker]]
+An Electronic Lock Breaker was an anti-security device that could override alarms and open most computerized locks and were carried by most slicers, criminals, espionage agents, bounty hunters, and thieves.<ref name="The New Essential Guide to Weapons and Technology" />
+
+*[[Slicer chip]]
+A Slicer Chip was a miniaturized electronic lock breaker that was specifically modified to hack into computers, droids, and automated devices.<ref name="The New Essential Guide to Weapons and Technology" />
+
+*[[Universal jammer]]
+A Universal Jammer was a sensor countermeasure device the was able to foil most common scanners, and were extremely expensive.<ref name="The New Essential Guide to Weapons and Technology" />
+
+==Usage==
+During the early stages of the Galactic Civil War, a passenger attempted to bring a tablet computer along for a ride. However, it ended up deleted by the baggage check droid, [[G2-9T/Legends|G2-9T]], after some miscommunication with [[Spaceport THX1138]]'s main computer regarding what the object was.<ref name="STAC">''[[Star Tours: The Adventures Continue]]''</ref>
+
+==Behind the scenes==
+Computers were a type of technology present in both the Star Wars franchise and in real life.
+
+The tablet computer that G2-9T accidentally destroyed was a MacBook.<ref name="STAC" />
+
+==Appearances==
+{{ScrollBox|content=
+*[[Tales of the Jedi – The Sith War 2|''Tales of the Jedi – The Sith War'' 2]]
+*''[[Star Wars: Knights of the Old Republic]]''
+*''[[The Old Republic: Revan]]'' {{Ab|The Old Republic: Revan (audiobook)}}
+*''[[Star Wars: Knights of the Old Republic II: The Sith Lords]]''
+*''[[Star Wars: The Old Republic]]''
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]]
+*''[[Star Wars: The Old Republic: Rise of the Hutt Cartel]]''
+*''[[Star Wars: The Old Republic: Galactic Starfighter]]'' {{Mo}}
+*{{TORweb|url=info/news/blog/20140814|text="Surface Details"|int=Surface Details}}
+*''[[Star Wars: The Old Republic: Galactic Strongholds]]''
+*''[[Star Wars: The Old Republic: Shadow of Revan]]''
+*''[[Star Wars: The Old Republic: Knights of the Fallen Empire]]''
+*''[[Star Wars: The Old Republic: Knights of the Eternal Throne]]''
+*''[[Star Wars: The Old Republic: Onslaught]]''
+*[[Darth Plagueis (novel)|''Darth Plagueis'']] {{Ab|Darth Plagueis (audiobook)}}
+*{{WizCite|story=Shadows of Coruscant|book=Star Wars Roleplaying Game Core Rulebook}}
+*{{GamerCite|1|The Starfighter Trap}}
+*''[[Cloak of Deception]]''
+*[[Star Wars: Invasion of Theed Adventure Game|''Star Wars: Invasion of Theed'' Adventure Game]]
+*''[[Rogue Planet]]''
+*''[[Jedi Quest: Path to Truth]]''
+*''[[Jedi Quest: The Way of the Apprentice]]'' {{Ab|Jedi Quest: The Way of the Apprentice (audiobook)}}
+*[[Outbound Flight (novel)|''Outbound Flight'']] {{Ab|Outbound Flight (unabridged audiobook)}}
+*''[[Jedi Quest: The Trail of the Jedi]]'' {{Ab|Jedi Quest: The Trail of the Jedi (audiobook)}}
+*''[[Jedi Quest: The Dangerous Games]]''
+*''[[Jedi Quest: The Master of Disguise]]''
+*''[[Jedi Quest: The School of Fear]]''
+*''[[Jedi Quest: The Shadow Trap]]''
+*''[[Jedi Quest: The Moment of Truth]]''
+*''[[Jedi Quest: The Changing of the Guard]]''
+*''[[Jedi Quest: The False Peace]]''
+*''[[Jedi Quest: The Final Showdown]]''
+*''[[Star Wars Adventures 1: Hunt the Sun Runner]]''
+*''[[Star Wars Adventures 2: The Cavern of Screaming Skulls]]''
+*''[[Star Wars Adventures 3: The Hostage Princess]]''
+*''[[Star Wars Adventures 4: Jango Fett vs. the Razor Eaters]]''
+*''[[Star Wars Adventures 5: The Shape-Shifter Strikes]]''
+*''[[Star Wars Adventures 6: The Warlords of Balmorra]]''
+*''[[The Approaching Storm]]'' {{Imo}}
+*[[The Approaching Storm (abridged audiobook)|''The Approaching Storm'' abridged audiobook]] {{Imo}}
+*[[Star Wars: Episode II Attack of the Clones (novelization)|''Star Wars'': Episode II ''Attack of the Clones'' novelization]] {{Ab|Star Wars: Episode II Attack of the Clones (unabridged audiobook)}}
+*{{InsiderCite|66|Elusion Illusion|reprint=1}}
+*''[[Boba Fett: Maze of Deception]]''
+*''[[The Cestus Deception]]''
+*''[[Jedi Trial]]''
+*{{TCW|Clone Cadets}}
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}}
+*''[[Republic Commando: Hard Contact]]''
+*''[[Republic Commando: Triple Zero]]''
+*''[[Republic Commando: True Colors]]''
+*{{TCW|The Citadel (episode)}} {{Mo}}
+*''[[MedStar I: Battle Surgeons]]''
+*''[[MedStar II: Jedi Healer]]''
+*''[[Yoda: Dark Rendezvous]]'' {{Ab|Yoda: Dark Rendezvous (unabridged audiobook)}}
+*''[[Labyrinth of Evil]]''
+*{{StoryCite|story=Therefore I Am: The Tale of IG-88|book=Tales of the Bounty Hunters}}
+*''[[The Paradise Snare]]''
+*{{WEGCite|story=Only One of Her Kind|book=Shadows of the Empire Sourcebook}}
+*{{JournalCite|5|Turning Point (Charlene Newcomb)}}
+*''[[Lando Calrissian and the Starcave of ThonBoka]]''
+*[[Star Wars: The Force Unleashed (novelization)|''Star Wars: The Force Unleashed'' novelization]] {{Ab|Star Wars: The Force Unleashed (unabridged audiobook)}}
+*[[Death Star (novel)|''Death Star'']]
+*''[[Han Solo at Stars' End]]''
+*''[[Han Solo's Revenge]]''
+*''[[Death in the Undercity]]'' {{Reprint|Death in the Undercity}}
+*''[[The Abduction]]'' {{Reprint|The Abduction}}
+*{{WEGCite|story=Alderath Horticultural Society (adventure)|book=Star Wars Gamemaster Screen}}
+*{{WEGCite|story=Droid Hunt|book=Star Wars Gamemaster Screen}}
+*{{WEGCite|story=The Locked-Base Affair|book=Star Wars Gamemaster Screen}}
+*{{WEGCite|story=The Royal Family|book=Star Wars Gamemaster Screen}}
+*{{WEGCite|story=Infiltration (adventure)|book=Supernova (sourcebook)}}
+*{{WEGCite|story=The Mynock Conspiracy|book=Supernova (sourcebook)}}
+*{{WEGCite|story=Triple Cross|book=Supernova (sourcebook)}}
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+*{{JournalCite|1|Stranded|reprint=1}}
+*{{JournalCite|2|The Prophecy}}
+*{{JournalCite|2|You're in the Army Now!|reprint=1}}
+*{{JournalCite|5|Crimson Jailbreak}}
+*{{JournalCite|6|The Cure|reprint=1}}
+*{{JournalCite|6|Swoop Gangs|reprint=1}}
+*{{JournalCite|9|Lumrunners}}
+*{{JournalCite|11|The Ando Project}}
+*{{JournalCite|11|The Farrimmer Cafe}}
+*{{JournalCite|12|Festival of High Winds}}
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}}
+*{{WEGCite|story=The Black Sphere|book=No Disintegrations (West End Games)}}
+*{{WEGCite|story=Rebel Breakout|book=Star Wars: The Roleplaying Game (first edition)}}
+*''[[Han Solo and the Lost Legacy]]''
+*{{WEGCite|story=All the Extras|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*''[[Star Tours: The Adventures Continue]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{Mo}}
+*{{JournalCite|3|Galaxywide NewsNets}}
+*''[[Jedi Dawn]]'' {{Mo}}
+*{{JournalCite|11|Spare Parts (short story)|reprint=1}}
+*{{Film|IV}} {{1st}}
+*{{JournalCite|8|A Certain Point of View (short story)|reprint=1}}
+*''[[Escape from the Death Star]]''
+*[[Star Wars (1977) 6|''Star Wars'' (1977) 6]] {{Reprint|Star Wars (1977) 6}}
+*{{WEGCite|story=Tests of the Godking|book=Star Wars Campaign Pack|reprint=1}}
+*{{WEGCite|story=The Heat of Freedom|book=Star Wars Campaign Pack|reprint=1}}
+*{{JournalCite|4|A Deal Gone Sour}}
+*{{JournalCite|13|The Occupation of Rhamalai}}
+*{{JournalCite|6|To Fight Another Day|reprint=1}}
+*[[Star Wars (1977) 11|''Star Wars'' (1977) 11]] {{Reprint|Star Wars (1977) 11}}
+*[[Star Wars (1977) 12|''Star Wars'' (1977) 12]] {{Reprint|Star Wars (1977) 12}}
+*''[[Rebel Force: Hostage]]''
+*{{WEGCite|story=Preparing for War|book=The Far Orbit Project}}
+*{{WEGCite|story=Raid on Brentaal|book=The Far Orbit Project}}
+*[[Star Wars (1977) 16|''Star Wars'' (1977) 16]] {{Reprint|Star Wars (1977) 16}}
+*[[Star Wars (1977) 18|''Star Wars'' (1977) 18]] {{Reprint|Star Wars (1977) 18}}
+*[[Star Wars (1977) 19|''Star Wars'' (1977) 19]] {{Reprint|Star Wars (1977) 19}}
+*[[Star Wars (1977) 25|''Star Wars'' (1977) 25]] {{Reprint|Star Wars (1977) 25}} {{Mo}}
+*''[[Tatooine Manhunt]]'' {{Reprint|Tatooine Manhunt}}
+*{{WEGCite|story=The Edge of Fashion|book=Galaxy Guide 7: Mos Eisley}}
+*{{JournalCite|15|The Great Herdship Heist}}
+*{{GamerCite|1|Fair Prey}}
+*{{JournalCite|10|Only Droids Serve the Maker|reprint=1}}
+*{{JournalCite|5|A Bitter Winter|reprint=1}}
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}}
+*[[Otherspace (adventure)|''Otherspace'']]
+*''[[Introductory Adventure Game]]''
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+*{{JournalCite|8|Uhl Eharl Khoehng (short story)|reprint=1}}
+*[[Black Ice (adventure)|''Black Ice'']]
+*[[Riders of the Maelstrom (adventure)|''Riders of the Maelstrom'']] {{Reprint|Riders of the Maelstrom (adventure)}}
+*{{WEGCite|story=Tales of the Smoking Blaster|book=Star Wars Gamemaster Handbook|stext=Tales of the ''Smoking Blaster''}}
+*{{FFG|story=The Long Arm of the Hutt|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}
+*''[[Under a Black Sun]]''
+*{{FFG|story=Trouble Brewing|book=Star Wars: Edge of the Empire Core Rulebook|text=''Star Wars: Edge of the Empire'' Core Rulebook}}
+*{{FFG|story=Debts to Pay|book=Star Wars: Edge of the Empire Game Master's Kit|text=''Star Wars'': Edge of the Empire Game Master's Kit}}
+*{{FFG|story=Takeover at Whisper Base (adventure)|book=Star Wars: Age of Rebellion Beginner Game|text=''Star Wars: Age of Rebellion'' Beginner Game}}
+*"[[Operation: Shadowpoint]]"
+*{{FFG|story=Perlemian Haul (adventure)|book=Star Wars: Age of Rebellion Core Rulebook|text=''Star Wars: Age of Rebellion'' Core Rulebook}}
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}}
+*''[[Rescue at Glare Peak]]''
+*{{FFG|story=Lure of the Lost|book=Star Wars: Force and Destiny}}
+*"[[Gambler's World]]" {{Reprint|Gambler's World}} {{Mo}}
+*''[[Star Wars Missions 13: Prisoner of the Nikto Pirates]]''
+*{{WEGCite|story=Breakthrough in Bissillirus|book=Star Wars Gamemaster Kit|reprint=1}}
+*{{WEGCite|story=All Our Sins Remembered|book=Star Wars Gamemaster Kit|reprint=1}}
+*''[[Planet of the Mists]]''
+*''[[Mission to Lianna]]''
+*{{WEGCite|story=New Recruits and Rebel Guns|book=Instant Adventures}}
+*{{WEGCite|story=The Argovia Strike|book=Instant Adventures}}
+*{{WEGCite|story=The Treasure of Celis Mott|book=Instant Adventures}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*{{JournalCite|7|Galaxywide NewsNets}}
+*{{JournalCite|8|Galaxywide NewsNets}}
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*[[Crisis on Cloud City (adventure book)|''Crisis on Cloud City'']]
+*''[[Imperial Double-Cross]]''
+*''[[The Jewel of Yavin]]'' {{Mo}}
+*''[[Star Wars Galaxies: The Ruins of Dantooine]]''
+*{{GalaxiesAED}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*''[[Star Wars Galaxies: Trials of Obi-Wan]]''
+*{{GalaxiesNGE}}
+*{{JournalCite|9|Galaxywide NewsNets}}
+*''[[Splinter of the Mind's Eye]]''
+*''[[The Bounty Hunter]]''
+*{{JournalCite|9|Combat Moon (short story)|reprint=1}}
+*{{JournalCite|10|Do No Harm|reprint=1}}
+*{{JournalCite|10|The Capture of Imperial Hazard|The Capture of ''Imperial Hazard''|reprint=1}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*''[[Battle for the Golden Sun]]''
+*''[[The Empire Strikes Back: A Storybook]]''
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}} {{Mo}}
+*[[Star Wars (1977) 45|''Star Wars'' (1977) 45]] {{Reprint|Star Wars (1977) 45}}
+*{{WEGCite|story=Droids Can't Fly|book=Shadows of the Empire Sourcebook}}
+*[[Star Wars (1977) 52|''Star Wars'' (1977) 52]] {{Reprint|Star Wars (1977) 52}}
+*[[Star Wars (1977) 56|''Star Wars'' (1977) 56]] {{Reprint|Star Wars (1977) 56}}
+*[[Star Wars (1977) 57|''Star Wars'' (1977) 57]] {{Reprint|Star Wars (1977) 57}}
+*[[Star Wars (1977) 63|''Star Wars'' (1977) 63]] {{Reprint|Star Wars (1977) 63}}
+*{{FFG|story=Phantoms in the Dark|book=Strongholds of Resistance}}
+*{{WEGCite|story=The Mecetti File|book=Tapani Sector Instant Adventures}} {{Mo}}
+*{{WEGCite|story=The Bacta Heist|book=Tapani Sector Instant Adventures}}
+*{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}
+*{{JournalCite|9|Slaying Dragons|reprint=1}}
+*{{JournalCite|8|Firepower|reprint=1}}
+*{{JournalCite|10|Desperate Measures}}
+*{{WEGCite|story=Operation: Recovery|book=Shadows of the Empire Planets Guide}}
+*{{WEGCite|story=Dead End Drop|book=Shadows of the Empire Sourcebook}}
+*{{WEGCite|story=The Weekly Luncheon|book=Shadows of the Empire Sourcebook}} {{Mo}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]] {{Voice}}
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Star Wars: Shadows of the Empire (abridged audiobook)|''Star Wars: Shadows of the Empire'' abridged audiobook]]
+*[[Star Wars: Shadows of the Empire (junior novelization)|''Star Wars: Shadows of the Empire'' junior novelization]]
+*{{GalaxyCite|7|Assignment: Decoy}}
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]]
+*{{WEGCite|story=Will the Last Person Leaving Vergesso Turn Off the Lights?|book=Shadows of the Empire Planets Guide}} {{Mo}}
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*{{WEGCite|story=Hasty Exit|book=Shadows of the Empire Sourcebook}}
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*[[Star Wars (1977) 76|''Star Wars'' (1977) 76]] {{Reprint|Star Wars (1977) 76}} {{Mo}}
+*[[Star Wars (1977) 77|''Star Wars'' (1977) 77]] {{Reprint|Star Wars (1977) 77}} {{Mo}}
+*[[Star Wars (1977) 80|''Star Wars'' (1977) 80]] {{Reprint|Star Wars (1977) 80}}
+*{{JournalCite|13|Special Ops: Ship Jackers}}
+*{{WEGCite|story=The Passage From Perdition|book=Mos Eisley Adventure Set}}
+*''[[The Mandalorian Armor]]''
+*''[[Slave Ship]]''
+*''[[Hard Merchandise]]''
+*''[[The Truce at Bakura]]''
+*[[Star Wars (1977) 81|''Star Wars'' (1977) 81]] {{Reprint|Star Wars (1977) 81}} {{Mo}}
+*{{WEGCite|story=New Assignments|book=Shadows of the Empire Planets Guide}}
+*{{JournalCite|13|Day of the Sepulchral Night (short story)|reprint=1}} {{Mo}}
+*{{JournalCite|8|Black Curs Blues}}
+*{{JournalCite|5|One of a Kind (short story)|reprint=1}}
+*[[X-Wing Rogue Squadron 19|''X-Wing Rogue Squadron'' 19]]
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 24|''X-Wing Rogue Squadron'' 24]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*[[X-Wing Rogue Squadron 27|''X-Wing Rogue Squadron'' 27]]
+*[[X-Wing Rogue Squadron 34|''X-Wing Rogue Squadron'' 34]]
+*''[[Boba Fett: Twin Engines of Destruction]]''
+*{{WEGCite|story=The Politics of Contraband (adventure)|book=The Politics of Contraband|reprint=1}}
+*{{WEGCite|story=The Art of Betrayal|book=The Politics of Contraband|reprint=1}}
+*{{WEGCite|story=Freedom Strike Seltos (adventure)|book=Twin Stars of Kira (sourcebook)}}
+*{{WEGCite|story=The Iskallon Factor|book=Twin Stars of Kira (sourcebook)}}
+*{{JournalCite|7|Missed Chance|reprint=1}}
+*{{DarkStryder|adventure=The Saga Begins|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Omens|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Death Is Remotely Possible|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Shintel Downtime|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Traitor in our Midst|book=The DarkStryder Campaign|reprint=yes}}
+*{{DarkStryder|adventure=Plant Food|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Wildfire (adventure)|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Introduction|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Harm's Way|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Home (adventure)|book=The Kathol Rift|reprint=yes}}
+*{{JournalCite|4|Shadows of Darkness|reprint=1}}
+*{{JournalCite|6|The Trap (article)}}
+*{{JournalCite|6|Relic (article)|reprint=1}}
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*{{JournalCite|6|Rendezvous with Destiny|reprint=1}}
+*{{JournalCite|14|No Disintegrations, Please}}
+*{{JournalCite|15|Firestorm (short story)}}
+*{{JournalCite|14|Murder in Slushtime|reprint=1}} {{Mo}}
+*''[[Young Jedi Knights: The Lost Ones]]''
+*''[[Young Jedi Knights: Delusions of Grandeur]]''
+*''[[The New Jedi Order: Vector Prime]]''
+*''[[The New Jedi Order: Edge of Victory I: Conquest]]''
+*''[[The New Jedi Order: Edge of Victory II: Rebirth]]''
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Dark Journey]]''
+*''[[The New Jedi Order: Traitor]]'' {{Mo}}
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: The Final Prophecy]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest I: The Joiner King]]''
+*''[[Dark Nest II: The Unseen Queen]]''
+*''[[Dark Nest III: The Swarm War]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Bloodlines]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Legacy of the Force: Fury]]''
+*''[[Fate of the Jedi: Outcast]]'' {{Ab|Fate of the Jedi: Outcast (audiobook)}}
+*''[[Fate of the Jedi: Backlash]]'' {{Ab|Fate of the Jedi: Backlash (audiobook)}}
+*''[[Fate of the Jedi: Allies]]'' {{Ab|Fate of the Jedi: Allies (audiobook)}}
+*''[[Fate of the Jedi: Vortex]]'' {{Ab|Fate of the Jedi: Vortex (audiobook)}}
+*''[[Fate of the Jedi: Conviction]]'' {{Ab|Fate of the Jedi: Conviction (audiobook)}}
+*''[[Fate of the Jedi: Ascension]]'' {{Ab|Fate of the Jedi: Ascension (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-01-XX -->"[[Soulsaber (adventure)|Soulsaber]]" {{Un}}
+*<!-- 2008-08-13 -->"[[The Betrayal of Darth Revan]]" {{Un}}
+*<!-- 2014-07-29 -->''[[Jedi Academy: Return of the Padawan]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']]
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-01-XX -->{{LucasFanClubCite|2|Star Tours: "The Ultimate Adventure" is Still the Ultimate Ride at Disneyland|''Star Tours'': "The Ultimate Adventure" is Still the Ultimate Ride at Disneyland}}
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[Galaxy Guide 1: A New Hope]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-XX-XX -->''[[Starfighter Battle Book: X-wing vs TIE Interceptor]]''
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]''
+*<!-- 1992-06-XX -->''[[Planets of the Galaxy, Volume Two]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-01-XX -->''[[Galaxy Guide 7: Mos Eisley]]''
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-06-XX -->[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]''
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]''
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-10-XX -->''[[Star Wars Technical Journal of the Planet Tatooine]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-02-XX -->{{JournalCite|1|Glah Ubooki's Strange & Wondrous Imports (article)}}
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1994-03-XX -->''[[Galaxy Guide 10: Bounty Hunters]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1994-06-XX -->''[[Star Wars Miniatures Battles Companion]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-08-XX -->{{JournalCite|3|Smuggler's Log}}
+*<!-- 1994-08-XX -->{{JournalCite|3|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1994-09-XX -->''[[Galaxy Guide 11: Criminal Organizations]]''
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1994-11-XX -->{{JournalCite|4|It's a Gambler's Life}}
+*<!-- 1995-02-XX -->{{JournalCite|5|A Buyer's Guide to Alternative Starships}}
+*<!-- 1995-02-XX -->{{JournalCite|5|Smuggler's Log}}
+*<!-- 1995-02-XX -->{{JournalCite|5|Zirtran's Anchor (article)}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-04-XX -->''[[Dark Forces Official Player's Guide]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-08-XX -->{{JournalCite|7|Cracken's Rebel Operatives (article)}}
+*<!-- 1995-08-XX -->{{JournalCite|7|Smuggler's Log}}
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1995-08-XX -->{{JournalCite|7|Into the Core Worlds}}
+*<!-- 1995-09-XX -->''[[Galaxy Guide 12: Aliens — Enemies and Allies]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-11-XX -->{{JournalCite|8|The Gree Enclave|reprint=1}}
+*<!-- 1995-11-XX -->{{JournalCite|8|Scouts' Dispatch}}
+*<!-- 1995-12-11 -->''[[Heroes & Rogues]]''
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=I've Got A Problem Here}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Imperial Code Cylinder}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Ion Cannon}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=R4-M9 (Arfour-Emmnine)}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Scomp Link Access}}
+}}
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->''[[The Kathol Rift]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Operatives (article)}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Field Guide: Slicing Aids}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1996-05-XX -->''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+<!-- 1996-07-XX -->{{CardGameSet|set={{CCG|set=A New Hope Limited|parent=1}}|cards=
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=R2-Q2 (Artoo-Kyootoo)}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Red 6}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Sabotage}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=SW-4 Ion Cannon}}
+}}
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+<!-- 1996-09-XX -->{{CardGameSet|set={{Topps|set=1996 Topps Star Wars: Shadows of the Empire|parent=1}}|cards=
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Attack on the ''Suprosa''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC033.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Dash Aboard the ''Suprosa''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC097.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Dash's Persuasive Charm|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC032.jpg}}
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Luke and Melan Are Ambushed|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC035.jpg}}
+}}
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1996-10-XXF -->''[[Endgame]]''
+*<!-- 1996-11-XX -->''[[Tales of the Jedi Companion]]''
+*<!-- 1996-11-XX -->{{JournalCite|11|Smuggler's Log}}
+*<!-- 1996-12-XX -->''[[Gamemaster Toolkit: Live-Action Adventures]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1996-XX-XX -->{{KennerCite|set=Star Wars: Shadows of the Empire (toy line)|pack=Swoop|link=soteKswoop.asp}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-02-XX -->{{JournalCite|12|Shape-shifters}}
+*<!-- 1997-04-XX -->''[[Cynabar's Fantastic Technology: Droids]]''
+<!-- 1997-04-XX -->{{CardGameSet|set={{CCG|set=Dagobah Limited|parent=1}}|cards=
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Droid Sensorscope}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''Hound's Tooth''}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=The Professor}}
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=Transmission Terminated}}
+}}
+*<!-- 1997-05-XX -->{{JournalCite|13|Scouts' Dispatch}}
+*<!-- 1997-06-XX -->''[[Player's Guide to Tapani]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-08-XX -->{{JournalCite|14|From the Files of Corellia Antilles}}
+*<!-- 1997-09-XX -->''[[Gundark's Fantastic Technology: Personal Gear]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Access Denied}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Captain Bewil}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Cloud City Technician}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Computer Interface}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Lando's Wrist Comlink}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Lobot}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Shocking Information}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Shocking Revelation}}
+}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Alien Encounters (article series)|Alien Encounters: The Shard}}
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 1998-04-XX -->{{StoryCite|story=Boba Fett's Armor: An Essential Guide to a Walking Weapon|book=Star Wars: Boba Fett}}
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-XX -->''[[Alien Encounters]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Secret Plans}}
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Captain Verrack}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-01-10 -->{{CCG|set=Reflections II: Expanding the Galaxy|cardname=Artoo & Threepio}}
+*<!-- 2001-04-03 -->[[The Essential Guide to Alien Species (real-world book)|''The Essential Guide to Alien Species'']]
+*<!-- 2001-06-21 -->{{Wizards|url=starwars/article.asp?x=sw20010621b_quinlanvos&c=rpg|text=Quinlan Vos: Jedi Without a Past}}
+*<!-- 2001-07-26 -->{{Wizards|url=starwars/article.asp?x=sw20010726b_grahrk&c=rpg|text=Vilmarh Grahrk: A Devil of a Smuggler}}
+*<!-- 2001-10-11 -->{{Wizards|url=starwars/article.asp?x=sw20011011b_talz&c=rpg|text=Shaggy Slaves: The Gentle Talz}}
+*<!-- 2001-10-31 -->{{CCG|set=Reflections III|cardname=Secret Plans}}
+*<!-- 2001-11-29 -->{{Wizards|url=starwars/article.asp?x=sw20011129b_trompa&c=rpg|text=Rescued Aliens: The Trompa}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Officer Ellberger}}
+*<!-- 2002-01-31 -->{{Wizards|url=starwars/article.asp?x=sw20020131c_lenacobral&c=rpg|text=Lena Cobral: The Only Witness}}
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2002-07-18 -->{{Wizards|url=starwars/article.asp?x=sw20020718bkylekatarn&c=rpg|text=Kyle Katarn, Jedi Outcast}}
+*<!-- 2002-10-17 -->{{Wizards|url=default.asp?x=starwars/article/sw20021017web|text=''Arms & Equipment Guide'' Extras!}}
+*<!-- 2003-01-02 -->{{Wizards|url=default.asp?x=starwars/article/sw20030102ralltiirintro|text=A Traveler's Journals of Ralltiir}}
+*<!-- 2003-07-XX -->[[Star Wars: Knights of the Old Republic: Prima's Official Strategy Guide|''Star Wars: Knights of the Old Republic'': Prima's Official Strategy Guide]]
+*<!-- 2003-09-11 -->{{Wizards|url=default.asp?x=starwars/article/sw20030911nod|text=Lorian Nod}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=TIE Bomber Pilot|link=https://swtcg.com/Content/Images/Cards/ESB/TIE_Bomber_Pilot.webp?v=2}}
+*<!-- 2003-12-11 -->{{Wizards|url=default.asp?x=starwars/article/sw20031211prax|text=Cydon Prax}}
+*<!-- 2004-01-08 -->{{Wizards|url=default.asp?x=starwars/article/sw20040108fett|text=Boba Fett (NJO Era)}}
+*<!-- 2004-02-26 -->{{Wizards|url=default.asp?x=starwars/article/sw20040226eu|text=Voss Parck}}
+*<!-- 2004-10-26 -->''[[The New Essential Guide to Weapons and Technology]]''
+*<!-- 2004-12-16 -->{{Wizards|url=default.asp?x=starwars/article/sw20041216b|text=Furry and Fury}}
+*<!-- 2004-12-21 -->[[Star Wars: Knights of the Old Republic II: The Sith Lords: Prima Official Game Guide|''Star Wars: Knights of the Old Republic II: The Sith Lords'': Prima Official Game Guide]]
+*<!-- 2005-01-06 -->{{Wizards|url=default.asp?x=starwars/article/sw20050106a|text=Fringe Benefits}}
+*<!-- 2005-01-20 -->{{Wizards|url=default.asp?x=starwars/article/sw20050120a|text=We Don't Need That Scum}}
+*<!-- 2005-03-03 -->{{Wizards|url=default.asp?x=starwars/article/sw20050303a|text=Soldiers of Fortune}}
+*<!-- 2005-07-28 -->{{Wizards|url=default.asp?x=starwars/article/sw20050728a|text=Heroes of ''Revenge of the Sith''}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-06-27 -->''[[The New Essential Guide to Droids]]''
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-05-03 -->{{Wizards|url=default.asp?x=starwars/article/AEPreview4|text=''Alliance and Empire'' Preview 4}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-09 -->{{Wizards|url=default.asp?x=starwars/article/PHSkako|series=Planet Hoppers|text=Skako}}
+*<!-- 2010-02-23 -->{{Wizards|url=default.asp?x=starwars/article/FringeStatPack|text=Fringe Stat Pack}}
+*<!-- 2010-04-13 -->{{Wizards|url=default.asp?x=starwars/article/Mesop7|text=Message to Spacers 7}}
+*<!-- 2010-04-20 -->{{Wizards|url=default.asp?x=starwars/article/Mesop8|text=Message to Spacers 8}}
+*<!-- 2010-04-27 -->{{Wizards|url=default.asp?x=starwars/article/Mesop9|text=Message to Spacers 9}}
+*<!-- 2010-05-04 -->{{Wizards|url=default.asp?x=starwars/article/Mesop10|text=Message to Spacers 10}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=Heavy Stormtrooper Squad|link=core/heavy-stormtrooper-squad-core-26-4}}
+*<!-- 2013-06-13 -->{{SW|url=news/the-droids-re-animated-part-1|series=The Droids Re-Animated|text=Part 1|nolive=1}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]''
+*<!-- 2014-04-22 -->{{ForceCollection|Lobot|star=3}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]]
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+*<!-- 2015-02-23 -->''[[Fly Casual]]''
+*<!-- 2015-06-18 -->[[Star Wars: Force and Destiny Beginner Game|''Star Wars: Force and Destiny'' Beginner Game]]
+*<!-- 2015-06-18 -->''[[Desperate Allies]]''
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2015-12-17 -->''[[Keeping the Peace]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP|Computer}}
+
+{{Interlang
+|es=Computadora
+|pt=Computador
+}}
+
+[[Category:Data storage and processing]]
+
+{{RelatedCategories
+|[[Category:Computer technology]]
+}}

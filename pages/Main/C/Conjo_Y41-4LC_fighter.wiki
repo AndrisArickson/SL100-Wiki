@@ -1,0 +1,61 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Conjo Y41-4LC fighter
+|designer=
+|manufacturer=[[Aratech Repulsor Company/Legends|Aratech]]<ref name="TABSB">''[[The Truce at Bakura Sourcebook]]''</ref>
+|line=[[Conjo fighter]]<ref name="TABSB" />
+|model=
+|type=Atmospheric fighter
+|cost=*30,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="TABSB" />
+*15,000 credits {{C|used}}<ref name="TABSB" />
+|modifier=
+|sysmods=
+|length=14 [[Meter/Legends|meters]]<ref name="TABSB" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=800 [[Kilometer per hour/Legends|km/h]]<ref name="TABSB" />
+|max alt=4 [[Kilometer/Legends|kilometers]]<ref name="TABSB" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] {{C|4}}<ref name="TABSB" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]]<ref name="TABSB" />
+|skeleton=
+|passengers=
+|capacity=50 [[Kilogram/Legends|kilograms]]<ref name="TABSB" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Conjo Y41-4LC fighter''' was a type of [[Conjo fighter]] built by [[Aratech Repulsor Company/Legends|Aratech]] for planetary defense forces. Compared to other variants, the Y41-4LC was armed with four fire-linked [[Laser cannon/Legends|laser cannons]] capable of hitting targets two kilometers distant, along with a larger power generator and more advanced targeting computer. This combination made it an adept high-altitude air superiority fighter.<ref name="TABSB" />
+
+==Sources==
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Aratech Repulsor Company products]]
+[[Category:Skyfighter classes]]
