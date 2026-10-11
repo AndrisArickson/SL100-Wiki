@@ -1,0 +1,118 @@
+{{Top|leg|title=''Sacheen''-class light escort}}
+{{StarshipClass
+|image=[[File:Sacheen.jpg]]
+|name=''Sacheen''-class light escort
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|line=[[New Class Modernization Program]]<ref name="TNEC">''[[The New Essential Chronology]]''</ref>
+|model=''Sacheen''-class light escort
+|type=[[Frigate/Legends|Frigate]]
+|cost=
+|modifier=
+|sysmods=
+|length=375 [[Meter/Legends|meters]]<ref name="CTD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer per hour/Legends|kmh]]<ref name="CTD" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="CTD" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="CTD" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]
+|target=
+|navigation=[[Navigation computer/Legends|Nav computer]]
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Heavy [[Turbolaser/Legends|turbolaser]] [[Cannon/Legends|cannons]] (10)<ref name="CTD" />
+:Fire arc: 4 fore, 3 port, 3 starboard
+:Crew: 3
+:[[Atmosphere/Legends|Atmospheric]] range: 150 [[Kilometer/Legends|km]]
+*Anti-starfighter [[Laser cannon/Legends|laser cannons]] (8)<ref name="CTD" />
+:Fire arc: 2 fore, 3 port, 3 starboard
+:Crew: 1
+:Atmospheric range: 50 km
+*[[Ion cannon/Legends|Ion cannons]] (8)
+:Fire arc: 2 fore, 2 port, 2 starboard, 2 aft
+:Crew: 1
+:Atmospheric range: 100 km
+|complement=Short-range [[Starfighter/Legends|starfighter]] [[Squadron/Legends|squadron]] (1)<ref name="CTD" />
+|bays=
+|escapepods=
+|crew=*Crew (64)<ref name="CTD" />
+*[[Gunner/Legends|Gunners]] (46)<ref name="CTD" />
+|skeleton=22<ref name="CTD" />
+|passengers=6<ref name="CTD" />
+|capacity=4,000 [[Metric ton/Legends|metric tons]]<ref name="CTD" />
+|cargohandling=
+|consumables=5 [[Standard month/Legends|months]]<ref name="CTD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale
+|role=*Patrol
+*Frigate
+*Screening
+*Light escort
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''''Sacheen''-class light escort''' was the first ship class built as part of the [[New Republic/Legends|New Republic's]] [[New Class Modernization Program]].
+
+==Characteristics==
+They were 375 meters long and armed with 10 heavy [[Turbolaser/Legends|turbolaser]] cannons, 8 [[Laser cannon/Legends|laser cannons]], and 8 [[Ion cannon/Legends|ion cannons]]. ''Sacheen''-class escorts had a hangar large enough to hold a single [[Squadron/Legends|squadron]] of short-range [[Starfighter/Legends|starfighters]].
+
+However, many of these ships, especially those assigned to group operations, were slow to receive their starfighters. The ''Sacheen''-class was equipped with a very fast Class 1 [[Hyperdrive/Legends|hyperdrive]].
+
+==History==
+Developed and produced by the [[Republic Engineering Corporation]], the ships of the ''Sacheen''-class were the smallest ships of the New Class capable of extended independent operations.
+
+While operating alone, or with only starfighter support, these ships were often used for patrol duty. When operating within a battle group, ''Sacheen''-class ships were usually assigned to screening duty for larger capital ships, or to escort convoys of [[Hajen-class fleet tender|''Hajen''-class fleet tenders]].
+
+While considered a light escort, the ''Sacheen'' was capable of engaging other capital ships with its heavy turbolaser cannons.
+
+Later, the ''Hajen''-class fleet tender was built on the same basic hull and systems of the ''Sacheen''. This practice for using the same basic design for multiple configurations was so successful that it was adopted for all later New Class designs.
+
+==Behind the scenes==
+The RPG sourcebook ''[[Cracken's Threat Dossier]]'' and ''[[The Essential Guide to Warfare]]'' state that the ''Sacheen'' classification is an "escort cruiser", although it would be an overestimation to call them cruisers, considering their size and armament. ''[[Shield of Lies]]'' identifies it as a "gun frigate".
+
+''Cracken's Threat Dossier'' also contains the only known official image of the ''Sacheen''. However, like the pictures of the other New Class ships, this picture violates information from the [[The Black Fleet Crisis|''Black Fleet Crisis'']] novels, on which ''Cracken's Threat Dossier'' is based. Specifically, the ''Hajen'' and ''Sacheen'' classes look nothing alike, even though they are supposed to be built upon the same hull design. Because of this, this picture has been labeled as erroneous and dismissed as non-[[canon]] by many fans.
+
+==Appearances==
+*''[[Shield of Lies]]'' {{1st}}
+*[[Shield of Lies (abridged audiobook)|''Shield of Lies'' abridged audiobook]]
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2000-04-04 -->[[The Essential Chronology (real-world book)|''The Essential Chronology'']]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WebCite|url=http://www.alternities.com/html/blackfleet.htm#fifth|text=''Star Wars The Black Fleet Crisis'' by Michael P. Kube-McDowell|work=[http://www.alternities.com/default.html Michael P. Kube-McDowell's website]|archivedate=20240302165643}}
+
+{{NewClassNav}}
+
+{{Interlang
+|es=Escolta ligera clase Sacheen
+}}
+
+[[Category:Frigate classes]]
+[[Category:New Class starship classes]]
+
+{{RelatedCategories
+|[[Category:Sacheen-class light escorts]]
+}}

@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=[[File:SRV1ScoutAndRetrievalVehicle-TheDarkStryderCampaign.jpg]]
+|name=SRV-1 Scout and Retrieval Vehicle
+|designer=
+|manufacturer=
+|line=
+|model=SRV-1
+|type=
+|cost=*7,500 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="TUR">''[[The Unknown Regions]]''</ref>
+*3,000 credits {{C|used}}<ref name="TUR" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=[[Blaster cannon/Legends|Medium blaster cannon turret]] (2) {{C|military version}}<ref name="TUR" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Pilot (1)<ref name="Cadinth">{{GalaxyCite|2|The Battle of Cadinth}}</ref>
+*Co-pilot (1)<ref name="Cadinth" />
+*Gunners (2)<ref name="Cadinth" />
+|skeleton=
+|passengers=8<ref name="Cadinth" />
+|capacity=3 metric tons<ref name="Cadinth" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="TUR" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]<ref name="Cadinth" />
+}}
+The '''SRV-1 New Republic Scout and Retrieval Vehicle''' was a treaded vehicle used by the [[New Republic/Legends|New Republic]] shortly after the [[Battle of Endor/Legends|Battle of Endor]]. It was driven by two soldiers, in addition to two useable turrets above the cockpit. It was capable of carrying up to eight soldiers, or three metric tons. The SRV-1 was later adapted into the [[Scout and Retrieval Vehicle/Repulsorlift]], or SRV/R-1.<ref name="Cadinth" />
+
+==Behind the scenes==
+The SRV-1 was based on a concept for a vehicle that would have been part of a proposed but ultimately rejected extension of [[Kenner Products|Kenner's]] ''[[Star Wars]]'' toy line, ''[[The Epic Continues]]''<ref name="Tales">{{GalaxyCite|2|Galactic Bazaar|Galactic Bazaar: Tales of Phantom Toys}}</ref>. An earlier version of the toy had been proposed years earlier as an unseen vehicle used by Rebels on [[Hoth/Legends|Hoth]]<ref name="Concept">{{WebCite|url=http://theswca.com/index.php?action=disp_item&item_id=48885|text=Concept Model of Unproduced Hoth Vehicle|work=The Star Wars Collectors Archive|archivedate=20181022230235}}</ref>, but Kenner's new version was presented two ways: as a slightly modified version of the original toy's prototype<ref name="swfsrv1">{{WebCite|url=http://theswca.com/index.php?action=disp_item&item_id=50987|text=1985-86 Line Extension Presentation Binder Page 29 - Rebel SRV-1 Scout and Retrieval Vehicle|work=The Star Wars Collectors Archive|archivedate=20161118020506}}</ref>, and a heavily modified version presented as concept art<ref name="swfsrv2">{{WebCite|url=http://theswca.com/index.php?action=disp_item&item_id=50988|text=1985-86 Line Extension Presentation Binder Page 30 - Rebel SRV-1 Scout and Retrieval Vehicle|work=The Star Wars Collectors Archive|archivedate=20161118020513}}</ref>.
+
+The vehicle and other toy concepts were added to the ''[[Star Wars Legends|Legends]]'' continuity in "[[The Battle of Cadinth]]" story and roleplaying game article from [[Star Wars Galaxy Magazine 2|''Star Wars Galaxy Magazine'' 2]].<ref name="Cadinth" />
+
+==Appearances==
+[[File:Nightfalcon-srv1-tur.jpg|thumb|250px|A SRV-1 deploying a Nightfalcon speeder bike.]]
+*{{GalaxyCite|2|The Battle of Cadinth}} {{1st}}
+*{{DarkStryder|adventure=Home (adventure)|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Showdown (The Kathol Rift)|book=The Kathol Rift|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+
+===Non-canon appearances===
+*<!-- Canceled -->''[[The Epic Continues]]'' {{C|Cancelled}}
+
+==Sources==
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+*<!-- 2013-10-14 -->{{SW|url=news/offscreen-but-not-forgotten-mini-rigs-body-rigs-and-other-kenner-vehicles|text=Offscreen, but Not Forgotten: Mini-Rigs, Body-Rigs, and Other Kenner Vehicles|int=Offscreen, but Not Forgotten: Mini-Rigs, Body-Rigs, and Other Kenner Vehicles|nolive=1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Crawler and wheeled vehicle models]]
+[[Category:Vehicle classes of the New Republic]]
+[[Category:Cut content from The Epic Continues]]

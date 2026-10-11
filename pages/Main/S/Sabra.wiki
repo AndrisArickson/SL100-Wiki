@@ -1,0 +1,100 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:Sabra1.jpg]]
+|name=''Sabra''
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="SWXWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=[[YT-series/Legends|YT-series]]<ref name="SWXWA" />
+|model=Modified [[YT-1300 light freighter/Legends|YT-1300 light freighter]]<ref name="SWXWA" />
+|type=[[Light freighter/Legends|Light freighter]]<ref name="SWXWA" />
+|cost=
+|modifier=[[Azzameen family]]<ref name="XWAPrima">[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]</ref>
+|sysmods=
+|length=34.75 [[Meter/Legends|meters]]<ref name="FalconManual">The resource guide ''[[Millennium Falcon Owner's Workshop Manual]]'' gives the length of a [[YT-1300 light freighter/Legends|YT-1300 light freighter]] as 34.75 meters.</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=88 [[Megalight|MGLT]]<ref name="SWXWA" />
+|max speed=
+|maneuverability=64 [[DPF/Legends|DPF]]<ref name="SWXWA" />
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 120 [[SBD/Legends|SBD]]<ref name="SWXWA" />
+|hull=Rated 76 [[RU/Legends|RU]]<ref name="SWXWA" />
+|sensor=
+|target=
+|navigation=Equipped<ref name="SWXWA" />
+|avionics=
+|maincomp=
+|countermeasures=*[[Chaff/Legends|Chaff]] {{C|optional}}<ref name="SWXWA" />
+*[[Flare/Legends|Flares]] {{C|optional}}<ref name="SWXWA" />
+|armament=*[[Laser cannon/Legends|Laser cannon]] {{C|1}}<ref name="SWXWA" />
+*Laser cannon [[Turret/Legends|turret]] {{C|1}}<ref name="SWXWA" />
+*[[Warhead/Legends|Warhead]] launcher {{C|2}}<ref name="SWXWA" />
+**3 [[Proton torpedo/Legends|proton torpedoes]] each<ref name="SWXWA" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=Equipped<ref name="SWXWA" />
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=*[[Azzameen family]]<ref name="SWXWA" />
+*[[Twin Suns Transport Services/Legends|Twin Suns Transport Services]]<ref name="SWXWA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] {{C|Private vessel used in Alliance missions}}<ref name="SWXWA" />
+|navy=
+|fleet=
+|owners=[[Azzameen family]]<ref name="SWXWA" />
+|captains=*[[Ace Azzameen/Legends|Ace Azzameen]]<ref name="SWXWA" />
+*[[Aeron Azzameen]]<ref name="SWXWA" />
+|registry=
+|aliases=
+}}
+{{Quote|This ship looks great, if I do say so myself. It is in the best shape I have ever seen it. I cannot wait to take it out on a combat mission.|[[MK-09]]|<ref name="XWA characters">{{LucasArts|url=products/alliance/xwa_characters.htm|text=XWA: Characters}}</ref>}}
+The '''''Sabra''''' was one of two [[YT-1300 light freighter/Legends|YT-1300]] transports owned and operated by the [[Azzameen family]], the other being the ''[[Selu]]''.
+
+==History==
+[[File:MKSabra.jpg|thumb|left|[[MK-09/Legends|MK-09]] looks out from the cockpit of the ''Sabra''.]]
+The ''Sabra'' was operated by [[Ace Azzameen/Legends|Ace Azzameen]] during his early family missions and later used by [[Aeron Azzameen]] when Ace joined the [[Alliance to Restore the Republic/Legends|Rebellion]].
+
+The ''Sabra'' took part in many missions for the Azzameen family, and gave good service in all of them. On one occasion, she escaped a large [[Galactic Empire/Legends|Imperial]] strike force which included a [[Star Destroyer/Legends|Star Destroyer]].
+
+Her most famous feat was participating in the theft of the [[Shuttle/Legends|shuttle]] [[Tydirium/Legends|''Tydirium'']]. Ace Azzameen, piloting the ''Sabra'', landed at the outpost, disguised as a supplies ship. While Azzameen and his co-pilot [[MK-09/Legends|MK-09]] stalled the facility commander, the Rebel Commandos hidden on the ship sneaked out and captured the ''Tydirium''. As they tried to escape, the Imperial forces in the area scrambled [[TIE/sa tactical bomber/Legends|TIE/sa bombers]] to intercept them. With the ''Sabra'' escorting it, the ''Tydirium'' raced to get to the hyperspace point. Azzameen called in [[Rogue Squadron/Legends|Rogue Squadron]] to aid in the operation, and the ''Tydirium'' successfully escaped.
+
+The ''Sabra'' was a tough, reliable ship and had a place in the hearts of the Azzameen family.
+
+==Behind the scenes==
+The computer models and textures for both the cinematic and the in-flight appearances of the Sabra and Selu are identical to the one used for the Millennium Falcon model, with the exception of the sensor rectenna and belly turret.
+
+==Appearances==
+*''[[Star Wars: X-Wing Alliance]]''
+
+==Sources==
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2004-11-03 -->{{Wizards|url=default.asp?x=swminis/article/stealingshuttle|text=Stealing the Shuttle|int=Stealing the Shuttle}}
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Sabra}}
+{{Reflist}}
+
+{{Interlang
+|de=Sabra
+|pl=Sabra
+}}
+
+[[Category:Starships of Twin Suns Transport Services]]
+[[Category:YT-1300 light freighters]]

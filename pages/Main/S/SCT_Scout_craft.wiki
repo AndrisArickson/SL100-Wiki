@@ -1,0 +1,96 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mesens_Corp_SCT.jpg]]
+|name=SCT Scout craft
+|designer=
+|manufacturer=[[Mesens Corporation]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=SCT Scout Craft<ref name="XWA" />
+|type=[[Transport/Legends|Transport]]<ref name="XWA" />
+|cost=1.2 million [[Galactic Credit Standard/Legends|credits]]<ref name="Unknown">''[[The Unknown Regions]]''</ref>
+|modifier=
+|sysmods=
+|length=75 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=820 [[Kilometer per hour/Legends|km/h]]<ref name="Unknown" />
+|maneuverability=
+|engine=3 primary and 2 secondary sublight engines
+|hyperdrive=*x3 {{C|primary}}<ref name="Unknown" />
+*x12 {{C|backup}}<ref name="Unknown" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 200 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 114 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=Advanced sensor package for long range reconnaissance
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Dual [[Turbolaser/Legends|turbolaser]] turret (1)
+*Dual [[Laser cannon/Legends|laser cannon]] turret (2)
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="XWA" />
+|skeleton=
+|passengers=8<ref name="XWA" />
+|capacity=275 [[Metric ton/Legends|tons]]<ref name="Unknown" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="Unknown" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Long range reconnaissance vessel
+|firstuse=
+|retired=
+|affiliation=Various
+}}
+The [[Mesens Corporation]] '''SCT Scout Craft''' were long range reconnaissance vessels, commonly used for deep space patrols on the far edges of [[Star system/Legends|planetary systems]].
+
+==Characteristics==
+[[File:Mesens_SCT_large.jpg|thumb|left]]
+
+Nearly three times the length of the common [[YT-1300 light freighter/Legends|YT-1300 light freighter]], the SCT scout craft were lightly armed for their size. A large ventral twin-[[Turbolaser/Legends|turbolaser]] turret protected the craft's underside, whereas the dorsal area was covered by a pair of smaller laser turrets, one housed on either side. These defensive armaments were often enough to deter [[Starfighter/Legends|starfighters]] until the vessel could escape to [[Hyperspace/Legends|hyperspace]], although they clearly revealed that the vessel was not intended to be at the center of a battle.
+
+The vessel's most notable feature, however, was its prominent sensor dish, located beneath the bridge. This was the key component that enabled the Scout Craft to fulfill its function admirably.
+
+[[File:Ranger_Schematic.jpg|thumb|left|Multiple views of the Mesens Corp. scout craft.]]
+
+The craft were not commonly seen, however this was probably due to the predominantly clandestine nature of their missions. Popular with various groups throughout [[The galaxy/Legends|the galaxy]], the SCT scout craft was observed in the employ of both legitimate authorities and outlaw groups.
+
+===Notable vessels===
+*''[[Omicron 023]]''
+*''[[Ravenno]]''
+
+==Appearances==
+*[[Star Wars: TIE Fighter Collector's CD-ROM|''Star Wars: TIE Fighter'' Collector's CD-ROM]] {{1st}}
+*''[[Star Wars: X-Wing Alliance]]''
+
+==Sources==
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+
+==Notes and references==
+{{Mediacat|imagecat=Images of SCT Scout craft}}
+{{Reflist}}
+
+{{Interlang
+|de=SCT-Scoutschiff
+|pl=Statek zwiadowczy
+}}
+
+[[Category:Mesens Corporation products]]
+[[Category:Scout starship classes]]
+
+{{RelatedCategories
+|[[Category:SCT Scout craft]]
+}}
