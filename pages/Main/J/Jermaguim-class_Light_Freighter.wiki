@@ -1,0 +1,71 @@
+{{Top|leg|title=''Jermaguim''-class Light Freighter}}
+{{Image}}
+{{StarshipClass
+|image=
+|name=''Jermaguim''-class Light Freighter
+|designer=
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="FSS">{{WEGCite|story=Freedom Strike Seltos (adventure)|book=Twin Stars of Kira (sourcebook)}}</ref>
+|line=
+|model=
+|type=[[Light freighter/Legends|Light freighter]]<ref name="FSS" />
+|cost=28,000 credits {{C|used}}<ref name="P&P">''[[Pirates & Privateers]]''</ref>
+|modifier=
+|sysmods=
+|length=25 [[Meter/Legends|meters]]<ref name="FSS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="FSS" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2.0]]<ref name="P&P" />
+*[[Backup hyperdrive|Class 12]] {{C|backup}}<ref name="FSS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FSS" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="FSS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]]<ref name="P&P" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="FSS" />
+|skeleton=
+|passengers=8<ref name="FSS" />
+|capacity=
+|cargohandling=85 [[Metric ton/Legends|metric tons]]<ref name="FSS" />
+|consumables=2 [[Standard month/Legends|months]]<ref name="FSS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]<ref name="FSS" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Jermaguim''-class Light Freighter''', also known as the '''''Jermaguim''-class light cruiser''', was a [[Freighter/Legends|freighter]] of average design and popularity.
+
+{{Ship-stub}}
+
+==Appearances==
+*{{WEGCite|story=Freedom Strike Seltos (adventure)|book=Twin Stars of Kira (sourcebook)}} {{1st}}
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|''Jermagium''-class light cruiser}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]
+[[Category:SoroSuub Corporation products]]
