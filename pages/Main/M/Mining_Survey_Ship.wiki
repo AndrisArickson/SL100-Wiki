@@ -1,0 +1,68 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Brightseeker.jpg]]
+|name=Mining Survey Ship
+|designer=
+|manufacturer=[[Merrick and Kalb Industries]]<ref name="LD">{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}</ref>
+|line=
+|model=
+|type=[[Mining ship]]<ref name="LD" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Survey vessel<ref name="LD" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mining Survey Ship''' was a model of [[Starship/Legends|starship]] manufactured by [[Merrick and Kalb Industries]]. The ''[[Bright Seeker]]'', a vessel operated by [[House Calipsa]], was a modified Mining Survey Ship.<ref name="LD" />
+
+==Appearances==
+*{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Merrick and Kalb Industries products]]
+[[Category:Mining starship classes]]
+[[Category:Scout starship classes]]
+
+{{RelatedCategories
+|[[Category:Mining Survey Ships]]
+}}

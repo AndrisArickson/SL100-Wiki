@@ -1,0 +1,63 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Mining Outpost Station
+|designer=
+|manufacturer=[[YsreTech]]<ref name="TFAD">{{JournalCite|6|To Fight Another Day}}</ref>
+|line=
+|model=
+|type=[[Space station/Legends|Space station]]<ref name="TFAD" />
+|cost=
+|modifier=
+|sysmods=
+|length=400 [[Meter/Legends|meters]]<ref name="TFAD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="TFAD" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="TFAD" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=10<ref name="TFAD" />
+|skeleton=
+|passengers=100<ref name="TFAD" />
+|capacity=1,000 [[Metric ton/Legends|metric tons]]<ref name="TFAD" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="TFAD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mining Outpost Station''' was a class of [[Space station/Legends|space station]] manufactured by [[YsreTech]]. [[Silver Station]] was a station of this class.
+
+==Appearances==
+*{{JournalCite|6|To Fight Another Day|reprint=1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Space station classes]]
+[[Category:YsreTech products]]

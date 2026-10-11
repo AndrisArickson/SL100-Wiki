@@ -1,0 +1,109 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:RoboHack-FF70.png]]
+|name=Metrocab Robo-Hack Landspeeder
+|designer=
+|manufacturer=*[[GoCorp/Legends|GoCorp]]<ref name="HSCSSB">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+*[[Utilitech/Legends|Utilitech]]<ref name="HSCSSB" />
+|line=
+|model=
+|type=[[Landspeeder/Legends|Landspeeder]]<ref name="HSCSSB" />
+|cost=*15,000<ref name="HSCSSB" />&mdash;20,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="AEG">''[[Arms & Equipment Guide]]''</ref>
+*7,000 credits (used)<ref name="AEG" />
+|modifier=
+|sysmods=
+|length=6 [[Meter/Legends|meters]]<ref name="HSCSSB" />
+|width=2-3 meters<ref name="FF70">{{FactFile|70|HAC 1-2|Robo-Hack}}</ref>
+|height=2-3 meters<ref name="FF70" />
+|mass=
+|max accel=
+|speed=300 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="HSCSSB" />
+|max alt=
+|maneuverability=
+|engine=[[Repulsorlift/Legends|Repulsorlift]]<ref name="EGTD">''[[The Essential Guide to Droids]]''</ref>
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=Integrated [[Droid brain/Legends|droid module]]<ref name="HSCSSB" />
+|skeleton=
+|passengers=4<ref name="AEG" />
+|capacity=100 [[Kilogram/Legends|kilograms]]<ref name="AEG" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Metrocab Robo-Hack Landspeeder''' was a model of automated taxis jointly designed and manufactured by [[GoCorp/Legends|GoCorp]] and [[Utilitech/Legends|Utilitech]].
+
+==Description==
+The Metrocab Robo-Hack Landspeeder was an automated [[Air taxi/Legends|taxi]] fitted with a simple [[Droid brain/Legends|droid brain]]. The premise was a simple one; take a [[Droid/Legends|droid's]] cognitive module and install it in a pre-existing passenger vehicle. The result was a [[Landspeeder/Legends|landspeeder]] that could direct itself along the streets and freeways of large metropolitan [[City/Legends|cities]] and settlements. Vehicles fitted with droid brains were usually more efficient that ones with an organic driver, and were also cheaper to operate.<ref name="EGTD" />
+
+Metrocabs were enclosed landspeeders with brightly colored exteriors measuring six [[Meter/Legends|meters]] in length. Due to the Metrocabs being targeted by criminals when they were introduced in order to steal their [[Galactic Credit Standard/Legends|credits]], newer models were constructed with resilient [[Armor/Legends|armor]] plating that was capable of resisted small-arms fire. A pair of forward-facing [[headlight]]s were attached to the landspeeder's undercarriage. Mounted on the roof was a indicator light advertizing that the vehicle was available for hire.<ref name="EGTD" /> The Metrocab was propelled by heavy suspension [[repulsorlift motor]]s capable of driving the vehicle at speeds of up to three hundred [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]].<ref name="HSCSSB" />
+
+[[File:RoboHack-EGTD.jpg|thumb|left|180px|Robo-Hack schematics]]
+The [[Class five droid/Legends|fifth-degree]]<ref name="AEG" /> droid brain and performance circuitry was installed in a sealed forward compartment, and the module was programmed with complete local street maps. Metrocabs were also fitted with a [[Central Learning Chip]] that gave them the capacity to devise shortcuts based on their previous experiences. This system could also be exploited;<ref name="EGTD" /> it was rumored that some Metrocabs were purposely programmed to add extra [[Kilometer/Legends|kilometers]]<ref name="HSCSSB" /> by calculating longer, more expensive routes between two points which could be used to defraud tourists<ref name="EGTD" /> and maximize revenue.<ref name="HSCSSB" />
+
+Where possible, Metrocabs could access data from municipal systems such as [[Planet/Legends|planetary]] communications and transportation networks,<ref name="HSCSSB" /> ingesting information including traffic patterns, local weather conditions, accident locations, or other issues with the roadways<ref name="EGTD" /> that could affect the journey.<ref name="HSCSSB" /> [[Situational tracking sensor]]s mounted above the headlights gave the droid brain data that allowed it to perform lane-changing maneuvers, and a rear-mounted [[panoramic optical sensor]] served as a rear view mirror.<ref name="EGTD" />
+
+A rear compartment with sparse accommodations was reserved for the taxi's passengers. The cabin featured a single back seat capable of seating up to four passengers. [[Speaker/Legends|Speakers]] tuned to a local [[Music/Legends|musical]] broadcast were built into the cabin, and a [[snuff-pot]] was included for the disposal of [[Cigarra/Legends|cigarras]].<ref name="EGTD" /> Some models were fitted with [[visi-screen]]s that displayed adverts for local businesses.<ref name="FF85">{{FactFile|85|HAC 3-4|Robo-Hack}}</ref> The frequent use that Metrocabs saw meant that the interiors were worn, grimy, and smelled bad. Those using the taxis on a regular basis soon became immune to the neglect.<ref name="EGTD" />
+
+Metrocabs could be hailed by a voice command, a hand gesture, or via a simple device that could be purchased.<ref name="FF70" /> An [[Audio sensor/Legends|audio sensor]] was mounted on the rear cabin's front wall, and passengers used this to announce their intended destination to the droid brain.<ref name="EGTD" /> The droid brain was capable of understanding almost as many [[Language/Legends|languages]] as a [[3PO-series protocol droid/Legends|3PO-series protocol droid]].<ref name="FF70" /> If the droid brain needed to clarify any details, they communicated with the passengers via a [[Vocabulator/Legends|vocoder]],<ref name="EGTD" /> although its vocabulary was limited.<ref name="FF70" /> Payment for the ride was collected once the taxi had reached its destination using either a [[credit voucher]] inserted into a [[Dataport/Legends|dataport]], or local [[Currency/Legends|currency]] being deposited into a change slot. In the event of a passenger attempting to leave before making payment, some Metrocabs could look the doors and were capable of driving to the nearest [[Law enforcement agency/Legends|police]] facility so the offenders could be dealt with.<ref name="EGTD" />
+
+==Role==
+The Metrocab Robo-Hack were for-hire private vehicles, commonly found on planets with crowded [[City/Legends|cities]] where many citizens could not afford to maintain a personal vehicle.<ref name="HSCSSB" />
+
+==History==
+[[File:RoboHack2-FF70.png|thumb|right|250px|Rear view of a Robo-Hack]]
+Metrocabs were first introduced as a joint venture between [[GoCorp/Legends|GoCorp]]/[[Utilitech/Legends|Utilitech]] several [[Standard century/Legends|centuries]] prior to the [[Galactic Civil War/Legends|Galactic Civil War]]. When they were first introduced, Metrocabs were often targeted and destroyed by street gangs eager to get to the [[Galactic Credit Standard/Legends|credits]] held inside. In response, later versions were covered with armor plating designed to make them resistant to any form of small arms fire. Metrocabs were found operating throughout [[The galaxy/Legends|the galaxy]] from the [[Core Worlds/Legends|Core Worlds]] to the [[Outer Rim Territories/Legends|Outer Rim Territories]].<ref name="EGTD" />
+
+==Appearances==
+*''[[Boba Fett: Maze of Deception]]''
+*''[[Kinect Star Wars]]''
+*{{LivingForce|Decision: Coruscant}}
+*''[[Rebel Dawn]]''
+*''[[Han Solo at Stars' End]]'' {{1st}}
+*''[[Han Solo and the Lost Legacy]]''
+*{{JournalCite|6|Ringers (short story)|reprint=1}}
+*''[[Imperial Double-Cross]]''
+*{{WEGCite|story=Treasure Hunt (adventure)|book=Twin Stars of Kira (sourcebook)}}
+
+==Sources==
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1997-08-XX -->{{JournalCite|14|Cynabar's Droid Datalog (article series)}}
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2002-10-XX -->''[[Arms & Equipment Guide]]''
+*<!-- 2003-04-30 -->{{FactFile|70|HAC 1-2|Robo-Hack}}
+*<!-- 2003-08-13 -->{{FactFile|85|HAC 3-4|Robo-Hack}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|nl=Utilitech Metrocab
+}}
+
+[[Category:Droid vehicle models]]
+[[Category:GoCorp products]]
+[[Category:Speeder taxi models]]
+[[Category:Utilitech products]]

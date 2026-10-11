@@ -1,0 +1,69 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mobileminingbarquegg8a.jpg]]
+|name=Mining Barque
+|designer=
+|manufacturer=[[Trilon, Inc./Legends|Trilon, Inc.]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=
+|type=Mobile [[Mining/Legends|mining]] vehicle<ref name="GG8" />
+|cost=
+|modifier=
+|sysmods=
+|length=80 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=400 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 4]]<ref name="GG8" />
+*[[Backup hyperdrive|Class 9]]<ref name="GG8" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="GG8" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="GG8" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="GG8" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Heavy [[Mining laser/Legends|mining laser]]<ref name="GG8" />
+*[[Turbolaser/Legends|Turbolaser]]<ref name="GG8" />
+|complement=
+|bays=
+|escapepods=
+|crew=3<ref name="GG8" />
+|skeleton=
+|passengers=6<ref name="GG8" />
+|capacity=*3,000 [[Metric ton/Legends|metric tons]]<ref name="GG8" />
+*1,000 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=4 [[Standard month/Legends|months]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Mining vessel<ref name="GG8" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Mining Barques''' were 80-[[Meter/Legends|meter]] long work ships manufactured by [[Trilon, Inc./Legends|Trilon, Inc.]] They carried three crew, six passengers, 3,000 [[Metric ton/Legends|metric tons]] (1,000 [[Cubic meter/Legends|cubic meters]]) of cargo, and 4 [[Standard month/Legends|months']] consumables. They had a class 4 [[Hyperdrive/Legends|hyperdrive]], a class 9 [[Backup hyperdrive|backup]], a [[Navigation computer/Legends|navigation computer]], and the ability to achieve 400 [[Kilometer/Legends|km]][[Standard hour/Legends|h]] in atmosphere. They were equipped with automated mining equipment, a [[Sensor/Legends|sensor]] array designed to detect precious metals, [[Deflector shield/Legends|shields]], a forward [[Turbolaser/Legends|turbolaser]], and a heavy [[Mining laser/Legends|mining laser]]. Though the laser was intended for strip mining, it could easily penetrate a small ship's hull.
+
+==Behind the scenes==
+While the text describes the vehicle as having several small "cutting blasters" or "underbelly lasers," the stats only describe a single "heavy mining laser."
+
+==Sources==
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Mining starship classes]]
+[[Category:Trilon, Inc. products]]

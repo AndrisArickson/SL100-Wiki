@@ -1,0 +1,66 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Methane_sifter.jpg]]
+|name=Methane Sifter Ramjet
+|designer=
+|manufacturer=[[Bespin Motors/Legends|Bespin Motors]]<ref name="GFT">''[[Galladinium's Fantastic Technology]]''</ref>
+|line=
+|model=Exotic [[Atmosphere/Legends|atmosphere]] [[hovercraft]]<ref name="GFT" />
+|type=
+|cost=30,000 [[Galactic Credit Standard/Legends|credits]]<ref name="GFT" />
+|modifier=
+|sysmods=
+|length=15 [[Meter/Legends|meters]]<ref name="GFT" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=225 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GFT" />
+|max alt=3 meters<ref name="GFT" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="GFT" />
+|skeleton=1<ref name="GFT" />
+|passengers=1<ref name="GFT" />
+|capacity=150 [[Kilogram/Legends|kilograms]] (300 kilograms with no passengers)<ref name="GFT" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Civilian transport<ref name="GFT" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Methane Sifter Ramjet''' was a [[hovercraft]] designed to operate on [[Planet/Legends|planets]] with dense atmospheres rich in [[Ammonia/Legends|ammonia]], [[Methane/Legends|methane]] and similar gases, for which normal [[Repulsorlift/Legends|repulsorlift]] vehicles were not suited.
+
+==Characteristics==
+The vehicle employed twin ramjet scoops to draw the dense atmosphere into its compressed ignition chamber, where the gases would be burned to produce the necessary energy to power the large hover vanes. The result was an efficient and virtually noiseless propulsion system.
+
+==History==
+The Methane Sifter was favored by scouts and other explorers of inhospitable worlds.
+
+==Sources==
+*<!-- 1995-06-XX -->''[[Galladinium's Fantastic Technology]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Atmospheric repulsorcraft models]]
+[[Category:Bespin Motors products]]
