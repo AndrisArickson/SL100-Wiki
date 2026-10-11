@@ -1,0 +1,110 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:MC40a_light_cruiser_AoRSR.png]]
+|name=MC40a light cruiser
+|designer=
+|manufacturer=[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]<ref name="TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+|line=[[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruisers]]
+|model=MC40a light cruiser<ref name="TF" />
+|type=[[Light cruiser/Legends|Light cruiser]]<ref name="TF" />
+|cost=15,500,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SOR">''[[Strongholds of Resistance]]''</ref>
+|modifier=
+|sysmods=
+|length=500&ndash;600 [[Meter/Legends|meters]]<ref name="TF" /><ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=4 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA" />
+|mglt=>60 MGLT<ref name="XWA" />
+|max speed=
+|maneuverability=
+|engine=3 thrusters<ref name="XWA" />
+|hyperdrive=*Class 1<ref name="SOR" />
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="SOR" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 1696 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 784 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Medium Turbolaser]] turrets (14)<ref name="SOR" />
+*[[Concussion missile/Legends|Concussion Missile]] launchers (2)
+**Standard load: 25 [[Concussion missile/Legends|concussion missiles]] each<ref name="XWA" />
+*[[Ion cannon/Legends|Medium Ion cannons]] (18)<ref name="SOR" />
+*Heavy [[Tractor beam/Legends|tractor beam]] projectors (6)<ref name="SOR" />
+|complement=[[Starfighter/Legends|Starfighter]] [[Squadron/Legends|squadron]] (1)<ref name="XWA" />
+|bays=
+|escapepods=
+|crew=*Crewmen (3,723)<ref name="XWA" />
+*[[Gunner/Legends|Gunners]] (35)
+|skeleton=
+|passengers=650 troops<ref name="XWA" />
+|capacity=
+|cargohandling=
+|consumables=2 [[Standard year/Legends|years]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Light cruiser<ref name="TF" />
+*[[Carrier/Legends|Carrier]]<ref name="XWA" />
+|firstuse=
+|retired=
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="TF" />
+*[[Dimok government]]<ref name="TF" />
+*[[Rneekii|Rneekii pirates]]<ref name="TF" />
+*[[Galactic Alliance Remnant]]<ref name="Star Wars: Legacy—War 5">[[Legacy — War 5|''Legacy — War'' 5]]</ref>
+}}
+The '''MC40a light cruiser''' or '''Mon Calamari Light Cruiser''' was a [[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruiser]] design.<ref name="TF" />
+
+==Characteristics==
+[[File:CRL-XWA.jpg|thumb|left|250px|Profile view of an MC40a light cruiser]]
+The MC40 was a small [[Alliance to Restore the Republic/Legends|Rebel]] cruiser, larger than the [[Galactic Empire/Legends|Imperial]] [[Strike-class medium cruiser|''Strike''-class medium cruiser]].
+It was equipped with powerful [[Deflector shield/Legends|shields]] for a vessel of its size. Its three engines gave it a higher speed than the bigger [[MC80a Star Cruiser]], and it was more maneuverable.
+The MC40 had a large, portside hangar and could carry one [[Starfighter/Legends|starfighter]] [[Squadron/Legends|squadron]].<ref name="TF" />
+
+==History==
+The MC40 [[Light cruiser/Legends|light cruiser]] was constructed some time prior to the [[Battle of Hoth/Legends|Battle of Hoth]].<ref name="TF" /> It saw heavy use in the year leading up to the [[Battle of Endor/Legends|Battle of Endor]].<ref name="XWA" />
+
+Ships of this kind accompanied larger vessels like the [[MC80 Star Cruiser/Legends|MC80 Star Cruiser]].<ref name="XWA" /> During the [[Yuuzhan Vong War]] the New Republic relocated most of its fleet to Kuat. These ships consisted of many Mon Calamari cruisers including MC40s and was established to strike the [[Yuuzhan Vong]].
+
+==Appearances==
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']] {{1st}}
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''
+*''[[The New Jedi Order: Balance Point]]''
+*[[Legacy — War 5|''Legacy — War'' 5]]
+
+==Sources==
+{{Mediacat|imagecat=Images of MC40a light cruisers}}
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2016-06-XX -->{{FFGTCG|set=Galactic Ambitions|cardname=MC40a Light Cruiser|link=galactic-ambitions/mc40a-light-cruiser-r1619}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Lehký křižník MC40a
+|de=MC40a-Sternkreuzer#legends
+|es=Crucero ligero MC40a/Leyendas
+|fr=Croiseur léger MC40a
+|pl=MC40a
+}}
+
+[[Category:Light cruiser classes]]
+[[Category:Mon Calamari cruiser variants|MC040a]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+
+{{RelatedCategories
+|[[Category:MC40a light cruisers]]
+}}

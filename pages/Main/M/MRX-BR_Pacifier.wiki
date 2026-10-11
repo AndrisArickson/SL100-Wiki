@@ -1,0 +1,106 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mrxbrpacificer.jpg]]
+|name=MRX-BR Pacifier
+|designer=
+|manufacturer=[[Sydon Vehicle Works]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=
+|type=[[Scout ship/Legends|Scout vessel]]
+|cost=*170,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="TUR">''[[The Unknown Regions]]''</ref>
+*100,000 credits {{C|used}}<ref name="TUR" />
+|modifier=
+|sysmods=
+|length=25 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,200 [[Kilometer/Legends|kph]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=*x1<ref name="ND">[[No Disintegrations (West End Games)|''No Disintegrations'']]</ref>
+*x5 {{C|backup}}<ref name="GG6">[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]</ref><ref name="TUR" />
+*x8 {{C|backup}}<ref name="ND" /><ref name="GG8" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Proton torpedo/Legends|Proton torpedo]] launchers (2)<ref name="GG8" />
+*[[Laser cannon/Legends|Laser cannons]] (3)<ref name="GG8" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="GG8" />
+|skeleton=
+|passengers=3<ref name="GG8" />
+|capacity=25 [[Metric ton/Legends|metric tons]]<ref name="TUR" />, 10 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=1 [[Standard year/Legends|year]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Exploration
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+*Independent scouts<ref name="TUR" />
+}}
+The '''MRX-BR Pacifier''' was a [[Scout/Legends|scout]] vehicle produced by [[Sydon Vehicle Works]].
+
+==History==
+[[File:Mrx-br-tur.jpg|thumb|left|A schematic of a MRX-BR Pacifier]]
+The Pacifier was the [[Galactic Empire/Legends|Galactic Empire's]] [[Scout ship/Legends|scout vessel]] of choice. It was designed to act as either a high-tech contact [[Starship/Legends|vessel]] or as a powerful assault vessel, successful in both roles. The Empire employed this craft to seek out new [[Planet/Legends|worlds]] and if necessary, deliver a devastating strike to them. Though it normally held three [[Gunner/Legends|gunners]], powerful [[Computer/Legends|computer]]-controlled weapons enabled the craft to inflict maximum destruction with minimal effort with a single [[Pilot/Legends|pilot]].
+
+The Pacifier was equipped with some of the most powerful sensor arrays built in its era and its sensors were capable of counting the number of leaves on a particular tree from orbit.<ref name="GG8" /> The [[New Republic/Legends|New Republic]] considered this craft too provocative for encounters with frightened primitives and discontinued use of it.
+
+==Known ships==
+*[[Arbalest (MRX-BR Pacifier)|''Arbalest'']]<ref name="ND" />
+*''[[Fingertip Express]]''<ref name="VF">''[[Vision of the Future]]''</ref>
+*[[Vanquisher (MRX-BR Pacifier)|''Vanquisher'']]<ref name="SWAJ10">{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}</ref>
+*''[[Shindra Lily]]''<ref name="Lords of the Expanse">''[[Lords of the Expanse]]''</ref>
+*''[[Sudden Death]]''<ref name="GG6" />
+
+==Appearances==
+*{{WEGCite|story=Seregar Turnabout|book=No Disintegrations (West End Games)}} {{1st}}
+*{{WEGCite|story=Running the Sisar|book=Secrets of the Sisar Run}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+
+===Non-canon appearances===
+*<!-- 2000-XX-XX -->"[[Child of Light]]" {{Un}}
+*<!-- 2001-01-XX -->"[[Light and Dark (adventure)|Light and Dark]]" {{Mo}} {{Un}}
+
+==Sources==
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 1994-03-XX -->[[Galaxy Guide 6: Tramp Freighters (Second Edition)|''Galaxy Guide 6: Tramp Freighters'', Second Edition]]
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2010-04-20 -->''[[The Unknown Regions]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=MRX-BR Pacifier
+}}
+
+[[Category:Scout starship classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Sydon Vehicle Works products]]
+
+{{RelatedCategories
+|[[Category:MRX-BR Pacifiers]]
+}}

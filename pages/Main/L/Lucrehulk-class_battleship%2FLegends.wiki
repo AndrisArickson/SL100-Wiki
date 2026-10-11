@@ -1,0 +1,306 @@
+{{Top|title=''Lucrehulk''-class battleship}}
+{{StarshipClass
+|image=[[File:Federationbattleship.jpg]]
+|name=''Lucrehulk''-class battleship
+|designer=
+|manufacturer=[[Hoersch-Kessel Drive, Inc./Legends|Hoersch-Kessel Drive, Inc.]]<ref name="E1:ICS">''[[Star Wars: Episode I Incredible Cross-Sections]]''</ref>
+|line=[[Lucrehulk-class|''Lucrehulk''-class]]<ref name="E1:ICS" />
+|model=Modified [[Lucrehulk-class LH-3210 cargo freighter/Legends|''Lucrehulk''-class LH-3210 cargo freighter]]<ref name="E1:ICS" />
+|type=[[Battleship/Legends|Battleship]]<ref name="E1:ICS" />
+|cost=Not for sale {{C|[[Black market/Legends|black market]] value 40,000,000 [[Galactic Credit Standard/Legends|credits]]}}<ref name="DSOTM">''[[Death Star Owner's Technical Manual]]''</ref>
+|modifier=
+|sysmods=
+|length=3,170 [[Meter/Legends|meters]]<ref name="E1:ICS" />
+|width=3,009 meters<ref name="encyclopedia">{{SWE|technology|tradefederationbattleship|Trade Federation battleship}}</ref>
+|height=1,028.77 meters<ref name="encyclopedia" />
+|mass=
+|max accel=300 g<ref name="E1:ICS" />
+|mglt=
+|max speed=500 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="E1:ICS" />
+|maneuverability=
+|engine=*[[Rendili StarDrive/Legends|Rendili StarDrive]] [[Proton 2/Legends|proton 2]] {{C|primary}}<ref name="E1:ICS" />
+*[[Proton 12]] {{C|secondary}}<ref name="E1:ICS" />
+|hyperdrive=*Class 2.0<ref name="E1:ICS" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="E1:ICS" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="E1:ICS" />
+|poweroutput=Peak {{C|[[Deflector shield/Legends|shields]]}}: &lt;1,08 × 10<sup>25</sup>&ndash;4.32 x 10<sup>25</sup> W<ref name="ROTS:ICS">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'', if the amount of ''Venator''s in a flotilla is between 3 and 12, as stated in [[The Clone Wars Campaign Guide]].</ref>
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Pre&ndash;[[Clone Wars/Legends|Clone Wars]] refitting:
+*[[Quad turbolaser cannon/Legends|Quad turbolaser batteries]] (42)<ref name="E1:ICS" />
+Clone Wars refitting:
+*Ring carrier:
+**[[Point-defense laser cannon/Legends|Point-defense]] [[Quad laser cannon/Legends|quad laser batteries]] (164)<ref name="SBP4">{{Wizards|url=default.asp?x=starwars/article/SBPreview4|text=''Starship Battles'' Preview 4}}</ref>
+**[[Laser cannon/Legends|Laser cannons]] (472)<ref name="SBP4" />
+*[[Quad turbolaser cannon/Legends|Quad turbolaser batteries]] (48)<ref name="E1:ICS" />
+*[[Core ship/Legends|Core ship]]:
+**Point-defense quad [[Laser/Legends|laser]] batteries (21)<ref name="SBP4" />
+**Assault laser cannons (48)<ref name="SBP4" />
+**Turbolasers (3)<ref name="SBP4" />
+|complement=*[[C-9979 landing craft/Legends|C-9979 landing craft]] (50)<ref name="E1:ICS" />
+*[[Vulture-class starfighter/Legends|''Vulture'' droid starfighters]] (1,500)<ref name="E1:ICS" />
+*[[Platoon Attack Craft/Legends|Troop carriers]] (1,500)<ref name="E1:ICS" />
+*[[Multi-Troop Transport/Legends|Multi-Troop Transports]] (550)<ref name="E1:ICS" />
+*[[Armored Assault Tank/Legends|Armored Assault Tanks]] (6,250)<ref name="E1:ICS" />
+*[[B1-series battle droid/Legends|B1-Series battle droids]] {{C|over 329,600}}<ref name="E1:ICS" />
+|bays=
+|escapepods=
+|crew=150 to 350<ref name="E1:ICS" />
+|skeleton=
+|passengers=100,000+<ref name="E1:ICS" />
+|capacity=5 million [[Metric ton/Legends|tons]]<ref name="E1:ICS" />
+|cargohandling=
+|consumables=500 [[Standard day/Legends|days]]<ref name="E1:ICS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Battleship<ref name="E1:ICS" />
+*[[Carrier/Legends|Carrier]]<ref name="E1:ICS" />
+*[[Command ship/Legends|Command ship]]<ref name="E1:ICS" />
+*Heavy [[Transport/Legends|transport]]<ref name="encyclopedia" />
+*[[Warship/Legends|Warship]]<ref name="encyclopedia" />
+|firstuse=
+|retired=
+|affiliation=*[[Trade Federation/Legends|Trade Federation]]<ref name="E1:ICS" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="EII:AOTC">{{Film|II}}</ref>
+*[[Separatist holdouts/Legends|Separatist holdouts]]<ref name="SW:BFII">''[[Star Wars: Battlefront II]]''</ref>
+**[[Trade Federation resistance]]<ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]''</ref>
+**[[Gizor Dellso's navy]]<ref name="SW:BFII">''[[Star Wars: Battlefront II]]''</ref>
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="NEGTVAV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref><ref name="EGTW">''[[The Essential Guide to Warfare]]''</ref>
+*[[Corporate Sector/Legends|Corporate Sector]]<ref name="NEGTVAV" />
+*Independent merchants<ref name="NEGTVAV" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="DS">[[Death Star (novel)|''Death Star'']]</ref>
+*[[The Colony]]<ref name="DNIII:TSW" />
+}}
+The '''''Lucrehulk''-class battleship''' was the primary [[Capital ship/Legends|capital ship]] of the [[Trade Federation/Legends|Trade Federation's]] [[Trade Defense Force]]. Most ''Lucrehulks'' were modified from enormous [[Lucrehulk-class LH-3210 cargo freighter/Legends|cargo haulers]].<ref name="E1:ICS" /> Upgraded and modified versions were later used by the [[Confederacy of Independent Systems/Legends|CIS]] [[Confederate Navy/Legends|Navy]],<ref name="ROTS">{{Film|III}}</ref> the [[Separatist holdouts/Legends|Separatist holdouts]], the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]],<ref name="DS" /> the [[Corporate Sector Authority/Legends|Corporate Sector Authority]]<ref name="NEGTVAV" /> and the [[Killik/Legends|Killik]] [[The Colony|Colony]].<ref name="DNIII:TSW" /> Some ''Lucrehulk''-class battleships were equipped with an array of transmitters and broadcasting equipment, allowing them to serve as '''Droid Control Ships'''.
+
+==Characteristics==
+At over three kilometers in diameter, the enormous vessel closely resembled a torus that was missing a section of its circumference, holding a central sphere that contained the ship's bridge and reactor assemblies. The front void of the craft held two behemoth docking bays on either side, which were lined with forward docking claws. These gigantic cargo vessels had been built for many years by the Trade Federation to haul cargo between planets and were an important asset to their enterprise.<ref name="E1:ICS" />
+
+[[File:TFDCS_ep1ig.png|thumb|left|250px|Schematics of the ''Lucrehulk''-class battleship]]
+Housed in the stern of the main body were the main reactors, each connected to one of the three main engines, as well as to secondary engines and each other. The central sphere housed its own reactor/power generator assemblies.<ref name="E1:ICS" />
+
+Lining the equatorial bands in batteries of three were [[Quad turbolaser cannon/Legends|quad turbolaser cannons]] capable of rotating inwards when not in use. Their limited coverage of the hull made the early [[Battleship/Legends|battleship]] models vulnerable and made them rely more on the massive number of [[Starfighter/Legends|starfighters]] carried to defend the ships against enemy starfighters. This was, however, rectified with later ships whose armor and shields proved too strong for starfighter firepower, the fact becoming quickly apparent at the [[Battle of Naboo/Legends|Battle of Naboo]].<ref name="E1:ICS" /> The pre&ndash;Clone Wars models of the battleships did have major defense flaws, as Anakin Skywalker was able to fly his starfighter into the hangar of a [[Lucrehulk-class battleship/Legends|Droid Control Ship]] and destroy the starboard main reactor by accident. The resulting explosion destroyed the battleship and ensured a Naboo victory.
+
+===Clone Wars&ndash;era battleship===
+''Lucrehulk''-class battleships that fought in the [[Clone Wars/Legends|Clone Wars]] had less trouble with weak spots, as they were augmented with gun batteries and much stronger shielding. Batteries of [[long gun]]s and [[heavy gun]]s complemented the additional quad turbolaser batteries added to the ''Lucrehulk'' superstructure when the war erupted.<ref name="ROTS" /><ref name="GG">{{Hyperspace|url=hyperspace/member/galactic/2006/02/galactic20060208.html|series=Galactic Gallery|text=Gun Guide}}</ref>
+
+[[File:TF_Hangar.png|thumb|left|250px|A hangar bay with [[Multi-Troop Transport/Legends|Multi-Troop Transports]]]]
+Each ship was also now so powerful due to the increased amount of power devoted to offensive and defensive systems that a whole [[Flotilla/Legends|flotilla]] of [[Galactic Republic/Legends|Republic]] [[Star Destroyer/Legends|Star Destroyers]] was needed just to bring down a ''Lucrehulk''{{'s}} shields.<ref name="ROTS:ICS2">''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''</ref> The Clone Wars refitted models were true battleships and were among the most powerful ships in the [[Confederate Navy/Legends|Confederate Navy]]. Due to their firepower and strong shielding and armor, and large starfighter complements, these battleships were often used as command ships and as blockade vessels.
+
+==History==
+===Origins===
+When the Trade Federation began creating its military, the Executive Board realized the need for large [[Cruiser/Legends|cruisers]] to transport their weapons across [[The galaxy/Legends|the galaxy]], battleships to defend against starfighter attacks, and [[Flagship/Legends|flagships]] for controlling their vast legions of [[Battle droid/Legends|battle droids]]. Reluctant to spend the [[Galactic Credit Standard/Legends|credits]] necessary to construct and purchase a fleet of military vessels, the Trade Federation began modifying a portion of its many thousands<ref name="OSAVC33">[[Star Wars: The Official Starships & Vehicles Collection 33|''Star Wars: The Official Starships & Vehicles Collection'' 33]]</ref> of ''Lucrehulk''-class freighters into [[Warship/Legends|warships]].<ref name="E1:ICS" /> Their early navy had about 10% of all ''Lucrehulk''s converted to battleships and by the battle of Naboo, it was estimated that 35% of the class had undergone refitting.<ref name="OSAVC33" />
+
+===Invasion of Naboo===
+[[File:Lucrehulk_blockade.jpg|thumb|left|250px|A blockade battleship over Naboo]]
+The Trade Federation used a substantial fleet of ''Lucrehulk''-class battleships to enforce the [[Invasion of Naboo/Legends|invasion of Naboo]], led by the flagship [[Saak'ak/Legends|''Saak'ak'']].<ref name="SWEI:TPM">{{Film|I}}</ref>
+The most important vessel in the Trade Federation's blockade was the ''Lucrehulk''-class battleship [[Vuutun Palaa/Legends|''Vuutun Palaa'']]. When the rest of the blockade dispersed after Naboo was successfully occupied, the Neimoidians left the Droid Control Ship in orbit to coordinate their droid forces. The Control Ship was later destroyed by the young [[Anakin Skywalker/Legends|Anakin Skywalker]], resulting in the deactivation of the [[Trade Federation Droid Army/Legends|Droid Army]].<ref name="OSAVC33" /><ref name="SWEI:TPM" />
+
+[[File:Trade_Federation_turbolasers.png|thumb|250px|Three [[Quad turbolaser cannon/Legends|quad turbolaser cannons]] on a [[Trade Federation/Legends|Trade Federation]] battleship]]
+After the [[Invasion of Naboo/Legends|Invasion of Naboo]], the Republic ordered the Trade Federation to disband its military forces. The crafty Trade Federation pretended to comply with this command by apparently disassembling most of its battleships, only to transform their centrispheres into detachable [[Core ship/Legends|core ships]] capable of carrying supplies<ref name="AOTC:ICS">''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''</ref> as well as increasing the battleship's armaments.<ref name="OSAVC33" />
+
+In [[27 BBY/Legends|27 BBY]], two of these vessels were used to try to destroy ''[[Outbound Flight]]''. The [[Chiss/Legends|Chiss]] [[Commander/Legends|Commander]] [[Mitth'raw'nuruodo/Legends|Thrawn]] destroyed one of the ''Lucrehulk''s, allowing the other to surrender.<ref name="Outbound Flight">[[Outbound Flight (novel)|''Outbound Flight'']]</ref>
+
+===The Clone Wars===
+[[File:TFBattleshipE3Promo.jpg|thumb|right|200px|A ''Lucrehulk''-class battleship of the [[Confederate Navy/Legends|Confederate Navy]]]]
+''Lucrehulk''-class core ships were used during the [[First Battle of Geonosis/Legends|Battle of Geonosis]], where they carried legions of battle droids. In retreat, the Core Ships were found to be able to reattach themselves to the outer ring. These vessels saw continued use during the devastating Clone Wars, transporting military equipment and troops to countless worlds, and engaging Republic fleets in combat.<ref name="AOTC:ICS" />
+
+During the wars, the ''Lucrehulk''-class battleship received a massive upgrade in terms of firepower, with the addition of hundreds of long guns, quad guns, and heavy guns dotting the surface of both the core ship and the surrounding cargo arms. They, along with the other capital ships of the [[Confederate Navy/Legends|Confederate Navy]], also proudly wore the colors and insignia of the Confederacy.<ref name="ROTS" /> A few dozen participated in the [[Battle of Coruscant/Legends|attack on Coruscant]] towards the end of the war.<ref name="ROTS:ICS2" />
+
+===Legacy===
+During the [[Imperial Era/Legends|Imperial Period]], some militarized ''Lucrehulk''s remained in operation, fighting on the side of [[Separatist holdouts/Legends|Separatist holdouts]] or early [[Alliance to Restore the Republic/Legends|Rebel Alliance]] units.<ref name="DS" /> A few battleships kept in Imperial surplus stock were also sold to the [[Corporate Sector/Legends|Corporate Sector]] and to wealthy merchants.<ref name="NEGTVAV" /> Other ships were dismantled and sent to garbage dumps like [[Raxus Prime/Legends|Raxus Prime]].<ref name="TFU">{{TFU|version=X-box, PS3 and PC}}</ref> Several captured ''Lucrehulk''s were pressed into service in the [[Imperial Navy/Legends|Imperial Navy]] and used to host flight schools for [[Imperial Military/Legends|military]] fighter pilots.<ref name="EGTW" /> Several ''Lucrehulk''s, belonging to an unknown party, were also involved in a [[Skirmish over Naboo (Galactic Civil War)|skirmish]] with Rebel forces.<ref name="STAC">''[[Star Tours: The Adventures Continue]]''</ref>
+
+One of several Alliance ''Lucrehulk''s, the ''[[Fortressa]]'' served as a starfighter carrier, carrying a complement of hundreds of [[T-65 X-wing starfighter/Legends|T-65 X-wing starfighters]]. In [[0 BBY/Legends|0 BBY]], it participated in an assault on the [[DS-1 Orbital Battle Station/Legends|first Death Star]] and was destroyed by the battle station's superlaser.<ref name="DS" /> In [[36 ABY]], dozens of ''Lucrehulk''-series freighters were appropriated by forces allied with [[The Colony]] and used as carriers for [[Dartship]] swarms during the [[Swarm War]].<ref name="DNIII:TSW">''[[Dark Nest III: The Swarm War]]''</ref>
+
+==Behind the scenes==
+[[File:Lucrehulk_sketch.jpg|thumb|right|250px|Original sketch of the ''Lucrehulk''-class battleship]]
+''Lucrehulk''-class battleships first appeared in [[1999]] with the release of [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] and its tie-ins. It has since appeared in every movie of the [[prequel trilogy]].
+
+George Lucas wanted the battleship to have a retro-saucer look, but felt it needed a distinct sense of front and rear. [[Doug Chiang]] achieved this in early concept art by adding the antennae and docking section to one side, and a set of engines to the other. Lucas himself added the "bridge ball" to the center for the finished design.<ref name="DB-Trade Federation Battleship">{{DB|starship|tfed_battleship|Trade Federation Battleship}}</ref>
+
+Battleships have appeared in LEGO form in the [[2005]] [[Star Wars video games|video game]] ''[[LEGO Star Wars: The Video Game]]'' and in the [[2012]] young readers book ''[[LEGO Star Wars: Darth Maul's Mission]]''.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Lucrehulk-class vessels}}
+*[[Darth Plagueis (novel)|''Darth Plagueis'']] {{Ab|Darth Plagueis (audiobook)}} {{Mo}}
+*''[[Cloak of Deception]]''
+*{{Tales|7|Single Cell}}
+*''[[Darth Maul: Shadow Hunter]]'' {{Ab|Darth Maul: Shadow Hunter (unabridged audiobook)}}
+*''[[Episode I Adventures 1: Search for the Lost Jedi]]''
+*''[[Episode I Adventures 2: The Bartokk Assassins]]''
+*[[Star Wars: Starfighter (video game)|''Star Wars: Starfighter'']]
+*{{Film|I}}
+*[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]] {{Ab|Star Wars: Episode I The Phantom Menace (unabridged audiobook)}} {{1st}}
+*[[Star Wars: Episode I The Phantom Menace (junior novelization)|''Star Wars'': Episode I ''The Phantom Menace'' junior novelization]]
+*[[Star Wars: Episode I The Phantom Menace Movie Storybook|''Star Wars'': Episode I ''The Phantom Menace Movie Storybook'']]
+*[[Star Wars: Episode I Jedi Power Battles|''Star Wars'': Episode I ''Jedi Power Battles'']]
+*[[Star Wars: Episode I — The Phantom Menace 1|''Star Wars: Episode I — The Phantom Menace'' 1]]
+*[[Star Wars: Invasion of Theed Adventure Game|''Star Wars: Invasion of Theed'' Adventure Game]] {{ID|Droid Control Ship}}
+*''[[Star Wars Journal: Darth Maul]]'' {{Mo}}
+*[[Star Wars: Episode I — The Phantom Menace 4|''Star Wars: Episode I — The Phantom Menace'' 4]]
+*''[[Star Wars: Battlefront]]''
+*[[Episode I: The Phantom Menace ½|''Episode I: The Phantom Menace'' ½]] {{Flash}}
+*''[[Episode I: Obi-Wan Kenobi]]'' {{Flash}}
+*{{StoryCite|story=End Game|book=Star Wars: Episode I The Phantom Menace (novelization)|bformatted=''Star Wars'': Episode I ''The Phantom Menace'' novelization, 2012 edition}}
+*''[[Jedi Quest: Path to Truth]]'' {{Mo}}
+*[[Outbound Flight (novel)|''Outbound Flight'']] {{Ab|Outbound Flight (unabridged audiobook)}} {{Mo}}
+*{{Film|II}} {{C|Deleted scenes}}
+*[[Star Wars: Episode II — Attack of the Clones 3|''Star Wars: Episode II — Attack of the Clones'' 3]]
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Republic Commando]]''
+*[[Star Wars: The Clone Wars (video game)|''Star Wars: The Clone Wars'' video game]]
+*[[Republic 50|''Republic'' 50]]
+*{{Tales|22|Honor Bound}}
+*''[[Jedi Trial]]''
+*{{TCW|Cat and Mouse}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Clone Cadets}} {{C|Appears in "Newsreel" only}}
+*{{TCW|Supply Lines}}
+*{{TCW|Rookies (episode)}}
+*''[[The Clone Wars: The Wind Raiders of Taloraan]]''
+*{{InsiderCite|65|Republic HoloNet News Core Edition 14:2:12}} {{Mo}}
+*{{TCW|Blue Shadow Virus (episode)}} {{Flash}}
+*{{TCW|Storm Over Ryloth}}
+*{{TCW|Innocents of Ryloth}} {{Flash}}
+*''[[The Clone Wars: The Colossus of Destiny]]''
+*''[[The Clone Wars: Act on Instinct]]''
+*{{StoryCite|story=Deep Forest|book=Star Wars: Visionaries}}
+*{{TCW|Duchess of Mandalore}}
+*{{TCW|ARC Troopers (episode)}} {{Hologram}}
+*{{TCW|Sphere of Influence}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Plan of Dissent}} {{Mo}}
+*[[General Grievous 1|''General Grievous'' 1]]
+*{{InsiderCite|issue1=68|issue2=70|Hero of Cartao}}
+*[[Obsession 3|''Obsession'' 3]]
+*[[Obsession 4|''Obsession'' 4]]
+*''[[Labyrinth of Evil]]'' {{Mo}}
+*{{Film|III}}
+*[[Star Wars: Episode III — Revenge of the Sith 1|''Star Wars: Episode III — Revenge of the Sith'' 1]]
+*{{Wizards|url=default.asp?x=starwars/livingforce/lf20060119Rebellion|text=The Price of Neutrality -- Rebellion|int=The Price of Neutrality -- Rebellion}}
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*{{DoD|A Wretched Hive (adventure)}} {{Mo}}
+*''[[Star Wars: The Force Unleashed]]'' {{Wreck}}
+*{{TFU|version=X-box, PS3 and PC|notes=Wreckage}}
+*[[Death Star (novel)|''Death Star'']]
+*''[[Star Tours: The Adventures Continue]]''
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}} {{1stm|in book}} {{Ret}}
+*''[[Dark Nest III: The Swarm War]]''
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]''
+*<!-- 2005-05-08 -->''[[LEGO Star Wars: Revenge of the Brick]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+*<!-- 2011-09-XX -->''[[LEGO Star Wars: Darth Maul's Mission]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1999-05-03 -->[[Star Wars: Episode I The Phantom Menace: Prima's Official Strategy Guide|''Star Wars'': Episode I ''The Phantom Menace'': Prima's Official Strategy Guide]]
+*<!-- 1999-05-04 -->''[[Star Wars: Episode I Incredible Cross-Sections]]''
+*<!-- 1999-05-XX -->''[[Star Wars: Episode I: The Visual Dictionary]]''
+*<!-- 1999-06-XX -->{{InsiderCite|44|Ships of Episode I}}
+*<!-- 1999-11-06 -->''[[Star Wars Episode I: The Data File]]''
+*<!-- 2001-02-08 -->''[[Secrets of Naboo]]''
+*<!-- 2001-02-21 -->[[Star Wars: Starfighter: Prima's Official Strategy Guide|''Star Wars: Starfighter'': Prima's Official Strategy Guide]]
+<!-- 2001-08-08 -->{{CardGameSet|set={{CCG|set=Coruscant Limited|parent=1}}|cards=
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Droid Starfighter}} {{ID|Droid Control Ship}}
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Naboo Defense Fighter}} {{ID|Droid Control Ship}}
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Secure Route}}
+*<!-- 2001-08-08 -->{{CCG|set=Coruscant Limited|cardname=Trade Federation Battleship}}
+}}
+<!-- 2001-12-12 -->{{CardGameSet|set={{CCG|set=Theed Palace Limited|parent=1}}|cards=
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=3B3-10}} {{ID|Droid Control Ship}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Blockade Flagship}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Blockade Flagship: Docking Bay (Dark)}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Blockade Flagship: Docking Bay (Light)}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Captain Daultay Dofine}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Fighters Straight Ahead}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=I'll Try Spinning}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Infantry Battle Droid}} {{ID|Droid Control Ship}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Invasion}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Let's Go Left}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Nothing can Get Through Our Shield}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Ric Olié, Bravo Leader}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=This Is Not Good}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Trade Federation Tactics}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=We Didn't Hit It}}
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=We're Hit, Artoo}}
+}}
+*<!-- 2002-04-23 -->''[[Star Wars: Attack of the Clones Incredible Cross-Sections]]''
+*<!-- 2002-10-29 -->[[Star Wars: The Clone Wars: Prima's Official Strategy Guide|''Star Wars: The Clone Wars'': Prima's Official Strategy Guide]]
+*<!-- 2003-02-26 -->{{FactFile|61|TRA 5-6|Trade Federation Droid Control Ship}}
+*<!-- 2003-03-26 -->{{FactFile|65|TRA 7-8|Trade Federation Droid Control Ship}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]''
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]''
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2006-02-08 -->{{Hyperspace|url=hyperspace/member/galactic/2006/02/galactic20060208.html|series=Galactic Gallery|text=Gun Guide}}
+*<!-- 2006-04-17 -->{{InsiderCite|87|Order 66: Destroy All Jedi}}
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-02-18 -->''[[Star Wars: Epic Battles]]''
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+*<!-- 2009-12-17 -->[[Star Wars: The Official Starships & Vehicles Collection 33|''Star Wars: The Official Starships & Vehicles Collection'' 33]]
+*<!-- 2011-08-15 -->''[[Star Wars: The Clone Wars: Incredible Vehicles]]''
+*<!-- 2011-09-13 -->{{DB|starship|tfed_battleship|Trade Federation Battleship}}
+*<!-- 2011-09-13 -->{{DB|starship|tfed_droidcontrolship|Trade Federation Droid Control Ship}}
+*<!-- 2012-01-16 -->''[[Star Wars: Battle for Naboo]]''
+*<!-- 2012-01-16 -->''[[Star Wars: Darth Maul, Sith Apprentice]]''
+*<!-- 2012-01-16 -->''[[Star Wars: The Phantom Menace: The Expanded Visual Dictionary]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]'' {{1stID|''Lucrehulk''-class Droid Control Ship}}
+*<!-- 2012-04-30 -->''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]''
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2013-11-05 -->''[[Death Star Owner's Technical Manual]]'' {{Po}}
+*<!-- 2013-12-12 -->''[[Star Wars: Sith Wars]]'' {{Po}}
+*<!-- 2014-03-18 -->{{SW|url=news/the-essential-guide-to-warfare-authors-cut-part-6-showdown-at-naboo|series=Star Wars: The Essential Guide to Warfare Author's Cut|text=Part 6: Showdown at Naboo}}
+*<!-- 2014-04-25 -->{{SWE|technology|battledroid|battle droid}}
+*<!-- 2014-04-25 -->{{SWE|technology|mtt|MTT}}
+*<!-- 2014-04-25 -->{{SWE|technology|neimoidianshuttle|Neimoidian escort shuttle}} {{C|as "Trade Federation battleship"}}
+*<!-- 2014-04-25 -->{{SWE|technology|separatistsuppyship|Separatist supply ship}} {{C|as "Trade Federation battleship"}}
+*<!-- 2014-04-25 -->{{SWE|groups|tradefederation|Trade Federation}}
+*<!-- 2014-04-25 -->{{SWE|technology|tradefederationbattleship|Trade Federation battleship}}
+*<!-- 2014-04-25 -->{{SWE|technology|vulturedroid|vulture droid}} {{C|as "Trade Federation battleship"}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]] {{Po}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']] {{Po}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=LH-3210 Lucrehulk-Klasse Schlachtschiff
+|es=Nave de batalla clase Lucrehulk
+|fi=Lucrehulk-luokan taistelualus/Legends
+|hu=Lucrehulk-osztályú csatahajó
+|pl=Krążownik typu Lucrehulk
+|uk=Лінійний корабель типу «Баришник»/Легенди
+}}
+
+[[Category:Battleship classes]]
+[[Category:Hoersch-Kessel Drive, Inc. products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Corporate Sector Authority]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starships of the Separatist holdouts]]
+[[Category:Starship classes of the Trade Federation]]
+{{RelatedCategories
+|[[Category:Lucrehulk-class battleships]]
+}}

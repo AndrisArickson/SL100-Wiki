@@ -1,0 +1,71 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:LongRunEscape-AJ9p34.png]]
+|name=''Long Run''
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="AJ9">{{JournalCite|9|Slaying Dragons}}</ref>
+|line=[[BD-series]]<ref name="AJ9" />
+|model=
+|type=[[Barge driver]]<ref name="AJ9" />
+|cost=
+|modifier=
+|sysmods=
+|length=110 [[Meter/Legends|meters]]<ref name="AJ9" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*x3 {{C|Primary}}<ref name="AJ9" />
+*x15 {{C|Backup}}<ref name="AJ9" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Turbolaser/Legends|Turbolaser cannon]] (1)<ref name="AJ9" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="AJ9" />
+*Co-pilot (1)<ref name="AJ9" />
+|skeleton=
+|passengers=2<ref name="AJ9" />
+|capacity=75,000 [[Metric ton/Legends|metric tons]]<ref name="AJ9" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="AJ9" />
+|lifesupport=
+|communications=
+|othersystems=
+|role=
+|commission=
+|destroyed=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Rebel Alliance]]<ref name="AJ9" />
+|navy=
+|fleet=
+|owners=
+|captains=
+|registry=
+|aliases=''[[36DD]]''<ref name="AJ9" />
+}}
+The '''''Long Run''''' was a [[Alliance to Restore the Republic/Legends|Rebel Alliance]] [[Barge driver|barge]] [[Pilot/Legends|piloted]] by [[Boo Rawl]]. In [[3 ABY/Legends|3 ABY]], it was used to steal a [[Colony Class 23669 power generator]] from the [[Galactic Empire/Legends|Galactic Empire]] on [[Kuat/Legends|Kuat]] while disguised as an Imperial barge, ''[[36DD]]''. It was modified by Rawl who upgraded the [[Deflector shield/Legends|shields]] and removed some of the cargo and living space in the bow to create space for a hidden [[Turbolaser/Legends|turbolaser]] mount.
+
+==Appearances==
+*{{JournalCite|9|Slaying Dragons|reprint=1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:BD-27 transports]]
+[[Category:Starships of the Alliance to Restore the Republic]]

@@ -1,0 +1,87 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:LoneScoutA-RPG2E.png]]
+|name=Lone Scout A-2
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="GG8">''[[Galaxy Guide 8: Scouts]]''</ref>
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=24 [[Meter/Legends|meters]]<ref name="GG8" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GG8" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 2]]<ref name="GG8" />
+*[[Backup hyperdrive|Class 12]]<ref name="GG8" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="GG8" />
+|hull=
+|sensor=[[Sensor/Legends|Deep scan sensor array]]<ref name="GG8" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="GG8" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]]<ref name="GG8" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="GG8" />
+|skeleton=
+|passengers=3<ref name="GG8" />
+|capacity=*125 [[Metric ton/Legends|metric tons]]<ref name="GG8" />
+*50 [[Cubic meter/Legends|cubic meters]]<ref name="GG8" />
+|cargohandling=
+|consumables=1 [[Standard year/Legends|year]]<ref name="GG8" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Scout/Legends|Scouting]]<ref name="GG8" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="TIE scout">{{DB|starship|tiescout|TIE scout}}</ref>
+*[[New Republic/Legends|New Republic]]<ref name="TIE scout" />
+}}
+The '''Lone Scout A-2''' or '''LSA-2''' was a variant of the [[Lone Scout-A]] [[Scout ship/Legends|scout vessel]].
+
+==Characteristics==
+The Lone Scout A-2 shared a similar design with the Lone Scout-A, but incorporated an improved [[backup hyperdrive]] and an improved deep scan [[Sensor/Legends|sensor]] array.<ref name="GG8" /> However, these improvements reduced the LSA-2 cargo capacity by twenty-five [[Metric ton/Legends|metric tons]]<ref name="UA" />
+
+==Role==
+The Lone Scout A-2 was used by the [[Imperial Navy/Legends|Imperial Navy]],<ref name="UA" /> the [[Imperial Survey Corps/Legends|Imperial Survey Corps]], and later the [[New Republic/Legends|New Republic's]] [[Bureau of Scouting and Exploration Services]]<ref name="GG8" />
+
+==History==
+Lone Scout A-2s were dispatched by the [[Death Star/Legends|Death Star]] to investigate [[Princess/Legends|Princess]] [[Leia Organa Solo/Legends|Leia Organa's]] claims that the main [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] base was located on the [[Planet/Legends|planet]] [[Dantooine/Legends|Dantooine]].<ref name="UA">''[[Ultimate Adversaries]]''</ref> The popularity of the Lone Scout A-2 brought it into service with the New Republic's Scout Service. The New Republic used the Lone Scout A-2 for standard exploration missions into [[Wild Space/Legends|Wild Space]]. The vessels were usually crewed by a [[Pilot/Legends|pilot]] and specialist, but the extra space allowed the ship to perform a variety of missions.<ref name="GG8" />
+
+==Sources==
+*<!-- 1993-03-XX -->''[[Galaxy Guide 8: Scouts]]''
+*<!-- 2004-06-10 -->''[[Ultimate Adversaries]]''
+*<!-- 2011-09-13 -->{{DB|starship|tiescout|TIE scout}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|uk=Самотній Розвідник A-2
+}}
+
+[[Category:Scout starship classes]]
+[[Category:Sienar Fleet Systems products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:Lone Scout-A]]
+}}

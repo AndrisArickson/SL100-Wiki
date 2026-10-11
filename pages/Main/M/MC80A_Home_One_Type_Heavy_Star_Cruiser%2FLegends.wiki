@@ -1,0 +1,244 @@
+{{Top|title=MC80A ''Home One'' Type Heavy Star Cruiser}}
+{{StarshipClass
+|image=[[File:HomeOne-Chron.png]]
+|name=MC80A ''Home One'' Type Heavy Star Cruiser
+|designer=
+|manufacturer=[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]
+|line=[[MC80 Star Cruiser/Legends|MC80 Star Cruisers]]<ref name="SOTG07">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|model=MC80 ''Home One'' type Star Cruiser<ref name="SOTG07" />
+|type=Heavy [[Star Cruiser/Legends|Star Cruiser]]<ref name="LbE">''[[Lead by Example]]''</ref>
+|cost=112,000,000 {{C|standard}}<ref name="LbE" />&ndash;150,000,000 {{C|individual ships}} [[Galactic Credit Standard/Legends|credits]]<ref name="SoR">''[[Strongholds of Resistance]]''</ref>
+|modifier=
+|sysmods=
+|length=*Standard length: 1,200 [[Meter/Legends|meters]]<ref name="RASB">''[[The Rebel Alliance Sourcebook]]''</ref>
+*Individual ships: 1,400 meters<ref name="SW:XwA">''[[Star Wars: X-Wing Alliance]]''</ref> or longer<ref name="RotJ">{{Film|VI}}</ref><ref name="RotJn">[[Star Wars: Return of the Jedi (novelization)|''Star Wars Episode VI: Return of the Jedi'' (novel)]]</ref><ref name="TCSWE">''[[The Complete Star Wars Encyclopedia]]'' reiterates the ''Return of the Jedi'' novelization's claim of the ''Home One'' being the largest Rebel vessel by the time of Endor.</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=60 MGLT<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|max speed=
+|maneuverability=
+|engine=*[[M8.0-StarDrive engine|M8.0-StarDrive]] [[Engine/Legends|engines]] (4)<ref name="The Rebel Alliance">''[[The Rebel Alliance—Ships of the Fleet]]''</ref>
+*[[M4.5-StarDrive maneuvering engine/Legends|M4.5-StarDrive maneuvering engines]] (6)<ref name="The Rebel Alliance" />
+|hyperdrive=*Class 1.0<ref name="SOTG07" />
+*Class 9.0 {{C|[[Backup hyperdrive|backup]]}}<ref name="SOTG07" />
+|hdrange=
+|hdsystem=[[TriLuna]] [[400MGS stardrive and hyperdrive system]]<ref name="BtM" />
+|poweroutput=
+|power=
+|shield gen=[[Serridge/Legends|Serridge]] [[SEAL Shielding System]]<ref name="FF">[[The Official Star Wars Fact File 12|''The Official Star Wars Fact File'' 12]]</ref>
+|hull=
+|sensor=Long-range [[Sensor/Legends|sensors]]<ref name="LbE" />
+|target=
+|navigation=[[Navigation computer/Legends|Navi computer]]<ref name="LbE" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Twin<ref name="SoR" />/quad heavy [[Turbolaser/Legends|turbolaser]] batteries<ref name="LbE" /> (29<ref name="TEGtVaV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>&ndash;36)<ref name="LbE" />
+*Heavy<ref name="SOTG07" /> twin [[Ion cannon/Legends|ion cannon]] batteries (36)<ref name="LbE" />
+*[[Quad laser cannon/Legends|Quad laser cannon]] batteries (80)<ref name="LbE" />
+*Heavy [[Tractor beam projector/Legends|tractor beam projectors]] (6)<ref name="LbE" />
+|complement=*36<ref name="SW:XwA" />&ndash;120 [[Starfighter/Legends|starfighters]] (a mix of [[RZ-1 A-wing interceptor/Legends|A-wings]], [[A/SF-01 B-wing starfighter/Legends|B-wings]], [[T-65 X-wing starfighter/Legends|X-wings]] and/or [[BTL Y-wing starfighter/Legends|Y-wings]])<ref name="SOTG07" />
+*[[Shuttle/Legends|Shuttles]]<ref name="LbE" />
+*[[Landing craft/Legends|Landing craft]]<ref name="LbE" />
+*[[Gunboat/Legends|Gunboats]]<ref name="LbE" />
+*Assault craft<ref name="LbE" />
+*[[Planet/Legends|Planetary]] vehicles<ref name="LbE" />
+*[[Landing barge/Legends|Landing barges]]<ref name="LbE" />
+*[[Rebel personnel carrier/Legends|Rebel personnel carriers]]<ref name="RotJ" />
+|bays=
+|escapepods=
+|crew=5,402<ref name="SOTG07" />&ndash;5,480<ref name="LbE" />
+|skeleton=1,230<ref name="FF" />
+|passengers=1,200 [[Trooper/Legends|troops]] and support staff<ref name="LbE" />
+|capacity=20,000 [[Metric ton/Legends|tons]]<ref name="SOTG07" />
+|cargohandling=
+|consumables=2 [[Standard year/Legends|years]]<ref name="SOTG07" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale<ref name="SOTG07" />
+|role=*Passenger liner<ref name="LbE" />
+*Deep-space exploration vessel<ref name="LbE" />
+*[[Command ship/Legends|Command ship]]<ref name="RotJ" />
+*[[Battleship/Legends|Battleship]]<ref name="Rebel Alliance Scrapbook">''[[The Star Wars Trilogy Scrapbook: The Rebel Alliance]]''</ref>
+*[[Carrier/Legends|Carrier]]<ref name="RotJ" />
+|firstuse=By [[20 BBY/Legends|20 BBY]]<ref name="SoR" />
+|retired=
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="EAW">''[[Star Wars: Empire at War]]''</ref>
+*[[New Republic/Legends|New Republic]]<ref name="XW:WG">''[[X-Wing: Wedge's Gamble]]''</ref>
+}}
+The '''MC80A ''Home One'' Type Heavy Star Cruiser''', also known as the '''MC80 ''Home One'' type Star Cruiser''' or '''MC80 Command Cruiser''', was one of the several [[MC80 Star Cruiser/Legends|MC80 Star Cruiser]] designs built by the [[Mon Calamari/Legends|Mon Calamari]].<ref name="SOTG07" /> Originally fielded before the [[Galactic Civil War/Legends|Galactic Civil War]] as civilian vessels,<ref name="FF" /> they were modified by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]], and served in [[Command ship/Legends|command ship]] and [[Battleship/Legends|battleship]] roles in the [[Alliance Fleet/Legends|Alliance Fleet]].<ref name="Rebel Alliance Scrapbook" />
+
+Although the most common MC80 subclass was the [[MC80 Liberty Type Heavy Star Cruiser/Legends|MC80 ''Liberty'' type Star Cruiser]],<ref name="SOTG07" /> the ''Home One'' type was perhaps the most famous Rebel [[Capital ship/Legends|capital ship]] design, as it was the class of the [[Home One/Legends|''Home One'']] and the [[Independence/Legends|''Independence'']], which served as [[Admiral/Legends|Admiral]] [[Gial Ackbar/Legends|Ackbar's]] flagships in many famous battles.<ref name="Star Wars: X-Wing">[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]</ref><ref name="RotJ" />
+
+==Characteristics==
+===Dimensions===
+No two Mon Calamari ships were identical, each being individually designed and constructed,<ref name="Databank">[[Mon Calamari Star Cruiser/Legends|''Mon Calamari Star Cruiser'']] in the [[Databank (original)|Databank]]</ref> but they were gradually standardized by the extensive refitting and adjustments made to the hulls when the vessels were converted for combat duty.<ref name="RASB" /><ref name="SOTG07" /> Most ships were 1.2 km in length,<ref name="RASB" /> but individual ships were 1.4 km<ref name="SW:XwA" /> or even bigger.<ref name="RotJ" />
+
+[[File:Homeoneprofiles.jpg|thumb|left|200px|Side (upper image) and top (lower image) profiles of an MC80 ''Home One'' type Star Cruiser with the bow to the right]]
+
+Even the [[Home One/Legends|''Home One'']] and its sisters formed a uniform design type: cylindrical hulls, with a tapered bow, hangar bays amidships, and bulbous stern mounting ten huge sublight thrusters: four [[M8.0-StarDrive engine|M8.0-StarDrive]] main thrusters and six [[M4.5-StarDrive maneuvering engine/Legends|M4.5-StarDrive maneuvering engines]].<ref name="The Rebel Alliance" />
+
+''Home One'' was originally designed for deep-space exploration, and it was constructed with massive panoramic viewports, which had to be removed when it was rebuilt as a warship.<ref name="FF" /> This may have been true of its sister ships as well.
+
+The ''Home One'' was described as the largest [[Star Cruiser/Legends|Star Cruiser]] in the Rebel Alliance fleet as it gathered for the [[Battle of Endor/Legends|Battle of Endor]],<ref name="RotJn" /> potentially indicating a variation in size and tonnage between the sister ships. Taken together, ships of this type were arguably the most prominent capital ships in the Rebellion, serving as [[Command ship/Legends|command ships]] as well as [[Battleship/Legends|battleships]].<ref name="Rebel Alliance Scrapbook" /> Like most warships, all MC80s were classified as [[Cruiser/Legends|cruisers]] in one standard system<ref name="RASB" /> and capital ships in another.<ref name="SOTG07" />
+
+===Crew complement===
+The standard crew of the ''Home One'' type consisted of 5,402 individuals, 78 gunners, and a passenger complement of 1,200 troops.<ref name="SOTG07" /> A minimum operating crew of 1,230 was shared by the ''Home One'',<ref name="FF" /> and by its sister ship, the [[Independence/Legends|''Independence'']].<ref name="The Farlander Papers">{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}</ref>
+
+===Hangar complement===
+[[File:Hangar_Bay-AoR.jpg|thumb|right|220px|A hangar on board the [[Home One/Legends|''Home One'']]]]
+The number of [[Starfighter/Legends|starfighters]] carried appeared to vary: whereas the ''Home One'' was said to have carried ten squadrons,<ref name="A Guide to the Star Wars Universe">''[[A Guide to the Star Wars Universe]]'' and ''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''</ref> the ''Independence'' was limited to two squadrons of [[T-65 X-wing starfighter/Legends|X-wings]], in later years under the [[New Republic/Legends|New Republic]].<ref name="Gamer7">{{GamerCite|7|Silent Death}}</ref> It is unknown whether the hangar facilities were the same on different ships,<ref name="Hangars">The starboard hangar on the ''Home One'' is visible in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]; for more about the ''Home One''{{'s}} hangar facilities, see [[Home One/Legends#Characteristics|here]]. The comparable starboard hangars of the ''Defiance'' and the ''Independence'' are visible in computer-game graphics, [[:File:Defiance2.jpg|here]] and [[:File:Independence2.jpg|here]].</ref> although three of the known vessels had a large hangar on the starboard side of the hull. Internal design differences may also have affected cargo capacity, which was 20,000 metric tons aboard the ''Home One''.<ref name="FF" />
+
+===Offensive and defensive systems===
+The ''Home One'' types had more armor and armaments than the ''Liberty'' type, and were subsequently rarer. Standard armament for the subclass included 36 turbolasers, 36 heavy ion cannons, and six tractor beam projectors.<ref name="SOTG07" />
+
+''Home One'' carried heavy hull armor and powerful shields, comparable to an [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]],<ref name="FF" /> but it was said to have carried the heaviest armor and weaponry in the Rebel fleet, at the Battle of Endor, indicating that the other ships of the subclass were less protected.<ref name="CCG">[[Star Wars Customizable Card Game|''Star Wars'' Customizable Card Game]], specifically the cards for [http://www.decipher.com/starwars/cardlists/deathstar2/light/images/homeone.gif The ''Home One''], [http://www.decipher.com/starwars/cardlists/deathstar2/light/images/independence.gif The ''Independence''] and [http://decipher.com/starwars/cardlists/deathstar2/light/images/defiance.gif The ''Defiance''] in the ''[[Death Star II Limited]]'' pack.</ref>
+
+===Bridge tower===
+[[File:MC80_Command_Cruiser_SWA.png|thumb|left|200px|An MC80 Command Cruiser]]
+''Home One'' type ships appeared to have multiple command pods scattered across each ship protruding from both the dorsal and ventral areas of the hull. One of these served as the command center for the ship.<ref name="RotJ" />
+
+====Main bridge====
+The commanding officer could be situated in a chair attached to a swiveling robotic arm that overlooked both the bridge crew and a panoramic window out into space. The bridge contained a [[CS-Mark 12 holoprojector]] table situated in the middle of a briefing room section, which crew members used to monitor events during a battle.<ref name="RotJ" /><ref name="The New Essential Guide to Weapons and Technology">''[[The New Essential Guide to Weapons and Technology]]''</ref>
+
+The ''Home One'', like almost all early Mon Cal cruisers, retained its original, species-specific bridge control systems, meaning that, while the bulk of the crew was drawn from the many species that made up the Rebellion, the command crew was made up entirely of Mon Calamari.<ref name="FF" /> There is some evidence, however, that one ship of the class was modified for a human command crew.<ref name="RotJ cutscenes">Some licensed material contains photos from [http://www.starwarz.com/tbone/index.php?categoryid=11&p2_articleid=443 cut scenes] from ''Return of the Jedi'', showing General Madine commanding a ''Home One'' type cruiser during the battle.</ref>
+
+==History==
+===Rebel service===
+At least seven ''Home One'' type ships were used by the Alliance,<ref name="Star Wars: X-Wing" /> with three of them identified by name: the ''Home One'' itself, the ''[[Independence/Legends|Independence]]'', and the [[Defiance/Legends|''Defiance'']]. All began military service early in the Galactic Civil War, sometime prior to the [[Battle of Yavin/Legends|Battle of Yavin]].<ref name="The Farlander Papers" /><ref name="EAW" />
+
+[[File:Defiance2.jpg|thumb|right|200px|The [[Defiance/Legends|''Defiance'']] and at least four other MC80 ''Home One''s with supporting vessels]]
+As mentioned, the ''Home One'' was originally designed for deep-space exploration. It was among the first ships selected for militarization when the Mon Calamari joined the Rebellion, being selected by Ackbar as his personal flagship.<ref name="FF" /> It is probable that its sister ships had a similar pre-war role, and they seem to have been refitted for war at around the same time, and they shared a similar prominence when they entered Rebel service.
+
+While all the Mon Cal vessels provided valuable capital-ship firepower for the under-resourced Rebel Alliance, it appears that the ''Home One'' type served specifically as high-level [[Command ship/Legends|command ships]], with at least two of the three known ships acting as a mobile headquarters for the [[Alliance High Command/Legends|Alliance High Command]].
+
+The ''Independence'' served in this role, before the Battle of Yavin,<ref name="The Farlander Papers" /> and the ''Home One'' from the [[Battle of Hoth/Legends|Battle of Hoth]] onwards.<ref name="Databank" /> The third known ship of the type, the ''Defiance'', is less directly linked to the High Command, and seems to have served primarily as Admiral [[Nammo]]'s flagship, but there are occasions where it may have been the fleet command ship closest to the Rebel leadership: in the [[Anoat sector/Legends|Anoat sector]] immediately after the Battle of Hoth.<ref name="SW:XwA" />
+
+During the climactic Battle of Endor, most of the Alliance's naval resources were gathered into their offensive fleet, and the ''Home One''s added their firepower to the effort, being the largest Rebel capital ships used in the engagement.<ref name="RotJ" /> The ''Independence'' served as communications ship, while the ''Defiance'' was placed in the rearguard, and Ackbar used the ''Home One'' as his fleet command ship.<ref name="CCG" /> It appears that [[General/Legends|General]] [[Crix Madine/Legends|Crix Madine]] also commanded a division of the fleet from a ship of the same type, possibly the ''Independence''.<ref name="RotJ cutscenes" /> At [[Unidentified MC80 Home One type Star Cruiser|least one cruiser]] of the type was destroyed during the battle, however, as the second victim of the [[Death Star II/Legends|second Death Star's]] superlaser.<ref name="RotJ" /> In the aftermath of Endor, the ''Defiance'' was used to hunt down rogue Imperial elements.<ref name="JKTCG">''[[Jedi Knights Trading Card Game]]''</ref>
+
+===New Republic service===
+[[File:HomeOneEngines-Chron.png|thumb|left|230px|A ''Home One'' type Star Cruiser's stern, with ten thrusters]]
+
+In the early years of the New Republic, the type remained in front-line service as command ships, with Ackbar using the ''Independence'' as his flagship at the [[Battle of Brentaal IV (Galactic Civil War)|Battle of Brentaal IV]],<ref name="XwRS:TTES">''[[Star Wars: X-Wing Rogue Squadron: In the Empire's Service]]''</ref> and the ''Home One'' itself leading the fleet at the [[Liberation of Coruscant (Galactic Civil War)|Seizure of Coruscant]],<ref name="XW:WG" /> the [[Battle of Bilbringi (9 ABY)|Battle of Bilbringi]],<ref name="TLC">''[[The Last Command]]''</ref> and the [[Battle of Ciutric]].<ref name="XW:IR">''[[X-Wing: Isard's Revenge]]''</ref>
+
+From around [[10 ABY/Legends|10 ABY]], the veteran ships were superseded as fleet command platforms by newer warships, notably [[MC90 Star Cruiser]]s. Ackbar first shifted his flag to a new MC90, the [[Defiance (MC90 Star Cruiser)|''Defiance'']],<ref name="Dark Empire Sourcebook">''[[Dark Empire Sourcebook]]''</ref> and subsequently to the ''[[Galactic Voyager]]''.<ref name="Champions of the Force">''[[Champions of the Force]]''</ref> In [[18 ABY/Legends|18 ABY]], at the [[Second Battle of Champala]] and the [[Battle of Anx Minor]], however, Ackbar commanded from the [[Super Star Destroyer/Legends|Super Star Destroyer]] [[Guardian (Executor-class)|''Guardian'']].<ref name="The New Essential Guide to Characters">''[[The New Essential Guide to Characters]]''</ref><ref name="The New Essential Chronology">''[[The New Essential Chronology]]''</ref>
+
+However, this did not end the careers of the older vessels. The ''Home One'' served as a squadron command ship in [[11 ABY/Legends|11 ABY]],<ref name="I Jedi">''[[I, Jedi]]''</ref> and remained in commission as the Supreme Commander's personal flagship until [[23 ABY/Legends|23 ABY]], while the ''Independence'' was still on active duty in the early years of the [[Yuuzhan Vong War]], commanding a patrol force based near [[Mon Calamari/Legends|Mon Calamari]].<ref name="Gamer7" />
+
+==Behind the scenes==
+A variety of continuity inconsistencies exist concerning the ''Home One'' and its sister ships: a full discussion is [[Home One/Legends#Behind the scenes|here]].
+
+==Appearances==
+{{ScrollBox|content=
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*[[Empire 20|''Empire'' 20]]
+*[[Empire 21|''Empire'' 21]]
+*[[Empire 27|''Empire'' 27]]
+*[[Rebellion 12|''Rebellion'' 12]]
+*[[Rebellion 13|''Rebellion'' 13]]
+*[[Rebellion 14|''Rebellion'' 14]]
+*[[Rebellion 15|''Rebellion'' 15]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*''[[Onslaught at Arda I]]'' {{Hologram}} {{Po}}
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}} {{1st|in book}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*[[Star Wars Manga: Return of the Jedi 3|''Star Wars Manga: Return of the Jedi'' 3]] {{Nc}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 24|''X-Wing Rogue Squadron'' 24]]
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]]
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*''[[X-Wing: Isard's Revenge]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 1984-XX-XX -->[[Kellogg's C-3PO's cereal commercial 1]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{Po}}
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-06-XX -->''[[X-Wing: The Official Strategy Guide]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]] {{Po}}
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1997-11-XX -->''[[The Star Wars Trilogy Scrapbook: The Rebel Alliance]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]'' {{Po}}
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Capital Support}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Combined Fleet Action}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Defiance''}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Fighters Coming In}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Home One''}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=I'll Take The Leader}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Independence''}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Launching The Assault}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Superficial Damage}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Taking Them With Us}}
+}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-01-16 -->{{FactFile|3|ACK 1-4|Admiral Ackbar}}
+*<!-- 2002-02-20 -->{{FactFile|8|END 5-6|The Battle of Endor}}
+*<!-- 2002-03-20 -->{{FactFile|12|HOM 1-2|''Home One'' (MC80 Mon Calamari Star Cruiser)}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]] {{1stID|MC80 ''Home One'' type Star Cruiser}}
+*<!-- 2011-09-13 -->{{DB|character|grizzfrix|Frix, Grizz}}
+*<!-- 2011-09-13 -->{{DB|starship|moncalamaristarcruiser|Mon Calamari Star Cruiser}}
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=''Home One''|link=core/home-one-core-11-2}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Rebel Fleet|link=core/the-rebel-fleet-core-11-1}} {{Po}}
+}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]] {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=''Independence''|link=rogue-squadron/evasive-maneuvers/independence-r1288}} {{Po}}
+*<!-- 2015-07-21 -->{{InsiderCite|159|Blaster}}
+*<!-- 2015-11-12 -->''[[Strongholds of Resistance]]''
+*<!-- 2016-02-04 -->''[[Lead by Example]]'' {{1stID|MC80A ''Home One'' type heavy star cruiser}}
+*<!-- 2018-08-02 -->{{FFGXW2|set=Core Set|cardname=Predator|reprint=1}} {{Po}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+==External links==
+*{{OfficialSite|url=https://www.rickknox3d.com/props/star-wars-galaxies|text=3D Models and Props Gallery - Star Wars Galaxies|work=Rick Knox's official website|archiveurl=https://archive.is/lN2eg|nolive=1}}
+*{{SWBoards|url=thread.jspa?threadID=222689&start=2010#14756254|thread=Welcome some BCaT VIPs|user=[[Leland Chee|Leland Y Chee]]|date=2006-05-08|time=10:05 AM}}
+*{{WebCite|url=http://www.theforce.net/swtc/mcc.html|text=Star Wars Technical Commentaries - Warships of the Mon Calamari|archivedate=20230531225020}}
+*{{WebCite|url=https://starwarz.com/tbone/the-battle-above-endor|text=General Madine's cut RotJ scenes|archivedate=20210421035357}}
+
+{{Interlang
+|de=MC80-Heimat-Eins-Sternkreuzer
+|es=Crucero Estelar MC80 clase Hogar Uno
+}}
+
+[[Category:Heavy cruiser classes]]
+[[Category:Mon Calamari cruiser variants|MC080A Home One]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:MC80A Home One Type Heavy Star Cruisers]]
+}}

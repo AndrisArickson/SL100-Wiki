@@ -1,0 +1,86 @@
+{{Top|canon=MC-18 freighter}}
+{{StarshipClass
+|image=[[File:MC-18.jpg]]
+|name=MC-18 light freighter
+|designer=
+|manufacturer=[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]<ref name="DA">''[[Desperate Allies]]''</ref>
+|line=
+|model=MC-18 light freighter<ref name="DA" />
+|type=[[Transport/Legends|Transport]]<ref name="DA" />
+|cost=140,000 [[Galactic Credit Standard/Legends|credits]]<ref name="DA" />
+|modifier=
+|sysmods=
+|length=23.6 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|km/h]]
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1.0<ref name="DA" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="DA" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]], with backup [[Deflector shield/Legends|shield]] generator
+|hull=
+|sensor=Equipped<ref name="DA" />
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="DA" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Turreted medium [[Laser cannon/Legends|laser cannon]] (1)<ref name="DA" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="DA" />
+*[[Pilot/Legends|Pilot]] (1)<ref name="DA" />
+*Co-pilot/[[Engineer/Legends|Engineer]] (1)<ref name="DA" />
+|skeleton=1
+|passengers=5<ref name="DA" />
+|capacity=50 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="DA" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]<ref name="DA" />
+|firstuse=
+|retired=
+|affiliation=*Civilians<ref name="DA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="DA" />
+}}
+The '''MC-18 light freighter''' was a [[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]] transport vessel.
+
+==Characteristics==
+The MC-18 measured 23.6 meters in length, and could transport up to five passengers and 50 metric tons of cargo.
+
+Like all [[Mon Calamari/Legends|Mon Calamari]] designs, the MC-18 was custom-built, and no two ships were exactly the same. It also was equipped with a backup [[Deflector shield generator/Legends|shield]] generator, as was standard Mon Calamari practice.
+It had a landing claw, standard landing gear, and inflatable puncture-proof pontoons for water landings. The MC-18 was also submersible (maximum depth 1,000 meters). When submerged, its shields had to be reconfigured to handle the strong exterior pressure and this weakened the shields versus other attacks.
+
+{{Ship-stub}}
+
+==Appearances==
+*{{JournalCite|13|The Last Hand (short story)}}
+
+==Sources==
+*<!-- 2015-06-18 -->''[[Desperate Allies]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Carguero ligero MC-18
+}}
+
+[[Category:Freighter classes]]
+[[Category:Mon Calamari Shipyards products]]
+
+{{RelatedCategories
+|[[Category:MC-18 light freighters]]
+}}

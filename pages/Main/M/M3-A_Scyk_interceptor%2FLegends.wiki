@@ -1,0 +1,172 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:M3AScyk-SWG.jpg]]
+|name=M3-A Scyk interceptor
+|designer=
+|manufacturer=[[MandalMotors/Legends|MandalMotors]]<ref name="Sony">{{SonyCite|url=en_US/players/content.vm?id=66885&resource=features|text=Ships: M3-A Scyk}}</ref><ref name="TFUCG">''[[The Force Unleashed Campaign Guide]]''</ref><ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+|line=
+|model=M3-A Scyk<ref name="Sony" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="Sony" /><ref name="LoNH" />
+|cost=55,000 [[Galactic Credit Standard/Legends|credits]]<ref name="LoNH" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 km/h<ref name="TFUCG" />
+|maneuverability=
+|engine=[[Koensayr Manufacturing/Legends|Koensayr]] [[R303 Ion Jet Engine/Legends|R303 Ion Jet Engine]]<ref name="LoNH" />
+|hyperdrive=Class 2.0<ref name="TFUCG" /><ref name="LoNH" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="LoNH" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Twin light [[Laser cannon/Legends|laser cannons]]<ref name="LoNH" />
+or
+*Twin light [[Ion cannon/Legends|ion cannons]]<ref name="LoNH" />
+or
+*[[Proton torpedo launcher/Legends|Proton torpedo launcher]] (1)<ref name="LoNH" />
+**4 [[Proton torpedo/Legends|proton torpedoes]]<ref name="LoNH" />
+or
+*[[Concussion missile launcher/Legends|Concussion missile launcher]] (1)<ref name="LoNH" />
+**6 [[Concussion missile/Legends|concussion missiles]]<ref name="LoNH" />
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="Sony" /><ref name="TFUCG" /><ref name="LoNH" />
+|skeleton=
+|passengers=0<ref name="TFUCG" />
+|capacity=110 kg<ref name="TFUCG" />
+|cargohandling=
+|consumables=2 days<ref name="LoNH" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Light fighter<ref name="Sony" />
+*[[Interceptor/Legends|Interceptor]]<ref name="Sony" />
+|firstuse=
+|retired=
+|affiliation=*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="Sony" /><ref name="LoNH" /><ref name="FFGXW">{{FFGXW|set=M3-A Interceptor Expansion Pack}}</ref>
+*[[Binayre Pirates]]<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+*[[Blacklight Pirates]]<ref name="SWG:DS">{{SWGcite|exp=JtL|type=other|Dantooine system}}</ref>
+*[[Car'das/Legends|Car'das]]<ref name="FFGXW" />
+*[[Contraband Incorporated]]<ref name="SWG:ES">{{SWGcite|exp=JtL|type=other|Endor system}}</ref>
+*[[Corellia Deep Mining Company|CDMC]]'s [[Mercenary/Legends|mercenaries]]<ref name="SWG:RMFuA">{{SWGcite|exp=JtL|type=space|Rescue Mining Fleet under Attack|Yavin system}}</ref>
+*[[Coynite/Legends|Coynite]] mercenaries<ref name="SWG:DtCFD">{{SWGcite|exp=JtL|type=space|Destroy the Coynite Fighters Duty|Dathomir system}}</ref>
+*[[Evil Raiders]]<ref name="SWG:DtERT">{{SWGcite|exp=JtL|type=space|Destroy the Evil Raider Tyrant|Endor system}}</ref>
+*[[Force Assassins]]<ref name="SWG:DS" />
+*[[Gotal Bandits]]<ref name="SWG:RotW">''[[Star Wars Galaxies: Rage of the Wookiees]]''</ref>
+*[[Hidden Daggers]]<ref name="SWG:E">{{SWGcite|exp=JtL|type=faction|Rebel|Enough!!|Corellia}}</ref>
+*[[Ironfleck Marauders]]<ref name="SWG:JtL" />
+*[[Kimogila Fanatics]]<ref name="SWG:KS">{{SWGcite|exp=JtL|type=other|Karthakk system}}</ref>
+*[[Lok Revenants/Legends|Lok Revenants]]<ref name="SWG:DsdtaRct">{{SWGcite|exp=JtL|type=space|Deliver security data to a Rebel commando team|Lok and Dathomir systems}}</ref>
+*[[Naboo pirates]]<ref name="SWG:SWI">{{SWGcite|exp=NGE|type=class|Legacy|Star Wing Intercept|Naboo}}</ref>
+*[[Nal Raka Criminal Empire]]<ref name="SWG:NS">{{SWGcite|exp=JtL|type=other|Naboo system}}</ref>
+*[[Nova Orion Industries]]<ref name="SWG:HiNS">{{SWGcite|exp=NGE|type=general|Hyperspace is Not Safe|the Nova Orion Station}}</ref>
+*[[O.S.S. D-502 Junk Guild]]<ref name="SWG:DS" />
+*[[Privateer/Legends|Privateers]]<ref name="Sony" />
+*[[Rancor Clan]]<ref name="SWG:DtRC">{{SWGcite|exp=JtL|type=space|Destroy the Rancor Clan|Dathonir system}}</ref>
+*[[Red Skulls]]<ref name="SWG:JtL" />
+*[[Rodian/Legends|Rodian]] [[Hunting/Legends|hunters]]<ref name="SWG:RotW" />
+*[[S.A.T Artisan Sect]]<ref name="SWG:ES" />
+*[[Smugglers' Alliance]]<ref name="SWG:JtL" />
+*[[Zel'iphian Slave Traders Guild]]<ref name="SWG:DS" />
+}}
+The '''M3-A Scyk interceptor''', also known as '''Scyk light fighter''' or '''M3-A Scyk fighter''', was a light [[Interceptor/Legends|interceptor]], the lightest of all the [[Starfighter/Legends|starfighter]] designs produced by its [[Mandalorian/Legends|Mandalorian]] manufacturer, [[MandalMotors/Legends|MandalMotors]]. It was named after the [[Scyk/Legends|Scyk]] lizard of [[Tatooine/Legends|Tatooine]].
+
+==Characteristics==
+[[File:Scyk2.jpg|thumb|left|150px|The Style 2 Scyk]]
+Although the Scyk barely provided more amenities to its pilot than a [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]] did, it had two strong points - it was cheap and its weapon mount was designed to handle nearly anything. Its standard equipment consisted of a weapon, an [[Engine/Legends|engine]], a [[Reactor/Legends|reactor]], a capacitor and a weak [[Deflector shield generator/Legends|shield generator]]. Its [[Laser cannon/Legends|laser cannon]] could be easily swapped for an [[Ion cannon/Legends|ion cannon]], [[Concussion missile/Legends|concussion missiles]] or a [[Proton torpedo/Legends|proton torpedo]] launcher. Large organizations used this versatility to create wings of starfighters with complementary weapon mixes, while individual pilots benefited by replacing or upgrading damaged weapons anywhere in [[The galaxy/Legends|the galaxy]]. Apart from that, it had very little room for modifications and additional equipment, and was not able to fit a booster or a flight computer in addition to its default equipment, which made its pilots rely on allied ships to plot a [[Hyperspace/Legends|hyperspace]] jump.<ref name="TFUCG" />
+
+===Variants===
+There were two basic variations on the M3-A Scyk design, the main difference being that the second, less common design had an elongated section of the wings protrude forward past the [[Cockpit/Legends|cockpit]]. The difference in design had no known consequences on the performance of the starfighter.
+
+The design of the Scyk starfighter was used as the basis for its successor model, the [[G1-M4-C Dunelizard fighter]].
+
+==History==
+[[File:M3-A_Scyk_fighter.jpg|thumb|left|200px|A M3-A Scyk in flight]]
+The Scyk fighter was designed shortly after the [[Clone Wars/Legends|Clone Wars]]. During [[Galactic Empire/Legends|the Empire]] it was produced under unusual circumstances because [[MandalMotors/Legends|MandalMotors]] was not allowed to do business under the auspices of the [[Galactic Empire/Legends|Galactic Empire]] until an Imperial "adviser" was placed on the company's board of directors. Although MandalMotors operated under the supervision of the Galactic Empire, deception and bribery allowed it to produce ships for such organizations as the [[Hutt/Legends|Hutt]] clans and [[Zann Consortium/Legends|Zann Consortium]]. The Scyk fighter was one of the biggest sellers to such groups, as it was dangerous enough to be worthwhile, but not advanced enough to attract Imperial attention. The production of this ship stopped around the time [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] became active.<ref name="TFUCG" />
+
+[[Smuggler/Legends|Smugglers]] and thugs in employ of the [[Hutt/Legends|Hutt]] cartels or similar organizations loved the Scyk fighter for its essential traits of speed and maneuverability. In the hands of a skilled pilot the M3-A Scyk fighter was a deadly weapon. Pilots of the [[Black Sun/Legends|Black Sun]] learned this in the [[Battle of Tansarii Point Station/Legends|Battle of Tansarii Point Station]] in which many of them were killed by spacers hired by the [[Car'das/Legends|Car'das]] authorities who were in charge of security aboard the [[Tansarii Point Station/Legends|station]]. The spacers flew a completely unmodified M3-A Scyk fighter, relying only on skills and maneuverability.
+
+==Behind the scenes==
+The M3-A Scyk fighter appeared in the [[2003]] [[Star Wars video games|video game]] ''[[Star Wars Galaxies]]'', a [[Wikipedia:Massively multiplayer online role-playing game|massively multiplayer online roleplaying game]] developed by [[Sony]] Online Entertainment and published by [[LucasArts]],<ref name="SWG:JtL" /> prior to its closure on [[December 15]], [[2011]].<ref name="Shutdown">{{SonyCite|url=playerinfo|text=IMPORTANT INFORMATION ABOUT ''STAR WARS'' GALAXIES™}}</ref> The Scyk fighter was added to the game with the release of the expansion pack [[Star Wars Galaxies: Jump to Lightspeed|''Jump to Lightspeed'']] on [[October 27]], [[2004]]. As this expansion introduced space content in the game, the Scyk starfighter was added as the starter ship for players who chose the non-aligned "[[W:c:swg:Freelance Pilot|Privateer]]" faction (with the [[Z-95 Headhunter/Legends|Z-95 Headhunter]] and the [[TIE Light Duty]] as the Rebel and Imperial starter starfighters respectively) and could only be used by pilots of that faction. In addition, the M3-A Scyk could also be [[W:c:swg:Crafting|crafted]] by players with a [[W:c:swg:Shipwright (pre-NGE)|shipwright]] profession. In that way, the fighter could be built with two different [[W:c:swg:Ship chassis|chassis]] (appearances), each of them being highly customizable through addition of other [[W:c:swg:Ship component|ship components]] (reactors, weapons...). This made each player's Scyk fighter rather unique. Also of note, M3-A Scyk fighters were widely used by non-player pilots, particularly by criminals and mercenaries.<ref name="SWG:JtL" />
+
+With the release of the "[[W:c:swg:Publish 25 Notes for November 15, 2005|Publish 25]]," a.k.a. the "[[W:c:swg:New Game Enhancements|New Game Enhancements]]," on [[November 15]], [[2005]],<ref name="SonyCite-Publish Archive 2005">{{SonyCite|url=players/content.vm?id=64886&resource=publish|text=Publish Archive 2005}}</ref> the [[W:c:swg:New Player Tutorial|New Player Tutorial]] was completely revamped with the introduction of several space missions. In these missions, a M3-A Scyk fighter was given to the player by [[Serissu]] aboard [[W:c:swg:Tansarii Point Station|Tansarii Point Station]].<ref name="SWG:Fpm">{{SWGcite|exp=NGE|type=general|First pilot mission|Tansarii Point Station}}</ref> If the player chose to perform this tutorial, they would keep the M3-A Scyk after starting the main game. They would then have to use that Scyk fighter when starting the original ''Jump to Lightspeed'' pilot quests, even when joining the Empire or the Rebel Alliance. The "New Game Enhancements" therefore made the M3-A Scyk fighter the only starter starfighter playable by any faction.<ref name="SWG:SK">{{GalaxiesNGE}}</ref>
+
+As the M3-A Scyk fighter was a starter starfighter, it could only be customized with low-level ship components and was not adapted to mid- and high-level quests, forcing the players to abandon it at some point in the game to use another starfighter model.<ref name="SWG:JtL" /> A "high-mass" variant of the M3-A, nicknamed heavy Scyk, was eventually added to the game (via crafting), with an identical appearance to the original vessel, to permit players to pilot a M3-A Scyk at any stage of the game.<ref name="SWG:SK" />
+
+==Appearances==
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{1st}} {{ID|M3-A interceptor, Scyk M3-A light fighter & Scyk light fighter}}
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*{{GalaxiesNGE}}
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 2004-08-06 -->{{SonyCite|url=expansions_ships_light.jsp|text=Light Hutt Fighter}} {{ID|M3-A interceptor}}
+*<!-- 2004-08-06 -->{{SonyCite|url=expansions_ships_medium.jsp|text=Medium Hutt Fighter}}
+*<!-- 2004-10-01 -->{{SonyCite|url=content.jsp?page=Jump%20to%20Lightspeed:%20Getting%20started%20as%20a%20Privateer:%20Part%20I|text=Jump to Lightspeed: Getting started as a Privateer: Part I}}
+*<!-- 2004-10-08 -->{{SWArchive|url=gaming/videogames/news/news20041008.html|text=Fly in Luxury Style in ''Star Wars'' Galaxies: Jump To Lightspeed}} {{ID|M3-A "Scyk" interceptor}}
+*<!-- 2004-10-29 -->{{SonyCite|url=content.jsp?page=Hutt%20Ship%20Variants|text=Hutt Ship Variants}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]] {{ID|M3-A Scyk, Scyk light fighter & Scyk starfighter}}
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]] {{ID|M3-A Scyk, Scyk light fighter & Scyk starfighter}}
+*<!-- 2005-11-23 -->{{SonyCite|url=en_US/players/content.vm?page=Mystery%20on%20Gamma%20Station&resource=features|text=Mystery on Gamma Station}}
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]] {{ID|M3-A Scyk, Scyk light fighter & Scyk starfighter}}
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66882&resource=features|text=Ships: G1-M4-C Dunelizard}}
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66885&resource=features|text=Ships: M3-A Scyk}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]'' {{ID|M3-A Scyk fighter}}
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Scyk Interceptor}}
+*<!-- 2011-12-XX -->[[Star Wars Galaxies Memory Book|''Star Wars Galaxies'' Memory Book]] {{ID|M3-A "Scyk" interceptor}}
+*<!-- 2014-10-06 -->{{FantasyFlightGames|url=en/news/2014/10/6/illicit-dealings|text=Illicit Dealings}}
+*<!-- 2014-11-26 -->{{FFGXW|set=VT-49 Decimator Expansion Pack|cardname=Intimidation}} {{Po}}
+*<!-- 2014-12-29 -->{{FantasyFlightGames|url=en/news/2014/12/29/intercept-and-destroy|text=Intercept and Destroy}}
+*<!-- 2015-01-23 -->{{FantasyFlightGames|url=en/news/2015/1/23/behind-the-scenes-with-the-galaxys-scum-and-villainy|text=Behind the Scenes with the Galaxy's Scum and Villainy}} {{Po}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]'' {{ID|M3-A Scyk interceptor}}
+*<!-- 2015-02-19 -->{{FantasyFlightGames|url=en/news/2015/2/19/it-is-the-future-you-see-wave-6|text=It Is the Future You See}}
+*<!-- 2015-02-26 -->{{FantasyFlightGames|url=en/news/2015/2/26/wave-vi-is-now-available|text=Wave VI Is Now Available}}
+<!-- 2015-02-26 -->{{CardGameSet|set={{FFGXW|set=M3-A Interceptor Expansion Pack}}|cards=
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname=Cartel Spacer}}
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname=Flechette Cannon}} {{Po}}
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname="Heavy Scyk" Interceptor}}
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname=Laetin A'shera}}
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname=Serissu}}
+*<!-- 2015-02-26 -->{{FFGXW|set=M3-A Interceptor Expansion Pack|cardname=Tansarii Point Veteran}}
+}}
+*<!-- 2015-05-18 -->{{FantasyFlightGames|url=en/news/2015/5/18/no-card-left-behind-part-two|text=No Card Left Behind, Part Two}}
+*<!-- 2015-09-16 -->{{FantasyFlightGames|url=en/news/2015/9/16/there-has-been-an-awakening|text=There Has Been an Awakening}}
+*<!-- 2016-05-12 -->{{FantasyFlightGames|url=en/news/2016/5/12/imperial-victory-on-jakku|text=Imperial Victory on Jakku!}}
+*<!-- 2016-10-17 -->{{FantasyFlightGames|url=en/news/2016/10/17/a-test-of-your-skills|text=A Test of Your Skills}}
+*<!-- 2017-02-16 -->{{FantasyFlightGames|url=en/news/2017/2/16/the-coruscant-invitational|text=The Coruscant™ Invitational}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Scum and Villainy Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Laetin A'shera|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Scum and Villainy Conversion Kit|cardname=Serissu|reprint=1}}
+}}
+}}
+
+==Notes and references==
+{{ScrollBox|content=
+{{Reflist}}
+}}
+
+==External links==
+*{{SWGWiki|MandalMotors M3-A "Scyk" Interceptor}}
+
+{{Interlang
+|es=Interceptor M3-A Scyk/Leyendas
+}}
+
+[[Category:Hutt starship classes]]
+[[Category:MandalMotors products]]
+[[Category:Starfighter classes]]

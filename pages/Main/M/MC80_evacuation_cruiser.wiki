@@ -1,0 +1,77 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mon_Cal_transports.jpg]]
+|name=MC80 evacuation cruiser
+|designer=
+|manufacturer=[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]
+|line=[[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruisers]]<ref name="DESB">''[[Dark Empire Sourcebook]]''</ref>
+|model=Modified [[MC80 Star Cruiser/Legends|MC80 Star Cruiser]]<ref name="DESB" />
+|type=*[[Cruiser/Legends|Cruiser]]<ref name="DESB" />
+*[[Carrier/Legends|Carrier]]<ref name="DESB" />
+|cost=Not available for sale<ref name="DESB" />
+|modifier=[[Mon Calamari/Legends|Mon Calamari]] [[Technician/Legends|technicians]]<ref name="DESB" />
+|sysmods=
+|length=1,200 [[Meter/Legends|meters]]<ref name="DESB" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=60
+|max speed=600 [[Kilometer per hour/Legends|KPH]]<ref name="DESB" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 4 {{C|Primary}}<ref name="DESB" />
+*Class 14 {{C|Backup}}<ref name="DESB" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="DESB" />
+|poweroutput=
+|power=
+|shield gen=None {{C|removed}}<ref name="DESB" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="DESB" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None {{C|removed}}<ref name="DESB" />
+|complement=
+|bays=
+|escapepods=
+|crew=1,011
+|skeleton=429
+|passengers=75,000&ndash;150,000<ref name="DESB" />
+|capacity=16,000 [[Metric ton/Legends|tons]]<ref name="DESB" />
+|cargohandling=
+|consumables=6 [[Standard week/Legends|weeks]]<ref name="DESB" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Evacuation [[Transport/Legends|transport]]<ref name="DESB" />
+|firstuse=[[Battle of Calamari]],<ref name="DESB" /> [[10 ABY/Legends|10 ABY]]<ref name="NEC">''[[The New Essential Chronology]]''</ref>
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''MC80 evacuation cruiser''', or '''MC80 evacuation carrier''', was a modified version of the [[MC80 Star Cruiser/Legends|MC80 Star Cruiser]] that was designed for carrying civilians during a mass evacuation.
+
+==Characteristics==
+Modified from civilian and military [[MC80 Star Cruiser/Legends|MC80 Star Cruisers]], each evacuation [[Cruiser/Legends|cruiser]] was capable of safely carrying 75,000 people, though its capacity could be doubled at great risk, in addition to 16,000 [[Metric ton/Legends|tons]] of cargo. All the weapons systems and [[Deflector shield generator/Legends|shield generators]] were removed, making room for added [[Life support/Legends|life-support systems]]. The [[Hyperdrive/Legends|hyperdrives]] on these vessels were also reduced to Class 4 with a Class 14 backup, and allowed the cruisers to make only a few short jumps.<ref name="DESB" />
+
+==History==
+In [[10 ABY/Legends|10 ABY]],<ref name="NEC" /> [[Mon Calamari/Legends|Mon Calamari]] [[Technician/Legends|technicians]] converted MC80 [[Star Cruiser/Legends|Star Cruisers]] into evacuation [[Transport/Legends|transports]] at a rate exceeding one-per-[[Standard day/Legends|day]] to escape the [[Dark Empire|Imperial]] [[Battle of Calamari|attack]] on their [[Dac/Legends|planet]] spearheaded by the destructive [[World Devastator]]s. Though the evacuation was ultimately unnecessary,<ref name="DESB" /> many of the [[Planet/Legends|planet's]] inhabitants boarded the cruisers and fled from the battle.<ref name="DE2">[[Dark Empire 2|''Dark Empire'' 2]]</ref>
+
+==Appearances==
+*[[Dark Empire 2|''Dark Empire'' 2]] {{1st}}
+
+==Sources==
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]'' {{1stID|MC80 evacuation cruiser}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Crucero de evacuación MC80
+}}
+
+[[Category:Mon Calamari cruiser variants|MC080 Evacuation]]

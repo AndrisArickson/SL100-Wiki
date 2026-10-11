@@ -1,0 +1,127 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Mon_Remonda.jpg]]
+|name=MC80B Star Cruiser
+|designer=
+|manufacturer=[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]<ref name="FF96">{{FactFile|96|MON 1-2|''Mon Remonda''}}</ref>
+|line=[[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruisers]]
+|model=MC80B Star Cruiser<ref name="TEGtVaV">''[[The Essential Guide to Vehicles and Vessels]]''</ref><ref name="CTD">''[[Cracken's Threat Dossier]]''</ref><ref name="FF96" />
+|type=Heavy [[Star Cruiser/Legends|Star Cruiser]]<ref name="CTD" />
+|cost=
+|modifier=
+|sysmods=
+|length=Approximately<ref name="TEGtVaV" /> 1,200 [[Meter/Legends|meters]]<ref name="CTD" /><ref name="FF96" />
+|width=~572 meters
+|height=~150 meters
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=[[Ion engine/Legends|Ion engines]]<ref name="TEGtVaV" />
+|hyperdrive=*Class 1<ref name="CTD" />
+*Class 6 {{C|[[Backup hyperdrive|backup]]}}<ref name="CTD" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=Main [[Reactor/Legends|reactor]] core<ref name="TEGtVaV" />
+|shield gen=Superior main and multiple backup [[Deflector shield generator/Legends|shield generators]]<ref name="CTD" /><ref name="TEGtVaV" />
+|hull=Heavily reinforced [[Hull/Legends|hull]]<ref name="TEGtVaV" />
+|sensor=[[Sensor/Legends|Sensor]] clusters<ref name="TEGtVaV" />
+|target=
+|navigation=[[Navigation computer/Legends|Navi computer]]<ref name="CTD" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] batteries (48)<ref name="TEGtVaV" /><ref name="CTD" /><ref name="FF96" />
+:Fire arc: 12 front, 12 left, 12 right, 12 aft<ref name="CTD" />
+*[[Ion cannon/Legends|Ion cannon]] batteries (20)<ref name="TEGtVaV" /><ref name="CTD" /><ref name="FF96" />
+:Fire arc: 8 front, 4 left, 4 right, 4 aft<ref name="CTD" />
+*[[Tractor beam projector/Legends|Tractor beam projectors]]<ref name="Wedge">''[[X-Wing: Wedge's Gamble]]''</ref>
+|complement=[[Starfighter/Legends|Starfighter]] [[Squadron/Legends|squadrons]] (4, later upgraded to 8)<ref name="TEGtVaV" />
+|bays=
+|escapepods=
+|crew=*Crew members (5,156)<ref name="CTD" />
+*[[Gunner/Legends|Gunners]] (246)<ref name="CTD" />
+|skeleton=1,230<ref name="CTD" />
+|passengers=1,200 [[Trooper/Legends|troops]]<ref name="CTD" />
+|capacity=15,000 [[Metric ton/Legends|metric tons]]<ref name="CTD" />
+|cargohandling=
+|consumables=1.5 [[Standard year/Legends|years]]<ref name="CTD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale<ref name="CTD" />
+|role=*Heavy assault star cruiser<ref name="CTD" />
+*[[Carrier/Legends|Carrier]]
+*[[Command ship/Legends|Command ship]]
+|firstuse=[[5 ABY/Legends|5 ABY]]<ref name="TEGtVaV" /><ref name="TNEGtVaV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|retired=
+|affiliation=*[[New Republic/Legends|New Republic]]<ref name="TEGtVaV" />
+*[[Galactic Federation of Free Alliances]]<ref name="TUF" />
+}}
+The '''MC80B Star Cruiser''' was a [[Mon Calamari/Legends|Mon Calamari]] [[Warship/Legends|warship]] produced for the fledgling [[New Republic/Legends|New Republic]] [[New Republic Defense Fleet/Legends|fleet]]. The ''[[Mon Remonda/Legends|Mon Remonda]]'' was the first MC80B Star Cruiser.
+
+==Characteristics==
+===Dimensions===
+The MC80B had a roughly similar look to earlier models, but optimized the amount of guns available for a frontal assault by positioning them in forward-facing clusters around the ship. The class had its main reactor located on the ventral side of the vessel, while its bridge was located on the dorsal side, amidship. Hangar bays were located on the flanks of the ship.
+
+===Offensive and defensive systems===
+[[File:MonRemonda_egvv.jpg|thumb|left|150px|MC80B [[:Category:Technical drawing images|schematics]].]]
+
+An interim design, the MC80B was an improvement over the original [[MC80 Star Cruiser/Legends|MC80]]. The MC80B had a much more heavily reinforced hull, and featured multiple backup [[Deflector shield/Legends|deflector shield]] generators<ref name="TEGtVaV" /> resulting in superior shielding.<ref name="CTD" /> Spread across the hull were [[Turbolaser/Legends|turbolaser]] and shield projector blisters. A [[Sensor/Legends|sensor]] cluster was located at the tip of the bow. Built for durability, these ships were able to withstand heavy damage while blasting through the more limited shielding of [[Galactic Empire/Legends|Imperial]] ships.
+
+The MC80B was armed with forty-eight turbolaser batteries and twenty [[Ion cannon/Legends|ion cannons]] batteries. These weapons were linked in banks of twelve and four respectively, allowing the MC80B to easily concentrate its fire upon a single target.<ref name="TEGtVaV" /> The MC80B outgunned an [[Imperial-class Star Destroyer/Legends|Imperial Star Destroyer]].<ref name="TEGtW">''[[The Essential Guide to Warfare]]''</ref>
+
+===Hangar complement===
+The MC80B [[Cruiser/Legends|cruiser]] carried four [[Starfighter/Legends|starfighter]] [[Squadron/Legends|squadrons]]. Later ships in this line were refitted to hold up to eight squadrons. The standard fighter complement included one [[RZ-1 A-wing interceptor/Legends|A-wing]], two [[T-65 X-wing starfighter/Legends|X-wings]] and one [[A/SF-01 B-wing starfighter/Legends|B-wing]] squadron.<ref name="TEGtVaV" />
+
+===Bridge===
+Like the MC80, and unlike the later [[MC90 Star Cruiser]], the MC80B was not designed to accommodate different species. Holographic displays and monitors were optimized for [[Mon Calamari/Legends|Mon Calamari]] vision, and some controls required movements that were nearly impossible for [[Human/Legends|Humans]] to perform.<ref name="TEGtVaV" />
+
+==History==
+[[File:MonRemonda2-FF.jpg|thumb|left|180px|''[[Mon Remonda/Legends|Mon Remonda]]'']]
+The first ship of this line was ''[[Mon Remonda/Legends|Mon Remonda]]'', which entered service approximately a [[5 ABY/Legends|year and a half]] after the [[Battle of Endor/Legends|Battle of Endor]]. These capable ships led the forces of the New Republic during its formative years, and were supplanted by the [[MC90 Star Cruiser]] [[9 ABY/Legends|four years later]].<ref name="TEGtVaV" />
+
+The MC80B would continue to serve in the New Republic Navy throughout the [[Yuuzhan Vong War]]. When the government transitioned into the [[Galactic Federation of Free Alliances]], the vessel continued to see frontline use.<ref name="TUF">''[[The New Jedi Order: The Unifying Force]]''</ref>
+
+==Behind the scenes==
+In Part 12 of Jason Fry's endnotes for ''[[The Essential Guide to Warfare]]'', [[Paul R. Urquhart]] considered mentioning in the book that the [[Republic-class Star Destroyer|''Republic''-class Star Destroyer]] and the MC80B Star Cruiser were intended to be the same ship under different names, but it was ultimately cut from the final version.<ref name="endnotes 12">{{Tumblr|subdomain=jasonfry|url=post/25364458982/eg-to-warfare-endnotes-pt-12|name=Jason Fry's Dorkery|text=EG to Warfare: Endnotes Pt. 12}}</ref>
+
+==Appearances==
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}} {{1st|in book}}
+*''[[Tatooine Ghost]]'' {{Mo}}
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+
+==Sources==
+{{Mediacat|imagecat=Images of MC80B Star Cruisers}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2002-03-20 -->{{FactFile|12|HOM 1-2|''Home One'' (MC80 Mon Calamari Star Cruiser)}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-29 -->{{FactFile|96|MON 1-2|''Mon Remonda''}}
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=MC80B-Sternkreuzer#legends
+|fr=Croiseur MC80b
+|pl=MC80b
+|es=Crucero Estelar MC80B
+}}
+
+[[Category:Heavy cruiser classes]]
+[[Category:Mon Calamari cruiser variants|MC080B]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the New Republic]]
+
+{{RelatedCategories
+|[[Category:MC80B Star Cruisers]]
+}}

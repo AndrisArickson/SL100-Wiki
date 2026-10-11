@@ -1,0 +1,78 @@
+{{Top|leg}}
+{{Image}}
+{{StarshipClass
+|image=
+|name=Luxury Cruiser 200
+|designer=
+|manufacturer=[[SoroSuub Corporation/Legends|SoroSuub Corporation]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|line=Luxury Cruiser
+|model=Personal Luxury Yacht 200
+|type=[[Yacht/Legends|Yacht]]<ref name="PP" />
+|cost=125,000 [[Galactic Credit Standard/Legends|credits]]<ref name="PP" />
+|modifier=
+|sysmods=
+|length=100 [[Meter/Legends|meters]]<ref name="PP" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0 {{C|primary}}<ref name="PP" />
+*Clas 12.0 {{C|backup}}<ref name="PP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="PP" />
+|skeleton=1/+10<ref name="PP" />
+|passengers=28<ref name="PP" />
+|capacity=15 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Luxury Cruiser 200''' was a [[Yacht/Legends|yacht]] manufactured by [[SoroSuub Corporation/Legends|SoroSuub Corporation]]. This model was popular among the young rich of the [[Mid Rim/Legends|Mid Rim]]. Small enough to be intimate and cozy, the 200 was built for amusement, not combat.
+
+{{Ship-stub}}
+
+==Appearances==
+*{{JournalCite|10|The Capture of Imperial Hazard|The Capture of ''Imperial Hazard''|reprint=1}}
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Luxury Cruiser 200
+}}
+
+[[Category:SoroSuub Corporation products]]
+[[Category:Yacht classes]]
+
+{{RelatedCategories
+|[[Category:Luxury Cruiser 200s]]
+}}
