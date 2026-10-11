@@ -1,0 +1,79 @@
+{{Top|leg}}
+{{Otheruses|Space Defense Platform}}
+{{StarshipClass
+|image=
+|name=Golan VIII space defense platform
+|designer=
+|manufacturer=[[Golan Arms/Legends|Golan Arms]]<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+|line=[[Golan space defense platform]]s<ref name="LECG" />
+|model=Golan VIII space defense platform<ref name="LECG" />
+|type=Space defense platform<ref name="LECG" />
+|cost=45,000,000 [[Galactic Credit Standard/Legends|credits]] (20,000,000 used)<ref name="LECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 4 (Backup:Class 12)<ref name="LECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Shield array<ref name="LECG" />
+|hull=Armor-plated hull<ref name="LECG" />
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="LECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Turbolaser/Legends|Turbolaser]] batteries (10)<ref name="LECG" />
+*Point-defense [[Laser cannon/Legends|laser cannon]] batteries (4)<ref name="LECG" />
+*[[Proton torpedo/Legends|Proton torpedo]] batteries (4)<ref name="LECG" />
+**Proton torpedo payload (240)
+*[[Tractor beam/Legends|Tractor beam]] batteries (4)<ref name="LECG" />
+|complement=*[[Shuttle/Legends|Shuttles]] (20)<ref name="LECG" />
+*[[Starfighter/Legends|Starfighters]] (24)<ref name="LECG" />
+*[[Work pod]]s (150)<ref name="LECG" />
+|bays=
+|escapepods=
+|crew=1,100<ref name="LECG" />
+|skeleton=
+|passengers=100 troops<ref name="LECG" />
+|capacity=15,000 tons<ref name="LECG" />
+|cargohandling=
+|consumables=6 months<ref name="LECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="LECG" />
+|role=Planetary defense<ref name="LECG" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Alliance Remnant]]<ref name="LECG" />
+}}
+The '''Golan VIII space defense platform''' was a mobile [[Space station/Legends|space station]] used by the [[Galactic Federation of Free Alliances]]. It was a member of the [[Golan space defense platform|Golan series]] of heavily-armed platforms.
+
+==Description==
+The Golan VIII was a Golan Arms [[Battle station/Legends|battle station]] fitted with a [[Hyperdrive/Legends|hyperdrive]] for easier relocation. To operate it, the main power systems had to be re-routed as the class was primarily meant to defend a fixed location.<ref name="LECG" />
+
+==History==
+One such station was used to guard the [[Black Redoubt]], a secret [[Galactic Alliance Remnant]] logistics facility.<ref name="LECG" />
+
+==Sources==
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Golan-VIII-Verteidigungsplattform
+}}
+
+[[Category:Golan defense platform models|Golan 7]]
