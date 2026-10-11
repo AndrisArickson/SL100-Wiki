@@ -1,0 +1,20 @@
+{{Top|leg}}
+{{Citation}}
+The '''Kre'fey family''' was a [[Bothan/Legends|Bothan]] family to which several promimnent Bothan military officers belonged. It indirectly involved [[Borsk Fey'lya]], the [[Chief of State (New Republic)/Legends|Chief of State]] of the [[New Republic/Legends|New Republic]], and three other Bothans that served in the [[New Republic Defense Force/Legends|New Republic Defense Force]] and the [[Galactic Alliance Defense Force]]. They belonged to [[Clan Afey]].
+
+{{Family-stub}}
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree| | | | | |LARYN|y|UNKNF| |FEF|LARYN=[[Laryn Kre'fey]]|UNKNF=Unknown female|FEF={{C|see [[Fey'lya family]]}}|boxstyle_LARYN=m|boxstyle_UNKNF=f|boxstyle_FEF=u}}
+{{FamilyTree| | | | | | |,|-|^|-|.| | | |!|}}
+{{FamilyTree| |UNKNF|y|MKREF| |FKREF|y|MFEYL|UNKNF=Unknown female|MKREF=Unknown Male<br />Kre'fey|FKREF=Unknown Female<br />Kre'fey|MFEYL=Unknown Male<br />Fey'lya|boxstyle_UNKNF=f|boxstyle_MKREF=m|boxstyle_FKREF=f|boxstyle_MFEYL=m}}
+{{FamilyTree| | |,|-|^|-|.| | | | | |!| | |}}
+{{FamilyTree| |KARKA| |TRAES| | | |BORSK| ||KARKA=[[Karka Kre'fey]]|TRAES=[[Traest Kre'fey]]|BORSK=[[Borsk Fey'lya]]|boxstyle_KARKA=m|boxstyle_TRAES=m|boxstyle_BORSK=m}}
+{{FamilyTree/end}}
+
+==Appearances==
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]''
+
+[[Category:Families]]

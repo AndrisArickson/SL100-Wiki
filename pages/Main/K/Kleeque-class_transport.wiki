@@ -1,0 +1,80 @@
+{{Top|leg|title=''Kleeque''-class transport}}
+{{StarshipClass
+|image=[[File:KleequeTransport.png]]
+|name=''Kleeque''-class transport
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]
+|line=
+|model=''Kleeque''-class transport
+|type=[[Shuttle/Legends|Shuttle]]
+|cost=
+|modifier=
+|sysmods=
+|length=250 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|kmh]]
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0
+*Backup Class 10
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=Equipped
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] turrets (2)
+|complement=
+|bays=
+|escapepods=
+|crew=16
+|skeleton=4
+|passengers=100<ref name="RASBII">[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]</ref> or 1,000<ref name="Rules of Engagement: The Rebel SpecForce Handbook">''[[Rules of Engagement: The Rebel SpecForce Handbook]]''</ref>
+|capacity=5,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Evacuation vehicle
+*Landing craft
+*Troop transport
+|firstuse=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+}}
+The '''''Kleeque''-class transport''' was a medium-range [[Transport/Legends|transport]] [[Starship/Legends|vessel]] for military personnel and equipment.
+
+==History==
+During the [[Galactic Civil War/Legends|Galactic Civil War]], many ''Kleeque''-class vessels could be found in the hands of the [[Alliance to Restore the Republic/Legends|Rebel Alliance]]. Originally designed as an inter-[[Star system/Legends|system]] ferry, Rebel ''Kleeque''-class vessels were modified into regimental troopships.
+
+Though they were never intended to enter space combat, they were often used to run blockades and make landings in contested territory. [[Echo Base/Legends|Echo Base]] on [[Hoth/Legends|Hoth]] had six ''Kleeque''-class transports on standby for evacuation in addition to their fleet of thirty [[GR-75 medium transport/Legends|GR-75 medium transports]].<ref name="RASBII" />
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]'' {{1stm}}
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Kleeque-Klasse Transporter
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Troop transport starship classes]]

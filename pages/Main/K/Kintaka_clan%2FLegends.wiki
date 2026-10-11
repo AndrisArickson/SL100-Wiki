@@ -1,0 +1,42 @@
+{{Top}}
+{{Conjecture|legends}}
+{{Family
+|image=
+|name=Kintaka clan
+|type=
+|species=[[Ewok/Legends|Ewok]]
+|first=
+|head=
+|relatives=*[[Asha/Legends|Asha]]
+*[[Kneesaa a Jari Kintaka/Legends|Kneesaa]]
+|origin=[[Endor/Legends|Endor]]
+|locations=
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=
+}}
+The '''Kintaka family''' was a family of [[Ewok/Legends|Ewoks]] from the [[Endor/Legends|Forest Moon of Endor]].
+
+==Family tree==
+{{FamilyTree/start|summary=}}
+{{FamilyTree | | |,|-|-|-|-|-|.| | }}
+{{FamilyTree | | |!| | | | | |!| | }}
+{{FamilyTree | | |BOZ| |RAL|y|CHIR|BOZ=[[Bozzie]]|RAL=[[Ra-Lee/Legends|Ra-Lee]]|CHIR=[[Chirpa/Legends|Chirpa]]|boxstyle_BOZ=f|boxstyle_RAL=f|boxstyle_CHIR=m}}
+{{FamilyTree | | |!| | | | | | |!| | }}
+{{FamilyTree | | |PAPLO| | | | |!| PAPLO=[[Paploo/Legends|Paploo]]|boxstyle_PAPLO=m}}
+{{FamilyTree | | | | | | ||,|-|^|-|.| |}}
+{{FamilyTree | | | | | | |ASHA| |KNEKI|~|WICWA| |ASHA=[[Asha/Legends|Asha]]|KNEKI=[[Kneesaa a Jari Kintaka/Legends|Kneesaa]]|WICWA=[[Wicket Wystri Warrick/Legends|Wicket Wystri Warrick]]|boxstyle_ASHA=f|boxstyle_KNEKI=f|boxstyle_WICWA=m}}
+{{FamilyTree/end}}
+
+==Sources==
+*<!-- 2001-04-03 -->[[The Essential Guide to Alien Species (real-world book)|''The Essential Guide to Alien Species'']]
+
+{{Interlang
+|es=Familia Kintaka
+}}
+
+[[Category:Ewoks]]
+[[Category:Families]]
