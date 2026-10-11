@@ -1,0 +1,109 @@
+{{Top|leg|canon=HT-2200}}
+{{StarshipClass
+|image=[[File:HT-2200_SS.jpg]]
+|name=HT-2200 medium freighter
+|designer=
+|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="BG">{{JournalCite|5|A Buyer's Guide to Alternative Starships}}</ref>
+|line=
+|model=HT-2200
+|type=Medium [[Freighter/Legends|freighter]]<ref name="BG" />
+|cost=*240,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="BG" />
+*110,000 credits {{C|used}}<ref name="BG" />
+|modifier=
+|sysmods=
+|length=54.8 [[Meter/Legends|meters]]<ref name="BG" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=750 [[Kilometer per hour/Legends|kmh]]<ref name="BG" />
+|maneuverability=
+|engine=[[Koensayr Manufacturing/Legends|Koensayr]] single-tube [[Ion engine/Legends|ion drive]]<ref name="BG" />
+|hyperdrive=*Class 2.0<ref name="BG" />
+*Class 15 {{C|[[Backup hyperdrive|backup]]}}<ref name="BG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=[[Lotek]] [[11P power generator]]<ref name="BG" />
+|shield gen=[[Novaldex/Legends|Novaldex]] [[GA21 shield generator]]<ref name="BG" />
+|hull=*Reinforced superstructure<ref name="BG" />
+*[[Trimantium/Legends|Trimantium]] [[Hull/Legends|hull]] plating<ref name="BG" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Taim & Bak/Legends|Taim & Bak]] [["Queldor" single-barrel laser cannon]] [[Turret/Legends|turrets]] (2)
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="BG" />
+|skeleton=
+|passengers=8<ref name="BG" />
+|capacity=800 [[Metric ton/Legends|metric tons]] {{C|4 independent bays}}<ref name="BG" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="BG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Freighter
+*Smuggling vessel
+*Troop transport {{C|[[Alliance to Restore the Republic/Legends|Rebel]] modification}}
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''HT-2200''' was a medium freighter from [[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] which was intended to capitalize on the popularity of the [[YT-1300 light freighter/Legends|YT-1300]].
+
+==Characteristics==
+[[File:Ht-2200.jpg|thumb|left|200px|Top and side views of the HT-2200.]]
+
+HT-2200s had a significantly larger cargo capacity than any [[YT-series/Legends|YT-series]] vessel. They also had a stronger [[Hull/Legends|hull]] and greater baseline armament than the smaller YT series ships, though they were still lightly armed for their size.
+
+The design of the hull and power distribution systems allowed the installation of additional weapons, though this would necessitate the upgrading of the power generator as well. Most HT-2200 owners added new drive systems, the most popular being the [[1L10 drive]] by [[Incom Corporation/Legends|Incom]]<ref name="BG" /> or drives from [[SoroSuub Corporation/Legends|SoroSuub]].
+
+Their main advantage over the YT series was in the design of the cargo bay. The cargo area of the HT-2200 was divided into four independent sections, each of which had its own environmental controls. Without significant modifications, the cargo area in a YT series freighter had to share the same environmental conditions as the rest of the ship. The crew of an HT-2200 could set the gravity, temperature, and atmosphere in each cargo bay differently from each other or the crew area.<ref name="SS">''[[Stock Ships]]''</ref>
+
+==History==
+Though CEC expected the HT-2200 to be a very successful product, poor reviews and insufficient manufacturer support caused it to flop. Its slow speed and low maneuverability earned the HT-2200 a reputation for being "[[Pirate/Legends|pirate]] bait."<ref name="SS" /> In its baseline configuration, the HT-2200's advantages were offset by inadequate maneuvering thrusters, a low lift-to-mass ratio, and an overtaxed main power generator.<ref name="PP">''[[Pirates & Privateers]]''</ref> Fortunately, these craft were as easy to modify as with their smaller cousins.
+
+==Known ships==
+*''[[Cavalcade]]''
+*[[Dark Vendetta (freighter)|''Dark Vendetta'']]
+*''[[Karbarr's Fortress]]''
+*''[[Reekeene's Retribution]]''
+
+==Behind the scenes==
+The HT-2200 bears a strong resemblance to [[Spice tanker|the freighter]] flown by [[Luke Skywalker/Legends|Luke]] and [[Leia Organa Solo/Legends|Leia]] in [[Star Wars (1977) 38|''Star Wars'' (1977) 38]], but differs in some significant details. A similar ship flown by [[Chewbacca/Legends|Chewbacca]] in [[Chewbacca (2000) 2|''Chewbacca'' (2000) 2]] also resembles the earlier Marvel ship.
+
+==Appearances==
+*[[Allegiance (novel)|''Allegiance'']] {{Ab|Allegiance (audiobook)}}
+*{{DarkStryder|adventure=Wildfire (adventure)|book=The Kathol Outback|reprint=yes}} {{1st}}
+
+==Sources==
+*<!-- 1995-02-XX -->{{JournalCite|5|A Buyer's Guide to Alternative Starships}}
+*<!-- 1996-01-15 -->''[[The Kathol Outback]]''
+*<!-- 1996-02-XX -->{{JournalCite|9|Fizzi's Slightly Used Starships (article)}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 2014-08-14 -->''[[Far Horizons]]''
+*<!-- 2015-07-30 -->[[Star Wars: Force and Destiny Core Rulebook|''Star Wars: Force and Destiny'' Core Rulebook]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=HT-2200-Frachter
+|es=Carguero mediano HT-2200
+|pl=HT-2200
+}}
+
+[[Category:Freighter classes]]
+
+{{RelatedCategories
+|[[Category:HT-2200 medium freighters]]
+}}

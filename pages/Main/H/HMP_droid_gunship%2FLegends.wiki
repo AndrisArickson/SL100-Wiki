@@ -1,0 +1,163 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:DroidGunship-SWE.jpg]]
+|name=HMP droid gunship
+|designer=
+|manufacturer=*[[Baktoid Fleet Ordnance/Legends|Baktoid Fleet Ordnance]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+*[[Haor Chall Engineering/Legends|Haor Chall Engineering]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+|line=
+|model=HMP {{C|Heavy Missile Platform}} droid gunship<ref name="CCS" />
+|type=*[[Airspeeder/Legends|Airspeeder]]<ref name="wizards">{{Wizards|url=default.asp?x=starwars/article/sw20050811a|text=Starships and Vehicles of ''Revenge of the Sith''}}</ref>
+*[[Gunship/Legends|Gunship]]<ref name="CCS" />
+|cost=*60,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="wizards" />
+*30,000 credits {{C|used}}<ref name="wizards" />
+|modifier=
+|sysmods=
+|length=12.3 [[Meter/Legends|meters]]<ref name="CCS" /><ref name="DB entry">{{DB|vehicle|droidgunship|droid gunship}}</ref><ref name="wizards" />
+|width=11 meters<ref name="CSWE">{{CSWECite|II|47|HMP droid gunship}}</ref>
+|height=3.1 meters<ref name="CCS" />
+|mass=
+|max accel=100 G<ref name="CCS" />
+|mglt=50<ref name="BF:RS">''[[Star Wars Battlefront: Renegade Squadron]]''</ref>
+|max speed=600 [[Kilometer per hour/Legends|km/h]]<ref name="wizards" /> to 14,200 km/h<ref name="CCS" />
+|maneuverability=
+|engine=
+|hyperdrive=None<ref name="wizards" />
+|hdrange=
+|hdsystem=None<ref name="wizards" />
+|poweroutput=
+|power=
+|shield gen=30 {{C|DR 10}}<ref name="wizards" />
+|hull=50 {{C|DR 10}}<ref name="wizards" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Autoturret/Legends|Turreted]] twin medium [[Laser cannon/Legends|laser cannons]] (2)<ref name="CCS" />
+*Medium [[Laser/Legends|laser]] [[Cannon/Legends|cannon]] (1)<ref name="CCS" />
+*Light laser cannons (2)<ref name="CCS" />
+*Variable-payload [[Missile launcher/Legends|missile launchers]] {{C|2, with 7 missiles each}}<ref name="CCS" />
+**[[Concussion grenade/Legends|Concussion bombs]] (2)
+**Torpedoes
+**EMP missiles
+|complement=
+|bays=
+|escapepods=
+|crew=Integrated [[Droid/Legends|droid]] [[Droid brain/Legends|brain]]<ref name="CCS" />
+|skeleton=
+|passengers=None<ref name="wizards" />
+|capacity=12 SBDs or BX-series droid commandos with droid deployment racks<ref name="TCW:Crisis">{{TCW|Crisis at the Heart}}</ref>
+|cargohandling=Droid deployment racks {{C|optional}}<ref name="SWE entry">{{SWE|technology|droid-gunship|droid gunship}}</ref>
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Aerial assault craft<ref name="CCS" />
+|firstuse=c. [[20 BBY/Legends|20 BBY]]<ref name="Darth Maul date">''[[Star Wars: Darth Maul — Death Sentence]]'' places the [[Darth Maul/Legends|Darth Maul]] revival arc in [[20 BBY/Legends|20 BBY]], which takes place around the episode "Tipping Points."</ref>
+|retired=
+|affiliation=*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="CCS" />
+*[[Separatist holdouts/Legends|Separatist holdouts]]<ref name="BII" />
+**[[Gizor Dellso's navy]]<ref name="BII" />
+}}
+{{Quote|Uh-oh.|Vilmarh Grahrk upon seeing an HMP|<ref name="THE">[[Republic 82|''Republic'' 82]]</ref>}}
+The '''HMP (Heavy Missile Platform) droid gunship''', also simply known as the '''droid gunship''', '''Separatist gunship''', or '''HMP ''Predator''''', was deployed by the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] (CIS) relatively late in the [[Clone Wars/Legends|Clone Wars]] and was based on the design of the older [[Mechanized Assault Flyer]]. A [[Deflector shield/Legends|shielded]] [[Missile/Legends|missile]] platform, the gunship was designed for air strikes in [[Planet/Legends|planetary]] [[Atmosphere/Legends|atmospheres]]. Though the ship was slower and less maneuverable than smaller fighters, it made up in its heavy and powerful arsenal. HMPs were armed with two [[Laser cannon/Legends|laser cannon]] [[Autoturret/Legends|turrets]], one medium laser cannon, two light laser cannons, and 14 missiles. The gunship was able to carry a large variety of ordnance ranging from [[Concussion grenade/Legends|concussion bombs]] to [[Torpedo/Legends|torpedoes]] and [[Electromagnetic pulse/Legends|electromagnetic pulse]] missiles.
+
+Heavy Missile Platforms were developed by [[Baktoid Fleet Ordnance/Legends|Baktoid Fleet Ordnance]] and [[Haor Chall Engineering/Legends|Haor Chall Engineering]] for the [[Separatist Droid Army/Legends|Separatist Droid Army]] in response to the success of the [[Grand Army of the Republic/Legends|Grand Army of the Republic's]] [[Low Altitude Assault Transport/infantry/Legends|Low Altitude Assault Transport/infantry]] gunship. The gunships saw their first major Clone Wars action around [[20 BBY/Legends|20 BBY]] when four of them were deployed on the [[Planet/Legends|planet]] [[Onderon/Legends|Onderon]] to fight off an army of [[Onderon rebels/Legends|rebels]]. The HMPs would later be used to escort [[General/Legends|General]] [[Grievous/Legends|Grievous]] and a boarding party to the [[Republic Navy/Legends|Republic Navy's]] [[Negotiator/Legends|''Negotiator'']]. The gunships would again be used during the [[Battle of Kashyyyk/Legends|Battle of Kashyyyk]] in [[19 BBY/Legends|19 BBY]]. After the Republic transformed into the [[Galactic Empire/Legends|Galactic Empire]] that same [[Standard year/Legends|year]], the armies of the CIS were deactivated. However, a [[Geonosian/Legends|Geonosian]] named [[Gizor Dellso]] used one of these gunships to board an [[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]] during the [[Battle of Mustafar (Imperial Period)|Battle of Mustafar]]. It was destroyed by the [[Stormtrooper/Legends|stormtroopers]] of the [[501st Legion/Legends|501st Legion]].
+
+==Characteristics==
+{{Quote|Leave no survivors. Go."<br />"By your command.|General Kalani and a droid gunship|audio=ByYourCommand-TP.flac|<ref name="TCW:TP">{{TCW|Tipping Points}}</ref>}}
+[[File:DroidGunship_ICS.jpg|thumb|left|180px|HMP cross-section]]
+The HMP (Heavy Missile Platform) [[Droid/Legends|droid]] [[Gunship/Legends|gunship]], often referred to as "droid gunship,"<ref name="CCS" /> "Separatist gunship,"<ref name="The Deserter">{{TCW|The Deserter}}</ref> or "HMP ''Predator'',"<ref name="SW.com trivia">{{SW|url=explore/the-clone-wars/ep505|text="Tipping Points" &ndash; ''The Clone Wars'' Episode Guide|nolive=1}}</ref> was a heavily-[[Deflector shield/Legends|shielded]] aerial [[Missile/Legends|missile]] platform. Units ranged in length from 12.3 [[Meter/Legends|meters]]<ref name="CCS" /> to 18.2 meters<ref name="PrimaBF2" /> and were eleven meters wide and 3.1 meters tall. Droid gunships sold for 60,000 [[Galactic Credit Standard/Legends|credits]] new and 30,000 credits used. On either side of the gunship's nose were large spherical gun turrets, mounting twin medium [[Laser cannon/Legends|laser cannons]] along with their respective capacitors, as well as the targeting scanners and targeting sensor ports used to aim them. Between the two turrets were moving mandibles, a rotating mount for a medium cannon mounted on the gunship's chin, and inductors that supplied power to the gun turrets through a gap in the back of each turret, where they were hidden from external attack by the turret's armored socket. On top of the nose were two [[Photoreceptor/Legends|photoreceptor]] eyes, long-range sensor ports, the processor for the sensors and antennae, the portside targeting processor, and the starboard deflector shield generator. On the side of the nose were the fuel tanks that were exposed in order to keep radioactive fuel particles from damaging systems located under the ship's shell.<ref name="CCS" />
+
+The rear of the ship was composed of a large disc. Inside the disc were the power cells, the inner support frame, [[Repulsorlift/Legends|repulsorlift]] generator, fuel pumps, and the repulsor projector grid that applied the ship's anti-[[Gravity/Legends|gravitational]] lift. On the outside of the disc were the ion drive thrusters, located in grooves on the disc surface, the cooling radiator, the waste gas vent, the shield projector, and a sponsorship emblem of [[Phlac-Arphocc Automata Industries/Legends|Phlac-Arphocc Automata Industries]]. In the center of the disc was the ship's [[Reactor/Legends|reactor core]], and on the front of the disc were the ship's binocular range finders used to aid in long-range spatial sense and missile guidance. On the right and left sides of the disc were modular wings that could be removed or equipped with an explosive payload.<ref name="CCS" />
+
+===Capabilities===
+<div style="float:right">[[File:DroidGunshipOnderon-SWE.png|thumb|left|250px|A droid gunship chasing rebels on Onderon during the Clone Wars]]</div>
+The HMP's repulsorlift would steadily drive the gunship in flight, allowing for stable shooting in battle. The gunship ran off an especially superdense radioactive fuel supplied by Phlac-Arphocc Automata Industries.<ref name="CCS" /> The gunships were also equipped with [[Ray shield/Legends|ray shields]] and [[Vocabulator/Legends|vocabulators]]. [[BX-series droid commando/Legends|BX-series droid commandos]] were capable of riding on and using the gunships as firing platforms.<ref name="TCW:TP" /> Late in the war, the gunships were also modified to carry twelve [[B2-series super battle droid/Legends|B2 super battle droids]] in ventral deployment racks located under the disc.<ref name="SWE entry" /><ref name="TCW:Unkown">{{TCW|The Unknown}}</ref> The gunship also had a variant capable of short [[Realspace/Legends|space]] travel.<ref name="BII" /> The HMP had a maximum acceleration of 100G and could reach [[Atmosphere/Legends|atmospheric]] speeds of up to 14,200 kilometers per hour<ref name="CCS" /> or fifty [[megalight]]s per hour (MGLT).<ref name="BF:RS" /> The ship was not equipped with a [[Hyperdrive/Legends|hyperdrive]].<ref name="wizards" />
+
+===Ordnance===
+Designed for air strikes in [[Planet/Legends|planetary]] atmospheres, the droid gunship compensated for its sluggish airspeed with a powerful arsenal of weaponry. An HMP gunship's standard weapons configuration consisted of two laser cannon [[Autoturret/Legends|turrets]], one medium laser cannon, two light laser cannons, and 14 missiles. The gunship's modular wings allowed the HMP to carry a wide variety of ordnance, from [[Concussion grenade/Legends|concussion bombs]] and [[Torpedo/Legends|torpedoes]] to [[Electromagnetic pulse/Legends|electromagnetic pulse]] missiles. Seven missile launchers were located on either side of the gunship's main body, below the large aft-mounted disc housing the reactor core. The ships could also be fitted with droid deployment racks for insertion and extraction into heavy combat area.<ref name="SWE entry" />
+
+==History==
+{{Quote|Your gunships have failed!|Sanjay Rash to General Kalani after the Separatist defeat on Onderon|<ref name="TCW:TP" />}}
+[[File:HMPGunshipsOnderon.png|thumb|left|250px|HMP gunships use their vocabulators to communicate with General Kalani.]]
+Heavy Missile Platform gunships were developed late during the [[Clone Wars/Legends|Clone Wars]]<ref name="SWE entry" /> by [[Haor Chall Engineering/Legends|Haor Chall Engineering]]<ref name="PrimaBF2" /> and [[Baktoid Fleet Ordnance/Legends|Baktoid Fleet Ordnance]] for the [[Confederacy of Independent Systems/Legends|Separatist]] [[Separatist Droid Army/Legends|Droid Army]] in response to the enormous success of the [[Grand Army of the Republic/Legends|Grand Army]] of the [[Galactic Republic/Legends|Republic's]] [[Low Altitude Assault Transport/infantry/Legends|Low Altitude Assault Transport/infantry]] (LAAT/i).<ref name="DB entry" /> Local dictators like [[Ado Eemon/Legends|Ado Eemon]] were often contracted to add to the production of the HMP and were usually supplied with a small percent of the production run, which was used to supplement their personal forces and help enforce their own rule.<ref name="CCS" />
+
+The gunships made their first appearance in battle around [[20 BBY/Legends|20 BBY]]<ref name="Darth Maul date" /> when a quartet of gunships were deployed under the command of [[Super tactical droid/Legends|super tactical droid]] [[General/Legends|General]] [[Kalani/Legends|Kalani]] on the [[Planet/Legends|planet]] [[Onderon/Legends|Onderon]] to [[Battle of Onderon/Legends|defeat]] an army of [[Onderon rebels/Legends|rebels]] that had gathered in the highlands. Although they were able to kill many rebels, they were all shot down after the rebels received a shipment of missile launchers delivered by the [[Pirate/Legends|pirate]] [[Hondo Ohnaka/Legends|Hondo Ohnaka]] and paid for by [[Anakin Skywalker/Legends|Anakin Skywalker]]. A crashed gunship, though, used its last energy to kill the rebel leader [[Steela Gerrera/Legends|Steela Gerrera]] by shooting at [[Ahsoka Tano/Legends|Ahsoka Tano]] who was attempting to use [[The Force/Legends|the Force]] to save Steela from a cliff's edge. [[General/Legends|General]] Kalani evacuated the remaining Separatist forces from the planet after the defeat.<ref name="TCW:TP" /> During an [[Attack on Obi-Wan Kenobi's fleet/Legends|attack]] on the [[Navy/Legends|starfleet]] of [[Jedi/Legends|Jedi]] [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]], droid gunships were used to deploy battle droids in an effort by General [[Grievous/Legends|Grievous]] to board the [[Negotiator/Legends|''Negotiator'']], Kenobi's flagship. The ship self-destructed, however, as Kenobi and the surviving [[Cloning/Legends|clones]] evacuated via [[Escape pod/Legends|escape pods]].<ref name="Bound for Rescue">{{TCW|Bound for Rescue}}</ref> One gunship during the [[Battle of Ringo Vinda/Legends|Battle of Ringo Vinda]] was used to ambush a [[Nu-class attack shuttle/Legends|''Nu''-class shuttle]] carrying an aberrant clone, [[Tup/Legends|Tup]].<ref name="TCW:Unkown" /> At one point, gunships were also used during the Separatist [[Invasion of Scipio/Legends|invasion]] of [[Scipio/Legends|Scipio]] to deploy a [[Garrison/Legends|garrison]] of battle droids.<ref name="TCW:Crisis" /> The gunships were also used by the Separatists during the [[Battle of Kashyyyk/Legends|Battle of Kashyyyk]] in [[19 BBY/Legends|19 BBY]].<ref name="ROTS">{{Film|III}}</ref> One gunship shot down the [[Starship/Legends|starship]] [[Inferno (Vilmarh Grahrk)|''Inferno'']] owned by the [[Devaronian/Legends|Devaronian]] [[Smuggler/Legends|smuggler]] [[Vilmarh Grahrk]]. The ''Inferno'' crashed into [[Water/Legends|water]], but the gunship was destroyed as it was moving in to finish the ship off.<ref name="THE" /> The battle resulted in a defeat for the droid army.<ref name="ROTS" /> Directly after the end of the Clone Wars, a HMP was used by the [[Geonosian/Legends|Geonosian]] [[Gizor Dellso]]'s [[Gizor Dellso's army|forces]] to board an [[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]] during the [[Battle of Mustafar (Imperial Period)|Battle of Mustafar]]. It was destroyed, along with the droids, by the [[Stormtrooper/Legends|stormtroopers]] of the [[501st Legion/Legends|501st Legion]] who later destroyed the droid factory and killed Dellso and his enforcers.<ref name="BII">''[[Star Wars: Battlefront II]]''</ref>
+
+==Behind the scenes==
+In the [[2005]] [[Star Wars video games|video game]] ''[[Star Wars: Battlefront II]]'', HMPs serve as the Separatist space transport unit, and for gameplay purposes are piloted by droid characters although other sources such as [[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']] say the gunships have an integrated droid brain.
+
+For [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], the concept art was created by [[T.J. Frame]] and based off the design of Trade Federation vessels from [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]. At one point, these droids were to be seen during the [[Battle of Coruscant/Legends|Battle of Coruscant]] before they were ultimately deemed to be atmospheric craft seen during the [[Battle of Kashyyyk/Legends|Battle of Kashyyyk]].<ref name="DB-droid gunship">{{DB|vehicle|droidgunship|droid gunship}}</ref>
+
+For the script of the ''[[Star Wars: The Clone Wars]]'' [[The Clone Wars: Season Five|Season Five]] episode "[[Tipping Points]]," they were called "HMP ''Predators''."<ref name="SW.com trivia" />
+
+[[The LEGO Group]] created 3 sets of the Droid Gunship. One was designed for ''[[Star Wars: The Clone Wars]]'', and the other two were designed for ''Revenge of the Sith''. All three LEGO sets have a cockpit for a battle droid pilot, despite the fact the gunships have an integrated droid brain.
+
+==Appearances==
+{{MoreSources}}
+*''[[Plug it in and Play: Star Wars Episode III: Revenge of the Sith]]'' {{Nc}}
+*''[[Star Wars: Battlefront II]]''
+*{{SWArchive|url=games/playnow/airstrike/index.html|text=''Air Strike''|int=Air Strike}} {{Nc}}
+*{{TCW|The Deserter}} {{Mo}} {{C|Referred to as Separatist gunship}}
+*''[[Kinect Star Wars]]''
+*{{TCW|Tipping Points}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|The Unknown}}
+*{{TCW|Crisis at the Heart}}
+*{{Film|III}} {{1st}}
+*[[Republic 82|''Republic'' 82]]
+*''[[Star Wars Battlefront: Elite Squadron]]''
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*''[[Star Wars Battlefront: Renegade Squadron]]''
+
+===Non-canon appearances===
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]'' {{C|As a mini-kit model only}}
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]'' {{C|As a mini-kit model only}}
+*<!-- 2008-08-XX -->{{LEGOWeb|subdomain=starwars|url=en-US/Comics/248346.aspx|text="Kowakian Monkey-Lizard"|int=Kowakian Monkey-Lizard (comic story)|sw_url=video/view/000885.html|nolive=1}}
+*<!-- 2011-03-22 -->''[[LEGO Star Wars III: The Clone Wars]]''
+
+==Sources==
+{{Mediacat|imagecat=Images of HMP droid gunships}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith Incredible Cross-Sections]]'' {{1stm|''The Visual Dictionary'' and movie novels}}
+*<!-- 2005-04-02 -->''[[Star Wars: Revenge of the Sith: The Visual Dictionary]]'' {{1stm|''Incredible Cross-Sections'' and movie novels}}
+*<!-- 2005-08-08 -->{{InsiderCite|83|Ground Assault: The Vehicles of Episode III}}
+*<!-- 2005-08-11 -->{{Wizards|url=default.asp?x=starwars/article/sw20050811a|text=Starships and Vehicles of ''Revenge of the Sith''}}
+*<!-- 2005-11-01 -->[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2007-03-19 -->''[[Star Wars: Complete Cross-Sections]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|droidgunship|droid gunship}}
+*<!-- 2012-10-27 -->{{SW|url=explore/the-clone-wars/ep505|text="Tipping Points" &ndash; ''The Clone Wars'' Episode Guide|nolive=1}}
+*<!-- 2013-05-02 -->[[Star Wars: The Clone Wars Comic 6.46|''Star Wars: The Clone Wars'' Comic 6.46]]
+*<!-- 2013-06-03 -->''[[Star Wars: The Clone Wars: Episode Guide]]''
+*<!-- 2013-07-29 -->[[Star Wars: Complete Vehicles (2013)|''Star Wars: Complete Vehicles'']]
+*<!-- 2014-01-01 -->{{LEGOCite|num=75042|name=Droid Gunship}}
+*<!-- 2014-03-12 -->{{FactFile2014|10|HMP 1-2|HMP Droid Gunship}}
+*<!-- 2014-04-25 -->{{SWE|technology|droid-gunship|droid gunship}}
+*<!-- 2014-07-01 -->{{SW|url=series/clone-wars/an-old-friend-episode-guide|text="An Old Friend" Episode Guide &#124; The Clone Wars}}
+*<!-- 2014-07-01 -->{{SW|url=series/clone-wars/crisis-at-the-heart-episode-guide|text="Crisis at the Heart" Episode Guide &#124; The Clone Wars}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Schweres Raketenplattform-Droiden-Kanonenboot
+|es=Cañonera droide HMP/Leyendas
+|nl=HMP Heavy Missile Platform
+|pl=Heavy Missile Platform
+|pt=Legends: Nave droide PMP
+}}
+
+[[Category:Baktoid Fleet Ordnance products]]
+[[Category:Droid models of the Confederacy of Independent Systems]]
+[[Category:Droid vehicle models]]
+[[Category:Gunship starship classes]]
+[[Category:Haor Chall Engineering products]]
+[[Category:Starship classes of the Confederacy of Independent Systems]]
+{{RelatedCategories
+|[[Category:HMP droid gunships]]
+}}

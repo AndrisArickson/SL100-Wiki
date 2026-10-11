@@ -1,0 +1,55 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=Gyro-servo
+|manufacturer=
+|model=
+|type=[[Starship/Legends|Starship]] flight stabilization component<ref name="SFS">''[[Strike Force: Shantipole]]''</ref>
+|culture=
+|creators=[[Verpine/Legends|Verpine]]<ref name="SFS" />
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=*Maintains a stable position for a starship's main compartment while the rest of the ship rotates during flight maneuvers<ref name="SFS" />
+*Maintains a stable position for a [[Starfighter/Legends|starfighter]] [[Cockpit/Legends|cockpit]] during combat<ref name="SWS">''[[The Star Wars Sourcebook]]''</ref>
+|heritage=
+|affiliation=
+}}
+A '''gyro-servo''',<ref name="SWS" /> also known as a '''gravity gyro'''<ref name="SFS" /> and '''gyro-stabilization system''',<ref name="EGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref> was one of the earliest technologies developed by the [[Verpine/Legends|Verpine]]. Designed to compensate for the rapid maneuvers of traveling through an [[Asteroid field/Legends|asteroid belt]], the gyro-servo was a [[Starship/Legends|starship]] stabilization system that kept the main compartment stable while the rest of the ship rotated around it. Using this system meant that ship passengers traveled more comfortably, relatively unaware of the violent maneuvering the vessel was taking to traverse an [[Asteroid/Legends|asteroid]] field.<ref name="SFS" />
+
+Most Verpine starships, including their [[lifeboat]]s, were equipped with gyro-servos.<ref name="SFS" /> When the Verpine developed the [[A/SF-01 B-wing starfighter/Legends|B-wing starfighter]] for the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]], they used gyro-servos in the design to keep the command pod gyroscopically stabilized during flight maneuvers. During combat, the servos locked the pod into a fixed position, allowing the rest of the fighter to spin around, perform evasive maneuvers, or reposition its weapons for maximum effect. With the command pod locked in one position, the [[Pilot/Legends|pilot]] could concentrate on flying and targeting. The system took a heavy maintenance toll, with the gyro-servos undergoing tremendous stress during flight operations. The system required constant maintenance; failure in combat meant that the primary [[Airfoil/Legends|airfoil]] would lock in place, degrading the fighter's effectiveness.<ref name="SWS" />
+
+==Appearances==
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}} {{ID|gravity gyro}} {{1st}}
+
+==Sources==
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{1stm}}
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 2001-04-03 -->[[The Essential Guide to Alien Species (real-world book)|''The Essential Guide to Alien Species'']] {{ID|gravity gyro}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Starfighter components]]
+[[Category:Starship maneuvering components]]

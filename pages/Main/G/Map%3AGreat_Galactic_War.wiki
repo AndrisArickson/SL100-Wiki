@@ -1,0 +1,1140 @@
+{
+    "mapImage": "MainGalaxy.png",
+    "pageCategories": [
+        "Interactive_Maps_of_wars",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "description": "Map markers that contain a \"-\" indicate that the exact location of that battle is unknown but that it took place in a location within that sector or grid square. Battle dates may also be approximate.",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1471,
+            1321
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "3681 BBY",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "3681 BBY (Approximate Location)",
+            "color": "#fa005a",
+            "symbol": "-",
+            "symbolColor": "#fff"
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "3680 BBY",
+            "color": "#fa1300",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "3680 BBY (Approximate Location)",
+            "color": "#fa1300",
+            "symbol": "-",
+            "symbolColor": "#fff"
+        },
+        {
+            "id": "7",
+            "listId": 5,
+            "name": "3678 BBY",
+            "color": "#fa4f00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "8",
+            "listId": 6,
+            "name": "3678 BBY (Approximate Location)",
+            "color": "#fa4f00",
+            "symbol": "-",
+            "symbolColor": "#fff"
+        },
+        {
+            "id": "10",
+            "listId": 7,
+            "name": "3674 BBY (Approximate Location)",
+            "color": "#fa7f00",
+            "symbol": "-",
+            "symbolColor": "#000"
+        },
+        {
+            "id": "11",
+            "listId": 8,
+            "name": "3671 BBY",
+            "color": "#fabb00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "12",
+            "listId": 9,
+            "name": "3671 BBY (Approximate Location)",
+            "color": "#fabb00",
+            "symbol": "-",
+            "symbolColor": "#000"
+        },
+        {
+            "id": "13",
+            "listId": 10,
+            "name": "3668 BBY",
+            "color": "#fadd00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "14",
+            "listId": 11,
+            "name": "3667 BBY",
+            "color": "#eeff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "15",
+            "listId": 12,
+            "name": "3665 BBY",
+            "color": "#aafa00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "16",
+            "listId": 13,
+            "name": "3661 BBY (Approximate Location)",
+            "color": "#41fa00",
+            "symbol": "-",
+            "symbolColor": "#000"
+        },
+        {
+            "id": "17",
+            "listId": 14,
+            "name": "3660 BBY",
+            "color": "#00fa82",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "18",
+            "listId": 15,
+            "name": "3660 BBY (Approximate Location)",
+            "color": "#00fa82",
+            "symbol": "-",
+            "symbolColor": "#000"
+        },
+        {
+            "id": "19",
+            "listId": 16,
+            "name": "3653 BBY",
+            "color": "#00fae0",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "5",
+            "listId": 17,
+            "name": "Exact Date Unknown",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "6",
+            "listId": 18,
+            "name": "Exact Date Unknown (Approximate Location)",
+            "color": "#ffffff",
+            "symbol": "-",
+            "symbolColor": "#000"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "2",
+            "position": [
+                1023,
+                1167.5
+            ],
+            "popup": {
+                "title": "Assault on the Tingel Arm region",
+                "description": "In [[3681 BBY]], the '''assault on the Tingel Arm region''' occurred between the ancient [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and the [[Galactic Republic\/Legends|Galactic Republic]] upon the Empire's return to known [[Realspace\/Legends|space]].",
+                "link": {
+                    "url": "Assault on the Tingel Arm region",
+                    "label": "Assault on the Tingel Arm region"
+                },
+                "image": "File:Tingle arm skirmish.jpg"
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1113.5164036735157,
+                1155.9428105447084
+            ],
+            "popup": {
+                "title": "Assault on the Aparo sector",
+                "description": "The '''assault on the Aparo sector''' was an offensive launched by the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] in the early days of the [[Great Galactic War]].",
+                "link": {
+                    "url": "Assault on the Aparo sector",
+                    "label": "Assault on the Aparo sector"
+                },
+                "image": "File:Aparo assault.jpg"
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1092.4799769332158,
+                1117.228714274745
+            ],
+            "popup": {
+                "title": "Tingel Arm campaign",
+                "description": "In the [[3681 BBY|first year]] of the [[Great Galactic War]], the [[Galactic Republic\/Legends|Galactic Republic]] went on the offensive against the revitalized [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] in a '''military campaign''' for the [[Tingel Arm\/Legends|Tingel Arm]].",
+                "link": {
+                    "url": "Tingel Arm campaign",
+                    "label": "Tingel Arm campaign"
+                },
+                "image": "File:Tingel Arm campaign.jpg"
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1098.6671612685982,
+                1065.4331425528303
+            ],
+            "popup": {
+                "title": "Battle of Korriban",
+                "description": "The '''Battle of Korriban''' was a conflict that occurred in the early days of the [[Great Galactic War]] during which the [[Outer Rim Territories\/Legends|Outer Rim]] [[Planet\/Legends|planet]] [[Korriban\/Legends|Korriban]] fell back into the control of the [[Sith\/Legends|Sith]].",
+                "link": {
+                    "url": "Battle of Korriban",
+                    "label": "Battle of Korriban"
+                },
+                "image": "File:Fall of Korriban TOR.png"
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                807.5601382888614,
+                183.71518058702986
+            ],
+            "popup": {
+                "title": "Battle of Sluis Van",
+                "description": "Shortly after the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire's]] return to known space in [[3681 BBY]], [[Imperial Military (Sith Empire)|Imperial forces]] '''launched an attack''' on the [[Planet\/Legends|planet]] [[Sluis Van\/Legends|Sluis Van]].",
+                "link": {
+                    "url": "Battle of Sluis Van (Great Galactic War)",
+                    "label": "Battle of Sluis Van"
+                },
+                "image": "File:Sluis ggw.jpg"
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                788.7776144135937,
+                105.71246378738884
+            ],
+            "popup": {
+                "title": "Battle of Eliad",
+                "description": "The '''Battle of Eliad''' was a significant engagement of the [[Minos Cluster Campaign]] during the [[Great Galactic War]] which began in [[3680 BBY]].",
+                "link": {
+                    "url": "Battle of Eliad",
+                    "label": "Battle of Eliad"
+                },
+                "image": "File:Dural first duel JMGD.jpg"
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                807.2065848982681,
+                84.80861956856154
+            ],
+            "popup": {
+                "title": "Battle of Karideph",
+                "description": "During the [[Great Galactic War]], Republic forces under the leadership of [[Jedi Master\/Legends|Jedi Master]] [[Orgus Din]] and [[Lieutenant\/Legends|Lieutenant]] [[Harron Tavus]] '''drove back''' an invasion attempt by the Empire on the [[Planet\/Legends|planet]] [[Karideph]].",
+                "link": {
+                    "url": "Battle of Karideph",
+                    "label": "Battle of Karideph"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                804.5107402949944,
+                226.00900493675024
+            ],
+            "popup": {
+                "title": "Blockade of the Rimma Trade Route",
+                "description": "In the [[Standard year\/Legends|year]] [[3681 BBY]], the [[Rimma Trade Route\/Legends|Rimma Trade Route]] was '''blockaded''' by the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] in an attempt to strangle the resources of the [[Galactic Republic\/Legends|Galactic Republic]].",
+                "link": {
+                    "url": "Blockade of the Rimma Trade Route",
+                    "label": "Blockade of the Rimma Trade Route"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                808.7975751559378,
+                231.0471407527044
+            ],
+            "popup": {
+                "title": "First battle of the Seswenna sector",
+                "description": "In [[3680 BBY]], during the early [[Standard day\/Legends|days]] of the [[Great Galactic War]], a '''battle''' between the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and [[Galactic Republic\/Legends|Galactic Republic]] occurred in the [[Seswenna sector\/Legends|Seswenna sector]].",
+                "link": {
+                    "url": "First battle of the Seswenna sector",
+                    "label": "First battle of the Seswenna sector"
+                },
+                "image": "File:Prisonersofwar.jpg"
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                809.4825848502123,
+                226.67191754411263
+            ],
+            "popup": {
+                "title": "Second battle of the Seswenna sector",
+                "description": "In [[3680 BBY]], during the second [[Standard year\/Legends|year]] of the [[Great Galactic War]], a '''battle''' occurred between the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and [[Galactic Republic\/Legends|Galactic Republic]] in the [[Seswenna sector\/Legends|Seswenna sector]].",
+                "link": {
+                    "url": "Second battle of the Seswenna sector",
+                    "label": "Second battle of the Seswenna sector"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1081.1662684342311,
+                375.4737008100567
+            ],
+            "popup": {
+                "title": "Battle of Talay",
+                "description": "The '''Battle of Talay''' was one of the earliest battles of the [[Great Galactic War]] between the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and the [[Galactic Republic\/Legends|Galactic Republic]]. It occurred sometime between [[3681 BBY]] and [[3680 BBY]].",
+                "link": {
+                    "url": "Battle of Talay",
+                    "label": "Battle of Talay"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                721.8828002867616,
+                1009.1574932767201
+            ],
+            "popup": {
+                "title": "Massacre on Lenico IV",
+                "description": "During the [[Great Galactic War]], the [[Sith apprentice\/Legends|Sith apprentice]] [[Exal Kressh]] committed a '''massacre''' on the [[Planet\/Legends|planet]] of [[Lenico IV]].",
+                "link": {
+                    "url": "Massacre on Lenico IV",
+                    "label": "Massacre on Lenico IV"
+                },
+                "image": "File:Lenico massacre.jpg"
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1119.7919763565462,
+                1114.2235104547021
+            ],
+            "popup": {
+                "title": "Invasion of Begeren",
+                "description": "The '''Invasion of Begeren''' was a major engagement between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] during the [[Great Galactic War]].",
+                "link": {
+                    "url": "Invasion of Begeren",
+                    "label": "Invasion of Begeren"
+                },
+                "image": "File:Begeren-BotE.jpg"
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                724.6960623685628,
+                1010.6386485773347
+            ],
+            "popup": {
+                "title": "Duel on Lenico Colony Blue",
+                "description": "During the [[Great Galactic War]], a '''duel''' between [[Darth Thanaton|Teneb Kel]] and [[Exal Kressh]] occurred on [[Lenico Colony Blue]], a [[Medcenter\/Legends|hospital]] [[Space station\/Legends|space station]] [[Orbit\/Legends|orbiting]] the [[Planet\/Legends|world]] of [[Lenico IV]].",
+                "link": {
+                    "url": "Duel on Lenico Colony Blue",
+                    "label": "Duel on Lenico Colony Blue"
+                },
+                "image": "File:SWTheOldRepublic5art.jpg"
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1097.3125,
+                1063.125
+            ],
+            "popup": {
+                "title": "Battle over Korriban",
+                "description": "In [[3678 BBY]] during the [[Great Galactic War]], the '''Battle over Korriban''' occurred in the [[Horuset system]] between the forces of the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]].",
+                "link": {
+                    "url": "Battle over Korriban",
+                    "label": "Battle over Korriban"
+                },
+                "image": "File:Horusetbattle.jpg"
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                954.25,
+                440.75
+            ],
+            "popup": {
+                "title": "Battle of Bomodon",
+                "description": "In [[3674 BBY]], during the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]], a '''battle''' occurred on the [[Planet\/Legends|planet]] [[Bomodon]].",
+                "link": {
+                    "url": "Battle of Bomodon",
+                    "label": "Battle of Bomodon"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                804.3125,
+                230.5625
+            ],
+            "popup": {
+                "title": "Third battle of the Seswenna sector",
+                "description": "In [[3671 BBY]], during the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Old Republic]] and [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]], the [[Seswenna sector\/Legends|Seswenna sector]] was '''attacked and seized''' by [[Sith\/Legends|Sith]] forces.",
+                "link": {
+                    "url": "Third battle of the Seswenna sector",
+                    "label": "Third battle of the Seswenna sector"
+                },
+                "image": "File:Seswenna sector.jpg"
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1102.875,
+                489.75
+            ],
+            "popup": {
+                "title": "First Battle of Bothawui",
+                "description": "The '''First Battle of Bothawui''', also known simply as the '''Battle of Bothawui''', was a [[Navy\/Legends|naval]] conflict between the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and the [[Galactic Republic\/Legends|Galactic Republic]] during the [[Great Galactic War]].",
+                "link": {
+                    "url": "First Battle of Bothawui",
+                    "label": "First Battle of Bothawui"
+                },
+                "image": "File:Bothawui 2.jpg"
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1101.1862291765751,
+                487.6385139757728
+            ],
+            "popup": {
+                "title": "Second Battle of Bothawui",
+                "description": "The '''Battle of Bothawui''' was a major military engagement in [[3671 BBY]], during the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the resurgent [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]].",
+                "link": {
+                    "url": "Battle of Bothawui (Second; Great Galactic War)",
+                    "label": "Second Battle of Bothawui"
+                },
+                "image": "File:GGW Battle of Bothawui.jpg"
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                825.0168369494043,
+                729.1154797509788
+            ],
+            "popup": {
+                "title": "Battle of Balmorra",
+                "description": "The '''Battle of Balmorra''' was a major conflict between the [[Galactic Republic\/Legends|Galactic Republic]], the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]], and the people of [[Balmorra\/Legends|Balmorra]] during the [[Great Galactic War]].",
+                "link": {
+                    "url": "Battle of Balmorra (Galactic Wars)",
+                    "label": "Battle of Balmorra"
+                },
+                "image": "File:Battle of Balmorra GGW.jpg"
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                731.25,
+                242.59375
+            ],
+            "popup": {
+                "title": "Engagement over Belsavis",
+                "description": "In [[3668 BBY]] during the [[Great Galactic War]], an attempt by the Dread Masters to break out of the [[Galactic Republic\/Legends|Galactic Republic's]] [[Belsavis prison|prison complex]] on the [[Planet\/Legends|planet]] [[Belsavis\/Legends|Belsavis]] led to a '''short battle''' above the planet.",
+                "link": {
+                    "url": "Engagement over Belsavis",
+                    "label": "Engagement over Belsavis"
+                },
+                "image": "File:Fatality.png"
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                788.8218085874179,
+                763.5869353338229
+            ],
+            "popup": {
+                "title": "Battle of Alderaan",
+                "description": "The '''Battle of Alderaan''' was a major conflict between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] that occurred at the height of the [[Great Galactic War]], in [[3667 BBY]].",
+                "link": {
+                    "url": "Battle of Alderaan",
+                    "label": "Battle of Alderaan"
+                },
+                "image": "File:Invasion of Alderaan.png"
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "15",
+            "position": [
+                642.875,
+                217.25
+            ],
+            "popup": {
+                "title": "Battle of Hoth",
+                "description": "The '''Battle of Hoth''' was a major [[Navy\/Legends|naval]] [[Space warfare\/Legends|battle]] that occurred in [[3665 BBY]], during the second [[Standard decade\/Legends|decade]] of the [[Great Galactic War]].",
+                "link": {
+                    "url": "Battle of Hoth (Great Galactic War)",
+                    "label": "Battle of Hoth"
+                },
+                "image": "File:Battle of Hoth.png"
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "16",
+            "position": [
+                852.125,
+                526.875
+            ],
+            "popup": {
+                "title": "Battle near Devaron",
+                "description": "In [[3661 BBY]], during the [[Great Galactic War]], a '''battle''' occurred on the [[Hydian Way\/Legends|Hydian Way]], near [[Devaron\/Legends|Devaron]].",
+                "link": {
+                    "url": "Battle near Devaron",
+                    "label": "Battle near Devaron"
+                },
+                "image": "File:Battle near Devaron.jpg"
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "17",
+            "position": [
+                1025.614191937263,
+                1081.0778800865828
+            ],
+            "popup": {
+                "title": "Battle of Ord Radama",
+                "description": "The '''Battle of Ord Radama''', later known as the '''Harrower Disaster''', was a major engagement of the [[Great Galactic War]] between the belligerent powers of the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] and the [[Galactic Republic\/Legends|Galactic Republic]].",
+                "link": {
+                    "url": "Battle of Ord Radama",
+                    "label": "Battle of Ord Radama"
+                },
+                "image": "File:Ord Radama orbit.jpg"
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "17",
+            "position": [
+                1100.6558990906854,
+                1063.09085134015
+            ],
+            "popup": {
+                "title": "Third Battle of Korriban",
+                "description": "In [[3660 BBY]], the forces of the [[Galactic Republic\/Legends|Galactic Republic's]] [[Republic Navy\/Legends|Navy]] '''attacked''' the [[Sith\/Legends|Sith]] holy [[Planet\/Legends|planet]] of [[Korriban\/Legends|Korriban]]&mdash;the third conflict of the [[Great Galactic War]] to be focused there.",
+                "link": {
+                    "url": "Battle of Korriban (3660 BBY)",
+                    "label": "Third Battle of Korriban"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "17",
+            "position": [
+                1096.28125,
+                1098.1875
+            ],
+            "popup": {
+                "title": "Battle of Ziost",
+                "description": "The '''Battle of Ziost''' was a conflict of the [[Great Galactic War]] fought between the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] and the [[Galactic Republic\/Legends|Galactic Republic]].",
+                "link": {
+                    "url": "Battle of Ziost",
+                    "label": "Battle of Ziost"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "18",
+            "position": [
+                1129.875,
+                1080.125
+            ],
+            "popup": {
+                "title": "Battle of Ashas Ree",
+                "description": "The '''Battle of Ashas Ree''' was a conflict of the [[Great Galactic War]], waged around [[3660 BBY]].",
+                "link": {
+                    "url": "Battle of Ashas Ree",
+                    "label": "Battle of Ashas Ree"
+                },
+                "image": "File:Battle of Ashas Ree.jpg"
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "17",
+            "position": [
+                964.8125,
+                1062.0625
+            ],
+            "popup": {
+                "title": "Battle of Serenno",
+                "description": "Around [[3660 BBY]], during the [[Great Galactic War]], a '''battle''' occurred on and in [[Orbit\/Legends|orbit]] of the [[Planet\/Legends|planet]] [[Serenno\/Legends|Serenno]]. The conflict was initiated by the [[Sith Lord\/Legends|Sith Lord]] [[Darth Malgus]].",
+                "link": {
+                    "url": "Battle of Serenno",
+                    "label": "Battle of Serenno"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "17",
+            "position": [
+                1024.8125,
+                1079.375
+            ],
+            "popup": {
+                "title": "Reconquest of Ord Radama",
+                "description": "The '''Reconquest of Ord Radama''' was a major battle of the [[Rim Campaign]]&mdash;one of the large military campaigns near the final years of the [[Great Galactic War]].",
+                "link": {
+                    "url": "Reconquest of Ord Radama",
+                    "label": "Reconquest of Ord Radama"
+                },
+                "image": "File:Reconquest of Ord Radama.png"
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1130.6637431172894,
+                990.9659596591222
+            ],
+            "popup": {
+                "title": "Battle of Rhen Var",
+                "description": "The '''Battle of Rhen Var''' was a conflict between the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] and [[Galactic Republic\/Legends|Galactic Republic]] during the [[Great Galactic War]], fought in the final years of the war before its end in [[3653 BBY]].",
+                "link": {
+                    "url": "Battle of Rhen Var",
+                    "label": "Battle of Rhen Var"
+                },
+                "image": "File:TORTheLostSuns-coverart.jpg"
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "19",
+            "position": [
+                705.1962472806148,
+                1129.6598402522573
+            ],
+            "popup": {
+                "title": "Battle of Dantooine",
+                "description": "The '''Battle of Dantooine''' was a conflict on the [[Outer Rim Territories\/Legends|Outer Rim]] [[Planet\/Legends|world]] of [[Dantooine\/Legends|Dantooine]] at the tail end of the [[Great Galactic War]].",
+                "link": {
+                    "url": "Battle of Dantooine (Great Galactic War)",
+                    "label": "Battle of Dantooine"
+                },
+                "image": "File:GGW battle of dantooine.jpg"
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "19",
+            "position": [
+                985.7952413216955,
+                426.56216575078474
+            ],
+            "popup": {
+                "title": "Battle of Druckenwell",
+                "description": "The '''Battle of Druckenwell''' was a conflict during the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|resurgent Sith Empire]]. It occurred in the last months of the war in [[3653 BBY]].",
+                "link": {
+                    "url": "Battle of Druckenwell",
+                    "label": "Battle of Druckenwell"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                819.4925652213843,
+                315.5464011044968
+            ],
+            "popup": {
+                "title": "Massacre at Haruun Kal",
+                "description": "The '''Massacre at Haruun Kal''', also known as the '''Haruun Kal Massacre''', was a military operation carried out by [[Lieutenant\/Legends|Lieutenant]] [[Pierce]] of the [[Imperial Military (Sith Empire)|Imperial Military]].",
+                "link": {
+                    "url": "Massacre at Haruun Kal",
+                    "label": "Massacre at Haruun Kal"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "19",
+            "position": [
+                702.636104345604,
+                764.6316626073624
+            ],
+            "popup": {
+                "title": "Sacking of Coruscant",
+                "description": "The '''Sacking of Coruscant''', also known as the '''Battle of Coruscant''', occurred at the end of the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the resurgent [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]].",
+                "link": {
+                    "url": "Sacking of Coruscant",
+                    "label": "Sacking of Coruscant"
+                },
+                "image": "File:SackingJediTemple-Deceived.jpg"
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                797.0419249187115,
+                1036.3091820027096
+            ],
+            "popup": {
+                "title": "Battle of Agamar",
+                "description": "A '''battle''' occurred on the [[Planet\/Legends|planet]] [[Agamar\/Legends|Agamar]] during the second main offensive of the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] during the [[Great Galactic War]] with the [[Galactic Republic\/Legends|Galactic Republic]].",
+                "link": {
+                    "url": "Battle of Agamar (Great Galactic War)",
+                    "label": "Battle of Agamar"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                738.0427028634589,
+                882.1157095302179
+            ],
+            "popup": {
+                "title": "Battle on Amador",
+                "description": "Sometime between [[3667 BBY|3667]] and [[3653 BBY]], during the [[Great Galactic War]], the [[Chagrian\/Legends|Chagrian]] [[Fideltin Rusk]] fought in a '''battle''' on the [[Planet\/Legends|planet]] [[Amador]].",
+                "link": {
+                    "url": "Battle on Amador",
+                    "label": "Battle on Amador"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                705.734834957055,
+                770.2115485194281
+            ],
+            "popup": {
+                "title": "Assassination attempt on Falit and Thranz",
+                "description": "During the [[Great Galactic War]], an '''assassination attempt''' was made on [[Senator\/Legends|Senators]] [[Thranz]] and [[Falit]] on the Republic [[Capital\/Legends|capital]] of [[Coruscant\/Legends|Coruscant]]. However, the Jedi Knight [[Ardun Kothe]] rescued the Senators during the attempt.",
+                "link": {
+                    "url": "Assassination attempt on Falit and Thranz",
+                    "label": "Assassination attempt on Falit and Thranz"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                906.640625,
+                999.140625
+            ],
+            "popup": {
+                "title": "Battle of Dathomir",
+                "description": "Sometime between [[3681 BBY|3681]] and [[3653 BBY]], during the [[Great Galactic War]], the [[Galactic Republic\/Legends|Old Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] fought a '''battle''' on the [[Planet\/Legends|planet]] [[Dathomir\/Legends|Dathomir]].",
+                "link": {
+                    "url": "Battle of Dathomir (Great Galactic War)",
+                    "label": "Battle of Dathomir"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                701.4375,
+                1125.9375
+            ],
+            "popup": {
+                "title": "Duel on Dantooine",
+                "description": "The '''Duel on Dantooine''' was a duel that would last for three [[Standard day\/Legends|days]] as [[Jedi Master\/Legends|Jedi Master]] [[Tol Braga]] and [[Darth\/Legends|Darth]] [[Sajar]] debated and attempted to draw their opponent over to their respective side of [[The Force\/Legends|the Force]].",
+                "link": {
+                    "url": "Duel on Dantooine",
+                    "label": "Duel on Dantooine"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                936.2093782909889,
+                1076.3491034873978
+            ],
+            "popup": {
+                "title": "Edusa revolt",
+                "description": "At some point between [[3681 BBY|3681]] and [[3653 BBY]], during the [[Great Galactic War]], the [[Twi'lek\/Legends|Twi'lek]] [[Slavery\/Legends|slave]] [[Leontyne Saresh]] led her fellow slaves in a '''revolt''' against the Empire's forces on the [[Planet\/Legends|planet]] [[Edusa]].",
+                "link": {
+                    "url": "Edusa revolt",
+                    "label": "Edusa revolt"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                734.375,
+                1063.5
+            ],
+            "popup": {
+                "title": "Bombing of Fest",
+                "description": "During the [[Great Galactic War]], the legendary [[Dagger Wing]] undertook '''an unauthorized mission to bomb''' [[Sith Empire (Post\u2013Great Hyperspace War)|Sith\u2013Imperial]] citizens on the planet [[Fest\/Legends|Fest]]. The bombing of Fest resulted in thousands of civilian [[Death\/Legends|deaths]].",
+                "link": {
+                    "url": "Bombing of Fest",
+                    "label": "Bombing of Fest"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                970.8576105691296,
+                492.4998730964303
+            ],
+            "popup": {
+                "title": "Battle of Genarius",
+                "description": "During the [[Great Galactic War]], the Empire's [[Bane Brigade]] '''wiped out''' the [[Jedi Order\/Legends|Jedi Order's]] [[Jedi Enclave (Genarius)|Enclave]] on the [[Planet\/Legends|planet]] [[Genarius]].",
+                "link": {
+                    "url": "Battle of Genarius (Great Galactic War)",
+                    "label": "Battle of Genarius"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1111.125,
+                331
+            ],
+            "popup": {
+                "title": "Geonosis campaign",
+                "description": "The '''Geonosis campaign''' was a conflict during the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|reconstituted Sith Empire]] that occurred sometime between [[3665 BBY]] and the end of the war in [[3653 BBY]].",
+                "link": {
+                    "url": "Geonosis campaign",
+                    "label": "Geonosis campaign"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                439.5552528550876,
+                925.7353590946631
+            ],
+            "popup": {
+                "title": "Battle of Ilum",
+                "description": "During the [[Great Galactic War]], the remote [[Planet\/Legends|planet]] of [[Ilum\/Legends|Ilum]] was the site of a '''battle''' between the two galactic powers. The ice planet served as a staging ground for surprise attacks by the [[Republic Military\/Legends|Republic Military]].",
+                "link": {
+                    "url": "Battle of Ilum (Great Galactic War)",
+                    "label": "Battle of Ilum"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1116.1680541029652,
+                366.0603417855108
+            ],
+            "popup": {
+                "title": "Battle of Iskalon",
+                "description": "During the [[Great Galactic War]], the Empire's [[Bane Brigade]] '''attacked''' the ocean [[Planet\/Legends|planet]] of [[Iskalon\/Legends|Iskalon]]. Under the command of [[Sith\/Legends|Sith]], the Brigade set fire to the oceans, leading the Republic to label them butchers and war criminals.",
+                "link": {
+                    "url": "Battle of Iskalon (Great Galactic War)",
+                    "label": "Battle of Iskalon"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                757.3113626507924,
+                747.765421104774
+            ],
+            "popup": {
+                "title": "Battle of Kaikielius",
+                "description": "During the [[Great Galactic War]], a conflict that lasted from [[3681 BBY]] to [[3653 BBY]], the [[Planet\/Legends|planet]] [[Kaikielius\/Legends|Kaikielius]] in the [[Coruscant sector\/Legends|Coruscant sector]] was '''attacked''' by the forces of the Sith Empire.",
+                "link": {
+                    "url": "Battle of Kaikielius (Great Galactic War)",
+                    "label": "Battle of Kaikielius"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                931.4364075179797,
+                248.01770350118153
+            ],
+            "popup": {
+                "title": "Invasion of Lan Barell",
+                "description": "Sometime during the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]], the Empire '''invaded''' the [[Planet\/Legends|planet]] [[Lan Barell\/Legends|Lan Barell]].",
+                "link": {
+                    "url": "Invasion of Lan Barell",
+                    "label": "Invasion of Lan Barell"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                722.2243294176409,
+                1012.2952796182354
+            ],
+            "popup": {
+                "title": "Battle on the Ash Plains of Lenico IV",
+                "description": "During the [[Great Galactic War]] between the [[Galactic Republic\/Legends|Galactic Republic]] and the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]], a '''battle''' occurred on the [[Outer Rim Territories\/Legends|Outer Rim]] [[Planet\/Legends|world]] of [[Lenico IV]].",
+                "link": {
+                    "url": "Battle on the Ash Plains of Lenico IV",
+                    "label": "Battle on the Ash Plains of Lenico IV"
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                822.8955166058446,
+                607.9350551251342
+            ],
+            "popup": {
+                "title": "Battle of Loronar",
+                "description": "During the [[Great Galactic War]], the Empire '''attacked''' the [[Planet\/Legends|planet]] [[Loronar\/Legends|Loronar]] with a significant military force.",
+                "link": {
+                    "url": "Battle of Loronar",
+                    "label": "Battle of Loronar"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                908.7645731375943,
+                676.4807846793575
+            ],
+            "popup": {
+                "title": "Devastation of Manaan",
+                "description": "The '''Devastation of Manaan''' was an act carried out by the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire]] during the [[Great Galactic War]] against the [[Planet\/Legends|planet]] [[Manaan\/Legends|Manaan]], sometime between [[3681 BBY]] and [[3653 BBY]].",
+                "link": {
+                    "url": "Devastation of Manaan",
+                    "label": "Devastation of Manaan"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                534.375,
+                408
+            ],
+            "popup": {
+                "title": "Cleansing of Nopsin",
+                "description": "The '''Cleansing of Nopsin''' was a military operation carried out by the [[Imperial Military (Sith Empire)|Imperial Military]] on the [[Planet\/Legends|planet]] [[Nopsin]] sometime during the [[Great Galactic War]].",
+                "link": {
+                    "url": "Cleansing of Nopsin",
+                    "label": "Cleansing of Nopsin"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                792.5,
+                266.375
+            ],
+            "popup": {
+                "title": "Battle of Ord Ibanna",
+                "description": "The '''Battle of Ord Ibanna''' was a [[Navy\/Legends|naval]] conflict during the [[Great Galactic War]]. During their campaign to seize the [[Outer Rim Territories\/Legends|Outer Rim Territories]] from the Republic, the [[Sith\/Legends|Sith]] targeted the Brema sector in an effort to secure the region.",
+                "link": {
+                    "url": "Battle of Ord Ibanna",
+                    "label": "Battle of Ord Ibanna"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                760.846896556725,
+                794.964798748976
+            ],
+            "popup": {
+                "title": "Operation on Ralltiir",
+                "description": "During the [[Great Galactic War]], [[Agent\/Legends|Agent]] [[Marcus Trant]] of the [[Republic Strategic Information Service]] participated in an '''operation''' on the planet [[Ralltiir\/Legends|Ralltiir]].",
+                "link": {
+                    "url": "Operation on Ralltiir",
+                    "label": "Operation on Ralltiir"
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1098.625,
+                264.125
+            ],
+            "popup": {
+                "title": "Battle of Rordak",
+                "description": "The '''Battle of Rordak''' was a conflict fought at the [[Outer Rim Territories\/Legends|Outer Rim]] [[Planet\/Legends|planet]] [[Rordak]] during the [[Great Galactic War]] of [[3681 BBY|3681]]&ndash;[[3653 BBY]].",
+                "link": {
+                    "url": "Battle of Rordak",
+                    "label": "Battle of Rordak"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                803.5625,
+                267.3125
+            ],
+            "popup": {
+                "title": "Battle of Sullust",
+                "description": "The '''Battle of Sullust''' was a conflict during the [[Great Galactic War]]. The criminal [[Nok Drayen]] betrayed the Republic forces on the [[Planet\/Legends|planet]] to the Empire, resulting in the capture of the legendary [[Jedi\/Legends|Jedi]] [[Ako Domi]].",
+                "link": {
+                    "url": "Battle of Sullust (Great Galactic War)",
+                    "label": "Battle of Sullust"
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                835.75,
+                135.6875
+            ],
+            "popup": {
+                "title": "Battle of Utapau",
+                "description": "The '''Battle of Utapau''' was a battle of the [[Sith Empire (Post\u2013Great Hyperspace War)|Sith Empire's]] second main offensive against the [[Galactic Republic\/Legends|Galactic Republic]] during the [[Great Galactic War]].",
+                "link": {
+                    "url": "Battle of Utapau (Great Galactic War)",
+                    "label": "Battle of Utapau"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1002.0625,
+                900.71875
+            ],
+            "popup": {
+                "title": "Battle of Velmor",
+                "description": "During the [[Great Galactic War]] that lasted between [[3681 BBY]] and [[3653 BBY]], a '''battle''' occurred on [[Velmor\/Legends|Velmor]], a resource-rich [[Planet\/Legends|planet]] in the [[Mid Rim\/Legends|Mid Rim]].",
+                "link": {
+                    "url": "Battle of Velmor",
+                    "label": "Battle of Velmor"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                997.6392799065702,
+                1023.0067356816376
+            ],
+            "popup": {
+                "title": "Battle of Yavin 4",
+                "description": "During the [[Great Galactic War]], a twenty-eight-[[Standard year\/Legends|year]] conflict spanning from [[3681 BBY]] to [[3653 BBY]], a '''battle''' occurred on the [[Moon\/Legends|moon]] [[Yavin 4\/Legends|Yavin 4]].",
+                "link": {
+                    "url": "Battle of Yavin 4 (Great Galactic War)",
+                    "label": "Battle of Yavin 4"
+                }
+            },
+            "id": "59"
+        }
+    ],
+    "markerProgress": false
+}

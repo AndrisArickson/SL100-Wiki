@@ -1,0 +1,94 @@
+{{Top|leg|title=''Hajen''-class fleet tender}}
+{{StarshipClass
+|image=[[File:Hajen_Tender.jpg]]
+|name=''Hajen''-class fleet tender
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]<ref name="CTD">''[[Cracken's Threat Dossier]]''</ref>
+|line=[[New Class Modernization Program]]<ref name="TNEC">''[[The New Essential Chronology]]''</ref>
+|model=''Hajen''-class fleet tender
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=375 [[Meter/Legends|meters]]<ref name="CTD" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,000 [[Kilometer per hour/Legends|km/h]]<ref name="CTD" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="CTD" />
+*Class 10 {{C|[[Backup hyperdrive|backup]]}}<ref name="CTD" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]
+|target=
+|navigation=[[Navigation computer/Legends|Nav computer]]
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=6 {{C|plus extensive [[Droid/Legends|droid]] complement}}<ref name="CTD" />
+|skeleton=2<ref name="CTD" />
+|passengers=6<ref name="CTD" />
+|capacity=300,000 [[Metric ton/Legends|metric tons]]<ref name="CTD" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="CTD" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale
+|role=*[[Fleet tender]]
+*[[Supply ship/Legends|Supply ship]]
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The 375-meter-long '''''Hajen''-class fleet tender''' was a vital part of the [[New Republic/Legends|New Republic's]] [[New Class Modernization Program]].
+
+==Characteristics==
+As resupply vessels, ''Hajen''-class ships had to constantly shuttle between [[Fleet/Legends|fleets]] and bases, carrying vital supplies, such as food, water, [[Bacta/Legends|bacta]], fuel, spare parts, and [[Tibanna/Legends|Tibanna]]. To perform their mission, these ships were equipped with fast Class 1 [[Hyperdrive/Legends|hyperdrives]] and capable of carrying 300,000 metric tons of cargo.
+
+''Hajen''-class ships were highly automated, requiring a small living crew to operate. Its standard crew numbered only six beings and a large number of [[Droid/Legends|droids]], and a mere two could serve as a skeleton crew. The vessels were completely unarmed, and relied on ships such as the [[Sacheen-class light escort|''Sacheen''-class light escort]] for protection.
+
+The ''Hajen''-class fleet tender was built on the same basic hull and systems of the ''Sacheen''-class. This practice of using the same basic design for multiple configurations was so successful that it was adopted for all later New Class ships.
+
+==History==
+While New Class ships were capable combatants, they were also relatively small and sacrificed cargo space for functionality, preventing them from carrying enough supplies to operate for extended periods of time; no New Class ship carried more than five months' worth of [[Foodstuff/Legends|consumables]]. ''Hajen''-class fleet tenders acted as resupply ships to extend a fleet's running time.
+
+==Behind the scenes==
+The only official image of the ''Hajen''-class is found in the RPG sourcebook ''Cracken's Threat Dossier''. Like the pictures of other New Class ships, this picture contradicts information from the [[Black Fleet Crisis]] novels, on which ''Cracken's Threat Dossier'' is based. Specifically, the ''Hajen'' and ''Sacheen'' classes look nothing alike, even though they are supposed to be built on the same hull.
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WebCite|url=http://www.alternities.com/html/blackfleet.htm#fifth|text=''Star Wars The Black Fleet Crisis'' by Michael P. Kube-McDowell|work=[http://www.alternities.com/default.html Michael P. Kube-McDowell's website]|archivedate=20240302165643}}
+
+{{NewClassNav}}
+
+{{Interlang
+|es=Nave auxiliar de flota clase Hajen
+}}
+
+[[Category:New Class starship classes]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Hajen-class fleet tenders]]
+}}

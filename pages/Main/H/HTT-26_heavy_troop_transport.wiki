@@ -1,0 +1,82 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:HTT26-FoC.jpg]]
+|name=HTT-26 heavy troop transport
+|designer=
+|manufacturer=[[Gallofree Yards, Inc./Legends|Gallofree Yards, Inc.]]<ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+|line=
+|model=HTT-26 heavy troop transport<ref name="RECG" />
+|type=[[Landspeeder/Legends|Landspeeder]]<ref name="RECG" />
+|cost=20,000 [[Galactic Credit Standard/Legends|credits]] {{C|11,000 used}}<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=95 [[Kilometer per hour/Legends|km/h]]<ref name="RECG" />
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="FoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Dual<ref name="FoC" /> medium [[Repeating blaster cannon/Legends|repeating blaster cannon]] (1)<ref name="RECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="RECG" />
+*1 [[Pilot/Legends|Pilot]]<ref name="RECG" />
+*1 [[Gunner/Legends|Gunner]]<ref name="RECG" />
+|skeleton=
+|passengers=16<ref name="RECG" />
+|capacity=1 [[Metric ton/Legends|ton]]<ref name="RECG" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="RECG" />
+|role=[[Troop transport/Legends|Troop transport]]<ref name="RECG" />
+|firstuse=[[19 BBY/Legends|19 BBY]]<ref name="RECG" />
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="RECG" />
+}}
+The [[Gallofree Yards, Inc./Legends|Gallofree Yards]] '''HTT-26 heavy troop transport''' was an atmospheric [[Transport/Legends|transport]] design. They were one of the few transports that Gallofree created for military application.
+
+==Characteristics==
+They were capable of carrying light numbers of infantry within their hold and use their heavy [[Repulsorlift/Legends|repulsor]] engines to lift from one location to another, hovering above the battlefield. They were armed with a rapid fire [[Laser cannon/Legends|laser cannon]] suited to taking out infantry and protecting embarking and disembarking troops.
+
+==History==
+These vehicles were used as transports by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] during their [[Galactic Civil War/Legends|war]] with the [[Galactic Empire/Legends|Galactic Empire]].
+
+==Appearances==
+*''[[Star Wars: Empire at War: Forces of Corruption]]'' {{1st}}
+
+==Sources==
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{LucasArts|url=games/swempireatwar_foc|text=''Star Wars: Empire at War: Forces of Corruption''}}
+
+{{Interlang
+|de=HTT-26 Truppentransporter
+|es=Transporte pesado de tropas HTT-26
+|uk=Важкий десантний транспорт HTT-26
+}}
+
+[[Category:Gallofree Yards, Inc. products]]
+[[Category:Repulsorcraft troop transport classes]]
+[[Category:Vehicle classes of the Alliance to Restore the Republic]]

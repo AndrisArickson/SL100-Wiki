@@ -1,0 +1,97 @@
+{{Top}}
+{{Otheruses|Gungan|more=battle wagon}}
+{{GroundVehicle
+|image=[[File:GunganBattleWagon-SWE.png]]
+|name=Gungan battle wagon
+|designer=
+|manufacturer=[[Gungan Grand Army/Legends|Gungan Grand Army]]
+|line=
+|model=[[Battle wagon]]
+|type=Wheeled
+|cost=
+|modifier=
+|sysmods=
+|length=5 meters<ref name="FF">[[The Official Star Wars Fact File 111|''The Official Star Wars Fact File'' 111]]</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|speed=5 km/h<ref name="FF" />
+|velocity=
+|engine=[[Falumpaset/Legends|Falumpaset]] (1)<ref name="FF" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=None
+|complement=
+|bays=
+|escapepods=
+|crew=1
+|skeleton=
+|passengers=
+|capacity=[[Booma/Legends|Boomas]]
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Ammunition transport
+|firstuse=
+|retired=
+|affiliation=[[Gungan Grand Army/Legends|Gungan Grand Army]]
+}}
+Towed into combat by grumpy [[Falumpaset/Legends|falumpasets]], '''Gungan battle wagons''' were organically grown vehicles served to resupply [[Gungan/Legends|Gungan]] artillery pieces, like their powerful [[Gungan catapult/Legends|Gungan energy catapults]].
+
+==Characteristics==
+Gungan battle wagons were almost all wheeled, a design choice made to minimize jolts when traveling over uneven terrain. Gungans employed two varieties of battle wagon, one designed to haul giant boomer ammunition, and another for moving catapult emplacements into battle. It was pulled by one falumpaset that was driven by one Gungan.
+
+==History==
+In the thick of combat at the [[Battle of Naboo/Legends|Battle of Grassy Plains]], [[Bombad General/Legends|Bombad General]] [[Jar Jar Binks/Legends|Jar Jar Binks]] accidentally opened the cargo ramp of a fully loaded battle wagon, spilling huge [[Booma/Legends|boomas]] onto the battlefield.
+
+==Appearances==
+*{{Film|I}} {{1st}}
+*[[Star Wars: Episode I — The Phantom Menace 4|''Star Wars: Episode I — The Phantom Menace'' 4]]
+
+==Sources==
+*<!-- 1999-05-XX -->''[[Star Wars: Episode I: The Visual Dictionary]]'' {{1stID|Gungan battle wagon}}
+*<!-- 1999-09-07 -->''[[The Art of Star Wars Episode I: The Phantom Menace]]''
+*<!-- 2000-01-03 -->{{InsiderCite|47|Creatures of Episode I}}
+*<!-- 2000-10-XX -->''[[Inside the Worlds of Star Wars: Episode I]]''
+*<!-- 2001-02-08 -->''[[Secrets of Naboo]]''
+*<!-- 2001-12-12 -->{{CCG|set=Theed Palace Limited|cardname=Big Boomers!}}
+*<!-- 2002-03-13 -->{{FactFile|11|GUN 1-2|Gungan Weapons}}
+*<!-- 2004-02-11 -->{{FactFile|111|WAG 1-2|Gungan Battle Wagon}}
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2009-04-09 -->{{StarshipsVehiclesCite|15|Star Wars A&ndash;Z}}
+*<!-- 2011-09-13 -->{{DB|creature|falumpaset|falumpaset}}
+*<!-- 2011-09-13 -->{{DB|vehicle|gunganbattlewagon|Gungan battle wagon}}
+*<!-- 2011-09-13 -->{{DB|technology|gunganenergycatapult|Gungan energy catapult}}
+*<!-- 2012-01-16 -->''[[Star Wars: The Phantom Menace: The Expanded Visual Dictionary]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2014-04-21 -->''[[Star Wars: What Makes a Monster?]]''
+*<!-- 2014-04-25 -->{{SWE|technology|gungantech|Gungan weaponry}}
+*<!-- 2014-06-18 -->{{FactFile2014|24|WAG 1-2|Gungan Battle Wagon}}
+*<!-- 2014-10-01 -->{{FactFile2014|39|GUN 1-4|Gungan energy balls}}
+
+===Non-canon sources===
+*<!-- 2009-10-10 -->''[[LEGO Star Wars: The Visual Dictionary]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Gungan-Streitwagen
+|pl=Gungański wóz bojowy
+}}
+
+[[Category:Ground vehicle models]]
+[[Category:Gungan vehicle classes]]
