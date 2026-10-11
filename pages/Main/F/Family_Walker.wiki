@@ -1,0 +1,57 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=Family Walker
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Walker/Legends|Walker]]<ref name="E">{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=90 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="E" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="E" />
+|skeleton=
+|passengers=3<ref name="E" />
+|capacity=200 [[Kilogram/Legends|kilograms]]<ref name="E" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Family Walkers''' were a model of [[Walker/Legends|walker]] commonly used on the [[Planet/Legends|planet]] [[Emmer]]. FAmily Walkers were variants of the [[All Terrain Scout Transport/Legends|All Terrain Scout Transport]] and aimed at providing the travels need of family units.<ref name="E" />
+
+==Appearances==
+*{{WEGCite|story=Elusive (adventure)|book=No Disintegrations (West End Games)}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Walker models]]

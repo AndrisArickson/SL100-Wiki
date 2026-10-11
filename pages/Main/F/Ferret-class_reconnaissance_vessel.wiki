@@ -1,0 +1,102 @@
+{{Top|leg|title=''Ferret''-class reconnaissance vessel}}
+{{StarshipClass
+|image=[[File:Ferret-class_reconnaissance_vessel.jpg]]
+|name=''Ferret''-class reconnaissance vessel
+|designer=
+|manufacturer=[[Republic Engineering Corporation]]
+|line=[[New Class Modernization Program]]
+|model=
+|type=*Drone
+*[[Scout ship/Legends|Scout vessel]]
+|cost=890,000 [[Galactic Credit Standard/Legends|credits]]<ref name="GoI">''[[Galaxy of Intrigue]]''</ref>
+|modifier=
+|sysmods=
+|length=28 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=[[Ion engine/Legends|Ion drive]]<ref name="GoI" />
+|hyperdrive=*Class 1.0<ref name="threat">''[[Cracken's Threat Dossier]]''</ref>
+*Class 8 {{C|[[Backup hyperdrive|backup]]}}<ref name="GoI" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=none<ref name="GoI" />
+|hull=20 RU
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[CM-5 missile launcher]]s (2)
+*6 [[Concussion missile/Legends|concussion missiles]]<ref name="GoI" />
+|complement=
+|bays=
+|escapepods=
+|crew=3 linked [[Droid brain/Legends|droid brains]]
+|skeleton=
+|passengers=2 {{C|with modifications}}
+|capacity=2 [[Metric ton/Legends|tons]]<ref name="GoI" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="GoI" />
+|lifesupport=
+|communications=
+|othersystems=*Baffled sublight drive<ref name="GoI" />
+*Sensor decoys<ref name="GoI" />
+|availability=
+|role=Reconnaissance
+|firstuse=
+|retired=
+|affiliation=[[New Republic/Legends|New Republic]]
+}}
+The '''''Ferret''-class reconnaissance vessel''', commonly known as a '''ferret''', was an intelligence-gathering vessel created by [[Republic Engineering Corporation]] as part of the [[New Class Modernization Program]].
+
+==Characteristics==
+[[File:ScoutingTheVong-GOI.jpg|thumb|left|200px|A ferret tails a Yuuzhan Vong fleet]]
+Simply stated, the ferret was an automated, pilotless version of the larger, crewed [[Prowler-class reconnaissance vessel|''Prowler''-class reconnaissance vessel]].
+
+Every element of the ferret's design contributed to its ability to covertly enter hostile territory, collect intelligence, and remain virtually undetected during departure. Its 28-meter-long hull was coated in materials that negated most sensors, while a unique baffled drive system let it move at sublight speeds while leaving minimal trail. In addition, the ferret's primary [[Sublight engine/Legends|sublight drive]] ran on [[chemical thrust]], avoiding detectable ion emissions.
+
+While shieldless, the ferret was armed with a pair of [[Concussion missile/Legends|concussion missile]] launchers. If a ferret's defenses were overwhelmed, its [[Droid brain/Legends|droid brains]] were set to purge the onboard computers and trigger a [[Baradium/Legends|baradium]] charge to detonate its missile cache, destroying the vessel.
+
+A few craft were refitted as couriers to rapidly shuttle one or two occupants, or important material, to desired destinations. The automaton would perform all the necessary piloting, and would linger over the destination, usually just long enough to relay telemetry or messages to another communications post.
+
+Ships of this class were given alphanumeric designations such as [[D-89]], [[IX-26]], and [[IX-44F]].
+
+==Appearances==
+*''[[Before the Storm]]'' {{1st}}
+*[[Before the Storm (abridged audiobook)|''Before the Storm'' abridged audiobook]]
+*''[[Shield of Lies]]''
+*[[Shield of Lies (abridged audiobook)|''Shield of Lies'' abridged audiobook]]
+*''[[Tyrant's Test]]''
+*[[Tyrant's Test (abridged audiobook)|''Tyrant's Test'' abridged audiobook]]
+
+==Sources==
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|Ferret}}
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{NewClassNav}}
+
+{{Interlang
+|de=Ferret-Klasse Aufklärungsschiff
+|es=Nave de reconocimiento clase Hurón
+}}
+
+[[Category:New Class starship classes]]
+[[Category:Republic Engineering Corporation products]]
+[[Category:Scout starship classes]]
+[[Category:Stealth ship classes]]
+
+{{RelatedCategories
+|[[Category:Ferret-class reconnaissance vessels]]
+}}

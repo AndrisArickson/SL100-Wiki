@@ -1,0 +1,39 @@
+{{Top|leg}}
+{{Family
+|image=
+|name=Figg family
+|type=
+|species=[[Human/Legends|Humans]]
+|first=
+|head=
+|relatives=
+|origin=*[[Alderaan/Legends|Alderaan]]
+*[[Corellia/Legends|Corellia]]
+|locations=
+|early=
+|prominence=
+|fragmented=
+|restored=
+|extinct=
+|affiliation=[[Figg conglomerate]]
+}}
+The '''Figg family''' consisted of [[Hyperspace/Legends|hyperspace]] explorer [[Ecclessis Figg/Legends|Ecclessis Figg]], his [[Alderaanian/Legends|Alderaanian]] wife [[Yarith Figg|Yarith]], and their descendants.
+
+The family founded the [[Figg conglomerate]] prior to the exploration of the [[Greater Javin/Legends|Greater Javin]], and maintained control over its holdings through the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree|LYER|y|GAER|LYER=[[Yarith Figg]]|GAER=[[Ecclessis Figg/Legends|Ecclessis Figg]]|boxstyle_LYER=f|boxstyle_GAER=m}}
+{{FamilyTree| | | |!|}}
+{{FamilyTree| | |JYER|JYER=unknown descendants|boxstyle_JYER=u}}
+{{FamilyTree/end}}
+
+==Sources==
+*<!-- 2004-03-25 -->{{Wizards|url=default.asp?x=starwars/article/sw20040325web|text=Galactic Gazetteer: Hoth and the Greater Javin|int=Galactic Gazetteer: Hoth and the Greater Javin}}
+*<!-- 2004-03-25 -->{{Wizards|url=default.asp?x=starwars/article/sw20040325adv|text=Rough and Tundra|int=Rough and Tundra}}
+
+{{Interlang
+|es=Familia Figg
+}}
+
+[[Category:Families]]

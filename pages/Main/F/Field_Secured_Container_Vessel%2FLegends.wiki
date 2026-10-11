@@ -1,0 +1,96 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:BlackIceScale.jpg]]
+|name=Field Secured Container Vessel
+|designer=
+|manufacturer=*[[Loronar Corporation/Legends|Loronar Corporation]]
+*[[Rendili StarDrive/Legends|Rendili StarDrive]]
+|line=
+|model=Field Secured Container Vessel
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=*Loronar design:
+**~19,200 [[Meter/Legends|meters]] {{C|with maximum number of field bubbles}}
+*Rendili design:
+**~10,400 meters {{C|with maximum number of field bubbles}}
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=Rendili design: 100 {{C|per tug}}
+|skeleton=
+|passengers=
+|capacity=*Loronar design:
+**Up to 5 billion [[Cubic meter/Legends|cubic meters]]
+*Rendili design:
+**Up to 990 million [[Metric ton/Legends|tons]]
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Massive [[Transport/Legends|transport]] vessel
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+A '''Field Secured Container Vessel (FSCV)''' was a type of bulk [[Transport/Legends|transport]] vessel used by the [[Imperial Navy/Legends|Imperial Navy]].
+
+==Characteristics==
+With massive [[Force field/Legends|force field]] generators mounted on their bows, a pair of FSCVs could generate one or more huge force-field bubbles between them, in which vast quantities of cargo could be transported.
+
+The typical FSCV was a [[Loronar Corporation/Legends|Loronar Corporation]] design, with two ships capable of supporting a chain of up to twenty 800m field bubbles and five billion cubic meters of cargo. Other types of FSCVs were built to different designs: for instance, ''[[Black Ice/Legends|Black Ice]]'', assigned to [[Imperial Replenishment Fleet DK-209/Legends|Imperial Replenishment Fleet DK-209]] in the [[Mortex sector/Legends|Mortex sector]], was built by [[Rendili StarDrive/Legends|Rendili StarDrive]], and could generate up to nine field bubbles, each capable of hauling at least 110 million tons of cargo.
+
+[[File:FSCV_engine_pod.jpg|thumb|left|Schematics of the engine pod]]
+Most of the length of an FSCV was taken up by field bubbles, and while the tugs were themselves around the size of small Star Destroyers, most of the hull space inside them was occupied by engines, fuel cells and shield generators: in the Rendili design, the crew&mdash;100 in each tug&mdash;spent most of their time in a small command module on top of the hull.
+
+In normal operations, a pair of FSCVs would pass through a system under way, while smaller transports ferried their cargo to its destination. This was done because, while they could comfortably sustain their cruising speed in the vacuum of deep space, their ion drives provided only very slow acceleration and deceleration.
+
+Since two ships the size of heavy cruisers might be required to haul a cargo broadly comparable in volume and tonnage to a large [[Super Star Destroyer/Legends|Super Star Destroyer]], diverting most of their power output into sustaining the force-fields to do so, it is unsurprising that a typical Loronar FSCV took thirty-five hours and 600 million kilometers to move between a full stop and its normal sublight cruising speed.
+
+==Appearances==
+*[[Black Ice (adventure)|''Black Ice'']]
+
+==Sources==
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+
+{{Interlang
+|es=Nave de Contenedores Asegurados en Campo
+}}
+
+[[Category:Loronar Corporation products]]
+[[Category:Rendili StarDrive products]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:Field Secured Container Vessels]]
+}}

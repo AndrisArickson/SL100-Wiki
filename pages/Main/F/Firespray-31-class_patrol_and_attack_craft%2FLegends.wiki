@@ -1,0 +1,325 @@
+{{Top|title=''Firespray-31''-class patrol and attack craft}}
+{{Otheruses|Firespray}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:Firespray_SWGTCG.jpg]]
+|name=''Firespray-31''-class patrol and attack craft
+|designer=
+|manufacturer=[[Kuat Systems Engineering/Legends|Kuat Systems Engineering]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=''Firespray-31''-class patrol and attack craft
+|type=*Patrol craft
+*Prisoner [[Transport/Legends|transport]]
+|cost=
+|modifier=
+|sysmods=
+|length=21.5 [[Meter/Legends|meters]]
+|width=21.3 meters
+|height=7.8 meters
+|mass=
+|max accel=*2,700 G<ref name="NEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+*16 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA" />
+|mglt=91 MGLT<ref name="XWA" />
+|max speed=850 [[Kilometer per hour/Legends|km/h]]<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|maneuverability=72 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=[[F-31 drive engine]]s (3)
+|hyperdrive=*Class 3.0<ref name="Starships" />
+*Class 15 {{C|backup}}<ref name="Starships" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Rated 106 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 62 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="XWA" />
+*Warhead launchers (2)<ref name="XWA" />
+**5 [[Concussion missile/Legends|concussion missiles]] each<ref name="XWA" />
+*[[Tractor beam/Legends|Tractor beam]] [[Tractor beam projector/Legends|projector]] (1)
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="Starships" />
+|skeleton=
+|passengers=6 total<ref name="Starships" />
+*Guards (2)
+*Prisoners (4)
+|capacity=70 [[Metric ton/Legends|tons]]<ref name="Starships" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Patrol craft
+*Law enforcement vessel
+*Prisoner [[Transport/Legends|transport]]
+|firstuse=
+|retired=
+|affiliation=*[[Republic Correctional Authority/Legends|Republic Correctional Authority]]
+*Various other law enforcement agencies
+*[[Asteroid Bandits]]<ref name="SWG:RotW">''[[Star Wars Galaxies: Rage of the Wookiees]]''</ref>
+*[[Bounty hunter/Legends|Bounty hunters]]<ref name="FFGXW-BH">{{FFGXW|set=Slave I Expansion Pack|cardname=Bounty Hunter}}</ref>
+*[[Civilian Protection Guild]]<ref name="SWG:RotW" />
+*[[Corellian Security Force]]<ref name="SWG:DHC">{{SWGcite|exp=JtL|type=space|Deliver Hutt Cargo|Dantooine system}}</ref>
+*[[Hidden Daggers]]<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+*[[Mandalorian/Legends|Mandalorians]]<ref name="FFGXW-MM" />
+**[[Mandalorian Protectors (Spar)|Mandalorian Protectors]]<ref name="Revenants">{{Tales|18|Revenants}}</ref>
+*[[Mercenary/Legends|Mercenaries]]<ref name="FFGXW-MM">{{FFGXW|set=Most Wanted Expansion Pack|cardname=Mandalorian Mercenary}}</ref>
+**[[Corellia Deep Mining Company|CDMC]]'s mercenaries<ref name="SWG:RMFuA">{{SWGcite|exp=JtL|type=space|Rescue Mining Fleet under Attack|Yavin system}}</ref>
+*[[Ohnaka Gang/Legends|Ohnaka Gang]]
+*[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]]<ref name="SWG:RSFI">{{SWGcite|exp=JtL|type=space|Royal Security Force Interference|Naboo system}}</ref>
+*[[Ter-Doac Vaine]]'s forces<ref name="SWG:EG">{{SWGcite|exp=NGE|type=general|End Game|the Nova Orion Station}}</ref>
+}}
+{{Quote|She's a ''Firespray'' Pursuit Special&hellip;one of six prototypes manufactured for the prison. She's the last of her kind now.|Jango Fett after "acquiring" ''Slave I''|audio=LastOfHerKind-SWBH.flac|<ref name="Star Wars: Bounty Hunter">''[[Star Wars: Bounty Hunter]]''</ref>}}
+The '''''Firespray-31''-class patrol and attack craft''', or '''''Firespray''-class starship''', or '''''Firespray''-class interceptor''', was a patrol and [[Transport/Legends|transport]] [[Starship/Legends|starship]] designed by [[Kuat Systems Engineering/Legends|Kuat Systems Engineering]] initially for use by the [[Republic Correctional Authority/Legends|Republic Correctional Authority]]. The most well known of the starships was [[Jango Fett/Legends|Jango]] and [[Boba Fett/Legends|Boba Fett's]] ship, the [[Slave I/Legends|''Slave I'']].
+
+==Characteristics==
+[[File:SlaveI_egvv.jpg|thumb|left|150px|''Slave I'' schematics]]
+As a prisoner transport, the ship featured numerous holding cells and devices made for the most exotic of creatures. A trademark of the ship was that it landed horizontally with the drive engines facing the surface and the cockpit facing upward. To transition to normal flight mode, the ship rotated so that the cockpit faced forward while the drive engines faced rearward.
+
+The stock ship was well armed and armored for its size, with on-board storage space and room for several passengers and/or cargo. Roughly as fast as [[Koensayr Manufacturing/Legends|Koensayr's]] [[BTL Y-wing starfighter/Legends|Y-wing]] [[Starfighter/Legends|starfighter]]/[[Bomber/Legends|bomber]], the ship had more than enough speed and maneuverability to intercept [[Smuggler/Legends|smugglers]] and other renegades.
+
+==History==
+{{Quote|Torn one beat-up ''Firespray'' right down to the frame and rebuilt it&mdash;''"<br />"''A ''Firespray''? I thought those ships were just legend!|Deliah Blue and Ona Antilles|<ref name="Legacy 49">[[Legacy (2006) 49|''Legacy'' (2006) 49]]</ref>}}
+[[File:InertialDampeners-XWM.png|thumb|left|150px|An [[Aggressor assault fighter/Legends|Aggressor assault fighter]] firing on a ''Firespray'']][[Kuat/Legends|Kuat]] Systems Engineering produced six prototypes shortly before the [[Invasion of Naboo/Legends|Battle of]] [[Naboo/Legends|Naboo]]. However, all but one were destroyed when [[Jango Fett/Legends|Jango Fett]] staged a prison break on [[Oovo IV/Legends|Oovo IV]]. Jango kept the sole remaining ''Firespray'', renaming it [[Slave I/Legends|''Slave I'']]. Kuat Systems Engineering, suffering from the financial loss of the prototypes, eventually mothballed the project and concentrated instead on starship upgrades.
+
+Many years later, K.S.E. found themselves on a more secure financial footing, and again desired to enter the starship market. The company then re-introduced the ''Firespray''-class, hoping to build upon the reputation of the remaining prototype and its legendary [[Pilot/Legends|pilot]], [[Boba Fett/Legends|Boba Fett]]. Fett would still be using the ship by the year [[43 ABY]].
+
+The new ''Firespray''s were, like the original prototypes, designated as patrol and attack ships and perfectly suited for law enforcement and interdiction missions. With Kuat Systems Engineering keen to expand the market for the ship, they had started to promote how easily the ship could be customized and upgraded to fulfill a myriad of roles.
+
+At least ten were used by the [[Mandalorian Protectors (Spar)|Mandalorian Protectors]] during the [[Yuuzhan Vong War]].<ref name="Revenants" /> By [[137 ABY]], these ships were legendary, but regarded as myth. During this time, [[Deliah Blue]] claimed that she once found and rebuilt one that was in such an advanced state of disrepair as to be falling apart.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of Firespray-31-class patrol and attack craft}}
+*''[[Star Wars: Bounty Hunter]]''
+*[[Jango Fett: Open Seasons 3|''Jango Fett: Open Seasons'' 3]]
+*[[Star Wars: Jango Fett (one-shot)|''Star Wars: Jango Fett'']]
+*''[[Star Wars: Zam Wesell]]''
+*''[[Star Wars Adventures 4: Jango Fett vs. the Razor Eaters]]''
+*''[[Star Wars Adventures 5: The Shape-Shifter Strikes]]''
+*''[[Star Wars Adventures 6: The Warlords of Balmorra]]''
+*{{Tales|18|The Way of the Warrior (comic story)}}
+*''[[Full of Surprises]]''
+*''[[Star Wars: Jedi Starfighter]]''
+*{{Film|II}}
+*[[Star Wars: Episode II — Attack of the Clones 2|''Star Wars: Episode II — Attack of the Clones'' 2]]
+*[[Star Wars: Episode II — Attack of the Clones 3|''Star Wars: Episode II — Attack of the Clones'' 3]]
+*''[[Boba Fett: The Fight to Survive]]''
+*''[[Boba Fett: Crossfire]]''
+*''[[Boba Fett: Maze of Deception]]''
+*''[[Boba Fett: Hunted]]''
+*{{TCW|Death Trap}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Lethal Trackdown}}
+*{{LivingForce|Looking In: Outward Bound}} {{Mo}}
+*''[[The Clone Wars: Decide Your Destiny: Crisis on Coruscant]]''
+*{{LivingForce|For Fun and Profit}}
+*{{TCW|A Necessary Bond}}
+*''[[Boba Fett: A New Threat]]''
+*''[[Boba Fett: Pursuit]]''
+*{{Tales|18|Being Boba Fett}}
+*''[[The Last of the Jedi: The Desperate Mission]]''
+*''[[The Last of the Jedi: Dark Warning]]''
+*[[Blood Ties: Boba Fett is Dead 4|''Blood Ties: Boba Fett is Dead'' 4]]
+*''[[The Protocol Offensive]]''
+*[[Boba Fett: Enemy of the Empire 1|''Boba Fett: Enemy of the Empire'' 1]]
+*[[Boba Fett: Enemy of the Empire 2|''Boba Fett: Enemy of the Empire'' 2]]
+*[[Boba Fett: Enemy of the Empire 4|''Boba Fett: Enemy of the Empire'' 4]]
+*{{Tales|18|Number Two in the Galaxy}}
+*{{JournalCite|11|The Farrimmer Cafe}}
+*{{WizCite|story=Extracting Aleece|book=Galaxy of Intrigue}}
+*[[Underworld: The Yavin Vassilika 4|''Underworld: The Yavin Vassilika'' 4]]
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Empire 7|''Empire'' 7]]
+*''[[Rebel Force: Firefight]]''
+*''[[Rebel Force: Trapped]]''
+*''[[Star Wars Missions 11: Bounty Hunters vs. Battle Droids]]''
+*"[[Showdown (LA Times)|Showdown]]" {{Reprint|Showdown (LA Times)}}
+*''[[Galaxy of Fear: City of the Dead]]''
+*[[Empire 28|''Empire'' 28]]
+*{{FFG|story=Trouble Brewing|book=Star Wars: Edge of the Empire Core Rulebook|text=''Star Wars: Edge of the Empire'' Core Rulebook}} {{Po}}
+*''[[Beyond the Rim]]'' {{Po}}
+*''[[Galaxy of Fear: The Hunger]]''
+*[[Boba Fett ½|''Boba Fett'' ½]]
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*{{GalaxiesNGE}}
+*{{SWGTCG|set=Squadrons Over Corellia|scenario=Dark Side scenario campaign}}
+*''[[The Bounty Hunter]]''
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}}
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}} {{1st|in book}}
+*''[[Super Star Wars: The Empire Strikes Back]]''
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 42|''Star Wars'' (1977) 42]] {{Reprint|Star Wars (1977) 42}}
+*{{ESBRadio|Gambler's Choice}}
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*[[Star Wars (1977) 50|''Star Wars'' (1977) 50]] {{Reprint|Star Wars (1977) 50}} {{Vision|Chewbacca}}
+*[[Star Wars (1977) 68|''Star Wars'' (1977) 68]] {{Reprint|Star Wars (1977) 68}} {{Flash}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]]
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*{{StoryCite|story=A Barve Like That: The Tale of Boba Fett|book=Tales from Jabba's Palace}} {{Flash}}
+*''[[The Mandalorian Armor]]''
+*''[[Slave Ship]]''
+*''[[Hard Merchandise]]'' {{Flash}}
+*''[[Boba Fett: Twin Engines of Destruction]]''
+*{{StoryCite|story=Hutt and Seek|book=Tales from the New Republic}}
+*{{JournalCite|14|No Disintegrations, Please}} {{Flash}}
+*''[[Boba Fett: Bounty on Bar-Kooda]]''
+*''[[Boba Fett: When the Fat Lady Swings]]''
+*{{Wizards|url=default.asp?x=starwars/article/sw20031023rebel|text=Rebel Jedi|int=Rebel Jedi}}
+*{{Tales|18|Revenants}}
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Bloodlines]]''
+*''[[Legacy of the Force: Sacrifice]]''
+*''[[Legacy of the Force: Revelation]]''
+*''[[Fate of the Jedi: Ascension]]'' {{Ab|Fate of the Jedi: Ascension (audiobook)}}
+*[[Legacy (2006) 49|''Legacy'' (2006) 49]] {{Mo}}
+}}
+
+===Non-canon appearances===
+*<!-- 2000-12-20 -->{{Tales|6|Fortune, Fate, and the Natural History of the Sarlacc}}
+*<!-- 2001-10-03 -->[[Tag & Bink Are Dead 1|''Tag & Bink Are Dead'' 1]]
+*<!-- 2001-12-05 -->[[Tag & Bink Are Dead 2|''Tag & Bink Are Dead'' 2]]
+*<!-- 2002-03-20 -->{{Tales|11|Prey}}
+*<!-- 2002-07-10 -->[[Star Wars Infinities: The Empire Strikes Back 1|''Star Wars Infinities: The Empire Strikes Back'' 1]]
+*<!-- 2002-08-28 -->[[Star Wars Infinities: The Empire Strikes Back 2|''Star Wars Infinities: The Empire Strikes Back'' 2]]
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2005-03-29 -->''[[LEGO Star Wars: The Video Game]]''
+*<!-- 2006-03-29 -->''[[The Return of Tag & Bink: Special Edition]]''
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1981-XX-XX -->{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=Slave I|link=vintSlaveI.asp}}
+*<!-- 1982-XX-XX -->[[The Empire Strikes Back Coloring Book (1982)|''The Empire Strikes Back Coloring Book'' (1982)]]
+*<!-- 1987-10-XX -->''[[Star Warriors: Starfighter Combat in the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{Po}}
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]'' {{Po}}
+*<!-- 1989-XX-XX -->''[[Galaxy Guide 3: The Empire Strikes Back]]'' {{ID|Firespray-class" and "Firespray-31}}
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']] {{ID|''Firespray''-class ship}}
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]] {{Po}}
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=''Slave I''|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC088.jpg}}
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1996-XX-XX -->{{KennerCite|set=Star Wars: Shadows of the Empire (toy line)|pack=Boba Fett's ''Slave I''|link=soteKslave1.asp}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bounty}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Slave I}}
+}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-10-05 -->''[[Star Wars: Incredible Cross-Sections]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Boba Fett In ''Slave I''}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}} {{Po}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-03-27 -->{{FactFile|13|KUA 1-4|Kuat Drive Yards}}
+*<!-- 2002-04-22 -->''[[Star Wars: Attack of the Clones: The Illustrated Companion]]''
+*<!-- 2002-04-23 -->''[[Star Wars: Attack of the Clones: The Visual Dictionary]]''
+*<!-- 2002-11-26 -->[[Star Wars: Bounty Hunter: Prima's Official Strategy Guide|''Star Wars: Bounty Hunter'': Prima's Official Strategy Guide]]
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-01-08 -->{{Wizards|url=default.asp?x=starwars/article/sw20040108fett|text=Boba Fett (NJO Era)}}
+*<!-- 2004-06-10 -->''[[Ultimate Adversaries]]''
+*<!-- 2004-10-22 -->{{SonyCite|url=expansions_ships_Firespray.jsp|text=KSE Firespray}}
+*<!-- 2004-10-28 -->{{Wizards|url=default.asp?x=starwars/livingforce/swlf20041028|text=Priorities}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2004-12-16 -->{{Wizards|url=default.asp?x=starwars/livingforce/swlf20041216|text=Standoffs}}
+*<!-- 2005-01-20 -->{{Wizards|url=default.asp?x=starwars/article/sw20050120a|text=We Don't Need That Scum}}
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66880&resource=features|text=Ships: Firespray}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2008-11-06 -->''[[Star Wars Fandex Deluxe Edition]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|Firespray-31}}
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=KSE Firespray}}
+<!-- 2009-03-11 -->{{CardGameSet|set={{SWGTCG|set=Galactic Hunters|parent=1}}|cards=
+*<!-- 2009-03-11 -->{{SWGTCG|set=Galactic Hunters|cardname=Boba Fett|swglink=Boba Fett (Avatar) (card).JPG}} {{Po}}
+*<!-- 2009-03-11 -->{{SWGTCG|set=Galactic Hunters|cardname=Slave I}} {{Po}}
+}}
+*<!-- 2010-01-19 -->''[[Galaxy of Intrigue]]''
+*<!-- 2012-04-30 -->''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]''
+*<!-- 2012-12-14 -->[[Star Wars: Edge of the Empire Beginner Game|''Star Wars: Edge of the Empire'' Beginner Game]]
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Bespin Exchange}}
+<!-- 2013-02-28 -->{{CardGameSet|set={{FFGXW|set=Slave I Expansion Pack}}|cards=
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Boba Fett}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Bounty Hunter}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Kath Scarlet}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Krassis Trelix}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Slave I}}
+}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=The Hunt for Han Solo|link=the-hoth-cycle/a-dark-time/the-hunt-for-han-solo-a-dark-time-52-1}} {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Game Master's Kit|''Star Wars: Edge of the Empire'' Game Master's Kit]] {{Po}}
+*<!-- 2013-07-19 -->{{FFGTCG|set=Edge of Darkness|cardname=''Slave I''|link=edge-of-darkness/slave-i-edge-of-darkness-84-2}}
+*<!-- 2013-12-06 -->''[[Enter the Unknown]]''
+*<!-- 2014-01-24 -->''[[Suns of Fortune]]''
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-11-26 -->{{FFGXW|set=YT-2400 Freighter Expansion Pack|cardname=Lone Wolf|reprint=1}} {{Po}}
+*<!-- 2015-02-26 -->{{FFGXW|set=IG-2000 Expansion Pack|cardname=Inertial Dampeners|reprint=1}} {{Po}}
+<!-- 2015-02-26 -->{{CardGameSet|set={{FFGXW|set=Most Wanted Expansion Pack}}|cards=
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=''Andrasta''}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Emon Azzameen}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Mandalorian Mercenary}}
+}}
+<!-- 2015-06-25 -->{{CardGameSet|set={{FFGTCG|set=Attack Run|parent=1}}|cards=
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=''Slave I''|link=rogue-squadron/attack-run/slave-i-r1337}} {{Po}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=The Hunter's Flight|link=rogue-squadron/attack-run/the-hunter’s-flight-r1335}} {{Po}}
+}}
+*<!-- 2017-02-02 -->{{FFGXW|set=U-wing Expansion Pack|cardname=Stealth Device}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Slave I Expansion Pack}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Slave I Expansion Pack|cardname=''Andrasta''|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Slave I Expansion Pack|cardname=Emon Azzameen|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Slave I Expansion Pack|cardname=Kath Scarlet|reprint=1}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Slave I Expansion Pack|cardname=Krassis Trelix|reprint=1}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Firespray-31-Klasse Patrouillenboot
+|es=Nave de ataque y patrulla clase Firespray-31/Leyendas
+|fi=Tuliruisku-31-luokan partio ja hyökkäysalus
+|nl=Firespray-31 Patrol Craft
+|pl=Patrolowiec typu Firespray/Legendy
+}}
+
+[[Category:Kuat Systems Engineering products]]
+[[Category:Patrol craft classes]]
+[[Category:Starship classes of the Galactic Republic]]
+
+{{RelatedCategories
+|[[Category:Firespray-31-class patrol and attack craft]]
+}}

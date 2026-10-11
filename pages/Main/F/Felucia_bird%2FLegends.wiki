@@ -1,0 +1,57 @@
+{{Top}}
+{{Conjecture|legends}}
+{{Species
+|image=[[File:Felucia_bird.png]]
+|name=Felucia bird
+|designation=
+|class=[[Bird/Legends|Bird]]
+|subspecies=
+|races=
+|height=
+|length=
+|wingspan=
+|mass=
+|skincolor=
+|haircolor=
+|feathers=
+|eyecolor=
+|distinctions=
+|lifespan=
+|origin=[[Felucia/Legends|Felucia]]<ref name=":0" />
+|habitat=
+|diet=
+|language=
+}}
+An '''avian native''' to the [[Planet/Legends|planet]] of [[Felucia/Legends|Felucia]], this creature had a bulbous body and translucent, pale skin.<ref name=":0" />
+
+One of these avians took flight in front of [[Jedi Knight/Legends|Jedi Knight]] [[Aayla Secura/Legends|Aayla Secura]] during her reconnaissance<ref name=":0">{{Film|III}}</ref> en route to [[Niango/Legends|Niango]]. The flying creature caught Aayla Secura's eye,<ref name="BF">{{SWArchive|url=episode-iii/bts/production/f20060807/index.html|text=Building Felucia}}</ref> thus leaving her unable to defend herself when [[Clone Commander/Legends|Commander]] [[Bly/Legends|Bly]] and his [[327th Star Corps/Legends|troops]] opened fire, cutting her down in accordance with [[Order 66/Legends|Order 66]].<ref name=":0" />
+
+[[File:Gummy_felucian_bird.jpg|thumb|A Felucian bird which distracts Aayla before her death]]
+
+{{Creature-stub}}
+
+==Behind the scenes==
+{{Quote|Late in the development of the sequence George decided he wanted to add the equivalent of a flying bird into the sequence. We ended up recycling a creature from one of the other sequences -- a peko peko. We then took a Felucia glass/GummiBear shader and applied it to the bird's geometry so we would have this gelatinous flying bird thing. You're still using the same textures but with a weird translucent characteristic on top of it.|Computer Graphics Supervisor [[Patrick Myers]] describes the origin of the Felucian bird.|<ref name="BF" />}}
+Since the CGI model for this creature was created using the existing [[Peko-peko/Legends|peko peko]] model from [[Star Wars: Episode I The Phantom Menace|Episode I]],<ref name="DB-Felucia ground beetle">{{DB|creature|feluciagroundbeetle|Felucia ground beetle}}</ref> and filling it with the same blue substance in the body of a [[Gelagrub/Legends|gelagrub]], Star Wars Insider refers to this species as the "gummy peko peko," but this is probably just a production nickname and not necessarily an in-universe name.
+
+==Appearances==
+*''[[Star Wars: Battlefront]]'' {{1st}}
+*''[[Star Wars: Battlefront II]]''
+*{{Film|III}}
+
+==Sources==
+*<!-- 2006-08-07 -->{{SWArchive|url=episode-iii/bts/production/f20060807/index.html|text=Building Felucia}}
+*<!-- 2011-09-13 -->{{DB|creature|feluciagroundbeetle|Felucia ground beetle}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Oiseau de Felucia/Légendes
+|pl=Feluciański ptak
+}}
+
+[[Category:Birds]]
+[[Category:Creatures of Felucia]]
+[[Category:Creatures of unspecified diet]]
+[[Category:Species of undefined sentience]]
