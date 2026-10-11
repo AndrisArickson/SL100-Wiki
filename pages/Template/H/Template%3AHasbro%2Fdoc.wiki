@@ -1,0 +1,30 @@
+This template is to be used for citing individual pages on the official [[Hasbro|Hasbro ''Star Wars'']] [https://starwars.hasbro.com/en-us website]. For citing individual Hasbro ''[[Star Wars]]'' toys, use {{Tl|HasbroCite}}.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Hasbro|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://starwars.hasbro.com/en-us/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, for example, <code>shop</code> or <code>www</code>. (Defaults to <code>starwars</code> if not specified).
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Hasbro|url=product/star-wars-escape-from-death-star-board-game:3178A131-EE5A-4035-A9EB-135169C10698|text=Star Wars Escape From Death Star Board Game|archivedate=20191020233718}}</nowiki></code>
+
+Results in:
+
+{{Hasbro|url=product/star-wars-escape-from-death-star-board-game:3178A131-EE5A-4035-A9EB-135169C10698|text=Star Wars Escape From Death Star Board Game|archivedate=20191020233718}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

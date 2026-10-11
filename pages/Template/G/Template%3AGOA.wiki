@@ -1,0 +1,19 @@
+{{#invoke:BaseCitation|main|template=GOA
+|mode=TV
+|image=<span class="invert-images">[[File:Star_Wars_Galaxy_of_Adventures_logo.png|text-bottom|x18px|link=Star Wars Galaxy of Adventures]]</span>
+|series=Star Wars Galaxy of Adventures
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+ <nowiki>{{</nowiki>GOA|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+
+==Image==
+[[File:Star_Wars_Galaxy_of_Adventures_logo.png|thumb|left|Not an orphan.]]
+
+{{Interlang
+|tr=Şablon:GOA
+}}
+
+[[Category:Web series citation templates|Galaxy of Adventures]][[Category:Star Wars Galaxy of Adventures| ]]</noinclude>

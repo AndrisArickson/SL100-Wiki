@@ -1,0 +1,20 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[0 BBY/Legends|0 BBY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Smuggler's Raid on Carida|Carida]] · [[Defense of Mon Calamari (Galactic Civil War)|Mon Calamari]] · [[Battle of Kalaan|Kalaan]] · [[Assault on Ruul|Ruul]]<br />[[First Battle of Ord Biniir|Ord Biniir (I)]] · [[Attack on Rhen Var|Rhen Var (I)]] · [[Sabotage at Rhen Var|Rhen Var (II)]] · [[Battle of Hoth (0 BBY)|Hoth]]<br />[[Dissolution of the Imperial Senate/Legends|Senate Dissolution]] · [[Mission to Commenor (0 BBY)|Commenor]] · [[Battle of Aargonar (Galactic Civil War)|Aargonar]]<br />[[Battle of Sarapin (Galactic Civil War)|Sarapin]] · [[Second Battle of Ord Biniir|Ord Biniir (II)]] · [[Battle of Thovinack|Thovinack]] · [[Mygeeto uprising|Mygeeto]]<br />[[Wellte-ir Massacre|Wellte-ir]] · [[Annexation of Hethar|Hethar]] · [[Blockade of Ralltiir|Ralltiir (I)]] · [[Ettam massacre|Ralltiir (II)]] · [[Battle of Begeren|Begeren]]'''
+</td></tr></onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW 0 BBY]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

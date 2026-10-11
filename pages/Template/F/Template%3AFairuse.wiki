@@ -1,0 +1,13 @@
+{{MediumMB
+|border=#BB7C77
+|bg=#FFF7F7
+|image=[[File:Copyright-red.svg|50px]]
+|message=This work is [[wikipedia:Copyright|'''copyrighted''']]. The user who uploaded this work and first utilized it in an article, as well as subsequent user(s) who place it into articles assert that the work qualifies as [[wikipedia:Fair use|'''fair use''']] of the material under [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:Fair use images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Fair use images]]
+
+{{Interlang|tr=Şablon:AdilKullanım}}
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

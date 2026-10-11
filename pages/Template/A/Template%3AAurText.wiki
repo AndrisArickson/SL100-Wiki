@@ -1,0 +1,30 @@
+{{#invoke:Aurebesh|main|size={{#if:{{{size|}}}|{{{size}}}|}}}}<noinclude>
+
+Modern version of {{Tl|Aur}} and {{Tl|AurB}}, which should be considered deprecated. Uses the power of Lua to scan strings letter by letter, replacing each one with an image of an Aurebesh character.
+
+==Usage==
+<code><nowiki>{{AurText|Insert text here.|Optionally more text.|</nowiki>''etc.''|style=|digraphs=|link=}}</code>
+
+Simply pass the text you wish to translate as the first unnamed argument. Additional argument are as defined below.
+
+*{{Para|style}} &ndash; style for the text. Currently, only <code>regular</code> and <code>bold</code> are supported. If not specified, defaults to <code>regular</code>.
+*{{Para|digraphs}} &ndash; Aurebesh has special characters for eight digraphs, namely "ch", "ae", "oo", "eo", "kh", "ng", "sh", and "th". However, not all official sources utilize these digraph characters. By default, the template will automatically recognize these digraphs and collapse them into a single Aurebesh character. If you do not want this behavior, pass any of the values <code>no</code>, <code>n</code>, <code>false</code>, or <code>0</code> (zero) to the {{Para|digraph}} parameter, and each letter will then be rendered individually. Although not necessary, you can also explicitly request the digraph functionality by specifying <code>yes</code>, <code>y</code>, <code>true</code>, or <code>1</code> for this parameter.
+*{{Para|link}} &ndash; Optional parameter to specify something for the text to link to. Can be internal (provide the raw name of the page, without <nowiki>[[wikilink brackets]]</nowiki>) or external (give the full URL). Be aware that the Aurebesh characters will still be black and will not give any visual indication that they are a link until the reader hovers the mouse over them (and even then, it's not obvious). If not specified, the characters will not link anywhere.
+
+For finer control over digraphs, you can specify more than one unnamed argument. This is useful to disable a single digraph, or a small number of digraphs, without disabling all digraphs. Just split the digraph up with a pipe character (like <code><nowiki>{{AurText|Jonat|han}}</nowiki></code>), and the parser will treat each character separately. Splitting into multiple arguments otherwise has no effect, unless it makes the first character of the next argument an apostrophe or quotation mark (see below).
+
+==Apostrophes and quotation marks==
+Aurebesh differentiates between left and right single and double quotation marks/apostrophes. Upon encountering either a <code>'</code> or a <code>"</code>, the template will recheck the previous character. If it was a space or a newline, or if the <code>'</code> or <code>"</code> is the first character of the argument, a left quotation mark/apostrophe will be used. If the previous character was anything else, a right quotation mark/apostrophe will be used. If you desire the other mark, use curly quotation marks (<code>“</code> and <code>”</code>) or single quotes/apostrophes(<code>‘</code> and <code>’</code>) to explicitly request the one you want.
+
+==Technical notes==
+*While this template can theoretically take an unlimited amount of text, in practice the amount of text that can be translated on a single page is limited by the [[wikipedia:Wikipedia:Template_limits#Post-expand_include_size|post-expand include size]] limit of 2 megabytes. Ten paragraphs of [[wikipedia:lorem ipsum|lorem ipsum]] is enough to eat up half of this limit, so you can't use this to translate an entire page, unless it's a really small page. Also note that this limit is per page, not per template invocation; all invocations of the template on one page count toward the same limit (including invocations within other pages transcluded on the page, which in fact count double).
+*Also be aware that each single character of Aurebesh produced by this template adds about 1.4 kilobytes to the raw HTML of the rendered page, and this can add up fast (700 characters is just shy of one megabyte), slowing down page loading significantly. So use this template sparingly.
+
+==See also==
+*[[Module:Aurebesh]] (main Lua module for this template)
+*[[Module:Aurebesh/data]] (data for the Lua script, split out into a separate module for efficiency)
+*[[Template:Aur]] (old, deprecated version for regular characters)
+*[[Template:AurB]] (old, deprecated version for bold characters)
+
+[[Category:Aurebesh templates|{{PAGENAME}}]]
+</noinclude>

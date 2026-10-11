@@ -1,0 +1,27 @@
+==Usage instructions==
+<code><nowiki>{{HBCite|issue=|date=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+The Homing Beacon backup links directory can be found [https://web.archive.org/web/20050816191212/http://www.starwars.com/site/homingbeacon/ here.]
+
+===Required parameters===
+*{{Para|issue}} Enter the Homing Beacon issue number. This can be found in last part of the URL as highlighted below: <code><nowiki>http://www.starwars.com/site/homingbeacon/</nowiki><mark><u>67</u></mark>.html</code> which would be <code>67</code> in this instance. This can be entered as <code>{{Para|issue}}67</code> or just <code>67</code>.
+*For '''archive''' options, see [[#backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{HBCite|67|date=2002-08-22|archivedate=20050305030907}}</nowiki></code>
+
+Results in:
+
+{{HBCite|67|date=2002-08-22|archivedate=20050305030907}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

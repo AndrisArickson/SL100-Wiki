@@ -1,0 +1,105 @@
+This template is to be used on citation templates to simplify coding archival links. This passes the appropriate data to [[Module:ArchiveAccess]], which builds the appropriate archival link.
+
+When using an [[:Category:Internet citation templates|Internet citation template]] supported by its own [[:Category:Internet citation template archives|ArchiveAccess subpage]]:
+*If (''backup link'') is displayed in italics, it means the URL has no archivedate in the ArchiveAccess, and that the [[:Category:Internet citation template archives|archive]] for this template needs to be updated.
+*If ('''backup link''') is displayed in bold, it means that the manual archivedate in the [[:Category:Internet citation template archives|archive]] is the same as the cached one, and can safely be removed from this instance of the citation template.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<pre><nowiki>{{ArchiveAccess</nowiki>
+    |template_name=
+    |full_url=
+    |target=
+    |archiveurl=
+    |archivedate=
+    |archivefile=
+    |nobackup=
+    |nolive=
+    |use_lua_subpage=
+    |no_archive=
+    |par=
+    |text=
+    |space=
+    |social_media_citation=
+    |nobackup_text=
+    |nolive_text=
+    |font_size=
+    |optional=
+<nowiki>}}</nowiki>
+</pre>
+
+===Required parameters===
+*{{Para|template_name}} Name of the template this is being used on, minus the namespace or <code><nowiki>Template:</nowiki></code> prefix.
+*{{Para|target}} Partial URL of the source to be used, such as <code><nowiki>{{{url|}}}</nowiki></code>, <code><nowiki>{{{link|}}}</nowiki></code> or <code><nowiki>{{{altlink|}}}</nowiki></code> depending on what the citation template uses. If the template has access to its own archive repository, this value will be used to lookup the relevant Wayback archive timestamp.
+*{{Para|full_url}} The full URL of the source, which may require prepending the domain (<code><nowiki>https://www.starwars.com/</nowiki></code>) with the appropriate citation's <code><nowiki>{{{url|}}}</nowiki></code>, <code><nowiki>{{{link|}}}</nowiki></code> or <code><nowiki>{{{altlink|}}}</nowiki></code> parameter. This is used to create the Wayback archive link alongside the archivedate.
+*{{Para|archivedate}} The archivedate for Wayback. Most templates use <code><nowiki>{{{archivedate|}}}</nowiki></code>.
+*{{Para|archiveurl}} Most templates use <code><nowiki>{{{archiveurl|}}}</nowiki></code>.
+*{{Para|nobackup}} Most templates use <code><nowiki>{{{nobackup|}}}</nowiki></code>.
+*{{Para|archivefile}} Some social media sites don't work well with archival websites like Wayback, so screenshots are uploaded to Wookieepedia and used instead. Templates should use <code><nowiki>{{{archivefile|}}}</nowiki></code>.
+*{{Para|par}} Use <code><nowiki>|par=1</nowiki></code>, to wrap parenthesis around the backup link text.
+
+===Optional parameters===
+*{{Para|nolive}} Most templates use <code><nowiki>{{{nolive|}}}</nowiki></code>.
+*{{Para|use_lua_subpage}} For templates that have their own Lua-based [[Module:ArchiveAccess]] [[:Category:Internet citation template archives|archive]] subpage (this is the central archive reposistory for that template), use <code><nowiki>|use_lua_subpage=1</nowiki></code>. If the template instead has a wikitext-based subpage (Template:<template>/Archive), then leave blank or remove entirely.
+*{{Para|no_archive}} For templates that have their own [[:Category:Internet citation template archives|archive]] subpage (this is the central archive reposistory for that template), leave blank or remove. Otherwise, use <code><nowiki>|no_archive=1</nowiki></code>.
+*{{Para|text}} To pipelink the backup link text to something else. Default is "backup link."
+*{{Para|space}} If something other than a space is required to separate the archival link.
+*{{Para|social_media_citation}} Passes this value to "citation_type", which determines which maintenance category is used when the citation template is used without the proper archival links. Default is "Pages" when left blank, which will result in [[:Category:Pages with missing permanent archival links]], otherwise [[:Category:Social media citations with missing permanent archival links]] when <code><nowiki>|social_media_citation=1</nowiki></code> is used.
+*{{Para|nobackup_text}} To customize the text displayed when <code><nowiki>|nobackup=1</nowiki></code> is used.
+*{{Para|nolive_text}} To customize the text displayed when <code><nowiki>|nolive=1</nowiki></code> is used.
+*{{Para|font_size}} Default is <code><nowiki>small</nowiki></code>. To increase the font size to match the surrounding text, use <code><nowiki>|font_size=</nowiki></code>.
+*{{Para|optional}} If an archive link is optional, for example, when used in an external links section of a page, use <code><nowiki>|optional=1</nowiki></code>. When used in conjunction with missing archival links, this hides the display of the "(<span style="color:blue;">backup link</span> <span style="color:red;"><b>not verified!</b></span>)" portion of text next to the target citation template and also prevents tracking categories being added to the page too.
+
+==Example(s)==
+===Standard citation archive syntax using central archive===
+<pre><nowiki>{{ArchiveAccess</nowiki>
+    |template_name=HasbroCite
+    |full_url={{#if:{{{link|}}}|https://hasbropulse.com/{{{link}}}|{{{altlink|}}}}}
+    |target={{{link|{{{altlink|}}}}}}
+    |archiveurl={{{archiveurl|}}}
+    |nobackup={{{nobackup|}}}
+    |nolive={{{nolive|}}}
+    |use_lua_subpage=1
+    |par=1
+<nowiki>}}</nowiki>
+</pre>
+
+===Social media citation archive syntax without central archive===
+<pre><nowiki>{{ArchiveAccess</nowiki>
+    |template_name=Instagram
+    |full_url=https://instagram.com/{{{2|{{{url|}}}}}}
+    |target={{{url|}}}
+    |archiveurl={{{archiveurl|}}}
+    |archivedate={{{archivedate|}}}
+    |archivefile={{{archivefile|}}}
+    |nobackup={{{nobackup|}}}
+    |nolive={{{nolive|}}}
+    |no_archive=1
+    |par=1
+    |social_media_citation=1
+<nowiki>}}</nowiki>
+</pre>
+
+===Syntax with custom nobackup text, larger font size and no parenthesis===
+<pre><nowiki>{{ArchiveAccess</nowiki>
+    |template_name=Twitch
+    |full_url=http://{{{domain|www}}}.twitch.tv/videos/{{{7|{{{video}}}}}}
+    |target={{{7|{{{video}}}}}}
+    |text={{{4|{{{text}}}}}}
+    |archiveurl={{{archiveurl|}}}
+    |archivedate={{{archivedate|}}}
+    |archivefile={{{archivefile|}}}
+    |nobackup={{{nobackup|}}}
+    |nobackup_text=[Archive link not available]
+    |nolive={{{nolive|}}}
+    |no_archive=1
+    |font_size=
+    |social_media_citation=1
+<nowiki>}}</nowiki>
+</pre>
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Archive templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

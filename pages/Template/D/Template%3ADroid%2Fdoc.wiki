@@ -1,0 +1,90 @@
+===Colors===
+The <code>type</code> parameter determines the color of the infobox. The options are:
+*Athlete
+*Bounty hunter
+*Bureaucrat
+*Chiss Ascendancy
+*CIS
+*Confederation
+*Corporate
+*Criminal
+*Dark Jedi
+*Dathomiri
+*Eternal Empire
+*First Order
+*Galactic Empire
+*Galactic Republic
+*GFFA
+*Hutt Cartel
+*Infinite Empire
+*Je'daii
+*Jedi
+*Mandalorian
+*Musician
+*New Republic
+*Nihil
+*Pet
+*Rebel
+*Resistance
+*Sith
+*Sith Empire
+*Yuuzhan Vong
+
+===Usage===
+====Required parameters====
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>{{Top|}}
+{{Droid
+|type=
+|image=
+|name=
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=
+|class=
+|cost=
+|length=
+|width=
+|height=
+|mass=
+|gender=
+|pronouns=
+|sensor=
+|plating=
+|armament=
+|equipment=
+|affiliation=
+}}</nowiki></pre>
+
+====Data Fields====
+*type - See below.
+*image - Put a clear image of the droid, unobscured by any items.
+*name - Put the number designation of the droid, followed by its nickname in quotes after <nowiki><br /></nowiki> if the nickname is not a phonetic pronunciation of the designation (see [[Forum:CT:Alternate names in the infobox|Alternate names in the infobox]]), e.g. [[R5-D4]] has the nickname "Red", but [[L0-LA59]] does not have "Lola" in the infobox.
+*homeworld - Put the droid's homeworld. 
+*birth - Put the date the droid was created.
+*death - Put the date the droid was destroyed.
+*creator - Put the name of the person who built the droid, e.g. [[Anakin Skywalker]] was the creator of [[C-3PO]].
+*manufacturer - Put the name of the company that manufactured the droid, e.g. [[Industrial Automaton/Legends|Industrial Automaton]].
+*line - Put the droid series of the droid, e.g. [[B-series battle droid]].
+*model - Put the model series of the droid, e.g. [[B1-Series battle droid]].
+*class - Put the class of droid - not the degree (e.g. fourth) but the function of the droid's model, e.g. [[Utility droid]].
+*cost - Put the cost of the droid in credits.
+*length - Put the length of the droid in whatever units the source(s) use.
+*width - Put the width of the droid in whatever units the source(s) use.
+*height - Put the height of the droid in whatever units the source(s) use.
+*mass - Put the mass of the droid in whatever units the source(s) use.
+*gender - Put the droid's programming gender, if any, e.g. [[Gender|Feminine programming]]
+*pronouns - Put the pronouns used by the droid, e.g. He/him, It/its
+*sensor - Put the colors of the droid's sensors.
+*plating - Put the colors of the droid's plating.
+*armament - Put the weaponry built into the droid.
+*equipment - Put the equipment built into the droid.
+*affiliation - Put the organizations the droid is affiliated with.
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Character infobox templates|{{PAGENAME}}]]</includeonly><noinclude>{{Top|sprot|mprot}}[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

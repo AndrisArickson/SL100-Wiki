@@ -1,0 +1,14 @@
+{{MediumMB
+|border=#77BB7B
+|bg=#F7FFF7
+|image=[[File:Copyright-green.svg|50px]]
+|message=This image is [[wikipedia:Copyright|'''copyrighted''']]. The '''copyright holder''' has released it under a [[wikipedia:Free license|'''free license''']] compatible with the [[wikipedia:GNU Free Documentation License|'''GNU Free Documentation License''']] published by the [[wikipedia:Free Sofware Foundation|Free Software Foundation]], such as the '''[https://creativecommons.org/licenses/by/4.0/legalcode.en CC-BY] [[wikipedia:Creative Commons license|license]]''' established by [[wikipedia:Creative Commons|Creative Commons]]. This allows free redistribution of the image  with [[Wookieepedia]] content. If you are the uploader, please specify what '''license''' the image is covered under. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:Free use images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+<pre>{{FreeLicense}}</pre>
+
+==Categorization==
+*[[:Category:Free use images]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

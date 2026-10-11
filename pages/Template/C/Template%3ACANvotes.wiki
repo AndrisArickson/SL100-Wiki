@@ -1,0 +1,6 @@
+<includeonly>{{#invoke:Votes|main
+|title={{{1|}}}
+|archive={{{2|}}}
+|type=CAN
+|count=EC
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

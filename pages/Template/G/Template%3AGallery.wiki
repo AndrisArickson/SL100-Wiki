@@ -1,0 +1,26 @@
+<noinclude>{{Top|fprot}}</noinclude><includeonly>{{#vardefine:display|color:gray; font-style:italic;}}<div class="hidable start-hidden" style="text-align:center">
+{| style="width:50%"
+'''{{{source|By type}}}'''&#32;<span class="hidable-button"></span>
+{| id="galleryTOC" style="padding:5px; border:1px solid #AAAAAA; -moz-border-radius:6px; margin:0 auto 4px auto"
+| style="padding:0 1em;{{#if:{{{storyboards|}}}||{{#var:display}}}}" | {{#if:{{{storyboards|}}}|[[#gallery_storyboards|Storyboards]]|Storyboards}}
+| style="padding:0 1em;{{#if:{{{concept|}}}||{{#var:display}}}}" | {{#if:{{{concept|}}}|[[#gallery_concept|Concept art]]|Concept art}}
+| style="padding:0 1em;{{#if:{{{digital|}}}||{{#var:display}}}}" | {{#if:{{{digital|}}}|[[#gallery_digital|Digital renderings]]|Digital renderings}}
+| style="padding:0 1em;{{#if:{{{in-progress|}}}||{{#var:display}}}}" | {{#if:{{{in-progress|}}}|[[#gallery_in-progress|In-progress artwork]]|In-progress artwork}}
+|}
+|}
+<div class="hidable-content" style="clear:both; text-align:left">
+{| id="gallerySection" style="width:100%" |
+{{#if:{{{storyboards|}}}|
+<p name="gallery_storyboards" id="gallery_storyboards" style="font-weight:bold; font-size:larger">Storyboards</p>
+{{{storyboards}}}
+|}}{{#if:{{{concept|}}}|
+<p name="gallery_concept" id="gallery_concept" style="font-weight:bold; font-size:larger">Concept art</p>
+{{{concept}}}
+|}}{{#if:{{{digital|}}}|
+<p name="gallery_digital" id="gallery_digital" style="font-weight:bold; font-size:larger">Digital renderings</p>
+{{{digital}}}
+|}}{{#if:{{{in-progress|}}}|
+<p name="gallery_digital" id="gallery_digital" style="font-weight:bold; font-size:larger">In-progress artwork</p>
+{{{in-progress}}}
+|}}
+|}</div></div></includeonly><noinclude>{{Top}}{{Documentation}}{{DEFAULTSORT: }}</noinclude>[[Category:Articles with concept art galleries]]

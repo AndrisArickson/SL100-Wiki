@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=Acolyte
+|mode=TV
+|image=[[File:The_Acolyte_logo_Celebration.png|text-top|x16px|link=Star Wars: The Acolyte]]
+|series=Star Wars: The Acolyte
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

@@ -1,0 +1,6 @@
+During the events of ''[[Bounty Hunt]]'', the [[DS-1 Orbital Battle Station|Death Star's]] [[Mk I Superlaser|superlaser]] is fully operational. ''[[Star Wars: Timelines]]'' dates that the events of ''[[Rogue One: A Star Wars Story]]'', including the completion of the [[superweapon]], to [[1 BBY]]. Since ''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates the immediately preceding of destruction of the [[Death Star]] to 1 [['ABY-BBY' dating system|BBY]], the events of ''Bounty Hunt''{{#if: {{{1|}}}|, including {{{1}}},|}} must take place in 1 BBY.<noinclude>
+
+==Usage==
+<nowiki>{{BountyHuntDate|event (optional)}}</nowiki>
+
+[[Category:Canon dating citation templates]]</noinclude>

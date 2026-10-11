@@ -1,0 +1,28 @@
+This template is to be used for citing individual videos on the official [[The Walt Disney Company|Disney]] [https://www.youtube.com/c/Disney YouTube channel].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{DisneyYouTube|video=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Date the Youtube video was published online. In the format <code>YYYY-MM-DD</code>.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{DisneyYouTube|url=ZjxLBUhEIHI|text=Star Wars Forces of Destiny &#124; Porg Problems &#124; Disney|date=2018-03-19|archivedate=20200405124812}}</nowiki></code>
+
+Results in:
+
+{{DisneyYouTube|url=ZjxLBUhEIHI|text=Star Wars Forces of Destiny &#124; Porg Problems &#124; Disney|date=2018-03-19|archivedate=20200405124812}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

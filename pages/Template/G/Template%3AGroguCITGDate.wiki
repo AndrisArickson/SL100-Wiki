@@ -1,0 +1,45 @@
+{{#switch:{{{1|}}}
+  |1
+  |2
+  |3
+  |4
+  |5
+  |6
+  |12
+  |#default=''[[Grogu Cutest In The Galaxy]]'' takes place during [[Din Grogu|Grogu]]'s time with [[Din Djarin]], which began in [[9 ABY]] per ''[[Star Wars: Timelines]]''.
+  |7={{GroguCutest|7}} features [[IG-12]], placing the episode during the events of [[The Mandalorian Season Three|''The Mandalorian'' Season Three]], which takes place in [[9 ABY]] per the reasoning [[Template:MandoDate|here]].
+  |8
+  |11
+  |14={{GroguCutest|{{#switch: {{{1}}}|8=8|11=11|14=14}}}} features [[Din Grogu|Grogu]] in the ''[[Razor Crest]]'' placing the episode during the events of [[The Mandalorian Season One|''The Mandalorian'' Season One]] or [[The Mandalorian Season Two|''The Mandalorian'' Season Two]], which takes place in [[9 ABY]] per ''[[Star Wars: Timelines]]''.
+  |9
+  |10={{GroguCutest|{{#switch: {{{1}}}|9=9|10=10}}}} takes place during [[Din Grogu|Grogu]]'s time with [[Luke Skywalker]], which places it in [[9 ABY]] per ''[[Star Wars: Timelines]]''.
+  |13={{GroguCutest|13}} adapts "[[Chapter 12: The Siege]]," which takes place in [[9 ABY]] per ''[[Star Wars: Timelines]]''.
+  |15={{GroguCutest|15}} adapts "[[Chapter 1: The Mandalorian]]," which takes place in [[9 ABY]] per ''[[Star Wars: Timelines]]''.}}<noinclude>
+
+==Usage==
+<code><nowiki>{{GroguCITGDate|EPISODE NUMBER}}</nowiki></code>
+
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|''[[Grogu Cutest In The Galaxy]]''||<nowiki>{{GroguCITGDate}}</nowiki>||During or after [[9 ABY]]||{{GroguCITGDate}}
+|-
+|[[Episode 1 (Grogu Cutest In The Galaxy)|1]]&ndash;[[Episode 6 (Grogu Cutest In The Galaxy)|6]]||<nowiki>{{GroguCITGDate|1}}</nowiki>||During or after [[9 ABY]]||{{GroguCITGDate|1}}
+|-
+|"[[Episode 7 (Grogu Cutest In The Galaxy)|Episode 7]]"||<nowiki>{{GroguCITGDate|7}}</nowiki>||[[9 ABY]]||{{GroguCITGDate|7}}
+|-
+|"[[Episode 8 (Grogu Cutest In The Galaxy)|Episode 8]]"||<nowiki>{{GroguCITGDate|8}}</nowiki>||[[9 ABY]]||{{GroguCITGDate|8}}
+|-
+|"[[Episode 9 (Grogu Cutest In The Galaxy)|Episode 9]]"||<nowiki>{{GroguCITGDate|9}}</nowiki>||[[9 ABY]]||{{GroguCITGDate|9}}
+|-
+|"[[Episode 10 (Grogu Cutest In The Galaxy)|Episode 10]]"||<nowiki>{{GroguCITGDate|10}}</nowiki>||[[9 ABY]]||{{GroguCITGDate|10}}
+|-
+|"[[Episode 11 (Grogu Cutest In The Galaxy)|Episode 11]]"||<nowiki>{{GroguCITGDate|11}}</nowiki>||[[9 ABY]]||{{GroguCITGDate|11}}
+|-
+|"[[Episode 12 (Grogu Cutest In The Galaxy)|Episode 12]]"||<nowiki>{{GroguCITGDate|12}}</nowiki>||During or after [[9 ABY]]||{{GroguCITGDate|12}}
+|-
+|"[[Episode 13 (Grogu Cutest In The Galaxy)|Episode 13]]"||<nowiki>{{GroguCITGDate|13}}</nowiki>||[[9 ABY]]||{{GroguCITGDate|13}}
+|}
+
+[[Category:Canon television dating citation templates]]
+</noinclude>

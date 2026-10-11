@@ -1,0 +1,20 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Operation Strike Fear]]<br />([[1 BBY/Legends|1 BBY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Battle in the Dellalt system|First Dellalt]] · [[Mission in the Dellalt system|Second Dellalt]] · [[Battle of Brigia (Galactic Civil War)|First Brigia]]<br />[[Skirmish near Brigia|Second Brigia]] · [[Battle of Orion IV|Orion IV]] · [[Raid on the Juno convoy|''Juno'']] · [[Raid in the Rudrig system|Rudrig system]]<br />[[Mission to recover stolen X-wings|Stolen X-wings]] · [[Rescue of Sullustan Tech Staff|First Sullust]] · [[Diplomatic Summit at Sullust|Second Sullust]]<br />[[Rescue of Sian Tevv|Third Sullust]] · [[Capture of Cygnus Staff|Ralltiir]] · [[Capture of the Gafra|''Gafra'']] · [[Destruction of the Invincible|''Invincible'']]'''
+</td></tr></onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Strike Fear]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

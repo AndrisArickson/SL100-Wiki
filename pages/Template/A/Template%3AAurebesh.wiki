@@ -1,0 +1,115 @@
+<div id="Aurebesh" class="info-box hidable" style="padding: 0px; line-height:22px; {{#if:{{{width|}}}|width:{{{width}}};|}}">
+{| class="info-boxtable hidable-content" cellspacing="0" cellpadding="0" style="border-width: 0px"
+ |-
+| class="info-boximage darkbackground1" colspan="2" style="{{#if:{{{imageBG|}}}|background: #{{{imageBG}}}|background: #FFF}}" | {{{image|}}}
+ |- 
+! class="info-boxheading darkbackground1" colspan="2" style="background: #808080; {{{css|}}}" | {{{{{{2|name}}}}}}
+ {{#if:{{{{{{3}}}|}}}|{{!}}-|{{!}}-
+! class="info-boxsubheading darkbackground1" colspan="2" style="background: #FFF" {{!}} '''<center>The Aurebesh</center>'''}}
+
+{| class="darkbackground1" cellspacing="0" cellpadding="0" style="width:100%"
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="11.11%" |[[File:AurekArial.svg|50x16px|link=Aurek/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:BeshArial.svg|50x16px|link=Besh/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:CreshArial.svg|50x16px|link=Cresh/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:DornArial.svg|50x16px|link=Dorn/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:EskArial.svg|50x16px|link=Esk/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:FornArial.svg|50x16px|link=Forn/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:GrekArial.svg|50x16px|link=Grek/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:HerfArial.svg|50x16px|link=Herf/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:IskArial.svg|50x16px|link=Isk/Legends|class=darkmodeinvert]]
+|-
+| Aurek
+| Besh
+| Cresh
+| Dorn
+| Esk
+| Forn
+| Grek
+| Herf
+| Isk
+|}
+|-
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="12.5%" |[[File:JenthArial.svg|50x16px|link=Jenth/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:KrillArial.svg|50x16px|link=Krill/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:LethArial.svg|50x16px|link=Leth/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:MernArial.svg|50x16px|link=Mern/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:NernArial.svg|50x16px|link=Nern/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:OskArial.svg|50x16px|link=Osk/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:PethArial.svg|50x16px|link=Peth/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:QekArial.svg|50x16px|link=Qek/Legends|class=darkmodeinvert]]
+|-
+| Jenth
+| Krill
+| Leth
+| Mern
+| Nern
+| Osk
+| Peth
+| Qek
+|}
+|-
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="11.11%" |[[File:ReshArial.svg|50x16px|link=Resh/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:SenthArial.svg|50x16px|link=Senth/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:TrillArial.svg|50x16px|link=Trill/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:UskArial.svg|50x16px|link=Usk/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:VevArial.svg|50x16px|link=Vev/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:WeskArial.svg|50x16px|link=Wesk/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:XeshArial.svg|50x16px|link=Xesh/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:YirtArial.svg|50x16px|link=Yirt/Legends|class=darkmodeinvert]]
+| width="11.11%" |[[File:ZerekArial.svg|50x16px|link=Zerek/Legends|class=darkmodeinvert]]
+|-
+| Resh
+| Senth
+| Trill
+| Usk
+| Vev
+| Wesk
+| Xesh
+| Yirt
+| Zerek
+|}
+|-
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="12.5%" |[[File:CherekArial.svg|50x16px|link=Cherek/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:EnthArial.svg|50x16px|link=Enth/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:OnithArial.svg|50x16px|link=Onith/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:KrenthArial.svg|50x16px|link=Krenth/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:NenArial.svg|50x16px|link=Nen/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:OrenthArial.svg|50x16px|link=Orenth/Legends|class=darkmodeinvert]]
+| width="12.5%" |[[File:ShenArial.svg|50x16px|link=Shen (letter)|class=darkmodeinvert]]
+| width="12.5%" |[[File:TheshArial.svg|50x16px|link=Thesh/Legends|class=darkmodeinvert]]
+|-
+| Cherek
+| Enth
+| Onith
+| Krenth
+| Nen
+| Orenth
+| Shen
+| Thesh
+|}
+|}
+
+|}
+<div class="info-boxfooter plainlinks darkbackground1" style="text-align: center; border-radius: 0 0 10px 10px; background: #808080"><span class="hidable-button"></span>[[{{{srclink|Template:Aurebesh}}}|[Source]]]</div></div>
+<noinclude>__NOTOC__
+{{clear}}
+===Field list=== 
+*Infobox image
+*Letter name
+
+===Usage===
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>{{Aurebesh
+|image=
+|name=
+}}</nowiki></pre>
+[[Category:Aurebesh templates]]
+</noinclude>

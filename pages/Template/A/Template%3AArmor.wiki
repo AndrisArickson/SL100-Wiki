@@ -1,0 +1,122 @@
+<infobox theme="Armor">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Production information</header>	
+        <data source="manufacturer"><label>Manufacturer</label></data>
+        <data source="model"><label>Model</label></data>	
+        <data source="type"><label>Type</label></data>
+        <data source="culture"><label>Culture</label></data>	
+        <data source="creators"><label>Creators</label></data>
+        <data source="created"><label>Date created</label></data>	
+        <data source="destroyed"><label>Date destroyed</label></data>	
+        <data source="discovered"><label>Date discovered</label></data>
+        <data source="owners"><label>Owners</label></data>	
+        <data source="locations"><label>Locations</label></data>
+        <data source="cost"><label>Cost</label></data>
+        <data source="value"><label>Value</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Physical and technical specifications</header>
+        <data source="structure"><label>Structure</label></data>			
+        <data source="size"><label>Size</label></data>
+        <data source="color"><label>Color</label></data>		
+        <data source="material"><label>Material(s)</label></data>	
+        <data source="length"><label>Length</label></data>	
+        <data source="width"><label>Width</label></data>
+        <data source="height"><label>Height</label></data>
+        <data source="weight"><label>Weight</label></data>	
+        <data source="protection"><label>Protection type</label></data>	 
+        <data source="capacity"><label>Capacity</label></data>	
+        <data source="range"><label>Range</label></data>	       	
+        <data source="inscription"><label>Inscriptions</label></data>	
+        <data source="markings"><label>Other markings</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Usage and history</header>
+        <data source="purpose"><label>Purpose</label></data>
+        <data source="heritage"><label>Heritage</label></data>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Armor|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|manufacturer|model|type|culture|creators|created|destroyed|discovered|owners|locations|cost|value|structure|size|color|material|length|width|height|weight|protection|capacity|range|inscription|markings|purpose|heritage|affiliation|ignore=name}}{{#if:{{{owners|}}}|[[Category:Pages using owners with Template:Armor and Device]]}}<noinclude>
+
+{{Clear}}
+{{Top|sprot}}
+This is an infobox for technical and usage information on various classes of physical personal protective gear. The fields are relevant to armor, protective suits, and protective clothing. To add new fields to this infobox or change the colors, follow the instructions on {{Tl|Infocell}}.
+
+==Instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields (put the relevant information after the "=" signs). Omitted or blank fields will not be shown on the article page.
+<pre class="wrap"><nowiki>{{Top|}}
+{{Armor
+|image=
+|name=
+|manufacturer=
+|model=
+|type=
+|culture=
+|creators=
+|created=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|color=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+</nowiki></pre>
+
+==Infobox fields==
+*<code>name</code> &ndash; Simply list the name of the protective gear. Do not include any parenthetical disambiguation.
+*<code>image</code> &ndash; Put a link to the main image which represents the armor. 
+*<code>manufacturer</code> &ndash; Put the manufacturer name here
+*<code>model</code> &ndash; List the full official armor class name
+*<code>type</code> &ndash; The type of protective gear (e.g. "Full body armor")
+*<code>culture</code> &ndash; List the cultures that used the armor or cultures in which it is otherwise prominent
+*<code>creators</code> &ndash; List the creators of the armor (in the case of specific individuals)
+*<code>created</code> &ndash; The date the armor was created
+*<code>destroyed</code> &ndash; The date the armor was destroyed
+*<code>discovered</code> &ndash; The date the armor was discovered, if previously lost or hidden
+*<code>owners</code> &ndash; List owners of the armor
+*<code>locations</code> &ndash; List locations where the armor was known to be used
+*<code>cost</code> &ndash; List the cost of the armor (and the currency type if known)
+*<code>value</code> &ndash; List the real worth of the armor
+*<code>structure</code> &ndash; List structural configuration features of the armor
+*<code>size</code> &ndash; Size of the armor
+*<code>color</code> &ndash; Color of the armor
+*<code>material</code> &ndash; List materials from which the armor is made
+*<code>length</code> &ndash; Length of the armor
+*<code>width</code> &ndash; Width of the armor
+*<code>height</code> &ndash; Height of the armor
+*<code>weight</code> &ndash; Weight of the armor
+*<code>protection</code> &ndash; List the types of attacks that the armor provided protection against
+*<code>capacity</code> &ndash; How much the armor could carry
+*<code>range</code> &ndash; How far the protection extended
+*<code>inscription</code> &ndash; List any inscriptions on the armor
+*<code>markings</code> &ndash; List any distinct markings on the armor
+*<code>purpose</code> &ndash; List any special purposes of the armor
+*<code>heritage</code> &ndash; The heritage of the armor
+*<code>affiliation</code> &ndash; List the governments and major organizations that used the armor here
+
+[[category:Object infobox templates]]
+</noinclude>

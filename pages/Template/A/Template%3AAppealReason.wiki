@@ -1,0 +1,8 @@
+[[File:Information_icon.svg|30px]] '''You have been [[Wookieepedia:Blocking policy|unblocked]]''' following a successful appeal: {{{1}}}. {{{2|}}}<!-- Template:AppealReason --><noinclude>{{Top|fprot}}
+
+==Usage==
+<code><nowiki>{{subst:AppealReason|appeal on [[W:c:community:Message Wall:ADMIN_NAME]]: user understands the reason for the initial block and has agreed to abide by [[WP:CIVIL]] moving forward|~~~~}}</nowiki></code>
+
+This template can be used as a talk page message for to document the reason for users being unblocked, particularly if the [[Wookieepedia:Blocking policy|block appeal]] process had taken place off-site.
+
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,6 @@
+{{Ooumb
+|id=ConsensusTalkheader
+|bg=#D8E9FC
+|image=[[File:Wiki-shrinkable.png|45px]]
+|caption='''This media article has been subjected to a [[Wookieepedia:Consensus|consensus]].'''
+|message='''{{{1|{{PAGENAME}}}}}''' and the content from it have been the subject of Wookieedia user voting, and community consensus was reached as to how Wookieepedia should handle {{{2|{{{issue}}}}}}. You can find the relevant discussion(s) {{{3|{{{discussion}}}}}}. Editors are expected to follow the consensus decision(s), however if they feel the current consensus deserves further discussion, they can present their arguments on this talk page or in a [[Forum:Senate Hall|Senate Hall]] thread.}}<noinclude>{{Documentation}}</noinclude>

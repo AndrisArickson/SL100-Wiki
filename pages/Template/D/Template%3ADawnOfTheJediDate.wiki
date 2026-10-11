@@ -1,0 +1,10 @@
+{{WebCite|url=https://www.cbr.com/nycc-exclusive-ostrander-and-duursema-unveil-star-wars-dawn-of-the-jedi|text=NYCC Exclusive: Ostrander and Duursema Unveil "Star Wars: Dawn of the Jedi"|date=2011-10-13|format=Interview|archivedate=20200817183352|quote=The series really gets going with events just prior to the Force Wars, which began in 25,793 BBY.}} dates the events of {{#ifeq:{{PAGENAME}}|Star Wars: Dawn of the Jedi|''Star Wars: Dawn of the Jedi''|''[[Star Wars: Dawn of the Jedi]]''}} to [[25,793 BBY|25,793 BBY]].{{#if:{{{FW|}}}|&#32;[[Dawn of the Jedi: Force War 1|''Dawn of the Jedi: Force War'' 1]] states that it takes place a [[Standard year|year]] after the war began, thus the events of [[Star Wars: Dawn of the Jedi: Force War|''Dawn of the Jedi: Force War'']] must take place around [[25,792 BBY|25,792 BBY]]|}}<noinclude>
+
+==Usage==
+<code><nowiki>{{DawnOfTheJediDate}}</nowiki></code>
+
+===Dawn of the Jedi: Force War===
+:The events of [[Star Wars: Dawn of the Jedi: Force War|''Dawn of the Jedi: Force War'']] occur after a year time skip, so this should be used instead:
+<code><nowiki>{{DawnOfTheJediDate|FW=1}}</nowiki></code>
+
+[[Category:Legends dating citation templates]]</noinclude>

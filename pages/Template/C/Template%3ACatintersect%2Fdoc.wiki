@@ -1,0 +1,27 @@
+This template can be used to create a category intersection link for two different categories.
+
+==Usage==
+Copy the template code below and replace <code>''category1''</code> and <code>''category2''</code> with the desired categories.
+
+<code><nowiki>{{Catintersect|</nowiki>''category1''|''category2''<nowiki>}}</nowiki></code>
+
+===Pre-requisite(s)===
+Category intersection feature needs to be enabled through [[Special:Preferences|Preferences]] → [[Special:Preferences#mw-prefsection-gadgets|Gadgets]] → ''Enable the category intersection tool''.
+
+==Example(s)==
+<code><nowiki>{{Catintersect|Humans|Canon articles}}</nowiki></code>
+
+Results in:
+
+{{Catintersect|Humans|Canon articles}}
+<hr />
+<code><nowiki>{{Catintersect|Images of Anakin Skywalker|Images of Padmé Amidala}}</nowiki></code>
+
+Results in:
+
+{{Catintersect|Images of Anakin Skywalker|Images of Padmé Amidala}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internal link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

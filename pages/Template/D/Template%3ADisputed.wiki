@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Disputed
+| bg = #FEC
+| image = [[File:Luke whining.jpg|100px]]
+| caption = No! That's not true! That's impossible!
+| message = The factual accuracy of this article or section is disputed.{{#if:{{{1|}}}|<br />The dispute is about: {{{1}}}.|}}
+| comment = Please see this article's [[{{TALKPAGENAMEE}}|talk page]] to discuss possible changes.
+| reason = The following issues are contested
+| category = Category:Articles with accuracy disputes
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with accuracy disputes|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{Disputed|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles with accuracy disputes]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

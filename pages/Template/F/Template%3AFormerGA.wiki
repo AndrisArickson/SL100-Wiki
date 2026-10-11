@@ -1,0 +1,11 @@
+{{Ooumb
+| id = FormerGA
+| bg = #f9f9f9
+| image = [[File:GA-Former.svg|30px]]
+| message = '''{{BASEPAGENAME}}''' is a former [[Wookieepedia:Good articles|Good article]].  Please see '''[[Wookieepedia:AC/{{{1|{{PAGENAME}}}}}|this article's entry]]''' on the [[Wookieepedia:AgriCorps|AgriCorps]] page for the reasons it was removed.
+}}<noinclude>
+==Usage==
+<code><nowiki>{{FormerGA|review page name}}</nowiki></code>
+
+Any subsequent reviews necessitate passing the review page as a parameter in the template. /Legends review pages are also handled by the template.
+[[Category:Status article talk page templates]]</noinclude>

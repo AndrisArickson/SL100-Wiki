@@ -1,0 +1,31 @@
+This template is to be used on pages about subjects that have been represented in [[Bandai]] sets.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{BandaiCite|set=|text=|pack=|link=|url=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*Either one of the following:
+**{{Para|link}} URL of the pack's page on the website [https://shop.bandai.com shop.bandai.com], minus the domain name (<code><nowiki>https://shop.bandai.com/</nowiki></code>).
+**{{Para|url}} Full URL of the pack's page on another website.
+
+===Optional parameters===
+*{{Para|text}} Formatted name of the collection.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{BandaiCite|set=Meisho Movie Realization|pack=Onmitsu Shadowtrooper|link=onmitsu-shadowtrooper-star-wars-bandai-meisho-movie-realization.html|archivedate=20230306082832}}</nowiki></code>
+
+Results in:
+
+{{BandaiCite|set=Meisho Movie Realization|pack=Onmitsu Shadowtrooper|link=onmitsu-shadowtrooper-star-wars-bandai-meisho-movie-realization.html|archivedate=20230306082832}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

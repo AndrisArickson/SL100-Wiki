@@ -1,0 +1,11 @@
+<div id="hideContentSub" style="display: none;"></div><noinclude>
+
+==Usage instructions==
+Including this template in a page triggers a JavaScript function that hides the link from a subpage to its parent page. For example, this would prevent [[Green/Aura]] automatically linking back to [[Green]] at the top of the page. To use the template, add <nowiki>{{HideContentSub}}</nowiki> to the top of the article page.
+
+==Example==
+<pre><nowiki>
+{{HideContentSub}}
+</nowiki></pre>
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

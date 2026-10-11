@@ -1,0 +1,39 @@
+This template is to be used for citing individual stories published within issues of the [[2020]] [[Star Wars Adventures (2020)|''Star Wars Adventures'']] anthology [[Star Wars comic books|comic series]] by [[IDW Publishing]].
+
+==Usage==
+Copy the template code below, paste it into the appropriate place in an article, and fill in the required fields.
+
+<code><nowiki>{{IDWAdventuresCite-2020|issue=|special=|story=|stext=}}</nowiki></code>
+
+===Required parameters===
+*One of the following:
+**'''issue''': Number of the issue being cited.
+**'''issue1''' and '''issue2''': Issue numbers for multi-part stories
+**'''annual''': Year of the annual issue being cited.
+*'''story''': Name of the story being cited.
+
+===Optional parameters===
+*'''stext''': Formatted name of the story being cited.
+
+===Examples===
+<code><nowiki>
+{{IDWAdventuresCite-2020|issue=1|issue2=2|story=The Obstacle Course}}</nowiki></code>
+
+Results in:
+
+{{IDWAdventuresCite-2020|issue=1|issue2=2|story=The Obstacle Course}}
+
+<hr />
+<code><nowiki>{{IDWAdventuresCite-2020|annual=2020|story=Rabbit Hunt}}</nowiki></code>
+
+Results in:
+
+{{IDWAdventuresCite-2020|annual=2020|story=Rabbit Hunt}}
+
+==See also==
+For pages relating to the [[2017]] ''[[Star Wars Adventures (2017)|Star Wars Adventures]]'' series, use {{Tl|IDWAdventuresCite-2017}}.
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Comic citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

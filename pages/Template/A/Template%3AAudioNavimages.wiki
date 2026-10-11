@@ -1,0 +1,12 @@
+|-
+! style="background:#323E3F; color:white; padding-bottom:0;" | ''Explore this media's [[:Category:Images from {{{1|}}}|images]]''.
+<noinclude>
+This is the <nowiki>{{AudioNavimages}}</nowiki> template, which is used in conjunction with:
+*{{Tl|AudioNavend}}
+*{{Tl|AudioNavstart}}
+*{{Tl|AudioNavitalics}}
+*{{Tl|AudioNavplain}}
+*{{Tl|AudioNavquotes}}
+*{{Tl|AudioNavrow}}
+
+These templates can be used to create audio category navboxes for media groups, such as a television show or multimedia project, which can be found [[:Category:Audio category navigation templates by media|here]]. See [[:Template:StarWarsResistanceAudioFiles|this template]] for an example.[[Category:Audio category navigation templates]]</noinclude>

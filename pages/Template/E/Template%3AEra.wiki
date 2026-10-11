@@ -1,0 +1,77 @@
+<infobox layout="tabular" theme="Year">
+	<image source="image" />
+	<title source="name"><default>{{PAGENAME}}</default></title>
+<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<group collapse="open">
+		<header>Chronological information</header>
+		<data source="years"><label>Years</label></data>
+		<data source="jurisdiction"><label>Jurisdiction</label></data>
+		<data source="prev"><label>Preceding</label></data>
+		<data source="next"><label>Subsequent</label></data>
+	</group>
+	<group collapse="open">
+		<header>Approximate dates in other dating systems</header>
+		<data source="TYA">
+			<format>Year {{{TYA}}}<ref name="YearTYA">{{YearMathTYA}}</ref></format>
+		</data>
+		<data source="TC">
+			<format>Year {{{TC}}}<ref name="YearTC">{{YearMathTC}}</ref></format>
+		</data>
+		<data source="BRuu">
+			<format>Year {{{BRuu}}}<ref name="YearRuu">{{YearMathRu}}</ref> before the [[Ruusan Reformations/Legends|Ruusan Reformation]]</format>
+		</data>
+		<data source="ARuu">
+			<format>Year {{{ARuu}}}<ref name="YearRuu">{{YearMathRu}}</ref> after the [[Ruusan Reformations/Legends|Ruusan Reformation]]</format>
+		</data>
+		<data source="GrS">
+			<format>Years {{{GrS|}}}<ref name="YearGrS">{{YearMathGRS}}</ref></format>
+		</data>
+	</group>
+	<group collapse="open">
+	<header>Facts and statistics</header>
+		<data source="conflict"><label>Conflicts</label></data>
+		<data source="events"><label>Important events</label></data>
+	</group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Era|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<noinclude>
+==Example==
+{{Era
+|years=[[20,000 BBY]]&ndash;[[40 ABY/Legends|40 ABY]]
+|jurisdiction=[[Tion Cluster/Legends|Tion Cluster]]
+|TC=33
+|BRuu=2
+|ARuu=366
+|GrS=101
+|conflict=[[Mandalorian Wars]]
+|events=[[Treaty of Coruscant]]
+}}
+The year is automatically included in the template based upon the page name. The other fields are as follows:
+*years: Years (BBY/ABY) that are apart of the era
+*jurisdiction: Jurisdiction in which the era occurred
+*TC: Years based on the Treaty of Coruscant (BTC or ATC must be included)
+*BRuu: Approximate years before the Ruusan Reformation
+*ARuu: Approximate years after the Ruusan Reformation
+*GrS: Approximate years based on the Great ReSynchronization (BrS or GrS must be included)
+*conflict: Ongoing conflicts
+*events: Key events during the era (do '''not''' include every birth, death, or battle)
+
+{{clear}}
+==Using the template==
+<pre><nowiki>
+{{Era
+|image=
+|years=
+|jurisdiction=
+|prev=
+|next=
+|TYA=
+|TC=
+|BRuu=
+|ARuu=
+|GrS=
+|conflict=
+|events=
+}}
+</nowiki></pre>
+
+[[Category:Event infobox templates|{{PAGENAME}}]]</noinclude>

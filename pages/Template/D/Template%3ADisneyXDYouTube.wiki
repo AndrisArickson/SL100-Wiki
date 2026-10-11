@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyXDYouTube
+|archive=YouTube
+|image=[[File:DisneyXDYoutube.png|text-bottom|x18px|link=https://www.youtube.com/{{#if:{{{uk|}}}|@disneyxd|@disneyxduk}}]]
+|site_text=the official {{#if:{{{uk|}}}|[[Disney XD]] UK [https://www.youtube.com/@disneyxduk YouTube channel]|[[Disney XD]] [https://www.youtube.com/@disneyxd YouTube channel]}}
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

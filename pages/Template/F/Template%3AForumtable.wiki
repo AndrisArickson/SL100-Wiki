@@ -1,0 +1,21 @@
+<table class="forumlist darkbackground1" cellpadding="0" cellspacing="0" style="border-radius: 10px 10px 0 0; border-collapse: collapse; overflow: hidden">
+	<tr class="forumlist-header">
+		{{#if:{{{created|}}}|<th class="forum_date">Created</th>}}
+		<th class="forum_title">{{#if:{{{2|}}}|Pinned topic|Topic}}</th>
+		{{#if:{{{author|}}}|<th class="forum_author">Created by</th>}}
+		<th class="forum_edited">Last edit</th>
+		<th class="forum_editor">Last author</th>
+	</tr>{{{1}}}{{#if:{{{2|}}}|
+	<tr class="forumlist-header">
+		{{#if:{{{created|}}}|<th class="forum_date">Created</th>}}
+		<th class="forum_title">Topic</th>
+		{{#if:{{{author|}}}|<th class="forum_author">Created by</th>}}
+		<th class="forum_edited">Last edit</th>
+		<th class="forum_editor">Last author</th>
+	</tr>
+	{{{2}}}|}}
+</table><noinclude>
+
+[[Category:Utility templates|{{PAGENAME}}]]
+
+</noinclude>

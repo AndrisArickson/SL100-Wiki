@@ -1,0 +1,22 @@
+{| class="nounderlinelink adminnav" style="float:right; clear:right; margin:2px 0 2px 2px; padding:0; background-color:#F2F5FD; text-align:center; font-size:90%; border-radius:10px; border-spacing:10px; width:13em; overflow:hidden"
+!style="padding:0 10px"|Wookieepedia administration
+|-
+!style="padding:0 10px 10px"|[[File:Site-logo.png|100px]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Administrators|Administrators]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Social Media Team|Social Media Team]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Rollback|Rollback]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Requests for user rights|Requests for user rights]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Requests for removal of user rights|Requests for removal of user rights]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Forum:Administrators' noticeboard|Administrators' noticeboard]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Forum:Social Media Team noticeboard|Social Media Team noticeboard]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Contact|Contact]]
+|-
+|}<noinclude>{{Top|fprot}}[[Category:Navigation templates|AdminNav]]</noinclude>

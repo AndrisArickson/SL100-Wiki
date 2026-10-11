@@ -1,0 +1,15 @@
+{| class="headerbackground" style="width:85%; color:black; background:#79995E; padding:5px; margin:0 auto 5px auto"
+! rowspan="2" style="padding:5px 1em" | [[File:GA-Icon.svg|75px]]
+! style="text-align:left; font-size:larger" | "So&mdash;are you still worried about being sent to the Agricultural Corps?"
+|-
+| style="font-size:95%" | '''[[{{{1}}}]]''' has been approved by the [[Wookieepedia:AgriCorps|AgriCorps]] and awarded [[Wookieepedia:Good articles|Good]] status. Feel free to add the {{Tl|UserGA}} template to your userpage to acknowledge your hard work. The AgriCorps thanks you for your efforts and looks forward to future nominations from you! &mdash; {{{2}}}
+|}<br /><noinclude>{{Top|sprot}}
+
+==Usage==
+To place the above box on a user's talk page, type the following: <code><nowiki>{{subst:GA notify|</nowiki>{{Var|article title}}<nowiki>|~~~~}}</nowiki></code>.
+
+Remember to <code>subst</code> this template&mdash;it will not work properly if you don't.
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Wookieepedia AgriCorps templates|{{PAGENAME}}]]
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

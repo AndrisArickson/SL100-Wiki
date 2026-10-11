@@ -1,0 +1,51 @@
+<infobox theme="Battle400">
+        <data source="prev"><label>Previous</label></data>
+        <data source="conc"><label>Concurrent</label></data>	
+        <data source="next"><label>Next</label></data>	
+	<image source="image"></image>
+    <title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header></header>
+        <data source="conflict"><label>Conflict</label></data>
+        <data source="begin"><label>Begin</label></data>
+        <data source="end"><label>End</label></data>	
+        <data source="date"><label>Date</label></data>	
+        <data source="place"><label>Place</label></data>	
+        <data source="result"><label>Outcome</label></data>
+        <data source="battles"><label>Battles</label></data>		
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Combatants</header>
+        <data source="side1"></data>	
+        <data source="side2"></data>
+        <data source="side3"></data>	
+        <data source="side4"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Commanders</header>
+        <data source="commanders1"></data>	
+        <data source="commanders2"></data>
+        <data source="commanders3"></data>	
+        <data source="commanders4"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Strength</header>
+        <data source="forces1"></data>	
+        <data source="forces2"></data>
+        <data source="forces3"></data>	
+        <data source="forces4"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Casualties</header>
+        <data source="casual1"></data>	
+        <data source="casual2"></data>
+        <data source="casual3"></data>	
+        <data source="casual4"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+        <header>Civilian casualties</header>
+        <data source="civilian"></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Campaign|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat|Campaign}}<noinclude>[[category:Event infobox subtemplates]]</noinclude>

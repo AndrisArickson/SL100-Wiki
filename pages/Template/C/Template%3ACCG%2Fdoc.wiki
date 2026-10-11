@@ -1,0 +1,30 @@
+==Usage==
+Place the following code on the page and replace "SET NAME", "URL", and "CARD NAME" with the appropriate information.
+:<code><nowiki>{{</nowiki>CCG|set=SET NAME|link=URL|cardname=CARD NAME}}</code>
+
+Add {{Para|nourl|1}} into the template if you want the link to be a normal wikilink. If no {{Para|link}} is provided, {{Para|cardname}} will be shown as plain text. If {{Para|link}} is provided without {{Para|cardname}}, an error message will be produced instead of the normal output. An error message will also be produced if {{Para|set}} is not defined.
+
+Add {{Para|text}} into the template if you want to pipe the set link. In this case, TEXT will be displayed and will link to the article named in {{Para|set}}.
+
+For backward compatibility, an unnamed parameter can also be used in place of {{Para|set}}. This is considered deprecated and will produce a hidden tracking category. The ability to use this parameter will eventually be removed, so going forward, new usages of the template should use an explicit {{Para|set}} instead.
+
+Note that clicking on the card link in the template will typically produce an "access denied" error message on the target website. This can usually be bypassed by setting focus on your browser's address bar (e.g. by clicking on it) and either hitting the "Enter" key or clicking "Go".
+
+==Example(s)==
+With URL in {{Para|link}} field:
+
+{{CCG|set=A New Hope Limited|cardname=''Victory''-class Star Destroyer}}
+:<code><nowiki>{{</nowiki>CCG|set=A New Hope Limited|link=ANewHope-Dark/large/victoryclassstardestroyer.gif|cardname=''Victory''-class Star Destroyer}}</code>
+
+Without internal page name in {{Para|link}} field, and {{Para|nourl|1}} added to template:
+
+{{CCG|set=A New Hope Limited|cardname=''Victory''-class Star Destroyer|nourl=1}}
+:<code><nowiki>{{</nowiki>CCG|set=A New Hope Limited|link=Victory-class Star Destroyer/Legends|cardname=''Victory''-class Star Destroyer|nourl=1}}</code>
+
+Without any link:
+
+{{CCG|set=A New Hope Limited|cardname=''Victory''-class Star Destroyer}}
+:<code><nowiki>{{</nowiki>CCG|set=A New Hope Limited|link=|cardname=''Victory''-class Star Destroyer}}</code>
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

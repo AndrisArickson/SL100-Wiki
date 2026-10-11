@@ -1,0 +1,15 @@
+{{Iumb
+| id = Confirm
+| bg = #E8E7ED
+| image = [[File:Hantrooper.png|125px]]
+| caption = Who is this? What's your operating number?
+| message = This article's title requires confirmation from the listed source(s).
+| comment = After confirmation is complete, please place a note on the article's [[{{TALKPAGENAME}}|talk page]] and remove this message.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with unconfirmed titles|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+'''[[Forum:CT:Confirm template quote/image, part deux]] &mdash; current iteration was approved by community consensus in December 2022'''
+
+==Categorization==
+*[[:Category:Articles with unconfirmed titles]]
+
+[[Category:Verification templates]]</noinclude>

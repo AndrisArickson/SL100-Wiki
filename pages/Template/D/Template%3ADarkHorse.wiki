@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DarkHorse
+|image=[[File:HorselessHeadman.svg|text-top|x16px|link=https://www.darkhorse.com|class=darkmodeinvert]]
+|site_text=[[Dark Horse Comics]]' [https://www.darkhorse.com official website]
+|base_url=https://{{{subdomain|www}}}.darkhorse.com
+|target_url={{{url|}}}
+|nolive={{{nolive|{{#ifeq:{{#sub:{{{url|}}}|0|5}}|Blog/|1|}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

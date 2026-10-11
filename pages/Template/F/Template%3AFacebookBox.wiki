@@ -1,0 +1,17 @@
+<div class="hidable">
+{|width="100%" cellpadding="2" cellspacing="3"
+! class="nounderlinelink plainlinks" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="padding-left: 7px; text-align: left;"|[[File:Facebook_icon.svg|22px]] [https://www.facebook.com/TheOfficialWookieepedia/ Wookieepedia on Facebook]
+|style="font-size: 0.8em; text-align: right;"|<span class="hidable-button" style="color:black;"></span>
+|}
+</div>
+|-
+|<div class="hidable-content">
+<div class="fb-page" data-href="https://www.facebook.com/TheOfficialWookieepedia" data-show-posts="true" data-show-facepile="false" style="float: left; width: 100%"></div>
+</div>
+|}
+</div><noinclude>__EXPECTUNUSEDTEMPLATE__
+
+{{Top|fprot}}[[Category:Main Page templates]]<noinclude>

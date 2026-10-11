@@ -1,0 +1,7 @@
+{{Databank|darius-pax|Darius Pax}} places the events of ''[[Star Wars: Galactic Racer]]''{{#if: {{{1|}}}|, including {{{1}}},|}} [[Standard year|years]] after the [[New Republic]] was founded, which ''[[Star Wars: Galactic Atlas]]'' dates to [[4 ABY]], meaning the game takes place during or after [[6 ABY]]. As it takes place before the New Republic was destroyed, in [[34 ABY]] per ''Galactic Atlas'', the game takes place between 6 [['ABY-BBY' dating system|ABY]] and 34 ABY.<noinclude>
+
+==Usage==
+*<code><nowiki>{{GalacticRacerDate}}</nowiki></code>
+*<code><nowiki>{{GalacticRacerDate|optional event parameter}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

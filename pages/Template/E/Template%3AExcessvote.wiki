@@ -1,0 +1,7 @@
+Thank you for reviewing status article nominations on Wookieepedia! Please note, however, that an article you recently reviewed already had the necessary number of user votes. Specifically, [[Wookieepedia:Featured article nominations|FANs]] need no more than four user votes to pass, a [[Wookieepedia:Good article nominations|GAN]] needs no more than two, and [[Wookieepedia:Comprehensive article nominations|CANs]] can pass with only three user votes. If in doubt, the number of required user votes is displayed on the nomination page itself, just above the "Support" section. User votes above the requirement are not necessary for the article to pass, so such reviews are not directly helping the nomination. Therefore, we encourage users to focus their attention on nominations which do not have enough user votes to pass. This actively helps out the reviewing bodies and means your time is spent reviewing articles that benefit from it. Thanks! {{{1|}}}<!-- Template:Excessvote --><noinclude>{{Top|sprot}}
+==Usage==
+Type <code><nowiki>{{subst:Excessvote|~~~~}}</nowiki></code> to place the above notice on a user's talk page.
+
+{{TestTemplatesNotice}}
+
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

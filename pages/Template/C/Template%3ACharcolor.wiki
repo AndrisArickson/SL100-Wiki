@@ -1,0 +1,120 @@
+<onlyinclude>{{#switch:{{{type|}}}
+	|Bounty hunter={{#switch:{{{mode|}}}
+		|BG1=406B2E
+		|BG2=8DB87A
+		|}}
+	|Bureaucrat={{#switch:{{{mode|}}}
+		|BG1=9966CC
+		|BG2=C9A0DC
+		|}}
+	|Chiss Ascendancy={{#switch:{{{mode|}}}
+		|BG1=1994E6
+		|BG2=9ED5FA
+		|}}
+	|CIS={{#switch:{{{mode|}}}
+		|BG1=73263D
+		|BG2=D194A6
+		|}}
+	|Corporate={{#switch:{{{mode|}}}
+		|BG1=BB6331
+		|BG2=DD8450
+		|}}
+	|Criminal={{#switch:{{{mode|}}}
+		|BG1=6B342E
+		|BG2=A66159
+		|}}
+	|Dark Jedi={{#switch:{{{mode|}}}
+		|BG1=444444
+		|BG2=777777
+		|}}
+	|Dathomiri={{#switch:{{{mode|}}}
+		|BG1=4B0082
+		|BG2=E6E6FA
+		|}}
+	|First Order={{#switch:{{{mode|}}}
+		|BG1=000000
+		|BG2=9E1919
+		|}}
+	|Galactic Empire={{#switch:{{{mode|}}}
+		|BG1=242742
+		|BG2=8589AD
+		|}}
+	|Galactic Republic={{#switch:{{{mode|}}}
+		|BG1=2E406B
+		|BG2=7089C2
+		|}}
+	|GFFA={{#switch:{{{mode|}}}
+		|BG1=337147
+		|BG2=5AB577
+		|}}
+	|Hutt Cartel={{#switch:{{{mode|}}}
+		|BG1=B8860B
+		|BG2=FCD116
+		|}}
+	|Infinite Empire={{#switch:{{{mode|}}}
+		|BG1=FF6600
+		|BG2=FF9D00
+		|}}
+	|Je'daii={{#switch:{{{mode|}}}
+		|BG1=333333
+		|BG2=DDDDDD
+		|}}
+	|Jedi={{#switch:{{{mode|}}}
+		|BG1=736326
+		|BG2=C2B170
+		|}}
+	|Mandalorian={{#switch:{{{mode|}}}
+		|BG1=9CABB0
+		|BG2=CAD4D5
+		|}}
+	|New Republic={{#switch:{{{mode|}}}
+		|BG1=0F1C8A
+		|BG2=5260E0
+		|}}
+	|Rebel={{#switch:{{{mode|}}}
+		|BG1=2D1452
+		|BG2=7859A6
+		|}}
+	|Resistance={{#switch:{{{mode|}}}
+		|BG1=000000
+		|BG2=E65600
+		|}}
+	|Sith={{#switch:{{{mode|}}}
+		|BG1=AA0000
+		|BG2=EE5555
+		|}}
+	|Sith Empire={{#switch:{{{mode|}}}
+		|BG1=990000
+		|BG2=B1B2BC
+		|}}
+	|Yuuzhan Vong={{#switch:{{{mode|}}}
+		|BG1=663D00
+		|BG2=A68759
+		|}}
+	|
+}}</onlyinclude>
+
+This template is used by {{Tl|Character}} to determine the color scheme of that particular infobox. The options are:
+*Bounty hunter
+*Bureaucrat
+*Chiss Ascendancy
+*CIS
+*Corporate
+*Criminal
+*Dark Jedi
+*Dathomiri
+*Galactic Empire
+*Galactic Republic
+*GFFA
+*Hutt Cartel
+*Infinite Empire
+*Je'daii
+*Jedi
+*Mandalorian
+*New Republic
+*Rebel
+*Sith
+*Sith Empire
+*Yuuzhan Vong
+
+[[Category:Infobox utility templates]]

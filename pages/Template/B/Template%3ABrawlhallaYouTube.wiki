@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=BrawlhallaYouTube
+|archive=YouTube
+|image=[[File:Brawlhalla-YouTube.jpg|text-bottom|x18px|link=https://www.youtube.com/@Brawlhalla]]
+|site_text=the official ''[[Brawlhalla]]'' [https://www.youtube.com/@Brawlhalla YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

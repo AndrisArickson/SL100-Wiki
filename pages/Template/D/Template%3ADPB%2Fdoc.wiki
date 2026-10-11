@@ -1,0 +1,30 @@
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{DPB|url=|text=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} The URL of the web page, minus <code><nowiki>https://disneyparks.disney.go.com/blog/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|author}} Name(s) of the author(s). Must be formatted like "<code>Last name, First name</code>"; multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|nolive}} When the original online content is no longer available, add "<code>nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{DPB|url=2017/08/star-wars-galaxys-edge-construction-milestone-celebrated-at-disneyland-park|text=''Star Wars'': Galaxy’s Edge Construction Milestone Celebrated at Disneyland Park|author=Savvas, George|date=2017-08-22|archivedate=20200628091123}}</nowiki></code>
+
+Results in:
+
+{{DPB|url=2017/08/star-wars-galaxys-edge-construction-milestone-celebrated-at-disneyland-park|text=''Star Wars'': Galaxy’s Edge Construction Milestone Celebrated at Disneyland Park|author=Savvas, George|date=2017-08-22|archivedate=20200628091123}}
+
+==Images==
+[[File:DPB-Logo.svg|thumb|250px|left|Not an orphan]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

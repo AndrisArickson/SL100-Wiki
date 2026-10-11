@@ -1,0 +1,71 @@
+==<span style="color:red">'''REMINDER'''</span>==
+When citing an Artstation page, please use the URL format below as the Wayback Machine archive will not work otherwise. Exceptions to the format can be made in the events where functioning Wayback Machine archives are readily available prior.
+
+<code><nowiki>https://SUBDOMAIN.artstation.com/projects/xxxxxx</nowiki></code>
+
+===Example===
+<code><nowiki>https://www.artstation.com/artwork/4NQgen</nowiki></code>
+
+to:
+
+<code><nowiki>https://matthewashtoncooper.artstation.com/projects/4NQgen</nowiki></code>
+
+
+==Instructions==
+===Externals links===
+<code><nowiki>{{ArtStation|subdomain=|username=|name=}}</nowiki></code>
+
+'''Parameters'''
+*{{para|subdomain}} For instances where a subdomain is needed other than <code>www</code>, for example the <code>ilmchallenge</code> part of <code>https://ilmchallenge.artstation.com</code>.
+*{{para|username}} Part of the url of the profile page, excluding the <code>https://www.artstation.com/</code> portion.
+*{{para|name}} Complete name of the artist.
+
+<hr/>
+For External links:
+
+<code><nowiki>{{ArtStation|username=reau|name=[[Jarreau Wimberly]]}}</nowiki></code>
+
+Results in:
+
+{{ArtStation|username=reau|name=[[Jarreau Wimberly]]}}
+
+<hr/>
+<code><nowiki>{{ArtStation|subdomain=ilmchallenge|name=[[ILM Art Department Challenge]]}}</nowiki></code>
+
+Results in:
+
+{{ArtStation|subdomain=ilmchallenge|name=[[ILM Art Department Challenge]]}}
+
+===References===
+<code><nowiki>{{ArtStation|subdomain=|username=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+'''Required parameters'''
+*{{para|username}} Part of the url of the profile page, excluding the <code>https://www.artstation.com/</code> portion.
+*{{para|url}} URL of the page, excluding the <code>https://www.artstation.com/</code> portion.
+*{{para|name}} Complete name of the artist. Can be linked to their Wookieepedia article.
+*{{para|text}} Title of the page.
+
+'''Optional parameters'''
+*{{Para|date}} Date the ArtStation post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{para|quote}} A short excerpt from the citation for quick reference in the article.
+*{{para|subdomain}} For instances where a subdomain is needed other than <code>www</code>, for example the <code>ilmchallenge</code> part of <code>https://ilmchallenge.artstation.com</code>.
+
+<code><nowiki>{{ArtStation|username=reau|url=artwork/gO5L8|name=[[Jarreau Wimberly]]|text=Star Wars Galactic Ambition &ndash; Kyle Katarn|date=2016-07-17|archivedate=20201121072457}}</nowiki></code>
+
+Results in:
+
+{{ArtStation|username=reau|url=artwork/gO5L8|name=[[Jarreau Wimberly]]|text=Star Wars Galactic Ambition &ndash; Kyle Katarn|date=2016-07-17|archivedate=20201121072457}}
+
+<hr/>
+<code><nowiki>{{ArtStation|subdomain=ilmchallenge|username=oiram07|url=submissions/11083|name=Mario Alberti|text=1st Place|archivedate=20210501121207}}</nowiki></code>
+
+Results in:
+
+{{ArtStation|subdomain=ilmchallenge|username=oiram07|url=submissions/11083|name=Mario Alberti|text=1st Place|archivedate=20210501121207}}
+
+
+{{BackupLinkHelp}}
+
+__Notoc__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

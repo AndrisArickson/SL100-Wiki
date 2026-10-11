@@ -1,0 +1,18 @@
+{{Ooumb
+|id=deprecated
+|bg=#EEE
+|image=[[File:Dialog-warning.svg]]
+|caption=This template is [[wikipedia:Deprecation|deprecated]].
+|message=Please use {{{1}}} instead.
+}}{{#ifeq:{{NAMESPACE}}|User||<includeonly>[[Category:Deprecated templates|{{PAGENAME}}]]</includeonly>}}<noinclude>
+
+==Usage==
+Paste <code><nowiki>{{</nowiki>Deprecated|{{Var|new template}}}}</code> at the top of the template's documentation. Additionally, paste <code><nowiki><includeonly>[[Category:Pages with deprecated templates]]</includeonly></nowiki></code> on the deprecated template's page itself.
+
+===Required parameters===
+#{{Para||{{Var|new template}}}} A link to the replacement template.
+
+==Categorization==
+*[[:Category:Deprecated templates]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

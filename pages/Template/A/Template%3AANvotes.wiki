@@ -1,0 +1,22 @@
+<includeonly>{{#if:{{{1|}}}
+|{{#switch:{{{count|}}}
+   |users={{#switch:{{{type|}}}
+      |RFR={{#len: {{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{{1}}}|/#.+Wookieepedia:Administrators.+/|}}|/:\*.+/|}}|/#:.+/|}}|/#\*.+/|}}|/\*.+/|}}|/:.+/|}}|/#.+/|#}}|/\n/|}} }}<!--Count Users only (exclude admins)-->
+     }}
+   |total={{#len: {{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{{1}}}|/#:.+/|}}|/:\*.+/|}}|/#\*.+/|}}|/\*.+/|}}|/:.+/|}}|/#.+/|#}}|/\n/|}} }}<!--Count everything-->
+   |{{#switch:{{{type|}}}
+      |RFR={{#expr: {{#len: {{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{{1}}}|/#:.+/|}}|/:\*.+/|}}|/#\*.+/|}}|/:.+/|}}|/\*.+/|}}|/#.+/|#}}|/\n/|}} }} - {{#len: {{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{#dplreplace:{{{1}}}|/#.+Wookieepedia:Administrators.+/|}}|/#:.+/|}}|/:\*.+/|}}|/#\*.+/|}}|/\*.+/|}}|/:.+/|}}|/#.+/|#}}|/\n/|}} }} }}<!--Count Admins only (exclude Users)-->
+    }}
+  }}<!--Notes to editors: there are multiple #dplreplace functions above which mostly do the same thing, remove entries that begin with :* or #* or * or : Then remove all text after # and then remove \n (line breaks). So all that's left are # which can be counted use the #len function.-->
+|0}}<!--Return 0 if no input--></includeonly><noinclude>__NOTOC__
+==Usage instructions==
+<code><nowiki>{{ANvotes|</nowiki></code>''Numbered list''<code><nowiki>|type=|count=}}</nowiki></code>
+
+Parameters:
+*{{Para|1st unnamed parameter}} A numbered list. DPL can be used to transclude a page's section using the heading name such '''Support'''. Example code that can be place in this parameter: <code><nowiki>{{#dpl:title={{{1|}}}|include=#Support|skipthispage=no}}</nowiki></code>
+*{{Para|type}} Use '''RFR'''.
+*{{Para|count}} Use one of the following: '''users''', '''admins''' or '''total'''.
+
+This template is used by {{Tl|RFRvotes}}.
+
+[[Category:Status article templates]]</noinclude>

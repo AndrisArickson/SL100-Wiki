@@ -1,0 +1,45 @@
+==Usage==
+===Externals links===
+<code><nowiki>{{DeviantArt|username=|name=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+'''Parameters'''
+*{{Para|username}} Part of the url of the profile page, excluding the <code>https://www.deviantart.com/</code> portion.
+*{{Para|name}} Complete name of the artist.
+
+===References===
+<code><nowiki>{{DeviantArt|username=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+'''Required parameters'''
+*{{Para|username}} Part of the url of the profile page, excluding the <code>https://www.deviantart.com/</code> portion.
+*{{Para|url}} URL of the page, excluding the <code>https://www.deviantart.com/</code> portion.
+*{{Para|name}} Complete name of the artist. Must be linked to their Wookieepedia article.
+*{{Para|text}} Title of the page.
+
+'''Optional parameters'''
+*{{Para|date}} Date the DeviantArt post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} A short excerpt from the citation for quick reference in the article.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+For references:
+
+<code><nowiki>{{DeviantArt|username=brenze|url=brenze/art/Electronic-Games-Monthly-cover-147093401|name=[[Brian Menze]]|text=Electronic Games Monthly cover|date=2009-12-18|quote=This was my first time ever doing a cover for a magazine. I loved the experience. The bonus is that I was asked to paint Darth Nihilus, my favorite among all the characters I concepted for Knights of the Old Republic II.|archivedate=20210127025403}}</nowiki></code>
+
+Results in:
+
+{{DeviantArt|username=brenze|url=brenze/art/Electronic-Games-Monthly-cover-147093401|name=[[Brian Menze]]|text=Electronic Games Monthly cover|date=2009-12-18|quote=This was my first time ever doing a cover for a magazine. I loved the experience. The bonus is that I was asked to paint Darth Nihilus, my favorite among all the characters I concepted for Knights of the Old Republic II.|archivedate=20210127025403}}
+
+<hr/>
+For External links:
+
+<code><nowiki>{{DeviantArt|username=brenze|name=Brian Menze}}</nowiki></code>
+
+Results in:
+
+{{DeviantArt|username=brenze|name=Brian Menze}}
+
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,18 @@
+<span id="coordinates" class="plainlinksneverexpand">[[wikipedia:Geographic coordinate system|Coordinates]]: <span class="plainlinks">[http://tools.wikimedia.de/~magnus/geo/geohack.php?params={{{1}}}_{{{2}}}_{{{3}}}_{{{4}}}_{{{5}}}_{{{6}}}_{{{7}}}_{{{8}}}_{{{9}}} <span style="white-space:nowrap">{{{1}}}°{{{2}}}′{{{3}}}″{{{4}}},</span> <span style="white-space:nowrap">{{{5}}}°{{{6}}}′{{{7}}}″{{{8}}}</span>]</span></span><noinclude>
+__NOTOC__
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+== Usage ==
+The template should be placed at the '''bottom of the article''' before the Categories and interwiki language links, so that other editors will always know where to find it. Furthermore, future implementations may treat it differently in different site themes, and placing it in a standard location will make this easier.
+
+Copy this blank version to use:
+
+<pre>
+{{coor title dms|deg|min|sec|NS|deg|min|sec|EW|optional}}
+</pre>
+
+Replace the first occurrences of ''deg'', ''min'', and ''sec'' with the degree, minute, and second of the North-South component of the coordinates, and the second occurrences with the same for the East-West component. ''NS'' and ''EW'' should each be replaced with one or the other of ''N'' or ''S'', and ''E'' or ''W''. The ''optional'' can be any <code>type:</code>, <code>region:</code>, or <code>scale:</code> parameters that are recognized by the map server (such as the popular <code>type:city</code> and <code>type:landmark</code> options. See [[Wikipedia:Wikipedia:WikiProject Geographical coordinates#Parameters|Wikipedia:WikiProject Geographical coordinates#Parameters]] for a comprehensive list).
+
+== Purpose ==
+This template places latitude and longitude coordinates for the location somewhere near the article's title, depending on the skin used and whether a user is logged in. Clicking on the coordinates will take users to an experimental mapsource wiki where they can choose a particular map site to view that location.
+
+[[Category:Templates]]</noinclude>

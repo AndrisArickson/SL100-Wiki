@@ -1,0 +1,27 @@
+{{MediumMB
+|border=#BB7C77
+|bg=#FFF7F7
+|image=[[File:Copyright-red.svg|50px]]
+|message=This image is the '''[[wikipedia:Cover art|cover]] of a [[Star Wars comic books|comic book]] issue''' or '''[[wikipedia:Trade paperback (comics)|trade paperback]]'''. It is believed that comic covers may be exhibited on [[Wookieepedia]] under the '''[[wikipedia:Fair use|fair use]] [https://www.copyright.gov/title17/92chap1.html#107 provision]''' of [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|{{#switch:{{lc:{{{1|}}}{{{2|}}}}}
+|variantfull|fullvariant=[[Category:Variant comic full cover art images]]
+|variant=[[Category:Variant comic covers]]
+|solicit=[[Category:Comic solicitation covers]]
+|legends=[[Category:Legends comic covers]]
+|full=[[Category:Comic full cover art images]]
+|part=[[Category:Comic cover art images|{{PAGENAME}}]]
+|#default=[[Category:Comic covers|{{PAGENAME}}]]
+}}}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Comic covers]]
+*[[:Category:Comic full cover art images]] (full unlettered covers; use <nowiki>{{Comiccover|full}}</nowiki>)
+*[[:Category:Variant comic full cover art images]] (full unlettered variant covers; use <nowiki>{{Comiccover|variant|full}}</nowiki>)
+*[[:Category:Variant comic covers]] (variant covers; use <nowiki>{{Comiccover|variant}}</nowiki>)
+*[[:Category:Comic cover art images]] (cropped cover art images; use <nowiki>{{Comiccover|part}}</nowiki>)
+
+==See also==
+*[[Template:Comicpanel]]
+*[[Wookieepedia:Templates/File namespace]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

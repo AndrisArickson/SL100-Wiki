@@ -1,0 +1,14 @@
+{{Ooumb
+| id = Community
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The subject of this article concerns a fan topic in ''[[Star Wars]]'' [[:Category:Star Wars culture|culture]].
+| message =  {{#switch:{{{1|}}}|organization = This article documents a fan organization that has affiliated or collaborated with [[Lucasfilm]] at some point.|podcast = This article documents a fan podcast that has hosted on the Podcast Stage at ''[[Star Wars]]'' [[Celebration]].|Events, opinions, and individuals described in this article may not be present in an [[Wookieepedia:Attribution|authorized source]], or may not have [[canon]]ically occurred in the [[The galaxy|''Star Wars'' universe]].}}
+}}<noinclude>
+
+==Usage==
+<pre>{{Community}}</pre>
+<pre>{{Community|organization}} <!-- to denote an organization that has collaborated with Lucasfilm --></pre>
+<pre>{{Community|podcast}} <!-- to denote a podcast that has hosted at Celebration --></pre>
+
+[[Category:Header templates]]</noinclude>

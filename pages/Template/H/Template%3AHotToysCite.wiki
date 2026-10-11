@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:ToyCitation|main|template=SideshowCite
+|image=[[File:HotToys -Logo.jpg|text-top|x16px|link=Hot Toys|class=darkmodeinvert]]
+|invert=1
+|set=Hot Toys
+|stext=Hot Toys {{{stext|{{{set}}}}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{altlink|}}}
+|baseUrl=https://www.sideshow.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

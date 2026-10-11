@@ -1,0 +1,88 @@
+<includeonly><div class="mobile-hide conflict-navbox">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 auto .5em auto; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" style="float:center; margin:0 0 0 0; width:500px; background:#ffffff; border-collapse:collapse;">
+<tr style="text-align:center; color:#ffffff; background:{{{c1|#7995CA}}}; font-size:larger; border-bottom: 1px solid #999999;"><th colspan="3">[[Galactic Civil War/Legends|Galactic Civil War]]<br />([[2 BBY/Legends|2 BBY]]&ndash;[[19 ABY/Legends|19 ABY]])</th></tr>
+<tr>{{#if:{{{heading|}}}|<th colspan="2" style="text-align:center; font-weight:normal; background:{{{c2|#B4C5E3}}};">'''}}{{#switch: {{{heading|}}}
+|1 = Early Campaigns ([[2 BBY/Legends|2 BBY]]&ndash;[[0 BBY/Legends|0 BBY]])
+|2 = Destruction of the [[DS-1 Orbital Battle Station/Legends|Death Star I]] and the Yavin blockade ([[0 BBY/Legends|0 BBY]]&ndash;[[0 ABY/Legends|0 ABY]])
+|3 = Alliance on the Run ([[0 ABY/Legends|0 ABY]]&ndash;[[3 ABY/Legends|3 ABY]])
+|4 = Showdown at Endor ([[3 ABY/Legends|3 ABY]]&ndash;[[4 ABY/Legends|4 ABY]])
+|5 = Imperial Fragmentation ([[4 ABY/Legends|4 ABY]])
+|6 = Fall of the Empire ([[5 ABY/Legends|5 ABY]]&ndash;[[8 ABY/Legends|8 ABY]])
+|7 = Thrawn and the Reborn Empire ([[9 ABY/Legends|9 ABY]]&ndash;[[10 ABY/Legends|10 ABY]])
+|8 = The Post-Reborn Empire ([[11 ABY/Legends|11 ABY]]–[[14 ABY/Legends|14 ABY]])
+|9 = Last Days of War ([[16 ABY/Legends|16 ABY]]–[[19 ABY/Legends|19 ABY]])
+|0 = Unidentified placement (Alphabetical order)}}{{#if:{{{heading|}}}|'''</th>}}</tr>
+<tr style="spacing-top:0px; spacing-bottom:0px; vertical-align:top; text-align:left; background:{{{c3|#F0F0F0}}};"></tr>
+<tr><th colspan="2" style="background:transparent;">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%;">
+{{#if: {{{prev|}}} |<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;"></td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+{{{prev|}}}
+</td></tr>|}}
+{{Full Galactic Civil War/{{{row|1_BBY_1}}}}}
+{{#if: {{{next|}}}|<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;"></td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+{{{next|}}}
+</td></tr>}}</table>
+</th></tr>
+{{#if: {{{topics|}}} |<tr><th colspan="3" style="text-align:center; font-weight:normal; background:{{{c2|#B4C5E3}}}; border-top: 1px solid #999999; border-bottom: 1px solid #999999;">'''Related topics and articles'''</th></tr>
+<tr><td colspan="3" style="background:transparent; text-align:center;">
+{{{topics|}}}
+</td></tr>||}}{{#if:{{{edit|}}}|<tr><td style="padding:0px; background:white; border-top:1px solid #999999;"><small class="plainlinks">[{{fullurl:Template:GCW 2 BBY|action=edit}} {{{2|[edit]}}}]</small></td></tr>|}}
+</table></div></td></tr>
+<tr style="border-top: 1px solid #999999;"><td id="infoboxend" class="plainlinks" style="text-align:right; width:48%;"></td><td style="text-align:left; width:48%;">&#32;&#32;[[Template:GCW {{{row|}}}|[Source]]]</td><td id="infoboxend" class="plainlinks" style="text-align:right; width:4%;"></td></tr></table></div><!-- TEMPLATE ENDS HERE. --></includeonly><noinclude>This template is used to construct the component templates ("subtemplates") of {{Tl|Full Galactic Civil War}}, listed below.
+
+==Usage==
+<pre>{{GCW
+|heading=
+|prev=
+|row=
+|next=
+|topics=
+}}</pre>
+
+===Required parameters===
+*{{Para|row}} Name of the corresponding {{Tl|Full Galactic Civil War}} row template, minus (<code><nowiki>GCW </nowiki></code>). For example, "<code>1&nbsp;BBY&nbsp;1</code>" from {{Tl|Full Galactic Civil War/1 BBY 1}}.
+
+===Optional parameters===
+*{{Para|heading}}
+**1 = Early Campaigns ([[2 BBY/Legends|2 BBY]]&ndash;[[0 BBY/Legends|0 BBY]])
+**2 = Destruction of the [[DS-1 Orbital Battle Station/Legends|Death Star I]] and the Yavin blockade ([[0 BBY/Legends|0 BBY]]&ndash;[[0 ABY/Legends|0 ABY]])
+**3 = Alliance on the Run ([[0 ABY/Legends|0 ABY]]&ndash;[[3 ABY/Legends|3 ABY]])
+**4 = Showdown at Endor ([[3 ABY/Legends|3 ABY]]&ndash;[[4 ABY/Legends|4 ABY]])
+**5 = Imperial Fragmentation ([[4 ABY/Legends|4 ABY]])
+**6 = Fall of the Empire ([[5 ABY/Legends|5 ABY]]&ndash;[[8 ABY/Legends|8 ABY]])
+**7 = Thrawn and the Reborn Empire ([[9 ABY/Legends|9 ABY]]&ndash;[[10 ABY/Legends|10 ABY]])
+**8 = The Post-Reborn Empire ([[11 ABY/Legends|11 ABY]]–[[14 ABY/Legends|14 ABY]])
+**9 = Last Days of War ([[16 ABY/Legends|16 ABY]]–[[19 ABY/Legends|19 ABY]])
+**0 = Unidentified placement (Alphabetical order)
+*{{Para|prev}}
+*{{Para|next}}
+*{{Para|topics}}
+
+===Example(s)===
+<pre>{{GCW
+|heading=1
+|prev=[[Template:GCW 2 BBY|Early Campaigns]]: [[2 BBY/Legends|2 BBY]]
+|row=1 BBY 1
+|next=[[Fresian campaign]]: [[1 BBY/Legends|1 BBY]]
+|topics=[[Galactic Empire/Legends|Galactic Empire]] · [[Alliance to Restore the Republic/Legends|Rebel Alliance]] · [[Order of the Sith Lords]] · [[Zann Consortium/Legends|Zann Consortium]]<br />[[Palpatine/Legends|Palpatine]] · [[Anakin Skywalker/Legends|Darth Vader]] · [[Tyber Zann]] · [[Gial Ackbar/Legends|Gial Ackbar]] · [[Wilhuff Tarkin/Legends|Wilhuff Tarkin]]
+}}</pre>
+
+Results in:
+
+{{GCW
+|heading=1
+|prev=[[Template:GCW 2 BBY|Early Campaigns]]: [[2 BBY/Legends|2 BBY]]
+|row=1 BBY 1
+|next=[[Fresian campaign]]: [[1 BBY/Legends|1 BBY]]
+|topics=[[Galactic Empire/Legends|Galactic Empire]] · [[Alliance to Restore the Republic/Legends|Rebel Alliance]] · [[Order of the Sith Lords]] · [[Zann Consortium/Legends|Zann Consortium]]<br />[[Palpatine/Legends|Palpatine]] · [[Anakin Skywalker/Legends|Darth Vader]] · [[Tyber Zann]] · [[Gial Ackbar/Legends|Gial Ackbar]] · [[Wilhuff Tarkin/Legends|Wilhuff Tarkin]]
+}}
+
+==The GCW subtemplates==
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox templates|{{PAGENAME}}]]</noinclude>

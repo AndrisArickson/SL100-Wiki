@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyPlus
+|image=[[File:DisneyPlusLogo.svg|text-top|x18px|link=https://www.disneyplus.com|class=darkmodeinvert]]
+|site_text=[[Disney+]]
+|base_url=https://{{{subdomain|www}}}.disneyplus.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,28 @@
+<includeonly>{{#ifexist:Wookieepedia:Featured article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|
+{{Iumb
+|id=FAreview
+|bg=#B0B0B0
+|image=[[File:Tremayne-DSSB.png|100px]]
+|caption=The procedure is, regrettably, quite painful. Wouldn't you rather fix the article now?
+|message=It's been requested the [[Wookieepedia:Inquisitorius|Inquisitorius]] review this [[:Category:Wookieepedia Featured articles|Featured article]].
+|comment=Please consult '''[[Wookieepedia:Featured article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|this article's review page]]''' to see the review process and address objections. Do not remove this tag until the article's review is complete.}}
+|
+{{Ooumb
+|id=FAreview
+|bg=#F2F5FD
+|image=[[File:Premium-DefeaturedIcon.svg|30px]]
+|caption=Warning: This Featured article review is incomplete.
+|message=To finish starting the review process, please complete the following steps. Otherwise, this message will be removed.
+#[{{fullurl:Wookieepedia:Featured article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|action=edit&preload=Template:FAR_preload&editintro=Template:FAR_editintro}} <font style="color: #BA1902">Create the review page</font>] so that other users can review the article.
+#Copy <code><nowiki>{{</nowiki>/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}<nowiki>}}</nowiki></code> onto [{{fullurl:Wookieepedia:Featured article reviews|action=edit&section=1}} the bottom of the FAR page]. This step is optional; if not done manually, {{U|JocastaBot}} will automatically do so within a few minutes.
+#[[Special:Purge/{{PAGENAME}}|Purge this page]] to update this template.
+}}}}[[Category:Wookieepedia Featured articles under review]]</includeonly><noinclude>
+
+==Instructions==
+*<nowiki>{{FAreview}}</nowiki> is applied to articles by {{U|JocastaBot}} or an editor to start a review, and removed by Jocasta when a review is completed.
+
+==Categorization==
+*[[:Category:Wookieepedia Featured articles under review]]
+
+[[Category:Wookieepedia Inquisitorius templates|Review]]
+[[Category:Status article maintenance templates]]</noinclude>

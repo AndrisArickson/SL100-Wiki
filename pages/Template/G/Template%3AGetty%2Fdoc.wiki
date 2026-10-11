@@ -1,0 +1,31 @@
+This template is to be used for citing individual pages on  [[Wikipedia:Getty Images|Getty Images]].
+
+Note that it is preferable to archive Getty pages through ghostarchive.com rather than the Wayback Machine, which often fail to save properly this website. Furthermore, when using a '''PDF asset''', it is preferable to archive the pdf filepage itself (on the Wayback Machine), rather than the asset page.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you do not use.
+
+<code><nowiki>{{Getty|subdomain=|url=|text=|author=|date=|lang=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=|oldversion=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://dam.gettyimages.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>dam</code>. Default is <code>dam</code> if left blank.
+*{{para|author}} For crediting the author of a picture.
+*{{Para|date}} Date the page was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|lang}} can be set if the URL is something different than "getty.com"; such as setting it to <nowiki>lang=co.uk</nowiki>.
+
+==Examples==
+<code><nowiki>{{Getty|subdomain=assets|url=bf-boulder-whitelabelbucket-getty-prod/npt4qkf8cg9v2m3cv66b5mgv/v/56666133/original/SW_THE_BAD_BATCH_Project_Profile_3-29-21.pdf|text=SW_THE_BAD_BATCH_Project_Profile_3-29-21|date=2021-04-08|archivedate=20240624021632}}</nowiki></code>
+
+Results in:
+
+{{Getty|subdomain=assets|url=bf-boulder-whitelabelbucket-getty-prod/npt4qkf8cg9v2m3cv66b5mgv/v/56666133/original/SW_THE_BAD_BATCH_Project_Profile_3-29-21.pdf|text=SW_THE_BAD_BATCH_Project_Profile_3-29-21|date=2021-04-08|archivedate=20240624021632}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

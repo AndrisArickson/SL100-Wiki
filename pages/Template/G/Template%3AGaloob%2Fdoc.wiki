@@ -1,0 +1,28 @@
+This template is to be used on pages about subjects that have been represented in [[Galoob]] toy sets.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Galoob|set=|text=|pack=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*{{Para|link}} URL of the pack's page on the website [[Rebelscum.com]], minus the domain name (<code><nowiki>https://www.rebelscum.com/</nowiki></code>).
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|text}} Formatted name of the collection.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Example(s)===
+<code><nowiki>{{Galoob|set=Micro Machines|text=''Star Wars: Shadows of the Empire'' Micro Machines|pack=Collection I|link=soteMM1.asp|archivedate=20161010084528}}</nowiki></code>
+
+Results in:
+
+{{Galoob|set=Micro Machines|text=''Star Wars: Shadows of the Empire'' Micro Machines|pack=Collection I|link=soteMM1.asp|archivedate=20161010084528}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

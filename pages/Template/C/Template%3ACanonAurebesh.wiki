@@ -1,0 +1,115 @@
+<div id="Aurebesh" class="info-box hidable" style="padding: 0px; line-height:22px; {{#if:{{{width|}}}|width:{{{width}}};|}}">
+{| class="info-boxtable hidable-content" cellspacing="0" cellpadding="0" style="border-width: 0px"
+ |-
+| class="info-boximage darkbackground1" colspan="2" style="{{#if:{{{imageBG|}}}|background: #{{{imageBG}}}|background: #FFF}}" | {{{image|}}}
+ |- 
+! class="info-boxheading darkbackground1" colspan="2" style="background: #808080; {{{css|}}}" | {{{{{{2|name}}}}}}
+ {{#if:{{{{{{3}}}|}}}|{{!}}-|{{!}}-
+! class="info-boxsubheading darkbackground1" colspan="2" style="background: #FFF" {{!}} '''<center>The Aurebesh</center>'''}}
+
+{| class="darkbackground1" cellspacing="0" cellpadding="0" style="width:100%"
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="12.5%" |[[File:AurekArial.svg|50x16px|link=Aurek|class=darkmodeinvert]]
+| width="12.5%" |[[File:BeshArial.svg|50x16px|link=Besh|class=darkmodeinvert]]
+| width="12.5%" |[[File:CreshArial.svg|50x16px|link=Cresh|class=darkmodeinvert]]
+| width="12.5%" |[[File:CherekArial.svg|50x16px|link=Cherek|class=darkmodeinvert]]
+| width="12.5%" |[[File:DornArial.svg|50x16px|link=Dorn|class=darkmodeinvert]]
+| width="12.5%" |[[File:EskArial.svg|50x16px|link=Esk|class=darkmodeinvert]]
+| width="12.5%" |[[File:EnthArial.svg|50x16px|link=Enth|class=darkmodeinvert]]
+| width="12.5%" |[[File:OnithArial.svg|50x16px|link=Onith|class=darkmodeinvert]]
+|- class="darkbackground1";
+| Aurek
+| Besh
+| Cresh
+| Cherek
+| Dorn
+| Esk
+| Enth
+| Onith
+|}
+|-
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="11.11%" |[[File:FornArial.svg|50x16px|link=Forn|class=darkmodeinvert]]
+| width="11.11%" |[[File:GrekArial.svg|50x16px|link=Grek|class=darkmodeinvert]]
+| width="11.11%" |[[File:HerfArial.svg|50x16px|link=Herf|class=darkmodeinvert]]
+| width="11.11%" |[[File:IskArial.svg|50x16px|link=Isk|class=darkmodeinvert]]
+| width="11.11%" |[[File:JenthArial.svg|50x16px|link=Jenth|class=darkmodeinvert]]
+| width="11.11%" |[[File:KrillArial.svg|50x16px|link=Krill|class=darkmodeinvert]]
+| width="11.11%" |[[File:KrenthArial.svg|50x16px|link=Krenth|class=darkmodeinvert]]
+| width="11.11%" |[[File:LethArial.svg|50x16px|link=Leth|class=darkmodeinvert]]
+| width="11.11%" |[[File:MernArial.svg|50x16px|link=Mern|class=darkmodeinvert]]
+|- class="darkbackground1";
+| Forn
+| Grek
+| Herf
+| Isk
+| Jenth
+| Krill
+| Krenth
+| Leth
+| Mern
+|}
+|-
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="12.5%" |[[File:NernArial.svg|50x16px|link=Nern|class=darkmodeinvert]]
+| width="12.5%" |[[File:NenArial.svg|50x16px|link=Nen|class=darkmodeinvert]]
+| width="12.5%" |[[File:OskArial.svg|50x16px|link=Osk|class=darkmodeinvert]]
+| width="12.5%" |[[File:OrenthArial.svg|50x16px|link=Orenth|class=darkmodeinvert]]
+| width="12.5%" |[[File:PethArial.svg|50x16px|link=Peth|class=darkmodeinvert]]
+| width="12.5%" |[[File:QekArial.svg|50x16px|link=Qek|class=darkmodeinvert]]
+| width="12.5%" |[[File:ReshArial.svg|50x16px|link=Resh|class=darkmodeinvert]]
+| width="12.5%" |[[File:SenthArial.svg|50x16px|link=Senth|class=darkmodeinvert]]
+|- class="darkbackground1";
+| Nern
+| Nen
+| Osk
+| Orenth
+| Peth
+| Qek
+| Resh
+| Senth
+|}
+|-
+|
+{| align="center" style="width:100%; font-size:8px; text-align:center"
+| width="11.11%" |[[File:ShenArial.svg|50x16px|link=Sen|class=darkmodeinvert]]
+| width="11.11%" |[[File:TrillArial.svg|50x16px|link=Trill|class=darkmodeinvert]]
+| width="11.11%" |[[File:TheshArial.svg|50x16px|link=Thesh|class=darkmodeinvert]]
+| width="11.11%" |[[File:UskArial.svg|50x16px|link=Usk|class=darkmodeinvert]]
+| width="11.11%" |[[File:VevArial.svg|50x16px|link=Vev|class=darkmodeinvert]]
+| width="11.11%" |[[File:WeskArial.svg|50x16px|link=Wesk|class=darkmodeinvert]]
+| width="11.11%" |[[File:XeshArial.svg|50x16px|link=Xesh|class=darkmodeinvert]]
+| width="11.11%" |[[File:YirtArial.svg|50x16px|link=Yirt|class=darkmodeinvert]]
+| width="11.11%" |[[File:ZerekArial.svg|50x16px|link=Zerek|class=darkmodeinvert]]
+|- class="darkbackground1";
+| Sen
+| Trill
+| Thesh
+| Usk
+| Vev
+| Wesk
+| Xesh
+| Yirt
+| Zerek
+|}
+|}
+
+|}
+<div class="info-boxfooter plainlinks darkbackground1" style="text-align: center; border-radius: 0 0 10px 10px; background: #808080"><span class="hidable-button"></span>[[Template:CanonAurebesh|[Source]]]</div></div>
+<noinclude>__NOTOC__
+{{clear}}
+===Field list=== 
+*Infobox image
+*Letter name
+
+===Usage===
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>{{CanonAurebesh
+|image=
+|name=
+}}</nowiki></pre>
+[[Category:Aurebesh templates]]
+</noinclude>

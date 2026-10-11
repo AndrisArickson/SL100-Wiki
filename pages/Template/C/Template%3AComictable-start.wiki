@@ -1,0 +1,9 @@
+{|{{Prettytable}}
+! Issue||Title||Publication date{{#ifeq:{{{tpb|}}}|no||{{!!}}Trade paperback}}{{#if:{{{1|}}}|{{!!}}{{{1}}}}}{{#if:{{{2|}}}|{{!!}}{{{2}}}}}{{#if:{{{3|}}}|{{!!}}{{{3}}}}}
+|-<noinclude>
+|}
+
+==Usage==
+This template is used to create headers for comic tables. Unnamed parameters can be used to add additional columns for collections (up to three). Parameter {{Para|tpb|no}} can be used to hide default "Trade paperback" column.
+
+[[Category:Utility templates]]</noinclude>

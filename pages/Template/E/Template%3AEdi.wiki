@@ -1,0 +1,11 @@
+<span class="nb-edi">[[Special:EditPage/Template:{{{1}}}|{{{2|<nowiki>[edit]</nowiki>}}}]]</span><noinclude>{{Top|sprot}}[[Category:Utility templates|{{PAGENAME}}]]
+
+Based on the meta template: [[m:Template:edi]].
+
+==Example==
+===Code===
+<nowiki>{{edi|Battle}}</nowiki>
+
+===Result===
+{{edi|Battle}}
+</noinclude>

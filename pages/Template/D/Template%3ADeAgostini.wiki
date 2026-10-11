@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DeAgostini
+|image=[[File:DeAgostini-Logo.png|text-top|x16px|link=https://www.{{#if:{{#pos:{{{lang|}}}|uk}}{{{old|}}}|deagostini.{{{lang|co.uk}}}|planetadeagostini.{{{lang|es}}}}}]]
+|site_text=[[De Agostini]]'s [https://www.{{#if:{{#pos:{{{lang|}}}|uk}}{{#pos:{{{lang|}}}|us}}{{{old|}}}|deagostini.{{{lang|co.uk}}}|planetadeagostini.{{{lang|es}}}}} official website]
+|base_url=https://{{{subdomain|www}}}.{{#if:{{#pos:{{{lang|}}}|uk}}{{#pos:{{{lang|}}}|us}}{{{old|}}}{{{normal|}}}|deagostini.{{{lang|co.uk}}}|planetadeagostini.{{{lang|es}}}}}
+|target_url={{{url|}}}
+|lang={{#if:{{#pos:{{{lang|}}}|uk}}{{{old|}}}|uk|{{{lang|es}}}}}
+|use_lua_subpage=1
+|defunct_site={{{old|}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

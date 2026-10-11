@@ -1,0 +1,19 @@
+<includeonly>{{SAnom|{{lc:{{{1|}}}}}|status=Featured
+|template=FAN
+|image1=[[File:FA-Icon.svg|30px]]
+|image2=[[File:FA-Former.svg|30px]]
+}}</includeonly><noinclude>
+
+==Usage==
+Use this template to nominate an article for [[Wookieepedia:Featured articles|Featured Article (FA) status]]. To do so, place <code><nowiki>{{FAnom}}</nowiki></code> on the top of the article, save the page, and then follow the instructions displayed on the article. In the event the article has been nominated for FA status one or more times previously, you will need to add the number of the nomination as a parameter to the template (e.g. <code><nowiki>{{FAnom|second}}</nowiki></code>).
+
+The template can also automatically generate a corresponding index page upon nominating. To do so, use <code><nowiki>{{FAnom|index=1}}</nowiki></code> instead of simply <code><nowiki>{{FAnom}}</nowiki></code>.
+
+==See also==
+*{{Tl|GAnom}}, used to nominate an article for [[Wookieepedia:Good articles|Good Article status]]
+*{{Tl|CAnom}}, used to nominate an article for [[Wookieepedia:Comprehensive articles|Comprehensive Article status]]
+
+==Categorization==
+*[[:Category:Wookieepedia Featured article nominations]]
+
+[[Category:Status article templates]]</noinclude>

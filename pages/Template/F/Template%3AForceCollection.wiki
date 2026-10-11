@@ -1,0 +1,29 @@
+<includeonly>[[File:SW_Force_Collection.png|text-top|x16px|link=Star Wars: Force Collection]]&#32;''[[Star Wars: Force Collection]]'' {{#if:{{{parent|}}}||{{C|Card:{{#if:{{{star|}}}|{{#switch: {{{star|}}}
+|1=&#32;[https://starwars-force-collection.fandom.com/wiki/Complete_List_of_Cards#.E2.9C.AE_Cards {{{1}}}] (★)
+|2=&#32;[https://starwars-force-collection.fandom.com/wiki/Complete_List_of_Cards#.E2.9C.AE.E2.9C.AE_Cards {{{1}}}] (★★)
+|3=&#32;[https://starwars-force-collection.fandom.com/wiki/Complete_List_of_Cards#.E2.9C.AE.E2.9C.AE.E2.9C.AE_Cards {{{1}}}] (★★★)
+|4=&#32;[https://starwars-force-collection.fandom.com/wiki/Complete_List_of_Cards#.E2.9C.AE.E2.9C.AE.E2.9C.AE.E2.9C.AE_Cards {{{1}}}] (★★★★)
+|5=&#32;[https://starwars-force-collection.fandom.com/wiki/Complete_List_of_Cards#.E2.9C.AE.E2.9C.AE.E2.9C.AE.E2.9C.AE.E2.9C.AE_Cards {{{1}}}] (★★★★★)
+|S=&#32;[https://starwars-force-collection.fandom.com/wiki/Complete_List_of_Cards#Special_Cards {{{1}}}] (Special)
+}}|&#32;{{{1}}}}}}}}}{{#if:{{{parent|}}}{{{1|}}}||[[Category:Citation template usages without cardname]]}}</includeonly><noinclude>
+==Usage==
+<code><nowiki>{{ForceCollection|card name|star=number of stars}}</nowiki></code>
+
+Use this to cite cards from ''[[Star Wars: Force Collection]]''. The "star" parameter will generate the appropriate number (from 1 to 5) of stars. Using S will generate the word Special.
+
+==Examples==
+<code><nowiki>{{ForceCollection|Battle Droid: C-3PO}}</nowiki></code>
+
+{{ForceCollection|Battle Droid: C-3PO}}
+<hr />
+
+<code><nowiki>{{ForceCollection|Agen Kolar|star=2}}</nowiki></code>
+
+{{ForceCollection|Agen Kolar|star=2}}
+<hr />
+
+<code><nowiki>{{ForceCollection|Luke Skywalker|star=S}}</nowiki></code>
+
+{{ForceCollection|Luke Skywalker|star=S}}
+
+[[Category:Card game citation templates]]</noinclude>

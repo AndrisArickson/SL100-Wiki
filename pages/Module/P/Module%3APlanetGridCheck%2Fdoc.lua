@@ -1,0 +1,1 @@
+This module adds built-in categorization to our various astronomical object infoboxes based on their grid coordinate fields. It's embedded at the bottom of each infobox, and generates a category using the coordinate value.

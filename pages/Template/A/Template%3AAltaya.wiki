@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Altaya
+|image=[[File:Altaya-Logo.png|text-bottom|x18px|link=https://www.altaya.{{{lang|fr}}}]]
+|site_text=[[De Agostini|Altaya]]'s [https://www.altaya.{{{lang|fr}}} official website]
+|base_url=https://{{{subdomain|www}}}.altaya.{{{lang|fr}}}
+|target_url={{{url|}}}
+|lang={{{lang|fr}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

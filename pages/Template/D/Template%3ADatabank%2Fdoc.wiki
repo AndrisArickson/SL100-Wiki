@@ -1,0 +1,47 @@
+==Usage instructions==
+Copy the template code below, and paste it into an article's reference note or Sources section. Fill in as many parameters as you can, remove any that you don't use.
+
+<pre><nowiki>{{Databank|entry=|title=|url=|oldversion=|archivedate=|archiveurl=|archivefile=|nobackup=|quote=}}</nowiki></pre>
+
+Care must be taken to avoid an incorrect link.
+
+===Required parameters===
+*{{Para|entry}} The URL of the page, minus <code><nowiki>https://www.starwars.com/databank/</nowiki></code>.
+*{{Para|title}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Databank]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|url}} the /databank/ part of the URL can be overridden using use <code>|url=</code>, in cases where a Databank feature such as a biography or history gallery is located on the main domain.
+*{{Para|oldversion}} use <code>|oldversion=1</code> when the current version of the Databank entry no longer includes the target information.
+*{{Para|quote}} For including a quotation from the entry.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Databank|admiral-piett|Admiral Piett}}</nowiki></code>
+
+Results in:
+
+{{Databank|admiral-piett|Admiral Piett}}
+
+<hr />
+;Using {{Para|archivedate}} to override the archive repository
+
+<code><nowiki>{{Databank|admiral-piett|Admiral Piett|archivedate=20140807000324}}</nowiki></code>
+
+Results in:
+
+{{Databank|admiral-piett|Admiral Piett|archivedate=20140807000324}}
+<hr />
+
+;Using {{Para|url}}
+
+<code><nowiki>{{Databank|url=aayla-secura-biography-gallery|title=Aayla Secura Biography Gallery|archivedate=20190910060509}}</nowiki></code>
+
+Results in:
+
+{{Databank|url=aayla-secura-biography-gallery|title=Aayla Secura Biography Gallery|archivedate=20190910060509}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ClubPenguinYouTube
+|archive=YouTube
+|image=[[File:ClubPenguinYT-Logo.png|text-bottom|x18px|link=https://www.youtube.com/user/Clubpenguin]]
+|site_text=the official ''[[Club Penguin]]'' [https://www.youtube.com/user/Clubpenguin YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

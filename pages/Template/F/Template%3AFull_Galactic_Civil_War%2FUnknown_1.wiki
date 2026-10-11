@@ -1,0 +1,20 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''Unidentified placement<br />([[2 BBY/Legends|2]]&ndash;[[0 BBY/Legends|0 BBY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Destruction of Tondatha|Agamar]] · [[Siege of Ank Ki'Shor|Ank Ki'Shor]] · [[Humiliation of Barkhesh|Barkhesh]] · [[Mission in the Belassar system|Belassar]]<br />[[Battle of Bompreil|Bompreil]] · [[Raid above Bonadan|Bonadan]] · [[Pacification of Salline|Chandrila]] · [[Raid on Corellia|Corellia]] · [[Battle of Corrdair|Corrdair]]<br />[[Crackdown on Corsin|Corsin]] · [[Capture of the Death Star test unit|Death Star test unit]] · [[Battle of Denab|Denab]] · [[Battle on Doshan|Doshan]]<br />[[Mission to Druckenwell|Druckenwell]] · [[Battle of Vnas|Duro]] · [[Battle of Ebenmal|Ebenmal]] · [[Liberation of Gial Ackbar|Eriadu]] · [[Battle of Fendry|Fendry]]<br />[[Battle of Gendrah-Narvin|Gendrah-Narvin]] · [[Infiltration of Geonosis Imperial base|Geonosis (I)]] · [[Mission to Geonosis (Galactic Civil War)|Geonosis (II)]]<br />[[Raid above Ghorman|Ghorman]] · [[Mission to Goratak III|Goratak III]] · [[Attack on the Kashyyyk outpost|Kashyyyk]] · [[Rescue mission to Kessel|Kessel]] · [[Blitz on Kormoran|Kormoran]]<br />[[Attack on Kostra|Kostra]] · [[Mission to Kuat|Kuat]] · [[Loac Campaign|Loac]] · [[Rescue mission to Mytus VII|Mytus VII]] · [[Debacle on Ord Torrenze|Ord Torrenze]] · [[Mission to Quellor|Quellor]]<br />[[Last Stand at Refnar|Refnar]] · [[Defense of the Karinne|Ryloth (I)]] · [[Peacekeeping mission on Ryloth|Ryloth (II)]] · [[Mission to Selonia|Selonia]] · [[Solaest Uprising|Solaest]]<br />[[Battle of Tarawa|Tarawa]] · [[Attack on Tharkos|Tharkos]] · [[Battle of Ton-Falk|Ton-Falk]] · [[Tynquay Skirmishes|Tynquay]] · [[Vidicx Campaign|Vidicx]] · [[Skirmish over Ylesia|Ylesia]]'''
+</td></tr></onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Unknown 1]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

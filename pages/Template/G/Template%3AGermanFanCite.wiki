@@ -1,0 +1,22 @@
+{{#invoke:BaseCitation|main|template=GermanFanCite
+|mode=magazine
+|image=[[File:TOMlogo.png|baseline|x15px|link=Star Wars - Das offizielle Magazin]]
+|invert=true
+|series=Star Wars - Das offizielle Magazin
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+}}{{#ifeq:{{NAMESPACE}}||{{#switch:{{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+  |Database|Star Wars: The Acolyte: There Are Always Four &ndash; No More, No Less&hellip; = 
+  |{{PAGENAME}} =
+  |#default = [[Category:TOMCite usages with non-Database articles]]
+}}|}}<noinclude>
+
+==Usage==
+This template is to be used for ''[[Star Wars - Das offizielle Magazin]]'' with the following code:
+<code><nowiki>{{</nowiki>GermanFanCite|Issue|Department|Article}}</code>
+
+[[Category:Magazine citation templates]]</noinclude>

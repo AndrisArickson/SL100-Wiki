@@ -1,0 +1,12 @@
+[[:{{{email}}}|Email]] from {{{creator|}}}{{#if:{{{date|}}}|&#32; on {{#time:[[F j]], [[Y]]|{{{date}}}}}{{#if:{{#pos:{{{date}}}|-}}||[[Category:Email citations not using full date]]}}|}}{{#if:{{{quote|}}}|<small>: "{{{quote}}}"</small>}} &mdash; Used with permission<noinclude>
+
+==Usage==
+<pre>{{EmailCite|email=|creator=|date=}}</pre>
+
+==Example(s)==
+*{{EmailCite|email=Wookieepedia:Email/Jason Fry (3 December 2015)|creator=[[Jason Fry]]|date=2015-12-03}}
+*{{EmailCite|email=Wookieepedia:Email/Jason Fry (3 December 2015)|creator=[[Jason Fry]]|date=2015-12-03|quote=It's really a question for the show creative team....}}
+*{{EmailCite|email=File:DanielJoseOlderEmailBibs.png|creator=[[Daniel José Older]]|date=2023-11-27}}
+*{{EmailCite|email=File:DanielJoseOlderEmailBibs.png|creator=[[Daniel José Older]]|date=2023-11-27|quote=Ah that's sweet}}
+
+[[Category:External media citation templates]]</noinclude>

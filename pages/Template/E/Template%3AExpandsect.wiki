@@ -1,0 +1,5 @@
+<div class="noprint spoiler headerbackground" style="font-weight: bold">It is requested that this article section [[Special:Edit/{{NAMESPACE}}:{{PAGENAME}}|be expanded]]. ''Please improve it in any way that you see fit, and remove this notice once the article section is more complete.''</div><includeonly>{{SpecialCategorizer|[[Category:Articles to be expanded|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+==Categorization==
+*[[:Category:Articles to be expanded]]
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+{{#invoke:BaseCitation|main|template=BanthaCite
+|mode=magazine
+|image=[[File:BanthaCite.png|baseline|x12px|link=Bantha Tracks (newsletter)]]
+|series=Bantha Tracks
+|series2=Official Star Wars Fan Club
+|threshold=4
+|issue={{{1|{{{issue}}}}}}
+|child={{{article|{{{2}}}}}}
+|ctext={{#if:{{{article|}}}|{{{2|}}}|{{#if:{{{3|}}}|{{{3|}}}}}}}
+|nolink={{#if:{{{article|}}}|{{{nolink|}}}|1}}
+}}<noinclude>{{Documentation}}</noinclude>

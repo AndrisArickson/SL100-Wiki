@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars Rebels: Chopper Chase|''Star Wars Rebels: Chopper Chase''|''[[Star Wars Rebels: Chopper Chase]]''}} features [[Sabine Wren]] with [[Color|purple]] and orange [[hair]], placing it before the events of "[[The Lost Commanders]]," which ''[[Star Wars: Timelines]]'' dates to [[4 BBY]]. However, it must also be set after [[Ezra Bridger]] joins the [[Spectres]], an event dated to [[5 BBY]] by ''Timelines''.<noinclude>
+
+==Usage==
+<code><nowiki>{{ChopperChaseDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

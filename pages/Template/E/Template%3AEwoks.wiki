@@ -1,0 +1,13 @@
+{{#invoke:BaseCitation|main|template=Ewoks
+|mode=TV
+|image=[[File:Ewoks logo.png|text-top|x16px|link=Ewoks (television series)]]
+|series=Ewoks (television series)
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+ <nowiki>{{</nowiki>Ewoks|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+==Image==
+[[File:Ewoks logo.png|thumb|left|Not an orphan.]]
+[[Category:TV citation templates|Ewoks]]</noinclude>

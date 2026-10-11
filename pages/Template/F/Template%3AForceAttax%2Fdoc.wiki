@@ -1,0 +1,29 @@
+This template is to be used for citing sets and cards that are part of the ''[[Star Wars Force Attax]]'' series.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{ForceAttax|set=|cardname=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the card set. This will create a link, so it must match the name of the article (or future article for redlinks.)
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Topps]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|cardname}} Name of an individual card.
+*{{Para|link}} Full URL of an individual card's page on a website that displays its front and back, if available; for example, on [https://www.beckett.com Beckett] or [https://www.tcdb.com Trading Card Database].
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+===Single linked card with archive===
+<code><nowiki>{{ForceAttax|set=Star Wars Force Attax: The Force Awakens|cardname=Tokkat|link=https://www.tcdb.com/ViewCard.cfm/sid/122192/cid/8287758/2016-Topps-Force-Attax-Star-Wars-The-Force-Awakens-30-Tokkat}}</nowiki></code>
+
+Results in:
+
+{{ForceAttax|set=Star Wars Force Attax: The Force Awakens|cardname=Tokkat|link=https://www.tcdb.com/ViewCard.cfm/sid/122192/cid/8287758/2016-Topps-Force-Attax-Star-Wars-The-Force-Awakens-30-Tokkat}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Decipher
+|image=[[File:Decipher.jpg|text-bottom|x15px|link=Decipher]]
+|site_text=[[Decipher]]'s [http://www.decipher.com official website]
+|base_url=http://{{{subdomain|www}}}.decipher.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

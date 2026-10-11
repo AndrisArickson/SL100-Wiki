@@ -1,0 +1,32 @@
+<includeonly>{{#invoke:ArchiveAccess|main|
+|nobackup={{{nobackup|}}}
+|nobackup_text={{{nobackup_text|}}}
+|template_name={{{template_name|}}}
+|shared_site={{{shared_site|}}}
+|use_lua_subpage={{{use_lua_subpage|}}}
+|target={{{target|}}}
+|archivedate={{{archivedate|}}}
+|archiveurl={{{archiveurl|}}}
+|archivefile={{{archivefile|{{{file|}}}}}}<!--remove {{{file|}}} once all instances of {{file}} are replaced with {{archivefile}}-->
+|full_url={{{full_url|}}}
+|no_archive={{{no_archive|}}}
+|is_profile={{{is_profile|}}}
+|par={{{par|}}}
+|space={{{space|}}}
+|simple={{{simple|}}}
+|text={{{text|backup link}}}
+|nolive={{{nolive|}}}
+|nolive_text={{{nolive_text|}}}
+|citation_type={{#if:{{{social_media_citation|}}}|Social media citations|Pages}}
+|normal_size={{{normal_size|}}}
+|optional={{{optional|}}}
+}}{{#ifeq:{{NAMESPACE}}|Template|{{#ifeq:{{SUBPAGENAME}}|doc||{{#if:{{#pos:{{lc:{{PAGENAME}}}}|dates}}||{{#if:{{{use_lua_subpage|}}}
+  |{{#if:{{{no_archive|}}}
+     |[[Category:use_lua_subpage and no_archive]]
+     |
+  }}
+  |{{#if:{{{no_archive|}}}
+     |[[Category:Citation templates without archive subpages]]
+     |[[Category:Citation templates that do not use their Lua subpage]]
+   }}
+}}}}}}}}</includeonly><noinclude>{{Top|fprot|mprot}}{{Documentation}}</noinclude>

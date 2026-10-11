@@ -1,0 +1,27 @@
+==Instructions==
+This template is to be used for citing individual pages on [[HoloNet News/Legends|HoloNet News]]. As of [[October]] [[2013]], all HoloNet News links are completely inaccessible.
+
+At least some entries still exist on the [https://web.archive.org Internet Archive], which can be linked using the standard archive links. Please note that the last saved version for some entries are error pages, so you might have to dig through the timeline on Internet Archive in order to find a working revision.
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{Hnn|||text=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|issue}} Issue number, found in the URL immediately after <code><nowiki>http://www.holonetnews.com/</nowiki></code> and before the subsequent <code><nowiki>/</nowiki></code>. For example, it would be <mark>52</mark> as highlighted in the following URL: <code><nowiki>http://www.holonetnews.com/</nowiki></code><mark>52</mark>/regional/13418_2.html.
+*{{Para|url}} URL of the web page, minus the domain name and issue number (explained above). For example, it would be <mark>regional/13418_2.html</mark> as highlighted in the following URL: <code><nowiki>http://www.holonetnews.com/52/</nowiki></code><mark>regional/13418_2.html</mark>.
+*{{Para|text}} Title used on the web page being cited.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Hnn|52|regional/13418_2.html|Propaganda Prompts Rimma HoloNet Blackout}}</nowiki></code>
+
+Results in:
+
+{{Hnn|52|regional/13418_2.html|Propaganda Prompts Rimma HoloNet Blackout}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

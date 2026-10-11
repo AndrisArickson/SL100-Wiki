@@ -1,0 +1,46 @@
+This template is to be used for citing individual pages on [[Fantasy Flight Games]]' [http://www.fantasyflightgames.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{FantasyFlightGames|subdomain=|url=|text=|int=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.fantasyflightgames.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL. Default's to <code>www</code> if not specified.
+*{{Para|date}} Date the web page was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|int}} Name of the Wookieepedia article corresponding to the Fantasy Flight Games article being cited.
+*{{Para|nolive}} If the online web page is no longer available, use <code>|nolive=1</code>
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{FantasyFlightGames|url=en/news/2015/8/4/serve-the-empire|text=Serve the Empire|date=2015-08-04|archivedate=20190508222745}}</nowiki></code>
+
+Results in:
+
+{{FantasyFlightGames|url=en/news/2015/8/4/serve-the-empire|text=Serve the Empire|date=2015-08-04|archivedate=20190508222745}}
+
+<hr />
+;Using {{Para|int}}
+<code><nowiki>{{FantasyFlightGames|url=ffg_content/StarWarsRPG/edge-of-the-empire/beginner-game/Support/Bonus%20Adventure/High%20Rez/Character_Folio_Mathus_HR.pdf|text=Mathus' Character Folio|int=The Long Arm of the Hutt|archivedate=20160304013935}}</nowiki></code>
+
+Results in:
+
+{{FantasyFlightGames|url=ffg_content/StarWarsRPG/edge-of-the-empire/beginner-game/Support/Bonus%20Adventure/High%20Rez/Character_Folio_Mathus_HR.pdf|text=Mathus' Character Folio|int=The Long Arm of the Hutt|archivedate=20160304013935}}
+
+<hr />
+;Using {{Para|subdomain}}
+<code><nowiki>{{FantasyFlightGames|subdomain=images-cdn|url=filer_public/60/4a/604a75bf-acab-403a-8eb0-b18db337aadb/swfp01_character_folio_belandifeearr_lr.pdf|text=Belandi Feearr Character Folio}}</nowiki></code>
+
+Results in:
+
+{{FantasyFlightGames|subdomain=images-cdn|url=filer_public/60/4a/604a75bf-acab-403a-8eb0-b18db337aadb/swfp01_character_folio_belandifeearr_lr.pdf|text=Belandi Feearr Character Folio}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

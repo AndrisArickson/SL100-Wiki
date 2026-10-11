@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=GroguCutest
+|mode=TV
+|image=[[File:GroguCutestInTheGalaxy-Logo.png|text-top|x22px|link=Grogu Cutest In The Galaxy]]
+|series=Grogu Cutest In The Galaxy
+|child=Episode {{{1|1}}} (Grogu Cutest In The Galaxy)
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+ <nowiki>{{</nowiki>GroguCutest|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+
+[[Category:Web series citation templates]]</noinclude>

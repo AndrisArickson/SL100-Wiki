@@ -1,0 +1,92 @@
+{{#switch:{{{1|}}}
+  |#default = The events of [[Andor Season 1|''Andor'' Season 1]] begin with "[[Kassa (episode)|Kassa]]," which dates itself to [[5 BBY]]. The final episode "[[Rix Road (episode)|Rix Road]]" takes place immediately after "[[Daughter of Ferrix]]," "[[A Certain Point of View (department)|A Certain Point of View]]" in [[Star Wars Insider 220|''Star Wars Insider'' 220]] places "Daughter of Ferrix" five [[Standard year|years]] before {{Film|IV}}, which corresponds to 5 [['ABY-BBY' dating system|BBY]] per ''[[Star Wars: Timelines]]''. As the first and last episodes take place in 5 BBY, all episodes of ''Andor'' Season 1 must take place in this [[Standard year|year]].
+  |1 = The events of [[Andor Season 1|''Andor'' Season 1]] begin with "[[Kassa (episode)|Kassa]]," which dates itself to [[5 BBY]]. The final episode "[[Rix Road (episode)|Rix Road]]" takes place immediately after "[[Daughter of Ferrix]]," "[[A Certain Point of View (department)|A Certain Point of View]]" in [[Star Wars Insider 220|''Star Wars Insider'' 220]] places "Daughter of Ferrix" five [[Standard year|years]] before {{Film|IV}}, which corresponds to 5 [['ABY-BBY' dating system|BBY]] per ''[[Star Wars: Timelines]]''. As the first and last episodes take place in 5 BBY, all episodes of ''Andor'' Season 1 must take place in this [[Standard year|year]].
+  |4B = {{SW|url=news/andor-season-2-costume-design|text=Behind the Seams: The Costumes of Andor Season 2 - Updated}} dates the episodes [[One Year Later|1]]&ndash;[[Harvest|3]] of [[Andor Season 2|''Andor'' Season 2]] to [[4 BBY]].
+  |3B = {{SW|url=news/andor-season-2-costume-design|text=Behind the Seams: The Costumes of Andor Season 2 - Updated}} dates the episodes [[Ever Been to Ghorman?|4]]&ndash;[[What a Festive Evening|6]] of [[Andor Season 2|''Andor'' Season 2]] to [[3 BBY]].
+  |2B = {{SW|url=news/andor-season-2-costume-design|text=Behind the Seams: The Costumes of Andor Season 2 - Updated}} dates the episodes [[Messenger (episode)|7]]&ndash;[[Welcome to the Rebellion|9]] of [[Andor Season 2|''Andor'' Season 2]] to [[2 BBY]].
+  |1B = {{SW|url=news/andor-season-2-costume-design|text=Behind the Seams: The Costumes of Andor Season 2 - Updated}} dates the episodes [[Make It Stop|10]]&ndash;[[Jedha, Kyber, Erso|12]] of [[Andor Season 2|''Andor'' Season 2]] to [[1 BBY]].
+  |101 = {{Andor|Kassa (episode)}}{{#if: {{{2|}}}|," including {{{2}}},|"}} dates itself to [[5 BBY]].
+  |102|103|104|105|106|107 = ''[[Star Wars: Dawn of Rebellion: The Visual Guide]]'' dates the events of "[[{{#switch:{{{1|}}}
+    |102 = That Would Be Me
+    |103 = Reckoning (episode){{!}}Reckoning
+    |104 = Aldhani (episode){{!}}Aldhani
+    |105 = The Axe Forgets
+    |106 = The Eye
+    |107 = Announcement
+  }}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[5 BBY]].
+  |108 = {{SW|url=andor-s1-e8-trivia-gallery|text=Andor &#124; Season 1, Episode 8 - Trivia Gallery}} {{C|Slide 11}} dates "[[Narkina 5 (episode)|Narkina 5]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[5 BBY]].
+  |109 = "[[Nobody's Listening!]]{{#if: {{{2|}}}|," including {{{2}}},|"}} takes place immediately after "[[Narkina 5 (episode)|Narkina 5]]," which {{SW|url=andor-s1-e8-trivia-gallery|text=Andor &#124; Season 1, Episode 8 - Trivia Gallery}} {{C|Slide 11}} dates to [[5 BBY]].
+  |110 = {{Andor|Kassa (episode)}} dates itself to [[5 BBY]]. And "[[A Certain Point of View (department)|A Certain Point of View]]" in [[Star Wars Insider 220|''Star Wars Insider'' 220]] places "[[Daughter of Ferrix]]" five [[Standard year|years]] before {{Film|IV}}, which corresponds to [[5 BBY]] per ''[[Star Wars: Timelines]]''. As "[[One Way Out]]{{#if: {{{2|}}}|," including {{{2}}},|"}} takes place between "Kassa" and "Daughter of Ferrix", it must also take place in [[5 BBY]].
+  |111 = {{InsiderCite|220|A Certain Point of View (department)}} dates "[[Daughter of Ferrix]]{{#if: {{{2|}}}|," including {{{2}}},|"}} five [[Standard year|years]] before {{Film|IV}}, which corresponds to [[5 BBY]] per ''[[Star Wars: Timelines]]''.
+  |112 = "[[Rix Road (episode)|Rix Road]]{{#if: {{{2|}}}|," including {{{2}}},|"}} takes place immediately after "[[Daughter of Ferrix]]," "[[A Certain Point of View (department)|A Certain Point of View]]" in [[Star Wars Insider 220|''Star Wars Insider'' 220]] places "Daughter of Ferrix" five [[Standard year|years]] before {{Film|IV}}, which corresponds to [[5 BBY]] per ''[[Star Wars: Timelines]]''.
+  |201|204|207|210 ="{{#switch:{{{1|}}}|201=[[One Year Later]]|204=[[Ever Been to Ghorman?]]|207=[[Messenger (episode)|Messenger]]|210=[[Make It Stop]]}}{{#if: {{{2|}}}|," including {{{2}}},|"}} dates itself to {{#switch:{{{1|}}}|201=[[4 BBY]]|204=[[3 BBY]]|207=[[2 BBY]]|210=[[1 BBY]]}}.
+  |202|203|205|206|208|209|211|212 = {{SW|url=news/andor-season-2-costume-design|text=Behind the Seams: The Costumes of Andor Season 2 - Updated}} dates "{{#switch:{{{1|}}}|202=[[Sagrona Teema]]|203=[[Harvest]]|205=[[I Have Friends Everywhere]]|206=[[What a Festive Evening]]|208=[[Who Are You?]]|209=[[Welcome to the Rebellion]]|211=[[Who Else Knows?]]|212=[[Jedha, Kyber, Erso]]}}{{#if: {{{2|}}}|," including {{{2}}},|"}} to {{#switch:{{{1|}}}|202|203=[[4 BBY]]|205|206=[[3 BBY]]|208|209=[[2 BBY]]|211|212=[[1 BBY]]}}.
+}}<noinclude>[[Category:Canon television dating citation templates]]
+
+==Usage==
+<nowiki>{{AndorDate|episode|event (optional)}}</nowiki>, where the episode or season or arc uses the ID number (101 for "[[Kassa (episode)|Kassa]]," 205 for "[[I Have Friends Everywhere]]," etc).
+
+==Complete series dating==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|[[Andor Season 1|Season 1]]||<nowiki>{{AndorDate|1}}</nowiki>||[[5 BBY]]||{{AndorDate|1}}
+|-
+|[[Andor Season 2|Season 2]] first arc||<nowiki>{{AndorDate|4B}}</nowiki>||[[4 BBY]]||{{AndorDate|4B}}
+|-
+|[[Andor Season 2|Season 2]] second arc||<nowiki>{{AndorDate|3B}}</nowiki>||[[3 BBY]]||{{AndorDate|3B}}
+|-
+|[[Andor Season 2|Season 2]] third arc||<nowiki>{{AndorDate|2B}}</nowiki>||[[2 BBY]]||{{AndorDate|2B}}
+|-
+|[[Andor Season 2|Season 2]] fourth arc||<nowiki>{{AndorDate|1B}}</nowiki>||[[1 BBY]]||{{AndorDate|1B}}
+|-
+|"[[Kassa]]"||<nowiki>{{AndorDate|101}}</nowiki>||[[5 BBY]]||{{AndorDate|101}}
+|-
+|"[[That Would Be Me]]"||<nowiki>{{AndorDate|102}}</nowiki>||[[5 BBY]]||{{AndorDate|102}}
+|-
+|"[[Reckoning (episode)|Reckoning]]"||<nowiki>{{AndorDate|103}}</nowiki>||[[5 BBY]]||{{AndorDate|103}}
+|-
+|"[[Aldhani (episode)|Aldhani]]"||<nowiki>{{AndorDate|104}}</nowiki>||[[5 BBY]]||{{AndorDate|104}}
+|-
+|"[[The Axe Forgets]]"||<nowiki>{{AndorDate|105}}</nowiki>||[[5 BBY]]||{{AndorDate|105}}
+|-
+|"[[The Eye]]"||<nowiki>{{AndorDate|106}}</nowiki>||[[5 BBY]]||{{AndorDate|106}}
+|-
+|"[[Announcement]]"||<nowiki>{{AndorDate|107}}</nowiki>||[[5 BBY]]||{{AndorDate|107}}
+|-
+|"[[Narkina 5 (episode)|Narkina 5]]"||<nowiki>{{AndorDate|108}}</nowiki>||[[5 BBY]]||{{AndorDate|108}}
+|-
+|"[[Nobody's Listening!]]"||<nowiki>{{AndorDate|109}}</nowiki>||[[5 BBY]]||{{AndorDate|109}}
+|-
+|"[[One Way Out]]"||<nowiki>{{AndorDate|110}}</nowiki>||[[5 BBY]]||{{AndorDate|110}}
+|-
+|"[[Daughter of Ferrix]]"||<nowiki>{{AndorDate|111}}</nowiki>||[[5 BBY]]||{{AndorDate|111}}
+|-
+|"[[Rix Road (episode)|Rix Road]]"||<nowiki>{{AndorDate|112}}</nowiki>||[[5 BBY]]||{{AndorDate|112}}
+|-
+|"[[One Year Later]]"||<nowiki>{{AndorDate|201}}</nowiki>||[[4 BBY]]||{{AndorDate|201}}
+|-
+|"[[Sagrona Teema]]"||<nowiki>{{AndorDate|202}}</nowiki>||[[4 BBY]]||{{AndorDate|202}}
+|-
+|"[[Harvest]]"||<nowiki>{{AndorDate|203}}</nowiki>||[[4 BBY]]||{{AndorDate|203}}
+|-
+|"[[Ever Been to Ghorman?]]"||<nowiki>{{AndorDate|204}}</nowiki>||[[3 BBY]]||{{AndorDate|204}}
+|-
+|"[[I Have Friends Everywhere]]"||<nowiki>{{AndorDate|205}}</nowiki>||[[3 BBY]]||{{AndorDate|205}}
+|-
+|"[[What a Festive Evening]]"||<nowiki>{{AndorDate|206}}</nowiki>||[[3 BBY]]||{{AndorDate|206}}
+|-
+|"[[Messenger (episode)|Messenger]]"||<nowiki>{{AndorDate|207}}</nowiki>||[[2 BBY]]||{{AndorDate|207}}
+|-
+|"[[Who Are You?]]"||<nowiki>{{AndorDate|208}}</nowiki>||[[2 BBY]]||{{AndorDate|208}}
+|-
+|"[[Welcome to the Rebellion]]"||<nowiki>{{AndorDate|209}}</nowiki>||[[2 BBY]]||{{AndorDate|209}}
+|-
+|"[[Make It Stop]]"||<nowiki>{{AndorDate|210}}</nowiki>||[[1 BBY]]||{{AndorDate|210}}
+|-
+|"[[Who Else Knows?]]"||<nowiki>{{AndorDate|211}}</nowiki>||[[1 BBY]]||{{AndorDate|211}}
+|-
+|"[[Jedha, Kyber, Erso]]"||<nowiki>{{AndorDate|212}}</nowiki>||[[1 BBY]]||{{AndorDate|212}}
+|-
+|Default||<nowiki>{{AndorDate}}</nowiki>||[[5 BBY]]||{{AndorDate}}
+|}</noinclude>

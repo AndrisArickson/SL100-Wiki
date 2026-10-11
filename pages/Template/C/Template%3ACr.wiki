@@ -1,0 +1,24 @@
+[[File:AurebeshSans-Serif_credit.png|class=darkmodeinvert|link={{#if:{{{legends|}}}|Galactic Credit Standard/Legends|Credit}}|alt=credits]]<noinclude>
+
+__NOTOC__
+==Usage==
+Simply place the template inline where needed.
+
+The usage of the credits template is laid out in:
+*[[Wookieepedia:Layout Guide/In-universe#Infobox]] &mdash; regarding its usage in in-universe infoboxes
+*[[Wookieepedia:Manual of Style#Credits]] &mdash; regarding its usage in quotes, while limited from most aspects of prosified content
+:→<small>See [[Forum:CT:Standardizing the use of "Credits" in infoboxes]], [[Forum:CT:Standardizing the use of "Credits" in infoboxes, part 2]], [[Forum:CT:Credits template - MoS]]</small>
+
+{{Para|legends}} is optional. If provided and non-empty, it will link [[Galactic Credit Standard/Legends|Galactic Credit Standard]] (the Legends article); and otherwise, it will link [[Galactic Credit Standard]].
+
+==Example==
+===Code===
+<code><nowiki>"This speeder cost {{Cr}}5,000!"</nowiki></code>
+===Result===
+"This speeder cost {{Cr}}5,000!"
+
+==See also==
+*[[Template:Aur]]
+*[[Template:AurB]]
+[[Category:Aurebesh templates]]
+</noinclude>

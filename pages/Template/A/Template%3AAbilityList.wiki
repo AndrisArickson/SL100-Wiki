@@ -1,0 +1,27 @@
+<onlyinclude><!--
+	-->{{#if:{{{1|<noinclude>1</noinclude>}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{1|<noinclude>Grenade</noinclude>}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{2|<noinclude>1</noinclude>}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{2|<noinclude>Overcharge</noinclude>}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{3|<noinclude>1</noinclude>}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{3|<noinclude>Powercell</noinclude>}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{4|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{4|}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{5|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{5}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{6|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{6}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{7|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{7}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{8|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{8}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{9|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{9}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{10|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{10}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{11|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{11}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{12|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{12}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{13|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{13}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{14|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{14}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{15|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{15}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{16|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{16}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{17|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{17}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{18|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{18}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{19|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{19}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{20|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{20}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{21|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{21}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{22|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{22}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{23|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{23}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{24|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{24}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+	-->{{#if:{{{25|}}}|{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Abilities/{{{25}}}/data|heading=1|headingLevel=3|noHeadingBorder=1|width=500px|style=light|noRankText=1}}|}}<!--
+--></onlyinclude><noinclude>[[Category:Ability Templates for Star Wars: Uprising]]</noinclude>

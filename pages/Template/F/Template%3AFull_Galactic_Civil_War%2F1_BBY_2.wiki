@@ -1,0 +1,20 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[1 BBY/Legends|1 BBY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Anti-Sith conspiracy]] · [[Ambush on Dargulli|Dargulli]] · [[Mutiny on the Rand Ecliptic/Legends|''Rand Ecliptic'']]<br />[[Imperial convoy raid|Imperial convoy]] · [[Strike at an Incom Corporation facility|Incom Corp]] · [[Prison Break on Kashyyyk|Kashyyyk (I)]] · [[Skirmish on Carida|Carida]]<br />[[Battle at Jabiim|Jabiim]] · [[Battle at Atzerri|Atzerri (I)]] · [[Arrest over Atzerri|Atzerri (II)]] · [[Capture of Kalast]]<br />[[Mission to Coruscant (Rianna Saren)|Coruscant (I)]] · [[Mission to Alderaan (Rianna Saren)|Alderaan]] · [[Mission to Mustafar (Rianna Saren)|Mustafar]] · [[Mission to Tatooine (Rianna Saren)|Tatooine]]<br />[[Incident above Coruscant|Coruscant (II)]] · [[Raid at Spaceport THX1138|Earth]] · [[Skirmish at Geonosis|Geonosis]] · [[Battle of Hoth (1 BBY)|Hoth]]<br />[[Skirmish on Kashyyyk (Galactic Civil War)|Kashyyyk (II)]] · [[Skirmish over Naboo (Galactic Civil War)|Naboo]] · [[Uprising on Gerrard V|Gerrard V]]'''
+</td></tr></onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW 1 BBY 2]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

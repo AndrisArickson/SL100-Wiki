@@ -1,0 +1,7 @@
+==Usage==
+Place the following code on the page and replace the "EPISODE TITLE" with the appropriate episode name.
+ <nowiki>{{</nowiki>Acolyte|''EPISODE TITLE''|''FORMATTED TITLE'' (optional)}}
+
+This template is intended to be used to cite information from the ''[[Star Wars: The Acolyte]]'' television series and to list its episodes, such as in the Appearances sections of [[in-universe]] articles.
+
+<includeonly>[[Category:TV citation templates]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

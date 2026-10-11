@@ -1,0 +1,9 @@
+{{#if:{{{1|}}}|<span id="{{anchorencode:{{{1|}}}}}"></span>|}}{{#if:{{{2|}}}|<span id="{{anchorencode:{{{2|}}}}}"></span>|}}{{#if:{{{3|}}}|<span id="{{anchorencode:{{{3|}}}}}"></span>|}}{{#if:{{{4|}}}|<span id="{{anchorencode:{{{4|}}}}}"></span>|}}{{#if:{{{5|}}}|<span id="{{anchorencode:{{{5|}}}}}"></span>|}}{{#if:{{{6|}}}|<span id="{{anchorencode:{{{6|}}}}}"></span>|}}{{#if:{{{7|}}}|<span id="{{anchorencode:{{{7|}}}}}"></span>|}}{{#if:{{{8|}}}|<span id="{{anchorencode:{{{8|}}}}}"></span>|}}{{#if:{{{9|}}}|<span id="{{anchorencode:{{{9|}}}}}"></span>|}}{{#if:{{{10|}}}|<span id="{{anchorencode:{{{10|}}}}}"></span>|}}{{#if:{{{11|}}}|<span class="error">[[Template:Anchor]] (or Anchors): too many anchors, maximum is 10.</span>|}}<noinclude>
+
+==Usage==
+<code><nowiki>{{Anchor|foo|bar|baz|...up to 10 anchors}}</nowiki></code>
+
+Supports up to 10 anchors in a single call of the template. Attempting to specify more than 10 anchors in a single call will result in a very obvious error message, so don't do it.
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

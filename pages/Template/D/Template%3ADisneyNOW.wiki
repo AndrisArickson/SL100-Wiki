@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyNOW
+|image=[[File:DisneyNOW-icon.png|text-top|x16px|link=https://www.disneynow.com]]
+|site_text=[https://www.disneynow.com DisneyNOW]
+|base_url=https://www.disneynow.{{{domain|com}}}
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

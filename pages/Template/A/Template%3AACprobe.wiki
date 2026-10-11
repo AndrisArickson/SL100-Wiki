@@ -1,0 +1,26 @@
+<noinclude>*</noinclude>[[{{#if:{{{newpage|}}}|{{{newpage}}}|{{{1}}}}}|{{{1}}}]] <small>([[Special:Diff/{{{2}}}/cur|diff]]{{#if:{{{diff2|}}}|&#32;&bull; [[Special:Diff/{{{2}}}/cur|diff since initial probe]]|}} &bull; [[Wookieepedia:AC/{{{1}}}{{#if:{{{3|}}}|&#32;({{{3}}} review)|}}|review]])</small>{{#if:{{{c|}}}|&#32;&mdash;&#32;{{{c}}}|}}<noinclude>
+
+==Usage==
+<code><nowiki>{{ACprobe|article name|oldid of the probe revision|number of review (optional)|c=comment (optional)}}</nowiki></code>
+<hr />
+The article [[Kolto/Legends|Kolto]] was probed, and the revision of the probe was 3373126. The article has not been reviewed in the past.
+
+<code><nowiki>{{ACprobe|Kolto|3373126}}</nowiki></code>
+
+{{ACprobe|Kolto|3373126}}
+<hr />
+The article [[Valenthyne Farfalla]] was probed, and the revision of the probe was 3348971. The article had been probed once in the past, so this is the second review.
+
+<code><nowiki>{{ACprobe|Valenthyne Farfalla|3348971|second}}</nowiki></code>
+
+{{ACprobe|Valenthyne Farfalla|3348971|second}}
+<hr />
+A fourth parameter, for comments, can also be used: 
+
+<code><nowiki>{{ACprobe|Valenthyne Farfalla|3348971|second|c=Nothing has been done}}</nowiki></code>
+
+{{ACprobe|Valenthyne Farfalla|3348971|second|c=Nothing has been done}}
+
+The "newpage" parameter is used to define the new page name of an article while preserving the old name for the rest of the template.
+
+[[Category:Wookieepedia AgriCorps templates|{{PAGENAME}}]]</noinclude>

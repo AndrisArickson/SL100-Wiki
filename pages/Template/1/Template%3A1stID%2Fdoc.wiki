@@ -1,0 +1,25 @@
+This template is to be used to denote the first time an article's subject is identified under a specific name or identity.
+
+==Usage==
+Add this template next to a source in which the article subject is first identified under the provided name.
+<code><nowiki>{{1stID|name|simult}}</nowiki></code>
+
+===Required parameters===
+*{{Para||name}} - The name under which the subject is first identified in the source.
+
+===Optional parameters===
+*{{Para||simult}} - Any source that simultaneously first identifies the subject under the same name as another source. Used by itself as {{Para|simult}}.
+
+==Example(s)==
+===Standard===
+<code><nowiki>{{1stID|Hypori campaign}}</nowiki></code>
+
+{{1stID|Hypori campaign}}
+
+===Using {{Para||simult}}===
+<code><nowiki>{{1stID|navigation buoy|''[[Catalyst: A Rogue One Novel]]''}}</nowiki></code>
+
+{{1stID|navigation buoy|''[[Catalyst: A Rogue One Novel]]''}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:First-notation appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

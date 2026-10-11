@@ -1,0 +1,13 @@
+{{Iumb
+| id = Citation
+| bg = #7BB0D8
+| image = [[File:Leia holo.png|130px]]
+| caption = Help me, {{USERNAME|Obi-Wan Kenobi}}. You're my only hope.
+| message = This article is in need of referencing per Wookieepedia's [[Wookieepedia:Sourcing|sourcing]] guidelines.
+| comment = This article needs appropriate citations. Help us [[Special:EditPage/{{NAMESPACE}}:{{PAGENAME}}|improve]] this article by referencing valid resource material. Remove this notice when finished.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles needing citation|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>
+{{Top|fprot}}
+
+==Categorization==
+*[[:Category:Articles needing citation]]
+[[Category:Verification templates|{{PAGENAME}}]]</noinclude>

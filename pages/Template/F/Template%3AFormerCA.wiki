@@ -1,0 +1,11 @@
+{{Ooumb
+| id = FormerCA
+| bg = #f9f9f9
+| image = [[File:CA-Former.svg|30px]]
+| message = '''{{BASEPAGENAME}}''' is a former [[Wookieepedia:Comprehensive articles|Comprehensive article]].  Please see '''[[Wookieepedia:EC/{{{1|{{PAGENAME}}}}}|this article's entry]]''' on the [[Wookieepedia:EduCorps|EduCorps]] page for the reasons it was removed.
+}}<noinclude>
+==Usage==
+<code><nowiki>{{FormerGA|review page name}}</nowiki></code>
+
+Any subsequent reviews necessitate passing the review page as a parameter in the template. /Legends review pages are also handled by the template.
+[[Category:Status article talk page templates]]</noinclude>

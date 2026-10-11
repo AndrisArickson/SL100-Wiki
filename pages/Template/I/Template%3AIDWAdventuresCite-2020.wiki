@@ -1,0 +1,7 @@
+<includeonly><span class="invert-images">[[File:IDWAdventures2020LogoSmaller.png|baseline|x8px|link=Star Wars Adventures (2020)]]</span>&#32;"{{HideParanthetical|{{{2|{{{story|}}}}}}|{{{3|{{{stext|}}}}}}}}"&#32;&mdash;&#32;{{#if:{{{issue1|}}}
+  |[[Star Wars Adventures (2020) {{{issue1}}}|''Star Wars Adventures'' (2020) {{{issue1}}}]]&ndash;[[Star Wars Adventures (2020) {{{issue2}}}|{{{issue2}}}]]
+  |{{#if:{{{annual|}}}
+    |[[Star Wars Adventures Annual {{{annual}}}|''Star Wars Adventures Annual'' {{{annual}}}]]
+    |[[Star Wars Adventures (2020) {{{1|{{{issue|}}}}}}|''Star Wars Adventures'' (2020) {{{1|{{{issue|}}}}}}]]
+  }}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Ameet
+|image=[[File:Ameet-Logo.png|text-top|x16px|link=https://www.ameet.eu]]
+|site_text=[[AMEET]]'s [https://www.ameet.eu official website]
+|base_url=https://{{{subdomain|www}}}.ameet.{{{domain|eu}}}
+|target_url={{{url|}}}
+|defunct_site=1
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

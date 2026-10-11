@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Faraway
+|image=[[File:Faraway-Press-icon.png|text-top|x18px|link=https://farawaypress.com]]
+|site_text=[https://www.farawaypress.com Faraway Press: The Online Home of John Jackson Miller]
+|base_url=https://{{{subdomain|www}}}.farawaypress.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,28 @@
+<includeonly>{{#if: {{{1|}}}|
+{{#ifeq:{{{1|}}}|annual1
+  |The events of [[Doctor Aphra Annual 1|''Doctor Aphra Annual'' 1]] are set shortly before the events of [[Doctor Aphra (2016) 9|''Doctor Aphra'' (2016) 9]], which ''[[Star Wars: Timelines]]'' places around [[1 ABY]]. Therefore, the events of ''Doctor Aphra Annual'' 1{{#if:{{{2|}}}|, including {{{2}}},}} must be set around that [[Standard year|year]].
+  |{{#ifeq:{{{1|}}}|annual2
+    |The events of [[Doctor Aphra Annual 2|''Doctor Aphra Annual'' 2]]{{#if:{{{2|}}}|, including {{{2}}},}} are dated to around [[1 ABY]] by ''[[Star Wars: Timelines]]''.
+    |{{#ifeq:{{{1|}}}|annual3
+      |The events of [[Doctor Aphra Annual 3|''Doctor Aphra Annual'' 3]]{{#if:{{{2|}}}|, including {{{2}}},}} are dated to [[3 ABY]] by ''[[Star Wars: Timelines]]''.
+      |{{#ifeq:{{{1|}}}|epilogue
+        |The events of "[[Epilogue]]"{{#if:{{{2|}}}|, including {{{2}}},}} are dated to [[3 ABY]] by ''[[Star Wars: Timelines]]''.
+        |{{#ifexpr: {{{1|}}} <= 8
+          |The events of [[Doctor Aphra (2016) 1|issues 1]] to [[Doctor Aphra (2016) 8|8]] of the [[Star Wars: Doctor Aphra (2016)|''Star Wars: Doctor Aphra'']] [[Star Wars comic books|comic-book series]] take place after the [[Battle of Yavin]], which marks the beginning of [[0 ABY]], according to ''[[Star Wars: Timelines]]''. Additionally, issue 8 is part of the ''[[Star Wars: The Screaming Citadel]]'' crossover arc, which is placed chronologically before the [[mutiny on Mon Cala]]. ''[[Star Wars: Battles that Changed the Galaxy]]'' dates the mutiny on [[Mon Cala]] to nineteen [[Standard year|years]] after the [[Proclamation of the New Order|formation]] of the [[Galactic Empire]], which ''Timelines'' dates to [[19 BBY]]. Therefore, the events of ''Doctor Aphra'' {{{1|}}}{{#if:{{{2|}}}|, including {{{2}}},}} must be set in 0 [['ABY-BBY' dating system|ABY]].
+          |{{#ifexpr: {{{1|}}} <= 31
+            |''[[Star Wars: Timelines]]'' dates the events of [[Doctor Aphra (2016) 9|issues 9]] to [[Doctor Aphra (2016) 31|31]] of the [[Star Wars: Doctor Aphra (2016)|''Star Wars: Doctor Aphra'']] [[Star Wars comic books|comic-book series]] to around [[1 ABY]]. Therefore [[Doctor Aphra (2016) {{{1}}}|''Doctor Aphra'' {{{1}}}]]{{#if:{{{2|}}}|, including {{{2}}},}} must take place around 1 [['ABY-BBY' dating system|ABY]].
+            |{{#ifexpr: {{{1|}}} <= 36
+              |''[[Star Wars: Timelines]]'' dates the events of [[Doctor Aphra (2016) 32|issues 32]] to [[Doctor Aphra (2016) 36|36]] of the [[Star Wars: Doctor Aphra (2016)|''Star Wars: Doctor Aphra'']] [[Star Wars comic books|comic-book series]] to around [[2 ABY]]. Therefore [[Doctor Aphra (2016) {{{1}}}|''Doctor Aphra'' {{{1}}}]]{{#if:{{{2|}}}|, including {{{2}}},}} must take place around 2 [['ABY-BBY' dating system|ABY]].
+              |{{#ifexpr: {{{1|}}} <= 38
+                |The events of [[Doctor Aphra (2016) 37|''Doctor Aphra'' (2016) 37]] and [[Doctor Aphra (2016) 38|''Doctor Aphra'' (2016) 38]] take place immediately before [[Doctor Aphra (2016) 39|''Doctor Aphra'' (2016) 39]], where it is established that [[Echo Base]] had been constructed on [[Hoth]]. ''[[Star Wars: Timelines]]'' states that Echo Base was constructed in [[3 ABY]] and places the base's destruction at the [[Battle of Hoth]] in the same [[Standard year|year]], meaning that the events of ''Doctor Aphra'' {{{1|}}}{{#if:{{{2|}}}|, including {{{2}}},}} are set in 3 [['ABY-BBY' dating system|ABY]].
+                |In [[Doctor Aphra (2016) {{{1|}}}|''Doctor Aphra'' (2016) {{{1|}}}]] it is established that the [[Echo Base]] has been constructed on [[Hoth]]. ''[[Star Wars: Timelines]]'' states that Echo Base was constructed in [[3 ABY]] and places the base's destruction at the [[Battle of Hoth]] in the same [[Standard year|year]], meaning that the events of ''Doctor Aphra'' {{{1|}}}{{#if:{{{2|}}}|, including {{{2}}},}} are set in 3 [['ABY-BBY' dating system|ABY]].
+              }}
+            }}
+          }}
+        }}
+      }}
+    }}
+  }}
+}}
+|{{#switch:{{FULLPAGENAME}}|Template:Aphra2016Date|#default=<span style="font-size: 1.5em; color: red">Template error: No valid issue number passed into <nowiki>{{Aphra2016Date}}</nowiki>. See [[Template:Aphra2016Date|this page]] for instructions on how to properly use the template.</span> [[Category:Invalid Aphra2016Date parameter arguments]]}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

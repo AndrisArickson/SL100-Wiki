@@ -1,0 +1,99 @@
+==Instructions==
+Linking to an old Holonet article:
+:<pre><nowiki>{{HolonetOld|category|subject|text|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></pre>
+
+===Required parameters===
+*{{Para|category}} found in the URL immediately after <code><nowiki>https://www.swtor.com/holonet/</nowiki></code> and before the subsequent <code><nowiki>/</nowiki></code>. For example, it would be <mark>allegiances</mark> as highlighted in the following URL: <code><nowiki>https://www.swtor.com/holonet/</nowiki></code><mark>allegiances</mark>/galactic-republic.
+*{{Para|subject}} found in the last part of the URL after <code><nowiki>https://www.swtor.com/holonet/[category]/</nowiki></code>. For example, it would be <mark>galactic-republic</mark> as highlighted in the following URL: <code><nowiki>https://www.swtor.com/holonet/allegiances/</nowiki></code><mark>galactic-republic</mark>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/Holonet]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Backup links===
+{{BackupLinkHelp|Holonet}}
+
+==Example(s)==
+<code><nowiki>{{HolonetOld|allegiances|sith-empire|The Sith Empire}}</nowiki></code>
+
+Results in:
+
+{{HolonetOld|allegiances|sith-empire|The Sith Empire}}
+
+==Old Holonet entries==
+Here is a list of the old Holonet entries, organized by the date they were released:
+{{ScrollBox
+|content=
+*{{HolonetOld|allegiances|galactic-republic|The Galactic Republic}} <!-- 10/28/08 -->
+*{{HolonetOld|allegiances|sith-empire|The Sith Empire}} <!-- 10/28/08 -->
+*{{HolonetOld|planets|tython|Tython}} <!-- 4/10/09 -->
+*{{HolonetOld|planets|hutta|Hutta}} <!-- 4/10/09 -->
+*{{HolonetOld|planets|ord-mantell|Ord Mantell}} <!-- 4/10/09 -->
+*{{HolonetOld|planets|korriban|Korriban}} <!-- 4/10/09 -->
+*{{HolonetOld|classes|trooper|Trooper}} <!-- 5/29/09 -->
+*{{HolonetOld|classes|bounty-hunter|Bounty Hunter}} <!-- 5/29/09 -->
+*{{HolonetOld|allegiances|jedi-order|Jedi Order}} <!-- 6/12/09 -->
+*{{HolonetOld|allegiances|sith-lords|The Sith Lords}} <!-- 6/12/09 -->
+*{{HolonetOld|classes|smuggler|Smuggler}} <!-- 6/15/09 -->
+*{{HolonetOld|classes|sith-warrior|Sith Warrior}} <!-- 8/30/09 -->
+*{{HolonetOld|planets|coruscant|Coruscant}} <!-- 9/18/09 -->
+*{{HolonetOld|planets|balmorra|Balmorra}} <!-- 10/16/09 -->
+*{{HolonetOld|classes|jedi-knight|Jedi Knight}} <!-- 10/31/09 -->
+*{{HolonetOld|classes|imperial-agent|Imperial Agent}} <!-- 11/6/09 -->
+*{{HolonetOld|planets|alderaan|Alderaan}} <!-- 11/27/09-->
+*{{HolonetOld|classes|jedi-consular|Jedi Consular}} <!-- 12/4/09 -->
+*{{HolonetOld|classes|sith-inquisitor|Sith Inquisitor}} <!-- 12/4/09 -->
+*{{HolonetOld|planets|tatooine|Tatooine}} <!-- 12/18/09 -->
+*{{HolonetOld|planets|dromund-kaas|Dromund Kaas}} <!-- 1/8/10 -->
+*{{HolonetOld|planets|taris|Taris}} <!-- 2/12/10 -->
+*{{HolonetOld|planets|belsavis|Belsavis}} <!-- 3/12/10 -->
+*{{HolonetOld|biographies|grand-moff-kilran|Grand Moff Kilran}} <!-- 3/26/10 -->
+*{{HolonetOld|biographies|jedi-grand-master-satele-shan|Grand Master Satele Shan}} <!-- 3/26/10 -->
+*{{HolonetOld|biographies|nemro-hutt|Nem'ro the Hutt}} <!-- 3/26/10/ -->
+*{{HolonetOld|planets|voss|Voss}} <!-- 4/9/10 -->
+*{{HolonetOld|biographies|darth-malgus|Darth Malgus}} <!-- 4/30/10 -->
+*{{HolonetOld|biographies|general-garza|General Garza}} <!-- 4/30/10 -->
+*{{HolonetOld|biographies|mandalore|Mandalore}} <!-- 4/30/10 -->
+*{{HolonetOld|inhabitants|x2-c3-imperial-astromech|X2-C3 Imperial astromech}} <!-- 4/30/10 -->
+*{{HolonetOld|inhabitants|ar-34-enforcer-droid-aka-&#8220;backbreaker&#8221;|AR-34 Enforcer Droid}} <!-- 4/30/10 -->
+*{{HolonetOld|inhabitants|salky-hound|Salky hound}} <!-- 4/30/10 -->
+*{{HolonetOld|inhabitants|gormak|Gormak}} <!-- 4/30/10 -->
+*{{HolonetOld|inhabitants|trandoshan|Trandoshan}} <!-- 4/30/10 -->
+*{{HolonetOld|inhabitants|gundark|Gundark}} <!-- 4/30/10 -->
+*{{HolonetOld|planets|hoth|Hoth}} <!-- 5/21/10 -->
+*{{HolonetOld|biographies|vette|Vette}} <!-- 5/21/10 -->
+*{{HolonetOld|planets|nar-shaddaa|Nar Shaddaa}} <!-- 7/30/10 -->
+*{{HolonetOld|inhabitants|miraluka|Miraluka}} <!-- 8/13/10 -->
+*{{HolonetOld|biographies|t7-o1|T7-O1}} <!-- 8/13/10 -->
+*{{HolonetOld|starships|defender|Defender}} <!-- 8/20/10 -->
+*{{HolonetOld|planets|corellia|Corellia}} <!-- 9/10/10 -->
+*{{HolonetOld|biographies|bowdaar|Bowdaar}} <!-- 9/24/10 -->
+*{{HolonetOld|inhabitants|twilek|Twi'lek}} <!-- 9/24/10 -->
+*{{HolonetOld|starships|xs-freighter|XS Freighter}} <!-- 9/24/10 -->
+*{{HolonetOld|planets|ilum|Ilum}} <!-- 10/8/10 -->
+*{{HolonetOld|classes|jedi-knight|Jedi Knight}} <!-- 10/15/10 -->
+*{{HolonetOld|biographies|keeper|Keeper}} <!-- 10/22/10 -->
+*{{HolonetOld|biographies|diab-duin|Diab Duin}} <!-- 10/22/10 -->
+*{{HolonetOld|biographies|bouris-ulgo|Bouris Ulgo}} <!-- 10/22/10 -->
+*{{HolonetOld|inhabitants|chiss|Chiss}} <!-- 10/29/10 -->
+*{{HolonetOld|starships|x-70b-phantom|X-70B Phantom}} <!-- 10/29/10 -->
+*{{HolonetOld|inhabitants|sith-pureblood|Sith Pureblood}} <!-- 11/26/10 -->
+*{{HolonetOld|inhabitants|vine-cat|Vine Cat}} <!-- 11/26/10 -->
+*{{HolonetOld|inhabitants|m3-m1-medical-droid|M3-M1 Medical Droid}} <!-- 11/26/10 -->
+*{{HolonetOld|inhabitants|s3-f5-inclement-condition-probe|S3-F5 Inclement Condition Probe}} <!-- 11/26/10 -->
+*{{HolonetOld|inhabitants|terentatek|Terentatek}} <!-- 11/26/10 -->
+*{{HolonetOld|biographies|tanno-vik|Tanno Vik}} <!-- 12/24/10-->
+*{{HolonetOld|starships|bt-7-thunderclap|BT-7 Thunderclap}} <!-- 12/24/10 -->
+*{{HolonetOld|inhabitants|zabrak|Zabrak}} <!-- 12/24/10 --> 
+*{{HolonetOld|biographies|supreme-chancellor-janarus|Supreme Chancellor Janarus}} <!-- 1/7/11 -->
+*{{HolonetOld|biographies|darth-jadus|Darth Jadus}} <!-- 1/7/11 -->
+*{{HolonetOld|biographies|jewla-nightbringer|Jewl'a Nightbringer}} <!-- 1/7/11 -->
+*{{HolonetOld|planets|quesh|Quesh}} <!-- 1/21/11 -->
+*{{HolonetOld|biographies|mako|Mako}} <!-- 3/4/11 -->
+*{{HolonetOld|inhabitants|rattataki|Rattataki}} <!-- 3/4/11 -->
+*{{HolonetOld|starships|d5-mantis|D5-Mantis}} <!-- 3/4/11 -->
+*{{HolonetOld|biographies|khem-val|Khem Val}} <!-- 5/13/11 -->
+*{{HolonetOld|starships|fury|Fury}} <!-- 5/13/11 -->
+*{{HolonetOld|inhabitants|mirialan|Mirialan}} <!-- August 2011 -->
+}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

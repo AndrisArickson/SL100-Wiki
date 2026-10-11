@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Hardie Grant Publishing]]'s [www.hardiegrant.com/au/publishing official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Hardie|url=au/publishing/bookfinder/book/|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>http://www.hardiegrant.com/au/publishing/bookfinder/book/</nowiki></code>).
+*'''text''': Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Hardie|url=au/publishing/bookfinder/book/the-high-republic_-midnight-horizon-by-daniel-jos_-older/9781761210013|text=The High Republic: Midnight Horizon}}</nowiki></code>
+
+Results in:
+
+{{Hardie|url=au/publishing/bookfinder/book/the-high-republic_-midnight-horizon-by-daniel-jos_-older/9781761210013|text=The High Republic: Midnight Horizon}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

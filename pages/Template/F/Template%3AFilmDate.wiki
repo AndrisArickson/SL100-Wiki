@@ -1,0 +1,55 @@
+{{#switch: {{{1|}}}
+|1|I
+|2|II
+|3|III
+|5|V
+|6|VI
+|7|VII
+|8|VIII
+|9|IX
+|RO
+|Solo=''[[Star Wars: Timelines]]'' dates the events of {{#switch: {{{1}}}|1|I={{Film|I}}|2|II={{Film|II}}|3|III={{Film|III}}||5|V={{Film|V}}|6|VI={{Film|VI}}|7|VII={{Film|VII}}|8|VIII={{Film|VIII}}|9|IX={{Film|IX}}|RO=''[[Rogue One: A Star Wars Story]]''|Solo=''[[Solo: A Star Wars Story]]''}}{{#if: {{{2|}}}|, including {{{2}}},|}} to {{#switch: {{{1}}}|1|I=[[32 BBY]]|2|II=[[22 BBY]]|3|III=[[19 BBY]]||5|V=[[3 ABY]]|6|VI=[[4 ABY]]|7|VII=[[34 ABY]]|8|VIII=[[34 ABY]]|9|IX=[[35 ABY]]|RO=[[1 BBY]]|Solo=[[10 BBY]]}}.
+|4|IV=''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates the {{#switch: {{{2}}}|1|1 BBY=events set prior to the [[Battle of Yavin]] in {{Film|IV}}{{#if: {{{3|}}}|, including {{{3}}},|}} to [[1 BBY]]|0=[[Battle of Yavin]]{{#if: {{{3|}}}|, including {{{3}}},|}} to "0" in [['ABY-BBY' dating system]]|0 ABY=[[Royal Award Ceremony]] to [[0 ABY]]|events set prior to the [[Battle of Yavin]] in {{Film|IV}} to [[1 BBY]], Battle of [[Yavin 4|Yavin]] to "0," and the [[Royal Award Ceremony]] to [[0 ABY]] respectively}}.
+|Starfighter={{SW|url=news/star-wars-starfighter|text=Director Shawn Levy's ''Star Wars: Starfighter'' Film Starts Production This Fall}} dates the events of ''[[Star Wars: Starfighter]]'' to approximately five [[Standard year|years]] after ''[[Star Wars: Episode IX The Rise of Skywalker]]'', which is dated to [[35 ABY]] per ''[[Star Wars: Timelines]]''. Therefore, ''Star Wars: Starfighter''{{#if: {{{2|}}}|, including {{{2}}},|}} must take place around [[40 ABY]].
+|#default  = {{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Invalid Film parameter arguments]]|}}
+}}<noinclude>
+
+==Usage==
+<nowiki>{{FilmDate|number}}</nowiki>, where ''number'' is either a Roman numeral I-IX or a number 1-9. There is no difference between using a Roman numeral such as IV or its Arabic numeral equivalent 4. {{Para|number|}} can also be "Solo" or "Rogue One" exactly as in those quotes.
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}}
+!Code !! Result
+|-
+|<pre><nowiki>{{FilmDate|I}}</nowiki></pre>||{{FilmDate|I}}
+|-
+|<pre><nowiki>{{FilmDate|II}}</nowiki></pre>||{{FilmDate|II}}
+|-
+|<pre><nowiki>{{FilmDate|III}}</nowiki></pre>||{{FilmDate|III}}
+|-
+|<pre><nowiki>{{FilmDate|IV}}</nowiki></pre>||{{FilmDate|IV}}
+|-
+|<pre><nowiki>{{FilmDate|IV|1}}</nowiki></pre>||{{FilmDate|IV|1}}
+|-
+|<pre><nowiki>{{FilmDate|IV|0}}</nowiki></pre>||{{FilmDate|IV|0}}
+|-
+|<pre><nowiki>{{FilmDate|IV|0 ABY}}</nowiki></pre>||{{FilmDate|IV|0 ABY}}
+|-
+|<pre><nowiki>{{FilmDate|V}}</nowiki></pre>||{{FilmDate|V}}
+|-
+|<pre><nowiki>{{FilmDate|VI}}</nowiki></pre>||{{FilmDate|VI}}
+|-
+|<pre><nowiki>{{FilmDate|VII}}</nowiki></pre>||{{FilmDate|VII}}
+|-
+|<pre><nowiki>{{FilmDate|VIII}}</nowiki></pre>||{{FilmDate|VIII}}
+|-
+|<pre><nowiki>{{FilmDate|IX}}</nowiki></pre>||{{FilmDate|IX}}
+|-
+|<pre><nowiki>{{FilmDate|RO}}</nowiki></pre>||{{FilmDate|RO}}
+|-
+|<pre><nowiki>{{FilmDate|Solo}}</nowiki></pre>||{{FilmDate|Solo}}
+|-
+|<pre><nowiki>{{FilmDate|Starfighter}}</nowiki></pre>||{{FilmDate|Starfighter}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

@@ -1,0 +1,13 @@
+==Usage==
+<nowiki>{{</nowiki>DarkStryder|adventure=ADVENTURE NAME|book=BOOK NAME|reprint=yes (Appearances only, leave blank for reference citation)}}
+
+Place the code on the page and replace the following:
+:ADVENTURE NAME = specific RPG module from ''The DarkStryder Campaign''
+:BOOK NAME = specific supplement from ''The DarkStryder Campaign''
+:REPRINT = only to be used in Appearances section to indicate that the subject also appeared/was mentioned in the collected edition ''The DarkStryder Campaign, Deluxe''. Enter "reprint=yes" to the "reprint" field to add {{C|Reprinted and collected in ''[[The DarkStryder Campaign, Deluxe]]''}}. Not to be used in reference citations; leave field blank if used for references.
+
+<nowiki>{{</nowiki>DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign|reprint=yes}} creates {{DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign|reprint=yes}}
+
+<nowiki>{{</nowiki>DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign}} creates {{DarkStryder|adventure=Artifact of Aaris|book=The DarkStryder Campaign}}
+
+<includeonly>[[Category:Game citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

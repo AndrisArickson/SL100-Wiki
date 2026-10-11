@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Comixology
+|image=[[File:ComiXology-Favicon.svg|text-top|x16px|link=https://www.comixology.com]]
+|site_text=the official [[wikipedia:ComiXology|comiXology]] [https://www.comixology.com website]
+|base_url=https://{{{subdomain|www}}}.comixology.com
+|target_url={{{url|}}}
+|defunct_site=1
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

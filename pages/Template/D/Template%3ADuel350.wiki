@@ -1,0 +1,44 @@
+<infobox theme="Battle350">
+        <data source="prev"><label>Previous</label></data>	
+        <data source="conc"><label>Concurrent</label></data>	
+        <data source="next"><label>Next</label></data>	
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header></header>
+        <data source="conflict"><label>Conflict</label></data>
+        <data source="date"><label>Date</label></data>
+        <data source="place"><label>Place</label></data>	
+        <data source="result"><label>Outcome</label></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Combatants</header>
+        <data source="side1"></data>	
+        <data source="side2"></data>
+        <data source="side3"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Strength</header>
+        <data source="forces1"></data>	
+        <data source="forces2"></data>
+        <data source="forces3"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+    	<header>Casualties</header>
+        <data source="casual1"></data>	
+        <data source="casual2"></data>
+        <data source="casual3"></data>	
+    </group>
+    <group layout="horizontal" show="incomplete" collapse="open">
+        <header>Civilian casualties</header>
+        <data source="civilian"></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Duel|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox><noinclude>
+
+{{Interlang
+|tr=Şablon:Düello350
+}}
+
+[[Category:Event infobox subtemplates]]</noinclude>

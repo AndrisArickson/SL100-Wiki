@@ -1,0 +1,49 @@
+This template is to be used for citing individual pages on [[Wikipedia:Disney.com|Disney.com]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Disney|subdomain=|domain=|url=|text=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=|oldversion=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>http://www.disney.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, for example, <code>books</code> or <code>blogs</code>. (Defaults to <code>www</code> if not specified).
+*{{Para|domain}} When citing from an international Disney website such as <code><nowiki>https://disney.co.uk/</nowiki></code>. (Defaults to <code>.com</code> if not specified).
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|oldversion}} use <code>|oldversion=1</code> when the current version of the web page no longer includes the target information.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Using subdomain
+<code><nowiki>{{Disney|subdomain=books|url=book/smugglers-run|text=Smuggler's Run: A Han Solo Adventure|archivedate=20171007055719}}</nowiki></code>
+
+Results in:
+
+{{Disney|subdomain=books|url=book/smugglers-run|text=Smuggler's Run: A Han Solo Adventure|archivedate=20171007055719}}
+
+<hr />
+;Using domain
+<code><nowiki>{{Disney|domain=co.uk|url=star-wars/technology/protocol-droids|text=Protocol Droid</nowiki> &mdash; <nowiki>Star Wars Technology|archivedate=20140623234841}}</nowiki></code>
+
+Results in:
+
+{{Disney|domain=co.uk|url=star-wars/technology/protocol-droids|text=Protocol Droid &mdash; Star Wars Technology|archivedate=20140623234841}}
+
+<hr />
+;Using author and date
+<code><nowiki>{{Disney|subdomain=ohmy|url=insider/2016/03/15/how-hyperspace-mountain-fits-into-the-star-wars-story|text=How Hyperspace Mountain Fits Into the Star Wars Story|author=Drew Taylor|date=2016-03-15|archivedate=20170928102712}}</nowiki></code>
+
+Results in:
+
+{{Disney|subdomain=ohmy|url=insider/2016/03/15/how-hyperspace-mountain-fits-into-the-star-wars-story|text=How Hyperspace Mountain Fits Into the Star Wars Story|author=Drew Taylor|date=2016-03-15|archivedate=20170928102712}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

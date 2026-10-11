@@ -1,0 +1,17 @@
+{{Iumb
+| id = Closethread
+| bg = #EE82EE
+| image = [[File:Thispartysover.jpg|115px]]
+| caption = This party's over.
+| message = This {{#if:{{{tc|}}}|[[Forum:Trash compactor|Trash compactor]]|[[Forum:Consensus track|Consensus track]]}} thread has reached consensus and/or two weeks have expired since its beginning and it is dormant.
+| comment = Administrators are requested to check timestamps and close this thread appropriately.
+}}<includeonly>{{SpecialCategorizer|[[Category:{{#if:{{{tc|}}}|Expired TC threads|Expired CT threads}}|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+Place the following code on the Consensus track page:
+ <nowiki>{{</nowiki>Closethread}}
+
+Place the following code on the Trash compactor page:
+ <nowiki>{{</nowiki>Closethread|tc=yes}}
+
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

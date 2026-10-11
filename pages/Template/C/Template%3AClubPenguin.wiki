@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ClubPenguin
+|image=[[File:ClubPenguin-Favicon.png|text-top|x16px|link=https://www.clubpenguin.com]]
+|site_text=''[[Club Penguin]]''{{'}}s [https://www.clubpenguin.com official website]
+|base_url=https://{{{subdomain|www}}}.clubpenguin.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,18 @@
+{{#ifeq:{{{1}}}|disambiguating
+|The following pages are [[Wikipedia:Wikipedia:Disambiguation|disambiguation]] pages linked here in order to avoid being shown in the [[Special:Lonelypages|list of orphaned articles]]. (This is explained at [[Wikipedia:Wikipedia:Disambiguation|Disambiguation]].) 
+
+*All pages with "(disambiguation)" in the title should be listed on [[Wookieepedia:Links to (disambiguation) pages|Links to (disambiguation) pages]] instead, as they don't need to be checked for links. Please ''do not'' list these pages here.
+
+The following note should be added to any disambiguation page: 
+:<nowiki>{{disambig}}</nowiki>
+
+This will help various automated scans ignore or detect these pages, as appropriate, and will also help readers and editors navigate and make improvements.
+
+This is a list of disambiguation pages.
+
+{{compactTOC}}
+|This is a '''list of disambiguation pages or redirects with "(disambiguation)" in the title'''. Links to these pages do not need [[Wikipedia:Wikipedia:disambiguation|disambiguation]], as they are done exceptionally and on purpose.  
+
+{{compactTOC}}
+}}
+[[Category:Disambiguation pages|*]]

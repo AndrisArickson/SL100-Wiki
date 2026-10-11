@@ -1,0 +1,14 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Dark Trooper Project]]<br />([[0 ABY/Legends|0]]&ndash;[[1 ABY/Legends|1 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Attack on Tak Base|First Talay]] · [[Mission to Talay|Second Talay]] · [[Mission to Anoat|Anoat]] · [[Mission to Fest (Galactic Civil War)|Second Fest]]<br />[[Mission to Gromas|Gromas]] · [[Mission to Orinackra|Orinackra]] · [[Mission to Cal-Seti|First Cal-Seti]] · [[Mission to Anteevy|Anteevy]]<br />[[Mission to Nar Shaddaa (Dark Trooper campaign)|Second Nar Shaddaa]] · [[Mission to Coruscant (Kyle Katarn)|Second Coruscant]] · [[Mission to Fuel Station Ergo|Ergo]]<br />[[Mission to the Executor|''Executor'']] · [[Mission to the Arc Hammer|''Arc Hammer'']]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+{{GCW rows}}
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

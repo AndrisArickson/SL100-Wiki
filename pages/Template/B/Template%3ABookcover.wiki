@@ -1,0 +1,62 @@
+{{MediumMB
+|border=#BB7C77
+|bg=#FFF7F7
+|image=[[File:Copyright-red.svg|50px]]
+|message=This image is a '''[[wikipedia:Cover art#Book cover|cover]] of a [[wikipedia:Book|book]]'''. It is believed that [[wikipedia:Book cover|book covers]] may be exhibited on [[Wookieepedia]] under the '''[[wikipedia:Fair use|fair use]] [https://www.copyright.gov/title17/92chap1.html#107 provision]''' of [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:{{#if:{{{1|}}}|{{#switch:{{lc:{{{1}}}}}
+| full = Book cover full artwork
+| partial = Book cover artwork images
+| audio = Audiobook covers
+| audiobook = Audiobook covers
+| australian     = Australian book covers
+| brazilian      = Brazilian book covers
+| bulgarian      = Bulgarian book covers
+| czech          = Czech book covers
+| danish         = Danish book covers
+| dutch          = Dutch book covers
+| english        = English book covers
+| finnish        = Finnish book covers
+| french         = French book covers
+| german         = German book covers
+| hebrew         = Hebrew book covers
+| hungarian      = Hungarian book covers
+| icelandic      = Icelandic book covers
+| japanese       = Japanese book covers
+| polish         = Polish book covers
+| romanian       = Romanian book covers
+| russian        = Russian book covers
+| spanish        = Spanish book covers
+| turkish        = Turkish book covers
+| united kingdom = United Kingdom book covers
+| solicit = Solicitation book covers
+| #default       = Book covers
+}}|Uncategorized book covers}}|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+Please include the language of the book cover in the template like this: <code><nowiki>{{Bookcover|</nowiki>{{Var|language}}}}</code>. For example, use <code><nowiki>{{Bookcover|English}}</nowiki></code> or <code><nowiki>{{Bookcover|Japanese}}</nowiki></code>, etc. for proper file categorization.
+
+==Categorization==
+The file will be placed in one of the following categories depending on the specified language:
+*[[:Category:Australian book covers]]
+*[[:Category:Brazilian book covers]]
+*[[:Category:Bulgarian book covers]]
+*[[:Category:Czech book covers]]
+*[[:Category:Danish book covers]]
+*[[:Category:Dutch book covers]]
+*[[:Category:English book covers]]
+*[[:Category:Finnish book covers]]
+*[[:Category:French book covers]]
+*[[:Category:German book covers]]
+*[[:Category:Hebrew book covers]]
+*[[:Category:Hungarian book covers]]
+*[[:Category:Icelandic book covers]]
+*[[:Category:Japanese book covers]]
+*[[:Category:Polish book covers]]
+*[[:Category:Romanian book covers]]
+*[[:Category:Russian book covers]]
+*[[:Category:Spanish book covers]]
+*[[:Category:Turkish book covers]]
+*[[:Category:United Kingdom book covers]]
+If a language other than the ones above is specified, the file will be placed in [[:Category:Book covers]] by default. However, if the language field is omitted or left blank, the file will be placed in [[:Category:Uncategorized book covers]].
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

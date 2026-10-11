@@ -1,0 +1,16 @@
+{{Iumb
+|bg=#DDD
+|image=[[File:Stop_hand.svg|64px]]
+|caption=
+|message=This account <includeonly>(<tt>[[User:{{PAGENAME}}|{{PAGENAMEE}}]]</tt>)</includeonly> is a [[Wikipedia:Wikipedia:Doppelganger account|'''doppelganger account''']], created by <tt>'''{{{1}}}'''</tt>, an established user, to prevent impersonation of <tt>'''{{{2}}}'''</tt> by vandals.
+|comment=Please see the [[{{TALKPAGENAME}}|'''talk page''']] for relevant discussion. [[Wookieepedia:Administrators|Administrators]], please [[User talk:{{{1}}}|notify {{{1}}}]] when taking any action on this account.
+}}<includeonly>{{SpecialCategorizer|[[Category:Doppelganger accounts]]}}</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>doppelganger-other|{{Var|your username}}|{{Var|username of the person you want to create a doppelganger for}}}}</code>
+
+==Categorization==
+*[[:Category:Doppelganger accounts]]
+
+[[Category:Administrative templates|{{PAGENAME}}]]
+[[Category:User page templates|{{PAGENAME}}]]</noinclude>

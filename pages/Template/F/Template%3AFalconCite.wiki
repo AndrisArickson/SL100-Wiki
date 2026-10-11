@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=FalconCite
+|mode=ref
+|series=Star Wars: Millennium Falcon
+|issue={{{1}}}
+|child={{{2}}}
+|lookupText=true
+|lookupType=RefMagazine
+|lookupCombine=true
+|lookupTextOnly=true
+|lookupTextValue={{{3|}}}
+|parentMode={{{parent|}}}
+}}<noinclude>{{Documentation}}[[Category:Reference magazine citation templates]]</noinclude>

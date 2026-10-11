@@ -1,0 +1,15 @@
+{{#invoke:BaseCitation|main|template=GameTradeCite
+|mode=magazine
+|image=[[File:GameTrade.jpg|baseline|x12px|link=Game Trade Magazine]]
+|series=Game Trade Magazine
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "issue number", "story name" and "formatted name" with the appropriate information.
+ <nowiki>{{</nowiki>GameTradeCite|''ISSUE NUMBER''|''STORY NAME''|''FORMATTED NAME'' (optional)}}
+[[Category:Unlicensed magazine citation templates|Game Trade Magazine]]</noinclude>

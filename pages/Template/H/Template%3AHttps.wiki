@@ -1,0 +1,6 @@
+https://<noinclude>
+
+==Usage==
+This template exists to circumvent the Fandom bug where adding "https://" or "http://" to a file description page results in a blank screen when trying to save the page. Use <code><nowiki>{{subst:https}}</nowiki></code> instead of <code><nowiki>https://</nowiki></code> or <code><nowiki>http://</nowiki></code>.
+
+[[Category:Utility templates]]</noinclude>

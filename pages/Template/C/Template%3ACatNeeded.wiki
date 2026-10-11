@@ -1,0 +1,13 @@
+{{iumb
+| id = CatNeeded
+| bg = #F8EABA
+| image = [[File:Kenobi_Binks.png|150px]]
+| caption = What's this?
+| message = This article belongs in one or more [[:Category:Star Wars|content categories]].
+| comment = Please [[Wikipedia:Wikipedia:Categorization|categorize]] this article so that others may find this article from other articles in the same categories. [[:Category:Wookieepedia|Maintenance categories]], such as stub and cleanup categories, do not count; a [[:Category:Star Wars|content category]] is required. Once this article has been properly categorized, please remove this notice.
+}}<includeonly>{{SpecialCategorizer|[[Category:Categoryless|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|sprot}}
+
+==Categorization==
+*[[:Category:Categoryless]]
+
+[[Category:Maintenance templates]]</noinclude>

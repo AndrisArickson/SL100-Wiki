@@ -1,0 +1,7 @@
+&#x23;<noinclude>
+
+Inserts the # sign to override MediaWiki formatting. 
+
+[[Category:Utility metatemplates|{{PAGENAME}}]]
+
+</noinclude>

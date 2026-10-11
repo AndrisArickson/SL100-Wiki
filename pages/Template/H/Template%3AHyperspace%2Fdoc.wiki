@@ -1,0 +1,43 @@
+==Usage instructions==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>
+{{Hyperspace|url=|text=|int=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|newurl=|newhost=}}
+</nowiki></code>
+
+As of [[September]] [[2011]], all Hyperspace links are completely inaccessible.
+
+===Required parameters===
+*{{Para|url}} ''Original'' URL to the material from the old [[StarWars.com]], excluding the <code><nowiki>https://www.starwars.com/</nowiki></code> part. Will return a 404 error now.
+*{{Para|text}} Formatted name of the material being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|int}} This field provides a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|newurl}} URL to a live version of the material legally hosted on an official site. ''Do not'' use this to link to copyright violations! Make sure it is on an official site such as Star Wars Suvudu before linking to it this way. Not required.
+*{{Para|newhost}} Wikilinked name of site hosting the live version (e.g. [[Random House]]). Required if {{Para|newurl}} is given.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content removed from StarWars.com;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Hyperspace|url=hyperspace/member/insideronline/88/indexp2.html|text=''Evil Never Dies: The Sith Dynasties''|int=Evil Never Dies: The Sith Dynasties|author=Abel G. Peña|date=2006-06-22|archivedate=20110604035610}}</nowiki></code>
+
+Results in:
+
+{{Hyperspace|url=hyperspace/member/insideronline/88/indexp2.html|text=''Evil Never Dies: The Sith Dynasties''|int=Evil Never Dies: The Sith Dynasties|author=Abel G. Peña|date=2006-06-22|archivedate=20110604035610}}
+
+<hr />
+<code><nowiki>{{Hyperspace|url=hyperspace/source/praji/20090205.html|text=Tinker, Tailor, Soldier, Praji|int=Tinker, Tailor, Soldier, Praji|date=2009-02-05}}</nowiki></code>
+
+Results in:
+
+{{Hyperspace|url=hyperspace/source/praji/20090205.html|text=Tinker, Tailor, Soldier, Praji|int=Tinker, Tailor, Soldier, Praji|date=2009-02-05}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

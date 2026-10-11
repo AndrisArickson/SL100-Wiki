@@ -1,0 +1,19 @@
+{{#if: {{{legends|}}}
+|{{ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The capitalization in this article's title is conjectural.
+|message = Although this article's title is based on official information from the [[Star Wars Legends|''Star Wars'' Legends]] continuity, its actual capitalization is pure conjecture.
+}}|{{ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The capitalization in this article's title is conjectural.
+|message = Although this article's title is [[canon]]ical, its actual capitalization is pure conjecture.
+}}}}<includeonly>{{SpecialCategorizer|[[Category:Articles with conjectural capitalization|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|mprot|fprot}}
+
+==Usage==
+For articles considered part of the legends continuity, include the parameter "legends" with any value. Example: <nowiki>{{ConjectureCapitalization|legends=1}}</nowiki>.
+
+==Categorization==
+*[[:Category:Articles with conjectural capitalization]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

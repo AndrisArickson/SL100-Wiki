@@ -1,0 +1,6 @@
+{{SW|url=news/nycc-2025-lucasfilm-publishing-reveals|text=NYCC 2025: All the News and Reveals from the Lucasfilm Publishing Panel}} establishes the events of {{#ifeq:{{PAGENAME}}|Eyes Like Stars|''Eyes Like Stars''|''[[Eyes Like Stars]]''}} take place one and a half [[Standard year|years]] before the events of {{Film|VII}}, which corresponds to around [[33 ABY]] per ''[[Star Wars: Timelines]]''.<noinclude>
+
+==Usage==
+<code><nowiki>{{EyesLikeStarsDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

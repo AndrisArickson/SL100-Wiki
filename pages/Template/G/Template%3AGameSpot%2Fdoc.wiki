@@ -1,0 +1,39 @@
+This template is to be used for citing individual pages on [[Wikipedia:GameSpot|GameSpot.com]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Gamespot|subdomain=|url=|text=|nolive=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.gamespot.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL.
+*{{Para|author}} Name(s) of the author(s). Multiple authors must be separated with a "<code>;</code>" between their names. Note that an author is not necessarily an individual and could be an organization. A long list of authors can be reduced using "<code>, et al.</code>" after the first name. Provide wikilinks whenever they are available.
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>|date=2006-02-17</code>".
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Gamespot|url=games/star-wars-galactic-battlegrounds|text=Star Wars: Galactic Battlegrounds|archivedate=20201203224932}}</nowiki></code>
+
+Results in:
+
+{{Gamespot|url=games/star-wars-galactic-battlegrounds|text=Star Wars: Galactic Battlegrounds|archivedate=20201203224932}}
+
+<hr />
+;Using subdomain
+<code><nowiki>{{Gamespot|subdomain=comicvine|url=star-wars-adventures-tales-from-vaders-castle-1-tp/4000-706227|text=Star Wars Adventures: Tales From Vader's Castle #1 - TPB (Issue)|archivedate=20190520194205}}</nowiki></code>
+
+Results in:
+
+{{Gamespot|subdomain=comicvine|url=star-wars-adventures-tales-from-vaders-castle-1-tp/4000-706227|text=Star Wars Adventures: Tales From Vader's Castle #1 - TPB (Issue)|archivedate=20190520194205}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

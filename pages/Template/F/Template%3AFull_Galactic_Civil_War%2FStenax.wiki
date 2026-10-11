@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Stenax Massacres]]<br />([[4 ABY/Legends|4 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Invasion of Kadril|Kadril]] · [[Invasion of Arda II|Arda II]] · [[Invasion of Sooma|Sooma]] · [[Invasion of Alzar|Alzar]]<br />[[Invasion of Tandankin|Second Tandankin]] · [[Battle of Tharkos|Tharkos]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Stenax]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Stenax
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

@@ -1,0 +1,8 @@
+{{#switch:{{{1|}}}
+  |2020 = {{SW|url=news/every-star-wars-the-high-republic-book-and-comic-series|text=Every ''Star Wars: The High Republic'' Book and Comic Series (So Far)|int=Star Wars: The High Republic: Chronological Reader's Guide|oldversion=20201215163653|master=1}}
+  |2022-1 = {{SW|url=news/every-star-wars-the-high-republic-book-and-comic-series|text=''Star Wars: The High Republic'' Chronological Reader's Guide|int=Star Wars: The High Republic: Chronological Reader's Guide|oldversion=20220729000000|master=1}}
+  |2022-2 = {{SW|url=news/every-star-wars-the-high-republic-book-and-comic-series|text=''Star Wars: The High Republic'' Chronological Reader's Guide|int=Star Wars: The High Republic: Chronological Reader's Guide|oldversion=20221213090023|master=1}}
+  |2023 = {{SW|url=news/every-star-wars-the-high-republic-book-and-comic-series|text=''Star Wars: The High Republic'' Chronological Reader's Guide|int=Star Wars: The High Republic: Chronological Reader's Guide|oldversion=20231113235042|master=1}}
+  |2024 = {{SW|url=news/every-star-wars-the-high-republic-book-and-comic-series|text=''Star Wars: The High Republic'' Chronological Reader's Guide|int=Star Wars: The High Republic: Chronological Reader's Guide|master=1}}
+  |#default={{SW|url=news/every-star-wars-the-high-republic-book-and-comic-series|text=''Star Wars: The High Republic'' Chronological Reader's Guide|int=Star Wars: The High Republic: Chronological Reader's Guide|master=1}}
+}}<noinclude>[[Category:Simple-link citation templates]]</noinclude>

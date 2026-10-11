@@ -1,0 +1,19 @@
+==Usage==
+<pre><nowiki>{{Film|number}}</nowiki></pre>
+Where {{Para|number}} is either a Roman numeral I-IX or a number 1-9. There is no difference between using a Roman numeral such as IV or its Arabic numeral equivalent 4.
+
+:→<small>See [[Forum:CT:Use of the Film Template]]</small>
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!Code !! Result
+|-
+|<pre><nowiki>{{Film|I}}</nowiki></pre>||{{Film|I}}
+|-
+|<pre><nowiki>{{Film|II}}</nowiki></pre>||{{Film|II}}
+|-
+|<pre><nowiki>{{Film|6}}</nowiki></pre>||{{Film|6}}
+|}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

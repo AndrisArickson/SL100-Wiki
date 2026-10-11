@@ -1,0 +1,36 @@
+<div>
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 auto .5em auto; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" style="float:center; margin:0 0 0 0; width:500px; background:#ffffff; border-collapse:collapse;">
+<tr class="headerbackground" style="text-align:center; color:#ffffff; background:{{{c1|#7995CA}}}; font-size:larger; border-bottom: 1px solid #999999;"><th colspan="3">[[Galactic Civil War/Legends|Galactic Civil War]]<br>([[2 BBY/Legends|2 BBY]] &mdash; [[19 ABY/Legends|19 ABY]])</th></tr>
+<tr><th colspan="2" class="headerbackground" style="text-align:center; font-weight:normal; background:{{{c2|#B4C5E3}}};">'''Last Days of War ([[16 ABY/Legends|16 ABY]] &mdash; [[19 ABY/Legends|19 ABY]])'''</th></tr>
+<tr style="spacing-top:0px; spacing-bottom:0px; vertical-align:top; text-align:left; background:{{{c3|#F0F0F0}}};"></tr>
+<tr><th colspan="2" class="headerbackground" style="background:transparent;">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%;">
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;"></td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+[[Disciples of Ragnos crisis]] &ndash; [[16 ABY/Legends|16 ABY]]
+</td></tr>
+{{Full Galactic Civil War/Black Fleet}}
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;"></td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+[[Almanian Uprising]] &ndash; [[17 ABY/Legends|17 ABY]]
+</td></tr></table>
+</th></tr>
+<tr><th colspan="3" class="headerbackground" style="text-align:center; font-weight:normal; background:{{{c2|#B4C5E3}}}; border-top: 1px solid #999999; border-bottom: 1px solid #999999;">'''Related topics and articles'''</th></tr>
+<tr><td colspan="3" class="headerbackground" style="background:transparent; text-align:center;">
+[[New Republic/Legends|New Republic]] · [[Imperial Remnant/Legends|Imperial Remnant]] · [[Duskhan League]]
+</td></tr>
+</table></div></td></tr>
+<tr style="border-top: 1px solid #999999;"><td id="infoboxend" class="plainlinks headerbackground" style="text-align:right; width:48%;"></td>
+<td class="headerbackground" style="text-align:left; width:48%;">&#32;&#32;[[Template:GCW Black Fleet|[Source]]]</td><td id="infoboxend" class="plainlinks headerbackground" style="text-align:right; width:4%;"></td></tr></table></div>
+<!-- TEMPLATE ENDS HERE. --><noinclude>{{Top|sprot}}
+
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:GCW Flota Negra
+}}
+
+[[Category:Galactic Civil War navbox templates|{{PAGENAME}}]]</noinclude>

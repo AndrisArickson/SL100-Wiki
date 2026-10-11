@@ -1,0 +1,20 @@
+{{SmallMB
+|image=[[File:Information icon.svg|40px]]
+|message='''This image is a [[Wikipedia:Screenshot|screen capture]] of an [[Wikipedia:Private_message|direct message (DM)]] exchange between a Wookieepedia editor and an official ''Star Wars'' creative, and&#32;{{#if:{{{legacy|}}}|while it predates Wookieepedia's [[Wookieepedia:Interview and creator interaction policy|''creator interaction policy'']], the editing community has [[Forum:CT:Interviews and creator interactions|''elected'']] to consider this document a valid source|follows the rules set by Wookieepedia's [[Wookieepedia:Interview and creator interaction policy|''creator interaction policy'']]}}'''.<br />Direct message correspondence between creator {{#if:{{{author|}}}|[[{{{author|}}}]]}} and  {{#if:{{{smt|}}}|[[Wookieepedia:Social Media Team|Wookieepedia's Social Media Team]]|editor}}{{#if:{{{editor|}}}|{{U|{{{editor|}}}}}}}{{#if:{{{date|}}}|&#32;{{#switch:{{#count:{{{date}}}}|-}}
+|0=in {{#time:[[Y]]|{{{date}}}}}}
+|1=in {{#time:[[F]] [[Y]]|{{{date}}}}}}
+|#default=on {{#time:[[F j]], [[Y]]|{{{date}}}}}}
+}}|}}.<br />'''Permission was granted for the image file to be utilised and exhbited on Wookieepedia.'''
+|messagestyle=text-align:center
+}}<noinclude>
+
+==Usage==
+<pre>{{DM|author=|editor=|date=|legacy=1}}</pre>
+
+Or, instead of {{Para|editor}}, can use {{Para|smt}} set to "1" if an email from the [[Wookieepedia:Social Media Team|SMT]] accounts.
+
+==Example(s)==
+Test, using [[:File:MaleficentMeaningKarnak-AbelGPena-Facebook.png]]:
+{{DM|author=Abel G. Peña|editor= Weedle McHairybug|date=2014-01-27|legacy=1}}
+
+[[Category:File advisory templates]]</noinclude>

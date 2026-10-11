@@ -1,0 +1,89 @@
+{{{{#if:{{{side4|}}}{{{commanders4|}}}{{{forces4|}}}{{{casual4|}}}|Battle400|{{#if:{{{side3|}}}{{{commanders3|}}}{{{forces3|}}}{{{casual3|}}}|Battle350|Battle300}}}}
+|prev={{{prev|}}}
+|conc={{{conc|}}}
+|next={{{next|}}}
+|image={{{image|}}}
+|name={{{name|}}}
+|conflict={{{conflict|}}}
+|date={{{date|}}}
+|place={{{place|}}}
+|result={{{result|}}}
+|side1={{{side1|}}}
+|side2={{{side2|}}}
+|side3={{{side3|}}}
+|side4={{{side4|}}}
+|commanders1={{{commanders1|}}}
+|commanders2={{{commanders2|}}}
+|commanders3={{{commanders3|}}}
+|commanders4={{{commanders4|}}}
+|unit1={{{unit1|}}}
+|unit2={{{unit2|}}}
+|unit3={{{unit3|}}}
+|unit4={{{unit4|}}}
+|forces1={{{forces1|}}}
+|forces2={{{forces2|}}}
+|forces3={{{forces3|}}}
+|forces4={{{forces4|}}}
+|casual1={{{casual1|}}}
+|casual2={{{casual2|}}}
+|casual3={{{casual3|}}}
+|casual4={{{casual4|}}}
+|civilian={{{civilian|}}}
+}}{{PreloadCat}}{{#ifeq:{{NAMESPACE}}| |{{#if:{{{side4|}}}|[[Category:4-sided battles]]|}}|}}{{#if:{{{side4|}}}{{{commanders4|}}}{{{forces4|}}}{{{casual4|}}}
+	|{{#invoke:InfoboxParamCheck|main|prev|conc|next|name|image|conflict|date|place|result|side1|side2|side3|side4|commanders1|commanders2|commanders3|commanders4|unit1|unit2|unit3|unit4|forces1|forces2|forces3|forces4|casual1|casual2|casual3|casual4|civilian|optional=width|ignore=name}}
+	|{{#if:{{{side3|}}}{{{commanders3|}}}{{{forces3|}}}{{{casual3|}}}
+	|{{#invoke:InfoboxParamCheck|main|prev|conc|next|name|image|conflict|date|place|result|side1|side2|side3|commanders1|commanders2|commanders3|unit1|unit2|unit3|forces1|forces2|forces3|casual1|casual2|casual3|civilian|optional=width,side4,commanders4,unit4,forces4,casual4|ignore=name}}
+	|{{#invoke:InfoboxParamCheck|main|prev|conc|next|name|image|conflict|date|place|result|side1|side2|commanders1|commanders2|unit1|unit2|forces1|forces2|casual1|casual2|civilian|optional=width,side3,side4,commanders3,commanders4,unit3,unit4,forces3,forces4,casual3,casual4|ignore=name}}
+	}}
+}}{{#invoke:EventDateCheck|main|type=Battles}}{{#if:{{{place|}}}{{NAMESPACE}}||[[Category:Events without location|{{PAGENAME}}]]}}<noinclude>[[category:Event infobox templates]]
+
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+{{Clear}}
+===Usage instructions===
+This template is compatible with two-, three-, and four-way battles, assuming each side involved (i.e. side1, side2, etc.) is given a value.
+
+Paste the following code into the top of an article, filling all known fields:
+
+<pre><nowiki>{{Battle
+|prev=
+|conc=
+|next=
+|image=
+|name=
+|conflict=
+|date=
+|place=
+|result=
+|side1=
+|side2=
+|side3=
+|side4=
+|commanders1=
+|commanders2=
+|commanders3=
+|commanders4=
+|unit1=
+|unit2=
+|unit3=
+|unit4=
+|forces1=
+|forces2=
+|forces3=
+|forces4=
+|casual1=
+|casual2=
+|casual3=
+|casual4=
+|civilian=
+}}</nowiki></pre>
+
+{{Interlang
+|tr=Şablon:Muharebe
+}}
+</noinclude>

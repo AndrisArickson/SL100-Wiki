@@ -1,0 +1,42 @@
+==Description==
+This template is to be used for citing individual pages on [[De Agostini|Altaya]]'s [https://www.altaya.fr official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Altaya|subdomain=|url=|lang=|text=|int=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.altaya.fr</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+*{{Para|int}} Name of the Wookieepedia article corresponding to the De Agnosti article being cited.
+*{{Para|lang}} The top level domain that also denotes the language, for example <code>fr</code> for <code>altaya.<u>fr</u></code> or <code>be</code> for <code>altaya.<u>be</u></code>. Default is <code>fr</code> if left blank.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Altaya|url=miniatures-figurines/collection-bustes-star-wars|text=Star Wars: Bustes de Collection|archivedate=20210124144758}}</nowiki></code>
+
+Results in:
+
+{{Altaya|url=miniatures-figurines/collection-bustes-star-wars|text=Star Wars: Bustes de Collection|archivedate=20210124144758}}
+
+<hr />
+;Using {{Para|lang}}
+<code><nowiki>{{Altaya|url=miniatures-figurines/bustes-star-wars|lang=be|text=Star Wars: Bustes de Collection|archivedate=20210410222827}}</nowiki></code>
+
+Results in:
+
+{{Altaya|url=miniatures-figurines/bustes-star-wars|lang=be|text=Star Wars: Bustes de Collection|archivedate=20210410222827}}
+
+<hr />
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

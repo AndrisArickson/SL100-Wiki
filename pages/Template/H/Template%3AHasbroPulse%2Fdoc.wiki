@@ -1,0 +1,30 @@
+This template is to be used for citing individual pages on the official [[Hasbro|Hasbro Pulse]] [https://www.hasbropulse.com website]. For citing individual Hasbro ''[[Star Wars]]'' toys, use {{Tl|HasbroCite}}, and for the standard [http://hasbro.com Hasbro website], use {{Tl|Hasbro}}.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{HasbroPulse|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://hasbropulse.com/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, for example, <code>shop</code> or <code>www</code>
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{HasbroPulse|url=product/star-wars-retro-collection-krrsantan/F85685X00?cgid=star-wars-retro-collection|text=STAR WARS Retro Collection Krrsantan|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{HasbroPulse|url=product/star-wars-retro-collection-krrsantan/F85685X00?cgid=star-wars-retro-collection|text=STAR WARS Retro Collection Krrsantan|nobackup=1}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

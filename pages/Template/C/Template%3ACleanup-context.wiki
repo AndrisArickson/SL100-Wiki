@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Cleanup-context 
+| bg = #EEE
+| image = [[File:Vader spots a continuity error.jpg|200px]]
+| caption = I don't know what you're talking about.
+| message = Parts of this article do not provide enough context for readers unfamiliar with the subject.{{#if:{{{1|}}}|<br />This article has been tagged because: '''{{{1}}}'''.|}}
+| comment = Please follow the guidelines in the [[Wookieepedia:Manual of Style|Manual of Style]] and complete this article to the highest level of quality before continuing on smaller articles. Remove this message when finished.
+| reason = The following parts of the article need context
+| category = Category:Articles needing context
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles needing context|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{Cleanup-context|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles needing context]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

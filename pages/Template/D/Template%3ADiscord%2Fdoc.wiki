@@ -1,0 +1,22 @@
+==Usage==
+<code><nowiki>{{Discord|discordname=|name=|date=|messagelink=|quote=|archivefile=|nobackup=}}</nowiki></code>
+
+<span style="color:red">'''Per [[Forum:CT:Citing Discord messages from Official Discords|this CT]], please start a new Consensus track to use any message that isn't from either Wookieepedia's Discord or an Official Discord as a citation. If the CT passes, the screenshot of said message needs to be added to [[Wookieepedia:Discord screenshots]]!'''</span>
+
+===Required parameters===
+*{{Para|discordname}} Discord username.
+*{{Para|name}} Full name of the Discord user.
+*{{Para|messagelink}} Discord URL link to the message.
+*{{Para|archivefile}} The uploaded Wookieepedia filename of the screenshot taken of the Discord conversation.
+
+===Optional parameters===
+*{{Para|date}} Date the Discord post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Quote of the Discord conversation.
+
+==Example(s)==
+<span style="color:red">Coming Soon</span>
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

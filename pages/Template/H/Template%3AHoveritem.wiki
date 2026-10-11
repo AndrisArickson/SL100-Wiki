@@ -1,0 +1,4 @@
+<div class="hoverbox">
+<div class="hoveritem selected">[[{{{startimg}}}|{{{startheight}}}]]</div>
+<div class="hoveritem">[[{{{hoverimg}}}|{{{hoverheight}}}|link={{{link}}}|{{{caption}}}]]</div>
+</div><noinclude>[[Category:Utility templates]]</noinclude>

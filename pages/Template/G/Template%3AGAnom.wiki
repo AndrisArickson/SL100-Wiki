@@ -1,0 +1,19 @@
+<includeonly>{{SAnom|{{lc:{{{1|}}}}}|status=Good
+|template=GAN
+|image1=[[File:GA-Icon.svg|30px]]
+|image2=[[File:GA-Former.svg|30px]]
+}}</includeonly><noinclude>
+
+==Usage==
+Use this template to nominate an article for [[Wookieepedia:Good articles|Good article (GA) status]]. To do so, place <code><nowiki>{{GAnom}}</nowiki></code> on the top of the article, save the page, and then follow the instructions displayed on the article. In the event the article has been nominated for GA status one or more times previously, you will need to add the number of the nomination as a parameter to the template (e.g. <code><nowiki>{{GAnom|second}}</nowiki></code>).
+
+The template can also automatically generate a corresponding index page upon nominating. To do so, use <code><nowiki>{{GAnom|index=1}}</nowiki></code> instead of simply <code><nowiki>{{GAnom}}</nowiki></code>.
+
+==See also==
+*{{Tl|FAnom}}, used to nominate an article for [[Wookieepedia:Featured articles|Featured Article status]]
+*{{Tl|CAnom}}, used to nominate an article for [[Wookieepedia:Comprehensive articles|Comprehensive Article status]]
+
+==Categorization==
+*[[:Category:Wookieepedia Good article nominations]]
+
+[[Category:Status article templates]]</noinclude>

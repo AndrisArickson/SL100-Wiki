@@ -1,0 +1,13 @@
+<noinclude>
+<div id="old-forum-warning" class="boilerplate metadata" style="background-color: #F4F4F4; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+'''This page is an archive and is no longer live.''' It is preserved as a historic record.<hr />[[Category:Retired site features]]
+This template is obsolete and exists to ensure the integrity of historical edit revisions. Please see [[Wookieepedia:Comprehensive article reviews]] for the current system.
+</noinclude>
+{{Iumb
+|id=CAcleanup
+|bg=#B0B0B0
+|image=[[File:GAThrawn-SWI66.png|100px]]
+|caption=Anyone can make an error. But that error doesn't become a mistake until you refuse to correct it.
+|message=This [[:Category:Wookieepedia Comprehensive articles|comprehensive article]] has been deemed sufficiently below CA standards by the [[Wookieepedia:EduCorps|EduCorps]] and will have its status removed if not up to standards by the next EduCorps meeting.
+|comment=Please see {{#ifexist:Wookieepedia:EC/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|'''[[Wookieepedia:EC/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|this article's entry]]'''|'''[{{fullurl:Wookieepedia:EC/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|action=edit&preload=Template:CAcleanup_preload}} <font style="color: #BA1902">this article's entry</font>]'''}} for discussion of the matter. Do not remove this tag until voting is complete.
+}}{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<includeonly>[[Category:Wookieepedia Comprehensive articles under probation]]</includeonly>}}

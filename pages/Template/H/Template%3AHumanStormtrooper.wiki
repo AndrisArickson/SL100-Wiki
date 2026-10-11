@@ -1,0 +1,13 @@
+<includeonly>''[[Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy]]'' states that all variations of {{#switch:{{{1|}}}|#default=|First Order=[[First Order stormtrooper|stormtroopers]] and [[First Order TIE fighter pilot|TIE pilots]]|Galactic Empire=[[stormtrooper]]s and [[Imperial Starfighter Pilot|TIE pilots]]}} in the {{#switch:{{{1|}}}|#default=|First Order=[[First Order]]|[[Galactic Empire]]}} were [[human]].</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{HumanStormtrooper|Galactic Empire}}</nowiki></code>
+
+{{HumanStormtrooper|Galactic Empire}}
+
+<code><nowiki>{{HumanStormtrooper|First Order}}</nowiki></code>
+
+{{HumanStormtrooper|First Order}}
+
+[[Category:Logic citation templates]]
+</noinclude>

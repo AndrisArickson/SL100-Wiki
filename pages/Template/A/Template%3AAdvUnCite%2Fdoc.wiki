@@ -1,0 +1,5 @@
+==Usage==
+Place the following code on the page and replace the "issue number" and "story name" with the appropriate information.
+ <nowiki>{{</nowiki>AdvUnCite|''ISSUE NUMBER''|STORY NAME}}
+
+<includeonly>[[Category:Unlicensed magazine citation templates]]</includeonly><noinclude>[[Category:Citation template documentation]]</noinclude>

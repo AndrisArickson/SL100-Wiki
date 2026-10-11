@@ -1,0 +1,14 @@
+{{#invoke:BaseCitation|main|template=HelmetCollectionCite
+|mode=ref
+|series=Star Wars Helmet Collection
+|issue={{{1}}}|lookupIssue=yes|lookupIssueType=RefMagazineTitles
+|child={{{2}}}
+|parentheses=Helmets (department)
+|lookupText=true
+|lookupType=RefMagazine
+|lookupCombine=true
+|lookupTextOnly=true
+|lookupTextValue={{{3|}}}
+|parentMode={{{parent|}}}
+|nolink=1
+}}<noinclude>{{Documentation}}</noinclude>

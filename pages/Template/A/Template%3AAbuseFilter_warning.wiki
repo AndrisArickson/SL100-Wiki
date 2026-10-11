@@ -1,0 +1,22 @@
+<table style="text-align: left;">
+<tr>
+<th>{{#if:{{{file|}}}|{{{file}}}|[[File:Dialog-warning.svg]]|48px|link=]]}}</th>
+<th style="font-weight: normal;">{{#if:{{{noheader|}}}||'''Your edit was automatically identified as potentially harmful for the following reason:'''<br /><br />}}<span>{{{1|{{{content|}}}}}}</span><br />
+<small>If you believe this is in error, please report the false positive at [[Wookieepedia:Spamfilter problems]].</th>
+</tr>
+</table><noinclude>{{Top|fprot}}
+
+==Usage==
+This template can be used to create standardized [[Special:AbuseFilter|AbuseFilter]] warnings. Create a custom warning in the MediaWiki namespace, "MediaWiki:Custom-abusefilter-warning-foobar", then add this template to that page. <code>|file=</code> is optional.
+
+<pre><nowiki>
+{{AbuseFilter_warning
+|file=
+|noheader=
+|content=
+}}
+</nowiki></pre>
+
+This template uses HTML table formatting instead of wikitext table formatting. This is due to a bug where, as of March 2021, the Source Editor does not support wikitext table in AbuseFilter warnings.
+
+[[Category:Administrative templates]]</noinclude>

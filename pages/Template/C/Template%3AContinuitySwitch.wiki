@@ -1,0 +1,8 @@
+{{#switch: {{#explode:{{{1|}}}|/|1}}
+	| Canon = canon
+	| Legends = legends
+	| {{#switch: {{lc: {{{2|}}}}} 
+		| canon = canon
+		| legends = legends
+	}}
+}}<noinclude>[[Category:Utility metatemplates]]</noinclude>

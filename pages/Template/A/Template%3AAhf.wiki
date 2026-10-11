@@ -1,0 +1,9 @@
+|-
+|}
+|-
+! class="ahf" | <span class="hidable-button" style="float: right; font-size: 0.8em; padding: 0 5px 0 0;"></span>Current status: <span class="ahfstatus">{{ahconv|{{{status|}}}}}</span>
+|}<noinclude>
+
+[[Category:Article history templates|{{PAGENAME}}]]
+
+</noinclude>

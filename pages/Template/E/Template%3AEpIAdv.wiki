@@ -1,0 +1,18 @@
+{{#switch:{{{1|}}}
+  |1 = ''[[Episode I Adventures 1: Search for the Lost Jedi]]''
+  |2 = ''[[Episode I Adventures 2: The Bartokk Assassins]]''
+  |3 = ''[[Episode I Adventures 3: The Fury of Darth Maul]]''
+  |4 = ''[[Episode I Adventures 4: Jedi Emergency]]''
+  |5 = ''[[Episode I Adventures 5: The Ghostling Children]]''
+  |6 = ''[[Episode I Adventures 6: The Hunt for Anakin Skywalker]]''
+  |7 = ''[[Episode I Adventures 7: Capture Arawynne]]''
+  |8 = ''[[Episode I Adventures 8: Trouble on Tatooine]]''
+  |9 = ''[[Episode I Adventures 9: Rescue in the Core]]''
+  |10 = ''[[Episode I Adventures 10: Festival of Warriors]]''
+  |11 = ''[[Episode I Adventures 11: Pirates from Beyond the Sea]]''
+  |12 = ''[[Episode I Adventures 12: The Bongo Rally]]''
+  |13 = ''[[Episode I Adventures 13: Danger on Naboo]]''
+  |14 = ''[[Episode I Adventures 14: Podrace to Freedom]]''
+  |15 = ''[[Episode I Adventures 15: The Final Battle]]''
+  |#default = <span style="color: red">'''invalid option!'''</span> {{#ifeq:{{NAMESPACE}}|Template||[[Category:Template usages with invalid parameter values]]}}
+}}<noinclude>[[Category:Magazine citation templates]]</noinclude>

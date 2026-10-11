@@ -1,0 +1,19 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=EA
+|image=[[File:EAFavicon-Template.svg|text-top|x16px|link=https://{{{subdomain|www}}}.ea.com|class=darkmodeinvert]]
+|site_text={{#ifeq:{{{subdomain|}}}|forums.galaxy-of-heroes.starwars
+  |the [https://forums.galaxy-of-heroes.starwars.ea.com Star Wars Galaxy of Heroes Forums]
+  |{{#ifeq:{{{subdomain|}}}|forums
+    |{{#if:{{#pos:{{{url|}}}|swgoh}}
+      |the [https://forums.ea.com/category/star-wars-galaxy-of-heroes-en Star Wars: Galaxy of Heroes Forums]
+      |[[Electronic Arts]]' [https://forums.ea.com Official Forums]
+    }}
+    |[[Electronic Arts]]' [https://{{{subdomain|www}}}.ea.com official website]
+  }}
+}}
+|base_url=https://{{{subdomain|www}}}.ea.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site={{#ifeq:{{{subdomain|}}}|forums.galaxy-of-heroes.starwars|1|{{#ifeq:{{{subdomain|}}}|battlefront-forums|1|}}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

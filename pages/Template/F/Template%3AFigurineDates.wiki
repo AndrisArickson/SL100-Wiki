@@ -1,0 +1,72 @@
+<includeonly>{{SWArchive|url=collecting/news/misc/news20050512.html|text=Collectible Figurines with New DeAgostini Publication}} states that the original Spanish run of ''[[Star Wars: The Official Figurine Collection]]'' began in [[February]] [[2005]], released new issues every two weeks, and released its ninth issue at least one week after [[May 12]]. For issue #1 to have been released in February and issue #9 to be released less than two weeks after May 12, the first issue must have been released on [[February 1]]. Therefore, it can be determined that [[Star Wars: The Official Figurine Collection {{{1|}}}|''Star Wars: The Official Figurine Collection'' {{{1|}}}]] was released on approximately {{#switch:{{{1|}}}
+|2=[[February 15]], [[2005]]
+|3=[[March 1]], [[2005]]
+|4=[[March 15]], [[2005]]
+|5=[[March 29]], [[2005]]
+|6=[[April 12]], [[2005]]
+|7=[[April 26]], [[2005]]
+|8=[[May 10]], [[2005]]
+|9=[[May 24]], [[2005]]
+|10=[[June 7]], [[2005]]
+|11=[[June 21]], [[2005]]
+|12=[[July 5]], [[2005]]
+|13=[[July 19]], [[2005]]
+|14=[[August 2]], [[2005]]
+|15=[[August 16]], [[2005]]
+|16=[[August 30]], [[2005]]
+|17=[[September 13]], [[2005]]
+|18=[[September 27]], [[2005]]
+|19=[[October 11]], [[2005]]
+|20=[[October 25]], [[2005]]
+|21=[[November 8]], [[2005]]
+|22=[[November 22]], [[2005]]
+|23=[[December 6]], [[2005]]
+|24=[[December 20]], [[2005]]
+|25=[[January 3]], [[2006]]
+|26=[[January 17]], [[2006]]
+|27=[[January 31]], [[2006]]
+|28=[[February 14]], [[2006]]
+|29=[[February 28]], [[2006]]
+|30=[[March 14]], [[2006]]
+|31=[[March 28]], [[2006]]
+|32=[[April 11]], [[2006]]
+|33=[[April 25]], [[2006]]
+|34=[[May 9]], [[2006]]
+|35=[[May 23]], [[2006]]
+|36=[[June 6]], [[2006]]
+|37=[[June 20]], [[2006]]
+|38=[[July 4]], [[2006]]
+|39=[[July 18]], [[2006]]
+|40=[[August 1]], [[2006]]
+|41=[[August 15]], [[2006]]
+|42=[[August 29]], [[2006]]
+|43=[[September 12]], [[2006]]
+|44=[[September 26]], [[2006]]
+|45=[[October 10]], [[2006]]
+|46=[[October 24]], [[2006]]
+|47=[[November 7]], [[2006]]
+|48=[[November 21]], [[2006]]
+|49=[[December 5]], [[2006]]
+|50=[[December 19]], [[2006]]
+|51=[[January 2]], [[2007]]
+|52=[[January 16]], [[2007]]
+|53=[[January 30]], [[2007]]
+|54=[[February 13]], [[2007]]
+|55=[[February 27]], [[2007]]
+|56=[[March 13]], [[2007]]
+|57=[[March 27]], [[2007]]
+|58=[[April 10]], [[2007]]
+|59=[[April 24]], [[2007]]
+|60=[[May 8]], [[2007]]
+|=<!--do nothing if no parameter-->
+|#default={{#switch:{{FULLPAGENAME}}|Template:FigurineDates|#default=<span style="font-size: 1.5em; color: red">Template error: Invalid issue number passed into <nowiki>{{OFCdates}}</nowiki>. See [[Template:FigurineDates|this page]] for instructions on how to properly use the template.</span>}}}}.</includeonly><noinclude>This template is to be used for citing the release dates of individual issues of [[De Agostini]]'s ''[[Star Wars: The Official Figurine Collection]]''.
+
+==Usage==
+Copy-paste the following code and replace "NUMBER" with the appropriate issue number.
+ <nowiki>{{</nowiki>FigurineDates|''NUMBER''}}
+
+===Example===
+ <nowiki>{{FigurineDates|60}}</nowiki>
+*{{FigurineDates|60}}
+
+[[Category:Dating citation templates|{{PAGENAME}}]]</noinclude>

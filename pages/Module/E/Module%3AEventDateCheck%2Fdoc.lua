@@ -1,0 +1,1 @@
+This module is embedded in our various event infobox templates, and serves to provide auto-categorization by parsing the date fields of the infobox and extracting the ABY and BBY dates. It has some exception values that stop categorization, such as "c." and "before" or "after", and will place the article in either "Category:Events in <Year>" or "Category:Battles in <Year>".

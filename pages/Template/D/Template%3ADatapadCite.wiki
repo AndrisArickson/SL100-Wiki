@@ -1,0 +1,10 @@
+<span class="pnh">[[File:AppIcon-Datapad.png|text-bottom|x18px|link=Star Wars: Datapad]] [[Star Wars: Datapad|''Star Wars'': Datapad]]&#32;&mdash;&#32;</span>{{#ifeq:{{{1}}}|''[[Star Wars: Batuu Bounty Hunters]]''|''[[Star Wars: Batuu Bounty Hunters]]''|"{{{1}}}"}}{{#if:{{{3|}}}|&#32;{{C|screenshots: [[:File:{{{2}}}|1]]{{#if:{{{3|}}}|, [[:File:{{{3}}}|2]]}}{{#if:{{{4|}}}|, [[:File:{{{4}}}|3]]}}{{#if:{{{5|}}}|, [[:File:{{{5}}}|4]]}}{{#if:{{{6|}}}|, [[:File:{{{6}}}|5]]}}{{#if:{{{7|}}}|, [[:File:{{{7}}}|6]]}}{{#if:{{{8|}}}|, [[:File:{{{8}}}|7]]}}}}|{{#if:{{{2|}}}|&#32;{{C|[[:File:{{{2}}}|screenshot]]}}|}}}} {{#if:{{{GS|{{{gs|}}}}}}|{{C|[[Star Wars: Galactic Starcruiser|Galactic Starcruiser]] exclusive}}}}<includeonly>{{SpecialCategorizer|{{#ifeq:{{FULLPAGENAME}}|File:{{PAGENAME}}||{{#if:{{{2|}}}||[[Category:DatapadCite usages without a screenshot]]}}}}}}{{#if:{{{1|}}}||[[Category:DatapadCite usages without parameters]]}}</includeonly><noinclude>
+
+==Usage==
+Place the following code on the page and replace text with the appropriate titles and filenames. Only add "|gs=yes" if the content was exclusive to [[Star Wars: Galactic Starcruiser|''Star Wars'': Galactic Starcruiser]].<br />
+<code><nowiki>{{DatapadCite|Mission/Item title|Screenshot 1's filename|next screenshot|next screenshot|next screenshot|next screenshot|next screenshot|next screenshot|gs=yes}}</nowiki></code>
+
+*{{DatapadCite|Snowtrooper armor|SnowtrooperArmor-GEDatapad.png}}
+*{{DatapadCite|Thibs Edo|ThibsEdoConv-GEDatapad.png|ThibsEdoConv2-GEDatapad.png}}
+
+[[Category:Citation templates|DatapadCite]]</noinclude>

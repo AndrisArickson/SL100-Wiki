@@ -1,0 +1,28 @@
+<includeonly>{{#ifexist:Wookieepedia:Comprehensive article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|
+{{Iumb
+|id=CAreview
+|bg=#B0B0B0
+|image=[[File:GAThrawn-SWI66.png|100px]]
+|caption=Anyone can make an error. But that error doesn't become a mistake until you refuse to correct it.
+|message=It's been requested the [[Wookieepedia:EduCorps|EduCorps]] review this [[:Category:Wookieepedia Comprehensive articles|Comprehensive article]].
+|comment=Please consult '''[[Wookieepedia:Comprehensive article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|this article's review page]]''' to see the review process and address objections. Do not remove this tag until the article's review is complete.}}
+|
+{{Ooumb
+|id=GAreview
+|bg=#F2F5FD
+|image=[[File:Premium-FormerCAIcon.svg|30px]]
+|caption=Warning: This Comprehensive article review is incomplete.
+|message=To finish starting the review process, please complete the following steps. Otherwise, this message will be removed.
+#[{{fullurl:Wookieepedia:Comprehensive article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|action=edit&preload=Template:CAR_preload&editintro=Template:CAR_editintro}} <font style="color: #BA1902">Create the review page</font>] so that other users can review the article.
+#Copy <code><nowiki>{{</nowiki>/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}<nowiki>}}</nowiki></code> onto [{{fullurl:Wookieepedia:Comprehensive article reviews|action=edit&section=1}} the bottom of the CAR page]. This step is optional; if not done manually, {{U|JocastaBot}} will automatically do so within a few minutes.
+#[[Special:Purge/{{PAGENAME}}|Purge this page]] to update this template.
+}}}}[[Category:Wookieepedia Comprehensive articles under review]]</includeonly><noinclude>
+
+==Instructions==
+*<nowiki>{{CAreview}}</nowiki> is applied to articles by {{U|JocastaBot}} or an editor to start a review, and removed by Jocasta when a review is completed.
+
+==Categorization==
+*[[:Category:Wookieepedia Comprehensive articles under review]]
+
+[[Category:Wookieepedia EduCorps templates|Review]]
+[[Category:Status article maintenance templates]]</noinclude>

@@ -1,0 +1,6 @@
+<div id="admin2" class="messagebox noprint headerbackground" style="background: #C0C0C0; border-radius: 10px">
+{| class="headerbackground" style="background: silver;"
+| style="padding-right: 4px; padding-left: 4px;" | [[File:Lando WoSW.jpg|55px]]
+|'''Welcome! I'm an administrator of [[Wookieepedia|this facility]].'''<br /><small>This Wookieepedian is an [[Wookieepedia:Administrators|administrator]] of the site.  Any complaints, problems, or queries should be posted either on this user's [[:{{NAMESPACE}} talk:{{PAGENAME}}|talk page]], or in the [[Forum:Senate Hall|Senate Hall]].</small>
+|}
+</div><includeonly>{{SpecialCategorizer|[[Category:Wookieepedia administrators|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|sprot}}[[Category:User page templates|{{PAGENAME}}]]</noinclude>

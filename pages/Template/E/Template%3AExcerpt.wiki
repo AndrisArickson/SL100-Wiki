@@ -1,0 +1,158 @@
+{| class="transparent-background" style="border:1px solid #AAA; border-collapse:collapse; background:{{{background|#F9F9F9}}}; -moz-border-radius:6px; margin:0.5em 1em; width:{{{width|auto}}}"
+{{#if:{{{attrib|}}}{{{source|}}}|{{!}}- class="headerbackground" style="font-size:90%; border-bottom:1px solid #AAA; background:#DDD"
+{{!}} class="infoboxcell" style="padding:4px" {{!}} {{#if:{{{source|}}}|'''Source''': &#32;|}}{{{source|}}}
+{{!}} class="infoboxcell" style="padding:4px" {{!}} {{#if:{{{attrib|}}}|'''Attribution''': &#32;|}}{{{attrib|}}}
+{{!}}-|}}
+| {{#if:{{{attrib|}}}{{{source|}}}|colspan="2"|}} style="padding:4px; background:transparent; color:{{{color|auto}}}; font-family:{{{font-family|sans-serif}}}" | {{{1}}}
+{{#if:{{{copyright|}}}|{{!}}- class="headerbackground" style="font-size:90%; border-top:1px solid #AAA; text-align:center; background:#DDD;"
+{{!}} {{#if:{{{attrib|}}}{{{source|}}}|colspan="2"|}} style="padding:4px" {{!}} ''This work is [[Wookieepedia:Copyrights|copyrighted]]. The individual who uploaded this work asserts that this qualifies as [[wikipedia:Fair use|fair use]] of the material under United States copyright law.''
+|{{!}}-}}
+|}<noinclude>{{Top|sprot}} __NOEDITSECTION__ __NOTOC__
+{{Clear}}
+==Description==
+'''This template should not be used for articles&mdash;see {{Tl|ExcerptIU}} instead'''. This template can be used to format excerpts of text for presentation on talk pages. It is meant to help users discuss changes to article, present alternatives, and/or post references. It is a more powerful alternative to {{Tl|Quote}}, which has traditionally been used in those circumstances.
+
+==Usage==
+<code><nowiki>{{Excerpt|</nowiki>{{Var|text}}<nowiki>|source=|attrib=|copyright=|width=|background=|color=|font-family=}}</nowiki></code>
+===Required parameters===
+#{{Para||{{Var|text}}}} The excerpt text.
+
+===Optional parameters===
+*{{Para|source}} Used to provide a link to the original source of the excerpt.
+*{{Para|attrib}} Used in conjunction with the source field to provide attribution.
+*{{Para|copyright}} Displays a copyright warning if specified.
+*{{Para|width}} Width modifier.
+*{{Para|background}} Excerpt background color.
+*{{Para|color}} Excerpt text color.
+*{{Para|font-family}} Excerpt text font, defaults to [[wikipedia:Sans-serif|sans-serif]].
+
+==Examples==
+===Text only===
+====Code====
+<pre>{{Excerpt|
+<- Your text goes here ->
+}}</pre>
+
+====Result====
+{{Excerpt|
+<- Your text goes here ->
+}}
+
+===Source parameter===
+====Code====
+<pre>{{Excerpt|
+<- Your text goes here ->
+|source=<- Your internal or external links go here ->
+}}</pre>
+
+====Result====
+{{Excerpt|
+<- Your text goes here ->
+|source=<- ''Your internal or external link goes here'' ->
+}}
+
+===Attribution parameter===
+====Code====
+<pre>{{Excerpt|
+<- Your text goes here ->
+|source=<- Your internal or external links go here ->
+|attrib=<- Your attribution information goes here ->
+}}</pre>
+
+====Result====
+{{Excerpt|
+<- Your text goes here ->
+|source=<- Your internal or external links go here ->
+|attrib=<- Your attribution information goes here ->
+}}
+
+===Copyright modifier===
+====Code====
+<pre>{{Excerpt|
+<- Your text goes here ->
+|copyright=true
+}}</pre>
+
+====Result====
+{{Excerpt|
+<- Your text goes here ->
+|copyright=true
+}}
+
+===Width modifier===
+====Code====
+<pre>{{Excerpt|
+<- Your text goes here ->
+|width=250px
+}}</pre>
+
+====Result====
+{{Excerpt|
+<- Your text goes here ->
+|width=250px
+}}
+
+===Style modifiers===
+====Code====
+<pre>{{Excerpt|
+<- Your text goes here ->
+|background=black
+|color=yellow
+|font-family=courier new, courier, monospace
+}}</pre>
+
+====Result====
+{{Excerpt|
+<- Your text goes here ->
+|background=black
+|color=yellow
+|font-family=courier new, courier, monospace
+}}
+
+===Large excerpts===
+====Code====
+<pre>
+{{Excerpt|
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+|source=[[wikipedia:Template:Lorum ipsum/doc]]
+|copyright=true
+|attrib=Unknown
+}}
+</pre>
+
+====Result====
+{{Excerpt|
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+|source=[[wikipedia:Template:Lorum ipsum/doc]]
+|copyright=true
+|attrib=Unknown
+}}
+
+===Large excerpts with quotes===
+====Code====
+<pre>
+{{Excerpt|
+{{Quote|Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.|Latin gibberish|wikipedia:Template:Lorum ipsum}}
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+
+Fusce convallis, mauris imperdiet gravida bibendum, nisl turpis suscipit mauris, sed placerat ipsum urna sed risus. In convallis tellus a mauris. Curabitur non elit ut libero tristique sodales. Mauris a lacus. Donec mattis semper leo. In hac habitasse platea dictumst. Vivamus facilisis diam at odio. Mauris dictum, nisi eget consequat elementum, lacus ligula molestie metus, non feugiat orci magna ac sem. Donec turpis. Donec vitae metus. Morbi tristique neque eu mauris. Quisque gravida ipsum non sapien. Proin turpis lacus, scelerisque vitae, elementum at, lobortis ac, quam. Aliquam dictum eleifend risus. In hac habitasse platea dictumst. Etiam sit amet diam. Suspendisse odio. Suspendisse nunc. In semper bibendum libero.
+|source=[[wikipedia:Template:Lorum ipsum]] ([[wikipedia:Template:Lorum ipsum#Full text|"Full text" section]])
+}}
+</pre>
+
+====Result====
+{{Excerpt|
+{{Quote|Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.|Latin gibberish|wikipedia:Template:Lorum ipsum}}
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+
+Fusce convallis, mauris imperdiet gravida bibendum, nisl turpis suscipit mauris, sed placerat ipsum urna sed risus. In convallis tellus a mauris. Curabitur non elit ut libero tristique sodales. Mauris a lacus. Donec mattis semper leo. In hac habitasse platea dictumst. Vivamus facilisis diam at odio. Mauris dictum, nisi eget consequat elementum, lacus ligula molestie metus, non feugiat orci magna ac sem. Donec turpis. Donec vitae metus. Morbi tristique neque eu mauris. Quisque gravida ipsum non sapien. Proin turpis lacus, scelerisque vitae, elementum at, lobortis ac, quam. Aliquam dictum eleifend risus. In hac habitasse platea dictumst. Etiam sit amet diam. Suspendisse odio. Suspendisse nunc. In semper bibendum libero.
+|source=[[wikipedia:Template:Lorum ipsum]] ([[wikipedia:Template:Lorum ipsum#Full text|"Full text" section]])
+}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,50 @@
+This template is to be used for citing individual pages on [[Dorling Kindersley]]'s official website.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{DK|url=|text=|host=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=|oldversion=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.dk.com/us/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|uk}} If the page being cited is located on <code><nowiki>https://www.dk.com/uk/</nowiki></code>, use "<code>|uk=1</code>" here. (Deprecated)
+*{{Para|subdomain}}
+*{{Para|host}} Used to replace the dk.com domain to point to other sites, such as dorlingkindersley.de
+*{{Para|oldversion}} use <code>|oldversion=1</code> when the current version of the web page no longer includes the target information.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Finding dead links==
+Pasting <nowiki>https://web.archive.org/web/*/dk.com/COUNTYCODE/book/ISBN*</nowiki> into your browser will produce any archived links for that book.
+
+Replace ISBN with the ISBN of the book in question.
+
+Replace COUNTRYCODE with the appropriate code. See the list below.
+*au = Australia
+*uk = United Kingdom
+*us = United States
+
+==Example(s)==
+;Standard
+<code><nowiki>{{DK|url=us/book/9780744027310-star-wars-skywalker-a-family-at-war|text=Star Wars Skywalker – A Family At War|archivedate=20220525183715}}</nowiki></code>
+
+Results in:
+
+{{DK|url=us/book/9780744027310-star-wars-skywalker-a-family-at-war|text=Star Wars Skywalker – A Family At War|archivedate=20220525183715}}
+
+<hr />
+;Using {{Para|uk}}
+<code><nowiki>{{DK|url=uk/book/9780241357668-ultimate-star-wars-new-edition|text=Ultimate Star Wars New Edition|archivedate=20220623192438}}</nowiki></code>
+
+Results in:
+
+{{DK|url=uk/book/9780241357668-ultimate-star-wars-new-edition|text=Ultimate Star Wars New Edition|archivedate=20220623192438}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

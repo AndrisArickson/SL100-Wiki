@@ -1,0 +1,12 @@
+|-
+| {{#if:{{{oldid|}}}|[[Special:PermanentLink/{{{oldid|}}}|{{{date|Unknown}}}]]|{{{date|Unknown}}}}}
+| {{#if:{{{link|}}}|{{#if:{{{user|}}}|{{Col2}}|}} [[{{{link}}}|{{Ahconv|{{{process|}}}}}]] {{#if:{{#pos:{{{link|}}}|nominations}}|{{#switch:{{{process|}}}
+  | FA = {{#if:{{{user|}}}|by {{U|{{{user}}}}}{{#if:{{{user2|}}}|&#32;and {{U|{{{user2}}}}}}}|{{#if:{{{legacy|}}}||{{#if:{{#pos:{{{link|}}}|Re-featured}}||{{#if:{{#pos:{{{link|}}}|Redux}}||[[Category:Ahm usages without user parameter]]}}}}}}}}
+  | GA = {{#if:{{{user|}}}|by {{U|{{{user}}}}}{{#if:{{{user2|}}}|&#32;and {{U|{{{user2}}}}}}}|{{#if:{{{legacy|}}}||[[Category:Ahm usages without user parameter]]}}}}
+  | CA = {{#if:{{{user|}}}|by {{U|{{{user}}}}}{{#if:{{{user2|}}}|&#32;and {{U|{{{user2}}}}}}}|{{#if:{{{legacy|}}}||[[Category:Ahm usages without user parameter]]}}}}
+|}}|}}|{{Ahconv|{{{process|}}}}}}} {{#if:{{{pagename|}}}|(as {{{pagename}}})|}}
+| {{{result|}}}<noinclude>
+
+[[Category:Article history templates|{{PAGENAME}}]]
+
+</noinclude>

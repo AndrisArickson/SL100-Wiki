@@ -1,0 +1,28 @@
+This template is to be used for citing individual pages on [[IDW Publishing]]'s [http://www.idwpublishing.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{IDW|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.idwpublishing.com/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{IDW|url=product/star-wars-adventures-vol-1|text=Star Wars Adventures, Vol. 1|archivedate=20181204201128}}</nowiki></code>
+
+Results in:
+
+{{IDW|url=product/star-wars-adventures-vol-1|text=Star Wars Adventures, Vol. 1|archivedate=20181204201128}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

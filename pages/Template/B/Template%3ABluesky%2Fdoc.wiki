@@ -1,0 +1,43 @@
+==Usage==
+<code><nowiki>
+{{Bluesky|username=|url=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}
+</nowiki></code>
+
+===Required parameters===
+*{{Para|username}} Bluesky handle of the user, such as <code>jasoncfry.bsky.social</code>.
+*{{Para|url}} URL to the post in question, such as <code>post/3k3vu7l246d24</code>.
+*{{Para|name}} Actual name of the user, linked to Wookieepedia if possible, for example <code><nowiki>[[Jason Fry]]</nowiki></code>.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|date}} The date the post was posted online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Users are encouraged to utilize the optional "quote" field in the template whenever possible, as Bluesky posts are subject to permanent removal at any time.
+
+===Example(s)===
+Post:
+<pre>
+{{Bluesky|username=infinata.bsky.social|url=post/3lr3zdqpdls2r|name=[[Pablo Hidalgo]]|date=2025-06-08|quote=The TIMELINES book went with the year leading up to the Battle of Yavin is 1BBY which counts down to the event at the end of its year. There is no 0 BBY. But then the battle is the zero mark, the start of 0 ABY and 1 ABY doesn't start until a year has passed.}}
+</pre>
+
+Produces:
+
+{{Bluesky|username=infinata.bsky.social|url=post/3lr3zdqpdls2r|name=[[Pablo Hidalgo]]|date=2025-06-08|quote=The TIMELINES book went with the year leading up to the Battle of Yavin is 1BBY which counts down to the event at the end of its year. There is no 0 BBY. But then the battle is the zero mark, the start of 0 ABY and 1 ABY doesn't start until a year has passed.}}
+
+<hr />
+
+Profile:
+<pre>
+{{Bluesky|username=holocronkeeper.bsky.social|name=[[Leland Chee|Keeper of the Holocron]]}}
+</pre>
+
+Produces:
+
+{{Bluesky|username=holocronkeeper.bsky.social|name=[[Leland Chee|Keeper of the Holocron]]}}
+
+==See also==
+*[[:Category:Screenshots of social media posts]]
+*[[Wookieepedia:Social media screenshots]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

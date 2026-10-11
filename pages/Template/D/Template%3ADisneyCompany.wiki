@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyCompany
+|image=[[File:DisneyCompany-favicon.png|text-top|x16px|link=https://thewaltdisneycompany.com]]
+|site_text=[[the Walt Disney Company]]'s [https://thewaltdisneycompany.com official website]
+|base_url=https://thewaltdisneycompany.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

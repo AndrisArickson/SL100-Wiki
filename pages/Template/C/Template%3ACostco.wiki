@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Costco
+|image=[[File:Costco-Logo.svg|text-top|x16px|link=https://www.costco.com]]
+|site_text=[[Wikipedia:Costco|Costco's]] [https://www.costco.com official website]
+|base_url=https://{{{subdomain|www}}}.costco.com
+|target_url={{{url|}}}
+|no_archive=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

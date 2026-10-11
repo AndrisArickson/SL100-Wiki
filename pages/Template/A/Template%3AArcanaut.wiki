@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Arcanaut
+|image=[[File:Arcanaut-favicon.png|text-top|x16px|link=https://www.arcanautstudios.com]]
+|site_text=[[Arcanaut Studios]]' [https://www.arcanautstudios.com official website]
+|base_url=https://{{#if:{{{subdomain|}}}|{{{subdomain|}}}.|}}arcanautstudios.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

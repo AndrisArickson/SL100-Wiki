@@ -1,0 +1,11 @@
+{{#invoke:BaseCitation|main|template=AdvUnCite
+|mode=magazine
+|image=[[File:AdvUn.jpg|text-bottom|link=Adventures Unlimited]]
+|series=Adventures Unlimited
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+}}<noinclude>{{Documentation}}</noinclude>

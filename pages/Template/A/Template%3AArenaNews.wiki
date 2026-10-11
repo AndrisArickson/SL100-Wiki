@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ArenaNews
+|image=[[File:ArenaNews-Logo.png|text-top|x18px|link=https://starwarshunters.com]]
+|site_text=[[Arena News]]
+|base_url=https://starwarshunters.com/arena-news
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

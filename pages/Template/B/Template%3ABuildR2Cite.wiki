@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=BuildR2Cite
+|mode=ref
+|series=Star Wars: Build Your Own R2-D2
+|issue={{{1}}}
+|child={{{2}}}
+|lookupText=true
+|lookupType=RefMagazine
+|lookupCombine=true
+|lookupTextOnly=true
+|lookupTextValue={{{3|}}}
+|parentMode={{{parent|}}}
+}}<noinclude>{{Documentation}}</noinclude>

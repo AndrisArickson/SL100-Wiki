@@ -1,0 +1,18 @@
+<div class="col plainlinks" style="flex: 1; border: 2px solid #D3D3D3; margin: 5px; padding: 5px; align: center; width: 50%;">
+{| width="100%"
+| valign="middle" width="20%" |
+[[File:Site-logo.png|75px]]
+| valign="middle" style="margin-left: 15px; padding-left: 15px;" |
+<br /><br /><br />
+For a list of former administrators, see the [[Wookieepedia:Requests for user rights/RFA archive|Requests for adminship archive]].
+
+Do you want to become the next Wookieepedia administrator? See "[[Wookieepedia:Administrators#Becoming an administrator|Becoming an administrator]]" below for more information.
+
+Other user access levels can be found [[Wookieepedia:User access levels|here]].
+<br /><br /><br />
+|}
+</div><noinclude>
+
+For use on [[Wookieepedia:Administrators]] when there is an odd number of administrators.
+
+[[Category:Administrative templates]]</noinclude>

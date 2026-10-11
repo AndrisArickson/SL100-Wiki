@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Egmont
+|image=[[File:Egmont-Favicon.svg|text-top|x16px|link=https://www.egmont.com]]
+|site_text=[[Egmont]]'s [https://www.egmont.com official website]
+|base_url=https://{{{subdomain|www}}}.egmont.{{{domain|com}}}
+|target_url={{{url|}}}
+|nolive={{{nolive|{{#ifeq:{{{domain|}}}|co.uk|1|}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

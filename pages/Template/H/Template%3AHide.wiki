@@ -1,0 +1,9 @@
+<div class="hidable start-hidden">
+<div style="width: 70%; background: none; padding-left: 1em"><span class="hidable-button"></span> '''{{{title|&#32;}}}'''</div>
+<div class="hidable-content">
+{{{content|{{{1}}}}}}</div>
+</div><noinclude>{{Top|sprot}}
+
+[[Category:Utility templates|{{PAGENAME}}]]
+
+</noinclude>

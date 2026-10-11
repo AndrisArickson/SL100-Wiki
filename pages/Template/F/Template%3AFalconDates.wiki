@@ -1,0 +1,34 @@
+<includeonly>{{Fanhome|url=star-wars/millenium-falcon|text=''Millennium Falcon''|nolive=1}} indicates that the first two issues of ''[[Star Wars: Millennium Falcon (magazine)|Star Wars: Millennium Falcon]]'' were shipped together, and issues 3-6 was shipped the next month, with each month afterwards including 5 issues, aside from the final shipment of 4. As the series began publication in [[August]] [[2023]], that means issues {{#switch:{{{1|}}}
+|1|2 = issues 1 & 2 were published in [[August]] [[2023]].
+|3|4|5|6 = issues 3&ndash;6 were published in [[September]] [[2023]].
+|7|8|9|10|11 = issues 7&ndash;11 were published in [[October]] [[2023]].
+|12|13|14|15|16 = issues 12&ndash;16 were published in [[November]] [[2023]].
+|17|18|19|20|21 = issues 17&ndash;21 were published in [[December]] [[2023]].
+|22|23|24|25|26 = issues 22&ndash;26 were published in [[January]] [[2024]].
+|27|28|29|30|31 = issues 27&ndash;31 were published in [[February]] [[2024]].
+|32|33|34|35|36 = issues 32&ndash;36 were published in [[March]] [[2024]].
+|37|38|39|40|41 = issues 37&ndash;41 were published in [[April]] [[2024]].
+|42|43|44|45|46 = issues 42&ndash;46 were published in [[May]] [[2024]].
+|47|48|49|50|51 = issues 47&ndash;51 were published in [[June]] [[2024]].
+|52|53|54|55|56 = issues 52&ndash;56 were published in [[July]] [[2024]].
+|57|58|59|60|61 = issues 57&ndash;61 were published in [[August]] [[2024]].
+|62|63|64|65|66 = issues 62&ndash;66 were published in [[September]] [[2024]].
+|67|68|69|70|71 = issues 67&ndash;71 were published in [[October]] [[2024]].
+|72|73|74|75|76 = issues 72&ndash;76 were published in [[November]] [[2024]].
+|77|78|79|80|81 = issues 77&ndash;81 were published in [[December]] [[2024]].
+|82|83|84|85|86 = issues 82&ndash;86 were published in [[January]] [[2025]].
+|87|88|89|90|91 = issues 87&ndash;91 were published in [[February]] [[2025]].
+|92|93|94|95|96 = issues 92&ndash;96 were published in [[March]] [[2025]].
+|97|98|99|100= issues 97&ndash;100 were published in [[April]] [[2025]].
+|=<!--do nothing if no parameter-->
+|#default={{#switch:{{FULLPAGENAME}}|Template:FalconDates|#default=<span style="font-size: 1.5em; color: red">Template error: Invalid issue number passed into <nowiki>{{FalconDates}}</nowiki>. See [[Template:FalconDates|this page]] for instructions on how to properly use the template.</span>}}}}</includeonly><noinclude>This template is to be used for citing the release dates of individual issues of [[De Agostini]]'s [[Star Wars: Millennium Falcon (magazine)|''Star Wars: Millennium Falcon'']] magazine.
+
+==Usage==
+Copy-paste the following code and replace "NUMBER" with the appropriate issue number.
+ <nowiki>{{</nowiki>FalconDates|''NUMBER''}}
+
+===Example===
+ <nowiki>{{FalconDates|75}}</nowiki>
+*{{FalconDates|75}}
+
+[[Category:Dating citation templates|{{PAGENAME}}]]</noinclude>

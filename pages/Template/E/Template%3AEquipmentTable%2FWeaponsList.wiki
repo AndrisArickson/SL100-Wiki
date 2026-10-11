@@ -1,0 +1,164 @@
+<onlyinclude>{{{{{templateName|{{{1|EquipmentTable}}}}}}<!--
+-->|Basic A280 Repeating Rifle<!--
+-->|Perfect A280 Repeating Rifle<!--
+-->|Upgraded A280 Repeating Rifle<!--
+-->|Basic A280 Target Rifle<!--
+-->|Perfect A280 Target Rifle<!--
+-->|Upgraded A280 Target Rifle<!--
+-->|Balanced Assault Blade<!--
+-->|Calibrated Assault Blade<!--
+-->|Customized Assault Blade<!--
+-->|Modified Assault Blade<!--
+-->|Polished Assault Blade<!--
+-->|Rechambered Assault Blade<!--
+-->|Retooled Assault Blade<!--
+-->|Rough Assault Blade<!--
+-->|Sporting Assault Blade<!--
+-->|Stock Assault Blade<!--
+-->|Tactical Assault Blade<!--
+-->|Weighted Assault Blade<!--
+-->|Customized BlasTech Assault Pistol<!--
+-->|Modified BlasTech Assault Pistol<!--
+-->|Stock BlasTech Assault Pistol<!--
+-->|Customized BlasTech Assault Rifle<!--
+-->|Modified BlasTech Assault Rifle<!--
+-->|Stock BlasTech Assault Rifle<!--
+-->|Customized BlasTech Carbine Pistol<!--
+-->|Modified BlasTech Carbine Pistol<!--
+-->|Stock BlasTech Carbine Pistol<!--
+-->|Customized BlasTech Carbine Rifle<!--
+-->|Modified BlasTech Carbine Rifle<!--
+-->|Stock BlasTech Carbine Rifle<!--
+-->|Rough BlasTech Target Pistol<!--
+-->|Makeshift Blaster Pistol<!--
+-->|Makeshift Blaster Rifle<!--
+-->|Bowcaster<!--
+-->|Calibrated Vibro-ax<!--
+-->|BlasTech Carbine Rifle<!--
+-->|Basic Defender Repeating Pistol<!--
+-->|Perfect Defender Repeating Pistol<!--
+-->|Upgraded Defender Repeating Pistol<!--
+-->|Basic Defender Target Pistol<!--
+-->|Perfect Defender Target Pistol<!--
+-->|Upgraded Defender Target Pistol<!--
+-->|Balanced DL-44 Assault Pistol<!--
+-->|Basic DL-44 Assault Pistol<!--
+-->|Perfect DL-44 Assault Pistol<!--
+-->|Polished DL-44 Assault Pistol<!--
+-->|Rechambered DL-44 Assault Pistol<!--
+-->|Upgraded DL-44 Assault Pistol<!--
+-->|Balanced DL-44 Carbine Pistol<!--
+-->|Basic DL-44 Carbine Pistol<!--
+-->|Perfect DL-44 Carbine Pistol<!--
+-->|Polished DL-44 Carbine Pistol<!--
+-->|Rechambered DL-44 Carbine Pistol<!--
+-->|Upgraded DL-44 Carbine Pistol<!--
+-->|Basic DLT-19 Assault Rifle<!--
+-->|Perfect DLT-19 Assault Rifle<!--
+-->|Upgraded DLT-19 Assault Rifle<!--
+-->|Basic DLT-19 Carbine Rifle<!--
+-->|Perfect DLT-19 Carbine Rifle<!--
+-->|Upgraded DLT-19 Carbine Rifle<!--
+-->|Basic DLT20A Assault Rifle<!--
+-->|Perfect DLT20A Assault Rifle<!--
+-->|Upgraded DLT20A Assault Rifle<!--
+-->|Basic DLT20A Carbine Rifle<!--
+-->|Perfect DLT20A Carbine Rifle<!--
+-->|Upgraded DLT20A Carbine Rifle<!--
+-->|Balanced Duelist Blade<!--
+-->|Calibrated Duelist Blade<!--
+-->|Customized Duelist Blade<!--
+-->|Duelist Blade<!--
+-->|Modified Duelist Blade<!--
+-->|Polished Duelist Blade<!--
+-->|Rechambered Duelist Blade<!--
+-->|Retooled Duelist Blade<!--
+-->|Rough Duelist Blade<!--
+-->|Sporting Duelist Blade<!--
+-->|Stock Duelist Blade<!--
+-->|Tactical Duelist Blade<!--
+-->|Weighted Duelist Blade<!--
+-->|Basic E-11 Repeating Rifle<!--
+-->|Perfect E-11 Repeating Rifle<!--
+-->|Upgraded E-11 Repeating Rifle<!--
+-->|Basic E-11 Target Rifle<!--
+-->|Perfect E-11 Target Rifle<!--
+-->|Upgraded E-11 Target Rifle<!--
+-->|Makeshift Blade<!--
+-->|Balanced Parry Blade<!--
+-->|Calibrated Parry Blade<!--
+-->|Customized Parry Blade<!--
+-->|Modified Parry Blade<!--
+-->|Polished Parry Blade<!--
+-->|Rechambered Parry Blade<!--
+-->|Retooled Parry Blade<!--
+-->|Rough Parry Blade<!--
+-->|Sporting Parry Blade<!--
+-->|Stock Parry Blade<!--
+-->|Tactical Parry Blade<!--
+-->|Weighted Parry Blade<!--
+-->|Rat Stunner<!--
+-->|Basic Rebly-v5c Repeating Rifle<!--
+-->|Perfect Rebly-v5c Repeating Rifle<!--
+-->|Upgraded Rebly-v5c Repeating Rifle<!--
+-->|Basic Rebly-v5c Target Rifle<!--
+-->|Perfect Rebly-v5c Target Rifle<!--
+-->|Upgraded Rebly-v5c Target Rifle<!--
+-->|Retooled Relby Assault Pistol<!--
+-->|Rough Relby Assault Pistol<!--
+-->|Sporting Relby Assault Pistol<!--
+-->|Retooled Relby Carbine Pistol<!--
+-->|Rough Relby Carbine Pistol<!--
+-->|Sporting Relby Carbine Pistol<!--
+-->|Retooled Relby Repeating Pistol<!--
+-->|Rough Relby Repeating Pistol<!--
+-->|Sporting Relby Repeating Pistol<!--
+-->|Retooled Relby Target Pistol<!--
+-->|Rough Relby Target Pistol<!--
+-->|Sporting Relby Target Pistol<!--
+-->|Balanced Retraction Blade<!--
+-->|Calibrated Retraction Blade<!--
+-->|Customized Retraction Blade<!--
+-->|Modified Retraction Blade<!--
+-->|Polished Retraction Blade<!--
+-->|Rechambered Retraction Blade<!--
+-->|Retooled Retraction Blade<!--
+-->|Rough Retraction Blade<!--
+-->|Sporting Retraction Blade<!--
+-->|Stock Retraction Blade<!--
+-->|Tactical Retraction Blade<!--
+-->|Weighted Retraction Blade<!--
+-->|Basic T-7 Ion Disruptor<!--
+-->|Tactical Vibro-ax<!--
+-->|Weighted Vibro-ax<!--
+-->|Retooled WESTAR Assault Rifle<!--
+-->|Rough WESTAR Assault Rifle<!--
+-->|Sporting WESTAR Assault Rifle<!--
+-->|Retooled WESTAR Carbine Rifle<!--
+-->|Rough WESTAR Carbine Rifle<!--
+-->|Sporting WESTAR Carbine Rifle<!--
+-->|Balanced WESTAR Repeating Pistol<!--
+-->|Customized WESTAR Repeating Pistol<!--
+-->|Modified WESTAR Repeating Pistol<!--
+-->|Polished WESTAR Repeating Pistol<!--
+-->|Rechambered WESTAR Repeating Pistol<!--
+-->|Stock WESTAR Repeating Pistol<!--
+-->|Retooled WESTAR Repeating Rifle<!--
+-->|Rough WESTAR Repeating Rifle<!--
+-->|Sporting WESTAR Repeating Rifle<!--
+-->|Balanced WESTAR Target Pistol<!--
+-->|Customized WESTAR Target Pistol<!--
+-->|Modified WESTAR Target Pistol<!--
+-->|Polished WESTAR Target Pistol<!--
+-->|Rechambered WESTAR Target Pistol<!--
+-->|Stock WESTAR Target Pistol<!--
+-->|Retooled WESTAR Target Rifle<!--
+-->|Rough WESTAR Target Rifle<!--
+-->|Sporting WESTAR Target Rifle<!--
+-->|Modified Wookiee Bowcaster<!--
+-->|Wookiee Bowcaster<!--
+-->|arg1={{{arg1|{{{2|}}}}}}<!--
+-->|arg2={{{arg2|{{{3|}}}}}}<!--
+-->|arg3={{{arg3|{{{4|}}}}}}<!--
+-->}}</onlyinclude>
+[[Category:Equipment Templates for Star Wars: Uprising]]

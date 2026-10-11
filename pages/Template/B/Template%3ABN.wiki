@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=BN
+|image=[[File:LogoBN.png|text-top|x16px|link=https://www.barnesandnoble.com]]
+|site_text=[[Wikipedia:Barnes & Noble|Barnes & Noble's]] [https://www.barnesandnoble.com official website]
+|base_url=https://{{{subdomain|www}}}.barnesandnoble.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,25 @@
+{| id="Game-mechanics" class="darkbackground1 noprint spoiler"
+|-
+!<div style="color:black;">This section of the article assumes {{#if:{{{option|}}}
+	|a specific path in {{#if:{{{1|}}}|''[[{{{1|}}}]]''|a video game}}{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Pages using Template:Gamemechanics with option parameter]]}}
+	|{{#if:{{{char|}}}
+		|that the player chooses this character in the course of the game
+		|{{#if:{{{faction|}}}
+			|that the player chose to align with the {{{faction}}}
+			|100% game completion{{#if:{{{1|}}}|&#32;of {{#if:{{{2|}}}|[[{{{1|}}}{{!}}{{{2}}}]]|''[[{{{1|}}}]]''}}|}}
+		}}
+	}}
+}}. Any alternate {{#if:{{{option|}}}|paths|stories}} may be noted in the "[[#Behind the scenes|Behind the scenes]]" section. The events in this section may or may not have been confirmed as [[canon]]{{#if:{{{legends|}}}|&#32;within the [[Star Wars Legends|''Star Wars'' Legends]] continuity|}}.</div>
+|}<includeonly>{{SpecialCategorizer|[[Category:Articles with gameplay alternatives]]}}</includeonly><noinclude>
+{{Top|fprot}}
+
+==Usage==
+This template should be used in conjunction with {{Tl|EndGame}}.
+
+*To display a game, use the game name in the first parameter, and if necessary the altered name in the second parameter. 
+*For use with a specific path in a video game, use "<nowiki>{{GameMechanics|option=1}}</nowiki>". 
+*For use with a specific faction in a video game, use "<nowiki>{{GameMechanics|faction=Faction name}}</nowiki>". 
+*To change the message to "the player chooses this character", use "<nowiki>{{GameMechanics|char=1}}</nowiki>".
+*For Legends articles, use "<nowiki>{{GameMechanics|legends=1}}</nowiki>". 
+
+[[Category:Advisory templates|{{PAGENAME}}]]</noinclude>

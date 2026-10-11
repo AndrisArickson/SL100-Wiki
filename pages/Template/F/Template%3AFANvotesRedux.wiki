@@ -1,0 +1,7 @@
+<includeonly>{{#invoke:Votes|main
+|title={{{1|}}}
+|archive={{{2|}}}
+|type=FAN
+|count=Inq
+|redux=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

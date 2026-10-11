@@ -1,0 +1,10 @@
+{{Ooumb
+|id = FileVote
+|bg = #D8E9FC
+|image = [[File:Blue-exclamation-mark.png|40px]]
+|caption = One or more animation(s) or video(s) used on this article received approval via [[Wookieepedia:Consensus#Animation and video consensus votes|community consensus]].
+|message = You can find the relevant discussion{{#if:{{{ct2|}}}|s|}} [[{{{1|}}}|'''here''']]{{#if:{{{ct2|}}}|&nbsp;and [[{{{ct2|}}}|'''here''']].|.}} The affected files are: {{{2|}}}{{#if:{{{3|}}}|, {{{3|}}}|}}{{#if:{{{4|}}}|, {{{4|}}}|}}{{#if:{{{5|}}}|, {{{5|}}}|}}{{#if:{{{6|}}}|, {{{6|}}}|}}
+}}<noinclude>[[Category:Talk page templates]]
+
+==Usage==
+<code><nowiki>{{FileVote|</nowiki>{{Var|Consensus track}}|{{Var|File}}}}</code></noinclude>

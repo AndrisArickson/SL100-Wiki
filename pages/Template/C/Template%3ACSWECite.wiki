@@ -1,0 +1,13 @@
+''[[The Complete Star Wars Encyclopedia]]''{{#ifeq:{{{1}}}|multiple|&#32;{{C|Mentioned in multiple entries, but without own entry}}<!--
+
+volume
+-->|, Vol. {{{1}}}<!--
+
+page
+-->{{#if:{{{2|}}}|, p. {{{2}}}}}<!--
+
+entry
+-->{{#if:{{{3|}}}|&#32;<small>("{{{3}}}")</small>}}}}<!--
+
+catching invalid usages of the template
+-->{{#ifeq:{{PAGENAME}}|CSWECite||{{#if:{{{1|}}}{{{2|}}}{{{3|}}}||[[Category:Invalid usages of citation templates]]}}{{#ifeq:{{{1}}}|jang|[[Category:Invalid usages of citation templates]]}}}}<noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

@@ -1,0 +1,27 @@
+<includeonly>Per [[Forum:CT:Dating future SWTOR story and Dynamic Encounters]], Wookieepedia treats Dynamic Encounters on the various planets in ''[[Star Wars: The Old Republic]]'' as occurring in the in-universe year that the respective planet's main events take place in, unless details of the encounter conflict with that date. {{#if:{{{reason|}}}
+|However, the events of Dynamic Encounter: "{{{1|{{{title|}}}}}}" must occur {{{year|}}}, because {{{reason|}}}.
+|Therefore, the events of Dynamic Encounter: "{{{1|{{{title|}}}}}}", which takes place on {{{2|{{{planet}}}}}}, take place in {{#switch: {{{2|{{{planet}}}}}}
+ | Tython = [[3643 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Ord Mantell = [[3643 BBY]], per the reasoning [[Template:TOR dates|here]]
+ | Hutta = [[3643 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Korriban = [[3643 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Coruscant = [[3643 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Dromund Kaas = [[3643 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Tatooine = [[3643 BBY]], per the reasoning [[Template:TOR dates|here]]
+ | Hoth = [[3641 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Ilum = [[3640 BBY]] per the reasoning [[Template:TOR dates|here]]
+ | Dantooine = [[3622 BBY]] per the reasoning [[Template:TOR updates|here]]
+}}.
+}}</includeonly><noinclude>
+
+This template is used to date the events of various Dynamic Encounters in ''[[Star Wars: The Old Republic]]'', per [[Forum:CT:Dating future SWTOR story and Dynamic Encounters]]. For Dynamic Encounters whose events conflict with the planet's dates, the <code>reason</code> and <code>year</code> parameters must be given.
+
+:<code><nowiki>{{DynamicDate|Radio Silencing|Tatooine}}</nowiki></code>
+Results in:
+:{{DynamicDate|Radio Silencing|Tatooine}}
+
+:<code><nowiki>{{DynamicDate|title=Insert Name Here|year=no earlier than [[3636 BBY]]|reason=[[Darth Xarion]] is mentioned as being a member of the [[Dark Council]], and Xarion was not a councilor before the [[Eternal Empire conquest]]}}</nowiki></code>
+Result in:
+:{{DynamicDate|title=Insert Name Here|year=no earlier than [[3636 BBY]]|reason=[[Darth Xarion]] is mentioned as being a member of the [[Dark Council]], and Xarion was not a councilor before the [[Eternal Empire conquest]]}}
+
+[[Category:Star Wars: The Old Republic dating citation templates]]</noinclude>

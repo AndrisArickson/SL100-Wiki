@@ -1,0 +1,8 @@
+<includeonly><span class="plainlinks">[[File:Discord-Logo.svg|text-top|x16px]]&#32;[[{{{2|{{{name}}}}}}]] (@{{{1|{{{discordname}}}}}}) on [[Wikipedia:Discord|Discord]]{{#if:{{{date|}}}|&#32;({{#time:[[F j]], [[Y]]|{{{date}}}}})|}}{{#if:{{{quote|}}}|&#58;&#32;"{{{quote}}}"}}{{#if:{{{messagelink|}}}|&#32;<small>([{{{messagelink}}} message link])</small>|}}{{ArchiveAccess
+    |template_name=Discord
+    |archivefile={{{archivefile|}}}
+    |nobackup={{{nobackup|}}}
+    |no_archive=1
+    |par=1
+    |social_media_citation=1
+  }}</span></includeonly><noinclude>{{Documentation}}</noinclude>

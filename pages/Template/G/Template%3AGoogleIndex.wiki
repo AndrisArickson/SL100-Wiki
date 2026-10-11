@@ -1,0 +1,32 @@
+<includeonly>{{#if:{{{page|{{{1|}}}}}}|{{{page|{{{1}}}}}}|[[File:GoogleLogo.svg|text-bottom|x18px|link=https://www.google.com]]&#32;[https://{{{url|{{{2}}}}}} {{{url|{{{2}}}}}}]}} was [https://www.google.com/search?tbs=cdr:1&q=site:https://{{{url|{{{2}}}}}} first indexed] by [[Wikipedia:Google|Google]] on {{#time:[[F j]], [[Y]]|{{{date|{{{3}}}}}}}}.{{ArchiveAccess
+    |template_name=GoogleIndex
+    |full_url=https://www.google.com/search?tbs=cdr:1&q=site:https://{{{url|{{{2}}}}}}
+    |target={{{url|{{{2|}}}}}}
+    |archiveurl={{{archiveurl|}}}
+    |archivedate={{{archivedate|}}}
+    |archivefile={{{archivefile|}}}
+    |nobackup={{{nobackup|}}}
+    |nolive={{{nolive|}}}
+    |no_archive=1
+    |par=1
+  }}</includeonly><noinclude>
+
+==Usage==
+Copy-paste the following code and replace "page," "URL," and "date" with the appropriate page link, its full URL, and its index date on [[Wikipedia:Google|Google]]. The use of "page" is optional.
+
+<code><nowiki>{{</nowiki>GoogleIndex|page=''page''|url=''URL''|date=''date''|archivedate=|archiveurl=|archivefile=|nobackup=}}</code>
+
+==Examples==
+<code><nowiki>{{GoogleIndex|page={{Databank|cassian-andor|Cassian Andor}}|url=www.starwars.com/databank/cassian-andor|date=2016-08-10|archivedate=20240117033153}}</nowiki></code>
+
+Results in:
+{{GoogleIndex|page={{Databank|cassian-andor|Cassian Andor}}|url=www.starwars.com/databank/cassian-andor|date=2016-08-10|archivedate=20240117033153}}
+
+<hr />
+
+<code><nowiki>{{GoogleIndex|url=www.starwars.com/databank/cassian-andor|date=2016-08-10|archivedate=20240117033153}}</nowiki></code>
+
+Results in:
+{{GoogleIndex|url=www.starwars.com/databank/cassian-andor|date=2016-08-10|archivedate=20240117033153}}
+
+[[Category:Dating citation templates]]</noinclude>

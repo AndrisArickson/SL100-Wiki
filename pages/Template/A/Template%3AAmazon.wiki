@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Amazon
+|image=[[File:Amazon-Favicon.svg|text-top|x18px|link=https://{{{subdomain|www}}}.amazon.{{{domain|com}}}]]
+|site_text=[[Wikipedia:Amazon (company)|Amazon.{{{domain|com}}}]]
+|base_url=https://{{{subdomain|www}}}.amazon.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}{{#ifeq:{{NAMESPACE}}||{{#ifeq:{{{domain|}}}|com|[[Category:Unnecessary domain parameters|{{PAGENAME}}]]|}}|}}</includeonly><noinclude>{{Documentation}}</noinclude>

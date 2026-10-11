@@ -1,0 +1,29 @@
+<div id="old-forum-warning" class="forumheader" style="padding: 5px; border-radius: 10px">'''[[Forum:Index|Forums]] &gt; [[Forum:Discussions index archive|Discussions index archive]] &gt; {{#ifeq:{{SUBPAGENAME}}|{{PAGENAME}}|{{PAGENAME}}|[[Forum:{{BASEPAGENAME}}|{{BASEPAGENAME}}]] &gt; {{SUBPAGENAME}} }}'''</div><includeonly>[[Category:Discussions index archive|{{{1|{{PAGENAME}}}}}]]</includeonly><noinclude>
+__NOTOC__
+==Usage==
+<code><nowiki>{{DItop-arc|</nowiki>{{Var|date}}<nowiki>}}</nowiki></code>
+
+For use as a header on [[Forum:Discussions index archive|Discussions index archive]] pages. The <code>{{Var|date}}</code> parameter is used for categorization.
+
+===Required parameters===
+#{{Para||{{Var|date}}}} The earliest date of the archive page's content, in <code>YYYY</code> format if the page archives forum data from a specific year, <code>YYYY-MM</code> format if the page archives forum data from a specific month or months, or <code>YYYY-MM-DD</code> format if the page archives forum data from a specific day or days.
+
+==Examples==
+{| class="wikitable"
+! Page
+! Code
+|-
+| [[Forum:Discussions index archive 2020]]
+| <pre style="background:none; border:none">{{DItop-arc|2020}}</pre>
+|-
+| [[Forum:Discussions index archive 2020/February]]
+| <pre style="background:none; border:none">{{DItop-arc|2020-02}}</pre>
+|-
+| [[Forum:Discussions index archive 2020/May 1–16]]
+| <pre style="background:none; border:none">{{DItop-arc|2020-05-01}}</pre>
+|}
+
+==Categorization==
+*[[:Category:Discussions index archive]]
+
+[[Category:Forum templates|{{PAGENAME}}]]</noinclude>

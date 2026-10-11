@@ -1,0 +1,15 @@
+<!--This template is designed specifically for major, multi-battle campaigns of the Clone Wars, drawing from source material like The New Essential Chronology. It is NOT for individual battles, regardless of their time span or importance. Any questions regarding this criteria should be brought up on the talk page.-->{{Nav_start|Major campaigns of the [[Clone Wars/Legends|Clone Wars]]}}
+{{Nav_text|[[Hunt for the Decimator]] · [[Dark Reaper crisis]] · [[Rise of the Cortosis Battle Droids]]<br />[[Operation Durge's Lance]] · [[Foerost campaign]] · [[Outer Rim Sieges/Legends|Outer Rim Sieges]]}}
+{{Nav_end|edit=CloneWarcampaigns}}<noinclude>
+
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+{{Interlang
+|es=Plantilla:CampañasGuerrasClon
+}}
+
+[[Category:Conflict navbox templates|{{PAGENAME}}]]</noinclude>

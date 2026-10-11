@@ -1,0 +1,25 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Yavin blockade]]<br />([[0 ABY/Legends|0 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Yavin blockade]] {{C|runs concurrently with battles below}}<br />[[Rescue mission on Yavin 4|Second Yavin 4]] · [[Battle of Solem|Solem]] · [[Space Battle at Yavin 4|First Yavin system]]<br />[[Battle against Liquidator|''Liquidator'']] · [[Hunt for Han Solo|Tatooine]] · [[Battle of Ithor (0 ABY)|Ithor]] · [[Battle of Vactooine|Vactooine]]<br />[[Mission to Kwenn Space Station|Kwenn Space Station]] · [[Attack on a Dubravan bar|Dubrava]] · [[Mission to Jazbina|Jazbina]] · [[Assault on Ultaar|Ultaar]]<br />[[Mission to Metalorn (Galactic Civil War)|Metalorn]] · [[Ambush on Tirahnn|Tirahnn]] · [[Skirmish on Corulag|Second Corulag]] · [[Battle of Skye (Galactic Civil War)|Skye]]<br />[[Mission to Tatooine (Galactic Civil War)|Third Tatooine]] · [[Duel aboard the Tagge Mining Explorer|Mining Explorer]]<br />[[Battle of the Corridor|First Feswe Corridor]] · [[Mission to Bedlam|Bedlam]] · [[Rescue of Domina Tagge|Second Yavin system]]<br />[[Mission to Monastery|Monastery]] · [[Mission to Akuria II|Akuria II]] · [[Nishr Suppression|Nishr (I)]] · [[Nishr Campaign|Nishr (II)]]<br />[[Mission to Dominus III|Dominus III]] · [[Skirmish in the Corsair Outback|Corsair Outback]] · [[Mission to Coruscant (Han Solo)|Coruscant (I)]]<br />[[Ambush of Gray Flight|Gray Flight]] · [[Infiltration of the Devastator|''Devastator'']] · [[Attack on the Rebel Fleet|Rebel Fleet]] · [[Mission to Coruscant (Darth Vader)|Coruscant (II)]]<br />[[Mission to Bothawui (Darth Vader)|Bothawui]] · [[Mission to Kuat (Darth Vader)|Kuat]] · [[Mission to Alderaan (Darth Vader)|Alderaan]] · [[Mission to Chandrila (Darth Vader)|Chandrila]] · [[Battle of Arrochar|Arrochar]]<br />[[Mission to Lotho Minor (Galactic Civil War)|Lotho Minor]] · [[Mission to Oaka Prime|Oaka Prime]] · [[Attack on Yavin 4|Third Yavin 4]]<br />[[Mission to Muunilinst|Muunilinst]] · [[Mission to Delaya|Delaya]] · [[Reconnaissance mission to Kamino|Kamino]] · [[Battle of Belazura|Belazura]] · [[Mission to Nyemari|Nyemari]]<br />[[Battle of the Sixela system|Sixela]] · [[Mission to Dantooine|Second Dantooine]] · [[Strike on Yavin 4|Fourth Yavin 4]]<br />[[Mission to Jarnollen|Jarnollen]] · [[Mission to Ord Mantell (0 ABY)|Ord Mantell]] · [[Mission to Fondor (Galactic Civil War)|Fondor]] · [[Raid on Kabal|Kabal]] · [[Raid on Fara's Belt|Fara's Belt]]<br />[[Battle in the Dalchon system|Dalchon]] · [[Escape from Tatooine|Tatooine]] · [[Skirmish on Aridus|Aridus (I)]] · [[Attack on an Imperial hovertrain|Aridus (II)]] · [[Raid on an Imperial outpost|Aridus (III)]]<br />[[Battle at the Iron Tower|Aridus (IV)]] · [[Mission to Abonshee|Abonshee (I)]] · [[Skirmish near Abonshee|Abonshee (II)]]<br />[[Battle of Abonshee|Abonshee (III)]] · [[Ambush of Convoy LMC-55c|Brak sector (I)]] · [[Operation: Insignificant|Brak sector (II)]]<br />[[Battle of Lish V|Lish V]] · [[Mission to Graador|Graador]] · [[Destruction of Laakteen Depot|Laakteen Depot]] · [[Battle of Daluuj|Daluuj]]<br />[[Battle of Skorrupon (Galactic Civil War)|Skorrupon]] · [[Skirmish in the Feswe Corridor|Feswe Corridor]] · [[Battle of Nentan|Nentan]] · [[Battle of Tiems|Tiems]]<br />[[Battle of Dankayo|Dankayo]] · [[Mission to destroy Elusive|''Elusive'']] · [[Reytha campaign|Reytha]]<br />[[Mission to Alashan|Alashan (I)]] · [[Mission to Foundry|Foundry]] · [[Second mission to Alashan|Alashan (II)]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Blockade]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Bloqueo
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

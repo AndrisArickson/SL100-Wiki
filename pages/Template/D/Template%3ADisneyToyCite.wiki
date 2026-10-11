@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:ToyCitation|main|template=DisneyToyCite
+|image=[[File:Disney_favicon.png|text-top|x16px|link=The Walt Disney Company]]
+|set={{{set}}}
+|stext={{{text|}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{altlink|}}}
+|baseUrl=https://www.shopdisney.{{{domain|com}}}
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

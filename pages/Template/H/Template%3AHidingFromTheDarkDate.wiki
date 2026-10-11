@@ -1,0 +1,7 @@
+''[[Hiding from the Dark]]'' established its events are set after the events of {{Film|IV}}, which corresponds to after [[0 ABY]] per ''[[Star Wars: Timelines]]''. Since the novel also features [[Anakin Skywalker|Darth Vader]], it must occur before his [[death]], which ''Timelines'' dates to [[4 ABY]]. Therefore, the events of ''Hiding from the Dark''{{#if: {{{1|}}}|, including {{{1}}},|}} must occur between 0 [['ABY-BBY' dating system|ABY]] and 4 ABY.<noinclude>
+
+==Usage==
+*<code><nowiki>{{HidingFromTheDarkDate}}</nowiki></code>
+*<code><nowiki>{{HidingFromTheDarkDate|event (optional)}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

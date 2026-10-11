@@ -1,0 +1,12 @@
+{| class="article-table" style="width:100%;"
+|- style="font-size:18px;"
+! Module documentation follows
+|-
+| ''Note: the module above may sometimes be partially or fully invisible.''
+|-
+| Visit [[{{FULLPAGENAME}}{{#ifeq:{{SUBPAGENAME}}|doc||/doc}}]] to edit this documentation.
+|}
+This module's subpage serves as a centralized location for archivedate values on {{Tl|{{{1|{{#ifeq:{{SUBPAGENAME}}|doc|{{#titleparts:{{FULLPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}}}}}} entries. It can still be overridden by using archivedate= or archiveurl= on {{Tl|{{{1|{{#ifeq:{{SUBPAGENAME}}|doc|{{#titleparts:{{FULLPAGENAME}}|-1|-2}}|{{SUBPAGENAME}}}}}}}}}, but if neither of those values is given, this subpage will provide a default archivedate.
+
+<noinclude>__EXPECTUNUSEDTEMPLATE__
+[[Category:Template documentation]]</noinclude>

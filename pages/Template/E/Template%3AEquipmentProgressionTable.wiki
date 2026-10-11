@@ -1,0 +1,143 @@
+=={{{1}}} {{{2}}}==
+===Tier 1 {{{1}}} {{{2}}}===
+{| class="wikitable" style="text-align:center;cursor:default;margin-bottom:5px;font-family:magistral_medium,arial,helvetica,sans-serif;font-size:18px;" 
+!Image!!Name!!Base<br />Stat!!Stars!!Max<br />Level
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Weathered_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Weathered_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Weathered_{{{1}}}_{{{2}}}|Weathered {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Weathered_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Weathered_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Weathered_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Patched_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Patched_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Patched_{{{1}}}_{{{2}}}|Patched {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Patched_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Patched_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Patched_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refined_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refined_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refined_{{{1}}}_{{{2}}}|Refined {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refined_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refined_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refined_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+|}
+===Tier 2 {{{1}}} {{{2}}}===
+{| class="wikitable" style="text-align:center;cursor:default;margin-bottom:5px;font-family:magistral_medium,arial,helvetica,sans-serif;font-size:18px;"
+!Image!!Name!!Base<br />Stat!!Stars!!Max<br />Level
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Stock_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Stock_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Stock_{{{1}}}_{{{2}}}|Stock {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Stock_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Stock_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Stock_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Altered_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Altered_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Altered_{{{1}}}_{{{2}}}|Altered {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Altered_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Altered_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Altered_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Revised_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Revised_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Revised_{{{1}}}_{{{2}}}|Revised {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Revised_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Revised_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Revised_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+|}
+===Tier 3 {{{1}}} {{{2}}}===
+{| class="wikitable" style="text-align:center;cursor:default;margin-bottom:5px;font-family:magistral_medium,arial,helvetica,sans-serif;font-size:18px;"  
+!Image!!Name!!Base<br />Stat!!Stars!!Max<br />Level
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_{{{1}}}_{{{2}}}|Stock {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Standard_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_{{{1}}}_{{{2}}}|Refitted {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Refitted_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+| [[File:{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Perfect_{{{1}}}_{{{2}}}|get=image}}|100px|link=Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Perfect_{{{1}}}_{{{2}}}]]
+||
+<div style="min-width:350px;"><span>[[Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Perfect_{{{1}}}_{{{2}}}|Perfect {{{1}}} {{{2}}}]]</span></div>
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Perfect_{{{1}}}_{{{2}}}|get=baseStat}}</span></div>
+||
+{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Perfect_{{{1}}}_{{{2}}}|get=starsRender}}
+||
+<div style="min-width:50px;font-size:22px;"><span>{{Wookieepedia:Star_Wars:_Uprising_Super_Walkthrough/Equipment/Perfect_{{{1}}}_{{{2}}}|get=levelCap}}</span></div>
+|-
+|}
+<noinclude>
+==Usage==
+<nowiki>{{EquipmentProgressionTable|Class|Type}}</nowiki>
+
+===Fields===
+*Type:
+**''Each item is grouped into several categories, listed below''
+***Guerilla
+***Smuggler
+***Bodyguard
+***Enforcer
+**'''''Special exceptions, with only two tiers:'''''
+***Hutt Guard (Only Damaged, <Blank>)
+***Survivalist (Only Damaged, <Blank>)
+***Scavenger (Only Damaged, <Blank>)
+***Street Punk (Only Damaged, <Blank>)
+
+*Class:
+**''Examples include Shirt, Dungarees, Trousers, etc - each Type has its own suffix (e.g., Smuggler Dungarees) that has to be manually sourced based on Type and Slot.''
+
+*Quality 1, Quality 2, Quality 3:
+**'''For reference only - now built into template'''
+**''Each item comes in a progression of three (e.g., Stock, Altered, Revised) which corresponds to its Star Rating and Max Level. 
+***Weathered, Patched, Refined
+***Stock, Altered, Revised
+***Standard, Refitted, Perfect
+**'''Exception: First tier gear, which only comes in two forms: Damaged and <Blank> (no Prefix). First tier gear is limited to special Types listed above.'''''
+***Damaged, <Blank> 
+
+===Example===
+<nowiki>{{EquipmentProgressionTable|Smuggler|Class|Quality1|Quality2|Quality3}}</nowiki>
+
+{{EquipmentProgressionTable|Smuggler|Dungarees|Standard|Refitted|Perfect}}
+
+__NOTOC__
+[[Category:Equipment Templates for Star Wars: Uprising]]
+</noinclude>

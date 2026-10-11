@@ -1,0 +1,22 @@
+{{#invoke:BaseCitation|main|template=FactFile2013
+|mode=ref
+|image=
+|series=The Official Star Wars Fact File Part
+|suffix=(2013)
+|showsuffix=1
+|issue={{{1}}}
+|child={{#if:{{{3|}}}|{{{2}}}: {{{3}}}|{{{2}}}}}
+|parentMode={{{parent|}}}
+|nolink=1
+}}<noinclude>
+==Usage==
+This can be used to cite information from the [[The Official Star Wars Fact File (2013)|''The Official Star Wars Fact File'' (2013)]]. Place the following code on the page and replace the "issue number" with the appropriate information.
+*<nowiki>{{</nowiki>FactFile2013|ISSUE NUMBER|PAGE RANGE|ENTRY}} (new way)
+
+==Example==
+====Code====
+*<nowiki>{{FactFile2013|1|YAV 1-4|The Battle of Yavin}}</nowiki>
+====Result====
+*{{FactFile2013|1|YAV 1-4|The Battle of Yavin}}
+
+[[Category:Reference magazine citation templates|FactFile]]</noinclude>

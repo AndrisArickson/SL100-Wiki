@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:ToyCitation|main|template=GentleGiantCite
+|image=[[File:GentleGiant-Small.png|text-top|x16px|link=Gentle Giant Studios]]
+|set=Gentle Giant Studios
+|stext={{#if:{{#pos:{{{set|}}}|Gentle Giant}}|{{{set}}}|Gentle Giant {{{set}}}}}
+|noitalics=1
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{altlink|}}}
+|baseUrl=https://www.gentlegiantltd.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

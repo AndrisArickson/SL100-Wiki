@@ -1,0 +1,24 @@
+{{InsiderCite|23|Star Wars Publications Timeline|''Star Wars'' Publications Timeline}} dates the events of the [[Ewoks (television series)|''Ewoks'']] television series, which {{#if:{{{1|}}}|include the {{{1}}} in "{{{2}}},"|include those of "{{{2}}},}} to three [[Standard year/Legends|years]] after the events of [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[3 ABY/Legends|3 ABY]], according to ''[[The New Essential Chronology]]''.<noinclude>
+
+==Examples==
+<code><nowiki>{{EwoksDate|appearance of a [[Blumfruit/Legends|blumfruit]] [[Foodstuff/Legends|tart]]|[[Princess Latara]]}}</nowiki></code>
+
+Results in:
+
+{{EwoksDate|appearance of a [[Blumfruit/Legends|blumfruit]] [[Foodstuff/Legends|tart]]|[[Princess Latara]]}}
+
+<hr />
+<code><nowiki>{{EwoksDate|mention of thunder [[Bat/Legends|bats]]|[[The Cries of the Trees]]}}</nowiki></code>
+
+Results in:
+
+{{EwoksDate|mention of thunder [[Bat/Legends|bats]]|[[The Cries of the Trees]]}}
+
+<hr />
+<code><nowiki>{{EwoksDate|appearance of Larry|[[Home is Where the Shrieks Are]]" and "[[Hard Sell]]}}</nowiki></code>
+
+Results in:
+
+{{EwoksDate|appearance of Larry|[[Home is Where the Shrieks Are]]" and "[[Hard Sell]]}}
+
+[[Category:Legends dating citation templates|{{PAGENAME}}]]</noinclude>

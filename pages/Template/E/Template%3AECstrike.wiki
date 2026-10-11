@@ -1,0 +1,4 @@
+<span style="color: red;">'''Objection(s) overridden by [[Wookieepedia:EduCorps|EduCorps]] {{{1}}}'''</span><noinclude>
+==Usage==
+This template should be placed after an objection which is overridden following an [[Wookieepedia:EduCorps|EduCorps]] vote. EduCorps members who need to use this template simply need to put <nowiki>{{Ecstrike|~~~~~}}</nowiki> (making sure to use five ~'s) on an approved [[Wookieepedia:Comprehensive article nominations|CAN]].
+[[Category:Wookieepedia EduCorps templates|{{PAGENAME}}]]</noinclude>

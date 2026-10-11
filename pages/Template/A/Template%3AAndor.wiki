@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=Andor
+|mode=TV
+|image=[[File:Andor_logo_new.png|text-top|x18px|link=Star Wars: Andor]]
+|series=Star Wars: Andor
+|child={{#ifeq:{{{1|}}}|Messenger|Messenger (episode)|{{{1}}}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Top|fprot}}{{Documentation}}[[Category:TV citation templates|{{PAGENAME}}]]</noinclude>

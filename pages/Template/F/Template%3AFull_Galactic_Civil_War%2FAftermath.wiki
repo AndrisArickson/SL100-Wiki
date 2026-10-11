@@ -1,0 +1,22 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Aftermath of Hoth]] & [[Sepan campaign]]<br/> ([[3 ABY/Legends|3 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Skirmish at Outpost D-34|First D-34]] · [[Defense of Outpost D-34|First Javin]] · [[Battle of the Tungra sector|Tungra sector]] · [[Capture of Outpost D-34|Second D-34]]<br />[[Recapture of Outpost D-34|Second Javin]] · [[Battle of the Bruanii sector|Bruanii sector]] · [[First Battle of the Sepan system|First Sepan system]]<br />[[Battle of Science Station Youst|Science Station Youst]] · [[Second battle of the Sepan system|Second Sepan system]]<br />[[Battle of Sepan 8|Sepan 8]] · [[Raid on the Tropsobor|''Tropsobor]]'''''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div><noinclude>
+
+This row's subtemplate: [[:Template:GCW Aftermath]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]</noinclude>

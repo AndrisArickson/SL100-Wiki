@@ -1,0 +1,13 @@
+{| id="Company-stub" class="noprint stub"
+|-
+! {{#if:{{{1|}}}|[[File:Lucasfilm.svg|20px]]|[[File:KDY.svg|20px]]}} This article is a [[Wookieepedia:Stub|stub]] about {{#if:{{{1|}}}|a [[In-universe|real-world]]|an [[in-universe]]}} company, corporation, or organization. You can help Wookieepedia by <span class="plainlinks">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it].
+|}{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Real world company stubs]]|<includeonly>[[Category:Company stubs]]</includeonly>}}}}<noinclude>
+
+{{Company-stub|real}}
+
+==Usage==
+To add an in-universe company to [[:Category:Company stubs]], type <code><nowiki>{{Company-stub}}</nowiki></code>.
+
+To add a real-world company to [[:Category:Real world company stubs]], type <code><nowiki>{{Company-stub|real}}</nowiki></code>.
+
+[[Category:Stub templates with additional parameters|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,22 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Hunt for Zsinj]]<br />([[7 ABY/Legends|7]]&ndash;[[8 ABY/Legends|8 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Battle of New Alderaan (Hunt for Zsinj)|New Alderaan]] · [[Attack on Selcaron|Selcaron]]<br />[[Ambush at Gravan Seven|Gravan Seven]] · [[Battle of Folor|Folor]] · [[Ambush at Xobome 6|Xobome 6]] · [[Mission to Xartun|Xartun]] · [[Raid on Belthu|Belthu]]<br />[[Battle of M2398-3|M2398-3]] · [[Mission to Storinal|Storinal]] · [[Raid on Todirium|Todirium III]] · [[Battle of Talasea|Talasea]] · [[Battle of Ession|Ession]]<br />[[Halmad campaign|Halmad]] · [[Battle of Lavisar|Lavisar]] · [[Battle of Kuat (Hunt for Zsinj)|Kuat]] · [[Battle for the Razor's Kiss|''Razor's Kiss'']]<br />[[Battle of Levian Two|Levian Two]] · [[Mission to Saffalore|Saffalore]] · [[Battle of Jussafet Four|Jussafet Four]] · [[Raid on Kidriff 5|Kidriff 5]]<br />[[Raid on Belsmuth II|Belsmuth II]] · [[Battle of Corsin (Hunt for Zsinj)|Corsin]] · [[Raid on Vispil|Vispil]] · [[Raid on Taris|Taris]] · [[Raid on Null|Null]]<br />[[Raid on Vinsoth|Vinsoth]] · [[Raid on Comkin V|Comkin V]] · [[Battle of Vahaba|Vahaba]] · [[Battle of Selaggis|Selaggis]] · [[Battle of Dathomir (Hunt for Zsinj)|Dathomir]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW Zsinj]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

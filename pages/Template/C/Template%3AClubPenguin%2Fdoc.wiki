@@ -1,0 +1,22 @@
+This template is to be used for citing individual pages on ''[[Club Penguin]]''{{'}}s [https://www.clubpenguin.com official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{ClubPenguin|subdomain=|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.clubpenguin.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{ClubPenguin|url=blog/2013/07/club-penguin-star-wars-celebration-europe-2013-0|text=Club Penguin at Star Wars Celebration Europe 2013!|archivedate=20130722005258|nolive=1}}</nowiki></code>
+
+Results in:
+
+{{ClubPenguin|url=blog/2013/07/club-penguin-star-wars-celebration-europe-2013-0|text=Club Penguin at Star Wars Celebration Europe 2013!|archivedate=20130722005258|nolive=1}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

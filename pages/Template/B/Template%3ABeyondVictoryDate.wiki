@@ -1,0 +1,16 @@
+{{SW|url=news/star-wars-beyond-victory-announce|text=''Star Wars: Beyond Victory - A Mixed Reality Playset'' from ILM &ndash; Exclusive Reveal}} establishes that [[Star Wars: Beyond Victory - A Mixed Reality Playset|''Star Wars: Beyond Victory'' - A Mixed Reality Playset]] takes place around the time of the events of ''[[Solo: A Star Wars Story]]'', which ''[[Star Wars: Timelines]]'' dates to [[10 BBY]]. {{#if:{{{comic|}}}|[[Beyond Victory 1|''Beyond Victory'' 1]] is set shortly before the events of the game. Therefore, ''Beyond Victory'' 1{{#if: {{{1|}}}|, including {{{1}}},|}} must take place around 10 [['ABY-BBY' dating system|BBY]].|Therefore, ''Star Wars: Beyond Victory''{{#if: {{{1|}}}|, including {{{1}}},|}} must take place around 10 [['ABY-BBY' dating system|BBY]].}}<noinclude>
+
+==Usage==
+{|class="wikitable sortable" {{Prettytable}}
+!Content !! Template !! Date !! Result
+|-
+|[[Star Wars: Beyond Victory - A Mixed Reality Playset|''Star Wars: Beyond Victory'' - A Mixed Reality Playset]]||<nowiki>{{BeyondVictoryDate}}</nowiki>||c. [[10 BBY]]||{{BeyondVictoryDate}}
+|-
+|[[Beyond Victory 1|''Beyond Victory'' 1]]||<nowiki>{{BeyondVictoryDate|comic=1}}</nowiki>||c. [[10 BBY]]||{{BeyondVictoryDate|comic=1}}
+|-
+|[[Star Wars: Beyond Victory - A Mixed Reality Playset|''Star Wars: Beyond Victory'' - A Mixed Reality Playset]]||<nowiki>{{BeyondVictoryDate|random event}}</nowiki>||c. [[10 BBY]]||{{BeyondVictoryDate|random event}}
+|-
+|[[Beyond Victory 1|''Beyond Victory'' 1]]||<nowiki>{{BeyondVictoryDate|comic=1|random event}}</nowiki>||c. [[10 BBY]]||{{BeyondVictoryDate|comic=1|random event}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

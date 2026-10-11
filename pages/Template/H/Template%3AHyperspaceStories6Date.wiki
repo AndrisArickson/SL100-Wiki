@@ -1,0 +1,7 @@
+{{#ifeq:{{PAGENAME}}|Hyperspace Stories 6|''Hyperspace Stories '' 6|[[Hyperspace Stories 6|''Hyperspace Stories'' 6]]}} takes place after the formation of the [[Confederacy of Independent Systems]] but before [[Hyperspace Stories 1|''Hyperspace Stories'' 1]]. The CIS was created two [[Standard year|years]] prior to the [[First Battle of Geonosis]] according to ''[[Rise of the Separatists]]'', which corresponds to [[24 BBY]] per ''[[Star Wars: Timelines]]''. ''Hyperspace Stories'' 1 takes place during the [[Clone Wars]] but before [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]], which are also dated to [[22 BBY]] in ''Star Wars: Timelines''. Therefore, ''Hyperspace Stories'' 6 takes place between these years.<noinclude>
+
+==Usage==
+<code><nowiki>{{HyperspaceStories6Date}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

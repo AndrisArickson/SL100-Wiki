@@ -1,0 +1,1 @@
+This is a simple convenience module that will take the current page's title, strip off the /Legends and /Canon subtitles, and remove any parenthetical descriptor.

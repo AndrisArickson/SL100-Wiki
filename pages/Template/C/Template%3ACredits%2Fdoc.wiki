@@ -1,0 +1,32 @@
+==Usage==
+*This is to be used in out-of-universe articles such as films, TV shows, video games, and audio dramas.
+*It is recommended that you leave a space between the parameters, to allow for better legibility of long lists and distinguishing between different sections.
+*To add multiple columns to a section, add <code><nowiki>{{!}}</nowiki></code> on a line by itself where you want the column break to be.
+
+<pre style="width:45%; float:left">
+==Credits==
+{{Credits
+|cast=
+|uncreditedcast=
+|crew=
+|uncreditedcrew=
+|specialthanks=
+}}
+</pre>
+{{Clear}}
+
+==Credits==
+{{Credits
+|cast=*[[Mark Hamill]] as [[Luke Skywalker]]
+*[[Harrison Ford]] as [[Han Solo]]
+*[[Carrie Fisher]] as [[Leia Skywalker Organa Solo|Princess Leia]]
+|uncreditedcast=[[James Earl Jones]] as the voice of [[Anakin Skywalker|Darth Vader]]
+|crew=Director: [[George Lucas]]
+|uncreditedcrew=Laugh technician: [[Salacious B. Crumb]]
+|specialthanks=*[[Pablo Hidalgo]]
+*[[Wookieepedia]]
+}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,18 @@
+{{#invoke:BaseCitation|main|template=GoC
+|mode=TV
+|image=[[File:Galaxy_of_Creatures_small_logo.png|text-bottom|x18px|link=Star Wars Galaxy of Creatures]]
+|series=Star Wars Galaxy of Creatures
+|child={{#ifeq:{{{1|}}}|Porgs|Porgs (Galaxy of Creatures)|{{#ifeq:{{{1|}}}|Rancor|Rancor (Galaxy of Creatures)|{{#ifeq:{{{1|}}}|Tauntaun|Tauntaun (Galaxy of Creatures)|{{#if:{{#pos:{{{1|}}}|(}}|{{{1|}}}|{{{1|}}} (episode)}}}}}}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information. The (episode) suffix is now unnecessary.
+ <nowiki>{{</nowiki>GoC|''EPISODE NAME''|''FORMATTED NAME'' (optional)}} 
+
+*{{GoC|Rancor}}
+*{{GoC|Nexu}}
+
+==Image==
+[[File:Galaxy_of_Creatures_small_logo.png|thumb|left|Not an orphan.]]
+
+[[Category:Web series citation templates|{{PAGENAME}}]]</noinclude>

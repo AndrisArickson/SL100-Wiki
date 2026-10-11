@@ -1,0 +1,8 @@
+{{#invoke:BaseCitation|main|template=FFG
+|image=[[File:FantasyFlightGamesLogo.png|text-top|x16px|link=Fantasy Flight Games]]
+|parent={{{book|}}}
+|ptext={{{text|}}}
+|child={{{story}}}
+|ctext={{{stext|}}}
+|noquotes={{{manual|}}}
+}}<noinclude>{{Documentation}}</noinclude>

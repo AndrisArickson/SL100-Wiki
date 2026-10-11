@@ -1,0 +1,9 @@
+To be used in Appearances lists when an article subject has been [[Retroactive continuity|retconned]] into being present in a previously released piece of media.
+
+<code><nowiki>{{1str|[[Bloodline (novel)|''Bloodline'']] and [[Bloodline (audiobook)|''Bloodline'' audiobook]]}}</nowiki></code>
+
+results in
+
+{{1str|[[Bloodline (novel)|''Bloodline'']] and [[Bloodline (audiobook)|''Bloodline'' audiobook]]}}
+
+<noinclude>[[Category:Template documentation]]</noinclude>

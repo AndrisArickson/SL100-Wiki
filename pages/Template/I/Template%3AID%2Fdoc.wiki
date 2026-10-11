@@ -1,0 +1,17 @@
+==Usage==
+The usage of this template is governed by [[Wookieepedia:Layout Guide/In-universe#Template usage]]. An extract of the relevant points is provided below:
+
+The {{Tl|ID}} template may be used to denote when an appearance uses an alternate name for a subject.
+*Common usage examples include:
+**Misspellings (example: {{ID|Dack Ralter}})
+**Indirect appearances (example: {{C|Indirect appearance only}} {{ID|snowspeeder}})
+**Call signs used in conjunction with {{Tl|Imo}} (example: {{Imo}} {{ID|Rogue Eleven}})
+**Ambiguous proper-noun references (example: ''[[Galaxy Guide 2: Yavin and Bespin]]'' refers to the [[Olys Corellisi/Legends|Olys Corellisi]] language using the phrase "from the Corellian"; thus, {{ID|Corellian}})
+*{{Tl|ID}} may not be used:
+**If the subject is referred to by the actual Wookieepedia article title or an abbreviation, alternate capitalization, nickname, or shortened version of its name (example: Jek Tono Porkins vs. Jek Porkins)
+**For names already presented in the article using {{Tl|1stID}}
+**On articles with conjectural titles
+**For general phrases and terms (examples: {{ID|Rebel soldier}} for a named character; {{ID|attack on Hoth}} for [[Battle of Hoth]])
+Note: {{Tl|C}} may not be used in substitution of {{Tl|ID}} or to circumvent the listed usage rules.
+
+<includeonly>[[Category:Appearance templates|{{PAGENAME}}]][[Category:Utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

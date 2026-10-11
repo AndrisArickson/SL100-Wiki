@@ -1,0 +1,621 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=CN
+|image=[[File:CartoonNetwork-Template.svg|text-top|x16px|link=Cartoon Network|CartoonNetwork.com]]
+|site_text=[[Cartoon Network|CartoonNetwork.com]]
+|base_url=http://{{{subdomain|www}}}.cartoonnetwork.{{{domain|com}}}
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site=1
+|backup_optional=1
+}}</includeonly><noinclude>{{Top|notoc=1}}
+
+==Usage instructions==
+<pre>
+{{CN|url=|text=|newurl=|newhost=|int=}}
+</pre>
+
+*<code>|url=</code> &ndash; ''Original'' URL to the material from CartoonNetwork.com, excluding the http://www.cartoonnetwork.com/ part. Most likely will return a 404 error now.
+*<code>|text=</code> &ndash; Formatted name of the material being cited.
+*<code>|newurl=</code> &ndash; URL to a live version of the material legally hosted on an official site. '''DO NOT''' use this to link to copyright violations! Make sure it is on an official site such as Star Wars Suvudu before linking to it this way. Not required.
+*<code>|newhost=</code> &ndash; Wikilinked name of site hosting the live version (e.g. [[Random House]]). Required if <code>|newurl=</code> is given.
+*The "na" field can be used to denote if any part of the original page is unavailable, e.g. "na=video file."
+
+If linking to the [http://blog.cartoonnetwork.com/ Cartoon Network Blog]:
+
+<pre>
+{{CN|blog=true|url=|text=|na=}}
+</pre>
+
+==Datafiles==
+All CartoonNetwork.com ''Star Wars: The Clone Wars'' Datafile and Blog links are now completely inaccessible. The original Datafile text files, previously published publicly on CartoonNetwork.com, are provided below as reference for citation purposes with this template. Datafiles are organized by episode and are presented verbatim.
+
+{{ScrollBox|content=
+===Season One===
+===="[[Ambush]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961cbf3b30011cbfb2bfe30007 original link]</small>====
+1. '''King Katuunko''': As leader of the Toydarians, King Katuunko seeks to keep his people safe from the forces of war even if that means siding with the Separatists. Rugosa's oceans have dried up, leaving behind massive coral formations.
+
+2. '''AAT''': Armed with heavy cannons and projectile tubes, Armored Assault Tanks (AATs) for the frontline of the Separatist infantry. Heavy-duty repulsors allow AATs to hover over any terrain.
+
+3. '''The Force''': The Force is a mystical energy field created by all living things. Jedi are able to tap into this power to lift objects and enhance their own speed and agility. The Sith draw on the darker powers of the Force.
+
+4. '''Asajj Ventress''': Count Dooku has trained Asajj in the ways of the dark side, but she still has much to learn before she can challenge a Jedi Master. Asajj's twin blades can be joined into a single lightsaber staff.
+
+===="[[Rising Malevolence|Rising ''Malevolence'']]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961cbf3b30011cc2e0fa00000e original link]</small>====
+1. '''The Malevolence''': General Grievous' flagship is armed with a powerful ion cannon. Keeping the superweapon a secret is key to victory. The Malevolence leaves no survivors. The ion burst leaves opponents defenseless.
+
+2. '''Anakin's Padawan''': Ahsoka may disagree with Anakin at times, but she and "Skyguy" have formed a close Jedi bond. Ahsoka earned the name "Snips" for her snippy attitude.
+
+3. '''Plo Koon''': As a member of the Kel Dor species, Master Plo's thick skin allows him to survive in the harsh vacuum of space. Plo values every life. He won't sacrifice his clones without a fight.
+
+4. '''Lightsaber''': A lightsaber emits a blade of pure energy that is powerful enough to cut through almost anything. A lightsaber's focusing crystal gives it its color.
+
+5. '''The Twilight''': Anakin stole his ship from smugglers on Teth. He's made a few special modifications that make the old spice freighter surprisingly fast and maneuverable. Abregado isn't a planet; it's a giant, dying star.
+
+===="[[Shadow of Malevolence|Shadow of ''Malevolence'']]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961cd20f84011ce7a789390007 original link]</small>====
+1. '''General Grievous''': Grievous may command the droid army, but he's not a droid himself. He had his body rebuilt with cyborg enhancements that give him incredible speed and strength. Grievous often takes out his anger on nearby battle droids.
+
+2. '''Nala Se''': Unlike most Kamino cloners, Nala Se has a special attachment to the clone troopers. She offers her services as head of the Kaliida Shoals medcenter. The Republic medcenter holds more than 60,000 wounded clones.
+
+3. '''Blade of Dorin''': While the Delta-7B Aethersprite starfighter is highly maneuverable, it needs a special hyperdrive ring to make the jump to lightspeed. Plo Koon is considered one of the Jedi's best pilots.
+
+4. '''Balmorra Run''': Anakin leads his forces through an old smuggling route called the Balmorra Run. While the path is a shortcut, it's also a breeding ground for giant Neebray mantas. Neebray mean no harm, but their massive size makes them dangerous.
+
+5. '''Y-Wing''': The newly-designed Y-wing fighters allow Republic pilots to carryout long-range bombing missions. A Y-wing's proton torpedoes pack quite a punch.
+
+===="[[Destroy Malevolence|Destroy ''Malevolence'']]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961d00cd58011d027b86e90004 original link]</small>====
+1. '''Jedi Cruiser''': Venator-class Star Destroyers or "Jedi Cruisers" have become the backbone of the Republic navy. They can carry more than 400 starfighters and 40 gunships. Jedi Cruisers are armed with over 50 dual laser cannons.
+
+2. '''Jumping into hyperspace''' allows ships to travel across the galaxy at speeds faster than light. Special navigation computers are used to calculate safe jumps. A faulty navicomputer can be disastrous.
+
+3. '''Padme Amidala''': Her crusade to put an end to the war often gets her into dangerous situations. Fortunately, Padme can hold her own in a firefight. Anakin and Padme's secret marriage goes against the Jedi Code.
+
+4. '''Rail Jets''': Due to its enormous size, the Malevolence needs high-speed rail jets to move people and equipment throughout the ship. Evenly matched with Grievous, Obi-Wan chooses to escape.
+
+===="[[Rookies]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961d1a2ce6011d251af5ee000e original link]</small>====
+1. '''Droid Commandos''': These ninja-like droids are designed for stealth combat. Their reinforced armor playing makes them much tougher than the average battle droid. Special vocabulator units allow Commandos to mimic clones.
+
+2. '''Rishi Moon''': Because this large moon is constantly bombarded with asteroids, it can only support life in deep craters. The deadly Rishi eel lurks just beneath the surface.
+
+3. '''Clankers''': Clankers, tinnies, tweezers, buckets, metal heads, sparkies; the clones have many nicknames for battle droids. Clones might all look alike, but each one has his own personality.
+
+4. '''Captain Rex''': The markings on Captain Rex's helmet are known as Jaig eyes. This honor is awarded to troopers for their bravery on the battlefield. Rookies are called "shinies" because of their clean, undamaged armor.
+
+5. '''Ultimate Sacrifice''': Destroying the Rishi outpost is the only way to signal for reinforcements. The clones ignite the station's tibanna gas tanks. Hevy sacrifices his life to protect the clone homeworld of Kamino.
+
+===="[[Downfall of a Droid]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961d625bdc011d72dcb9ad0019 original link]</small>====
+1. '''AT-TE''': All Terrain Tactical Enforcer (AT-TE) walkers are meant for ground assaults, but their magnetic claw feet allow them to deploy on low-gravity asteroids. Constantly outnumbered, the Republic must rely on clever strategy.
+
+2. '''Gha Nachkt''': This Trandoshan scavenger searches through battlefield debris for parts, droids and anything he can sell. The Jedi wear simple cloaks to avoid being recognized.
+
+3. '''Assassin Droids''': Far more deadly than battle droids, IG-86 assassin droids are cold, calculating and highly unpredictable. Gha's ship, the Vulture's Claw, is filled with years' worth of junk.
+
+4. '''R3-S6''': Ahsoka is quick to forgive R3 for his many mistakes, but Anakin can't help but think that something's not quite right about this "stubby" little droid. R2's quirky personality comes from never having a memory wipe.
+
+===="[[Duel of the Droids]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961d961bb0011d9c2424790006 original link]</small>====
+1. '''Skytop Station''': The electrically charged atmosphere of the Ruusan moon disrupts scanners; making it a perfect hiding spot for a Separatist listening post. Clone troopers use jetpacks for aerial stealth missions.
+
+2. '''Mission Memory''': Artoo's memory banks contain secret mission data vital to the Republic. If General Grievous got his claws on it, it could spell disaster for the Jedi. Grievous' personal MagnaGuards hold R2 prisoner.
+
+3. '''Droid Poppers''': Clone troopers use special EMP grenades known as "droid poppers" to disrupt the systems of battle droids, knocking them out of commission.
+
+4. '''General Grievous''': General Grievous is a feared Jedi hunter. He collects the lightsabers of his fallen opponents as grim trophies. Ahsoka's fearless attitude sometimes gets her in over her head.
+
+5. '''Droid Duel''': Though they're not designed for combat, astromech droids have magnetic grapples, arc welders, rocket thrusters and many other tools that can come handy in a fight. Anakin has a fierce devotion to his spirited R2 unit.
+
+===="[[Bombad Jedi]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961daaa7f8011dc0217183000c original link]</small>====
+1. '''Betrayal on Rodia''': Caught in the middle of the war, the planet Rodia faces starvation. Padme's old friend, Onaconda Farr, makes a difficult choice to save his people. The dense swamplands of Rodia are covered in large, domed cities.
+
+2. '''Jar Jar Binks''': Jar Jar is an accident-prone Gungan representative in the Senate. His legendary clumsiness is sometimes his greatest asset. C-3PO speaks millions of languages, but still can't understand Jar Jar.
+
+3. '''The Viceroy's Revenge''': Gunray blames Padme for his defeat on Naboo years ago. He's obsessed with getting revenge on the senator. Without any Jedi around, Padme decides to rescue herself.
+
+4. '''Kwazel Maw''': Kwazel Maws are gigantic Rodian predators that live in the planet's lagoons and seas. They use their glowing markings to stun their prey. Jar Jar befriends this sea monster to help rescue Padme.
+
+===="[[Cloak of Darkness]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961df2bee2011e0437bf83000b original link]</small>====
+1. '''Republic Prisoner''': Dooku knows the cowardly Nute Gunray will not hold up to a Jedi interrogation. He tells Asajj to free him - or silence him. Ray-shielded holding cells can even repel lightsabers.
+
+2. '''Asajj Ventress''': Well trained as an assassin, Ventress is an expert in stealth combat. Her fighting style is fierce and unconventional. Asajj must prove herself to Count Dooku and his dark master.
+
+3. '''Luminara Unduli''': Master Luminara's overconfidence can get her into trouble. She underestimates Asajj's power and ingenuity. Ahsoka has faced Asajj before and knows just how dangerous she can be.
+
+4. '''Separatist Traitor''': Senate guards are elite commandos sent to protect high-ranking personnel. Unlike the clone troopers, Captain Argyus' loyalty can be bought. Commander Gree won't stand for treason.
+
+===="[[Lair of Grievous]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961e168a66011e26841ce20004 original link]</small>====
+1. '''Nahdar Vebb''': He recently graduated to Knighthood after serving his apprenticeship with Master Kit Fisto. String-willed and forceful, Nahdar represents a new generation of Jedi. Much like his lair, General Grievous is full of surprises.
+
+2. '''Lair of Grievous''': Hidden on the third moon of Vassek, General Grievous' home is a monument to his transformation into a mechanical super soldier. A-4D is his cranky caretaker droid.
+
+3. '''Gor''': General Grievous keeps a pet roggwart named Gor in his trap-laden lair. The mighty beast is nearly a match for two Jedi.
+
+4. '''Dooku's Test''': Dooku has lost faith in Grievous' ability to command the droid army. He leads the Jedi there both as a trap for them and as a test for the General.
+
+5. '''Kit Fisto''': Master Fisto is patient, calm and easy-going. He never rushes into a fight without a plan, a lesson he fears Nahdar never learned. The clones pin down General Grievous with their ascension cables.
+
+===="[[Dooku Captured]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961e168a66011e4b07f320001b original link]</small>====
+1. '''Count Dooku''': As a Sith Lord, Count Dooku commands the dark side of the Force. He's mastered forbidden abilities, such as Force lightning. Dooku's personal ship is a rare Geonosian solar sailor.
+
+2. '''Gundark''': Gundarks are some of the most feared and aggressive creatures in the galaxy. They're known to be very attached to their ears. Gundarks live on the remote world of Vanqor.
+
+3. '''Dooku Captured''': The devious Hondo Ohnaka and his band of Weequay pirates disarm and outnumber Count Dooku. Even a Sith Lord cannot fight them all at once. The Republic will pay almost any price to end the war.
+
+4. '''Unexpected Gifts''': Obi-Wan knows he can't trust the pirates, but he won't pass up an opportunity to finally capture Count Dooku. The Jedi may be getting more than they bargained for.
+
+===="[[The Gungan General]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961ea6dece011ebc2cf4750005 original link]</small>====
+1. '''Jedi Mind Trick''': The Force can have a strong influence on the weak-minded. Obi-Wan convinces the guard to set them free. Bound by electro-shackles, the Jedi are forced to work with Count Dooku.
+
+2. '''Skalders''': A slakder's thick hide protects it from the sulfuric geysers that cover the surface of Florrum. Pirate speeder bikes are designed to handle rough terrain.
+
+3. '''Smarter than he Looks''': Having seen the destruction Representative Jar Jar Binks can cause, the clones decide to use his clumsiness to their advantage.
+
+4. '''Hondo Ohnaka''': Hondo is every bit as dangerous as he is charming. Even so, the pirate chief is not without a sense of honor. Hondo's greedy lieutenant, Turk Falso, has plans of his own.
+
+===="[[Jedi Crash]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961ecafbc8011ee0e89aac0010 original link]</small>====
+1. '''Rocket Droids''': Rocket droids have the armor and firepower of super battle droids with the speed and maneuverability of an airspeeder-a deadly combination.
+
+2. '''Aayla Secura''': Aayla Secura is a Twi'lek Jedi Knight. As brave as she is beautiful, Aayla knows that a good Jedi has to be a little reckless. Aayla sees a lot of herself in Ahsoka.
+
+3. '''Jedi Attachment''': The Jedi Code strictly forbids attachment. Aayla warns Ahsoka that her concerns for Anakin could jeopardize their mission. Anakin is a powerful Jedi, but he's not invincible.
+
+4. '''Lurmen''': The peaceful Lurmen colonists moved to neutral space to escape the war. They believe that fighting, no matter what the cause, is wrong. Even when facing a vicious mastif phalone, Lurmen use non-violence.
+
+===="[[Defenders of Peace]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961efe50df011f00516b740007 original link]</small>====
+1. '''Lok Durd''': This heartless Neimoidian general is also an inventor. He uses his prisoners as test subjects in his cruel experiments. Separatist garrisons are nearly-impenetrable, mobile strongholds.
+
+2. '''Defoliator Cannon''': The defoliator cannon is Lok Durd's greatest creation. This experimental new weapon destroys only living material, leaving machines unharmed. A single capsule could wipe out an entire battalion of clones.
+
+3. '''Shield Generators''': Portable shield generators are designed to deflect high-speed missiles and laser blasts. They're useless against slow-moving battle droids.
+
+4. '''The Price of Peace''': As leader of the Lurmen, Tee Watt Kaa believes in peace at all costs. He refuses to fight even when the Separatists attack his people. His son, Wag Too, takes matters into his own hands.
+
+===="[[Trespass]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961f130e41011f236f7ae00006 original link]</small>====
+1. '''Talz''': When it comes to protecting their territory, these peaceful hunters become fierce warriors. The Talz ride wild snow cats called narglatches.
+
+2. '''Chairman Cho''': The Pantoran leader laid claim to the icy world of Orto Plutonia. He sees the Talz as a threat to his power. Senator Chuchi believes in diplomacy over force.
+
+3. '''Ice Gear''': The clones use airtight thermal armor to protect themselves from the harsh, frozen climate. Freeco bikes have been specially adapted to the cold.
+
+4. '''Forging Peace''': The Jedi know that the clone army alone will not restore peace to the galaxy. It will take courage, patience and careful neighbors. Rex has sworn to protect all Republic citizens, even the Chairman.
+
+===="[[The Hidden Enemy]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961f466bb8011f47a72a020005 original link]</small>====
+1. '''Christophsis''': The world of Christophsis is completely covered in giant green crystals. Entire cities are built around these large formations.
+
+2. '''Asajj Ventress''': Ventress has a weapon far more powerful than her lightsaber. Her spy in the clone army can sabotage the Republic from the inside. Asajj doesn't need to defeat the Jedi, only keep them occupied.
+
+3. '''Brothers''': The clones may share the same DNA, but it's their service together on the frontlines that makes them brothers. Taking trophies from the battlefield is considered dishonorable.
+
+4. '''Slick''': Slick sees his fellow clones as slaves to the Republic. He'll do anything to gain his freedom, even if that means betraying his brothers to the Separatists. Veteran clones like Slick and Cody are evenly matched in combat.
+
+===="[[Blue Shadow Virus (episode)|Blue Shadow Virus]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961f6f9ed7011f7098cb730005 original link]</small>====
+1. '''Return to Naboo''': Padme was queen of Naboo the last time battle droids invaded. She knows all too well the danger the Separatist post to her people. Queen Neeyutnee will go to great lengths to keep Naboo safe.
+
+2. '''Dr. Nuvo Vindi''': Dr. Vindi has resurrected the Blue Shadow Virus and will stop at nothing to see it return to its rightful place as the deadliest plague in the galaxy. The lab was built ten years ago during the first Naboo invasion.
+
+3. '''Blue Shadow Virus''': A single bomb is powerful enough to infect an entire star system with the Blue Shadow Virus. The clone bomb squad is designated by their orange markings.
+
+4. '''Peppi Blow''': Not all Gungans are as clumsy as Jar Jar. Peppi is an experienced shaak herder who knows how to handle herself in dangerous situations.
+
+===="[[Mystery of a Thousand Moons]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961f6a78ae011f6baa5be40004 original link]</small>====
+1. '''Headstrong''': With Ahsoka and Padme in danger, Anakin is even more aggressive than usual. Nowever, not all problems can be solved by force.
+
+2. '''Jaybo Hood''': Much like Anakin, Jaybo is an expert mechanic. He reprogrammed the battle droids to follow his commands. The planet of Iego is surrounded by thousands of small moons.
+
+3. '''Reeksa Root''': The root from the rare reeksa plant is the only known cure for the deadly Blue Shadow Virus. Reeksa roots are well guarded by natural predators.
+
+4. '''No Escape''': The Separatists left behind a planet-wide energy net that prevents any ship from escaping Iego's moon belt. The locals believe the shield is an even spirit named Drol.
+
+===="[[Storm Over Ryloth]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961fb7b789011fb859bb250005 original link]</small>====
+1. '''Ryloth Blockade''': Hopelessly outgunned by the Separatist fleet, Republic forces must rely on daring maneuvers if they hope to break the blockade. The peaceful Twi'leks were overrun by the Separatists.
+
+2. '''Reality of Command''': Ahsoka is shaken by the loss of her squadron. Anakin knows the only way she can regain her confidence is by leading another mission. All Padawans are given the rank of Jedi Commander.
+
+3. '''Admiral Yularen''': The admiral doesn't always agree with Ahsoka's bold strategies, but he trusts the Jedi to make the right decisions. Because Ahsoka doesn't have Anakin's reputation, the clones still doubt her.
+
+4. '''Mar Tuuk''': The only thing this Neimoidian Captain enjoys more than a well-planned battle is his own reflect in the mirror. Separatist frigates are modified Banking Clan security ships.
+
+5. '''Who's in Charge?''': Battle droids are built to follow orders, not to be master strategists. Their confusion plays right into Ahsoka's plan. Droid commanders wear distinct yellow markings.
+
+===="[[Innocents of Ryloth]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961fd69de0011fd8a3bbf60005 original link]</small>====
+1. '''Proton Cannon''': Much like proton torpedoes, the proton cannons are powerful enough to damage military warships. The droids are using Twi'leks as living shields.
+
+2. '''Probe Droid''': These specially-designed recon units are the spies of the Separatist army. Their small size and repulsorlift engines allow them to go places few droids can. Probe droids transmit data back to their masters.
+
+3. '''Numa''': This young Twi'lek girl was separated from her family when the droids attacked. She may hold the key to a Republic victory. "Nera" means brother in Twi'leki.
+
+4. '''Gutkurr''': Obi-Wan has a deep respect for all life forms. Instead of fighting the gutkurr, he uses the Force to control and trap them. Gutkurrs are even more aggressive when they're hungry.
+
+5. '''Tactical Droid''': Tactical droids use probability to calculate the Republic's next moves, but they cannot account for human ingenuity. The Twi'leks are an unexpected variable.
+
+===="[[Liberty on Ryloth]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505961ff54d5c011ff77f8213000b original link]</small>====
+1. '''Lightning Squadron''': All Terrain Recon Transports (AT-RTs) are nimble one-nman walkers used for mobile ground assaults. With their incredible speed, blurrgs fit right in to Lightning Squadron.
+
+2. '''Wat Tambor''': As leader of the Techno Union, Wat Tambor makes a fortune selling droids, vehicles and weapons to the Separatists. Tambor is undone by his own greedy ways.
+
+3. '''Cham Syndulla''': Though he wasn't trained as a soldier, Cham Syndulla now leads the Twi'lek rebellion. He'll stop at nothing to free the people of Ryloth. Cham forms an uneasy truce with his rival, Senator Orn Free Taa.
+
+4. '''Mace Winduu''': Second only to Master Yoda in his command of the Force, Jedi Master Mace Windu serves as a senior member of the Jedi Council. Mace's lightsaber gets its color from a rare purple crystal.
+
+5. '''Storming the Captail''': The Republic must drive the Separatists from Lessu, Ryloth's capital, before the droids cause any more damage to the planet. The plasma bridge is a crucial foothold.
+
+===="[[Hostage Crisis]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250596201e801c012020722dd30005 original link]</small>====
+1. '''Cad Bane''': A ruthless bounty hunter from the planet Duros, Cad Bane has earned a reputation as the most dangerous outlaw in the galaxy. Bane shows no mercy.
+
+2. '''A Jedi's Weapon''': A Jedi's lightsaber strengthens his connection to the Force and provides a ready means of defense. Anakin gives Padme his lightsaber as a sign of trust. Even without a lightsaber, Anakin is far from powerless.
+
+3. '''Galactic Senate''': With representatives from thousands of worlds across the galaxy, the Galactic Senate is the heart of the Republic government.
+
+4. '''Scum and Villainy''': Bane knows that even he can't hold the Senate hostage on his own. He's assembled a crack team of bounty hunters, mercenaries and assassins. Aurra Sing was once a prospective Jedi. Now, she's a feared Jedi hunter.
+
+5. '''Ziro the Hutt''': Ziro is Jabba the Hutt's scheming uncle. He was imprisoned after Count Dooku convinced him to help kidnap Jabba's son, Rotta. For the right price, Bane will track down anyone or anything.
+
+===Season Two===
+===="[[Holocron Heist]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250596241505e20124163b4c820005 original link]</small>====
+1. '''Overconfidence''': Ahsoka sometimes follows Anakin's impulsive teachings a little too closely. Disobeying a direct order comes at a high price. The Council decides all Jedi assignments.
+
+2. '''Cad Bane''': No job is too dangerous for Cad Bane. For the right price, he'll work for anyone, even the Sith Lord himself, Darth Sidious. Bane always has a plan.
+
+3. '''Jedi Archives''': The Jedi Archives is the greatest collection of knowledge in the entire galaxy. Some of the holobooks date back thousands of years. Jocasta Nu is the chief librarian of the Jedi Order.
+
+4. '''Cato Parasitti''': As a Clawdite shape-shifter, Cato can make herself look like anyone just by touching them. She may look a Jedi, but she doesn't have their skills.
+
+===="[[Cargo of Doom]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250596241505e20124163d3fcd0008 original link]</small>====
+1. '''Bolla Ropal''': This brave Rodian Jedi Master was trusted to guard the Jedi Order's most precious resource, its next generation. The Kyber crystal contains a list of all potential Jedi.
+
+2. '''Clone Training''': The clones are trained to fight in any environment. Magnetic boots and grappling guns help them maneuver in zero gravity. Carnivore Battalion is equipped with night vision visors.
+
+3. '''It's a Trap''': Bane is willing to sacrifice anything, including an entire Separatist fleet, to lure the Jedi into his trap. Cad Bane's gear is designed to counteract the Force.
+
+4. '''Holocron''': Holocrons are ancient Jedi teaching devices. Only a trained Jedi can unlock the valuable secrets stored inside.
+
+===="[[Children of the Force]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505962439127001243b2c0158000e original link]</small>====
+1. '''He Said he was a Jedi''': Force-sensitive children are often taken for Jedi training when they are infants. Cad Bane poses as a Jedi to avoid attracting unwanted attention.
+
+2. '''Group Mind Trick''': The Jedi can combine their Force powers to influence strong minds. However, this method is rarely used. It's dangerous and could  cause permanent damage. Group meditation is also useful in sensing the future.
+
+3. '''Black Stall Station''': Cad Bane has powerful enemies. For his own security, he's rigged his hideout with a laser defense grid. No one has ever survived his booby traps. The Jedi T-6 shuttle was built before the war. It has no weapons.
+
+4. '''Dark Plans''': Jedi younglings Wee Dunn and Zinn Toa are exceptionally strong in the Force. Darth Sidious hopes to turn them into Sith slaves. Darth Sidious has many secret bases on the lava world of Mustafar.
+
+===="[[Senate Spy]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505962457f8a7012459fe5d7a0009 original link]</small>====
+1. '''Rush Clovis''': Greedy, headstrong, and opportunistic; Senator Clovis represents exactly what the Jedi fear the senate has become. Rush and Padme are old flames, but he still has feelings for her.
+
+2. '''Lott Dod''': The senator from Cato Neimoidia's main goal is to keep his people rich and powerful. He hopes funding a new Separatist droid factory will do just that. Bridge cities span the deep canyons of Cato Neimoidia.
+
+3. '''Poisoned''': Lott Dod sees Padme as Senator Clovis' one weakness. He hopes to trade her life for a larger share of the profits.
+
+4. '''Duty Comes First''': Padme will do whatever it takes to protect the Republic, even if that means rekindling her friendship with Rush Clovis. Anakin can't stand seeing his wife in the arms of another man.
+
+===="[[Landing at Point Rain]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab024a06f6a0124c5afe5e702be original link]</small>====
+1. '''Geonosians''': This insect-like species is divided into two main classes: wingless drones and a winged upper class, which includes the royal warriors. Geonosians use deadly sonic blasters.
+
+2. '''Ki-Adi-Mundi''': Master Mundi has been to Geonosis before. He helped lead the charge during the first battle of the Clone Wars. Ki-Adi-Mundi is a former student of Master Yoda.
+
+3. '''Ray Shields''': A destroyer droid's shields are designed to deflect high-speed laser blasts. Slow-moving targets can walk right through them.
+
+4. '''Clone Armor''': The clones serve on hundreds of different worlds across the galaxy. Specialized armor helps them adapt to the harshest environments.
+
+===="[[Weapons Factory]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a25059624c454dc0124c642fcd50009 original link]</small>====
+1. '''Don't You Trust Me?''': Anakin knows Ahsoka is a talented Jedi Padawan, but he's afraid of losing her. His overprotectiveness can sometimes seem like mistrust.
+
+2. '''Catacombs''': Geonosians are primarily a subterranean species. They dig hundreds of miles of winding tunnels beneath their buildings. The planet's harsh climate forces Geonosians to sleep underground.
+
+3. '''Poggle the Lesser''': Humiliated after his first defeat at Geonosis, Poggle knows that the only way to redeem himself is to get the new droid factory up and running.
+
+4. '''Barriss Offee''': Unlike Ahsoka, Barriss is a highly disciplined student. She'd rather be studying ancient Jedi texts at the temple than fighting on the battlefield. Luminara expects nothing less than perfection from her Padawan.
+
+5. '''Sacrifice''': The Padawans must complete their mission even if it means giving up their own lives. Without the detonators, Ahsoka and Barriss have no choice but to blast the reactor. Super tanks can withstand almost any attack.
+
+===="[[Legacy of Terror]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505962507476c012508ece71d0003 original link]</small>====
+1. '''Sand Storms''': Republic vehicles have not been adapted to handle the intense sand storms of Geonosis. The other Jedi have no choice but to wait. Bad weather can disrupt holonet signals.
+
+2. '''Zombies''': Undead Geonosian soldiers cannot be killed by blasters or lightsabers. The Jedi shoot out the support columns to trap them underground. Clones call the Geonosians "geos" or "bugs."
+
+3. '''Jedi Strategy''': Every Jedi has a unique approach to the war. Obi-Wan prefers to negotiate, while Anakin lets his lightsaber do the talking. Even Luminara disobeys orders sometimes.
+
+4. '''Karina the Great''': As the hive queen, Karina is the true ruler of the Geonosians. Her power over her subjects is so great that even after death they're still under her control. A possessed Jedi would make a powerful soldier.
+
+===="[[Brain Invaders]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a2505962559ad5d01255b692c6b0004 original link]</small>====
+1. '''Geonosian brain worms''' are dangerous parasites. They take complete control over their host's thoughts and abilities. They enter a host through the nose or mouth.
+
+2. '''Deadly Plague''': If the worms are allowed off of the ship, they won't stop until they have infected every being in the galaxy. A worm can survive even if its host dies.
+
+3. '''Interrogation''': Anakin will stop at nothing to save his Padawan. He's even willing to torture Poggle to get the information he needs. Force Choke is a dark side power.
+
+4. '''Compassion''': Jedi are taught to value all life in the galaxy. Ahsoka spares Barriss' life out of compassion, not attachment.
+
+===="[[Grievous Intrigue]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a25059625da6c710125dc1a76120004 original link]</small>====
+1. '''Eeth Koth''': Master Koth is an Iridonian Zabrak, a species known for their mental discipline. With his high threshold for pain, he can withstand almost any torture. General Grievous has the advantage in close quarters combat.
+
+2. '''Jedi Exterminator''': General Grievous joined the Separatists for one reason: to wipe out the Jedi Order. He won't stop until he's destroyed every Jedi in the galaxy. The Jedi use a system of secret hand signals.
+
+3. '''Ambassador Shuttle''': The Jedi ambassador shuttle is highly maneuverable, but has no weapons. Anakin jumps in close to avoid detection.
+
+4. '''Adi Gallia''': A quiet and determined member of the Jedi Council, Adi is always willing to lend a hand when called upon. She wears a traditional Tholoth headdress.
+
+5. '''Standoff''': Obi-Wan and General Grievous know each other all too well. Neither one can gain the upper hand for long.
+
+===="[[The Deserter]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a25059625da6c710125dc1e30b50008 original link]</small>====
+1. '''Saleucami''': The backwater farming world of Saleucami has yet to feel the impact of the war. Eopies are loyal beasts of burden.
+
+2. '''Droid Power''': Battle droids run on rechargeable power cells. When their batteries run low, they shut down. General Grievous saves energy by riding a reek.
+
+3. '''Cut Lawquane''': Like all clones, Cut has a unique personality. He's chosen to go against his programming and start a family. Dejarik holochess is a pleasant distraction from the war.
+
+4. '''The Call of Duty''': Clones are created to serve. Cut has decided to serve his family, while Rex has a duty to his own family: the clones.
+
+===="[[Lightsaber Lost]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250596265604bf0126585fae2a0005 original link]</small>====
+1. '''The Underworld''': The capital world of the Republic is not without its secret underbelly. The lower levels are a haven for gangsters, criminals and thieves. Desperate to make ends meet, Bannamu became a pickpocket.
+
+2. '''Cassie Cryar''': Agile and quick, Cassie Cryar is one of the best thieves in the galaxy. Ahsoka's lightsaber is a rare find, one she won't give up without a fight. Ione Marcy is eager to move up in the crime world.
+
+3. '''Patience''': Tera Sinube is a master of taking things slow. He teaches Ahsoka to quiet her mind and calm her emotions. Patience can be just as powerful as any weapon. The Republic uses police droids to keep the peace on Coruscant.
+
+4. '''Tera Sinube''': While most Jedi are on the front lines of the war, this elder Cosian Jedi spends his days investigating the crime syndicates that threaten Coruscant. Master Sinube keeps his lightsaber in an unlikely place: his cane.
+
+===="[[The Mandalore Plot]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250596267a117c01267bec7d380004 original link]</small>====
+1. '''Mandalore''': One a glorious world, the surface of Mandalore has been laid to waste by centuries of war. Its people now live peacefully in massive bio-cubes. Mandalore's Concordian Moon was once the site of a major mining colony.
+
+2. '''Duchess Satine''': A firm pacifist, the Duchess of Mandalore works tirelessly to keep her planet and people apart from the Clone Wars without using violence. As leader of the Council of Neutral Systems, she represents 1500 worlds.
+
+3. '''Death Watch''': Clad in Mandalorian battle armor, the Death Watch has secret plans to overthrow Satine and her peaceful government.
+
+4. '''Pre Vizsla''': Governor Vizsla hopes to restore his people's warrior ways. The Mandalorians were once mortal enemies of the Jedi. He intends to reignite that feud. The Darksaber is an ancient lightsaber stolen from the Jedi long ago.
+
+===="[[Voyage of Temptation]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250596269e1dc601269f4a4e4e0005 original link]</small>====
+1. '''Assassin Probes''': These spider-like droids use stealth to get in close to their targets. Their razor-sharp blades can pierce even the toughest armor. Artoo's arc welder can be used as a weapon.
+
+2. '''Tal Merrik''': The Mandalorian Senator does not share Satine's peaceful views. An agent of the Death Watch, Merrik isn't afraid to take matters into his own hands. Assassin probes will not harm their masters.
+
+3. '''Old Flames''': Obi-Wan and Satine used to be very close, but they put aside their feelings for each other to serve the greater good. More than just a ship, the Coronet is a flying palace.
+
+4. '''In Cold Blood''': Anakin has always been willing to bend the rules. He will not hesitate to do what he thinks is right—even if that means taking a life. Obi-Wan follows the Jedi Code very strictly.
+
+===="[[Duchess of Mandalore]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a25059626c22a800126c39442e7000b original link]</small>====
+1. '''Mas Amedda''': The Chagrian Vice Chairman is always by Palpatine's side. Ever loyal to the Chancellor, Mas says the things that are too questionable for the Chancellor himself to say.
+
+2. '''Armed with''' high-powered rifles, blaster pistols and thermal detonators, Mandalorian warriors are deadly at any range. Shoulder markings indicate rank.
+
+3. '''Duchess Satine's deactivator pistol''' is designed to overload a droid's circuits without causing any permanent damage. Floating hovercams monitor the streets of Coruscant.
+
+===="[[Senate Murders]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab0274ee03e0127781cc7e1029f original link]</small>====
+1. '''Plea for Peace''': By halting the production of clone troopers, Padme hopes to force the Republic to end the war through diplomacy. Mon Mothma is one of the few senators to rally behind Padme.
+
+2. '''Halle Burtoni''': With the creation of the clones for the Republic, Kamino earned a seat in the Galactic Senate. Senator Burtoni's main goal is to keep her planet profitable. Mee Deechi believes the war is a necessary step to achieve real peace.
+
+3. '''Tan Divo''': Inspector Lieutenant Divo follows the law to the letter, but his treatment of suspects is an entirely different matter.
+
+4. '''Lolo Purs''': Lolo always blamed Senator Farr for bringing the war to their world. When he refused to step down, she took matters into her own hands. Onaconda Farr was like an uncle to Padme.
+
+===="[[Cat and Mouse]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab0274ee03e01279bad376804c0 original link]</small>====
+1. '''Stealth Ship''': This Republic prototype is one of the smallest ships ever to have a cloaking device. When cloaked, the stealth ship is virtually undetectable. Tracking torpedoes lock onto a ship's magnetic signature.
+
+2. '''Military History''': Admiral knows Trench's tactics all too well. The Separatist commander nearly wiped out Yularen's entire fleet in the Battle of Malastare Narrows. Admiral Trench's insignia is unmistakable.
+
+3. '''Hyena Bombers''': These highly maneuverable droid fighters are armed with proton torpedoes. A single bomber can lay waste to a Republic outpost. As a diplomat, Bail Organa often ends up on the front lines of the war.
+
+4. '''Admiral Trench''': Trench is one of the most successful fleet commanders in the Separatist armada. The very mention of his name drives fear into the hearts of the Republic command. Thermal shields are powerful, but take a long time to recharge.
+
+===="[[Bounty Hunters (episode)|Bounty Hunters]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab0274ee03e0127bfa1e53c06a4 original link]</small>====
+1. '''Vulture Droid Base''': Separatist commanders station vulture droid bases near neutral worlds to shoot down Republic scout ships. Ejection pods are built to survive any terrain.
+
+2. '''Sugi''': Sugi may be a hired gun, but she's not a heartless mercenary. As leader of a noble group of bounty hunters, Sugi only takes jobs that she believes in. Her ship, the Halo, is perfect for getting out of any jam.
+
+3. '''Embo''': This Kyuzo bounty hunter lets his actions speak for him. Armed with a modified bowcaster, Embo is deadly at any range. His armored blast helmet is both a shield and a weapon.
+
+4. '''Seripas''': Seripas is the rough and tough member of Sugi's group. However, his gruff personality and thick shell hide what is truly inside. Hondo and his pirates don't scare easy.
+
+===="[[The Zillo Beast]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab027d33bfb0127e49962060185 original link]</small>====
+1. '''Electro Proton Bomb''': This experimental super-weapon was designed to neutralize all machines in the area without harming organic life forms. The blast even affects Anakin's cybernetic arm.
+
+2. '''Zillo Beast''': This legendary creature was thought to be extinct. With nearly impenetrable scales, the Zillo Beast is one of the most dangerous beings in the galaxy. Doge Nakha Urus will not rest until the beast is dead.
+
+3. '''Crucial Alliance''': The Republic is desperate to form an alliance with Malastare to secure access to the planet's rich fuel reserves.
+
+4. '''Stun Tank''': A mobile super-laser, the hovering stun tank is one of the biggest pieces of artillery in the Republic arsenal. Malastare fuel is the Zillo beast's only known weakness.
+
+===="[[The Zillo Beast Strikes Back]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab027d33bfb0128087f41740307 original link]</small>====
+1. '''Studying the Beast''': The Chancellor doesn't care if the Zillo Beast dies as long they uncover the secrets to its impenetrable armor. The Zillo beast is held in a gigantic containment field.
+
+2. '''Gas Bomb''': Republic scientists found a way to turn the Zillo Beast's one weakness, Malastare fuel, into a weaponized gas. The Jedi create a Force barrier to protect themselves from the gas.
+
+3. '''Dr. Sionver Boll''': Dr. Boll is one of the Republic's top scientific minds. She designed the electro-proton bomb used on Malastare. She works directly for Chancellor Palpatine.
+
+===="[[Death Trap]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab027d33bfb01282c4a4fd40466 original link]</small>====
+1. '''Clone Youth Brigade''': Young clones grow at twice the rate of ordinary humans. They absorb information quickly, but hands-on experience is a rare treat. Boba was well trained in combat by his father, Jango.
+
+2. '''Boba Fett''': While all clones are based on Jango Fett's DNA, Boba is the only unaltered clone. He was raised as Jango's son. He fits in perfectly with the Clone Youth Brigade.
+
+3. '''Set for Stun''': Boba wants revenge on Mace Windu, but he isn't a cold-blooded killer. He only stuns the clone trooper. Clones are very trusting of their brothers.
+
+4. '''Escape Pod''': Republic escape pods automatically move to preset rendezvous coordinates. However, damaged or sabotaged pods can go off course. Admiral Killian will never abandon his ship.
+
+===="[[R2 Come Home]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab027d33bfb012850af203906b4 original link]</small>====
+1. '''Vengeance''': Mace killed Boba Fett's father at the Battle of Geonosis. The young bounty hunter will stop at nothing to get his revenge. Jango wears the armor of the Mandalorian warrior.
+
+2. '''Castas''': This Klatoonian bounty hunter is always looking for a big and easy score. Castas is tough in a fight, but he won't stick his neck out for anybody. Thermal detonators are standard issue for all clones.
+
+3. '''Aurra Sing''': Cold-hearted, cruel, and exact, Sing always gets her target. Unlike Jango Fett, she does not follow a code of honor. A small bio-computer was surgically implanted in her skull.
+
+===="[[Lethal Trackdown]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab027d33bfb012860204dbc070f original link]</small>====
+1. '''Bossk''': One of the most feared bounty hunters in the galaxy, Bossk uses his natural Trandoshan hunting instincts to track down and capture his prey. Bossk has been known to eat victims.
+
+2. '''Killer Instincts''': Destined to be one of the galaxies greatest bounty hunters, Boba still has much to learn. He's not a not a hardened vigilante like Aurra Sing. Aurra's boots contain hidden rocket darts.
+
+3. '''Slave I''': The late Jango Fett's personal craft, this highly modified Firespray-class interceptor is now the property of his soon Boba.
+
+===Season Three===
+===="[[Clone Cadets]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b058b7b012b213f15340268 original link]</small>====
+1. '''Domino Squad''': Hevy Cutup, Droidbait, Echo and Fives have been labeled a "bad batch." They're all too headstrong to work together as a team. All clones are based on the same DNA, but no two are identical.
+
+2. '''Bric''': A Siniteen bounty hunter, Bric was hired to help train clone cadets. He's stern, smart and will not tolerate failure. His partner, El-Les, is an Arcona, and a much more forgiving teacher.
+
+3. '''Shaak Ti''': Like Ahsoka, Shaak Ti is a Togruta. But as a Jedi Master, she is older, wiser and has fully-developed head-tails. Shaak Ti oversees all clone training on Kamino.
+
+4. '''Training Grounds''': Special training courses are built to simulate battlefield conditions. Clone troopers have to be ready for anything. Clone cadets must earn their armor.
+
+===="[[ARC Troopers]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b058b7b012b21ac33e70271 original link]</small>====
+1. '''99''': Not all clones comet perfect. 99 might not be as physically capable as the other troopers, but he's just as loyal to his brothers.
+
+2. '''The watery planet of Kamino''' is where clones are created, raised and trained for combat. Clone troopers have a strong attachment to their homeward. Obi-Wan uses the Force to call an aiwha for help.
+
+3. '''Aqua Droids''': The latest model from the Separatist droid foundries, the aqua droid is equally deadly in and out of water. Trident drills are stealthy, underwater droid assault ships.
+
+4. '''Clone DNA''': Clone troopers are all based on the DNA of Jango Fett. If the Separatists got a hold of the DNA, they might find a weakness and exploit it. Jango's reamining DNA is one of the most precious items in the galaxy.
+
+5. '''ARC Troopers''': The most dangerous missions go to a group of elite soldiers, the Advanced Recon Commandos or ARC troopers. They are the best of the best. Only the most fearless soldiers are invited to join their ranks.
+
+===="[[Supply Lines]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b43a08e012b45b5bfb20086 original links]</small>====
+1. '''Toydaria''': The Toydarians are filled with lighter-than-air gas, and float easily on their undersized wings. Much of their architecture is designed to also float. The Toydarian palace sits high atop a spire accessible only through flight.
+
+2. '''King Katuunko''': As the Toydarian leader, Katuunko is concerned with protecting his people from the war, but he cannot refuse to help others in need. Toydarians have a long history of distrust with off-worlders.
+
+3. '''Looky Looky''': Jar Jar knows how to draw attention, a skill that comes in handy when he must distract the leaders of the Trade Federation. "Conceptual art" has always been Jar Jar's specialty.
+
+4. '''Master Di''': Master Di knows he's fighting a losing battle, but he gladly sacrifices his life to save the people of Ryloth. Di is a Nikto, a species from the planet Kintan.
+
+===="[[Sphere of Influence]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b53dc84012b698e5191027c original links]</small>====
+1. '''Greedo''': Greedo is a cocky, young Rodian bounty hunter. He doesn't have the skills or the instincts of an experienced hunter. He's never had much luck with chance cubes.
+
+2. '''Tatooine''': Because this desert planet orbits two suns, its climate is extremely dry and unforgiving. Mos Eisley attracts the most dangerous criminals in the galaxy.
+
+3. '''Hutt Law''': Jabba is the undisputed crime lord of the Outer Rim. He controls all of the underworld dealings on Tatooine. Anyone who crosses him will pay the price. His palace is a haven for smugglers, mercenaries and thugs.
+
+4. '''Chairman Papanoida''': Papanoida is used to dealing with powerful senators and world leaders. He's not afraid to stand up to scum like Greedo. He'll do anything for his daughters, Che Amanwe and Chi Eekway.
+
+===="[[Corruption (episode)|Corruption]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b7db1de012b830b2320012d original links]</small>====
+1. '''Black Market''': Moogan and Gotal smugglers can make quite a profit from selling stolen and contraband goods to neutral worlds. Republic Credits are the standard form of currency.
+
+2. '''Royal Guards''': Padme and Satine investigate a mysterious illness on Mandalore. Satine's guards were hand-picked to serve as her personal protectors. She has complete faith in them. Electrostaffs can deflect blaster fire.
+
+3. '''Corruption''': Greed and corruption are so widespread on Mandalore that Satine doesn't know who to trust. She has to take matters into her own hands. Mooga tea looks harmless.
+
+===="[[The Academy]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b7db1de012bb1a160db05cc original link]</small>====
+1. '''Academy Cadets''': Korkie and his fellow cadets at the Royal Academy are the future leaders of Mandalore, but they still have much to learn. A holocam can record 360-degree holographic images.
+
+2. '''Mandalorian Prison''': Maximum security holding cells are reserved for Mandalore's most dangerous criminals. Satine is being held on charges of high treason. Shock collars are a remnant of Mandalore's violent past.
+
+3. '''Prime Minister Almec''': Almec was once a pacifist and a supporter of Satine. But he found better way to provide for the people of Mandalore: the black market. Mandalorian police have been trained to resist Jedi mind tricks.
+
+===="[[Assassin (episode)|Assassin]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02b7db1de012bd5a3fcbe085e original links]</small>====
+1. '''Visions''': Through the Force, Jedi are able to glimpse into the future. Because the future is always in motion, Force visions can be difficult to understand. Ahsoka caused Aurra Sing's ship to crash.
+
+2. '''Alderaan''': Alderaan is one of the Core Worlds of the Republic. It is a peaceful planet with no weapons or military of its own. Padme's personal ship is a Naboo star skiff.
+
+3. '''Republic Justice''': Padme was responsible for Ziro's arrest. She got him to admit that he had struck a deal with Count Dooku to kidnap Jabba's son. Ziro is held at the Central Detention Center.
+
+===="[[Evil Plans]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02c18a59a012c1d968a100084 original links]</small>====
+1. '''Maintenance Spa''': Oil baths are used to remove dust and dirt from a droid's delicate joints and circuits. BO-N1 is a spa droid.
+
+2. '''Interrogation''': C-3PO is a simple protocol droid. He doesn't have access to secretsplans. On the other hand, R2 is filled with information vital to the Republic war effort. Restraining bolts are used to control droids.
+
+3. '''Senator Aang''': Like most Roonans, Senator Aang is very particular. The slightest mistake can be seen as a deep insult. Fresh jogan fruit is a rare commodity on Coruscant.
+
+===="[[Hunt for Ziro]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02c325aa5012c419ae71f0112 original links]</small>====
+1. '''Hutt Council''': Marlo, Gorga, Aruba, Jabba and Arok are the leaders of the five Hutt families. They control every criminal act in the galaxy. Ziro turns to his Mama out of desperation.
+
+2. '''Sy Snootles''': Sy Snootles has always had big plans for herself and her singing career. She'll do anything to get a headlining gig, anything. Swamp speeders can navigate the marshy terrain.
+
+3. '''Nal Hutta''': This swampy slime pit is not to be traveled lightly. Danger lurks around every muck-ridden corner. Dragonsnakes are native to the Hutt homeward.
+
+4. '''Quinlan Vos''': Master Vos is a Jedi tracker. His skills of detection and his experience with the criminal underworld make him the perfect Jedi for finding Ziro. He can channel the Force to enhance his jump.
+
+===="[[Heroes on Both Sides]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02c325aa5012c51f9e2db0273 original link]</small>====
+1. '''Senator Mina Bonteri''': Though she is a Separatist congresswoman, Bonteri isn't unreasonable. Like her former pupil, Padme, she seeks a peaceful resolution to the war. Lux makes Ahsoka think twice about Separatists.
+
+2. '''Separatist Parliament''': The Separatist parliament represents the interests of thousands of worlds in the Confederacy of Independent Systems. Raxus is the capital planet of the Separatists.
+
+3. '''Demolition Droid''': These specially designed infiltration units have the ability to transform from innocent looking sweeper droids into walking bombs. Massive generators power much of Coruscant.
+
+===="[[Pursuit of Peace]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02c325aa5012c5a15d2970392 original link] </small>====
+1. '''Debt''': The Clone Wars have put the Republic deep in debt. Creating more troops might help win the war, but not before it cripples the government. The Banking Clan is funding both sides of the war.
+
+2. '''Blackout''': The Republic has issued mandatory blackouts on Coruscant to conserve power for the war effort. Onaconda Farr will not be intimidated by scare tactics.
+
+3. '''Chata Hyoki''': He may not be the brightest star in the galaxy, but this Selkath bounty hunter is tough and resourceful. Robonino was once an ally to Cad Bane.
+
+===="[[Nightsisters (episode)|Nightsisters]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02ce65fa0012d61db441506fc original link]</small>====
+1. '''Master and Apprentice''': There can only be two Sith: one master and one apprentice. Darth Sidious sees Asajj as a threat to his power. Asajj has grown strong in the force.
+
+2. '''Fanblade Starfighter''': This highly agile fighter is Asajj's personal starship. It operates with a large solar sail similar to Dooku's private vessel. The new droid tri-fighters are fast, nimble and powerful.
+
+3. '''Nightsisters''': Cunning and stealthy, the Nightsisters are known throughout the galaxy as powerful witches. They use dark magic to become indictable.
+
+4. '''Dark Past''': Asajj was found and trained by Jedi knight Ky Narec. But after her master was killed, she gave in to her anger and turned to the dark side.
+
+===="[[Monster]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02d76df84012d86076e3800cc original link]</small>====
+1. '''Mother Talzin''': She is the leader and head witch of the Nightsisters. A skilled user of dark magic, Talzin will do anything to protect her sisters. Dathomir is known for is blood red sky and eerie inhabitants.
+
+2. '''Nightbrothers''': Subservient only to the Nightsisters, these men have a reputation for being brutal warriors. They share a bloodine with Darth Maul.
+
+3. '''Savage Opress''': Savage was a fierce, but compassionate warrior until the Mother Talzin transformed him into the ultimate killing machine. His enchanted blade is infused with potent magic.
+
+===="[[Witches of the Mist]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02d76df84012db88c48d10427 original link]</small>====
+1. '''Sith Training''': Unlike the Jedi, Sith warriors embrace their darkest emotions. They draw their power from anger, hatred and fear. Serenno is Count Dooku's homeward.
+
+2. '''Brute Force''': Count Dooku hoped to force King Katuunko into siding with the Separatists. Katuunko is no good to him dead. A Toydarian ceremonial sword is no match for a lightsaber.
+
+3. '''Rage''': Intense anger gives Savage short bursts of incredible power. However, he does not have the training to control this power. Only a master of the dark side can wield life-draining Force lightning.
+
+4. '''Darth Maul''': Darth Sidious' former apprentice, Darth Maul, was presumed dead after Obi-Wan cut him in half during the Battle of Naboo.
+
+===="[[Overlords]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02dc285c0012dcdc81fb90203 original link]</small>====
+1. '''Mortis Monolith''': Hidden in an uncharted region of space, Mortis is the fulcrum of the entire galaxy and a conduit for the Force. Father uses Mortis as a prison to help contain his children's power.
+
+2. '''Qui-Gon Jinn''': Qui-Gon was Obi-Wan's Jedi master. On his deathbed, Qui-Gon made Obi-Wan promise to train Anakin. Some Jedi can return as spirits of their former selves.
+
+3. '''Force-Wielders''': Father, Daughter and Son are elemental beings of unknown origin and uncharted ability to use the Force.
+
+4. '''The Chosen One''': An ancient Jedi prophecy tells of a being who will bring balance to the Force. Some believe that Anakin is the Chosen One. Anakin was conceived without a father.
+
+===="[[Altar of Mortis (episode)|Altar of Mortis]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02dc285c0012df296380e06b5 original link]</small>====
+1. '''Son''': The Son will stop at nothing to escape Mortis. And once he's free, he'll spread terror across the universe. He may be the strongest dark side user the galaxy has ever known.
+
+2. '''Possessed''': The Son's bite infused Ahsoka with the dark side of the Force; poisoning her mind and bringing out her most aggressive tendencies. Anakin cannot bring himself to harm his Padawan.
+
+3. '''Dagger''': Hidden away in the Altar of Mortis, this blade is the only weapon capable of cutting down a Force-wielder. The Force-wielders cannot enter the altar.
+
+===="[[Ghosts of Mortis]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02e110880012e1642bfa200ab original link]</small>====
+1. '''Well of the Dark Side''': Deep within Mortis lies the well of the dark side. All of the darkness in the universe is channeled through this place. The Son can sense the darkness within Anakin.
+
+2. '''Dark Destiny''': Haunted by visions of the future, Anakin decides he'd rather join the Son than see his friends suffer.
+
+3. '''Balance''': Father realize that the only way to stop his Son and restore balance to the Force is to sacrifice himself. Without Father's power, Mortis cannot sustain itself.
+
+===="[[The Citadel]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02e35b146012e3aaf648400b4 original link]</small>====
+1. '''Carbon Freezing''': Carbon-freezing chambers are used to flash freeze materials for transport. But encasing organic matter in Carbonite is extremely dangerous. An Ugnaught worker.
+
+2. '''The Citadel''': This infamous prison was designed to hold Jedi if they ever lost their way. No one has ever escaped. The compound is covered in electro mines and hidden traps.
+
+3. '''Even Piell''': A gruff and hardened Jedi, Master Piell is no stranger to battle. He may be small in stature, but he's one of the Jedi Council's strongest members. Electro shackles are even strong enough to hold Jedi.
+
+===="[[Counterattack|Counter Attack]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02e62ba13012e82b8ee2600ea original link]</small>====
+1. '''Captain Tarkin''': A brilliant and merciless tactician, Captain Tarkin believes the Jedi are unwilling to make the sacrifices necessary to win the war. Even Piell trusts Tarkin with the Nexus Route coordinates.
+
+2. '''Commander R2''': Battle droids are manufactured by the Separatists, but they can be reprogrammed to serve any master, even another droid. R2-D2 has never had his memory wiped.
+
+3. '''Osi Sobeck''': Ruthless and sadistic, Osi Sobeck was destined to be the warden of the galaxy's most feared detention center.
+
+===="[[Citadel Rescue]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02ea59164012ea6cba4430022 original link]</small>====
+1. '''Jedi Funeral''': The Jedi often cremate the bodies of their fallen brothers. Even on the battlefield, Obi-Wan makes time to honor Master Piell's sacrifice. Anoobas are ferocious trackers.
+
+2. '''Lola Sayu''': Filled with volcanic geysers and rocky peaks, this ruptured planetoid is extremely dangerous.
+
+3. '''Saesee Tiin''': Master Tiin's piloting skills are legendary among the Jedi. He even rivals Anakin's abilities in the cockpit. A member of the Iktotchi species, Master Tiin is a natural telepath.
+
+4. '''In Favor''': Captain Tarkin's fierce loyalty to the REpublic has earned him the attention of Chancellor Palpatine.
+
+===="[[Padawan Lost]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02ee8e496012f12cd2f33071d original link]</small>====
+1. '''The Hunt''': Trandoshan sport hunters seek out the deadliest game for their hunting islands. Jedi younglings are the ultimate challenge. Stun nets incapacitate prey without causing permanent damage.
+
+2. '''Younglings''': The Jedi younglings never finished their training. They've all but abandoned the Jedi Code and learned to do whatever it takes to survive. O-Mer is the same species as Ki-Adi-Mundi: Cerean.
+
+3. '''Garnac''': As leader of the hunting party, Garnac has built up an impressive trophy collection. He hopes his son Dar will follow in his footsteps. Wasskah is a Trandoshan hunting moon.
+
+===="[[Wookiee Hunt]]" <small>[http://www.cartoonnetwork.com/tv_shows/starwars/?episodeID=8a250ab02ee8e496012f12ce7f6c0721 original link]</small>====
+1. '''Chewbacca''': Chewbacca is a gigantic, fur-covered warrior whose incredible strength and ferocity are matched only by his loyalty and compassion. Wookiees have a natural skill for mechanical repair.
+
+2. '''Jungle Speeders''': Jungle speeders give Trandoshan hunters an aerial advantage over their prey. Hunters use a high pitched scream to call for reinforcements.
+
+3. '''Tarfful''': A mighty warrior and Wookiee Chieftain, Tarfful has spent years fighting off Trandoshan slavers. Master Yoda has close ties with the Wookiees.}}
+
+[[Category:Internet citation templates|{{PAGENAME}}]]</noinclude>

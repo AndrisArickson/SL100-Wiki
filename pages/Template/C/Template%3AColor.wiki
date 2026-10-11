@@ -1,0 +1,16 @@
+<span style="color:#{{{1}}}">{{{2}}}</span><noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>Color|{{Var|color}}|{{Var|text}}}}</code>
+
+For coloring a specific portion of text.
+
+===Required parameters===
+#{{para||{{var|color}}}} The [[wikipedia:Web colors|hexadecimal color]] code&mdash;either three or six digits&mdash;without the number sign (#) beforehand.
+#{{para||{{var|text}}}} The text to display in the given color.
+
+==Example==
+<code><nowiki>{{Color|FF0000|This text is red.}}</nowiki></code> produces {{Color|FF0000|This text is red.}}
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

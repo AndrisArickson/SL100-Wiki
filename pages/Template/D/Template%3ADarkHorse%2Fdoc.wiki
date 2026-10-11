@@ -1,0 +1,52 @@
+This template is to be used for citing individual pages on [[Dark Horse Comics]]' [https://www.darkhorse.com/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{DarkHorse|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>https://www.darkhorse.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL contains a subdomain that is not <code>www</code>, such as <code><nowiki>https://</nowiki><mark>digital</mark>.darkhorse.com</code> domain, use <code>|subdomain=digital</code>. Default is <code>www</code> if left blank.
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Using the central archive repository
+<code><nowiki>{{DarkHorse|url=Comics/95-294/Star-Wars-Tales-of-the-Jedi---The-Fall-of-the-Sith-Empire-2-of-5|text=Star Wars: Tales of the Jedi&mdash;The Fall of the Sith Empire #2 (of 5)}}</nowiki></code>
+
+Results in:
+
+{{DarkHorse|url=Comics/95-294/Star-Wars-Tales-of-the-Jedi---The-Fall-of-the-Sith-Empire-2-of-5|text=Star Wars: Tales of the Jedi&mdash;The Fall of the Sith Empire #2 (of 5)}}
+
+<hr />
+;Using {{Para|archivedate}}
+<code><nowiki>{{DarkHorse|url=Comics/95-294/Star-Wars-Tales-of-the-Jedi---The-Fall-of-the-Sith-Empire-2-of-5|text=Star Wars: Tales of the Jedi&mdash;The Fall of the Sith Empire #2 (of 5)|archivedate=20130415232432}}</nowiki></code>
+
+Results in:
+
+{{DarkHorse|url=Comics/95-294/Star-Wars-Tales-of-the-Jedi---The-Fall-of-the-Sith-Empire-2-of-5|text=Star Wars: Tales of the Jedi&mdash;The Fall of the Sith Empire #2 (of 5)|archivedate=20130415232432}}
+
+<hr />
+;Using {{Para|subdomain}}
+<code><nowiki>{{DarkHorse|subdomain=digital|url=profile/1951.star-wars-omnibus-a-long-time-ago-volume-5-tpb|text=Star Wars Omnibus: A Long Time Ago.... Volume 5|archivedate=20130326025236}}</nowiki></code>
+
+Results in:
+
+{{DarkHorse|subdomain=digital|url=profile/1951.star-wars-omnibus-a-long-time-ago-volume-5-tpb|text=Star Wars Omnibus: A Long Time Ago.... Volume 5|archivedate=20130326025236}}
+
+{{Interlang
+|pt=Predefinição:DarkHorse
+}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

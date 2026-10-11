@@ -1,0 +1,46 @@
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+Replace the "entry number" and "entry name" with the appropriate information.
+
+<code><nowiki>{{Blog|listing=|blogurl|blogentry|text|int=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|blogurl}} URL of the web page, minus the domain name (<code><nowiki>https://blogs.starwars.com/</nowiki></code> or <code><nowiki>https://www.starwars.com/</nowiki></code>)
+*{{Para|blogentry}} ONLY REQUIRED FOR <code><nowiki>https://blogs.starwars.com</nowiki></code> ENTRIES. Remaining portion of the URL, minus the domain name and the above <code>blogurl</code> (<code><nowiki>https://blogs.starwars.com/<blogurl>/</nowiki></code>)
+*{{Para|text}} Name of the blog post being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|listing}} If linking to just the blog, use <code>|listing=true</code>
+*{{Para|date}} Full date of publication, in [[Wikipedia:ISO 8601|ISO 8601]] <code>YYYY-MM-DD</code> format, for example "<code>date=2006-02-17</code>".
+*{{Para|nolive}} If the original online content is no longer available, use of "<code>|nolive=1</code>".
+
+A backup link can be included with the <code>|archiveurl=</code> parameter. 
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;Standard use
+<code><nowiki>{{Blog|holocron|13/comments|Major Character Birth Years|date=2005-09-13|archivedate=20090119212402}}</nowiki></code>
+
+Results in:
+
+{{Blog|holocron|13/comments|Major Character Birth Years|date=2005-09-13|archivedate=20090119212402}}
+
+<hr />
+;Linking to just the blog
+<code><nowiki>{{Blog|listing=true|holocron|archivedate=20100330010640}}</nowiki></code>
+
+Results in:
+
+{{Blog|listing=true|holocron|archivedate=20100330010640}}
+
+{{Interlang
+|tr=Şablon:Blog
+}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

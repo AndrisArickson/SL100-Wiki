@@ -1,0 +1,45 @@
+==Usage==
+===External links===
+<code><nowiki>{{Facebook|username=|name=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+'''Required parameters'''
+*{{Para|username}} Facebook nickname of author
+*{{Para|name}} Author being cited in the linked post. Supports wikilinks.
+
+'''Optional parameters'''
+*Backup parameters; see below
+
+===References===
+<code><nowiki>{{Facebook|username=|url=|name=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+Required parameters
+*{{Para|username}} Facebook nickname of author
+*{{Para|url}} Permanent URL to Facebook wall post, excluding the <code>https://www.facebook.com/</code> portion.
+*{{Para|name}} Author being cited in the linked post. Supports wikilinks.
+
+'''Optional parameters'''
+*{{Para|date}} Date the Facebook post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} A short excerpt from the citation for quick reference in the article.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Facebook|username=StarWars|name=[[Star Wars]]|archivedate=20111015160403}}</nowiki></code>
+
+Results in:
+
+{{Facebook|username=StarWars|name=[[Star Wars]]|archivedate=20111015160403}}
+
+<hr />
+
+<code><nowiki>{{Facebook|username=people/Mick-Cobb/803276493380209|url=803276493380209/photos/wow-found-out-this-morning-im-in-the-new-book-rise-of-skywalker-was-an-honour-to/993399211034602|name=[[Mick Cobb]]|date=2019-12-20|quote=Wow found out this morning I'm in the New book Rise of Skywalker was an honour to be part of the Star Wars family was great to work on it|archiveurl=https://archive.vn/1XGjH}}</nowiki></code>
+
+Results in:
+
+{{Facebook|username=people/Mick-Cobb/803276493380209|url=803276493380209/photos/wow-found-out-this-morning-im-in-the-new-book-rise-of-skywalker-was-an-honour-to/993399211034602|name=[[Mick Cobb]]|date=2019-12-20|quote=Wow found out this morning I'm in the New book Rise of Skywalker was an honour to be part of the Star Wars family was great to work on it|archiveurl=https://archive.vn/1XGjH}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Fanhome
+|image=[[File:DeAgostini-Logo.png|text-top|x16px|link=https://{{{subdomain|www}}}.fanhome.com/{{{lang|us}}}]]
+|site_text=[[De Agostini|Fanhome's]] [https://{{{subdomain|www}}}.fanhome.com/{{{lang|us}}} official website]
+|base_url=https://{{{subdomain|www}}}.fanhome.com
+|target_url={{{lang|us}}}/{{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

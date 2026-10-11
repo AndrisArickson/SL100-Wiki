@@ -1,0 +1,50 @@
+<infobox theme="Band">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="genre"><label>Genre(s)</label></data>	
+        <data source="founder"><label>Founder(s)</label></data>	
+        <data source="leader"><label>Leader(s)</label></data>	
+        <data source="instruments"><label>Instruments/<wbr />parts</label></data>
+        <data source="songs"><label>Songs</label></data>
+        <data source="albums"><label>Albums</label></data>		
+        <data source="locations"><label>Location(s)</label></data>
+        <data source="headquarters"><label>Headquarters</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="formed"><label>Formed</label></data>
+        <data source="fragmented"><label>Fragmented</label></data>	
+        <data source="reorganized"><label>Reorganized</label></data>	
+        <data source="dissolved"><label>Dissolved</label></data>        
+        <data source="restored"><label>Restored</label></data>	
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Band|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|genre|founder|leader|instruments|songs|albums|locations|headquarters|formed|fragmented|reorganized|dissolved|restored|affiliation|ignore=name}}<noinclude>[[category:Group infobox templates]]{{clear}}
+== Usage instructions ==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre><nowiki>{{Top|}}
+{{Band
+|image=
+|name=
+|genre=
+|founder=
+|leader=
+|instruments=
+|songs=
+|albums=
+|locations=
+|headquarters=
+|formed=
+|fragmented=
+|reorganized=
+|dissolved=
+|restored=
+|affiliation=
+}}</nowiki></pre></noinclude>

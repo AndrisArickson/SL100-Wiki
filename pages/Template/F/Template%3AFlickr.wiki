@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Flickr
+|image=[[File:FlickrFav-Logo.svg|text-top|x16px|link=https://www.flickr.com]]
+|site_text=[[Wikipedia:Flickr|Flickr]]
+|base_url=https://www.flickr.com
+|target_url={{{url|}}}
+|is_profile={{#pos:{{{url|}}}|people/}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

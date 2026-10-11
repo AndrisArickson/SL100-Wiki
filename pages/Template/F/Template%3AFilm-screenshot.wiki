@@ -1,0 +1,11 @@
+{{MediumMB
+|border=#BB7C77
+|bg=#FFF7F7
+|image=[[File:Copyright-red.svg|50px]]
+|message=This {{#switch:{{#explode:{{PAGENAME}}|.|-1}}|png=[[wikipedia:PNG|'''PNG''']]|jpg=[[wikipedia:JPEG|'''JPEG''']]|webp=[[wikipedia:WebP|'''WebP''']]|}} image is a '''[[wikipedia:Screenshot|screenshot]] of a [[wikipedia:Copyright|copyrighted]] [[wikipedia:Film|film]]'''&mdash;[[wikipedia:Feature film|feature-length]], [[wikipedia:Television film|made-for-television]], [[wikipedia:Documentary film|documentary]]/[[wikipedia:Featurette|featurette]], or otherwise. It is believed that screenshots of films '''may be exhibited''' on [[Wookieepedia]] '''under the [[wikipedia:Fair use|fair use]] [https://www.copyright.gov/title17/92chap1.html#107 provision]''' of [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:Screenshots of films|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Screenshots of films]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

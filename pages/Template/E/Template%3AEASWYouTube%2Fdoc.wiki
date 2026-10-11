@@ -1,0 +1,39 @@
+This template is designed for the specific use of content that Electronic Arts releases exclusively through its YouTube channel.
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{EASWYouTube|video=|text=|int=|date=|quote=|parameter=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|int}} Can provide a link to the [[Wookieepedia]] article, if one exists.
+*{{Para|date}} Date the Youtube video was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} To include a quote. 
+*{{Para|parameter}} To create a link to a channel's playlist, use <code>|parameter=playlist?list</code>.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{EASWYouTube|f2VmOqjV_7Q|Star Wars: Squadrons &ndash; "Hunted" CG Short|archivedate=20200914151033}}</nowiki></code>
+
+Results in:
+
+{{EASWYouTube|f2VmOqjV_7Q|Star Wars: Squadrons &ndash; "Hunted" CG Short|archivedate=20200914151033}}
+
+<hr />
+
+<code><nowiki>{{EASWYouTube|f2VmOqjV_7Q|Star Wars: Squadrons &ndash; "Hunted" CG Short|int=Hunted|archivedate=20200914151033}}</nowiki></code>
+
+Results in:
+
+{{EASWYouTube|f2VmOqjV_7Q|Star Wars: Squadrons &ndash; "Hunted" CG Short|int=Hunted|archivedate=20200914151033}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

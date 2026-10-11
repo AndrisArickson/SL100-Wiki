@@ -1,0 +1,21 @@
+{{Ooumb
+|id=gfdl-confirmed
+|bg=#FFC
+|image=[[File:Copyright.svg|50px|Copyright]]
+|caption=<p>The content of this article has been derived in whole or in part from [{{{url}}} {{{text}}}]. Permission has been received from the copyright holder to license this material under the [[w:Community Central:Text of the GNU Free Documentation License|GNU Free Documentation License]] and evidence of this has been lodged with an [[Wookieepedia:Administrators|administrator]].
+{{#if:{{{note|}}}|----{{{note}}}|}}</p>
+|message=<small>This template should not be used to make a claim of permission or ownership, but ''only'' when a clear permission statement has been forwarded to an administrator.</small>
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with permission confirmed|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|sprot}}
+
+==Usage==
+Place this template on the article's talk page with the following code:
+
+ <nowiki>{{</nowiki>GFDL-confirmed|url=''url''|text=''text''|note=''Any notes about this''}}
+
+==Categorization==
+*[[:Category:Articles with permission confirmed]]
+
+==Sources==
+*{{WebCite|url=https://www.gnu.org/licenses/fdl-1.3.en.html|text=GNU Free Documentation License v1.3|archivedate=20240728023509}}
+
+[[Category:Copyright templates|{{PAGENAME}}]]</noinclude>

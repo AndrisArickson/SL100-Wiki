@@ -1,0 +1,35 @@
+{{#invoke:BaseCitation|main|template=DarthVaderCite
+|mode=ref
+|series=Star Wars: Darth Vader
+|suffix2=(magazine)
+|threshold=50
+|issue={{{1}}}
+|child={{{2}}}
+|parentheses=Planets (department),The Dark Side (department)
+|ctext={{#invoke:FormattedTextLookup|main|type=RefMagazine|template=DarthVaderCite
+  |exception=Step By Step
+  |issue={{{1}}}
+  |target={{{2}}}
+  |text={{{3|}}}
+  |textOnly=true
+  |combine=true
+}}
+|parentMode={{{parent|}}}
+}}<noinclude>
+
+==Usage==
+This template is to be used for issues of [[Star Wars: Darth Vader (magazine)|''Star Wars: Darth Vader'']]. Place the following code on the page and replace the "issue number," the "department," and the "article" with the appropriate information.
+<nowiki>{{</nowiki>DarthVaderCite|ISSUE NUMBER|DEPARTMENT}}
+
+'''Note''': formatted subtitles for each department are defined in [[Module:FormattedTextLookup/RefMagazine]], and do not need to be included in usages of the template. Departments for new issues should be added there.
+
+This template, like the rest of the reference magazine citation templates, is built using [[Module:BaseCitation]]. See [[Module:BaseCitation/doc]] for relevant maintenance categories and help building new templates. 
+
+==Examples==
+<code><nowiki>{{DarthVaderCite|1|The Dark Side}}</nowiki></code>
+
+Results in:
+
+{{DarthVaderCite|1|The Dark Side}}
+
+[[Category:Reference magazine citation templates|DarthVaderCite]]</noinclude>

@@ -1,0 +1,23 @@
+{{Iumb
+| id = Delete
+| bg = #B0B0B0
+| image = [[File:Superlaser2.jpg|160px|Death Star]]
+| caption = You may fire when ready.
+| message = This page is a [[Wookieepedia:Speedy deletions|candidate for speedy deletion]], because: '''''{{#ifeq:{{{1|}}}|again|it is reposted content that was removed in accordance with Wookieepedia's [[Wookieepedia:Deletion policy|deletion policy]]|{{{1|no reason given}}}}}'''''.
+| comment = If you disagree with its speedy deletion, please replace this template with {{Tl|Holdon}} and explain why on the [[{{NAMESPACE}} talk:{{PAGENAME}}|talk page]]. If this page obviously does not meet the criteria for speedy deletion, or you intend to fix it, please remove this notice, but do not remove this notice from articles that you have created yourself.<br />''[[Wookieepedia:Administrators|Administrators]] - Remember to check [[Special:Whatlinkshere/{{FULLPAGENAME}}|if anything links here]] and [{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} the page history] ([{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|diff=0}} last edit]) before deleting.''
+}}
+<includeonly>{{#switch:{{FULLPAGENAME}}|Wookieepedia:Templates/Deletion|Wookieepedia:Templates/Sources=|#default=[[Category:Candidates for speedy deletion]]}}</includeonly><noinclude>
+
+'''[[Forum:CT:Template:Delete quote/image confirmation‎]] &mdash; current iteration was approved by community consensus in December 2022'''
+
+==Usage instructions==
+Please refer to [[Wookieepedia:Speedy deletions]]. Place the following code on the page to be deleted and replace "reason" with the reason why the article is a candidate for speedy deletion. If it is a repost of a previously-deleted article, use "again" as the first parameter.
+
+<pre><nowiki>
+{{Delete|''REASON''}}
+</nowiki></pre>
+
+==Categorization==
+*[[:Category:Candidates for speedy deletion]]
+
+[[Category:Deletion templates]]</noinclude>

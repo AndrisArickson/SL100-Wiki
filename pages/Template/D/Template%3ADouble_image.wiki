@@ -1,0 +1,72 @@
+{{#switch: {{{1|}}} <!-- first parameter inserts a <div> with a left, right or central float -->
+| left = <div class="thumb tleft">
+| right = <div class="thumb tright">
+| center|centre = <div class="center"><div class="thumb tnone">
+| #default = <div class="thumb tright">
+}}{{#if: {{{stack|}}} |
+<!-- code for stacked images -->
+<div class="thumbinner" style="width:{{#expr: {{{3|0}}} + 4}}px;">   <!-- calculate width based on common image width +4px -->
+{{{!}} style="background: transparent; border: 0; padding: 0; margin: 0; width:{{#expr: {{{3|0}}} + 2}}px;" cellspacing="0"
+{{!}}-
+{{!}} style="padding: auto; margin-left: auto; margin-right: auto;" class="thumbimage" {{!}} [[File:{{{2}}}|{{{3}}}px|alt={{{8|}}}]]  <!-- image 1 -->
+{{!}}- style="height: 2px;"
+{{!}} style="padding: 0; margin: 0; border: 0;" {{!}}
+{{!}}- 
+{{!}} style="padding: auto; margin-left: auto; margin-right: auto;" class="thumbimage" {{!}} [[File:{{{4}}}|{{{3}}}px|alt={{{9|}}}]]  <!-- image 2 -->
+{{!}}- style="vertical-align: top;"
+{{!}} style="padding: 0; margin: 0; border: 0;" {{!}} <div class="thumbcaption">{{{6|}}}</div>
+{{!}}}
+</div>
+| <!-- code for side-by-side images -->
+<div class="thumbinner" style="width:{{#expr: {{{3|0}}} + {{{5|0}}} + 8}}px;">   <!-- calculate width based on image widths +8px -->
+{{{!}} style="background: transparent; border: 0; padding: 0; margin: 0; width:{{#expr: {{{3|0}}} + {{{5|0}}} + 4}}px;" cellspacing="0"
+{{!}}- style="vertical-align:{{{valign|middle}}};"
+{{!}} style="padding: auto; margin: 0;" class="thumbimage" {{!}} [[File:{{{2}}}|{{{3}}}px|alt={{{8|}}}]]  <!-- image 1 -->
+{{!}} style="padding: 0; margin: 0; border: 0; width: 2px" {{!}} 
+{{!}} style="padding: auto; margin: 0;" class="thumbimage" {{!}} [[File:{{{4}}}|{{{5}}}px|alt={{{9|}}}]]  <!-- image 2 -->
+{{!}}- style="vertical-align:top;"
+{{#if: {{{7|}}} |    <!-- two captions if the seventh param (caption for title two) is specified -->
+{{!}} style="padding: 0; margin: 0; border: 0;" {{!}} <div class="thumbcaption">{{{6|}}}</div>
+{{!}} style="padding: 0; margin: 0; border: 0;" {{!}}
+{{!}} style="padding: 0; margin: 0; border: 0;" {{!}} <div class="thumbcaption">{{{7|}}}</div>
+|   <!-- otherwise just have one caption underneath both images -->
+{{!}} style="padding: 0; margin: 0; border: 0;" colspan="3" {{!}} <div class="thumbcaption">{{{6|}}}</div>
+}}
+{{!}}}
+</div>
+}} <!-- end of the {{{stack}}} check -->
+{{#switch: {{{1|}}}   <!-- as central image float needs two divs, need to close two for center and only one for left/right -->
+| center|centre = </div></div>
+| </div>
+}}<noinclude>
+
+===Usage===
+This template creates a box with two images side by side. It needs parameters like this:
+
+:<code><nowiki>{{Double image|left/right/center|Left image|Left image size|Right image|Right image size|Left caption|Right caption|Left alt text|Right alt text}}</nowiki></code>
+
+or 
+<pre>
+{{Double image
+|1=left/right/center
+|2=Left image
+|3=Left image size
+|4=Right image
+|5=Right image size
+|6=Left caption
+|7=Right caption (leave blank to combine)
+|8=Left image alt text
+|9=Right image alt text}}
+</pre>
+
+The template can also stack the two images vertically. To do this, specify <code>|stack=yes</code>. In this mode:
+*The first image (parameter 2) will be displayed on top, while the second image (parameter 4) will be displayed on the bottom.
+*Parameter 3 specifies the width for both images. Parameter 5 is ignored.
+*Only one caption (parameter 6) is accepted and displayed below the bottom image. Parameter 7 is ignored.
+
+See [[wikipedia:WP:ALT]] for information about [[alt text]].
+
+{{Wikipedia|Template:Double image}}
+{{Wikipedia|Template:Double image/doc}}
+
+[[Category:Templates]]

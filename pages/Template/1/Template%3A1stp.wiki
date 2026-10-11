@@ -1,0 +1,5 @@
+<small>(First pictured{{#ifeq:{{#sub:{{{1|}}}|0|3}}|in |, {{{1|}}}|{{#if:{{{1|}}}|, simultaneous with {{{1}}}|}}|}}{{#ifexpr:{{#len:{{{1|}}}}} < 1000
+|{{#ifexpr:{{#count:{{{1|}}}|audiobook}}
+  |{{#ifexpr:{{#count:{{{1|}}}|(abridged}} > 0||[[Category:1st usages with audiobook in parameter|{{PAGENAME}}]]}}
+  |}}
+|}})</small><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

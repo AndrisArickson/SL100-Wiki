@@ -1,0 +1,16 @@
+==Description==
+This template may be used to cite [[w:c:fornite:Cosmetic Items|cosmetic items]] from ''[[Fortnite]]''.
+
+==Instructions==
+<code><nowiki>{{FortniteCite|xxxxxxxxx}}</nowiki></code>
+
+Fill the empty parameter with a relevant cosmetic item from the game. When the parameter is filled in correctly, a pipelink to the appropriate article on [[w:c:fortnite|Fortnite Wiki]] should appear.
+
+==Examples==
+<code><nowiki>{{FortniteCite|Nalargon Keytar}}</nowiki></code>
+
+Results in:
+
+{{FortniteCite|Nalargon Keytar}}
+
+<includeonly>[[Category:Game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

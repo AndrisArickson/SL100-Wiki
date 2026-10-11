@@ -1,0 +1,21 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[3 ABY/Legends|3 ABY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Raid on Tangrene|First Tangrene]] · [[Battle of New Cov|First New Cov]] · [[Battle of Taul|First Taul]]<br />[[Skirmish on Taul|Second Taul]] · [[Reconnaissance mission to Ord Mantell|Ord Mantell (I)]]<br />[[Skirmish on Ord Mantell (3 ABY)|Ord Mantell (II)]] · [[Destruction of Asher III Rebel cell|Asher III]]<br />[[Raid on the Ulkantha asteroids|Ulkantha]] · [[Raid on Syvris shadowport|Syvris]] · [[Battle of Derra IV|Derra IV]] · [[Battle of Hoth/Legends|Battle of Hoth]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW 3 ABY 1]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

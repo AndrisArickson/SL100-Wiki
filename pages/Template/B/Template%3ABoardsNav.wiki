@@ -1,0 +1,16 @@
+{| class="nounderlinelink adminnav" style="float:right; clear:right; margin:2px 0 2px 2px; padding:0; background-color:#F2F5FD; text-align:center; font-size:90%; border-radius:10px; border-spacing:10px; width:13em; overflow:hidden"
+!style="padding:0 10px"|Wookieepedia review boards
+|-
+!style="padding:0 10px 10px"|[[File:Site-logo.png|100px]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px; border-color:#EC1C24"|[[Wookieepedia:Inquisitorius|Inquisitorius]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px; border-color:#0F0"|[[Wookieepedia:AgriCorps|AgriCorps]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px; border-color:#21DEFF"|[[Wookieepedia:EduCorps|EduCorps]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Review board recruitment|Review board recruitment]]
+|-
+|class="headerbackground" style="background-color:#D8E9FC; padding:10px; border-radius:10px"|[[Wookieepedia:Review board membership nominations|Membership nominations]] and [[Wookieepedia:Requests for removal of review board membership|removals]]
+|-
+|}<noinclude>{{Top|sprot}}[[Category:Navigation templates|BoardsNav]]</noinclude>

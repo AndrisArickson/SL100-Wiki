@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Hasbro
+|image=[[File:HasbroInverted.png|text-top|x16px|link=Hasbro]]
+|site_text={{#ifeq:{{{subdomain|starwars}}}|starwars|the [[Hasbro|Hasbro ''Star Wars'']]|[[Hasbro]]'s}} [https://starwars.hasbro.com/en-us official website]
+|base_url=https://{{{subdomain|starwars}}}.hasbro.{{{domain|com}}}{{#ifeq:{{{subdomain|starwars}}}|starwars|/en-us|}}
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Celebration
+|image=[[File:Celebration-favicon.png|text-top|x20px|link=Celebration]]
+|site_text=the {{{celebration|}}} [https://www.starwarscelebration.com official ''Star Wars'' Celebration website]
+|base_url=https://www.starwarscelebration.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}{{#if:{{{file|}}}|[[Category:Template usages with invalid parameter values]]|}}</includeonly><noinclude>{{Documentation}}</noinclude>

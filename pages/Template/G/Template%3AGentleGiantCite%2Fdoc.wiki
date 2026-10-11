@@ -1,0 +1,50 @@
+==Description==
+This template is to be used on pages about subjects who have been represented in [[Gentle Giant Studios]] sets.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{GentleGiantCite|set=|pack=|link=|altlink=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*{{Para|link}} URL of the pack's web page on the Gentle Giant website, minus the domain name (<code><nowiki>https://www.gentlegiantltd.com/</nowiki></code>).
+*{{Para|altlink}} Full URL of the pack's page on a website other than gentlegiantltd.com.
+
+{{BackupLinkHelp}}
+
+===Optional parameters===
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Example(s)===
+Using link:
+
+<code><nowiki>{{GentleGiantCite|set=''Star Wars: The Mandalorian''|pack=The Mandalorian Beskar Pauldron Mini Bust|link=star-wars-the-mandalorian-the-mandalorian-beskar-pauldron-mini-bust}}</nowiki></code>
+
+Results in:
+
+{{GentleGiantCite|set=''Star Wars: The Mandalorian''|pack=The Mandalorian Beskar Pauldron Mini Bust|link=star-wars-the-mandalorian-the-mandalorian-beskar-pauldron-mini-bust}}
+
+<hr />
+Using altlink:
+
+<code><nowiki>{{GentleGiantCite|set=''The Empire Strikes Back''|pack=Wampa Bust-Up|altlink=https://www.rebelscum.com/ggs06buS5_wampa.asp|archivedate=20150910002526}}</nowiki></code>
+
+Results in:
+
+*{{GentleGiantCite|set=''The Empire Strikes Back''|pack=Wampa Bust-Up|altlink=https://www.rebelscum.com/ggs06buS5_wampa.asp|archivedate=20150910002526}}
+*{{GentleGiantCite|set=''The Empire Strikes Back''|pack=Wampa Bust-Up|altlink=https://www.rebelscum.com/ggs06buS5_wampa.asp}}
+
+<hr />
+Using nobackup=1:
+
+<code><nowiki>{{GentleGiantCite|set=''Star Wars: The Empire Strikes Back''|pack=Bossk Collectors Gallery Statue|link=star-wars/product-type/collectors-gallery-statue|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{GentleGiantCite|set=''Star Wars: The Empire Strikes Back''|pack=Bossk Collectors Gallery Statue|link=star-wars/product-type/collectors-gallery-statue|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,7 @@
+{{PenguinRandomHouse|url=books/755774/star-wars-edge-of-the-abyss-reign-of-the-empire-by-rebecca-roanhorse|text=Star Wars: Edge of the Abyss (Reign of the Empire)}} establishes that the events of ''[[Reign of the Empire: Edge of the Abyss]]'' take place a [[Standard year|year]] before the events of [[Andor Season 1|''Andor'' Season 1]], which are set in [[5 BBY]] per the reasoning [[Template:AndorDate|here]]. Therefore, the events of ''Reign of the Empire: Edge of the Abyss''{{#if: {{{1|}}}|, including {{{1}}},|}} must occur in [[6 BBY]].<noinclude>
+
+==Usage==
+*<code><nowiki>{{EOAdate}}</nowiki></code>
+*<code><nowiki>{{EOAdate|event (optional)}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

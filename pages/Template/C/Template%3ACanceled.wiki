@@ -1,0 +1,12 @@
+{{Ooumb
+| id = Canceled
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The content of this article was canceled.
+| message = This article covers a product that was canceled or replaced by another product.
+}}<includeonly>{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Canceled {{{1|}}}]]|{{#if:{{{no|}}}||[[Category:Canceled content|{{PAGENAME}}]]}}}}}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Canceled content]]
+
+[[Category:Header templates]]</noinclude>

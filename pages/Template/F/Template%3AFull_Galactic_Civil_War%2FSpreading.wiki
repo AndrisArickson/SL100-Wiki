@@ -1,0 +1,21 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Spreading the Rebellion]] and [[Imperial Task Force Vengeance]]<br/> (c. [[3 ABY/Legends|3 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Evacuation of Gelgelar|First Gelgelar]] · [[Skirmish near Gelgelar|Second Gelgelar]] · [[Battle near the Blair Cluster|Blair Cluster]] · [[Attack on Goff|Goff]]<br />[[Battle of Halbara/Legends|Halbara]] · [[Battle of Rocrin|Rocrin]] · [[Attack on the Gelgelar system|Third Gelgelar]] · [[Mission to Almaran|First Almaran]]<br />[[Attack on the Compellor|''Compellor'']] · [[Skirmish near Almaran|Second Almaran]] · [[Ambush in the Goff system|Goff system]] · [[Battle of Swellen|Swellen]]<br />[[Attack on Soren|Soren]] · [[Skirmish at Klaatu|Klaatu]] · [[First attack on the Peregrine|First Mobetta system]]<br />[[Second attack on the Peregrine|Second Mobetta system]] · [[Ambush in the Derilyn system|Derilyn system]] · [[Retreat from Gallofree|''Gallofree'']]<br />[[Mission to Kuras Drift|Kuras Drift]] · [[Battle of Aiqin 4|Aiqin 4]] · [[Battle of Dega|Dega]] · [[Battle of Nocto|Nocto]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Spreading]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

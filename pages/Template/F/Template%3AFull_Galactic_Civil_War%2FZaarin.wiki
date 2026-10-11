@@ -1,0 +1,22 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Zaarin insurrection|Zaarin Insurrection]]<br />([[3 ABY/Legends|3.5 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Battle of Ottega|Ottega]] · [[Battle of Parmel|First Parmel]] · [[Battle of Imperial Center|First Imperial Center]] · [[Attack on Omar|Omar]]<br />[[Attack on ZA-13|First ZA-13]] · [[Capture  of ZA-13|Second ZA-13]] · [[Defense of ZA-13|Third ZA-13]] · [[Battle of RS-32|RS-32]]<br />[[Destruction of the Grappler|''Grappler'']] · [[Destruction of ZA-13|Fourth ZA-13]] · [[Capture of Research|Third ''Research'']]<br />[[Defense of Research|Fourth ''Research'']] · [[Evacuation of Research|Fifth ''Research'']] · [[Second battle of Parmel|Second Parmel]]<br />[[Battle of Kiilimaar|Kiilimaar]] · [[Attack on the Zaarin supply convoy|First Semag]] · [[Battle of Gwar|Gwar]] · [[Battle of Serenity|Serenity]]<br />[[Ambush in the Semag system|Second Semag]] · [[Attack on the missile boat convoy|Third Semag]]<br />[[Attack on Vorknkx Project Base|First Vorknkx]] · [[Evacuation of Vorknkx Project Base|Second Vorknkx]]<br />[[The Emperor's Will (campaign)|The Emperor's Will]] {{C|[[Second battle of Imperial Center|Second Imperial Center]] · [[Capture of the Zeplin|''Zeplin'']]<br />[[Capture of the Link|''Link'']] · [[Recovery of the Sealion|''Sealion'']] · [[Destruction of the Missile Boat facilities|Missile Boat facilities]] · [[Battle of To-phalion Base|To-phalion Base]] · [[Destruction of the Glory|''Glory'']]}}'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Zaarin]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

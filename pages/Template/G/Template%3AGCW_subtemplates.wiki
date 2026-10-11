@@ -1,0 +1,64 @@
+<onlyinclude><div>
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 auto .5em auto; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="1"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" class="headerbackground" style="float:center; margin:0 0 0 0; background:#ffffff; border-collapse:collapse;">
+<tr><th colspan="1" style="background:transparent;">Galactic Civil War navbox subtemplates in chronological order, left-to-right, top-to-bottom</th>
+<table cellpadding="0" cellspacing="0" border="0" style="background:transparent; padding:0; width:100%;">
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Early Campaigns:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW 2 BBY|1]] · [[:Template:GCW 1 BBY 1|2]] · [[:Template:GCW Fresia|3]] · [[:Template:GCW Strike Fear|4]] · [[:Template:GCW 1 BBY 2|5]] &mdash; [[:Template:GCW Unknown 1|6]]
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Death Star & Blockade:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW 0 BBY|1]] · [[:Template:GCW Skyhook|2]] · [[:Template:GCW Blockade|3]] · [[:Template:GCW Evacuation|4]]
+</td></tr>
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Alliance on the Run:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW 0 ABY|1]] · [[:Template:GCW Dark Trooper|2]] · [[:Template:GCW 1 ABY|3]] · [[:Template:GCW 2 ABY|4]] · [[:Template:GCW 3 ABY 1|5]] &mdash; [[:Template:GCW Unknown 2|6]]
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Showdown at Endor:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW 3 ABY 2|1]] · [[:Template:GCW Spreading|2]] · [[:Template:GCW Clean Sweep|3]] · [[:Template: GCW Quick Strike|4]] · [[:Template:GCW Zaarin|5]] · [[:Template:GCW 4 ABY 1|6]] &mdash; [[:Template:GCW Unknown 3|7]]
+</td></tr>
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Fragmentation:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW Ssi-Uprising|1]] · [[:Template:GCW Nagai-Tof|2]] · [[:Template:GCW 4 ABY 2|3]] · [[:Template:GCW Stenax|4]]
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Fall of the Empire:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW 5 ABY|1]] · [[:Template:GCW Trioculus|2]] · [[:Template:GCW Valley|3]] · [[:Template:GCW Delvardus|4]] · [[:Template:GCW 6 ABY|5]] · [[:Template:GCW Coruscant|6]] · [[:Template:GCW Bacta War|7]] · [[:Template:GCW Zsinj|8]] · [[:Template:GCW DarkStryder|9]] · [[:Template:GCW Post-Zsinj|10]]
+</td></tr>
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Thrawn & Reborn:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW Thrawn|1]] · [[:Template:GCW 9 ABY|2]] · [[:Template:GCW Hegemony|3]] · [[:Template:GCW PreShadow|4]] · [[:Template:GCW Shadow Hand|5]]
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Post-Reborn Empire:
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW ImpCivWar|1]] · [[:Template:GCW Invid|2]] · [[:Template:GCW Daala|3]] · [[:Template:GCW 12 ABY|4]] · [[:Template:GCW Reborn|5]] · [[:Template:GCW Orinda|6]] · [[:Template:GCW 13 ABY|7]] · [[:Template:GCW Borderlands|8]] · [[:Template:GCW Restored|9]] · [[:Template:GCW Ragnos|10]]
+</td></tr>
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Last Days of War:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+[[:Template:GCW Skirmishes|1]] · [[:Template:GCW Caamas|2]] &mdash; [[:Template:GCW Unknown 4|3]]
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">Unidentified placement:
+</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 2px 0 2px; background:{{{2|#F9F9F9}}}; text-align: left;">
+&mdash; [[:Template:GCW Unknown 5|1]]
+</td></tr><tr><div class="headerbackground">Unidentified placement subtemplates are preceded by an em dash</div></tr>
+</table>
+</th></tr></table>
+</div></td></tr>
+</table></div></onlyinclude>
+[[Category:Navbox utility templates]]

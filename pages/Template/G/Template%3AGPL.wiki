@@ -1,0 +1,15 @@
+{{MediumMB
+|border=#CC9
+|bg=#F1F1DE
+|image=[[File:Heckert gnu.svg|70px]]
+|message=This work is '''[[wikipedia:Free software|free software]]'''; '''you can redistribute it and/or modify it''' under the terms of either '''[https://web.archive.org/web/20240728012723/https://www.gnu.org/licenses/old-licenses/gpl-2.0.html Version 2] of the [[wikipedia:GNU General Public License|'''GNU General Public License''']], or any subsequent version''' as published by the [[wikipedia:Free Software Foundation|Free Software Foundation]]. This work is distributed in the hope that it will be useful, '''but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE'''. '''Subject to [[w:Community Central:Disclaimers|Fandom disclaimers]]'''.<br />'''Refer to the [https://web.archive.org/web/20240728182715/https://www.gnu.org/licenses/gpl-3.0.html text of the GNU General Public License] and [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:GPL images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:GPL images]]
+
+==Sources==
+*{{WebCite|url=https://www.gnu.org/licenses/old-licenses/gpl-2.0.html|text=GNU General Public License v2.0|archivedate=20240728012723|nolive=1}}
+*{{WebCite|url=https://www.gnu.org/licenses/gpl-3.0.html|text=GNU General Public License v3.0|archivedate=20240728182715|nolive=1}}
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=HolonetOld
+|image=[[File:Holonet_icon_allegiances.png|text-top|x16px|link=The Holonet]]
+|site_text=[[The Holonet|''The Old Republic'' Holonet]]
+|base_url=http://www.swtor.com/info/holonet
+|target_url={{{1}}}{{#if:{{{2|}}}|/{{{2}}}|}}
+|text={{{3}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,7 @@
+{{#ifeq:{{PAGENAME}}|Star Wars Jedi: Battle Scars|''Star Wars Jedi: Battle Scars''|''[[Star Wars Jedi: Battle Scars]]''}} dates itself to a few [[Standard year|years]] after the events of ''[[Star Wars Jedi: Fallen Order]]'', which take place in [[14 BBY]] per ''[[Star Wars: Timelines]]''. Therefore, the events of ''Jedi: Battle Scars'' must take place in [[12 BBY]] at the earliest. Additionally, the novel dates itself within the years before ''[[Star Wars Jedi: Survivor]]'', the events of which take place in [[9 BBY]] per the reasoning [[Template:JediSurvivorDate|here]]. Within ''Jedi: Survivor'', it is also noted the [[Stinger Mantis crew|''Stinger Mantis'' crew]] has been broken up for "years." As the crew are together in ''Jedi: Battle Scars'', the latest it can take place is [[11 BBY]]. Therefore, the events of ''Jedi: Battle Scars'' occur between 12 and 11 [['ABY-BBY' dating system|BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{BattleScarsDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

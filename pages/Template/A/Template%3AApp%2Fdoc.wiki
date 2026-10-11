@@ -1,0 +1,185 @@
+This template is intended to replace Wookieepedia's traditional "Appearances" lists.
+
+==Usage==
+*To add multiple columns to a section, add <code><nowiki>{{!}}</nowiki></code> on a line by itself where you want the column break to be.
+*For sources with an official "Dramatis personae," use {{para|dramatis personae}} and {{para|other characters}} instead of {{para|characters}}. You may not use {{para|dramatis personae}} or {{para|other characters}} if you are already using {{para|characters}}.
+
+*'''All fields now have canon-legends functionality. For sources that exist in both Legends and Canon, use the parameters "{{para||l-fieldname}}" and "{{para||c-fieldname}}" to separate the appearances from the two continuities.'''
+<div style="width: 45%; float: left">
+<span style="align: center">'''Sources without "Dramatis personae"'''</span>
+<pre>
+==Appearances==
+{{App
+|characters=
+|organisms=
+|droids=
+|events=
+|locations=
+|organizations=
+|species=
+|vehicles=
+|technology=
+|miscellanea=
+}}
+</pre></div>
+<div style="width: 45%; float: right">
+<span style="align: center">'''Sources with "Dramatis personae"'''</span>
+<pre>
+==Appearances==
+{{App
+|dramatis personae=
+|other characters=
+|organisms=
+|droids=
+|events=
+|locations=
+|organizations=
+|species=
+|vehicles=
+|technology=
+|miscellanea=
+}}
+</pre></div>
+{{Clear}}
+
+==Appearances==
+{{App
+|dramatis personae=
+*[[Luke Skywalker]]
+*[[Leia Organa Solo/Legends|Leia Organa]]
+*[[Han Solo]]
+*[[Chewbacca]]
+*[[C-3PO]]
+*[[R2-D2]]
+*[[Ken]]
+*[[Dustini Spa Ronii]]
+*[[Trioculus]]
+*[[Bertroff Hissa]]
+*[[Rajah Ubooki|Kadann]]
+*[[Heingort Giddis|Jedgar]]
+*[[Zorba Desilijic Tiure]]
+*[[Defeen]]
+*[[Triclops]]
+|other characters=
+*[[Mon Mothma]]
+*[[Landonis Balthazar Calrissian]] {{Mo}}
+*[[Jabba Desilijic Tiure]] {{Mo}}
+*[[Obi-Wan Kenobi]] {{Mo}}
+*[[Palpatine/Legends|Palpatine]] {{Mo}}
+*[[Anakin Skywalker|Darth Vader]] {{Mo}}
+*[[Yoda]] {{Mo}}
+*[[Microchip]]
+*[[KT-18]]
+*[[Muskov]]
+*[[Owen Lars]] {{Mo}}
+*[[Beru Whitesun Lars]] {{Mo}}
+*[[Rana Mas Trehalt]] {{Mo}}
+*[[Dassid]] {{Mo}}
+*[[Gornash]]
+*[[DJ-88]] {{Mo}}
+*[[Geneer]] {{Mo}}
+*[[Kadlo]] {{Mo}}
+*[[Kendalina]] {{Mo}}
+*[[Dustangle]]
+|organisms=
+*[[Avabush/Legends|Avabush]] {{Mo}}
+*[[Fefze]]
+**[[Fefze beetle]]
+*[[G'nook]] {{Mo}}
+*[[Mooka/Legends|Mooka]] {{Mo}}
+*[[Rancor]] {{Mo}}
+*[[Sarlacc]] {{Mo}}
+*[[Septapus]]
+*[[Trileaf tree]]
+|droids=
+*[[3PO-series protocol droid/Legends|3PO-series protocol droid]]
+*[[R2-series astromech droid/Legends|R2-series astromech droid]]
+|events=
+*[[Project Decoy]] {{Mo}}
+|locations=
+*[[Yavin 4]] {{Mo}}
+**[[Lost City of the Jedi]] {{Mo}}
+***[[Jedi library]] {{Mo}}
+*[[Bespin]]
+**[[Cloud City]]
+***[[Figg & Associates Art Museum|Cloud City Museum]]
+*[[Kessel]] {{Mo}}
+**[[Spice mines of Kessel/Legends|Spice Mines of Kessel]] {{Mo}}
+*[[Z'trop]]
+*[[Null Zone/Legends|Null Zone]]
+**[[Scardia Station]]
+***[[Chamber of Dark Visions]]
+*[[Dagobah]]
+**[[Mount Yoda]]
+***[[Defense Research and Planetary Assistance Center]]
+****[[Dagobah Tech]]
+****[[Droid Maintenance Shop]]
+*[[Duro]]
+**[[Orbiting Shipyard Alpha]]
+**[[Valley of Royalty]]
+**[[Imperial Reprogramming Institute]]
+***[[Experimental Section Two]]
+**[[Great Wall|The Great Wall]]
+**[[Imperial Toxic Waste Processing Plant]]
+**[[Monument of Duchess Geneer]]
+**[[King Kadlo Tower]]
+**[[Monument to Queen Rana]]
+*[[Tatooine]] {{Mo}}
+**[[Boba Fett's Palace|Jabba's Palace]] {{Mo}}
+**[[Great Pit of Carkoon]] {{Mo}}
+*[[Alderaan]] {{Mo}}
+|organizations=
+*[[Alliance to Restore the Republic]]
+**[[New Republic Senate/Legends|New Republic Senate]] {{Mo}}
+**[[Senate Planetary Intelligence Network]]
+*[[Jedi Knight]]
+*[[Galactic Empire]]
+**[[Central Committee of Grand Moffs]] {{Mo}}
+***[[Grand Moff]]
+**[[Church of the Dark Side]]
+***[[Prophets of the Dark Side|Prophet of the Dark Side]]
+****[[Supreme Prophet]]
+****[[High Prophet]]
+**[[Galactic Emperor]] {{Mo}}
+**[[Stormtrooper]]
+**[[Imperial Intelligence/Legends|Imperial Intelligence]]
+*[[Supreme Slavelord]] {{Mo}}
+*[[Baron Administrator]]
+*[[Bespin Wing Guard/Legends|Bespin Wing Guard]]
+*[[Carbanti United Electronics/Legends|Carbanti]] {{Mo}}
+*[[Nolvadex/Legends|Novaldex]] {{Mo}}
+*[[Forbes]] {{Mo}}
+|species=
+|technology=
+*[[Laser pen]]
+*[[Datacard/Legends|Data disc]]
+*[[Lightsaber]]
+*[[Hologram disc/Legends|Holodisc]]
+{{!}}
+*[[29L electromagnetic package]]
+*[[CC-Y Antiradar Defense Unit]]
+*[[C-beam strobe lamp]]
+*[[Zenomach]]
+|vehicles=
+*[[YT-1300 light freighter]]
+**''[[Millennium Falcon]]''
+*[[Compact Assault Vehicle/Wheeled PX-10|Single Trooper Compact Assault Vehicle]]
+*[[Strike-class medium cruiser|''Strike''-class medium cruiser]]
+**[[Moffship]]
+*''[[Scardia Voyager]]''
+*[[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]]
+*''[[The Royal Carriage]]''
+*[[TIE/ln space superiority starfighter]] {{Mo}}
+*[[DeLuxe]] {{Mo}}
+*[[Space Warper]] {{Mo}}
+*[[Action VI bulk transport/Legends|Action VI transport]]
+|miscellanea=
+*[[Glove of Darth Vader]]
+*[[Carbonite]]
+*''[[Secrets of the Dark Side]]''
+*[[Durese/Legends|Durese]]
+*[[Imperial quake scale]]
+}}
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

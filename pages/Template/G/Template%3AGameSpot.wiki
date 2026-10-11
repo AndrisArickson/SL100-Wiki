@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=GameSpot
+|image=[[File:GameSpot.svg|text-top|x14px]]
+|site_text=[[Wikipedia:GameSpot|GameSpot.com]]
+|base_url=https://{{{subdomain|www}}}.gamespot.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{TCRedirect|tc|Template:GameSpot}}{{Documentation}}</noinclude>

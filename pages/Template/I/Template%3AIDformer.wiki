@@ -1,0 +1,22 @@
+{{Ooumb
+| bg = #c5fcdc
+| image = [[File:UnderConstruction.png|50px]]
+| message = '''{{PAGENAME}}''' was the '''[[Wookieepedia:Improvement drive|improvement drive]]''' project for the week of {{{1}}}.<br />
+[https://starwars.fandom.com/index.php?title={{{2}}}&diff={{{3}}} See how it improved] &ndash; [[Wookieepedia:Improvement drive/History|Other improvement drives]]
+}}<noinclude>
+
+==Usage==
+
+Type <nowiki>{{IDformer}}</nowiki> at the top of the article in question's talk page and fill in the following:
+
+{{{1}}}: The week during which the article was the improvement drive project; for example "1 January, [[2006]]".
+
+{{{2}}}: The article's name (with underscores); for example "History_of_Star_Wars"
+
+{{{3}}}: The code following "&diff=" in the "see how it improved" URL; for example "201300&oldid=179179". Note that you must type "3=(code)".
+
+Therefore, if put on [[Talk:History of Star Wars]], '''<nowiki>{{IDformer|1 January, [[2006]]|History_of_Star_Wars|3=201300&oldid=179179}}</nowiki>''' produces:
+
+{{IDformer|1 January, [[2006]]|History_of_Star_Wars|3=201300&oldid=179179}}
+
+[[Category:Administrative templates|{{PAGENAME}}]][[Category:Talk page templates|{{PAGENAME}}]]</noinclude>

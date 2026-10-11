@@ -1,0 +1,8 @@
+|style="text-align:center;" rowspan="{{{rowspan|1}}}"|{{{1|}}}<br />{{{2|}}}<br />{{{3|}}}<noinclude>
+
+==Usage==
+This template is used to create multi-row cells for trade paperbacks and other collections in comic tables. It should be included within {{Para|tpb}} parameter of {{Tl|Comictable-arc}} or {{Tl|Comictable-issue}}.
+
+ <nowiki>{{</nowiki>Comictable-tpb|''image''|''name''|''release date''|rowspan=}}
+
+[[Category:Utility templates]]</noinclude>

@@ -1,0 +1,1 @@
+<div class="forumheader darkbackground1" style="padding: 5px; border-radius: 10px">'''[[Forum:Index|Forums]] &gt; [[Forum:Consensus track|Consensus track]] &gt; {{PAGENAME}}'''</div><includeonly>{{SpecialCategorizer|{{#ifeq:{{NAMESPACE}}|Forum|[[Category:Consensus track]]|}}}}</includeonly><noinclude>[[Category:Forum templates|{{PAGENAME}}]]</noinclude>

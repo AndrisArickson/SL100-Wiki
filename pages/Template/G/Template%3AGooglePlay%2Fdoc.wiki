@@ -1,0 +1,38 @@
+This template is to be used for citing individual pages on [[Wikipedia:Google Play|Google Play]]'s [https://play.google.com/store website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{GooglePlay|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>https://play.google.com/store/</nowiki></code>).
+*'''text''': Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{GooglePlay|url=books/details/Elizabeth_Schaefer_Star_Wars_The_Last_Jedi_Read_Al?id=_3ZLDwAAQBAJ|text=Star Wars: The Last Jedi Read-Along Storybook}}</nowiki></code>
+
+Results in:
+
+{{GooglePlay|url=books/details/Elizabeth_Schaefer_Star_Wars_The_Last_Jedi_Read_Al?id=_3ZLDwAAQBAJ|text=Star Wars: The Last Jedi Read-Along Storybook}}
+
+<hr />
+<code><nowiki>{{GooglePlay|url=books/details/Elizabeth_Schaefer_Star_Wars_The_Last_Jedi_Read_Al?id=_3ZLDwAAQBAJ|text=Star Wars: The Last Jedi Read-Along Storybook|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{GooglePlay|url=books/details/Elizabeth_Schaefer_Star_Wars_The_Last_Jedi_Read_Al?id=_3ZLDwAAQBAJ|text=Star Wars: The Last Jedi Read-Along Storybook|nobackup=1}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

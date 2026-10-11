@@ -1,0 +1,84 @@
+<infobox theme="Food">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Historical information</header>	
+        <data source="origin"><label>Place of origin</label></data>	
+        <data source="date"><label>Date created</label></data>
+        <data source="race"><label>Race</label></data>	
+        <data source="creator"><label>Creator</label></data>
+        <data source="found"><label>Found</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Food specifications</header>
+    	<data source="type"><label>Type</label></data>
+        <data source="description"><label>Physical description</label></data>
+        <data source="animals"><label>Animal-based ingredients</label></data>
+        <data source="plants"><label>Plant-based ingredients</label></data>
+        <data source="other"><label>Other ingredients</label></data>
+        <data source="edible"><label>Edible by</label></data>
+        <data source="inedible"><label>Inedible by</label></data>
+        <data source="potable"><label>Potable by</label></data>
+        <data source="nutrition"><label>Other nutritional info</label></data>
+        <data source="effects"><label>Effects</label></data>
+        <data source="dishes"><label>Dishes</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Chronological information</header>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Food|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|origin|date|race|creator|found|type|description|animals|plants|other|edible|inedible|potable|nutrition|effects|dishes|affiliation|ignore=name}}<noinclude>
+{{Clear}}{{Top|fprot|mprot}}
+
+===Usage===
+Copy and paste the following code to use the template.
+<pre><nowiki>{{Top}}
+{{Food
+|image=
+|name=
+|origin=
+|date=
+|race=
+|creator=
+|found=
+|type=
+|description=
+|animals=
+|plants=
+|other=
+|edible=
+|inedible=
+|potable=
+|nutrition=
+|effects=
+|dishes=
+|affiliation=
+}}</nowiki>
+</pre>
+===Parameters===
+*{{Para|image}} &mdash; An image of the subject, if one exists
+*{{Para|name}} &mdash; The title of the article
+*{{Para|origin}} &mdash; The origin of the food/beverage, if known. Please note that a food/beverage only being present on a planet/moon/other location does not necessarily mean it ''originated'' from there and should be included in {{Para|found}} instead.
+*{{Para|date}} &mdash; If a unique food/beverage was created on a certain date, that should be included. Please note that this field isn't intended for "By XYZ ABY" to indicate something common like wine existed by a very early point in galactic history; rather, this parameter is generally used for unique dishes that were created at some specifically defined point.
+*{{Para|race}} &mdash; If a food/beverage is affiliated with a specific race, cultural group, or species it should be included here. 
+*{{Para|creator}} &mdash; If a unique food/beverage has a creator, such as [[Strono Tuggs]] having created many dishes for his [[in-universe]] cookbooks, it should be included here. Note that for a generic topic such as [[wine]], a long list of creators is generally not included.
+*{{Para|found}} &mdash; If a food/beverage is found on a planet&mdash;that is, it is available or otherwise established in-universe to have been findable at a location&mdash;it should be included here. Note that if a food ''originates'' from a location, that location should be included in {{Para|origin}} instead.
+*{{Para|type}} &mdash; If a food/beverage has a type, it should be included here. For example, [[Cardekkia cheese]] is a type of [[cheese]] and [[Alderaanian wine]] is a type of [[wine]]. Wine itself, meanwhile, is a type of [[alcohol]]ic beverage.
+*{{Para|description}} &mdash; Physical description of the food/beverage should be included, if details are known. Size, color(s), texture(s), taste (sweet/spicy, etc.) are some examples of physical descriptors.
+*{{Para|animals}} &mdash; This field is for animal-based ingredients of the food/beverage. Animal-based ingredients might include meats, cheeses, dairy products, and eggs, among other animal products.
+*{{Para|plants}} &mdash; This field is for plant-based ingredients of the food/beverage. Vegetables and fruits are good examples of plant-based ingredients, though many others may fall into this category.
+*{{Para|other}} &mdash; This field is for any other ingredient of the food/beverage that is not plant or animal based.
+*{{Para|edible}} &mdash; This field is for listing any species that can consume a food. Note that in rare circumstances, a {{Tl|C}} may be needed to establish that a species has only been confirmed to be able to consume something such as a fruit in juice form. Additionally, if something is a beverage, use {{Para|potable}} instead.
+*{{Para|inedible}} &mdash; This field is for listing any species that cannot consume a food.
+*{{Para|potable}} &mdash; This field is for listing any species that can consume a beverage. Note that {{Para|potable}} is used for food instead.
+*{{Para|nutrition}} &mdash; If a food/beverage has specific nutritional information or data, it can be included here.
+*{{Para|effects}} &mdash; If a food/beverage has specific physical effects on consumers of it, those can be included here. Examples might include if a beverage causes alcoholic intoxication, or a rare type of food that makes people hungrier or perhaps ill. Note that this field is not generally used to just say "it could make someone feel more full"&mdash;that is sort of a given effect of food.
+*{{Para|dishes}} &mdash; This field is primarily used for food ingredients, such as a fruit that may be used in a dish. For example, [[jybbuk-fruit]] is an ingredient of [[Spiced Jybbuk Juice]], and [[chokeroot]] is an ingredient of [[mashed chokeroot]].
+*{{Para|affiliation}} &mdash; This field is for listing the affiliation of a food/beverage. Please note that only having a food consumed at an establishment or it being available there does not necessarily constitute affiliation. For example, [[wine]] is not individually affiliated with the hundreds (if not thousands) of cantinas that serve it. However, specific dishes such as [[Fried Endorian Tip-Yip]], might be considered affiliated with the restauraunts its served in&mdash;[[Tuggs' Grub]] and [[Docking Bay 7 Food and Cargo]]&mdash;given that the creator of the dish, [[Strono Tuggs]], specifically created it for his establishments. Or, for example, ''[[Tiingilar]]'', is established in-universe to be a traditional [[Mandalorian]] dish, meaning it would be advisable to consider it affiliated with Mandalorians.
+[[Category:Object infobox templates]]
+</noinclude>

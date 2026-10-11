@@ -1,0 +1,49 @@
+<includeonly><div class="hidable start-hidden" style="text-align:center">
+{| style="width:50%"
+'''By type'''&#32;<span class="hidable-button"></span>
+{| id="appearancesTOC" style="padding:5px; border:1px solid #AAAAAA; -moz-border-radius:6px; margin:0 auto 4px auto"
+| style="padding:0 1em;{{#if:{{{cast|}}}||color:gray; font-style:italic;}}" | {{#if:{{{cast|}}}|[[#app_cast|Cast]]|Cast}}
+| style="padding:0 1em;{{#if:{{{uncreditedcast|}}}||color:gray; font-style:italic;}}" | {{#if:{{{uncreditedcast|}}}|[[#app_uncreditedcast|Uncredited cast]]|Uncredited cast}}
+| style="padding:0 1em;{{#if:{{{crew|}}}||color:gray; font-style:italic;}}" | {{#if:{{{crew|}}}|[[#app_crew|Crew]]|Crew}}
+| style="padding:0 1em;{{#if:{{{uncreditedcrew|}}}||color:gray; font-style:italic;}}" | {{#if:{{{uncreditedcrew|}}}|[[#app_uncreditedcrew|Uncredited crew]]|Uncredited crew}}
+| style="padding:0 1em;{{#if:{{{specialthanks|}}}||color:gray; font-style:italic;}}" | {{#if:{{{specialthanks|}}}|[[#app_specialthanks|Special thanks]]|Special thanks}}
+|}
+|}
+<div class="hidable-content" style="clear:both; text-align:left">
+{| id="appearancesSection" style="width:100%" |
+{{#if:{{{cast|}}}
+|<p name="app_cast" id="app_cast" style="font-weight:bold; font-size:larger">Cast</p>
+{{{!}} class="appearances"
+{{!}}
+{{{cast|}}}
+{{!}}}
+|}}<!--
+-->{{#if:{{{uncreditedcast|}}}
+|<p name="app_uncreditedcast" id="app_uncreditedcast" style="font-weight:bold;">Uncredited cast</p>
+{{{!}} class="appearances"
+{{!}}
+{{{uncreditedcast|}}}
+{{!}}}
+|}}<!--
+-->{{#if:{{{crew|}}}
+|<p name="app_crew" id="app_crew" style="font-weight:bold; font-size:larger">Crew</p>
+{{{!}} class="appearances"
+{{!}}
+{{{crew|}}}
+{{!}}}
+|}}<!--
+-->{{#if:{{{uncreditedcrew|}}}
+|<p name="app_uncreditedcrew" id="app_uncreditedcrew" style="font-weight:bold;">Uncredited crew</p>
+{{{!}} class="appearances"
+{{!}}
+{{{uncreditedcrew|}}}
+{{!}}}
+|}}<!--
+-->{{#if:{{{specialthanks|}}}
+|<p name="app_specialthanks" id="app_specialthanks" style="font-weight:bold; font-size:larger">Special thanks</p>
+{{{!}} class="appearances"
+{{!}}
+{{{specialthanks|}}}
+{{!}}}
+|}}
+|}</div></div></includeonly><noinclude>{{Documentation}}</noinclude>

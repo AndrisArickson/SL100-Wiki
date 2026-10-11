@@ -1,0 +1,16 @@
+{| class="forumlist darkbackground1" style="border-radius:10px 10px 0 0; border-collapse:collapse; overflow:hidden"
+|- class="forumlist-header"
+! class="forum_date" | Created
+! class="forum_title" | {{#if:{{{2|}}}|Pinned topic|Topic}}
+! class="forum_author" | Created by
+{{#if:{{{last|}}}|! class="forum_edited" {{!}} Last edit !! class="forum_editor" {{!}} Last author|}}
+|-
+{{{1}}}
+{{#if:{{{2|}}}|{{!}}- class="forumlist-header"
+! class="forum_date" {{!}} Created
+! class="forum_title" {{!}} Topic
+! class="forum_author" {{!}} Created by
+{{#if:{{{last|}}}|! class="forum_edited" {{!}} Last edit !! class="forum_editor" {{!}} Last author|}}
+{{!}}-
+{{{2}}}|}}
+|}<noinclude>[[Category:Forum templates|{{PAGENAME}}]]</noinclude>

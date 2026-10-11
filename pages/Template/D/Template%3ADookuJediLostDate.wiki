@@ -1,0 +1,7 @@
+{{#ifeq:{{PAGENAME}}|''Dooku: Jedi Lost''|''Dooku: Jedi Lost''|''[[Dooku: Jedi Lost]]''}} establishes that [[Asajj Ventress]] has recently been recruited by [[Dooku]]. ''[[Star Wars: Timelines]]'' dates Ventress' recruitment by Dooku to [[23 BBY]], therefore placing the present day events of ''Dooku: Jedi Lost'' to around 23 [['ABY-BBY' dating system|BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{DookuJediLostDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]
+</noinclude>

@@ -1,0 +1,14 @@
+{{Ooumb
+| id = EmpireHeader
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article has gameplay-based alternatives.
+| message = The specific details in the body of this article are based on the assumed alignment choices of [[Sith Empire (Post–Great Hyperspace War)|Imperial and Sith]] player-characters in ''[[Star Wars: The Old Republic]]''. This presentation is based on [[Forum:CT:TOR and video game canon|community consensus]].<br />
+<small>Alternative paths should be listed in the [[#Behind_the_scenes|Behind the scenes]] section.</small>
+}}<includeonly>[[Category:Articles with gameplay alternatives|{{PAGENAME}}]]</includeonly><noinclude>
+
+<center><span style="font-size:200%;">'''This template is only for player character articles&mdash;not NPCs.'''</span></center>
+
+==Categorization==
+*[[:Category:Articles with gameplay alternatives]]
+[[Category:Header templates]]</noinclude>

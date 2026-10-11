@@ -1,0 +1,13 @@
+{| class="forumheader headerbackground timeline-toggles" style="padding:0; border-radius:10px; border-spacing:5px"
+| class="di-a" style="padding:5px" | Announcements (A)<br />[[#js|(click to hide)]]
+| class="di-swn" style="padding:5px" | Star Wars News (SWN)<br />[[#js|(click to hide)]]
+| class="di-mf" style="padding:5px" | Memes/Fun (M/F)<br />[[#js|(click to hide)]]
+| class="di-cp" style="padding:5px" | Community Projects (CP)<br />[[#js|(click to hide)]]
+| class="di-pf" style="padding:5px" | Polls/Favorites (P/F)<br />[[#js|(click to hide)]]
+|-
+| class="di-f" style="padding:5px" | Featured (F)<br />[[#js|(click to hide)]]
+| class="di-fc" style="padding:5px" | Fan Creations (FC)<br />[[#js|(click to hide)]]
+| class="di-ta" style="padding:5px" | Theory/Analysis (T/A)<br />[[#js|(click to hide)]]
+| class="di-hof" style="padding:5px" | Hall of Fame (HOF)<br />[[#js|(click to hide)]]
+| class="di-g" style="padding:5px" | General (G)<br />[[#js|(click to hide)]]
+|}<noinclude>[[Category:Forum templates]]</noinclude>

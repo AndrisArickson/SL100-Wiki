@@ -1,0 +1,24 @@
+{{Ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The title of this article is conjectural.
+|message = {{#switch:{{{1}}}
+|canon=Although this article is based on [[canon]]ical information, the actual name of this subject is pure conjecture.
+|legends=Although this article is based on official information from the [[Star Wars Legends|''Star Wars'' Legends]] continuity, the actual name of this subject is pure conjecture.
+|noncanon=Although this article is based on official [[Canon|non-canon]] information, the actual name of this subject is pure conjecture.
+|Although this article is based on [[canon]]ical information, the actual name of this subject is pure conjecture.}}
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with conjectural titles|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+For Canon articles: <code><nowiki>{{Conjecture}}</nowiki></code>
+
+For Legends articles: <code><nowiki>{{Conjecture|legends}}</nowiki></code>
+
+For non-canon (both continuities) articles: <code><nowiki>{{Conjecture|noncanon}}</nowiki></code>
+
+Note: do ''not'' use the template on articles for those "BBY"/"ABY" years of the [[Galactic standard calendar]] ([[Galactic Standard Calendar]] in the [[Star Wars Legends|''Star Wars'' Legends]] continuity) that are not explicitly mentioned in the "X BBY" or "X ABY" form in any sources. For example, [[3743 BBY]] is not explicitly identified in ''[[Star Wars: The Old Republic]]'', but it should nevertheless ''not'' use this template.
+
+==Categorization==
+*[[:Category:Articles with conjectural titles]]
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

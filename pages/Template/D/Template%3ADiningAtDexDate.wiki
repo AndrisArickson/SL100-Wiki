@@ -1,0 +1,6 @@
+{{#if:{{{1|{{#ifeq:{{NAMESPACE}}|Template|1|}}}}}
+|{{Hyperspace|url=fans/hyperspace/source/dexdiner/index.html|text=Dining at Dex's|int=Dining at Dex's}} is presented as an [[in-universe]] menu of [[Dex's Diner/Legends|Dex's Diner]]. ''[[Jedi Quest: Path to Truth]]'' depicts [[Didi Oddo]] as still being the owner of Didi's Café, which came under the ownership of [[Dexter Jettster/Legends|Dexter Jettster]] per ''[[Jedi Quest: The Trail of the Jedi]]'' and was renamed Dex's Diner per "Dining at Dex's." Since ''[[The Essential Reader's Companion]]'' dates the events of ''Path to Truth'' and ''The Trail of the Jedi'' to [[28 BBY/Legends|28 BBY]] and [[27 BBY/Legends|27 BBY]] respectively, "Dining at Dex's" must be set at some point no earlier than 28 [['ABY-BBY' dating system/Legends|BBY]].
+|[[Template:DiningAtDexDate|reasoning here]]}}<noinclude>
+
+[[Category:Legends dating citation templates]]
+</noinclude>

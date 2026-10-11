@@ -1,0 +1,24 @@
+==Instructions==
+This template is to be used for citing individual pages on [https://www.disneynow.com DisneyNOW].
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{DisneyNOW|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.disneynow.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{DisneyNOW|url=shows/star-wars-rebels|text=Star Wars Rebels shorts|archivedate=20200419081157}}</nowiki></code>
+
+Result in:
+
+{{DisneyNOW|url=shows/star-wars-rebels|text=Star Wars Rebels shorts|archivedate=20200419081157}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

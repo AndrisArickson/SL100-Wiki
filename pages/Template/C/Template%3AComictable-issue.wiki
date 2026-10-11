@@ -1,0 +1,15 @@
+|class="{{#switch:{{{4|}}}
+|collected=orange-cell
+|released=green-cell
+|released-int=sandgreen-cell
+|future=yellow-cell
+|#default=green-cell}}" text-align: center;"|{{{1|}}}||{{{2|}}}||{{{3|}}}
+{{{tpb|}}}
+|-<noinclude>
+
+==Usage==
+This template is used to create rows for comic book issues in comic tables. Parameter {{Para|tpb}} is used to add collections using {{Tl|Comictable-tpb}}, where applicable.
+ <nowiki>{{</nowiki>Comictable-issue|''number''|''title''|''release date''|''type''|tpb=}}
+Valid types are "collected", "released", "released-int", and "future". Default is "released".
+
+[[Category:Utility templates]]</noinclude>

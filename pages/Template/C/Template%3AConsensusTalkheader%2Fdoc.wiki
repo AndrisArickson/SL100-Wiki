@@ -1,0 +1,16 @@
+This template is intended to be used on talk pages to inform the Wookieepedia editing community of any consensus decision directly related to a media.
+
+==Usage==
+<code><nowiki>{{ConsensusTalkheader|issue=|discussion=}}</nowiki></code>
+
+==Example(s)==
+For the ''[[Star Wars: Galaxy of Heroes]]'' [[Talk:Star Wars: Galaxy of Heroes|talk page]]:
+
+<code><nowiki>{{ConsensusTalkheader|issue=the game featuring characters from different continuities|discussion=[[Wookieepedia:Mofferences/January 6, 2019|here]]}}</nowiki></code>
+
+Results in:
+
+{{ConsensusTalkheader|''Star Wars: Galaxy of Heroes''|issue=the game featuring characters from different continuities|discussion=[[Wookieepedia:Mofferences/January 6, 2019|here]]}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Talk page templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

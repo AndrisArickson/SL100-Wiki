@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Nagai–Tof War]]<br />([[4 ABY/Legends|4 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Duel on Vjun|Vjun]] · [[Battle of Herdessa (Nagai–Tof War)|Herdessa]] · [[Skirmish on Kashyyyk (Nagai invasion)|Kashyyyk]] · [[Subjugation of Naldar|Naldar]] · [[Skirmish in the Cantros system|Cantros 7]]<br />[[Skirmish on Kabray|Kabray]] · [[Skirmish on Kinooine|Kinooine]] · [[Battle of Koda Space Station|Koda]] · [[Attack on the Mephout system|Mephout system]] · [[Attack on Virgillia 7|Virgillia 7]]<br />[[Battle of Mandallia|Mandallia]] · [[Battle of Mandalore (Nagai invasion)|Second Mandalore]] · [[Battle of Chelleya|Chelleya]] · [[Second Battle of Endor|Third Endor]]<br />[[Battle of Terminus|Terminus]] · [[Battle of Sullust (Nagai invasion)|Third Sullust]] · [[Raid on Saijo|First Saijo]] · [[Battle of Faldos|Faldos]]<br />[[Battle of the Manpha system|Manpha system]] · [[Battle of the Berrol's Donn system|Berrol's Donn system]] · [[Battle of Trenwyth|Trenwyth]]<br />[[Battle of Rutan|Rutan]] · [[Battle of Shumavar (Nagai–Tof War)|Shumavar]] · [[Battle of Mon Gazza (Nagai invasion)|Mon Gazza]] · [[Battle of Iskalon (Nagai–Tof War)|Iskalon]]<br />[[Second battle of Herdessa (Nagai–Tof War)|Second Herdessa]] · [[Operation: Glorious Destiny|Glorious Destiny]] · [[Battle of Zeltros|Zeltros]]<br />[[Declaration of a New Republic/Legends|Declaration of a New Republic]] · [[Conquest of Saijo|Second Saijo]]<br />[[Battle of Fondor (Tof invasion)|Fourth Fondor]] · [[Battle of the Thesme sector|Thesme sector]] · [[Battle of Saijo|Third Saijo]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Nagai-Tof]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Nagai-Tof
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

@@ -1,0 +1,57 @@
+==Instructions==
+<code><nowiki>{{Dialogue|speaker1|speaker1 dialogue|speaker2|speaker2 dialogue|..(more speakers and dialogue)..|attr=|src=}}</nowiki></code>
+
+;<code>speaker1</code>: name of the speaker. Up to 10 speakers is supported.
+;<code>speaker 1 dialogue</code>: actual quote text of speaker 1. Up to 10 lines is supported, per [[Forum:CT:Quote length]]. 
+;<code>|attr=</code>: a short description of the speakers, and additional context if needed. Not followed by a full stop and should only contain links if the subjects cannot be linked elsewhere in the article.
+;<code>|src=</code>: a reference (footnote) formatted the same way as anywhere else in the article. See [[Wookieepedia:Sourcing]] for more help.
+
+For quotes with one or two speakers, use {{Tl|Quote}}.
+
+For general rules concerning quotations on Wookieepedia, please see the [[Wookieepedia:Manual of Style#Quotes|Manual of Style]].
+
+===Optional parameters===
+;<code>|lineX=</code>: to modify formatting for line ''X'', use this parameter; for example, <code>|line2=</code> modifies line 2. <code>|lineX=trans</code> replaces the quotation marks with &laquo;&raquo; (for translated quotes) while <code>|lineX=no</code> removes the quotation marks and the italics.
+;<code>|audio=AudioFile.flac</code>: adds a link to an audio version of the quote. Do not include the file prefix.
+
+==Example(s)==
+Code: <code><nowiki>{{Dialogue|User 1|Hello.|User 2|Hey.|User 3|Greetings!|attr=Three Wookieepedians|src=<ref name="Wookieepedia">''[[Wookieepedia]]''</ref>}}</nowiki></code>
+
+Result:
+{{Dialogue|User 1|Hello.|User 2|Hey.|User 3|Greetings!|attr=Three Wookieepedians|src=<ref name="Wookieepedia">''[[Wookieepedia]]''</ref>}}
+
+
+Code: <code><nowiki>{{Dialogue|User 1|Hello.|User 2|Hey.|User 3|Hey guys.|User 4|Hey user 1, could you review my article?|User 1|Sure. I'll get to it ASAP.|attr=Four users with a total of five lines|src=<ref name="Wookieepedia" />}}</nowiki></code>
+
+Result:
+{{Dialogue|User 1|Hello.|User 2|Hey.|User 3|Hey guys.|User 4|Hey user 1, could you review my article?|User 1|Sure. I'll get to it ASAP.|attr=Four users with a total of five lines|src=<ref name="Wookieepedia" />}}
+
+===Using audio===
+Code: <code><nowiki>{{Dialogue|Kenobi|Our intelligence has confirmed that Grievous's spies have been intercepting our transmissions.|Tano|He must have some sort of secret listening post out there somewhere.|Skywalker|That would explain how he's been able to ambush our fleets.|attr=Republic commanders Obi-Wan Kenobi, Ahsoka Tano, and Anakin Skywalker|audio=InterceptedTransmissions-DoaD.flac|src=<ref name="DoaD">{{TCW|Downfall of a Droid}}</ref>}}</nowiki></code>
+
+Result:
+{{Dialogue|Kenobi|Our intelligence has confirmed that Grievous's spies have been intercepting our transmissions.|Tano|He must have some sort of secret listening post out there somewhere.|Skywalker|That would explain how he's been able to ambush our fleets.|attr=Republic commanders Obi-Wan Kenobi, Ahsoka Tano, and Anakin Skywalker|audio=InterceptedTransmissions-DoaD.flac|src=<ref name="DoaD">{{TCW|Downfall of a Droid}}</ref>}}
+
+===Using <tt>linex</tt>===
+Code: <code><nowiki>{{Dialogue|Human 1|Hello.|Wookiee 1|line2=trans|Hey!|Human 2|line3=no|[waves] "''Hey guys.''"|Wookiee 2|line4=no|&laquo;''Howdy!''&raquo; [pounds chest]|attr=Conversation|src=<ref name="Wookieepedia" />}}</nowiki></code>
+
+Result:
+{{Dialogue|Human 1|Hello.|Wookiee 1|line2=trans|Hey!|Human 2|line3=no|[waves] "''Hey guys.''"|Wookiee 2|line4=no|''&laquo;Howdy!&raquo;'' [pounds chest]|attr=Conversation|src=<ref name="Wookieepedia" />}}
+
+==Old formats==
+===Using url as source===
+The code is basically the same, but you add a parameter, <tt>|url=yes</tt>, before the src parameter.
+
+Code: <code><nowiki>{{Dialogue|User 1|Hello.|User 2|Hey.|User 3|Hey guys.|User 4|Wanna hear a joke?|attr=Four guys with a total of four dialogues|url=yes|src=http://starwars.wikia.com/wiki/Talk:Anakin_Skywalker}}</nowiki></code>
+
+Result:
+{{Dialogue|User 1|Hello.|User 2|Hey.|User 3|Hey guys.|User 4|Wanna hear a joke?|attr=Four guys with a total of four dialogues|url=yes|src=http://starwars.wikia.com/wiki/Talk:Anakin_Skywalker}}
+
+==Notes and references==
+{{Reflist}}
+
+==See also==
+*[[Wookieepedia:Templates/Quotes]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Quotation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

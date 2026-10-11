@@ -1,0 +1,35 @@
+{{#switch:{{{1|}}}
+  |#default = {{InsiderCite|228|A Certain Point of View (department)}} places the events of "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[9 ABY]] per ''[[Star Wars: Timelines]]''. The preceding episodes also take place after the events of ''[[Star Wars: The Book of Boba Fett]]'', which ''Star Wars: Timelines'' dates to 9 [['ABY-BBY' dating system|ABY]]. Since "[[Part Eight: The Jedi, the Witch, and the Warlord]]" takes place shortly after "Part Seven: Dreams and Madness," the events of [[Ahsoka Season 1|''Ahsoka'' Season 1]] must take place in 9 ABY, and [[Ahsoka Season 2|''Ahsoka'' Season 2]] must take place during or after 9 ABY.
+  |1 = {{InsiderCite|228|A Certain Point of View (department)}} places the events of "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[9 ABY]] per ''[[Star Wars: Timelines]]''. The preceding episodes also take place after the events of ''[[Star Wars: The Book of Boba Fett]]'', which ''Star Wars: Timelines'' dates to 9 [['ABY-BBY' dating system|ABY]]. Since "[[Part Eight: The Jedi, the Witch, and the Warlord]]" takes place shortly after "Part Seven: Dreams and Madness," the events of [[Ahsoka Season 1|''Ahsoka'' Season 1]]{{#if: {{{2|}}}|, including {{{2}}},|}} must take place in 9 ABY.
+  |2 = {{InsiderCite|228|A Certain Point of View (department)}} places the events of "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[9 ABY]] per ''[[Star Wars: Timelines]]''. Since [[Ahsoka Season 2|''Ahsoka'' Season 2]] takes place after the episode, the events of ''Ahsoka'' Season 2{{#if: {{{2|}}}|, including {{{2}}},|}} must take place during or after 9 [['ABY-BBY' dating system|ABY]].
+  |101|102|103|104|105|106 = {{InsiderCite|228|A Certain Point of View (department)}} places the events of "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[9 ABY]] per ''[[Star Wars: Timelines]]''. The preceding episodes also take place after the events of ''[[Star Wars: The Book of Boba Fett]]'', which ''Star Wars: Timelines'' dates to 9 [['ABY-BBY' dating system|ABY]]. Therefore, the events of "{{#switch:{{{1|}}}|101=[[Part One: Master and Apprentice]]|102=[[Part Two: Toil and Trouble]]|103=[[Part Three: Time to Fly]]|104=[[Part Four: Fallen Jedi]]|105=[[Part Five: Shadow Warrior]]|106=[[Part Six: Far, Far Away]]}}{{#if: {{{2|}}}|, including {{{2}}},|}}" must take place in 9 ABY.
+  |107 = {{InsiderCite|228|A Certain Point of View (department)}} places the events of "[[Part Seven: Dreams and Madness]]{{#if: {{{2|}}}|, including {{{2}}},|}}" to nine [[Standard year|years]] after [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[9 ABY]] per ''[[Star Wars: Timelines]]''.
+  |108 = {{InsiderCite|228|A Certain Point of View (department)}} places the events of "[[Part Seven: Dreams and Madness]]" to nine [[Standard year|years]] after [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which corresponds to [[9 ABY]] per ''[[Star Wars: Timelines]]''. Since "[[Part Eight: The Jedi, the Witch, and the Warlord]]" takes place shortly after "Part Seven: Dreams and Madness," the events of the "Part Eight: The Jedi, the Witch, and the Warlord{{#if: {{{2|}}}|, including {{{2}}},|}}" must take place in 9 [['ABY-BBY' dating system|ABY]].
+}}<noinclude>
+
+==Usage==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|[[Ahsoka Season 1|Season 1]]||<nowiki>{{AhsokaDate|1}}</nowiki>||[[9 ABY]]||{{AhsokaDate|1}}
+|-
+|[[Ahsoka Season 2|Season 2]]||<nowiki>{{AhsokaDate|2}}</nowiki>||During or after [[9 ABY]]||{{AhsokaDate|2}}
+|-
+|"[[Part One: Master and Apprentice]]"||<nowiki>{{AhsokaDate|101}}</nowiki>||[[9 ABY]]||{{AhsokaDate|101}}
+|-
+|"[[Part Two: Toil and Trouble]]"||<nowiki>{{AhsokaDate|102}}</nowiki>||[[9 ABY]]||{{AhsokaDate|102}}
+|-
+|"[[Part Three: Time to Fly]]"||<nowiki>{{AhsokaDate|103}}</nowiki>||[[9 ABY]]||{{AhsokaDate|103}}
+|-
+|"[[Part Four: Fallen Jedi]]"||<nowiki>{{AhsokaDate|104}}</nowiki>||[[9 ABY]]||{{AhsokaDate|104}}
+|-
+|"[[Part Five: Shadow Warrior]]"||<nowiki>{{AhsokaDate|105}}</nowiki>||[[9 ABY]]||{{AhsokaDate|105}}
+|-
+|"[[Part Six: Far, Far Away]]"||<nowiki>{{AhsokaDate|106}}</nowiki>||[[9 ABY]]||{{AhsokaDate|106}}
+|-
+|"[[Part Seven: Dreams and Madness]]"||<nowiki>{{AhsokaDate|107}}</nowiki>||[[9 ABY]]||{{AhsokaDate|107}}
+|-
+|"[[Part Eight: The Jedi, the Witch, and the Warlord]]"||<nowiki>{{AhsokaDate|108}}</nowiki>||[[9 ABY]]||{{AhsokaDate|108}}
+|}
+
+[[Category:Canon television dating citation templates]]</noinclude>

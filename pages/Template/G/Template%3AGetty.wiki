@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Getty
+|image=[[File:GettyImages-Logo.svg|text-top|x16px|link=https://www.gettyimages.com]]
+|site_text=[[Wikipedia:Getty Images|Getty Images]]
+|base_url=https://{{{subdomain|dam}}}.gettyimages.{{{lang|com}}}
+|target_url={{{url|}}}
+|author={{#if:{{{author|}}}|{{{author|}}}|{{#ifeq:{{{subdomain|dam}}}|www||[[The Walt Disney Company|The Walt Disney Studios]]}}}}
+|use_lua_subpage=1
+|social_media_citation=1
+}}{{#if:{{{template|}}}||{{#if:{{#pos:{{{text|}}}|Production Brief}}{{#pos:{{{text|}}}|Project Profile}}|[[Category:ProductionBrief usages to convert]]|}}}}</includeonly><noinclude>{{Documentation}}</noinclude>

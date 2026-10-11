@@ -1,0 +1,14 @@
+==Usage==
+Use this template for issues of the ''[[Star Wars: The Official Chess Collection]]'' line by placing the following code down, replacing "issue number" with the information required.
+ <nowiki>{{</nowiki>ChessCite|ISSUE NUMBER}}
+
+This template, like the rest of the reference magazine citation templates, is built using [[Module:BaseCitation]]. See [[Module:BaseCitation/doc]] for relevant maintenance categories and help building new templates. 
+
+==Example(s)==
+====Code====
+<nowiki>{{ChessCite|1}}</nowiki>
+====Result====
+{{ChessCite|1}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

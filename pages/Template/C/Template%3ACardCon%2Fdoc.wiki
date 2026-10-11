@@ -1,0 +1,37 @@
+This template is to be used for citing individual pages on [https://www.cardboardconnection.com/ The Cardboard Connection].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{CardCon|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*'''url''': URL of the web page, minus the domain name (<code><nowiki>https://www.cardboardconnection.com/</nowiki></code>).
+*'''text''': Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{CardCon|url=2014-topps-star-wars-chrome-perspectives-trading-cards|text=2014 Topps Star Wars Chrome Perspectives Trading Cards|archivedate=20190320193649}}</nowiki></code>
+
+Results in:
+
+{{CardCon|url=2014-topps-star-wars-chrome-perspectives-trading-cards|text=2014 Topps Star Wars Chrome Perspectives Trading Cards|archivedate=20190320193649}}
+
+<hr />
+<code><nowiki>{{CardCon|url=2014-topps-star-wars-chrome-perspectives-trading-cards|text=2014 Topps Star Wars Chrome Perspectives Trading Cards|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{CardCon|url=2014-topps-star-wars-chrome-perspectives-trading-cards|text=2014 Topps Star Wars Chrome Perspectives Trading Cards|nobackup=1}}
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

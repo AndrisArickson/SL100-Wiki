@@ -1,0 +1,20 @@
+[[File:Commons.svg|text-top|x16px|link=commons:File:{{{1}}}]] [[commons:File:{{{1}}}|{{{2|{{{1}}}}}}]] on [[commons:Main Page|Wikimedia Commons]]<includeonly>[[Category:Images from Wikimedia Commons]]</includeonly><noinclude>
+
+==Usage==
+{{RelPol|Wookieepedia:Files}}
+To cite an image to [[commons:Main Page|Wikimedia Commons]], apply {{Para|source|<nowiki>{{Commons|</nowiki>{{Var|file.extension}}<nowiki>}}</nowiki>}} within the {{Tl|Information}} template on its file page. The image will automatically be placed in [[:Category:Images from Wikimedia Commons]], so {{Para|cat licensee|skip}} should also be used if that field is not otherwise filled.
+
+===Required parameters===
+#{{Para||{{Var|file.extension}}}} The file name as found on the source page. Omit the "File:" namespace.
+
+===Optional parameters===
+#<li value="2">{{Para||{{Var|text}}}} Optional display text. By default the link text is the filename.</li>
+
+==Categorization==
+*[[:Category:Images from Wikimedia Commons]]
+
+==External links==
+*[[commons:Main Page|Wikimedia Commons]]
+*{{WP|Wikimedia Commons}}
+
+[[Category:Interwiki link templates|{{PAGENAME}}]]</noinclude>

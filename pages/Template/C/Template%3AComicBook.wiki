@@ -1,0 +1,65 @@
+<infobox theme="Comic">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="writer"><label>Writer</label></data>	
+        <data source="penciller"><label>Penciller</label></data>	
+        <data source="inker"><label>Inker</label></data>	
+        <data source="letterer"><label>Letterer</label></data>	
+        <data source="colorist"><label>Colorist</label></data>
+        <data source="cover artist"><label>Cover artist</label></data>
+        <data source="editor"><label>Editor</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="release date"><label>Publication date</label><format><!--
+        -->{{#ifeq:{{lc:{{{release date|}}}}}|none||{{#ifeq:{{lc:{{{release date|}}}}}|future||{{#ifeq:{{lc:{{{release date|}}}}}|canceled||{{{release date}}}}}}}}}<!--
+        --></format></data>	
+        <data source="pages"><label>Pages</label></data>	
+        <data source="upc"><label>[[Wikipedia:Universal Product Code|UPC]]</label></data>	     
+    </group>
+        <group collapse="open">
+    	<header>Chronological information</header>
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="series"><label>Series</label></data>	
+        <data source="issue"><label>Issue number</label></data>
+        <data source="prev"><label>Preceded by</label><default>{{#invoke:PrevNext|main|mode=prev|value={{{prev|{{{preceded by|}}}}}}}}</default><format>{{#invoke:PrevNext|main|mode=prev|value={{{prev|{{{preceded by|}}}}}}}}</format></data>
+        <data source="next"><label>Followed by</label><default>{{#invoke:PrevNext|main|mode=next|value={{{next|{{{followed by|}}}}}}}}</default><format>{{#invoke:PrevNext|main|mode=next|value={{{next|{{{followed by|}}}}}}}}</format></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:ComicBook|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|writer|penciller|inker|letterer|colorist|cover artist|editor|publisher|release date|pages|upc|timeline|series|issue|optional=no_year_check,not_appearance,reprint,anthology,prev,next|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check={{{no_year_check|}}}|template_name=ComicBook|misc={{{reprint|}}}|sort_key=7}}<!--
+-->{{AppMediaCat|not_appearance={{{reprint|{{{anthology|{{{not_appearance|}}}}}}}}}}}<!--
+-->{{#if:{{NAMESPACE}}||{{#if:{{{reprint|}}}|{{#if:{{#pos:{{PAGENAME}}|Weekly}}||{{#if:{{#pos:{{PAGENAME}}|Monthly}}||{{#if:{{#pos:{{PAGENAME}}|Classic Star Wars}}||[[Category:Comic book reprints of earlier material]]}}}}}}|{{#if:{{{anthology|}}}|[[Category:Comic book story anthologies]]}}|}}}}<noinclude>[[category:Comic infoboxes]]
+
+==See also==
+*{{Tl|ComicStory}}
+
+==Usage==
+Copy and paste the following code to use this template:
+<pre>{{Top|real}}
+{{ComicBook
+|image=
+|title=
+|writer=
+|penciller=
+|inker=
+|letterer=
+|colorist=
+|cover artist=
+|editor=
+|publisher=
+|release date=
+|pages=
+|upc=
+|timeline=
+|series=
+|issue=
+|prev=
+|next=
+}}</pre></noinclude>

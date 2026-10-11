@@ -1,0 +1,22 @@
+This template is to be used for linking to the corresponding concept art category for a piece of media.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article (as outlined in the [[Wookieepedia:Layout_Guide/In-universe#Mediacat|Layout Guide]]), and fill in the required fields.
+
+<code><nowiki>{{Conceptcat|imagecat=|artbook=}}</nowiki></code>
+
+===Parameters===
+*'''imagecat''': (required) Name of the category for the concept art of the article subject, minus its namespace prefix (<code><nowiki>Category:</nowiki></code>).
+*'''artbook''': (required) Name of the media's art book.
+
+===Example(s)===
+<code><nowiki>{{Conceptcat|imagecat=Solo: A Star Wars Story concept art|artbook=The Art of Solo: A Star Wars Story}}</nowiki></code>
+
+Results in:
+
+{{Conceptcat|imagecat=Solo: A Star Wars Story concept art|artbook=The Art of Solo: A Star Wars Story}}
+{{Clear}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internal link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

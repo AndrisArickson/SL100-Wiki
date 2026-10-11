@@ -1,0 +1,27 @@
+==Instructions==
+This template is to be used for citing advertisements on [[HoloNet News/Legends|HoloNet News]]. As of [[October]] [[2013]], all HoloNet News links are completely inaccessible.
+
+At least some entries still exist on the [https://web.archive.org Internet Archive], which can be linked using the standard archive links. Please note that the last saved version for some entries are error pages, so you might have to dig through the timeline on Internet Archive in order to find a working revision.
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{HoloNetNewsAd|||text=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|issue}} Issue number where the advertisement was first seen
+*{{Para|url}} URL of the web page, beginning with 'meta/img/ads'
+*{{Para|text}} Text used on the advertisement being cited.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{HoloNetNewsAd|url=meta/img/ads/194_2.gif|issue=45|text=The Best Eats in the Coco Town Streets}}</nowiki></code>
+
+Results in:
+
+{{HoloNetNewsAd|url=meta/img/ads/194_2.gif|issue=45|text=The Best Eats in the Coco Town Streets}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

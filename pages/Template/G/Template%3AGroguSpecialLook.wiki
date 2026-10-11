@@ -1,0 +1,14 @@
+{{#invoke:BaseCitation|main
+|mode=TV
+|image=[[File:MandoAndGroguSpecialLook-Logo.png|text-top|x18px|link=Star Wars: The Mandalorian and Grogu: A Special Look]]
+|series=Star Wars: The Mandalorian and Grogu: A Special Look
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+<code><nowiki>{{GroguSpecialLook|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}</nowiki></code>
+
+
+[[Category:TV citation templates]]</noinclude>

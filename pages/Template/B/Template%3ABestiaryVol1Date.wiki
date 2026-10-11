@@ -1,0 +1,6 @@
+The [[in-universe]] [[Ardis San Tekka's journal|journal]] represented by {{#ifeq:{{PAGENAME}}|Star Wars Bestiary, Vol. 1: Creatures of the Galaxy|''Star Wars Bestiary, Vol. 1: Creatures of the Galaxy''|''[[Star Wars Bestiary, Vol. 1: Creatures of the Galaxy]]''}} mentions the [[Battle of Exegol|defeat]] of the [[Cloning|clone]] [[Galactic Emperor]] [[Darth Sidious|Palpatine]], which ''[[Star Wars: Timelines]]'' dates to [[35 ABY]], meaning the document must have been published at some point no earlier than that [[Standard year|year]].<noinclude>
+
+==Usage==
+<code><nowiki>{{BestiaryVol1Date}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

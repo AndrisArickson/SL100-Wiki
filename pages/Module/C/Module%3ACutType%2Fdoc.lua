@@ -1,0 +1,1 @@
+This is a simple Lua module that is embedded in {{Tl|Cut}} and provides continuity-based categorization depending on the source given in the parameter; it checks that source against the list of possible Legends values and returns either a canon or legends category.

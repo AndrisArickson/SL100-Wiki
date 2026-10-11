@@ -1,0 +1,8 @@
+<onlyinclude><small>(Appears as a corpse)</small></onlyinclude>
+
+==Example==
+[[Nebelish]] {{corpse}}
+===Code===
+<code><nowiki>
+[[Nebelish]] {{corpse}}
+</nowiki></code>[[Category:Appearance templates|{{PAGENAME}}]]

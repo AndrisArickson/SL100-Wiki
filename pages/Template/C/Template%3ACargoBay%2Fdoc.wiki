@@ -1,0 +1,34 @@
+==Instructions==
+This template is to be used for citing pages on the official [[StarWars.com]]'s Cargo Bay section.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{CargoBay|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>http://cargobay.starwars.com/webapps/cargobay/</nowiki></code>.
+*{{Para|full_url}} If your URL does ''not'' include the webapps/cargobay prefix, use this parameter instead.
+*{{Para|text}} The formatted text to display.
+*For '''archive link''', see [[#backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|oldversion}} Set to 1 when the information is not present on the common ArchiveAccess archivedate's version of the webpage, necessitating a custom archivedate.
+
+===Unnecessary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+==Backup links==
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{CargoBay|url=browse/137|text=Thrawn Trilogy|archivedate=20120825053603}}</nowiki></code>
+
+Results in:
+
+{{CargoBay|url=browse/137|text=Thrawn Trilogy|archivedate=20120825053603}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

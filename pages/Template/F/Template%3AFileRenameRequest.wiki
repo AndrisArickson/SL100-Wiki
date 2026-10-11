@@ -1,0 +1,18 @@
+{{SmallMB
+|id=FTBR
+|image=[[File:Dialog-warning.svg|50px]]
+|message='''A user is requesting that this file be moved or [[Wookieepedia:Rollback|rollbacked]] to a new filename by a [[Wookieepedia:Administrators|Wookieepedia administrator]] or [[Wookieepedia:Rollback#Users with Rollback|Wookieepedia rollback]]'''.<br />The reasoning for this move is: '''{{{1}}}'''.<br />The suggested new filename is: '''[{{Fullurl:Special:MovePage|wpOldTitle=File:{{Urlencode:{{PAGENAME}}}}&wpNewTitle=File:{{Urlencode:{{{2}}}}}&wpReason={{Urlencode:Requested move, reason is {{{1}}}.}}&wpMovetalk=1&wpLeaveRedirect=0}} {{{2}}}]'''
+}}<includeonly>{{SpecialCategorizer|[[Category:Files_to_be_renamed|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Top|sprot}}
+
+==Usage==
+<code><nowiki>{{FileRenameRequest|</nowiki>{{Var|reason}}|{{Var|NewFileName.extension}}}}</code>
+
+Do not include "File:" before the new suggested file name as this will cause the template to not display correctly. For example, put '''NewFileName.png''' and not '''File:NewFileName.png'''.
+
+Once the template is placed on a file page, an automated report is sent in the <code>#automated-reports</code> channel of the [[Wookieepedia:Discord|Wookieepedia Discord]] for administrators and rollbacks to handle when convenient.
+
+==Categorization==
+*[[:Category:Files to be renamed]]
+
+[[Category:File maintenance templates]]</noinclude>

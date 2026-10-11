@@ -1,0 +1,38 @@
+==Instructions==
+This section describes how you implement <tt>archivedate</tt>, <tt>archiveurl</tt>, <tt>archivefile</tt>, and <tt>nobackup</tt> in citation templates.
+
+<pre><nowiki>
+{{#if:{{{archivedate|}}} <!-- START LEVEL 1-->
+    |&nbsp;([https://web.archive.org/web/{{{archivedate}}}/URL-PARAMETER-OF-TEMPLATE backup link])
+    |{{#if:{{{3|{{{archiveurl|}}}}}} <!-- START LEVEL 2 -->
+        |&nbsp;([{{{3|{{{archiveurl}}}}}} backup link])
+        |{{#if:{{{nobackup|}}} <!-- START LEVEL 3 -->
+            |&nbsp;(backup link not available)
+            |&nbsp;([https://web.archive.org/web/URL-PARAMETER-OF-TEMPLATE backup link] [[Template:TEMPLATE-NAME|<span style="color: red">'''not verified!'''</span>]]){{#if:{{NAMESPACE}} <!-- START LEVEL 4 -->
+                |{{#ifeq:{{NAMESPACE}} <!-- START LEVEL 5 -->
+                    |File
+                    |[[Category:Pages with missing permanent archival links]]
+                    |
+                 }} <!-- END LEVEL 5 -->
+                |[[Category:Pages with missing permanent archival links]]
+             }} <!-- END LEVEL 4 -->
+         }} <!-- END LEVEL 3 -->
+     }} <!-- END LEVEL 2 -->
+}} <!-- END LEVEL 1 -->
+</nowiki></pre>
+
+===Explanation===
+*'''Level 1''': check for <tt>archivedate</tt>
+**if <tt>archivedate</tt> is provided, render link to IA using the URL and the timestamp
+**if <tt>archivedate</tt> is not provided, proceed to '''Level 2''': check for <tt>archiveurl</tt>
+***if <tt>archiveurl</tt> is provided, render link to archive
+***if <tt>archiveurl</tt> is not provided, proceed to '''Level 3''': check for <tt>nobackup</tt>
+****if <tt>nobackup</tt> is provided, render <small>(backup link not available)</small>
+****if <tt>nobackup</tt> is not provided, render <small>([https://web.archive.org/web/URL-PARAMETER-OF-TEMPLATE backup link] [[Template:BackupLinkHelp|<span style="color: red">'''not verified!'''</span>]])</small>, and proceed to '''Level 4''':
+*****if <tt><nowiki>{{NAMESPACE}}</nowiki></tt> is empty (if we're in mainspace), add maintenance category
+*****if <tt><nowiki>{{NAMESPACE}}</nowiki></tt> is not empty, proceed to '''Level 5''':
+******if <tt><nowiki>{{NAMESPACE}}</nowiki></tt> equals "File", add maintenance category
+******if <tt><nowiki>{{NAMESPACE}}</nowiki></tt> does not equal "File", do nothing
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Administrative templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

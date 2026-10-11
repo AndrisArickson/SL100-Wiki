@@ -1,0 +1,34 @@
+{{Ooumb
+| id = FormerFA
+| bg = #f9f9f9
+| image = [[File:FA-Former.svg|30px]]
+| message = '''{{PAGENAME}}''' is a former [[Wookieepedia:Featured articles|Featured article]].  Please see '''[[Wookieepedia:Inq/{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}}/Legends (fourth review)
+|{{BASEPAGENAME}}/Legends (fourth review)
+|{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}}/Legends (third review)
+ |{{BASEPAGENAME}}/Legends (third review)
+ |{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}}/Legends (second review)
+  |{{BASEPAGENAME}}/Legends (second review)
+  |{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}}/Legends
+   |{{BASEPAGENAME}}/Legends
+   |{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}} (fourth review)
+    |{{BASEPAGENAME}} (fourth review)
+    |{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}} (third review)
+     |{{BASEPAGENAME}} (third review)
+     |{{#ifexist:Wookieepedia:Inq/{{BASEPAGENAME}} (second review)
+      |{{BASEPAGENAME}} (second review)
+      |{{{1|{{BASEPAGENAME}}}}}
+      }}
+     }}
+    }}
+   }}
+  }}
+ }}
+}}|this article's entry]]''' on the [[Wookieepedia:Inquisitorius|Inquisitorius]] page for the reasons it was removed.
+}}<noinclude>
+
+==Usage==
+<code><nowiki>{{FormerFA|review page name}}</nowiki></code>
+
+The template handles review pages automatically up to the fourth review. The fifth and any subsequent reviews necessitate passing the review page as a parameter in the template. /Legends review pages are also handled by the template.
+
+[[Category:Status article talk page templates]]</noinclude>

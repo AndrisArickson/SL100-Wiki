@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Blackstone
+|image=[[File:Globe.svg|text-top|x14px|class=darkmodeinvert|link=https://www.blackstonepublishing.com]]
+|site_text=[[Blackstone Audio]]'s [https://www.blackstonelibrary.com official website]
+|base_url=https://{{{subdomain|www}}}.blackstonelibrary.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

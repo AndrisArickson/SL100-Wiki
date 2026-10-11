@@ -1,0 +1,30 @@
+{| class="forumlist {{#if:{{{sortable|}}}|sortable|}} darkbackground1" style="border-radius:{{#if:{{{complete|}}}|10px|10px 10px 0 0}}; border-collapse:collapse; overflow:hidden; text-align:left"
+!style="width:160px"|'''Created'''||style="width:50px"| || |'''Topic'''{{#if:{{{noauthor|}}}||{{!}}{{!}}style="width:200px"{{!}}Created by}}
+{{{1}}}
+|}<noinclude>
+__NOTOC__
+==Description==
+For tabulating [[Wookieepedia:Discussions|Discussions]] posts on [[Forum:Discussions index archive|Discussions index archive]] pages.
+
+==Usage==
+<pre>
+{{DItable|
+{{DItablerow|<!-- table row parameters -->}}
+{{DItablerow|<!-- table row parameters -->}}
+{{DItablerow|<!-- table row parameters -->}}
+}}
+</pre>
+
+===Required parameters===
+#Any number of {{Tl|DItablerow}} elements to fill the table. Include each one on a new line.
+
+===Optional parameters===
+*{{Para|sortable}} A flag to make the table sortable if set to <code>1</code>.
+*{{Para|complete}} A flag to round the table's bottom corners if set to <code>1</code>.
+*{{Para|noauthor}} A flag to omit the "Created by" column if set to <code>1</code>. If set, the table rows should also omit this column's fields.
+
+==See also==
+*{{Tl|DItablefilter}}
+*{{Tl|DItablerow}}
+
+[[Category:Forum templates]]</noinclude>

@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=FantasyFlightGames
+|image=[[File:FantasyFlightGamesLogo.png|text-top|x16px|link=https://www.fantasyflightgames.com]]
+|site_text={{#ifeq:{{{subdomain|}}}|squadbuilder
+  |[[Fantasy Flight Games]]' [https://web.archive.org/web/20190413035049/https://squadbuilder.fantasyflightgames.com ''Star Wars: X-Wing'' Squad Builder website]
+  |{{#if:{{#pos:{{{url|}}}|/products/}}|[[Fantasy Flight Games]]' [https://www.fantasyflightgames.com/en/products official store]|[[Fantasy Flight Games]]' [https://www.fantasyflightgames.com official website]}}
+}}
+|base_url=https://{{{subdomain|www}}}.fantasyflightgames.com
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

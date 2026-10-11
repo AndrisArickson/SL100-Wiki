@@ -1,0 +1,13 @@
+<noinclude>
+<div id="old-forum-warning" class="boilerplate metadata" style="background-color: #F4F4F4; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+'''This page is an archive and is no longer live.''' It is preserved as a historic record.<hr />[[Category:Retired site features]]
+This template is obsolete and exists to ensure the integrity of historical edit revisions. Please see [[Wookieepedia:Featured article reviews]] for the current system.
+</noinclude>
+{{Iumb
+|id=FAcleanup
+|bg=#B0B0B0
+|image=[[File:Tremayne-DSSB.png|100px]]
+|caption=The procedure is, regrettably, quite painful. Wouldn't you rather fix the article now?
+|message=This [[:Category:Wookieepedia Featured articles|Featured article]] has been deemed sufficiently below FA standards by the [[Wookieepedia:Inquisitorius|Inquisitorius]] and will have its status removed if not up to standards by the next Inquisitorius meeting.
+|comment=Please see {{#ifexist:Wookieepedia:Inq/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|'''[[Wookieepedia:Inq/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|this article's entry]]'''|'''[{{fullurl:Wookieepedia:Inq/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|action=edit&preload=Template:FAcleanup_preload}} <font style="color: #BA1902">this article's entry</font>]'''}} on the [[Wookieepedia:Inquisitorius]] page for discussion of the matter. Do not remove this tag until voting is complete.
+}}{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||<includeonly>[[Category:Wookieepedia Featured articles under probation]]</includeonly>}}

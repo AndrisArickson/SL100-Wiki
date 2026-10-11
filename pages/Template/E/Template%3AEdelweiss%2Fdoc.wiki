@@ -1,0 +1,30 @@
+This template is to be used for citing individual pages on [https://www.edelweiss.plus/ Edelweiss+'s official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Edelweiss|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.edelweiss.plus/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Edelweiss|url=#sku=1484780817|text=Star Wars Guardians of the Whills|archiveurl=https://archive.vn/6szwF}}</nowiki></code>
+
+Results in:
+
+{{Edelweiss|url=#sku=1484780817|text=Star Wars Guardians of the Whills|archiveurl=https://archive.vn/6szwF}}
+
+<hr />
+<code><nowiki>{{Edelweiss|url=#sku=1484780817|text=Star Wars Guardians of the Whills||nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Edelweiss|url=#sku=1484780817|text=Star Wars Guardians of the Whills|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,23 @@
+<includeonly>{{#invoke:CardMiniDB|main|template=Armada|set={{{set}}}}}</includeonly><noinclude>
+
+This template is for use citing individual cards from [[Star Wars: Armada|''Star Wars'': Armada's]] expansion packs and campaign expansions.
+
+==Usage==
+Place the following code on the page and replace "SET NAME," "CARD NAME," and "URL" with the appropriate information. The URL should link to the card's page on the [[w:c:starwars-armada|Star Wars: Armada Wiki]].
+ <nowiki>{{</nowiki>Armada|set=SET NAME|cardname=CARD NAME|link=URL}}
+
+===Examples===
+<code><nowiki>{{Armada|set=Imperial Light Cruiser Expansion Pack|cardname=''Hand of Justice''|link=https://starwars-armada.fandom.com/wiki/Hand_of_Justice}}</nowiki></code>
+
+Results in:
+
+{{Armada|set=Imperial Light Cruiser Expansion Pack|cardname=''Hand of Justice''|link=https://starwars-armada.fandom.com/wiki/Hand_of_Justice}}
+
+<hr />
+<code><nowiki>{{Armada|set=Core Set|cardname=''Dominator''|link=https://starwars-armada.fandom.com/wiki/Dominator}}</nowiki></code>
+
+Results in:
+
+{{Armada|set=Core Set|cardname=''Dominator''|link=https://starwars-armada.fandom.com/wiki/Dominator}}
+
+[[Category:Miniature game citation templates]]</noinclude>

@@ -1,0 +1,25 @@
+[https://starwars.fandom.com/f/p/{{{1}}}{{#if:{{{reply|}}}|/r/{{{reply|}}}|}} {{#tag:nowiki|{{{2|post}}}}}]<noinclude>
+__NOTOC__
+==Usage==
+<code><nowiki>{{FP|</nowiki>{{var|post}}<nowiki>|</nowiki>{{var|text}}<nowiki>|reply=}}</nowiki></code>
+
+For linking a [[Wookieepedia:Discussions|Discussions]] forum post on a wiki page. For internally citing a thread, see {{Tlx|WookCite|<nowiki>forum=1</nowiki>}} instead.
+
+===Required parameter===
+#{{para| |{{var|post}}}} The thread ID number. This is the nineteen-digit numeric value found after "<code><nowiki>https://starwars.fandom.com/f/p/</nowiki></code>" in the thread URL. Do not include any other text.
+
+===Optional parameters===
+#<li value="2">{{para| |{{var|text}}}} The hyperlink display text, preferably the post title. This should always be specified; otherwise "post" is the default.</li>
+#{{para|reply}} The reply ID number. This is the nineteen-digit numeric value found after "<code><nowiki>https://starwars.fandom.com/f/p/</nowiki>{{var|post}}<nowiki>/r/</nowiki></code>" in the thread URL. Do not include any other text, and omit this parameter entirely unless linking to a specific reply in the thread.
+
+==Example(s)==
+===Posts===
+*<code><nowiki>{{FP|3343172654596280342}}</nowiki></code> will display a {{FP|3343172654596280342}}.
+*<code><nowiki>{{FP|3343172654596280342|Ask A Mod A Question}}</nowiki></code> will display {{FP|3343172654596280342|Ask A Mod A Question}}.
+
+===Replies===
+*<code><nowiki>{{FP|3343172654596280342|reply=3344233352136625925}}</nowiki></code> will display a {{FP|3343172654596280342|reply=3344233352136625925}}.
+*<code><nowiki>{{FP|3343172654596280342|a reply to Ask A Mod A Question|reply=3344233352136625925}}</nowiki></code> will display {{FP|3343172654596280342|a reply to Ask A Mod A Question|reply=3344233352136625925}}.
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Blog
+|image=[[File:StarWarsDotComBlogsLogoStacked.png|text-top|link=Star Wars: Blogs]]
+|site_text={{Blog/Names|{{{1}}}}}&#32;[[StarWars.com]] [[Star Wars: Blogs|Blog]]
+|base_url=https://blogs.starwars.com
+|target_url={{{1}}}{{#if:{{{listing|}}}||/{{{2}}}}}
+|text={{{3|Main Page}}}
+|use_lua_subpage=1
+|defunct_site=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

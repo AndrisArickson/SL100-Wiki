@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=D23YouTube
+|archive=YouTube
+|image=[[File:D23YouTubeLogo.png|text-top|x20px|link=https://www.youtube.com/@DisneyD23]]
+|site_text=the official [[Wikipedia:D23 (Disney)|Disney D23]] [https://www.youtube.com/@DisneyD23 YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

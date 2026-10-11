@@ -1,0 +1,10 @@
+<includeonly>{{#invoke:ToyCitation|main|template=BandaiCite
+|image=[[File:Bandai-Logo-Template.svg|text-bottom|x18px|link=Bandai]]
+|set={{{set}}}
+|stext={{{text|}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|url={{{url|}}}
+|baseUrl=https://shop.bandai.com
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

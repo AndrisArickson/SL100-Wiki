@@ -1,0 +1,42 @@
+==Description==
+This template is to be used for citing individual pages on [[De Agostini]]'s [https://www.planetadeagostini.es official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{DeAgostini|subdomain=|url=|lang=|text=|int=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.planetadeagostini.es/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+*{{Para|lang}} The top level domain that also denotes the language, for example <code>es</code> for <code>planetadeagostini.<u>es</u></code> or <code>com.mx</code> for <code>planetadeagostini.<u>com.mx</u></code>. Default is <code>es</code> if left blank.
+*{{Para|int}} Name of the Wookieepedia article corresponding to the De Agnosti article being cited.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{DeAgostini|url=miniaturas-figuras/bustos-star-wars|text=Star Wars Bust Collection|archivedate=20210430152237}}</nowiki></code>
+
+Results in:
+
+{{DeAgostini|url=miniaturas-figuras/bustos-star-wars|text=Star Wars Bust Collection|archivedate=20210430152237}}
+
+<hr />
+;Using {{Para|lang}}
+<code><nowiki>{{DeAgostini|url=culturales/enciclopedia-star-wars|lang=com.mx|text=Official Star Wars Encyclopedia|archivedate=20210430152237}}</nowiki></code>
+
+Results in:
+
+{{DeAgostini|url=culturales/enciclopedia-star-wars|lang=com.mx|text=Official Star Wars Encyclopedia|archivedate=20210430152237}}
+
+{{DeAgostini|old=1|lang=co.uk|url=starwarsbattlegames|text=Star Wars Battle Games|archivedate=20040923001901|nolive=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

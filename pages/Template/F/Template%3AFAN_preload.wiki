@@ -1,0 +1,16 @@
+==<includeonly>{{subst:NomPageTitle}}</includeonly>==
+*'''Nominated by''': <includeonly>~~</includeonly><noinclude>~~</noinclude>~~
+*'''Nomination comments''': 
+*'''WookieeProject (optional)''': 
+
+{{FANvotes|{{<includeonly>subst</includeonly>:FULLPAGENAME}}}}
+====Support votes====
+
+====Objections====
+
+====Comments====
+
+<!-- DO NOT WRITE BELOW THIS LINE! -->
+<{{<includeonly>subst:</includeonly>Noinclude}}><includeonly>{{SpecialCategorizer|[[Category:Wookieepedia Featured article nomination pages|{{SUBPAGENAME}}]][[Category:Nominations by User:{{Subst:REVISIONUSER}}|{{SUBPAGENAME}}]]}}</includeonly></{{<includeonly>subst:</includeonly>Noinclude}}><noinclude>
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Preloads|{{PAGENAME}}]]</noinclude>

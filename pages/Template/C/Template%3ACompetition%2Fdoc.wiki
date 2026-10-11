@@ -1,0 +1,50 @@
+{{Competition
+|prev=<code>previous</code>
+|conc=<code>concurrent</code>
+|next=<code>next</code>
+|image=[[File:VoxxVortex5000-TheVoxxVortex5000.png]]
+|name=<code>name</code>
+|type=<code>type</code>
+|date=<code>date</code>
+|place=<code>place</code>
+|outcome=<code>outcome</code>
+|competitors=<code>competitors</code>
+|organizers=<code>organizers</code>
+|hosts=<code>hosts</code>
+|league=<code>league</code>}}
+
+==Usage==
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>{{Competition
+|prev=
+|conc=
+|next=
+|image=
+|name=
+|type=
+|date=
+|place=
+|outcome=
+|competitors=
+|organizers=
+|hosts=
+|league=
+}}
+</nowiki></pre>
+
+==Data fields==
+*{{Para|prev}} Any relevant competitions that occurred previously
+*{{Para|conc}}  Any relevant competitions that occurred concurrently 
+*{{Para|next}}  Any relevant competitions that occurred next
+*{{Para|image}} logo of competition or picture of the competition taking place 
+*{{Para|name}} name
+*{{Para|type}} type of competition (e.g. beauty pageant, race, [[Limmie]] game, etc) 
+*{{Para|date}} date
+*{{Para|place}} location 
+*{{Para|outcome}} outcome
+*{{Para|competitors}} competitors; if there are teams, list only teams, not participants in each team 
+*{{Para|organizers}}  organizers (e.g. [[Vranki]] organized the [[Voxx Vortex 5000]])
+*{{Para|hosts}}  hosts (e.g. [[Fodesinbeed Annodue]] hosted the [[Boonta Eve Classic]])
+*{{Para|league}} league (e.g. the [[Galactic Cup of Limmie]])
+
+<noinclude>[[Category:Infobox template documentation]]</noinclude>

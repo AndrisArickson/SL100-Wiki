@@ -1,0 +1,16 @@
+{{BaseCitation/Interwiki
+|image=[[File:Aurebesh.png|text-top|x16px|link=w:c:aurebesh]]
+|wiki=w:c:aurebesh
+|wiki_name=Aurebesh Wiki
+|page={{{1|{{BASEPAGENAME}}}}}
+|text={{{2|{{BASEPAGENAME}}}}}
+|italics={{{italics|}}}
+|quotes={{{quotes|}}}
+}}<noinclude>
+
+==Usage==
+<code><nowiki>{{</nowiki>AurebeshWiki|''title'' (optional)}}</code>
+
+Replace "title" with the exact name of the article ''on the Aurebesh Wiki'', not the name here. If the name is the same on both wikis, it can be omitted. (Any "/Legends" in the Wookieepedia article name will be left off the Aurebesh Wiki link.) Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the Aurebesh Wiki link to change if our article is moved even if Aurebesh Wiki's article remains at the same name.
+
+[[Category:Interwiki link templates|{{PAGENAME}}]]</noinclude>

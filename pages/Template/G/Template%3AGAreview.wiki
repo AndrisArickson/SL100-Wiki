@@ -1,0 +1,28 @@
+<includeonly>{{#ifexist:Wookieepedia:Good article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|
+{{Iumb
+|id=GAreview
+|bg=#B0B0B0
+|image=[[File:R5BlownMotivator-Ep4HD.jpg|100px]]
+|caption=This R2 unit has a bad motivator!
+|message=It's been requested the [[Wookieepedia:AgriCorps|AgriCorps]] review this [[:Category:Wookieepedia Good articles|Good article]].
+|comment=Please consult '''[[Wookieepedia:Good article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|this article's review page]]''' to see the review process and address objections. Do not remove this tag until the article's review is complete.}}
+|
+{{Ooumb
+|id=GAreview
+|bg=#F2F5FD
+|image=[[File:Premium-FormerGAicon.svg|30px]]
+|caption=Warning: This Good article review is incomplete.
+|message=To finish starting the review process, please complete the following steps. Otherwise, this message will be removed.
+#[{{fullurl:Wookieepedia:Good article reviews/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}|action=edit&preload=Template:GAR_preload&editintro=Template:GAR_editintro}} <font style="color: #BA1902">Create the review page</font>] so that other users can review the article.
+#Copy <code><nowiki>{{</nowiki>/{{PAGENAME}}{{#if:{{{1|}}}|&#32;({{{1}}} review)|}}<nowiki>}}</nowiki></code> onto [{{fullurl:Wookieepedia:Good article reviews|action=edit&section=1}} the bottom of the GAR page]. This step is optional; if not done manually, {{U|JocastaBot}} will automatically do so within a few minutes.
+#[[Special:Purge/{{PAGENAME}}|Purge this page]] to update this template.
+}}}}[[Category:Wookieepedia Good articles under review]]</includeonly><noinclude>
+
+==Instructions==
+*<nowiki>{{GAreview}}</nowiki> is applied to articles by {{U|JocastaBot}} or an editor to start a review, and removed by Jocasta when a review is completed.
+
+==Categorization==
+*[[:Category:Wookieepedia Good articles under review]]
+
+[[Category:Wookieepedia AgriCorps templates|Review]]
+[[Category:Status article maintenance templates]]</noinclude>

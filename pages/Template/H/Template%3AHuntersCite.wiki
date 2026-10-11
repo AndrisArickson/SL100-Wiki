@@ -1,0 +1,8 @@
+<includeonly>[[File:StarWarsHunters-Logo.png|baseline|x12px|link=Star Wars: Hunters]]&#32;''[[Star Wars: Hunters]]''&#32;&mdash;&#32;{{#if: {{{quest|}}}
+ | Story: "{{{quest}}}"
+ | {{#if: {{{character|}}}
+  | {{#if: {{{costume|}}}
+   | {{HideParanthetical|{{{character}}}}}'s  {{HideParanthetical|{{{costume|}}}|{{{2|}}}}}
+  }}
+ }}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

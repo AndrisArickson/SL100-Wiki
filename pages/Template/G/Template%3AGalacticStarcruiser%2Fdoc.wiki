@@ -1,0 +1,23 @@
+==Usage==
+Place the following code on the page and replace the "attraction name" with the appropriate information.
+
+<code><nowiki>{{GalacticStarcruiser|''ATTRACTION NAME''|''FORMATTED NAME'' (optional)}}</nowiki></code>
+
+The {{Para|nolink}} parameter can be used to override the automatic linking of the input.
+
+==Example(s)==
+<code><nowiki>{{GalacticStarcruiser|Sublight Lounge}}</nowiki></code>
+
+Results in:
+
+{{GalacticStarcruiser|Sublight Lounge}}
+
+<code><nowiki>{{GalacticStarcruiser|Muster|nolink=1}}</nowiki></code>
+
+Results in:
+
+{{GalacticStarcruiser|Muster|nolink=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Theme park citation templates]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

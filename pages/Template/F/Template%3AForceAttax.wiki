@@ -1,0 +1,23 @@
+<includeonly><span class="pnh">[[File:ToppsLogo-Template.svg|text-top|x16px|link=Topps]]&#32;<span class="plainlinks">{{#if:{{{set|}}}
+   |{{#ifeq:{{{set|}}}|Star Wars Rebel Attax|[[Star Wars Rebel Attax|''Star Wars'' Rebel Attax]]|[[Star Wars Force Attax|''Star Wars'' Force Attax]] &mdash; {{#invoke:FormattedTextLookup|main|type=Cards|template=ForceAttax|target={{{set|}}}}}}}
+   |<span style="color: red"><small>{{Tl|Topps}} error: '''set''' parameter must be specified.</small></span>{{#ifeq:{{NAMESPACE}}|Template||{{SpecialCategorizer|[[Category:Template usages with missing parameters‎|{{PAGENAME}}]]|full=1}}}}
+}}</span></span><!--
+-->{{#if:{{{cardname|}}}
+  |&#32;<span class="plainlinks"><small class="cgct">Card: {{#if:{{{link|}}}
+    |[{{{link}}} {{{cardname}}}]
+    |{{{cardname}}}
+  }}</small>{{#if:{{{link|}}}
+    |{{ArchiveAccess
+      |template_name=Topps
+      |full_url={{{link|}}}
+      |target={{{link|}}}
+      |nobackup={{{nobackup|}}}
+      |archiveurl={{{archiveurl|}}}
+      |archivedate={{{archivedate|}}}
+      |archivefile={{{archivefile|}}}
+      |nolive={{{nolive|}}}
+      |use_lua_subpage=1
+      |par=1
+    }}</span>
+    |}}
+  |{{#ifeq:{{NAMESPACE}}||{{#if:{{{parent|}}}||&nbsp;<small>(<span style="color: red">'''no card name specified'''</span>)</small>[[Category:Card game citation template usages without cardname|ForceAttax-{{PAGENAME}}]]}}|}}}}{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Card or game citation template usages with unnamed parameters|{{PAGENAME}}]]|}}|simple=1}}</span></includeonly><noinclude>{{Documentation}}</noinclude>

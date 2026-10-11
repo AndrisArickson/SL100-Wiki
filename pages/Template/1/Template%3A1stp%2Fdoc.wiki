@@ -1,0 +1,15 @@
+==Usage==
+<pre>
+{{1stp}}
+</pre>
+{{1stp}}
+
+<pre>
+{{1stp|''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''}}
+</pre>
+
+{{1stp|''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''}}
+
+'''Please note that audiobooks with the same release date as the parent media should ''not'' be listed as simultaneous in this template and its siblings; instead, {{Tl|Ab}} should be used between the media link and this template to denote an audiobook.'''
+
+<includeonly>[[Category:First-notation appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

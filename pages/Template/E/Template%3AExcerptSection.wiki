@@ -1,0 +1,14 @@
+{{#if:{{{attrib|}}}{{{source|}}}|<tr style="background:#00000025;"><td class="infoboxcell" style="font-size:90%; border-bottom:1px solid #AAAAAA; text-align:left; widmalath:auto;">{{#if:{{{source|}}}|'''Source''': &#32;|}}{{{source|}}}</td><td class="infoboxcell" style="font-size:90%; border-bottom:1px solid #AAAAAA; text-align:left; width:auto;">{{#if:{{{attrib|}}}|'''Attribution''': &#32;|}}{{{attrib|}}}</td></tr>|}}<tr><td {{#if:{{{attrib|}}}{{{source|}}}|colspan="2"|}} style="background:transparent; color:{{{color|auto}}}; cursor:text; font-family:{{{font-family|sans-serif}}};">
+{{{1}}}
+</td></tr><noinclude> __NOEDITSECTION__ __NOTOC__
+{{clear}}
+===Field list===
+*source (Used to provide a link to the original source of the excerpt)
+*attrib (Used in conjunction with the source field to provide attribution)
+*color (defaults to black &ndash; #000000)
+*font-family (defaults to [[Wikipedia:Sans-serif|Sans-serif]])
+
+===Details===
+This template can be used to format items in a [[Template:Multiexcerpt|excerpt list]] when multiple sources are used. It cannot be used out side of the content section of that template.
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,34 @@
+{{Youmay|how to cite [[Databank (original)|original]] Databank|[[:Template:Databank]] for the [[Databank (website)|current]] Databank|linebreak=1}}
+
+==Usage instructions==
+#Find the correct article in the [[Databank (original)|Databank]].
+#Create a Sources section, if needed, and copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{DB|category=|subject=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+Note that care must be taken to avoid an incorrect link.
+
+Please note that as of [[September 13]], [[2011]], all Databank entries on [[StarWars.com]] are [https://web.archive.org/web/20140606232458/http://starwars.com/news/newstarwarscom.html obsolete] due to the official site's overhaul.
+
+===Required parameters===
+*{{Para|category}} Either characters, locations, technology, or groups. This can be found in the marked part of the following URL: <code><nowiki>http://starwars.com/databank/</nowiki><u>location</u>/tatooine</code> which would be <code><u>location</u></code> in this instance.
+*{{Para|subject}} The specific entry's part of the URL, which can be found at the end of the page's URL marked as follows: <code><nowiki>http://starwars.com/databank/location/</nowiki><u>tatooine</u></code> which would be <code><u>tatooine</u></code> in this instance.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#backup links|Backup links]] below.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{DB|location|tatooine|Tatooine|archivedate=20110524230620}}</nowiki></code>
+
+Results in:
+
+{{DB|location|tatooine|Tatooine|archivedate=20110524230620}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:StarWars.com citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

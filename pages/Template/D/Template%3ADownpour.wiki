@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Downpour
+|image=[[File:Downpour-Favicon.svg|text-top|x16px|Blackstone Audio, Inc.|link=https://www.downpour.com]]
+|site_text=[[Blackstone Audio|Downpour's]] [https://www.downpour.com official website]
+|base_url=https://{{{subdomain|www}}}.downpour.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

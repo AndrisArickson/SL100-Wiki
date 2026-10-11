@@ -1,0 +1,37 @@
+==Instructions==
+This template is to be used for citing individual pages on [[Wikipedia:Flickr|Flickr]].
+
+Most of the time, archive.org or any archive service won't be able to provide an archive. In this case, you must provide a screenshot.
+
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use. If used in the External links section, do not add an archive.
+
+===External links===
+<code><nowiki>{{Flickr|url=|text=}}</nowiki></code>
+
+====Required parameters====
+*{{para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.flickr.com/</nowiki></code>).
+*{{para|text}} Name of the page being cited.
+
+===References===
+<code><nowiki>{{Flickr|url=|text=|author=|date=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.flickr.com/</nowiki></code>).
+*{{para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+====Optional parameters====
+*{{Para|date}} Date the Flickr post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{para|author}} For crediting the author of a picture.
+
+==Example(s)==
+<code><nowiki>{{Flickr|url=photos/38942634@N00/405407291|text=Stan "The Man" Lee|author=Edward Liu|date=2007-02-28|archivedate=20220320152318}}</nowiki></code>
+
+Results it:
+
+{{Flickr|url=photos/38942634@N00/405407291|text=Stan "The Man" Lee|author=Edward Liu|date=2007-02-28|archivedate=20220320152318}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

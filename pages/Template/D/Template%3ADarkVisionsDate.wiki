@@ -1,0 +1,24 @@
+{{#switch:{{{1|}}}
+|#default|2|4|5=''[[Star Wars: Vader - Dark Visions]]'' takes place after the formation of the [[Alliance to Restore the Republic|Rebel Alliance]] but prior to the destruction of the [[DS-1 Orbital Battle Station|Death Star]], depicted in [[Vader - Dark Visions 3|''Vader - Dark Visions'' 3]]. ''[[Star Wars: Timelines]]'' dates the formation of the Rebel Alliance to [[2 BBY]], and ''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates the event that immediately preceding the [[Battle of Yavin]] to [[1 BBY]]. Therefore, ''Star Wars: Vader - Dark Visions'' must take place between 2 [['ABY-BBY' dating system|BBY]] and 1 BBY.
+|1=''[[Star Wars: Timelines]]'' dates the events of [[Vader - Dark Visions 1|''Vader - Dark Visions'' 1]] to between around [[2 BBY]] and [[1 BBY]].
+|3=[[Vader - Dark Visions 3|''Vader - Dark Visions'' 3]] takes place after the formation of the [[Alliance to Restore the Republic|Rebel Alliance]], depicted in the [[Vader - Dark Visions 2|previous]] and [[Vader - Dark Visions 4|following]] issues, but prior to the destruction of the [[DS-1 Orbital Battle Station|Death Star]], depicted in this issue. ''[[Star Wars: Timelines]]'' dates the formation of the Rebel Alliance to [[2 BBY]], and ''[[Star Wars: Galactic Atlas: Updated Edition]]'' dates the event that immediately preceding the [[Battle of Yavin]] to [[1 BBY]]. Therefore, ''Vader - Dark Visions'' 3 must take place between 2 [['ABY-BBY' dating system|BBY]] and 1 BBY.
+}}<noinclude>
+
+==Usage==
+{|class="wikitable sortable" {{Prettytable}}
+!Episode !! Template !! Date !! Result
+|-
+|''[[Star Wars: Vader - Dark Visions]]''||<nowiki>{{DarkVisionsDate}}</nowiki>||Between [[2 BBY]] and [[1 BBY]]||{{DarkVisionsDate}}
+|-
+|[[Vader - Dark Visions 1|''Vader - Dark Visions'' 1]]||<nowiki>{{DarkVisionsDate|1}}</nowiki>||Between [[2 BBY]] and [[1 BBY]]||{{DarkVisionsDate|1}}
+|-
+|[[Vader - Dark Visions 2|''Vader - Dark Visions'' 2]]||<nowiki>{{DarkVisionsDate|2}}</nowiki>||Between [[2 BBY]] and [[1 BBY]]||{{DarkVisionsDate|2}}
+|-
+|[[Vader - Dark Visions 3|''Vader - Dark Visions'' 3]]||<nowiki>{{DarkVisionsDate|3}}</nowiki>||Between [[2 BBY]] and [[1 BBY]]||{{DarkVisionsDate|3}}
+|-
+|[[Vader - Dark Visions 4|''Vader - Dark Visions'' 4]]||<nowiki>{{DarkVisionsDate|4}}</nowiki>||Between [[2 BBY]] and [[1 BBY]]||{{DarkVisionsDate|4}}
+|-
+|[[Vader - Dark Visions 5|''Vader - Dark Visions'' 5]]||<nowiki>{{DarkVisionsDate|5}}</nowiki>||Between [[2 BBY]] and [[1 BBY]]||{{DarkVisionsDate|5}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

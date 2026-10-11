@@ -1,0 +1,11 @@
+<onlyinclude>{{{{#switch:{{lc:{{{name|{{{icon|{{{1|credits}}}}}}}}}}}<!--
+	-->|credits icon|credit icon|credits|credit=CreditsIcon<!--
+	-->|imperialcommendationicon|imperial commendation icon|imperialcommendation|imperial commendation|imperialicon|imperial icon|imperial=ImperialCommendationIcon<!--
+	-->|rebelalliancehonoricon|rebelalliancehonor|rebelalliance|rebel alliance honor|rebel alliance honor icon|rebel alliance|rebel honor|rebelhonor|rebelhonoricon|alliance|rebel=RebelHonorIcon<!--
+	-->|noblecourt|noble court|noble court favor|noble favor icon|noble favor|noblefavoricon|noblefavor|noble=NobleFavorIcon<!--
+	-->|kouhun cipher chip|kouhun cipher|kouhuncipher|kouhun chip icon|kouhun chip|kouhunchipicon|kouhunchip|kouhun=KouhunChipIcon<!--
+	-->|syndicatetokenicon|syndicatetoken|syndicate token|syndicate|ivax|ivax syndicate=SyndicateTokenIcon<!--
+	-->|trade spine|trade spine league|unionmarkicon|union mark icon|union|unionmark|union mark<!--
+	-->|#default=UnionMarkIcon<!--
+-->}}|top={{{top|}}}|left={{{left|}}}|title={{{title|1}}}|level={{{level|}}}|color={{{color|}}}|type={{{type|}}}|size={{{size|sm}}}|link={{{link|}}}}}</onlyinclude>
+[[Category:Star Wars Uprising icons]]

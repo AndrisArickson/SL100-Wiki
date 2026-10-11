@@ -1,0 +1,28 @@
+This template is to be used for citing individual videos on the official [[Disney+]] [https://www.youtube.com/c/disneyplus YouTube channel].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{DisneyPlusYouTube|video=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|video}} Use the alphanumeric part of the url that comes after "<code>watch?v=</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the video.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|date}} Date the Youtube video was published online. In the format <code>YYYY-MM-DD</code>.
+
+===Backup links===
+{{BackupLinkHelp|YouTube}}
+
+==Example(s)==
+<code><nowiki>{{DisneyPlusYouTube|video=dAmy0CzKwB0|text=10 Surprising Star Wars Cameos You Didn't Even Notice &#124; Disney+|date=2021-07-24|archivedate=20210824202802}}</nowiki></code>
+
+Results in:
+
+{{DisneyPlusYouTube|video=dAmy0CzKwB0|text=10 Surprising Star Wars Cameos You Didn't Even Notice &#124; Disney+|date=2021-07-24|archivedate=20210824202802}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:YouTube citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

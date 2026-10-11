@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Hachette
+|image=[[File:Hachette-Favicon.svg|text-top|x16px|link=https://www.hachette.fr]]
+|site_text=[[Hachette Jeunesse]]'s [https://www.hachette.{{{domain|fr}}} official website]
+|base_url=https://www.hachette.{{{domain|fr}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

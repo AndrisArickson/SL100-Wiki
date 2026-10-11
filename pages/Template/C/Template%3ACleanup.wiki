@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Cleanup
+| bg = #FEC
+| image = [[File:Han1 edited.jpg|130px]]
+| caption = Sorry about the mess.
+| message = This article or section needs to be '''[[Wikipedia:Wikipedia:Cleanup process|cleaned up]]''' to conform to a higher standard of article quality.{{#if:{{{1|}}}|<br />This article has been tagged because: '''{{{1}}}'''.|}}
+| comment = Please follow the article standards laid out in the [[Wookieepedia:Layout Guide|Layout Guide]] and the [[Wookieepedia:Manual of Style|Manual of Style]] and complete this article to the highest level of quality. Remove this message when finished.
+| reason = The following issues need cleanup
+| category = Category:Articles in need of cleanup
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles in need of cleanup|{{PAGENAME}}]]|simple=1}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+==Usage==
+<nowiki>{{Cleanup|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Articles in need of cleanup]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,36 @@
+<!--This template is designed specifically for events that are part of the early rebellion against the Empire meaning battles between the Galactic Empire and the rebel cells that became the Rebel Alliance, NOT for every single event that occurs during the time of the conflict. Any questions regarding this criteria, or a specific event's eligibility for the template, should be brought up on the talk page.-->
+{{ConflictNavWrapper
+|[[Early rebellion against the Galactic Empire]]
+|source=EarlyRebellionNav
+|prev=[[Clone Wars]]
+|conc=<br />[[Great Jedi Purge]]<br />[[Ryloth Insurgency]]<br />[[Campaigns of Saw Gerrera's Partisans]]
+|next=[[Galactic Civil War]]
+|heading='''Battles of the early rebellion against the [[Galactic Empire]]'''
+|body=
+{{ConflictNavRow
+|unbold=yes
+|'''[[19 BBY]]'''
+|[[Onderon insurgency]] {{C|[[Mission to Onderon (Clone Force 99)|Onderon (I)]] · [[Mission to Onderon (Elite Squad)|Onderon (II)]]}}
+}}
+{{ConflictNavRow
+|unbold=yes
+|'''[[18 BBY]]'''
+|[[Invasion of Mon Cala]] {{C|[[Battle of Dac City|Dac City]] · [[Attack on Bergon's sky-base|Bergon's sky-base]]<br />[[Defense of the southern polar regions|Polar regions]] · [[Skirmish in Bel City|Bel City]]}} · [[Raada Uprising|Raada]]
+}}
+{{ConflictNavRow
+|unbold=yes
+|'''[[5 BBY]]'''
+|[[Aldhani heist|Aldhani]] · [[Skirmish above Segra Milo|Segra Milo]] · [[Spellhaus attack|Spellhaus]] · [[Ferrix occupation]]<br />[[Hunt for Cassian Andor]] {{C|[[Ferrix Riot|Ferrix]]}}<br />[[Raiding missions on Imperial supply ships|Ryloth-Christophsis-Kashyyyk-Toydaria-Lothal]]<br />[[Attack on Imperial interrogator droids|Imperial center (Lothal)]] · [[Attack on the Ghost|Outer Rim]] · [[Attack on a Lothal airfield|Lothal airfield]]<br />[[Skirmish over Lothal|Lothal plains]] · [[Mission in Capital City|Capital City]] · [[Mission to free Wookiee prisoners|Kessel]]<br />[[Mission to steal Imperial weapons|Garel City Spaceport/Vizago's camp]]<br />[[Attack on Imperial Troop Transports|Kothal]] · [[Duel on Stygeon Prime|Stygeon Prime]] · [[Mission to destroy a kyber crystal|Imperial Academy (Lothal)]]<br /> [[Attack on an Imperial convoy|Imperial convoy (Lothal)]] · [[Armed rebellion in the Atrivis sector|Atrivis sector]] {{C|[[Battle on Mantooine|Mantooine]]}}
+}}
+{{ConflictNavRow
+|unbold=yes
+|'''[[4 BBY]]'''
+|[[Mission to Kaller|Kaller]] · [[Rescue of Morfizo|Lahn]] · [[Bombing at the Empire Day parade|Lothal (I)]] · [[Rescue of Tseebo|Lothal (II)]] · [[Trap in the Old Republic Senate Building|Old Republic Senate Building]]<br />[[Raid near Jalath|Jalath]] · [[Raid on the communications tower|Imperial Communications Center]]
+}}
+{{ConflictNavRow
+|unbold=no
+|Other
+|5 BBY - 4 BBY ([[Mission to steal Imperial research crates|Kessel Bunker]]) · [[Mission to Fekunda Outpost|Fekunda Outpost]]}}
+|related=[[Axis network]] · [[Galactic Empire]] · [[Ghorman Debates]] · [[Ghorman Front]] · [[Jedi]]<br />[[Massassi Group]] · [[Neo-Republican]] · [[Neo-Separatist Coalition]] · [[Partisans]]<br />[[Alliance to Restore the Republic|Rebel Alliance]] · [[Phoenix Cell]] · [[Sectorists]] · [[Sith]] · [[Spectres]]}}
+<!-- TEMPLATE ENDS HERE. --><noinclude>
+[[Category:Conflict navbox templates|{{PAGENAME}}]]</noinclude>

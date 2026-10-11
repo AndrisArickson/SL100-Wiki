@@ -1,0 +1,9 @@
+<div class="spoiler metadata headerbackground">'''This section of the article assumes 100% game completion and that the player chooses only "[[Dark side of the Force/Legends|dark side]]" options when available during the course of {{#if:{{{1|}}}|''[[{{{1|}}}]]''|the game}}. Alternate stories are noted in the "[[#Behind the scenes|Behind the scenes]]" section. Note: The events in this section may or may not have been confirmed as [[canon]] {{#if:{{{canon|}}}||within the [[Star Wars Legends|''Star Wars'' Legends]] continuity}}.'''</div><includeonly>[[Category:Articles with gameplay alternatives]]</includeonly><noinclude>
+
+==Description==
+To be placed before sections of articles that describe the "dark side" choices occurring during optional content in a game. Description of dark side choices occurring during the main questline of a game should instead use {{Tl|GameDS}}.
+
+==Usage==
+Use the format <code><nowiki>{{GameDSmechanics|</nowiki>{{Var|Name of game}}}}</code> for a specific game. The {{Para|canon|1}} parameter should be used for [[Canon]] articles. Close assumption sections with {{Tl|Endgame}}.
+
+[[Category:Advisory templates|{{PAGENAME}}]]</noinclude>

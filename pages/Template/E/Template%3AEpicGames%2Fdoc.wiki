@@ -1,0 +1,32 @@
+This template is to be used for citing individual pages on [[Epic Games]]' [https://www.epicgames.com official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{EpicGames|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.epicgames.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Optional parameters===
+*{{para|subdomain}} For instances where a subdomain is needed other than <code>www</code>, for example the <code>communities</code> part of <code>https://communities.epicgames.com</code>.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{EpicGames|url=fortnite/en-US/news/the-force-is-strong-with-fortnite|text=The Force Is Strong With Fortnite|archivedate=20200907082609}}</nowiki></code>
+
+Results in:
+
+{{EpicGames|url=fortnite/en-US/news/the-force-is-strong-with-fortnite|text=The Force Is Strong With Fortnite|archivedate=20200907082609}}
+
+<hr/>
+<code><nowiki>{{EpicGames|subdomain=communities|url=thread/mister-bones-arrives-in-droid-tycoon/fE9U|text=MISTER BONES ARRIVES IN DROID TYCOON!|archiveurl=https://megalodon.jp/2026-0601-1658-51/https://communities.epicgames.com:443/thread/mister-bones-arrives-in-droid-tycoon/fE9U}}</nowiki></code>
+
+Results in:
+
+{{EpicGames|subdomain=communities|url=thread/mister-bones-arrives-in-droid-tycoon/fE9U|text=MISTER BONES ARRIVES IN DROID TYCOON!|archiveurl=https://megalodon.jp/2026-0601-1658-51/https://communities.epicgames.com:443/thread/mister-bones-arrives-in-droid-tycoon/fE9U}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

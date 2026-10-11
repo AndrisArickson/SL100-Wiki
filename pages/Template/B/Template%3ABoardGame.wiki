@@ -1,0 +1,42 @@
+<infobox theme="Board-game">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+        <data source="developer"><label>Developer(s)</label></data>
+        <data source="designer"><label>Designer(s)</label></data>
+        <data source="players"><label>Number of players</label></data>	
+        <data source="setup"><label>Setup time</label></data>   
+        <data source="playingtime"><label>Playing time</label></data>
+        <data source="skills"><label>Skills required</label></data>	  	
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="object"><label>Objective</label></data>
+        <data source="ages"><label>Ages of players</label></data>	
+        <data source="release date"><label>Release date</label></data>
+        <data source="upc"><label>[[Wikipedia:Universal Product Code|UPC]]</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:BoardGame|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|developer|designer|players|setup|playingtime|skills|object|ages|release date|upc|optional=timeline,no_year_check,is_appearance|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_timeline=1|no_year_check={{{no_year_check|}}}|template_name=BoardGame}}<!--
+-->{{#if:{{{is_appearance|}}}|{{AppMediaCat}}|}}<noinclude>[[category:Game infoboxes]]{{clear}}
+
+==Usage==
+<pre>
+{{BoardGame
+|image=
+|title=
+|developer=
+|designer=
+|players=
+|setup=
+|playingtime=
+|skills=
+|timeline=
+|object=
+|ages=
+|release date=
+|upc=
+}}
+</pre></noinclude>

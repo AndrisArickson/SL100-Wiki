@@ -1,0 +1,21 @@
+This template is to be used for [[Wookieepedia:Sourcing|citing]] exhibitions displays from museum, conventions, etc., and requires the support of an image file, which in turn must be added to one of the pages under [[Wookieepedia:Database]], such as [[Wookieepedia:Database/Exhibits]] or a page dedicated to a specific convention.
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note.
+
+<code><nowiki>{{VisualMediaCite|title=|location=|file=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|title}} Title of the display being cited.
+*{{Para|location}} Name of the location where the display was exposed. Provide wikilinks as needed.
+*{{Para|file}} Full filename of the image of the display.
+
+===Examples===
+<code><nowiki>{{ExhibitCite|title=T-70 X-Wing Starfighter - Screen-Used Vehicle|location=[[Wikipedia:National Air and Space Museum|National Air and Space Museum]]|file=File:T-70XWing-Exhibition1.jpg}}</nowiki></code>
+
+'''Results in''':<br />
+{{ExhibitCite|title=T-70 X-Wing Starfighter - Screen-Used Vehicle|location=[[Wikipedia:National Air and Space Museum|National Air and Space Museum]]|file=File:T-70XWing-Exhibition1.jpg}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:External media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

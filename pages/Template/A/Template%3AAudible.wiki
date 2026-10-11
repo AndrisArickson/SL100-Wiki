@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Audible
+|image=[[File:Audible-Icon.svg|text-top|x18px|link=https://{{{subdomain|www}}}.audible.{{{domain|com}}}]]
+|site_text=[[wikipedia:Audible (service)|Audible.com]]
+|base_url=https://{{{subdomain|www}}}.audible.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

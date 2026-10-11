@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Disney
+|image=[[File:Disney_favicon.png|text-top|x16px|Disney.com|link=https://{{{subdomain|www}}}.disney.{{{domain|com}}}]]
+|site_text={{#ifeq:{{{subdomain|}}}.disney.{{{domain|}}}|starwars.disney.co.jp|the [[Wikipedia:Japanese language|Japanese]] [[StarWars.com]]|{{#ifeq:{{{subdomain|}}}|books|[[Wikipedia:Disney Publishing Worldwide|Disney Publishing Worldwide]]|[[The Walt Disney Company|Disney]]}}'s [https://{{{subdomain|www}}}.disney.{{{domain|com}}} official website]}}
+|base_url=https://{{{subdomain|www}}}.disney.{{{domain|com}}}
+|target_url={{{url|}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+}}<!--{{#ifeq:{{{subdomain|}}}.disney.{{{domain|}}}|starwars.disney.co.jp|[[Category:WebCite usages instead of proper citation templates]]|}}--></includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,20 @@
+{{MediumMB
+|border=#BB7C77
+|bg=#FFF7F7
+|image=[[File:Copyright-red.svg|50px]]
+|message=This image is one or more '''[[wikipedia:Panel (comics)|comic panel(s)]] from the interior of a [[Star Wars comic books|comic book]] issue''' or [[wikipedia:Trade paperback (comics)|'''trade paperback (TPB)''']]. It is believed that comic panels may be exhibited on [[Wookieepedia]] under the '''[[wikipedia:Fair use|fair use]] [https://www.copyright.gov/title17/92chap1.html#107 provision]''' of [[wikipedia:Copyright law of the United States|'''United States copyright law''']]. '''Refer to [[Wookieepedia:Copyrights]] for more information'''.
+}}<includeonly>{{SpecialCategorizer|{{#ifeq:{{{1|}}}|concept|[[Category:Comic concept art|{{PAGENAME}}]]|[[Category:Comics single panels|{{PAGENAME}}]]}}}}</includeonly><noinclude>
+
+==Usage==
+Within the {{Tl|Information}} template on a comic panel's file page, apply <code><nowiki>{{Comicpanel}}</nowiki></code> as follows. Use <code><nowiki>{{Comicpanel|concept}}</nowiki></code> to denote comic concept art instead.
+<pre>|licensing={{Comicpanel}}</pre>
+
+==Categorization==
+*[[:Category:Comics single panels]] {{C|default}}
+*[[:Category:Comic concept art]]
+
+==See also==
+*[[Template:Comiccover]]
+*[[Wookieepedia:Templates/File namespace]]
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

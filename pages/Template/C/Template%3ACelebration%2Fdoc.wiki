@@ -1,0 +1,30 @@
+==Instructions==
+This template is to be used for citing individual pages on ''[[Star Wars]]'' [[Celebration]] [https://www.starwarscelebration.com official website].
+
+Please note that the website is remade for each Celebration, so you need to identify which one is concerned with {{para|celebration}}.
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{Celebration|url=|text=|celebration=|archivedate=|archiveurl=|nobackup=1}}</nowiki></code>
+
+====Required parameters====
+*{{para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.disneyplus.com/</nowiki></code>).
+*{{para|text}} Name of the page being cited.
+*{{para|celebration}} Name of the event, can be wikilinked.
+*'''backup link''', using one of the available methods:
+**{{para|archiveurl}} For linking full addresses of alternative archival sites, such as archive.today.
+**{{para|archivedate}} The Internet Archive's timestamp of the page.
+**{{para|nobackup}} If a permanent archival link for the URL is not available, input <code>1</code> here (for example, <code>nobackup=1</code>) 
+
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Celebration|url=en-us/panels.html|text=Panels|celebration=[[Celebration Anaheim (2022)|Celebration Anaheim]]|archivedate=20220512195429}}</nowiki></code>
+
+Results in:
+
+{{Celebration|url=en-us/panels.html|text=Panels|celebration=[[Celebration Anaheim (2022)|Celebration Anaheim]]|archivedate=20220512195429}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

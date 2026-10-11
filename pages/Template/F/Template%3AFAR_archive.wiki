@@ -1,0 +1,16 @@
+<div id="old-forum-warning" class="boilerplate metadata rfa" style="padding:0 10px; border:1px solid #AAA; margin:2em 0 0; background-color:#F4F4F4">
+:''The following discussion is preserved as an archive of a [[Wookieepedia:Featured articles|Featured article]] that '''{{{1|passed}}} [[Wookieepedia:Featured article reviews|review]]'''. <span style="color:red">'''Please do not modify it.'''</span>''<includeonly>{{SpecialCategorizer|[[Category:Wookieepedia Featured article review pages archive|{{SUBPAGENAME}}]]}}</includeonly><noinclude></div>
+
+==Usage==
+This template should be placed at the top of the actual [[Wookieepedia:Featured article reviews|Featured article review]] page to be archived. To use this template, copy and paste one of the following:
+*<code><nowiki>{{subst:FAR archive|passed}}</nowiki></code> or <code><nowiki>{{subst:FAR archive}}</nowiki></code> for successful reviews, or
+*<code><nowiki>{{subst:FAR archive|failed}}</nowiki></code> for unsuccessful reviews.
+
+Finally, add a <code><nowiki></div></nowiki></code> tag at the very end of the page.
+
+==Categorization==
+*[[:Category:Wookieepedia Featured article review pages archive]]
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Wookieepedia Inquisitorius templates]]
+[[Category:Status article archive templates]]</noinclude>

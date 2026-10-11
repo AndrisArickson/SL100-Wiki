@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:ToyCitation|main|template=Galoob
+|image=[[File:Galoob-Template.svg|text-top|x16px|link=Galoob]]
+|set={{{set}}}
+|stext={{{text|}}}
+|packtype={{{packtype|}}}
+|pack={{{pack|}}}
+|link=
+|url={{{altlink|https://www.rebelscum.com/{{{link|}}}}}}
+|baseUrl=https://www.rebelscum.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

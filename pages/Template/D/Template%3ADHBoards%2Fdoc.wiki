@@ -1,0 +1,43 @@
+This template is to be used for citing individual pages on the [[Dark Horse Comics|Dark Horse]] [http://boards.darkhorse.com/index.php Message Boards] (now [https://web.archive.org/web/20171030025342/https://digital.darkhorse.com/boards defunct]).
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{DHBoards|subdomain=|url=|thread=|user=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>http://boards.darkhorse.com/</nowiki></code>).
+*{{Para|thread}} Name of the thread being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL. If left blank, will default to <code>boards</code>.
+*{{Para|user}} Name of the user who posted the relevant message.
+*{{Para|PTtime}} Wikilinked date and the [[Wikipedia:Pacific Time Zone|Pacific Time Zone]] timestamp for when the relevant message was posted, for example, <code><nowiki>[[June 11]], [[2005]], 17:53</nowiki></code>
+*{{Para|quote}} Relevant quote from the cited thread.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+;For urls starting with '''<nowiki>http://boards.darkhorse.com/</nowiki>'''
+<code><nowiki>{{DHBoards|url=viewtopic.php?p=105403|thread=Tales KOTOR story Jedi?|user=[[Joshua Ortega]]|date=2005-06-11|time=17:53|quote=Completely new Jedi in the story are Master Aleco Stusea (head of the Council on Dantooine), Bala Nisi (human female), Qual (a Selkath), and Cale Berkona (the Jedi in the terentatek's grip at the start).}}</nowiki></code>
+
+Results in:
+
+{{DHBoards|url=viewtopic.php?p=105403|thread=Tales KOTOR story Jedi?|user=[[Joshua Ortega]]|date=2005-06-11|time=17:53|quote=Completely new Jedi in the story are Master Aleco Stusea (head of the Council on Dantooine), Bala Nisi (human female), Qual (a Selkath), and Cale Berkona (the Jedi in the terentatek's grip at the start).}}
+
+<hr />
+;For urls starting with '''<nowiki>http://www.darkhorse.com/boards/</nowiki>'''
+<code><nowiki>{{DHBoards|subdomain=www|url=boards/viewtopic.php?t=7257&postdays=0&postorder=asc&start=15|thread=Shouldn't there be a Wookiee Jedi?|user=[[Randy Stradley]]|date=2005-05-08|time=14:37|archivedate=20071102214805}}</nowiki></code>
+
+Results in:
+
+{{DHBoards|subdomain=www|url=boards/viewtopic.php?t=7257&postdays=0&postorder=asc&start=15|thread=Shouldn't there be a Wookiee Jedi?|user=[[Randy Stradley]]|date=2005-05-08|time=14:37|archivedate=20071102214805}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DHBoards
+|image=[[File:Dhlogo.png|text-top|x16px|link=http://boards.darkhorse.com/index.php]]
+|site_text=[[Dark Horse Comics|Dark Horse]] [http://boards.darkhorse.com/index.php Message Boards]
+|base_url=http://{{{subdomain|boards}}}.darkhorse.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+|text={{{thread|}}}
+|author={{{user|}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

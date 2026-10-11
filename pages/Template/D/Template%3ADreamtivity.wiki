@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Dreamtivity
+|image=[[File:Dreamtivity.jpg|text-top|x16px|link=https://www.dreamtivity.net]]
+|site_text=[[Dreamtivity]]'s [https://www.dreamtivity.net official website]
+|base_url=https://{{{subdomain|www}}}.dreamtivity.{{{domain|net}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

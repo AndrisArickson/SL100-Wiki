@@ -1,0 +1,6 @@
+The events of {{#ifeq:{{PAGENAME}}|The Acolyte: The Crystal Crown|''The Acolyte: The Crystal Crown''|''[[The Acolyte: The Crystal Crown]]''}} take place in [[134 BBY]] per the following reasoning. ''The Acolyte: The Crystal Crown'' establishes that [[Jecki Lon]] is the [[Padawan]] of [[Sol]] and [[Yord Fandar]] has yet to undertake his [[Jedi Trials]]. The novel also states that Lon has been Sol's Padawan for at least two [[Standard year|years]], as well as that Sol had not taken a Padawan for years after his former Padawan, [[Verosha Aniseya]], left the [[Jedi Order]]. From this, at least four years have passed since Aniseya left the Order. "[[Lost / Found]]"&mdash;the events of which take place in [[132 BBY]] per the reasoning [[Template:TheAcolyteDate|here]]&mdash;establishes Aniseya left the Order six [[Standard year|years]] before its events, equating to [[138 BBY]]. The episode further states Fandar passed his Jedi Trials two years before its events, meaning he must have passed his Trials in 134 [['ABY-BBY' dating system|BBY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{CrystalCrownDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

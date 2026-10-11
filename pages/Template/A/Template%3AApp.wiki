@@ -1,0 +1,236 @@
+<includeonly>{{#vardefine:display|color:gray; font-style:italic;}}<div class="hidable start-hidden" style="text-align:center">
+{| style="width:50%"
+'''By type'''&#32;<span class="hidable-button"></span>
+{| id="appearancesTOC" style="padding:5px; border:1px solid #AAAAAA; -moz-border-radius:6px; margin:0 auto 4px auto"
+| style="padding:0 1em;{{#if:{{{characters|}}}{{{dramatis personae|}}}{{{other characters|}}}{{{c-characters|}}}{{{l-characters|}}}||{{#var:display}}}}" | {{#if:{{{characters|}}}{{{dramatis personae|}}}{{{other characters|}}}{{{c-characters|}}}{{{l-characters|}}}|[[#app_characters|Characters]]|Characters}}
+| style="padding:0 1em;{{#if:{{{organisms|}}}{{{c-organisms|}}}{{{l-organisms|}}}||{{#var:display}}}}" | {{#if:{{{organisms|}}}{{{c-organisms|}}}{{{l-organisms|}}}|[[#app_organisms|Organisms]]|Organisms}}
+| style="padding:0 1em;{{#if:{{{droids|}}}{{{c-droids|}}}{{{l-droids|}}}||{{#var:display}}}}" | {{#if:{{{droids|}}}{{{c-droids|}}}{{{l-droids|}}}|[[#app_droids|Droid models]]|Droid models}}
+| style="padding:0 1em;{{#if:{{{events|}}}{{{c-events|}}}{{{l-events|}}}||{{#var:display}}}}" | {{#if:{{{events|}}}{{{c-events|}}}{{{l-events|}}}|[[#app_events|Events]]|Events}}
+| style="padding:0 1em;{{#if:{{{locations|}}}{{{c-locations|}}}{{{l-locations|}}}||{{#var:display}}}}" | {{#if:{{{locations|}}}{{{c-locations|}}}{{{l-locations|}}}|[[#app_locations|Locations]]|Locations}}
+|-
+| style="padding:0 1em;{{#if:{{{organizations|}}}{{{c-organizations|}}}{{{l-organizations|}}}||{{#var:display}}}}" | {{#if:{{{organizations|}}}{{{c-organizations|}}}{{{l-organizations|}}}|[[#app_organizations|Organizations and titles]]|Organizations and titles}}
+| style="padding:0 1em;{{#if:{{{species|}}}{{{c-species|}}}{{{l-species|}}}||{{#var:display}}}}" | {{#if:{{{species|}}}{{{c-species|}}}{{{l-species|}}}|[[#app_species|Sentient species]]|Sentient species}}
+| style="padding:0 1em;{{#if:{{{vehicles|}}}{{{c-vehicles|}}}{{{l-vehicles|}}}||{{#var:display}}}}" | {{#if:{{{vehicles|}}}{{{c-vehicles|}}}{{{l-vehicles|}}}|[[#app_vehicles|Vehicles and vessels]]|Vehicles and vessels}}
+| style="padding:0 1em;{{#if:{{{technology|}}}{{{c-technology|}}}{{{l-technology|}}}||{{#var:display}}}}" | {{#if:{{{technology|}}}{{{c-technology|}}}{{{l-technology|}}}|[[#app_technology|Weapons and technology]]|Weapons and technology}}
+| style="padding:0 1em;{{#if:{{{miscellanea|}}}{{{c-miscellanea|}}}{{{l-miscellanea|}}}||{{#var:display}}}}" | {{#if:{{{miscellanea|}}}{{{c-miscellanea|}}}{{{l-miscellanea|}}}|[[#app_miscellanea|Miscellanea]]|Miscellanea}}
+|}
+|}
+<div class="hidable-content" style="clear:both; text-align:left">
+{| id="appearancesSection" style="width:100%" |
+{{#if:{{{characters|}}}{{{dramatis personae|}}}{{{other characters|}}}{{{c-characters|}}}{{{l-characters|}}}|
+<p name="app_characters" id="app_characters" style="font-weight:bold; font-size:larger">Characters</p>
+|}}{{#if:{{{characters|}}}|{{#if:{{{dramatis personae|}}}{{{other characters|}}}{{{c-characters|}}}{{{l-characters|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|characters=</nowiki></code> field if you use <code><nowiki>|dramatis personae=</nowiki></code>, <code><nowiki>|other characters=</nowiki></code>, <code><nowiki>|c-characters</nowiki></code> or <code><nowiki>|l-characters</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{characters|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{characters|}}}
+{{!}}}
+|{{#if:{{{c-characters|}}}{{{l-characters|}}}|
+{{#if:{{{c-characters|}}}|
+<p name="app_canon_characters" id="app_canon_characters" style="font-weight:bold">Canon characters</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-characters|}}}
+{{!}}}
+|}}{{#if:{{{l-characters|}}}|
+<p name="app_legends_characters" id="app_legends_characters" style="font-weight:bold">Legends characters</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-characters|}}}
+{{!}}}
+|}}|{{#if:{{{dramatis personae|}}}|
+<p name="app_dramatis_personae" id="app_dramatis_personae" style="font-weight:bold">Dramatis personae</p>
+{{{!}} class="appearances"
+{{!}}
+{{{dramatis personae|}}}
+{{!}}}
+|}}
+{{#if:{{{other characters|}}}|
+<p name="app_other_characters" id="app_other_characters" style="font-weight:bold">Other characters</p>
+{{{!}} class="appearances"
+{{!}}
+{{{other characters|}}}
+{{!}}}
+|}}}}}}{{#if:{{{organisms|}}}{{{c-organisms|}}}{{{l-organisms|}}}|
+<p name="app_organisms" id="app_organisms" style="font-weight:bold; font-size:larger">Organisms</p>
+|}}{{#if:{{{organisms|}}}|{{#if:{{{c-organisms|}}}{{{l-organisms|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|organisms=</nowiki></code> field if you use <code><nowiki>|c-organisms=</nowiki></code> or <code><nowiki>|l-organisms=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{organisms|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{organisms|}}}
+{{!}}}
+|{{#if:{{{c-organisms|}}}|
+<p name="app_canon_organisms" id="app_canon_organisms" style="font-weight:bold">Canon organisms</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-organisms|}}}
+{{!}}}
+|}}{{#if:{{{l-organisms|}}}|
+<p name="app_legends_organisms" id="app_legends_organisms" style="font-weight:bold">Legends organisms</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-organisms|}}}
+{{!}}}
+|}}}}{{#if:{{{droids|}}}{{{c-droids|}}}{{{l-droids|}}}|
+<p name="app_droids" id="app_droids" style="font-weight:bold; font-size:larger">Droid models</p>
+|}}{{#if:{{{droids|}}}|{{#if:{{{c-droids|}}}{{{l-droids|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|droids=</nowiki></code> field if you use <code><nowiki>|c-droids=</nowiki></code> or <code><nowiki>|l-droids=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{droids|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{droids|}}}
+{{!}}}
+|{{#if:{{{c-droids|}}}|
+<p name="app_canon_droids" id="app_canon_droids" style="font-weight:bold">Canon droids</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-droids|}}}
+{{!}}}
+|}}{{#if:{{{l-droids|}}}|
+<p name="app_legends_droids" id="app_legends_droids" style="font-weight:bold">Legends droids</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-droids|}}}
+{{!}}}
+|}}}}{{#if:{{{events|}}}{{{c-events|}}}{{{l-events|}}}|
+<p name="app_events" id="app_events" style="font-weight:bold; font-size:larger">Events</p>
+|}}{{#if:{{{events|}}}|{{#if:{{{c-events|}}}{{{l-events|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|events=</nowiki></code> field if you use <code><nowiki>|c-events=</nowiki></code> or <code><nowiki>|l-events=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{events|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{events|}}}
+{{!}}}
+|{{#if:{{{c-events|}}}|
+<p name="app_canon_events" id="app_canon_events" style="font-weight:bold">Canon events</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-events|}}}
+{{!}}}
+|}}{{#if:{{{l-events|}}}|
+<p name="app_legends_events" id="app_legends_events" style="font-weight:bold">Legends events</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-events|}}}
+{{!}}}
+|}}}}{{#if:{{{locations|}}}{{{c-locations|}}}{{{l-locations|}}}|
+<p name="app_locations" id="app_locations" style="font-weight:bold; font-size:larger">Locations</p>
+|}}{{#if:{{{locations|}}}|{{#if:{{{c-locations|}}}{{{l-locations|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|locations=</nowiki></code> field if you use <code><nowiki>|c-locations=</nowiki></code> or <code><nowiki>|l-locations=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{locations|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{locations|}}}
+{{!}}}
+|{{#if:{{{c-locations|}}}|
+<p name="app_canon_locations" id="app_canon_locations" style="font-weight:bold">Canon locations</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-locations|}}}
+{{!}}}
+|}}{{#if:{{{l-locations|}}}|
+<p name="app_legends_locations" id="app_legends_locations" style="font-weight:bold">Legends locations</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-locations|}}}
+{{!}}}
+|}}}}{{#if:{{{organizations|}}}{{{c-organizations|}}}{{{l-organizations|}}}|
+<p name="app_organizations" id="app_organizations" style="font-weight:bold; font-size:larger">Organizations and titles</p>
+|}}{{#if:{{{organizations|}}}|{{#if:{{{c-organizations|}}}{{{l-organizations|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|organizations=</nowiki></code> field if you use <code><nowiki>|c-organizations=</nowiki></code> or <code><nowiki>|l-organizations=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{organizations|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{organizations|}}}
+{{!}}}
+|{{#if:{{{c-organizations|}}}|
+<p name="app_canon_organizations" id="app_canon_organizations" style="font-weight:bold">Canon organizations and titles</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-organizations|}}}
+{{!}}}
+|}}{{#if:{{{l-organizations|}}}|
+<p name="app_legends_droids" id="app_legends_organizations" style="font-weight:bold">Legends organizations and titles</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-organizations|}}}
+{{!}}}
+|}}}}{{#if:{{{species|}}}{{{c-species|}}}{{{l-species|}}}|
+<p name="app_species" id="app_species" style="font-weight:bold; font-size:larger">Sentient species</p>
+|}}{{#if:{{{species|}}}|{{#if:{{{c-species|}}}{{{l-species|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|species=</nowiki></code> field if you use <code><nowiki>|c-species=</nowiki></code> or <code><nowiki>|l-species=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{species|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{species|}}}
+{{!}}}
+|{{#if:{{{c-species|}}}|
+<p name="app_canon_species" id="app_canon_species" style="font-weight:bold">Canon species</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-species|}}}
+{{!}}}
+|}}{{#if:{{{l-species|}}}|
+<p name="app_legends_species" id="app_legends_species" style="font-weight:bold">Legends species</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-species|}}}
+{{!}}}
+|}}}}{{#if:{{{vehicles|}}}{{{c-vehicles|}}}{{{l-vehicles|}}}|
+<p name="app_vehicles" id="app_vehicles" style="font-weight:bold; font-size:larger">Vehicles and vessels</p>
+|}}{{#if:{{{vehicles|}}}|{{#if:{{{c-vehicles|}}}{{{l-vehicles|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|vehicles=</nowiki></code> field if you use <code><nowiki>|c-vehicles=</nowiki></code> or <code><nowiki>|l-vehicles=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{vehicles|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{vehicles|}}}
+{{!}}}
+|{{#if:{{{c-vehicles|}}}|
+<p name="app_canon_vehicles" id="app_canon_vehicles" style="font-weight:bold">Canon vehicles</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-vehicles|}}}
+{{!}}}
+|}}{{#if:{{{l-vehicles|}}}|
+<p name="app_legends_vehicles" id="app_legends_vehicles" style="font-weight:bold">Legends vehicles</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-vehicles|}}}
+{{!}}}
+|}}}}{{#if:{{{technology|}}}{{{c-technology|}}}{{{l-technology|}}}|
+<p name="app_technology" id="app_technology" style="font-weight:bold; font-size:larger">Weapons and technology</p>
+|}}{{#if:{{{technology|}}}|{{#if:{{{c-technology|}}}{{{l-technology|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|technology=</nowiki></code> field if you use <code><nowiki>|c-technology=</nowiki></code> or <code><nowiki>|l-technology=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{technology|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{technology|}}}
+{{!}}}
+|{{#if:{{{c-technology|}}}|
+<p name="app_canon_technology" id="app_canon_technology" style="font-weight:bold">Canon technology</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-technology|}}}
+{{!}}}
+|}}{{#if:{{{l-technology|}}}|
+<p name="app_legends_technology" id="app_legends_technology" style="font-weight:bold">Legends technology</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-technology|}}}
+{{!}}}
+|}}}}{{#if:{{{miscellanea|}}}{{{c-miscellanea|}}}{{{l-miscellanea|}}}|
+<p name="app_miscellanea" id="app_miscellanea" style="font-weight:bold; font-size:larger">Miscellanea</p>
+|}}{{#if:{{{miscellanea|}}}|{{#if:{{{c-miscellanea|}}}{{{l-miscellanea|}}}|
+<p style="color:#900">'''Warning''': This template is being incorrectly used. You may not use the <code><nowiki>|miscellanea=</nowiki></code> field if you use <code><nowiki>|c-miscellanea=</nowiki></code> or <code><nowiki>|l-miscellanea=</nowiki></code>. Please [{{fullurl:{{FULLPAGENAME}}|action=edit}} edit this page] and correct the template's usage.</p>|}}|}}{{#if:{{{miscellanea|}}}|
+{{{!}} class="appearances"
+{{!}}
+{{{miscellanea|}}}
+{{!}}}
+|{{#if:{{{c-miscellanea|}}}|
+<p name="app_canon_miscellanea" id="app_canon_miscellanea" style="font-weight:bold">Canon miscellanea</p>
+{{{!}} class="appearances"
+{{!}}
+{{{c-miscellanea|}}}
+{{!}}}
+|}}{{#if:{{{l-miscellanea|}}}|
+<p name="app_legends_miscellanea" id="app_legends_miscellanea" style="font-weight:bold">Legends miscellanea</p>
+{{{!}} class="appearances"
+{{!}}
+{{{l-miscellanea|}}}
+{{!}}}
+|}}}}
+|}
+</div></div>{{#ifeq:{{NAMESPACE}}||[[Category:Media using Template:App]]|}}</includeonly><noinclude>{{Top|sprot}}{{Documentation}}</noinclude>

@@ -1,0 +1,9 @@
+[[{{#ifeq:{{{1}}}|YouTube|Wikipedia:}}{{{1}}}|{{{2|{{{1}}}}}}]] opening crawl<noinclude>
+
+==Parameters==
+<nowiki>{{ComicOC|Source's Article|Formatting}}</nowiki>
+
+==Examples==
+{{ComicOC|Darth Vader (2017) 20|''Darth Vader'' (2017) 20}}
+
+[[Category:Appearance templates]]</noinclude>

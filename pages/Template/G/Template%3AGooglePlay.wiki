@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=GooglePlay
+|image=[[File:GooglePlay-Logo.svg|text-top|x16px|link=https://play.google.com/store]]
+|site_text=the [[Wikipedia:Google Play|Google Play]] [https://play.google.com/store website]
+|base_url=https://play.google.com/store
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

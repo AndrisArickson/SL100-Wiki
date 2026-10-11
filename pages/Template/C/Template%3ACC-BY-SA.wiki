@@ -1,0 +1,19 @@
+{{MediumMB
+|border=
+|bg=
+|image=[[File:CC some rights reserved.svg|90px|Creative Commons License]]<br />[[File:Cc-by white.svg|24px|Attribution]][[File:Cc-sa white.svg|24px|ShareAlike]]
+|message=This image is [[wikipedia:Free license|'''licensed''']] under the '''[[wikipedia:Creative Commons|Creative Commons]] [[wikipedia:Attribution (copyright)|Attribution]]-[[wikipedia:Share-alike|ShareAlike]] License, [https://creativecommons.org/licenses/by-sa/{{{1}}}/ Version {{{1}}}]'''.<br />'''Refer to [[Wookieepedia:Copyrights]] for more infomation'''.
+}}<includeonly>{{SpecialCategorizer|[[Category:CC-BY-SA images|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+<pre>
+{{CC-BY-SA|version number}}
+</pre>
+
+==Categorization==
+*[[:Category:CC-BY-SA images]]
+
+==External links==
+*{{WebCite|url=https://creativecommons.org/licenses/by-sa/4.0/|text=Attribution-ShareAlike 4.0 International|archivedate=20240729194205}}
+
+[[Category:File copyright templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,28 @@
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{FFGTCG|set=|cardname=|link=}}</nowiki></code>
+
+For the Core Set and [[The Battle of Hoth (Force Pack)]], the template will automatically truncate the pipelink to "Core Set" and "The Battle of Hoth".
+
+The use of unnamed parameters for the set and cardname is deprecated. They are retained for backward compatibility, but will produce hidden tracking categories to determine when they can eventually be removed. New usages of the template should use an explicit {{Para|set}} and {{Para|cardname}}.
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|cardname}} Name of the individual pack.
+*{{Para|link}} URL of the pack's web page, minus the following <code><nowiki>http://www.cardgamedb.com/index.php/starwars/star-wars-card-spoilers/_/</nowiki></code>.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{FFGTCG|set=Attack Run|cardname=Keyan Farlander|link=rogue-squadron/attack-run/keyan-farlander-r1312}}</nowiki></code>
+
+Results in:
+
+{{FFGTCG|set=Attack Run|cardname=Keyan Farlander|link=rogue-squadron/attack-run/keyan-farlander-r1312}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

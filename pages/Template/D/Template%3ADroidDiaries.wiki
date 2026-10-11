@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=DroidDiaries
+|mode=TV
+|image=[[File:Star Wars Kids mini logo.png|text-top|x16px|StarWarsKids.com|link=StarWarsKids.com]]
+|series=Star Wars: Droid Diaries
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Documentation}}</noinclude>

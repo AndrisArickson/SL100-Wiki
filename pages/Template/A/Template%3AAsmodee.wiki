@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Asmodee
+|image=[[File:Asmodee-Favicon.svg|text-top|x16px|link=https://store.asmodee.com]]
+|site_text=[[Asmodee Group|Asmodee's]] [https://store.asmodee.com official {{#ifeq:{{{subdomain|}}}|shop|retailer website|website}}]
+|base_url=https://{{{subdomain|store}}}.asmodee.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site={{#ifeq:{{{subdomain|}}}|shop|1|}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

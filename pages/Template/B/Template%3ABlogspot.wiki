@@ -1,0 +1,14 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Blogspot
+|image=[[File:Blogger-Logo.svg|text-top|x16px|link=https://www.blogger.com]]
+|site_text=[[Wikipedia:Blogger (service)|Blogspot]]
+|full_url=https://{{{subdomain|www}}}.blogspot.{{{domain|com}}}/{{{url|}}}
+|base_url=https://{{{subdomain|www}}}.blogspot.com
+|target_url={{{subdomain|www}}}.blogspot.{{{domain|com}}}/{{{url|}}}
+|username={{{subdomain|}}}
+|usertext={{{name|}}}
+|is_post={{{url|}}}
+|text={{{text|}}}
+|use_lua_subpage=1
+|blog=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

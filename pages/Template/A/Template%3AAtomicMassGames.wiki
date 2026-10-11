@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=AtomicMassGames
+|image=[[File:AtomicMassGames-Favicon.png|text-top|x18px|link=https://www.atomicmassgames.com]]
+|site_text=[[Atomic Mass Games]]' [https://www.atomicmassgames.com official website]
+|base_url=https://{{{subdomain|www}}}.atomicmassgames.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

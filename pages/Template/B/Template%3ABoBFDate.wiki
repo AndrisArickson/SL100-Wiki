@@ -1,0 +1,40 @@
+{{#switch:{{{1|}}}
+  | = ''[[Star Wars: Timelines]]'' dates the present [[Standard day|day]] events of ''[[Star Wars: The Book of Boba Fett]]''{{#if:{{{2|}}}|, including {{{2}}},}} to [[9 ABY]].
+  |1|2|3|4 = ''[[Star Wars: Timelines]]'' dates the present [[Standard day|day]] events of "[[{{#switch:{{{1|}}}
+    |1 = Chapter 1: Stranger in a Strange Land
+    |2 = Chapter 2: The Tribes of Tatooine
+    |3 = Chapter 3: The Streets of Mos Espa
+    |4 = Chapter 4: The Gathering Storm
+  }}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[9 ABY]].
+  |5|6|7| = ''[[Star Wars: Timelines]]'' dates the events of "[[{{#switch:{{{1|}}}
+    |5 = Chapter 5: Return of the Mandalorian
+    |6 = Chapter 6: From the Desert Comes a Stranger
+    |7 = Chapter 7: In the Name of Honor
+  }}]]{{#if: {{{2|}}}|," including {{{2}}},|"}} to [[9 ABY]].
+}}<noinclude>[[Category:Canon television dating citation templates]]
+
+==Usage==
+<code><nowiki>{{BoBFDate}}</nowiki></code>
+
+==Examples==
+{|class="wikitable sortable" {{Prettytable}} style="word-break:break-word"
+!Chapter !! Code !! Result
+|-
+|Present||<pre><nowiki>{{BoBFDate}}</nowiki></pre>||{{BoBFDate}}
+|-
+|[[Chapter 1: Stranger in a Strange Land]]||<pre><nowiki>{{BoBFDate|1}}</nowiki></pre>||{{BoBFDate|1}}
+|-
+|[[Chapter 2: The Tribes of Tatooine]]||<pre><nowiki>{{BoBFDate|2}}</nowiki></pre>||{{BoBFDate|2}}
+|-
+|[[Chapter 3: The Streets of Mos Espa]]||<pre><nowiki>{{BoBFDate|3}}</nowiki></pre>||{{BoBFDate|3}}
+|-
+|[[Chapter 4: The Gathering Storm]]||<pre><nowiki>{{BoBFDate|4}}</nowiki></pre>||{{BoBFDate|4}}
+|-
+|[[Chapter 5: Return of the Mandalorian]]||<pre><nowiki>{{BoBFDate|5}}</nowiki></pre>||{{BoBFDate|5}}
+|-
+|[[Chapter 6: From the Desert Comes a Stranger]]||<pre><nowiki>{{BoBFDate|6}}</nowiki></pre>||{{BoBFDate|6}}
+|-
+|[[Chapter 7: In the Name of Honor]]||<pre><nowiki>{{BoBFDate|7}}</nowiki></pre>||{{BoBFDate|7}}
+|-
+|Present||<pre><nowiki>{{BoBFDate|5|Kaba Baiz's [[death]] on the [[Glavis Ringworld]]}}</nowiki></pre>||{{BoBFDate|5|Kaba Baiz's [[death]] on the [[Glavis Ringworld]]}}
+|}</noinclude>

@@ -1,0 +1,10 @@
+<includeonly>{| class="article-table" style="width:100%;"
+|- style="font-size:18px;"
+! Template documentation follows
+|-
+| ''The template above may sometimes be partially or fully invisible.''
+|-
+| Visit [[{{#if:{{{1|}}}|Template:{{{1}}}|{{{content|{{FULLPAGENAMEE}}/doc}}}}}]] to edit this documentation. ([[Template:Documentation|How does this work?]])
+|}
+<div style="margin:0 1em;">
+{{{{{1|{{{content|{{FULLPAGENAME}}/doc}}}}}}}}</div></includeonly><noinclude>{{documentation}}[[Category:Template documentation| ]]</noinclude>

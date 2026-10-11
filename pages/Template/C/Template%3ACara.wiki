@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Cara
+|image=[[File:CaraApp-Logo.svg|text-top|x16px|link=https://cara.app]]
+|site_text=[[wikipedia:Cara (app)|Cara]]
+|base_url=https://cara.app
+|target_url={{{url|{{{username|}}}}}}
+|username={{{username|}}}
+|is_post={{{url|}}}
+|author={{{name|}}}
+|use_lua_subpage=1
+|social_media=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

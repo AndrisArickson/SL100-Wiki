@@ -1,0 +1,87 @@
+==Description==
+This template is designed to help users properly cite dating for material from the [[2016]] [[Star Wars: Doctor Aphra (2016)|''Star Wars: Doctor Aphra'']] [[Star Wars comic books|comic-book series]], which ran until [[2019]]. It covers:
+*All 40 issues of the series.
+*All three Annual issues.
+*The short story "[[Epilogue]]," released as part of the short story collection [[Empire Ascendant|''Empire Ascendent'' 1]].
+
+==Usage==
+*<code><nowiki>{{Aphra2016Date|issue}}</nowiki></code>, where the '''issue''' parameter is the issue number of the [[2016]] [[Star Wars: Doctor Aphra (2016)|''Star Wars: Doctor Aphra'']] series, in which the dated events take place. The issue parameter is required for the template to work.
+*<code><nowiki>{{Aphra2016Date|issue|event}}</nowiki></code>, where the '''event''' parameter is specific event that is being dated by the date note. The event is part of the clause "'',including [event],''". The event parameter is optional.
+
+==Examples==
+===''Doctor Aphra'' 1-8===
+<pre><nowiki>{{Aphra2016Date|1|the [[death]] of [[Soo-Tath]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|1|the [[death]] of [[Soo-Tath]]}}
+
+===''Doctor Aphra'' 9&ndash;31===
+<pre><nowiki>{{Aphra2016Date|22|[[Chelli Lona Aphra|Chelli Aphra's]] interrogation by [[Bor Ifriem]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|22|[[Chelli Lona Aphra|Chelli Aphra's]] interrogation by [[Bor Ifriem]]}}
+
+===''Doctor Aphra'' 32&ndash;36===
+<pre><nowiki>{{Aphra2016Date|32|the [[Infiltration of the Red Mist|heist]] on the ''[[Red Mist]]''}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|32|the [[Infiltration of the Red Mist|heist]] on the ''[[Red Mist]]''}}
+
+===''Doctor Aphra'' 37&ndash;38===
+<pre><nowiki>{{Aphra2016Date|37|the [[death]] of [[Rupo Ud]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|37|the [[death]] of [[Rupo Ud]]}}
+
+===''Doctor Aphra'' 39&ndash;40===
+<pre><nowiki>{{Aphra2016Date|40|[[Anakin Skywalker|Darth Vader's]] subjection to the [[Martyrium of Frozen Tears]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|40|[[Anakin Skywalker|Darth Vader's]] subjection to the [[Martyrium of Frozen Tears]]}}
+
+===''Doctor Aphra Annual'' 1===
+<pre><nowiki>{{Aphra2016Date|annual1|[[Krrsantan]]'s meeting with [[Dixnet Dat]] and [[Domthro Rus]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|annual1|[[Krrsantan]]'s meeting with [[Dixnet Dat]] and [[Domthro Rus]]}}
+
+===''Doctor Aphra Annual'' 2===
+<pre><nowiki>{{Aphra2016Date|annual2|[[Winloss]] and [[Nokk]]'s [[Hunt on X3-299-11|mission]] to [[X3-299-11]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|annual2|[[Winloss]] and [[Nokk]]'s [[Hunt on X3-299-11|mission]] to [[X3-299-11]]}}
+
+===''Doctor Aphra Annual'' 3===
+<pre><nowiki>{{Aphra2016Date|annual3|the capture of [[Skikkesk]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|annual3|[[Winloss]] and [[Nokk]]'s hunt for [[Skikkesk]]}}
+
+==="Epilogue"===
+<pre><nowiki>{{Aphra2016Date|epilogue|the extraction of [[Thassilio Smeuse]]}}</nowiki></pre>
+
+Results in:
+
+{{Aphra2016Date|epilogue|the extraction of [[Thassilio Smeuse]]}}
+
+===Undefined===
+<pre><nowiki>{{Aphra2016Date}}</nowiki></pre>
+
+Results in:
+
+<span style="font-size: 1.5em; color: red">Template error: No valid issue number passed into <nowiki>{{Aphra2016Date}}</nowiki>. See [[Template:Aphra2016Date|this page]] for instructions on how to properly use the template.</span>
+
+==Errors==
+Any pages that do not use the template correctly will be placed into [[:Category:Invalid Aphra2016Date parameter arguments]].
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Canon dating citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

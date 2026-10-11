@@ -1,0 +1,75 @@
+The '''Bots''' and '''Nobots''' templates tell bots and other automated editing tools and scripts that they either should or should not edit a page that has the template. The templates can be used to block most bots (all bots that have implemented this functionality) or specific bots by name or function. These templates should be used carefully outside userspace to avoid blocking useful bot edits.
+
+==Important notes==
+Most bots will NOT understand these templates when they are indirectly transcluded.
+
+Most bots will not disregard the template if it is inside of '''<nowiki><now</nowiki><nowiki>iki> ... </now</nowiki><nowiki>iki></nowiki>''' tags.  For example, if you are discussing the templates with another editor, please use the {{tl|tl}} template, e.g. <code><nowiki>{{tl|Nobots}}</nowiki></code>, which will show {{tl|Nobots}}, rather than <code><nowiki><no</nowiki><nowiki>wiki>{{Nobots}}</now</nowiki><nowiki>iki></nowiki></code>, which will possibly be parsed as intending to ban bots from the page.
+
+==Usage==
+Place the template anywhere on a userpage or user subpage to opt out from routine bot edits, under rule 9 of [[Wookieepedia:User page and profile policy]].
+
+==Syntax==
+{| class="wikitable"
+! Code
+! Description
+|-
+ |<code><nowiki>{{Nobots}}</nowiki></code>
+ |Ban all compliant bots (shortcut that takes no parameters)
+|-
+ |<code><nowiki>{{Bots}}</nowiki></code>
+ |Allow all bots (shortcut that takes no parameters)
+|}
+
+''Where <botlist> is a comma-delimited string of bot usernames (AWB can be used for all [[Wikipedia:AutoWikiBrowser|AWB]]-based bots):''
+{| class="wikitable"
+! Code
+! Description
+|-
+ |<code><nowiki>{{Bots|allow=<botlist>}}</nowiki></code>
+ |Ban all compliant bots not in the list
+|-
+ |<code><nowiki>{{Bots|deny=<botlist>}}</nowiki></code>
+ |Ban all compliant bots in the list
+|-
+ |<code><nowiki>{{Bots|allow=SineBot,Legobot}}</nowiki></code>
+ |
+|-
+ |<code><nowiki>{{Bots|deny=AWB}}</nowiki></code>
+ |
+|}
+
+''<botlist> can also be "none" or "all" as in the following examples:''
+{| class="wikitable"
+! Code
+! Description
+|-
+ |<code><nowiki>{{Bots|allow=all}}</nowiki></code>
+ |Allow all bots
+|-
+ |<code><nowiki>{{Bots|allow=none}}</nowiki></code>
+ |Ban all compliant bots
+|-
+ |<code><nowiki>{{Bots|deny=all}}</nowiki></code>
+ |Ban all compliant bots
+|-
+ |<code><nowiki>{{Bots|deny=none}}</nowiki></code>
+ |Allow all bots
+|}
+
+Bots are not bound to observe the nobots template; it will depend on their functionality, their owners and their terms of approval.
+
+==Incorrect syntax==
+This syntax looks correct, but depending on the individual bot may not have the intended effect. This statement may deny neither Bot1 nor Bot2, only one of the two bots, or both bots as intended.
+
+;Incorrect syntax
+<code><nowiki>{{Bots|deny=Bot1|deny=Bot2}}</nowiki></code>
+
+;Correct syntax
+<code><nowiki>{{Bots|deny=Bot1,Bot2}}</nowiki></code>
+
+==Implementation==
+*[[Wikipedia:Pywikibot|Pywikibot]] supports bots and nobots since r4096. The templates may be ignored using a parameter.
+*Since version 3.2.0.0 [[Wikipedia:AutoWikiBrowser|AutoWikiBrowser]] fully supports <nowiki>{{Bots}} and {{Nobots}}</nowiki>. Additionally, pseudo-username ''AWB'' can be specified to ban all AWB-based bots from the page. However, AWB has an option to ignore these templates.
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,14 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyPress
+|image=[[File:Disney_favicon.png|text-top|x16px|Disney.com|link=https://{{{subdomain|www}}}.disney.{{{domain|com}}}]]
+|site_text={{#if:{{{abc|}}}
+  |[https://{{{subdomain|www}}}.disneyabcpress.{{{domain|com}}} Disney-ABC Press website]
+  |{{#if:{{{wdtv|}}}
+  |[https://{{{subdomain|www}}}.wdtvpress.{{{domain|com}}} Walt Disney TV Press website]
+  |[https://{{{subdomain|www}}}.dgepress.{{{domain|com}}} Disney General Entertainment Press website]
+}}}}
+|base_url=https://{{{subdomain|www}}}.{{#if:{{{abc|}}}|disneyabcpress|{{#if:{{{wdtv|}}}|wdtvpress|dgepress}}}}.{{{domain|com}}}
+|target_url={{{url|}}}
+|nolive={{{abc|{{{wdtv|{{{nolive|}}}}}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

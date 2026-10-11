@@ -1,0 +1,9 @@
+<div class="cardgame hidable start-hidden">
+*{{{set}}} <span class="hidable-button"></span>
+<div class="cardgame-cards hidable-content">
+{{{cards}}}
+</div></div><includeonly>{{#if:{{{set|}}}||[[Category:Template usages with missing parameters]]}}{{#if:{{{cards|}}}||[[Category:Template usages with missing parameters]]}}</includeonly><noinclude>
+
+{{Documentation}}
+
+[[Category:Templates]]</noinclude>

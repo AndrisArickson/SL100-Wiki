@@ -1,0 +1,17 @@
+==Usage==
+{{Tlp|1stm|''simultaneous mentions''}}
+
+'''Please note that audiobooks with the same release date as the parent media should ''not'' be listed as simultaneous in this template and its siblings; instead, {{Tl|Ab}} should be used between the media link and this template to denote an audiobook.'''
+
+==Example(s)==
+{{1stm|''[[The Empire Strikes Back Storybook]]''}}
+
+==Code==
+<code><nowiki>{{1stm|''[[The Empire Strikes Back Storybook]]''}}</nowiki></code>
+
+{{Interlang
+|tr=Şablon:1stm
+}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:First-notation appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

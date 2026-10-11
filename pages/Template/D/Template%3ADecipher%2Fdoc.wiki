@@ -1,0 +1,33 @@
+This template is to be used for citing articles on Decipher's website.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Decipher|url=|text=|int=|archivedate=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} The URL of the web page, minus <code><nowiki>http://decipher.com/</nowiki></code>.
+*{{Para|text}} Name of the article being cited (formatted name if <code>|int=</code> parameter is used).
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL contains a subdomain of <code><nowiki>wizards.com</nowiki></code> other than <code>www</code>, such as <code><nowiki>https://store.decipher.com</nowiki></code>, the subdomain can be specified for example, {{Para|subdomain}}<code>store</code>. Default is blank if left empty.
+*{{Para|int}} Name of the [[Wookieepedia]] article corresponding to the Wizards.com article being cited.
+*{{Para|noquotes}} Put <code>1</code> or <code>yes</code> here to omit the automatic placing of the article title in double quotes.
+
+===Unnecessary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Decipher|url=starwars/whatisit/timeline.html|text=''Star Wars'' Customizable Card Game Product Timeline}}</nowiki></code>
+
+Results in:
+
+{{Decipher|url=starwars/whatisit/timeline.html|text=''Star Wars'' Customizable Card Game Product Timeline}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

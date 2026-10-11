@@ -1,0 +1,41 @@
+This template is to be used for citing individual pages on [[Wikipedia:Amazon.com|Amazon.com]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Amazon|domain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|domain}} The top level domain part of the URL. Put '''<code>co.uk</code>''' or '''<code>ca</code>''' here to match the respective domain being cited. Default is '''<code>com</code>''' if blank.
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.amazon.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Amazon|url=Star-Wars-Survivors-Timothy-Zahn/dp/0345459164|text=Star Wars: Survivor's Quest|archivedate=20160613062734}}</nowiki></code>
+
+Results in:
+
+{{Amazon|url=Star-Wars-Survivors-Timothy-Zahn/dp/0345459164|text=Star Wars: Survivor's Quest|archivedate=20160613062734}}
+
+<hr />
+;{{Para|domain}}co.uk:
+<code><nowiki>{{Amazon|domain=co.uk|url=Star-Wars-Glove-Darth-Vader/dp/0553405276|text=Star Wars: The Glove of Darth Vader|archivedate=20170426200239}}</nowiki></code>
+
+Results in:
+
+{{Amazon|domain=co.uk|url=Star-Wars-Glove-Darth-Vader/dp/0553405276|text=Star Wars: The Glove of Darth Vader|archivedate=20170426200239}}
+
+<hr />
+<code><nowiki>{{Amazon|url=Star-Wars-Survivors-Timothy-Zahn/dp/0345459164|text=Star Wars: Survivor's Quest|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Amazon|url=Star-Wars-Survivors-Timothy-Zahn/dp/0345459164|text=Star Wars: Survivor's Quest|nobackup=1}}
+
+__NOTOC__
+[[tr:Şablon:Amazon]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

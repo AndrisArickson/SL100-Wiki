@@ -1,0 +1,22 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Expand
+| bg = #80996A
+| image = [[File:TPMCGYoda.jpg|150px]]
+| caption = Master {{USERNAME|Qui-Gon}}, ''more'' to say, have you?
+| message = It is requested that this article, or a section of this article, be expanded.
+| comment = See the request on the [[:Category:Articles to be expanded|listing]] or on this article's {TALKPAGE}. Once the improvements have been completed, you may remove this notice and the page's listing.
+| reason = The following needs expanding on
+| category = Category:Articles to be expanded
+}}<noinclude>{{Top|fprot}}
+
+==Usage==
+Place <nowiki>{{Expand|this page needs expanding on [sections]}}</nowiki> on articles that need to have parts or sections of them expanded upon by editors, or make a new section on the article's talk page to elaborate on the changes needed. Make sure to replace [sections] with the relevant sections of the article. Not to be confused with [[Template:Update]] (intended for articles lacking content from a new source) or [[Template:Stub]] (intended for articles lacking sections).
+
+Per [[Forum:CT:Fixing the Expand template]], all additions of this template require a reason either in the template or on the talk page.
+
+==Categorization==
+*[[:Category:Articles to be expanded]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

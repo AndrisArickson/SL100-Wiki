@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Thrawn campaign]]<br />([[9 ABY/Legends|9 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Raid on the Draukyze system|Draukyze]] · [[Raid on Saarn|Saarn]] · [[Obroa-skai information raid|First Obroa-skai]]<br />[[Destruction of the Elomin task force|Elomin task force]] · [[Mission to Bimmisaari|First Bimmisaari]] · [[Attack on Bpfassh|First Bpfassh]]<br />[[Mission to Bpfassh|Second Bpfassh]] · [[Raid on Nomad City|First Nomad City]] · [[Imperial ambush of Luke Skywalker|Jospro Sector]]<br />[[Mission to Kashyyyk (Thrawn campaign)|Sixth Kashyyyk]] · [[Rescue on Myrkr|First Myrkr]] · [[Battle of Sluis Van|Second Sluis Van]]<br />[[Raid on Myrkr Base|Second Myrkr]] · [[Taanab operation|First Taanab]] · [[Raid on Sarka|Sarka]] · [[Raid on Linuri|Linuri]] · [[Raid on New Cov|New Cov]]<br />[[Mission to Honoghr|Honoghr]] · [[Rescue on the Chimaera|''Chimaera'']] · [[Raid on Pantolomin|Pantolomin]] · [[Battle for the Katana fleet|''Katana'' fleet]]<br />[[Battle of unidentified world|unidentified world]] · [[Stand at Bhir'khi Pass|Sheris]]<br />[[Battle of Hettsk|First Hettsk]] · [[Mission to Hettsk|Second Hettsk]]<br />[[Battle of Bimmisaari (Thrawn campaign)|Second Bimmisaari]] · [[Battle of Baros|Baros]] · [[Siege of Svivren|Second Svivren]] · [[Battle of Ando (Thrawn campaign)|Ando]]<br />[[Battle of Crondre|Crondre]] · [[Battle of Filve|Filve]] · [[Battle of Ord Pardron|Ord Pardron]] · [[Battle at Ukio|Ukio]] · [[Battle of Eriadu (Galactic Civil War)|Eriadu]] · [[Mission to Poderis|Poderis]]<br />[[Battle of Woostri|Woostri]] · [[Battle of Qat Chrystac|Qat Chrystac]] · [[Destruction of Nomad City|Second Nomad City]]<br />[[Battle of Ord Mantell (9 ABY)|Sixth Ord Mantell]] · [[Occupation of Myomar|Myomar]] · [[Skirmish at Chazwa|Chazwa]]<br />[[Raid on Coruscant (Thrawn Crisis)|Ninth Coruscant]] · [[Ambush on Trogan|Trogan]] · [[Raid on Bilbringi|Second Bilbringi]]<br />[[Battle of Yag'Dhul (Thrawn campaign)|Fourth Yag'Dhul]] · [[Battle of Anchoron|Anchoron]] · [[Battle of Mrisst (9 ABY)|Second Mrisst]]<br />[[Siege of Coruscant|Tenth Coruscant]] · [[Fall of Generis|Generis]] · [[Battle of Ketaris (9 ABY)|First Ketaris]] · [[Battle of Ithor (9 ABY)|Third Ithor]]<br />[[Battle of Abregado-Rae|Abregado-Rae]] · [[Battle of Xa Fel (9 ABY)|First Xa Fel]] · [[Battle of Bilbringi (9 ABY)|Third Bilbringi]]<br />[[Assault on Mount Tantiss|Mount Tantiss]] · [[Battle of Jendorn|Jendorn (I)]] · [[Mission to Jendorn|Jendorn (II)]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW Thrawn]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Thrawn
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

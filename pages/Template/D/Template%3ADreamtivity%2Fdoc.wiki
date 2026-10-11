@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[Dreamtivity]]'s [https://www.dreamtivity.net official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Dreamtivity|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.dreamtivity.net/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Dreamtivity|url=books/star-wars-mandalorian-grogu-and-mando-9781645886358|text=Star Wars Mandalorian: Grogu and Mando}}</nowiki></code>
+
+Results in:
+
+{{Dreamtivity|url=books/star-wars-mandalorian-grogu-and-mando-9781645886358|text=Star Wars Mandalorian: Grogu and Mando}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

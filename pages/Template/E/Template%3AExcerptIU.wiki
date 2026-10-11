@@ -1,0 +1,24 @@
+{| class="transparent-background" style="border:1px solid #AAA; border-collapse:collapse; background:#F9F9F9; -moz-border-radius:6px; margin:0.5em 1em; width:auto"
+{{#if:{{{attrib|}}}|{{!}}- class="headerbackground" style="font-size:90%; border-bottom:1px solid #AAA; background:#DDD"
+{{!}} class="infoboxcell" style="padding:4px" {{!}} {{#if:{{{attrib|}}}|'''Attribution''': &#32;|}}{{{attrib|}}}
+{{!}}-|}}
+| {{#if:{{{attrib|}}}{{{source|}}}|colspan="2"|}} style="padding:4px; background:transparent" | {{{1}}}
+|}{{#invoke:LinkCheck|main|value={{{1}}}|template=Excerpt}}<noinclude>{{Top|sprot}}
+__NOEDITSECTION__ __NOTOC__
+{{Clear}}
+==Description==
+This template should be used sparingly as an alternative to {{Tl|Quote}} for quotations of in-universe texts, speeches etc. {{Tl|Excerpt}} may be used for instances outside articles instead.
+
+==Examples==
+===Code===
+<pre>
+{{ExcerptIU|''We have been called criminals, but we are not. We are rebels, fighting for the people, fighting for you. I'm not that old, but I remember a time when things were better on Lothal. Maybe not great, but never like this. See what the Empire has done to your lives, your families, and your freedom? It's only gonna get worse&hellip;unless we stand up and fight back. It won't be easy. There will be loss and sacrifice. But we can't back down just because we're afraid. That's when we need to stand the tallest. That's what my parents taught me. That's what my new family helped me remember. Stand up together. Because that's when we're strongest&mdash;as one.''|attrib=[[Ezra Bridger]]<ref name="Call to Action">{{Rebels|Call to Action}}</ref>}}
+</pre>
+
+===Result===
+{{ExcerptIU|''We have been called criminals, but we are not. We are rebels, fighting for the people, fighting for you. I'm not that old, but I remember a time when things were better on Lothal. Maybe not great, but never like this. See what the Empire has done to your lives, your families, and your freedom? It's only gonna get worse&hellip;unless we stand up and fight back. It won't be easy. There will be loss and sacrifice. But we can't back down just because we're afraid. That's when we need to stand the tallest. That's what my parents taught me. That's what my new family helped me remember. Stand up together. Because that's when we're strongest&mdash;as one.''|attrib=[[Ezra Bridger]]<ref name="Call to Action">{{Rebels|Call to Action}}</ref>}}
+
+===Notes and references===
+{{Reflist}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

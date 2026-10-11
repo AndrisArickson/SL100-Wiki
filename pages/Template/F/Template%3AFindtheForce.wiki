@@ -1,0 +1,26 @@
+<includeonly>[[File:FindtheForce-Text.png|baseline|x12px|link=Find the Force]]&#32;"{{{text}}}" on ''[[Find the Force]]'' <small>([[:File:{{{filename}}}|screenshot]])</small>{{#if:{{{filename|}}}
+    |&#32;
+    |{{#if:{{NAMESPACE}}
+        |&#32;
+        |[[Category:Pages with missing permanent archival links]]}}
+    }}</includeonly><noinclude>
+This template is to be used for citing individual entries from the ''[[Find the Force]]'' augmented reality event.
+
+==Usage==
+Copy the template code below, paste it into the appropriate place in an article and fill in the required fields.
+
+<code><nowiki>{{FindtheForce|text=|filename=}}</nowiki></code>
+
+===Required parameters===
+*'''text''': Name of the entry being cited.
+*'''filename''': Filename of the entry's screenshot, minus the <code>File:</code> prefix.
+
+===Examples===
+<code><nowiki>{{FindtheForce|text=2BB-2|filename=Find the Force 2BB-2.png}}</nowiki></code>
+
+Results in:
+
+{{FindtheForce|text=2BB-2|filename=Find the Force 2BB-2.png}}
+
+__NOTOC__
+[[Category:Citation templates]]</noinclude>

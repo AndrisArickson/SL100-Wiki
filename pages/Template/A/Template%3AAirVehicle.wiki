@@ -1,0 +1,115 @@
+<onlyinclude><infobox theme="Air-vehicle">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="designer"><label>Designer</label></data>
+        <data source="manufacturer"><label>Manufacturer</label></data>
+        <data source="line"><label>Line</label></data>	
+        <data source="model"><label>Model</label></data>	
+        <data source="type"><label>Type</label></data>	
+        <data source="cost"><label>Cost</label></data>	
+        <data source="modifier"><label>Modifier</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Technical specifications</header>
+        <data source="sysmods"><label>Modified systems</label></data>	
+        <data source="length"><label>Length</label></data>	
+        <data source="width"><label>Width</label></data>	
+        <data source="height"><label>Height</label></data>	
+        <data source="mass"><label>Mass</label></data>	
+        <data source="max accel"><label>Maximum acceleration</label></data>
+        <data source="speed"><label>Maximum speed</label></data>	
+        <data source="velocity"><label>Maximum velocity</label></data>	
+        <data source="max alt"><label>Maximum altitude</label></data>
+        <data source="maneuverability"><label>Maneuverability rating</label></data>	
+        <data source="engine"><label>Engine unit(s)</label></data>	
+        <data source="poweroutput"><label>Power output</label></data>	
+        <data source="power"><label>Power plant</label></data>	
+        <data source="shield gen"><label>Shielding</label></data>	
+        <data source="hull"><label>Hull</label></data>	
+        <data source="sensor"><label>Sensor systems</label></data>
+        <data source="target"><label>Targeting systems</label></data>	
+        <data source="navigation"><label>Navigation system</label></data>	
+        <data source="maincomp"><label>Main computer</label></data>	
+        <data source="countermeasures"><label>Countermeasures</label></data>	
+        <data source="armament"><label>Armament</label></data>        	
+        <data source="complement"><label>Complement</label></data>	
+        <data source="bays"><label>Docking bays</label></data>	
+        <data source="escapepods"><label>Escape craft</label></data>	
+        <data source="crew"><label>Crew</label></data>
+        <data source="skeleton"><label>Minimum crew</label></data>	
+        <data source="passengers"><label>Passengers</label></data>	
+        <data source="capacity"><label>Cargo capacity</label></data>
+        <data source="cargohandling"><label>Cargo handling systems</label></data>	
+        <data source="consumables"><label>Consumables</label></data>	
+        <data source="lifesupport"><label>Life support</label></data>	
+        <data source="communications"><label>Communication systems</label></data>	
+        <data source="othersystems"><label>Other systems</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Usage</header>
+        <data source="availability"><label>Availability</label></data>
+        <data source="role"><label>Role(s)</label></data>
+        <data source="firstuse"><label>Year introduced</label></data>		
+        <data source="retired"><label>Retired</label></data>	
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:AirVehicle|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|manufacturer|designer|line|model|type|cost|modifier|sysmods|length|width|height|mass|max accel|speed|velocity|max alt|maneuverability|engine|poweroutput|power|shield gen|hull|sensor|target|navigation|maincomp|countermeasures|armament|complement|bays|escapepods|crew|skeleton|passengers|capacity|cargohandling|consumables|lifesupport|communications|othersystems|availability|role|firstuse|retired|affiliation|ignore=name}}</onlyinclude>
+{{Top|sprot}}{{Clear}}[[category:Vehicle infobox templates]]
+===Usage===
+To use this infobox, paste the following code at the top of an article, filling all appropriate fields:
+<pre class="wrap"><nowiki>{{Top|}}
+{{AirVehicle
+|image=
+|name=
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|max alt=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}</nowiki></pre>

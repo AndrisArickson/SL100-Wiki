@@ -1,0 +1,18 @@
+{{#invoke:BaseCitation|main|template=DisneyGallery
+|mode=TV
+|image=[[File:DisneyGallery-TheMandalorian-logo.png|text-bottom|x18px|link=Disney Gallery: The Mandalorian]]
+|series=Disney Gallery: The Mandalorian
+|child={{#if:{{#pos:{{{1|}}}|Disney Gallery}}|{{{1|}}}|{{#if:{{#pos:{{{1|}}}|(}}|{{{1|}}}|{{{1|}}} (Disney Gallery: The Mandalorian)}}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "EPISODE TITLE" with the appropriate episode name, for example "Directing."
+ <nowiki>{{</nowiki>DisneyGallery|''EPISODE TITLE''|''FORMATTED NAME'' (optional)}}
+
+*{{DisneyGallery|Directing}}
+*{{DisneyGallery|Disney Gallery: The Mandalorian: Making of the Season 2 Finale|Making of the Season 2 Finale}}
+
+==Image==
+[[File:DisneyGallery-TheMandalorian-logo.png|thumb|left]]
+
+[[Category:TV citation templates]]</noinclude>

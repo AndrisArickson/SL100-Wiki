@@ -1,0 +1,35 @@
+<includeonly>{{Fanhome|lang=us|url=star-wars/darth-vader|text=''Star Wars: Darth Vader''}} indicates that [[Star Wars: Darth Vader (magazine)|''Star Wars: Darth Vader'']] is shipped monthly starting in [[December]] [[2024]], and shipments include six issues, aside from the first three shipments of issues 1-2, issues 3-5, and issues 6-8. Thus, [[Star Wars: Darth Vader {{#ifeq: {{#iferror: {{#expr: {{{1|51}}} < 51 }}}}|1|{{{1|}}} (magazine)|{{{1|}}}}}|issue {{{1|}}}]] was first published in {{#switch:{{{1|}}}
+| 1 | 2 = [[December]] [[2024]]
+| 3 | 4 | 5 = [[January]] [[2025]]
+| 6 | 7 | 8 = [[February]] [[2025]]
+| 9 | 10 | 11 | 12 | 13 | 14 = [[March]] [[2025]]
+| 15 | 16 | 17 | 18 | 19 | 20 = [[April]] [[2025]]
+| 21 | 22 | 23 | 24 | 25 | 26 = [[May]] [[2025]]
+| 27 | 28 | 29 | 30 | 31 | 32 = [[June]] [[2025]]
+| 33 | 34 | 35 | 36 | 37 | 38 = [[July]] [[2025]]
+| 39 | 40 | 41 | 42 | 43 | 44 = [[August]] [[2025]]
+| 45 | 46 | 47 | 48 | 49 | 50 = [[September]] [[2025]]
+| 51 | 52 | 53 | 54 | 55 | 56 = [[October]] [[2025]]
+| 57 | 58 | 59 | 60 | 61 | 62 = [[November]] [[2025]]
+| 63 | 64 | 65 | 66 | 67 | 68 = [[December]] [[2025]]
+| 69 | 70 | 71 | 72 | 73 | 74 = [[January]] [[2026]]
+| 75 | 76 | 77 | 78 | 79 | 80 = [[February]] [[2026]]
+| 81 | 82 | 83 | 84 | 85 | 86 = [[March]] [[2026]]
+| 87 | 88 | 89 | 90 | 91 | 92 = [[April]] [[2026]]
+| 93 | 94 | 95 | 96 | 97 | 98 = [[May]] [[2026]]
+| 99 | 100 | 101 | 102 | 103 | 104 = [[June]] [[2026]]
+| 105 | 106 | 107 | 108 | 109 | 110 = [[July]] [[2026]]
+| 111 | 112 | 113 | 114 | 115 | 116 = [[August]] [[2026]]
+| 117 | 118 | 119 | 120 = [[September]] [[2026]]
+|#default={{#switch:{{FULLPAGENAME}}|Template:DVDates|#default=<span style="font-size: 1.5em; color: red">Template error: Invalid issue number passed into <nowiki>{{DVDates}}</nowiki>. See [[Template:DVDates|this page]] for instructions on how to properly use the template.</span>}}}}.</includeonly><noinclude>This template is to be used for citing the release dates of individual issues of [[De Agostini]]'s [[Star Wars: Darth Vader (magazine)|''Star Wars: Darth Vader'' partwork magazine]].
+
+==Usage==
+Copy-paste the following code and replace "NUMBER" with the appropriate issue number.
+ <nowiki>{{</nowiki>DVDates|''NUMBER''}}
+
+===Example===
+ <nowiki>{{DVDates|25}}</nowiki>
+*{{DVDates|25}}
+*{{DVDates|62}}
+
+[[Category:Dating citation templates|{{PAGENAME}}]]</noinclude>

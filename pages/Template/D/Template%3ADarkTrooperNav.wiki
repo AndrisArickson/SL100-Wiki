@@ -1,0 +1,17 @@
+{{Nav start|The [[Dark Trooper Project]]}}
+{{Nav heading|Primary models}}
+{{Nav text|[[Phase Zero dark trooper]] · [[Phase I Dark Trooper]] · [[Phase II Dark Trooper]] · [[Phase III Dark Trooper]]}}
+{{Nav heading|Other models}}
+{{Nav text|[[Dark Novatrooper]] · [[Inquisitorium dark trooper]]<br />[[Exogen-class dark trooper]] · [[Glory-class dark trooper]]<br />[[Oppressor-7 class dark trooper]] · [[Oppressor-9 class dark trooper]]<br />[[Triumphant-class dark trooper]] · [[Urban Assault dark trooper]]<br/>[[Victory class dark trooper]] · [[Black Hole dark trooper]]<br />[[Purge trooper]] · [[Elite dark trooper]]}}
+{{Nav heading|Production}}
+{{Nav text|[[Rom Mohc]] · ''[[Arc Hammer]]''}}
+{{Nav end|edit=DarkTrooperNav}}<!-- TEMPLATE ENDS HERE. --><noinclude>
+
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav heading}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Organization navbox templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<onlyinclude><span {{#if:{{{class|}}}|class="{{{class|}}}"|}} style="display: inline; position: relative; {{#if:{{{top|}}}|top:{{{top}}};|}}{{#if:{{{left|}}}|left:{{{left}}};|}} {{{style|}}}" {{#ifeq:{{{title|}}}|0||title="{{#ifeq:{{{title|1}}}|1|Galactic Credits|{{{title|}}}}}"|}}>[[File:Uprising_Icon_Credits.png|{{{align|middle}}}|link={{{link|}}}|{{#switch:{{lc:{{{size|sm}}}}}<!--
+-->|exsm<!--
+-->|exsmall<!--
+-->|exrasmall=12px<!--
+-->|sm<!--
+-->|small=18px<!--
+-->|med<!--
+-->|medium=28px<!--
+-->|#default={{{size|}}}<!--
+-->}}]]</span></onlyinclude>
+[[Category:Star Wars Uprising icons]]

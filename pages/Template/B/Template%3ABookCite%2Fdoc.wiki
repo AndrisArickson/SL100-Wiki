@@ -1,0 +1,50 @@
+This template is to be used for [[Wookieepedia:Sourcing|citing]] physical publications (books, magazines, newspapers, etc.) that are not licensed by [[Lucasfilm]]. To cite a licensed publication, simply cite a link to its [[Wookieepedia]] article.
+
+For audiovisual media, see {{Tl|VisualMediaCite}}.
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many fields as you can, and remove any that you don't use.
+
+<code><nowiki>{{BookCite|author=|container=|title=|contributor=|version=|number=|publisher=|date=|pages=|language=|isbn=|issn=|quote=|link=}}</nowiki></code>
+
+===Parameters===
+*{{Para|author}}: Name(s) of the author(s). Must be formatted like "Last name, First name";  multiple authors must be separated with a ";" between their names. An author is not necessarily an individual and could be an organization. A long list of authors can be reduced using ", et al." after the first name. Provide wikilinks whenever they are available.
+*{{Para|container}}: Name of a specific part of a larger publication, such as an introduction, an essay, an article, a chapter in an anthology/collection, or an entry in an encyclopedia. Do not use this parameter for standalone publications with a single author. Quotation marks will be added automatically.
+*{{Para|title}}: Name of the publication being cited. Italic will be applied automatically. Provide wikilinks whenever they are available.
+*{{Para|contributor}}: Name(s) of contributor(s), such as the editor or the translator.
+*{{Para|version}}: Edition (ed.), reprint, etc.
+*{{Para|number}}: Specific volume, number, or issue. Must be formatted like "vol. 1" or "no. 2".
+*{{Para|publisher}}: Name of the publisher. Provide wikilinks whenever they are available.
+*{{Para|date}}: Date of publication. For books, write only the year. For periodicals, use the cover date, not the actual release date, and either use "Month YYYY" for monthly publication or when the day is unknown, or use [[Wikipedia:ISO 8601|ISO 8601]] YYYY-MM-DD format.
+*{{Para|pages}}: Page(s) relevant to the citation, formatted as "p. X" for a single page, or "pp. X-X" for several pages.
+*{{Para|language}}: Language of publication. English implied if not specified.
+*{{Para|isbn}}: [[Wikipedia:International Standard Book Number|International Standard Book Number]]. Will be linked to [[Special:BookSources]] automatically.
+*{{Para|issn}}: [[Wikipedia:International Standard Serial Number|International Standard Serial Number]]. Isn't linked, as there is no Special page to support it.
+*{{Para|quote}}: Relevant quote from publication. Double-quotes will be added automatically.
+*{{Para|link}}: Link to a web archive, such as [https://archive.org Archive.org library] or a archival link from the [https://web.archive.org Wayback Machine].
+
+==Examples==
+===Book===
+<code><nowiki>{{BookCite|author=Schreier, Jason|container=Star Wars 1313|title=Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|publisher=[[Wikipedia:Harper (publisher)|Harper]]|date=[[2017]]|isbn=0062651234}}</nowiki></code>
+
+Results in:
+
+{{BookCite|author=Schreier, Jason|container=Star Wars 1313|title=Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made|publisher=[[Wikipedia:Harper (publisher)|Harper]]|date=2017|isbn=0062651234}}
+
+===Montly magazine===
+<code><nowiki>{{BookCite|author=Lansing, Max|container=The Sci-Fi Channel celebrates the holidays with a banquet of special events and exclusive presentations|title=[[Wikipedia:Syfy|Sci-Fi Entertainment]]|number=Vol. 1 #4|publisher=Sovereign Media|date=December 1994|issn=1075-8860|link=https://archive.org/details/Sci-Fi_Entertainment_Vol._1_4_Dec_1994/page/n3/mode/2up?q{{=}}%22The+Making+of+The+Empire+Strikes+Back%22}}</nowiki></code>
+
+Results in:
+
+{{BookCite|author=Lansing, Max|container=The Sci-Fi Channel celebrates the holidays with a banquet of special events and exclusive presentations|title=[[Wikipedia:Syfy|Sci-Fi Entertainment]]|number=Vol. 1 #4|publisher=Sovereign Media|date=December 1994|issn=1075-8860|link=https://archive.org/details/Sci-Fi_Entertainment_Vol._1_4_Dec_1994/page/n3/mode/2up?q{{=}}%22The+Making+of+The+Empire+Strikes+Back%22}}
+
+===Daily newspaper===
+<code><nowiki>{{BookCite|author=Barling, Lorne|container=The threat of video games to toy shops|title=[[Wikipedia:Financial Times|Financial Times]]|date=1983-04-07|pages=p. 12|issn=0307-1766|link=https://archive.org/details/FinancialTimes1983UKEnglish/Apr%2007%201983%2C%20Financial%20Times%2C%20%2329042%2C%20UK%20%28en%29/page/n11/mode/2up}}</nowiki></code>
+
+Results in:
+
+{{BookCite|author=Barling, Lorne|container=The threat of video games to toy shops|title=[[Wikipedia:Financial Times|Financial Times]]|date=1983-04-07|pages=p. 12|issn=0307-1766|link=https://archive.org/details/FinancialTimes1983UKEnglish/Apr%2007%201983%2C%20Financial%20Times%2C%20%2329042%2C%20UK%20%28en%29/page/n11/mode/2up}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:External media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

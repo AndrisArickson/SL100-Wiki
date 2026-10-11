@@ -1,0 +1,22 @@
+{| class="plainlinks headerbackground" style="background-color:#F9F9F9; border:1px solid #AAA; padding:5px; color:black;"
+|-
+|[[File:Information_icon.svg|40px]]
+|
+|'''Instructions for providing a backup link'''
+In accordance with our [[Wookieepedia:Sourcing|Sourcing policy]], all links to external sites ''must'' include a link to a backup version, preferably using [https://archive.org Internet Archive]. Instances that do not include one of the following parameters will result in the page being placed in the [[:Category:Pages with missing permanent archival links|maintenance category]].
+Please only use '''one''' of the following parameters.
+*'''<code>|archivedate={{CURRENTTIMESTAMP}}</code>'''<br />This parameter uses the timestamp feature of Internet Archive. The URL supplied earlier in the template, along with <code>archivedate</code>, will provide a link to Internet Archive.
+*'''<code>|archiveurl=https://ghostarchive.org/archive/BMkCj</code>'''<br />If Internet Archive does not work for the link in question, you can use <code>archiveurl</code> to provide a full URL to another backup website, such as [https://ghostarchive.org Ghostarchive] or [https://megalodon.jp Megalodon].
+*'''<code>|archivefile=File:Jon_Favreau_The_Mandalorian.png</code>'''<br />If none of the archiving sites work, then upload a screenshot of the page, add {{Tl|Notorphan}} to the file page and include it in [[:Category:Screenshots of social media posts|this category]] and on [[Wookieepedia:Social media screenshots|this page]], and provide a link to the file {{C|per [[Wookieepedia:Mofferences/June 29, 2014]]}}.
+*'''<code>|nobackup=1</code>'''<br />If no backup link can be found for content that is no longer available, this parameter can be used. If the content is still available, you can screenshot and [[Wookieepedia:Website screenshots|upload it to Wookieepedia]] instead.
+*'''<code>|nolive=1</code>'''<br />If the original content is no longer available, this parameter can be used, which will make the template add "content now obsolete;" to the citation. This may also mean a backup link can no longer be provided, and therefore may be used as well as <code>|nobackup=1</code>. Some citation templates such as {{Tl|SWArchive}} link to older content that is known to be no longer available, and therefore automatically default to <code>|nolive=1</code> without the need to add the parameter manually.
+*'''<code>|oldversion=<archivedate></code>'''<br />If a reference needs to cite an older version of a page for content that has been removed from the version saved in ArchiveAccess, this parameter must be used. This suppresses the tracking categories for custom archive values, and protects the reference from replacement by {{U|C4-DE Bot}}.
+
+Note that for citation templates using a [[:Category:Internet citation template archives|central repository]], archivedate and archiveurl values must be added to the repository, and not on the individual instance of those templates. If this template uses one, it is located at [[Module:ArchiveAccess/{{#titleparts:{{{1|{{PAGENAME}}}}}|1}}]].
+
+|}{{#ifexist:Module:ArchiveAccess/{{#titleparts:{{{1|{{PAGENAME}}}}}|1}}|
+Maintenance categories:
+*[[:Category:{{#titleparts:{{{1|{{PAGENAME}}}}}|1}} usages with archived URLs not in Archive]]
+*[[:Category:{{#titleparts:{{{1|{{PAGENAME}}}}}|1}} usages with custom archivedate]]
+*[[:Category:{{#titleparts:{{{1|{{PAGENAME}}}}}|1}} usages with the same archivedate value]]
+|}}<noinclude>{{Documentation}}</noinclude>

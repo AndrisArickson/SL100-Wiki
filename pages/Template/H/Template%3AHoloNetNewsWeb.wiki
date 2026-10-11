@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=HoloNetNewsWeb
+|image=[[File:HNNsmall.jpg|baseline|link=HoloNet News/Legends]]
+|site_text=[[HoloNet News Vol. 531 {{{issue|{{{1}}}}}}|''HoloNet News Vol. 531'' {{#if:{{{issue|{{{1}}}}}}|&#35;{{{issue|{{{1}}}}}}|}}]]
+|base_url=http://www.holonetnews.com
+|target_url={{{issue|{{{1|}}}}}}/{{{url|{{{2|}}}}}}
+|text={{{text|{{{3|Main Page}}}}}}
+|use_lua_subpage=1
+|defunct_site=1
+|allow_unnamed=3
+|separator=&mdash;
+}}</includeonly><noinclude>{{Top|sprot}}{{Documentation}}</noinclude>

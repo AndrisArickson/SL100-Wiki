@@ -1,0 +1,94 @@
+{{#if:{{{saga|}}}
+|{{Nav_start|[[Musical score|Concert Suites]] from the [[Star Wars saga|''Star Wars'' saga]] films}}
+{{Nav_heading|Written for Episode IV}}
+{{Nav_text|[[Star Wars Main Title|Main Title]] &middot; [[Princess Leia's Theme|The Princess Theme]] &middot; [[Jawa Sandcrawler|The Little People]] &middot; "[[Mad About Me|Cantina Band]]" <br /> "[[Here They Come!]]" &middot; "[[The Battle]]" &middot; "[[The Throne Room|Throne Room and Finale]]"}}
+
+{{Nav_heading|Written for Episode V}}
+{{Nav_text|[[The Imperial March|Darth Vader's Theme]] &middot; [[Yoda's Theme]] &middot; "[[The Asteroid Field]]" &middot; "[[Han Solo and the Princess]]" &middot; "[[Finale]]"}}
+
+{{Nav_heading|Written for Episode VI}}
+{{Nav_text|[[Jabba's theme|Jabba the Hutt]] &middot; "[[Parade of the Ewoks]]" &middot; [[Luke and Leia]] &middot; "[[The Forest Battle|The Battle in the Woods]]"}}
+
+{{Nav_heading|Written for Episode I}}
+{{Nav_text|[[The Adventures of Jar Jar]] &middot; [[Anakin's Theme]] &middot; [[The Flag Parade]]" &middot; "[[Duel of the Fates]]" &middot; }}
+
+{{Nav_heading|Written for Episode II}}
+{{Nav_text|"[[Across the Stars]]"}}
+
+{{Nav_heading|Written for Episode III}}
+{{Nav_text|"[[Battle of the Heroes]]"}}
+
+{{Nav_heading|Written for Episode VII}}
+{{Nav_text|[[March of the Resistance]] &middot; [[Rey's Theme]] &middot; "[[Scherzo for X-Wings]]" &middot; "[[Jedi Steps]]" &middot; "[[Adagio]]"}}
+
+{{Nav_heading|Written for Episode VIII}}
+{{Nav_text|"[[The Rebellion Is Reborn]]"}}
+
+{{Nav_heading|Written for Episode IX}}
+{{Nav_text|"[[Anthem of Evil]]" &middot; [[Psalm of the Sith]] &middot; "[[The Rise of Skywalker (music)|The Rise of Skywalker]]" &middot; "[[Rey and Ben]]" &middot; "[[The Speeder Chase]]"}}
+{{Nav_heading|See also: [[:Template:Concert Suites|all concert suites]]}}
+{{Nav_end|edit=ConcertSuitesNav}}|{{Nav_start|[[Musical score|Concert Suites]]}}
+{{Nav_heading|Written for Episode IV}}
+{{Nav_text|[[Star Wars Main Title|Main Title]] &middot; [[Princess Leia's Theme|The Princess Theme]] &middot; [[Jawa Sandcrawler|The Little People]] &middot; "[[Mad About Me|Cantina Band]]" <br /> "[[Here They Come!]]" &middot; "[[The Battle]]" &middot; "[[The Throne Room|Throne Room and Finale]]"}}
+
+{{Nav_heading|Written for Episode V}}
+{{Nav_text|[[The Imperial March|Darth Vader's Theme]] &middot; [[Yoda's Theme]] &middot; "[[The Asteroid Field]]" &middot; "[[Han Solo and the Princess]]" &middot; "[[Finale (music)|Finale]]"}}
+
+{{Nav_heading|Written for Episode VI}}
+{{Nav_text|[[Jabba's theme|Jabba the Hutt]] &middot; "[[Parade of the Ewoks]]" &middot; [[Luke and Leia]] &middot; "[[The Forest Battle|The Battle in the Woods]]"}}
+
+{{Nav_heading|Written for Episode I}}
+{{Nav_text|[[The Adventures of Jar Jar]] &middot; [[Anakin's Theme]] &middot; [[The Flag Parade]]" &middot; "[[Duel of the Fates]]" &middot; }}
+
+{{Nav_heading|Written for Episode II}}
+{{Nav_text|"[[Across the Stars]]"}}
+
+{{Nav_heading|Written for Episode III}}
+{{Nav_text|"[[Battle of the Heroes]]"}}
+
+{{Nav_heading|Written for Episode VII}}
+{{Nav_text|[[March of the Resistance|Resistance]] &middot; [[Rey's Theme|Rey]] &middot; "[[Scherzo for X-Wings]]" &middot; "[[Jedi Steps]]" &middot; "[[Adagio]]"}}
+
+{{Nav_heading|Written for Rogue One}}
+{{Nav_text|"[[The Imperial Suite]]" &middot; "[[Jyn Erso & Hope Suite]]" &middot; "[[Guardians of the Whills Suite]]"}}
+
+{{Nav_heading|Written for Episode VIII}}
+{{Nav_text|"[[The Rebellion Is Reborn]]"}}
+
+{{Nav_heading|Written for Solo}}
+{{Nav_text|"[[The Adventures of Han]]"}}
+
+{{Nav_heading|Written for Episode IX}}
+{{Nav_text|"[[Anthem of Evil]]" &middot; "[[Psalm of the Sith]]" &middot; "[[The Rise of Skywalker (music)|The Rise of Skywalker]]" &middot; "[[Rey and Ben]]" &middot; "[[The Speeder Chase]]"}}
+
+{{Nav_heading|Written for ''Galaxy's Edge''}}
+{{Nav_text|[[Star Wars: Galaxy's Edge Symphonic Suite]]}}
+
+{{Nav_heading|Written for ''The Mandalorian''}}
+{{Nav_text|[[Din Djarin's theme|The Mandalorian]]}}
+
+{{Nav_heading|Written for ''The Bad Batch''}}
+{{Nav_text|"[[Omega's Theme]]"}}
+
+{{Nav_heading|Written for ''The Book of Boba Fett''}}
+{{Nav_text|[[The Book of Boba Fett (theme)|The Book of Boba Fett]]}}
+
+{{Nav_heading|Written for ''Obi-Wan Kenobi''}}
+{{Nav_text|[[Obi-Wan Kenobi's theme|Obi-Wan]]}}
+
+{{Nav_heading|See also: [[:Template:Songs|Songs]]}}
+{{Nav_end|edit=ConcertSuitesNav}}}}<noinclude>
+==Usage==
+Options '''in bold''':
+*{{C|Since Wookieepedia cannot handle more than one #if parser function for this specific template, there is only one optional parameter for this template:}}
+ <nowiki>{{</nowiki>Themes|saga=1}}
+:The above should be used on articles on '''themes/leitmotifs that originated from the [[Star Wars saga|nine saga films]]'''.
+*For '''themes/leitmotifs that originated from non-saga films''', excluding those that directly tie in to television series, {{C|i.e. [[Star Wars: The Clone Wars (film)|''The Clone Wars'']]}} use {{Tl|Themes/Film}}
+*For '''themes/leitmotifs that originated from television series''', use {{Tl|Themes/TV}}
+*For '''themes/leitmotifs that originated from [[Star Wars video games|video games]]''', use {{Tl|Themes/Game}}
+*For '''themes/leitmotifs that originated from any ''[[Star Wars: Galaxy's Edge]]'' media''', use {{Tl|Galaxy's Edge music}}
+*For '''songs''', {{C|songs are ''not'' themes/leitmotifs}} see the instructions [[Template:Songs|here]].
+*If an article on a theme/leitmotif fulfills '''none of the above''' criteria, simply use the following, but avoid doing so wherever possible due to the length of the full template:
+ <nowiki>{{</nowiki>Themes}}
+
+[[Category:Music navigation templates|Themes]]</noinclude>

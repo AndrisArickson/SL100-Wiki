@@ -1,0 +1,7 @@
+{{{1|}}}&#32;&mdash;&#32;{{{2|}}} exclusive trailer<noinclude>
+
+==Usage==
+Place the following code on the page and replace the "MEDIA" with a link to the appropriate media page, using the <nowiki>{{Film}}</nowiki> or other citation templates if appropriate, and "EVENT" with the event the trailer was shown at.
+<nowiki>{{</nowiki>ExclusiveTrailerCite|''MEDIA''|''EVENT''}}
+
+[[Category:Citation templates]]</noinclude>

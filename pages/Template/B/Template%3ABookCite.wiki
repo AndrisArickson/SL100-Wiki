@@ -1,0 +1,31 @@
+<includeonly><span class="mti"></span>{{#if: {{{author|}}}|{{{author|}}}.
+}}{{#if: {{{container|}}}| {{#if: {{{author|}}}
+    |&#32;"{{{container|}}}".
+    |"{{{container|}}}".}}
+}}{{#if: {{{title|}}}| {{#if: {{{author|}}}{{{container|}}}
+    |&#32;''{{{title|}}}''
+    |''{{{title|}}}''}}
+}}{{#if: {{{contributor|}}} |{{#if: {{{title|}}}
+    |, {{{contributor|}}}
+    |&#32;{{{contributor|}}}}}
+}}{{#if: {{{version|}}} |{{#if: {{{title|}}}{{{contributor|}}}
+    |, {{{version|}}}
+    |&#32;{{{version|}}}}}
+}}{{#if: {{{number|}}} |{{#if: {{{title|}}}{{{contributor|}}}{{{version|}}}
+    |, {{{number|}}}
+    |&#32;{{{number|}}}}}
+}}{{#if: {{{publisher|}}} |{{#if: {{{title|}}}{{{contributor|}}}{{{version|}}}{{{number|}}}
+    |, {{{publisher|}}}
+    |&#32;{{{publisher|}}}}}
+}}{{#if: {{{date|}}} |{{#if: {{{title|}}}{{{contributor|}}}{{{version|}}}{{{number|}}}{{{publisher|}}}
+    |, {{{date|}}}
+    |&#32;{{{date|}}}}}
+}}{{#if: {{{pages|}}} |{{#if: {{{title|}}}{{{contributor|}}}{{{version|}}}{{{number|}}}{{{publisher|}}}{{{date|}}}
+    |, {{{pages|}}}
+    |&#32;{{{pages|}}}}}
+}}{{#if: {{{title|}}}{{{contributor|}}}{{{number|}}}{{{version|}}}{{{publisher|}}}{{{date|}}}{{{pages|}}} |.
+}}{{#if: {{{language|}}} |&#32;{{{language|}}}. 
+}}{{#if: {{{isbn|}}} |&#32;{{ISBN|{{{isbn|}}}}}. 
+}}{{#if: {{{issn|}}} |&#32;ISSN {{{issn|}}}. 
+}}{{#if: {{{quote|}}} |&#32;"{{{quote|}}}" 
+}}{{#if: {{{link|}}} |&#32;{{C|[{{{link|}}} web archive]}} }}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

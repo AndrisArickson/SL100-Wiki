@@ -1,0 +1,8 @@
+<includeonly><div class="noprint darkbackground1" style="background: #f2f5fd; font-size: 0.85em; text-align: center; margin: 0 auto 3px auto; overflow: auto; border-radius: 10px; padding: 5px 0"><!--
+-->{{#ifexpr:{{#expr:{{#if:{{{artbook|}}}|1|0}}+{{#if:{{{imagecat|}}}|1|0}}}}>1
+    |Explore all of Wookieepedia's concept art for this article subject:<br />'''[[:Category:{{{imagecat}}}|Concept art]]'''&nbsp;·&nbsp;'''[[:Category:Images from {{{artbook}}}|Art book]]'''
+    |{{#if:{{{imagecat|}}}|Explore all of Wookieepedia's '''[[:Category:{{{imagecat}}}|concept art]]''' for this article subject.|}}
+}}</div><!--
+-->{{#if:{{{imagecat|}}}|{{#ifexist:Category:{{{imagecat}}}||{{#ifeq:{{NAMESPACE}}||[[Category:Broken Mediacat category links]]|}}}}}}<!--
+-->{{#if:{{{artbook|}}}|{{#ifexist:Category:Images from {{{artbook}}}||{{#ifeq:{{NAMESPACE}}||[[Category:Broken Mediacat category links]]|}}}}}}<!--
+--></includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,143 @@
+===Colors===
+The <code>type</code> parameter determines the color of the infobox. The options are:
+*Athlete
+*Bounty hunter
+*Bureaucrat
+*Chiss Ascendancy
+*CIS
+*Confederation
+*Corporate
+*Criminal
+*Dark Jedi
+*Dathomiri
+*Eternal Empire
+*First Order
+*Galactic Empire
+*Galactic Republic
+*GFFA
+*Hutt Cartel
+*Infinite Empire
+*Je'daii
+*Jedi
+*Mandalorian
+*Musician
+*New Republic
+*Nihil
+*Pet
+*Rebel
+*Resistance
+*Sith
+*Sith Empire
+*Yuuzhan Vong
+
+===Usage===
+====Required parameters====
+Paste the following code into the top of an article, filling all known fields:
+<pre><nowiki>{{Top}}
+{{Character
+|type=
+|image=
+|name=
+|homeworld=
+|birth=
+|death=
+|species=
+|gender=
+|pronouns=
+|height=
+|mass=
+|hair=
+|feathers=
+|eyes=
+|skin=
+|cyber=
+|families=
+|parents=
+|partners=
+|siblings=
+|children=
+|affiliation=
+|masters=
+|apprentices=
+}}</nowiki></pre>
+
+*Note that a character may have multiple homeworlds&mdash;it could be the world on which they were born, and also the world on which they were raised.
+*Per [[Forum:CT:Partner Field CT - Part the Second]], additions to the partners field should meet at least one of the criteria defined on '''[[Template:Character/doc/partners]]'''.
+*The parents, siblings, and children fields may include adopted individuals.
+*Affiliations that a character stopped abiding by should '''not''' be specified with "{{C|formerly}}" or "{{C|renounced}}" as Wookieepedia treats everything as having happened in the past, and in the interest of maintaining consistency and avoiding clutter.
+
+====Optional parameters====
+*If applicable, a {{Para|donor}} parameter may be added between {{Para|pronouns}} and {{Para|height}} to showcase individual(s) from which the article subject was cloned, '''not''' their biological or cultural parental figure. Example for [[Luuke Skywalker]]:
+<pre><nowiki>
+|donor=[[Luke Skywalker/Legends|Luke Skywalker]]
+</nowiki></pre>
+:→<small>See [[Forum:CT:Clones and Infoboxes - Part One]]</small>
+
+*If applicable, the following parameters may be added between {{Para|cyber}} and {{Para|families}} to document a character's musical information.
+<pre><nowiki>
+|genre=
+|instruments=
+|songs=
+|albums=
+|collaboration=
+</nowiki></pre>
+*For pet characters, an {{Para|owners}} parameter may be added at the end of the template. This field should '''not''' be used for enslaved individuals.
+:→<small>See [[Forum:CT:Merging the Pet infobox with Character]]</small>
+
+*If applicable, an infobox gallery can be added, '''pursuant to the requirements outlined in the [[Wookieepedia:Layout Guide/In-universe|in-universe Layout Guide]]'''.
+<pre><nowiki>
+|image=
+|option1=
+|image2=
+|option2=
+|image3=
+|option3=
+</nowiki></pre>
+:→<small>See [[Forum:CT:Infobox image galleries]]
+
+===Example===
+{{Character
+|type=Galactic Republic
+|image=[[File:Padmegreenscrshot.jpg]]
+|caption=XXX
+|name=Padmé Amidala
+|homeworld=[[Naboo]]
+|birth=[[46 BBY]], Naboo
+|death=[[19 BBY]], [[Polis Massa]] {{C|2 [[Standard day|days]] after [[Empire Day]]}}
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}
+|gender=[[Gender|Female]]
+|pronouns=She/her
+|height=1.65 [[meter]]s (5 [[Foot|ft]] 5 in)
+|mass=
+|hair=[[Color|Brown]]
+|feathers=
+|eyes=Brown
+|skin=Light
+|cyber=
+|families=*[[Naberrie family]]
+*[[Skywalker family]] {{C|through [[marriage]]}}
+|parents=*[[Jobal Naberrie]]
+*[[Ruwee Naberrie]]
+|spouses=[[Anakin Skywalker]]
+|siblings=[[Sola Naberrie]]
+|children=*[[Luke Skywalker]]
+*[[Leia Skywalker Organa Solo]]
+|affiliation=*[[Refugee Relief Movement]]
+*[[Apprentice Legislature]]
+*[[Legislative Youth Program]]
+*[[Royal House of Naboo]]
+*[[Galactic Republic]]
+**[[Naboo delegation]]
+**[[Loyalist Committee]]
+**[[Delegation of 2,000]]
+|masters=[[Mina Bonteri]] {{C|mentor}}
+|apprentices=
+}}
+
+{{Interlang
+|fr=Modèle:Personnage
+}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Character infobox templates|{{PAGENAME}}]]</includeonly><noinclude>{{Top|sprot|mprot}}[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

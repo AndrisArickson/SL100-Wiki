@@ -1,0 +1,7 @@
+{{#if:{{{2|}}}|[[{{{1|}}}|{{{2|}}}]]|''[[{{{1|}}}]]''}} in ''[[Fortnite]]''<noinclude>
+===Examples===
+<nowiki>{{Fortnite|Star Wars: Droid Tycoon}}</nowiki>
+
+*{{Fortnite|Star Wars: Droid Tycoon}}
+
+[[Category:Game citation templates]]</noinclude>

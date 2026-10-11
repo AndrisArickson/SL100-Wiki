@@ -1,0 +1,16 @@
+{{SmallMB
+|image=[[File:Dialog-warning.svg|35px]]
+|message='''This {{#switch:{{#explode:{{PAGENAME}}|.|-1}}|gif=[[wikipedia:GIF|'''GIF''']]|webm=[[wikipedia:WebM|'''WebM''']]|}} [[Wikipedia:GIF#Animated_GIF|animation]] or [[Wikipedia:Internet_video|video]] [[Wikipedia:Computer_file|file]] was ''approved for mainspace usage via a [[Wookieepedia:Consensus#Animation and video consensus votes|community consensus vote]]'''''. '''You can find the relevant discussion [[{{{1|}}}|here]]'''.
+}}<includeonly>[[Category:Animations or videos approved for mainspace usage]]</includeonly><noinclude>
+
+==Usage==
+<code><nowiki>{{FileVoteNotice|</nowiki>{{Var|discussion}}}}</code>
+
+==Categorization==
+*[[:Category:Animations or videos approved for mainspace usage]]
+
+==See also==
+*[[Forum:SH:CON tweaks and vote notice templates]]
+*[[Forum:CT:CON tweaks/Vote notice templates]]
+
+[[Category:File advisory templates|{{PAGENAME}}]]</noinclude>

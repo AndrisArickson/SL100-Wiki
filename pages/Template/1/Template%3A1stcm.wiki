@@ -1,0 +1,16 @@
+<small>(First [[canon]]ically mentioned{{#ifeq:{{#sub:{{{1|}}}|0|3}}|in |&nbsp;{{{1|}}}|{{#if:{{{1|}}}|, simultaneous with {{{1}}}|}}|}}{{#ifexpr:{{#len:{{{1|}}}}} < 1000
+|{{#ifexpr:{{#count:{{{1|}}}|audiobook}}
+  |{{#ifexpr:{{#count:{{{1|}}}|(abridged}} > 0||[[Category:1st usages with audiobook in parameter|{{PAGENAME}}]]}}
+  |}}
+|}})</small><noinclude>
+
+==Usage==
+{{Tlp|1stcm|''simultaneous mentions''}}
+
+==Example==
+{{1stcm|''[[The Empire Strikes Back Storybook]]''}}
+
+==Code==
+<code><nowiki>{{1stcm|''[[The Empire Strikes Back Storybook]]''}}</nowiki></code>
+
+[[Category:First-notation appearance templates|{{PAGENAME}}]]</noinclude>

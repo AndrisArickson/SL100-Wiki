@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Haynes
+|image=[[File:Haynes-Template.svg|text-top|x16px|link=https://www.haynes.com]]
+|site_text=[[Haynes Publishing]]'s [https://www.haynes.com official website]
+|base_url=https://{{{subdomain|www}}}.haynes.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

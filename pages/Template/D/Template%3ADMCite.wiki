@@ -1,0 +1,10 @@
+[[:{{{dm}}}|Direct message]] from {{{creator|}}}{{#if:{{{date|}}}|&#32; on {{#time:[[F j]], [[Y]]|{{{date}}}}}{{#if:{{#pos:{{{date}}}|-}}||[[Category:Direct message citations not using full date]]}}|}}{{#if:{{{quote|}}}|<small>: "{{{quote}}}"</small>}} &mdash; Used with permission<noinclude>
+
+<nowiki>{{DMCite|dm=|creator=|date=|quote=}}</nowiki>
+
+Tests:
+
+*{{DMCite|dm=File:LilyMansfield-Santaram2-Twitter.png|creator=[[Lily Mansfield]]|date=2022-01-03}}
+*{{DMCite|dm=File:LilyMansfield-Santaram2-Twitter.png|creator=[[Lily Mansfield]]|date=2022-01-03|quote=Long story short, I reached out to the seller and...}}
+
+[[Category:External media citation templates]]</noinclude>

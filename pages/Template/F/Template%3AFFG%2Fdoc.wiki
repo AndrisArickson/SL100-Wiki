@@ -1,0 +1,23 @@
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{FFG|book=|text=|story=|stext=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|book}} Link to the book's [[Wookieepedia]] article.
+*{{Para|story}} Link to story's Wookieepedia article.
+
+===Optional parameters===
+*{{Para|text}} Formatted title of the book.
+*{{Para|stext}} Formatted title of the story.
+
+==Example(s)==
+<code><nowiki>{{FFG|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit|story=Dead in the Water|stext=Dead in the ''Water''}}</nowiki></code>
+
+Results in:
+
+{{FFG|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit|story=Dead in the Water|stext=Dead in the ''Water''}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

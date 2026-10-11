@@ -1,0 +1,25 @@
+This template is to be used for citing individual pages on the [[wikipedia:App Store (Apple)|Apple App Store]].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<pre>{{AppStore|domain=|url=|text=|archivedate=|archiveurl=|nobackup=}}</pre>
+
+===Required parameters===
+*'''domain''': Put <code>es</code> or <code>jp</code> here if the page being cited is located on the respective domain. If blank, it will default to <code>us</code>.
+*'''url''': URL of the web page, minus the following: (<code><nowiki>https://apps.apple.com/domain/app/</nowiki></code>).
+*'''text''': Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{AppStore|url=star-wars-galaxy-of-heroes/id921022358|text=Star Wars&trade;: Galaxy of Heroes}}</nowiki></code>
+
+Results in:
+
+{{AppStore|url=star-wars-galaxy-of-heroes/id921022358|text=Star Wars&trade;: Galaxy of Heroes}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

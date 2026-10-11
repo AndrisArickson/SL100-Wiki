@@ -1,0 +1,19 @@
+[https://starwars.fandom.com/f/u/{{{1}}} {{{2|posts}}}]<noinclude>
+__NOTOC__
+==Usage==
+<code><nowiki>{{UP|</nowiki>{{var|user}}<nowiki>|</nowiki>{{var|text}}<nowiki>}}</nowiki></code>
+
+For linking a user's [[Wookieepedia:Discussions|Discussions]] forum posts, which are accessible via their username or profile picture anywhere within the Discussions space. This page is separate from their userpage, which can only display posts in a limited format under the "Activity" tab.
+
+===Required parameter===
+#{{para| |{{var|user}}}} The user's forum ID number. This is the eight-digit numeric value found after "<code><nowiki>https://starwars.fandom.com/f/u/</nowiki></code>" in the URL of the page containing their posts. Do not include any other text.
+
+===Optional parameter===
+#<li value="2">{{para| |{{var|text}}}} The hyperlink display text, preferably the user's name. This should always be specified; otherwise "posts" is the default.</li>
+
+==Example(s)==
+*<code><nowiki>{{UP|31522343}}</nowiki></code> will display {{FU|31522343}}.
+*<code><nowiki>{{UP|31522343|Givinname's posts}}</nowiki></code> will display {{FU|31522343|Givinname's posts}}.
+
+[[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,26 @@
+{{#invoke:BaseCitation|main|template=FigurineCite
+|mode=ref
+|series=Star Wars: The Official Figurine Collection
+|issue={{{1}}}
+|child={{{2}}}
+|lookupText=true
+|lookupType=RefMagazine
+|lookupCombine=true
+|lookupTextOnly=true
+|lookupTextValue={{{3|}}}
+|parentMode={{{parent|}}}
+|nolink=1
+}}<noinclude>
+
+==Usage==
+This template is to be used for issues of ''[[Star Wars: The Official Figurine Collection]]''. Place the following code on the page and replace the "issue number" with the appropriate information.
+ <nowiki>{{</nowiki>FigurineCite|ISSUE NUMBER|DEPARTMENT}}
+
+==Examples==
+<code><nowiki>{{FigurineCite|48|Species and Beings}}</nowiki></code>
+
+Results in:
+
+{{FigurineCite|48|Species and Beings}}
+
+[[Category:Reference magazine citation templates|FigurineCite]]</noinclude>

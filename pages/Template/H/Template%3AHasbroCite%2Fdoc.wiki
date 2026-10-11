@@ -1,0 +1,56 @@
+This template is to be used for citing individual [[Hasbro|Hasbro ''Star Wars'']] toys, primarily using the product pages found on [https://hasbropulse.com/ hasbropulse.com]. To cite individual pages on the official Hasbro ''[[Star Wars]]'' [https://starwars.hasbro.com/en-us website], use {{Tl|Hasbro}}.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{HasbroCite|set=|text=|pack=|link=|altlink=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*Either of the two following:
+**{{Para|link}} URL of the pack's web page, minus the domain name (<code><nowiki>https://hasbropulse.com/</nowiki></code>).
+**{{Para|altlink}} Full URL of the pack's page on a website other than hasbropulse.com.
+
+===Optional parameters===
+*{{Para|text}} Formatted name of the collection.
+*{{Para|archivedate}} The default values for dates are centralized at [[Module:ArchiveAccess/HasbroCite]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+;Using the /Archive central repository
+<code><nowiki>{{HasbroCite|set=Star Wars: The Vintage Collection|pack=Fennec Shand (''The Book of Boba Fett'')|link=products/star-wars-the-vintage-collection-fennec-shand}}</nowiki></code>
+
+Results in:
+
+{{HasbroCite|set=Star Wars: The Vintage Collection|pack=Fennec Shand (''The Book of Boba Fett'')|link=products/star-wars-the-vintage-collection-fennec-shand}}
+
+<hr />
+;Using archiveurl
+<code><nowiki>{{HasbroCite|set=Star Wars: The Vintage Collection|pack=#386: Marrok|link=product/star-wars-the-vintage-collection-marrok/G26165X00}}</nowiki></code>
+
+Results in:
+
+{{HasbroCite|set=Star Wars: The Vintage Collection|pack=#386: Marrok|link=product/star-wars-the-vintage-collection-marrok/G26165X00}}
+
+<hr />
+;Pack without a link
+<code><nowiki>{{HasbroCite|set=Star Wars Saga|pack=Wampa (Hoth Attack)}}</nowiki></code>
+
+Results in:
+
+{{HasbroCite|set=Star Wars Saga|pack=Wampa (Hoth Attack)}}
+
+<hr />
+;Set only; no pack or link
+<code><nowiki>{{HasbroCite|set=Star Wars Saga}}</nowiki></code>
+
+Results in:
+
+{{HasbroCite|set=Star Wars Saga}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

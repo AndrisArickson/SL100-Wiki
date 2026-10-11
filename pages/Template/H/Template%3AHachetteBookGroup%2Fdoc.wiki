@@ -1,0 +1,34 @@
+This template is to be used for citing individual pages on [https://www.hachettebookgroup.biz Hachette Book Group's business portal website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{HachetteBookGroup|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.hachettebookgroup.biz/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+===Unneccesary parameters===
+*{{Para|nolive}} As the original online content is no longer available, the template will automatically add "content now obsolete;" to the citation, and therefore does '''<u>NOT</u>''' require the use of "<code>|nolive=1</code>" like with other citation templates.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{HachetteBookGroup|url=titles/marvel-comics/star-wars-age-of-rebellion/9781302917074|text=Star Wars: Age Of Rebellion|archivedate=20190730215001}}</nowiki></code>
+
+Results in:
+
+{{HachetteBookGroup|url=titles/marvel-comics/star-wars-age-of-rebellion/9781302917074|text=Star Wars: Age Of Rebellion|archivedate=20190730215001}}
+
+<hr />
+<code><nowiki>{{HachetteBookGroup|url=titles/disney-book-group/star-wars-rebels-storybook-library-btms-custom-pub/9781484725337|text=Star Wars Rebels: Storybook Library (BTMS Custom Pub)|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{HachetteBookGroup|url=titles/disney-book-group/star-wars-rebels-storybook-library-btms-custom-pub/9781484725337|text=Star Wars Rebels: Storybook Library (BTMS Custom Pub)|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

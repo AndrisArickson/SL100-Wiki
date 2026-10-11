@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DeviantArt
+|image=[[File:DeviantArt-Logo.svg|text-top|x16px|link=https://www.deviantart.com]]
+|site_text=[https://www.deviantart.com DeviantArt]
+|base_url=https://{{{subdomain|www}}}.deviantart.com
+|target_url={{{url|{{{username|}}}}}}
+|username={{{username|}}}
+|is_post={{{url|}}}
+|author={{{name|}}}
+|use_lua_subpage=1
+|social_media=1
+|exclude_at_symbol=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

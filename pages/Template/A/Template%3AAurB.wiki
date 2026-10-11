@@ -1,0 +1,30 @@
+{{#invoke:Aurebesh|bold|size={{#if:{{{size|}}}|{{{size}}}|}}}}<noinclude>
+==Usage==
+<code><nowiki>{{AurB|letter #1|letter #2|letter #3|letter #4|letter #5|</nowiki>''etc.''}}</code>
+
+===Note on punctuation===
+Aurebesh differentiates between left and right single and double quotation marks/apostrophes, therefore passing a bare " or ' to this template will not work. Either pass them as <code>"l</code> and <code>"r</code> (for left and right double quotes), and <code>'l</code> and <code>'r</code> (for left and right single quotes or apostrophes), or use curly quotes (<code>“”‘’</code>).
+
+For a full list of supported characters, see the <code>chars</code> table at [[Module:Aurebesh/data]].
+
+===Other Notes===
+*For writing in normal (un-bolded) Aurebesh, see [[Template:Aur]].
+*This template is '''not''' case sensitive.
+*Remember to leave [[Wikipedia:Digraph (orthography)|digraphs]] (ch, ae, oo, eo, kh, ng, sh, th) together.
+*This template only works properly with normal-sized (10 pt) font.
+
+==Example==
+Aurebesh &rArr; {{AurB|a|u|r|e|b|e|sh}}
+
+===Code===
+<tt><nowiki>{{AurB|a|u|r|e|b|e|sh}}</nowiki></tt>
+
+===Result===
+{{AurB|a|u|r|e|b|e|sh}}
+
+==See Also==
+*[[Template:Aur]]
+*[[Template:Cr]]
+
+[[Category:Aurebesh templates]]
+</noinclude>

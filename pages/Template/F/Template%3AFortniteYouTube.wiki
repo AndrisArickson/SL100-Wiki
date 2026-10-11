@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=FortniteYouTube
+|archive=YouTube
+|image=[[File:FortniteEcosystem-Icon.png|text-bottom|x18px|link=https://www.youtube.com/@fortnite]]
+|site_text=the official ''[[Fortnite]]'' [https://www.youtube.com/@fortnite YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

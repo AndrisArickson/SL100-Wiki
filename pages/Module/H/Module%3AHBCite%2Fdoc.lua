@@ -1,0 +1,1 @@
+The Lua implementation of {{Tl|HBCite}}; this and its [[Module:HBCite/data|dataset]] replace a large and unwieldy switch statement so that the template only requires the individual issue number, and the module then automatically returns the correct URL and name for the issue.

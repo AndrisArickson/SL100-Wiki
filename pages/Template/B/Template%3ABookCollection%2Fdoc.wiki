@@ -1,0 +1,48 @@
+==Usage==
+<pre>{{Top|}}
+{{BookCollection
+|image=
+|title=
+|author=
+|cover artist=
+|illustrator=
+|editor=
+|publisher=
+|release date=
+|other date=
+|media type=
+|pages=
+|isbn=
+|isbn2=
+|isbn3=
+|series=
+|preceded by=
+|followed by=
+}}
+</pre>
+
+===Required parameters===
+*{{Para|image}} Use the book's front cover.
+*{{Para|book name}} Use the official full name of the book as published.
+*{{Para|author}} Include the name of the author(s).
+*{{Para|cover artist}} Include the name of the cover artist(s).
+*{{Para|illustrator}} Include the name of the illustrator(s).
+*{{Para|editor}} Include the name of the editor(s).
+*{{Para|publisher}} Include the name of the publisher(s).
+*{{Para|release date}} Include the date in which the book was released.
+*{{Para|other date}} Include the date in which the book was rereleased.
+*{{Para|media type}} Specify if its <code>hardcover</code>, <code>paperback</code>, and/or <code>eBook</code>.
+*{{Para|pages}} Include the number of pages.
+*{{Para|isbn}} Use the book's [[Wikipedia:International Standard Book Number|ISBN]], which will automatically create a link to [[Special:Booksources]]. If one is not available, use <code>none</code>.
+*{{Para|series}} Include the series the book may be part of.
+*{{Para|preceded by}} Include the preceding book in the series.
+*{{Para|followed by}} Include the subsequent book in the series.
+
+===Optional parameters===
+*{{Para|isbn2}} As per {{Para|isbn}}, but for a second ISBN, if available. Leave the parameter blank if not required.
+*{{Para|isbn3}} As per {{Para|isbn}}, but for a third ISBN, if available. Leave the parameter blank if not required.
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Media infoboxes|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Infobox template documentation|{{PAGENAME}}]]</noinclude>

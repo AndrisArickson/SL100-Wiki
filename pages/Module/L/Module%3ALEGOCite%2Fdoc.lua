@@ -1,0 +1,1 @@
+This template replaces a large switch statement on {{Tl|LEGOCite}} and converts the "theme" parameter shorthand into the appropriate formatted link to the LEGO subtheme.

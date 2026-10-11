@@ -1,0 +1,19 @@
+{{ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The spelling of this article's title is conjectural.
+|message = {{#if: {{{legends|}}}
+  |Although this article's title is based on official information from the [[Star Wars Legends|''Star Wars'' Legends]] continuity, its actual spelling is pure conjecture.
+  |{{#if:{{{real|}}}
+    |Although this article's title is based on official information, its actual spelling is pure conjecture.
+    |Although this article's title is [[canon]]ical, its actual spelling is pure conjecture.
+}}}}}}<includeonly>{{SpecialCategorizer|[[Category:Articles with conjectural spelling|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+==Usage==
+For articles considered part of the Legends continuity, include the parameter "legends" with any value. Example: <nowiki>{{ConjectureSpelling|legends=1}}</nowiki>.
+
+For articles about real-world subjects, include the parameter "real" with any value. Example: <nowiki>{{ConjectureSpelling|real=1}}</nowiki>.
+
+==Categorization==
+*[[:Category:Articles with conjectural spelling]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

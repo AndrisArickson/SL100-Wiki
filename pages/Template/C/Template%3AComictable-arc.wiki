@@ -1,0 +1,9 @@
+|class="white-cell" colspan="3"|{{{1}}}
+{{{tpb|}}}
+|-<noinclude>
+
+==Usage==
+This template is used to create headings for story arcs in comic tables. Parameter {{Para|tpb}} is used to add collections using {{Tl|Comictable-tpb}}, where applicable.
+ <nowiki>{{</nowiki>Comictable-arc|''arc name''|tpb=}}
+
+[[Category:Utility templates]]</noinclude>

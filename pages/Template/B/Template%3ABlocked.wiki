@@ -1,0 +1,8 @@
+[[File:Dialog-error.svg|30px]] '''You have been [[Wookieepedia:Blocking policy|blocked]] from contributing''' for {{{reason|{{{1}}}}}}. To contest this block, please [[Wookieepedia:Contact|contact]] the blocking administrator with the reason you believe the block is unjustified. {{{2|}}}<!-- Template:Blocked --><noinclude>
+
+==Usage==
+To be subst'ed on user talk pages following a temporary block. Example usage would be '''<nowiki>{{Subst:Blocked|2 weeks}}</nowiki>'''. For long-term bans, use {{Tl|Banned}}.
+
+There's an optional second parameter which can be included for a signature: '''<nowiki>{{Subst:Blocked|2 weeks|~~~~}}</nowiki>'''
+{{TestTemplatesNotice}}
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

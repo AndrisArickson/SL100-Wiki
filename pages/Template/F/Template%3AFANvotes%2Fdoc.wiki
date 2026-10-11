@@ -1,0 +1,9 @@
+==Usage instructions==
+<code><nowiki>{{FANvotes|{{subst:FULLPAGENAME}}}}</nowiki></code>
+
+Note:
+*Use the actual fullpagename including namespace at the beginning, for example, '''Wookieepedia:Featured article nominations/Onager-class Star Destroyer'''. <span style="color: red;">Do <u>NOT</u> use the magic word <nowiki>{{FULLPAGENAME}}</nowiki> on its own</span> as the vote counts will be zero on pages such as [[Wookieepedia:Featured article nominations]].
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Status article templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

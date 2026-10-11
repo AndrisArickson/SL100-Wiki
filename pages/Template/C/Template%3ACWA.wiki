@@ -1,0 +1,22 @@
+{{Nav_start|[[Star Wars: Clone Wars Adventures (graphic novels)|''Star Wars: Clone Wars Adventures'']]}}
+{{Nav_heading|Volumes}}
+{{Nav_text|'''[[Star Wars: Clone Wars Adventures Volume 1|1]] · [[Star Wars: Clone Wars Adventures Volume 2|2]] · [[Star Wars: Clone Wars Adventures Volume 3|3]] · [[Star Wars: Clone Wars Adventures Volume 4|4]] · [[Star Wars: Clone Wars Adventures Volume 5|5]] · [[Star Wars: Clone Wars Adventures Volume 6|6]] · [[Star Wars: Clone Wars Adventures Volume 7|7]] · [[Star Wars: Clone Wars Adventures Volume 8|8]] · [[Star Wars: Clone Wars Adventures Volume 9|9]] · [[Star Wars: Clone Wars Adventures Volume 10|10]]'''}}
+{{#if:{{{1|}}}|{{Nav_heading|Comics}}
+{{Nav_text|{{#switch:{{{1|}}}
+|1=[[Blind Force]] · [[Heavy Metal Jedi]] · [[Fierce Currents]]
+|2=[[Skywalkers]] · [[Hide in Plain Sight]] · [[Run Mace Run]]
+|3=[[Rogue's Gallery]] · [[The Package (comic story)|The Package]] · [[A Stranger in Town]] · [[One Battle]]
+|4=[[Another Fine Mess]] · [[The Brink]] · [[Orders (comic story)|Orders]] · [[Descent (comic story)|Descent]]
+|5=[[What Goes Up... (comic story)|What Goes Up...]] · [[Bailed Out]] · [[Heroes on Both Sides (comic story)|Heroes on Both Sides]] · [[The Order of Outcasts]]
+|6=[[It Takes a Thief]] · [[The Drop (comic story)|The Drop]] · [[To the Vanishing Point]] · [[Means and Ends]]
+|7=[[Creature Comfort]] · [[Spy Girls]] · [[Impregnable (comic story)|Impregnable]] · [[This Precious Shining]]
+|8=[[Versus (comic story)|Versus]] · [[Old Scores]] · [[One of a Kind (comic story)|One of a Kind]] · [[Pathways]]
+|9=[[Appetite for Adventure]] · [[Salvaged]] · [[Life Below]] · [[No Way Out]]
+|10=[[Graduation Day]] · [[Thunder Road]] · [[Chain of Command (comic story)|Chain of Command]] · [[Waiting]]
+|}}|}}}}
+{{Nav_end|edit=CWA}}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>
+{{Interlang
+|tr=Şablon:CWA
+}}
+
+[[Category:Comic navbox templates|{{PAGENAME}}]]</noinclude>

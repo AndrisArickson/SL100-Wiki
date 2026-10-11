@@ -1,0 +1,32 @@
+This template is to be used for citing individual pages on [https://www.comixology.com comiXology's official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Comixology|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.comixology.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Comixology|url=Star-Wars-Vol-2-Operation-Starlight/digital-comic/916027|text=Star Wars Vol. 2: Operation Starlight}}</nowiki></code>
+
+Results in:
+
+{{Comixology|url=Star-Wars-Vol-2-Operation-Starlight/digital-comic/916027|text=Star Wars Vol. 2: Operation Starlight}}
+
+<hr />
+<code><nowiki>{{Comixology|url=Star-Wars-Vol-2-Operation-Starlight/digital-comic/916027|text=Star Wars Vol. 2: Operation Starlight|nobackup=1}}</nowiki></code>
+
+Results in:
+
+{{Comixology|url=Star-Wars-Vol-2-Operation-Starlight/digital-comic/916027|text=Star Wars Vol. 2: Operation Starlight|nobackup=1}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

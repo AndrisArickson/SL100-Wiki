@@ -1,0 +1,111 @@
+<infobox theme="group">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="type"><label>Organization type</label></data>	
+        <data source="founding"><label>Founding document</label></data>
+        <data source="constitution"><label>Constitution</label></data>	
+        <data source="headofstate"><label>Head of state</label></data>
+        <data source="headofgov"><label>Head of government</label></data>	
+        <data source="commander"><label>Commander-in-chief</label></data>
+        <data source="executive"><label>Executive branch</label></data>
+        <data source="legislative"><label>Legislative branch</label></data>	
+        <data source="judicial"><label>Judicial branch</label></data>	
+        <data source="military"><label>Military branch</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Societal information</header>
+        <data source="sector"><label>Sector</label></data>	
+        <data source="system"><label>System</label></data>	
+        <data source="celestialbody"><label>Celestial body</label></data>
+        <data source="capital"><label>Capital</label></data>	
+        <data source="language"><label>Official language</label></data>	
+        <data source="currency"><label>Currency</label></data>	
+        <data source="religious"><label>State religious body</label></data>	
+        <data source="holiday"><label>Official holiday</label></data>         
+        <data source="anthem"><label>Anthem</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="formed"><label>Formed from</label></data>	
+        <data source="established"><label>Date established</label></data>	
+        <data source="fragmented"><label>Date fragmented</label></data>	
+        <data source="reorganized"><label>Date reorganized</label></data>	
+        <data source="dissolved"><label>Date dissolved</label></data>        
+        <data source="restored"><label>Date restored</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Other information</header>
+        <data source="affiliation"><label>Affiliation</label></data>    
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Government|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|type|founding|constitution|headofstate|headofgov|commander|executive|legislative|judicial|military|sector|system|celestialbody|capital|language|currency|religious|holiday|anthem|formed|established|fragmented|reorganized|dissolved|restored|affiliation|ignore=name}}{{#if:{{{planet|}}}|{{#if:{{{moon|}}}|[[Category:Infoboxes with both moon and planet fields]]|}}|}}<noinclude>[[category:Group infobox templates]]{{Top|fprot}}{{clear}}
+==Usage instructions==
+Paste the following code at the beginning of the article, filing all relevant fields. If a field doesn't apply, just leave it blank.
+
+<pre><nowiki>{{Government
+|image=
+|name=
+|type=
+|founding=
+|constitution=
+|headofstate=
+|headofgov=
+|commander=
+|executive=
+|legislative=
+|judicial=
+|military=
+|sector=
+|system=
+|celestialbody=
+|capital=
+|language=
+|currency=
+|religious=
+|holiday=
+|anthem=
+|formed=
+|established=
+|fragmented=
+|reorganized=
+|dissolved=
+|restored=
+|affiliation=
+}}</nowiki></pre>
+
+==Data fields==
+*image - Put the logo or emblem of the government.
+*name - The name of the government.
+*type - Put the system of government, e.g. [[Fascism|fascist]] [[dictatorship]], [[monarchy]], [[Democracy|democratic]] [[Politics#Republic|republic]].
+*founding - Put the name of the founding document, e.g. [[Declaration of a New Republic/Legends|Declaration of a New Republic]]
+*constitution - Put the name of the constitution, e.g. [[New Republic Common Charter]].
+*headofstate - Put the title of the head of state, e.g. [[Galactic Emperor]]. 
+*headofgov - Put the title of head of government. This may be different from the head of state, e.g. [[Grand Vizier]] of the [[Galactic Empire]]. 
+*commander - Put the title of the commander-in-chief, the senior-most officer of the military.
+*executive - Put the name of the executive branch. e.g. [[Imperial Ruling Council]].
+*legislative - Put the name of the legislative body, e.g. [[Imperial Senate]].
+*judicial - Put the name of the judicial branch, e.g. [[Judicial Department]]
+*military - Put the name of the military branch, e.g. [[Republic Military]].
+*sector - If the government rules one or more sectors, put the names of them here.
+*system - If the government rules one or more systems, put the names of them here.
+*planet - If the government rules one or more planet, put the names of them here.
+*moon - If the government rules one or more moons, put the names of them here.
+*capital - Put the name of the capital, e.g. [[Sundari]].
+*language - Put the official language.
+*currency - Put the official currency, e.g. [[Kikipi|King Kikipi credits]]
+*religious - Put the name of the official religious body, e.g. [[Church of Infinite Perception/Legends|Church of Infinite Perception]].
+*holiday - Put the name of any official holidays, e.g. [[Empire Day]].
+*anthem - Put the name of the official anthem.
+*formed - Put the organization(s) or government(s) it was formed from, e.g. the [[New Republic]] was formed from the [[Alliance of Free Planets]].
+*established - Put the date the government was established.
+*fragmented - Put the date the government fragmented, e.g. the Galactic Empire [[Galactic_Empire#Fragmentation_of_the_Order|fragmented in 4 ABY]].
+*reorganized - Put the date the government was reorganized and the name of what it was reorganized into.
+*dissolved - Put the date the government was dissolved.
+*restored - Put the date the government was restored.
+*affiliation - Put any affiliations the government had to overarching organizations or governments, e.g. the [[Aristocracy]] was affiliated with the [[Galactic Empire/Legends|Galactic Empire]].</noinclude>

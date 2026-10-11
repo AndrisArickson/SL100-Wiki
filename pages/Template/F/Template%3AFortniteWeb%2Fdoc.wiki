@@ -1,0 +1,22 @@
+This template is to be used for citing individual pages on ''[[Fortnite]]''{{'}}s [https://www.fortnite.com official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{FortniteWeb|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.fortnite.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{FortniteWeb|url=chapter-2-season-5|text=Fortnite Chapter 2 Season 5 The Zero Point Overview|archivedate=20230204032304}}</nowiki></code>
+
+Results in:
+
+{{FortniteWeb|url=chapter-2-season-5|text=Fortnite Chapter 2 Season 5 The Zero Point Overview|archivedate=20230204032304}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

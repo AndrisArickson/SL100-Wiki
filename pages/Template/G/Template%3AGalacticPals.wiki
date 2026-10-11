@@ -1,0 +1,15 @@
+{{#invoke:BaseCitation|main|template=GalacticPals
+|mode=TV
+|image=[[File:Galactic_Pals_logo.png|text-bottom|x18px|link=Star Wars Galactic Pals]]
+|series=Star Wars Galactic Pals
+|child={{#ifeq:{{{1|}}}|Porgs|Porgs (Galactic Pals)|{{#ifeq:{{{1|}}}|Rancor|Rancor (Galactic Pals)|{{#ifeq:{{{1|}}}|Tauntaun|Tauntaun (Galactic Pals)|{{#if:{{#pos:{{{1|}}}|(}}|{{{1|}}}|{{{1|}}} (episode)}}}}}}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+<nowiki>{{</nowiki>GalacticPals|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+
+==Image==
+[[File:Galactic_Pals_logo.png|thumb|left]]
+
+[[Category:Web series citation templates|{{PAGENAME}}]]</noinclude>

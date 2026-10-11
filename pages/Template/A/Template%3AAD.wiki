@@ -1,0 +1,26 @@
+<small>(Audio description from [[{{#ifeq:{{{1}}}|YouTube|Wikipedia:}}{{{1}}}|{{{2|{{{1}}}}}}]])</small><noinclude>
+==Parameters==
+<nowiki>{{AD|Source's Article|Formatting}}</nowiki>
+
+==Examples==
+Code: <code><nowiki>{{AD|Blu-ray}}</nowiki></code>
+
+Result: 
+{{AD|Blu-ray}}
+
+Code: <code><nowiki>{{AD|DVD}}</nowiki></code>
+
+Result: 
+{{AD|DVD}}
+
+Code: <code><nowiki>{{AD|Disney+}}</nowiki></code>
+
+Result: 
+{{AD|Disney+}}
+
+Code: <code><nowiki>{{AD|Netflix}}</nowiki></code>
+
+Result:
+{{AD|Netflix}}
+
+[[Category:Appearance templates]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyPlusYouTube
+|archive=YouTube
+|image=[[File:DisneyPlus-YT.jpg|text-bottom|x18px|link=https://www.youtube.com/c/disneyplus]]
+|site_text={{#if:{{{jp|}}}|the Japanese [[Disney+]] [https://www.youtube.com/c/disneyplusjp YouTube channel]|the official [[Disney+]] [https://www.youtube.com/c/disneyplus YouTube channel]}}
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

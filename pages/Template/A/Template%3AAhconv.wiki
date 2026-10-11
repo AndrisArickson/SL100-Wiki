@@ -1,0 +1,43 @@
+<noinclude><pre>
+</noinclude>{{#switch:{{{1|}}}
+| FA = Featured article
+| GA = Good article
+| CA = Comprehensive article
+| FFA = Former Featured article
+| FGA = Former Good article
+| FCA = Former Comprehensive article
+| FAN = Featured article nomination
+| GAN = Good article nomination
+| CAN = Comprehensive article nomination
+| FFAN = Failed Featured article nominee
+| FGAN = Failed Good article nominee
+| FCAN = Failed Comprehensive article nominee
+| FAR = Featured article review
+| GAR = Good article review
+| CAR = Comprehensive article review
+| PFA = Featured article on probation
+| PGA = Good article on probation
+| PCA = Comprehensive article on probation
+| FT = Featured topic
+| FFT = Former Featured topic
+| FFA/GA = Former Featured article which is now a Good article
+| RFAC = Re-Featured article candidate
+| FACR = Featured article candidate review
+| PR = Peer review
+| IDC = Improvement drive candidate
+| ID = Improvement drive
+| K = Article kept after Trash compactor
+| R = Article deleted after Trash compactor; later recreated
+| REDIR = Article redirected after Trash compactor
+| M = Article merged after Trash compactor
+| N = No consensus reached after Trash compactor
+| VFD = Votes for deletion
+| TC = Article has undergone Trash compactor
+| Article status not specified {{#if:{{{1|}}}|[[Category:Invalid usages of Ahconv]]|}}
+}}<noinclude>
+
+</pre>
+
+[[Category:Article history templates|{{PAGENAME}}]]
+
+</noinclude>

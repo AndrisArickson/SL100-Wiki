@@ -1,0 +1,22 @@
+[[Star Wars Day-at-a-Time Calendar 20{{{1}}}|''Star Wars'' Day-at-a-Time Calendar 20{{{1}}}]], "{{{2|{{PAGENAME}}}}}" {{C|{{{3}}}}}<noinclude>
+
+==Usage==
+Place the following code on the page and replace "YEAR", "ENTRY", and "DAY" with the appropriate information.
+<pre><nowiki>{{</nowiki>CalendarCite|''YEAR''|''ENTRY''|''DAY''}}</pre>
+
+For ease of citation, you may copy the code listed in the (currently incomplete) [[Template:CalendarCite/2020]] repository.
+
+*Only the last two digits of the year need to be provided. (e.g. "'''19'''," not "'''2019'''")
+*Entry is the name as it appears in the title of the calendar entry.
+*The month is provided before the day. (e.g. "'''September 1'''" and "'''March 3'''")
+**If a single entry covers two days, provide both days separated by a forward slash. (e.g. "'''August 29/30'''")
+***If the two days are of different months, provide the days with their respective months, and separate the dates by a forward slash. (e.g. "'''February 29/March 1'''")
+
+===Examples===
+*{{CalendarCite|20|Jedi Mind Trick|August 29/20}}
+<pre><nowiki>{{CalendarCite|20|Jedi Mind Trick|August 29/20}}</nowiki></pre>
+
+*{{CalendarCite|20|Twi'lek|October 28}}
+<pre><nowiki>{{CalendarCite|20|Twi'lek|October 28}}</nowiki></pre>
+
+[[Category:Citation templates]]</noinclude>

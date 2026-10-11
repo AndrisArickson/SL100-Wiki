@@ -1,0 +1,48 @@
+<infobox layout="tabular" theme="Droid" theme-source="type">
+	<image source="imagefallback">
+		<default>{{InfoboxGallery|image={{{image|}}}|caption1={{{option1|}}}|image2={{{image2|}}}|caption2={{{option2|}}}|image3={{{image3|}}}|caption3={{{option3|}}}}}</default>
+	</image>
+    <title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="homeworld"><label>Homeworld</label></data>	
+        <data source="birth"><label>Date created</label></data>	
+        <data source="death"><label>Date destroyed</label></data>	
+        <data source="creator"><label>Creator</label></data>	
+        <data source="manufacturer"><label>Manufacturer</label></data>	
+        <data source="line"><label>Product line</label></data>	
+        <data source="model"><label>Model</label></data>	
+        <data source="class"><label>Class</label></data>	
+        <data source="cost"><label>Cost</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Technical specifications</header>
+        <data source="length"><label>Length</label></data>	
+        <data source="width"><label>Width</label></data>	
+        <data source="height"><label>Height</label></data>	
+        <data source="mass"><label>Mass</label></data>	
+        <data source="gender"><label>Gender</label></data>
+		<data source="pronouns"><label>Pronouns</label><format><!--
+        -->{{#ifeq:{{lc:{{{pronouns|}}}}}|new||{{#ifeq:{{lc:{{{pronouns|}}}}}|unspecified||{{{pronouns|}}}}}}}<!--
+        --></format></data>
+        <data source="sensor"><label>Sensor color</label></data>	
+        <data source="plating"><label>Plating color</label></data>	
+        <data source="armament"><label>Armament</label></data>	
+        <data source="equipment"><label>Equipment</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Chronological and political information</header>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Droid|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|type|image|name|homeworld|birth|death|creator|manufacturer|line|model|class|cost|length|width|height|mass|height|gender|pronouns|sensor|plating|armament|equipment|affiliation|optional=option1,image2,option2,image3,option3|ignore=name}}<!--
+
+The following code flags infoboxes that have no values assigned to the pronouns parameter
+-->{{#ifeq:{{lc:{{{pronouns|}}}}}|new|[[Category:Articles with unpopulated pronoun parameters]]|}}<!----><noinclude>
+{{Top|fprot}}
+{{Documentation}}
+</noinclude>

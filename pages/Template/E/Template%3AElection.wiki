@@ -1,0 +1,41 @@
+<infobox theme="Battle300">
+        <data source="relatedevents"><label>Related events</label></data>	
+        <data source="proposedby"><label>Proposed by</label></data>	
+	<image source="image"></image>
+    <title source="name"></title>
+<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header></header>	
+        <data source="date"><label>Date</label></data>	
+        <data source="government"><label>Government</label></data>
+        <data source="electorate"><label>Electorate</label></data>	
+        <data source="result"><label>Result</label></data>	
+        <data source="candidates"><label>Candidates</label></data>	
+        <data source="otherkeyindividuals"><label>Other key individuals</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Election|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}{{#invoke:EventDateCheck|main}}<noinclude>[[category:Event infobox templates]]{{clear}}
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+{{Clear}}
+===Usage===
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>
+{{Top}}
+{{Election
+|relatedevents=
+|proposedby=
+|name=
+|image=
+|date=
+|government=
+|electorate=
+|result=
+|candidates=
+|otherkeyindividuals=}}
+</nowiki></pre></noinclude>

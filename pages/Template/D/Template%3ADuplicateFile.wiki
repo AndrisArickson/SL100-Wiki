@@ -1,0 +1,14 @@
+{{SmallMB
+|id=duplicate
+|image=[[File:Dialog-warning.svg|50px]]
+|message='''This file is a ''duplicate of [[:File:{{{1}}}|{{{1}}}]]''.''' Therefore, '''this redundant audio, animation, image or video file should be speedily deleted as soon as possible'''.<br />Please '''compare the duplicate files''', then '''discern the lowest-quality file'''('''s''')''',  and '''nominate the file(s) for speedy deletion''' with the Delete template.<br />If the uploaded files are of identical quality, amend the file pages of the latest duplicate(s) with the Delete template.<br />If this maintenance notice is present on the sole remaining file, remove this notice only after the identified duplicate file(s) in question have been removed.
+|messagestyle=text-align:center
+}}<includeonly>{{SpecialCategorizer|[[Category:Duplicate files]]}}</includeonly><noinclude>
+
+==Usage==
+Add <code><nowiki>{{Duplicate|</nowiki>{{Var|file name}}}}</code> to the {{Tl|Information}} template on the file description page in question.
+
+==Categorization==
+*[[:Category:Duplicate files]]
+
+[[Category:File maintenance templates]]</noinclude>

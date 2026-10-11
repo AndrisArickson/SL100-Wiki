@@ -1,0 +1,29 @@
+<includeonly>[[{{#if:{{{newpage|}}}|{{{newpage}}}|{{{1}}}}}|{{{1}}}]] <small>([[Special:Diff/{{{2}}}/cur|diff]] &bull; [[Wookieepedia:EC/{{{1}}}{{#if:{{{3|}}}|&#32;({{{3}}} review)|}}|review]])</small>{{#if:{{{c|}}}|&#32;&mdash;&#32;{{{c}}}|}}</includeonly><noinclude>
+
+==Usage instructions==
+<code><nowiki>{{ECprobe|newpage=new article name if moved since probe (optional)|article name|oldid of the probe revision|number of review (optional)|c=comment (optional)}}</nowiki></code>
+
+==Examples==
+The article [[Membibi]] was probed, and the revision of the probe was 7161186. The article has not been reviewed in the past.
+
+<code><nowiki>{{ECprobe|Membibi|7161186}}</nowiki></code>
+
+{{ECprobe|Membibi|7161186}}
+
+
+<hr />
+The article [[GRGC-800]] was probed, and the revision of the probe was 5707774. The article had been probed once in the past, so this is the second review. The article has also been moved since the probe.
+
+<code><nowiki>{{ECprobe|newpage=GRGC-800|GRGC-800 grav mill|5707774|second}}</nowiki></code>
+
+{{ECprobe|newpage=GRGC-800|GRGC-800 grav mill|5707774|second}}
+
+
+<hr />
+A fifth parameter, for comments, can also be used: 
+
+<code><nowiki>{{ECprobe|newpage=GRGC-800|GRGC-800 grav mill|5707774|second|c=Nothing has been done}}</nowiki></code>
+
+{{ECprobe|newpage=GRGC-800|GRGC-800 grav mill|5707774|second|c=Nothing has been done}}
+
+[[Category:Wookieepedia EduCorps templates]]</noinclude>

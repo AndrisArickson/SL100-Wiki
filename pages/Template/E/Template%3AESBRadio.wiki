@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=ESBRadio
+|mode=tv
+|series=The Empire Strikes Back (radio)
+|stext=''The Empire Strikes Back'' radio drama
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Documentation}}</noinclude>

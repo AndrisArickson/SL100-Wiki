@@ -1,0 +1,41 @@
+==Usage==
+<code><nowiki>
+{{Cara|username=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}
+</nowiki></code>
+
+===Required parameters===
+*{{Para|username}} Cara handle of the user, such as <code>pvillanelli</code>.
+*{{Para|url}} URL to the post in question, such as <code>post/295d6217-c8b3-4772-a6f1-c8ae6c2dde4e</code>.
+*{{Para|name}} Actual name of the user, linked to Wookieepedia if possible, for example <code><nowiki>[[Paolo Villanelli]]</nowiki></code>.
+
+===Optional parameters===
+*{{Para|text}}
+*{{Para|date}} The date the post was posted online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Users are encouraged to utilize the optional "quote" field in the template whenever possible, as Cara posts are subject to permanent removal at any time.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+Post:
+<code><nowiki>{{Cara|username=aleesatana|url=post/295d6217-c8b3-4772-a6f1-c8ae6c2dde4e|name=[[Aleesa Tana]]|text=Two GIFs of ''Star Wars''-themed Marketplace buttons|date=2024-10-24|quote=Jedi Academy Marketplace Button|archiveurl=https://archive.ph/6Uxfj}}
+</nowiki></code>
+
+Produces:
+
+{{Cara|username=aleesatana|url=post/295d6217-c8b3-4772-a6f1-c8ae6c2dde4e|name=[[Aleesa Tana]]|description=Two GIFs of ''Star Wars''-themed Marketplace buttons|date=2024-10-24|quote=Jedi Academy Marketplace Button|archiveurl=https://archive.ph/6Uxfj}}
+
+<hr />
+
+Profile:
+<code><nowiki>{{Cara|username=pvillanelli|name=[[Paolo Villanelli]]|archivedate=20250612034859}}</nowiki></code>
+
+Produces:
+
+{{Cara|username=pvillanelli|name=[[Paolo Villanelli]]|archivedate=20250612034859}}
+
+==See also==
+*[[:Category:Screenshots of social media posts]]
+*[[Wookieepedia:Social media screenshots]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

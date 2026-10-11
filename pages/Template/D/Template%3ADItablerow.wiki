@@ -1,0 +1,38 @@
+|- class="di-{{lc:{{{1}}}}}"
+|data-sort-value={{{2}}}|{{{3}}}||class="di-{{lc:{{{1}}}}}"|{{#switch:{{{1}}}|MF=M/F|PF=P/F|TA=T/A|{{{1}}}}}||style="padding:0 5px"|[https://starwars.fandom.com/f/p/{{{4}}} {{#tag:nowiki|{{{5}}}}}]{{#if:{{{7|}}}|{{!}}{{!}}[[User:{{{7}}}|{{{7}}}]] ([https://starwars.fandom.com/f/u/{{{6|}}} posts])|}}<noinclude>
+__NOTOC__
+==Description==
+For displaying the information about a [[Wookieepedia:Discussions|Discussions]] post as a row in a {{Tl|DItable}}.
+
+==Usage==
+<code><nowiki>{{DItable|</nowiki><br />
+<nowiki>{{DItablerow|</nowiki>{{Var|category}}|{{Var|timestamp}}|{{Var|date}}|{{Var|post ID}}|{{Var|post title}}|{{Var|author ID}}|{{Var|author username}}<nowiki>}}</nowiki><br />
+<nowiki>}}</nowiki></code>
+
+===Required parameters===
+#{{Para||{{Var|category}}}} The abbreviated forum category name, such as "G" for "General" and so on. Omit slashes (such that "Memes/Fun" is entered as "MF") to properly color-code the rows and allow filtration of these tables.
+#{{Para||{{Var|timestamp}}}} The [[wikipedia:Unix time|Unix]] timestamp of the post's creation.
+#{{Para||{{Var|date}}}} The date of the post's creation in UTC according to its timestamp.
+#{{Para||{{Var|post ID}}}} The Discussions post ID number. This is the nineteen-digit numeric value found after "<code><nowiki>https://starwars.fandom.com/f/p/</nowiki></code>" in the thread URL. Do not include any other text.
+#{{Para||{{Var|post title}}}} The post title. Some extremely old Discussions posts lack titles, so in those cases simply enter "none" or a similar term.
+#{{Para||{{Var|author ID}}}} The post creator's forum ID number. This is the eight-digit numeric value found after "<code><nowiki>https://starwars.fandom.com/f/u/</nowiki></code>" in the URL of the page containing their posts.
+#{{Para||{{Var|author username}}}} The post creator's username. If the table is for one's own userpage, this field and the previous field may be omitted, and the container table itself should then include the parameter {{Para|noauthor|1}}.
+
+==Examples==
+===Code===
+<pre>
+{{DItable|
+{{DItablerow|F|1620118656|4 May 2021|4400000000003440435|👉 [SPOILERS] [TBB] The Bad Batch Episode 1 "Aftermath" Open Discussion|47768770|CrazyAuteur88}}
+}}
+</pre>
+
+===Result===
+{{DItable|
+{{DItablerow|F|1620118656|4 May 2021|4400000000003440435|👉 [SPOILERS] [TBB] The Bad Batch Episode 1 "Aftermath" Open Discussion|47768770|CrazyAuteur88}}
+}}
+
+==See also==
+*{{Tl|DItable}}
+*{{Tl|DItablefilter}}
+
+[[Category:Forum templates]]</noinclude>

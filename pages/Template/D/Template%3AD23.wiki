@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=D23
+|image=[[File:D23-Logo.png|text-top|x16px|link=https://d23.com]]
+|site_text=[https://d23.com D23.com]
+|base_url=https://d23.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

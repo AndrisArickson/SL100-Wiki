@@ -1,0 +1,6 @@
+ <nowiki>{{</nowiki>FFGXW2|set=''SET NAME''|cardname=''CARD NAME''}}
+----
+{{Module:CardMiniDB/doc}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Miniature game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

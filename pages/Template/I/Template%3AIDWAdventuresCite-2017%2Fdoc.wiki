@@ -1,0 +1,45 @@
+This template is to be used for citing individual stories published within issues of the [[2017]] [[Star Wars Adventures (2017)|''Star Wars Adventures'']] anthology [[Star Wars comic books|comic series]] by [[IDW Publishing]].
+
+==Usage==
+Copy the template code below, paste it into the appropriate place in an article, and fill in the required fields.
+
+<code><nowiki>{{IDWAdventuresCite-2017|issue=|annual=|story=|stext=}}</nowiki></code>
+
+===Required parameters===
+*One of the two following:
+**'''issue''': Number of the issue being cited.
+**'''annual''': Year of the annual.
+*'''story''': Wikilinked name of the story being cited.
+
+===Optional parameters===
+*'''stext''': Formatted name of the story being cited.
+
+===Example(s)===
+<code><nowiki>{{IDWAdventuresCite-2017|issue=1|story=Better the Devil You Know, Part I}}</nowiki></code>
+
+Results in:
+
+{{IDWAdventuresCite-2017|issue=1|story=Better the Devil You Know, Part I}}
+
+<hr />
+<code><nowiki>
+{{IDWAdventuresCite-2017|issue=32|story=The Battle for Horizon Base}}</nowiki></code>
+
+Results in:
+
+{{IDWAdventuresCite-2017|issue=32|story=The Battle for Horizon Base}}
+
+<hr />
+<code><nowiki>{{IDWAdventuresCite-2017|annual=2018|story=Mind Your Manners}}</nowiki></code>
+
+Results in:
+
+{{IDWAdventuresCite-2017|annual=2018|story=Mind Your Manners}}
+
+==See also==
+For pages relating to the [[2020]] ''[[Star Wars Adventures (2020)|Star Wars Adventures]]'' series, use {{Tl|IDWAdventuresCite-2020}}.
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Comic citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

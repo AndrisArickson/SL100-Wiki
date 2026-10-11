@@ -1,0 +1,45 @@
+{{Dablink|The correct title of this {{#ifeq:{{NAMESPACE}}|{{ns:0}}|article|page}} is '''{{{1|{{{title}}}}}}'''. {{#if:{{{reason|}}}
+   |The omission of the {{#switch: {{{reason}}} | : = colon | # = <nowiki>#</nowiki> |}} above is
+   |It may appear incorrectly above}} due to [[Wookieepedia:Naming policy#Be careful with special characters|technical restrictions]].}}<noinclude>
+This maintenance template produces an article hatnote to help explain to readers that [[mw:Manual:Page_title|restrictions]] on titles containing colons, number signs, and some other characters (noted in the [[Wookieepedia:Naming policy#Be careful with special characters|Naming policy]]) affect the page name of the page they are reading. 
+
+''Please do not use {{Tl|Top}} to display the correct title on articles that use this template (except for articles with titles that should begin with a lowercase letter). Doing so makes linking to the article more difficult, both by preventing users from simply copying and pasting the article title into another article, and by misleading users (particularly newer users unfamiliar with MediaWiki's technical restrictions) as to the actual title of the article.''
+
+==Usage==
+Copy the template code below and paste it at the top of an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{CorrectTitle|title=|reason=}}</nowiki></code>
+
+===Required parameters===
+*'''title''': The correct name of the page.
+
+===Optional parameters===
+*'''reason''': <code>:</code> or <code>#</code> can be specified here.
+
+===Examples===
+====[[Project Shell-cracker|Project: Shell-cracker]]====
+
+<code><nowiki>{{CorrectTitle|title=Project: Shell-cracker|reason=:}}</nowiki></code>
+
+Results in:
+
+{{CorrectTitle|title=Project: Shell-cracker|reason=:}}
+
+<hr />
+====[[2 Warpod|#2 Warpod]]====
+<code><nowiki>{{CorrectTitle|title=#2 Warpod|reason=#}}</nowiki></code>
+
+Results in:
+
+{{CorrectTitle|title=#2 Warpod|reason=#}}
+
+<hr />
+====[[k'Jtari]]====
+<code><nowiki>{{CorrectTitle|title=k'Jtari}}</nowiki></code>
+
+Results in:
+
+{{CorrectTitle|title=k'Jtari}}
+
+__NOTOC__
+[[Category:Header templates]]</noinclude>

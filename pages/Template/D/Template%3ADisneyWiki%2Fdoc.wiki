@@ -1,0 +1,16 @@
+==Description==
+This template is used to link articles from the [[w:c:disney|Disney Wiki]].
+
+==Syntax==
+<code><nowiki>{{</nowiki>DisneyWiki|''title''|''FORMATTED title'' <small>(optional)</small>}}</code>
+
+Replace "title" with the exact title of the article ''on the Disney Wiki'', not the title here. Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the name in the template to change if our article is moved even if the Disney Wiki's article remains at the same name.
+
+==Samples==
+<code><nowiki>{{DisneyWiki|Mickey Mouse}}</nowiki></code> 
+
+results in...
+
+{{DisneyWiki|Mickey Mouse|Mickey Mouse}}
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

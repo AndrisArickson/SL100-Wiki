@@ -1,0 +1,47 @@
+==Usage==
+Place the following code on the page and replace "VOLUME", "PAGE" and "ENTRY" with the appropriate information.
+ <nowiki>{{</nowiki>CSWECite|''VOLUME''|''PAGE''|''ENTRY''}}
+
+All fields are optional, but you must provide a volume if you give a page number.
+
+*Volume can be either I, II, or III.
+*Page should be an actual number like 180, or for multiple page ranges, something like 180&ndash;183 or 180&ndash;183, 185. Remember to use an en dash, not a hyphen, for ranges (you can easily create one by typing "<code>&amp;ndash;</code>").
+**In the rare case that the template is used in the Sources, no page numbers should be used. Per [[Wookieepedia:Sourcing#CSWECite|Wookieepedia:Sourcing]], the template will only be used in the Sources list when a subject is referenced in a singular entry but does not have a specific entry of its own.
+*Entry is the name as it appears in the title of the CSWE entry.
+
+If the subject is mentioned in multiple entries, but does not receive its own entry, then use:
+ <nowiki>{{CSWECite|multiple}}</nowiki>
+
+==Example(s)==
+===Citation===
+[[Artesia]] cites the one-page "Artesian space collage" entry:
+
+{{CSWECite|I|43|Artesian space collage}}
+ <nowiki>{{CSWECite|I|43|Artesian space collage}}</nowiki>
+
+[[Jai Maruk]] cites the multi-page "Maruk, Jai" entry:
+
+{{CSWECite|II|291&ndash;292|Maruk, Jai}}
+ <nowiki>{{</nowiki>CSWECite|II|291<code>&amp;ndash;</code>292|Maruk, Jai}}
+
+===Source list===
+====Has its own entry====
+[[Iychtor]] has its own entry. See [[Wookieepedia:Sourcing#CSWECite|Wookieepedia:Sourcing]] for more information:
+
+''[[The Complete Star Wars Encyclopedia]]''
+ <nowiki>''[[The Complete Star Wars Encyclopedia]]''</nowiki>
+
+====Does not have its own entry and mentioned in multiple entries====
+[[Vultar system/Legends|Vultar system]] is mentioned in the entries for "Cosmic Turbine" and "Vultar Cataclysm" and does not have an entry of its own:
+
+{{CSWECite|multiple}}
+ <nowiki>{{CSWECite|multiple}}</nowiki>
+
+====Does not have its own entry and mentioned only one entry====
+[[Yir Tangee/Legends|Yir Tangee]] is only mentioned in the entry for "Rodia," and does not have an entry of its own:
+
+{{CSWECite|III||Rodia}}
+ <nowiki>{{CSWECite|III||Rodia}}</nowiki>
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

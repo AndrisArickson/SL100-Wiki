@@ -1,0 +1,16 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=ArtStation
+|image=[[File:ArtStation-Logo.svg|text-top|x16px|link=https://www.artstation.com]]
+|site_text=[https://www.artstation.com ArtStation]
+|full_url=https://{{{subdomain|www}}}.artstation.com/{{{url|}}}
+|base_url=https://{{{subdomain|www}}}.artstation.com
+|target_url={{#ifeq:{{{url|}}}|resume|{{{username|{{{subdomain|}}}}}}/resume|{{{url|{{{username|{{{subdomain|}}}}}}}}}}}
+|username={{{username|{{{subdomain|}}}}}}
+|is_post={{{url|}}}
+|author={{{name|}}}
+|no_profile={{#if:{{{username|}}}||{{{subdomain|}}}}}
+|text={{#if:{{{url|{{{username|}}}}}}||article}}
+|use_lua_subpage=1
+|social_media=1
+|exclude_at_symbol={{#if:{{{username|}}}||1}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

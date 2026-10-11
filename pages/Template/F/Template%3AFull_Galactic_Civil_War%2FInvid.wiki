@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" class="headerbackground" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Invids|Invid]] crisis<br />([[11 ABY/Legends|11 ABY]])'''</td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Battle of Alakatha|Alakatha]] · [[Attack on Tinta Lines|Tinta Lines]] · [[Attack on the Galaxy Chance|''Galaxy Chance'']] · [[Skirmish near Kessel|Sixth Kessel]]<br />[[Battle of Xa Fel (11 ABY)|Second Xa Fel]] · [[Battle of Algara|Algara]] · [[Mission to Courkrus|First Courkrus]]<br />[[Duel on Courkrus|Second Courkrus]] · [[Battle of Susevfi|Susevfi]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW Invid]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Invid
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

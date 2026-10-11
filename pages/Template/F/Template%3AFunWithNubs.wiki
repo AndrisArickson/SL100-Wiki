@@ -1,0 +1,7 @@
+{{#invoke:BaseCitation|main|template=FunWithNubs
+|mode=TV
+|image=[[File:FunWithNubs-Logo.png|text-bottom|x18px|link=Star Wars: Fun with Nubs]]
+|series=Star Wars: Fun with Nubs
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,9 @@
+<div class="spoiler metadata headerbackground">'''<span style="color:#B00; text-decoration:underline">Warning:</span>''' The following section is '''cut content'''. It contains information cut from the final release of a ''[[Star Wars]]'' medium or otherwise unpublished. Everything said in this section and not elsewhere did not happen in the "proper" {{#ifeq:{{{1|}}}|canon|''Star Wars'' [[canon]]|[[Star Wars Legends|''Star Wars'' Legends]]}} continuity.<includeonly>{{SpecialCategorizer|[[Category:Articles with cut elements]]}}</includeonly></div><noinclude>
+
+==Notes==
+Intended for use with {{Tl|CutEnd}}.
+
+==Categorization==
+*[[:Category:Articles with cut elements]]
+
+[[Category:Advisory_templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,23 @@
+This template is to be used for citing individual pages on [[AMEET]]'s [https://www.ameet.pl/ official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Ameet|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.ameet.eu/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Ameet|url=book/lego-star-wars-quest-for-the-kyber-saber|text=LEGO® Star Wars™ Quest for the Kyber Saber|archivedate=20200815015105}}</nowiki></code>
+
+Results in:
+
+{{Ameet|url=book/lego-star-wars-quest-for-the-kyber-saber|text=LEGO® Star Wars™ Quest for the Kyber Saber|archivedate=20200815015105}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

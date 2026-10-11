@@ -1,0 +1,70 @@
+<includeonly><div class="mw-collapsible {{#if:{{{2|{{{hide|}}}}}}|mw-collapsed|}}" data-expandtext="Show{{#if:{{{1|{{{text|}}}}}}|&#32;{{{1|{{{text}}}}}}|}}" data-collapsetext="Hide{{#if:{{{1|{{{text|}}}}}}|&#32;{{{1|{{{text}}}}}}|}}">{{#if: {{{1|{{{text|}}}}}}|'''{{ucfirst:{{{1|{{{text}}}}}}}}'''|}}</includeonly><noinclude>
+==Description==
+:This template is used for a collapsible section including section title.
+;Syntax
+:Insert this template using <code>{{tl|Collapsible_begin}}</code>, positioned immediately before the collapsible content.
+:Works in conjunction with <code>{{tl|Collapsible_end}}</code>, positioned immediately after the collapsible content.
+;Params
+*{{Para|text}} To add a section title and additional text in the Show/Hide link.
+*{{Para|hide}} The default state is not-collapsed, if instead you want the section hidden on page load, then use <code>hide=1</code>.
+
+==Examples==
+;Notes
+:The default state of the collaspible content is not-collapsed, requiring user input to hide the collapsible content on each page visit or refresh.
+
+;Example 1 - with title
+:<code><nowiki>{{Collapsible_begin|members}}</nowiki></code>
+:<code><nowiki>{|class="wikitable sortable" {{Prettytable}}
+!Callsign!!Name!!Vehicle
+|-
+|Red Five||Luke Skywalker||X-wing
+|}</nowiki></code>
+:<code><nowiki>{{Collapsible_end}}</nowiki></code>
+
+;Example 1 result
+{{Collapsible_begin|members}}
+{|class="wikitable sortable" {{Prettytable}}
+!Callsign!!Name!!Vehicle
+|-
+|Red Five||Luke Skywalker||X-wing
+|}
+{{Collapsible_end}}
+
+;Example 2 - without title
+:<code><nowiki>{{Collapsible_begin}}</nowiki></code>
+:<code><nowiki>{|class="wikitable sortable" {{Prettytable}}
+!Callsign!!Name!!Vehicle
+|-
+|Red Five||Luke Skywalker||X-wing
+|}</nowiki></code>
+:<code><nowiki>{{Collapsible_end}}</nowiki></code>
+
+;Example 2 result
+{{Collapsible_begin}}
+{|class="wikitable sortable" {{Prettytable}}
+!Callsign!!Name!!Vehicle
+|-
+|Red Five||Luke Skywalker||X-wing
+|}
+{{Collapsible_end}}
+
+;Example 3 - using '''hide=1'''
+:<code><nowiki>{{Collapsible_begin||hide=1}}</nowiki></code>
+:<code><nowiki>{|class="wikitable sortable" {{Prettytable}}
+!Callsign!!Name!!Vehicle
+|-
+|Red Five||Luke Skywalker||X-wing
+|}</nowiki></code>
+:<code><nowiki>{{Collapsible_end}}</nowiki></code>
+
+;Example 3 result
+{{Collapsible_begin||hide=1}}
+{|class="wikitable sortable" {{Prettytable}}
+!Callsign!!Name!!Vehicle
+|-
+|Red Five||Luke Skywalker||X-wing
+|}
+{{Collapsible_end}}
+
+[[Category:Collapse templates|{{PAGENAME}}]]
+</noinclude>

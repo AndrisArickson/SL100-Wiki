@@ -1,0 +1,39 @@
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Destiny|set=|sformat=|cardname=|link=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the set or collection.
+*{{Para|cardname}} The name of the card.
+
+===Optional parameters===
+*{{Para|sformatted}} Formatted name of the set or collection.
+*{{Para|link}} Provide a full URL.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Destiny|set=Across the Galaxy|cardname=Super Battle Droid|link=http://swdestinydb.com/card/08020}}</nowiki></code>
+
+Results in:
+
+{{Destiny|set=Across the Galaxy|cardname=Super Battle Droid|link=http://swdestinydb.com/card/08020}}
+
+<hr />
+;Without a link
+<code><nowiki>{{Destiny|set=Across the Galaxy|cardname=Super Battle Droid}}</nowiki></code>
+
+Results in:
+
+{{Destiny|set=Across the Galaxy|cardname=Super Battle Droid}}
+
+==Icon==
+[[File:SW Destiny Template.png|thumb|left|x16px]]
+
+Note that this icon was removed from the template due to Wookieepedia's MediaWiki software limitations on template size.
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Card game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

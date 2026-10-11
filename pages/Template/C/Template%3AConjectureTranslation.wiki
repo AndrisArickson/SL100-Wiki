@@ -1,0 +1,29 @@
+{{#if: {{{both|}}}
+|{{ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The anglicization and translation in this article's title is conjectural.
+|message = This article's title was anglicized and translated to English based on [[canon]]ical information; its actual translation is pure conjecture.
+}}|{{#if: {{{ang|}}}
+|{{ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The anglicization in this article's title is conjectural.
+|message = This article's title was anglicized based on [[canon]]ical information; its capitalization and spelling is pure conjecture.
+}}|{{ooumb
+|bg = #D8E9FC
+|image = [[File:Blue-question-mark.png|40px]]
+|caption = The translation in this article's title is conjectural.
+|message = This article's title was translated to English based on [[canon]]ical information; its actual translation is pure conjecture.
+}}}}}}<includeonly>{{SpecialCategorizer|[[Category:Articles with conjectural translation|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|mprot|fprot}}
+
+==Usage==
+For article titles that have been anglicized instead of translated, include the parameter "ang" with any value:
+<pre>{{ConjectureTranslation|ang=1}}</pre>
+<br />
+For article titles that have been both anglicized and translated, include the parameter "both" with any value:
+<pre>{{ConjectureTranslation|both=1}}</pre>
+
+==Categorization==
+*[[:Category:Articles with conjectural translation]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

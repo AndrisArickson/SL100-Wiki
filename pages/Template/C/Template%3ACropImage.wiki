@@ -1,0 +1,12 @@
+{{SmallMB
+| id = Crop
+| image = [[File:Crop.png|50px]]
+| message =This image has '''elements which diminish and detract from its overall illustrative quality''', such as [[Wikipedia:Letterboxing_(filming)|letter-box framing]]. It it advised to supersede the existing image file with a new  [[Wikipedia:Cropping_(image)|cropped]] version whenever possible, and then [[Wookieepedia:Speedy deletions|nominate it for speedy deletion]] by amending this file page with the [[Template:Delete|delete template]], if applicable. {{#if:{{{1|}}}|<br />'''The specific issue(s) with this image:''' ''{{{1}}}.''&#32;|}} <br />Please '''properly crop the current image to its essential component''', and then replace this existing image file by either: 
+*Re-uploading the properly cropped version of the current image separately, via the [[Special:Upload|'''main file upload page''']] and then nominate this image file to be [[Wookieepedia:Speedy deletions|speedily deleted]] by replacing this notice with {{Tl|Delete}} template.
+*OR, by uploading the properly cropped version of the current image as a new version of this image file, through the ''file history'' section of this file page, and then removing this notice once finished.<br />
+}}<includeonly>{{SpecialCategorizer|[[Category:Images that require cropping|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Images that require cropping]]
+
+[[Category:File maintenance templates|{{PAGENAME}}]]</noinclude>

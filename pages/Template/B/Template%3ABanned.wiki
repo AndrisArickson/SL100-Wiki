@@ -1,0 +1,22 @@
+{{#switch:{{{1|}}}
+|global=
+{{Iumb
+|bg = #f2f2f2
+|image = [[File:Fandom Heart.png|40px]]
+|message = '''This user account has either been permanently banned or deactivated on all Fandom sites, including Wookieepedia.'''
+|comment = Please do not attempt to contact them on Wookieepedia. If you are the user in question, you can [[Special:Contact|contact Fandom staff]] to appeal. Wookieepedia [[Wookieepedia:Administrators|administrators]] cannot overturn global blocks.
+}}
+|{{Iumb
+|bg = #f2f2f2
+|image = [[File:Site-logo.png|40px]]
+|message = '''This user has been permanently [[Wookieepedia:Blocking policy|blocked from editing]] on Wookieepedia.'''
+|comment = Please do not attempt to contact them on Wookieepedia. If you are the user in question, you can [[Wookieepedia:Contact|contact]] the blocking [[Wookieepedia:Administrators|administrator]] to appeal.<br />'''Admin tools:''' [[Special:Contributions/{{PAGENAME}}|contribs]] -  [[Special:Block/{{PAGENAME}}|modify block]] - [{{fullurl:Special:Log/block|page=User:{{PAGENAMEE}}}} block log]
+}}
+}}<noinclude>{{Top|fprot}}
+
+==Usage==
+This template can be placed on the user page and/or talk page of permanently blocked users, particularly those with an extensive editing history. <code><nowiki>{{Banned|global}}</nowiki></code> can be used for editors globally banned by Fandom.
+
+For unblocks, see [[Template:AppealReason]]
+
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

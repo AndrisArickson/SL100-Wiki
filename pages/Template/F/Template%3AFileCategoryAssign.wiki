@@ -1,0 +1,10 @@
+{{Ooumb
+|id=filecategoryassign
+|bg=#EFE
+|message=To assign file pages with this category, amend with the tag: '''{{Tl|{{{1}}}}}''' to the appropriate field in the file page. If you are not certain which specific category an file belongs to, consult the [[Wookieepedia:Templates/File namespace|file tag page]], which encompasses all file page templates. Please consider assigning the files in an existing subcategory, or creating a new one, if this particular category is too [[:Category:Overpopulated_categories|overpopulated]] with files.
+}}<noinclude>
+
+==Usage==
+Place <code><nowiki>{{FileCategoryAssign|</nowiki>{{Var|template name}}}}</code> at the top of the category page in question, where {{Var|template name}} is the name of the template that places files in the category when transcluded on file pages.
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

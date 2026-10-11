@@ -1,0 +1,20 @@
+{{Ooumb
+|id=cc-confirmed
+|bg=#FFC
+|image=[[File:Copyright.svg|50px|Copyright]]
+|caption=<p>The content of this article has been derived in whole or in part from [{{{url}}} {{{text}}}]. Permission has been received from the copyright holder to license this material under the [[w:Community Central:Licensing|Creative Commons CC-BY-SA 3.0 license]] and evidence of this has been lodged with an [[Wookieepedia:Administrators|administrator]].
+{{#if:{{{note|}}}|----{{{note}}}|}}</p>
+|message=<small>This template should not be used to make a claim of permission or ownership, but ''only'' when a clear permission statement has been forwarded to an administrator.</small>
+}}<includeonly>[[Category:Articles with permission confirmed|{{PAGENAME}}]]</includeonly><noinclude>{{Top|sprot|mprot}}
+
+==Usage==
+Place this template on the article's talk page with the following code:
+ <nowiki>{{</nowiki>CC-confirmed|url=''url''|text=''text''|note=''Any notes about this''}}
+
+==Categorization==
+*[[:Category:Articles with permission confirmed]]
+
+==Sources==
+*{{WebCite|url=https://creativecommons.org/licenses/by-sa/3.0/|text=Attribution-ShareAlike 3.0 Unported|archivedate=20240728233242}}
+
+[[Category:Copyright templates|{{PAGENAME}}]]</noinclude>

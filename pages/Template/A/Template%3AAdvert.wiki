@@ -1,0 +1,19 @@
+{{Top|sprot}}
+<onlyinclude><small>(In {{#ifeq:{{{1}}}|multiple|multiple advertisements|an advertisement}})</small></onlyinclude>
+
+==Usage==
+Use <code><nowiki>{{</nowiki>Advert}}</code> if the subject appears in a single advertisement or <code><nowiki>{{</nowiki>Advert|multiple}}</code> if the subject appears in multiple advertisements.
+
+==Examples==
+{| class="wikitable"
+! Code
+! Result
+|-
+| <pre style="background:none; border:none">[[Star Wars Insider 90|''Star Wars Insider'' 90]] {{Advert}}</pre>
+| [[Star Wars Insider 90|''Star Wars Insider'' 90]] {{Advert}}
+|-
+| <pre style="background:none; border:none">[[Star Wars Insider 90|''Star Wars Insider'' 90]] {{Advert|multiple}}</pre>
+| [[Star Wars Insider 90|''Star Wars Insider'' 90]] {{Advert|multiple}}
+|}
+
+[[Category:Appearance templates|{{PAGENAME}}]]

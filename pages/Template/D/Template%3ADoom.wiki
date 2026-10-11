@@ -1,0 +1,23 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Doom
+| bg = #FFFFE6
+| image = [[File:WereDoomed-ANH.jpg|175px]]
+| caption = We're doomed!
+| message = This article covers an essential topic and is in need of major additions and/or work.
+| comment = Please follow the guidelines in the [[Wookieepedia:Manual of Style|Manual of Style]] and complete this article to the highest level of quality before removing this notice.
+| reason = The following issues need to be fixed
+| category = Category:We're Doomed!
+}}
+<includeonly>{{SpecialCategorizer|[[Category:We're Doomed!|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|fprot|mprot}}
+
+==Usage==
+<nowiki>{{Doom|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:We're Doomed!]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

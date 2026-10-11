@@ -1,0 +1,17 @@
+{{#invoke:BaseCitation|main|template=CollectorCite
+|mode=magazine
+|image=[[File:GalaxyCollector.png|text-top|x16px|link=Star Wars Galaxy Collector]]
+|series=Star Wars Galaxy Collector
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+}}<noinclude>
+==Usage==
+ <nowiki>{{CollectorCite|ISSUE NUMBER|STORY TITLE|FORMATTED NAME (optional)}}</nowiki>
+
+==Image==
+[[File:GalaxyCollector.png|thumb|left|50px|Not an orphan.]]
+[[Category:Magazine citation templates]]</noinclude>

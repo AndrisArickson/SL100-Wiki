@@ -1,0 +1,88 @@
+<infobox theme="Fleet">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>General information</header>
+        <data source="type"><label>Type</label></data>	
+        <data source="founder"><label>Founder</label></data>	
+        <data source="founded"><label>Founding</label></data>	
+        <data source="fragmented"><label>Fragmentation</label></data>	
+        <data source="reorganized"><label>Reorganization</label></data>	
+        <data source="dissolved"><label>Dissolution</label></data>        
+        <data source="restored"><label>Restoration</label></data>	
+        <data source="headquarter"><label>Headquarters</label></data>	
+        <data source="location"><label>Location</label></data>
+    </group>
+    <group collapse="open">	
+    	<header>Crew information</header>
+        <data source="commander"><label>Commanding officer(s)</label></data>
+        <data source="officers"><label>Notable officer(s)</label></data>
+        <data source="crew"><label>Notable crew</label></data>
+    </group>
+    <group collapse="open">
+	<header>Unit information</header>     
+        <data source="flagship"><label>Flagship</label></data>
+        <data source="capital"><label>Notable capital ships</label></data>	
+        <data source="starfighters"><label>Notable starfighter squadrons</label></data>
+        <data source="ground"><label>Notable ground units</label></data>
+        <data source="naval"><label>Notable naval units</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Historical information</header>
+        <data source="campaigns"><label>Notable campaigns</label></data>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Fleet|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|type|founder|founded|fragmented|reorganized|dissolved|restored|headquarter|location|commander|officers|crew|flagship|capital|starfighters|ground|naval|campaigns|affiliation|ignore=name}}<noinclude>[[category:Group infobox templates]]{{clear}}
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+
+<pre><nowiki>{{Fleet
+|image=
+|name=
+|type=
+|founder=
+|founded=
+|fragmented=
+|reorganized=
+|dissolved=
+|restored=
+|headquarter=
+|location=
+|commander=
+|officers=
+|crew=
+|flagship=
+|capital=
+|starfighters=
+|ground=
+|naval=
+|campaigns=
+|affiliation=
+}}</nowiki></pre>
+==Data fields==
+*image &ndash; Put a link to the main image of the fleet, or even better, the fleet's emblem. If the image is 250 pixels wide or larger, specify an image width of 250 pixels. If the image is smaller than 250 pixels wide, do not specify the size.
+*name &ndash; Simply list the name of the fleet
+*type &ndash; State the type of formation the fleet is eg. Fleet, Task Force, Sector fleet etc.
+*founder &ndash; State who founded the fleet.
+*founded &ndash; When it was founded.
+*fragmented &ndash; When it broke into smaller groups.
+*reorganized &ndash; When it was reorganized.
+*dissolved &ndash; When it was dissolved.
+*restored &ndash; When it was restored.
+*headquarter &ndash; Where its headquarters were located.
+*location  &ndash; Where the fleet was located.
+*commander &ndash; List the fleets's known commanding officers here in chronological order.
+*officers &ndash; List notable officers in the fleet in alphabetical order.
+*crew &ndash; List notable crew members in alphabetical order.
+*flagship &ndash; The flagship(s) of the fleet in chronological order.
+*capital &ndash; The capital ships of the fleet in alphabetical order. This shouldn't include their classes, as these details should be added in the article body, under the title "Description".
+*starfighters &ndash; The starfighter units of the fleet.
+*ground &ndash; Ground units attached to the fleet.
+*naval &ndash; Naval units attached to the fleet.
+*campaigns &ndash; Any campaigns the fleet was involved in.
+*affiliation &ndash; List the governments and major organizations that used the fleet here.</noinclude>

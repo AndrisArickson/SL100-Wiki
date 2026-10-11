@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=SWKidsYouTube
+|archive=YouTube
+|image=[[File:BucketsList-Logo.png|text-bottom|x18px|link=Bucket's List]]
+|site_text=the official [[StarWarsKids.com|''Star Wars'' Kids]] [https://www.youtube.com/c/StarWarsKids YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|series=[[Bucket's List]]
+|nolive=1
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation|SWYouTube/doc}}[[Category:YouTube series citation templates]]</noinclude>

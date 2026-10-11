@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=AdventurerCite
+|mode=magazine
+|image=[[File:Adventurer_small.jpg|baseline|link=The Adventurer]]
+|series=The Adventurer
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|nolink={{{nolink|}}}
+|noquotes={{{noquotes|}}}
+}}<noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,12 @@
+{{ooumb
+| id = Easteregg
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = This article is about an [[Easter egg (virtual)|Easter egg]].
+| message = {{#if:{{{canon|}}}|This article covers an [[Easter egg (virtual)|Easter egg]] that was considered [[canon]] within the [[Star Wars Legends|''Star Wars'' Legends]] continuity.|This article covers a subject that was included as an [[Easter egg (virtual)|Easter egg]] in a [[Star Wars Legends|''Star Wars'' Legends]] source and may not have been considered [[canon]] within the Legends continuity.}}
+}}<noinclude>
+
+==Usage==
+To alter the template to apply to an [[Easter egg (virtual)|Easter egg]] that was considered [[canon]] in the [[Star Wars Legends|Legends]] continuity, include the "canon" parameter with any value. Example: <nowiki>{{Easteregg|canon=1}}</nowiki>.
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

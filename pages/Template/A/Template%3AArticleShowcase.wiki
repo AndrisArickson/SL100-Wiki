@@ -1,0 +1,18 @@
+{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Archived||
+{|width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; table-layout: fixed"
+! class="nounderlinelink" style="text-align: left; padding: 0px"|
+<div class="mp-header">
+{|width="100%"
+! style="text-align: left;"|[[File:Wp-wotmfa.png]] '''Article Showcase'''
+|style="font-size: 0.8em; text-align: right;"|[{{fullurl:{{FULLPAGENAME}}|action=purge}} <div class="mp-toggle"><nowiki>[Refresh]</nowiki></div>]
+|}
+</div>
+|-
+|<div class="showcase">
+{|width="100%" cellpadding="0" cellspacing="0"
+|style="text-align: left"|{{RandomStatus|mode=both}}
+|-
+|{{Showcasefooter}}
+|}</div>
+|}
+}}<noinclude>{{Top|fprot}}[[Category:Main Page templates]]</noinclude>

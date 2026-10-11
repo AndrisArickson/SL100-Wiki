@@ -1,0 +1,43 @@
+This template is to be used on pages about subjects that have been represented in [[The Walt Disney Company|Disney]] toy sets, including the Disney Store and Disney Parks exclusives.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{DisneyToyCite|set=|text=|pack=|link=|altlink=|domain=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|set}} Name of the collection.
+*{{Para|pack}} Name of the individual pack.
+*Either of the two following:
+**{{Para|link}} URL of the pack's page on the website <code><nowiki>ShopDisney.com</nowiki></code>, minus the domain name (<code><nowiki>https://www.shopdisney.com/</nowiki></code>).
+**{{Para|altlink}} Full URL of the pack's page on a website other than <code><nowiki>ShopDisney.com</nowiki></code>.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|text}} Formatted name of the collection.
+*{{Para|domain}} If the top level domain is different, for example, <code><nowiki>shopdisney.co.uk</nowiki></code> use <code>|domain=co.uk</code> to substitute <code>.com</code> for <code>.co.uk</code>. Default is <code>.com</code> if left blank.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{DisneyToyCite|set=Star Wars: Droid Factory (toy line)|pack=Holiday Figure Set|link=star-wars-droid-factory-holiday-figure-set-461035082711.html|archivedate=20211101124318|nolive=1}}</nowiki></code>
+
+Results in:
+{{DisneyToyCite|set=Star Wars: Droid Factory (toy line)|pack=Holiday Figure Set|link=star-wars-droid-factory-holiday-figure-set-461035082711.html|archivedate=20211101124318|nolive=1}}
+
+<hr />
+<code><nowiki>{{DisneyToyCite|set=Star Wars: Droid Factory (toy line)|pack=R4-BOO18|altlink=https://www.amazon.com/Disney-Parks-R4-B0018-R4-BOO18-Halloween/dp/B07G8NPHPJ|archivedate=20200326202306}}</nowiki></code>
+
+Results in:
+{{DisneyToyCite|set=Star Wars: Droid Factory (toy line)|pack=R4-BOO18|altlink=https://www.amazon.com/Disney-Parks-R4-B0018-R4-BOO18-Halloween/dp/B07G8NPHPJ|archivedate=20200326202306}}
+
+<hr />
+<code><nowiki>{{DisneyToyCite|set=Star Wars: Droid Factory (toy line)|pack=''The Mandalorian'' set}}</nowiki></code>
+
+Results in:
+{{DisneyToyCite|set=Star Wars: Droid Factory (toy line)|pack=''The Mandalorian'' set}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Toy citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Brawlhalla
+|image=[[File:Brawlhalla-Favicon.svg|text-top|x18px|link=https://brawlhalla.com]]
+|site_text=''[[Brawlhalla]]''{{'}}s [https://brawlhalla.{{{domain|com}}} official website]
+|base_url=https://brawlhalla.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

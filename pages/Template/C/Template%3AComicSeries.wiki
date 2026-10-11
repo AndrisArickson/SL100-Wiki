@@ -1,0 +1,62 @@
+<infobox theme="Comic">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="writer"><label>Writer(s)</label></data>	
+        <data source="penciller"><label>Penciller(s)</label></data>	
+        <data source="inker"><label>Inker(s)</label></data>	
+        <data source="letterer"><label>Letterer(s)</label></data>	
+        <data source="colorist"><label>Colorist(s)</label></data>
+        <data source="cover artist"><label>Cover artist(s)</label></data>
+        <data source="editor"><label>Editor(s)</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="start date"><label>Start date</label><format><!--
+        -->{{#ifeq:{{lc:{{{start date|}}}}}|none||{{#ifeq:{{lc:{{{start date|}}}}}|future||{{#ifeq:{{lc:{{{start date|}}}}}|canceled||{{{start date}}}}}}}}}<!--
+        --></format></data>	
+        <data source="end date"><label>End date</label></data>	
+        <data source="schedule"><label>Schedule</label></data>
+        <data source="format"><label>Format</label></data>
+        <data source="issues"><label>Issues</label></data>				     
+    </group>
+        <group collapse="open">
+    	<header>General information</header>
+        <data source="timeline"><label>Timeline</label></data>	
+        <data source="series"><label>Part of</label></data>	
+        <data source="preceded by"><label>Preceded by</label></data>
+        <data source="followed by"><label>Followed by</label></data>		
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:ComicSeries|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|writer|penciller|letterer|inker|colorist|cover artist|editor|publisher|start date|end date|schedule|format|issues|timeline|series|preceded by|followed by|optional=no_year_check,is_appearance|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check=1|template_name=ComicSeries}}<!--
+-->{{#if:{{{is_appearance|}}}|{{AppMediaCat}}|}}<noinclude>[[category:Comic infoboxes]]{{Clear}}
+==Usage==
+<pre>
+{{ComicSeries
+|image=
+|title=
+|writer=
+|penciller=
+|letterer=
+|inker=
+|colorist=
+|cover artist=
+|editor=
+|publisher=
+|start date=
+|end date=
+|schedule=
+|format=
+|issues=
+|timeline=
+|series=
+|preceded by=
+|followed by=
+}}
+</pre></noinclude>

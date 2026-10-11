@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Chronicle
+|image=[[File:ChronicMyopia.png|text-top|x16px|link=https://www.chroniclebooks.com]]
+|site_text=[[Chronicle Books]]' [https://www.chroniclebooks.com official website]
+|base_url=https://{{{subdomain|www}}}.{{#if:{{{old|}}}|chronbooks|chroniclebooks}}.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|nolive={{{nolive|{{{old|}}}}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

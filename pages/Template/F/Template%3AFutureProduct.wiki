@@ -1,0 +1,54 @@
+{{#ifeq:{{NAMESPACE}}||{{Iumb
+| id = Future_product
+| bg = #CCD6B4
+| image = [[File:YodaPrognosticating-ESBHD.jpg|150px]]
+| caption = Difficult to see. Always in motion is the future.
+| message = This page contains information about a confirmed future {{{1|product}}}.
+| comment = The content of the page may change dramatically as the product release approaches and more information becomes available.}}{{SpecialCategorizer|{{#switch: {{lc: {{{1}}} }}
+| year = 
+| audiobook = <includeonly>[[Category:Future audiobooks|{{PAGENAME}}]]</includeonly>
+| children's book = <includeonly>[[Category:Future children's books|{{PAGENAME}}]]</includeonly>
+| book     = <includeonly>[[Category:Future books|{{PAGENAME}}]]</includeonly>
+| reference book = <includeonly>[[Category:Future books|{{PAGENAME}}]]</includeonly>
+| group of books = <includeonly>[[Category:Future books|{{PAGENAME}}]]</includeonly>
+| comic    = <includeonly>[[Category:Future comics|{{PAGENAME}}]]</includeonly>
+| group of comics = <includeonly>[[Category:Future comics|{{PAGENAME}}]]</includeonly>
+| hardcover | hardcover collection = <includeonly>[[Category:Future hardcover collections|{{PAGENAME}}]]</includeonly>
+| episode  = <includeonly>[[Category:Future television episodes|{{PAGENAME}}]]</includeonly>
+| group of episodes = <includeonly>[[Category:Future television episodes|{{PAGENAME}}]]</includeonly>
+| television episode = <includeonly>[[Category:Future television episodes|{{PAGENAME}}]]</includeonly>
+| group of television episodes = <includeonly>[[Category:Future television episodes|{{PAGENAME}}]]</includeonly>
+| event    = <includeonly>[[Category:Future events|{{PAGENAME}}]]</includeonly>
+| film     = <includeonly>[[Category:Future films|{{PAGENAME}}]]</includeonly>
+| group of films = <includeonly>[[Category:Future films|{{PAGENAME}}]]</includeonly>
+| game     = <includeonly>[[Category:Future games|{{PAGENAME}}]]</includeonly>
+| magazine = <includeonly>[[Category:Future magazines|{{PAGENAME}}]]</includeonly>
+| novel    = <includeonly>[[Category:Future novels|{{PAGENAME}}]]</includeonly>
+| short story    = <includeonly>[[Category:Future short stories|{{PAGENAME}}]]</includeonly>
+| trade paperback     = <includeonly>[[Category:Future trade paperbacks|{{PAGENAME}}]]</includeonly>
+| #default = <includeonly>{{SpecialCategorizer|[[Category:Future products|{{PAGENAME}}]]}}</includeonly>
+}}}}|}}<noinclude>
+
+==Categorization==
+The default category is [[:Category:Future products]]. To place an article in the proper subcategory, use one of the following parameters:
+
+*<nowiki>{{FutureProduct|audiobook}} -></nowiki> [[:Category:Future audiobooks]]
+*<nowiki>{{FutureProduct|book}} -></nowiki> [[:Category:Future books]]
+*<nowiki>{{FutureProduct|group of books}} -></nowiki> [[:Category:Future books]]
+*<nowiki>{{FutureProduct|comic}} -></nowiki> [[:Category:Future comics]]
+*<nowiki>{{FutureProduct|group of comics}} -></nowiki> [[:Category:Future comics]]
+*<nowiki>{{FutureProduct|hardcover collection}} -></nowiki> [[:Category:Future hardcover collections]]
+*<nowiki>{{FutureProduct|episode}} -></nowiki> [[:Category:Future television episodes]]
+*<nowiki>{{FutureProduct|television episode}} -></nowiki> [[:Category:Future television episodes]]
+*<nowiki>{{FutureProduct|group of episodes}} -></nowiki> [[:Category:Future television episodes]]
+*<nowiki>{{FutureProduct|group of television episodes}} -></nowiki> [[:Category:Future television episodes]]
+*<nowiki>{{FutureProduct|event}} -></nowiki> [[:Category:Future events]]
+*<nowiki>{{FutureProduct|film}} -></nowiki> [[:Category:Future films]]
+*<nowiki>{{FutureProduct|group of films}} -></nowiki> [[:Category:Future films]]
+*<nowiki>{{FutureProduct|game}} -></nowiki> [[:Category:Future games]]
+*<nowiki>{{FutureProduct|magazine}} -></nowiki> [[:Category:Future magazines]]
+*<nowiki>{{FutureProduct|novel}} -></nowiki> [[:Category:Future novels]]
+*<nowiki>{{FutureProduct|short story}} -></nowiki> [[:Category:Future short stories]]
+*<nowiki>{{FutureProduct|trade paperback}} -></nowiki> [[:Category:Future trade paperbacks]]
+
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

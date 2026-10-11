@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=EndorExpress
+|image=[[File:Globe.svg|text-top|x14px|class=darkmodeinvert]]
+|site_text=[http://www.endorexpress.net EndorExpress]
+|base_url=https://www.endorexpress.net
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

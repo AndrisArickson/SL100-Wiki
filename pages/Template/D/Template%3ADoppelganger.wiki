@@ -1,0 +1,15 @@
+{{Iumb
+| bg = #E6FFE6
+| image = [[File:Padme-6.jpg|65px]]
+| caption = This is my decoy&hellip; my protection&hellip; my loyal bodyguard.
+| message = This account <includeonly>(<tt>[[User:{{PAGENAME}}|{{PAGENAMEE}}]]</tt>)</includeonly> is a '''[[Wikipedia:Wikipedia:Username policy#Doppelganger accounts|doppelganger account]]''', created by <tt>[[User:{{{1}}}|{{{1}}}]]</tt>, an established user, to prevent impersonation by vandals.
+| comment = Please see the '''[[{{TALKPAGENAME}}|talk page]]''' for relevant discussion. [[Wookieepedia:Administrators|Administrators]], please [[User talk:{{{1}}}|notify {{{1}}}]] when taking any action on this account.
+}}<includeonly>{{SpecialCategorizer|[[Category:Doppelganger accounts]]}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{doppelganger|Your real username}}</nowiki>
+
+This template adds pages to [[:Category:Doppelganger accounts]].
+
+[[Category:Administrative templates|{{PAGENAME}}]]
+[[Category:User page templates|{{PAGENAME}}]]</noinclude>

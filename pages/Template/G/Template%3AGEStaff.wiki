@@ -1,0 +1,14 @@
+[[{{#if:{{{formatted|}}}|{{{1}}}{{!}}{{{formatted}}}|{{{1}}}}}]] has official backstory elements that, while not directly published for the public, are officially [[canon]] details that can be obtained verbally from cast members working in the {{{2}}}.<noinclude>
+
+==Usage==
+Use this template when referencing official background information from [[Star Wars: Galaxy's Edge|''Star Wars'': Galaxy's Edge]] that can only be obtained from verbal interactions with cast members working in the location.
+
+<pre>
+{{GEStaff|name of store/attraction/restaurant/etc.|formatted version of the name (optional)|what kind of location (land, store, attraction, restaurant, etc.)}}
+</pre>
+
+<nowiki>{{GEStaff|Star Wars: Galaxy's Edge|formatted=''Star Wars'': Galaxy's Edge|land}}</nowiki> produces the following:
+
+{{GEStaff|Star Wars: Galaxy's Edge|formatted=''Star Wars'': Galaxy's Edge|land}}
+
+[[Category:Logic citation templates|GEStaff]]</noinclude>

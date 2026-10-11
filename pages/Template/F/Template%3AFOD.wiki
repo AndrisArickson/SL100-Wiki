@@ -1,0 +1,15 @@
+{{#invoke:BaseCitation|main|template=FOD
+|mode=TV
+|image=[[File:ForcesOfDestinyLogo-Dplus.png|text-top|x16px|link=Star Wars Forces of Destiny]]
+|series=Star Wars Forces of Destiny
+|child={{{1|}}}
+|ctext={{{2|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "episode name" with the appropriate information.
+ <nowiki>{{</nowiki>FOD|''EPISODE NAME''|''FORMATTED NAME'' (optional)}}
+
+==Image==
+[[File:ForcesOfDestinyLogo-Dplus.png|thumb|left|Not an orphan.]]
+
+[[Category:Web series citation templates|Forces of Destiny]]</noinclude>

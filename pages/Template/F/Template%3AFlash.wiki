@@ -1,0 +1,7 @@
+<small>(In flashback(s))</small><noinclude>{{Top|fprot|mprot}}[[Category:Appearance templates|{{PAGENAME}}]]<templatedata>
+{
+	"params": {},
+	"description": "For ==Appearances== Sections, indicates that the subject of the article appeared or was mentioned in flashback(s) in the source.",
+	"format": "inline"
+}
+</templatedata></noinclude>

@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=BustCollectionCite
+|mode=ref
+|series=Star Wars Bust Collection
+|issue={{{1}}}|lookupIssue=yes|lookupIssueType=RefMagazineTitles
+|child={{{2}}}
+|lookupText=true
+|lookupType=RefMagazine
+|lookupCombine=true
+|lookupTextOnly=true
+|lookupTextValue={{{3|}}}
+|parentMode={{{parent|}}}
+}}<noinclude>{{Documentation}}</noinclude>

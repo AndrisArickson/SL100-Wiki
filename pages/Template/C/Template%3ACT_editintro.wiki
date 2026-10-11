@@ -1,0 +1,13 @@
+{| class="article-editintro darkbackground1" style="width:100%; padding:0; border-spacing:5px; border:2px solid #2F6FAB; -moz-border-radius:5px; margin-bottom:5px; clear:left"
+| style="padding:5px; text-align:center" rowspan="3" | [[File:Blue-exclamation-mark.png|50px]]
+| style="padding:5px" | '''Cast your vote''' in the [[Help:Source editor|Source Editor]] by adding a new line to the bottom of the relevant voting section:
+<pre style="margin:5px 0">#Optional comment! ~~~~</pre>
+<p style="margin-bottom:0">"#" adds to the automatically numbered list, while four tildes (&#126;&#126;&#126;&#126;) produces the code for your signature (see our [[Wookieepedia:Signature policy|signature guide]]).</p>
+|-
+| style="padding:5px" | If you are using the Visual Editor instead, add a new line to continue the numbered list and click the signature icon ([[File:Wikisigbutton.png|23px]]) on the edit toolbar.
+|-
+| style="padding:5px" | If you have any doubts, please do [[Wookieepedia:Contact|'''ask for help''']] from an editor, such as on our [[Wookieepedia:Discord|Discord server]] or our dedicated {{FP|4400000000000012062|Ask An Editor A Question}} forum thread.
+|}<noinclude>
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Edit intros]]</noinclude>

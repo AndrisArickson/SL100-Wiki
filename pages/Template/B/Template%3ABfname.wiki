@@ -1,0 +1,21 @@
+<includeonly>#REDIRECT [[List of computer-controlled character names in Battlefront games]]
+
+{{R_from_random_NPCs}}</includeonly><noinclude>
+
+==Description==
+<pre>
+#REDIRECT [[List of computer-controlled character names in Battlefront games]]
+
+{{R_from_random_NPCs}}
+</pre>
+
+==Usage==
+Copy the below code into blank pages to create redirects to the [[List of computer-controlled character names in Battlefront games]] page.
+<pre>{{subst:Bfname}}</pre>
+
+==See also==
+*[[Template:R from random NPCs]]
+
+__EXPECTUNUSEDTEMPLATE__
+
+[[Category:Administrative templates|Bfname]]</noinclude>

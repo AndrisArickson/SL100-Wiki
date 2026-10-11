@@ -1,0 +1,25 @@
+This template is to be used for citing individual pages on [[HarperCollins Publishers|Harper Collins ''Publishers''{{'}}]] [https://www.harpercollins.com official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Harper|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.harpercollins.com/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Harper|url=9780062466822/star-wars-propaganda|text=Star Wars Propaganda|archivedate=20170718231245}}</nowiki></code>
+
+Results in:
+
+{{Harper|url=9780062466822/star-wars-propaganda|text=Star Wars Propaganda|archivedate=20170718231245}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

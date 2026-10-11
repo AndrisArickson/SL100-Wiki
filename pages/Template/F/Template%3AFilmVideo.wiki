@@ -1,0 +1,15 @@
+{{#switch: {{{1|}}}
+  | 1 | I     = [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
+  | 2 | II    = [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+  | 3 | III   = [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+  | 4 | IV    = [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]
+  | 5 | V     = [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+  | 6 | VI    = [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+  | 7 | VII   = [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+  | 8 | VIII  = [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+  | 9 | IX    = [[Star Wars: Episode IX The Rise of Skywalker|''Star Wars'': Episode IX ''The Rise of Skywalker'']]
+  | TCW = [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+  | Rogue One = ''[[Rogue One: A Star Wars Story]]''
+  | Solo = ''[[Solo: A Star Wars Story]]''
+  | #default  = {{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Invalid Film parameter arguments]]|}}
+}}&#32;[[Star Wars home video releases|home video release]]</span><noinclude>{{Documentation}}</noinclude>

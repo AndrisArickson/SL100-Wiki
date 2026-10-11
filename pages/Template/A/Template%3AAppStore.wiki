@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=AppStore
+|image=[[File:AppStore-Logo.svg|text-top|x16px|link=https://apps.apple.com/{{{domain|us}}}/app]]
+|site_text=the [[wikipedia:App Store (Apple)|App Store]] [https://www.apple.com/app-store website]
+|base_url=https://apps.apple.com/{{{domain|us}}}/app
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

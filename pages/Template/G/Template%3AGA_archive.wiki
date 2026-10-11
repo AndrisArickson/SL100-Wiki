@@ -1,0 +1,16 @@
+<div id="old-forum-warning" class="boilerplate metadata rfa" style="padding:0 10px; border:1px solid #AAA; margin:2em 0 0; background-color:#F4F4F4">
+:''The following discussion is preserved as an archive of a [[Wookieepedia:Good article nominations|Good article nomination]] that was '''{{{1|successful}}}'''. <span style="color:red">'''Please do not modify it.'''</span>''<includeonly>{{SpecialCategorizer|[[Category:Wookieepedia Good article nomination pages archive/{{subst:<noinclude />CURRENTYEAR}}|{{subst:<noinclude />SUBPAGENAME}}]]}}</includeonly><noinclude></div>
+
+==Usage==
+This template should be placed at the top of the actual [[Wookieepedia:Good article nominations|Good article nomination]] page to be archived. To use this template, copy and paste one of the following:
+*<code><nowiki>{{subst:GA archive|successful}}</nowiki></code> or <code><nowiki>{{subst:GA archive}}</nowiki></code> for successful nominations, or
+*<code><nowiki>{{subst:GA archive|unsuccessful}}</nowiki></code> for unsuccessful nominations.
+
+Finally, add a <code><nowiki></div></nowiki></code> tag at the very end of the page.
+
+==Categorization==
+*[[:Category:Wookieepedia Good article nomination pages archive]]
+
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Wookieepedia AgriCorps templates]]
+[[Category:Status article archive templates]]</noinclude>

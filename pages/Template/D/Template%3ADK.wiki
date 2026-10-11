@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DK
+|image=[[File:DK-Logo.svg|text-top|x16px|link=https://www.dk.com]]
+|site_text=[[Dorling Kindersley]]'s [https://www.{{#if:{{{host|}}}|{{{host|}}}|dk.com/{{#ifeq:{{#sub:{{{url|}}}|0|{{#pos:{{{url|}}}|/}}}}|us|en-us|}}}} official website]
+|base_url=https://{{{subdomain|www}}}.{{#if:{{{host|}}}|{{{host|}}}|dk.com}}
+|target_url={{{url|}}}
+|lang={{{lang|{{#ifeq:{{#sub:{{{url|}}}|0|8}}|products|UK|{{#sub:{{{url|}}}|0|{{#pos:{{{url|}}}|/}}}}}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

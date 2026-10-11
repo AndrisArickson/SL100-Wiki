@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DDVYouTube
+|archive=YouTube
+|image=[[File:DisneyDreamlightValley-YouTube.jpg|text-bottom|x18px|link=https://www.youtube.com/@disneydreamlightvalley]]
+|site_text=the official ''[[Disney Dreamlight Valley]]'' [https://www.youtube.com/@disneydreamlightvalley YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

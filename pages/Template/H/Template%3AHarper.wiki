@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Harper
+|image=[[File:HarperCollinsLogoVector.svg|text-top|x16px|link=https://www.harpercollins.com]]
+|site_text=[[HarperCollins Publishers|Harper Collins ''Publishers''{{'}}]] [https://www.harpercollins.com official website]
+|base_url=https://{{{subdomain|www}}}.harpercollins.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

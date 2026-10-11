@@ -1,0 +1,17 @@
+{{Nav start|''[[Star Wars: Essential Guides]]''}}
+{{Nav heading|First generation ([[1995]]&ndash;[[2001]])}}
+{{Nav text|[[The Essential Guide to Characters|''Characters'']] · [[The Essential Guide to Vehicles and Vessels|''Vehicles and Vessels'']] · [[The Essential Guide to Weapons and Technology|''Weapons and Technology'']] · [[The Essential Guide to Planets and Moons|''Planets and Moons'']]<br />[[The Essential Guide to Droids|''Droids'']] · [[The Essential Chronology (real-world book)|''Chronology'']] · [[The Essential Guide to Alien Species (real-world book)|''Alien Species'']] · [[The Essential Guide to Episode I|''Episode I'' <small>(canceled)</small>]]}}
+{{Nav heading|Second generation ([[2002]]&ndash;[[2006]])}}
+{{Nav text|[[The New Essential Guide to Characters|''New Characters'']] · [[The New Essential Guide to Vehicles and Vessels|''New Vehicles and Vessels'']] · [[The New Essential Guide to Weapons and Technology|''New Weapons and Technology'']]<br />[[The New Essential Chronology|''New Chronology'']] · [[The New Essential Guide to Droids|''New Droids'']] · [[The New Essential Guide to Alien Species|''New Alien Species'']]}}
+{{Nav heading|Third generation ([[2007]]&ndash;[[2012]])}}
+{{Nav text|[[Jedi vs. Sith: The Essential Guide to the Force (real-life book)|''The Force'']] · [[The Essential Atlas|''Atlas'']] · [[The Essential Guide to Warfare|''Warfare'']] · [[The Essential Reader's Companion|''Reader's Companion'']] · [[The Essential Characters|''Characters'' <small>(canceled)</small>]]}}
+{{Nav end|edit=EssentialGuidesNav}}<noinclude>
+{{clear}}
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav heading}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Reference book navbox templates|{{PAGENAME}}]]</noinclude>

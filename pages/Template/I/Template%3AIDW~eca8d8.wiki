@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=IDW
+|image=[[File:IDW.svg|baseline|x12px|link=https://www.idwpublishing.com|class=darkmodeinvert]]
+|site_text=[[IDW Publishing]]'s [https://www.idwpublishing.com official website]
+|base_url=https://{{{subdomain|www}}}.idwpublishing.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

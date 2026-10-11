@@ -1,0 +1,21 @@
+{{#if: {{#if:{{{1|}}}|{{CutType|page={{{1|}}}}}|{{{legends|}}}}}
+|{{ooumb
+|id = Cut
+|bg = #D8E9FC
+|image = [[File:Blue-exclamation-mark.png|40px]]
+|caption = The content of this [[Star Wars Legends|''Star Wars'' Legends]] article was cut.
+|message = This article covers a subject that was cut from the final version of a ''Star Wars'' Legends source. The subject appeared in no other source and was therefore considered [[Canon|non-canon]] within the Legends continuity.
+}}<includeonly>{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Cut content from {{{1|}}}]]|[[Category:Legends cut content]]}}}}</includeonly>|{{ooumb
+|id = Cut
+|bg = #D8E9FC
+|image = [[File:Blue-exclamation-mark.png|40px]]
+|caption = The content of this article was cut.
+|message = This article covers a subject that was cut from the final version of a [[canon]] source. The subject has appeared in no other source and is therefore considered non-canon.
+}}<includeonly>{{SpecialCategorizer|{{#if:{{{1|}}}|[[Category:Cut content from {{{1|}}}]]|[[Category:Canon cut content]]}}}}</includeonly>}}<noinclude>
+
+==Usage==
+For articles that have cut content that fall within the Legends continuity, include the parameter "legends" with any value. Example: <nowiki>{{Cut|legends=1}}</nowiki>.
+
+==Categorization==
+*[[:Category:Cut content]]
+[[Category:Header templates|{{PAGENAME}}]]</noinclude>

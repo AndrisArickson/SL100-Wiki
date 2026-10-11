@@ -1,0 +1,67 @@
+<div style="float:right">[[{{{1}}}|thumb|left|{{{2}}}]]</div>
+<noinclude>{{Top|sprot}}__NOTOC__
+==Usage instructions==
+<pre><nowiki>{{IBI|filename|caption}}</nowiki></pre>
+
+===Notes===
+This is the "image beside infobox" template. It allows thumbs to sit alongside long infoboxes on detail-heavy articles, particularly starships.
+
+==Example==
+====Code====
+<code><nowiki>{{IBI|File:BLOC01AB.jpg|This is a picture beside an infobox.}}</nowiki></code>
+
+====Result====
+{{Starship_class
+|image=[[File:Corvette_negvv.png]]
+|name=Some Kind Of Thing
+|manufacturer=
+|designer=
+|line=
+|model=
+|type=Stuff-class Thingy
+|cost=
+|modifier=
+|sysmods=
+|length=42
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=}}
+{{IBI|File:BLOC01AB.jpg|This is a picture beside an infobox.}}
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

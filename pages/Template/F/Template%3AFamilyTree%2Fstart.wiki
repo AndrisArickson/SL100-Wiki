@@ -1,0 +1,6 @@
+<table class="family-tree" style="border-spacing: 0px; {{#switch: {{{align|}}}
+|left = float: left;
+|right = float: right;
+|center = margin: 0 auto;
+|#default = 
+}} {{{style|}}}"><noinclude>{{FamilyTree/doc}}[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

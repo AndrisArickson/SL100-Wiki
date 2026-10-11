@@ -1,0 +1,27 @@
+==Usage==
+This template is used to cite the [[Bantha Tracks (newsletter)|''Bantha Tracks'']] newsletter and its articles. It should not be used to cite the ''[[Star Wars Insider]]'' section of the same name, as this falls under the umbrella of another citation template: {{Tl|InsiderCite}}. 
+
+Use the following code:
+<code><nowiki>{{BanthaCite|issue=|article=}}</nowiki></code>
+
+==Example(s)==
+For articles in the newsletter that do not have/need articles on the site:
+
+<code><nowiki>{{BanthaCite|16|The Empire Strikes Back in New NPR Drama Series}}</nowiki></code>
+
+Results in:
+
+{{BanthaCite|16|The Empire Strikes Back in New NPR Drama Series}}
+
+<hr />
+For articles that do have internal articles:
+
+<code><nowiki>{{BanthaCite|16|article=In Conversation with Carrie Fisher, 1982|Interview: Carrie Fisher}}</nowiki></code>
+
+Results in:
+
+{{BanthaCite|16|article=In Conversation with Carrie Fisher, 1982|Interview: Carrie Fisher}}
+
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Magazine citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{SpecialCategorizer|{{#if:{{#pos:{{PAGENAME}}|(disambiguation)}}|----
+''This is a [[Wookieepedia:Naming policy|disambiguation page]]&mdash;a navigational aid that lists other pages that might otherwise share the same title. If an article link referred you here, you might want to go back and fix it to point directly to the intended page.''
+----
+__DISAMBIG__
+[[Category:Disambiguation pages]]
+ |{{#if:{{NAMESPACE}}||<span style="color: red">Disambiguation pages must include (disambiguation) in their title. Please move this page or remove the template.</span>}}}}}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Disambiguation pages]]
+
+[[Category:Disambiguation and redirection templates|{{PAGENAME}}]][[fi:Malline:Täsmennys]]</noinclude>

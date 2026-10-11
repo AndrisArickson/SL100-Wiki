@@ -1,0 +1,27 @@
+{{SmallMB
+|image=[[File:Information icon.svg|40px]]
+|message='''This image is a [[Wikipedia:Screenshot|screen capture]] of an [[Wikipedia:Email|email]] exchange between a Wookieepedia editor and an official ''Star Wars'' creative, and&#32;{{#if:{{{legacy|}}}|while it predates Wookieepedia's [[Wookieepedia:Interview and creator interaction policy|''creator interaction policy'']], the editing community has [[Forum:CT:Interviews and creator interactions|''elected'']] to consider this document a valid source|follows the rules set by Wookieepedia's [[Wookieepedia:Interview and creator interaction policy|''creator interaction policy'']]}}'''.<br />Email correspondence between creator {{#if:{{{author|}}}|[[{{{author|}}}]]}}{{#if:{{{address|}}}|&#32;({{{address|}}}{{#if:{{{source|}}}|, email publicly listed on [{{{source|}}} this page])|)}}|{{#if:{{{source|}}}|&#32;(reached through an intermediary listed on [{{{source|}}} this page])|}}}} and {{#if:{{{smt|}}}|[[Wookieepedia:Social Media Team|Wookieepedia's Social Media Team]]|editor}} {{#if:{{{editor|}}}|{{U|{{{editor|}}}}}}}{{#if:{{{date|}}}|&#32;{{#switch:{{#count:{{{date}}}|-}}
+|0=in {{#time:[[Y]]|{{{date}}}}}
+|1=in {{#time:[[F]] [[Y]]|{{{date}}}}}
+|#default=on {{#time:[[F j]], [[Y]]|{{{date}}}}}
+}}|}}.<br />'''Permission was granted for the image file to be utilised and exhbited on Wookieepedia.'''
+|messagestyle=text-align:center
+}}<noinclude>
+
+==Usage==
+<pre>{{Email|author=|editor=|address=|source=|date=|legacy=1}}</pre>
+
+Or, instead of {{Para|editor}}, can use {{Para|smt}} set to "1" if an email from the [[Wookieepedia:Social Media Team|SMT]] address.
+
+==Example(s)==
+Test, using [[:File:DanielJoseOlderEmailBibs.png]]: 
+{{Email|author=Daniel José Older|editor=Spookywilloww|source=https://www.danieljoseolder.net/contact-1|date=2023|legacy=1}}
+
+Test, using [[:File:AustinWintoryLegoFN-Email.png]]: 
+{{Email|author=Austin Wintory|editor=Bonzane10|address=austin@austinwintory.com|source=https://www.austinwintory.com/contact|date=2024|legacy=1}}
+
+Test, prototype for post-CT use:
+{{Email|author=George Lucas|editor=NanoLuuke|address=example@mail.com|source=https://example.com|date=2030}}
+
+{{Email|author=George Lucas|editor=NanoLuuke|date=2030}}
+[[Category:File advisory templates]]</noinclude>

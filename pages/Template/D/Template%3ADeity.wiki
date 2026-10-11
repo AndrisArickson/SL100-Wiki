@@ -1,0 +1,79 @@
+<infobox theme="Deity">
+	<image source="image"/>
+	<title source="name"></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<group collapse="open">
+		<header>Religious information</header>
+		<data source="religion"><label>Associated religion</label></data>
+		<data source="pantheon"><label>Pantheon</label></data>
+		<data source="type"><label>Type of deity</label></data>
+        <data source="powers"><label>Powers</label></data>
+		<data source="worship"><label>Places of worship</label></data>
+		<data source="artifacts"><label>Artifacts</label></data>
+	</group>
+	<group collapse="open">
+		<header>Descriptive information</header>
+		<data source="gender"><label>Gender</label></data>
+		<data source="pronouns"><label>Pronouns</label><format><!--
+        -->{{#ifeq:{{lc:{{{pronouns|}}}}}|new||{{#ifeq:{{lc:{{{pronouns|}}}}}|unspecified||{{{pronouns|}}}}}}}<!--
+        --></format></data>
+		<data source="form"><label>Form</label></data>
+	</group>
+	<group collapse="open">
+		<header>Family information</header>
+		<data source="parents"><label>Parent(s)</label><format><!--
+        -->{{#ifeq:{{lc:{{{parents|}}}}}|new||{{{parents}}}}}<!--
+        --></format></data>
+		<data source="partners"><label>Partner(s)</label><format><!--
+        -->{{#ifeq:{{lc:{{{partners|}}}}}|new||{{{partners}}}}}<!--
+        --></format></data>
+		<data source="siblings"><label>Sibling(s)</label><format><!--
+        -->{{#ifeq:{{lc:{{{siblings|}}}}}|new||{{{siblings}}}}}<!--
+        --></format></data>
+		<data source="children"><label>Children</label><format><!--
+        -->{{#ifeq:{{lc:{{{children|}}}}}|new||{{{children}}}}}<!--
+        --></format></data>
+	</group>
+	<group collapse="open">
+		<header>Chronological and political information</header>
+                <data source="first"><label>First worshipped</label></data>
+                <data source="area"><label>Area of influence</label></data>
+		<data source="affiliation"><label>Affiliation</label></data>
+	</group>
+        <navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Deity|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. 
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|religion|pantheon|type|powers|worship|artifacts|gender|form|first|area|affiliation|optional=pronouns,parents,partners,siblings,children|ignore=name}}<!--
+
+The following code flags infoboxes that have no values assigned to the pronouns parameter
+-->{{#ifeq:{{lc:{{{pronouns|}}}}}|new|[[Category:Articles with unpopulated pronoun parameters]]|}}<!--
+-->{{#if:{{#ifeq:{{lc:{{{parents|}}}}}|new|1|}}{{#ifeq:{{lc:{{{partners|}}}}}|new|1|}}{{#ifeq:{{lc:{{{siblings|}}}}}|new|1|}}{{#ifeq:{{lc:{{{children|}}}}}|new|1|}}|[[Category:Articles with unpopulated family parameters]]|}}<!--
+--><noinclude>{{Top|sprot}}{{clear}}
+
+===Usage===
+Paste the following code into the top of an article, filling all known fields:
+
+<pre class="wrap"><nowiki>
+{{Deity
+|image=
+|name=
+|religion=
+|pantheon=
+|type=
+|powers=
+|worship=
+|artifacts=
+|gender=
+|pronouns=
+|form=
+|first=
+|area=
+|parents=
+|partners=
+|siblings=
+|children=
+|affiliation=
+}}</nowiki></pre>
+
+[[Category:Character infobox templates]]</noinclude>

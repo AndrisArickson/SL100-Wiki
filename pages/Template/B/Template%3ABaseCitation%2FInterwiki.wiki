@@ -1,0 +1,18 @@
+{{#if:{{{image|}}}|{{{image|}}}&#32;|}}{{#if:{{{quotes|}}}|"|}}{{#if:{{{wiki_link|}}}
+|[{{{wiki_link|}}}/{{{page|{{BASEPAGENAME}}}}} {{#if:{{{italics|}}}|''|}}{{{text|{{{page|{{BASEPAGENAME}}}}}}}}{{#if:{{{italics|}}}|''|}}]
+|[[{{{wiki|}}}:{{{page|{{BASEPAGENAME}}}}}|{{#if:{{{italics|}}}|''|}}{{{text|{{{page|{{BASEPAGENAME}}}}}}}}{{#if:{{{italics|}}}|''|}}]]
+}}{{#if:{{{quotes|}}}|"|}} on {{#if:{{{nothe|}}}||the&nbsp;}}{{#if:{{{wiki_link|}}}|[{{{wiki_link}}} {{{wiki_name|}}}]|[[{{{wiki|}}}|{{{wiki_name|}}}]]}}<noinclude>
+
+==Usage==
+<pre>{{BaseCitation/Interwiki
+|image=[[File:Aurebesh.png|text-top|x16px|link=w:c:aurebesh]]
+|wiki=w:c:aurebesh
+|wiki_name=Aurebesh Wiki
+|page={{{1|}}}
+|text={{{2|}}}
+|italics={{{italics|}}}
+|quotes={{{quotes|}}}
+}}</pre>
+
+[[Category:Base citation templates]]
+[[Category:Interwiki link templates| ]]</noinclude>

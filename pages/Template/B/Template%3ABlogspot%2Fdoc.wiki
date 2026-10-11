@@ -1,0 +1,52 @@
+This template is to be used for citing [[Wikipedia:Blogger (service)|Blogger]] posts.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use. For use in External links sections and similar, leave <tt>url</tt> and <tt>text</tt> empty.
+
+===References===
+<code><nowiki>{{Blogspot|subdomain=|url=|name=|text=|date=|quote=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|subdomain}} Subdomain of the URL of the author's [[Wikipedia:Blogger (service)|Blogger]] blog such as the <code><nowiki>geekosity</nowiki></code> subdomain of the URL <code><nowiki>https://geekosity.blogspot.com/</nowiki></code> used in the below examples.
+*{{Para|name}} Name of the author's Blogger blog.
+*{{Para|url}} URL of the Blogger post, minus the domain (and subdomain) name. (For example, if citing the post <code><nowiki>http://geekosity.blogspot.com/2009/08/endnotes-for-star-wars-essential-atlas_24.html</nowiki></code>, only put <code><nowiki>2009/08/endnotes-for-star-wars-essential-atlas_24.html</nowiki></code> in this field, without including <code><nowiki>http://geekosity.blogspot.com/</nowiki></code>).
+*{{Para|text}} Name of the Blogger post being cited.
+
+====Optional parameters====
+*{{Para|date}} Date the Blogspot post was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|quote}} Relevant quote from the Blogger post. Users are encouraged to utilize this optional field in the template whenever possible, especially when citing canonical information, as Blogger posts are subject to permanent removal at any time.
+
+====Examples====
+<code><nowiki>{{Blogspot|subdomain=geekosity|url=2009/08/endnotes-for-star-wars-essential-atlas_24.html|name=Daniel Wallace's Geekosity|postname=Endnotes for Star Wars: The Essential Atlas (part 2 of 5)|date=2009-08-24|quote=A relevant quotation from the post.}}</nowiki></code>
+
+Results in:
+
+{{Blogspot|subdomain=geekosity|url=2009/08/endnotes-for-star-wars-essential-atlas_24.html|name=Daniel Wallace's Geekosity|text=Endnotes for Star Wars: The Essential Atlas (part 2 of 5)|date=2009-08-24|quote=A relevant quotation from the post.}}
+
+<code><nowiki>{{Blogspot|subdomain=geekosity|url=2009/08/endnotes-for-star-wars-essential-atlas_24.html|name=Daniel Wallace's Geekosity|text=Endnotes for Star Wars: The Essential Atlas (part 2 of 5)|date=2009-08-24|quote=A relevant quotation from the post.}}</nowiki></code>
+
+Results in:
+
+{{Blogspot|subdomain=geekosity|url=2009/08/endnotes-for-star-wars-essential-atlas_24.html|name=Daniel Wallace's Geekosity|text=Endnotes for Star Wars: The Essential Atlas (part 2 of 5)|date=2009-08-24|quote=A relevant quotation from the post.}}
+
+===Externals links===
+<code><nowiki>{{Blogspot|subdomain=|name=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|subdomain}} Subdomain of the URL of the author's [[Wikipedia:Blogger (service)|Blogger]] blog such as the <code><nowiki>geekosity</nowiki></code> subdomain of the URL <code><nowiki>https://geekosity.blogspot.com/</nowiki></code> used in the below examples.
+*{{Para|name}} Name of the author's Blogger blog.
+
+====Examples====
+<code><nowiki>{{Blogspot|subdomain=geekosity|name=Daniel Wallace's Geekosity}}</nowiki></code>
+
+Results in:
+
+{{Blogspot|subdomain=geekosity|name=Daniel Wallace's Geekosity}}
+
+===Backup links===
+{{BackupLinkHelp}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Social media citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

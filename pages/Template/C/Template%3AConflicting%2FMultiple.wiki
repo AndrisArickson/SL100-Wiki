@@ -1,0 +1,24 @@
+{{Iumb
+| id = Twoconflicting
+| bg = #D8E9FC
+| image = [[File:Blue-question-mark.png|40px]]
+| caption = There are multiple conflicting sources for this article.
+|message = Conflicting sources: {{{1}}}; {{{2}}}; {{{3}}}
+| comment = '''[[Lucasfilm]] has not established a cohesive timeline regarding this subject. Editor discretion is advised.'''
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with conflicting sources|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+For use if there are more than '''two''' {{Tl|Twoconflicting}} templates on an article.
+
+Example:
+
+<pre><code>
+{{Twoconflicting/Multiple|[[Ahsoka (novel)|''Ahsoka'']] and [[The Clone Wars: Season Seven|''The Clone Wars'': Season Seven]]|''[[Star Wars: Absolutely Everything You Need to Know]]'' and ''[[Star Wars: Character Encyclopedia, Updated and Expanded Edition]]''|[[Ahsoka (novel)|''Ahsoka'']] and "[[Resolve (episode)|Resolve]]"}}
+</code></pre>
+
+{{Twoconflicting/Multiple|[[Ahsoka (novel)|''Ahsoka'']] and [[The Clone Wars: Season Seven|''The Clone Wars'': Season Seven]]|''[[Star Wars: Absolutely Everything You Need to Know]]'' and ''[[Star Wars: Character Encyclopedia, Updated and Expanded Edition]]''|[[Ahsoka (novel)|''Ahsoka'']] and "[[Resolve (episode)|Resolve]]"}}
+
+==Categorization==
+*[[:Category:Articles with conflicting sources]]
+
+[[Category:Header templates]]</noinclude>

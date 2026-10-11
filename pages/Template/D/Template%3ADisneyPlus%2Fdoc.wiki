@@ -1,0 +1,27 @@
+==Instructions==
+This template is to be used for citing individual pages on [[Disney+]] and its [https://press.disneyplus.com/ Press website].
+
+==Usage==
+Copy the template code below, fill the required fields, and remove any that you don't use. 
+
+<code><nowiki>{{DisneyPlus|subdomain=|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.disneyplus.com/</nowiki></code> or <code><nowiki>https://www.press.disneyplus.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+====Optional parameters====
+*{{Para|subdomain}} The subdomain part of the web page's URL, for example, <code>press</code> (defaults to <code>www</code> if not specified).
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{DisneyPlus|url=series/obi-wan-kenobi/2JYKcHv9fRJb|text=Watch Obi-Wan Kenobi}}</nowiki></code>
+
+Results in:
+
+{{DisneyPlus|url=series/obi-wan-kenobi/2JYKcHv9fRJb|text=Watch Obi-Wan Kenobi}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

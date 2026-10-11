@@ -1,0 +1,74 @@
+<infobox layout="tabular" theme="character" theme-source="type">
+	<image source="imagefallback">
+		<default>{{InfoboxGallery|image={{{image|}}}|caption1={{{option1|}}}|image2={{{image2|}}}|caption2={{{option2|}}}|image3={{{image3|}}}|caption3={{{option3|}}}}}</default>
+	</image>
+	<title source="name"><default>{{PAGENAME}}</default></title>
+	<navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+	<group collapse="open">
+		<header>Biographical information</header>
+		<data source="homeworld"><label>Homeworld</label></data>
+		<data source="birth"><label>Born</label></data>
+		<data source="death"><label>Died</label></data>
+	</group>
+	<group collapse="open">
+		<header>Descriptive information</header>
+		<data source="species"><label>Species</label></data>
+		<data source="gender"><label>Gender</label></data>
+		<data source="pronouns"><label>Pronouns</label><format><!--
+        -->{{#ifeq:{{lc:{{{pronouns|}}}}}|new||{{#ifeq:{{lc:{{{pronouns|}}}}}|unspecified||{{{pronouns|}}}}}}}<!--
+        --></format></data>
+		<data source="donor"><label>Genetic donor(s)</label></data>
+		<data source="height"><label>Height</label></data>
+		<data source="mass"><label>Mass</label></data>
+		<data source="hair"><label>Hair color</label></data>
+		<data source="feathers"><label>Feather color</label></data>
+		<data source="eyes"><label>Eye color</label></data>
+		<data source="skin"><label>Skin color</label></data>
+		<data source="cyber"><label>Cybernetics</label></data>
+	</group>
+	<group collapse="open">
+        <header>Musical information</header>
+        <data source="genre"><label>Genres</label></data>
+        <data source="instruments"><label>Instruments / parts</label></data>
+        <data source="songs"><label>Songs</label></data>
+        <data source="albums"><label>Albums</label></data>
+        <data source="collaboration"><label>Collaborations</label></data>
+	</group>
+	<group collapse="open">
+		<header>Family information</header>
+		<data source="families"><label>Family</label><format><!--
+        -->{{#ifeq:{{lc:{{{families|}}}}}|new||{{{families}}}}}<!--
+        --></format></data>
+		<data source="parents"><label>Parent(s)</label><format><!--
+        -->{{#ifeq:{{lc:{{{parents|}}}}}|new||{{{parents}}}}}<!--
+        --></format></data>
+		<data source="partners"><label>Partner(s)</label><format><!--
+        -->{{#ifeq:{{lc:{{{partners|}}}}}|new||{{{partners}}}}}<!--
+        --></format></data>
+		<data source="siblings"><label>Sibling(s)</label><format><!--
+        -->{{#ifeq:{{lc:{{{siblings|}}}}}|new||{{{siblings}}}}}<!--
+        --></format></data>
+		<data source="children"><label>Children</label><format><!--
+        -->{{#ifeq:{{lc:{{{children|}}}}}|new||{{{children}}}}}<!--
+        --></format></data>
+	</group>
+	<group collapse="open">
+		<header>Chronological & political information</header>
+		<data source="affiliation"><label>Affiliation(s)</label></data>
+		<data source="caste"><label>Caste</label></data>
+		<data source="domain"><label>Domain</label></data>
+		<data source="masters"><label>Masters</label></data>
+		<data source="apprentices"><label>Apprentices</label></data>
+		<data source="owners"><label>Owner(s)</label></data>
+	</group>
+        <navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Character|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small><br /></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|type|image|name|homeworld|birth|death|species|gender|pronouns|height|mass|hair|feathers|eyes|skin|cyber|families|parents|partners|siblings|children|affiliation|masters|apprentices|optional=option1,image2,option2,image3,option3,donor,caste,domain,genre,instruments,songs,albums,collaboration,owners|ignore=name}}<!--
+-->{{#ifeq:{{lc:{{{pronouns|}}}}}|new|[[Category:Articles with unpopulated pronoun parameters]]|}}<!--
+-->{{#if:{{#ifeq:{{lc:{{{families|}}}}}|new|1|}}{{#ifeq:{{lc:{{{parents|}}}}}|new|1|}}{{#ifeq:{{lc:{{{partners|}}}}}|new|1|}}{{#ifeq:{{lc:{{{siblings|}}}}}|new|1|}}{{#ifeq:{{lc:{{{children|}}}}}|new|1|}}|[[Category:Articles with unpopulated family parameters]]|}}<!--
+--><noinclude>
+{{Top|fprot}}
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=FortniteWeb
+|image=[[File:FortniteCom-Favicon.png|text-top|x18px|link=https://www.fortnite.com]]
+|site_text=''[[Fortnite]]''{{'}}s [https://www.fortnite.{{{domain|com}}} official website]
+|base_url=https://www.fortnite.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

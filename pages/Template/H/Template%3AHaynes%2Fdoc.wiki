@@ -1,0 +1,25 @@
+This template is to be used for citing individual pages on [[Haynes Publishing]]'s [https://haynes.com/en-gb official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Haynes|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.haynes.com/</nowiki></code>).
+*{{Para|text}} Title of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Haynes|url=en-gb/star-wars-yt-1300-millennium-falcon-manual|text=Star Wars YT-1300 Millennium Falcon Manual|archivedate=20200827054417}}</nowiki></code>
+
+Results in:
+
+{{Haynes|url=en-gb/star-wars-yt-1300-millennium-falcon-manual|text=Star Wars YT-1300 Millennium Falcon Manual|archivedate=20200827054417}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

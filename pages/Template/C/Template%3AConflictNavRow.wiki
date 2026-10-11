@@ -1,0 +1,7 @@
+<tr>
+{{#if:{{{full|}}}
+|<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:100%;">{{{1|}}}</td>
+|<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{3|#F9F9F9}}}; width:{{{width1|25%}}};">{{{1|}}}</td>
+<td {{#if:{{{span|}}}|colspan="2"|}} style="color:{{{4|black}}}; {{#if:{{{unbold|}}}|font-weight:normal;|}} padding:4px 4px 4px 4px; background:{{{3|#F9F9F9}}}; width:{{{width2|75%}}};">{{{2|}}}</td>}}</tr><noinclude>
+
+[[Category:Navbox utility templates]]</noinclude>

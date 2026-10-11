@@ -1,0 +1,5 @@
+''[[Star Wars: Timelines]]'' dates the events of {{#ifeq:{{PAGENAME}}|Alphabet Squadron (novel)|''Alphabet Squadron''|[[Alphabet Squadron (novel)|''Alphabet Squadron'']]}}{{#if:{{{1|}}}|, including {{{1}}},}} to [[4 ABY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{AlphabetSquadronDate}}</nowiki></code>
+[[Category:Canon dating citation templates]]</noinclude>

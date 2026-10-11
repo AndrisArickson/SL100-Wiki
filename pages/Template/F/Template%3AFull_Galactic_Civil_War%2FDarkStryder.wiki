@@ -1,0 +1,22 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[DarkStryder Campaign]]<br />([[8 ABY/Legends|8 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Minos Cluster incursions|First Minos Cluster]] · [[Minos Cluster counterattack|Second Minos Cluster]]<br />[[Battle of Kal'Shebbol|Kal'Shebbol]] · [[Bombing of Domaz|Domaz]] · [[Battle of Kolatill|Kolatill]] · [[Mission to Aaris III|Aaris]] · [[Mission to Gandle Ott|Gandle Ott]]<br />[[Skirmish at Shintel|Shintel]] · [[Skirmish at Tanquilla Beach|''Tanquilla Beach'']] · [[Mission to Pembric II|Pembric II]] · [[Battle of Galtea|Galtea]] · [[Mission to Sebiris|Sebiris]]<br />[[Mission to Binaros|First Binaros]] · [[Skirmish near Binaros|Second Binaros]] · [[Battle of Episol|Episol]] · [[Mission to Dayark|Dayark]]<br />[[Mission to Pitann|Pitann]] · [[Mission to Uukaablis|Uukaablis]] · [[Battle of Qu'mock|Qu'mock]] · [[Liberation of Exocron|First Exocron]] · [[Battle of Danoor|Danoor]]<br />[[Mission to Q'Maere|Q'Maere]] · [[Skirmish on the Alien Construct|Alien Construct]] · [[Battle of Yvara|Yvara]] · [[Skirmish on Demonsgate|Demonsgate]]<br />[[Battle of DarkStryder's Fortress|DarkStryder's Fortress]] · [[Battle of Kathol System|Kathol]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW DarkStryder]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

@@ -1,0 +1,20 @@
+==Usage==
+This template is used to cite content from the [[Star Wars Encyclopedia (series)|''Star Wars Encyclopedia'']] published by [[De Agostini]]. The (reference book) parenthetical is added automatically, and thus is not necessary.
+
+==Instructions==
+<pre><nowiki>{{EncyclopediaCite|BOOKLET TITLE}}</nowiki></pre>
+
+===Example(s)===
+<code><nowiki>{{EncyclopediaCite|Millennium Falcon}}</nowiki></code>
+
+Results in:
+
+{{EncyclopediaCite|Millennium Falcon}}
+
+==Icon==
+[[File:AltayaCite.svg|thumb|left|x16px]]
+
+Note that this icon was removed from the template due to Wookieepedia's MediaWiki software limitations on template size.
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Magazine citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

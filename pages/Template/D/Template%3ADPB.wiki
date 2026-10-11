@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DPB
+|image=[[File:DPB-Logo.svg|text-bottom|x18px|link=https://disneyparksblog.com]]
+|site_text=the [https://disneyparksblog.com Disney Parks Blog]
+|base_url=https://{{{subdomain|www}}}.{{{domain|disneyparksblog.com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

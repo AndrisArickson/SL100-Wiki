@@ -1,0 +1,21 @@
+{{#invoke:Expand|main
+| {{{1|}}}
+| id = Contradict
+| bg = #D4C8F7
+| image = [[File:Vergere_NEC.jpg|72px]]
+| caption = Everything I tell you is a lie.
+| message = Parts of this article are self-contradictory or confusing and need to be edited for clarity.
+| comment = {{#if:{{{1|}}}|<br />This article has been tagged because: '''{{{1}}}'''.|}}Consult relevant sources, and fix the article however you can. This notice may be removed once the internal logic of the article has been improved.
+| reason = The following parts of the article contradict
+| category = Category:Self-contradictory articles
+}}<includeonly>{{SpecialCategorizer|[[Category:Self-contradictory articles|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Usage==
+<nowiki>{{Contradict|reason}}</nowiki>
+
+Per [[Forum:CT:Maintenance template followup]], usages without a reason provided on either the talk page or within the template are subject to removal.
+
+==Categorization==
+*[[:Category:Self-contradictory articles]]
+*[[:Category:Pages using maintenance header templates without a parameter]]
+[[Category:Maintenance templates|{{PAGENAME}}]]</noinclude>

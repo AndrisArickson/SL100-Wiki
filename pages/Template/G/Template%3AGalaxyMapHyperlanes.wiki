@@ -1,0 +1,32 @@
+<includeonly>{{{map|[[Star Wars Galaxy Map (poster)|''Star Wars'' Galaxy Map poster]].}}} This assumes that the name "[[{{{route|}}}]]{{#if:{{{canon|}}}|," as used in {{{canon|}}},|"}} applies to the [[canon]] [[hyperspace route]] depicted on the map that matches the depiction of the [[Star Wars Legends|''Star Wars'' Legends]] [[{{{route|}}}/Legends|route]] with the same name in {{{leg|}}} per {{Bluesky|jasoncfry.bsky.social.|post/3lesrzmvktc2q|[[Jason Fry]]|date=2025-01-03|quote=They are indeed the same. Same galaxy, same map. In the rare event something needs to be changed, it will be discussed.}} {{C|In response to: Hi @jasoncfry.bsky.social, was hoping you could confirm for Wookieepedia purposes that the hyperspace routes depicted on the Galaxy Map given out at Celebration are intended to be the same routes as in Legends. Sorry to bother, but would make our lives much easier to have it confirmed!}}{{#if:{{NAMESPACE}}||{{#if:{{{canon|}}}||{{#ifeq:{{{route|}}}|{{PAGENAME}}||[[Category:GalaxyMapHyperlanes usages without canon parameter]]}}}}}}</includeonly><noinclude>
+This template is to be used for referencing the rationale, based on [[Jason Fry]]'s Bluesky post, for treating the [[hyperspace route]]s depicted on [[Star Wars Galaxy Map (poster)|''Star Wars'' Galaxy Map poster]] as matching the equivelant routes from [[Star Wars Legends|''Star Wars'' Legends]]. A [[canon]] source must still provide the name for the route.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields and remove any that you don't use.
+
+<code><nowiki>{{GalaxyMapHyperlanes|route=|canon=|leg=}}</nowiki></code>
+
+===Required parameters===
+*'''route''': Unlinked name of the route
+*'''leg''': Linked and formatted name of the Legends source that depicted the route, most commonly <nowiki>''[[The Essential Atlas]]''</nowiki>
+
+===Optional parameters===
+*'''canon''': Use this parameter to list the canon source that identified the route. Not needed for the page on the route itself as it will be referenced separately
+*'''map''': Use this parameter to cite a different map other than the Galaxy Map poster
+
+===Examples===
+===Canon source included===
+<code><nowiki>{{GalaxyMapHyperlanes|route=Namadii Corridor|canon=''[[Collapse of the Republic]]''|leg=''[[The Essential Atlas]]''}}</nowiki></code>
+
+Results in:
+
+{{GalaxyMapHyperlanes|route=Namadii Corridor|canon=''[[Collapse of the Republic]]''|leg=''[[The Essential Atlas]]''}}
+
+===No canon source included===
+<code><nowiki>{{GalaxyMapHyperlanes|route=Namadii Corridor|leg=''[[The Essential Atlas]]''}}</nowiki></code>
+
+Results in:
+
+{{GalaxyMapHyperlanes|route=Namadii Corridor|leg=''[[The Essential Atlas]]''}}
+
+[[Category:Logic citation templates]]</noinclude>

@@ -1,0 +1,26 @@
+==Instructions==
+Linking to a current Holonet article:
+:<pre><nowiki>{{Holonet|category|subject|text|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></pre>
+Note that care must be taken to avoid an incorrect link.
+
+===Required parameters===
+*{{Para|category}} found in the URL immediately after <code><nowiki>https://www.swtor.com/holonet/</nowiki></code> and before the subsequent <code><nowiki>/</nowiki></code>. For example, it would be <mark>allegiances</mark> as highlighted in the following URL: <code><nowiki>https://www.swtor.com/holonet/</nowiki></code><mark>allegiances</mark>/galactic-republic.
+*{{Para|subject}} found in the last part of the URL after <code><nowiki>https://www.swtor.com/holonet/[category]/</nowiki></code>. For example, it would be <mark>galactic-republic</mark> as highlighted in the following URL: <code><nowiki>https://www.swtor.com/holonet/allegiances/</nowiki></code><mark>galactic-republic</mark>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below. Note: the default values for dates are centralized at [[Module:ArchiveAccess/{{ROOTPAGENAMEE}}]]. This template will use the default value when omitting <code>archivedate</code> or <code>archiveurl</code>, but either can be provided to override the default value.
+
+===Optional parameters===
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Holonet|allegiances|sith-empire|The Sith Empire}}</nowiki></code>
+
+Results in:
+
+{{Holonet|allegiances|sith-empire|The Sith Empire}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

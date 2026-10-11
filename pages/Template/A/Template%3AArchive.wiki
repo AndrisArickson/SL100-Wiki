@@ -1,0 +1,20 @@
+<div id="old-forum-warning" class="boilerplate metadata" style="padding:0 10px; border:1px solid #AAA; margin:2em 0 0 0; background-color:#F4F4F4">'''This page is an archive and is no longer live.''' It is preserved as a historic record.<hr /><includeonly>[[Category:Retired site features]]</includeonly><noinclude></div>
+
+==Description==
+This template is used for creating the blue "archive box" on pages that other [[:Category:Archive templates|archive templates]] don't cover. Examples include [[:Category:Retired site features|retired site features]].
+
+==Usage==
+Place the following code at the top of the page to be archived:
+<pre>
+{{subst:Archive}}
+</pre>
+
+Then, to avoid disrupting the page layout, add this closing tag at the very end of the thread:
+<pre>
+</div>
+</pre>
+
+==Categorization==
+*[[:Category:Retired site features]]
+
+[[Category:Archive templates]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=CargoBay
+|image=[[File:CargoBay.svg|baseline|x12px|Cargo Bay|link=StarWars.com]]
+|site_text=the [[StarWars.com]] [https://web.archive.org/web/20040822011049/http://cargobay.starwars.com Cargo Bay]
+|full_url={{{full_url|}}}
+|base_url=https://cargobay.starwars.com/webapps/cargobay
+|target_url={{{full_url|{{{url|}}}}}}
+|use_lua_subpage=1
+|defunct_site=1
+|separator=in
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

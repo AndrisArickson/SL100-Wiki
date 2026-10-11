@@ -1,0 +1,34 @@
+==Usage==
+Copy the template code below for the required usage and paste it into the appropriate place in an article, fill in the required fields, and remove any that you don't use.
+
+<code><nowiki>{{Apple|subdomain=|url=|text=|date=|archivedate=|archiveurl=|archivefile=|nobackup=}}</nowiki></code>
+
+====Required parameters====
+*{{Para|url}} Use the alphanumeric part of the url that comes after "<code>apple.com/</code>" in the url. Please do not include anything other than this.
+*{{Para|text}} Title of the article or webpage
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+====Optional parameters====
+*{{Para|date}} Date the content was published online. In the format <code>YYYY-MM-DD</code>.
+*{{Para|subdomain}} For subdomains of <code><nowiki>apple.com</nowiki></code>, such as <code><nowiki>books.apple.com</nowiki></code>, the subdomain can be specified, for example, {{Para|subdomain}}<code>books</code>.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Apple|subdomain=books|url=us/audiobook/star-wars-mace-windu-the-glass-abyss-unabridged/id1719047680|text=Star Wars: Mace Windu: The Glass Abyss (Unabridged)|archivedate=20240626033810}}</nowiki></code>
+
+Results in:
+
+{{Apple|subdomain=books|url=us/audiobook/star-wars-mace-windu-the-glass-abyss-unabridged/id1719047680|text=Star Wars: Mace Windu: The Glass Abyss (Unabridged)|archivedate=20240626033810}}
+
+<hr />
+<code><nowiki>{{Apple|subdomain=music|url=us/album/star-wars-hunters-original-video-game-soundtrack/1750545925|text=Star Wars: Hunters (Original Video Game Soundtrack)|date=2024-06-07}}</nowiki></code>
+
+Results in:
+
+{{Apple|subdomain=music|url=us/album/star-wars-hunters-original-video-game-soundtrack/1750545925|text=Star Wars: Hunters (Original Video Game Soundtrack)|date=2024-06-07}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Commercial and product listing internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

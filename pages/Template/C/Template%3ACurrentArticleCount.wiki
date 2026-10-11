@@ -1,0 +1,3 @@
+{{formatnum:{{#expr:{{NUMBEROFARTICLES:R}}-{{PAGESINCATEGORY:Disambiguation_pages|R}}-{{PAGESINCATEGORY:Canon_index_pages|R}}-{{PAGESINCATEGORY:Legends_index_pages|R}}-{{PAGESINCATEGORY:Non-canon_index_pages|R}}-{{PAGESINCATEGORY:Non-canon_Legends_index_pages|R}}-{{PAGESINCATEGORY:Real-world_index_pages|R}}}}}}<noinclude>
+
+[[Category:Main Page templates]]</noinclude>

@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DisneyYouTube
+|archive=YouTube
+|image=[[File:Disney_YouTube.jpg|text-bottom|x18px|link=https://www.youtube.com/c/Disney]]
+|site_text=the official [[The Walt Disney Company|Disney]] [https://www.youtube.com/c/Disney YouTube channel]
+|base_url=https://www.youtube.com/{{{parameter|watch?v}}}=
+|target_url={{{1|{{{video|{{{url}}}}}}}}}
+|text={{{2|{{{text|}}}}}}
+|use_lua_subpage=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

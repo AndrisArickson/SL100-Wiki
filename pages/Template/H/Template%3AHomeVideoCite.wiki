@@ -1,0 +1,62 @@
+<includeonly>{{#ifeq:{{{featurette|}}}|The Director's Experience
+|<span class="pnh">''[[Star Wars: The Mandalorian and Grogu]]'' &mdash;&#32;</span>''[[Star Wars: The Mandalorian and Grogu — The Director's Experience|The Director's Experience]]''
+|<span class="pnh">{{#if:{{{set|}}}
+  |{{#invoke:FormattedTextLookup|main|type=General|template=HomeVideoCite|target={{{set|}}}|text={{{stext|{{{sformatted|}}}}}}}}
+  |[[Star Wars home video releases|{{#invoke:FormattedTextLookup|main|type=General|textOnly=true|template=HomeVideoCite|target={{{film|}}}}}]]
+}}&#32;&mdash;&#32;</span>{{#if:{{{featurette|}}}
+  |"{{#if:{{{nolink|}}}|{{{featurette|}}}|{{HideParanthetical|{{{featurette|}}}|{{{ftext|}}}}}}}" Featurette
+  |{{#if:{{{scene|}}}
+    |Deleted Scene: "{{{scene|}}}"
+    |{{#if:{{{tcw|}}}|''Jedi Temple Archives''|Episode Commentary}}: "{{#ifeq:{{{episode|}}}|<EPISODE>|Insert Episode Name Here|{{HideParanthetical|{{{episode|}}}|{{{etext|{{{eformatted|}}}}}}}}}}"
+}}
+}}
+}}</includeonly><noinclude>
+This template is to be used for referencing featurettes and episode commentaries from home video releases.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+<code><nowiki>{{HomeVideoCite|set=|episode=|etext=|featurette=|ftext=|scene=|tcw=|nolink=}}</nowiki></code>
+
+===Required parameters===
+*One of the following parameters: 
+**'''film''': used for the original home video release of the prequel and sequel trilogies, as well as ''Rogue One'' and ''Solo''. The '''set''' parameter will default to [[Star Wars home video releases]] in this case.
+**'''set''': Article name of the home video release set. Formatting text for the sets is controlled by [[Module:FormattedTextLookup/General]].
+*One of the following parameters:
+:*'''episode''': Name of the episode whose commentary is being cited.
+:*'''featurette''': Name of the Behind-The-Scenes Featurette.
+:*'''scene''': Name of the deleted scene
+
+===Optional parameters===
+*'''etext''': Formatted name of the episode.
+*'''ftext''': Formatted name of the featurette.
+*'''tcw''': for ''Star Wars: The Clone Wars'' home videos, changes the "Episode Commentary" text to "Jedi Temple Archives"
+*'''nolink''': disables the linking for the featurette parameter
+
+==Examples==
+<code><nowiki>{{HomeVideoCite|set=Star Wars: The Clone Wars The Complete Season Three|episode=Assassin (episode)|tcw=1}}</nowiki></code>
+
+Results in:
+
+{{HomeVideoCite|set=Star Wars: The Clone Wars The Complete Season Three|episode=Assassin (episode)|tcw=1}}
+
+<hr />
+<code><nowiki>{{HomeVideoCite|set=Star Wars: The Clone Wars The Complete Season Three|featurette=Creating Kamino}}</nowiki></code>
+
+Results in:
+
+{{HomeVideoCite|set=Star Wars: The Clone Wars The Complete Season Three|featurette=Creating Kamino}}
+
+<hr />
+<code><nowiki>{{HomeVideoCite|set=Star Wars: The Clone Wars The Complete Season Three|scene=Son Confers with Ancient Sith Lords}}</nowiki></code>
+
+Results in:
+
+{{HomeVideoCite|set=Star Wars: The Clone Wars The Complete Season Three|scene=Son Confers with Ancient Sith Lords}}
+
+
+<code><nowiki>{{HomeVideoCite|film=TMAG|featurette=The Director's Experience}}</nowiki></code>
+
+*{{HomeVideoCite|film=TMAG|featurette=The Director's Experience}}
+
+__NOTOC__
+[[Category:TV citation templates]]</noinclude>

@@ -1,0 +1,28 @@
+{{Ooumb
+|id=copyvio
+|bg=#000
+|fg=#fff
+|image=[[File:Copyright.svg|right|50px]]
+|caption=<center style="padding:5px">POSSIBLE COPYRIGHT VIOLATION</center>
+|message=The previous content of this page appears to infringe on the [[Wikipedia:Copyright|copyright]] of the text from the source(s) below:
+
+:{{{url|{{{1|}}}}}}
+
+# '''Do not edit this page without reading the following instructions.'''
+# Unless the copyright status of the previous content is clarified, this page may be deleted one week after its listing. If a new article has been written, it will replace this message.
+# If you hold the copyright to this material, or if you have permission to use this material under the terms of our [[Wookieepedia:Copyrights|license]], please indicate so on [[Talk:{{PAGENAME}}|this page's talk page]].
+#'''Do not resubmit the material that was here before.''' It will be removed. This article will only be restored if this wiki is found to have copyright permission.
+# If a previous version of this article was not in violation of copyright, you may revert this article to that version.
+# In most cases of copyright violation, the only previous versions of this article were copied from another source.  If that is the case, '''you may only remove this template after completely rewriting this article''', with no further copyright violations included.
+# For more complicated problems, you may write a new article at the [[{{PAGENAME}}/Temp|temporary subpage]], and indicate that you have done so on [[Talk:{{PAGENAME}}|this page's talk page]].  If you can fix the copyright problem by reverting or by directly rewriting this article, creation of a temp page is not necessary.
+
+Posting copyrighted material without the express permission of the copyright holder is a violation of applicable law and of our [[Wookieepedia:Copyrights|policy]]. Those who repeatedly post copyrighted material may be [[Wookieepedia:Blocking policy|blocked]] from further editing.
+
+<small>If ''you'' have just labeled this page as a possible copyright infringement, please remember to remove the copyright-violating text. The original posting is still accessible for viewing through the <span class="plainlinks">[{{SERVER}}{{localurl:{{PAGENAME}}|action=history}} history]</span> link on this page.</small>
+}}<includeonly>{{SpecialCategorizer|[[Category:Possible copyright violations|{{PAGENAME}}]]}}</includeonly><noinclude>{{Top|sprot}}
+
+==Categorization==
+*[[:Category:Possible copyright violations]]
+
+[[Category:Deletion templates|{{PAGENAME}}]]
+[[Category:Copyright templates|{{PAGENAME}}]]</noinclude>

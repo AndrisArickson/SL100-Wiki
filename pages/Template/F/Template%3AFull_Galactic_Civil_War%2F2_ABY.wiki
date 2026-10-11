@@ -1,0 +1,21 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[2 ABY/Legends|2 ABY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Siege on Fremond III|Fremond III]] · [[Boeus sector campaign|Boeus sector]] · [[Attack on the Imperial Army-Navy Ordnance Center|First Onderon]] · [[Battle of Maldra IV|Maldra IV]]<br />[[Attack on the Pica Rim Pipeline|Albrae-Don]] · [[Attack on the Calabar Queen|Cadomai Prime]] · [[Subjugation of Lirra|Lirra system]] · [[Mission to Graleca|Graleca]]<br />[[Duel on Mimban|Mimban]] · [[Evacuation of Horob|Horob]] · [[Mission to Bevell Three|Bevell Three]] · [[Battle of Hoth (2 ABY)|Second Hoth]]<br />[[Operation Peacemaker|Ishanna]] · [[Lijarak Mines Incident|Lijarak Mines]] · [[Mission to Fallowan|Fallowan]] · [[Bombardment of Ruisto|Ruisto]]<br />[[Massacre at Terrina Square|Quellor]] · [[Slaughter on Sarko VI|Sarko VI]] · [[Mission to Selnesh|Selnesh]] · [[Capture of Zekka Thyne|Corellia]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW 2 ABY]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

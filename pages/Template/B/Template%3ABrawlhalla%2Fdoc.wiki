@@ -1,0 +1,22 @@
+This template is to be used for citing individual pages on ''[[Brawlhalla]]''{{'}}s [https://brawlhalla.com official website].
+
+==Usage==
+Copy the template code below, and paste it into an article's reference note. Fill in as many parameters as you can, remove any that you don't use.
+
+<code><nowiki>{{Brawlhalla|url=|text=|archivedate=|archiveurl=|nobackup=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://brawlhalla.com/</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Brawlhalla|url=news/star-wars-brawl-of-the-heroes|text=Take the High Ground in Brawl of the Heroes!}}</nowiki></code>
+
+Results in:
+
+{{Brawlhalla|url=news/star-wars-brawl-of-the-heroes|text=Take the High Ground in Brawl of the Heroes!}}
+
+__NOTOC__
+<includeonly>[[Category:Internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

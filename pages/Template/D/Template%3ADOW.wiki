@@ -1,0 +1,6 @@
+{{#ifeq:{{CURRENTDOW}}|0|7|{{CURRENTDOW}}}}<noinclude>{{Top|sprot}}
+
+==Description==
+A modification of the <code><nowiki>{{CURRENTDOW}}</nowiki></code> [[w:c:community:Help:Magic words|magic word]], which displays an integer representing the current day of the week in [[wikipedia:UTC|UTC]]. Outputs 1&ndash;6 correspond to days Monday&ndash;Saturday, and 7 corresponds to Sunday (whereas <code><nowiki>{{CURRENTDOW}}</nowiki></code> displays 0 instead).
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

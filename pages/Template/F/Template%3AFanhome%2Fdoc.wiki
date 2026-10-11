@@ -1,0 +1,32 @@
+==Description==
+This template is to be used for citing individual pages on [[De Agostini|Fanhome]]'s [https://www.fanhome.com/us official website].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Fanhome|subdomain=|url=|lang=|text=|int=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the web page, minus the domain name (<code><nowiki>https://www.fanhome.com</nowiki></code>).
+*{{Para|text}} Name of the page being cited.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} The subdomain part of the web page's URL, if different from <code>www</code>. Default is <code>www</code> if left blank.
+*{{Para|lang}} The URL prefix that also denotes the language, for example <code>uk</code> for <code>fanhome.com/<u>uk</u></code>. Default is <code>us</code> if left blank.
+*{{Para|int}} Name of the Wookieepedia article corresponding to the De Agnosti article being cited.
+*{{Para|nolive}} Use <code>nolive=1</code> if the original content is no longer available.
+
+===Backup links===
+{{BackupLinkHelp}}
+
+==Example(s)==
+<code><nowiki>{{Fanhome|lang=us|url=star-wars/darth-vader|text=''Star Wars: Darth Vader''|archivedate=20241205224848}}</nowiki></code>
+
+Results in:
+
+{{Fanhome|lang=us|url=star-wars/darth-vader|text=''Star Wars: Darth Vader''|archivedate=20241205224848}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

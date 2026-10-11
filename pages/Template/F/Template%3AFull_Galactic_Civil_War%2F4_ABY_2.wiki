@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[4 ABY/Legends|4 ABY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; font-weight: normal; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Liberation of Bespin|Fifth Bespin]] · [[Battle of Tandankin|First Tandankin]]<br />[[Mission to Cilpar|Cilpar]] · [[Mission to Mrlsst|Mrlsst]] · [[Tatooine Campaign|Sixth Tatooine]] · [[Battle of Moorja (Galactic Civil War)|First Moorja]]<br />[[Blockade of Chandrila|Second Chandrila]] · [[Mission to Radix|Radix]] · [[Operation on Abraxas|Abraxas]] · [[Battle of Glova|Second Glova]]<br />[[Skirmish at Kriselist|Kriselist]] · [[Eiattu Campaign|First Eiattu]] · [[Malrev incident|Malrev IV]] · [[Seizure of Moorja|Second Moorja]]<br />[[Hevvrol Sector Campaign|Hevvrol Campaign]] {{C|[[Battle of Bannistar Station|Bannistar Station]] · [[Battle of Glom Tho|Glom Tho]]}}<br />[[Battle of Druckenwell (Galactic Civil War)|Druckenwell]] · [[Battle of Notak|Notak]] · [[Devastation of Kashyyyk|Kashyyyk (I)]] · [[Liberation of Kashyyyk/Legends|Kashyyyk (II)]]<br />[[Liberation of Kessel|Third Kessel]] · [[Yevethan Uprising]] · [[Battle of Ralltiir (4 ABY)|Fourth Ralltiir]]<br />[[Battle of Brentaal IV (Galactic Civil War)|First Brentaal IV]] · [[Mission to Corellia (Rogue Squadron)|Third Corellia]] · [[Operation on Eiattu|Second Eiattu]]<br />[[Undercover operation on Axxila|Axxila]] · [[Charis uprising|First Charis]] · [[Subjugation of Charis|Second Charis]] · [[Assault on Epsilon Nine|Epsilon Nine]]<br />[[Battle of Emmer (4 ABY)|Emmer]] · [[Battle of Tantive V|Tantive V]] · [[Battle of the Hast Shipyards|Hast Shipyards]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW 4 ABY 2]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/4 DBY 2
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

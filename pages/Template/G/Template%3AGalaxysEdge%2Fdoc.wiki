@@ -1,0 +1,19 @@
+==Usage==
+Place the following code on the page and replace the "attraction name" with the appropriate information.
+
+<code><nowiki>{{GalaxysEdge|''ATTRACTION NAME''|''FORMATTED NAME'' (optional)}}</nowiki></code>
+
+==Example(s)==
+<code><nowiki>{{GalaxysEdge|Dok-Ondar's Den of Antiquities}}</nowiki></code>
+
+Results in:
+
+{{GalaxysEdge|Dok-Ondar's Den of Antiquities}}
+
+{{Interlang
+|es=Plantilla:GEAtr
+}}
+
+__NOTOC__
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Theme park citation templates]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,42 @@
+<includeonly><infobox theme="Media">
+    <image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="author"><label>Author(s)</label></data>
+        <data source="cover artist"><label>Cover artist</label></data>
+        <data source="illustrator"><label>Illustrator</label></data>
+        <data source="editor"><label>Editor</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>
+        <data source="early release"><label>Early release date</label></data>
+        <data source="release date"><label>Release date</label><format><!--
+        -->{{#ifeq:{{lc:{{{release date|}}}}}|none||{{#ifeq:{{lc:{{{release date|}}}}}|future||{{#ifeq:{{lc:{{{release date|}}}}}|canceled||{{#ifeq:{{lc:{{{release date|}}}}}|cancelled||{{{release date}}}}}}}}}}}<!--
+        --></format></data>	
+        <data source="intl release"><label>International release date(s)</label></data>
+        <data source="rereleased"><label>Rerelease date(s)</label></data>
+        <data source="media type"><label>Media type</label></data>
+        <data source="pages"><label>Pages</label></data>
+        <data source="isbn"><label>[[Wikipedia:International Standard Book Number|ISBN]]</label><format>{{#ifeq:{{{isbn}}}|none||[[Special:Booksources/{{{isbn}}}|{{{isbn}}}]]}}</format></data>
+        <data source="isbn2"><label>ISBN2</label><format>{{#if:{{{isbn2|}}}|[[Special:Booksources/{{{isbn2}}}|{{{isbn2}}}]]}}</format></data>
+        <data source="isbn3"><label>ISBN3</label><format>{{#if:{{{isbn3|}}}|[[Special:Booksources/{{{isbn3}}}|{{{isbn3}}}]]}}</format></data>
+        <data source="isbn4"><label>ISBN4</label><format>{{#if:{{{isbn4|}}}|[[Special:Booksources/{{{isbn4}}}|{{{isbn4}}}]]}}</format></data>
+        <data source="isbn5"><label>ISBN5</label><format>{{#if:{{{isbn5|}}}|[[Special:Booksources/{{{isbn5}}}|{{{isbn5}}}]]}}</format></data>
+        <data source="audiobook"><label>Audiobook(s)</label><format>{{#ifeq:{{{audiobook|}}}|N/A||{{{audiobook|}}}}}</format></data>
+    </group>
+    <group collapse="open">
+    	<header>Chronology</header>
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="series"><label>Series</label></data>
+        <data source="preceded by"><label>Preceded by</label></data>
+        <data source="followed by"><label>Followed by</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Book|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|author|cover artist|illustrator|editor|publisher|early release|release date|intl release|rereleased|media type|pages|isbn|timeline|series|preceded by|followed by|optional=no_year_check,not_appearance,canceled,anthology,isbn2,isbn3,isbn4,isbn5,audiobook,early_release,intl_release}}<!--
+-->{{#invoke:MediaDateCheck|main|isbn|isbn2|isbn3|isbn4||isbn5|special={{{not_appearance|}}}|no_year_check={{{no_year_check|}}}|template_name=Book}}<!--
+-->{{AppMediaCat|not_appearance={{{reprint|{{{anthology|{{{not_appearance|}}}}}}}}}}}{{#if:{{NAMESPACE}}{{{canceled|}}}||{{#if:{{{audiobook|}}}||{{#ifeq:{{lc:{{{release date|}}}}}|canceled||{{#ifeq:{{lc:{{{release date|}}}}}|cancelled||{{#if:{{{reprint|{{{anthology|{{{not_appearance|}}}}}}}}}|[[Category:Books without audiobook/Other]]|[[Category:Books without audiobook]]}}}}}}}}}}</includeonly><noinclude>{{Documentation}}</noinclude>

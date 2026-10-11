@@ -1,0 +1,157 @@
+'''Per [[Forum:CT:Familytree usage]], this template is only to be used on articles that are familial-type groups, including clans, flocks, and other cultural group equivalents that utilize a {{Tl|Family}} infobox.'''
+
+==Documentation==
+Tool for family trees. This implementation is primarily from [[wikipedia:Template:Chart|wikipedia]], and is based on their now deprecated FamilyTree template.
+
+==Example usage==
+This code:
+
+<pre style="overflow:auto;">
+{{FamilyTree/start}}
+{{FamilyTree|PA|y|AN|PA=[[Padmé Amidala]]|AN=[[Anakin Skywalker]]
+|boxstyle_PA=f
+|boxstyle_AN=m}}
+{{FamilyTree| |,|-|^|-|.| |}}
+{{FamilyTree|LE| |LU|LE=[[Runningwind]]|LU=[[Mousefur]]
+|boxstyle_LE=f
+|boxstyle_LU=m}}
+{{FamilyTree/end}}
+</pre>
+
+Results in:
+
+{{FamilyTree/start}}
+{{FamilyTree|PA|y|AN|PA=[[Padmé Amidala]]|AN=[[Anakin Skywalker]]
+|boxstyle_PA=f
+|boxstyle_AN=m}}
+{{FamilyTree| |,|-|^|-|.| |}}
+{{FamilyTree|LE| |LU|LE=[[Leia Skywalker Organa Solo|Leia Organa]]|LU=[[Luke Skywalker]]
+|boxstyle_LE=f
+|boxstyle_LU=m}}
+{{FamilyTree/end}}
+
+==Parameters==
+<!-- Deprecated by Wikipedia/in future MediaWiki updates -- The <code>|summary=''text''</code> parameter of the {{Tl|FamilyTree/start}} template should be used to describe the overall layout of the tree. This summary is for [[wikipedia:Wikipedia:Accessibility|accessibility]]: it is read aloud to visually impaired readers who use [[wikipedia:Screen reader|screen readers]], and is invisible to sighted readers.-->
+The {{Tl|FamilyTree}} template produces one row in a family tree table.  The template accepts up to 80 unnamed parameters describing the contents of the table.  Each parameter specifies a '''tile''' or a '''box'''.
+* '''Tiles''' are line drawing symbols consisting of horizontal and vertical lines and various corners and crossings thereof.  Tiles are specified using single-character symbols that more or less approximate the shape of the tile in appearance.  A special case of a tile is the '''empty tile''', specified by a single space character.  A table of supported tiles is given below.
+
+{|style="float:left;margin-left:1em"
+|+ '''Solid lines:'''
+|-
+| <big><tt>,</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|,}}{{FamilyTree/end}} 
+| <big><tt>v</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|v}}{{FamilyTree/end}} 
+| <big><tt>.</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|.}}{{FamilyTree/end}} 
+|-
+| <big><tt>)</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|)}}{{FamilyTree/end}}
+| <big><tt>+</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|+}}{{FamilyTree/end}}
+| <big><tt>(</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|(}}{{FamilyTree/end}} 
+|-
+| <big><tt>`</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|`}}{{FamilyTree/end}} 
+| <big><tt>^</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|^}}{{FamilyTree/end}} 
+| <big><tt>'</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|'}}{{FamilyTree/end}} 
+|-
+| <big><tt>-</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|-}}{{FamilyTree/end}}
+| <big><tt>!</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|!}}{{FamilyTree/end}}
+| <big><tt> </tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree| }}{{FamilyTree/end}}
+|}
+{| style="float:left;margin-left:1em"
+|+ '''Dashed lines:'''
+|-
+| <big><tt>F</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|F}}{{FamilyTree/end}}
+| <big><tt>V</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|V}}{{FamilyTree/end}}
+| <big><tt>7</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|7}}{{FamilyTree/end}}
+|-
+| <big><tt>D</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|D}}{{FamilyTree/end}}
+| <big><tt>%</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|%}}{{FamilyTree/end}}
+| <big><tt>C</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|C}}{{FamilyTree/end}}
+|-
+| <big><tt>L</tt></big> ||style="border: 1px solid gray"| {{FamilyTree/start}}{{FamilyTree|L}}{{FamilyTree/end}}
+| <big><tt>A</tt></big> ||style="border: 1px solid gray"| {{FamilyTree/start}}{{FamilyTree|A}}{{FamilyTree/end}}
+| <big><tt>J</tt></big> ||style="border: 1px solid gray"| {{FamilyTree/start}}{{FamilyTree|J}}{{FamilyTree/end}}
+|-
+| <big><tt>~</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|~}}{{FamilyTree/end}}
+| <big><tt>:</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|:}}{{FamilyTree/end}}
+| <big><tt> </tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree| }}{{FamilyTree/end}}
+|}
+{|style="float:left;margin-left:1em"
+|+ '''Mixed (1):'''
+|-
+| <big><tt>r</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|r}}{{FamilyTree/end}}
+| <big><tt>y</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|y}}{{FamilyTree/end}}
+| <big><tt>n</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|n}}{{FamilyTree/end}}
+|-
+| <big><tt>]</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|]}}{{FamilyTree/end}}
+| <big><tt>#</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|#}}{{FamilyTree/end}}
+| <big><tt>[</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|[}}{{FamilyTree/end}}
+|-
+| <big><tt>c</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|c}}{{FamilyTree/end}}
+| <big><tt>h</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|h}}{{FamilyTree/end}}
+| <big><tt>j</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|j}}{{FamilyTree/end}}
+|-
+| <big><tt>~</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|~}}{{FamilyTree/end}}
+| <big><tt>!</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|!}}{{FamilyTree/end}}
+| <big><tt> </tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree| }}{{FamilyTree/end}}
+|}
+{|style="float:left;margin-left:1em"
+|+ '''Mixed (2):'''
+|-
+| <big><tt>p</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|p}}{{FamilyTree/end}}
+| <big><tt>u</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|u}}{{FamilyTree/end}}
+| <big><tt>q</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|q}}{{FamilyTree/end}}
+|-
+| <big><tt>}</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|}|}}{{FamilyTree/end}}
+| <big><tt>*</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|*}}{{FamilyTree/end}}
+| <big><tt>{</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|{|}}{{FamilyTree/end}}
+|-
+| <big><tt>b</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|b}}{{FamilyTree/end}}
+| <big><tt>t</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|t|}}{{FamilyTree/end}}
+| <big><tt>d</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|d}}{{FamilyTree/end}}
+|-
+| <big><tt>-</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|-}}{{FamilyTree/end}}
+| <big><tt>:</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|:}}{{FamilyTree/end}}
+| <big><tt> </tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree| }}{{FamilyTree/end}}
+|}
+{|style="float:left;margin-left:1em"
+|+ '''Misc.:'''<!-- this subset is an insufficient set or questionable: -->
+|-
+| ||
+| <big><tt>T</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|T}}{{FamilyTree/end}}
+|-
+| <big><tt>G</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|G}}{{FamilyTree/end}}
+| <big><tt>X</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|X}}{{FamilyTree/end}}
+| <big><tt>K</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|K}}{{FamilyTree/end}}
+| <big><tt>k</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|k}}{{FamilyTree/end}}
+|-
+| ||
+| <big><tt>U</tt></big> ||style="border:1px solid gray"| {{FamilyTree/start}}{{FamilyTree|U}}{{FamilyTree/end}}
+|}
+<br clear="left" />
+
+* '''Boxes''' can contain arbitrary wiki markup.  The contents of boxes are specified using additional named parameters appended to the template call.  Each box is '''three tiles wide''' and normally has a 2 pixels wide black border.  Boxes can have any name that is a valid template parameter name, although single character names should be avoided to prevent conflicts with tile symbols.
+
+==Style attributes==
+The color of the boxes may be can be changed; these colors are slightly different and adapt to both light and dark mode for readability (as do the borders and lines of the trees).
+
+'''Key:'''
+:'''m''' &mdash; male
+:'''f''' &mdash; female
+:'''u''' &mdash; unspecified/non-binary
+
+<pre style="overflow:auto;">
+{{FamilyTree/start}}
+{{FamilyTree|PAR1|y|PAR2||PAR1=A [[Barash Silvain's parents|parent]]|PAR2=A [[parent]]|boxstyle_PAR1=u|boxstyle_PAR2=u}}
+{{FamilyTree| |,|-|^|.|}}
+{{FamilyTree|BARASH| |SIB||BARASH=[[Barash Silvain]]|SIB=[[Barash Silvain's siblings]]|boxstyle_BARASH=f|boxstyle_SIB=u}}
+{{FamilyTree/end}}
+</nowiki></pre>
+
+produces a result like this:
+
+{{FamilyTree/start}}
+{{FamilyTree|PAR1|y|PAR2||PAR1=A [[Barash Silvain's parents|parent]]|PAR2=A [[parent]]|boxstyle_PAR1=u|boxstyle_PAR2=u}}
+{{FamilyTree| |,|-|^|.|}}
+{{FamilyTree|BARASH| |SIB||BARASH=[[Barash Silvain]]|SIB=[[Barash Silvain's siblings]]|boxstyle_BARASH=f|boxstyle_SIB=u}}
+{{FamilyTree/end}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Utility templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

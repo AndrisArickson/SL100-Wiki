@@ -1,0 +1,14 @@
+{| class="darkbackground1" style="width:100%; background:white; padding:0; border-spacing:5px"
+|- style="text-align:center"
+| style="padding:5px" rowspan="2" | [[File:FA-Icon.svg|50px]]
+| style="padding:5px" | <big>'''In order to complete your Featured article nomination, please fill out this form.'''</big><br />Once done, copy <code><nowiki>{{</nowiki>/{{SUBPAGENAME}}<nowiki>}}</nowiki></code> onto the bottom of [{{fullurl:Wookieepedia:Featured article nominations|action=edit&section=1}} the FAN page].
+|-
+| style="padding:5px" | '''Guide for new nominators:'''
+*If the article has any parentheses in its title, replace "<code><nowiki>{{subst:NomPageTitle}}</nowiki></code>" in the top header with the actual name of the article; otherwise leave it as-is.
+*The "nomination comments" line is optional and can be used to make some quick notes such as word count, or just make a witty comment.
+*The "WookieeProject" line is optional and can be used to identify a [[Wookieepedia:WookieeProjects|WookieeProject]] that the article falls under. {{U|JocastaBot}} will auto-categorize the nomination under whatever project(s) are listed. Full names and WP: shortcuts are permitted.
+*Additional notes and/or questions can be left under the bottom "comments" header if you wish.
+*The rest of the form should be left as-is.
+|}<noinclude>
+__EXPECTUNUSEDTEMPLATE__
+[[Category:Edit intros]]</noinclude>

@@ -1,0 +1,26 @@
+This template is to be used for citing officially licensed artwork from [[Acme Archives Direct]]
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields plus as many of the optional fields as necessary and remove any that you don't use.
+
+<code><nowiki>{{Acme|url=|text=|archivedate=|archiveurl=|archivefile=|nobackup=|nolive=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|url}} URL of the page on Acme Archives' [https://www.acmearchivesdirect.com/ official website], minus the domain name (<code><nowiki>https://www.acmearchivesdirect.com/</nowiki></code>).
+*{{Para|text}} Name of the piece of art being cited.
+
+===Optional parameters===
+*{{Para|nolive}} If the URL is no longer available, use <code>|nolive=1</code>
+
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Acme|url=collections/star-wars-character-keys/products/kanan-jarrus-rebels-character-key|text=Kanan Character Key}}</nowiki></code>
+
+Results in:
+
+{{Acme|url=collections/star-wars-character-keys/products/kanan-jarrus-rebels-character-key|text=Kanan Character Key}}
+
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Publisher internet citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,16 @@
+==Description==
+This template is used to link articles from [[w:c:brickipedia|Brickipedia]].
+
+==Syntax==
+<code><nowiki>{{</nowiki>Brickipedia|''title''|''FORMATTED title'' <small>(optional)</small>}}</code>
+
+Replace "title" with the exact title of the article ''on Brickipedia'', not the title here. Do not use <nowiki>{{PAGENAME}}</nowiki> for the title, as this will cause the name in the template to change if our article is moved even if Brickipedia's article remains at the same name.
+
+==Samples==
+<code><nowiki>{{Brickipedia|Star Wars Rebels}}</nowiki></code> 
+
+results in...
+
+{{Brickipedia|Star Wars Rebels|Star Wars Rebels}}
+
+<includeonly>[[Category:Interwiki link templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

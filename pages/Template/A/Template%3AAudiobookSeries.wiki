@@ -1,0 +1,63 @@
+<infobox theme="Media">
+	<image source="image"></image>
+    <title source="title"></title>
+    <group collapse="open">
+    	<header>Attribution information</header>
+        <data source="author"><label>Author(s)</label></data>	
+        <data source="narrator"><label>Narrator(s)</label></data>
+        <data source="producer"><label>Producer(s)</label></data>
+        <data source="director"><label>Director(s)</label></data>
+        <data source="editor"><label>Editor(s)</label></data>
+        <data source="cover artist"><label>Cover artist(s)</label></data>			
+    </group>
+    <group collapse="open">
+    	<header>Publication information</header>
+        <data source="publisher"><label>Publisher</label></data>	
+        <data source="first date"><label>First published</label><format><!--
+        -->{{#ifeq:{{lc:{{{first date|}}}}}|none||{{#ifeq:{{lc:{{{first date|}}}}}|future||{{#ifeq:{{lc:{{{first date|}}}}}|canceled||{{{first date|}}}}}}}}}<!--
+        --></format></data>
+        <data source="last date"><label>Last published</label><format><!--
+        -->{{#ifeq:{{lc:{{{last date|}}}}}|none||{{#ifeq:{{lc:{{{last date|}}}}}|future||{{#ifeq:{{lc:{{{last date|}}}}}|canceled||{{{last date|}}}}}}}}}<!--
+        --></format></data>
+        <data source="media type"><label>Media type</label></data>
+        <data source="language"><label>Language(s)</label></data>
+        <data source="run time"><label>Run time</label></data>
+    </group>
+    <group collapse="open">
+    	<header>Chronology</header>
+        <data source="timeline"><label>Timeline</label></data>
+        <data source="num audiobooks"><label>Number of audiobooks</label></data>	
+        <data source="preceded by"><label>Preceded by</label></data>
+        <data source="followed by"><label>Followed by</label></data>			
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:AudiobookSeries|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|title|author|narrator|producer|director|editor|cover artist|publisher|first date|last date|media type|language|run time|timeline|num audiobooks|preceded by|followed by|ignore=name}}<!--
+-->{{#invoke:MediaDateCheck|main|no_year_check=1|image_optional=1|template_name=AudiobookSeries}}<noinclude>[[category:Media infoboxes]]{{clear}}
+
+==Usage==
+<pre>
+{{Top|real}}
+{{AudiobookSeries
+|image=
+|title=
+|author=
+|narrator=
+|producer=
+|director=
+|editor=
+|cover artist=
+|publisher=
+|first date=
+|last date=
+|media type=
+|language=
+|run time=
+|timeline=
+|num audiobooks=
+|preceded by=
+|followed by=
+}}
+</pre></noinclude>

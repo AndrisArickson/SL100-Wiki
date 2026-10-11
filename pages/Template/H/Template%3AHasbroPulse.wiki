@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=HasbroPulse
+|image=[[File:HasbroInverted.png|text-top|x16px|link=Hasbro]]
+|site_text=the [[Hasbro|Hasbro Pulse]] [https://www.hasbropulse.com official website]
+|base_url=https://{{{subdomain|www}}}.hasbropulse.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

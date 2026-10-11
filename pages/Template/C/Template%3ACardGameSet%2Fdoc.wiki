@@ -1,0 +1,35 @@
+===Usage instructions===
+Please see '''[[Wookieepedia:Layout Guide#Sources]]''' for the policy relevant to the use of this template.
+
+{{CardGameSet|set=Card game set using appropriate citation template
+|cards=*Individual card #1
+*Individual card #2
+}}
+
+
+==Example(s)==
+{{CardGameSet|set={{SWCT|set=In Disguise}}|cards=
+*{{SWCT|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians - In Disguise|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians}}
+*{{SWCT|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers - In Disguise|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers}}
+}}
+
+===Code===
+<code><nowiki>
+{{CardGameSet|set={{SWCT|set=In Disguise}}|cards=
+*{{SWCT|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians - In Disguise|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians}}
+*{{SWCT|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers - In Disguise|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers}}}}
+</nowiki></code>
+
+For '''extremely''' large lists on subpages, use the following templates instead:
+<code><nowiki>{{CardGameSet-start|set={{SWCT|set=In Disguise}}}}
+*{{SWCT|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians - In Disguise|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians}}
+*{{SWCT|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers - In Disguise|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers}}
+{{CardGameSet-end}}
+</nowiki></code>
+
+{{CardGameSet-start|set={{SWCT|set=In Disguise}}}}
+*{{SWCT|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians - In Disguise|Kazuda Xiono & Neeku Vozo in Disguise as First Order Technicians}}
+*{{SWCT|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers - In Disguise|Kazuda Xiono & Norath Kev in Disguise as Stormtroopers}}
+{{CardGameSet-end}}
+
+<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

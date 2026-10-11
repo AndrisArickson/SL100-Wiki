@@ -1,0 +1,7 @@
+<span style="color: green;">'''Approved as a [[Wookieepedia:Good articles|Good article]] by [[Wookieepedia:AgriCorps|AgriCorps]] {{{1}}} '''</span>
+
+<noinclude>
+==Usage==
+[[Wookieepedia:AgriCorps|AgriCorps]] members who use this template simply need to put <nowiki>{{ACapproved|~~~~~}}</nowiki> (making sure to use five <nowiki>~</nowiki><nowiki>'</nowiki>s) on an approved [[Wookieepedia:Good article nominations|GAN]].
+
+[[Category:Wookieepedia AgriCorps templates|{{PAGENAME}}]]</noinclude>

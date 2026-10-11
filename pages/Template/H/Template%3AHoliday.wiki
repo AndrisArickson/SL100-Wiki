@@ -1,0 +1,63 @@
+<infobox theme="Holiday">
+        <data source="prev"><label>Previous</label></data>	
+        <data source="conc"><label>Concurrent</label></data>	
+        <data source="next"><label>Next</label></data>	
+	<image source="image"></image>
+    <title source="name"></title>
+<navigation name="mobile-eras">{{Top-mobile}}</navigation>
+    <group collapse="open">
+    	<header>Observation</header>
+        <data source="observedby"><label>Observed by</label></data>	
+        <data source="significance"><label>Significance</label></data>	
+        <data source="celebrations"><label>Celebrations</label></data>	
+        <data source="observances"><label>Observances</label></data>
+        <data source="place"><label>Place</label></data>		
+    </group>
+    <group collapse="open">
+    	<header>Chronological information</header>
+        <data source="begin"><label>Begins</label></data>	
+        <data source="end"><label>Ends</label></data>	
+        <data source="date"><label>Date</label></data>	
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Holiday|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<noinclude>[[category:Event infobox templates]]{{clear}}
+
+Use this infobox for articles on holidays, festivals, celebrations, and other cultural or religious observances.
+
+===Field list===
+All fields should be understood to pertain to only the group who observe the holiday.
+*prev= What is the previous holiday for the observing group, if known
+*conc= What other holidays fall during the same time for the observing group, if known
+*next= What holiday follows this one for the observing group, if known
+*name= The name of the holiday
+*image= Infobox image that illustrates the holiday
+*observedby= Name of the group who observes the holiday
+*significance= Important features or significance of the holiday
+*celebrations= If smaller-scale celebrations take place during the holiday, list them here
+*observances = If smaller-scale observances (lower-key, and more intimate than celebrations) take place during the holiday, list them here
+*place= Location(s) where the holiday takes place
+*begin= When the holiday begins (for multi-day holidays only), if known
+*end= When the holiday ends (for multi-day holidays), if known
+*date= When the holiday is observed (for single-day holidays), if known; if the holiday is observed annually, biannually, etc. may also be noted
+
+===Usage instructions===
+Paste the following code into the top of an article, filling in all known fields:
+
+<pre><nowiki>
+{{Top|}}
+{{Holiday
+|prev=
+|conc=
+|next=
+|name=
+|image=
+|observedby=
+|significance=
+|celebrations=
+|observances=
+|place=
+|begin=
+|end=
+|date=
+}}
+</nowiki></pre></noinclude>

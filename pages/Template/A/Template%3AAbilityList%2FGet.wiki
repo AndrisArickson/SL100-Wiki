@@ -1,0 +1,10 @@
+<onlyinclude>{{AbilityList/{{#switch:{{lc:{{{name|{{{1|}}}}}}}}<!--
+	-->|passive|combat passive|combatpassive|passivelist|pass=Passive<!--
+	-->|passive2|non-combat passive|noncombatpassive|passive2list=Passive2<!--
+	-->|directional|directionallist|directionlist|direction=Directional<!--
+	-->|targeted|targetedlist|targetlist|target=Targeted<!--
+	-->|ultimate|ultimatelist=Ultimate<!--
+	-->|self|selflist<!--
+	-->|#default=Self<!--
+-->}}|AbilityList}}</onlyinclude>
+[[Category:Ability Templates for Star Wars: Uprising]]

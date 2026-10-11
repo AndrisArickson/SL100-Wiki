@@ -1,0 +1,13 @@
+===Usage instructions===
+{{Tlp|1st|''simultaneous appearances''}}
+
+'''Please note that audiobooks with the same release date as the parent media should ''not'' be listed as simultaneous in this template and its siblings; instead, {{Tl|Ab}} should be used between the media link and this template to denote an audiobook.'''
+
+==Example(s)==
+{{Template:1st|[[Star Wars: The Clone Wars (novelization)|''The Clone Wars'' novelization]] and [[Star Wars: The Clone Wars (junior novelization)|junior novelization]]}}
+===Code===
+<code><nowiki>
+{{1st|[[Star Wars: The Clone Wars (novelization)|''The Clone Wars'' novelization]] and [[Star Wars: The Clone Wars (junior novelization)|junior novelization]]}}
+</nowiki></code>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:First-notation appearance templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

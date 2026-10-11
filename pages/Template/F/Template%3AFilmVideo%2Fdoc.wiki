@@ -1,0 +1,10 @@
+This template is used to cite or otherwise list the original home video releases of the prequel trilogy, sequel trilogy, ''[[Rogue One: A Star Wars Story]]'', ''[[Solo: A Star Wars Story]]'', and the [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]. It accepts 1-3, 7-9, TCW, Rogue One, or Solo as parameters, and will generate links to both the film and the [[Star Wars home video releases]] article; this is templated as {{U|C4-DE Bot}} doesn't play well with double links on the same line.
+
+<code><nowiki>{{FilmVideo|1}}</nowiki></code>
+
+results in:
+
+{{FilmVideo|1}}
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

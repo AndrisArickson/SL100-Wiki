@@ -1,0 +1,43 @@
+<includeonly>{{#switch: {{{1}}} 
+|Solo=''[[Solo: A Star Wars Story The Official Guide]]''
+|ROS=''[[Star Wars: The Rise of Skywalker: The Visual Dictionary]]''
+|RO=''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''}} dates {{{4}}} to {{{3}}} [[Standard year|years]] {{#switch: {{{2}}} |A=after |B=before}} the {{#switch: {{{1}}} 
+|Solo=the events of ''[[Solo: A Star Wars Story]]''
+|ROS=the [[Hosnian Cataclysm]]
+|RO=the events of ''[[Rogue One: A Star Wars Story]]''}}. As {{#ifeq:{{{1}}}|Solo|''[[Star Wars: Timelines]]''|''[[Star Wars: Galactic Atlas]]''}} dates the {{#switch: {{{1}}} 
+|Solo=the events of ''Solo: A Star Wars Story''
+|ROS=the Hosnian Cataclysm
+|RO=the events of ''Rogue One: A Star Wars Story''}} to {{#switch: {{{1}}} 
+|Solo=[[10 BBY]]
+|ROS=[[34 ABY]]
+|RO=[[1 BBY]]}}, the event must have taken place in {{#switch: {{{2}}} 
+|A=[[{{#expr: {{#switch: {{{1}}}|Solo=causeerror|RO=causeerror|ROS=34}}+{{{3}}}}} ABY]]. 
+|B={{#ifeq: {{{1}}}|ROS|
+{{#ifeq:{{{3}}}|34|[[0 BBY]] or [[0 ABY]].|[[{{#expr: abs (34-{{{3}}})}} {{#ifexpr: 34-{{{3}}}>0|ABY|BBY}}]]}}.|[[{{#expr:{{#switch: {{{1}}}|Solo=10|RO=1}}+{{{3}}}}} BBY]].}}
+}}</includeonly>
+<noinclude>
+==Overview==
+This template is used to shorten the citations used by the visual guides ''[[Solo: A Star Wars Story The Official Guide]]'', ''[[Star Wars: The Rise of Skywalker: The Visual Dictionary]]'' and ''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''.
+==Usage==
+<pre>{{GuideDate|guide|before_after|year|event}}</pre>
+
+*{{param|1|guide}}: The guide that you are using the template for. "Solo" is for ''Solo: A Star Wars Story The Official Guide'', "ROS" is for ''Star Wars: The Rise of Skywalker: The Visual Dictionary'' and "RO" is for ''Star Wars: Rogue One: The Ultimate Visual Guide''.   '''Required'''.
+*{{param|2|'''A''' or '''B'''}}. Determines whether the template will render to say the year as "before" or "after" the event the guide uses as a basis for its dating system. '''Important note''' the parameter "A" may only be used with ''Star Wars: The Rise of Skywalker: The Visual Dictionary'', otherwise the template will return an error message. '''Required'''.
+*{{param|3|years}}. How many years before or after the event listed in the guide. '''Required'''.
+*{{param|4|Title of the event}}. The name of the event. '''Required'''.
+
+===Examples===
+<pre>{{GuideDate|RO|B|51|[[Orson Callan Krennic|Orson Krennic]]'s [[Reproduction|birth]]}}
+</pre>
+{{GuideDate|RO|B|51|[[Orson Callan Krennic|Orson Krennic]]'s [[Reproduction|birth]]}}
+
+<pre>{{GuideDate|S|B|22|[[Han Solo]]'s [[Reproduction|birth]]}}
+</pre>
+{{GuideDate|Solo|B|22|[[Han Solo]]'s [[Reproduction|birth]]}}
+
+<pre>{{GuideDate|ROS|B|5|the [[First Order secession|secession]] of the [[First Order]]}}
+</pre>
+{{GuideDate|ROS|B|5|the [[First Order secession|secession]] of the [[First Order]]}}
+
+[[Category:Canon dating citation templates]]
+</noinclude>

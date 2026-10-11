@@ -1,0 +1,24 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[1 BBY/Legends|1 BBY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Raid on Cato Neimoidia|Cato Neimoidia (I)]] · [[Heurkea operation|Mon Calamari (I)]] · [[Escape from Kamino (1 BBY)|Kamino (I)]]<br />[[Rescue of Rahm Kota|Cato Neimoidia (II)]] · [[Battle near the Itani Nebula|Itani Nebula]] · [[Assault on Kamino|Kamino (II)]]<br />[[Subjugation of Geonosis|Geonosis]] · [[Ambush at Mon Calamari|Mon Calamari (II)]] · [[Calamarian Revolt|Mon Calamari (III)]]<br />[[Rescue at Mon Calamari|Mon Calamari (IV)]] · [[Raid in the Senex system|Senex]] · [[Skirmish above Tatooine|Tatooine]] · [[Raid above Coruscant|Coruscant]]<br />[[Skirmish near Circarpous IV|Circarpous IV]] · [[Battle of Turkana/Legends|Turkana (I)]] · [[Battle in the Turkana system|Turkana (II)]] · [[Battle near Dantooine|Dantooine]]<br />[[Sulon massacre|Sulon (I)]] · [[Subjugation of Sulon|Sulon (II)]] · [[Battle of AX-456|AX-456]] · [[Skirmish on the Star of Empire|''Star of Empire'']]<br />[[Attack at Datar|Datar]] · [[Battle of Nar Shaddaa (Galactic Civil War)|Nar Shaddaa]] · [[Amma protest|Bacrana]] · [[Fei Hu campaign|Fei Hu]]'''
+</td></tr></onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW 1 BBY 1]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/1 ABY 1
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

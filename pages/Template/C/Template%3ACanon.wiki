@@ -1,0 +1,11 @@
+{{ooumb
+| bg = #D8E9FC
+| image = [[File:Blue-exclamation-mark.png|40px]]
+| caption = The [[canon]]icity of this article, or a portion of it, is unconfirmed.
+| message = {{#ifeq:{{{1|}}}|legends|It covers a Star Wars topic deriving from an S-canon or N-canon source or probably conflicts with the canon. Please see the relevant discussion on the [[:{{NAMESPACE}} talk:{{PAGENAME}}|talk page]].|This article contains information from sources that have not been confirmed by [[Lucasfilm]] to be [[canon]]. While not established as non-canonical, the canonicity of events described in this article is currently unknown.}}
+}}<includeonly>[[Category:Articles with unconfirmed canonicity|{{PAGENAME}}]]</includeonly><noinclude>
+
+==Usage==
+For Legends articles, use <code><nowiki>{{Canon|legends}}</nowiki></code>.
+
+[[Category:Header templates]]</noinclude>

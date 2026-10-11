@@ -1,0 +1,12 @@
+<includeonly>{{#invoke:ToyCitation|main|template=HasbroCite
+|image=[[File:HasbroInverted.png|text-bottom|x18px|link=Hasbro]]
+|set={{{set|}}}
+|stext={{{text|{{#if:{{{subset|}}}|''{{{set|}}} {{{subset|}}}''|}}}}}
+|packtype={{{packtype|Pack}}}
+|pack={{{pack|}}}
+|link={{{link|}}}
+|parent={{{parent|}}}
+|url={{{altlink|}}}
+|baseUrl=https://hasbropulse.com
+|sharedSite=Rebelscum
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

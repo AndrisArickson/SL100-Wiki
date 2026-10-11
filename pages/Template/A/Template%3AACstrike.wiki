@@ -1,0 +1,4 @@
+<span style="color: red;">'''Objection(s) overridden by [[Wookieepedia:AgriCorps|AgriCorps]] {{{1}}} '''</span><noinclude>
+==Usage==
+This template should be placed after an objection which is overridden following an [[WP:AC|AgriCorps]] vote. AgriCorps members who need to use this template simply need to put <nowiki>{{Acstrike|~~~~~}}</nowiki> (making sure to use five <nowiki>~</nowiki><nowiki>'</nowiki>s) on an approved [[WP:GAN|GAN]].
+[[Category:Wookieepedia AgriCorps templates|{{PAGENAME}}]]</noinclude>

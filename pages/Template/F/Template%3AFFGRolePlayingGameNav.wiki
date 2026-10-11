@@ -1,0 +1,28 @@
+{{Nav start|[[File:StarWarsRoleplayingGame-FFG.png|185px|link=Star Wars Roleplaying]]}}
+{{Nav heading|[[File:SWEotE.png|100px|link=Star Wars: Edge of the Empire]]}}
+{{Nav text|[[Star Wars: Edge of the Empire Beta|Beta]] · [[Star Wars: Edge of the Empire Beginner Game|Beginner Game]] · [[Star Wars: Edge of the Empire Core Rulebook|Core Rulebook]] · [[Star Wars: Edge of the Empire Game Master's Kit|Game Master's Kit]]<br />'''Adventure modules'''<br />''[[Beyond the Rim]]'' · ''[[The Jewel of Yavin]]'' · ''[[Mask of the Pirate Queen]]''<br />'''Mini adventures'''<br />''[[The Long Arm of the Hutt]]'' · ''[[Under a Black Sun]]''<br />'''Sourcebooks'''<br />''[[Enter the Unknown]]'' · ''[[Suns of Fortune]]'' · ''[[Dangerous Covenants]]'' · ''[[Far Horizons]]''<br />''[[Lords of Nal Hutta]]'' · ''[[Fly Casual]]'' · ''[[Special Modifications]]'' · [[No Disintegrations (Fantasy Flight Games)|''No Disintegrations'']]}}
+{{Nav heading|[[File:StarWarsAgeofRebellion.png|95px|link=Star Wars: Age of Rebellion (roleplaying game)]]}}
+{{Nav text|[[Star Wars: Age of Rebellion Beta|Beta]] · [[Star Wars: Age of Rebellion Beginner Game|Beginner Game]] · [[Star Wars: Age of Rebellion Core Rulebook|Core Rulebook]] · [[Star Wars: Age of Rebellion Game Master's Kit|Game Master's Kit]]<br />'''Adventure modules'''<br />''[[Onslaught at Arda I]]'' · ''[[Rescue at Glare Peak]]'' · ''[[Friends Like These]]''<br />'''Mini adventures'''<br />''[[Operation: Shadowpoint]]''<br />'''Sourcebooks'''<br />[[Stay on Target (sourcebook)|''Stay on Target'']] · ''[[Desperate Allies]]'' · ''[[Strongholds of Resistance]]'' · ''[[Lead by Example]]''<br />''[[Forged in Battle]]'' · ''[[Fully Operational (sourcebook)|Fully Operational]]'' · ''[[Cyphers and Masks]]''}}
+{{Nav heading|[[File:Force_and_Destiny_logo.png|100px|link=Star Wars: Force and Destiny]]}}
+{{Nav text|[[Star Wars: Force and Destiny Beta|Beta]] · [[Star Wars: Force and Destiny Beginner Game|Beginner Game]] · [[Star Wars: Force and Destiny Core Rulebook|Core Rulebook]] · [[Star Wars: Force and Destiny Game Master's Kit|Game Master's Kit]]<br />'''Adventure modules'''<br/ >''[[Chronicles of the Gatekeeper]]'' · ''[[Ghosts of Dathomir]]''<br />'''Mini adventures'''<br />''[[Lure of the Lost]]'' · ''[[Lessons from the Past]]''<br />'''Sourcebooks'''<br />''[[Keeping the Peace]]'' · ''[[Nexus of Power]]'' · ''[[Savage Spirits]]'' · ''[[Endless Vigil]]''<br />''[[Disciples of Harmony]]'' · ''[[Unlimited Power]]'' · ''[[Knights of Fate]]''}}
+{{Nav heading|'''Era Sourcebooks'''}}
+{{Nav text|''[[Dawn of Rebellion]]'' · ''[[Allies and Adversaries]]'' · ''[[Rise of the Separatists]]''<br />''[[Collapse of the Republic]]'' · ''[[Gadgets and Gear]]'' · ''[[Starships and Speeders]]''<br/>'''Mini adventures'''<br />''[[Unwelcome Arrival]]'' · ''[[Begun, The Clone Wars Have!]]''}}
+{{Nav heading|'''Supplementary products'''}}
+{{Nav text|'''Supplement Decks'''<br />''[[Star Wars Roleplaying Game Adversary Deck|Adversary Deck]] · [[Star Wars Roleplaying Game Specialization Deck|Specialization Deck]]''<br />'''Beginner game'''<br />[[Star Wars: The Force Awakens Beginner Game|''The Force Awakens'' Beginner Game]]<br />'''Mini-adventures'''<br/>''[[A Call for Heroes]]''}}
+{{Nav end|edit=FFGRolePlayingGameNav}}<noinclude>
+
+==Usage==
+Please do not add adventures that were included in other products. They are already listed in the [[:Category:Fantasy Flight Games adventures|adventure category]], and this template would get too big if every single adventure were listed.
+
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav heading}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+{{Interlang
+|ka=თარგი:FFGSWRPG
+}}
+
+[[Category:Tabletop game navbox templates]]</noinclude>

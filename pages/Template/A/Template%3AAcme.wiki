@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Acme
+|image=[[File:AcmeArchivesDirect.png|text-top|x16px|link=Acme Archives Direct]]
+|site_text=[[Acme Archives Direct]]'s [https://www.acmearchivesdirect.com official website]
+|base_url=https://{{{subdomain|www}}}.{{#if:{{{old|}}}|acmelimited|acmearchivesdirect}}.com
+|target_url={{{url|}}}
+|nolive={{{nolive|{{{old|}}}}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

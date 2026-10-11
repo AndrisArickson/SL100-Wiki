@@ -1,0 +1,11 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=Databank
+|image=[[File:StarWars-DatabankII.png|text-top|x16px|link=Databank (2014-)]]
+|site_text=the [[Databank (2014-)|Databank]]
+|base_url=https://www.starwars.com{{#if:{{{url|}}}||/databank}}
+|target_url={{{1|{{{entry|{{{url|}}}}}}}}}
+|text={{{2|{{{text|{{{title|}}}}}}}}}
+|use_lua_subpage=1
+|separator=in
+|allow_unnamed=3
+}}</includeonly><noinclude>{{Top|fprot}}{{Documentation}}</noinclude>

@@ -1,0 +1,9 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=BeckerMayer
+|image=[[File:BeckerMayer-Logo.png|text-top|x16px|link=https://www.beckermayer.com]]
+|site_text=[[becker&mayer!]] [https://www.beckermayer.com official website]
+|base_url=https://{{{subdomain|www}}}.beckermayer.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+|defunct_site=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

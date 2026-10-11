@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Restored Empire]] crisis<br />([[13 ABY/Legends|13 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Ambush at RZ7-6113-23|First RZ7-6113-23]] · [[Raid on Nyara|Nyara]] · [[Battle of Pallaxides|Pallaxides]]<br />[[Phase One|Imperial Palace]] · [[Battle of RZ7-6113-23|Second RZ7-6113-23]]<br />[[Ambush at the peace negotiations|Peace negotiations]] · [[Battle of Orinda (13 ABY)|Fourth Orinda]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW Restored]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Restaurado
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

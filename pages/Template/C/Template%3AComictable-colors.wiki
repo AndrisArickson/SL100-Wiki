@@ -1,0 +1,13 @@
+{|{{Prettytable}}
+!colspan="{{#ifeq:{{{arc|}}}|no|3|4}}"|Color code key:
+|-
+|class="orange-cell" width="15%" align="center"|Collected (TPB) issue
+|class="green-cell" width="15%" align="center"|Released issue
+|class="yellow-cell" width="15%" align="center"|Future issue
+{{#ifeq:{{{arc|}}}|no||{{!}}class="white-cell" width="15%" align="center"{{!}}Story arc}}
+|}<noinclude>
+
+==Usage==
+This template should be added above comic tables. Use {{Para|arc|no}} to hide "Story arc", where applicable.
+
+[[Category:Utility templates]]</noinclude>

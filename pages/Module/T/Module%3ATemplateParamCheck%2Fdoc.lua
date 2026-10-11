@@ -1,0 +1,1 @@
+A generalized version of [[Module:InfoboxParamCheck]] for non-infobox templates; it takes in all of the template's parameter names as parameters, along with a comma-separated list of optional parameters in <code>optional=</code>, and flags any missing or unknown parameters.

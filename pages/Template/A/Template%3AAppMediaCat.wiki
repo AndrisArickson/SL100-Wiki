@@ -1,0 +1,4 @@
+{{#if:{{NAMESPACE}}||{{#if:{{{not_appearance|}}}||{{SpecialCategorizer|[[Category:Media that should be listed in Appearances]]}}}}}}<noinclude>
+
+Template used to apply the Appearances media categories to articles.
+[[Category:Templates]]</noinclude>

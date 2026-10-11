@@ -1,0 +1,34 @@
+==={{{username|{{{{{|safesubst:}}}REVISIONUSER}}}}}===
+;Username
+: {{U|{{{username|{{{{{|safesubst:}}}REVISIONUSER}}}}}}} ([[User talk:{{{username|{{{{{|safesubst:}}}REVISIONUSER}}}}}|talk]] &bull; [[Special:Contributions/{{{username|{{{{{|safesubst:}}}REVISIONUSER}}}}}|contribs]] &bull; [{{fullurl:Special:AbuseLog|wpSearchUser={{urlencode:{{{username|{{{{{|safesubst:}}}REVISIONUSER}}}}}}}}} filter log])
+;Page you were trying to edit
+: [[{{{page|Page not specified}}}]] ([{{fullurl:Special:AbuseLog|wpSearchTitle={{urlencode:{{{page|Page not specified}}}}}}} filter log])
+;Description
+: {{{description|No explanation provided.}}}
+;Date and time
+: <includeonly>~~</includeonly><includeonly>~~</includeonly><includeonly>~</includeonly><noinclude><nowiki>~~~~~</nowiki></noinclude>
+;Comments
+<!-- Please leave this area blank for now, but be prepared to answer questions left by reviewing editors. Thanks! -->
+<noinclude>
+
+==Purpose==
+Template for reporting false positives at [[Wookieepedia:Spamfilter problems]]. Loaded automatically on that page via [[Template:False positive/preload]]. Editintro is at [[Template:False positive/editintro]].
+
+==Usage==
+<pre>
+{{subst:False positive
+|username=
+|page=
+|description=
+
+}}
+</pre>
+
+*<code>|username=</code> Username of the editor whose edit is being reported. If not provided, defaults to the user filing the report.
+*<code>|page=</code> Page that you (or the editor whose edit was stopped) were trying to edit when the false positive occurred.
+*<code>|description=</code> Description of what you were trying to do.
+
+__EXPECTUNUSEDTEMPLATE__
+
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

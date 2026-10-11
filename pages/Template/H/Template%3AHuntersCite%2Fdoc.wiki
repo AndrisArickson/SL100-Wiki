@@ -1,0 +1,25 @@
+==Description==
+This template may be used to cite various in-game quests, stories, and cosmetic items from ''[[Star Wars: Hunters]]''.
+
+==Instructions==
+'''In-game quests or stories'''
+:<code><nowiki>{{HuntersCite|quest=}}</nowiki></code>
+
+'''In-game costumes'''
+:<code><nowiki>{{HuntersCite|character=|costume=}}</nowiki></code>
+
+'''Parameters'''
+*{{para|quest}} Name of the quest or story you are citing.
+*{{para|character}} Complete name of the character which the cosmetic item pertains to.
+*{{para|costume}} Name of the costume or weapon skins you are citing.
+
+==Examples==
+*{{HuntersCite|quest=Sentinel Mastery II}}
+
+*{{HuntersCite|character=Sentinel|costume=Carnage E-Web}}
+
+*{{HuntersCite|character=Diago Velaar|costume=Aurodium Marksman}}
+
+*{{HuntersCite|character=Grozz|costume=Champion's Clubs}}
+
+<includeonly>[[Category:Game citation templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

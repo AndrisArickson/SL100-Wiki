@@ -1,0 +1,120 @@
+<infobox theme="Device">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Production information</header>
+        <data source="manufacturer"><label>Manufacturer</label></data>
+        <data source="model"><label>Model</label></data>	
+        <data source="type"><label>Type</label></data>	
+        <data source="culture"><label>Culture</label></data>
+        <data source="creators"><label>Creators</label></data>			
+        <data source="created"><label>Date created</label></data>	
+        <data source="modifier"><label>Modifers</label></data>	
+        <data source="destroyed"><label>Date destroyed</label></data>	
+        <data source="discovered"><label>Date discovered</label></data>	
+        <data source="owners"><label>Owners</label></data>			
+        <data source="locations"><label>Locations</label></data>	
+        <data source="cost"><label>Cost</label></data>	
+        <data source="value"><label>Value</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Physical and technical specifications</header>
+        <data source="structure"><label>Structure</label></data>			
+        <data source="size"><label>Size</label></data>		
+        <data source="material"><label>Material(s)</label></data>	
+        <data source="length"><label>Length</label></data>	
+        <data source="width"><label>Width</label></data>
+        <data source="height"><label>Height</label></data>
+        <data source="weight"><label>Weight</label></data>	
+        <data source="protection"><label>Protection type</label></data>	        
+        <data source="capacity"><label>Capacity</label></data>	
+        <data source="range"><label>Range</label></data>	
+        <data source="inscription"><label>Inscriptions</label></data>	
+        <data source="markings"><label>Other markings</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Usage and history</header>
+        <data source="purpose"><label>Purpose</label></data>
+        <data source="heritage"><label>Heritage</label></data>
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Device|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|manufacturer|model|type|culture|creators|created|modifier|destroyed|discovered|owners|locations|cost|value|structure|size|material|length|width|height|weight|protection|capacity|range|inscription|markings|purpose|heritage|affiliation|ignore=name}}{{#if:{{{owners|}}}|[[Category:Pages using owners with Template:Armor and Device]]}}<noinclude>
+
+==Usage instructions==
+Copy and paste the following code into the top of the article, filling the appropriate fields. Omitted or blank fields will not be shown on the article page.
+<pre><nowiki>{{Device
+|image=
+|name=
+|manufacturer=
+|model=
+|type=
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}</nowiki></pre>
+
+==Data fields==
+*name &ndash; Simply list the name of the device.
+*image &ndash; Put a link to the main image which represents the device.
+*manufacturer &ndash; Put the manufacturer name here (use <tt>creators</tt> if a specific person created it)
+*model &ndash; List the full official device model name
+*type &ndash; The type of device (e.g. "Vibroblade" or "Blaster rifle")
+*culture &ndash; List the cultures that used the device or cultures in which it is otherwise prominent
+*creators &ndash; List the creators of the device (in the case of specific individuals)
+*created &ndash; The date the device was created
+*modifier &ndash; The being(s) who modified the device
+*destroyed &ndash; The date the device was destroyed
+*discovered &ndash; The date the device was discovered, if previously lost or hidden
+*owners &ndash; List owners of the device only if it is unique
+*locations &ndash; List locations where the device was known to be used
+*cost &ndash; List the cost of the device (and the currency type if known)
+*value &ndash; List the real worth of the device
+*structure &ndash; List features of the structure or shape of the device
+*size &ndash; Size of the device
+*material &ndash; List materials from which the device is made
+*length &ndash; Length of the device
+*width &ndash; Width of the device
+*height &ndash; Height of the device
+*weight &ndash; Weight of the device
+*protection &ndash; List the types of attacks that the device provided protection against
+*capacity &ndash; The capacity of the device
+*range &ndash; The range of the device
+*inscription &ndash; List any inscriptions on the device
+*markings &ndash; List any distinct markings on the device
+*purpose &ndash; List any special purposes of the device
+*heritage &ndash; The heritage of the device
+*affiliation &ndash; List the governments and major organizations that used the device here
+
+{{Interlang
+|tr=Şablon:Cihaz
+}}
+
+[[category:Object infobox templates]]
+</noinclude>

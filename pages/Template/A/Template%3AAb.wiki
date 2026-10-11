@@ -1,0 +1,7 @@
+<small><nowiki>(</nowiki>and {{#if: {{{2|}}} 
+  |[[{{{1}}}|{{{2}}}]]
+  |{{#ifexpr: {{#count:{{{1}}}| (}} > 0 
+    |{{#if:{{{italics|}}}|''|}}[[{{{1}}}|{{#sub: {{{1}}} | {{#expr:{{#pos:{{{1}}}|(}} + 1}} | {{#expr:{{#len:{{{1}}}}} - {{#pos:{{{1}}}|(}} - 2 }}}}]]{{#if:{{{italics|}}}|''|}}
+    |{{#if:{{{italics|}}}|''|}}[[{{{1}}}]]{{#if:{{{italics|}}}|''|}}
+  }}
+}}<nowiki>)</nowiki></small>{{#ifexpr:{{#count:{{{1}}}|(abridged}} > 0|[[Category:Usages of Template:Ab with abridged audiobooks]]<strong class="error">error: abridged audiobook cannot be used in [[Template:Ab]]</strong>|}}<noinclude>[[Category:Utility templates]]</noinclude>

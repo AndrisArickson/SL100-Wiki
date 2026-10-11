@@ -1,0 +1,20 @@
+<div class="boilerplate metadata darkbackground1" style="padding:0 10px; border:1px solid #AAA; margin:0 auto; background-color:#F3F9FF">This page is an archive of a community-wide discussion. '''This page is no longer live.''' Further comments should be made in the [[Forum:Senate Hall|Senate Hall]] or new [[Forum:Consensus track|Consensus track]] pages rather than here so that this page is preserved as a historic record.<br />The result of the debate was '''{{{1|}}}'''. {{{2|}}}<hr /><noinclude></div>
+
+==Description==
+This template is used for creating the blue "archive box" used for closed [[Forum:Consensus track|Consensus track]] threads.
+
+==Usage==
+The template takes two parameters, of which the signature parameter is optional. If the signature is included, a reason needs to be given as well. Place only one of the following lines of code at the top of the vote page to be archived:
+<pre>
+{{subst:CTarchive|result of CT thread|~~~~}}
+</pre>
+<pre>
+{{subst:CTarchive|result of CT thread}} ~~~~
+</pre>
+
+Then, to avoid disrupting the page layout, add this closing tag at the very end of the thread:
+<pre>
+</div>
+</pre>
+
+[[Category:Archive templates]]</noinclude>

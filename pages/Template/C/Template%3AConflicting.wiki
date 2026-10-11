@@ -1,0 +1,16 @@
+{{Ooumb
+| id = Twoconflicting
+| bg = #D8E9FC
+| image = [[File:Blue-question-mark.png|40px]]
+| caption = {{#if:{{{3|}}}
+  |There are three conflicting sources for this article: {{{1}}}, {{{2}}}, and {{{3}}}.
+  |There are two conflicting sources for this article: {{{1}}} and {{{2}}}.
+}}
+| message = [[Lucasfilm]] has not established a cohesive timeline regarding this subject. Editor discretion is advised.
+}}<includeonly>{{SpecialCategorizer|[[Category:Articles with conflicting sources|{{PAGENAME}}]]}}</includeonly><noinclude>
+
+==Categorization==
+*[[:Category:Articles with conflicting sources]]
+
+[[Category:Articles with conflicting sources| ]]
+[[Category:Header templates]]</noinclude>

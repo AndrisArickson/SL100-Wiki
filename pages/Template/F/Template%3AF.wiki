@@ -1,0 +1,8 @@
+<noinclude>
+
+==Usage==
+Prints nothing whatsoever.
+
+This is a meta-template for use with complex template nesting tricks.  See also [[Template:T]].
+
+[[Category:Utility metatemplates|{{PAGENAME}}]]</noinclude>

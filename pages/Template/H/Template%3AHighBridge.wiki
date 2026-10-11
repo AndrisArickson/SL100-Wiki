@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=HighBridge
+|image=[[File:HighBridge-Favicon.png|text-top|x16px|link=https://highbridgeaudio.com]]
+|site_text=[[HighBridge Audio]]'s [https://highbridgeaudio.com official website]
+|base_url=https://{{{subdomain|www}}}.highbridgeaudio.com
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

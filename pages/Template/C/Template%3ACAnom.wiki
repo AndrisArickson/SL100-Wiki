@@ -1,0 +1,19 @@
+<includeonly>{{SAnom|{{{1|}}}|status=Comprehensive
+|template=CAN
+|image1=[[File:CA-Icon.svg|30px]]
+|image2=[[File:CA-Former.svg|30px]]
+}}</includeonly><noinclude>
+
+==Usage==
+Use this template to nominate an article for [[Wookieepedia:Comprehensive articles|Comprehensive article (CA) status]]. To do so, place <code><nowiki>{{CAnom}}</nowiki></code> on the top of the article, save the page, and then follow the instructions displayed on the article. In the event the article has been nominated for CA status one or more times previously, you will need to add the number of the nomination as a parameter to the template (e.g. <code><nowiki>{{CAnom|second}}</nowiki></code>).
+
+The template can also automatically generate a corresponding index page upon nominating. To do so, use <code><nowiki>{{CAnom|index=1}}</nowiki></code> instead of simply <code><nowiki>{{CAnom}}</nowiki></code>.
+
+==See also==
+*{{Tl|FAnom}}, used to nominate an article for [[Wookieepedia:Featured articles|Featured Article status]]
+*{{Tl|GAnom}}, used to nominate an article for [[Wookieepedia:Good articles|Good Article status]]
+
+==Categorization==
+*[[:Category:Wookieepedia Comprehensive article nominations]]
+
+[[Category:Status article templates]]</noinclude>

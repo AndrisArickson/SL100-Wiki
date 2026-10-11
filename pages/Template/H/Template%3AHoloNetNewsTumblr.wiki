@@ -1,0 +1,13 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=HoloNetNewsTumblr
+|image=[[File:New HNN.png|text-top|x16px|link=HoloNet News (Tumblr)]]
+|site_text=[[HoloNet News (Tumblr)|HoloNet News]]
+|site_first=1
+|base_url=http://www.holonetnews.com
+|target_url={{{url|{{{1|}}}}}}
+|text={{{text|{{{2|}}}}}}
+|int={{{int|}}}
+|use_lua_subpage=1
+|defunct_site=1
+|allow_unnamed=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

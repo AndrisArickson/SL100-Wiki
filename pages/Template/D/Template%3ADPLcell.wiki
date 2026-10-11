@@ -1,0 +1,6 @@
+<includeonly>
+²{#switch: {{{1}}}
+¦image = ²{#ifeq:[[File:²{#ifeq:%%¦ ¦ ¦%%}²¦{{{2}}}]]¦[[File:|{{{2}}}]]¦ ¦[[File:²{#ifeq:%%¦ ¦ ¦%%}²¦{{{2}}}]]}²
+¦²{#ifeq:%%¦ ¦ ¦{{{2}}}}²
+}²
+</includeonly>

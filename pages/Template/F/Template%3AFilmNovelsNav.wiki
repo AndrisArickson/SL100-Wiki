@@ -1,0 +1,19 @@
+{{Nav start|[[:Category:Film novelizations|''Star Wars'' film novelizations]]}}
+{{Nav heading|[[Original trilogy]]}}
+{{Nav text|[[Star Wars: A New Hope (novelization)|Episode IV ''A New Hope'']] · [[Star Wars: The Empire Strikes Back (novelization)|Episode V ''The Empire Strikes Back'']] · [[Star Wars: Return of the Jedi (novelization)|Episode VI ''Return of the Jedi'']]}}
+{{Nav heading|[[Prequel trilogy]]}}
+{{Nav text|[[Star Wars: Episode I The Phantom Menace (novelization)|Episode I ''The Phantom Menace'']] · [[Star Wars: Episode II Attack of the Clones (novelization)|Episode II ''Attack of the Clones'']] · [[Star Wars: Revenge of the Sith (novelization)|Episode III ''Revenge of the Sith'']]}}
+{{Nav heading|[[Sequel trilogy]]}}
+{{Nav text|[[Star Wars: The Force Awakens (novelization)|Episode VII ''The Force Awakens'']] · [[Star Wars: The Last Jedi: Expanded Edition|Episode VIII ''The Last Jedi'']] · [[Star Wars: The Rise of Skywalker: Expanded Edition|Episode IX ''The Rise of Skywalker'']]}}
+{{Nav heading|Other}}
+{{Nav text|[[Star Wars: The Clone Wars (novelization)|''The Clone Wars'']] · [[Rogue One: A Star Wars Story (novelization)|''Rogue One'']] · [[Solo: A Star Wars Story: Expanded Edition|''Solo'']]}}
+{{Nav end|edit=FilmNovelsNav}}<noinclude>
+{{clear}}
+==Sources==
+This template was created using the following source templates:
+*{{tl|nav start}}
+*{{tl|nav heading}}
+*{{tl|nav text}}
+*{{tl|nav end}}
+
+[[Category:Book series navbox templates|{{PAGENAME}}]]</noinclude>

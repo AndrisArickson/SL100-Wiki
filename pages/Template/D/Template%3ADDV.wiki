@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:InternetCitation|main
+|template=DDV
+|image=[[File:DDV-Favicon.png|text-top|x16px|link=https://disneydreamlightvalley.com]]
+|site_text=''[[Disney Dreamlight Valley]]''{{'}}s [https://disneydreamlightvalley.{{{domain|com}}} official website]
+|base_url=https://disneydreamlightvalley.{{{domain|com}}}
+|target_url={{{url|}}}
+|use_lua_subpage=1
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

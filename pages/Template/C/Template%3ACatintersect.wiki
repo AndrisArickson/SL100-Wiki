@@ -1,0 +1,1 @@
+{{#if:{{{1|}}}{{{2|}}}|{{PlainLink|url={{fullurl:Special:BlankPage/CategoryIntersection|category1={{urlencode:{{{1}}}|WIKI}}&category2={{urlencode:{{{2}}}|WIKI}}}}|name=Category intersection:"{{{1}}}" and "{{{2}}}"}}|}}<noinclude>{{Documentation}}</noinclude>

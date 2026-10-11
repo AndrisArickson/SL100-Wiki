@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars: Alien Archive|''Star Wars: Alien Archive''|''[[Star Wars: Alien Archive]]''}}, which is presented as a restored [[in-universe]] [[Unidentified artist's journal|journal]], mentions [[Poe Dameron]]'s [[Battle of Oetchi|mutiny]] against [[Amilyn Holdo]], which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]], meaning the document must have been published at some point no earlier than that [[Standard year|year]].<noinclude>
+
+==Usage==
+<code><nowiki>{{AlienArchiveJournalDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

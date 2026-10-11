@@ -1,0 +1,28 @@
+<span class="unicode audiolink">[[:Media:{{{1|}}}|{{{2|{{{1|}}}}}}]]</span>&#32;<span class="metadata audiolinkinfo"><small>([[Wikipedia:Wikipedia:Media help|help]]·[[:File:{{{1|}}}|info]])</small></span><noinclude>
+
+==Description==
+This template links to an audio file for quick listening.  It is meant to be used inline with text, for pronunciations and the like.
+
+==Usage==
+<code><nowiki>{{Audio|name of sound file|text to use as link to soundfile}}</nowiki></code>
+
+Example:
+:<code><nowiki>'''Ysanne Isard''' ({{Audio|MiiyoomOnith-Nightlily.flac|pronunciation}}) was an agent and later a [[Director of Imperial Intelligence|Director]] of [[Imperial Intelligence/Legends|Imperial Intelligence]]...</nowiki></code>
+gives this:
+:'''Ysanne Isard''' ({{Audio|MiiyoomOnith-Nightlily.flac|pronunciation}}) was an agent and later a [[Director of Imperial Intelligence|Director]] of [[Imperial Intelligence/Legends|Imperial Intelligence]]...
+
+==Using on other wikis==
+This is one of several templates that use CSS to format the template instead of containing all the formatting inline.   '''It will not work on another wiki unless you copy both the template and the CSS rules.'''
+
+This particular template depends on the "audiolink" css class to add the loudspeaker icon as a background image for the link, which allows it to be clicked and go to the same link destination instead of the image's description page.  
+
+These CSS rules are in [[MediaWiki:Common.css]] (the part that starts with <code>.audiolink a {</code>).   You will need to get an administrator on your local wiki to add the rules to your site's CSS.  (Likewise, tweaking the size and placement of the icon is done by changing the CSS; not the template itself.)
+
+==See also==
+*[[Wookieepedia:Templates/Audio]]
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+
+[[Category:Internal link templates|{{PAGENAME}}]][[Category:Media templates|{{PAGENAME}}]]
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

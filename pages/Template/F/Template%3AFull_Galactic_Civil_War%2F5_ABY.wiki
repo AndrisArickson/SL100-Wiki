@@ -1,0 +1,27 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[5 ABY/Legends|5 ABY]]'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Evacuation of Ciutric|First Ciutric IV]] · [[Battle of Togoria (Galactic Civil War)|Togoria]] · [[Battle of Corsin (5 ABY)|First Corsin]] · [[Battle of the Pindra system|Pindra]] · [[Battle of Colla|Colla]]<br />[[Milagro campaign|First Milagro]] · [[Battle of Spirana|Spirana]] · [[Battle of the Corellian Queen|''Corellian Queen'']] · [[Battle of Mindor|Mindor]]<br />[[Battle between Rogue Squadron and Ysanne Isard's forces|Rogues vs. Isard]] · [[Scouting mission to Coruscant|Sixth Coruscant]] · [[Battle of Yag'Dhul (Galactic Civil War)|First Yag'Dhul]]<br />[[Battle of Thyferra (5 ABY)|Third Thyferra]] · [[Battle of Tralus (Galactic Civil War)|Tralus]] · [[Mission to retrieve the Great Life Jewels|Unknown Regions]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+
+This row's subtemplate: [[Template:GCW 5 ABY]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/5 DBY
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

@@ -1,0 +1,24 @@
+{{AhsokaDate|108}} Since the events of ''[[Star Wars: Ahsoka — Escape from Thrawn]]'' take place between "Part Seven" and "Part Eight," the events of {{#if: {{{1|}}}|[[Ahsoka — Escape from Thrawn {{{1|}}}|''Ahsoka — Escape from Thrawn'' {{{1|}}}]]|the comic series}}{{#if: {{{2|}}}|, including {{{2}}},|}} must take place in 9 ABY as well.<noinclude>
+
+==Usage==
+*<code><nowiki>{{EscapeFromThrawnDate}}</nowiki></code>
+*<code><nowiki>{{EscapeFromThrawnDate|event (optional)}}</nowiki></code>
+
+===Examples===
+{|class="wikitable sortable" {{Prettytable}}
+!Issue !! Template !! Date !! Result
+|-
+|''[[Star Wars: Ahsoka — Escape from Thrawn]]''||<nowiki>{{EscapeFromThrawnDate}}</nowiki>||[[9 ABY]]||{{EscapeFromThrawnDate}}
+|-
+|[[Ahsoka — Escape from Thrawn 1|''Ahsoka — Escape from Thrawn'' 1]]||<nowiki>{{EscapeFromThrawnDate|1}}</nowiki>||[[9 ABY]]||{{EscapeFromThrawnDate|1}}
+|-
+|[[Ahsoka — Escape from Thrawn 2|''Ahsoka — Escape from Thrawn'' 2]]||<nowiki>{{EscapeFromThrawnDate|2}}</nowiki>||[[9 ABY]]||{{EscapeFromThrawnDate|2}}
+|-
+|[[Ahsoka — Escape from Thrawn 3|''Ahsoka — Escape from Thrawn'' 3]]||<nowiki>{{EscapeFromThrawnDate|3}}</nowiki>||[[9 ABY]]||{{EscapeFromThrawnDate|3}}
+|-
+|[[Ahsoka — Escape from Thrawn 4|''Ahsoka — Escape from Thrawn'' 4]]||<nowiki>{{EscapeFromThrawnDate|4}}</nowiki>||[[9 ABY]]||{{EscapeFromThrawnDate|4}}
+|-
+|[[Ahsoka — Escape from Thrawn 5|''Ahsoka — Escape from Thrawn'' 5]]||<nowiki>{{EscapeFromThrawnDate|5}}</nowiki>||[[9 ABY]]||{{EscapeFromThrawnDate|5}}
+|}
+
+[[Category:Canon dating citation templates]]</noinclude>

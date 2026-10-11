@@ -1,0 +1,12 @@
+{{#invoke:BaseCitation|main|template=ChessCite
+|mode=ref
+|series=Star Wars: The Official Chess Collection
+|issue={{{1}}}
+|nolink=1
+|child={{#invoke:FormattedTextLookup|main|type=RefMagazine|template=ChessCite
+  |textOnly=true
+  |target=Figure
+  |issue={{{1}}}
+}}
+|parentMode={{{parent|}}}
+}}<noinclude>{{Documentation}}[[Category:Reference magazine citation templates]]</noinclude>

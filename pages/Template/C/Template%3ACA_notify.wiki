@@ -1,0 +1,16 @@
+{| class="headerbackground" style="width:85%; color:black; background:#BED7FC; padding:5px; margin:0 auto 5px auto"
+! rowspan="2" style="padding:5px 1em" | [[File:CA-Icon.svg|75px]]
+! style="text-align:left; font-size:larger" | "Size matters not. Look at me. Judge me by my size, do you?"
+|-
+| style="font-size:95%" | '''[[{{{1}}}]]''' has been approved by the [[Wookieepedia:EduCorps|EduCorps]] and awarded [[Wookieepedia:Comprehensive articles|Comprehensive]] status. Feel free to add the {{Tl|UserCA}} template to your userpage to acknowledge your hard work. The EduCorps thanks you for your efforts and looks forward to future nominations from you! &mdash; {{{2}}}
+|}<br /><noinclude>{{Top|sprot}}
+
+==Usage==
+To place the above box on a user's talk page, type the following: <code><nowiki>{{subst:CA notify|</nowiki>{{Var|article title}}<nowiki>|~~~~}}</nowiki></code>.
+
+Remember to <code>subst</code> this template&mdash;it will not work properly if you don't.
+
+__EXPECTUNUSEDTEMPLATE__
+
+[[Category:Wookieepedia EduCorps templates|{{PAGENAME}}]]
+[[Category:User talk templates|{{PAGENAME}}]]</noinclude>

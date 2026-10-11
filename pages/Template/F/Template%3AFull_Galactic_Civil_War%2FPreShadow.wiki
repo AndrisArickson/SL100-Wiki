@@ -1,0 +1,26 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center">
+<onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Pre–Shadow Hand campaign]] & [[Imperial Civil War]]<br />([[10 ABY/Legends|10 ABY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Battle of Kaikielius (Galactic Civil War)|Kaikielius]] · [[Battle of Alsakan (Galactic Civil War)|First Alsakan]] · [[Battle of Metellos (Galactic Civil War)|Metellos]] · [[Siege of Caprioril|Caprioril]] · [[Battle of Giju (Galactic Civil War)|Giju]]<br />[[Battle  of Frego|Frego]] · [[Battle of Andara|Andara]] · [[Battle of Gandeal|Gandeal]] · [[Battle of Corellia (10 ABY)|Third Corellia]] · [[Battle of Trellen|Trellen]]<br />[[Battle of Drearia (Pre–Shadow Hand campaign)|Second Drearia]] · [[Battle of Uviuy Exen (10 ABY)|Second Uviuy Exen]] · [[Battle of Orinda (10 ABY)|First Orinda]]<br />[[Battle of Ord Mantell (10 ABY)|Seventh Ord Mantell]] · [[Battle of Dorin (Galactic Civil War)|Dorin]] · [[Battle of Bilbringi (10 ABY)|Fifth Bilbringi]] · [[Battle of Palanhi (Galactic Civil War)|Palanhi]]<br />[[Battle of Obroa-skai (Galactic Civil War)|Obroa-skai]] · [[Battle of Bandomeer (Galactic Civil War)|Bandomeer]] · [[Second Battle of Coruscant|Tenth Coruscant]] · [[Battle of Anaxes (10 ABY)|Anaxes]]<br />[[Battle of Borleias (10 ABY)|Fourth Borleias]] · [[Battle of Aargau|Aargau]] · [[Battle of Cal-Seti|Cal-Seti]] · [[Invasion of Chandrila|Chandrila]]<br />[[Battle of Brentaal (10 ABY)|Second Brentaal]] · [[Invasion of Esseles|Second Esseles]] · [[Invasion of Ralltiir|Fifth Ralltiir]]<br />[[Battle of Drearia (Imperial Mutiny)|Third Drearia]] · [[Battle of Chasin|Chasin]] · [[Battle above Alsakan|Second Alsakan]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[Template:GCW PreShadow]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/PreSombra
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

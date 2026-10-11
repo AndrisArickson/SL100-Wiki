@@ -1,0 +1,11 @@
+<div class="spoiler metadata headerbackground">'''<span style="color: #bb0000; text-decoration: underline">Notice:</span>''' The following plot summary is '''abridged''' and solely focuses on the [[Canon|non-canon]] ''[[Star Wars]]'' elements in ''[[{{#switch:{{{1}}}|FNBR=Fortnite Battle Royale|LFNO=LEGO Fortnite Odyssey|LFNBL=LEGO Fortnite Brick Life|#default={{{1|Fortnite}}}}}]]'' as they relate to the overall narrative. For more detailed plot information, visit the [[w:c:fortnite|Fortnite Wiki]].</div>
+<noinclude>
+==Usage==
+Place <nowiki>{{FortniteSummary}}</nowiki> before the "Plot summary" section of a game in ''[[Fortnite]]''.
+
+The template defaults to ''Fortnite''. Use the format <nowiki>{{FortniteSummary|ABBREVIATION}}</nowiki> for a specific game mode.
+
+*<code>FNBR</code> &ndash; ''[[Fortnite Battle Royale]]''
+*<code>LFNO</code> &ndash; ''[[LEGO Fortnite Odyssey]]''
+*<code>LFNBL</code> &ndash; ''[[LEGO Fortnite Brick Life]]''
+[[Category:Advisory templates]]</noinclude>

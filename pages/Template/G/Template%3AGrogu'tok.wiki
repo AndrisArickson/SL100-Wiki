@@ -1,0 +1,8 @@
+<table cellpadding="4" cellspacing="0" border="0" class="headerbackground"; style="border:2px solid #a432a8; background:#e980ed; width:auto; text-align:left; margin: 0 auto; padding:3px; margin-bottom:3px; font-size:95%;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Grogutok.png|150px]]</td><td style="overflow:hidden; padding-right:0.5em;"><div><big> I, {{{1}}}, sincerely award thee a '''Grogu'tok'''</big></div>for&#32;{{SAFESUBST:<noinclude />#if:{{{2|}}}|{{{2|}}}|being absolutely awesome!}}</td></tr></table><noinclude>
+
+==Usage instructions==
+Copy the code below, modify it however you like it, and paste it onto the talk page of the user who is to be presented with the award. Leaving the message blank will default to "being absolutely awesome!"
+
+{{tlp|Grogu'tok|<nowiki>~~~</nowiki>&#124;''personalised message''}}
+
+[[Category:Award templates]]</noinclude>

@@ -1,0 +1,19 @@
+{{#invoke:BaseCitation|main
+|mode=magazine
+|image=[[File:SWGamer-icon.png|baseline|x14px|link=Star Wars Gamer]]
+|series=Star Wars Gamer
+|issue={{{1}}}
+|issue1={{{issue1|}}}
+|issue2={{{issue2|}}}
+|child={{#if:{{{issue1|}}}|{{{1|}}}|{{{2|}}}}}
+|ctext={{#if:{{{issue1|}}}|{{{2|}}}|{{{3|}}}}}
+|noquotes={{{noquotes|}}}
+|reprint={{{reprint|}}}
+}}<noinclude>
+==Usage==
+Place the following code on the page and replace the "issue number," "story name" and "formatted name" with the appropriate information.
+ <nowiki>{{</nowiki>GamerCite|''ISSUE NUMBER''|''STORY NAME''|''FORMATTED NAME'' (optional)}}
+
+==Image (not orphan)==
+[[File:SWGamer-icon.png|thumb]]
+[[Category:Magazine citation templates|Gamer]]</noinclude>

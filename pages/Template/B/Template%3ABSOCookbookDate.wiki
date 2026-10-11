@@ -1,0 +1,6 @@
+{{#ifeq:{{PAGENAME}}|Star Wars: Galaxy's Edge: The Official Black Spire Outpost Cookbook|''Star Wars: Galaxy's Edge: The Official Black Spire Outpost Cookbook''|''[[Star Wars: Galaxy's Edge: The Official Black Spire Outpost Cookbook]]''}} establishes that the [[in-universe]] [[The Official Black Spire Outpost Cookbook|book]] was published at the same [[time]] as when the [[First Order]] was searching for the [[Resistance]] base on [[Batuu]], which ''[[Star Wars: Timelines]]'' dates to [[34 ABY]].<noinclude>
+
+==Usage==
+<code><nowiki>{{CookbookDate}}</nowiki></code>
+
+[[Category:Canon dating citation templates]]</noinclude>

@@ -1,0 +1,10 @@
+<includeonly><span class="mhi">[[File:IDWStarWarsAdventuresLogoSmaller.png|baseline|x12px|link=Star Wars Adventures (2017)]]&#32;</span>"{{HideParanthetical|{{{2|{{{story|}}}}}}|{{{3|{{{stext|}}}}}}}}"&#32;&mdash;&#32;{{#if:{{{issue1|}}}
+  |[[Star Wars Adventures (2017) {{{issue1}}}|''Star Wars Adventures'' (2017) {{{issue1}}}]]&ndash;[[Star Wars Adventures (2017) {{{issue2}}}|{{{issue2}}}]]
+  |{{#if:{{{annual|}}}
+    |[[Star Wars Adventures Annual {{{annual}}}|''Star Wars Adventures Annual'' {{{annual}}}]]
+    |{{#ifeq:{{lc: {{{1|{{{issue|}}}}}}}} | ashcan
+      | ''[[Star Wars Adventures Ashcan]]''
+      | [[Star Wars Adventures (2017) {{{1|{{{issue|}}}}}}|''Star Wars Adventures'' (2017) {{{1|{{{issue|}}}}}}]]
+    }}
+  }}
+}}{{#if:{{{reprint|}}}|&#32;{{#invoke:Reprint|main|title={{{story|}}}|check=1}}|}}</includeonly><noinclude>{{Documentation}}</noinclude>

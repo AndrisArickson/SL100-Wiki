@@ -1,0 +1,63 @@
+{{{{#if:{{{side4|}}}{{{forces4|}}}{{{casual4|}}}|Duel400|{{#if:{{{side3|}}}{{{forces3|}}}{{{casual3|}}}|Duel350|Duel300}}}}
+|prev={{{prev|}}}
+|conc={{{conc|}}}
+|next={{{next|}}}
+|name={{{name|}}}
+|image={{{image|}}}
+|conflict={{{conflict|}}}
+|date={{{date|}}}
+|place={{{place|}}}
+|result={{{result|}}}
+|side1={{{side1|}}}
+|side2={{{side2|}}}
+|side3={{{side3|}}}
+|side4={{{side4|}}}
+|forces1={{{forces1|}}}
+|forces2={{{forces2|}}}
+|forces3={{{forces3|}}}
+|forces4={{{forces4|}}}
+|casual1={{{casual1|}}}
+|casual2={{{casual2|}}}
+|casual3={{{casual3|}}}
+|casual4={{{casual4|}}}
+|civilian={{{civilian|}}}
+}}{{#ifeq:{{NAMESPACE}}| |{{#if:{{{side4|}}}|[[Category:4-sided battles]]|}}|}}<!--
+-->{{#invoke:InfoboxParamCheck|main|prev|conc|next|image|name|conflict|date|place|result|side1|side2|side3|side4|forces1|forces2|forces3|forces4|casual1|casual2|casual3|casual4|civilian|ignore=name}}<!--
+-->{{PreloadCat}}{{#invoke:EventDateCheck|main|type=Battles}}<noinclude>[[category:Event infobox templates]]
+
+===See also===
+* For two-, three-, and four-way battles, use [[Template:Battle]]
+* For wars or other conflicts, use [[Template:War]]
+* For missions, use [[Template:Mission]]
+* For duels, use [[Template:Duel]]
+* For campaigns, use [[Template:Campaign]]
+* For general events, use [[Template:Event]]
+{{Clear}}
+===Usage===
+To use this template, paste the following code into the top of the article, filling all relevant fields:
+<pre><nowiki>
+{{Duel
+|prev=
+|conc=
+|next=
+|name=
+|image=
+|conflict=
+|date=
+|place=
+|result=
+|side1=
+|side2=
+|side3=
+|side4=
+|forces1=
+|forces2=
+|forces3=
+|forces4=
+|casual1=
+|casual2=
+|casual3=
+|casual4=
+|civilian=
+}}
+</nowiki></pre></noinclude>

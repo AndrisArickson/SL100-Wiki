@@ -1,0 +1,51 @@
+<infobox theme="Company">
+	<image source="image"></image>
+    <title source="name"></title>
+    <navigation name="mobile-eras"><center>{{Top-mobile}}</center></navigation>
+    <group collapse="open">
+    	<header>Organizational information</header>	
+        <data source="founder"><label>Founder(s)</label></data>	
+        <data source="ledby"><label>Leader(s)</label></data>	
+        <data source="associations"><label>Associations</label></data>
+        <data source="parent"><label>Parent company</label></data>
+        <data source="subsid"><label>Subsidiaries</label></data>	
+        <data source="headquarters"><label>Headquarters</label></data>	
+        <data source="locations"><label>Location(s)</label></data>
+        <data source="role"><label>Primary role(s)</label></data>
+        <data source="products"><label>Major product(s)</label></data>	
+    </group>
+    <group collapse="open">
+    	<header>Chronological and political information</header>
+        <data source="founding"><label>Founding</label></data>			
+        <data source="dissolved"><label>Date dissolved</label></data>        
+        <data source="affiliation"><label>Affiliation</label></data>
+    </group>
+	<navigation><small>{{PlainLink|//starwars.fandom.com/wiki/Template:Company|name=<nowiki>[</nowiki>Source<nowiki>]</nowiki>}}</small></navigation>
+</infobox>{{PreloadCat}}<!-- TEMPLATE ENDS HERE.
+
+The following code flags infoboxes that do not have parameters defined.
+-->{{#invoke:InfoboxParamCheck|main|image|name|founder|ledby|associations|parent|subsid|headquarters|locations|role|products|founding|dissolved|affiliation|ignore=name}}<noinclude>
+{{Top|sprot}}
+{{Clear}}
+===Usage instructions===
+Paste the following code at the beginning of the article, filing all relevant fields. If a field doesn't apply, just leave it blank.
+
+<pre><nowiki>{{Company
+|image=
+|name=
+|founder=
+|ledby=
+|associations=
+|parent=
+|subsid=
+|headquarters=
+|locations=
+|role=
+|products=
+|founding=
+|dissolved=
+|affiliation=
+}}</nowiki></pre>
+
+[[Category:Group infobox templates]]
+</noinclude>

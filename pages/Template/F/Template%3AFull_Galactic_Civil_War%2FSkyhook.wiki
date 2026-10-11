@@ -1,0 +1,25 @@
+<div class="conflict-navbox" align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="float:center; clear:both; margin: 0 0 .5em 1em; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%; text-align:center"><onlyinclude>
+<tr>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;">'''[[Operation Skyhook]]<br />([[1 BBY/Legends|1]]&ndash;[[0 BBY/Legends|0 BBY]])'''</td>
+<td style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+'''[[Rescue from Stars' End|Star's End]] · [[Battle of Orron III|Orron III]] · [[Ambush in the Cron Drift|Cron Drift]] · [[Battle of the Circarpous system (Galactic Civil War)|Circarpous]]<br />[[Raid above Corellia|First Corellia]] · [[Scanning in the Vergesso Asteroids|Vergesso Asteroids]] · [[Raid over Corulag|First Corulag]]<br />[[Death Star Uprising|Second Death Star I]] · [[Mission to Bothawui|First Bothawui]] · [[Raid on Polis Massa|Polis Massa]]<br />[[Capture of the Sidral II|''Sidral II'']] · [[Attack on the Imperial repair dock|Repair dock]] · [[Capture of the Omicron 1|''Omicron 1'']] · [[Attack on the Defiance|''Defiance'']]<br />[[Capture of the Death Star design team|Coruscant system]] · [[Battle of Kalla VII|Kalla VII]] · [[Attack on the first Death Star|Despayre]]<br />[[Destruction of Despayre]] · [[Skirmish in the Horuz system|Horuz system]] · [[Mission to Danuta|Danuta]]<br />[[Mission to Darkknell (Galactic Civil War)|Darkknell]] · [[Subjugation of Ralltiir|First Ralltiir]] · [[Battle of Kattada|Kattada]] · [[Battle of Toprawa|Toprawa]]<br />[[Attack on the Independence|''Independence'']] · [[Mission to Desolation Station|Desolation Station]]<br />[[Mission to Death Star I|Third Death Star I]] · [[Battle of Tatooine (Galactic Civil War)|Second Tatooine]]<br />[[Destruction of Alderaan/Legends|Destruction of Alderaan]] · [[Rescue of Princess Leia/Legends|Fourth Death Star I]]<br />[[Raid on Yavin 4|First Yavin 4]] · [[Battle of Yavin/Legends|Battle of Yavin]]'''
+</td></tr>
+</onlyinclude>
+</table></div>
+</td></tr></table></div>
+
+This row's subtemplate: [[:Template:GCW Skyhook]]
+
+Individual Rows:
+{{GCW rows}}
+
+Individual Subtemplates:
+{{GCW subtemplates}}
+
+{{Interlang
+|es=Plantilla:Guerra Civil Galáctica completa/Skyhook
+}}
+
+[[Category:Galactic Civil War navbox rows|{{PAGENAME}}]]

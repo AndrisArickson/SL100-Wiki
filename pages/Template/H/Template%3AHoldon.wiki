@@ -1,0 +1,25 @@
+{{#ifeq:Talk|{{#switch:{{NAMESPACEE}}
+|{{ns:1}}|{{ns:3}}|{{ns:5}}|{{ns:7}}|{{ns:9}}|{{ns:11}}|{{ns:13}}|{{ns:15}}|{{ns:101}}=Talk}}
+|<span style="color:red; font-weight:bold; font-size:120%;"><nowiki>{{hangon}}</nowiki> should not be placed on talk pages. Please remove it and place it on the content page.</span>
+|{{Iumb
+| id = Holdon
+| bg = #EEF
+| image = [[File:Rayshields.png|150px]]
+| caption = How did this happen? We're smarter than this!
+| message = The [[Wookieepedia:Speedy deletions|speedy deletion]] of this page is contested. The person placing this notice intends to dispute the speedy deletion of this article on [[{{TALKSPACE}}:{{PAGENAME}}|its talk page]], and requests that this page not be deleted in the meantime. {{#if:{{{1|}}}|
+
+'''Reason:''' {{{1}}}|}}
+| comment = Note that this request is not binding, and the page may still be deleted if the page unquestionably meets the [[Wookieepedia:Deletion policy|speedy deletion criteria]], or if the {{#if:{{{1|}}}|given explanation is unacceptable|promised explanation is not provided very soon}}. This template should not be removed from a page still marked with a speedy deletion template.
+}}<includeonly>{{#ifeq:{{FULLPAGENAME}}|Wookieepedia:Templates/Deletion||[[Category:Contested candidates for speedy deletion]]}}</includeonly>}}<noinclude>
+
+==Usage==
+Place the following code at the top of the page that is tagged for speedy deletion:
+
+<code><nowiki>{{Holdon|reason (optional)}}</nowiki></code>
+
+Then, '''immediately''' give a detailed reasoning on the associated talk page.
+
+==Categorization==
+*[[:Category:Contested candidates for speedy deletion]]
+
+[[Category:Deletion templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,9 @@
+[[File:Celebration-favicon.png|baseline|x12px|link=Celebration]]&#32;{{{1|}}}&#32;&mdash;&#32;{{HideParanthetical|{{{2|}}}}} exclusive trailer<noinclude>
+==Usage==
+Place the following code on the page and replace the "MEDIA" with a link to the appropriate media page, using the <nowiki>{{Film}}</nowiki> or other citation templates if appropriate, and "CELEBRATION" with the name of the page for the relevant event.
+ <nowiki>{{</nowiki>CelebrationTrailer|''MEDIA''|''CELEBRATION''}}
+
+==Image==
+[[File:Celebration-favicon.png|thumb|left|Not an orphan.]]
+
+[[Category:Citation templates]]</noinclude>

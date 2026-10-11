@@ -1,0 +1,43 @@
+<div>
+<table border="0" cellspacing="0" cellpadding="0" class="headerbackground" style="float:center; clear:both; margin: 0 auto .5em auto; width:500px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;"><tr><td colspan="3"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" class="headerbackground" style="float:center; margin:0 0 0 0; width:500px; background:#ffffff; border-collapse:collapse;">
+<tr class="headerbackground" style="text-align:center; color:#ffffff; background:{{{c1|#7995CA}}}; font-size:larger; border-bottom: 1px solid #999999;"><th colspan="3">[[Galactic Civil War/Legends|Galactic Civil War]]<br>([[2 BBY/Legends|2 BBY]] &mdash; [[19 ABY/Legends|19 ABY]])</th></tr>
+<tr><th colspan="2" class="headerbackground" style="text-align:center; font-weight:normal; background:{{{c2|#B4C5E3}}};">'''The Post-Reborn Empire ([[11 ABY/Legends|11 ABY]] &mdash; [[14 ABY/Legends|14 ABY]])'''</th></tr>
+<tr class="headerbackground" style="spacing-top:0px; spacing-bottom:0px; vertical-align:top; text-align:left; background:{{{c3|#F0F0F0}}};"></tr>
+<tr><th colspan="2" style="background:transparent;">
+<table cellpadding="0" cellspacing="2" border="0" style="background:transparent; padding:0; width:100%;">
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;"></td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+[[Imperial Civil War]] &ndash; [[11 ABY/Legends|11 ABY]]
+</td></tr>
+{{Full Galactic Civil War/Invid}}
+<tr>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:25%;"></td>
+<td class="headerbackground" style="color:{{{3|black}}}; padding:0 4px 0 4px; background:{{{2|#F9F9F9}}}; width:75%;">
+[[Natasi Daala|Daala]] campaign &ndash; [[11 ABY/Legends|11]]-[[12 ABY/Legends|12 ABY]]
+</td></tr></table>
+</th></tr>
+<tr><th colspan="3" class="headerbackground" style="text-align:center; font-weight:normal; background:{{{c2|#B4C5E3}}}; border-top: 1px solid #999999; border-bottom: 1px solid #999999;">'''Related topics and articles'''</th></tr>
+<tr><td colspan="3" class="headerbackground" style="background:transparent; text-align:center;">
+[[New Republic/Legends|New Republic]] · [[Galactic Empire/Legends|Galactic Empire]] · [[Invids]] · [[Jensaarai/Legends|Jensaarai]] · [[Leonia Tavira]]<br />''[[Invidious]]'' · [[Jenos Idanian]] · [[Corran Horn/Legends|Corran Horn]] · [[Mirax Terrik Horn]]<br />[[Luke Skywalker/Legends|Luke Skywalker]] · [[Khuiumin Survivors]]
+</td></tr>
+</table></div></td></tr>
+<tr style="border-top: 1px solid #999999;"><td id="infoboxend" class="plainlinks" style="text-align:right; width:48%;"></td>
+<td style="text-align:left; width:48%;">&#32;&#32;[[Template:GCW Invid|[Source]]]</td><td id="infoboxend" class="plainlinks" style="text-align:right; width:4%;"></td></tr></table></div>
+<!-- TEMPLATE ENDS HERE. -->
+
+<noinclude>
+
+This subtemplate's row: [[:Template:Full Galactic Civil War/Invid]]
+
+{{GCW subtemplates}}
+
+Individual Rows:
+{{GCW rows}}
+
+{{Interlang
+|es=Plantilla:GCW Invid
+}}
+
+[[Category:Galactic Civil War navbox templates|{{PAGENAME}}]]</noinclude>

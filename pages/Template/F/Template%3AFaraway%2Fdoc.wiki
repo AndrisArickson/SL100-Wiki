@@ -1,0 +1,46 @@
+This template is to be used for citing individual pages on [http://www.farawaypress.com/ Faraway Press: The Online Home of John Jackson Miller].
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article, fill the required fields, and remove any that you don't use.
+
+<code><nowiki>{{Faraway|subdomain=|url=|text=|archivedate=|archiveurl=|nobackup=|nolive=}}</nowiki></code>
+
+All fields need to be explicitly assigned to; otherwise, use of the "=" symbol in the URLs messes up the template.
+
+===Required parameters===
+*{{Para|url}} The URL of the page, minus <code><nowiki>http://www.farawaypress.com/</nowiki></code>.
+*{{Para|text}} The formatted text to display.
+*For '''archive''' options, see [[#Backup links|Backup links]] below.
+
+===Optional parameters===
+*{{Para|subdomain}} If the URL is a subdomain of farawaypress.com, the subdomain can be specified. Default is <code><nowiki>www</nowiki></code> if left blank.
+*{{Para|nolive}} When the original online content is no longer available, add "<code>|nolive=1</code>".
+
+===Backup links===
+{{BackupLinkHelp}}
+
+===Example(s)===
+<code><nowiki>{{Faraway|url=fiction/books/swanewdawn.html|text=''Star Wars: A New Dawn''|archivedate=20161019211529}}</nowiki></code>
+
+Results in:
+
+{{Faraway|url=fiction/books/swanewdawn.html|text=''Star Wars: A New Dawn''|archivedate=20161019211529}}
+
+<hr />
+<code><nowiki>{{Faraway|url=blog/2010/02/16/kotor-countdown-2-just-asked-questions|text=KOTOR Countdown #2: Just-Asked-Questions, The Finale!|archivedate=20200805132619}}</nowiki></code>
+
+Results in:
+
+{{Faraway|url=blog/2010/02/16/kotor-countdown-2-just-asked-questions|text=KOTOR Countdown #2: Just-Asked-Questions, The Finale!|archivedate=20200805132619}}
+
+<hr />
+<code><nowiki>{{Faraway|url=fiction/books/swanewdawn.html|text=''Star Wars: A New Dawn''|archivedate=20161019211529}}</nowiki></code>
+
+Results in:
+
+{{Faraway|url=fiction/books/swanewdawn.html|text=''Star Wars: A New Dawn''|archivedate=20161019211529}}
+
+__NOTOC__
+
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+<includeonly>[[Category:Internet citation templates for use in External Links|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Citation template documentation|{{PAGENAME}}]]</noinclude>

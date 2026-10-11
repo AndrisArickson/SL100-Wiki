@@ -1,0 +1,46 @@
+<includeonly>{{JCFCite|url=posts/29290174|board=Literature|thread=The Essential Atlas and Galactic Cartography: Official Discussion|user=[[Jason Fry|jasonfry]]|date=2008-10-12|time=2:26 PM|accessdate=2025-08-06|quote=I'd call Gendrah-Narvin and Erhynradd star systems -- I err on the side of star systems unless there's evidence to the contrary.}} <small>(In reply to: "Jason, is Gendrah-Narvin a city country, star, or planet?")</small> {{#if:{{{legends|}}}|[[Jason Fry]] and [[Daniel Wallace]], co-authors of ''[[The Essential Atlas]]''
+|[[Jason Fry]], co-author of ''[[The Essential Atlas]]'' and a number of maps in the current ''[[Star Wars]]'' [[canon]] (see a list [[Template:Planetnamia|here]]), and his ''Atlas'' co-author [[Daniel Wallace]]}}, stated their intention to create the approximate locations for numerous events based on context implied from their names. Given this principle, this article makes a similar basic assumption for {{{event|}}} in relation to {{#if:{{{system|}}}|the {{{system|}}}|{{{location|}}}}}.</includeonly><noinclude>
+This template is to be used for referencing the rationale, based on [[Daniel Wallace]] and [[Jason Fry]]'s comments on the [[Jedi Council Forums]] on [[TheForce.net]], for treating [[Star system/Legends|star systems]] and locations that share their name with battles or events as being the approximate location of said event.
+
+==Usage==
+Copy the template code below and paste it into the appropriate place in an article. Fill in the required fields and remove any that you don't use.
+
+<code><nowiki>{{Battlenamia|event=|system=|location=|legends=}}</nowiki></code>
+
+===Required parameters===
+*{{Para|event}} &mdash; Linked (or partially linked; see examples below) name of the event.
+*Either of the following:
+**'''system''': Linked (or partially linked; see examples below) name of the system.
+**'''location''': Linked (or partially linked; see examples below) name of the location.
+
+===Optional parameters===
+*'''legends''': Use this parameter with the value "1" for [[Star Wars Legends|''Star Wars Legends]] subjects.
+**Parameter not needed for [[canon]] subjects related to the following sources:
+***[[Star Wars Galaxy Map (poster)|''Star Wars'' Galaxy Map poster]]
+***''[[Star Wars: Complete Locations, New Edition]]''
+***''[[Star Wars: The Acolyte: The Visual Guide]]''
+***{{StarWarsGalaxyMap}}
+***{{GalaxyMapAppendix}}
+
+===Examples===
+<code><nowiki>{{Battlenamia|event=[[Erhynradd Mutiny]]|system=Erhynradd [[Star system/Legends|system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Battlenamia|event=[[Erhynradd Mutiny]]|system=Erhynradd [[Star system/Legends|system]]|legends=1}}
+
+<hr />
+<code><nowiki>{{Battlenamia|event=Erhynradd Mutiny|system=[[Erhynradd system/Legends|Erhynradd system]]|legends=1}}</nowiki></code>
+
+Results in:
+
+{{Battlenamia|event=Erhynradd Mutiny|system=[[Erhynradd system/Legends|Erhynradd system]]|legends=1}}
+
+<hr />
+<code><nowiki>{{Battlenamia|event=Battle of Kromus|system=[[Kromus system]]}}</nowiki></code>
+
+Results in:
+
+{{Battlenamia|event=Battle of Kromus|system=[[Kromus system]]}}
+
+[[Category:Logic citation templates]]</noinclude>
