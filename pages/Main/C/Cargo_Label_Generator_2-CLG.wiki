@@ -1,0 +1,45 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=Cargo Label Generator 2-CLG
+|manufacturer=[[MerenData/Legends|MerenData]]<ref name="PSG">''[[Platt's Smugglers Guide]]''</ref>
+|model=
+|type=Crate tag imprinter<ref name="PSG" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=1,500 [[Galactic Credit Standard/Legends|credits]]<ref name="PSG" />
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+The '''Cargo Label Generator 2-CLG''' was a crate tag imprinter manufactured by [[MerenData/Legends|MerenData]]. A hand-held unit that looked similar to a [[Datapad/Legends|datapad]] with a bulky top attachment, the imprinter was a dedicated inventory recorder capable of printing individual marker tags. [[Spacer/Legends|Spacers]] could enter pertinent cargo information and create a tag with that information in coding and lettering. Information that could be printed included type of cargo, number of items, name of the sender, name of the receiver, and other pertinent data.<ref name="PSG" />
+
+The printed tags could be read by beings, but they were designed to be scanned by tag scanner datapads such as the [[Data Scanner]] or by input devices installed on [[Loader droid/Legends|cargo droids]]. The data could be interpreted and checked against [[Sensor/Legends|sensor]] information to confirm the cargo's contents. The Cargo Label Generator took about a [[Standard minute/Legends|minute]] to print a tag and had programming that allowed the spacer to produce multiple tags for the same item.<ref name="PSG" />
+
+==Sources==
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:MerenData products]]
+[[Category:Transportation technology]]

@@ -1,0 +1,90 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Cargoferry.jpg]]
+|name=Cargo ferry
+|designer=
+|manufacturer=[[Kiara Cargo Corporation]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=
+|type=Medium-sized [[Freighter/Legends|freighter]]<ref name="XWA" />
+|cost=
+|modifier=
+|sysmods=
+|length=90 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="XWA" />
+|poweroutput=
+|power=
+|shield gen=Rated 160 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 92 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] (3)
+|complement=
+|bays=
+|escapepods=
+|crew=6<ref name="XWA" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Cargo [[Transport/Legends|transport]]
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+*[[Dimok government]]<ref name="TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+*[[Pirate/Legends|Pirates]]<ref name="XWA" />
+*[[Airam Clans]]<ref name="XWvTF:BoP">''[[Star Wars: X-Wing vs. TIE Fighter: Balance of Power Campaigns]]''</ref>
+*Civilians
+}}
+The '''cargo ferry''' was a [[Transport/Legends|transport]] manufactured by [[Kiara Cargo Corporation]].<ref name="XWA" /> It was a [[Freighter/Legends|freighter]] with six engines. The ferry could carry cargo both internally and externally in attached [[Xizor cargo container|containers]], or externally carry captured spacecraft. The [[Galactic Empire/Legends|Galactic Empire]] and the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] employed such ferries, as did various space [[Pirate/Legends|pirates]] and civilians.
+
+A cargo ferry was 90 meters long. It required a crew of six to operate. It had three [[Laser cannon/Legends|laser cannons]]: forward, port, and starboard. It was equipped with [[Deflector shield/Legends|shields]].
+
+{{Ship-stub}}
+
+==Appearances==
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}} {{1st|[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]}}
+*''[[Star Wars: X-Wing Alliance]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+
+==Sources==
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Frachtfähre
+|pl=Prom transportowy
+}}
+
+[[Category:Cargo shuttle classes]]
+[[Category:Kiara Cargo Corporation products]]
+
+{{RelatedCategories
+|[[Category:Cargo ferries]]
+}}

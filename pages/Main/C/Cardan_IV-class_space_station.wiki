@@ -1,0 +1,76 @@
+{{Top|leg|title=''Cardan IV''-class space station}}
+{{SpaceStationClass
+|image=[[File:Cardan4-FoCMapEd.jpg]]
+|name=''Cardan IV''-class space station
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]
+|line=[[Cardan-class space station|''Cardan''-class space station]]
+|type=[[Space station/Legends|Space station]]
+|cost=
+|length=
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=Stationary
+|mglt=Stationary
+|max speed=Stationary
+|maneuverability=
+|engine=None
+|hyperdrive=None
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+*[[Concussion missile/Legends|Concussion missile]] [[Concussion missile launcher/Legends|launchers]] (2)
+*[[Turbolaser/Legends|Turbolasers]] (3)
+*Laser cannons (3)
+*[[Proton torpedo/Legends|Proton torpedo]] [[Proton torpedo launcher/Legends|launchers]] (2)
+*[[Ion cannon/Legends|Ion cannons]] (2)
+*[[Tractor beam/Legends|Tractor beams]] {{C|at least 2}}
+|complement=*[[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighters]] (72)
+*[[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttles]] (8)
+|bays=*At least 1 [[Hangar/Legends|hangar]] per section
+*Supply dock
+|escapepods=
+|crew=>4,800
+|skeleton=
+|passengers=
+|capacity=>35,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=>2 [[Standard year/Legends|years]]
+|lifesupport=[[Life support/Legends|Equipped]]
+|communications=Communications array
+|othersystems=
+|availability=[[Imperial Military/Legends|Imperial Military]] usage only
+|role=*[[Planet/Legends|Planetary]] defense
+*[[Fleet/Legends|Fleet]] support
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''''Cardan IV''-class space station''' was the fourth model of [[Cardan-class space station|''Cardan''-class space station]] built for the [[Galactic Empire/Legends|Galactic Empire]].
+
+==History==
+These stations supplemented the earlier ''Cardan''-class models. It housed a number of squadrons of [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighters]] and [[TIE/sa tactical bomber/Legends|TIE/sa bombers]], and could call in nearby [[Acclamator II-class assault ship/Legends|''Acclamator II''-class assault ships]] as well as [[Tartan-class patrol cruiser|''Tartan''-class patrol cruisers]] in the event of an assault on the station.
+
+==Appearances==
+*''[[Star Wars: Empire at War]]'' {{1st}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+
+{{Interlang
+|de=Cardan-IV-Klasse Raumstation
+|es=Estación espacial clase Cardan IV
+|fi=Cardan IV-luokan avaruusasema
+}}
+
+[[Category:Cardan-class space station models]]

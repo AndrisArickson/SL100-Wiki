@@ -1,0 +1,85 @@
+{{Top|leg|title=''Cardan III''-class space station}}
+{{Citation}}
+{{SpaceStationClass
+|image=[[File:Cardan3-FoCMapEd.jpg]]
+|name=''Cardan III''-class space station
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]
+|line=[[Cardan-class space station|''Cardan''-class space station]]
+|type=[[Space station/Legends|Space station]]
+|cost=
+|length=
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=Stationary
+|mglt=Stationary
+|max speed=Stationary
+|maneuverability=
+|engine=None
+|hyperdrive=None
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Medium [[Turbolaser/Legends|turbolaser]] batteries (4)
+*[[Point-defense laser cannon/Legends|Point-defense]] medium [[Laser cannon/Legends|laser cannon]] batteries (4)
+*Point-defense medium [[Ion cannon/Legends|ion cannon]] batteries (4)
+*[[Proton torpedo/Legends|Proton torpedo]] launchers (4)
+*[[Tractor beam/Legends|Tractor beams]] (2)
+|complement=*[[TIE series/Legends|TIE Series]] [[Starfighter/Legends|starfighters]] (48)
+*[[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttles]] (6)
+|bays=*At least 1 [[Hangar/Legends|hangar]] per section
+*Supply Dock
+|escapepods=
+|crew=4,800
+|skeleton=
+|passengers=
+|capacity=35,000 [[Metric ton/Legends|metric tons]]
+|cargohandling=
+|consumables=2 [[Standard year/Legends|years]]
+|lifesupport=[[Life support/Legends|Equipped]]
+|communications=Communications array
+|othersystems=
+|availability=[[Imperial Military/Legends|Imperial Military]] usage only
+|role=*[[Planet/Legends|Planetary]] defense
+*[[Fleet/Legends|Fleet]] support
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+}}
+The '''''Cardan III''-class space station''' was a medium defense platform used by the [[Galactic Empire/Legends|Galactic Empire]] to help secure areas of importance.
+
+==History==
+It was the middle-most of the [[Cardan-class space station|''Cardan''-class space stations]] both in name, and in relative power. While all variants of the ''Cardan'' space station saw use, the Mark III model was among the most commonly used throughout the Empire.<ref name="Mesop2">{{Wizards|url=default.asp?x=starwars/article/Mesop2|text=Message to Spacers 2}}</ref>
+
+To fulfill its role as a defense platform, the ''Cardan III'' possessed a number of [[Turbolaser/Legends|turbolaser]], [[Laser cannon/Legends|laser cannon]], and [[Ion cannon/Legends|ion cannon]] batteries in addition to a quartet of [[Proton torpedo/Legends|proton torpedo]] launchers. In addition, it carried a complement of four twelve-unit [[TIE/ln space superiority starfighter/Legends|TIE/LN starfighter]] squadrons&mdash;the same number of TIE/LN fighters carried by an [[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]]<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>&mdash;for patrol and space superiority. It also could quickly call upon [[Tartan-class patrol cruiser|''Tartan''-class patrol cruisers]] for reinforcements.
+
+As with other ''Cardan''-class space stations, the Mark III could repair vessels or even build them from scratch.<ref name="Mesop2" /> With its integrated shipyard facilities, a ''Cardan III'' was capable of building and repairing vessels as large as a [[Victory-class Star Destroyer/Legends|''Victory''-class Star Destroyer]].<ref name="EaW">''[[Star Wars: Empire at War]]''</ref> While featuring considerably less firepower than a [[Golan space defense platform]] of comparable size, this ability to repair and construct vessels made it a valuable asset to [[Imperial Navy/Legends|Imperial fleets]] far from the [[Core Worlds/Legends|Core]].
+
+==Appearances==
+*''[[Star Wars: Empire at War]]'' {{1st}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+
+==Sources==
+*<!-- 2008-06-26 -->{{Wizards|url=default.asp?x=starwars/article/Mesop2|text=Message to Spacers 2}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Cardan-III-Klasse Raumstation
+|es=Estación espacial clase Cardan III
+|fi=Cardan III-luokan avaruusasema
+}}
+
+[[Category:Cardan-class space station models]]

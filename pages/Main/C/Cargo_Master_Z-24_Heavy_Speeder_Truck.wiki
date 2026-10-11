@@ -1,0 +1,60 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Cargo Master Z-24 Heavy Speeder Truck
+|designer=
+|manufacturer=[[Aratech Repulsor Company/Legends|Aratech Repulsor Company]]<ref name="GWH">{{JournalCite|6|The Greel Wood Haven}}</ref>
+|line=
+|model=
+|type=[[Speeder truck/Legends|Speeder truck]]<ref name="GWH" />
+|cost=12,100<ref name="GWH" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="GWH" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=60 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="GWH" />
+|max alt=2.5 meters<ref name="GWH" />
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=1 medium [[Blaster cannon/Legends|blaster cannon]]<ref name="GWH" />
+|complement=
+|bays=
+|escapepods=
+|crew=2<ref name="GWH" />
+|skeleton=
+|passengers=14 (work crew)<ref name="GWH" />
+|capacity=7 [[Metric ton/Legends|metric tons]]<ref name="GWH" />
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Logging transport<ref name="GWH" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Cargo Master Z-24 Heavy Speeder Truck''' was manufactured by [[Aratech Repulsor Company/Legends|Aratech Repulsor Company]]. It was a large flatbed [[Speeder truck/Legends|speeder truck]] similar in design to the [[Cargo Master Z-12 Speeder Truck]]. It had three rear-mounted [[Engine/Legends|engines]], a large cargo capacity and forward cab. The vehicle was the mainstay of the [[Greel Wood Logging Corporation]] ground fleet.
+
+==Sources==
+*<!-- 1995-05-XX -->{{JournalCite|6|The Greel Wood Haven}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Aratech Repulsor Company products]]
+[[Category:Speeder truck models]]
