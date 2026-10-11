@@ -1,0 +1,71 @@
+{{Top|leg}}
+{{SpaceStationClass
+|image=[[File:Type_I_Light-Duty_Space_Platform.png]]
+|name=Type I Light-Duty Space Platform
+|designer=
+|manufacturer=[[Rendili StarDrive/Legends|Rendili StarDrive]]<ref name="HS">''[[Hideouts & Strongholds]]''</ref>
+|line=
+|type=
+|cost=
+|length=250 [[Meter/Legends|meters]]<ref name="HS" />
+|width=
+|height=
+|diameter=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="HS" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="HS" />
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*4 [[Turbolaser/Legends|turbolaser cannons]]<ref name="HS" />
+*[[Concussion missile launcher/Legends|Concussion missile launcher]]<ref name="HS" />
+|complement=
+|bays=
+|escapepods=
+|crew=200; 18 [[Gunner/Legends|gunners]]<ref name="HS" />
+|skeleton=50<ref name="HS" />
+|passengers=100<ref name="HS" />
+|capacity=50 [[Metric ton/Legends|metric tons]]<ref name="HS" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="HS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Type I Light Duty Space Defense Platform''' was built by [[Rendili StarDrive/Legends|Rendili StarDrive]].
+
+==Characteristics==
+The 250 meter long [[Space station/Legends|station]] was designed for civilian use, having room to accommodate 100 passengers. The facility could carry 50 metric tons of cargo and could hold enough supplies to run for six months.<ref name="HS" />
+
+{{Station-stub}}
+
+==Sources==
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Plataforma de Defensa Espacial Guardia Ligero Tipo I
+}}
+
+[[Category:Defense platform classes]]
+[[Category:Rendili StarDrive products]]
