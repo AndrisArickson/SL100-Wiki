@@ -1,0 +1,93 @@
+{{Top|leg|title=''Crix''-class diplomatic courier shuttle}}
+{{StarshipClass
+|image=[[File:Galactic_Alliance_shuttle.jpg]]
+|name=''Crix''-class diplomatic courier shuttle
+|designer=
+|manufacturer=*[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name="LECG">''[[Legacy Era Campaign Guide]]''</ref>
+*[[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]]<ref name="LECG" />
+|line=
+|model=''Crix''-class diplomatic courier shuttle<ref name="LECG" />
+|type=[[Shuttle/Legends|Shuttle]]<ref name="LECG" />
+|cost=500,000 [[Galactic Credit Standard/Legends|credits]] {{C|200,000 used}}<ref name="LECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer per hour/Legends|km/h]]<ref name="LECG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 1 {{C|backup class 10}}<ref name="LECG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="LECG" />
+|hull=
+|sensor=Long-range communication [[Sensor/Legends|sensors]]<ref name="LECG" />
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]]<ref name="LECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Twin [[Laser cannon/Legends|laser cannons]]<ref name="LECG" />
+*[[Blaster cannon/Legends|Blaster cannon]] battery<ref name="LECG" />
+|complement=
+|bays=
+|escapepods=
+|crew=5<ref name="LECG" />
+|skeleton=
+|passengers=30<ref name="LECG" />
+|capacity=50 [[Metric ton/Legends|tons]]<ref name="LECG" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="LECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Military<ref name="LECG" />
+|role=Diplomatic courier<ref name="LECG" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Federation of Free Alliances]]<ref name="LECG" />
+*[[Galactic Alliance Remnant]]<ref name="LECG" />
+}}
+The '''''Crix''-class diplomatic courier shuttle''', also designated as '''DC-4a''', was a diplomatic [[Shuttle/Legends|shuttle]] used by the [[Galactic Federation of Free Alliances|Galactic Alliance]] and later by the [[Core Fleet|Galactic Alliance Core Fleet]].
+
+==Characteristics==
+[[File:Galactic_Alliance_shuttle_shuttleblueprints.jpg|thumb|left|150px|Top and side profile of a ''Crix''-class diplomatic shuttle.]]
+The ''Crix''-class displayed certain characteristics of both [[Corellian Engineering Corporation/Legends|CEC]] designs as well as some [[Mon Calamari Shipyards/Legends|Mon Calamari]] features, given their cooperation on the design. The [[Hull/Legends|hulls]] showed the Mon Cal influence, while the interior, bridge and engines were very Corellian.<ref name="LECG" />
+
+It had an armored shell with a narrow slot between the halves for the engines, cockpit and weapons. It also had a long, narrow fin mounted on the upper hull which contained powerful long-range communication arrays. The DC-4a was lightly armed and had a set of exposed light laser cannons that were controlled by the pilot. It also included a retractable turret in the lower hull that housed blaster cannons. An alternate variant of the vessel, [[Crix-class assault shuttle|''Crix''-class assault shuttle]] or A-2s also existed, with heavier armor, firepower and shielding.<ref name="LECG" />
+
+==History==
+The jointly-designed ''Crix''-class was named after [[Alliance to Restore the Republic/Legends|Rebel]]/[[New Republic/Legends|New Republic]] [[General/Legends|General]] [[Crix Madine/Legends|Crix Madine]], based on his [[Corellian/Legends|Corellian]] background and for his effort to save [[Dac/Legends|Dac]] during the [[Battle of Calamari|invasion]] of the [[World Devastator]]s over a century earlier.<ref name="LECG" />
+
+[[Admiral/Legends|Admiral]] [[Gar Stazi]] used a [[Unidentified Crix-class diplomatic courier shuttle|DC-4a shuttle]] to reach [[The Wheel/Legends|the Wheel]] for a meeting with [[Captain/Legends|Captain]] [[Mingo Bovark]] of [[Roan Fel]]'s [[Fel Empire|Imperial]] loyalists. After using [[Command Override Limpet Droid]]s to take control of a [[Turbolaser/Legends|turbolaser]] on Bovark's [[Nune-class Imperial shuttle|''Nune''-class Imperial shuttle]], Stazi's shuttle was targeted. The shuttle managed to raise its [[Deflector shield/Legends|shields]] in time, and after Admiral Stazi boarded the shuttle, it left the Wheel.
+
+==Appearances==
+*[[Legacy (2006) 9|''Legacy'' (2006) 9]] {{1st}}
+*[[Legacy (2006) 10|''Legacy'' (2006) 10]]
+
+==Sources==
+*<!-- 2009-03-17 -->''[[Legacy Era Campaign Guide]]'' {{1stID|''Crix''-class diplomatic courier shuttle}}
+
+==Notes and references==
+{{Mediacat|imagecat=Images of Crix-class diplomatic courier shuttles}}
+{{Reflist}}
+
+{{Interlang
+|de=Crix-Klasse Kuriershuttle
+|es=Lanzadera mensajera diplomática clase Crix
+}}
+
+[[Category:Corellian Engineering Corporation products]]
+[[Category:Mon Calamari Shipyards products]]
+[[Category:Shuttle classes]]
+[[Category:Starship classes of the Galactic Alliance]]
+
+{{RelatedCategories
+|[[Category:Crix-class diplomatic courier shuttles]]
+}}

@@ -1,0 +1,89 @@
+{{Top|leg|title=''Crescent''-class Transport}}
+{{StarshipClass
+|image=[[File:Crescent-class_transport.png]]
+|name=''Crescent''-class Transport
+|designer=
+|manufacturer=[[Hyrotii Corporation/Legends|Hyrotii Corporation]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|line=
+|model=[[Light freighter/Legends|Light freighter]]<ref name="PP" />
+|type=
+|cost=25,000 [[Galactic Credit Standard/Legends|credits]] {{C|used}}<ref name="PP" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="PP" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="PP" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 1.0]]<ref name="PP" />
+*[[Backup hyperdrive|Class 10]]<ref name="PP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="PP" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="PP" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=1 Light [[Laser cannon]]<ref name="SS">''[[Stock Ships]]''</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="SS" />-2<ref name="PP" />
+|skeleton=
+|passengers=(Varies) Up to 8<ref name="SS" />
+|capacity=80 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]<ref name="PP" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Crescent''-class Transport''' or '''''Crescent''-class freighter''' was a fast luxury [[Courier/Legends|courier]] manufactured by [[Hyrotii Corporation/Legends|Hyrotii Corporation]].
+
+==Description==
+[[Hyrotii Corporation/Legends|Hyrotii Corporations]] first foray into the field of [[light freighter]] design, the Crescent-class was primarily designed to appeal to affluent young beings who desired to travel among the stars,<ref name="SS" /> and was marketed as a high-performance [[Courier/Legends|courier]] and fast delivery ship.<ref name="PP" />
+
+A sleek and streamlined design, the Crescent-class traded tonnage for speed, coming equipped stock with a class one [[hyperdrive]] and high-speed [[Ion engine/Legends|Ion drives]].<ref name="SS" /> As a result, however, the craft had only moderate shielding and sparse weaponry, having to rely primarily on its speed and maneuverability for defense.<ref name="PP" />
+
+The interior of the craft had all the features that people had come to expect from a Hyrotii luxury craft, with luxuriously appointed interiors, an impressive control panel array in the cockpit, the latest food-preparation technology in the galley, and the latest in holo-entertainment units in the lounge area.<ref name="SS" />
+
+Despite these desirable traits, the craft was somewhat difficult to upgrade; though, despite its limitations, there were workarounds to coax better performance out of the vessel.<ref name="SS" /> Most notably, the three person [[escape pod]] under the cockpit could be converted into an additional weapons housing, while the passenger cabins could be converted into space for extra shield generators, upgraded [[sensor]]s, or other electronic suites.<ref name="SS" /> Furthermore, the ship's [[Power coupling/Legends|power couplings]] ran through the ship's central passage, making it particularly easy to reroute the power systems; and sensor jamming packages, while typically power hungry and difficult to install on a [[light freighter]], were relatively easy to install on a Crescent-class.<ref name="SS" /> While it was difficult to pull more speed out of the ship, it wasn't impossible; and, on a whole, it wasn't difficult to turn a common Crescent-class into a [[smuggler]]'s dream.<ref name="SS" />
+
+As a result, many spacer's who made their living through con games or larceny found the ship to be an attractive vessel for its speed and opulence; the speed allowed the ship to make quick getaways, while the widespread and well known luxury status of the ship made customs officials and patrol vessel extremely unlikely to hassle the vessel, for fear of upsetting a [[Moff]] or dignitary.<ref name="SS" />
+
+==Appearances==
+*[[Allegiance (novel)|''Allegiance'']] {{Ab|Allegiance (audiobook)}} {{1st|in book}}
+
+==Sources==
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]'' {{1stm}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Crescent-Klasse Transporter
+|pl=Frachtowiec klasy Crescent
+}}
+
+[[Category:Freighter classes]]
+[[Category:Hyrotii Corporation products]]
+
+{{RelatedCategories
+|[[Category:Crescent-class transports]]
+}}

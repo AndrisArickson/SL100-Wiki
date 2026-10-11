@@ -1,0 +1,77 @@
+{{Top|leg|title=''Crescent''-class Transport Mark II}}
+{{StarshipClass
+|image=[[File:Crescent-class_transport.png]]
+|name=''Crescent''-class Transport Mark II
+|designer=
+|manufacturer=[[Hyrotii Corporation/Legends|Hyrotii Corporation]]<ref name="SS">''[[Stock Ships]]''</ref>
+|line=
+|model=[[Light freighter/Legends|Light freighter]]<ref name="SS" />
+|type=
+|cost=*200,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SS" />
+*125,000 {{C|used}}<ref name="SS" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="SS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="SS" />
+|maneuverability=
+|engine=
+|hyperdrive=None<ref name="SS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="SS" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="SS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=1 Light [[Laser cannon]]<ref name="SS" />
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="SS" />-2<ref name="SS" />
+|skeleton=
+|passengers=(Varied) Up to 8<ref name="SS" />
+|capacity=80 [[Metric ton/Legends|metric tons]]<ref name="SS" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="SS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Freighter/Legends|Freighter]]<ref name="SS" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Crescent''-class Mark II Transport''' or '''''Crescent''-class Mark II freighter''' was a fast luxury [[Courier/Legends|courier]] manufactured by [[Hyrotii Corporation/Legends|Hyrotii Corporation]].
+
+==Description==
+The ''Crescent''-class Mark II Transport was a variant of the [[Crescent-class Transport|''Crescent''-class Transport]] that did not come equipped with a [[Hyperdrive/Legends|hyperdrive]]. As a result, it had more room for cargo and a larger lounge area.<ref name="SS" />
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Crescent-Klasse Transporter
+|pl=Frachtowiec klasy Crescent
+}}
+
+[[Category:Freighter classes]]
+[[Category:Hyrotii Corporation products]]
+
+{{RelatedCategories
+|[[Category:Crescent-class transports]]
+}}
