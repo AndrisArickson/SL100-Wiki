@@ -1,0 +1,43 @@
+{{Top|leg}}
+{{Device
+|image=[[File:ProtonTorpedoComponents-EGWT.png]]
+|name=Homing sensor<br />{{C|A schematic of a proton torpedo showing the location of the homing sensor}}
+|manufacturer=
+|model=
+|type=[[Sensor/Legends|Sensor]]<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+'''Homing sensors''' were guidance systems used in projectiles such as [[Proton torpedo/Legends|proton torpedoes]] and [[Concussion missile/Legends|concussion missiles]]. Located at the tip of the [[Missile/Legends|missiles]], the homing sensor guiding the weapon to its target. Homing [[Sensor/Legends|sensors]] were effective against stationary and slow-moving targets, and normally had a margin of error of less that three [[Meter/Legends|meters]]. However, fast-moving [[Starship/Legends|vessels]] could outrun or outmaneuver the missile, making the homing sensors particularly good at targeting [[Capital ship/Legends|capital ships]] and bombing runs.<ref name="EGWT" />
+
+==Sources==
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Sensor types]]
+[[Category:Weapon components]]
