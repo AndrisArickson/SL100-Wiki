@@ -1,0 +1,60 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=
+|name=Mechanized Autominer Mk IV
+|designer=
+|manufacturer=[[Akin-Dower]]<ref name="J15">{{JournalCite|15|Tasariq: The Crystal Planet}}</ref>
+|line=
+|model=
+|type=[[MechMiner]]<ref name="J15" />
+|cost=*12,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="J15" />
+*3,000 credits (used)<ref name="J15" />
+|modifier=
+|sysmods=
+|length=3 [[Meter/Legends|meters]]<ref name="J15" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1<ref name="J15" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mechanized Autominer IV''' was a model of [[MechMiner]]. It was manufactured by [[Akin-Dower]].<ref name="J15" />
+
+==Sources==
+*<!-- 1997-11-XX -->{{JournalCite|15|Tasariq: The Crystal Planet}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Akin-Dower products]]
+[[Category:Crawler and wheeled vehicle models]]
+[[Category:Mining technology]]

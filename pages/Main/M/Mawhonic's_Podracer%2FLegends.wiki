@@ -1,0 +1,68 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Mawhonic's Podracer
+|designer=
+|manufacturer=[[Galactic Power Engineering/Legends|Galactic Power Engineering]]<ref name="Podracer">{{DB|vehicle|mawhonicspodracer|Podracer, Mawhonic's}}</ref>
+|line=
+|model=[[GPE-3130 Podracer/Legends|GPE-3130 Podracer]]<ref name="Podracer" />
+|type=[[Podracer/Legends|Podracer]]<ref name="Podracer" />
+|cost=
+|modifier=
+|sysmods=
+|length=*3.53 [[Meter/Legends|meters]] (cockpit)<ref name="Podracer" />
+*3.81 meters (engines)<ref name="Podracer" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Podracer (profession)/Legends|podracer pilot]]<ref name="Podracer" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Podracing/Legends|Podracing vehicle]]<ref name="Podracer" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Mawhonic's Podracer''' was a [[Galactic Power Engineering/Legends|Galactic Power Engineering]] [[GPE-3130 Podracer/Legends|GPE-3130]] [[Podracer/Legends|Podracer]] owned and operated by [[Mawhonic/Legends|Mawhonic]]. Parts for the vehicle were scrounged from [[Wald's Parts|Watto's junkshop]], including a pair of secondary thrusters affixed to the conical [[Engine/Legends|engines]].<ref name="Podracer" />
+
+{{Veh-stub}}
+
+==Appearances==
+*{{Film|I}} {{1st}}
+
+==Sources==
+*<!-- 2001-05-11 -->{{CCG|set=Tatooine Limited|cardname=Podracer Collision}} {{ID|RS 557 Podracer}}
+*<!-- 2011-09-13 -->{{DB|vehicle|mawhonicspodracer|Podracer, Mawhonic's}}
+*<!-- 2011-09-13 -->{{DB|character|mawhonic|Mawhonic}}
+{{MoreSources}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Personal podracers]]

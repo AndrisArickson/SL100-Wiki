@@ -1,0 +1,78 @@
+{{Top|leg|canon=MK I bulk transport}}
+{{StarshipClass
+|image=[[File:Markibt.jpg]]
+|name=Mark I Bulk Transport
+|designer=
+|manufacturer=[[Sienar Ships]]<ref name="CRO">''[[Cracken's Rebel Operatives]]''</ref>
+|line=
+|model=
+|type=[[Bulk transport/Legends|Bulk transport]]<ref name="CRO" />
+|cost=500,000 [[Galactic Credit Standard/Legends|credits]] (used)<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|modifier=
+|sysmods=
+|length=50 [[Meter/Legends|meters]]<ref name="CRO" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=750 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="PP" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 3.0]]<ref name="PP" />
+*[[Backup hyperdrive|Class 20]]<ref name="PP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="PP" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="PP" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=1 [[Laser cannon/Legends|laser cannon]]<ref name="PP" />
+|complement=
+|bays=
+|escapepods=
+|crew=4<ref name="PP" />
+|skeleton=
+|passengers=5<ref name="PP" />
+|capacity=60,000 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=5 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Mark I Bulk Transport''' was manufactured by [[Sienar Ships]].
+
+A common long-range bulk transport, the Mark I possessed two decks<ref name="CRO" /> and a dorsal [[Laser cannon/Legends|laser cannon turret]], though due to the ship's lack of shields it was often considered an easy target for [[Pirate/Legends|pirates]].<ref name="PP" />
+
+Common throughout the galaxy, though especially among civilized regions, the craft was sold second-hand at a high resale price.<ref name="FOP">''[[The Far Orbit Project]]''</ref>
+
+Able to be modified, the Mark I could be made battle worthy through reinforcement of the ship's already robust hull, with [[Deflector shield generator/Legends|shield generators]] and additional laser cannons having little impact on the ships overall performance.<ref name="CRO" />
+
+One such vessel was the heavily modified ''[[Cygnante]]'', used by [[The Shield]].<ref name="CRO" />
+
+==Sources==
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]'' {{1stm}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Bulk transport classes]]
+[[Category:Sienar Ships products]]
+
+{{RelatedCategories
+|[[Category:Mark I Bulk Transports]]
+}}
