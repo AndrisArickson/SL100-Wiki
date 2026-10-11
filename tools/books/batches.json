@@ -2,8 +2,7 @@
   "pilot_books": [
     "SW_Revised_Core_Rulebook_WTC17650",
     "SW_Arms_and_Equipment_Guide_WTC88664",
-    "SW_Heros_Guide_WTC17667__variant-with-WE-185pp",
-    "SW_Heros_Guide_WTC17667__variant-161pp"
+    "SW_Heros_Guide_WTC17667__variant-with-WE-185pp"
   ],
   "batches": {
     "1": {
@@ -54,7 +53,6 @@
     }
   },
   "variant_pairs": [
-    ["SW_Heros_Guide_WTC17667__variant-with-WE-185pp", "SW_Heros_Guide_WTC17667__variant-161pp"],
     ["SW_Ultimate_Alien_Anthology_WTC17751__variant-with-WE-229pp", "SW_Ultimate_Alien_Anthology_WTC17751__variant-225pp"],
     ["SW_New_Jedi_Order_Sourcebook_WTC88658__variant-182pp", "SW_New_Jedi_Order_Sourcebook_WTC88658__variant-162pp"],
     ["SW_Secrets_of_Tatooine_WTC11839", "SW_Secrets_of_Tatooine__variant-95pp"]
