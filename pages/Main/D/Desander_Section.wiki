@@ -1,0 +1,25 @@
+{{Top|leg}}
+<imagemap>
+File:Tazan_City.png|250px|thumb|right|A map of [[Tazan City]].
+
+rect 246 184 337 274 [[Lysander Section]]
+rect 243 105 305 183 [[Desander Section]]
+circle 200 74 52 [[Tazan starport]]
+rect 118 122 207 195 [[Central Business District]]
+poly 12 133 13 227 80 237 80 133 [[Fentella Section]]
+poly 63 235 64 299 134 299 135 218 79 218 80 237 [[Bellmont Section]]
+poly 136 220 137 297 289 298 289 275 246 276 180 220 [[Logan's Vale Section]]
+poly 73 69 73 130 82 130 82 215 182 217 244 269 243 179 209 175 209 197 116 197 115 71 [[Industrial Belt]]
+poly 241 173 242 105 230 117 220 121 210 124 209 173 [[Old Town (Tazan)]]
+poly 116 71 117 119 173 119 158 107 152 97 147 83 146 76 145 70 [[Startown]]
+
+desc bottom-left
+</imagemap>
+The '''Desander Section''' was a suburb of [[Tazan City]] on the [[Expansion Region/Legends|Expansion Region]] [[Planet/Legends|planet]] [[Tazan]]. It was located on the outskirts of the city, just outside of the [[Old Town]] and adjacent to the [[Lysander Section]]. It was a low-income residential area, but was reasonably respectable, located half a kilometer from the [[Tazan starport]]. Most houses in the section were built with stone, and it was [[Willer Clines' House|home]] to [[Willer Clines]], a [[Alliance to Restore the Republic/Legends|Rebel]] sympathizer.
+
+==Appearances==
+===Non-canon appearances===
+*<!-- 2001-10-16 -->{{Wizards|url=default.asp?x=rpga/articles/rx20010816s|text=Ultimate Core Dump|int=Ultimate Core Dump}} {{1st}} {{Un}}
+
+[[Category:Planetary regions and territories]]
+[[Category:Tazan locations]]

@@ -1,0 +1,76 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:BigSpaceLeech-HSCSSB.jpg]]
+|name=Dimel assault ship
+|designer=
+|manufacturer=[[Ulig Abaha Ltd.]]<ref name="HSatCSS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+|line=
+|model=
+|type=
+|cost=450,000 [[Galactic Credit Standard/Legends|credits]]<ref name="HSatCSS" />
+|modifier=
+|sysmods=
+|length=95 [[Meter/Legends|meters]]<ref name="HSatCSS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=750 [[Kilometer per hour/Legends|km/h]]<ref name="HSatCSS" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="HSatCSS" />
+*Backup Class 16<ref name="HSatCSS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="HSatCSS" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Double [[Laser cannon/Legends|laser cannons]] (10)<ref name="HSatCSS" />
+*[[Ion cannon/Legends|ion cannon]] (1)<ref name="HSatCSS" />
+*[[Tractor beam projector/Legends|Tractor beam projector]] (1)<ref name="HSatCSS" />
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=16<ref name="HSatCSS" />
+|passengers=
+|capacity=
+|cargohandling=600 tons<ref name="HSatCSS" />
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Warship
+|firstuse=
+|retired=
+|affiliation=[[Corporate Sector Authority/Legends|Corporate Sector Authority]]
+}}
+The [[Ulig Abaha Ltd.]] '''Dimel assault ship''' was a class of [[Warship/Legends|warship]] that was utilized by the [[Corporate Sector Authority/Legends|Corporate Sector Authority]]. One of these vessels, the ''[[Eye of Shiblizar]]'', was utilized by slavers [[Magg]] and [[Zlarb/Legends|Zlarb]] for their operations.
+
+==Behind the scenes==
+The only statistics available for the vessel come from a specific and possibly modified example. The stats on this page are thus ambiguous on finer details and performance.
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Assault ship classes]]
+[[Category:Starship classes of the Corporate Sector Authority]]
+[[Category:Ulig Abaha Ltd. products]]
+
+{{RelatedCategories
+|[[Category:Dimel assault ships]]
+}}

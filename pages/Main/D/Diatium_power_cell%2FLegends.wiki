@@ -1,0 +1,83 @@
+{{Top}}
+{{Device
+|image=[[File:Diatium_Power_Cell.jpg]]
+|name=Diatium power cell
+|manufacturer=Various<ref name="IJ" /><ref name="YJKLS" />
+|model=None<ref name="EV">''[[Endless Vigil]]''</ref>
+|type=*[[Lightsaber/Legends|Lightsaber]] component<ref name="EV" />
+*[[Power cell/Legends|Power pack]]<ref name="EV" />
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=Cylindrical
+|size=
+|material=[[Diatium/Legends|Diatium]] casing
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Standard power source<ref name="YJKLS" />
+|heritage=
+|affiliation=
+}}
+The '''Diatium power cell''', also known as the '''lightsaber energy core''', was the primary power source for a [[Lightsaber/Legends|lightsaber]] and one of the critical components of a [[Lightsaber hilt/Legends|lightsaber hilt]]. Located directly below and wired into the [[primary crystal mount]], to which was affixed the weapon's primary [[Lightsaber crystal/Legends|focusing crystal]], these types of [[Power cell/Legends|power cells]] were in turn wrapped within the [[power field conductor]], [[power vortex ring]] and an [[Inert power insulator/Legends|inert power insulator]]. The lightsaber's [[Pommel cap/Legends|pommel cap]] and its recharging port were attached directly to the diatum cell.
+
+==Description==
+[[Protosaber|Archaic lightsabers]] from before the [[Great Sith War/Legends|Great Sith War]] were powered by large, external power packs connected to the hilt via a long cord. This design presented several weaknesses: the power pack was heavy, the cord limited the saber's movement, the distance between the power supply and the saber weakened the blade's power, and the saber would immediately lose power if the cord was severed.<ref name="PotJ">''[[Power of the Jedi Sourcebook]]''</ref><ref name="JATM />
+
+Around the same time that [[Pulse-wave blaster|pulse-wave weapons]] were replaced by modern [[Blaster/Legends|blasters]], miniaturized power cells capable of powering the lightsaber were invented. This led to a design revolution where the power cell was integrated into the hilt of the lightsaber, eliminating the need for the external power pack. This new design soon became the standard for lightsabers, and the archaic design was almost entirely abandoned.<ref name="JATM>''[[Jedi Academy Training Manual]]''</ref>
+
+When a lightsaber was activated, energy flowed from the power cell into one to three [[Lightsaber crystal/Legends|lightsaber crystals]], which focused the energy into a tight beam. The beam emitted from a positively charged continuous energy lens at the center of the handle, which arced back to a negatively charged high energy flux aperture, usually set in a disk that also served as a handguard. Finally, a superconductor transferred the energy back to the power cell. Almost no energy was lost in the process, and the saber lost power only when it cut through something - but not when contacting another saber blade. Because of this, a lightsaber could be used for years before recharging was required.<ref name="TSWSB>''[[The Star Wars Sourcebook]]''</ref>
+
+The power cell itself was a common component, the same type used to power blasters and [[Glow panel/Legends|glow panels]].<ref name="YJKLS">''[[Young Jedi Knights: Lightsabers]]''</ref> The specific type of the power cell did not matter as long as it produced enough energy to energize the blade.<ref name="IJ" /> The cell could be removed and used to power other devices.<ref name="SP">[[Shatterpoint (novel)|''Shatterpoint'']]</ref><ref name="CWGS">''[[Clone Wars Gambit: Siege]]''</ref> When constructing a lightsaber, charging the power cell for the first time required the constructor to open themselves up to [[The Force/Legends|the Force]] and carefully manipulate the lightsaber so that the power cell was properly integrated with the other components.<ref name="IJ">''[[I, Jedi]]''</ref>
+
+If modified correctly, power cells could be overcharged to enhance the power of the blade. A hazardous and dangerous undertaking, modifying a diatium power cell risked unbalancing a near-perfect system. Unpredictable when overcharged, the lightsaber blade produced was prone to fluctuations in strength.<ref name="EV" />
+
+==Appearances==
+{{MoreSources}}
+*''[[Star Wars: Knights of the Old Republic II: The Sith Lords]]''
+*''[[Cloak of Deception]]'' {{Mo}}
+*[[Shatterpoint (novel)|''Shatterpoint'']] {{Ab|Shatterpoint (unabridged audiobook)}}
+*''[[Clone Wars Gambit: Siege]]'' {{Ab|Clone Wars Gambit: Siege (audiobook)}}
+*''[[Dark Lord: The Rise of Darth Vader]]'' {{Ab|Dark Lord: The Rise of Darth Vader (unabridged audiobook)}}
+*''[[I, Jedi]]''
+*''[[Young Jedi Knights: Lightsabers]]''
+
+==Sources==
+*<!-- 1987-11 -->''[[The Star Wars Sourcebook]]'' {{1stm}} {{C|as power cell}}
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]'' {{1st}} {{1stID|Diatium power cell}}
+*<!-- 1999-04-25 -->[[Star Wars: I Am a Jedi (Random House)|''Star Wars: I Am a Jedi'']]
+*<!-- 2002-08 -->''[[Power of the Jedi Sourcebook]]''
+*<!-- 2004-10-26 -->''[[The New Essential Guide to Weapons and Technology]]''
+*<!-- 2004-12-21 -->[[Star Wars: Knights of the Old Republic II: The Sith Lords: Prima Official Game Guide|''Star Wars: Knights of the Old Republic II: The Sith Lords'': Prima Official Game Guide]] {{C|as Diatium energy cell}}
+*<!-- 2006-09-25 -->''[[Star Wars: The Complete Visual Dictionary]]''
+*<!-- 2007-11-27 -->[[Jedi vs. Sith: The Essential Guide to the Force (real-life book)|''Jedi vs. Sith: The Essential Guide to the Force'']]
+*<!-- 2009-05-19 -->''[[Jedi Academy Training Manual]]''
+*<!-- 2010-09-28 -->[[The Jedi Path: A Manual for Students of the Force (real-life book)|''The Jedi Path: A Manual for Students of the Force'']] {{C|as Power Cell}}
+*<!-- 2015-07-30 -->''[[Star Wars: Force and Destiny Core Rulebook]]'' {{C|as ''diatium power generator''}}
+*<!-- 2016-10-31 -->''[[Endless Vigil]]'' {{C|as ''Overcharged Power Cell''}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Legends Lightsaber Navbox}}
+
+{{Interlang
+|es=Célula de energía de diatio/Leyendas
+|fr=Diatium/Légendes
+}}
+
+[[Category:Energy cells and power cells]]
+[[Category:Lightsaber components]]
