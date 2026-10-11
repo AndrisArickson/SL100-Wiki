@@ -92,7 +92,7 @@ def layout(title, body, q="", tabs="", extra_head=""):
 <div class="wrap"><nav>
 <h4>Navigate</h4><a href="/">Main page</a><a href="/special/recent">Local edits</a><a href="/random">Random page</a>
 <a href="/special/allpages">All pages</a><a href="/special/images">Image list</a><a href="/special/status">Harvest status</a>
-<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/edit/SL100:New_page">Create game page</a>
+<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Character_creation">Character creation</a><a href="/books">Source books (d20)</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
 <h4>Reference</h4><a href="/category/Weapons">Weapons</a><a href="/category/Armor">Armor</a><a href="/category/Starships">Starships</a>
 <a href="/category/Vehicles">Vehicles</a><a href="/category/Droids">Droids</a><a href="/category/Planets">Planets</a>
 </nav><main><div class="tabs">%s</div><h1>%s</h1>%s</main></div></body></html>""" % (
@@ -160,6 +160,8 @@ class H(BaseHTTPRequestHandler):
             if path == "/random":
                 r = con.execute("SELECT title FROM pages WHERE status='ok' AND ns=0 ORDER BY RANDOM() LIMIT 1").fetchone()
                 return self.redirect(wiki_href(r[0]) if r else "/")
+            if path == "/books" or path.startswith("/books/"):
+                return self.books(path[7:].strip("/"), qs)
             if path.startswith("/special/"):
                 return self.special(con, path[9:], qs)
             if path.startswith("/img/"):
@@ -314,6 +316,50 @@ class H(BaseHTTPRequestHandler):
                 "<p>Harvested pages are Wookieepedia (Legends) text, CC BY-SA 3.0. Use the <code>SL100:</code> prefix for game rules, "
                 "stats, costs and availability.</p>" % n)
         self.send(layout("Star Legends Wiki", body, tabs=self.tabs(HOME_TITLE, False)))
+
+    # ---- private d20 source-book browser (reads ../Source_Text; local only, never part of the wiki or git)
+    def books(self, slug, qs):
+        base = ROOT.parent / "Source_Text"
+        q = (qs.get("q", [""])[0] or "").strip()
+        books = sorted(d for d in base.glob("SW_*") if (d / "pages").is_dir())
+        if not slug:
+            hits = ""
+            if q:
+                rx = re.compile(re.escape(q), re.I)
+                found = []
+                for d in books:
+                    for f in sorted((d / "pages").glob("*.txt")):
+                        t = f.read_text(encoding="utf-8", errors="replace")
+                        m = rx.search(t)
+                        if m:
+                            found.append((d.name, int(f.stem), t[max(0, m.start() - 80):m.end() + 80]))
+                            if len(found) >= 200:
+                                break
+                    if len(found) >= 200:
+                        break
+                hits = "<h3>%d hits for <i>%s</i>%s</h3><ul>%s</ul>" % (len(found), esc(q), " (first 200)" if len(found) >= 200 else "", "".join(
+                    '<li><a href="/books/%s?p=%d&q=%s">%s p.%d</a>: <small>%s</small></li>' % (b, n, urllib.parse.quote(q), esc(b[3:].replace("_", " ")), n,
+                                                                                     esc(" ".join(c.split()))) for b, n, c in found))
+            rows = "".join('<tr><td><a href="/books/%s">%s</a></td><td>%d</td></tr>' % (d.name, esc(d.name[3:].replace("_", " ")), len(list((d / "pages").glob("*.txt"))))
+                           for d in books)
+            body = ('<p class="note">Private reading copies of the d20 source books, extracted to <code>Source_Text/</code>. '
+                    'They are copyrighted: this page is served only on your computer and is never written into the wiki or pushed to GitHub.</p>'
+                    '<form action="/books"><input name="q" value="%s" placeholder="Search all books" size="40"><button>Search</button></form>%s'
+                    '<table class="wikitable"><tr><th>Book</th><th>Pages</th></tr>%s</table>' % (esc(q), hits, rows))
+            return self.send(layout("Source books (d20)", body))
+        d = base / slug.replace("/", "").replace("..", "")
+        pages = sorted((d / "pages").glob("*.txt")) if (d / "pages").is_dir() else []
+        if not pages:
+            return self.send(layout("Not found", "<p>No such book.</p>"), 404)
+        n = max(1, min(len(pages), int((qs.get("p", ["1"])[0] or "1")))) if (qs.get("p", ["1"])[0] or "1").isdigit() else 1
+        t = pages[n - 1].read_text(encoding="utf-8", errors="replace")
+        h = esc(t)
+        if q:
+            h = re.sub("(%s)" % re.escape(esc(q)), r"<mark>\1</mark>", h, flags=re.I)
+        nav = ('<p><a href="/books">All books</a> | <a href="/books/%s?p=%d&q=%s">&laquo; previous</a> | page %d of %d | '
+               '<a href="/books/%s?p=%d&q=%s">next &raquo;</a> | <form style="display:inline" action="/books/%s"><input name="p" size="4" value="%d"><button>Go</button></form></p>'
+               % (slug, max(1, n - 1), urllib.parse.quote(q), n, len(pages), slug, min(len(pages), n + 1), urllib.parse.quote(q), slug, n))
+        self.send(layout(esc(slug[3:].replace("_", " ")), nav + "<pre class='booktext'>%s</pre>" % h + nav))
 
     def file_page(self, con, name):
         name = norm_title(name)

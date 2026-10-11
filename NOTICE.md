@@ -20,3 +20,8 @@ Star Wars and related names are trademarks of Lucasfilm Ltd. This is an unoffici
 ## Source books
 Text extracted from the Star Wars d20 books in `Source_Books/` is copyrighted. Keep any extracts in `private/`
 (git-ignored) and publish only your own rewritten/converted game statistics.
+
+## Images
+Images in `images/full/` are either taken from Wookieepedia under CC BY-SA 3.0 or made by the SL100 group. Each
+Wookieepedia image is listed with its source page in `meta/card_images.tsv` (front-page cards) or `meta/images.tsv`;
+its file page on Wookieepedia names the original author and licence. Blank placeholders in `images/placeholders/` are generated.

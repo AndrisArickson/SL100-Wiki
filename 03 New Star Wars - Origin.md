@@ -26,7 +26,7 @@ World format: Description, starting characteristic modifications, 12 skills that
 
 Highly urbanized planets with massive, sprawling cities that cover most of the surface. These worlds are densely populated and often have a high level of industrialization. Examples include Coruscant.
 
-**Starting Characteristics:** You gain an additional +5 Agility and +5 to either Ballistic Skill, Intuition, or Fellowship.
+**Starting Characteristics:** You gain an additional +5 Agility and +5 to either Ballistic Skill, Initiative, or Fellowship.
 
 **Starting Skills:** Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth(Urban)
 
@@ -34,7 +34,7 @@ Highly urbanized planets with massive, sprawling cities that cover most of the s
 
 These are worlds with advanced technology and a high level of development, similar to modern Earth. They are often the centers of commerce and culture in their regions. Examples include Karnak Alpha, Ord Sabaok.
 
-**Starting Characteristics:** You gain an additional  +5 Intelligence and +5 to either Willpower, Intuition or Fellowship
+**Starting Characteristics:** You gain an additional  +5 Intelligence and +5 to either Willpower, Initiative or Fellowship
 
 **Starting Skills:** Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth(Urban)
 
@@ -58,7 +58,7 @@ These are planets with a social structure based on feudalism, with a ruling clas
 
 These are planets with a low level of civilization and technology, often inhabited by primitive tribes or species. Examples include Dagobah, Bespin, Kashyyyk, Endor.
 
-**Starting Characteristics:** You gain an additional  +5 Toughness and +5 to either Weapon Skill, Strength, or Intuition.
+**Starting Characteristics:** You gain an additional  +5 Toughness and +5 to either Weapon Skill, Strength, or Initiative.
 
 **Starting Skills:** Athletics, Charm Creature, Climb, Dodge, Melee (1H/2H), Pilot (Speeder), Navigation, Outdoor Survival, Perception, Ride(Air/Land/Water), Swim, Track
 
@@ -74,7 +74,7 @@ These are planets with a high level of industrial activity or even dedicated to 
 
 These are worlds with a strong connection to the Force, known as Force Nexus. They may also have a religious or spiritual significance, often home to important temples or holy sites. Some are dedicated to the worship of a particular deity or religion. Examples include Jedha and Tython, Ossus.
 
-**Starting Characteristics:** You gain an additional  +5 Willpower and +5 to either Intelligence, Intuition, or Fellowship.
+**Starting Characteristics:** You gain an additional  +5 Willpower and +5 to either Intelligence, Initiative, or Fellowship.
 
 **Starting Skills:** Athletics, Charm Creature, Cool, Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride(Air/Land/Water), Stealth(Wilderness)
 
@@ -82,7 +82,7 @@ These are worlds with a strong connection to the Force, known as Force Nexus. Th
 
 These are planets or animals that are extremely hostile to life, due to factors such as extreme weather, dangerous wildlife, or toxic environments. Examples include Hoth, Tatooine, Felucia, Ungor.
 
-**Starting Characteristics:** You gain an additional  +5 Ballistic Skill and +5 to either Weapon Skill, Intuition or Toughness
+**Starting Characteristics:** You gain an additional  +5 Ballistic Skill and +5 to either Weapon Skill, Initiative or Toughness
 
 **Starting Skills:** Athletics, Charm Creature, Climb, Dodge, Melee (1H/2H), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster/Heavy), Ride(Air/Land/Water), Swim
 
@@ -98,7 +98,7 @@ These are planets that are primarily used for agriculture, with large areas dedi
 
 These are planets that are almost entirely covered by water, with very little or no land. Examples include Kamino and Mon Cala.
 
-**Starting Characteristics:** You gain an additional  +5 Toughness and +5 to either Agility, Intuition or Fellowship
+**Starting Characteristics:** You gain an additional  +5 Toughness and +5 to either Agility, Initiative or Fellowship
 
 **Starting Skills:** Athletics, Charm Creature, Cool, Dodge, Endurance, Melee (1H/2H), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic), Ride(Air/Land/Water), Swim
 
@@ -106,7 +106,7 @@ These are planets that are almost entirely covered by water, with very little or
 
 These are planets that are almost entirely covered by ice and snow. Examples include Hoth.
 
-**Starting Characteristics:** You gain an additional +5 Toughness and +5 to either Agility, Intuition or Strength
+**Starting Characteristics:** You gain an additional +5 Toughness and +5 to either Agility, Initiative or Strength
 
 **Starting Skills:** Athletics, Charm Creature, Cool, Dodge, Endurance, Intimidate, Intuition, Pilot (Speeder), Navigation, Outdoor Survival, Ride(Air/Land/Water), Stealth(Wilderness)
 
@@ -114,7 +114,7 @@ These are planets that are almost entirely covered by ice and snow. Examples inc
 
 These are planets that are almost entirely covered by lava and volcanic activity. Examples include Mustafar.
 
-**Starting Characteristics:** You gain an additional +5 Toughness and +5 to either Agility, Intuition or Strength
+**Starting Characteristics:** You gain an additional +5 Toughness and +5 to either Agility, Initiative or Strength
 
 **Starting Skills:** Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Blaster)
 

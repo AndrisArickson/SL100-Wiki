@@ -31,3 +31,14 @@ textarea{width:100%;min-height:62vh;font:14px/1.45 ui-monospace,Menlo,Consolas,m
 .preview{border:2px dashed var(--accent);padding:6px 18px 18px;margin-bottom:14px}ul.cols{columns:3 240px}
 @media(max-width:800px){.wrap{flex-direction:column}nav{width:auto}.infobox{float:none;width:100%;margin:0 0 12px}}
 span.unlinked{color:inherit;cursor:default}
+/* front-page cards: {{SL100 Card|link=|title=|image=|text=}} inside <div class="sl-cards"> */
+.sl-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;margin:8px 0 22px}
+.sl-card{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card);display:flex;flex-direction:column}
+.sl-card-img{display:block;height:130px;background:#000}
+.sl-card-img img{width:100%;height:130px;object-fit:cover;display:block}
+.sl-card-body{padding:10px 12px}
+.sl-card-title{font-weight:700;font-size:1.05em;text-decoration:none}
+.sl-card-text{color:var(--muted);font-size:.92em;margin-top:4px}
+.sl-card-new .sl-card-title{color:var(--new)}
+.sl-cards.small .sl-card-img,.sl-cards.small .sl-card-img img{height:90px}
+pre.booktext{white-space:pre-wrap;font-size:.9em;background:var(--card);border:1px solid var(--line);padding:12px}

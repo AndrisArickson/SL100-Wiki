@@ -12,8 +12,8 @@ SL100-Wiki/
   pages/             wikitext, one file per page   Main/<letter>/Title.wiki, Template/, Module/, SL100/
   meta/pages.tsv     index of every page: title, page id, revision, timestamp (attribution record) - committed
   meta/images.tsv    every image referenced, with original size and the placeholder to generate - committed
-  images/placeholders/   generated blank .webp files (git-ignored, regenerable)
-  images/full/       (optional) drop real images here later; the server prefers them over placeholders
+  images/placeholders/   generated blank .webp files (regenerable)
+  images/full/       real images (Wookieepedia CC BY-SA or our own art); the server prefers them over placeholders - pushed
   data/              local database, logs, edit history (git-ignored)
   tools/             crawl.py  serve.py  wikitext.py  placeholders.py  push.sh
   NOTICE.md          CC BY-SA 3.0 attribution + licensing notes
@@ -55,7 +55,7 @@ will use it instead.
 Browse to any page and press **Edit**. Saves go straight to the `.wiki` file (old versions are kept in `data/history/`).
 Use the `SL100:` prefix for our own pages (e.g. `SL100:Weapons/Blaster pistol`) and put game statistics in an
 infobox-style template, for example `{{SL100 Weapon|name=...|damage=...|price=...|availability=...}}` - see
-`SL100:Example Weapon`. Link each game page to its Legends source article. The renderer shows any template with three or
+`SL100:Example Weapon`. The front page cards and `SL100:Talents` are generated from the rules markdown by `python3 tools/talents_page.py`. Link each game page to its Legends source article. The renderer shows any template with three or
 more named parameters as an infobox, so new stat templates need no extra code.
 
 ## Pushing to GitHub
@@ -64,7 +64,7 @@ more named parameters as an infobox, so new stat templates need no extra code.
 ```
 Target: https://github.com/AndrisArickson/SL100-Wiki (create the empty repo first; authenticate with your usual
 git credentials, or `REMOTE=git@github.com:AndrisArickson/SL100-Wiki.git ./wiki.sh push` for SSH). Re-running continues where it
-stopped. `data/`, `images/placeholders/` and `private/` are never pushed. On a fresh clone run `./wiki.sh rebuild`
+stopped. `data/`, `private/` and the d20/WFRP text (kept outside the repo in `../Source_Text`, `../WFRP_Text`) are never pushed. All images are pushed: only CC BY-SA (Wookieepedia, see `NOTICE.md`) or our own artwork may go in `images/`. On a fresh clone run `./wiki.sh rebuild`
 to recreate the local database from `meta/pages.tsv`.
 A full harvest is on the order of 1 GB across ~120,000 files; GitHub accepts this but the first push will be slow.
 

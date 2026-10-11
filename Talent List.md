@@ -294,7 +294,7 @@ Force Attunement — No Miscast on doubles with successful Channel Tests.
 
 FORCE ABILITIES (DISCIPLINES)
 
-- Force Ability - Sense (max: Intuition Bonus) — Perceiving the Force: Danger Sense, Life Detection, Sense Force.
+- Force Ability - Sense (max: Initiative Bonus) — Perceiving the Force: Danger Sense, Life Detection, Sense Force.
 
 - Force Ability - Control (max: Willpower Bonus) — Mastery of self: Force Speed, Reduce Injury, Concentration, Absorb Energy, Protection from Cold.
 

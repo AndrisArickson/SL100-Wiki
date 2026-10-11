@@ -235,6 +235,8 @@ class Renderer:
             q = self.inline(pos[0]) if pos else self.inline(dict(named).get("quote", ""))
             src = self.inline(pos[1]) if len(pos) > 1 else ""
             return '<blockquote class="tquote">%s%s</blockquote>' % (q, ("<cite>— %s</cite>" % src) if src else "")
+        if lname == "sl100 card":
+            return self.card(dict(named), pos)
         filled = [(k, v) for k, v in named if v.strip()]
         if len(filled) >= 3:
             return self.infobox(name, filled)
@@ -243,6 +245,23 @@ class Renderer:
         if not bits:
             return ""
         return '<span class="tpl" title="{{%s}}">%s</span>' % (_html.escape(name), " · ".join(bits))
+
+    def card(self, a, pos):
+        """{{SL100 Card|link=Page|title=Shown title|image=File name|text=One line}} - a front-page card with a picture."""
+        link = re.sub(r"\s+", " ", (a.get("link") or (pos[0] if pos else "")).replace("_", " ")).strip()
+        title = a.get("title") or link.split(":", 1)[-1]
+        exists = self.exists(link) if link else False
+        href = wiki_href(link) if link else "#"
+        img = ""
+        name = (a.get("image") or "").strip()
+        if name:
+            name = self._norm_img(name)
+            self.images.append(name)
+            src, _w, _h = self.img_info(name)
+            img = ('<a class="sl-card-img" href="%s"><img src="%s" alt="" loading="lazy" title="Image: Wookieepedia, CC BY-SA 3.0 (File:%s)"></a>'
+                   % (href, src, _html.escape(name, quote=True)))
+        return ('<div class="sl-card%s">%s<div class="sl-card-body"><a class="sl-card-title" href="%s">%s</a><div class="sl-card-text">%s</div></div></div>'
+                % ("" if exists else " sl-card-new", img, href, self.fmt(title), self.inline(a.get("text", ""))))
 
     def infobox(self, name, rows):
         title = ""

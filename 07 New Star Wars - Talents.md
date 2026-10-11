@@ -1037,7 +1037,7 @@ Mastery of the self — the inner Force within one's own body and mind
 
 ### **Force Ability - Sense**
 
-**Max**: Intuition Bonus **Tests**: Force Sense
+**Max**: Initiative Bonus **Tests**: Force Sense
 
 Perceiving the Force around you; feeling others' emotions, danger, and the living world.
 

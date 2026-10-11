@@ -3,10 +3,8 @@ data/
 __pycache__/
 *.pyc
 *.tmp
-# Images: commit only the blank WebP placeholders (images/placeholders/).
-# Real image files (images/full/) stay out until they are copyright-compliant replacements.
-images/*
-!images/placeholders/
+# Images: all images are committed. Only Creative Commons images (Wookieepedia, CC BY-SA 3.0, attribution in
+# meta/card_images.tsv / meta/images.tsv) or our own artwork may be placed in images/.
 # Copyrighted source-book extracts must never be pushed
 private/
 Source_Text/

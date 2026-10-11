@@ -28,6 +28,10 @@ case "${1:-help}" in
   export)     "$PY" tools/crawl.py export ;;
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
+  collate)    # re-run the collation reports (lookups and comparisons only; see docs/collation/README.md)
+    "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
+      && "$PY" tools/collate/vocab.py && "$PY" tools/collate/ships_compare.py \
+      && "$PY" tools/collate/careers_compare.py && "$PY" tools/collate/assembly.py && "$PY" tools/collate/wiki_pages.py ;;
   books)      # d20 source-book extraction / OCR (output: ../Source_Text, outside git)
     shift; sub="${1:-help}"; TXT="../Source_Text"; mkdir -p "$TXT/logs"
     case "$sub" in
@@ -54,6 +58,7 @@ Usage: ./wiki.sh <command>
   export     refresh meta/pages.tsv and meta/images.tsv
   rebuild    rebuild the local database from meta/pages.tsv (after cloning the repo)
   books pilot | run --batch N | status | qa | stop | log | compare A B   d20 book extraction/OCR (see docs/)
+  collate    re-run the collation reports (d20-to-wiki match, Legends check, talent/skill lists, vocabulary, ship comparison)
   push       commit new/changed files in chunks and push to GitHub
 EOF
   ;;

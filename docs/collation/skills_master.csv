@@ -1,0 +1,40 @@
+name,characteristic,type,grouped,line,heading_as_written
+Art,Dex,basic,yes,41,"Art (Dex) basic, grouped"
+Athletics,Ag,basic,,45,Athletics (Ag) basic
+Bribery,Fel,basic,,49,Bribery (Fel) basic
+Begging,,,,61,Begging
+Charm,Fel,basic,,65,Charm (Fel) basic
+Climb,S,basic,,79,Climb (S) basic
+Codes,Int,advanced,yes,87,"Codes (Int) advanced, grouped"
+Consume Intoxicant,T,basic,,93,Consume Intoxicant (T) basic
+Cool,WP,basic,,113,Cool (WP) basic
+Creature Training,Int,advanced,yes,127,"Creature Training (Int) advanced, grouped"
+Dodge,Ag,basic,,131,Dodge (Ag) basic
+Entertain,Fel,basic,yes,137,"Entertain (Fel) basic, grouped"
+Evaluate,Int,advanced,,143,Evaluate (Int) advanced
+Demolitions,Dex,advanced,,147,Demolitions (Dex) advanced
+Endurance,T,basic,,155,Endurance (T) basic
+Gamble,Int,basic,,159,Gamble (Int) basic
+Gossip,Fel,basic,,165,Gossip (Fel) basic
+Haggle,Fel,basic,,171,Haggle (Fel) basic
+Intuition,I,basic,,183,Intuition (I) basic
+Language,Int,advanced,yes,187,"Language (Int) advanced, grouped"
+Leadership,Fel,basic,,197,Leadership (Fel) basic
+Lore,Int,advanced,yes,205,"Lore (Int) advanced, grouped"
+Medicine,Int,advanced,,211,Medicine (Int) advanced
+Melee,WS,basic,yes,225,"Melee (WS) basic, grouped"
+Navigation,I,basic,,229,Navigation (I) basic
+Outdoor Survival,Int,basic,,233,Outdoor Survival (Int) basic
+Perform,Ag,advanced,yes,243,"Perform (Ag) advanced, grouped"
+Slice Security System,Dex,advanced,,247,Slice Security System (Dex) advanced
+Pilot,Speeder,,,271,Pilot (Speeder) (Ag) basic
+Pilot,Starship,,,293,Pilot (Starship) (Ag) basic
+Pilot (Capital Ship),Ag,advanced,yes,297,"Pilot (Capital Ship) (Ag) advanced, grouped"
+Play,Dex,advanced,yes,301,"Play (Dex) advanced, grouped"
+Profession,Dex,advanced,yes,307,"Profession (Dex) advanced, grouped"
+Ranged,BS,advanced,yes,317,"Ranged (BS) advanced, grouped"
+Research,Int,advanced,,321,Research (Int) advanced
+Sleight of Hand,Dex,advanced,,341,Sleight of Hand (Dex) advanced
+Stealth,Ag,basic,yes,345,"Stealth (Ag) basic, grouped"
+Swim,S,advanced,,355,Swim (S) advanced
+Track,I,advanced,,359,Track (I) advanced
