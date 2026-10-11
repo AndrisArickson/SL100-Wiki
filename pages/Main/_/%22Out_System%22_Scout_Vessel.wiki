@@ -1,0 +1,80 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name="Out System" Scout Vessel
+|designer=
+|manufacturer=[[Loronar Corporation/Legends|Loronar Corporation]]<ref name="EJ">{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}</ref>
+|line=
+|model=
+|type=[[Scout ship/Legends|Scout vessel]]<ref name="EJ" />
+|cost=
+|modifier=
+|sysmods=
+|length=63 [[Meter/Legends|meters]]<ref name="EJ" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="EJ" />
+*Class 8 {{C|[[Backup hyperdrive|backup]]}}<ref name="EJ" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="EJ" />
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] [[Turret/Legends|turret]] (1)<ref name="EJ" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Crew (5)<ref name="EJ" />
+**Crew (4)<ref name="EJ" />
+**[[Gunner/Legends|Gunners]] (1)<ref name="EJ" />
+|skeleton=
+|passengers=4<ref name="EJ" />
+|capacity=70 [[Metric ton/Legends|metric tons]]<ref name="EJ" />
+|cargohandling=
+|consumables=8 [[Standard month/Legends|months]]<ref name="EJ" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Light scout ship<ref name="EJ" />
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="EJ" />
+*[[New Republic/Legends|New Republic]]<ref name="EJ" />
+}}
+The '''"Out System" Scout Vessel''' was deployed by the [[Galactic Empire/Legends|Galactic Empire]] to be used for finding new [[Planet/Legends|planets]] (it was famously used during the search for a suitable planet with which the Empire could replace its operations on [[Demophon]]), although it was originally designed by the [[Loronar Corporation/Legends|Loronar Corporation]] to serve as a [[Scout ship/Legends|scout ship]]. One "Out System" Scout Vessel was captured by the [[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] in the [[Stribos system/Legends|Stribos system]], by neutralizing it before it could jump to [[Hyperspace/Legends|hyperspace]].<ref name="EJ" />
+
+{{Ship-stub}}
+
+==Appearances==
+{{Indexpage}}
+*{{WEGCite|story=The Evacuation of Jatee|book=Supernova (sourcebook)}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Nave de exploración "Fuera del Sistema"
+}}
+
+{{DEFAULTSORT:Out System Scout Vessel}}
+[[Category:Loronar Corporation products]]
+[[Category:Scout starship classes]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:Out System Scout Vessels]]
+}}

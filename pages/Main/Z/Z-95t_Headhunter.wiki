@@ -1,0 +1,82 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Z95t.jpg]]
+|name=Z-95t Headhunter
+|designer=
+|manufacturer=
+|line=[[Z-95 Headhunter/Legends|Z-95 Headhunter]]
+|model=Z-95t
+|type=[[Starfighter/Legends|Starfighter]]
+|cost=
+|modifier=[[Adar Tallon/Legends|Adar Tallon]]
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=Class 3
+|hdrange=
+|hdsystem=Equipped
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Linked [[Triple blaster/Legends|triple blasters]] (2)
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+}}
+The '''Z-95t Headhunter''' was a variant of the [[Z-95 Headhunter/Legends|Z-95 Headhunter]] designed by [[Adar Tallon/Legends|Adar Tallon]]. Unlike the standard headhunter, it was equipped with a class 3 [[Hyperdrive/Legends|hyperdrive]] and lacked concussion missile launchers.
+
+A unit of Z-95t Headhunters was operationally assigned to provide close air support to [[General/Legends|General]] [[Crix Madine/Legends|Crix Madine's]] [[Commando/Legends|commandos]]. At least one of the ships was also equipped with an advanced [[Sensor/Legends|sensor]] suite to monitor [[Galactic Empire/Legends|Imperial]] activity during commando actions.
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[Tatooine Manhunt]]'' {{Reprint|Tatooine Manhunt}} {{1st}}
+
+==Sources==
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Close Air Support}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Tala 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Tala 2}}
+}}
+*<!-- 2011-09-13 -->{{DB|starship|z95headhunter|Z-95 Headhunter}} {{1stID|Z-95t Headhunter}}
+<!-- 2014-06-26 -->{{CardGameSet|set={{FFGXW|set=Z-95 Headhunter Expansion Pack}}|cards=
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Airen Cracken}}
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Lieutenant Blount}}
+}}
+
+{{HeadhunterVariantsNav}}
+
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Z-95 Headhunter models|t Headhunter]]
+
+{{RelatedCategories
+|[[Category:Z-95t Headhunters]]
+}}

@@ -1,0 +1,77 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:AtronsMistress-Journal8.png]]
+|name=Zuraco Cargo Hauler
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Medium freighter]]<ref name="P&P">''[[Pirates & Privateers]]''</ref>
+|cost=55,000 [[Galactic Credit Standard/Legends|credits]]<ref name="P&P" />
+|modifier=
+|sysmods=
+|length=87.3 [[Meter/Legends|meters]]<ref name="P&P" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 [[Kilometer per hour/Legends|kmh]]<ref name="P&P" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0 {{C|primary}}<ref name="P&P" />
+*Class 12.0 {{C|backup}}<ref name="P&P" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=Equipped<ref name="P&P" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=4<ref name="P&P" />
+|skeleton=
+|passengers=6<ref name="P&P" />
+|capacity=200 [[Metric ton/Legends|metric tons]]<ref name="P&P" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="P&P" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''Zuraco Cargo Hauler''' was a medium transport built by [[Zuraco]].
+
+==Characteristics==
+A lesser known medium freighter, the Zuraco relied on its tough hull and superior sensor package to protect it from threats. New Zuraco's were not equipped with any armament.
+
+==Known Ships==
+*''[[Atron's Mistress]]''
+
+==Appearances==
+*{{JournalCite|8|Blaze of Glory (short story)|reprint=1}} {{1st}}
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Transport classes]]
+[[Category:Zuraco products]]
+
+{{RelatedCategories
+|[[Category:Zuraco Cargo Haulers]]
+}}

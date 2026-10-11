@@ -1,0 +1,443 @@
+{{Top|fga}}
+{{Otheruses|Headhunter}}
+{{StarshipClass
+|image=[[File:Z95headhunter_negvv.png]]
+|name=Z-95 Headhunter
+|designer=
+|manufacturer=*[[Incom Corporation/Legends|Incom Corporation]]<ref name="RAS">''[[The Rebel Alliance Sourcebook]]''</ref>
+*[[Sublight Products Corporation|Subpro Corporation]]<ref name="RAS" />
+|line=
+|model=Z-95 Headhunter<ref name="RAS" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="RAS" />
+|cost=*80,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SotGSE">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*45,000 credits {{C|used}}<ref name="RAS" />
+|modifier=
+|sysmods=
+|length=11.8 [[Meter/Legends|meters]]<ref name="FF">[[The Official Star Wars Fact File 136|''The Official Star Wars Fact File'' 136]]</ref>
+|width=
+|height=
+|mass=
+|max accel=*2,780 G<ref name="NEGVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+*16 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=100 MGLT<ref name="XWA" />
+|max speed=1,150 [[Kilometer per hour/Legends|km/h]]<ref name="RAS" />
+|maneuverability=86 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=[[Incom Corporation/Legends|Incom]] [[2a fission engine/Legends|2a fission engines]] (4)<ref name="FF" />
+|hyperdrive=
+|hdrange=
+|hdsystem=None standard; later fighters included a [[Gbk-435 hyperdrive motivator]]<ref name="OS">{{DB|starship|z95headhunter|Z-95 Headhunter}}</ref>
+|poweroutput=
+|power=
+|shield gen=[[Forward/Rear Projecting XoLyyn Shields]]<ref name="OS" /> {{C|rated 20 [[SBD/Legends|SBD]]}}<ref name="XWA" />
+|hull=Rated 14 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=[[ANS-5c sensor unit/Legends|ANS-5c sensor unit]]
+|target=*[[ANq 2.4 tracking computer]]<ref name="OS" />
+*[[SI 5g8 "Quickscan" vector imaging system|SI 5g8 "Quickscan" imaging system]]<ref name="OS" />
+|navigation=[[Zr-390 navicomputer system]]<ref name="OS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Variable, depending on model configuration. Typically:
+{{C|standard for Z-95-AF4}}
+*Linked [[Taim & Bak/Legends|Taim & Bak]] [[KX5 laser cannon/Legends|KX5 laser cannons]] (2)<ref name="FF" />
+*[[Krupx Munitions/Legends|Krupx]] [[MG5 concussion missile launcher/Legends|MG5 concussion missile launchers]] (2)<ref name="FF" />
+**3 [[Concussion missile/Legends|missiles]] each<ref name="XWA" />
+Or:
+{{C|standard for [[Z-95mk1 Headhunter|Z-95 Mark I]]}}
+*Linked [[Triple blaster/Legends|triple blasters]] (2)<ref name="RAS" />
+*[[Concussion missile launcher/Legends|Concussion missile launchers]] (2)
+|complement=
+|bays=
+|escapepods=
+|crew=[[Pilot/Legends|Pilot]] (1)<ref name="RAS" />
+|skeleton=
+|passengers=
+|capacity=85 [[Kilogram/Legends|kg]]<ref name="RAS" />
+|cargohandling=
+|consumables=1 [[Standard day/Legends|day]]<ref name="RAS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Space superiority
+*Reconnaissance
+*[[Bomber/Legends|Bomber]]
+*Close air support
+*Training
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="XWA" />
+*[[Virgillian Free Alignment/Legends|Virgillian Free Alignment]]
+*[[New Republic/Legends|New Republic]]
+*[[Zsinj]]
+*[[Galactic Federation of Free Alliances]]
+*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+*[[Black Sun/Legends|Black Sun]]<ref name="FFGTCG">{{FFGTCG|set=Between the Shadows|cardname=Black Sun Headhunter}}</ref>
+*[[Binayre Pirates]]<ref name="FFGXW">{{FFGXW|set=Most Wanted Expansion Pack|cardname=Binayre Pirate}}</ref>
+*[[Tenloss Syndicate/Legends|Tenloss Syndicate]]<ref name="SOTEPlanet">''[[Shadows of the Empire Planets Guide]]''</ref>
+*[[Smuggler/Legends|Smugglers]]<ref name="XWA" />
+*[[Star system/Legends|System]] defense forces
+*[[Confederation]]
+*[[Iridium Pirates/Legends|Pirates of Iridium]]
+}}
+{{Quote|You gotta love the Z-95. Nothing beats the feeling of power they give you.|A [[Bandit Squadron]] [[Pilot/Legends|pilot]]|<ref name="XWA" />}}
+The '''Z-95 Headhunter''' was a [[Starfighter/Legends|starfighter]] designed jointly by [[Incom Corporation/Legends|Incom]] and [[Sublight Products Corporation|Subpro Corporations]] [[Standard year/Legends|years]] before the [[Invasion of Naboo/Legends|Invasion of Naboo]]. Its resilience and longevity meant it remained a staple of private and low-priority government starfighter forces long after its introduction.
+
+==Characteristics==
+{{Quote|As long as they keep on making upgrades for this baby, the Z-95 will never become outdated.|[[Outlaw tech/Legends|Outlaw tech]] [[Klaus Vandangante/Legends|Klaus "Doc" Vandangante]]|<ref name="NEGVV" />}}
+[[File:Z95headhunter_egvv.jpg|thumb|left|180px|Z-95-AF4 Headhunter [[:Category:Technical drawing images|schematics]]]]
+Considered one of the most capable fighters of its day, it boasted a distinctive bubble canopy and a set of [[Triple blaster/Legends|triple blasters]] mounted at the ends of each of its two variable geometry wings; later versions dispensed with the swing wings and bubble canopy in favor of more precise maneuvering thrusters and canopy instrumentation. Its sleek yet rugged design was attributed to [[Seti Ashgad/Legends|Seti Ashgad]], a [[Scientist/Legends|scientist]] in Incom's [[Hyperdrive Design Division]].
+
+It was named after the [[Coromon Headhunter/Legends|Coromon headhunter]], a predator native to the [[Coromon Islands]] on [[Fresia/Legends|Fresia]], the [[Planet/Legends|planet]] where Incom was headquartered.
+
+The Z-95 was smaller in size than its successors: the Incom/Subpro [[Aggressive ReConnaissance-170 starfighter/Legends|ARC-170]], designed during the [[Clone Wars/Legends|Clone Wars]], the [[Clone Z-95 starfighter/Legends|clone Z-95 starfighter]], also made in the Clone Wars, and the Incom [[T-65 X-wing starfighter/Legends|T-65 X-wing]], designed shortly before the outbreak of the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+Though the Z-95 still enjoyed considerable use in the years following the establishment of the [[New Republic/Legends|New Republic]], it was clearly outclassed by fighters developed in the decades since its original release. When compared to the T-65, it was slower, less maneuverable, had lighter armor and [[Deflector shield/Legends|shielding]], and was not as heavily armed.
+
+<div style="float:right">[[File:Z-95X.jpg|thumb|right|180px|[[Booster Terrik]]'s heavily modified Z-95 Headhunter equipped with [[T-65 X-wing starfighter/Legends|X-wing]]-style [[S-foils/Legends|S-foils]]]]</div>
+It was fairly inexpensive and reliable, making it a favorite amongst [[Smuggler/Legends|smugglers]], [[Outer Rim Territories/Legends|Outer Rim]] organizations, local system defense forces, and bright-eyed youngsters with dreams of becoming fighter jockeys. Pirate groups such as the [[Nebula Front/Legends|Nebula Front]] also used the Z-95. Also, despite the later T-65 being more maneuverable, the Z-95 was known to be able to perform a tighter turn.
+
+Owing to its longevity, it was not surprising that many variants of the Z-95 came into existence due to the efforts of starship mechanics and hotrod [[Pilot/Legends|pilots]] throughout [[The galaxy/Legends|the galaxy]]; these included a split-wing version, a courier version that could accommodate a single passenger, variants with various alternative weapons loadouts, and a trainer version, the [[Z-95XT Trainer]], that was commonly used by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] until replaced by the T-65X, the trainer variant of the X-wing.
+
+Later model variants had the [[Zr-390 navicomputer system]] from [[Narmox]] installed.<ref name="OS" />
+
+==History==
+===Republic service===
+{{Quote|Give me the choice, I'd take a Z-95 Headhunter every time.|[[Unidentified retired Galactic Republic pilot|A Galactic Republic pilot]]|<ref name="TPMnovel">[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]]</ref>}}
+[[File:Clone_Z-95_starfighter_SWE.png|thumb|left|200px|The Republic's [[Clone Z-95 starfighter/Legends|clone Z-95 starfighter]]]]
+The Z-95 was first constructed for the [[Galactic Republic/Legends|Galactic Republic]] before the [[Clone Wars/Legends|Clone Wars]]. The prototype for the Z-95 was the ''[[Onyx Star]]'', developed at the [[Bahalian Shipyards]].
+
+After Subpro and Incom ended their partnership, Incom reportedly bought the intellectual property rights and proprietary systems of the Z-95.
+
+One notable Z-95 was the [[Dicer (starfighter)|''Dicer'']] flown by the [[Bothan/Legends|Bothan]] pilot [[Eelo Begraas]] around [[31 BBY/Legends|31 BBY]]. He painted it [[Color/Legends|red]]-on-black, a color scheme that was immediately identifiable to his opponents. Such was Begraas' reputation that the mere sight of the Headhunter was enough to send many opposing pilots into hysterics.<ref name="Troop Movements">{{Wizards|url=rpga/livingforce/article.asp?x=lf/swlf20011206b_troop&c=swlfc|text=Troop Movements}}</ref>
+
+[[Nirama]], [[Organization|crimelord of the]] [[Cularin system/Legends|Cularin system]], used Z-95s both as his sponsored ships for the races of [[Eskaron]], and to provide armored transport to some of his main minions.<ref name="POB">{{LivingForce|The Price of Business}}</ref>
+
+One year [[23 BBY/Legends|before]] the start of the [[Clone Wars/Legends|Clone Wars]], [[Jedi/Legends|Jedi]] [[Jedi Master/Legends|Master]] [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]], while on a [[Mission to Fondor (Separatist Crisis)|mission to Fondor]], piloted a Z-95 owned by [[Fondor/Legends|Fondor's]] [[Senator/Legends|Senator]] [[Rodd]] to infiltrate and destroy a [[Groodo]] the [[Hutt/Legends|Hutt]]-fabricated [[False Sun Runner|counterfeit]] of the ancient [[Corellia StarDrive]] transport, the ''[[Sun Runner]]''. While successful in the task, he was forced to retrieve his [[Padawan/Legends|Padawan]] [[Anakin Skywalker/Legends|Anakin Skywalker]] who, piloting a Rodd-owned [[CloakShape fighter/Legends|CloakShape fighter]], was forced to crash-land on the [[Fondorian]] jungle-moon [[Nallastia]].<ref name="Star Wars Adventures 1: Hunt the Sun Runner">''[[Star Wars Adventures 1: Hunt the Sun Runner]]''</ref>
+
+A Headhunter variant, the [[Clone Z-95 starfighter/Legends|clone Z-95 starfighter]], saw use during a [[Battle of Umbara/Legends|Republic campaign]] to retake the planet [[Umbara/Legends|Umbara]]. Also, Headhunters participated in the [[Outer Rim Sieges/Legends|Outer Rim Sieges]] against the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]. After the war, the Z-95 would fall into the hands of parties other than the newly-formed [[Galactic Empire/Legends|Galactic Empire]], such as [[Pirate/Legends|pirates]] and other underworld groups.
+<div style="float:right">[[File:Z-95_TCG_by_Chase_Toole.jpg|thumb|left|180px|A Z-95 taking off from a [[Spaceport/Legends|spaceport]]]]</div>
+
+===Galactic Civil War===
+Though outdated by the time of the [[Galactic Civil War/Legends|Galactic Civil War]], Z-95 Headhunters were well respected starfighters that were available to buy from various [[Merchant/Legends|merchants]], and were still in common use as late as the [[Second Galactic Civil War]].
+
+[[Han Solo/Legends|Han Solo]] piloted an early model Z-95 Mark I while leading the defense of an [[Outlaw tech/Legends|outlaw tech]] base in the [[Corporate Sector/Legends|Corporate Sector]] against [[Corporate Sector Authority/Legends|CSA]] [[IRD-A starfighter|IRD-A fighters]]. However, by this period, they were considered obsolete compared to other fighters.<ref name="HSatCSS">''[[Han Solo and the Corporate Sector Sourcebook]]''</ref>
+
+The Rebellion used [[Z-95t Headhunter]]s in close air support roles.<ref name="Tala 1">{{CCG|set=Death Star II Limited|cardname=Tala 1}}</ref><ref name="Tala 2">{{CCG|set=Death Star II Limited|cardname=Tala 2}}</ref><ref name="Close Air Support">{{CCG|set=Death Star II Limited|cardname=Close Air Support}}</ref> The temporary Alliance covert squadron, [[Bandit Squadron]], also used Z-95s.<ref name="XWA" /> The [[m'Yalfor'ac Order]] in [[Guiteica/Legends|Guiteica]] was also known to use these by-then obsolete fighters around [[2 ABY/Legends|2 ABY]].<ref name="air">''[[Alliance Intelligence Reports]]''</ref> [[N'dru Suhlak]] piloted a Z-95 with an expanded cockpit to carry passengers.<ref name="Slave Ship">''[[Slave Ship]]''</ref>
+
+[[Mara Jade Skywalker|Mara Jade]] used a [[Hyperdrive/Legends|hyperdrive]]-equipped Headhunter during the [[Thrawn campaign|Thrawn crisis]]. Her Headhunter had a single center-mounted [[Ion cannon/Legends|ion cannon]] instead of the standard [[Concussion missile/Legends|concussion missile]] launchers. [[Jaina Solo Fel|Jaina Solo's]] first ship, [[Crystal (starfighter)|''Crystal'']], was also a Z-95 Headhunter, and [[Jaden Korr]] flew a [[Hyperdrive/Legends|hyperdrive]]-equipped Headhunter named ''[[Far Wanderer]]'' on missions to different worlds such as [[Bakura/Legends|Bakura]], [[Hoth/Legends|Hoth]], and [[Korriban/Legends|Korriban]].<ref name="Star Wars: Jedi Knight: Jedi Academy">''[[Star Wars: Jedi Knight: Jedi Academy]]''</ref> Another prominent member of the New Republic to use a Headhunter was [[Tycho Celchu/Legends|Tycho Celchu]], during the reforming of Rogue Squadron; however, the armaments were significantly weakened as at the time he was considered an Imperial spy. Five Headhunters were also used to great effect in the closing stages of the [[Liberation of Coruscant (Galactic Civil War)|mission to retake Coruscant]] in [[7 ABY/Legends|7 ABY]], by [[Corran Horn/Legends|Corran Horn]], [[Erisi Dlarit]], [[Rhysati Ynr]], [[Pash Cracken/Legends|Pash Cracken]], and [[Asyr Sei'lar]]. The four Z-95s that survived the conflict&mdash;Corran's was destroyed during his capture&mdash;were sold off to various museums to raise funds for Rogue Squadron's attack on [[Thyferra/Legends|Thyferra]].
+
+==Behind the scenes==
+Although the Z-95 is a one-person ship, with [[N'dru Suhlak]]'s modified unit accepting one passenger, the [[RPGA]] adventure ''[[The Price of Business]]'' featured a Z-95 that took [[Len Markus]] and some other fifteen people from Genarius to Cularin.
+
+In ''[[Star Wars: Empire at War]]'', the sign of the Z-95 is used to represent the [[Alpha-3 Nimbus-class V-wing starfighter/Legends|V-wing fighter]]. In ''[[Star Wars: Empire at War: Forces of Corruption]]'', this is fixed.
+
+In the game ''[[Star Wars: Jedi Starfighter]]'', if the player enters HEADHUNT as a cheat code, the player can fly the Z-95 during missions.
+
+For its appearance in the ''[[Star Wars: The Clone Wars]]'' television series beginning with the episode "[[Darkness on Umbara]]," the Headhunter was originally designated as a separate class, the "Z-85 Headhunter." This was later rectified in the episode's [http://www.starwars.com/explore/the-clone-wars/ep407/#!/media/slideshow guide], which corrected the ship name to read simply "Headhunter," giving no indication that the Headhunter in ''The Clone Wars'' was intended to be different from the original Z-95.
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Z95_Headhunters.jpg|thumb|180px|Three Headhunters in flight]]
+{{Mediacat|imagecat=Images of Z-95 Headhunters}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Episode I Adventures 5: The Ghostling Children]]''
+*{{GamerCite|1|The Starfighter Trap}}
+*''[[Cloak of Deception]]''
+*''[[Episode I Adventures 2: The Bartokk Assassins]]''
+*[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]] {{Ab|Star Wars: Episode I The Phantom Menace (unabridged audiobook)}} {{Mo}}
+*{{LivingForce|The Price of Business}}
+*{{LivingForce|Coruscani Dawn}}
+*{{LivingForce|Shadows in Green}}
+*''[[Star Wars Adventures 1: Hunt the Sun Runner]]''
+*''[[Star Wars Adventures 2: The Cavern of Screaming Skulls]]''
+*{{HoloNetNewsWeb|46|business/1337_2.html|Incom / Subpro Development Deal Cancelled}}
+*''[[Star Wars: Jedi Starfighter]]''
+*{{HoloNetNewsWeb|49|jediwatch/13328_1.html|Jedi Smash Iridium Pirates; 3 Knights Killed}}
+*{{LivingForce|Looking In: The Air Up Thaere}}
+*{{LivingForce|No Place Like Home}}
+*{{LivingForce|Forces of Cularin: Force Convention}}
+*{{LivingForce|Paarty On!}} {{Mo}}
+*{{LivingForce|Metatheran Caution: Belly of the Beaast}}
+*{{LivingForce|Belted In: Incursion}}
+*{{LivingForce|Night Eyes: Night's Homecoming}}
+*{{LivingForce|For Fun and Profit}}
+*{{LivingForce|Jigsaw: Cloak and Vibroblade}} {{Mo}}
+*{{LivingForce|Inside-out: Storm's Depths}}
+*{{LivingForce|The Replacements}}
+*{{LivingForce|Hunting the Wyrd}}
+*{{LivingForce|Decision: Almas}}
+*{{LivingForce|Decision: Coruscant}}
+*{{LivingForce|Decision: Cularin}}
+*{{LivingForce|For Every Action: Counterstrike}}
+*{{LivingForce|For Every Action: Strike III}}
+*{{LivingForce|Heart of Evil: Destruction}}
+*{{InsiderCite|132|The Guns of Kelrodo-Ai (short story)|reprint=1}}
+*{{DoD|The Queen of Air and Darkness}}
+*{{DoD|Sword of the Empire}} {{Mo}}
+*{{JournalCite|4|The Final Exit|reprint=1}}
+*''[[The Hutt Gambit]]''
+*{{Tales|2|Routine}} {{C|dream}}
+*{{JournalCite|7|Passages}}
+*''[[Han Solo at Stars' End]]'' {{1st}}
+*[[Han Solo at Stars' End (comic strip)|''Han Solo at Stars' End'' comic]]
+*{{WEGCite|story=Infiltration (adventure)|book=Supernova (sourcebook)}}
+*''[[Star Wars: The Force Unleashed II]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}} {{Mo}}
+*[[Vader's Quest 2|''Vader's Quest'' 2]]
+*[[Vader's Quest 3|''Vader's Quest'' 3]]
+*''[[Tatooine Manhunt]]'' {{Reprint|Tatooine Manhunt}}
+*{{WEGCite|story=A Bith Saved Is A Bith Learned|book=Galaxy Guide 7: Mos Eisley}}
+*{{JournalCite|5|A Bitter Winter|reprint=1}}
+*''[[Choices of One]]''
+*{{WEGCite|story=Tales of the Smoking Blaster|book=Star Wars Gamemaster Handbook|stext=Tales of the ''Smoking Blaster''}}
+*{{GamerCite|9|Race for the Tessent}}
+*{{GamerCite|1|Rendezvous at Ord Mantell}}
+*''[[Under a Black Sun]]''
+*{{FFG|story=Trouble Brewing|book=Star Wars: Edge of the Empire Core Rulebook|text=''Star Wars: Edge of the Empire'' Core Rulebook}} {{Mo}}
+*''[[Beyond the Rim]]''
+*''[[Onslaught at Arda I]]''
+*''[[Star Wars Missions 13: Prisoner of the Nikto Pirates]]''
+*[[Scavenger Hunt (adventure)|''Scavenger Hunt'']]
+*{{WEGCite|story=Two for the Price of One|book=Galaxy Guide 10: Bounty Hunters}}
+*{{WEGCite|story=Heavy Lifting|book=Instant Adventures}}
+*{{WEGCite|story=Meltdown (adventure)|book=Instant Adventures}}
+*{{Tales|21|Walking the Path That's Given}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*{{JournalCite|14|Crimson Bounty}}
+*{{JournalCite|13|The Last Hand (short story)}}
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{WEGCite|story=The Bacta Heist|book=Tapani Sector Instant Adventures}}
+*{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*{{StoryCite|story=The Prize Pelt: The Tale of Bossk|book=Tales of the Bounty Hunters}}
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Shadows of the Empire 2|''Shadows of the Empire'' 2]]
+*[[Shadows of the Empire 3|''Shadows of the Empire'' 3]]
+*[[Shadows of the Empire 4|''Shadows of the Empire'' 4]]
+*[[Shadows of the Empire 5|''Shadows of the Empire'' 5]]
+*[[Shadows of the Empire 6|''Shadows of the Empire'' 6]]
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{Mo}}
+*[[Mara Jade – By the Emperor's Hand 1|''Mara Jade – By the Emperor's Hand'' 1]]
+*[[Mara Jade – By the Emperor's Hand 2|''Mara Jade – By the Emperor's Hand'' 2]]
+*{{WEGCite|story=The Passage From Perdition|book=Mos Eisley Adventure Set}}
+*''[[Slave Ship]]'' {{Flash}}
+*''[[Hard Merchandise]]''
+*[[X-Wing Rogue Squadron 6|''X-Wing Rogue Squadron'' 6]] {{Flash}}
+*[[X-Wing Rogue Squadron 14|''X-Wing Rogue Squadron'' 14]]
+*[[X-Wing Rogue Squadron 15|''X-Wing Rogue Squadron'' 15]] {{Mo}}
+*[[X-Wing Rogue Squadron 20|''X-Wing Rogue Squadron'' 20]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*{{WEGCite|story=Easy Money|book=The Politics of Contraband|reprint=1}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wedge's Gamble]]'' {{Ab|X-Wing: Wedge's Gamble (unabridged audiobook)}}
+*''[[X-Wing: The Krytos Trap]]'' {{Ab|X-Wing: The Krytos Trap (unabridged audiobook)}} {{Mo}}
+*''[[X-Wing: The Bacta War]]'' {{Ab|X-Wing: The Bacta War (unabridged audiobook)}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*{{DarkStryder|adventure=Galaxy's Edge|book=The Kathol Outback|reprint=yes}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{Mo}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*{{JournalCite|8|Blaze of Glory (short story)|reprint=1}}
+*''[[Jedi Search]]''
+*[[Dark Apprentice (novel)|''Dark Apprentice'']]
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*''[[X-Wing: Starfighters of Adumar]]''
+*''[[Planet of Twilight]]''
+*''[[Star Wars: Jedi Knight: Jedi Academy]]''
+*{{GamerCite|7|Red Sky, Blue Flame}}
+*''[[Tempest Feud]]''
+*{{GamerCite|5|The Crystal|reprint=1}}
+*''[[The New Jedi Order: Vector Prime]]''
+*''[[The New Jedi Order: Recovery]]''
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Bloodlines]]''
+*''[[Legacy of the Force: Tempest]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Crosscurrent]]''
+*[[Riptide (novel)|''Riptide'']]
+*[[Millennium Falcon (novel)|''Millennium Falcon'']] {{Ab|Millennium Falcon (audiobook)}}
+*''[[Fate of the Jedi: Outcast]]'' {{Ab|Fate of the Jedi: Outcast (audiobook)}}
+*''[[Fate of the Jedi: Allies]]'' {{Ab|Fate of the Jedi: Allies (audiobook)}}
+}}
+
+===Non-canon appearances===
+*<!-- 2001-01-XX -->"[[Soulsaber (adventure)|Soulsaber]]" {{Mo}} {{Un}}
+
+==Sources==
+{{ScrollBox|
+{{Mediacat|imagecat=Images of Z-95 Headhunters}}
+*<!-- 1984-12-XX -->''[[A Guide to the Star Wars Universe]]''
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1988-XX-XX -->''[[Star Wars Campaign Pack]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]''
+*<!-- 1992-06-XX -->''[[Planets of the Galaxy, Volume Two]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-01-XX -->''[[Galaxy Guide 7: Mos Eisley]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->[[Twin Stars of Kira (sourcebook)|''Twin Stars of Kira'']]
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]''
+*<!-- 1993-09-XX -->''[[The Movie Trilogy Sourcebook]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}}
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-08-XX -->{{JournalCite|3|Blasters for Hire}}
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-02-XX -->{{JournalCite|5|Stand and Deliver}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-06-XX -->[[Galaxy Guide 1: A New Hope (Second Edition)|''Galaxy Guide 1: A New Hope'', Second Edition]]
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1996-02-XX -->{{JournalCite|9|ISB Intercepts}}
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Operatives (article)}}
+*<!-- 1996-05-XX -->{{JournalCite|10|Alliance Intelligence Report: TIE Fighters}}
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-05-12 -->''[[Wretched Hives of Scum & Villainy]]''
+*<!-- 1997-06-XX -->''[[The Black Sands of Socorro]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=Z-95}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Tasariq: The Crystal Planet}}
+*<!-- 1997-11-XX -->''[[Platt's Smugglers Guide]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-05-XX -->{{CCG|set=Official Tournament Sealed Deck|cardname=Z-95 Headhunter}}
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-01 -->[[Star Wars Handbook 1: X-Wing Rogue Squadron|''Star Wars Handbook'' 1: ''X-Wing Rogue Squadron'']]
+*<!-- 1998-XX-XX -->''[[Hideouts & Strongholds]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 1999-12-08 -->{{CCG|set=Enhanced Cloud City|cardname=Z-95 Bespin Defense Fighter}}
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Close Air Support}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Tala 1}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Tala 2}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2001-03-XX -->''[[Living Force Campaign Guide]]''
+*<!-- 2001-10-10 -->{{JKTCG|set=Masters of the Force|cardname=Z-95 Headhunter|link=http://www.decipher.com/jediknights/cardlists/mastersoftheforce/large/90z95headhunter.html}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2001-12-06 -->{{Wizards|url=rpga/livingforce/article.asp?x=lf/swlf20011206b_troop&c=swlfc|text=Troop Movements}}
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2002-10-06 -->{{TCG|set=A New Hope|cardname=Z-95 Headhunter|link=https://swtcg.com/Content/Images/Cards/ANH/Z_95_Headhunter.webp?v=2}}
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-06-03 -->{{Wizards|url=default.asp?x=starwars/article/sw20040603behebothmain|text=Beheboth: Blood and Water|int=Beheboth: Blood and Water}}
+*<!-- 2004-06-10 -->''[[Ultimate Adversaries]]''
+*<!-- 2004-07-16 -->{{SonyCite|url=expansions_ships_z95.jsp|text=Z-95 Headhunter}}
+*<!-- 2004-08-04 -->{{FactFile|136|HEA 1-2|Z-95 Headhunter}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2004-12-16 -->{{Wizards|url=default.asp?x=starwars/livingforce/swlf20041216|text=Standoffs}}
+*<!-- 2005-03-25 -->{{SonyCite|url=content.jsp?page=Friday%20Feature:%20Rage%20Of%20The%20Wookiees:%20Ships|text=Friday Feature: Rage Of The Wookiees: Ships}}
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66869&resource=features|text=Ships: X-Wing}}
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66872&resource=features|text=Ships: Z-95}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-10-09 -->{{StarshipsVehiclesCite|2|Starship & Vehicle Directory}}
+*<!-- 2008-11-18 -->[[Scum and Villainy (sourcebook)|''Scum and Villainy'']]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Kath Scarlet|swglink=Kath Scarlet (Avatar Light) (card).JPG}}
+*<!-- 2011-09-13 -->{{DB|starship|z95headhunter|Z-95 Headhunter}}
+*<!-- 2011-10-28 -->{{SW|url=explore/the-clone-wars/ep407|text="Darkness on Umbara" - ''The Clone Wars'' Episode Guide|nolive=1}}
+*<!-- 2013-02-28 -->{{FFGXW|set=Slave I Expansion Pack|cardname=Kath Scarlet}} {{Po}}
+*<!-- 2013-05-24 -->{{FFGTCG|set=A Dark Time|cardname=Z-95 Headhunter|link=the-hoth-cycle/a-dark-time/z-95-headhunter-a-dark-time-52-3}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2014-04-25 -->{{SWE|technology|z95headhunter|clone Z-95 starfighter}}
+<!-- 2014-06-26 -->{{CardGameSet|set={{FFGXW|set=Z-95 Headhunter Expansion Pack}}|cards=
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Airen Cracken}}
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Bandit Squadron Pilot}}
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Munitions Failsafe|reprint=1}} {{Po}}
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Tala Squadron Pilot}}
+*<!-- 2014-06-26 -->{{FFGXW|set=Z-95 Headhunter Expansion Pack|cardname=Wingman}} {{Po}}
+}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+<!-- 2015-01-05 -->{{CardGameSet|set={{FFGTCG|set=Between the Shadows|parent=1}}|cards=
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Black Sun Headhunter|link=between-the-shadows/black-sun-headhunter-r1189}} {{Po}}
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Warning Shot|link=between-the-shadows/warning-shot-r1203}} {{Po}}
+}}
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+*<!-- 2015-02-26 -->{{FFGXW|set=IG-2000 Expansion Pack|cardname=Feedback Array|reprint=1}} {{Po}}
+<!-- 2015-02-26 -->{{CardGameSet|set={{FFGXW|set=Most Wanted Expansion Pack}}|cards=
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Binayre Pirate}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Black Sun Soldier}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=Kaa'to Leeachos}}
+*<!-- 2015-02-26 -->{{FFGXW|set=Most Wanted Expansion Pack|cardname=N'dru Suhlak}}
+}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=A Little Maneuver|link=rogue-squadron/ready-for-takeoff/a-little-maneuver-r1234}} {{Po}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Koiogran Turn|link=rogue-squadron/evasive-maneuvers/koiogran-turn-r1304}} {{Po}}
+*<!-- 2015-06-25 -->{{FFGTCG|set=Attack Run|cardname=Bail Out|link=rogue-squadron/attack-run/bail-out-r1339}} {{Po}}
+*<!-- 2015-09-22 -->{{InsiderCite|160|Blaster}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Bandit Squadron Pilot}}
+*<!-- 2021-04-27 -->{{InsiderCite|202|Timothy Zahn: Heir of an Empire}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{HeadhunterVariantsNav}}
+
+==External links==
+*{{SWGWiki}}
+
+{{Interlang
+|cs=Z-95 Headhunter/Legendy
+|de=Z-95-Kopfjäger
+|es=Cazador de Cabezas Z-95/Leyendas
+|fi=Z-95 Headhunter/Legends
+|hu=Z-95 Headhunter
+|nl=Z-95 Headhunter
+|no=Z-95 Hodejeger
+|pl=Z-95 Headhunter
+|pt=Legends:Headhunter Z-95
+}}
+
+[[Category:Hutt starship classes]]
+[[Category:Incom Corporation products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of Black Sun]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the New Republic]]
+[[Category:Starship classes of the Trade Federation]]
+[[Category:Starship lines]]
+[[Category:Subpro Corporation products]]
+
+{{RelatedCategories
+|[[Category:Z-95 Headhunter models]]
+|[[Category:Z-95 Headhunters]]
+}}

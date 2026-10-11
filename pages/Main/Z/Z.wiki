@@ -1,0 +1,28 @@
+{{Top|fca|ssprot|leg}}
+{{Otheruses}}
+{{Quote|Once the mini-cable is in place, adjust the frequency rate of the Impulse Slot (V-4) from 42 z to 83 z.|Airen Cracken, ''Cracken's Rebel Field Guide''|<ref name="CRFG">[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]</ref>}}
+The '''z''' was a unit of measurement utilized to express frequency rates. In [[Alliance to Restore the Republic/Legends|Rebel Alliance]] [[General/Legends|General]] [[Airen Cracken/Legends|Airen Cracken's]] [[Datafile/Legends|datafile]] ''[[Cracken's Rebel Field Guide]]'', several entries on jury-rigged equipment gave measurements in z, including the ratings of wires and cables used in the creation of the [[lectroticker]] anti-security device and in a modification to increase the speed of some [[Airspeeder/Legends|airspeeders]]. The datafile's entry on fitting a [[Blaster/Legends|blaster]] with a hair trigger also called for a direct change to the frequency rate of the [[Weapon/Legends|weapon's]] [[impulse slot]] in a range specified in units of z.
+
+==Description==
+{{Quote|The converter coil carries a low gauge because the impulse fusework on the entire machine is only rated for a 1000z buildup.|Personal addendum by Airen Cracken, ''Cracken's Rebel Field Guide''|<ref name="CRFG" />}}
+The z was a unit of measurement used to express frequency rates. It could be utilized to rate wires and cables, with potential values in the range of tens of z, and to describe the buildup for which the [[impulse fusework]] of a [[turbothrust]]-enhanced [[Landspeeder/Legends|landspeeder]] was rated, which could reach the value of 1000z.<ref name="CRFG" />
+
+==History==
+{{Quote|The lectroticker is used to get through high-end security card locks. You can build one from a sense-plate cut to the standard size of a security card, four pieces of wire rated 30z to 42z, and the data compiler from a life form detector.|Airen Cracken, ''Cracken's Rebel Field Guide''|<ref name="CRFG" />}}
+During the [[Galactic Civil War/Legends|Galactic Civil War]] between the [[Galactic Empire/Legends|Galactic Empire]] and the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] and after the [[Battle of Yavin/Legends|Battle of Yavin]], the [[Human/Legends|Human]] Alliance [[General/Legends|general]] [[Airen Cracken/Legends|Airen Cracken]] [[Author/Legends|composed]] the [[Datafile/Legends|datafile]] ''[[Cracken's Rebel Field Guide]]'', which documented various pieces of equipment used during the Galactic Civil War. In the document, the z unit was used in several instances in the description of jury-rigged devices.<ref name="CRFG" />
+
+[[File:Airen_Cracken.jpg|thumb|right|300px|Airen Cracken (pictured) gave measurements in z in several entries of his datafile ''Cracken's Rebel Field Guide''.]]
+In two cases, z-value ratings were given for wires and cables. Firstly, four pieces of wire rated 30z to 42z were recommended as a component&mdash;connecting a [[sense-plate]] with a [[data compiler]]&mdash;when creating the [[lectroticker]] anti-security device. Secondly, cables of the 20z&ndash;23z range were to be used in a modification to [[Airspeeder/Legends|airspeeders]] with [[Afterburner/Legends|afterburners]]. In order to increase such vehicles' speed, it was suggested that such cables link the [[Engine/Legends|engines]] to power points on the afterburners. However, although Cracken described that technique as the "most prudent" way to increase the speed of an airspeeder beyond its design limits, in a personal addendum to the entry the general noted that he had never attempted the modification himself nor had any plans to going forward given the risk of meltdown it subjected the engines to.<ref name="CRFG" />
+
+Elsewhere in the datafile, Cracken described a technique for fitting a personal [[Blaster/Legends|blaster]] with a hair trigger in order to double its firing rate per trigger pull. The method called for the frequency rate of the [[Weapon/Legends|weapon's]] [[impulse slot]] to be changed from 42z to 83z after either a [[Scomp link/Legends|scomp link]] or a [[Tarris 800 line]] mini-cable had been used to connect the slot to the [[trigger adaptor]]. Finally, in a fourth entry, the general also noted in a personal addendum that the reason why turbothrust-enhanced landspeeders, such as the [[XP-38 sport landspeeder]], were equipped with a relatively low-gauge [[turbothrust converter coil]] was because the impulse fusework on the vehicles was only rated for a buildup of 1000z.<ref name="CRFG" />
+
+==Behind the scenes==
+The z was mentioned in the [[1991]] sourcebook [[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']], which was written by [[Christopher Kubasik]] and published by [[West End Games]] for use with ''[[Star Wars: The Roleplaying Game]]''.<ref name="CRFG" />
+
+==Sources==
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']] {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Units of frequency measurement]]

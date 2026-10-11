@@ -1,0 +1,70 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name="Quick Ship" Shuttle
+|designer=
+|manufacturer=[[Heckson Industries]]<ref name="Sins">{{WEGCite|story=All Our Sins Remembered|book=Star Wars Gamemaster Kit}}</ref>
+|line=
+|model=
+|type=[[Shuttle/Legends|Shuttle]]<ref name="Sins" />
+|cost=*75,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="Sins-CC">{{WEGCite|story=All Our Sins Remembered|book=Classic Campaigns}}</ref>
+*35,000 credits (used)<ref name="Sins-CC" />
+|modifier=
+|sysmods=
+|length=17 [[Meter/Legends|meters]]<ref name="Sins" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="Sins-CC" />
+|maneuverability=
+|engine=
+|hyperdrive=[[Hyperdrive/Legends|Class 2]]<ref name="Sins" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="Sins" />
+|hull=
+|sensor=[[Sensor/Legends|Equipped]]<ref name="Sins-CC" />
+|target=
+|navigation=[[Astromech droid/Legends|Astromech droid]]<ref name="Sins" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Two triple [[Blaster/Legends|blasters]]<ref name="Sins" />
+|complement=
+|bays=
+|escapepods=
+|crew=1; 1 [[Gunner/Legends|gunner]]<ref name="Sins-CC" />
+|skeleton=
+|passengers=6<ref name="Sins" />
+|capacity=100 [[Kilogram/Legends|kilograms]]<ref name="Sins" />
+|cargohandling=
+|consumables=5 [[Standard day/Legends|days]]<ref name="Sins" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Transport shuttle<ref name="Sins" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''"Quick Ship" Shuttle''' was produced by [[Heckson Industries]] during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+[[Alliance to Restore the Republic/Legends|Rebel]] Sector Commander [[Beckar]] had a shuttle stored for use in emergency.
+
+==Appearances==
+*{{WEGCite|story=All Our Sins Remembered|book=Star Wars Gamemaster Kit|reprint=1}}
+
+==Sources==
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Quick Ship Shuttle}}
+[[Category:Heckson Industries products]]
+[[Category:Shuttle classes]]
