@@ -1,0 +1,69 @@
+{{Top|leg|italics=1}}
+{{IndividualShip
+|image=[[File:BlackObsession-Supernova.png]]
+|name=''Black Obsession''
+|designer=
+|manufacturer=
+|line=
+|model=Modified [[A-Z-Z-3 Light Freighter]]<ref name="I">{{WEGCite|story=Infiltration (adventure)|book=Supernova (sourcebook)}}</ref>
+|type=[[Light freighter/Legends|Light freighter]]<ref name="I" />
+|cost=
+|modifier=
+|sysmods=
+|length=24 [[Meter/Legends|meters]]<ref name="I" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer/Legends|KM]][[Standard hour/Legends|H]]<ref name="I" />
+|maneuverability=
+|engine=
+|hyperdrive=*[[Hyperdrive/Legends|Class 1]]<ref name="I" />
+*[[Backup hyperdrive|Class 12]]<ref name="I" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped, with backup shield]]<ref name="I" />
+|hull=
+|sensor=[[Sensor/Legends|Primary and backup systems]]<ref name="I" />
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="I" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=2 [[Laser cannon/Legends|laser cannon]]<ref name="I" />
+|complement=
+|bays=
+|escapepods=
+|crew=2; 2 [[Gunner/Legends|gunners]]<ref name="I" />
+|skeleton=
+|passengers=8<ref name="I" />
+|capacity=60 [[Metric ton/Legends|metric tons]]<ref name="I" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="I" />
+|lifesupport=[[Life support/Legends|Primary and backup systems]]<ref name="I" />
+|communications=
+|othersystems=
+|role=[[Transport/Legends|Transport]]<ref name="I" />
+|commission=
+|destroyed=
+|retired=
+|affiliation=
+|navy=
+|fleet=
+|owners=
+|captains=
+|registry=
+|aliases=
+}}
+The '''''Black Obsession''''' was a modified [[Mon Calamari Shipyards/Legends|Mon Calamari Shipyards]] [[A-Z-Z-3 Light Freighter]]. It smuggled political prisoners from the city of [[Selkren]] off the planet [[Demophon]] during the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="I" />
+
+==Appearances==
+*{{WEGCite|story=Infiltration (adventure)|book=Supernova (sourcebook)}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:A-Z-Z-3 Light Freighters]]

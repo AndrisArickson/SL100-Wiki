@@ -1,0 +1,82 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Blade-32 superiority fighter
+|designer=
+|manufacturer=[[Tarrvin-on-Kallik]]<ref name="KtP">''[[Keeping the Peace]]''</ref>
+|line=[[Blade series]]
+|model=Blade-32 superiority fighter
+|type=[[Starfighter/Legends|Starfighter]]<ref name="KtP" />
+|cost=60,000 [[Galactic Credit Standard/Legends|credits]]<ref name="KtP" />
+|modifier=
+|sysmods=
+|length=18 [[Meter/Legends|meters]]
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=900 [[Kilometer per hour/Legends|km/h]]
+|maneuverability=
+|engine=
+|hyperdrive=None (Blade-32 Beta equipped with Class 3 hyperdrive)<ref name="KtP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=Close<ref name="KtP" />
+|target=
+|navigation=Yes<ref name="KtP" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (4; 2 forward-firing, 2 aft-firing)<ref name="KtP" />
+*[[Concussion missile/Legends|Concussion missile]] launchers (2)<ref name="KtP" />
+**16 missiles
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="KtP" />
+*[[Gunner/Legends|Aft Gunner]] (1)<ref name="KtP" />
+|skeleton=
+|passengers=1 (if no gunner)<ref name="KtP" />
+|capacity=150 [[Kilogram/Legends|kg]]
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="KtP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Adumar/Legends|Adumar]]
+}}
+{{Quote|A pretty sturdy starfighter, though it certainly handles better in atmosphere than space. The nearest analog I can think of isn't an X-wing; it's a Y-wing. A fairly sluggish Y-wing by our standards, but when we lost our X-wings, those Blades came through for us.|[[Derek Klivian/Legends|Derek Klivian]]|<ref name="Adumar: Pilots Wanted">{{Wizards|url=default.asp?x=starwars/article/sw20040401adumarmain|text=Adumar: Pilots Wanted|int=Adumar: Pilots Wanted}}</ref>}}
+The '''Blade-32 superiority fighter''' was the craft of choice for many [[Adumar/Legends|Adumari]] pilots.
+
+==Characteristics==
+At 18 [[Meter/Legends|meters]] in length, the standard "razor-wing" shape of the Blade-32 lent it impressive atmospheric maneuverability. The twin engines peaked at 900 [[Kilometer per hour/Legends|kilometers per hour]] in atmospheric flight, although the ship was considered less effective in space combat than its contemporaries in the New Republic. In more general terms, the Blade-32 was considered comparable to the [[Z-95 Headhunter/Legends|Z-95 Headhunter]], although more heavily armed and armored. It was also comparable to the [[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]] in terms of maneuverability, durability, and number of weapons, despite lacking [[Proton torpedo/Legends|proton torpedoes]] and [[Deflector shield/Legends|shields]]. Two pairs of fire-linked [[Laser cannon/Legends|laser cannons]] and a pair of [[Concussion missile/Legends|concussion missile]] launchers (with an impressive capacity of eight missiles per launcher) were the Blade-32's standard weapons. In an unusual design feature, one of the laser cannon pairs was mounted to fire backward. As with most fighter craft, cargo and [[Foodstuff/Legends|consumables]] were at a minimum, at 150 [[Kilogram/Legends|kilograms]] and three [[Standard day/Legends|days]], respectively. For space combat, Blade-32s were upgraded with a pressurized [[Atmosphere/Legends|atmosphere]] supply and two proton torpedo launchers, each with magazines of eight missiles. They could also be fitted with a Class 2 [[Hyperdrive/Legends|hyperdrive]]. The basic Blade-32 was purely an atmospheric fighter, with the starfighter version being the Blade-32 Alpha and the hyperdrive-equipped craft the Blade-32 Beta. While finding it generally inferior to the [[T-65 X-wing starfighter/Legends|X-wing]] as a fighter, [[Tycho Celchu/Legends|Tycho Celchu]] felt the Blade-32 would make a good bomber if refitted with shields and a gunner's position.
+
+==History==
+Designed, developed and produced by [[Tarrvin-on-Kallik]], the Blade-32 was used for planetary defense and capital ship support. A direct descendant of the highly collected [[Blade-28 fighter|Blade-28]] and [[Blade-30 fighter]]s, the ship was popular in jet black, and after the unification of Adumar in [[13 ABY/Legends|13 ABY]], red in honor of [[Red Flight]]. New ships cost 82,000 [[Galactic Credit Standard/Legends|credits]], with used ones generally available at 46,000, although the ships were not made available off Adumar until after the treaty with the [[New Republic/Legends|New Republic]]. Despite this, they managed to find their way into several private collections and [[Mercenary/Legends|mercenary]] [[Squadron/Legends|squadrons]] that were willing to deal with the craft's use of Adumari measurements over standard. The Blade-32 was still the top-of-the-line strike craft of Adumar as late as [[18 ABY/Legends|18 ABY]] while work on a successor model, the [[Blade-34 fighter]], continued.
+
+==Appearances==
+*''[[X-Wing: Starfighters of Adumar]]'' {{1st}}
+*''[[Legacy of the Force: Betrayal]]''
+
+==Sources==
+*<!-- 2004-04-01 -->{{Wizards|url=default.asp?x=starwars/article/sw20040401adumarmain|text=Adumar: Pilots Wanted|int=Adumar: Pilots Wanted}}
+*<!-- 2015-12-17 -->''[[Keeping the Peace]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Klinge 32
+|es=Caza de superioridad Blade-32
+}}
+
+[[Category:Blade series models]]

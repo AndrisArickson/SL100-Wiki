@@ -1,0 +1,28 @@
+{{Top|leg}}
+The '''Binks family''' was a [[Gungan/Legends|Gungan]] bloodline, originally from [[Naboo/Legends|Naboo]]. Its members included:
+*[[Jar Jar Binks's father|George R. Binks]]
+*[[Jar Jar Binks/Legends|Jar Jar Binks]], George's son
+*[[Abso Bar Binks]], Jar Jar's son, and George's grandson
+
+==Family tree==
+{{FamilyTree/start}}
+{{FamilyTree|GRB|y|Us|GRB=[[George R. Binks]]|Us=[[Jar Jar Binks's mother|Unknown spouse]]
+|boxstyle_GRB=m
+|boxstyle_Us=u}}
+{{FamilyTree||||!|}}
+{{FamilyTree|JJB|+|Uf|JJB=[[Jar Jar Binks/Legends|Jar Jar Binks]]|Uf=[[Abso Bar Binks's mother|Unknown female]]
+|boxstyle_JJB=m
+|boxstyle_Uf=u}}
+{{FamilyTree||||!|}}
+{{FamilyTree||ABB|ABB=[[Abso Bar Binks]]
+|boxstyle_ABB=m}}
+{{FamilyTree/end}}
+
+==Behind the scenes==
+*It is unknown whether the non-canonical [[Jay-Jay Bin]]&mdash; was intended to be a member of the Binks family.
+
+{{Interlang
+|es=Familia Binks
+}}
+
+[[Category:Families]]
