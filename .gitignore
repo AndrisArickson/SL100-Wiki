@@ -1,0 +1,10 @@
+# Local state / regenerable data
+data/
+images/placeholders/
+images/full/
+__pycache__/
+*.pyc
+*.tmp
+
+# Copyrighted source-book extracts must never be pushed
+private/

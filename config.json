@@ -1,0 +1,38 @@
+{
+  "api": "https://starwars.fandom.com/api.php",
+  "site": "https://starwars.fandom.com/wiki/",
+  "user_agent": "SL100-Wiki/1.0 (+https://github.com/AndrisArickson/SL100-Wiki; personal non-commercial RPG reference; gentle single-threaded)",
+
+  "delay_seconds": 2.5,
+  "batch_size": 50,
+  "maxlag": 5,
+  "max_retries": 8,
+  "request_timeout": 60,
+
+  "legends_category": "Category:Legends articles",
+  "support_namespaces": [10, 828],
+
+  "priority_depth": 3,
+  "priority_max_categories_per_root": 250,
+  "priority_roots": {
+    "Weapons": 10,
+    "Armor": 10,
+    "Equipment": 12,
+    "Starships": 11,
+    "Vehicles": 11,
+    "Droids": 12,
+    "Sentient species": 13,
+    "Planets": 13,
+    "Force powers": 10,
+    "Organizations": 15,
+    "Galactic governments": 15,
+    "Individuals by occupation": 20
+  },
+
+  "placeholder_max_px": 640,
+  "placeholder_default_size": [300, 200],
+  "placeholder_rgb": [205, 211, 217],
+
+  "server_host": "127.0.0.1",
+  "server_port": 8100
+}
