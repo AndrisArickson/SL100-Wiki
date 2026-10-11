@@ -1,0 +1,73 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:Gaw-droppod.jpg]]
+|name=Drop pod
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=Drop pod<ref name="GaW">''[[Galaxy at War]]''</ref>
+|cost=17000 [[Galactic Credit Standard/Legends|credits]]<ref name="GaW" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=600 km/h<ref name="GaW" />
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=1 vehicle<ref name="GaW" />
+|bays=
+|escapepods=
+|crew=0
+|skeleton=
+|passengers=None
+|capacity=2 tons
+|cargohandling=
+|consumables=None
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''drop pod''' was a simple ship designed to transport a ground vehicle to the surface of a planet. It was pressurized and filled with atmosphere, but there were no passenger accommodations. The drop pod was launched from space, and piloted by a droid brain to the designated landing zone. Once landed, the drop ship was blown apart by self-destructive bolt to release the vehicle inside.<ref name="GaW" /> Drop pods were also used to carry [[Galactic Empire/Legends|Imperial]] [[Probe droid/Legends|probe droids]]. To keep them intact during crash landings, [[Heat shield/Legends|heat shields]] were often affixed to the pods.<ref name="DS">{{JournalCite|9|Death-Hunter}}</ref>
+
+==Appearances==
+*{{JournalCite|9|Death-Hunter}}
+
+==Sources==
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]''
+*<!-- 2003-09-04 -->{{Wizards|url=default.asp?x=starwars/article/sw20030904carida|text=Carida: Heavy Duty|int=Carida: Heavy Duty}}
+*<!-- 2009-09-15 -->''[[Galaxy at War]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Dropship classes|*]]
+[[Category:Space pod classes|*]]
+
+{{RelatedCategories
+|[[Category:Drop pod classes]]
+}}

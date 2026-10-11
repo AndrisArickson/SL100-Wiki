@@ -1,0 +1,442 @@
+{{Top}}
+{{Rhere|FRG|the [[Fest Resistance Group]]}}
+{{Citation}}
+{{StarshipClass
+|image=[[File:MedicalFrigate-BaseSeries4.png]]
+|name=EF76 Nebulon-B escort frigate
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref><ref name="NEGTVV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref><ref name="Databank">{{DB|starship|escortfrigate|escort frigate}}</ref><ref name="Essential Guide to Warfare">''[[The Essential Guide to Warfare]]''</ref>
+|line=
+|model=EF76 Nebulon-B escort frigate<ref name="AOR CRB">[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]</ref>
+|type=[[Frigate/Legends|Frigate]]<ref name="RS II guide">''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''</ref>
+|cost=8,500,000 [[Galactic Credit Standard/Legends|credits]]<ref name="AOR CRB" /> 6,400,300 used
+|modifier=
+|sysmods=
+|length=300 [[Meter/Legends|meters]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref><ref name="NEGTVV" />
+|width=72 meters<ref name="TOSAVC38">[[Star Wars: The Official Starships & Vehicles Collection 38|''Star Wars: The Official Starships & Vehicles Collection'' 38]]</ref>
+|height=166 meters<ref name="TOSAVC38" />
+|mass=
+|max accel=1,200 G<ref name="NEGTVV" />
+|mglt=40 [[Megalight|MGLT]]<ref name="BtM" />
+|max speed=800 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="BtM" /><ref name="NEGTVV" />
+|maneuverability=
+|engine=[[Kuat Drive Yards/Legends|Kuat]] [[Galaxy-15 ion engine/Legends|Galaxy-15 ion engines]] (7)<ref name="EGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|hyperdrive=*Class 2.0<ref name="BtM" /><ref name="NEGTVV" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref><ref name="RAS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=*[[Serridge/Legends|Serridge]] [[SEAL Shielding System/Legends|SEAL]] [[Deflector shield/Legends|shielding]] system<ref name="BtM" />
+*Enhanced [[Delphus/Legends|Delphus]] [[JC-671 deflector shield generator/Legends|JC-671 projectors]]<ref name="BtM" />
+*Rated 960 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=[[Titanium/Legends|Titanium]]-reinforced alloy<ref name="BtM" /> {{C|rated 448 [[RU/Legends|RU]]}}<ref name="XWA" />
+|sensor=[[Fabritech/Legends|Fabritech]] [[ANs-9.5w wide range sensor system]]<ref name="SWSE">[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]</ref><ref name="TOSAVC38" />
+|target=[[Plat Dromma]] [[Targeting computer/Legends|targeting computer]]
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="RAS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Medium<ref name="AOR CRB" /> [[Taim & Bak/Legends|Taim & Bak]] [[XI7 Turbolaser/Legends|XI7 turbolaser]]<ref name="BtM" /> [[Turret/Legends|turrets]] (12)<ref name="AOR CRB" />
+**6 fore<ref name="RAS2">[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]</ref>
+**3 port<ref name="RAS2" />
+**3 starboard<ref name="RAS2" />
+*Light<ref name="AOR CRB" /> [[Point-defense laser cannon/Legends|point-defense]]<ref name="Starships" /> [[Borstel Galactic Defense/Legends|Borstel]] [[RH8 laser cannon/Legends|RH8 laser cannon]]<ref name="BtM" /> [[Turret/Legends|turrets]] (12)<ref name="AOR CRB" />
+**6 fore<ref name="RAS2" />
+**2 port<ref name="RAS2" />
+**2 starboard<ref name="RAS2" />
+**2 aft<ref name="RAS2" />
+*Heavy<ref name="AOR CRB" /> [[Phylon Freight/Legends|Phylon]] [[Q7 tractor beam projector/Legends|Q7]] [[Tractor beam/Legends|tractor beam]] [[Tractor beam projector/Legends|projectors]] (2)<ref name="BtM" />
+Typical:
+*[[Warhead/Legends|Warhead]] launcher (1)<ref name="TF">[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]</ref>
+**[[Advanced concussion missile]]s<ref name="TF" />
+**[[Torpedo/Legends|Torpedoes]]<ref name="DE">''[[Star Wars: Dark Empire]]''</ref>
+|complement=*[[Starfighter/Legends|Starfighters]] (24)<ref name="XWA" /><ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+*[[Shuttle/Legends|Shuttles]], e.g.:
+**[[Lambda-class T-4a shuttle/Legends|''Lambda''-class]]<ref name="XWA" />
+**[[Grek-class troop shuttle/Legends|''Grek''-class]]<ref name="FOP">''[[The Far Orbit Project]]''</ref>
+**[[Katarn-class boarding shuttle|''Katarn''-class]]<ref name="FOP" />
+|bays=
+|escapepods=
+|crew=*Crew (854)<ref name="RAS" />
+*[[Gunner/Legends|Gunners]] (66)<ref name="BtM" />
+|skeleton=307<ref name="RAS" />
+|passengers=75 [[Trooper/Legends|troops]]<ref name="RAS" /><ref name="XWA" /><ref name="BtM" />
+|capacity=6,000 [[Metric ton/Legends|metric tons]]<ref name="BtM" />
+|cargohandling=
+|consumables=2 [[Standard year/Legends|years]]<ref name="RAS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Not available for sale<ref name="RAS" />
+|role=*Escort [[Starship/Legends|starship]]<ref name="RAS">''[[The Rebel Alliance Sourcebook]]''</ref>
+*Picket<ref name="AOR CRB" />
+*[[Starfighter screen]]ing<ref name="Starships" />
+*Long-range patrol<ref name="Starships" />
+*Search and rescue<ref name="Starships" />
+*[[Command ship/Legends|Command ship]]<ref name="Starships" />
+*[[Assault ship/Legends|Assault ship]]<ref name="Starships" />
+*[[Hospital ship/Legends|Medical frigate]] {{C|modification}}<ref name="Starships" />
+|firstuse=[[19 BBY/Legends|19 BBY]]<ref name="AOR CRB" />
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="XWA" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="RS II">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+*[[New Republic/Legends|New Republic]]
+*[[Zann Consortium/Legends|Zann Consortium]]<ref name="FoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+*[[Ripoblus government]]<ref name="TF" />
+*[[Zsinj's Empire]]<ref name="Wraith">''[[X-Wing: Wraith Squadron]]''</ref>
+*[[Five Worlds]]
+*[[Confederation]]
+*[[Black Sun/Legends|Black Sun]]<ref name="SWL37">[[Legacy (2006) 37|''Legacy'' (2006) 37]]</ref>
+*[[Galactic Alliance Remnant]]<ref name="Legacy 47">[[Legacy (2006) 47|''Legacy'' (2006) 47]]</ref>
+}}
+{{Quote|Just once, I'd like to destroy a starship that ''we'' didn't pay for!|[[Galactic Empire/Legends|Imperial]] [[Admiral/Legends|Admiral]] [[Hurkk]] at the [[Battle of Oovo IV|Battle of]] [[Oovo IV/Legends|Oovo IV]]|<ref name="NEGTVV" />}}
+The '''EF76 Nebulon-B escort frigate''' was a 300-[[Meter/Legends|meter]]-long [[Warship/Legends|warship]] that was built by [[Kuat Drive Yards/Legends|Kuat Drive Yards]] for use by the [[Imperial Navy/Legends|Imperial Navy]], to protect convoys from [[Alliance to Restore the Republic/Legends|Rebel Alliance]] [[Starfighter/Legends|starfighter]] actions. It was, however, used more famously by the Rebellion.
+
+==Characteristics==
+The standard Nebulon-B [[Frigate/Legends|frigate]] was armed with twelve [[Turbolaser/Legends|turbolasers]], twelve [[Laser cannon/Legends|laser cannons]], and two [[Tractor beam/Legends|tractor beam]] projectors. It was designed to carry twenty-four [[TIE series/Legends|TIE Series]] starfighters.
+
+While generally well-armed for a vessel of that size, the midsection connecting spar was an exploitable vulnerability. It could be [[Provocateur|split open]] by concentrated heavy weapons fire, venting the frigate's atmosphere and killing most of the crew.
+
+==History==
+[[File:NebulonB_schem.jpg|thumb|left|180px|Nebulon-B [[:Category:Technical drawing images|schematics]]]]
+The EF76 was introduced as a counterinsurgency ship late in the [[Clone Wars/Legends|Clone Wars]]. It largely phased out the [[Class-C frigate/Legends|Class-C frigate]]. The Nebulon-B was originally designed to defend [[Galactic Empire/Legends|Imperial]] convoys against raids by Rebel starfighters, as the [[Imperial Navy/Legends|Imperial Navy]] wasn't keen on the idea of relegating its expensive [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]] to escort duty, and the [[CR90 corvette/Legends|CR90 corvettes]] were too weak and carried few, if any, TIE fighters.
+
+The EF76 was used extensively by both sides in the [[Galactic Civil War/Legends|Galactic Civil War]]. The frigate was known and respected for its efficiency against fighters and [[Bomber/Legends|bombers]], and its anti-fighter assignment in Imperial convoys had an immediate impact, causing the Rebels to reconsider their hyperspace raids after suffering irreplaceable losses in fighters and pilots. They were often used to support larger [[Capital ship/Legends|capital ships]], such as [[Imperial I-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]] and Rebel [[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruisers]].
+
+In their starfleets, Imperial Admirals [[Mitth'raw'nuruodo/Legends|Thrawn]] and [[Demetrius Zaarin|Zaarin]] often used Nebulon-B frigates as command ships in lieu of the standard Star Destroyer.
+
+===Rebel usage===
+{{Quote|They're heading for the medical frigate!|Wedge Antilles during the [[Battle of Endor/Legends|Battle of Endor]]|<ref name="Episode 6">{{Film|VI}}</ref>}}
+Before the formal founding of the Rebel Alliance, the escort frigate [[Resurgence (EF76 Nebulon-B escort frigate)|''Resurgence'']] was used by the [[Alderaanian Resistance]] forces allied with [[Alya Aldrete]] and [[Bail Prestor Organa/Legends|Bail Prestor Organa]].<ref name="A Reckoning of Wraiths">{{DoD|A Reckoning of Wraiths}}</ref>
+
+[[File:EF76NEBBfrigate-Chron.png|thumb|left|180px|A Nebulon-B escort [[Frigate/Legends|frigate]]]]
+The Rebel Alliance also acquired a number of these ships through defection, capturing them in battle, or by outright theft. Indeed, one of their first flagships was a Nebulon-B captured in a skirmish over [[Ylesia/Legends|Ylesia]], which they christened the [[Salvation (flagship)|''Salvation'']]. The Rebels were not the only ones beyond the Empire to acquire Nebulon-B frigates. It was rumored that [[Kuat/Legends|Kuat]] Drive Yards would sell the frigates to interested third parties through secret fronts so as not to upset the Imperial Navy. The sale price was 19,400,000 [[Galactic Credit Standard/Legends|credits]], cited as a twentieth of the cost of an ''Imperial''-class [[Star Destroyer/Legends|Star Destroyer]]. The Rebels' usage of the Nebulon-B was extensive enough that, during the [[Battle of Oovo IV]], Imperial Admiral [[Hurkk]] once expressed irritation and pled that the Imperial fleet, if only once, could destroy a Rebel-owned starship that the Imperials did not originally pay for.<ref name="NEGTVV" />
+
+The Rebels found other uses for the ships which took advantage of their sophisticated [[Sensor/Legends|sensors]] and deep-space multifrequency antennas. Escort frigates were used as long-range scouts or search and rescue ships, or to relay information to [[Command ship/Legends|command ships]] during battle. In small, shorthanded Rebel task forces, Nebulon-B frigates often served as command ships. One Nebulon-B, the [[Redemption/Legends|''Redemption'']], served the Alliance as their primary hospital ship.
+
+All available Rebel Nebulon-B frigates were deployed at the [[Battle of Endor/Legends|Battle of Endor]], where they took a pivotal part in the battle. The ''Redemption'' was lost to the [[Death Star II/Legends|Death Star's]] [[Concave Dish Composite Beam Superlaser|superlaser]].
+
+The frigates were also used by the Rebellion's successor state, the [[New Republic/Legends|New Republic]].<ref name="DE" />
+
+==Variants==
+[[File:NebBengines_btm.jpg|thumb|left|180px|The Nebulon-B [[Hospital ship/Legends|medical frigate]] ''Redemption'']]
+The Rebels converted some of their Nebulon-B frigates into [[Hospital ship/Legends|medical vessels]], which served as mobile hospitals. Weaponry and hangar space was sacrificed to make room for treatment facilities, 15 bacta tanks, 745 beds, and other hospital suites.<ref name="SWTJ">''[[Star Wars Technical Journal]]''</ref> The crew was slightly modified to include an additional 80 medical personnel and 30 medical droids (such as the [[2-1B/Legends|2-1B]] model).<ref name="SWTJ" /> These ships could not carry any fighters, and their armament was reduced to 6 turbolasers (with computer-assisted targeting) and 8 laser cannons. [[Luke Skywalker/Legends|Luke Skywalker]] was treated for the injuries he [[Duel on Cloud City/Legends|suffered]] on [[Cloud City/Legends|Cloud City]] on board the medical frigate ''Redemption''.
+
+Kuat Drive Yards eventually produced an improved version of the Nebulon-B, the [[Nebulon-B2 frigate|Nebulon-B2]]. They were similar overall, but had higher sublight speed, improved shields and hull armor, a thicker connecting spar, and additional weaponry.
+
+Following the Battle of Endor, Kuat Drive Yards followed up on its successful Nebulon-B design with a new starship class, the 275-meter-long [[Corona-class frigate|''Corona''-class frigate]]. ''Corona''-class frigates were produced solely for the [[New Republic/Legends|New Republic]]. Because Corona frigates were not part of the New Republic's [[New Class Modernization Program]], orders for the ships remained modest. A number of them served in the [[Corellian Defense Force/Legends|Corellian Defense Force]] during the [[Second Galactic Civil War]].
+
+At least one EF76 was used to make up a secret retreat in [[137 ABY]].<ref name="SWL25">[[Legacy (2006) 25|''Legacy'' (2006) 25]]</ref> The criminal organization [[Black Sun/Legends|Black Sun]] used such a frigate around this time, where it was stationed near [[Vigo/Legends|Vigo]] [[Lun Rask]]'s [[Tibanna gas platform|headquarters]] over [[Kaer]].<ref name="SWL37" /> At least one was used during the [[Evacuation of Dac]].
+
+==Behind the scenes==
+The shape of the Nebulon-B, designed by [[Nilo Rodis-Jamero]], was inspired by an outboard motor.
+
+In the ''Star Wars: The Essential Guide to Vehicles'', the entry for the Nebulon-B Frigate is erroneously referred to as a "Rebel Cruiser," which can lead it to be confused with [[Mon Calamari Star Cruiser/Legends|Mon Calamari Star Cruisers]]. Most sources commonly refer to it as "Nebulon-B Frigate" or "Escort Frigate."
+
+[[File:Nebulon-b_negvv.png|thumb|right|180px|A Nebulon-B]]
+
+There is some dispute among fans on the claimed fighter capacity of the Nebulon-B. Computer games and the deck plans in ''[[The Far Orbit Project]]'' show a hangar in the forward hull, with a launch aperture in the starboard flank, but there seems to be no such opening on the model used in the movies. Other depictions in the computer games show starfighters docking and launching via an opening in the thin connection between the superstructure and drive bay.
+
+However, the ''[[The Rebel Alliance Sourcebook]]'', seemingly the source which first introduced the Nebulon-B's starfighter capability, mentions no internal hangars. The text simply says: "The escort frigate has the capacity to carry up to two squadrons of starfighters into battle. In addition, the ship has docking fixtures to accommodate ships of up to medium freighter size" (p. 60). Since [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] shows the "docking fixtures" to be external hardpoints on the spar between the prow superstructure and engines, it is possible that the fighters could also be carried on a rack along the spar, in the manner of [[Carrack-class light cruiser/Legends|''Carrack''-class cruisers]], [[Assault frigate/Legends|assault frigates]], and ''[[FarStar]]''.
+
+Additionally, some fans have speculated that some Nebulon-Bs could have been equipped with an enclosed hangar bay fitted under the spar, filling the space between the forward keel and the engine block. Perhaps added as aftermarket additions, such hangars would enable them to carry fighters like [[X-wing starfighter/Legends|X-wings]] more comfortably, and ''[[Kalla's Stanchion]]'', a ship that could belong to this subtype of the class, has appeared in Rebel Alliance hands in [[Empire 22|issue 22]] of ''[[Star Wars: Empire]]''. Although scaling extrapolations when compared with snubfighters shown in the same panels would suggest a size significantly larger than the 300m-long Nebulon-B, the two designs correspond closely in appearance, and the size discrepancy may simply be a result of artistic license in the comic-book art. Footage from the game ''[[Star Wars: The Force Unleashed II]]'' depicts the Nebulon-B frigate ''Salvation'' dwarfing the 65-meter ''[[Rogue Shadow]]'' by an order of magnitude.
+
+==Appearances==
+{{ScrollBox|content=
+{{Mediacat|imagecat=Images of EF76 Nebulon-B escort frigates}}
+*{{DoD|The Traitor's Gambit}}
+*{{DoD|A Wretched Hive (adventure)}}
+*{{DoD|Echoes of the Jedi}}
+*{{DoD|The Core of Corruption}}
+*{{DoD|A Reckoning of Wraiths}}
+*{{DoD|The Gem of Alderaan}}
+*{{DoD|Jaws of the Sarlacc}}
+*{{StoryCite|story=Therefore I Am: The Tale of IG-88|book=Tales of the Bounty Hunters}}
+*''[[Star Wars: The Force Unleashed II]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{StoryCite|story=The Farlander Papers|book=Star Wars: X-Wing (video game)}}
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*''[[Star Wars: Dark Forces]]''
+*''[[Star Wars: Dark Forces Remaster]]''
+*''[[Star Wars: Force Commander]]''
+*[[X-Wing Rogue Squadron ½|''X-Wing Rogue Squadron'' ½]]
+*[[Empire 12|''Empire'' 12]] {{Flash}}
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*{{WEGCite|story=Preparing for War|book=The Far Orbit Project}}
+*{{WEGCite|story=The Hijacking of Shipment 1037|book=The Far Orbit Project}}
+*{{WEGCite|story=The Capture of Coh Veshiv|book=The Far Orbit Project}}
+*{{WEGCite|story=The Rival|book=The Far Orbit Project}}
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+*{{WEGCite|story=Raid on Brentaal|book=The Far Orbit Project}}
+*{{WEGCite|story=Hunter/Hunted|book=The Far Orbit Project}}
+*{{WEGCite|story=The Grand Prize|book=The Far Orbit Project}}
+*"[[Deadly Reunion]]" {{Reprint|Deadly Reunion}}
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*"[[The Paradise Detour]]" {{Reprint|The Paradise Detour}}
+*[[Empire 20|''Empire'' 20]]
+*[[Empire 21|''Empire'' 21]]
+*[[Empire 22|''Empire'' 22]]
+*[[Empire 27|''Empire'' 27]]
+*''[[Strike Force: Shantipole]]'' {{Reprint|Strike Force: Shantipole}}
+*[[Rebellion 2|''Rebellion'' 2]]
+*[[Rebellion 3|''Rebellion'' 3]]
+*[[Rebellion 4|''Rebellion'' 4]]
+*[[Rebellion 5|''Rebellion'' 5]]
+*[[Rebellion 11|''Rebellion'' 11]]
+*[[Rebellion 14|''Rebellion'' 14]]
+*[[Rebellion 15|''Rebellion'' 15]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*''[[Introductory Adventure Game]]''
+*[[Black Ice (adventure)|''Black Ice'']]
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}}
+*''[[Onslaught at Arda I]]'' {{Hologram}} {{Po}}
+*{{WEGCite|story=Showdown (The Bissillirus Campaign)|book=Star Wars Gamemaster Kit|reprint=1}}
+*{{WEGCite|story=Into the Heat of Battle|book=Instant Adventures}}
+*[[Starfall (adventure)|''Starfall'']] {{Reprint|Starfall (adventure)}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*[[Star Wars: TIE Fighter (video game)|''Star Wars: TIE Fighter'']]
+*{{StoryCite|story=The Stele Chronicles|book=Star Wars: TIE Fighter (video game)}}
+*''[[A Valentine Story]]''
+*{{Film|V}} {{1st}}
+*''[[Super Star Wars: The Empire Strikes Back]]''
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*[[Star Wars (1977) 44|''Star Wars'' (1977) 44]] {{Reprint|Star Wars (1977) 44}}
+*{{ESBRadio|The Clash of Lightsabers}}
+*{{WEGCite|story=Droids Can't Fly|book=Shadows of the Empire Sourcebook}}
+*[[Star Wars (1977) 51|''Star Wars'' (1977) 51]] {{Reprint|Star Wars (1977) 51}}
+*[[Star Wars (1977) 55|''Star Wars'' (1977) 55]] {{Reprint|Star Wars (1977) 55}}
+*''[[The Further Adventures: Planet of the Hoojibs]]'' {{Po}}
+*[[Star Wars (1977) 58|''Star Wars'' (1977) 58]] {{Reprint|Star Wars (1977) 58}}
+*{{FFG|story=Phantoms in the Dark|book=Strongholds of Resistance}}
+*{{WEGCite|story=Lost Destiny|book=Tapani Sector Instant Adventures}}
+*''[[Star Wars Adventures: The Will of Darth Vader]]''
+*''[[Star Wars: X-Wing vs. TIE Fighter]]''
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (novel)|''Star Wars: Shadows of the Empire'' novel]]
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*[[Star Wars: Episode VI Return of the Jedi (junior novelization)|''Star Wars'': Episode VI ''Return of the Jedi'' junior novelization]]
+*''[[Hard Merchandise]]''
+*[[Return of the Jedi 3|''Return of the Jedi'' 3]] {{Reprint|Return of the Jedi 3}}
+*{{StoryCite|story=One Last Night in the Mos Eisley Cantina: The Tale of the Wolfman and the Lamproid|book=Tales from the Mos Eisley Cantina}}
+*[[Return of the Jedi 4|''Return of the Jedi'' 4]] {{Reprint|Return of the Jedi 4}}
+*{{Tales|12|A Day in the Life}}
+*[[X-Wing: Rogue Leader 1|''X-Wing: Rogue Leader'' 1]]
+*[[X-Wing: Rogue Leader 3|''X-Wing: Rogue Leader'' 3]]
+*[[Star Wars (1977) 98|''Star Wars'' (1977) 98]] {{Reprint|Star Wars (1977) 98}}
+*{{Tales|23|Lucky (comic story)}}
+*{{GalaxyCite|3|Lumiya: Dark Star of the Empire}}
+*[[X-Wing Rogue Squadron 9|''X-Wing Rogue Squadron'' 9]]
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]] {{Flash}}
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 28|''X-Wing Rogue Squadron'' 28]]
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*{{WEGCite|story=For a Few Kilotons More|book=Twin Stars of Kira (sourcebook)}} {{ID|Nebulon-B Frigate}}
+*''[[X-Wing: Rogue Squadron]]'' {{Ab|X-Wing: Rogue Squadron (unabridged audiobook)}}
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*''[[X-Wing: Iron Fist]]'' {{Ab|X-Wing: Iron Fist (unabridged audiobook)}}
+*''[[X-Wing: Solo Command]]'' {{Ab|X-Wing: Solo Command (unabridged audiobook)}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[The Courtship of Princess Leia]]'' {{Ab|The Courtship of Princess Leia (unabridged audiobook)}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*[[Dark Empire 1|''Dark Empire'' 1]]
+*[[Dark Empire 4|''Dark Empire'' 4]]
+*[[Dark Empire 6|''Dark Empire'' 6]]
+*''[[Star Wars: Jedi Knight: Mysteries of the Sith]]''
+*[[Dark Empire II 1|''Dark Empire II'' 1]]
+*''[[Champions of the Force]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*''[[Star Wars: Jedi Knight II: Jedi Outcast]]'' {{Mo}}
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Shield of Lies]]''
+*{{JournalCite|15|Two for One}}
+*''[[Specter of the Past]]'' {{Ab|Specter of the Past (unabridged audiobook)}}
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*''[[Young Jedi Knights: The Emperor's Plague]]''
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]''
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Force Heretic I: Remnant]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[Legacy of the Force: Inferno]]''
+*{{StoryCite|story=Celestia Galactica Photografica|book=Star Wars: Visionaries}}
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+*[[Legacy (2006) 37|''Legacy'' (2006) 37]]
+*[[Legacy (2006) 47|''Legacy'' (2006) 47]]
+
+[[File:EF76_EGTW.jpg|thumb|250px|A frigate in an Imperial ambush]]
+}}
+
+===Non-canon appearances===
+*<!-- 2000-XX-XX -->"[[Child of Light]]" {{Un}}
+*<!-- 2001-12-12 -->{{Tales|10|Free Memory}}
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1982-XX-XX -->[[The Empire Strikes Back Coloring Book (1982)|''The Empire Strikes Back Coloring Book'' (1982)]]
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']] {{Po}}
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]''
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]''
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1990-06-XX -->''[[Galaxy Guide 6: Tramp Freighters]]''
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]''
+*<!-- 1991-09-XX -->''[[Star Wars Gamemaster Kit]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1992-12-XX -->''[[Star Wars Gamemaster Screen]]''
+*<!-- 1993-04-XX -->''[[Dark Force Rising Sourcebook]]''
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->''[[X-Wing: The Official Strategy Guide]]''
+*<!-- 1993-11-XX -->''[[Han Solo and the Corporate Sector Sourcebook]]''
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}}
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-07-18 -->''[[TIE Fighter: The Official Strategy Guide]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1994-11-XX -->{{JournalCite|4|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1995-04-XX -->''[[Dark Forces Official Player's Guide]]'' {{Imo}}
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-05-XX -->''[[TIE Fighter: Defender of the Empire: Official Secrets & Solutions]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[TIE Fighter Collector's CD-ROM: The Official Strategy Guide]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-05-XX -->{{JournalCite|10|Cracken's Rebel Operatives (article)}} {{ID|Nebulon-B}}
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]''
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+*<!-- 1996-09-XX -->{{Topps|set=1996 Topps Star Wars: Shadows of the Empire|cardname=Vader Destroys the Rebel Base|link=https://www.rebelscum.com/photo.asp?image=/sote/soteTC029.jpg}}
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1996-10-XXF -->''[[Endgame]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-04-XX -->{{CCG|set=Dagobah Limited|cardname=''IG-2000''}}
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=Rebel Cruiser}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Haven}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Redemption}}
+}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1997-XX-XX -->''[[Rules of Engagement: The Rebel SpecForce Handbook]]'' {{ID|escort frigate}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1998-10-05 -->''[[Star Wars: The Visual Dictionary]]''
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Docking And Repair Facilities}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Kuat Drive Yards}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Rebel Fleet}}
+}}
+*<!-- 1998-XX-XX -->''[[Classic Adventures: Volume Five]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+<!-- 2000-07-19 -->{{CardGameSet|set={{CCG|set=Death Star II Limited|parent=1}}|cards=
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Capital Support}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Combat Response}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Heading For The Medical Frigate}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Launching The Assault}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Nebulon-B Frigate}}
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=Strikeforce}}
+}}
+*<!-- 2000-11-22 -->''[[Star Wars Roleplaying Game Core Rulebook]]''
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}} {{Po}}
+*<!-- 2001-02-XX -->{{GamerCite|2|A Legacy of Starships}}
+*<!-- 2001-10-10 -->{{JKTCG|set=Masters of the Force|cardname=Count Me In}}
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-02-20 -->{{FactFile|8|END 5-6|The Battle of Endor}}
+*<!-- 2002-03-27 -->{{FactFile|13|KUA 1-4|Kuat Drive Yards}}
+*<!-- 2002-04-10 -->{{FactFile|15|NEB 1-2|Nebulon-B Frigate}}
+*<!-- 2002-05-XX -->''[[Star Wars Roleplaying Game Revised Core Rulebook]]''
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-06-XX -->''[[Hero's Guide]]''
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Kuat Nebulon-B Frigate|link=https://swtcg.com/Content/Images/Cards/ESB/Kuat_Nebulon_B_Frigate.webp?v=2}}
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]]
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{ID|EF76B escort ship," "Nebulon-B escort frigate}}
+*<!-- 2010-02-25 -->[[Star Wars: The Official Starships & Vehicles Collection 38|''Star Wars: The Official Starships & Vehicles Collection'' 38]]
+*<!-- 2011-08-19 -->{{SonyCite|url=players/news_archive.vm?id=69208&month=082011|text=Galactic Civil War 2 &ndash; Space: The Ships}}
+*<!-- 2011-09-13 -->{{DB|starship|escortfrigate|escort frigate}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-09-14 -->{{FFGXW|set=Y-Wing Expansion Pack|cardname=Gray Squadron Pilot}} {{Po}}
+<!-- 2012-12-20 -->{{CardGameSet|set={{FFGTCG|set=Star Wars: The Card Game Core Set|parent=1}}|cards=
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=''Redemption''|link=core/redemption-core-6-2}} {{Po}}
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=The Rebel Fleet|link=core/the-rebel-fleet-core-11-1}} {{Po}}
+}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=''Thunderflare''|link=balance-of-the-force/thunderflare-balance-of-the-force-95-2}} {{Po}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]] {{Po}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]]
+*<!-- 2014-07-24 -->{{FFGTCG|set=It Binds All Things|cardname=''Liberty''|link=echoes-of-the-force-cycle/it-binds-all-things/liberty-r770}} {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-15 -->{{SWIA|set=Star Wars: Imperial Assault Core Set|text=Core Set}} {{Po}}
+*<!-- 2015-02-25 -->{{BuildFalconCite|8|Guide to the Galaxy}} {{Po}}
+<!-- 2015-03-27 -->{{CardGameSet|set={{Armada|set=Core Set}}|cards=
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=CR90 Corvette A|reprint=1}} {{Po}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=Nebulon-B Escort Frigate|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=Nebulon-B Support Refit|reprint=1}}
+*<!-- 2015-03-27 -->{{Armada|set=Core Set|cardname=''Redemption''|reprint=1}}
+}}
+*<!-- 2015-04-09 -->{{FFGTCG|set=Draw Their Fire|cardname=Gray Squadron Y-Wing|link=rogue-squadron/draw-their-fire/gray-squadron-y-wing-r1261}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Attacking the Convoy}} {{Po}}
+*<!-- 2015-05-14 -->{{Armada|set=Assault Frigate Mark II Expansion Pack|cardname=Point Defense Reroute|reprint=1}} {{Po}}
+*<!-- 2015-05-14 -->{{Armada|set=Rebel Fighter Squadrons Expansion Pack|cardname=Y-wing Squadron}} {{Po}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Resupply Depot|link=rogue-squadron/evasive-maneuvers/resupply-depot-r1291}} {{Po}}
+*<!-- 2015-06-18 -->''[[Desperate Allies]]'' {{Po}}
+*<!-- 2015-07-21 -->{{InsiderCite|159|Death to the Dark Side!: The Making of Dark Empire &ndash; Part III|Death to the Dark Side!: The Making of ''Dark Empire'' &ndash; Part III|reprint=1}}
+}}
+
+==Notes and references==
+{{ScrollBox|content={{Reflist}}}}
+
+{{Interlang
+|de=EF76 Nebulon-B-Eskortfregatte#legends
+|es=Fragata de escolta EF76 Nebulón-B/Leyendas
+|it=Fregata di Scorta EF76 Nebulon-B
+|no=EF76 Nebulon-B Eskortefregatt‎
+|pl=Fregata eskortowa EF76 Nebulon-B/Legendy
+|pt=Legends:Fragata de escolta EF76 Nebulon-B
+}}
+
+[[Category:Frigate classes]]
+[[Category:Kuat Drive Yards products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Empire]]
+
+{{RelatedCategories
+|[[Category:EF76 Nebulon-B escort frigates]]
+}}
+[[Category:Starship classes of the New Republic]]

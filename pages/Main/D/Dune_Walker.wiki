@@ -1,0 +1,78 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=[[File:Dune_Walker_CCG.jpg]]
+|name=Dune Walker
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="DB">{{DB|vehicle|atat|All Terrain Armored Transport (AT-AT walker)}}</ref>
+|line=[[AT-series/Legends|All Terrain]] series<ref name="DB" />
+|model=[[All Terrain Armored Transport/Legends|All Terrain Armored Transport]]<ref name="CCG">{{CCG|set=Special Edition Limited|cardname=Dune Walker}}</ref>
+|type=[[Walker/Legends|Walker]]<ref name="DB" />
+|cost=
+|modifier=
+|sysmods=*Lack of tertiary weapons systems<ref name="CCG" />
+*Additional [[Sienar Fleet Systems/Legends|Sienar]] [[z23 heat dissipation unit]]s<ref name="CCG" />
+|length=20 [[Meter/Legends|meters]]<ref name="TNEGtVaV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|width=
+|height=15.5 meters<ref name="DB" />
+|mass=
+|max accel=
+|speed=60 [[Kilometer per hour/Legends|km/h]] (over flat terrain)<ref name="TNEGtVaV" />
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*[[Heavy laser cannon/Legends|Heavy laser cannons]] (2)<ref name="TNEGtVaV" />
+*Medium [[Blaster cannon/Legends|blaster cannons]] (2)<ref name="TNEGtVaV" />
+|complement=[[Speeder bike/Legends|Speeder bikes]] (5)<ref name="DB" />
+|bays=
+|escapepods=
+|crew=*[[Commander/Legends|Commander]] (1)<ref name="DB" />
+*[[Vehicle Command Crewer|Pilot]] (1)<ref name="DB" />
+*[[Gunner/Legends|Gunner]] (1)<ref name="DB" />
+|skeleton=3<ref name="TNEGtVaV" />
+|passengers=Up to 40 [[Stormtrooper/Legends|stormtroopers]]<ref name="TNEGtVaV" />
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Armor/Legends|Armored]] [[Transport/Legends|transport]]<ref name="CCG" />
+*[[Desert/Legends|Desert]] terrain walker<ref name="DB" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="DB" />
+}}
+The '''Dune Walker''' was a modified version of the [[All Terrain Armored Transport/Legends|All Terrain Armored Transport]] used by the [[Galactic Empire/Legends|Galactic Empire]]. It was specifically designed to serve on [[Planet/Legends|planets]] with hot climates.
+
+==Characteristics==
+[[All Terrain Armored Transport/Legends|All Terrain Armored Transports]] were often modified to be more effective in certain missions. For this purpose, the [[Galactic Empire/Legends|Galactic Empire]] equipped them with special components for specific environments.<ref name="TNEGtVaV" />
+
+The Dune Walker was one such variant which was adapted for hot climates. This [[Desert/Legends|desert]] terrain [[Walker/Legends|walker]] was modified by replacing its tertiary weapons systems with additional [[Sienar Fleet Systems/Legends|Sienar]] [[z23 heat dissipation unit]]s.<ref name="CCG" /> These modifications allowed the Dune Walker to perform long marches on hot [[Planet/Legends|worlds]].<ref name="TNEGtVaV" />
+
+==Behind the scenes==
+The Dune Walker was created for the ''[[Special Edition Limited]]'' set of the [[Star Wars Customizable Card Game|''Star Wars'' Customizable Card Game]], which was released on [[November]] of [[1998]].<ref name="CCG" />
+
+==Sources==
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Dune Walker}} {{1st}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2011-09-13 -->{{DB|vehicle|atat|All Terrain Armored Transport (AT-AT walker)}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|uk=Дюнний всюдихід
+}}
+
+[[Category:AT-series models|Armored Transport Dune]]
+[[Category:Kuat Drive Yards products]]
+[[Category:Vehicle classes of the Galactic Empire]]

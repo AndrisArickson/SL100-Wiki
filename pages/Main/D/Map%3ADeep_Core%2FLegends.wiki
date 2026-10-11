@@ -1,0 +1,218 @@
+{
+    "mapImage": "DeepCore-TEA.png",
+    "pageCategories": [
+        "Interactive_Maps_of_Galactic_Regions",
+        "Legends_articles"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1864,
+            2261
+        ]
+    ],
+    "origin": "top-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Featured articles",
+            "color": "#ffff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Good articles",
+            "color": "#00ff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Comprehensive articles",
+            "color": "#ff0000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Arbitrary position in given grid square",
+            "color": "#ff9900",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "id": "8",
+            "categoryId": "4",
+            "position": [
+                1410,
+                1308
+            ],
+            "popup": {
+                "title": "Kampe",
+                "description": ".",
+                "link": {
+                    "url": "Kampe",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "1",
+            "categoryId": "3",
+            "position": [
+                606,
+                1556
+            ],
+            "popup": {
+                "title": "Abanol",
+                "description": ".",
+                "link": {
+                    "url": "Abanol",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "2",
+            "categoryId": "3",
+            "position": [
+                610,
+                1556
+            ],
+            "popup": {
+                "title": "Relus",
+                "description": ".",
+                "link": {
+                    "url": "Relus",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "3",
+            "categoryId": "2",
+            "position": [
+                918,
+                912
+            ],
+            "popup": {
+                "title": "Ashla",
+                "description": ".",
+                "link": {
+                    "url": "Ashla_(moon)\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "4",
+            "categoryId": "2",
+            "position": [
+                920,
+                750
+            ],
+            "popup": {
+                "title": "Atale",
+                "description": ".",
+                "link": {
+                    "url": "Atale\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "5",
+            "categoryId": "2",
+            "position": [
+                924,
+                750
+            ],
+            "popup": {
+                "title": "Unidentified orbital security station",
+                "description": ".",
+                "link": {
+                    "url": "Unidentified_orbital_security_station",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "6",
+            "categoryId": "2",
+            "position": [
+                972,
+                672
+            ],
+            "popup": {
+                "title": "Starswarm Cluster",
+                "description": ".",
+                "link": {
+                    "url": "Starswarm_Cluster\/Legends",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "7",
+            "categoryId": "2",
+            "position": [
+                432,
+                1106
+            ],
+            "popup": {
+                "title": "Odik II",
+                "description": ".",
+                "link": {
+                    "url": "Odik_II",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "id": "9",
+            "categoryId": "2",
+            "position": [
+                1406,
+                1308
+            ],
+            "popup": {
+                "title": "Kampe",
+                "description": ".",
+                "link": {
+                    "url": "Kampe",
+                    "label": "See more"
+                }
+            }
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                976.01245171802,
+                1090.3657179223
+            ],
+            "popup": {
+                "title": "Tsoss Beacon",
+                "description": "",
+                "link": {
+                    "url": "Tsoss Beacon\/Legends",
+                    "label": "See more"
+                }
+            },
+            "id": "10"
+        }
+    ]
+}

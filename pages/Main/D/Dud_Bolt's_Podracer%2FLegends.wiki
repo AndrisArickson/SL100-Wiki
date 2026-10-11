@@ -1,0 +1,69 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=
+|name=Dud Bolt's Podracer
+|designer=
+|manufacturer=
+|line=
+|model=[[Vulptereen 327/Legends|Vulptereen 327]]<ref name="Podracer">{{DB|vehicle|dudboltspodracer|Podracer, Dud Bolt's}}</ref>
+|type=[[Podracer/Legends|Podracer]]<ref name="Podracer" />
+|cost=
+|modifier=
+|sysmods=
+|length=*3.66 [[Meter/Legends|meters]] (cockpit)<ref name="Podracer" />
+*7.92 meters (engines)<ref name="Podracer" />
+|width=
+|height=
+|mass=
+|max accel=
+|speed=760 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]]<ref name="Podracer" />
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Podracer (profession)/Legends|podracer pilot]]<ref name="Podracer" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Podracing/Legends|Podracing vehicle]]<ref name="Podracer" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+'''Dud Bolt's Podracer''' was a [[Vulptereen 327/Legends|Vulptereen 327]] [[Podracer/Legends|Podracer]] owned and operated by [[Dud Bolt/Legends|Dud Bolt]]. The vehicle had great traction, but poor [[Engine/Legends|engine]] ventilation and acceleration with a top speed of 760 [[Kilometer/Legends|kilometers]] per [[Standard hour/Legends|hour]].<ref name="Podracer" />
+
+{{Veh-stub}}
+
+==Appearances==
+*{{Film|I}} {{1st}}
+
+==Sources==
+*<!-- 2001-05-11 -->{{CCG|set=Tatooine Limited|cardname=Dud Bolt's Podracer}} {{ID|RS 557 Podracer}}
+*<!-- 2011-09-13 -->{{DB|vehicle|dudboltspodracer|Podracer, Dud Bolt's}}
+*<!-- 2011-09-13 -->{{DB|character|dudbolt|Bolt, Dud}}
+{{MoreSources}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bolt, Dud's Podracer}}
+[[Category:Personal podracers]]

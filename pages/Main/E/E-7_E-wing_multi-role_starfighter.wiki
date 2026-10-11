@@ -1,0 +1,217 @@
+{{Top|canon=E-wing starfighter}}
+{{Update|[[Stay on Target (sourcebook)|Stay on Target]]}}
+{{StarshipClass
+|image=[[File:E-7_E-wing_multi-role_starfighter_SoT.png]]
+|name=E-7 E-wing multi-role starfighter
+|designer=
+|manufacturer=[[FreiTek Incorporated/Legends|FreiTek Inc.]]<ref name="Target">[[Stay on Target (sourcebook)|''Stay on Target'']]</ref>
+|line=E-wing
+|model=E-7 E-wing multi-role starfighter<ref name="Target" />
+|type=Escort [[Starfighter/Legends|starfighter]]
+|cost=*160,000<ref name="Target" /> - 200,000 [[Galactic Credit Standard/Legends|credits]]<ref name="SotG">''[[Starships of the Galaxy]]''</ref><ref name="SotGS" />
+*80,000 credits used<ref name="SotGS" />
+|modifier=
+|sysmods=
+|length=11.2 [[Meter/Legends|meters]]<ref name="FF">[[The Official Star Wars Fact File 75|''The Official Star Wars Fact File'' 75]]</ref>
+|width=
+|height=
+|mass=
+|max accel=4,200 G
+|mglt=120 MGLT<ref name="FF" />
+|max speed=1,300 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="SotGS">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+|maneuverability=
+|engine=FreiTek [[J8LF fusial thrust engine]]s (2)<ref name="Target" />
+|hyperdrive=Class 1.0<ref name="Target" /> or 2<ref name="DB">{{DB|starship|ewing|E-wing starfighter}}</ref><ref name="SotG" /><ref name="SotGS" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]
+|poweroutput=
+|power=[[Power generator/Legends|Power generator]]<ref name="TEGtVaV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|shield gen=[[Deflector shield generator/Legends|Deflector shield generator]]<ref name="TEGtVaV" />
+|hull=Heavy [[Armor/Legends|armor]]<ref name="DB" />
+|sensor=Primary [[Sensor/Legends|sensor array]]<ref name="DB" />
+|target=Fire control systems<ref name="Target" />
+|navigation=10-jump memory ([[Astromech droid/Legends|astromech]])<ref name="SotGS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Heavy<ref name="DB" /><ref name="SotG" /> [[Taim & Bak/Legends|Taim & Bak]] [[IX9 medium laser cannon]]s (3)<ref name="Target" />
+*[[Proton torpedo launcher/Legends|Proton torpedo launchers]] (2)<ref name="TEGtVaV" /><ref name="Target" />
+**16 [[Proton torpedo/Legends|Proton torpedoes]]<ref name="TEGtVaV" /><ref name="FF" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="Target" />
+*[[R7-series astromech droid]] (1)<ref name="FF" />
+|skeleton=
+|passengers=None
+|capacity=100<ref name="FF" /> - 110 kg<ref name="SotG" /><ref name="DB" /><ref name="SotGS" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="FF" /><ref name="Target" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Multi-role starfighter<ref name="Target" />
+*Space [[superiority fighter]]<ref name="DB" /><ref name="Target" />
+*Medium assault fighter<ref name="TEGtVaV" />
+*Close-support fighter<ref name="TEGtVaV" />
+*Reconnaissance
+*Escort
+|firstuse=
+|retired=
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="Target" />
+*[[New Republic/Legends|New Republic]]
+*[[Peace Brigade]]
+*[[Galactic Federation of Free Alliances]]
+}}
+{{Quote|I say let the Imperials keep coming, because every time a new admiral crawls out of the Outer Rim or some Imperial goon finds a lost superweapon, Rogue Squadron gets a new starfighter. Seems like a good deal to me.|[[General/Legends|General]] [[Wedge Antilles/Legends|Wedge Antilles]]|<ref name="The New Essential Guide to Vehicles and Vessels">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>}}
+The '''E-7 E-wing multi-role starfighter''',<ref name="Target" /> also called '''E-wing escort starfighter''', was a single-[[Pilot/Legends|pilot]] [[Starfighter/Legends|starfighter]] developed by [[FreiTek Incorporated/Legends|FreiTek Inc.]] It was notable for being the first fighter designed entirely under the support of the [[New Republic/Legends|New Republic]]. E-wings deployed with updated laser cannons were known as the '''[[E-wing: Type B|Type B]]'''.
+
+As designed, the E-wing was intended to match or exceed the performance of the preceding [[T-65 X-wing starfighter/Legends|X-wing series]] in every respect, and was meant to replace the older design in New Republic service. However, the craft suffered from several significant problems when first deployed among front-line squadrons. The most serious of these problems included malfunction issues with the wing-mounted [[Laser cannon/Legends|laser cannons]] and the new [[R7-series astromech droid|R7 astromech]] units, which had been designed specifically for the E-wing. As a result, many pilots continued to fly the older but more reliable X-wing series.
+
+Despite the initial problems, improved models of the E-wing would eventually see widespread use by the New Republic, particularly by the [[New Republic Fifth Fleet|Fifth Fleet]], and later by the [[Galactic Federation of Free Alliances|Galactic Alliance]]. E-wings would go on to play a significant role in every engagement from the [[Black Fleet Crisis]], through the [[Yuuzhan Vong War]], and beyond.
+
+By the time of the [[Second Galactic Civil War]], the E-wing had matured into an excellent starfighter design and equipped several elite squadrons of the Galactic Alliance. However, despite being a more advanced design, the E-wing never achieved the same popularity as the famous X-wing series.
+
+==Characteristics==
+[[File:E-wing_schem.jpg|thumb|left|160px|E-wing
+[[:Category:Technical drawing images|schematics]].]]
+
+The E-wing was considered an excellent combination of firepower, maneuverability, speed, and armor, but initial models required the use of the [[R7-series astromech droid]], which was exclusively built for the E-wing.
+
+The spaceframe of the E-wing was surrounded by two aerodynamic foils which provided stability and increased weapons ability. The nosecone contained the starfighter's powerful [[Sensor/Legends|sensors]], while a concealed [[Astromech droid/Legends|astromech droid]] could easily be positioned midway through the craft. Directly in front of the [[Astromech socket/Legends|astromech slot]] was the cockpit.
+
+The fighter was heavily armed with three [[Laser cannon/Legends|laser cannons]] and one [[Proton torpedo/Legends|proton torpedo]] launcher with a magazine of sixteen torpedoes. Like most [[Alliance to Restore the Republic/Legends|Rebel]] designs, the lasers were spread out and could be set to converge at varying distances.
+
+A single E-wing cost 185,000 [[Galactic Credit Standard/Legends|credits]].
+
+Much of the great cost of the E-wing came from the use of the R7 droid, a much more sophisticated and expensive astromech than the classic [[R2-series astromech droid/Legends|R2]] and [[R5-series astromech droid|R5]] astromechs.
+Later models of the E-wing starfighters were however able to interface with earlier astromech models, such as an R2 or R5 unit.
+
+==History==
+[[File:Ewing_cockpit.jpg|thumb|right|180px|An E-wing cockpit.]]</div>
+The Republic introduced the E-wing during [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn's]] [[Thrawn campaign|campaign]] to rebuild [[Thrawn's confederation|the fallen]] [[Galactic Empire/Legends|Empire]]. The fighter later served in the fight against the resurrected [[Palpatine/Legends|Palpatine]]. Built with cutting-edge weapons, shielding, and propulsion systems, the fighter was extremely powerful and well-rounded. It was intended as an escort fighter and could also serve as a medium-range assault craft. It had enough speed to counter [[TIE/IN interceptor/Legends|TIE/IN interceptors]] and had better armor than other New Republic starfighters, including the X-wing. They were used by the [[Galactic Federation of Free Alliances]] during the [[Second Galactic Civil War]], during early skirmishes with [[Corellia/Legends|Corellia]].
+
+===Development===
+[[File:Ewing_negvv.png|thumb|left|200px|Portside perspective of an E-wing.]]
+The E-wing had some initial teething problems relating to the placement of the wing lasers near the outboard engines. The synthetic [[Tibanna/Legends|Tibanna]] used for the lasers tended to degrade at accelerated rates, which swiftly rendered those guns near-useless (and cutting gun firepower to a third). Rebel engineers came up with a temporary solution during the [[World Devastator]] assault on [[Mon Calamari/Legends|Mon Calamari]].<ref name="Dark Empire">''[[Star Wars: Dark Empire]]''</ref> Those problems were eventually resolved and the fighter entered fleet service. Models with re-designed laser cannons were known as the [[E-wing: Type B|Type B E-wing]].<ref name="SotG" />
+
+It is known to have served at least with the New Republic's Fifth Fleet as the primary fleet space superiority fighter. When the Fifth Fleet was moved to the [[Koornacht Cluster/Legends|Koornacht Cluster]] during the Black Fleet Crisis, many E-wings saw action against the [[Yevetha]] in the conflict that ensued.
+[[File:EWingCockpit.jpg|thumb|Cockpit of an E-Wing]]
+Four major models appeared to have been designed; the last (Series IV) was introduced around the time of the capture of Coruscant by the [[Yuuzhan Vong]]. By that point in the war, the [[T-65XJ X-wing starfighter|XJ X-wing]] was rapidly equipping most squadrons in the massive military expansion; the more sophisticated E-wing may have been limited to some elite squadrons. The Series IV E-wing remained in service through the transition from New Republic to Galactic Alliance, and was still in operation as of the [[Second Galactic Civil War]].
+
+==Behind the scenes==
+[[File:Ewingfighter.jpg|thumb|left|250px|E-wings in action on [[Dac/Legends|Dac]] in [[10 ABY/Legends|10 ABY]] as depicted in ''[[Star Wars: Dark Empire]]''. Note smooth transition between hull and nose cone, oversized dorsal cannon, and oblong depressions similar to the X-wing's torpedo launch tubes.]]
+
+The E-wing's first appeared in the comic series ''[[Star Wars: Dark Empire]]''. The ship was later included in the original "Essential Guide to Vehicles and Vessels" after being adapted by West End Games for the RPG. However there are a number of visual discrepancies between the EGVV schematics and the original ''Dark Empire'' Artwork:
+
+*'''Fuselage''' The ''Dark Empire'' artwork shows the E-wing's nose has a smooth transition into the hull. The EGVV altered this to give it a cone much more akin to the X-wing's. Additionally, the EGVV schematics present a much narrower craft. Using the established scale of 11.2m long reveals that the EGVV schematics are at MOST no wider than a meter at the widest part of the cockpit. The ''Dark Empire'' artwork shows a craft roughly twice as wide for its length. Although the two under-wing pods present in the EGVV representation are also seen in the ''Dark Empire'' artwork, the EGVV's center pod is not present in any depiction of the E-wing in the original comic. The EGVV also shows the E-wing with a rounded upper surface, however in the original source, the top deck is flattened.
+
+*'''Wings''' The EGVV E-wing's wings are symmetrical fore and aft, with small winglets at the tip at a significant downward angle. Dorsal views of the E-wing in ''Dark Empire'' show the wings have a much more pronounced sweep aftward at their leading edges, and a straight or nearly-so trailing edge. The winglets at the tip also have a broader span, and are at a less extreme downward angle.
+
+*'''Weaponry''' The dorsal cannon in Dark Empire is significantly larger--in length and diameter--than the wing cannon, with a pronounced cup-shaped structure near the firing tip. The EGVV schematics make all three cannon the same size. Additionally, the centerline pod under the fuselage where the EGVV places the ship's proton torpedo launcher is absent entirely from the ''Dark Empire'' artwork. However oblong ports are present in the E-wing's nose cone similar to the torpedo launch tubes visible on the X-wing's fuselage. At least one E-wing in ''Dark Empire'' was shown firing weaponry from a position at the wing roots. The E-wing's armament was never conclusively stated in the comic, however one pilot can be seen giving the order "Arm all turbos and ion cannons!"
+
+*'''Propulsion''' Some images in ''Dark Empire'' depict exhaust trails from the lower part of the E-wing aft fuselage bulkhead. Later comics, such as ''[[Star Wars: Crimson Empire]]'' directly positioned engines or thrusters on the aft bulkhead, which are missing in the EGVV schematics.
+
+[[File:E-wing-SotG.png|thumb|right|200px|E-wing escort starfighters]]
+[[Stay on Target (sourcebook)|''Stay on Target'']] introduces uses a mixture of lore from the Canon and Legends continuities and suggests some contradicting information about the E-wing: While the Databank, [[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]] and ''[[The Essential Guide to Vehicles and Vessels]]'' claim that the E-wing was first used during the [[Thrawn campaign]] in [[9 ABY/Legends|9 ABY]], the new source says it was used by the Rebel Alliance. The Databank and ''[[Starships of the Galaxy]]'' identify the laser cannons as heavy ones, the game system of ''Stay on Target'' calls them medium. Both ''Starships'' books and the Databank give the E-wing a class 2 hyperdrive, but ''Stay on Target'' says class 1. ''Starships of the Galaxy'' and ''The Essential Guide to Vehicles and Vessels'' suggest a single torpedo launcher, while ''Stay on Target'' gives two.
+
+The Saga Edition of ''Starships of the Galaxy'' calls the main weapons [[Blaster/Legends|blasters]].
+
+==Appearances==
+{{ScrollBox|
+*[[Dark Empire 3|''Dark Empire'' 3]] {{1st}}
+*[[Dark Empire 4|''Dark Empire'' 4]]
+*[[Dark Empire 6|''Dark Empire'' 6]]
+*[[Empire's End 2|''Empire's End'' 2]]
+*[[Crimson Empire 4|''Crimson Empire'' 4]]
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Darksaber (novel)|''Darksaber'']]
+*''[[Planet of Twilight]]''
+*''[[Before the Storm]]''
+*''[[Shield of Lies]]''
+*''[[Tyrant's Test]]''
+*''[[Young Jedi Knights: The Lost Ones]]''
+*''[[The New Jedi Order: Agents of Chaos I: Hero's Trial]]''
+*''[[The New Jedi Order: Balance Point]]''
+*''[[The New Jedi Order: Edge of Victory I: Conquest]]''
+*''[[The New Jedi Order: Edge of Victory II: Rebirth]]''
+*''[[The New Jedi Order: Star by Star]]''
+*''[[The New Jedi Order: Dark Journey]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*''[[The New Jedi Order: Destiny's Way]]''
+*''[[The New Jedi Order: Ylesia]]''
+*''[[The New Jedi Order: The Unifying Force]]''
+*''[[Dark Nest II: The Unseen Queen]]''
+*''[[Legacy of the Force: Betrayal]]''
+*''[[Legacy of the Force: Exile]]''
+*''[[X-Wing: Mercy Kill]]'' {{Ab|X-Wing: Mercy Kill (audiobook)}}
+}}
+
+==Sources==
+{{ScrollBox|
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1995-08-XX -->{{JournalCite|7|The History of R-Series Astromech Droids}}
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-07-XX -->{{Topps|set=1997 Topps Star Wars Vehicles|cardname=E-wing Fighter}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+*<!-- 1998-01-XX -->{{InsiderCite|36|The Horse's Mouth|Straight from the Horse's Mouth}}
+*<!-- 1998-05-XX -->{{CollectorCite|2|Around the Galaxy}}
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-09-XX -->''[[Star Wars: Behind the Magic]]''
+*<!-- 1999-02-XX -->''[[The Essential Guide to Droids]]''
+*<!-- 2000-04-05 -->[[Star Wars Handbook 3: Dark Empire|''Star Wars Handbook'' 3: ''Dark Empire'']]
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]'' {{1stID|Type B E-wing}}
+*<!-- 2003-01-XX -->''[[Coruscant and the Core Worlds]]''
+*<!-- 2003-06-04 -->{{FactFile|75|EWI 1-2|E-Wing}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2006-06-27 -->''[[The New Essential Guide to Droids]]''
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-05-20 -->''[[Threats of the Galaxy]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-09-13 -->{{DB|starship|ewing|E-wing starfighter}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2013-12-05 -->{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-1|series=The Imperial Warlords: Despoilers of an Empire|text=Part 1|nolive=1}}
+*<!-- 2013-12-17 -->{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-2|series=The Imperial Warlords: Despoilers of an Empire|text=Part 2|nolive=1}}
+<!-- 2014-06-26 -->{{CardGameSet|set={{FFGXW|set=E-Wing Expansion Pack}}|cards=
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=Blackmoon Squadron Pilot}}
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=Corran Horn}}
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=Etahn A'baht}}
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=Knave Squadron Pilot}}
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=R7 Astromech}} {{Po}}
+*<!-- 2014-06-26 -->{{FFGXW|set=E-Wing Expansion Pack|cardname=R7-T1}} {{Po}}
+}}
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']] {{1stID|E-7 E-wing multi-role starfighter}}
+*<!-- 2016-12-22 -->{{Armada|set=Rebel Fighter Squadrons II Expansion Pack}}
+<!-- 2018-09-13 -->{{CardGameSet|set={{FFGXW2|set=Rebel Alliance Conversion Kit}}|cards=
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Gavin Darklighter}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Rogue Squadron Escort}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Corran Horn}}
+*<!-- 2018-09-13 -->{{FFGXW2|set=Rebel Alliance Conversion Kit|cardname=Knave Squadron Escort}}
+}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Jazwares|subdomain=shop|url=products/star-wars-micro-galaxy-squadron-light-armor-class-collection-series-6|text=STAR WARS™ Micro Galaxy Squadron Light Armor Class Collection (Series 6)}} {{ID|''Dark Empire'' E-wing}}
+
+{{Interlang
+|de=E-Flügel-Sternenjäger#legends
+|es=Caza estelar de escolta Ala-E
+|no=E-wing
+|pl=E-wing
+|pt=Legends:Caça estelar de escolta E-wing
+}}
+
+[[Category:FreiTek, Inc products]]
+[[Category:Starfighter classes]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Alliance]]
+[[Category:Starship classes of the New Republic]]

@@ -1,0 +1,12 @@
+{{Top|leg}}
+[[File:EAU-chip-Isis-Coordinates.png|thumb|right|250px|A set of nine EAU chips]]
+An '''EAU chip''' was a large [[Plastic/Legends|plastic]] square with several [[Equalizing Amplitude Unit]]s burned into it. They were used to carry electromagnetic impulses from control panels to equipment. Different control panels used EAU chip of different sizes and configurations depending on their function. If the panel was supplied with incorrect chips, or the chips were not configured in the proper sequence, it would be rendered inoperable and would short out violently, possibly doing serious damage to the equipment it controls.
+
+Some control panels would be configured with "unique chip stress", meaning that each chip must have a different number of EAUs on it. The configuration of these chips could also be arranged for "six-path redundancy", meaning that the total number of EAUs in each row and column of chips in the control panel must be equal.
+
+The "run of the sequence" for an EAU chip referred to the minimum and maximum number of EAUs on each individual chip. The "pathload" of the control panel referred to the number of EAUs in each row and column of chips.
+
+==Appearances==
+*''[[The Isis Coordinates]]''
+
+[[Category:Technology]]
