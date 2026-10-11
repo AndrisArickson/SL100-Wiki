@@ -1,0 +1,71 @@
+{{Top|leg}}
+{{RepulsorliftVehicle
+|image=[[File:Tirsa_G1-F7.jpg]]
+|name=G1-F7
+|designer=
+|manufacturer=[[Tirsa Wargear]]<ref name="TOR">{{TORcite|exp=lots|type=item|Tirsa G1-F7|the Cartel Market}}</ref>
+|line=
+|model=
+|type=[[Landspeeder/Legends|Landspeeder]]<ref name="TOR" />
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=1 [[Pilot/Legends|pilot]]<ref name="TOR" />
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''G1-F7''' was a model of [[Speeder/Legends|speeder]] that was created by [[Tirsa Wargear]] during the [[Third Galactic War]].<ref name="TOR" />
+{{Veh-stub}}
+
+==Appearances==
+*[[Cartel Market|''Star Wars: The Old Republic'' Cartel Market]] {{1st}}
+*''[[Star Wars: The Old Republic: Legacy of the Sith]]''
+
+==Sources==
+*<!-- 2024-11-14 -->{{TORweb|url=info/news/article/20241114-0|text=Game Update 7.6 "Galactic Threads" Recap}}
+*{{TORweb|url=info/news/%5Bnews-category%5D/20241210|text=Game Update 7.6 “Galactic Threads” is now live!}}
+*{{TORweb|url=patchnotes/12102024/game-update-7.6-galactic-threads|text=Game Update 7.6 "Galactic Threads"}}
+*{{TORweb|url=info/news/article/20241210|text=Cartel Market Additions: Game Update 7.6}}
+*{{TORweb|url=info/news/%5Bnews-category%5D/20241205|text=December 2024 In-Game Events}}
+*{{TORweb|url=patchnotes/12092025/game-update-7.8-pursuit-ruin|text=Game Update 7.8 "Pursuit of Ruin"}}
+*{{TORweb|url=info/news/article/20251201|text=SWTOR In-game Events for December 2025}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Landspeeder models]]
+[[Category:Tirsa Wargear products]]

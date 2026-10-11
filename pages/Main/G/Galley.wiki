@@ -1,0 +1,59 @@
+{{Top|leg}}
+{{AquaticVehicle
+|image=
+|name=Galley
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|engine=
+|depth=
+|poweroutput=
+|power=Oar-powered<ref name="EGTPM">''[[The Essential Guide to Planets and Moons]]''</ref>
+|shield gen=
+|hull=[[Wood/Legends|Wood]]<ref name="EGTPM" />
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=
+}}
+A '''galley''' was a type of aquatic vessel used on the [[Planet/Legends|planet]] [[Roon/Legends|Roon]]. They were [[Wood/Legends|wooden]] oar-driven vessels that the inhabitants used to cross the [[Roon Sea]].<ref name="EGTPM" />
+
+{{Veh-stub}}
+
+==Sources==
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]'' 
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Aquatic vehicle types]]

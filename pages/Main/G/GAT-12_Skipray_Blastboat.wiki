@@ -1,0 +1,276 @@
+{{Top|canon=GAT-12 Skipray}}
+{{StarshipClass
+|image=[[File:Skipray2.jpg]]
+|name=GAT-12 Skipray Blastboat
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="ISB2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|line=
+|model=GAT-12 Skipray Blastboat<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|type=[[Blastboat/Legends|Blastboat]]
+|cost=*285,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="ISB2" />
+*150,000 credits {{C|used}}<ref name="ISB2" />
+|modifier=
+|sysmods=
+|length=25 [[Meter/Legends|meters]]<ref name="FF">''[[The Official Star Wars Fact File]]''</ref><ref name="DB">{{DB|starship|skipray|Skipray blastboat}}</ref><ref name="TNEGtVaV">''[[The New Essential Guide to Vehicles and Vessels]]''</ref>
+|width=*9.2 meters in flight configuration<ref name="HtESB">''[[Heir to the Empire Sourcebook]]''</ref>
+*14.3 meters in landing configuration<ref name="HtESB" />
+|height=*14.3 meters in flight configuration<ref name="HtESB" />
+*7.2 meters in landing configuration<ref name="HtESB" />
+|mass=
+|max accel=16 [[Megalight|MGLT]]/[[Standard second|s]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=91 MGLT<ref name="XWA" />
+|max speed=1,200 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="ISB2" />
+|maneuverability=64 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=
+|hyperdrive=Class 2.0<ref name="ISB2" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=[[Sarylcorp]] [[ViX multi-flux reactor|ViX multiflux reactor]]<ref name="HtESB" />
+|shield gen=Rated 102 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 61 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=[[Siep-Irol/Legends|Siep-Irol]] [["Omni-Vu" sensor pylon]]s (2)<ref name="HtESB" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]] (4 jump limit)<ref name="ISB2" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=GAT-12g:
+*Medium [[Ion cannon/Legends|ion cannons]] (3)<ref name="ISB2" />
+*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="ISB2" />
+*[[Proton torpedo/Legends|Proton torpedo]] [[Proton torpedo launcher/Legends|launcher]] (1)<ref name="ISB2" />
+*[[Tractor beam/Legends|Tractor beam]] [[Tractor beam projector/Legends|projector]] (1)<ref name="PP" />
+GAT-12h/i/j:
+*[[Mendarn Arms]] medium [[Dar-2 ion cannon]]s (3)<ref name="DB" />
+*Twin [[Senko Systems]] [[5000x2 "Tru-Lok" laser cannon]] [[Turret/Legends|turret]] (1)<ref name="DB" />
+*Starboard proton torpedo launcher (1)<ref name="DB" />
+**4 heavy proton torpedoes<ref name="SotGSaga">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref> (12 for GAT-12j)<ref name="TEGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+*Port [[Concussion missile launcher/Legends|concussion missile launcher]] (1)<ref name="DB" />
+**8 heavy [[Concussion missile/Legends|concussion missiles]]<ref name="SotGSaga" /> (18 for GAT-12j)<ref name="TEGVV" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="SotGSaga" />
+*Co-pilot/[[Sensor/Legends|Sensor]] operator (1)<ref name="SotGSaga" />
+*[[Gunner/Legends|Gunners]] (2)<ref name="SotGSaga" />
+|skeleton=1<ref name="ISB2" />
+|passengers=None
+|capacity=20 [[Metric ton/Legends|metric tons]]<ref name="ISB2" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="ISB2" />
+|lifesupport=
+|communications=
+|othersystems=Rotating wing assembly<ref name="HtESB" />
+|availability=
+|role=*[[Bomber/Legends|Bomber]]
+*Patrol craft
+*Scout
+*Assault starfighter
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="SWEotECR">[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]</ref>
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="ISB2" />
+*[[Zann Consortium/Legends|Zann Consortium]]<ref name="EAWFoC">''[[Star Wars: Empire at War: Forces of Corruption]]''</ref>
+*[[Dark Empire]]
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="The New Jedi Order: Force Heretic I: Remnant">''[[The New Jedi Order: Force Heretic I: Remnant]]''</ref>
+*[[Smuggler/Legends|Smugglers]]<ref name="SotGSaga" />
+*[[Pirate/Legends|Pirates]]<ref name="SotGSaga" />
+*Defense forces<ref name="SWEotECR" />
+}}
+{{Quote|Skipray Blastboat here.|Unidentified [[Zann Consortium/Legends|Zann Consortium]] Pilots|<ref name="EAWFoC" />}}
+The [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] '''GAT-12 Skipray Blastboat''' was, early in the [[Galactic Civil War/Legends|Galactic Civil War]], the smallest [[Hyperspace/Legends|hyperspace]]-capable combat [[Starship/Legends|starship]] in use by the [[Imperial Navy/Legends|Imperial Navy]].
+
+==Characteristics==
+[[File:Skipray_Blastboat.jpg|thumb|left|180px|A GAT-12h Skipray Blastboat]]
+
+While small enough to be carried aboard [[Capital ship/Legends|capital ships]] as a [[Starfighter/Legends|starfighter]],<ref name="TNEGtVaV" /> its immense power output (produced by a [[Sarylcorp]] [[ViX multi-flux reactor]]), weaponry, and [[Deflector shield/Legends|shielding]] caused some registries to designate it as a capital ship itself.<ref name="ISB2" />
+
+The most popular variant in the [[GAT Blastboat series|GAT series]], the GAT-12h, had a standard crew consisting of a pilot, copilot/[[Sensor/Legends|sensor]] operator, and two gunnery officers; however, the ship could be piloted by just one person.<ref name="SotGSaga" /> It was standard equipped with a Class Two [[Hyperdrive/Legends|hyperdrive]] and a limited [[Navigation computer/Legends|navigation computer]] capable of storing four jump coordinates, and was stocked with sufficient [[Foodstuff/Legends|consumables]] for a month of independent operation. On short wings on the side of the cockpit it housed two [[Siep-Irol/Legends|Siep-Irol]] [["Omni-Vu" sensor pylon]]s.<ref name="HtESB" />
+
+Two forward-swept [[Stabilizer/Legends|stabilizer fins]] branched out from a rotating assembly at the aft of the ship and housed two of the [[Mendarn Arms]] [[Dar-2 ion cannon]]s. The stabilizers were kept vertically in flight, with the ion cannons deployed above and below the rest of the ship; the fins rotated horizontally for landing, putting them on either side of the ship in a more traditional winged configuration.<ref name="HtESB" />
+
+<div style="float:right">[[File:GAT-12j-interior.png|thumb|left|200px|GAT-12j deck plan]]</div>
+
+A third Dar-2 ion cannon was housed in the nose of the ship, with a [[Concussion missile/Legends|concussion missile]] launcher and [[Proton torpedo/Legends|proton torpedo]] tube flanking it starboard and port, respectively. On the dorsal fuselage, a fire-linked pair of [[Senko Systems]] [[5000x2 "Tru-Lok" laser cannon]]s were mounted in a turret.<ref name="HtESB" />
+
+While designed as a space-faring vessel, the ship actually performed better in atmospheric flight, with a (reported) top speed of 1,200 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]; and its aerodynamic frame provided a better atmospheric maneuvering performance than all but high-performance [[Airspeeder/Legends|airspeeders]]. Its maneuvering performance was not as remarkable out of the atmosphere, and the ship often relied on swift first-strikes or coordination with other ships in space combat.<ref name="HtESB" />
+
+===Variants===
+[[File:Skipray_schem.jpg|thumb|left|180px|Skipray [[:Category:Technical drawing images|schematics]]]]
+
+In addition to the [[GAT-12h]], several other models were produced, including the GAT-12i,<ref name="TEGVV" /> the GAT-12g (which replaced the concussion missile tube with a [[Tractor beam/Legends|tractor beam]]), the GAT-12j (which carried a larger payload<ref name="TEGVV" /> while distributing gunnery duties more evenly), the GAT-12m (which had better [[Realspace/Legends|realspace]] and hyperspace performance, and thus was used as an interceptor and courier), and the GAT-12p (which had an upgraded sensor suite).<ref name="PP" />
+
+A newer model, the [[Skipray 24r Blastboat]], saw service in the [[Jedi Coalition]] during the [[Second Galactic Civil War]].<ref name="LotF:I">''[[Legacy of the Force: Invincible]]''</ref>
+
+==History==
+[[Republic Sienar Systems/Legends|Republic Sienar Systems]] designed the ship prior to the [[Clone Wars/Legends|Clone Wars]], with origins on the old [[Turbostorm-class gunship|''Turbostorm''-class gunship]].<ref name="SWEotECR" /> Many of its systems were tested on [[Shobquix Yards]]' [[Toscan 8-Q starfighter|Toscan]] starfighters, modified by Sienar for the task as testbed gunships.<ref name="The Force Unleashed Campaign Guide">''[[The Force Unleashed Campaign Guide]]''</ref>
+
+[[File:Skipray1.jpg|thumb|left|200px|A Skipray in orbit over a [[Planet/Legends|planet]]]]
+
+It was later sold primarily to the [[Galactic Empire/Legends|Empire]]; the first GAT-12h Skipray Blastboats were released prior to the [[Battle of Yavin/Legends|Battle of Yavin]], being the smallest [[Hyperspace/Legends|hyperspace]]-capable combat starship in use by the Imperial Navy (except for a few prototypes).<ref name="SotGSaga" /> The GAT-12h and its immediate successor (the [[GAT-12i]]) were more powerful than previous models that were slower and less combat-oriented.<ref name="DB" />
+
+However, the Navy's tactical philosophy wasn't open to the idea of a hyperspace-capable capital-starfighter hybrid, and all but snubbed the ship. This led SFS to sell the ship on the open market.<ref name="HtESB" /> They proved to be a reliable design, going on to see extensive use in [[Outer Rim Territories/Legends|Outer Rim]] planetary patrol forces and smuggling fleets for many years.<ref name="SWEotECR" />
+
+GAT-12 blastboats were also used by [[Imperial Office of Customs/Legends|Imperial Customs]], Imperial [[Sector Ranger/Legends|Sector Rangers]] and local forces. Sub-models such as the [[GAT-12m]] and [[GAT-12p]] were used by the Empire.<ref name="PP" />
+
+Those Imperial fleets that received Skiprays praised the ship highly, but the Skipray Blastboat ultimately gained its fame and reputation as a staple of corporate, [[Mercenary/Legends|mercenary]], [[Pirate/Legends|pirate]], and [[Smuggler/Legends|smuggler]] fleets, as well as private use by individuals such as the former [[Emperor's Royal Guard/Legends|Emperor's Royal Guard]] [[Kir Kanos]] (who used a modified GAT-12).<ref name="FF" />
+
+<div style="float:right">[[File:ImpLine.png|thumb|left|200px|An Imperial [[skirmish line]] with Skiprays and other vessels.]]</div>
+
+Though it was designed and marketed for the Empire, many of these ships fell into the hands of the [[Zann Consortium/Legends|Zann Consortium]] who added sensor jamming equipment to make their ships harder targets in space combat. During its service with the Consortium, its slow speed, coupled with heavy armor, made it an ideal fighter-bomber and it fulfilled a role similar to Imperial [[TIE/d "Defender" Multi-Role Starfighter/Legends|TIE Defender]] and Rebel [[A/SF-01 B-wing starfighter/Legends|B-wing]] starfighters.<ref name="EAWFoC" />
+
+The [[GAT-12g]] version was in use by the Imperial Navy some time after the Battle of Yavin.<ref name="TFOP">''[[The Far Orbit Project]]''</ref>
+
+The [[GAT-12j]] upgrade was in production some months before the Battle of Endor and was released some weeks after the Imperial defeat.<ref name="FF" /><ref name="TEGVV" /> By [[9 ABY/Legends|9 ABY]] the GAT-12j Skipray was the most common model in use.<ref name="HtESB" />
+
+[[Talon Karrde]] used Skiprays for planetary defense; he lost two vessels in [[Myrkr]] due to an incident in [[9 ABY/Legends|9 ABY]] that involved [[Mara Jade Skywalker|Mara Jade]] and [[Luke Skywalker/Legends|Luke Skywalker]].<ref name="HtESB" />
+
+==Behind the scenes==
+The GAT-12 Skipray Blastboat was created by [[Wikipedia:Deborah Teramis Christian|Deborah Teramis Christian]] for the ''[[Imperial Sourcebook]]'', which was written by [[Greg Gorden]] and released in [[October]] [[1989]] as part of the [[West End Games]] ''[[Star Wars: The Roleplaying Game]]''.<ref name="ISB2" />
+
+The mounted twin lasers are depicted as starfighter guns in some sources,<ref name="ISB2" /><ref name="TEGVV" /> but ''[[Starships of the Galaxy]]'' replaced them with a turbolaser.<ref name="SotG">''[[Starships of the Galaxy]]''</ref>
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Skipray_blastboat_landing_config.jpg|thumb|200px|A Skipray Blastboat in its landing configuration]]
+{{Mediacat|imagecat=Images of GAT-12 Skipray Blastboats}}
+*{{DoD|Jaws of the Sarlacc}}
+*{{JournalCite|9|Death-Hunter}}
+*{{JournalCite|12|Festival of High Winds}}
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+*[[Empire 20|''Empire'' 20]]
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}}
+*{{WEGCite|book=Galaxy Guide 9: Fragments from the Rim|story=Arkanian Dawn (narrative)}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Star Wars: X-Wing Alliance]]''
+*{{FFG|story=Phantoms in the Dark|book=Strongholds of Resistance}} {{Mo}}
+*{{DarkStryder|adventure=Shintel Downtime|book=The DarkStryder Campaign|reprint=yes}} {{Mo}}
+*{{DarkStryder|adventure=Plant Food|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[Heir to the Empire]]'' {{Ab|Heir to the Empire (unabridged audiobook)}} {{1st|in book}}
+*[[Heir to the Empire 4|''Heir to the Empire'' 4]]
+*[[Heir to the Empire 5|''Heir to the Empire'' 5]] {{Wreck}}
+*''[[Dark Force Rising]]'' {{Ab|Dark Force Rising (unabridged audiobook)}}
+*[[Dark Force Rising 4|''Dark Force Rising'' 4]]
+*''[[The Last Command]]'' {{Ab|The Last Command (unabridged audiobook)}}
+*[[The Last Command 1|''The Last Command'' 1]]
+*''[[X-Wing: Isard's Revenge]]''
+*{{JournalCite|6|Relic (article)|reprint=1}}
+*{{JournalCite|8|Counterstrike (Adventure Journal)|reprint=1}}
+*{{JournalCite|7|Retreat from Coruscant|reprint=1}}
+*[[Crimson Empire 5|''Crimson Empire'' 5]]
+*[[Crimson Empire 6|''Crimson Empire'' 6]]
+*''[[The Bounty Hunters: Kenix Kil]]''
+*''[[Jedi Search]]''
+*''[[I, Jedi]]'' {{Ab|I, Jedi (unabridged audiobook)}}
+*[[Children of the Jedi (novel)|''Children of the Jedi'']]
+*[[Children of the Jedi (abridged audiobook)|''Children of the Jedi'' abridged audiobook]]
+*''[[Planet of Twilight]]''
+*[[Planet of Twilight (abridged audiobook)|''Planet of Twilight'' abridged audiobook]]
+*''[[Vision of the Future]]'' {{Ab|Vision of the Future (unabridged audiobook)}}
+*''[[Survivor's Quest]]'' {{Ab|Survivor's Quest (unabridged audiobook)}} {{Mo}}
+*''[[Young Jedi Knights: Shadow Academy]]''
+*''[[The New Jedi Order: Dark Tide I: Onslaught]]''
+*[[The New Jedi Order: Dark Tide I: Onslaught (abridged audiobook)|''The New Jedi Order: Dark Tide I: Onslaught'' abridged audiobook]]
+*''[[The New Jedi Order: Recovery]]''
+*''[[The New Jedi Order: Enemy Lines I: Rebel Dream]]''
+*[[The New Jedi Order: Enemy Lines I: Rebel Dream (abridged audiobook)|''The New Jedi Order: Enemy Lines I: Rebel Dream'' abridged audiobook]]
+*''[[The New Jedi Order: Enemy Lines II: Rebel Stand]]''
+*[[The New Jedi Order: Enemy Lines II: Rebel Stand (abridged audiobook)|''The New Jedi Order: Enemy Lines II: Rebel Stand'' abridged audiobook]]
+*''[[The New Jedi Order: The Unifying Force]]''
+*[[The New Jedi Order: The Unifying Force (abridged audiobook)|''The New Jedi Order: The Unifying Force'' abridged audiobook]]
+*''[[Legacy of the Force: Invincible]]'' {{Mo}}
+*[[Legacy of the Force: Invincible (abridged audiobook)|''Legacy of the Force: Invincible'' abridged audiobook]] {{Mo}}
+*''[[Fate of the Jedi: Apocalypse]]'' {{Ab|Fate of the Jedi: Apocalypse (audiobook)}}
+}}
+
+==Sources==
+{{ScrollBox|content=
+[[File:Skipray.jpg|thumb|150px|A Skipray Blastboat]]
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]'' {{1stm}}
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]'' {{Po}}
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]''
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]]
+*<!-- 1993-05-XX -->''[[Galaxy Guide 9: Fragments from the Rim]]''
+*<!-- 1993-06-XX -->''[[Dark Empire Sourcebook]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]''
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-05-XX -->{{JournalCite|2|The Free-Trader's Guide to Sevarcos|reprint=1}}
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-02-XX -->{{JournalCite|5|Zirtran's Anchor (article)}}
+*<!-- 1995-02-XX -->''[[Platt's Starport Guide]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 5: Return of the Jedi (Second Edition)|''Galaxy Guide 5: Return of the Jedi'', Second Edition]]
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-XX-XX -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-07-28 -->''[[Lords of the Expanse]]''
+*<!-- 1997-11-XX -->{{JournalCite|15|Tasariq: The Crystal Planet}}
+*<!-- 1998-02-XX -->{{CollectorCite|1|Playing A Major Role}}
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1998-07-XX -->''[[The Essential Guide to Planets and Moons]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-04-04 -->[[The Essential Chronology (real-world book)|''The Essential Chronology'']]
+*<!-- 2000-10-XX -->''[[A Guide to the Star Wars Universe, Third Edition, Revised and Expanded]]''
+*<!-- 2001-03-XX -->''[[Living Force Campaign Guide]]'' {{Po}}
+*<!-- 2001-09-XX -->''[[Rebellion Era Sourcebook]]''
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}}
+*<!-- 2002-04-23 -->''[[The New Essential Guide to Characters]]''
+*<!-- 2002-07-25 -->{{Wizards|url=starwars/article.asp?x=sw20020725aconversion2|text=Starship and Airspeeder Speed Chart}}
+*<!-- 2003-06-XX -->''[[Hero's Guide]]''
+*<!-- 2003-08-06 -->{{FactFile|84|TIE 13-14|TIE Bomber}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2004-06-16 -->{{FactFile|129|SKI 1-2|Skipray Blastboat}}
+*<!-- 2004-07-14 -->{{FactFile|133|SKI 3-4|Skipray Blastboat}}
+*<!-- 2005-10-25 -->''[[The New Essential Chronology]]''
+*<!-- 2006-02-15 -->''[[Star Wars: The Comics Companion]]''
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]]
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-09-13 -->{{DB|starship|skipray|Skipray blastboat}}
+*<!-- 2012-04-03 -->''[[The Essential Guide to Warfare]]''
+*<!-- 2012-08-17 -->[[Star Wars: Edge of the Empire Beta|''Star Wars: Edge of the Empire'' Beta]]
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2014-03-28 -->{{FFGTCG|set=Heroes and Legends|cardname=Outmaneuver|link=echoes-of-the-force-cycle/heroes-and-legends/outmaneuver-heroes-and-legends-99-5}} {{Po}}
+*<!-- 2014-11-05 -->{{FactFile2014|44|STA 3-4|Star destroyers}}
+*<!-- 2015-01-05 -->{{FFGTCG|set=Between the Shadows|cardname=Skipray Blastboat|link=between-the-shadows/skipray-blastboat-r1177}}
+*<!-- 2016-05-05 -->''[[Star Wars: Graphics]]''
+*<!-- 2016-10-31 -->''[[Endless Vigil]]''
+}}
+
+===Non-canon sources===
+*<!-- Canceled -->{{JournalCite|16|The Garos System}} {{C|Canceled}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Skipray-Blitzjäger
+|es=Nave GAT-12 Skipray
+|nl=GAT-12h Skipray Blastboat
+|pl=Kanonierka_Skipray
+}}
+
+[[Category:GAT Blastboat series]]
+[[Category:Starship classes of the Dark Empire]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Galactic Republic]]
+
+{{RelatedCategories
+|[[Category:GAT-12 Skipray Blastboats]]
+}}

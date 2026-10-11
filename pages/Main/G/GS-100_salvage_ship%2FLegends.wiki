@@ -1,0 +1,106 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:VulturesClaw-TCWVG.png]]
+|name=GS-100 salvage ship
+|designer=
+|manufacturer=[[Gallofree Yards, Inc./Legends|Gallofree Yards, Inc.]]<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref>
+|line=
+|model=GS-100 salvage ship<ref name="TCWCG" />
+|type=Salvage ship<ref name="TCWCG" />
+|cost=190,000 [[Galactic Credit Standard/Legends|credits]] (95,000 used)<ref name="TCWCG" />
+|modifier=
+|sysmods=
+|length=174.78 [[Meter/Legends|meters]]<ref name="TCWIV">''[[Star Wars: The Clone Wars: Incredible Vehicles]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=400 km/h<ref name="TCWCG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 3<ref name="TCWCG" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] (2)<ref name="TCWCG" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="DOAD">{{TCW|Downfall of a Droid}}</ref>
+*2 [[Droid/Legends|droids]]<ref name="TCWCG" />
+|skeleton=1<ref name="TCWCG" />
+|passengers=20 {{C|droids}}<ref name="TCWCG" />
+|capacity=140 tons<ref name="TCWCG" />
+|cargohandling=Multiple cargo arms for handling salvaged material<ref name="DOAD" />
+|consumables=1 [[Standard month/Legends|month]]<ref name="TCWCG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Licensed<ref name="TCWCG" />
+|role=Salvage vessel<ref name="DOAD" />
+|firstuse=
+|retired=
+|affiliation=Independent<ref name="DOAD" />
+}}
+The '''GS-100 salvage ship''', more commonly known as a '''Trandoshan scavenger ship''', was a [[Gallofree Yards, Inc./Legends|Gallofree Yards]] vessel, designed to navigate debris fields in the wake of [[Space warfare/Legends|space battles]], picking up salvageable parts to sell for scrap.
+
+==Characteristics==
+[[File:RaiderEngines-Nightsisters.png|thumb|left|200px|The engines of a GS-100]]
+A durable vessel capable of dealing with dangerous spatial anomalies, it required a small crew to operate, which allowed the owner to share the profit from salvage with fewer associates.
+
+==History==
+A notable GS-100 was the [[Vulture's Claw/Legends|''Vulture's Claw'']], owned by [[Gha Nachkt/Legends|Gha Nachkt]].<ref name="DOAD" /> Circa [[21 BBY/Legends|21 BBY]],<ref name="SWA11">''[[Star Wars Annual 2011]]''</ref> he used it to scavenge the debris field after the [[Battle of Bothawui/Legends|Battle of Bothawui]]<ref name="DOAD" /> and later to bring the [[Astromech droid/Legends|astromech droid]] [[R2-D2/Legends|R2-D2]] to [[Ruusan 2/Legends|Ruusan 2]].<ref name="DOTD">{{TCW|Duel of the Droids}}</ref>
+
+Another GS-100, the [[Raider (salvage freighter)/Legends|''Raider'']], was seen scavenging the wreckage after the [[Battle of Sullust/Legends|Battle of Sullust]] and the crew picked up a wounded [[Asajj Ventress/Legends|Asajj Ventress]], hoping to ransom her to to her employers. However she swiftly [[Death/Legends|killed]] them with [[The Force/Legends|the Force]] and took the ship to [[Dathomir/Legends|Dathomir]]. This ship was later used to transport Ventress, along with [[Karis/Legends|two]] [[Naa'leth/Legends|other]] [[Nightsisters/Legends|Nightsisters]] to [[Serenno/Legends|Serenno]] to [[Mission to Serenno (Nightsisters)/Legends|assassinate]] [[Dooku/Legends|Count Dooku]]. When the attempt failed, the ship was used to bring them back to Dathomir.<ref name="NS">{{TCW|Nightsisters (episode)}}</ref>
+
+==Appearances==
+{{Mediacat|imagecat=Images of GS-100 salvage ships}}
+*''[[Star Wars: The Clone Wars: Lightsaber Duels]]'' {{Flash}}
+*{{TCW|Downfall of a Droid}} {{1st}}
+*''[[The Clone Wars: Discount]]''
+*{{TCW|Duel of the Droids}}
+*{{TCW|Lethal Trackdown}}
+*{{TCW|Evil Plans}}
+*{{TCW|Senate Murders}}
+*{{TCW|Nightsisters (episode)}}
+*{{TCW|Monster}} {{Flash}}
+*{{TCW|Slaves of the Republic}}
+*{{TCW|Escape from Kadavo}}
+*{{TCW|Bounty (episode)}}
+*{{TCW|Brothers (episode)}}
+*{{TCW|The Jedi Who Knew Too Much}}
+
+==Sources==
+*<!-- 2008-07-26 -->''[[Star Wars: The Clone Wars: The Visual Guide]]''
+*<!-- 2009-01-20 -->''[[The Clone Wars Campaign Guide]]'' {{1stID|GS-100 salvage ship}}
+*<!-- 2011-08-15 -->''[[Star Wars: The Clone Wars: Incredible Vehicles]]''
+*<!-- 2011-10-25 -->{{InsiderCite|129|Ask Lobot}}
+*<!-- 2015-03-20 -->{{FFGTCG|set=Ready for Takeoff|cardname=Salvage Operation|link=rogue-squadron/ready-for-takeoff/salvage-operation-r1252}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Sběrná loď GS-100
+|de=GS-100 Bergungsschiff#legends
+|es=Nave de salvamento GS-100
+|fr=Vaisseau de sauvetage GS-100
+|nl=GS-100 Salvage Ship
+}}
+
+[[Category:Freighter classes]]
+[[Category:Gallofree Yards, Inc. products]]
+
+{{RelatedCategories
+|[[Category:GS-100 salvage ships]]
+}}

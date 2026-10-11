@@ -1,0 +1,139 @@
+{{Top|leg}}
+{{Otheruses|Dunelizard}}
+{{StarshipClass
+|image=[[File:Dunelizard-SWG.jpg]]
+|name=G1-M4-C Dunelizard fighter
+|designer=
+|manufacturer=
+*[[MandalMotors/Legends|MandalMotors]]<ref name="Sony">{{SonyCite|url=en_US/players/content.vm?id=66882&resource=features|text=Ships: G1-M4-C Dunelizard}}</ref><ref name="RECG">''[[Rebellion Era Campaign Guide]]''</ref>
+*[[Hutt/Legends|Hutts]]
+|line=
+|model=G1-M4-C Dunelizard fighter<ref name="RECG" />
+|type=[[Starfighter/Legends|Starfighter]]<ref name="RECG" />
+|cost=115,000 [[Galactic Credit Standard/Legends|credits]] (55,000 credits used)<ref name="RECG" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=950 km/h<ref name="RECG" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2<ref name="RECG" />
+|hdrange=
+|hdsystem=Equipped<ref name="RECG" />
+|poweroutput=
+|power=
+|shield gen=Equipped
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navicomputer]] (3-jump memory)<ref name="RECG" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Double medium [[Laser cannon/Legends|laser cannons]]<ref name="RECG" /> (1)<ref name="Sony" />
+*[[Warhead/Legends|Warhead]] launcher (1)<ref name="Sony" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="RECG" />
+*[[Astromech droid/Legends|Astromech droid]]<ref name="RECG" />
+|skeleton=[[Pilot/Legends|Pilot]]<ref name="RECG" />
+|passengers=1<ref name="RECG" />
+|capacity=110 kg<ref name="RECG" />
+|cargohandling=
+|consumables=2 weeks<ref name="RECG" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="RECG" />
+|role=Medium [[Starfighter/Legends|starfighter]]<ref name="Sony" />
+|firstuse=
+|retired=
+|affiliation=*[[Hutt Cartel/Legends|Hutt Cartel]]<ref name="LoNH">''[[Lords of Nal Hutta]]''</ref>
+*[[Black Sun/Legends|Black Sun]]<ref name="SWG:DS">{{SWGcite|exp=JtL|type=other|Dathomir system}}</ref>
+*[[Asteroid Bandits]]<ref name="SWG:RotW">''[[Star Wars Galaxies: Rage of the Wookiees]]''</ref>
+*[[Ay'Nat]] pirates<ref name="SWG:JtL">''[[Star Wars Galaxies: Jump to Lightspeed]]''</ref>
+*[[Bounty hunter/Legends|Bounty hunters]]<ref name="TLAotH" />
+*[[Car'das/Legends|Car'das]]<ref name="SWG:OMs">{{SWGcite|exp=NGE|type=other|Ord Mantell space}}</ref>
+*[[Coynite/Legends|Coynite]] [[Mercenary/Legends|mercenaries]]<ref name="SWG:DtCFD">{{SWGcite|exp=JtL|type=space|Destroy the Coynite Fighters Duty|Dathomir system}}</ref>
+*[[Dynath Miners]]<ref name="SWG:BSA">{{SWGcite|exp=NGE|type=general|Black Sun Attacks|Tansarii Point Station}}</ref>
+*[[Evil Raiders]]<ref name="SWG:DtERT">{{SWGcite|exp=JtL|type=space|Destroy the Evil Raider Tyrant|Endor system}}</ref>
+*[[Gotal Bandits]]<ref name="SWG:RotW" />
+*[[Hidden Daggers]]<ref name="SWG:E">{{SWGcite|exp=JtL|type=faction|Rebel|Enough!!|Corellia}}</ref>
+*[[Kimogila Fanatics]]<ref name="SWG:KS">{{SWGcite|exp=JtL|type=other|Karthakk system}}</ref>
+*[[Lok Revenants/Legends|Lok Revenants]]<ref name="SWG:JtL" />
+*[[Nal Raka Criminal Empire]]<ref name="SWG:JtL" />
+*[[Nova Orion Industries]]<ref name="SWG:HiNS">{{SWGcite|exp=NGE|type=general|Hyperspace is Not Safe|the Nova Orion Station}}</ref>
+*[[Outer Rim Territories/Legends|Outer Rim]] colonists<ref name="TLAotH" />
+*[[Pirate/Legends|Pirates]]<ref name="TLAotH">{{FFG|story=The Long Arm of the Hutt|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}</ref>
+*[[Privateer/Legends|Privateers]]<ref name="Sony" />
+*[[Rancor Clan]]<ref name="SWG:DtRC">{{SWGcite|exp=JtL|type=space|Destroy the Rancor Clan|Dathonir system}}</ref>
+*[[Rodian/Legends|Rodian]] [[Hunting/Legends|hunters]]<ref name="SWG:RotW" />
+*[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]]<ref name="SWG:JtL" />
+*[[Sharfree Pirates]]<ref name="SWG:MT">{{SWGcite|exp=NGE|type=general|Missing Transport|the Nova Orion Station}}</ref>
+*[[Void Wings/Legends|Void Wings]]<ref name="SWG:VWPQP">{{SWGcite|exp=NGE|type=collection|Void Wing Pilot Quota Progress}}</ref>
+*[[Witchblood Clan]]<ref name="SWG:PadatWCBG">{{SWGcite|exp=JtL|type=space|Provide a distraction at the Witchblood Clan Burial Grounds|Dathonir system}}</ref>
+*[[Zel'iphian Slave Traders Guild]]<ref name="SWG:DS2">{{SWGcite|exp=JtL|type=other|Dantooine system}}</ref>
+}}
+The '''G1-M4-C Dunelizard''', also known as the '''Medium Hutt Fighter''', was a [[Starfighter/Legends|starfighter]] of medium weight developed by the [[Hutt/Legends|Hutts]] and produced by [[MandalMotors/Legends|MandalMotors]]. It saw use during the [[Galactic Civil War/Legends|Galactic Civil War]]. The style 2 also saw some limited use among [[Naboo/Legends|Naboo's]] [[Royal Naboo Security Forces/Legends|RSF forces]], alongside Kimogila, KSE Firespray class and Z-95 fighters. The Dunelizard's namesake was the [[Dune lizard/Legends|dune lizard]] creature.
+
+==Characteristics==
+[[File:Dunelizard_-_SWGTCG.jpg|thumb|left|A pair of Dunelizard fighters]]
+The Dunelizard fighter was based upon the [[M3-A Scyk interceptor/Legends|M3-A Scyk fighter]], retaining that vessel's wedge-shaped wings, though the later model included a number of advanced features.
+
+The Dunelizard added heavier payload and shields, but retained the swiftness and maneuverability that made the Scyk popular with Hutts and other criminal organizations including [[Pirate/Legends|space pirates]] such as [[Erkon]] the Vile.
+
+It was very easy to repair and modify. The weapons load could be changed from the standard linked laser cannons to ion cannons, concussion missile launcher, or proton torpedo launcher. It had a magazine capacity of 6 missiles/torpedoes when equipped with a launcher.
+
+There were two known styles of Dunelizard fighter; a bulkier, elongated version with a larger cockpit, and a slim, streamlined version with sweeping wings, both of which were designated as G1-M4-C models. The second model was created by removing the co-pilot's seat and installing an [[Astromech socket/Legends|astromech slot]]. The slimmer profile and shorter, narrower wings allowed improved visibility and access for the astromech droid. This model was also known as the Type II Dunelizard. <div style="float:right">[[File:Dunelizard_JTL_2.jpg|thumb|left|Multiple views of a Dunelizard.]]</div>
+
+==History==
+First produced by [[MandalMotors/Legends|MandalMotors]] in the years following the [[Clone Wars/Legends|Clone Wars]], the Dunelizard was offered to the [[Imperial Navy/Legends|Imperial Navy]], who rejected the design. However, the Empire allowed the starfighter to be sold to third parties, as it was seen as an insignificant risk to Imperial forces. As a result, it became popular with [[Pirate/Legends|pirates]] and [[Smuggler/Legends|smugglers]].<ref name="RECG" />
+
+==Appearances==
+[[File:Dunelizard_JTL.jpg|150px|thumb|Another variation of the Dunelizard]]
+*{{FFG|story=The Long Arm of the Hutt|book=Star Wars: Edge of the Empire Beginner Game|text=''Star Wars: Edge of the Empire'' Beginner Game}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]'' {{1st}}
+*''[[Star Wars Galaxies: Rage of the Wookiees]]''
+*{{GalaxiesNGE}}
+*{{InsiderCite|134|Getaway|reprint=1}}
+
+==Sources==
+{{Mediacat|imagecat=Images of G1-M4-C Dunelizard fighters}}
+*<!-- 2004-08-06 -->{{SonyCite|url=expansions_ships_medium.jsp|text=Medium Hutt Fighter}}
+*<!-- 2004-10-08 -->{{SWArchive|url=gaming/videogames/news/news20041008.html|text=Fly in Luxury Style in ''Star Wars'' Galaxies: Jump To Lightspeed}}
+*<!-- 2004-10-29 -->{{SonyCite|url=content.jsp?page=Hutt%20Ship%20Variants|text=Hutt Ship Variants}}
+*<!-- 2004-11-02 -->[[Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide|''Star Wars Galaxies: Jump to Lightspeed'': Prima Official Game Guide]]
+*<!-- 2005-06-XX -->[[Star Wars Galaxies: The Total Experience: Prima Official Game Guide|''Star Wars Galaxies: The Total Experience'': Prima Official Game Guide]]
+*<!-- 2005-12-20 -->[[Star Wars Galaxies: The Complete Guide: Prima Official Game Guide|''Star Wars Galaxies: The Complete Guide'': Prima Official Game Guide]]
+*<!-- 2006-04-24 -->{{SonyCite|url=en_US/players/content.vm?id=66882&resource=features|text=Ships: G1-M4-C Dunelizard}}
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2008-12-16 -->{{SWGTCG|set=Squadrons Over Corellia|cardname=Dunelizard Starfighter}}
+*<!-- 2009-07-21 -->''[[Rebellion Era Campaign Guide]]''
+*<!-- 2011-12-XX -->[[Star Wars Galaxies Memory Book|''Star Wars Galaxies'' Memory Book]]
+*<!-- 2015-02-05 -->''[[Lords of Nal Hutta]]''
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|MandalMotors G1-M4-C "Dunelizard" Starfighter|G1-M4-C Dunelizard fighter}}
+
+{{Interlang
+|de=G1-M4-C Dünenechse
+|es=Caza G1-M4-C Dunelizard
+|pl=Myśliwiec typu G1-M4-C Dunelizard
+}}
+
+[[Category:Hutt starship classes]]
+[[Category:MandalMotors products]]
+[[Category:Starfighter classes]]
+
+{{RelatedCategories
+|[[Category:G1-M4-C Dunelizard fighters]]
+}}

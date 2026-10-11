@@ -1,0 +1,84 @@
+{{Top|leg|title=''Gamma''-class Light Personnel Carrier}}
+{{Youmay|the [[Shuttle/Legends|shuttle]]|the similarly-named [[Gamma-class ATR-6 assault transport|''Gamma''-class ATR-6 assault transport]] or the [[Gamma-class assault shuttle/Legends|''Gamma''-class assault shuttle]]}}
+{{StarshipClass
+|image=[[File:GammaLPC.png]]
+|name=''Gamma''-class Light Personnel Carrier
+|designer=
+|manufacturer=[[Telgorn Corporation/Legends|Telgorn Corporation]]<ref name="TA">''[[The Abduction]]''</ref>
+|line=
+|model=''Gamma''-class Light Personnel Carrier<ref name="TA" />
+|type=[[Transport/Legends|Transport]] and supply [[Shuttle/Legends|shuttle]]<ref name="TA" />
+|cost=
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|meters]]<ref name="TA" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=80 [[Megalight|MGLT]]<ref name="CA">''[[Classic Adventures]]''</ref>
+|max speed=1,050 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="CA" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="CA" />
+*Class 18 {{C|backup}}<ref name="CA" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]], three jump limit<ref name="CA" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] (4)<ref name="TA" />
+|complement=
+|bays=
+|escapepods=
+|crew=2,<ref name="TA" /> [[Gunner/Legends|gunners]]: 3, 4<ref name="N1">While the stat block says the [[Starship/Legends|ship]] has three gunners, the describing text says there are four.</ref>
+|skeleton=1<ref name="CA" />
+|passengers=40<ref name="TA" />
+|capacity=1 [[Metric ton/Legends|metric ton]]<ref name="TA" />
+|cargohandling=
+|consumables=3 [[Standard day/Legends|days]]<ref name="TA" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Transport<ref name="TA" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="TA" />
+}}
+The '''''Gamma''-class Light Personnel Carrier''' was an [[Galactic Empire/Legends|Imperial]] [[Shuttle/Legends|shuttle]] used to supply planetary forces. It was also known as the '''Telgorn II lpc ''Gamma''-class personnel shuttle''', while [[Alliance to Restore the Republic/Legends|Rebel]] [[Rebel trooper/Legends|ground forces]] referred to them as '''Gift boxes'''.<ref name="TA" />
+
+==Characteristics==
+[[File:Gamma-classAssaultShuttle-SotG.png|thumb|left|200px|A ''Gamma''-class assault shuttle, the base of the LPC]]
+
+The ''Gamma''-class Light Personnel Carrier was an extensive modification of the [[Gamma-class assault shuttle/Legends|''Gamma''-class assault shuttle]] designed to quickly supply planetary forces. It had a large landing gear that left the hull of the ship two meters off the ground when fully extended. The troops and cargo were deployed via a ramp in the belly of the ship.<ref name="TA" />
+
+In comparison with the assault shuttle, the Light Personnel Carrier was only lightly armed with four [[Laser/Legends|laser]] cannons.<ref name="TA" />
+
+==History==
+Due to the harmless outer appearance but with the capability to deploy a full complement of troops, Rebel ground forces nicknamed these shuttles "gift boxes".<ref name="TA" />
+
+One of these shuttles was carried by the [[Imperial-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]] ''[[Impending Doom]]'', flagship of [[Moff/Legends|Moff]] [[Nile Owen]]. It was destroyed during the [[Skirmish at Najarka]].<ref name="TA" />
+
+==Behind the scenes==
+The ''Gamma''-class Light Personnel Carrier was introduced in the [[West End Games]] adventure ''[[The Abduction]]'', which was later republished in the adventure collection ''[[Classic Adventures]]''.
+
+While the statistics block in the adventures lists that the shuttle only has three gunners, the text actually says it had four, each one operating one laser cannon. Also, ''The Abduction'' gives the shuttle no hyperdrive, while ''Classic Adventures'' lists it with a Class 2 hyperdrive and a Class 18 backup, the same as the Assault Shuttle variant.
+
+==Appearances==
+*''[[The Abduction]]'' {{Reprint|The Abduction}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Shuttle classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Telgorn Corporation products]]
+[[Category:Troop transport starship classes]]

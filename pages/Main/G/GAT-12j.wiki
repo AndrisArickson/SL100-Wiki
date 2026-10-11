@@ -1,0 +1,96 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Skipray_Blastboat.jpg]]
+|name=GAT-12j
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="DB">{{DB|starship|skipray|Skipray blastboat}}</ref>
+|line=
+|model=
+|type=Defense and patrol [[GAT Blastboat series|blastboat]]<ref name="DB" />
+|cost=
+|modifier=
+|sysmods=
+|length=25 [[Meter/Legends|meters]]<ref name="DB" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,200 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="TEGVV">''[[The Essential Guide to Vehicles and Vessels]]''</ref>
+|maneuverability=
+|engine=
+|hyperdrive=[[Hyperdrive/Legends|Class 2]]<ref name="DB" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=[[Sarylcorp]] [[ViX multi-flux reactor]]<ref name="HtESB">''[[Heir to the Empire Sourcebook]]''</ref>
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|hull=
+|sensor=[[Siep-Irol/Legends|Siep-Irol]] [["Omni-Vu" sensor pylon]]s (2)<ref name="HtESB" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]] (4 jump limit)<ref name="DB" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Mendarn Arms]] [[Dar-2 ion cannon]]s (3)<ref name="DB" />
+*[[Senko Systems]] [[5000x2 "Tru-Lok" laser cannon]] turret (1)<ref name="DB" />
+*Starboard proton torpedo launcher (1)<ref name="DB" />
+**12 torpedoes<ref name="TEGVV" />
+*Port [[Concussion missile/Legends|concussion missile]] launcher (1)<ref name="DB" />
+**18 missiles<ref name="TEGVV" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="DB" />
+*Co-pilot/[[Sensor/Legends|Sensor]] officer (1)<ref name="DB" />
+*[[Gunner/Legends|Gunners]] (2)<ref name="DB" />
+|skeleton=1<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+|passengers=None<ref name="HtESB" />
+|capacity=20 [[Metric ton/Legends|metric tons]]<ref name="HtESB" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="DB" />
+|lifesupport=
+|communications=
+|othersystems=Rotating wing assembly<ref name="HtESB" />
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="FF" />
+*[[Imperial Remnant/Legends|Imperial Remnant]]<ref name="FF" />
+}}
+The '''GAT-12j "Skipray"''' was part of the [[GAT Blastboat series]] produced by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]].
+
+==Characteristics==
+The GAT-12j "Skipray" was a twenty-five [[Meter/Legends|meter]] long blastboat, equipped with a Class 2 [[Hyperdrive/Legends|hyperdrive]] and a [[Navigation computer/Legends|navigation computer]] limited to four [[Hyperspace/Legends|hyperspace]] jumps. The GAT-12j was capable of reaching speeds of 1,200 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]] in [[Atmosphere/Legends|atmosphere]].<ref name="DB" />
+
+It required a crew of four and was armed with an impressive array of weaponry, including three medium [[Ion cannon/Legends|ion cannons]], two [[Laser cannon/Legends|laser cannons]], a [[Proton torpedo launcher/Legends|proton torpedo launcher]], and a [[Concussion missile launcher/Legends|concussion missile launcher]].<ref name="DB" />
+
+The GAT-12j had some improvements over the [[GAT-12h]], ammunition bays were larger<ref name="TEGVV" /> and gunnery duties were distributed more evenly.<ref name="PP" />
+
+==History==
+The GAT-12j "Skipray" was one of the most popular version of the [[GAT-12 Skipray Blastboat]]s, produced by Sienar Fleet Systems in service to the [[Galactic Empire/Legends|Galactic Empire]].<ref name="DB" />
+
+The GAT-12j was the final version of the GAT-12h. It was in production months before the [[Battle of Endor/Legends|Battle of Endor]] and was released a few weeks after that event.<ref name="FF" /><ref name="TEGVV" />
+
+By [[9 ABY/Legends|9 ABY]] the GAT-12j Skipray was the most common model in use.<ref name="HtESB" />
+
+==Sources==
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]'' {{1stm}}
+*<!-- 1993-09-XX -->''[[Planets of the Galaxy, Volume Three]]''
+*<!-- 1994-03-XX -->''[[A Guide to the Star Wars Universe, Second Edition, Revised and Expanded]]''
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-XX-XX -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 2004-07-14 -->{{FactFile|133|SKI 3-4|Skipray Blastboat}}
+*<!-- 2011-09-13 -->{{DB|starship|skipray|Skipray blastboat}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:GAT Blastboat series]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Imperial Remnant]]

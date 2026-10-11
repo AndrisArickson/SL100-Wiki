@@ -1,0 +1,356 @@
+{{Top}}
+{{StarshipClass
+|image=[[File:GR-75MediumTransport-100Scenes.png]]
+|name=GR-75 medium transport
+|designer=
+|manufacturer=[[Gallofree Yards, Inc./Legends|Gallofree Yards, Inc.]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|line=
+|model=GR-75 medium transport<ref name="Inside">''[[Inside the Worlds of Star Wars Trilogy]]''</ref>
+|type=Medium [[Transport/Legends|transport]]
+|cost=*350,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="Starships">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*125,000 credits {{C|used}}<ref name="Starships" />
+|modifier=
+|sysmods=
+|length=90 [[Meter/Legends|meters]]<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+|width=
+|height=
+|mass=
+|max accel=900 G
+|mglt=20 [[Megalight|MGLT]]<ref name="BtM" />
+|max speed=650 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="BtM" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 4.0<ref name="BtM" />
+|hdrange=
+|hdsystem=[[Hyperdrive/Legends|Equipped]]<ref name="BtM" />
+|poweroutput=
+|power=
+|shield gen=Rated 240 [[SBD/Legends|SBD]]<ref name="XWA" />
+|hull=Rated 160 [[RU/Legends|RU]]<ref name="XWA" />
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=Standard:
+*None
+Variant:
+*Twin fire-linked [[Laser cannon/Legends|laser cannon]] [[Turret/Legends|turrets]] (4)<ref name="BtM" />
+|complement=
+|bays=
+|escapepods=
+|crew=*Crew (6)<ref name="FF">''[[The Official Star Wars Fact File]]''</ref>
+*[[Gunner/Legends|Gunner]] (1)<ref name="FF" />
+|skeleton=
+|passengers=40<ref name="Starships" /> or 90<ref name="BtM" />
+|capacity=19,000 [[Metric ton/Legends|metric tons]]<ref name="BtM" />
+|cargohandling=
+|consumables=6 [[Standard month/Legends|months]]<ref name="Starships" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Transport
+Modified versions:
+*Shuttle
+*[[Fuel/Legends|Fuel]] tanker
+*[[Fire ship]]
+*Salvage ship
+*[[Slavery/Legends|Slave]] ship<ref name="The Queen of Air and Darkness">{{DoD|The Queen of Air and Darkness}}</ref>
+*[[Landing craft/Legends|Landing craft]]
+*[[Hospital ship/Legends|Hospital ship]]
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="The Queen of Air and Darkness" />
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="SW:RSII">''[[Star Wars: Rogue Squadron II: Rogue Leader]]''</ref>
+*[[Hutt Cartel/Legends|Hutt Cartel]]
+*[[New Republic/Legends|New Republic]]<ref name="DE II">''[[Star Wars: Dark Empire II]]''</ref>
+}}
+{{Quote|I don't think we can protect two transports at a time.|[[Carlist Rieekan/Legends|General Rieekan]]|<ref name="Episode 5">{{Film|V}}</ref>}}
+The '''GR-75 medium transport''', also known as the '''Gallofree medium transport''' or '''Rebel transport''', was a clamshell-hulled [[Transport/Legends|transport]] produced by [[Gallofree Yards, Inc./Legends|Gallofree Yards, Inc.]] Many of these transports served the [[Alliance Fleet/Legends|Alliance Fleet]] during the [[Galactic Civil War/Legends|Galactic Civil War]], including playing a pivotal role in the evacuation of the [[Alliance to Restore the Republic/Legends|Rebellion's]] [[Echo Base/Legends|Echo Base]] during the [[Battle of Hoth/Legends|Battle of Hoth]].
+
+==Characteristics==
+[[File:GR75transport_schem.jpg|thumb|left|GR-75 schematics]]
+A sister design to the civilian [[GR-45 medium transport/Legends|GR-45 model]], the GR-75 was used by freight drivers and shipping firms to haul cargo.
+
+The transport's outer hull was like a thick shell with the interior entirely open for [[Cargo pod/Legends|cargo pods]]. This open-space design could fit up to 19,000 metric tons of cargo into the 90 meter long ship. Modular cargo pods greatly sped up the loading and unloading process.
+
+When the transport was at its cargo capacity, a magnetic [[Deflector shield/Legends|shield]] locked the modules in place, while at the same time kept out the vacuum of space. The factory model included space for forty passengers, but almost all ships traded it for increased cargo storage.
+
+{{IBI|File:GR-75 underside btm.jpg|GR-75 ventral surface, showing cargo pods}}
+Focused entirely on maximizing cargo space, GR-75 transports were armed with four turreted twin [[Laser cannon/Legends|laser cannons]], a deflector shield produced by the shield generator pod above the stern,<ref name="chronicles">''[[Star Wars Chronicles]]''</ref> a meager Class 4 [[Hyperdrive/Legends|hyperdrive]], and a [[Sublight engine/Legends|sublight engine]] array capable of achieving a top atmospheric speed of 650 kilometers per hour. While inexpensive, the GR-75 was notorious for its high maintenance requirements.
+
+Some of these transports were used as shuttles for high ranking [[Alliance to Restore the Republic/Legends|Rebel Alliance]] personnel.
+
+==History==
+The design proved popular with [[Galactic Republic/Legends|Galactic Republic]] forces, and the ships were used as resupply vessels during the [[Clone Wars/Legends|Clone Wars]].<ref name="SOTG07">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+
+[[File:GR-75_transport_SWGTCG.jpg|thumb|left|250px|A GR-75 medium transport takes off from Hoth.]]
+The [[Galactic Empire/Legends|Galactic Empire]] used at least one known unit, the ''[[Shackles of Nizon]]'', which saw service as a [[Slavery/Legends|slave]] ship.<ref name="The Queen of Air and Darkness" />
+
+Many GR-75 transports were acquired by the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] due to their low cost and ready access to spare parts. The transports had hulls impenetrable by Imperial sensors and were additionally equipped with sensor jammers, thus reducing the chances of Imperials detecting Rebel supply runs.<ref name="chronicles" /> Not intended for combat, GR-75s were commonly placed at the center of Alliance fleet formations and relied on starfighter support in blockade-running missions. After Gallofree Yards went bankrupt in [[3 BBY/Legends|3 BBY]], the majority of the remaining stock of ships found its way into the Alliance fleet.
+
+Several GR-75 transports were part of a [[Fleet/Legends|fleet]] led by the [[Salvation (flagship)|''Salvation'']] in [[1 BBY/Legends|1 BBY]]. The fleet was [[Battle near the Itani Nebula|attacked]] by [[Boba Fett/Legends|Boba Fett]], who was trying to capture [[Juno Eclipse/Legends|Juno Eclipse]]. The fleet then jumped to [[Kamino/Legends|Kamino]] on the order of [[General/Legends|General]] [[Rahm Kota/Legends|Rahm Kota]] to [[Assault on Kamino|take out]] the [[Timira City Cloning Facility]]. After the battle, several GR-75s were used as decoys while the imprisoned [[Anakin Skywalker/Legends|Darth Vader]] was taken to the [[Dantooine base/Legends|Dantooine base]] aboard the ''[[Rogue Shadow]]''<ref name="Star Wars: The Force Unleashed II">''[[Star Wars: The Force Unleashed II]]''</ref>
+
+One of the most famous actions performed by GR-75s was the [[Bright Hope/Legends#Running the gauntlet|evacuation of Rebel personnel]] during the [[Battle of Hoth/Legends|Battle of]] [[Hoth/Legends|Hoth]]. More than half of the GR-75s were destroyed, as the Imperial [[Death Squadron/Legends|blockade]] proved too much for the Rebel defenses, though thirteen escaped safely, due to the escort afforded by the [[T-65 X-wing starfighter/Legends|X-wings]] of [[Rogue Squadron/Legends|Rogue Squadron]], as well as the covering fire provided by the [[V-150 Planet Defender/Legends|V-150 anti-orbital ion cannon]].
+
+[[File:LieutenantKarsabi-SWZ.png|thumb|right|270px|A Rebel GR-75 comes under attack from an Imperial [[Alpha-class Xg-1 Star Wing/Legends|''Alpha''-class Xg-1 Star Wing]].]]
+The Alliance used the GR-75s for almost any purpose they could find and the ships became so ubiquitous that they became commonly known as '''Rebel medium transports'''. They were primarily used to transport supplies, equipment, and troops. Some were modified to be [[Tanker/Legends|fuel tankers]] for long range [[Starfighter/Legends|starfighter]] missions or for smaller ships. They also were used as kamikaze vessels, as demonstrated during the [[Fondor shipyard assault|assault on the Fondor shipyards]]<ref name="SW:RSIII">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref> and the [[Battle of Endor/Legends|Battle of Endor]], where they functioned as fire ships and were loaded with explosives.<ref name="ROTJn">[[Star Wars: Return of the Jedi (novelization)|''Star Wars Episode VI: Return of the Jedi'' (novel)]]</ref>
+
+Several vessels fell into the hands of the [[Hutt Cartel/Legends|Hutt Cartel]] who used them to land troops and attack vehicles on [[Hypori/Legends|Hypori]] for the [[Ground Battle on Hypori]].
+
+At least one GR-75 was used to make up a secret retreat in [[137 ABY]],<ref name="SWL25">[[Legacy (2006) 25|''Legacy'' (2006) 25]]</ref> and several were used during the [[Evacuation of Dac]].
+
+==Behind the scenes==
+{{Expandsect}}
+The GR-75 first appeared with the release of [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] and its tie-ins.
+
+The GR-75 has been re-imagined in LEGO form with the release of ''[[LEGO Star Wars II: The Original Trilogy]]''.
+
+==Appearances==
+{{ScrollBox|content=
+[[File:Ioncannongr75.jpg|thumb|right|200px|A GR-75 medium transport retrofitted with an [[Ion cannon/Legends|ion cannon]]]]
+{{Mediacat|imagecat=Images of GR-75 medium transports}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*{{Tales|15|Falling Star}}
+*{{DoD|The Queen of Air and Darkness}}
+*{{DoD|The First to Strike}}
+*''[[Star Wars: The Force Unleashed II]]''
+*''[[Star Tours: The Adventures Continue]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Empire at War: Forces of Corruption]]''
+*[[Star Wars: X-Wing (video game)|''Star Wars: X-Wing'']]
+*''[[Star Wars: Rebel Assault]]''
+*''[[Star Wars: Force Commander]]''
+*[[X-Wing Rogue Squadron ½|''X-Wing Rogue Squadron'' ½]]
+*[[Empire 12|''Empire'' 12]]
+*''[[Star Wars: Rogue Squadron II: Rogue Leader]]''
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*[[Star Wars: Rebellion (video game)|''Star Wars: Rebellion'']]
+*''[[Star Wars Missions 4: Destroy the Liquidator]]''
+*{{WEGCite|story=The Hijacking of Shipment 1037|book=The Far Orbit Project}}
+*[[Vader's Quest 2|''Vader's Quest'' 2]]
+*[[Star Wars (2013) 1|''Star Wars'' (2013) 1]] {{Mo}}
+*{{Kids1997Cite|issue1=6|issue2=10|story=X-Wing Marks the Spot}}
+*"[[The Night Beast]]" {{Reprint|The Night Beast}}
+*"[[The Return of Ben Kenobi]]" {{Reprint|The Return of Ben Kenobi}}
+*"[[Doom Mission]]" {{Reprint|Doom Mission}}
+*{{Kids1997Cite|issue1=11|issue2=15|story=Imperial Spy}}
+*"[[Race for Survival]]" {{Reprint|Race for Survival}}
+*{{Kids1997Cite|issue1=16|issue2=20|story=Death Star Pirates}}
+*"[[The Paradise Detour]]" {{Reprint|The Paradise Detour}}
+*[[Star Wars: Rogue Squadron (video game)|''Star Wars: Rogue Squadron'']]
+*[[Empire 20|''Empire'' 20]]
+*[[Empire 21|''Empire'' 21]]
+*[[Empire 27|''Empire'' 27]]
+*''[[Choices of One]]''
+*[[Rebellion 2|''Rebellion'' 2]]
+*[[Rebellion 3|''Rebellion'' 3]]
+*[[Rebellion 4|''Rebellion'' 4]]
+*[[Rebellion 5|''Rebellion'' 5]]
+*[[Rebellion 15|''Rebellion'' 15]]
+*[[Rebellion 16|''Rebellion'' 16]]
+*{{FFG|story=Dead in the Water|book=Star Wars: Age of Rebellion Game Master's Kit|text=''Star Wars: Age of Rebellion'' Game Master's Kit}} {{Po}}
+*''[[Onslaught at Arda I]]''
+*{{WEGCite|story=Showdown (The Bissillirus Campaign)|book=Star Wars Gamemaster Kit|reprint=1}} {{ID|Rebel transport}}
+*''[[Star Wars Galaxies: Jump to Lightspeed]]''
+*{{JournalCite|12|Idol Intentions}}
+*{{StoryCite|story=Payback: The Tale of Dengar|book=Tales of the Bounty Hunters}}
+*''[[A Valentine Story]]''
+*{{Film|V}}
+*[[Star Wars: Episode V The Empire Strikes Back (junior novelization)|''Star Wars'': Episode V ''The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: The Empire Strikes Back (novelization)|''Star Wars: The Empire Strikes Back'' novelization]] {{Ab|Star Wars: The Empire Strikes Back (unabridged audiobook)}} {{1st|in book}}
+*''[[The Empire Strikes Back: A Storybook]]'' {{Po}}
+*{{ESBRadio|Freedom's Winter}}
+*[[Star Wars (1977) 40|''Star Wars'' (1977) 40]] {{Reprint|Star Wars (1977) 40}}
+*{{ESBRadio|Fire and Ice}}
+*{{StoryCite|story=Entrenched|book=Star Wars: Visionaries}}
+*''[[Star Wars: X-Wing Alliance]]''
+*{{ESBRadio|The Millennium Falcon Pursuit}} {{Mo}}
+*{{WEGCite|story=Droids Can't Fly|book=Shadows of the Empire Sourcebook}}
+*[[Star Wars (1977) 51|''Star Wars'' (1977) 51]] {{Reprint|Star Wars (1977) 51}}
+*''[[Star Wars: Imperial Ace]]''
+*[[Star Wars (1977) 55|''Star Wars'' (1977) 55]] {{Reprint|Star Wars (1977) 55}}
+*''[[The Further Adventures: Planet of the Hoojibs]]'' {{Po}}
+*{{StoryCite|story=Of Possible Futures: The Tale of Zuckuss and 4-LOM|book=Tales of the Bounty Hunters}}
+*''[[Star Wars: Rebel Assault II: The Hidden Empire]]''
+*[[Shadows of the Empire 1|''Shadows of the Empire'' 1]]
+*[[Star Wars: Shadows of the Empire (video game)|''Star Wars: Shadows of the Empire'' video game]] {{C|Appears in cutscene in [[Wikipedia:Personal computer|PC]] version}}
+*[[Star Wars (1977) 78|''Star Wars'' (1977) 78]] {{Reprint|Star Wars (1977) 78}}
+*{{JournalCite|13|Special Ops: Ship Jackers}} {{ID|medium transport}}
+*{{Film|VI}}
+*[[Star Wars: Return of the Jedi (novelization)|''Star Wars: Return of the Jedi'' novelization]] {{Ab|Star Wars: Return of the Jedi (unabridged audiobook)}}
+*{{StoryCite|story=One Last Night in the Mos Eisley Cantina: The Tale of the Wolfman and the Lamproid|book=Tales from the Mos Eisley Cantina}}
+*[[Star Wars (1977) 101|''Star Wars'' (1977) 101]] {{Reprint|Star Wars (1977) 101}}
+*[[X-Wing Rogue Squadron 4|''X-Wing Rogue Squadron'' 4]]
+*[[X-Wing Rogue Squadron 5|''X-Wing Rogue Squadron'' 5]]
+*[[X-Wing Rogue Squadron 9|''X-Wing Rogue Squadron'' 9]]
+*{{Tales|5|Lando's Commandos: On Eagles' Wings}}
+*[[X-Wing Rogue Squadron 21|''X-Wing Rogue Squadron'' 21]]
+*[[X-Wing Rogue Squadron 22|''X-Wing Rogue Squadron'' 22]]
+*[[X-Wing Rogue Squadron 25|''X-Wing Rogue Squadron'' 25]] {{Flash}}
+*''[[Star Wars: Jedi Knight: Dark Forces II]]''
+*''[[X-Wing: Wraith Squadron]]'' {{Ab|X-Wing: Wraith Squadron (unabridged audiobook)}}
+*[[Crimson Empire 3|''Crimson Empire'' 3]]
+*[[Jedi Academy: Leviathan 1|''Jedi Academy: Leviathan'' 1]]
+*''[[The New Jedi Order: Agents of Chaos II: Jedi Eclipse]]''
+*''[[Dark Nest I: The Joiner King]]''
+*[[Legacy (2006) 25|''Legacy'' (2006) 25]]
+}}
+
+===Non-canon appearances===
+{{Mediacat|imagecat=Images of GR-75 medium transports}}
+*<!-- 2001-05-02 -->[[Star Wars Infinities: A New Hope 1|''Star Wars Infinities: A New Hope'' 1]]
+*<!-- 2002-07-10 -->[[Star Wars Infinities: The Empire Strikes Back 1|''Star Wars Infinities: The Empire Strikes Back'' 1]]
+*<!-- 2004-01-28 -->[[Star Wars Infinities: Return of the Jedi 2|''Star Wars Infinities: Return of the Jedi'' 2]]
+*<!-- 2004-03-03 -->[[Star Wars Infinities: Return of the Jedi 3|''Star Wars Infinities: Return of the Jedi'' 3]]
+*<!-- 2004-03-31 -->[[Star Wars Infinities: Return of the Jedi 4|''Star Wars Infinities: Return of the Jedi'' 4]]
+*<!-- 2006-09-11 -->''[[LEGO Star Wars II: The Original Trilogy]]''
+*<!-- 2007-11-06 -->''[[LEGO Star Wars: The Complete Saga]]''
+
+==Sources==
+{{ScrollBox|
+*<!-- 1980-XX-XX -->[[The Empire Strikes Back Coloring Book (1980)|''The Empire Strikes Back Coloring Book'' (1980)]]
+*<!-- 1982-XX-XX -->{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line)|pack=Rebel Transport|link=vintRebelTransport.asp}}
+*<!-- 1984-02-12 -->''[[Star Wars Word Puzzles]]''
+*<!-- 1987-10-XX -->[[Star Wars: The Roleplaying Game (first edition)|''Star Wars: The Roleplaying Game'']] {{Po}}
+*<!-- 1987-11-XX -->''[[The Star Wars Sourcebook]]'' {{ID|Rebel Transport}}
+*<!-- 1988-10-XX -->''[[Assault on Hoth]]'' {{ID|Rebel Transport}}
+*<!-- 1989-01-XX -->''[[The Star Wars Rules Companion]]'' {{ID|Rebel Transport}}
+*<!-- 1990-06-XX -->''[[The Rebel Alliance Sourcebook]]'' {{ID|medium transport}}
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]'' {{ID|medium transport}}
+*<!-- 1992-10-XX -->[[Star Wars: The Roleplaying Game, Second Edition|''Star Wars: The Roleplaying Game'', Second Edition]] {{ID|medium transport}}
+*<!-- 1993-06-XX -->''[[Star Wars Gamemaster Handbook]]'' {{Po}}
+*<!-- 1994-04-XX -->[[The Rebel Alliance Sourcebook (Second Edition)|''The Rebel Alliance Sourcebook'', Second Edition]]
+*<!-- 1994-06-XX -->[[The Star Wars Sourcebook (Second Edition)|''The Star Wars Sourcebook'', Second Edition]] {{ID|Rebel Transport}}
+*<!-- 1994-06-XX -->[[Star Wars Screen Entertainment|''Star Wars'' Screen Entertainment]]
+*<!-- 1994-10-XX -->''[[Star Wars Technical Journal of the Rebel Forces]]''
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]'' {{ID|medium transport}}
+*<!-- 1995-05-XX -->[[The Empire Strikes Back: The National Public Radio Dramatization|''The Empire Strikes Back'': The National Public Radio Dramatization]]
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]'' {{ID|Gallofree transport}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|The Hard, Cold Facts About Hoth}}
+*<!-- 1995-07-XX -->{{GalaxyCite|4|Galactic Bazaar|Galactic Bazaar: The Empire Sells Out!}}
+*<!-- 1995-08-XX -->{{JournalCite|7|Cracken's Rebel Operatives (article)}} {{ID|Gallofree medium transport}}
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-06-XX -->''[[Shadows of the Empire Sourcebook]]''
+*<!-- 1996-08-XX -->''[[Live-Action Adventures]]'' {{ID|medium transport}}
+*<!-- 1996-08-XX -->''[[Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded]]''
+<!-- 1996-11-XX -->{{CardGameSet|set={{CCG|set=Hoth Limited|parent=1}}|cards=
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Medium Transport}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=Shawn Valdez}} {{Po}}
+*<!-- 1996-11-XX -->{{CCG|set=Hoth Limited|cardname=The First Transport Is Away!}}
+}}
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1997-04-XX -->{{GalaxyCite|11|Around the Galaxy}} {{Po}}
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 1997-07-XX -->''[[Cracken's Threat Dossier]]''
+*<!-- 1997-08-XX -->{{GalaxyCite|12|Princess Leia: A Heroine's Tale}} {{Imo}}
+*<!-- 1997-10-XX -->''[[Star Wars Trilogy Sourcebook, Special Edition]]''
+<!-- 1997-11-XX -->{{CardGameSet|set={{CCG|set=Cloud City Limited|parent=1}}|cards=
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Bright Hope}}
+*<!-- 1997-11-XX -->{{CCG|set=Cloud City Limited|cardname=Haven}}
+}}
+*<!-- 1997-12-XX -->''[[Star Wars: The Action Figure Archive]]''
+*<!-- 1997-XX-XX -->''[[Star Wars Chronicles]]''
+*<!-- 1998-02-XX -->{{CollectorCite|1|The Man Who Shot Luke Skywalker}}
+*<!-- 1998-03-27 -->[[Star Wars: Rebellion: Prima's Official Strategy Guide|''Star Wars: Rebellion'': Prima's Official Strategy Guide]]
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Rebel Fleet}}
+*<!-- 1998-XX-XX -->''[[Star Wars: Rogue Squadron: The Official Nintendo Player's Guide]]'' {{Po}}
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2000-07-19 -->{{CCG|set=Death Star II Limited|cardname=''Luminous''}}
+*<!-- 2000-11-XX -->{{GamerCite|1|Shipbuilding Secrets}} {{Po}}
+*<!-- 2001-11-07 -->[[Star Wars: Galactic Battlegrounds: Prima's Official Strategy Guide|''Star Wars: Galactic Battlegrounds'': Prima's Official Strategy Guide]]
+*<!-- 2001-11-30 -->''[[Starships of the Galaxy]]''
+*<!-- 2001-11-XX -->''[[Star Wars: Rogue Squadron II: Rogue Leader: The Official Nintendo Player's Guide]]''
+*<!-- 2002-01-23 -->{{FactFile|4|HOT 1-6|The Battle of Hoth}} {{Imo}}
+*<!-- 2002-02-06 -->{{FactFile|6|HOT 7-12|Escape from Hoth}} {{Imo}}
+*<!-- 2002-02-XX -->''[[The New Jedi Order Sourcebook]]''
+<!-- 2002-03-20 -->{{SourceContents|issue=[[The Official Star Wars Fact File 12|''The Official Star Wars Fact File'' 12]]|contents=
+*<!-- 2002-03-20 -->{{FactFile|12|REG 1-2|The Alliance Regroups}}
+*<!-- 2002-03-20 -->{{FactFile|12|HOM 1-2|''Home One'' (MC80 Mon Calamari Star Cruiser)}}
+}}
+<!-- 2002-03-27 -->{{SourceContents|issue=[[The Official Star Wars Fact File 13|''The Official Star Wars Fact File'' 13]]|contents=
+*<!-- 2002-03-27 -->{{FactFile|13|HOT 5-6|Hoth – Echo Base}}
+*<!-- 2002-03-27 -->{{FactFile|13|KUA 1-4|Kuat Drive Yards}}
+}}
+*<!-- 2002-07-24 -->{{FactFile|30|REB 1-2|Rebel Transport}}
+*<!-- 2003-09-30 -->''[[The New Essential Guide to Vehicles and Vessels]]''
+*<!-- 2003-10-XX -->''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+<!-- 2003-11-XX -->{{CardGameSet|set={{TCG|set=The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Gallofree Medium Transport|link=https://swtcg.com/Content/Images/Cards/ESB/Gallofree_Medium_Transport.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Rebel Escape Squad|link=https://swtcg.com/Content/Images/Cards/ESB/Rebel_Escape_Squad.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Rebel Fleet|link=https://swtcg.com/Content/Images/Cards/ESB/Rebel_Fleet.webp?v=2}} {{Po}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=Rebel Trenches|link=https://swtcg.com/Content/Images/Cards/ESB/Rebel_Trenches.webp?v=2}}
+*<!-- 2003-11-XX -->{{TCG|set=The Empire Strikes Back|cardname=''Redemption'' (A)|link=https://swtcg.com/Content/Images/Cards/ESB/Redemption_A.webp?v=2}} {{Po}}
+}}
+*<!-- 2004-08-05 -->''[[Inside the Worlds of Star Wars Trilogy]]'' {{1stID|GR-75 medium transport}}
+*<!-- 2005-10-17 -->[[Star Wars: Complete Locations (2005)|''Star Wars: Complete Locations'']]
+*<!-- 2006-02-14 -->[[Star Wars: Empire at War: Prima Official Game Guide|''Star Wars: Empire at War'': Prima Official Game Guide]] {{Po}}
+*<!-- 2006-10-24 -->[[Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide|''Star Wars: Empire at War: Forces of Corruption Expansion'': Prima Official Game Guide]] {{Po}}
+*<!-- 2008-09-16 -->''[[The Force Unleashed Campaign Guide]]''
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]'' {{C|See ''Gallofree Yards, Inc.''}}
+*<!-- 2010-10-26 -->[[Star Wars: The Force Unleashed II: Prima Official Game Guide|''Star Wars: The Force Unleashed II'': Prima Official Game Guide]] {{Po}}
+*<!-- 2010-12-14 -->{{SWGTCG|set=The Price of Victory|cardname=GR-75 Medium Transport}}
+*<!-- 2011-09-13 -->{{DB|starship|rebelmediumtransport|Rebel Medium Transport}}
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+*<!-- 2012-12-20 -->{{FFGTCG|set=Star Wars: The Card Game Core Set|cardname=TIE Attack Squadron|link=core/tie-attack-squadron-core-30-2}} {{Po}}
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+*<!-- 2013-09-20 -->{{FFGTCG|set=Escape from Hoth|cardname=''Bright Hope''|link=the-hoth-cycle/escape-from-hoth/bright-hope-escape-from-hoth-65-4}} {{Po}}
+*<!-- 2013-12-10 -->{{InsiderCite|146|Rogues Gallery|Rogues Gallery: Clearance for Immediate Launch|reprint=1}}
+*<!-- 2013-12-13 -->{{FFGTCG|set=Balance of the Force|cardname=Fleet Ambush}} {{Po}}
+*<!-- 2014-04-25 -->[[Star Wars: Age of Rebellion Beginner Game|''Star Wars: Age of Rebellion'' Beginner Game]] {{Po}}
+*<!-- 2014-04-25 -->{{SWE|characters|captain-needa|Captain Needa}} {{C|as "Rebel transport"}}
+<!-- 2014-04-30 -->{{CardGameSet|set={{FFGXW|set=Rebel Transport Expansion Pack}}|cards=
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=''Bright Hope''}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=''Dutyfree''}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=Engine Booster|reprint=1}} {{Po}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=Expanded Cargo Hold}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=GR-75 Medium Transport}}
+*<!-- 2014-04-30 -->{{FFGXW|set=Rebel Transport Expansion Pack|cardname=''Quantum Storm''}}
+}}
+*<!-- 2014-07-03 -->[[Star Wars: Age of Rebellion Core Rulebook|''Star Wars: Age of Rebellion'' Core Rulebook]] {{Po}}
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*<!-- 2014-12-23 -->[[Stay on Target (sourcebook)|''Stay on Target'']]
+<!-- 2015-04-29 -->{{CardGameSet|set={{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|parent=1}}|cards=
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Attacking the Convoy}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Renegade Flight}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Rogue Flight Reunion}} {{Po}}
+*<!-- 2015-04-29 -->{{Topps|set=2015 Topps Star Wars Illustrated: The Empire Strikes Back|cardname=Solo Returns}} {{Po}}
+}}
+*<!-- 2015-05-29 -->{{FFGTCG|set=Evasive Maneuvers|cardname=Resupply Depot|link=rogue-squadron/evasive-maneuvers/resupply-depot-r1291}} {{Po}}
+*<!-- 2018-08-02 -->{{FFGXW2|set=Core Set|cardname=Predator|reprint=1}} {{Po}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWGWiki|Gallofree Medium Transport|GR-75 medium transport}}
+
+{{Interlang
+|cs=Střední transportní loď GR-75/Legendy
+|de=GR-75 Medium-Transporter
+|es=Transporte mediano GR-75/Leyendas
+|nl=GR-75 Medium Transport
+|no=GR-75 Medium Transport
+|pl=Transportowiec Gallofree GR-75
+|pt=Transporte médio GR-75
+}}
+
+[[Category:Gallofree Yards, Inc. products]]
+[[Category:Starship classes of the Alliance to Restore the Republic]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Starship classes of the Galactic Republic]]
+[[Category:Starship classes of the New Republic]]
+[[Category:Transport classes]]
+
+{{RelatedCategories
+|[[Category:GR-75 medium transports]]
+}}

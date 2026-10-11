@@ -1,0 +1,33 @@
+{{Top}}
+[[File:Mission_Commander_TCG_EoD.jpg|thumb|230px|A mission [[Commander/Legends|commander]] visualizes the coordinates of a star system by using a hologram]]
+'''Galactic coordinates''' referred to the location of [[Star system/Legends|star systems]] in [[The galaxy/Legends|the galaxy]]. Every system was located by its XYZ coordinates; X measured the system's "east-west" location, Y measured its "north-south" location, and Z measured its distance above or below the galactic plane. The system was known as the [[Coruscant/Legends|Coruscant]] coordinates system as it was centered on Coruscant rather than the actual galactic center - Coruscant was dignified with XYZ coordinates of 0,0,0 (Triple Zero in military speak). In the Coruscant system, a [[Parsec/Legends|parsec]] was 3.26 [[Light-year/Legends|light-years]], with fifteen parsecs corresponding to one unit on the coordinates scale. A negative number for X, Y or Z coordinates indicated that the star system was west of, south of, or below Coruscant's position.<ref name="The Essential Atlas">''[[The Essential Atlas]]''</ref>
+
+All starship [[Navigation computer/Legends|navigation computers]] contained XYZ coordinates for billions of star systems.<ref name="The Essential Atlas" />
+
+==Examples==
+*[[Coruscant/Legends|Coruscant]], (0,0,0)
+*[[Kiribi]], (099,099,011)<ref name="CCW">''[[Coruscant and the Core Worlds]]''</ref>
+*[[Saleucami/Legends|Saleucami]], (08,05,29)<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref>
+
+==Appearances==
+*{{TCW|Grievous Intrigue}}
+*''[[Under a Black Sun]]'' {{Mo}}
+
+==Sources==
+*<!-- 2002-03-12 -->{{GamerCite|9|Endor and the Moddell Sector}}
+*<!-- 2009-08-18 -->''[[The Essential Atlas]]''
+*<!-- 2015-02-25 -->{{BuildFalconCite|8|Guide to the Galaxy}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Coordenada galáctica/Leyendas
+|pl=Współrzędne galaktyczne
+}}
+
+[[Category:Navigational technology]]
+
+{{RelatedCategories
+|[[Category:Star systems]]
+}}

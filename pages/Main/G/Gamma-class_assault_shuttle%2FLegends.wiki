@@ -1,0 +1,151 @@
+{{Top|leg|title=''Gamma''-class assault shuttle}}
+{{Youmay|the [[Shuttle/Legends|shuttle]]|the similarly-named [[Gamma-class ATR-6 assault transport|''Gamma''-class ATR-6 assault transport]] or [[Gamma-class Light Personnel Carrier|''Gamma''-class Light Personnel Carrier]]}}
+{{StarshipClass
+|image=[[File:Gamma-classAssaultShuttle-SotG.png]]
+|name=''Gamma''-class assault shuttle
+|designer=
+|manufacturer=[[Telgorn Corporation/Legends|Telgorn Corporation]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref>
+|line=
+|model=
+|type=[[Assault shuttle/Legends|Assault shuttle]]<ref name="ISB" />
+|cost=*850,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SagaSotG">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*340,000 credits {{C|used}}<ref name="SagaSotG" />
+|modifier=
+|sysmods=
+|length=30 [[Meter/Legends|Imperial standard meters]]<ref name="ISB" />
+|width=
+|height=
+|mass=
+|max accel=9 [[Megalight|MGLT]]/[[Standard second|second]]<ref name="XWA">''[[Star Wars: X-Wing Alliance]]''</ref>
+|mglt=66 MGLT<ref name="XWA" />
+|max speed=1,050 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]]<ref name="SagaSotG" />
+|maneuverability=52 [[DPF/Legends|DPF]]<ref name="XWA" />
+|engine=Telgorn Corporation [[IA/4 Fusial Thrust Reactor]]s<ref name="ISB" />
+|hyperdrive=*Class 2<ref name="ISB" />
+*Class 18 {{C|[[Backup hyperdrive|backup]]}}<ref name="ISB2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=[[Fabritech/Legends|Fabritech]] [[UL.2 Power Modulator]]<ref name="ISB" />
+|shield gen=[[Novaldex/Legends|Novaldex]] [[Deflector shield generator/Legends|deflector shield generator]]<ref name="ISB" /> {{C|rated 180 [[SBD/Legends|SBD]]}}<ref name="XWA" />
+|hull=Telgorn Corporation tri-level [[Armor/Legends|armor]] plate [[Hull/Legends|hull]]<ref name="ISB" /> {{C|rated 85 [[RU/Legends|RU]]}}<ref name="XWA" />
+|sensor=[[Sensor/Legends|Equipped]]<ref name="ISB2" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]] {{C|three-jump limit}}<ref name="ISB" />
+|avionics=Telgorn Corporation [[Twin-tandem Flight Computer]]<ref name="ISB" />
+|maincomp=
+|countermeasures=
+|armament=*4 [[Taim & Bak/Legends|Taim & Bak]] [[KT6 Heavy Blaster Cannon]]s<ref name="ISB" />
+*2 [[Nordoxicon/Legends|Nordoxicon]] [[Wavefront-active Tractor Beam Projector]]<ref name="ISB" />
+*[[Concussion missile launcher/Legends|Concussion missile launcher]]<ref name="ISB" />
+**15 [[Concussion missile/Legends|concussion missiles]] total<ref name="SagaSotG" />
+|complement=
+|bays=
+|escapepods=
+|crew=5;<ref name="ISB" /> {{C|2 crew, 3 [[Gunner/Legends|gunners]]}}<ref name="ISB2" />
+|skeleton=1<ref name="ISB2" />
+|passengers=40 [[Zero-G assault stormtrooper]]s<ref name="ISB" />
+|capacity=5 [[Metric ton/Legends|metric tons]]<ref name="ISB2" />
+|cargohandling=
+|consumables=1 [[Standard week/Legends|week]]<ref name="ISB2" />
+|lifesupport=
+|communications=
+|othersystems=*[[Kel-Mar]] [[Steady-state Power Coupler]]<ref name="ISB" />
+*Zero-G assault [[Stormtrooper/Legends|stormtrooper]] boarding hatches<ref name="ISB" />
+|availability=Military<ref name="SagaSotG" />
+|role=*Assault shuttle<ref name="ISB" />
+*[[Troop transport/Legends|Troop]] [[Transport/Legends|transport]]<ref name="ISB" />
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="ISB" />
+}}
+The '''''Gamma''-class assault shuttle''' was an [[Galactic Empire/Legends|Imperial]] [[Shuttle/Legends|shuttle]] used to ferry [[Zero-G assault stormtrooper|spacetroopers]] into battle.
+
+==Characteristics==
+[[File:AssaultShuttle-XWA-Cutscene.jpg|thumb|left|250px|A ''Gamma''-class assault shuttle deploys [[Zero-G assault stormtrooper]]s]]
+
+In a standard operation, a ''Gamma''-class assault shuttle would pull up near an enemy ship and take hold of it with either its [[Tractor beam/Legends|tractor beam]] or [[power harpoon launcher]]. It would then launch its spacetroopers to seize control of the vessel, sometimes crippling the ship beforehand with a few well-placed [[Turbolaser/Legends|turbolaser]] shots.<ref name="ISB" />
+
+These ships were composed of three sections. The first section was the command crew cockpit, where a crew of five not only controlled the shuttle, but monitored its spacetroopers as well. The second section, the main body, was where the spacetroopers were carried. There were forty holding compartments for spacetrooper armor, enough for an entire platoon.<ref name="ISB" />
+
+While being stored in the assault shuttle, the spacetroopers' power armor was constantly being recharged. Each compartment was equipped with a fold-away door, allowing the shuttle to quickly launch its troopers into space.<ref name="ISB" />
+
+[[File:GammaClassAssaultShuttleDiagram-ISB.jpg|thumb|left|250px|The deckplan of a ''Gamma''-class assault [[Shuttle/Legends|shuttle]].]]
+
+To protect its valuable cargo of elite spacetroopers, assault shuttles were very well shielded. Unlike most combat ships, which devoted 25% of their power to [[Deflector shield/Legends|shields]], the shields of a ''Gamma''-class assault shuttle took up a full 62% of its power, with over half of that directed to the ship's front arc. This allowed assault shuttles to withstand heavy damage as they pulled up near hostile ships.<ref name="ISB" />
+
+''Gamma''-class assault shuttles were both atmosphere and space capable. They were equipped with Class 2 [[Hyperdrive/Legends|hyperdrives]] (Class 18 backup). However, their capability for [[Hyperspace/Legends|hyperspace]] travel was limited, because their [[Navigation computer/Legends|nav computers]] could only hold enough data for three jumps.<ref name="ISB" />
+
+==History==
+Most [[Imperial-class Star Destroyer/Legends|''Imperial''-class Star Destroyers]] and other large [[Warship/Legends|warships]] carried at least one ''Gamma''-class assault shuttle as well as the corresponding spacetrooper platoon. Additional assault shuttles were given out as needed and available.<ref name="ISB" />
+
+In [[1 BBY/Legends|1 BBY]], a ''Gamma''-class assault shuttle pursued a [[Alliance to Restore the Republic/Legends|Rebel]] [[Freighter/Legends|freighter]] carrying stolen Imperial [[Fuel/Legends|fuel]] [[Slug/Legends|slugs]] from the jungles of [[Oulanne/Legends|Oulanne]] to the space city [[Pellezara station]] in the [[Duro system/Legends|Duro system]]. The seventeen-year-old [[Tarrin Datch/Legends|Tarrin Datch]] took control of the fugitive Rebel ship, outmaneuvering the shuttle through heavy traffic until it could escape into [[Hyperspace/Legends|hyperspace]].<ref name="GG3">''[[Galaxy Guide 3: The Empire Strikes Back]]''</ref>
+
+==Behind the scenes==
+''Gamma''-class assault shuttles were first described in the [[West End Games]] publication ''[[Imperial Sourcebook]]''. A similar but distinct ship, the [[Gamma-class ATR-6 assault transport|''Gamma''-class ATR-6 assault transport]], appeared in the [[Star Wars: X-Wing (video game)|''X-wing'']] series of computer games. At first, it was unclear whether the assault transport was intended to be the same thing as the assault shuttle, because the games were known to use alternate models and statistics for a number of ships. However, both the assault shuttle and assault transport appeared in ''[[Star Wars: X-Wing Alliance]]'', proving that they were separate ships. Unlike the Gamma shuttle, the ATR-6 has not been seen in sources outside the ''X-wing'' games.
+
+''X-wing Alliance'' also depicts the ''Gamma''-class shuttle using an [[Ion cannon/Legends|ion cannon]] in a cutscene. It is not known if this is an error, or if this is a variant or retrofit.
+
+The original ''Imperial Sourcebook'' did not give the ships any backup hyperdrives. The second edition of the ''Imperial Sourcebook'' called the weapons on the assault shuttle "[[KT6 Heavy Blaster Cannon|KT6 heavy blaster cannons]]" and gave the ships Class 18 backup hyperdrives. [[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'']] redesignated their guns into "turbolasers."
+
+==Appearances==
+{{Mediacat|imagecat=Images of Gamma-class assault shuttles}}
+[[File:Gamma-class_Assault_Shuttle.jpg|thumb|right|250px|A ''Gamma''-class assault shuttle profile]]
+*{{StoryCite|story=A Hunter's Fate: Greedo's Tale|book=Tales from the Mos Eisley Cantina}}
+*{{Hyperspace|url=hyperspace/member/webstrips/greedo/index.html?show=1|text=A Hunter's Fate: Greedo's Tale|int=A Hunter's Fate: Greedo's Tale (webstrip)}}
+*''[[The Abduction]]'' {{Reprint|The Abduction}}
+*[[Dark Forces: Soldier for the Empire (audio drama)|''Dark Forces: Soldier for the Empire'' audio drama]] {{Mo}}
+*{{StoryCite|story=When the Desert Wind Turns: The Stormtrooper's Tale|book=Tales from the Mos Eisley Cantina}}
+*{{WEGCite|story=Showdown (The Bissillirus Campaign)|book=Star Wars Gamemaster Kit|reprint=1}}
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+*''[[Star Wars: X-Wing Alliance]]''
+*{{WEGCite|story=Will the Last Person Leaving Vergesso Turn Off the Lights?|book=Shadows of the Empire Planets Guide}}
+*{{DarkStryder|adventure=Wildfire (adventure)|book=The Kathol Outback|reprint=yes}}
+*{{DarkStryder|adventure=Endgame (adventure)|book=Endgame|reprint=yes}}
+*''[[Jedi Search]]'' {{1st}}
+*''[[Champions of the Force]]''
+*[[Darksaber (novel)|''Darksaber'']]
+
+==Sources==
+{{ScrollBox|content=
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]''
+*<!-- 1991-06-XX -->''[[Death Star Technical Companion]]''
+*<!-- 1993-06-XX -->[[Wanted by Cracken (sourcebook)|''Wanted by Cracken'']]
+*<!-- 1993-XX-XX -->[[Death Star Technical Companion (Second Edition)|''Death Star Technical Companion'', Second Edition]]
+*<!-- 1994-03-XX -->''[[The Last Command Sourcebook]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-06-XX -->''[[Alliance Intelligence Reports]]''
+*<!-- 1995-10-XX -->''[[The Essential Guide to Characters]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-02-XX -->''[[The Truce at Bakura Sourcebook]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1996-04-XX -->''[[The Jedi Academy Sourcebook]]''
+*<!-- 1996-10-XXF -->''[[Shadows of the Empire Planets Guide]]''
+*<!-- 1996-XX-XX -->[[Galaxy Guide 3: The Empire Strikes Back (Second Edition)|''Galaxy Guide 3: The Empire Strikes Back'', Second Edition]]
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+*<!-- 1998-06-30 -->''[[Star Wars Encyclopedia]]''
+*<!-- 1999-05-03 -->[[Star Wars: X-Wing Alliance: Prima's Official Strategy Guide|''Star Wars: X-Wing Alliance'': Prima's Official Strategy Guide]]
+*<!-- 2002-03-13 -->{{FactFile|11|STA 3-4|Imperial Star Destroyer}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2014-10-14 -->''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Gamma-Klasse Angriffstransporter
+|es=Lanzadera de asalto clase Gamma/Leyendas
+|nl=Gamma-class Assault Shuttle
+}}
+
+[[Category:Assault shuttle classes]]
+[[Category:Starship classes of the Galactic Empire]]
+[[Category:Telgorn Corporation products]]
+
+{{RelatedCategories
+|[[Category:Gamma-class assault shuttles]]
+}}

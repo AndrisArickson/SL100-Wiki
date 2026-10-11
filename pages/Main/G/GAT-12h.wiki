@@ -1,0 +1,97 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Skipray_Blastboat.jpg]]
+|name=GAT-12h
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="ISB">''[[Imperial Sourcebook]]''</ref>
+|line=
+|model=
+|type=Defense and patrol [[GAT Blastboat series|blastboat]]<ref name="ISB2">[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]</ref>
+|cost=*285,000 [[Galactic Credit Standard/Legends|credits]] (new)<ref name="ISB2" />
+*150,000 credits (used)<ref name="ISB2" />
+|modifier=
+|sysmods=
+|length=25 [[Meter/Legends|meters]]<ref name="ISB" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,200 [[Kilometer/Legends|km]][[Standard hour/Legends|h]]<ref name="ISB2" />
+|maneuverability=
+|engine=
+|hyperdrive=[[Hyperdrive/Legends|Class 2]]<ref name="ISB" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="ISB" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]] (4 jump limit)<ref name="ISB" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*3 medium [[Ion cannon/Legends|ion cannons]]<ref name="ISB" />
+*1 [[Proton torpedo launcher/Legends|proton torpedo launcher]]<ref name="ISB" />
+**Standard load: 4 torpedoes<ref name="SotGSaga">[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]</ref>
+*2 [[Laser cannon/Legends|laser cannons]]<ref name="ISB" />
+*1 [[Concussion missile launcher/Legends|concussion missile launcher]]<ref name="ISB" />
+**Standard load: 8 missiles<ref name="SotGSaga" />
+|complement=
+|bays=
+|escapepods=
+|crew=2 plus 2 [[Gunner/Legends|gunners]]<ref name="ISB2" />
+|skeleton=1<ref name="ISB2" />
+|passengers=
+|capacity=20 [[Metric ton/Legends|metric tons]]<ref name="ISB2" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="ISB2" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name="ISB2" />
+}}
+The '''GAT-12h "Skipray"''' was part of the [[GAT Blastboat series]] produced by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]].
+
+==Characteristics==
+The GAT-12h "Skipray" was a twenty-five [[Meter/Legends|meter]] long [[GAT Blastboat series|Blastboat]].<ref name="ISB2" /> Equipped with a Class 2 [[Hyperdrive/Legends|hyperdrive]] and a [[Navigation computer/Legends|navigation computer]] limited to four [[Hyperspace/Legends|hyperspace]] jumps,<ref name="ISB" /> the GAT-12h was capable of reaching speeds of 1,200 [[Kilometer/Legends|kilometers]] an [[Standard hour/Legends|hour]] in [[Atmosphere/Legends|atmosphere]].<ref name="ISB2" /> The GAT-12h required a crew of four;<ref name="ISB" /> two crew and two [[Gunner/Legends|gunners]].<ref name="ISB2" />
+
+The GAT-12h was armed with an impressive array of weaponry, including three medium [[Mendarn Arms]] [[Dar-2 ion cannon]]s, 2 [[Senko Systems]] [[5000x2 "Tru-Lok" laser cannon]]s mounted in a turret, a starboard [[Proton torpedo launcher/Legends|proton torpedo launcher]], and a port [[Concussion missile launcher/Legends|concussion missile launcher]].<ref name="DB">{{DB|starship|skipray|Skipray blastboat}}</ref>
+
+==History==
+The GAT-12h "Skipray" was the most popular variant of the [[GAT Blastboat series]] produced by Sienar Fleet System in service to the [[Galactic Empire/Legends|Galactic Empire]].<ref name="ISB" />
+
+The first GAT-12h Skipray Blastboats were released prior to the [[Battle of Yavin/Legends|Battle of Yavin]].<ref name="SotGSaga" /> Due to costs the [[Imperial Navy/Legends|Imperial Navy]] didn't purchase all the vessels produced and Sienar eventually sold the blastboat to the private market, that way the Skipray was adquired by mercenaries and paramilitary groups.<ref name="DB" />
+
+==Appearances==
+*{{DoD|Jaws of the Sarlacc}}
+*{{WEGCite|story=The Trap (adventure scenario)|book=The Far Orbit Project}}
+*''[[Graveyard of Alderaan]]'' {{Reprint|Graveyard of Alderaan}} {{1st}}
+
+==Sources==
+*<!-- 1989-10-XX -->''[[Imperial Sourcebook]]'' {{1stm}}
+*<!-- 1992-07-XX -->''[[Heir to the Empire Sourcebook]]''
+*<!-- 1994-07-XX -->[[Imperial Sourcebook (Second Edition)|''Imperial Sourcebook'', Second Edition]]
+*<!-- 1995-07-17 -->''[[The DarkStryder Campaign]]''
+*<!-- 1995-10-XX -->''[[Star Wars Gamemaster Screen, Revised]]''
+*<!-- 1996-03-XX -->''[[The Essential Guide to Vehicles and Vessels]]''
+*<!-- 1996-04-15 -->''[[The Thrawn Trilogy Sourcebook]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 2004-07-14 -->{{FactFile|133|SKI 3-4|Skipray Blastboat}}
+*<!-- 2007-12-18 -->[[Starships of the Galaxy (Saga Edition)|''Starships of the Galaxy'', Saga Edition]]
+*<!-- 2008-12-09 -->''[[The Complete Star Wars Encyclopedia]]''
+*<!-- 2011-09-13 -->{{DB|starship|skipray|Skipray blastboat}}
+*<!-- 2012-08-17 -->[[Star Wars: Edge of the Empire Beta|''Star Wars: Edge of the Empire'' Beta]]
+*<!-- 2013-07-05 -->[[Star Wars: Edge of the Empire Core Rulebook|''Star Wars: Edge of the Empire'' Core Rulebook]]
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:GAT Blastboat series]]
+[[Category:Starship classes of the Galactic Empire]]
