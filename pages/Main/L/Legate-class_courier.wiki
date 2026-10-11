@@ -1,0 +1,70 @@
+{{Top|leg|title=''Legate''-class courier}}
+{{StarshipClass
+|image=
+|name=''Legate''-class courier
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="EV">''[[Endless Vigil]]''</ref>
+|line=
+|model=''Legate''-class<ref name="EV" />
+|type=[[Courier/Legends|Courier]]
+|cost=*[[Galactic Civil War/Legends|Galactic Civil War]]: 65,000 [[Galactic Credit Standard/Legends|credits]]<ref name="EV" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=[[X.a-14 fusial thrust engine]] (2)<ref name="EV" />
+|hyperdrive=*Primary: Class 2<ref name="EV" />
+*Backup: Class 8<ref name="EV" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=[[Mk IX Bantam reactor]]<ref name="EV" />
+|shield gen=
+|hull=
+|sensor=Short-range<ref name="EV" />
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="EV" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=GAT-12g:
+*Dorsal turret-mounted light [[Ion cannon/Legends|ion cannons]] (1)<ref name="EV" />
+*Forward-mounted light [[Laser cannon/Legends|Laser cannons]] (2)<ref name="EV" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="EV" />
+*Co-pilot (1)<ref name="EV" />
+|skeleton=
+|passengers=4<ref name="EV" />
+|capacity=
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="EV" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Courier
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''''Legate''-class courier''' was a [[Courier/Legends|courier]] designed and manufactured by [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] during the [[Galactic Civil War/Legends|Galactic Civil War]].
+
+==Description==
+Using the hull of SFS's [[GAT-12 Skipray Blastboat|''Skipray''-class]], the ''Legate''-class was a medium courier meant to carry passengers and cargo over long distances. Because it was based on the hull of a combat ship, the ''Legate''s were fast and sturdy vehicles with resistant hulls. Their hold was modular and could be reconfigured to accommodate hauling both cargo and living passengers comfortably. Its sleek forward hull, stubby, sponson-like wings, and aft engines were similar to its ''Skipray'' cousin. With port and starboard nacelles holding the ships fusial thrust engines, long, thin vertical stabilizers extended from the ventral and dorsal surfaces of the reactor housing. The ship had forward mounted laser cannons under the nose and a dorsal turret.
+
+==Sources==
+*<!-- 2016-10-31 -->''[[Endless Vigil]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Courier classes]]
+[[Category:Sienar Fleet Systems products]]

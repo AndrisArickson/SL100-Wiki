@@ -1,0 +1,82 @@
+{{Top|leg|title=''Lethisk''-class armed freighter}}
+{{StarshipClass
+|image=[[File:L-Wing_1.jpg]]
+|name=''Lethisk''-class armed freighter
+|designer=
+|manufacturer=[[Arakyd Industries/Legends|Arakyd Industries]]<ref name="kotorcg">''[[Knights of the Old Republic Campaign Guide]]''</ref>
+|line=
+|model=''Lethisk''-class armed freighter
+|type=[[Freighter/Legends|Freighter]]<ref name="kotorcg" />
+|cost=*470,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="kotorcg" />
+*225,000 {{C|used}}<ref name="kotorcg" />
+|modifier=
+|sysmods=
+|length=34 [[Meter/Legends|meters]]<ref name="kotorcg" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=900 [[Kilometer per hour/Legends|km/h]]<ref name="kotorcg" />
+|maneuverability=
+|engine=
+|hyperdrive=Class 2<ref name="kotorcg" />
+*Class 12 {{C|[[Backup hyperdrive|backup]]}}<ref name="kotorcg" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="kotorcg" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="kotorcg" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="kotorcg" />
+*[[Concussion missile/Legends|Concussion missile]] [[Concussion missile launcher/Legends|launcher]]<ref name="kotorcg" />
+**12 light concussion missiles<ref name="kotorcg" />
+|complement=
+|bays=
+|escapepods=
+|crew=3<ref name="kotorcg" />
+|skeleton=
+|passengers=8<ref name="kotorcg" />
+|capacity=60 [[Metric ton/Legends|tons]]<ref name="kotorcg" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="kotorcg" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=Restricted<ref name="kotorcg" />
+|role=*Transport<ref name="kotorcg" />
+*Escort<ref name="kotorcg" />
+|firstuse=
+|retired=
+|affiliation=*[[Exchange]]<ref name="kotorcg" />
+*[[Sandral family]]<ref name="kotorcg" />
+}}
+The '''''Lethisk''-class armed freighter''' was a large [[Realspace/Legends|space]] [[Transport/Legends|transport]] designed by [[Arakyd Industries/Legends|Arakyd Industries]] and used around the time of the [[Jedi Civil War]].
+
+==History==
+Even though intended by [[Arakyd Industries/Legends|Arakyd Industries]] to be the [[Starship/Legends|ship]] for general public, the ''Lethisk''-class [[Freighter/Legends|freighter]] was too costly for any but the richest [[Galactic Republic/Legends|Republic]] citizens. Some of the ships have found their way into the hands of [[Crime lord/Legends|crime lords]] and [[Smuggler/Legends|smugglers]], but most were acquired by its target group: the wealthy families such as [[Sandral family]] from [[Dantooine/Legends|Dantooine]], who kept their ship docked atop their [[Sandral estate|estate]].<ref name="k1">''[[Star Wars: Knights of the Old Republic]]''</ref> More than 30 ships were sold at significant discount to [[Exchange]] crime bosses by a group of Arakyd employees, who were later sent to the [[Spice mines of Kessel/Legends|spice Mines of Kessel]] for that crime, including the Sector Executive of the [[Raioballo sector/Legends|Raioballo sector]].<ref name="kotorcg" />
+
+==Behind the scenes==
+This ship was first seen parked on top of the [[Sandral estate]] in ''[[Star Wars: Knights of the Old Republic]]''. The model seen here was reassembled from game source files, in which the ship was called an ''l-wing''. The official name of the class was established by the ''[[Knights of the Old Republic Campaign Guide]]''.
+
+==Appearances==
+*''[[Star Wars: Knights of the Old Republic]]'' {{1st}}
+
+==Sources==
+*<!-- 2008-08-19 -->''[[Knights of the Old Republic Campaign Guide]]'' {{1stID|''Lethisk''-class armed freighter}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|pl=Frachtowiec typu Lethisk
+}}
+
+[[Category:Arakyd Industries products]]
+[[Category:Freighter classes]]

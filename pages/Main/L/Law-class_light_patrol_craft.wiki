@@ -1,0 +1,90 @@
+{{Top|leg|title=''Law''-class light patrol craft}}
+{{StarshipClass
+|image=[[File:Lawclass.jpg]]
+|name=''Law''-class light patrol craft
+|designer=
+|manufacturer=[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="PP">''[[Pirates & Privateers]]''</ref>
+|line=
+|model=
+|type=[[Patrol ship/Legends|Patrol craft]]
+|cost=
+|modifier=
+|sysmods=
+|length=51 [[Meter/Legends|meters]]<ref name="PP" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=850 [[Kilometer per hour/Legends|km]]/[[Standard hour/Legends|h]]<ref name="PP" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="PP" />
+*Class 12 {{C|backup}}<ref name="PP" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="PP" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Laser cannon/Legends|Laser cannons]] (2)<ref name="PP" />
+*[[Laser/Legends|Laser]] [[Cannon/Legends|cannon]] [[Turret/Legends|turrets]] (2)<ref name="PP" />
+*[[Proton torpedo/Legends|Proton torpedo]] [[Proton torpedo launcher/Legends|launcher]]<ref name="PP" />
+**(5 torpedoes)<ref name="TFOP">''[[The Far Orbit Project]]''</ref>
+|complement=
+|bays=
+|escapepods=
+|crew=15 {{C|5 gunners}}<ref name="PP" />
+|skeleton=4<ref name="PP" />
+|passengers=10 [[Prisoner/Legends|prisoners]]<ref name="PP" />
+|capacity=250 [[Metric ton/Legends|metric tons]]<ref name="PP" />
+|cargohandling=
+|consumables=3 [[Standard month/Legends|months]]<ref name="PP" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*[[Scout ship/Legends|Scout]] craft<ref name="PP" />
+*Systems patrol craft<ref name="PP" />
+*Customs ship<ref name="PP" />
+|firstuse=
+|retired=
+|affiliation=[[Sector Ranger/Legends|Sector Rangers]]<ref name="TFOP" />
+}}
+The [[Kuat Drive Yards/Legends|Kuat Drive Yards]] '''''Law''-class light patrol craft''' was intended as a scout craft but more often saw use as a systems patrol and customs ship.<ref name="PP" />
+
+==Characteristics==
+51 meters long, it carried 15 crew (including 5 gunners), up to 10 prisoners, 250 metric tons of cargo, and 3 months' worth of [[Foodstuff/Legends|consumables]].<ref name="PP" />
+
+Capable of 850 kilometers per hour in atmosphere, the ship had a Class 1 [[Hyperdrive/Legends|hyperdrive]] and a Class 12 backup.<ref name="PP" />
+
+The ship boasted 4 laser cannons (2 forward and 2 turreted) and 1 forward [[Proton torpedo/Legends|proton torpedo]] launcher which held 5 torpedoes. It was modestly shielded.<ref name="TFOP" />
+
+==History==
+The ''Law''-class patrol craft was released years before the [[Battle of Yavin/Legends|Battle of Yavin]] and was used in many sectors.<ref name="PP" />
+
+The ''Law''-class was the primary vessel of [[Sector Ranger/Legends|Sector Rangers]].<ref name="TFOP" />
+
+==Appearances==
+*{{WEGCite|story=Freedom Strike Seltos (adventure)|book=Twin Stars of Kira (sourcebook)}} {{ID|''Law''-class Light Patrol Craft}} {{1st}}
+
+==Sources==
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fi=Law-luokan kevyt partioalus
+|es=Patrulla ligera clase Ley
+}}
+
+[[Category:Kuat Drive Yards products]]
+[[Category:Patrol craft classes]]

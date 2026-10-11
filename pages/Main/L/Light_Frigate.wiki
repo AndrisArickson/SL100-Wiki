@@ -1,0 +1,66 @@
+{{Top|leg}}
+{{StarshipClass
+|image=
+|name=Light Frigate
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="AJ2">{{JournalCite|2|Rebel Privateers!}}</ref>
+|line=
+|model=
+|type=[[Frigate/Legends|Frigate]]<ref name="AJ2" />
+|cost=1,000,000 [[Galactic Credit Standard/Legends|credits]]<ref name="AJ2" />
+|modifier=
+|sysmods=
+|length=40 [[Meter/Legends|meters]]<ref name="AJ2" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|kmh]]<ref name="AJ2" />
+|maneuverability=
+|engine=
+|hyperdrive=*x2 {{C|Primary}}<ref name="AJ2" />
+*x15 {{C|Backup}}<ref name="AJ2" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*[[Heavy laser cannon/Legends|Heavy laser cannon]] (4)<ref name="AJ2" />
+*[[Ion cannon/Legends|Ion cannon]] (1)<ref name="AJ2" />
+*[[Tractor beam/Legends|Tractor beam]] (1)<ref name="AJ2" />
+|complement=
+|bays=
+|escapepods=
+|crew=6<ref name="AJ2" />
+|skeleton=
+|passengers=6<ref name="AJ2" />
+|capacity=100 [[Metric ton/Legends|metric tons]]<ref name="AJ2" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="AJ2" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Imperial Office of Customs/Legends|Customs enforcement]]<ref name="AJ2" />
+|firstuse=
+|retired=
+|affiliation=[[Privateer/Legends|Privateers]]<ref name="AJ2" />
+}}
+The [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] '''Light Frigate''' was a smaller [[Starship/Legends|starship]] that was often used in [[Imperial Office of Customs/Legends|customs enforcement]]. It was frequently captured by [[Pirate/Legends|pirates]] and used in [[Privateer/Legends|privateering]].<ref name="AJ2" />
+
+==Sources==
+*<!-- 1994-05-XX -->{{JournalCite|2|Rebel Privateers!|reprint=1}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Frigate classes]]
+[[Category:Sienar Fleet Systems products]]

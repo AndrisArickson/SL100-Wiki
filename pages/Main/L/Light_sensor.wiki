@@ -1,0 +1,52 @@
+{{Top|leg}}
+{{Device
+|image=
+|name=Light sensor
+|manufacturer=
+|model=
+|type=[[Sensor/Legends|Sensor]]<ref name="EGWT">''[[The Essential Guide to Weapons and Technology]]''</ref>
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=
+|value=
+|structure=
+|size=
+|material=
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=
+|heritage=
+|affiliation=
+}}
+'''Light sensors''' were a type of [[Sensor/Legends|sensor]]. [[Sensor beacon/Legends|Sensor beacons]], such as [[Fabritech/Legends|Fabritech's]] [[SE-Vigilant automated sensor beacon]], were equipped with light sensors as part of their [[Sensor array/Legends|sensor array]].<ref name="EGWT" /> [[Seeker (droid)/Legends|Seekers]] were equipped with light and [[Heat detector|heat sensors]] that allowed them to track targets.<ref name="CCG">{{CCG|set=Premiere Limited|cardname=Tagge Seeker}}</ref>
+
+==Sources==
+<!-- 1995-12-XX -->{{CardGameSet|set={{CCG|set=Premiere Limited|parent=1}}|cards=
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Han Seeker}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Luke Seeker}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Tagge Seeker}}
+*<!-- 1995-12-XX -->{{CCG|set=Premiere Limited|cardname=Tarkin Seeker}}
+}}
+<!-- 1996-07-XX -->{{CardGameSet|set={{CCG|set=A New Hope Limited|parent=1}}|cards=
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Leia Seeker}}
+*<!-- 1996-07-XX -->{{CCG|set=A New Hope Limited|cardname=Motti Seeker}}
+}}
+*<!-- 1997-11-XX -->''[[The Essential Guide to Weapons and Technology]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Sensor types]]

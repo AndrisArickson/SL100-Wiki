@@ -1,0 +1,80 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Lps.jpg]]
+|name=Light Patrol Ship
+|designer=
+|manufacturer=[[Sienar Fleet Systems/Legends|Sienar Fleet Systems]]<ref name="Pirates & Privateers 82">''[[Pirates & Privateers]]''</ref>
+|line=
+|model=
+|type=
+|cost=
+|modifier=
+|sysmods=
+|length=38 [[Meter/Legends|meters]]<ref name="Pirates & Privateers 82" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=1,050 [[Kilometer per hour/Legends|kmh]]<ref name="Pirates & Privateers 82" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 1<ref name="Pirates & Privateers 82" />
+*Class 10 {{C|backup}}<ref name="Pirates & Privateers 82" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="Pirates & Privateers 82" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*(3) [[Laser cannon/Legends|Laser cannon]] [[Turret/Legends|turrets]]<ref name="Pirates & Privateers 82" />
+*(2) Twin [[Laser/Legends|laser]] [[Cannon/Legends|cannons]]<ref name="Pirates & Privateers 82" />
+|complement=
+|bays=
+|escapepods=
+|crew=6 {{C|includes 3 [[Gunner/Legends|gunners]]}}<ref name="Pirates & Privateers 82" />
+|skeleton=
+|passengers=[[Prisoner/Legends|Prisoners]] (8)<ref name="Pirates & Privateers 82" />
+|capacity=100 [[Metric ton/Legends|metric tons]]<ref name="Pirates & Privateers 82" />
+|cargohandling=
+|consumables=1 [[Standard month/Legends|month]]<ref name="Pirates & Privateers 82" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Sector Ranger/Legends|Sector Rangers]]<ref name="Pirates & Privateers 82" />
+*[[Ringali Shell Security Force]]s<ref name="The Far Orbit Project 70">''[[The Far Orbit Project]]''</ref>
+*[[Bounty hunter/Legends|Bounty hunters]]<ref name="Flashpoint! Brak Sector 80">''[[Flashpoint! Brak Sector]]''</ref>
+}}
+The [[Sienar Fleet Systems/Legends|Sienar Fleet Systems]] '''Light Patrol Ship''' was used by the [[Sector Ranger/Legends|Sector Rangers]],<ref name="Pirates & Privateers 82" /> the [[Ringali Shell Security Force]]s,<ref name="The Far Orbit Project 70" /> as well as [[Bounty hunter/Legends|bounty hunters]].<ref name="Flashpoint! Brak Sector 80" />
+
+==Characteristics==
+The Light Patrol Ship had three decks, and was 38 [[Meter/Legends|meters]] long. It carried 6 crew (including 3 [[Gunner/Legends|gunners]]), 8 [[Prisoner/Legends|prisoners]], 100 [[Metric ton/Legends|metric tons]] of cargo, and 1 [[Standard month/Legends|month's]] worth of [[Foodstuff/Legends|consumables]].<ref name="Pirates & Privateers 82" />
+
+The ship could achieve 1,050 [[Kilometer per hour/Legends|km/h]] in atmosphere. It had a Class 1 [[Hyperdrive/Legends|hyperdrive]] and a Class 10 backup. The ship was [[Deflector shield/Legends|shielded]], with 3 [[Laser cannon/Legends|laser cannon]] [[Turret/Legends|turrets]] (2 dorsal and 1 ventral) plus 2 forward twin laser cannons.
+
+{{Ship-stub}}
+
+==Sources==
+*<!-- 1995-04-XX -->''[[Flashpoint! Brak Sector]]''
+*<!-- 1997-02-XX -->''[[Pirates & Privateers]]''
+*<!-- 1998-04-XX -->''[[The Far Orbit Project]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Patrol craft classes]]
+[[Category:Sienar Fleet Systems products]]
+
+{{RelatedCategories
+|[[Category:Light Patrol Ships]]
+}}

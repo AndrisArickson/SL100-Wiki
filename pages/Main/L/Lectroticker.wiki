@@ -1,0 +1,56 @@
+{{Top|leg}}
+{{Device
+|image=[[File:Lectroticker.svg]]
+|name=Lectroticker
+|manufacturer=
+|model=
+|type=
+|culture=
+|creators=
+|created=
+|modifier=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=5,000 [[Galactic Credit Standard/Legends|credits]]<ref name="GG2">''[[Galaxy Guide 2: Yavin and Bespin]]''</ref>
+|value=
+|structure=
+|size=
+|material=*[[Sense-plate]] from a [[pressure sensor]]<ref name="CRFG">[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]</ref>
+*Four wires<ref name="CRFG" />
+*[[Data compiler]] from a [[Life-form scanner/Legends|Life Form Detector]]<ref name="CRFG" />
+|length=
+|width=
+|height=
+|weight=
+|protection=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=Lockpicking<ref name="CRFG" />
+|heritage=
+|affiliation=
+}}
+A '''lectroticker''' was a small electronic device used to bypass high-end [[security lock]]s. It was made up of a small [[sense-plate]] the size of a standard [[security card]] connected by several small wires to a [[data compiler]]. It was inserted into a standard lock and would deliver varying charges to the mechanism to scramble the circuitry in an attempt to unlock it. As the device worked, it would emit clicks as the pulse pattern got closer to the unlocking pattern and the clicks would change to a steady hum when the pattern was matched.<ref name="CRFG" />
+
+They typically cost around 5,000 credits.<ref name="GG2" />
+
+==Sources==
+*<!-- 1989-04-XX -->''[[Galaxy Guide 2: Yavin and Bespin]]''
+*<!-- 1991-06-XX -->[[Cracken's Rebel Field Guide (sourcebook)|''Cracken's Rebel Field Guide'']]
+*<!-- 1994-06-XX -->''[[Cracken's Rebel Operatives]]''
+*<!-- 1995-XX-XX -->[[Galaxy Guide 2: Yavin and Bespin (Second Edition)|''Galaxy Guide 2: Yavin and Bespin'', Second Edition]]
+*<!-- 1996-05-XX -->{{JournalCite|10|Wanted by Cracken (Star Wars Adventure Journal)}}
+*<!-- 1997-07-XX -->''[[Secrets of the Sisar Run]]''
+*<!-- 2008-05-20 -->''[[Threats of the Galaxy]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Lectroticker
+}}
+
+[[Category:Security countermeasures]]
