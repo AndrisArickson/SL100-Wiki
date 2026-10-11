@@ -1,0 +1,70 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=[[File:23X.png]]
+|name=23X
+|designer=
+|manufacturer=**[[Kuat Drive Yards/Legends|Kuat Drive Yards]]<ref name="PrimaBF2" />
+**[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]<ref name="PrimaBF2">[[Star Wars Battlefront II: Prima Official Game Guide|''Star Wars Battlefront II'': Prima Official Game Guide]]</ref>
+|line=
+|model=[[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]]<ref name="card">{{TCG|set=Attack of the Clones|cardname=AT-TE Walker 23X|link=https://swtcg.com/Content/Images/Cards/AOTC/AT_TE_Walker_23X.webp?v=2}}</ref>
+|type=[[Walker/Legends|Walker]]<ref name="card" />
+|cost=
+|modifier=
+|sysmods=
+|length=13.2 [[Meter/Legends|meters]]<ref name="SWCP">''[[Star Wars Chronicles: The Prequels]]'', confirmed by {{SWBoards|url=thread.jspa?threadID=222689&start=2010#14756254|thread=Welcome some BCaT VIPs|user=[[Leland Chee|Leland Y Chee]]|date=2006-05-08|time=10:05 AM|quote=...AT-TE debate (Star Wars Chronicles: The Prequels has the current official length)..}}</ref>
+|width=5.32 meters<ref name="CCS">''[[Star Wars: Complete Cross-Sections]]''</ref>
+|height=5.02 meters<ref name="CCS" />
+|mass=
+|max accel=
+|speed=60 [[Kilometer per hour/Legends|km/h]]<ref name="FF">[[The Official Star Wars Fact File 52|''The Official Star Wars Fact File'' 52]]</ref>
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*[[Anti-personnel laser cannon]]s (6)<ref name="FF" />
+*[[Mass-driver cannon/Legends|Mass-driver cannon]] (1)<ref name="FF" />
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)<ref name="FF" />
+*Spotter (1)<ref name="FF" />
+*At least 2 [[Gunner/Legends|Gunners]]/[[Technician/Legends|Technicians]]<ref name="gunner note">The card image of 23X depicts the mass-driver cannon and the four forward-facing laser cannons firing. According to ''[[The Official Star Wars Fact File]]'', a minimum of 2 gunners/technicians are thus required.</ref>
+|skeleton=
+|passengers=
+|capacity=10 [[Metric ton/Legends|tons]]<ref name="TCWCG">''[[The Clone Wars Campaign Guide]]''</ref>
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=[[Galactic Republic/Legends|Galactic Republic]]<ref name="card" />
+}}
+'''23X''' was the designation of a [[Galactic Republic/Legends|Galactic Republic]] [[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]] (AT-TE), a [[Walker/Legends|walker]]<ref name="card" /> designed by [[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]] and produced by [[Kuat Drive Yards/Legends|Kuat Drive Yards]].<ref name="PrimaBF2" /> Deployed in [[22 BBY/Legends|22 BBY]] during the [[First Battle of Geonosis/Legends|First Battle of Geonosis]] by the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] against the secessionist [[Confederacy of Independent Systems/Legends|Separatists]],<ref name="date">''[[The New Essential Chronology]]''</ref> the walker was one of numerous weapons and vehicles acquired by [[Jedi/Legends|Jedi]] [[Jedi Master/Legends|Master]] [[Yoda/Legends|Yoda]], who had delayed his arrival to the [[Planet/Legends|planet]] [[Geonosis/Legends|Geonosis]] to retrieve these military supplies.<ref name="card" /> Like all AT-TE walkers, 23X was 13.2 [[Meter/Legends|meters]] in length,<ref name="SWCP" /> 5.32 meters wide and 5.02 meters tall.<ref name="CCS" /> It could achieve a maximum speed of 60 [[Kilometer per hour/Legends|km/h]]<ref name="FF" /> and had a cargo capacity of 10 [[Metric ton/Legends|metric tons]].<ref name="TCWCG" /> Armed with six [[anti-personnel laser cannon]]s and a single [[Mass-driver cannon/Legends|mass-driver cannon]], the walker was manned by at least four crew members&mdash;a [[Pilot/Legends|pilot]], a spotter<ref name="FF" /> and at least two [[Gunner/Legends|gunners]]/[[technician]]s.<ref name="gunner note" />
+
+==Behind the scenes==
+{{Quote|Jedi Master Yoda delayed his arrival on Geonosis to acquire weapons and vehicles, including this assault walker.|AT-TE Walker 23X flavour text|<ref name="card" />}}
+AT-TE Walker 23X was the subject of a card released in [[2002]] by [[Wizards of the Coast]] for the [[Star Wars Trading Card Game]]'s first expansion, [[Attack of the Clones (TCG)|Attack of the Clones]].<ref name="card" />
+
+==Sources==
+*<!-- 2002-04-23 -->{{TCG|set=Attack of the Clones|cardname=AT-TE Walker 23X|link=https://swtcg.com/Content/Images/Cards/AOTC/AT_TE_Walker_23X.webp?v=2}} {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=23X
+|nl=23X
+}}
+
+[[Category:All Terrain Tactical Enforcers]]

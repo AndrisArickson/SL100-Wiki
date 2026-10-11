@@ -1,0 +1,70 @@
+{{Top|leg}}
+{{GroundVehicle
+|image=[[File:71E.png]]
+|name=71E
+|designer=
+|manufacturer=*[[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]]
+*[[Kuat Drive Yards/Legends|Kuat Drive Yards]]
+|line=
+|model=[[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]]
+|type=*[[Walker/Legends|Walker]]
+|cost=
+|modifier=
+|sysmods=
+|length=12.4 meters
+|width=5.32 meters
+|height=5.02 meters
+|mass=
+|max accel=
+|speed=60 km/h
+|velocity=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=*Anti-personnel [[Laser cannon/Legends|laser cannons]] (6)
+*[[Mass-driver cannon/Legends|Mass-driver cannon]] (1)
+|complement=
+|bays=
+|escapepods=
+|crew=*[[Pilot/Legends|Pilot]] (1)
+*Spotter (1)
+*[[Gunner/Legends|Gunner]] (5)
+|skeleton=
+|passengers=20 [[Clone trooper/Legends|clone troopers]]
+|capacity=
+|cargohandling=
+|consumables=*Fuel: 500km
+*Air: 3 weeks
+*Rations: 3 weeks
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=*Armor
+*Mechanized infantry
+|firstuse=
+|retired=
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+}}
+{{Quote|The walker design for the All-Terrain Tactical Enforcer is relatively new but sure to grow more popular|AT-TE Walker 71E flavour text|<ref name="TCG">{{TCG|set=Attack of the Clones|cardname=AT-TE Walker 71E|link=https://swtcg.com/Content/Images/Cards/AOTC/AT_TE_Walker_71E.webp?v=2}}</ref>}}
+'''71E''' was the designation of an [[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]] produced by [[Rothana Heavy Engineering/Legends|Rothana Heavy Engineering]] and deployed by the [[Grand Army of the Republic/Legends|Grand Army of the Republic]] during the [[First Battle of Geonosis/Legends|Battle of]] [[Geonosis/Legends|Geonosis]].
+
+==Sources==
+*<!-- 2002-04-23 -->{{TCG|set=Attack of the Clones|cardname=AT-TE Walker 71E|link=https://swtcg.com/Content/Images/Cards/AOTC/AT_TE_Walker_71E.webp?v=2}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=71E
+|nl=71E
+}}
+
+[[Category:All Terrain Tactical Enforcers]]

@@ -1,0 +1,83 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:NovaDrive3Z.jpg]]
+|name=3-Z light freighter
+|designer=
+|manufacturer=[[Nova-Drive]]<ref name="SS">''[[Stock Ships]]''</ref>
+|line=[[YT-series/Legends|YT-series]]
+|model=3-Z light freighter
+|type=[[Light freighter/Legends|Light freighter]]<ref name="SS" />
+|cost=*60,000 [[Galactic Credit Standard/Legends|credits]] {{C|new}}<ref name="SS" />
+*20,000 credits {{C|used}}<ref name="SS" />
+|modifier=
+|sysmods=
+|length=28 [[Meter/Legends|meters]]<ref name="SS" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer per hour/Legends|km/h]]<ref name="SS" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2.0<ref name="SS" />
+*Class 15 {{C|backup}}<ref name="SS" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="SS" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Equipped]]<ref name="SS" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannon]] [[Turret/Legends|turrets]] (2)<ref name="SS" />
+|complement=
+|bays=
+|escapepods=[[Escape pod/Legends|Equipped]]<ref name="SS" />
+|crew=2<ref name="SS" />
+|skeleton=
+|passengers=8<ref name="SS" />
+|capacity=150 [[Metric ton/Legends|metric tons]]<ref name="SS" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="SS" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=[[Transport/Legends|Transport]]<ref name="SS" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+The '''3-Z light freighter''' was a [[Freighter/Legends|freighter]] made by [[Nova-Drive]]. It was an upgraded version of the [[YT-1200 medium freighter|YT-1200 light freighter]] design to make it competitive with contemporary offerings in the independent spacer market.
+
+==Characteristics==
+The hull was stretched and reinforced, allowing for more powerful engines, larger cargo bays, and more spacious living quarters. It featured the primary escape pod in the primary crew area. The 3-Z was as fast as the YT-1200. It was also as fast at sublight speeds as a stock [[YT-1300 light freighter/Legends|YT-1300]], and featured some moderate improvements over the YT-1300. Such included the central-dorsal mounted [[Rectenna/Legends|sensor dish]] provided a greater scanning radius, the standard port-starboard mounted [[Laser cannon/Legends|laser cannons]] provided quality all around its firing arcs, the forward-opening cargo bay allowed easy access, and the [[Cockpit/Legends|cockpit]] featured a more open canopy.<ref name="SS" />
+
+==History==
+[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]] sub-licensed the manufacturing plans of its YT-1200 to Nova-Drive a few months after the licensor halted its production in favor of newer models; CEC had deemed the line too dated for active production. Despite this, Nova-Drive saw an opportunity to upgrade the design to make it competitive with current offerings in the independent spacer market.<ref name="SS" />
+
+CEC was surprised to discover that its cast-off design, revamped and upgraded, was found to be better priced than its current [[YT-series/Legends|YT]] offerings by customers.<ref name="SS" />
+
+==Appearances==
+*[[Operation: Elrood (book)|''Operation: Elrood'']]
+
+==Sources==
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]'' {{ID|#3-Z Light Freighter}}
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]'' {{ID|#3-Z Light Freighter}}
+*<!-- 1997-06-XX -->''[[Stock Ships]]''
+*<!-- 2011-11-03 -->''[[Millennium Falcon Owner's Workshop Manual]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]
+[[Category:Nova-Drive products]]
+
+{{RelatedCategories
+|[[Category:3-Z light freighters]]
+}}

@@ -1,0 +1,77 @@
+{{Top|leg}}
+{{StarshipClass
+|image=[[File:Isilia.png]]
+|name=440 freighter
+|designer=
+|manufacturer=[[Ghtroc Industries/Legends|Ghtroc Industries]]<ref name="PC">''[[The Star Wars Planets Collection]]''</ref>
+|line=
+|model=Class 440 freighter<ref name="PC" />
+|type=[[Light freighter/Legends|Light freighter]]<ref name="PC" />
+|cost=
+|modifier=
+|sysmods=
+|length=28 meters<ref name="PC" />
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=800 [[Kilometer/Legends|km]]/[[Standard hour/Legends|h]]<ref name="PC" />
+|maneuverability=
+|engine=
+|hyperdrive=*Class 3<ref name="PC" />
+*Class 15 backup<ref name="PC" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=Equipped<ref name="PC" />
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=[[Laser cannon/Legends|Laser cannons]] (2)<ref name="PC" />
+|complement=
+|bays=
+|escapepods=
+|crew=4, 2 gunners<ref name="PC" />
+|skeleton=
+|passengers=4<ref name="PC" />
+|capacity=100 metric tons<ref name="PC" />
+|cargohandling=
+|consumables=2 [[Standard month/Legends|months]]<ref name="PC" />
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=
+|firstuse=
+|retired=
+|affiliation=*[[Smuggler/Legends|Smugglers]]<ref name="PC" />
+}}
+The '''440 freighter''' was an older model [[Light freighter/Legends|light freighter]] produced by [[Ghtroc Industries/Legends|Ghtroc Industries]]. It was operated by a crew of two plus two gunners.
+
+==Known ships==
+*''[[Isilia]]''<ref name="PC" />
+
+==Behind the scenes==
+The 440 freighter first appeared in ''[[Planets of the Galaxy, Volume One]]'' in form of the freighter ''[[Isilia]]''. However, the ship's class was not revealed until the release of the [[The Star Wars Planets Collection|''Planets Collection'']] Sourcebook, which compiled and extended several entries of the three ''[[Planets of the Galaxy]]'' books.
+
+All statistics are for the ''Isilia'', a modified variant.
+
+==Sources==
+*<!-- 1991-06-XX -->''[[Planets of the Galaxy, Volume One]]'' {{1stm}}
+*<!-- 1994-11-XX -->''[[The Star Wars Planets Collection]]'' {{1stID|440 freighter}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Freighter classes]]
+[[Category:Ghtroc Industries products]]
+
+{{RelatedCategories
+|[[Category:440 freighters]]
+}}

@@ -1,0 +1,73 @@
+{{Top|leg|title=''4R3'' Light Assault Transport}}
+{{StarshipClass
+|image=
+|name=''4R3'' Light Assault Transport
+|designer=
+|manufacturer=[[Telgorn Corporation/Legends|Telgorn Corporation]]<ref name="DC">''[[Dangerous Covenants]]''</ref>
+|line=
+|model=''4R3'' Light Assault Transport<ref name="DC" />
+|type=[[Assault ship/Legends|Assault ship]]<ref name="DC" />
+|cost=300,000 [[Galactic Credit Standard/Legends|credits]]<ref name="DC" />
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=*Class 2<ref name="DC" />
+*Backup class 15<ref name="DC" />
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=[[Deflector shield generator/Legends|Equipped]]<ref name="DC" />
+|hull=
+|sensor=
+|target=
+|navigation=[[Navigation computer/Legends|Navigation computer]] equipped<ref name="DC" />
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=*Retractable Medium [[Laser cannon/Legends|laser cannons]] (2)<ref name="DC" />
+*Retractable Twin light [[Ion cannon/Legends|ion cannons]] (2)<ref name="DC" />
+*[[Proton torpedo/Legends|Proton torpedo]] launchers (2)<ref name="DC" />
+**7 proton torpedoes per launcher<ref name="DC" />
+|complement=
+|bays=
+|escapepods=
+|crew=5
+|skeleton=
+|passengers=16
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Disguised assault ship<ref name="DC" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+A '''''4R3'' Light Assault Transport''' was a model of [[Assault ship/Legends|assault ship]].
+
+==History==
+Data on the ''4R3'' Light Assault Transport submitted to the [[Bureau of Ships and Services/Legends|Bureau of Ships and Services]] classified the craft as a light freighter rather than an assault transport. This was part of an agreement between the [[Telgorn Corporation/Legends|Telgorn Corporation]], who manufactured the vessel, and the [[Corporate Sector Authority/Legends|Corporate Sector Authority]], who planned to use the ships to launch surprise attacks on pirates and other outlaw craft. While the deception was eventually discovered, attempts to update the model's classification led to widespread confusion, and it remained widely considered a heavily armed cargo ship.<ref name="DC" />
+
+==Capabilities==
+In addition to its array of concealed weaponry, the ''4R3'' class carried a Stinger Assault Boarding Tube as standard equipment to assist in breaching the hulls of hostile or criminal craft in order to deploy boarding parties.<ref name="DC" />
+
+==Sources==
+*<!-- 2014-02-28 -->''[[Dangerous Covenants]]'' {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Assault transport classes]]
+[[Category:Telgorn Corporation products]]
