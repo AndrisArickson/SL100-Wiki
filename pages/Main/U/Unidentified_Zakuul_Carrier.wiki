@@ -1,0 +1,65 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{StarshipClass
+|image=[[File:Kotetzakuulcarrier.jpg]]
+|name=Unidentified Zakuul Carrier
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Transport/Legends|Transport]]<ref name="Chapter 8">{{TORcite|exp=kotet|chapter=8}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|mglt=
+|max speed=
+|maneuverability=
+|engine=
+|hyperdrive=
+|hdrange=
+|hdsystem=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|avionics=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=[[World thrasher|World Thrashers]] (2)<ref name="Chapter 8" />
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Transport<ref name="Chapter 8" />
+|firstuse=
+|retired=
+|affiliation=[[Eternal Empire]]<ref name="Chapter 8" />
+}}
+A type of '''transport''' utilized by the [[Eternal Empire]] of [[Zakuul]] during the [[War against Zakuul]]. It was capable to deploy two [[World thrasher|World Thrashers]] on the battlefield. At least three transports of this class were used to deploy World Thrashers during the [[Assault on Odessen]]<ref name="Chapter 8" /> in [[3630 BBY]].<ref name="Date">{{TOR_updates|5.0}}</ref> 
+
+{{Ship-stub}}
+
+==Appearances==
+*''[[Star Wars: The Old Republic: Knights of the Eternal Throne]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Starship classes of the Eternal Empire]]

@@ -1,0 +1,63 @@
+{{Top|leg}}
+{{Conjecture|legends}}
+{{AirVehicle
+|image=[[File:Patrol_Craft-CCG-Light.jpg]]
+|name=Unidentified patrol craft
+|designer=
+|manufacturer=
+|line=
+|model=
+|type=[[Airspeeder/Legends|Airspeeder]]<ref name="CCG Dark">{{CCG|set=Special Edition Limited|cardname=Patrol Craft (Dark)}}</ref>
+|cost=
+|modifier=
+|sysmods=
+|length=
+|width=
+|height=
+|mass=
+|max accel=
+|speed=
+|velocity=
+|max alt=
+|maneuverability=
+|engine=
+|poweroutput=
+|power=
+|shield gen=
+|hull=
+|sensor=
+|target=
+|navigation=
+|maincomp=
+|countermeasures=
+|armament=
+|complement=
+|bays=
+|escapepods=
+|crew=
+|skeleton=
+|passengers=
+|capacity=
+|cargohandling=
+|consumables=
+|lifesupport=
+|communications=
+|othersystems=
+|availability=
+|role=Patrol craft<ref name="CCG Dark" />
+|firstuse=
+|retired=
+|affiliation=
+}}
+Many of these small, lightly-armed, and enclosed '''patrol craft''', or patrol fighters, were utilized throughout [[The galaxy/Legends|the galaxy]]. They were considered a cheaper alternative to the similarly-used [[Storm IV Twin-Pod cloud car/Legends|Twin-pod cloud car]].<ref name="CCG Light">{{CCG|set=Special Edition Limited|cardname=Patrol Craft (Light)}}</ref> They were sometimes used as pleasure craft by wealthy eccentrics. The craft could be found on planets including [[Bespin/Legends|Bespin]] and [[Coruscant/Legends|Coruscant]].<ref name="CCG Dark" />
+
+==Sources==
+<!-- 1998-11-XX -->{{CardGameSet|set={{CCG|set=Special Edition Limited|parent=1}} {{1stm}}|cards=
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Patrol Craft (Dark)}}
+*<!-- 1998-11-XX -->{{CCG|set=Special Edition Limited|cardname=Patrol Craft (Light)}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Airspeeder models]]
