@@ -79,7 +79,22 @@ CARDS = [
 ]
 
 CARD = ('<div style="flex:1 1 230px;max-width:320px;border:1px solid #8a8f98;border-radius:10px;padding:12px 14px;background:rgba(127,127,127,0.07)">'
-        "'''[[SL100:%s|%s]]'''<br>%s</div>")
+        "%s'''[[SL100:%s|%s]]'''<br>%s</div>")
+# SL100 original card art (images/generated/originals; prompts in meta/generated_images.tsv). Cards without an entry show text only.
+CARD_ART = {
+    "How to Play": "SL100 Card How to Play.jpg", "Combat": "SL100 Card Combat.jpg", "The Force": "SL100 Card The Force.jpg",
+    "Game Master": "SL100 Card Game Master.jpg", "Character creation": "SL100 Card Character creation.jpg",
+    "Characteristics": "SL100 Card Characteristics.jpg", "Species": "SL100 Card Species.jpg", "Origin": "SL100 Origin Hive.jpg",
+    "Faction": "SL100 Faction Galactic Senate.jpg", "Careers": "SL100 Card Careers.jpg", "Skills": "SL100 Card Skills.jpg",
+    "Talents": "SL100 Card Talents.jpg", "Weapons": "SL100 Gear Blaster Rifle.jpg", "Armour": "SL100 Gear Combat Armour.jpg",
+    "Gear": "SL100 Gear Utility Belt.jpg", "Equipment": "SL100 Card Equipment.jpg", "Special Materials": "SL100 Card Special Materials.jpg",
+    "Vehicles and Starships": "SL100 Card Vehicles and Starships.jpg", "Bestiary": "SL100 Card Bestiary.jpg", "Hyperspace": "SL100 Card Hyperspace.jpg",
+}
+
+
+def card_img(page):
+    f = CARD_ART.get(page)
+    return "[[File:%s|frameless|296px|link=SL100:%s]]<br>" % (f, page) if f else ""
 
 MAIN_HEAD = """'''Star Legends - Galactic Wars''' is a roleplaying game set in the Star Wars ''Legends'' universe, played with a d100 system adapted from ''Warhammer Fantasy Roleplay'' 4th edition. Everything a player or GM needs is on the cards below; the Legends background articles (harvested from Wookieepedia, CC BY-SA 3.0) sit behind them and every game page links to its source.
 """
@@ -238,7 +253,7 @@ def build_main(n_talents):
         out.append("== %s ==" % heading)
         out.append('<div style="display:flex;flex-wrap:wrap;gap:14px;margin:8px 0 18px">')
         for page, label, blurb in cards:
-            out.append(CARD % (page, label, blurb % n_talents if "%d" in blurb else blurb))
+            out.append(CARD % (card_img(page), page, label, blurb % n_talents if "%d" in blurb else blurb))
         out.append("</div>\n")
     out.append(MAIN_TAIL)
     return "\n".join(out)
