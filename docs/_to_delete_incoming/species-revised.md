@@ -1,0 +1,2505 @@
+# Species
+
+Star Legends characters may be any of the sentient species of the Legends galaxy. Each entry gives the species' characteristic modifiers (added to the 2d10+20 roll), its talents, Movement, Destiny, Resilience and Extra points, its Size and natural weapons, and a Traits line for anything else the lore demands. The Legends article behind every entry is linked from its heading.
+
+**Status tags.** `[sl100]` marks the seventeen species written by the design group: they stand as written. `[review]` marks species added on 12 Oct 2026 from the Legends articles alone (no d20 abilities or statistics were used); their numbers follow the design rules below and are provisional until reviewed. Entries ending "(thin source)" had little lore to work from.
+
+**Design rules used for the review entries.** Non-human species: modifiers sum to about +30, each +10 or +20, at most two −10s. Near-humans: +20 and an extra species talent, with Destiny 2, Resilience 1, Extra points 3 like Humans. Movement 4, or 3 for Small, 5 for fast, 6–7 for quadrupeds. Small species (about 1.2 m or less) take the Small talent and Large species (about 2.2 m or more) the Large talent, both free. Datapad Use is given to every species except those the lore shows as uncivilised or technology-shunning. Force Sensitive (Tradition) only where the whole species is Force-attuned.
+
+## Index
+
+| Species | Size | Characteristics | Status |
+| --- | --- | --- | --- |
+| [[#Arkanian|Arkanian]] | Average | (see entry) | sl100 |
+| [[#Besalisk|Besalisk]] | Average | (see entry) | sl100 |
+| [[#Chironian|Chironian]] | Large | (see entry) | sl100 |
+| [[#Chiss|Chiss]] | Average | (see entry) | sl100 |
+| [[#Echani|Echani]] | Average | (see entry) | sl100 |
+| [[#Human|Human]] | Average | (see entry) | sl100 |
+| [[#Kel Dor|Kel Dor]] | Average | (see entry) | sl100 |
+| [[#Miraluka|Miraluka]] | Average | (see entry) | sl100 |
+| [[#Nautolan|Nautolan]] | Average | (see entry) | sl100 |
+| [[#Otolla Gungan|Otolla Gungan]] | Average | (see entry) | sl100 |
+| [[#Togruta|Togruta]] | Average | (see entry) | sl100 |
+| [[#Trandoshan|Trandoshan]] | Average | (see entry) | sl100 |
+| [[#T'surr|T'surr]] | Average | (see entry) | sl100 |
+| [[#Twi'lek|Twi'lek]] | Average | (see entry) | sl100 |
+| [[#Weequay|Weequay]] | Average | (see entry) | sl100 |
+| [[#Wookiee|Wookiee]] | Large | (see entry) | sl100 |
+| [[#Zabrak|Zabrak]] | Average | (see entry) | sl100 |
+| [[#Abyssin|Abyssin]] | Average | WS +10, S +10, T +20, Fel −10 | review |
+| [[#Adarian|Adarian]] | Average | I +10, Int +10, WP +10 | review |
+| [[#Advozse|Advozse]] | Average | T +10, Int +10, WP +10 | review |
+| [[#Aleena|Aleena]] | Small | S −10, I +10, Ag +20, Dex +10 | review |
+| [[#Anomid|Anomid]] | Average | Int +20, Dex +10 | review |
+| [[#Anx|Anx]] | Large | S +20, T +10 | review |
+| [[#Anzat|Anzat]] | Average | I +10, Ag +10, WP +10 | review |
+| [[#Aqualish|Aqualish]] | Average | WS +10, S +20, T +10, Fel −10 | review |
+| [[#Arcona|Arcona]] | Average | T +10, Int +10, Fel +10 | review |
+| [[#Askajian|Askajian]] | Average | T +10, WP +10 | review |
+| [[#Ayrou|Ayrou]] | Average | Ag +10, Int +10, Fel +10 | review |
+| [[#Balosar|Balosar]] | Average | I +10, Ag +10, Int +10 | review |
+| [[#Barabel|Barabel]] | Average | S +10, T +20, I +10, Fel −10 | review |
+| [[#Baragwin|Baragwin]] | Average | T +20, I +10, Int +10, Ag −10 | review |
+| [[#Bardottan|Bardottan]] | Average | Int +10, WP +20 | review |
+| [[#Bartokk|Bartokk]] | Average | WS +10, S +10, T +20, Fel −10 | review |
+| [[#Bimm|Bimm]] | Average | Int +10, Fel +10 | review |
+| [[#Bith|Bith]] | Average | S −10, I +10, Dex +10, Int +20 | review |
+| [[#Blood Carver|Blood Carver]] | Average | Ag +10, Dex +10, WP +10 | review |
+| [[#Bothan|Bothan]] | Average | I +10, Int +10, Fel +10 | review |
+| [[#Caamasi|Caamasi]] | Average | WP +10, Fel +20 | review |
+| [[#Caarite|Caarite]] | Average | Int +10, Fel +20 | review |
+| [[#Cathar|Cathar]] | Average | WS +10, S +10, Ag +10 | review |
+| [[#Celegian|Celegian]] | Large | S −10, Int +20, WP +20 | review |
+| [[#Cerean|Cerean]] | Average | I +10, Ag −10, Int +20, WP +10 | review |
+| [[#Chadra-Fan|Chadra-Fan]] | Small | S −10, I +20, Ag +10, Dex +10 | review |
+| [[#Chagrian|Chagrian]] | Average | S +10, T +10, WP +10 | review |
+| [[#Charon|Charon]] | Large | S +20, T +10, WP +10, Fel −10 | review |
+| [[#Chev|Chev]] | Average | T +10, WP +10 | review |
+| [[#Chevin|Chevin]] | Average | S +20, T +10, I +10, Fel −10 | review |
+| [[#Clawdite|Clawdite]] | Average | Ag +10, WP +10, Fel +10 | review |
+| [[#Colicoid|Colicoid]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
+| [[#Cragmoloid|Cragmoloid]] | Large | S +20, T +10, WP +10, Ag −10 | review |
+| [[#Dantari|Dantari]] | Average | S +10, T +10 | review |
+| [[#Dashade|Dashade]] | Average | WS +10, S +10, T +10 | review |
+| [[#Dathomirian|Dathomirian]] | Average | WS +10, T +10, WP +10 | review |
+| [[#Defel|Defel]] | Average | S +10, I +10, Ag +10 | review |
+| [[#Devaronian|Devaronian]] | Average | S +10, T +10, I +10 | review |
+| [[#Diathim|Diathim]] | Average | T −10, Ag +10, WP +10, Fel +20 | review |
+| [[#Drall|Drall]] | Small | S −10, I +10, Int +20, WP +10 | review |
+| [[#Dressellian|Dressellian]] | Average | BS +10, I +10, WP +10 | review |
+| [[#Dug|Dug]] | Average | WS +10, S +10, Ag +20, Fel −10 | review |
+| [[#Duinuogwuin|Duinuogwuin]] | Large | S +20, T +10, Ag −10, Int +10, WP +10 | review |
+| [[#Duros|Duros]] | Average | I +10, Ag +10, Int +10 | review |
+| [[#Ebranite|Ebranite]] | Average | WS +10, S +10, T +10 | review |
+| [[#Elom|Elom]] | Average | T +20, Int +10, WP +10, Fel −10 | review |
+| [[#Elomin|Elomin]] | Average | T +10, Int +10, WP +10 | review |
+| [[#Em'liy|Em'liy]] | Average | WS +10, S +10, T +10 | review |
+| [[#Esh-kha|Esh-kha]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | review |
+| [[#Ewok|Ewok]] | Small | S +10, I +10, Ag +10 | review |
+| [[#Falleen|Falleen]] | Average | WP +10, Fel +20 | review |
+| [[#Farghul|Farghul]] | Average | S +10, Ag +10, Fel +10 | review |
+| [[#Feeorin|Feeorin]] | Average | WS +10, S +20, T +10, Fel −10 | review |
+| [[#Filordus|Filordus]] | Average | T +10, Int +10, Fel +10 | review |
+| [[#Frozian|Frozian]] | Average | T −10, Ag +10, Dex +10, Int +10, WP +10 | review |
+| [[#Gamorrean|Gamorrean]] | Average | WS +10, S +20, T +10, Int −10 | review |
+| [[#Gand|Gand]] | Average | T +10, I +10, WP +10 | review |
+| [[#Gen'Dai|Gen'Dai]] | Average | S +10, T +20, WP +10, Fel −10 | review |
+| [[#Geonosian|Geonosian]] | Average | BS +10, S +10, T +10, Int +10, Fel −10 | review |
+| [[#Givin|Givin]] | Average | T +10, Int +20, WP +10, Fel −10 | review |
+| [[#Gossam|Gossam]] | Small | T −10, Ag +10, Dex +10, Int +10, Fel +10 | review |
+| [[#Gotal|Gotal]] | Average | I +20, WP +10 | review |
+| [[#Gran|Gran]] | Average | I +10, WP +10, Fel +10 | review |
+| [[#H'nemthe|H'nemthe]] | Average | T +10, Ag +10, Int +10 | review |
+| [[#Hapan|Hapan]] | Average | Fel +20 | review |
+| [[#Herglic|Herglic]] | Large | S +20, T +10, Ag −10, Fel +10 | review |
+| [[#Ho'Din|Ho'Din]] | Large | Dex +10, Int +10, WP +10 | review |
+| [[#Houk|Houk]] | Average | WS +10, S +20, T +10, Fel −10 | review |
+| [[#Hrakian|Hrakian]] | Average | T +10, WP +10 | review |
+| [[#Huralok|Huralok]] | Average | S +10, T +10, Int +10, WP +10, Fel −10 | review |
+| [[#Hutt|Hutt]] | Large | S +10, T +20, Ag −10, Int +10, WP +10 | review |
+| [[#Iktotchi|Iktotchi]] | Average | T +10, I +10, Dex −10, Int +10, WP +10 | review |
+| [[#Iotran|Iotran]] | Average | WS +10, BS +10, S +10, WP +10, Fel −10 | review |
+| [[#Ishi Tib|Ishi Tib]] | Average | I +10, Int +10, WP +10 | review |
+| [[#Ithorian|Ithorian]] | Average | T +10, I −10, Int +10, WP +10, Fel +10 | review |
+| [[#Jawa|Jawa]] | Small | Ag +10, Dex +10, Int +10 | review |
+| [[#Jenet|Jenet]] | Average | T +10, I +10, Ag +10, Int +10, Fel −10 | review |
+| [[#Kadas'sa'Nikto|Kadas'sa'Nikto]] | Average | S +10, T +10, Ag +10 | review |
+| [[#Kage|Kage]] | Average | WS +10, Ag +10 | review |
+| [[#Kaleesh|Kaleesh]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | review |
+| [[#Kaminoan|Kaminoan]] | Average | S −10, I +10, Int +20, WP +10 | review |
+| [[#Kerestian|Kerestian]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
+| [[#Keshiri|Keshiri]] | Average | S +10, Fel +10 | review |
+| [[#Khil|Khil]] | Average | Int +10, WP +10, Fel +10 | review |
+| [[#Khommite|Khommite]] | Average | Int +10, WP +10 | review |
+| [[#Kian'thar|Kian'thar]] | Average | S +10, WP +10, Fel +10 | review |
+| [[#Kiffar|Kiffar]] | Average | WP +10, I +10 | review |
+| [[#Kilmaulsi|Kilmaulsi]] | Average | WS +10, T +10, WP +10 | review |
+| [[#Kitonak|Kitonak]] | Small | T +20, WP +20, Ag −10 | review |
+| [[#Klatooinian|Klatooinian]] | Average | WS +10, S +10, T +10 | review |
+| [[#Kobok|Kobok]] | Average | WS +10, S +10, Ag +10, I +10, T −10 | review |
+| [[#Koorivar|Koorivar]] | Average | Int +10, I +10, Fel +10 | review |
+| [[#Korun|Korun]] | Average | T +10, WP +10 | review |
+| [[#Krevaaki|Krevaaki]] | Average | T +10, Int +10, WP +20, Fel −10 | review |
+| [[#Krish|Krish]] | Average | WS +10, Ag +10, Int +10 | review |
+| [[#Kubaz|Kubaz]] | Average | I +10, Dex +10, Int +10 | review |
+| [[#Kushiban|Kushiban]] | Small | Ag +20, I +10, WP +10, S −10 | review |
+| [[#Kyuzo|Kyuzo]] | Average | WS +10, Ag +20 | review |
+| [[#Lannik|Lannik]] | Small | WS +10, T +10, WP +10 | review |
+| [[#Lepi|Lepi]] | Average | Ag +10, I +10, Fel +10 | review |
+| [[#Lorrdian|Lorrdian]] | Average | I +10, Fel +10 | review |
+| [[#Lutrillian|Lutrillian]] | Average | T +10, Int +10, Fel +10 | review |
+| [[#Massassi|Massassi]] | Average | WS +10, S +20, T +10, Int −10 | review |
+| [[#Meerian|Meerian]] | Average | S +10, Fel +10 | review |
+| [[#Menahuun|Menahuun]] | Small | Ag +20, I +10, Int +10, S −10 | review |
+| [[#Mirialan|Mirialan]] | Average | Ag +10, I +10 | review |
+| [[#Mon Calamari|Mon Calamari]] | Average | Int +10, WP +10, Fel +10 | review |
+| [[#Morseerian|Morseerian]] | Average | I +10, Dex +10, Int +10 | review |
+| [[#Mrlssi|Mrlssi]] | Small | I +10, Int +20, Fel +10, S −10 | review |
+| [[#Murachaun|Murachaun]] | Average | S +10, T +10, Fel +10 | review |
+| [[#Mustafarian|Mustafarian]] | Average | S +10, T +10, WP +10 | review |
+| [[#Muun|Muun]] | Average | Int +20, WP +10, Fel +10, S −10 | review |
+| [[#Myneyrsh|Myneyrsh]] | Average | S +10, I +20, Ag +10, Fel −10 | review |
+| [[#Nagai|Nagai]] | Average | Ag +10, WP +10 | review |
+| [[#Nazzar|Nazzar]] | Average | S +10, Ag +10, WP +10 | review |
+| [[#Neimoidian|Neimoidian]] | Average | Dex +10, Int +20, Fel +10, WP −10 | review |
+| [[#Nelvaanian|Nelvaanian]] | Average | S +10, I +10, WP +10 | review |
+| [[#Neti|Neti]] | Average | T +20, Int +10, WP +10, Ag −10 | review |
+| [[#Nikto|Nikto]] | Average | WS +10, S +10, T +10 | review |
+| [[#Noehon|Noehon]] | Small | I +10, Ag +10, Dex +10, Int +10, Fel −10 | review |
+| [[#Noghri|Noghri]] | Small | WS +10, S +10, Ag +10, I +10, Fel −10 | review |
+| [[#Nosaurian|Nosaurian]] | Average | WS +10, T +10, WP +10 | review |
+| [[#Nuknog|Nuknog]] | Small | T +10, I +20, Dex +10, Int −10 | review |
+| [[#Omwati|Omwati]] | Average | Dex +10, Int +10 | review |
+| [[#Ongree|Ongree]] | Average | I +10, Ag +10, Fel +10 | review |
+| [[#Ortolan|Ortolan]] | Average | T +20, I +10, Fel +10, Dex −10 | review |
+| [[#Pa'lowick|Pa'lowick]] | Average | T +10, WP +10, Fel +10 | review |
+| [[#Pacithhip|Pacithhip]] | Average | S +10, T +20, Int +10, Ag −10 | review |
+| [[#Paigun|Paigun]] | Average | WS −10, T +10, Dex +10, Int +20 | review |
+| [[#Pau'an|Pau'an]] | Average | WP +10, Fel +10 | review |
+| [[#Phindian|Phindian]] | Average | WP −10, Ag +10, Dex +10, Int +10, Fel +10 | review |
+| [[#Pho Ph'eahian|Pho Ph'eahian]] | Average | S +10, Int +10, Fel +10 | review |
+| [[#Psadan|Psadan]] | Average | S +10, T +20, Ag −10, WP +10 | review |
+| [[#Quarren|Quarren]] | Average | S +10, T +10, Int +10, WP +10, Fel −10 | review |
+| [[#Quermian|Quermian]] | Average | S −10, Int +20, WP +10, Fel +10 | review |
+| [[#Rakata|Rakata]] | Average | WS +10, T +10, Int +10, WP +10, Fel −10 | review |
+| [[#Ranat|Ranat]] | Small | T +10, I +10, Ag +20, Int −10 | review |
+| [[#Ranth|Ranth]] | Average | S +10, T +10, I +10 | review |
+| [[#Rattataki|Rattataki]] | Average | WS +10, T +10 | review |
+| [[#Rodian|Rodian]] | Average | BS +10, I +10, Ag +10 | review |
+| [[#Ruurian|Ruurian]] | Small | S −10, T +10, Dex +10, Int +20 | review |
+| [[#Rybet|Rybet]] | Average | T +10, I +10, Ag +10, Dex +10, WP −10 | review |
+| [[#Ryn|Ryn]] | Average | Ag +10, Dex +10, Fel +10 | review |
+| [[#S'kytri|S'kytri]] | Average | WS +10, S +10, Fel +10 | review |
+| [[#Saheelindeeli|Saheelindeeli]] | Average | S +10, T +10, Ag +10 | review |
+| [[#Sakiyan|Sakiyan]] | Average | S +10, I +20, Int +10, Fel −10 | review |
+| [[#Sanyassan|Sanyassan]] | Average | WS +10, S +10, T +10, Int −10, WP +10 | review |
+| [[#Sarkan|Sarkan]] | Average | S +10, T +10, Int +10 | review |
+| [[#Saurin|Saurin]] | Average | WS +10, S +10, T +10 | review |
+| [[#Selkath|Selkath]] | Average | Int +10, WP +10, Fel +10 | review |
+| [[#Selonian|Selonian]] | Average | S +10, T +10, Ag +10 | review |
+| [[#Sephi|Sephi]] | Average | Dex +10, Fel +10 | review |
+| [[#Shi'ido|Shi'ido]] | Average | T +10, Int +10, WP +10 | review |
+| [[#Shistavanen|Shistavanen]] | Average | S +10, T +10, I +10, Ag +10, Fel −10 | review |
+| [[#Sith|Sith]] | Average | WS +10, S +10, WP +10 | review |
+| [[#Skakoan|Skakoan]] | Average | T +10, Dex +10, Int +20, Fel −10 | review |
+| [[#Skrilling|Skrilling]] | Average | S +10, T +10, Int +10 | review |
+| [[#Sluissi|Sluissi]] | Average | S −10, Dex +10, Int +20, WP +10 | review |
+| [[#Snivvian|Snivvian]] | Average | T +10, I +10, Int +10 | review |
+| [[#Spiner|Spiner]] | Average | BS +10, T +10, Ag +10 | review |
+| [[#Squalris|Squalris]] | Average | T +10, Ag −10, Int +10, Fel +20 | review |
+| [[#Squib|Squib]] | Small | S −10, I +10, Ag +10, Int +10, Fel +10 | review |
+| [[#Ssi-ruu|Ssi-ruu]] | Average | WS +10, S +10, T +10, Int +10, Fel −10 | review |
+| [[#Sullustan|Sullustan]] | Average | I +10, Dex +10 | review |
+| [[#Svivreni|Svivreni]] | Average | S +10, T +10, Ag −10, WP +20 | review |
+| [[#Swokes Swokes|Swokes Swokes]] | Average | S +10, T +20, Ag −10, WP +10 | review |
+| [[#Talz|Talz]] | Large | S +20, T +10, Int −10, WP +10 | review |
+| [[#Tarasin|Tarasin]] | Average | S −10, I +10, Int +20, WP +10 | review |
+| [[#Tarro|Tarro]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
+| [[#Temolak|Temolak]] | Average | S +10, T +10, Int +10 | review |
+| [[#Thakwaash|Thakwaash]] | Large | S +20, T +10, I +10, WP −10 | review |
+| [[#Theelin|Theelin]] | Average | Dex +10, Fel +10 (near-human) | review |
+| [[#Thisspiasian|Thisspiasian]] | Average | S +10, T +10, WP +10 | review |
+| [[#Tholothian|Tholothian]] | Average | WP +10, Fel +10 (near-human) | review |
+| [[#Tiss'shar|Tiss'shar]] | Average | S +10, Dex +10, Int +10 | review |
+| [[#Togorian|Togorian]] | Average | WS +10, S +10, T +10 | review |
+| [[#Toong|Toong]] | Average | I +10, Ag +10, Int +20, WP −10 | review |
+| [[#Toydarian|Toydarian]] | Small | Dex +10, Int +10, WP +10 | review |
+| [[#Trianii|Trianii]] | Average | S +10, Ag +10, I +10 | review |
+| [[#Tunroth|Tunroth]] | Average | S +10, T +10, I +10 | review |
+| [[#Tusken Raider|Tusken Raider]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
+| [[#Tynnan|Tynnan]] | Small | T +10, Int +10, WP +10 | review |
+| [[#Ubese|Ubese]] | Average | BS +10, T +10, Ag +10, WP +10, Fel −10 | review |
+| [[#Ugnaught|Ugnaught]] | Small | T +10, Dex +10, WP +10 | review |
+| [[#Umbaran|Umbaran]] | Average | Int +10, WP +10 (near-human) | review |
+| [[#Utai|Utai]] | Small | T +10, Dex +10, I +10 | review |
+| [[#Verpine|Verpine]] | Average | S −10, T +10, Dex +10, Int +20 | review |
+| [[#Vodran|Vodran]] | Average | S +10, T +10, Ag +10 | review |
+| [[#Vor|Vor]] | Average | T −10, I +10, Ag +10, Dex +10, Int +10 | review |
+| [[#Vorzydiak|Vorzydiak]] | Average | Int +10, WP +10 (near-human) | review |
+| [[#Voss|Voss]] | Average | WS +10, T +10, WP +10 | review |
+| [[#Vratix|Vratix]] | Average | S +10, Ag +10, Int +10 | review |
+| [[#Vurk|Vurk]] | Average | S +10, T +10, WP +10 | review |
+| [[#Vuvrian|Vuvrian]] | Average | T −10, I +20, Int +10, Fel +10 | review |
+| [[#Whiphid|Whiphid]] | Large | S +20, T +10, I +10, Fel −10 | review |
+| [[#Woostoid|Woostoid]] | Average | Dex +10, Int +20 | review |
+| [[#Wroonian|Wroonian]] | Average | WP +10, Fel +10 (near-human) | review |
+| [[#Xexto|Xexto]] | Small | I +10, Ag +10, Dex +10 | review |
+| [[#Yarkora|Yarkora]] | Average | T +10, I +10, Fel +10 | review |
+| [[#Yevetha|Yevetha]] | Average | WS +10, Ag +10, Int +10, WP +10, Fel −10 | review |
+| [[#Yinchorri|Yinchorri]] | Average | WS +10, S +10, T +20, Int −10 | review |
+| [[#Yuuzhan Vong|Yuuzhan Vong]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | review |
+| [[#Yuzzem|Yuzzem]] | Large | S +20, T +10, WP +10, Fel −10 | review |
+| [[#Yuzzum|Yuzzum]] | Average | I +10, Ag +10, Fel +10 | review |
+| [[#Zeltron|Zeltron]] | Average | Fel +20 (near-human) | review |
+| [[#Zygerrian|Zygerrian]] | Average | WS +10, I +10, Ag +10 | review |
+
+## Species written by the design group `[sl100]`
+
+#### [Arkanian](https://starwars.fandom.com/wiki/Arkanian/Legends) `[sl100]`
+
+|  | Arkanians are a near-human species from the planet Arkania in the Perave system. They are known for their white eyes, white hair, and a superior attitude. Arkanians are highly intelligent and skilled in genetic manipulation, often creating genetic offshoots to serve specific purposes.<br/><br/>They consider themselves the pinnacle of evolution and can be arrogant and aloof. However, some Arkanians are conscientious and ally themselves with the Jedi Order |
+
+Even the slowest Arkanian was able to memorize entire libraries of knowledge and calculate problems that even the Galactic Empire's most advanced supercomputers struggled with.
+
+The most defining trait of the Arkanian species was their arrogance which stemmed from their belief that they were the pinnacle of evolution.
+
+I**NT +20  WILL +10  T +10  FEL -10     Talents:&#32;**Bookish, Datapad Use**,&#32;**Eidetic Memory, Night Vision (Thermal), Resistance (Cold)
+
+**Mv**: 4 **Destiny**: 1 **Resilience**: 1 **Extra Points**: 2
+
+Arkanians are capable of seeing into the infrared spectrum, and their eyes are sensitive to sources of extreme heat.
+
+#### [Besalisk](https://starwars.fandom.com/wiki/Besalisk/Legends) `[sl100]`
+
+| Besalisks are a sentient species of humanoids with four arms. The superior arms dominated over the inferior ones. They average in height between 1.88 and 2.36 meters and had green, orange, or brown colored skin. Their large hands and feet both end in four digits and large brown nails. Besalisks are thick-set, and can have bloated stomachs. Besalisks also possessed a bony, three-pronged head crest and an inflatable wattle. They had wide mouths, and some Besalisks had large, pudgy lips, though not all. Besalisks could sport black or brown hair on both their faces and their heads and could have brown, orange, or yellow eyes. At least one Besalisk was known to be Force-sensitive. |  |
+| --- | --- |
+
+**Characteristics:&#32;**S +10  T +10  AGI -10  FEL +10 **Talents:&#32;**Datapad Use**,** Ambidextrous, roll 3 talents from the random talents list.
+
+**Movement**: 4, **Destiny**: 1, **Resilience**: 1, **Extra points**: 2
+
+#### [Chironian](https://starwars.fandom.com/wiki/Chironian) `[sl100]`
+
+|  | The Chironians were a sentient species distinguished by their centauriform anatomy; while their torso, arms and head resembled those of a humanoid, their lower body was that of a four-legged equine. Another distinctive Chironian feature was the two transparent, smooth horns grown each year from the forehead. These horns started as small velvet-covered knobs, which eventually broke through as fully-fledged horns. If the velvet was cut prematurely, the wound could prove fatal. At least some juvenile Chironians were red-gold in color with white spots on their flanks and back; this color darkened with age and the spots faded. Chironians could grow long manes and tails.<br/><br/> |
+| --- | --- |
+
+**S** +20  **Talents**: Datapad Use**,&#32;**Sprinter, roll 3 talents from the random talents list.
+
+**Movement**: 7  **Destiny**: 1  **Resilience**: 1, **Extra points**: 2
+
+**Size:** Large	 **Natural Weapon:&#32;**Hoof 2+SB & Horns 2+SB
+
+**Size talent:** Large `[review: Large talent added 12 Oct; Wookiees and other big species need it to be that big]`
+
+#### [Chiss](https://starwars.fandom.com/wiki/Chiss/Legends) `[sl100]`
+
+| The Chiss are a humanoid species from the planet Csilla in the Unknown Regions of the Star Wars galaxy. They are known for their distinctive physical features, including blue skin, red eyes, and black hair. The Chiss have a strict and hierarchical society governed by the Chiss Ascendancy, which is made up of the ruling families.<br/><br/>The Chiss are known for their strategic and tactical prowess, and many Chiss excel in military and leadership roles. |  |
+
+The Chiss are generally taller than humans, with males averaging around 1.8 meters and females around 1.6 meters. They have a lifespan similar to that of humans, although they age more rapidly at a young age and reach adulthood faster.
+
+The Chiss are known for their secretive nature and have had little contact with the rest of the galaxy. However, they have been known to form alliances and engage in diplomacy when necessary.
+
+**I** +10  **S** +10  **WILL** +10  **Talents**: Datapad Use**,&#32;**Night Vision (Thermal), Resistance (Cold), Strider (Cold)**,&#32;**Combat Aware
+
+**Mv**: 4  **Destiny**: 1  **Resilience**: 1 **Extra Points**: 2
+
+#### [Echani](https://starwars.fandom.com/wiki/Echani/Legends) `[sl100]`
+
+|  | Echani are a near-human species native to the planet Eshan. They share a close biological resemblance to humans, with the most notable differences being their distinctive physical features. Echani typically have very light skin, often described as pale or even white, which sets them apart from many other humanoid species in the galaxy. Their hair is uniformly white or silver, adding to their unique appearance. One of the most striking features of the Echani is their eyes, which are silver or light gray, giving them an almost otherworldly look. |
+
+The Echani are known for their deep connection to combat and martial arts, which is deeply ingrained in their culture. They believe that true understanding and connection come through combat, viewing it as a form of communication and expression. This philosophy has led to the development of a highly refined martial art that is both efficient and beautiful to behold.
+
+In terms of society and governance, the Echani have a matriarchal structure, with women holding positions of power and leadership. They value wisdom and strategy, often preferring to outmaneuver their opponents rather than overpower them.
+
+In the wider galaxy, Echani are respected for their combat prowess and their skills are sought after by various factions and organizations. Some Echani serve as bodyguards or mercenaries, while others may be found in the ranks of elite military units or even as Jedi, using their unique skills and perspectives to serve the greater good.
+
+The Thyrasian sub species of Echani is known for their dark hair and skin, rather than the white skin and eyes that defined the Echani. They are fond of heavy weapons and often are trained in Ordinance class weapons.
+
+**WS** +10**&#32;&#32;BS** +10**&#32;&#32;AG** +10**&#32;&#32;Talents:&#32;**Combat Aware, Datapad Use**,** Warrior Born, roll 2 talents from the random talents list.
+
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
+
+#### [Human](https://starwars.fandom.com/wiki/Human/Legends) `[sl100]`
+
+| In the Star Wars universe, humans are a diverse and adaptable species, known for their ability to out-breed the rest of the galaxy and their dazzling array of hair and skin colors. Despite their apparent unremarkableness, humans have managed to spread across the galaxy, making them one of the most influential species in the cosmos.<br/><br/>Humans are characterized by their curiosity, adaptability, and ambition, which have allowed them to thrive in a variety of environments. They have established civilizations on countless worlds, from the bustling city-planet of Coruscant to the remote Outer Rim planets. |  |
+
+Their sheer numbers and adaptability have made them a force to be reckoned with in the galaxy. They have played key roles in the rise and fall of empires, the formation of alliances, and the exploration of the unknown reaches of the galaxy.
+
+**Choose any one Talent that you meet the prerequisites for at any stage during character creation. Gain +5 free ranks in any skill.**
+
+**Talents:&#32;**Datapad Use**,** roll 4 talents from the random talents list.
+
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
+
+#### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor) `[sl100]`
+
+| Kel Dor are a sentient species native to the planet Dorin, known for their unique physiology that requires them to wear specialized masks and goggles to survive in oxygen-rich environments.<br/><br/>They have a distinctive appearance with orange-peach skin, which ranges in color from peach to crimson red. Kel Dor have four fingers on each hand and stand between 1.6 and 2 meters tall.<br/><br/>Their native atmosphere is composed of helium and a unique gas, making it toxic for most other species. |  |
+
+This environment has shaped their physiology, making them sensitive to oxygen, which is poisonous to them. As a result, they wear breath masks that filter out oxygen and goggles to protect their eyes.
+
+Kel Dor are known for their strong connection to the Force and their natural aptitude for perception. They have a society that values wisdom and mentorship, with many Kel Dor serving as Jedi Masters. Notable Kel Dor include Jedi Master Plo Koon, who was a member of the Jedi Council during the last years of the Galactic Republic.
+
+**I** +10  **WP** +10  **AG** +10		**Talents**: Datapad Use**,** Force Sense, Force Control or Force Alter (Discipline), roll 3 talents from the random talents list
+
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 1
+
+Any force specialisation related to Force - Sense that requires multiple selections of Force Specialisation is one rank cheaper.
+
+#### [Miraluka](https://starwars.fandom.com/wiki/Miraluka/Legends) `[sl100]`
+
+|  | Miraluka are a sentient species in the Star Wars universe known for their unique ability to perceive the world around them through the Force. They lack physical eyes and instead use their connection to the Force to "see." This gives them a different perspective on the world, often described as seeing on a higher plane.<br/><br/>Physically, Miraluka resemble humans but have no eyes, only empty eye sockets which they usually cover with cloth or visors. They have tanned brown skin and gray or white hair.  |
+
+Miraluka are often considered a subset of humans due to their similar appearance and genetic makeup. Miraluka are known to be at least mildly Force-sensitive, with some members of the species being particularly strong in the Force. This sensitivity allows them to use Force sight, which is their primary means of perception.
+
+A thoughtful, careful and deliberate species without eyes that instead see through the Force, all Miraluka are Force sensitive and have their own Force tradition.
+
+**WP +10  Talent:&#32;**Datapad Use**,** Force Sensitive (Sight), Force Sense (Discipline),  roll 2 talents from the random talents list
+
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 2
+
+#### [Nautolan](https://starwars.fandom.com/wiki/Nautolan/Legends) `[sl100]`
+
+| Nautolans are an amphibious humanoid species from the planet Glee Anselm. They are known for their distinctive physical features, including smooth green, blue, or brown skin, and large, lidless, black eyes. Nautolans also possess 14 head-tails or tendrils, which are used to sense emotional pheromones. <br/><br/>This ability to sense pheromone changes is an essential part of their communication process.<br/><br/> |  |
+
+Nautolans are excellent swimmers and possess low-light vision, making them well-adapted to aquatic environments. They are an egg-laying species, and their young emerge from the egg as tadpoles before developing into their adult form.
+
+**S** +10**&#32;&#32;T** +10  **I** +10  **Talent**: Acute Sense (Smell), Amphibious, Datapad Use**,** Night Vision, Strong Swimmer
+
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
+
+#### [Otolla Gungan](https://starwars.fandom.com/wiki/Otolla/Legends) `[sl100]`
+
+|  | The Gungans were a sentient, amphibious humanoid race native to the terrestrial planet known as Naboo. Prior to the Invasion of Naboo, an event that took place in 32 BBY, the Gungans were a largely isolationist society. They were able to combine machinery with biology. They lived in large bubble-like domes under water. Gungans had strong leg muscles for swimming and were aided by their long fin-like ears. Their somewhat lanky arms ended in four-fingered hands, and their feet had three stubby toes each. Females tended to be slightly smaller with sleeker faces. They often tied their long ears back.<br/><br/>While most spacefarers would dismiss Gungans as primitives, they developed an advanced, albeit unique, technology. They grew the basic structures of buildings, vehicles and technology and adorned them with artistic flourishes and organic lines. This gave Gungan technology a very fluid, non-rectilinear look. |
+| --- | --- |
+
+The Otolla lineage of Gungans was the race that Jar Jar Binks, Augara Jowil, and Captain Roos Tarpals belonged to, along with the majority of the Gungan species. The Otolla species had long ears and eyes on extendable and retractable stalks, unlike the Ankura Gungans (of whom Boss Nass was an example) who had hooded eyes, green skin, and wide, broad heads. Otolla skin was either orange or purple in hue.
+
+**Talents**: Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer
+
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
+
+#### [Togruta](https://starwars.fandom.com/wiki/Togruta/Legends) `[sl100]`
+
+| The Togruta were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails, called lekku, which were similar to those of Twi'leks.[8] Unlike Twi'leks, a Togruta's lekku were part of their montrals and ran parallel to the head, creating the appearance of wearing a headdress. Togruta were also distinguished by their montrals - large, hollow, horn-like projections from the top of their heads that provided a form of passive echolocation. In order to protect themselves from dangerous predators and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders. |  |
+| --- | --- |
+
+As predators, Togruta had sharp canine teeth, which they used to painlessly kill thimiars, their primary prey, causing the creatures' post-mortem death spasms. This gave outsiders the false impression that Togruta were venomous. However, Togruta did nothing to dispel this misconception and even took advantage of the intimidating presence it gave them.Togruta had the ability to sense proximity and movement of physical objects around them by means of their hollow montrals, which detected space ultrasonically. Togruta were also capable of seeing objects immensely far away from them, too remote for any human to see.
+
+**Talents**: Acute Sense (Hearing), Acute Sense (Sight), Datapad Use**,** roll 2 talents from the random talents list
+
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
+
+#### [Trandoshan](https://starwars.fandom.com/wiki/Trandoshan/Legends) `[sl100]`
+
+| Trandoshans are a reptilian species known for their great strength and warlike nature. They stand on average a little shorter than their Wookiee nemeses, with slimy, scaled-skin and long arms and legs, making them excellent hunters. Their hands have three fingers and a thumb. Trandoshan society revolves around two things: the hunt, and worship of a goddess known as the Scorekeeper.  |  |
+
+She watches over the Trandoshan people, blessing or punishing them based on the success of their hunts. For each successful hunt and quarry brought to ground, the Trandoshans receive jagannath, "divine marks," that show a Trandoshan's status in society when tallied. Trandoshans can stand up to 2.1 meters tall and weigh around 80 kilograms.
+
+**WS** +10  **S** +10**&#32;&#32;T** +10**&#32;&#32;Talents:** Datapad Use**,** Night Vision (Thermal), Regeneration (Minor), Warrior Born, Roll 1 talent from the random talents list.
+
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
+
+Trandoshan are capable of seeing into the infrared spectrum
+
+#### [T'surr](https://starwars.fandom.com/wiki/T%27surr) `[sl100]`
+
+|  | The T'surr are a sentient species from the planet T'surr in the Nuon e Safyd sector of the Expansion Region. They are known for their predatory nature and are among the galaxy's most dangerous species, although their scarcity makes them less of a threat. The T'surr are physically imposing, with males standing between 2.3 and 2.6 meters tall. They have a reputation for violence and are often involved in predatory professions such as bounty hunting and soldiering.<br/><br/>Physically, T'surr males are large and muscular, with four arms and a bipedal stance.  |
+
+Their skin is blue, and they have a unique blue blood. The females of the species are smaller and more slender, standing about 2 meters tall. T'surr society is matriarchal, with females holding the ultimate authority in T'surr homes.
+
+T'surr are not represented in the Galactic Senate due to their reputation as dangerous marauders. They have a low level of technology compared to the galactic standard but are capable of using technology scavenged from the ships of their victims.
+
+**WS** +10  **S** +20  **T** +10  **FEL**: -10  **Talents**: Datapad Use**,** Hardy, Sturdy, Very Resilient, Warrior Born
+
+**Size:&#32;**Medium or Large			**Natural Weapon -&#32;**Bite 3+SB & Horns 2+SB
+
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
+
+Secondary claw hands have STR without the +20 and may not manipulate tools, these vestigial claws are useful for cutting food for eating or whatever use a Player might think of.
+
+**Size talent:** Large `[review: Large talent added 12 Oct; Wookiees and other big species need it to be that big]`
+
+#### [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends) `[sl100]`
+
+| Twi'leks are a species of humanoid aliens from the planet Ryloth in the Outer Rim Territories. They are known for their distinctive appearance, which includes colorful skin and large, fleshy head-tails called lekku. Twi'leks are a diverse species, with skin colors ranging from blue to green to orange.<br/><br/>Twi'leks are a proud and adaptable species, known for their ability to survive in harsh environments. They have a rich culture and a strong sense of community, often living in tight-knit clans. Twi'leks are also known for their grace and agility, which makes them excellent dancers and acrobats. |  |
+
+**AG** +10  **FEL**  +20  **T** +10 **&#32;WP** -10  **Talents**: Attractive or Beneath Notice, Datapad Use**,** Roll 3 talents from the random talents list.
+
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
+
+#### [Weequay](https://starwars.fandom.com/wiki/Weequay/Legends) `[sl100]`
+
+|  | Weequay are a sentient species native to the harsh desert world of Sriluur, known for their tough, leathery skin that provides natural resistance to blaster fire.<br/><br/>This skin ranges in color from tan to dark brown, and their eyes are dark and slightly recessed into their skull. Weequay are strong and resilient, often serving as mercenaries, bodyguards, or in other roles that require physical prowess.<br/><br/>Their society is deeply spiritual, with a pantheon of deities, the most senior of which is known as Quay. |
+
+ They are known for their violent tendencies and lack of individuality, often resorting to ritual sacrifices in Quay's honor, at times resorting to murder. This has led to a reputation for brutality and a lack of compassion, making them feared throughout the galaxy.
+
+Weequay communicate primarily through pheromones, which are undetectable to non-Weequays. This form of communication is as complex and clear to them as speech is to other species. However, they are capable of speaking Basic when necessary, though their speech is often limited and terse.
+
+In the galaxy at large, Weequay are often found in the employ of the Hutt Clan, serving as mercenaries, bodyguards, or slaves. Some Weequay have managed to escape these hardships and have sought out the Alliance to Restore the Republic, using their skills to bring some good to the galaxy.
+
+**WS** +10  **T** +10   **S** +10   **Talents**: Datapad Use**,** Robust, Warrior Born, roll 2 talents from the random talents list.
+
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
+
+#### [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) `[sl100]`
+
+|  | Wookiees are a sentient species in the Star Wars universe known for their distinctive physical features and strong sense of honor. They are tall, bipedal creatures with thick fur covering their entire bodies, which can range in color from brown to black. Wookiees have large, expressive eyes and sharp, pointed teeth.<br/><br/>Wookiees are native to the planet Kashyyyk, a lush, forested world where they live in harmony with nature. They are known for their great strength and agility, as well as their skill in the use of technology. Wookiees are also renowned for their loyalty and bravery, often forming strong bonds with those they consider friends or allies. |
+
+**STR** +20  **FEL** -10  **INT** +10  **AGI** +10  **Talents**: Craftsman (Profession), Datapad Use**,** Very Strong, roll 2 talents from the random talents list.
+
+**Claws 2+SB,&#32;**		**Size: Medium or Large**
+
+Average height 2.23 – 2.54 meters
+
+**Size talent:** Large `[review: Large talent added 12 Oct; Wookiees and other big species need it to be that big]`
+
+#### [Zabrak](https://starwars.fandom.com/wiki/Zabrak/Legends) `[sl100]`
+
+| Zabraks were near-humans distinguished by a crown of vestigial horns that developed at puberty in both males and females, growing in patterns unique to each subspecies. They possessed a second heart and a high resistance to pain. Their skin tones ranged from pale to dark brown or vivid shades of red, yellow, and orange, while their eyes could be blue, green, grey, orange, or bright yellow. Many Zabraks bore ritual tribal tattoos that signified lineage, origin, or personality. They were capable of interbreeding with humans, most notably producing the hybrid Dathomirian subspecies on Dathomir.<br/><br/> |  |
+| --- | --- |
+
+**T** +10  **WP** +20  **Talents**: Craftsman (Profession) or Strider (Terrain), Datapad Use**,** Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list.
+
+
+## Species added from Legends `[review]`
+
+#### [Abyssin](https://starwars.fandom.com/wiki/Abyssin/Legends) `[review]`
+
+| Hulking, one-eyed humanoids from the Outer Rim desert world Byss in the Abyss system. Two metres of long-limbed, hunched muscle beneath greenish-tan skin, they are famed for regenerating any wound or lost limb, and their violent, clannish culture has given them a galactic reputation as thugs, slaves and bodyguards. They loathe the nicknames "monoc" and "One-Eye" and answer them with their fists. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +20, Fel −10
+**Talents:** Datapad Use, Regeneration (Minor), Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Single eye (poor depth perception); regrows lost limbs and organs over weeks; lifespan up to 300 years
+
+#### [Adarian](https://starwars.fandom.com/wiki/Adarian/Legends) `[review]`
+
+| Bipedal mammals of Adari in the Inner Rim, instantly recognised by their elongated skulls pierced by a large hole, which earned them the offworld nickname "hole-in-the-heads". They have neither ears nor noses: fine skull hairs sense sound and skin glands sense odour, while a distendable throat pouch produces a subsonic call that carries for twenty kilometres. Adarians keep out of galactic quarrels where they can and are regarded as patient, orderly people. |
+| --- |
+
+**Characteristics:** I +10, Int +10, WP +10
+**Talents:** Datapad Use, Acute Sense (Hearing), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Hears through skull hairs and smells through skin glands; subsonic call reaches 20 km in open air
+
+#### [Advozse](https://starwars.fandom.com/wiki/Advozse/Legends) `[review]`
+
+| Hairless, single-horned reptomammals from Riflor, a volcanic world whose ash-darkened skies and scalding hot springs bred a thick-skinned, large-eyed people. Advozsec are strict vegetarians and dour, cautious bureaucrats who expect disaster around every corner; the galaxy treats them as competent administrators, mercenaries or miners, and the Empire treated them as little more than a labour pool. |
+| --- |
+
+**Characteristics:** T +10, Int +10, WP +10
+**Talents:** Datapad Use, Night Vision, Resistance (Heat), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Large black eyes suited to dim light; cannot digest meat
+
+#### [Aleena](https://starwars.fandom.com/wiki/Aleena/Legends) `[review]`
+
+| Short reptilian bipeds of Aleen and its colony Aleen Minor, barely a metre tall with large eyes, wide mouths full of small sharp teeth, and long bodies on stubby legs. Despite their size they are quick and nimble, and are best known across the galaxy as podracers and scouts, with a few rising to the Jedi Order. |
+| --- |
+
+**Characteristics:** S −10, I +10, Ag +20, Dex +10
+**Talents:** Datapad Use, Small, Lightning Reflexes, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** none (thin source)
+
+#### [Anomid](https://starwars.fandom.com/wiki/Anomid/Legends) `[review]`
+
+| Pale, translucent-skinned humanoids of Yablari, among the wealthiest peoples in the Republic thanks to a native genius for technology. Born without vocal cords, they speak through the ornate metal vocaliser masks covering their lower faces, and their six-fingered hands end in small claws. Traditionally pacifists in oversized robes, Anomids travel the galaxy as technicians, explorers and well-heeled tourists. |
+| --- |
+
+**Characteristics:** Int +20, Dex +10
+**Talents:** Datapad Use, Savvy, Craftsman (Profession), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** No vocal cords: speaks only through a vocaliser mask or Anomid sign language; six-fingered hands with two thumbs
+
+#### [Anx](https://starwars.fandom.com/wiki/Anx/Legends) `[review]`
+
+| Towering, long-necked reptilians from the high-gravity Outer Rim world Gravlex Med, with blade-shaped heads, mood-coloured crests and heavy balancing tails. Their thick hide shrugs off blows, their strength is far above the galactic norm, and their rumbling low-frequency voices can rattle the bones of smaller beings. Anx are gentle herbivores and respected Senate voices, nearly wiped out by Imperial mismanagement of their homeworld. |
+| --- |
+
+**Characteristics:** S +20, T +10
+**Talents:** Datapad Use, Large, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** Tail +SB+2 (Pummel)  **Traits:** Poor eyesight; crest changes colour with mood; subsonic voice carries several kilometres
+
+#### [Anzat](https://starwars.fandom.com/wiki/Anzat/Legends) `[review]`
+
+| The Anzati are a secretive near-humanoid people of the Mid Rim world Anzat, shunned since the Republic's early expansion because they feed on the life essence, the "soup", of other sentients. Patient, ageless hunters who pass for Humans until their feeding tendrils emerge, they drift through the galaxy as assassins and predators and are a byword for quiet horror. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, WP +10
+**Talents:** Datapad Use, Sixth Sense, Menacing, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Feeds on the life force of sentients through facial tendrils; near-ageless lifespan (thin source)
+
+#### [Aqualish](https://starwars.fandom.com/wiki/Aqualish/Legends) `[review]`
+
+| Tusked, amphibious humanoids of the ocean world Ando, blending the look of a seal with that of a spider. Three races, the Aquala, Quara and Ualaq, share a language and a reputation for being crude, quarrelsome and quick to violence, which makes Aqualish common sights among mercenaries, pirates and bounty hunters. Diplomacy is not a strength. |
+| --- |
+
+**Characteristics:** WS +10, S +20, T +10, Fel −10
+**Talents:** Datapad Use, Amphibious, Menacing, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Breathes air and water; tusks sense heat and cold; Ualaq race has four eyes and Night Vision
+
+#### [Arcona](https://starwars.fandom.com/wiki/Arcona/Legends) `[review]`
+
+| Scaleless, anvil-headed reptilians from the hot ammonia-laden desert world Cona in the Inner Rim. Thick-skinned and clawed, with marble-like eyes and a heat-sensing organ between them, Arcona live in close-knit nests and spread across the galaxy in whole families, working for shipping and mining firms. They are notorious for a crippling addiction to common salt, which turns their eyes gold. |
+| --- |
+
+**Characteristics:** T +10, Int +10, Fel +10
+**Talents:** Datapad Use, Resistance (Heat), Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** Poor eyesight, sees heat with a sensory organ between the eyes; needs ammonia supplements offworld; salt is addictive
+
+#### [Askajian](https://starwars.fandom.com/wiki/Askajian/Legends) `[review]`
+
+| Near-Human nomads of the Outer Rim desert world Askaj, set apart by wrinkled brows, considerable girth and, in females, six breasts. Their bodies store water in great skin sacs, letting them walk the sands for weeks and shed more than half their weight in lean times. A tribal, tomuon-herding people, many fled Imperial oppression to Tatooine, where they are mostly known as dancers. |
+| --- |
+
+**Characteristics:** T +10, WP +10
+**Talents:** no Datapad Use (uncivilised), Tenacious, Stone Soup, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Stores water in epidermal sacs, can go weeks without drinking and shed 60% of body water without harm
+
+#### [Ayrou](https://starwars.fandom.com/wiki/Ayrou/Legends) `[review]`
+
+| Tall, willowy avian humanoids from Maya Kovel in the Moddell sector, crowned with brilliant plumage instead of hair and gifted with long triple-jointed limbs. Most species find them beautiful and their high warbling voices unbearable. Peaceful by reputation, Ayrou are prized gatherers of information and sat in the New Republic Senate. |
+| --- |
+
+**Characteristics:** Ag +10, Int +10, Fel +10
+**Talents:** Datapad Use, Attractive, Savvy, roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Shrill voice unsettles other species (−10 to Charm by speech with most listeners); plumage, flightless
+
+#### [Balosar](https://starwars.fandom.com/wiki/Balosar/Legends) `[review]`
+
+| Near-humanoid natives of Balosar, a Core World choked by factory smog so thick that daylight never reaches the streets. Generations of breathing poison bred a people whose bodies filter toxins from the blood, and a corrupt, impoverished society that pushes many Balosars into the criminal underworld as death-stick peddlers, smugglers and thieves. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Int +10
+**Talents:** Datapad Use, Resistance (Poison), Alley Cat, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Filters airborne and ingested poisons from the bloodstream (thin source)
+
+#### [Barabel](https://starwars.fandom.com/wiki/Barabel/Legends) `[review]`
+
+| Cold-blooded reptilian hunters from the dark world Barab I, armoured in tough black keratin scales and driven by relentless predatory instinct. Aggressive and territorial yet fiercely loyal to kin, Barabels hold the Jedi in deep respect and regard apologies as an insult. Offworld they serve as mercenaries, bounty hunters and enforcers, and slavers who buy one rarely survive the purchase. |
+| --- |
+
+**Characteristics:** S +10, T +20, I +10, Fel −10
+**Talents:** Datapad Use, Night Vision, Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2, Bite +SB+3  **Traits:** Sees into the infrared; keratin scales; cold-blooded, sluggish in extreme cold
+
+#### [Baragwin](https://starwars.fandom.com/wiki/Baragwin/Legends) `[review]`
+
+| Hunchbacked, large-headed reptilians who left their lost homeworld Old Barag so long ago that even its location and their own language are forgotten. Their thick wrinkled hide turns aside most blows, their shuffling gait is slow, and their keen noses can read the mood of another being, which draws many into big-game hunting and bounty work. Baragwin are few in number but found everywhere. |
+| --- |
+
+**Characteristics:** T +20, I +10, Int +10, Ag −10
+**Talents:** Datapad Use, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Can smell another being's emotional state; no homeworld or native language
+
+#### [Bardottan](https://starwars.fandom.com/wiki/Bardottan/Legends) `[review]`
+
+| Saurian bipeds of Bardotta in the Colonies, with long swooping necks, wrinkled sagging skin, beak-like snouts and stubby back-bent legs. Their homeworld is famed for monasteries and the meditative Dagoyan Force tradition that replaced an older demon-worshipping cult. Offworld Bardottans, who mostly hail from the gaming colony of Phu and call themselves Phuii, run to gamblers, podracers and crime bosses. |
+| --- |
+
+**Characteristics:** Int +10, WP +20
+**Talents:** Datapad Use, Sixth Sense, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Eyes set on the sides of the head give a wide field of view
+
+#### [Bartokk](https://starwars.fandom.com/wiki/Bartokk) `[review]`
+
+| Clawed, six-limbed insectoids from an unnamed arid world in the Outer Rim whose location only they know. Individually dull-witted, a Bartokk hive shares a telepathic group mind of considerable cunning, and hives hire out as assassins; their red-eyed carapaces deflect blows like manufactured armour and a severed limb simply regrows. Exiles cut off from the hive are plodding and uncreative. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +20, Fel −10
+**Talents:** Datapad Use, Regeneration (Minor), Menacing, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+3  **Traits:** Four arms (may take Ambidextrous twice); telepathy within the hive; chitin counts as light armour; secondary eyes on the abdomen; Force-blind
+
+#### [Bimm](https://starwars.fandom.com/wiki/Bimm/Legends) `[review]`
+
+| Diminutive Near-Humans of the forest world Bimmisaari, no taller than a Human child but often sporting full beards. They share their homeworld, name and culture with an unrelated furred species and are famed for hospitality, mild tempers and a law that forbids weapons in their cities. Bimms roam the galaxy as merchants, entertainers and scholars, and more than a few as charming scoundrels. |
+| --- |
+
+**Characteristics:** Int +10, Fel +10
+**Talents:** Datapad Use, Suave, Dealmaker, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Bith](https://starwars.fandom.com/wiki/Bith/Legends) `[review]`
+
+| Peaceful, pale craniopods from Clak'dor VII, with bulbous heads, huge lidless eyes and long-fingered hands with two opposable digits. Their sight resolves microscopic detail but fails beyond arm's reach, and their hearing is exquisite, making Bith the galaxy's engineers, scientists, consultants and cantina musicians. A ruinous biological war confined them to sealed cities dependent on imports. |
+| --- |
+
+**Characteristics:** S −10, I +10, Dex +10, Int +20
+**Talents:** Datapad Use, Acute Sense (Hearing), Perfect Pitch, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Microscopic close vision but severely short-sighted; sonic weapons deal double damage; thumb and little finger both opposable
+
+#### [Blood Carver](https://starwars.fandom.com/wiki/Blood_Carver) `[review]`
+
+| Gold-skinned, insect-like humanoids from Batorine in the Colonies, with beak-like noses, orange blood and three joints in every limb. Nearly exterminated by the Lontar invasion, a few hundred survive in seclusion on Batorine and Coruscant, bound by fierce clan loyalty and a creed that despises flattery, greed and pride. Exiles make patient and deadly assassins. |
+| --- |
+
+**Characteristics:** Ag +10, Dex +10, WP +10
+**Talents:** Datapad Use, Contortionist, Acute Sense (Smell), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Nose serves as both scent and hearing organ; triple-jointed limbs; only a few hundred remain
+
+#### [Bothan](https://starwars.fandom.com/wiki/Bothan/Legends) `[review]`
+
+| Short, furred humanoids of Bothawui and its colonies, blending canine, feline and equine features beneath fur that ripples with their moods. Raised in resource-poor mountain forests, Bothans learned to win by influence rather than force and became the galaxy's master politicians and spies; their Spynet plays every side and famously stole the plans of the second Death Star. |
+| --- |
+
+**Characteristics:** I +10, Int +10, Fel +10
+**Talents:** Datapad Use, Savvy, Suave, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Fur ripples with emotion: those who know the signs read a Bothan's mood easily
+
+#### [Caamasi](https://starwars.fandom.com/wiki/Caamasi/Legends) `[review]`
+
+| Tall, gentle humanoids covered in dense grey or brown fur, with three-fingered hands and a spicy woody scent. Natives of Caamas in the Core, they are the galaxy's finest mediators and moral philosophers, whose teachings shaped the Jedi Code. After the Empire razed Caamas the survivors scattered to Kerilt, Alderaan and beyond, and "Caamasi" came to mean "trusted stranger". |
+| --- |
+
+**Characteristics:** WP +10, Fel +20
+**Talents:** Datapad Use, Suave, Coolheaded, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Retractable claws and fangs, rarely bared; a pacifist culture that treats violence as a last resort
+
+#### [Caarite](https://starwars.fandom.com/wiki/Caarite) `[review]`
+
+| Porcine, perpetually grinning humanoids from the hot world Caarimon in the Outer Rim, with a double row of flat white teeth. Sly, ingratiating and profit-minded, Caarites hide crooked dealing behind childlike charm and are the smiling public face of the Metatheran Cartel. Every Caarite speaks at least three languages and prefers talk to violence. |
+| --- |
+
+**Characteristics:** Int +10, Fel +20
+**Talents:** Datapad Use, Linguistics, Dealmaker, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Thrives in heat but suffers badly in cold (−10 to resist cold)
+
+#### [Cathar](https://starwars.fandom.com/wiki/Cathar/Legends) `[review]`
+
+| Lion-like feline humanoids from the savanna world Cathar, maned, fur-covered and armed with retractable claws. Quick, strong and passionate, they are born warriors with strict codes of honour and loyalty who mate for life and carve the deeds of their heroes into their tree-cities. Mandalorian slaughter in the Old Republic era nearly ended them, but the species recovered to stand with the Republic. |
+| --- |
+
+**Characteristics:** WS +10, S +10, Ag +10
+**Talents:** Datapad Use, Warrior Born, Lightning Reflexes, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** Retractable claws; mates for life
+
+#### [Celegian](https://starwars.fandom.com/wiki/Celegian/Legends) `[review]`
+
+| Vast, floating "brains" trailing long tentacles, natives of the storm-tossed ocean world Celegia in the Expansion Region. Celegians hover on a natural telekinetic lift, breathe cyanogen that would kill a Human, and speak only by telepathy, travelling the galaxy in sealed transport chambers as scouts, diplomats and the occasional Jedi Master such as Ooroo. Their intellect and wisdom are legendary. |
+| --- |
+
+**Characteristics:** S −10, Int +20, WP +20
+**Talents:** Datapad Use, Large, Savvy, Sixth Sense, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** none  **Traits:** Flight (natural telekinetic hover); breathes cyanogen, oxygen is lethal, needs a sealed chamber offworld; speaks only by telepathy; manipulates with tentacles
+
+#### [Cerean](https://starwars.fandom.com/wiki/Cerean/Legends) `[review]`
+
+| Tall-skulled humanoids of Cerea in the Mid Rim whose cone-shaped heads house a binary brain fed by a second heart, letting them weigh two sides of a problem at once. Cultured, traditional and less physically coordinated than Humans, Cereans produce many Jedi, who are exempt from the vow of non-attachment because so few males are born. The species withdrew from the galaxy after the Clone Wars. |
+| --- |
+
+**Characteristics:** I +10, Ag −10, Int +20, WP +10
+**Talents:** Datapad Use, Savvy, Coolheaded, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Binary brain: may pursue two lines of thought at once (second Intelligence-based Test per Round at the GM's discretion); two hearts
+
+#### [Chadra-Fan](https://starwars.fandom.com/wiki/Chadra-Fan/Legends) `[review]`
+
+| Rodent-like humanoids with bat faces, barely a metre tall, from the watery planet Chad. Chadra-Fan have seven senses, including infrared sight and chemoreceptive smell, all keener than a Human's, and live in warm, open-door clans where leadership passes to whoever has the skill the moment needs. Curious and chattering, they turn up galaxy-wide as tinkerers, scouts and cantina regulars. |
+| --- |
+
+**Characteristics:** S −10, I +20, Ag +10, Dex +10
+**Talents:** Datapad Use, Small, Acute Sense (Smell), Night Vision, roll 1 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Sees into the infrared; seven senses, all sharper than a Human's
+
+#### [Chagrian](https://starwars.fandom.com/wiki/Chagrian/Legends) `[review]`
+
+| Blue-skinned amphibious humanoids of the ocean world Champala, born as tadpoles and marked by fleshy lethorns on the sides of the head; males grow a pair of skull horns once used in underwater duels. Taller than Humans, with long forked tongues and no sense of taste, Chagrians are practical, water-wise people who fought for the Rebellion and helped liberate Mon Calamari. |
+| --- |
+
+**Characteristics:** S +10, T +10, WP +10
+**Talents:** Datapad Use, Amphibious, Night Vision, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Breathes air and water; no sense of taste
+
+#### [Charon](https://starwars.fandom.com/wiki/Charon/Legends) `[review]`
+
+| Arachnoid horrors from a cold world in the black-hole pocket dimension of otherspace, over two metres tall on four legs, with four arms of which two are immensely powerful. Most Charon follow the Cult of the Void, which holds all life, even their own, to be an abomination; a breakaway Cult of Light built the species' first hyperdrive after the Battle of Endor and seeded peaceful colonies of bioscientists. Rebellion era onwards. |
+| --- |
+
+**Characteristics:** S +20, T +10, WP +10, Fel −10
+**Talents:** Datapad Use, Large, Frightening, Hardy, roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** none  **Traits:** Four arms (may take Ambidextrous twice); four legs, almost impossible to knock down; emotionless manner
+
+#### [Chev](https://starwars.fandom.com/wiki/Chev) `[review]`
+
+| Near-Human natives of Vinsoth in the Outer Rim, enslaved by the pachydermoid Chevin for most of their history. Lidless-eyed and double-hearted, Chevs keep their heads down and endure; the few who escape to freedom offworld dress and tattoo themselves extravagantly to proclaim their individuality and guard their liberty with near-paranoid care. Several became Jedi. |
+| --- |
+
+**Characteristics:** T +10, WP +10
+**Talents:** Datapad Use, Beneath Notice, Tenacious, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Lidless eyes; two hearts (thin source)
+
+#### [Chevin](https://starwars.fandom.com/wiki/Chevin/Legends) `[review]`
+
+| Massive pachydermoids of Vinsoth with huge heads, snouts that hang to their ankles, thick grey hide and arms so long their three-fingered hands brush the ground. Cunning hunters who smell out prey while watching the horizon, the Chevin conquered and enslaved the Chevs and are known across the galaxy as smugglers, slavers and crime lords of poor repute. |
+| --- |
+
+**Characteristics:** S +20, T +10, I +10, Fel −10
+**Talents:** Datapad Use, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Transparent second eyelid protects against dust and wind; comfortable in heat and cold alike
+
+#### [Clawdite](https://starwars.fandom.com/wiki/Clawdite/Legends) `[review]`
+
+| Rough-skinned reptilian humanoids of Zolan, the only shapeshifters among the Zolander people and feared and ghettoised by them for centuries. A Clawdite can change the colour and texture of its skin and eyes to pass as any similarly built humanoid, even mimicking clothing, which makes them sought-after infiltrators, assassins and bounty hunters. They live barely seventy years. |
+| --- |
+
+**Characteristics:** Ag +10, WP +10, Fel +10
+**Talents:** Datapad Use, Beneath Notice, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Shapeshifter: may alter skin and eye colour and texture to impersonate a humanoid of similar build (Entertain (Acting) Test to disguise); lifespan about 70 years
+
+#### [Colicoid](https://starwars.fandom.com/wiki/Colicoid/Legends) `[review]`
+
+| Carnivorous insectoids of Colla IV, tall chitinous beings with flat heads, multifaceted eyes, long antennae and a stinging tail, able to curl into a protective ball and spring open on their prey. Ruthless, calculating and utterly uninterested in other species' lives, the Colicoid Creation Nest built the droideka and other war droids for the Trade Federation and the Separatists. Separatist-era mainstay. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, I +10, Fel −10
+**Talents:** Datapad Use, Acute Sense (Smell), Menacing, roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Tail +SB+3 (Pummel)  **Traits:** Multifaceted eyes give near all-round vision; can curl into a chitinous ball (counts as armour while curled, no actions); only queens are venomous
+
+#### [Cragmoloid](https://starwars.fandom.com/wiki/Cragmoloid/Legends) `[review]`
+
+| Rare three-metre pachydermoids from the rocky world Ankus, with flat ears, prehensile trunks, five-fingered hands and tusks prized by poachers. Proud, family-loving and peaceful by nature, Cragmoloids nevertheless fly into a rage when deceived. Imperial enslavement, TaggeCo strip-mining and ivory hunters drove them to the brink, and many sawed off their own tusks to survive. |
+| --- |
+
+**Characteristics:** S +20, T +10, WP +10, Ag −10
+**Talents:** Datapad Use, Large, Menacing, Sturdy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** Tusks +SB+3  **Traits:** Prehensile trunk; prone to rage when faced with subterfuge; sinks into depression when parted from family
+
+#### [Dantari](https://starwars.fandom.com/wiki/Dantari) `[review]`
+
+| Heavy-muscled, broad-faced Near-Humans of the plains of Dantooine in the Outer Rim, nomadic hunter-gatherers ruled by councils of elders and the shaman-like garoo. Unaware that starships cross their skies, they took the Imperials for gods and tattooed walkers and blasters on their chests. The Yuuzhan Vong invasion all but wiped them out. |
+| --- |
+
+**Characteristics:** S +10, T +10
+**Talents:** no Datapad Use (uncivilised), Hardy, Rover, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Stone-age nomads with no knowledge of technology beyond salvage
+
+#### [Dashade](https://starwars.fandom.com/wiki/Dashade/Legends) `[review]`
+
+| Large, dark-skinned reptilians with lamprey mouths and heavy claws, bred as "Shadow Killers" for Sith Lords and Falleen royal houses. Naturally resistant to the Force and to radiation, and so efficient at shedding body heat that life-form sensors barely register them, Dashades are among the galaxy's deadliest assassins; their homeworld was lost long ago and only a handful survive in cryogenic sleep. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** Datapad Use, Force Resistance, Resistance (Radiation), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** Dissipates body heat, nearly invisible to life-form sensors; near-extinct, most survivors are ancient Shadow Killers revived from stasis
+
+#### [Dathomirian](https://starwars.fandom.com/wiki/Dathomirian/Legends) `[review]`
+
+| Human-Zabrak hybrids of the Outer Rim world Dathomir, born of the Witches of Dathomir and their captured Zabrak pirates. Females are pale, hairless and Human-like; males bear Zabrak horns and red, orange or yellow skin. Most women belong to Force-wielding clans such as the Nightsisters, while the men serve as Nightbrother warriors; Darth Maul and Asajj Ventress both sprang from this stock. |
+| --- |
+
+**Characteristics:** WS +10, T +10, WP +10
+**Talents:** no Datapad Use (uncivilised), Sixth Sense, Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Strong sexual dimorphism (horned males, pale females); clan culture steeped in the Force
+
+#### [Defel](https://starwars.fandom.com/wiki/Defel/Legends) `[review]`
+
+| The "Wraiths" of Af'El, a high-gravity Outer Rim world beneath an ultraviolet supergiant. Defel fur absorbs visible light, so to other species they appear as moving shadows; they see in ultraviolet and the deepest dark but are blinded by ordinary daylight, and wear visors offworld. Rarely seen and easily mistaken for living shadows, they make natural thieves, scouts and assassins. |
+| --- |
+
+**Characteristics:** S +10, I +10, Ag +10
+**Talents:** Datapad Use, Night Vision, Beneath Notice, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** Absorbs visible light, +20 to Stealth in dim conditions; sees ultraviolet; blinded by bright light without a visor
+
+#### [Devaronian](https://starwars.fandom.com/wiki/Devaronian/Legends) `[review]`
+
+| Horned humanoids of Devaron in the Colonies, among the first species to reach the stars. Males are red-skinned, horned and devil-faced with a famous wanderlust; females are furred, hornless and run the homeworld's government. Dense-bodied and cleansed by twin livers that process their silver-based blood, Devaronians shrug off most poisons, and the males are fixtures of spaceports and cantinas everywhere. |
+| --- |
+
+**Characteristics:** S +10, T +10, I +10
+**Talents:** Datapad Use, Resistance (Poison), Rover, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Silver-based blood and two livers; denser and heavier than they look; sulphur acts as a dangerous stimulant
+
+#### [Diathim](https://starwars.fandom.com/wiki/Diathim/Legends) `[review]`
+
+| The "Angels" of Iego and its moon Millius Prime in the Outer Rim, six-winged beings who seem to be made of blazing white light tinged with gold and whose appearance shifts with the beholder. Legendary among spacers for a beauty that borders on the hypnotic, Diathim are gentle, innocent and rarely leave their worlds, and have been invoked as the standard of loveliness since before the Republic. |
+| --- |
+
+**Characteristics:** T −10, Ag +10, WP +10, Fel +20
+**Talents:** Datapad Use, Attractive, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Flight (six wings); body radiates light, cannot hide in darkness; hypnotic beauty (thin source)
+
+#### [Drall](https://starwars.fandom.com/wiki/Drall/Legends) `[review]`
+
+| Small, thickly furred bipeds of Drall in the Corellian system, descended from burrowing mammals and brought there by the Celestials in antiquity. Cautious, meticulous and ferociously well-read, the Drall have recorded every event of their history and treat libraries and storytelling as entertainment. They seldom leave home, but corporations hire them for their minds and their love of gossip is legendary. |
+| --- |
+
+**Characteristics:** S −10, I +10, Int +20, WP +10
+**Talents:** Datapad Use, Small, Eidetic Memory, Savvy, roll 1 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Thick fur, comfortable in heat; lifespan about 120 years
+
+#### [Dressellian](https://starwars.fandom.com/wiki/Dressellian/Legends) `[review]`
+
+| Tall, thin humanoids with hairless elongated skulls, deeply wrinkled skin and teal blood, from the forested island world Dressel. Fiercely independent and loosely organised, they lived in isolation until Imperial occupation turned them into masters of guerrilla warfare, armed with their own projectile rifles and Bothan-smuggled gear. Dressellians value freedom above all else and keep largely to themselves. |
+| --- |
+
+**Characteristics:** BS +10, I +10, WP +10
+**Talents:** Datapad Use, Rover, Marksman, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Teal blood; barely industrial homeworld, many are unfamiliar with advanced technology
+
+#### [Dug](https://starwars.fandom.com/wiki/Dug/Legends) `[review]`
+
+| Slender, powerfully built mammals from the high-gravity world Malastare who walk on their long arms and use their feet as hands. Arboreal brachiators by nature, Dugs swing through the canopy at great speed and have loose throat skin that inflates in mating calls. They are aggressive, boastful and quick to bully; the podracer Sebulba is the galaxy's best-known example. |
+| --- |
+
+**Characteristics:** WS +10, S +10, Ag +20, Fel −10
+**Talents:** Datapad Use, Scale Sheer Surface, Catfall, roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Walks on its arms and manipulates with its feet; climbs at full Movement; inflatable throat sac
+
+#### [Duinuogwuin](https://starwars.fandom.com/wiki/Duinuogwuin/Legends) `[review]`
+
+| The Star Dragons are a secretive, immensely long-lived species of unknown origin, met only rarely in deep space. Serpentine, winged and segmented, the typical adult is ten metres long with many pairs of legs, the foremost serving as hands, and scales of grey, pale blue or black. Calm, wise and morally serious, they are friendly to other peoples but indifferent to questions about themselves; roughly a third are Force-sensitive, a fact they hid from the Empire while sitting out the Galactic Civil War. A few have served as Jedi, including Master Willm Lywin. |
+| --- |
+
+**Characteristics:** S +20, T +10, Ag −10, Int +10, WP +10
+**Talents:** Datapad Use, Large, Regeneration (Minor), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Large  **Natural weapons:** Bite +SB+3, Claws +SB+2  **Traits:** Flight; survives hard vacuum and crosses interstellar space unaided on a natural repulsor field; hardened scales; lifespan measured in millennia
+
+#### [Duros](https://starwars.fandom.com/wiki/Duros/Legends) `[review]`
+
+| Natives of Duro in the Core, the Duros are smooth-skinned blue-green humanoids with large red eyes, lipless mouths and long noseless faces. One of the first peoples to build hyperdrives, they charted trade routes still in use in the Imperial era and are found across the galaxy as pilots, scouts and explorers. Taciturn with strangers, they come alive when telling stories of their travels, which they recall in exact detail; many are adventurous to the point of rashness, and the honorific "Traveler" pleases them. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Int +10
+**Talents:** Datapad Use, Orientation, Eidetic Memory, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** egg-laying reptilian stock; olfactory organs sit beneath the eyes
+
+#### [Ebranite](https://starwars.fandom.com/wiki/Ebranite) `[review]`
+
+| Ebranites come from the cave and canyon systems of Ebra in the Dousc system. Six-armed and clawed, with thick mottled reddish-brown hide that hides them against rock, they climb with great speed but walk slowly on open ground and see into the infrared. Clannish, proud and quick to a Wookiee-like combat rage when threatened, they distrust advanced technology, which they associate with the Empire that seized their lu-ramin mines; many joined the Rebel Alliance armed with bows and slings. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** no Datapad Use (uncivilised), Scale Sheer Surface, Night Vision, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** six arms (may take Ambidextrous twice); infrared vision; combat rage when endangered (may enter Frenzy at will)
+
+#### [Elom](https://starwars.fandom.com/wiki/Elom/Legends) `[review]`
+
+| Eloms are the short, stocky cave-dwellers of the frigid desert world Elom in the Trans-Hydian, sharing the planet with the surface-dwelling Elomin. Beneath a thick oily pelt they have leathery hide, layers of fat, callused hands and two rock-hard tusks, and their eyes are superb in the crystal-lit dark but pained by bright light. Despite a fearsome look they are peaceful herbivores, ambitious and intelligent, yet so trusting that offworlders often draw them into crime without their realising it. |
+| --- |
+
+**Characteristics:** T +20, Int +10, WP +10, Fel −10
+**Talents:** Datapad Use, Night Vision, Resistance (Cold), roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Tusks +SB+2  **Traits:** dazzled by bright light (−10 to Perception in full daylight without eye protection); cheek pouches store food
+
+#### [Elomin](https://starwars.fandom.com/wiki/Elomin/Legends) `[review]`
+
+| The horned Elomin rule the surface of Elom and represent the planet offworld. Their skin ranges from bright pink to deep purple, with nose tusks, neck wattles and long hair behind the ears that they comb obsessively; some xenoarchaeologists believe them a lost Zabrak colony. Elomin crave order and labour to impose it on everything around them, which makes them superb administrators and brittle commanders: an Elomin task force was annihilated by Thrawn's deliberately chaotic Marg Sabl manoeuvre in 9 ABY. |
+| --- |
+
+**Characteristics:** T +10, Int +10, WP +10
+**Talents:** Datapad Use, Savvy, Coolheaded, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** horns; four stomachs and a six-chambered heart; unsettled by disorder (−10 to Cool Tests when a plan collapses into chaos)
+
+#### [Em'liy](https://starwars.fandom.com/wiki/Em'liy/Legends) `[review]`
+
+| The Em'liy of Shalyvane in the Outer Rim are tall, robust humanoids with noseless faces, small dark eyes and hairless skin in shades of orange, tan, green or blue, their head-hair worn in one to three topknots that mark caste. Once a proud warrior civilisation, they were shattered by the Empire and scattered into nomadic tribes on their homeworld and beyond. Deeply religious, they hold the Circle of Kavaan sacred and were bitterly hostile to offworlders until the Rebel Alliance exposed the Imperial desecration of it. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** Datapad Use, Warrior Born, Tenacious, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Esh-kha](https://starwars.fandom.com/wiki/Esh-kha) `[review]`
+
+| An ancient terror of the pre-Republic galaxy, the Esh-kha are grey-skinned humanoids with equine muzzles, small black eyes and digitigrade legs. Bred into castes of Force-sensitive savants, numerous warriors and ruling patriarchs, each individual earns a name through deeds, and young warriors seek battle to claim one. Their hive-like society cannot tolerate other thinking peoples; they hunted whole species to extinction before the Rakata imprisoned them on Belsavis, where they were found again in the Old Republic era. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, WP +10, Fel −10
+**Talents:** Datapad Use, Hatred (Outsiders), Warrior Born, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** digitigrade; caste-bred hive society; Old Republic era only (sealed in the Belsavis prison in later ages)
+
+#### [Ewok](https://starwars.fandom.com/wiki/Ewok/Legends) `[review]`
+
+| Ewoks are the metre-tall furry natives of the Forest Moon of Endor, famous for helping the Rebel Alliance destroy the second Death Star's shield generator. Bear-like, with bright eyes and fur of brown, black, grey or rarely red, they are curious, brave and strong enough for their size to overpower a trained soldier. Stone-age hunters who build gliders, catapults and battle wagons, they learn simple technology quickly; after the Battle of Endor a few left the moon out of curiosity or in chains. |
+| --- |
+
+**Characteristics:** S +10, I +10, Ag +10
+**Talents:** no Datapad Use (uncivilised), Small, Acute Sense (Smell), Strider (Woodland), roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** none
+
+#### [Falleen](https://starwars.fandom.com/wiki/Falleen/Legends) `[review]`
+
+| The cold-blooded reptilian Falleen of the planet Falleen are fine-scaled, controlled and aristocratic, able to shift their skin from green through red at will and to exude pheromones that bend the moods of those around them. Republic members for four thousand years, they sided with the Separatists in the Clone Wars and refused the New Republic after Darth Vader sterilised a Falleen city of 200,000 to contain a failed bioweapon, a crime Prince Xizor of Black Sun never forgave. |
+| --- |
+
+**Characteristics:** WP +10, Fel +20
+**Talents:** Datapad Use, Attractive, Coolheaded, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** pheromones (once per scene, +20 to a Charm Test against a target who can smell them); shifts skin colour with mood or at will; cold-blooded
+
+#### [Farghul](https://starwars.fandom.com/wiki/Farghul/Legends) `[review]`
+
+| The Farghul are felinoids of the temperate Core world Farrfin, tawny-furred, clawed and long-tailed, with the strength and speed of hunting cats. They have a double reputation across the galaxy as fearsome fighters and as cunning thieves and con artists, and a Farghul met far from home is as likely to be running a swindle as guarding a client. |
+| --- |
+
+**Characteristics:** S +10, Ag +10, Fel +10
+**Talents:** Datapad Use, Catfall, Lightning Reflexes, roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** prehensile tail (can hold a small object or steady a climb, but not wield a weapon)
+
+#### [Feeorin](https://starwars.fandom.com/wiki/Feeorin/Legends) `[review]`
+
+| Scattered across the Outer Rim since their homeworld died thousands of years before the Clone Wars, the Feeorin are heavy-set bipeds with thick head tendrils, mottled yellow, green or blue skin and, in some, no nose at all. They live four centuries and grow stronger rather than weaker with age, so their Elders are physically formidable; the greatest of them bears the title of Exalted. Quick-tempered, self-interested and impersonal, they are widely seen as selfish, and many survivors of the lost colony ships turned raider, like the pirate Nym. |
+| --- |
+
+**Characteristics:** WS +10, S +20, T +10, Fel −10
+**Talents:** Datapad Use, Very Strong, Tenacious, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** lifespan about 400 years, growing stronger with age (elders may gain further S at the GM's discretion); head and face tendrils
+
+#### [Filordus](https://starwars.fandom.com/wiki/Filordus) `[review]`
+
+| The Filordi of Filordis in the Inner Rim are sexless quadrupeds with two long spindly forelegs, two stubby hind legs and pincer-like toes on every foot. They can rear up to walk on two legs but tire quickly doing so. Shrewd merchants, they were a member species of the Trade Federation until 33 BBY, when they broke away with the Caarites to found the rival Metatheran Cartel and set about exposing their former partners' abuses. |
+| --- |
+
+**Characteristics:** T +10, Int +10, Fel +10
+**Talents:** Datapad Use, Dealmaker, Hardy, roll 1 talent from the random talents list
+**Movement:** 6  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Pincers +SB+2  **Traits:** quadruped (walking upright halves Movement and causes Fatigue after a few minutes); no sexes
+
+#### [Frozian](https://starwars.fandom.com/wiki/Frozian/Legends) `[review]`
+
+| Frozians are tall, thin, furred humanoids from Froz, with grazer-like faces, long whiskers and an extra joint in every limb that makes their movements unsettling to watch. Standard gravity is too heavy for them: offworld they age fast and cannot breed, and they need flora from Froz even to try. A strong-willed, peaceful people and early supporters of the Rebellion, they are now a dying species, their scientists racing to recreate Froz before the last generation passes. |
+| --- |
+
+**Characteristics:** T −10, Ag +10, Dex +10, Int +10, WP +10
+**Talents:** Datapad Use, Savvy, Contortionist, roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** extra joint in each limb; standard gravity roughly halves their lifespan and prevents breeding away from Froz
+
+#### [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) `[review]`
+
+| Gamorreans are the squat green porcine warriors of the jungle world Gamorr in the Outer Rim, with snouts, tusks, small horns and heavy frames of 100 kilograms or more. Their clans are ruled by a Council of Matrons; sows do the productive work while boars train for war with the traditional arg'garok axe. Valued across the galaxy as guards and muscle for their strength and ferocity rather than their wits, they can be taught to point a blaster but rarely think to use one. |
+| --- |
+
+**Characteristics:** WS +10, S +20, T +10, Int −10
+**Talents:** no Datapad Use (uncivilised), Very Strong, Menacing, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Gand](https://starwars.fandom.com/wiki/Gand/Legends) `[review]`
+
+| Gands are short, insectoid humanoids of the ammonia-shrouded world Gand, with chitin exoskeletons, three-fingered hands and compound eyes. Lunged Gands must wear breathing gear in oxygen atmospheres, while the lungless kind do not breathe at all. Their culture holds that identity must be earned: most speak of themselves in the third person and are humble to a fault. The findsmen, ritual trackers who read omens in the mists, are among the galaxy's most unsettlingly accurate bounty hunters. |
+| --- |
+
+**Characteristics:** T +10, I +10, WP +10
+**Talents:** Datapad Use, Regeneration (Minor), Sixth Sense, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** exoskeleton (1 AP on all locations); regrows lost limbs in days; sees into the ultraviolet; breather Gands need an ammonia breath mask in oxygen, lungless Gands do not breathe and ignore poisonous gases
+
+#### [Gen'Dai](https://starwars.fandom.com/wiki/Gen'Dai/Legends) `[review]`
+
+| The Gen'Dai are a boneless, near-immortal species from an unknown world, a formless mass of corded muscle and nerve with a humanoid face, fanged mouth and wing-like ears. Lacking hearts, lungs or other vital organs, they shrug off dismemberment and regrow lost parts in minutes, and typically wear heavy humanoid armour to pass as something else. Centuries of life tend to wear their minds: the Clone Wars bounty hunter Durge was wholly insane, and Hutt cartels have employed Gen'Dai as "Immortal Guardians". |
+| --- |
+
+**Characteristics:** S +10, T +20, WP +10, Fel −10
+**Talents:** Datapad Use, Regeneration (Minor), Very Resilient, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2  **Traits:** boneless with no vital organs (ignore Critical Wounds that depend on broken bones or organ damage, survive dismemberment, regrow lost parts in minutes); lifespan of millennia, madness common in the eldest
+
+#### [Geonosian](https://starwars.fandom.com/wiki/Geonosian/Legends) `[review]`
+
+| Geonosians are the insectoid hive-dwellers of Geonosis, builders of the Separatist droid foundries and of the battle droids they so resemble. Chitin-armoured, with elongated ridged skulls, bulbous eyes and spindly limbs, they are born into castes, chiefly the ruling aristocrats and the physically powerful warrior drones. No Force-user has ever been known among them. After the Clone Wars their fortunes waned, though Geonosian engineers and hives were still found working for anyone who paid, from the Sith Empire to Rebel allies. |
+| --- |
+
+**Characteristics:** BS +10, S +10, T +10, Int +10, Fel −10
+**Talents:** Datapad Use, Craftsman (Engineer), Hardy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** chitin exoskeleton (1 AP on all locations); caste-bound hive society; many of the warrior caste have membranous wings (Flight, short distances only)
+
+#### [Givin](https://starwars.fandom.com/wiki/Givin/Legends) `[review]`
+
+| The Givin of Yag'Dhul in the Inner Rim look like walking skeletons, their hard white exoskeletons and sunken black eyes a sealed adaptation to a world whose oceans and atmosphere shift unpredictably with triple tides. Mathematics developed to predict those tides rules their society: governors are chosen by contests of calculation, and polite conversation opens with a quadratic equation. Superb astrogators and starship designers, they can survive vacuum unaided and are quietly arrogant toward species that cannot. |
+| --- |
+
+**Characteristics:** T +10, Int +20, WP +10, Fel −10
+**Talents:** Datapad Use, Super Numerate, Orientation, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** sealed exoskeleton lets them survive hard vacuum for about a day; can calculate hyperspace jumps mentally without a navicomputer
+
+#### [Gossam](https://starwars.fandom.com/wiki/Gossam/Legends) `[review]`
+
+| Gossams are small saurians of Castell in the Colonies, with colonies on Felucia and Saleucami. Barely 1.25 metres tall, they have wrinkled green or blue pebbly skin, long necks, tapering heads, wide yellow eyes and frail bodies balanced on tiny feet. Shrewd, scheming and vain about their appearance, most serve the Commerce Guild, which the Gossam Shu Mai led into the Separatist cause; others are found galaxy-wide as merchants, smugglers and pirates. Force-users among them are extremely rare. |
+| --- |
+
+**Characteristics:** T −10, Ag +10, Dex +10, Int +10, Fel +10
+**Talents:** Datapad Use, Small, Dealmaker, Savvy, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** none
+
+#### [Gotal](https://starwars.fandom.com/wiki/Gotal/Legends) `[review]`
+
+| Gotals are tall, shaggy humanoids from the moon Antar 4 in the Inner Rim, marked by the twin conical horns on their heads. The cones are electromagnetic sensors so fine that a Gotal reads the emotions and intentions of those nearby, tracks prey ten kilometres away and senses droids through walls, while its eyes and ears are weak and its nose nearly useless. Found as bounty hunters, Jedi, Antarian Rangers and diplomats, Gotals backed the losing side in the Clone Wars and rejoined galactic life only under the New Republic. |
+| --- |
+
+**Characteristics:** I +20, WP +10
+**Talents:** Datapad Use, Sixth Sense, Acute Sense (Electromagnetic), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** cones sense electromagnetic fields and emotional auras (empathy; locate living beings and droids by their emissions, even through walls); weak sight and hearing, almost no sense of smell; strong EM sources or active Force use overload the cones (−10 to Tests)
+
+#### [Gran](https://starwars.fandom.com/wiki/Gran/Legends) `[review]`
+
+| The three-eyed, goat-snouted Gran come from the highlands of Kinyen, with large colonies on Malastare and Hok. Descended from herd grazers, they have two stomachs and remarkable eyes that resolve more colours than most species and see into the infrared; they read one another's moods from body heat and skin tone. Gran society is tightly bound by family, lifelong mating and the Doellinist faith, which forbids violence and vice, though Gran of Malastare became powerful and often corrupt Senators in the Republic's last years. |
+| --- |
+
+**Characteristics:** I +10, WP +10, Fel +10
+**Talents:** Datapad Use, Acute Sense (Sight), Night Vision, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** three eyes see infrared and a wider colour range; read emotions from body heat and skin colour (+10 to Intuition Tests on living, warm-blooded targets); a Gran who loses a mate usually dies within days
+
+#### [H'nemthe](https://starwars.fandom.com/wiki/H'nemthe/Legends) `[review]`
+
+| The H'nemthe take their name from their arboreal homeworld in the Mayagil sector of the Outer Rim, a world that fell under Imperial control and was courted by the Galactic Alliance only shortly before the Second Corellian Insurrection. Humanoid and slight, they are met offworld in ones and twos, often in cantinas far from home. |
+| --- |
+
+**Characteristics:** T +10, Ag +10, Int +10
+**Talents:** Datapad Use, Rover, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none (thin source)
+
+#### [Hapan](https://starwars.fandom.com/wiki/Hapan) `[review]`
+
+| Hapans are the near-Human people of the sixty-three worlds of the Hapes Cluster in the Inner Rim, descended from the Lorell Raiders and the beautiful captives they brought home. Generations of isolation behind the Transitory Mists bred a population famed for its beauty and ruled by the Queen Mother's matriarchy, with borders sealed to outsiders until 8 ABY. The perpetual daylight of their star-packed skies has cost them their night vision: a Hapan is nearly blind in dim light. |
+| --- |
+
+**Characteristics:** Fel +20
+**Talents:** Datapad Use, Attractive, Suave, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-human; poor night vision (−20 to Perception in dim light, effectively blind in darkness; may never take Night Vision)
+
+#### [Herglic](https://starwars.fandom.com/wiki/Herglic/Legends) `[review]`
+
+| Herglics are the huge, smooth-skinned bipeds of Giju in the Colonies, descended from sea mammals and still breathing through a blowhole atop the head. Pale blue to black, tall and extremely broad, they fill two seats and squeeze through most doorways, and are rather sensitive about it. An old hyperdrive culture that built a trade empire before meeting the Duros, they are pleasant and peaceful but helplessly drawn to gambling; under the Empire they submitted pragmatically, and some bought their way into Tapani nobility. |
+| --- |
+
+**Characteristics:** S +20, T +10, Ag −10, Fel +10
+**Talents:** Datapad Use, Large, Strong Swimmer, Sturdy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** none  **Traits:** breathes through a blowhole and can hold its breath for long periods; bulk makes Human-scale seating, hatches and vehicles awkward; notorious gamblers
+
+#### [Ho'Din](https://starwars.fandom.com/wiki/Ho'Din/Legends) `[review]`
+
+| The Ho'Din, "walking flowers", are very tall, multi-coloured humanoids from the forests of Moltok, with suction-tipped fingers for climbing and a crown of scaled, snake-like tresses that sense heat. They claim descent from plants, follow the nature-worshipping Dinante Fli'R faith and are the galaxy's finest botanists, ecologists and herbal healers, their medicines making Moltok wealthy. Technology is tightly restricted at home, though Ho'Din abroad accept it as a necessary evil on already damaged worlds. |
+| --- |
+
+**Characteristics:** Dex +10, Int +10, WP +10
+**Talents:** Datapad Use, Large, Scale Sheer Surface, Concoct, roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** none  **Traits:** head tresses are thermal sensors (perceive heat sources in darkness as infrared vision); suction-tipped fingers; two hearts; shun technology on living worlds
+
+#### [Houk](https://starwars.fandom.com/wiki/Houk/Legends) `[review]`
+
+| Houks of Lijuter and its thirty-one colonies are among the largest and strongest humanoids in the galaxy, slabs of muscle beneath a thick skull, rivalled only by Wookiees. Short-tempered and prone to solving problems with violence, their colonies make war without declaration and ignore treaties, yet in personal combat they prefer ambush and stealth, earning a reputation for cowardice and deceit. Many are honest hard workers all the same, and Houk gladiators, bounty hunters and enforcers are a common sight. |
+| --- |
+
+**Characteristics:** WS +10, S +20, T +10, Fel −10
+**Talents:** Datapad Use, Very Strong, Menacing, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** thick skull (+10 to Endurance Tests to resist Stunned)
+
+#### [Hrakian](https://starwars.fandom.com/wiki/Hrakian) `[review]`
+
+| Hrakians are yellow-skinned near-Humans from the mountainous jungle world Hraki in the Vorzyd sector, recognisable by the thick, bulky hair of head and brow. Brave, enterprising and reliable, they are famed spacers whose freighters carry workers across the sector for firms like Hraki Intracluster Transport, and they can handle themselves in a fight. Unsophisticated and uninterested in politics, a Hrakian is content with promised credits and a cantina at the end of the job, and will usually take the easy route to both. |
+| --- |
+
+**Characteristics:** T +10, WP +10
+**Talents:** Datapad Use, Tenacious, Spacer, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-human
+
+#### [Huralok](https://starwars.fandom.com/wiki/Huralok) `[review]`
+
+| Huraloks are triangular-headed reptilians of Djurmo in the Mid Rim, black-striped, thick-clawed and vicious. Living into their fourth century, they nurse grudges for lifetimes and despise even one another, mating only when the species is in danger. Greedy, deceitful and manipulative, most prefer to send minions to do their work, but some roam the galaxy as soldiers and self-serving scoundrels; holodramas of the Imperial Navy hunting Huralok pirates were popular entertainment. |
+| --- |
+
+**Characteristics:** S +10, T +10, Int +10, WP +10, Fel −10
+**Talents:** Datapad Use, Schemer, Menacing, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** lifespan over 300 years; scaled hide
+
+#### [Hutt](https://starwars.fandom.com/wiki/Hutt/Legends) `[review]`
+
+| The Hutts are vast slug-like gastropods, the crime lords of the galaxy from Nal Hutta to Tatooine. Boneless beneath layers of blubber and muscle, with hides that resist all but the harshest chemicals and a mucous sweat that makes them impossible to hold, they regenerate injury, breathe underwater for hours, change their sex at will and live well past nine centuries. Cunning, patient and immune to Jedi mind tricks, they rule through syndicates, debt and fear rather than force, though a Hutt's tail can break bones. |
+| --- |
+
+**Characteristics:** S +10, T +20, Ag −10, Int +10, WP +10
+**Talents:** Datapad Use, Large, Force Resistance, Very Resilient, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Large  **Natural weapons:** Tail +SB+2 (Pummel)  **Traits:** no skeleton; corrosion-resistant hide and thick blubber; slippery (+20 to escape a grapple); holds breath for hours; slowly regenerates injuries; lifespan 900+ years; chooses its own sex
+
+#### [Iktotchi](https://starwars.fandom.com/wiki/Iktotchi/Legends) `[review]`
+
+| Iktotchi are broad, horned humanoids from the storm-swept moon Iktotch in the Expansion Region, with wind-hardened skin and down-curving cranial horns inherited from mountain-goat ancestors. Their huge fatty-fingered hands are clumsy, but their minds are not: Iktotchi are natural telepaths and precognitives, the latter gift strong at home and faint elsewhere. Stoic and sensitive beneath a fierce look, they adapt to other cultures yet seldom mix, since their foresight frightens people, draws criminals and gets them barred from every casino. |
+| --- |
+
+**Characteristics:** T +10, I +10, Dex −10, Int +10, WP +10
+**Talents:** Datapad Use, Sixth Sense, Coolheaded, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** telepathy (silent speech with willing minds in sight); precognitive flashes (+20 to Sixth Sense on Iktotch, normal elsewhere); horns regrow if broken; large clumsy hands need oversized controls
+
+#### [Iotran](https://starwars.fandom.com/wiki/Iotran/Legends) `[review]`
+
+| Iotrans are a militaristic people of Iotra in the Outer Rim, dark-skinned, earless and bald, with knobby temples and short bony spikes guarding shoulders, elbows and hands. Atheists who believe stability comes only from military strength, nearly half of them serve in the Iotran Police Force at any time, and the elite Bracemen hunt fugitives far beyond the Iotran Expanse with little regard for local law. Respecting might and order, most Iotrans supported the Empire, which cost them the goodwill of other species. |
+| --- |
+
+**Characteristics:** WS +10, BS +10, S +10, WP +10, Fel −10
+**Talents:** Datapad Use, Warrior Born, Coolheaded, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Spiked fists +SB+2  **Traits:** bony spikes on shoulders and elbows (1 AP on the arms)
+
+#### [Ishi Tib](https://starwars.fandom.com/wiki/Ishi_Tib/Legends) `[review]`
+
+| The Ishi Tib of the ocean world Tibrin are green amphibians with eyestalks, beaked mouths and cheek pouches that give the head a star shape. Evolved from fish that leapt onto the coral reefs, they live in communal "schools" of up to ten thousand, hatch their young in common nurseries and write their strictest laws about protecting the environment. Offworld they are prized as meticulous planners, accountants and managers, but a cornered Ishi Tib will tear an enemy apart with its beak. |
+| --- |
+
+**Characteristics:** I +10, Int +10, WP +10
+**Talents:** Datapad Use, Amphibious, Acute Sense (Smell), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Beak +SB+2  **Traits:** lungs double as gills (water-breather); must soak in salt water every 30 hours or the skin cracks (lose 1 Wound per hour thereafter until immersed)
+
+#### [Ithorian](https://starwars.fandom.com/wiki/Ithorian/Legends) `[review]`
+
+| Ithorians, mockingly called "Hammerheads", are the tall, glossy-brown herbivores of the jungle world Ithor, whose long curving necks end in a T-shaped head with eyes at either tip. Two mouths and four throats let them speak in stereo and, in extremity, loose a deafening concussive bellow. Gentle worshippers of the Mother Jungle, they exile the violent among them and are found across the galaxy as ecologists, healers and herd-ship traders; Ithor itself was destroyed by the Yuuzhan Vong, and the survivors settled Borao and other worlds. |
+| --- |
+
+**Characteristics:** T +10, I −10, Int +10, WP +10, Fel +10
+**Talents:** Datapad Use, Savvy, Creature Affinity, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** two mouths and four throats (stereophonic speech; non-Ithorians cannot speak Ithorese); sonic bellow (once per encounter, all within a short cone take an Endurance Test or are Stunned and Deafened); slow reflexes
+
+#### [Jawa](https://starwars.fandom.com/wiki/Jawa/Legends) `[review]`
+
+| Jawas are the metre-tall, hooded scavengers of Tatooine's deserts, known only by their glowing yellow eyes, chattering speech and an odour that most species find unbearable but which tells other Jawas everything about them. They roam in huge sandcrawlers hunting salvage to patch up and resell to moisture farmers, with a well-earned reputation for sharp dealing, and retreat to desert fortresses to raise their young. Passive and timid, they see every newcomer as a customer rather than an enemy. |
+| --- |
+
+**Characteristics:** Ag +10, Dex +10, Int +10
+**Talents:** Datapad Use, Small, Night Vision, Scavenger, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** pungent scent (−10 to Charm and Stealth where smell matters, but conveys identity, health and mood to other Jawas); robust immune system (+10 to resist Disease); lifespan up to 80 years
+
+#### [Jenet](https://starwars.fandom.com/wiki/Jenet/Legends) `[review]`
+
+| Jenets are pink-skinned, red-eyed rodent humanoids from Garban in the Tau Sakar system, with wiry fur, twitching whiskers and long limbs they can dislocate to squeeze through a gap twelve centimetres wide. Their memories are flawless, their senses keen, and they can digest almost anything, having scavenged their way to dominance of their system. Breeding fast and quarrelling constantly, they strike other species as ugly and abrasive, yet their recall makes them sought-after clerks, administrators and bureaucrats; the Empire enslaved them in numbers. |
+| --- |
+
+**Characteristics:** T +10, I +10, Ag +10, Int +10, Fel −10
+**Talents:** Datapad Use, Eidetic Memory, Contortionist, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** keen sight, hearing and smell; digests almost any organic matter (never sickened by spoiled food); squeezes through 12 cm openings by disjointing limbs and skull plates
+
+#### [Kadas'sa'Nikto](https://starwars.fandom.com/wiki/Kadas'sa'Nikto/Legends) `[review]`
+
+| The Kadas'sa'Nikto, or Green Nikto, are the forest-adapted subspecies of the hardy reptilian Nikto of Kintan, green-scaled and equipped with small climbing claws. Long bound to the Hutts by ancient treaty, they are met throughout Hutt Space and beyond as smugglers, skiff guards, racers, gamblers and soldiers, from the Old Republic to Jabba's court on Tatooine. |
+| --- |
+
+**Characteristics:** S +10, T +10, Ag +10
+**Talents:** Datapad Use, Scale Sheer Surface, Hardy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** climbing claws; Nikto subspecies (thin source)
+
+#### [Kage](https://starwars.fandom.com/wiki/Kage/Legends) `[review]`
+
+| The Kage are a pale near-Human people of the caverns of Quarzite in the Inner Rim, a world of crushing atmospheric pressure where they wage a long struggle against the powerful Belugans who outnumber them. Spirited and disciplined, the Kage Warriors train to the peak of physical excellence: tireless, nimble, stealthy and deadly with electro-sword or bare hands. During the Clone Wars their leader Krismo Sodi recovered his kidnapped sister from the Belugan lord Otua Blank with the unexpected help of Asajj Ventress. |
+| --- |
+
+**Characteristics:** WS +10, Ag +10
+**Talents:** Datapad Use, Lightning Reflexes, Night Vision, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-human; adapted to Quarzite's high atmospheric pressure and cavern darkness
+
+#### [Kaleesh](https://starwars.fandom.com/wiki/Kaleesh/Legends) `[review]`
+
+| Kaleesh are well-muscled reptilian humanoids of Kalee in the Outer Rim, with scaled skin, bat-like faces, triangular ear flaps and tusks jutting from the jaw, almost always hidden behind a traditional mask. Deeply spiritual, they believe the great warriors of each generation become gods in death and hold their burial grounds sacred; war between tribes is simply part of life. The Republic and Sith Empire alike learned to respect them as proud, honourable and deadly, and the cyborg General Grievous was once one of their greatest warlords. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, WP +10, Fel −10
+**Talents:** Datapad Use, Warrior Born, Menacing, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** internal organs extremely flammable (Ablaze damage against a Kaleesh is doubled); masked in public by custom
+
+#### [Kaminoan](https://starwars.fandom.com/wiki/Kaminoan/Legends) `[review]`
+
+| Kaminoans are the tall, slender, long-necked amphibians of the storm-lashed ocean world Kamino in Wild Space, living in stilt-cities such as Tipoca above the waves. Pale, pearl-skinned and digitigrade, their large glassy eyes see in murky water and into the ultraviolet. A near-extinction after the Great Flood made them masters of genetics and cloning, and the cold, calculating culture that resulted produced the Grand Army of the Republic for the Clone Wars. They mature at eleven and age visibly by eighty. |
+| --- |
+
+**Characteristics:** S −10, I +10, Int +20, WP +10
+**Talents:** Datapad Use, Strong Swimmer, Savant (Genetics), roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** sees ultraviolet and in dark or murky water; digitigrade; adult at 11 years; dispassionate toward other species
+
+#### [Kerestian](https://starwars.fandom.com/wiki/Kerestian/Legends) `[review]`
+
+| Kerestians are towering humanoids, 1.8 to 2.5 metres, of the frozen world Kerest, marked by a row of vestigial breather tubes along the cheekbones, a vertical slit nose and twin strips of hair running from the brow down the back. Their fusion-age civilisation collapsed when their sun dimmed and glaciers swallowed all but the equator, and the survivors became remorseless hunters who will stalk one another to survive. Unafraid of the Great Darkness that awaits them in death, they are famed masters of the darkstick, and serve as assassins, Mandalorians and Imperial nobles' retainers. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, I +10, Fel −10
+**Talents:** Datapad Use, Hunter's Eye, Resistance (Cold), roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** vestigial breather tubes; embrace death (+10 to Cool Tests against Fear)
+
+#### [Keshiri](https://starwars.fandom.com/wiki/Keshiri/Legends) `[review]`
+
+| The Keshiri are the purple-skinned, powerfully built near-Humans of the isolated world Kesh, with black, red or violet eyes and looks most Humans find beautiful, though the two species cannot interbreed. Glassblowers, artists and mimes with a deep religious tradition of the Skyborn, they took the shipwrecked Sith of 5000 BBY for their gods and served the Lost Tribe for five millennia. Only around 41 ABY, as the Tribe's armada left Kesh, did Keshiri first travel offworld, some rising into the Sith Tribe itself. |
+| --- |
+
+**Characteristics:** S +10, Fel +10
+**Talents:** no Datapad Use (uncivilised), Attractive, Artistic, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-human but cannot interbreed with Humans; Lost Tribe of the Sith era (Kesh is cut off from the galaxy until 41 ABY)
+
+#### [Khil](https://starwars.fandom.com/wiki/Khil) `[review]`
+
+| The Khil of Belnar were among the Republic's founding peoples and have spread to countless worlds, calling themselves citizens of the galaxy. Hairless and grey-skinned, they have no jaw; instead a curtain of fleshy tendrils, the hullepi, hangs from the lower face, through which they breathe, feed on juices and moisture, and speak in musical tones. Driven, ambitious and a little arrogant, Khil push for leadership in every field from soldiering to music, though prolonged failure or stress can tip them into mood swings and breakdowns. |
+| --- |
+
+**Characteristics:** Int +10, WP +10, Fel +10
+**Talents:** Datapad Use, Perfect Pitch, Tenacious, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** breathes, feeds and speaks through facial tendrils (hullepi); prone to breakdowns under prolonged stress (−10 to Cool Tests after a major failure, at the GM's option)
+
+#### [Khommite](https://starwars.fandom.com/wiki/Khommite/Legends) `[review]`
+
+| Khommites are the near-Human clones of Khomm in the Deep Core. Around 1000 BBY, judging their society perfect, they began cloning their "ideal" citizens and froze their culture for a thousand years; every Khommite is a numbered copy of a template, sexless, rigidly conformist and bred to eat only processed food wafers. Force sensitivity was treated as a flaw to be removed, though it surfaced in the Jedi Knight Dorsk 81. Admiral Daala's bombardment of Khomm in 12 ABY forced the survivors to adapt for the first time in centuries. |
+| --- |
+
+**Characteristics:** Int +10, WP +10
+**Talents:** Datapad Use, Coolheaded, Savvy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-human clone lineage (each Khommite is a numbered copy of an earlier template); digests only processed food wafers; sexless; Force sensitivity vanishingly rare
+
+#### [Kian'thar](https://starwars.fandom.com/wiki/Kian'thar) `[review]`
+
+| Reptile-descended humanoids of the ocean world Shaum Hii in the remote Tragan Cluster, standing 1.8 to 2.1 metres with purplish-pink heads, keratin neck plates and two dangling olfactory tendrils on the face. They are nomadic derlac ranchers who ride flying bentails, and every Kian'thar can sense the emotions of those around them, a gift they use to defuse quarrels or, less honourably, to manipulate. Only charted around 300 BBY, they are prized offworld as mediators and counsellors, though many beings are wary of their empathy. |
+| --- |
+
+**Characteristics:** S +10, WP +10, Fel +10
+**Talents:** Datapad Use, Sixth Sense, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Empathic sense: reads the emotional state of any being within sight, including non-Kian'thar (+10 to Intuition and Charm Tests that turn on a target's mood)
+
+#### [Kiffar](https://starwars.fandom.com/wiki/Kiffar/Legends) `[review]`
+
+| Near-Humans of Kiffu and Kiffex in the Inner Rim, outwardly indistinguishable from baseline Humans except for the qukuuf, the red, yellow or green facial tattoos inherited through the mother's line that mark their clan. Kiffar history is a long tale of clan feuds and uneasy alliances, which bred a tough, proud and clannish people. A rare few are born with psychometry, the ability to read memories from objects and corpses by touch, and the Jedi Quinlan Vos was the most famous of them. |
+| --- |
+
+**Characteristics:** WP +10, I +10
+**Talents:** Datapad Use, Clan Markings, Coolheaded, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** About one in a hundred Kiffar has psychometry, reading the past of objects and the dead by touch (a Force-sensitive Kiffar may take Force Sense (Psychometry))
+
+#### [Kilmaulsi](https://starwars.fandom.com/wiki/Kilmaulsi) `[review]`
+
+| Wingless avian humanoids of Kilmaulsias in the Vorzyd Cluster of the Outer Rim, digitigrade and beaked, with purple feather ruffs under the jaw and along the arms. Once bitterly warring tribes, they set aside their feuds when the Vorzydiaks brought them spaceflight, but the old martial instinct remains, and Kilmaulsi are found throughout the cluster and beyond as guards, enforcers and soldiers. They are curious by nature and devoutly religious, and off their world they are easy to hire and hard to intimidate. |
+| --- |
+
+**Characteristics:** WS +10, T +10, WP +10
+**Talents:** Datapad Use, Warrior Born, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Kitonak](https://starwars.fandom.com/wiki/Kitonak/Legends) `[review]`
+
+| Pudgy, leathery-skinned nomads of the Kurdan Desert that covers Kirdo III, with tiny eyes, ears and mouth, two-toed feet and three-fingered hands. Kitonaks are famous for a patience that borders on the unbelievable, standing motionless for days to ambush a chooba, and one meal sustains them for a month. They are gifted musicians on the chidinkalu flute, which is why slavers so often carry them off to cantina stages, and the Imperial slang for them was "Yazbo". |
+| --- |
+
+**Characteristics:** T +20, WP +20, Ag −10
+**Talents:** Datapad Use, Small, Coolheaded, Stone Soup, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Leathery hide shrugs off desert heat and sand; can remain perfectly still for days (+20 to Stealth Tests when motionless); never hurries
+
+#### [Klatooinian](https://starwars.fandom.com/wiki/Klatooinian/Legends) `[review]`
+
+| Heavy-browed, leathery humanoids from Klatooine in the Si'Klaata Cluster of Hutt Space. Since Barada M'Beg signed the Treaty of Vontor some 25,000 years ago, the Klatooinians have been bound in perpetual service to the Hutts as soldiers, henchmen and slaves, and most of the galaxy knows them only as muscle in a kajidic's employ. Tough, loyal and dour, a growing number broke with tradition during the Galactic Civil War to join smugglers, pirates or the Rebel Alliance. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Kobok](https://starwars.fandom.com/wiki/Kobok/Legends) `[review]`
+
+| Tall, slight insectoids of Koboth on the fringe of the Tingel Arm, their skeletal frames sheathed in a fuzzy, expressive carapace of varied colour. Venomous spikes project from each forearm and shin, and three eyes, one at the back of the skull, give a Kobok all-round vision. The Koboth Union's long wars with the Corporate Alliance made the species a byword for militarism, and the few Koboks who leave Kobothi Space usually work as mercenaries, soldiers or assassins, with a reputation for being violent and sneaky. |
+| --- |
+
+**Characteristics:** WS +10, S +10, Ag +10, I +10, T −10
+**Talents:** Datapad Use, Warrior Born, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Limb spikes +SB+2 (venom)  **Traits:** 360° vision (cannot be outflanked or surprised from behind); spike venom knocks out a Human-sized victim for several hours on a failed Endurance Test; immune to the deadly effects of Rooze Disease; lifespan about 76 years
+
+#### [Koorivar](https://starwars.fandom.com/wiki/Koorivar/Legends) `[review]`
+
+| Tall humanoids crowned with a spiralling central horn ringed by smaller ones, with banded ridges across brow and nose and skin in a riot of colours. Having lost their native world, the Koorivar pooled their wealth to buy a new homeworld, Kooriva, from the Republic, and their whole society is built on corporate-mindedness. Their soft, whispering language relies heavily on body language, which makes them acute readers of other beings at the negotiating table; Magistrate Passel Argente of the Corporate Alliance led them into the Confederacy during the Clone Wars. |
+| --- |
+
+**Characteristics:** Int +10, I +10, Fel +10
+**Talents:** Datapad Use, Dealmaker, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Reads body language with unusual acuity (+10 to Intuition Tests to detect deceit or intent); horn size marks social status
+
+#### [Korun](https://starwars.fandom.com/wiki/Korun/Legends) `[review]`
+
+| The Korunnai are the "uplanders" of Haruun Kal, genetically Human but said to descend from a Jedi crew wrecked there during the Sith War, for every Korun is born Force-sensitive. They live as nomadic ghôsh clans above the toxic cloudsea, bound by the Four Pillars of Honour, Duty, Family and Herd, and use the Pelekotan, their name for the Force, to bond with their akk dogs and grassers. Generations of the Summertime War against the Balawai lowlanders made them hard and unforgiving; Mace Windu and Kar Vastor were both of Ghôsh Windu. |
+| --- |
+
+**Characteristics:** T +10, WP +10
+**Talents:** Datapad Use, Force Sensitive (Korunnai), Resistance (Poison), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** All Korunnai are Force-sensitive; traditionally bond with akk dogs and grassers through the Force; high tolerance for the toxins of the cloudsea
+
+#### [Krevaaki](https://starwars.fandom.com/wiki/Krevaaki) `[review]`
+
+| Exoskeleton-shelled sentients of Krevas off the Perlemian Trade Route, who move on eight cephalopod-like tentacles rather than limbs. Self-conscious about their alarming looks even in the days of the Old Republic, the Krevaaki are a quiet, spiritual and unmaterialistic people who explore widely in peacetime but shun conflict and the affairs of others, and are never found in large groups away from home. Jedi Master Vodo-Siosk Baas, teacher of Exar Kun, was the most renowned of them; they matter chiefly in the Old Republic era. |
+| --- |
+
+**Characteristics:** T +10, Int +10, WP +20, Fel −10
+**Talents:** Datapad Use, Coolheaded, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Eight tentacles serve as both arms and legs (may hold extra items but gain no extra attacks); natural exoskeleton counts as 1 AP on all locations
+
+#### [Krish](https://starwars.fandom.com/wiki/Krish/Legends) `[review]`
+
+| Smooth-skinned humanoids of Sanza in the Mid Rim, with wide heads, bony ridges above the eyes and nose, short wiry hair and mouths full of rows of tiny pointed teeth. Krish channel an aggressive temperament into games of every kind: they are relentlessly competitive, thrive on hard puzzles and adversity, and will deliberately make an easy job harder for the sport of it. This makes them brilliant in a crisis and hopeless at anything they find dull, and they drift naturally toward gambling dens and swoop-duelling circuits. |
+| --- |
+
+**Characteristics:** WS +10, Ag +10, Int +10
+**Talents:** Datapad Use, Tenacious, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Easily distracted by any game or wager (Willpower Test to ignore a challenge)
+
+#### [Kubaz](https://starwars.fandom.com/wiki/Kubaz/Legends) `[review]`
+
+| Green-black-skinned insectivores of Kubindi in the Outer Rim, bipedal with bristly hair, two-toed feet and a short prehensile snout evolved for probing insect hives. Their blue sun left them sensitive to red light, so under yellow or red stars Kubaz wear dark protective goggles, which gives them a furtive look that belies a refined culture of art, theatre and cuisine admired even at the Imperial court. They are clannish and family-centred, the elders reigning while the eldest three siblings run family business. |
+| --- |
+
+**Characteristics:** I +10, Dex +10, Int +10
+**Talents:** Datapad Use, Acute Sense (Sight), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Sees into the infrared; eyes are damaged by red and yellow sunlight (−20 to sight-based Tests without protective goggles under such stars)
+
+#### [Kushiban](https://starwars.fandom.com/wiki/Kushiban) `[review]`
+
+| Sentient lagomorphs of Kushibah in the Outer Rim, barely half a metre long, with two large expressive ears and "mood fur" that is white when calm and shifts colour with their feelings. Physically weak but quick, hard to hit and disarmingly innocent-looking, Kushibans see themselves as a simple village people and are so rarely met offworld that one was once exhibited in an illegal zoo. Jedi Master Ikrit, apprentice of Yoda and guardian of the Golden Globe on Yavin 4, was a Kushiban. |
+| --- |
+
+**Characteristics:** Ag +20, I +10, WP +10, S −10
+**Talents:** Datapad Use, Small, Beneath Notice, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Mood fur openly shows emotional state (−20 to Charm Tests when lying); can run on all fours and ride on a friendly humanoid's shoulder
+
+#### [Kyuzo](https://starwars.fandom.com/wiki/Kyuzo/Legends) `[review]`
+
+| Green-skinned, yellow-eyed humanoids of an Outer Rim world, famed as fast runners and prodigious leapers. Kyuzo culture produces highly capable warriors with exacting standards of personal honour, a code that persists even among the go-zeki, the honour-fanatic Kyuzo gangsters whose skin is charred orange in their initiation rites. The bounty hunter Embo, active throughout the Clone Wars, is the best-known Kyuzo in the galaxy. |
+| --- |
+
+**Characteristics:** WS +10, Ag +20
+**Talents:** Datapad Use, Lightning Reflexes, roll 2 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Exceptional jumpers (double normal jumping distance and height)
+
+#### [Lannik](https://starwars.fandom.com/wiki/Lannik/Legends) `[review]`
+
+| Stocky, short humanoids of the harsh Mid Rim world Lannik, a hereditary monarchy that joined galactic civilisation late and has suffered thousands of years of wars, unrest and criminal upheaval ever since. That perpetual struggle made the Lanniks a culture of fierce but honourable warriors with no patience for negotiation, and chronic technological backwardness has kept their world isolated under Republic, Empire and New Republic alike. Jedi Master Even Piell was a Lannik. |
+| --- |
+
+**Characteristics:** WS +10, T +10, WP +10
+**Talents:** Datapad Use, Small, Warrior Born, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** none
+
+#### [Lepi](https://starwars.fandom.com/wiki/Lepi/Legends) `[review]`
+
+| Sentient rabbits of Coachelle Prime, properly Lepus carnivorus, with green to dark-blue fur, long ears, long feet and prominent buck teeth. Their prodigious birth rate forced them to develop stardrives and colonise every world of their system, and Lepi remain constantly in motion, gesticulating wildly as they talk and running everywhere. Gregarious and good-natured, they flare into sudden anger when family or species is insulted; the smuggler Jaxxon, who fought beside Han Solo on Aduba-3, is the most famous of them. |
+| --- |
+
+**Characteristics:** Ag +10, I +10, Fel +10
+**Talents:** Datapad Use, Sprinter, Acute Sense (Hearing), roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Quick to anger when kin or species are insulted (Cool Test or become Frenzied for a Round)
+
+#### [Lorrdian](https://starwars.fandom.com/wiki/Lorrdian/Legends) `[review]`
+
+| Genetically baseline Humans of Lorrd in the Kanz sector, counted as Near-Humans because of a culture forged in three centuries of slavery under the Argazdan Myrialites, who forbade them to speak on pain of death. The Lorrdians answered with "kinetic communication", a complete language of gesture, posture and expression, and learned to read the body language of others with uncanny accuracy. By the Imperial era they were the galaxy's finest mimics, able to copy voices and mannerisms of Humans and many non-Humans alike. |
+| --- |
+
+**Characteristics:** I +10, Fel +10
+**Talents:** Datapad Use, Mimic, Lip Reading, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Kinetic communication: converses silently with other Lorrdians and reads a visible being's emotional state and intentions (+20 to Intuition Tests against body language)
+
+#### [Lutrillian](https://starwars.fandom.com/wiki/Lutrillian/Legends) `[review]`
+
+| Broad-faced, wrinkled humanoids of Lutrillia in the Yarith sector of the Outer Rim, with pointed ears, cheek-hair, thick skin and a layer of insulating blubber. On their flat, cold homeworld they live aboard enormous wheeled platform-cities that roll endlessly around the equator, a mechanised version of the nomadic life they evolved to escape subterranean predators. Lutrillians love adventure, high stakes and risk, which makes them natural entrepreneurs, salesbeings and, occasionally, crime lords across the Greater Javin. |
+| --- |
+
+**Characteristics:** T +10, Int +10, Fel +10
+**Talents:** Datapad Use, Resistance (Cold), Dealmaker, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Thick hide and blubber (+1 AP against blunt impacts); gamblers by temperament
+
+#### [Massassi](https://starwars.fandom.com/wiki/Massassi/Legends) `[review]`
+
+| The warrior caste of the red-skinned Sith species of Korriban, bred and enslaved by the exiled Dark Jedi who became the Sith Lords, with simian mouths, small noses and sharp predatory features. Massassi are fearsome, utterly loyal and formidable in battle, fighting in alchemically hardened armour with the lanvarok, but by the time of Exar Kun most had devolved into brutes that lived only to serve their master. Scattered survivors clung on in isolated villages or served the later Sith Empire; they belong to the ancient Sith and Old Republic eras. |
+| --- |
+
+**Characteristics:** WS +10, S +20, T +10, Int −10
+**Talents:** no Datapad Use (uncivilised), Menacing, Force Sensitive (Sith), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Naturally Force-sensitive like all of the Sith species; bred to obey, suffering −10 to Willpower Tests against a Sith Lord's commands
+
+#### [Meerian](https://starwars.fandom.com/wiki/Meerian/Legends) `[review]`
+
+| Short, wiry Near-Humans of the polluted mining world Bandomeer in the Outer Rim, averaging 1.1 to 1.6 metres, with pale skin, silver-to-gold hair and pupil-less eyes of the same colour. Centuries of foul air left them able to filter toxins through nose and tongue, and they are surprisingly strong for their size. Slow, deliberate, optimistic and agreeable, Meerians can always see both sides of an argument, which makes them sympathetic company and poor at reaching decisions; they insist on speaking eye to eye, hovering on repulsor seats to meet taller beings. |
+| --- |
+
+**Characteristics:** S +10, Fel +10
+**Talents:** Datapad Use, Sturdy, Resistance (Poison), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Breathes toxic or polluted air without harm; pupil-less eyes
+
+#### [Menahuun](https://starwars.fandom.com/wiki/Menahuun) `[review]`
+
+| Furry, lemur-like arboreal mammals of Lamaredd, about 120 centimetres tall with long arms, opposable digits on hands and feet and huge black eyes that see shapes in total darkness but no colour. Once peaceful nomadic hunter-gatherers, the Menahuun were hunted almost to extinction and exiled from their lands five centuries before the Empire, and have since become combative, cunning and bitterly hostile to any uninvited intruder on their world, settling disputes by duel and open war. Offworlders dismiss them as "little buggers" or gremlins; they live only about fifty-five years. |
+| --- |
+
+**Characteristics:** Ag +20, I +10, Int +10, S −10
+**Talents:** no Datapad Use (uncivilised), Small, Night Vision, Scale Sheer Surface, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Colour-blind; sees shapes up to 20 metres with no light at all; poor sense of smell; can hold breath for many minutes underwater; swings through trees and swims faster than a Human; lifespan about 55 years
+
+#### [Mirialan](https://starwars.fandom.com/wiki/Mirialan/Legends) `[review]`
+
+| Near-Humans of Mirial, with skin from yellow-green to nearly Human pallor, traditionally marked with geometric facial tattoos. Physiologically almost identical to Humans, Mirialans are set apart by great flexibility, agility and extremely quick reflexes, which give them the edge in athletics and the martial arts. Their culture understands the Force as fate, and even non-sensitives trust that it guides their lives; Mirialans such as Luminara Unduli and Barriss Offee have always had a presence in the Jedi Order. |
+| --- |
+
+**Characteristics:** Ag +10, I +10
+**Talents:** Datapad Use, Lightning Reflexes, Catfall, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Mon Calamari](https://starwars.fandom.com/wiki/Mon_Calamari/Legends) `[review]`
+
+| Amphibious, fish-like humanoids of the ocean world Dac in the Outer Rim, 1.3 to 1.8 metres tall with salmon-coloured skin, webbed hands, high-domed heads and huge eyes, smelling faintly of salt and sea. Soft-spoken, gentle and inquisitive, they are slow to anger and famous for a concentration that emotion cannot shake. Once among the most peaceful peoples of the galaxy, the Mon Calamari turned their beautiful liners into warships for the Rebel Alliance and proved brilliant officers, tacticians and pilots, a martial turn they never fully abandoned under the New Republic. |
+| --- |
+
+**Characteristics:** Int +10, WP +10, Fel +10
+**Talents:** Datapad Use, Amphibious, Coolheaded, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Breathes water and air equally well; sees clearly underwater; dries out and suffers in arid climates
+
+#### [Morseerian](https://starwars.fandom.com/wiki/Morseerian/Legends) `[review]`
+
+| Four-armed methane-breathers of the secret world Morseer and its colonies, 1.5 to 1.7 metres tall, with elongated scaled heads, pupil-less black eyes and semitransparent skin through which their organs can be seen. In oxygen atmospheres they appear only in full environment suits and breath masks, and they prefer to crew methane-rigged ships with others who can share their air. A reserved and secretive people, Morseerians would rather die than reveal their homeworld, and Imperial attempts to find it drove many quietly into the Rebellion; Nabrun Leids the smuggler-pilot was one of them. |
+| --- |
+
+**Characteristics:** I +10, Dex +10, Int +10
+**Talents:** Datapad Use, Orientation, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Four arms (may take Ambidextrous twice and hold extra items); breathes methane and suffocates within minutes in an oxygen atmosphere without an environment suit and breath mask
+
+#### [Mrlssi](https://starwars.fandom.com/wiki/Mrlssi) `[review]`
+
+| Flightless, grey-feathered avians of Mrlsst in the Tapani sector, under a metre tall, with bare heads fringed by feathers that grow more colourful with age. Their unstable young world taught them that buildings and possessions perish but knowledge endures, and the Mrlssi reverse-engineered hyperdrives within a generation of contact and built the finest universities in the sector. They think of themselves as great humorists, though offworlders rarely understand the joke; abroad they serve as political aides, scientists and tech specialists, and a fair number were found to be Force-sensitive before the Empire. |
+| --- |
+
+**Characteristics:** I +10, Int +20, Fel +10, S −10
+**Talents:** Datapad Use, Small, Savvy, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** none
+
+#### [Murachaun](https://starwars.fandom.com/wiki/Murachaun) `[review]`
+
+| Reptilian humanoids of Nahsu Minor near the Perlemian Trade Route, standing two metres or more and covered in blue, burgundy or red scales. Herbivorous, hard-working, orderly and outgoing, they joined with the Ktilac and Tocoyans to form the confederation of the Ktilac Regions, an Allied Region of the Old Republic ruling some 189 systems. Enslaved by the Empire, the Murachaun resisted covertly throughout the occupation, and the Regions kept their allied status under the New Republic and Galactic Alliance. |
+| --- |
+
+**Characteristics:** S +10, T +10, Fel +10
+**Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Scaled hide (thin source)
+
+#### [Mustafarian](https://starwars.fandom.com/wiki/Mustafarian/Legends) `[review]`
+
+| Insectoid extremophiles of the volcanic Outer Rim world Mustafar, where they mine the lava flows for minerals with a resilience no other species could match. Two subspecies share the planet: the taller, thinner northern Mustafarians and the smaller, stockier and hardier southerners who do the heavy work closest to the fire. Clannish and industrious, they are seldom seen offworld, though at least one took up bounty hunting in Jabba the Hutt's employ. |
+| --- |
+
+**Characteristics:** S +10, T +10, WP +10
+**Talents:** Datapad Use, Resistance (Heat), Hardy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Extremophile: unharmed by volcanic heat and fumes that would kill a Human; a northern Mustafarian may swap S +10 for Ag +10 (thin source)
+
+#### [Muun](https://starwars.fandom.com/wiki/Muun/Legends) `[review]`
+
+| Tall, gaunt humanoids of the mineral-rich Core world Muunilinst, with smooth elongated craniums, humped noses and three hearts. Muuns founded the InterGalactic Banking Clan and are known everywhere for a cold genius with figures and finance, a reputation so valuable that even the Empire exempted them from its persecution of non-Humans. Chairman San Hill bankrolled the Confederacy while his bank also lent to the Republic, which says most of what the galaxy thinks of Muun loyalties. |
+| --- |
+
+**Characteristics:** Int +20, WP +10, Fel +10, S −10
+**Talents:** Datapad Use, Savvy, Dealmaker, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Three hearts (may re-roll a failed Endurance Test to survive a Critical Wound to the body)
+
+#### [Myneyrsh](https://starwars.fandom.com/wiki/Myneyrsh) `[review]`
+
+| Tall, thin natives of the forest world Wayland in the Outer Rim, with smooth blue crystalline flesh and two stacked torsos, each bearing a pair of long muscular arms. The Myneyrshi are a primitive, intensely ritualistic people, perpetually at war with Wayland's other natives, the Psadans, and they are superb hunters and trackers who move through the forest without a sound; Luke Skywalker compared their awareness to that of a Force-sensitive. Enslaved by Joruus C'baoth and later nearly wiped out by the Yuuzhan Vong, they matter chiefly in the New Republic era. |
+| --- |
+
+**Characteristics:** S +10, I +20, Ag +10, Fel −10
+**Talents:** no Datapad Use (uncivilised), Rover, Sixth Sense, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Four arms (may take Ambidextrous twice; may wield a two-handed weapon and a second weapon together)
+
+#### [Nagai](https://starwars.fandom.com/wiki/Nagai/Legends) `[review]`
+
+| Tall, thin Near-Humans of Nagi in the Firefist satellite galaxy beyond the Unknown Regions, with chalk-pale skin, jet-black hair, grey eyes and sharp angular features, called "the Knives" by those who met them in battle. Nagai are devoted to family and bound by a strict personal honour, but care little for anyone outside their own blood unless honour or profit demands it. They are known in the main galaxy chiefly from their invasion shortly after the Battle of Endor; Darth Nihl of Darth Krayt's Sith was a Nagai a century later. |
+| --- |
+
+**Characteristics:** Ag +10, WP +10
+**Talents:** Datapad Use, Coolheaded, Warrior Born, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Outsiders to the galaxy at large (post-Endor era) (thin source)
+
+#### [Nazzar](https://starwars.fandom.com/wiki/Nazzar/Legends) `[review]`
+
+| Powerfully built, agile humanoids of Nazzri in the Mid Rim, about two metres tall, with elongated equine heads, long limp ears, four-fingered hands and dark skin under a fine coat of grey to navy fur. Noble, contemplative and spiritual, the Nazzar follow the Ulizra, a strict faith holding that outsiders taint Nazzar culture and that the group always outweighs the individual. Mildly xenophobic, they ignored the galaxy under Empire and New Republic alike, and the only Nazzar found offworld are outcasts; the Jedi Qrrrl Toq died in the Great Sith War. |
+| --- |
+
+**Characteristics:** S +10, Ag +10, WP +10
+**Talents:** Datapad Use, Coolheaded, roll 2 talents from the random talents list
+**Movement:** 5  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Lifespan about 125 years; an offworld Nazzar is almost certainly an outcast from the Ulizra
+
+#### [Neimoidian](https://starwars.fandom.com/wiki/Neimoidian/Legends) `[review]`
+
+| Distant genetic cousins of the Duros from the foggy, humid Colonies world Neimoidia and its purse-worlds such as Cato Neimoidia, with noseless grey-green faces, horizontally split pupils, forehead lumps and down-turned mouths. Raised as grubs in communal hives where only the greediest survive, Neimoidians value wealth and possessions above everything and built the Trade Federation to get them. They are stereotyped, not unfairly, as greedy, cowardly and easily intimidated, and they loathe combat; Nute Gunray and Lott Dod personified the type during the Clone Wars. |
+| --- |
+
+**Characteristics:** Dex +10, Int +20, Fel +10, WP −10
+**Talents:** Datapad Use, Dealmaker, Briber, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Scent glands beneath the eyes; bodies desiccate rapidly after death
+
+#### [Nelvaanian](https://starwars.fandom.com/wiki/Nelvaanian/Legends) `[review]`
+
+| Blue-furred, long-snouted lupine humanoids of the icy Outer Rim world Nelvaan, which they worship as the Great Mother. Nelvaanian males are warriors and scouts, females builders and gatherers, and each tribe is led by an elected chieftain and a shaman who keeps its spiritual rites. During the Clone Wars General Grievous, struck by their likeness to his own Kaleesh, lured the warriors of Rokrul village into a Techno Union laboratory to be mutated into cyborg soldiers until Anakin Skywalker freed them. |
+| --- |
+
+**Characteristics:** S +10, I +10, WP +10
+**Talents:** no Datapad Use (uncivilised), Acute Sense (Smell), Resistance (Cold), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Thick fur suited to Nelvaan's winters; tribal shamanism (Clone Wars era)
+
+#### [Neti](https://starwars.fandom.com/wiki/Neti/Legends) `[review]`
+
+| Sentient plants of Myrkr in the Mid Rim, able to reshape their woody bodies from a rooted tree-form to a rough humanoid, and immensely long-lived. Neti are among the rarest of sentient peoples, strongly tied to the Force, and several served the Jedi Order in the days of the Old Republic. By the era of the Second Galactic Civil War the galaxy at large thought them a myth. |
+| --- |
+
+**Characteristics:** T +20, Int +10, WP +10, Ag −10
+**Talents:** Datapad Use, Regeneration (Minor), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Plant physiology: shifts between tree-form and humanoid, needs light, water and soil rather than food, vulnerable to fire; lifespan of millennia (thin source)
+
+#### [Nikto](https://starwars.fandom.com/wiki/Nikto/Legends) `[review]`
+
+| Leathery reptilian humanoids of Kintan in the Si'Klaata Cluster of Hutt Space, about 1.8 metres tall, with faces that scarcely move and a scatter of small horns and spikes that vary by subspecies: the desert-bred Kajain'sa'Nikto, the forest and coastal Kadas'sa'Nikto with their climbing claws, the fin-headed Esral'sa'Nikto of the mountains, the seafaring Gluss'sa'Nikto and the southern M'shento'su'Nikto. Like the Klatooinians, the Nikto have served the Hutts since the Treaty of Vontor, and the galaxy knows them as hard, stolid enforcers and warriors, the Morgukai among them. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2 (Kadas'sa'Nikto only)  **Traits:** Limited facial expression (−10 to Charm Tests that rely on expression); by subspecies: Kajain'sa'Nikto breathe through sand-filtering membranes, Esral'sa'Nikto have keen hearing from their fins, Gluss'sa'Nikto are natural sailors
+
+#### [Noehon](https://starwars.fandom.com/wiki/Noehon) `[review]`
+
+| Small, four-armed arboreal insectoids of Noe'ha'on in the Expansion Region, with large red compound eyes, heavy mandibles, musk glands and a soft bristly carapace mottled green. Noehon society is a rigid, brutal hierarchy of slaves and slavers, and the species is known across the galaxy for both roles, though Noehons raised offworld show a gift for organisation that serves them well in technical and bureaucratic work. Accustomed to hanging upside down in the jungle canopy, they are untroubled by zero gravity. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Dex +10, Int +10, Fel −10
+**Talents:** Datapad Use, Small, Scale Sheer Surface, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Four arms (may take Ambidextrous twice; brachiates through trees); compound eyes keyed to motion and close detail; immune to zero-gravity disorientation and space-sickness
+
+#### [Noghri](https://starwars.fandom.com/wiki/Noghri/Legends) `[review]`
+
+| Small, hairless, steel-grey or blue-skinned predators of Honoghr in the Outer Rim, heavily muscled and sinewy, with toothy snouts, claws and quick eyes. Noghri are arguably the galaxy's finest natural assassins, silent, agile and blindingly fast, with a sense of smell keen enough to read a being's bloodline, which is how Khabarakh knew Leia Organa Solo for the daughter of Darth Vader. Their clan society is built on honour above all; Vader bound them to the Empire with false promises of aid for their poisoned world, and the Death Commandos served until Leia revealed the deceit. |
+| --- |
+
+**Characteristics:** WS +10, S +10, Ag +10, I +10, Fel −10
+**Talents:** Datapad Use, Small, Acute Sense (Smell), Lightning Reflexes, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** Claws +SB+2, Bite +SB+2  **Traits:** Scent so acute they can identify an individual's bloodline by smell alone; fearsome reputation as killers
+
+#### [Nosaurian](https://starwars.fandom.com/wiki/Nosaurian/Legends) `[review]`
+
+| Scaled, bipedal reptilians of New Plympto in the Core Worlds, crowned with a row of long horns and armed with a beakful of sharp teeth, able to flash light from inside the mouth for silent signalling across distance. Naturally even-tempered, Nosaurians were soured by generations of Corellian and Republic exploitation of their rikknit-egg trade, joined the Confederacy, fought on after the Clone Wars and were crushed and enslaved by the Empire. Colour-blind and compelled to bray the sun down at dusk, emigrant Nosaurians drift to the fringe or into thrill-seeking trades like podracing. |
+| --- |
+
+**Characteristics:** WS +10, T +10, WP +10
+**Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2  **Traits:** Colour-blind; mouth flash allows silent signalling at long range; deep resentment of Humans; urge to "sing down" the sun at dusk, often at the wrong moment offworld
+
+#### [Nuknog](https://starwars.fandom.com/wiki/Nuknog/Legends) `[review]`
+
+| Stocky, long-necked reptilians of the ruined mining world Sump, about 1.2 metres tall, with bulbous ridged heads, short legs and beaked mouths. Nuknog have small brains and shorter tempers, but their keen eyes, sharp hearing and nimble hands make them surprisingly good at delicate technical work. Their leaders sold Sump to a mining consortium a thousand years before the Battle of Yavin, and centuries of toxic drudgery followed by Republic charity left the species poor, suspicious and quick to take offence. |
+| --- |
+
+**Characteristics:** T +10, I +20, Dex +10, Int −10
+**Talents:** Datapad Use, Small, Acute Sense (Hearing), Craftsman (Technician), roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Short-tempered (Cool Test to let an insult pass); lifespan around 65 offworld, halved on polluted Sump
+
+#### [Omwati](https://starwars.fandom.com/wiki/Omwati/Legends) `[review]`
+
+| Lithe, bird-like Near-Humans of Omwat, with blue skin that darkens with emotion, large eyes and a feathery crest. Omwati have remarkably pliant minds: a properly coached child can absorb and retain knowledge far beyond most sentients, and the species is renowned for science, engineering and music, though too much pressure can collapse a promising mind entirely. Grand Moff Tarkin exploited that gift with terrible cruelty, destroying cities to drive students like Qwi Xux into weapons research; a naive and peaceful people, they joined the New Republic after developing their own hyperdrive. |
+| --- |
+
+**Characteristics:** Dex +10, Int +10
+**Talents:** Datapad Use, Eidetic Memory, Savvy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Skin darkens with strong emotion (−10 to Charm Tests when concealing feelings); some Omwati are Force-sensitive and follow Jedi or shamanic traditions
+
+#### [Ongree](https://starwars.fandom.com/wiki/Ongree/Legends) `[review]`
+
+| Amphibious humanoids of Skustell in the Skustell Cluster, with yellow or brown skin, tapering heads and flexible eyestalks on either side, their lipless mouths set above four nostrils so that the face appears upside down. Despite a humpbacked, awkward look and thick two-fingered hands, Ongree are agile and deft. Because their eyestalks let them see an object from several angles, they are credited with seeing every side of a question, and many become skilled negotiators, diplomats and politicians; the Jedi Masters Pablo-Jill and Coleman Kcaj were Ongree, as was the corrupt Coruscant mayor Acros-Krik. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Fel +10
+**Talents:** Datapad Use, Amphibious, Suave, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Flexible eyestalks give a wide field of view and let them study an object from several angles at once (+10 to Perception Tests to examine something closely)
+
+#### [Ortolan](https://starwars.fandom.com/wiki/Ortolan/Legends) `[review]`
+
+| Squat, heavily built bipeds of the frigid, mineral-rich world Orto, with trunk-like noses, beady black eyes, small mouths and large floppy ears that are exquisitely sensitive to sound. A velvety hide, often dyed in bright colours, covers a thick layer of blubber that warms them and sustains them when food is scarce. Ortolans are born fully toothed and are expected to support themselves by age seven; their barter society is industrialised but not advanced, and their best-known sons are the musician Max Rebo and the Jedi Knight Nem Bees, who led the resistance on occupied Orto. |
+| --- |
+
+**Characteristics:** T +20, I +10, Fel +10, Dex −10
+**Talents:** Datapad Use, Acute Sense (Hearing), Resistance (Cold), roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Blubber sustains them without food for long periods (+20 to Endurance Tests against hunger); thumbs are not opposable; insatiable appetite
+
+#### [Pa'lowick](https://starwars.fandom.com/wiki/Pa'lowick/Legends) `[review]`
+
+| Amphibians of the salt marshes of Lowick in the Outer Rim, with globular bodies perched on thin gangly legs, slender arms, eyes on stalks and a long proboscis ending in surprisingly Human-like lips; one subspecies keeps its tusks for life, the other loses them by middle age. A shy, traditional farming people ruled by royal families, the Pa'lowick keep their history in song, and their powerful lungs make them superb singers, as Sy Snootles of the Max Rebo Band and Miss Coruscant Larisselle Chatrunis proved. They welcome offworld technology but their world stays isolated and little known. |
+| --- |
+
+**Characteristics:** T +10, WP +10, Fel +10
+**Talents:** Datapad Use, Strong Swimmer, Perfect Pitch, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Tusks +SB+2 (tusked subspecies only)  **Traits:** Powerful lungs and an air bladder let them hold their breath for long periods and float effortlessly; eyestalks give a wide field of view
+
+#### [Pacithhip](https://starwars.fandom.com/wiki/Pacithhip/Legends) `[review]`
+
+| Short, squat pachydermoid bipeds of Shimia in the Outer Rim, with rough blue, green or grey skin, long thick tails, a trunk flanked by four nostrils and two elaborate tusks whose pattern fixes their caste as scholar, warrior or farmer. Slow on their stumpy legs, Pacithhip often wear robotic stilts to reach humanoid height and use humanoid-scaled gear, and their deep gravelly voices are heard in spaceports along the Corellian Run. Broad-minded and adaptable, those who reject the caste system seek their fortune offworld as animal breeders, prospectors and podracers, like Ketwol of Chalmun's Cantina. |
+| --- |
+
+**Characteristics:** S +10, T +20, Int +10, Ag −10
+**Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Tusks +SB+2, Tail +SB+2 (Pummel)  **Traits:** Caste fixed at birth by tusk pattern (scholar, warrior or farmer); often wear robotic stilts, which raise Movement to 4 but hinder Agility Tests
+
+#### [Paigun](https://starwars.fandom.com/wiki/Paigun) `[review]`
+
+| Toadlike sapients of storm-wracked Paigu in the Outer Rim, Paiguns have the gaunt, elongated build of a Muun beneath knobby, scaly skin and a tall, lengthened skull. They are famous for their devotion to mathematics and logic, and their amptech engineers keep the colossal lightning rods that power their cities running. Paiguns dislike fighting and would much rather hire others to do it for them. |
+| --- |
+
+**Characteristics:** WS −10, T +10, Dex +10, Int +20
+**Talents:** Datapad Use, Savvy, Craftsman (Engineer), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Pau'an](https://starwars.fandom.com/wiki/Pau'an/Legends) `[review]`
+
+| Gaunt, grey-skinned near-Humans of the sinkhole world Utapau in the Outer Rim, Pau'ans stand around 1.9 metres with long arms, long fingers and sharp carnivore teeth. Their centuries-long lives earned them the name "Ancients", and they fill the leadership posts on their world alongside the smaller Utai. Offworlders often find them frightening at first sight, but Pau'ans are courteous hosts and resisted both the Confederacy and the Empire. |
+| --- |
+
+**Characteristics:** WP +10, Fel +10
+**Talents:** Datapad Use, Night Vision, Menacing, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-Human; long-lived (several centuries)
+
+#### [Phindian](https://starwars.fandom.com/wiki/Phindian/Legends) `[review]`
+
+| The gangly, mournful-faced natives of Phindar have arms that hang past their knees, dark green or brown skin and pale rings around their golden eyes. For centuries the criminal Syndicat ruled them through mind-wiping "renewal", until Qui-Gon Jinn helped them win free. Phindians are cautious about risking their necks, love sarcasm, exaggeration and talking around a subject, yet are deeply loyal to family and friends; they are surprisingly quick when loping on all four limbs. |
+| --- |
+
+**Characteristics:** WP −10, Ag +10, Dex +10, Int +10, Fel +10
+**Talents:** Datapad Use, Flee!, Scale Sheer Surface, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** may move on all fours (Movement 5 when not carrying anything in the hands)
+
+#### [Pho Ph'eahian](https://starwars.fandom.com/wiki/Pho_Ph'eahian) `[review]`
+
+| Four-armed, blue-furred humanoids from the cool, dim mountain world of Pho Ph'eah in the Outer Rim, Pho Ph'eahians are gregarious, cheerful beings who love being the centre of attention. Contact with the Republic turned them into exporters of agricultural technology, weapons and hyperdrives, and offworld they thrive as entertainers and well-paid starship mechanics, especially in the Corporate Sector. They treat their bodies as sacred and are fastidious about cleanliness. |
+| --- |
+
+**Characteristics:** S +10, Int +10, Fel +10
+**Talents:** Datapad Use, Resistance (Cold), Night Vision, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** four arms (may take Ambidextrous twice)
+
+#### [Psadan](https://starwars.fandom.com/wiki/Psadan) `[review]`
+
+| One of the two native peoples of Wayland in the Outer Rim, the Psadan are lumpy, slow-moving carnivores whose bodies are sheathed in armour-like bony plates. Most never leave the forests of their homeworld, but the few who do turn up in cantinas and on fringe stations, where their hide and patience make them useful hired muscle. |
+| --- |
+
+**Characteristics:** S +10, T +20, Ag −10, WP +10
+**Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** natural armour plates (1 AP on all locations, does not stack with worn armour on the same location) (thin source)
+
+#### [Quarren](https://starwars.fandom.com/wiki/Quarren/Legends) `[review]`
+
+| Squid-headed amphibians of the deep oceans of Dac, Quarren share their world with the Mon Calamari and have fought and resented them for millennia. Their leathery skin, prehensile facial tentacles and dive-adapted bodies suit the pressures 300 metres down. Suspicious, pragmatic and quick to take offence, Quarren are found across the galaxy as miners, shipwrights, smugglers and efficient managers for crime syndicates such as the Exchange. |
+| --- |
+
+**Characteristics:** S +10, T +10, Int +10, WP +10, Fel −10
+**Talents:** Datapad Use, Amphibious, Strong Swimmer, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** water-breather; may dive to 300 m unaided but must decompress for as long as they spent below 50 m
+
+#### [Quermian](https://starwars.fandom.com/wiki/Quermian/Legends) `[review]`
+
+| Engineered by Arkanian geneticists from Xexto stock some 17,000 years before Yavin, the Quermians of the garden world Quermia are tall, spindly beings with serpentine necks, bulbous heads fixed in a bemused smile and two pairs of thin arms, the lower pair usually hidden under their robes. A second brain in the chest grants a mild telepathy, and the species' peaceful philosophers and diplomats are famous across the Republic; many Quermians serve in the Jedi Order. |
+| --- |
+
+**Characteristics:** S −10, Int +20, WP +10, Fel +10
+**Talents:** Datapad Use, Sixth Sense, Savvy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** four arms (may take Ambidextrous twice); two brains with latent telepathy (senses intent and mood at short range); smells through the hands
+
+#### [Rakata](https://starwars.fandom.com/wiki/Rakata/Legends) `[review]`
+
+| The Builders of ancient Lehon were lean, smooth-skinned amphibian humanoids with tall craniums, eyes on short horizontal stalks and three-fingered clawed hands. Fed on the dark side and Kwa technology, their Infinite Empire enslaved most of the known galaxy and invented the hyperdrive; they stripped worlds bare, slaughtered slave populations and ate their enemies. Cruel, arrogant and merciless, the Rakata are an ancient-era species (the Infinite Empire and its fall); later survivors are degenerate tribes on Lehon. |
+| --- |
+
+**Characteristics:** WS +10, T +10, Int +10, WP +10, Fel −10
+**Talents:** Datapad Use, Menacing, Warrior Born, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** ancient era only; in the Infinite Empire era the GM may grant Force Sensitive (Rakata), while post-Empire Rakata are Force-blind
+
+#### [Ranat](https://starwars.fandom.com/wiki/Ranat/Legends) `[review]`
+
+| Metre-tall rodents with long tusk-like incisors jutting from the lower jaw and sharp digging claws, the Ranats (Con Queecon) were nearly wiped out on Rydar II and re-established themselves from three stowaways on Aralia, where their tribes dig maze-like warrens and lure intruders into dead ends. Officially semi-sentient, Ranats show little beyond hunger and hostility, but offworld they survive as scroungers, traders and cheap mercenaries in the lowest tiers of places like Mos Eisley. |
+| --- |
+
+**Characteristics:** T +10, I +10, Ag +20, Int −10
+**Talents:** Datapad Use, Small, Night Vision, Duct Crawler, roll 1 talents from the random talents list
+**Movement:** 3  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Small  **Natural weapons:** Bite +SB+2, Claws +SB+2  **Traits:** incisors grow constantly and must be gnawed down; officially semi-sentient (arming a Ranat is illegal in some sectors)
+
+#### [Ranth](https://starwars.fandom.com/wiki/Ranth) `[review]`
+
+| Furred, canine-featured carnivores of the frozen night side of tidally locked Caaraz, the Ranth have flat muzzles, bushy tails, sharp claws and hearing that reaches into the ultrasonic. Before the Empire found them they had already split into city-dwellers building in glacial ice caverns and nomadic hunter clans with no machines at all. Both are short-tempered, family-bound peoples; nomads are passionate and determined, city Ranth introspective and prone to apathy. |
+| --- |
+
+**Characteristics:** S +10, T +10, I +10
+**Talents:** Datapad Use, Acute Sense (Hearing), Resistance (Cold), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** ultrasonic hearing; nomadic Ranth replace Datapad Use with "no Datapad Use (uncivilised)"
+
+#### [Rattataki](https://starwars.fandom.com/wiki/Rattataki/Legends) `[review]`
+
+| Chalk-white, hairless near-Humans of the harsh Outer Rim world Rattatak, thought to descend from a lost Republic expedition, the Rattataki built an isolated society around warlords and gladiatorial arenas where every tribe invents new ways to kill. Their combat prowess drew Sith attention in the Great Galactic War, and a notable minority are Force-sensitive. Offworld they are prized and feared as fighters and mercenaries. |
+| --- |
+
+**Characteristics:** WS +10, T +10
+**Talents:** Datapad Use, Warrior Born, Menacing, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-Human
+
+#### [Rodian](https://starwars.fandom.com/wiki/Rodian/Legends) `[review]`
+
+| Green-skinned reptilian humanoids of jungle-covered Rodia in the Tyrius system, Rodians have multifaceted eyes, a flexible snout that filters air for their superb sense of smell, and long sucker-tipped fingers from an arboreal past. Their clan culture was forged by hunting the ghests and other predators of their swamps, and the galaxy knows them chiefly as bounty hunters and criminal henchmen, though Rodian merchants, artists, senators and Jedi are far from rare. |
+| --- |
+
+**Characteristics:** BS +10, I +10, Ag +10
+**Talents:** Datapad Use, Acute Sense (Smell), Scale Sheer Surface, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** multifaceted eyes; skin secretes a pheromone-laden oil (other Rodians can smell one coming)
+
+#### [Ruurian](https://starwars.fandom.com/wiki/Ruurian/Legends) `[review]`
+
+| The insectoid Ruurians of Ruuria pass through three life stages, and it is the fourteen-legged larva, with its fine antennae, faceted eyes and four opposable fingers on every limb, that is the thinking, creative stage which runs the 143 colonies of their world. Cautious to a fault, Ruurian larvae are scholars, historians, artists and occasional bounty hunters; eventually they spin a cocoon and emerge as simple-minded Chroma-Wing Fliers interested only in eating, flying and mating. |
+| --- |
+
+**Characteristics:** S −10, T +10, Dex +10, Int +20
+**Talents:** Datapad Use, Small, Eidetic Memory, Savvy, roll 1 talents from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** larval stage only (the adult flier is not playable); many limbs (may take Ambidextrous twice); pupation ends the character's career
+
+#### [Rybet](https://starwars.fandom.com/wiki/Rybet/Legends) `[review]`
+
+| Squat, smooth-skinned amphibians with bulbous slit-pupilled eyes, webbed suction-tipped hands and a long purple tongue they fire at flying insects, the Rybets claim to hail from Varl and to have destroyed it in a war with the Hutts, a boast the Hutts find mildly amusing. Females stand up to 1.9 metres, males barely 1.5. Opportunistic, nomadic spacers with a loose grip on ethics, Rybets are born as blind four-armed larvae and metamorphose into adults after a single season. |
+| --- |
+
+**Characteristics:** T +10, I +10, Ag +10, Dex +10, WP −10
+**Talents:** Datapad Use, Amphibious, Acute Sense (Smell), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** tongue tastes airborne scents and pheromones (flicks rapidly when the Rybet is afraid, which others can read)
+
+#### [Ryn](https://starwars.fandom.com/wiki/Ryn/Legends) `[review]`
+
+| A homeless humanoid people of the Core, the Ryn have white hair, long fingers, large prehensile tails and beak-like noses they play as flutes, able to pitch notes precisely enough to summon droids. Secretive, musical, fastidiously clean and fond of confidence games, they claim to have invented sabacc as a tool of divination. Prejudice follows them everywhere, and in some sectors hunting or enslaving Ryn is legal, which has driven most to the Corporate Sector; during the Yuuzhan Vong War their refugee information network was second to none. |
+| --- |
+
+**Characteristics:** Ag +10, Dex +10, Fel +10
+**Talents:** Datapad Use, Perfect Pitch, Suave, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** prehensile tail (can hold or pass small objects, not wield weapons); no homeworld; widely persecuted
+
+#### [S'kytri](https://starwars.fandom.com/wiki/S'kytri) `[review]`
+
+| The Windborn of Skye (Imperial Marat V) are tall, lean, muscular winged humanoids with vivid non-Human skin tones and clan markings, counted among the most beautiful peoples in the galaxy. Their mountain cities are ruled by a Supreme Council and an alternating Patriarch, and their reputation is that of noble warrior bards. Loyal to the Jedi since the Clone Wars, the S'kytri were condemned to servitude by the Empire under the collaborator Kharys. |
+| --- |
+
+**Characteristics:** WS +10, S +10, Fel +10
+**Talents:** Datapad Use, Attractive, Warrior Born, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Flight (membranous wings)
+
+#### [Saheelindeeli](https://starwars.fandom.com/wiki/Saheelindeeli) `[review]`
+
+| Green-furred, ape-like primates of the Outer Rim world Saheelindeel, the Saheelindeeli live in a matriarchal society that was only beginning to adopt automation around the time of the Battle of Yavin. Strong, agile climbers at home in the wild, they are rare offworld and generally regarded by spacers as rustic locals. |
+| --- |
+
+**Characteristics:** S +10, T +10, Ag +10
+**Talents:** no Datapad Use (uncivilised), Scale Sheer Surface, Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** (thin source)
+
+#### [Sakiyan](https://starwars.fandom.com/wiki/Sakiyan/Legends) `[review]`
+
+| Hairless, slit-pupilled, pointed-eared humanoids of Saki in Hutt Space, Sakiyans descend from predators and it shows: a brain twice the Human size devoted largely to sensory processing, infrared sight, motion-sensitive peripheral vision, and hearing and smell so keen they can track days-old trails, all on a frame half again as strong as a Human's. Honour, personal and familial, governs their lives; humourless, cautious and clannish, they are sought after as assassins and bounty hunters, and were one of the few peoples to resist Hutt conquest. |
+| --- |
+
+**Characteristics:** S +10, I +20, Int +10, Fel −10
+**Talents:** Datapad Use, Acute Sense (Smell), Night Vision, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** infrared vision; near-supernatural hearing and smell (may track scents days old); pale-skinned Sakiyans are outcasts among their own
+
+#### [Sanyassan](https://starwars.fandom.com/wiki/Sanyassan/Legends) `[review]`
+
+| Two-metre reptilian humanoids with scaly skin and simian faces from stormy Sanyassa IV in the Moddell sector, the Sanyassans fell from an advanced civilisation to feudal savagery after the Din supernova and now live in a might-makes-right caste society. Known to the galaxy only as "marauders", they have pirated the Moddell sector since antiquity, and a shipload of them crash-landed on Endor to found King Terak's raiders. Fierce, short-tempered and not overly bright, they find work as bodyguards and mercenaries. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, Int −10, WP +10
+**Talents:** no Datapad Use (uncivilised), Menacing, Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** four-fingered hands; feudal-level homeworld
+
+#### [Sarkan](https://starwars.fandom.com/wiki/Sarkan/Legends) `[review]`
+
+| Tall cold-blooded reptilians of Sarka, often over two metres with thick scales, sharp fangs, small finger claws and yellow eyes that see well in the dark, the Sarkans live in luxurious cave cities warmed by hot springs beside their gem mines. Immensely wealthy and obsessed with elaborate protocol, they never developed space travel and rarely leave home, preferring to let "foolish aliens" come to their resorts to buy gemstones; an unreturned formal greeting has cost SoroSuub years of trade. |
+| --- |
+
+**Characteristics:** S +10, T +10, Int +10
+**Talents:** Datapad Use, Night Vision, Dealmaker, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2  **Traits:** cold-blooded (freezing temperatures can kill in twenty minutes; treat cold exposure as one step more severe)
+
+#### [Saurin](https://starwars.fandom.com/wiki/Saurin/Legends) `[review]`
+
+| A Trandoshan subspecies from Durkteel in the Kashyyyk Region, the Saurin share their cousins' knobby scales, broad flat noses, gaping mouths and jagged teeth but have five-fingered hands and three-toed feet, and range from short and wiry to tall and muscular. Humourless and stoic, Saurin spacers are found galaxy-wide as thugs, combat instructors, bodyguards and droid dealers, and many joined the Rebel Alliance. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** Datapad Use, Hardy, Menacing, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2  **Traits:** none
+
+#### [Selkath](https://starwars.fandom.com/wiki/Selkath/Legends) `[review]`
+
+| The amphibious Selkath of ocean-covered Manaan resemble upright sting rays, with camouflage-patterned blue, pink or green skin and cephalic lobes they stroke while talking. Sole suppliers of the healing agent kolto, they wielded great diplomatic weight in the Jedi Civil War through strict neutrality, then faded when bacta replaced kolto. Every Selkath carries retractable venomed claws, but using them in a fight is held to be a sign of madness. |
+| --- |
+
+**Characteristics:** Int +10, WP +10, Fel +10
+**Talents:** Datapad Use, Amphibious, Strong Swimmer, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2 (venomed: a wound inflicts Poisoned)  **Traits:** water-breather; using the claws is a cultural taboo (treated as a sign of madness by other Selkath)
+
+#### [Selonian](https://starwars.fandom.com/wiki/Selonian/Legends) `[review]`
+
+| Two-metre sleek, furred musteline carnivores of Selonia in the Corellian system, Selonians have long flexible spines, needle fangs and claws, and move as easily on four limbs as on two, a legacy of aquatic ancestors. Den-dwellers ruled by fertile queens, with most of the population sterile females, they have a deep psychological need for consensus and are honest among their own but withdrawn and evasive with outsiders. |
+| --- |
+
+**Characteristics:** S +10, T +10, Ag +10
+**Talents:** Datapad Use, Strong Swimmer, Duct Crawler, roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2, Claws +SB+2  **Traits:** may run on all fours; den-born need for consensus (acting alone against the group is deeply distressing)
+
+#### [Sephi](https://starwars.fandom.com/wiki/Sephi/Legends) `[review]`
+
+| Pointed-eared near-Humans of Thustra in the Sumitra sector of the Expansion Region, the Sephi live for more than two centuries and have built a monarchy of great elegance, their sophistication showing even in the delicate lines of their walkers and tanks. Long-standing Republic members and friends of the Jedi, they were drawn into the Clone Wars when King Alaric, once Yoda's friend, sided with the Confederacy. |
+| --- |
+
+**Characteristics:** Dex +10, Fel +10
+**Talents:** Datapad Use, Suave, Craftsman (Artist), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-Human; long-lived (over 200 years)
+
+#### [Shi'ido](https://starwars.fandom.com/wiki/Shi'ido) `[review]`
+
+| The shapeshifters of Lao-mon in the Unknown Regions are, in their natural form, pale wide-mouthed humanoids with deep-set eyes, but their pliable flesh, thin dense bones and detachable tendons let them become almost anything of similar mass, from a rock to a monster. Their democratic government keeps the species isolated, and the few abroad are anthropologists, spies, mercenaries and, once, a Dark Lord of the Sith. Jedi texts warn that Shi'ido minds are hard to sway with the Force. |
+| --- |
+
+**Characteristics:** T +10, Int +10, WP +10
+**Talents:** Datapad Use, Contortionist, Beneath Notice, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** shapeshifter (can assume the form of any creature or object of roughly their own mass; seeing through it is a Hard Perception Test); +1 SL to resist Force mind-influence
+
+#### [Shistavanen](https://starwars.fandom.com/wiki/Shistavanen/Legends) `[review]`
+
+| The "wolfmen" of Uvena Prime are lupine humanoids with pronounced muzzles, claws, long fangs, pointed ears and large glowing eyes, shaped by both evolution and unknown genetic engineers. They can run for hours on two legs or four, and their keen hearing, smell and night sight make them superb trackers, though harsh light, noise and stench pain them. Fiercely isolationist and clannish, Shistavanen who travel become scouts, mercenaries and bounty hunters, and even the Empire hired them to hunt rebels. |
+| --- |
+
+**Characteristics:** S +10, T +10, I +10, Ag +10, Fel −10
+**Talents:** Datapad Use, Night Vision, Acute Sense (Smell), roll 1 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2, Claws +SB+2  **Traits:** tireless runner on two or four limbs; keen senses are vulnerable (−10 to Tests while exposed to dazzling light, deafening noise or overpowering stench)
+
+#### [Sith](https://starwars.fandom.com/wiki/Sith/Legends) `[review]`
+
+| Before "Sith" named a dark side religion it named a species: the red-skinned, tendril-faced natives of Korriban and Ziost, conquered and ruled by the exiled Dark Jedi of the Hundred-Year Darkness and gradually interbred with them. Proud, martial and steeped in the dark side from birth, the Sith species raised the tombs of Korriban and furnished the warriors, sorcerers and slaves of the first Sith Empire. An ancient-era species (Old Republic and earlier); pureblood Sith are all but extinct by the Galactic Civil War. |
+| --- |
+
+**Characteristics:** WS +10, S +10, WP +10
+**Talents:** Datapad Use, Force Sensitive (Sith), Menacing, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** ancient era only; universally Force-attuned and inclined to the dark side (thin source)
+
+#### [Skakoan](https://starwars.fandom.com/wiki/Skakoan/Legends) `[review]`
+
+| The gaunt, grey-white, toothless humanoids of the Core ecumenopolis Skako breathe methane at crushing pressures and must wear a bulky pressure suit anywhere else, which keeps most of them firmly at home. Xenophobic and intensely technical, they dominated the Techno Union, and Foreman Wat Tambor led it into the Confederacy, for which the Empire later persecuted the entire species. |
+| --- |
+
+**Characteristics:** T +10, Dex +10, Int +20, Fel −10
+**Talents:** Datapad Use, Savvy, Craftsman (Technician), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** methane breather adapted to high pressure; offworld must wear a pressure suit (a ruptured suit causes explosive decompression and is usually fatal within a Round)
+
+#### [Skrilling](https://starwars.fandom.com/wiki/Skrilling/Legends) `[review]`
+
+| Stocky, wrinkled grey humanoids from the Mid Rim world the M'shinni call Agriworld-2079, Skrillings have eight breather tubes where a nose should be, rows of tearing teeth, a bony skull ridge and three-fingered vice-grip hands. Carrion-eating scavengers by nature, their ritual of sharing carcasses became, in galactic company, a habit of constant begging and bargaining that annoys nearly everyone, though they are skilled at finding a bargainer's weak spot. They drift to battlefields and odd jobs, spied for the Rebellion, and produced two Jedi Masters. |
+| --- |
+
+**Characteristics:** S +10, T +10, Int +10
+**Talents:** Datapad Use, Acute Sense (Smell), Dealmaker, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** poor eyesight (−10 Perception (Sight)); may spray mild digestive acid from the breather tubes at 2 m (Blinded for 1 Round if it hits the eyes); vice-like grip; can only digest meat rotted for a week or more
+
+#### [Sluissi](https://starwars.fandom.com/wiki/Sluissi) `[review]`
+
+| The serpent-bodied natives of Sluis Van in the Outer Rim have a humanoid torso with four-fingered hands atop a long, heavily muscled snake's tail, and forked tongues that taste heat. Calm, methodical and allergic to haste, obedient to protocol however trivial, the Sluissi are among the galaxy's most respected starship technicians, compensating for physical frailty with ingenuity; Sluis Van's shipyards have served the Republic, Confederacy, Empire and New Republic in turn. |
+| --- |
+
+**Characteristics:** S −10, Dex +10, Int +20, WP +10
+**Talents:** Datapad Use, Craftsman (Starship Technician), Coolheaded, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** serpentine lower body (cannot ride, cannot wear leg armour, cannot be Prone in the usual way); forked tongue senses heat at short range
+
+#### [Snivvian](https://starwars.fandom.com/wiki/Snivvian/Legends) `[review]`
+
+| Mammalian humanoids of frigid Cadomai Prime, Snivvians evolved thick skin instead of fur and are nicknamed "Snaggletooths" for their protruding jaws and short fangs. Their oversized snouts make them fine scouts and trackers, and a history of hardship, including near-extinction at the hands of Thalassian slavers, is poured into celebrated art. Most speak Basic and several other languages. |
+| --- |
+
+**Characteristics:** T +10, I +10, Int +10
+**Talents:** Datapad Use, Acute Sense (Smell), Resistance (Cold), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Spiner](https://starwars.fandom.com/wiki/Spiner) `[review]`
+
+| The Spiners of Worxer in the Elrood sector are bipedal mammals covered in stiff, barbed quills, the longest on the arms and legs, which they can launch by flexing specific muscles with lethal speed and accuracy out to ten metres; a quick metabolism regrows hundreds of quills during a fight. Their sun went supernova, and the scattered survivors are slowly going sterile for lack of nutrients found only in Elrood, making Spiners a vanishing people. |
+| --- |
+
+**Characteristics:** BS +10, T +10, Ag +10
+**Talents:** Datapad Use, Marksman, Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Quills +SB+2 (launched, Range 10 m, uses Ranged (Thrown); pierces light armour)  **Traits:** quills regrow within hours; nearly extinct, sterile outside the Elrood sector
+
+#### [Squalris](https://starwars.fandom.com/wiki/Squalris) `[review]`
+
+| Rotund, yellow-skinned humanoids of Ifmix VI in the Colonies, Squalrises average 1.6 metres, with a narrow crest running the length of the skull, bristly facial hair and thick hide that shrugs off minor injury. Fortune and social standing drive them, and natural charm and sociability make them formidable business-beings; Squalris merchants and scoundrels in ostentatious finery have worked the Perlemian Trade Route since the dawn of the Republic. |
+| --- |
+
+**Characteristics:** T +10, Ag −10, Int +10, Fel +20
+**Talents:** Datapad Use, Dealmaker, Suave, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** thick hide
+
+#### [Squib](https://starwars.fandom.com/wiki/Squib/Legends) `[review]`
+
+| Metre-tall, brightly furred humanoids of Skor II with pointed snouts, large eyes and swivelling tufted ears, Squibs taste things by rubbing them on their fur and are insatiably curious, cheerfully overconfident and obsessed with haggling; the surest way to get information from one is to offer a trade. Galactic scavengers and rivals of the Ugors, they salvage, refurbish and resell anything, often through the Squib Merchandising Consortium, and are likeable at first and wearing after a while. |
+| --- |
+
+**Characteristics:** S −10, I +10, Ag +10, Int +10, Fel +10
+**Talents:** Datapad Use, Small, Dealmaker, Acute Sense (Hearing), roll 1 talents from the random talents list
+**Movement:** 3  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** short-lived; tastes objects through the fur (+1 SL to Evaluate by handling)
+
+#### [Ssi-ruu](https://starwars.fandom.com/wiki/Ssi-ruu) `[review]`
+
+| Large warm-blooded saurians with heavy tails, clawed limbs and scent-tasting tongues, the Ssi-ruuk rule the Ssi-ruuvi Imperium in a star cluster beyond the galactic rim and power their machines by entechment, the draining of living beings' life-energy. Their rigid caste system is read in scale colour, their religion forbids dying on unconsecrated worlds, and they regard other species as livestock. An NJO-era people, known to the galaxy chiefly from the Invasion of Bakura in 4 ABY and its sequel in 28 ABY. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, Int +10, Fel −10
+**Talents:** Datapad Use, Menacing, Acute Sense (Smell), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2, Tail +SB+2 (Pummel)  **Traits:** scent-tongue; religious dread of dying on an unconsecrated world (−10 Cool when fighting offworld unless the ground has been consecrated); caste by scale colour
+
+#### [Sullustan](https://starwars.fandom.com/wiki/Sullustan/Legends) `[review]`
+
+| Diminutive jowled near-Humans of volcanic Sullust, between one and 1.8 metres tall with large dark eyes and prominent ear flaps, Sullustans dwell in vast underground cities and have an uncanny sense of direction and memory for routes. They are among the galaxy's finest pilots and navigators, a familiar sight at every spaceport, charter members of the New Republic, and prominent in the Rebel Alliance's fighter wings. |
+| --- |
+
+**Characteristics:** I +10, Dex +10
+**Talents:** Datapad Use, Night Vision, Orientation, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** near-Human; never forgets a route once travelled
+
+#### [Svivreni](https://starwars.fandom.com/wiki/Svivreni) `[review]`
+
+| Short, stout, furry equinoids with upright ears and long braided manes, the Svivreni of rocky Svivren are hard-working miners and mineralogists of famous obstinacy; they outlasted Grand Admiral Thrawn by sheer refusal to be conquered. Weapons are banned on their trade world and outlaws are dealt with harshly. Svivreni will defend an opinion with their fists, never say "goodbye" (it is bad luck), and serve as senatorial aides, crime lords and the best miners in the Outer Rim. |
+| --- |
+
+**Characteristics:** S +10, T +10, Ag −10, WP +20
+**Talents:** Datapad Use, Tenacious, Hardy, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Swokes Swokes](https://starwars.fandom.com/wiki/Swokes_Swokes/Legends) `[review]`
+
+| The large, stocky Swokes Swokes of Makem Te in the Outer Rim have pallid conical heads crowned with horns, perpetual toothy grins, one to three nostrils, rolls of doughy fat and, in some, long spiked tails. They regrow lost limbs, which lends them reckless bravado in battle, implant gems near their vital organs as status symbols, and are mostly religious zealots; the Tract, a planet-spanning city of tombs, drives their economy. Low-technology traditionalists ruled by the Congress of Caliphs, they swung between Republic, Confederacy and Empire. |
+| --- |
+
+**Characteristics:** S +10, T +20, Ag −10, WP +10
+**Talents:** Datapad Use, Regeneration (Minor), Menacing, roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2, Tail +SB+2 (Pummel; tailed individuals only)  **Traits:** regrows lost limbs and organs over weeks; soft fat blunts blows (Stunned effects from blunt weapons are halved)
+
+#### [Talz](https://starwars.fandom.com/wiki/Talz/Legends) `[review]`
+
+| Bulky, 2 to 2.5 metre bipeds covered in thick white fur, the Talz of frozen Alzoc III have two pairs of eyes, a small set for the snow-glare of day and a large set for the moonless night, a proboscis for feeding and chirping, and huge taloned hands. Gentle, kind-hearted and tireless workers, they were barely past the dawn of sentience when the Empire found them; they have no concept of ownership and simply borrow what they need, which gets them called thieves. Rarely seen offworld. |
+| --- |
+
+**Characteristics:** S +20, T +10, Int −10, WP +10
+**Talents:** no Datapad Use (uncivilised), Large, Night Vision, Resistance (Cold), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** Claws +SB+2  **Traits:** two pairs of eyes (no penalties from snow-glare or darkness); speaks only in chirps and buzzes (needs a translator for Basic)
+
+#### [Tarasin](https://starwars.fandom.com/wiki/Tarasin) `[review]`
+
+| The reptilian Tarasin of jungle-clad Cularin stand about 1.7 metres under translucent scales through which their colour-changing skin shows, turning brown when calm or red when excited and flaring a fleshy kampo around the head under distress, which makes them poor liars. Short forearm spines, the sa'tosin, let them feel the Force being used, and their spiritual leaders can call on it in small ways. Curious, protective and slow to anger, Tarasin trade raw strength for a brilliant intellect and live in jungle irstat clans bound to their world. |
+| --- |
+
+**Characteristics:** S −10, I +10, Int +20, WP +10
+**Talents:** Datapad Use, Sixth Sense, Resistance (Heat), roll 1 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** colour-changing skin (+1 SL Stealth when still; kampo flares reveal distress, −10 Charm when lying); sa'tosin spines sense Force use nearby; skin-colour language
+
+#### [Tarro](https://starwars.fandom.com/wiki/Tarro) `[review]`
+
+| Muscular humanoids from Tililix in the Til system, deep in the Unknown Regions, with grey-to-green skin, bright yellow eyes, large foreheads and seven-fingered hands tipped with curved claws. Their sun exploded around 100 BBY and only a few hundred offworld Tarro survived, scattering across the Outer Rim as scouts, bounty hunters, enforcers and Alliance operatives. Fiercely independent and short of patience with company, most live transient, solitary lives, and other beings find their strength and natural weapons unnerving. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, I +10, Fel −10
+**Talents:** Datapad Use, Menacing, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2, Bite +SB+2  **Traits:** Seven-fingered hands; fewer than 400 Tarro survive after the Til supernova (Imperial era onward)
+
+#### [Temolak](https://starwars.fandom.com/wiki/Temolak) `[review]`
+
+| Heavyset, red-clay-skinned bipeds standing up to 2.3 m, with cheek horns, fin ridges along the forearms and a mouthful of crooked teeth. Their homeworld Zirulast dried out two millennia ago and the Temolak took to space as the galaxy's most renowned salvagers, living in derelict stations and stripping wrecks to the deckplates. Despite a brutish look they are quiet, timid and crafty, preferring to trade their reclaimed technology with less-developed peoples, though pirates who push them find they fight hard for what is theirs. |
+| --- |
+
+**Characteristics:** S +10, T +10, Int +10
+**Talents:** Datapad Use, Scavenger, Hardy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Redundant organs (two hearts, four lungs, three kidneys): +10 to Endurance Tests against suffocation and organ damage
+
+#### [Thakwaash](https://starwars.fandom.com/wiki/Thakwaash) `[review]`
+
+| Towering equinoid bipeds from Thakwaa in the Tunka sector, averaging three metres tall with long dark manes and roughly three times the strength of a Human. Every Thakwaash hosts many distinct "minds", each with its own skills and temper, and switches between them at will; this is their normal state, not an illness, and it lets them anticipate how others think. The Empire gave up trying to subdue the planet, and Thakwaash later served the New Republic, most famously the Wraith Squadron pilot Hohass "Runt" Ekwesh. |
+| --- |
+
+**Characteristics:** S +20, T +10, I +10, WP −10
+**Talents:** Datapad Use, Large, Very Strong, Mimic, roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** none  **Traits:** Many minds: may switch personality as a Free Action, gaining +10 to one Test type chosen by the GM but behaving unpredictably
+
+#### [Theelin](https://starwars.fandom.com/wiki/Theelin/Legends) `[review]`
+
+| Near-Humans known for vividly coloured hair, pale mottled skin and, in some lines, small horns and reptilian feet. Almost all known Theelin were hybrids, for a wave of mutations in the last years of the Republic left the pure stock unable to breed, and full-blooded Theelin were presumed extinct by 10 ABY. They produced many of the Republic's finest artists, and the all-female Diva order was celebrated as the greatest singers in the galaxy, which made Theelin prized, and sometimes collected, by Hutts. |
+| --- |
+
+**Characteristics:** Dex +10, Fel +10 (near-human)
+**Talents:** Datapad Use, Artistic, Perfect Pitch, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Nearly all player characters are part-Theelin; pure Theelin extinct after 10 ABY
+
+#### [Thisspiasian](https://starwars.fandom.com/wiki/Thisspiasian/Legends) `[review]`
+
+| Serpentine reptilians from Thisspias with four arms, a long coiled lower body and luxuriant beards grown to ward off their homeworld's biting cygnats. Omnivores with a taste for live prey, they can unhinge their jaws and swallow a meal whole, and they shed their scales gradually over years of grooming. Ruled by a Blood Monarch whose disputes are settled in ritual unarmed combat, they produced strategists and warriors for the Republic and the Jedi Master Oppo Rancisis. |
+| --- |
+
+**Characteristics:** S +10, T +10, WP +10
+**Talents:** Datapad Use, Tenacious, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Four arms (may take Ambidextrous twice); serpentine lower body, cannot be Prone-tripped but cannot ride
+
+#### [Tholothian](https://starwars.fandom.com/wiki/Tholothian/Legends) `[review]`
+
+| Dark-skinned Near-Humans from the Colonies world Tholoth, often with striking blue or indigo eyes, and said to be seemingly ageless. They are best known through the Jedi they gave the Order, including Masters Adi Gallia and Stass Allie and the youngling Katooni, and through families of diplomats serving on the Core Worlds. |
+| --- |
+
+**Characteristics:** WP +10, Fel +10 (near-human)
+**Talents:** Datapad Use, Savvy, Suave, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Seemingly ageless, showing little outward ageing (thin source)
+
+#### [Tiss'shar](https://starwars.fandom.com/wiki/Tiss'shar/Legends) `[review]`
+
+| Slender, colourfully scaled therapod reptiles from the jungle world Tiss'sharl, with long necks, short tails, glassy dark eyes and a mouth of sharp teeth, in six subspecies told apart by their markings. Strong, nimble and clever, they are famous twice over: as shrewd businessbeings found across the galaxy, and as efficient, business-like assassins. Their homeworld is run by the Tiss'sharl League, a cabal of executives whose politics can turn cutthroat in the literal sense. |
+| --- |
+
+**Characteristics:** S +10, Dex +10, Int +10
+**Talents:** Datapad Use, Dealmaker, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Bite +SB+2  **Traits:** Six subspecies (choose scale markings); many served the Mandalorians in ancient times
+
+#### [Togorian](https://starwars.fandom.com/wiki/Togorian/Legends) `[review]`
+
+| Feline warriors of Togoria, furred grey-white to black with spots or stripes, retractable claws on hands and feet, and bone so dense they shrug off injuries that would cripple others. Males are nomadic hunters who ride mosgoths and rarely leave their world, while females run the cities and deal with offworlders; both sexes hold honour above all. Togorians have long ties to the Mandalorians, and the few who leave home become pirates, mercenaries or, now and then, Jedi. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10
+**Talents:** Datapad Use, Night Vision, Hardy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** Dense bones; males scorn droids and dependence on technology
+
+#### [Toong](https://starwars.fandom.com/wiki/Toong/Legends) `[review]`
+
+| Neckless, bulbous-bodied beings from Toong'l in the Outer Rim, with huge jowled heads, eyes set high on a pointed brow, long gangly legs and cheek pouches for storing food. Toong are painfully nervous and dread dealing with strangers, almost always backing down when threatened, though they are not cowards and feel at ease among family. First contact plunged their world into war, their homeworld was later wrecked by a comet and the survivors moved to Tund; the podracer Ben Quadinaros is their most famous son. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Int +20, WP −10
+**Talents:** Datapad Use, Flee!, roll 2 talents from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Cheek pouches store a day's food
+
+#### [Toydarian](https://starwars.fandom.com/wiki/Toydarian/Legends) `[review]`
+
+| Stout, winged mammals from Toydaria in Hutt Space, with pudgy trunks, stubby tusks and a sweetspice body odour, who hover on rapid wingbeats rather than walk. Strong-willed and immune to Force mind tricks, they are proud, stingy and quick-tempered, with a shrewd business sense and a reputation, deserved or not, as crooks and hagglers. Ruled by their own feudal king under Hutt overlordship, Toydarians are found as merchants, fixers and moneylenders throughout the Hutt worlds and beyond. |
+| --- |
+
+**Characteristics:** Dex +10, Int +10, WP +10
+**Talents:** Datapad Use, Small, Force Resistance, Dealmaker, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Flight (hovering, low altitude); mind unreadable and unmoved by Force influence
+
+#### [Trianii](https://starwars.fandom.com/wiki/Trianii/Legends) `[review]`
+
+| Bipedal felinoids from Trian in Wild Space, two metres tall with patterned fur and, unlike other cat-folk, a prehensile tail. Superb balance, sharp eyes and a gift for leaping and acrobatics make them natural fighters, and the Corporate Sector Authority learned the hard way how stiffly they defend their space. Trianii females are stronger and more artistically minded than males; the species stayed independent through the Empire and declined to join the New Republic. |
+| --- |
+
+**Characteristics:** S +10, Ag +10, I +10
+**Talents:** Datapad Use, Catfall, Acute Sense (Sight), roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Prehensile tail can grip and carry small objects but not wield weapons
+
+#### [Tunroth](https://starwars.fandom.com/wiki/Tunroth) `[review]`
+
+| Tall, hairless, powerfully built hunters from the Jiroch system in the Mid Rim, with sloping elongated heads, a vertical nostril atop the skull, chin horns and three-digit hands. The Tunroth are famed trackers whose "quarry sense" tells them which way prey has gone, and the elite Tunroth Hunters hire out as bounty and big-game hunters, still carrying the sacred klirun bow and kilter staff. Aggressive and hard-working, they intimidate other species; nearly wiped out in the Reslian Purge of 7 BBY, they rebuilt under Imperial protection. |
+| --- |
+
+**Characteristics:** S +10, T +10, I +10
+**Talents:** Datapad Use, Hunter's Eye, Menacing, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Quarry sense: +10 to Track Tests against a quarry the Tunroth has seen or met
+
+#### [Tusken Raider](https://starwars.fandom.com/wiki/Tusken_Raider/Legends) `[review]`
+
+| The Sand People of Tatooine, nomadic desert raiders swathed head to foot in wrappings, for to show bare flesh is a disgrace among them. Descended from the ancient Kumumgah and once a settled people, the Tuskens now roam the Jundland Wastes on banthas, raiding moisture farms and settlers, and are reckoned a separate species from the Humans they occasionally adopt. Savage, secretive and hostile to outsiders, they are rarely seen off their world. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, I +10, Fel −10
+**Talents:** no Datapad Use (uncivilised), Strider (Desert), Resistance (Heat), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Must stay fully covered; removing wrappings before others is a grave taboo
+
+#### [Tynnan](https://starwars.fandom.com/wiki/Tynnan/Legends) `[review]`
+
+| Sea-otter-like beings from the cold-ocean world Tynna in the Expansion Region, short and rounded with brown fur, insulating blubber, pointed ears and buckteeth, which many species find endearing. Pragmatic, patient planners who choose their officials by lottery, so every citizen keeps up with civics, they run a state economy that made Tynna one of the wealthiest worlds per head in the Republic. Their eyesight is poor, but their foresight is famous: a planetary shield installed in advance turned back the Empire. |
+| --- |
+
+**Characteristics:** T +10, Int +10, WP +10
+**Talents:** Datapad Use, Small, Strong Swimmer, Resistance (Cold), roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Poor eyesight: −10 to Perception (Sight) beyond short range
+
+#### [Ubese](https://starwars.fandom.com/wiki/Ubese/Legends) `[review]`
+
+| Secretive nomads from the Uba system who breathe a thin, rarefied atmosphere and go masked and armoured among other species, speaking in raspy whispers. Once a peaceful clan society, the Ubese became obsessed with alien technology, fought wars that ruined their worlds, and are now xenophobic, aggressive wanderers, loyal to their own and well suited to work as mercenaries and bounty hunters. Outsiders know almost nothing of their homeworld, and the Ubese prefer it that way. |
+| --- |
+
+**Characteristics:** BS +10, T +10, Ag +10, WP +10, Fel −10
+**Talents:** Datapad Use, Marksman, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Needs a breath mask in standard oxygen atmospheres; raspy voice, usually masked
+
+#### [Ugnaught](https://starwars.fandom.com/wiki/Ugnaught/Legends) `[review]`
+
+| Short porcine humanoids from Gentes in the Anoat system, with upturned snouts and white tufts of hair, who live around two hundred years and endure long discomfort without complaint. Ugnaughts are industrious, loyal workers who inherit a "blood profession" from their parents, settled by duel if too many claim it, and they keep a rich oral tradition. Enslaved for centuries, three tribes won their freedom building Cloud City and now run its red-lit tunnels and foundries. |
+| --- |
+
+**Characteristics:** T +10, Dex +10, WP +10
+**Talents:** Datapad Use, Small, Craftsman (any one), Hardy, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Lifespan around 200 years; "yaa-yaah" greeting is a mortal insult
+
+#### [Umbaran](https://starwars.fandom.com/wiki/Umbaran/Legends) `[review]`
+
+| The Shadow People of Umbara, a lightless world deep in the Ghost Nebula: gaunt, chalk-pale Near-Humans with sunken colourless eyes who see into the ultraviolet. Umbarans are masters of misdirection who never show their true intent, climbing a rigid caste ladder by blackmail, subterfuge and elegant assassination with poison darts and vootkar knives. Their subtle knack for swaying the minds of others made them feared figures in the Senate corridors and, later, prized spies and thought police for the Emperor. |
+| --- |
+
+**Characteristics:** Int +10, WP +10 (near-human)
+**Talents:** Datapad Use, Night Vision, Schemer, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Ultraviolet vision; subtle mental sway, +10 to Charm Tests to influence a single unwary target
+
+#### [Utai](https://starwars.fandom.com/wiki/Utai/Legends) `[review]`
+
+| Short, stocky, hairless cave-dwellers of the sinkhole world Utapau in the Outer Rim, with sloping oblong heads, glassy black eyes on thick stalks and stubby four-fingered hands. Nicknamed "Shorts" for both their stature and their brief lives, the Utai make up most of Utapau's people yet contentedly leave rule to the Pau'ans and work as labourers, wranglers and beast-tamers, for they have a natural rapport with animals and keen night sight from generations underground. |
+| --- |
+
+**Characteristics:** T +10, Dex +10, I +10
+**Talents:** Datapad Use, Small, Night Vision, Creature Affinity, roll 1 talent from the random talents list
+**Movement:** 3  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Eyestalks; short-lived compared with Pau'ans
+
+#### [Verpine](https://starwars.fandom.com/wiki/Verpine/Legends) `[review]`
+
+| Thin, green insectoids of the Roche asteroid field, 1.9 m tall with hardened carapaces, short snouts and antennae, ranked among the finest starship engineers in the galaxy. Their eyes resolve microscopic detail and their antennae sense and transmit radio waves, letting Verpine talk silently across a hundred kilometres and run their hives as instant consensus democracies. Hermaphroditic and hive-minded in outlook, they are calm, curious and endlessly fascinated by technology. |
+| --- |
+
+**Characteristics:** S −10, T +10, Dex +10, Int +20
+**Talents:** Datapad Use, Tinker, Acute Sense (Sight), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Carapace counts as 1 AP on all locations; radio sense, silent comms with other Verpine within ~100 km; hermaphroditic
+
+#### [Vodran](https://starwars.fandom.com/wiki/Vodran/Legends) `[review]`
+
+| Reptilian natives of Vodran, a murky, humid jungle-and-swamp world in the Si'Klaata Cluster of Hutt Space, which also spawned the dianoga. The Vodrans have lived under the Hutts since the Treaty of Vontor in 25,100 BBY and later suffered brutal Imperial subjugation that levelled many of their cities. They are little known outside Hutt Space and mostly encountered as Hutt labourers, guards and enforcers. |
+| --- |
+
+**Characteristics:** S +10, T +10, Ag +10
+**Talents:** Datapad Use, Strider (Swamp), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Swamp-adapted reptilian; speaks Huttese (thin source)
+
+#### [Vor](https://starwars.fandom.com/wiki/Vor) `[review]`
+
+| Thin, brittle-boned winged beings of the gale-swept Mid Rim world Vortex, who fly on leathery wings yet live in underground hummocks. Vors seem cold and inscrutable to other species, expressing their deep feelings almost entirely through music, and their singing voices and the wind-played Cathedral of Winds are counted among the wonders of the galaxy. Insular and slow to take sides, they joined the New Republic only after Imperial remnants destroyed their Cathedral in 11 ABY. |
+| --- |
+
+**Characteristics:** T −10, I +10, Ag +10, Dex +10, Int +10
+**Talents:** Datapad Use, Perfect Pitch, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Flight (leathery wings, at home in gale-force winds); brittle bones, +1 Wound from any Critical to a limb
+
+#### [Vorzydiak](https://starwars.fandom.com/wiki/Vorzydiak) `[review]`
+
+| Tall, gaunt Near-Humans of Vorzyd IV and V in the Outer Rim, with yellow-green skin, oversized eyes and a pair of antennae. Vorzydiak life is work: children begin labouring at ten, retire at seventy and commonly die soon after from sheer lack of purpose. Quiet, reserved and deadly serious, they frown on fun and games and keep to themselves, though the saboteur youth movement called the Freelies began to shake that order. |
+| --- |
+
+**Characteristics:** Int +10, WP +10 (near-human)
+**Talents:** Datapad Use, Craftsman (any one), Bookish, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Antennae; tend to fade and die once retired and purposeless
+
+#### [Voss](https://starwars.fandom.com/wiki/Voss) `[review]`
+
+| An Old Republic-era people of the mountain city Voss-Ka on the Outer Rim world Voss in the Allied Tion, descended from Gormak tribes whom ancient Jedi taught the Force, which reshaped them into a new species. Voss society is guided by Mystics whose visions never fail, Interpreters who read them and the ruling Three; every Voss serves a term as a commando against the millions of hostile Gormak who regard them as abominations. Stubbornly neutral between the Republic and the Sith Empire, they are calm, formal and utterly sure of their visions. |
+| --- |
+
+**Characteristics:** WS +10, T +10, WP +10
+**Talents:** Datapad Use, Coolheaded, Sixth Sense, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Old Republic era (Cold War / Galactic War); Mystics may take Force Sensitive (Voss Mystic) with GM leave
+
+#### [Vratix](https://starwars.fandom.com/wiki/Vratix/Legends) `[review]`
+
+| Six-limbed insectoids of Thyferra, with compound eyes, long necks, tridactyl triple-jointed arms bearing climbing hooks and massive middle legs that launch them in great leaps; fine body hairs shift colour with their mood. The Vratix invented bacta and have shared it freely for millennia, tending the kavam fields from their villages. Logical, literal hive-dwellers who speak of themselves as "we", they struggle with art and music but dissect any complex problem from every angle, and can share thoughts with hive-kin. |
+| --- |
+
+**Characteristics:** S +10, Ag +10, Int +10
+**Talents:** Datapad Use, Scale Sheer Surface, Concoct, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Powerful legs double Leap distance; limited telepathy with kindred Vratix; hermaphroditic; mood shown by hair colour
+
+#### [Vurk](https://starwars.fandom.com/wiki/Vurk/Legends) `[review]`
+
+| Tall amphibious reptilians of the Outer Rim ocean world Sembla, with grey-green leathery skin, bulbous dark eyes, sweeping head crests and three-digit hands and feet. Vurk culture marries young males off by parental arrangement, and those who miss the window stay bachelors for life. A nomadic and philosophical people, they gave the Republic Senator Sweitt Concorkill and the Jedi Council member Coleman Trebor, who died at Geonosis. |
+| --- |
+
+**Characteristics:** S +10, T +10, WP +10
+**Talents:** Datapad Use, Amphibious, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Breathes both water and air
+
+#### [Vuvrian](https://starwars.fandom.com/wiki/Vuvrian/Legends) `[review]`
+
+| Lightly built, two-metre insectoids from the idyllic Inner Rim world Vurdon Ka, with long thin necks, oblong heads bearing twelve eyes of varying size and colour, and two slender antennae. Their skin is so sensitive they can feel the air shift when someone enters a room, a gift often mistaken for telepathy, but it leaves them with a very low pain threshold and makes them poor soldiers. Cordial, inquisitive and natural problem-solvers, Vuvrians excel as negotiators, sales-beings, first-contact specialists and spies. |
+| --- |
+
+**Characteristics:** T −10, I +20, Int +10, Fel +10
+**Talents:** Datapad Use, Acute Sense (Touch), Suave, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Twelve eyes, no penalty for attackers out of sight-line; hypersensitive skin; −10 to Endurance Tests against pain
+
+#### [Whiphid](https://starwars.fandom.com/wiki/Whiphid/Legends) `[review]`
+
+| Massive furred hunters of the ice world Toola, some 2.5 m tall and up to 400 kg, with yellow-white pelts, elongated faces, great lower tusks and thick three-fingered clawed hands. On Toola they live a primitive nomadic life hunting caraboose and motmot, but contact with ice traders stirred their curiosity and many left to work as big-game hunters, mercenaries and bounty hunters, such as the crime boss Lady Valarian. Several, including Master K'Kruhk, joined the Jedi Order. |
+| --- |
+
+**Characteristics:** S +20, T +10, I +10, Fel −10
+**Talents:** Datapad Use, Large, Resistance (Cold), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** Tusks +SB+3, Claws +SB+2  **Traits:** Thick fur, no penalty for cold weather
+
+#### [Woostoid](https://starwars.fandom.com/wiki/Woostoid) `[review]`
+
+| Tall, wiry, long-lived humanoids of Woostri in the Expansion Region, with reddish-orange skin, long red hair and large eyes that rarely blink. Woostoids are peaceful, rigorously logical thinkers with a natural affinity for computers, whose cities run themselves and whose bureaucrats are prized across the galaxy; they disdain abbreviations and are badly unsettled by chaos. Their love of order led them to back the Empire despite disliking its wars, a view many kept even after joining the New Republic. |
+| --- |
+
+**Characteristics:** Dex +10, Int +20
+**Talents:** Datapad Use, Savant (Computers), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Long lifespan; −10 to Cool Tests in chaotic, illogical situations
+
+#### [Wroonian](https://starwars.fandom.com/wiki/Wroonian/Legends) `[review]`
+
+| Blue-skinned, yellow-eyed Near-Humans of Wroona in the Inner Rim, close kin in looks to the Pantorans. Wroonian society is wealthy, fun-loving and deeply spiritual, shown in ornate dress and tattoos, and its culture prizes personal gain and material comfort. Easy-going, jovial and resentful of authority, Wroonians travel widely and have founded colonies such as the one on Saleucami. |
+| --- |
+
+**Characteristics:** WP +10, Fel +10 (near-human)
+**Talents:** Datapad Use, Carouser, Gregarious, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** none
+
+#### [Xexto](https://starwars.fandom.com/wiki/Xexto/Legends) `[review]`
+
+| Spindly four-armed invertebrates from the arboreal villages of Troiken, 1.1 to 1.5 m tall with long necks, small heads, large dark eyes and pale chalky skin. Their brains are split between skull and chest, and generations of dodging challat eaters bred a people who prize agility, cunning and daring; question a Xexto's bravery at your peril, though they are otherwise well-mannered and cool-headed. Arkanian experiments on them millennia ago produced the larger Quermians. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Dex +10
+**Talents:** Datapad Use, Small, Coolheaded, roll 2 talents from the random talents list
+**Movement:** 3  **Destiny:** 2  **Resilience:** 0  **Extra points:** 2
+**Size:** Small  **Natural weapons:** none  **Traits:** Four arms (may take Ambidextrous twice); split brain, +10 to resist Stunned from head blows
+
+#### [Yarkora](https://starwars.fandom.com/wiki/Yarkora/Legends) `[review]`
+
+| Tall cameloid bipeds of an undisclosed Outer Rim world, with long snouts, wide nostrils, smooth fur and immense three-fingered hands, rarely seen and never forthcoming about where they come from. Two stomachs and redundant organs give them great longevity and make internal injuries seldom fatal, and their eyesight and hearing are superb; some suspect an empathic sense as well. Secretive con artists and scoundrels who pry information from others while revealing nothing, they turn up among criminals, couriers, scouts and Rebel counter-espionage. |
+| --- |
+
+**Characteristics:** T +10, I +10, Fel +10
+**Talents:** Datapad Use, Acute Sense (Sight), Cat-tongued, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Redundant organs, internal Criticals reduced one step; very long-lived; possible empathic sense
+
+#### [Yevetha](https://starwars.fandom.com/wiki/Yevetha) `[review]`
+
+| Tall, gaunt, hairless grey-skinned humanoids of N'zoth in the Koornacht Cluster, skeletal and ghoulish, with six-fingered hands hiding retractable dew claws. Brutally xenophobic and steeped in a death-centred culture, Yevetha are quick studies and highly intelligent, and males are drilled from youth in a ruthless fighting creed: the nearest threat first, hold nothing back. They seized the Imperial Black Fleet and warred on the New Republic; fewer than ten thousand survived the Yuuzhan Vong. |
+| --- |
+
+**Characteristics:** WS +10, Ag +10, Int +10, WP +10, Fel −10
+**Talents:** Datapad Use, Hatred (Non-Yevetha), roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Dew claws +SB+2  **Traits:** Retractable dew claws; six fingers and toes; New Republic era (Black Fleet Crisis)
+
+#### [Yinchorri](https://starwars.fandom.com/wiki/Yinchorri/Legends) `[review]`
+
+| Corpulent, green-skinned, turtle-like reptilians of Yinchorr, hatched from eggs and able to shrug off pain and heat. Their minds are closed to telepathic uses of the Force, mind tricks included, and their stubborn will makes them nearly impossible to enslave. "Might makes right" sums up their creed; the warrior caste is aggressive but tactically poor, and Yinchorri are usually met as pirates and mercenaries, their homeworld embargoed after a Sidious-engineered uprising and later ravaged by the Empire. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +20, Int −10
+**Talents:** Datapad Use, Force Resistance, Resistance (Heat), roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Immune to Force powers that affect the will; shell-like hide counts as 1 AP on the body
+
+#### [Yuuzhan Vong](https://starwars.fandom.com/wiki/Yuuzhan_Vong) `[review]`
+
+| Extragalactic invaders of the New Jedi Order era, taller and heavier than Humans, grey- or yellow-skinned with jet-black blood and blue eye sacs that betray rage or delight. They exist entirely outside the Force: they cannot be sensed, and powers aimed directly at them fail, though the Force may still hurl objects or crush air against them. Zealots who worship pain, scar and reshape their bodies and loathe all mechanical technology, they wage total war with living ships and weapons. |
+| --- |
+
+**Characteristics:** WS +10, S +10, T +10, WP +10, Fel −10
+**Talents:** no Datapad Use (shun mechanical technology), Force Resistance, Hardy, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** NJO era only; no Force presence, cannot be sensed or directly targeted by Force powers; eye sacs reveal mood
+
+#### [Yuzzem](https://starwars.fandom.com/wiki/Yuzzem) `[review]`
+
+| Hulking, heavily furred humanoids from the forest world Ragna III in the Mid Rim, with long snouts and large black eyes. Yuzzem are immensely strong and quick-tempered, fight fiercely and are very hard to subdue, which made them troublesome slaves when the Empire put them to mining as it did the Wookiees. They keep strict codes of honour and debt, as Luke Skywalker and Leia Organa found when two Yuzzem fought beside them on Mimban. |
+| --- |
+
+**Characteristics:** S +20, T +10, WP +10, Fel −10
+**Talents:** no Datapad Use (uncivilised), Large, Very Strong, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Large  **Natural weapons:** none  **Traits:** Bound by honour and debt-fulfilment; frequently enslaved in the Imperial era
+
+#### [Yuzzum](https://starwars.fandom.com/wiki/Yuzzum/Legends) `[review]`
+
+| Neckless, round-bodied furred humanoids on long spindly limbs from the plains of the forest moon of Endor, so varied that some have hooves, some claws, some fangs. They roam in small bands hunting ruggers in the tall grass, some riding rakazzak beasts and carrying spears, and they rub shoulders, not always peacefully, with the Ewoks. Their musical language suits them to work as singers, like Joh Yowza of Jabba's court, and Yuzzums are sometimes shipped offworld as "pets" despite being sentient. |
+| --- |
+
+**Characteristics:** I +10, Ag +10, Fel +10
+**Talents:** no Datapad Use (uncivilised), Perfect Pitch, Rover, roll 1 talent from the random talents list
+**Movement:** 5  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** none  **Traits:** Highly variable build (choose hooves, paws or claws); understood by Ewoks
+
+#### [Zeltron](https://starwars.fandom.com/wiki/Zeltron/Legends) `[review]`
+
+| Near-Humans of the party world Zeltros, with skin in every shade of pink and red and hair of red or blue, counted gorgeous by almost every humanoid standard. Zeltrons exude pheromones that make them likeable and attractive, and a mild empathic sense lets them feel and project emotion, so their culture chases pleasure and shuns anger and gloom. Stereotyped as hedonistic thrill-seekers, they are also gifted holographers and hold their drink thanks to a second liver. |
+| --- |
+
+**Characteristics:** Fel +20 (near-human)
+**Talents:** Datapad Use, Attractive, Carouser, roll 1 talent from the random talents list
+**Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
+**Size:** Average  **Natural weapons:** none  **Traits:** Pheromones; empathic, can sense and project emotions; second liver, +10 to Consume Intoxicant
+
+#### [Zygerrian](https://starwars.fandom.com/wiki/Zygerrian/Legends) `[review]`
+
+| Feline humanoids of Zygerria in the Outer Rim, about 1.7 m tall with pointed ears, clawed hands, sharp angular features and sometimes fully furred faces. For centuries the Zygerrians have lived by slavery, which they regard as the natural order, running first a slave empire and then the Zygerrian Slavers Guild, backed by the Separatists in the Clone Wars and licensed by Imperial decree afterward. Proud, warlike and feared across the galaxy, they make natural targets for Rebel privateers and bounty hunters. |
+| --- |
+
+**Characteristics:** WS +10, I +10, Ag +10
+**Talents:** Datapad Use, Menacing, roll 2 talents from the random talents list
+**Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
+**Size:** Average  **Natural weapons:** Claws +SB+2  **Traits:** Slaver culture, feared and distrusted by most species

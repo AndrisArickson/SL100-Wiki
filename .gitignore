@@ -5,6 +5,8 @@ __pycache__/
 *.tmp
 # Images: all images are committed. Only Creative Commons images (Wookieepedia, CC BY-SA 3.0, attribution in
 # meta/card_images.tsv / meta/images.tsv) or our own artwork may be placed in images/.
+# Fair-use / untagged Wookieepedia images: private local wiki only, never pushed
+images/local/
 # Copyrighted source-book extracts must never be pushed
 private/
 Source_Text/

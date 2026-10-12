@@ -2,6 +2,8 @@
 
 Talents are the knacks, training and quirks that set one character apart from another. Each talent lists a **Max**, the number of times it may be taken (a number, or a Characteristic Bonus that rises as the character grows), and where it applies, the **Tests** it is tied to. A talent tied to Tests also adds +1 SL to successful Tests of that kind for every rank taken, on top of its written rule. Talents are bought from the current level of a character's career for 100 XP, then 200 XP for a second rank, 300 XP for a third, and so on. Talents outside the career can only be learned through an Endeavour (see Endeavours).
 
+Six entries are marked *Placeholder*: they anticipate chapters not yet written (starship combat, medical rules, the tradition pages) and are there to remind us those chapters are owed.
+
 A note on literacy: in Star Legends the **Datapad Use** talent stands in for reading, writing and basic computer use. Almost everyone raised on a civilised world has it; only characters from feral, feudal or otherwise isolated origins start without it, and until they learn it they can neither read text nor work a datapad, terminal or holonet interface.
 
 ## Random Talents
@@ -34,6 +36,11 @@ When a species or origin says to roll a random talent, roll d100 on this table. 
 
 You know exactly where a blaster bolt or slug needs to land to put a target down, whether that is the gap in a stormtrooper's plastoid or the soft joint of a battle droid. Add your level in Accurate Shot as extra Damage to every successful hit you make with a ranged weapon.
 
+### Ace Pilot
+**Max:** Agility Bonus · **Tests:** Pilot Tests in a chase or dogfight
+
+*Placeholder until the starship and vehicle combat chapter is written.* You fly on instinct when the shooting starts, and the ship answers. When you fail a Pilot Test during a chase, a dogfight or an evasive manoeuvre under fire, you may reverse the dice if that scores a success. The Pilot talent covers hazards of space; this one covers the enemy.
+
 ### Acute Sense (Sense)
 **Max:** Initiative Bonus · **Tests:** Perception (Sense)
 
@@ -53,6 +60,11 @@ Through long practice or natural gift, your off-hand is nearly as capable as you
 **Max:** 1
 
 Like a Mon Calamari or a Quarren, you are as much at home beneath the waves as above them. You can breathe both air and water without difficulty. Swim always counts as a career skill for you, no matter what career you are in, and each Advance in it costs you 5 XP less than normal.
+
+### Animal Companion
+**Max:** 1
+
+A creature has bonded to you and goes where you go: an akk dog, a tooka, a Kowakian monkey-lizard, a trained hawk-bat. The companion has its own stat block (see the Bestiary) and acts on its own turn, obeying simple commands; it may assist any Test its senses or instincts bear on for +10, and while it is within sight you gain +1 SL on successful Perception and Intuition Tests to notice danger. If the companion dies, a new bond takes an Endeavour. Droid Companion is the mechanical equivalent.
 
 ### Argumentative
 **Max:** Fellowship Bonus · **Tests:** Charm Tests when arguing and debating
@@ -94,6 +106,11 @@ You throw your whole body behind a charge, letting momentum do the work of your 
 
 Spacers call it "venting the airlock", Hutt-space traders call it "selling sand to Jawas": a torrent of rapid, endless, meaningless talk designed to leave the listener utterly bewildered. Attempt an Opposed Charm/Intelligence Test against your target. If you win, the target gains a Stunned Condition, plus one additional Stunned Condition for each level you have in Blather. While Stunned in this way, the target can do nothing but stare at you, trying to follow what you are saying. When the last Stunned Condition ends they finally get a word in, and they may be far from pleased. If you stop talking, all Stunned Conditions caused by your Blather end at once. You can normally only Blather at a given character once per scene, or longer at the GM's discretion, as the target quickly learns to tune you out.
 
+### Blood Feud
+**Max:** None · **Tests:** Any Test to find, follow or fight the subject of your feud
+
+A particular being, family or clan wronged you, and you have not forgotten. Each time you take this talent name the subject of a feud. You gain +1 SL on successful Tests to track, confront or fight them and their close kin or lieutenants, and their Intimidate, Fear and Terror have no hold on you. You must pass a Challenging (+0) Cool Test to let them walk away when you could end it. Mandalorian clan feuds, Hutt vendettas and the bounty hunter who never let a mark go all run on this talent.
+
 ### Bookish
 **Max:** Intelligence Bonus · **Tests:** Research
 
@@ -108,6 +125,16 @@ You know how to put a blast door, a cargo crate or a security hatch out of commi
 **Max:** Fellowship Bonus · **Tests:** Bribery
 
 You know exactly how much a customs official, a dock warden or a stormtrooper sergeant needs to look the other way, and it is always less than they first ask. The GM reduces the base cost of any bribe you need to pay by 10% for every level you have in Briber, to a minimum of 10% of the original amount.
+
+### Cadence
+**Max:** Intelligence Bonus · **Tests:** Entertain (Sing)
+
+You know the work-songs, marching cadences and spacer chants that keep a crew moving as one: the hauling chants of Wookiee shipwrights, the cadence calls of clone and stormtrooper columns, the sabacc-table songs of Corellian freighter crews. Each rank is one cadence learned. Establishing one takes thirty seconds and a successful Entertain (Sing) Test; it then affects every ally who can hear you for three minutes plus SL minutes, giving the crew +10 to one kind of group Test named by the cadence (hauling, rowing a lifeboat, marching, repairs under fire). While you lead it you may only Dodge; taking Damage or failing an Opposed Test ends it. One cadence per watch.
+
+### Captain's Word
+**Max:** Fellowship Bonus · **Tests:** Leadership aboard your own ship or with your own crew
+
+Your crew trust you, and it shows when the shooting starts. Any Leadership Test made aboard your ship or involving your own crew gains +1 SL per rank, and the bonus applies to crew Tests (gunnery, damage control, boarding) as well as to individual orders. The Word is only as good as the ship: a captain who loses the vessel loses the bonus until the crew sails under them again.
 
 ### Cardsharp
 **Max:** Intelligence Bonus · **Tests:** Gamble and Sleight of Hand when playing games of chance
@@ -133,6 +160,11 @@ Like a veteran smuggler talking their way past a customs inspection, you weave t
 **Max:** Agility Bonus · **Tests:** Athletics when falling
 
 You have the balance and instincts of a born climber and can drop from heights that would cripple others. Whenever you fall, make an Athletics Test. If you succeed, reduce the distance fallen by 1 metre, plus a further 1 metre for every +1 SL scored, when calculating the Damage you take.
+
+### Clan Markings
+**Max:** 1 · **Tests:** Intimidate and Cool while your markings are displayed
+
+*Placeholder until the Faction and tradition pages are written.* Your armour colours, war paint, tattoos or scarification announce who you are and who stands behind you. While they are visible you gain +10 to Intimidate Tests against anyone who knows what they mean and +10 to Cool Tests against Fear and Terror; those who hate your clan gain the same bonus to Intimidate you. Tusken war paint, Mandalorian clan colours and Sith tattoos are all Clan Markings.
 
 ### Combat Aware
 **Max:** Initiative Bonus · **Tests:** Perception during melee
@@ -180,7 +212,7 @@ You know how to squeeze every last bit of speed from a dewback, a swoop or a bat
 You have a gift for one particular craft, whether that is armoursmithing in the Mandalorian tradition, droid repair or starship engineering. Add the associated Profession skill to any career you enter. If that Profession skill is already part of the career, each Advance in it instead costs you 5 XP less than normal.
 
 ### Creature Affinity
-**Max:** Willpower Bonus · **Tests:** Charm Creature
+**Max:** Willpower Bonus · **Tests:** Creature Training
 
 Creatures sense something in you that puts them at ease, and they will often follow your lead. Any creature with the Bestial trait that has not been trained to be aggressive automatically stays calm in your presence unless it is given a reason not to be. Banthas, tauntauns, dewbacks, varactyls, massiffs, nexu and akk dogs are all examples of such creatures.
 
@@ -231,10 +263,20 @@ You know how a sudden feint of the body, a thrown glance or a scuffed boot can p
 
 You have drilled to fight in formation, holding a line with comrades rather than as a lone duellist. Whenever an enemy causes you to lose Advantage while you are standing beside an active ally who also has the Drilled Talent, you may keep 1 of the lost Advantage for each level you have in Drilled. Clone troopers and Rebel line infantry both train this way.
 
+### Droid Companion
+**Max:** 3
+
+A droid travels with you and works as your partner rather than your property. The droid has its own stat block (see the Bestiary) chosen by rank: at rank 1 a simple unit such as a mouse droid, probe or pit droid; at rank 2 an astromech, protocol or medical droid; at rank 3 a custom or military-grade model with two programmed skills. The droid may assist any Test that falls within its programming for +10 without the usual limit on helpers, and may act on its own turn using one of its skills at your Intelligence. If the droid is destroyed, a replacement takes an Endeavour and its purchase price.
+
 ### Dual Wielder
 **Max:** Agility Bonus · **Tests:** Melee or Ranged when attacking with two weapons
 
 Armed with a weapon in each hand, you may attack with both as a single Action. Roll to hit with your primary-hand weapon and resolve it as normal, keeping the dice roll. If it hit, your secondary weapon may then attack any available opponent using that same roll reversed: a 34 becomes a 43. Apply your off-hand penalty (–20 unless you have the Ambidextrous Talent) to this second roll. It is Opposed by a fresh defending roll and its Damage is worked out normally. If your first strike scored a Critical, the number rolled on the Critical table is used as the to-hit roll for the second attack instead. Choosing to attack with both weapons gives all your defensive rolls a –10 penalty until the start of your next Turn, and you only gain Advantage from striking or Wounding while Dual Wielding if both attacks hit.
+
+### Duct Crawler
+**Max:** Initiative Bonus · **Tests:** Stealth (Underground)
+
+You learned to move through the places a city forgets: maintenance shafts, ventilation ducts, the undercity levels of Coruscant, the warrens of Sullust, the tunnels of a spice mine. When you fail a Stealth (Underground) Test you may reverse the dice if that scores a success.
 
 ### Eidetic Memory
 **Max:** Intelligence Bonus
@@ -286,6 +328,11 @@ You patch people up fast while blaster fire is still flying. If you fail a Medic
 
 You are an expert in battlefield pharmacology: stimpacks, injector ampoules, bacta gel, anti-venoms and whatever else keeps a soldier moving. You may reverse any failed Profession (Medic) Test if doing so allows the Test to succeed.
 
+### First Strike
+**Max:** Initiative Bonus · **Tests:** Melee Tests when you act before your opponent in a Round
+
+You strike while others are still deciding. When you make a Melee attack against an opponent who has not yet acted this Round, you gain +1 Advantage before rolling, once per Round. Echani duellists and lightsaber masters of Form II prize this above almost anything else.
+
 ### Flee!
 **Max:** Agility Bonus · **Tests:** Athletics when Fleeing
 
@@ -316,20 +363,30 @@ Your attacks come one after another in a relentless storm. Once per Round, if yo
 
 You enjoy chatting with strangers, and they tend to open up to you in return, whether in a spaceport cantina or on the long haul between systems. You may reverse any failed Gossip Test if doing so allows the Test to succeed.
 
+### Gunnery Chief
+**Max:** Initiative Bonus · **Tests:** Ranged Tests with crewed weapons
+
+*Placeholder until the starship and vehicle combat chapter is written.* You know how to get a gun crew working as one. Any crewed weapon you direct, from a tripod repeater to a capital ship's turbolaser battery, adds +1 SL per rank to its successful Ranged Tests, and the crew needs one fewer member than the weapon's listed minimum, to a minimum of one.
+
 ### Hardy
 **Max:** Toughness Bonus
 
 You can take a beating that would put most beings in a bacta tank. You gain a permanent addition to your Wounds equal to your Toughness Bonus. If your Toughness Bonus later increases, the Wounds granted by Hardy increase to match.
+
+### Hatred (Group)
+**Max:** Willpower Bonus · **Tests:** Willpower (Resist Group)
+
+A burning loathing for one group in the galaxy drives you, as described under Hatred (see Psychology). Each time you take this Talent you develop Hatred for a new group. Examples: stormtroopers, Imperials, Trandoshans, Tusken Raiders, bounty hunters, Sith, Mandalorians.
 
 ### Heavy Gunner
 **Max:** Dexterity Bonus
 
 You handle the big guns with practised ease, swapping power cells and loading missile tubes without fumbling. Add SL equal to your level in Heavy Gunner to any Extended Test made to reload a heavy blaster, slugthrower or missile weapon.
 
-### Hatred (Group)
-**Max:** Willpower Bonus · **Tests:** Willpower (Resist Group)
+### Heirloom Weapon
+**Max:** 1
 
-A burning loathing for one group in the galaxy drives you, as described under Hatred (see Psychology). Each time you take this Talent you develop Hatred for a new group. Examples: stormtroopers, Imperials, Trandoshans, Tusken Raiders, bounty hunters, Sith, Mandalorians.
+A weapon has come down to you through your family, clan or master: a lightsaber built by a Jedi ancestor, a beskar blade carried by three generations, the slugthrower your grandmother used in the Mandalorian Wars. Choose one weapon when you take this talent. It has one Quality of your choice (Durable, Fine, Lightweight or Practical) at no cost, and it is never destroyed by a fumble or a Critical result; it may be lost or taken, but the GM will always provide a way to recover it. Wielding it where its history is known gives +10 to Charm and Intimidate Tests with those who recognise it.
 
 ### Hunter's Eye
 **Max:** Initiative Bonus · **Tests:** Any Test to trail or capture game
@@ -393,6 +450,11 @@ You are back on your feet almost as soon as you hit the ground. Whenever you gai
 
 Your criminal dealings are so well known and so profitable that polite society has decided to look the other way, in the manner of a Hutt crime lord or a Black Sun vigo. You may ignore the Status loss of the Criminal Talent.
 
+### Large
+**Max:** 1
+
+You are far bigger than most beings in the galaxy, as a Wookiee, a Herglic, a Whiphid or a Hutt is. Your Size is Large rather than Average (see Combat: Size): you are easier to hit and harder to knock down, your reach is greater, your unarmed and melee Damage gains +1, and your Encumbrance limit is raised by 2. Ordinary vehicles, doors and furniture are built for smaller folk, which the GM may turn into penalties or comedy as the scene demands. Large is granted by a species entry, never bought.
+
 ### Lightning Reflexes
 **Max:** 1
 
@@ -411,7 +473,7 @@ You follow a conversation by watching mouths rather than listening, across a noi
 ### Luck
 **Max:** Fellowship Bonus
 
-Things simply tend to break your way, as if the Force had taken a quiet liking to you at birth. Your maximum Fortune points now equal your current Fate points plus the number of levels you have in Luck.
+Things simply tend to break your way, as if the Force had taken a quiet liking to you at birth. Your maximum Fortune points now equal your current Destiny points plus the number of levels you have in Luck.
 
 ### Magnum Opus
 **Max:** None
@@ -423,6 +485,16 @@ You stand at the very top of your field, capable of a creation so accomplished t
 
 You have a natural eye for a target, whether it is a stormtrooper across a hangar or a womp rat at two hundred metres. You gain a permanent +5 bonus to your starting Ballistic Skill. This bonus does not count towards your Advances.
 
+### Martial Artist
+**Max:** Weapon Skill Bonus · **Tests:** Melee (Brawling)
+
+Your hands and feet are weapons in their own right. Your unarmed attacks lose the Undamaging flaw and gain the Fast quality, you count as armed for the purposes of Riposte, Dual Wielder and fighting an armed opponent, and at rank 2 and above your unarmed strikes also gain the Impact quality. Martial Artist is the entry requirement for the Echani and Teras Kasi combat forms.
+
+### Master (Profession)
+**Max:** Dexterity Bonus · **Tests:** Any appropriate Extended Profession Test
+
+You are a true expert in one chosen Profession, able to finish painstaking work in a fraction of the time it takes others. When making an Extended Test with your chosen Profession Skill, reduce the total SL required by your level in Master (Profession). A master droid technician on Nar Shaddaa can strip and rebuild an astromech before a rival has found the right hydrospanner.
+
 ### Master of Disguise
 **Max:** Fellowship Bonus · **Tests:** Entertain (Acting) when being someone else
 
@@ -433,15 +505,15 @@ You can become somebody else using nothing more than the way you hold yourself, 
 
 You know how to stir a crowd, whether it is a Senate gallery, a rally on Coruscant or a mob of restless miners on Kessel. When you make a Charm Test while Public Speaking before a crowd, you gain a bonus to your SL equal to your level in Master Orator.
 
-### Master (Profession)
-**Max:** Dexterity Bonus · **Tests:** Any appropriate Extended Profession Test
-
-You are a true expert in one chosen Profession, able to finish painstaking work in a fraction of the time it takes others. When making an Extended Test with your chosen Profession Skill, reduce the total SL required by your level in Master (Profession). A master droid technician on Nar Shaddaa can strip and rebuild an astromech before a rival has found the right hydrospanner.
-
 ### Menacing
 **Max:** Strength Bonus · **Tests:** Intimidate
 
 Something about the way you fill a doorway makes people think twice. Whenever you make an Intimidate Test, you gain a bonus to your SL equal to your level in Menacing. Gamorrean enforcers in a Hutt's employ seldom need to say a word.
+
+### Mercenary
+**Max:** Fellowship Bonus · **Tests:** Haggle and Charm when negotiating a contract
+
+You fight for pay and you know what your blaster is worth. When you negotiate a contract for fighting, guarding, hunting or escorting, you gain +1 SL per rank on successful Haggle and Charm Tests, and a successful negotiation raises the pay by 10% per rank. While under contract, your employer and their people treat you as one Standing higher than your Status would give. Reputable employers ask no questions of a Mercenary that they would not ask of a soldier.
 
 ### Mimic
 **Max:** Initiative Bonus · **Tests:** Entertain (Acting) Tests where accents are important
@@ -520,6 +592,11 @@ You know how to hold a crowd, from a cantina full of spacers to a stadium on Cor
 | 7 | As normal x 500 |
 | 8 | As normal x 1000 |
 | 9 | All who can hear you |
+
+### Quick Draw
+**Max:** Initiative Bonus · **Tests:** Ranged Tests with a weapon drawn this Round
+
+Your blaster is in your hand before anyone sees you move. Drawing a pistol or a one-handed weapon is a Free Action for you, you may draw and fire even while Surprised, and your first Ranged attack in any combat with a weapon drawn that Round gains +1 SL per rank. In a standoff or a formal duel you win any tie in Initiative. Han Solo would have had it.
 
 ### Rapid Reload
 **Max:** Dexterity Bonus
@@ -701,6 +778,11 @@ You know exactly where to put a blade so that the wound does not close. When you
 
 You know how to drop an opponent fast without killing them. You ignore the Called Shot penalty to strike the Head Hit Location when using a melee weapon with the Pummel Quality. In addition, you count all improvised weapons as having the Pummel Quality. Bounty hunters who want their marks alive and cantina bouncers alike rely on this training.
 
+### Strong Back
+**Max:** Strength Bonus · **Tests:** Athletics and Swim
+
+Years of hauling cargo, climbing rigging or dragging wounded comrades have given you a back like a bantha's. Add your rank in Strong Back to your SL in any Opposed Strength Test, and carry that many extra Encumbrance points before penalties apply.
+
 ### Strong Legs
 **Max:** Strength Bonus
 
@@ -746,6 +828,16 @@ You find the gaps in a target's protection and put your shots there. When you hi
 
 You are trained to open and close living tissue to save a life. You can treat any Critical Wound marked as needing Surgery. You can also operate to resolve internal injuries with an Extended Challenging (+0) Medicine Test, with a target SL set by the GM (usually 5-10) according to the difficulty of the procedure. Each Test causes 1d10 Wounds and 1 Bleeding Condition, so a careless surgeon can easily kill the patient. After surgery, the patient must pass an Average (+20) Endurance Test or gain a Minor Infection (see Disease and Infection). On most worlds a medical droid and a bacta tank are the usual alternative, but where neither is available this talent is all that stands between a patient and death.
 
+### Surgical Precision
+**Max:** Intelligence Bonus · **Tests:** Medicine Tests during surgery
+
+*Placeholder until the medical and healing rules are written.* Your hands are as steady as a medical droid's. Reduce the Wounds inflicted by each Test of a surgical procedure by your rank, and if you score +4 SL or better on a surgery Test the patient suffers no Bleeding Condition from it. Requires the Surgery talent.
+
+### Tactician
+**Max:** Intelligence Bonus · **Tests:** Leadership
+
+You read a battlefield the way others read a datapad. At the start of a combat in which you can see the ground and your allies can hear you, you may take a Challenging (+0) Leadership Test; on a success your side gains Advantage equal to your rank, which you distribute among your allies as you see fit. Once per Round you may also spend your Move to give one ally who can hear you +10 to their next Test. Clone commanders, Rebel cell leaders and Mandalorian field marshals are Tacticians.
+
 ### Tenacious
 **Max:** Toughness Bonus · **Tests:** Endurance Tests for enduring hardships
 
@@ -766,6 +858,11 @@ You have an eye for snares, tripwires and buried mines, and know how to lay your
 
 You are as nimble on the back of a beast as you are on the ground. You can use any of your Perform Skills and your unmodified Dodge Skill while mounted on a creature. In addition, when mounted, you may make your Move at the start of the Round instead of on your Turn. Tusken Raiders on banthas and Rebel scouts on tauntauns make full use of this.
 
+### Unshakeable
+**Max:** Toughness Bonus · **Tests:** Endurance Tests to keep your footing
+
+You stand like a durasteel bulkhead. Blasts, shoves, charging banthas and the push of the Force all struggle to move you. Each rank adds +1 SL to Tests to resist being knocked Prone, pushed back, thrown or moved against your will, including Opposed Tests against Force powers that would move you.
+
 ### Vacuum Legs
 **Max:** Toughness Bonus · **Tests:** All those taken to resist Space-Sickness
 
@@ -780,6 +877,11 @@ You shrug off punishment that would floor most beings. You gain a permanent +5 b
 **Max:** 1
 
 You are far stronger than you look. You gain a permanent +5 bonus to your starting Strength Characteristic (this does not count towards your Advances).
+
+### Vice (Target)
+**Max:** Willpower Bonus · **Tests:** Willpower Tests to resist the chosen vice
+
+You have a weakness and you know it: spice, death sticks, sabacc, Corellian whiskey, risk itself. Choose the vice when you take this talent. Each day you go without it you must pass a Willpower Test or suffer −10 to all Tests until you indulge. When you do indulge, you may regain 1 Resolve, once per session per rank. Taking the talent more than once deepens the same vice or adds another.
 
 ### War Leader
 **Max:** Fellowship Bonus · **Tests:** Leadership Tests in battle
@@ -892,6 +994,21 @@ When you were young, a seer of the Force drew you aside and told you how you wou
 
 The Force slides off you like rain from a duracrete wall. You may Oppose any Force power that targets you with a Willpower Test, exactly as a trained Force user resists a power, even if you have no training at all. You may never learn Force Sensitive (Tradition), Force Sorcery (Tradition) or Minor Sorcery. Species such as the Hutts and the Yuuzhan Vong are known for this quality.
 
+### Armoured Adept
+**Max:** Toughness Bonus · **Tests:** Use the Force while wearing armour
+
+Most Force users find armour a barrier between themselves and the Force; you have learned to work through it. Reduce the penalty of −1 SL per Armour Point on your most-armoured location by your rank. The Jensaarai, the Mandalorian Force users and the armoured Sith of the Great War all trained this way.
+
+### Code (Tradition)
+**Max:** 1 · **Tests:** Cool Tests and Tests to regain Resolve while you keep your code
+
+*Placeholder until the tradition pages and Force Influence are settled.* You live by your tradition's code: the Jedi Code, the Sith Code, the Resol'nare of the Mandalorians, or another agreed with the GM. While you keep it you gain +1 SL on successful Cool Tests and regain 1 extra Resolve whenever you act on your Motivation. When you break it, you lose both benefits until you have made amends in a way your tradition recognises, and the GM may award Dark Side Influence for the breach.
+
+### Wild Talent
+**Max:** 1
+
+The Force moves in you, but no one ever taught you what to do with it. Choose one universal power from any discipline; you use it, and up to Willpower Bonus minor effects agreed with the GM, by testing Willpower at −10 instead of Use the Force. Any double on such a Test, success or failure, gives you a point of Dark Side Influence as the raw Force answers your need with its own. You may not take Force Sense, Force Control or Force Alter until a tradition has trained you, at which point you buy Force Sensitive (Tradition) and this talent is replaced by the first rank of the matching discipline at no cost. Kyp Durron, the young Asajj Ventress and the outcasts of Dathomir began this way.
+
 ### Force Sorcery (Tradition)
 **Max:** 1
 
@@ -937,3 +1054,8 @@ The words and gestures of your tradition's sorcery come to you without effort, h
 **Max:** Initiative Bonus · **Tests:** Intuition Tests to detect sorcerers
 
 You can feel the residue that sorcery leaves on those who practise it. Whenever you meet a Force sorcerer you may attempt an Average (+20) Intuition Test; if you pass, you know that the target works sorcery, though not which tradition.
+
+### Ritual Ward
+**Max:** Willpower Bonus · **Tests:** Use the Force when raising a ward
+
+*Placeholder until the Force sorcery and tradition pages are written.* You know the old rites that turn harm aside: Dathomiri protection spells, Sith alchemical wards, the Jal Shey charms. With ten minutes' ritual and a successful Use the Force Test you lay a ward on yourself or one willing being that lasts until the next sunrise; it counts as Armour Points equal to your rank against Force powers and against one physical attack of the warded being's choice, after which it is spent.

@@ -4,93 +4,90 @@ Collated by `tools/collate/assembly.py` from 01-05. Everything below is quoted o
 
 | Step | Layer (document) | What it gives the character, as written | Where the detail is |
 |---|---|---|---|
-| 1 | Characteristics (01) | Roll 2d10 + 20 for each of the nine Characteristics in order and make a note of the results. | 01, 'Determine Characteristics' |
+| 1 | Characteristics (01) | Roll 2d10 + 20 for each of the ten Characteristics in order and make a note of the results. | 01, 'Determine Characteristics' |
 | 2 | Species (02) | characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons | species.csv (17 species) |
-| 3 | Origin - world upbringing (03) | Description, starting characteristic modifications, 12 skills that you can put 3x +3 and 3x +5 into. | origins.csv (13 world types) |
+| 3 | Origin - world upbringing (03) | each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (any one), pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. | origins.csv (13 world types) |
 | 4 | Career (05) | class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics | careers_l1.csv (level 1 of 24 careers); 05 |
-| 5 | Faction (04) | Your career path is a summary of what your character has done before your character started along their Star Wars journey. This path begins with your birth, and winds from your childhood to your place in the Faction's hierarchy as an adult. You can ... | factions.csv (109 entries) |
+| 5 | Faction (04) | Your career path is a summary of what your character has done before your character started along their Star Wars journey. This path begins with your birth, and winds from your childhood to your place in the Faction's hierarchy as an adult. You can ... | factions.csv (145 entries) |
 
 ## What each layer says about the next (cross-references in the text)
 
-- 01 -> 03: "Your Origin world grants additional increases to your Characteristics. It is important to note that these increases are applied to your Starting Characteristics, and do not count as Advances."
-- 01 step order: "move on to 2) Origin on page 51"
-- 03 -> 04: "The circumstances of your early life are known as your Origin, and can also determine some of your Characteristics and your chances of being a part of a specific Faction."
+- 01 -> 03: "(not found in 01 New Star Wars - Introduction & Characteristics.md)"
+- 01 step order: "(not found in 01 New Star Wars - Introduction & Characteristics.md)"
+- 03 -> 04: "The circumstances of your early life are known as your Origin. It can determine some of your Characteristics and your chances of being part of a specific Faction."
 - 04 -> Patron / Force traditions: "Your Faction describes the focus of your life until you were recruited by your Patron. Some Factions search for specific attributes, such as force sensitivity to join a Force Tradition, for the Black Sun as an example it could be a myriad of things ..."
 
 ## Gaps the collation found (for the rules discussion)
 
-- Species with missing fields: Human (characteristics); Nautolan (talents); Otolla Gungan (characteristics); Togruta (characteristics); Wookiee (movement, fate, resilience); Zabrak (movement, fate, resilience)
+- Species with missing fields: Arkanian (fate); Besalisk (fate); Chironian (fate); Chiss (fate); Echani (fate); Human (characteristics, fate); Kel Dor (fate); Miraluka (fate); Nautolan (talents, fate); Otolla Gungan (characteristics, fate); Togruta (characteristics, fate); Trandoshan (fate); T'surr (fate); Twi'lek (fate); Weequay (fate); Wookiee (movement, fate, resilience); Zabrak (movement, fate, resilience)
 - 01 says 'nine Characteristics'; the 05 Advance Schemes and the Roll20 sheet have ten (with Dex).
-- 01 sends you from Characteristics straight to '2) Origin'; Species (02) is not mentioned in 01's steps.
-- 03's d100 table: values as printed are 01-10, 11-30, 31-35, 36-40, 46-50, 51-55, 00, 61-65, 66-70, 71-75, 76-80, 55-60, 81-90.
-- 04 gives Faction lore and eras but no game effects (no skills, talents, characteristics or Patron rules are written).
-- The documents do not say where Faction sits in the creation order or how Origin changes the chance of a Faction.
+- 03's d100 table: values as printed are 01–10, 11–30, 31–35, 36–40, 41–50, 51–55, 56–60, 61–65, 66–70, 71–75, 76–80, 81–95, 96–00.
 
 ## Species at a glance
 
 | Species | Characteristics | Talents | Mv | Fate | Res | Extra |
 |---|---|---|---|---|---|---|
-| Arkanian | INT +20 WILL +10 T +10 FEL -10 | Bookish, Datapad Literate, Eidetic Memory, Night Vision (Thermal), Resistance (Cold) | 4 | 1 | 1 | 2 |
-| Besalisk | S +10 T +10 AGI -10 FEL +10 | Datapad Literate, Ambidextrous, roll 3 talents from the random talents list | 4 | 1 | 1 | 2 |
-| Chironian | S +20 | Datapad Literate, Stride (Sprinter?), roll 3 talents from the random talents list | 7 | 1 | 1 | 2 |
-| Chiss | I +10 S +10 WILL +10 | Datapad Literate, Night Vision (Thermal), Resistance (Cold), Strider (Cold), Combat Aware | 4 | 1 | 1 | 2 |
-| Echani | WS +10 BS +10 AG +10 | Combat Aware, Datapad Literate, Warrior Born, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
-| Human |  | Datapad Literate, roll 4 talents from the random talents list | 4 | 2 | 1 | 3 |
-| Kel Dor | I +10 WP +10 AG +10 | Datapad Literate, Force Ability (Alter, Control or Sense), roll 3 talents from the random  | 4 | 2 | 1 | 1 |
-| Miraluka | WP +10 | from the random talents list | 4 | 2 | 1 | 2 |
-| Nautolan | S +10 T +10 I +10 |  | 4 | 1 | 1 | 2 |
-| Otolla Gungan |  | Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer | 4 | 2 | 1 | 3 |
-| Togruta |  | Acute Sense (Hearing), Acute Sense (Sight), Datapad Literate, roll 2 talents from the rand | 4 | 2 | 1 | 3 |
-| Trandoshan | WS +10 S +10 T +10 | Datapad Literate, Night Sight(Thermal), Regenerate (Minor), Warrior Born, Roll 1 talent fr | 4 | 1 | 1 | 2 |
-| T'surr | WS +10 S +20 T +10 | Datapad Literate, Hardy, Sturdy, Very Resilient, Warrior Born | 4 | 1 | 1 | 2 |
-| Twi'lek | AG +10 FEL +20 T +10 WP -10 | Attractive or Beneath Notice, Datapad Literate, Roll 3 talents from the random talents lis | 4 | 1 | 1 | 2 |
-| Weequay | WS +10 T +10 S +10 | Datapad Literate, Robust, Warrior Born, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
-| Wookiee | STR +20 FEL -10 INT +10 AGI +10 | Craftsman (Profession), Datapad Literate, Very Strong, roll 2 talents from the random tale |  |  |  |  |
-| Zabrak | T +10 WP +20 | Craftsman (Profession) or Strider (Terrain), Datapad Literate, Resistance (Poison), Warrio |  |  |  |  |
+| Arkanian | INT +20 WILL +10 T +10 FEL -10 | Bookish, Datapad Use, Eidetic Memory, Night Vision (Thermal), Resistance (Cold) | 4 |  | 1 | 2 |
+| Besalisk | S +10 T +10 AGI -10 FEL +10 | Datapad Use, Ambidextrous, roll 3 talents from the random talents list | 4 |  | 1 | 2 |
+| Chironian | S +20 | Datapad Use, Sprinter, roll 3 talents from the random talents list | 7 |  | 1 | 2 |
+| Chiss | I +10 S +10 WILL +10 | Datapad Use, Night Vision (Thermal), Resistance (Cold), Strider (Cold), Combat Aware | 4 |  | 1 | 2 |
+| Echani | WS +10 BS +10 AG +10 | Combat Aware, Datapad Use, Warrior Born, roll 2 talents from the random talents list | 4 |  | 1 | 2 |
+| Human |  | Datapad Use, roll 4 talents from the random talents list | 4 |  | 1 | 3 |
+| Kel Dor | I +10 WP +10 AG +10 | Datapad Use, Force Sense, Force Control or Force Alter (Discipline), roll 3 talents from t | 4 |  | 1 | 1 |
+| Miraluka | WP +10 | from the random talents list | 4 |  | 1 | 2 |
+| Nautolan | S +10 T +10 I +10 |  | 4 |  | 1 | 2 |
+| Otolla Gungan |  | Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer | 4 |  | 1 | 3 |
+| Togruta |  | Acute Sense (Hearing), Acute Sense (Sight), Datapad Use, roll 2 talents from the random ta | 4 |  | 1 | 3 |
+| Trandoshan | WS +10 S +10 T +10 | Datapad Use, Night Vision (Thermal), Regeneration (Minor), Warrior Born, Roll 1 talent fro | 4 |  | 1 | 2 |
+| T'surr | WS +10 S +20 T +10 | Datapad Use, Hardy, Sturdy, Very Resilient, Warrior Born | 4 |  | 1 | 2 |
+| Twi'lek | AG +10 FEL +20 T +10 WP -10 | Attractive or Beneath Notice, Datapad Use, Roll 3 talents from the random talents list | 4 |  | 1 | 2 |
+| Weequay | WS +10 T +10 S +10 | Datapad Use, Robust, Warrior Born, roll 2 talents from the random talents list | 4 |  | 1 | 2 |
+| Wookiee | STR +20 FEL -10 INT +10 AGI +10 | Craftsman (Profession), Datapad Use, Very Strong, roll 2 talents from the random talents l |  |  |  |  |
+| Zabrak | T +10 WP +20 | Craftsman (Profession) or Strider (Terrain), Datapad Use, Resistance (Poison), Warrior Bor |  |  |  |  |
 
 ## Origins at a glance
 
 | d100 | Origin | Characteristics | 12 starting skills |
 |---|---|---|---|
-| 01-10 | Hive Worlds | You gain an additional +5 Agility and +5 to either Ballistic Skill, Initiative, or Fellowship. | Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth(Urban) |
-| 11-30 | Civilized Worlds | You gain an additional +5 Intelligence and +5 to either Willpower, Initiative or Fellowship | Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth(Urban) |
-| 31-35 | Paradise Worlds | You gain an additional +5 Fellowship and +5 to either Weapon Skill, Ballistic Skill, or Toughness. | Athletics, Bribery, Charm, Charm Creature, Consume Intoxicant, Entertain, Leadership, Pilot (Speeder), Pilot (Starship), Play, Ranged (Blaster), Swim |
-| 36-40 | Feudal Worlds | You gain an additional +5 Weapon Skill and +5 to either Strength, Willpower, or Fellowship. |  |
-| 46-50 | Feral Worlds | You gain an additional +5 Toughness and +5 to either Weapon Skill, Strength, or Initiative. | Athletics, Charm Creature, Climb, Dodge, Melee (1H/2H), Pilot (Speeder), Navigation, Outdoor Survival, Perception, Ride(Air/Land/Water), Swim, Track |
-| 51-55 | Industrial Worlds | You gain an additional +5 Intelligence and +5 to either Ballistic Skill, Toughness, or Agility. | Athletics, Bribery, Charm, Consume Intoxicant, Intuition, Dodge, Evaluate, Melee (1H/2H), Pilot (Speeder), Pilot (Starship), Ranged (Blaster/Heavy), Stealth(Urban) |
-| 00 | Force Nexus Worlds | You gain an additional +5 Willpower and +5 to either Intelligence, Initiative, or Fellowship. | Athletics, Charm Creature, Cool, Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride(Air/Land/Water), Stealth(Wilderness) |
-| 61-65 | Hostile Worlds | You gain an additional +5 Ballistic Skill and +5 to either Weapon Skill, Initiative or Toughness | Athletics, Charm Creature, Climb, Dodge, Melee (1H/2H), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster/Heavy), Ride(Air/Land/Water), Swim |
-| 66-70 | Agri Worlds | You gain an additional +5 Strength and +5 to either Toughness, Agility, or Willpower. | Athletics, Charm Creature, Climb, Creature Care, Dodge, Haggle, Melee (1H/2H), Pilot (Speeder), Ranged (Blaster), Ride(Air/Land/Water), Swim, Track |
-| 71-75 | Ocean Worlds | You gain an additional +5 Toughness and +5 to either Agility, Initiative or Fellowship | Athletics, Charm Creature, Cool, Dodge, Endurance, Melee (1H/2H), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic), Ride(Air/Land/Water), Swim |
-| 76-80 | Tundra Worlds | You gain an additional +5 Toughness and +5 to either Agility, Initiative or Strength | Athletics, Charm Creature, Cool, Dodge, Endurance, Intimidate, Intuition, Pilot (Speeder), Navigation, Outdoor Survival, Ride(Air/Land/Water), Stealth(Wilderness) |
-| 55-60 | Lava Worlds | You gain an additional +5 Toughness and +5 to either Agility, Initiative or Strength | Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Blaster) |
-| 81-90 | Space | You gain an additional +5 Agility and +5 to either Ballistic Skill, Intelligence or Fellowship | Athletics, Bribery, Charm, Cool, Gamble, Haggle, Evaluate, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster/Heavy/Ordinance) |
+| 01–10 | Hive Worlds | +5 Agility, and +5 to one of Ballistic Skill, Initiative or Fellowship. | Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol or Blaster Rifle), Stealth (Urban) |
+| 11–30 | Civilized Worlds | +5 Intelligence, and +5 to one of Willpower, Initiative or Fellowship. | Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol or Blaster Rifle), Stealth (Urban) |
+| 31–35 | Paradise Worlds | +5 Fellowship, and +5 to one of Weapon Skill, Ballistic Skill or Toughness. | Athletics, Bribery, Charm, Consume Intoxicant, Creature Training (any one), Entertain (any one), Leadership, Pilot (Speeder), Pilot (Starship), Play (any one), Ranged (Blaster Pistol or Blaster Rifle), Swim |
+| 36–40 | Feudal Worlds | +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship. | Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (any one), Pilot (Speeder), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural) |
+| 41–50 | Feral Worlds | +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative. | Athletics, Climb, Creature Training (any one), Dodge, Melee (any one), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track |
+| 51–55 | Industrial Worlds | +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility. | Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (any one), Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Stealth (Urban) |
+| 56–60 | Lava Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Strength. | Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster Pistol or Blaster Rifle) |
+| 61–65 | Hostile Worlds | +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness. | Athletics, Climb, Creature Training (any one), Dodge, Melee (any one), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Ride (Air, Land or Water), Swim |
+| 66–70 | Agri Worlds | +5 Strength, and +5 to one of Toughness, Agility or Willpower. | Athletics, Climb, Creature Care, Creature Training (any one), Dodge, Haggle, Melee (any one), Pilot (Speeder), Ranged (Blaster Pistol or Blaster Rifle), Ride (Air, Land or Water), Swim, Track |
+| 71–75 | Ocean Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Fellowship. | Athletics, Cool, Creature Training (any one), Dodge, Endurance, Melee (any one), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Slugthrower), Ride (Air, Land or Water), Swim |
+| 76–80 | Tundra Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Strength. | Athletics, Cool, Creature Training (any one), Dodge, Endurance, Intimidate, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural) |
+| 81–95 | Space | +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship. | Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster Pistol, Blaster Rifle, Heavy Blaster or Missile/Rocket) |
+| 96–00 | Force Nexus Worlds | +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship. | Athletics, Cool, Creature Training (any one), Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural) |
 
 ## Careers (level 1) at a glance
 
 | Class | Career | Level 1 | Skills | Talents |
 |---|---|---|---|---|
-| Academics | Physician (Medic) | Physician’s Apprentice — Brass 4 | Bribery, Cool, Pilot (Land Vehicle), Endurance, Gossip, Medicine, Perception, Sleight of Hand | Bookish, Field Dressing, Read/Write, Strike to Stun |
-| Citizens | Agitator | Pamphleteer — Brass 1 | Art (Writing), Bribery, Charm, Consume Alcohol, Gossip, Haggle, Lore (Politics), Profession (Slicer) | Blather, Gregarious, Panhandle, Read/Write |
-| Citizens | Artisan | Apprentice Artisan — Brass 2 | Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any) | Artistic, Craftsman (any), Strong Back, Very Strong |
-| Citizens | Investigator | Sleuth — Silver 1 | Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track | Alley Cat, Beneath Notice, Read/Write, Sharp |
-| Citizens | Merchant | Trader — Silver 2 | Creature Care, Bribery, Charm, Consume Alcohol, Pilot (Land Vehicle), Gamble, Gossip, Haggle | Blather, Dealmaker, Read/Write, Suave |
-| Dignitaries | Advisor | Aide — Silver 2 | Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Old Tongue), Lore (Politics), Perception | Beneath Notice, Etiquette (Any), Gregarious, Read/Write |
-| Dignitaries | Envoy | Herald — Silver 2 | Athletics, Charm, Pilot (Land Vehicle), Dodge, Endurance, Intuition, Ride (Bantha), Pilot (Starship) | Blather, Etiquette (Nobles), Read/Write, Suave |
-| Dignitaries | Noble | Scion — Gold 1 | Bribery, Consume Alcohol, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (Vibroblade), Play (Any) | Etiquette (Nobles), Luck, Noble Blood, Read/Write |
+| Academics | Physician (Medic) | Physician’s Apprentice — Brass 4 | Bribery, Cool, Pilot (Land Vehicle), Endurance, Gossip, Medicine, Perception, Sleight of Hand | Bookish, Field Dressing, Datapad Use, Strike to Stun |
+| Citizens | Agitator | Pamphleteer — Brass 1 | Art (Writing), Bribery, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer) | Blather, Gregarious, Panhandle, Datapad Use |
+| Citizens | Artisan | Apprentice Artisan — Brass 2 | Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any) | Artistic, Craftsman (any), Strong Back, Very Strong |
+| Citizens | Investigator | Sleuth — Silver 1 | Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track | Alley Cat, Beneath Notice, Datapad Use, Sharp |
+| Citizens | Merchant | Trader — Silver 2 | Creature Care, Bribery, Charm, Consume Intoxicant, Pilot (Land Vehicle), Gamble, Gossip, Haggle | Blather, Dealmaker, Datapad Use, Suave |
+| Dignitaries | Advisor | Aide — Silver 2 | Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Tongue), Lore (Politics), Perception | Beneath Notice, Etiquette (Any), Gregarious, Datapad Use |
+| Dignitaries | Envoy | Herald — Silver 2 | Athletics, Charm, Pilot (Land Vehicle), Dodge, Endurance, Intuition, Ride (Bantha), Pilot (Starship) | Blather, Etiquette (Nobles), Datapad Use, Suave |
+| Dignitaries | Noble | Scion — Gold 1 | Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (Vibroblade), Play (Any) | Etiquette (Nobles), Luck, Noble Blood, Datapad Use |
 | Dignitaries | Spy | Informer — Brass 3 | Bribery, Charm, Cool, Gamble, Gossip, Haggle, Perception, Stealth (Any) | Blather, Carouser, Gregarious, Shadow |
-| Dignitaries | Warden | Custodian — Silver 1 | Athletics, Charm Creature, Consume Alcohol, Cool, Endurance, Intuition, Lore (Local), Perception | Menacing, Night Vision, Sharp, Strike to Stun |
-| Force Wielders | Force Savant | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Lore (Force Traditions), Charm, Heal, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Trade (Armourer — lightsaber construction) | Etiquette (Senate or Diplomatic Corps), Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions), Savant (Lore), Linguistics |
-| Force Wielders | Force Shadow | Padawan/ Acolyte / Sith Acolyte — Silver 3 | Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth, Heal, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Trade (Armourer — lightsaber construction) | Etiquette (Underworld — how to behave in places that will kill you for standing out), Flee!, Sturdy, Warrior Born |
-| Force Wielders | Force Warrior | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon), | Etiquette (Senate or Military), Roughrider (Mounted Beast Combat) or Pilot, Sturdy, Warrior Born |
+| Dignitaries | Warden | Custodian — Silver 1 | Athletics, Creature Training (Any), Consume Intoxicant, Cool, Endurance, Intuition, Lore (Local), Perception | Menacing, Night Vision, Sharp, Strike to Stun |
+| Force Wielders | Force Savant | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Lore (Force Traditions), Charm, Medicine, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Profession (Armourer — lightsaber construction) | Etiquette (Senate or Diplomatic Corps), Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions), Savant (Lore), Linguistics |
+| Force Wielders | Force Shadow | Padawan/ Acolyte / Sith Acolyte — Silver 3 | Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth, Medicine, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction) | Etiquette (Underworld — how to behave in places that will kill you for standing out), Flee!, Sturdy, Warrior Born |
+| Force Wielders | Force Warrior | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon), | Etiquette (Senate or Military), Ace Pilot or Roughrider, Sturdy, Warrior Born |
 | Freelancers | Bounty Hunter | Thief-taker — Silver 1 | Bribery, Charm, Gossip, Haggle, Intuition, Melee (Basic), Outdoor Survival, Perception, Pilot (Speeder) | Break and Enter, Shadow, Strike to Stun, Suave, Pilot |
-| Freelancers | Scout | Guide — Brass 3 | Charm Creature, Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Perception | Orientation, Rover, Sharp, Strider (any) |
-| Freelancers | Smuggler | River Runner — Brass 2 | Athletics, Bribery, Cool, Consume Alcohol, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim | Criminal, Scavenger, Strider (Wastelands), Strong Back |
-| Scoundrels | Bawd | Hustler — Brass 1 | Bribery, Charm, Consume Alcohol, Entertain (Any), Gamble, Gossip, Haggle, Intimidate | Attractive, Alley Cat, Blather, Gregarious |
-| Scoundrels | Charlatan | Swindler — Brass 3 | Bribery, Consume Alcohol, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand | Cardsharp, Diceman, Etiquette (Any), Luck |
-| Scoundrels | Fence | Broker — Silver 1 | Charm, Consume Alcohol, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (Basic) | Alley Cat, Cardsharp, Dealmaker, Gregarious |
-| Scoundrels | Outlaw | Brigand — Brass 1 | Athletics, Consume Alcohol, Cool, Endurance, Gamble, Intimidate, Melee (Basic), Outdoor Survival | Combat Aware, Criminal, Rover, Flee! |
+| Freelancers | Scout | Guide — Brass 3 | Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Perception | Orientation, Rover, Sharp, Strider (any) |
+| Freelancers | Smuggler | River Runner — Brass 2 | Athletics, Bribery, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim | Criminal, Scavenger, Strider (Wastelands), Strong Back |
+| Scoundrels | Bawd | Hustler — Brass 1 | Bribery, Charm, Consume Intoxicant, Entertain (Any), Gamble, Gossip, Haggle, Intimidate | Attractive, Alley Cat, Blather, Gregarious |
+| Scoundrels | Charlatan | Swindler — Brass 3 | Bribery, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand | Cardsharp, Diceman, Etiquette (Any), Luck |
+| Scoundrels | Fence | Broker — Silver 1 | Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (Basic) | Alley Cat, Cardsharp, Dealmaker, Gregarious |
+| Scoundrels | Outlaw | Brigand — Brass 1 | Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (Basic), Outdoor Survival | Combat Aware, Criminal, Rover, Flee! |
 | Scoundrels | Thief | Prowler — Brass 1 | Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban) | Alley Cat, Criminal, Flee!, Strike to Stun |
-| Warriors | Guard | Sentry — Silver 1 | Consume Alcohol, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Perception | Diceman, Etiquette (Servants), Strike to Stun, Tenacious |
-| Warriors | Pit Fighter | Pugilist — Brass 4 | Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling) | Dirty Fighter, In-fighter, Iron Jaw, Reversal |
+| Warriors | Guard | Sentry — Silver 1 | Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Perception | Diceman, Etiquette (Servants), Strike to Stun, Tenacious |
+| Warriors | Pit Fighter | Pugilist — Brass 4 | Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling) | Dirty Fighting, In-fighter, Iron Jaw, Reversal |
 | Warriors | Soldier | Recruit — Silver 1 | Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (Basic), Play (Drums or Horn) | Diceman, Marksman, Strong Back, Warrior Born |

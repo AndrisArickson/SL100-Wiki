@@ -2,11 +2,12 @@
 
 Index of every talent in chapter 07 (revised). Max is the number of ranks allowed; Tests are the Tests the talent adds +1 SL per rank to.
 
-## General talents (148)
+## General talents (164)
 
 | Talent | Max | Tests |
 | --- | --- | --- |
 | Accurate Shot | Ballistic Skill Bonus | - |
+| Ace Pilot | Agility Bonus | Pilot Tests in a chase or dogfight |
 | Acute Sense (Sense) | Initiative Bonus | Perception (Sense) |
 | Alley Cat | Initiative Bonus | Stealth (Urban) |
 | Ambidextrous | 2 | - |
@@ -19,6 +20,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Beneath Notice | Fellowship Bonus | Stealth when in plain sight |
 | Berserk Charge | Strength Bonus | Melee on a Round when you Charge |
 | Blather | Fellowship Bonus | Charm to Blather |
+| Blood Feud | None | Any Test to find, follow or fight the subject of your feud |
 | Bookish | Intelligence Bonus | Research |
 | Break and Enter | Strength Bonus | Melee when forcing or breaking inanimate objects |
 | Briber | Fellowship Bonus | Bribery |
@@ -27,6 +29,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Carouser | Toughness Bonus | Charm at parties, Gossip at parties, Consume Intoxicant |
 | Cat-tongued | Fellowship Bonus | Charm when lying |
 | Catfall | Agility Bonus | Athletics when falling |
+| Clan Markings | 1 | Intimidate and Cool while your markings are displayed |
 | Combat Aware | Initiative Bonus | Perception during melee |
 | Combat Master | Agility Bonus | - |
 | Combat Reflexes | Initiative Bonus | - |
@@ -36,7 +39,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Coolheaded | 1 | - |
 | Crack the Whip | Dexterity Bonus | Ride or Pilot Tests when Fleeing or Running |
 | Craftsman (Profession) | Dexterity Bonus | Profession (any one) |
-| Creature Affinity | Willpower Bonus | Charm Creature |
+| Creature Affinity | Willpower Bonus | Creature Training |
 | Criminal | None | - |
 | Datapad Use | 1 | - |
 | Deadeye Shot | 1 | - |
@@ -46,7 +49,9 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Disarm | Initiative Bonus | Melee Tests concerning this Talent |
 | Distract | Agility Bonus | Athletics to Distract |
 | Drilled | Weapon Skill Bonus | Melee Tests when beside an ally with Drilled |
+| Droid Companion | 3 | - |
 | Dual Wielder | Agility Bonus | Melee or Ranged when attacking with two weapons |
+| Duct Crawler | Initiative Bonus | Stealth (Underground) |
 | Eidetic Memory | Intelligence Bonus | - |
 | Embezzle | Intelligence Bonus | Intelligence (Embezzling) |
 | Enclosed Fighter | Agility Bonus | Dodge in enclosed environments |
@@ -57,15 +62,18 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Feint | Weapon Skill Bonus | Melee (any) for Feints |
 | Field Dressing | Intelligence Bonus | Medicine during combat Rounds |
 | Field Medic | Intelligence Bonus | Profession (Medic) |
+| First Strike | Initiative Bonus | Melee Tests when you act before your opponent in a Round |
 | Flee! | Agility Bonus | Athletics when Fleeing |
 | Fleet Footed | 1 | - |
 | Frenzy | 1 | - |
 | Frightening | Strength Bonus | - |
 | Furious Assault | Agility Bonus | Melee when making extra attacks |
 | Gregarious | Fellowship Bonus | Gossip Tests with travellers |
+| Gunnery Chief | Initiative Bonus | Ranged Tests with crewed weapons |
 | Hardy | Toughness Bonus | - |
-| Heavy Gunner | Dexterity Bonus | - |
 | Hatred (Group) | Willpower Bonus | Willpower (Resist Group) |
+| Heavy Gunner | Dexterity Bonus | - |
+| Heirloom Weapon | 1 | - |
 | Hunter's Eye | Initiative Bonus | Any Test to trail or capture game |
 | Hyperlane Pilot | Initiative Bonus | Any Lore Test concerning hyperlane matters |
 | Impassioned Zeal | Fellowship Bonus | Charm when speaking about your cause |
@@ -82,10 +90,12 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Luck | Fellowship Bonus | - |
 | Magnum Opus | None | - |
 | Marksman | 1 | - |
+| Martial Artist | Weapon Skill Bonus | Melee (Brawling) |
+| Master (Profession) | Dexterity Bonus | Any appropriate Extended Profession Test |
 | Master of Disguise | Fellowship Bonus | Entertain (Acting) when being someone else |
 | Master Orator | Fellowship Bonus | - |
-| Master (Profession) | Dexterity Bonus | Any appropriate Extended Profession Test |
 | Menacing | Strength Bonus | Intimidate |
+| Mercenary | Fellowship Bonus | Haggle and Charm when negotiating a contract |
 | Mimic | Initiative Bonus | Entertain (Acting) Tests where accents are important |
 | Night Vision | Initiative Bonus | Perception Tests in low-light conditions |
 | Nimble Fingered | 1 | - |
@@ -98,6 +108,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Perfect Pitch | Initiative Bonus | Entertain (Sing), Language (tonal languages such as Huttese, Shyriiwook and Sith) |
 | Pilot | Initiative Bonus | Pilot (Starship) or Pilot (Capital Ship) |
 | Public Speaker | Fellowship Bonus | - |
+| Quick Draw | Initiative Bonus | Ranged Tests with a weapon drawn this Round |
 | Rapid Reload | Dexterity Bonus | - |
 | Reaction Strike | Initiative Bonus | Initiative Tests concerning this talent |
 | Regeneration (Minor) | 1 | - |
@@ -134,6 +145,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Strike Mighty Blow | Strength Bonus | - |
 | Strike to Injure | Initiative Bonus | - |
 | Strike to Stun | Weapon Skill Bonus | Melee Tests when Striking to Stun |
+| Strong Back | Strength Bonus | Athletics and Swim |
 | Strong Legs | Strength Bonus | - |
 | Strong Swimmer | Strength Bonus | Swim |
 | Strong-Minded | Willpower Bonus | - |
@@ -143,19 +155,23 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Supportive | Fellowship Bonus | Social Tests to influence a superior |
 | Sure Shot | Initiative Bonus | - |
 | Surgery | Intelligence Bonus | Medicine Tests outside combat rounds, when you have time to work properly |
+| Surgical Precision | Intelligence Bonus | Medicine Tests during surgery |
+| Tactician | Intelligence Bonus | Leadership |
 | Tenacious | Toughness Bonus | Endurance Tests for enduring hardships |
 | Tinker | Dexterity Bonus | Profession Tests to repair broken items |
 | Trapper | Initiative Bonus | Perception Tests to spot traps and mines, Demolitions |
 | Trick Riding | Agility Bonus | Dodge Tests on ridden creatures |
+| Unshakeable | Toughness Bonus | Endurance Tests to keep your footing |
 | Vacuum Legs | Toughness Bonus | All those taken to resist Space-Sickness |
 | Very Resilient | 1 | - |
 | Very Strong | 1 | - |
+| Vice (Target) | Willpower Bonus | Willpower Tests to resist the chosen vice |
 | War Leader | Fellowship Bonus | Leadership Tests in battle |
 | Warrior Born | 1 | - |
 | Wealthy | None | - |
 | Well-Prepared | Initiative Bonus | - |
 
-## Force talents (19)
+## Force talents (23)
 
 | Talent | Max | Tests |
 | --- | --- | --- |
@@ -172,10 +188,14 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Pure Soul | Willpower Bonus | - |
 | Foretold | 1 | - |
 | Force Resistance | 1 | - |
+| Armoured Adept | Toughness Bonus | Use the Force while wearing armour |
+| Code (Tradition) | 1 | Cool Tests and Tests to regain Resolve while you keep your code |
+| Wild Talent | 1 | - |
 | Force Sorcery (Tradition) | 1 | - |
 | Dark Side Sorcery | Number of spells available | - |
 | Minor Sorcery | 1 | - |
 | Force Attunement | Initiative Bonus | Use the Force when channelling |
 | Fluent Incantation | Initiative Bonus | Language (The Force) when casting |
 | Sense Sorcery | Initiative Bonus | Intuition Tests to detect sorcerers |
+| Ritual Ward | Willpower Bonus | Use the Force when raising a ward |
 

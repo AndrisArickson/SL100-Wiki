@@ -1,165 +1,188 @@
 name,section,summary,line
-Accurate Shot,Combat Talents,Deals extra ranged damage equal to Accurate Shot level,7
-Battle Rage,Combat Talents,Can end Frenzy early with a Cool Test,9
-Beat Blade,Combat Talents,Action to reduce opponent's Advantage via Melee Test,11
-Berserk Charge,Combat Talents,Gains +1 Damage per level on Charge attacks,13
-Careful Strike,Combat Talents,Can modify Hit Location result with melee or ranged,15
-Combat Aware,Combat Talents,Perception Test to ignore Surprise,17
-Combat Master,Combat Talents,Counts as extra combatants when outnumbered,19
-Combat Reflexes,Combat Talents,+10 Initiative per level for Combat Initiative,21
-Dirty Fighting,Combat Talents,+1 Damage per level with Melee (Brawling),23
-Disarm,Combat Talents,Opposed Melee Test to disarm opponent,25
-Distract,Combat Talents,Opposed Athletics/Cool Test; prevents opponent gaining Advantage,27
-Drilled,Combat Talents,"Retain Advantage when an enemy causes you to lose it, if beside an ally with Drilled",29
-Dual Wielder,Combat Talents,Attack with two weapons in one Action,31
-Enclosed Fighter,Combat Talents,Ignore penalties for fighting in confined spaces; can Dodge when space is tight,33
-Fast Shot,Combat Talents,Fire ranged weapon before normal Initiative order,35
-Feint,Combat Talents,False attack; add Feint SL to a follow-up attack,37
-Frightening,Combat Talents,Gain Fear Rating 1 (+1 per extra level),39
-Furious Assault,Combat Talents,Spend Advantage or Move to make an extra attack after hitting,41
-In-fighter,Combat Talents,No penalties fighting against longer weapons; +10 to hit when in-fighting,43
-Reaction Strike,Combat Talents,"Free Attack when Charged, up to level times per Round",45
-Resolute,Combat Talents,Add Resolute level to Strength Bonus when Charging,47
-Reversal,Combat Talents,Win Opposed Melee to take all opponent's Advantage instead of dealing damage,49
-Riposte,Combat Talents,"Cause Damage when defending, up to Riposte level times per round (Fast weapons)",51
-Shieldsman,Combat Talents,Gain Advantage equal to Shieldsman level when losing a shield defence,53
-Slayer,Combat Talents,Use opponent's Toughness Bonus as your Strength Bonus if higher; multiply melee Crit damage by size difference,55
-Strike Mighty Blow,Combat Talents,Extra melee Damage equal to talent level,57
-Deadeye Shot,Ranged/Shooting Talents,Pick Hit Location for ranged attacks instead of rolling,61
-Marksman,Ranged/Shooting Talents,Permanent +5 to starting Ballistic Skill,63
-Sharpshooter,Ranged/Shooting Talents,Ignore negative modifiers for target size on Ranged Tests,65
-Sniper,Ranged/Shooting Talents,No penalty at Long range; half penalty at Extreme range,67
-Alley Cat,Stealth & Movement Talents,Reverse failed Stealth (Urban) Tests if it scores a Success,71
-Catfall,Stealth & Movement Talents,Athletics Test when falling to reduce distance taken,73
-Contortionist,Stealth & Movement Talents,Squeeze through gaps; benefits on Agility Tests involving body manipulation,75
-Flee!,Stealth & Movement Talents,+1 Movement when Fleeing,77
-Fleet Footed,Stealth & Movement Talents,+1 Movement Attribute permanently,79
-Jump Up,Stealth & Movement Talents,Agility Test to stand immediately when Prone,81
-Relentless,Stealth & Movement Talents,Keep Advantage when Disengaging; can Disengage even with lower Advantage,83
-Rover,Stealth & Movement Talents,Bystanders get no passive Perception checks against your rural Stealth,85
-Scale Sheer Surface,Stealth & Movement Talents,Climb impossible surfaces; ignore difficulty penalties,87
-Shadow,Stealth & Movement Talents,Shadowing without Combined Test; use best of Perception or Stealth,89
-Sprinter,Stealth & Movement Talents,+1 Movement when Running,91
-Step Aside,Stealth & Movement Talents,Move 2 yards when winning a Dodge; no longer Engaged,93
-Strider (Terrain),Stealth & Movement Talents,Ignore movement penalties in specified terrain type,95
-Argumentative,Social Talents,Use units die as SL on successful Charm (debating) Tests,99
-Artistic,Social Talents,Natural art talent; adds Profession (Artist) to careers,101
-Attractive,Social Talents,Use units die as SL on successful Charm (those attracted to you),103
-Beneath Notice,Social Talents,High-Status characters ignore you; they gain no Advantage for wounding you,105
-Blather,Social Talents,Stun target with Charm; Stunned Conditions per level of talent,107
-Briber,Social Talents,Reduce bribe cost by 10% per level,109
-Cardsharp,Social Talents,Use units die as SL on Gamble/Sleight of Hand at cards; draw extra cards,111
-Cat-tongued,Social Talents,Listeners don't oppose Charm lies with Intuition,113
-Commanding Presence,Social Talents,Lower-Status characters cannot resist your Leadership with Willpower,115
-Dealmaker,Social Talents,Reduce/increase prices extra 10% per level when Haggling,117
-Diceman,Social Talents,Use units die as SL on Gamble/Sleight of Hand at dice,119
-Etiquette (Social Group),Social Talents,Blend in socially with the chosen group,121
-Gregarious,Social Talents,Reverse failed Gossip Tests with travellers if it scores a Success,123
-Impassioned Zeal,Social Talents,Double Fellowship for Public Speaking about your cause,125
-Inspiring,Social Talents,Multiply soldiers influenced by Leadership in war (see table),127
-Kingpin,Social Talents,Ignore Status loss from the Criminal Talent,129
-Linguistics,Social Talents,Learn any language as a Basic Skill after a month's exposure,131
-Master of Disguise,Social Talents,Appear as someone else without a Disguise Kit,133
-Master Orator,Social Talents,SL bonus equal to levels on Public Speaking Charm Tests,135
-Menacing,Social Talents,SL bonus equal to levels on Intimidate Tests,137
-Mimic,Social Talents,Replicate accents after a day's exposure,139
-Noble Blood (Galactic Aristocracy),Social Talents,+10% to Fellowship Tests vs lower-status; subordinates need Willpower to resist orders,141
-Panhandle,Social Talents,Charm (Begging) Test every half hour instead of every hour,143
-Public Speaker,Social Talents,Multiply people influenced by Charm (see table),145
-Schemer,Social Talents,"Once per session, ask GM one political question; GM answers based on secret Intelligence Test",147
-Bookish,Knowledge & Craft Talents,Reverse failed Research Tests if it scores a Success,151
-Carouser,Knowledge & Craft Talents,Reverse failed Consume Alcohol Tests if it scores a Success,153
-Concoct,Knowledge & Craft Talents,Free Crafting Endeavour using Trade (Apothecary) without a Workshop,155
-Craftsman (Profession),Knowledge & Craft Talents,Adds associated Profession Skill to any career entered,157
-Datapad Literate,Knowledge & Craft Talents,Can read and write all languages you speak,159
-Field Dressing,Knowledge & Craft Talents,Reverse failed Medicine Tests (Medpac/Bacta Patch) for +1 SL max,161
-Field Medic,Knowledge & Craft Talents,Reverse failed Profession (Medic) Tests if it scores a Success,163
-Heavy Gunner,Knowledge & Craft Talents,Add SL equal to level when reloading heavy weapons,165
-Lip Reading,Knowledge & Craft Talents,Read lips with unobstructed view via Perception Test,167
-Magnum Opus,Knowledge & Craft Talents,Create extraordinary unique works of art,169
-Master (Profession),Knowledge & Craft Talents,Reduce required SL of Extended Profession Tests by talent level,171
-Numismatics,Knowledge & Craft Talents,Judge coin/credit worth without a Test; Evaluate forgeries without opposition,173
-Rapid Reload,Knowledge & Craft Talents,Add SL equal to level when reloading ranged weapons,175
-Savant (Lore),Knowledge & Craft Talents,Auto-know pieces of information equal to level without testing,177
-Savvy,Knowledge & Craft Talents,Permanent +5 to starting Intelligence,179
-Seasoned Traveller,Knowledge & Craft Talents,Adds Lore (Local) to careers; can buy it cheaper,181
-Speedreader,Knowledge & Craft Talents,Reverse failed Research Tests; read pages per round equal to SL + level,183
-Coolheaded,Survival & Resilience Talents,Permanent +5 to starting Willpower,187
-Hardy,Survival & Resilience Talents,Gain permanent extra Wounds equal to Toughness Bonus,189
-Implacable,Survival & Resilience Talents,Ignore Wound loss from Bleeding Conditions (one per level),191
-Iron Jaw,Survival & Resilience Talents,Endurance Test to immediately remove Stunned Conditions,193
-Iron Will,Survival & Resilience Talents,Intimidate never causes Fear; always free to speak against intimidators,195
-Lightning Reflexes,Survival & Resilience Talents,Permanent +5 to starting Agility,197
-Nimble Fingered,Survival & Resilience Talents,Permanent +5 to starting Dexterity,199
-Robust,Survival & Resilience Talents,Reduce all incoming Damage by +1 per level (minimum 1 Wound),201
-Scavenger,Survival & Resilience Talents,Auto-forage food for self + (level) others per hour,203
-Sharp,Survival & Resilience Talents,Permanent +5 to starting Initiative,205
-Stone Soup,Survival & Resilience Talents,Subsist on half food; Starvation check every 3 days instead of 2,207
-Stout-hearted,Survival & Resilience Talents,Extra Cool Test to remove Broken Conditions each Turn,209
-Resistance (Threat),Survival & Resilience Talents,Auto-pass first Test per session against specified threat,211
-Vacuum Legs,Survival & Resilience Talents,Ignore penalties to Tests vs Space-Sickness,213
-Acute Sense (Sense),Perception & Awareness Talents,Detect normally imperceptible details with a chosen sense,219
-Combat Aware,Perception & Awareness Talents,Perception Test to ignore Surprise in melee,221
-Detect Force Artefact,Perception & Awareness Talents,Intuition Test to detect Force-attuned artefacts; extra SL reveals properties,223
-Hunter's Eye,Perception & Awareness Talents,Auto-hunt food for self + (level) others with time and equipment,225
-Magical Sense,Perception & Awareness Talents,Intuition Test to detect spellcasters nearby,227
-Night Vision,Perception & Awareness Talents,See clearly 20 yards per level in natural darkness; extend light radius,229
-Nose for Trouble,Perception & Awareness Talents,Intuition Test to spot troublemakers even when normally blocked; ignore Surprise from them,231
-Orientation,Perception & Awareness Talents,Automatically know direction from environmental cues,233
-Perfect Pitch,Perception & Awareness Talents,Perfect note replication; adds Entertain (Sing) to careers,235
-Sixth Sense,Perception & Awareness Talents,GM warns of danger via secret Intuition Test; may ignore Surprise on Intuition Test,237
-Break and Enter,Criminal & Underworld Talents,+1 Damage per level against inanimate objects when forcing entry,241
-Criminal,Criminal & Underworld Talents,Active criminal; earns more but lowers perceived Status,243
-Embezzle,Criminal & Underworld Talents,Opposed Intelligence Test to skim money from employer undetected,245
-Fast Hands,Criminal & Underworld Talents,No passive Perception vs Sleight of Hand; +10×level to touch Melee (Brawling),247
-Crack the Whip,Riding & Piloting Talents,Controlled mount/vehicle gains +1 Movement when Fleeing/Running with a goad,253
-Hyperlane Pilot,Riding & Piloting Talents,Auto-pass easy hyperlane navigation Tests; never test with appropriate Lore Skill,255
-Pilot,Riding & Piloting Talents,Reverse failed dangerous-space Pilot Tests for +1 SL max,257
-Roughrider,Riding & Piloting Talents,Direct mount or vehicle to take an Action without a Test,259
-Spacer,Riding & Piloting Talents,Ignore space-travel penalties; count as two crew for minimum piloting needs,261
-Foretold,Luck & Fate Talents,A Force seer foretold your death; next character gets half XP bonus if death matches,265
-Luck,Luck & Fate Talents,Maximum Fortune Points = Fate points + Luck levels,267
-Force Fury,Force Talents,+1 Damage with Force powers per level; risks Dark Side Influence,273
-Force Magic (Lore),Force Talents,Learn spells from a chosen Lore; cost scales with Intelligence Bonus,275
-Force Sensitive (Sight),Force Talents,Can perceive the currents of the Force; gain the Sight,277
-Force Sensitive (Tradition),Force Talents,Attuned to one Force tradition; unlocks Force Ability Talents,279
-Force Visions,Force Talents,Auto-detect Force nexus; Intuition Test for visions of events there,281
-Instinctive Diction,Force Talents,No Miscast on doubles with successful Language (Magick) Tests,283
-Magic Resistance,Force Talents,Oppose all incoming Force spells with Willpower; cannot learn magic Talents,285
-Petty Magic,Force Talents,Manifest and memorise Petty spells equal to Willpower Bonus,287
-Pure Soul,Force Talents,Gain extra Corruption points per level before testing for Dark Side fall,289
-Use The Force (Tradition),Force Talents,Deeply attuned to tradition; buy extra Tradition powers for 100 XP each,291
-Dark Magic (Lore),Force Talents,Access Dark Side magic; gain Corruption per spell learned,293
-Force Ability,Force Abilities (Disciplines),"Sense (max: Intuition Bonus) — Perceiving the Force: Danger Sense, Life Detection, Sense Force",297
-Force Ability,Force Abilities (Disciplines),"Control (max: Willpower Bonus) — Mastery of self: Force Speed, Reduce Injury, Concentration, Absorb Energy, Protection from Cold",299
-Force Ability,Force Abilities (Disciplines),"Alter (max: Fellowship Bonus) — Shaping the world: Telekinesis, Affect Mind, Kinetic Combat, Force Shield",301
-Projective Telepathy,Force Specialties,Send thoughts/images into another's mind at any distance,307
-Force Dominate,Force Specialties,Plant hard-to-resist commands in individuals,309
-Force Lightning,Force Specialties,Generate destructive electrical arcs (Dark Side),311
-Force Illusion,Force Specialties,Create convincing sensory hallucinations,313
-Accelerate Healing,Force Specialties,Speed recovery from wounds in yourself,317
-Force Hibernation,Force Specialties,Slow metabolism to survive extreme conditions,319
-Detoxify Poison,Force Specialties,Purge venom through cellular-level Force focus,321
-Force of Will,Force Specialties,Reinforce mind against domination and Sith intrusion,323
-Farsight,Force Specialties,See distant places or possible futures,327
-Postcognition / Psychometry,Force Specialties,Read Force imprints on objects or places,329
-Sense Personal Force,Force Specialties,Detect Force strength and alignment in another being,331
-Receptive Telepathy,Force Specialties,Passively read surface thoughts or emotions,333
-Beast Languages,Force Specialties,Understand animals' emotional intent through Force empathy,335
-Battle Meditation (C+S+A),Force Specialties,Bolster allies' coordination; sap enemy will,339
-Force Meld (C+S+A),Force Specialties,Link multiple Force users into shared battle-awareness,341
-Tutaminis (C+A),Force Specialties,Absorb raw energy (including Force lightning) harmlessly,343
-Force Cloak (C+A),Force Specialties,Bend light around oneself to become invisible,345
-Force Healing Others (C+S+A),Force Specialties,Extend healing energy to repair another's body,347
-Plant Surge (S+A),Force Specialties,Explosively accelerate plant growth,349
-Cleanse Soul (C+A),Force Specialties,Use life essence and purity to reduce another's corruption,351
-Ambidextrous,Social Standing Talents,Off-hand penalty reduced to –10 (or 0 if taken twice),355
-Attractive,Social Standing Talents,Units die as SL on Charm vs those attracted to you,357
-Creature Affinity,Social Standing Talents,Non-aggressive Bestial creatures are automatically calm around you,359
-Hatred (group),Social Standing Talents,Consumed with hatred for a chosen group (game effects per page 190),361
-Fearless (Enemy),Social Standing Talents,Average Cool Test to ignore Intimidate/Fear/Terror from specified enemy,363
-Secret Identity,Social Standing Talents,Maintain a false Career/Status identity per level,365
-Pain-Sworn,Miscellaneous,Maintain Wounds per level via daily meditation; enter Frenzy immediately if Frenzy Talent held,369
-Frenzy,Miscellaneous,Can enter Frenzy; must self-flagellate daily,371
-Small,Miscellaneous,Shorter than most; see Size rules in Chapter 12,373
-Lip Reading,Miscellaneous,Read lips via Perception Test with clear view of speaker's face,375
+Accurate Shot,,Ballistic Skill Bonus,9
+Ace Pilot,,Agility Bonus,10
+Acute Sense (Sense),,Initiative Bonus,11
+Alley Cat,,Initiative Bonus,12
+Ambidextrous,,2,13
+Amphibious,,1,14
+Argumentative,,Fellowship Bonus,15
+Artistic,,Dexterity Bonus,16
+Attractive,,Fellowship Bonus,17
+Battle Rage,,Willpower Bonus,18
+Beat Blade,,Weapon Skill Bonus,19
+Beneath Notice,,Fellowship Bonus,20
+Berserk Charge,,Strength Bonus,21
+Blather,,Fellowship Bonus,22
+Blood Feud,,None,23
+Bookish,,Intelligence Bonus,24
+Break and Enter,,Strength Bonus,25
+Briber,,Fellowship Bonus,26
+Cardsharp,,Intelligence Bonus,27
+Careful Strike,,Initiative Bonus,28
+Carouser,,Toughness Bonus,29
+Cat-tongued,,Fellowship Bonus,30
+Catfall,,Agility Bonus,31
+Clan Markings,,1,32
+Combat Aware,,Initiative Bonus,33
+Combat Master,,Agility Bonus,34
+Combat Reflexes,,Initiative Bonus,35
+Commanding Presence,,Fellowship Bonus,36
+Concoct,,Intelligence Bonus,37
+Contortionist,,Agility Bonus,38
+Coolheaded,,1,39
+Crack the Whip,,Dexterity Bonus,40
+Craftsman (Profession),,Dexterity Bonus,41
+Creature Affinity,,Willpower Bonus,42
+Criminal,,None,43
+Datapad Use,,1,44
+Deadeye Shot,,1,45
+Dealmaker,,Fellowship Bonus,46
+Diceman,,Intelligence Bonus,47
+Dirty Fighting,,Weapon Skill Bonus,48
+Disarm,,Initiative Bonus,49
+Distract,,Agility Bonus,50
+Drilled,,Weapon Skill Bonus,51
+Droid Companion,,3,52
+Dual Wielder,,Agility Bonus,53
+Duct Crawler,,Initiative Bonus,54
+Eidetic Memory,,Intelligence Bonus,55
+Embezzle,,Intelligence Bonus,56
+Enclosed Fighter,,Agility Bonus,57
+Etiquette (Social Group),,Fellowship Bonus,58
+Fast Hands,,Dexterity Bonus,59
+Fast Shot,,Agility Bonus,60
+Fearless (Enemy),,Willpower Bonus,61
+Feint,,Weapon Skill Bonus,62
+Field Dressing,,Intelligence Bonus,63
+Field Medic,,Intelligence Bonus,64
+First Strike,,Initiative Bonus,65
+Flee!,,Agility Bonus,66
+Fleet Footed,,1,67
+Frenzy,,1,68
+Frightening,,Strength Bonus,69
+Furious Assault,,Agility Bonus,70
+Gregarious,,Fellowship Bonus,71
+Gunnery Chief,,Initiative Bonus,72
+Hardy,,Toughness Bonus,73
+Hatred (Group),,Willpower Bonus,74
+Heavy Gunner,,Dexterity Bonus,75
+Heirloom Weapon,,1,76
+Hunter's Eye,,Initiative Bonus,77
+Hyperlane Pilot,,Initiative Bonus,78
+Impassioned Zeal,,Fellowship Bonus,79
+Implacable,,Toughness Bonus,80
+In-fighter,,Dexterity Bonus,81
+Inspiring,,Fellowship Bonus,82
+Iron Jaw,,Toughness Bonus,83
+Iron Will,,Willpower Bonus,84
+Jump Up,,1,85
+Kingpin,,1,86
+Lightning Reflexes,,1,87
+Linguistics,,Intelligence Bonus,88
+Lip Reading,,Initiative Bonus,89
+Luck,,Fellowship Bonus,90
+Magnum Opus,,None,91
+Marksman,,1,92
+Martial Artist,,Weapon Skill Bonus,93
+Master (Profession),,Dexterity Bonus,94
+Master of Disguise,,Fellowship Bonus,95
+Master Orator,,Fellowship Bonus,96
+Menacing,,Strength Bonus,97
+Mercenary,,Fellowship Bonus,98
+Mimic,,Initiative Bonus,99
+Night Vision,,Initiative Bonus,100
+Nimble Fingered,,1,101
+Noble Blood (Galactic Aristocracy),,1,102
+Nose for Trouble,,Initiative Bonus,103
+Numismatics,,Initiative Bonus,104
+Orientation,,Initiative Bonus,105
+Pain-Sworn,,Toughness Bonus,106
+Panhandle,,Fellowship Bonus,107
+Perfect Pitch,,Initiative Bonus,108
+Pilot,,Initiative Bonus,109
+Public Speaker,,Fellowship Bonus,110
+Quick Draw,,Initiative Bonus,111
+Rapid Reload,,Dexterity Bonus,112
+Reaction Strike,,Initiative Bonus,113
+Regeneration (Minor),,1,114
+Relentless,,Agility Bonus,115
+Resistance (Threat),,Toughness Bonus,116
+Resolute,,Strength Bonus,117
+Reversal,,Weapon Skill Bonus,118
+Riposte,,Agility Bonus,119
+Robust,,Toughness Bonus,120
+Roughrider,,Agility Bonus,121
+Rover,,Agility Bonus,122
+Savant (Lore),,Intelligence Bonus,123
+Savvy,,1,124
+Scale Sheer Surface,,Strength Bonus,125
+Scavenger,,Initiative Bonus,126
+Schemer,,Intelligence Bonus,127
+Seasoned Traveller,,Intelligence Bonus,128
+Secret Identity,,Intelligence Bonus,129
+Shadow,,Agility Bonus,130
+Sharp,,1,131
+Sharpshooter,,1,132
+Shieldsman,,Strength Bonus,133
+Sixth Sense,,Initiative Bonus,134
+Slayer,,1,135
+Small,,1,136
+Sniper,,4,137
+Spacer,,Agility Bonus,138
+Speedreader,,Intelligence Bonus,139
+Sprinter,,Strength Bonus,140
+Step Aside,,Agility Bonus,141
+Stone Soup,,Toughness Bonus,142
+Stout-Hearted,,Willpower Bonus,143
+Strider,,Agility Bonus,144
+Strike Mighty Blow,,Strength Bonus,145
+Strike to Injure,,Initiative Bonus,146
+Strike to Stun,,Weapon Skill Bonus,147
+Strong Back,,Strength Bonus,148
+Strong Legs,,Strength Bonus,149
+Strong Swimmer,,Strength Bonus,150
+Strong-Minded,,Willpower Bonus,151
+Sturdy,,Strength Bonus,152
+Suave,,1,153
+Super Numerate,,Intelligence Bonus,154
+Supportive,,Fellowship Bonus,155
+Sure Shot,,Initiative Bonus,156
+Surgery,,Intelligence Bonus,157
+Surgical Precision,,Intelligence Bonus,158
+Tactician,,Intelligence Bonus,159
+Tenacious,,Toughness Bonus,160
+Tinker,,Dexterity Bonus,161
+Trapper,,Initiative Bonus,162
+Trick Riding,,Agility Bonus,163
+Unshakeable,,Toughness Bonus,164
+Vacuum Legs,,Toughness Bonus,165
+Very Resilient,,1,166
+Very Strong,,1,167
+Vice (Target),,Willpower Bonus,168
+War Leader,,Fellowship Bonus,169
+Warrior Born,,1,170
+Wealthy,,None,171
+Well-Prepared,,Initiative Bonus,172
+Force Sensitive (Tradition),,1,178
+Force Sense (Discipline),,Initiative Bonus,179
+Force Control (Discipline),,Willpower Bonus,180
+Force Alter (Discipline),,Fellowship Bonus,181
+Force Specialty,,None,182
+Tradition Adept,,1,183
+Force Sight,,Initiative Bonus,184
+Force Visions,,Initiative Bonus,185
+Detect Force Artefact,,Initiative Bonus,186
+Force Fury,,Fellowship Bonus,187
+Pure Soul,,Willpower Bonus,188
+Foretold,,1,189
+Force Resistance,,1,190
+Armoured Adept,,Toughness Bonus,191
+Code (Tradition),,1,192
+Wild Talent,,1,193
+Force Sorcery (Tradition),,1,194
+Dark Side Sorcery,,Number of spells available,195
+Minor Sorcery,,1,196
+Force Attunement,,Initiative Bonus,197
+Fluent Incantation,,Initiative Bonus,198
+Sense Sorcery,,Initiative Bonus,199
+Ritual Ward,,Willpower Bonus,200

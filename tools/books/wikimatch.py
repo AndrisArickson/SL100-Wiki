@@ -92,6 +92,11 @@ def infobox(text):
 class Wiki:
     def __init__(self):
         con = C.db_connect()
+        if not con.execute("SELECT 1 FROM pages LIMIT 1").fetchone():
+            # db_connect() falls back to an empty DB when the wiki drive can't be locked (e.g. over a remote link);
+            # matching against it would overwrite every report with 'none'. Stop instead.
+            sys.exit("ERROR: the wiki page database is empty or unreachable; not rewriting the match reports. "
+                     "Run this on the machine that holds SL100-Wiki/data/wiki.db.")
         self.path = {}
         self.by_norm = {}
         self.by_code = defaultdict(set)

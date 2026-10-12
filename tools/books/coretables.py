@@ -155,6 +155,12 @@ def main():
                      ("core_equipment", lambda L: simple(L, "Table 7-4: Equipment", "Item")),
                      ("core_tradegoods", lambda L: simple(L, "Table 7-1: Trade Goods", "Item")),
                      ("core_services", lambda L: simple(L, "Table 7-5: Services", "Item"))):
+        checked = OUT / (name + "_checked.csv")   # hand-transcribed from the page image (2026-10-12): wins over the OCR parse
+        if checked.exists():
+            import shutil
+            shutil.copyfile(checked, OUT / (name + ".csv"))
+            print("%-16s from %s (hand-checked)" % (name, checked.name))
+            continue
         rows, bad = fn(lines)
         write(name, rows)
         allbad += ["[%s] %s" % (name, b) for b in bad]

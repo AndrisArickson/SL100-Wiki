@@ -28,8 +28,16 @@ case "${1:-help}" in
   export)     "$PY" tools/crawl.py export ;;
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
+  images-classify) shift; "$PY" tools/images.py classify "$@" ;;      # licence lookup for every image our pages use (~1 h)
+  images-fetch)   shift   # download + convert to WebP in the background; free -> images/full, fair/untagged -> images/local (not pushed)
+    rm -f data/STOP; nohup "$PY" tools/images.py fetch "$@" >> data/logs/images.log 2>&1 &
+    echo "Image fetch started (pid $!). Follow: tail -f data/logs/images.log   Stop: touch data/STOP" ;;
+  images-qc)      "$PY" tools/images.py qc && "$PY" tools/images.py export ;;   # score images, write meta/image_licences.tsv + image_review.tsv
+  images-status)  "$PY" tools/images.py status ;;
+  commons-check)  shift; rm -f data/STOP; "$PY" tools/commons.py check "$@" 2>&1 | tee -a data/logs/images.log ;;   # find Wikimedia Commons originals (--bucket free|fair|untagged|all)
+  commons-fetch)  shift; rm -f data/STOP; "$PY" tools/commons.py fetch "$@" 2>&1 | tee -a data/logs/images.log ;;   # download the matches from Commons (--include-probable)
   collate)    # re-run the collation reports (lookups and comparisons only; see docs/collation/README.md)
-    "$PY" tools/books/refblocks.py all && STATBLOCK_PREFIX=core_ "$PY" tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650 && "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
+    "$PY" tools/books/refblocks.py all && "$PY" tools/books/speciescheck.py && "$PY" tools/books/creatures.py && STATBLOCK_PREFIX=core_ "$PY" tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650 && "$PY" tools/books/statblocks.py run SW_Arms_and_Equipment_Guide_WTC88664 && "$PY" tools/books/coretables.py run && "$PY" tools/books/starships.py run && "$PY" tools/books/equipcheck.py && "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
       && "$PY" tools/collate/vocab.py && "$PY" tools/collate/ships_compare.py \
       && "$PY" tools/collate/careers_compare.py && "$PY" tools/collate/assembly.py && "$PY" tools/collate/species_xref.py && "$PY" tools/collate/wiki_pages.py ;;
   books)      # d20 source-book extraction / OCR (output: ../Source_Text, outside git)
@@ -58,6 +66,10 @@ Usage: ./wiki.sh <command>
   export     refresh meta/pages.tsv and meta/images.tsv
   rebuild    rebuild the local database from meta/pages.tsv (after cloning the repo)
   books pilot | run --batch N | status | qa | stop | log | compare A B   d20 book extraction/OCR (see docs/)
+  images-classify | images-fetch [--bucket free|fair|untagged] | images-qc | images-status
+             gather Wookieepedia images as WebP by licence; review them at /image-review
+  commons-check [--bucket free|fair|untagged|all] | commons-fetch [--include-probable]
+             find and download Wikimedia Commons originals of our images (report: docs/collation/commons_check.md)
   collate    re-run the collation reports (d20-to-wiki match, Legends check, talent/skill lists, vocabulary, ship comparison)
   push       commit new/changed files in chunks and push to GitHub
 EOF

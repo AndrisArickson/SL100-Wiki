@@ -1,169 +1,189 @@
 name,max,tests,line,text_chars,flags
-Accurate Shot,Ballistic Skill Bonus,,24,171,
-Acute Sense (Sense),Initiative Bonus Test: Perception (Sense),,30,503,
-Alley Cat,Initiative Bonus Test: Stealth (Urban),,36,141,
-Ambidextrous,"2 You can use your off-hand far better than most folk, either by training or innate talent",,42,150,
-Amphibious,1,,48,137,
-Argumentative,Fellowship Bonus,Charm Tests when arguing and debating,54,250,
-Artistic,Dexterity Bonus,Profession (Artist),60,424,
-Attractive,Fellowship Bonus,Charm Tests to influence those attracted to you,66,366,
-Battle Rage,Willpower Bonus,Melee Tests when Frenzied,72,130,
-Beat Blade,Weapon Skill Bonus,Melee for a Beat Blade,78,449,placeholder or page ref
-Beneath Notice,Fellowship Bonus,Stealth when in plain sight,84,524,
-Berserk Charge,Strength Bonus,Melee on a Round when you Charge,90,201,
-Blather,Fellowship Bonus,Charm to Blather,96,1119,
-,Intelligence Bonus Test: Research,,104,183,empty heading
-Break and Enter,Strength Bonus,Melee when forcing or breaking inanimate objects,111,214,
-Briber,Fellowship Bonus,Bribery,117,796,
-Cardsharp,,,123,635,no Max
-Careful Strike,Initiative Bonus,,129,319,
-Carouser,Toughness Bonus,"Charm at Parties, Gossip at Parties, Consume Alcohol",135,144,
-Cat-tongued,Fellowship Bonus,Charm when lying,141,231,
-Catfall,Agility Bonus,Athletics when falling,147,286,
-Combat Aware,Initiative Bonus,Perception during melee,153,215,
-Combat Master,Agility Bonus,,159,318,placeholder or page ref
-Combat Reflexes,Initiative Bonus,,165,128,
-Commanding Presence,,Leadership,171,317,no Max
-Concoct,Intelligence Bonus,Lore (Apothecary),177,211,
-Contortionist,Agility Bonus,Perform and Agility Tests when contorting helps,183,240,
-Coolheaded,1 You gain a permanent +5 bonus to your starting Willpower Characteristic this does not count towards your Advances,,189,0,little or no rules text
-Crack the Whip,Dexterity Bonus,Ride/Pilot Tests when Fleeing or Running,193,142,
-Craftsman (Profession),Dexterity Bonus,Profession (any one),199,205,
-Creature Affinity,Willpower Bonus,Charm Creature,205,307,
-Criminal,"None You are an active criminal making money from illegal sources, and you’re not always quiet about it. For the purposes of securing",,211,722,
-Datapad Literate,"1 You are one of the many literate citizens of the galaxy, comfortable reading and writing on a datapad, holo-display, or flimsiplast. You are assumed to be able to read and write all of the Languages you can speak",,217,0,little or no rules text
-Deadeye Shot,"1 You always hit an opponent right between the eyes… or wherever else you intended to hit. Instead of reversing the dice to determine which Hit Location is struck with your ranged weapons, you may pick a location",,221,0,little or no rules text
-Dealmaker,Fellowship Bonus,Haggle,226,317,
-Diceman,Intelligence Bonus,Gamble and Sleight of Hand when playing dice games,236,432,
-Dirty Fighting,Weapon Skill Bonus,Melee (Brawling),242,247,
-Disarm,Initiative Bonus,Melee Tests concerning this Talent,248,705,placeholder or page ref
-Distract,Agility Bonus,Athletics to Distract,254,290,
-Drilled,Weapon Skill Bonus,Melee Tests when beside an ally with Drilled,260,251,
-Dual Wielder,Agility Bonus,"Melee or Ranged when attacking with two weapons When armed with two weapons, you may attack with both for your Action",266,1255,
-,,,272,0,empty heading; no Max; little or no rules text
-Eidetic Memory,,,274,825,no Max
-Embezzle,Intelligence Bonus,Intelligence (Embezzling),280,637,
-Enclosed Fighter,Agility Bonus,Dodge in enclosed environments,286,290,
-Etiquette (Social Group),Fellowship Bonus,Charm and Gossip (Social Group),292,435,
-Fast Hands,Dexterity Bonus,"Sleight of Hand, Melee (Brawling) to touch an opponent",298,379,
-Fast Shot,Agility Bonus,Ranged when making a Fast Shot,307,588,
-Fearless (Enemy),Willpower Bonus,"Cool to oppose your Enemy’s Intimidate, Fear, and Terror",313,348,
-Feint,Weapon Skill Bonus,Melee (Fencing) for Feints,319,353,
-Field Dressing,Intelligence Bonus,Medicine during combat Rounds,325,255,
-Field Medic,,Profession (Medic),331,210,no Max
-Flee!,Agility Bonus,Athletics when Fleeing,337,148,placeholder or page ref
-Fleet Footed,1 You gain +1 to your Movement Attribute,,343,0,little or no rules text
-Frenzy,1 You can Frenzy as described on page 190,,347,254,placeholder or page ref
-Frightening,Strength Bonus Anyone sane thinks twice before approaching you,,353,115,placeholder or page ref
-Furious Assault,Agility Bonus,Melee when making extra attacks,359,278,
-Gregarious,Fellowship Bonus,Gossip Tests with travellers,365,149,
-Hardy,"Toughness Bonus You gain a permanent addition to your Wounds, equal to your Toughness Bonus",,371,97,
-Heavy Gunner,Dexterity Bonus,,377,172,
-Hatred (group),Willpower Bonus,Willpower (Resist Group),383,244,placeholder or page ref
-Hunter’s Eye,Initiative Bonus,Any Test to trail or capture game,389,407,placeholder or page ref
-Hyperlane Pilot,Initiative Bonus,Any Lore Test concerning hyperlane matters,395,421,
-Impassioned Zeal,Fellowship Bonus,Charm when speaking about your cause,401,385,placeholder or page ref
-Implacable,Toughness Bonus It takes a lot to finish you off,,421,147,
-In-fighter,Dexterity Bonus,"Melee when in-fighting, or to enter in-fighting",427,252,placeholder or page ref
-Inspiring,Fellowship Bonus,Leadership during war,433,188,placeholder or page ref
-Iron Jaw,Toughness Bonus,Endurance tests to resist Stunned,439,253,
-Iron Will,Willpower Bonus,Cool Tests to oppose Intimidate,445,210,
-Jump Up,1 You are hard to keep down,,451,332,
-Kingpin,1 You have earned an air of respectability despite your nefarious ways,,457,54,
-Lightning Reflexes,1 You gain a permanent +5 bonus to your starting Agility Characteristic (this does not count towards your Advances),,463,0,little or no rules text
-Linguistics,Intelligence Bonus,Language (All) You have a natural affinity for languages,467,303,
-Lip Reading,Initiative Bonus,Perception Tests concerning this Talent,473,244,
-Luck,Fellowship Bonus,,479,162,
-Magnum Opus,None,,485,587,
-Marksman,1 You gain a permanent +5 bonus to your starting Ballistic Skill (this does not count towards your Advances),,491,0,little or no rules text
-Master of Disguise,Fellowship Bonus,Entertain (Acting) when being someone else,495,232,
-Master Orator,Fellowship Bonus You are skilled at firing up crowds,,501,119,
-Master (Profession),Dexterity Bonus,Any appropriate Extended Profession Tests,507,190,
-Menacing,Strength Bonus,Intimidate,513,113,
-Mimic,Initiative Bonus,Entertain (Acting) Tests where accents are important,519,311,
-Night Vision,Initiative Bonus,Perception tests in low-light conditions,525,465,
-Nimble Fingered,1 You gain a permanent +5 bonus to your starting Dexterity (this does not count towards your Advances),,533,0,little or no rules text
-Noble Blood (Galactic Aristocracy),1,Any Test influenced by your Status,537,805,
-Nose for Trouble,Initiative Bonus,Any Test to spot Troublemakers,555,539,
-Numismatics,Initiative Bonus,Evaluate to establish the worth of credits,561,348,
-Orientation,Initiative Bonus Tests: Navigation,,567,174,
-Pain-Sworn,Toughness Bonus,Any for resisting the Dark Side,573,285,
-Panhandle,Fellowship Bonus,Charm (Begging),579,187,placeholder or page ref
-Perfect Pitch,Initiative Bonus,"Entertain (Sing), Language (Tonal Languages, such as Huttese, Shyriiwook, and Sith)",586,254,
-Pilot,Initiative Bonus,Pilot (Starship) or Pilot (Capital Ship),592,318,
-Public Speaker,Fellowship Bonus,,599,257,placeholder or page ref
-Rapid Reload,Dexterity Bonus,,625,136,
-Reaction Strike,Initiative Bonus,Initiative Tests concerning this Talent,631,464,
-Regeneration (Minor),,,637,906,no Max
-Relentless,Agility Bonus,,648,305,
-Resistance (Threat),Toughness Bonus,All those to resist the associated Threat Your strong constitution allows you to more readily survive a specific threat,654,203,
-Resolute,Strength Bonus,,662,115,
-Reversal,Weapon Skill Bonus,Melee when defending,668,298,
-Riposte,Agility Bonus,Melee when defending,674,314,
-Robust,Toughness Bonus,,680,252,
-Roughrider,Agility Bonus,Ride (Bantha/Tauntaun) or Pilot (Speeder Bike) when in combat,686,263,
-Rover,Agility Bonus,Stealth Tests in a Rural environment,692,236,
-Savant (Lore),Intelligence Bonus,Lore (chosen Lore),698,363,
-Savvy,1 You gain a permanent +5 bonus to your starting Intelligence Characteristic (this does not count towards your Advances),,704,0,little or no rules text
-Scale Sheer Surface,Strength Bonus,Climb,708,260,
-Scavenger,Initiative Bonus,Any Test involving scavenging,715,288,
-Schemer,Intelligence Bonus Tests: Intelligence Tests concerning this Talent,,721,320,
-Seasoned Traveller,Intelligence Bonus,Any Lore Test concerning local detail,727,340,
-Secret Identity,Intelligence,Entertain (Acting) Tests to support your secret identities,733,563,
-Shadow,,Any Test involving Shadowing,739,248,no Max; placeholder or page ref
-Sharp,1 You gain a permanent +5 bonus to your starting Initiative Characteristic (this does not count towards your Advances),,745,0,little or no rules text
-Sharpshooter,1 You can make aimed shots of exceptional accuracy,,749,92,
-Shieldsman,Strength Bonus,Any Test to defend with a shield,755,251,
-Sixth Sense,Initiative Bonus,Intuition Tests involving your Sixth Sense,761,263,
-Spacer,Agility Bonus,Pilot (any Spaceworthy Vessel),767,310,
-Speedreader,Intelligence Bonus,Research and Language Tests where speed of reading is important,773,382,
-Sprinter,Strength Bonus,Athletics Tests concerning Running You are a swift runner,779,56,
-Slayer,1,,785,497,placeholder or page ref
-Small,"1 You are much shorter than most folk in the galaxy. Common in species such as Jawas, Ewoks, and Ugnaughts. The full rules for different Sizes are found in Chapter 12: Bestiary on page 341",,791,0,little or no rules text; placeholder or page ref
-Sniper,4,Ranged (Long–Extreme Range),795,218,
-Step Aside,Agility Bonus,Dodge Tests to activate this Talent,801,275,
-Stone Soup,Toughness Bonus,Endurance Tests to resist hunger,807,255,placeholder or page ref
-Stout-Hearted,Willpower Bonus,Cool Tests to remove Broken Conditions,813,226,placeholder or page ref
-Strider (Terrain),Agility Bonus,Athletics Tests to traverse the Terrain,819,266,
-Strike Mighty Blow,Strength Bonus You know how to hit hard! You deal your level of Strike Mighty Blow in extra Damage with melee weapons,,825,0,little or no rules text
-Strike to Injure,,,829,189,no Max
-Strike to Stun,,,835,327,no Max
-Strong Legs,,,841,174,no Max
-Strong Swimmer,,,847,247,no Max
-Strong-Minded,,,853,137,no Max
-Sturdy,,,859,210,no Max
-Suave,,,865,129,no Max
-Super Numerate,,,871,251,no Max
-Supportive,,,877,374,no Max
-Sure Shot,,,883,188,no Max
-Surgery,,,889,777,no Max
-Tenacious,,,895,319,no Max
-Tinker,,,901,221,no Max
-Trapper,,,907,304,no Max
-Trick Riding,,,913,314,no Max
-Very Resilient,,,919,128,no Max
-Very Strong,,,925,127,no Max
-Vacuum Legs,Toughness Bonus,All those taken to resist Space-Sickness,931,189,
-War Leader,,,937,287,no Max
-Warrior Born,,,943,115,no Max
-Wealthy,,,949,178,no Max
-Well-Prepared,,,955,636,no Max
-Dark Magic (Lore),Number of Spells available,,963,278,
-Detect Force Artefact,Initiative Bonus,Intuition tests to detect Force artefacts,969,219,
-Force Attunement,Initiative Bonus Test: Channel (Any),,975,159,
-Force Magic (Lore),"1 You either study one of the Lores of Force Magic — Dathomerian Witch, You may now memorise Force spells from your chosen Lore for the following cost in XP. Number of Spells Currently Known Intelligence Bonus × 1 Intelligence Bonus × 2 Intelligence Bonus × 3 Intelligence Bonus × 4 ...and so on",,981,446,
-Force Resistance,1 You are resistant to the Force,,991,239,placeholder or page ref
-Force Sensitive (Tradition),1 You are part of a Force tradition and can access the Force through its teachings. You may only know one Force Tradition,,997,281,
-Force Sensitive (Sight),Initiative Bonus,Any Test to detect the currents of the Force,1003,119,placeholder or page ref
-Force Ability - Alter,Fellowship Bonus,Force Alter,1009,680,
-Force Ability - Control,Willpower Bonus,Control with the Force,1022,461,
-Force Ability - Sense,Intuition Bonus,Force Sense,1038,385,
-Force Specialty,,,1052,625,no Max
-Force Visions,Initiative Bonus,Intuition Tests when on a Force nexus,1103,267,
-Force Fury,Fellowship Bonus Your Force powers carry the fury you feel for your enemies. You deal +1 Damage with Force powers per level in this Talent and potentially gain Dark Side Influence,,1109,0,little or no rules text
-Foretold,"1 At an early age, a Force seer drew you aside and foretold your death in a vision",,1113,203,
-Instinctive Diction,,Language (Magick) when casting,1119,259,no Max
-Magical Sense,Initiative Bonus,Intuition Tests to detect Wizards and Witches,1125,183,
-Petty Magic,,,1131,667,no Max
-Pure Soul,"Willpower Bonus Your spirit is strongly aligned with the Light Side, resistant to the temptations of darkness. You may gain extra Corruption points equal to your level of Light-Sided before having to Test for falling to the Dark Side",,1137,0,little or no rules text
-Use The Force (Tradition),1 You are deeply attuned to one Force tradition and can call deeply on its power. You may purchase extra Tradition powers for 100 XP per power you currently know,,1141,0,little or no rules text
+Accurate Shot,,,34,306,no Max
+Ace Pilot,,,39,421,no Max
+Acute Sense (Sense),,,44,563,no Max
+Alley Cat,,,49,314,no Max
+Ambidextrous,,,54,280,no Max
+Amphibious,,,59,293,no Max
+Argumentative,,,64,423,no Max
+Artistic,,,69,493,no Max
+Attractive,,,74,404,no Max
+Battle Rage,,,79,290,no Max
+Beat Blade,,,84,545,no Max
+Beneath Notice,,,89,593,no Max
+Berserk Charge,,,94,271,no Max
+Blather,,,99,867,no Max
+Blood Feud,,,104,581,no Max
+Bookish,,,109,323,no Max
+Break and Enter,,,114,341,no Max
+Briber,,,119,351,no Max
+Cardsharp,,,124,634,no Max
+Careful Strike,,,129,333,no Max
+Carouser,,,134,362,no Max
+Cat-tongued,,,139,347,no Max
+Catfall,,,144,348,no Max
+Clan Markings,,,149,538,no Max
+Combat Aware,,,154,302,no Max
+Combat Master,,,159,369,no Max
+Combat Reflexes,,,164,233,no Max
+Commanding Presence,,,169,383,no Max
+Concoct,,,174,329,no Max
+Contortionist,,,179,348,no Max
+Coolheaded,,,184,195,no Max
+Crack the Whip,,,189,273,no Max
+Craftsman (Profession),,,194,377,no Max
+Creature Affinity,,,199,416,no Max
+Criminal,,,204,723,no Max
+Datapad Use,,,209,489,no Max
+Deadeye Shot,,,214,238,no Max
+Dealmaker,,,219,387,no Max
+Diceman,,,226,589,no Max
+Dirty Fighting,,,231,399,no Max
+Disarm,,,236,726,no Max
+Distract,,,241,469,no Max
+Drilled,,,246,445,no Max
+Droid Companion,,,251,612,no Max
+Dual Wielder,,,256,900,no Max
+Duct Crawler,,,261,337,no Max
+Eidetic Memory,,,266,721,no Max
+Embezzle,,,271,710,no Max
+Enclosed Fighter,,,276,414,no Max
+Etiquette (Social Group),,,281,545,no Max
+Fast Hands,,,286,479,no Max
+Fast Shot,,,291,631,no Max
+Fearless (Enemy),,,296,452,no Max
+Feint,,,301,408,no Max
+Field Dressing,,,306,345,no Max
+Field Medic,,,311,293,no Max
+First Strike,,,316,367,no Max
+Flee!,,,321,217,no Max
+Fleet Footed,,,326,138,no Max
+Frenzy,,,331,294,no Max
+Frightening,,,336,319,no Max
+Furious Assault,,,341,316,no Max
+Gregarious,,,346,293,no Max
+Gunnery Chief,,,351,427,no Max
+Hardy,,,356,256,no Max
+Hatred (Group),,,361,334,no Max
+Heavy Gunner,,,366,262,no Max
+Heirloom Weapon,,,371,603,no Max
+Hunter's Eye,,,376,444,no Max
+Hyperlane Pilot,,,381,540,no Max
+Impassioned Zeal,,,386,364,no Max
+Implacable,,,391,227,no Max
+In-fighter,,,396,355,no Max
+Inspiring,,,401,452,no Max
+Iron Jaw,,,418,315,no Max
+Iron Will,,,423,305,no Max
+Jump Up,,,428,406,no Max
+Kingpin,,,433,236,no Max
+Large,,,438,511,no Max
+Lightning Reflexes,,,443,183,no Max
+Linguistics,,,448,443,no Max
+Lip Reading,,,453,322,no Max
+Luck,,,458,232,no Max
+Magnum Opus,,,463,482,no Max
+Marksman,,,468,243,no Max
+Martial Artist,,,473,435,no Max
+Master (Profession),,,478,458,no Max
+Master of Disguise,,,483,446,no Max
+Master Orator,,,488,279,no Max
+Menacing,,,493,282,no Max
+Mercenary,,,498,547,no Max
+Mimic,,,503,540,no Max
+Night Vision,,,508,579,no Max
+Nimble Fingered,,,513,212,no Max
+Noble Blood (Galactic Aristocracy),,,518,916,no Max
+Nose for Trouble,,,529,616,no Max
+Numismatics,,,534,464,no Max
+Orientation,,,539,365,no Max
+Pain-Sworn,,,544,468,no Max
+Panhandle,,,549,329,no Max
+Perfect Pitch,,,554,482,no Max
+Pilot,,,559,466,no Max
+Public Speaker,,,564,401,no Max
+Quick Draw,,,581,437,no Max
+Rapid Reload,,,586,254,no Max
+Reaction Strike,,,591,482,no Max
+Regeneration (Minor),,,596,616,no Max
+Relentless,,,601,303,no Max
+Resistance (Threat),,,606,402,no Max
+Resolute,,,611,243,no Max
+Reversal,,,616,347,no Max
+Riposte,,,621,391,no Max
+Robust,,,626,263,no Max
+Roughrider,,,631,341,no Max
+Rover,,,636,350,no Max
+Savant (Lore),,,641,421,no Max
+Savvy,,,646,165,no Max
+Scale Sheer Surface,,,651,357,no Max
+Scavenger,,,656,396,no Max
+Schemer,,,661,482,no Max
+Seasoned Traveller,,,666,432,no Max
+Secret Identity,,,671,595,no Max
+Shadow,,,676,351,no Max
+Sharp,,,681,174,no Max
+Sharpshooter,,,686,381,no Max
+Shieldsman,,,691,384,no Max
+Sixth Sense,,,696,456,no Max
+Slayer,,,701,684,no Max
+Small,,,706,227,no Max
+Sniper,,,711,339,no Max
+Spacer,,,716,490,no Max
+Speedreader,,,721,539,no Max
+Sprinter,,,726,243,no Max
+Step Aside,,,731,352,no Max
+Stone Soup,,,736,422,no Max
+Stout-Hearted,,,741,352,no Max
+Strider,,,746,509,no Max
+Strike Mighty Blow,,,751,228,no Max
+Strike to Injure,,,756,202,no Max
+Strike to Stun,,,761,421,no Max
+Strong Back,,,766,304,no Max
+Strong Legs,,,771,182,no Max
+Strong Swimmer,,,776,290,no Max
+Strong-Minded,,,781,236,no Max
+Sturdy,,,786,297,no Max
+Suave,,,791,185,no Max
+Super Numerate,,,796,316,no Max
+Supportive,,,801,450,no Max
+Sure Shot,,,806,270,no Max
+Surgery,,,811,826,no Max
+Surgical Precision,,,816,391,no Max
+Tactician,,,821,542,no Max
+Tenacious,,,826,356,no Max
+Tinker,,,831,350,no Max
+Trapper,,,836,412,no Max
+Trick Riding,,,841,415,no Max
+Unshakeable,,,846,372,no Max
+Vacuum Legs,,,851,230,no Max
+Very Resilient,,,856,183,no Max
+Very Strong,,,861,163,no Max
+Vice (Target),,,866,471,no Max
+War Leader,,,871,367,no Max
+Warrior Born,,,876,184,no Max
+Wealthy,,,881,253,no Max
+Well-Prepared,,,886,1763,no Max
+Force Sensitive (Tradition),,,899,680,no Max
+Force Sense (Discipline),,,904,623,no Max
+Force Control (Discipline),,,909,653,no Max
+Force Alter (Discipline),,,914,770,no Max
+Force Specialty,,,919,1686,no Max
+Tradition Adept,,,942,456,no Max
+Force Sight,,,947,422,no Max
+Force Visions,,,952,406,no Max
+Detect Force Artefact,,,957,387,no Max
+Force Fury,,,962,255,no Max
+Pure Soul,,,967,270,no Max
+Foretold,,,972,304,no Max
+Force Resistance,,,977,394,no Max
+Armoured Adept,,,982,377,no Max
+Code (Tradition),,,987,577,no Max
+Wild Talent,,,992,705,no Max
+Force Sorcery (Tradition),,,997,711,no Max
+Dark Side Sorcery,,,1011,396,no Max
+Minor Sorcery,,,1016,448,no Max
+Force Attunement,,,1028,279,no Max
+Fluent Incantation,,,1033,275,no Max
+Sense Sorcery,,,1038,311,no Max
+Ritual Ward,,,1043,559,no Max

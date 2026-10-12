@@ -1,0 +1,32 @@
+name,table,field,value,note
+Lightsaber,weapons,cost,-,Not sold on any open market: built by the wielder or bought on the black market at whatever the seller dares ask.
+Lightsaber,weapons,avail,Unique,
+Lightsaber,weapons,legality,I,
+Lightsaber,weapons,enc,1,
+Great Lightsaber,weapons,avail,Unique,
+Great Lightsaber,weapons,cost,-,Not sold on any open market.
+Double Lightsaber,weapons,avail,Unique,
+Double Lightsaber,weapons,cost,-,Not sold on any open market.
+"Lightsaber, double",weapons,avail,Unique,
+"Lightsaber, double",weapons,cost,-,Not sold on any open market.
+Stun Baton,weapons,enc,0,08 value kept (ruling 12 Oct)
+Gaderffii (Gaffi Stick),weapons,enc,1,08 value kept (ruling 12 Oct)
+Bowcaster,weapons,enc,3,08 value kept (ruling 12 Oct)
+"Blaster, E-Web",weapons,enc,5,Crew-served; carried broken down by two.
+Blaster cannon,weapons,enc,4,Crew-served.
+Field Kit,gear,enc,1,ruling 12 Oct
+Flight Suit,gear,enc,1,ruling 12 Oct
+Fusion Lantern,gear,enc,1,ruling 12 Oct (a camp lantern; a hand lamp would be 0)
+Sensor Pack,gear,enc,2,ruling 12 Oct
+Sensor Pack Mastercraft,gear,enc,2,ruling 12 Oct
+Breath Mask,gear,enc,0,ruling 12 Oct
+Datapad,gear,enc,0,SL100 scale: not decently big
+Bacta Tank,gear,enc,250,fixture; not carried
+Kolto Tank,gear,enc,250,fixture; not carried
+Blaster Carbine,weapons,enc,1,"ruling 12 Oct: carbine is arm-sized, 1"
+Force Pike,weapons,enc,2,"long but light, like a WFRP spear or quarterstaff (Enc 2)"
+Bowcaster,weapons,enc,3,heavy Wookiee weapon; WFRP two-handed weapons and the long rifle are Enc 3
+Stormtrooper armor,armour,type,Medium,not powered in Legends: plastoid plates over a body glove
+Stormtrooper armor,armour,enc,6,
+Stormtrooper armor,armour,ap,3,plastoid default
+Stormtrooper armor,armour,resist,1,

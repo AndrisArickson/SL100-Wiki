@@ -62,20 +62,25 @@ def species():
 
 
 def origins():
+    """03 Origin: the d100 table (D100 | Origin | +5 to | and +5 to one of) and one ### section per world."""
     t = txt("03")
     table = {}
-    for m in re.finditer(r"^\|\s*([\d\-–]+|00)\s*\|\s*\*\*(.+?)\*\*\s*\|\s*(.*?)\s*\|\s*$", t, re.M):
-        table[plain(m.group(2))] = (m.group(1), plain(m.group(3)))
+    for m in re.finditer(r"^\|\s*([\d\-–]+)\s*\|\s*\*\*(.+?)\*\*\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$", t, re.M):
+        table[plain(m.group(2))] = (m.group(1), plain(m.group(3)), plain(m.group(4)))
     rows = []
-    for m in re.finditer(r"^## \*\*(.+?)\*\*:?\s*$(.*?)(?=^## |\Z)", t, re.M | re.S):
-        name, body = plain(m.group(1)).rstrip(":"), m.group(2)
-        ch = re.search(r"Starting Characteristics:\*\*\s*(.*)", body)
+    for m in re.finditer(r"^### (.+?)\s*$(.*?)(?=^##|\Z)", t, re.M | re.S):
+        name, body = plain(m.group(1)), m.group(2)
         sk = re.search(r"Starting Skills:\*\*\s*(.*)", body)
-        desc = plain(body.strip().split("\n")[0]) if body.strip() else ""
+        if not sk:
+            continue
+        ch = re.search(r"Starting Characteristics:\*\*\s*(.*)", body)
+        ex = re.search(r"Example worlds:\*\*\s*(.*)", body)
+        desc = plain(body.strip().split("\n")[0])
         short = re.sub(r"\s+Worlds?$", "", name)
-        d100, tab_ch = next(((v[0], v[1]) for k, v in table.items() if k.lower().startswith(short.lower()[:5])), ("", ""))
-        rows.append({"origin": name, "d100": d100, "characteristics": plain(ch.group(1)) if ch else tab_ch,
-                     "starting_skills": plain(sk.group(1)) if sk else "", "description": desc[:300]})
+        d100, fixed, choice = table.get(short, ("", "", ""))
+        rows.append({"origin": name, "d100": d100, "fixed_plus5": fixed, "choice_plus5": choice,
+                     "characteristics": plain(ch.group(1)) if ch else "", "starting_skills": plain(sk.group(1)),
+                     "examples": plain(ex.group(1)) if ex else "", "description": desc[:300]})
     return rows
 
 
@@ -85,6 +90,8 @@ def factions():
         s = ln.strip()
         if s.startswith("## "):
             sec, sub = plain(s[3:]), ""
+        elif sec in ("How Factions work", "FACTIONS"):
+            continue
         elif s.startswith("### "):
             sub = plain(s[4:])
         elif s.startswith("|"):
@@ -140,7 +147,7 @@ def main():
           "| Step | Layer (document) | What it gives the character, as written | Where the detail is |", "|---|---|---|---|",
           "| 1 | Characteristics (01) | %s | 01, 'Determine Characteristics' |" % quote("01", r"Step 1:\s*(.*?)(?:\s+If you feel|\n)"),
           "| 2 | Species (02) | characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons | species.csv (%d species) |" % len(sp),
-          "| 3 | Origin - world upbringing (03) | %s | origins.csv (%d world types) |" % (quote("03", r"World format:\s*(.*?)$"), len(og)),
+          "| 3 | Origin - world upbringing (03) | %s | origins.csv (%d world types) |" % (quote("03", r"- \*\*Skills:\*\* (.*?)$"), len(og)),
           "| 4 | Career (05) | class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics | careers_l1.csv (level 1 of %d careers); 05 |" % len(ca),
           "| 5 | Faction (04) | %s | factions.csv (%d entries) |" % (quote("04", r"## CAREER PATH & FACTION\s*(.*?)\n"), len(fa)), "",
           "## What each layer says about the next (cross-references in the text)", "",
@@ -153,10 +160,12 @@ def main():
     gaps += ["- Species with missing fields: " + "; ".join("%s (%s)" % (r["species"], r["other"][9:]) for r in sp if r["other"])]
     if "nine" in txt("01").lower():
         gaps.append("- 01 says 'nine Characteristics'; the 05 Advance Schemes and the Roll20 sheet have ten (with Dex).")
-    gaps.append("- 01 sends you from Characteristics straight to '2) Origin'; Species (02) is not mentioned in 01's steps.")
+    if "Origin" in txt("01") and not re.search(r"Species", txt("01")):
+        gaps.append("- 01 sends you from Characteristics straight to '2) Origin'; Species (02) is not mentioned in 01's steps.")
     gaps.append("- 03's d100 table: values as printed are %s." % ", ".join(r["d100"] or "?" for r in og))
-    gaps.append("- 04 gives Faction lore and eras but no game effects (no skills, talents, characteristics or Patron rules are written).")
-    gaps.append("- The documents do not say where Faction sits in the creation order or how Origin changes the chance of a Faction.")
+    if "How Factions work" not in txt("04"):
+        gaps.append("- 04 gives Faction lore and eras but no game effects (no skills, talents, characteristics or Patron rules are written).")
+        gaps.append("- The documents do not say where Faction sits in the creation order or how Origin changes the chance of a Faction.")
     md += gaps + ["", "## Species at a glance", "", "| Species | Characteristics | Talents | Mv | Fate | Res | Extra |", "|---|---|---|---|---|---|---|"]
     md += ["| %s | %s | %s | %s | %s | %s | %s |" % (r["species"], r["characteristics"], r["talents"][:90], r["movement"], r["fate"], r["resilience"], r["extra_points"]) for r in sp]
     md += ["", "## Origins at a glance", "", "| d100 | Origin | Characteristics | 12 starting skills |", "|---|---|---|---|"]

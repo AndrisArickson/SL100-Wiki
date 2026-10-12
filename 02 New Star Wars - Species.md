@@ -8,9 +8,9 @@ Even the slowest Arkanian was able to memorize entire libraries of knowledge and
 
 The most defining trait of the Arkanian species was their arrogance which stemmed from their belief that they were the pinnacle of evolution.
 
-I**NT +20  WILL +10  T +10  FEL -10     Talents:&#32;**Bookish, Datapad Literate**,&#32;**Eidetic Memory, Night Vision (Thermal), Resistance (Cold)
+I**NT +20  WILL +10  T +10  FEL -10     Talents:&#32;**Bookish, Datapad Use**,&#32;**Eidetic Memory, Night Vision (Thermal), Resistance (Cold)
 
-**Mv**: 4 **Fate**: 1 **Resilience**: 1 **Extra Points**: 2
+**Mv**: 4 **Destiny**: 1 **Resilience**: 1 **Extra Points**: 2
 
 Arkanians are capable of seeing into the infrared spectrum, and their eyes are sensitive to sources of extreme heat.
 
@@ -19,18 +19,18 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 | Besalisks are a sentient species of humanoids with four arms. The superior arms dominated over the inferior ones. They average in height between 1.88 and 2.36 meters and had green, orange, or brown colored skin. Their large hands and feet both end in four digits and large brown nails. Besalisks are thick-set, and can have bloated stomachs. Besalisks also possessed a bony, three-pronged head crest and an inflatable wattle. They had wide mouths, and some Besalisks had large, pudgy lips, though not all. Besalisks could sport black or brown hair on both their faces and their heads and could have brown, orange, or yellow eyes. At least one Besalisk was known to be Force-sensitive. |  |
 | --- | --- |
 
-**Characteristics:&#32;**S +10  T +10  AGI -10  FEL +10 **Talents:&#32;**Datapad Literate**,** Ambidextrous, roll 3 talents from the random talents list.
+**Characteristics:&#32;**S +10  T +10  AGI -10  FEL +10 **Talents:&#32;**Datapad Use**,** Ambidextrous, roll 3 talents from the random talents list.
 
-**Movement**: 4, **Fate**: 1, **Resilience**: 1, **Extra points**: 2
+**Movement**: 4, **Destiny**: 1, **Resilience**: 1, **Extra points**: 2
 
 [Chironian](https://starwars.fandom.com/wiki/Chironian)
 
 |  | The Chironians were a sentient species distinguished by their centauriform anatomy; while their torso, arms and head resembled those of a humanoid, their lower body was that of a four-legged equine. Another distinctive Chironian feature was the two transparent, smooth horns grown each year from the forehead. These horns started as small velvet-covered knobs, which eventually broke through as fully-fledged horns. If the velvet was cut prematurely, the wound could prove fatal. At least some juvenile Chironians were red-gold in color with white spots on their flanks and back; this color darkened with age and the spots faded. Chironians could grow long manes and tails.<br/><br/> |
 | --- | --- |
 
-**S** +20  **Talents**: Datapad Literate**,&#32;**Stride (Sprinter?), roll 3 talents from the random talents list.
+**S** +20  **Talents**: Datapad Use**,&#32;**Sprinter, roll 3 talents from the random talents list.
 
-**Movement**: 7  **Fate**: 1  **Resilience**: 1, **Extra points**: 2
+**Movement**: 7  **Destiny**: 1  **Resilience**: 1, **Extra points**: 2
 
 **Size:** Large	 **Natural Weapon:&#32;**Hoof 2+SB & Horns 2+SB
 
@@ -42,9 +42,9 @@ The Chiss are generally taller than humans, with males averaging around 1.8 mete
 
 The Chiss are known for their secretive nature and have had little contact with the rest of the galaxy. However, they have been known to form alliances and engage in diplomacy when necessary.
 
-**I** +10  **S** +10  **WILL** +10  **Talents**: Datapad Literate**,&#32;**Night Vision (Thermal), Resistance (Cold), Strider (Cold)**,&#32;**Combat Aware
+**I** +10  **S** +10  **WILL** +10  **Talents**: Datapad Use**,&#32;**Night Vision (Thermal), Resistance (Cold), Strider (Cold)**,&#32;**Combat Aware
 
-**Mv**: 4  **Fate**: 1  **Resilience**: 1 **Extra Points**: 2
+**Mv**: 4  **Destiny**: 1  **Resilience**: 1 **Extra Points**: 2
 
 #### [Echani](https://starwars.fandom.com/wiki/Echani/Legends)
 
@@ -58,9 +58,9 @@ In the wider galaxy, Echani are respected for their combat prowess and their ski
 
 The Thyrasian sub species of Echani is known for their dark hair and skin, rather than the white skin and eyes that defined the Echani. They are fond of heavy weapons and often are trained in Ordinance class weapons.
 
-**WS** +10**&#32;&#32;BS** +10**&#32;&#32;AG** +10**&#32;&#32;Talents:&#32;**Combat Aware, Datapad Literate**,** Warrior Born, roll 2 talents from the random talents list.
+**WS** +10**&#32;&#32;BS** +10**&#32;&#32;AG** +10**&#32;&#32;Talents:&#32;**Combat Aware, Datapad Use**,** Warrior Born, roll 2 talents from the random talents list.
 
-**Movement**: 4  **Fate**: 1  **Resilience**: 1  **Extra points**: 2
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 
 #### [Human](https://starwars.fandom.com/wiki/Human/Legends)
@@ -71,9 +71,9 @@ Their sheer numbers and adaptability have made them a force to be reckoned with 
 
 **Choose any one Talent that you meet the prerequisites for at any stage during character creation. Gain +5 free ranks in any skill.**
 
-**Talents:&#32;**Datapad Literate**,** roll 4 talents from the random talents list.
+**Talents:&#32;**Datapad Use**,** roll 4 talents from the random talents list.
 
-**Movement**: 4, **Fate**: 2, **Resilience**: 1, **Extra points**: 3
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
 
 #### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor)
 
@@ -83,9 +83,9 @@ This environment has shaped their physiology, making them sensitive to oxygen, w
 
 Kel Dor are known for their strong connection to the Force and their natural aptitude for perception. They have a society that values wisdom and mentorship, with many Kel Dor serving as Jedi Masters. Notable Kel Dor include Jedi Master Plo Koon, who was a member of the Jedi Council during the last years of the Galactic Republic.
 
-**I** +10  **WP** +10  **AG** +10		**Talents**: Datapad Literate**,** Force Ability (Alter, Control or Sense), roll 3 talents from the random talents list
+**I** +10  **WP** +10  **AG** +10		**Talents**: Datapad Use**,** Force Sense, Force Control or Force Alter (Discipline), roll 3 talents from the random talents list
 
-**Movement**: 4, **Fate**: 2, **Resilience**: 1, **Extra points**: 1
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 1
 
 Any force specialisation related to Force - Sense that requires multiple selections of Force Specialisation is one rank cheaper.
 
@@ -97,9 +97,9 @@ Miraluka are often considered a subset of humans due to their similar appearance
 
 A thoughtful, careful and deliberate species without eyes that instead see through the Force, all Miraluka are Force sensitive and have their own Force tradition.
 
-**WP +10  Talent:&#32;**Datapad Literate**,** Force Sensitive (Sight), Force Ability - Sense,  roll 2 talents from the random talents list
+**WP +10  Talent:&#32;**Datapad Use**,** Force Sensitive (Sight), Force Sense (Discipline),  roll 2 talents from the random talents list
 
-**Movement**: 4, **Fate**: 2, **Resilience**: 1, **Extra points**: 2
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 2
 
 #### [Nautolan](https://starwars.fandom.com/wiki/Nautolan/Legends)
 
@@ -107,9 +107,9 @@ A thoughtful, careful and deliberate species without eyes that instead see throu
 
 Nautolans are excellent swimmers and possess low-light vision, making them well-adapted to aquatic environments. They are an egg-laying species, and their young emerge from the egg as tadpoles before developing into their adult form.
 
-**S** +10**&#32;&#32;T** +10  **I** +10  **Talent**: Acute Sense (Smell), Amphibious, Datapad Literate**,** Night Vision, Strong Swimmer
+**S** +10**&#32;&#32;T** +10  **I** +10  **Talent**: Acute Sense (Smell), Amphibious, Datapad Use**,** Night Vision, Strong Swimmer
 
-**Movement**: 4  **Fate**: 1  **Resilience**: 1  **Extra points**: 2
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 [Otolla Gungan](https://starwars.fandom.com/wiki/Otolla/Legends)
 
@@ -120,7 +120,7 @@ The Otolla lineage of Gungans was the race that Jar Jar Binks, Augara Jowil, and
 
 **Talents**: Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer
 
-**Movement**: 4, **Fate**: 2, **Resilience**: 1, **Extra points**: 3
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
 
 [Togruta](https://starwars.fandom.com/wiki/Togruta/Legends)
 
@@ -129,9 +129,9 @@ The Otolla lineage of Gungans was the race that Jar Jar Binks, Augara Jowil, and
 
 As predators, Togruta had sharp canine teeth, which they used to painlessly kill thimiars, their primary prey, causing the creatures' post-mortem death spasms. This gave outsiders the false impression that Togruta were venomous. However, Togruta did nothing to dispel this misconception and even took advantage of the intimidating presence it gave them.Togruta had the ability to sense proximity and movement of physical objects around them by means of their hollow montrals, which detected space ultrasonically. Togruta were also capable of seeing objects immensely far away from them, too remote for any human to see.
 
-**Talents**: Acute Sense (Hearing), Acute Sense (Sight), Datapad Literate**,** roll 2 talents from the random talents list
+**Talents**: Acute Sense (Hearing), Acute Sense (Sight), Datapad Use**,** roll 2 talents from the random talents list
 
-**Movement**: 4, **Fate**: 2, **Resilience**: 1, **Extra points**: 3
+**Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
 
 #### [Trandoshan](https://starwars.fandom.com/wiki/Trandoshan/Legends)
 
@@ -139,9 +139,9 @@ As predators, Togruta had sharp canine teeth, which they used to painlessly kill
 
 She watches over the Trandoshan people, blessing or punishing them based on the success of their hunts. For each successful hunt and quarry brought to ground, the Trandoshans receive jagannath, "divine marks," that show a Trandoshan's status in society when tallied. Trandoshans can stand up to 2.1 meters tall and weigh around 80 kilograms.
 
-**WS** +10  **S** +10**&#32;&#32;T** +10**&#32;&#32;Talents:** Datapad Literate**,** Night Sight(Thermal), Regenerate (Minor), Warrior Born, Roll 1 talent from the random talents list.
+**WS** +10  **S** +10**&#32;&#32;T** +10**&#32;&#32;Talents:** Datapad Use**,** Night Vision (Thermal), Regeneration (Minor), Warrior Born, Roll 1 talent from the random talents list.
 
-**Movement**: 4  **Fate**: 1  **Resilience**: 1  **Extra points**: 2
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 Trandoshan are capable of seeing into the infrared spectrum
 
@@ -153,11 +153,11 @@ Their skin is blue, and they have a unique blue blood. The females of the specie
 
 T'surr are not represented in the Galactic Senate due to their reputation as dangerous marauders. They have a low level of technology compared to the galactic standard but are capable of using technology scavenged from the ships of their victims.
 
-**WS** +10  **S** +20  **T** +10  **FEL**: -10  **Talents**: Datapad Literate**,** Hardy, Sturdy, Very Resilient, Warrior Born
+**WS** +10  **S** +20  **T** +10  **FEL**: -10  **Talents**: Datapad Use**,** Hardy, Sturdy, Very Resilient, Warrior Born
 
 **Size:&#32;**Medium or Large			**Natural Weapon -&#32;**Bite 3+SB & Horns 2+SB
 
-**Movement**: 4  **Fate**: 1  **Resilience**: 1  **Extra points**: 2
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 Secondary claw hands have STR without the +20 and may not manipulate tools, these vestigial claws are useful for cutting food for eating or whatever use a Player might think of.
 
@@ -165,9 +165,9 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 
 | Twi'leks are a species of humanoid aliens from the planet Ryloth in the Outer Rim Territories. They are known for their distinctive appearance, which includes colorful skin and large, fleshy head-tails called lekku. Twi'leks are a diverse species, with skin colors ranging from blue to green to orange.<br/><br/>Twi'leks are a proud and adaptable species, known for their ability to survive in harsh environments. They have a rich culture and a strong sense of community, often living in tight-knit clans. Twi'leks are also known for their grace and agility, which makes them excellent dancers and acrobats. |  |
 
-**AG** +10  **FEL**  +20  **T** +10 **&#32;WP** -10  **Talents**: Attractive or Beneath Notice, Datapad Literate**,** Roll 3 talents from the random talents list.
+**AG** +10  **FEL**  +20  **T** +10 **&#32;WP** -10  **Talents**: Attractive or Beneath Notice, Datapad Use**,** Roll 3 talents from the random talents list.
 
-**Movement**: 4  **Fate**: 1  **Resilience**: 1  **Extra points**: 2
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 #### [Weequay](https://starwars.fandom.com/wiki/Weequay/Legends)
 
@@ -179,15 +179,15 @@ Weequay communicate primarily through pheromones, which are undetectable to non-
 
 In the galaxy at large, Weequay are often found in the employ of the Hutt Clan, serving as mercenaries, bodyguards, or slaves. Some Weequay have managed to escape these hardships and have sought out the Alliance to Restore the Republic, using their skills to bring some good to the galaxy.
 
-**WS** +10  **T** +10   **S** +10   **Talents**: Datapad Literate**,** Robust, Warrior Born, roll 2 talents from the random talents list.
+**WS** +10  **T** +10   **S** +10   **Talents**: Datapad Use**,** Robust, Warrior Born, roll 2 talents from the random talents list.
 
-**Movement**: 4  **Fate**: 1  **Resilience**: 1  **Extra points**: 2
+**Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 #### [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends)
 
 |  | Wookiees are a sentient species in the Star Wars universe known for their distinctive physical features and strong sense of honor. They are tall, bipedal creatures with thick fur covering their entire bodies, which can range in color from brown to black. Wookiees have large, expressive eyes and sharp, pointed teeth.<br/><br/>Wookiees are native to the planet Kashyyyk, a lush, forested world where they live in harmony with nature. They are known for their great strength and agility, as well as their skill in the use of technology. Wookiees are also renowned for their loyalty and bravery, often forming strong bonds with those they consider friends or allies. |
 
-**STR** +20  **FEL** -10  **INT** +10  **AGI** +10  **Talents**: Craftsman (Profession), Datapad Literate**,** Very Strong, roll 2 talents from the random talents list.
+**STR** +20  **FEL** -10  **INT** +10  **AGI** +10  **Talents**: Craftsman (Profession), Datapad Use**,** Very Strong, roll 2 talents from the random talents list.
 
 **Claws 2+SB,&#32;**		**Size: Medium or Large**
 
@@ -198,6 +198,6 @@ Average height 2.23 – 2.54 meters
 | Zabraks were near-humans distinguished by a crown of vestigial horns that developed at puberty in both males and females, growing in patterns unique to each subspecies. They possessed a second heart and a high resistance to pain. Their skin tones ranged from pale to dark brown or vivid shades of red, yellow, and orange, while their eyes could be blue, green, grey, orange, or bright yellow. Many Zabraks bore ritual tribal tattoos that signified lineage, origin, or personality. They were capable of interbreeding with humans, most notably producing the hybrid Dathomirian subspecies on Dathomir.<br/><br/> |  |
 | --- | --- |
 
-**T** +10  **WP** +20  **Talents**: Craftsman (Profession) or Strider (Terrain), Datapad Literate**,** Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list.
+**T** +10  **WP** +20  **Talents**: Craftsman (Profession) or Strider (Terrain), Datapad Use**,** Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list.
 
 #### [](https://starwars.fandom.com/wiki/Miraluka/Legends)

@@ -1,0 +1,104 @@
+name,class,carries,enc,worn,cost,avail,legality,traits,legends,source,status,notes
+All-temperature Cloak,Equipment,,0,0,100,,,SL+1 Endurance Test,Cloak/Legends,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Aquata Breather,Equipment,,0,0,350,,,2 hours of breathing underwater,A99 aquata breather/Legends,08 Equipment; d20 Core table Table 7-4,merged,
+Atmosphere Canister/Filter,Equipment,,0,0,25,,,Set to an atmosphere,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Bacta 1 liter,Equipment,,1,0,100,,,Takes 300 Liters to fill a Bacta Tank,,08 Equipment; d20 Core table Table 7-4,merged,
+Bacta Tank,Equipment,,250,,100000,,,heals 1 wound per hour,Bacta tank/Legends,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 63 instead of 08 500; fixture; not carried
+Breath Mask,Equipment,,0,0,200,,,1 hour of breathable air per canister can be built into armour,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 2; ruling 12 Oct
+Code Cylinder,Equipment,,0,0,500,,,Lets someone access a security computer system. Can be reprogramed,Code cylinder/Legends,08 Equipment; d20 Core table Table 7-4,merged,
+Comlink,Equipment,,0,0,200,,,Personal communications device,,08 Equipment; d20 Core table Table 7-4,merged,
+Credit Chip,Equipment,,0,0,100,,,Digital Credits access,,08 Equipment; d20 Core table Table 7-4,merged,
+Datacard 1 Program,Equipment,,0,0,300,,,+20 on test that the program covers,,08 Equipment; d20 Core table Table 7-4,merged,
+Datacard mastercraft,Equipment,,3,2,2000,,,SL+1 and the test is 1 step easier,,08 Equipment,sl100,
+"Datacards, Blank (10)",Equipment,,0,0,10,,,Datspad cards to save data,,08 Equipment; d20 Core table Table 7-4,merged,
+Datapad,Equipment,,0,0,1000,,,"+20 bonus to Intelligence, calculations or computer use test.",,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 3; SL100 scale: not decently big
+Electrobinoculars,Equipment,,0,0,1000,,,One step easier for spot test over distance for every 20m,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Energy Cell,Equipment,,0,0,10,,,Battery,,08 Equipment; d20 Core table Table 7-4,merged,
+Field Kit,Equipment,,1,0,1000,,,"2 canteens with built-in water filter, sunshield roll, weeks rations, 2 glow rods, 2 breathing masks, 24 filters, 12 atmosphere canisters and all-temp cloak",,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 1 instead of 08 10; ruling 12 Oct
+Flight Suit,Equipment,,1,0,250,,,Protects the wear from hostile environments and high-velocity flying,Flight suit/Legends,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 1 instead of 08 3; ruling 12 Oct
+Fusion Lantern,Equipment,,1,0,25,,,"Light and heat, light out to 10m",Powermax fusion lantern,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 1 instead of 08 2; ruling 12 Oct (a camp lantern; a hand lamp would be 0)
+Glow Rod,Equipment,,0,0,10,,,10m light,Industrial glow rod,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Grappling Spike Launcher,Equipment,,0,0,50,,,"spike that can anchor itself into a hard surface, liquid to form 20m of cable.",Launcher,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Holoprojector Personal,Equipment,,0,0,1000,,,3D image projector hand helded,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Holorecorder,Equipment,,0,0,3000,,,200 hours 3d image and audio recorder,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Kolto 1 liter,Equipment,,1,0,100,,,Takes 300 Liters to fill a Kolto Tank,,08 Equipment,sl100,
+Kolto Tank,Equipment,,250,,100000,,,heals 1 wound per 2 hours,,08 Equipment,sl100,fixture; not carried
+Liquid Cable Dispenser,Equipment,,0,0,25,,,"Lightweight flexible cable holding 20m of liquid cable, can support 500kg",,08 Equipment; d20 Core table Table 7-4,merged,
+Macrobinoculars,Equipment,,0,0,600,,,One step easier for spot test over distance for every 10m,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Medpac,Equipment,,0,0,100,,,recovers 1 wound with Challenging Medicae test,Medpac/Legends,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Medpac Mastercraft,Equipment,,0,0,200,,,recovers 1 wound with Average Medicae test,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Power Pack,Equipment,,0,0,25,,,Needed for energy weapons,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Recording rod,Equipment,,0,0,500,,,2D image recorder with audio for up to 100 hours..,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Security Kit,Equipment,,0,0,750,,,+20 Tech(Security) Test,Security Systems Tool Kit,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Security Kit Mastercraft,Equipment,,0,0,1500,,,SL+1 Tech(Security) Test,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Sensor Pack,Equipment,,2,1,1500,,,"+20 on Awareness(Sight and Hearing) In the 50m area the sensor array covers portable. Comm Signals, Life Forms, and Energy Fields",9320/B sensor pack,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 2 instead of 08 9; ruling 12 Oct
+Sensor Pack Mastercraft,Equipment,,2,1,3000,,,"SL+1 on Awareness(Sight and Hearing) In the 50m area the sensor array covers portable. Comm Signals, Life Forms, and Energy Fields",,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 2 instead of 08 9; ruling 12 Oct
+Surgery Kit,Equipment,,0,0,1000,,,+20 Needed to perform Surgery,,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+Tool Kit,Equipment,,0,0,250,,,+20 on Tech(Engineering) and to repair Augmentics,Tool kit/Legends,08 Equipment; d20 Core table Table 7-4,merged,enc: SL100 scale 0 instead of 08 1;
+8320/B Sensor Pack,General,,2,1,1200,Uncommon,,,,d20 A&E p.90,converted,
+A898 Aquata Breather,General,,0,0,350,Uncommon,,,,d20 A&E p.85,converted,
+Adventure Hiker & Hunter DuraShelter,General,,0,0,500,Common,,,,d20 A&E p.95,converted,
+Adventure Hiker & Hunter Ration Packs,General,,0,0,5,Common,,,,d20 A&E p.95,converted,
+Alliwon Electronics Vennoc-x Chronometer,General,,0,0,50,Common,,,Vennoc-x Chronometer,d20 A&E p.96,converted,
+Athakam Il Med Unit,General,,3,2,3000,Uncommon,,,Med Unit,d20 A&E p.92,converted,
+Audio Performance Inc. No-Show,General,,0,0,5000,Scarce,M,,,d20 A&E p.91,converted,
+BCC OmniNode Communications Set,General,,1,0,300,Common,,,OmniNode communications set,d20 A&E p.86,converted,
+Binder Cuffs,General,,0,0,50,Common,,,,d20 A&E p.94,converted,
+BinTech RFX/K Medisensar,General,,0,0,1100,Rare,,,,d20 A&E p.93,converted,
+BioTech FastFlesh Medpac,General,,0,0,600,Uncommon,,,FastFlesh medpac/Legends,d20 A&E p.92,converted,
+BLCC MultiNode Communications Link,General,,0,0,75,Common,,,MultiNode communications link,d20 A&E p.86,converted,
+ChandrilTech PX-7 Heat Sensor,General,,0,0,250,Uncommon,,,PX-7 Heat Sensor,d20 A&E p.89,converted,
+ChemDetect,General,,,,1500,Uncommon,,,ChemDetect,d20 A&E p.90,converted,
+Cl Personal Comlink,General,,0,0,200,Common,,,,d20 A&E p.87,converted,
+CN-15 Camouflage Netting,General,,1,0,3500,Common,,,CN-15 camouflage netting,d20 A&E p.92,converted,
+Courier Communications Scanner,General,,0,0,4500,Rare,,,Courier Communications Scanner,d20 A&E p.89,converted,
+Culcanis Microlnstruments Tagger,General,,0,0,450,Rare,,,Tagger,d20 A&E p.87,converted,
+"Datapad, mastercraft (+1)",General,,0,0,2000,,,,,d20 Core table Table 7-4,converted,
+Degan Explorations Syntherope,General,,0,0,5,Common,,,Syntherope/Legends,d20 A&E p.96,converted,
+EnhanceScan General Purpose Scanner,General,,2,1,2000,Uncommon,,,EnhanceScan general purpose scanner/Legends,d20 A&E p.89,converted,
+Fabreth Medical Biochemicals Shock Cloth,General,,0,0,250,Uncommon,,,,d20 A&E p.93,converted,
+Gandorthral Atmospherics Oxidizer,General,,0,0,350,Common,,,Oxidizer,d20 A&E p.85,converted,
+Gandorthral Atmospherics Roamer-B Breath Mask,General,,0,0,400,Common,,,Roamer-6 breath mask/Legends,d20 A&E p.86,converted,
+Hologram Projection Pod,General,,13,12,250000,Rare,,,,d20 A&E p.87,converted,
+Holorecording Macrobinoculars,General,,0,0,1500,Uncommon,,,,d20 A&E p.90,converted,
+Hush-898,General,,0,0,4000,Rare,,,,d20 A&E p.88,converted,
+Idellian Arrays ILF-5000 Life Form Scanner,General,,0,0,2900,Rare,,,ILF-5000 Life Form Scanner,d20 A&E p.90,converted,
+Imagecaster,General,,0,0,1000,Uncommon,,,Imagecaster/Legends,d20 A&E p.88,converted,
+Locris Syndicated Securities MLC-50 Magnolock,General,,0,0,250,Common,,,MLC-50 Magnolock,d20 A&E p.94,converted,
+Medical kit,General,,0,0,25,,,,,d20 Core table Table 7-4,converted,
+Meredex Atmospherics EMS-80 Bubble Cloak,General,,0,0,800,Common,,,,d20 A&E p.95,converted,
+MicroData Pocket Secretary,General,,0,0,2000,Common,,,Pocket Secretary,d20 A&E p.96,converted,
+MicroThrust ComTech Eavesdrop Protection Unit,General,,0,0,3400,Rare,,,ComTech Eavesdrop Protection Unit,d20 A&E p.92,converted,
+Mos Espa Coolth Backpack,General,,0,0,200,Rare,,,Coolth backpack/Legends,d20 A&E p.95,converted,
+Naboo Technologies Secure-A3 Comlink,General,,0,0,900,Uncommon,,,Secure-A3 Comlink/Legends,d20 A&E p.87,converted,
+Nilar Med/Tech Corporation Field Cauterizer,General,,0,0,200,Common,,,,d20 A&E p.93,converted,
+Novaplex Monofilament Screen Guard,General,,1,0,250,Uncommon,R,,Monofilament screen guard,d20 A&E p.94,converted,
+Organic Gill,General,,0,0,200,Scarce,,,Organic gill/Legends,d20 A&E p.86,converted,
+PAC20 Visual Wrist Com,General,,0,0,1500,Uncommon,,,PAC20 Visual Wrist Comm,d20 A&E p.87,converted,
+Rhinsome Tracking Corp SureSnoop,General,,0,0,3000,Uncommon,M,,,d20 A&E p.90,converted,
+Saladar Systems PED-21 Distress Beacon,General,,1,0,200,Uncommon,,,PED-21 Distress Beacon,d20 A&E p.95,converted,
+Saldalith Manufacturing Veridicator 200,General,,0,0,4000,Rare,,,Veridicator 200,d20 A&E p.91,converted,
+SE-Vigilant Automated Sensor Beacon,General,,1,0,3000,Uncommon,,,SE-Vigilant automated sensor beacon,d20 A&E p.89,converted,
+SuriTech Foodstuffs Ezl Analyzer,General,,0,0,250,Common,,,,d20 A&E p.91,converted,
+SurvivalGear Water JugFilter,General,,0,0,100,Common,,,Water JugFilter,d20 A&E p.95,converted,
+Synthtech Medtech Corporation MDS-50,General,,0,0,75,Common,,,MDS-50,d20 A&E p.93,converted,
+TaggeCo MagnaCuffs,General,,0,0,600,Rare,,,Magnacuffs/Legends,d20 A&E p.94,converted,
+TeleSonic Audio Pickup,General,,0,0,750,Common,,,TeleSonic Model Audio Pickup,d20 A&E p.90,converted,
+Thalassian Security Collar,General,,0,0,1000,Scarce,I,,Security collar,d20 A&E p.94,converted,
+Traxes BioElectronics Implant Communicator,General,,0,0,12500,Uncommon,I,,Implant communicator,d20 A&E p.88,converted,
+Ulgib MicroTronics BX-333 Biorecorder,General,,0,0,5000,Rare,,,BX-333 Biorecorder,d20 A&E p.88,converted,
+Varge Corp Pocket Scrambler PS-xqt9s,General,,0,0,400,Uncommon,,,Pocket Scrambler PS-xqt9s,d20 A&E p.88,converted,
+VargeCorp Easy Breathing Breath Mask,General,,0,0,50,Common,,,Easy Breathing breath mask,d20 A&E p.86,converted,
+VidGraph Peer Macrobinoculars,General,,0,0,800,Rare,,,Peer Macrobinoculars,d20 A&E p.91,converted,
+Whappamanga AlienEnhancer Voxbox,General,,0,0,75,Uncommon,,,VoxBox,d20 A&E p.88,converted,
+Ziko 1125 Heads-Up Macrobinoculars,General,,0,0,900,Common,,,1125 Heads-Up Macrobinoculars,d20 A&E p.91,converted,
+Nen-Carvon R-23 Paraglider,Glider,,3,2,400,Uncommon,,,R-23 paraglider,d20 A&E p.72,converted,
+Mobquet OKC-167 Repulsor Pack,Repulsor Pack,,3,2,1800,Rare,,,OKC-167 repulsor pack,d20 A&E p.72,converted,
+Mitrinomon Z-B Jetpack,Rocket/Jet Pack,,3,2,300,Rare,,,Jetpack/Legends,d20 A&E p.72,converted,
+"""Jumper"" Rocket Pack",Rocket/Jet pack,,3,2,500,Rare,,,"""Jumper"" rocket pack",d20 A&E p.72,converted,
+RB2 Jump Boots,Rocket/Jet pack,,3,2,150,Uncommon,,,,d20 A&E p.72,converted,
+Belt pouch,Containers,1,0,0,10,Common,,Carries 1 Enc,,SL100 (Enc scale 12 Oct),sl100,"worn container: its own Enc counts, its contents up to Carries do not"
+Satchel / small bag,Containers,2,1,0,25,Common,,Carries 2 Enc,,SL100 (Enc scale 12 Oct),sl100,"worn container: its own Enc counts, its contents up to Carries do not"
+Backpack,Containers,4,2,1,60,Common,,Carries 4 Enc,,SL100 (Enc scale 12 Oct),sl100,"worn container: its own Enc counts, its contents up to Carries do not"
+Large pack (oversized),Containers,6,3,2,120,Common,,Carries 6 Enc,,SL100 (Enc scale 12 Oct),sl100,"worn container: its own Enc counts, its contents up to Carries do not"
+Sensor backpack,Containers,2,3,2,1500,Common,,Carries 2 Enc,,SL100 (Enc scale 12 Oct),sl100,"worn container: its own Enc counts, its contents up to Carries do not"

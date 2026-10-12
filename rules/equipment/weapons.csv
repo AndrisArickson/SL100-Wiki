@@ -1,0 +1,220 @@
+name,group,skill,damage,range,range_m,mag,enc,worn,cost,avail,legality,traits,legends,source,status,notes
+Arrows (10),Arrows (10),,,,,,0,0,20,,,,,d20 Core table 7-2,converted,
+StarAnvil Heavy Blaster Rifle,Blaster Rifle,Ranged (Blaster Rifle),9,L,60,,2,1,2000,Rare,M,,StarAnvil heavy blaster rifle,d20 A&E p.17,converted,Imperial Munitions; baseline: Blaster Rifle
+Armor Workshop E-5 Droid Blaster (Typical Blaster Carbine),Blaster carbine,Ranged (Blaster Rifle),9,L,40,,1,0,900,Common,M,Stun setting,E5 blaster carbine,d20 A&E p.15,converted,Baktoid Armor Workshop; baseline: Blaster Carbine
+N'Gant-Zarvel 8118 Heavy Carbine,Blaster carbine,Ranged (Blaster Rifle),10,L,40,,1,0,990,Uncommon,M,Stun setting,,d20 A&E p.18,converted,baseline: Blaster Carbine
+DH-17,Blaster pistol,Ranged (Blaster Pistol),8,M,24,,1,0,550,Common,L,Stun setting,,d20 A&E p.7,converted,baseline: Blaster Pistol
+"DH-23 ""Outback""",Blaster pistol,Ranged (Blaster Pistol),8,M,16,,1,0,500,Common,L,Stun setting,DH-23 blaster pistol/Legends,d20 A&E p.7,converted,BlasTech Industries; baseline: Blaster Pistol
+DL-18 Blaster Pistal (Typical Blaster Pistal),Blaster pistol,Ranged (Blaster Pistol),8,M,20,,1,0,500,Common,L,Stun setting,DL-18 Blaster Pistol,d20 A&E p.8,converted,BlasTech Industries; baseline: Blaster Pistol
+DL-22,Blaster pistol,Ranged (Blaster Pistol),8,M,20,,1,0,550,Common,L,Stun setting,DL-22 blaster pistol,d20 A&E p.8,converted,BlasTech Industries; baseline: Blaster Pistol
+"ELG-3A ""Diplomat's Blaster""",Blaster pistol,Ranged (Blaster Pistol),8,M,20,,1,0,500,Common,L,Stun setting,ELG-3A blaster pistol/Legends,d20 A&E p.10,converted,SoroSuub Corporation; baseline: Blaster Pistol
+Elmainin Armaments SBP-200 Blaster Pistol,Blaster pistol,Ranged (Blaster Pistol),7,M,20,,1,0,300,Common,L,Stun setting,SBP-200 Blaster Pistol,d20 A&E p.8,converted,Elmainin Armaments; baseline: Blaster Pistol
+Greff-Timms Industrial ATA Pulse-Wave Blaster,Blaster pistol,Ranged (Blaster Pistol),8,M,12,,1,0,600,Rare,R,,ATA Pulse-wave Blaster,d20 A&E p.8,converted,Greff-Timms Industrial; baseline: Blaster Pistol
+Imperial Munitions/BlasTech KK-5 Blaster Pistol,Blaster pistol,Ranged (Blaster Pistol),8,M,24,,1,0,600,Common,L,Stun setting,KK-5 blaster pistol,d20 A&E p.8,converted,Imperial Munitions/BlasTech Industries; baseline: Blaster Pistol
+Imperial Munitions/SoroSuub SC-4 Blaster Pistol,Blaster pistol,Ranged (Blaster Pistol),8,M,24,,1,0,500,Common,L,Stun setting,SC-4 blaster pistol,d20 A&E p.8,converted,Imperial Munitions/SoroSuub; baseline: Blaster Pistol
+"IR-5 ""Intimidator""",Blaster pistol,Ranged (Blaster Pistol),7,M,16,,1,0,750,Scarce,L,Stun setting,"IR-5 ""Intimidator""",d20 A&E p.9,converted,"Merr-Sonn Munitions, Inc.; baseline: Blaster Pistol"
+"Model 434 ""DeathHammer""",Blaster pistol,Ranged (Blaster Pistol),9,M,16,,1,0,650,Common,L,Stun setting,434 Deathhammer/Legends,d20 A&E p.9,converted,"Merr-Sonn Munitions, Inc.; baseline: Blaster Pistol"
+Model 44,Blaster pistol,Ranged (Blaster Pistol),8,M,20,,1,0,500,Common,L,Stun setting,,d20 A&E p.9,converted,baseline: Blaster Pistol
+"500 ""ESPO"" Riot Gun",Blaster rifle,Ranged (Blaster Rifle),10,L,60,,2,1,1000,Scarce,M,Stun setting,500 riot gun/Legends,d20 A&E p.15,converted,BlasTech Industries; baseline: Blaster Rifle
+Core World Arms Pulse-Blast Rifle,Blaster rifle,Ranged (Blaster Rifle),10,L,40,,2,1,2000,Rare,R,,,d20 A&E p.17,converted,baseline: Blaster Rifle
+"DLT-20A and A280 Blaster Rifles ""Longblasters""",Blaster rifle,Ranged (Blaster Rifle),10,L,60,,2,1,1300,Common,M,Stun setting,DLT-20A blaster rifle/Legends,d20 A&E p.15,converted,BlasTech Industries; baseline: Blaster Rifle
+"E-11/""Freedom One"" Blaster Rifle (Typical Blaster Rifle)",Blaster rifle,Ranged (Blaster Rifle),9,L,60,,2,1,1000,Common,M,Stun setting,,d20 A&E p.16,converted,baseline: Blaster Rifle
+Firelance Blaster Rifle,Blaster rifle,Ranged (Blaster Rifle),9,L,60,,2,1,1200,Uncommon,R,Stun setting,Blaster rifle/Legends,d20 A&E p.18,converted,baseline: Blaster Rifle
+Firespray DL-B7 Stun Rifle,Blaster rifle,Ranged (Blaster Rifle),5,L,40,,2,1,1000,Uncommon,R,Stun setting,,d20 A&E p.16,converted,baseline: Blaster Rifle
+Greff-Timms Industrial Type A Pulse-Wave Rifle,Blaster rifle,Ranged (Blaster Rifle),10,M,20,,2,1,1200,Rare,R,,Type A pulse-wave rifle,d20 A&E p.17,converted,Greff-Timms Industrial; baseline: Blaster Rifle
+Heavy Tracker 1B,Blaster rifle,Ranged (Blaster Rifle),10,L,60,,2,1,1100,Common,M,Stun setting,,d20 A&E p.18,converted,baseline: Blaster Rifle
+Model G8,Blaster rifle,Ranged (Blaster Rifle),9,E,80,,2,1,1100,Common,M,Stun setting,Model G8,d20 A&E p.17,converted,"Merr-Sonn Munitions, Inc.; baseline: Blaster Rifle"
+"Blaster rifle, sporting","Blaster rifle, sporting",Ranged (Blaster Rifle),8,E,80,,2,1,800,,,,Sporting blaster rifle,d20 Core table 7-2,converted,baseline: Blaster Rifle
+"Blaster, heavy","Blaster, heavy",review,9,M,16,,1,0,750,,,,,d20 Core table 7-2,converted,
+"Blaster, hold-out","Blaster, hold-out",Ranged (Blaster Pistol),7,S,8,,0,0,300,,,,Hold-out blaster/Legends,d20 Core table 7-2,converted,baseline: Hold-out Blaster
+"Blaster, lt. repeat","Blaster, lt. repeat",review,9,E,80,,3,2,2000,,,,,d20 Core table 7-2,converted,
+"Blaster, sporting","Blaster, sporting",review,7,M,16,,1,0,300,,,,Sporting blaster/Legends,d20 Core table 7-2,converted,
+Bow,Bow,Ranged (Archaic),5,M,24,,2,1,300,,,,Bow/Legends,d20 Core table 7-2,converted,baseline: Bow
+Battle Gloves,Brawling,Melee (Brawling),1+StrB,,,,0,0,30,Common,,,,08 Equipment,sl100,
+Unarmed,Brawling,Melee (Brawling),0+StrB,,,,1,0,-,-,,,,08 Equipment; d20 Core table 7-2; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of 08 0;
+Bullets (10),Bullets (10),,,,,,0,0,5,,,,,d20 Core table 7-2,converted,
+Drolan Plasteel Repeating Crossbow,Crossbow,Ranged (Archaic),5,L,32,,3,2,400,Scarce,,,Repeating crossbow,d20 A&E p.26,converted,Drolan Plasteel; baseline: Bow
+Protector PRP-502 Hold-Out Shooter,Dart shooter,Ranged (Slugthrower),4,S,8,,0,0,300,Uncommon,,"Solid Projectile, Poison",PRP-502 hold-out dart shooter,d20 A&E p.24,converted,Prax Arms; baseline: Dart Shooter
+Stealth-2VX Palm Shooter,Dart shooter,Ranged (Slugthrower),3,S,4,,0,0,360,Uncommon,,"Solid Projectile, Poison",Stealth-2VX palm shooter/Legends,d20 A&E p.24,converted,Prax Arms; baseline: Dart Shooter
+DX-2 (Typical Disruptor Pistal),Disruptor pistol,Ranged (Disruptor),8,S,4,,1,0,2250,Rare,I,"Penetrating, Damaging",DX-2 disruptor pistol/Legends,d20 A&E p.21,converted,Tenloss Criminal Syndicate; baseline: Disruptor Pistol
+Model MSD-32 Disruptor Pistol,Disruptor pistol,Ranged (Disruptor),8,S,4,,1,0,4000,Rare,I,"Penetrating, Damaging",Model MSD-32 Disruptor Pistol,d20 A&E p.21,converted,"Merr-Sonn Munitions, Inc.; baseline: Disruptor Pistol"
+DXR-B Disruptor (Typical Disruptor Rifle),Disruptor rifle,Ranged (Disruptor),8,S,4,,2,1,3500,Rare,I,"Penetrating, Damaging",DXR-6 disruptor rifle,d20 A&E p.21,converted,Tenloss Syndicate; baseline: Disruptor Rifle
+Electro-net,Electro-net,Ranged (Archaic),,S,4,,2,1,300,,,Entangle,,d20 Core table 7-2,converted,
+Demolition Charge,Engineering,Demolitions,14,,,,1,0,1500,Common,,,,08 Equipment,sl100,
+CZ Wrist-Mounted Flame Projector,Flame projector,Ranged (Heavy Blaster),7,S,4,,3,2,800,Uncommon,I,"Ablaze, Spread",CZ wrist-mounted flame projector,d20 A&E p.35,converted,Czerka Arms; baseline: Hand Flamer
+Model C-22 Flame Carbine,Flame projector,Ranged (Heavy Blaster),9,S,4,,3,2,500,Scarce,R,"Ablaze, Spread",Model C-22 flame carbine,d20 A&E p.35,converted,"Merr-Sonn Munitions, Inc.; baseline: Hand Flamer"
+Model CR-24/Czerka CZ-24 Flamemaster Flame Rifle,Flame projector,Ranged (Heavy Blaster),10,S,4,,3,2,700,Scarce,M,"Ablaze, Spread",CZ-24 Flamemaster flame rifle,d20 A&E p.36,converted,Czerka Arms; baseline: Hand Flamer
+Model CR-28/Czerka CZ-28 Flamestrike Flame Cannon,Flame projector,Ranged (Heavy Blaster),11,S,8,,5,4,2500,Scarce,M,"Ablaze, Spread",CZ-28 Flamestrike flame cannon,d20 A&E p.36,converted,Czerka Arms; baseline: Hand Flamer
+FC11 Flechette Launcher,Flechette launcher,Ranged (Slugthrower),9,L,40,,3,2,2000,Uncommon,I,"Spread, Solid Projectile",,d20 A&E p.25,converted,baseline: Flechette Launcher
+Malaxan Firepower Incorporated FWG-5 Flechette Smart Pistol,Flechette launcher pistol,Ranged (Slugthrower),9,M,20,,3,2,800,Uncommon,I,"Spread, Solid Projectile",FWG-5 Flechette Smart Pistol,d20 A&E p.26,converted,Malaxan Firepower Incorporated; baseline: Flechette Launcher
+Salus DF-D1 Flechette Launcher,Flechette launcher rifle,Ranged (Slugthrower),12,M,24,,3,2,1200,Uncommon,I,"Spread, Solid Projectile",Flechette launcher/Legends,d20 A&E p.26,converted,baseline: Flechette Launcher
+C-10 Stun Grenade (Typical Stun Grenade),Grenade,Ranged (Grenade/Explosives),,S,8,,0,0,600,Common,M,"Blast (3), Thrown, Stun setting",C-10 stun grenade/Legends,d20 A&E p.33,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade"
+C-14A Stun Grenade,Grenade,Ranged (Grenade/Explosives),,S,8,,0,0,500,Common,M,"Blast (3), Thrown, Stun setting",C-14A stun grenade/Legends,d20 A&E p.33,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade"
+C-16 Fragmentation Grenade (Typical Frag Grenade),Grenade,Ranged (Grenade/Explosives),10,S,8,,0,0,500,Common,M,"Blast (3), Thrown",C-16 fragmentation grenade,d20 A&E p.33,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade"
+C-22 Fragmentation Grenade,Grenade,Ranged (Grenade/Explosives),9,S,8,,0,0,700,Common,M,"Blast (3), Thrown",C-22 fragmentation grenade,d20 A&E p.33,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade"
+Chemical Load Grenade,Grenade,Ranged (Grenade/Explosives),,S,8,,0,0,,Common,M,"Blast (3), Thrown",Chemical load grenade,d20 A&E p.32,converted,Czerka Arms; baseline: Grenade
+G-20 Glop Grenade,Grenade,Ranged (Grenade/Explosives),,S,8,,0,0,600,Common,R,"Blast (3), Thrown",G-20 Glop grenade/Legends,d20 A&E p.33,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade"
+Greff-Timms 0033X Grenade,Grenade,Ranged (Grenade/Explosives),7,S,8,,0,0,400,Rare,,"Blast (3), Thrown",Nitrocellulose Incendiary Device 0033X,d20 A&E p.33,converted,Greff-Timms Industrial; baseline: Grenade
+Spore/B Stun Grenade,Grenade,Ranged (Grenade/Explosives),,S,8,,0,0,700,Common,M,"Blast (3), Thrown, Stun setting",Spore/B stun grenade/Legends,d20 A&E p.32,converted,Czerka Arms; baseline: Grenade
+WW-4- Cryoban Grenade,Grenade,Ranged (Grenade/Explosives),5,S,8,,0,0,800,Common,M,"Blast (3), Thrown",CryoBan grenade/Legends,d20 A&E p.34,converted,baseline: Grenade
+GL-11/GL-11sa Handheld Grenade Launcher,Grenade launcher,Ranged (Grenade/Explosives),,L,60,,0,0,2000,Uncommon,M,"Blast (3), Thrown",GL-11/GL-11sa handheld grenade launcher,d20 A&E p.34,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade"
+MobileMortar-3,Grenade launcher,Ranged (Missile/Rocket),,E,200,,0,0,4000,Uncommon,M,Blast (3),,d20 A&E p.34,converted,baseline: Grenade Launcher
+"TTT-54 ""Thumper""",Grenade launcher,Ranged (Missile/Rocket),,E,100,,0,0,4000,Uncommon,M,Blast (3),"TTT-54 ""Thumper""",d20 A&E p.34,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade Launcher"
+"Grenade, frag","Grenade, frag",Ranged (Grenade/Explosives),10,S,8,,0,0,500,,,"Blast (3), Thrown",,d20 Core table 7-2,converted,baseline: Grenade
+"Grenade, stun","Grenade, stun",Ranged (Grenade/Explosives),,S,8,,0,0,600,,,"Blast (3), Thrown",Stun grenade/Legends,d20 Core table 7-2,converted,baseline: Grenade
+Arkanian's Missile,Heavy Weapon (Ranged Heavy Weapon skill),,14,,,,1,0,-,Rare,,,,08 Equipment,sl100,
+Frag Missile,Heavy Weapon (Ranged Heavy Weapon skill),,7,,,,1,0,-,Scarce,,,,08 Equipment,sl100,
+Grenade Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,-,Long,,6,2,1,4000,Rare,,,,08 Equipment,sl100,Under-barrel or standalone launcher cycling multiple grenades rapidly; used by infantry support teams.
+Heavy Auto Machine Gun,Heavy Weapon (Ranged Heavy Weapon skill),,7,Long,,100,4,3,6000,Rare,,"Slow, Penetrating (2), MSolid Projectile",,08 Equipment,sl100,
+Minigun (Blaster / Solid Slug),Heavy Weapon (Ranged Heavy Weapon skill),,7,Long,,200,5,4,8000,Rare,,"Slow, Penetrating (2), Rapid Fire 4",,08 Equipment,sl100,
+Missile Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,08 Equipment,sl100,Guided missile system capable of tracking fast-moving targets including speeder bikes and starfighters.
+PLX Rocket Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,08 Equipment,sl100,Merr-Sonn man-portable anti-vehicle rocket with dual-stage warhead; standard Rebel heavy weapon.
+Portable Missile Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,-,Extreme,,1,3,2,4000,Rare,,Slow,,08 Equipment,sl100,
+Repeating Blaster,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Rare,,,,08 Equipment,sl100,Tripod-mounted heavy blaster delivering sustained automatic fire; requires a gunner and power generator.
+Rocket Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,08 Equipment,sl100,Shoulder-fired single-shot weapon launching explosive warheads; used against vehicles and fortifications.
+"""Power"" 5 Heavy Blaster Pistol",Heavy blaster,Ranged (Heavy Blaster),9,M,16,,3,2,825,Common,R,"Rapid Fire, Stun setting",Power 5 heavy blaster pistol,d20 A&E p.11,converted,"Merr-Sonn Munitions, Inc.; baseline: Heavy Blaster Rifle"
+"""Renegade"" Heavy Blaster",Heavy blaster,Ranged (Heavy Blaster),10,M,16,,3,2,840,Uncommon,R,Rapid Fire,"""Renegade"" heavy blaster pistol/Legends",d20 A&E p.12,converted,SoroSuub Corporation; baseline: Heavy Blaster Rifle
+Blaster cannon,Heavy blaster,Ranged (Heavy Blaster),11,E,80,,4,3,3000,,,Rapid Fire,Blaster cannon/Legends,d20 Core table 7-2,converted,baseline: Heavy Blaster Rifle Crew-served.
+"Blaster, E-Web",Heavy blaster,Ranged (Heavy Blaster),13,E,160,,5,4,8000,,,Rapid Fire,F-Web Repeating Blaster,d20 Core table 7-2,converted,baseline: Heavy Blaster Rifle Crew-served; carried broken down by two.
+"Blaster, hvy. repeat",Heavy blaster,Ranged (Heavy Blaster),11,L,60,,3,2,4000,,,Rapid Fire,,d20 Core table 7-2,converted,baseline: Heavy Blaster Rifle
+Caliban Model X,Heavy blaster,Ranged (Heavy Blaster),10,M,12,,3,2,975,Common,R,"Rapid Fire, Stun setting",Model X/Legends,d20 A&E p.11,converted,Caliban; baseline: Heavy Blaster Rifle
+"DL-44/Merr-Sonn ""Flash"" 4 Heavy Blaster Pistol (Typical Heavy Blaster Pistol)",Heavy blaster,Ranged (Heavy Blaster),9,M,16,,3,2,750,Common,R,"Rapid Fire, Stun setting",DL-44 heavy blaster pistol/Legends,d20 A&E p.10,converted,BlasTech Industries; baseline: Heavy Blaster Rifle
+DT-12 Heavy Blaster Pistal,Heavy blaster,Ranged (Heavy Blaster),10,M,12,,3,2,900,Common,R,"Rapid Fire, Stun setting",DT-12 heavy blaster pistol/Legends,d20 A&E p.10,converted,BlasTech Industries; baseline: Heavy Blaster Rifle
+DY-225 Heavy Blaster Pistol,Heavy blaster,Ranged (Heavy Blaster),8,M,20,,3,2,900,Common,R,"Rapid Fire, Stun setting",DY-225 Heavy Blaster Pistol,d20 A&E p.10,converted,BlasTech Industries; baseline: Heavy Blaster Rifle
+Model Kylan-3,Heavy blaster,Ranged (Heavy Blaster),10,M,16,,3,2,825,Common,R,"Rapid Fire, Stun setting",Model Kylan-3,d20 A&E p.11,converted,SoroSuub Corporation; baseline: Heavy Blaster Rifle
+Security S-5 Blaster,Heavy blaster,Ranged (Heavy Blaster),8,M,16,,3,2,900,Common,R,"Rapid Fire, Stun setting",S-5 heavy blaster pistol/Legends,d20 A&E p.12,converted,Theed Arms; baseline: Heavy Blaster Rifle
+"T-6 ""Thunderer"" Heavy Blaster Pistol",Heavy blaster,Ranged (Heavy Blaster),10,M,16,,3,2,900,Uncommon,R,Rapid Fire,T-6 heavy blaster pistol,d20 A&E p.10,converted,BlasTech Industries; baseline: Heavy Blaster Rifle
+411,Hold-out blaster,Ranged (Blaster Pistol),6,M,12,,0,0,300,Common,R,Stun setting,,d20 A&E p.12,converted,baseline: Hold-out Blaster
+Gee-Tech 12 Defender MicroBlaster,Hold-out blaster,Ranged (Blaster Pistol),6,S,8,,0,0,400,Common,R,Stun setting,12 Defender MicroBlaster,d20 A&E p.13,converted,Gee-Tech; baseline: Hold-out Blaster
+HSB-200,Hold-out blaster,Ranged (Blaster Pistol),7,S,8,,0,0,360,Uncommon,R,Stun setting,HSB-200,d20 A&E p.12,converted,BlasTech Industries; baseline: Hold-out Blaster
+Model 02 Hold-Out Blaster (Typical Hold-Out Blaster Pistol),Hold-out blaster,Ranged (Blaster Pistol),7,S,8,,0,0,300,Common,R,Stun setting,,d20 A&E p.13,converted,baseline: Hold-out Blaster
+Model 22T4,Hold-out blaster,Ranged (Blaster Pistol),7,S,8,,0,0,360,Scarce,R,Stun setting,Model 22T4 ISB Special,d20 A&E p.13,converted,Imperial Arms; Imperial Munitions; baseline: Hold-out Blaster
+"Model B22 ""Imperial""",Hold-out blaster,Ranged (Blaster Pistol),7,S,8,,0,0,300,Common,R,Stun setting,B22 Hold-Out Blaster,d20 A&E p.13,converted,"Merr-Sonn Munitions, Inc.; baseline: Hold-out Blaster"
+"Model B4 ""Quickfire"" Hold-Out Blaster",Hold-out blaster,Ranged (Blaster Pistol),8,S,4,,0,0,400,Uncommon,R,Stun setting,GSI-B4 blaster pistol,d20 A&E p.13,converted,Galactic Solutions Industries; baseline: Hold-out Blaster
+"Model J1 ""Happy Surprise"" Palm Blaster",Hold-out blaster,Ranged (Blaster Pistol),6,S,8,,0,0,360,Uncommon,R,Stun setting,"Model J1 ""Happy Surprise"" Palm Blaster",d20 A&E p.13,converted,"Merr-Sonn Munitions, Inc.Merr-Sonn Munitions, Inc.; baseline: Hold-out Blaster"
+Ion gun pistol,Ion gun pistol,review,8,M,16,,1,0,250,,,,Ion pistol,d20 Core table 7-2,converted,
+Deck Sweeper Stun Blaster,Light repeating blaster,Ranged (Heavy Blaster),6,L,30,,3,2,2000,Uncommon,R,"Rapid Fire, Stun setting",,d20 A&E p.17,converted,baseline: Repeating Blaster
+T-21 Light Repeating Blaster (Typical Light Repeating Blaster),Light repeating blaster,Ranged (Heavy Blaster),9,E,80,,3,2,2000,Common,M,Rapid Fire,T-21 light repeating blaster/Legends,d20 A&E p.19,converted,BlasTech Industries; baseline: Repeating Blaster
+Underslung Rotary Blaster Carbine,Light repeating blaster,Ranged (Heavy Blaster),10,L,60,,3,2,2400,Uncommon,M,Rapid Fire,Underslung rotary blaster carbine,d20 A&E p.20,converted,Merr-Sonn; baseline: Repeating Blaster
+Autorifle,Long Gun,Ranged (Archaic),7,L,,50,2,1,300,Common,,"2H, Solid Projectile",,08 Equipment,sl100,
+Backpack Flamer,Long Gun,Ranged (Archaic),10,M,,20,2,1,700,Scarce,,,,08 Equipment,sl100,Short-range weapon projecting a sustained stream of burning fuel; terrifying in close quarters.
+Blaster Carbine,Long Gun,Ranged (Blaster),8,L,40,50,1,0,900,Common,,,Blaster carbine/Legends,08 Equipment; d20 Core table 7-2,merged,"Shorter-barrelled rifle offering a balance of portability and stopping power; common in military service. enc: SL100 scale 1 instead of 08 2; ruling 12 Oct: carbine is arm-sized, 1"
+Blaster Rifle,Long Gun,Ranged (Blaster),9,L,60,50,2,1,1000,Common,,"2H,",Blaster rifle/Legends,08 Equipment; d20 Core table 7-2,merged,Standard military long arm; the E-11 is the Imperial benchmark. Good range and accuracy.
+Blaster Sniper Rifle,Long Gun,Ranged (Blaster),11,L,,10,3,2,1000,Rare,,"2H, Damaging Impale",,08 Equipment,sl100,
+Bowcaster,Long Gun,Ranged (Blaster),10,L,20,5,3,2,1500,Exotic,,"2H, Solid Projectile, Penetrating",Bowcaster/Legends,08 Equipment; d20 Core table 7-2,merged,Traditional Wookiee explosive quarrel launcher; fires energised bolts with high stopping power. 08 value kept (ruling 12 Oct) heavy Wookiee weapon; WFRP two-handed weapons and the long rifle are Enc 3
+Heavy Blaster Rifle,Long Gun,Ranged (Blaster),10,,,50,2,1,,Scarce,,Damaging,,08 Equipment,sl100,High-output military rifle delivering sustained fire; used by clone commanders and heavy infantry.
+Ion Gun Rifle,Long Gun,Ranged (Blaster),8,M,60,20,2,1,800,Common,,"2H, Damages Electrics",Ion rifle/Legends,08 Equipment; d20 Core table 7-2,merged,Long-range ion weapon used by anti-droid specialists and slicer teams.
+Needle Rifle,Long Gun,Ranged (Archaic),1,L,,6,2,1,600,Exotic,,"Penetrating (6), Melee (Two-Handed)",,08 Equipment,sl100,
+Shotgun,Long Gun,Ranged (Archaic),7,M,,12,2,1,1200,Scarce,,"2H, Spread, Solid Projectile,",,08 Equipment,sl100,
+Sniper Rifle,Long Gun,Ranged (Archaic),8,E,,6,2,1,360,Scarce,,"2H, Solid Projectile, Penetrating (2)",,08 Equipment,sl100,
+Webber,Long Gun,Ranged (Archaic),-,M,,3,1,0,1200,Rare,,Melee (Two-Handed),,08 Equipment,sl100,
+Frohard's Galactic Firearms Magna Caster-100,Magna caster,review,9,L,40,,1,0,2000,Uncommon,R,,,d20 A&E p.26,converted,
+Verpine Shatter Gun,Magnetic accelerator weapon,review,11,L,40,,1,0,15000,Rare,I,,Verpine shatter gun,d20 A&E p.38,converted,
+Axe,Melee (1H),Melee (1H),4+StrB,,,,1,0,80,Common,,,,08 Equipment,sl100,
+Cortosis Blade,Melee (1H),Melee (1H),4+SB,,,,1,0,,Exotic,,,,08 Equipment,sl100,Blade woven with cortosis ore; one of the few melee weapons capable of shorting a lightsaber.
+Electrostaff,Melee (1H),Melee (2H),,,,,2,1,,Rare,,,,08 Equipment,sl100,Double-ended staff generating electrified ends; used by MagnaGuard and elite soldiers.
+Gaderffii (Gaffi Stick),Melee (1H),Melee (1H),4+SB,,,,1,0,50,Exotic,,,Gaderffii/Legends,08 Equipment; d20 Core table 7-2,merged,Traditional Tusken Raider weapon; a heavy club/spike combination tool and weapon. 08 value kept (ruling 12 Oct)
+Hammer,Melee (1H),Melee (1H),4+StrB,,,,1,0,25,Common,,,,08 Equipment,sl100,
+Knife / Dagger,Melee (1H),Melee (1H),2+StrB,,,,0,0,50,Common,,,,08 Equipment,sl100,
+Lightsaber,Melee (1H),Melee (\*Lightsaber),6+Form Bonus,,,,1,0,-,Unique,I,Fast Penetrating (6) Shield(2) Hack,Lightsaber/Legends,08 Equipment; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of 08 0; cost: d20 3000 used instead of 08 -; Not sold on any open market: built by the wielder or bought on the black market at whatever the seller dares ask.
+Lightwhip,Melee (1H),Melee (\*Lightsaber),,,,,0,0,,Exotic,,,,08 Equipment,sl100,Rare flexible plasma whip variant; unpredictable and difficult to defend against.
+Ryyk Blade,Melee (1H),Melee (1H),4+SB,,,,1,0,500,Exotic,,,Ryyk blade/Legends,08 Equipment; d20 A&E p.29,merged,Traditional Wookiee curved blade; massive and difficult for non-Wookiees to wield effectively.
+Stun Baton,Melee (1H),Melee (1H),1+StrB,,,,0,0,500,Scarce,R,"Pummel, Undamaging",Merr-Sonn stun baton,08 Equipment; d20 A&E p.31; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of 08 0; cost: d20 50 used instead of 08 500; cost: d20 500 used instead of 08 50; 08 value kept (ruling 12 Oct)
+Sword,Melee (1H),Melee (1H),4+StrB,,,,1,0,150,Common,,,,08 Equipment,sl100,
+Vibro-axe,Melee (1H),Melee (1H),5+StrB,,,,1,0,160,Scarce,,,,08 Equipment,sl100,Heavy Melee (Two-Handed) vibrating axe; devastating against armoured targets.
+Vibro-blade,Melee (1H),Melee (1H),5+StrB,,,,1,0,300,Scarce,,,,08 Equipment,sl100,Standard-issue vibrating mono-molecular blade; cuts through most materials with ease.
+Vibro-dagger,Melee (1H),Melee (1H),3+StrB,,,,0,0,100,Scarce,,,,08 Equipment,sl100,Compact vibrating blade for close quarters; easily concealed on the body.
+Vibrosword,Melee (1H),Melee (1H),5+StrB,,,,1,0,,Scarce,,,,08 Equipment,sl100,Heavy vibrating sword delivering brutal strikes; used by warriors who prefer raw cutting power.
+Whip,Melee (1H),Melee (1H),2+StrB,,,,1,0,60,Common,,Entangle,,08 Equipment,sl100,
+Double Lightsaber,Melee (Two-Handed),,7+Form Bonus/7+Form Bonus,,,,1,0,-,Unique,,,,08 Equipment,sl100,Not sold on any open market.
+Electro-Staff,Melee (Two-Handed),,5+StrB,,,,2,1,500,Scarce,,,,08 Equipment,sl100,
+Force Pike,Melee (Two-Handed),Melee (Force Pike),6+StrB,,,,2,1,500,Rare,,"Impact, Shock, Two-Handed",Force pike/Legends,08 Equipment; d20 Core table 7-2,merged,"cost: d20 500 used instead of 08 2000; long but light, like a WFRP spear or quarterstaff (Enc 2)"
+Great Lightsaber,Melee (Two-Handed),,8+Form Bonus,,,,1,0,-,Unique,,,,08 Equipment,sl100,Penetrating (8) Shield(3) Hack Damaging Not sold on any open market.
+Great Weapon,Melee (Two-Handed),,6+StrB,,,,2,1,300,Common,,,,08 Equipment,sl100,
+Improvised (Melee (Two-Handed)),Melee (Two-Handed),,2+StrB,,,,3,2,-,-,,,,08 Equipment,sl100,
+Staff,Melee (Two-Handed),,4+StrB,,,,2,1,25,Common,,,,08 Equipment,sl100,
+Atlatl,Melee weapon,Melee (Vibroblade),+SB+3,,,,1,0,50,,,,Atlatl/Legends,d20 Core table 7-2,converted,
+Cesta,Melee weapon,Melee (Vibroblade),+SB+3,,,,1,0,100,,,,Cesta/Legends,d20 Core table 7-2,converted,
+Club/baton,Melee weapon,Melee (Stun Baton),+SB+2,,,,1,0,15,,,"Pummel, Undamaging",,d20 Core table 7-2,converted,
+Combat gloves,Melee weapon,Melee (Vibroblade),,,,,0,0,200,,,,Combat gloves,d20 Core table 7-2,converted,
+CS-12 Stun Master,Melee weapon,Melee (Vibroblade),,,,,1,0,700,Uncommon,R,,CS-12 Stun Master/Legends,d20 A&E p.31,converted,SoroSuub Corporation; 
+Drolan Plasteel Sword (Typical Modern Longsword),Melee weapon,Melee (Vibroblade),+SB+2,,,,1,0,150,Common,,,,d20 A&E p.28,converted,
+Energy balls (10),Melee weapon,,+SB+5,,,,0,0,200,,,,,d20 Core table 7-2,converted,
+Garrote,Melee weapon,Melee (Brawling),+SB+2,,,,0,0,50,Common,,,Garrote/Legends,d20 A&E p.28,converted,
+Great Force Pike,Melee weapon,Melee (Force Pike),+SB+6,,,,2,1,1000,Uncommon,,"Impact, Shock, Two-Handed",Great force pike,d20 A&E p.30,converted,Czerka Arms; 
+Knife,Melee weapon,Melee (Brawling),+SB+2,,,,0,0,25,,,,Knife/Legends,d20 Core table 7-2,converted,
+LaserHone Duelist Vibrarapier,Melee weapon,Melee (Vibroblade),+SB+5,,,,1,0,500,Uncommon,R,,,d20 A&E p.30,converted,
+"Lightsaber, double",Melee weapon,Melee (Lightsaber),+SB+5,,,,1,0,-,Unique,,"Penetrating, Damaging, Hack",Double-bladed lightsaber/Legends,d20 Core table 7-2,converted,Not sold on any open market.
+Longsword,Melee weapon,Melee (Vibroblade),+SB+2,,,,1,0,150,,,,Longsword/Legends,d20 Core table 7-2,converted,
+"Mace, light",Melee weapon,Melee (Vibroblade),+SB+2,,,,1,0,50,,,,,d20 Core table 7-2,converted,
+Palandrix Personal Protection Stun Gauntlets,Melee weapon,Melee (Vibroblade),,,,,1,0,500,Common,,,,d20 A&E p.31,converted,
+Quarterstaff,Melee weapon,Melee (Electrostaff),+SB+2,,,,2,1,65,,,"Shock, Two-Handed",Quarterstaff/Legends,d20 Core table 7-2,converted,
+Sancretti Arms Whip (Typical Whip),Melee weapon,Melee (Brawling),+SB+2,,,,1,0,100,Common,,"Entangle, Wrap",Sancretti Arms Whip,d20 A&E p.29,converted,"Sancretti Arms & Munitions, Interstellar; "
+Snap Baton,Melee weapon,Melee (Stun Baton),+SB+2,,,,1,0,100,Common,,"Pummel, Undamaging",Snap baton,d20 A&E p.29,converted,"Merr-Sonn Munitions, Inc.; "
+Spear,Melee weapon,Melee (Vibroblade),+SB+2,,,,1,0,60,,,,Spear/Legends,d20 Core table 7-2,converted,
+TholCorp Neuranic Whip,Melee weapon,Melee (Brawling),+SB+2,,,,1,0,700,Rare,I,"Entangle, Wrap",,d20 A&E p.31,converted,
+Tribal Longspear,Melee weapon,Melee (Vibroblade),+SB+2,,,,2,1,80,Common,,", Two-Handed",,d20 A&E p.30,converted,
+Vibro-ax,Melee weapon,Melee (Vibroblade),+SB+5,,,,2,1,500,,,"Damaging, Two-Handed",Vibro-ax/Legends,d20 Core table 7-2,converted,
+Vibrobayonet,Melee weapon,Ranged (Archaic),7,,,,2,1,200,Uncommon,M,Entangle,Vibrobayonet/Legends,d20 A&E p.31,converted,
+Vibroblade,Melee weapon,Melee (Vibroblade),+SB+4,,,,1,0,250,,,Damaging,Vibroblade/Legends,d20 Core table 7-2,converted,
+Vibrodagger,Melee weapon,Melee (Vibroblade),+SB+3,,,,0,0,200,,,Damaging,Vibrodagger/Legends,d20 Core table 7-2,converted,
+Vibroknucklers,Melee weapon,Melee (Vibroblade),+SB+2,,,,0,0,200,Uncommon,R,Damaging,,d20 A&E p.30,converted,
+Xana Exotic Arms MSW-8 Molecular Stiletto,Melee weapon,Melee (Vibroblade),+SB+2,,,,1,0,700,Uncommon,,,,d20 A&E p.30,converted,
+Z2 Stun Baton,Melee weapon,Melee (Stun Baton),,,,,1,0,700,Uncommon,R,"Pummel, Undamaging",Z2 Stun Baton/Legends,d20 A&E p.31,converted,"Merr-Sonn Munitions, Inc.; "
+Net,Net,Ranged (Archaic),,S,4,,2,1,25,,,Entangle,Net/Legends,d20 Core table 7-2,converted,
+Autopistol,Pistol,Ranged (Archaic),5,S,,20,0,0,325,Common,,Solid Projectile,,08 Equipment,sl100,
+Blaster Pistol,Pistol,Ranged (Blaster),7,M,20,20,1,0,500,Common,,,Blaster pistol/Legends,08 Equipment; d20 Core table 7-2,merged,"Standard sidearm of soldiers, bounty hunters, and civilians galaxy-wide. Reliable and versatile. enc: SL100 scale 1 instead of 08 0;"
+Disruptor Pistol,Pistol,Ranged (Blaster),XX,M,,,1,0,,Exotic,,,,08 Equipment,sl100,"Illegal in most jurisdictions; fires a beam that breaks molecular bonds, disintegrating targets."
+Hand Flamer,Pistol,Ranged (Archaic),8,S,,6,1,0,500,Rare,,,,08 Equipment,sl100,
+Heavy Blaster Pistol,Pistol,Ranged (Blaster),8,M,,,1,0,,Common,,Damaging,,08 Equipment,sl100,More powerful than a standard pistol; the DL-44 is the iconic example. Favoured by Han Solo.
+Hold-out Blaster,Pistol,Ranged (Blaster),6,S,,,0,0,,Scarce,,,,08 Equipment,sl100,"Compact, easily concealed pistol favoured by civilians, spies, and assassins. Short range, low power."
+Ion Pistol,Pistol,Ranged (Blaster),,S,,,1,0,,Scarce,,,,08 Equipment,sl100,Fires ionised energy bolts that disable droids and electronics without destroying them.
+Needle Pistol,Pistol,Ranged (Archaic),2,M,,4,1,0,300,Exotic,,Penetrating (6),,08 Equipment,sl100,
+Sporting Blaster,Pistol,Ranged (Blaster),6,M,,,1,0,,Common,,,,08 Equipment,sl100,Low-powered civilian blaster designed for hunting and personal protection; non-military appearance.
+Web Pistol,Pistol,Ranged (Archaic),-,S,,3,1,0,1000,Rare,,,,08 Equipment,sl100,
+Quarrels (10),Quarrels (10),,,,,,0,0,400,,,,,d20 Core table 7-2,converted,
+Rheshalva Interstellar Armaments Rodian Repulsor Throwing-Razor,Repulsor throwing-razor,Melee (Brawling),+SB+4,,,,0,0,3000,Rare,L,,,d20 A&E p.37,converted,
+Sling,Sling,review,4,M,12,,0,0,35,,,,Sling/Legends,d20 Core table 7-2,converted,
+"Slugthrower, pistol",Slugthrower,Ranged (Slugthrower),7,M,20,,1,0,275,,,Solid Projectile,Slugthrower pistol/Legends,d20 Core table 7-2,converted,baseline: Slugthrower Rifle
+"Slugthrower, rifle",Slugthrower,Ranged (Slugthrower),8,L,40,,1,0,300,,,Solid Projectile,Slugthrower rifle/Legends,d20 Core table 7-2,converted,baseline: Slugthrower Rifle
+Adjudicator,Slugthrower pistol,Ranged (Slugthrower),5,M,20,,1,0,325,Common,L,Solid Projectile,,d20 A&E p.22,converted,baseline: Autopistol
+Field Sports Air Pistol,Slugthrower pistol,Ranged (Slugthrower),7,S,8,,1,0,200,Common,,Solid Projectile,Air pistol,d20 A&E p.22,converted,Field Sports; baseline: Autopistol
+Kelvarek Consolidated Arms Dissuader KD-30,Slugthrower pistol,Ranged (Slugthrower),6,M,20,,1,0,350,Uncommon,L,Solid Projectile,Dissuader KD-30,d20 A&E p.22,converted,Kelvarek Consolidated Arms; baseline: Autopistol
+Morellian Weapons Conglomerate Enforcer Pistol,Slugthrower pistol,Ranged (Slugthrower),8,M,20,,1,0,400,Rare,R,Solid Projectile,,d20 A&E p.23,converted,baseline: Autopistol
+Oriolanis Defense System Striker Projectile Pistol (Typical Slugthrower Pistol),Slugthrower pistol,Ranged (Slugthrower),7,M,20,,1,0,275,Common,L,Solid Projectile,,d20 A&E p.23,converted,baseline: Autopistol
+Yctar Arms Black Powder Pistol,Slugthrower pistol,Ranged (Slugthrower),6,S,8,,1,0,200,Rare,,Solid Projectile,Black-powder pistol,d20 A&E p.23,converted,Yctor Arms; baseline: Autopistol
+Oriolanis Defense Systems Blaster Buster,Slugthrower pistol J,Ranged (Slugthrower),7,M,20,,1,0,700,Uncommon,L,Solid Projectile,,d20 A&E p.22,converted,baseline: Autopistol
+Adventurer,Slugthrower rifle,Ranged (Slugthrower),8,L,60,,2,1,360,Common,L,Solid Projectile,,d20 A&E p.23,converted,baseline: Slugthrower Rifle
+Dresselian Projectile Rifle (Typical Slugthrower Rifle),Slugthrower rifle,Ranged (Slugthrower),8,L,40,,2,1,300,Common,L,Solid Projectile,,d20 A&E p.23,converted,baseline: Slugthrower Rifle
+"Pacnorval Defense Systems, Limited Sg-B2 Sonic Rifle",Sonic weapon,Ranged (Blaster Pistol),9,S,8,,1,0,2000,Uncommon,R,"Stun, Spread",,d20 A&E p.36,converted,baseline: Sonic Blaster
+Sonic Pistol,Sonic weapon,Ranged (Blaster Pistol),8,S,4,,1,0,3000,Uncommon,L,"Stun, Spread",Sonic pistol,d20 A&E p.36; d20 A&E p.37,merged,baseline: Sonic Blaster cost: d20 3000 used instead of 08 1000;
+Defense Conglomerate Defender (Typical Sporting Blaster Pistol),Sporting blaster pistol,Ranged (Blaster Pistol),7,M,16,,1,0,300,Common,L,Stun setting,,d20 A&E p.14,converted,baseline: Sporting Blaster Pistol
+Luxan Penetrator MB-450,Sporting blaster pistol,Ranged (Blaster Pistol),8,M,12,,1,0,550,Rare,L,Stun setting,Penetrator MB-450,d20 A&E p.14,converted,"Luxan Personal Armaments, Ltd.; baseline: Sporting Blaster Pistol"
+"Model B ""Quick-B""",Sporting blaster pistol,Ranged (Blaster Pistol),6,M,16,,1,0,360,Common,L,Stun setting,,d20 A&E p.15,converted,baseline: Sporting Blaster Pistol
+"X-30 ""Lancer"" Target Blast Pistol",Sporting blaster pistol,Ranged (Blaster Pistol),7,M,20,,1,0,330,Common,L,Stun setting,"X-30 ""Lancer"" target blast pistol",d20 A&E p.15,converted,SoroSuub Corporation; baseline: Sporting Blaster Pistol
+"Defense Conglomerate ""Light Sport"" (Typical Sporting Blaster Rifle)",Sporting blaster rifle,Ranged (Blaster Rifle),8,E,80,,2,1,800,Common,R,Stun setting,,d20 A&E p.18,converted,baseline: Sporting Blaster Rifle
+FS-1 Farshot,Sporting blaster rifle,Ranged (Blaster Rifle),7,E,100,,2,1,880,Common,R,Stun setting,FS-1 Farshot sporting blaster rifle,d20 A&E p.18,converted,Czerka Arms; baseline: Sporting Blaster Rifle
+Herloss HBt-4 Hunting Blaster,Sporting blaster rifle,Ranged (Blaster Rifle),9,L,60,,2,1,880,Common,R,Stun setting,HBt-4 hunting blaster/Legends,d20 A&E p.18,converted,Herloss; baseline: Sporting Blaster Rifle
+LD-1 Target Blaster Rifle,Sporting blaster rifle,Ranged (Blaster Rifle),9,E,80,,2,1,1100,Common,R,Stun setting,LD-1 target blaster rifle,d20 A&E p.19,converted,"Merr-Sonn Munitions, Inc.; baseline: Sporting Blaster Rifle"
+X-45 Sniper Rifle,Sporting blaster rifle,Ranged (Blaster Rifle),8,E,100,,2,1,1000,Uncommon,M,Stun setting,X-45 sniper rifle,d20 A&E p.19,converted,SoroSuub Corporation; baseline: Sporting Blaster Rifle
+Xerrol Nightstinger,Sporting blaster rifle,Ranged (Blaster Rifle),8,E,80,,2,1,1500,Common,R,Stun setting,,d20 A&E p.19,converted,baseline: Sporting Blaster Rifle
+Squib Tensor Rifle,Tensor rifle,review,9,L,40,,2,1,10000,Rare,R,,Tensor rifle,d20 A&E p.37,converted,Amberlandrax Armaments; 
+Arkanian's Grenade,Thrown (Ranged Archaic),,11,,,,0,0,1000,Scarce,,,,08 Equipment,sl100,
+Choke Grenade,Thrown (Ranged Archaic),,-,,,,0,0,250,Common,,,,08 Equipment,sl100,
+Fire Bomb,Thrown (Ranged Archaic),,6,,,,1,0,750,Scarce,,,,08 Equipment,sl100,
+Frag Grenade,Thrown (Ranged Archaic),,10,,,,0,0,500,Common,,,,08 Equipment,sl100,Standard fragmentation grenade; produces a lethal shrapnel burst on detonation.
+Ion Grenade,Thrown (Ranged Archaic),,,,,,,,,,,,,08 Equipment,sl100,Grenade releasing an ion pulse; disables droids and electronic systems in the blast radius.
+Photon Flash Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Rare,,,,08 Equipment,sl100,
+Proton Grenade,Thrown (Ranged Archaic),,,,,,,,,,,,,08 Equipment,sl100,High-yield military grenade producing a proton detonation; restricted to military use.
+Smoke Grenade,Thrown (Ranged Archaic),,-,,,,0,0,250,Common,,,,08 Equipment,sl100,Grenade producing a dense smoke cloud obscuring vision and sensor targeting.
+Stun Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Common,,,,08 Equipment,sl100,Non-lethal grenade releasing a concussive stun pulse; used for crowd control and captures.
+Thermal Detonator,Thrown (Ranged Archaic),Ranged (Grenade/Explosives),30,S,8,,0,0,2000,Scarce,,"Blast (3), Thrown",Thermal detonator/Legends,08 Equipment; d20 Core table 7-2,merged,Sphere-shaped high-yield explosive capable of levelling a room; iconic and feared galaxy-wide. cost: d20 2000 used instead of 08 10000;
+Web Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Rare,,,,08 Equipment,sl100,
+Galan Arms Vac Attack Mk-127,Wrist-mounted blade launcher,Melee (Vibroblade),+SB+6,,,,3,2,700,Uncommon,R,,Vac Attack Mk-127/Legends,d20 A&E p.27,converted,Golan Arms; 
+Drolan Plasteel QuickShot Wrist-Caster,Wrist-mounted crossbow,Ranged (Archaic),4,S,8,,2,1,500,Uncommon,R,,,d20 A&E p.27,converted,baseline: Bow
+LG-5 Laser Gauntlet,Wrist-mounted laser,review,6,M,20,,1,0,1500,Uncommon,R,,LG-5 laser gauntlet,d20 A&E p.28,converted,Prax Arms; 
+Kelvarek Consolidated Arms MM9 Rocket System,Wrist-mounted rocket launcher,Ranged (Missile/Rocket),,M,12,,3,2,2500,Uncommon,R,Blast (5),MM9 mini concussion rocket launcher/Legends,d20 A&E p.28,converted,Kelvarek Consolidated Arms; baseline: Missile Launcher
+DEMP Ion Pistol (Typical Ion Pistol),lon pistol,Ranged (Blaster Pistol),8,M,16,,1,0,250,Uncommon,L,"Damages Electrics, Undamaging (living), Stun setting",DEMP Ion Pistol,d20 A&E p.20,converted,"Merr-Sonn Munitions, Inc.; baseline: Ion Pistol"
+Homemade Ion Pistol,lon pistol,Ranged (Blaster Pistol),8,M,20,,1,0,300,Uncommon,L,"Damages Electrics, Undamaging (living), Stun setting",Ion pistol,d20 A&E p.20,converted,baseline: Ion Pistol
+Felebreck Electrical Defense Systems Droid Disabler,"lon pistol on those concerns, and the company has done a booming business in urban areas that have seen domestic upheaval, foreign invasion, and a rising population of masterless automatons. The Droid Disabler packs a great deal of power for a close-range weapon and is designed primarily to termi- nate-not just deactivate-dangerous droids.",Ranged (Blaster Pistol),9,S,8,,1,0,250,Uncommon,L,"Damages Electrics, Undamaging (living), Stun setting",,d20 A&E p.20,converted,baseline: Ion Pistol
+DEMP Ion Carbine (Typical Ion Rifle),lon rifle,Ranged (Blaster Rifle),9,L,60,,1,0,800,Uncommon,L,"Damages Electrics, Undamaging (living), Stun setting",DEMP Ion Carbine/Legends,d20 A&E p.20,converted,"Merr-Sonn Munitions, Inc.; baseline: Ion Rifle"

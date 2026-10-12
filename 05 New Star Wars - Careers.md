@@ -22,6 +22,8 @@ In an Advance Scheme, the number under a characteristic is the career level that
 
 ## **Physician (Medic)**
 
+![Physician (Medic) (SL100 original art)](File:SL100 Career Physician Medic.jpg)
+
 *With a steady hand and a well-stocked medpac, you practice the art of healing, striving to save lives across the galaxy.*
 
 Medics study patients' vitals, prescribe stims and surgeries, and patch the wounded together with bacta and synthflesh. The formal science of galactic medicine is well-established, but on backwater worlds and Outer Rim outposts supplies are scarce, leaving practitioners reliant on improvisation. Medicine's reputation has suffered from black-market "miracle cures" peddled by chem-pushers that do nothing or cause outright harm. Medics learn their profession at a Core World medical academy or apprenticed to a chartered surgical-droid programme. Most cheap surgery in the underlevels is undertaken by back-alley practitioners whose training is informal. Trained doctors with strong stomachs are in constant demand by mercenary outfits, planetary militias, and starship crews. The most famed Medics almost exclusively tend to corporate executives, senators, and the nobility of the Core Worlds.
@@ -37,7 +39,7 @@ Medics study patients' vitals, prescribe stims and surgeries, and patch the woun
 
 **Skills:** Bribery, Cool, Pilot (Land Vehicle), Endurance, Gossip, Medicine, Perception, Sleight of Hand
 
-**Talents:** Bookish, Field Dressing, Read/Write, Strike to Stun
+**Talents:** Bookish, Field Dressing, Datapad Use, Strike to Stun
 
 **Trappings:** Bandages, Healing Draught
 
@@ -51,7 +53,7 @@ Medics study patients' vitals, prescribe stims and surgeries, and patch the woun
 
 **3. Doctor — Silver 5**
 
-**Skills:** Consume Alcohol, Intimidate, Leadership, Research
+**Skills:** Consume Intoxicant, Intimidate, Leadership, Research
 
 **Talents:** Etiquette (Scholars), Resistance (Disease), Savvy, Strike to Injure
 
@@ -61,13 +63,15 @@ Medics study patients' vitals, prescribe stims and surgeries, and patch the woun
 
 **Skills:** Lore (Politics), Perform (Oratory)
 
-**Talents:** Etiquette (Nobles), Nimble Fingered, Savant (Medicine), Strong-minded
+**Talents:** Etiquette (Nobles), Nimble Fingered, Savant (Medicine), Strong-Minded
 
 **Trappings:** High Society Clothing, Code Cylinder of Appointment
 
 # **Citizens**
 
 ## **Agitator**
+
+![Agitator (SL100 original art)](File:SL100 Career Agitator.jpg)
 
 *Charismatic and articulate, you champion your cause in the face of Imperial opposition.*
 
@@ -82,9 +86,9 @@ Agitators lobby for political causes using HoloNet broadcasts, illicit data-leaf
 
 **1. Pamphleteer — Brass 1**
 
-**Skills:** Art (Writing), Bribery, Charm, Consume Alcohol, Gossip, Haggle, Lore (Politics), Profession (Slicer)
+**Skills:** Art (Writing), Bribery, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer)
 
-**Talents:** Blather, Gregarious, Panhandle, Read/Write
+**Talents:** Blather, Gregarious, Panhandle, Datapad Use
 
 **Trappings:** Datapad, Hammer and Nails, Stack of Datapads
 
@@ -114,6 +118,8 @@ Agitators lobby for political causes using HoloNet broadcasts, illicit data-leaf
 
 ## **Artisan**
 
+![Artisan (SL100 original art)](File:SL100 Career Artisan.jpg)
+
 *A skilled craftsperson, you take pride in your work, creating goods for sale and commission across the spacelanes.*
 
 Artisans produce goods, ranging from everyday necessities sold by Provisioners and Tailors to weapons and starship parts crafted by Smiths and Shipwrights. The larger spaceports house guilds — many descended from Old Republic-era trade unions — to protect local Artisans from fraudsters, since an Artisan's entire livelihood can be jeopardised by unskilled competitors hawking cheap counterfeit merchandise. Guild Artisans observe strict quality standards, with those failing to meet them blackballed and forbidden to trade locally. Artisans work at all levels of society, not just producing goods but also repairing them. They are employed by navies to maintain starships, by armies to service walkers and siegeworks, and by merchant houses of all sizes to transform raw materials into sellable goods.
@@ -127,7 +133,7 @@ Artisans produce goods, ranging from everyday necessities sold by Provisioners a
 
 **1. Apprentice Artisan — Brass 2**
 
-**Skills:** Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any)
+**Skills:** Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any)
 
 **Talents:** Artistic, Craftsman (any), Strong Back, Very Strong
 
@@ -145,7 +151,7 @@ Artisans produce goods, ranging from everyday necessities sold by Provisioners a
 
 **Skills:** Intuition, Leadership, Research, Codes (Trade Guild)
 
-**Talents:** Acute Sense (Taste or Touch), Master Tradesman (Any), Read/Write, Tinker
+**Talents:** Acute Sense (Taste or Touch), Master (Profession), Datapad Use, Tinker
 
 **Trappings:** Apprentice, Workshop
 
@@ -158,6 +164,8 @@ Artisans produce goods, ranging from everyday necessities sold by Provisioners a
 **Trappings:** Guild, Quality Clothing
 
 ## **Investigator**
+
+![Investigator (SL100 original art)](File:SL100 Career Investigator.jpg)
 
 *Perceptive and suspicious, you probe deep into the heart of any crime, and find answers.*
 
@@ -174,13 +182,13 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 
 **Skills:** Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track
 
-**Talents:** Alley Cat, Beneath Notice, Read/Write, Sharp
+**Talents:** Alley Cat, Beneath Notice, Datapad Use, Sharp
 
 **Trappings:** Glow Rod, Glow-Rod Cell, Journal, Datapad
 
 **2. Investigator — Silver 2**
 
-**Skills:** Consume Alcohol, Dodge, Lore (Law), Melee (Brawling), Slice Security, Sleight of Hand
+**Skills:** Consume Intoxicant, Dodge, Lore (Law), Melee (Brawling), Slice Security System, Sleight of Hand
 
 **Talents:** Etiquette (Any), Savvy, Shadow, Tenacious
 
@@ -198,11 +206,13 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 
 **Skills:** Intimidate, Lore (any)
 
-**Talents:** Acute Sense (Any), Savant (Any), Speedreader, Tower of Memories
+**Talents:** Acute Sense (Any), Savant (Any), Speedreader, Eidetic Memory
 
 **Trappings:** Network of Informants, Macrobinoculars
 
 ## **Merchant**
+
+![Merchant (SL100 original art)](File:SL100 Career Merchant.jpg)
 
 *Shrewd and numerate, you buy low to sell high, making more credits than most will ever see.*
 
@@ -217,9 +227,9 @@ Most Merchants trade in simple goods such as foodstuffs, textiles, durasteel, an
 
 **1. Trader — Silver 2**
 
-**Skills:** Creature Care, Bribery, Charm, Consume Alcohol, Pilot (Land Vehicle), Gamble, Gossip, Haggle
+**Skills:** Creature Care, Bribery, Charm, Consume Intoxicant, Pilot (Land Vehicle), Gamble, Gossip, Haggle
 
-**Talents:** Blather, Dealmaker, Read/Write, Suave
+**Talents:** Blather, Dealmaker, Datapad Use, Suave
 
 **Trappings:** Calculator, Cargo Speeder, Canvas Tarpaulin, 3d10 Credits
 
@@ -251,6 +261,8 @@ Most Merchants trade in simple goods such as foodstuffs, textiles, durasteel, an
 
 ## **Advisor**
 
+![Advisor (SL100 original art)](File:SL100 Career Advisor.jpg)
+
 *Wise and well-informed, you provide counsel and guidance so your employer prospers.*
 
 Advisors provide counsel to those they serve. Well-versed in the political and social conditions of their employer's domain, they are privy to confidential and sensitive information. While many Advisors are born into their positions, others actively seek noble patronage as a path to wealth and power. Some young royals pick their academy classmates or childhood friends as their first Aide, trusting them to say what no-one else will. Long years at court or in service to a lesser noble pave the way to the loftier heights of their careers. Many Advisors do not serve the nobility at all, instead lending their extensive capabilities to crime lords, sector warlords, corporate executives, religious orders, or guilds.
@@ -264,9 +276,9 @@ Advisors provide counsel to those they serve. Well-versed in the political and s
 
 **1. Aide — Silver 2**
 
-**Skills:** Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Old Tongue), Lore (Politics), Perception
+**Skills:** Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Tongue), Lore (Politics), Perception
 
-**Talents:** Beneath Notice, Etiquette (Any), Gregarious, Read/Write
+**Talents:** Beneath Notice, Etiquette (Any), Gregarious, Datapad Use
 
 **Trappings:** Datapad
 
@@ -296,6 +308,8 @@ Advisors provide counsel to those they serve. Well-versed in the political and s
 
 ## **Envoy**
 
+![Envoy (SL100 original art)](File:SL100 Career Envoy.jpg)
+
 *An articulate emissary, you travel far and wide, negotiating favourable pacts and treaties between worlds.*
 
 Experts in negotiation and social interaction, Envoys act as agents serving the interests of a sector government, a regional authority, a foreign entity, or a merchant house. Intrigue abounds in the courtly circles of Coruscant and the Core, and such a career choice is a risky proposition that only grows more perilous at the highest levels of government. Even when granted diplomatic immunity against foreign laws or customs, Ambassadors must tread carefully. Envoys must first prove their abilities in a lesser capacity as a Herald, assisting Diplomats in hammering out the tedious minutiae of treaties, or representing merchants, guilds, or creeds, building their reputations with each pact they establish. Some Envoys find employ with Mercenary Companies; the best of these can secure a profit for their employers without firing a single blaster bolt.
@@ -311,13 +325,13 @@ Experts in negotiation and social interaction, Envoys act as agents serving the 
 
 **Skills:** Athletics, Charm, Pilot (Land Vehicle), Dodge, Endurance, Intuition, Ride (Bantha), Pilot (Starship)
 
-**Talents:** Blather, Etiquette (Nobles), Read/Write, Suave
+**Talents:** Blather, Etiquette (Nobles), Datapad Use, Suave
 
 **Trappings:** Padded Jacket, Livery, Datachip Case
 
 **2. Envoy — Silver 4**
 
-**Skills:** Art (Writing), Bribe, Cool, Gossip, Haggle, Lore (Politics)
+**Skills:** Art (Writing), Bribery, Cool, Gossip, Haggle, Lore (Politics)
 
 **Talents:** Attractive, Cat-tongued, Etiquette (any), Seasoned Traveller
 
@@ -341,6 +355,8 @@ Experts in negotiation and social interaction, Envoys act as agents serving the 
 
 ## **Noble**
 
+![Noble (SL100 original art)](File:SL100 Career Noble.jpg)
+
 *As the scion of a noble bloodline, you stand proudly apart from the common rabble of the galaxy.*
 
 The blood of highborn ancestors courses through the veins of the nobility, granting Nobles the power to rule, make laws, and dispense justice on their family worlds. Nobles often inherit vast wealth and holdings — estates on Alderaan or Naboo, mining concerns on Bespin, factories on Sullust — although only those with a direct line of succession can expect to wield any genuine power. Many spend their lives consolidating this wealth and power through business, politics, and conquest. Those without substantial inheritance must make their own way in the galaxy, joining the Imperial Navy or planetary forces as a commissioned officer, or committing to service of one of the Force traditions. It is common to find Nobles working for more powerful noble houses, such as sending their children to serve as attachés at the courts of senators and Moffs.
@@ -354,9 +370,9 @@ The blood of highborn ancestors courses through the veins of the nobility, grant
 
 **1. Scion — Gold 1**
 
-**Skills:** Bribery, Consume Alcohol, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (Vibroblade), Play (Any)
+**Skills:** Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (Vibroblade), Play (Any)
 
-**Talents:** Etiquette (Nobles), Luck, Noble Blood, Read/Write
+**Talents:** Etiquette (Nobles), Luck, Noble Blood, Datapad Use
 
 **Trappings:** Courtly Garb, Ceremonial Vibroblade or Hand Mirror, Jewellery worth 3d10 GC, Personal Servant
 
@@ -380,11 +396,13 @@ The blood of highborn ancestors courses through the veins of the nobility, grant
 
 **Skills:** Lore (Any), Track
 
-**Talents:** Commanding Presence, Iron Will, Warleader, Wealthy
+**Talents:** Commanding Presence, Iron Will, War Leader, Wealthy
 
 **Trappings:** 4 sets of Best Quality Courtly Garb, Quality Ceremonial Vibroblade or Hand Mirror, 500 Credits, Jewellery worth 500 Credits, Province
 
 ## **Spy**
+
+![Spy (SL100 original art)](File:SL100 Career Spy.jpg)
 
 *You are the eyes and ears of another, exposing secrets and spreading lies.*
 
@@ -409,7 +427,7 @@ Spies are brave (or foolhardy) individuals who secretly gather intelligence for 
 
 **Skills:** Climb, Entertain (Act), Intuition, Melee (Basic), Codes (Any), Sleight of Hand
 
-**Talents:** Etiquette (Any), Lip Reading, Read/Write, Secret Identity
+**Talents:** Etiquette (Any), Lip Reading, Datapad Use, Secret Identity
 
 **Trappings:** Informer, Hand Weapon, Disguise Kit, Ring of Informers, Macrobinoculars
 
@@ -425,11 +443,13 @@ Spies are brave (or foolhardy) individuals who secretly gather intelligence for 
 
 **Skills:** Lore (Any), Research
 
-**Talents:** Briber, Schemer, Suave, Tower of Memories
+**Talents:** Briber, Schemer, Suave, Eidetic Memory
 
 **Trappings:** Office and Staff, Large Spy Ring of Agents, Spies, and Informers
 
 ## **Warden**
+
+![Warden (SL100 original art)](File:SL100 Career Warden.jpg)
 
 *You oversee another's territory, ensuring it is properly maintained and, if necessary, protected.*
 
@@ -444,7 +464,7 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 
 **1. Custodian — Silver 1**
 
-**Skills:** Athletics, Charm Creature, Consume Alcohol, Cool, Endurance, Intuition, Lore (Local), Perception
+**Skills:** Athletics, Creature Training (Any), Consume Intoxicant, Cool, Endurance, Intuition, Lore (Local), Perception
 
 **Talents:** Menacing, Night Vision, Sharp, Strike to Stun
 
@@ -454,7 +474,7 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 
 **Skills:** Creature Care, Melee (Basic), Outdoor Survival, Ranged (Blaster Rifle), Ride (Bantha), Swim
 
-**Talents:** Animal Affinity, Etiquette (Servants), Strider (any), Rover
+**Talents:** Creature Affinity, Etiquette (Servants), Strider (any), Rover
 
 **Trappings:** Hand Weapon or Blaster Rifle with 10 Power Packs, Mounted Tauntaun with Saddle and Tack, Padded Jacket
 
@@ -462,7 +482,7 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 
 **Skills:** Bribery, Charm, Gossip, Leadership
 
-**Talents:** Embezzle, Numismatics, Read/Write, Supportive
+**Talents:** Embezzle, Numismatics, Datapad Use, Supportive
 
 **Trappings:** Breastplate, Ceremonial Staff of Office, Staff of Wardens and Custodians
 
@@ -477,6 +497,8 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 # **Force Wielders**
 
 ## **Force Savant**
+
+![Force Savant (SL100 original art)](File:SL100 Career Force Savant.jpg)
 
 *Aided by the Force, cleaving through battle with lightsaber, vibrosword, or weapon of your Force Tradition, you dominate the field, spreading awe in your wake.*
 
@@ -513,7 +535,7 @@ Where a Sith Warrior channels rage into their body and blade, the Sorcerer turns
 
 **1. Padawan / Force Acolyte / Sith Acolyte — Silver 3**
 
-**Skills:** Athletics, Lore (Force Traditions), Charm, Heal, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Trade (Armourer — lightsaber construction)
+**Skills:** Athletics, Lore (Force Traditions), Charm, Medicine, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Profession (Armourer — lightsaber construction)
 
 **Talents:** Etiquette (Senate or Diplomatic Corps), Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions), Savant (Lore), Linguistics
 
@@ -529,7 +551,7 @@ Sith Acolyte: You have survived the Sith Academy — which is itself a significa
 
 **Skills:** Cool, Dodge, Endurance, Charm (Persuasion — primary weapon), Language (Diplomacy — formal treaty language, Senate procedure, noble address), Lore (Any)
 
-**Talents:** Suave, Seasoned Traveller, Lightning Reflexes (Force-Assisted Awareness — not speed of blade, but speed of reading a room), Strong-minded
+**Talents:** Suave, Seasoned Traveller, Lightning Reflexes (Force-Assisted Awareness — not speed of blade, but speed of reading a room), Strong-Minded
 
 **Trappings:** Force Tradition ie Jedi Knight Robes (understated — often avoid obvious order markings), Personal force Tradition Weapon / Lightsaber, Diplomatic Credentials, Transport (civilian vessel — unassuming)
 
@@ -555,7 +577,7 @@ Sith Apprentice: Your Master points. You go. Whatever is there when you arrive d
 
 **4. Jedi Master / Force Master / Sith Lord — Gold 4**
 
-**Skills:** Lore (Any — a Master is a repository of obscure knowledge), Secret Signs (any)
+**Skills:** Lore (Any — a Master is a repository of obscure knowledge), Codes (any)
 
 **Talents:** Disarm (Rhetorical Disarm — the ability to take the weapon out of a conversation before it becomes a conflict), Inspiring, Iron Will, Savant (Force Lore)
 
@@ -568,6 +590,8 @@ Force Master: xxx
 Sith Lord: You have killed or outlasted everyone who stood between you and this. The Rule of Two says there can only be two. You are beginning to do the arithmetic.
 
 ## **Force Shadow**
+
+![Force Shadow (SL100 original art)](File:SL100 Career Force Shadow.jpg)
 
 **JEDI SENTINEL**
 
@@ -598,7 +622,7 @@ You are the most dangerous thing in any room you enter, and no one realises it u
 
 Your Master saw something in you the other instructors missed: you notice things. You remember things. You ask questions that make older Jedi uncomfortable.
 
-**Skills:** Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth, Heal, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Trade (Armourer — lightsaber construction)
+**Skills:** Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth, Medicine, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction)
 
 **Talents:** Etiquette (Underworld — how to behave in places that will kill you for standing out), Flee!, Sturdy, Warrior Born
 
@@ -612,9 +636,9 @@ Sith Acolyte: xxx
 
 **2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5**
 
-**Skills:** Cool, Dodge, Endurance, Intimidate, Underworld (Street — the customs, signals, and power structures of criminal and shadow networks), Melee (Any)
+**Skills:** Cool, Dodge, Endurance, Intimidate, Lore (Underworld — the customs, signals, and power structures of criminal and shadow networks), Melee (Any)
 
-**Talents:** Shadowy, Seasoned Traveller, Combat Reflexes (Danger Sense — Force-assisted awareness of ambush and betrayal), Strike Mighty Blow
+**Talents:** Shadow, Seasoned Traveller, Combat Reflexes (Danger Sense — Force-assisted awareness of ambush and betrayal), Strike Mighty Blow
 
 **Trappings:** Civilian Freighter or Nondescript Transport, Melee Weapon (non-lightsaber backup — vibroknife, stun baton), Blaster Pistol (Sentinels make pragmatic exceptions), Light Armour worn under plain clothing
 
@@ -626,9 +650,9 @@ Sith Inquisitor: You have unambiguous, immediate, tangible power. The authority 
 
 **3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2**
 
-**Skills:** Charm (Manipulation — running informants, turning enemies, building trust under false pretences), Consume Alcohol (Endure Hardship — long solo missions, cover identities maintained for months, the particular loneliness of the work), Evaluate (Intelligence Assessment — reading a situation for threats, opportunities, lies), Lore (Sith & Dark Side Cults)
+**Skills:** Charm (Manipulation — running informants, turning enemies, building trust under false pretences), Consume Intoxicant (Endure Hardship — long solo missions, cover identities maintained for months, the particular loneliness of the work), Evaluate (Intelligence Assessment — reading a situation for threats, opportunities, lies), Lore (Sith & Dark Side Cults)
 
-**Talents:** Schemer, Stout-hearted, Unshakeable, Warleader (Network Handler — commanding a web of contacts and field operatives rather than soldiers)
+**Talents:** Schemer, Stout-hearted, Unshakeable, War Leader (Network Handler — commanding a web of contacts and field operatives rather than soldiers)
 
 **Trappings:** Established Cover Identity with Documented History, Informant Network, Safe Houses on Several Worlds
 
@@ -640,7 +664,7 @@ Grand Inquisitor: xxx
 
 **4. Jedi Master/ Force Master / Sith Lord — Gold 4**
 
-**Skills:** Lore (Any — a Shadow accumulates knowledge like scar tissue), Secret Signs (Shadow Cipher — the private communication codes of the Sentinel network, known to no one outside it)
+**Skills:** Lore (Any — a Shadow accumulates knowledge like scar tissue), Codes (Shadow Cipher — the private communication codes of the Sentinel network, known to no one outside it)
 
 **Talents:** Disarm (Exposure — the ability to strip an enemy's cover, leverage, or deception in a single devastating reveal), Inspiring (to the agents and other Force traditions you bring in), Iron Will, Strike to Injure
 
@@ -653,6 +677,8 @@ Force Master: xxx
 Sith Lord: You know where the bodies are buried. You put most of them there. The Emperor keeps you close because you are useful. You keep yourself useful because the alternative is instructive.
 
 ## **Force Warrior**
+
+![Force Warrior (SL100 original art)](File:SL100 Career Force Warrior.jpg)
 
 *Aided by the Force, cleaving through battle with lightsaber, vibrosword, or weapon of your Force Tradition, you dominate the field, spreading awe in your wake.*
 
@@ -689,7 +715,7 @@ You do not stride into battle. You descend upon it. Where the Jedi Guardian is a
 
 **Skills:** Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon),
 
-**Talents:** Etiquette (Senate or Military), Roughrider (Mounted Beast Combat) or Pilot, Sturdy, Warrior Born
+**Talents:** Etiquette (Senate or Military), Ace Pilot or Roughrider, Sturdy, Warrior Born
 
 **Trappings:** Force tradition Robes, Training Force weapon ie Lightsaber, Utility Belt, Basic Medpac, Personal Speeder or Mount
 
@@ -715,9 +741,9 @@ Sith Apprentice: You have been granted the title. You have a lightsaber that is 
 
 **3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2**
 
-**Skills:** Charm, Consume Alcohol, Leadership, Lore (Warfare)
+**Skills:** Charm, Consume Intoxicant, Leadership, Lore (Warfare)
 
-**Talents:** Fearless (Any), Stout-hearted, Unshakeable, Warleader
+**Talents:** Fearless (Any), Stout-hearted, Unshakeable, War Leader
 
 **Trappings:** Personalised Armour, Small Unit of Force Warriors who will follow your orders (loyal or not)
 
@@ -744,6 +770,8 @@ Sith Lord: You know where the bodies are buried. You put most of them there. The
 # **Freelancers**
 
 ## **Bounty Hunter**
+
+![Bounty Hunter (SL100 original art)](File:SL100 Career Bounty Hunter.jpg)
 
 *Ruthless and determined, you pursue your quarry to the bitter end: for justice, or for credits.*
 
@@ -790,6 +818,8 @@ Bounty Hunters track down fugitives and outlaws for credits. Most are legally li
 
 ## **Scout**
 
+![Scout (SL100 original art)](File:SL100 Career Scout.jpg)
+
 *Intrepid and resourceful, you guide others through the dangerous wilds of the Outer Rim.*
 
 Across uncharted worlds where reliable maps and survey data are rare, local knowledge can mean the difference between life and death for travellers. Scouts are experts at finding safe paths through the wastes and untamed jungles of the frontier. Local guides accompany their clients, warning of upcoming dangers, sharing settlement gossip, or showing the best places to forage. Experienced Scouts will barely be seen by their employers as they explore the trails ahead and keep a watchful eye out for hidden hazards. While most Scouts keep to familiar territory, some specialise in safely navigating unmapped sectors. Explorers might venture even further into treacherous and hostile space, filling in the blank spaces on their starcharts. Most Scouts do not tackle dangers themselves, preferring to slip away quietly to warn their companions and enable their employers to avoid potential threats entirely.
@@ -803,7 +833,7 @@ Across uncharted worlds where reliable maps and survey data are rare, local know
 
 **1. Guide — Brass 3**
 
-**Skills:** Charm Creature, Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Perception
+**Skills:** Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Perception
 
 **Talents:** Orientation, Rover, Sharp, Strider (any)
 
@@ -835,6 +865,8 @@ Across uncharted worlds where reliable maps and survey data are rare, local know
 
 ## **Smuggler**
 
+![Smuggler (SL100 original art)](File:SL100 Career Smuggler.jpg)
+
 *You smuggle cargo, avoiding tariffs and risking customs inspections to secure maximum profit.*
 
 Most trade is legally taxed by sector authorities, as well as illegally taxed by pirates and protection rackets. Smugglers see themselves as charitable helpers: merchants make more profit, customers pay fewer credits, morally flexible customs officers take a cut, pirates are avoided, and more besides. It takes experience and ingenuity to circumvent all the bailiffs, customs officials, inspectors, and busybodies keen to stop them, but Smugglers dare the risks to support themselves and their crews. Smugglers come in many forms, perhaps transporting tiny, high-value goods for nobles, or large cargoes for shady merchants. Some Smugglers also deal in spice, weapons, or slaves — crimes that incur significantly more repercussions than a burned hyperdrive or a smugglers' brand.
@@ -848,7 +880,7 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 
 **1. River Runner — Brass 2**
 
-**Skills:** Athletics, Bribery, Cool, Consume Alcohol, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim
+**Skills:** Athletics, Bribery, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim
 
 **Talents:** Criminal, Scavenger, Strider (Wastelands), Strong Back
 
@@ -882,6 +914,8 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 
 ## **Bawd**
 
+![Bawd (SL100 original art)](File:SL100 Career Bawd.jpg)
+
 *Street-wise and mercenary, you make a living selling illicit goods in the seedier side of the spaceport.*
 
 Bawds guide folk to establishments offering a variety of illegal and immoral services. Bawds include spice-dealers, dancers, hustlers and holodrama models. Many famous masterpieces of the modern era have been posed for by Bawds plucked from the cantina district. Travelling armies and itinerant freighter crews are followed by camp followers, with Bawds among them looking to make credits in any way they can. Ringleaders, proprietors of establishments where Bawds gather, can accrue significant empires providing services to all types of rogues, from fences who need discreet access to rich clients to safe bolt-holes for gang bosses and crime lords.
@@ -895,7 +929,7 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 
 **1. Hustler — Brass 1**
 
-**Skills:** Bribery, Charm, Consume Alcohol, Entertain (Any), Gamble, Gossip, Haggle, Intimidate
+**Skills:** Bribery, Charm, Consume Intoxicant, Entertain (Any), Gamble, Gossip, Haggle, Intimidate
 
 **Talents:** Attractive, Alley Cat, Blather, Gregarious
 
@@ -905,7 +939,7 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 
 **Skills:** Dodge, Endurance, Intuition, Lore (Local), Melee (Basic), Perception
 
-**Talents:** Ambidextrous, Carouser, Criminal, Resistant (Disease)
+**Talents:** Ambidextrous, Carouser, Criminal, Resistance (Disease)
 
 **Trappings:** Dose of Weirdroot, Quality Clothing
 
@@ -927,6 +961,8 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 
 ## **Charlatan**
 
+![Charlatan (SL100 original art)](File:SL100 Career Charlatan.jpg)
+
 *Unscrupulous and charming, you separate fools from their credits; thankfully, there is no shortage of fools…*
 
 A Charlatan traffics in trust, yet profits from treachery. By preying on emotions and psychological weaknesses, Charlatans offer their 'mark' a prize that is too good to be true. Social privilege provides no protection, and even the loftiest senators can fall victim to a skilled Charlatan. In addition to a knack for lying, a lack of conscience is also of benefit to Charlatans. Charlatans include Swindlers, Con Artists, Sabacc Sharks, and other Scoundrels seeking to prey on the gullible. Some experienced Charlatans work with slicers who forge documentation, identichip records, or holo-credentials for a cut of any profits.
@@ -940,7 +976,7 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 
 **1. Swindler — Brass 3**
 
-**Skills:** Bribery, Consume Alcohol, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand
+**Skills:** Bribery, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand
 
 **Talents:** Cardsharp, Diceman, Etiquette (Any), Luck
 
@@ -956,9 +992,9 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 
 **3. Con Artist — Silver 2**
 
-**Skills:** Language (Huttese), Lore (Galactic Sigils), Slice Security, Codes (Smuggler)
+**Skills:** Language (Huttese), Lore (Galactic Sigils), Slice Security System, Codes (Smuggler)
 
-**Talents:** Attractive, Cat-tongued, Dealmaker, Read/Write
+**Talents:** Attractive, Cat-tongued, Dealmaker, Datapad Use
 
 **Trappings:** Disguise Kit, Slicer Spikes, Multiple Forged Documents
 
@@ -971,6 +1007,8 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 **Trappings:** Forged Seal, Datapad
 
 ## **Fence**
+
+![Fence (SL100 original art)](File:SL100 Career Fence.jpg)
 
 *A shrewd assessor of valuables, you'll buy anything, legal or not, and turn it around for a tidy profit.*
 
@@ -985,7 +1023,7 @@ A Fence buys thieves' spoils and sells them on for profit, often to those unawar
 
 **1. Broker — Silver 1**
 
-**Skills:** Charm, Consume Alcohol, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (Basic)
+**Skills:** Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (Basic)
 
 **Talents:** Alley Cat, Cardsharp, Dealmaker, Gregarious
 
@@ -1017,6 +1055,8 @@ A Fence buys thieves' spoils and sells them on for profit, often to those unawar
 
 ## **Outlaw**
 
+![Outlaw (SL100 original art)](File:SL100 Career Outlaw.jpg)
+
 *You prey upon travellers, extracting a toll from the vulnerable and the unsuspecting.*
 
 Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulnerable travellers and merchant convoys. They lead dangerous and often hardscrabble lives. Many do not see themselves as criminals, but as oppressed groups trying to live their lives free from outside constraints, refugees of Imperial pacification, displaced colonists, dispossessed native peoples. Particularly savvy and brutal Outlaws may form bands of their own, sometimes even uniting several bands under a single banner. Such Bandit Kings are feared and reviled by senator and serf alike. Though few Outlaws discriminate in choosing their prey, some claim to protect the common folk. These do-gooders focus their larceny on greedy nobles and Imperial supply lines and, in return, locals may provide them with food, information, and safe harbour.
@@ -1030,7 +1070,7 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 
 **1. Brigand — Brass 1**
 
-**Skills:** Athletics, Consume Alcohol, Cool, Endurance, Gamble, Intimidate, Melee (Basic), Outdoor Survival
+**Skills:** Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (Basic), Outdoor Survival
 
 **Talents:** Combat Aware, Criminal, Rover, Flee!
 
@@ -1062,6 +1102,8 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 
 ## **Thief**
 
+![Thief (SL100 original art)](File:SL100 Career Thief.jpg)
+
 *You steal from others in order to line your own pockets, and you're rather good at it.*
 
 Thieves steal all manner of wealth and goods from their fellow citizens. From the lowliest cutpurse to the wiliest cat burglar, the thought of an honest day's work for a respectable wage is little more than a bad joke. Thieves often organise themselves into gangs alongside charlatans, racketeers, and fences to further their mutual wealth. Bitter feuds between such illicit organisations have been known to last for years, even decades. The lowliest Thieves target individuals, picking pockets or waylaying victims in the rat-infested alleyways of the underlevels. Burglars avoid confrontation by bypassing security on shops and residences, carrying off portable valuables. More ambitious thieves scope out their targets for days or weeks, even infiltrating their target locations to get a more precise lay of the land. Working with other professional burglars and slicers, such experts can organise heists of which their lesser peers can only dream.
@@ -1083,7 +1125,7 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 
 **2. Thief — Brass 3**
 
-**Skills:** Evaluate, Gossip, Lore (Local), Slice Security, Codes (Smuggler), Sleight of Hand
+**Skills:** Evaluate, Gossip, Lore (Local), Slice Security System, Codes (Smuggler), Sleight of Hand
 
 **Talents:** Break and Enter, Etiquette (Criminals), Fast Hands, Shadow
 
@@ -1109,6 +1151,8 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 
 ## **Guard**
 
+![Guard (SL100 original art)](File:SL100 Career Guard.jpg)
+
 *Your job is simple: keep undesirables out.*
 
 The best way to keep something safe is to post a guard. Guarding looks easy enough — it's usually standing around doing very little. Guards live and die, quite literally, by how they behave during that one moment when they are required to spring into action. The best can command high wages and are entrusted with the lives of the galaxy's finest personages and most valuable items. Guards are everywhere, from the Imperial palace down to bouncers who stand outside cantinas all night, ready to throw drunkards into the street. They also include vault wardens — those who defend banking-clan depositories in the dead of night, watchful for would-be thieves — and temple guards who defend Force shrines and important priests. Merchants often employ many Guards to defend their valuable stock. Some claim bodyguards have it best, because they stay close to their esteemed employers and often partake of a life far beyond that which their station would normally allow.
@@ -1122,7 +1166,7 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 
 **1. Sentry — Silver 1**
 
-**Skills:** Consume Alcohol, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Perception
+**Skills:** Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Perception
 
 **Talents:** Diceman, Etiquette (Servants), Strike to Stun, Tenacious
 
@@ -1154,6 +1198,8 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 
 ## **Pit Fighter**
 
+![Pit Fighter (SL100 original art)](File:SL100 Career Pit Fighter.jpg)
+
 *You fight for credits, for glory, and for the entertainment of the masses.*
 
 Watching fights is a popular pastime. On many worlds, organised fights — gladiatorial arena bouts, droid combat, beast-pits — take place every cycle. There is money to be made charging spectators, and even more in gambling on the result. Winners earn credits and are celebrated as local heroes. Losers are hurt or killed. Because pit fighting is officially frowned upon in the Core, the fights are often controlled by criminal cartels — the Hutts, Black Sun, the Pyke Syndicate — but the rich love to slum it on occasion, especially if it involves a little bloodshed. The gladiators of the Outer Rim arenas are the most renowned pit fighters, though the chain-fighters, of Nar Shaddaa and the rancor-baiters of Tatooine draw a crowd. Pugilists and wrestlers might work a travelling fair, challenging the public to survive three minutes in the ring with them, or they might fight a celebrated opponent in front of cheering crowds. Vibroblades, stun batons, electrowhips, boxing, wrestling — there is an almost endless variation of styles and codes a Pit Fighter might adopt.
@@ -1169,7 +1215,7 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 
 **Skills:** Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling)
 
-**Talents:** Dirty Fighter, In-fighter, Iron Jaw, Reversal
+**Talents:** Dirty Fighting, In-fighter, Iron Jaw, Reversal
 
 **Trappings:** Bandages, Knuckledusters, Padded Jacket
 
@@ -1183,7 +1229,7 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 
 **3. Pit Champion — Silver 5**
 
-**Skills:** Consume Alcohol, Gossip, Lore (Anatomy), Perform (Fight)
+**Skills:** Consume Intoxicant, Gossip, Lore (Anatomy), Perform (Fight)
 
 **Talents:** Combat Master, Disarm, Menacing, Robust
 
@@ -1198,6 +1244,8 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 **Trappings:** Quality Helmet
 
 ## **Soldier**
+
+![Soldier (SL100 original art)](File:SL100 Career Soldier.jpg)
 
 *You are paid to train, be disciplined, and, when the need comes, go to war.*
 
@@ -1220,7 +1268,7 @@ By the command of the Galactic Emperor — and before him the Republic Senate �
 
 **2. Soldier — Silver 3**
 
-**Skills:** Consume Alcohol, Gamble, Gossip, Melee (Any), Ranged (Any), Outdoor Survival
+**Skills:** Consume Intoxicant, Gamble, Gossip, Melee (Any), Ranged (Any), Outdoor Survival
 
 **Talents:** Drilled, Etiquette (Soldiers), Rapid Reload, Shieldsman
 
@@ -1230,7 +1278,7 @@ By the command of the Galactic Emperor — and before him the Republic Senate �
 
 **Skills:** Medicine, Intuition, Leadership, Perception
 
-**Talents:** Combat Aware, Enclosed Fighter, Unshakeable, Warleader
+**Talents:** Combat Aware, Enclosed Fighter, Unshakeable, War Leader
 
 **Trappings:** Symbol of Rank, Unit of Troops
 
@@ -1238,7 +1286,7 @@ By the command of the Galactic Emperor — and before him the Republic Senate �
 
 **Skills:** Lore (Warfare), Navigation
 
-**Talents:** Inspiring, Public Speaking, Seasoned Traveller, Stout-hearted
+**Talents:** Inspiring, Public Speaker, Seasoned Traveller, Stout-hearted
 
 **Trappings:** Letter of Commission, Speeder Bike, Map, Orders, Unit of Soldiers, Quality Uniform, Symbol of Rank
  

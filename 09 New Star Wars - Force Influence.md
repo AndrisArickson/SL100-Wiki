@@ -38,7 +38,7 @@ Examples of 10 points
 | 64 | Nomi Sunrider, Arca Jeth | +3 SL to light sided Light Saber combat forms and Force Talents<br/><br/>People feel better around you. +10 Cool checks to people around you to resist <br/><br/>All predators within Fellowship km of you, becomes docile | -3 SL to dark sided Light Saber combat forms and Force Talents |
 | 32 | Tionne Solusar | +2 SL to light sided Light Saber combat forms and Force Talents<br/><br/>People feel better around you. +10 Cool checks to your allies with you, to resist <br/><br/>All predators within Fellowship metres of you, becomes docile on the world and curious about you | -2 SL to dark sided Light Saber combat forms and Force Talents |
 | 16 | Yoda | +1 SL to light sided Light Saber combat forms<br/><br/>All your Cool checks to resist strong negative emotions are made at +10<br/><br/>A predator within Fellowship metres of you, becomes docile on the world and curious about you | -1 SL to dark sided Light Saber combat forms and Force Talents |
-| 8 | Qui Gon<br/><br/>Obi Wan | Animal Affinity<br/><br/>Your Cool checks at +10 vs emotions (Fear, anger, aggression, hatred)<br/><br/>Your Charm checks at +10 vs friendship / diplomacy |  |
+| 8 | Qui Gon<br/><br/>Obi Wan | Creature Affinity<br/><br/>Your Cool checks at +10 vs emotions (Fear, anger, aggression, hatred)<br/><br/>Your Charm checks at +10 vs friendship / diplomacy |  |
 | 4 |  |  |  |
 | 2 |  |  |  |
 | 1 |  |  |  |

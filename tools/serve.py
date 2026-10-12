@@ -92,7 +92,7 @@ def layout(title, body, q="", tabs="", extra_head=""):
 <div class="wrap"><nav>
 <h4>Navigate</h4><a href="/">Main page</a><a href="/special/recent">Local edits</a><a href="/random">Random page</a>
 <a href="/special/allpages">All pages</a><a href="/special/images">Image list</a><a href="/special/status">Harvest status</a>
-<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Character_creation">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
+<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Character_creation">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/image-review">Image review</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
 <h4>Reference</h4><a href="/category/Weapons">Weapons</a><a href="/category/Armor">Armor</a><a href="/category/Starships">Starships</a>
 <a href="/category/Vehicles">Vehicles</a><a href="/category/Droids">Droids</a><a href="/category/Planets">Planets</a>
 </nav><main><div class="tabs">%s</div><h1>%s</h1>%s</main></div></body></html>""" % (
@@ -162,6 +162,8 @@ class H(BaseHTTPRequestHandler):
                 return self.redirect(wiki_href(r[0]) if r else "/")
             if path == "/match-review":
                 return self.match_review(qs)
+            if path == "/image-review":
+                return self.image_review(con, qs)
             if path == "/books" or path.startswith("/books/"):
                 return self.books(path[7:].strip("/"), qs)
             if path.startswith("/special/"):
@@ -187,6 +189,8 @@ class H(BaseHTTPRequestHandler):
         form = urllib.parse.parse_qs(self.rfile.read(n).decode("utf-8"), keep_blank_values=True)
         if path == "/match-review":
             return self.match_review_save(form)
+        if path == "/image-review":
+            return self.image_review_save(form)
         if not path.startswith("/edit/"):
             return self.send("bad request", 400, "text/plain")
         title = norm_title(path[6:])
@@ -321,6 +325,63 @@ class H(BaseHTTPRequestHandler):
                 "stats, costs and availability.</p>" % n)
         self.send(layout("Star Legends Wiki", body, tabs=self.tabs(HOME_TITLE, False)))
 
+    # ---- image quality review: contact sheets, worst first; one click decides a whole page
+    def image_review(self, con, qs):
+        try:
+            con.execute("SELECT 1 FROM imglic LIMIT 1")
+        except Exception:
+            return self.send(layout("Image review", "<p>No images yet: run <code>./wiki.sh images-fetch</code> then <code>./wiki.sh images-qc</code>.</p>"))
+        g = lambda k, d: (qs.get(k, [d])[0] or d)
+        bucket, show, maxs = g("bucket", "all"), g("show", "todo"), int(g("max", "100"))
+        per = int(g("per", "120"))
+        w = ["status='ok'", "q_score IS NOT NULL", "q_score <= %d" % maxs]
+        if bucket != "all":
+            w.append("bucket='%s'" % bucket.replace("'", ""))
+        if show == "todo":
+            w.append("review IS NULL")
+        elif show == "replace":
+            w.append("review='replace'")
+        where = " AND ".join(w)
+        total = con.execute("SELECT COUNT(*) FROM imglic WHERE " + where).fetchone()[0]
+        rows = con.execute("SELECT name,q_score,q_flags,bucket,review FROM imglic WHERE %s ORDER BY q_score, name LIMIT %d" % (where, per)).fetchall()
+        stats = con.execute("SELECT COUNT(*), SUM(review='ok'), SUM(review='replace'), SUM(review IS NULL) FROM imglic WHERE status='ok' AND q_score IS NOT NULL").fetchone()
+        tiles = "".join(
+            '<label class="ir-tile%s" title="%s"><input type="checkbox" name="replace" value="%s"%s><img src="/img/%s" loading="lazy">'
+            '<span>%s &middot; %d &middot; %s</span><a href="/wiki/File:%s" target="_blank">open</a></label>' %
+            (" ir-rep" if r[4] == "replace" else "", esc(r[2] or ""), esc(r[0]), " checked" if r[4] == "replace" else "", urllib.parse.quote(r[0]),
+             esc(r[0][:28]), r[1], esc(r[3]), urllib.parse.quote(r[0].replace(" ", "_"))) for r in rows)
+        hidden = "".join('<input type="hidden" name="page" value="%s">' % esc(r[0]) for r in rows)
+        filt = ('<form method="get" action="/image-review" class="ir-filter">Licence <select name="bucket">%s</select> '
+                'Show <select name="show">%s</select> Score up to <input name="max" size="3" value="%d"> Per page <input name="per" size="3" value="%d"> '
+                '<button>Filter</button></form>' %
+                ("".join('<option%s>%s</option>' % (" selected" if bucket == b else "", b) for b in ("all", "free", "fair", "untagged")),
+                 "".join('<option value="%s"%s>%s</option>' % (v, " selected" if show == v else "", t) for v, t in
+                         (("todo", "not yet reviewed"), ("replace", "marked for replacement"), ("all", "everything"))), maxs, per))
+        auto = ('<form method="post" action="/image-review" style="display:inline"><input type="hidden" name="action" value="auto">'
+                'Approve every unreviewed image scoring at least <input name="min" size="3" value="70"> <button>Auto-approve</button></form>')
+        body = ('<p>%d scored &middot; %d approved &middot; %d marked for replacement &middot; %d to review. This view: %d images, worst first.</p>%s<p>%s</p>'
+                '<form method="post" action="/image-review"><input type="hidden" name="action" value="page">%s'
+                '<p><b>Tick the images that need replacing</b>, then one click: <button>Save page: ticked = replace, rest = OK</button></p>'
+                '<div class="ir-grid">%s</div><p><button>Save page: ticked = replace, rest = OK</button></p></form>' %
+                (stats[0], stats[1] or 0, stats[2] or 0, stats[3] or 0, total, filt, auto, hidden, tiles or "<p><i>Nothing left in this view.</i></p>"))
+        self.send(layout("Image review", body))
+
+    def image_review_save(self, form):
+        con = db_connect()
+        try:
+            now = now_iso()
+            if (form.get("action", [""])[0]) == "auto":
+                mn = int(form.get("min", ["70"])[0] or 70)
+                con.execute("UPDATE imglic SET review='ok', reviewed_at=? WHERE status='ok' AND review IS NULL AND q_score >= ?", (now, mn))
+            else:
+                rep = set(form.get("replace", []))
+                for n in form.get("page", []):
+                    con.execute("UPDATE imglic SET review=?, reviewed_at=? WHERE name=?", ("replace" if n in rep else "ok", now, n))
+            con.commit()
+        finally:
+            con.close()
+        self.redirect(self.headers.get("Referer") or "/image-review")
+
     # ---- d20 item -> Legends article review (Source_Text/tables/wiki_match.csv; choices saved beside it)
     def _mr_files(self):
         base = ROOT.parent / "Source_Text" / "tables"
@@ -432,15 +493,26 @@ class H(BaseHTTPRequestHandler):
                 (r["width"], r["height"], esc(r["mime"] or ""), esc(r["url"] or "#"))) if r else "<p>Unknown file.</p>"
         used = "".join('<li><a href="%s">%s</a></li>' % (wiki_href(x[0]), esc(x[0])) for x in
                        con.execute("SELECT page FROM imguse WHERE img=? LIMIT 100", (name,)))
+        try:
+            lic = con.execute("SELECT bucket,licence,artist,credit,descurl FROM imglic WHERE name=?", (name,)).fetchone()
+        except Exception:
+            lic = None
+        if lic:
+            info += ("<p class='note'><b>Licence:</b> %s (%s)%s%s. <a href='%s'>File page on Wookieepedia</a>.%s</p>" %
+                     (esc(lic[1] or "not stated"), esc(lic[0]), (" &middot; <b>Author:</b> " + esc(lic[2])) if lic[2] else "",
+                      (" &middot; <b>Credit:</b> " + esc(lic[3])) if lic[3] else "", esc(lic[4] or "#"),
+                      " Shown in this private local wiki only; not published." if lic[0] != "free" else ""))
         body = '<img class="wimg" src="/img/%s" style="max-width:100%%">%s<h3>Used on</h3><ul>%s</ul>' % (urllib.parse.quote(name), info, used)
         self.send(layout("File:" + esc(name), body))
 
     def image(self, con, name):
         name = norm_title(name)
-        real = FULL_IMG_DIR / placeholders.placeholder_relpath(name).replace(".webp", "")
-        if real.is_file():
-            return self.send(real.read_bytes(), 200, mimetypes.guess_type(str(real))[0] or "image/jpeg",
-                             {"Cache-Control": "max-age=3600"})
+        rel = placeholders.placeholder_relpath(name)
+        for real, ctype in ((FULL_IMG_DIR / rel.replace(".webp", ""), None), (FULL_IMG_DIR / rel, "image/webp"),
+                            (ROOT / "images" / "local" / rel, "image/webp")):      # hand-placed file, free WebP, local-only WebP
+            if real.is_file():
+                return self.send(real.read_bytes(), 200, ctype or mimetypes.guess_type(str(real))[0] or "image/jpeg",
+                                 {"Cache-Control": "max-age=3600"})
         w, h = DIMS.get(name, (None, None))
         p = placeholders.ensure_placeholder(name, w, h)
         self.send(p.read_bytes(), 200, "image/webp", {"Cache-Control": "max-age=3600"})

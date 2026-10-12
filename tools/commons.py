@@ -1,0 +1,192 @@
+#!/usr/bin/env python3
+"""Find Wikimedia Commons originals of the images our wiki uses, and fetch them from Commons (gently, with attribution).
+
+  commons.py check [--bucket free|fair|untagged|all] [--limit N]
+        look each image name up on Commons (50 per request, 1 s apart) and compare sizes:
+          match     same file name and the same width x height        -> safe to use
+          probable  same name, same shape, different size              -> almost certainly a rescale; check by eye
+          name-only same name but a different picture                   -> not used
+          none      not on Commons
+        results: table imgcommons in data/wiki.db and docs/collation/commons_check.md
+  commons.py fetch [--include-probable] [--limit N]
+        download the 'match' files (and 'probable' if asked) from upload.wikimedia.org, convert to WebP (max 800 px),
+        save to images/full/ (free licences are pushed) and record the Commons licence, author and file page.
+  commons.py status
+Stop with: touch data/STOP   (re-run to resume).
+"""
+import json
+import sys
+import time
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common as C  # noqa: E402
+import images as I  # noqa: E402
+
+API = "https://commons.wikimedia.org/w/api.php"
+DELAY = 1.0
+SCHEMA = """CREATE TABLE IF NOT EXISTS imgcommons(
+  name TEXT PRIMARY KEY, verdict TEXT, ctitle TEXT, cw INTEGER, ch INTEGER, licence TEXT, licence_url TEXT,
+  artist TEXT, credit TEXT, descurl TEXT, url TEXT, thumburl TEXT, checked_at TEXT, fetched_at TEXT)"""
+
+
+def ua():
+    return C.CFG["user_agent"] + " commons-check"
+
+
+def api(params):
+    q = dict(params, format="json", formatversion="2")
+    req = urllib.request.Request(API + "?" + urllib.parse.urlencode(q), headers={"User-Agent": ua()})
+    for attempt in range(4):
+        try:
+            return json.load(urllib.request.urlopen(req, timeout=60))
+        except Exception as e:  # noqa: BLE001
+            if attempt == 3:
+                raise
+            C.log("  commons api retry after %r" % e)
+            time.sleep(10 * (attempt + 1))
+
+
+def db():
+    con = I.db()
+    con.execute(SCHEMA)
+    return con
+
+
+def verdict(ow, oh, cw, ch):
+    if not cw:
+        return "none"
+    if ow and oh and (ow, oh) == (cw, ch):
+        return "match"
+    if ow and oh and abs(ow / oh - cw / ch) < 0.01:
+        return "probable"
+    return "name-only"
+
+
+def cmd_check(bucket="free", limit=None):
+    con = db()
+    where = "" if bucket == "all" else " AND bucket='%s'" % bucket.replace("'", "")
+    rows = con.execute("SELECT name,ow,oh FROM imglic WHERE status!='ok'%s AND name NOT IN (SELECT name FROM imgcommons) "
+                       "ORDER BY bucket='free' DESC, name" % where).fetchall()
+    if limit:
+        rows = rows[:limit]
+    C.log("commons check: %d images (%s)" % (len(rows), bucket))
+    size = {r[0]: (r[1], r[2]) for r in rows}
+    done = 0
+    for chunk in C.chunks([r[0] for r in rows], 50):
+        if C.should_stop():
+            C.log("commons check: stop requested; progress saved")
+            break
+        r = api({"action": "query", "titles": "|".join("File:" + n for n in chunk), "prop": "imageinfo",
+                 "iiprop": "url|size|extmetadata", "iiurlwidth": str(I.MAX_W),
+                 "iiextmetadatafilter": "Artist|LicenseShortName|LicenseUrl|Credit|AttributionRequired"})
+        q = r.get("query", {})
+        norm = {x["to"]: x["from"] for x in q.get("normalized", [])}
+        out = []
+        for p in q.get("pages", []):
+            title = p.get("title", "")
+            name = norm.get(title, title)[5:]
+            if name not in size:
+                continue
+            ii = (p.get("imageinfo") or [{}])[0] if not p.get("missing") else {}
+            md = ii.get("extmetadata") or {}
+            if not isinstance(md, dict):
+                md = {}
+            g = lambda k: I.strip_html((md.get(k) or {}).get("value", ""))  # noqa: E731
+            v = verdict(*size[name], ii.get("width"), ii.get("height"))
+            out.append((name, v, title, ii.get("width"), ii.get("height"), g("LicenseShortName"), g("LicenseUrl"),
+                        g("Artist"), g("Credit"), ii.get("descriptionurl", ""), ii.get("url", ""), ii.get("thumburl", ""), C.now_iso()))
+        con.executemany("INSERT OR REPLACE INTO imgcommons(name,verdict,ctitle,cw,ch,licence,licence_url,artist,credit,descurl,url,"
+                        "thumburl,checked_at) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?)", out)
+        con.commit()
+        done += len(chunk)
+        if done % 1000 < 50:
+            C.log("  checked %d / %d" % (done, len(rows)))
+        time.sleep(DELAY)
+    report(con)
+    cmd_status()
+
+
+def report(con):
+    lines = ["# Wikimedia Commons check", "",
+             "Images our wiki uses that also exist on Wikimedia Commons under the same file name. "
+             "Generated by `tools/commons.py check`; fetch the matches with `./wiki.sh commons-fetch`.", "",
+             "| Our bucket | match | probable | name-only | none |", "|---|---|---|---|---|"]
+    for b in ("free", "fair", "untagged"):
+        c = dict(con.execute("SELECT c.verdict,count(*) FROM imgcommons c JOIN imglic l USING(name) WHERE l.bucket=? GROUP BY 1", (b,)).fetchall())
+        if c:
+            lines.append("| %s | %s |" % (b, " | ".join(str(c.get(k, 0)) for k in ("match", "probable", "name-only", "none"))))
+    lines += ["", "## Matches and probables", "", "| File | Verdict | Our size | Commons size | Commons licence | Author |", "|---|---|---|---|---|---|"]
+    for r in con.execute("SELECT c.name,c.verdict,l.ow,l.oh,c.cw,c.ch,c.licence,c.artist,c.descurl FROM imgcommons c JOIN imglic l USING(name) "
+                         "WHERE c.verdict IN ('match','probable') ORDER BY c.verdict, c.name"):
+        lines.append("| [%s](%s) | %s | %sx%s | %sx%s | %s | %s |" % (r[0].replace("|", "/"), r[8], r[1], r[2], r[3], r[4], r[5], r[6],
+                                                                  (r[7] or "")[:60].replace("|", "/")))
+    p = C.ROOT / "docs" / "collation" / "commons_check.md"
+    p.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    C.log("wrote %s" % p.relative_to(C.ROOT))
+
+
+def cmd_fetch(include_probable=False, limit=None):
+    con = db()
+    vs = ("match", "probable") if include_probable else ("match",)
+    rows = con.execute("SELECT c.name,c.url,c.thumburl,c.cw,c.licence,c.artist,c.credit,c.descurl FROM imgcommons c JOIN imglic l USING(name) "
+                       "WHERE c.verdict IN (%s) AND l.status!='ok' ORDER BY c.name" % ",".join("?" * len(vs)), vs).fetchall()
+    if limit:
+        rows = rows[:limit]
+    C.log("commons fetch: %d images" % len(rows))
+    ok = bad = 0
+    for name, url, thumb, cw, lic, artist, credit, desc in rows:
+        if C.should_stop():
+            C.log("commons fetch: stop requested; progress saved")
+            break
+        src = thumb if thumb and (name.lower().endswith(".svg") or (cw and cw > I.MAX_W)) else url
+        try:
+            data = urllib.request.urlopen(urllib.request.Request(src, headers={"User-Agent": ua()}), timeout=60).read()
+            webp = I.to_webp(data)
+            p = I.dest(name, "free")
+            p.parent.mkdir(parents=True, exist_ok=True)
+            tmp = p.with_suffix(".tmp")
+            tmp.write_bytes(webp)
+            tmp.replace(p)
+            con.execute("UPDATE imglic SET bucket='free', status='ok', path=?, bytes=?, fetched_at=?, licence=?, artist=?, credit=?, "
+                        "descurl=?, q_flags=NULL WHERE name=?",
+                        (p.relative_to(C.ROOT).as_posix(), len(webp), C.now_iso(), (lic or "") + " (Wikimedia Commons)", artist,
+                         ("Wikimedia Commons" + (": " + credit if credit else ""))[:300], desc, name))
+            con.execute("UPDATE imgcommons SET fetched_at=? WHERE name=?", (C.now_iso(), name))
+            ok += 1
+        except Exception as e:  # noqa: BLE001
+            bad += 1
+            C.log("  failed %s: %r" % (name, e))
+        if (ok + bad) % 25 == 0:
+            con.commit()
+            C.log("  %d / %d: %d saved, %d failed" % (ok + bad, len(rows), ok, bad))
+        time.sleep(DELAY)
+    con.commit()
+    C.log("commons fetch: %d saved, %d failed" % (ok, bad))
+
+
+def cmd_status():
+    con = db()
+    print("Commons check (by our licence bucket):")
+    for r in con.execute("SELECT l.bucket,c.verdict,count(*),sum(c.fetched_at IS NOT NULL) FROM imgcommons c JOIN imglic l USING(name) "
+                         "GROUP BY 1,2 ORDER BY 1,2"):
+        print("  %-9s %-10s %6d   fetched %d" % tuple(r))
+
+
+def main():
+    a = sys.argv[1:]
+    cmd = a[0] if a else "status"
+    opt = lambda k, d=None: a[a.index(k) + 1] if k in a else d  # noqa: E731
+    lim = int(opt("--limit")) if opt("--limit") else None
+    if cmd == "check":
+        cmd_check(opt("--bucket", "free"), lim)
+    elif cmd == "fetch":
+        cmd_fetch("--include-probable" in a, lim)
+    else:
+        cmd_status()
+
+
+if __name__ == "__main__":
+    main()

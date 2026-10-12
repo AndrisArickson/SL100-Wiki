@@ -15,10 +15,14 @@ from pathlib import Path
 
 WIKI = Path(__file__).resolve().parent.parent.parent
 OUT = WIKI / "docs" / "collation"
-F07 = WIKI / "07 New Star Wars - Talents.md"
+F07 = WIKI / "07 New Star Wars - Talents (revised).md"
+if not F07.exists():
+    F07 = WIKI / "07 New Star Wars - Talents.md"
 F06 = WIKI / "06 New Star Wars - Skills.md"
 F05 = WIKI / "05 New Star Wars - Careers.md"
-FTL = WIKI / "Talent List.md"
+FTL = WIKI / "Talent List (revised).md"
+if not FTL.exists():
+    FTL = WIKI / "Talent List.md"
 
 
 def plain(s):
@@ -66,7 +70,9 @@ def talent_list():
     rows, sec = [], ""
     for i, ln in enumerate(FTL.read_text(encoding="utf-8", errors="replace").split("\n"), 1):
         s = ln.strip()
-        m = re.match(r"^[-*]\s+(.+?)\s+[—–-]\s+(.*)$", s)
+        m = re.match(r"^[-*]\s+(.+?)\s+[—–-]\s+(.*)$", s) or re.match(r"^\|\s*([^|]+?)\s*\|\s*([^|]*?)\s*\|", s)
+        if m and m.group(1).strip() in ("Talent", "---"):
+            continue
         if m:
             rows.append({"name": plain(m.group(1)), "section": sec, "summary": plain(m.group(2)), "line": i})
         elif s and s.upper() == s and re.search(r"[A-Z]", s) and not set(s) <= set("=-"):
@@ -164,7 +170,7 @@ def main():
     summary = []
     for ln in F06.read_text(encoding="utf-8", errors="replace").split("\n")[:40]:
         if ln.count(",") > 10:
-            summary = [plain(x) for x in ln.split(",") if plain(x)]
+            summary = [plain(x).replace("\\", "") for x in re.split(r",\s*(?![^()]*\))", ln) if plain(x)]
             break
     md += ["", "## Skills named in 06's opening list but with no entry of their own (%d)" % len([x for x in summary if key(x) not in ks]), "",
            ", ".join(x for x in summary if key(x) not in ks) or "none"]

@@ -9,7 +9,7 @@ Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,skill,Percep
 Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,skill,Sleight of Hand,38
 Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,talent,Bookish,40
 Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,talent,Field Dressing,40
-Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,talent,Read/Write,40
+Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,talent,Datapad Use,40
 Academics,Physician (Medic),1. Physician’s Apprentice — Brass 4,talent,Strike to Stun,40
 Academics,Physician (Medic),2. Physician — Silver 3,skill,Charm,46
 Academics,Physician (Medic),2. Physician — Silver 3,skill,Haggle,46
@@ -21,7 +21,7 @@ Academics,Physician (Medic),2. Physician — Silver 3,talent,Coolheaded,48
 Academics,Physician (Medic),2. Physician — Silver 3,talent,Criminal,48
 Academics,Physician (Medic),2. Physician — Silver 3,talent,Etiquette (Trade Guild),48
 Academics,Physician (Medic),2. Physician — Silver 3,talent,Surgery,48
-Academics,Physician (Medic),3. Doctor — Silver 5,skill,Consume Alcohol,54
+Academics,Physician (Medic),3. Doctor — Silver 5,skill,Consume Intoxicant,54
 Academics,Physician (Medic),3. Doctor — Silver 5,skill,Intimidate,54
 Academics,Physician (Medic),3. Doctor — Silver 5,skill,Leadership,54
 Academics,Physician (Medic),3. Doctor — Silver 5,skill,Research,54
@@ -34,11 +34,11 @@ Academics,Physician (Medic),4. Head Physician — Gold 1,skill,Perform (Oratory)
 Academics,Physician (Medic),4. Head Physician — Gold 1,talent,Etiquette (Nobles),64
 Academics,Physician (Medic),4. Head Physician — Gold 1,talent,Nimble Fingered,64
 Academics,Physician (Medic),4. Head Physician — Gold 1,talent,Savant (Medicine),64
-Academics,Physician (Medic),4. Head Physician — Gold 1,talent,Strong-minded,64
+Academics,Physician (Medic),4. Head Physician — Gold 1,talent,Strong-Minded,64
 Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Art (Writing),85
 Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Bribery,85
 Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Charm,85
-Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Consume Alcohol,85
+Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Consume Intoxicant,85
 Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Gossip,85
 Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Haggle,85
 Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Lore (Politics),85
@@ -46,7 +46,7 @@ Citizens,Agitator,1. Pamphleteer — Brass 1,skill,Profession (Slicer),85
 Citizens,Agitator,1. Pamphleteer — Brass 1,talent,Blather,87
 Citizens,Agitator,1. Pamphleteer — Brass 1,talent,Gregarious,87
 Citizens,Agitator,1. Pamphleteer — Brass 1,talent,Panhandle,87
-Citizens,Agitator,1. Pamphleteer — Brass 1,talent,Read/Write,87
+Citizens,Agitator,1. Pamphleteer — Brass 1,talent,Datapad Use,87
 Citizens,Agitator,2. Agitator — Brass 2,skill,Cool,93
 Citizens,Agitator,2. Agitator — Brass 2,skill,Dodge,93
 Citizens,Agitator,2. Agitator — Brass 2,skill,Entertain (Storytelling),93
@@ -73,7 +73,7 @@ Citizens,Agitator,4. Demagogue — Brass 5,talent,Schemer,111
 Citizens,Agitator,4. Demagogue — Brass 5,talent,Suave,111
 Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Athletics,130
 Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Cool,130
-Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Consume Alcohol,130
+Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Consume Intoxicant,130
 Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Dodge,130
 Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Endurance,130
 Citizens,Artisan,1. Apprentice Artisan — Brass 2,skill,Evaluate,130
@@ -98,8 +98,8 @@ Citizens,Artisan,3. Master Artisan — Silver 3,skill,Leadership,146
 Citizens,Artisan,3. Master Artisan — Silver 3,skill,Research,146
 Citizens,Artisan,3. Master Artisan — Silver 3,skill,Codes (Trade Guild),146
 Citizens,Artisan,3. Master Artisan — Silver 3,talent,Acute Sense (Taste or Touch),148
-Citizens,Artisan,3. Master Artisan — Silver 3,talent,Master Tradesman (Any),148
-Citizens,Artisan,3. Master Artisan — Silver 3,talent,Read/Write,148
+Citizens,Artisan,3. Master Artisan — Silver 3,talent,Master (Profession),148
+Citizens,Artisan,3. Master Artisan — Silver 3,talent,Datapad Use,148
 Citizens,Artisan,3. Master Artisan — Silver 3,talent,Tinker,148
 Citizens,Artisan,4. Guildmaster — Gold 1,skill,Bribery,154
 Citizens,Artisan,4. Guildmaster — Gold 1,skill,Intimidate,154
@@ -117,13 +117,13 @@ Citizens,Investigator,1. Sleuth — Silver 1,skill,Stealth (Urban),175
 Citizens,Investigator,1. Sleuth — Silver 1,skill,Track,175
 Citizens,Investigator,1. Sleuth — Silver 1,talent,Alley Cat,177
 Citizens,Investigator,1. Sleuth — Silver 1,talent,Beneath Notice,177
-Citizens,Investigator,1. Sleuth — Silver 1,talent,Read/Write,177
+Citizens,Investigator,1. Sleuth — Silver 1,talent,Datapad Use,177
 Citizens,Investigator,1. Sleuth — Silver 1,talent,Sharp,177
-Citizens,Investigator,2. Investigator — Silver 2,skill,Consume Alcohol,183
+Citizens,Investigator,2. Investigator — Silver 2,skill,Consume Intoxicant,183
 Citizens,Investigator,2. Investigator — Silver 2,skill,Dodge,183
 Citizens,Investigator,2. Investigator — Silver 2,skill,Lore (Law),183
 Citizens,Investigator,2. Investigator — Silver 2,skill,Melee (Brawling),183
-Citizens,Investigator,2. Investigator — Silver 2,skill,Slice Security,183
+Citizens,Investigator,2. Investigator — Silver 2,skill,Slice Security System,183
 Citizens,Investigator,2. Investigator — Silver 2,skill,Sleight of Hand,183
 Citizens,Investigator,2. Investigator — Silver 2,talent,Etiquette (Any),185
 Citizens,Investigator,2. Investigator — Silver 2,talent,Savvy,185
@@ -142,18 +142,18 @@ Citizens,Investigator,4. Detective — Silver 5,skill,Lore (any),199
 Citizens,Investigator,4. Detective — Silver 5,talent,Acute Sense (Any),201
 Citizens,Investigator,4. Detective — Silver 5,talent,Savant (Any),201
 Citizens,Investigator,4. Detective — Silver 5,talent,Speedreader,201
-Citizens,Investigator,4. Detective — Silver 5,talent,Tower of Memories,201
+Citizens,Investigator,4. Detective — Silver 5,talent,Eidetic Memory,201
 Citizens,Merchant,1. Trader — Silver 2,skill,Creature Care,220
 Citizens,Merchant,1. Trader — Silver 2,skill,Bribery,220
 Citizens,Merchant,1. Trader — Silver 2,skill,Charm,220
-Citizens,Merchant,1. Trader — Silver 2,skill,Consume Alcohol,220
+Citizens,Merchant,1. Trader — Silver 2,skill,Consume Intoxicant,220
 Citizens,Merchant,1. Trader — Silver 2,skill,Pilot (Land Vehicle),220
 Citizens,Merchant,1. Trader — Silver 2,skill,Gamble,220
 Citizens,Merchant,1. Trader — Silver 2,skill,Gossip,220
 Citizens,Merchant,1. Trader — Silver 2,skill,Haggle,220
 Citizens,Merchant,1. Trader — Silver 2,talent,Blather,222
 Citizens,Merchant,1. Trader — Silver 2,talent,Dealmaker,222
-Citizens,Merchant,1. Trader — Silver 2,talent,Read/Write,222
+Citizens,Merchant,1. Trader — Silver 2,talent,Datapad Use,222
 Citizens,Merchant,1. Trader — Silver 2,talent,Suave,222
 Citizens,Merchant,2. Merchant — Silver 5,skill,Evaluate,228
 Citizens,Merchant,2. Merchant — Silver 5,skill,Intuition,228
@@ -180,7 +180,7 @@ Citizens,Merchant,4. Merchant Prince — Gold 3,talent,Luck,246
 Citizens,Merchant,4. Merchant Prince — Gold 3,talent,Schemer,246
 Citizens,Merchant,4. Merchant Prince — Gold 3,talent,Wealthy,246
 Dignitaries,Advisor,1. Aide — Silver 2,skill,Bribery,267
-Dignitaries,Advisor,1. Aide — Silver 2,skill,Consume Alcohol,267
+Dignitaries,Advisor,1. Aide — Silver 2,skill,Consume Intoxicant,267
 Dignitaries,Advisor,1. Aide — Silver 2,skill,Endurance,267
 Dignitaries,Advisor,1. Aide — Silver 2,skill,Gossip,267
 Dignitaries,Advisor,1. Aide — Silver 2,skill,Haggle,267
@@ -190,7 +190,7 @@ Dignitaries,Advisor,1. Aide — Silver 2,skill,Perception,267
 Dignitaries,Advisor,1. Aide — Silver 2,talent,Beneath Notice,269
 Dignitaries,Advisor,1. Aide — Silver 2,talent,Etiquette (Any),269
 Dignitaries,Advisor,1. Aide — Silver 2,talent,Gregarious,269
-Dignitaries,Advisor,1. Aide — Silver 2,talent,Read/Write,269
+Dignitaries,Advisor,1. Aide — Silver 2,talent,Datapad Use,269
 Dignitaries,Advisor,2. Advisor — Silver 4,skill,Charm,275
 Dignitaries,Advisor,2. Advisor — Silver 4,skill,Cool,275
 Dignitaries,Advisor,2. Advisor — Silver 4,skill,Evaluate,275
@@ -225,10 +225,10 @@ Dignitaries,Envoy,1. Herald — Silver 2,skill,Ride (Bantha),312
 Dignitaries,Envoy,1. Herald — Silver 2,skill,Pilot (Starship),312
 Dignitaries,Envoy,1. Herald — Silver 2,talent,Blather,314
 Dignitaries,Envoy,1. Herald — Silver 2,talent,Etiquette (Nobles),314
-Dignitaries,Envoy,1. Herald — Silver 2,talent,Read/Write,314
+Dignitaries,Envoy,1. Herald — Silver 2,talent,Datapad Use,314
 Dignitaries,Envoy,1. Herald — Silver 2,talent,Suave,314
 Dignitaries,Envoy,2. Envoy — Silver 4,skill,Art (Writing),320
-Dignitaries,Envoy,2. Envoy — Silver 4,skill,Bribe,320
+Dignitaries,Envoy,2. Envoy — Silver 4,skill,Bribery,320
 Dignitaries,Envoy,2. Envoy — Silver 4,skill,Cool,320
 Dignitaries,Envoy,2. Envoy — Silver 4,skill,Gossip,320
 Dignitaries,Envoy,2. Envoy — Silver 4,skill,Haggle,320
@@ -252,7 +252,7 @@ Dignitaries,Envoy,4. Ambassador — Gold 5,talent,Commanding Presence,338
 Dignitaries,Envoy,4. Ambassador — Gold 5,talent,Noble Blood,338
 Dignitaries,Envoy,4. Ambassador — Gold 5,talent,Savvy,338
 Dignitaries,Noble,1. Scion — Gold 1,skill,Bribery,357
-Dignitaries,Noble,1. Scion — Gold 1,skill,Consume Alcohol,357
+Dignitaries,Noble,1. Scion — Gold 1,skill,Consume Intoxicant,357
 Dignitaries,Noble,1. Scion — Gold 1,skill,Gamble,357
 Dignitaries,Noble,1. Scion — Gold 1,skill,Intimidate,357
 Dignitaries,Noble,1. Scion — Gold 1,skill,Leadership,357
@@ -262,7 +262,7 @@ Dignitaries,Noble,1. Scion — Gold 1,skill,Play (Any),357
 Dignitaries,Noble,1. Scion — Gold 1,talent,Etiquette (Nobles),359
 Dignitaries,Noble,1. Scion — Gold 1,talent,Luck,359
 Dignitaries,Noble,1. Scion — Gold 1,talent,Noble Blood,359
-Dignitaries,Noble,1. Scion — Gold 1,talent,Read/Write,359
+Dignitaries,Noble,1. Scion — Gold 1,talent,Datapad Use,359
 Dignitaries,Noble,2. Noble — Gold 3,skill,Charm,365
 Dignitaries,Noble,2. Noble — Gold 3,skill,Gossip,365
 Dignitaries,Noble,2. Noble — Gold 3,skill,Language (Old Tongue),365
@@ -285,7 +285,7 @@ Dignitaries,Noble,4. Noble Lord — Gold 7,skill,Lore (Any),381
 Dignitaries,Noble,4. Noble Lord — Gold 7,skill,Track,381
 Dignitaries,Noble,4. Noble Lord — Gold 7,talent,Commanding Presence,383
 Dignitaries,Noble,4. Noble Lord — Gold 7,talent,Iron Will,383
-Dignitaries,Noble,4. Noble Lord — Gold 7,talent,Warleader,383
+Dignitaries,Noble,4. Noble Lord — Gold 7,talent,War Leader,383
 Dignitaries,Noble,4. Noble Lord — Gold 7,talent,Wealthy,383
 Dignitaries,Spy,1. Informer — Brass 3,skill,Bribery,402
 Dignitaries,Spy,1. Informer — Brass 3,skill,Charm,402
@@ -307,7 +307,7 @@ Dignitaries,Spy,2. Spy — Silver 3,skill,Codes (Any),410
 Dignitaries,Spy,2. Spy — Silver 3,skill,Sleight of Hand,410
 Dignitaries,Spy,2. Spy — Silver 3,talent,Etiquette (Any),412
 Dignitaries,Spy,2. Spy — Silver 3,talent,Lip Reading,412
-Dignitaries,Spy,2. Spy — Silver 3,talent,Read/Write,412
+Dignitaries,Spy,2. Spy — Silver 3,talent,Datapad Use,412
 Dignitaries,Spy,2. Spy — Silver 3,talent,Secret Identity,412
 Dignitaries,Spy,3. Agent — Gold 1,skill,Creature Care,418
 Dignitaries,Spy,3. Agent — Gold 1,skill,Creature Training (Massiff),418
@@ -322,10 +322,10 @@ Dignitaries,Spy,4. Spymaster — Gold 4,skill,Research,426
 Dignitaries,Spy,4. Spymaster — Gold 4,talent,Briber,428
 Dignitaries,Spy,4. Spymaster — Gold 4,talent,Schemer,428
 Dignitaries,Spy,4. Spymaster — Gold 4,talent,Suave,428
-Dignitaries,Spy,4. Spymaster — Gold 4,talent,Tower of Memories,428
+Dignitaries,Spy,4. Spymaster — Gold 4,talent,Eidetic Memory,428
 Dignitaries,Warden,1. Custodian — Silver 1,skill,Athletics,447
-Dignitaries,Warden,1. Custodian — Silver 1,skill,Charm Creature,447
-Dignitaries,Warden,1. Custodian — Silver 1,skill,Consume Alcohol,447
+Dignitaries,Warden,1. Custodian — Silver 1,skill,Creature Training (Any),447
+Dignitaries,Warden,1. Custodian — Silver 1,skill,Consume Intoxicant,447
 Dignitaries,Warden,1. Custodian — Silver 1,skill,Cool,447
 Dignitaries,Warden,1. Custodian — Silver 1,skill,Endurance,447
 Dignitaries,Warden,1. Custodian — Silver 1,skill,Intuition,447
@@ -341,7 +341,7 @@ Dignitaries,Warden,2. Warden — Silver 3,skill,Outdoor Survival,455
 Dignitaries,Warden,2. Warden — Silver 3,skill,Ranged (Blaster Rifle),455
 Dignitaries,Warden,2. Warden — Silver 3,skill,Ride (Bantha),455
 Dignitaries,Warden,2. Warden — Silver 3,skill,Swim,455
-Dignitaries,Warden,2. Warden — Silver 3,talent,Animal Affinity,457
+Dignitaries,Warden,2. Warden — Silver 3,talent,Creature Affinity,457
 Dignitaries,Warden,2. Warden — Silver 3,talent,Etiquette (Servants),457
 Dignitaries,Warden,2. Warden — Silver 3,talent,Strider (any),457
 Dignitaries,Warden,2. Warden — Silver 3,talent,Rover,457
@@ -351,7 +351,7 @@ Dignitaries,Warden,3. Seneschal — Gold 1,skill,Gossip,463
 Dignitaries,Warden,3. Seneschal — Gold 1,skill,Leadership,463
 Dignitaries,Warden,3. Seneschal — Gold 1,talent,Embezzle,465
 Dignitaries,Warden,3. Seneschal — Gold 1,talent,Numismatics,465
-Dignitaries,Warden,3. Seneschal — Gold 1,talent,Read/Write,465
+Dignitaries,Warden,3. Seneschal — Gold 1,talent,Datapad Use,465
 Dignitaries,Warden,3. Seneschal — Gold 1,talent,Supportive,465
 Dignitaries,Warden,4. Governor — Gold 3,skill,Evaluate,471
 Dignitaries,Warden,4. Governor — Gold 3,skill,Language (Any),471
@@ -362,11 +362,11 @@ Dignitaries,Warden,4. Governor — Gold 3,talent,Suave,473
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Athletics,516
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Lore (Force Traditions),516
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Charm,516
-Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Heal,516
+Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Medicine,516
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Lore (Galactic Cultures),516
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Melee (Lightsaber — defensive form only),516
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Pilot (Speeder),516
-Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Trade (Armourer — lightsaber construction),516
+Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Profession (Armourer — lightsaber construction),516
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Etiquette (Senate or Diplomatic Corps),518
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions),518
 Force Wielders,Force Savant,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Savant (Lore),518
@@ -380,7 +380,7 @@ Force Wielders,Force Savant,2. Jedi Knight / Force Sorcerer / Sith Sorcerer — 
 Force Wielders,Force Savant,2. Jedi Knight / Force Sorcerer / Sith Sorcerer — Silver 5,talent,Suave,532
 Force Wielders,Force Savant,2. Jedi Knight / Force Sorcerer / Sith Sorcerer — Silver 5,talent,Seasoned Traveller,532
 Force Wielders,Force Savant,2. Jedi Knight / Force Sorcerer / Sith Sorcerer — Silver 5,talent,"Lightning Reflexes (Force-Assisted Awareness — not speed of blade, but speed of reading a room)",532
-Force Wielders,Force Savant,2. Jedi Knight / Force Sorcerer / Sith Sorcerer — Silver 5,talent,Strong-minded,532
+Force Wielders,Force Savant,2. Jedi Knight / Force Sorcerer / Sith Sorcerer — Silver 5,talent,Strong-Minded,532
 Force Wielders,Force Savant,3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2,skill,Charm,544
 Force Wielders,Force Savant,3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2,skill,Perform (Oratory),544
 Force Wielders,Force Savant,3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2,skill,Leadership,544
@@ -390,7 +390,7 @@ Force Wielders,Force Savant,3. Jedi Councillor / (Tradition) xxx / Sith Apprenti
 Force Wielders,Force Savant,3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2,talent,Unshakeable,546
 Force Wielders,Force Savant,3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2,talent,Attractive (Force Presence — a gravity of character that draws trust and attention without effort),546
 Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4,skill,Lore (Any — a Master is a repository of obscure knowledge),558
-Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4,skill,Secret Signs (any),558
+Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4,skill,Codes (any),558
 Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4,talent,Disarm (Rhetorical Disarm — the ability to take the weapon out of a conversation before it becomes a conflict),560
 Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4,talent,Inspiring,560
 Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4,talent,Iron Will,560
@@ -398,11 +398,11 @@ Force Wielders,Force Savant,4. Jedi Master / Force Master / Sith Lord — Gold 4
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Athletics,601
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,"Sleight of Hand (Conceal — hiding weapons, identities, intentions)",601
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Stealth,601
-Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Heal,601
+Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Medicine,601
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Lore (Criminal Organisations),601
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Melee (Lightsaber),601
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Pilot (Speeder),601
-Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Trade (Armourer — lightsaber construction),601
+Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,skill,Profession (Armourer — lightsaber construction),601
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,talent,Etiquette (Underworld — how to behave in places that will kill you for standing out),603
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,talent,Flee!,603
 Force Wielders,Force Shadow,1. Padawan/ Acolyte / Sith Acolyte — Silver 3,talent,Sturdy,603
@@ -411,22 +411,22 @@ Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor —
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,skill,Dodge,615
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,skill,Endurance,615
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,skill,Intimidate,615
-Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,skill,"Underworld (Street — the customs, signals, and power structures of criminal and shadow networks)",615
+Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,skill,"Lore (Underworld — the customs, signals, and power structures of criminal and shadow networks)",615
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,skill,Melee (Any),615
-Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,talent,Shadowy,617
+Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,talent,Shadow,617
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,talent,Seasoned Traveller,617
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,talent,Combat Reflexes (Danger Sense — Force-assisted awareness of ambush and betrayal),617
 Force Wielders,Force Shadow,2. Jedi Sentinel/ Force Shadow / Sith Inquisitor — Silver 5,talent,Strike Mighty Blow,617
 Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,skill,"Charm (Manipulation — running informants, turning enemies, building trust under false pretences)",629
-Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,skill,"Consume Alcohol (Endure Hardship — long solo missions, cover identities maintained for months, the particular loneliness of the work)",629
+Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,skill,"Consume Intoxicant (Endure Hardship — long solo missions, cover identities maintained for months, the particular loneliness of the work)",629
 Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,skill,"Evaluate (Intelligence Assessment — reading a situation for threats, opportunities, lies)",629
 Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,skill,Lore (Sith & Dark Side Cults),629
 Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,talent,Schemer,631
 Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,talent,Stout-hearted,631
 Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,talent,Unshakeable,631
-Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,talent,Warleader (Network Handler — commanding a web of contacts and field operatives rather than soldiers),631
+Force Wielders,Force Shadow,3. Jedi Watchman / Shadow Keeper / Grand Inquisitor — Gold 2,talent,War Leader (Network Handler — commanding a web of contacts and field operatives rather than soldiers),631
 Force Wielders,Force Shadow,4. Jedi Master/ Force Master / Sith Lord — Gold 4,skill,Lore (Any — a Shadow accumulates knowledge like scar tissue),643
-Force Wielders,Force Shadow,4. Jedi Master/ Force Master / Sith Lord — Gold 4,skill,"Secret Signs (Shadow Cipher — the private communication codes of the Sentinel network, known to no one outside it)",643
+Force Wielders,Force Shadow,4. Jedi Master/ Force Master / Sith Lord — Gold 4,skill,"Codes (Shadow Cipher — the private communication codes of the Sentinel network, known to no one outside it)",643
 Force Wielders,Force Shadow,4. Jedi Master/ Force Master / Sith Lord — Gold 4,talent,"Disarm (Exposure — the ability to strip an enemy's cover, leverage, or deception in a single devastating reveal)",645
 Force Wielders,Force Shadow,4. Jedi Master/ Force Master / Sith Lord — Gold 4,talent,Inspiring (to the agents and other Force traditions you bring in),645
 Force Wielders,Force Shadow,4. Jedi Master/ Force Master / Sith Lord — Gold 4,talent,Iron Will,645
@@ -436,7 +436,7 @@ Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silve
 Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Lore (Galactic Sigils),690
 Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,skill,Melee (Force Tradition Weapon),690
 Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Etiquette (Senate or Military),692
-Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Roughrider (Mounted Beast Combat) or Pilot,692
+Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Ace Pilot or Roughrider,692
 Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Sturdy,692
 Force Wielders,Force Warrior,1. Padawan / Force Acolyte / Sith Acolyte — Silver 3,talent,Warrior Born,692
 Force Wielders,Force Warrior,2. Jedi Knight / Force Warrior / Sith Apprentice — Silver 5,skill,Cool,704
@@ -449,13 +449,13 @@ Force Wielders,Force Warrior,2. Jedi Knight / Force Warrior / Sith Apprentice �
 Force Wielders,Force Warrior,2. Jedi Knight / Force Warrior / Sith Apprentice — Silver 5,talent,Seasoned Traveller,706
 Force Wielders,Force Warrior,2. Jedi Knight / Force Warrior / Sith Apprentice — Silver 5,talent,Strike Mighty Blow,706
 Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,skill,Charm,718
-Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,skill,Consume Alcohol,718
+Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,skill,Consume Intoxicant,718
 Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,skill,Leadership,718
 Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,skill,Lore (Warfare),718
 Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,talent,Fearless (Any),720
 Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,talent,Stout-hearted,720
 Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,talent,Unshakeable,720
-Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,talent,Warleader,720
+Force Wielders,Force Warrior,3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2,talent,War Leader,720
 Force Wielders,Force Warrior,4. Jedi Master / Force Master / Sith Lord — Gold 4,skill,Lore (Any),732
 Force Wielders,Force Warrior,4. Jedi Master / Force Master / Sith Lord — Gold 4,skill,Codes (Force Tradition),732
 Force Wielders,Force Warrior,4. Jedi Master / Force Master / Sith Lord — Gold 4,talent,Disarm,734
@@ -499,7 +499,7 @@ Freelancers,Bounty Hunter,4. Bounty Hunter General — Gold 1,talent,Deadeye Sho
 Freelancers,Bounty Hunter,4. Bounty Hunter General — Gold 1,talent,Fearless (Bounties),787
 Freelancers,Bounty Hunter,4. Bounty Hunter General — Gold 1,talent,Hardy,787
 Freelancers,Bounty Hunter,4. Bounty Hunter General — Gold 1,talent,Sure Shot,787
-Freelancers,Scout,1. Guide — Brass 3,skill,Charm Creature,806
+Freelancers,Scout,1. Guide — Brass 3,skill,Creature Training (Any),806
 Freelancers,Scout,1. Guide — Brass 3,skill,Climb,806
 Freelancers,Scout,1. Guide — Brass 3,skill,Endurance,806
 Freelancers,Scout,1. Guide — Brass 3,skill,Gossip,806
@@ -538,7 +538,7 @@ Freelancers,Scout,4. Explorer — Silver 5,talent,Tenacious,832
 Freelancers,Smuggler,1. River Runner — Brass 2,skill,Athletics,851
 Freelancers,Smuggler,1. River Runner — Brass 2,skill,Bribery,851
 Freelancers,Smuggler,1. River Runner — Brass 2,skill,Cool,851
-Freelancers,Smuggler,1. River Runner — Brass 2,skill,Consume Alcohol,851
+Freelancers,Smuggler,1. River Runner — Brass 2,skill,Consume Intoxicant,851
 Freelancers,Smuggler,1. River Runner — Brass 2,skill,Pilot (Starship),851
 Freelancers,Smuggler,1. River Runner — Brass 2,skill,Pilot (Capital Ship),851
 Freelancers,Smuggler,1. River Runner — Brass 2,skill,Stealth (Rural or Urban),851
@@ -574,7 +574,7 @@ Freelancers,Smuggler,4. Smuggler King — Silver 2,talent,Strider (Orbital),877
 Freelancers,Smuggler,4. Smuggler King — Silver 2,talent,Vacuum Legs,877
 Scoundrels,Bawd,1. Hustler — Brass 1,skill,Bribery,898
 Scoundrels,Bawd,1. Hustler — Brass 1,skill,Charm,898
-Scoundrels,Bawd,1. Hustler — Brass 1,skill,Consume Alcohol,898
+Scoundrels,Bawd,1. Hustler — Brass 1,skill,Consume Intoxicant,898
 Scoundrels,Bawd,1. Hustler — Brass 1,skill,Entertain (Any),898
 Scoundrels,Bawd,1. Hustler — Brass 1,skill,Gamble,898
 Scoundrels,Bawd,1. Hustler — Brass 1,skill,Gossip,898
@@ -593,7 +593,7 @@ Scoundrels,Bawd,2. Bawd — Brass 3,skill,Perception,906
 Scoundrels,Bawd,2. Bawd — Brass 3,talent,Ambidextrous,908
 Scoundrels,Bawd,2. Bawd — Brass 3,talent,Carouser,908
 Scoundrels,Bawd,2. Bawd — Brass 3,talent,Criminal,908
-Scoundrels,Bawd,2. Bawd — Brass 3,talent,Resistant (Disease),908
+Scoundrels,Bawd,2. Bawd — Brass 3,talent,Resistance (Disease),908
 Scoundrels,Bawd,3. Procurer — Silver 1,skill,Cool,914
 Scoundrels,Bawd,3. Procurer — Silver 1,skill,Evaluate,914
 Scoundrels,Bawd,3. Procurer — Silver 1,skill,Language (any),914
@@ -609,7 +609,7 @@ Scoundrels,Bawd,4. Ringleader — Silver 3,talent,Kingpin,924
 Scoundrels,Bawd,4. Ringleader — Silver 3,talent,Numismatics,924
 Scoundrels,Bawd,4. Ringleader — Silver 3,talent,Savvy,924
 Scoundrels,Charlatan,1. Swindler — Brass 3,skill,Bribery,943
-Scoundrels,Charlatan,1. Swindler — Brass 3,skill,Consume Alcohol,943
+Scoundrels,Charlatan,1. Swindler — Brass 3,skill,Consume Intoxicant,943
 Scoundrels,Charlatan,1. Swindler — Brass 3,skill,Charm,943
 Scoundrels,Charlatan,1. Swindler — Brass 3,skill,Entertain (Storytelling),943
 Scoundrels,Charlatan,1. Swindler — Brass 3,skill,Gamble,943
@@ -632,12 +632,12 @@ Scoundrels,Charlatan,2. Charlatan — Brass 5,talent,Fast Hands,953
 Scoundrels,Charlatan,2. Charlatan — Brass 5,talent,Secret Identity,953
 Scoundrels,Charlatan,3. Con Artist — Silver 2,skill,Language (Huttese),959
 Scoundrels,Charlatan,3. Con Artist — Silver 2,skill,Lore (Galactic Sigils),959
-Scoundrels,Charlatan,3. Con Artist — Silver 2,skill,Slice Security,959
+Scoundrels,Charlatan,3. Con Artist — Silver 2,skill,Slice Security System,959
 Scoundrels,Charlatan,3. Con Artist — Silver 2,skill,Codes (Smuggler),959
 Scoundrels,Charlatan,3. Con Artist — Silver 2,talent,Attractive,961
 Scoundrels,Charlatan,3. Con Artist — Silver 2,talent,Cat-tongued,961
 Scoundrels,Charlatan,3. Con Artist — Silver 2,talent,Dealmaker,961
-Scoundrels,Charlatan,3. Con Artist — Silver 2,talent,Read/Write,961
+Scoundrels,Charlatan,3. Con Artist — Silver 2,talent,Datapad Use,961
 Scoundrels,Charlatan,4. Impostor — Silver 4,skill,Lore (Politics),967
 Scoundrels,Charlatan,4. Impostor — Silver 4,skill,Research,967
 Scoundrels,Charlatan,4. Impostor — Silver 4,talent,Gregarious,969
@@ -645,7 +645,7 @@ Scoundrels,Charlatan,4. Impostor — Silver 4,talent,Master of Disguise,969
 Scoundrels,Charlatan,4. Impostor — Silver 4,talent,Nose for Trouble,969
 Scoundrels,Charlatan,4. Impostor — Silver 4,talent,Suave,969
 Scoundrels,Fence,1. Broker — Silver 1,skill,Charm,988
-Scoundrels,Fence,1. Broker — Silver 1,skill,Consume Alcohol,988
+Scoundrels,Fence,1. Broker — Silver 1,skill,Consume Intoxicant,988
 Scoundrels,Fence,1. Broker — Silver 1,skill,Dodge,988
 Scoundrels,Fence,1. Broker — Silver 1,skill,Evaluate,988
 Scoundrels,Fence,1. Broker — Silver 1,skill,Gamble,988
@@ -681,7 +681,7 @@ Scoundrels,Fence,4. Black Marketeer — Silver 4,talent,Iron Will,1014
 Scoundrels,Fence,4. Black Marketeer — Silver 4,talent,Menacing,1014
 Scoundrels,Fence,4. Black Marketeer — Silver 4,talent,Briber,1014
 Scoundrels,Outlaw,1. Brigand — Brass 1,skill,Athletics,1033
-Scoundrels,Outlaw,1. Brigand — Brass 1,skill,Consume Alcohol,1033
+Scoundrels,Outlaw,1. Brigand — Brass 1,skill,Consume Intoxicant,1033
 Scoundrels,Outlaw,1. Brigand — Brass 1,skill,Cool,1033
 Scoundrels,Outlaw,1. Brigand — Brass 1,skill,Endurance,1033
 Scoundrels,Outlaw,1. Brigand — Brass 1,skill,Gamble,1033
@@ -731,7 +731,7 @@ Scoundrels,Thief,1. Prowler — Brass 1,talent,Strike to Stun,1080
 Scoundrels,Thief,2. Thief — Brass 3,skill,Evaluate,1086
 Scoundrels,Thief,2. Thief — Brass 3,skill,Gossip,1086
 Scoundrels,Thief,2. Thief — Brass 3,skill,Lore (Local),1086
-Scoundrels,Thief,2. Thief — Brass 3,skill,Slice Security,1086
+Scoundrels,Thief,2. Thief — Brass 3,skill,Slice Security System,1086
 Scoundrels,Thief,2. Thief — Brass 3,skill,Codes (Smuggler),1086
 Scoundrels,Thief,2. Thief — Brass 3,skill,Sleight of Hand,1086
 Scoundrels,Thief,2. Thief — Brass 3,talent,Break and Enter,1088
@@ -752,7 +752,7 @@ Scoundrels,Thief,4. Cat Burglar — Silver 3,talent,Catfall,1104
 Scoundrels,Thief,4. Cat Burglar — Silver 3,talent,Scale Sheer Surface,1104
 Scoundrels,Thief,4. Cat Burglar — Silver 3,talent,Strong Legs,1104
 Scoundrels,Thief,4. Cat Burglar — Silver 3,talent,Wealthy,1104
-Warriors,Guard,1. Sentry — Silver 1,skill,Consume Alcohol,1125
+Warriors,Guard,1. Sentry — Silver 1,skill,Consume Intoxicant,1125
 Warriors,Guard,1. Sentry — Silver 1,skill,Endurance,1125
 Warriors,Guard,1. Sentry — Silver 1,skill,Entertain (Storytelling),1125
 Warriors,Guard,1. Sentry — Silver 1,skill,Gamble,1125
@@ -796,7 +796,7 @@ Warriors,Pit Fighter,1. Pugilist — Brass 4,skill,Gamble,1170
 Warriors,Pit Fighter,1. Pugilist — Brass 4,skill,Intimidate,1170
 Warriors,Pit Fighter,1. Pugilist — Brass 4,skill,Melee (Any),1170
 Warriors,Pit Fighter,1. Pugilist — Brass 4,skill,Melee (Brawling),1170
-Warriors,Pit Fighter,1. Pugilist — Brass 4,talent,Dirty Fighter,1172
+Warriors,Pit Fighter,1. Pugilist — Brass 4,talent,Dirty Fighting,1172
 Warriors,Pit Fighter,1. Pugilist — Brass 4,talent,In-fighter,1172
 Warriors,Pit Fighter,1. Pugilist — Brass 4,talent,Iron Jaw,1172
 Warriors,Pit Fighter,1. Pugilist — Brass 4,talent,Reversal,1172
@@ -810,7 +810,7 @@ Warriors,Pit Fighter,2. Pit Fighter — Silver 2,talent,Ambidextrous,1180
 Warriors,Pit Fighter,2. Pit Fighter — Silver 2,talent,Combat Reflexes,1180
 Warriors,Pit Fighter,2. Pit Fighter — Silver 2,talent,Dual Wielder,1180
 Warriors,Pit Fighter,2. Pit Fighter — Silver 2,talent,Shieldsman,1180
-Warriors,Pit Fighter,3. Pit Champion — Silver 5,skill,Consume Alcohol,1186
+Warriors,Pit Fighter,3. Pit Champion — Silver 5,skill,Consume Intoxicant,1186
 Warriors,Pit Fighter,3. Pit Champion — Silver 5,skill,Gossip,1186
 Warriors,Pit Fighter,3. Pit Champion — Silver 5,skill,Lore (Anatomy),1186
 Warriors,Pit Fighter,3. Pit Champion — Silver 5,skill,Perform (Fight),1186
@@ -836,7 +836,7 @@ Warriors,Soldier,1. Recruit — Silver 1,talent,Diceman,1217
 Warriors,Soldier,1. Recruit — Silver 1,talent,Marksman,1217
 Warriors,Soldier,1. Recruit — Silver 1,talent,Strong Back,1217
 Warriors,Soldier,1. Recruit — Silver 1,talent,Warrior Born,1217
-Warriors,Soldier,2. Soldier — Silver 3,skill,Consume Alcohol,1223
+Warriors,Soldier,2. Soldier — Silver 3,skill,Consume Intoxicant,1223
 Warriors,Soldier,2. Soldier — Silver 3,skill,Gamble,1223
 Warriors,Soldier,2. Soldier — Silver 3,skill,Gossip,1223
 Warriors,Soldier,2. Soldier — Silver 3,skill,Melee (Any),1223
@@ -853,10 +853,10 @@ Warriors,Soldier,3. Sergeant — Silver 5,skill,Perception,1231
 Warriors,Soldier,3. Sergeant — Silver 5,talent,Combat Aware,1233
 Warriors,Soldier,3. Sergeant — Silver 5,talent,Enclosed Fighter,1233
 Warriors,Soldier,3. Sergeant — Silver 5,talent,Unshakeable,1233
-Warriors,Soldier,3. Sergeant — Silver 5,talent,Warleader,1233
+Warriors,Soldier,3. Sergeant — Silver 5,talent,War Leader,1233
 Warriors,Soldier,4. Officer — Gold 1,skill,Lore (Warfare),1239
 Warriors,Soldier,4. Officer — Gold 1,skill,Navigation,1239
 Warriors,Soldier,4. Officer — Gold 1,talent,Inspiring,1241
-Warriors,Soldier,4. Officer — Gold 1,talent,Public Speaking,1241
+Warriors,Soldier,4. Officer — Gold 1,talent,Public Speaker,1241
 Warriors,Soldier,4. Officer — Gold 1,talent,Seasoned Traveller,1241
 Warriors,Soldier,4. Officer — Gold 1,talent,Stout-hearted,1241

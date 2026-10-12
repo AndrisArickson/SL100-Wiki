@@ -51,11 +51,23 @@ height are looked up through the API, and a **blank lossless .webp of the same p
 any time with `./wiki.sh images`. To use real art later, place a file at `images/full/<letter>/<name>` and the server
 will use it instead.
 
+## Real images (optional, long-running)
+```bash
+./wiki.sh images-classify          # licence + author for every image our pages use (~1 h, 50 per request)
+./wiki.sh images-fetch             # background download as WebP (max 800 px); free -> images/full (pushed),
+                                   # fair use / untagged -> images/local (private, git-ignored). ~1 s apart, resumable; stop: touch data/STOP
+./wiki.sh images-qc                # score every image (size, sharpness vs the whole set, blank, aspect, compression, duplicates)
+./wiki.sh images-status
+```
+Review at http://127.0.0.1:8100/image-review: contact sheets of 120, lowest scores first. Tick the bad ones and one button
+saves the whole page (ticked = replace, the rest = OK); "Auto-approve" accepts everything above a score in one go.
+`meta/image_replace.tsv` lists the images marked for replacement, with the pages that use them, as a work list for new art.
+
 ## Editing and adding game content
 Browse to any page and press **Edit**. Saves go straight to the `.wiki` file (old versions are kept in `data/history/`).
 Use the `SL100:` prefix for our own pages (e.g. `SL100:Weapons/Blaster pistol`) and put game statistics in an
 infobox-style template, for example `{{SL100 Weapon|name=...|damage=...|price=...|availability=...}}` - see
-`SL100:Example Weapon`. The front page cards and every rules page (`SL100:Characteristics` ... `SL100:Vehicles and Starships`) are generated from the markdown chapters in this folder by `python3 tools/build_pages.py`; edit the markdown, not those pages. Link each game page to its Legends source article. The renderer shows any template with three or
+`SL100:Example Weapon`. The front page cards and every rules page (`SL100:Characteristics` ... `SL100:Vehicles and Starships`) are generated from the markdown chapters in this folder by `python3 tools/build_pages.py`; edit the markdown, not those pages. The Weapons, Armour and Gear catalogues (`rules/equipment/*.csv`, pages `SL100:Weapons`, `SL100:Armour`, `SL100:Gear`) are built by `python3 tools/convert/equipment.py` from chapter 08, Special Materials and the d20 tables in `../Source_Text/tables/`; `rules/equipment/REVIEW.md` lists the 08-vs-d20 conflicts. Link each game page to its Legends source article. The renderer shows any template with three or
 more named parameters as an infobox, so new stat templates need no extra code.
 
 ## Pushing to GitHub

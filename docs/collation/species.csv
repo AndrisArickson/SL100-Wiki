@@ -1,18 +1,18 @@
 species,wookieepedia,line,characteristics,talents,movement,fate,resilience,extra_points,size,natural_weapons,other
-Arkanian,https://starwars.fandom.com/wiki/Arkanian/Legends,3,INT +20 WILL +10 T +10 FEL -10,"Bookish, Datapad Literate, Eidetic Memory, Night Vision (Thermal), Resistance (Cold)",4,1,1,2,,,
-Besalisk,https://starwars.fandom.com/wiki/Besalisk/Legends,17,S +10 T +10 AGI -10 FEL +10,"Datapad Literate, Ambidextrous, roll 3 talents from the random talents list",4,1,1,2,,,
-Chironian,https://starwars.fandom.com/wiki/Chironian,26,S +20,"Datapad Literate, Stride (Sprinter?), roll 3 talents from the random talents list",7,1,1,2,Large,Hoof 2+SB & Horns 2+SB,
-Chiss,https://starwars.fandom.com/wiki/Chiss/Legends,37,I +10 S +10 WILL +10,"Datapad Literate, Night Vision (Thermal), Resistance (Cold), Strider (Cold), Combat Aware",4,1,1,2,,,
-Echani,https://starwars.fandom.com/wiki/Echani/Legends,49,WS +10 BS +10 AG +10,"Combat Aware, Datapad Literate, Warrior Born, roll 2 talents from the random talents list",4,1,1,2,,,
-Human,https://starwars.fandom.com/wiki/Human/Legends,66,,"Datapad Literate, roll 4 talents from the random talents list",4,2,1,3,,,missing: characteristics
-Kel Dor,https://starwars.fandom.com/wiki/Kel_Dor,78,I +10 WP +10 AG +10,"Datapad Literate, Force Ability (Alter, Control or Sense), roll 3 talents from the random talents list",4,2,1,1,,,
-Miraluka,https://starwars.fandom.com/wiki/Miraluka/Legends,92,WP +10,from the random talents list,4,2,1,2,,,
-Nautolan,https://starwars.fandom.com/wiki/Nautolan/Legends,104,S +10 T +10 I +10,,4,1,1,2,,,missing: talents
-Otolla Gungan,https://starwars.fandom.com/wiki/Otolla/Legends,114,,"Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer",4,2,1,3,,,missing: characteristics
-Togruta,https://starwars.fandom.com/wiki/Togruta/Legends,125,,"Acute Sense (Hearing), Acute Sense (Sight), Datapad Literate, roll 2 talents from the random talents list",4,2,1,3,,,missing: characteristics
-Trandoshan,https://starwars.fandom.com/wiki/Trandoshan/Legends,136,WS +10 S +10 T +10,"Datapad Literate, Night Sight(Thermal), Regenerate (Minor), Warrior Born, Roll 1 talent from the random talents list",4,1,1,2,,,
-T'surr,https://starwars.fandom.com/wiki/T%27surr,148,WS +10 S +20 T +10,"Datapad Literate, Hardy, Sturdy, Very Resilient, Warrior Born",4,1,1,2,Medium,- Bite 3+SB & Horns 2+SB,
-Twi'lek,https://starwars.fandom.com/wiki/Twi%27lek/Legends,164,AG +10 FEL +20 T +10 WP -10,"Attractive or Beneath Notice, Datapad Literate, Roll 3 talents from the random talents list",4,1,1,2,,,
-Weequay,https://starwars.fandom.com/wiki/Weequay/Legends,172,WS +10 T +10 S +10,"Datapad Literate, Robust, Warrior Born, roll 2 talents from the random talents list",4,1,1,2,,,
-Wookiee,https://starwars.fandom.com/wiki/Wookiee/Legends,186,STR +20 FEL -10 INT +10 AGI +10,"Craftsman (Profession), Datapad Literate, Very Strong, roll 2 talents from the random talents list",,,,,Medium,,"missing: movement, fate, resilience"
-Zabrak,https://starwars.fandom.com/wiki/Zabrak/Legends,196,T +10 WP +20,"Craftsman (Profession) or Strider (Terrain), Datapad Literate, Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list",,,,,,,"missing: movement, fate, resilience"
+Arkanian,https://starwars.fandom.com/wiki/Arkanian/Legends,3,INT +20 WILL +10 T +10 FEL -10,"Bookish, Datapad Use, Eidetic Memory, Night Vision (Thermal), Resistance (Cold)",4,,1,2,,,missing: fate
+Besalisk,https://starwars.fandom.com/wiki/Besalisk/Legends,17,S +10 T +10 AGI -10 FEL +10,"Datapad Use, Ambidextrous, roll 3 talents from the random talents list",4,,1,2,,,missing: fate
+Chironian,https://starwars.fandom.com/wiki/Chironian,26,S +20,"Datapad Use, Sprinter, roll 3 talents from the random talents list",7,,1,2,Large,Hoof 2+SB & Horns 2+SB,missing: fate
+Chiss,https://starwars.fandom.com/wiki/Chiss/Legends,37,I +10 S +10 WILL +10,"Datapad Use, Night Vision (Thermal), Resistance (Cold), Strider (Cold), Combat Aware",4,,1,2,,,missing: fate
+Echani,https://starwars.fandom.com/wiki/Echani/Legends,49,WS +10 BS +10 AG +10,"Combat Aware, Datapad Use, Warrior Born, roll 2 talents from the random talents list",4,,1,2,,,missing: fate
+Human,https://starwars.fandom.com/wiki/Human/Legends,66,,"Datapad Use, roll 4 talents from the random talents list",4,,1,3,,,"missing: characteristics, fate"
+Kel Dor,https://starwars.fandom.com/wiki/Kel_Dor,78,I +10 WP +10 AG +10,"Datapad Use, Force Sense, Force Control or Force Alter (Discipline), roll 3 talents from the random talents list",4,,1,1,,,missing: fate
+Miraluka,https://starwars.fandom.com/wiki/Miraluka/Legends,92,WP +10,from the random talents list,4,,1,2,,,missing: fate
+Nautolan,https://starwars.fandom.com/wiki/Nautolan/Legends,104,S +10 T +10 I +10,,4,,1,2,,,"missing: talents, fate"
+Otolla Gungan,https://starwars.fandom.com/wiki/Otolla/Legends,114,,"Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer",4,,1,3,,,"missing: characteristics, fate"
+Togruta,https://starwars.fandom.com/wiki/Togruta/Legends,125,,"Acute Sense (Hearing), Acute Sense (Sight), Datapad Use, roll 2 talents from the random talents list",4,,1,3,,,"missing: characteristics, fate"
+Trandoshan,https://starwars.fandom.com/wiki/Trandoshan/Legends,136,WS +10 S +10 T +10,"Datapad Use, Night Vision (Thermal), Regeneration (Minor), Warrior Born, Roll 1 talent from the random talents list",4,,1,2,,,missing: fate
+T'surr,https://starwars.fandom.com/wiki/T%27surr,148,WS +10 S +20 T +10,"Datapad Use, Hardy, Sturdy, Very Resilient, Warrior Born",4,,1,2,Medium,- Bite 3+SB & Horns 2+SB,missing: fate
+Twi'lek,https://starwars.fandom.com/wiki/Twi%27lek/Legends,164,AG +10 FEL +20 T +10 WP -10,"Attractive or Beneath Notice, Datapad Use, Roll 3 talents from the random talents list",4,,1,2,,,missing: fate
+Weequay,https://starwars.fandom.com/wiki/Weequay/Legends,172,WS +10 T +10 S +10,"Datapad Use, Robust, Warrior Born, roll 2 talents from the random talents list",4,,1,2,,,missing: fate
+Wookiee,https://starwars.fandom.com/wiki/Wookiee/Legends,186,STR +20 FEL -10 INT +10 AGI +10,"Craftsman (Profession), Datapad Use, Very Strong, roll 2 talents from the random talents list",,,,,Medium,,"missing: movement, fate, resilience"
+Zabrak,https://starwars.fandom.com/wiki/Zabrak/Legends,196,T +10 WP +20,"Craftsman (Profession) or Strider (Terrain), Datapad Use, Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list",,,,,,,"missing: movement, fate, resilience"

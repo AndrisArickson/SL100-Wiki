@@ -859,7 +859,7 @@ Colossal armour-plated predators of Malastare, thought extinct for millennia. It
 
 **Power Drain:&#32;**In place of a Bite or Weapon attack, may drain a ship system, droid, or powered device instead of a living target, disabling it until repaired.
 
-**Force Sense:&#32;**Automatically detects Force-sensitive creatures within Initiative Bonus x 10 yards, and gains +10 to WS and Initiative Tests when attacking a Force-sensitive target.
+**Force Sense:&#32;**Automatically detects Force-sensitive creatures within Initiative Bonus x 10 metres, and gains +10 to WS and Initiative Tests when attacking a Force-sensitive target.
 
 **Pack Tactics:&#32;**Gains +10 to WS Tests when attacking the same target as two or more other creatures with this trait.
 
@@ -891,7 +891,7 @@ Colossal armour-plated predators of Malastare, thought extinct for millennia. It
 
 **Deflector Shield:&#32;**Ignores the first 4 points of damage from ranged attacks each round; the shield can be overloaded (GM's discretion) by sustained fire or an Ion-trait weapon, disabling it for the rest of the encounter.
 
-**Networked:&#32;**Gains +10 to WS or BS when at least one other creature with this trait is within Initiative Bonus x 10 yards and can see the same target.
+**Networked:&#32;**Gains +10 to WS or BS when at least one other creature with this trait is within Initiative Bonus x 10 metres and can see the same target.
 
 **Sonic Screech:&#32;**A short-range shriek or cry; all creatures within range must pass a Cool Test or become Broken for one round. Deals no physical damage.
 
@@ -927,7 +927,7 @@ Colossal armour-plated predators of Malastare, thought extinct for millennia. It
 
 **Dark Side Venom:&#32;**A creature bitten by this attack that fails a Toughness Test suffers Dark Side Influence in addition to any other injury.
 
-**Force Disruption:&#32;**Any Force-sensitive creature within Initiative Bonus x 10 yards attempting to use a Force power without embracing the dark side suffers a –20 penalty.
+**Force Disruption:&#32;**Any Force-sensitive creature within Initiative Bonus x 10 metres attempting to use a Force power without embracing the dark side suffers a –20 penalty.
 
 **Pheromones:&#32;**As a Free Action once per round, may attempt a Charm-like Test to influence the mood of one nearby creature; the target may resist with a Willpower Test.
 
