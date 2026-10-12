@@ -1,0 +1,927 @@
+{{SL100 Rules|chapter=Vehicles and Starships|status=Draft tables (about 55%); vehicle and ship combat still to be written|source=Star Wars Mounts_Vehicles.md; Star Wars Space Ships.md; Starships circa 3000-4000 BBY.md}}
+'''Mounts, vehicles and starships''': riding beasts, speeders, walkers and tanks, then the starship compendium and its upgrades, and the ships in service in the 3,000 to 4,000 BBY era.
+
+== Mounts / Vehicles ==
+==== Star Wars Mounts & Vehicles ====
+
+Living Mounts (Air, Land, Sea) use the same creature stat line as the Star Wars Bestiary - Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, Wounds - plus Traits and Optional add-ons. Following the Core Rulebook's Animals and Vehicles table (page 306), each mount also lists Cost to buy, Carries (the Encumbrance points of rider, tack, and cargo it can bear - 1 Enc = 10kg, matching the Starship Compendium's conversion), and Availability (Common, Scarce, Rare, Exotic, or Military/Restricted).
+
+''Tanks and Walkers are vehicles, not creatures, so they use the Starship Compendium's table format instead: Era/Faction, Size, Crew, Cargo capacity in Encumbrance points, Cost, Speed (in km/h rather than MGLT, since these are ground vehicles with no hyperdrive or sublight space engine), Weapons, and Availability.''
+
+=== Air Mounts ===
+
+''Flying and gliding creatures tamed or bred as aerial steeds.''
+
+==== Aiwha ====
+
+'''Air / Sea Mount — Kamino (Clone Wars — Kaminoan)'''
+
+Massive winged cetaceans that swim Kamino's endless oceans as readily as they soar through its storm-wracked skies. Kaminoan riders guide them beneath the waves to avoid the planet's constant electrical storms.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 2 || 10 || - || 55 || 55 || 15 || 15 || - || 10 || 20 || - || 65
+|}
+
+'''''Traits: '''''''Amphibious, Armour 1, Filter Feeder, Flight 60, Size (Enormous)''
+
+'''''Optional: '''''''Trained (Mount), Territorial''
+
+'''''Cost / Carries / Availability: '''''''45,000 credits  /  400 Enc  /  Rare''
+
+==== Dactillion ====
+
+'''Air Mount — Utapau (Clone Wars — Pau'an/Utai)'''
+
+Birdlike reptavian predators of Utapau's sinkholes, natural hunters of the varactyl. Rarely tamed and never fully trusted, a bonded dactillion is a mark of a truly exceptional rider.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 2 || 35 || - || 40 || 35 || 30 || 45 || - || 10 || 20 || - || 24
+|}
+
+'''''Traits: '''''''Bestial, Bite+7, Flight 100, Night Vision, Size (Large)''
+
+'''''Optional: '''''''Territorial, Frenzy, Trained (Mount)''
+
+'''''Cost / Carries / Availability: '''''''30,000 credits  /  60 Enc  /  Exotic''
+
+==== Uvak ====
+
+'''Air Mount — Kesh (Old Republic, ancient — Lost Tribe of the Sith / Keshiri)'''
+
+Great avian steeds native to the isolated world of Kesh, ridden by the Keshiri and later the stranded Lost Tribe of the Sith who settled among them. A well-bonded uvak can outlive several riders.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 2 || 25 || - || 30 || 30 || 25 || 45 || - || 10 || 20 || - || 18
+|}
+
+'''''Traits: '''''''Bestial, Flight 90, Night Vision, Size (Average)''
+
+'''''Optional: '''''''Trained (Mount), Territorial, Skittish''
+
+'''''Cost / Carries / Availability: '''''''Not for sale (Keshiri-bred) credits  /  40 Enc  /  Exotic''
+
+=== Land Mounts ===
+
+''Ground-dwelling beasts of burden and war, saddled or harnessed for riding.''
+
+==== Bantha ====
+
+'''Land Mount — Tatooine (Multiple Eras — Tusken Raiders / Various)'''
+
+Massive, shaggy-coated herd animals herded by moisture farmers and Tusken Raiders alike for milk, transport, and companionship. Long-suffering and placid, a bantha would rather walk away from a fight.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 6 || 20 || - || 55 || 60 || 15 || 15 || - || 15 || 25 || - || 35
+|}
+
+'''''Traits: '''''''Armour 1, Bestial, Horns+6, Size (Large), Stride, Tough''
+
+'''''Optional: '''''''Trained (Mount, Broken, Guard), Territorial''
+
+'''''Cost / Carries / Availability: '''''''500 credits  /  80 Enc  /  Common''
+
+==== Dewback ====
+
+'''Land Mount — Tatooine (Imperial Era — Galactic Empire)'''
+
+Rugged, thick-hided reptiles suited to Tatooine's dust and heat where machinery falters. Plodding by nature, but capable of a surprising burst of speed under an electro-goad — hence their use by Imperial sandtroopers.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 5 || 25 || - || 40 || 45 || 15 || 15 || - || 10 || 15 || - || 22
+|}
+
+'''''Traits: '''''''Armour 1, Bestial, Size (Large), Stride''
+
+'''''Optional: '''''''Trained (Mount, Guard), Skittish''
+
+'''''Cost / Carries / Availability: '''''''850 credits  /  50 Enc  /  Scarce''
+
+==== Eopie ====
+
+'''Land Mount — Tatooine (Clone Wars, pre-war — Various)'''
+
+Placid, long-suffering pack animals used by moisture farmers and traders to haul goods across the dunes. Sure-footed and tireless, if not particularly bright.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 6 || 15 || - || 35 || 35 || 15 || 20 || - || 10 || 15 || - || 20
+|}
+
+'''''Traits: '''''''Bestial, Size (Average), Stride, Tough''
+
+'''''Optional: '''''''Trained (Mount, Beast of Burden)''
+
+'''''Cost / Carries / Availability: '''''''400 credits  /  60 Enc  /  Common''
+
+==== Kaadu ====
+
+'''Land Mount — Naboo (Clone Wars, pre-war — Gungans)'''
+
+Wingless reptavians domesticated by the Gungans as cavalry mounts, favoured for their speed and sharp senses. Taming one's first kaadu is considered a Gungan rite of passage.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 8 || 20 || - || 35 || 35 || 25 || 40 || - || 10 || 15 || - || 22
+|}
+
+'''''Traits: '''''''Bestial, Size (Average), Stride''
+
+'''''Optional: '''''''Trained (Mount, War)''
+
+'''''Cost / Carries / Availability: '''''''600 credits  /  30 Enc  /  Scarce''
+
+==== Ronto ====
+
+'''Land Mount — Tatooine (Clone Wars, pre-war — Jawas)'''
+
+Gentle, elephantine giants favoured by Jawas as pack animals, swaying under the weight of salvaged cargo and passengers alike across the dunes.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 5 || 15 || - || 50 || 55 || 15 || 10 || - || 10 || 20 || - || 30
+|}
+
+'''''Traits: '''''''Bestial, Size (Large), Stride, Tough''
+
+'''''Optional: '''''''Trained (Mount, Beast of Burden)''
+
+'''''Cost / Carries / Availability: '''''''650 credits  /  120 Enc  /  Common''
+
+==== Tauntaun ====
+
+'''Land Mount — Hoth (Imperial Era — Rebel Alliance)'''
+
+Reptomammal riding beasts adapted to Hoth's tundra by day, but unable to survive its nights unsheltered. Their distinctive braying cry carries for kilometres across open snow.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 8 || 20 || - || 35 || 35 || 30 || 40 || - || 10 || 15 || - || 16
+|}
+
+'''''Traits: '''''''Bestial, Cold Vulnerability, Night Vision, Size (Average), Stride''
+
+'''''Optional: '''''''Skittish, Trained (Mount), Territorial''
+
+'''''Cost / Carries / Availability: '''''''700 credits  /  40 Enc  /  Scarce''
+
+==== Varactyl ====
+
+'''Land Mount — Utapau (Clone Wars — Utapau Natives / Jedi)'''
+
+Feathered reptavian herbivores adapted to Utapau's vertical sinkholes, able to leap and climb sheer rock with ease. Fiercely loyal once tamed, and famously ridden by Obi-Wan Kenobi's mount Boga.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 8 || 15 || - || 40 || 40 || 20 || 45 || - || 10 || 15 || - || 26
+|}
+
+'''''Traits: '''''''Bestial, Climber, Size (Large), Stride''
+
+'''''Optional: '''''''Trained (Mount), Territorial''
+
+'''''Cost / Carries / Availability: '''''''1,200 credits  /  35 Enc  /  Rare''
+
+=== Sea Mounts ===
+
+''Aquatic and amphibious creatures ridden or harnessed for travel across water.''
+
+==== Aiwha ====
+
+'''Sea / Air Mount — Kamino (Clone Wars — Kaminoan)'''
+
+The same air whales described under Air Mounts, listed here for their equally strong claim as sea mounts: Kaminoan riders take their aiwha beneath the waves as readily as into the storm-wracked sky.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 2 || 10 || - || 55 || 55 || 15 || 15 || - || 10 || 20 || - || 65
+|}
+
+'''''Traits: '''''''Amphibious, Armour 1, Filter Feeder, Flight 60, Size (Enormous)''
+
+'''''Optional: '''''''Trained (Mount), Territorial''
+
+'''''Cost / Carries / Availability: '''''''45,000 credits  /  400 Enc  /  Rare''
+
+==== Fambaa ====
+
+'''Sea / Land Mount — Naboo (Clone Wars — Gungans)'''
+
+The largest terrestrial-amphibious herbivores of Naboo's swamps, domesticated by the Gungans to haul heavy equipment — including portable shield generators and booma cannons — through water as easily as mud.
+
+{| class="wikitable"
+! '''M''' !! '''WS''' !! '''BS''' !! '''S''' !! '''T''' !! '''I''' !! '''Ag''' !! '''Dex''' !! '''Int''' !! '''WP''' !! '''Fel''' !! '''W'''
+|-
+| 5 || 10 || - || 50 || 60 || 10 || 10 || - || 10 || 20 || - || 48
+|}
+
+'''''Traits: '''''''Armour 1, Bestial, Size (Enormous), Stride, Tough''
+
+'''''Optional: '''''''Trained (Mount, Beast of Burden, Artillery Platform)''
+
+'''''Cost / Carries / Availability: '''''''2,000 credits  /  250 Enc  /  Rare''
+
+==== Speeders ====
+
+''Repulsorlift planetary vehicles with no hyperdrive or sublight space engine — Engine capacity here is top atmospheric speed in km/h, not MGLT.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Engine''' !! '''Def. Turrets'''
+|-
+| 74-Z Speeder Bike || Imperial Era — Galactic Empire || N/A || 3 || 1 || 5 Enc || 3,150 || 500 km/h || 0 (fixed cannon)
+|-
+| BARC Speeder || Clone Wars — Galactic Republic || N/A || 5.4 || 1 (+1 pax) || 5 Enc || 3,000 || 500 km/h || 0 (fixed cannon)
+|-
+| Desert Skiff || Imperial Era — Hutt Cartel || N/A || 10 || 1-2 (+6 pax) || 100 Enc || 6,500 || 250 km/h || 0
+|-
+| Khetanna ("Sail Barge") || Imperial Era — Hutt Cartel (Jabba the Hutt) || N/A || 30 || 8 (+20 pax) || 500 Enc || 285,000 || 100 km/h || 1
+|}
+
+==== Incom T-16 Skyhopper ====
+
+* '''Type''': high-performance airspeeder made by Incom Corporation
+* '''Cost''': 14,500 credits (new), 6,500 credits (used)
+* '''Length''': 5.2 meters; height 10.4 meters
+* '''Maximum speed''': 1,200 km/h
+* '''Maximum altitude''': 300 km; its ion drive and fully pressurized cockpit allowed it to operate at trans-orbital altitudes
+* '''Engines''': E-16/x ion engine and a DCJ-45 repulsorlift generator
+* '''Crew''': 1 pilot, 1 passenger
+* '''Armament''': civilian versions were armed with pneumatic cannons and fitted with targeting lasers. Many law-enforcement agencies and planetary militaries used modified T-16s because they performed well
+* '''Military variant''': the MT-16 was a T-16 modified by the New Republic for combat, armed with a single blaster cannon, with a flight ceiling of two hundred kilometers
+* '''Famous owner''': Luke Skywalker, who raced it through Beggar's Canyon with Biggs Darklighter and shot womp rats from it
+
+=== Tanks ===
+
+''Tracked, wheeled, and repulsorlift armoured fighting vehicles.''
+
+{| class="wikitable"
+! '''Vehicle''' !! '''Era / Faction''' !! '''Size (m)''' !! '''Crew''' !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed (km/h)''' !! '''Weapons''' !! '''Availability'''
+|-
+| AAT (Armoured Assault Tank) || Clone Wars — Confederacy of Independent Systems || 9.7 || 1-2 (mostly droid) || 300 Enc || 150,000 || 55 km/h || Turret laser cannon, projectile launcher || Military
+|-
+| Chariot LAV || Imperial Era — Galactic Empire || 5.4 || 1-2 || 100 Enc || 35,000 || 80 km/h || Light laser cannon || Restricted
+|-
+| HAVr A9 Floating Fortress || Imperial Era — Galactic Empire || 30 || 8+ || 2,000 Enc || 1,200,000 || 120 km/h || Heavy turbolaser array, missile launchers || Military (Rare)
+|-
+| HAVw A6 Juggernaut || Clone Wars — Galactic Republic || 20.6 || 4 (+transport troops) || 1,000 Enc || 400,000 || 35 km/h || Heavy cannons, missile launcher || Military
+|-
+| NR-N99 Persuader-class Droid Enforcer || Clone Wars — Confederacy of Independent Systems || 12.8 || 0 (droid brain) || 400 Enc || 180,000 || 30 km/h || Heavy laser cannon || Military
+|-
+| TX-130 Saber-class Fighter Tank || Clone Wars — Galactic Republic || 7 || 2 || 150 Enc || 120,000 || 60 km/h || Twin laser cannons || Military
+|}
+
+=== Walkers ===
+
+''Legged combat and transport vehicles, ranging from single-rider recon pods to city-levelling siege engines.''
+
+{| class="wikitable"
+! '''Vehicle''' !! '''Era / Faction''' !! '''Size (m)''' !! '''Crew''' !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed (km/h)''' !! '''Weapons''' !! '''Availability'''
+|-
+| AT-AP (All Terrain Attack Pod) || Clone Wars — Galactic Republic || 4.4 (height) || 1 || 150 Enc || 90,000 || 35 km/h || Twin laser cannons || Military
+|-
+| AT-AT (All Terrain Armoured Transport) || Imperial Era — Galactic Empire || 22.9 (height) || 5 (+40 troops) || 3,000 Enc || 8,000,000 || 60 km/h || Heavy laser cannons, twin medium laser cannons || Military (Exotic)
+|-
+| AT-RT (All Terrain Recon Transport) || Clone Wars — Galactic Republic || 2 (height) || 1 || 50 Enc || 40,000 || 90 km/h || Light blaster cannon || Military
+|-
+| AT-ST (All Terrain Scout Transport) || Imperial Era — Galactic Empire || 8.6 (height) || 2 || 250 Enc || 380,000 || 90 km/h || Twin chin-mounted cannons, concussion grenade launcher || Military (Rare)
+|-
+| AT-TE (All Terrain Tactical Enforcer) || Clone Wars — Galactic Republic || 11 || 2 (+20 troops) || 800 Enc || 350,000 || 60 km/h || 6 anti-personnel cannons, heavy laser cannon || Military
+|-
+| OG-9 Homing Spider Droid || Clone Wars — Confederacy of Independent Systems || 9 (height) || 0 (droid brain) || 200 Enc || 200,000 || 40 km/h || Heavy laser cannon || Military
+|}
+
+== Space Ships ==
+==== Star Wars Starship Compendium ====
+
+Modelled on the boat-building tables of Sea of Claws (pages 92-99): each vessel lists its Era and Affiliation, Hyperdrive Class (lower is faster; N/A means the craft has no hyperdrive and cannot leave a system), Size in metres, Crew complement, whether it's Astromech Compatible (uses a dedicated astromech droid socket for in-flight repairs and system control, as on an X-wing or the Naboo starfighters of The Phantom Menace), Cargo capacity in Encumbrance points (as WFRP 4e own Carries characteristic uses - here 1 Enc is set equal to 10kg, matching the Core Rulebook personal-gear scale, so 1 metric ton of cargo = 100 Enc), Cost to buy new in Galactic Credits, Engine capacity (sublight speed in MGLT - Megalights per hour - the standard galactic unit), and Defensive Turrets (the number of independently-tracking gun emplacements, not counting fixed forward-firing weapons). Categories run smallest to largest - starfighter-scale craft first, Space Stations last - and ships within each category are likewise ordered by Size.
+
+''Costs for capital ships are rarely a matter of public record; where no canon price survives, a GM own-estimate figure is given, in the same spirit as the Sourcebooks own not available for sale (estimated) listings.''
+
+*Additional sources: *[https://swse.fandom.com/wiki/Star_Wars_Saga_Edition_Wikia https://swse.fandom.com/wiki/Star\_Wars\_Saga\_Edition\_Wikia]
+
+'''Pax '''= Extra passengers (not including crew or minimum crew requirements)
+'''Astromech''' = has an inbuilt astromech slot and uses an astromech for on flight systems (R2 not included)  *=astromech required
+'''Defence Turrets''' = Turrets maned by entity
+
+'''Hyperdrive''' = Hyperdrive engine speed -  if the ship has a primary drive of 1x and a backup hyperdrive, it is shown as: 1 (6)
+
+'''1 Tonne''' = 125 Encumbrance
+
+==== Availability ====
+
+Civilian - Commonly available if you have the credits
+
+Licensed - Must hold a license to own or operate the item/ship legally
+
+Restricted - only specifically qualified individuals or organisations may own this
+
+*** Military - Sold primarily to legitimate policy and military organisations. Under tight government scrutiny
+
+Illegal - It is illegal in all but specific areas of the galaxy
+
+'''Example of Licence categories''' - '''commercial'''
+
+L (Jedi) - Licensed (Jedi)
+
+L (Trade Fed)  - Licensed (Trade federation)
+
+'''Example of Restricted categories - government enforced / illegal if in the wrong hands'''
+
+RM - Restricted (Military)
+
+R (Imperial) - Restricted (Imperial)
+
+RLE - Restricted (Law Enforcement)
+
+R (Profession) - Restricted (Professions ABC)
+
+=== Star Fighters ===
+
+''Single- or dual-seat starfighters — the standard front-line strength of any fleet. Fighters do not have Defence Turrets. Cargo storage in fighters is 10 Encumbrance. Crew is 1 pilot. Star fighters could enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Astromech''' !! '''Cost (credits)''' !! '''Speed '''MGLT !! Speed<br/>kph !! Availability
+|-
+| A wing || Imperial Era — Galactic Empire || 1.0 || 9.6 || No || 175,000 || 120 || 1300+ || RM
+|-
+| TIE Fighter || Imperial Era — Galactic Empire || Nil || 6.3 || No || 55,000 || 100 || 1200 || RM
+|-
+| TIE Interceptor || Imperial Era — Galactic Empire || Nil || 7.7 || No || 120,000 || 110 || 1250 || RM
+|-
+| Aurek-class Tactical Strikefighter || Old Republic / Cold War — Galactic Republic || 2.0 || 9.2 || No || 80,000 || 115 || 1400 || RM
+|-
+| Delta-7 Aethersprite || Clone Wars — Galactic Republic / Jedi Order || Nil || 8 || Yes* || 180,000 || 106 || 1260 || L (Jedi)
+|-
+| T-65 X-wing || Imperial Era — Rebel Alliance / New Republic || 1.0 || 12.5 || Yes* || 150,000 || 80 || 1050 || RM
+|}
+
+=== Strikecraft *** combine with table above ===
+
+*Fast multi-role fighters that trade some of a pure interceptor's speed for versatility — escort, reconnaissance, or troop insertion. *
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Astromech''' !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed '''MGLT !! '''Def. Turrets''' !! Availability
+|-
+| RZ-1 A-wing Interceptor || Imperial Era — Rebel Alliance || 1 || 9.6 || 1 || - || No || 10 || 175,000 || 120 || 0 || RM
+|-
+| ARC-170 Starfighter || Clone Wars — Galactic Republic || 1 || 10.9 || 2 (pilot, gunner), || - || Yes || 10 || 140,000 || 95 || 1 (rear gunner) || RM
+|-
+| Jedi Vector || High Republic — Jedi Order / Galactic Republic || 1 || 11 || 1 (or 2) || - || No || 10 || 165,000 || 105 || 0 || L (Jedi)
+|-
+| Kom'rk-class Fighter/Transport || Imperial Era (Mandalorian Civil War) — Mandalorian || 1 || 20 || 2 || 6 || No || 200 || 195,000 || 85 || 2 || L (mandalorian)
+|}
+
+==== Ship support equipment ====
+
+Hyperdrive docking rings usually cost the same as a hyperdrive of the same speed class. They cannot enter an atmosphere or land. For example, a Class 1 hyperdrive ring is licensed or restricted in the same way that a Class 1 hyperdrive is. They were used for small ships which could not hold an internal hyperdrive.
+
+{| class="wikitable"
+! '''Equipment''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Astromech''' !! '''Cost (credits)''' !! '''Speed '''MGLT !! Speed<br/>kph !! Availability
+|-
+| Syluire-31 hyperspace docking ring || Clone Wars — Galactic Republic / Jedi Order || 1.0 ||  || No || 25,000 || N/A || N/A || L (Jedi)
+|}
+
+{| class="wikitable"
+! '''Droid Ships''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! '''Astromech''' !! '''Cost (credits)''' !! '''Speed '''MGLT !! Speed<br/>kph !! Availability
+|-
+| Vulture-class Droid Starfighter || Clone Wars — Confederacy of Independent Systems || Nil || 6.96 || 0 (droid brain) || No || 65,000 || 100 || 1200 || L (Trade fed)
+|}
+
+=== Bombers ===
+
+''Slower, heavier-payload strike craft built to bring ordnance to bear on capital ships and ground targets. Bombers could enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! '''Astromech''' !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed ''' !! '''Def. Turrets''' !! Availability
+|-
+| TIE Bomber || Imperial Era — Galactic Empire || Nil || 7.8 || 1 (+1 optional) || No || 60 || 75,000 || 80 MGLT || 0 || 
+|-
+| Chela-class Bomber || Old Republic / Cold War — Galactic Republic || Nil || 11 || 2 || No || 50 || 95,000 || 75 MGLT || 0 || 
+|-
+| BTL-B Y-wing || Clone Wars → Imperial Era — Galactic Republic → Rebel Alliance || 1 || 16 || 1-2 || Yes || 80 || 130,000 || 80 MGLT || 1 (rear gunner) || 
+|}
+
+=== Freighters ===
+
+''Civilian and military cargo haulers — the backbone of galactic transport; trade, smuggling, and logistics. Freighters could enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew'''<br/><br/>'''(min)''' !! Pax !! '''Cargo (t)''' !! '''Cost credits'''<br/><br/>'''(used)''' !! '''Speed '''MGLT !! Speed<br/><br/>kph !! '''Def. Turrets''' !! Availability
+|-
+| Punworcca 116-class Interstellar Sloop || Clone Wars — Sith / Separatist (Count Dooku) || 1 || 26 || 1 || 4 ||  || 400,000 || 75 ||  || 0 || C
+|-
+| Theta-class T-2c Shuttle || Clone Wars — Galactic Republic || 1 (15) || 29.5 || 5 || 16 ||  || 240,000 || 70 ||  || 2 || C
+|-
+| YT-1300 Light Freighter || Imperial Era — Independent / Smuggler || 2 (12) || 34.7 || 2 (1) || 6 - 15 || 25 - 100 || 100,000 || 75 || 800 || 5 || C
+|-
+| Gozanti-class Cruiser || Imperial Era — Galactic Empire || 3 (12) || 64 || 12 || 12 || 75 || 150,000<br/><br/>(50,000) || 65 ||  || 7 || C
+|}
+
+=== Corvettes ===
+
+''Small, fast escort and blockade-running warships — the smallest hull generally considered a proper warship rather than a transport. Corvettes could enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed '''MGLT !!  !! '''Def. Turrets''' !! Availability
+|-
+| CR90 Corellian Corvette || Imperial Era — Rebel Alliance / Corellian Engineering Corp || 2 || 150 || 46 || 600 || 300,000 || 600,000 || 60 ||  || 2 || L (Law Enforcement)
+|-
+| Foray-class Blockade Runner || Old Republic (4000 BBY) — Galactic Republic || 2 || 165 || 65 ||  || 50,000 || 650,000 || 70 ||  || 4 || RM
+|-
+| Marauder-class Corvette || New Republic Era — New Republic || 2 || 195 || 40 ||  || 120,000 || 2,750,000 || 75 ||  || 4 || L (Law Enforcement)
+|-
+| Thranta-class Corvette || Cold War (3600s BBY) — Galactic Republic || 1 || 290 || 250 ||  || 200,000 || 3,200,000 || 65 ||  || 6 || M
+|}
+
+=== Frigates ===
+
+''Mid-sized warships built for sustained fleet actions, escort duty, and independent patrol. Frigates did not usually enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed '''MGLT !!  !! '''Def. Turrets''' !! Availability
+|-
+| Praetorian-class Frigate || Old Republic (4000 BBY) — Galactic Republic || 2(12) || 260 || 220 ||  || 150,000 || 4,000,000 || 55 ||  || 6 || M (Republic)
+|-
+| Nebulon-B Escort Frigate || Imperial Era — Rebel Alliance || 2(12) || 300 || 854 ||  || 600,000 || 8,500,000 || 65 ||  || 12 || M (Imperal)
+|-
+| Munificent-class Star Frigate || Clone Wars — Confederacy of Independent Systems || 1 (10) || 825 || 250 ||  || 2,500,000 || 10,500,000 || 45 ||  || 8 || L (anyone with money)
+|}
+
+=== Cruisers ===
+
+''Independent-capable warships and workhorses of a fleet's main line, versatile enough for patrol, escort, or planetary bombardment. Cruisers did not usually enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Cargo (t)''' !! '''Cost (credits)''' !! '''Speed'''<br/><br/>'''MGLT''' !! Speed<br/><br/>kph !! '''Def. Turrets''' !! Availability
+|-
+| Consular-class Cruiser || CW — GR || 2 || 115 || 9 || 16 || 1,000 || 1,200,000 || 65 || 900 || 1 || C
+|-
+| Hammerhead-class Cruiser || OR — GR || 2 || 315 || 300 || 400 || 4,000 || 10,000,000 || 50 ||  || 8 || M (any)
+|-
+| Strike-class Medium Cruiser || Imp— GE || 2(12) || 450 || 2,112 || 1,020 || 9,000 || 28,000,000 || 60 ||  || 10 || M (Imp)
+|}
+
+=== Heavy Cruisers ===
+
+''Bigger and more heavily armed than a standard cruiser, capable of anchoring a battle line without a dedicated Star Destroyer escort. Suggested multiplier for black market x4 credits. Heavy Cruisers did not usually enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Cargo (t)''' !! '''Cost (credits)''' !! '''Speed '''MGLT !! '''Def. Turrets''' !! Availability
+|-
+| Vindicator Heavy Cruiser || Imperial Era — Galactic Empire || 2 (12) || 600 || 2551 || 400 || 8,000 || 10,400,000 ||  ||  || M
+|-
+| Interdictor-class Cruiser ("Leviathan") || Old Republic (4000 BBY) — Sith Empire (Darth Malak) || 2(9) || 600 || 700 ||  || 600,000 || 18,000,000 || 50 || 10 || M
+|-
+| Immobilizer 418 Interdictor-class Heavy Cruiser || Imperial Era — Galactic Empire || 2(8) || 600 || 1,500 || 80 || 5,500 || 52,240,000 || 40 || 12 || M
+|-
+| Valor-class Cruiser || Cold War — Galactic Republic || 1 || 980 || 3,200 ||  || 1,200,000 || 45,000,000 || 55 || 14 || M
+|}
+
+=== Capital class ===
+
+''Star Destroyers and Battlecruisers are front-line capital class warships built to project a faction's power across a whole sector, trading a measure of armour for extra firepower and speed. Capital ships did not usually enter atmosphere and cannot maneuver when doing so.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Cargo (t)''' !! '''Cost (credits)''' !! '''Speed'''<br/><br/>'''MGLT''' !! Speed kmph !! '''Def. Turrets''' !! Availability
+|-
+| Paladin-class Destroyer || Old Republic (4000 BBY) — Galactic Republic || 2(3) || 850 || 2,000 ||  || 900,000 || 60,000,000 || 50 ||  || 14 || M
+|-
+| Terminus-class Destroyer || Cold War — Sith Empire || 1 || 950 || 2,400 ||  || 1,000,000 || 75,000,000 || 55 ||  || 16 || M
+|-
+| Nebula-class Star Destroyer || New Republic Era — New Republic || 1 || 1,040 || 6,795 ||  || 1,500,000 || 168,528,000 || 70 ||  || 60 || M
+|-
+| Venator-class Star Destroyer || Clone Wars — Galactic Republic || 1(10) || 1,137 || 7,400 ||  || 2,000,000 (+420 fighters) || 130,000,000 || 60 ||  || 18 || M
+|-
+| Imperial I-class Star Destroyer || Imperial Era — Galactic Empire || 2(8) || 1,600 || 37,085 || 9,700 || 36,000 || 150,000,000 || 60 ||  || 66 || M
+|-
+| Interdictor-class Star Destroyer || Imperial Era — Galactic Empire || 2(8) || 1,600 || 37,085 || 5,000 || 36,000 || 175,000,000 || 60 ||  || 66 || M
+|-
+| Recusant-class Light Destroyer || Clone Wars — Confederacy of Independent Systems || 2(12) || 1,187 || 25 (mostly droid) || 1,800,000 || 60,000,000 || 55 ||  || 18 || L (anyone with credits) || 
+|-
+| Centurion-class Battlecruiser || Old Republic (4000 BBY) — Galactic Republic || 2(8) || 1,200 || 4,500 || 1,500,000 || 70,000,000 || 45 MGLT ||  || 20 || M (Republic) || 
+|-
+| Oppressor-class Battlecruiser || Cold War — Sith Empire || 1 || 1,300 || 5,000 || 1,600,000 || 85,000,000 || 50 MGLT ||  || 22 || M || 
+|-
+| Allegiance-class Star Battlecruiser || Imperial Era / New Republic Era — Galactic Empire (Remnant) || 1 || 2,100 || 15,000 || 3,000,000 || 210,000,000 || 55 MGLT ||  || 30 || M (Imp) || 
+|}
+
+=== Dreadnoughts ===
+
+''The largest purpose-built warships short of a full battle station — flagship-tier vessels meant to anchor an entire fleet. Dreadnoughts do not safely enter atmosphere.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! Pax !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed '''MGL !! '''Def. Turrets''' !! Availability
+|-
+| Harrower-class Dreadnought || Cold War — Sith Empire || 1 || 800 || 2,400 || 7,300 || 1,000,000 Enc<br/><br/>(+95 fighters, 32 bombers) || 120,000,000 (or a decade's mining output) || 50 || 28 || M (Sith)
+|-
+| Derriphan-class Battleship || Old Republic (4000 BBY) — Sith Empire || 4(12) || 1,300 || 5,500 ||  || 1,800,000 Enc || 95,000,000 || 40 || 24 || M (Sith)
+|-
+| Kandosii-type Dreadnought || Old Republic (Mandalorian Wars) — Mandalorian || 2(9) || 3,170 || 5,000 ||  || 3,000,000 Enc || 90,000,000 || 40 || 30 || L (Manadlorian)
+|-
+| Subjugator-class Heavy Cruiser || Clone Wars — Confederacy of Independent Systems || 2(12) || 3,170 || 2,010 (mostly droid) ||  || 4,000,000 Enc || 140,000,000 || 40 || 32 || L
+|-
+| Executor-class Star Dreadnought || Imperial Era — Galactic Empire || 2(10) || 19,000 || 279,144 || 38,000 || 25,000,000 || 1,143,700,000 || 40 || 5,000+ || M (Imp)
+|-
+| Providence-class Dreadnought || Clone Wars — Confederacy of Independent Systems || 1.5<br/><br/>(10) || 1,088 || 600 (mostly droid) ||  || 2,000,000 || 55,000,000 || 45 || 16 || L (Trade Federation)
+|}
+
+=== Space Stations ===
+
+''Stationary or near-stationary installations — the only vessels in this compendium that may lack any form of sublight propulsion at all. Most stations and beacons have station keeping engines only, no propulsion of their own to 'travel'. Cannot safely enter atmosphere of a planet.''
+
+{| class="wikitable"
+! '''Ship''' !! '''Era / Faction''' !! '''Hyperdrive''' !! '''Size (m)''' !! '''Crew''' !! '''Cargo (Enc)''' !! '''Cost (credits)''' !! '''Speed MGLT)''' !! '''Def. Turrets''' !! Availability
+|-
+| Section X || Cold War — Hutt Cartel (built on a Gree superweapon) || N/A (stationary) || 3,000 || Varies (neutral zone) || N/A || Not for sale || Static ||  || M
+|-
+| Star Forge || Old Republic (ancient; active 4000 BBY) — Sith Empire / Ancient Rakata || N/A (stationary) || 21,000 (diameter) || Automated || Self-replicating || Priceless — not for sale || Static || Hundreds (automated batteries || M
+|-
+| DS-1 Death Star || Imperial Era — Galactic Empire || 4 || 160,000 (diameter) || 1,000,000+ || Effectively limitless || Over 1,000,000,000,000 || 10 || 15,000+ || M
+|}
+
+==== Ship Upgrades ====
+
+''Refits, ship upgrades and add-ons that can be installed on any vessel in this compendium, priced at the Fighter x1 cost scale. For anything bigger, multiply the listed cost by that class's multiplier below - each class up the size ladder doubles the previous one, a GM's-estimate scaling in the same spirit as the rest of this document's costs. Where an upgrade grants a bonus to a Skill Test, that follows WFRP 4e's usual +10/+20/+30 convention for Easy/Hard/Very Hard levels of improvement.''
+
+''Emplacement points? When can you upgrade a ship with what systems?''
+
+''Limits to what upgrades can go on what ship classes?''
+
+''Check the ship categorys below is correct, to the tables above.''
+
+{| class="wikitable"
+! '''Ship Size''' !! '''Cost Multiplier'''
+|-
+| Star Fighters || x1
+|-
+| Bombers || x2
+|-
+| Freighters || x4
+|-
+| Corvettes || x8
+|-
+| Frigates || x16
+|-
+| Cruisers || x32
+|-
+| Heavy Cruisers || x64
+|-
+| Capital || x128
+|-
+| Dreadnaughts || x256
+|-
+| Space Stations || x512
+|}
+
+'''???????????????????????????????????????????????????????????????????????????????????'''
+
+{| class="wikitable"
+! '''Worker/Technician''' !! '''Multiplier'''
+|-
+| 1 || x1.00
+|-
+| 2 || x0.94
+|-
+| 3 || x0.88
+|-
+| 4 || x0.81
+|-
+| 5 || x0.75
+|-
+| 6 || x0.70
+|-
+| 8 || x0.60
+|-
+| 10 || x0.50
+|-
+| 15 || x0.25
+|-
+| 20 || x0.16
+|-
+| 21+ || x0.10
+|}
+
+Alarms
+
+''Intrusion and emergency warning systems.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Proximity Alarm || Mk I || Basic motion and proximity warning at hatches and entry points. || 500
+|-
+| Intruder Alert System || Mk II || Shipwide alarm, plus automatic comms lockdown to prevent an intruder hailing outside help. || 3,000
+|-
+| Full Security Lockdown System || Mk III || Alarm, automated turret response against unauthorised boarders, and automatic blast door sealing throughout the ship. || 20,000
+|}
+
+=== Armour Upgrades ===
+
+''Hull plating refits, layered over a ship's stock armour.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Reinforced Plating || Mk I || +1 Armour. || 10,000
+|-
+| Duraplast Composite Armour || Mk II || +2 Armour. || 50,000
+|-
+| Deflector-Reinforced Armour || Mk III || +3 Armour, and halves the damage from a single incoming hit once per round. || 200,000
+|}
+
+=== Astromech Slots ===
+
+''Only starfighter- and shuttle-scale vessels built with an astromech socket can use these upgrades - in this compendium, that's the Delta-7 Aethersprite, ARC-170 Starfighter, T-65 X-wing, and BTL-B Y-wing. A vessel without a socket can have one retrofitted as the Mk I entry below before the astromech itself is upgraded.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Add Astromech Socket || Mk I || Retrofits an astromech socket onto a vessel that doesn't already have one. || 5,000
+|-
+| Astromech Unit (Standard) || Mk II || A standard R2-series-equivalent unit; +10 to astrogation, in-flight repair, and remote system-override Tests. || 15,000
+|-
+| Astromech Unit (Military-Grade) || Mk III || A custom or military-spec unit; +20 to astrogation, in-flight repair, and remote system-override Tests, and can perform one additional repair or override action per encounter. || 45,000
+|}
+
+=== Blast Doors ===
+
+''Internal compartment seals, ranging from a stock bulkhead to a vault-grade barrier.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Standard Blast Doors || Mk I || Basic compartment sealing; Armour 2 against boarders and breaches. || 1,500
+|-
+| Reinforced Blast Doors || Mk II || Armour 4, and can be sealed or released remotely from the cockpit or bridge. || 6,000
+|-
+| Vault-Grade Blast Doors || Mk III || Armour 6; resistant to cutting tools and lightsabers alike, with a biometric lock. || 25,000
+|}
+
+=== Circuitry Upgrades ===
+
+''Internal wiring, redundancy, and power-system refits that keep a ship fighting after it's been hit.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Redundant Wiring || Mk I || The ship can continue operating at half systems after a Critical Hit, rather than shutting down outright. || 5,000
+|-
+| Backup Power Core || Mk II || Automatically restores one system disabled by damage once per encounter. || 25,000
+|-
+| Triple-Redundant Systems Array || Mk III || Near-immune to systems failure from ion damage or an EMP; requires three simultaneous critical hits to disable any one system. || 120,000
+|}
+
+=== Electronic Warfare (EWAR) and EMPs ===
+
+''Sensor-jamming, disabling, and disruption systems.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Sensor Jamming Suite || Mk I || Imposes -10 to enemy sensor and targeting Tests made against this ship. || 10,000
+|-
+| EMP Pulse Emitter || Mk II || A single-use short-range burst that disables unshielded electronics - droids and unshielded ship systems alike - within the blast. Recharges (5,000 credits per charge) rather than firing indefinitely. || 25,000
+|-
+| Full-Spectrum ECM Suite || Mk III || -20 to enemy sensor and targeting Tests, and can spoof the ship's IFF transponder codes to impersonate another vessel. || 60,000
+|}
+
+=== Engine Upgrades ===
+
+''Sublight and hyperdrive performance refits.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Overtuned Sublight Drive || Mk I || +5 MGLT to the ship's Engine rating. || 8,000
+|-
+| Military Ion Engines || Mk II || +15 MGLT to the ship's Engine rating. || 40,000
+|-
+| Experimental Hyperdrive Booster || Mk III || Improves the ship's Hyperdrive Class by 1 (to a minimum of Class 0.5). || 150,000
+|-
+| Isotope-5 Reactor Engine || Mk IV (Exotic/Illegal) || Runs on refined Isotope-5, an exotic fuel bled from Purrgil migration trails; +25 MGLT and improves Hyperdrive Class by 1, but any Critical Hit to the engines is treated as one degree more severe due to the fuel's volatility. || 400,000
+|}
+
+=== Interior and Luxury Suites ===
+
+''Living space refits - largely cosmetic and comfort-oriented, but not without their uses on long hauls or when entertaining guests aboard.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Standard Crew Quarters || Mk I || Bunks and a shared refresher; keeps a crew properly rested on long hauls. || 3,000
+|-
+| Recreation Suite || Mk II || Adds a mess hall, holo-entertainment, and private cabins; the crew recovers from Stress and Fatigue faster on long journeys. || 15,000
+|-
+| Luxury Suite || Mk III || Private staterooms, a proper galley, and furnishings fit for a Hutt or a senator; +20 to Fellowship Tests made to impress guests brought aboard. || 60,000
+|}
+
+=== Navigation Systems ===
+
+''Navicomputers and astrogation hardware used to plot a course, whether across a star system or through hyperspace.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Standard Navicomputer || Mk I || A basic astrogation computer holding a modest database of charted hyperspace routes; plotting an uncharted or poorly-mapped route still carries the usual full risk. || 5,000
+|-
+| Expanded Astrogation Buffer || Mk II || A far larger database of charted routes, plus improved plotting software; +10 to Astrogation Tests. || 20,000
+|-
+| Military-Grade Navigation Suite || Mk III || +20 to Astrogation Tests, and can plot a microjump - a single-round short hyperspace hop used to escape or reposition in combat; includes a backup navicomputer that survives one system-disabling Critical Hit. || 65,000
+|}
+
+=== Power Conversion Modules ===
+
+''Systems that let a crew reroute a ship's power output between weapons, shields, and engines on the fly.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Basic Power Converter || Mk I || Once per round as an action, reroute power: +10 to Tests involving one of Weapons/Shields/Engines, and -10 to another of the crew's choice. || 8,000
+|-
+| Compensator Array || Mk II || As above, but with no penalty to the reduced system, and usable as a Free Action. || 35,000
+|-
+| Overcharged Reactor Core || Mk III || Increases the ship's total power output enough to sustain two simultaneous power reroutes instead of one. || 90,000
+|}
+
+=== Security Upgrades ===
+
+''Anti-slicing and anti-hijacking countermeasures for a ship's computer systems.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Basic Lock Override Protection || Mk I || +10 to resist slicing attempts against the ship's controls and cargo holds. || 1,000
+|-
+| Encrypted Command Systems || Mk II || +20 to resist slicing or hacking attempts against the ship's systems. || 8,000
+|-
+| Military Encryption Suite || Mk III || +30 to resist slicing; wipes sensitive data automatically if a breach succeeds regardless. || 45,000
+|}
+
+=== Sensors ===
+
+''Detection and scanning suites, from a stock proximity ping to full military-grade spectral analysis.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Standard Sensor Suite || Mk I || Baseline detection and navigation sensors; short effective range. || 2,000
+|-
+| Long-Range Sensor Array || Mk II || Extends detection range considerably; +20 to sensor-based Perception Tests. || 15,000
+|-
+| Military-Grade Sensor Array || Mk III || Full-spectrum detection - life-forms, comm intercepts, cloaking countermeasures; +30 to sensor-based Perception Tests. || 85,000
+|}
+
+=== Shields ===
+
+''Deflector shield generators that absorb incoming damage before a ship's armour ever comes into play.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Ray-Shielding Deflector Generator || Mk I || Generates a void-hardened energy shield that absorbs the first hit against the ship each round, requires charging after combat || 20,000
+|-
+| Layered Deflector Array || Mk II || As above, but absorbs the first two hits each round, and recharges fully between encounters. || 60,000
+|-
+| Military Deflector Shield Generator || Mk III || Absorbs all hits up to a damage threshold each round (GM sets the threshold against the ship's Toughness/Wounds), and can be redirected to double coverage on the fore or aft arc at the cost of the other. || 180,000
+|}
+
+=== Special Plating ===
+
+''Exotic-material hull refits, distinct from the raw hull-thickness of the Armour Upgrades above - drawing on the materials catalogued in the Star Wars Bestiary and armour-materials reference.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Beskar-Plated Hull Sections || Mk I || Hull sections reinforced with Mandalorian iron; treat as +2 Armour specifically against lightsabers and energy weapons. || 90,000
+|-
+| Ablative Reactive Plating || Mk II || Outer hull sheds material to blunt impacts, ignoring the first Critical Hit suffered per encounter - but the ship's Armour drops by 5% until the shed plating is repaired or replaced. || 150,000
+|-
+| Songsteel-Laced Composite Plating || Mk III || Composite plating laced with songsteel; +3 Armour, and lightsabers treat this ship's Armour as a further 2 points higher on top of any other lightsaber-resistance bonus. || 220,000
+|}
+
+=== Tractor Beams ===
+
+''Grappling projectors used to seize a target vessel, snare incoming debris or ordnance, or reel in cargo for retrieval without a spacewalk.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Light Tractor Beam Emitter || Mk I || Can grip a single Fighter-scale (or smaller) target; the target's pilot may attempt an opposed Agility Test each round to break free. || 15,000
+|-
+| Standard Tractor Beam Projector || Mk II || Can grip a Corvette-scale or smaller target; +10 to the projecting ship's side of the opposed Test to hold it. || 45,000
+|-
+| Heavy Tractor Beam Array || Mk III || Can grip a Cruiser-scale or smaller target, or fling seized debris and derelicts as an improvised ranged attack; +20 to the opposed Test to hold a captured vessel. || 130,000
+|}
+
+=== Weapons and Ordnance Upgrades ===
+
+''Offensive refits to a ship's stock weapon batteries and payloads.''
+
+{| class="wikitable"
+! '''Upgrade''' !! '''Tier''' !! '''Effect''' !! '''Cost (credits)'''
+|-
+| Upgraded Turbolaser Capacitors || Mk I || +1 to hit, or +2 damage, with the ship's primary weapon battery || 12,000
+|-
+| Concussion Missile / Proton Torpedo Rack || Mk II || Adds a six-shot guided-ordnance launcher, reloadable at any station stocking munitions. || 30,000
+|-
+| Quad Ion Cannon Retrofit || Mk III || Converts one turret to fire ion blasts, disabling rather than destroying vehicle-scale or smaller targets - ideal for boarding actions. || 70,000
+|-
+| Plasma Cannon Array || Mk IV || +6 damage, ignores Mk1 shields, adds +30 to the critical roll and scores criticals on 10s and doubles. Can only be used every second round as array needs to vent between shots. Plasma can be dodged at any range category. (average +10, long +20, extreme +30 to dodge) || 110,000
+|}
+
+== Starships circa 3000-4000 BBY ==
+==== Ancient Starships ====
+
+* '''Xim-era ships (25,100 BBY)''' predate the modern hyperdrive entirely. The Tionese used fixed-position hyperspace beacon networks — think lighthouses rather than an onboard engine — so they have no standard Class rating and couldn't venture far outside their beacon grid. A note on the Xim era (\~25,100 BBY): starfighter-scale craft from that period are not individually named or statted in any Legends source. The Tionese used small "battlebird" and "cutters" in mixed squadrons, but no single-seat fighter specs survive.
+* '''The very ancient ships''' (Kumauri, Cal-class) have almost no surviving Legends stat data. Their entries are grounded in what Legends sources say about their role and era.
+* The '''Inexpugnable-class''' is the oddest ship in the galaxy at that period — a 3,100-metre disc that functioned more like a space station than a warship, with only 6 ever built.
+* The '''Harrower-class''' technically falls right at the 3,000 BBY boundary (first production \~3,712 BBY) so I've included it as it comfortably predates your cutoff.
+
+----
+
+'''Ancient Starfighters (Pre-3000 BBY) — 1 or 2 Man'''
+
+----
+
+==== Star Saber XC-01 ====
+
+* '''First service:''' \~4,000 BBY (Great Sith War)
+* '''Class:''' Starfighter
+* '''Crew:''' 1 (pilot only)
+* '''Passengers:''' None
+* '''Hyperdrive:''' Class 2
+* '''Notes:''' Republic Fleet Systems; 13m long; fast but dangerously unresponsive — its low maneuverability-to-speed ratio and slow control stick reaction gave it a reputation as dangerous and unwieldy, so it was largely flown by Jedi who could compensate with the Force. Retired when the Aurek entered service.
+
+----
+
+==== Aurek-class Tactical Strikefighter ====
+
+* '''First service:''' \~3,976 BBY (Mandalorian Wars), designed during the post-Great Sith War restoration
+* '''Class:''' Strikefighter
+* '''Crew:''' 1 (pilot only)
+* '''Passengers:''' None
+* '''Hyperdrive:''' Class 2
+* '''Notes:''' Republic Fleet Systems; 9.2m long; delta-wing with variable-geometry wings. Armed with two heavy laser cannons and two proton torpedo launchers capable of holding six torpedoes; easily refuelable and rearmable, driving down costs. Served as the Republic's primary "hyperspace snub" for nearly 4,000 years through constant upgrades. The direct spiritual predecessor of the Rebel Alliance A-wing. [[Aurek-class tactical strikefighter|Fandom]]
+
+----
+
+==== S-250 Chela-class Starfighter ====
+
+* '''First service:''' \~3,956 BBY (Jedi Civil War)
+* '''Class:''' Starfighter
+* '''Crew:''' 1 (pilot only)
+* '''Passengers:''' None
+* '''Hyperdrive:''' Yes (class unspecified in sources)
+* '''Notes:''' A loser in the "Generation Tomorrow Starfighter" competition against the Aurek, it was still purchased in small numbers by the Republic. Armed with twin laser cannons and missile launchers; often flown by higher-ranking pilots and squad leaders. Carried aboard Inexpugnable-class command ships (24 per ship). [[S-250 Chela-class starfighter|Fandom]]
+
+'''Star Wars Legends –Ancient Starships (Pre-3000 BBY)'''
+
+*Hyperdrive class: lower number = faster (Class 1 = fastest standard). *
+
+''Dates are approximate first service dates in BBY.''
+
+{| class="wikitable"
+! '''Ship Name''' !! '''Ship Class''' !! '''First Service (BBY)''' !! '''Passengers / Troops''' !! '''Min. Crew''' !! '''Hyperdrive Class''' !! '''Notes'''
+|-
+| Xolochi Dreadnought || Dreadnought || \~25,100 BBY || Unknown || Unknown || Unknown (pre-hyperdrive era) || Xim the Despot's largest warship; kiirium-armoured hull that reflected energy weapons; relied on Tionese fixed-position hyperspace beacons
+|-
+| Thanium Star-Glaive || Frigate / Corvette || \~25,100 BBY || Unknown || Unknown || Unknown (Tionese beacon-based) || Part of Xim the Despot's mixed frigate/corvette squadrons; armed with pulse cannons and concussion missiles
+|-
+| Kumauri Battleship || Battleship || \~10,000 BBY || Unknown || Unknown || Unknown || Long-running "planet buster" warship line; spawned many imitation designs; used by early Republic and allied governments to intimidate or destroy hostile civilisations
+|-
+| Cal-class Battleship || Battleship || \~7,811 BBY || Unknown || Unknown || Unknown || Popular with multiple governments including the Galactic Republic; represented golden age warship production after the Waymancy Storm when turbolaser tech improved significantly
+|-
+| Praetorian-class Frigate || Capital Frigate || \~4,000 BBY (Great Sith War) || Unknown || Unknown || Class 2 || 180m long; Rendili Hyperworks; weapons geared for defensive/escort fire; carried 12 starfighters; predecessor to the Hammerhead-class cruiser; design later retooled into the Class VI bulk freighter
+|-
+| Hammerhead-class Cruiser || Cruiser || \~4,000 BBY (Great Sith War) || 400 troops || 300 crew + 224 gunners (skeleton: 50) || Class 2 || 315m long; Rendili Hyperworks; one of the most successful designs in galactic history; served for over 3,000 years; could land on planetary surfaces; carried 12 Aurek fighters in later variants
+|-
+| Foray-class Blockade Runner || Capital Frigate / Blockade Runner || \~3,964 BBY (Mandalorian Wars) || Unknown || Unknown || Unknown || Republic Fleet Systems; slender hulled with turreted bow guns; never operated independently –always fleet-support only; mass-produced to flood trade routes
+|-
+| Inexpugnable-class Tactical Command Ship || Command Ship / Dreadnought || \~3,963 BBY (Mandalorian Wars) || 2,000 troops || 4,187 crew + 113 gunners (skeleton: 1,000) || Class 2 (backup: Class 10) || 3,100m diameter disc; Rendili/Vanjervalis; only 6 ever built; could command up to 64 Hammerheads simultaneously via Vanjervalis Chain; carried 144 Aurek fighters + 24 Chela fighters
+|-
+| Centurion-class Battlecruiser || Battlecruiser / Command Ship || \~3,963 BBY (Mandalorian Wars) || 7,400 troops || 31,452 || Class 2 (backup: Class 8) || 1,200m long; intended to replace the Inexpugnable-class; used by Republic then captured by Revan as Sith flagship; most famous example is the Ravager, Darth Nihilus's ship; carried 96 Sith fighters
+|-
+| Thranta-class Corvette || Corvette || \~3,681 BBY (Great Galactic War) || 200 troops || 300 || Class 2 || \~300m; Corellia StarDrive; workhorse of Republic Navy during the Great Galactic War; slightly smaller than Hammerhead-class; used pack tactics against larger vessels
+|-
+| Harrower-class Dreadnought || Dreadnought || \~3,712 BBY (Great Galactic War) || 7,300 troops || 2,400 || Unknown || \~800m long; Taerab Starship Manufacturing; backbone of the Sith Empire navy for 85+ years; wedge-shaped; carried 100+ fighters/bombers; flagship class of the Sacking of Coruscant (3653 BBY); production cost equivalent to a decade of a major planetary mining colony
+|}
+
+''* Unknown entries reflect genuine gaps in Legends source material for those ancient eras. Xim-era ships predate the modern hyperdrive and used Tionese beacon-based hyperspace travel, which is not rated by the standard Class system.''
+
+[[Category:SL100]]
+[[Category:SL100 rules]]

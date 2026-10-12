@@ -125,7 +125,15 @@ Raw d20 values with book and page, in <code>Source_Text/tables/</code>; <code>wi
 |-
 | <code>core_tradegoods.csv</code> || 18
 |-
+| <code>core_vehicle.csv</code> || 21
+|-
 | <code>core_weapon.csv</code> || 43
+|-
+| <code>d20_force_feats.csv</code> || 88
+|-
+| <code>d20_force_skills.csv</code> || 32
+|-
+| <code>d20_species.csv</code> || 283
 |-
 | <code>droid.csv</code> || 45
 |-
@@ -139,7 +147,7 @@ Raw d20 values with book and page, in <code>Source_Text/tables/</code>; <code>wi
 |-
 | <code>weapon.csv</code> || 119
 |-
-| <code>wiki_match.csv</code> || 447
+| <code>wiki_match.csv</code> || 468
 |}
 
 [[Category:SL100]]
