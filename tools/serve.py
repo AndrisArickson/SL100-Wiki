@@ -92,7 +92,7 @@ def layout(title, body, q="", tabs="", extra_head=""):
 <div class="wrap"><nav>
 <h4>Navigate</h4><a href="/">Main page</a><a href="/special/recent">Local edits</a><a href="/random">Random page</a>
 <a href="/special/allpages">All pages</a><a href="/special/images">Image list</a><a href="/special/status">Harvest status</a>
-<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Character_creation">Character creation</a><a href="/books">Source books (d20)</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
+<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Character_creation">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
 <h4>Reference</h4><a href="/category/Weapons">Weapons</a><a href="/category/Armor">Armor</a><a href="/category/Starships">Starships</a>
 <a href="/category/Vehicles">Vehicles</a><a href="/category/Droids">Droids</a><a href="/category/Planets">Planets</a>
 </nav><main><div class="tabs">%s</div><h1>%s</h1>%s</main></div></body></html>""" % (
@@ -160,6 +160,8 @@ class H(BaseHTTPRequestHandler):
             if path == "/random":
                 r = con.execute("SELECT title FROM pages WHERE status='ok' AND ns=0 ORDER BY RANDOM() LIMIT 1").fetchone()
                 return self.redirect(wiki_href(r[0]) if r else "/")
+            if path == "/match-review":
+                return self.match_review(qs)
             if path == "/books" or path.startswith("/books/"):
                 return self.books(path[7:].strip("/"), qs)
             if path.startswith("/special/"):
@@ -183,6 +185,8 @@ class H(BaseHTTPRequestHandler):
         path = urllib.parse.unquote(urllib.parse.urlparse(self.path).path)
         n = int(self.headers.get("Content-Length") or 0)
         form = urllib.parse.parse_qs(self.rfile.read(n).decode("utf-8"), keep_blank_values=True)
+        if path == "/match-review":
+            return self.match_review_save(form)
         if not path.startswith("/edit/"):
             return self.send("bad request", 400, "text/plain")
         title = norm_title(path[6:])
@@ -316,6 +320,66 @@ class H(BaseHTTPRequestHandler):
                 "<p>Harvested pages are Wookieepedia (Legends) text, CC BY-SA 3.0. Use the <code>SL100:</code> prefix for game rules, "
                 "stats, costs and availability.</p>" % n)
         self.send(layout("Star Legends Wiki", body, tabs=self.tabs(HOME_TITLE, False)))
+
+    # ---- d20 item -> Legends article review (Source_Text/tables/wiki_match.csv; choices saved beside it)
+    def _mr_files(self):
+        base = ROOT.parent / "Source_Text" / "tables"
+        return base / "wiki_match.csv", base / "wiki_match_choices.csv"
+
+    def _mr_choices(self):
+        import csv
+        _, cf = self._mr_files()
+        if not cf.exists():
+            return {}
+        return {(r["source_file"], r["name"]): r["chosen"] for r in csv.DictReader(open(cf, encoding="utf-8"))}
+
+    def match_review(self, qs):
+        import csv
+        mf, _ = self._mr_files()
+        if not mf.exists():
+            return self.send(layout("Match review", "<p>Run <code>./wiki.sh collate</code> first.</p>"))
+        show = qs.get("show", ["open"])[0]
+        ch = self._mr_choices()
+        rows = [r for r in csv.DictReader(open(mf, encoding="utf-8")) if r["match"] in ("words", "multi", "generic", "none")]
+        if show == "open":
+            rows = [r for r in rows if (r["source_file"], r["name"]) not in ch and r["match"] != "none"]
+        elif show == "none":
+            rows = [r for r in rows if r["match"] == "none" and (r["source_file"], r["name"]) not in ch]
+        out = []
+        for r in rows:
+            key = (r["source_file"], r["name"])
+            opts = [t for t in ([r["wiki_title"]] if r["wiki_title"] else []) + [c.strip() for c in r["candidates"].split("|") if c.strip()]]
+            btn = "".join('<button name="chosen" value="%s">%s</button> <a href="%s" target="_blank" title="open article">&#8599;</a> ' %
+                          (esc(t), esc(t.replace("/Legends", "")), wiki_href(t)) for t in dict.fromkeys(opts))
+            done = ch.get(key)
+            out.append('<tr><td><b>%s</b><br><small>%s p.%s, %s</small></td><td>%s</td><td><form method="post" action="/match-review">'
+                       '<input type="hidden" name="source_file" value="%s"><input type="hidden" name="name" value="%s">%s'
+                       '<input name="other" size="22" placeholder="other article title"> <button name="chosen" value="__other">Use</button> '
+                       '<button name="chosen" value="-">No article</button>%s</form></td></tr>' %
+                       (esc(r["name"]), esc(r["book"][3:30]), esc(r["page"]), esc(r["kind"]), esc(r["match"]), esc(r["source_file"]), esc(r["name"]), btn,
+                        (" <i>chosen: %s</i>" % esc(done)) if done else ""))
+        nav = ('<p>Show: <a href="?show=open">to review (%s)</a> | <a href="?show=none">no match found</a> | <a href="?show=all">all</a>. '
+               'Choices are saved in <code>Source_Text/tables/wiki_match_choices.csv</code> and applied the next time '
+               '<code>./wiki.sh collate</code> runs.</p>' % ("this list" if show == "open" else "unreviewed"))
+        self.send(layout("Match review: d20 items to Legends articles", nav + "<table class='wikitable'><tr><th>d20 item</th><th>how matched</th>"
+                         "<th>pick the Legends article</th></tr>%s</table>" % "".join(out)))
+
+    def match_review_save(self, form):
+        import csv
+        _, cf = self._mr_files()
+        f = lambda k: (form.get(k, [""])[0] or "").strip()
+        chosen = f("other") if f("chosen") == "__other" else f("chosen")
+        if chosen and chosen != "-":
+            chosen = norm_title(chosen)
+        ch = self._mr_choices()
+        if f("source_file") and f("name") and chosen:
+            ch[(f("source_file"), f("name"))] = chosen
+            with open(cf, "w", newline="", encoding="utf-8") as fh:
+                w = csv.writer(fh)
+                w.writerow(["source_file", "name", "chosen"])
+                for (a, b), c in sorted(ch.items()):
+                    w.writerow([a, b, c])
+        self.redirect(self.headers.get("Referer") or "/match-review")
 
     # ---- private d20 source-book browser (reads ../Source_Text; local only, never part of the wiki or git)
     def books(self, slug, qs):

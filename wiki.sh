@@ -29,9 +29,9 @@ case "${1:-help}" in
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
   collate)    # re-run the collation reports (lookups and comparisons only; see docs/collation/README.md)
-    "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
+    "$PY" tools/books/refblocks.py all && STATBLOCK_PREFIX=core_ "$PY" tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650 && "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
       && "$PY" tools/collate/vocab.py && "$PY" tools/collate/ships_compare.py \
-      && "$PY" tools/collate/careers_compare.py && "$PY" tools/collate/assembly.py && "$PY" tools/collate/wiki_pages.py ;;
+      && "$PY" tools/collate/careers_compare.py && "$PY" tools/collate/assembly.py && "$PY" tools/collate/species_xref.py && "$PY" tools/collate/wiki_pages.py ;;
   books)      # d20 source-book extraction / OCR (output: ../Source_Text, outside git)
     shift; sub="${1:-help}"; TXT="../Source_Text"; mkdir -p "$TXT/logs"
     case "$sub" in

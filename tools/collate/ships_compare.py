@@ -55,7 +55,7 @@ def doc_rows():
 
 
 def d20_rows():
-    for fn in ("starship.csv", "vehicle.csv"):
+    for fn in ("starship.csv", "vehicle.csv", "core_vehicle.csv"):
         f = WM.TAB / fn
         if not f.exists():
             continue
@@ -70,7 +70,7 @@ def main():
     groups = defaultdict(list)
     rows = []
     for r in list(doc_rows()) + list(d20_rows()):
-        kind = "vehicle" if "Vehicle" in r["source"] or r["section"] == "vehicle.csv" else "starship"
+        kind = "vehicle" if "Vehicle" in r["source"] or r["section"] in ("vehicle.csv", "core_vehicle.csv") else "starship"
         how, title, cands = WM.match(w, r["name"], kind)
         r.update(match=how, wiki_title=title, candidates=" | ".join(cands))
         rows.append(r)

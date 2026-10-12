@@ -55,7 +55,7 @@ will use it instead.
 Browse to any page and press **Edit**. Saves go straight to the `.wiki` file (old versions are kept in `data/history/`).
 Use the `SL100:` prefix for our own pages (e.g. `SL100:Weapons/Blaster pistol`) and put game statistics in an
 infobox-style template, for example `{{SL100 Weapon|name=...|damage=...|price=...|availability=...}}` - see
-`SL100:Example Weapon`. The front page cards and `SL100:Talents` are generated from the rules markdown by `python3 tools/talents_page.py`. Link each game page to its Legends source article. The renderer shows any template with three or
+`SL100:Example Weapon`. The front page cards and every rules page (`SL100:Characteristics` ... `SL100:Vehicles and Starships`) are generated from the markdown chapters in this folder by `python3 tools/build_pages.py`; edit the markdown, not those pages. Link each game page to its Legends source article. The renderer shows any template with three or
 more named parameters as an infobox, so new stat templates need no extra code.
 
 ## Pushing to GitHub

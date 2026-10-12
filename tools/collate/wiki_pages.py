@@ -96,6 +96,8 @@ def main():
     write_page(con, "SL100:Collation", STAMP % "the collation scripts" +
                "Reports that line up the rules documents, the WFRP rulebook, the d20 books and the Legends wiki side by side. "
                "They are lookups and comparisons only - no rules are decided here. Re-run them with <code>./wiki.sh collate</code>.\n\n"
+               "'''[/match-review Review d20 item matches]''' - confirm or correct which Legends article each d20 weapon, armour, droid, vehicle "
+               "and starship belongs to, one click per item (local only).\n\n"
                '<div class="sl-cards small">\n' + "\n".join(cards) + "\n</div>\n\n"
                "Files behind these pages: <code>SL100-Wiki/docs/collation/</code> (in git) and <code>Source_Text/tables</code>, "
                "<code>Source_Text/collation</code> (d20 and WFRP data, kept off GitHub).\n\n[[Category:SL100]] [[Category:SL100 collation]]")

@@ -11,6 +11,7 @@ match column:
   words   best word-overlap title (score >= 0.6) - CHECK these by eye
   multi   several equally good titles - listed in 'candidates' for you to choose
   none    nothing suitable found
+  confirmed / rejected   decided by hand on the local wiki page /match-review (stored in wiki_match_choices.csv)
 Infobox facts are copied as written on Wookieepedia (refs and markup stripped), e.g. manufacturer, model, class, cost,
 length, affiliation, era/introduced/retired where the infobox has them.
 """
@@ -28,7 +29,7 @@ import common as C                             # noqa: E402
 
 SOURCES = {  # file -> kind
     "weapon.csv": "weapon", "core_weapon.csv": "weapon", "armor.csv": "armor", "core_armor.csv": "armor",
-    "droid.csv": "droid", "vehicle.csv": "vehicle", "starship.csv": "starship", "gear.csv": "gear",
+    "droid.csv": "droid", "vehicle.csv": "vehicle", "core_vehicle.csv": "vehicle", "starship.csv": "starship", "gear.csv": "gear",
     "core_equipment.csv": "gear", "species.csv": "species",
 }
 TEMPLATES = {  # substrings of infobox template names that suit each kind (Wookieepedia: Weapon, StarshipClass,
@@ -192,8 +193,17 @@ def match(w, name, kind):
     return "none", "", [t for _, t in scored]
 
 
+def load_choices():
+    """Hand-confirmed matches from the local wiki's /match-review page: (source_file, name) -> chosen title ('-' = none)."""
+    f = TAB / "wiki_match_choices.csv"
+    if not f.exists():
+        return {}
+    return {(r["source_file"], r["name"]): r["chosen"] for r in csv.DictReader(open(f, encoding="utf-8"))}
+
+
 def main():
     w = Wiki()
+    choices = load_choices()
     rows, stats = [], defaultdict(lambda: defaultdict(int))
     for fn, kind in SOURCES.items():
         f = TAB / fn
@@ -204,6 +214,11 @@ def main():
             if not name:
                 continue
             how, title, cands = match(w, name, kind)
+            ch = choices.get((fn, name))
+            if ch:
+                how, title = ("confirmed", ch) if ch != "-" else ("rejected", "")
+                if title and title not in w.path:
+                    how, title = "confirmed (missing)", ""
             tpl, facts = w.info(title) if title else ("", {})
             row = {"source_file": fn, "book": r.get("book", "SW_Revised_Core_Rulebook_WTC17650" if fn.startswith("core_") else ""),
                    "page": r.get("page", ""), "kind": kind, "name": name, "match": how, "wiki_title": title,

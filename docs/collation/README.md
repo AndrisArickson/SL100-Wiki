@@ -22,6 +22,11 @@ are copied as written, matched by name, and listed where sources disagree. Re-ru
 | File | What it holds | Script |
 |---|---|---|
 | `tables/*.csv` | raw d20 stat blocks: weapons, armour, droids, vehicles, gear, starships (+ starship weapons), Core Rulebook tables | `tools/books/statblocks.py`, `coretables.py`, `starships.py` |
+| `tables/d20_species.csv` (+ `reference/species/*.txt`) | 229 species and 54 creature trait blocks from the d20 books: ability modifiers, size, speed, skill bonuses, languages, other traits, homeworld, age; the full entry text per species | `tools/books/refblocks.py` |
+| `tables/d20_force_skills.csv`, `d20_force_feats.csv` (+ `reference/force/*.txt`) | 27 Force skills (key ability, requirements, vitality cost, dark side, check/time/special) and 82 Force feats (prerequisite, benefit, normal, special), with the full text of each | `tools/books/refblocks.py` |
+| `collation/species_xref.md` | each SL100 species next to its d20 entries and Legends article; d20 species not yet in SL100 | `tools/collate/species_xref.py` |
+| `tables/core_vehicle.csv` | 21 Core Rulebook vehicles and starships (speeders, walkers, airspeeders, starfighters, transports, capital ships) | `STATBLOCK_PREFIX=core_ tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650` |
+| `tables/wiki_match_choices.csv` | matches confirmed or corrected by hand on http://127.0.0.1:8100/match-review; applied on the next `./wiki.sh collate` | local wiki |
 | `tables/wiki_match.csv` | each d20 item matched to its Legends article (`exact`, `code`, `generic`, `words`, `multi`, `none`) with the infobox facts copied (manufacturer, model, class, cost, length, crew, affiliation...) | `tools/books/wikimatch.py` |
 | `collation/wfrp_careers.csv`, `sl100_careers.csv`, `careers_compare.md` | every WFRP 4e career level vs the SL100 careers in 05: missing careers, level-by-level skill/talent/trapping differences (summary on the wiki page SL100:Careers compared with WFRP) | `tools/collate/careers_compare.py` |
 | `collation/ships_compare.csv` / `.md` | every source's figures for each ship or vehicle side by side: Space Ships doc, era doc, Mounts & Vehicles doc, d20 books, Legends wiki | `tools/collate/ships_compare.py` |

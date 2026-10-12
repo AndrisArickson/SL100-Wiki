@@ -3,6 +3,7 @@
 
   statblocks.py run [SLUG ...]     default: Arms and Equipment Guide
   statblocks.py check SLUG         print 8 random parsed entries for eyeballing
+  STATBLOCK_PREFIX=core_ statblocks.py run SW_Revised_Core_Rulebook_WTC17650   -> tables/core_vehicle.csv (keeps other books' files)
 
 Output (copyrighted data, stays outside git): Source_Text/tables/<kind>.csv  with columns
 book, page, name, kind, then one column per label found; plus tables/_unparsed.txt (suspect entries).
@@ -21,7 +22,7 @@ LABELS = ["Weapon Type", "Armor Type", "Proficiency Group", "Cost", "Damage", "C
           "Equipment Bonus", "Maximum Dex Bonus", "Max Dex Bonus", "Armor Check Penalty", "Speed", "Damage Reduction", "Defense",
           "Crew", "Passengers", "Cargo Capacity", "Consumables", "Hull Points", "Shield Points", "Maneuver", "Initiative",
           "Max Velocity", "Atmospheric Speed", "Altitude", "Move", "Max Load", "Arc", "Attack Bonus", "Increment", "Strength Augmentation",
-          "Computerized Targeting", "Repulsorlift", "Comlink", "Powerlamp", "Sensors", "Life Support", "Bonus", "Skills", "Feats", "Equipment"]
+          "Computerized Targeting", "Hyperdrive", "Maximum Speed in Space", "Weapon", "Fire Arc", "Range Modifiers", "Repulsorlift", "Comlink", "Powerlamp", "Sensors", "Life Support", "Bonus", "Skills", "Feats", "Equipment"]
 LABELS.sort(key=len, reverse=True)
 LAB_RE = re.compile(r"(?<![A-Za-z])(%s)\s*:" % "|".join(re.escape(l) for l in LABELS))
 ANCHORS = {"Weapon Type": "weapon", "Armaor Type": "armor", "Armor Type": "armor"}
@@ -29,6 +30,8 @@ ERA_NOISE = re.compile(r"\bEra\s*:.*$")
 
 
 def kind_of(zone):
+    if re.search(r"Class\s*:\s*The (starship|vehicle)", zone):   # the book's own "how to read a stat block" key
+        return None
     keys = set(m.group(1) for m in LAB_RE.finditer(zone))
     if "Weapon Type" in keys:
         return "weapon"
@@ -148,11 +151,11 @@ def run(slugs):
             for c in r:
                 if c not in cols:
                     cols.append(c)
-        with open(OUT / (kind + ".csv"), "w", newline="", encoding="utf-8") as fh:
+        with open(OUT / (os.environ.get("STATBLOCK_PREFIX", "") + kind + ".csv"), "w", newline="", encoding="utf-8") as fh:
             w = csv.DictWriter(fh, fieldnames=cols)
             w.writeheader()
             w.writerows(rs)
-        print("%-8s %4d entries -> tables/%s.csv" % (kind, len(rs), kind))
+        print("%-8s %4d entries -> tables/%s%s.csv" % (kind, len(rs), os.environ.get("STATBLOCK_PREFIX", ""), kind))
     return rows
 
 
