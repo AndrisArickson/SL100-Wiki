@@ -10,3 +10,9 @@ images/local/
 # Copyrighted source-book extracts must never be pushed
 private/
 Source_Text/
+
+# full-size JPG masters live outside the repo in ../art_originals
+images/generated/originals/*.jpg
+images/generated/*.jpg
+images/full/**/*.png
+images/full/**/*.jpg
