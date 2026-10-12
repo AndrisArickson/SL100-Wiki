@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Register SL100 original artwork (images/generated/originals/*.jpg) in the wiki: WebP copy in images/full/ and a row in imglic.
+"""Register SL100 original artwork (images/generated/originals/*.webp, full size; wiki file names keep ".jpg") in the wiki: WebP copy in images/full/ and a row in imglic.
 Idempotent. Run when no other image job is writing to data/wiki.db:  python3 tools/register_generated.py [--webp-only]"""
 import glob
 import os
@@ -16,8 +16,8 @@ def main():
     webp_only = "--webp-only" in sys.argv
     con = None if webp_only else I.db()
     n = 0
-    for f in sorted(glob.glob(str(C.ROOT / "images/generated/originals/*.jpg"))):
-        name = os.path.basename(f)
+    for f in sorted(glob.glob(str(C.ROOT / "images/generated/originals/*.webp")) + glob.glob(str(C.ROOT / "images/generated/originals/*.jpg"))):
+        name = os.path.splitext(os.path.basename(f))[0] + ".jpg"
         p = I.dest(name, "free")
         if not p.exists() or p.stat().st_mtime < os.path.getmtime(f):
             p.parent.mkdir(parents=True, exist_ok=True)
