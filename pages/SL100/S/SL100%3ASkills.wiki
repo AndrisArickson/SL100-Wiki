@@ -17,7 +17,7 @@ Advanced Skills require specialist knowledge, training, or firsthand experience 
 
 === Basic Skills ===
 
-Art, Athletics, Bribery, Charm, Charm Creature, Climb, Cool, Consume Intoxicant, Dodge, Endurance, Entertain, Gamble, Gossip, Haggle, Intimidate, Intuition, Leadership, Melee (1H/2H/*Lightsaber), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Archaic/Blaster/Heavy/Ordinance), Ride(Air/Land/Water), Stealth(Urban/Wilderness)
+Art, Athletics, Bribery, Charm, Climb, Consume Intoxicant, Cool, Dodge, Endurance, Entertain, Gamble, Gossip, Haggle, Intimidate, Intuition, Leadership, Melee (Brawling, Vibroblade, Vibro-Axe, Force Pike, *Lightsaber, Electrostaff, Stun Baton, Parry, Two-Handed), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Pilot (Starship), Ride (Air/Land/Water), Stealth (Rural/Underground/Urban)
 
 *Lightsabers impose a penalty of -20 to wielders who are not force sensitive.
 
@@ -25,7 +25,7 @@ Example: Adhemar has an Intelligence of 36 and no Advances in either the Basic G
 
 === Advanced Skills ===
 
-Creature Care, Creature Training, Use the Force, Evaluate, Medicine, Language, Lore, Perform, Slice Security System, Play, Meditate, Research, Pilot (Capital Ship), Codes(Faction), Demolitions, Sleight of Hand, Swim, Track, Profession
+Codes (Faction), Creature Care, Creature Training, Demolitions, Evaluate, Language, Lore, Medicine, Meditate, Perform, Pilot (Capital Ship), Play, Profession, Ranged (Blaster Pistol, Blaster Rifle, Heavy Blaster, Slugthrower, Bowcaster, Disruptor, Grenade/Explosives, Missile/Rocket, Sniper), Research, Sleight of Hand, Slice Security System, Swim, Track, Use the Force
 
 === Grouped Skills and Specialisation ===
 
@@ -97,7 +97,7 @@ Specialisations: Rebel, Imperial, Hutt Cartel, Bounty Hunter, Smuggler, Mandalor
 
 Your ability to handle alcohol without letting it cloud your judgment or render you senseless.
 
-After each alcoholic drink make a Consume Alcohol Test, modified by the strength of the drink. For each Test you fail, you suffer a –10 penalty to WS, BS, Ag, Dex, and Int, to a maximum of –30 per Characteristic. After you fail a number of Tests equal to your Toughness Bonus, you are Stinking Drunk. Roll on the following table to see what happens:
+After each alcoholic drink make a Consume Intoxicant Test, modified by the strength of the drink. For each Test you fail, you suffer a –10 penalty to WS, BS, Ag, Dex, and Int, to a maximum of –30 per Characteristic. After you fail a number of Tests equal to your Toughness Bonus, you are Stinking Drunk. Roll on the following table to see what happens:
 
 === 1d10 Stinking Drunk ===
 
@@ -105,13 +105,13 @@ After each alcoholic drink make a Consume Alcohol Test, modified by the strength
 
 3-4 ‘You’re My Besht Mate!’: Ignore all your existing Prejudices and Animosities (see page 190).
 
-5-6 ‘How Did I Get here?’: You wake up the next day, massively hungover, with little memory of what transpired. The GM and other players with you will fill in the embarrassing gaps if 7-8 you investigate. Pass a Consume Alcohol Test or also gain a Poisoned Condition (see page 169).
+5-6 ‘How Did I Get here?’: You wake up the next day, massively hungover, with little memory of what transpired. The GM and other players with you will fill in the embarrassing gaps if 7-8 you investigate. Pass a Consume Intoxicant Test or also gain a Poisoned Condition (see page 169).
 
 9 ‘Corellian’s Courage!’: Gain a bonus of +20 to your Cool Skill.
 
 10 ‘I’ll Take Yer All On!’: Gain Animosity (Everybody!) (see page 190).
 
-After not drinking for an hour, enact a Challenging (+0) Consume Alcohol Test. The effects of being drunk will wear off after 10–SL hours, with any Characteristic modifiers for being drunk lost over that time. After all effects wear off, enact another Challenging (+0) Consume Alcohol Test. You now gain a hangover, which is an Fatigued Condition that cannot be removed for 5–SL hours. You may expend 1 Resolve point to ignore the negative modifiers of being drunk until the end of the next round (see page 171).
+After not drinking for an hour, enact a Challenging (+0) Consume Intoxicant Test. The effects of being drunk will wear off after 10–SL hours, with any Characteristic modifiers for being drunk lost over that time. After all effects wear off, enact another Challenging (+0) Consume Intoxicant Test. You now gain a hangover, which is an Fatigued Condition that cannot be removed for 5–SL hours. You may expend 1 Resolve point to ignore the negative modifiers of being drunk until the end of the next round (see page 171).
 
 === Cool (WP) basic ===
 
@@ -177,11 +177,20 @@ Haggle allows you to secure better deals when negotiating with others. In genera
 
 === Intimidate (S) basic ===
 
-Allows you to coerce or frighten sentient creatures. The precise manner of initiating an Intimidate Test depends on context: while it is generally accompanied by an overt threat, sometimes a subtle implication or even a look is enough. Intimidate is almost always Opposed by your target’s Cool Skill; if successful, you can intimidate a number of targets up to your Strength Bonus + SL. Each will react to Intimidate based on their individual personalities and how successful you were in menacing them, but in all cases, they will back down or move out of the way and will not speak out against you, or they will alternatively accept combat is the only way forward and prepare their weapons. In combat, you cause Fear (see page 190) in all Intimidated targets. You may also use your Intimidate Skill instead of Melee when defending against those afraid of you, causing the Intimidated parties to back away from the fight with your will and posture alone. Further, with your GM’s approval, you may use Intimidate to ‘attack’ such targets, issuing specific commands, such as ‘drop your weapons’ or ‘get out of here!’. However, if you fail any of these subsequent Intimidate Tests, you no longer Intimidate (or cause Fear) in affected opponents. With your GM’s permission you may try to Intimidate them again in a later Round, but this will incur a negative modifier, as they are less likely to fear you having seen through your bravado once already. Example: Facing a group of footpads, Svetlana the Strong rolls 4 SL on her Intimidate Test. Combined with her SB of 5, this means she can affect up to 9 targets, more than enough to impact all three footpads who now Fear Svetlana. As she has won by 3 SL, she gains +1 Advantage point until the end of her next turn. In the next round, she ‘attacks’ the footpads using her Intimidate, intending to scare them into leaving her be. However, she fails the Test, and the footpads realise they outnumber her, and are armed…
+Intimidate lets you coerce, threaten or frighten other sentient beings, whether with a drawn blaster, a Wookiee's roar, a cold stare or a quiet word about what happens to people who cross the Hutts. Intimidate is usually Opposed by the target's Cool. If you succeed, you intimidate a number of targets up to your Strength Bonus + SL. How each one reacts is up to the GM: most back down, step aside, hand over what you asked for or keep their mouths shut, but a few decide that fighting is the only way out.
 
-Options: Alternative Characteristics for Intimidate
+In combat, targets you have intimidated feel Fear of you (see Psychology). Against an opponent who fears you, you may use Intimidate instead of Melee to defend, as they flinch from your blows. With the GM's approval you may also use it to give such opponents orders: "Drop the blaster!" or "Get out of my cantina!" If you fail any of these later Intimidate Tests, those targets are no longer intimidated and no longer feel Fear of you. You may try again in a later Round, at a penalty, because they have now seen through your bluster.
 
-While Strength is the default stat for Intimidate Tests, the GM may decree certain situations may allow you to use a different Characteristic: a steely witch hunter may use Willpower to stare down an inquisitive bystander, or an academic may use Intelligence to cow a lowly student with his intimidating knowledge, for instance.
+Example: Cornered by three Gamorrean guards in a Nar Shaddaa back alley, Kessa (Strength Bonus 5) draws her heavy blaster pistol and scores 4 SL on her Intimidate Test, enough to affect up to 9 targets. All three Gamorreans now fear her, and as she won the Opposed Test she gains +1 Advantage. Next Round she orders them to drop their axes, but fails the Test. The guards realise they outnumber her and raise their weapons again…
+
+'''Options: Other Characteristics for Intimidate'''
+
+Strength is the usual Characteristic for Intimidate, but the GM may allow another when it fits the threat:
+
+* Willpower for an Inquisitor staring down a witness.
+* Intelligence for an Imperial officer reciting the penalties for treason.
+* Fellowship for a crime lord whose reputation does the work.
+* Ballistic Skill for a bounty hunter who has just shot the comlink out of someone's hand.
 
 === Intuition (I) basic ===
 
@@ -219,9 +228,17 @@ Diagnose an illness, infection, or disease. Treat a disease (see page 188). Medi
 
 A Failed Medicine Test can potentially cause Wounds if your Intelligence Bonus + SL totals less than 0. On an Astounding Failure, your patient will also contract a Minor Infection (see page 187). If administering to someone who has a disease, a successful Medicine Test ensures that you do not contract the disease for that day. Each SL also prevents one other character encountering the patient that day from catching the disease. For each full day the patient spends resting under your care, the duration of the disease is reduced by one, to a minimum of one. For more information see Disease and Infection in Chapter 5: Rules. Certain injuries require Surgery; see the Surgery Talent for details. For more information on healing wounds, refer to Injury in Chapter 5: Rules. Your GM may apply modifiers to Medicine Tests to reflect the virulence of the disease, the suitability of conditions and materials, or the stress of your circumstances. If healing during combat, Tests will likely be Challenging (+0) at the very least.
 
-=== Meditate (Fel) advanced ===
+=== Meditate (WP) advanced ===
 
-Your ability to invoke, or otherwise commune with, a Force tradition. For more information on using the Meditate Skill to seek divine intervention, see Chapter 7: Religion & Belief. In combat, if your GM deems it appropriate considering your circumstances and faith, you may use Meditate to meditate and focus your mind. Each round you spend praying in combat — and making a successful Meditate Test — gives you +1 Advantage. You can gain additional Advantage this way, up to a maximum of your Fellowship Bonus. Further, if your enemies understand your language and recognise (and fear) your Force tradition, the GM may allow you to use Meditate in lieu of the Intimidate Skill.
+Meditate is the discipline of stilling the mind, slowing the body and listening, whether to the Force or simply to yourself. Jedi, Sith, Matukai, Baran Do sages and Voss mystics all train in meditation. So do many warriors, pilots and spacers who are not Force-sensitive and have learned to find calm in the chaos.
+
+A Meditate Test takes at least 10 minutes of uninterrupted calm. Noise, danger and places strong in the dark side make it harder; a quiet shrine, a Force nexus or the familiar hum of your own ship make it easier. If you succeed, choose one of the following:
+
+* '''Clear the Mind:''' remove one Fatigued Condition, plus one more for every 2 SL. Alternatively, remove the Broken Condition.
+* '''Centre Yourself:''' gain +10 to your next Cool or Endurance Test, or your next Sense, Control or Alter Test, made within the next hour.
+* '''Listen to the Force (Force-sensitive only):''' ask the Force for guidance about a person, place or decision. The GM gives you an impression, a feeling or a brief vision, with one more detail for every 2 SL. The Force answers in its own way and its own time, so the meaning is not always clear.
+
+In combat, if the GM allows it, you may spend your Action centring yourself. Each Round you do so and pass a Meditate Test, you gain +1 Advantage, up to a maximum equal to your Willpower Bonus. The GM may also let you use Meditate in place of Cool to resist Intimidate, Fear or the temptations of the dark side.
 
 === Melee (WS) basic, grouped ===
 
@@ -267,7 +284,13 @@ SL Latch Average (+20)
 
 === Perception (I) basic ===
 
-Your ability to notice things with your senses — sight, smell, hearing, touch, and taste, and any other senses you may possess, such as magical or non-Human senses. Your GM may ask for a Perception Test to detect something, like movement behind the treeline, the presence of a trap, or someone following you, modified by how easy it is to notice. Perception is also used to resist attempts to hide things through Skills such as Sleight of Hand or Stealth. Perception has multiple uses in combat, most commonly to notice important details beyond the immediately obvious about
+Perception is your ability to notice things with your senses: sight, hearing, smell, taste and touch, plus any other senses your species has, such as a Miraluka's Force sight or a Togruta's montrals. The GM may call for a Perception Test to spot something, modified by how hard it is to notice: a sniper on a rooftop, a tripwire across a corridor, or the same Rodian following you through three markets. Perception is the usual Skill to Oppose Stealth and Sleight of Hand.
+
+Perception is about what is there; Intuition is about what it means. Perception spots the blaster under the coat. Intuition tells you its owner is nervous.
+
+Poor light, smoke, rain, noise and distance make Perception Tests harder. Macrobinoculars, sensor packs, glow rods and the Acute Sense Talent make them easier.
+
+In combat, Perception spots enemies in cover or hiding, and incoming threats such as a thrown thermal detonator or a sniper's muzzle flash. With the GM's approval, a successful Test also reveals one useful detail the GM has not mentioned, plus one more for every 2 SL. Examples are an exposed power conduit, a gap in a stormtrooper's armour, or the one exit the bounty hunters have not covered.
 
 === Pilot (Speeder) (Ag) basic ===
 
@@ -358,33 +381,6 @@ Your ability to swim in water without drowning. If you have the Swim Skill, you 
 === Track (I) advanced ===
 
 Your ability to follow subtle trails left by others. Track is used to follow difficult trails across the wilderness. This is not a skill for following a set of footprints in the snow — a simple Perception test covers that — Track involves deeper knowledge and awareness used to recognise the subtle signs of a quarry’s passage. You can also attempt to hide your trail, in which case use your Track skill to oppose your pursuer’s Track Test. Often an Extended Track Test is required to follow a trail, with the Difficulty modified by how fresh the tracks are, and how suitable the ground is: damp earth betrays passage better than stony ground. The GM may also use the Pursuit rules to determine if you manage to track down a fleeing quarry (see page 166).
-
-== Ride (Ag) basic, grouped ==
-
-'''The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat. Specialisations: Air, Land, Water'''
-
-'''How proficient you are at riding a particular group of animals; Ride (Land), for example, will let you ride Banthas, Mules, Donkeys, and similar. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test. If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary.'''
-
-=== Sleight of Hand (Dex) advanced ===
-
-'''Lets you pick pockets, palm objects, and perform minor tricks, as well as cheating with games of chance. This Skill is typically Opposed by the Perception Skill of your target; success means you have palmed the object, picked the pocket, or swapped the cards, while a Marginal Success (+0 to +1) may suggest that your nefarious misdeeds have left your opponent suspicious. You can also use Sleight of Hand to ‘help’ your Gamble Skill when playing appropriate games of chance. Before any round (or similar, depending upon the game at hand) you can attempt a Sleight of Hand Test (which will be opposed if others suspect). If successful, you may reverse your Gamble Test for the round if this will score a Success. If failed, your opponents may not be best pleased… Sleight of Hand and combat rarely mix, though inventive players may be able to conjure an impressive distraction with GM approval, perhaps even gaining Advantage by making a Dagger seemingly appear from nowhere, surprising a superstitious foe.'''
-
-=== Stealth (Ag) basic, grouped ===
-
-'''Allows you to creep quietly and conceal yourself in shadows more readily than most. Stealth is generally Opposed by an opponent’s Perception Skill, and Tests will be modified by how dark or well concealed your route is, as well as how circumspectly you are dressed. An Impressive or Astounding Failure on a Stealth Test will likely draw the immediate attention of the enemies you were trying to avoid in the first place. Stealth has many potential applications in combat, most usefully to hide oneself in preparation for an Ambush, or to creep around an opponent in order to attack from behind. See Chapter 5: Rules for the implications of this. Of course, you can also use the Skill to escape a conflict unseen… Specialisations: Rural, Underground, Urban'''
-
-=== Options: Shadowing ===
-
-'''Shadowing is following someone secretly. To do this requires a Combined Perception and Stealth Test (see page 155). If the target is actively trying to lose a tail, it is Opposed with the target’s Stealth Skill.'''
-
-=== Swim (S) advanced ===
-
-'''Your ability to swim in water without drowning. If you have the Swim Skill, you are automatically presumed to be able to swim freely without a Test. But if you find yourself in difficult currents, racing, or fleeing from an oversized shark sent by a Sarlacc, a Test will be required. This may be modified by the condition of the water, or how encumbered you are by clothes, armour, and other trappings. Swim is only used in combat if you happen to be fighting in the water, where it replaces Skills like Athletics to govern Movement. If exact speeds are required, you swim at half your Movement rate, using the normal rules for moving found on page 164.'''
-
-=== Track (I) advanced ===
-
-'''Your ability to follow subtle trails left by others. Track is used to follow difficult trails across the wilderness. This is not a skill for following a set of footprints in the snow — a simple Perception test covers that — Track involves deeper knowledge and awareness used to recognise the subtle signs of a quarry’s passage. You can also attempt to hide your trail, in which case use your Track skill to oppose your pursuer’s Track Test. Often an Extended Track Test is required to follow a trail, with the Difficulty modified by how fresh the tracks are, and how suitable the ground is: damp earth betrays passage better than stony ground. The GM may also use the Pursuit rules to determine if you manage to track down a fleeing quarry (see page 166).'''
-
 
 [[Category:SL100]]
 [[Category:SL100 rules]]

@@ -1,0 +1,250 @@
+{{SL100 Rules|chapter=Gear|status=Catalogue: 103 items, 62 converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}
+
+[[File:SL100 Gear Datapad.jpg|frameless|150px|Datapad]]
+[[File:SL100 Gear Comlink.jpg|frameless|150px|Comlink]]
+[[File:SL100 Gear Medpac.jpg|frameless|150px|Medpac]]
+[[File:SL100 Gear Macrobinoculars.jpg|frameless|150px|Macrobinoculars]]
+[[File:SL100 Gear Breath Mask and Glow Rod.jpg|frameless|150px|Breath mask and glow rod]]
+[[File:SL100 Gear Utility Belt.jpg|frameless|150px|Utility belt and credit chips]]
+[[File:SL100 Gear Jetpack.jpg|frameless|150px|Jetpack]]
+[[File:SL100 Gear Speeder Bike.jpg|frameless|150px|Speeder bike]]
+
+== Encumbrance ==
+Encumbrance (Enc) measures bulk as much as weight. A character carries '''Strength Bonus + Toughness Bonus''' Enc without penalty (about 6 for an average human); up to double that is -1 Movement and -10 Agility with +1 Travel Fatigue, up to triple is -2 Movement and -20 Agility with +2 Travel Fatigue, and beyond that you are not moving. Wearing something reduces its Enc: a holstered pistol, a slung rifle, a worn jetpack or a single armour piece counts 1 less, and a full suit of armour counts 4 less (head, arms, torso and legs each -1). A powered suit is Enc 14 carried and 10 worn, and counts nothing against its wearer while it has power. The '''Worn''' column on each table gives the worn value. You can normally carry only one oversized item (Enc 4 or more) and it takes both hands.
+
+{| class="wikitable"
+! Enc !! Examples
+|-
+| 0 || Anything that is not decently big: a grenade, a hold-out blaster, a knife, a medpac, a comlink, a datapad, a power pack, a breath mask
+|-
+| 1 || A blaster pistol or carbine, a vibroblade, anything the size of an arm or a leg, a small bag worn on the body (carries 2 Enc that do not count against you)
+|-
+| 2 || A blaster rifle, a two-handed melee weapon (vibro-axe, force pike), a backpack (carries 4 Enc), a light armour suit
+|-
+| 3 || A heavy weapon, a bowcaster, a jetpack or glider (2 worn), a large oversized pack (carries 6 Enc or more), a sensor backpack, a large armour piece such as a chest plate
+|-
+| 5 || A crew-served weapon such as an E-Web or a blaster cannon, carried by two
+|-
+| 6 || A full suit of medium battle armour
+|-
+| 10 || A whole person, or a full suit of heavy armour
+|-
+| 14 || A powered suit carried rather than worn (10 worn, 0 while powered)
+|}
+
+
+'''General equipment''': tools, medical supplies, communications, survival gear, security and slicing kit, and the rest of a character's trappings. Items marked ''(converted)'' have cost, Encumbrance and availability from the d20 books and still need their SL100 effect written.
+
+{| class="wikitable sortable"
+! Item !! Class !! Enc !! Worn !! Carries !! Cost !! Avail !! Legal !! Effect / Traits !! Source
+|-
+| [[Cloak/Legends|All-temperature Cloak]] || Equipment || 0 || 0 ||  || 100 ||  ||  || SL+1 Endurance Test || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[A99 aquata breather/Legends|Aquata Breather]] || Equipment || 0 || 0 ||  || 350 ||  ||  || 2 hours of breathing underwater || 08 Equipment; d20 Core table Table 7-4
+|-
+| Atmosphere Canister/Filter || Equipment || 0 || 0 ||  || 25 ||  ||  || Set to an atmosphere || 08 Equipment; d20 Core table Table 7-4
+|-
+| Bacta 1 liter || Equipment || 1 || 0 ||  || 100 ||  ||  || Takes 300 Liters to fill a Bacta Tank || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Bacta tank/Legends|Bacta Tank]] || Equipment || 250 ||  ||  || 100000 ||  ||  || heals 1 wound per hour || 08 Equipment; d20 Core table Table 7-4
+|-
+| Breath Mask || Equipment || 0 || 0 ||  || 200 ||  ||  || 1 hour of breathable air per canister can be built into armour || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Code cylinder/Legends|Code Cylinder]] || Equipment || 0 || 0 ||  || 500 ||  ||  || Lets someone access a security computer system. Can be reprogramed || 08 Equipment; d20 Core table Table 7-4
+|-
+| Comlink || Equipment || 0 || 0 ||  || 200 ||  ||  || Personal communications device || 08 Equipment; d20 Core table Table 7-4
+|-
+| Credit Chip || Equipment || 0 || 0 ||  || 100 ||  ||  || Digital Credits access || 08 Equipment; d20 Core table Table 7-4
+|-
+| Datacard 1 Program || Equipment || 0 || 0 ||  || 300 ||  ||  || +20 on test that the program covers || 08 Equipment; d20 Core table Table 7-4
+|-
+| Datacard mastercraft || Equipment || 3 || 2 ||  || 2000 ||  ||  || SL+1 and the test is 1 step easier || 08 Equipment
+|-
+| Datacards, Blank (10) || Equipment || 0 || 0 ||  || 10 ||  ||  || Datspad cards to save data || 08 Equipment; d20 Core table Table 7-4
+|-
+| Datapad || Equipment || 0 || 0 ||  || 1000 ||  ||  || +20 bonus to Intelligence, calculations or computer use test. || 08 Equipment; d20 Core table Table 7-4
+|-
+| Electrobinoculars || Equipment || 0 || 0 ||  || 1000 ||  ||  || One step easier for spot test over distance for every 20m || 08 Equipment; d20 Core table Table 7-4
+|-
+| Energy Cell || Equipment || 0 || 0 ||  || 10 ||  ||  || Battery || 08 Equipment; d20 Core table Table 7-4
+|-
+| Field Kit || Equipment || 1 || 0 ||  || 1000 ||  ||  || 2 canteens with built-in water filter, sunshield roll, weeks rations, 2 glow rods, 2 breathing masks, 24 filters, 12 atmosphere canisters and all-temp cloak || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Flight suit/Legends|Flight Suit]] || Equipment || 1 || 0 ||  || 250 ||  ||  || Protects the wear from hostile environments and high-velocity flying || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Powermax fusion lantern|Fusion Lantern]] || Equipment || 1 || 0 ||  || 25 ||  ||  || Light and heat, light out to 10m || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Industrial glow rod|Glow Rod]] || Equipment || 0 || 0 ||  || 10 ||  ||  || 10m light || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Launcher|Grappling Spike Launcher]] || Equipment || 0 || 0 ||  || 50 ||  ||  || spike that can anchor itself into a hard surface, liquid to form 20m of cable. || 08 Equipment; d20 Core table Table 7-4
+|-
+| Holoprojector Personal || Equipment || 0 || 0 ||  || 1000 ||  ||  || 3D image projector hand helded || 08 Equipment; d20 Core table Table 7-4
+|-
+| Holorecorder || Equipment || 0 || 0 ||  || 3000 ||  ||  || 200 hours 3d image and audio recorder || 08 Equipment; d20 Core table Table 7-4
+|-
+| Kolto 1 liter || Equipment || 1 || 0 ||  || 100 ||  ||  || Takes 300 Liters to fill a Kolto Tank || 08 Equipment
+|-
+| Kolto Tank || Equipment || 250 ||  ||  || 100000 ||  ||  || heals 1 wound per 2 hours || 08 Equipment
+|-
+| Liquid Cable Dispenser || Equipment || 0 || 0 ||  || 25 ||  ||  || Lightweight flexible cable holding 20m of liquid cable, can support 500kg || 08 Equipment; d20 Core table Table 7-4
+|-
+| Macrobinoculars || Equipment || 0 || 0 ||  || 600 ||  ||  || One step easier for spot test over distance for every 10m || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Medpac/Legends|Medpac]] || Equipment || 0 || 0 ||  || 100 ||  ||  || recovers 1 wound with Challenging Medicae test || 08 Equipment; d20 Core table Table 7-4
+|-
+| Medpac Mastercraft || Equipment || 0 || 0 ||  || 200 ||  ||  || recovers 1 wound with Average Medicae test || 08 Equipment; d20 Core table Table 7-4
+|-
+| Power Pack || Equipment || 0 || 0 ||  || 25 ||  ||  || Needed for energy weapons || 08 Equipment; d20 Core table Table 7-4
+|-
+| Recording rod || Equipment || 0 || 0 ||  || 500 ||  ||  || 2D image recorder with audio for up to 100 hours.. || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Security Systems Tool Kit|Security Kit]] || Equipment || 0 || 0 ||  || 750 ||  ||  || +20 Tech(Security) Test || 08 Equipment; d20 Core table Table 7-4
+|-
+| Security Kit Mastercraft || Equipment || 0 || 0 ||  || 1500 ||  ||  || SL+1 Tech(Security) Test || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[9320/B sensor pack|Sensor Pack]] || Equipment || 2 || 1 ||  || 1500 ||  ||  || +20 on Awareness(Sight and Hearing) In the 50m area the sensor array covers portable. Comm Signals, Life Forms, and Energy Fields || 08 Equipment; d20 Core table Table 7-4
+|-
+| Sensor Pack Mastercraft || Equipment || 2 || 1 ||  || 3000 ||  ||  || SL+1 on Awareness(Sight and Hearing) In the 50m area the sensor array covers portable. Comm Signals, Life Forms, and Energy Fields || 08 Equipment; d20 Core table Table 7-4
+|-
+| Surgery Kit || Equipment || 0 || 0 ||  || 1000 ||  ||  || +20 Needed to perform Surgery || 08 Equipment; d20 Core table Table 7-4
+|-
+| [[Tool kit/Legends|Tool Kit]] || Equipment || 0 || 0 ||  || 250 ||  ||  || +20 on Tech(Engineering) and to repair Augmentics || 08 Equipment; d20 Core table Table 7-4
+|-
+| 8320/B Sensor Pack ''(converted)'' || General || 2 || 1 ||  || 1200 || Uncommon ||  ||  || d20 A&E p.90
+|-
+| A898 Aquata Breather ''(converted)'' || General || 0 || 0 ||  || 350 || Uncommon ||  ||  || d20 A&E p.85
+|-
+| Adventure Hiker & Hunter DuraShelter ''(converted)'' || General || 0 || 0 ||  || 500 || Common ||  ||  || d20 A&E p.95
+|-
+| Adventure Hiker & Hunter Ration Packs ''(converted)'' || General || 0 || 0 ||  || 5 || Common ||  ||  || d20 A&E p.95
+|-
+| [[Vennoc-x Chronometer|Alliwon Electronics Vennoc-x Chronometer]] ''(converted)'' || General || 0 || 0 ||  || 50 || Common ||  ||  || d20 A&E p.96
+|-
+| [[Med Unit|Athakam Il Med Unit]] ''(converted)'' || General || 3 || 2 ||  || 3000 || Uncommon ||  ||  || d20 A&E p.92
+|-
+| Audio Performance Inc. No-Show ''(converted)'' || General || 0 || 0 ||  || 5000 || Scarce || M ||  || d20 A&E p.91
+|-
+| [[OmniNode communications set|BCC OmniNode Communications Set]] ''(converted)'' || General || 1 || 0 ||  || 300 || Common ||  ||  || d20 A&E p.86
+|-
+| Binder Cuffs ''(converted)'' || General || 0 || 0 ||  || 50 || Common ||  ||  || d20 A&E p.94
+|-
+| BinTech RFX/K Medisensar ''(converted)'' || General || 0 || 0 ||  || 1100 || Rare ||  ||  || d20 A&E p.93
+|-
+| [[FastFlesh medpac/Legends|BioTech FastFlesh Medpac]] ''(converted)'' || General || 0 || 0 ||  || 600 || Uncommon ||  ||  || d20 A&E p.92
+|-
+| [[MultiNode communications link|BLCC MultiNode Communications Link]] ''(converted)'' || General || 0 || 0 ||  || 75 || Common ||  ||  || d20 A&E p.86
+|-
+| [[PX-7 Heat Sensor|ChandrilTech PX-7 Heat Sensor]] ''(converted)'' || General || 0 || 0 ||  || 250 || Uncommon ||  ||  || d20 A&E p.89
+|-
+| [[ChemDetect|ChemDetect]] ''(converted)'' || General ||  ||  ||  || 1500 || Uncommon ||  ||  || d20 A&E p.90
+|-
+| Cl Personal Comlink ''(converted)'' || General || 0 || 0 ||  || 200 || Common ||  ||  || d20 A&E p.87
+|-
+| [[CN-15 camouflage netting|CN-15 Camouflage Netting]] ''(converted)'' || General || 1 || 0 ||  || 3500 || Common ||  ||  || d20 A&E p.92
+|-
+| [[Courier Communications Scanner|Courier Communications Scanner]] ''(converted)'' || General || 0 || 0 ||  || 4500 || Rare ||  ||  || d20 A&E p.89
+|-
+| [[Tagger|Culcanis Microlnstruments Tagger]] ''(converted)'' || General || 0 || 0 ||  || 450 || Rare ||  ||  || d20 A&E p.87
+|-
+| Datapad, mastercraft (+1) ''(converted)'' || General || 0 || 0 ||  || 2000 ||  ||  ||  || d20 Core table Table 7-4
+|-
+| [[Syntherope/Legends|Degan Explorations Syntherope]] ''(converted)'' || General || 0 || 0 ||  || 5 || Common ||  ||  || d20 A&E p.96
+|-
+| [[EnhanceScan general purpose scanner/Legends|EnhanceScan General Purpose Scanner]] ''(converted)'' || General || 2 || 1 ||  || 2000 || Uncommon ||  ||  || d20 A&E p.89
+|-
+| Fabreth Medical Biochemicals Shock Cloth ''(converted)'' || General || 0 || 0 ||  || 250 || Uncommon ||  ||  || d20 A&E p.93
+|-
+| [[Oxidizer|Gandorthral Atmospherics Oxidizer]] ''(converted)'' || General || 0 || 0 ||  || 350 || Common ||  ||  || d20 A&E p.85
+|-
+| [[Roamer-6 breath mask/Legends|Gandorthral Atmospherics Roamer-B Breath Mask]] ''(converted)'' || General || 0 || 0 ||  || 400 || Common ||  ||  || d20 A&E p.86
+|-
+| Hologram Projection Pod ''(converted)'' || General || 13 || 12 ||  || 250000 || Rare ||  ||  || d20 A&E p.87
+|-
+| Holorecording Macrobinoculars ''(converted)'' || General || 0 || 0 ||  || 1500 || Uncommon ||  ||  || d20 A&E p.90
+|-
+| Hush-898 ''(converted)'' || General || 0 || 0 ||  || 4000 || Rare ||  ||  || d20 A&E p.88
+|-
+| [[ILF-5000 Life Form Scanner|Idellian Arrays ILF-5000 Life Form Scanner]] ''(converted)'' || General || 0 || 0 ||  || 2900 || Rare ||  ||  || d20 A&E p.90
+|-
+| [[Imagecaster/Legends|Imagecaster]] ''(converted)'' || General || 0 || 0 ||  || 1000 || Uncommon ||  ||  || d20 A&E p.88
+|-
+| [[MLC-50 Magnolock|Locris Syndicated Securities MLC-50 Magnolock]] ''(converted)'' || General || 0 || 0 ||  || 250 || Common ||  ||  || d20 A&E p.94
+|-
+| Medical kit ''(converted)'' || General || 0 || 0 ||  || 25 ||  ||  ||  || d20 Core table Table 7-4
+|-
+| Meredex Atmospherics EMS-80 Bubble Cloak ''(converted)'' || General || 0 || 0 ||  || 800 || Common ||  ||  || d20 A&E p.95
+|-
+| [[Pocket Secretary|MicroData Pocket Secretary]] ''(converted)'' || General || 0 || 0 ||  || 2000 || Common ||  ||  || d20 A&E p.96
+|-
+| [[ComTech Eavesdrop Protection Unit|MicroThrust ComTech Eavesdrop Protection Unit]] ''(converted)'' || General || 0 || 0 ||  || 3400 || Rare ||  ||  || d20 A&E p.92
+|-
+| [[Coolth backpack/Legends|Mos Espa Coolth Backpack]] ''(converted)'' || General || 0 || 0 ||  || 200 || Rare ||  ||  || d20 A&E p.95
+|-
+| [[Secure-A3 Comlink/Legends|Naboo Technologies Secure-A3 Comlink]] ''(converted)'' || General || 0 || 0 ||  || 900 || Uncommon ||  ||  || d20 A&E p.87
+|-
+| Nilar Med/Tech Corporation Field Cauterizer ''(converted)'' || General || 0 || 0 ||  || 200 || Common ||  ||  || d20 A&E p.93
+|-
+| [[Monofilament screen guard|Novaplex Monofilament Screen Guard]] ''(converted)'' || General || 1 || 0 ||  || 250 || Uncommon || R ||  || d20 A&E p.94
+|-
+| [[Organic gill/Legends|Organic Gill]] ''(converted)'' || General || 0 || 0 ||  || 200 || Scarce ||  ||  || d20 A&E p.86
+|-
+| [[PAC20 Visual Wrist Comm|PAC20 Visual Wrist Com]] ''(converted)'' || General || 0 || 0 ||  || 1500 || Uncommon ||  ||  || d20 A&E p.87
+|-
+| Rhinsome Tracking Corp SureSnoop ''(converted)'' || General || 0 || 0 ||  || 3000 || Uncommon || M ||  || d20 A&E p.90
+|-
+| [[PED-21 Distress Beacon|Saladar Systems PED-21 Distress Beacon]] ''(converted)'' || General || 1 || 0 ||  || 200 || Uncommon ||  ||  || d20 A&E p.95
+|-
+| [[Veridicator 200|Saldalith Manufacturing Veridicator 200]] ''(converted)'' || General || 0 || 0 ||  || 4000 || Rare ||  ||  || d20 A&E p.91
+|-
+| [[SE-Vigilant automated sensor beacon|SE-Vigilant Automated Sensor Beacon]] ''(converted)'' || General || 1 || 0 ||  || 3000 || Uncommon ||  ||  || d20 A&E p.89
+|-
+| SuriTech Foodstuffs Ezl Analyzer ''(converted)'' || General || 0 || 0 ||  || 250 || Common ||  ||  || d20 A&E p.91
+|-
+| [[Water JugFilter|SurvivalGear Water JugFilter]] ''(converted)'' || General || 0 || 0 ||  || 100 || Common ||  ||  || d20 A&E p.95
+|-
+| [[MDS-50|Synthtech Medtech Corporation MDS-50]] ''(converted)'' || General || 0 || 0 ||  || 75 || Common ||  ||  || d20 A&E p.93
+|-
+| [[Magnacuffs/Legends|TaggeCo MagnaCuffs]] ''(converted)'' || General || 0 || 0 ||  || 600 || Rare ||  ||  || d20 A&E p.94
+|-
+| [[TeleSonic Model Audio Pickup|TeleSonic Audio Pickup]] ''(converted)'' || General || 0 || 0 ||  || 750 || Common ||  ||  || d20 A&E p.90
+|-
+| [[Security collar|Thalassian Security Collar]] ''(converted)'' || General || 0 || 0 ||  || 1000 || Scarce || I ||  || d20 A&E p.94
+|-
+| [[Implant communicator|Traxes BioElectronics Implant Communicator]] ''(converted)'' || General || 0 || 0 ||  || 12500 || Uncommon || I ||  || d20 A&E p.88
+|-
+| [[BX-333 Biorecorder|Ulgib MicroTronics BX-333 Biorecorder]] ''(converted)'' || General || 0 || 0 ||  || 5000 || Rare ||  ||  || d20 A&E p.88
+|-
+| [[Pocket Scrambler PS-xqt9s|Varge Corp Pocket Scrambler PS-xqt9s]] ''(converted)'' || General || 0 || 0 ||  || 400 || Uncommon ||  ||  || d20 A&E p.88
+|-
+| [[Easy Breathing breath mask|VargeCorp Easy Breathing Breath Mask]] ''(converted)'' || General || 0 || 0 ||  || 50 || Common ||  ||  || d20 A&E p.86
+|-
+| [[Peer Macrobinoculars|VidGraph Peer Macrobinoculars]] ''(converted)'' || General || 0 || 0 ||  || 800 || Rare ||  ||  || d20 A&E p.91
+|-
+| [[VoxBox|Whappamanga AlienEnhancer Voxbox]] ''(converted)'' || General || 0 || 0 ||  || 75 || Uncommon ||  ||  || d20 A&E p.88
+|-
+| [[1125 Heads-Up Macrobinoculars|Ziko 1125 Heads-Up Macrobinoculars]] ''(converted)'' || General || 0 || 0 ||  || 900 || Common ||  ||  || d20 A&E p.91
+|-
+| [[R-23 paraglider|Nen-Carvon R-23 Paraglider]] ''(converted)'' || Glider || 3 || 2 ||  || 400 || Uncommon ||  ||  || d20 A&E p.72
+|-
+| [[OKC-167 repulsor pack|Mobquet OKC-167 Repulsor Pack]] ''(converted)'' || Repulsor Pack || 3 || 2 ||  || 1800 || Rare ||  ||  || d20 A&E p.72
+|-
+| [[Jetpack/Legends|Mitrinomon Z-B Jetpack]] ''(converted)'' || Rocket/Jet Pack || 3 || 2 ||  || 300 || Rare ||  ||  || d20 A&E p.72
+|-
+| [["Jumper" rocket pack|"Jumper" Rocket Pack]] ''(converted)'' || Rocket/Jet pack || 3 || 2 ||  || 500 || Rare ||  ||  || d20 A&E p.72
+|-
+| RB2 Jump Boots ''(converted)'' || Rocket/Jet pack || 3 || 2 ||  || 150 || Uncommon ||  ||  || d20 A&E p.72
+|-
+| Belt pouch || Containers || 0 || 0 || 1 || 10 || Common ||  || Carries 1 Enc || SL100 (Enc scale 12 Oct)
+|-
+| Satchel / small bag || Containers || 1 || 0 || 2 || 25 || Common ||  || Carries 2 Enc || SL100 (Enc scale 12 Oct)
+|-
+| Backpack || Containers || 2 || 1 || 4 || 60 || Common ||  || Carries 4 Enc || SL100 (Enc scale 12 Oct)
+|-
+| Large pack (oversized) || Containers || 3 || 2 || 6 || 120 || Common ||  || Carries 6 Enc || SL100 (Enc scale 12 Oct)
+|-
+| Sensor backpack || Containers || 3 || 2 || 2 || 1500 || Common ||  || Carries 2 Enc || SL100 (Enc scale 12 Oct)
+|}
+
+[[Category:SL100]]
+[[Category:SL100 rules]]
+[[Category:SL100 equipment]]

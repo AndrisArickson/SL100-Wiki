@@ -1,146 +1,201 @@
-{{SL100 Rules|chapter=Origin|status=Draft (about 65%)|source=03 New Star Wars - Origin.md}}
+{{SL100 Rules|chapter=Origin|status=Reconciled draft (12 Oct): full d100 table, skills matched to chapter 06, Legends example worlds|source=03 New Star Wars - Origin.md}}
 '''Origin''' is the kind of world you grew up on. It adds to your characteristics and gives the twelve skills you may start with.
 
 
-The circumstances of your early life are known as your Origin, and can also determine some of your Characteristics and your chances of being a part of a specific Faction. The dominant environment of your character's formative years is what influenced them the most. For example, a Padawan raised in the Jedi Temple on Coruscant could have the Hive Origin and were most influenced by the metropolis, the Shrine Origin if they were most influenced by their Force Tradition teachings, or even the Forge or Space Origin if they spent all their time in the starship pool with the Jedi Sentinels. Wandering about with your Jedi Master could conceivably mean your Origin was anything else.
+The circumstances of your early life are known as your Origin. It can determine some of your Characteristics and your chances of being part of a specific Faction. The dominant environment of your character's formative years is what influenced them the most. For example, a Padawan raised in the Jedi Temple on Coruscant could have the Hive Origin if they were most influenced by the metropolis, the Force Nexus Origin if they were most influenced by their Force Tradition's teachings, or even the Industrial or Space Origin if they spent all their time in the starship pool with the Jedi Sentinels. Wandering about with your Jedi Master could conceivably mean your Origin was anything else.
 
-Talk with your Game Director about the Origin of your character and alternative Characteristic modifications. The random roll is for when you want to let fate take the helm and make a random character.
+Talk with your Game Director about the Origin of your character and alternative Characteristic modifications. The random roll is for when you want to let the dice decide and make a random character.
+
+=== How an Origin works ===
+
+* '''Characteristics:''' add +5 to the Origin's fixed Characteristic, and +5 to one Characteristic you choose from its three options.
+* '''Skills:''' each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says ''(any one)'', pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them.
 
 {| class="wikitable"
-! D100 !! Origin !! Characteristics
+! D100 !! Origin !! +5 to !! and +5 to one of
 |-
-| 01-10 || '''Hive''' || +5 Agility and +5 to either Ballistic Skill, Initiative, or Fellowship
+| 01–10 || '''Hive''' || Agility || Ballistic Skill, Initiative or Fellowship
 |-
-| 11-30 || '''Civilized''' || +5 Intelligence and +5 to either Willpower, Initiative or Fellowship
+| 11–30 || '''Civilized''' || Intelligence || Willpower, Initiative or Fellowship
 |-
-| 31-35 || '''Paradise''' || You gain +5 Fellowship and +5 to either Weapon Skill, Ballistic Skill, or Toughness
+| 31–35 || '''Paradise''' || Fellowship || Weapon Skill, Ballistic Skill or Toughness
 |-
-| 36-40 || '''Feudal''' || You gain +5 Weapon Skill and +5 to either Strength, Willpower, or Fellowship
+| 36–40 || '''Feudal''' || Weapon Skill || Strength, Willpower or Fellowship
 |-
-| 46-50 || '''Feral''' || You gain +5 Toughness and +5 to either Weapon Skill, Strength, or Initiative
+| 41–50 || '''Feral''' || Toughness || Weapon Skill, Strength or Initiative
 |-
-| 51-55 || '''Industrial''' || You gain +5 Intelligence and +5 to either Ballistic Skill, Toughness, or Agility
+| 51–55 || '''Industrial''' || Intelligence || Ballistic Skill, Toughness or Agility
 |-
-| 55-60 || '''Lava''' || +5 Toughness and +5 to either Agility, Initiative or Strength
+| 56–60 || '''Lava''' || Toughness || Agility, Initiative or Strength
 |-
-| 61-65 || '''Hostile''' || +5 Ballistic Skill and +5 to either Weapon Skill, Initiative or Toughness
+| 61–65 || '''Hostile''' || Ballistic Skill || Weapon Skill, Initiative or Toughness
 |-
-| 66-70 || '''Agri''' || You gain +5 Strength and +5 to either Toughness, Agility, or Willpower
+| 66–70 || '''Agri''' || Strength || Toughness, Agility or Willpower
 |-
-| 71-75 || '''Ocean''' || +5 Toughness and +5 to either Agility, Initiative or Fellowship
+| 71–75 || '''Ocean''' || Toughness || Agility, Initiative or Fellowship
 |-
-| 76-80 || '''Tundra''' || +5 Toughness and +5 to either Agility, Initiative or Strength
+| 76–80 || '''Tundra''' || Toughness || Agility, Initiative or Strength
 |-
-| 81-90 || '''Space''' || +5 Agility and +5 to either Ballistic Skill, Intelligence or Fellowship
+| 81–95 || '''Space''' || Agility || Ballistic Skill, Intelligence or Fellowship
 |-
-| 00 || '''Force Nexus''' || You gain +5 Willpower and +5 to either Intelligence, Initiative, or Fellowship
+| 96–00 || '''Force Nexus''' || Willpower || Intelligence, Initiative or Fellowship
 |}
 
-World format: Description, starting characteristic modifications, 12 skills that you can put 3x +3 and 3x +5 into.
+== Origin worlds ==
 
-== Hive Worlds''': ==
+=== Hive Worlds ===
 
-Highly urbanized planets with massive, sprawling cities that cover most of the surface. These worlds are densely populated and often have a high level of industrialization. Examples include Coruscant.
+[[File:SL100 Origin Hive.jpg|thumb|right|360px|Hive origin (SL100 original art)]]
 
-'''Starting Characteristics:''' You gain an additional +5 Agility and +5 to either Ballistic Skill, Initiative, or Fellowship.
+Highly urbanised planets with massive, sprawling cities that cover most of the surface. These worlds are densely populated and often have a high level of industrialisation.
 
-'''Starting Skills:''' Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth(Urban)
+'''Example worlds:''' [[Coruscant/Legends|Coruscant]]
 
-== Civilized Worlds''': ==
+'''Starting Characteristics:''' +5 Agility, and +5 to one of Ballistic Skill, Initiative or Fellowship.
 
-These are worlds with advanced technology and a high level of development, similar to modern Earth. They are often the centers of commerce and culture in their regions. Examples include Karnak Alpha, Ord Sabaok.
+'''Starting Skills:''' Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol or Blaster Rifle), Stealth (Urban)
 
-'''Starting Characteristics:''' You gain an additional  +5 Intelligence and +5 to either Willpower, Initiative or Fellowship
+=== Civilized Worlds ===
 
-'''Starting Skills:''' Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth(Urban)
+[[File:SL100 Origin Civilized.jpg|thumb|right|360px|Civilized origin (SL100 original art)]]
 
-== Paradise Worlds''': ==
+Worlds with advanced technology and a high level of development. They are often the centres of commerce and culture in their regions.
 
-These are idyllic planets with beautiful landscapes and a high quality of life. They are often sought-after destinations for tourism and retirement. Examples include Alderaan.
+'''Example worlds:''' [[Karnak Alpha]], [[Ord Sabaok]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Fellowship and +5 to either Weapon Skill, Ballistic Skill, or Toughness.
+'''Starting Characteristics:''' +5 Intelligence, and +5 to one of Willpower, Initiative or Fellowship.
 
-'''Starting Skills:''' Athletics, Bribery, Charm, Charm Creature, Consume Intoxicant, Entertain, Leadership, Pilot (Speeder), Pilot (Starship), Play, Ranged (Blaster), Swim
+'''Starting Skills:''' Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol or Blaster Rifle), Stealth (Urban)
 
-== Feudal Worlds''': ==
+=== Paradise Worlds ===
 
-These are planets with a social structure based on feudalism, with a ruling class that controls most of the land and resources. Examples include Naboo, Nal Hutta.
+[[File:SL100 Origin Paradise.jpg|thumb|right|360px|Paradise origin (SL100 original art)]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Weapon Skill and +5 to either Strength, Willpower, or Fellowship.
+Idyllic planets with beautiful landscapes and a high quality of life. They are often sought-after destinations for tourism and retirement.
 
-'''Starting Skills: '''Bribery, Charm, Cool, Consume Intoxicant, Dodge, Gamble, Gossip, Melee (1H/2H), Pilot (Speeder), Ranged (Blaster/Heavy), Ride(Air/Land/Water), Stealth(Urban/Wilderness)
+'''Example worlds:''' [[Alderaan/Legends|Alderaan]]
 
-== Feral Worlds''': ==
+'''Starting Characteristics:''' +5 Fellowship, and +5 to one of Weapon Skill, Ballistic Skill or Toughness.
 
-These are planets with a low level of civilization and technology, often inhabited by primitive tribes or species. Examples include Dagobah, Bespin, Kashyyyk, Endor.
+'''Starting Skills:''' Athletics, Bribery, Charm, Consume Intoxicant, Creature Training (any one), Entertain (any one), Leadership, Pilot (Speeder), Pilot (Starship), Play (any one), Ranged (Blaster Pistol or Blaster Rifle), Swim
 
-'''Starting Characteristics:''' You gain an additional  +5 Toughness and +5 to either Weapon Skill, Strength, or Initiative.
+=== Feudal Worlds ===
 
-'''Starting Skills:''' Athletics, Charm Creature, Climb, Dodge, Melee (1H/2H), Pilot (Speeder), Navigation, Outdoor Survival, Perception, Ride(Air/Land/Water), Swim, Track
+[[File:SL100 Origin Feudal.jpg|thumb|right|360px|Feudal origin (SL100 original art)]]
 
-== Industrial Worlds''': ==
+Planets with a social structure based on feudalism, with a ruling class that controls most of the land and resources.
 
-These are planets with a high level of industrial activity or even dedicated to heavy industry, particularly the production of weapons and starships. Examples include Kuat, Corellia, Balmorra.
+'''Example worlds:''' [[Naboo/Legends|Naboo]], [[Nal Hutta/Legends|Nal Hutta]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Intelligence and +5 to either Ballistic Skill, Toughness, or Agility.
+'''Starting Characteristics:''' +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship.
 
-'''Starting Skills:''' Athletics, Bribery, Charm, Consume Intoxicant, Intuition, Dodge, Evaluate, Melee (1H/2H), Pilot (Speeder), Pilot (Starship), Ranged (Blaster/Heavy), Stealth(Urban)
+'''Starting Skills:''' Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (any one), Pilot (Speeder), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural)
 
-== Force Nexus Worlds''': ==
+=== Feral Worlds ===
 
-These are worlds with a strong connection to the Force, known as Force Nexus. They may also have a religious or spiritual significance, often home to important temples or holy sites. Some are dedicated to the worship of a particular deity or religion. Examples include Jedha and Tython, Ossus.
+[[File:SL100 Origin Feral.jpg|thumb|right|360px|Feral origin (SL100 original art)]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Willpower and +5 to either Intelligence, Initiative, or Fellowship.
+Planets with a low level of civilisation and technology, often inhabited by primitive tribes or species.
 
-'''Starting Skills:''' Athletics, Charm Creature, Cool, Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride(Air/Land/Water), Stealth(Wilderness)
+'''Example worlds:''' [[Dagobah/Legends|Dagobah]], [[Dathomir/Legends|Dathomir]], [[Kashyyyk/Legends|Kashyyyk]], [[Endor/Legends|Endor]]
 
-== Hostile Worlds''': ==
+'''Starting Characteristics:''' +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative.
 
-These are planets or animals that are extremely hostile to life, due to factors such as extreme weather, dangerous wildlife, or toxic environments. Examples include Hoth, Tatooine, Felucia, Ungor.
+'''Starting Skills:''' Athletics, Climb, Creature Training (any one), Dodge, Melee (any one), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track
 
-'''Starting Characteristics:''' You gain an additional  +5 Ballistic Skill and +5 to either Weapon Skill, Initiative or Toughness
+=== Industrial Worlds ===
 
-'''Starting Skills:''' Athletics, Charm Creature, Climb, Dodge, Melee (1H/2H), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster/Heavy), Ride(Air/Land/Water), Swim
+[[File:SL100 Origin Industrial.jpg|thumb|right|360px|Industrial origin (SL100 original art)]]
 
-== Agri Worlds''': ==
+Planets with a high level of industrial activity, or even dedicated to heavy industry, particularly the production of weapons and starships.
 
-These are planets that are primarily used for agriculture, with large areas dedicated to farming or ranching. Examples include Lothal, Chandrilla, Ryloth.
+'''Example worlds:''' [[Kuat/Legends|Kuat]], [[Corellia/Legends|Corellia]], [[Balmorra/Legends|Balmorra]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Strength and +5 to either Toughness, Agility, or Willpower.
+'''Starting Characteristics:''' +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility.
 
-'''Starting Skills:''' Athletics, Charm Creature, Climb, Creature Care, Dodge, Haggle, Melee (1H/2H), Pilot (Speeder), Ranged (Blaster), Ride(Air/Land/Water), Swim, Track
+'''Starting Skills:''' Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (any one), Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Stealth (Urban)
 
-== Ocean Worlds''': ==
+=== Lava Worlds ===
 
-These are planets that are almost entirely covered by water, with very little or no land. Examples include Kamino and Mon Cala.
+[[File:SL100 Origin Lava.jpg|thumb|right|360px|Lava origin (SL100 original art)]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Toughness and +5 to either Agility, Initiative or Fellowship
+Planets almost entirely covered by lava and volcanic activity.
 
-'''Starting Skills:''' Athletics, Charm Creature, Cool, Dodge, Endurance, Melee (1H/2H), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic), Ride(Air/Land/Water), Swim
+'''Example worlds:''' [[Mustafar/Legends|Mustafar]]
 
-== Tundra Worlds''': ==
+'''Starting Characteristics:''' +5 Toughness, and +5 to one of Agility, Initiative or Strength.
 
-These are planets that are almost entirely covered by ice and snow. Examples include Hoth.
+'''Starting Skills:''' Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster Pistol or Blaster Rifle)
 
-'''Starting Characteristics:''' You gain an additional +5 Toughness and +5 to either Agility, Initiative or Strength
+=== Hostile Worlds ===
 
-'''Starting Skills:''' Athletics, Charm Creature, Cool, Dodge, Endurance, Intimidate, Intuition, Pilot (Speeder), Navigation, Outdoor Survival, Ride(Air/Land/Water), Stealth(Wilderness)
+[[File:SL100 Origin Hostile.jpg|thumb|right|360px|Hostile origin (SL100 original art)]]
 
-== Lava Worlds''': ==
+Planets or moons that are extremely hostile to life, through extreme weather, dangerous wildlife or toxic environments.
 
-These are planets that are almost entirely covered by lava and volcanic activity. Examples include Mustafar.
+'''Example worlds:''' [[Hoth/Legends|Hoth]], [[Tatooine/Legends|Tatooine]], [[Felucia/Legends|Felucia]]
 
-'''Starting Characteristics:''' You gain an additional +5 Toughness and +5 to either Agility, Initiative or Strength
+'''Starting Characteristics:''' +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness.
 
-'''Starting Skills:''' Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Blaster)
+'''Starting Skills:''' Athletics, Climb, Creature Training (any one), Dodge, Melee (any one), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Ride (Air, Land or Water), Swim
 
-== Space''': ==
+=== Agri Worlds ===
 
-You were born on or around starships, asteroid colonies and spent your formative years in the unforgiving environment of the void.
+[[File:SL100 Origin Agri.jpg|thumb|right|360px|Agri origin (SL100 original art)]]
 
-'''Starting Characteristics:''' You gain an additional  +5 Agility and +5 to either Ballistic Skill, Intelligence or Fellowship
+Planets primarily used for agriculture, with large areas given over to farming or ranching.
 
-'''Starting Skills:''' Athletics, Bribery, Charm, Cool, Gamble, Haggle, Evaluate, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster/Heavy/Ordinance)
+'''Example worlds:''' [[Dantooine/Legends|Dantooine]], [[Chandrila/Legends|Chandrila]], [[Ryloth/Legends|Ryloth]]
+
+'''Starting Characteristics:''' +5 Strength, and +5 to one of Toughness, Agility or Willpower.
+
+'''Starting Skills:''' Athletics, Climb, Creature Care, Creature Training (any one), Dodge, Haggle, Melee (any one), Pilot (Speeder), Ranged (Blaster Pistol or Blaster Rifle), Ride (Air, Land or Water), Swim, Track
+
+=== Ocean Worlds ===
+
+[[File:SL100 Origin Ocean.jpg|thumb|right|360px|Ocean origin (SL100 original art)]]
+
+Planets almost entirely covered by water, with very little or no land.
+
+'''Example worlds:''' [[Kamino/Legends|Kamino]], [[Dac/Legends|Dac]] (Mon Calamari)
+
+'''Starting Characteristics:''' +5 Toughness, and +5 to one of Agility, Initiative or Fellowship.
+
+'''Starting Skills:''' Athletics, Cool, Creature Training (any one), Dodge, Endurance, Melee (any one), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Slugthrower), Ride (Air, Land or Water), Swim
+
+=== Tundra Worlds ===
+
+[[File:SL100 Origin Tundra.jpg|thumb|right|360px|Tundra origin (SL100 original art)]]
+
+Planets almost entirely covered by ice and snow.
+
+'''Example worlds:''' [[Hoth/Legends|Hoth]], [[Ilum/Legends|Ilum]]
+
+'''Starting Characteristics:''' +5 Toughness, and +5 to one of Agility, Initiative or Strength.
+
+'''Starting Skills:''' Athletics, Cool, Creature Training (any one), Dodge, Endurance, Intimidate, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
+
+=== Space ===
+
+[[File:SL100 Origin Space.jpg|thumb|right|360px|Space origin (SL100 original art)]]
+
+You were born on or around starships and asteroid colonies, and spent your formative years in the unforgiving environment of the void.
+
+'''Starting Characteristics:''' +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship.
+
+'''Starting Skills:''' Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster Pistol, Blaster Rifle, Heavy Blaster or Missile/Rocket)
+
+=== Force Nexus Worlds ===
+
+[[File:SL100 Origin Force Nexus.jpg|thumb|right|360px|Force Nexus origin (SL100 original art)]]
+
+Worlds with a strong connection to the Force, known as Force nexuses. They may also have religious or spiritual significance, often home to important temples or holy sites, and some are dedicated to a particular deity or religion.
+
+'''Example worlds:''' [[Tython/Legends|Tython]], [[Ossus/Legends|Ossus]], [[Ilum/Legends|Ilum]]
+
+'''Starting Characteristics:''' +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship.
+
+'''Starting Skills:''' Athletics, Cool, Creature Training (any one), Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
 
 [[Category:SL100]]
 [[Category:SL100 rules]]

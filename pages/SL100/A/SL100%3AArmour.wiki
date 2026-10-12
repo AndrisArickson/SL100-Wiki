@@ -1,0 +1,165 @@
+{{SL100 Rules|chapter=Armour|status=Catalogue: 76 items, 28 converted from d20 and awaiting review|source=08 Equipment + Special Materials + Source_Text/tables (tools/convert/equipment.py)}}
+
+'''Armour''' carries two values: '''AP''' (Armour Points) against blasters, slugs and blows, and '''Resist''' against lightsabers. Both come from the material the piece is made of (see [[SL100:Special Materials]]), never from the d20 books. Items marked ''(converted)'' took their AP and Resist from the default material for their type and need checking. A '''suit''' covers all locations and carries the whole-suit Enc (light 2, medium 6, heavy 10, powered 14 carried / 10 worn); a '''piece''' covers the locations listed and its Enc alone. Worn armour counts 1 Enc less (see [[SL100:Gear#Encumbrance|Encumbrance]]).
+
+[[File:SL100 Gear Combat Armour.jpg|thumb|right|220px|Light combat armour (SL100 original art)]]
+
+{| class="wikitable sortable"
+! Armour !! Type !! Suit / piece !! Locations !! Material !! AP !! Resist !! Enc !! Worn !! Cost !! Avail !! Legal !! Qualities / Flaws !! Source
+|-
+| **Steel** ||  || piece ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 08 Equipment
+|-
+| **Trooper** ||  || piece ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 08 Equipment
+|-
+| Armour Flight Suit Heavy ||  || suit || All ||  || 3 ||  || 2 || 0 || 10000 || Scarce ||  || Survive in Space || 08 Equipment
+|-
+| Armour Flight Suit Light ||  || suit || All ||  || 1 ||  || 1 || 0 || 1500 || Scarce ||  || Survive in Space || 08 Equipment
+|-
+| Armour Flight Suit Medium ||  || suit || All ||  || 2 ||  || 1 || 0 || 4000 || Scarce ||  || Survive in Space || 08 Equipment
+|-
+| Armoured Bodyglove ||  || piece || Arms, Body, Legs ||  || 2 ||  || 1 || 0 || 900 || Rare ||  || +1SL Stealthy || 08 Equipment
+|-
+| Armplate ||  || piece || Arms || Steel || 3 || 1 || 3 || 2 || 1400 ||  ||  ||  || 08 Equipment
+|-
+| Beskar Alloy Boots ||  || piece || Legs ||  || 7 ||  || 4 || 3 ||  || Exotic ||  || Lightsaber Resistant, Fine 3 || 08 Equipment
+|-
+| Beskar Alloy Breastplate ||  || piece || Torso ||  || 8 ||  || 5 || 4 ||  || Exotic ||  || Lightsaber Resistant, Fine 3 || 08 Equipment
+|-
+| Beskar Alloy Gauntlets ||  || piece || Arms ||  || 7 ||  || 4 || 3 ||  || Exotic ||  || Lightsaber Resistant, Fine 3 || 08 Equipment
+|-
+| Beskar Alloy Helmet ||  || piece || Head ||  || 7 ||  || 4 || 3 ||  || Exotic ||  || Lightsaber Resistant, Fine 3 || 08 Equipment
+|-
+| Blast Vest ||  || piece || Body || Armour weave || 3 || 1 || 2 || 1 || 1000 || Scarce ||  || Weakpoints || 08 Equipment
+|-
+| Blaster Vest ||  || piece || Body || Armour weave || 2 || 1 || 1 || 0 || 500 || Common ||  || Flexible || 08 Equipment
+|-
+| Bodyglove (Under Armour ||  || suit || Arms, Body, Legs ||  || 2 ||  || 1 || 0 || 900 || Rare ||  ||  || 08 Equipment
+|-
+| Boots ||  || piece || Legs ||  || 2 ||  || 2 || 1 || 1500 ||  ||  || - || 08 Equipment
+|-
+| Breastplate ||  || piece || Body ||  || 3 ||  || 2 || 1 || 1500 ||  ||  || - || 08 Equipment
+|-
+| Gauntlets ||  || piece || Arms ||  || 2 ||  || 1 || 0 || 1500 ||  ||  || - || 08 Equipment
+|-
+| Hat ||  || piece || Head || Armour weave || 2 || 1 || 0 || 0 || 400 || Common ||  || Flexible || 08 Equipment
+|-
+| Heavy Armour Flight Suit ||  || suit || All ||  || 3 ||  || 2 || 0 || 10000 || Scarce ||  || Survive in Space || 08 Equipment
+|-
+| Helmet ||  || piece || Head ||  || 2 ||  || 2 || 1 || 1500 ||  ||  || - || 08 Equipment
+|-
+| Legplate ||  || piece || Legs || Steel || 3 || 1 || 3 || 2 || 1400 ||  ||  ||  || 08 Equipment
+|-
+| Light Flight Suit Light ||  || suit || All ||  || 1 ||  || 1 || 0 || 1500 || Scarce ||  || Survive in Space || 08 Equipment
+|-
+| Medium Armour Flight Suit ||  || suit || All ||  || 2 ||  || 1 || 0 || 4000 || Scarce ||  || Survive in Space || 08 Equipment
+|-
+| Pants ||  || piece || Legs || Armour weave || 2 || 1 || 1 || 0 || 700 || Common ||  || Flexible || 08 Equipment
+|-
+| Phrik Boots ||  || piece || Legs ||  || 5 ||  || 3 || 2 || 3000 || Exotic ||  || Lightsaber Resistant || 08 Equipment
+|-
+| Phrik Breastplate ||  || piece || Body ||  || 6 ||  || 4 || 3 || 8000 || Exotic ||  || Lightsaber Resistant, || 08 Equipment
+|-
+| Phrik Gauntlets ||  || piece || Arms ||  || 5 ||  || 3 || 2 || 3000 || Exotic ||  || Lightsaber Resistant || 08 Equipment
+|-
+| Phrik Helmet ||  || piece || Head ||  || 5 ||  || 3 || 2 || 4500 || Exotic ||  || Lightsaber Resistant || 08 Equipment
+|-
+| Plasteel Boots ||  || piece || Legs ||  || 2 ||  || 2 || 1 || 1500 || Common ||  || - || 08 Equipment
+|-
+| Plasteel Breastplate ||  || piece || Body ||  || 3 ||  || 2 || 1 || 1500 || Common ||  || - || 08 Equipment
+|-
+| Plasteel Gauntlets ||  || piece || Arms ||  || 2 ||  || 1 || 0 || 1500 || Common ||  || - || 08 Equipment
+|-
+| Plasteel Helmet ||  || piece || Head ||  || 2 ||  || 2 || 1 || 1500 || Common ||  || - || 08 Equipment
+|-
+| Plasteel Re-enforced Armor Suit ||  || suit || All ||  || 4 ||  || 4 || 0 || 5000 || Scarce ||  || Fitted || 08 Equipment
+|-
+| Power Armour Heavy ||  || suit || All ||  || 10 ||  || 9 || 5 || 50000 || Exotic ||  ||  || 08 Equipment
+|-
+| Power Armour Light ||  || suit || All ||  || 8 ||  || 7 || 3 || 25000 || Exotic ||  ||  || 08 Equipment
+|-
+| Rancor's Hide Vest ||  || piece || Body ||  || 5 ||  || 1 || 0 || 1500 || Exotic ||  ||  || 08 Equipment
+|-
+| Scrap Plate ||  || piece || Body ||  || 3 ||  || 2 || 1 || 500 || Common ||  ||  || 08 Equipment
+|-
+| Shield Boarding ||  || piece || Special ||  ||  ||  || 4 || 3 || 1400 || Rare ||  || Shield (4) || 08 Equipment
+|-
+| Shield Combat ||  || piece || Special ||  ||  ||  || 2 || 1 || 700 || Common ||  || Shield (2) || 08 Equipment
+|-
+| Shirt ||  || piece || Body, Arms || Armour weave || 2 || 1 || 1 || 0 || 600 || Common ||  || Flexible || 08 Equipment
+|-
+| Synthetic Cloth Robe ||  || piece || Arms, Body, Legs ||  || 1 ||  || 1 || 0 || 600 || Common ||  ||  || 08 Equipment
+|-
+| Synthetic Heavy Leather ||  || piece || Arms, Body, Legs ||  || 2 ||  || 2 || 1 || 900 || Common ||  || - || 08 Equipment
+|-
+| Synthetic Light Leather ||  || piece || Arms, Body, Legs ||  || 1 ||  || 1 || 0 || 600 || Common ||  ||  || 08 Equipment
+|-
+| Trimantium Alloy Boots ||  || piece || Legs ||  || 3 ||  || 1 || 0 || 1500 || Rare ||  || Lightweight || 08 Equipment
+|-
+| Trimantium Alloy Breastplate ||  || piece || Body ||  || 4 ||  || 1 || 0 || 9000 || Rare ||  || Lightweight, || 08 Equipment
+|-
+| Trimantium Alloy Gauntlets ||  || piece || Arms ||  || 3 ||  || 0 || 0 || 1500 || Rare ||  || Lightweight, || 08 Equipment
+|-
+| Trimantium Alloy Helmet ||  || piece || Head ||  || 3 ||  || 1 || 0 || 1500 || Rare ||  || Lightweight || 08 Equipment
+|-
+| Vest ||  || piece || Body ||  || 5 ||  || 1 || 0 || 1500 || Exotic ||  ||  || 08 Equipment
+|-
+| Armored spacesuit ''(converted)'' || Heavy || suit || All || Armour Weave || 2 || 1 || 10 || 6 || 10000 ||  ||  ||  || d20 Core table 7-3
+|-
+| Battle armor, heavy ''(converted)'' || Heavy || suit || All || Durasteel || 4 || 2 || 10 || 6 || 12000 ||  ||  ||  || d20 Core table 7-3
+|-
+| VargeCorp Polarizing Field Insulatar Suit ''(converted)'' || Heavy || suit || All || Armour Weave || 2 || 1 || 10 || 6 || 3000 || Uncommon ||  ||  || d20 A&E p.43
+|-
+| [[Tracker utility vest/Legends|Ayelixe/Krangbing Textiles Tracker Utility Vest]] ''(converted)'' || Light || piece || Body || Armour Weave || 2 || 1 || 1 || 0 || 300 || Uncommon ||  ||  || d20 A&E p.41
+|-
+| [[Blast vest/Legends|Blast helmet, vest]] ''(converted)'' || Light || piece || Head || Armour Weave || 2 || 1 || 0 || 0 || 500 ||  ||  ||  || d20 Core table 7-3
+|-
+| Camouflage Poncha ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 250 || Common ||  ||  || d20 A&E p.45
+|-
+| [[Climbsuit/Legends|Climbsuit]] ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 600 || Uncommon ||  ||  || d20 A&E p.40
+|-
+| [[Tuff1 Combat Jumpsuit|Combat jumpsuit]] ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 1500 ||  ||  ||  || d20 Core table 7-3
+|-
+| Creshaldyne Industries Barabel Microbe Armar ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 15000 || Scarce ||  ||  || d20 A&E p.41
+|-
+| Kamperdine Clothing Specialists Leather Jerkin ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 300 || Common ||  ||  || d20 A&E p.42
+|-
+| [[Thinsuit/Legends|Karflo Corporation Thinsuit]] ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 9500 || Uncommon ||  ||  || d20 A&E p.42
+|-
+| [[Sonic dampening helmet|Pacnorval Sonic Dampening Helmet]] ''(converted)'' || Light || piece || Head || Armour Weave || 2 || 1 || 0 || 0 || 600 || Uncommon ||  ||  || d20 A&E p.45
+|-
+| [[Flight suit/Legends|Padded flight suit]] ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 800 ||  ||  ||  || d20 Core table 7-3
+|-
+| [[Dampener aerosol|Raflkind Industrials Dampener Aerosol]] ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 600 || Uncommon ||  ||  || d20 A&E p.45
+|-
+| [[Shadowsuit|Shadowsuit]] ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 600 || Uncommon || M ||  || d20 A&E p.40
+|-
+| Tuffl Combat Suit ''(converted)'' || Light || suit || All || Armour Weave || 2 || 1 || 2 || 0 || 500 || Uncommon ||  ||  || d20 A&E p.41
+|-
+| [[Flight suit/Legends|Armored flight suit]] ''(converted)'' || Medium || suit || All || Armour Weave || 2 || 1 || 6 || 2 || 4000 ||  ||  ||  || d20 Core table 7-3
+|-
+| Battle armor, medium ''(converted)'' || Medium || suit || All || Durasteel || 4 || 2 || 6 || 2 || 6000 ||  ||  ||  || d20 Core table 7-3
+|-
+| [[Padded armor/Legends|Battle armor, padded]] ''(converted)'' || Medium || suit || All || Durasteel || 4 || 2 || 6 || 2 || 2000 ||  ||  ||  || d20 Core table 7-3
+|-
+| Creshaldyne Industries Blast-Dampening Armor ''(converted)'' || Medium || suit || All || Plastoid || 3 || 1 || 6 || 2 || 6000 || Uncommon ||  ||  || d20 A&E p.43
+|-
+| [[Camo scout armor|Creshaldyne Industries Camo Scout Armor]] ''(converted)'' || Medium || suit || All || Plastoid || 3 || 1 || 6 || 2 || 6000 || Scarce ||  ||  || d20 A&E p.43
+|-
+| Battleframe ''(converted)'' || Powered || suit || All || Durasteel || 5 || 2 || 14 || 10 (0 while powered) || 12000 ||  ||  || Powered || d20 Core table 7-3
+|-
+| [[Corellian powersuit|Corellian powersuit]] ''(converted)'' || Powered || suit || All || Armour Weave || 2 || 1 || 14 || 10 (0 while powered) || 10000 ||  ||  || Powered || d20 Core table 7-3
+|-
+| [[AV-1A Assault Armor|GTU AV-1A Assault Armor]] ''(converted)'' || Powered || suit || All || Durasteel || 5 || 2 || 14 || 10 (0 while powered) || 50000 || Rare || M || Powered || d20 A&E p.43
+|-
+| GTU AV-IC Combat Armor ''(converted)'' || Powered || suit || All || Durasteel || 5 || 2 || 14 || 10 (0 while powered) || 25000 || Rare || M || Powered || d20 A&E p.44
+|-
+| [[Scout Armor|GTU AV-IS Scout Armor]] ''(converted)'' || Powered || suit || All || Plastoid || 4 || 1 || 14 || 10 (0 while powered) || 15000 || Rare || M || Powered || d20 A&E p.44
+|-
+| [[EVA vacuum pod|Regallis Engineering EVA Vacuum Pod]] ''(converted)'' || Powered || suit || All || Durasteel || 5 || 2 || 14 || 10 (0 while powered) || 15000 || Uncommon ||  || Powered || d20 A&E p.45
+|-
+| [[Stormtrooper armor/Legends|Stormtrooper armor]] ''(converted)'' || Medium || suit || All || Plastoid || 3 || 1 || 6 || 2 || 8000 ||  ||  || Powered || d20 Core table 7-3
+|}
+
+[[Category:SL100]]
+[[Category:SL100 rules]]
+[[Category:SL100 armour]]

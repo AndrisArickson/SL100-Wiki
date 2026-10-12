@@ -115,7 +115,7 @@ Raw d20 values with book and page, in <code>Source_Text/tables/</code>; <code>wi
 {| class="wikitable"
 ! File !! Rows
 |-
-| <code>armor.csv</code> || 21
+| <code>armor.csv</code> || 17
 |-
 | <code>core_armor.csv</code> || 11
 |-
@@ -123,31 +123,55 @@ Raw d20 values with book and page, in <code>Source_Text/tables/</code>; <code>wi
 |-
 | <code>core_services.csv</code> || 9
 |-
-| <code>core_tradegoods.csv</code> || 18
+| <code>core_tradegoods.csv</code> || 17
 |-
-| <code>core_vehicle.csv</code> || 21
+| <code>core_vehicle.csv</code> || 19
 |-
-| <code>core_weapon.csv</code> || 43
+| <code>core_vehicle_weapons.csv</code> || 22
+|-
+| <code>core_weapon.csv</code> || 46
+|-
+| <code>core_weapon_checked.csv</code> || 46
+|-
+| <code>creature_check.csv</code> || 3
+|-
+| <code>creature_fixes.csv</code> || 14
+|-
+| <code>d20_creatures.csv</code> || 204
 |-
 | <code>d20_force_feats.csv</code> || 88
 |-
 | <code>d20_force_skills.csv</code> || 32
 |-
-| <code>d20_species.csv</code> || 283
+| <code>d20_species.csv</code> || 280
 |-
 | <code>droid.csv</code> || 45
 |-
-| <code>gear.csv</code> || 73
+| <code>equipment_check.csv</code> || 5
 |-
-| <code>starship.csv</code> || 59
+| <code>equipment_fixes.csv</code> || 129
 |-
-| <code>starship_weapons.csv</code> || 112
+| <code>gear.csv</code> || 72
+|-
+| <code>species_check.csv</code> || 2
+|-
+| <code>species_fixes.csv</code> || 39
+|-
+| <code>starship.csv</code> || 192
+|-
+| <code>starship_check.csv</code> || 29
+|-
+| <code>starship_fixes.csv</code> || 43
+|-
+| <code>starship_weapons.csv</code> || 356
 |-
 | <code>vehicle.csv</code> || 41
 |-
+| <code>vehicle_weapons.csv</code> || 30
+|-
 | <code>weapon.csv</code> || 119
 |-
-| <code>wiki_match.csv</code> || 468
+| <code>wiki_match.csv</code> || 597
 |}
 
 [[Category:SL100]]

@@ -14,7 +14,7 @@ Your character starts play with equipment determined by your Origin, Faction, an
 
 '''Availability''': The Availability of the weapon.
 
-'''Reach/Range''': The Weapon’s length, or the range of the weapon in yards.
+'''Reach/Range''': The Weapon’s length, or the range of the weapon in metres.
 
 '''Damage''': The weapon’s Damage, which is added to your SL to hit.
 
@@ -34,7 +34,7 @@ The lengths of the weapons are progressively bigger as follows.
 
 '''Long''': Up to 6 foot long.
 
-'''Very Long''': Up to 10 feet in length; can Engage enemies up to 4 yards away, rather than just 2.
+'''Very Long''': Up to 3 metres in length; can Engage enemies up to 4 metres away, rather than just 2.
 
 '''Massive''': Anything over 10 feet long; \\
 
