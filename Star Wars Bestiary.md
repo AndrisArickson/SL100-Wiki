@@ -4,6 +4,19 @@ Each creature uses the standard WFRP 4e characteristic line — Movement, Weapon
 
 *Armour values represent physical Armour Points as normal; where a creature's hide or plating specifically shrugs off lightsabers or blaster fire, that's called out in its Traits.*
 
+*Illustrations of original creatures for the table; they are not pictures of the Legends species below.*
+
+<gallery mode="packed" heights="140">
+File:SL100 Creature Pack Predator.jpg|Pack Predator
+File:SL100 Creature Desert Reptile Mount.jpg|Desert Reptile Mount
+File:SL100 Creature Beast of Burden.jpg|Beast of Burden
+File:SL100 Creature Cave Arachnid.jpg|Cave Arachnid
+File:SL100 Creature Burrowing Horror.jpg|Burrowing Horror
+File:SL100 Creature Ocean Leviathan.jpg|Ocean Leviathan
+File:SL100 Creature Sky Ray.jpg|Sky Ray
+File:SL100 Creature Tree Primates.jpg|Tree Primates
+</gallery>
+
 ## Acklay
 
 **Predator — Vengeance-tier Arena Beast**

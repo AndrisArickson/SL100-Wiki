@@ -99,6 +99,9 @@ def card_img(page):
 MAIN_HEAD = """'''Star Legends - Galactic Wars''' is a roleplaying game set in the Star Wars ''Legends'' universe, played with a d100 system adapted from ''Warhammer Fantasy Roleplay'' 4th edition. Everything a player or GM needs is on the cards below; the Legends background articles (harvested from Wookieepedia, CC BY-SA 3.0) sit behind them and every game page links to its source.
 """
 MAIN_TAIL = """
+== Gallery ==
+[[SL100:Gallery]] holds all of our original artwork in one place: places, people, creatures, Force powers and materials to show at the table.
+
 == Working papers ==
 Design notes and look-ups that sit behind the rules: [[SL100:Collation]] (reports from the source books), [[SL100:Source books]], [[SL100:Careers compared with WFRP]], [[SL100:Example Weapon]].
 

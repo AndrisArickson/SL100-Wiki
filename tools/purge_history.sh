@@ -3,6 +3,7 @@
 # masters in ../art_originals), then force-push. Run in YOUR terminal from the SL100-Wiki folder:
 #     bash tools/purge_history.sh
 # Needs git-filter-repo:  pip install --user git-filter-repo   (or your distro's package)
+# Also strips the VPN configs (private keys) and the empty Proton Drive zip that were committed by mistake.
 # Afterwards any OTHER clone of the repo must be re-cloned (old history is gone).
 set -eu
 cd "$(dirname "$0")/.."
@@ -17,6 +18,9 @@ echo "2/4 Removing old image blobs from history ..."
 git filter-repo --force \
   --path-regex '^images/generated/.*\.jpg$' \
   --path-regex '^images/full/[^/]+/[^/]+\.(png|jpg|jpeg)$' \
+  --path-regex '^[^/]+\.ovpn$' \
+  --path-regex '^wg-[^/]*\.conf$' \
+  --path-regex '^Proton Drive Download[^/]*\.zip$' \
   --invert-paths
 git reflog expire --expire=now --all && git gc --prune=now --aggressive
 echo "    size after:  $(git count-objects -vH | grep size-pack)"

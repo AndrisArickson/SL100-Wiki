@@ -16,3 +16,9 @@ images/generated/originals/*.jpg
 images/generated/*.jpg
 images/full/**/*.png
 images/full/**/*.jpg
+
+# VPN configs and downloads hold private keys - never commit
+*.ovpn
+wg-*.conf
+*.conf.bak
+Proton Drive Download*.zip
