@@ -12,7 +12,7 @@ Collated by <code>tools/collate/assembly.py</code> from 01-05. Everything below 
 |-
 | 2 || Species (02) || characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons || species.csv (17 species)
 |-
-| 3 || Origin - world upbringing (03) || each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (any one), pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. || origins.csv (13 world types)
+| 3 || Origin - world upbringing (03) || each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (Any), pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. || origins.csv (13 world types)
 |-
 | 4 || Career (05) || class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics || careers_l1.csv (level 1 of 24 careers); 05
 |-
@@ -79,31 +79,31 @@ Collated by <code>tools/collate/assembly.py</code> from 01-05. Everything below 
 |-
 ! d100 !! Origin !! Characteristics !! 12 starting skills
 |-
-| 01–10 || Hive Worlds || +5 Agility, and +5 to one of Ballistic Skill, Initiative or Fellowship. || Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol or Blaster Rifle), Stealth (Urban)
+| 01–10 || Hive Worlds || +5 Agility, and +5 to one of Ballistic Skill, Initiative or Fellowship. || Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban)
 |-
-| 11–30 || Civilized Worlds || +5 Intelligence, and +5 to one of Willpower, Initiative or Fellowship. || Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol or Blaster Rifle), Stealth (Urban)
+| 11–30 || Civilized Worlds || +5 Intelligence, and +5 to one of Willpower, Initiative or Fellowship. || Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban)
 |-
-| 31–35 || Paradise Worlds || +5 Fellowship, and +5 to one of Weapon Skill, Ballistic Skill or Toughness. || Athletics, Bribery, Charm, Consume Intoxicant, Creature Training (any one), Entertain (any one), Leadership, Pilot (Speeder), Pilot (Starship), Play (any one), Ranged (Blaster Pistol or Blaster Rifle), Swim
+| 31–35 || Paradise Worlds || +5 Fellowship, and +5 to one of Weapon Skill, Ballistic Skill or Toughness. || Athletics, Bribery, Charm, Consume Intoxicant, Creature Training (Any), Entertain (Any), Leadership, Pilot (Speeder), Pilot (Starship), Play (Any), Ranged (Blaster), Swim
 |-
-| 36–40 || Feudal Worlds || +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship. || Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (any one), Pilot (Speeder), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural)
+| 36–40 || Feudal Worlds || +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship. || Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (Any), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural)
 |-
-| 41–50 || Feral Worlds || +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative. || Athletics, Climb, Creature Training (any one), Dodge, Melee (any one), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track
+| 41–50 || Feral Worlds || +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative. || Athletics, Climb, Creature Training (Any), Dodge, Melee (Any), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track
 |-
-| 51–55 || Industrial Worlds || +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility. || Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (any one), Pilot (Speeder), Pilot (Starship), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Stealth (Urban)
+| 51–55 || Industrial Worlds || +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility. || Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (Any), Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban)
 |-
-| 56–60 || Lava Worlds || +5 Toughness, and +5 to one of Agility, Initiative or Strength. || Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster Pistol or Blaster Rifle)
+| 56–60 || Lava Worlds || +5 Toughness, and +5 to one of Agility, Initiative or Strength. || Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster)
 |-
-| 61–65 || Hostile Worlds || +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness. || Athletics, Climb, Creature Training (any one), Dodge, Melee (any one), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster Pistol, Blaster Rifle or Heavy Blaster), Ride (Air, Land or Water), Swim
+| 61–65 || Hostile Worlds || +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness. || Athletics, Climb, Creature Training (Any), Dodge, Melee (Any), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim
 |-
-| 66–70 || Agri Worlds || +5 Strength, and +5 to one of Toughness, Agility or Willpower. || Athletics, Climb, Creature Care, Creature Training (any one), Dodge, Haggle, Melee (any one), Pilot (Speeder), Ranged (Blaster Pistol or Blaster Rifle), Ride (Air, Land or Water), Swim, Track
+| 66–70 || Agri Worlds || +5 Strength, and +5 to one of Toughness, Agility or Willpower. || Athletics, Climb, Creature Care, Creature Training (Any), Dodge, Haggle, Melee (Any), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim, Track
 |-
-| 71–75 || Ocean Worlds || +5 Toughness, and +5 to one of Agility, Initiative or Fellowship. || Athletics, Cool, Creature Training (any one), Dodge, Endurance, Melee (any one), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Slugthrower), Ride (Air, Land or Water), Swim
+| 71–75 || Ocean Worlds || +5 Toughness, and +5 to one of Agility, Initiative or Fellowship. || Athletics, Cool, Creature Training (Any), Dodge, Endurance, Melee (Any), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic), Ride (Air, Land or Water), Swim
 |-
-| 76–80 || Tundra Worlds || +5 Toughness, and +5 to one of Agility, Initiative or Strength. || Athletics, Cool, Creature Training (any one), Dodge, Endurance, Intimidate, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
+| 76–80 || Tundra Worlds || +5 Toughness, and +5 to one of Agility, Initiative or Strength. || Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intimidate, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
 |-
-| 81–95 || Space || +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship. || Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster Pistol, Blaster Rifle, Heavy Blaster or Missile/Rocket)
+| 81–95 || Space || +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship. || Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster or Ordnance)
 |-
-| 96–00 || Force Nexus Worlds || +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship. || Athletics, Cool, Creature Training (any one), Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
+| 96–00 || Force Nexus Worlds || +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship. || Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
 |}
 
 == Careers (level 1) at a glance ==
@@ -116,17 +116,17 @@ Collated by <code>tools/collate/assembly.py</code> from 01-05. Everything below 
 |-
 | Citizens || Agitator || Pamphleteer — Brass 1 || Art (Writing), Bribery, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer) || Blather, Gregarious, Panhandle, Datapad Use
 |-
-| Citizens || Artisan || Apprentice Artisan — Brass 2 || Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any) || Artistic, Craftsman (any), Strong Back, Very Strong
+| Citizens || Artisan || Apprentice Artisan — Brass 2 || Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any) || Artistic, Craftsman (Any), Strong Back, Very Strong
 |-
 | Citizens || Investigator || Sleuth — Silver 1 || Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track || Alley Cat, Beneath Notice, Datapad Use, Sharp
 |-
 | Citizens || Merchant || Trader — Silver 2 || Creature Care, Bribery, Charm, Consume Intoxicant, Pilot (Land Vehicle), Gamble, Gossip, Haggle || Blather, Dealmaker, Datapad Use, Suave
 |-
-| Dignitaries || Advisor || Aide — Silver 2 || Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Tongue), Lore (Politics), Perception || Beneath Notice, Etiquette (Any), Gregarious, Datapad Use
+| Dignitaries || Advisor || Aide — Silver 2 || Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Galactic Standard), Lore (Politics), Perception || Beneath Notice, Etiquette (Any), Gregarious, Datapad Use
 |-
-| Dignitaries || Envoy || Herald — Silver 2 || Athletics, Charm, Pilot (Land Vehicle), Dodge, Endurance, Intuition, Ride (Bantha), Pilot (Starship) || Blather, Etiquette (Nobles), Datapad Use, Suave
+| Dignitaries || Envoy || Herald — Silver 2 || Athletics, Charm, Pilot (Land Vehicle), Dodge, Endurance, Intuition, Ride (Land), Pilot (Starship) || Blather, Etiquette (Nobles), Datapad Use, Suave
 |-
-| Dignitaries || Noble || Scion — Gold 1 || Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (Vibroblade), Play (Any) || Etiquette (Nobles), Luck, Noble Blood, Datapad Use
+| Dignitaries || Noble || Scion — Gold 1 || Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (1H), Play (Any) || Etiquette (Nobles), Luck, Noble Blood, Datapad Use
 |-
 | Dignitaries || Spy || Informer — Brass 3 || Bribery, Charm, Cool, Gamble, Gossip, Haggle, Perception, Stealth (Any) || Blather, Carouser, Gregarious, Shadow
 |-
@@ -138,9 +138,9 @@ Collated by <code>tools/collate/assembly.py</code> from 01-05. Everything below 
 |-
 | Force Wielders || Force Warrior || Padawan / Force Acolyte / Sith Acolyte — Silver 3 || Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon), || Etiquette (Senate or Military), Ace Pilot or Roughrider, Sturdy, Warrior Born
 |-
-| Freelancers || Bounty Hunter || Thief-taker — Silver 1 || Bribery, Charm, Gossip, Haggle, Intuition, Melee (Basic), Outdoor Survival, Perception, Pilot (Speeder) || Break and Enter, Shadow, Strike to Stun, Suave, Pilot
+| Freelancers || Bounty Hunter || Thief-taker — Silver 1 || Bribery, Charm, Gossip, Haggle, Intuition, Melee (1H), Outdoor Survival, Perception, Pilot (Speeder) || Break and Enter, Shadow, Strike to Stun, Suave, Pilot
 |-
-| Freelancers || Scout || Guide — Brass 3 || Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Perception || Orientation, Rover, Sharp, Strider (any)
+| Freelancers || Scout || Guide — Brass 3 || Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (1H), Outdoor Survival, Perception || Orientation, Rover, Sharp, Strider (Any)
 |-
 | Freelancers || Smuggler || River Runner — Brass 2 || Athletics, Bribery, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim || Criminal, Scavenger, Strider (Wastelands), Strong Back
 |-
@@ -148,17 +148,17 @@ Collated by <code>tools/collate/assembly.py</code> from 01-05. Everything below 
 |-
 | Scoundrels || Charlatan || Swindler — Brass 3 || Bribery, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand || Cardsharp, Diceman, Etiquette (Any), Luck
 |-
-| Scoundrels || Fence || Broker — Silver 1 || Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (Basic) || Alley Cat, Cardsharp, Dealmaker, Gregarious
+| Scoundrels || Fence || Broker — Silver 1 || Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (1H) || Alley Cat, Cardsharp, Dealmaker, Gregarious
 |-
-| Scoundrels || Outlaw || Brigand — Brass 1 || Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (Basic), Outdoor Survival || Combat Aware, Criminal, Rover, Flee!
+| Scoundrels || Outlaw || Brigand — Brass 1 || Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (1H), Outdoor Survival || Combat Aware, Criminal, Rover, Flee!
 |-
 | Scoundrels || Thief || Prowler — Brass 1 || Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban) || Alley Cat, Criminal, Flee!, Strike to Stun
 |-
-| Warriors || Guard || Sentry — Silver 1 || Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Perception || Diceman, Etiquette (Servants), Strike to Stun, Tenacious
+| Warriors || Guard || Sentry — Silver 1 || Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (1H), Perception || Diceman, Etiquette (Servants), Strike to Stun, Tenacious
 |-
 | Warriors || Pit Fighter || Pugilist — Brass 4 || Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling) || Dirty Fighting, In-fighter, Iron Jaw, Reversal
 |-
-| Warriors || Soldier || Recruit — Silver 1 || Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (Basic), Play (Drums or Horn) || Diceman, Marksman, Strong Back, Warrior Born
+| Warriors || Soldier || Recruit — Silver 1 || Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (1H), Play (Drums or Horn) || Diceman, Marksman, Strong Back, Warrior Born
 |}
 
 

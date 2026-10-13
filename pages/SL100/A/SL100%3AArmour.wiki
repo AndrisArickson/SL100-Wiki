@@ -1,3 +1,4 @@
+__NOTOC__
 {{SL100 Rules|chapter=Armour|status=Catalogue: 76 items, 28 converted from d20 and awaiting review|source=08 Equipment + Special Materials + Source_Text/tables (tools/convert/equipment.py)}}
 
 '''Armour''' carries two values: '''AP''' (Armour Points) against blasters, slugs and blows, and '''Resist''' against lightsabers. Both come from the material the piece is made of (see [[SL100:Special Materials]]), never from the d20 books. Items marked ''(converted)'' took their AP and Resist from the default material for their type and need checking. A '''suit''' covers all locations and carries the whole-suit Enc (light 2, medium 6, heavy 10, powered 14 carried / 10 worn); a '''piece''' covers the locations listed and its Enc alone. Worn armour counts 1 Enc less (see [[SL100:Gear#Encumbrance|Encumbrance]]).
