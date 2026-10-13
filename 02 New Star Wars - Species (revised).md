@@ -240,7 +240,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 
 ### [Arkanian](https://starwars.fandom.com/wiki/Arkanian/Legends)
 
-![Arkanian](File:SL100 Species Arkanian.jpg)
+![Arkanian](File:Arkanians DoH.png)
 
 `[sl100]`
 
@@ -258,7 +258,7 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 ### [Besalisk](https://starwars.fandom.com/wiki/Besalisk/Legends)
 
-![Besalisk](File:SL100 Species Besalisk.jpg)
+![Besalisk](File:Besalisk-NEGAS.png)
 
 `[sl100]`
 
@@ -271,7 +271,7 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 ### [Chironian](https://starwars.fandom.com/wiki/Chironian)
 
-![Chironian](File:SL100 Species Chironian.jpg)
+![Chironian](File:Njo lusa.jpg)
 
 `[sl100]`
 
@@ -288,7 +288,7 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 ### [Chiss](https://starwars.fandom.com/wiki/Chiss/Legends)
 
-![Chiss](File:SL100 Species Chiss.jpg)
+![Chiss](File:Chiss EtU.png)
 
 `[sl100]`
 
@@ -304,7 +304,7 @@ The Chiss are known for their secretive nature and have had little contact with 
 
 ### [Echani](https://starwars.fandom.com/wiki/Echani/Legends)
 
-![Echani](File:SL100 Species Echani.jpg)
+![Echani](File:Raskta Lsu.jpg)
 
 `[sl100]`
 
@@ -324,7 +324,7 @@ The Thyrasian sub species of Echani is known for their dark hair and skin, rathe
 
 ### [Human](https://starwars.fandom.com/wiki/Human/Legends)
 
-![Human](File:SL100 Species Human.jpg)
+![Human](File:Humans-TESB30.jpg)
 
 `[sl100]`
 
@@ -340,7 +340,7 @@ Their sheer numbers and adaptability have made them a force to be reckoned with 
 
 ### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor/Legends)
 
-![Kel Dor](File:SL100 Species Kel Dor.jpg)
+![Kel Dor](File:KelDorMaleFemale.png)
 
 `[sl100]`
 
@@ -358,7 +358,7 @@ Any force specialisation related to Force - Sense that requires multiple selecti
 
 ### [Miraluka](https://starwars.fandom.com/wiki/Miraluka/Legends)
 
-![Miraluka](File:SL100 Species Miraluka.jpg)
+![Miraluka](File:Miraluka UAA.jpg)
 
 `[sl100]`
 
@@ -374,7 +374,7 @@ A thoughtful, careful and deliberate species without eyes that instead see throu
 
 ### [Nautolan](https://starwars.fandom.com/wiki/Nautolan/Legends)
 
-![Nautolan](File:SL100 Species Nautolan.jpg)
+![Nautolan](File:Nautolan-NEGAS.png)
 
 `[sl100]`
 
@@ -388,7 +388,7 @@ Nautolans are excellent swimmers and possess low-light vision, making them well-
 
 ### [Otolla Gungan](https://starwars.fandom.com/wiki/Otolla/Legends)
 
-![Otolla Gungan](File:SL100 Species Otolla Gungan.jpg)
+![Otolla Gungan](File:JarJarBinks-DKRCYSAJ.png)
 
 `[sl100]`
 
@@ -403,7 +403,7 @@ The Otolla lineage of Gungans was the race that Jar Jar Binks, Augara Jowil, and
 
 ### [Togruta](https://starwars.fandom.com/wiki/Togruta/Legends)
 
-![Togruta](File:SL100 Species Togruta.jpg)
+![Togruta](File:Togruta NEGAS.jpg)
 
 `[sl100]`
 
@@ -418,7 +418,7 @@ As predators, Togruta had sharp canine teeth, which they used to painlessly kill
 
 ### [Trandoshan](https://starwars.fandom.com/wiki/Trandoshan/Legends)
 
-![Trandoshan](File:SL100 Species Trandoshan.jpg)
+![Trandoshan](File:Trandoshan NEGAS.png)
 
 `[sl100]`
 
@@ -434,7 +434,9 @@ Trandoshan are capable of seeing into the infrared spectrum
 
 ### [T'surr](https://starwars.fandom.com/wiki/T%27surr)
 
-![T'surr](File:SL100 Species T'surr.jpg)
+![T'surr](File:Tsurr-TEA.jpg)
+
+![T'surr (female)](File:SL100 Species T'surr female.jpg)
 
 `[sl100]`
 
@@ -456,7 +458,7 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 
 ### [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends)
 
-![Twi'lek](File:SL100 Species Twi'lek.jpg)
+![Twi'lek](File:TaeBoon-TCWCE.png)
 
 `[sl100]`
 
@@ -468,7 +470,7 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 
 ### [Weequay](https://starwars.fandom.com/wiki/Weequay/Legends)
 
-![Weequay](File:SL100 Species Weequay.jpg)
+![Weequay](File:PagettiRook-RotJAVA.png)
 
 `[sl100]`
 
@@ -486,7 +488,7 @@ In the galaxy at large, Weequay are often found in the employ of the Hutt Clan, 
 
 ### [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends)
 
-![Wookiee](File:SL100 Species Wookiee.jpg)
+![Wookiee](File:Wookiee NEGAS.jpg)
 
 `[sl100]`
 
@@ -502,7 +504,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Zabrak](https://starwars.fandom.com/wiki/Zabrak/Legends)
 
-![Zabrak](File:SL100 Species Zabrak.jpg)
+![Zabrak](File:ZabrakNEGAS.jpg)
 
 `[sl100]`
 
@@ -516,7 +518,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Abyssin](https://starwars.fandom.com/wiki/Abyssin/Legends)
 
-![Abyssin](File:SL100 Species Abyssin.jpg)
+![Abyssin](File:Abyssin 2.jpg)
 
 `[sl100]`
 
@@ -530,7 +532,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Adarian](https://starwars.fandom.com/wiki/Adarian/Legends)
 
-![Adarian](File:SL100 Species Adarian.jpg)
+![Adarian](File:Adarian UAA.jpg)
 
 `[sl100]`
 
@@ -544,7 +546,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Advozse](https://starwars.fandom.com/wiki/Advozse/Legends)
 
-![Advozse](File:SL100 Species Advozse.jpg)
+![Advozse](File:Advosze UAA.jpg)
 
 `[sl100]`
 
@@ -558,7 +560,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Aleena](https://starwars.fandom.com/wiki/Aleena/Legends)
 
-![Aleena](File:SL100 Species Aleena.jpg)
+![Aleena](File:RattsTyerell-EpIVD.png)
 
 `[sl100]`
 
@@ -572,7 +574,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Anomid](https://starwars.fandom.com/wiki/Anomid/Legends)
 
-![Anomid](File:SL100 Species Anomid.jpg)
+![Anomid](File:Anomid UAA.jpg)
 
 `[sl100]`
 
@@ -586,7 +588,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Anx](https://starwars.fandom.com/wiki/Anx/Legends)
 
-![Anx](File:SL100 Species Anx.jpg)
+![Anx](File:Anx-NEGAS.png)
 
 `[sl100]`
 
@@ -600,7 +602,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Anzat](https://starwars.fandom.com/wiki/Anzat/Legends)
 
-![Anzat](File:SL100 Species Anzat.jpg)
+![Anzat](File:Anzat NEGAS.jpg)
 
 `[sl100]`
 
@@ -614,7 +616,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Aqualish](https://starwars.fandom.com/wiki/Aqualish/Legends)
 
-![Aqualish](File:SL100 Species Aqualish.jpg)
+![Aqualish](File:Aqualish-NEGAS.png)
 
 `[sl100]`
 
@@ -628,7 +630,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Arcona](https://starwars.fandom.com/wiki/Arcona/Legends)
 
-![Arcona](File:SL100 Species Arcona.jpg)
+![Arcona](File:Arcona-NEGAS.png)
 
 `[sl100]`
 
@@ -642,7 +644,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Askajian](https://starwars.fandom.com/wiki/Askajian/Legends)
 
-![Askajian](File:SL100 Species Askajian.jpg)
+![Askajian](File:Askajian-NEGAS.png)
 
 `[sl100]`
 
@@ -656,7 +658,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ayrou](https://starwars.fandom.com/wiki/Ayrou/Legends)
 
-![Ayrou](File:SL100 Species Ayrou.jpg)
+![Ayrou](File:Ayrou.jpg)
 
 `[sl100]`
 
@@ -670,7 +672,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Balosar](https://starwars.fandom.com/wiki/Balosar/Legends)
 
-![Balosar](File:SL100 Species Balosar.jpg)
+![Balosar](File:Balosar NEGAS.jpg)
 
 `[sl100]`
 
@@ -684,7 +686,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Barabel](https://starwars.fandom.com/wiki/Barabel/Legends)
 
-![Barabel](File:SL100 Species Barabel.jpg)
+![Barabel](File:Barabel-NEGAS.png)
 
 `[sl100]`
 
@@ -698,7 +700,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Baragwin](https://starwars.fandom.com/wiki/Baragwin/Legends)
 
-![Baragwin](File:SL100 Species Baragwin.jpg)
+![Baragwin](File:HermiOdle-DB.png)
 
 `[sl100]`
 
@@ -712,7 +714,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Bardottan](https://starwars.fandom.com/wiki/Bardottan/Legends)
 
-![Bardottan](File:SL100 Species Bardottan.jpg)
+![Bardottan](File:MarsGuofull-SWCTP.png)
 
 `[sl100]`
 
@@ -726,7 +728,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Bartokk](https://starwars.fandom.com/wiki/Bartokk)
 
-![Bartokk](File:SL100 Species Bartokk.jpg)
+![Bartokk](File:Bartokk.jpg)
 
 `[sl100]`
 
@@ -740,7 +742,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Bimm](https://starwars.fandom.com/wiki/Bimm/Legends)
 
-![Bimm](File:SL100 Species Bimm.jpg)
+![Bimm](File:Bimm-AE.png)
 
 `[sl100]`
 
@@ -754,7 +756,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Bith](https://starwars.fandom.com/wiki/Bith/Legends)
 
-![Bith](File:SL100 Species Bith.jpg)
+![Bith](File:Bith-NEGAS.png)
 
 `[sl100]`
 
@@ -768,7 +770,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Blood Carver](https://starwars.fandom.com/wiki/Blood_Carver)
 
-![Blood Carver](File:SL100 Species Blood Carver.jpg)
+![Blood Carver](File:Bloodcarver-batorine.jpg)
 
 `[sl100]`
 
@@ -782,7 +784,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Bothan](https://starwars.fandom.com/wiki/Bothan/Legends)
 
-![Bothan](File:SL100 Species Bothan.jpg)
+![Bothan](File:Bothan-NEGAS.png)
 
 `[sl100]`
 
@@ -796,7 +798,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Caamasi](https://starwars.fandom.com/wiki/Caamasi/Legends)
 
-![Caamasi](File:SL100 Species Caamasi.jpg)
+![Caamasi](File:Caamasi-NEGAS.png)
 
 `[sl100]`
 
@@ -810,7 +812,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Caarite](https://starwars.fandom.com/wiki/Caarite)
 
-![Caarite](File:SL100 Species Caarite.jpg)
+![Caarite](File:Caarite.jpg)
 
 `[sl100]`
 
@@ -824,7 +826,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Cathar](https://starwars.fandom.com/wiki/Cathar/Legends)
 
-![Cathar](File:SL100 Species Cathar.jpg)
+![Cathar](File:CatharDefender-TCGMaM.png)
 
 `[sl100]`
 
@@ -838,7 +840,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Celegian](https://starwars.fandom.com/wiki/Celegian/Legends)
 
-![Celegian](File:SL100 Species Celegian.jpg)
+![Celegian](File:Celegian UAA.jpg)
 
 `[sl100]`
 
@@ -852,7 +854,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Cerean](https://starwars.fandom.com/wiki/Cerean/Legends)
 
-![Cerean](File:SL100 Species Cerean.jpg)
+![Cerean](File:Cerean NEGAS.jpg)
 
 `[sl100]`
 
@@ -866,7 +868,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Chadra-Fan](https://starwars.fandom.com/wiki/Chadra-Fan/Legends)
 
-![Chadra-Fan](File:SL100 Species Chadra-Fan.jpg)
+![Chadra-Fan](File:Chadra-Fan NEGAS.jpg)
 
 `[sl100]`
 
@@ -880,7 +882,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Chagrian](https://starwars.fandom.com/wiki/Chagrian/Legends)
 
-![Chagrian](File:SL100 Species Chagrian.jpg)
+![Chagrian](File:ChagrianNEGAS.jpg)
 
 `[sl100]`
 
@@ -894,7 +896,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Charon](https://starwars.fandom.com/wiki/Charon/Legends)
 
-![Charon](File:SL100 Species Charon.jpg)
+![Charon](File:Charon UAA.jpg)
 
 `[sl100]`
 
@@ -908,7 +910,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Chev](https://starwars.fandom.com/wiki/Chev)
 
-![Chev](File:SL100 Species Chev.jpg)
+![Chev](File:Chev UAA.jpg)
 
 `[sl100]`
 
@@ -922,7 +924,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Chevin](https://starwars.fandom.com/wiki/Chevin/Legends)
 
-![Chevin](File:SL100 Species Chevin.jpg)
+![Chevin](File:ChevinNEGAS.jpg)
 
 `[sl100]`
 
@@ -936,7 +938,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Clawdite](https://starwars.fandom.com/wiki/Clawdite/Legends)
 
-![Clawdite](File:SL100 Species Clawdite.jpg)
+![Clawdite](File:Clawdite-NEGAS.png)
 
 `[sl100]`
 
@@ -950,7 +952,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Colicoid](https://starwars.fandom.com/wiki/Colicoid/Legends)
 
-![Colicoid](File:SL100 Species Colicoid.jpg)
+![Colicoid](File:Colicoid2.jpg)
 
 `[sl100]`
 
@@ -964,7 +966,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Cragmoloid](https://starwars.fandom.com/wiki/Cragmoloid/Legends)
 
-![Cragmoloid](File:SL100 Species Cragmoloid.jpg)
+![Cragmoloid](File:Cragmoloid2.jpg)
 
 `[sl100]`
 
@@ -978,7 +980,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Dantari](https://starwars.fandom.com/wiki/Dantari)
 
-![Dantari](File:SL100 Species Dantari.jpg)
+![Dantari](File:Dantari.jpg)
 
 `[sl100]`
 
@@ -992,7 +994,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Dashade](https://starwars.fandom.com/wiki/Dashade/Legends)
 
-![Dashade](File:SL100 Species Dashade.jpg)
+![Dashade](File:Dashade-TOR.jpg)
 
 `[sl100]`
 
@@ -1006,7 +1008,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Dathomirian](https://starwars.fandom.com/wiki/Dathomirian/Legends)
 
-![Dathomirian](File:SL100 Species Dathomirian.jpg)
+![Dathomirian](File:Nightbrother by Russell Walks.png)
 
 `[sl100]`
 
@@ -1020,7 +1022,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Defel](https://starwars.fandom.com/wiki/Defel/Legends)
 
-![Defel](File:SL100 Species Defel.jpg)
+![Defel](File:Defel-UAA.png)
 
 `[sl100]`
 
@@ -1034,7 +1036,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Devaronian](https://starwars.fandom.com/wiki/Devaronian/Legends)
 
-![Devaronian](File:SL100 Species Devaronian.jpg)
+![Devaronian](File:DevaronianNEGAS.jpg)
 
 `[sl100]`
 
@@ -1048,7 +1050,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Diathim](https://starwars.fandom.com/wiki/Diathim/Legends)
 
-![Diathim](File:SL100 Species Diathim.jpg)
+![Diathim](File:Diathim-TCWCE.png)
 
 `[sl100]`
 
@@ -1062,7 +1064,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Drall](https://starwars.fandom.com/wiki/Drall/Legends)
 
-![Drall](File:SL100 Species Drall.jpg)
+![Drall](File:Drall-AA.png)
 
 `[sl100]`
 
@@ -1076,7 +1078,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Dressellian](https://starwars.fandom.com/wiki/Dressellian/Legends)
 
-![Dressellian](File:SL100 Species Dressellian.jpg)
+![Dressellian](File:Dressellians SoT.png)
 
 `[sl100]`
 
@@ -1090,7 +1092,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Dug](https://starwars.fandom.com/wiki/Dug/Legends)
 
-![Dug](File:SL100 Species Dug.jpg)
+![Dug](File:Dug NEGAS.jpg)
 
 `[sl100]`
 
@@ -1104,7 +1106,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Duinuogwuin](https://starwars.fandom.com/wiki/Duinuogwuin/Legends)
 
-![Duinuogwuin](File:SL100 Species Duinuogwuin.jpg)
+![Duinuogwuin](File:Stardragongg4.jpg)
 
 `[sl100]`
 
@@ -1118,7 +1120,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Duros](https://starwars.fandom.com/wiki/Duros/Legends)
 
-![Duros](File:SL100 Species Duros.jpg)
+![Duros](File:Duros NEGAS.jpg)
 
 `[sl100]`
 
@@ -1132,7 +1134,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ebranite](https://starwars.fandom.com/wiki/Ebranite)
 
-![Ebranite](File:SL100 Species Ebranite.jpg)
+![Ebranite](File:Ebranitegg12.jpg)
 
 `[sl100]`
 
@@ -1146,7 +1148,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Elom](https://starwars.fandom.com/wiki/Elom/Legends)
 
-![Elom](File:SL100 Species Elom.jpg)
+![Elom](File:Elom Databank.jpg)
 
 `[sl100]`
 
@@ -1160,7 +1162,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Elomin](https://starwars.fandom.com/wiki/Elomin/Legends)
 
-![Elomin](File:SL100 Species Elomin.jpg)
+![Elomin](File:Elomin-AA.png)
 
 `[sl100]`
 
@@ -1174,7 +1176,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Em'liy](https://starwars.fandom.com/wiki/Em'liy/Legends)
 
-![Em'liy](File:SL100 Species Em'liy.jpg)
+![Em'liy](File:Emliy-UAA.jpg)
 
 `[sl100]`
 
@@ -1188,7 +1190,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Esh-kha](https://starwars.fandom.com/wiki/Esh-kha)
 
-![Esh-kha](File:SL100 Species Esh-kha.jpg)
+![Esh-kha](File:Esh-kha.png)
 
 `[sl100]`
 
@@ -1202,7 +1204,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ewok](https://starwars.fandom.com/wiki/Ewok/Legends)
 
-![Ewok](File:SL100 Species Ewok.jpg)
+![Ewok](File:EwokNEGAS.jpg)
 
 `[sl100]`
 
@@ -1216,7 +1218,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Falleen](https://starwars.fandom.com/wiki/Falleen/Legends)
 
-![Falleen](File:SL100 Species Falleen.jpg)
+![Falleen](File:Falleen Outlaw.jpg)
 
 `[sl100]`
 
@@ -1230,7 +1232,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Farghul](https://starwars.fandom.com/wiki/Farghul/Legends)
 
-![Farghul](File:SL100 Species Farghul.jpg)
+![Farghul](File:Farghul.jpg)
 
 `[sl100]`
 
@@ -1244,7 +1246,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Feeorin](https://starwars.fandom.com/wiki/Feeorin/Legends)
 
-![Feeorin](File:SL100 Species Feeorin.jpg)
+![Feeorin](File:Feeorin-UAA.png)
 
 `[sl100]`
 
@@ -1258,7 +1260,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Filordus](https://starwars.fandom.com/wiki/Filordus)
 
-![Filordus](File:SL100 Species Filordus.jpg)
+![Filordus](File:Filordus UAA.jpg)
 
 `[sl100]`
 
@@ -1272,7 +1274,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Frozian](https://starwars.fandom.com/wiki/Frozian/Legends)
 
-![Frozian](File:SL100 Species Frozian.jpg)
+![Frozian](File:Frozians.jpg)
 
 `[sl100]`
 
@@ -1286,7 +1288,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends)
 
-![Gamorrean](File:SL100 Species Gamorrean.jpg)
+![Gamorrean](File:Gamorrean NEGAS.jpg)
 
 `[sl100]`
 
@@ -1300,7 +1302,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Gand](https://starwars.fandom.com/wiki/Gand/Legends)
 
-![Gand](File:SL100 Species Gand.jpg)
+![Gand](File:GandAlienNEGAS.jpg)
 
 `[sl100]`
 
@@ -1314,7 +1316,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Gen'Dai](https://starwars.fandom.com/wiki/Gen'Dai/Legends)
 
-![Gen'Dai](File:SL100 Species Gen'Dai.jpg)
+![Gen'Dai](File:The Flame.png)
 
 `[sl100]`
 
@@ -1328,7 +1330,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Geonosian](https://starwars.fandom.com/wiki/Geonosian/Legends)
 
-![Geonosian](File:SL100 Species Geonosian.jpg)
+![Geonosian](File:Geonosian NEGAS.png)
 
 `[sl100]`
 
@@ -1342,7 +1344,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Givin](https://starwars.fandom.com/wiki/Givin/Legends)
 
-![Givin](File:SL100 Species Givin.jpg)
+![Givin](File:GivinNEGAS.jpg)
 
 `[sl100]`
 
@@ -1356,7 +1358,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Gossam](https://starwars.fandom.com/wiki/Gossam/Legends)
 
-![Gossam](File:SL100 Species Gossam.jpg)
+![Gossam](File:Gossam Advocate DA.png)
 
 `[sl100]`
 
@@ -1370,7 +1372,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Gotal](https://starwars.fandom.com/wiki/Gotal/Legends)
 
-![Gotal](File:SL100 Species Gotal.jpg)
+![Gotal](File:Gotal AA.jpg)
 
 `[sl100]`
 
@@ -1384,7 +1386,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Gran](https://starwars.fandom.com/wiki/Gran/Legends)
 
-![Gran](File:SL100 Species Gran.jpg)
+![Gran](File:GranNEGAS.jpg)
 
 `[sl100]`
 
@@ -1398,7 +1400,7 @@ Average height 2.23 – 2.54 meters
 
 ### [H'nemthe](https://starwars.fandom.com/wiki/H'nemthe/Legends)
 
-![H'nemthe](File:SL100 Species H'nemthe.jpg)
+![H'nemthe](File:Hnemthe-NEGAS.jpg)
 
 `[sl100]`
 
@@ -1412,7 +1414,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Hapan](https://starwars.fandom.com/wiki/Hapan)
 
-![Hapan](File:SL100 Species Hapan.jpg)
+![Hapan](File:Hapans-GOI.jpg)
 
 `[sl100]`
 
@@ -1426,7 +1428,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Herglic](https://starwars.fandom.com/wiki/Herglic/Legends)
 
-![Herglic](File:SL100 Species Herglic.jpg)
+![Herglic](File:Herglic.jpg)
 
 `[sl100]`
 
@@ -1440,7 +1442,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ho'Din](https://starwars.fandom.com/wiki/Ho'Din/Legends)
 
-![Ho'Din](File:SL100 Species Ho'Din.jpg)
+![Ho'Din](File:Spero.jpg)
 
 `[sl100]`
 
@@ -1454,7 +1456,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Houk](https://starwars.fandom.com/wiki/Houk/Legends)
 
-![Houk](File:SL100 Species Houk.jpg)
+![Houk](File:Houk UAA.jpg)
 
 `[sl100]`
 
@@ -1468,7 +1470,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Hrakian](https://starwars.fandom.com/wiki/Hrakian)
 
-![Hrakian](File:SL100 Species Hrakian.jpg)
+![Hrakian](File:Hrakian.jpg)
 
 `[sl100]`
 
@@ -1482,7 +1484,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Huralok](https://starwars.fandom.com/wiki/Huralok)
 
-![Huralok](File:SL100 Species Huralok.jpg)
+![Huralok](File:Huralok.jpg)
 
 `[sl100]`
 
@@ -1496,7 +1498,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Hutt](https://starwars.fandom.com/wiki/Hutt/Legends)
 
-![Hutt](File:SL100 Species Hutt.jpg)
+![Hutt](File:Hutt-NEGAS.png)
 
 `[sl100]`
 
@@ -1510,7 +1512,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Iktotchi](https://starwars.fandom.com/wiki/Iktotchi/Legends)
 
-![Iktotchi](File:SL100 Species Iktotchi.jpg)
+![Iktotchi](File:Iktotchi-NEGAS.png)
 
 `[sl100]`
 
@@ -1524,7 +1526,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Iotran](https://starwars.fandom.com/wiki/Iotran/Legends)
 
-![Iotran](File:SL100 Species Iotran.jpg)
+![Iotran](File:Iotrangg12.jpg)
 
 `[sl100]`
 
@@ -1538,7 +1540,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ishi Tib](https://starwars.fandom.com/wiki/Ishi_Tib/Legends)
 
-![Ishi Tib](File:SL100 Species Ishi Tib.jpg)
+![Ishi Tib](File:Ishi Tib NEGAS.jpg)
 
 `[sl100]`
 
@@ -1552,7 +1554,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ithorian](https://starwars.fandom.com/wiki/Ithorian/Legends)
 
-![Ithorian](File:SL100 Species Ithorian.jpg)
+![Ithorian](File:Ithorian-EpisodeITVD.jpg)
 
 `[sl100]`
 
@@ -1566,7 +1568,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Jawa](https://starwars.fandom.com/wiki/Jawa/Legends)
 
-![Jawa](File:SL100 Species Jawa.jpg)
+![Jawa](File:Jawa SWSB.png)
 
 `[sl100]`
 
@@ -1580,7 +1582,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Jenet](https://starwars.fandom.com/wiki/Jenet/Legends)
 
-![Jenet](File:SL100 Species Jenet.jpg)
+![Jenet](File:Jenet EGAS.png)
 
 `[sl100]`
 
@@ -1594,7 +1596,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kadas'sa'Nikto](https://starwars.fandom.com/wiki/Kadas'sa'Nikto/Legends)
 
-![Kadas'sa'Nikto](File:SL100 Species Kadas'sa'Nikto.jpg)
+![Kadas'sa'Nikto](File:JoopiShe-SWCTP.png)
 
 `[sl100]`
 
@@ -1608,7 +1610,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kage](https://starwars.fandom.com/wiki/Kage/Legends)
 
-![Kage](File:SL100 Species Kage.jpg)
+![Kage](File:PlumaSodiDetail-SWE.png)
 
 `[sl100]`
 
@@ -1622,7 +1624,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kaleesh](https://starwars.fandom.com/wiki/Kaleesh/Legends)
 
-![Kaleesh](File:SL100 Species Kaleesh.jpg)
+![Kaleesh](File:Kaleesh NEGAS.jpg)
 
 `[sl100]`
 
@@ -1636,7 +1638,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kaminoan](https://starwars.fandom.com/wiki/Kaminoan/Legends)
 
-![Kaminoan](File:SL100 Species Kaminoan.jpg)
+![Kaminoan](File:KaminoanNEGAS.jpg)
 
 `[sl100]`
 
@@ -1650,7 +1652,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kerestian](https://starwars.fandom.com/wiki/Kerestian/Legends)
 
-![Kerestian](File:SL100 Species Kerestian.jpg)
+![Kerestian](File:Kerestian UAA.jpg)
 
 `[sl100]`
 
@@ -1664,7 +1666,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Keshiri](https://starwars.fandom.com/wiki/Keshiri/Legends)
 
-![Keshiri](File:SL100 Species Keshiri.jpg)
+![Keshiri](File:Keshiri full body.png)
 
 `[sl100]`
 
@@ -1678,7 +1680,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Khil](https://starwars.fandom.com/wiki/Khil)
 
-![Khil](File:SL100 Species Khil.jpg)
+![Khil](File:Khil-UAA.png)
 
 `[sl100]`
 
@@ -1692,7 +1694,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Khommite](https://starwars.fandom.com/wiki/Khommite/Legends)
 
-![Khommite](File:SL100 Species Khommite.jpg)
+![Khommite](File:Khommite2.jpg)
 
 `[sl100]`
 
@@ -1706,7 +1708,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kian'thar](https://starwars.fandom.com/wiki/Kian'thar)
 
-![Kian'thar](File:SL100 Species Kian'thar.jpg)
+![Kian'thar](File:Kianthar-UAA.jpg)
 
 `[sl100]`
 
@@ -1720,7 +1722,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kiffar](https://starwars.fandom.com/wiki/Kiffar/Legends)
 
-![Kiffar](File:SL100 Species Kiffar.jpg)
+![Kiffar](File:QuinVos cw8.jpg)
 
 `[sl100]`
 
@@ -1734,7 +1736,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kilmaulsi](https://starwars.fandom.com/wiki/Kilmaulsi)
 
-![Kilmaulsi](File:SL100 Species Kilmaulsi.jpg)
+![Kilmaulsi](File:Kilmaulsi2.jpg)
 
 `[sl100]`
 
@@ -1748,7 +1750,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kitonak](https://starwars.fandom.com/wiki/Kitonak/Legends)
 
-![Kitonak](File:SL100 Species Kitonak.jpg)
+![Kitonak](File:Kintonak NEGAS.jpg)
 
 `[sl100]`
 
@@ -1762,7 +1764,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Klatooinian](https://starwars.fandom.com/wiki/Klatooinian/Legends)
 
-![Klatooinian](File:SL100 Species Klatooinian.jpg)
+![Klatooinian](File:Klatooinian-DC.png)
 
 `[sl100]`
 
@@ -1776,7 +1778,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kobok](https://starwars.fandom.com/wiki/Kobok/Legends)
 
-![Kobok](File:SL100 Species Kobok.jpg)
+![Kobok](File:Kobok.jpg)
 
 `[sl100]`
 
@@ -1790,7 +1792,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Koorivar](https://starwars.fandom.com/wiki/Koorivar/Legends)
 
-![Koorivar](File:SL100 Species Koorivar.jpg)
+![Koorivar](File:Koorivar NEGAS.jpg)
 
 `[sl100]`
 
@@ -1804,7 +1806,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Korun](https://starwars.fandom.com/wiki/Korun/Legends)
 
-![Korun](File:SL100 Species Korun.jpg)
+![Korun](File:Shatterpoint-Scalf-ERC.jpg)
 
 `[sl100]`
 
@@ -1818,7 +1820,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Krevaaki](https://starwars.fandom.com/wiki/Krevaaki)
 
-![Krevaaki](File:SL100 Species Krevaaki.jpg)
+![Krevaaki](File:Krevaaki UAA.jpg)
 
 `[sl100]`
 
@@ -1832,7 +1834,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Krish](https://starwars.fandom.com/wiki/Krish/Legends)
 
-![Krish](File:SL100 Species Krish.jpg)
+![Krish](File:Krish-UltimateAlienAnthology.jpg)
 
 `[sl100]`
 
@@ -1846,7 +1848,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kubaz](https://starwars.fandom.com/wiki/Kubaz/Legends)
 
-![Kubaz](File:SL100 Species Kubaz.jpg)
+![Kubaz](File:Kubaz NEGAS.jpg)
 
 `[sl100]`
 
@@ -1860,7 +1862,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kushiban](https://starwars.fandom.com/wiki/Kushiban)
 
-![Kushiban](File:SL100 Species Kushiban.jpg)
+![Kushiban](File:Kushiban UAA.jpg)
 
 `[sl100]`
 
@@ -1874,7 +1876,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Kyuzo](https://starwars.fandom.com/wiki/Kyuzo/Legends)
 
-![Kyuzo](File:SL100 Species Kyuzo.jpg)
+![Kyuzo](File:Embo-SWE.png)
 
 `[sl100]`
 
@@ -1888,7 +1890,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Lannik](https://starwars.fandom.com/wiki/Lannik/Legends)
 
-![Lannik](File:SL100 Species Lannik.jpg)
+![Lannik](File:LannikPlanet-NEGAS.jpg)
 
 `[sl100]`
 
@@ -1902,7 +1904,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Lepi](https://starwars.fandom.com/wiki/Lepi/Legends)
 
-![Lepi](File:SL100 Species Lepi.jpg)
+![Lepi](File:Jaxxon2.jpg)
 
 `[sl100]`
 
@@ -1916,7 +1918,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Lorrdian](https://starwars.fandom.com/wiki/Lorrdian/Legends)
 
-![Lorrdian](File:SL100 Species Lorrdian.jpg)
+![Lorrdian](File:Nee Alavar.png)
 
 `[sl100]`
 
@@ -1930,7 +1932,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Lutrillian](https://starwars.fandom.com/wiki/Lutrillian/Legends)
 
-![Lutrillian](File:SL100 Species Lutrillian.jpg)
+![Lutrillian](File:Solomahal.jpg)
 
 `[sl100]`
 
@@ -1944,7 +1946,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Massassi](https://starwars.fandom.com/wiki/Massassi/Legends)
 
-![Massassi](File:SL100 Species Massassi.jpg)
+![Massassi](File:Massassi-SWTOR.png)
 
 `[sl100]`
 
@@ -1958,7 +1960,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Meerian](https://starwars.fandom.com/wiki/Meerian/Legends)
 
-![Meerian](File:SL100 Species Meerian.jpg)
+![Meerian](File:Meerian-UAA.png)
 
 `[sl100]`
 
@@ -1972,7 +1974,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Menahuun](https://starwars.fandom.com/wiki/Menahuun)
 
-![Menahuun](File:SL100 Species Menahuun.jpg)
+![Menahuun](File:Menahuun UAA.jpg)
 
 `[sl100]`
 
@@ -1986,7 +1988,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Mirialan](https://starwars.fandom.com/wiki/Mirialan/Legends)
 
-![Mirialan](File:SL100 Species Mirialan.jpg)
+![Mirialan](File:LuminaraProfile-DaG.png)
 
 `[sl100]`
 
@@ -2000,7 +2002,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Mon Calamari](https://starwars.fandom.com/wiki/Mon_Calamari/Legends)
 
-![Mon Calamari](File:SL100 Species Mon Calamari.jpg)
+![Mon Calamari](File:Mon Calamari NEGAS.jpg)
 
 `[sl100]`
 
@@ -2014,7 +2016,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Morseerian](https://starwars.fandom.com/wiki/Morseerian/Legends)
 
-![Morseerian](File:SL100 Species Morseerian.jpg)
+![Morseerian](File:Morseerian UAA.jpg)
 
 `[sl100]`
 
@@ -2028,7 +2030,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Mrlssi](https://starwars.fandom.com/wiki/Mrlssi)
 
-![Mrlssi](File:SL100 Species Mrlssi.jpg)
+![Mrlssi](File:Mrlssi AA.jpg)
 
 `[sl100]`
 
@@ -2042,7 +2044,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Murachaun](https://starwars.fandom.com/wiki/Murachaun)
 
-![Murachaun](File:SL100 Species Murachaun.jpg)
+![Murachaun](File:Murachaun.jpg)
 
 `[sl100]`
 
@@ -2056,7 +2058,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Mustafarian](https://starwars.fandom.com/wiki/Mustafarian/Legends)
 
-![Mustafarian](File:SL100 Species Mustafarian.jpg)
+![Mustafarian](File:Mustafarian NEGAS.jpg)
 
 `[sl100]`
 
@@ -2070,7 +2072,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Muun](https://starwars.fandom.com/wiki/Muun/Legends)
 
-![Muun](File:SL100 Species Muun.jpg)
+![Muun](File:SanHill-FF132.png)
 
 `[sl100]`
 
@@ -2084,7 +2086,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Myneyrsh](https://starwars.fandom.com/wiki/Myneyrsh)
 
-![Myneyrsh](File:SL100 Species Myneyrsh.jpg)
+![Myneyrsh](File:Myneyrshi2.jpg)
 
 `[sl100]`
 
@@ -2098,7 +2100,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Nagai](https://starwars.fandom.com/wiki/Nagai/Legends)
 
-![Nagai](File:SL100 Species Nagai.jpg)
+![Nagai](File:Nagai-G01p65.jpg)
 
 `[sl100]`
 
@@ -2112,7 +2114,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Nazzar](https://starwars.fandom.com/wiki/Nazzar/Legends)
 
-![Nazzar](File:SL100 Species Nazzar.jpg)
+![Nazzar](File:Nazzar.png)
 
 `[sl100]`
 
@@ -2126,7 +2128,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Neimoidian](https://starwars.fandom.com/wiki/Neimoidian/Legends)
 
-![Neimoidian](File:SL100 Species Neimoidian.jpg)
+![Neimoidian](File:Neimoidian NEGAS.jpg)
 
 `[sl100]`
 
@@ -2140,7 +2142,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Nelvaanian](https://starwars.fandom.com/wiki/Nelvaanian/Legends)
 
-![Nelvaanian](File:SL100 Species Nelvaanian.jpg)
+![Nelvaanian](File:Nelvaanian NEGAS.jpg)
 
 `[sl100]`
 
@@ -2154,7 +2156,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Neti](https://starwars.fandom.com/wiki/Neti/Legends)
 
-![Neti](File:SL100 Species Neti.jpg)
+![Neti](File:OodBnar-TSW5.jpg)
 
 `[sl100]`
 
@@ -2168,7 +2170,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Nikto](https://starwars.fandom.com/wiki/Nikto/Legends)
 
-![Nikto](File:SL100 Species Nikto.jpg)
+![Nikto](File:Nikto.jpg)
 
 `[sl100]`
 
@@ -2182,7 +2184,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Noehon](https://starwars.fandom.com/wiki/Noehon)
 
-![Noehon](File:SL100 Species Noehon.jpg)
+![Noehon](File:Noehon 2.jpg)
 
 `[sl100]`
 
@@ -2196,7 +2198,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Noghri](https://starwars.fandom.com/wiki/Noghri/Legends)
 
-![Noghri](File:SL100 Species Noghri.jpg)
+![Noghri](File:NoghriNEGAS.jpg)
 
 `[sl100]`
 
@@ -2210,7 +2212,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Nosaurian](https://starwars.fandom.com/wiki/Nosaurian/Legends)
 
-![Nosaurian](File:SL100 Species Nosaurian.jpg)
+![Nosaurian](File:Nosaurian NEGAS.jpg)
 
 `[sl100]`
 
@@ -2224,7 +2226,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Nuknog](https://starwars.fandom.com/wiki/Nuknog/Legends)
 
-![Nuknog](File:SL100 Species Nuknog.jpg)
+![Nuknog](File:Nuknog UAA.png)
 
 `[sl100]`
 
@@ -2238,7 +2240,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Omwati](https://starwars.fandom.com/wiki/Omwati/Legends)
 
-![Omwati](File:SL100 Species Omwati.jpg)
+![Omwati](File:Omwati.jpg)
 
 `[sl100]`
 
@@ -2252,7 +2254,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ongree](https://starwars.fandom.com/wiki/Ongree/Legends)
 
-![Ongree](File:SL100 Species Ongree.jpg)
+![Ongree](File:Ongree NEGAS.jpg)
 
 `[sl100]`
 
@@ -2266,7 +2268,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ortolan](https://starwars.fandom.com/wiki/Ortolan/Legends)
 
-![Ortolan](File:SL100 Species Ortolan.jpg)
+![Ortolan](File:Ortolan NEGAS.jpg)
 
 `[sl100]`
 
@@ -2280,7 +2282,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Pa'lowick](https://starwars.fandom.com/wiki/Pa'lowick/Legends)
 
-![Pa'lowick](File:SL100 Species Pa'lowick.jpg)
+![Pa'lowick](File:Palowick NEGAS.jpg)
 
 `[sl100]`
 
@@ -2294,7 +2296,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Pacithhip](https://starwars.fandom.com/wiki/Pacithhip/Legends)
 
-![Pacithhip](File:SL100 Species Pacithhip.jpg)
+![Pacithhip](File:Pacithhip UAA.jpg)
 
 `[sl100]`
 
@@ -2308,7 +2310,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Paigun](https://starwars.fandom.com/wiki/Paigun)
 
-![Paigun](File:SL100 Species Paigun.jpg)
+![Paigun](File:Paigun2.jpg)
 
 `[sl100]`
 
@@ -2322,7 +2324,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Pau'an](https://starwars.fandom.com/wiki/Pau'an/Legends)
 
-![Pau'an](File:SL100 Species Pau'an.jpg)
+![Pau'an](File:Pauan ROTSVD.png)
 
 `[sl100]`
 
@@ -2336,7 +2338,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Phindian](https://starwars.fandom.com/wiki/Phindian/Legends)
 
-![Phindian](File:SL100 Species Phindian.jpg)
+![Phindian](File:Phindian.jpg)
 
 `[sl100]`
 
@@ -2350,7 +2352,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Pho Ph'eahian](https://starwars.fandom.com/wiki/Pho_Ph'eahian)
 
-![Pho Ph'eahian](File:SL100 Species Pho Ph'eahian.jpg)
+![Pho Ph'eahian](File:PhoPheahian-UAA.jpg)
 
 `[sl100]`
 
@@ -2364,7 +2366,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Psadan](https://starwars.fandom.com/wiki/Psadan)
 
-![Psadan](File:SL100 Species Psadan.jpg)
+![Psadan](File:Psadan UAA.jpg)
 
 `[sl100]`
 
@@ -2378,7 +2380,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Quarren](https://starwars.fandom.com/wiki/Quarren/Legends)
 
-![Quarren](File:SL100 Species Quarren.jpg)
+![Quarren](File:Quarren AoRSR.png)
 
 `[sl100]`
 
@@ -2392,7 +2394,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Quermian](https://starwars.fandom.com/wiki/Quermian/Legends)
 
-![Quermian](File:SL100 Species Quermian.jpg)
+![Quermian](File:YaraelPoof-FF100.png)
 
 `[sl100]`
 
@@ -2406,7 +2408,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Rakata](https://starwars.fandom.com/wiki/Rakata/Legends)
 
-![Rakata](File:SL100 Species Rakata.jpg)
+![Rakata](File:Rakata kotor.jpg)
 
 `[sl100]`
 
@@ -2420,7 +2422,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ranat](https://starwars.fandom.com/wiki/Ranat/Legends)
 
-![Ranat](File:SL100 Species Ranat.jpg)
+![Ranat](File:Ranat EGAS.png)
 
 `[sl100]`
 
@@ -2434,7 +2436,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ranth](https://starwars.fandom.com/wiki/Ranth)
 
-![Ranth](File:SL100 Species Ranth.jpg)
+![Ranth](File:Ranth UAA.jpg)
 
 `[sl100]`
 
@@ -2448,7 +2450,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Rattataki](https://starwars.fandom.com/wiki/Rattataki/Legends)
 
-![Rattataki](File:SL100 Species Rattataki.jpg)
+![Rattataki](File:KaliyoDjannisFull-TOR.png)
 
 `[sl100]`
 
@@ -2462,7 +2464,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Rodian](https://starwars.fandom.com/wiki/Rodian/Legends)
 
-![Rodian](File:SL100 Species Rodian.jpg)
+![Rodian](File:Rodian NEGAS.jpg)
 
 `[sl100]`
 
@@ -2476,7 +2478,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ruurian](https://starwars.fandom.com/wiki/Ruurian/Legends)
 
-![Ruurian](File:SL100 Species Ruurian.jpg)
+![Ruurian](File:Ruurian UAA.jpg)
 
 `[sl100]`
 
@@ -2490,7 +2492,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Rybet](https://starwars.fandom.com/wiki/Rybet/Legends)
 
-![Rybet](File:SL100 Species Rybet.jpg)
+![Rybet](File:Rybet AA.jpg)
 
 `[sl100]`
 
@@ -2504,7 +2506,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ryn](https://starwars.fandom.com/wiki/Ryn/Legends)
 
-![Ryn](File:SL100 Species Ryn.jpg)
+![Ryn](File:Ryn NEGAS.jpg)
 
 `[sl100]`
 
@@ -2518,7 +2520,7 @@ Average height 2.23 – 2.54 meters
 
 ### [S'kytri](https://starwars.fandom.com/wiki/S'kytri)
 
-![S'kytri](File:SL100 Species S'kytri.jpg)
+![S'kytri](File:Skytri-Gamer1.jpg)
 
 `[sl100]`
 
@@ -2532,7 +2534,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Saheelindeeli](https://starwars.fandom.com/wiki/Saheelindeeli)
 
-![Saheelindeeli](File:SL100 Species Saheelindeeli.jpg)
+![Saheelindeeli](File:Saheelindeeli.jpg)
 
 `[sl100]`
 
@@ -2546,7 +2548,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sakiyan](https://starwars.fandom.com/wiki/Sakiyan/Legends)
 
-![Sakiyan](File:SL100 Species Sakiyan.jpg)
+![Sakiyan](File:Female Sakiyan LoNH.png)
 
 `[sl100]`
 
@@ -2560,7 +2562,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sanyassan](https://starwars.fandom.com/wiki/Sanyassan/Legends)
 
-![Sanyassan](File:SL100 Species Sanyassan.jpg)
+![Sanyassan](File:SanyassanMarauder-Chronicles.jpg)
 
 `[sl100]`
 
@@ -2574,7 +2576,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sarkan](https://starwars.fandom.com/wiki/Sarkan/Legends)
 
-![Sarkan](File:SL100 Species Sarkan.jpg)
+![Sarkan](File:Sarkan UAA.jpg)
 
 `[sl100]`
 
@@ -2588,7 +2590,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Saurin](https://starwars.fandom.com/wiki/Saurin/Legends)
 
-![Saurin](File:SL100 Species Saurin.jpg)
+![Saurin](File:Gauronnastal.jpg)
 
 `[sl100]`
 
@@ -2602,7 +2604,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Selkath](https://starwars.fandom.com/wiki/Selkath/Legends)
 
-![Selkath](File:SL100 Species Selkath.jpg)
+![Selkath](File:Selkath KotOR.png)
 
 `[sl100]`
 
@@ -2616,7 +2618,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Selonian](https://starwars.fandom.com/wiki/Selonian/Legends)
 
-![Selonian](File:SL100 Species Selonian.jpg)
+![Selonian](File:Selonian AA.jpg)
 
 `[sl100]`
 
@@ -2630,7 +2632,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sephi](https://starwars.fandom.com/wiki/Sephi/Legends)
 
-![Sephi](File:SL100 Species Sephi.jpg)
+![Sephi](File:Alaric the Sephi.jpg)
 
 `[sl100]`
 
@@ -2644,7 +2646,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Shi'ido](https://starwars.fandom.com/wiki/Shi'ido)
 
-![Shi'ido](File:SL100 Species Shi'ido.jpg)
+![Shi'ido](File:Shiido-UAA.jpg)
 
 `[sl100]`
 
@@ -2658,7 +2660,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Shistavanen](https://starwars.fandom.com/wiki/Shistavanen/Legends)
 
-![Shistavanen](File:SL100 Species Shistavanen.jpg)
+![Shistavanen](File:Shistavanen NEGAS.jpg)
 
 `[sl100]`
 
@@ -2672,7 +2674,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sith](https://starwars.fandom.com/wiki/Sith/Legends)
 
-![Sith](File:SL100 Species Sith.jpg)
+![Sith](File:Sith Emblem.svg)
 
 `[sl100]`
 
@@ -2686,7 +2688,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Skakoan](https://starwars.fandom.com/wiki/Skakoan/Legends)
 
-![Skakoan](File:SL100 Species Skakoan.jpg)
+![Skakoan](File:Skakoan2.jpg)
 
 `[sl100]`
 
@@ -2700,7 +2702,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Skrilling](https://starwars.fandom.com/wiki/Skrilling/Legends)
 
-![Skrilling](File:SL100 Species Skrilling.jpg)
+![Skrilling](File:Skr.jpg)
 
 `[sl100]`
 
@@ -2714,7 +2716,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sluissi](https://starwars.fandom.com/wiki/Sluissi)
 
-![Sluissi](File:SL100 Species Sluissi.jpg)
+![Sluissi](File:Sluissi AA.jpg)
 
 `[sl100]`
 
@@ -2728,7 +2730,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Snivvian](https://starwars.fandom.com/wiki/Snivvian/Legends)
 
-![Snivvian](File:SL100 Species Snivvian.jpg)
+![Snivvian](File:SinrichDetail-SWE.png)
 
 `[sl100]`
 
@@ -2742,7 +2744,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Spiner](https://starwars.fandom.com/wiki/Spiner)
 
-![Spiner](File:SL100 Species Spiner.jpg)
+![Spiner](File:Spiner1.jpg)
 
 `[sl100]`
 
@@ -2756,7 +2758,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Squalris](https://starwars.fandom.com/wiki/Squalris)
 
-![Squalris](File:SL100 Species Squalris.jpg)
+![Squalris](File:Squalris2.jpg)
 
 `[sl100]`
 
@@ -2770,7 +2772,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Squib](https://starwars.fandom.com/wiki/Squib/Legends)
 
-![Squib](File:SL100 Species Squib.jpg)
+![Squib](File:Databank Squib colored.jpg)
 
 `[sl100]`
 
@@ -2784,7 +2786,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ssi-ruu](https://starwars.fandom.com/wiki/Ssi-ruu)
 
-![Ssi-ruu](File:SL100 Species Ssi-ruu.jpg)
+![Ssi-ruu](File:SsiruuNEGAS.jpg)
 
 `[sl100]`
 
@@ -2798,7 +2800,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Sullustan](https://starwars.fandom.com/wiki/Sullustan/Legends)
 
-![Sullustan](File:SL100 Species Sullustan.jpg)
+![Sullustan](File:Sullustan NEGAS.jpg)
 
 `[sl100]`
 
@@ -2812,7 +2814,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Svivreni](https://starwars.fandom.com/wiki/Svivreni)
 
-![Svivreni](File:SL100 Species Svivreni.jpg)
+![Svivreni](File:KitalicNirasik-GatORW.jpg)
 
 `[sl100]`
 
@@ -2826,7 +2828,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Swokes Swokes](https://starwars.fandom.com/wiki/Swokes_Swokes/Legends)
 
-![Swokes Swokes](File:SL100 Species Swokes Swokes.jpg)
+![Swokes Swokes](File:Swokes Swokes gorg farmer.png)
 
 `[sl100]`
 
@@ -2840,7 +2842,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Talz](https://starwars.fandom.com/wiki/Talz/Legends)
 
-![Talz](File:SL100 Species Talz.jpg)
+![Talz](File:Talz NEGAS.jpg)
 
 `[sl100]`
 
@@ -2854,7 +2856,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tarasin](https://starwars.fandom.com/wiki/Tarasin)
 
-![Tarasin](File:SL100 Species Tarasin.jpg)
+![Tarasin](File:Tarasin.jpg)
 
 `[sl100]`
 
@@ -2868,7 +2870,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tarro](https://starwars.fandom.com/wiki/Tarro)
 
-![Tarro](File:SL100 Species Tarro.jpg)
+![Tarro](File:Tarro12.jpg)
 
 `[sl100]`
 
@@ -2882,7 +2884,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Temolak](https://starwars.fandom.com/wiki/Temolak)
 
-![Temolak](File:SL100 Species Temolak.jpg)
+![Temolak](File:Temolak.jpg)
 
 `[sl100]`
 
@@ -2896,7 +2898,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Thakwaash](https://starwars.fandom.com/wiki/Thakwaash)
 
-![Thakwaash](File:SL100 Species Thakwaash.jpg)
+![Thakwaash](File:Thakwaash-GAW.jpg)
 
 `[sl100]`
 
@@ -2910,7 +2912,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Theelin](https://starwars.fandom.com/wiki/Theelin/Legends)
 
-![Theelin](File:SL100 Species Theelin.jpg)
+![Theelin](File:Latts Razzi SWCT.png)
 
 `[sl100]`
 
@@ -2924,7 +2926,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Thisspiasian](https://starwars.fandom.com/wiki/Thisspiasian/Legends)
 
-![Thisspiasian](File:SL100 Species Thisspiasian.jpg)
+![Thisspiasian](File:Thisspiasian-NEGAS.png)
 
 `[sl100]`
 
@@ -2938,7 +2940,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tholothian](https://starwars.fandom.com/wiki/Tholothian/Legends)
 
-![Tholothian](File:SL100 Species Tholothian.jpg)
+![Tholothian](File:AdiGallia-CEUE.png)
 
 `[sl100]`
 
@@ -2952,7 +2954,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tiss'shar](https://starwars.fandom.com/wiki/Tiss'shar/Legends)
 
-![Tiss'shar](File:SL100 Species Tiss'shar.jpg)
+![Tiss'shar](File:UulRhaShanHS.jpg)
 
 `[sl100]`
 
@@ -2966,7 +2968,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Togorian](https://starwars.fandom.com/wiki/Togorian/Legends)
 
-![Togorian](File:SL100 Species Togorian.jpg)
+![Togorian](File:Togorian.jpg)
 
 `[sl100]`
 
@@ -2980,7 +2982,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Toong](https://starwars.fandom.com/wiki/Toong/Legends)
 
-![Toong](File:SL100 Species Toong.jpg)
+![Toong](File:BenQuadinarosFull-SWE.png)
 
 `[sl100]`
 
@@ -2994,7 +2996,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Toydarian](https://starwars.fandom.com/wiki/Toydarian/Legends)
 
-![Toydarian](File:SL100 Species Toydarian.jpg)
+![Toydarian](File:Watto-Hasbro.png)
 
 `[sl100]`
 
@@ -3008,7 +3010,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Trianii](https://starwars.fandom.com/wiki/Trianii/Legends)
 
-![Trianii](File:SL100 Species Trianii.jpg)
+![Trianii](File:Trianii-UltimateAlienAnthology.jpg)
 
 `[sl100]`
 
@@ -3022,7 +3024,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tunroth](https://starwars.fandom.com/wiki/Tunroth)
 
-![Tunroth](File:SL100 Species Tunroth.jpg)
+![Tunroth](File:Tunroth.jpg)
 
 `[sl100]`
 
@@ -3036,7 +3038,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tusken Raider](https://starwars.fandom.com/wiki/Tusken_Raider/Legends)
 
-![Tusken Raider](File:SL100 Species Tusken Raider.jpg)
+![Tusken Raider](File:TuskenRaider-Chron.png)
 
 `[sl100]`
 
@@ -3050,7 +3052,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Tynnan](https://starwars.fandom.com/wiki/Tynnan/Legends)
 
-![Tynnan](File:SL100 Species Tynnan.jpg)
+![Tynnan](File:Tyn.jpg)
 
 `[sl100]`
 
@@ -3064,7 +3066,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ubese](https://starwars.fandom.com/wiki/Ubese/Legends)
 
-![Ubese](File:SL100 Species Ubese.jpg)
+![Ubese](File:LiashKeane-SaV.png)
 
 `[sl100]`
 
@@ -3078,7 +3080,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Ugnaught](https://starwars.fandom.com/wiki/Ugnaught/Legends)
 
-![Ugnaught](File:SL100 Species Ugnaught.jpg)
+![Ugnaught](File:Ugnaught NEGAS.jpg)
 
 `[sl100]`
 
@@ -3092,7 +3094,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Umbaran](https://starwars.fandom.com/wiki/Umbaran/Legends)
 
-![Umbaran](File:SL100 Species Umbaran.jpg)
+![Umbaran](File:Umbaran NEGAS.jpg)
 
 `[sl100]`
 
@@ -3106,7 +3108,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Utai](https://starwars.fandom.com/wiki/Utai/Legends)
 
-![Utai](File:SL100 Species Utai.jpg)
+![Utai](File:Utai-SWCTP.png)
 
 `[sl100]`
 
@@ -3120,7 +3122,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Verpine](https://starwars.fandom.com/wiki/Verpine/Legends)
 
-![Verpine](File:SL100 Species Verpine.jpg)
+![Verpine](File:Verpine AoRSR.png)
 
 `[sl100]`
 
@@ -3134,7 +3136,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Vodran](https://starwars.fandom.com/wiki/Vodran/Legends)
 
-![Vodran](File:SL100 Species Vodran.jpg)
+![Vodran](File:Vodran-LoNH.png)
 
 `[sl100]`
 
@@ -3148,7 +3150,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Vor](https://starwars.fandom.com/wiki/Vor)
 
-![Vor](File:SL100 Species Vor.jpg)
+![Vor](File:Aerobat.png)
 
 `[sl100]`
 
@@ -3162,7 +3164,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Vorzydiak](https://starwars.fandom.com/wiki/Vorzydiak)
 
-![Vorzydiak](File:SL100 Species Vorzydiak.jpg)
+![Vorzydiak](File:Vorzydiak UAA.jpg)
 
 `[sl100]`
 
@@ -3176,7 +3178,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Voss](https://starwars.fandom.com/wiki/Voss)
 
-![Voss](File:SL100 Species Voss.jpg)
+![Voss](File:Voss TOR new.png)
 
 `[sl100]`
 
@@ -3190,7 +3192,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Vratix](https://starwars.fandom.com/wiki/Vratix/Legends)
 
-![Vratix](File:SL100 Species Vratix.jpg)
+![Vratix](File:Vratix UAA.jpg)
 
 `[sl100]`
 
@@ -3204,7 +3206,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Vurk](https://starwars.fandom.com/wiki/Vurk/Legends)
 
-![Vurk](File:SL100 Species Vurk.jpg)
+![Vurk](File:SweittConcorkill-SS.png)
 
 `[sl100]`
 
@@ -3218,7 +3220,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Vuvrian](https://starwars.fandom.com/wiki/Vuvrian/Legends)
 
-![Vuvrian](File:SL100 Species Vuvrian.jpg)
+![Vuvrian](File:Vuvrian UAA.jpg)
 
 `[sl100]`
 
@@ -3232,7 +3234,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Whiphid](https://starwars.fandom.com/wiki/Whiphid/Legends)
 
-![Whiphid](File:SL100 Species Whiphid.jpg)
+![Whiphid](File:Whiphid NEGAS2.jpg)
 
 `[sl100]`
 
@@ -3246,7 +3248,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Woostoid](https://starwars.fandom.com/wiki/Woostoid)
 
-![Woostoid](File:SL100 Species Woostoid.jpg)
+![Woostoid](File:Woostoids.jpg)
 
 `[sl100]`
 
@@ -3260,7 +3262,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Wroonian](https://starwars.fandom.com/wiki/Wroonian/Legends)
 
-![Wroonian](File:SL100 Species Wroonian.jpg)
+![Wroonian](File:Azoora.jpg)
 
 `[sl100]`
 
@@ -3274,7 +3276,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Xexto](https://starwars.fandom.com/wiki/Xexto/Legends)
 
-![Xexto](File:SL100 Species Xexto.jpg)
+![Xexto](File:Gasgano-USW.png)
 
 `[sl100]`
 
@@ -3288,7 +3290,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Yarkora](https://starwars.fandom.com/wiki/Yarkora/Legends)
 
-![Yarkora](File:SL100 Species Yarkora.jpg)
+![Yarkora](File:Yarkora NEGAS.jpg)
 
 `[sl100]`
 
@@ -3302,7 +3304,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Yevetha](https://starwars.fandom.com/wiki/Yevetha)
 
-![Yevetha](File:SL100 Species Yevetha.jpg)
+![Yevetha](File:Yevetha NEGAS.jpg)
 
 `[sl100]`
 
@@ -3316,7 +3318,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Yinchorri](https://starwars.fandom.com/wiki/Yinchorri/Legends)
 
-![Yinchorri](File:SL100 Species Yinchorri.jpg)
+![Yinchorri](File:Yinchorri.png)
 
 `[sl100]`
 
@@ -3330,7 +3332,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Yuuzhan Vong](https://starwars.fandom.com/wiki/Yuuzhan_Vong)
 
-![Yuuzhan Vong](File:SL100 Species Yuuzhan Vong.jpg)
+![Yuuzhan Vong](File:YuuzhanVong NEGAS.jpg)
 
 `[sl100]`
 
@@ -3344,7 +3346,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Yuzzem](https://starwars.fandom.com/wiki/Yuzzem)
 
-![Yuzzem](File:SL100 Species Yuzzem.jpg)
+![Yuzzem](File:Yuzzem-GAW.jpg)
 
 `[sl100]`
 
@@ -3358,7 +3360,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Yuzzum](https://starwars.fandom.com/wiki/Yuzzum/Legends)
 
-![Yuzzum](File:SL100 Species Yuzzum.jpg)
+![Yuzzum](File:WamLufba-PhotoMasher.png)
 
 `[sl100]`
 
@@ -3372,7 +3374,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Zeltron](https://starwars.fandom.com/wiki/Zeltron/Legends)
 
-![Zeltron](File:SL100 Species Zeltron.jpg)
+![Zeltron](File:Zeltron.jpg)
 
 `[sl100]`
 
@@ -3386,7 +3388,7 @@ Average height 2.23 – 2.54 meters
 
 ### [Zygerrian](https://starwars.fandom.com/wiki/Zygerrian/Legends)
 
-![Zygerrian](File:SL100 Species Zygerrian.jpg)
+![Zygerrian](File:Zygerrians-SWE.png)
 
 `[sl100]`
 

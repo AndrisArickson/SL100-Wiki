@@ -11,8 +11,8 @@
 
 A saved file is matched to its wiki image by file name (spaces, underscores, case and extension don't matter,
 so "Arkanians_DoH.png", "Arkanians DoH.webp" and "arkanians_doh.jpg" all match "Arkanians DoH.png").
-A file named after a species ("Arkanian.png", "KelDor.jpg") becomes the species portrait "SL100 Species <Name>.jpg"
-and also fills the species' Legends article picture while that is still blank. Unmatched files are listed and left in place.
+A file named after a species ("Arkanian.png", "KelDor.jpg") replaces that species' Legends article picture, which is
+also the picture SL100:Species shows (a copy is kept as "SL100 Species <Name>.jpg"). Unmatched files are listed and left in place.
 Writes data/wiki.db: run when no other image job is running."""
 import html
 import re
@@ -126,7 +126,7 @@ def put(con, name, bucket, data, licence=None, flag="hand-downloaded"):
 
 def cmd_ingest():
     """A file named after a species (Arkanian.jpg, KelDor.jpg, Twilek.jpg) becomes that species' portrait,
-    'SL100 Species <Name>.jpg', and also fills the species' Legends article picture if that is still blank.
+    'SL100 Species <Name>.jpg', and replaces the species' Legends article picture, which is what SL100:Species shows.
     Any other file is matched to the Wookieepedia image of the same name."""
     con = I.db()
     if not SPECIES_TSV.exists():
@@ -150,11 +150,9 @@ def cmd_ingest():
                 sname, sfile, sbucket = sp
                 put(con, portrait_name(sname), "fair", data, licence="Fair use (Wookieepedia image picked for the species portrait)")
                 msg = "species portrait %s" % sname
-                if sfile:
-                    st = con.execute("SELECT status FROM imglic WHERE name=?", (sfile,)).fetchone()
-                    if st and st[0] != "ok":
-                        put(con, sfile, sbucket, data, flag="hand-picked substitute")
-                        msg += " + article picture " + sfile
+                if sfile:                      # SL100:Species shows the article picture, so the two always match
+                    put(con, sfile, sbucket, data, flag="hand-picked for the species")
+                    msg += " + article picture " + sfile
             else:
                 name = by_norm.get(norm(p.name))
                 if not name:
