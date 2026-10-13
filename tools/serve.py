@@ -35,9 +35,22 @@ def load_index():
     con.close()
 
 
+def img_version(name):
+    """Last-modified time of the file /img/<name> will serve, so a replaced picture gets a new URL and no browser
+    keeps showing the old one from its cache."""
+    rel = placeholders.placeholder_relpath(name)
+    for real in (FULL_IMG_DIR / rel.replace(".webp", ""), FULL_IMG_DIR / rel, ROOT / "images" / "local" / rel):
+        try:
+            return int(real.stat().st_mtime)
+        except OSError:
+            continue
+    return 0
+
+
 def img_info(name):
     w, h = DIMS.get(name, (None, None))
-    return "/img/" + urllib.parse.quote(name), w, h
+    v = img_version(name)
+    return "/img/" + urllib.parse.quote(name) + ("?v=%d" % v if v else ""), w, h
 
 
 def esc(s):
@@ -512,10 +525,10 @@ class H(BaseHTTPRequestHandler):
                             (ROOT / "images" / "local" / rel, "image/webp")):      # hand-placed file, free WebP, local-only WebP
             if real.is_file():
                 return self.send(real.read_bytes(), 200, ctype or mimetypes.guess_type(str(real))[0] or "image/jpeg",
-                                 {"Cache-Control": "max-age=3600"})
+                                 {"Cache-Control": "no-cache"})
         w, h = DIMS.get(name, (None, None))
         p = placeholders.ensure_placeholder(name, w, h)
-        self.send(p.read_bytes(), 200, "image/webp", {"Cache-Control": "max-age=3600"})
+        self.send(p.read_bytes(), 200, "image/webp", {"Cache-Control": "no-cache"})
 
 
 def main():
