@@ -5,184 +5,188 @@ Acute Sense (Sense),,Initiative Bonus,11
 Alley Cat,,Initiative Bonus,12
 Ambidextrous,,2,13
 Amphibious,,1,14
-Argumentative,,Fellowship Bonus,15
-Artistic,,Dexterity Bonus,16
-Attractive,,Fellowship Bonus,17
-Battle Rage,,Willpower Bonus,18
-Beat Blade,,Weapon Skill Bonus,19
-Beneath Notice,,Fellowship Bonus,20
-Berserk Charge,,Strength Bonus,21
-Blather,,Fellowship Bonus,22
-Blood Feud,,None,23
-Bookish,,Intelligence Bonus,24
-Break and Enter,,Strength Bonus,25
-Briber,,Fellowship Bonus,26
-Cardsharp,,Intelligence Bonus,27
-Careful Strike,,Initiative Bonus,28
-Carouser,,Toughness Bonus,29
-Cat-tongued,,Fellowship Bonus,30
-Catfall,,Agility Bonus,31
-Clan Markings,,1,32
-Combat Aware,,Initiative Bonus,33
-Combat Master,,Agility Bonus,34
-Combat Reflexes,,Initiative Bonus,35
-Commanding Presence,,Fellowship Bonus,36
-Concoct,,Intelligence Bonus,37
-Contortionist,,Agility Bonus,38
-Coolheaded,,1,39
-Crack the Whip,,Dexterity Bonus,40
-Craftsman (Profession),,Dexterity Bonus,41
-Creature Affinity,,Willpower Bonus,42
-Criminal,,None,43
-Datapad Use,,1,44
-Deadeye Shot,,1,45
-Dealmaker,,Fellowship Bonus,46
-Diceman,,Intelligence Bonus,47
-Dirty Fighting,,Weapon Skill Bonus,48
-Disarm,,Initiative Bonus,49
-Distract,,Agility Bonus,50
-Drilled,,Weapon Skill Bonus,51
-Droid Companion,,3,52
-Dual Wielder,,Agility Bonus,53
-Duct Crawler,,Initiative Bonus,54
-Eidetic Memory,,Intelligence Bonus,55
-Embezzle,,Intelligence Bonus,56
-Enclosed Fighter,,Agility Bonus,57
-Etiquette (Social Group),,Fellowship Bonus,58
-Fast Hands,,Dexterity Bonus,59
-Fast Shot,,Agility Bonus,60
-Fearless (Enemy),,Willpower Bonus,61
-Feint,,Weapon Skill Bonus,62
-Field Dressing,,Intelligence Bonus,63
-Field Medic,,Intelligence Bonus,64
-First Strike,,Initiative Bonus,65
-Flee!,,Agility Bonus,66
-Fleet Footed,,1,67
-Frenzy,,1,68
-Frightening,,Strength Bonus,69
-Furious Assault,,Agility Bonus,70
-Gregarious,,Fellowship Bonus,71
-Gunnery Chief,,Initiative Bonus,72
-Hardy,,Toughness Bonus,73
-Hatred (Group),,Willpower Bonus,74
-Heavy Gunner,,Dexterity Bonus,75
-Heirloom Weapon,,1,76
-Hunter's Eye,,Initiative Bonus,77
-Hyperlane Pilot,,Initiative Bonus,78
-Impassioned Zeal,,Fellowship Bonus,79
-Implacable,,Toughness Bonus,80
-In-fighter,,Dexterity Bonus,81
-Inspiring,,Fellowship Bonus,82
-Iron Jaw,,Toughness Bonus,83
-Iron Will,,Willpower Bonus,84
-Jump Up,,1,85
-Kingpin,,1,86
-Lightning Reflexes,,1,87
-Linguistics,,Intelligence Bonus,88
-Lip Reading,,Initiative Bonus,89
-Luck,,Fellowship Bonus,90
-Magnum Opus,,None,91
-Marksman,,1,92
-Martial Artist,,Weapon Skill Bonus,93
-Master (Profession),,Dexterity Bonus,94
-Master of Disguise,,Fellowship Bonus,95
-Master Orator,,Fellowship Bonus,96
-Menacing,,Strength Bonus,97
-Mercenary,,Fellowship Bonus,98
-Mimic,,Initiative Bonus,99
-Night Vision,,Initiative Bonus,100
-Nimble Fingered,,1,101
-Noble Blood (Galactic Aristocracy),,1,102
-Nose for Trouble,,Initiative Bonus,103
-Numismatics,,Initiative Bonus,104
-Orientation,,Initiative Bonus,105
-Pain-Sworn,,Toughness Bonus,106
-Panhandle,,Fellowship Bonus,107
-Perfect Pitch,,Initiative Bonus,108
-Pilot,,Initiative Bonus,109
-Public Speaker,,Fellowship Bonus,110
-Quick Draw,,Initiative Bonus,111
-Rapid Reload,,Dexterity Bonus,112
-Reaction Strike,,Initiative Bonus,113
-Regeneration (Minor),,1,114
-Relentless,,Agility Bonus,115
-Resistance (Threat),,Toughness Bonus,116
-Resolute,,Strength Bonus,117
-Reversal,,Weapon Skill Bonus,118
-Riposte,,Agility Bonus,119
-Robust,,Toughness Bonus,120
-Roughrider,,Agility Bonus,121
-Rover,,Agility Bonus,122
-Savant (Lore),,Intelligence Bonus,123
-Savvy,,1,124
-Scale Sheer Surface,,Strength Bonus,125
-Scavenger,,Initiative Bonus,126
-Schemer,,Intelligence Bonus,127
-Seasoned Traveller,,Intelligence Bonus,128
-Secret Identity,,Intelligence Bonus,129
-Shadow,,Agility Bonus,130
-Sharp,,1,131
-Sharpshooter,,1,132
-Shieldsman,,Strength Bonus,133
-Sixth Sense,,Initiative Bonus,134
-Slayer,,1,135
-Small,,1,136
-Sniper,,4,137
-Spacer,,Agility Bonus,138
-Speedreader,,Intelligence Bonus,139
-Sprinter,,Strength Bonus,140
-Step Aside,,Agility Bonus,141
-Stone Soup,,Toughness Bonus,142
-Stout-Hearted,,Willpower Bonus,143
-Strider,,Agility Bonus,144
-Strike Mighty Blow,,Strength Bonus,145
-Strike to Injure,,Initiative Bonus,146
-Strike to Stun,,Weapon Skill Bonus,147
-Strong Back,,Strength Bonus,148
-Strong Legs,,Strength Bonus,149
-Strong Swimmer,,Strength Bonus,150
-Strong-Minded,,Willpower Bonus,151
-Sturdy,,Strength Bonus,152
-Suave,,1,153
-Super Numerate,,Intelligence Bonus,154
-Supportive,,Fellowship Bonus,155
-Sure Shot,,Initiative Bonus,156
-Surgery,,Intelligence Bonus,157
-Surgical Precision,,Intelligence Bonus,158
-Tactician,,Intelligence Bonus,159
-Tenacious,,Toughness Bonus,160
-Tinker,,Dexterity Bonus,161
-Trapper,,Initiative Bonus,162
-Trick Riding,,Agility Bonus,163
-Unshakeable,,Toughness Bonus,164
-Vacuum Legs,,Toughness Bonus,165
-Very Resilient,,1,166
-Very Strong,,1,167
-Vice (Target),,Willpower Bonus,168
-War Leader,,Fellowship Bonus,169
-Warrior Born,,1,170
-Wealthy,,None,171
-Well-Prepared,,Initiative Bonus,172
-Force Sensitive (Tradition),,1,178
-Force Sense (Discipline),,Initiative Bonus,179
-Force Control (Discipline),,Willpower Bonus,180
-Force Alter (Discipline),,Fellowship Bonus,181
-Force Specialty,,None,182
-Tradition Adept,,1,183
-Force Sight,,Initiative Bonus,184
-Force Visions,,Initiative Bonus,185
-Detect Force Artefact,,Initiative Bonus,186
-Force Fury,,Fellowship Bonus,187
-Pure Soul,,Willpower Bonus,188
-Foretold,,1,189
-Force Resistance,,1,190
-Armoured Adept,,Toughness Bonus,191
-Code (Tradition),,1,192
-Wild Talent,,1,193
-Force Sorcery (Tradition),,1,194
-Dark Side Sorcery,,Number of spells available,195
-Minor Sorcery,,1,196
-Force Attunement,,Initiative Bonus,197
-Fluent Incantation,,Initiative Bonus,198
-Sense Sorcery,,Initiative Bonus,199
-Ritual Ward,,Willpower Bonus,200
+Animal Companion,,1,15
+Argumentative,,Fellowship Bonus,16
+Artistic,,Dexterity Bonus,17
+Attractive,,Fellowship Bonus,18
+Battle Rage,,Willpower Bonus,19
+Beat Blade,,Weapon Skill Bonus,20
+Beneath Notice,,Fellowship Bonus,21
+Berserk Charge,,Strength Bonus,22
+Blather,,Fellowship Bonus,23
+Blood Feud,,None,24
+Bookish,,Intelligence Bonus,25
+Break and Enter,,Strength Bonus,26
+Briber,,Fellowship Bonus,27
+Cadence,,Intelligence Bonus,28
+Captain's Word,,Fellowship Bonus,29
+Cardsharp,,Intelligence Bonus,30
+Careful Strike,,Initiative Bonus,31
+Carouser,,Toughness Bonus,32
+Cat-tongued,,Fellowship Bonus,33
+Catfall,,Agility Bonus,34
+Clan Markings,,1,35
+Combat Aware,,Initiative Bonus,36
+Combat Master,,Agility Bonus,37
+Combat Reflexes,,Initiative Bonus,38
+Commanding Presence,,Fellowship Bonus,39
+Concoct,,Intelligence Bonus,40
+Contortionist,,Agility Bonus,41
+Coolheaded,,1,42
+Crack the Whip,,Dexterity Bonus,43
+Craftsman (Profession),,Dexterity Bonus,44
+Creature Affinity,,Willpower Bonus,45
+Criminal,,None,46
+Datapad Use,,1,47
+Deadeye Shot,,1,48
+Dealmaker,,Fellowship Bonus,49
+Diceman,,Intelligence Bonus,50
+Dirty Fighting,,Weapon Skill Bonus,51
+Disarm,,Initiative Bonus,52
+Distract,,Agility Bonus,53
+Drilled,,Weapon Skill Bonus,54
+Droid Companion,,3,55
+Dual Wielder,,Agility Bonus,56
+Duct Crawler,,Initiative Bonus,57
+Eidetic Memory,,Intelligence Bonus,58
+Embezzle,,Intelligence Bonus,59
+Enclosed Fighter,,Agility Bonus,60
+Etiquette (Social Group),,Fellowship Bonus,61
+Fast Hands,,Dexterity Bonus,62
+Fast Shot,,Agility Bonus,63
+Fearless (Enemy),,Willpower Bonus,64
+Feint,,Weapon Skill Bonus,65
+Field Dressing,,Intelligence Bonus,66
+Field Medic,,Intelligence Bonus,67
+First Strike,,Initiative Bonus,68
+Flee!,,Agility Bonus,69
+Fleet Footed,,1,70
+Frenzy,,1,71
+Frightening,,Strength Bonus,72
+Furious Assault,,Agility Bonus,73
+Gregarious,,Fellowship Bonus,74
+Gunnery Chief,,Initiative Bonus,75
+Hardy,,Toughness Bonus,76
+Hatred (Group),,Willpower Bonus,77
+Heavy Gunner,,Dexterity Bonus,78
+Heirloom Weapon,,1,79
+Hunter's Eye,,Initiative Bonus,80
+Hyperlane Pilot,,Initiative Bonus,81
+Impassioned Zeal,,Fellowship Bonus,82
+Implacable,,Toughness Bonus,83
+In-fighter,,Dexterity Bonus,84
+Inspiring,,Fellowship Bonus,85
+Iron Jaw,,Toughness Bonus,86
+Iron Will,,Willpower Bonus,87
+Jump Up,,1,88
+Kingpin,,1,89
+Large,,1,90
+Lightning Reflexes,,1,91
+Linguistics,,Intelligence Bonus,92
+Lip Reading,,Initiative Bonus,93
+Luck,,Fellowship Bonus,94
+Magnum Opus,,None,95
+Marksman,,1,96
+Martial Artist,,Weapon Skill Bonus,97
+Master (Profession),,Dexterity Bonus,98
+Master of Disguise,,Fellowship Bonus,99
+Master Orator,,Fellowship Bonus,100
+Menacing,,Strength Bonus,101
+Mercenary,,Fellowship Bonus,102
+Mimic,,Initiative Bonus,103
+Night Vision,,Initiative Bonus,104
+Nimble Fingered,,1,105
+Noble Blood (Galactic Aristocracy),,1,106
+Nose for Trouble,,Initiative Bonus,107
+Numismatics,,Initiative Bonus,108
+Orientation,,Initiative Bonus,109
+Pain-Sworn,,Toughness Bonus,110
+Panhandle,,Fellowship Bonus,111
+Perfect Pitch,,Initiative Bonus,112
+Pilot,,Initiative Bonus,113
+Public Speaker,,Fellowship Bonus,114
+Quick Draw,,Initiative Bonus,115
+Rapid Reload,,Dexterity Bonus,116
+Reaction Strike,,Initiative Bonus,117
+Regeneration (Minor),,1,118
+Relentless,,Agility Bonus,119
+Resistance (Threat),,Toughness Bonus,120
+Resolute,,Strength Bonus,121
+Reversal,,Weapon Skill Bonus,122
+Riposte,,Agility Bonus,123
+Robust,,Toughness Bonus,124
+Roughrider,,Agility Bonus,125
+Rover,,Agility Bonus,126
+Savant (Lore),,Intelligence Bonus,127
+Savvy,,1,128
+Scale Sheer Surface,,Strength Bonus,129
+Scavenger,,Initiative Bonus,130
+Schemer,,Intelligence Bonus,131
+Seasoned Traveller,,Intelligence Bonus,132
+Secret Identity,,Intelligence Bonus,133
+Shadow,,Agility Bonus,134
+Sharp,,1,135
+Sharpshooter,,1,136
+Shieldsman,,Strength Bonus,137
+Sixth Sense,,Initiative Bonus,138
+Slayer,,1,139
+Small,,1,140
+Sniper,,4,141
+Spacer,,Agility Bonus,142
+Speedreader,,Intelligence Bonus,143
+Sprinter,,Strength Bonus,144
+Step Aside,,Agility Bonus,145
+Stone Soup,,Toughness Bonus,146
+Stout-Hearted,,Willpower Bonus,147
+Strider,,Agility Bonus,148
+Strike Mighty Blow,,Strength Bonus,149
+Strike to Injure,,Initiative Bonus,150
+Strike to Stun,,Weapon Skill Bonus,151
+Strong Back,,Strength Bonus,152
+Strong Legs,,Strength Bonus,153
+Strong Swimmer,,Strength Bonus,154
+Strong-Minded,,Willpower Bonus,155
+Sturdy,,Strength Bonus,156
+Suave,,1,157
+Super Numerate,,Intelligence Bonus,158
+Supportive,,Fellowship Bonus,159
+Sure Shot,,Initiative Bonus,160
+Surgery,,Intelligence Bonus,161
+Surgical Precision,,Intelligence Bonus,162
+Tactician,,Intelligence Bonus,163
+Tenacious,,Toughness Bonus,164
+Tinker,,Dexterity Bonus,165
+Trapper,,Initiative Bonus,166
+Trick Riding,,Agility Bonus,167
+Unshakeable,,Toughness Bonus,168
+Vacuum Legs,,Toughness Bonus,169
+Very Resilient,,1,170
+Very Strong,,1,171
+Vice (Target),,Willpower Bonus,172
+War Leader,,Fellowship Bonus,173
+Warrior Born,,1,174
+Wealthy,,None,175
+Well-Prepared,,Initiative Bonus,176
+Force Sensitive (Tradition),,1,182
+Force Sense (Discipline),,Initiative Bonus,183
+Force Control (Discipline),,Willpower Bonus,184
+Force Alter (Discipline),,Fellowship Bonus,185
+Force Specialty,,None,186
+Tradition Adept,,1,187
+Force Sight,,Initiative Bonus,188
+Force Visions,,Initiative Bonus,189
+Detect Force Artefact,,Initiative Bonus,190
+Force Fury,,Fellowship Bonus,191
+Pure Soul,,Willpower Bonus,192
+Foretold,,1,193
+Force Resistance,,1,194
+Armoured Adept,,Toughness Bonus,195
+Code (Tradition),,1,196
+Wild Talent,,1,197
+Force Sorcery (Tradition),,1,198
+Dark Side Sorcery,,Number of spells available,199
+Minor Sorcery,,1,200
+Force Attunement,,Initiative Bonus,201
+Fluent Incantation,,Initiative Bonus,202
+Sense Sorcery,,Initiative Bonus,203
+Ritual Ward,,Willpower Bonus,204

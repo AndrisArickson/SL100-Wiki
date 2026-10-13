@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PAGES = [
     ("SL100:Characteristics", ["01 New Star Wars - Introduction & Characteristics.md"], "Revised draft (12 Oct): ten characteristics, creation steps, Wounds, Movement, Destiny and Resilience",
      "How a character's ten '''characteristics''' are rolled or bought, what each one measures, and the Characteristic Bonus that drives damage, Wounds and talent limits."),
-    ("SL100:Species", ["02 New Star Wars - Species (revised).md"], "17 design-group species [sl100] + 206 added from Legends [review]",
+    ("SL100:Species", ["02 New Star Wars - Species (revised).md"], "223 species, complete for now (13 Oct 2026)",
      "The playable '''species''' of the Legends galaxy with their characteristic modifiers, talents, Movement, Destiny and Resilience. Each entry links to its Legends article; the index at the top shows which entries are settled and which await review."),
     ("SL100:Origin", ["03 New Star Wars - Origin.md"], "Reconciled draft (12 Oct): full d100 table, skills matched to chapter 06, Legends example worlds",
      "'''Origin''' is the kind of world you grew up on. It adds to your characteristics and gives the twelve skills you may start with."),
@@ -136,9 +136,28 @@ def inline(s):
     return s
 
 
+def split_cells(ln):
+    """Split a markdown table row on | but not inside [[...]] links or `code`."""
+    out, cur, depth, code = [], "", 0, False
+    for ch in ln.strip().strip("|"):
+        if ch == "`":
+            code = not code
+        if ch == "[" and not code:
+            depth += 1
+        elif ch == "]" and not code and depth:
+            depth -= 1
+        if ch == "|" and depth == 0 and not code:
+            out.append(cur.strip())
+            cur = ""
+        else:
+            cur += ch
+    out.append(cur.strip())
+    return out
+
+
 def md_table(lines):
     def cells(ln):
-        return [c.strip() for c in ln.strip().strip("|").split("|")]
+        return split_cells(ln)
     head = cells(lines[0])
     has_sep = len(lines) > 1 and re.match(r"^\|\s*:?-", lines[1]) is not None
     all_bold = any(head) and all(re.match(r"^\*\*.+\*\*$", c) or not c for c in head)
@@ -246,7 +265,9 @@ def build_page(title, files, status, lead):
         parts.append(body)
     box = ("{{SL100 Rules|chapter=%s|status=%s|source=%s%s}}\n" %
            (title.split(":", 1)[1], status, "; ".join(files), "|entries=%d" % n if n else ""))
-    text = box + lead + "\n\n" + (extra + "\n\n" if extra else "") + "\n\n".join(parts) + "\n\n[[Category:SL100]]\n[[Category:SL100 rules]]\n"
+    body_text = "\n\n".join(parts)
+    notoc = "__NOTOC__\n" if (extra or re.search(r"^== Index ==", body_text, re.M)) else ""
+    text = notoc + box + lead + "\n\n" + (extra + "\n\n" if extra else "") + body_text + "\n\n[[Category:SL100]]\n[[Category:SL100 rules]]\n"
     return text, n
 
 

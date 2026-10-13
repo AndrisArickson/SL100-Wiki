@@ -22,12 +22,10 @@ Text extracted from the Star Wars d20 books in `Source_Books/` is copyrighted. K
 (git-ignored) and publish only your own rewritten/converted game statistics.
 
 ## Images
-* `images/full/` - images that are freely licensed on Wookieepedia (CC BY-SA, GFDL, public domain, "free use") or made by
-  the SL100 group, plus a small set of front-page card images (listed in `meta/card_images.tsv`) that the project owner
-  has chosen to publish. These are pushed to GitHub.
-* `images/local/` - images Wookieepedia marks as fair use or carries without a licence tag (mostly Lucasfilm and
-  publisher artwork). They are downloaded only for the private, locally hosted copy of this wiki and are git-ignored;
-  they are never published from this repository.
+* `images/full/` - every image the wiki shows, as WebP (max 800 px wide): images from Wookieepedia (freely licensed,
+  fair use or untagged; mostly Lucasfilm and publisher artwork) and artwork made by the SL100 group. The project owner
+  keeps all of them in this repository (decision 13 Oct 2026); this is a private wiki, not for distribution.
+* `images/local/` - no longer used; the wiki still looks there for older copies.
 * Every downloaded image is listed with its licence, author/credit and Wookieepedia file page in `meta/image_licences.tsv`;
   the local wiki shows the same on each `File:` page. Blank placeholders in `images/placeholders/` are generated.
 

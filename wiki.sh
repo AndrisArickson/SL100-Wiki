@@ -29,13 +29,15 @@ case "${1:-help}" in
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
   images-classify) shift; "$PY" tools/images.py classify "$@" ;;      # licence lookup for every image our pages use (~1 h)
-  images-fetch)   shift   # download + convert to WebP in the background; free -> images/full, fair/untagged -> images/local (not pushed)
+  images-fetch)   shift   # download + convert to WebP in the background; everything -> images/full (pushed)
     rm -f data/STOP; nohup "$PY" tools/images.py fetch "$@" >> data/logs/images.log 2>&1 &
     echo "Image fetch started (pid $!). Follow: tail -f data/logs/images.log   Stop: touch data/STOP" ;;
   images-qc)      "$PY" tools/images.py qc && "$PY" tools/images.py export ;;   # score images, write meta/image_licences.tsv + image_review.tsv
   images-status)  "$PY" tools/images.py status ;;
   commons-check)  shift; rm -f data/STOP; "$PY" tools/commons.py check "$@" 2>&1 | tee -a data/logs/images.log ;;   # find Wikimedia Commons originals (--bucket free|fair|untagged|all)
   commons-fetch)  shift; rm -f data/STOP; "$PY" tools/commons.py fetch "$@" 2>&1 | tee -a data/logs/images.log ;;   # download the matches from Commons (--include-probable)
+  species-images) "$PY" tools/ingest_images.py species ;;   # species image work list + download page in images/incoming/
+  images-ingest)  "$PY" tools/ingest_images.py ingest ;;    # convert hand-downloaded images in images/incoming/ to WebP and add them to the wiki
   collate)    # re-run the collation reports (lookups and comparisons only; see docs/collation/README.md)
     "$PY" tools/books/refblocks.py all && "$PY" tools/books/speciescheck.py && "$PY" tools/books/creatures.py && STATBLOCK_PREFIX=core_ "$PY" tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650 && "$PY" tools/books/statblocks.py run SW_Arms_and_Equipment_Guide_WTC88664 && "$PY" tools/books/coretables.py run && "$PY" tools/books/starships.py run && "$PY" tools/books/equipcheck.py && "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
       && "$PY" tools/collate/vocab.py && "$PY" tools/collate/ships_compare.py \
@@ -70,6 +72,8 @@ Usage: ./wiki.sh <command>
              gather Wookieepedia images as WebP by licence; review them at /image-review
   commons-check [--bucket free|fair|untagged|all] | commons-fetch [--include-probable]
              find and download Wikimedia Commons originals of our images (report: docs/collation/commons_check.md)
+  species-images   list the species images still needed; open images/incoming/species_download_list.html
+  images-ingest    convert images saved into images/incoming/ to WebP and add them to the wiki
   collate    re-run the collation reports (d20-to-wiki match, Legends check, talent/skill lists, vocabulary, ship comparison)
   push       commit new/changed files in chunks and push to GitHub
 EOF

@@ -4,8 +4,7 @@
   images.py classify [--limit N]   look up licence + author + a download URL for every image our pages use (50 per request)
   images.py fetch [--bucket free|fair|untagged|all] [--limit N]
                                    download, convert to WebP (max 800 px), save:
-                                     free     -> images/full/<x>/<name>.webp   (CC-BY-SA, GFDL, public domain, free use; pushed to GitHub)
-                                     fair / untagged -> images/local/<x>/<name>.webp  (private local wiki only, git-ignored)
+                                     every bucket -> images/full/<x>/<name>.webp (pushed to GitHub; decision 13 Oct)
   images.py qc                     score every downloaded image (size, sharpness, flatness, aspect, compression, duplicates)
   images.py export                 meta/image_licences.tsv (attribution for every downloaded image) + meta/image_review.tsv
   images.py status
@@ -97,7 +96,7 @@ def cmd_classify(limit=None):
 
 def dest(name, bucket):
     rel = placeholders.placeholder_relpath(name)          # <x>/<safe name>.webp
-    return (C.FULL_IMG_DIR if bucket == "free" else LOCAL_IMG_DIR) / rel
+    return C.FULL_IMG_DIR / rel          # all buckets are pushed (13 Oct); images/local is legacy
 
 
 def to_webp(data):

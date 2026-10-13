@@ -74,8 +74,8 @@ E = Extreme
 | Autorifle | Ranged (Archaic) | 7 | L | 50 | 2 | 300 | Common | 2H, Solid Projectile |  |  |
 | Shotgun | Ranged (Archaic) | 7 | M | 12 | 2 | 1200 | Scarce | 2H, Spread, Solid Projectile, |  |  |
 | Sniper Rifle | Ranged (Archaic) | 8 | E | 6 | 2 | 360 | Scarce | 2H, Solid Projectile, Penetrating (2) |  |  |
-| Needle Rifle | Ranged (Archaic) | 1 | L | 6 | 2 | 600 | Exotic | Penetrating (6), Melee (Two-Handed) |  |  |
-| \*\*Webber | Ranged (Archaic) | - | M | 3 | 1 | 1200 | Rare | Melee (Two-Handed) |  |  |
+| Needle Rifle | Ranged (Archaic) | 1 | L | 6 | 2 | 600 | Exotic | Penetrating (6), Melee (2H) |  |  |
+| \*\*Webber | Ranged (Archaic) | - | M | 3 | 1 | 1200 | Rare | Melee (2H) |  |  |
 | Backpack Flamer | Ranged (Archaic) | 10 | M | 20 | 2 | 700 | Scarce |  | Short-range weapon projecting a sustained stream of burning fuel; terrifying in close quarters. | Persistent fire: target continues burning (1d6/round) until extinguished. Burst cone 6 squares. |
 | Blaster Carbine | Ranged (Blaster) | 8 |  | 50 | 2 |  | Common |  | Shorter-barrelled rifle offering a balance of portability and stopping power; common in military service. | May be used with Rifle proficiency. Autofire capable on military models. |
 | Heavy Blaster Rifle | Ranged (Blaster) | 10 |  | 50 | 2 |  | Scarce | Damaging | High-output military rifle delivering sustained fire; used by clone commanders and heavy infantry. | Autofire. Penalty to Stealth; too large to conceal. Requires both hands. |
@@ -112,7 +112,7 @@ E = Extreme
 | Knife / Dagger | Melee (1H) | 2+StrB |  |  | 0 | 50 | Common |  |  | Undamaging |
 | Sword | Melee (1H) | 4+StrB |  |  | 1 | 150 | Common |  |  |  |
 | Whip | Melee (1H) | 2+StrB |  |  | 1 | 60 | Common | Entangle |  | Undamaging |
-| Vibro-axe | Melee (1H) | 5+StrB |  |  | 1 | 160 | Scarce |  | Heavy Melee (Two-Handed) vibrating axe; devastating against armoured targets. | Fast; Cleave-capable. On kill, may make immediate attack vs adjacent target as free action. |
+| Vibro-axe | Melee (1H) | 5+StrB |  |  | 1 | 160 | Scarce |  | Heavy Melee (2H) vibrating axe; devastating against armoured targets. | Fast; Cleave-capable. On kill, may make immediate attack vs adjacent target as free action. |
 | Vibro-blade | Melee (1H) | 5+StrB |  |  | 1 | 300 | Scarce |  | Standard-issue vibrating mono-molecular blade; cuts through most materials with ease. | Fast; Ignores 2 points of equipment bonus to Reflex Defence. |
 | Vibro-dagger | Melee (1H) | 3+StrB |  |  | 0 | 100 | Scarce |  | Compact vibrating blade for close quarters; easily concealed on the body. | Fast; Easily concealed. +5 to Stealth when hidden. Can be thrown (range 4 squares). |
 | Stun Baton | Melee (1H) | 1+StrB |  |  | 0 | 500 | Scarce |  |  | Undamaging |
@@ -124,12 +124,12 @@ E = Extreme
 | Ryyk Blade | Melee (1H) | 4+SB |  |  | 1 |  | Exotic |  | Traditional Wookiee curved blade; massive and difficult for non-Wookiees to wield effectively. | Wookiee-sized weapon. Non-Wookiees take –2 to attack. +2 damage when used by Wookiees. |
 | Gaderffii (Gaffi Stick) | Melee (1H) | 4+SB |  |  | 1 |  | Exotic |  | Traditional Tusken Raider weapon; a heavy club/spike combination tool and weapon. | Versatile: bludgeoning or piercing damage (wielder's choice). Counts as a simple weapon. |
 
-# Melee (Two-Handed)
+# Melee (2H)
 
 | Name | Dam | Range | Mag | Enc | Cost | Avail | Traits | Description | Special Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great Weapon | 6+StrB |  |  | 2 | 300 | Common |  |  | Damaging, Hack |
-| Improvised (Melee (Two-Handed)) | 2+StrB |  |  | 3 | - | - |  |  | Undamaging |
+| Improvised (Melee (2H)) | 2+StrB |  |  | 3 | - | - |  |  | Undamaging |
 | Staff | 4+StrB |  |  | 2 | 25 | Common |  |  | Defensive, Fast |
 | Electro-Staff | 5+StrB |  |  | 2 | 500 | Scarce |  |  | Reach, Defensive, Pummel, Fast |
 | Force Pike | 6+StrB |  |  | 2 | 2000 | Rare |  |  | Reach, Lightsaber Resistant, Impale |

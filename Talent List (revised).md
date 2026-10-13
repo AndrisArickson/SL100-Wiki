@@ -2,7 +2,7 @@
 
 Index of every talent in chapter 07 (revised). Max is the number of ranks allowed; Tests are the Tests the talent adds +1 SL per rank to.
 
-## General talents (164)
+## General talents (168)
 
 | Talent | Max | Tests |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Alley Cat | Initiative Bonus | Stealth (Urban) |
 | Ambidextrous | 2 | - |
 | Amphibious | 1 | - |
+| Animal Companion | 1 | - |
 | Argumentative | Fellowship Bonus | Charm Tests when arguing and debating |
 | Artistic | Dexterity Bonus | Profession (Artist) |
 | Attractive | Fellowship Bonus | Charm Tests to influence those attracted to you |
@@ -24,6 +25,8 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Bookish | Intelligence Bonus | Research |
 | Break and Enter | Strength Bonus | Melee when forcing or breaking inanimate objects |
 | Briber | Fellowship Bonus | Bribery |
+| Cadence | Intelligence Bonus | Entertain (Singing) |
+| Captain's Word | Fellowship Bonus | Leadership aboard your own ship or with your own crew |
 | Cardsharp | Intelligence Bonus | Gamble and Sleight of Hand when playing games of chance |
 | Careful Strike | Initiative Bonus | - |
 | Carouser | Toughness Bonus | Charm at parties, Gossip at parties, Consume Intoxicant |
@@ -38,7 +41,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Contortionist | Agility Bonus | Perform and Agility Tests when contorting helps |
 | Coolheaded | 1 | - |
 | Crack the Whip | Dexterity Bonus | Ride or Pilot Tests when Fleeing or Running |
-| Craftsman (Profession) | Dexterity Bonus | Profession (any one) |
+| Craftsman (Profession) | Dexterity Bonus | Profession (Any) |
 | Creature Affinity | Willpower Bonus | Creature Training |
 | Criminal | None | - |
 | Datapad Use | 1 | - |
@@ -59,7 +62,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Fast Hands | Dexterity Bonus | Sleight of Hand, Melee (Brawling) to touch an opponent |
 | Fast Shot | Agility Bonus | Ranged when making a Fast Shot |
 | Fearless (Enemy) | Willpower Bonus | Cool to oppose your Enemy's Intimidate, Fear, and Terror |
-| Feint | Weapon Skill Bonus | Melee (any) for Feints |
+| Feint | Weapon Skill Bonus | Melee (Any) for Feints |
 | Field Dressing | Intelligence Bonus | Medicine during combat Rounds |
 | Field Medic | Intelligence Bonus | Profession (Medic) |
 | First Strike | Initiative Bonus | Melee Tests when you act before your opponent in a Round |
@@ -84,6 +87,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Iron Will | Willpower Bonus | Cool Tests to oppose Intimidate |
 | Jump Up | 1 | - |
 | Kingpin | 1 | - |
+| Large | 1 | - |
 | Lightning Reflexes | 1 | - |
 | Linguistics | Intelligence Bonus | Language (All) |
 | Lip Reading | Initiative Bonus | Perception Tests concerning this Talent |
@@ -105,7 +109,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Orientation | Initiative Bonus | Navigation |
 | Pain-Sworn | Toughness Bonus | Any Test to resist the dark side |
 | Panhandle | Fellowship Bonus | Charm (Begging) |
-| Perfect Pitch | Initiative Bonus | Entertain (Sing), Language (tonal languages such as Huttese, Shyriiwook and Sith) |
+| Perfect Pitch | Initiative Bonus | Entertain (Singing), Language (tonal languages such as Huttese, Shyriiwook and Sith) |
 | Pilot | Initiative Bonus | Pilot (Starship) or Pilot (Capital Ship) |
 | Public Speaker | Fellowship Bonus | - |
 | Quick Draw | Initiative Bonus | Ranged Tests with a weapon drawn this Round |
@@ -118,7 +122,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Reversal | Weapon Skill Bonus | Melee when defending |
 | Riposte | Agility Bonus | Melee when defending |
 | Robust | Toughness Bonus | - |
-| Roughrider | Agility Bonus | Ride (Creature) or Pilot (Speeder) in combat |
+| Roughrider | Agility Bonus | Ride (Land) or Pilot (Speeder) in combat |
 | Rover | Agility Bonus | Stealth (Rural) |
 | Savant (Lore) | Intelligence Bonus | Lore (chosen Lore) |
 | Savvy | 1 | - |
@@ -134,7 +138,7 @@ Index of every talent in chapter 07 (revised). Max is the number of ranks allowe
 | Sixth Sense | Initiative Bonus | Intuition Tests involving your Sixth Sense |
 | Slayer | 1 | - |
 | Small | 1 | - |
-| Sniper | 4 | Ranged (Long-Extreme Range) |
+| Sniper | 4 | Ranged (Any) at Long or Extreme Range |
 | Spacer | Agility Bonus | Pilot (any spaceworthy vessel) |
 | Speedreader | Intelligence Bonus | Research and Language Tests where speed of reading is important |
 | Sprinter | Strength Bonus | Athletics Tests concerning Running |

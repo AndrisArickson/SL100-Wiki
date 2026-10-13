@@ -1,0 +1,46 @@
+skill,characteristic,type,grouped,specialisations
+Art,Dex,basic,yes,"Holo-Art, Sculpture, Painting, Calligraphy, Tattoo, Stellar Cartography, Engraving, Holography, Star Charts, Writing"
+Athletics,Ag,basic,,
+Bribery,Fel,basic,,
+Charm,Fel,basic,,
+Charm Creature,WP,basic,,
+Climb,S,basic,,
+Codes,Int,advanced,yes,"Rebel, Imperial, Hutt Cartel, Bounty Hunter, Smuggler, Mandalorian, Jedi/Sith, Black Sun, Force Tradition, Hunter, Miner, Order, Ranger, Scout, Shadow Cipher, Spacer, Trade Guild, Underworld"
+Consume Intoxicant,T,basic,,
+Cool,WP,basic,,
+Creature Care,Int,advanced,,
+Creature Training,Int,advanced,yes,"Bantha, Tauntaun, Dewback, Varactyl, Massiff, Nexu, Akk Dog, Mynock"
+Dodge,Ag,basic,,
+Entertain,Fel,basic,yes,"Acting, Comedy, Singing, Storytelling, Holodrama, Sabacc Patter, Bellow, Fortune Telling, Lecture, Prophecy, Rhetoric, Speeches, Taunt"
+Evaluate,Int,advanced,,
+Demolitions,Dex,advanced,,
+Endurance,T,basic,,
+Gamble,Int,basic,,
+Gossip,Fel,basic,,
+Haggle,Fel,basic,,
+Intimidate,S,basic,,
+Intuition,I,basic,,
+Language,Int,advanced,yes,"Basic (Galactic Standard), Huttese, Mando’a, Shyriiwook, Bocce, Ryl, Rodese, Sullustese, Ewokese, Jawaese, Binary (droidspeak), Sith, Ancient Sith, Old Galactic Standard, Military Cant, Hand Sign, Trade Cant, Underworld Cant, Diplomacy, The Force"
+Leadership,Fel,basic,,
+Lore,Int,advanced,yes,"Galactic History, Xenology, Underworld, Politics, Bureaucracy, Astrogation, Technology, Cybernetics, Galactic Sigils, History, Law, Science, The Force, Anatomy, Art, Beasts, Botany, Chemistry, Clan Holds, Criminal Organisations, Dark Side, Engineering, Etiquette, Folklore, Force Spirits, Force Traditions, Galactic Cultures, Galactic Empire, Galactic Geography, Geology, Gunnery, Hyperlanes, Imperial Revenue, Interrogation, Krayt Dragons, Local, Martial Arts, Medicine, Noble Houses, Pharmacology, Prophecy, Rancors, Salvage, Sith & Dark Side Cults, Sith Lore, Tradition, Warfare"
+Medicine,Int,advanced,,
+Meditate,WP,advanced,,
+Melee,WS,basic,yes,"1H, 2H, Brawling, *Lightsaber"
+Navigation,I,basic,,
+Outdoor Survival,Int,basic,,
+Perform,Ag,advanced,yes,"Acrobatics, Dancing, Acting, Miming, Holo-Performance, Zero-G Acrobatics, Fight"
+Slice Security System,Dex,advanced,,
+Perception,I,basic,,
+Pilot (Speeder),Ag,basic,,
+Pilot (Starship),Ag,basic,,
+Pilot (Capital Ship),Ag,advanced,yes,"Mega Freighter, Capital Ship, Space Station"
+Play,Dex,advanced,yes,"Bandfill, Kloo Horn, Fanfar, Omni Box, Chidinkalu, Quetarra, Valachord, Drums"
+Profession,Dex,advanced,yes,"Mechanic, Droid Technician, Slicer, Cybernetics, Medic, Starship Engineer, Weapons Technician, Armourer, Art Supplies, Artist, Astrogator, Brewer, Charms, Chemist, Demolitionist, Engineer, Engraver, Fabricator, Journalist, Pharmacist, Poisoner, Speeder Mechanic, Starship Mechanic, Stellar Cartographer, Tinker, Vintner, Weaponsmith"
+Ranged,BS,advanced,yes,"Blaster, Archaic, Thrown, Exotic, Ordnance"
+Research,Int,advanced,,
+Ride,Ag,basic,yes,"Air, Land, Water"
+Sleight of Hand,Dex,advanced,,
+Stealth,Ag,basic,yes,"Rural, Underground, Urban"
+Swim,S,advanced,,
+Track,I,advanced,,
+Use the Force,WP,advanced,yes,"Sense, Control, Alter"

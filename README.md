@@ -54,8 +54,8 @@ will use it instead.
 ## Real images (optional, long-running)
 ```bash
 ./wiki.sh images-classify          # licence + author for every image our pages use (~1 h, 50 per request)
-./wiki.sh images-fetch             # background download as WebP (max 800 px); free -> images/full (pushed),
-                                   # fair use / untagged -> images/local (private, git-ignored). ~1 s apart, resumable; stop: touch data/STOP
+./wiki.sh images-fetch             # background download as WebP (max 800 px); all go to images/full (pushed),
+                                   # fair use and untagged included. ~1 s apart, resumable; stop: touch data/STOP
 ./wiki.sh images-qc                # score every image (size, sharpness vs the whole set, blank, aspect, compression, duplicates)
 ./wiki.sh images-status
 ```
@@ -76,7 +76,7 @@ more named parameters as an infobox, so new stat templates need no extra code.
 ```
 Target: https://github.com/AndrisArickson/SL100-Wiki (create the empty repo first; authenticate with your usual
 git credentials, or `REMOTE=git@github.com:AndrisArickson/SL100-Wiki.git ./wiki.sh push` for SSH). Re-running continues where it
-stopped. `data/`, `private/` and the d20/WFRP text (kept outside the repo in `../Source_Text`, `../WFRP_Text`) are never pushed. All images are pushed: only CC BY-SA (Wookieepedia, see `NOTICE.md`) or our own artwork may go in `images/`. On a fresh clone run `./wiki.sh rebuild`
+stopped. `data/`, `private/` and the d20/WFRP text (kept outside the repo in `../Source_Text`, `../WFRP_Text`) are never pushed. All images are pushed, as WebP only: Wookieepedia images and our own artwork (see `NOTICE.md`); non-WebP originals stay outside the repo in `../art_originals`. On a fresh clone run `./wiki.sh rebuild`
 to recreate the local database from `meta/pages.tsv`.
 A full harvest is on the order of 1 GB across ~120,000 files; GitHub accepts this but the first push will be slow.
 

@@ -75,7 +75,7 @@ Their sheer numbers and adaptability have made them a force to be reckoned with 
 
 **Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
 
-#### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor)
+#### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor/Legends)
 
 | Kel Dor are a sentient species native to the planet Dorin, known for their unique physiology that requires them to wear specialized masks and goggles to survive in oxygen-rich environments.<br/><br/>They have a distinctive appearance with orange-peach skin, which ranges in color from peach to crimson red. Kel Dor have four fingers on each hand and stand between 1.6 and 2 meters tall.<br/><br/>Their native atmosphere is composed of helium and a unique gas, making it toxic for most other species. |  |
 

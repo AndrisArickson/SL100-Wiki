@@ -123,11 +123,13 @@ def enc_weapon(skill, group, name, size, weight, bulky):
         return "0"
     if (weight or 0) >= 25 or re.search(r"e-web|cannon|tripod|emplacement", n):
         return "5"
-    if "heavy" in sk or "missile" in sk or re.search(r"repeat|flame|launcher|bowcaster", n + " " + g):
-        return "3"
-    if "carbine" in g or "carbine" in n:
+    if ("carbine" in g or "carbine" in n) and not re.search(r"flame|rotary|repeat", n + " " + g):
         return "1"
-    if "rifle" in sk or "rifle" in g or "archaic" in sk or bulky or "two-handed" in n:
+    if "ordnance" in sk or re.search(r"heavy blaster|heavy weapon|repeat|flame|launcher|bowcaster|e-web", n + " " + g):
+        return "3"
+    if "pistol" in n or "pistol" in g or "hold-out" in n:
+        return "1"
+    if "rifle" in g or "archaic" in sk or "2h" in sk or bulky or "two-handed" in n or "long gun" in g:
         return "2"
     return "1"
 
@@ -191,39 +193,45 @@ def avail(s):
 
 
 # weapon type -> (SL100 skill, 08 baseline name, traits, bulky)
-WTYPE = [
-    (r"hold-?out", ("Ranged (Blaster Pistol)", "Hold-out Blaster", "", False)),
-    (r"sporting blaster pistol", ("Ranged (Blaster Pistol)", "Sporting Blaster Pistol", "", False)),
-    (r"blaster pistol|heavy blaster pistol", ("Ranged (Blaster Pistol)", "Blaster Pistol", "", False)),
-    (r"heavy blaster(?! pistol)", ("Ranged (Heavy Blaster)", "Heavy Blaster Rifle", "Rapid Fire", True)),
-    (r"light repeating|repeating blaster", ("Ranged (Heavy Blaster)", "Repeating Blaster", "Rapid Fire", True)),
-    (r"blaster carbine", ("Ranged (Blaster Rifle)", "Blaster Carbine", "", False)),
-    (r"sporting blaster rifle", ("Ranged (Blaster Rifle)", "Sporting Blaster Rifle", "", False)),
-    (r"blaster rifle", ("Ranged (Blaster Rifle)", "Blaster Rifle", "", False)),
-    (r"slugthrower pistol", ("Ranged (Slugthrower)", "Autopistol", "Solid Projectile", False)),
-    (r"slugthrower rifle|slugthrower", ("Ranged (Slugthrower)", "Slugthrower Rifle", "Solid Projectile", False)),
-    (r"disruptor pistol", ("Ranged (Disruptor)", "Disruptor Pistol", "Penetrating, Damaging", False)),
-    (r"disruptor", ("Ranged (Disruptor)", "Disruptor Rifle", "Penetrating, Damaging", False)),
-    (r"[il]on pistol", ("Ranged (Blaster Pistol)", "Ion Pistol", "Damages Electrics, Undamaging (living)", False)),
-    (r"[il]on rifle", ("Ranged (Blaster Rifle)", "Ion Rifle", "Damages Electrics, Undamaging (living)", False)),
-    (r"flame", ("Ranged (Heavy Blaster)", "Hand Flamer", "Ablaze, Spread", True)),
-    (r"sonic", ("Ranged (Blaster Pistol)", "Sonic Blaster", "Stun, Spread", False)),
-    (r"grenade launcher", ("Ranged (Missile/Rocket)", "Grenade Launcher", "Blast (3)", True)),
-    (r"grenade|detonator", ("Ranged (Grenade/Explosives)", "Grenade", "Blast (3), Thrown", False)),
-    (r"missile|rocket", ("Ranged (Missile/Rocket)", "Missile Launcher", "Blast (5)", True)),
-    (r"flechette", ("Ranged (Slugthrower)", "Flechette Launcher", "Spread, Solid Projectile", False)),
-    (r"dart", ("Ranged (Slugthrower)", "Dart Shooter", "Solid Projectile, Poison", False)),
-    (r"bowcaster", ("Ranged (Bowcaster)", "Bowcaster", "Impact", True)),
-    (r"crossbow|bow", ("Ranged (Archaic)", "Bow", "", False)),
+WTYPE = [   # (pattern on d20 weapon type, (SL100 skill, baseline 08 item, traits, bulky)) - 13 Oct 2026 consolidated skills
+    (r"hold-?out", ("Ranged (Blaster)", "Hold-out Blaster", "", False)),
+    (r"^blaster, (heavy|lt\. repeat)", ("Ranged (Blaster)", "Repeating Blaster", "Rapid Fire", True)),
+    (r"^blaster, sporting|ion gun", ("Ranged (Blaster)", "Sporting Blaster Pistol", "", False)),
+    (r"sporting blaster pistol", ("Ranged (Blaster)", "Sporting Blaster Pistol", "", False)),
+    (r"blaster pistol|heavy blaster pistol", ("Ranged (Blaster)", "Blaster Pistol", "", False)),
+    (r"heavy blaster(?! pistol)", ("Ranged (Blaster)", "Heavy Blaster Rifle", "Rapid Fire", True)),
+    (r"light repeating|repeating blaster", ("Ranged (Blaster)", "Repeating Blaster", "Rapid Fire", True)),
+    (r"blaster carbine", ("Ranged (Blaster)", "Blaster Carbine", "", False)),
+    (r"sporting blaster rifle", ("Ranged (Blaster)", "Sporting Blaster Rifle", "", False)),
+    (r"blaster rifle", ("Ranged (Blaster)", "Blaster Rifle", "", False)),
+    (r"slugthrower pistol", ("Ranged (Archaic)", "Autopistol", "Solid Projectile", False)),
+    (r"slugthrower rifle|slugthrower", ("Ranged (Archaic)", "Slugthrower Rifle", "Solid Projectile", False)),
+    (r"disruptor pistol", ("Ranged (Blaster)", "Disruptor Pistol", "Penetrating, Damaging", False)),
+    (r"disruptor", ("Ranged (Blaster)", "Disruptor Rifle", "Penetrating, Damaging", False)),
+    (r"[il]on pistol", ("Ranged (Blaster)", "Ion Pistol", "Damages Electrics, Undamaging (living)", False)),
+    (r"[il]on rifle", ("Ranged (Blaster)", "Ion Rifle", "Damages Electrics, Undamaging (living)", False)),
+    (r"flame", ("Ranged (Exotic)", "Hand Flamer", "Ablaze, Spread", True)),
+    (r"sonic", ("Ranged (Blaster)", "Sonic Blaster", "Stun, Spread", False)),
+    (r"grenade launcher", ("Ranged (Ordnance)", "Grenade Launcher", "Blast (3)", True)),
+    (r"grenade|detonator", ("Ranged (Thrown)", "Grenade", "Blast (3), Thrown", False)),
+    (r"wrist-mounted rocket|mini-?rocket|wrist rocket", ("Ranged (Exotic)", "Wrist Rocket", "Blast (3)", False)),
+    (r"missile|rocket", ("Ranged (Ordnance)", "Missile Launcher", "Blast (5)", True)),
+    (r"flechette", ("Ranged (Exotic)", "Flechette Launcher", "Spread, Solid Projectile", False)),
+    (r"dart", ("Ranged (Exotic)", "Dart Shooter", "Solid Projectile, Poison", False)),
+    (r"wrist-mounted|glue|adhesive|tensor|magna caster|magnetic accelerator", ("Ranged (Exotic)", "", "", False)),
+    (r"bowcaster", ("Ranged (Archaic)", "Bowcaster", "Impact", True)),
+    (r"crossbow|bow|sling", ("Ranged (Archaic)", "Bow", "", False)),
+    (r"thrown|throwing", ("Ranged (Thrown)", "", "", False)),
     (r"melee|vibro|sword|blade|axe|pike|staff|whip|knife|club|mace|spear|garrote|razor", ("MELEE", "", "", False)),
 ]
 
-MELEE_SPEC = [
-    (r"vibro-?axe|vibroaxe", "Melee (Vibro-Axe)", "Damaging"), (r"vibro", "Melee (Vibroblade)", "Damaging"),
-    (r"force pike|pike", "Melee (Force Pike)", "Impact, Shock"), (r"electrostaff|staff", "Melee (Electrostaff)", "Shock"),
-    (r"stun baton|baton", "Melee (Stun Baton)", "Pummel, Undamaging"), (r"knife|dagger|razor|garrote", "Melee (Brawling)", ""),
-    (r"whip", "Melee (Brawling)", "Entangle, Wrap"), (r"lightsaber", "Melee (Lightsaber)", "Penetrating, Damaging, Hack"),
-    (r"axe|sword|blade|spear|club|mace|hammer", "Melee (Vibroblade)", ""),
+MELEE_SPEC = [   # (pattern on name, SL100 skill, traits) - Melee (1H) / (2H) / (Brawling) / (Lightsaber) only
+    (r"vibro-?axe|vibroaxe", "Melee (2H)", "Damaging"), (r"force pike|pike", "Melee (2H)", "Impact, Shock"),
+    (r"electrostaff|quarterstaff|staff", "Melee (2H)", "Shock"), (r"lightsaber|lightwhip", "Melee (\\*Lightsaber)", "Penetrating, Damaging, Hack"),
+    (r"stun baton|baton", "Melee (1H)", "Pummel, Undamaging"), (r"knuckle|glove|gauntlet|claw", "Melee (Brawling)", ""),
+    (r"whip", "Ranged (Exotic)", "Entangle, Wrap"), (r"vibro", "Melee (1H)", "Damaging"),
+    (r"knife|dagger|razor|garrote", "Melee (1H)", ""),
+    (r"axe|sword|blade|spear|club|mace|hammer", "Melee (1H)", ""),
 ]
 
 
@@ -231,18 +239,20 @@ def classify_weapon(wtype, name, size):
     t = clean(wtype).lower()
     if re.search(r"\(\d+\)|arrows|quarrels|bullets|energy balls|power pack|ammunition|cartridge", name.lower()):
         return "", "", "", False, False
-    if re.search(r"detonator|grenade", name.lower()):
-        return "Ranged (Grenade/Explosives)", "Grenade", "Blast (3), Thrown", False, False
-    if re.search(r"^net$|electro-net|net\b", name.lower()):
-        return "Ranged (Archaic)", "", "Entangle", False, False
+    if re.search(r"detonator|grenade", name.lower()) and "launcher" not in name.lower():
+        return "Ranged (Thrown)", "Grenade", "Blast (3), Thrown", False, False
+    if re.search(r"^net$|electro-net|\bnet\b|net launcher|whip", name.lower()):
+        return "Ranged (Exotic)", "", "Entangle", False, False
     for pat, val in WTYPE:
         if re.search(pat, t) or (val[0] == "MELEE" and re.search(pat, name.lower()) and not t.startswith(("blaster", "slug"))):
             if val[0] == "MELEE":
                 for p2, skill, traits in MELEE_SPEC:
                     if re.search(p2, name.lower()):
                         two = clean(size).lower().startswith("large")
+                        if two and skill == "Melee (1H)":
+                            skill = "Melee (2H)"
                         return skill, "", traits + (", Two-Handed" if two else ""), two, True
-                return "Melee (Vibroblade)", "", "", False, True
+                return "Melee (1H)", "", "", False, True
             return val[0], val[1], val[2], val[3], False
     return "review", "", "", False, False
 
@@ -538,23 +548,26 @@ def table(rows, cols, labels):
 def group_of(w):
     g = (w.get("group") or "").lower()
     s = (w.get("skill") or "").lower()
-    if not s or re.search(r"\(\d+\)|arrows|quarrels|bullets|energy balls|power pack", w["name"].lower()):
+    n = w["name"].lower()
+    if not s or re.search(r"\(\d+\)|arrows|quarrels|bullets|energy balls|power pack", n):
         return "Ammunition and power"
     if s == "review":
         return "Unclassified (review)"
-    if "lightsaber" in s or "lightsaber" in w["name"].lower():
+    if "lightsaber" in s or "lightsaber" in n or "lightwhip" in n:
         return "Lightsabers"
     if s.startswith("melee") or "melee" in g:
         return "Melee weapons"
-    if "grenade" in s or "thrown" in g or "explosive" in s:
-        return "Grenades and explosives"
-    if "missile" in s or "rocket" in s or "launcher" in g:
+    if "exotic" in s:
+        return "Exotic ranged weapons"
+    if "ordnance" in s:
         return "Launchers"
-    if "heavy" in s or "heavy" in g:
+    if "thrown" in s or "grenade" in g or "detonator" in n:
+        return "Grenades and explosives"
+    if "heavy" in g or "repeating" in g or "e-web" in n or "cannon" in n:
         return "Heavy weapons"
-    if "slugthrower" in s or "archaic" in s or "bowcaster" in s:
+    if "archaic" in s or "slugthrower" in g or "bow" in g or "sling" in g:
         return "Slugthrowers and archaic weapons"
-    if "rifle" in s or "rifle" in g or "carbine" in g or "long gun" in g:
+    if "rifle" in g or "carbine" in g or "long gun" in g:
         return "Blaster rifles and carbines"
     return "Blaster pistols and sidearms"
 
@@ -608,8 +621,8 @@ def weapons_page(rows, n_conv):
     cols = ["name", "skill", "damage", "range", "range_m", "mag", "enc", "worn", "cost", "avail", "legality", "traits", "source"]
     labels = ["Weapon", "Skill", "Dam", "Band", "Range (m)", "Mag", "Enc", "Worn", "Cost", "Avail", "Legal", "Traits", "Source"]
     order = ["Blaster pistols and sidearms", "Blaster rifles and carbines", "Heavy weapons", "Slugthrowers and archaic weapons",
-             "Grenades and explosives", "Launchers", "Melee weapons", "Lightsabers", "Ammunition and power", "Unclassified (review)"]
-    parts = ["{{SL100 Rules|chapter=Weapons|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
+             "Grenades and explosives", "Exotic ranged weapons", "Launchers", "Melee weapons", "Lightsabers", "Ammunition and power", "Unclassified (review)"]
+    parts = ["__NOTOC__\n{{SL100 Rules|chapter=Weapons|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
              "Every '''weapon''' a character can buy, with its SL100 statistics. Items marked ''(converted)'' were built from the d20 books by the conversion rules in [[SL100:Equipment]] and have not yet been reviewed; items without the mark are from chapter 08. Each name links to its Legends article where one is matched. Damage for ranged weapons is a flat value; melee damage adds your Strength Bonus. Range bands: Point Blank = Range/10, Short = Range/2, Long = 2 x Range, Extreme = 3 x Range (see Combat).",
              "Legality: L licensed, R restricted, M military, I illegal. Availability: Common, Uncommon, Scarce, Rare, Exotic, Unique (see [[SL100:Special Materials]] for the stock chances by settlement)."]
     for g in order:
@@ -626,7 +639,7 @@ def weapons_page(rows, n_conv):
 def armour_page(rows, n_conv):
     cols = ["name", "type", "form", "locations", "material", "ap", "resist", "enc", "worn", "cost", "avail", "legality", "traits", "source"]
     labels = ["Armour", "Type", "Suit / piece", "Locations", "Material", "AP", "Resist", "Enc", "Worn", "Cost", "Avail", "Legal", "Qualities / Flaws", "Source"]
-    parts = ["{{SL100 Rules|chapter=Armour|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Special Materials + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
+    parts = ["__NOTOC__\n{{SL100 Rules|chapter=Armour|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Special Materials + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
              "'''Armour''' carries two values: '''AP''' (Armour Points) against blasters, slugs and blows, and '''Resist''' against lightsabers. Both come from the material the piece is made of (see [[SL100:Special Materials]]), never from the d20 books. Items marked ''(converted)'' took their AP and Resist from the default material for their type and need checking. A '''suit''' covers all locations and carries the whole-suit Enc (light 2, medium 6, heavy 10, powered 14 carried / 10 worn); a '''piece''' covers the locations listed and its Enc alone. Worn armour counts 1 Enc less (see [[SL100:Gear#Encumbrance|Encumbrance]]).",
              art("SL100 Gear Combat Armour.jpg", "Light combat armour", 220), table(rows, cols, labels), "[[Category:SL100]]\n[[Category:SL100 rules]]\n[[Category:SL100 armour]]"]
     return "\n\n".join(parts)
@@ -635,7 +648,7 @@ def armour_page(rows, n_conv):
 def gear_page(rows, n_conv):
     cols = ["name", "class", "enc", "worn", "carries", "cost", "avail", "legality", "traits", "source"]
     labels = ["Item", "Class", "Enc", "Worn", "Carries", "Cost", "Avail", "Legal", "Effect / Traits", "Source"]
-    parts = ["{{SL100 Rules|chapter=Gear|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
+    parts = ["__NOTOC__\n{{SL100 Rules|chapter=Gear|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
              art_strip(GEAR_ART), ENC_NOTE, "'''General equipment''': tools, medical supplies, communications, survival gear, security and slicing kit, and the rest of a character's trappings. Items marked ''(converted)'' have cost, Encumbrance and availability from the d20 books and still need their SL100 effect written.",
              table(rows, cols, labels), "[[Category:SL100]]\n[[Category:SL100 rules]]\n[[Category:SL100 equipment]]"]
     return "\n\n".join(parts)

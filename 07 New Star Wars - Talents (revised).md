@@ -12,13 +12,13 @@ When a species or origin says to roll a random talent, roll d100 on this table. 
 
 | Roll | Talent | Roll | Talent |
 | --- | --- | --- | --- |
-| 01-03 | Acute Sense (any one) | 51-52 | Noble Blood |
+| 01-03 | Acute Sense (Any) | 51-52 | Noble Blood |
 | 04-06 | Ambidextrous | 53-55 | Orientation |
 | 07-09 | Creature Affinity | 56-58 | Perfect Pitch |
 | 10-12 | Artistic | 59-62 | Pure Soul |
 | 13-15 | Attractive | 63-65 | Datapad Use |
-| 16-18 | Coolheaded | 66-68 | Resistance (any one) |
-| 19-21 | Craftsman (any one) | 69-71 | Savvy |
+| 16-18 | Coolheaded | 66-68 | Resistance (Any) |
+| 19-21 | Craftsman (Any) | 69-71 | Savvy |
 | 22-24 | Flee! | 72-74 | Sharp |
 | 25-28 | Hardy | 75-78 | Sixth Sense |
 | 29-31 | Lightning Reflexes | 79-81 | Strong Legs |
@@ -127,9 +127,9 @@ You know how to put a blast door, a cargo crate or a security hatch out of commi
 You know exactly how much a customs official, a dock warden or a stormtrooper sergeant needs to look the other way, and it is always less than they first ask. The GM reduces the base cost of any bribe you need to pay by 10% for every level you have in Briber, to a minimum of 10% of the original amount.
 
 ### Cadence
-**Max:** Intelligence Bonus · **Tests:** Entertain (Sing)
+**Max:** Intelligence Bonus · **Tests:** Entertain (Singing)
 
-You know the work-songs, marching cadences and spacer chants that keep a crew moving as one: the hauling chants of Wookiee shipwrights, the cadence calls of clone and stormtrooper columns, the sabacc-table songs of Corellian freighter crews. Each rank is one cadence learned. Establishing one takes thirty seconds and a successful Entertain (Sing) Test; it then affects every ally who can hear you for three minutes plus SL minutes, giving the crew +10 to one kind of group Test named by the cadence (hauling, rowing a lifeboat, marching, repairs under fire). While you lead it you may only Dodge; taking Damage or failing an Opposed Test ends it. One cadence per watch.
+You know the work-songs, marching cadences and spacer chants that keep a crew moving as one: the hauling chants of Wookiee shipwrights, the cadence calls of clone and stormtrooper columns, the sabacc-table songs of Corellian freighter crews. Each rank is one cadence learned. Establishing one takes thirty seconds and a successful Entertain (Singing) Test; it then affects every ally who can hear you for three minutes plus SL minutes, giving the crew +10 to one kind of group Test named by the cadence (hauling, rowing a lifeboat, marching, repairs under fire). While you lead it you may only Dodge; taking Damage or failing an Opposed Test ends it. One cadence per watch.
 
 ### Captain's Word
 **Max:** Fellowship Bonus · **Tests:** Leadership aboard your own ship or with your own crew
@@ -207,7 +207,7 @@ Nothing seems to rattle you, not even a Sith Lord's glare. You gain a permanent 
 You know how to squeeze every last bit of speed from a dewback, a swoop or a battered landspeeder. Whenever a mount or vehicle under your control is Fleeing or Running, it gains +1 Movement.
 
 ### Craftsman (Profession)
-**Max:** Dexterity Bonus · **Tests:** Profession (any one)
+**Max:** Dexterity Bonus · **Tests:** Profession (Any)
 
 You have a gift for one particular craft, whether that is armoursmithing in the Mandalorian tradition, droid repair or starship engineering. Add the associated Profession skill to any career you enter. If that Profession skill is already part of the career, each Advance in it instead costs you 5 XP less than normal.
 
@@ -314,9 +314,9 @@ You draw and fire before anyone else has reacted. If you hold a loaded ranged we
 Whether through courage or sheer recklessness, one particular kind of enemy no longer frightens you. On encountering the specified enemy, a single Average (+20) Cool Test lets you ignore any Intimidate, Fear or Terror effects it produces. Typical choices include stormtroopers, bounty hunters, Imperial officers, Tusken Raiders, Wookiees, Sith and rancors.
 
 ### Feint
-**Max:** Weapon Skill Bonus · **Tests:** Melee (any) for Feints
+**Max:** Weapon Skill Bonus · **Tests:** Melee (Any) for Feints
 
-You have practised the false attack: a lunge or swing meant to deceive rather than wound. For your Action you may Feint against any opponent who is using a weapon, resolved as an Opposed Melee (any)/Melee Test. If you win and you attack that same opponent before the end of the next Round, you may add the SL of your Feint to your attack roll.
+You have practised the false attack: a lunge or swing meant to deceive rather than wound. For your Action you may Feint against any opponent who is using a weapon, resolved as an Opposed Melee (Any)/Melee Test. If you win and you attack that same opponent before the end of the next Round, you may add the SL of your Feint to your attack roll.
 
 ### Field Dressing
 **Max:** Intelligence Bonus · **Tests:** Medicine during combat Rounds
@@ -567,9 +567,9 @@ You have bound your suffering to a Force tradition that treats pain as a path to
 You can part even a hard-hearted spacer from a few credits with the right look and the right words. When Begging, you may make a Charm (Begging) Test every half hour rather than every hour (see Endeavours). The beggars of Coruscant's lower levels learn the trade or starve.
 
 ### Perfect Pitch
-**Max:** Initiative Bonus · **Tests:** Entertain (Sing), Language (tonal languages such as Huttese, Shyriiwook and Sith)
+**Max:** Initiative Bonus · **Tests:** Entertain (Singing), Language (tonal languages such as Huttese, Shyriiwook and Sith)
 
-Your ear is flawless: you can reproduce any note exactly and name it on hearing, without a Test. In addition, add Entertain (Sing) to any career you enter; if the Skill is already in your career, you may instead purchase it for 5 XP less per Advance. Your gift also makes the tonal languages of the galaxy, such as Huttese and Shyriiwook, far easier to master.
+Your ear is flawless: you can reproduce any note exactly and name it on hearing, without a Test. In addition, add Entertain (Singing) to any career you enter; if the Skill is already in your career, you may instead purchase it for 5 XP less per Advance. Your gift also makes the tonal languages of the galaxy, such as Huttese and Shyriiwook, far easier to master.
 
 ### Pilot
 **Max:** Initiative Bonus · **Tests:** Pilot (Starship) or Pilot (Capital Ship)
@@ -644,9 +644,9 @@ You answer an incoming blow with an instant counter of your own. If your weapon 
 You absorb punishment that would put others in a bacta tank. Reduce all incoming Damage by an additional 1 per level of Robust, even Damage that normally cannot be reduced. You still suffer a minimum of 1 Wound from any source of Damage.
 
 ### Roughrider
-**Max:** Agility Bonus · **Tests:** Ride (Creature) or Pilot (Speeder) in combat
+**Max:** Agility Bonus · **Tests:** Ride (Land) or Pilot (Speeder) in combat
 
-You are as steady on a charging bantha or a swerving speeder bike as others are on solid ground. Provided you have the Ride (Creature) or Pilot (Speeder) Skill, you can direct your mount or vehicle to take an Action, not merely a Move, without needing a Test.
+You are as steady on a charging bantha or a swerving speeder bike as others are on solid ground. Provided you have the Ride (Land) or Pilot (Speeder) Skill, you can direct your mount or vehicle to take an Action, not merely a Move, without needing a Test.
 
 ### Rover
 **Max:** Agility Bonus · **Tests:** Stealth (Rural)
@@ -724,7 +724,7 @@ You are a killer of giants, trained to bring down beasts and war machines far bi
 You stand well below the galactic average, with all the advantages and drawbacks that brings. Your Size is Small rather than Average (see Combat: Size). This is typical of species such as Jawas, Ewoks and Ugnaughts.
 
 ### Sniper
-**Max:** 4 · **Tests:** Ranged (Long-Extreme Range)
+**Max:** 4 · **Tests:** Ranged (Any) at Long or Extreme Range
 
 Range means little to you; a distant target is simply one that has not yet noticed you. You suffer no penalties for shooting at Long range, and only half the penalties for Extreme range. Rebel marksmen on the forest moon of Endor and Imperial scout troopers alike rely on this training.
 

@@ -121,7 +121,7 @@ Advocates are the lawyers of the galaxy: trained in Republic statute, Imperial d
 
 *Career Path*
 **1. Law Student — Brass 4**
-**Skills:** Consume Intoxicant, Endurance, Haggle, Language (Old Galactic Standard), *Lore (Law)*, Lore (Galactic Republic or Galactic Empire by era), Perception, Research
+**Skills:** Consume Intoxicant, Endurance, Haggle, Language (Old Galactic Standard), *Lore (Law)*, Lore (Galactic Republic or Galactic Empire), Perception, Research, Entertain (Rhetoric), Dodge
 **Talents:** Blather, Etiquette (Scholars), Datapad Use, Speedreader
 **Trappings:** Datapad with Law archive, Holo-magnifier
 
@@ -143,9 +143,10 @@ Advocates are the lawyers of the galaxy: trained in Republic statute, Imperial d
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: Fel at 2, WP at 3, T at 4]`
 `[review: the data file gave only three levels and only two skills at level 3; level 3 skills padded to four with Intimidate and Lore (Politics), and level 4 (WFRP Judge, Gold 2) reconstructed from memory: check skills, talents and trappings against the rulebook]`
-`[review: Lore (Theology) at level 1 mapped to Lore (Galactic Republic or Galactic Empire, by era) rather than Lore (The Force), since an Advocate's canon law is state law]`
+`[review: Lore (Theology) at level 1 mapped to Lore (Galactic Republic or Galactic Empire) rather than Lore (The Force), since an Advocate's canon law is state law]`
 `[review: Magnifying Glass re-themed as Holo-magnifier; Gavel and Wig kept as Ceremonial Gavel and Ostentatious Robes of the Bar]`
 `[review: overlaps Advisor: the Advocate is a licensed courtroom and contract lawyer with Lore (Law) and Codes (Trade Guild); the Advisor counsels a patron on policy]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Entertain (Rhetoric) and Dodge added]`
 
 ### Engineer
 
@@ -164,12 +165,12 @@ Engineers are the formally trained builders of the galaxy: starship drive system
 
 *Career Path*
 **1. Student Engineer — Brass 4**
-**Skills:** Consume Intoxicant, Cool, Endurance, Language (Old Galactic Standard), Lore (Engineering), Perception, Ranged (Blaster Pistol), *Profession (Engineer)*
+**Skills:** Consume Intoxicant, Cool, Endurance, Language (Old Galactic Standard), Lore (Engineering), Perception, Ranged (Blaster), *Profession (Engineer)*, Evaluate, Profession (Fabricator)
 **Talents:** Artistic, Heavy Gunner, Datapad Use, Tinker
 **Trappings:** Datapad with Engineering archive, Hydrospanner and Fusion Cutter
 
 **2. Engineer — Silver 2**
-**Skills:** Pilot (Speeder), Dodge, Navigation, Ranged (Heavy Blaster), Research, Language (Trade Cant)
+**Skills:** Pilot (Speeder), Dodge, Navigation, Lore (Science), Research, Language (Trade Cant)
 **Talents:** Craftsman (Engineer), Etiquette (Trade Guilds), Marksman, Orientation
 **Trappings:** Trade Permit, Tool Kit (Engineer)
 
@@ -185,10 +186,12 @@ Engineers are the formally trained builders of the galaxy: starship drive system
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: I at 2, T at 3, WP at 4]`
-`[review: Ride (Horse) at level 3 replaced with Pilot (Starship) rather than Ride (Creature); a starship engineer who cannot fly seemed wrong]`
+`[review: Ride (Horse) at level 3 replaced with Pilot (Starship) rather than Ride (Land); a starship engineer who cannot fly seemed wrong]`
 `[review: Language (Khazalid) mapped to Language (Binary) as the droid/engineering tongue]`
 `[review: Hammer and Spikes re-themed as Hydrospanner and Fusion Cutter]`
-`[review: overlaps Artisan: the Engineer is formally trained in starship/droid/weapon systems and carries Ranged (Heavy Blaster) and Heavy Gunner; the Artisan is a general craftsman]`
+`[review: overlaps Artisan: the Engineer is formally trained in starship/droid/weapon systems and carries Ranged (Blaster) and Heavy Gunner; the Artisan is a general craftsman]`
+`[review: weapon-skill consolidation left Ranged (Blaster) twice; level 2 copy replaced by Lore (Science)]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Profession (Fabricator) added]`
 
 ### Pharmacist
 
@@ -207,7 +210,7 @@ Pharmacists compound medicines, stims, antitoxins and bacta derivatives for medc
 
 *Career Path*
 **1. Pharmacist's Apprentice — Brass 3**
-**Skills:** Consume Intoxicant, Medicine, Language (Old Galactic Standard), Lore (Chemistry), Lore (Medicine), Lore (Botany), *Profession (Pharmacist)*, Profession (Poisoner)
+**Skills:** Consume Intoxicant, Medicine, Language (Old Galactic Standard), Lore (Chemistry), Lore (Medicine), Lore (Botany), *Profession (Pharmacist)*, Profession (Poisoner), Evaluate, Sleight of Hand
 **Talents:** Concoct, Craftsman (Pharmacist), Etiquette (Scholars), Datapad Use
 **Trappings:** Datapad (blank archive), Medpac, Armoured Jacket, Portable Chem Synthesiser
 
@@ -222,7 +225,7 @@ Pharmacists compound medicines, stims, antitoxins and bacta derivatives for medc
 **Trappings:** Datapad with Pharmacology archive, Apprentice, Workshop
 
 **4. Pharmacist-General — Gold 1**
-**Skills:** Intimidate, Ride (Creature)
+**Skills:** Intimidate, Ride (Land)
 **Talents:** Acute Sense (Taste), Coolheaded, Master (Poisoner), Savant (Pharmacology)
 **Trappings:** Code Cylinder of Commission, Large Workshop
 
@@ -230,8 +233,9 @@ Pharmacists compound medicines, stims, antitoxins and bacta derivatives for medc
 `[review: scheme levels 2-4 proposed: I at 2, Fel at 3, WP at 4]`
 `[review: Savant (Apothecary) rendered as Savant (Pharmacology); Lore (Pharmacology) exists in the talent list (Concoct) but not in the mapping table]`
 `[review: Pestle and Mortar re-themed as Portable Chem Synthesiser; Commission Papers as Code Cylinder of Commission]`
-`[review: Ride (Creature) at level 4 is a straight map of Ride (Horse); Pilot (Speeder) may suit a Core World pharmacist better]`
+`[review: Ride (Land) at level 4 is a straight map of Ride (Horse); Pilot (Speeder) may suit a Core World pharmacist better]`
 `[review: overlaps Physician (Medic): the Pharmacist makes compounds and poisons rather than treating patients, and holds Profession (Pharmacist) / Profession (Poisoner) instead of Profession (Medic) and Surgery]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Sleight of Hand added]`
 
 ### Physician (Medic)
 
@@ -249,7 +253,7 @@ Medics study patients' vitals, prescribe stims and surgeries, and patch the woun
 *Career Path*
 **1. Physician’s Apprentice — Brass 4**
 
-**Skills:** Briberyry, Cool, Pilot (Speeder), Endurance, Gossip, Medicine, Perception, Sleight of Hand `[converted]`
+**Skills:** Bribery, Cool, Pilot (Speeder), Endurance, Gossip, Medicine, Perception, Sleight of Hand, Intuition, Language (Old Galactic Standard) `[converted]`
 
 **Talents:** Bookish, Field Dressing, Datapad Use, Strike to Stun
 
@@ -273,11 +277,14 @@ Medics study patients' vitals, prescribe stims and surgeries, and patch the woun
 
 **4. Head Physician — Gold 1**
 
-**Skills:** Lore (Politics), Perform (Oratory)
+**Skills:** Lore (Politics), Entertain (Speeches)
 
 **Talents:** Etiquette (Nobles), Nimble Fingered, Savant (Medicine), Strong-Minded
 
 **Trappings:** High Society Clothing, Code Cylinder of Appointment
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Language (Old Galactic Standard) added]`
 
 ### Scholar
 
@@ -296,7 +303,7 @@ Scholars are the academics of the galaxy: historians of the Old Republic, xenobi
 
 *Career Path*
 **1. Student — Brass 3**
-**Skills:** Consume Intoxicant, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Old Galactic Standard), Lore (Any), *Research*
+**Skills:** Consume Intoxicant, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Old Galactic Standard), Lore (Any), *Research*, Evaluate, Lore (Galactic History)
 **Talents:** Carouser, Datapad Use, Savvy, Super Numerate
 **Trappings:** Bottle of Intoxicant, Datapad with (subject) archive, Opinions
 
@@ -319,6 +326,7 @@ Scholars are the academics of the galaxy: historians of the Old Republic, xenobi
 `[review: scheme levels 2-4 proposed: I at 2, Fel at 3, Ag at 4]`
 `[review: Mortarboard re-themed as Academic Sash; Access to a Library as Access to a HoloNet Archive]`
 `[review: overlaps Investigator and Advisor: the Scholar researches and teaches rather than investigates cases or counsels a patron; built around Research, Lore (Any) and Savant]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Lore (Galactic History) added]`
 
 ### Slicer
 
@@ -337,7 +345,7 @@ Slicers are the intrusion specialists of the HoloNet age, cracking datavaults, r
 
 *Career Path*
 **1. Apprentice Slicer — Brass 3**
-**Skills:** Codes (Underworld), Cool, Gossip, Perception, *Profession (Slicer)*, Research, Sleight of Hand, Stealth (Urban)
+**Skills:** Codes (Underworld), Cool, Gossip, Perception, *Profession (Slicer)*, Research, Sleight of Hand, Stealth (Urban), Lore (Science), Intuition
 **Talents:** Bookish, Datapad Use, Nimble Fingered, Speedreader
 **Trappings:** Datapad, Tool Kit (Slicer), Comlink, Forged Code Cylinder
 
@@ -364,6 +372,7 @@ Slicers are the intrusion specialists of the HoloNet age, cracking datavaults, r
 `[review: overlaps Spy and Thief; differs in that the Slicer works entirely through computers and droids and has no Stealth beyond Urban, no combat skills]`
 
 ## Citizens
+`[review: level 1 raised to ten skills (13 Oct ruling): Lore (Science) and Intuition added]`
 
 ### Agitator
 
@@ -381,7 +390,7 @@ Agitators lobby for political causes using HoloNet broadcasts, illicit data-leaf
 *Career Path*
 **1. Pamphleteer — Brass 1**
 
-**Skills:** Art (Writing), Briberyry, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer) `[converted]`
+**Skills:** Art (Writing), Bribery, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer), Entertain (Speeches), Stealth (Urban) `[converted]`
 
 **Talents:** Blather, Gregarious, Panhandle, Datapad Use
 
@@ -405,11 +414,14 @@ Agitators lobby for political causes using HoloNet broadcasts, illicit data-leaf
 
 **4. Demagogue — Brass 5**
 
-**Skills:** Lore (Galactic Sigils), Ride (Bantha)
+**Skills:** Lore (Galactic Sigils), Ride (Land)
 
 **Talents:** Etiquette (Any), Master Orator, Schemer, Suave
 
 **Trappings:** 3 Pamphleteers, Patron, Holo-Publisher, Impressive Hat
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Entertain (Speeches) and Stealth (Urban) added]`
 
 ### Artisan
 
@@ -427,9 +439,9 @@ Artisans produce goods, ranging from everyday necessities sold by Provisioners a
 *Career Path*
 **1. Apprentice Artisan — Brass 2**
 
-**Skills:** Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any)
+**Skills:** Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any), Art (Any), Climb
 
-**Talents:** Artistic, Craftsman (any), Strong Back, Very Strong
+**Talents:** Artistic, Craftsman (Any), Strong Back, Very Strong
 
 **Trappings:** Marker Stylus, Padded Vest, Scrap Cloth `[converted]`
 
@@ -451,11 +463,14 @@ Artisans produce goods, ranging from everyday necessities sold by Provisioners a
 
 **4. Guildmaster — Gold 1**
 
-**Skills:** Briberyry, Intimidate `[converted]`
+**Skills:** Bribery, Intimidate `[converted]`
 
-**Talents:** Briberyr, Magnum Opus, Public Speaker, Schemer `[converted]`
+**Talents:** Briber, Magnum Opus, Public Speaker, Schemer `[converted]`
 
 **Trappings:** Guild, Quality Clothing
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Art (Any) and Climb added]`
 
 ### Beggar
 
@@ -474,7 +489,7 @@ Beggars crowd the underlevels of Coruscant, the spaceport gates of Nar Shaddaa a
 
 *Career Path*
 **1. Pauper — Brass 0**
-**Skills:** Athletics, *Charm*, Consume Intoxicant, Cool, Dodge, Endurance, Intuition, Stealth (Urban)
+**Skills:** Athletics, *Charm*, Consume Intoxicant, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Gamble, Climb
 **Talents:** Panhandle, Resistance (Disease), Stone Soup, Very Resilient
 **Trappings:** Threadbare Thermal Blanket, Begging Cup
 
@@ -498,6 +513,7 @@ Beggars crowd the underlevels of Coruscant, the spaceport gates of Nar Shaddaa a
 `[review: Secret Signs (Vagabond) mapped to Codes (Spacer) per the table; an undercity beggar might instead want Codes (Underworld)]`
 `[review: Fearless (Watchmen) rendered as Fearless (Security Forces) to cover sector police, stormtroopers and Hutt enforcers]`
 `[review: overlaps Bawd and Charlatan: the Beggar has no trade and no confidence game, only charity, survival and street intelligence]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Climb added]`
 
 ### Camp Follower
 
@@ -516,12 +532,12 @@ Every army drags a second army behind it: cooks, menders, cantina-keepers, stim-
 
 *Career Path*
 **1. Camp Hanger-on — Brass 1**
-**Skills:** Charm, Consume Intoxicant, Dodge, Entertain (Any), Gossip, *Haggle*, Melee (Brawling), Outdoor Survival
+**Skills:** Charm, Consume Intoxicant, Dodge, Entertain (Any), Gossip, *Haggle*, Melee (Brawling), Outdoor Survival, Perception, Perform (Dancing)
 **Talents:** Attractive, Beneath Notice, Blather, Dirty Fighting
 **Trappings:** Bedroll, Vibroknife, Backpack, Ration Packs
 
 **2. Camp Follower — Brass 4**
-**Skills:** Athletics, Bribery, Endurance, Gamble, Ranged (Blaster Pistol), Stealth (Rural)
+**Skills:** Athletics, Bribery, Endurance, Gamble, Ranged (Blaster), Stealth (Rural)
 **Talents:** Diceman, Etiquette (Soldiers), Rover, Stone Soup
 **Trappings:** Survival Shelter, Quality Hat, Hold-out Blaster
 
@@ -538,9 +554,10 @@ Every army drags a second army behind it: cooks, menders, cantina-keepers, stim-
 *Conversion notes:*
 `[review: parent Camp Follower (WFRP 4e Up in Arms)]`
 `[review: scheme levels 2-4 proposed: T at 2, I at 3, Int at 4]`
-`[review: the extracted level 1 listed ten skills; Perception and Perform (Dance) were dropped to reach eight, and Melee (Any) was narrowed to Melee (Brawling)]`
-`[review: Ranged (Any) at level 2 narrowed to Ranged (Blaster Pistol); Riding Horse at level 4 rendered as Speeder Bike]`
+`[review: the extracted level 1 listed ten skills; Perception and Perform (Dancing) were dropped to reach eight, and Melee (Any) was narrowed to Melee (Brawling)]`
+`[review: Ranged (Any) at level 2 narrowed to Ranged (Blaster); Riding Horse at level 4 rendered as Speeder Bike]`
 `[review: overlaps Bawd: the Camp Follower is a mobile trader in army comforts (Haggle, Outdoor Survival, Stone Soup, Etiquette (Soldiers)) rather than an urban procurer]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Perception and Perform (Dancing) added]`
 
 ### Chemist
 
@@ -559,12 +576,12 @@ Chemists work the bacta tanks of Thyferra, the kolto beds of Manaan and the refi
 
 *Career Path*
 **1. Harvester — Brass 2**
-**Skills:** Charm Creature, Climb, Endurance, Lore (Botany), Outdoor Survival, Perception, Swim, *Profession (Chemist)*
+**Skills:** Charm Creature, Climb, Endurance, Lore (Botany), Outdoor Survival, Perception, Swim, *Profession (Chemist)*, Evaluate, Research
 **Talents:** Acute Sense (Taste), Orientation, Rover, Strider (Any)
 **Trappings:** Sturdy Boots, Cloak, Sling Bag containing Assortment of Raw Compounds
 
 **2. Chemist — Brass 4**
-**Skills:** Consume Intoxicant, Cool, Gossip, Haggle, Medicine, Lore (Local (world))
+**Skills:** Consume Intoxicant, Cool, Gossip, Haggle, Medicine, Lore (Local)
 **Talents:** Dealmaker, Nimble Fingered, Sharp, Sturdy
 **Trappings:** Vibroblade, Medpac, Tool Kit (Chemist)
 
@@ -584,6 +601,7 @@ Chemists work the bacta tanks of Thyferra, the kolto beds of Manaan and the refi
 `[review: Concoct keys off Lore (Pharmacology) in the talent list, which is not in the Lore mapping; Lore (Medicine) used here instead]`
 `[review: Hand Weapon (Sickle) re-themed as plain Vibroblade; Pony and Cart as Cargo Landspeeder]`
 `[review: overlaps Physician (treats patients) and Artisan (general crafts); Chemist makes the compounds and drugs the Physician uses]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Research added]`
 
 ### Citizen
 
@@ -602,12 +620,12 @@ Citizens run the shops, offices and administrative bureaus of every settled worl
 
 *Career Path*
 **1. Clerk — Silver 1**
-**Skills:** Charm, Climb, Consume Intoxicant, Pilot (Speeder), Dodge, Gamble, Gossip, *Haggle*
+**Skills:** Charm, Climb, Consume Intoxicant, Pilot (Speeder), Dodge, Gamble, Gossip, *Haggle*, Athletics, Endurance
 **Talents:** Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy
 **Trappings:** Lodgings, Sturdy Boots
 
 **2. Citizen — Silver 2**
-**Skills:** Bribery, Evaluate, Intuition, Lore (Local), Melee (Brawling), Play (Any instrument)
+**Skills:** Bribery, Evaluate, Intuition, Lore (Local), Melee (Brawling), Play (Any)
 **Talents:** Dealmaker, Embezzle, Etiquette (Any), Gregarious
 **Trappings:** Modest Apartment, Servant Droid, Datapad
 
@@ -627,6 +645,7 @@ Citizens run the shops, offices and administrative bureaus of every settled worl
 `[review: Chains of Office re-themed as Badge of Office; Townhouse as Apartment; Coach and Driver as Landspeeder and Driver Droid]`
 `[review: Datapad Use arrives at level 3, late for a clerk; consider swapping it with Alley Cat at level 1]`
 `[review: overlaps Merchant and Agitator: the Citizen is a salaried functionary who rises through civic office rather than trade or rabble-rousing]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Endurance added]`
 
 ### Colonist
 
@@ -645,12 +664,12 @@ Colonists are the settlers, moisture farmers, homesteaders and frontier labourer
 
 *Career Path*
 **1. Settler — Brass 2**
-**Skills:** Athletics, Consume Intoxicant, Creature Care, Endurance, Gossip, Lore (Local), Melee (Brawling), *Outdoor Survival*
+**Skills:** Athletics, Consume Intoxicant, Creature Care, Endurance, Gossip, Lore (Local), Melee (Brawling), *Outdoor Survival*, Climb, Navigation
 **Talents:** Rover, Stone Soup, Strong Back, Strong-Minded
 **Trappings:** Work Clothes, Hydrospanner, Ration Packs
 
 **2. Colonist — Brass 3**
-**Skills:** Entertain (Storytelling), Haggle, Melee (Vibroblade), Pilot (Speeder), Profession (Any), Ride (Creature)
+**Skills:** Entertain (Storytelling), Haggle, Melee (1H), Pilot (Speeder), Profession (Any), Ride (Land)
 **Talents:** Creature Affinity, Hardy, Tenacious, Very Strong
 **Trappings:** Armoured Jacket, Vibro-axe, Tool Kit (Profession)
 
@@ -667,9 +686,10 @@ Colonists are the settlers, moisture farmers, homesteaders and frontier labourer
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: WP, Fel, Int]`
 `[review: Earning skill chosen as Outdoor Survival (settler works the land); rulebook italics not carried in the data]`
-`[review: level 2 data listed only five skills; Ride (Creature) added from the WFRP Villager table to make six]`
+`[review: level 2 data listed only five skills; Ride (Land) added from the WFRP Villager table to make six]`
 `[review: level 1 trappings were "None"; Work Clothes, Hydrospanner and Ration Packs added so the level is not empty]`
 `[review: overlaps Artisan at levels 2-4 (Profession, Craftsman, Master); differs by being land-and-community focused rather than workshop-based]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Navigation added]`
 
 ### Fieldwarden
 
@@ -688,12 +708,12 @@ Fieldwardens patrol the edges of settled land on frontier and agricultural world
 
 *Career Path*
 **1. Novice Warden — Brass 4**
-**Skills:** Athletics, Climb, Intuition, Navigation, Perception, *Ranged (Slugthrower)*, Stealth (Rural), Track
+**Skills:** Athletics, Climb, Intuition, Navigation, Perception, *Ranged (Archaic)*, Stealth (Rural), Track, Lore (Local), Swim
 **Talents:** Careful Strike, Distract, Fast Shot, Stout-Hearted
 **Trappings:** Backpack, Survival Shelter, Datapad with local survey map, Slugthrower Pistol with ammunition, Tool Kit (any Profession)
 
 **2. Fieldwarden — Silver 1**
-**Skills:** Charm, Consume Intoxicant, Dodge, Melee (Vibroblade), Outdoor Survival, Codes (Scout)
+**Skills:** Charm, Consume Intoxicant, Dodge, Melee (1H), Outdoor Survival, Codes (Scout)
 **Talents:** Accurate Shot, Drilled, Nose for Trouble, Orientation
 **Trappings:** Armoured Jacket, Vibroblade, Glow Rod
 
@@ -709,12 +729,13 @@ Fieldwardens patrol the edges of settled land on frontier and agricultural world
 
 *Conversion notes:*
 `[review: parent Fieldwarden (WFRP 4e Archives of the Empire Vol. I); Halfling flavour removed, no species named in the concept so none substituted]`
-`[review: the level-1 skill line was lost in extraction and has been rebuilt from the career's role and its level-1 trappings and talents (Sling, map, Fast Shot, Distract): Athletics, Climb, Intuition, Navigation, Perception, Ranged (Slugthrower), Stealth (Rural), Track; check against the printed career; Profession (Any) could replace Track given the Trade Tools trapping]`
+`[review: the level-1 skill line was lost in extraction and has been rebuilt from the career's role and its level-1 trappings and talents (Sling, map, Fast Shot, Distract): Athletics, Climb, Intuition, Navigation, Perception, Ranged (Archaic), Stealth (Rural), Track; check against the printed career; Profession (Any) could replace Track given the Trade Tools trapping]`
 `[review: scheme levels 2-4 proposed: I at 2, T at 3, Fel at 4]`
 `[review: Lore (Necromancy) at level 3 rendered as Lore (Beasts) to fit a colony militia; the table mapping would give Lore (Dark Side)]`
 `[review: the source level 4 listed five talents; Savant (Moot terrain) was dropped; Hatred (Undead) rendered as Hatred (Slavers) and Fearless as Fearless (Raiders)]`
 `[review: Sling with 10 stones rendered as Slugthrower Pistol with ammunition per the Sling -> Slugthrower Pistol note]`
-`[review: overlaps Guard and Warden: the Fieldwarden is a rural ranged skirmisher and tracker for a settlers' council (Ranged (Slugthrower), Track, Stealth (Rural), Codes (Scout)) rather than a paid gate sentry or an institutional custodian]`
+`[review: overlaps Guard and Warden: the Fieldwarden is a rural ranged skirmisher and tracker for a settlers' council (Ranged (Archaic), Track, Stealth (Rural), Codes (Scout)) rather than a paid gate sentry or an institutional custodian]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Swim added]`
 
 ### Holonet Journalist
 
@@ -733,7 +754,7 @@ Holonet Journalists feed the galaxy's hunger for news, from the great HoloNet Ne
 
 *Career Path*
 **1. Stringer — Brass 3**
-**Skills:** Art (Holography), Charm, Gossip, Intuition, Lore (Local), Perception, *Profession (Journalist)*, Research
+**Skills:** Art (Holography), Charm, Gossip, Intuition, Lore (Local), Perception, *Profession (Journalist)*, Research, Evaluate, Lore (Galactic History)
 **Talents:** Datapad Use, Gregarious, Nose for Trouble, Speedreader
 **Trappings:** Datapad, Holorecorder, Comlink, Press credentials (Trade Permit)
 
@@ -748,7 +769,7 @@ Holonet Journalists feed the galaxy's hunger for news, from the great HoloNet Ne
 **Trappings:** Slicer's Kit, Hovering holocam droid, Network of informants, Apartment on a Core World
 
 **4. Holonet Anchor — Gold 1**
-**Skills:** Leadership, Lore (Galactic Republic or Galactic Empire, by era)
+**Skills:** Leadership, Lore (Galactic Republic or Galactic Empire)
 **Talents:** Argumentative, Impassioned Zeal, Master Orator, Public Speaker
 **Trappings:** HoloNet broadcast slot and studio, Staff of reporters, Private Shuttle, Luxury apartment
 
@@ -757,6 +778,7 @@ Holonet Journalists feed the galaxy's hunger for news, from the great HoloNet Ne
 `[review: Status values proposed (Brass 3 / Silver 1 / Silver 3 / Gold 1)]`
 `[review: role overlaps Agitator, Investigator and Spy; differs in that the Journalist publishes openly for a paying audience rather than agitating for a cause, hunting criminals or working for a handler]`
 `[review: trappings "Holorecorder", "Hovering holocam droid" and "HoloNet transceiver account" are new items not in the brief's table; Slicer's Kit re-themed from Lockpicks (Security Kit)]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Lore (Galactic History) added]`
 
 ### Investigator
 
@@ -774,7 +796,7 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 *Career Path*
 **1. Sleuth — Silver 1**
 
-**Skills:** Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track
+**Skills:** Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track, Research, Lore (Local)
 
 **Talents:** Alley Cat, Beneath Notice, Datapad Use, Sharp
 
@@ -782,7 +804,7 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 
 **2. Investigator — Silver 2**
 
-**Skills:** Consume Intoxicant, Dodge, Lore (Law), Melee (Brawling), Slice Security System System, Sleight of Hand `[converted]`
+**Skills:** Consume Intoxicant, Dodge, Lore (Law), Melee (Brawling), Slice Security System, Sleight of Hand `[converted]`
 
 **Talents:** Etiquette (Any), Savvy, Shadow, Tenacious
 
@@ -790,7 +812,7 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 
 **3. Master Investigator — Silver 3**
 
-**Skills:** Briberyry, Evaluate, Leadership, Lore (Any) `[converted]`
+**Skills:** Bribery, Evaluate, Leadership, Lore (Any) `[converted]`
 
 **Talents:** Bookish, Break and Enter, Sixth Sense, Suave
 
@@ -798,11 +820,14 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 
 **4. Detective — Silver 5**
 
-**Skills:** Intimidate, Lore (any)
+**Skills:** Intimidate, Lore (Any)
 
 **Talents:** Acute Sense (Any), Savant (Any), Speedreader, Eidetic Memory
 
 **Trappings:** Network of Informants, Macrobinoculars
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Research and Lore (Local) added]`
 
 ### Mechanic
 
@@ -821,7 +846,7 @@ Mechanics are found in every hangar, docking bay and junkyard from the Core to t
 
 *Career Path*
 **1. Apprentice Mechanic — Brass 3**
-**Skills:** Athletics, Cool, Endurance, Evaluate, Language (Binary), Lore (Engineering), Perception, *Profession (Mechanic)*
+**Skills:** Athletics, Cool, Endurance, Evaluate, Language (Binary), Lore (Engineering), Perception, *Profession (Mechanic)*, Intuition, Dodge
 **Talents:** Craftsman (Mechanic), Datapad Use, Scavenger, Tinker
 **Trappings:** Tool Kit (Mechanic), Coveralls, Fusion Cutter, Glow Rod
 
@@ -845,6 +870,7 @@ Mechanics are found in every hangar, docking bay and junkyard from the Core to t
 `[review: Status values Brass 3 / Silver 1 / Silver 3 / Silver 5 proposed, following the Artisan-style trade ladder rather than the Gold-topped professional one]`
 `[review: Profession (Mechanic) proposed as the earning skill; Profession (Starship Mechanic), (Fabricator) and (Engineer) are the mapped SL100 Professions and are opened at later levels]`
 `[review: overlaps Artisan; differs in that it is vehicle, starship and droid repair specifically and gains Pilot skills and a Droid Companion rather than crafting goods]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Dodge added]`
 
 ### Merchant
 
@@ -862,7 +888,7 @@ Most Merchants trade in simple goods such as foodstuffs, textiles, durasteel, an
 *Career Path*
 **1. Trader — Silver 2**
 
-**Skills:** Creature Care, Briberyry, Charm, Consume Intoxicant, Pilot (Speeder), Gamble, Gossip, Haggle `[converted]`
+**Skills:** Creature Care, Bribery, Charm, Consume Intoxicant, Pilot (Speeder), Gamble, Gossip, Haggle, Pilot (Starship), Lore (Hyperlanes) `[converted]`
 
 **Talents:** Blather, Dealmaker, Datapad Use, Suave
 
@@ -872,13 +898,13 @@ Most Merchants trade in simple goods such as foodstuffs, textiles, durasteel, an
 
 **Skills:** Evaluate, Intuition, Language (Any), Language (Bocce), Lore (Local), Perception
 
-**Talents:** Briberyr, Embezzle, Etiquette (Trade Guild), Savvy `[converted]`
+**Talents:** Briber, Embezzle, Etiquette (Trade Guild), Savvy `[converted]`
 
 **Trappings:** Light Freighter or 2 Cargo Speeders, Trade Permit, 20 Credits
 
 **3. Master Merchant — Gold 1**
 
-**Skills:** Cool, Language (Old Tongue), Navigation, Codes (Trade Guild)
+**Skills:** Cool, Language (Old Galactic Standard), Navigation, Codes (Trade Guild)
 
 **Talents:** Cat-tongued, Etiquette (Any), Numismatics, Sharp
 
@@ -891,6 +917,9 @@ Most Merchants trade in simple goods such as foodstuffs, textiles, durasteel, an
 **Talents:** Iron Will, Luck, Schemer, Wealthy
 
 **Trappings:** 2 Light Freighter share or 4 Cargo Speeders, Large Town Estate, 2 Warehouses, 1000 Credits, Quality Clothing `[converted]`
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Pilot (Starship) and Lore (Hyperlanes) added]`
 
 ### Miner
 
@@ -909,12 +938,12 @@ Miners work the asteroid belts of Hoth and the Roche fields, the spice mines of 
 
 *Career Path*
 **1. Prospector — Brass 2**
-**Skills:** Cool, *Endurance*, Intuition, Lore (Local (world)), Melee (Two-Handed), Outdoor Survival, Perception, Swim
+**Skills:** Cool, *Endurance*, Intuition, Lore (Local), Melee (2H), Outdoor Survival, Perception, Swim, Athletics, Navigation
 **Talents:** Rover, Strider (Rocky), Sturdy, Tenacious
 **Trappings:** Datapad with Survey Map, Mineral Scanner, Excavation Tool, Breath Mask
 
 **2. Miner — Brass 4**
-**Skills:** Climb, Consume Intoxicant, Evaluate, Melee (Vibroblade), Codes (Miner), Profession (Demolitionist)
+**Skills:** Climb, Consume Intoxicant, Evaluate, Melee (1H), Codes (Miner), Profession (Demolitionist)
 **Talents:** Night Vision, Strike Mighty Blow, Strong Back, Very Strong
 **Trappings:** Helmet Lamp, Vibro-pick, Power Cells, Armoured Jacket
 
@@ -933,6 +962,7 @@ Miners work the asteroid belts of Hoth and the Roche fields, the spice mines of 
 `[review: Earning skill chosen as Endurance; rulebook text did not mark one]`
 `[review: Charcoal Stick, Crude Map, Pan and Spade re-themed as Datapad with Survey Map, Mineral Scanner and Excavation Tool, plus Breath Mask as the iconic item; Davrich Lamp and Lamp Oil as Helmet Lamp and Power Cells]`
 `[review: Hand Weapon (Pick) and Great Weapon (Two-handed Pick) rendered as Vibro-pick and Two-Handed Vibro-pick; neither is in the mapping table]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Navigation added]`
 
 ### Security Officer
 
@@ -951,12 +981,12 @@ Security Officers are the planetary police, corporate security details and secto
 
 *Career Path*
 **1. Security Recruit — Brass 3**
-**Skills:** Athletics, Climb, Consume Intoxicant, Dodge, Endurance, Gamble, *Melee (Vibroblade)*, Perception
+**Skills:** Athletics, Climb, Consume Intoxicant, Dodge, Endurance, Gamble, *Melee (1H)*, Perception, Ranged (Blaster), Stealth (Urban)
 **Talents:** Drilled, Hardy, Strike to Stun, Tenacious
 **Trappings:** Vibroblade or Stun Baton, Armoured Jacket, Uniform
 
 **2. Security Officer — Silver 1**
-**Skills:** Charm, Cool, Gossip, Intimidate, Intuition, Lore (Local (world))
+**Skills:** Charm, Cool, Gossip, Intimidate, Intuition, Lore (Local)
 **Talents:** Break and Enter, Criminal, Night Vision, Sprinter
 **Trappings:** Glow Rod, Comlink, Security Badge
 
@@ -972,11 +1002,12 @@ Security Officers are the planetary police, corporate security details and secto
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: T at level 2, I at level 3, BS at level 4]`
-`[review: level 4 Ride (Horse) converted to Pilot (Speeder) rather than Ride (Creature); a patrol chief drives, not rides]`
+`[review: level 4 Ride (Horse) converted to Pilot (Speeder) rather than Ride (Land); a patrol chief drives, not rides]`
 `[review: Hand Weapon offered as Vibroblade or Stun Baton; Stun Baton is not in the mapping table but is the iconic police sidearm]`
 `[review: Copper Badge re-themed as Security Badge; Lantern and Pole + Lamp Oil collapsed to Glow Rod and Comlink]`
-`[review: Earning skill chosen as Melee (Vibroblade); rulebook text did not mark one]`
+`[review: Earning skill chosen as Melee (1H); rulebook text did not mark one]`
 `[review: overlaps Guard (static protection of a person or place) and Warden (prisons); Security Officer is the civic street force with investigative and social skills]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Stealth (Urban) added]`
 
 ### Vermin Hunter
 
@@ -995,7 +1026,7 @@ Vermin Hunters clear the pests no one else will touch: womp rats in Tatooine's m
 
 *Career Path*
 **1. Rat Hunter — Brass 3**
-**Skills:** Athletics, *Creature Training (Massiff)*, Charm Creature, Consume Intoxicant, Endurance, Melee (Vibroblade), Ranged (Slugthrower), Stealth (Underground or Urban)
+**Skills:** Athletics, *Creature Training (Massiff)*, Charm Creature, Consume Intoxicant, Endurance, Melee (1H), Ranged (Archaic), Stealth (Underground or Urban), Outdoor Survival, Lore (Beasts)
 **Talents:** Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun
 **Trappings:** Slugthrower Pistol with ammunition, Sack, Small but Vicious Massiff
 
@@ -1005,7 +1036,7 @@ Vermin Hunters clear the pests no one else will touch: womp rats in Tatooine's m
 **Trappings:** Creature Traps, Pole for Dead Vermin
 
 **3. Duct Jack — Silver 2**
-**Skills:** Climb, Cool, Dodge, Ranged (Blaster Pistol)
+**Skills:** Climb, Cool, Dodge, Ranged (Blaster)
 **Talents:** Hardy, Stout-Hearted, Strong Legs, Duct Crawler
 **Trappings:** Glow Rod, Vibroblade, Armoured Jacket
 
@@ -1024,6 +1055,7 @@ Vermin Hunters clear the pests no one else will touch: womp rats in Tatooine's m
 `[review: overlaps Scout and Bounty Hunter only loosely: the Vermin Hunter tracks and kills animals in enclosed urban spaces, not sentients]`
 
 ## Dignitaries
+`[review: level 1 raised to ten skills (13 Oct ruling): Outdoor Survival and Lore (Beasts) added]`
 
 ### Advisor
 
@@ -1041,7 +1073,7 @@ Advisors provide counsel to those they serve. Well-versed in the political and s
 *Career Path*
 **1. Aide — Silver 2**
 
-**Skills:** Briberyry, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Tongue), Lore (Politics), Perception `[converted]`
+**Skills:** Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Galactic Standard), Lore (Politics), Perception, Research, Lore (Law) `[converted]`
 
 **Talents:** Beneath Notice, Etiquette (Any), Gregarious, Datapad Use
 
@@ -1059,17 +1091,20 @@ Advisors provide counsel to those they serve. Well-versed in the political and s
 
 **Skills:** Entertain (Storytelling), Leadership, Language (Any), Lore (Any)
 
-**Talents:** Argumentative, Briberyr, Carouser, Cat-tongued `[converted]`
+**Talents:** Argumentative, Briber, Carouser, Cat-tongued `[converted]`
 
 **Trappings:** Quality Clothing, Aide
 
 **4. Chancellor — Gold 3**
 
-**Skills:** Lore (Galactic Sigils), Ride (Bantha)
+**Skills:** Lore (Galactic Sigils), Ride (Land)
 
 **Talents:** Commanding Presence, Embezzle, Kingpin, Suave
 
 **Trappings:** Starship, Quality Courtly Garb, Staff of Advisors and Aides
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Research and Lore (Law) added]`
 
 ### Artist
 
@@ -1088,7 +1123,7 @@ Artists are the holo-sculptors, painters, composers and performers whose work ha
 
 *Career Path*
 **1. Apprentice Artist — Silver 1**
-**Skills:** *Art (Any)*, Cool, Consume Intoxicant, Evaluate, Endurance, Gossip, Perception, Stealth (Urban)
+**Skills:** *Art (Any)*, Cool, Consume Intoxicant, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Climb, Entertain (Storytelling)
 **Talents:** Artistic, Sharp, Strong Back, Tenacious
 **Trappings:** Holo-stylus or Sculpting Laser or Datapad with Art Suite
 
@@ -1110,9 +1145,10 @@ Artists are the holo-sculptors, painters, composers and performers whose work ha
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: Fel at level 2, Ag at level 3, Int at level 4]`
 `[review: data file listed seven level-2 skills; Climb dropped to keep the 8/6/4/2 count]`
-`[review: level 4 Ride (Horse) converted to Pilot (Speeder); Ride (Creature) is the literal mapping if preferred]`
+`[review: level 4 Ride (Horse) converted to Pilot (Speeder); Ride (Land) is the literal mapping if preferred]`
 `[review: Brush or Chisel or Quill Pen re-themed as Holo-stylus or Sculpting Laser or Datapad with Art Suite; Library (Art) as Datapad with Art Archive]`
 `[review: overlaps Artisan (practical crafts); Artist is fine art and performance for patrons, with social rather than engineering skills]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Entertain (Storytelling) added]`
 
 ### Attendant
 
@@ -1131,7 +1167,7 @@ Attendants are the valets, stewards, footmen and household staff of senators, Mo
 
 *Career Path*
 **1. Menial — Silver 1**
-**Skills:** Athletics, Climb, Pilot (Speeder), Dodge, *Endurance*, Intuition, Perception, Stealth (Any)
+**Skills:** Athletics, Climb, Pilot (Speeder), Dodge, *Endurance*, Intuition, Perception, Stealth (Any), Sleight of Hand, Melee (Brawling)
 **Talents:** Beneath Notice, Strong Back, Strong-Minded, Sturdy
 **Trappings:** Cleaning Kit
 
@@ -1141,12 +1177,12 @@ Attendants are the valets, stewards, footmen and household staff of senators, Mo
 **Trappings:** Household Livery
 
 **3. Attendant — Silver 5**
-**Skills:** Charm, Cool, Intimidate, Lore (Local (world))
+**Skills:** Charm, Cool, Intimidate, Lore (Local)
 **Talents:** Embezzle, Resistance (Poison), Suave, Supportive
 **Trappings:** Quality Livery, Glow Rod, Comlink, Datapad
 
 **4. Majordomo — Gold 1**
-**Skills:** Leadership, Melee (Vibroblade)
+**Skills:** Leadership, Melee (1H)
 **Talents:** Etiquette (Any), Numismatics, Datapad Use, Savvy
 **Trappings:** Vibroblade, Fine Clothes, Servant or Protocol Droid
 
@@ -1155,6 +1191,7 @@ Attendants are the valets, stewards, footmen and household staff of senators, Mo
 `[review: Earning skill chosen as Endurance; rulebook text did not mark one]`
 `[review: Floor Brush re-themed as Cleaning Kit; Storm Lantern, Tinderbox and Lamp Oil collapsed to Glow Rod, Comlink and Datapad]`
 `[review: level 1 Drive mapped to Pilot (Speeder) per the brief; the existing Physician entry uses Pilot (Land Vehicle), which needs reconciling]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Sleight of Hand and Melee (Brawling) added]`
 
 ### Envoy
 
@@ -1172,7 +1209,7 @@ Experts in negotiation and social interaction, Envoys act as agents serving the 
 *Career Path*
 **1. Herald — Silver 2**
 
-**Skills:** Athletics, Charm, Pilot (Speeder), Dodge, Endurance, Intuition, Ride (Bantha), Pilot (Starship) `[converted]`
+**Skills:** Athletics, Charm, Pilot (Speeder), Dodge, Endurance, Intuition, Ride (Land), Pilot (Starship), Perception, Evaluate `[converted]`
 
 **Talents:** Blather, Etiquette (Nobles), Datapad Use, Suave
 
@@ -1180,9 +1217,9 @@ Experts in negotiation and social interaction, Envoys act as agents serving the 
 
 **2. Envoy — Silver 4**
 
-**Skills:** Art (Writing), Briberyry, Cool, Gossip, Haggle, Lore (Politics) `[converted]`
+**Skills:** Art (Writing), Bribery, Cool, Gossip, Haggle, Lore (Politics) `[converted]`
 
-**Talents:** Attractive, Cat-tongued, Etiquette (any), Seasoned Traveller
+**Talents:** Attractive, Cat-tongued, Etiquette (Any), Seasoned Traveller
 
 **Trappings:** Datapad, 10 spare datachips
 
@@ -1198,9 +1235,12 @@ Experts in negotiation and social interaction, Envoys act as agents serving the 
 
 **Skills:** Language (Any), Lore (Any)
 
-**Talents:** Briberyr, Commanding Presence, Noble Blood, Savvy `[converted]`
+**Talents:** Briber, Commanding Presence, Noble Blood, Savvy `[converted]`
 
 **Trappings:** Aide, Best Quality Courtly Clothes, Staff of Diplomats, Herald
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Perception and Evaluate added]`
 
 ### Gunslinger
 
@@ -1219,32 +1259,34 @@ Gunslingers are the quick-draw duellists of the Outer Rim: hired guns, cantina c
 
 *Career Path*
 **1. Gun Hand — Silver 3**
-**Skills:** Athletics, Cool, Dodge, Endurance, Intuition, Medicine, Perception, *Ranged (Blaster Pistol)*
+**Skills:** Athletics, Cool, Dodge, Endurance, Intuition, Medicine, Perception, *Ranged (Blaster)*, Ride (Land), Stealth (Urban)
 **Talents:** Quick Draw, Distract, Fast Shot, Step Aside
 **Trappings:** Blaster Pistol with Holster, Sling Bag containing Clothing and 1d10 Medpacs
 
 **2. Gunslinger — Silver 5**
-**Skills:** Charm, Gamble, Language (Old Galactic Standard), Melee (Brawling), Melee (Parry), Profession (Weaponsmith)
+**Skills:** Charm, Gamble, Language (Old Galactic Standard), Melee (Brawling), Melee (1H), Profession (Weaponsmith)
 **Talents:** Combat Reflexes, Etiquette (Any), Accurate Shot, Rapid Reload
 **Trappings:** Second Blaster Pistol, Vibroknife, Spare Power Packs
 
 **3. Duelmaster — Gold 1**
-**Skills:** Intimidate, Leadership, Melee (Vibroblade), Perform (Acrobatics)
+**Skills:** Intimidate, Leadership, Sleight of Hand, Perform (Acrobatics)
 **Talents:** Ambidextrous, Disarm, Dual Wielder, Deadeye Shot
 **Trappings:** Quality Blaster Pistol, Vibroblade, Trusty Second, 2 Training Blasters (stun only)
 
 **4. Famed Gunfighter — Gold 3**
-**Skills:** Lore (Law), Ranged (Slugthrower)
+**Skills:** Lore (Law), Ranged (Archaic)
 **Talents:** Combat Master, Menacing, Reaction Strike, Sharpshooter
 **Trappings:** Matched Pair of Quality Blaster Pistols
 
 *Conversion notes:*
 `[review: no level-1 trio in the rulebook text; whole scheme proposed: BS, I, Ag at level 1, Dex at level 2, WS at level 3, Fel at level 4]`
-`[review: parent Duellist is a sword career; Melee (Any) at level 1 replaced with Ranged (Blaster Pistol), and Beat Blade, Feint, Reversal, Riposte, Strike to Injure replaced with Quick Draw, Fast Shot, Rapid Reload, Deadeye Shot, Sharpshooter to make it a blaster career]`
+`[review: parent Duellist is a sword career; Melee (Any) at level 1 replaced with Ranged (Blaster), and Beat Blade, Feint, Reversal, Riposte, Strike to Injure replaced with Quick Draw, Fast Shot, Rapid Reload, Deadeye Shot, Sharpshooter to make it a blaster career]`
 `[review: level 1 Language (Classical) swapped for Cool (moved up from level 2) so the duellist's nerve is available from the start; Language (Old Galactic Standard) moved to level 2 in place of Cool]`
-`[review: level 4 Melee (Any) converted to Ranged (Slugthrower) to reflect vintage duelling pieces]`
+`[review: level 4 Melee (Any) converted to Ranged (Archaic) to reflect vintage duelling pieces]`
 `[review: Wooden Training Swords re-themed as Training Blasters on stun setting; Main Gauche as Vibroknife]`
 `[review: overlaps Pit Fighter (arena melee) and Bounty Hunter (pursuit); Gunslinger is the formal one-on-one blaster duel with social standing]`
+`[review: weapon-skill consolidation left Melee (1H) twice; level 3 copy replaced by Sleight of Hand]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Ride (Land) and Stealth (Urban) added]`
 
 ### Noble
 
@@ -1262,7 +1304,7 @@ The blood of highborn ancestors courses through the veins of the nobility, grant
 *Career Path*
 **1. Scion — Gold 1**
 
-**Skills:** Briberyry, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (Vibroblade), Play (Any) `[converted]`
+**Skills:** Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (1H), Play (Any), Evaluate, Pilot (Speeder) `[converted]`
 
 **Talents:** Etiquette (Nobles), Luck, Noble Blood, Datapad Use
 
@@ -1270,9 +1312,9 @@ The blood of highborn ancestors courses through the veins of the nobility, grant
 
 **2. Noble — Gold 3**
 
-**Skills:** Charm, Gossip, Language (Old Tongue), Lore (Local), Ride (Bantha), Melee (Parry)
+**Skills:** Charm, Gossip, Language (Old Galactic Standard), Lore (Local), Ride (Land), Ranged (Blaster)
 
-**Talents:** Attractive, Briberyr, Carouser, Suave `[converted]`
+**Talents:** Attractive, Briber, Carouser, Suave `[converted]`
 
 **Trappings:** 4 Household Servants, Quality Courtly Garb, Courtly Garb, Mounted Tauntaun with Saddle and Tack or Landspeeder, Hold-out Blaster or Quality Cloak, Jewellery worth 50 Credits `[converted]`
 
@@ -1292,6 +1334,10 @@ The blood of highborn ancestors courses through the veins of the nobility, grant
 
 **Trappings:** 4 sets of Best Quality Courtly Garb, Quality Ceremonial Vibroblade or Holo-mirror, 500 Credits, Jewellery worth 500 Credits, Province `[converted]`
 
+*Conversion notes:*
+`[review: weapon-skill consolidation left Melee (1H) twice; level 2 copy replaced by Ranged (Blaster)]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Pilot (Speeder) added]`
+
 ### Politician
 
 ![Politician (SL100 original art)](File:SL100 Career Politician.jpg)
@@ -1309,7 +1355,7 @@ Politicians are the senators, planetary representatives, sector delegates and mi
 
 *Career Path*
 **1. Political Aide — Silver 3**
-**Skills:** Bribery, Charm, Cool, Gossip, Intuition, *Lore (Politics)*, Perception, Research
+**Skills:** Bribery, Charm, Cool, Gossip, Intuition, *Lore (Politics)*, Perception, Research, Consume Intoxicant, Language (Old Galactic Standard)
 **Talents:** Argumentative, Blather, Datapad Use, Suave
 **Trappings:** Quality Clothing, Datapad with (Politics) archive, Comlink, HoloNet Subscription
 
@@ -1334,6 +1380,7 @@ Politicians are the senators, planetary representatives, sector delegates and mi
 `[review: level 4 title Chancellor is a Republic-era title; an Imperial-era table may prefer Moff or Governor]`
 `[review: Lore (Imperial Revenue) at level 4 reads as Lore (Republic Revenue) in Republic eras]`
 `[review: overlaps Noble, Envoy and Advisor; differs in that rank is elected or appointed rather than inherited, with Lore (Politics) as the earning skill and no Noble Blood]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Language (Old Galactic Standard) added]`
 
 ### Revenue Agent
 
@@ -1352,12 +1399,12 @@ Revenue Agents are the tax assessors, customs inspectors and tariff collectors o
 
 *Career Path*
 **1. Tax Collector — Silver 1**
-**Skills:** Cool, Dodge, Endurance, Gossip, *Haggle*, Intimidate, Melee (Vibroblade), Perception
+**Skills:** Cool, Dodge, Endurance, Gossip, *Haggle*, Intimidate, Melee (1H), Perception, Ranged (Blaster), Research
 **Talents:** Embezzle, Numismatics, Strong Back, Tenacious
 **Trappings:** Vibroblade, Credit Lockbox, Datapad with Ledger
 
 **2. Revenue Agent — Silver 5**
-**Skills:** Bribery, Charm, Evaluate, Intuition, Leadership, Lore (Local (world))
+**Skills:** Bribery, Charm, Evaluate, Intuition, Leadership, Lore (Local)
 **Talents:** Break and Enter, Criminal, Public Speaker, Strike to Stun
 **Trappings:** Armoured Jacket, 3 Tax Collectors
 
@@ -1374,10 +1421,11 @@ Revenue Agents are the tax assessors, customs inspectors and tariff collectors o
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: Fel at level 2, Int at level 3, T at level 4]`
 `[review: Earning skill chosen as Haggle; rulebook text did not mark one]`
-`[review: level 3 Animal Care replaced with Lore (Imperial Revenue) and Ride (Horse) with Pilot (Speeder); Creature Care and Ride (Creature) are the literal mappings but do not fit a customs official]`
+`[review: level 3 Animal Care replaced with Lore (Imperial Revenue) and Ride (Horse) with Pilot (Speeder); Creature Care and Ride (Land) are the literal mappings but do not fit a customs official]`
 `[review: Lore (Imperial Revenue) reads as Imperial-era; for Republic-era play rename to Lore (Republic Revenue)]`
 `[review: Small Lock Box re-themed as Credit Lockbox; Seal of Office as Code Cylinder of Office]`
 `[review: overlaps Warden (custody) and Advisor (counsel to power); Revenue Agent is enforcement of taxes and tariffs with a coercive edge]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Research added]`
 
 ### Spy
 
@@ -1395,7 +1443,7 @@ Spies are brave (or foolhardy) individuals who secretly gather intelligence for 
 *Career Path*
 **1. Informer — Brass 3**
 
-**Skills:** Briberyry, Charm, Cool, Gamble, Gossip, Haggle, Perception, Stealth (Any) `[converted]`
+**Skills:** Bribery, Charm, Cool, Gamble, Gossip, Haggle, Perception, Stealth (Any), Slice Security System, Lore (Politics) `[converted]`
 
 **Talents:** Blather, Carouser, Gregarious, Shadow
 
@@ -1403,7 +1451,7 @@ Spies are brave (or foolhardy) individuals who secretly gather intelligence for 
 
 **2. Spy — Silver 3**
 
-**Skills:** Climb, Entertain (Act), Intuition, Melee (Vibroblade), Codes (Any), Sleight of Hand `[converted]`
+**Skills:** Climb, Entertain (Acting), Intuition, Melee (1H), Codes (Any), Sleight of Hand `[converted]`
 
 **Talents:** Etiquette (Any), Lip Reading, Datapad Use, Secret Identity
 
@@ -1421,9 +1469,12 @@ Spies are brave (or foolhardy) individuals who secretly gather intelligence for 
 
 **Skills:** Lore (Any), Research
 
-**Talents:** Briberyr, Schemer, Suave, Eidetic Memory `[converted]`
+**Talents:** Briber, Schemer, Suave, Eidetic Memory `[converted]`
 
 **Trappings:** Office and Staff, Large Spy Ring of Agents, Spies, and Informers
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Slice Security System and Lore (Politics) added]`
 
 ### Warden
 
@@ -1441,7 +1492,7 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 *Career Path*
 **1. Custodian — Silver 1**
 
-**Skills:** Athletics, Creature Training (Any), Consume Intoxicant, Cool, Endurance, Intuition, Lore (Local), Perception
+**Skills:** Athletics, Creature Training (Any), Consume Intoxicant, Cool, Endurance, Intuition, Lore (Local), Perception, Track, Navigation
 
 **Talents:** Menacing, Night Vision, Sharp, Strike to Stun
 
@@ -1449,15 +1500,15 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 
 **2. Warden — Silver 3**
 
-**Skills:** Creature Care, Melee (Vibroblade), Outdoor Survival, Ranged (Blaster Rifle), Ride (Bantha), Swim `[converted]`
+**Skills:** Creature Care, Melee (1H), Outdoor Survival, Ranged (Blaster), Ride (Land), Swim `[converted]`
 
-**Talents:** Creature Affinity, Etiquette (Servants), Strider (any), Rover
+**Talents:** Creature Affinity, Etiquette (Servants), Strider (Any), Rover
 
 **Trappings:** Vibroblade or Blaster Rifle with 10 Power Packs, Mounted Tauntaun with Saddle and Tack, Padded Jacket `[converted]`
 
 **3. Seneschal — Gold 1**
 
-**Skills:** Briberyry, Charm, Gossip, Leadership `[converted]`
+**Skills:** Bribery, Charm, Gossip, Leadership `[converted]`
 
 **Talents:** Embezzle, Numismatics, Datapad Use, Supportive
 
@@ -1467,11 +1518,14 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 
 **Skills:** Evaluate, Language (Any)
 
-**Talents:** Commanding Presence, Etiquette (any), Savant (local), Suave
+**Talents:** Commanding Presence, Etiquette (Any), Savant (local), Suave
 
 **Trappings:** Aide, Governor’s Residence, Servant
 
 ## Force Wielders
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Track and Navigation added]`
 
 ### Dark Side Cultist
 
@@ -1490,12 +1544,12 @@ Dark Side Cultists are wild Force-users who stumble into power without a Jedi ma
 
 *Career Path*
 **1. Cult Initiate — Brass 1**
-**Skills:** Cool, Endurance, Gossip, *Intimidate*, Language (The Force), Sleight of Hand, Stealth (Rural), Use the Force
+**Skills:** Cool, Endurance, Gossip, *Intimidate*, Language (The Force), Sleight of Hand, Stealth (Rural), Use the Force, Meditate, Outdoor Survival
 **Talents:** Fluent Incantation, Menacing, Minor Sorcery, Wild Talent
 **Trappings:** Ritual Candles, Glyph Chalk, Effigy and Pins
 
 **2. Dark Side Cultist — Brass 2**
-**Skills:** Charm Creature, Dodge, Intuition, Melee (Force Pike), Perception, Profession (Chemist)
+**Skills:** Charm Creature, Dodge, Intuition, Melee (2H), Perception, Profession (Chemist)
 **Talents:** Criminal, Dark Side Sorcery, Force Sorcery (Dark Side), Sixth Sense
 **Trappings:** Staff, Sack, Selection of Chemicals, Tool Kit (Chemist)
 
@@ -1517,6 +1571,7 @@ Dark Side Cultists are wild Force-users who stumble into power without a Jedi ma
 `[review: Trade (Herbalist) mapped to Profession (Chemist)]`
 `[review: Quarterstaff kept as a plain staff; Skull kept as a trophy and a holocron fragment added as the iconic item]`
 `[review: role overlaps Force Shadow and Force Savant; differs in being an untrained wild sorcerer rather than a disciplined tradition]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Outdoor Survival added]`
 
 ### Force Mystic
 
@@ -1535,12 +1590,12 @@ Force Mystics are the priests, sages and seers of the galaxy's Force traditions:
 
 *Career Path*
 **1. Initiate — Brass 2**
-**Skills:** Athletics, Cool, Endurance, Intuition, Lore (The Force), Perception, *Meditate*, Research
+**Skills:** Athletics, Cool, Endurance, Intuition, Lore (The Force), Perception, *Meditate*, Research, Dodge, Language (The Force)
 **Talents:** Force Sensitive (Tradition), Force Sense (Discipline), Force Visions, Datapad Use
 **Trappings:** Tradition Token, Robes
 
 **2. Mystic — Silver 1**
-**Skills:** Charm, Entertain (Storytelling), Gossip, Medicine, Intimidate, Melee (Vibroblade)
+**Skills:** Charm, Entertain (Storytelling), Gossip, Medicine, Intimidate, Melee (1H)
 **Talents:** Blather, Bookish, Etiquette (Jedi), Force Specialty
 **Trappings:** Datapad with Tradition archive, Ceremonial Robes
 
@@ -1563,6 +1618,7 @@ Force Mystics are the priests, sages and seers of the galaxy's Force traditions:
 `[review: Lore (Heraldry) mapped to Lore (Galactic Sigils) per the table; Lore (Force Traditions) may suit better]`
 `[review: Temple kept as Temple; Religious Relic as Holocron Fragment; Library (Theology) as Holocron Archive]`
 `[review: overlaps Force Savant and Monastic: the Force Mystic is the public priest and orator of a tradition with Force Sense, Leadership and Entertain (Speeches); the Monastic is cloistered, the Savant a scholar]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Language (The Force) added]`
 
 ### Force Savant
 
@@ -1591,7 +1647,7 @@ Whether by interacting with races and interests outside the order, or focusing o
 
 Where a Sith Warrior channels rage into their body and blade, the Sorcerer turns it outward into the fabric of reality itself. They believe the Force is not a partner or a flow to be joined — it is a substance to be seized, shaped, and consumed. Knowledge is power in the most literal sense. Every ritual mastered, every secret extracted from a Holocron or a dying mind, every forbidden technique preserved is another link in a chain that binds the galaxy more firmly to your will.They do not merely want to win. They want to understand, and then use that understanding to ensure no one can ever threaten them again.
 
-(Light / Netural / Dark side) `[review: placeholder]`
+(Light / Neutral / Dark side) `[review: placeholder]`
 
 *Force Savant Advance Scheme*
 | **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
@@ -1602,7 +1658,7 @@ Where a Sith Warrior channels rage into their body and blade, the Sorcerer turns
 *Career Path*
 **1. Padawan / Force Acolyte / Sith Acolyte — Silver 3**
 
-**Skills:** Athletics, Lore (Force Traditions), Charm, Medicine, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Profession (Armourer — lightsaber construction)
+**Skills:** Athletics, Lore (Force Traditions), Charm, Medicine, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Profession (Armourer — lightsaber construction), Use the Force, Meditate
 
 **Talents:** Etiquette (Senate or Diplomatic Corps), Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions), Savant (Lore), Linguistics
 
@@ -1630,9 +1686,9 @@ Sith Sorcerer: xx `[review: placeholder]`
 
 **3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2** `[review: placeholder]`
 
-**Skills:** Charm, Perform (Oratory), Leadership, Lore (Force Lore — deep study of the living Force, vergences, ancient traditions)
+**Skills:** Charm, Entertain (Speeches), Leadership, Lore (The Force)
 
-**Talents:** Schemer, Stout-hearted, Unshakeable, Attractive (Force Presence — a gravity of character that draws trust and attention without effort)
+**Talents:** Schemer, Stout-Hearted, Unshakeable, Attractive (Force Presence — a gravity of character that draws trust and attention without effort)
 
 **Trappings:** Diplomatic Ship or Embassy Access, Trusted Contact Network, Ceremonial Lightsaber Hilt (given at appointment — ornate, a symbol of office or power)
 
@@ -1644,7 +1700,7 @@ Sith Apprentice: Your Master points. You go. Whatever is there when you arrive d
 
 **4. Jedi Master / Force Master / Sith Lord — Gold 4**
 
-**Skills:** Lore (Any — a Master is a repository of obscure knowledge), Codes (any)
+**Skills:** Lore (Any — a Master is a repository of obscure knowledge), Codes (Any)
 
 **Talents:** Disarm (Rhetorical Disarm — the ability to take the weapon out of a conversation before it becomes a conflict), Inspiring, Iron Will, Savant (Force Lore)
 
@@ -1655,6 +1711,9 @@ Jedi Master: You have seen enough of the galaxy to know that peace is not an abs
 Force Master: xxx `[review: placeholder]`
 
 Sith Lord: You have killed or outlasted everyone who stood between you and this. The Rule of Two says there can only be two. You are beginning to do the arithmetic.
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Use the Force and Meditate added]`
 
 ### Force Shadow
 
@@ -1688,7 +1747,7 @@ You are the most dangerous thing in any room you enter, and no one realises it u
 
 Your Master saw something in you the other instructors missed: you notice things. You remember things. You ask questions that make older Jedi uncomfortable.
 
-**Skills:** Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth, Medicine, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction)
+**Skills:** Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth (Urban), Medicine, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction), Use the Force, Perception
 
 **Talents:** Etiquette (Underworld — how to behave in places that will kill you for standing out), Flee!, Sturdy, Warrior Born
 
@@ -1718,7 +1777,7 @@ Sith Inquisitor: You have unambiguous, immediate, tangible power. The authority 
 
 **Skills:** Charm (Manipulation — running informants, turning enemies, building trust under false pretences), Consume Intoxicant (Endure Hardship — long solo missions, cover identities maintained for months, the particular loneliness of the work), Evaluate (Intelligence Assessment — reading a situation for threats, opportunities, lies), Lore (Sith & Dark Side Cults)
 
-**Talents:** Schemer, Stout-hearted, Unshakeable, War Leader (Network Handler — commanding a web of contacts and field operatives rather than soldiers)
+**Talents:** Schemer, Stout-Hearted, Unshakeable, War Leader (Network Handler — commanding a web of contacts and field operatives rather than soldiers)
 
 **Trappings:** Established Cover Identity with Documented History, Informant Network, Safe Houses on Several Worlds
 
@@ -1741,6 +1800,9 @@ Jedi Master: The title is unofficial. The Council does not acknowledge it in ope
 Force Master: xxx `[review: placeholder]`
 
 Sith Lord: You know where the bodies are buried. You put most of them there. The Emperor keeps you close because you are useful. You keep yourself useful because the alternative is instructive.
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Use the Force and Perception added; Stealth given the Urban specialisation]`
 
 ### Force Warrior
 
@@ -1767,7 +1829,7 @@ You are a protector of your force tradition, the heart of a warrior and defender
 
 You do not stride into battle. You descend upon it. Where the Jedi Guardian is a weapon tempered by discipline and restraint, you are a weapon that has been deliberately unshackled — fury given form, the dark side made flesh. The Sith have always understood something the Jedi refuse to admit: that true power does not come from suppressing your nature, but from embracing it completely, consequences be damned.The Sith Warrior is the Empire's fist. You are sent where subtlety has already failed, where the Sith Lord needs something broken rather than bent. You have felt the dark side surge through you in combat — that moment when fear becomes rage becomes something that transcends both — and you have learned to live inside that moment. Some call it corruption. You call it clarity.Warriors serve the Sith hierarchy in many forms. Some are bound to a single Lord as enforcer and bodyguard, their leash kept deliberately short. Others are unleashed on the battlefield as force multipliers, terror weapons as much as soldiers. The most dangerous are those who have risen high enough to choose their own missions — apex predators who answer to nothing but ambition and the dark side's whisper. A very few survive long enough to become something the galaxy fears at a level beyond mere reputation: a Sith Lord in their own right, with apprentices of their own to spend.
 
-(Light / Netural / Dark side) `[review: placeholder]`
+(Light / Neutral / Dark side) `[review: placeholder]`
 
 *Force Warrior Advance Scheme*
 | **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
@@ -1778,7 +1840,7 @@ You do not stride into battle. You descend upon it. Where the Jedi Guardian is a
 *Career Path*
 **1. Padawan / Force Acolyte / Sith Acolyte — Silver 3**
 
-**Skills:** Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon),
+**Skills:** Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon), Use the Force, Meditate, Perception, Pilot (Speeder), Lore (The Force), Climb
 
 **Talents:** Etiquette (Senate or Military), Ace Pilot or Roughrider, Sturdy, Warrior Born
 
@@ -1804,11 +1866,11 @@ Force Warrior: You are a fully fledged protector of your tradition.
 
 Sith Apprentice: You have been granted the title. You have a lightsaber that is yours. You now have a reputation to build.
 
-**3. Jedi General / (Tradition) Protector / Sith Maurauder — Gold 2**
+**3. Jedi General / (Tradition) Protector / Sith Marauder — Gold 2**
 
 **Skills:** Charm, Consume Intoxicant, Leadership, Lore (Warfare)
 
-**Talents:** Fearless (Any), Stout-hearted, Unshakeable, War Leader
+**Talents:** Fearless (Any), Stout-Hearted, Unshakeable, War Leader
 
 **Trappings:** Personalised Armour, Small Unit of Force Warriors who will follow your orders (loyal or not)
 
@@ -1816,7 +1878,7 @@ Jedi General: You lead others now — soldiers, Padawans, or desperate civilians
 
 (Tradition) Protector: xxx `[review: placeholder]`
 
-Sith Maurauder: You descend into battle like a storm. Where the Jedi Guardian is a weapon tempered by discipline and restraint, you are a weapon that has been deliberately unshackled
+Sith Marauder: You descend into battle like a storm. Where the Jedi Guardian is a weapon tempered by discipline and restraint, you are a weapon that has been deliberately unshackled
 
 **4. Jedi Master / Force Master / Sith Lord — Gold 4**
 
@@ -1831,6 +1893,9 @@ Jedi Master: You have transcended the role of warrior. You are a pillar of the O
 Force Master: xxx `[review: placeholder]`
 
 Sith Lord: You know where the bodies are buried. You put most of them there. The Emperor keeps you close because you are useful. You keep yourself useful because the alternative is instructive.
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Use the Force, Meditate, Perception, Pilot (Speeder), Lore (The Force), Climb added]`
 
 ### Hedge Adept
 
@@ -1849,12 +1914,12 @@ Hedge Adepts are untrained Force-sensitives of the backwater worlds: village hea
 
 *Career Path*
 **1. Hedge Apprentice — Brass 1**
-**Skills:** Use the Force, Endurance, Intuition, Language (The Force), Lore (Folklore), *Lore (Botany)*, Outdoor Survival, Perception
+**Skills:** Use the Force, Endurance, Intuition, Language (The Force), Lore (Folklore), *Lore (Botany)*, Outdoor Survival, Perception, Charm Creature, Stealth (Rural)
 **Talents:** Fast Hands, Wild Talent, Rover, Strider (Forest)
 **Trappings:** 1d10 Lucky Charms, Walking Staff, Backpack
 
 **2. Hedge Adept — Brass 2**
-**Skills:** Cool, Gossip, Medicine, Lore (Local (world)), Profession (Charms), Profession (Chemist)
+**Skills:** Cool, Gossip, Medicine, Lore (Local), Profession (Charms), Profession (Chemist)
 **Talents:** Creature Affinity, Force Sight, Force Attunement, Sixth Sense
 **Trappings:** Antitoxin Kit, Medpac, Tool Kit (Chemist)
 
@@ -1876,6 +1941,7 @@ Hedge Adepts are untrained Force-sensitives of the backwater worlds: village hea
 `[review: level 3 Lore (Genealogy) replaced with Lore (Force Traditions) rather than the literal Lore (Noble Houses); a village wise one tracks bloodlines of the gift, not aristocrats]`
 `[review: Quarterstaff rendered as Walking Staff; Animal Skulls as Creature Skulls]`
 `[review: overlaps Force Savant; Hedge Adept is untrained and rural, with healing and botany rather than scholarship]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Charm Creature and Stealth (Rural) added]`
 
 ### Monastic
 
@@ -1894,7 +1960,7 @@ Monastics belong to the quiet traditions of the Force: the Baran Do Sages of Dor
 
 *Career Path*
 **1. Novitiate — Brass 1**
-**Skills:** Art (Holography), Cool, Endurance, Entertain (Storytelling), Gossip, Medicine, Lore (The Force), *Meditate*
+**Skills:** Art (Holography), Cool, Endurance, Entertain (Storytelling), Gossip, Medicine, Lore (The Force), *Meditate*, Use the Force, Intuition
 **Talents:** Force Sensitive (Tradition), Force Control (Discipline), Stone Soup, Datapad Use
 **Trappings:** Tradition Token, Robes
 
@@ -1917,11 +1983,12 @@ Monastics belong to the quiet traditions of the Force: the Baran Do Sages of Dor
 `[review: scheme levels 2-4 proposed: WP at 2, I at 3, T at 4]`
 `[review: level-1 trio Dex, Int, Fel carried from the Nun; WP may fit a Meditate-based career better than Dex]`
 `[review: level 1 talents: Bless (Any) became Force Control (Discipline) and Force Sensitive (Tradition) was added, so Panhandle was dropped to keep four talents]`
-`[review: Melee (Any) at level 2 rendered as Melee (Brawling) rather than Melee (Vibroblade), to keep the no-combat-focus concept]`
+`[review: Melee (Any) at level 2 rendered as Melee (Brawling) rather than Melee (1H), to keep the no-combat-focus concept]`
 `[review: Etiquette (Cultists) rendered as Etiquette (Jedi); an Etiquette (Force Traditions) group may be wanted for non-Jedi orders]`
 `[review: Art (Calligraphy) mapped to Art (Holography) per the table; Art (Writing) is the alternative]`
 `[review: Abbey re-themed as Enclave; Library (Theology) as Holocron Archive; Religious Order as Tradition Order; Religious Relic as Holocron Fragment]`
 `[review: overlaps Force Savant: the Monastic is a cloistered healer and teacher with Medicine, Professions and Force Control, not a lore-hunting adept]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Use the Force and Intuition added]`
 
 ### Seer
 
@@ -1940,7 +2007,7 @@ Seers are the fortune-tellers, mystics and visionaries of the spaceport bazaars 
 
 *Career Path*
 **1. Fortune Teller — Brass 1**
-**Skills:** Charm, *Entertain (Fortune Telling)*, Dodge, Gossip, Haggle, Intuition, Perception, Sleight of Hand
+**Skills:** Charm, *Entertain (Fortune Telling)*, Dodge, Gossip, Haggle, Intuition, Perception, Sleight of Hand, Meditate, Research
 **Talents:** Attractive, Luck, Force Sight, Suave
 **Trappings:** Sabacc Deck or Chance Cubes, Cheap Jewellery
 
@@ -1967,6 +2034,7 @@ Seers are the fortune-tellers, mystics and visionaries of the spaceport bazaars 
 `[review: Lore (Astrology) mapped to Lore (Astrogation) per the brief, which reads oddly for a fortune teller; Lore (Prophecy) at level 4 may be the better fit, with Lore (Astrogation) moved or dropped]`
 `[review: Deck of Cards or Dice re-themed as Sabacc Deck or Chance Cubes; Trade Tools (Writing) as Datapad; Trade Tools (Astrology) as Portable Star Charts]`
 `[review: overlaps Charlatan (fake readings) and Force Savant (scholarly Force study); Seer is genuine Force prophecy wrapped in showmanship]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Research added]`
 
 ### Sorcerer
 
@@ -1985,7 +2053,7 @@ Sorcerers follow the ritual traditions of the Force: Sith sorcery learned from a
 
 *Career Path*
 **1. Sorcerer's Apprentice — Brass 3**
-**Skills:** *Use the Force*, Dodge, Intuition, Language (The Force), Lore (The Force), Melee (Vibroblade), Melee (Force Pike), Perception
+**Skills:** *Use the Force*, Dodge, Intuition, Language (The Force), Lore (The Force), Melee (1H), Cool, Perception, Meditate, Endurance
 **Talents:** Force Sensitive (Tradition), Force Attunement, Minor Sorcery, Force Sight
 **Trappings:** Grimoire Holocron, Force Pike
 
@@ -1995,7 +2063,7 @@ Sorcerers follow the ritual traditions of the Force: Sith sorcery learned from a
 **Trappings:** Tradition Sigil of Rank
 
 **3. Master Sorcerer — Gold 1**
-**Skills:** Creature Care, Evaluate, Lore (Warfare), Ride (Creature)
+**Skills:** Creature Care, Evaluate, Lore (Warfare), Ride (Land)
 **Talents:** Dual Wielder, Fluent Incantation, Sense Sorcery, Menacing
 **Trappings:** Apprentice, War Mount (Tuk'ata or Rancor), Force Artefact
 
@@ -2012,6 +2080,8 @@ Sorcerers follow the ritual traditions of the Force: Sith sorcery learned from a
 `[review: Lore (Magic) mapped to Lore (The Force) per the table; Lore (Dark Side) or Lore (Sith Lore) may fit a Sith or Krath sorcerer better]`
 `[review: Magical License re-themed as Tradition Sigil of Rank; Light Warhorse as War Mount (Tuk'ata or Rancor); Magical Item as Force Artefact; Workshop (Magic) as Ritual Chamber]`
 `[review: overlaps Force Shadow and Force Warrior: the Sorcerer casts through Force Sorcery (Tradition) and Language (The Force) rather than stealth or lightsaber combat]`
+`[review: weapon-skill consolidation left Melee (2H) twice; level 1 copy replaced by Cool]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Endurance added]`
 
 ### Templar
 
@@ -2030,17 +2100,17 @@ Templars are the warriors of the lesser Force traditions: Jensaarai defenders in
 
 *Career Path*
 **1. Novitiate — Brass 2**
-**Skills:** Cool, Dodge, Endurance, Leadership, Lore (The Force), *Meditate*, Medicine, Melee (Lightsaber)
+**Skills:** Cool, Dodge, Endurance, Leadership, Lore (The Force), *Meditate*, Medicine, Melee (Lightsaber), Use the Force, Athletics
 **Talents:** Code (Tradition), Force Control (Discipline), Force Sensitive (Tradition), Strong-Minded
 **Trappings:** Datapad with (Tradition teachings) archive, Armoured Jacket, Tradition Token, Robes, Lightsaber or Vibroblade
 
 **2. Templar — Silver 2**
-**Skills:** Charm, Entertain (Speeches), Intimidate, Language (Military Cant), Melee (Vibroblade), Ranged (Blaster Pistol)
+**Skills:** Charm, Entertain (Speeches), Intimidate, Language (Military Cant), Melee (1H), Ranged (Blaster)
 **Talents:** Armoured Adept, Dual Wielder, Force Specialty, Inspiring
 **Trappings:** Plastoid Chest Plate, Weapon (Any)
 
 **3. Templar Sergeant — Silver 3**
-**Skills:** Creature Care, Intuition, Perception, Ride (Creature)
+**Skills:** Creature Care, Intuition, Perception, Ride (Land)
 **Talents:** Combat Aware, Force Visions, Pure Soul, Stout-Hearted
 **Trappings:** Speeder Bike
 
@@ -2053,14 +2123,15 @@ Templars are the warriors of the lesser Force traditions: Jensaarai defenders in
 `[review: level-1 trio not in the data file; WS/T/WP proposed from the Warrior Priest parent, with scheme levels 2-4 proposed: S at 2, Fel at 3, I at 4]`
 `[review: level-1 talents reworked to carry the required Force set: Bless (Any) -> Force Control (Discipline); Force Sensitive (Tradition) and Code (Tradition) added; Etiquette (Cultists) and Read/Write (Datapad Use) dropped to keep four talents]`
 `[review: Armoured Adept placed at level 2 in place of Seasoned Traveller; Invoke (Any) -> Force Specialty; Holy Visions -> Force Visions; Holy Hatred -> Hatred (Enemies of the Tradition); Warleader -> War Leader]`
-`[review: Melee (Any) at level 1 taken as Melee (Lightsaber) and at level 2 as Melee (Vibroblade); a tradition without lightsabers (Matukai) swaps them]`
+`[review: Melee (Any) at level 1 taken as Melee (Lightsaber) and at level 2 as Melee (1H); a tradition without lightsabers (Matukai) swaps them]`
 `[review: Pray -> Meditate is the earning skill; Use the Force is not in skills_master.csv, so the Force Control talent currently has no skill in the career to support it]`
-`[review: Creature Care and Ride (Creature) at level 3 kept from the parent but sit oddly for a Force warrior; Pilot (Speeder) and Lore (Force Traditions) would fit the Speeder Bike trapping better]`
+`[review: Creature Care and Ride (Land) at level 3 kept from the parent but sit oddly for a Force warrior; Pilot (Speeder) and Lore (Force Traditions) would fit the Speeder Bike trapping better]`
 `[review: Book (Religion) -> Datapad with (Tradition teachings) archive; Religious Symbol -> Tradition Token; Religious Relic -> Holocron Fragment; Light Warhorse -> Speeder Bike]`
 `[review: Status Brass 2 / Silver 2 / Silver 3 / Silver 4 kept from the parent]`
 `[review: overlaps Force Warrior; differs in that the Templar belongs to a named non-Jedi tradition, keeps a Code, fights in armour (Armoured Adept) and leads troops, with Meditate rather than Use the Force as its core skill]`
 
 ## Freelancers
+`[review: level 1 raised to ten skills (13 Oct ruling): Use the Force and Athletics added]`
 
 ### Beast Handler
 
@@ -2079,17 +2150,17 @@ Beast Handlers raise, drive and break the large creatures that still do the work
 
 *Career Path*
 **1. Drover — Silver 1**
-**Skills:** Athletics, *Creature Care*, Dodge, Endurance, Melee (Vibroblade), Perception, Ranged (Slugthrower), Stealth (Rural)
+**Skills:** Athletics, *Creature Care*, Dodge, Endurance, Melee (1H), Perception, Ranged (Archaic), Stealth (Rural), Consume Intoxicant, Demolitions
 **Talents:** Flee!, Marksman, Rover, Strider (Mountains)
 **Trappings:** Backpack, Vibroblade, Armoured Jacket, Syntherope Lasso
 
 **2. Beast Handler — Silver 3**
-**Skills:** Bribery, Charm Creature, Creature Training (Bantha), Lore (Beasts), Ranged (Grenade/Explosives), Track
+**Skills:** Bribery, Charm Creature, Creature Training (Bantha), Lore (Beasts), Ranged (Thrown), Track
 **Talents:** Fearless (Large Beasts), Roughrider, Stout-Hearted, Sturdy
 **Trappings:** Stun Net Launcher or Throwing Spear, Bantha-hide Cloak
 
 **3. Beast Breaker — Silver 5**
-**Skills:** Cool, Intimidate, Outdoor Survival, Ride (Creature)
+**Skills:** Cool, Intimidate, Outdoor Survival, Ride (Land)
 **Talents:** Distract, Resolute, Seasoned Traveller, Trick Riding
 **Trappings:** Bantha or Dewback, Bone-plated Chest Guard, Saddlebags
 
@@ -2103,10 +2174,11 @@ Beast Handlers raise, drive and break the large creatures that still do the work
 `[review: scheme levels 2-4 proposed: WP, Ag, Fel]`
 `[review: level 1 trimmed from 10 parent skills to 8: dropped Consume Intoxicant and Set Trap (Demolitions); Creature Care moved up from level 2 to serve as the earning skill and Bribery moved down to level 2 in its place]`
 `[review: parent repeats Endurance at level 2; replaced with Track]`
-`[review: Ranged (Entangling) -> Ranged (Slugthrower) with a net launcher per brief; Ranged (Throwing) -> Ranged (Grenade/Explosives) per brief, meant for bolas and throwing spears]`
-`[review: Animal Training (Rhinox) -> Creature Training (Bantha); Lore (Rhinox) -> Lore (Beasts); Ride (Rhinox) -> Ride (Creature); Rhinox -> Bantha or Dewback per batch mapping]`
+`[review: Ranged (Exotic) -> Ranged (Archaic) with a net launcher per brief; Ranged (Thrown) -> Ranged (Thrown) per brief, meant for bolas and throwing spears]`
+`[review: Animal Training (Rhinox) -> Creature Training (Bantha); Lore (Rhinox) -> Lore (Beasts); Ride (Rhinox) -> Ride (Land); Rhinox -> Bantha or Dewback per batch mapping]`
 `[review: trappings re-themed: Lasso -> Syntherope Lasso; Harpoon or Great Throwing Spear -> Stun Net Launcher or Throwing Spear; Rhinox Furs -> Bantha-hide Cloak; Rhinox Skull Gutplate -> Bone-plated Chest Guard; Farmstead -> Homestead]`
 `[review: overlaps Scout (Outdoor Survival, Track) and the Beast Rider below; differs by training and owning beasts rather than fighting from them]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Demolitions added]`
 
 ### Beast Rider
 
@@ -2125,12 +2197,12 @@ Beast Riders are the light cavalry of worlds where repulsorlifts fail or are too
 
 *Career Path*
 **1. Outrider — Brass 3**
-**Skills:** Creature Care, Dodge, Endurance, Language (Military Cant), Medicine, Melee (Vibroblade), Outdoor Survival, *Ride (Creature)*
+**Skills:** Creature Care, Dodge, Endurance, Language (Military Cant), Medicine, Melee (1H), Outdoor Survival, *Ride (Land)*, Haggle, Ranged (Thrown)
 **Talents:** Etiquette (Soldiers), Field Dressing, Flee!, Strong Back
 **Trappings:** Riot Shield, Armoured Jacket, Tauntaun or Dewback with Saddle and Tack, Comlink
 
 **2. Beast Rider — Silver 2**
-**Skills:** Charm, Consume Intoxicant, Gamble, Gossip, Melee (Force Pike), Ranged (Slugthrower)
+**Skills:** Charm, Consume Intoxicant, Gamble, Gossip, Melee (2H), Ranged (Archaic)
 **Talents:** Combat Aware, Orientation, Roughrider, Rover
 **Trappings:** War-trained Mount or Speeder Bike, Blast Vest, Helmet
 
@@ -2140,18 +2212,19 @@ Beast Riders are the light cavalry of worlds where repulsorlifts fail or are too
 **Trappings:** Force Pike, Armoured Leggings, Apprentice Rider, Stable Hand
 
 **4. Outrider Captain — Gold 1**
-**Skills:** Lore (Law or Galactic Sigils), Ranged (Blaster Pistol)
+**Skills:** Lore (Law or Galactic Sigils), Ranged (Blaster)
 **Talents:** Commanding Presence, Dealmaker, Inspiring, War Leader
 **Trappings:** Brace of Blaster Pistols with Power Packs, War-trained Varactyl, Flamboyant Clothing, Plastoid Chest Plate
 
 *Conversion notes:*
 `[review: parent Light Cavalry (WFRP 4e Archives of the Empire); Status kept at Brass 3 / Silver 2 / Silver 5 / Gold 1]`
 `[review: scheme levels 2-4 proposed: BS, I, Fel]`
-`[review: level 1 trimmed from 10 parent skills to 8: dropped Haggle and Ranged (Throwing); the Javelin trapping went with it]`
+`[review: level 1 trimmed from 10 parent skills to 8: dropped Haggle and Ranged (Thrown); the Javelin trapping went with it]`
 `[review: Etiquette (Mercenaries) -> Etiquette (Soldiers), as Mercenaries is not on the brief's Etiquette list]`
-`[review: Melee (Cavalry) -> Melee (Force Pike); Ranged (Bow) -> Ranged (Slugthrower); Drive -> Pilot (Speeder); Ranged (Blackpowder) -> Ranged (Blaster Pistol) by role; Lore (Heraldry) -> Lore (Galactic Sigils)]`
+`[review: Melee (2H) -> Melee (2H); Ranged (Archaic) -> Ranged (Archaic); Drive -> Pilot (Speeder); Ranged (Archaic) -> Ranged (Blaster) by role; Lore (Heraldry) -> Lore (Galactic Sigils)]`
 `[review: trappings re-themed: Shield or Buckler -> Riot Shield; Riding Horse -> Tauntaun or Dewback; Light Warhorse -> War-trained Mount or Speeder Bike per batch mapping; Mail Coat -> Blast Vest; Open Helm -> Helmet; Lance -> Force Pike; Mail Chausses -> Armoured Leggings; Squire and Page -> Apprentice Rider and Stable Hand; Warhorse -> War-trained Varactyl; Breastplate -> Plastoid Chest Plate]`
-`[review: overlaps Scout and the Beast Handler above; differs by mounted combat (Melee (Force Pike), Roughrider, Trick Riding) rather than survival or beast training]`
+`[review: overlaps Scout and the Beast Handler above; differs by mounted combat (Melee (2H), Roughrider, Trick Riding) rather than survival or beast training]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Ranged (Thrown) added]`
 
 ### Bounty Hunter
 
@@ -2169,7 +2242,7 @@ Bounty Hunters track down fugitives and outlaws for credits. Most are legally li
 *Career Path*
 **1. Thief-taker — Silver 1**
 
-**Skills:** Briberyry, Charm, Gossip, Haggle, Intuition, Melee (Vibroblade), Outdoor Survival, Perception, Pilot (Speeder) `[converted]`
+**Skills:** Bribery, Charm, Gossip, Haggle, Intuition, Melee (1H), Outdoor Survival, Perception, Pilot (Speeder), Cool `[converted]`
 
 **Talents:** Break and Enter, Shadow, Strike to Stun, Suave, Pilot
 
@@ -2177,7 +2250,7 @@ Bounty Hunters track down fugitives and outlaws for credits. Most are legally li
 
 **2. Bounty Hunter — Silver 3**
 
-**Skills:** Athletics, Endurance, Intimidate, Ranged (Blaster Pistol), Ranged (Entangling), Track
+**Skills:** Athletics, Endurance, Intimidate, Ranged (Blaster), Ranged (Exotic), Track
 
 **Talents:** Marksman, Relentless, Seasoned Traveller, Strong Back
 
@@ -2185,7 +2258,7 @@ Bounty Hunters track down fugitives and outlaws for credits. Most are legally li
 
 **3. Master Bounty Hunter — Silver 5**
 
-**Skills:** Creature Care, Climb, Ride (Bantha), Swim
+**Skills:** Creature Care, Climb, Ride (Land), Swim
 
 **Talents:** Accurate Shot, Careful Strike, Dual Wielder, Sprinter
 
@@ -2198,6 +2271,9 @@ Bounty Hunters track down fugitives and outlaws for credits. Most are legally li
 **Talents:** Deadeye Shot, Fearless (Bounties), Hardy, Sure Shot
 
 **Trappings:** Starship, Armour, 4 Pairs of Binders `[converted]`
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Cool added]`
 
 ### Clan Ranger
 
@@ -2216,12 +2292,12 @@ Clan Rangers range the wild ground between their people's holds and settlements:
 
 *Career Path*
 **1. Hold Runner — Brass 3**
-**Skills:** Climb, Dodge, Endurance, *Profession (Cartographer)*, Melee (Vibroblade), Outdoor Survival, Perception, Pilot (Speeder)
+**Skills:** Climb, Dodge, Endurance, *Profession (Stellar Cartographer)*, Melee (1H), Outdoor Survival, Perception, Pilot (Speeder), Lore (Beasts), Stealth (Rural)
 **Talents:** Implacable, Orientation, Strider (Any), Strong Back
 **Trappings:** Backpack, Vibroblade, Armoured Jacket, Tool Kit (Cartographer), Datapad with survey archive
 
 **2. Clan Ranger — Silver 1**
-**Skills:** Charm Creature, Intuition, Ranged (Blaster Rifle), Codes (Scout), Codes (Ranger), Track
+**Skills:** Charm Creature, Intuition, Ranged (Blaster), Codes (Scout), Codes (Ranger), Track
 **Talents:** Strike Mighty Blow, Scale Sheer Surface, Nose for Trouble, Rover
 **Trappings:** Blaster Rifle with power packs, Grappling Hook and Syntherope
 
@@ -2238,12 +2314,13 @@ Clan Rangers range the wild ground between their people's holds and settlements:
 *Conversion notes:*
 `[review: parent Karak Ranger (WFRP 4e Archives of the Empire Vol. II); Dwarf flavour re-themed to Wookiee, Mandalorian and Sullustan clans]`
 `[review: scheme levels 2-4 proposed: BS at 2, Ag at 3, WP at 4]`
-`[review: Trade (Cartographer) rendered as Profession (Cartographer); the mapping table gives Profession (Astrogator), which does not fit a ground ranger]`
+`[review: Trade (Cartographer) rendered as Profession (Stellar Cartographer); the mapping table gives Profession (Astrogator), which does not fit a ground ranger]`
 `[review: Row at level 1 rendered as Pilot (Speeder); the mapping table gives Pilot (Starship)]`
 `[review: level 3 listed only two skills; Navigation and Lore (Clan Holds) added to reach four]`
 `[review: level 3 offered River Guide OR Gunner; Heavy Gunner chosen, Hyperlane Pilot is the alternative; Savant (Dwarf Holds and Routes) rendered as Savant (Clan Holds) per the Lore (Karak) -> Lore (Clan Holds) note]`
 `[review: Blackpowder Weapon rendered as Blaster Rifle, Tools (Masonry) as Tool Kit (Fabricator)]`
 `[review: overlaps Scout: the Clan Ranger is bound to a clan's own territory and trail-signs (Codes (Scout), Codes (Ranger), Lore (Clan Holds), Stealth (Underground)) rather than exploring new worlds for a patron]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Lore (Beasts) and Stealth (Rural) added]`
 
 ### Courier
 
@@ -2262,12 +2339,12 @@ Couriers deliver sealed messages, data cylinders and small cargoes that their cl
 
 *Career Path*
 **1. Runner — Brass 3**
-**Skills:** *Athletics*, Climb, Dodge, Endurance, Gossip, Melee (Brawling), Navigation, Perception
+**Skills:** *Athletics*, Climb, Dodge, Endurance, Gossip, Melee (Brawling), Navigation, Perception, Intuition, Ranged (Blaster)
 **Talents:** Flee!, Fleet Footed, Sprinter, Step Aside
 **Trappings:** Sealed Data Cylinder
 
 **2. Courier — Silver 1**
-**Skills:** Charm, Cool, Creature Care, Lore (Local), Melee (Vibroblade), Pilot (Speeder)
+**Skills:** Charm, Cool, Creature Care, Lore (Local), Melee (1H), Pilot (Speeder)
 **Talents:** Crack the Whip, Criminal, Orientation, Seasoned Traveller
 **Trappings:** Vibroblade, Armoured Jacket, Speeder Bike
 
@@ -2283,11 +2360,12 @@ Couriers deliver sealed messages, data cylinders and small cargoes that their cl
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: Fel, BS, WP]`
-`[review: Ride (Horse) at level 2 mapped to Pilot (Speeder) and Charm Animal at level 3 to Pilot (Starship) to fit the hyperspace-courier concept; the table would give Ride (Creature) and Charm Creature]`
+`[review: Ride (Horse) at level 2 mapped to Pilot (Speeder) and Charm Animal at level 3 to Pilot (Starship) to fit the hyperspace-courier concept; the table would give Ride (Land) and Charm Creature]`
 `[review: Creature Care kept at level 2 for backwater worlds; swap for Lore (Hyperlanes) if the career should be ship-only]`
 `[review: Shield re-themed as Personal Shield; expensive for Silver 3, Riot Shield is the alternative]`
 `[review: Hatred (Outlaws) re-themed as Hatred (Pirates)]`
 `[review: overlaps Smuggler at levels 3-4; differs by carrying data and small packages rather than contraband cargo]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Ranged (Blaster) added]`
 
 ### Driver
 
@@ -2306,12 +2384,12 @@ Drivers run the groundside transport trade: speeder taxis on Coruscant's skylane
 
 *Career Path*
 **1. Swoop Jockey — Silver 1**
-**Skills:** Charm Creature, Climb, Creature Care, Endurance, Perception, *Pilot (Speeder)*, Ranged (Slugthrower), Ride (Creature)
+**Skills:** Charm Creature, Climb, Creature Care, Endurance, Perception, *Pilot (Speeder)*, Ranged (Archaic), Ride (Land), Dodge, Haggle
 **Talents:** Creature Affinity, Seasoned Traveller, Tenacious, Trick Riding
 **Trappings:** Weatherproof Coat and Gloves, Shock Prod, Comlink
 
 **2. Driver — Silver 2**
-**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Local), Navigation, Ranged (Blaster Pistol)
+**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Local), Navigation, Ranged (Blaster)
 **Talents:** Coolheaded, Crack the Whip, Heavy Gunner, Strong-Minded
 **Trappings:** Scattergun with Power Pack, Vehicle Transponder, Armoured Jacket, Driver's Cap
 
@@ -2327,11 +2405,12 @@ Drivers run the groundside transport trade: speeder taxis on Coruscant's skylane
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: Ag, I, Fel]`
-`[review: Ranged (Entangling) mapped to Ranged (Slugthrower) with a net per table; a groundside driver may not want it]`
+`[review: Ranged (Exotic) mapped to Ranged (Archaic) with a net per table; a groundside driver may not want it]`
 `[review: Lore (Routes) mapped to Lore (Hyperlanes) per table, but a Driver is planetary; Lore (Local) routes may fit better]`
 `[review: Gunner mapped to Heavy Gunner per table; Coach Horn re-themed as Vehicle Transponder, Whip as Shock Prod]`
 `[review: Fearless (Beastmen) re-themed as Fearless (Raiders)]`
-`[review: Creature Care / Charm Creature / Ride (Creature) kept at level 1 for beast-drawn backwater transport; swap for Pilot (Starship) if the career should be purely repulsorlift]`
+`[review: Creature Care / Charm Creature / Ride (Land) kept at level 1 for beast-drawn backwater transport; swap for Pilot (Starship) if the career should be purely repulsorlift]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Haggle added]`
 
 ### Entertainer
 
@@ -2350,12 +2429,12 @@ Entertainers are the galaxy's musicians, dancers, acrobats, holo-actors and stre
 
 *Career Path*
 **1. Busker — Brass 3**
-**Skills:** Athletics, Charm, *Entertain (Any)*, Gossip, Haggle, Perform (Any), Play (Any), Sleight of Hand
+**Skills:** Athletics, Charm, *Entertain (Any)*, Gossip, Haggle, Perform (Any), Play (Any), Sleight of Hand, Cool, Dodge
 **Talents:** Attractive, Mimic, Public Speaker, Suave
 **Trappings:** Credit Bowl, Instrument
 
 **2. Entertainer — Brass 5**
-**Skills:** Entertain (Any), Melee (Vibroblade), Perform (Any), Play (Any), Ranged (Grenade/Explosives), Ride (Creature)
+**Skills:** Entertain (Any), Melee (1H), Perform (Any), Play (Any), Ranged (Thrown), Ride (Land)
 **Talents:** Contortionist, Jump Up, Sharpshooter, Trick Riding
 **Trappings:** Costume, Instrument, Selection of Holo-Scripts (that you cannot yet read), Throwing Knives
 
@@ -2371,9 +2450,10 @@ Entertainers are the galaxy's musicians, dancers, acrobats, holo-actors and stre
 
 *Conversion notes:*
 `[review: whole scheme proposed (no level-1 trio in data): Ag, Dex, Fel at 1; I at 2; WP at 3; Int at 4]`
-`[review: Ranged (Throwing) mapped to Ranged (Grenade/Explosives) per table; for a knife-thrower Ranged (Slugthrower) may read better]`
+`[review: Ranged (Thrown) mapped to Ranged (Thrown) per table; for a knife-thrower Ranged (Archaic) may read better]`
 `[review: Datapad Use at level 3 follows Read/Write placement; low for a holo-actor, consider moving to level 1]`
 `[review: level 4 Pilot (Speeder) from Drive; Draught Horses and Wagon re-themed as Touring Barge]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Cool and Dodge added]`
 
 ### Freelance
 
@@ -2392,7 +2472,7 @@ Freelances are soldiers of fortune who answer to a contract rather than a flag. 
 
 *Career Path*
 **1. Mercenary Squire — Silver 1**
-**Skills:** Athletics, Consume Intoxicant, Gossip, Medicine, *Melee (Force Pike)*, Outdoor Survival, Pilot (Speeder), Ride (Creature)
+**Skills:** Athletics, Consume Intoxicant, Gossip, Medicine, *Melee (2H)*, Outdoor Survival, Pilot (Speeder), Ride (Land), Creature Care, Charm Creature
 **Talents:** Roughrider, Sturdy, Warrior Born, Combat Aware
 **Trappings:** Armoured Jacket, Blast Vest, Speeder Bike, Riot Shield, Tool Kit (Mechanic), Comlink
 
@@ -2414,11 +2494,12 @@ Freelances are soldiers of fortune who answer to a contract rather than a flag. 
 *Conversion notes:*
 `[review: parent Freelance (WFRP 4e Up in Arms)]`
 `[review: scheme levels 2-4 proposed: WS at 2, T at 3, Fel at 4]`
-`[review: the extracted level 1 listed ten skills built around a warhorse (Animal Care, Charm Animal, Trade (Farrier), Ride (Horse)); re-themed as a speeder-cavalry retainer: Animal Care, Charm Animal and Trade (Farrier) dropped, Pilot (Speeder) added beside Ride (Creature), Melee (Cavalry) rendered as Melee (Force Pike); a dewback-cavalry reading would keep Creature Care and Profession (Beast Handler) instead]`
+`[review: the extracted level 1 listed ten skills built around a warhorse (Animal Care, Charm Animal, Trade (Farrier), Ride (Horse)); re-themed as a speeder-cavalry retainer: Animal Care, Charm Animal and Trade (Farrier) dropped, Pilot (Speeder) added beside Ride (Land), Melee (2H) rendered as Melee (2H); a dewback-cavalry reading would keep Creature Care and Profession (Beast Handler) instead]`
 `[review: level 2 listed seven skills; Charm dropped (Fel does not open until level 4)]`
 `[review: Etiquette (Any) narrowed to Etiquette (Soldiers); Destrier rendered as Armoured Landspeeder, Barding as weapon mount, Personal Heraldry as Personal Crest, Company of Knights as Mercenary Company; Light Freighter added at level 4 for the ship-owning concept]`
 `[review: the SL100-only talent Mercenary (Haggle and Charm when negotiating a contract) fits this career and could replace Stone Soup at level 2]`
 `[review: overlaps Soldier, Bounty Hunter and this batch's Hired Gun: the Freelance is a mounted officer-for-hire who builds a company (Ride, Pilot (Speeder), Leadership, Gold Status) rather than a ranked soldier, a tracker of marks or a lone brute]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Creature Care and Charm Creature added]`
 
 ### Hired Gun
 
@@ -2437,12 +2518,12 @@ Hired Guns are the galaxy's travelling muscle: Gamorrean axe-wielders in a Hutt'
 
 *Career Path*
 **1. Fresh Meat — Brass 3**
-**Skills:** Athletics, Consume Intoxicant, Cool, Dodge, Endurance, Intimidate, Language (Military Cant), *Melee (Vibroblade)*
+**Skills:** Athletics, Consume Intoxicant, Cool, Dodge, Endurance, Intimidate, Language (Military Cant), *Melee (1H)*, Gamble, Outdoor Survival
 **Talents:** Dirty Fighting, Menacing, Sturdy, Strong Back
 **Trappings:** Vibroblade, Ration Packs, Spacer's Duffel, Comlink
 
 **2. Hired Gun — Silver 1**
-**Skills:** Entertain (Bellow), Gossip, Haggle, Lore (Local), Melee (Two-Handed), Ranged (Blaster Rifle)
+**Skills:** Entertain (Bellow), Gossip, Haggle, Lore (Local), Melee (2H), Ranged (Blaster)
 **Talents:** Strike Mighty Blow, Etiquette (Hutts), Seasoned Traveller, Rapid Reload
 **Trappings:** Local Clothing, Plastoid Chest Plate, Vibro-axe or Heavy Blaster Pistol
 
@@ -2463,7 +2544,8 @@ Hired Guns are the galaxy's travelling muscle: Gamorrean axe-wielders in a Hutt'
 `[review: level 2 listed five skills, Haggle added; level 3 listed three skills, Perception added]`
 `[review: Etiquette (Slims) has no SL100 equivalent, rendered as Etiquette (Hutts); Etiquette (Soldiers) is the alternative]`
 `[review: Hunk of Meat and Wanderlust at level 1 rendered as Ration Packs and Spacer's Duffel; Gutplate as Plastoid Chest Plate; Ogre Pistol as Heavy Blaster Pistol]`
-`[review: overlaps Pit Fighter, Soldier, Bounty Hunter and this batch's Freelance: the Hired Gun is a wandering brute for hire (Menacing, Frightening, Melee (Two-Handed), Seasoned Traveller) with no flag, arena or warrant, and stays in Silver Status where the Freelance reaches Gold]`
+`[review: overlaps Pit Fighter, Soldier, Bounty Hunter and this batch's Freelance: the Hired Gun is a wandering brute for hire (Menacing, Frightening, Melee (2H), Seasoned Traveller) with no flag, arena or warrant, and stays in Silver Status where the Freelance reaches Gold]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Outdoor Survival added]`
 
 ### Hunter
 
@@ -2482,17 +2564,17 @@ Hunters work the forests of Kashyyyk and Endor, the plains of Dantooine, the ice
 
 *Career Path*
 **1. Trapper — Brass 2**
-**Skills:** Charm Creature, Climb, Endurance, Lore (Beasts), *Outdoor Survival*, Perception, Ranged (Slugthrower), Demolitions
+**Skills:** Charm Creature, Climb, Endurance, Lore (Beasts), *Outdoor Survival*, Perception, Ranged (Archaic), Demolitions, Athletics, Dodge
 **Talents:** Hardy, Rover, Strider (Any), Trapper
 **Trappings:** Selection of Creature Traps, Vibroblade, Sturdy Boots and Cloak
 
 **2. Hunter — Brass 4**
-**Skills:** Cool, Intuition, Melee (Vibroblade), Ranged (Blaster Rifle), Codes (Hunter), Stealth (Rural)
+**Skills:** Cool, Intuition, Melee (1H), Ranged (Blaster), Codes (Hunter), Stealth (Rural)
 **Talents:** Accurate Shot, Fast Shot, Hunter's Eye, Marksman
 **Trappings:** Slugthrower Rifle with Ammunition, Hunting Blaster Rifle
 
 **3. Tracker — Silver 1**
-**Skills:** Navigation, Ride (Creature), Swim, Track
+**Skills:** Navigation, Ride (Land), Swim, Track
 **Talents:** Acute Sense (Any), Deadeye Shot, Fearless (Wild Beasts), Sharpshooter
 **Trappings:** Backpack, Bedroll, Survival Shelter, Macrobinoculars
 
@@ -2504,11 +2586,12 @@ Hunters work the forests of Kashyyyk and Endor, the plains of Dantooine, the ice
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: BS at level 2, I at level 3, Ag at level 4]`
 `[review: Charm Creature used per the brief's mapping but it is not a row in skills_master.csv; confirm it exists in the skills chapter]`
-`[review: Ranged (Bow) and Ranged (Sling) both map to Ranged (Slugthrower); level 2 changed to Ranged (Blaster Rifle) to avoid a duplicate]`
+`[review: Ranged (Archaic) and Ranged (Archaic) both map to Ranged (Archaic); level 2 changed to Ranged (Blaster) to avoid a duplicate]`
 `[review: Set Trap mapped to Demolitions per the brief; a hunter's snares are not explosives, so a Profession (Trapper) skill may be wanted instead]`
 `[review: Fearless (Animals) and Fearless (Monsters) rendered as Fearless (Wild Beasts) and Fearless (Apex Predators)]`
 `[review: Kennel of Hunting Dogs re-themed as Pack of Hunting Massiffs; Riding Horse as Riding Beast; Macrobinoculars added as the iconic item]`
 `[review: overlaps Scout (exploration and pathfinding) and Bounty Hunter (sentient quarry); Hunter is beasts and trapping]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Dodge added]`
 
 ### Inquisitor
 
@@ -2527,7 +2610,7 @@ Inquisitors are the Force-hunters of the galaxy, and the career serves two very 
 
 *Career Path*
 **1. Interrogator — Silver 1**
-**Skills:** Charm, Consume Intoxicant, *Intimidate*, Intuition, Lore (Interrogation), Medicine, Melee (Brawling), Perception
+**Skills:** Charm, Consume Intoxicant, *Intimidate*, Intuition, Lore (Interrogation), Medicine, Melee (Brawling), Perception, Research, Lore (The Force)
 **Talents:** Coolheaded, Datapad Use, Menacing, Resolute
 **Trappings:** Vibroblade, Interrogation Kit
 
@@ -2550,10 +2633,11 @@ Inquisitors are the Force-hunters of the galaxy, and the career serves two very 
 `[review: scheme levels 2-4 proposed: BS, I, Int]`
 `[review: Force Resistance added at level 3 in place of Nose for Trouble so the career can stand against Force users; Sense Sorcery at level 4 comes from Magical Sense]`
 `[review: Pure Soul at level 4 suits a Jedi Shadow but not an Imperial Inquisitor; Strong-Minded or Hatred (Jedi) is the Imperial alternative]`
-`[review: Ride (Horse) mapped to Pilot (Speeder) for role rather than Ride (Creature) per table]`
+`[review: Ride (Horse) mapped to Pilot (Speeder) for role rather than Ride (Land) per table]`
 `[review: Silvered Sword re-themed as Cortosis-Weave Blade; Instruments of Torture as Interrogation Kit]`
 `[review: level titles are Imperial-flavoured; a Jedi Shadow uses Padawan Investigator / Shadow / Jedi Shadow / Master Shadow with the same mechanics]`
 `[review: overlaps Force Shadow, Spy and Investigator; differs by being a non-Force-using hunter of Force users]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Research and Lore (The Force) added]`
 
 ### Marshal
 
@@ -2572,17 +2656,17 @@ Marshals keep order on the roads, lanes and frontier settlements that planetary 
 
 *Career Path*
 **1. Customs Deputy — Brass 5**
-**Skills:** Bribery, Consume Intoxicant, Gamble, Gossip, Haggle, Melee (Vibroblade), *Perception*, Ranged (Blaster Rifle)
+**Skills:** Bribery, Consume Intoxicant, Gamble, Gossip, Haggle, Melee (1H), *Perception*, Ranged (Blaster), Cool, Dodge
 **Talents:** Coolheaded, Embezzle, Marksman, Numismatics
 **Trappings:** Blaster Rifle with Power Pack, Armoured Jacket
 
 **2. Marshal — Silver 2**
-**Skills:** Creature Care, Endurance, Intimidate, Intuition, Outdoor Survival, Ride (Creature)
+**Skills:** Creature Care, Endurance, Intimidate, Intuition, Outdoor Survival, Ride (Land)
 **Talents:** Crack the Whip, Criminal, Roughrider, Seasoned Traveller
 **Trappings:** Vibroblade, Blast Vest, Riding Creature with Saddle and Harness, Syntherope
 
 **3. Marshal Sergeant — Silver 4**
-**Skills:** Athletics, Charm, Leadership, Ranged (Blaster Pistol)
+**Skills:** Athletics, Charm, Leadership, Track
 **Talents:** Etiquette (Soldiers), Fearless (Outlaws), Hatred (Any), Nose for Trouble
 **Trappings:** Squad of Marshals, Blaster Pistol with Power Pack, Riot Shield, Badge of Rank
 
@@ -2593,11 +2677,13 @@ Marshals keep order on the roads, lanes and frontier settlements that planetary 
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: WS, Fel, Int]`
-`[review: Ranged (Crossbow) mapped to Ranged (Blaster Rifle) for role rather than Ranged (Slugthrower) per table]`
-`[review: Ride (Creature) and Creature Care kept for frontier mounted patrol (dewbacks); Pilot (Speeder) is the alternative]`
+`[review: Ranged (Archaic) mapped to Ranged (Blaster) for role rather than Ranged (Archaic) per table]`
+`[review: Ride (Land) and Creature Care kept for frontier mounted patrol (dewbacks); Pilot (Speeder) is the alternative]`
 `[review: Lore (Empire) written as Lore (Galactic Empire); use Lore (Galactic Republic) in Republic-era play]`
 `[review: Light Warhorse re-themed as Patrol Speeder]`
 `[review: overlaps Warden and Guard; differs by patrolling routes and frontier rather than a fixed post or city watch]`
+`[review: weapon-skill consolidation left Ranged (Blaster) twice; level 3 copy replaced by Track]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Cool and Dodge added]`
 
 ### Pilot
 
@@ -2616,7 +2702,7 @@ Pilots are the freelance starfighter jockeys, freighter captains and speeder rac
 
 *Career Path*
 **1. Cadet Pilot — Brass 3**
-**Skills:** Cool, Dodge, Gossip, Navigation, Perception, Pilot (Speeder), *Pilot (Starship)*, Ranged (Blaster Pistol)
+**Skills:** Cool, Dodge, Gossip, Navigation, Perception, Pilot (Speeder), *Pilot (Starship)*, Ranged (Blaster), Athletics, Evaluate
 **Talents:** Orientation, Pilot, Spacer, Vacuum Legs
 **Trappings:** Flight Suit, Comlink, Blaster Pistol, Astrogation Datapad
 
@@ -2640,6 +2726,7 @@ Pilots are the freelance starfighter jockeys, freighter captains and speeder rac
 `[review: Status values Brass 3 / Silver 1 / Silver 3 / Gold 1 taken from the brief's format example]`
 `[review: Pilot (Starship) proposed as the earning skill; Pilot (Speeder), Navigation, Ace Pilot, Hyperlane Pilot, Spacer and Vacuum Legs placed as instructed]`
 `[review: overlaps Smuggler and Scout; differs in that the Pilot is a flyer first with no cargo, trade or wilderness skills and gains Pilot (Capital Ship) and squadron command]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Evaluate added]`
 
 ### Scout
 
@@ -2657,15 +2744,15 @@ Across uncharted worlds where reliable maps and survey data are rare, local know
 *Career Path*
 **1. Guide — Brass 3**
 
-**Skills:** Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (Vibroblade), Outdoor Survival, Perception `[converted]`
+**Skills:** Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (1H), Outdoor Survival, Perception, Intuition, Charm Creature `[converted]`
 
-**Talents:** Orientation, Rover, Sharp, Strider (any)
+**Talents:** Orientation, Rover, Sharp, Strider (Any)
 
 **Trappings:** Vibroblade, Padded Jacket, Sturdy Boots and Cloak, Syntherope `[converted]`
 
 **2. Scout — Brass 5**
 
-**Skills:** Athletics, Navigation, Ranged (Blaster Rifle), Ride (Bantha), Stealth (Rural), Track
+**Skills:** Athletics, Navigation, Ranged (Blaster), Ride (Land), Stealth (Rural), Track
 
 **Talents:** Combat Aware, Night Vision, Nose for Trouble, Seasoned Traveller
 
@@ -2681,11 +2768,14 @@ Across uncharted worlds where reliable maps and survey data are rare, local know
 
 **4. Explorer — Silver 5**
 
-**Skills:** Language (any), Profession (Stellar Cartographer)
+**Skills:** Language (Any), Profession (Stellar Cartographer)
 
 **Talents:** Hardy, Linguistics, Savant (Local), Tenacious
 
 **Trappings:** Selection of Maps, Profession Tools (Stellar Cartographer)
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Charm Creature added]`
 
 ### Shadow Scout
 
@@ -2704,12 +2794,12 @@ Shadow Scouts are the pathfinders and silent killers of irregular warfare: Allia
 
 *Career Path*
 **1. Pathfinder Recruit — Brass 3**
-**Skills:** Climb, Lore (Beasts), Navigation, Outdoor Survival, Perception, *Ranged (Blaster Rifle)*, Stealth (Any), Profession (Weaponsmith)
+**Skills:** Climb, Lore (Beasts), Navigation, Outdoor Survival, Perception, *Ranged (Blaster)*, Stealth (Any), Profession (Weaponsmith), Lore (Local), Swim
 **Talents:** Accurate Shot, Fleet Footed, Shadow, Strider (Jungle)
 **Trappings:** Backpack, Camouflage Cloak, Blaster Rifle with power packs, Tool Kit (Weaponsmith), Macrobinoculars
 
 **2. Shadow Scout — Brass 5**
-**Skills:** Athletics, Charm Creature, Melee (Vibroblade), Codes (Ranger), Demolitions, Track
+**Skills:** Athletics, Charm Creature, Melee (1H), Codes (Ranger), Demolitions, Track
 **Talents:** Creature Affinity, Fast Shot, Orientation, Scale Sheer Surface
 **Trappings:** Personally tuned Blaster Rifle with scope, Selection of Mines and Traps, Armoured Jacket
 
@@ -2726,11 +2816,12 @@ Shadow Scouts are the pathfinders and silent killers of irregular warfare: Allia
 *Conversion notes:*
 `[review: parent Ghost Strider (WFRP 4e Archives of the Empire Vol. II); Wood Elf flavour re-themed to Rebel pathfinders, Bothans and Noghri]`
 `[review: scheme levels 2-4 proposed: I at 2, T at 3, WP at 4]`
-`[review: Ranged (Bow) rendered as Ranged (Blaster Rifle) by role; Ranged (Slugthrower) is the quieter alternative if the sniper reading should dominate; Trade (Bowyer) rendered as Profession (Weaponsmith)]`
+`[review: Ranged (Archaic) rendered as Ranged (Blaster) by role; Ranged (Archaic) is the quieter alternative if the sniper reading should dominate; Trade (Bowyer) rendered as Profession (Weaponsmith)]`
 `[review: level 2 listed seven skills; Swim dropped]`
 `[review: Lip Reading at level 3 is a talent in SL100, not a skill; replaced with Intuition]`
 `[review: Hatred (Any) narrowed to Hatred (Imperials); Strider (Woodlands) as Strider (Jungle); Elf Bow and Elf Arrows re-themed as a personally tuned and later Quality Blaster Rifle and Signature Ammunition]`
 `[review: overlaps Scout: the Shadow Scout is a stealth pathfinder and sniper for a fighting force (Stealth (Any), Shadow, Sniper, Codes (Ranger)) rather than a frontier explorer and surveyor]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Swim added]`
 
 ### Smuggler
 
@@ -2748,7 +2839,7 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 *Career Path*
 **1. River Runner — Brass 2**
 
-**Skills:** Athletics, Briberyry, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim `[converted]`
+**Skills:** Athletics, Bribery, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim, Navigation, Ranged (Blaster) `[converted]`
 
 **Talents:** Criminal, Scavenger, Strider (Wastelands), Strong Back
 
@@ -2756,7 +2847,7 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 
 **2. Smuggler — Brass 3**
 
-**Skills:** Haggle, Charm, Gossip, Lore (Local), Melee (Vibroblade), Perception, Codes (Smuggler) `[converted]`
+**Skills:** Haggle, Charm, Gossip, Lore (Local), Melee (1H), Perception, Codes (Smuggler) `[converted]`
 
 **Talents:** Dealmaker, Etiquette (Criminals), Spacer, Very Strong
 
@@ -2766,7 +2857,7 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 
 **Skills:** Evaluate, Intimidate, Intuition, Lore (Hyperlanes)
 
-**Talents:** Briberyr, Fearless (Customs Officers), Pilot, Strong Swimmer `[converted]`
+**Talents:** Briber, Fearless (Customs Officers), Pilot, Strong Swimmer `[converted]`
 
 **Trappings:** Lane Runner, Fast Freighter `[converted]`
 
@@ -2777,6 +2868,9 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 **Talents:** Kingpin, Savvy, Strider (Orbital), Vacuum Legs
 
 **Trappings:** Disguise Kit, Small Fleet of Freighters
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Navigation and Ranged (Blaster) added]`
 
 ### Trader
 
@@ -2795,12 +2889,12 @@ Traders are the itinerant merchants of the galaxy: Jawa scrap sellers trundling 
 
 *Career Path*
 **1. Scrap Hawker — Brass 1**
-**Skills:** Charm, Endurance, Entertain (Storytelling), Gossip, *Haggle*, Intuition, Outdoor Survival, Stealth (Rural or Urban)
+**Skills:** Charm, Endurance, Entertain (Storytelling), Gossip, *Haggle*, Intuition, Outdoor Survival, Stealth (Rural or Urban), Dodge, Navigation
 **Talents:** Flee!, Hunter's Eye, Rover, Tinker
 **Trappings:** Backpack, Bedroll, Goods worth 2d10 credits, Survival Shelter
 
 **2. Trader — Brass 4**
-**Skills:** Charm Creature, Consume Intoxicant, Creature Care, Evaluate, Profession (Tinker), Ride (Creature)
+**Skills:** Charm Creature, Consume Intoxicant, Creature Care, Evaluate, Profession (Tinker), Ride (Land)
 **Talents:** Dealmaker, Orientation, Seasoned Traveller, Strong Back
 **Trappings:** Pack Beast (Dewback or Ronto) with Panniers, Goods worth 2d10 x 10 credits, Selection of Scrap Parts, Tool Kit (Tinker)
 
@@ -2820,6 +2914,7 @@ Traders are the itinerant merchants of the galaxy: Jawa scrap sellers trundling 
 `[review: Fisherman mapped to Hunter's Eye per table; Scavenger would suit a scrap seller better]`
 `[review: goods values converted at Brass = 1 credit, Silver = 10 credits, Gold = 100 credits; adjust to the SL100 economy]`
 `[review: overlaps Merchant and Fence; differs by being itinerant, low-status and dealing in legal scrap rather than stolen goods or chartered trade]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Navigation added]`
 
 ### Zealot
 
@@ -2838,12 +2933,12 @@ Zealots are the fanatics of the galaxy: doomsayers preaching the fall of the Rep
 
 *Career Path*
 **1. Zealot — Brass 0**
-**Skills:** Dodge, Endurance, Intimidate, Intuition, Lore (Tradition), Medicine, Melee (Two-Handed), Outdoor Survival
+**Skills:** Dodge, Endurance, Intimidate, Intuition, Lore (Tradition), Medicine, Melee (2H), Outdoor Survival, Meditate, Consume Intoxicant
 **Talents:** Berserk Charge, Datapad Use, Frenzy, Stone Soup
 **Trappings:** Chain Flail, Tattered Robes
 
 **2. Pain-Sworn — Brass 0**
-**Skills:** Art (Holography), Athletics, Cool, Language (Old Galactic Standard), Lore (Galactic Empire), Ranged (Slugthrower)
+**Skills:** Art (Holography), Athletics, Cool, Language (Old Galactic Standard), Lore (Galactic Empire), Ranged (Archaic)
 **Talents:** Hardy, Hatred (Heretics), Implacable, Pain-Sworn
 **Trappings:** Placard, Tradition Token, Slugthrower Pistol
 
@@ -2863,10 +2958,11 @@ Zealots are the fanatics of the galaxy: doomsayers preaching the fall of the Rep
 `[review: Lore (Sigmar) mapped to Lore (Tradition), to be set to the character's creed or faction (Jedi Order, Imperial Cult, etc.)]`
 `[review: Lore (The Empire) written as Lore (Galactic Empire); use Lore (Galactic Republic) in Republic-era play]`
 `[review: Hatred/Fearless (Heretics) kept; could be re-themed as Dark Siders, Jedi or Imperials depending on the cause]`
-`[review: Ranged (Sling) mapped to Ranged (Slugthrower) per table; Flail written as Chain Flail under Melee (Two-Handed)]`
+`[review: Ranged (Archaic) mapped to Ranged (Archaic) per table; Flail written as Chain Flail under Melee (2H)]`
 `[review: Art (Icons) mapped to Art (Holography) per table]`
 
 ## Scoundrels
+`[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Consume Intoxicant added]`
 
 ### Bawd
 
@@ -2884,7 +2980,7 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 *Career Path*
 **1. Hustler — Brass 1**
 
-**Skills:** Briberyry, Charm, Consume Intoxicant, Entertain (Any), Gamble, Gossip, Haggle, Intimidate `[converted]`
+**Skills:** Bribery, Charm, Consume Intoxicant, Entertain (Any), Gamble, Gossip, Haggle, Intimidate, Sleight of Hand, Stealth (Urban) `[converted]`
 
 **Talents:** Attractive, Alley Cat, Blather, Gregarious
 
@@ -2892,7 +2988,7 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 
 **2. Bawd — Brass 3**
 
-**Skills:** Dodge, Endurance, Intuition, Lore (Local), Melee (Vibroblade), Perception `[converted]`
+**Skills:** Dodge, Endurance, Intuition, Lore (Local), Melee (1H), Perception `[converted]`
 
 **Talents:** Ambidextrous, Carouser, Criminal, Resistance (Disease)
 
@@ -2900,7 +2996,7 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 
 **3. Procurer — Silver 1**
 
-**Skills:** Cool, Evaluate, Language (any), Lore (Law)
+**Skills:** Cool, Evaluate, Language (Any), Lore (Law)
 
 **Talents:** Dealmaker, Embezzle, Etiquette (Any), Suave
 
@@ -2910,9 +3006,12 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 
 **Skills:** Leadership, Lore (Galactic Sigils)
 
-**Talents:** Briberyr, Kingpin, Numismatics, Savvy `[converted]`
+**Talents:** Briber, Kingpin, Numismatics, Savvy `[converted]`
 
 **Trappings:** Townhouse with Discreet Back Entrance, a Ring of Bawds
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Sleight of Hand and Stealth (Urban) added]`
 
 ### Charlatan
 
@@ -2930,7 +3029,7 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 *Career Path*
 **1. Swindler — Brass 3**
 
-**Skills:** Briberyry, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand `[converted]`
+**Skills:** Bribery, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand, Lore (Local), Language (Any) `[converted]`
 
 **Talents:** Cardsharp, Diceman, Etiquette (Any), Luck
 
@@ -2946,7 +3045,7 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 
 **3. Con Artist — Silver 2**
 
-**Skills:** Language (Huttese), Lore (Galactic Sigils), Slice Security System System, Codes (Smuggler) `[converted]`
+**Skills:** Language (Huttese), Lore (Galactic Sigils), Slice Security System, Codes (Smuggler) `[converted]`
 
 **Talents:** Attractive, Cat-tongued, Dealmaker, Datapad Use
 
@@ -2959,6 +3058,9 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 **Talents:** Gregarious, Master of Disguise, Nose for Trouble, Suave
 
 **Trappings:** Forged Seal, Datapad
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Language (Any) added]`
 
 ### Fence
 
@@ -2976,7 +3078,7 @@ A Fence buys thieves' spoils and sells them on for profit, often to those unawar
 *Career Path*
 **1. Broker — Silver 1**
 
-**Skills:** Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (Vibroblade) `[converted]`
+**Skills:** Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (1H), Sleight of Hand, Stealth (Urban) `[converted]`
 
 **Talents:** Alley Cat, Cardsharp, Dealmaker, Gregarious
 
@@ -2992,7 +3094,7 @@ A Fence buys thieves' spoils and sells them on for profit, often to those unawar
 
 **3. Master Fence — Silver 3**
 
-**Skills:** Briberyry, Entertain (Storytelling), Lore (Art), Lore (Local) `[converted]`
+**Skills:** Bribery, Entertain (Storytelling), Lore (Art), Lore (Local) `[converted]`
 
 **Talents:** Kingpin, Strike to Stun, Suave, Super Numerate
 
@@ -3002,9 +3104,12 @@ A Fence buys thieves' spoils and sells them on for profit, often to those unawar
 
 **Skills:** Lore (Galactic Sigils), Research
 
-**Talents:** Dirty Fighting, Iron Will, Menacing, Briberyr `[converted]`
+**Talents:** Dirty Fighting, Iron Will, Menacing, Briber `[converted]`
 
 **Trappings:** Hired Muscle, Network of Informants, Warehouse
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Sleight of Hand and Stealth (Urban) added]`
 
 ### Gambler
 
@@ -3023,7 +3128,7 @@ Gamblers are the professional sabacc and pazaak players who drift between the ca
 
 *Career Path*
 **1. Hustler — Brass 2**
-**Skills:** Charm, Cool, Evaluate, *Gamble*, Gossip, Intuition, Perception, Sleight of Hand
+**Skills:** Charm, Cool, Evaluate, *Gamble*, Gossip, Intuition, Perception, Sleight of Hand, Athletics, Intimidate
 **Talents:** Cardsharp, Diceman, Luck, Nimble Fingered
 **Trappings:** Sabacc Deck, Pazaak Side Deck, Lucky Charm, Fine Clothing
 
@@ -3033,7 +3138,7 @@ Gamblers are the professional sabacc and pazaak players who drift between the ca
 **Trappings:** Marked Sabacc Deck (Skifter), Hold-out Blaster, Stake of credits
 
 **3. High Roller — Silver 3**
-**Skills:** Codes (Underworld), Lore (Local), Ranged (Blaster Pistol), Stealth (Urban)
+**Skills:** Codes (Underworld), Lore (Local), Ranged (Blaster), Stealth (Urban)
 **Talents:** Criminal, Etiquette (Criminals), Quick Draw, Sixth Sense
 **Trappings:** Blaster Pistol, Quality Clothing, Line of Credit at a Casino
 
@@ -3047,6 +3152,7 @@ Gamblers are the professional sabacc and pazaak players who drift between the ca
 `[review: Status values Brass 2 / Silver 1 / Silver 3 / Gold 1 proposed, modelled on the Scoundrel ladder]`
 `[review: Gamble proposed as the earning skill; Cardsharp and Diceman placed at level 1 as instructed]`
 `[review: overlaps Charlatan and Fence; differs in that the Gambler earns at the table rather than by confidence tricks or stolen goods, with Gamble not Charm as the earning skill]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Intimidate added]`
 
 ### Outlaw
 
@@ -3064,7 +3170,7 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 *Career Path*
 **1. Brigand — Brass 1**
 
-**Skills:** Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (Vibroblade), Outdoor Survival `[converted]`
+**Skills:** Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (1H), Outdoor Survival, Climb, Navigation `[converted]`
 
 **Talents:** Combat Aware, Criminal, Rover, Flee!
 
@@ -3072,7 +3178,7 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 
 **2. Outlaw — Brass 2**
 
-**Skills:** Dodge, Medicine, Lore (Local), Perception, Ranged (Blaster Rifle), Stealth (Rural)
+**Skills:** Dodge, Medicine, Lore (Local), Perception, Ranged (Blaster), Stealth (Rural)
 
 **Talents:** Dirty Fighting, Marksman, Strike to Stun, Trapper
 
@@ -3080,7 +3186,7 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 
 **3. Outlaw Chief — Brass 4**
 
-**Skills:** Gossip, Intuition, Leadership, Ride (Bantha)
+**Skills:** Gossip, Intuition, Leadership, Ride (Land)
 
 **Talents:** Rapid Reload, Roughrider, Menacing, Very Resilient
 
@@ -3093,6 +3199,9 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 **Talents:** Deadeye Shot, Fearless (Imperial Patrols), Iron Will, Robust
 
 **Trappings:** ‘Fiefdom’ of Outlaw Chiefs, Lair
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Navigation added]`
 
 ### Racketeer
 
@@ -3111,17 +3220,17 @@ Racketeers run the protection, extortion and loan-sharking side of organised cri
 
 *Career Path*
 **1. Thug — Brass 3**
-**Skills:** Consume Intoxicant, Cool, Dodge, Endurance, *Intimidate*, Lore (Local), Melee (Brawling), Stealth (Urban)
+**Skills:** Consume Intoxicant, Cool, Dodge, Endurance, *Intimidate*, Lore (Local), Melee (Brawling), Stealth (Urban), Gamble, Athletics
 **Talents:** Criminal, Etiquette (Criminals), Menacing, Strike Mighty Blow
 **Trappings:** Shock Gloves, Armoured Jacket
 
 **2. Racketeer — Brass 5**
-**Skills:** Bribery, Charm, Evaluate, Gossip, Language (Huttese), Melee (Vibroblade)
+**Skills:** Bribery, Charm, Evaluate, Gossip, Language (Huttese), Melee (1H)
 **Talents:** Embezzle, Dirty Fighting, Strike to Stun, Warrior Born
 **Trappings:** Vibroblade, Stylish Hat, Blast Vest, Comlink
 
 **3. Gang Boss — Silver 3**
-**Skills:** Intuition, Leadership, Perception, Ranged (Blaster Pistol)
+**Skills:** Intuition, Leadership, Perception, Ranged (Blaster)
 **Talents:** Fearless (Law Enforcement), Iron Will, Resistance (Poison), Robust
 **Trappings:** Hold-out Blaster with power pack, Gang of Thugs and Racketeers, Hideout
 
@@ -3137,6 +3246,7 @@ Racketeers run the protection, extortion and loan-sharking side of organised cri
 `[review: Language (Estalian or Tilean) mapped to Language (Huttese)]`
 `[review: Knuckledusters re-themed as shock gloves; Crossbow Pistol as a hold-out blaster]`
 `[review: role overlaps Outlaw, Fence and Bawd; differs in being the violent enforcement arm of a syndicate rather than a freelance criminal]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Athletics added]`
 
 ### Thief
 
@@ -3154,7 +3264,7 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 *Career Path*
 **1. Prowler — Brass 1**
 
-**Skills:** Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban)
+**Skills:** Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Haggle, Codes (Underworld)
 
 **Talents:** Alley Cat, Criminal, Flee!, Strike to Stun
 
@@ -3162,7 +3272,7 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 
 **2. Thief — Brass 3**
 
-**Skills:** Evaluate, Gossip, Lore (Local), Slice Security System System, Codes (Smuggler), Sleight of Hand `[converted]`
+**Skills:** Evaluate, Gossip, Lore (Local), Slice Security System, Codes (Smuggler), Sleight of Hand `[converted]`
 
 **Talents:** Break and Enter, Etiquette (Criminals), Fast Hands, Shadow
 
@@ -3170,7 +3280,7 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 
 **3. Master Thief — Brass 5**
 
-**Skills:** Briberyry, Gamble, Intimidate, Ranged (Blaster Pistol) `[converted]`
+**Skills:** Bribery, Gamble, Intimidate, Ranged (Blaster) `[converted]`
 
 **Talents:** Night Vision, Nimble Fingered, Step Aside, Trapper
 
@@ -3183,6 +3293,9 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 **Talents:** Catfall, Scale Sheer Surface, Strong Legs, Wealthy
 
 **Trappings:** Dark Clothing, Grappling Spike Launcher, Mask or Scarves `[converted]`
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Codes (Underworld) added]`
 
 ### Tomb Raider
 
@@ -3201,12 +3314,12 @@ Tomb Raiders dig in the places sensible people avoid: the Valley of the Dark Lor
 
 *Career Path*
 **1. Relic Scrounger — Brass 2**
-**Skills:** Climb, Cool, Dodge, Endurance, Gossip, Intuition, *Perception*, Stealth (Any)
+**Skills:** Climb, Cool, Dodge, Endurance, Gossip, Intuition, *Perception*, Stealth (Any), Athletics, Lore (Any)
 **Talents:** Alley Cat, Criminal, Flee!, Strong Back
 **Trappings:** Fusion Cutter, Repulsor Sled, Hooded Cloak, Tarpaulin
 
 **2. Tomb Raider — Brass 3**
-**Skills:** Bribery, Evaluate, Haggle, Lore (Sith Lore), Melee (Vibroblade), Research
+**Skills:** Bribery, Evaluate, Haggle, Lore (Sith Lore), Melee (1H), Research
 **Talents:** Break and Enter, Night Vision, Resistance (Dark Side), Very Strong
 **Trappings:** Backpack, Vibroblade, Excavation Tool, Glow Rod
 
@@ -3230,6 +3343,7 @@ Tomb Raiders dig in the places sensible people avoid: the Valley of the Dark Lor
 `[review: role overlaps Thief and Scout; differs in targeting ruins and relics rather than living marks or wilderness]`
 
 ## Spacers
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Lore (Any) added]`
 
 ### Beachcomber
 
@@ -3248,12 +3362,12 @@ Beachcombers haunt the ship graveyards of the Legends galaxy: the scrap plains o
 
 *Career Path*
 **1. Wreck Picker — Brass 1**
-**Skills:** Climb, *Haggle*, Lore (Salvage), Melee (Vibroblade), Outdoor Survival, Perception, Pilot (Speeder), Stealth (Rural)
+**Skills:** Climb, *Haggle*, Lore (Salvage), Melee (1H), Outdoor Survival, Perception, Pilot (Speeder), Stealth (Rural), Dodge, Gossip
 **Talents:** Scavenger, Orientation, Strider (Scrapfields), Strong Swimmer
 **Trappings:** Salvage Net, Scrap Sack, Fusion Cutter, Breath Mask
 
 **2. Beachcomber — Brass 3**
-**Skills:** Consume Intoxicant, Endurance, Lore (Any), Ranged (Slugthrower), Demolitions, Swim
+**Skills:** Consume Intoxicant, Endurance, Lore (Any), Ranged (Archaic), Demolitions, Swim
 **Talents:** Coolheaded, Flee!, Rover, Stone Soup
 **Trappings:** Scavenged Boots, Armoured Jacket, Weather Hood, Slugthrower Pistol
 
@@ -3276,6 +3390,7 @@ Beachcombers haunt the ship graveyards of the Legends galaxy: the scrap plains o
 `[review: Fisherman rendered as Scavenger (SL100-only talent) rather than the table's Hunter's Eye; Strider (Coastal) as Strider (Scrapfields); Strong Swimmer kept for worlds with sludge seas, Strong Back is the alternative]`
 `[review: Fishing Net and String Bag rendered as Salvage Net and Scrap Sack; Boat as Patched Shuttle; Trade (Boatbuilder) as Profession (Starship Mechanic); River Guide as Hyperlane Pilot]`
 `[review: overlaps Scout and Smuggler only loosely: the Beachcomber stays on one world's wreck-field (Lore (Salvage), Scavenger, Stealth (Rural)) and trades scrap rather than running cargo or charting routes]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Gossip added]`
 
 ### Customs Officer
 
@@ -3294,12 +3409,12 @@ Customs Officers inspect inbound freighters, check cargo manifests against senso
 
 *Career Path*
 **1. Customs Recruit — Silver 1**
-**Skills:** Athletics, Dodge, Endurance, Evaluate, Melee (Vibroblade), Perception, *Pilot (Starship)*, Pilot (Capital Ship)
+**Skills:** Athletics, Dodge, Endurance, Evaluate, Melee (1H), Perception, *Pilot (Starship)*, Pilot (Capital Ship), Haggle, Language (Trade Cant)
 **Talents:** Nose for Trouble, Strong Back, Very Strong, Spacer
 **Trappings:** Vibroblade, Armoured Jacket, Customs Uniform, Comlink
 
 **2. Customs Officer — Silver 2**
-**Skills:** Bribery, Charm, Gossip, Intimidate, Lore (Hyperlanes), Ranged (Blaster Pistol)
+**Skills:** Bribery, Charm, Gossip, Intimidate, Lore (Hyperlanes), Ranged (Blaster)
 **Talents:** Criminal, Heavy Gunner, Hunter's Eye, Seasoned Traveller
 **Trappings:** Glow Rod, Blaster Pistol with power pack, Riot Shield, Cargo Scanner
 
@@ -3320,6 +3435,7 @@ Customs Officers inspect inbound freighters, check cargo manifests against senso
 `[review: Hunter's Eye kept from Fisherman; it reads as trailing and capturing smugglers rather than game]`
 `[review: Fearless (Wreckers) re-themed to Fearless (Pirates)]`
 `[review: role overlaps Guard and Warden; differs in being ship-borne and cargo-focused rather than a planetary peacekeeper]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Language (Trade Cant) added]`
 
 ### Deckhand
 
@@ -3338,17 +3454,17 @@ Deckhands are the unskilled and semi-skilled labour of the spacelanes: loaders, 
 
 *Career Path*
 **1. Greenhand — Brass 2**
-**Skills:** *Athletics*, Consume Intoxicant, Dodge, Endurance, Gossip, Outdoor Survival, Pilot (Starship), Swim
+**Skills:** *Athletics*, Consume Intoxicant, Dodge, Endurance, Gossip, Outdoor Survival, Pilot (Starship), Swim, Climb, Melee (Brawling)
 **Talents:** Scavenger, Gregarious, Strider (Starship Decks), Vacuum Legs
 **Trappings:** Cargo Harness, Multitool, Work Coveralls
 
 **2. Deckhand — Brass 3**
-**Skills:** Gamble, Lore (Local), Lore (Hyperlanes), Ranged (Slugthrower), Ranged (Grenade/Explosives), Demolitions
+**Skills:** Gamble, Lore (Local), Lore (Hyperlanes), Ranged (Archaic), Ranged (Thrown), Demolitions
 **Talents:** Craftsman (Starship Mechanic), Duct Crawler, Strong Back, Spacer
 **Trappings:** Cargo Net, Net Launcher, Armoured Jacket, Loading Hook
 
 **3. Spacewise — Brass 5**
-**Skills:** Charm, Intuition, Melee (Force Pike), Perception
+**Skills:** Charm, Intuition, Melee (2H), Perception
 **Talents:** Savant (Hyperlanes), Stout-Hearted, Tenacious, Very Strong
 **Trappings:** Share in a Cargo Skiff, Glow Rod
 
@@ -3364,8 +3480,9 @@ Deckhands are the unskilled and semi-skilled labour of the spacelanes: loaders, 
 `[review: Strong Swimmer replaced with Vacuum Legs at level 1 (no Sea Legs in the parent)]`
 `[review: Strider (Marshes) re-themed to Strider (Starship Decks)]`
 `[review: Rover (Stealth Rural) replaced with Duct Crawler at level 2 to suit a shipboard career]`
-`[review: level-2 Ranged (Entangling), Ranged (Throwing) and Set Trap mapped per table to Ranged (Slugthrower) with net launcher, Ranged (Grenade/Explosives) and Demolitions; three weapon-ish skills look heavy for a deckhand]`
+`[review: level-2 Ranged (Exotic), Ranged (Thrown) and Set Trap mapped per table to Ranged (Archaic) with net launcher, Ranged (Thrown) and Demolitions; three weapon-ish skills look heavy for a deckhand]`
 `[review: level-4 trapping Hut or Riverboat re-themed as a permanent freighter berth or dockside hab]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Melee (Brawling) added]`
 
 ### Dock Pilot
 
@@ -3384,17 +3501,17 @@ Dock Pilots guide ships through the crowded approach lanes and into the berths o
 
 *Career Path*
 **1. Traffic Spotter — Brass 4**
-**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Hyperlanes), Lore (Local), *Perception*, Pilot (Speeder), Pilot (Starship)
+**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Hyperlanes), Lore (Local), *Perception*, Pilot (Speeder), Pilot (Starship), Endurance, Athletics
 **Talents:** Night Vision, Orientation, Scavenger, Spacer
 **Trappings:** Vibroblade (Cargo Hook), Glow Rod with Power Cell
 
 **2. Dock Pilot — Silver 1**
-**Skills:** Charm, Cool, Entertain (Storytelling), Language (Any), Melee (Vibroblade), Navigation
+**Skills:** Charm, Cool, Entertain (Storytelling), Language (Any), Melee (1H), Navigation
 **Talents:** Dealmaker, Etiquette (Trade Guilds), Hyperlane Pilot, Nose for Trouble
 **Trappings:** Armoured Jacket, Syntherope, Docking Tug
 
 **3. Approach Pilot — Silver 3**
-**Skills:** Haggle, Intimidate, Lore (Local), Lore (Salvage)
+**Skills:** Haggle, Intimidate, Dodge, Lore (Salvage)
 **Talents:** Acute Sense (Sight), Pilot, Vacuum Legs, Very Strong
 **Trappings:** Mag-Grapple, Glow Rod with Power Cell
 
@@ -3411,6 +3528,8 @@ Dock Pilots guide ships through the crowded approach lanes and into the berths o
 `[review: Fisherman mapped to Scavenger; Sea Legs -> Vacuum Legs at level 3; Strong Swimmer at level 4 (no table entry, Vacuum Legs already taken) mapped to Ace Pilot]`
 `[review: Storm Lantern and Oil re-themed as Glow Rod with Power Cell; Pole as Mag-Grapple; Small Riverboat as Small Tug]`
 `[review: overlaps Spacer and the Pilot career; differs by being port-bound and traffic-focused]`
+`[review: weapon-skill consolidation left Lore (Local) twice; level 3 copy replaced by Dodge]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Endurance and Athletics added]`
 
 ### Dock Worker
 
@@ -3429,7 +3548,7 @@ Dock Workers are the muscle of every spaceport: they load and unload freighters,
 
 *Career Path*
 **1. Dockhand — Brass 3**
-**Skills:** *Athletics*, Climb, Consume Intoxicant, Dodge, Endurance, Gossip, Melee (Vibroblade), Swim
+**Skills:** *Athletics*, Climb, Consume Intoxicant, Dodge, Endurance, Gossip, Melee (1H), Swim, Haggle, Lore (Local)
 **Talents:** Dirty Fighting, Strong Back, Sturdy, Very Strong
 **Trappings:** Loading Hook, Work Gloves, Cargo Harness
 
@@ -3453,6 +3572,7 @@ Dock Workers are the muscle of every spaceport: they load and unload freighters,
 `[review: Swim kept at level 1 per the unchanged-skills list; consider Profession (Droid Handler) for the loading-droid concept]`
 `[review: Lore (Taxes) mapped to Lore (Imperial Revenue); in a Republic-era game read it as Republic tariff law]`
 `[review: Pipe and Tobacco re-themed as a pack of cigarras; Porter Cap as a dock crew cap]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Lore (Local) added]`
 
 ### Marine
 
@@ -3471,22 +3591,22 @@ Marines are the fighting troops carried aboard warships and armed merchantmen, d
 
 *Career Path*
 **1. Marine Recruit — Brass 3**
-**Skills:** Athletics, Climb, Cool, Dodge, Endurance, Intimidate, *Melee (Vibroblade)*, Ranged (Blaster Rifle)
+**Skills:** Athletics, Climb, Cool, Dodge, Endurance, Intimidate, *Melee (1H)*, Ranged (Blaster), Gamble, Gossip
 **Talents:** Drilled, Enclosed Fighter, Strong Back, Vacuum Legs
 **Trappings:** Vibroblade, Blaster Rifle and 2 Power Packs, Blast Vest, Breath Mask, Comlink
 
 **2. Marine — Silver 1**
-**Skills:** Demolitions, Language (Military Cant), Melee (Brawling), Perception, Ranged (Grenade/Explosives), Stealth (Underground)
+**Skills:** Demolitions, Language (Military Cant), Melee (Brawling), Perception, Ranged (Thrown), Stealth (Underground)
 **Talents:** Break and Enter, Combat Aware, Iron Jaw, Strike Mighty Blow
 **Trappings:** Plastoid Chest Plate, Helmet, 2 Frag Grenades, Breaching charge, Magnetic boots
 
 **3. Marine Sergeant — Silver 3**
-**Skills:** Leadership, Lore (Warfare), Pilot (Starship), Ranged (Heavy Blaster)
+**Skills:** Leadership, Lore (Warfare), Pilot (Starship), Ranged (Ordnance)
 **Talents:** Combat Reflexes, Furious Assault, Gunnery Chief, Hardy
 **Trappings:** Repeating Blaster, Riot Shield, Command of a boarding squad
 
 **4. Marine Commander — Gold 1**
-**Skills:** Charm, Lore (Galactic Republic or Galactic Empire, by era)
+**Skills:** Charm, Lore (Galactic Republic or Galactic Empire)
 **Talents:** Implacable, Inspiring, Tactician, War Leader
 **Trappings:** Full Plastoid Armour, Command of a marine company, Officer's quarters aboard a Capital Ship
 
@@ -3496,6 +3616,8 @@ Marines are the fighting troops carried aboard warships and armed merchantmen, d
 `[review: role overlaps Soldier and Guard; differs in that the Marine fights aboard ships, in boarding actions and vacuum, and never musters as a planetside army]`
 `[review: Stealth (Underground) chosen for ventilation ducts and maintenance crawlways; no Stealth (Shipboard) exists]`
 `[review: trappings "Breaching charge", "Magnetic boots", "Repeating Blaster" and "Full Plastoid Armour" are new items not in the brief's table]`
+`[review: weapon-skill consolidation left Ranged (Blaster) twice; level 3 copy replaced by Ranged (Ordnance)]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Gossip added]`
 
 ### Navigator
 
@@ -3514,7 +3636,7 @@ Navigators plot hyperspace jumps, survey new lanes and draw the charts that ever
 
 *Career Path*
 **1. Surveyor — Silver 1**
-**Skills:** *Art (Star Charts)*, Evaluate, Lore (Galactic Geography), Melee (Vibroblade), Navigation, Outdoor Survival, Perception, Pilot (Starship)
+**Skills:** *Art (Star Charts)*, Evaluate, Lore (Galactic Geography), Melee (1H), Navigation, Outdoor Survival, Perception, Pilot (Starship), Climb, Lore (Hyperlanes)
 **Talents:** Artistic, Datapad Use, Orientation, Rover
 **Trappings:** Datapad with chart archive, Blank Datacards, Macrobinoculars
 
@@ -3538,12 +3660,13 @@ Navigators plot hyperspace jumps, survey new lanes and draw the charts that ever
 `[review: scheme levels 2-4 proposed: Ag, WP, Fel]`
 `[review: level 1 trimmed from 10 parent skills to 8: dropped Climb and Stealth (Rural)]`
 `[review: Art (Cartography) -> Art (Star Charts) is not on the mapping table; Art (Holography) is the alternative]`
-`[review: Ride (Horse) at level 1 swapped to Pilot (Starship) rather than Ride (Creature) so a navigator can actually stand a watch]`
+`[review: Ride (Horse) at level 1 swapped to Pilot (Starship) rather than Ride (Land) so a navigator can actually stand a watch]`
 `[review: Trade (Cartographer) -> Profession (Astrogator); Lore (Geography) -> Lore (Galactic Geography); Lore (Heraldry) -> Lore (Galactic Sigils); Secret Signs (Guilder) -> Codes (Trade Guild); Language (Guilder) -> Language (Trade Cant)]`
 `[review: Unshakeable -> Iron Jaw per batch mapping; Master Tradesman (Cartography) -> Master (Profession)]`
 `[review: parent level 4 carried no trappings (the extracted text ran into the career's flavour essay); proposed Master Hyperlane Chart Archive, Share in a Light Freighter, Quality Clothing]`
 `[review: trappings re-themed: Vellum -> Blank Datacards; Writing Kit -> Datapad; Theodolite -> Astrogation Computer; Horse -> Speeder Bike; Letter of Charter -> Trade Permit (Astrogators' Guild); Quality Travel Clothes -> Quality Spacer's Jacket]`
 `[review: overlaps Scout; differs by charting and selling routes (Art, Profession (Astrogator), guild codes) rather than survival and tracking]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Lore (Hyperlanes) added]`
 
 ### Pirate
 
@@ -3562,12 +3685,12 @@ Pirates prey on shipping along the hyperlanes, from the Hutt-backed raiders of t
 
 *Career Path*
 **1. Deckhand — Brass 2**
-**Skills:** Athletics, Climb, Consume Intoxicant, Dodge, *Intimidate*, Melee (Vibroblade), Pilot (Starship), Ranged (Blaster Pistol)
+**Skills:** Athletics, Climb, Consume Intoxicant, Dodge, *Intimidate*, Melee (1H), Pilot (Starship), Ranged (Blaster), Gamble, Gossip
 **Talents:** Criminal, Dirty Fighting, Spacer, Vacuum Legs
 **Trappings:** Vibroblade, Blaster Pistol and 2 Power Packs, Grappling line (Syntherope), Magnetic boots
 
 **2. Pirate — Silver 1**
-**Skills:** Codes (Underworld), Endurance, Evaluate, Haggle, Lore (Hyperlanes), Ranged (Heavy Blaster)
+**Skills:** Codes (Underworld), Endurance, Evaluate, Haggle, Lore (Hyperlanes), Ranged (Thrown)
 **Talents:** Enclosed Fighter, Fast Shot, Gunnery Chief, Strike Mighty Blow
 **Trappings:** Armoured Jacket, Breath Mask, Breaching charge, Share of plunder
 
@@ -3587,6 +3710,8 @@ Pirates prey on shipping along the hyperlanes, from the Hutt-backed raiders of t
 `[review: Status values proposed (Brass 2 / Silver 1 / Silver 3 / Gold 1); Sea of Claws values not available]`
 `[review: role overlaps Outlaw and Smuggler; differs in that the Pirate is a ship-borne raider and boarder rather than a planetside bandit or a cargo runner]`
 `[review: trappings "Magnetic boots" and "Breaching charge" are new items not in the brief's table]`
+`[review: weapon-skill consolidation left Ranged (Blaster) twice; level 2 copy replaced by Ranged (Thrown)]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Gossip added]`
 
 ### Salvager
 
@@ -3605,7 +3730,7 @@ Salvagers scavenge derelict starships, battlefield debris fields and the junk-mo
 
 *Career Path*
 **1. Hull Scavenger — Brass 2**
-**Skills:** Climb, Consume Intoxicant, Dodge, Endurance, Melee (Vibroblade), Outdoor Survival, *Pilot (Starship)*, Swim
+**Skills:** Climb, Consume Intoxicant, Dodge, Endurance, Melee (1H), Outdoor Survival, *Pilot (Starship)*, Swim, Evaluate, Athletics
 **Talents:** Break and Enter, Criminal, Scavenger, Strong Back
 **Trappings:** Fusion Cutter, Large Salvage Sack, Work Gloves
 
@@ -3615,7 +3740,7 @@ Salvagers scavenge derelict starships, battlefield debris fields and the junk-mo
 **Trappings:** Vibroblade, Armoured Jacket, Glow Rod, Breath Mask
 
 **3. Wreck Pirate — Brass 5**
-**Skills:** Gossip, Intimidate, Ranged (Slugthrower), Stealth (Rural)
+**Skills:** Gossip, Intimidate, Ranged (Archaic), Stealth (Rural)
 **Talents:** Dirty Fighting, Etiquette (Criminals), Menacing, Spacer
 **Trappings:** Slugthrower Rifle with ammunition, Magnetic Grapnel and Syntherope, Salvage Skiff
 
@@ -3631,6 +3756,7 @@ Salvagers scavenge derelict starships, battlefield debris fields and the junk-mo
 `[review: Lore (Riverways) at level 4 mapped to Lore (Salvage) rather than Lore (Hyperlanes), since Lore (Wrecks) -> Salvage is the closer fit for this career]`
 `[review: Keg of Ale re-themed as a keg of lum]`
 `[review: role overlaps Outlaw and Smuggler; differs in being a wreck-stripping trade that only sometimes turns to piracy]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Athletics added]`
 
 ### Spacer
 
@@ -3649,7 +3775,7 @@ Spacers are the working crew of the spacelanes: deckhands, loaders, shuttle pilo
 
 *Career Path*
 **1. Deckhand — Silver 1**
-**Skills:** Consume Intoxicant, Cool, Dodge, Endurance, Gossip, Melee (Vibroblade), Pilot (Capital Ship), *Pilot (Starship)*
+**Skills:** Consume Intoxicant, Cool, Dodge, Endurance, Gossip, Melee (1H), Pilot (Capital Ship), *Pilot (Starship)*, Gamble, Ranged (Blaster)
 **Talents:** Dirty Fighting, Scavenger, Strong Back, Vacuum Legs
 **Trappings:** Vibroblade (Cargo Hook), Armoured Jacket, Mag-Grapple, Breath Mask
 
@@ -3676,6 +3802,7 @@ Spacers are the working crew of the spacelanes: deckhands, loaders, shuttle pilo
 `[review: Etiquette (Guilder) re-themed as Etiquette (Spacers) rather than Trade Guilds]`
 `[review: Pole re-themed as Mag-Grapple; Boat Hook as Cargo Hook; Riverboat and Crew as Light Freighter and Crew]`
 `[review: overlaps Smuggler and the Pilot career; differs by being honest crew with no contraband or dogfighting focus]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Ranged (Blaster) added]`
 
 ### Starship Crew
 
@@ -3694,12 +3821,12 @@ Starship Crew are the long-haul professionals of the galaxy's merchant and passe
 
 *Career Path*
 **1. Spacehand — Silver 1**
-**Skills:** Climb, Consume Intoxicant, Gamble, Gossip, Melee (Brawling), *Pilot (Starship)*, Pilot (Capital Ship), Swim
+**Skills:** Climb, Consume Intoxicant, Gamble, Gossip, Melee (Brawling), *Pilot (Starship)*, Pilot (Capital Ship), Swim, Haggle, Lore (Hyperlanes)
 **Talents:** Scavenger, Strider (Spaceport), Strong Back, Sturdy
 **Trappings:** Work Coveralls, Cleaning Kit, Magnetic Boots
 
 **2. Starship Crew — Silver 3**
-**Skills:** Athletics, Dodge, Endurance, Entertain (Singing), Language (Any), Melee (Vibroblade)
+**Skills:** Athletics, Dodge, Endurance, Entertain (Singing), Language (Any), Melee (1H)
 **Talents:** Catfall, Vacuum Legs, Seasoned Traveller, Strong Legs
 **Trappings:** Vibroblade, Armoured Jacket, Comlink
 
@@ -3722,6 +3849,7 @@ Starship Crew are the long-haul professionals of the galaxy's merchant and passe
 `[review: role overlaps Smuggler and Pilot careers; differs in being deck and engineering crew rather than a cockpit career]`
 
 ## Warriors
+`[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Lore (Hyperlanes) added]`
 
 ### Armoured Knight
 
@@ -3740,7 +3868,7 @@ Armoured Knights are the heavy, close-fighting elite of a sworn body: the warrio
 
 *Career Path*
 **1. Initiate — Silver 3**
-**Skills:** Athletics, Language (Old Galactic Standard), Lore (Galactic Sigils), Lore (Any), Medicine, *Melee (Vibroblade)*, Melee (Force Pike), Ride (Creature)
+**Skills:** Athletics, Language (Old Galactic Standard), Lore (Galactic Sigils), Lore (Any), Medicine, *Melee (1H)*, Melee (2H), Ride (Land), Creature Care, Charm Creature
 **Talents:** Datapad Use, Etiquette (Any), Roughrider, Warrior Born
 **Trappings:** Armoured Jacket, Blast Vest, Speeder Bike or Riding Beast with Saddle and Tack, Riot Shield, Tradition token (Order sigil)
 
@@ -3766,11 +3894,12 @@ Armoured Knights are the heavy, close-fighting elite of a sworn body: the warrio
 `[review: scheme levels 2-4 proposed: T, WP, Fel]`
 `[review: level 1 trimmed from 10 parent skills to 8: dropped Creature Care and Charm Creature (the Star Wars knight rides a speeder as often as a beast); Trade Tools (Farrier) trapping dropped for the same reason]`
 `[review: level 2 trimmed from 7 parent skills to 6: dropped Lore (Warfare)]`
-`[review: Ride (Horse) -> Ride (Creature) per brief, but Pilot (Speeder) is the better fit for Royal Guard and Senate Guard variants]`
+`[review: Ride (Horse) -> Ride (Land) per brief, but Pilot (Speeder) is the better fit for Royal Guard and Senate Guard variants]`
 `[review: Unshakeable -> Iron Jaw per batch mapping; note the talent list also carries Unshakeable under its own name]`
 `[review: Secret Signs (Blazing Sun) -> Codes (Order); Lore (Heraldry) -> Lore (Galactic Sigils); Language (Classical) -> Language (Old Galactic Standard)]`
 `[review: trappings re-themed: Mail Shirt -> Blast Vest; Plate Armour -> Full Plastoid Armour; Lance -> Force Pike; Destrier -> War Mount or Military Speeder Bike; Barding -> Armoured Speeder; Religious Symbol -> Tradition token (Order sigil); Great Helm with Sun emblem -> Ornate Helmet with Order emblem]`
 `[review: overlaps Guard and Force Warrior; differs by heavy armour, mounted shock combat and an order's chain of command rather than static sentry duty or Force use]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Creature Care and Charm Creature added]`
 
 ### Berserker
 
@@ -3789,17 +3918,17 @@ Berserkers are the oath-bound warriors who seek an honourable death and keep fai
 
 *Career Path*
 **1. Berserker — Brass 2**
-**Skills:** Consume Intoxicant, Cool, Dodge, Endurance, Gamble, Lore (Beasts), Medicine, *Melee (Vibroblade)*
+**Skills:** Consume Intoxicant, Cool, Dodge, Endurance, Gamble, Lore (Beasts), Medicine, *Melee (1H)*, Athletics, Climb
 **Talents:** Dual Wielder, Fearless (Everything), Frenzy, Slayer
 **Trappings:** Vibro-axe, Flask of Spirits, Shame, Ritual Tattoos
 
 **2. Beast Slayer — Brass 2**
-**Skills:** Evaluate, Intimidate, Language (Military Cant), Lore (Rancors), Melee (Two-Handed), Outdoor Survival
+**Skills:** Evaluate, Intimidate, Language (Military Cant), Lore (Rancors), Melee (2H), Outdoor Survival
 **Talents:** Hardy, Implacable, Menacing, Reversal
 **Trappings:** Two-Handed Vibro-axe, Jewellery, Rancor's Tooth
 
 **3. Krayt Slayer — Brass 2**
-**Skills:** Entertain (Storytelling), Lore (Krayt Dragons), Perception, Ranged (Grenade/Explosives)
+**Skills:** Entertain (Storytelling), Lore (Krayt Dragons), Perception, Ranged (Thrown)
 **Talents:** Ambidextrous, Furious Assault, Relentless, Robust
 **Trappings:** Rancor's Skull, Throwing Vibro-axes
 
@@ -3811,11 +3940,12 @@ Berserkers are the oath-bound warriors who seek an honourable death and keep fai
 *Conversion notes:*
 `[review: level-1 trio not in the data file; WS/S/T proposed from the Slayer parent, with scheme levels 2-4 proposed: Ag at 2, I at 3, WP at 4]`
 `[review: the table maps both Lore (Trolls) and Lore (Giants) to Lore (Rancors); Lore (Trolls) at level 1 taken as Lore (Beasts) and Lore (Giants) at level 2 as Lore (Rancors) to avoid a duplicate]`
-`[review: Ranged (Thrown) at level 3 mapped to Ranged (Grenade/Explosives) per the table, which sits oddly with the Throwing Vibro-axes trapping; Ranged (Slugthrower) may be preferred]`
+`[review: Ranged (Thrown) at level 3 mapped to Ranged (Thrown) per the table, which sits oddly with the Throwing Vibro-axes trapping; Ranged (Archaic) may be preferred]`
 `[review: Fearless (Everything) kept as written; the SL100 talent is listed as Fearless (Enemy)]`
 `[review: Shame kept as a trapping (fits a Wookiee broken life-debt); Troll's Head, Giant's Head and Dragon's Head re-themed as Rancor's Tooth, Rancor's Skull and Krayt Dragon Pearl]`
 `[review: Status Brass 2 at all four levels kept from the parent]`
 `[review: overlaps Pit Fighter and Force Warrior; differs in that the Berserker refuses armour, has no Force talents and climbs by trophies rather than rank]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Climb added]`
 
 ### Elite Guard
 
@@ -3834,7 +3964,7 @@ Elite Guards are the picked companies that stand behind a throne: the Royal Nabo
 
 *Career Path*
 **1. Guard Cadet — Silver 1**
-**Skills:** Athletics, Cool, Dodge, Endurance, Gossip, Language (Military Cant), Melee (Vibroblade), *Melee (Two-Handed)*
+**Skills:** Athletics, Cool, Dodge, Endurance, Gossip, Language (Military Cant), Melee (1H), *Melee (2H)*, Consume Intoxicant, Play (Any)
 **Talents:** Coolheaded, Drilled, Strong Back, Warrior Born
 **Trappings:** Vibroknife, Plastoid Chest Plate, Uniform, Two-Handed Vibroblade
 
@@ -3857,10 +3987,11 @@ Elite Guards are the picked companies that stand behind a throne: the Royal Nabo
 `[review: parent Greatsword (WFRP 4e Archives of the Empire); Status kept at Silver 1 / Silver 3 / Silver 5 / Gold 1]`
 `[review: scheme levels 2-4 proposed: T, I, Fel]`
 `[review: level 1 trimmed from 10 parent skills to 8: dropped Consume Intoxicant and Play (Drum)]`
-`[review: Ride (Horse) at level 3 swapped to Pilot (Speeder) rather than Ride (Creature) for a palace regiment]`
+`[review: Ride (Horse) at level 3 swapped to Pilot (Speeder) rather than Ride (Land) for a palace regiment]`
 `[review: Unshakeable -> Iron Jaw per batch mapping]`
 `[review: trappings re-themed: Zweihänder -> Two-Handed Vibroblade; Metal Breastplate -> Plastoid Chest Plate; Full Plate Armour -> Full Plastoid Armour; Large Feathered Hat -> Ceremonial Plumed Helmet; Manual on Zweihänder fighting -> Datapad with Two-Handed Combat archive; Light Warhorse -> Speeder Bike]`
 `[review: overlaps Guard and Soldier; differs by two-handed melee focus, heavy armour and court etiquette (Lore (Galactic Sigils)) rather than street or garrison duty]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Play (Any) added]`
 
 ### Enforcer
 
@@ -3879,31 +4010,32 @@ Enforcers are the bruisers who collect debts for the Black Sun, break legs for J
 
 *Career Path*
 **1. Bruiser — Brass 2**
-**Skills:** Athletics, Dodge, Endurance, Entertain (Taunt), Gossip, Haggle, *Intimidate*, Melee (Brawling)
+**Skills:** Athletics, Dodge, Endurance, Entertain (Taunt), Gossip, Haggle, *Intimidate*, Melee (Brawling), Consume Intoxicant, Stealth (Urban)
 **Talents:** Dirty Fighting, In-fighter, Menacing, Warrior Born
 **Trappings:** Hood or Mask, Knuckledusters, Armoured Jacket
 
 **2. Enforcer — Silver 1**
-**Skills:** Bribery, Charm, Intuition, Melee (Vibroblade), Perception, Pilot (Speeder)
+**Skills:** Bribery, Charm, Intuition, Melee (1H), Perception, Pilot (Speeder)
 **Talents:** Combat Reflexes, Criminal, Reversal, Strike to Stun
 **Trappings:** Vibroblade, Blast Vest, Speeder Bike, Riot Shield
 
 **3. Hitman — Silver 4**
-**Skills:** Climb, Cool, Navigation, Ranged (Grenade/Explosives)
+**Skills:** Climb, Cool, Navigation, Ranged (Thrown)
 **Talents:** Careful Strike, Disarm, Marksman, Relentless
 **Trappings:** Cloak, Garrotte, Vial of Poison, Throwing Vibroknives
 
 **4. Assassin — Gold 1**
-**Skills:** Entertain (Acting), Ranged (Slugthrower)
+**Skills:** Entertain (Acting), Ranged (Archaic)
 **Talents:** Accurate Shot, Ambidextrous, Furious Assault, Strike to Injure
 **Trappings:** Slugthrower Rifle with 10 rounds, Disguise Kit
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: S at 2, BS at 3, I at 4; level-1 trio WS/T/Ag kept from the rulebook]`
-`[review: level-1 Melee (Any) mapped to Melee (Brawling) to match the Knuckledusters and avoid duplicating the level-2 Melee (Basic) -> Melee (Vibroblade)]`
-`[review: level-2 Ride (Horse) mapped to Pilot (Speeder) instead of the table's Ride (Creature), since an urban enforcer rides a speeder bike; Riding Horse trapping re-themed to Speeder Bike accordingly]`
-`[review: Ranged (Thrown) at level 3 mapped to Ranged (Grenade/Explosives) per the table, but the Throwing Vibroknives trapping suggests Ranged (Blaster Pistol) may fit better]`
+`[review: level-1 Melee (Any) mapped to Melee (Brawling) to match the Knuckledusters and avoid duplicating the level-2 Melee (1H) -> Melee (1H)]`
+`[review: level-2 Ride (Horse) mapped to Pilot (Speeder) instead of the table's Ride (Land), since an urban enforcer rides a speeder bike; Riding Horse trapping re-themed to Speeder Bike accordingly]`
+`[review: Ranged (Thrown) at level 3 mapped to Ranged (Thrown) per the table, but the Throwing Vibroknives trapping suggests Ranged (Blaster) may fit better]`
 `[review: overlaps Bounty Hunter, Pit Fighter and Guard; differs in that the Enforcer is a criminal employee whose earning skill is Intimidate and who ends as an assassin, not a licensed hunter or a duellist]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Stealth (Urban) added]`
 
 ### Guard
 
@@ -3921,7 +4053,7 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 *Career Path*
 **1. Sentry — Silver 1**
 
-**Skills:** Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Vibroblade), Perception `[converted]`
+**Skills:** Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (1H), Perception, Lore (Local), Haggle `[converted]`
 
 **Talents:** Diceman, Etiquette (Servants), Strike to Stun, Tenacious
 
@@ -3929,7 +4061,7 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 
 **2. Guard — Silver 2**
 
-**Skills:** Athletics, Cool, Dodge, Intimidate, Melee (Vibro-Axe), Ranged (Blaster Rifle)
+**Skills:** Athletics, Cool, Dodge, Intimidate, Melee (2H), Ranged (Blaster)
 
 **Talents:** Relentless, Reversal, Shieldsman, Strike Mighty Blow
 
@@ -3937,9 +4069,9 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 
 **3. Honour Guard — Silver 3**
 
-**Skills:** Medicine, Language (Military Cant), Lore (Etiquette), Melee (Two-Handed)
+**Skills:** Medicine, Language (Military Cant), Lore (Etiquette), Climb
 
-**Talents:** Fearless (Intruders), Jump Up, Stout-hearted, Unshakeable
+**Talents:** Fearless (Intruders), Jump Up, Stout-Hearted, Unshakeable
 
 **Trappings:** Vibro-axe or Force Pike, Helmet, Uniform `[converted]`
 
@@ -3950,6 +4082,10 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 **Talents:** Combat Master, Furious Assault, Iron Will, Robust
 
 **Trappings:** Plastoid Chest Plate `[converted]`
+
+*Conversion notes:*
+`[review: weapon-skill consolidation left Melee (2H) twice; level 3 copy replaced by Climb]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Haggle added]`
 
 ### Gunner
 
@@ -3968,12 +4104,12 @@ Gunners serve wherever a weapon is too big for one soldier to carry. They crew t
 
 *Career Path*
 **1. Gun Crew — Brass 3**
-**Skills:** Athletics, Dodge, Endurance, Language (Military Cant), Melee (Brawling), Perception, *Ranged (Heavy Blaster)*, Pilot (Starship)
+**Skills:** Athletics, Dodge, Endurance, Language (Military Cant), Melee (Brawling), Perception, *Ranged (Blaster)*, Pilot (Starship), Climb, Intimidate
 **Talents:** Rapid Reload, Spacer, Strong Back, Vacuum Legs
 **Trappings:** Ship's Uniform, Crew Bunk, Ear Protectors, Comlink
 
 **2. Gunner — Silver 3**
-**Skills:** Consume Intoxicant, Cool, Gamble, Gossip, Melee (Vibroblade), Pilot (Capital Ship)
+**Skills:** Consume Intoxicant, Cool, Gamble, Gossip, Melee (1H), Pilot (Capital Ship)
 **Talents:** Etiquette (Spacers), Heavy Gunner, Marksman, Sniper
 **Trappings:** Gunner's Cap, Footlocker, Tool Kit (Gunnery), Blaster Pistol
 
@@ -3996,6 +4132,7 @@ Gunners serve wherever a weapon is too big for one soldier to carry. They crew t
 `[review: Lore (Oceans) -> Lore (Hyperlanes) was available at level 4 but replaced by Artillerist's Lore (Warfare); swap back for a purely naval version]`
 `[review: trappings re-themed: Bucket and Hammock -> Crew Bunk and Ear Protectors; Sea Chest -> Footlocker; Telescope -> Macrobinoculars; Artillery piece and Limber -> E-Web Repeating Blaster with Tripod; Cabin -> Private Cabin]`
 `[review: overlaps Soldier (heavy-weapons trooper); differs by being a crewed-weapon specialist with Spacer / Vacuum Legs and Gunnery Chief rather than a line infantryman]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Intimidate added]`
 
 ### Line Trooper
 
@@ -4014,7 +4151,7 @@ Line Troopers are the close-order infantry of every standing army in the galaxy:
 
 *Career Path*
 **1. Line Recruit — Silver 1**
-**Skills:** Athletics, Consume Intoxicant, Cool, Dodge, Endurance, Language (Military Cant), Melee (Vibroblade), *Melee (Force Pike)*
+**Skills:** Athletics, Consume Intoxicant, Cool, Dodge, Endurance, Language (Military Cant), Melee (1H), *Melee (2H)*, Ranged (Blaster), Ranged (Thrown)
 **Talents:** Diceman, Drilled, Strong Back, Warrior Born
 **Trappings:** Vibroknife, Force Pike, Blast Vest, Unit Uniform, Comlink
 
@@ -4037,9 +4174,10 @@ Line Troopers are the close-order infantry of every standing army in the galaxy:
 `[review: parents Halberdier and Pikeman (WFRP 4e Up in Arms) merged into one career; the Halberdier line supplies the level titles, Status values (Silver 1 / 3 / 5 / Gold 1) and most skills, the Pikeman line supplies Language (Military Cant) at level 1 and Very Strong was dropped in favour of the Halberdier talents]`
 `[review: level-1 trio taken from Pikeman (WS, S, T) rather than Halberdier (WS, T, Ag) because shield-and-pike line work is about strength and stamina; swap Ag for S if the Halberdier reading is preferred]`
 `[review: scheme levels 2-4 proposed: Ag at 2, I at 3, Fel at 4]`
-`[review: Ride (Horse) at level 3 rendered as Pilot (Speeder) per the Horse -> Dewback/Speeder Bike note; Ride (Creature) if the unit is dewback-mounted]`
+`[review: Ride (Horse) at level 3 rendered as Pilot (Speeder) per the Horse -> Dewback/Speeder Bike note; Ride (Land) if the unit is dewback-mounted]`
 `[review: Leather Breastplate rendered as Blast Vest, Metal/Plate Breastplate as Plastoid Chest Plate, Letter of Commission as Code Cylinder of Commission, Light Warhorse as Speeder Bike]`
-`[review: overlaps Soldier and Guard: the Line Trooper is a close-order force-pike-and-shield infantryman (Melee (Force Pike), Drilled, Enclosed Fighter, Riot Shield) rather than a blaster-armed general soldier or a static sentry]`
+`[review: overlaps Soldier and Guard: the Line Trooper is a close-order force-pike-and-shield infantryman (Melee (2H), Drilled, Enclosed Fighter, Riot Shield) rather than a blaster-armed general soldier or a static sentry]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Ranged (Thrown) added]`
 
 ### Martial Artist
 
@@ -4058,12 +4196,12 @@ Martial Artists follow one of the galaxy's unarmed fighting traditions: the Echa
 
 *Career Path*
 **1. Initiate — Brass 3**
-**Skills:** Athletics, Cool, Dodge, Endurance, Meditate, *Melee (Brawling)*, Perception, Perform (Acrobatics)
+**Skills:** Athletics, Cool, Dodge, Endurance, Meditate, *Melee (Brawling)*, Perception, Perform (Acrobatics), Medicine, Sleight of Hand
 **Talents:** Jump Up, Martial Artist, Step Aside, Strong Legs
 **Trappings:** Robes, Training weapons, Tradition token of your school, Medpac
 
 **2. Martial Artist — Silver 1**
-**Skills:** Climb, Intimidate, Intuition, Lore (Martial Arts), Melee (Parry), Melee (Vibroblade)
+**Skills:** Climb, Intimidate, Intuition, Lore (Martial Arts), Melee (2H), Melee (2H)
 **Talents:** Disarm, Fast Hands, First Strike, Iron Jaw
 **Trappings:** Armoured Jacket, Vibroblade, Membership of an Echani or Teras Kasi school
 
@@ -4083,6 +4221,8 @@ Martial Artists follow one of the galaxy's unarmed fighting traditions: the Echa
 `[review: Status values proposed (Brass 3 / Silver 1 / Silver 3 / Gold 1)]`
 `[review: role overlaps Pit Fighter and Force Warrior; differs in that the Martial Artist is an unarmed, non-Force discipline with a school and a code rather than an arena brawler or lightsaber duellist]`
 `[review: Lore (Martial Arts) is a new Lore not in the brief's re-theming table]`
+`[review: weapon-skill consolidation left Melee (1H) twice; level 2 copy replaced by Melee (2H)]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Medicine and Sleight of Hand added]`
 
 ### Officer
 
@@ -4101,12 +4241,12 @@ Officers hold the commissions that run the great navies and armies of the galaxy
 
 *Career Path*
 **1. Midshipman — Silver 1**
-**Skills:** Athletics, Gossip, *Leadership*, Melee (Vibroblade), Outdoor Survival, Perception, Pilot (Capital Ship), Pilot (Starship)
+**Skills:** Athletics, Gossip, *Leadership*, Melee (1H), Outdoor Survival, Perception, Pilot (Capital Ship), Pilot (Starship), Climb, Lore (Warfare)
 **Talents:** Datapad Use, Etiquette (Spacers), Orientation, Vacuum Legs
 **Trappings:** Vibroblade, Uniform, Comlink
 
 **2. Lieutenant — Silver 5**
-**Skills:** Cool, Endurance, Intimidate, Lore (Hyperlanes), Navigation, Ranged (Blaster Pistol)
+**Skills:** Cool, Endurance, Intimidate, Lore (Hyperlanes), Navigation, Ranged (Blaster)
 **Talents:** Coolheaded, Hyperlane Pilot, Pilot, Spacer
 **Trappings:** Quality Uniform, Officer's Footlocker, Blaster Pistol
 
@@ -4130,6 +4270,7 @@ Officers hold the commissions that run the great navies and armies of the galaxy
 `[review: Row / Sail -> Pilot (Starship) / Pilot (Capital Ship); Lore (Oceans) -> Lore (Hyperlanes); Old Salt -> Spacer; Sea Legs -> Vacuum Legs per batch mapping]`
 `[review: trappings re-themed: Ship's Chest -> Officer's Footlocker; Big Hat -> Captain's Rank Insignia; Boat to Command -> Starship to Command; Captain's Log -> Captain's Log Datapad; A Fleet kept]`
 `[review: overlaps Soldier (Sergeant / Officer levels); differs by starting commissioned with Leadership as earning skill and fleet skills (Pilot (Capital Ship), Lore (Hyperlanes)) instead of line combat]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Lore (Warfare) added]`
 
 ### Pit Fighter
 
@@ -4147,7 +4288,7 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 *Career Path*
 **1. Pugilist — Brass 4**
 
-**Skills:** Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling)
+**Skills:** Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling), Climb, Entertain (Taunt)
 
 **Talents:** Dirty Fighting, In-fighter, Iron Jaw, Reversal
 
@@ -4155,7 +4296,7 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 
 **2. Pit Fighter — Silver 2**
 
-**Skills:** Haggle, Intuition, Melee (Vibroblade), Melee (Electrostaff or Two-Handed), Perception, Ranged (Entangling) `[converted]`
+**Skills:** Haggle, Intuition, Melee (1H), Melee (2H), Perception, Ranged (Exotic) `[converted]`
 
 **Talents:** Ambidextrous, Combat Reflexes, Dual Wielder, Shieldsman
 
@@ -4177,6 +4318,9 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 
 **Trappings:** Quality Helmet
 
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Climb and Entertain (Taunt) added]`
+
 ### Sharpshooter
 
 ![Sharpshooter (SL100 original art)](File:SL100 Career Sharpshooter.jpg)
@@ -4194,12 +4338,12 @@ Sharpshooters are the snipers and skirmish marksmen of the galaxy's armies: Repu
 
 *Career Path*
 **1. Rifleman — Silver 1**
-**Skills:** Athletics, Climb, Dodge, Endurance, Language (Military Cant), Perception, *Ranged (Slugthrower)*, Stealth (Rural)
+**Skills:** Athletics, Climb, Dodge, Endurance, Language (Military Cant), Perception, *Ranged (Archaic)*, Stealth (Rural), Ranged (Blaster), Consume Intoxicant
 **Talents:** Accurate Shot, Fast Shot, Strong Back, Warrior Born
 **Trappings:** Slugthrower Rifle with 2 Magazines, Vibroknife, Backpack, Uniform
 
 **2. Sharpshooter — Silver 3**
-**Skills:** Gamble, Gossip, Melee (Vibroblade), Outdoor Survival, Profession (Weaponsmith), Track
+**Skills:** Gamble, Gossip, Melee (1H), Outdoor Survival, Profession (Weaponsmith), Track
 **Talents:** Drilled, Etiquette (Soldiers), Marksman, Sure Shot
 **Trappings:** Helmet, Vibroblade, Quality Slugthrower Rifle with Scope
 
@@ -4217,12 +4361,13 @@ Sharpshooters are the snipers and skirmish marksmen of the galaxy's armies: Repu
 `[review: parent Archer (WFRP 4e Archives of the Empire); Status kept at Silver 1 / Silver 3 / Silver 5 / Gold 1]`
 `[review: scheme levels 2-4 proposed: T, WP, Fel]`
 `[review: level 1 trimmed from 10 parent skills to 8: dropped Consume Intoxicant and Play (Horn)]`
-`[review: Ranged (Bow) -> Ranged (Slugthrower) per brief; a blaster-era version should swap to Ranged (Blaster Rifle) and a Blaster Sniper Rifle]`
+`[review: Ranged (Archaic) -> Ranged (Archaic) per brief; a blaster-era version should swap to Ranged (Blaster) and a Blaster Sniper Rifle]`
 `[review: Trade (Fletcher) has no listed re-theme; chose Profession (Weaponsmith)]`
-`[review: Ride (Horse) at level 3 swapped to Pilot (Speeder) rather than Ride (Creature) to fit a sniper trooper]`
+`[review: Ride (Horse) at level 3 swapped to Pilot (Speeder) rather than Ride (Land) to fit a sniper trooper]`
 `[review: Unshakeable -> Iron Jaw per batch mapping]`
 `[review: trappings re-themed: Quiver and 10 Arrows -> 2 Magazines; Quality Bow -> Quality Slugthrower Rifle with Scope; Letter of Commission -> Officer's Commission; Light Warhorse -> Speeder Bike]`
 `[review: overlaps Soldier, Scout and Bounty Hunter; differs by being a ranged specialist stacking Accurate Shot / Sure Shot / Sharpshooter / Sniper with no scouting or capture skills]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Consume Intoxicant added]`
 
 ### Soldier
 
@@ -4240,7 +4385,7 @@ By the command of the Galactic Emperor — and before him the Republic Senate �
 *Career Path*
 **1. Recruit — Silver 1**
 
-**Skills:** Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (Vibroblade), Play (Drums or Horn) `[converted]`
+**Skills:** Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (1H), Play (Drums or Horn), Ranged (Blaster), Intimidate `[converted]`
 
 **Talents:** Diceman, Marksman, Strong Back, Warrior Born
 
@@ -4266,9 +4411,12 @@ By the command of the Galactic Emperor — and before him the Republic Senate �
 
 **Skills:** Lore (Warfare), Navigation
 
-**Talents:** Inspiring, Public Speaker, Seasoned Traveller, Stout-hearted
+**Talents:** Inspiring, Public Speaker, Seasoned Traveller, Stout-Hearted
 
 **Trappings:** Letter of Commission, Speeder Bike, Map, Orders, Unit of Soldiers, Quality Uniform, Symbol of Rank
+
+*Conversion notes:*
+`[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Intimidate added]`
 
 ### Speeder Trooper
 
@@ -4287,12 +4435,12 @@ Speeder Troopers are the mounted cavalry of modern armies: Imperial scout troope
 
 *Career Path*
 **1. Scout Trooper Recruit — Silver 2**
-**Skills:** Endurance, Language (Military Cant), Melee (Vibroblade), Outdoor Survival, Perception, *Pilot (Speeder)*, Profession (Speeder Mechanic), Ride (Creature)
+**Skills:** Endurance, Language (Military Cant), Melee (1H), Outdoor Survival, Perception, *Pilot (Speeder)*, Profession (Speeder Mechanic), Ride (Land), Dodge, Athletics
 **Talents:** Combat Aware, Crack the Whip, Lightning Reflexes, Roughrider
 **Trappings:** Armoured Jacket, Speeder Bike, Comlink
 
 **2. Speeder Trooper — Silver 4**
-**Skills:** Charm, Consume Intoxicant, Cool, Gossip, Melee (Force Pike), Ranged (Blaster Pistol)
+**Skills:** Charm, Consume Intoxicant, Cool, Gossip, Melee (2H), Ranged (Blaster)
 **Talents:** Etiquette (Soldiers), Heavy Gunner, Seasoned Traveller, Trick Riding
 **Trappings:** Plastoid Chest Plate, Force Pike, Helmet, Military Speeder Bike, Blaster Pistol with power pack, Riot Shield
 
@@ -4308,8 +4456,9 @@ Speeder Troopers are the mounted cavalry of modern armies: Imperial scout troope
 
 *Conversion notes:*
 `[review: scheme levels 2-4 proposed: BS at level 2, T at level 3, Fel at level 4]`
-`[review: Ride (Horse) mapped to Pilot (Speeder) instead of Ride (Creature) to match the speeder-bike concept; Charm Animal was then mapped to Ride (Creature) so beast-mounted troopers remain possible, and Animal Care to Profession (Speeder Mechanic)]`
+`[review: Ride (Horse) mapped to Pilot (Speeder) instead of Ride (Land) to match the speeder-bike concept; Charm Animal was then mapped to Ride (Land) so beast-mounted troopers remain possible, and Animal Care to Profession (Speeder Mechanic)]`
 `[review: Trick Riding adds to Dodge on ridden creatures only; consider extending it to Pilot (Speeder) or swapping for Ace Pilot]`
-`[review: Melee (Cavalry) mapped to Melee (Force Pike); Demilance re-themed as a force pike]`
+`[review: Melee (2H) mapped to Melee (2H); Demilance re-themed as a force pike]`
 `[review: Riot Shield kept from Shield though speeder troopers rarely carry one; consider dropping]`
 `[review: role overlaps Soldier and Scout; differs in being mounted cavalry rather than infantry or wilderness reconnaissance]`
+`[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Athletics added]`

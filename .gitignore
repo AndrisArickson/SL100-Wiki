@@ -3,10 +3,15 @@ data/
 __pycache__/
 *.pyc
 *.tmp
-# Images: all images are committed. Only Creative Commons images (Wookieepedia, CC BY-SA 3.0, attribution in
-# meta/card_images.tsv / meta/images.tsv) or our own artwork may be placed in images/.
-# Fair-use / untagged Wookieepedia images: private local wiki only, never pushed
-images/local/
+# Images: every image the wiki serves is committed, as WebP only (decision 13 Oct): Wookieepedia images
+# (free, fair use or untagged, attribution in meta/image_licences.tsv) and the group's own artwork.
+# Non-WebP originals live outside the repo in ../art_originals.
+images/**/*.png
+images/**/*.jpg
+images/**/*.jpeg
+images/**/*.gif
+# hand-downloaded originals waiting for ./wiki.sh images-ingest
+images/incoming/
 # Copyrighted source-book extracts must never be pushed
 private/
 Source_Text/
@@ -22,3 +27,5 @@ images/full/**/*.jpg
 wg-*.conf
 *.conf.bak
 Proton Drive Download*.zip
+# hand-collected image bundles
+*.zip

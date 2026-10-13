@@ -2,241 +2,245 @@
 
 Star Legends characters may be any of the sentient species of the Legends galaxy. Each entry gives the species' characteristic modifiers (added to the 2d10+20 roll), its talents, Movement, Destiny, Resilience and Extra points, its Size and natural weapons, and a Traits line for anything else the lore demands. The Legends article behind every entry is linked from its heading.
 
-**Status tags.** `[sl100]` marks the seventeen species written by the design group: they stand as written. `[review]` marks species added on 12 Oct 2026 from the Legends articles alone (no d20 abilities or statistics were used); their numbers follow the design rules below and are provisional until reviewed. Entries ending "(thin source)" had little lore to work from.
+**Status tags.** `[sl100]` marks the seventeen species written by the design group: they stand as written. `[sl100]` marks species added on 12 Oct 2026 from the Legends articles alone (no d20 abilities or statistics were used); their numbers follow the design rules below and are provisional until reviewed. Entries ending "(thin source)" had little lore to work from.
 
 **Design rules used for the review entries.** Non-human species: modifiers sum to about +30, each +10 or +20, at most two −10s. Near-humans: +20 and an extra species talent, with Destiny 2, Resilience 1, Extra points 3 like Humans. Movement 4, or 3 for Small, 5 for fast, 6–7 for quadrupeds. Small species (about 1.2 m or less) take the Small talent and Large species (about 2.2 m or more) the Large talent, both free. Datapad Use is given to every species except those the lore shows as uncivilised or technology-shunning. Force Sensitive (Tradition) only where the whole species is Force-attuned.
 
 ## Index
 
-| Species | Size | Characteristics | Status |
-| --- | --- | --- | --- |
-| [[#Arkanian|Arkanian]] | Average | (see entry) | sl100 |
-| [[#Besalisk|Besalisk]] | Average | (see entry) | sl100 |
-| [[#Chironian|Chironian]] | Large | (see entry) | sl100 |
-| [[#Chiss|Chiss]] | Average | (see entry) | sl100 |
-| [[#Echani|Echani]] | Average | (see entry) | sl100 |
-| [[#Human|Human]] | Average | (see entry) | sl100 |
-| [[#Kel Dor|Kel Dor]] | Average | (see entry) | sl100 |
-| [[#Miraluka|Miraluka]] | Average | (see entry) | sl100 |
-| [[#Nautolan|Nautolan]] | Average | (see entry) | sl100 |
-| [[#Otolla Gungan|Otolla Gungan]] | Average | (see entry) | sl100 |
-| [[#Togruta|Togruta]] | Average | (see entry) | sl100 |
-| [[#Trandoshan|Trandoshan]] | Average | (see entry) | sl100 |
-| [[#T'surr|T'surr]] | Average | (see entry) | sl100 |
-| [[#Twi'lek|Twi'lek]] | Average | (see entry) | sl100 |
-| [[#Weequay|Weequay]] | Average | (see entry) | sl100 |
-| [[#Wookiee|Wookiee]] | Large | (see entry) | sl100 |
-| [[#Zabrak|Zabrak]] | Average | (see entry) | sl100 |
-| [[#Abyssin|Abyssin]] | Average | WS +10, S +10, T +20, Fel −10 | review |
-| [[#Adarian|Adarian]] | Average | I +10, Int +10, WP +10 | review |
-| [[#Advozse|Advozse]] | Average | T +10, Int +10, WP +10 | review |
-| [[#Aleena|Aleena]] | Small | S −10, I +10, Ag +20, Dex +10 | review |
-| [[#Anomid|Anomid]] | Average | Int +20, Dex +10 | review |
-| [[#Anx|Anx]] | Large | S +20, T +10 | review |
-| [[#Anzat|Anzat]] | Average | I +10, Ag +10, WP +10 | review |
-| [[#Aqualish|Aqualish]] | Average | WS +10, S +20, T +10, Fel −10 | review |
-| [[#Arcona|Arcona]] | Average | T +10, Int +10, Fel +10 | review |
-| [[#Askajian|Askajian]] | Average | T +10, WP +10 | review |
-| [[#Ayrou|Ayrou]] | Average | Ag +10, Int +10, Fel +10 | review |
-| [[#Balosar|Balosar]] | Average | I +10, Ag +10, Int +10 | review |
-| [[#Barabel|Barabel]] | Average | S +10, T +20, I +10, Fel −10 | review |
-| [[#Baragwin|Baragwin]] | Average | T +20, I +10, Int +10, Ag −10 | review |
-| [[#Bardottan|Bardottan]] | Average | Int +10, WP +20 | review |
-| [[#Bartokk|Bartokk]] | Average | WS +10, S +10, T +20, Fel −10 | review |
-| [[#Bimm|Bimm]] | Average | Int +10, Fel +10 | review |
-| [[#Bith|Bith]] | Average | S −10, I +10, Dex +10, Int +20 | review |
-| [[#Blood Carver|Blood Carver]] | Average | Ag +10, Dex +10, WP +10 | review |
-| [[#Bothan|Bothan]] | Average | I +10, Int +10, Fel +10 | review |
-| [[#Caamasi|Caamasi]] | Average | WP +10, Fel +20 | review |
-| [[#Caarite|Caarite]] | Average | Int +10, Fel +20 | review |
-| [[#Cathar|Cathar]] | Average | WS +10, S +10, Ag +10 | review |
-| [[#Celegian|Celegian]] | Large | S −10, Int +20, WP +20 | review |
-| [[#Cerean|Cerean]] | Average | I +10, Ag −10, Int +20, WP +10 | review |
-| [[#Chadra-Fan|Chadra-Fan]] | Small | S −10, I +20, Ag +10, Dex +10 | review |
-| [[#Chagrian|Chagrian]] | Average | S +10, T +10, WP +10 | review |
-| [[#Charon|Charon]] | Large | S +20, T +10, WP +10, Fel −10 | review |
-| [[#Chev|Chev]] | Average | T +10, WP +10 | review |
-| [[#Chevin|Chevin]] | Average | S +20, T +10, I +10, Fel −10 | review |
-| [[#Clawdite|Clawdite]] | Average | Ag +10, WP +10, Fel +10 | review |
-| [[#Colicoid|Colicoid]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
-| [[#Cragmoloid|Cragmoloid]] | Large | S +20, T +10, WP +10, Ag −10 | review |
-| [[#Dantari|Dantari]] | Average | S +10, T +10 | review |
-| [[#Dashade|Dashade]] | Average | WS +10, S +10, T +10 | review |
-| [[#Dathomirian|Dathomirian]] | Average | WS +10, T +10, WP +10 | review |
-| [[#Defel|Defel]] | Average | S +10, I +10, Ag +10 | review |
-| [[#Devaronian|Devaronian]] | Average | S +10, T +10, I +10 | review |
-| [[#Diathim|Diathim]] | Average | T −10, Ag +10, WP +10, Fel +20 | review |
-| [[#Drall|Drall]] | Small | S −10, I +10, Int +20, WP +10 | review |
-| [[#Dressellian|Dressellian]] | Average | BS +10, I +10, WP +10 | review |
-| [[#Dug|Dug]] | Average | WS +10, S +10, Ag +20, Fel −10 | review |
-| [[#Duinuogwuin|Duinuogwuin]] | Large | S +20, T +10, Ag −10, Int +10, WP +10 | review |
-| [[#Duros|Duros]] | Average | I +10, Ag +10, Int +10 | review |
-| [[#Ebranite|Ebranite]] | Average | WS +10, S +10, T +10 | review |
-| [[#Elom|Elom]] | Average | T +20, Int +10, WP +10, Fel −10 | review |
-| [[#Elomin|Elomin]] | Average | T +10, Int +10, WP +10 | review |
-| [[#Em'liy|Em'liy]] | Average | WS +10, S +10, T +10 | review |
-| [[#Esh-kha|Esh-kha]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | review |
-| [[#Ewok|Ewok]] | Small | S +10, I +10, Ag +10 | review |
-| [[#Falleen|Falleen]] | Average | WP +10, Fel +20 | review |
-| [[#Farghul|Farghul]] | Average | S +10, Ag +10, Fel +10 | review |
-| [[#Feeorin|Feeorin]] | Average | WS +10, S +20, T +10, Fel −10 | review |
-| [[#Filordus|Filordus]] | Average | T +10, Int +10, Fel +10 | review |
-| [[#Frozian|Frozian]] | Average | T −10, Ag +10, Dex +10, Int +10, WP +10 | review |
-| [[#Gamorrean|Gamorrean]] | Average | WS +10, S +20, T +10, Int −10 | review |
-| [[#Gand|Gand]] | Average | T +10, I +10, WP +10 | review |
-| [[#Gen'Dai|Gen'Dai]] | Average | S +10, T +20, WP +10, Fel −10 | review |
-| [[#Geonosian|Geonosian]] | Average | BS +10, S +10, T +10, Int +10, Fel −10 | review |
-| [[#Givin|Givin]] | Average | T +10, Int +20, WP +10, Fel −10 | review |
-| [[#Gossam|Gossam]] | Small | T −10, Ag +10, Dex +10, Int +10, Fel +10 | review |
-| [[#Gotal|Gotal]] | Average | I +20, WP +10 | review |
-| [[#Gran|Gran]] | Average | I +10, WP +10, Fel +10 | review |
-| [[#H'nemthe|H'nemthe]] | Average | T +10, Ag +10, Int +10 | review |
-| [[#Hapan|Hapan]] | Average | Fel +20 | review |
-| [[#Herglic|Herglic]] | Large | S +20, T +10, Ag −10, Fel +10 | review |
-| [[#Ho'Din|Ho'Din]] | Large | Dex +10, Int +10, WP +10 | review |
-| [[#Houk|Houk]] | Average | WS +10, S +20, T +10, Fel −10 | review |
-| [[#Hrakian|Hrakian]] | Average | T +10, WP +10 | review |
-| [[#Huralok|Huralok]] | Average | S +10, T +10, Int +10, WP +10, Fel −10 | review |
-| [[#Hutt|Hutt]] | Large | S +10, T +20, Ag −10, Int +10, WP +10 | review |
-| [[#Iktotchi|Iktotchi]] | Average | T +10, I +10, Dex −10, Int +10, WP +10 | review |
-| [[#Iotran|Iotran]] | Average | WS +10, BS +10, S +10, WP +10, Fel −10 | review |
-| [[#Ishi Tib|Ishi Tib]] | Average | I +10, Int +10, WP +10 | review |
-| [[#Ithorian|Ithorian]] | Average | T +10, I −10, Int +10, WP +10, Fel +10 | review |
-| [[#Jawa|Jawa]] | Small | Ag +10, Dex +10, Int +10 | review |
-| [[#Jenet|Jenet]] | Average | T +10, I +10, Ag +10, Int +10, Fel −10 | review |
-| [[#Kadas'sa'Nikto|Kadas'sa'Nikto]] | Average | S +10, T +10, Ag +10 | review |
-| [[#Kage|Kage]] | Average | WS +10, Ag +10 | review |
-| [[#Kaleesh|Kaleesh]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | review |
-| [[#Kaminoan|Kaminoan]] | Average | S −10, I +10, Int +20, WP +10 | review |
-| [[#Kerestian|Kerestian]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
-| [[#Keshiri|Keshiri]] | Average | S +10, Fel +10 | review |
-| [[#Khil|Khil]] | Average | Int +10, WP +10, Fel +10 | review |
-| [[#Khommite|Khommite]] | Average | Int +10, WP +10 | review |
-| [[#Kian'thar|Kian'thar]] | Average | S +10, WP +10, Fel +10 | review |
-| [[#Kiffar|Kiffar]] | Average | WP +10, I +10 | review |
-| [[#Kilmaulsi|Kilmaulsi]] | Average | WS +10, T +10, WP +10 | review |
-| [[#Kitonak|Kitonak]] | Small | T +20, WP +20, Ag −10 | review |
-| [[#Klatooinian|Klatooinian]] | Average | WS +10, S +10, T +10 | review |
-| [[#Kobok|Kobok]] | Average | WS +10, S +10, Ag +10, I +10, T −10 | review |
-| [[#Koorivar|Koorivar]] | Average | Int +10, I +10, Fel +10 | review |
-| [[#Korun|Korun]] | Average | T +10, WP +10 | review |
-| [[#Krevaaki|Krevaaki]] | Average | T +10, Int +10, WP +20, Fel −10 | review |
-| [[#Krish|Krish]] | Average | WS +10, Ag +10, Int +10 | review |
-| [[#Kubaz|Kubaz]] | Average | I +10, Dex +10, Int +10 | review |
-| [[#Kushiban|Kushiban]] | Small | Ag +20, I +10, WP +10, S −10 | review |
-| [[#Kyuzo|Kyuzo]] | Average | WS +10, Ag +20 | review |
-| [[#Lannik|Lannik]] | Small | WS +10, T +10, WP +10 | review |
-| [[#Lepi|Lepi]] | Average | Ag +10, I +10, Fel +10 | review |
-| [[#Lorrdian|Lorrdian]] | Average | I +10, Fel +10 | review |
-| [[#Lutrillian|Lutrillian]] | Average | T +10, Int +10, Fel +10 | review |
-| [[#Massassi|Massassi]] | Average | WS +10, S +20, T +10, Int −10 | review |
-| [[#Meerian|Meerian]] | Average | S +10, Fel +10 | review |
-| [[#Menahuun|Menahuun]] | Small | Ag +20, I +10, Int +10, S −10 | review |
-| [[#Mirialan|Mirialan]] | Average | Ag +10, I +10 | review |
-| [[#Mon Calamari|Mon Calamari]] | Average | Int +10, WP +10, Fel +10 | review |
-| [[#Morseerian|Morseerian]] | Average | I +10, Dex +10, Int +10 | review |
-| [[#Mrlssi|Mrlssi]] | Small | I +10, Int +20, Fel +10, S −10 | review |
-| [[#Murachaun|Murachaun]] | Average | S +10, T +10, Fel +10 | review |
-| [[#Mustafarian|Mustafarian]] | Average | S +10, T +10, WP +10 | review |
-| [[#Muun|Muun]] | Average | Int +20, WP +10, Fel +10, S −10 | review |
-| [[#Myneyrsh|Myneyrsh]] | Average | S +10, I +20, Ag +10, Fel −10 | review |
-| [[#Nagai|Nagai]] | Average | Ag +10, WP +10 | review |
-| [[#Nazzar|Nazzar]] | Average | S +10, Ag +10, WP +10 | review |
-| [[#Neimoidian|Neimoidian]] | Average | Dex +10, Int +20, Fel +10, WP −10 | review |
-| [[#Nelvaanian|Nelvaanian]] | Average | S +10, I +10, WP +10 | review |
-| [[#Neti|Neti]] | Average | T +20, Int +10, WP +10, Ag −10 | review |
-| [[#Nikto|Nikto]] | Average | WS +10, S +10, T +10 | review |
-| [[#Noehon|Noehon]] | Small | I +10, Ag +10, Dex +10, Int +10, Fel −10 | review |
-| [[#Noghri|Noghri]] | Small | WS +10, S +10, Ag +10, I +10, Fel −10 | review |
-| [[#Nosaurian|Nosaurian]] | Average | WS +10, T +10, WP +10 | review |
-| [[#Nuknog|Nuknog]] | Small | T +10, I +20, Dex +10, Int −10 | review |
-| [[#Omwati|Omwati]] | Average | Dex +10, Int +10 | review |
-| [[#Ongree|Ongree]] | Average | I +10, Ag +10, Fel +10 | review |
-| [[#Ortolan|Ortolan]] | Average | T +20, I +10, Fel +10, Dex −10 | review |
-| [[#Pa'lowick|Pa'lowick]] | Average | T +10, WP +10, Fel +10 | review |
-| [[#Pacithhip|Pacithhip]] | Average | S +10, T +20, Int +10, Ag −10 | review |
-| [[#Paigun|Paigun]] | Average | WS −10, T +10, Dex +10, Int +20 | review |
-| [[#Pau'an|Pau'an]] | Average | WP +10, Fel +10 | review |
-| [[#Phindian|Phindian]] | Average | WP −10, Ag +10, Dex +10, Int +10, Fel +10 | review |
-| [[#Pho Ph'eahian|Pho Ph'eahian]] | Average | S +10, Int +10, Fel +10 | review |
-| [[#Psadan|Psadan]] | Average | S +10, T +20, Ag −10, WP +10 | review |
-| [[#Quarren|Quarren]] | Average | S +10, T +10, Int +10, WP +10, Fel −10 | review |
-| [[#Quermian|Quermian]] | Average | S −10, Int +20, WP +10, Fel +10 | review |
-| [[#Rakata|Rakata]] | Average | WS +10, T +10, Int +10, WP +10, Fel −10 | review |
-| [[#Ranat|Ranat]] | Small | T +10, I +10, Ag +20, Int −10 | review |
-| [[#Ranth|Ranth]] | Average | S +10, T +10, I +10 | review |
-| [[#Rattataki|Rattataki]] | Average | WS +10, T +10 | review |
-| [[#Rodian|Rodian]] | Average | BS +10, I +10, Ag +10 | review |
-| [[#Ruurian|Ruurian]] | Small | S −10, T +10, Dex +10, Int +20 | review |
-| [[#Rybet|Rybet]] | Average | T +10, I +10, Ag +10, Dex +10, WP −10 | review |
-| [[#Ryn|Ryn]] | Average | Ag +10, Dex +10, Fel +10 | review |
-| [[#S'kytri|S'kytri]] | Average | WS +10, S +10, Fel +10 | review |
-| [[#Saheelindeeli|Saheelindeeli]] | Average | S +10, T +10, Ag +10 | review |
-| [[#Sakiyan|Sakiyan]] | Average | S +10, I +20, Int +10, Fel −10 | review |
-| [[#Sanyassan|Sanyassan]] | Average | WS +10, S +10, T +10, Int −10, WP +10 | review |
-| [[#Sarkan|Sarkan]] | Average | S +10, T +10, Int +10 | review |
-| [[#Saurin|Saurin]] | Average | WS +10, S +10, T +10 | review |
-| [[#Selkath|Selkath]] | Average | Int +10, WP +10, Fel +10 | review |
-| [[#Selonian|Selonian]] | Average | S +10, T +10, Ag +10 | review |
-| [[#Sephi|Sephi]] | Average | Dex +10, Fel +10 | review |
-| [[#Shi'ido|Shi'ido]] | Average | T +10, Int +10, WP +10 | review |
-| [[#Shistavanen|Shistavanen]] | Average | S +10, T +10, I +10, Ag +10, Fel −10 | review |
-| [[#Sith|Sith]] | Average | WS +10, S +10, WP +10 | review |
-| [[#Skakoan|Skakoan]] | Average | T +10, Dex +10, Int +20, Fel −10 | review |
-| [[#Skrilling|Skrilling]] | Average | S +10, T +10, Int +10 | review |
-| [[#Sluissi|Sluissi]] | Average | S −10, Dex +10, Int +20, WP +10 | review |
-| [[#Snivvian|Snivvian]] | Average | T +10, I +10, Int +10 | review |
-| [[#Spiner|Spiner]] | Average | BS +10, T +10, Ag +10 | review |
-| [[#Squalris|Squalris]] | Average | T +10, Ag −10, Int +10, Fel +20 | review |
-| [[#Squib|Squib]] | Small | S −10, I +10, Ag +10, Int +10, Fel +10 | review |
-| [[#Ssi-ruu|Ssi-ruu]] | Average | WS +10, S +10, T +10, Int +10, Fel −10 | review |
-| [[#Sullustan|Sullustan]] | Average | I +10, Dex +10 | review |
-| [[#Svivreni|Svivreni]] | Average | S +10, T +10, Ag −10, WP +20 | review |
-| [[#Swokes Swokes|Swokes Swokes]] | Average | S +10, T +20, Ag −10, WP +10 | review |
-| [[#Talz|Talz]] | Large | S +20, T +10, Int −10, WP +10 | review |
-| [[#Tarasin|Tarasin]] | Average | S −10, I +10, Int +20, WP +10 | review |
-| [[#Tarro|Tarro]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
-| [[#Temolak|Temolak]] | Average | S +10, T +10, Int +10 | review |
-| [[#Thakwaash|Thakwaash]] | Large | S +20, T +10, I +10, WP −10 | review |
-| [[#Theelin|Theelin]] | Average | Dex +10, Fel +10 (near-human) | review |
-| [[#Thisspiasian|Thisspiasian]] | Average | S +10, T +10, WP +10 | review |
-| [[#Tholothian|Tholothian]] | Average | WP +10, Fel +10 (near-human) | review |
-| [[#Tiss'shar|Tiss'shar]] | Average | S +10, Dex +10, Int +10 | review |
-| [[#Togorian|Togorian]] | Average | WS +10, S +10, T +10 | review |
-| [[#Toong|Toong]] | Average | I +10, Ag +10, Int +20, WP −10 | review |
-| [[#Toydarian|Toydarian]] | Small | Dex +10, Int +10, WP +10 | review |
-| [[#Trianii|Trianii]] | Average | S +10, Ag +10, I +10 | review |
-| [[#Tunroth|Tunroth]] | Average | S +10, T +10, I +10 | review |
-| [[#Tusken Raider|Tusken Raider]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | review |
-| [[#Tynnan|Tynnan]] | Small | T +10, Int +10, WP +10 | review |
-| [[#Ubese|Ubese]] | Average | BS +10, T +10, Ag +10, WP +10, Fel −10 | review |
-| [[#Ugnaught|Ugnaught]] | Small | T +10, Dex +10, WP +10 | review |
-| [[#Umbaran|Umbaran]] | Average | Int +10, WP +10 (near-human) | review |
-| [[#Utai|Utai]] | Small | T +10, Dex +10, I +10 | review |
-| [[#Verpine|Verpine]] | Average | S −10, T +10, Dex +10, Int +20 | review |
-| [[#Vodran|Vodran]] | Average | S +10, T +10, Ag +10 | review |
-| [[#Vor|Vor]] | Average | T −10, I +10, Ag +10, Dex +10, Int +10 | review |
-| [[#Vorzydiak|Vorzydiak]] | Average | Int +10, WP +10 (near-human) | review |
-| [[#Voss|Voss]] | Average | WS +10, T +10, WP +10 | review |
-| [[#Vratix|Vratix]] | Average | S +10, Ag +10, Int +10 | review |
-| [[#Vurk|Vurk]] | Average | S +10, T +10, WP +10 | review |
-| [[#Vuvrian|Vuvrian]] | Average | T −10, I +20, Int +10, Fel +10 | review |
-| [[#Whiphid|Whiphid]] | Large | S +20, T +10, I +10, Fel −10 | review |
-| [[#Woostoid|Woostoid]] | Average | Dex +10, Int +20 | review |
-| [[#Wroonian|Wroonian]] | Average | WP +10, Fel +10 (near-human) | review |
-| [[#Xexto|Xexto]] | Small | I +10, Ag +10, Dex +10 | review |
-| [[#Yarkora|Yarkora]] | Average | T +10, I +10, Fel +10 | review |
-| [[#Yevetha|Yevetha]] | Average | WS +10, Ag +10, Int +10, WP +10, Fel −10 | review |
-| [[#Yinchorri|Yinchorri]] | Average | WS +10, S +10, T +20, Int −10 | review |
-| [[#Yuuzhan Vong|Yuuzhan Vong]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | review |
-| [[#Yuzzem|Yuzzem]] | Large | S +20, T +10, WP +10, Fel −10 | review |
-| [[#Yuzzum|Yuzzum]] | Average | I +10, Ag +10, Fel +10 | review |
-| [[#Zeltron|Zeltron]] | Average | Fel +20 (near-human) | review |
-| [[#Zygerrian|Zygerrian]] | Average | WS +10, I +10, Ag +10 | review |
+Every species links to its entry below and, as "Legends <name>", to the copy of its Wookieepedia (Legends) article held in this wiki.
 
-## Species written by the design group `[sl100]`
+| Species | Legends article | Size | Characteristics | Status |
+| --- | --- | --- | --- | --- |
+| [[#Arkanian|Arkanian]] | [[Arkanian/Legends|Legends Arkanian]] | Average | INT +20  WILL +10  T +10  FEL -10 | sl100 |
+| [[#Besalisk|Besalisk]] | [[Besalisk/Legends|Legends Besalisk]] | Average | Characteristics:S +10  T +10  AGI -10  FEL +10 | sl100 |
+| [[#Chironian|Chironian]] | [[Chironian|Legends Chironian]] | Large | S +20 | sl100 |
+| [[#Chiss|Chiss]] | [[Chiss/Legends|Legends Chiss]] | Average | I +10  S +10  WILL +10 | sl100 |
+| [[#Echani|Echani]] | [[Echani/Legends|Legends Echani]] | Average | WS +10BS +10AG +10 | sl100 |
+| [[#Human|Human]] | [[Human/Legends|Legends Human]] | Average | (see entry) | sl100 |
+| [[#Kel Dor|Kel Dor]] | [[Kel Dor/Legends|Legends Kel Dor]] | Average | I +10  WP +10  AG +10 | sl100 |
+| [[#Miraluka|Miraluka]] | [[Miraluka/Legends|Legends Miraluka]] | Average | WP +10 | sl100 |
+| [[#Nautolan|Nautolan]] | [[Nautolan/Legends|Legends Nautolan]] | Average | S +10T +10  I +10 | sl100 |
+| [[#Otolla Gungan|Otolla Gungan]] | [[Otolla/Legends|Legends Otolla]] | Average | (see entry) | sl100 |
+| [[#Togruta|Togruta]] | [[Togruta/Legends|Legends Togruta]] | Average | (see entry) | sl100 |
+| [[#Trandoshan|Trandoshan]] | [[Trandoshan/Legends|Legends Trandoshan]] | Average | WS +10  S +10T +10 | sl100 |
+| [[#T'surr|T'surr]] | [[T'surr|Legends T'surr]] | Average | WS +10  S +20  T +10  FEL: -10 | sl100 |
+| [[#Twi'lek|Twi'lek]] | [[Twi'lek/Legends|Legends Twi'lek]] | Average | AG +10  FEL  +20  T +10 WP -10 | sl100 |
+| [[#Weequay|Weequay]] | [[Weequay/Legends|Legends Weequay]] | Average | WS +10  T +10   S +10 | sl100 |
+| [[#Wookiee|Wookiee]] | [[Wookiee/Legends|Legends Wookiee]] | Large | STR +20  FEL -10  INT +10  AGI +10 | sl100 |
+| [[#Zabrak|Zabrak]] | [[Zabrak/Legends|Legends Zabrak]] | Average | T +10  WP +20 | sl100 |
+| [[#Abyssin|Abyssin]] | [[Abyssin/Legends|Legends Abyssin]] | Average | WS +10, S +10, T +20, Fel −10 | sl100 |
+| [[#Adarian|Adarian]] | [[Adarian/Legends|Legends Adarian]] | Average | I +10, Int +10, WP +10 | sl100 |
+| [[#Advozse|Advozse]] | [[Advozse/Legends|Legends Advozse]] | Average | T +10, Int +10, WP +10 | sl100 |
+| [[#Aleena|Aleena]] | [[Aleena/Legends|Legends Aleena]] | Small | S −10, I +10, Ag +20, Dex +10 | sl100 |
+| [[#Anomid|Anomid]] | [[Anomid/Legends|Legends Anomid]] | Average | Int +20, Dex +10 | sl100 |
+| [[#Anx|Anx]] | [[Anx/Legends|Legends Anx]] | Large | S +20, T +10 | sl100 |
+| [[#Anzat|Anzat]] | [[Anzat/Legends|Legends Anzat]] | Average | I +10, Ag +10, WP +10 | sl100 |
+| [[#Aqualish|Aqualish]] | [[Aqualish/Legends|Legends Aqualish]] | Average | WS +10, S +20, T +10, Fel −10 | sl100 |
+| [[#Arcona|Arcona]] | [[Arcona/Legends|Legends Arcona]] | Average | T +10, Int +10, Fel +10 | sl100 |
+| [[#Askajian|Askajian]] | [[Askajian/Legends|Legends Askajian]] | Average | T +10, WP +10 | sl100 |
+| [[#Ayrou|Ayrou]] | [[Ayrou/Legends|Legends Ayrou]] | Average | Ag +10, Int +10, Fel +10 | sl100 |
+| [[#Balosar|Balosar]] | [[Balosar/Legends|Legends Balosar]] | Average | I +10, Ag +10, Int +10 | sl100 |
+| [[#Barabel|Barabel]] | [[Barabel/Legends|Legends Barabel]] | Average | S +10, T +20, I +10, Fel −10 | sl100 |
+| [[#Baragwin|Baragwin]] | [[Baragwin/Legends|Legends Baragwin]] | Average | T +20, I +10, Int +10, Ag −10 | sl100 |
+| [[#Bardottan|Bardottan]] | [[Bardottan/Legends|Legends Bardottan]] | Average | Int +10, WP +20 | sl100 |
+| [[#Bartokk|Bartokk]] | [[Bartokk|Legends Bartokk]] | Average | WS +10, S +10, T +20, Fel −10 | sl100 |
+| [[#Bimm|Bimm]] | [[Bimm/Legends|Legends Bimm]] | Average | Int +10, Fel +10 | sl100 |
+| [[#Bith|Bith]] | [[Bith/Legends|Legends Bith]] | Average | S −10, I +10, Dex +10, Int +20 | sl100 |
+| [[#Blood Carver|Blood Carver]] | [[Blood Carver|Legends Blood Carver]] | Average | Ag +10, Dex +10, WP +10 | sl100 |
+| [[#Bothan|Bothan]] | [[Bothan/Legends|Legends Bothan]] | Average | I +10, Int +10, Fel +10 | sl100 |
+| [[#Caamasi|Caamasi]] | [[Caamasi/Legends|Legends Caamasi]] | Average | WP +10, Fel +20 | sl100 |
+| [[#Caarite|Caarite]] | [[Caarite|Legends Caarite]] | Average | Int +10, Fel +20 | sl100 |
+| [[#Cathar|Cathar]] | [[Cathar/Legends|Legends Cathar]] | Average | WS +10, S +10, Ag +10 | sl100 |
+| [[#Celegian|Celegian]] | [[Celegian/Legends|Legends Celegian]] | Large | S −10, Int +20, WP +20 | sl100 |
+| [[#Cerean|Cerean]] | [[Cerean/Legends|Legends Cerean]] | Average | I +10, Ag −10, Int +20, WP +10 | sl100 |
+| [[#Chadra-Fan|Chadra-Fan]] | [[Chadra-Fan/Legends|Legends Chadra-Fan]] | Small | S −10, I +20, Ag +10, Dex +10 | sl100 |
+| [[#Chagrian|Chagrian]] | [[Chagrian/Legends|Legends Chagrian]] | Average | S +10, T +10, WP +10 | sl100 |
+| [[#Charon|Charon]] | [[Charon/Legends|Legends Charon]] | Large | S +20, T +10, WP +10, Fel −10 | sl100 |
+| [[#Chev|Chev]] | [[Chev|Legends Chev]] | Average | T +10, WP +10 | sl100 |
+| [[#Chevin|Chevin]] | [[Chevin/Legends|Legends Chevin]] | Average | S +20, T +10, I +10, Fel −10 | sl100 |
+| [[#Clawdite|Clawdite]] | [[Clawdite/Legends|Legends Clawdite]] | Average | Ag +10, WP +10, Fel +10 | sl100 |
+| [[#Colicoid|Colicoid]] | [[Colicoid/Legends|Legends Colicoid]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | sl100 |
+| [[#Cragmoloid|Cragmoloid]] | [[Cragmoloid/Legends|Legends Cragmoloid]] | Large | S +20, T +10, WP +10, Ag −10 | sl100 |
+| [[#Dantari|Dantari]] | [[Dantari|Legends Dantari]] | Average | S +10, T +10 | sl100 |
+| [[#Dashade|Dashade]] | [[Dashade/Legends|Legends Dashade]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Dathomirian|Dathomirian]] | [[Dathomirian/Legends|Legends Dathomirian]] | Average | WS +10, T +10, WP +10 | sl100 |
+| [[#Defel|Defel]] | [[Defel/Legends|Legends Defel]] | Average | S +10, I +10, Ag +10 | sl100 |
+| [[#Devaronian|Devaronian]] | [[Devaronian/Legends|Legends Devaronian]] | Average | S +10, T +10, I +10 | sl100 |
+| [[#Diathim|Diathim]] | [[Diathim/Legends|Legends Diathim]] | Average | T −10, Ag +10, WP +10, Fel +20 | sl100 |
+| [[#Drall|Drall]] | [[Drall/Legends|Legends Drall]] | Small | S −10, I +10, Int +20, WP +10 | sl100 |
+| [[#Dressellian|Dressellian]] | [[Dressellian/Legends|Legends Dressellian]] | Average | BS +10, I +10, WP +10 | sl100 |
+| [[#Dug|Dug]] | [[Dug/Legends|Legends Dug]] | Average | WS +10, S +10, Ag +20, Fel −10 | sl100 |
+| [[#Duinuogwuin|Duinuogwuin]] | [[Duinuogwuin/Legends|Legends Duinuogwuin]] | Large | S +20, T +10, Ag −10, Int +10, WP +10 | sl100 |
+| [[#Duros|Duros]] | [[Duros/Legends|Legends Duros]] | Average | I +10, Ag +10, Int +10 | sl100 |
+| [[#Ebranite|Ebranite]] | [[Ebranite|Legends Ebranite]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Elom|Elom]] | [[Elom/Legends|Legends Elom]] | Average | T +20, Int +10, WP +10, Fel −10 | sl100 |
+| [[#Elomin|Elomin]] | [[Elomin/Legends|Legends Elomin]] | Average | T +10, Int +10, WP +10 | sl100 |
+| [[#Em'liy|Em'liy]] | [[Em'liy/Legends|Legends Em'liy]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Esh-kha|Esh-kha]] | [[Esh-kha|Legends Esh-kha]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | sl100 |
+| [[#Ewok|Ewok]] | [[Ewok/Legends|Legends Ewok]] | Small | S +10, I +10, Ag +10 | sl100 |
+| [[#Falleen|Falleen]] | [[Falleen/Legends|Legends Falleen]] | Average | WP +10, Fel +20 | sl100 |
+| [[#Farghul|Farghul]] | [[Farghul/Legends|Legends Farghul]] | Average | S +10, Ag +10, Fel +10 | sl100 |
+| [[#Feeorin|Feeorin]] | [[Feeorin/Legends|Legends Feeorin]] | Average | WS +10, S +20, T +10, Fel −10 | sl100 |
+| [[#Filordus|Filordus]] | [[Filordus|Legends Filordus]] | Average | T +10, Int +10, Fel +10 | sl100 |
+| [[#Frozian|Frozian]] | [[Frozian/Legends|Legends Frozian]] | Average | T −10, Ag +10, Dex +10, Int +10, WP +10 | sl100 |
+| [[#Gamorrean|Gamorrean]] | [[Gamorrean/Legends|Legends Gamorrean]] | Average | WS +10, S +20, T +10, Int −10 | sl100 |
+| [[#Gand|Gand]] | [[Gand/Legends|Legends Gand]] | Average | T +10, I +10, WP +10 | sl100 |
+| [[#Gen'Dai|Gen'Dai]] | [[Gen'Dai/Legends|Legends Gen'Dai]] | Average | S +10, T +20, WP +10, Fel −10 | sl100 |
+| [[#Geonosian|Geonosian]] | [[Geonosian/Legends|Legends Geonosian]] | Average | BS +10, S +10, T +10, Int +10, Fel −10 | sl100 |
+| [[#Givin|Givin]] | [[Givin/Legends|Legends Givin]] | Average | T +10, Int +20, WP +10, Fel −10 | sl100 |
+| [[#Gossam|Gossam]] | [[Gossam/Legends|Legends Gossam]] | Small | T −10, Ag +10, Dex +10, Int +10, Fel +10 | sl100 |
+| [[#Gotal|Gotal]] | [[Gotal/Legends|Legends Gotal]] | Average | I +20, WP +10 | sl100 |
+| [[#Gran|Gran]] | [[Gran/Legends|Legends Gran]] | Average | I +10, WP +10, Fel +10 | sl100 |
+| [[#H'nemthe|H'nemthe]] | [[H'nemthe/Legends|Legends H'nemthe]] | Average | T +10, Ag +10, Int +10 | sl100 |
+| [[#Hapan|Hapan]] | [[Hapan|Legends Hapan]] | Average | Fel +20 | sl100 |
+| [[#Herglic|Herglic]] | [[Herglic/Legends|Legends Herglic]] | Large | S +20, T +10, Ag −10, Fel +10 | sl100 |
+| [[#Ho'Din|Ho'Din]] | [[Ho'Din/Legends|Legends Ho'Din]] | Large | Dex +10, Int +10, WP +10 | sl100 |
+| [[#Houk|Houk]] | [[Houk/Legends|Legends Houk]] | Average | WS +10, S +20, T +10, Fel −10 | sl100 |
+| [[#Hrakian|Hrakian]] | [[Hrakian|Legends Hrakian]] | Average | T +10, WP +10 | sl100 |
+| [[#Huralok|Huralok]] | [[Huralok|Legends Huralok]] | Average | S +10, T +10, Int +10, WP +10, Fel −10 | sl100 |
+| [[#Hutt|Hutt]] | [[Hutt/Legends|Legends Hutt]] | Large | S +10, T +20, Ag −10, Int +10, WP +10 | sl100 |
+| [[#Iktotchi|Iktotchi]] | [[Iktotchi/Legends|Legends Iktotchi]] | Average | T +10, I +10, Dex −10, Int +10, WP +10 | sl100 |
+| [[#Iotran|Iotran]] | [[Iotran/Legends|Legends Iotran]] | Average | WS +10, BS +10, S +10, WP +10, Fel −10 | sl100 |
+| [[#Ishi Tib|Ishi Tib]] | [[Ishi Tib/Legends|Legends Ishi Tib]] | Average | I +10, Int +10, WP +10 | sl100 |
+| [[#Ithorian|Ithorian]] | [[Ithorian/Legends|Legends Ithorian]] | Average | T +10, I −10, Int +10, WP +10, Fel +10 | sl100 |
+| [[#Jawa|Jawa]] | [[Jawa/Legends|Legends Jawa]] | Small | Ag +10, Dex +10, Int +10 | sl100 |
+| [[#Jenet|Jenet]] | [[Jenet/Legends|Legends Jenet]] | Average | T +10, I +10, Ag +10, Int +10, Fel −10 | sl100 |
+| [[#Kadas'sa'Nikto|Kadas'sa'Nikto]] | [[Kadas'sa'Nikto/Legends|Legends Kadas'sa'Nikto]] | Average | S +10, T +10, Ag +10 | sl100 |
+| [[#Kage|Kage]] | [[Kage/Legends|Legends Kage]] | Average | WS +10, Ag +10 | sl100 |
+| [[#Kaleesh|Kaleesh]] | [[Kaleesh/Legends|Legends Kaleesh]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | sl100 |
+| [[#Kaminoan|Kaminoan]] | [[Kaminoan/Legends|Legends Kaminoan]] | Average | S −10, I +10, Int +20, WP +10 | sl100 |
+| [[#Kerestian|Kerestian]] | [[Kerestian/Legends|Legends Kerestian]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | sl100 |
+| [[#Keshiri|Keshiri]] | [[Keshiri/Legends|Legends Keshiri]] | Average | S +10, Fel +10 | sl100 |
+| [[#Khil|Khil]] | [[Khil|Legends Khil]] | Average | Int +10, WP +10, Fel +10 | sl100 |
+| [[#Khommite|Khommite]] | [[Khommite/Legends|Legends Khommite]] | Average | Int +10, WP +10 | sl100 |
+| [[#Kian'thar|Kian'thar]] | [[Kian'thar|Legends Kian'thar]] | Average | S +10, WP +10, Fel +10 | sl100 |
+| [[#Kiffar|Kiffar]] | [[Kiffar/Legends|Legends Kiffar]] | Average | WP +10, I +10 | sl100 |
+| [[#Kilmaulsi|Kilmaulsi]] | [[Kilmaulsi|Legends Kilmaulsi]] | Average | WS +10, T +10, WP +10 | sl100 |
+| [[#Kitonak|Kitonak]] | [[Kitonak/Legends|Legends Kitonak]] | Small | T +20, WP +20, Ag −10 | sl100 |
+| [[#Klatooinian|Klatooinian]] | [[Klatooinian/Legends|Legends Klatooinian]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Kobok|Kobok]] | [[Kobok/Legends|Legends Kobok]] | Average | WS +10, S +10, Ag +10, I +10, T −10 | sl100 |
+| [[#Koorivar|Koorivar]] | [[Koorivar/Legends|Legends Koorivar]] | Average | Int +10, I +10, Fel +10 | sl100 |
+| [[#Korun|Korun]] | [[Korun/Legends|Legends Korun]] | Average | T +10, WP +10 | sl100 |
+| [[#Krevaaki|Krevaaki]] | [[Krevaaki|Legends Krevaaki]] | Average | T +10, Int +10, WP +20, Fel −10 | sl100 |
+| [[#Krish|Krish]] | [[Krish/Legends|Legends Krish]] | Average | WS +10, Ag +10, Int +10 | sl100 |
+| [[#Kubaz|Kubaz]] | [[Kubaz/Legends|Legends Kubaz]] | Average | I +10, Dex +10, Int +10 | sl100 |
+| [[#Kushiban|Kushiban]] | [[Kushiban|Legends Kushiban]] | Small | Ag +20, I +10, WP +10, S −10 | sl100 |
+| [[#Kyuzo|Kyuzo]] | [[Kyuzo/Legends|Legends Kyuzo]] | Average | WS +10, Ag +20 | sl100 |
+| [[#Lannik|Lannik]] | [[Lannik/Legends|Legends Lannik]] | Small | WS +10, T +10, WP +10 | sl100 |
+| [[#Lepi|Lepi]] | [[Lepi/Legends|Legends Lepi]] | Average | Ag +10, I +10, Fel +10 | sl100 |
+| [[#Lorrdian|Lorrdian]] | [[Lorrdian/Legends|Legends Lorrdian]] | Average | I +10, Fel +10 | sl100 |
+| [[#Lutrillian|Lutrillian]] | [[Lutrillian/Legends|Legends Lutrillian]] | Average | T +10, Int +10, Fel +10 | sl100 |
+| [[#Massassi|Massassi]] | [[Massassi/Legends|Legends Massassi]] | Average | WS +10, S +20, T +10, Int −10 | sl100 |
+| [[#Meerian|Meerian]] | [[Meerian/Legends|Legends Meerian]] | Average | S +10, Fel +10 | sl100 |
+| [[#Menahuun|Menahuun]] | [[Menahuun|Legends Menahuun]] | Small | Ag +20, I +10, Int +10, S −10 | sl100 |
+| [[#Mirialan|Mirialan]] | [[Mirialan/Legends|Legends Mirialan]] | Average | Ag +10, I +10 | sl100 |
+| [[#Mon Calamari|Mon Calamari]] | [[Mon Calamari/Legends|Legends Mon Calamari]] | Average | Int +10, WP +10, Fel +10 | sl100 |
+| [[#Morseerian|Morseerian]] | [[Morseerian/Legends|Legends Morseerian]] | Average | I +10, Dex +10, Int +10 | sl100 |
+| [[#Mrlssi|Mrlssi]] | [[Mrlssi|Legends Mrlssi]] | Small | I +10, Int +20, Fel +10, S −10 | sl100 |
+| [[#Murachaun|Murachaun]] | [[Murachaun|Legends Murachaun]] | Average | S +10, T +10, Fel +10 | sl100 |
+| [[#Mustafarian|Mustafarian]] | [[Mustafarian/Legends|Legends Mustafarian]] | Average | S +10, T +10, WP +10 | sl100 |
+| [[#Muun|Muun]] | [[Muun/Legends|Legends Muun]] | Average | Int +20, WP +10, Fel +10, S −10 | sl100 |
+| [[#Myneyrsh|Myneyrsh]] | [[Myneyrsh|Legends Myneyrsh]] | Average | S +10, I +20, Ag +10, Fel −10 | sl100 |
+| [[#Nagai|Nagai]] | [[Nagai/Legends|Legends Nagai]] | Average | Ag +10, WP +10 | sl100 |
+| [[#Nazzar|Nazzar]] | [[Nazzar/Legends|Legends Nazzar]] | Average | S +10, Ag +10, WP +10 | sl100 |
+| [[#Neimoidian|Neimoidian]] | [[Neimoidian/Legends|Legends Neimoidian]] | Average | Dex +10, Int +20, Fel +10, WP −10 | sl100 |
+| [[#Nelvaanian|Nelvaanian]] | [[Nelvaanian/Legends|Legends Nelvaanian]] | Average | S +10, I +10, WP +10 | sl100 |
+| [[#Neti|Neti]] | [[Neti/Legends|Legends Neti]] | Average | T +20, Int +10, WP +10, Ag −10 | sl100 |
+| [[#Nikto|Nikto]] | [[Nikto/Legends|Legends Nikto]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Noehon|Noehon]] | [[Noehon|Legends Noehon]] | Small | I +10, Ag +10, Dex +10, Int +10, Fel −10 | sl100 |
+| [[#Noghri|Noghri]] | [[Noghri/Legends|Legends Noghri]] | Small | WS +10, S +10, Ag +10, I +10, Fel −10 | sl100 |
+| [[#Nosaurian|Nosaurian]] | [[Nosaurian/Legends|Legends Nosaurian]] | Average | WS +10, T +10, WP +10 | sl100 |
+| [[#Nuknog|Nuknog]] | [[Nuknog/Legends|Legends Nuknog]] | Small | T +10, I +20, Dex +10, Int −10 | sl100 |
+| [[#Omwati|Omwati]] | [[Omwati/Legends|Legends Omwati]] | Average | Dex +10, Int +10 | sl100 |
+| [[#Ongree|Ongree]] | [[Ongree/Legends|Legends Ongree]] | Average | I +10, Ag +10, Fel +10 | sl100 |
+| [[#Ortolan|Ortolan]] | [[Ortolan/Legends|Legends Ortolan]] | Average | T +20, I +10, Fel +10, Dex −10 | sl100 |
+| [[#Pa'lowick|Pa'lowick]] | [[Pa'lowick/Legends|Legends Pa'lowick]] | Average | T +10, WP +10, Fel +10 | sl100 |
+| [[#Pacithhip|Pacithhip]] | [[Pacithhip/Legends|Legends Pacithhip]] | Average | S +10, T +20, Int +10, Ag −10 | sl100 |
+| [[#Paigun|Paigun]] | [[Paigun|Legends Paigun]] | Average | WS −10, T +10, Dex +10, Int +20 | sl100 |
+| [[#Pau'an|Pau'an]] | [[Pau'an/Legends|Legends Pau'an]] | Average | WP +10, Fel +10 | sl100 |
+| [[#Phindian|Phindian]] | [[Phindian/Legends|Legends Phindian]] | Average | WP −10, Ag +10, Dex +10, Int +10, Fel +10 | sl100 |
+| [[#Pho Ph'eahian|Pho Ph'eahian]] | [[Pho Ph'eahian|Legends Pho Ph'eahian]] | Average | S +10, Int +10, Fel +10 | sl100 |
+| [[#Psadan|Psadan]] | [[Psadan|Legends Psadan]] | Average | S +10, T +20, Ag −10, WP +10 | sl100 |
+| [[#Quarren|Quarren]] | [[Quarren/Legends|Legends Quarren]] | Average | S +10, T +10, Int +10, WP +10, Fel −10 | sl100 |
+| [[#Quermian|Quermian]] | [[Quermian/Legends|Legends Quermian]] | Average | S −10, Int +20, WP +10, Fel +10 | sl100 |
+| [[#Rakata|Rakata]] | [[Rakata/Legends|Legends Rakata]] | Average | WS +10, T +10, Int +10, WP +10, Fel −10 | sl100 |
+| [[#Ranat|Ranat]] | [[Ranat/Legends|Legends Ranat]] | Small | T +10, I +10, Ag +20, Int −10 | sl100 |
+| [[#Ranth|Ranth]] | [[Ranth|Legends Ranth]] | Average | S +10, T +10, I +10 | sl100 |
+| [[#Rattataki|Rattataki]] | [[Rattataki/Legends|Legends Rattataki]] | Average | WS +10, T +10 | sl100 |
+| [[#Rodian|Rodian]] | [[Rodian/Legends|Legends Rodian]] | Average | BS +10, I +10, Ag +10 | sl100 |
+| [[#Ruurian|Ruurian]] | [[Ruurian/Legends|Legends Ruurian]] | Small | S −10, T +10, Dex +10, Int +20 | sl100 |
+| [[#Rybet|Rybet]] | [[Rybet/Legends|Legends Rybet]] | Average | T +10, I +10, Ag +10, Dex +10, WP −10 | sl100 |
+| [[#Ryn|Ryn]] | [[Ryn/Legends|Legends Ryn]] | Average | Ag +10, Dex +10, Fel +10 | sl100 |
+| [[#S'kytri|S'kytri]] | [[S'kytri|Legends S'kytri]] | Average | WS +10, S +10, Fel +10 | sl100 |
+| [[#Saheelindeeli|Saheelindeeli]] | [[Saheelindeeli|Legends Saheelindeeli]] | Average | S +10, T +10, Ag +10 | sl100 |
+| [[#Sakiyan|Sakiyan]] | [[Sakiyan/Legends|Legends Sakiyan]] | Average | S +10, I +20, Int +10, Fel −10 | sl100 |
+| [[#Sanyassan|Sanyassan]] | [[Sanyassan/Legends|Legends Sanyassan]] | Average | WS +10, S +10, T +10, Int −10, WP +10 | sl100 |
+| [[#Sarkan|Sarkan]] | [[Sarkan/Legends|Legends Sarkan]] | Average | S +10, T +10, Int +10 | sl100 |
+| [[#Saurin|Saurin]] | [[Saurin/Legends|Legends Saurin]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Selkath|Selkath]] | [[Selkath/Legends|Legends Selkath]] | Average | Int +10, WP +10, Fel +10 | sl100 |
+| [[#Selonian|Selonian]] | [[Selonian/Legends|Legends Selonian]] | Average | S +10, T +10, Ag +10 | sl100 |
+| [[#Sephi|Sephi]] | [[Sephi/Legends|Legends Sephi]] | Average | Dex +10, Fel +10 | sl100 |
+| [[#Shi'ido|Shi'ido]] | [[Shi'ido|Legends Shi'ido]] | Average | T +10, Int +10, WP +10 | sl100 |
+| [[#Shistavanen|Shistavanen]] | [[Shistavanen/Legends|Legends Shistavanen]] | Average | S +10, T +10, I +10, Ag +10, Fel −10 | sl100 |
+| [[#Sith|Sith]] | [[Sith/Legends|Legends Sith]] | Average | WS +10, S +10, WP +10 | sl100 |
+| [[#Skakoan|Skakoan]] | [[Skakoan/Legends|Legends Skakoan]] | Average | T +10, Dex +10, Int +20, Fel −10 | sl100 |
+| [[#Skrilling|Skrilling]] | [[Skrilling/Legends|Legends Skrilling]] | Average | S +10, T +10, Int +10 | sl100 |
+| [[#Sluissi|Sluissi]] | [[Sluissi|Legends Sluissi]] | Average | S −10, Dex +10, Int +20, WP +10 | sl100 |
+| [[#Snivvian|Snivvian]] | [[Snivvian/Legends|Legends Snivvian]] | Average | T +10, I +10, Int +10 | sl100 |
+| [[#Spiner|Spiner]] | [[Spiner|Legends Spiner]] | Average | BS +10, T +10, Ag +10 | sl100 |
+| [[#Squalris|Squalris]] | [[Squalris|Legends Squalris]] | Average | T +10, Ag −10, Int +10, Fel +20 | sl100 |
+| [[#Squib|Squib]] | [[Squib/Legends|Legends Squib]] | Small | S −10, I +10, Ag +10, Int +10, Fel +10 | sl100 |
+| [[#Ssi-ruu|Ssi-ruu]] | [[Ssi-ruu|Legends Ssi-ruu]] | Average | WS +10, S +10, T +10, Int +10, Fel −10 | sl100 |
+| [[#Sullustan|Sullustan]] | [[Sullustan/Legends|Legends Sullustan]] | Average | I +10, Dex +10 | sl100 |
+| [[#Svivreni|Svivreni]] | [[Svivreni|Legends Svivreni]] | Average | S +10, T +10, Ag −10, WP +20 | sl100 |
+| [[#Swokes Swokes|Swokes Swokes]] | [[Swokes Swokes/Legends|Legends Swokes Swokes]] | Average | S +10, T +20, Ag −10, WP +10 | sl100 |
+| [[#Talz|Talz]] | [[Talz/Legends|Legends Talz]] | Large | S +20, T +10, Int −10, WP +10 | sl100 |
+| [[#Tarasin|Tarasin]] | [[Tarasin|Legends Tarasin]] | Average | S −10, I +10, Int +20, WP +10 | sl100 |
+| [[#Tarro|Tarro]] | [[Tarro|Legends Tarro]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | sl100 |
+| [[#Temolak|Temolak]] | [[Temolak|Legends Temolak]] | Average | S +10, T +10, Int +10 | sl100 |
+| [[#Thakwaash|Thakwaash]] | [[Thakwaash|Legends Thakwaash]] | Large | S +20, T +10, I +10, WP −10 | sl100 |
+| [[#Theelin|Theelin]] | [[Theelin/Legends|Legends Theelin]] | Average | Dex +10, Fel +10 (near-human) | sl100 |
+| [[#Thisspiasian|Thisspiasian]] | [[Thisspiasian/Legends|Legends Thisspiasian]] | Average | S +10, T +10, WP +10 | sl100 |
+| [[#Tholothian|Tholothian]] | [[Tholothian/Legends|Legends Tholothian]] | Average | WP +10, Fel +10 (near-human) | sl100 |
+| [[#Tiss'shar|Tiss'shar]] | [[Tiss'shar/Legends|Legends Tiss'shar]] | Average | S +10, Dex +10, Int +10 | sl100 |
+| [[#Togorian|Togorian]] | [[Togorian/Legends|Legends Togorian]] | Average | WS +10, S +10, T +10 | sl100 |
+| [[#Toong|Toong]] | [[Toong/Legends|Legends Toong]] | Average | I +10, Ag +10, Int +20, WP −10 | sl100 |
+| [[#Toydarian|Toydarian]] | [[Toydarian/Legends|Legends Toydarian]] | Small | Dex +10, Int +10, WP +10 | sl100 |
+| [[#Trianii|Trianii]] | [[Trianii/Legends|Legends Trianii]] | Average | S +10, Ag +10, I +10 | sl100 |
+| [[#Tunroth|Tunroth]] | [[Tunroth|Legends Tunroth]] | Average | S +10, T +10, I +10 | sl100 |
+| [[#Tusken Raider|Tusken Raider]] | [[Tusken Raider/Legends|Legends Tusken Raider]] | Average | WS +10, S +10, T +10, I +10, Fel −10 | sl100 |
+| [[#Tynnan|Tynnan]] | [[Tynnan/Legends|Legends Tynnan]] | Small | T +10, Int +10, WP +10 | sl100 |
+| [[#Ubese|Ubese]] | [[Ubese/Legends|Legends Ubese]] | Average | BS +10, T +10, Ag +10, WP +10, Fel −10 | sl100 |
+| [[#Ugnaught|Ugnaught]] | [[Ugnaught/Legends|Legends Ugnaught]] | Small | T +10, Dex +10, WP +10 | sl100 |
+| [[#Umbaran|Umbaran]] | [[Umbaran/Legends|Legends Umbaran]] | Average | Int +10, WP +10 (near-human) | sl100 |
+| [[#Utai|Utai]] | [[Utai/Legends|Legends Utai]] | Small | T +10, Dex +10, I +10 | sl100 |
+| [[#Verpine|Verpine]] | [[Verpine/Legends|Legends Verpine]] | Average | S −10, T +10, Dex +10, Int +20 | sl100 |
+| [[#Vodran|Vodran]] | [[Vodran/Legends|Legends Vodran]] | Average | S +10, T +10, Ag +10 | sl100 |
+| [[#Vor|Vor]] | [[Vor|Legends Vor]] | Average | T −10, I +10, Ag +10, Dex +10, Int +10 | sl100 |
+| [[#Vorzydiak|Vorzydiak]] | [[Vorzydiak|Legends Vorzydiak]] | Average | Int +10, WP +10 (near-human) | sl100 |
+| [[#Voss|Voss]] | [[Voss|Legends Voss]] | Average | WS +10, T +10, WP +10 | sl100 |
+| [[#Vratix|Vratix]] | [[Vratix/Legends|Legends Vratix]] | Average | S +10, Ag +10, Int +10 | sl100 |
+| [[#Vurk|Vurk]] | [[Vurk/Legends|Legends Vurk]] | Average | S +10, T +10, WP +10 | sl100 |
+| [[#Vuvrian|Vuvrian]] | [[Vuvrian/Legends|Legends Vuvrian]] | Average | T −10, I +20, Int +10, Fel +10 | sl100 |
+| [[#Whiphid|Whiphid]] | [[Whiphid/Legends|Legends Whiphid]] | Large | S +20, T +10, I +10, Fel −10 | sl100 |
+| [[#Woostoid|Woostoid]] | [[Woostoid|Legends Woostoid]] | Average | Dex +10, Int +20 | sl100 |
+| [[#Wroonian|Wroonian]] | [[Wroonian/Legends|Legends Wroonian]] | Average | WP +10, Fel +10 (near-human) | sl100 |
+| [[#Xexto|Xexto]] | [[Xexto/Legends|Legends Xexto]] | Small | I +10, Ag +10, Dex +10 | sl100 |
+| [[#Yarkora|Yarkora]] | [[Yarkora/Legends|Legends Yarkora]] | Average | T +10, I +10, Fel +10 | sl100 |
+| [[#Yevetha|Yevetha]] | [[Yevetha|Legends Yevetha]] | Average | WS +10, Ag +10, Int +10, WP +10, Fel −10 | sl100 |
+| [[#Yinchorri|Yinchorri]] | [[Yinchorri/Legends|Legends Yinchorri]] | Average | WS +10, S +10, T +20, Int −10 | sl100 |
+| [[#Yuuzhan Vong|Yuuzhan Vong]] | [[Yuuzhan Vong|Legends Yuuzhan Vong]] | Average | WS +10, S +10, T +10, WP +10, Fel −10 | sl100 |
+| [[#Yuzzem|Yuzzem]] | [[Yuzzem|Legends Yuzzem]] | Large | S +20, T +10, WP +10, Fel −10 | sl100 |
+| [[#Yuzzum|Yuzzum]] | [[Yuzzum/Legends|Legends Yuzzum]] | Average | I +10, Ag +10, Fel +10 | sl100 |
+| [[#Zeltron|Zeltron]] | [[Zeltron/Legends|Legends Zeltron]] | Average | Fel +20 (near-human) | sl100 |
+| [[#Zygerrian|Zygerrian]] | [[Zygerrian/Legends|Legends Zygerrian]] | Average | WS +10, I +10, Ag +10 | sl100 |
+
+## Species written by the design group
 
 ### [Arkanian](https://starwars.fandom.com/wiki/Arkanian/Legends)
+
+![Arkanian](File:SL100 Species Arkanian.jpg)
 
 `[sl100]`
 
@@ -254,6 +258,8 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 ### [Besalisk](https://starwars.fandom.com/wiki/Besalisk/Legends)
 
+![Besalisk](File:SL100 Species Besalisk.jpg)
+
 `[sl100]`
 
 | Besalisks are a sentient species of humanoids with four arms. The superior arms dominated over the inferior ones. They average in height between 1.88 and 2.36 meters and had green, orange, or brown colored skin. Their large hands and feet both end in four digits and large brown nails. Besalisks are thick-set, and can have bloated stomachs. Besalisks also possessed a bony, three-pronged head crest and an inflatable wattle. They had wide mouths, and some Besalisks had large, pudgy lips, though not all. Besalisks could sport black or brown hair on both their faces and their heads and could have brown, orange, or yellow eyes. At least one Besalisk was known to be Force-sensitive. |  |
@@ -264,6 +270,8 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 **Movement**: 4, **Destiny**: 1, **Resilience**: 1, **Extra points**: 2
 
 ### [Chironian](https://starwars.fandom.com/wiki/Chironian)
+
+![Chironian](File:SL100 Species Chironian.jpg)
 
 `[sl100]`
 
@@ -280,6 +288,8 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 ### [Chiss](https://starwars.fandom.com/wiki/Chiss/Legends)
 
+![Chiss](File:SL100 Species Chiss.jpg)
+
 `[sl100]`
 
 | The Chiss are a humanoid species from the planet Csilla in the Unknown Regions of the Star Wars galaxy. They are known for their distinctive physical features, including blue skin, red eyes, and black hair. The Chiss have a strict and hierarchical society governed by the Chiss Ascendancy, which is made up of the ruling families.<br/><br/>The Chiss are known for their strategic and tactical prowess, and many Chiss excel in military and leadership roles. |  |
@@ -293,6 +303,8 @@ The Chiss are known for their secretive nature and have had little contact with 
 **Mv**: 4  **Destiny**: 1  **Resilience**: 1 **Extra Points**: 2
 
 ### [Echani](https://starwars.fandom.com/wiki/Echani/Legends)
+
+![Echani](File:SL100 Species Echani.jpg)
 
 `[sl100]`
 
@@ -312,6 +324,8 @@ The Thyrasian sub species of Echani is known for their dark hair and skin, rathe
 
 ### [Human](https://starwars.fandom.com/wiki/Human/Legends)
 
+![Human](File:SL100 Species Human.jpg)
+
 `[sl100]`
 
 | In the Star Wars universe, humans are a diverse and adaptable species, known for their ability to out-breed the rest of the galaxy and their dazzling array of hair and skin colors. Despite their apparent unremarkableness, humans have managed to spread across the galaxy, making them one of the most influential species in the cosmos.<br/><br/>Humans are characterized by their curiosity, adaptability, and ambition, which have allowed them to thrive in a variety of environments. They have established civilizations on countless worlds, from the bustling city-planet of Coruscant to the remote Outer Rim planets. |  |
@@ -324,7 +338,9 @@ Their sheer numbers and adaptability have made them a force to be reckoned with 
 
 **Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
 
-### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor)
+### [Kel Dor](https://starwars.fandom.com/wiki/Kel_Dor/Legends)
+
+![Kel Dor](File:SL100 Species Kel Dor.jpg)
 
 `[sl100]`
 
@@ -342,6 +358,8 @@ Any force specialisation related to Force - Sense that requires multiple selecti
 
 ### [Miraluka](https://starwars.fandom.com/wiki/Miraluka/Legends)
 
+![Miraluka](File:SL100 Species Miraluka.jpg)
+
 `[sl100]`
 
 |  | Miraluka are a sentient species in the Star Wars universe known for their unique ability to perceive the world around them through the Force. They lack physical eyes and instead use their connection to the Force to "see." This gives them a different perspective on the world, often described as seeing on a higher plane.<br/><br/>Physically, Miraluka resemble humans but have no eyes, only empty eye sockets which they usually cover with cloth or visors. They have tanned brown skin and gray or white hair.  |
@@ -356,6 +374,8 @@ A thoughtful, careful and deliberate species without eyes that instead see throu
 
 ### [Nautolan](https://starwars.fandom.com/wiki/Nautolan/Legends)
 
+![Nautolan](File:SL100 Species Nautolan.jpg)
+
 `[sl100]`
 
 | Nautolans are an amphibious humanoid species from the planet Glee Anselm. They are known for their distinctive physical features, including smooth green, blue, or brown skin, and large, lidless, black eyes. Nautolans also possess 14 head-tails or tendrils, which are used to sense emotional pheromones. <br/><br/>This ability to sense pheromone changes is an essential part of their communication process.<br/><br/> |  |
@@ -367,6 +387,8 @@ Nautolans are excellent swimmers and possess low-light vision, making them well-
 **Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 ### [Otolla Gungan](https://starwars.fandom.com/wiki/Otolla/Legends)
+
+![Otolla Gungan](File:SL100 Species Otolla Gungan.jpg)
 
 `[sl100]`
 
@@ -381,6 +403,8 @@ The Otolla lineage of Gungans was the race that Jar Jar Binks, Augara Jowil, and
 
 ### [Togruta](https://starwars.fandom.com/wiki/Togruta/Legends)
 
+![Togruta](File:SL100 Species Togruta.jpg)
+
 `[sl100]`
 
 | The Togruta were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails, called lekku, which were similar to those of Twi'leks.[8] Unlike Twi'leks, a Togruta's lekku were part of their montrals and ran parallel to the head, creating the appearance of wearing a headdress. Togruta were also distinguished by their montrals - large, hollow, horn-like projections from the top of their heads that provided a form of passive echolocation. In order to protect themselves from dangerous predators and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders. |  |
@@ -393,6 +417,8 @@ As predators, Togruta had sharp canine teeth, which they used to painlessly kill
 **Movement**: 4, **Destiny**: 2, **Resilience**: 1, **Extra points**: 3
 
 ### [Trandoshan](https://starwars.fandom.com/wiki/Trandoshan/Legends)
+
+![Trandoshan](File:SL100 Species Trandoshan.jpg)
 
 `[sl100]`
 
@@ -407,6 +433,8 @@ She watches over the Trandoshan people, blessing or punishing them based on the 
 Trandoshan are capable of seeing into the infrared spectrum
 
 ### [T'surr](https://starwars.fandom.com/wiki/T%27surr)
+
+![T'surr](File:SL100 Species T'surr.jpg)
 
 `[sl100]`
 
@@ -428,6 +456,8 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 
 ### [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends)
 
+![Twi'lek](File:SL100 Species Twi'lek.jpg)
+
 `[sl100]`
 
 | Twi'leks are a species of humanoid aliens from the planet Ryloth in the Outer Rim Territories. They are known for their distinctive appearance, which includes colorful skin and large, fleshy head-tails called lekku. Twi'leks are a diverse species, with skin colors ranging from blue to green to orange.<br/><br/>Twi'leks are a proud and adaptable species, known for their ability to survive in harsh environments. They have a rich culture and a strong sense of community, often living in tight-knit clans. Twi'leks are also known for their grace and agility, which makes them excellent dancers and acrobats. |  |
@@ -437,6 +467,8 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 **Movement**: 4  **Destiny**: 1  **Resilience**: 1  **Extra points**: 2
 
 ### [Weequay](https://starwars.fandom.com/wiki/Weequay/Legends)
+
+![Weequay](File:SL100 Species Weequay.jpg)
 
 `[sl100]`
 
@@ -454,6 +486,8 @@ In the galaxy at large, Weequay are often found in the employ of the Hutt Clan, 
 
 ### [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends)
 
+![Wookiee](File:SL100 Species Wookiee.jpg)
+
 `[sl100]`
 
 |  | Wookiees are a sentient species in the Star Wars universe known for their distinctive physical features and strong sense of honor. They are tall, bipedal creatures with thick fur covering their entire bodies, which can range in color from brown to black. Wookiees have large, expressive eyes and sharp, pointed teeth.<br/><br/>Wookiees are native to the planet Kashyyyk, a lush, forested world where they live in harmony with nature. They are known for their great strength and agility, as well as their skill in the use of technology. Wookiees are also renowned for their loyalty and bravery, often forming strong bonds with those they consider friends or allies. |
@@ -468,6 +502,8 @@ Average height 2.23 – 2.54 meters
 
 ### [Zabrak](https://starwars.fandom.com/wiki/Zabrak/Legends)
 
+![Zabrak](File:SL100 Species Zabrak.jpg)
+
 `[sl100]`
 
 | Zabraks were near-humans distinguished by a crown of vestigial horns that developed at puberty in both males and females, growing in patterns unique to each subspecies. They possessed a second heart and a high resistance to pain. Their skin tones ranged from pale to dark brown or vivid shades of red, yellow, and orange, while their eyes could be blue, green, grey, orange, or bright yellow. Many Zabraks bore ritual tribal tattoos that signified lineage, origin, or personality. They were capable of interbreeding with humans, most notably producing the hybrid Dathomirian subspecies on Dathomir.<br/><br/> |  |
@@ -476,11 +512,13 @@ Average height 2.23 – 2.54 meters
 **T** +10  **WP** +20  **Talents**: Craftsman (Profession) or Strider (Terrain), Datapad Use**,** Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list.
 
 
-## Species added from Legends `[review]`
+## Species added from Legends `[sl100]`
 
 ### [Abyssin](https://starwars.fandom.com/wiki/Abyssin/Legends)
 
-`[review]`
+![Abyssin](File:SL100 Species Abyssin.jpg)
+
+`[sl100]`
 
 | Hulking, one-eyed humanoids from the Outer Rim desert world Byss in the Abyss system. Two metres of long-limbed, hunched muscle beneath greenish-tan skin, they are famed for regenerating any wound or lost limb, and their violent, clannish culture has given them a galactic reputation as thugs, slaves and bodyguards. They loathe the nicknames "monoc" and "One-Eye" and answer them with their fists. |
 | --- |
@@ -492,7 +530,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Adarian](https://starwars.fandom.com/wiki/Adarian/Legends)
 
-`[review]`
+![Adarian](File:SL100 Species Adarian.jpg)
+
+`[sl100]`
 
 | Bipedal mammals of Adari in the Inner Rim, instantly recognised by their elongated skulls pierced by a large hole, which earned them the offworld nickname "hole-in-the-heads". They have neither ears nor noses: fine skull hairs sense sound and skin glands sense odour, while a distendable throat pouch produces a subsonic call that carries for twenty kilometres. Adarians keep out of galactic quarrels where they can and are regarded as patient, orderly people. |
 | --- |
@@ -504,7 +544,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Advozse](https://starwars.fandom.com/wiki/Advozse/Legends)
 
-`[review]`
+![Advozse](File:SL100 Species Advozse.jpg)
+
+`[sl100]`
 
 | Hairless, single-horned reptomammals from Riflor, a volcanic world whose ash-darkened skies and scalding hot springs bred a thick-skinned, large-eyed people. Advozsec are strict vegetarians and dour, cautious bureaucrats who expect disaster around every corner; the galaxy treats them as competent administrators, mercenaries or miners, and the Empire treated them as little more than a labour pool. |
 | --- |
@@ -516,7 +558,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Aleena](https://starwars.fandom.com/wiki/Aleena/Legends)
 
-`[review]`
+![Aleena](File:SL100 Species Aleena.jpg)
+
+`[sl100]`
 
 | Short reptilian bipeds of Aleen and its colony Aleen Minor, barely a metre tall with large eyes, wide mouths full of small sharp teeth, and long bodies on stubby legs. Despite their size they are quick and nimble, and are best known across the galaxy as podracers and scouts, with a few rising to the Jedi Order. |
 | --- |
@@ -528,7 +572,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Anomid](https://starwars.fandom.com/wiki/Anomid/Legends)
 
-`[review]`
+![Anomid](File:SL100 Species Anomid.jpg)
+
+`[sl100]`
 
 | Pale, translucent-skinned humanoids of Yablari, among the wealthiest peoples in the Republic thanks to a native genius for technology. Born without vocal cords, they speak through the ornate metal vocaliser masks covering their lower faces, and their six-fingered hands end in small claws. Traditionally pacifists in oversized robes, Anomids travel the galaxy as technicians, explorers and well-heeled tourists. |
 | --- |
@@ -540,7 +586,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Anx](https://starwars.fandom.com/wiki/Anx/Legends)
 
-`[review]`
+![Anx](File:SL100 Species Anx.jpg)
+
+`[sl100]`
 
 | Towering, long-necked reptilians from the high-gravity Outer Rim world Gravlex Med, with blade-shaped heads, mood-coloured crests and heavy balancing tails. Their thick hide shrugs off blows, their strength is far above the galactic norm, and their rumbling low-frequency voices can rattle the bones of smaller beings. Anx are gentle herbivores and respected Senate voices, nearly wiped out by Imperial mismanagement of their homeworld. |
 | --- |
@@ -552,7 +600,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Anzat](https://starwars.fandom.com/wiki/Anzat/Legends)
 
-`[review]`
+![Anzat](File:SL100 Species Anzat.jpg)
+
+`[sl100]`
 
 | The Anzati are a secretive near-humanoid people of the Mid Rim world Anzat, shunned since the Republic's early expansion because they feed on the life essence, the "soup", of other sentients. Patient, ageless hunters who pass for Humans until their feeding tendrils emerge, they drift through the galaxy as assassins and predators and are a byword for quiet horror. |
 | --- |
@@ -564,7 +614,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Aqualish](https://starwars.fandom.com/wiki/Aqualish/Legends)
 
-`[review]`
+![Aqualish](File:SL100 Species Aqualish.jpg)
+
+`[sl100]`
 
 | Tusked, amphibious humanoids of the ocean world Ando, blending the look of a seal with that of a spider. Three races, the Aquala, Quara and Ualaq, share a language and a reputation for being crude, quarrelsome and quick to violence, which makes Aqualish common sights among mercenaries, pirates and bounty hunters. Diplomacy is not a strength. |
 | --- |
@@ -576,7 +628,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Arcona](https://starwars.fandom.com/wiki/Arcona/Legends)
 
-`[review]`
+![Arcona](File:SL100 Species Arcona.jpg)
+
+`[sl100]`
 
 | Scaleless, anvil-headed reptilians from the hot ammonia-laden desert world Cona in the Inner Rim. Thick-skinned and clawed, with marble-like eyes and a heat-sensing organ between them, Arcona live in close-knit nests and spread across the galaxy in whole families, working for shipping and mining firms. They are notorious for a crippling addiction to common salt, which turns their eyes gold. |
 | --- |
@@ -588,7 +642,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Askajian](https://starwars.fandom.com/wiki/Askajian/Legends)
 
-`[review]`
+![Askajian](File:SL100 Species Askajian.jpg)
+
+`[sl100]`
 
 | Near-Human nomads of the Outer Rim desert world Askaj, set apart by wrinkled brows, considerable girth and, in females, six breasts. Their bodies store water in great skin sacs, letting them walk the sands for weeks and shed more than half their weight in lean times. A tribal, tomuon-herding people, many fled Imperial oppression to Tatooine, where they are mostly known as dancers. |
 | --- |
@@ -600,7 +656,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ayrou](https://starwars.fandom.com/wiki/Ayrou/Legends)
 
-`[review]`
+![Ayrou](File:SL100 Species Ayrou.jpg)
+
+`[sl100]`
 
 | Tall, willowy avian humanoids from Maya Kovel in the Moddell sector, crowned with brilliant plumage instead of hair and gifted with long triple-jointed limbs. Most species find them beautiful and their high warbling voices unbearable. Peaceful by reputation, Ayrou are prized gatherers of information and sat in the New Republic Senate. |
 | --- |
@@ -612,7 +670,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Balosar](https://starwars.fandom.com/wiki/Balosar/Legends)
 
-`[review]`
+![Balosar](File:SL100 Species Balosar.jpg)
+
+`[sl100]`
 
 | Near-humanoid natives of Balosar, a Core World choked by factory smog so thick that daylight never reaches the streets. Generations of breathing poison bred a people whose bodies filter toxins from the blood, and a corrupt, impoverished society that pushes many Balosars into the criminal underworld as death-stick peddlers, smugglers and thieves. |
 | --- |
@@ -624,7 +684,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Barabel](https://starwars.fandom.com/wiki/Barabel/Legends)
 
-`[review]`
+![Barabel](File:SL100 Species Barabel.jpg)
+
+`[sl100]`
 
 | Cold-blooded reptilian hunters from the dark world Barab I, armoured in tough black keratin scales and driven by relentless predatory instinct. Aggressive and territorial yet fiercely loyal to kin, Barabels hold the Jedi in deep respect and regard apologies as an insult. Offworld they serve as mercenaries, bounty hunters and enforcers, and slavers who buy one rarely survive the purchase. |
 | --- |
@@ -636,7 +698,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Baragwin](https://starwars.fandom.com/wiki/Baragwin/Legends)
 
-`[review]`
+![Baragwin](File:SL100 Species Baragwin.jpg)
+
+`[sl100]`
 
 | Hunchbacked, large-headed reptilians who left their lost homeworld Old Barag so long ago that even its location and their own language are forgotten. Their thick wrinkled hide turns aside most blows, their shuffling gait is slow, and their keen noses can read the mood of another being, which draws many into big-game hunting and bounty work. Baragwin are few in number but found everywhere. |
 | --- |
@@ -648,7 +712,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Bardottan](https://starwars.fandom.com/wiki/Bardottan/Legends)
 
-`[review]`
+![Bardottan](File:SL100 Species Bardottan.jpg)
+
+`[sl100]`
 
 | Saurian bipeds of Bardotta in the Colonies, with long swooping necks, wrinkled sagging skin, beak-like snouts and stubby back-bent legs. Their homeworld is famed for monasteries and the meditative Dagoyan Force tradition that replaced an older demon-worshipping cult. Offworld Bardottans, who mostly hail from the gaming colony of Phu and call themselves Phuii, run to gamblers, podracers and crime bosses. |
 | --- |
@@ -660,7 +726,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Bartokk](https://starwars.fandom.com/wiki/Bartokk)
 
-`[review]`
+![Bartokk](File:SL100 Species Bartokk.jpg)
+
+`[sl100]`
 
 | Clawed, six-limbed insectoids from an unnamed arid world in the Outer Rim whose location only they know. Individually dull-witted, a Bartokk hive shares a telepathic group mind of considerable cunning, and hives hire out as assassins; their red-eyed carapaces deflect blows like manufactured armour and a severed limb simply regrows. Exiles cut off from the hive are plodding and uncreative. |
 | --- |
@@ -672,7 +740,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Bimm](https://starwars.fandom.com/wiki/Bimm/Legends)
 
-`[review]`
+![Bimm](File:SL100 Species Bimm.jpg)
+
+`[sl100]`
 
 | Diminutive Near-Humans of the forest world Bimmisaari, no taller than a Human child but often sporting full beards. They share their homeworld, name and culture with an unrelated furred species and are famed for hospitality, mild tempers and a law that forbids weapons in their cities. Bimms roam the galaxy as merchants, entertainers and scholars, and more than a few as charming scoundrels. |
 | --- |
@@ -684,7 +754,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Bith](https://starwars.fandom.com/wiki/Bith/Legends)
 
-`[review]`
+![Bith](File:SL100 Species Bith.jpg)
+
+`[sl100]`
 
 | Peaceful, pale craniopods from Clak'dor VII, with bulbous heads, huge lidless eyes and long-fingered hands with two opposable digits. Their sight resolves microscopic detail but fails beyond arm's reach, and their hearing is exquisite, making Bith the galaxy's engineers, scientists, consultants and cantina musicians. A ruinous biological war confined them to sealed cities dependent on imports. |
 | --- |
@@ -696,7 +768,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Blood Carver](https://starwars.fandom.com/wiki/Blood_Carver)
 
-`[review]`
+![Blood Carver](File:SL100 Species Blood Carver.jpg)
+
+`[sl100]`
 
 | Gold-skinned, insect-like humanoids from Batorine in the Colonies, with beak-like noses, orange blood and three joints in every limb. Nearly exterminated by the Lontar invasion, a few hundred survive in seclusion on Batorine and Coruscant, bound by fierce clan loyalty and a creed that despises flattery, greed and pride. Exiles make patient and deadly assassins. |
 | --- |
@@ -708,7 +782,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Bothan](https://starwars.fandom.com/wiki/Bothan/Legends)
 
-`[review]`
+![Bothan](File:SL100 Species Bothan.jpg)
+
+`[sl100]`
 
 | Short, furred humanoids of Bothawui and its colonies, blending canine, feline and equine features beneath fur that ripples with their moods. Raised in resource-poor mountain forests, Bothans learned to win by influence rather than force and became the galaxy's master politicians and spies; their Spynet plays every side and famously stole the plans of the second Death Star. |
 | --- |
@@ -720,7 +796,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Caamasi](https://starwars.fandom.com/wiki/Caamasi/Legends)
 
-`[review]`
+![Caamasi](File:SL100 Species Caamasi.jpg)
+
+`[sl100]`
 
 | Tall, gentle humanoids covered in dense grey or brown fur, with three-fingered hands and a spicy woody scent. Natives of Caamas in the Core, they are the galaxy's finest mediators and moral philosophers, whose teachings shaped the Jedi Code. After the Empire razed Caamas the survivors scattered to Kerilt, Alderaan and beyond, and "Caamasi" came to mean "trusted stranger". |
 | --- |
@@ -732,7 +810,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Caarite](https://starwars.fandom.com/wiki/Caarite)
 
-`[review]`
+![Caarite](File:SL100 Species Caarite.jpg)
+
+`[sl100]`
 
 | Porcine, perpetually grinning humanoids from the hot world Caarimon in the Outer Rim, with a double row of flat white teeth. Sly, ingratiating and profit-minded, Caarites hide crooked dealing behind childlike charm and are the smiling public face of the Metatheran Cartel. Every Caarite speaks at least three languages and prefers talk to violence. |
 | --- |
@@ -744,7 +824,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Cathar](https://starwars.fandom.com/wiki/Cathar/Legends)
 
-`[review]`
+![Cathar](File:SL100 Species Cathar.jpg)
+
+`[sl100]`
 
 | Lion-like feline humanoids from the savanna world Cathar, maned, fur-covered and armed with retractable claws. Quick, strong and passionate, they are born warriors with strict codes of honour and loyalty who mate for life and carve the deeds of their heroes into their tree-cities. Mandalorian slaughter in the Old Republic era nearly ended them, but the species recovered to stand with the Republic. |
 | --- |
@@ -756,7 +838,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Celegian](https://starwars.fandom.com/wiki/Celegian/Legends)
 
-`[review]`
+![Celegian](File:SL100 Species Celegian.jpg)
+
+`[sl100]`
 
 | Vast, floating "brains" trailing long tentacles, natives of the storm-tossed ocean world Celegia in the Expansion Region. Celegians hover on a natural telekinetic lift, breathe cyanogen that would kill a Human, and speak only by telepathy, travelling the galaxy in sealed transport chambers as scouts, diplomats and the occasional Jedi Master such as Ooroo. Their intellect and wisdom are legendary. |
 | --- |
@@ -768,7 +852,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Cerean](https://starwars.fandom.com/wiki/Cerean/Legends)
 
-`[review]`
+![Cerean](File:SL100 Species Cerean.jpg)
+
+`[sl100]`
 
 | Tall-skulled humanoids of Cerea in the Mid Rim whose cone-shaped heads house a binary brain fed by a second heart, letting them weigh two sides of a problem at once. Cultured, traditional and less physically coordinated than Humans, Cereans produce many Jedi, who are exempt from the vow of non-attachment because so few males are born. The species withdrew from the galaxy after the Clone Wars. |
 | --- |
@@ -780,7 +866,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Chadra-Fan](https://starwars.fandom.com/wiki/Chadra-Fan/Legends)
 
-`[review]`
+![Chadra-Fan](File:SL100 Species Chadra-Fan.jpg)
+
+`[sl100]`
 
 | Rodent-like humanoids with bat faces, barely a metre tall, from the watery planet Chad. Chadra-Fan have seven senses, including infrared sight and chemoreceptive smell, all keener than a Human's, and live in warm, open-door clans where leadership passes to whoever has the skill the moment needs. Curious and chattering, they turn up galaxy-wide as tinkerers, scouts and cantina regulars. |
 | --- |
@@ -792,7 +880,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Chagrian](https://starwars.fandom.com/wiki/Chagrian/Legends)
 
-`[review]`
+![Chagrian](File:SL100 Species Chagrian.jpg)
+
+`[sl100]`
 
 | Blue-skinned amphibious humanoids of the ocean world Champala, born as tadpoles and marked by fleshy lethorns on the sides of the head; males grow a pair of skull horns once used in underwater duels. Taller than Humans, with long forked tongues and no sense of taste, Chagrians are practical, water-wise people who fought for the Rebellion and helped liberate Mon Calamari. |
 | --- |
@@ -804,7 +894,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Charon](https://starwars.fandom.com/wiki/Charon/Legends)
 
-`[review]`
+![Charon](File:SL100 Species Charon.jpg)
+
+`[sl100]`
 
 | Arachnoid horrors from a cold world in the black-hole pocket dimension of otherspace, over two metres tall on four legs, with four arms of which two are immensely powerful. Most Charon follow the Cult of the Void, which holds all life, even their own, to be an abomination; a breakaway Cult of Light built the species' first hyperdrive after the Battle of Endor and seeded peaceful colonies of bioscientists. Rebellion era onwards. |
 | --- |
@@ -816,7 +908,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Chev](https://starwars.fandom.com/wiki/Chev)
 
-`[review]`
+![Chev](File:SL100 Species Chev.jpg)
+
+`[sl100]`
 
 | Near-Human natives of Vinsoth in the Outer Rim, enslaved by the pachydermoid Chevin for most of their history. Lidless-eyed and double-hearted, Chevs keep their heads down and endure; the few who escape to freedom offworld dress and tattoo themselves extravagantly to proclaim their individuality and guard their liberty with near-paranoid care. Several became Jedi. |
 | --- |
@@ -828,7 +922,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Chevin](https://starwars.fandom.com/wiki/Chevin/Legends)
 
-`[review]`
+![Chevin](File:SL100 Species Chevin.jpg)
+
+`[sl100]`
 
 | Massive pachydermoids of Vinsoth with huge heads, snouts that hang to their ankles, thick grey hide and arms so long their three-fingered hands brush the ground. Cunning hunters who smell out prey while watching the horizon, the Chevin conquered and enslaved the Chevs and are known across the galaxy as smugglers, slavers and crime lords of poor repute. |
 | --- |
@@ -840,7 +936,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Clawdite](https://starwars.fandom.com/wiki/Clawdite/Legends)
 
-`[review]`
+![Clawdite](File:SL100 Species Clawdite.jpg)
+
+`[sl100]`
 
 | Rough-skinned reptilian humanoids of Zolan, the only shapeshifters among the Zolander people and feared and ghettoised by them for centuries. A Clawdite can change the colour and texture of its skin and eyes to pass as any similarly built humanoid, even mimicking clothing, which makes them sought-after infiltrators, assassins and bounty hunters. They live barely seventy years. |
 | --- |
@@ -852,7 +950,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Colicoid](https://starwars.fandom.com/wiki/Colicoid/Legends)
 
-`[review]`
+![Colicoid](File:SL100 Species Colicoid.jpg)
+
+`[sl100]`
 
 | Carnivorous insectoids of Colla IV, tall chitinous beings with flat heads, multifaceted eyes, long antennae and a stinging tail, able to curl into a protective ball and spring open on their prey. Ruthless, calculating and utterly uninterested in other species' lives, the Colicoid Creation Nest built the droideka and other war droids for the Trade Federation and the Separatists. Separatist-era mainstay. |
 | --- |
@@ -864,7 +964,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Cragmoloid](https://starwars.fandom.com/wiki/Cragmoloid/Legends)
 
-`[review]`
+![Cragmoloid](File:SL100 Species Cragmoloid.jpg)
+
+`[sl100]`
 
 | Rare three-metre pachydermoids from the rocky world Ankus, with flat ears, prehensile trunks, five-fingered hands and tusks prized by poachers. Proud, family-loving and peaceful by nature, Cragmoloids nevertheless fly into a rage when deceived. Imperial enslavement, TaggeCo strip-mining and ivory hunters drove them to the brink, and many sawed off their own tusks to survive. |
 | --- |
@@ -876,7 +978,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Dantari](https://starwars.fandom.com/wiki/Dantari)
 
-`[review]`
+![Dantari](File:SL100 Species Dantari.jpg)
+
+`[sl100]`
 
 | Heavy-muscled, broad-faced Near-Humans of the plains of Dantooine in the Outer Rim, nomadic hunter-gatherers ruled by councils of elders and the shaman-like garoo. Unaware that starships cross their skies, they took the Imperials for gods and tattooed walkers and blasters on their chests. The Yuuzhan Vong invasion all but wiped them out. |
 | --- |
@@ -888,7 +992,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Dashade](https://starwars.fandom.com/wiki/Dashade/Legends)
 
-`[review]`
+![Dashade](File:SL100 Species Dashade.jpg)
+
+`[sl100]`
 
 | Large, dark-skinned reptilians with lamprey mouths and heavy claws, bred as "Shadow Killers" for Sith Lords and Falleen royal houses. Naturally resistant to the Force and to radiation, and so efficient at shedding body heat that life-form sensors barely register them, Dashades are among the galaxy's deadliest assassins; their homeworld was lost long ago and only a handful survive in cryogenic sleep. |
 | --- |
@@ -900,7 +1006,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Dathomirian](https://starwars.fandom.com/wiki/Dathomirian/Legends)
 
-`[review]`
+![Dathomirian](File:SL100 Species Dathomirian.jpg)
+
+`[sl100]`
 
 | Human-Zabrak hybrids of the Outer Rim world Dathomir, born of the Witches of Dathomir and their captured Zabrak pirates. Females are pale, hairless and Human-like; males bear Zabrak horns and red, orange or yellow skin. Most women belong to Force-wielding clans such as the Nightsisters, while the men serve as Nightbrother warriors; Darth Maul and Asajj Ventress both sprang from this stock. |
 | --- |
@@ -912,7 +1020,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Defel](https://starwars.fandom.com/wiki/Defel/Legends)
 
-`[review]`
+![Defel](File:SL100 Species Defel.jpg)
+
+`[sl100]`
 
 | The "Wraiths" of Af'El, a high-gravity Outer Rim world beneath an ultraviolet supergiant. Defel fur absorbs visible light, so to other species they appear as moving shadows; they see in ultraviolet and the deepest dark but are blinded by ordinary daylight, and wear visors offworld. Rarely seen and easily mistaken for living shadows, they make natural thieves, scouts and assassins. |
 | --- |
@@ -924,7 +1034,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Devaronian](https://starwars.fandom.com/wiki/Devaronian/Legends)
 
-`[review]`
+![Devaronian](File:SL100 Species Devaronian.jpg)
+
+`[sl100]`
 
 | Horned humanoids of Devaron in the Colonies, among the first species to reach the stars. Males are red-skinned, horned and devil-faced with a famous wanderlust; females are furred, hornless and run the homeworld's government. Dense-bodied and cleansed by twin livers that process their silver-based blood, Devaronians shrug off most poisons, and the males are fixtures of spaceports and cantinas everywhere. |
 | --- |
@@ -936,7 +1048,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Diathim](https://starwars.fandom.com/wiki/Diathim/Legends)
 
-`[review]`
+![Diathim](File:SL100 Species Diathim.jpg)
+
+`[sl100]`
 
 | The "Angels" of Iego and its moon Millius Prime in the Outer Rim, six-winged beings who seem to be made of blazing white light tinged with gold and whose appearance shifts with the beholder. Legendary among spacers for a beauty that borders on the hypnotic, Diathim are gentle, innocent and rarely leave their worlds, and have been invoked as the standard of loveliness since before the Republic. |
 | --- |
@@ -948,7 +1062,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Drall](https://starwars.fandom.com/wiki/Drall/Legends)
 
-`[review]`
+![Drall](File:SL100 Species Drall.jpg)
+
+`[sl100]`
 
 | Small, thickly furred bipeds of Drall in the Corellian system, descended from burrowing mammals and brought there by the Celestials in antiquity. Cautious, meticulous and ferociously well-read, the Drall have recorded every event of their history and treat libraries and storytelling as entertainment. They seldom leave home, but corporations hire them for their minds and their love of gossip is legendary. |
 | --- |
@@ -960,7 +1076,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Dressellian](https://starwars.fandom.com/wiki/Dressellian/Legends)
 
-`[review]`
+![Dressellian](File:SL100 Species Dressellian.jpg)
+
+`[sl100]`
 
 | Tall, thin humanoids with hairless elongated skulls, deeply wrinkled skin and teal blood, from the forested island world Dressel. Fiercely independent and loosely organised, they lived in isolation until Imperial occupation turned them into masters of guerrilla warfare, armed with their own projectile rifles and Bothan-smuggled gear. Dressellians value freedom above all else and keep largely to themselves. |
 | --- |
@@ -972,7 +1090,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Dug](https://starwars.fandom.com/wiki/Dug/Legends)
 
-`[review]`
+![Dug](File:SL100 Species Dug.jpg)
+
+`[sl100]`
 
 | Slender, powerfully built mammals from the high-gravity world Malastare who walk on their long arms and use their feet as hands. Arboreal brachiators by nature, Dugs swing through the canopy at great speed and have loose throat skin that inflates in mating calls. They are aggressive, boastful and quick to bully; the podracer Sebulba is the galaxy's best-known example. |
 | --- |
@@ -984,7 +1104,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Duinuogwuin](https://starwars.fandom.com/wiki/Duinuogwuin/Legends)
 
-`[review]`
+![Duinuogwuin](File:SL100 Species Duinuogwuin.jpg)
+
+`[sl100]`
 
 | The Star Dragons are a secretive, immensely long-lived species of unknown origin, met only rarely in deep space. Serpentine, winged and segmented, the typical adult is ten metres long with many pairs of legs, the foremost serving as hands, and scales of grey, pale blue or black. Calm, wise and morally serious, they are friendly to other peoples but indifferent to questions about themselves; roughly a third are Force-sensitive, a fact they hid from the Empire while sitting out the Galactic Civil War. A few have served as Jedi, including Master Willm Lywin. |
 | --- |
@@ -996,7 +1118,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Duros](https://starwars.fandom.com/wiki/Duros/Legends)
 
-`[review]`
+![Duros](File:SL100 Species Duros.jpg)
+
+`[sl100]`
 
 | Natives of Duro in the Core, the Duros are smooth-skinned blue-green humanoids with large red eyes, lipless mouths and long noseless faces. One of the first peoples to build hyperdrives, they charted trade routes still in use in the Imperial era and are found across the galaxy as pilots, scouts and explorers. Taciturn with strangers, they come alive when telling stories of their travels, which they recall in exact detail; many are adventurous to the point of rashness, and the honorific "Traveler" pleases them. |
 | --- |
@@ -1008,7 +1132,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ebranite](https://starwars.fandom.com/wiki/Ebranite)
 
-`[review]`
+![Ebranite](File:SL100 Species Ebranite.jpg)
+
+`[sl100]`
 
 | Ebranites come from the cave and canyon systems of Ebra in the Dousc system. Six-armed and clawed, with thick mottled reddish-brown hide that hides them against rock, they climb with great speed but walk slowly on open ground and see into the infrared. Clannish, proud and quick to a Wookiee-like combat rage when threatened, they distrust advanced technology, which they associate with the Empire that seized their lu-ramin mines; many joined the Rebel Alliance armed with bows and slings. |
 | --- |
@@ -1020,7 +1146,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Elom](https://starwars.fandom.com/wiki/Elom/Legends)
 
-`[review]`
+![Elom](File:SL100 Species Elom.jpg)
+
+`[sl100]`
 
 | Eloms are the short, stocky cave-dwellers of the frigid desert world Elom in the Trans-Hydian, sharing the planet with the surface-dwelling Elomin. Beneath a thick oily pelt they have leathery hide, layers of fat, callused hands and two rock-hard tusks, and their eyes are superb in the crystal-lit dark but pained by bright light. Despite a fearsome look they are peaceful herbivores, ambitious and intelligent, yet so trusting that offworlders often draw them into crime without their realising it. |
 | --- |
@@ -1032,7 +1160,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Elomin](https://starwars.fandom.com/wiki/Elomin/Legends)
 
-`[review]`
+![Elomin](File:SL100 Species Elomin.jpg)
+
+`[sl100]`
 
 | The horned Elomin rule the surface of Elom and represent the planet offworld. Their skin ranges from bright pink to deep purple, with nose tusks, neck wattles and long hair behind the ears that they comb obsessively; some xenoarchaeologists believe them a lost Zabrak colony. Elomin crave order and labour to impose it on everything around them, which makes them superb administrators and brittle commanders: an Elomin task force was annihilated by Thrawn's deliberately chaotic Marg Sabl manoeuvre in 9 ABY. |
 | --- |
@@ -1044,7 +1174,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Em'liy](https://starwars.fandom.com/wiki/Em'liy/Legends)
 
-`[review]`
+![Em'liy](File:SL100 Species Em'liy.jpg)
+
+`[sl100]`
 
 | The Em'liy of Shalyvane in the Outer Rim are tall, robust humanoids with noseless faces, small dark eyes and hairless skin in shades of orange, tan, green or blue, their head-hair worn in one to three topknots that mark caste. Once a proud warrior civilisation, they were shattered by the Empire and scattered into nomadic tribes on their homeworld and beyond. Deeply religious, they hold the Circle of Kavaan sacred and were bitterly hostile to offworlders until the Rebel Alliance exposed the Imperial desecration of it. |
 | --- |
@@ -1056,7 +1188,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Esh-kha](https://starwars.fandom.com/wiki/Esh-kha)
 
-`[review]`
+![Esh-kha](File:SL100 Species Esh-kha.jpg)
+
+`[sl100]`
 
 | An ancient terror of the pre-Republic galaxy, the Esh-kha are grey-skinned humanoids with equine muzzles, small black eyes and digitigrade legs. Bred into castes of Force-sensitive savants, numerous warriors and ruling patriarchs, each individual earns a name through deeds, and young warriors seek battle to claim one. Their hive-like society cannot tolerate other thinking peoples; they hunted whole species to extinction before the Rakata imprisoned them on Belsavis, where they were found again in the Old Republic era. |
 | --- |
@@ -1068,7 +1202,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ewok](https://starwars.fandom.com/wiki/Ewok/Legends)
 
-`[review]`
+![Ewok](File:SL100 Species Ewok.jpg)
+
+`[sl100]`
 
 | Ewoks are the metre-tall furry natives of the Forest Moon of Endor, famous for helping the Rebel Alliance destroy the second Death Star's shield generator. Bear-like, with bright eyes and fur of brown, black, grey or rarely red, they are curious, brave and strong enough for their size to overpower a trained soldier. Stone-age hunters who build gliders, catapults and battle wagons, they learn simple technology quickly; after the Battle of Endor a few left the moon out of curiosity or in chains. |
 | --- |
@@ -1080,7 +1216,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Falleen](https://starwars.fandom.com/wiki/Falleen/Legends)
 
-`[review]`
+![Falleen](File:SL100 Species Falleen.jpg)
+
+`[sl100]`
 
 | The cold-blooded reptilian Falleen of the planet Falleen are fine-scaled, controlled and aristocratic, able to shift their skin from green through red at will and to exude pheromones that bend the moods of those around them. Republic members for four thousand years, they sided with the Separatists in the Clone Wars and refused the New Republic after Darth Vader sterilised a Falleen city of 200,000 to contain a failed bioweapon, a crime Prince Xizor of Black Sun never forgave. |
 | --- |
@@ -1092,7 +1230,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Farghul](https://starwars.fandom.com/wiki/Farghul/Legends)
 
-`[review]`
+![Farghul](File:SL100 Species Farghul.jpg)
+
+`[sl100]`
 
 | The Farghul are felinoids of the temperate Core world Farrfin, tawny-furred, clawed and long-tailed, with the strength and speed of hunting cats. They have a double reputation across the galaxy as fearsome fighters and as cunning thieves and con artists, and a Farghul met far from home is as likely to be running a swindle as guarding a client. |
 | --- |
@@ -1104,7 +1244,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Feeorin](https://starwars.fandom.com/wiki/Feeorin/Legends)
 
-`[review]`
+![Feeorin](File:SL100 Species Feeorin.jpg)
+
+`[sl100]`
 
 | Scattered across the Outer Rim since their homeworld died thousands of years before the Clone Wars, the Feeorin are heavy-set bipeds with thick head tendrils, mottled yellow, green or blue skin and, in some, no nose at all. They live four centuries and grow stronger rather than weaker with age, so their Elders are physically formidable; the greatest of them bears the title of Exalted. Quick-tempered, self-interested and impersonal, they are widely seen as selfish, and many survivors of the lost colony ships turned raider, like the pirate Nym. |
 | --- |
@@ -1116,7 +1258,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Filordus](https://starwars.fandom.com/wiki/Filordus)
 
-`[review]`
+![Filordus](File:SL100 Species Filordus.jpg)
+
+`[sl100]`
 
 | The Filordi of Filordis in the Inner Rim are sexless quadrupeds with two long spindly forelegs, two stubby hind legs and pincer-like toes on every foot. They can rear up to walk on two legs but tire quickly doing so. Shrewd merchants, they were a member species of the Trade Federation until 33 BBY, when they broke away with the Caarites to found the rival Metatheran Cartel and set about exposing their former partners' abuses. |
 | --- |
@@ -1128,7 +1272,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Frozian](https://starwars.fandom.com/wiki/Frozian/Legends)
 
-`[review]`
+![Frozian](File:SL100 Species Frozian.jpg)
+
+`[sl100]`
 
 | Frozians are tall, thin, furred humanoids from Froz, with grazer-like faces, long whiskers and an extra joint in every limb that makes their movements unsettling to watch. Standard gravity is too heavy for them: offworld they age fast and cannot breed, and they need flora from Froz even to try. A strong-willed, peaceful people and early supporters of the Rebellion, they are now a dying species, their scientists racing to recreate Froz before the last generation passes. |
 | --- |
@@ -1140,7 +1286,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends)
 
-`[review]`
+![Gamorrean](File:SL100 Species Gamorrean.jpg)
+
+`[sl100]`
 
 | Gamorreans are the squat green porcine warriors of the jungle world Gamorr in the Outer Rim, with snouts, tusks, small horns and heavy frames of 100 kilograms or more. Their clans are ruled by a Council of Matrons; sows do the productive work while boars train for war with the traditional arg'garok axe. Valued across the galaxy as guards and muscle for their strength and ferocity rather than their wits, they can be taught to point a blaster but rarely think to use one. |
 | --- |
@@ -1152,7 +1300,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Gand](https://starwars.fandom.com/wiki/Gand/Legends)
 
-`[review]`
+![Gand](File:SL100 Species Gand.jpg)
+
+`[sl100]`
 
 | Gands are short, insectoid humanoids of the ammonia-shrouded world Gand, with chitin exoskeletons, three-fingered hands and compound eyes. Lunged Gands must wear breathing gear in oxygen atmospheres, while the lungless kind do not breathe at all. Their culture holds that identity must be earned: most speak of themselves in the third person and are humble to a fault. The findsmen, ritual trackers who read omens in the mists, are among the galaxy's most unsettlingly accurate bounty hunters. |
 | --- |
@@ -1164,7 +1314,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Gen'Dai](https://starwars.fandom.com/wiki/Gen'Dai/Legends)
 
-`[review]`
+![Gen'Dai](File:SL100 Species Gen'Dai.jpg)
+
+`[sl100]`
 
 | The Gen'Dai are a boneless, near-immortal species from an unknown world, a formless mass of corded muscle and nerve with a humanoid face, fanged mouth and wing-like ears. Lacking hearts, lungs or other vital organs, they shrug off dismemberment and regrow lost parts in minutes, and typically wear heavy humanoid armour to pass as something else. Centuries of life tend to wear their minds: the Clone Wars bounty hunter Durge was wholly insane, and Hutt cartels have employed Gen'Dai as "Immortal Guardians". |
 | --- |
@@ -1176,7 +1328,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Geonosian](https://starwars.fandom.com/wiki/Geonosian/Legends)
 
-`[review]`
+![Geonosian](File:SL100 Species Geonosian.jpg)
+
+`[sl100]`
 
 | Geonosians are the insectoid hive-dwellers of Geonosis, builders of the Separatist droid foundries and of the battle droids they so resemble. Chitin-armoured, with elongated ridged skulls, bulbous eyes and spindly limbs, they are born into castes, chiefly the ruling aristocrats and the physically powerful warrior drones. No Force-user has ever been known among them. After the Clone Wars their fortunes waned, though Geonosian engineers and hives were still found working for anyone who paid, from the Sith Empire to Rebel allies. |
 | --- |
@@ -1188,7 +1342,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Givin](https://starwars.fandom.com/wiki/Givin/Legends)
 
-`[review]`
+![Givin](File:SL100 Species Givin.jpg)
+
+`[sl100]`
 
 | The Givin of Yag'Dhul in the Inner Rim look like walking skeletons, their hard white exoskeletons and sunken black eyes a sealed adaptation to a world whose oceans and atmosphere shift unpredictably with triple tides. Mathematics developed to predict those tides rules their society: governors are chosen by contests of calculation, and polite conversation opens with a quadratic equation. Superb astrogators and starship designers, they can survive vacuum unaided and are quietly arrogant toward species that cannot. |
 | --- |
@@ -1200,7 +1356,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Gossam](https://starwars.fandom.com/wiki/Gossam/Legends)
 
-`[review]`
+![Gossam](File:SL100 Species Gossam.jpg)
+
+`[sl100]`
 
 | Gossams are small saurians of Castell in the Colonies, with colonies on Felucia and Saleucami. Barely 1.25 metres tall, they have wrinkled green or blue pebbly skin, long necks, tapering heads, wide yellow eyes and frail bodies balanced on tiny feet. Shrewd, scheming and vain about their appearance, most serve the Commerce Guild, which the Gossam Shu Mai led into the Separatist cause; others are found galaxy-wide as merchants, smugglers and pirates. Force-users among them are extremely rare. |
 | --- |
@@ -1212,7 +1370,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Gotal](https://starwars.fandom.com/wiki/Gotal/Legends)
 
-`[review]`
+![Gotal](File:SL100 Species Gotal.jpg)
+
+`[sl100]`
 
 | Gotals are tall, shaggy humanoids from the moon Antar 4 in the Inner Rim, marked by the twin conical horns on their heads. The cones are electromagnetic sensors so fine that a Gotal reads the emotions and intentions of those nearby, tracks prey ten kilometres away and senses droids through walls, while its eyes and ears are weak and its nose nearly useless. Found as bounty hunters, Jedi, Antarian Rangers and diplomats, Gotals backed the losing side in the Clone Wars and rejoined galactic life only under the New Republic. |
 | --- |
@@ -1224,7 +1384,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Gran](https://starwars.fandom.com/wiki/Gran/Legends)
 
-`[review]`
+![Gran](File:SL100 Species Gran.jpg)
+
+`[sl100]`
 
 | The three-eyed, goat-snouted Gran come from the highlands of Kinyen, with large colonies on Malastare and Hok. Descended from herd grazers, they have two stomachs and remarkable eyes that resolve more colours than most species and see into the infrared; they read one another's moods from body heat and skin tone. Gran society is tightly bound by family, lifelong mating and the Doellinist faith, which forbids violence and vice, though Gran of Malastare became powerful and often corrupt Senators in the Republic's last years. |
 | --- |
@@ -1236,7 +1398,9 @@ Average height 2.23 – 2.54 meters
 
 ### [H'nemthe](https://starwars.fandom.com/wiki/H'nemthe/Legends)
 
-`[review]`
+![H'nemthe](File:SL100 Species H'nemthe.jpg)
+
+`[sl100]`
 
 | The H'nemthe take their name from their arboreal homeworld in the Mayagil sector of the Outer Rim, a world that fell under Imperial control and was courted by the Galactic Alliance only shortly before the Second Corellian Insurrection. Humanoid and slight, they are met offworld in ones and twos, often in cantinas far from home. |
 | --- |
@@ -1248,7 +1412,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Hapan](https://starwars.fandom.com/wiki/Hapan)
 
-`[review]`
+![Hapan](File:SL100 Species Hapan.jpg)
+
+`[sl100]`
 
 | Hapans are the near-Human people of the sixty-three worlds of the Hapes Cluster in the Inner Rim, descended from the Lorell Raiders and the beautiful captives they brought home. Generations of isolation behind the Transitory Mists bred a population famed for its beauty and ruled by the Queen Mother's matriarchy, with borders sealed to outsiders until 8 ABY. The perpetual daylight of their star-packed skies has cost them their night vision: a Hapan is nearly blind in dim light. |
 | --- |
@@ -1260,7 +1426,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Herglic](https://starwars.fandom.com/wiki/Herglic/Legends)
 
-`[review]`
+![Herglic](File:SL100 Species Herglic.jpg)
+
+`[sl100]`
 
 | Herglics are the huge, smooth-skinned bipeds of Giju in the Colonies, descended from sea mammals and still breathing through a blowhole atop the head. Pale blue to black, tall and extremely broad, they fill two seats and squeeze through most doorways, and are rather sensitive about it. An old hyperdrive culture that built a trade empire before meeting the Duros, they are pleasant and peaceful but helplessly drawn to gambling; under the Empire they submitted pragmatically, and some bought their way into Tapani nobility. |
 | --- |
@@ -1272,7 +1440,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ho'Din](https://starwars.fandom.com/wiki/Ho'Din/Legends)
 
-`[review]`
+![Ho'Din](File:SL100 Species Ho'Din.jpg)
+
+`[sl100]`
 
 | The Ho'Din, "walking flowers", are very tall, multi-coloured humanoids from the forests of Moltok, with suction-tipped fingers for climbing and a crown of scaled, snake-like tresses that sense heat. They claim descent from plants, follow the nature-worshipping Dinante Fli'R faith and are the galaxy's finest botanists, ecologists and herbal healers, their medicines making Moltok wealthy. Technology is tightly restricted at home, though Ho'Din abroad accept it as a necessary evil on already damaged worlds. |
 | --- |
@@ -1284,7 +1454,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Houk](https://starwars.fandom.com/wiki/Houk/Legends)
 
-`[review]`
+![Houk](File:SL100 Species Houk.jpg)
+
+`[sl100]`
 
 | Houks of Lijuter and its thirty-one colonies are among the largest and strongest humanoids in the galaxy, slabs of muscle beneath a thick skull, rivalled only by Wookiees. Short-tempered and prone to solving problems with violence, their colonies make war without declaration and ignore treaties, yet in personal combat they prefer ambush and stealth, earning a reputation for cowardice and deceit. Many are honest hard workers all the same, and Houk gladiators, bounty hunters and enforcers are a common sight. |
 | --- |
@@ -1296,7 +1468,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Hrakian](https://starwars.fandom.com/wiki/Hrakian)
 
-`[review]`
+![Hrakian](File:SL100 Species Hrakian.jpg)
+
+`[sl100]`
 
 | Hrakians are yellow-skinned near-Humans from the mountainous jungle world Hraki in the Vorzyd sector, recognisable by the thick, bulky hair of head and brow. Brave, enterprising and reliable, they are famed spacers whose freighters carry workers across the sector for firms like Hraki Intracluster Transport, and they can handle themselves in a fight. Unsophisticated and uninterested in politics, a Hrakian is content with promised credits and a cantina at the end of the job, and will usually take the easy route to both. |
 | --- |
@@ -1308,7 +1482,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Huralok](https://starwars.fandom.com/wiki/Huralok)
 
-`[review]`
+![Huralok](File:SL100 Species Huralok.jpg)
+
+`[sl100]`
 
 | Huraloks are triangular-headed reptilians of Djurmo in the Mid Rim, black-striped, thick-clawed and vicious. Living into their fourth century, they nurse grudges for lifetimes and despise even one another, mating only when the species is in danger. Greedy, deceitful and manipulative, most prefer to send minions to do their work, but some roam the galaxy as soldiers and self-serving scoundrels; holodramas of the Imperial Navy hunting Huralok pirates were popular entertainment. |
 | --- |
@@ -1320,7 +1496,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Hutt](https://starwars.fandom.com/wiki/Hutt/Legends)
 
-`[review]`
+![Hutt](File:SL100 Species Hutt.jpg)
+
+`[sl100]`
 
 | The Hutts are vast slug-like gastropods, the crime lords of the galaxy from Nal Hutta to Tatooine. Boneless beneath layers of blubber and muscle, with hides that resist all but the harshest chemicals and a mucous sweat that makes them impossible to hold, they regenerate injury, breathe underwater for hours, change their sex at will and live well past nine centuries. Cunning, patient and immune to Jedi mind tricks, they rule through syndicates, debt and fear rather than force, though a Hutt's tail can break bones. |
 | --- |
@@ -1332,7 +1510,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Iktotchi](https://starwars.fandom.com/wiki/Iktotchi/Legends)
 
-`[review]`
+![Iktotchi](File:SL100 Species Iktotchi.jpg)
+
+`[sl100]`
 
 | Iktotchi are broad, horned humanoids from the storm-swept moon Iktotch in the Expansion Region, with wind-hardened skin and down-curving cranial horns inherited from mountain-goat ancestors. Their huge fatty-fingered hands are clumsy, but their minds are not: Iktotchi are natural telepaths and precognitives, the latter gift strong at home and faint elsewhere. Stoic and sensitive beneath a fierce look, they adapt to other cultures yet seldom mix, since their foresight frightens people, draws criminals and gets them barred from every casino. |
 | --- |
@@ -1344,7 +1524,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Iotran](https://starwars.fandom.com/wiki/Iotran/Legends)
 
-`[review]`
+![Iotran](File:SL100 Species Iotran.jpg)
+
+`[sl100]`
 
 | Iotrans are a militaristic people of Iotra in the Outer Rim, dark-skinned, earless and bald, with knobby temples and short bony spikes guarding shoulders, elbows and hands. Atheists who believe stability comes only from military strength, nearly half of them serve in the Iotran Police Force at any time, and the elite Bracemen hunt fugitives far beyond the Iotran Expanse with little regard for local law. Respecting might and order, most Iotrans supported the Empire, which cost them the goodwill of other species. |
 | --- |
@@ -1356,7 +1538,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ishi Tib](https://starwars.fandom.com/wiki/Ishi_Tib/Legends)
 
-`[review]`
+![Ishi Tib](File:SL100 Species Ishi Tib.jpg)
+
+`[sl100]`
 
 | The Ishi Tib of the ocean world Tibrin are green amphibians with eyestalks, beaked mouths and cheek pouches that give the head a star shape. Evolved from fish that leapt onto the coral reefs, they live in communal "schools" of up to ten thousand, hatch their young in common nurseries and write their strictest laws about protecting the environment. Offworld they are prized as meticulous planners, accountants and managers, but a cornered Ishi Tib will tear an enemy apart with its beak. |
 | --- |
@@ -1368,7 +1552,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ithorian](https://starwars.fandom.com/wiki/Ithorian/Legends)
 
-`[review]`
+![Ithorian](File:SL100 Species Ithorian.jpg)
+
+`[sl100]`
 
 | Ithorians, mockingly called "Hammerheads", are the tall, glossy-brown herbivores of the jungle world Ithor, whose long curving necks end in a T-shaped head with eyes at either tip. Two mouths and four throats let them speak in stereo and, in extremity, loose a deafening concussive bellow. Gentle worshippers of the Mother Jungle, they exile the violent among them and are found across the galaxy as ecologists, healers and herd-ship traders; Ithor itself was destroyed by the Yuuzhan Vong, and the survivors settled Borao and other worlds. |
 | --- |
@@ -1380,7 +1566,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Jawa](https://starwars.fandom.com/wiki/Jawa/Legends)
 
-`[review]`
+![Jawa](File:SL100 Species Jawa.jpg)
+
+`[sl100]`
 
 | Jawas are the metre-tall, hooded scavengers of Tatooine's deserts, known only by their glowing yellow eyes, chattering speech and an odour that most species find unbearable but which tells other Jawas everything about them. They roam in huge sandcrawlers hunting salvage to patch up and resell to moisture farmers, with a well-earned reputation for sharp dealing, and retreat to desert fortresses to raise their young. Passive and timid, they see every newcomer as a customer rather than an enemy. |
 | --- |
@@ -1392,7 +1580,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Jenet](https://starwars.fandom.com/wiki/Jenet/Legends)
 
-`[review]`
+![Jenet](File:SL100 Species Jenet.jpg)
+
+`[sl100]`
 
 | Jenets are pink-skinned, red-eyed rodent humanoids from Garban in the Tau Sakar system, with wiry fur, twitching whiskers and long limbs they can dislocate to squeeze through a gap twelve centimetres wide. Their memories are flawless, their senses keen, and they can digest almost anything, having scavenged their way to dominance of their system. Breeding fast and quarrelling constantly, they strike other species as ugly and abrasive, yet their recall makes them sought-after clerks, administrators and bureaucrats; the Empire enslaved them in numbers. |
 | --- |
@@ -1404,7 +1594,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kadas'sa'Nikto](https://starwars.fandom.com/wiki/Kadas'sa'Nikto/Legends)
 
-`[review]`
+![Kadas'sa'Nikto](File:SL100 Species Kadas'sa'Nikto.jpg)
+
+`[sl100]`
 
 | The Kadas'sa'Nikto, or Green Nikto, are the forest-adapted subspecies of the hardy reptilian Nikto of Kintan, green-scaled and equipped with small climbing claws. Long bound to the Hutts by ancient treaty, they are met throughout Hutt Space and beyond as smugglers, skiff guards, racers, gamblers and soldiers, from the Old Republic to Jabba's court on Tatooine. |
 | --- |
@@ -1416,7 +1608,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kage](https://starwars.fandom.com/wiki/Kage/Legends)
 
-`[review]`
+![Kage](File:SL100 Species Kage.jpg)
+
+`[sl100]`
 
 | The Kage are a pale near-Human people of the caverns of Quarzite in the Inner Rim, a world of crushing atmospheric pressure where they wage a long struggle against the powerful Belugans who outnumber them. Spirited and disciplined, the Kage Warriors train to the peak of physical excellence: tireless, nimble, stealthy and deadly with electro-sword or bare hands. During the Clone Wars their leader Krismo Sodi recovered his kidnapped sister from the Belugan lord Otua Blank with the unexpected help of Asajj Ventress. |
 | --- |
@@ -1428,7 +1622,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kaleesh](https://starwars.fandom.com/wiki/Kaleesh/Legends)
 
-`[review]`
+![Kaleesh](File:SL100 Species Kaleesh.jpg)
+
+`[sl100]`
 
 | Kaleesh are well-muscled reptilian humanoids of Kalee in the Outer Rim, with scaled skin, bat-like faces, triangular ear flaps and tusks jutting from the jaw, almost always hidden behind a traditional mask. Deeply spiritual, they believe the great warriors of each generation become gods in death and hold their burial grounds sacred; war between tribes is simply part of life. The Republic and Sith Empire alike learned to respect them as proud, honourable and deadly, and the cyborg General Grievous was once one of their greatest warlords. |
 | --- |
@@ -1440,7 +1636,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kaminoan](https://starwars.fandom.com/wiki/Kaminoan/Legends)
 
-`[review]`
+![Kaminoan](File:SL100 Species Kaminoan.jpg)
+
+`[sl100]`
 
 | Kaminoans are the tall, slender, long-necked amphibians of the storm-lashed ocean world Kamino in Wild Space, living in stilt-cities such as Tipoca above the waves. Pale, pearl-skinned and digitigrade, their large glassy eyes see in murky water and into the ultraviolet. A near-extinction after the Great Flood made them masters of genetics and cloning, and the cold, calculating culture that resulted produced the Grand Army of the Republic for the Clone Wars. They mature at eleven and age visibly by eighty. |
 | --- |
@@ -1452,7 +1650,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kerestian](https://starwars.fandom.com/wiki/Kerestian/Legends)
 
-`[review]`
+![Kerestian](File:SL100 Species Kerestian.jpg)
+
+`[sl100]`
 
 | Kerestians are towering humanoids, 1.8 to 2.5 metres, of the frozen world Kerest, marked by a row of vestigial breather tubes along the cheekbones, a vertical slit nose and twin strips of hair running from the brow down the back. Their fusion-age civilisation collapsed when their sun dimmed and glaciers swallowed all but the equator, and the survivors became remorseless hunters who will stalk one another to survive. Unafraid of the Great Darkness that awaits them in death, they are famed masters of the darkstick, and serve as assassins, Mandalorians and Imperial nobles' retainers. |
 | --- |
@@ -1464,7 +1664,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Keshiri](https://starwars.fandom.com/wiki/Keshiri/Legends)
 
-`[review]`
+![Keshiri](File:SL100 Species Keshiri.jpg)
+
+`[sl100]`
 
 | The Keshiri are the purple-skinned, powerfully built near-Humans of the isolated world Kesh, with black, red or violet eyes and looks most Humans find beautiful, though the two species cannot interbreed. Glassblowers, artists and mimes with a deep religious tradition of the Skyborn, they took the shipwrecked Sith of 5000 BBY for their gods and served the Lost Tribe for five millennia. Only around 41 ABY, as the Tribe's armada left Kesh, did Keshiri first travel offworld, some rising into the Sith Tribe itself. |
 | --- |
@@ -1476,7 +1678,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Khil](https://starwars.fandom.com/wiki/Khil)
 
-`[review]`
+![Khil](File:SL100 Species Khil.jpg)
+
+`[sl100]`
 
 | The Khil of Belnar were among the Republic's founding peoples and have spread to countless worlds, calling themselves citizens of the galaxy. Hairless and grey-skinned, they have no jaw; instead a curtain of fleshy tendrils, the hullepi, hangs from the lower face, through which they breathe, feed on juices and moisture, and speak in musical tones. Driven, ambitious and a little arrogant, Khil push for leadership in every field from soldiering to music, though prolonged failure or stress can tip them into mood swings and breakdowns. |
 | --- |
@@ -1488,7 +1692,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Khommite](https://starwars.fandom.com/wiki/Khommite/Legends)
 
-`[review]`
+![Khommite](File:SL100 Species Khommite.jpg)
+
+`[sl100]`
 
 | Khommites are the near-Human clones of Khomm in the Deep Core. Around 1000 BBY, judging their society perfect, they began cloning their "ideal" citizens and froze their culture for a thousand years; every Khommite is a numbered copy of a template, sexless, rigidly conformist and bred to eat only processed food wafers. Force sensitivity was treated as a flaw to be removed, though it surfaced in the Jedi Knight Dorsk 81. Admiral Daala's bombardment of Khomm in 12 ABY forced the survivors to adapt for the first time in centuries. |
 | --- |
@@ -1500,7 +1706,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kian'thar](https://starwars.fandom.com/wiki/Kian'thar)
 
-`[review]`
+![Kian'thar](File:SL100 Species Kian'thar.jpg)
+
+`[sl100]`
 
 | Reptile-descended humanoids of the ocean world Shaum Hii in the remote Tragan Cluster, standing 1.8 to 2.1 metres with purplish-pink heads, keratin neck plates and two dangling olfactory tendrils on the face. They are nomadic derlac ranchers who ride flying bentails, and every Kian'thar can sense the emotions of those around them, a gift they use to defuse quarrels or, less honourably, to manipulate. Only charted around 300 BBY, they are prized offworld as mediators and counsellors, though many beings are wary of their empathy. |
 | --- |
@@ -1512,7 +1720,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kiffar](https://starwars.fandom.com/wiki/Kiffar/Legends)
 
-`[review]`
+![Kiffar](File:SL100 Species Kiffar.jpg)
+
+`[sl100]`
 
 | Near-Humans of Kiffu and Kiffex in the Inner Rim, outwardly indistinguishable from baseline Humans except for the qukuuf, the red, yellow or green facial tattoos inherited through the mother's line that mark their clan. Kiffar history is a long tale of clan feuds and uneasy alliances, which bred a tough, proud and clannish people. A rare few are born with psychometry, the ability to read memories from objects and corpses by touch, and the Jedi Quinlan Vos was the most famous of them. |
 | --- |
@@ -1524,7 +1734,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kilmaulsi](https://starwars.fandom.com/wiki/Kilmaulsi)
 
-`[review]`
+![Kilmaulsi](File:SL100 Species Kilmaulsi.jpg)
+
+`[sl100]`
 
 | Wingless avian humanoids of Kilmaulsias in the Vorzyd Cluster of the Outer Rim, digitigrade and beaked, with purple feather ruffs under the jaw and along the arms. Once bitterly warring tribes, they set aside their feuds when the Vorzydiaks brought them spaceflight, but the old martial instinct remains, and Kilmaulsi are found throughout the cluster and beyond as guards, enforcers and soldiers. They are curious by nature and devoutly religious, and off their world they are easy to hire and hard to intimidate. |
 | --- |
@@ -1536,7 +1748,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kitonak](https://starwars.fandom.com/wiki/Kitonak/Legends)
 
-`[review]`
+![Kitonak](File:SL100 Species Kitonak.jpg)
+
+`[sl100]`
 
 | Pudgy, leathery-skinned nomads of the Kurdan Desert that covers Kirdo III, with tiny eyes, ears and mouth, two-toed feet and three-fingered hands. Kitonaks are famous for a patience that borders on the unbelievable, standing motionless for days to ambush a chooba, and one meal sustains them for a month. They are gifted musicians on the chidinkalu flute, which is why slavers so often carry them off to cantina stages, and the Imperial slang for them was "Yazbo". |
 | --- |
@@ -1548,7 +1762,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Klatooinian](https://starwars.fandom.com/wiki/Klatooinian/Legends)
 
-`[review]`
+![Klatooinian](File:SL100 Species Klatooinian.jpg)
+
+`[sl100]`
 
 | Heavy-browed, leathery humanoids from Klatooine in the Si'Klaata Cluster of Hutt Space. Since Barada M'Beg signed the Treaty of Vontor some 25,000 years ago, the Klatooinians have been bound in perpetual service to the Hutts as soldiers, henchmen and slaves, and most of the galaxy knows them only as muscle in a kajidic's employ. Tough, loyal and dour, a growing number broke with tradition during the Galactic Civil War to join smugglers, pirates or the Rebel Alliance. |
 | --- |
@@ -1560,7 +1776,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kobok](https://starwars.fandom.com/wiki/Kobok/Legends)
 
-`[review]`
+![Kobok](File:SL100 Species Kobok.jpg)
+
+`[sl100]`
 
 | Tall, slight insectoids of Koboth on the fringe of the Tingel Arm, their skeletal frames sheathed in a fuzzy, expressive carapace of varied colour. Venomous spikes project from each forearm and shin, and three eyes, one at the back of the skull, give a Kobok all-round vision. The Koboth Union's long wars with the Corporate Alliance made the species a byword for militarism, and the few Koboks who leave Kobothi Space usually work as mercenaries, soldiers or assassins, with a reputation for being violent and sneaky. |
 | --- |
@@ -1572,7 +1790,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Koorivar](https://starwars.fandom.com/wiki/Koorivar/Legends)
 
-`[review]`
+![Koorivar](File:SL100 Species Koorivar.jpg)
+
+`[sl100]`
 
 | Tall humanoids crowned with a spiralling central horn ringed by smaller ones, with banded ridges across brow and nose and skin in a riot of colours. Having lost their native world, the Koorivar pooled their wealth to buy a new homeworld, Kooriva, from the Republic, and their whole society is built on corporate-mindedness. Their soft, whispering language relies heavily on body language, which makes them acute readers of other beings at the negotiating table; Magistrate Passel Argente of the Corporate Alliance led them into the Confederacy during the Clone Wars. |
 | --- |
@@ -1584,7 +1804,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Korun](https://starwars.fandom.com/wiki/Korun/Legends)
 
-`[review]`
+![Korun](File:SL100 Species Korun.jpg)
+
+`[sl100]`
 
 | The Korunnai are the "uplanders" of Haruun Kal, genetically Human but said to descend from a Jedi crew wrecked there during the Sith War, for every Korun is born Force-sensitive. They live as nomadic ghôsh clans above the toxic cloudsea, bound by the Four Pillars of Honour, Duty, Family and Herd, and use the Pelekotan, their name for the Force, to bond with their akk dogs and grassers. Generations of the Summertime War against the Balawai lowlanders made them hard and unforgiving; Mace Windu and Kar Vastor were both of Ghôsh Windu. |
 | --- |
@@ -1596,7 +1818,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Krevaaki](https://starwars.fandom.com/wiki/Krevaaki)
 
-`[review]`
+![Krevaaki](File:SL100 Species Krevaaki.jpg)
+
+`[sl100]`
 
 | Exoskeleton-shelled sentients of Krevas off the Perlemian Trade Route, who move on eight cephalopod-like tentacles rather than limbs. Self-conscious about their alarming looks even in the days of the Old Republic, the Krevaaki are a quiet, spiritual and unmaterialistic people who explore widely in peacetime but shun conflict and the affairs of others, and are never found in large groups away from home. Jedi Master Vodo-Siosk Baas, teacher of Exar Kun, was the most renowned of them; they matter chiefly in the Old Republic era. |
 | --- |
@@ -1608,7 +1832,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Krish](https://starwars.fandom.com/wiki/Krish/Legends)
 
-`[review]`
+![Krish](File:SL100 Species Krish.jpg)
+
+`[sl100]`
 
 | Smooth-skinned humanoids of Sanza in the Mid Rim, with wide heads, bony ridges above the eyes and nose, short wiry hair and mouths full of rows of tiny pointed teeth. Krish channel an aggressive temperament into games of every kind: they are relentlessly competitive, thrive on hard puzzles and adversity, and will deliberately make an easy job harder for the sport of it. This makes them brilliant in a crisis and hopeless at anything they find dull, and they drift naturally toward gambling dens and swoop-duelling circuits. |
 | --- |
@@ -1620,7 +1846,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kubaz](https://starwars.fandom.com/wiki/Kubaz/Legends)
 
-`[review]`
+![Kubaz](File:SL100 Species Kubaz.jpg)
+
+`[sl100]`
 
 | Green-black-skinned insectivores of Kubindi in the Outer Rim, bipedal with bristly hair, two-toed feet and a short prehensile snout evolved for probing insect hives. Their blue sun left them sensitive to red light, so under yellow or red stars Kubaz wear dark protective goggles, which gives them a furtive look that belies a refined culture of art, theatre and cuisine admired even at the Imperial court. They are clannish and family-centred, the elders reigning while the eldest three siblings run family business. |
 | --- |
@@ -1632,7 +1860,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kushiban](https://starwars.fandom.com/wiki/Kushiban)
 
-`[review]`
+![Kushiban](File:SL100 Species Kushiban.jpg)
+
+`[sl100]`
 
 | Sentient lagomorphs of Kushibah in the Outer Rim, barely half a metre long, with two large expressive ears and "mood fur" that is white when calm and shifts colour with their feelings. Physically weak but quick, hard to hit and disarmingly innocent-looking, Kushibans see themselves as a simple village people and are so rarely met offworld that one was once exhibited in an illegal zoo. Jedi Master Ikrit, apprentice of Yoda and guardian of the Golden Globe on Yavin 4, was a Kushiban. |
 | --- |
@@ -1644,7 +1874,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Kyuzo](https://starwars.fandom.com/wiki/Kyuzo/Legends)
 
-`[review]`
+![Kyuzo](File:SL100 Species Kyuzo.jpg)
+
+`[sl100]`
 
 | Green-skinned, yellow-eyed humanoids of an Outer Rim world, famed as fast runners and prodigious leapers. Kyuzo culture produces highly capable warriors with exacting standards of personal honour, a code that persists even among the go-zeki, the honour-fanatic Kyuzo gangsters whose skin is charred orange in their initiation rites. The bounty hunter Embo, active throughout the Clone Wars, is the best-known Kyuzo in the galaxy. |
 | --- |
@@ -1656,7 +1888,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Lannik](https://starwars.fandom.com/wiki/Lannik/Legends)
 
-`[review]`
+![Lannik](File:SL100 Species Lannik.jpg)
+
+`[sl100]`
 
 | Stocky, short humanoids of the harsh Mid Rim world Lannik, a hereditary monarchy that joined galactic civilisation late and has suffered thousands of years of wars, unrest and criminal upheaval ever since. That perpetual struggle made the Lanniks a culture of fierce but honourable warriors with no patience for negotiation, and chronic technological backwardness has kept their world isolated under Republic, Empire and New Republic alike. Jedi Master Even Piell was a Lannik. |
 | --- |
@@ -1668,7 +1902,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Lepi](https://starwars.fandom.com/wiki/Lepi/Legends)
 
-`[review]`
+![Lepi](File:SL100 Species Lepi.jpg)
+
+`[sl100]`
 
 | Sentient rabbits of Coachelle Prime, properly Lepus carnivorus, with green to dark-blue fur, long ears, long feet and prominent buck teeth. Their prodigious birth rate forced them to develop stardrives and colonise every world of their system, and Lepi remain constantly in motion, gesticulating wildly as they talk and running everywhere. Gregarious and good-natured, they flare into sudden anger when family or species is insulted; the smuggler Jaxxon, who fought beside Han Solo on Aduba-3, is the most famous of them. |
 | --- |
@@ -1680,7 +1916,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Lorrdian](https://starwars.fandom.com/wiki/Lorrdian/Legends)
 
-`[review]`
+![Lorrdian](File:SL100 Species Lorrdian.jpg)
+
+`[sl100]`
 
 | Genetically baseline Humans of Lorrd in the Kanz sector, counted as Near-Humans because of a culture forged in three centuries of slavery under the Argazdan Myrialites, who forbade them to speak on pain of death. The Lorrdians answered with "kinetic communication", a complete language of gesture, posture and expression, and learned to read the body language of others with uncanny accuracy. By the Imperial era they were the galaxy's finest mimics, able to copy voices and mannerisms of Humans and many non-Humans alike. |
 | --- |
@@ -1692,7 +1930,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Lutrillian](https://starwars.fandom.com/wiki/Lutrillian/Legends)
 
-`[review]`
+![Lutrillian](File:SL100 Species Lutrillian.jpg)
+
+`[sl100]`
 
 | Broad-faced, wrinkled humanoids of Lutrillia in the Yarith sector of the Outer Rim, with pointed ears, cheek-hair, thick skin and a layer of insulating blubber. On their flat, cold homeworld they live aboard enormous wheeled platform-cities that roll endlessly around the equator, a mechanised version of the nomadic life they evolved to escape subterranean predators. Lutrillians love adventure, high stakes and risk, which makes them natural entrepreneurs, salesbeings and, occasionally, crime lords across the Greater Javin. |
 | --- |
@@ -1704,7 +1944,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Massassi](https://starwars.fandom.com/wiki/Massassi/Legends)
 
-`[review]`
+![Massassi](File:SL100 Species Massassi.jpg)
+
+`[sl100]`
 
 | The warrior caste of the red-skinned Sith species of Korriban, bred and enslaved by the exiled Dark Jedi who became the Sith Lords, with simian mouths, small noses and sharp predatory features. Massassi are fearsome, utterly loyal and formidable in battle, fighting in alchemically hardened armour with the lanvarok, but by the time of Exar Kun most had devolved into brutes that lived only to serve their master. Scattered survivors clung on in isolated villages or served the later Sith Empire; they belong to the ancient Sith and Old Republic eras. |
 | --- |
@@ -1716,7 +1958,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Meerian](https://starwars.fandom.com/wiki/Meerian/Legends)
 
-`[review]`
+![Meerian](File:SL100 Species Meerian.jpg)
+
+`[sl100]`
 
 | Short, wiry Near-Humans of the polluted mining world Bandomeer in the Outer Rim, averaging 1.1 to 1.6 metres, with pale skin, silver-to-gold hair and pupil-less eyes of the same colour. Centuries of foul air left them able to filter toxins through nose and tongue, and they are surprisingly strong for their size. Slow, deliberate, optimistic and agreeable, Meerians can always see both sides of an argument, which makes them sympathetic company and poor at reaching decisions; they insist on speaking eye to eye, hovering on repulsor seats to meet taller beings. |
 | --- |
@@ -1728,7 +1972,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Menahuun](https://starwars.fandom.com/wiki/Menahuun)
 
-`[review]`
+![Menahuun](File:SL100 Species Menahuun.jpg)
+
+`[sl100]`
 
 | Furry, lemur-like arboreal mammals of Lamaredd, about 120 centimetres tall with long arms, opposable digits on hands and feet and huge black eyes that see shapes in total darkness but no colour. Once peaceful nomadic hunter-gatherers, the Menahuun were hunted almost to extinction and exiled from their lands five centuries before the Empire, and have since become combative, cunning and bitterly hostile to any uninvited intruder on their world, settling disputes by duel and open war. Offworlders dismiss them as "little buggers" or gremlins; they live only about fifty-five years. |
 | --- |
@@ -1740,7 +1986,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Mirialan](https://starwars.fandom.com/wiki/Mirialan/Legends)
 
-`[review]`
+![Mirialan](File:SL100 Species Mirialan.jpg)
+
+`[sl100]`
 
 | Near-Humans of Mirial, with skin from yellow-green to nearly Human pallor, traditionally marked with geometric facial tattoos. Physiologically almost identical to Humans, Mirialans are set apart by great flexibility, agility and extremely quick reflexes, which give them the edge in athletics and the martial arts. Their culture understands the Force as fate, and even non-sensitives trust that it guides their lives; Mirialans such as Luminara Unduli and Barriss Offee have always had a presence in the Jedi Order. |
 | --- |
@@ -1752,7 +2000,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Mon Calamari](https://starwars.fandom.com/wiki/Mon_Calamari/Legends)
 
-`[review]`
+![Mon Calamari](File:SL100 Species Mon Calamari.jpg)
+
+`[sl100]`
 
 | Amphibious, fish-like humanoids of the ocean world Dac in the Outer Rim, 1.3 to 1.8 metres tall with salmon-coloured skin, webbed hands, high-domed heads and huge eyes, smelling faintly of salt and sea. Soft-spoken, gentle and inquisitive, they are slow to anger and famous for a concentration that emotion cannot shake. Once among the most peaceful peoples of the galaxy, the Mon Calamari turned their beautiful liners into warships for the Rebel Alliance and proved brilliant officers, tacticians and pilots, a martial turn they never fully abandoned under the New Republic. |
 | --- |
@@ -1764,7 +2014,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Morseerian](https://starwars.fandom.com/wiki/Morseerian/Legends)
 
-`[review]`
+![Morseerian](File:SL100 Species Morseerian.jpg)
+
+`[sl100]`
 
 | Four-armed methane-breathers of the secret world Morseer and its colonies, 1.5 to 1.7 metres tall, with elongated scaled heads, pupil-less black eyes and semitransparent skin through which their organs can be seen. In oxygen atmospheres they appear only in full environment suits and breath masks, and they prefer to crew methane-rigged ships with others who can share their air. A reserved and secretive people, Morseerians would rather die than reveal their homeworld, and Imperial attempts to find it drove many quietly into the Rebellion; Nabrun Leids the smuggler-pilot was one of them. |
 | --- |
@@ -1776,7 +2028,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Mrlssi](https://starwars.fandom.com/wiki/Mrlssi)
 
-`[review]`
+![Mrlssi](File:SL100 Species Mrlssi.jpg)
+
+`[sl100]`
 
 | Flightless, grey-feathered avians of Mrlsst in the Tapani sector, under a metre tall, with bare heads fringed by feathers that grow more colourful with age. Their unstable young world taught them that buildings and possessions perish but knowledge endures, and the Mrlssi reverse-engineered hyperdrives within a generation of contact and built the finest universities in the sector. They think of themselves as great humorists, though offworlders rarely understand the joke; abroad they serve as political aides, scientists and tech specialists, and a fair number were found to be Force-sensitive before the Empire. |
 | --- |
@@ -1788,7 +2042,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Murachaun](https://starwars.fandom.com/wiki/Murachaun)
 
-`[review]`
+![Murachaun](File:SL100 Species Murachaun.jpg)
+
+`[sl100]`
 
 | Reptilian humanoids of Nahsu Minor near the Perlemian Trade Route, standing two metres or more and covered in blue, burgundy or red scales. Herbivorous, hard-working, orderly and outgoing, they joined with the Ktilac and Tocoyans to form the confederation of the Ktilac Regions, an Allied Region of the Old Republic ruling some 189 systems. Enslaved by the Empire, the Murachaun resisted covertly throughout the occupation, and the Regions kept their allied status under the New Republic and Galactic Alliance. |
 | --- |
@@ -1800,7 +2056,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Mustafarian](https://starwars.fandom.com/wiki/Mustafarian/Legends)
 
-`[review]`
+![Mustafarian](File:SL100 Species Mustafarian.jpg)
+
+`[sl100]`
 
 | Insectoid extremophiles of the volcanic Outer Rim world Mustafar, where they mine the lava flows for minerals with a resilience no other species could match. Two subspecies share the planet: the taller, thinner northern Mustafarians and the smaller, stockier and hardier southerners who do the heavy work closest to the fire. Clannish and industrious, they are seldom seen offworld, though at least one took up bounty hunting in Jabba the Hutt's employ. |
 | --- |
@@ -1812,7 +2070,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Muun](https://starwars.fandom.com/wiki/Muun/Legends)
 
-`[review]`
+![Muun](File:SL100 Species Muun.jpg)
+
+`[sl100]`
 
 | Tall, gaunt humanoids of the mineral-rich Core world Muunilinst, with smooth elongated craniums, humped noses and three hearts. Muuns founded the InterGalactic Banking Clan and are known everywhere for a cold genius with figures and finance, a reputation so valuable that even the Empire exempted them from its persecution of non-Humans. Chairman San Hill bankrolled the Confederacy while his bank also lent to the Republic, which says most of what the galaxy thinks of Muun loyalties. |
 | --- |
@@ -1824,7 +2084,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Myneyrsh](https://starwars.fandom.com/wiki/Myneyrsh)
 
-`[review]`
+![Myneyrsh](File:SL100 Species Myneyrsh.jpg)
+
+`[sl100]`
 
 | Tall, thin natives of the forest world Wayland in the Outer Rim, with smooth blue crystalline flesh and two stacked torsos, each bearing a pair of long muscular arms. The Myneyrshi are a primitive, intensely ritualistic people, perpetually at war with Wayland's other natives, the Psadans, and they are superb hunters and trackers who move through the forest without a sound; Luke Skywalker compared their awareness to that of a Force-sensitive. Enslaved by Joruus C'baoth and later nearly wiped out by the Yuuzhan Vong, they matter chiefly in the New Republic era. |
 | --- |
@@ -1836,7 +2098,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Nagai](https://starwars.fandom.com/wiki/Nagai/Legends)
 
-`[review]`
+![Nagai](File:SL100 Species Nagai.jpg)
+
+`[sl100]`
 
 | Tall, thin Near-Humans of Nagi in the Firefist satellite galaxy beyond the Unknown Regions, with chalk-pale skin, jet-black hair, grey eyes and sharp angular features, called "the Knives" by those who met them in battle. Nagai are devoted to family and bound by a strict personal honour, but care little for anyone outside their own blood unless honour or profit demands it. They are known in the main galaxy chiefly from their invasion shortly after the Battle of Endor; Darth Nihl of Darth Krayt's Sith was a Nagai a century later. |
 | --- |
@@ -1848,7 +2112,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Nazzar](https://starwars.fandom.com/wiki/Nazzar/Legends)
 
-`[review]`
+![Nazzar](File:SL100 Species Nazzar.jpg)
+
+`[sl100]`
 
 | Powerfully built, agile humanoids of Nazzri in the Mid Rim, about two metres tall, with elongated equine heads, long limp ears, four-fingered hands and dark skin under a fine coat of grey to navy fur. Noble, contemplative and spiritual, the Nazzar follow the Ulizra, a strict faith holding that outsiders taint Nazzar culture and that the group always outweighs the individual. Mildly xenophobic, they ignored the galaxy under Empire and New Republic alike, and the only Nazzar found offworld are outcasts; the Jedi Qrrrl Toq died in the Great Sith War. |
 | --- |
@@ -1860,7 +2126,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Neimoidian](https://starwars.fandom.com/wiki/Neimoidian/Legends)
 
-`[review]`
+![Neimoidian](File:SL100 Species Neimoidian.jpg)
+
+`[sl100]`
 
 | Distant genetic cousins of the Duros from the foggy, humid Colonies world Neimoidia and its purse-worlds such as Cato Neimoidia, with noseless grey-green faces, horizontally split pupils, forehead lumps and down-turned mouths. Raised as grubs in communal hives where only the greediest survive, Neimoidians value wealth and possessions above everything and built the Trade Federation to get them. They are stereotyped, not unfairly, as greedy, cowardly and easily intimidated, and they loathe combat; Nute Gunray and Lott Dod personified the type during the Clone Wars. |
 | --- |
@@ -1872,7 +2140,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Nelvaanian](https://starwars.fandom.com/wiki/Nelvaanian/Legends)
 
-`[review]`
+![Nelvaanian](File:SL100 Species Nelvaanian.jpg)
+
+`[sl100]`
 
 | Blue-furred, long-snouted lupine humanoids of the icy Outer Rim world Nelvaan, which they worship as the Great Mother. Nelvaanian males are warriors and scouts, females builders and gatherers, and each tribe is led by an elected chieftain and a shaman who keeps its spiritual rites. During the Clone Wars General Grievous, struck by their likeness to his own Kaleesh, lured the warriors of Rokrul village into a Techno Union laboratory to be mutated into cyborg soldiers until Anakin Skywalker freed them. |
 | --- |
@@ -1884,7 +2154,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Neti](https://starwars.fandom.com/wiki/Neti/Legends)
 
-`[review]`
+![Neti](File:SL100 Species Neti.jpg)
+
+`[sl100]`
 
 | Sentient plants of Myrkr in the Mid Rim, able to reshape their woody bodies from a rooted tree-form to a rough humanoid, and immensely long-lived. Neti are among the rarest of sentient peoples, strongly tied to the Force, and several served the Jedi Order in the days of the Old Republic. By the era of the Second Galactic Civil War the galaxy at large thought them a myth. |
 | --- |
@@ -1896,7 +2168,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Nikto](https://starwars.fandom.com/wiki/Nikto/Legends)
 
-`[review]`
+![Nikto](File:SL100 Species Nikto.jpg)
+
+`[sl100]`
 
 | Leathery reptilian humanoids of Kintan in the Si'Klaata Cluster of Hutt Space, about 1.8 metres tall, with faces that scarcely move and a scatter of small horns and spikes that vary by subspecies: the desert-bred Kajain'sa'Nikto, the forest and coastal Kadas'sa'Nikto with their climbing claws, the fin-headed Esral'sa'Nikto of the mountains, the seafaring Gluss'sa'Nikto and the southern M'shento'su'Nikto. Like the Klatooinians, the Nikto have served the Hutts since the Treaty of Vontor, and the galaxy knows them as hard, stolid enforcers and warriors, the Morgukai among them. |
 | --- |
@@ -1908,7 +2182,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Noehon](https://starwars.fandom.com/wiki/Noehon)
 
-`[review]`
+![Noehon](File:SL100 Species Noehon.jpg)
+
+`[sl100]`
 
 | Small, four-armed arboreal insectoids of Noe'ha'on in the Expansion Region, with large red compound eyes, heavy mandibles, musk glands and a soft bristly carapace mottled green. Noehon society is a rigid, brutal hierarchy of slaves and slavers, and the species is known across the galaxy for both roles, though Noehons raised offworld show a gift for organisation that serves them well in technical and bureaucratic work. Accustomed to hanging upside down in the jungle canopy, they are untroubled by zero gravity. |
 | --- |
@@ -1920,7 +2196,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Noghri](https://starwars.fandom.com/wiki/Noghri/Legends)
 
-`[review]`
+![Noghri](File:SL100 Species Noghri.jpg)
+
+`[sl100]`
 
 | Small, hairless, steel-grey or blue-skinned predators of Honoghr in the Outer Rim, heavily muscled and sinewy, with toothy snouts, claws and quick eyes. Noghri are arguably the galaxy's finest natural assassins, silent, agile and blindingly fast, with a sense of smell keen enough to read a being's bloodline, which is how Khabarakh knew Leia Organa Solo for the daughter of Darth Vader. Their clan society is built on honour above all; Vader bound them to the Empire with false promises of aid for their poisoned world, and the Death Commandos served until Leia revealed the deceit. |
 | --- |
@@ -1932,7 +2210,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Nosaurian](https://starwars.fandom.com/wiki/Nosaurian/Legends)
 
-`[review]`
+![Nosaurian](File:SL100 Species Nosaurian.jpg)
+
+`[sl100]`
 
 | Scaled, bipedal reptilians of New Plympto in the Core Worlds, crowned with a row of long horns and armed with a beakful of sharp teeth, able to flash light from inside the mouth for silent signalling across distance. Naturally even-tempered, Nosaurians were soured by generations of Corellian and Republic exploitation of their rikknit-egg trade, joined the Confederacy, fought on after the Clone Wars and were crushed and enslaved by the Empire. Colour-blind and compelled to bray the sun down at dusk, emigrant Nosaurians drift to the fringe or into thrill-seeking trades like podracing. |
 | --- |
@@ -1944,7 +2224,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Nuknog](https://starwars.fandom.com/wiki/Nuknog/Legends)
 
-`[review]`
+![Nuknog](File:SL100 Species Nuknog.jpg)
+
+`[sl100]`
 
 | Stocky, long-necked reptilians of the ruined mining world Sump, about 1.2 metres tall, with bulbous ridged heads, short legs and beaked mouths. Nuknog have small brains and shorter tempers, but their keen eyes, sharp hearing and nimble hands make them surprisingly good at delicate technical work. Their leaders sold Sump to a mining consortium a thousand years before the Battle of Yavin, and centuries of toxic drudgery followed by Republic charity left the species poor, suspicious and quick to take offence. |
 | --- |
@@ -1956,7 +2238,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Omwati](https://starwars.fandom.com/wiki/Omwati/Legends)
 
-`[review]`
+![Omwati](File:SL100 Species Omwati.jpg)
+
+`[sl100]`
 
 | Lithe, bird-like Near-Humans of Omwat, with blue skin that darkens with emotion, large eyes and a feathery crest. Omwati have remarkably pliant minds: a properly coached child can absorb and retain knowledge far beyond most sentients, and the species is renowned for science, engineering and music, though too much pressure can collapse a promising mind entirely. Grand Moff Tarkin exploited that gift with terrible cruelty, destroying cities to drive students like Qwi Xux into weapons research; a naive and peaceful people, they joined the New Republic after developing their own hyperdrive. |
 | --- |
@@ -1968,7 +2252,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ongree](https://starwars.fandom.com/wiki/Ongree/Legends)
 
-`[review]`
+![Ongree](File:SL100 Species Ongree.jpg)
+
+`[sl100]`
 
 | Amphibious humanoids of Skustell in the Skustell Cluster, with yellow or brown skin, tapering heads and flexible eyestalks on either side, their lipless mouths set above four nostrils so that the face appears upside down. Despite a humpbacked, awkward look and thick two-fingered hands, Ongree are agile and deft. Because their eyestalks let them see an object from several angles, they are credited with seeing every side of a question, and many become skilled negotiators, diplomats and politicians; the Jedi Masters Pablo-Jill and Coleman Kcaj were Ongree, as was the corrupt Coruscant mayor Acros-Krik. |
 | --- |
@@ -1980,7 +2266,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ortolan](https://starwars.fandom.com/wiki/Ortolan/Legends)
 
-`[review]`
+![Ortolan](File:SL100 Species Ortolan.jpg)
+
+`[sl100]`
 
 | Squat, heavily built bipeds of the frigid, mineral-rich world Orto, with trunk-like noses, beady black eyes, small mouths and large floppy ears that are exquisitely sensitive to sound. A velvety hide, often dyed in bright colours, covers a thick layer of blubber that warms them and sustains them when food is scarce. Ortolans are born fully toothed and are expected to support themselves by age seven; their barter society is industrialised but not advanced, and their best-known sons are the musician Max Rebo and the Jedi Knight Nem Bees, who led the resistance on occupied Orto. |
 | --- |
@@ -1992,7 +2280,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Pa'lowick](https://starwars.fandom.com/wiki/Pa'lowick/Legends)
 
-`[review]`
+![Pa'lowick](File:SL100 Species Pa'lowick.jpg)
+
+`[sl100]`
 
 | Amphibians of the salt marshes of Lowick in the Outer Rim, with globular bodies perched on thin gangly legs, slender arms, eyes on stalks and a long proboscis ending in surprisingly Human-like lips; one subspecies keeps its tusks for life, the other loses them by middle age. A shy, traditional farming people ruled by royal families, the Pa'lowick keep their history in song, and their powerful lungs make them superb singers, as Sy Snootles of the Max Rebo Band and Miss Coruscant Larisselle Chatrunis proved. They welcome offworld technology but their world stays isolated and little known. |
 | --- |
@@ -2004,7 +2294,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Pacithhip](https://starwars.fandom.com/wiki/Pacithhip/Legends)
 
-`[review]`
+![Pacithhip](File:SL100 Species Pacithhip.jpg)
+
+`[sl100]`
 
 | Short, squat pachydermoid bipeds of Shimia in the Outer Rim, with rough blue, green or grey skin, long thick tails, a trunk flanked by four nostrils and two elaborate tusks whose pattern fixes their caste as scholar, warrior or farmer. Slow on their stumpy legs, Pacithhip often wear robotic stilts to reach humanoid height and use humanoid-scaled gear, and their deep gravelly voices are heard in spaceports along the Corellian Run. Broad-minded and adaptable, those who reject the caste system seek their fortune offworld as animal breeders, prospectors and podracers, like Ketwol of Chalmun's Cantina. |
 | --- |
@@ -2016,7 +2308,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Paigun](https://starwars.fandom.com/wiki/Paigun)
 
-`[review]`
+![Paigun](File:SL100 Species Paigun.jpg)
+
+`[sl100]`
 
 | Toadlike sapients of storm-wracked Paigu in the Outer Rim, Paiguns have the gaunt, elongated build of a Muun beneath knobby, scaly skin and a tall, lengthened skull. They are famous for their devotion to mathematics and logic, and their amptech engineers keep the colossal lightning rods that power their cities running. Paiguns dislike fighting and would much rather hire others to do it for them. |
 | --- |
@@ -2028,7 +2322,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Pau'an](https://starwars.fandom.com/wiki/Pau'an/Legends)
 
-`[review]`
+![Pau'an](File:SL100 Species Pau'an.jpg)
+
+`[sl100]`
 
 | Gaunt, grey-skinned near-Humans of the sinkhole world Utapau in the Outer Rim, Pau'ans stand around 1.9 metres with long arms, long fingers and sharp carnivore teeth. Their centuries-long lives earned them the name "Ancients", and they fill the leadership posts on their world alongside the smaller Utai. Offworlders often find them frightening at first sight, but Pau'ans are courteous hosts and resisted both the Confederacy and the Empire. |
 | --- |
@@ -2040,7 +2336,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Phindian](https://starwars.fandom.com/wiki/Phindian/Legends)
 
-`[review]`
+![Phindian](File:SL100 Species Phindian.jpg)
+
+`[sl100]`
 
 | The gangly, mournful-faced natives of Phindar have arms that hang past their knees, dark green or brown skin and pale rings around their golden eyes. For centuries the criminal Syndicat ruled them through mind-wiping "renewal", until Qui-Gon Jinn helped them win free. Phindians are cautious about risking their necks, love sarcasm, exaggeration and talking around a subject, yet are deeply loyal to family and friends; they are surprisingly quick when loping on all four limbs. |
 | --- |
@@ -2052,7 +2350,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Pho Ph'eahian](https://starwars.fandom.com/wiki/Pho_Ph'eahian)
 
-`[review]`
+![Pho Ph'eahian](File:SL100 Species Pho Ph'eahian.jpg)
+
+`[sl100]`
 
 | Four-armed, blue-furred humanoids from the cool, dim mountain world of Pho Ph'eah in the Outer Rim, Pho Ph'eahians are gregarious, cheerful beings who love being the centre of attention. Contact with the Republic turned them into exporters of agricultural technology, weapons and hyperdrives, and offworld they thrive as entertainers and well-paid starship mechanics, especially in the Corporate Sector. They treat their bodies as sacred and are fastidious about cleanliness. |
 | --- |
@@ -2064,7 +2364,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Psadan](https://starwars.fandom.com/wiki/Psadan)
 
-`[review]`
+![Psadan](File:SL100 Species Psadan.jpg)
+
+`[sl100]`
 
 | One of the two native peoples of Wayland in the Outer Rim, the Psadan are lumpy, slow-moving carnivores whose bodies are sheathed in armour-like bony plates. Most never leave the forests of their homeworld, but the few who do turn up in cantinas and on fringe stations, where their hide and patience make them useful hired muscle. |
 | --- |
@@ -2076,7 +2378,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Quarren](https://starwars.fandom.com/wiki/Quarren/Legends)
 
-`[review]`
+![Quarren](File:SL100 Species Quarren.jpg)
+
+`[sl100]`
 
 | Squid-headed amphibians of the deep oceans of Dac, Quarren share their world with the Mon Calamari and have fought and resented them for millennia. Their leathery skin, prehensile facial tentacles and dive-adapted bodies suit the pressures 300 metres down. Suspicious, pragmatic and quick to take offence, Quarren are found across the galaxy as miners, shipwrights, smugglers and efficient managers for crime syndicates such as the Exchange. |
 | --- |
@@ -2088,7 +2392,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Quermian](https://starwars.fandom.com/wiki/Quermian/Legends)
 
-`[review]`
+![Quermian](File:SL100 Species Quermian.jpg)
+
+`[sl100]`
 
 | Engineered by Arkanian geneticists from Xexto stock some 17,000 years before Yavin, the Quermians of the garden world Quermia are tall, spindly beings with serpentine necks, bulbous heads fixed in a bemused smile and two pairs of thin arms, the lower pair usually hidden under their robes. A second brain in the chest grants a mild telepathy, and the species' peaceful philosophers and diplomats are famous across the Republic; many Quermians serve in the Jedi Order. |
 | --- |
@@ -2100,7 +2406,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Rakata](https://starwars.fandom.com/wiki/Rakata/Legends)
 
-`[review]`
+![Rakata](File:SL100 Species Rakata.jpg)
+
+`[sl100]`
 
 | The Builders of ancient Lehon were lean, smooth-skinned amphibian humanoids with tall craniums, eyes on short horizontal stalks and three-fingered clawed hands. Fed on the dark side and Kwa technology, their Infinite Empire enslaved most of the known galaxy and invented the hyperdrive; they stripped worlds bare, slaughtered slave populations and ate their enemies. Cruel, arrogant and merciless, the Rakata are an ancient-era species (the Infinite Empire and its fall); later survivors are degenerate tribes on Lehon. |
 | --- |
@@ -2112,7 +2420,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ranat](https://starwars.fandom.com/wiki/Ranat/Legends)
 
-`[review]`
+![Ranat](File:SL100 Species Ranat.jpg)
+
+`[sl100]`
 
 | Metre-tall rodents with long tusk-like incisors jutting from the lower jaw and sharp digging claws, the Ranats (Con Queecon) were nearly wiped out on Rydar II and re-established themselves from three stowaways on Aralia, where their tribes dig maze-like warrens and lure intruders into dead ends. Officially semi-sentient, Ranats show little beyond hunger and hostility, but offworld they survive as scroungers, traders and cheap mercenaries in the lowest tiers of places like Mos Eisley. |
 | --- |
@@ -2124,7 +2434,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ranth](https://starwars.fandom.com/wiki/Ranth)
 
-`[review]`
+![Ranth](File:SL100 Species Ranth.jpg)
+
+`[sl100]`
 
 | Furred, canine-featured carnivores of the frozen night side of tidally locked Caaraz, the Ranth have flat muzzles, bushy tails, sharp claws and hearing that reaches into the ultrasonic. Before the Empire found them they had already split into city-dwellers building in glacial ice caverns and nomadic hunter clans with no machines at all. Both are short-tempered, family-bound peoples; nomads are passionate and determined, city Ranth introspective and prone to apathy. |
 | --- |
@@ -2136,7 +2448,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Rattataki](https://starwars.fandom.com/wiki/Rattataki/Legends)
 
-`[review]`
+![Rattataki](File:SL100 Species Rattataki.jpg)
+
+`[sl100]`
 
 | Chalk-white, hairless near-Humans of the harsh Outer Rim world Rattatak, thought to descend from a lost Republic expedition, the Rattataki built an isolated society around warlords and gladiatorial arenas where every tribe invents new ways to kill. Their combat prowess drew Sith attention in the Great Galactic War, and a notable minority are Force-sensitive. Offworld they are prized and feared as fighters and mercenaries. |
 | --- |
@@ -2148,7 +2462,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Rodian](https://starwars.fandom.com/wiki/Rodian/Legends)
 
-`[review]`
+![Rodian](File:SL100 Species Rodian.jpg)
+
+`[sl100]`
 
 | Green-skinned reptilian humanoids of jungle-covered Rodia in the Tyrius system, Rodians have multifaceted eyes, a flexible snout that filters air for their superb sense of smell, and long sucker-tipped fingers from an arboreal past. Their clan culture was forged by hunting the ghests and other predators of their swamps, and the galaxy knows them chiefly as bounty hunters and criminal henchmen, though Rodian merchants, artists, senators and Jedi are far from rare. |
 | --- |
@@ -2160,7 +2476,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ruurian](https://starwars.fandom.com/wiki/Ruurian/Legends)
 
-`[review]`
+![Ruurian](File:SL100 Species Ruurian.jpg)
+
+`[sl100]`
 
 | The insectoid Ruurians of Ruuria pass through three life stages, and it is the fourteen-legged larva, with its fine antennae, faceted eyes and four opposable fingers on every limb, that is the thinking, creative stage which runs the 143 colonies of their world. Cautious to a fault, Ruurian larvae are scholars, historians, artists and occasional bounty hunters; eventually they spin a cocoon and emerge as simple-minded Chroma-Wing Fliers interested only in eating, flying and mating. |
 | --- |
@@ -2172,7 +2490,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Rybet](https://starwars.fandom.com/wiki/Rybet/Legends)
 
-`[review]`
+![Rybet](File:SL100 Species Rybet.jpg)
+
+`[sl100]`
 
 | Squat, smooth-skinned amphibians with bulbous slit-pupilled eyes, webbed suction-tipped hands and a long purple tongue they fire at flying insects, the Rybets claim to hail from Varl and to have destroyed it in a war with the Hutts, a boast the Hutts find mildly amusing. Females stand up to 1.9 metres, males barely 1.5. Opportunistic, nomadic spacers with a loose grip on ethics, Rybets are born as blind four-armed larvae and metamorphose into adults after a single season. |
 | --- |
@@ -2184,7 +2504,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ryn](https://starwars.fandom.com/wiki/Ryn/Legends)
 
-`[review]`
+![Ryn](File:SL100 Species Ryn.jpg)
+
+`[sl100]`
 
 | A homeless humanoid people of the Core, the Ryn have white hair, long fingers, large prehensile tails and beak-like noses they play as flutes, able to pitch notes precisely enough to summon droids. Secretive, musical, fastidiously clean and fond of confidence games, they claim to have invented sabacc as a tool of divination. Prejudice follows them everywhere, and in some sectors hunting or enslaving Ryn is legal, which has driven most to the Corporate Sector; during the Yuuzhan Vong War their refugee information network was second to none. |
 | --- |
@@ -2196,7 +2518,9 @@ Average height 2.23 – 2.54 meters
 
 ### [S'kytri](https://starwars.fandom.com/wiki/S'kytri)
 
-`[review]`
+![S'kytri](File:SL100 Species S'kytri.jpg)
+
+`[sl100]`
 
 | The Windborn of Skye (Imperial Marat V) are tall, lean, muscular winged humanoids with vivid non-Human skin tones and clan markings, counted among the most beautiful peoples in the galaxy. Their mountain cities are ruled by a Supreme Council and an alternating Patriarch, and their reputation is that of noble warrior bards. Loyal to the Jedi since the Clone Wars, the S'kytri were condemned to servitude by the Empire under the collaborator Kharys. |
 | --- |
@@ -2208,7 +2532,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Saheelindeeli](https://starwars.fandom.com/wiki/Saheelindeeli)
 
-`[review]`
+![Saheelindeeli](File:SL100 Species Saheelindeeli.jpg)
+
+`[sl100]`
 
 | Green-furred, ape-like primates of the Outer Rim world Saheelindeel, the Saheelindeeli live in a matriarchal society that was only beginning to adopt automation around the time of the Battle of Yavin. Strong, agile climbers at home in the wild, they are rare offworld and generally regarded by spacers as rustic locals. |
 | --- |
@@ -2220,7 +2546,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sakiyan](https://starwars.fandom.com/wiki/Sakiyan/Legends)
 
-`[review]`
+![Sakiyan](File:SL100 Species Sakiyan.jpg)
+
+`[sl100]`
 
 | Hairless, slit-pupilled, pointed-eared humanoids of Saki in Hutt Space, Sakiyans descend from predators and it shows: a brain twice the Human size devoted largely to sensory processing, infrared sight, motion-sensitive peripheral vision, and hearing and smell so keen they can track days-old trails, all on a frame half again as strong as a Human's. Honour, personal and familial, governs their lives; humourless, cautious and clannish, they are sought after as assassins and bounty hunters, and were one of the few peoples to resist Hutt conquest. |
 | --- |
@@ -2232,7 +2560,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sanyassan](https://starwars.fandom.com/wiki/Sanyassan/Legends)
 
-`[review]`
+![Sanyassan](File:SL100 Species Sanyassan.jpg)
+
+`[sl100]`
 
 | Two-metre reptilian humanoids with scaly skin and simian faces from stormy Sanyassa IV in the Moddell sector, the Sanyassans fell from an advanced civilisation to feudal savagery after the Din supernova and now live in a might-makes-right caste society. Known to the galaxy only as "marauders", they have pirated the Moddell sector since antiquity, and a shipload of them crash-landed on Endor to found King Terak's raiders. Fierce, short-tempered and not overly bright, they find work as bodyguards and mercenaries. |
 | --- |
@@ -2244,7 +2574,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sarkan](https://starwars.fandom.com/wiki/Sarkan/Legends)
 
-`[review]`
+![Sarkan](File:SL100 Species Sarkan.jpg)
+
+`[sl100]`
 
 | Tall cold-blooded reptilians of Sarka, often over two metres with thick scales, sharp fangs, small finger claws and yellow eyes that see well in the dark, the Sarkans live in luxurious cave cities warmed by hot springs beside their gem mines. Immensely wealthy and obsessed with elaborate protocol, they never developed space travel and rarely leave home, preferring to let "foolish aliens" come to their resorts to buy gemstones; an unreturned formal greeting has cost SoroSuub years of trade. |
 | --- |
@@ -2256,7 +2588,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Saurin](https://starwars.fandom.com/wiki/Saurin/Legends)
 
-`[review]`
+![Saurin](File:SL100 Species Saurin.jpg)
+
+`[sl100]`
 
 | A Trandoshan subspecies from Durkteel in the Kashyyyk Region, the Saurin share their cousins' knobby scales, broad flat noses, gaping mouths and jagged teeth but have five-fingered hands and three-toed feet, and range from short and wiry to tall and muscular. Humourless and stoic, Saurin spacers are found galaxy-wide as thugs, combat instructors, bodyguards and droid dealers, and many joined the Rebel Alliance. |
 | --- |
@@ -2268,7 +2602,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Selkath](https://starwars.fandom.com/wiki/Selkath/Legends)
 
-`[review]`
+![Selkath](File:SL100 Species Selkath.jpg)
+
+`[sl100]`
 
 | The amphibious Selkath of ocean-covered Manaan resemble upright sting rays, with camouflage-patterned blue, pink or green skin and cephalic lobes they stroke while talking. Sole suppliers of the healing agent kolto, they wielded great diplomatic weight in the Jedi Civil War through strict neutrality, then faded when bacta replaced kolto. Every Selkath carries retractable venomed claws, but using them in a fight is held to be a sign of madness. |
 | --- |
@@ -2280,7 +2616,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Selonian](https://starwars.fandom.com/wiki/Selonian/Legends)
 
-`[review]`
+![Selonian](File:SL100 Species Selonian.jpg)
+
+`[sl100]`
 
 | Two-metre sleek, furred musteline carnivores of Selonia in the Corellian system, Selonians have long flexible spines, needle fangs and claws, and move as easily on four limbs as on two, a legacy of aquatic ancestors. Den-dwellers ruled by fertile queens, with most of the population sterile females, they have a deep psychological need for consensus and are honest among their own but withdrawn and evasive with outsiders. |
 | --- |
@@ -2292,7 +2630,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sephi](https://starwars.fandom.com/wiki/Sephi/Legends)
 
-`[review]`
+![Sephi](File:SL100 Species Sephi.jpg)
+
+`[sl100]`
 
 | Pointed-eared near-Humans of Thustra in the Sumitra sector of the Expansion Region, the Sephi live for more than two centuries and have built a monarchy of great elegance, their sophistication showing even in the delicate lines of their walkers and tanks. Long-standing Republic members and friends of the Jedi, they were drawn into the Clone Wars when King Alaric, once Yoda's friend, sided with the Confederacy. |
 | --- |
@@ -2304,7 +2644,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Shi'ido](https://starwars.fandom.com/wiki/Shi'ido)
 
-`[review]`
+![Shi'ido](File:SL100 Species Shi'ido.jpg)
+
+`[sl100]`
 
 | The shapeshifters of Lao-mon in the Unknown Regions are, in their natural form, pale wide-mouthed humanoids with deep-set eyes, but their pliable flesh, thin dense bones and detachable tendons let them become almost anything of similar mass, from a rock to a monster. Their democratic government keeps the species isolated, and the few abroad are anthropologists, spies, mercenaries and, once, a Dark Lord of the Sith. Jedi texts warn that Shi'ido minds are hard to sway with the Force. |
 | --- |
@@ -2316,7 +2658,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Shistavanen](https://starwars.fandom.com/wiki/Shistavanen/Legends)
 
-`[review]`
+![Shistavanen](File:SL100 Species Shistavanen.jpg)
+
+`[sl100]`
 
 | The "wolfmen" of Uvena Prime are lupine humanoids with pronounced muzzles, claws, long fangs, pointed ears and large glowing eyes, shaped by both evolution and unknown genetic engineers. They can run for hours on two legs or four, and their keen hearing, smell and night sight make them superb trackers, though harsh light, noise and stench pain them. Fiercely isolationist and clannish, Shistavanen who travel become scouts, mercenaries and bounty hunters, and even the Empire hired them to hunt rebels. |
 | --- |
@@ -2328,7 +2672,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sith](https://starwars.fandom.com/wiki/Sith/Legends)
 
-`[review]`
+![Sith](File:SL100 Species Sith.jpg)
+
+`[sl100]`
 
 | Before "Sith" named a dark side religion it named a species: the red-skinned, tendril-faced natives of Korriban and Ziost, conquered and ruled by the exiled Dark Jedi of the Hundred-Year Darkness and gradually interbred with them. Proud, martial and steeped in the dark side from birth, the Sith species raised the tombs of Korriban and furnished the warriors, sorcerers and slaves of the first Sith Empire. An ancient-era species (Old Republic and earlier); pureblood Sith are all but extinct by the Galactic Civil War. |
 | --- |
@@ -2340,7 +2686,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Skakoan](https://starwars.fandom.com/wiki/Skakoan/Legends)
 
-`[review]`
+![Skakoan](File:SL100 Species Skakoan.jpg)
+
+`[sl100]`
 
 | The gaunt, grey-white, toothless humanoids of the Core ecumenopolis Skako breathe methane at crushing pressures and must wear a bulky pressure suit anywhere else, which keeps most of them firmly at home. Xenophobic and intensely technical, they dominated the Techno Union, and Foreman Wat Tambor led it into the Confederacy, for which the Empire later persecuted the entire species. |
 | --- |
@@ -2352,7 +2700,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Skrilling](https://starwars.fandom.com/wiki/Skrilling/Legends)
 
-`[review]`
+![Skrilling](File:SL100 Species Skrilling.jpg)
+
+`[sl100]`
 
 | Stocky, wrinkled grey humanoids from the Mid Rim world the M'shinni call Agriworld-2079, Skrillings have eight breather tubes where a nose should be, rows of tearing teeth, a bony skull ridge and three-fingered vice-grip hands. Carrion-eating scavengers by nature, their ritual of sharing carcasses became, in galactic company, a habit of constant begging and bargaining that annoys nearly everyone, though they are skilled at finding a bargainer's weak spot. They drift to battlefields and odd jobs, spied for the Rebellion, and produced two Jedi Masters. |
 | --- |
@@ -2364,7 +2714,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sluissi](https://starwars.fandom.com/wiki/Sluissi)
 
-`[review]`
+![Sluissi](File:SL100 Species Sluissi.jpg)
+
+`[sl100]`
 
 | The serpent-bodied natives of Sluis Van in the Outer Rim have a humanoid torso with four-fingered hands atop a long, heavily muscled snake's tail, and forked tongues that taste heat. Calm, methodical and allergic to haste, obedient to protocol however trivial, the Sluissi are among the galaxy's most respected starship technicians, compensating for physical frailty with ingenuity; Sluis Van's shipyards have served the Republic, Confederacy, Empire and New Republic in turn. |
 | --- |
@@ -2376,7 +2728,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Snivvian](https://starwars.fandom.com/wiki/Snivvian/Legends)
 
-`[review]`
+![Snivvian](File:SL100 Species Snivvian.jpg)
+
+`[sl100]`
 
 | Mammalian humanoids of frigid Cadomai Prime, Snivvians evolved thick skin instead of fur and are nicknamed "Snaggletooths" for their protruding jaws and short fangs. Their oversized snouts make them fine scouts and trackers, and a history of hardship, including near-extinction at the hands of Thalassian slavers, is poured into celebrated art. Most speak Basic and several other languages. |
 | --- |
@@ -2388,7 +2742,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Spiner](https://starwars.fandom.com/wiki/Spiner)
 
-`[review]`
+![Spiner](File:SL100 Species Spiner.jpg)
+
+`[sl100]`
 
 | The Spiners of Worxer in the Elrood sector are bipedal mammals covered in stiff, barbed quills, the longest on the arms and legs, which they can launch by flexing specific muscles with lethal speed and accuracy out to ten metres; a quick metabolism regrows hundreds of quills during a fight. Their sun went supernova, and the scattered survivors are slowly going sterile for lack of nutrients found only in Elrood, making Spiners a vanishing people. |
 | --- |
@@ -2400,7 +2756,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Squalris](https://starwars.fandom.com/wiki/Squalris)
 
-`[review]`
+![Squalris](File:SL100 Species Squalris.jpg)
+
+`[sl100]`
 
 | Rotund, yellow-skinned humanoids of Ifmix VI in the Colonies, Squalrises average 1.6 metres, with a narrow crest running the length of the skull, bristly facial hair and thick hide that shrugs off minor injury. Fortune and social standing drive them, and natural charm and sociability make them formidable business-beings; Squalris merchants and scoundrels in ostentatious finery have worked the Perlemian Trade Route since the dawn of the Republic. |
 | --- |
@@ -2412,7 +2770,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Squib](https://starwars.fandom.com/wiki/Squib/Legends)
 
-`[review]`
+![Squib](File:SL100 Species Squib.jpg)
+
+`[sl100]`
 
 | Metre-tall, brightly furred humanoids of Skor II with pointed snouts, large eyes and swivelling tufted ears, Squibs taste things by rubbing them on their fur and are insatiably curious, cheerfully overconfident and obsessed with haggling; the surest way to get information from one is to offer a trade. Galactic scavengers and rivals of the Ugors, they salvage, refurbish and resell anything, often through the Squib Merchandising Consortium, and are likeable at first and wearing after a while. |
 | --- |
@@ -2424,7 +2784,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ssi-ruu](https://starwars.fandom.com/wiki/Ssi-ruu)
 
-`[review]`
+![Ssi-ruu](File:SL100 Species Ssi-ruu.jpg)
+
+`[sl100]`
 
 | Large warm-blooded saurians with heavy tails, clawed limbs and scent-tasting tongues, the Ssi-ruuk rule the Ssi-ruuvi Imperium in a star cluster beyond the galactic rim and power their machines by entechment, the draining of living beings' life-energy. Their rigid caste system is read in scale colour, their religion forbids dying on unconsecrated worlds, and they regard other species as livestock. An NJO-era people, known to the galaxy chiefly from the Invasion of Bakura in 4 ABY and its sequel in 28 ABY. |
 | --- |
@@ -2436,7 +2798,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Sullustan](https://starwars.fandom.com/wiki/Sullustan/Legends)
 
-`[review]`
+![Sullustan](File:SL100 Species Sullustan.jpg)
+
+`[sl100]`
 
 | Diminutive jowled near-Humans of volcanic Sullust, between one and 1.8 metres tall with large dark eyes and prominent ear flaps, Sullustans dwell in vast underground cities and have an uncanny sense of direction and memory for routes. They are among the galaxy's finest pilots and navigators, a familiar sight at every spaceport, charter members of the New Republic, and prominent in the Rebel Alliance's fighter wings. |
 | --- |
@@ -2448,7 +2812,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Svivreni](https://starwars.fandom.com/wiki/Svivreni)
 
-`[review]`
+![Svivreni](File:SL100 Species Svivreni.jpg)
+
+`[sl100]`
 
 | Short, stout, furry equinoids with upright ears and long braided manes, the Svivreni of rocky Svivren are hard-working miners and mineralogists of famous obstinacy; they outlasted Grand Admiral Thrawn by sheer refusal to be conquered. Weapons are banned on their trade world and outlaws are dealt with harshly. Svivreni will defend an opinion with their fists, never say "goodbye" (it is bad luck), and serve as senatorial aides, crime lords and the best miners in the Outer Rim. |
 | --- |
@@ -2460,7 +2826,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Swokes Swokes](https://starwars.fandom.com/wiki/Swokes_Swokes/Legends)
 
-`[review]`
+![Swokes Swokes](File:SL100 Species Swokes Swokes.jpg)
+
+`[sl100]`
 
 | The large, stocky Swokes Swokes of Makem Te in the Outer Rim have pallid conical heads crowned with horns, perpetual toothy grins, one to three nostrils, rolls of doughy fat and, in some, long spiked tails. They regrow lost limbs, which lends them reckless bravado in battle, implant gems near their vital organs as status symbols, and are mostly religious zealots; the Tract, a planet-spanning city of tombs, drives their economy. Low-technology traditionalists ruled by the Congress of Caliphs, they swung between Republic, Confederacy and Empire. |
 | --- |
@@ -2472,7 +2840,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Talz](https://starwars.fandom.com/wiki/Talz/Legends)
 
-`[review]`
+![Talz](File:SL100 Species Talz.jpg)
+
+`[sl100]`
 
 | Bulky, 2 to 2.5 metre bipeds covered in thick white fur, the Talz of frozen Alzoc III have two pairs of eyes, a small set for the snow-glare of day and a large set for the moonless night, a proboscis for feeding and chirping, and huge taloned hands. Gentle, kind-hearted and tireless workers, they were barely past the dawn of sentience when the Empire found them; they have no concept of ownership and simply borrow what they need, which gets them called thieves. Rarely seen offworld. |
 | --- |
@@ -2484,7 +2854,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tarasin](https://starwars.fandom.com/wiki/Tarasin)
 
-`[review]`
+![Tarasin](File:SL100 Species Tarasin.jpg)
+
+`[sl100]`
 
 | The reptilian Tarasin of jungle-clad Cularin stand about 1.7 metres under translucent scales through which their colour-changing skin shows, turning brown when calm or red when excited and flaring a fleshy kampo around the head under distress, which makes them poor liars. Short forearm spines, the sa'tosin, let them feel the Force being used, and their spiritual leaders can call on it in small ways. Curious, protective and slow to anger, Tarasin trade raw strength for a brilliant intellect and live in jungle irstat clans bound to their world. |
 | --- |
@@ -2496,7 +2868,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tarro](https://starwars.fandom.com/wiki/Tarro)
 
-`[review]`
+![Tarro](File:SL100 Species Tarro.jpg)
+
+`[sl100]`
 
 | Muscular humanoids from Tililix in the Til system, deep in the Unknown Regions, with grey-to-green skin, bright yellow eyes, large foreheads and seven-fingered hands tipped with curved claws. Their sun exploded around 100 BBY and only a few hundred offworld Tarro survived, scattering across the Outer Rim as scouts, bounty hunters, enforcers and Alliance operatives. Fiercely independent and short of patience with company, most live transient, solitary lives, and other beings find their strength and natural weapons unnerving. |
 | --- |
@@ -2508,7 +2882,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Temolak](https://starwars.fandom.com/wiki/Temolak)
 
-`[review]`
+![Temolak](File:SL100 Species Temolak.jpg)
+
+`[sl100]`
 
 | Heavyset, red-clay-skinned bipeds standing up to 2.3 m, with cheek horns, fin ridges along the forearms and a mouthful of crooked teeth. Their homeworld Zirulast dried out two millennia ago and the Temolak took to space as the galaxy's most renowned salvagers, living in derelict stations and stripping wrecks to the deckplates. Despite a brutish look they are quiet, timid and crafty, preferring to trade their reclaimed technology with less-developed peoples, though pirates who push them find they fight hard for what is theirs. |
 | --- |
@@ -2520,7 +2896,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Thakwaash](https://starwars.fandom.com/wiki/Thakwaash)
 
-`[review]`
+![Thakwaash](File:SL100 Species Thakwaash.jpg)
+
+`[sl100]`
 
 | Towering equinoid bipeds from Thakwaa in the Tunka sector, averaging three metres tall with long dark manes and roughly three times the strength of a Human. Every Thakwaash hosts many distinct "minds", each with its own skills and temper, and switches between them at will; this is their normal state, not an illness, and it lets them anticipate how others think. The Empire gave up trying to subdue the planet, and Thakwaash later served the New Republic, most famously the Wraith Squadron pilot Hohass "Runt" Ekwesh. |
 | --- |
@@ -2532,7 +2910,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Theelin](https://starwars.fandom.com/wiki/Theelin/Legends)
 
-`[review]`
+![Theelin](File:SL100 Species Theelin.jpg)
+
+`[sl100]`
 
 | Near-Humans known for vividly coloured hair, pale mottled skin and, in some lines, small horns and reptilian feet. Almost all known Theelin were hybrids, for a wave of mutations in the last years of the Republic left the pure stock unable to breed, and full-blooded Theelin were presumed extinct by 10 ABY. They produced many of the Republic's finest artists, and the all-female Diva order was celebrated as the greatest singers in the galaxy, which made Theelin prized, and sometimes collected, by Hutts. |
 | --- |
@@ -2544,7 +2924,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Thisspiasian](https://starwars.fandom.com/wiki/Thisspiasian/Legends)
 
-`[review]`
+![Thisspiasian](File:SL100 Species Thisspiasian.jpg)
+
+`[sl100]`
 
 | Serpentine reptilians from Thisspias with four arms, a long coiled lower body and luxuriant beards grown to ward off their homeworld's biting cygnats. Omnivores with a taste for live prey, they can unhinge their jaws and swallow a meal whole, and they shed their scales gradually over years of grooming. Ruled by a Blood Monarch whose disputes are settled in ritual unarmed combat, they produced strategists and warriors for the Republic and the Jedi Master Oppo Rancisis. |
 | --- |
@@ -2556,7 +2938,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tholothian](https://starwars.fandom.com/wiki/Tholothian/Legends)
 
-`[review]`
+![Tholothian](File:SL100 Species Tholothian.jpg)
+
+`[sl100]`
 
 | Dark-skinned Near-Humans from the Colonies world Tholoth, often with striking blue or indigo eyes, and said to be seemingly ageless. They are best known through the Jedi they gave the Order, including Masters Adi Gallia and Stass Allie and the youngling Katooni, and through families of diplomats serving on the Core Worlds. |
 | --- |
@@ -2568,7 +2952,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tiss'shar](https://starwars.fandom.com/wiki/Tiss'shar/Legends)
 
-`[review]`
+![Tiss'shar](File:SL100 Species Tiss'shar.jpg)
+
+`[sl100]`
 
 | Slender, colourfully scaled therapod reptiles from the jungle world Tiss'sharl, with long necks, short tails, glassy dark eyes and a mouth of sharp teeth, in six subspecies told apart by their markings. Strong, nimble and clever, they are famous twice over: as shrewd businessbeings found across the galaxy, and as efficient, business-like assassins. Their homeworld is run by the Tiss'sharl League, a cabal of executives whose politics can turn cutthroat in the literal sense. |
 | --- |
@@ -2580,7 +2966,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Togorian](https://starwars.fandom.com/wiki/Togorian/Legends)
 
-`[review]`
+![Togorian](File:SL100 Species Togorian.jpg)
+
+`[sl100]`
 
 | Feline warriors of Togoria, furred grey-white to black with spots or stripes, retractable claws on hands and feet, and bone so dense they shrug off injuries that would cripple others. Males are nomadic hunters who ride mosgoths and rarely leave their world, while females run the cities and deal with offworlders; both sexes hold honour above all. Togorians have long ties to the Mandalorians, and the few who leave home become pirates, mercenaries or, now and then, Jedi. |
 | --- |
@@ -2592,7 +2980,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Toong](https://starwars.fandom.com/wiki/Toong/Legends)
 
-`[review]`
+![Toong](File:SL100 Species Toong.jpg)
+
+`[sl100]`
 
 | Neckless, bulbous-bodied beings from Toong'l in the Outer Rim, with huge jowled heads, eyes set high on a pointed brow, long gangly legs and cheek pouches for storing food. Toong are painfully nervous and dread dealing with strangers, almost always backing down when threatened, though they are not cowards and feel at ease among family. First contact plunged their world into war, their homeworld was later wrecked by a comet and the survivors moved to Tund; the podracer Ben Quadinaros is their most famous son. |
 | --- |
@@ -2604,7 +2994,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Toydarian](https://starwars.fandom.com/wiki/Toydarian/Legends)
 
-`[review]`
+![Toydarian](File:SL100 Species Toydarian.jpg)
+
+`[sl100]`
 
 | Stout, winged mammals from Toydaria in Hutt Space, with pudgy trunks, stubby tusks and a sweetspice body odour, who hover on rapid wingbeats rather than walk. Strong-willed and immune to Force mind tricks, they are proud, stingy and quick-tempered, with a shrewd business sense and a reputation, deserved or not, as crooks and hagglers. Ruled by their own feudal king under Hutt overlordship, Toydarians are found as merchants, fixers and moneylenders throughout the Hutt worlds and beyond. |
 | --- |
@@ -2616,7 +3008,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Trianii](https://starwars.fandom.com/wiki/Trianii/Legends)
 
-`[review]`
+![Trianii](File:SL100 Species Trianii.jpg)
+
+`[sl100]`
 
 | Bipedal felinoids from Trian in Wild Space, two metres tall with patterned fur and, unlike other cat-folk, a prehensile tail. Superb balance, sharp eyes and a gift for leaping and acrobatics make them natural fighters, and the Corporate Sector Authority learned the hard way how stiffly they defend their space. Trianii females are stronger and more artistically minded than males; the species stayed independent through the Empire and declined to join the New Republic. |
 | --- |
@@ -2628,7 +3022,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tunroth](https://starwars.fandom.com/wiki/Tunroth)
 
-`[review]`
+![Tunroth](File:SL100 Species Tunroth.jpg)
+
+`[sl100]`
 
 | Tall, hairless, powerfully built hunters from the Jiroch system in the Mid Rim, with sloping elongated heads, a vertical nostril atop the skull, chin horns and three-digit hands. The Tunroth are famed trackers whose "quarry sense" tells them which way prey has gone, and the elite Tunroth Hunters hire out as bounty and big-game hunters, still carrying the sacred klirun bow and kilter staff. Aggressive and hard-working, they intimidate other species; nearly wiped out in the Reslian Purge of 7 BBY, they rebuilt under Imperial protection. |
 | --- |
@@ -2640,7 +3036,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tusken Raider](https://starwars.fandom.com/wiki/Tusken_Raider/Legends)
 
-`[review]`
+![Tusken Raider](File:SL100 Species Tusken Raider.jpg)
+
+`[sl100]`
 
 | The Sand People of Tatooine, nomadic desert raiders swathed head to foot in wrappings, for to show bare flesh is a disgrace among them. Descended from the ancient Kumumgah and once a settled people, the Tuskens now roam the Jundland Wastes on banthas, raiding moisture farms and settlers, and are reckoned a separate species from the Humans they occasionally adopt. Savage, secretive and hostile to outsiders, they are rarely seen off their world. |
 | --- |
@@ -2652,7 +3050,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Tynnan](https://starwars.fandom.com/wiki/Tynnan/Legends)
 
-`[review]`
+![Tynnan](File:SL100 Species Tynnan.jpg)
+
+`[sl100]`
 
 | Sea-otter-like beings from the cold-ocean world Tynna in the Expansion Region, short and rounded with brown fur, insulating blubber, pointed ears and buckteeth, which many species find endearing. Pragmatic, patient planners who choose their officials by lottery, so every citizen keeps up with civics, they run a state economy that made Tynna one of the wealthiest worlds per head in the Republic. Their eyesight is poor, but their foresight is famous: a planetary shield installed in advance turned back the Empire. |
 | --- |
@@ -2664,7 +3064,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Ubese](https://starwars.fandom.com/wiki/Ubese/Legends)
 
-`[review]`
+![Ubese](File:SL100 Species Ubese.jpg)
+
+`[sl100]`
 
 | Secretive nomads from the Uba system who breathe a thin, rarefied atmosphere and go masked and armoured among other species, speaking in raspy whispers. Once a peaceful clan society, the Ubese became obsessed with alien technology, fought wars that ruined their worlds, and are now xenophobic, aggressive wanderers, loyal to their own and well suited to work as mercenaries and bounty hunters. Outsiders know almost nothing of their homeworld, and the Ubese prefer it that way. |
 | --- |
@@ -2676,19 +3078,23 @@ Average height 2.23 – 2.54 meters
 
 ### [Ugnaught](https://starwars.fandom.com/wiki/Ugnaught/Legends)
 
-`[review]`
+![Ugnaught](File:SL100 Species Ugnaught.jpg)
+
+`[sl100]`
 
 | Short porcine humanoids from Gentes in the Anoat system, with upturned snouts and white tufts of hair, who live around two hundred years and endure long discomfort without complaint. Ugnaughts are industrious, loyal workers who inherit a "blood profession" from their parents, settled by duel if too many claim it, and they keep a rich oral tradition. Enslaved for centuries, three tribes won their freedom building Cloud City and now run its red-lit tunnels and foundries. |
 | --- |
 
 **Characteristics:** T +10, Dex +10, WP +10
-**Talents:** Datapad Use, Small, Craftsman (any one), Hardy, roll 1 talent from the random talents list
+**Talents:** Datapad Use, Small, Craftsman (Any), Hardy, roll 1 talent from the random talents list
 **Movement:** 3  **Destiny:** 0  **Resilience:** 2  **Extra points:** 2
 **Size:** Small  **Natural weapons:** none  **Traits:** Lifespan around 200 years; "yaa-yaah" greeting is a mortal insult
 
 ### [Umbaran](https://starwars.fandom.com/wiki/Umbaran/Legends)
 
-`[review]`
+![Umbaran](File:SL100 Species Umbaran.jpg)
+
+`[sl100]`
 
 | The Shadow People of Umbara, a lightless world deep in the Ghost Nebula: gaunt, chalk-pale Near-Humans with sunken colourless eyes who see into the ultraviolet. Umbarans are masters of misdirection who never show their true intent, climbing a rigid caste ladder by blackmail, subterfuge and elegant assassination with poison darts and vootkar knives. Their subtle knack for swaying the minds of others made them feared figures in the Senate corridors and, later, prized spies and thought police for the Emperor. |
 | --- |
@@ -2700,7 +3106,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Utai](https://starwars.fandom.com/wiki/Utai/Legends)
 
-`[review]`
+![Utai](File:SL100 Species Utai.jpg)
+
+`[sl100]`
 
 | Short, stocky, hairless cave-dwellers of the sinkhole world Utapau in the Outer Rim, with sloping oblong heads, glassy black eyes on thick stalks and stubby four-fingered hands. Nicknamed "Shorts" for both their stature and their brief lives, the Utai make up most of Utapau's people yet contentedly leave rule to the Pau'ans and work as labourers, wranglers and beast-tamers, for they have a natural rapport with animals and keen night sight from generations underground. |
 | --- |
@@ -2712,7 +3120,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Verpine](https://starwars.fandom.com/wiki/Verpine/Legends)
 
-`[review]`
+![Verpine](File:SL100 Species Verpine.jpg)
+
+`[sl100]`
 
 | Thin, green insectoids of the Roche asteroid field, 1.9 m tall with hardened carapaces, short snouts and antennae, ranked among the finest starship engineers in the galaxy. Their eyes resolve microscopic detail and their antennae sense and transmit radio waves, letting Verpine talk silently across a hundred kilometres and run their hives as instant consensus democracies. Hermaphroditic and hive-minded in outlook, they are calm, curious and endlessly fascinated by technology. |
 | --- |
@@ -2724,7 +3134,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Vodran](https://starwars.fandom.com/wiki/Vodran/Legends)
 
-`[review]`
+![Vodran](File:SL100 Species Vodran.jpg)
+
+`[sl100]`
 
 | Reptilian natives of Vodran, a murky, humid jungle-and-swamp world in the Si'Klaata Cluster of Hutt Space, which also spawned the dianoga. The Vodrans have lived under the Hutts since the Treaty of Vontor in 25,100 BBY and later suffered brutal Imperial subjugation that levelled many of their cities. They are little known outside Hutt Space and mostly encountered as Hutt labourers, guards and enforcers. |
 | --- |
@@ -2736,7 +3148,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Vor](https://starwars.fandom.com/wiki/Vor)
 
-`[review]`
+![Vor](File:SL100 Species Vor.jpg)
+
+`[sl100]`
 
 | Thin, brittle-boned winged beings of the gale-swept Mid Rim world Vortex, who fly on leathery wings yet live in underground hummocks. Vors seem cold and inscrutable to other species, expressing their deep feelings almost entirely through music, and their singing voices and the wind-played Cathedral of Winds are counted among the wonders of the galaxy. Insular and slow to take sides, they joined the New Republic only after Imperial remnants destroyed their Cathedral in 11 ABY. |
 | --- |
@@ -2748,19 +3162,23 @@ Average height 2.23 – 2.54 meters
 
 ### [Vorzydiak](https://starwars.fandom.com/wiki/Vorzydiak)
 
-`[review]`
+![Vorzydiak](File:SL100 Species Vorzydiak.jpg)
+
+`[sl100]`
 
 | Tall, gaunt Near-Humans of Vorzyd IV and V in the Outer Rim, with yellow-green skin, oversized eyes and a pair of antennae. Vorzydiak life is work: children begin labouring at ten, retire at seventy and commonly die soon after from sheer lack of purpose. Quiet, reserved and deadly serious, they frown on fun and games and keep to themselves, though the saboteur youth movement called the Freelies began to shake that order. |
 | --- |
 
 **Characteristics:** Int +10, WP +10 (near-human)
-**Talents:** Datapad Use, Craftsman (any one), Bookish, roll 1 talent from the random talents list
+**Talents:** Datapad Use, Craftsman (Any), Bookish, roll 1 talent from the random talents list
 **Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
 **Size:** Average  **Natural weapons:** none  **Traits:** Antennae; tend to fade and die once retired and purposeless
 
 ### [Voss](https://starwars.fandom.com/wiki/Voss)
 
-`[review]`
+![Voss](File:SL100 Species Voss.jpg)
+
+`[sl100]`
 
 | An Old Republic-era people of the mountain city Voss-Ka on the Outer Rim world Voss in the Allied Tion, descended from Gormak tribes whom ancient Jedi taught the Force, which reshaped them into a new species. Voss society is guided by Mystics whose visions never fail, Interpreters who read them and the ruling Three; every Voss serves a term as a commando against the millions of hostile Gormak who regard them as abominations. Stubbornly neutral between the Republic and the Sith Empire, they are calm, formal and utterly sure of their visions. |
 | --- |
@@ -2772,7 +3190,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Vratix](https://starwars.fandom.com/wiki/Vratix/Legends)
 
-`[review]`
+![Vratix](File:SL100 Species Vratix.jpg)
+
+`[sl100]`
 
 | Six-limbed insectoids of Thyferra, with compound eyes, long necks, tridactyl triple-jointed arms bearing climbing hooks and massive middle legs that launch them in great leaps; fine body hairs shift colour with their mood. The Vratix invented bacta and have shared it freely for millennia, tending the kavam fields from their villages. Logical, literal hive-dwellers who speak of themselves as "we", they struggle with art and music but dissect any complex problem from every angle, and can share thoughts with hive-kin. |
 | --- |
@@ -2784,7 +3204,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Vurk](https://starwars.fandom.com/wiki/Vurk/Legends)
 
-`[review]`
+![Vurk](File:SL100 Species Vurk.jpg)
+
+`[sl100]`
 
 | Tall amphibious reptilians of the Outer Rim ocean world Sembla, with grey-green leathery skin, bulbous dark eyes, sweeping head crests and three-digit hands and feet. Vurk culture marries young males off by parental arrangement, and those who miss the window stay bachelors for life. A nomadic and philosophical people, they gave the Republic Senator Sweitt Concorkill and the Jedi Council member Coleman Trebor, who died at Geonosis. |
 | --- |
@@ -2796,7 +3218,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Vuvrian](https://starwars.fandom.com/wiki/Vuvrian/Legends)
 
-`[review]`
+![Vuvrian](File:SL100 Species Vuvrian.jpg)
+
+`[sl100]`
 
 | Lightly built, two-metre insectoids from the idyllic Inner Rim world Vurdon Ka, with long thin necks, oblong heads bearing twelve eyes of varying size and colour, and two slender antennae. Their skin is so sensitive they can feel the air shift when someone enters a room, a gift often mistaken for telepathy, but it leaves them with a very low pain threshold and makes them poor soldiers. Cordial, inquisitive and natural problem-solvers, Vuvrians excel as negotiators, sales-beings, first-contact specialists and spies. |
 | --- |
@@ -2808,7 +3232,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Whiphid](https://starwars.fandom.com/wiki/Whiphid/Legends)
 
-`[review]`
+![Whiphid](File:SL100 Species Whiphid.jpg)
+
+`[sl100]`
 
 | Massive furred hunters of the ice world Toola, some 2.5 m tall and up to 400 kg, with yellow-white pelts, elongated faces, great lower tusks and thick three-fingered clawed hands. On Toola they live a primitive nomadic life hunting caraboose and motmot, but contact with ice traders stirred their curiosity and many left to work as big-game hunters, mercenaries and bounty hunters, such as the crime boss Lady Valarian. Several, including Master K'Kruhk, joined the Jedi Order. |
 | --- |
@@ -2820,7 +3246,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Woostoid](https://starwars.fandom.com/wiki/Woostoid)
 
-`[review]`
+![Woostoid](File:SL100 Species Woostoid.jpg)
+
+`[sl100]`
 
 | Tall, wiry, long-lived humanoids of Woostri in the Expansion Region, with reddish-orange skin, long red hair and large eyes that rarely blink. Woostoids are peaceful, rigorously logical thinkers with a natural affinity for computers, whose cities run themselves and whose bureaucrats are prized across the galaxy; they disdain abbreviations and are badly unsettled by chaos. Their love of order led them to back the Empire despite disliking its wars, a view many kept even after joining the New Republic. |
 | --- |
@@ -2832,7 +3260,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Wroonian](https://starwars.fandom.com/wiki/Wroonian/Legends)
 
-`[review]`
+![Wroonian](File:SL100 Species Wroonian.jpg)
+
+`[sl100]`
 
 | Blue-skinned, yellow-eyed Near-Humans of Wroona in the Inner Rim, close kin in looks to the Pantorans. Wroonian society is wealthy, fun-loving and deeply spiritual, shown in ornate dress and tattoos, and its culture prizes personal gain and material comfort. Easy-going, jovial and resentful of authority, Wroonians travel widely and have founded colonies such as the one on Saleucami. |
 | --- |
@@ -2844,7 +3274,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Xexto](https://starwars.fandom.com/wiki/Xexto/Legends)
 
-`[review]`
+![Xexto](File:SL100 Species Xexto.jpg)
+
+`[sl100]`
 
 | Spindly four-armed invertebrates from the arboreal villages of Troiken, 1.1 to 1.5 m tall with long necks, small heads, large dark eyes and pale chalky skin. Their brains are split between skull and chest, and generations of dodging challat eaters bred a people who prize agility, cunning and daring; question a Xexto's bravery at your peril, though they are otherwise well-mannered and cool-headed. Arkanian experiments on them millennia ago produced the larger Quermians. |
 | --- |
@@ -2856,7 +3288,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Yarkora](https://starwars.fandom.com/wiki/Yarkora/Legends)
 
-`[review]`
+![Yarkora](File:SL100 Species Yarkora.jpg)
+
+`[sl100]`
 
 | Tall cameloid bipeds of an undisclosed Outer Rim world, with long snouts, wide nostrils, smooth fur and immense three-fingered hands, rarely seen and never forthcoming about where they come from. Two stomachs and redundant organs give them great longevity and make internal injuries seldom fatal, and their eyesight and hearing are superb; some suspect an empathic sense as well. Secretive con artists and scoundrels who pry information from others while revealing nothing, they turn up among criminals, couriers, scouts and Rebel counter-espionage. |
 | --- |
@@ -2868,7 +3302,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Yevetha](https://starwars.fandom.com/wiki/Yevetha)
 
-`[review]`
+![Yevetha](File:SL100 Species Yevetha.jpg)
+
+`[sl100]`
 
 | Tall, gaunt, hairless grey-skinned humanoids of N'zoth in the Koornacht Cluster, skeletal and ghoulish, with six-fingered hands hiding retractable dew claws. Brutally xenophobic and steeped in a death-centred culture, Yevetha are quick studies and highly intelligent, and males are drilled from youth in a ruthless fighting creed: the nearest threat first, hold nothing back. They seized the Imperial Black Fleet and warred on the New Republic; fewer than ten thousand survived the Yuuzhan Vong. |
 | --- |
@@ -2880,7 +3316,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Yinchorri](https://starwars.fandom.com/wiki/Yinchorri/Legends)
 
-`[review]`
+![Yinchorri](File:SL100 Species Yinchorri.jpg)
+
+`[sl100]`
 
 | Corpulent, green-skinned, turtle-like reptilians of Yinchorr, hatched from eggs and able to shrug off pain and heat. Their minds are closed to telepathic uses of the Force, mind tricks included, and their stubborn will makes them nearly impossible to enslave. "Might makes right" sums up their creed; the warrior caste is aggressive but tactically poor, and Yinchorri are usually met as pirates and mercenaries, their homeworld embargoed after a Sidious-engineered uprising and later ravaged by the Empire. |
 | --- |
@@ -2892,7 +3330,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Yuuzhan Vong](https://starwars.fandom.com/wiki/Yuuzhan_Vong)
 
-`[review]`
+![Yuuzhan Vong](File:SL100 Species Yuuzhan Vong.jpg)
+
+`[sl100]`
 
 | Extragalactic invaders of the New Jedi Order era, taller and heavier than Humans, grey- or yellow-skinned with jet-black blood and blue eye sacs that betray rage or delight. They exist entirely outside the Force: they cannot be sensed, and powers aimed directly at them fail, though the Force may still hurl objects or crush air against them. Zealots who worship pain, scar and reshape their bodies and loathe all mechanical technology, they wage total war with living ships and weapons. |
 | --- |
@@ -2904,7 +3344,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Yuzzem](https://starwars.fandom.com/wiki/Yuzzem)
 
-`[review]`
+![Yuzzem](File:SL100 Species Yuzzem.jpg)
+
+`[sl100]`
 
 | Hulking, heavily furred humanoids from the forest world Ragna III in the Mid Rim, with long snouts and large black eyes. Yuzzem are immensely strong and quick-tempered, fight fiercely and are very hard to subdue, which made them troublesome slaves when the Empire put them to mining as it did the Wookiees. They keep strict codes of honour and debt, as Luke Skywalker and Leia Organa found when two Yuzzem fought beside them on Mimban. |
 | --- |
@@ -2916,7 +3358,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Yuzzum](https://starwars.fandom.com/wiki/Yuzzum/Legends)
 
-`[review]`
+![Yuzzum](File:SL100 Species Yuzzum.jpg)
+
+`[sl100]`
 
 | Neckless, round-bodied furred humanoids on long spindly limbs from the plains of the forest moon of Endor, so varied that some have hooves, some claws, some fangs. They roam in small bands hunting ruggers in the tall grass, some riding rakazzak beasts and carrying spears, and they rub shoulders, not always peacefully, with the Ewoks. Their musical language suits them to work as singers, like Joh Yowza of Jabba's court, and Yuzzums are sometimes shipped offworld as "pets" despite being sentient. |
 | --- |
@@ -2928,7 +3372,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Zeltron](https://starwars.fandom.com/wiki/Zeltron/Legends)
 
-`[review]`
+![Zeltron](File:SL100 Species Zeltron.jpg)
+
+`[sl100]`
 
 | Near-Humans of the party world Zeltros, with skin in every shade of pink and red and hair of red or blue, counted gorgeous by almost every humanoid standard. Zeltrons exude pheromones that make them likeable and attractive, and a mild empathic sense lets them feel and project emotion, so their culture chases pleasure and shuns anger and gloom. Stereotyped as hedonistic thrill-seekers, they are also gifted holographers and hold their drink thanks to a second liver. |
 | --- |
@@ -2940,7 +3386,9 @@ Average height 2.23 – 2.54 meters
 
 ### [Zygerrian](https://starwars.fandom.com/wiki/Zygerrian/Legends)
 
-`[review]`
+![Zygerrian](File:SL100 Species Zygerrian.jpg)
+
+`[sl100]`
 
 | Feline humanoids of Zygerria in the Outer Rim, about 1.7 m tall with pointed ears, clawed hands, sharp angular features and sometimes fully furred faces. For centuries the Zygerrians have lived by slavery, which they regard as the natural order, running first a slave empire and then the Zygerrian Slavers Guild, backed by the Separatists in the Clone Wars and licensed by Imperial decree afterward. Proud, warlike and feared across the galaxy, they make natural targets for Rebel privateers and bounty hunters. |
 | --- |
