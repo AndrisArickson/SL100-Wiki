@@ -236,6 +236,20 @@ def md_to_wiki(md, drop_title=True):
     return re.sub(r"\n{3,}", "\n\n", text)
 
 
+
+def clear_floats(text):
+    """A floated picture taller than its section drifts into the next ones, so pictures stop lining up with their
+    entries (seen on SL100:Species in a normal-width browser). Close every float before the next heading."""
+    out, floating = [], False
+    for ln in text.split("\n"):
+        if floating and re.match(r"^=+ .* =+$", ln):
+            out.append('<div style="clear:both"></div>')
+            floating = False
+        if "[[File:" in ln and "|thumb" in ln:
+            floating = True
+        out.append(ln)
+    return "\n".join(out)
+
 # ------------------------------------------------------------------ talents index (SL100:Talents only)
 def talents_index(md):
     rows, sec = [], "General"
@@ -262,7 +276,7 @@ def build_page(title, files, status, lead):
         md = (ROOT / f).read_text(encoding="utf-8")
         if title == "SL100:Talents":
             extra, n = talents_index(md)
-        body = md_to_wiki(md)
+        body = clear_floats(md_to_wiki(md))
         if len(files) > 1:
             body = "== %s ==\n" % Path(f).stem.replace("Star Wars ", "").replace("_", " / ") + re.sub(r"^(=+) (.*?) \1$", lambda m: "=" + m.group(0) + "=", body, flags=re.M)
         parts.append(body)
