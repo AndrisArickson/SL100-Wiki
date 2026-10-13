@@ -245,6 +245,7 @@ Advocates are the lawyers of the galaxy: trained in Republic statute, Imperial d
 <code>[review: overlaps Advisor: the Advocate is a licensed courtroom and contract lawyer with Lore (Law) and Codes (Trade Guild); the Advisor counsels a patron on policy]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Entertain (Rhetoric) and Dodge added]</code>
 
+<div style="clear:both"></div>
 === Engineer ===
 
 [[File:SL100 Career Engineer.jpg|thumb|right|360px|Engineer (SL100 original art)]]
@@ -292,6 +293,7 @@ Engineers are the formally trained builders of the galaxy: starship drive system
 <code>[review: weapon-skill consolidation left Ranged (Blaster) twice; level 2 copy replaced by Lore (Science)]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Profession (Fabricator) added]</code>
 
+<div style="clear:both"></div>
 === Pharmacist ===
 
 [[File:SL100 Career Pharmacist.jpg|thumb|right|360px|Pharmacist (SL100 original art)]]
@@ -338,6 +340,7 @@ Pharmacists compound medicines, stims, antitoxins and bacta derivatives for medc
 <code>[review: overlaps Physician (Medic): the Pharmacist makes compounds and poisons rather than treating patients, and holds Profession (Pharmacist) / Profession (Poisoner) instead of Profession (Medic) and Surgery]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Sleight of Hand added]</code>
 
+<div style="clear:both"></div>
 === Physician (Medic) ===
 
 [[File:SL100 Career Physician Medic.jpg|thumb|right|360px|Physician (Medic) (SL100 original art)]]
@@ -390,6 +393,7 @@ Medics study patients' vitals, prescribe stims and surgeries, and patch the woun
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Language (Old Galactic Standard) added]</code>
 
+<div style="clear:both"></div>
 === Scholar ===
 
 [[File:SL100 Career Scholar.jpg|thumb|right|360px|Scholar (SL100 original art)]]
@@ -434,6 +438,7 @@ Scholars are the academics of the galaxy: historians of the Old Republic, xenobi
 <code>[review: overlaps Investigator and Advisor: the Scholar researches and teaches rather than investigates cases or counsels a patron; built around Research, Lore (Any) and Savant]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Lore (Galactic History) added]</code>
 
+<div style="clear:both"></div>
 === Slicer ===
 
 [[File:SL100 Career Slicer.jpg|thumb|right|360px|Slicer (SL100 original art)]]
@@ -479,6 +484,7 @@ Slicers are the intrusion specialists of the HoloNet age, cracking datavaults, r
 <code>[review: Craftsman (Slicer) and Master (Slicer) use the Craftsman/Master (Profession) talents with Slicer as the Profession]</code>
 <code>[review: overlaps Spy and Thief; differs in that the Slicer works entirely through computers and droids and has no Stealth beyond Urban, no combat skills]</code>
 
+<div style="clear:both"></div>
 == Citizens ==
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Lore (Science) and Intuition added]</code>
 
@@ -534,6 +540,7 @@ Agitators lobby for political causes using HoloNet broadcasts, illicit data-leaf
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Entertain (Speeches) and Stealth (Urban) added]</code>
 
+<div style="clear:both"></div>
 === Artisan ===
 
 [[File:SL100 Career Artisan.jpg|thumb|right|360px|Artisan (SL100 original art)]]
@@ -586,6 +593,7 @@ Artisans produce goods, ranging from everyday necessities sold by Provisioners a
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Art (Any) and Climb added]</code>
 
+<div style="clear:both"></div>
 === Beggar ===
 
 [[File:SL100 Career Beggar.jpg|thumb|right|360px|Beggar (SL100 original art)]]
@@ -631,6 +639,7 @@ Beggars crowd the underlevels of Coruscant, the spaceport gates of Nar Shaddaa a
 <code>[review: overlaps Bawd and Charlatan: the Beggar has no trade and no confidence game, only charity, survival and street intelligence]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Climb added]</code>
 
+<div style="clear:both"></div>
 === Camp Follower ===
 
 [[File:SL100 Career Camp Follower.jpg|thumb|right|360px|Camp Follower (SL100 original art)]]
@@ -677,6 +686,7 @@ Every army drags a second army behind it: cooks, menders, cantina-keepers, stim-
 <code>[review: overlaps Bawd: the Camp Follower is a mobile trader in army comforts (Haggle, Outdoor Survival, Stone Soup, Etiquette (Soldiers)) rather than an urban procurer]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Perception and Perform (Dancing) added]</code>
 
+<div style="clear:both"></div>
 === Chemist ===
 
 [[File:SL100 Career Chemist.jpg|thumb|right|360px|Chemist (SL100 original art)]]
@@ -723,6 +733,7 @@ Chemists work the bacta tanks of Thyferra, the kolto beds of Manaan and the refi
 <code>[review: overlaps Physician (treats patients) and Artisan (general crafts); Chemist makes the compounds and drugs the Physician uses]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Research added]</code>
 
+<div style="clear:both"></div>
 === Citizen ===
 
 [[File:SL100 Career Citizen.jpg|thumb|right|360px|Citizen (SL100 original art)]]
@@ -769,6 +780,7 @@ Citizens run the shops, offices and administrative bureaus of every settled worl
 <code>[review: overlaps Merchant and Agitator: the Citizen is a salaried functionary who rises through civic office rather than trade or rabble-rousing]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Endurance added]</code>
 
+<div style="clear:both"></div>
 === Colonist ===
 
 [[File:SL100 Career Colonist.jpg|thumb|right|360px|Colonist (SL100 original art)]]
@@ -815,6 +827,7 @@ Colonists are the settlers, moisture farmers, homesteaders and frontier labourer
 <code>[review: overlaps Artisan at levels 2-4 (Profession, Craftsman, Master); differs by being land-and-community focused rather than workshop-based]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Navigation added]</code>
 
+<div style="clear:both"></div>
 === Fieldwarden ===
 
 [[File:SL100 Career Fieldwarden.jpg|thumb|right|360px|Fieldwarden (SL100 original art)]]
@@ -863,6 +876,7 @@ Fieldwardens patrol the edges of settled land on frontier and agricultural world
 <code>[review: overlaps Guard and Warden: the Fieldwarden is a rural ranged skirmisher and tracker for a settlers' council (Ranged (Archaic), Track, Stealth (Rural), Codes (Scout)) rather than a paid gate sentry or an institutional custodian]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Swim added]</code>
 
+<div style="clear:both"></div>
 === Holonet Journalist ===
 
 [[File:SL100 Career Holonet Journalist.jpg|thumb|right|360px|Holonet Journalist (SL100 original art)]]
@@ -908,6 +922,7 @@ Holonet Journalists feed the galaxy's hunger for news, from the great HoloNet Ne
 <code>[review: trappings "Holorecorder", "Hovering holocam droid" and "HoloNet transceiver account" are new items not in the brief's table; Slicer's Kit re-themed from Lockpicks (Security Kit)]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Lore (Galactic History) added]</code>
 
+<div style="clear:both"></div>
 === Investigator ===
 
 [[File:SL100 Career Investigator.jpg|thumb|right|360px|Investigator (SL100 original art)]]
@@ -960,6 +975,7 @@ Most Investigators pursue cases involving stolen cargo, missing persons, or murd
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Research and Lore (Local) added]</code>
 
+<div style="clear:both"></div>
 === Mechanic ===
 
 [[File:SL100 Career Mechanic.jpg|thumb|right|360px|Mechanic (SL100 original art)]]
@@ -1005,6 +1021,7 @@ Mechanics are found in every hangar, docking bay and junkyard from the Core to t
 <code>[review: overlaps Artisan; differs in that it is vehicle, starship and droid repair specifically and gains Pilot skills and a Droid Companion rather than crafting goods]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Dodge added]</code>
 
+<div style="clear:both"></div>
 === Merchant ===
 
 [[File:SL100 Career Merchant.jpg|thumb|right|360px|Merchant (SL100 original art)]]
@@ -1057,6 +1074,7 @@ Most Merchants trade in simple goods such as foodstuffs, textiles, durasteel, an
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Pilot (Starship) and Lore (Hyperlanes) added]</code>
 
+<div style="clear:both"></div>
 === Miner ===
 
 [[File:SL100 Career Miner.jpg|thumb|right|360px|Miner (SL100 original art)]]
@@ -1102,6 +1120,7 @@ Miners work the asteroid belts of Hoth and the Roche fields, the spice mines of 
 <code>[review: Hand Weapon (Pick) and Great Weapon (Two-handed Pick) rendered as Vibro-pick and Two-Handed Vibro-pick; neither is in the mapping table]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Navigation added]</code>
 
+<div style="clear:both"></div>
 === Security Officer ===
 
 [[File:SL100 Career Security Officer.jpg|thumb|right|360px|Security Officer (SL100 original art)]]
@@ -1149,6 +1168,7 @@ Security Officers are the planetary police, corporate security details and secto
 <code>[review: overlaps Guard (static protection of a person or place) and Warden (prisons); Security Officer is the civic street force with investigative and social skills]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Stealth (Urban) added]</code>
 
+<div style="clear:both"></div>
 === Vermin Hunter ===
 
 [[File:SL100 Career Vermin Hunter.jpg|thumb|right|360px|Vermin Hunter (SL100 original art)]]
@@ -1196,6 +1216,7 @@ Vermin Hunters clear the pests no one else will touch: womp rats in Tatooine's m
 <code>[review: Fearless (Skaven) rendered as Fearless (Dianoga); Davrich Lantern as Glow Rod; Heartkill poison as generic Poisoned Bait]</code>
 <code>[review: overlaps Scout and Bounty Hunter only loosely: the Vermin Hunter tracks and kills animals in enclosed urban spaces, not sentients]</code>
 
+<div style="clear:both"></div>
 == Dignitaries ==
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Outdoor Survival and Lore (Beasts) added]</code>
 
@@ -1251,6 +1272,7 @@ Advisors provide counsel to those they serve. Well-versed in the political and s
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Research and Lore (Law) added]</code>
 
+<div style="clear:both"></div>
 === Artist ===
 
 [[File:SL100 Career Artist.jpg|thumb|right|360px|Artist (SL100 original art)]]
@@ -1297,6 +1319,7 @@ Artists are the holo-sculptors, painters, composers and performers whose work ha
 <code>[review: overlaps Artisan (practical crafts); Artist is fine art and performance for patrons, with social rather than engineering skills]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Entertain (Storytelling) added]</code>
 
+<div style="clear:both"></div>
 === Attendant ===
 
 [[File:SL100 Career Attendant.jpg|thumb|right|360px|Attendant (SL100 original art)]]
@@ -1342,6 +1365,7 @@ Attendants are the valets, stewards, footmen and household staff of senators, Mo
 <code>[review: level 1 Drive mapped to Pilot (Speeder) per the brief; the existing Physician entry uses Pilot (Land Vehicle), which needs reconciling]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Sleight of Hand and Melee (Brawling) added]</code>
 
+<div style="clear:both"></div>
 === Envoy ===
 
 [[File:SL100 Career Envoy.jpg|thumb|right|360px|Envoy (SL100 original art)]]
@@ -1394,6 +1418,7 @@ Experts in negotiation and social interaction, Envoys act as agents serving the 
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Perception and Evaluate added]</code>
 
+<div style="clear:both"></div>
 === Gunslinger ===
 
 [[File:SL100 Career Gunslinger.jpg|thumb|right|360px|Gunslinger (SL100 original art)]]
@@ -1442,6 +1467,7 @@ Gunslingers are the quick-draw duellists of the Outer Rim: hired guns, cantina c
 <code>[review: weapon-skill consolidation left Melee (1H) twice; level 3 copy replaced by Sleight of Hand]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Ride (Land) and Stealth (Urban) added]</code>
 
+<div style="clear:both"></div>
 === Noble ===
 
 [[File:SL100 Career Noble.jpg|thumb|right|360px|Noble (SL100 original art)]]
@@ -1495,6 +1521,7 @@ The blood of highborn ancestors courses through the veins of the nobility, grant
 <code>[review: weapon-skill consolidation left Melee (1H) twice; level 2 copy replaced by Ranged (Blaster)]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Pilot (Speeder) added]</code>
 
+<div style="clear:both"></div>
 === Politician ===
 
 [[File:SL100 Career Politician.jpg|thumb|right|360px|Politician (SL100 original art)]]
@@ -1541,6 +1568,7 @@ Politicians are the senators, planetary representatives, sector delegates and mi
 <code>[review: overlaps Noble, Envoy and Advisor; differs in that rank is elected or appointed rather than inherited, with Lore (Politics) as the earning skill and no Noble Blood]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Language (Old Galactic Standard) added]</code>
 
+<div style="clear:both"></div>
 === Revenue Agent ===
 
 [[File:SL100 Career Revenue Agent.jpg|thumb|right|360px|Revenue Agent (SL100 original art)]]
@@ -1588,6 +1616,7 @@ Revenue Agents are the tax assessors, customs inspectors and tariff collectors o
 <code>[review: overlaps Warden (custody) and Advisor (counsel to power); Revenue Agent is enforcement of taxes and tariffs with a coercive edge]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Research added]</code>
 
+<div style="clear:both"></div>
 === Spy ===
 
 [[File:SL100 Career Spy.jpg|thumb|right|360px|Spy (SL100 original art)]]
@@ -1640,6 +1669,7 @@ Spies are brave (or foolhardy) individuals who secretly gather intelligence for 
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Slice Security System and Lore (Politics) added]</code>
 
+<div style="clear:both"></div>
 === Warden ===
 
 [[File:SL100 Career Warden.jpg|thumb|right|360px|Warden (SL100 original art)]]
@@ -1689,6 +1719,7 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 
 '''Trappings:''' Aide, Governor’s Residence, Servant
 
+<div style="clear:both"></div>
 == Force Wielders ==
 
 ''Conversion notes:''
@@ -1742,6 +1773,7 @@ Dark Side Cultists are wild Force-users who stumble into power without a Jedi ma
 <code>[review: role overlaps Force Shadow and Force Savant; differs in being an untrained wild sorcerer rather than a disciplined tradition]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Outdoor Survival added]</code>
 
+<div style="clear:both"></div>
 === Force Mystic ===
 
 [[File:SL100 Career Force Mystic.jpg|thumb|right|360px|Force Mystic (SL100 original art)]]
@@ -1791,6 +1823,7 @@ Force Mystics are the priests, sages and seers of the galaxy's Force traditions:
 <code>[review: overlaps Force Savant and Monastic: the Force Mystic is the public priest and orator of a tradition with Force Sense, Leadership and Entertain (Speeches); the Monastic is cloistered, the Savant a scholar]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Language (The Force) added]</code>
 
+<div style="clear:both"></div>
 === Force Savant ===
 
 [[File:SL100 Career Force Savant.jpg|thumb|right|360px|Force Savant (SL100 original art)]]
@@ -1802,6 +1835,7 @@ There are many independant Force traditions, the most famous including the Jedi,
 
 Alongside these traditions are an uncounted number of force warriors whom have left their past, become mercenary or disgraced knights, whom sell their skill to the highest bidder or retain their core ethics and/or beliefs without the support of their order.
 
+<div style="clear:both"></div>
 === JEDI CONSULAR ===
 
 Where the Guardian ignites a lightsaber, you ignite minds. The Jedi Consular walks a quieter path — one paved with negotiation, deep Force study, and the slow, unglamorous work of keeping the galaxy from tearing itself apart. You are sent where wars might be prevented rather than won, where a single conversation can accomplish what a battalion cannot. The Force flows through you not as a weapon but as a current of understanding, and you have learned to trust it more than any blade.
@@ -1894,6 +1928,7 @@ Sith Lord: You have killed or outlasted everyone who stood between you and this.
 [[File:SL100 Career Force Shadow.jpg|thumb|right|360px|Force Shadow (SL100 original art)]]
 
 <code>[sl100]</code>
+<div style="clear:both"></div>
 === JEDI SENTINEL ===
 
 You are the Jedi the Order sends when it cannot afford to be seen sending anyone. Not a warrior, not a diplomat — something harder to define and far more dangerous. The Sentinel walks the space between light and shadow, fluent in the languages of both. While Guardians train their bodies and Consulars train their minds, you have trained your instincts: when to trust, when to doubt, when to act, and when to vanish.
@@ -1992,6 +2027,7 @@ There are many independant Force traditions, the most famous including the Jedi,
 
 Alongside these traditions are an uncounted number of force warriors whom have left their past, become mercenary or disgraced knights, whom sell their skill to the highest bidder or retain their core ethics and/or beliefs without the support of their order.
 
+<div style="clear:both"></div>
 === Jedi Guardian ===
 
 Striding into battle with lightsaber ignited, you are the tip of the spear — a living weapon tempered by the Force. Where others see a warrior, you are something more: a protector, a symbol, and a commander of immense personal authority. The Jedi Order has long maintained that the Guardian path is not one of aggression, but of resolve. When diplomacy fails and darkness presses forward, it is the Guardian who stands firm.
@@ -2125,6 +2161,7 @@ Hedge Adepts are untrained Force-sensitives of the backwater worlds: village hea
 <code>[review: overlaps Force Savant; Hedge Adept is untrained and rural, with healing and botany rather than scholarship]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Charm Creature and Stealth (Rural) added]</code>
 
+<div style="clear:both"></div>
 === Monastic ===
 
 [[File:SL100 Career Monastic.jpg|thumb|right|360px|Monastic (SL100 original art)]]
@@ -2174,6 +2211,7 @@ Monastics belong to the quiet traditions of the Force: the Baran Do Sages of Dor
 <code>[review: overlaps Force Savant: the Monastic is a cloistered healer and teacher with Medicine, Professions and Force Control, not a lore-hunting adept]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Use the Force and Intuition added]</code>
 
+<div style="clear:both"></div>
 === Seer ===
 
 [[File:SL100 Career Seer.jpg|thumb|right|360px|Seer (SL100 original art)]]
@@ -2222,6 +2260,7 @@ Seers are the fortune-tellers, mystics and visionaries of the spaceport bazaars 
 <code>[review: overlaps Charlatan (fake readings) and Force Savant (scholarly Force study); Seer is genuine Force prophecy wrapped in showmanship]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Research added]</code>
 
+<div style="clear:both"></div>
 === Sorcerer ===
 
 [[File:SL100 Career Sorcerer.jpg|thumb|right|360px|Sorcerer (SL100 original art)]]
@@ -2271,6 +2310,7 @@ Sorcerers follow the ritual traditions of the Force: Sith sorcery learned from a
 <code>[review: weapon-skill consolidation left Melee (2H) twice; level 1 copy replaced by Cool]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Endurance added]</code>
 
+<div style="clear:both"></div>
 === Templar ===
 
 [[File:SL100 Career Templar.jpg|thumb|right|360px|Templar (SL100 original art)]]
@@ -2320,6 +2360,7 @@ Templars are the warriors of the lesser Force traditions: Jensaarai defenders in
 <code>[review: Status Brass 2 / Silver 2 / Silver 3 / Silver 4 kept from the parent]</code>
 <code>[review: overlaps Force Warrior; differs in that the Templar belongs to a named non-Jedi tradition, keeps a Code, fights in armour (Armoured Adept) and leads troops, with Meditate rather than Use the Force as its core skill]</code>
 
+<div style="clear:both"></div>
 == Freelancers ==
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Use the Force and Athletics added]</code>
 
@@ -2372,6 +2413,7 @@ Beast Handlers raise, drive and break the large creatures that still do the work
 <code>[review: overlaps Scout (Outdoor Survival, Track) and the Beast Rider below; differs by training and owning beasts rather than fighting from them]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Demolitions added]</code>
 
+<div style="clear:both"></div>
 === Beast Rider ===
 
 [[File:SL100 Career Beast Rider.jpg|thumb|right|360px|Beast Rider (SL100 original art)]]
@@ -2420,6 +2462,7 @@ Beast Riders are the light cavalry of worlds where repulsorlifts fail or are too
 <code>[review: overlaps Scout and the Beast Handler above; differs by mounted combat (Melee (2H), Roughrider, Trick Riding) rather than survival or beast training]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Ranged (Thrown) added]</code>
 
+<div style="clear:both"></div>
 === Bounty Hunter ===
 
 [[File:SL100 Career Bounty Hunter.jpg|thumb|right|360px|Bounty Hunter (SL100 original art)]]
@@ -2472,6 +2515,7 @@ Bounty Hunters track down fugitives and outlaws for credits. Most are legally li
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Cool added]</code>
 
+<div style="clear:both"></div>
 === Clan Ranger ===
 
 [[File:SL100 Career Clan Ranger.jpg|thumb|right|360px|Clan Ranger (SL100 original art)]]
@@ -2521,6 +2565,7 @@ Clan Rangers range the wild ground between their people's holds and settlements:
 <code>[review: overlaps Scout: the Clan Ranger is bound to a clan's own territory and trail-signs (Codes (Scout), Codes (Ranger), Lore (Clan Holds), Stealth (Underground)) rather than exploring new worlds for a patron]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Lore (Beasts) and Stealth (Rural) added]</code>
 
+<div style="clear:both"></div>
 === Courier ===
 
 [[File:SL100 Career Courier.jpg|thumb|right|360px|Courier (SL100 original art)]]
@@ -2568,6 +2613,7 @@ Couriers deliver sealed messages, data cylinders and small cargoes that their cl
 <code>[review: overlaps Smuggler at levels 3-4; differs by carrying data and small packages rather than contraband cargo]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Ranged (Blaster) added]</code>
 
+<div style="clear:both"></div>
 === Driver ===
 
 [[File:SL100 Career Driver.jpg|thumb|right|360px|Driver (SL100 original art)]]
@@ -2615,6 +2661,7 @@ Drivers run the groundside transport trade: speeder taxis on Coruscant's skylane
 <code>[review: Creature Care / Charm Creature / Ride (Land) kept at level 1 for beast-drawn backwater transport; swap for Pilot (Starship) if the career should be purely repulsorlift]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Haggle added]</code>
 
+<div style="clear:both"></div>
 === Entertainer ===
 
 [[File:SL100 Career Entertainer.jpg|thumb|right|360px|Entertainer (SL100 original art)]]
@@ -2660,6 +2707,7 @@ Entertainers are the galaxy's musicians, dancers, acrobats, holo-actors and stre
 <code>[review: level 4 Pilot (Speeder) from Drive; Draught Horses and Wagon re-themed as Touring Barge]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Cool and Dodge added]</code>
 
+<div style="clear:both"></div>
 === Freelance ===
 
 [[File:SL100 Career Freelance.jpg|thumb|right|360px|Freelance (SL100 original art)]]
@@ -2708,6 +2756,7 @@ Freelances are soldiers of fortune who answer to a contract rather than a flag. 
 <code>[review: overlaps Soldier, Bounty Hunter and this batch's Hired Gun: the Freelance is a mounted officer-for-hire who builds a company (Ride, Pilot (Speeder), Leadership, Gold Status) rather than a ranked soldier, a tracker of marks or a lone brute]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Creature Care and Charm Creature added]</code>
 
+<div style="clear:both"></div>
 === Hired Gun ===
 
 [[File:SL100 Career Hired Gun.jpg|thumb|right|360px|Hired Gun (SL100 original art)]]
@@ -2756,6 +2805,7 @@ Hired Guns are the galaxy's travelling muscle: Gamorrean axe-wielders in a Hutt'
 <code>[review: overlaps Pit Fighter, Soldier, Bounty Hunter and this batch's Freelance: the Hired Gun is a wandering brute for hire (Menacing, Frightening, Melee (2H), Seasoned Traveller) with no flag, arena or warrant, and stays in Silver Status where the Freelance reaches Gold]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Outdoor Survival added]</code>
 
+<div style="clear:both"></div>
 === Hunter ===
 
 [[File:SL100 Career Hunter.jpg|thumb|right|360px|Hunter (SL100 original art)]]
@@ -2804,6 +2854,7 @@ Hunters work the forests of Kashyyyk and Endor, the plains of Dantooine, the ice
 <code>[review: overlaps Scout (exploration and pathfinding) and Bounty Hunter (sentient quarry); Hunter is beasts and trapping]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Dodge added]</code>
 
+<div style="clear:both"></div>
 === Inquisitor ===
 
 [[File:SL100 Career Inquisitor.jpg|thumb|right|360px|Inquisitor (SL100 original art)]]
@@ -2852,6 +2903,7 @@ Inquisitors are the Force-hunters of the galaxy, and the career serves two very 
 <code>[review: overlaps Force Shadow, Spy and Investigator; differs by being a non-Force-using hunter of Force users]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Research and Lore (The Force) added]</code>
 
+<div style="clear:both"></div>
 === Marshal ===
 
 [[File:SL100 Career Marshal.jpg|thumb|right|360px|Marshal (SL100 original art)]]
@@ -2900,6 +2952,7 @@ Marshals keep order on the roads, lanes and frontier settlements that planetary 
 <code>[review: weapon-skill consolidation left Ranged (Blaster) twice; level 3 copy replaced by Track]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Cool and Dodge added]</code>
 
+<div style="clear:both"></div>
 === Pilot ===
 
 [[File:SL100 Career Pilot.jpg|thumb|right|360px|Pilot (SL100 original art)]]
@@ -2945,6 +2998,7 @@ Pilots are the freelance starfighter jockeys, freighter captains and speeder rac
 <code>[review: overlaps Smuggler and Scout; differs in that the Pilot is a flyer first with no cargo, trade or wilderness skills and gains Pilot (Capital Ship) and squadron command]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Evaluate added]</code>
 
+<div style="clear:both"></div>
 === Scout ===
 
 [[File:SL100 Career Scout.jpg|thumb|right|360px|Scout (SL100 original art)]]
@@ -2997,6 +3051,7 @@ Across uncharted worlds where reliable maps and survey data are rare, local know
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Intuition and Charm Creature added]</code>
 
+<div style="clear:both"></div>
 === Shadow Scout ===
 
 [[File:SL100 Career Shadow Scout.jpg|thumb|right|360px|Shadow Scout (SL100 original art)]]
@@ -3045,6 +3100,7 @@ Shadow Scouts are the pathfinders and silent killers of irregular warfare: Allia
 <code>[review: overlaps Scout: the Shadow Scout is a stealth pathfinder and sniper for a fighting force (Stealth (Any), Shadow, Sniper, Codes (Ranger)) rather than a frontier explorer and surveyor]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Swim added]</code>
 
+<div style="clear:both"></div>
 === Smuggler ===
 
 [[File:SL100 Career Smuggler.jpg|thumb|right|360px|Smuggler (SL100 original art)]]
@@ -3097,6 +3153,7 @@ Most trade is legally taxed by sector authorities, as well as illegally taxed by
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Navigation and Ranged (Blaster) added]</code>
 
+<div style="clear:both"></div>
 === Trader ===
 
 [[File:SL100 Career Trader.jpg|thumb|right|360px|Trader (SL100 original art)]]
@@ -3143,6 +3200,7 @@ Traders are the itinerant merchants of the galaxy: Jawa scrap sellers trundling 
 <code>[review: overlaps Merchant and Fence; differs by being itinerant, low-status and dealing in legal scrap rather than stolen goods or chartered trade]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Navigation added]</code>
 
+<div style="clear:both"></div>
 === Zealot ===
 
 [[File:SL100 Career Zealot.jpg|thumb|right|360px|Zealot (SL100 original art)]]
@@ -3190,6 +3248,7 @@ Zealots are the fanatics of the galaxy: doomsayers preaching the fall of the Rep
 <code>[review: Ranged (Archaic) mapped to Ranged (Archaic) per table; Flail written as Chain Flail under Melee (2H)]</code>
 <code>[review: Art (Icons) mapped to Art (Holography) per table]</code>
 
+<div style="clear:both"></div>
 == Scoundrels ==
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Meditate and Consume Intoxicant added]</code>
 
@@ -3245,6 +3304,7 @@ Bawds guide folk to establishments offering a variety of illegal and immoral ser
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Sleight of Hand and Stealth (Urban) added]</code>
 
+<div style="clear:both"></div>
 === Charlatan ===
 
 [[File:SL100 Career Charlatan.jpg|thumb|right|360px|Charlatan (SL100 original art)]]
@@ -3297,6 +3357,7 @@ A Charlatan traffics in trust, yet profits from treachery. By preying on emotion
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Language (Any) added]</code>
 
+<div style="clear:both"></div>
 === Fence ===
 
 [[File:SL100 Career Fence.jpg|thumb|right|360px|Fence (SL100 original art)]]
@@ -3349,6 +3410,7 @@ A Fence buys thieves' spoils and sells them on for profit, often to those unawar
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Sleight of Hand and Stealth (Urban) added]</code>
 
+<div style="clear:both"></div>
 === Gambler ===
 
 [[File:SL100 Career Gambler.jpg|thumb|right|360px|Gambler (SL100 original art)]]
@@ -3394,6 +3456,7 @@ Gamblers are the professional sabacc and pazaak players who drift between the ca
 <code>[review: overlaps Charlatan and Fence; differs in that the Gambler earns at the table rather than by confidence tricks or stolen goods, with Gamble not Charm as the earning skill]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Intimidate added]</code>
 
+<div style="clear:both"></div>
 === Outlaw ===
 
 [[File:SL100 Career Outlaw.jpg|thumb|right|360px|Outlaw (SL100 original art)]]
@@ -3446,6 +3509,7 @@ Outlaws ply the hyperlanes and backwater roads of the galaxy in search of vulner
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Navigation added]</code>
 
+<div style="clear:both"></div>
 === Racketeer ===
 
 [[File:SL100 Career Racketeer.jpg|thumb|right|360px|Racketeer (SL100 original art)]]
@@ -3493,6 +3557,7 @@ Racketeers run the protection, extortion and loan-sharking side of organised cri
 <code>[review: role overlaps Outlaw, Fence and Bawd; differs in being the violent enforcement arm of a syndicate rather than a freelance criminal]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Athletics added]</code>
 
+<div style="clear:both"></div>
 === Thief ===
 
 [[File:SL100 Career Thief.jpg|thumb|right|360px|Thief (SL100 original art)]]
@@ -3545,6 +3610,7 @@ Thieves steal all manner of wealth and goods from their fellow citizens. From th
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Codes (Underworld) added]</code>
 
+<div style="clear:both"></div>
 === Tomb Raider ===
 
 [[File:SL100 Career Tomb Raider.jpg|thumb|right|360px|Tomb Raider (SL100 original art)]]
@@ -3592,6 +3658,7 @@ Tomb Raiders dig in the places sensible people avoid: the Valley of the Dark Lor
 <code>[review: Handcart re-themed as a repulsor sled; Horse and Cart as a landspeeder; Spade and Pick as an excavation tool and vibro-pick]</code>
 <code>[review: role overlaps Thief and Scout; differs in targeting ruins and relics rather than living marks or wilderness]</code>
 
+<div style="clear:both"></div>
 == Spacers ==
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Lore (Any) added]</code>
 
@@ -3644,6 +3711,7 @@ Beachcombers haunt the ship graveyards of the Legends galaxy: the scrap plains o
 <code>[review: overlaps Scout and Smuggler only loosely: the Beachcomber stays on one world's wreck-field (Lore (Salvage), Scavenger, Stealth (Rural)) and trades scrap rather than running cargo or charting routes]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Dodge and Gossip added]</code>
 
+<div style="clear:both"></div>
 === Customs Officer ===
 
 [[File:SL100 Career Customs Officer.jpg|thumb|right|360px|Customs Officer (SL100 original art)]]
@@ -3691,6 +3759,7 @@ Customs Officers inspect inbound freighters, check cargo manifests against senso
 <code>[review: role overlaps Guard and Warden; differs in being ship-borne and cargo-focused rather than a planetary peacekeeper]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Language (Trade Cant) added]</code>
 
+<div style="clear:both"></div>
 === Deckhand ===
 
 [[File:SL100 Career Deckhand.jpg|thumb|right|360px|Deckhand (SL100 original art)]]
@@ -3740,6 +3809,7 @@ Deckhands are the unskilled and semi-skilled labour of the spacelanes: loaders, 
 <code>[review: level-4 trapping Hut or Riverboat re-themed as a permanent freighter berth or dockside hab]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Melee (Brawling) added]</code>
 
+<div style="clear:both"></div>
 === Dock Pilot ===
 
 [[File:SL100 Career Dock Pilot.jpg|thumb|right|360px|Dock Pilot (SL100 original art)]]
@@ -3789,6 +3859,7 @@ Dock Pilots guide ships through the crowded approach lanes and into the berths o
 <code>[review: weapon-skill consolidation left Lore (Local) twice; level 3 copy replaced by Dodge]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Endurance and Athletics added]</code>
 
+<div style="clear:both"></div>
 === Dock Worker ===
 
 [[File:SL100 Career Dock Worker.jpg|thumb|right|360px|Dock Worker (SL100 original art)]]
@@ -3834,6 +3905,7 @@ Dock Workers are the muscle of every spaceport: they load and unload freighters,
 <code>[review: Pipe and Tobacco re-themed as a pack of cigarras; Porter Cap as a dock crew cap]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Lore (Local) added]</code>
 
+<div style="clear:both"></div>
 === Marine ===
 
 [[File:SL100 Career Marine.jpg|thumb|right|360px|Marine (SL100 original art)]]
@@ -3881,6 +3953,7 @@ Marines are the fighting troops carried aboard warships and armed merchantmen, d
 <code>[review: weapon-skill consolidation left Ranged (Blaster) twice; level 3 copy replaced by Ranged (Ordnance)]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Gossip added]</code>
 
+<div style="clear:both"></div>
 === Navigator ===
 
 [[File:SL100 Career Navigator.jpg|thumb|right|360px|Navigator (SL100 original art)]]
@@ -3932,6 +4005,7 @@ Navigators plot hyperspace jumps, survey new lanes and draw the charts that ever
 <code>[review: overlaps Scout; differs by charting and selling routes (Art, Profession (Astrogator), guild codes) rather than survival and tracking]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Lore (Hyperlanes) added]</code>
 
+<div style="clear:both"></div>
 === Pirate ===
 
 [[File:SL100 Career Pirate.jpg|thumb|right|360px|Pirate (SL100 original art)]]
@@ -3979,6 +4053,7 @@ Pirates prey on shipping along the hyperlanes, from the Hutt-backed raiders of t
 <code>[review: weapon-skill consolidation left Ranged (Blaster) twice; level 2 copy replaced by Ranged (Thrown)]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Gossip added]</code>
 
+<div style="clear:both"></div>
 === Salvager ===
 
 [[File:SL100 Career Salvager.jpg|thumb|right|360px|Salvager (SL100 original art)]]
@@ -4026,6 +4101,7 @@ Salvagers scavenge derelict starships, battlefield debris fields and the junk-mo
 <code>[review: role overlaps Outlaw and Smuggler; differs in being a wreck-stripping trade that only sometimes turns to piracy]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Evaluate and Athletics added]</code>
 
+<div style="clear:both"></div>
 === Spacer ===
 
 [[File:SL100 Career Spacer.jpg|thumb|right|360px|Spacer (SL100 original art)]]
@@ -4074,6 +4150,7 @@ Spacers are the working crew of the spacelanes: deckhands, loaders, shuttle pilo
 <code>[review: overlaps Smuggler and the Pilot career; differs by being honest crew with no contraband or dogfighting focus]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Gamble and Ranged (Blaster) added]</code>
 
+<div style="clear:both"></div>
 === Starship Crew ===
 
 [[File:SL100 Career Starship Crew.jpg|thumb|right|360px|Starship Crew (SL100 original art)]]
@@ -4120,6 +4197,7 @@ Starship Crew are the long-haul professionals of the galaxy's merchant and passe
 <code>[review: Shipping Charts and Sextant re-themed as hyperlane chart datapad and astrogation computer]</code>
 <code>[review: role overlaps Smuggler and Pilot careers; differs in being deck and engineering crew rather than a cockpit career]</code>
 
+<div style="clear:both"></div>
 == Warriors ==
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Haggle and Lore (Hyperlanes) added]</code>
 
@@ -4175,6 +4253,7 @@ Armoured Knights are the heavy, close-fighting elite of a sworn body: the warrio
 <code>[review: overlaps Guard and Force Warrior; differs by heavy armour, mounted shock combat and an order's chain of command rather than static sentry duty or Force use]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Creature Care and Charm Creature added]</code>
 
+<div style="clear:both"></div>
 === Berserker ===
 
 [[File:SL100 Career Berserker.jpg|thumb|right|360px|Berserker (SL100 original art)]]
@@ -4223,6 +4302,7 @@ Berserkers are the oath-bound warriors who seek an honourable death and keep fai
 <code>[review: overlaps Pit Fighter and Force Warrior; differs in that the Berserker refuses armour, has no Force talents and climbs by trophies rather than rank]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Athletics and Climb added]</code>
 
+<div style="clear:both"></div>
 === Elite Guard ===
 
 [[File:SL100 Career Elite Guard.jpg|thumb|right|360px|Elite Guard (SL100 original art)]]
@@ -4271,6 +4351,7 @@ Elite Guards are the picked companies that stand behind a throne: the Royal Nabo
 <code>[review: overlaps Guard and Soldier; differs by two-handed melee focus, heavy armour and court etiquette (Lore (Galactic Sigils)) rather than street or garrison duty]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Play (Any) added]</code>
 
+<div style="clear:both"></div>
 === Enforcer ===
 
 [[File:SL100 Career Enforcer.jpg|thumb|right|360px|Enforcer (SL100 original art)]]
@@ -4317,6 +4398,7 @@ Enforcers are the bruisers who collect debts for the Black Sun, break legs for J
 <code>[review: overlaps Bounty Hunter, Pit Fighter and Guard; differs in that the Enforcer is a criminal employee whose earning skill is Intimidate and who ends as an assassin, not a licensed hunter or a duellist]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Consume Intoxicant and Stealth (Urban) added]</code>
 
+<div style="clear:both"></div>
 === Guard ===
 
 [[File:SL100 Career Guard.jpg|thumb|right|360px|Guard (SL100 original art)]]
@@ -4370,6 +4452,7 @@ The best way to keep something safe is to post a guard. Guarding looks easy enou
 <code>[review: weapon-skill consolidation left Melee (2H) twice; level 3 copy replaced by Climb]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Lore (Local) and Haggle added]</code>
 
+<div style="clear:both"></div>
 === Gunner ===
 
 [[File:SL100 Career Gunner.jpg|thumb|right|360px|Gunner (SL100 original art)]]
@@ -4419,6 +4502,7 @@ Gunners serve wherever a weapon is too big for one soldier to carry. They crew t
 <code>[review: overlaps Soldier (heavy-weapons trooper); differs by being a crewed-weapon specialist with Spacer / Vacuum Legs and Gunnery Chief rather than a line infantryman]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Intimidate added]</code>
 
+<div style="clear:both"></div>
 === Line Trooper ===
 
 [[File:SL100 Career Line Trooper.jpg|thumb|right|360px|Line Trooper (SL100 original art)]]
@@ -4466,6 +4550,7 @@ Line Troopers are the close-order infantry of every standing army in the galaxy:
 <code>[review: overlaps Soldier and Guard: the Line Trooper is a close-order force-pike-and-shield infantryman (Melee (2H), Drilled, Enclosed Fighter, Riot Shield) rather than a blaster-armed general soldier or a static sentry]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Ranged (Thrown) added]</code>
 
+<div style="clear:both"></div>
 === Martial Artist ===
 
 [[File:SL100 Career Martial Artist.jpg|thumb|right|360px|Martial Artist (SL100 original art)]]
@@ -4513,6 +4598,7 @@ Martial Artists follow one of the galaxy's unarmed fighting traditions: the Echa
 <code>[review: weapon-skill consolidation left Melee (1H) twice; level 2 copy replaced by Melee (2H)]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Medicine and Sleight of Hand added]</code>
 
+<div style="clear:both"></div>
 === Officer ===
 
 [[File:SL100 Career Officer.jpg|thumb|right|360px|Officer (SL100 original art)]]
@@ -4563,6 +4649,7 @@ Officers hold the commissions that run the great navies and armies of the galaxy
 <code>[review: overlaps Soldier (Sergeant / Officer levels); differs by starting commissioned with Leadership as earning skill and fleet skills (Pilot (Capital Ship), Lore (Hyperlanes)) instead of line combat]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Lore (Warfare) added]</code>
 
+<div style="clear:both"></div>
 === Pit Fighter ===
 
 [[File:SL100 Career Pit Fighter.jpg|thumb|right|360px|Pit Fighter (SL100 original art)]]
@@ -4615,6 +4702,7 @@ Watching fights is a popular pastime. On many worlds, organised fights — gladi
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Climb and Entertain (Taunt) added]</code>
 
+<div style="clear:both"></div>
 === Sharpshooter ===
 
 [[File:SL100 Career Sharpshooter.jpg|thumb|right|360px|Sharpshooter (SL100 original art)]]
@@ -4665,6 +4753,7 @@ Sharpshooters are the snipers and skirmish marksmen of the galaxy's armies: Repu
 <code>[review: overlaps Soldier, Scout and Bounty Hunter; differs by being a ranged specialist stacking Accurate Shot / Sure Shot / Sharpshooter / Sniper with no scouting or capture skills]</code>
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Consume Intoxicant added]</code>
 
+<div style="clear:both"></div>
 === Soldier ===
 
 [[File:SL100 Career Soldier.jpg|thumb|right|360px|Soldier (SL100 original art)]]
@@ -4717,6 +4806,7 @@ By the command of the Galactic Emperor — and before him the Republic Senate �
 ''Conversion notes:''
 <code>[review: level 1 raised to ten skills (13 Oct ruling): Ranged (Blaster) and Intimidate added]</code>
 
+<div style="clear:both"></div>
 === Speeder Trooper ===
 
 [[File:SL100 Career Speeder Trooper.jpg|thumb|right|360px|Speeder Trooper (SL100 original art)]]

@@ -486,6 +486,7 @@ I'''NT +20  WILL +10  T +10  FEL -10     Talents: '''Bookish, Datapad Use''', ''
 
 Arkanians are capable of seeing into the infrared spectrum, and their eyes are sensitive to sources of extreme heat.
 
+<div style="clear:both"></div>
 === [[Besalisk/Legends|Besalisk]] ===
 
 [[File:SL100 Species Besalisk.jpg|thumb|right|360px|Besalisk]]
@@ -500,6 +501,7 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 '''Movement''': 4, '''Destiny''': 1, '''Resilience''': 1, '''Extra points''': 2
 
+<div style="clear:both"></div>
 === [[Chironian]] ===
 
 [[File:SL100 Species Chironian.jpg|thumb|right|360px|Chironian]]
@@ -518,6 +520,7 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 
 '''Size talent:''' Large <code>[review: Large talent added 12 Oct; Wookiees and other big species need it to be that big]</code>
 
+<div style="clear:both"></div>
 === [[Chiss/Legends|Chiss]] ===
 
 [[File:SL100 Species Chiss.jpg|thumb|right|360px|Chiss]]
@@ -537,6 +540,7 @@ The Chiss are known for their secretive nature and have had little contact with 
 
 '''Mv''': 4  '''Destiny''': 1  '''Resilience''': 1 '''Extra Points''': 2
 
+<div style="clear:both"></div>
 === [[Echani/Legends|Echani]] ===
 
 [[File:SL100 Species Echani.jpg|thumb|right|360px|Echani]]
@@ -560,6 +564,7 @@ The Thyrasian sub species of Echani is known for their dark hair and skin, rathe
 
 '''Movement''': 4  '''Destiny''': 1  '''Resilience''': 1  '''Extra points''': 2
 
+<div style="clear:both"></div>
 === [[Human/Legends|Human]] ===
 
 [[File:SL100 Species Human.jpg|thumb|right|360px|Human]]
@@ -579,6 +584,7 @@ Their sheer numbers and adaptability have made them a force to be reckoned with 
 
 '''Movement''': 4, '''Destiny''': 2, '''Resilience''': 1, '''Extra points''': 3
 
+<div style="clear:both"></div>
 === [[Kel Dor/Legends|Kel Dor]] ===
 
 [[File:SL100 Species Kel Dor.jpg|thumb|right|360px|Kel Dor]]
@@ -600,6 +606,7 @@ Kel Dor are known for their strong connection to the Force and their natural apt
 
 Any force specialisation related to Force - Sense that requires multiple selections of Force Specialisation is one rank cheaper.
 
+<div style="clear:both"></div>
 === [[Miraluka/Legends|Miraluka]] ===
 
 [[File:SL100 Species Miraluka.jpg|thumb|right|360px|Miraluka]]
@@ -619,6 +626,7 @@ A thoughtful, careful and deliberate species without eyes that instead see throu
 
 '''Movement''': 4, '''Destiny''': 2, '''Resilience''': 1, '''Extra points''': 2
 
+<div style="clear:both"></div>
 === [[Nautolan/Legends|Nautolan]] ===
 
 [[File:SL100 Species Nautolan.jpg|thumb|right|360px|Nautolan]]
@@ -636,6 +644,7 @@ Nautolans are excellent swimmers and possess low-light vision, making them well-
 
 '''Movement''': 4  '''Destiny''': 1  '''Resilience''': 1  '''Extra points''': 2
 
+<div style="clear:both"></div>
 === [[Otolla/Legends|Otolla Gungan]] ===
 
 [[File:SL100 Species Otolla Gungan.jpg|thumb|right|360px|Otolla Gungan]]
@@ -652,6 +661,7 @@ The Otolla lineage of Gungans was the race that Jar Jar Binks, Augara Jowil, and
 
 '''Movement''': 4, '''Destiny''': 2, '''Resilience''': 1, '''Extra points''': 3
 
+<div style="clear:both"></div>
 === [[Togruta/Legends|Togruta]] ===
 
 [[File:SL100 Species Togruta.jpg|thumb|right|360px|Togruta]]
@@ -668,6 +678,7 @@ As predators, Togruta had sharp canine teeth, which they used to painlessly kill
 
 '''Movement''': 4, '''Destiny''': 2, '''Resilience''': 1, '''Extra points''': 3
 
+<div style="clear:both"></div>
 === [[Trandoshan/Legends|Trandoshan]] ===
 
 [[File:SL100 Species Trandoshan.jpg|thumb|right|360px|Trandoshan]]
@@ -687,6 +698,7 @@ She watches over the Trandoshan people, blessing or punishing them based on the 
 
 Trandoshan are capable of seeing into the infrared spectrum
 
+<div style="clear:both"></div>
 === [[T'surr]] ===
 
 [[File:SL100 Species T'surr.jpg|thumb|right|360px|T'surr]]
@@ -712,6 +724,7 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 
 '''Size talent:''' Large <code>[review: Large talent added 12 Oct; Wookiees and other big species need it to be that big]</code>
 
+<div style="clear:both"></div>
 === [[Twi'lek/Legends|Twi'lek]] ===
 
 [[File:SL100 Species Twi'lek.jpg|thumb|right|360px|Twi'lek]]
@@ -727,6 +740,7 @@ Secondary claw hands have STR without the +20 and may not manipulate tools, thes
 
 '''Movement''': 4  '''Destiny''': 1  '''Resilience''': 1  '''Extra points''': 2
 
+<div style="clear:both"></div>
 === [[Weequay/Legends|Weequay]] ===
 
 [[File:SL100 Species Weequay.jpg|thumb|right|360px|Weequay]]
@@ -748,6 +762,7 @@ In the galaxy at large, Weequay are often found in the employ of the Hutt Clan, 
 
 '''Movement''': 4  '''Destiny''': 1  '''Resilience''': 1  '''Extra points''': 2
 
+<div style="clear:both"></div>
 === [[Wookiee/Legends|Wookiee]] ===
 
 [[File:SL100 Species Wookiee.jpg|thumb|right|360px|Wookiee]]
@@ -767,6 +782,7 @@ Average height 2.23 – 2.54 meters
 
 '''Size talent:''' Large <code>[review: Large talent added 12 Oct; Wookiees and other big species need it to be that big]</code>
 
+<div style="clear:both"></div>
 === [[Zabrak/Legends|Zabrak]] ===
 
 [[File:SL100 Species Zabrak.jpg|thumb|right|360px|Zabrak]]
@@ -779,6 +795,7 @@ Average height 2.23 – 2.54 meters
 
 '''T''' +10  '''WP''' +20  '''Talents''': Craftsman (Profession) or Strider (Terrain), Datapad Use''',''' Resistance (Poison), Warrior Born, Roll 1 talent from the random talents list.
 
+<div style="clear:both"></div>
 == Species added from Legends <code>[sl100]</code> ==
 
 === [[Abyssin/Legends|Abyssin]] ===
@@ -796,6 +813,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Single eye (poor depth perception); regrows lost limbs and organs over weeks; lifespan up to 300 years
 
+<div style="clear:both"></div>
 === [[Adarian/Legends|Adarian]] ===
 
 [[File:SL100 Species Adarian.jpg|thumb|right|360px|Adarian]]
@@ -811,6 +829,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Hears through skull hairs and smells through skin glands; subsonic call reaches 20 km in open air
 
+<div style="clear:both"></div>
 === [[Advozse/Legends|Advozse]] ===
 
 [[File:SL100 Species Advozse.jpg|thumb|right|360px|Advozse]]
@@ -826,6 +845,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Large black eyes suited to dim light; cannot digest meat
 
+<div style="clear:both"></div>
 === [[Aleena/Legends|Aleena]] ===
 
 [[File:SL100 Species Aleena.jpg|thumb|right|360px|Aleena]]
@@ -841,6 +861,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' none (thin source)
 
+<div style="clear:both"></div>
 === [[Anomid/Legends|Anomid]] ===
 
 [[File:SL100 Species Anomid.jpg|thumb|right|360px|Anomid]]
@@ -856,6 +877,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' No vocal cords: speaks only through a vocaliser mask or Anomid sign language; six-fingered hands with two thumbs
 
+<div style="clear:both"></div>
 === [[Anx/Legends|Anx]] ===
 
 [[File:SL100 Species Anx.jpg|thumb|right|360px|Anx]]
@@ -871,6 +893,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' Tail +SB+2 (Pummel)  '''Traits:''' Poor eyesight; crest changes colour with mood; subsonic voice carries several kilometres
 
+<div style="clear:both"></div>
 === [[Anzat/Legends|Anzat]] ===
 
 [[File:SL100 Species Anzat.jpg|thumb|right|360px|Anzat]]
@@ -886,6 +909,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Feeds on the life force of sentients through facial tendrils; near-ageless lifespan (thin source)
 
+<div style="clear:both"></div>
 === [[Aqualish/Legends|Aqualish]] ===
 
 [[File:SL100 Species Aqualish.jpg|thumb|right|360px|Aqualish]]
@@ -901,6 +925,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Breathes air and water; tusks sense heat and cold; Ualaq race has four eyes and Night Vision
 
+<div style="clear:both"></div>
 === [[Arcona/Legends|Arcona]] ===
 
 [[File:SL100 Species Arcona.jpg|thumb|right|360px|Arcona]]
@@ -916,6 +941,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' Poor eyesight, sees heat with a sensory organ between the eyes; needs ammonia supplements offworld; salt is addictive
 
+<div style="clear:both"></div>
 === [[Askajian/Legends|Askajian]] ===
 
 [[File:SL100 Species Askajian.jpg|thumb|right|360px|Askajian]]
@@ -931,6 +957,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Stores water in epidermal sacs, can go weeks without drinking and shed 60% of body water without harm
 
+<div style="clear:both"></div>
 === [[Ayrou/Legends|Ayrou]] ===
 
 [[File:SL100 Species Ayrou.jpg|thumb|right|360px|Ayrou]]
@@ -946,6 +973,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Shrill voice unsettles other species (−10 to Charm by speech with most listeners); plumage, flightless
 
+<div style="clear:both"></div>
 === [[Balosar/Legends|Balosar]] ===
 
 [[File:SL100 Species Balosar.jpg|thumb|right|360px|Balosar]]
@@ -961,6 +989,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Filters airborne and ingested poisons from the bloodstream (thin source)
 
+<div style="clear:both"></div>
 === [[Barabel/Legends|Barabel]] ===
 
 [[File:SL100 Species Barabel.jpg|thumb|right|360px|Barabel]]
@@ -976,6 +1005,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2, Bite +SB+3  '''Traits:''' Sees into the infrared; keratin scales; cold-blooded, sluggish in extreme cold
 
+<div style="clear:both"></div>
 === [[Baragwin/Legends|Baragwin]] ===
 
 [[File:SL100 Species Baragwin.jpg|thumb|right|360px|Baragwin]]
@@ -991,6 +1021,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Can smell another being's emotional state; no homeworld or native language
 
+<div style="clear:both"></div>
 === [[Bardottan/Legends|Bardottan]] ===
 
 [[File:SL100 Species Bardottan.jpg|thumb|right|360px|Bardottan]]
@@ -1006,6 +1037,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Eyes set on the sides of the head give a wide field of view
 
+<div style="clear:both"></div>
 === [[Bartokk]] ===
 
 [[File:SL100 Species Bartokk.jpg|thumb|right|360px|Bartokk]]
@@ -1021,6 +1053,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+3  '''Traits:''' Four arms (may take Ambidextrous twice); telepathy within the hive; chitin counts as light armour; secondary eyes on the abdomen; Force-blind
 
+<div style="clear:both"></div>
 === [[Bimm/Legends|Bimm]] ===
 
 [[File:SL100 Species Bimm.jpg|thumb|right|360px|Bimm]]
@@ -1036,6 +1069,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Bith/Legends|Bith]] ===
 
 [[File:SL100 Species Bith.jpg|thumb|right|360px|Bith]]
@@ -1051,6 +1085,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Microscopic close vision but severely short-sighted; sonic weapons deal double damage; thumb and little finger both opposable
 
+<div style="clear:both"></div>
 === [[Blood Carver]] ===
 
 [[File:SL100 Species Blood Carver.jpg|thumb|right|360px|Blood Carver]]
@@ -1066,6 +1101,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Nose serves as both scent and hearing organ; triple-jointed limbs; only a few hundred remain
 
+<div style="clear:both"></div>
 === [[Bothan/Legends|Bothan]] ===
 
 [[File:SL100 Species Bothan.jpg|thumb|right|360px|Bothan]]
@@ -1081,6 +1117,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Fur ripples with emotion: those who know the signs read a Bothan's mood easily
 
+<div style="clear:both"></div>
 === [[Caamasi/Legends|Caamasi]] ===
 
 [[File:SL100 Species Caamasi.jpg|thumb|right|360px|Caamasi]]
@@ -1096,6 +1133,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Retractable claws and fangs, rarely bared; a pacifist culture that treats violence as a last resort
 
+<div style="clear:both"></div>
 === [[Caarite]] ===
 
 [[File:SL100 Species Caarite.jpg|thumb|right|360px|Caarite]]
@@ -1111,6 +1149,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Thrives in heat but suffers badly in cold (−10 to resist cold)
 
+<div style="clear:both"></div>
 === [[Cathar/Legends|Cathar]] ===
 
 [[File:SL100 Species Cathar.jpg|thumb|right|360px|Cathar]]
@@ -1126,6 +1165,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' Retractable claws; mates for life
 
+<div style="clear:both"></div>
 === [[Celegian/Legends|Celegian]] ===
 
 [[File:SL100 Species Celegian.jpg|thumb|right|360px|Celegian]]
@@ -1141,6 +1181,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Flight (natural telekinetic hover); breathes cyanogen, oxygen is lethal, needs a sealed chamber offworld; speaks only by telepathy; manipulates with tentacles
 
+<div style="clear:both"></div>
 === [[Cerean/Legends|Cerean]] ===
 
 [[File:SL100 Species Cerean.jpg|thumb|right|360px|Cerean]]
@@ -1156,6 +1197,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Binary brain: may pursue two lines of thought at once (second Intelligence-based Test per Round at the GM's discretion); two hearts
 
+<div style="clear:both"></div>
 === [[Chadra-Fan/Legends|Chadra-Fan]] ===
 
 [[File:SL100 Species Chadra-Fan.jpg|thumb|right|360px|Chadra-Fan]]
@@ -1171,6 +1213,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Sees into the infrared; seven senses, all sharper than a Human's
 
+<div style="clear:both"></div>
 === [[Chagrian/Legends|Chagrian]] ===
 
 [[File:SL100 Species Chagrian.jpg|thumb|right|360px|Chagrian]]
@@ -1186,6 +1229,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Breathes air and water; no sense of taste
 
+<div style="clear:both"></div>
 === [[Charon/Legends|Charon]] ===
 
 [[File:SL100 Species Charon.jpg|thumb|right|360px|Charon]]
@@ -1201,6 +1245,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Four arms (may take Ambidextrous twice); four legs, almost impossible to knock down; emotionless manner
 
+<div style="clear:both"></div>
 === [[Chev]] ===
 
 [[File:SL100 Species Chev.jpg|thumb|right|360px|Chev]]
@@ -1216,6 +1261,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Lidless eyes; two hearts (thin source)
 
+<div style="clear:both"></div>
 === [[Chevin/Legends|Chevin]] ===
 
 [[File:SL100 Species Chevin.jpg|thumb|right|360px|Chevin]]
@@ -1231,6 +1277,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Transparent second eyelid protects against dust and wind; comfortable in heat and cold alike
 
+<div style="clear:both"></div>
 === [[Clawdite/Legends|Clawdite]] ===
 
 [[File:SL100 Species Clawdite.jpg|thumb|right|360px|Clawdite]]
@@ -1246,6 +1293,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Shapeshifter: may alter skin and eye colour and texture to impersonate a humanoid of similar build (Entertain (Acting) Test to disguise); lifespan about 70 years
 
+<div style="clear:both"></div>
 === [[Colicoid/Legends|Colicoid]] ===
 
 [[File:SL100 Species Colicoid.jpg|thumb|right|360px|Colicoid]]
@@ -1261,6 +1309,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Tail +SB+3 (Pummel)  '''Traits:''' Multifaceted eyes give near all-round vision; can curl into a chitinous ball (counts as armour while curled, no actions); only queens are venomous
 
+<div style="clear:both"></div>
 === [[Cragmoloid/Legends|Cragmoloid]] ===
 
 [[File:SL100 Species Cragmoloid.jpg|thumb|right|360px|Cragmoloid]]
@@ -1276,6 +1325,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' Tusks +SB+3  '''Traits:''' Prehensile trunk; prone to rage when faced with subterfuge; sinks into depression when parted from family
 
+<div style="clear:both"></div>
 === [[Dantari]] ===
 
 [[File:SL100 Species Dantari.jpg|thumb|right|360px|Dantari]]
@@ -1291,6 +1341,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Stone-age nomads with no knowledge of technology beyond salvage
 
+<div style="clear:both"></div>
 === [[Dashade/Legends|Dashade]] ===
 
 [[File:SL100 Species Dashade.jpg|thumb|right|360px|Dashade]]
@@ -1306,6 +1357,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' Dissipates body heat, nearly invisible to life-form sensors; near-extinct, most survivors are ancient Shadow Killers revived from stasis
 
+<div style="clear:both"></div>
 === [[Dathomirian/Legends|Dathomirian]] ===
 
 [[File:SL100 Species Dathomirian.jpg|thumb|right|360px|Dathomirian]]
@@ -1321,6 +1373,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Strong sexual dimorphism (horned males, pale females); clan culture steeped in the Force
 
+<div style="clear:both"></div>
 === [[Defel/Legends|Defel]] ===
 
 [[File:SL100 Species Defel.jpg|thumb|right|360px|Defel]]
@@ -1336,6 +1389,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' Absorbs visible light, +20 to Stealth in dim conditions; sees ultraviolet; blinded by bright light without a visor
 
+<div style="clear:both"></div>
 === [[Devaronian/Legends|Devaronian]] ===
 
 [[File:SL100 Species Devaronian.jpg|thumb|right|360px|Devaronian]]
@@ -1351,6 +1405,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Silver-based blood and two livers; denser and heavier than they look; sulphur acts as a dangerous stimulant
 
+<div style="clear:both"></div>
 === [[Diathim/Legends|Diathim]] ===
 
 [[File:SL100 Species Diathim.jpg|thumb|right|360px|Diathim]]
@@ -1366,6 +1421,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Flight (six wings); body radiates light, cannot hide in darkness; hypnotic beauty (thin source)
 
+<div style="clear:both"></div>
 === [[Drall/Legends|Drall]] ===
 
 [[File:SL100 Species Drall.jpg|thumb|right|360px|Drall]]
@@ -1381,6 +1437,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Thick fur, comfortable in heat; lifespan about 120 years
 
+<div style="clear:both"></div>
 === [[Dressellian/Legends|Dressellian]] ===
 
 [[File:SL100 Species Dressellian.jpg|thumb|right|360px|Dressellian]]
@@ -1396,6 +1453,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Teal blood; barely industrial homeworld, many are unfamiliar with advanced technology
 
+<div style="clear:both"></div>
 === [[Dug/Legends|Dug]] ===
 
 [[File:SL100 Species Dug.jpg|thumb|right|360px|Dug]]
@@ -1411,6 +1469,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Walks on its arms and manipulates with its feet; climbs at full Movement; inflatable throat sac
 
+<div style="clear:both"></div>
 === [[Duinuogwuin/Legends|Duinuogwuin]] ===
 
 [[File:SL100 Species Duinuogwuin.jpg|thumb|right|360px|Duinuogwuin]]
@@ -1426,6 +1485,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' Bite +SB+3, Claws +SB+2  '''Traits:''' Flight; survives hard vacuum and crosses interstellar space unaided on a natural repulsor field; hardened scales; lifespan measured in millennia
 
+<div style="clear:both"></div>
 === [[Duros/Legends|Duros]] ===
 
 [[File:SL100 Species Duros.jpg|thumb|right|360px|Duros]]
@@ -1441,6 +1501,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' egg-laying reptilian stock; olfactory organs sit beneath the eyes
 
+<div style="clear:both"></div>
 === [[Ebranite]] ===
 
 [[File:SL100 Species Ebranite.jpg|thumb|right|360px|Ebranite]]
@@ -1456,6 +1517,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' six arms (may take Ambidextrous twice); infrared vision; combat rage when endangered (may enter Frenzy at will)
 
+<div style="clear:both"></div>
 === [[Elom/Legends|Elom]] ===
 
 [[File:SL100 Species Elom.jpg|thumb|right|360px|Elom]]
@@ -1471,6 +1533,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Tusks +SB+2  '''Traits:''' dazzled by bright light (−10 to Perception in full daylight without eye protection); cheek pouches store food
 
+<div style="clear:both"></div>
 === [[Elomin/Legends|Elomin]] ===
 
 [[File:SL100 Species Elomin.jpg|thumb|right|360px|Elomin]]
@@ -1486,6 +1549,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' horns; four stomachs and a six-chambered heart; unsettled by disorder (−10 to Cool Tests when a plan collapses into chaos)
 
+<div style="clear:both"></div>
 === [[Em'liy/Legends|Em'liy]] ===
 
 [[File:SL100 Species Em'liy.jpg|thumb|right|360px|Em'liy]]
@@ -1501,6 +1565,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Esh-kha]] ===
 
 [[File:SL100 Species Esh-kha.jpg|thumb|right|360px|Esh-kha]]
@@ -1516,6 +1581,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' digitigrade; caste-bred hive society; Old Republic era only (sealed in the Belsavis prison in later ages)
 
+<div style="clear:both"></div>
 === [[Ewok/Legends|Ewok]] ===
 
 [[File:SL100 Species Ewok.jpg|thumb|right|360px|Ewok]]
@@ -1531,6 +1597,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Falleen/Legends|Falleen]] ===
 
 [[File:SL100 Species Falleen.jpg|thumb|right|360px|Falleen]]
@@ -1546,6 +1613,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' pheromones (once per scene, +20 to a Charm Test against a target who can smell them); shifts skin colour with mood or at will; cold-blooded
 
+<div style="clear:both"></div>
 === [[Farghul/Legends|Farghul]] ===
 
 [[File:SL100 Species Farghul.jpg|thumb|right|360px|Farghul]]
@@ -1561,6 +1629,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' prehensile tail (can hold a small object or steady a climb, but not wield a weapon)
 
+<div style="clear:both"></div>
 === [[Feeorin/Legends|Feeorin]] ===
 
 [[File:SL100 Species Feeorin.jpg|thumb|right|360px|Feeorin]]
@@ -1576,6 +1645,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' lifespan about 400 years, growing stronger with age (elders may gain further S at the GM's discretion); head and face tendrils
 
+<div style="clear:both"></div>
 === [[Filordus]] ===
 
 [[File:SL100 Species Filordus.jpg|thumb|right|360px|Filordus]]
@@ -1591,6 +1661,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 6  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Pincers +SB+2  '''Traits:''' quadruped (walking upright halves Movement and causes Fatigue after a few minutes); no sexes
 
+<div style="clear:both"></div>
 === [[Frozian/Legends|Frozian]] ===
 
 [[File:SL100 Species Frozian.jpg|thumb|right|360px|Frozian]]
@@ -1606,6 +1677,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' extra joint in each limb; standard gravity roughly halves their lifespan and prevents breeding away from Froz
 
+<div style="clear:both"></div>
 === [[Gamorrean/Legends|Gamorrean]] ===
 
 [[File:SL100 Species Gamorrean.jpg|thumb|right|360px|Gamorrean]]
@@ -1621,6 +1693,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Gand/Legends|Gand]] ===
 
 [[File:SL100 Species Gand.jpg|thumb|right|360px|Gand]]
@@ -1636,6 +1709,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' exoskeleton (1 AP on all locations); regrows lost limbs in days; sees into the ultraviolet; breather Gands need an ammonia breath mask in oxygen, lungless Gands do not breathe and ignore poisonous gases
 
+<div style="clear:both"></div>
 === [[Gen'Dai/Legends|Gen'Dai]] ===
 
 [[File:SL100 Species Gen'Dai.jpg|thumb|right|360px|Gen'Dai]]
@@ -1651,6 +1725,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2  '''Traits:''' boneless with no vital organs (ignore Critical Wounds that depend on broken bones or organ damage, survive dismemberment, regrow lost parts in minutes); lifespan of millennia, madness common in the eldest
 
+<div style="clear:both"></div>
 === [[Geonosian/Legends|Geonosian]] ===
 
 [[File:SL100 Species Geonosian.jpg|thumb|right|360px|Geonosian]]
@@ -1666,6 +1741,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' chitin exoskeleton (1 AP on all locations); caste-bound hive society; many of the warrior caste have membranous wings (Flight, short distances only)
 
+<div style="clear:both"></div>
 === [[Givin/Legends|Givin]] ===
 
 [[File:SL100 Species Givin.jpg|thumb|right|360px|Givin]]
@@ -1681,6 +1757,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' sealed exoskeleton lets them survive hard vacuum for about a day; can calculate hyperspace jumps mentally without a navicomputer
 
+<div style="clear:both"></div>
 === [[Gossam/Legends|Gossam]] ===
 
 [[File:SL100 Species Gossam.jpg|thumb|right|360px|Gossam]]
@@ -1696,6 +1773,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Gotal/Legends|Gotal]] ===
 
 [[File:SL100 Species Gotal.jpg|thumb|right|360px|Gotal]]
@@ -1711,6 +1789,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' cones sense electromagnetic fields and emotional auras (empathy; locate living beings and droids by their emissions, even through walls); weak sight and hearing, almost no sense of smell; strong EM sources or active Force use overload the cones (−10 to Tests)
 
+<div style="clear:both"></div>
 === [[Gran/Legends|Gran]] ===
 
 [[File:SL100 Species Gran.jpg|thumb|right|360px|Gran]]
@@ -1726,6 +1805,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' three eyes see infrared and a wider colour range; read emotions from body heat and skin colour (+10 to Intuition Tests on living, warm-blooded targets); a Gran who loses a mate usually dies within days
 
+<div style="clear:both"></div>
 === [[H'nemthe/Legends|H'nemthe]] ===
 
 [[File:SL100 Species H'nemthe.jpg|thumb|right|360px|H'nemthe]]
@@ -1741,6 +1821,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none (thin source)
 
+<div style="clear:both"></div>
 === [[Hapan]] ===
 
 [[File:SL100 Species Hapan.jpg|thumb|right|360px|Hapan]]
@@ -1756,6 +1837,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-human; poor night vision (−20 to Perception in dim light, effectively blind in darkness; may never take Night Vision)
 
+<div style="clear:both"></div>
 === [[Herglic/Legends|Herglic]] ===
 
 [[File:SL100 Species Herglic.jpg|thumb|right|360px|Herglic]]
@@ -1771,6 +1853,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' breathes through a blowhole and can hold its breath for long periods; bulk makes Human-scale seating, hatches and vehicles awkward; notorious gamblers
 
+<div style="clear:both"></div>
 === [[Ho'Din/Legends|Ho'Din]] ===
 
 [[File:SL100 Species Ho'Din.jpg|thumb|right|360px|Ho'Din]]
@@ -1786,6 +1869,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' head tresses are thermal sensors (perceive heat sources in darkness as infrared vision); suction-tipped fingers; two hearts; shun technology on living worlds
 
+<div style="clear:both"></div>
 === [[Houk/Legends|Houk]] ===
 
 [[File:SL100 Species Houk.jpg|thumb|right|360px|Houk]]
@@ -1801,6 +1885,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' thick skull (+10 to Endurance Tests to resist Stunned)
 
+<div style="clear:both"></div>
 === [[Hrakian]] ===
 
 [[File:SL100 Species Hrakian.jpg|thumb|right|360px|Hrakian]]
@@ -1816,6 +1901,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-human
 
+<div style="clear:both"></div>
 === [[Huralok]] ===
 
 [[File:SL100 Species Huralok.jpg|thumb|right|360px|Huralok]]
@@ -1831,6 +1917,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' lifespan over 300 years; scaled hide
 
+<div style="clear:both"></div>
 === [[Hutt/Legends|Hutt]] ===
 
 [[File:SL100 Species Hutt.jpg|thumb|right|360px|Hutt]]
@@ -1846,6 +1933,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' Tail +SB+2 (Pummel)  '''Traits:''' no skeleton; corrosion-resistant hide and thick blubber; slippery (+20 to escape a grapple); holds breath for hours; slowly regenerates injuries; lifespan 900+ years; chooses its own sex
 
+<div style="clear:both"></div>
 === [[Iktotchi/Legends|Iktotchi]] ===
 
 [[File:SL100 Species Iktotchi.jpg|thumb|right|360px|Iktotchi]]
@@ -1861,6 +1949,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' telepathy (silent speech with willing minds in sight); precognitive flashes (+20 to Sixth Sense on Iktotch, normal elsewhere); horns regrow if broken; large clumsy hands need oversized controls
 
+<div style="clear:both"></div>
 === [[Iotran/Legends|Iotran]] ===
 
 [[File:SL100 Species Iotran.jpg|thumb|right|360px|Iotran]]
@@ -1876,6 +1965,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Spiked fists +SB+2  '''Traits:''' bony spikes on shoulders and elbows (1 AP on the arms)
 
+<div style="clear:both"></div>
 === [[Ishi Tib/Legends|Ishi Tib]] ===
 
 [[File:SL100 Species Ishi Tib.jpg|thumb|right|360px|Ishi Tib]]
@@ -1891,6 +1981,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Beak +SB+2  '''Traits:''' lungs double as gills (water-breather); must soak in salt water every 30 hours or the skin cracks (lose 1 Wound per hour thereafter until immersed)
 
+<div style="clear:both"></div>
 === [[Ithorian/Legends|Ithorian]] ===
 
 [[File:SL100 Species Ithorian.jpg|thumb|right|360px|Ithorian]]
@@ -1906,6 +1997,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' two mouths and four throats (stereophonic speech; non-Ithorians cannot speak Ithorese); sonic bellow (once per encounter, all within a short cone take an Endurance Test or are Stunned and Deafened); slow reflexes
 
+<div style="clear:both"></div>
 === [[Jawa/Legends|Jawa]] ===
 
 [[File:SL100 Species Jawa.jpg|thumb|right|360px|Jawa]]
@@ -1921,6 +2013,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' pungent scent (−10 to Charm and Stealth where smell matters, but conveys identity, health and mood to other Jawas); robust immune system (+10 to resist Disease); lifespan up to 80 years
 
+<div style="clear:both"></div>
 === [[Jenet/Legends|Jenet]] ===
 
 [[File:SL100 Species Jenet.jpg|thumb|right|360px|Jenet]]
@@ -1936,6 +2029,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' keen sight, hearing and smell; digests almost any organic matter (never sickened by spoiled food); squeezes through 12 cm openings by disjointing limbs and skull plates
 
+<div style="clear:both"></div>
 === [[Kadas'sa'Nikto/Legends|Kadas'sa'Nikto]] ===
 
 [[File:SL100 Species Kadas'sa'Nikto.jpg|thumb|right|360px|Kadas'sa'Nikto]]
@@ -1951,6 +2045,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' climbing claws; Nikto subspecies (thin source)
 
+<div style="clear:both"></div>
 === [[Kage/Legends|Kage]] ===
 
 [[File:SL100 Species Kage.jpg|thumb|right|360px|Kage]]
@@ -1966,6 +2061,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-human; adapted to Quarzite's high atmospheric pressure and cavern darkness
 
+<div style="clear:both"></div>
 === [[Kaleesh/Legends|Kaleesh]] ===
 
 [[File:SL100 Species Kaleesh.jpg|thumb|right|360px|Kaleesh]]
@@ -1981,6 +2077,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' internal organs extremely flammable (Ablaze damage against a Kaleesh is doubled); masked in public by custom
 
+<div style="clear:both"></div>
 === [[Kaminoan/Legends|Kaminoan]] ===
 
 [[File:SL100 Species Kaminoan.jpg|thumb|right|360px|Kaminoan]]
@@ -1996,6 +2093,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' sees ultraviolet and in dark or murky water; digitigrade; adult at 11 years; dispassionate toward other species
 
+<div style="clear:both"></div>
 === [[Kerestian/Legends|Kerestian]] ===
 
 [[File:SL100 Species Kerestian.jpg|thumb|right|360px|Kerestian]]
@@ -2011,6 +2109,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' vestigial breather tubes; embrace death (+10 to Cool Tests against Fear)
 
+<div style="clear:both"></div>
 === [[Keshiri/Legends|Keshiri]] ===
 
 [[File:SL100 Species Keshiri.jpg|thumb|right|360px|Keshiri]]
@@ -2026,6 +2125,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-human but cannot interbreed with Humans; Lost Tribe of the Sith era (Kesh is cut off from the galaxy until 41 ABY)
 
+<div style="clear:both"></div>
 === [[Khil]] ===
 
 [[File:SL100 Species Khil.jpg|thumb|right|360px|Khil]]
@@ -2041,6 +2141,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' breathes, feeds and speaks through facial tendrils (hullepi); prone to breakdowns under prolonged stress (−10 to Cool Tests after a major failure, at the GM's option)
 
+<div style="clear:both"></div>
 === [[Khommite/Legends|Khommite]] ===
 
 [[File:SL100 Species Khommite.jpg|thumb|right|360px|Khommite]]
@@ -2056,6 +2157,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-human clone lineage (each Khommite is a numbered copy of an earlier template); digests only processed food wafers; sexless; Force sensitivity vanishingly rare
 
+<div style="clear:both"></div>
 === [[Kian'thar]] ===
 
 [[File:SL100 Species Kian'thar.jpg|thumb|right|360px|Kian'thar]]
@@ -2071,6 +2173,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Empathic sense: reads the emotional state of any being within sight, including non-Kian'thar (+10 to Intuition and Charm Tests that turn on a target's mood)
 
+<div style="clear:both"></div>
 === [[Kiffar/Legends|Kiffar]] ===
 
 [[File:SL100 Species Kiffar.jpg|thumb|right|360px|Kiffar]]
@@ -2086,6 +2189,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' About one in a hundred Kiffar has psychometry, reading the past of objects and the dead by touch (a Force-sensitive Kiffar may take Force Sense (Psychometry))
 
+<div style="clear:both"></div>
 === [[Kilmaulsi]] ===
 
 [[File:SL100 Species Kilmaulsi.jpg|thumb|right|360px|Kilmaulsi]]
@@ -2101,6 +2205,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Kitonak/Legends|Kitonak]] ===
 
 [[File:SL100 Species Kitonak.jpg|thumb|right|360px|Kitonak]]
@@ -2116,6 +2221,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Leathery hide shrugs off desert heat and sand; can remain perfectly still for days (+20 to Stealth Tests when motionless); never hurries
 
+<div style="clear:both"></div>
 === [[Klatooinian/Legends|Klatooinian]] ===
 
 [[File:SL100 Species Klatooinian.jpg|thumb|right|360px|Klatooinian]]
@@ -2131,6 +2237,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Kobok/Legends|Kobok]] ===
 
 [[File:SL100 Species Kobok.jpg|thumb|right|360px|Kobok]]
@@ -2146,6 +2253,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Limb spikes +SB+2 (venom)  '''Traits:''' 360° vision (cannot be outflanked or surprised from behind); spike venom knocks out a Human-sized victim for several hours on a failed Endurance Test; immune to the deadly effects of Rooze Disease; lifespan about 76 years
 
+<div style="clear:both"></div>
 === [[Koorivar/Legends|Koorivar]] ===
 
 [[File:SL100 Species Koorivar.jpg|thumb|right|360px|Koorivar]]
@@ -2161,6 +2269,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Reads body language with unusual acuity (+10 to Intuition Tests to detect deceit or intent); horn size marks social status
 
+<div style="clear:both"></div>
 === [[Korun/Legends|Korun]] ===
 
 [[File:SL100 Species Korun.jpg|thumb|right|360px|Korun]]
@@ -2176,6 +2285,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' All Korunnai are Force-sensitive; traditionally bond with akk dogs and grassers through the Force; high tolerance for the toxins of the cloudsea
 
+<div style="clear:both"></div>
 === [[Krevaaki]] ===
 
 [[File:SL100 Species Krevaaki.jpg|thumb|right|360px|Krevaaki]]
@@ -2191,6 +2301,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Eight tentacles serve as both arms and legs (may hold extra items but gain no extra attacks); natural exoskeleton counts as 1 AP on all locations
 
+<div style="clear:both"></div>
 === [[Krish/Legends|Krish]] ===
 
 [[File:SL100 Species Krish.jpg|thumb|right|360px|Krish]]
@@ -2206,6 +2317,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Easily distracted by any game or wager (Willpower Test to ignore a challenge)
 
+<div style="clear:both"></div>
 === [[Kubaz/Legends|Kubaz]] ===
 
 [[File:SL100 Species Kubaz.jpg|thumb|right|360px|Kubaz]]
@@ -2221,6 +2333,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Sees into the infrared; eyes are damaged by red and yellow sunlight (−20 to sight-based Tests without protective goggles under such stars)
 
+<div style="clear:both"></div>
 === [[Kushiban]] ===
 
 [[File:SL100 Species Kushiban.jpg|thumb|right|360px|Kushiban]]
@@ -2236,6 +2349,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Mood fur openly shows emotional state (−20 to Charm Tests when lying); can run on all fours and ride on a friendly humanoid's shoulder
 
+<div style="clear:both"></div>
 === [[Kyuzo/Legends|Kyuzo]] ===
 
 [[File:SL100 Species Kyuzo.jpg|thumb|right|360px|Kyuzo]]
@@ -2251,6 +2365,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Exceptional jumpers (double normal jumping distance and height)
 
+<div style="clear:both"></div>
 === [[Lannik/Legends|Lannik]] ===
 
 [[File:SL100 Species Lannik.jpg|thumb|right|360px|Lannik]]
@@ -2266,6 +2381,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Lepi/Legends|Lepi]] ===
 
 [[File:SL100 Species Lepi.jpg|thumb|right|360px|Lepi]]
@@ -2281,6 +2397,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Quick to anger when kin or species are insulted (Cool Test or become Frenzied for a Round)
 
+<div style="clear:both"></div>
 === [[Lorrdian/Legends|Lorrdian]] ===
 
 [[File:SL100 Species Lorrdian.jpg|thumb|right|360px|Lorrdian]]
@@ -2296,6 +2413,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Kinetic communication: converses silently with other Lorrdians and reads a visible being's emotional state and intentions (+20 to Intuition Tests against body language)
 
+<div style="clear:both"></div>
 === [[Lutrillian/Legends|Lutrillian]] ===
 
 [[File:SL100 Species Lutrillian.jpg|thumb|right|360px|Lutrillian]]
@@ -2311,6 +2429,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Thick hide and blubber (+1 AP against blunt impacts); gamblers by temperament
 
+<div style="clear:both"></div>
 === [[Massassi/Legends|Massassi]] ===
 
 [[File:SL100 Species Massassi.jpg|thumb|right|360px|Massassi]]
@@ -2326,6 +2445,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Naturally Force-sensitive like all of the Sith species; bred to obey, suffering −10 to Willpower Tests against a Sith Lord's commands
 
+<div style="clear:both"></div>
 === [[Meerian/Legends|Meerian]] ===
 
 [[File:SL100 Species Meerian.jpg|thumb|right|360px|Meerian]]
@@ -2341,6 +2461,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Breathes toxic or polluted air without harm; pupil-less eyes
 
+<div style="clear:both"></div>
 === [[Menahuun]] ===
 
 [[File:SL100 Species Menahuun.jpg|thumb|right|360px|Menahuun]]
@@ -2356,6 +2477,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Colour-blind; sees shapes up to 20 metres with no light at all; poor sense of smell; can hold breath for many minutes underwater; swings through trees and swims faster than a Human; lifespan about 55 years
 
+<div style="clear:both"></div>
 === [[Mirialan/Legends|Mirialan]] ===
 
 [[File:SL100 Species Mirialan.jpg|thumb|right|360px|Mirialan]]
@@ -2371,6 +2493,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Mon Calamari/Legends|Mon Calamari]] ===
 
 [[File:SL100 Species Mon Calamari.jpg|thumb|right|360px|Mon Calamari]]
@@ -2386,6 +2509,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Breathes water and air equally well; sees clearly underwater; dries out and suffers in arid climates
 
+<div style="clear:both"></div>
 === [[Morseerian/Legends|Morseerian]] ===
 
 [[File:SL100 Species Morseerian.jpg|thumb|right|360px|Morseerian]]
@@ -2401,6 +2525,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Four arms (may take Ambidextrous twice and hold extra items); breathes methane and suffocates within minutes in an oxygen atmosphere without an environment suit and breath mask
 
+<div style="clear:both"></div>
 === [[Mrlssi]] ===
 
 [[File:SL100 Species Mrlssi.jpg|thumb|right|360px|Mrlssi]]
@@ -2416,6 +2541,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Murachaun]] ===
 
 [[File:SL100 Species Murachaun.jpg|thumb|right|360px|Murachaun]]
@@ -2431,6 +2557,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Scaled hide (thin source)
 
+<div style="clear:both"></div>
 === [[Mustafarian/Legends|Mustafarian]] ===
 
 [[File:SL100 Species Mustafarian.jpg|thumb|right|360px|Mustafarian]]
@@ -2446,6 +2573,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Extremophile: unharmed by volcanic heat and fumes that would kill a Human; a northern Mustafarian may swap S +10 for Ag +10 (thin source)
 
+<div style="clear:both"></div>
 === [[Muun/Legends|Muun]] ===
 
 [[File:SL100 Species Muun.jpg|thumb|right|360px|Muun]]
@@ -2461,6 +2589,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Three hearts (may re-roll a failed Endurance Test to survive a Critical Wound to the body)
 
+<div style="clear:both"></div>
 === [[Myneyrsh]] ===
 
 [[File:SL100 Species Myneyrsh.jpg|thumb|right|360px|Myneyrsh]]
@@ -2476,6 +2605,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Four arms (may take Ambidextrous twice; may wield a two-handed weapon and a second weapon together)
 
+<div style="clear:both"></div>
 === [[Nagai/Legends|Nagai]] ===
 
 [[File:SL100 Species Nagai.jpg|thumb|right|360px|Nagai]]
@@ -2491,6 +2621,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Outsiders to the galaxy at large (post-Endor era) (thin source)
 
+<div style="clear:both"></div>
 === [[Nazzar/Legends|Nazzar]] ===
 
 [[File:SL100 Species Nazzar.jpg|thumb|right|360px|Nazzar]]
@@ -2506,6 +2637,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Lifespan about 125 years; an offworld Nazzar is almost certainly an outcast from the Ulizra
 
+<div style="clear:both"></div>
 === [[Neimoidian/Legends|Neimoidian]] ===
 
 [[File:SL100 Species Neimoidian.jpg|thumb|right|360px|Neimoidian]]
@@ -2521,6 +2653,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Scent glands beneath the eyes; bodies desiccate rapidly after death
 
+<div style="clear:both"></div>
 === [[Nelvaanian/Legends|Nelvaanian]] ===
 
 [[File:SL100 Species Nelvaanian.jpg|thumb|right|360px|Nelvaanian]]
@@ -2536,6 +2669,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Thick fur suited to Nelvaan's winters; tribal shamanism (Clone Wars era)
 
+<div style="clear:both"></div>
 === [[Neti/Legends|Neti]] ===
 
 [[File:SL100 Species Neti.jpg|thumb|right|360px|Neti]]
@@ -2551,6 +2685,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Plant physiology: shifts between tree-form and humanoid, needs light, water and soil rather than food, vulnerable to fire; lifespan of millennia (thin source)
 
+<div style="clear:both"></div>
 === [[Nikto/Legends|Nikto]] ===
 
 [[File:SL100 Species Nikto.jpg|thumb|right|360px|Nikto]]
@@ -2566,6 +2701,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2 (Kadas'sa'Nikto only)  '''Traits:''' Limited facial expression (−10 to Charm Tests that rely on expression); by subspecies: Kajain'sa'Nikto breathe through sand-filtering membranes, Esral'sa'Nikto have keen hearing from their fins, Gluss'sa'Nikto are natural sailors
 
+<div style="clear:both"></div>
 === [[Noehon]] ===
 
 [[File:SL100 Species Noehon.jpg|thumb|right|360px|Noehon]]
@@ -2581,6 +2717,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Four arms (may take Ambidextrous twice; brachiates through trees); compound eyes keyed to motion and close detail; immune to zero-gravity disorientation and space-sickness
 
+<div style="clear:both"></div>
 === [[Noghri/Legends|Noghri]] ===
 
 [[File:SL100 Species Noghri.jpg|thumb|right|360px|Noghri]]
@@ -2596,6 +2733,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' Claws +SB+2, Bite +SB+2  '''Traits:''' Scent so acute they can identify an individual's bloodline by smell alone; fearsome reputation as killers
 
+<div style="clear:both"></div>
 === [[Nosaurian/Legends|Nosaurian]] ===
 
 [[File:SL100 Species Nosaurian.jpg|thumb|right|360px|Nosaurian]]
@@ -2611,6 +2749,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2  '''Traits:''' Colour-blind; mouth flash allows silent signalling at long range; deep resentment of Humans; urge to "sing down" the sun at dusk, often at the wrong moment offworld
 
+<div style="clear:both"></div>
 === [[Nuknog/Legends|Nuknog]] ===
 
 [[File:SL100 Species Nuknog.jpg|thumb|right|360px|Nuknog]]
@@ -2626,6 +2765,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Short-tempered (Cool Test to let an insult pass); lifespan around 65 offworld, halved on polluted Sump
 
+<div style="clear:both"></div>
 === [[Omwati/Legends|Omwati]] ===
 
 [[File:SL100 Species Omwati.jpg|thumb|right|360px|Omwati]]
@@ -2641,6 +2781,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Skin darkens with strong emotion (−10 to Charm Tests when concealing feelings); some Omwati are Force-sensitive and follow Jedi or shamanic traditions
 
+<div style="clear:both"></div>
 === [[Ongree/Legends|Ongree]] ===
 
 [[File:SL100 Species Ongree.jpg|thumb|right|360px|Ongree]]
@@ -2656,6 +2797,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Flexible eyestalks give a wide field of view and let them study an object from several angles at once (+10 to Perception Tests to examine something closely)
 
+<div style="clear:both"></div>
 === [[Ortolan/Legends|Ortolan]] ===
 
 [[File:SL100 Species Ortolan.jpg|thumb|right|360px|Ortolan]]
@@ -2671,6 +2813,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Blubber sustains them without food for long periods (+20 to Endurance Tests against hunger); thumbs are not opposable; insatiable appetite
 
+<div style="clear:both"></div>
 === [[Pa'lowick/Legends|Pa'lowick]] ===
 
 [[File:SL100 Species Pa'lowick.jpg|thumb|right|360px|Pa'lowick]]
@@ -2686,6 +2829,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Tusks +SB+2 (tusked subspecies only)  '''Traits:''' Powerful lungs and an air bladder let them hold their breath for long periods and float effortlessly; eyestalks give a wide field of view
 
+<div style="clear:both"></div>
 === [[Pacithhip/Legends|Pacithhip]] ===
 
 [[File:SL100 Species Pacithhip.jpg|thumb|right|360px|Pacithhip]]
@@ -2701,6 +2845,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Tusks +SB+2, Tail +SB+2 (Pummel)  '''Traits:''' Caste fixed at birth by tusk pattern (scholar, warrior or farmer); often wear robotic stilts, which raise Movement to 4 but hinder Agility Tests
 
+<div style="clear:both"></div>
 === [[Paigun]] ===
 
 [[File:SL100 Species Paigun.jpg|thumb|right|360px|Paigun]]
@@ -2716,6 +2861,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Pau'an/Legends|Pau'an]] ===
 
 [[File:SL100 Species Pau'an.jpg|thumb|right|360px|Pau'an]]
@@ -2731,6 +2877,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-Human; long-lived (several centuries)
 
+<div style="clear:both"></div>
 === [[Phindian/Legends|Phindian]] ===
 
 [[File:SL100 Species Phindian.jpg|thumb|right|360px|Phindian]]
@@ -2746,6 +2893,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' may move on all fours (Movement 5 when not carrying anything in the hands)
 
+<div style="clear:both"></div>
 === [[Pho Ph'eahian]] ===
 
 [[File:SL100 Species Pho Ph'eahian.jpg|thumb|right|360px|Pho Ph'eahian]]
@@ -2761,6 +2909,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' four arms (may take Ambidextrous twice)
 
+<div style="clear:both"></div>
 === [[Psadan]] ===
 
 [[File:SL100 Species Psadan.jpg|thumb|right|360px|Psadan]]
@@ -2776,6 +2925,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' natural armour plates (1 AP on all locations, does not stack with worn armour on the same location) (thin source)
 
+<div style="clear:both"></div>
 === [[Quarren/Legends|Quarren]] ===
 
 [[File:SL100 Species Quarren.jpg|thumb|right|360px|Quarren]]
@@ -2791,6 +2941,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' water-breather; may dive to 300 m unaided but must decompress for as long as they spent below 50 m
 
+<div style="clear:both"></div>
 === [[Quermian/Legends|Quermian]] ===
 
 [[File:SL100 Species Quermian.jpg|thumb|right|360px|Quermian]]
@@ -2806,6 +2957,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' four arms (may take Ambidextrous twice); two brains with latent telepathy (senses intent and mood at short range); smells through the hands
 
+<div style="clear:both"></div>
 === [[Rakata/Legends|Rakata]] ===
 
 [[File:SL100 Species Rakata.jpg|thumb|right|360px|Rakata]]
@@ -2821,6 +2973,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' ancient era only; in the Infinite Empire era the GM may grant Force Sensitive (Rakata), while post-Empire Rakata are Force-blind
 
+<div style="clear:both"></div>
 === [[Ranat/Legends|Ranat]] ===
 
 [[File:SL100 Species Ranat.jpg|thumb|right|360px|Ranat]]
@@ -2836,6 +2989,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' Bite +SB+2, Claws +SB+2  '''Traits:''' incisors grow constantly and must be gnawed down; officially semi-sentient (arming a Ranat is illegal in some sectors)
 
+<div style="clear:both"></div>
 === [[Ranth]] ===
 
 [[File:SL100 Species Ranth.jpg|thumb|right|360px|Ranth]]
@@ -2851,6 +3005,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' ultrasonic hearing; nomadic Ranth replace Datapad Use with "no Datapad Use (uncivilised)"
 
+<div style="clear:both"></div>
 === [[Rattataki/Legends|Rattataki]] ===
 
 [[File:SL100 Species Rattataki.jpg|thumb|right|360px|Rattataki]]
@@ -2866,6 +3021,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-Human
 
+<div style="clear:both"></div>
 === [[Rodian/Legends|Rodian]] ===
 
 [[File:SL100 Species Rodian.jpg|thumb|right|360px|Rodian]]
@@ -2881,6 +3037,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' multifaceted eyes; skin secretes a pheromone-laden oil (other Rodians can smell one coming)
 
+<div style="clear:both"></div>
 === [[Ruurian/Legends|Ruurian]] ===
 
 [[File:SL100 Species Ruurian.jpg|thumb|right|360px|Ruurian]]
@@ -2896,6 +3053,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' larval stage only (the adult flier is not playable); many limbs (may take Ambidextrous twice); pupation ends the character's career
 
+<div style="clear:both"></div>
 === [[Rybet/Legends|Rybet]] ===
 
 [[File:SL100 Species Rybet.jpg|thumb|right|360px|Rybet]]
@@ -2911,6 +3069,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' tongue tastes airborne scents and pheromones (flicks rapidly when the Rybet is afraid, which others can read)
 
+<div style="clear:both"></div>
 === [[Ryn/Legends|Ryn]] ===
 
 [[File:SL100 Species Ryn.jpg|thumb|right|360px|Ryn]]
@@ -2926,6 +3085,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' prehensile tail (can hold or pass small objects, not wield weapons); no homeworld; widely persecuted
 
+<div style="clear:both"></div>
 === [[S'kytri]] ===
 
 [[File:SL100 Species S'kytri.jpg|thumb|right|360px|S'kytri]]
@@ -2941,6 +3101,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Flight (membranous wings)
 
+<div style="clear:both"></div>
 === [[Saheelindeeli]] ===
 
 [[File:SL100 Species Saheelindeeli.jpg|thumb|right|360px|Saheelindeeli]]
@@ -2956,6 +3117,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' (thin source)
 
+<div style="clear:both"></div>
 === [[Sakiyan/Legends|Sakiyan]] ===
 
 [[File:SL100 Species Sakiyan.jpg|thumb|right|360px|Sakiyan]]
@@ -2971,6 +3133,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' infrared vision; near-supernatural hearing and smell (may track scents days old); pale-skinned Sakiyans are outcasts among their own
 
+<div style="clear:both"></div>
 === [[Sanyassan/Legends|Sanyassan]] ===
 
 [[File:SL100 Species Sanyassan.jpg|thumb|right|360px|Sanyassan]]
@@ -2986,6 +3149,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' four-fingered hands; feudal-level homeworld
 
+<div style="clear:both"></div>
 === [[Sarkan/Legends|Sarkan]] ===
 
 [[File:SL100 Species Sarkan.jpg|thumb|right|360px|Sarkan]]
@@ -3001,6 +3165,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2  '''Traits:''' cold-blooded (freezing temperatures can kill in twenty minutes; treat cold exposure as one step more severe)
 
+<div style="clear:both"></div>
 === [[Saurin/Legends|Saurin]] ===
 
 [[File:SL100 Species Saurin.jpg|thumb|right|360px|Saurin]]
@@ -3016,6 +3181,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Selkath/Legends|Selkath]] ===
 
 [[File:SL100 Species Selkath.jpg|thumb|right|360px|Selkath]]
@@ -3031,6 +3197,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2 (venomed: a wound inflicts Poisoned)  '''Traits:''' water-breather; using the claws is a cultural taboo (treated as a sign of madness by other Selkath)
 
+<div style="clear:both"></div>
 === [[Selonian/Legends|Selonian]] ===
 
 [[File:SL100 Species Selonian.jpg|thumb|right|360px|Selonian]]
@@ -3046,6 +3213,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2, Claws +SB+2  '''Traits:''' may run on all fours; den-born need for consensus (acting alone against the group is deeply distressing)
 
+<div style="clear:both"></div>
 === [[Sephi/Legends|Sephi]] ===
 
 [[File:SL100 Species Sephi.jpg|thumb|right|360px|Sephi]]
@@ -3061,6 +3229,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-Human; long-lived (over 200 years)
 
+<div style="clear:both"></div>
 === [[Shi'ido]] ===
 
 [[File:SL100 Species Shi'ido.jpg|thumb|right|360px|Shi'ido]]
@@ -3076,6 +3245,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' shapeshifter (can assume the form of any creature or object of roughly their own mass; seeing through it is a Hard Perception Test); +1 SL to resist Force mind-influence
 
+<div style="clear:both"></div>
 === [[Shistavanen/Legends|Shistavanen]] ===
 
 [[File:SL100 Species Shistavanen.jpg|thumb|right|360px|Shistavanen]]
@@ -3091,6 +3261,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2, Claws +SB+2  '''Traits:''' tireless runner on two or four limbs; keen senses are vulnerable (−10 to Tests while exposed to dazzling light, deafening noise or overpowering stench)
 
+<div style="clear:both"></div>
 === [[Sith/Legends|Sith]] ===
 
 [[File:SL100 Species Sith.jpg|thumb|right|360px|Sith]]
@@ -3106,6 +3277,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' ancient era only; universally Force-attuned and inclined to the dark side (thin source)
 
+<div style="clear:both"></div>
 === [[Skakoan/Legends|Skakoan]] ===
 
 [[File:SL100 Species Skakoan.jpg|thumb|right|360px|Skakoan]]
@@ -3121,6 +3293,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' methane breather adapted to high pressure; offworld must wear a pressure suit (a ruptured suit causes explosive decompression and is usually fatal within a Round)
 
+<div style="clear:both"></div>
 === [[Skrilling/Legends|Skrilling]] ===
 
 [[File:SL100 Species Skrilling.jpg|thumb|right|360px|Skrilling]]
@@ -3136,6 +3309,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' poor eyesight (−10 Perception (Sight)); may spray mild digestive acid from the breather tubes at 2 m (Blinded for 1 Round if it hits the eyes); vice-like grip; can only digest meat rotted for a week or more
 
+<div style="clear:both"></div>
 === [[Sluissi]] ===
 
 [[File:SL100 Species Sluissi.jpg|thumb|right|360px|Sluissi]]
@@ -3151,6 +3325,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' serpentine lower body (cannot ride, cannot wear leg armour, cannot be Prone in the usual way); forked tongue senses heat at short range
 
+<div style="clear:both"></div>
 === [[Snivvian/Legends|Snivvian]] ===
 
 [[File:SL100 Species Snivvian.jpg|thumb|right|360px|Snivvian]]
@@ -3166,6 +3341,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Spiner]] ===
 
 [[File:SL100 Species Spiner.jpg|thumb|right|360px|Spiner]]
@@ -3181,6 +3357,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Quills +SB+2 (launched, Range 10 m, uses Ranged (Thrown); pierces light armour)  '''Traits:''' quills regrow within hours; nearly extinct, sterile outside the Elrood sector
 
+<div style="clear:both"></div>
 === [[Squalris]] ===
 
 [[File:SL100 Species Squalris.jpg|thumb|right|360px|Squalris]]
@@ -3196,6 +3373,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' thick hide
 
+<div style="clear:both"></div>
 === [[Squib/Legends|Squib]] ===
 
 [[File:SL100 Species Squib.jpg|thumb|right|360px|Squib]]
@@ -3211,6 +3389,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' short-lived; tastes objects through the fur (+1 SL to Evaluate by handling)
 
+<div style="clear:both"></div>
 === [[Ssi-ruu]] ===
 
 [[File:SL100 Species Ssi-ruu.jpg|thumb|right|360px|Ssi-ruu]]
@@ -3226,6 +3405,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2, Tail +SB+2 (Pummel)  '''Traits:''' scent-tongue; religious dread of dying on an unconsecrated world (−10 Cool when fighting offworld unless the ground has been consecrated); caste by scale colour
 
+<div style="clear:both"></div>
 === [[Sullustan/Legends|Sullustan]] ===
 
 [[File:SL100 Species Sullustan.jpg|thumb|right|360px|Sullustan]]
@@ -3241,6 +3421,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' near-Human; never forgets a route once travelled
 
+<div style="clear:both"></div>
 === [[Svivreni]] ===
 
 [[File:SL100 Species Svivreni.jpg|thumb|right|360px|Svivreni]]
@@ -3256,6 +3437,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Swokes Swokes/Legends|Swokes Swokes]] ===
 
 [[File:SL100 Species Swokes Swokes.jpg|thumb|right|360px|Swokes Swokes]]
@@ -3271,6 +3453,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2, Tail +SB+2 (Pummel; tailed individuals only)  '''Traits:''' regrows lost limbs and organs over weeks; soft fat blunts blows (Stunned effects from blunt weapons are halved)
 
+<div style="clear:both"></div>
 === [[Talz/Legends|Talz]] ===
 
 [[File:SL100 Species Talz.jpg|thumb|right|360px|Talz]]
@@ -3286,6 +3469,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' Claws +SB+2  '''Traits:''' two pairs of eyes (no penalties from snow-glare or darkness); speaks only in chirps and buzzes (needs a translator for Basic)
 
+<div style="clear:both"></div>
 === [[Tarasin]] ===
 
 [[File:SL100 Species Tarasin.jpg|thumb|right|360px|Tarasin]]
@@ -3301,6 +3485,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' colour-changing skin (+1 SL Stealth when still; kampo flares reveal distress, −10 Charm when lying); sa'tosin spines sense Force use nearby; skin-colour language
 
+<div style="clear:both"></div>
 === [[Tarro]] ===
 
 [[File:SL100 Species Tarro.jpg|thumb|right|360px|Tarro]]
@@ -3316,6 +3501,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2, Bite +SB+2  '''Traits:''' Seven-fingered hands; fewer than 400 Tarro survive after the Til supernova (Imperial era onward)
 
+<div style="clear:both"></div>
 === [[Temolak]] ===
 
 [[File:SL100 Species Temolak.jpg|thumb|right|360px|Temolak]]
@@ -3331,6 +3517,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Redundant organs (two hearts, four lungs, three kidneys): +10 to Endurance Tests against suffocation and organ damage
 
+<div style="clear:both"></div>
 === [[Thakwaash]] ===
 
 [[File:SL100 Species Thakwaash.jpg|thumb|right|360px|Thakwaash]]
@@ -3346,6 +3533,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Many minds: may switch personality as a Free Action, gaining +10 to one Test type chosen by the GM but behaving unpredictably
 
+<div style="clear:both"></div>
 === [[Theelin/Legends|Theelin]] ===
 
 [[File:SL100 Species Theelin.jpg|thumb|right|360px|Theelin]]
@@ -3361,6 +3549,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Nearly all player characters are part-Theelin; pure Theelin extinct after 10 ABY
 
+<div style="clear:both"></div>
 === [[Thisspiasian/Legends|Thisspiasian]] ===
 
 [[File:SL100 Species Thisspiasian.jpg|thumb|right|360px|Thisspiasian]]
@@ -3376,6 +3565,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Four arms (may take Ambidextrous twice); serpentine lower body, cannot be Prone-tripped but cannot ride
 
+<div style="clear:both"></div>
 === [[Tholothian/Legends|Tholothian]] ===
 
 [[File:SL100 Species Tholothian.jpg|thumb|right|360px|Tholothian]]
@@ -3391,6 +3581,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Seemingly ageless, showing little outward ageing (thin source)
 
+<div style="clear:both"></div>
 === [[Tiss'shar/Legends|Tiss'shar]] ===
 
 [[File:SL100 Species Tiss'shar.jpg|thumb|right|360px|Tiss'shar]]
@@ -3406,6 +3597,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Bite +SB+2  '''Traits:''' Six subspecies (choose scale markings); many served the Mandalorians in ancient times
 
+<div style="clear:both"></div>
 === [[Togorian/Legends|Togorian]] ===
 
 [[File:SL100 Species Togorian.jpg|thumb|right|360px|Togorian]]
@@ -3421,6 +3613,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Claws +SB+2  '''Traits:''' Dense bones; males scorn droids and dependence on technology
 
+<div style="clear:both"></div>
 === [[Toong/Legends|Toong]] ===
 
 [[File:SL100 Species Toong.jpg|thumb|right|360px|Toong]]
@@ -3436,6 +3629,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Cheek pouches store a day's food
 
+<div style="clear:both"></div>
 === [[Toydarian/Legends|Toydarian]] ===
 
 [[File:SL100 Species Toydarian.jpg|thumb|right|360px|Toydarian]]
@@ -3451,6 +3645,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Flight (hovering, low altitude); mind unreadable and unmoved by Force influence
 
+<div style="clear:both"></div>
 === [[Trianii/Legends|Trianii]] ===
 
 [[File:SL100 Species Trianii.jpg|thumb|right|360px|Trianii]]
@@ -3466,6 +3661,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Prehensile tail can grip and carry small objects but not wield weapons
 
+<div style="clear:both"></div>
 === [[Tunroth]] ===
 
 [[File:SL100 Species Tunroth.jpg|thumb|right|360px|Tunroth]]
@@ -3481,6 +3677,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Quarry sense: +10 to Track Tests against a quarry the Tunroth has seen or met
 
+<div style="clear:both"></div>
 === [[Tusken Raider/Legends|Tusken Raider]] ===
 
 [[File:SL100 Species Tusken Raider.jpg|thumb|right|360px|Tusken Raider]]
@@ -3496,6 +3693,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Must stay fully covered; removing wrappings before others is a grave taboo
 
+<div style="clear:both"></div>
 === [[Tynnan/Legends|Tynnan]] ===
 
 [[File:SL100 Species Tynnan.jpg|thumb|right|360px|Tynnan]]
@@ -3511,6 +3709,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Poor eyesight: −10 to Perception (Sight) beyond short range
 
+<div style="clear:both"></div>
 === [[Ubese/Legends|Ubese]] ===
 
 [[File:SL100 Species Ubese.jpg|thumb|right|360px|Ubese]]
@@ -3526,6 +3725,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Needs a breath mask in standard oxygen atmospheres; raspy voice, usually masked
 
+<div style="clear:both"></div>
 === [[Ugnaught/Legends|Ugnaught]] ===
 
 [[File:SL100 Species Ugnaught.jpg|thumb|right|360px|Ugnaught]]
@@ -3541,6 +3741,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Lifespan around 200 years; "yaa-yaah" greeting is a mortal insult
 
+<div style="clear:both"></div>
 === [[Umbaran/Legends|Umbaran]] ===
 
 [[File:SL100 Species Umbaran.jpg|thumb|right|360px|Umbaran]]
@@ -3556,6 +3757,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Ultraviolet vision; subtle mental sway, +10 to Charm Tests to influence a single unwary target
 
+<div style="clear:both"></div>
 === [[Utai/Legends|Utai]] ===
 
 [[File:SL100 Species Utai.jpg|thumb|right|360px|Utai]]
@@ -3571,6 +3773,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Eyestalks; short-lived compared with Pau'ans
 
+<div style="clear:both"></div>
 === [[Verpine/Legends|Verpine]] ===
 
 [[File:SL100 Species Verpine.jpg|thumb|right|360px|Verpine]]
@@ -3586,6 +3789,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Carapace counts as 1 AP on all locations; radio sense, silent comms with other Verpine within ~100 km; hermaphroditic
 
+<div style="clear:both"></div>
 === [[Vodran/Legends|Vodran]] ===
 
 [[File:SL100 Species Vodran.jpg|thumb|right|360px|Vodran]]
@@ -3601,6 +3805,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Swamp-adapted reptilian; speaks Huttese (thin source)
 
+<div style="clear:both"></div>
 === [[Vor]] ===
 
 [[File:SL100 Species Vor.jpg|thumb|right|360px|Vor]]
@@ -3616,6 +3821,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Flight (leathery wings, at home in gale-force winds); brittle bones, +1 Wound from any Critical to a limb
 
+<div style="clear:both"></div>
 === [[Vorzydiak]] ===
 
 [[File:SL100 Species Vorzydiak.jpg|thumb|right|360px|Vorzydiak]]
@@ -3631,6 +3837,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Antennae; tend to fade and die once retired and purposeless
 
+<div style="clear:both"></div>
 === [[Voss]] ===
 
 [[File:SL100 Species Voss.jpg|thumb|right|360px|Voss]]
@@ -3646,6 +3853,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Old Republic era (Cold War / Galactic War); Mystics may take Force Sensitive (Voss Mystic) with GM leave
 
+<div style="clear:both"></div>
 === [[Vratix/Legends|Vratix]] ===
 
 [[File:SL100 Species Vratix.jpg|thumb|right|360px|Vratix]]
@@ -3661,6 +3869,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Powerful legs double Leap distance; limited telepathy with kindred Vratix; hermaphroditic; mood shown by hair colour
 
+<div style="clear:both"></div>
 === [[Vurk/Legends|Vurk]] ===
 
 [[File:SL100 Species Vurk.jpg|thumb|right|360px|Vurk]]
@@ -3676,6 +3885,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Breathes both water and air
 
+<div style="clear:both"></div>
 === [[Vuvrian/Legends|Vuvrian]] ===
 
 [[File:SL100 Species Vuvrian.jpg|thumb|right|360px|Vuvrian]]
@@ -3691,6 +3901,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Twelve eyes, no penalty for attackers out of sight-line; hypersensitive skin; −10 to Endurance Tests against pain
 
+<div style="clear:both"></div>
 === [[Whiphid/Legends|Whiphid]] ===
 
 [[File:SL100 Species Whiphid.jpg|thumb|right|360px|Whiphid]]
@@ -3706,6 +3917,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' Tusks +SB+3, Claws +SB+2  '''Traits:''' Thick fur, no penalty for cold weather
 
+<div style="clear:both"></div>
 === [[Woostoid]] ===
 
 [[File:SL100 Species Woostoid.jpg|thumb|right|360px|Woostoid]]
@@ -3721,6 +3933,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Long lifespan; −10 to Cool Tests in chaotic, illogical situations
 
+<div style="clear:both"></div>
 === [[Wroonian/Legends|Wroonian]] ===
 
 [[File:SL100 Species Wroonian.jpg|thumb|right|360px|Wroonian]]
@@ -3736,6 +3949,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
 
+<div style="clear:both"></div>
 === [[Xexto/Legends|Xexto]] ===
 
 [[File:SL100 Species Xexto.jpg|thumb|right|360px|Xexto]]
@@ -3751,6 +3965,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 3  '''Destiny:''' 2  '''Resilience:''' 0  '''Extra points:''' 2
 '''Size:''' Small  '''Natural weapons:''' none  '''Traits:''' Four arms (may take Ambidextrous twice); split brain, +10 to resist Stunned from head blows
 
+<div style="clear:both"></div>
 === [[Yarkora/Legends|Yarkora]] ===
 
 [[File:SL100 Species Yarkora.jpg|thumb|right|360px|Yarkora]]
@@ -3766,6 +3981,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Redundant organs, internal Criticals reduced one step; very long-lived; possible empathic sense
 
+<div style="clear:both"></div>
 === [[Yevetha]] ===
 
 [[File:SL100 Species Yevetha.jpg|thumb|right|360px|Yevetha]]
@@ -3781,6 +3997,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' Dew claws +SB+2  '''Traits:''' Retractable dew claws; six fingers and toes; New Republic era (Black Fleet Crisis)
 
+<div style="clear:both"></div>
 === [[Yinchorri/Legends|Yinchorri]] ===
 
 [[File:SL100 Species Yinchorri.jpg|thumb|right|360px|Yinchorri]]
@@ -3796,6 +4013,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Immune to Force powers that affect the will; shell-like hide counts as 1 AP on the body
 
+<div style="clear:both"></div>
 === [[Yuuzhan Vong]] ===
 
 [[File:SL100 Species Yuuzhan Vong.jpg|thumb|right|360px|Yuuzhan Vong]]
@@ -3811,6 +4029,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' NJO era only; no Force presence, cannot be sensed or directly targeted by Force powers; eye sacs reveal mood
 
+<div style="clear:both"></div>
 === [[Yuzzem]] ===
 
 [[File:SL100 Species Yuzzem.jpg|thumb|right|360px|Yuzzem]]
@@ -3826,6 +4045,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Bound by honour and debt-fulfilment; frequently enslaved in the Imperial era
 
+<div style="clear:both"></div>
 === [[Yuzzum/Legends|Yuzzum]] ===
 
 [[File:SL100 Species Yuzzum.jpg|thumb|right|360px|Yuzzum]]
@@ -3841,6 +4061,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Highly variable build (choose hooves, paws or claws); understood by Ewoks
 
+<div style="clear:both"></div>
 === [[Zeltron/Legends|Zeltron]] ===
 
 [[File:SL100 Species Zeltron.jpg|thumb|right|360px|Zeltron]]
@@ -3856,6 +4077,7 @@ Average height 2.23 – 2.54 meters
 '''Movement:''' 4  '''Destiny:''' 2  '''Resilience:''' 1  '''Extra points:''' 3
 '''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Pheromones; empathic, can sense and project emotions; second liver, +10 to Consume Intoxicant
 
+<div style="clear:both"></div>
 === [[Zygerrian/Legends|Zygerrian]] ===
 
 [[File:SL100 Species Zygerrian.jpg|thumb|right|360px|Zygerrian]]
