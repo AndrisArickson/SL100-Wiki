@@ -51,3 +51,22 @@ pre.booktext{white-space:pre-wrap;font-size:.9em;background:var(--card);border:1
 .ir-tile:has(input:checked),.ir-rep{border-color:var(--new);background:rgba(192,57,43,.12)}
 .ir-tile span{color:var(--muted);overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 .ir-filter{margin:6px 0}
+
+/* ---- SL100 title treatment (Main Page hero). Fonts: Bruno Ace SC and Orbitron, SIL Open Font License, in /static/fonts */
+@font-face{font-family:"Bruno Ace SC";src:url(/static/fonts/BrunoAceSC-latin.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap}
+@font-face{font-family:"Bruno Ace SC";src:url(/static/fonts/BrunoAceSC-latinext.woff2) format("woff2");unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap}
+@font-face{font-family:"Orbitron";src:url(/static/fonts/Orbitron.woff2) format("woff2");font-weight:400 900;font-display:swap}
+main:has(.sl-hero)>h1{display:none}
+.sl-hero{position:relative;margin:10px -26px 22px;min-height:clamp(220px,34vw,420px);display:flex;align-items:center;justify-content:center;text-align:center;overflow:hidden;
+  background:linear-gradient(180deg,rgba(11,15,21,.82) 0%,rgba(11,15,21,.35) 45%,rgba(24,32,43,.15) 100%),url("/img/SL100%20Title%20Hero.jpg") center 70%/cover no-repeat,linear-gradient(180deg,#0b0f15,#18202b);
+  border-bottom:3px solid #f3c331;padding:28px 16px 34px}
+.sl-hero::after{content:"";position:absolute;inset:auto 0 0 0;height:45%;background:radial-gradient(ellipse at 50% 100%,rgba(54,201,190,.22),transparent 70%);pointer-events:none}
+.sl-hero-inner{position:relative;z-index:1;max-width:100%}
+.sl-title{position:relative;display:inline-block;font-family:"Bruno Ace SC",system-ui,sans-serif;font-size:clamp(1.3rem,6.3vw,5.6rem);line-height:1.05;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;margin:0}
+.sl-title span{display:block}
+.sl-title .back{color:#f3c331;-webkit-text-stroke:.125em #f3c331;paint-order:stroke fill}
+.sl-title .front{position:absolute;inset:0;color:#151a21;-webkit-text-stroke:.075em #151a21;paint-order:stroke fill}
+.sl-tagline{font-family:"Bruno Ace SC",system-ui,sans-serif;color:#f3c331;font-size:clamp(.85rem,2.1vw,1.55rem);letter-spacing:.5em;margin:.55em 0 0 .5em;text-transform:uppercase}
+.sl-sub{font-family:"Orbitron",system-ui,sans-serif;color:#b9c7d6;font-size:clamp(.62rem,1vw,.78rem);letter-spacing:.3em;margin-top:1.1em;text-transform:uppercase;opacity:.9}
+.sl-intro{max-width:62rem;margin:0 auto 6px}
+header .logo{font-family:"Bruno Ace SC",system-ui,sans-serif;letter-spacing:.06em}

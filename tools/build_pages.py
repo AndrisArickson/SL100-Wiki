@@ -18,6 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 # title, source markdown file(s), status note, lead paragraph
 PAGES = [
+    ("SL100:How to Play", ["11 New Star Wars - How to Play.md"], "First draft (13 Oct 2026), tagged [review]",
+     "The '''core d100 rules''': Tests and Success Levels, difficulty, opposed and extended Tests, Advantage, Fortune and Resolve in play, Conditions, Wounds and healing, fear, Status, experience and advancement."),
     ("SL100:Characteristics", ["01 New Star Wars - Introduction & Characteristics.md"], "Revised draft (12 Oct): ten characteristics, creation steps, Wounds, Movement, Destiny and Resilience",
      "How a character's ten '''characteristics''' are rolled or bought, what each one measures, and the Characteristic Bonus that drives damage, Wounds and talent limits."),
     ("SL100:Species", ["02 New Star Wars - Species (revised).md"], "223 species, complete for now (13 Oct 2026)",
@@ -96,7 +98,8 @@ def card_img(page):
     f = CARD_ART.get(page)
     return "[[File:%s|frameless|296px|link=SL100:%s]]<br>" % (f, page) if f else ""
 
-MAIN_HEAD = """'''Star Legends - Galactic Wars''' is a roleplaying game set in the Star Wars ''Legends'' universe, played with a d100 system adapted from ''Warhammer Fantasy Roleplay'' 4th edition. Everything a player or GM needs is on the cards below; the Legends background articles (harvested from Wookieepedia, CC BY-SA 3.0) sit behind them and every game page links to its source.
+MAIN_HEAD = """<div class="sl-hero"><div class="sl-hero-inner"><div class="sl-title"><span class="back">Star Legends</span><span class="front">Star Legends</span></div><div class="sl-tagline">Galactic Wars</div><div class="sl-sub">SL100 Game Wiki</div></div></div>
+<div class="sl-intro">'''Star Legends - Galactic Wars''' is a roleplaying game set in the Star Wars ''Legends'' universe, played with a d100 system adapted from ''Warhammer Fantasy Roleplay'' 4th edition. Everything a player or GM needs is on the cards below; the Legends background articles (harvested from Wookieepedia, CC BY-SA 3.0) sit behind them and every game page links to its source.</div>
 """
 MAIN_TAIL = """
 == Gallery ==

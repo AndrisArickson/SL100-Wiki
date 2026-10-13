@@ -31,3 +31,7 @@ Text extracted from the Star Wars d20 books in `Source_Books/` is copyrighted. K
 
 ### SL100 original artwork
 Images named `SL100 …` (originals in `images/generated/originals/`, WebP copies in `images/full/S/`) were generated for this project with Google Flow (Nano Banana) from original prompts that avoid franchise designs, logos and named characters. Prompts and dates are listed in `meta/generated_images.tsv`.
+
+## Fonts
+* `tools/static/fonts/` holds Bruno Ace SC (by Astigmatic) and Orbitron (by Matt McInerney), both from Google Fonts under the
+  SIL Open Font License 1.1. They are used for the Star Legends title treatment on the Main Page and the site header.
