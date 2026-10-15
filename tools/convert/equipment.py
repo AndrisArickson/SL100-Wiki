@@ -34,6 +34,7 @@ ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT.parent / "Source_Text" / "tables"
 OUT = ROOT / "rules" / "equipment"
 sys.path.insert(0, str(ROOT / "tools"))
+import common as C  # noqa: E402
 
 
 # ---------------------------------------------------------------- helpers
@@ -287,7 +288,7 @@ def md_tables(path):
 
 def read_08():
     weapons, armour, gear = [], [], []
-    for t in md_tables(ROOT / "08 New Star Wars - Equipment.md"):
+    for t in md_tables(C.RULES_DIR / "08 New Star Wars - Equipment.md"):
         h = t["head"]
         if "Dam" in h and "Name" in h:
             for r in t["rows"]:
@@ -321,7 +322,7 @@ def read_08():
 
 def read_materials():
     mats = {}
-    for t in md_tables(ROOT / "Special Materials.md"):
+    for t in md_tables(C.RULES_DIR / "Special Materials.md"):
         if t["head"] and t["head"][0] == "Material" and "Armour Points - Resist" in t["head"]:
             for r in t["rows"]:
                 m = re.search(r"(\d+)\s*-\s*(?:Resist\s*)?(\d+)", r.get("Armour Points - Resist", ""))

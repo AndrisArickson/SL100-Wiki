@@ -3,7 +3,7 @@
 '''Mounts, vehicles and starships''': riding beasts, speeders, walkers and tanks, then the starship compendium and its upgrades, and the ships in service in the 3,000 to 4,000 BBY era.
 
 == Mounts / Vehicles ==
-==== Star Wars Mounts & Vehicles ====
+'''Star Wars Mounts & Vehicles'''
 
 Living Mounts (Air, Land, Sea) use the same creature stat line as the Star Wars Bestiary - Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, Wounds - plus Traits and Optional add-ons. Each mount also lists Cost to buy, Carries (the Encumbrance points of rider, tack, and cargo it can bear - 1 Enc = 10kg, matching the Starship Compendium's conversion), and Availability (Common, Scarce, Rare, Exotic, or Military/Restricted).
 
@@ -237,7 +237,7 @@ The largest terrestrial-amphibious herbivores of Naboo's swamps, domesticated by
 
 '''''Cost / Carries / Availability: '''''''2,000 credits  /  250 Enc  /  Rare''
 
-==== Speeders ====
+'''Speeders'''
 
 ''Repulsorlift planetary vehicles with no hyperdrive or sublight space engine — Engine capacity here is top atmospheric speed in km/h, not MGLT.''
 
@@ -253,7 +253,7 @@ The largest terrestrial-amphibious herbivores of Naboo's swamps, domesticated by
 | Khetanna ("Sail Barge") || Imperial Era — Hutt Cartel (Jabba the Hutt) || N/A || 30 || 8 (+20 pax) || 500 Enc || 285,000 || 100 km/h || 1
 |}
 
-==== Incom T-16 Skyhopper ====
+'''Incom T-16 Skyhopper'''
 
 * '''Type''': high-performance airspeeder made by Incom Corporation
 * '''Cost''': 14,500 credits (new), 6,500 credits (used)
@@ -307,7 +307,7 @@ The largest terrestrial-amphibious herbivores of Naboo's swamps, domesticated by
 |}
 
 == Space Ships ==
-==== Star Wars Starship Compendium ====
+'''Star Wars Starship Compendium'''
 
 Each vessel lists its Era and Affiliation, Hyperdrive Class (lower is faster; N/A means the craft has no hyperdrive and cannot leave a system), Size in metres, Crew complement, whether it's Astromech Compatible (uses a dedicated astromech droid socket for in-flight repairs and system control, as on an X-wing or the Naboo starfighters of The Phantom Menace), Cargo capacity in Encumbrance points (1 Enc = 10 kg, the personal-gear scale, so 1 metric ton of cargo = 100 Enc), Cost to buy new in Galactic Credits, Engine capacity (sublight speed in MGLT - Megalights per hour - the standard galactic unit), and Defensive Turrets (the number of independently-tracking gun emplacements, not counting fixed forward-firing weapons). Categories run smallest to largest - starfighter-scale craft first, Space Stations last - and ships within each category are likewise ordered by Size.
 
@@ -323,7 +323,7 @@ Each vessel lists its Era and Affiliation, Hyperdrive Class (lower is faster; N/
 
 '''1 Tonne''' = 125 Encumbrance
 
-==== Availability ====
+'''Availability'''
 
 Civilian - Commonly available if you have the credits
 
@@ -387,7 +387,7 @@ R (Profession) - Restricted (Professions ABC)
 | Kom'rk-class Fighter/Transport || Imperial Era (Mandalorian Civil War) — Mandalorian || 1 || 20 || 2 || 6 || No || 200 || 195,000 || 85 || 2 || L (mandalorian)
 |}
 
-==== Ship support equipment ====
+'''Ship support equipment'''
 
 Hyperdrive docking rings usually cost the same as a hyperdrive of the same speed class. They cannot enter an atmosphere or land. For example, a Class 1 hyperdrive ring is licensed or restricted in the same way that a Class 1 hyperdrive is. They were used for small ships which could not hold an internal hyperdrive.
 
@@ -555,7 +555,7 @@ Hyperdrive docking rings usually cost the same as a hyperdrive of the same speed
 | DS-1 Death Star || Imperial Era — Galactic Empire || 4 || 160,000 (diameter) || 1,000,000+ || Effectively limitless || Over 1,000,000,000,000 || 10 || 15,000+ || M
 |}
 
-==== Ship Upgrades ====
+'''Ship Upgrades'''
 
 ''Refits, ship upgrades and add-ons that can be installed on any vessel in this compendium, priced at the Fighter x1 cost scale. For anything bigger, multiply the listed cost by that class's multiplier below - each class up the size ladder doubles the previous one, a GM's-estimate scaling in the same spirit as the rest of this document's costs. Where an upgrade grants a bonus to a Skill Test, that follows the usual +10/+20/+30 convention for Easy/Hard/Very Hard levels of improvement.''
 
@@ -846,7 +846,7 @@ Alarms
 |}
 
 == Starships circa 3000-4000 BBY ==
-==== Ancient Starships ====
+'''Ancient Starships'''
 
 * '''Xim-era ships (25,100 BBY)''' predate the modern hyperdrive entirely. The Tionese used fixed-position hyperspace beacon networks — think lighthouses rather than an onboard engine — so they have no standard Class rating and couldn't venture far outside their beacon grid. A note on the Xim era (\~25,100 BBY): starfighter-scale craft from that period are not individually named or statted in any Legends source. The Tionese used small "battlebird" and "cutters" in mixed squadrons, but no single-seat fighter specs survive.
 * '''The very ancient ships''' (Kumauri, Cal-class) have almost no surviving Legends stat data. Their entries are grounded in what Legends sources say about their role and era.
@@ -859,7 +859,7 @@ Alarms
 
 ----
 
-==== Star Saber XC-01 ====
+'''Star Saber XC-01'''
 
 * '''First service:''' \~4,000 BBY (Great Sith War)
 * '''Class:''' Starfighter
@@ -870,7 +870,7 @@ Alarms
 
 ----
 
-==== Aurek-class Tactical Strikefighter ====
+'''Aurek-class Tactical Strikefighter'''
 
 * '''First service:''' \~3,976 BBY (Mandalorian Wars), designed during the post-Great Sith War restoration
 * '''Class:''' Strikefighter
@@ -881,7 +881,7 @@ Alarms
 
 ----
 
-==== S-250 Chela-class Starfighter ====
+'''S-250 Chela-class Starfighter'''
 
 * '''First service:''' \~3,956 BBY (Jedi Civil War)
 * '''Class:''' Starfighter

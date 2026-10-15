@@ -11,7 +11,7 @@ WIKI = Path(__file__).resolve().parent.parent.parent
 OUT = WIKI / "docs" / "collation"
 sys.path.insert(0, str(WIKI / "tools"))
 import common as C   # noqa: E402
-DOCS = sorted(p for p in WIKI.glob("*.md") if p.name not in ("README.md", "NOTICE.md") + C.SUPERSEDED)
+DOCS = sorted(p for p in C.RULES_DIR.glob("*.md") if p.name not in C.SUPERSEDED)
 TERMS = [  # (group, label, regex)
     ("placeholder", "xx placeholder", r"\bxx+\b"),
     ("placeholder", "TBD / TODO", r"\b(TBD|TODO|tbc)\b"),

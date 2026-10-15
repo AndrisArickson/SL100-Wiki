@@ -66,6 +66,8 @@ RULES_PAGES = {
     "Star Wars Space Ships.md": "Vehicles and Starships (starships)",
     "Starships circa 3000-4000 BBY.md": "Vehicles and Starships (3,000-4,000 BBY)",
 }
+# Markdown copies of the rules pages, written by tools/export_rules.py for the scripts that read markdown.
+RULES_DIR = Path(os.environ.get("SL100_RULES") or (ROOT / "build" / "rules"))
 SUPERSEDED = ("02 New Star Wars - Species.md", "05 New Star Wars - Careers.md", "07 New Star Wars - Talents.md", "Talent List.md")
 
 

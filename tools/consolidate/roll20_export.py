@@ -5,7 +5,10 @@ import re, csv, pathlib
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 OUT = ROOT / "rules" / "roll20"
 OUT.mkdir(parents=True, exist_ok=True)
-rd = lambda f: (ROOT / f).read_text(encoding="utf-8")
+import os  # noqa: E402
+# Markdown copies of the rules pages (tools/export_rules.py).
+RULES = pathlib.Path(os.environ.get("SL100_RULES") or (ROOT / "build" / "rules"))
+rd = lambda f: (RULES / f).read_text(encoding="utf-8")
 
 
 def skills():

@@ -29,3 +29,17 @@ wg-*.conf
 Proton Drive Download*.zip
 # hand-collected image bundles
 *.zip
+
+# Rules sources and working papers stay on your own computer (decision 15 Oct 2026). The SL100: wiki pages are the
+# master copy of the rules; keep the original markdown chapters and documents in ../SL100-Sources.
+/[0-9][0-9] New Star Wars - *.md
+/Talent List*.md
+/Special Materials.md
+/All about hyperspace.md
+/Star Wars *.md
+/Starships circa *.md
+# Markdown exported from the rules pages for the tools (python3 tools/export_rules.py)
+build/
+# Collation and review reports (written by the tools, read on your own computer)
+docs/
+rules/equipment/REVIEW.md

@@ -105,7 +105,7 @@ def layout(title, body, q="", tabs="", extra_head=""):
 <div class="wrap"><nav>
 <h4>Navigate</h4><a href="/">Main page</a><a href="/special/recent">Local edits</a><a href="/random">Random page</a>
 <a href="/special/allpages">All pages</a><a href="/special/images">Image list</a><a href="/special/status">Harvest status</a>
-<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Character_creation">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/image-review">Image review</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
+<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Characteristics#CREATING_A_CHARACTER">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/image-review">Image review</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
 <h4>Reference</h4><a href="/category/Weapons">Weapons</a><a href="/category/Armor">Armor</a><a href="/category/Starships">Starships</a>
 <a href="/category/Vehicles">Vehicles</a><a href="/category/Droids">Droids</a><a href="/category/Planets">Planets</a>
 </nav><main><div class="tabs">%s</div><h1>%s</h1>%s</main></div></body></html>""" % (

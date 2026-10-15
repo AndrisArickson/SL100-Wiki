@@ -22,7 +22,7 @@ import common as C   # noqa: E402
 
 OUT = WIKI / "docs" / "collation"
 RULES_DOCS = ("Characteristics", "Origin", "Careers", "Skills", "Talents", "Talents (index)", "The Force")   # game-term pages: names there are rules words, not setting names
-DOCS = sorted(p for p in WIKI.glob("*.md") if p.name not in ("README.md", "NOTICE.md") + C.SUPERSEDED)
+DOCS = sorted(p for p in C.RULES_DIR.glob("*.md") if p.name not in C.SUPERSEDED)
 HEAD_SKIP = re.compile(r"^(table|traits?|special|notes?|description|abilities|skills|talents|characteristics|trappings|example|"
                        r"species|origin|factions?|careers?|equipment|weapons?|armou?r|vehicles?|ships?|star ?fighters?|"
                        r"capital ships|freighters|transports|mounts|air mounts|land mounts|water mounts|creatures|introduction|"

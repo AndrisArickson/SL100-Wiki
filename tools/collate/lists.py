@@ -14,16 +14,13 @@ from collections import defaultdict
 from pathlib import Path
 
 WIKI = Path(__file__).resolve().parent.parent.parent
+RULES = Path(__import__("os").environ.get("SL100_RULES") or (WIKI / "build" / "rules"))   # tools/export_rules.py
 OUT = WIKI / "docs" / "collation"
-F07 = WIKI / "07 New Star Wars - Talents (revised).md"
-if not F07.exists():
-    F07 = WIKI / "07 New Star Wars - Talents.md"
-F06 = WIKI / "06 New Star Wars - Skills.md"
-F05 = WIKI / "05 New Star Wars - Careers (revised).md"
+F07 = RULES / "07 New Star Wars - Talents (revised).md"
+F06 = RULES / "06 New Star Wars - Skills.md"
+F05 = RULES / "05 New Star Wars - Careers (revised).md"
 REVISED05 = "(revised)" in str(F05)
-FTL = WIKI / "Talent List (revised).md"
-if not FTL.exists():
-    FTL = WIKI / "Talent List.md"
+FTL = RULES / "Talent List (revised).md"
 
 
 def plain(s):

@@ -15,7 +15,7 @@ import common as C   # noqa: E402
 
 WIKI = Path(__file__).resolve().parent.parent.parent
 OUT = WIKI / "docs" / "collation"
-D = {k: WIKI / v for k, v in {"01": "01 New Star Wars - Introduction & Characteristics.md", "02": "02 New Star Wars - Species (revised).md",
+D = {k: C.RULES_DIR / v for k, v in {"01": "01 New Star Wars - Introduction & Characteristics.md", "02": "02 New Star Wars - Species (revised).md",
                                "03": "03 New Star Wars - Origin.md", "04": "04 New Star Wars - Faction.md",
                                "05": "05 New Star Wars - Careers (revised).md"}.items()}
 NAME = {k: C.page_of(v) for k, v in D.items()}

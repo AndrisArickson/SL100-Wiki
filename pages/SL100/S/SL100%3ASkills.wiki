@@ -14,9 +14,9 @@ Blasting away at a door/object? Using a simple weapon skill in an Opposed check 
 
 Advanced Skills require specialist knowledge, training, or firsthand experience to even attempt to use. You may only Test an Advanced Skill if you have taken at least one Advance in it. If you have not, you cannot attempt to Test the Skill. So, no matter how intelligent you are, you will not understand the finer points of law without the Lore (Law) Skill.
 
-=== Complete Skill List ===
+'''Complete Skill List'''
 
-=== Basic Skills ===
+'''Basic Skills'''
 
 Art, Athletics, Bribery, Charm, Climb, Consume Intoxicant, Cool, Dodge, Endurance, Entertain, Gamble, Gossip, Haggle, Intimidate, Intuition, Leadership, Melee (1H/2H/Brawling/*Lightsaber), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Pilot (Starship), Ride (Air/Land/Water), Stealth (Rural/Underground/Urban)
 
@@ -24,11 +24,11 @@ Art, Athletics, Bribery, Charm, Climb, Consume Intoxicant, Cool, Dodge, Enduranc
 
 Example: Adhemar has an Intelligence of 36 and no Advances in either the Basic Gamble Skill or the Advanced Medicine Skill, both based on Intelligence. He can Test the Gamble Skill at 36% as it is Basic, and anyone can Test Basic Skills. The Medicine Skill is an Advanced Skill, so Adhemar has no idea how to patch up wounds beyond screaming loudly for a doctor!
 
-=== Advanced Skills ===
+'''Advanced Skills''' 
 
 Codes (Faction), Creature Care, Creature Training, Demolitions, Evaluate, Language, Lore, Medicine, Meditate, Perform, Pilot (Capital Ship), Play, Profession, Ranged (Archaic/Blaster/Exotic/Ordnance/Thrown), Research, Sleight of Hand, Slice Security System, Swim, Track, Use the Force
 
-=== Grouped Skills and Specialisation ===
+'''Grouped Skills and Specialisation'''
 
 Some Skills are classified as Grouped. This means the Skill is an array of related Skills under one heading. Each related Skill is called a Specialisation. When a Specialisation is mentioned in the rules, it is marked in brackets. 
 
@@ -102,7 +102,7 @@ Your ability to handle alcohol without letting it cloud your judgment or render 
 
 After each alcoholic drink make a Consume Intoxicant Test, modified by the strength of the drink. For each Test you fail, you suffer a –10 penalty to WS, BS, Ag, Dex, and Int, to a maximum of –30 per Characteristic. After you fail a number of Tests equal to your Toughness Bonus, you are Stinking Drunk. Roll on the following table to see what happens:
 
-=== 1d10 Stinking Drunk ===
+'''1d10 Stinking Drunk'''
 
 1-2 ‘Why’s Everything Wobbling!’: On your Turn, you can either Move or take an Action, but not both (see [[SL100:How to Play#Movement and Time in Rounds|Rounds]]).
 
@@ -355,7 +355,7 @@ Research has no use in combat beyond perhaps finding you a useful manual on swor
 
 Your ability to operate and manoeuvre a piloting starship — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your starship, you only use the Pilot (Capital Ship) Skill when you must push your starship to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply piloting with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Pilot (Capital Ship). The skill can also be used for piloting-related activities like tying knots, or tying others up in knots.
 
-=== Research and Libraries ===
+'''Research and Libraries'''
 
 Libraries of the galaxy vary from small personal archives of a few dozen datapads to vast archives found in the universities and Force shrines of the towns and cities. Using a Research Test in a small archive, perhaps to find a specific datapad, only takes about 5 minutes. By comparison, Research Tests in large archives can easily takes an hour or more per Test, but are far more likely to find esoteric lore.
 
@@ -373,7 +373,7 @@ Lets you pick pockets, palm objects, and perform minor tricks, as well as cheati
 
 Allows you to creep quietly and conceal yourself in shadows more readily than most. Stealth is generally Opposed by an opponent’s Perception Skill, and Tests will be modified by how dark or well concealed your route is, as well as how circumspectly you are dressed. An Impressive or Astounding Failure on a Stealth Test will likely draw the immediate attention of the enemies you were trying to avoid in the first place. Stealth has many potential applications in combat, most usefully to hide oneself in preparation for an Ambush, or to creep around an opponent in order to attack from behind. See [[SL100:Combat|Combat]] for the implications of this. Of course, you can also use the Skill to escape a conflict unseen… Specialisations: Rural, Underground, Urban
 
-=== Options: Shadowing ===
+'''Options: Shadowing'''
 
 Shadowing is following someone secretly. To do this requires a Combined Perception and Stealth Test (see [[SL100:How to Play#Group Tests|Group Tests]]). If the target is actively trying to lose a tail, it is Opposed with the target’s Stealth Skill.
 

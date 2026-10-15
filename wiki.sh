@@ -28,6 +28,7 @@ case "${1:-help}" in
   export)     "$PY" tools/crawl.py export ;;
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
+  rules-md)   "$PY" tools/export_rules.py "$@" ;;   # markdown copies of the rules pages in build/rules (for the tools and the Roll20 sheet)
   images-classify) shift; "$PY" tools/images.py classify "$@" ;;      # licence lookup for every image our pages use (~1 h)
   images-fetch)   shift   # download + convert to WebP in the background; everything -> images/full (pushed)
     rm -f data/STOP; nohup "$PY" tools/images.py fetch "$@" >> data/logs/images.log 2>&1 &
@@ -39,9 +40,9 @@ case "${1:-help}" in
   species-images) "$PY" tools/ingest_images.py species ;;   # species image work list + download page in images/incoming/
   images-ingest)  "$PY" tools/ingest_images.py ingest ;;    # convert hand-downloaded images in images/incoming/ to WebP and add them to the wiki
   collate)    # re-run the collation reports (lookups and comparisons only; see docs/collation/README.md)
-    "$PY" tools/books/refblocks.py all && "$PY" tools/books/speciescheck.py && "$PY" tools/books/creatures.py && STATBLOCK_PREFIX=core_ "$PY" tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650 && "$PY" tools/books/statblocks.py run SW_Arms_and_Equipment_Guide_WTC88664 && "$PY" tools/books/coretables.py run && "$PY" tools/books/starships.py run && "$PY" tools/books/equipcheck.py && "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
+    "$PY" tools/export_rules.py && "$PY" tools/books/refblocks.py all && "$PY" tools/books/speciescheck.py && "$PY" tools/books/creatures.py && STATBLOCK_PREFIX=core_ "$PY" tools/books/statblocks.py run SW_Revised_Core_Rulebook_WTC17650 && "$PY" tools/books/statblocks.py run SW_Arms_and_Equipment_Guide_WTC88664 && "$PY" tools/books/coretables.py run && "$PY" tools/books/starships.py run && "$PY" tools/books/equipcheck.py && "$PY" tools/books/wikimatch.py && "$PY" tools/collate/legends_check.py && "$PY" tools/collate/lists.py \
       && "$PY" tools/collate/vocab.py && "$PY" tools/collate/ships_compare.py \
-      && "$PY" tools/collate/careers_compare.py && "$PY" tools/collate/assembly.py && "$PY" tools/collate/species_xref.py && "$PY" tools/collate/wiki_pages.py ;;
+      && "$PY" tools/collate/careers_compare.py && "$PY" tools/collate/assembly.py && "$PY" tools/collate/species_xref.py ;;
   books)      # d20 source-book extraction / OCR (output: ../Source_Text, outside git)
     shift; sub="${1:-help}"; TXT="../Source_Text"; mkdir -p "$TXT/logs"
     case "$sub" in
@@ -75,6 +76,7 @@ Usage: ./wiki.sh <command>
   species-images   list the species images still needed; open images/incoming/species_download_list.html
   images-ingest    convert images saved into images/incoming/ to WebP and add them to the wiki
   collate    re-run the collation reports (d20-to-wiki match, Legends check, talent/skill lists, vocabulary, ship comparison)
+  rules-md   write markdown copies of the rules pages to build/rules (the tools and the Roll20 sheet read them)
   push       commit new/changed files in chunks and push to GitHub
 EOF
   ;;

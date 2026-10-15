@@ -21,7 +21,7 @@ Your character starts play with equipment determined by your Origin, Faction, an
 
 '''Qualities and Flaws''': Any Weapon Qualities or Flaws the weapon possesses
 
-=== Melee Weapon Reach ===
+'''Melee Weapon Reach'''
 
 The lengths of the weapons are progressively bigger as follows.
 
@@ -39,7 +39,7 @@ The lengths of the weapons are progressively bigger as follows.
 
 '''Massive''': Anything over 10 feet long; \\
 
-=== Projectile / Energy Weapon Ranges ===
+'''Projectile / Energy Weapon Ranges'''
 
 S = Short
 
@@ -283,7 +283,7 @@ E = Extreme
 | Supressor || 900 || Common || Solid Projectile ranged weapons
 |}
 
-=== Armour ===
+'''Armour'''
 
 The protection Armour provides is specific to the location it is placed in; this is especially important when protecting against targeted shots or critical hits against a specific body location.
 
@@ -327,13 +327,13 @@ Armour can be made of common, uncommon, rare, up to exotic special materials
 |  ||  ||  ||  ||  ||  ||  ||  || 
 |}
 
-=== Special Material note ===
+'''Special Material note'''
 
 '''Cortosis, Phrik, and Beskar''' are the three main lightsaber-blocking metals — each rare, each with different ownership (Sith, Separatists, Mandalorians respectively)
 
 The following table describes modern armour standards; durasteel.
 
-=== Qualities and Flaws ===
+'''Qualities and Flaws'''
 
 '''Flexible''': Flexible armour can be worn under a layer of non-Flexible armour if you wish. If you do so, you gain the benefit of both.
 
@@ -359,7 +359,7 @@ The following table describes modern armour standards; durasteel.
 
 '''Plasteel''' — a lighter, cheaper steel-plastic composite. Weaker than durasteel but easy to mould, common in consumer goods, cheaper armour, and structural components.
 
-=== Materials ===
+'''Materials'''
 
 '''Plastoid:''' Stormtrooper armour - weaker - Flaw 2 - '''Common'''
 
@@ -399,14 +399,14 @@ Each rank of the properties doubles the cost
 | Passive Camouflage ||  || 
 |}
 
-=== Flak Vest ===
+'''Flak Vest'''
 
 * Lighter blast ''vests'', by contrast, were typically simpler layered fabric/light plating rather than the crystal-gel system
 * '''Flak vest''' — upper-torso armour focused on fragmentation protection.
 * '''Mk III flak vest''' — a Pacnorval Defense Systems model using light durasteel plates against grenade shrapnel.
 * '''Battle vest''' and '''flexi-mesh''' — other light protective vest/materials in the same family.
 
-=== Blast vests ===
+'''Blast vests'''
 
 Light torso armour that, despite the name, gave only minimal protection against blaster bolts but was effective against shrapnel, grenade fragments, and slugthrower rounds. 
 
@@ -421,15 +421,15 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 
 * plastoid - rigid
 
-=== Star Wars Economy notes ===
+'''Star Wars Economy notes'''
 
-=== Bacta ===
+'''Bacta'''
 
 * Bacta liquid: \~100 credits per liter
 * Bacta tank: \~100,000 credits
 * G-5 Geltab (small bacta dose in medkits): 50 credits
 
-=== Clone trooper armour ===
+'''Clone trooper armour'''
 
 * Phase I clone trooper armor: 2,000 credits per suit (plastoid)
 *** helmet: 
@@ -445,26 +445,26 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 ***** Power armour quality?: no
 * Phase II clone trooper armor: 3,000 credits per suit
 
-=== Clone / Imperial military ===
+'''Clone / Imperial military'''
 
 * Phase I clone trooper armor: 2,000 credits
 * Phase II clone trooper armor: 3,000 credits
 * Storm Commando armor: 5,000 credits
 * Clone Commando armor: 6,500 credits
 
-=== Mandalorian ===
+'''Mandalorian'''
 
 * Mandalorian combat suit (basic): 850 credits
 * Mandalorian battle armor: 3,750 credits
 * Neo-Crusader assault armor: 12,750 credits
 * Full standard set:  \~20,000–50,000 credits (varies by quality/features)
 
-=== Civilian / light armour ===
+'''Civilian / light armour'''
 
 * Blast helmet: 300 credits
 * Blast vest: \~300 credits (simple), 500 credits for vest + matching helmet set
 
-=== Standalone life-support / breathing gear ===
+'''Standalone life-support / breathing gear'''
 
 * Standard breath mask: 200 credits
 * A99 aquata breather: 350 credits
@@ -483,9 +483,9 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 
 * Armored spacesuit: 10,000 credits (sustains wearer up to 10 days in vacuum/hostile environments)
 
-=== Electronics ===
+'''Electronics'''
 
-=== Comlinks (radios) ===
+'''Comlinks (radios)'''
 
 * Standard personal comlink: 200 credits
 * Earbud comlink: 200 credits
@@ -495,20 +495,20 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 * Hush-98 comlink (encrypted): 4,000 credits
 * VoxLink droid comlink: 100 credits
 
-=== Datapads (computers) ===
+'''Datapads (computers)'''
 
 * Companion: 2000 normal or (budget): \~100 credits
 * BoSS Documentation Datapad: 150 credits
 * Standard datapad: \~1,000 credits
 
-=== Data storage / recording ===
+'''Data storage / recording'''
 
 * Personal Assistant-4x recording rod: 30 credits (high-end rods run into the hundreds)
 * Personal holoprojector: \~1,000 credits
 * Holorecorder: 3,000 credits
 * Datacard: widely available, no listed price
 
-=== Scanners / optics ===
+'''Scanners / optics'''
 
 * 1000 Field Macro binoculars: 100 credits
 * 1125 Heads-Up Macro binoculars: 200–900 credits
@@ -517,9 +517,9 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 * ILF-6500 Life Form Scanner: 900 credits
 * ILF-5000 Life Form Scanner: 3,500 credits
 
-=== Weapon costs ===
+'''Weapon costs'''
 
-=== Blasters ===
+'''Blasters'''
 
 * DL-44 heavy blaster pistol: 750 credits
 * Generic blaster rifle: \~1,000 credits
@@ -528,17 +528,17 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 * A280 blaster rifle: 1,300 credits
 * DC-19 "Stealth" carbine: 3,500 credits
 
-=== Freighters ===
+'''Freighters'''
 
 * YT-1300 light freighter: \~100,000 credits (per West End Games RPG); 
 * modified examples ranged from \~15,000 (stripped/damaged) to \~150,000 credits
 
-=== Starfighters ===
+'''Starfighters'''
 
 * TIE/ln starfighter: 60,000 credits new, 1/3 new cost used
 * T-65 X-wing: 80,000 credits new, 1/3 new cost used
 
-=== Capital ships ===
+'''Capital ships'''
 
 * Imperial II-class Star Destroyer: \~145,670,000 credits (WOTC ''Starships of the Galaxy''); Imperial I-class:  \~150 million is a common fan estimate
 
@@ -548,7 +548,7 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 
 1 gold = 1000 credits
 
-=== Earning rates ===
+'''Earning rates'''
 
 '''Working class (basic droids can do this):''' 20,000-45,000 salary per year (BRONZE)
 
@@ -569,7 +569,7 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 * Typical runs: \~3,000–10,000 credits per job
 * Higher-value cargo could push single jobs toward \~12,000+ credits
 
-=== Military ===
+'''Military'''
 
 * Storm troopers: \~40,000–100,000 credits/year depending on rank; plus provided room and board
 * 
@@ -674,7 +674,7 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 | Beskar Alloy Breastplate || Torso || 8 || 5 ||  || Exotic || Lightsaber Resistant, Fine 3
 |}
 
-=== Force Fields ===
+'''Force Fields'''
 
 {| class="wikitable"
 ! Name !! Protection !! Overload !! Enc !! Cost !! Avail
@@ -684,7 +684,7 @@ A rubbery material embedded with thousands of tiny '''reflective crystals''' sus
 | Conversion Field || 2D10 || 20 || 0 || 6000 || Exotic
 |}
 
-=== Equipment ===
+'''Equipment'''
 
 '''Bacta vs Kolto''' is a generational technology shift — Kolto (Selkath-controlled, Manaan) predates bacta (Vratix-grown, Thyferra) and is less effective. Bacta is not available at 3666 BBY.
 
