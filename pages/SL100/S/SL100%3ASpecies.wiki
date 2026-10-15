@@ -83,7 +83,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Bartokk|Bartokk]] || [[Bartokk|Legends Bartokk]] || Average || WS +10, S +10, T +20, Fel −10 || sl100
 |-
-| [[#Bimm|Bimm]] || [[Bimm/Legends|Legends Bimm]] || Average || Int +10, Fel +10 || sl100
+| [[#Bimm|Bimm]] || [[Bimm/Legends|Legends Bimm]] || Small || Int +10, Fel +10 || sl100
 |-
 | [[#Bith|Bith]] || [[Bith/Legends|Legends Bith]] || Average || S −10, I +10, Dex +10, Int +20 || sl100
 |-
@@ -345,7 +345,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Sanyassan|Sanyassan]] || [[Sanyassan/Legends|Legends Sanyassan]] || Average || WS +10, S +10, T +10, Int −10, WP +10 || sl100
 |-
-| [[#Sarkan|Sarkan]] || [[Sarkan/Legends|Legends Sarkan]] || Average || S +10, T +10, Int +10 || sl100
+| [[#Sarkan|Sarkan]] || [[Sarkan/Legends|Legends Sarkan]] || Large || S +10, T +10, Int +10 || sl100
 |-
 | [[#Saurin|Saurin]] || [[Saurin/Legends|Legends Saurin]] || Average || WS +10, S +10, T +10 || sl100
 |-
@@ -389,7 +389,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Tarro|Tarro]] || [[Tarro|Legends Tarro]] || Average || WS +10, S +10, T +10, I +10, Fel −10 || sl100
 |-
-| [[#Temolak|Temolak]] || [[Temolak|Legends Temolak]] || Average || S +10, T +10, Int +10 || sl100
+| [[#Temolak|Temolak]] || [[Temolak|Legends Temolak]] || Large || S +10, T +10, Int +10 || sl100
 |-
 | [[#Thakwaash|Thakwaash]] || [[Thakwaash|Legends Thakwaash]] || Large || S +20, T +10, I +10, WP −10 || sl100
 |-
@@ -3164,9 +3164,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +10, T +10, Int +10
-'''Talents:''' Datapad Use, Night Vision, Dealmaker, roll 1 talents from the random talents list
+'''Talents:''' Datapad Use, Large, Night Vision, Dealmaker, roll 1 talents from the random talents list
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' Bite +SB+2  '''Traits:''' cold-blooded (freezing temperatures can kill in twenty minutes; treat cold exposure as one step more severe)
+'''Size:''' Large  '''Natural weapons:''' Bite +SB+2  '''Traits:''' cold-blooded (freezing temperatures can kill in twenty minutes; treat cold exposure as one step more severe)
 
 <div style="clear:both"></div>
 === [[Saurin/Legends|Saurin]] ===
@@ -3516,9 +3516,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +10, T +10, Int +10
-'''Talents:''' Datapad Use, Scavenger, Hardy, roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Scavenger, Hardy, roll 1 talent from the random talents list
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Redundant organs (two hearts, four lungs, three kidneys): +10 to Endurance Tests against suffocation and organ damage
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Redundant organs (two hearts, four lungs, three kidneys): +10 to Endurance Tests against suffocation and organ damage
 
 <div style="clear:both"></div>
 === [[Thakwaash]] ===
