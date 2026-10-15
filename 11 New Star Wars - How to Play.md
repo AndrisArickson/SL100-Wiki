@@ -205,7 +205,7 @@ Downtime is spent in **Endeavours**, one per free week up to three between adven
 - **XP:** talents 100 per rank; characteristics and skills by the table; non-career double; change career 100 or 200.
 
 *Conversion notes:*
-`[review: medpac +10, bacta patch 1d10 Wounds per hour, bacta tank TB x 2 Wounds per hour and one Critical per day are SL100 proposals with no WFRP source; align with the medical gear prices in [[SL100:Equipment|Equipment]]]`
+`[review: medpac +10, bacta patch 1d10 Wounds per hour, bacta tank TB x 2 Wounds per hour and one Critical per day are SL100 proposals; align with the medical gear prices in [[SL100:Equipment|Equipment]]]`
 `[review: Ionised, Irradiated and Suffocating are proposed setting Conditions; Suffocating replaces the exposure/starvation ladder]`
 `[review: Status tier names written as Fringe / Citizen / Elite with the Brass / Silver / Gold names noted, pending the renaming decision; credit values per tier are deferred to [[SL100:Equipment|Equipment]]]`
 `[review: session XP guidance (50-150) and the Sudden Death option are GM advice, not rules]`

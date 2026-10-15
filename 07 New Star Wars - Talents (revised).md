@@ -89,7 +89,7 @@ You have learned to ride your Frenzy rather than be carried away by it, like a W
 ### Beat Blade
 **Max:** Weapon Skill Bonus · **Tests:** Melee for a Beat Blade
 
-You have drilled in striking your opponent's weapon with short, controlled blows that knock it out of line, opening them up or spoiling their next attack. Before rolling, you may declare that your Action is a Beat Blade. Make a Melee Test; if you succeed, your opponent loses 1 Advantage, plus a further 1 Advantage for every SL you score. The Test is not Opposed. Beat Blade is useless against an opponent who has no weapon or who is of a larger Size than you (see Combat: Size).
+You have drilled in striking your opponent's weapon with short, controlled blows that knock it out of line, opening them up or spoiling their next attack. Before rolling, you may declare that your Action is a Beat Blade. Make a Melee Test; if you succeed, your opponent loses 1 Advantage, plus a further 1 Advantage for every SL you score. The Test is not Opposed. Beat Blade is useless against an opponent who has no weapon or who is of a larger Size than you (see [[SL100:Characteristics#WOUNDS|Wounds]] for how Size changes your Wounds).
 
 ### Beneath Notice
 **Max:** Fellowship Bonus · **Tests:** Stealth when in plain sight
@@ -251,7 +251,7 @@ You learned to fight in the alleys and spaceport bars where there are no rules, 
 ### Disarm
 **Max:** Initiative Bonus · **Tests:** Melee Tests concerning this Talent
 
-A deft twist of your weapon or a sharp blow to the hand sends your opponent's weapon spinning away. For your Action, attempt an Opposed Melee/Melee Test. If you win, your opponent drops a held weapon, which flies 1d10 metres in a random direction, with any further effects decided by the GM. If you win by 2 SL, you choose how far the weapon travels instead of rolling; if you win by 4 SL, you also choose the direction; and if you win by 6 SL or more, you may snatch the weapon from the air with a flourish, provided you have a free hand. Disarm is useless against an opponent who has no weapon or who is of a larger Size than you (see Combat: Size).
+A deft twist of your weapon or a sharp blow to the hand sends your opponent's weapon spinning away. For your Action, attempt an Opposed Melee/Melee Test. If you win, your opponent drops a held weapon, which flies 1d10 metres in a random direction, with any further effects decided by the GM. If you win by 2 SL, you choose how far the weapon travels instead of rolling; if you win by 4 SL, you also choose the direction; and if you win by 6 SL or more, you may snatch the weapon from the air with a flourish, provided you have a free hand. Disarm is useless against an opponent who has no weapon or who is of a larger Size than you (see [[SL100:Characteristics#WOUNDS|Wounds]] for how Size changes your Wounds).
 
 ### Distract
 **Max:** Agility Bonus · **Tests:** Athletics to Distract
@@ -453,7 +453,7 @@ Your criminal dealings are so well known and so profitable that polite society h
 ### Large
 **Max:** 1
 
-You are far bigger than most beings in the galaxy, as a Wookiee, a Herglic, a Whiphid or a Hutt is. Your Size is Large rather than Average (see Combat: Size): you are easier to hit and harder to knock down, your reach is greater, your unarmed and melee Damage gains +1, and your Encumbrance limit is raised by 2. Ordinary vehicles, doors and furniture are built for smaller folk, which the GM may turn into penalties or comedy as the scene demands. Large is granted by a species entry, never bought.
+You are far bigger than most beings in the galaxy, as a Wookiee, a Herglic, a Whiphid or a Hutt is. Your Size is Large rather than Average (see [[SL100:Characteristics#WOUNDS|Wounds]] for how Size changes your Wounds): you are easier to hit and harder to knock down, your reach is greater, your unarmed and melee Damage gains +1, and your Encumbrance limit is raised by 2. Ordinary vehicles, doors and furniture are built for smaller folk, which the GM may turn into penalties or comedy as the scene demands. Large is granted by a species entry, never bought.
 
 ### Lightning Reflexes
 **Max:** 1
@@ -716,12 +716,12 @@ You feel it in your gut when something is wrong, a prickle of unease a moment be
 ### Slayer
 **Max:** 1
 
-You are a killer of giants, trained to bring down beasts and war machines far bigger than yourself. When determining Damage, use your opponent's Toughness Bonus in place of your own Strength Bonus if it is higher; apply this before any other rule modifies your Strength or Strength Bonus. Further, if your target is larger than you and you score a Critical (see Combat: Critical Wounds), multiply all melee Damage you cause by the number of Size steps your target is larger (2 steps = x2, 3 steps = x3, and so on). This multiplication is applied after all other modifiers (see Combat: Size). A rancor or a krayt dragon is exactly the sort of prey this talent is meant for.
+You are a killer of giants, trained to bring down beasts and war machines far bigger than yourself. When determining Damage, use your opponent's Toughness Bonus in place of your own Strength Bonus if it is higher; apply this before any other rule modifies your Strength or Strength Bonus. Further, if your target is larger than you and you score a Critical (see Combat: Critical Wounds), multiply all melee Damage you cause by the number of Size steps your target is larger (2 steps = x2, 3 steps = x3, and so on). This multiplication is applied after all other modifiers (see [[SL100:Characteristics#WOUNDS|Wounds]] for how Size changes your Wounds). A rancor or a krayt dragon is exactly the sort of prey this talent is meant for.
 
 ### Small
 **Max:** 1
 
-You stand well below the galactic average, with all the advantages and drawbacks that brings. Your Size is Small rather than Average (see Combat: Size). This is typical of species such as Jawas, Ewoks and Ugnaughts.
+You stand well below the galactic average, with all the advantages and drawbacks that brings. Your Size is Small rather than Average (see [[SL100:Characteristics#WOUNDS|Wounds]] for how Size changes your Wounds). This is typical of species such as Jawas, Ewoks and Ugnaughts.
 
 ### Sniper
 **Max:** 4 · **Tests:** Ranged (Any) at Long or Extreme Range

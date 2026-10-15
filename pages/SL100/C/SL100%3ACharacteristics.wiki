@@ -103,9 +103,29 @@ Wounds measure how much punishment you can take before you are seriously hurt. C
 
 '''Wounds = Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus'''
 
-Talents such as Hardy add to this total. Whenever one of these Bonuses changes, recalculate your Wounds.
+That is the formula for an Average-sized character. A character's Size changes it:
 
-'''Example:''' A Trandoshan with S 41, T 45 and WP 33 has 4 + (2 × 4) + 3 = '''15 Wounds'''.
+{| class="wikitable"
+! Size !! Wounds
+|-
+| Tiny || 1
+|-
+| Little || Toughness Bonus
+|-
+| Small || (2 × Toughness Bonus) + Willpower Bonus
+|-
+| Average || Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus
+|-
+| Large || (Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus) × 2
+|-
+| Enormous || (Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus) × 4
+|-
+| Monstrous || (Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus) × 8
+|}
+
+Playable species are Small, Average or Large. A character with the [[SL100:Talents#Small|Small]] talent is Small and one with the [[SL100:Talents#Large|Large]] talent is Large; everyone else is Average. Talents such as Hardy add to the total after Size is applied. Whenever one of these Bonuses or your Size changes, recalculate your Wounds.
+
+'''Example:''' A Trandoshan with S 41, T 45 and WP 33 has 4 + (2 × 4) + 3 = '''15 Wounds'''. A Jawa (Small) with S 25, T 30 and WP 35 has (2 × 3) + 3 = '''9 Wounds'''.
 
 === MOVEMENT ===
 

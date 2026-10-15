@@ -59,7 +59,7 @@ Collated by `tools/collate/assembly.py` from the Characteristics, Species, Origi
 | Baragwin | T +20 I +10 INT +10 AG −10 | Datapad Use, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list | 3 | 1 | 1 | 2 |
 | Bardottan | INT +10 WP +20 | Datapad Use, Sixth Sense, roll 2 talents from the random talents list | 3 | 0 | 2 | 2 |
 | Bartokk | WS +10 S +10 T +20 FEL −10 | Datapad Use, Regeneration (Minor), Menacing, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
-| Bimm | INT +10 FEL +10 | Datapad Use, Suave, Dealmaker, roll 1 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Bimm | INT +10 FEL +10 | Datapad Use, Small, Suave, Dealmaker, roll 1 talents from the random talents list | 4 | 2 | 1 | 3 |
 | Bith | S −10 I +10 DEX +10 INT +20 | Datapad Use, Acute Sense (Hearing), Perfect Pitch, roll 1 talents from the random talents  | 4 | 1 | 1 | 2 |
 | Blood Carver | AG +10 DEX +10 WP +10 | Datapad Use, Contortionist, Acute Sense (Smell), roll 1 talents from the random talents li | 4 | 1 | 1 | 2 |
 | Bothan | I +10 INT +10 FEL +10 | Datapad Use, Savvy, Suave, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |

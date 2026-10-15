@@ -107,7 +107,6 @@ doc,line,group,term,matched,context
 04 New Star Wars - Faction.md,286,units,yards,yards,"lustan_Orbital_Shipyards)** | Imperial-controlled yards at Sullust producing landing craft, assault ships"
 04 New Star Wars - Faction.md,288,units,yards,yard,ipyards/Legends)** | Major Imperial Remnant fleet yard; one of the last functioning heavy construction f
 04 New Star Wars - Faction.md,315,units,yards,Yards,| **[Kuat Drive Yards (Ground Division)](https://starwars.fandom.com/wi
-05 New Star Wars - Careers (revised).md,9,old name,Warhammer,WFRP,"k and customs work, salvage and piracy, replacing WFRP's Riverfolk) and Warriors."
 05 New Star Wars - Careers (revised).md,120,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
 05 New Star Wars - Careers (revised).md,131,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Bribery, Charm, Gossip, Intuition, Language (Trade Cant), Codes (Trade Guild)"
 05 New Star Wars - Careers (revised).md,156,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
@@ -195,204 +194,184 @@ doc,line,group,term,matched,context
 05 New Star Wars - Careers (revised).md,1384,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Athletics, Cool, Endurance, Intuition, Lore (The Force), Perception, *Meditate*, Resear"
 05 New Star Wars - Careers (revised).md,1433,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
 05 New Star Wars - Careers (revised).md,1433,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1463,placeholder,xx placeholder,xx,Force Sorcerer: xx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1465,placeholder,xx placeholder,xx,Sith Sorcerer: xx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1467,placeholder,xx placeholder,xxx,**3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2** `[review: placeholde
-05 New Star Wars - Careers (revised).md,1477,placeholder,xx placeholder,xxx,(Tradition) xxx: `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1491,placeholder,xx placeholder,xxx,Force Master: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1517,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1517,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1520,characteristic,Dexterity / Dex,Dexterity,"m scheme built on the Knight's (rulebook p. 111): Dexterity replaces Strength, and Willpower and Fellowship t"
-05 New Star Wars - Careers (revised).md,1535,placeholder,xx placeholder,xxx,Acolyte: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1537,placeholder,xx placeholder,xxx,Sith Acolyte: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1549,placeholder,xx placeholder,xxx,Force Shadow: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1565,placeholder,xx placeholder,xxx,Grand Inquisitor: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1577,placeholder,xx placeholder,xxx,Force Master: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1609,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1609,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1637,d20 term,ranks,rank,t: You have faced the Trials and been granted the rank of Knight. The galaxy is now your responsibility.
-05 New Star Wars - Careers (revised).md,1653,placeholder,xx placeholder,xxx,(Tradition) Protector: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1667,placeholder,xx placeholder,xxx,Force Master: xxx `[review: placeholder]`
-05 New Star Wars - Careers (revised).md,1682,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1688,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Use the Force, Endurance, Intuition, Language (The Force), Lore (Folklore), *Lore (Bo"
-05 New Star Wars - Careers (revised).md,1718,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1724,characteristic,Intuition (for Initiative?),Intuition,"ine, Lore (The Force), *Meditate*, Use the Force, Intuition"
-05 New Star Wars - Careers (revised).md,1754,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1760,characteristic,Intuition (for Initiative?),Intuition,"ertain (Fortune Telling)*, Dodge, Gossip, Haggle, Intuition, Perception, Sleight of Hand, Meditate, Research"
-05 New Star Wars - Careers (revised).md,1787,fantasy residue,magic words,spell,"ith sorcery learned from a Korriban holocron, the spell-ichor of the Nightsisters of Dathomir, the Krath"
-05 New Star Wars - Careers (revised).md,1787,fantasy residue,magic words,witch,"e Empress Teta system, or any of a hundred lesser witch-cults on the Outer Rim. Where a Jedi feels the Fo"
-05 New Star Wars - Careers (revised).md,1790,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1796,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** *Use the Force*, Dodge, Intuition, Language (The Force), Lore (The Force), Melee (1"
-05 New Star Wars - Careers (revised).md,1803,d20 term,ranks,Rank,**Trappings:** Tradition Sigil of Rank
-05 New Star Wars - Careers (revised).md,1806,skill rename,Drive / Row / Sail / Ride,Ride (,"kills:** Creature Care, Evaluate, Lore (Warfare), Ride (Land)"
-05 New Star Wars - Careers (revised).md,1826,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1842,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Lore (Force Traditions), Intuition, Perception, Pilot (Speeder)"
-05 New Star Wars - Careers (revised).md,1864,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1880,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Cool, Intimidate, Outdoor Survival, Ride (Land)"
-05 New Star Wars - Careers (revised).md,1885,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership"
-05 New Star Wars - Careers (revised).md,1900,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1906,skill rename,Drive / Row / Sail / Ride,Ride (,"y Cant), Medicine, Melee (1H), Outdoor Survival, *Ride (Land)*, Haggle, Ranged (Blaster/Thrown)"
-05 New Star Wars - Careers (revised).md,1916,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Lore (Warfare), Pilot (Speeder)"
-05 New Star Wars - Careers (revised).md,1935,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1935,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1941,characteristic,Intuition (for Initiative?),Intuition,"ills:** Bribery, Charm, Gossip, Ranged (Blaster), Intuition, Melee (1H/Brawling), Outdoor Survival, Perceptio"
-05 New Star Wars - Careers (revised).md,1957,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Ranged (Ordnance), Climb, Ride (Land), Swim"
-05 New Star Wars - Careers (revised).md,1982,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,1993,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Charm Creature, Intuition, Ranged (Blaster), Codes (Scout), Codes (Ranger),"
-05 New Star Wars - Careers (revised).md,2018,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2024,characteristic,Intuition (for Initiative?),Intuition,"Gossip, Melee (Brawling), Navigation, Perception, Intuition, Ranged (Blaster)"
-05 New Star Wars - Careers (revised).md,2054,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2060,skill rename,Drive / Row / Sail / Ride,Ride (,"Perception, *Pilot (Speeder)*, Ranged (Blaster), Ride (Land), Dodge, Haggle"
-05 New Star Wars - Careers (revised).md,2065,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Local), Navigation, Ranged (Ordnance)"
-05 New Star Wars - Careers (revised).md,2090,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2126,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2132,skill rename,Drive / Row / Sail / Ride,Ride (,"elee (1H/2H)*, Outdoor Survival, Pilot (Speeder), Ride (Land), Creature Care, Ranged (Blaster)"
-05 New Star Wars - Careers (revised).md,2137,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Dodge, Endurance, Intimidate, Intuition, Melee (1H/2H/Brawling)"
-05 New Star Wars - Careers (revised).md,2162,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2178,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Melee (1H/2H/Brawling), Intuition, Leadership, Perception"
-05 New Star Wars - Careers (revised).md,2198,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2209,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Intuition, Melee (1H), Ranged (Exotic/Thrown), Codes (Hunte"
-05 New Star Wars - Careers (revised).md,2214,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Navigation, Ride (Land), Swim, Track"
-05 New Star Wars - Careers (revised).md,2234,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2240,characteristic,Intuition (for Initiative?),Intuition,"kills:** Charm, Consume Intoxicant, *Intimidate*, Intuition, Lore (Interrogation), Medicine, Melee (Brawling/"
-05 New Star Wars - Careers (revised).md,2270,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2281,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Creature Care, Endurance, Intimidate, Intuition, Outdoor Survival, Pilot (Speeder)"
-05 New Star Wars - Careers (revised).md,2288,d20 term,ranks,Rank,"ter Pistol with Power Pack, Riot Shield, Badge of Rank"
-05 New Star Wars - Careers (revised).md,2306,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2317,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Endurance, Gamble, Intuition, Language (Military Cant), Lore (Hyperlanes), Pro"
-05 New Star Wars - Careers (revised).md,2329,d20 term,ranks,Rank,"**Trappings:** Quality Flight Suit, Symbol of Rank, Command of a Squadron"
-05 New Star Wars - Careers (revised).md,2341,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2341,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2347,characteristic,Intuition (for Initiative?),Intuition,"Local), Melee (1H), Outdoor Survival, Perception, Intuition, Charm Creature"
-05 New Star Wars - Careers (revised).md,2355,skill rename,Drive / Row / Sail / Ride,Ride (,"Athletics, Navigation, Ranged (Archaic/Blaster), Ride (Land), Stealth (Rural), Track"
-05 New Star Wars - Careers (revised).md,2388,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2404,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Endurance, Dodge, Intuition"
-05 New Star Wars - Careers (revised).md,2423,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2423,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2445,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Evaluate, Intimidate, Intuition, Lore (Hyperlanes)"
-05 New Star Wars - Careers (revised).md,2467,fantasy residue,medieval kit,cart,"ld, no warehouse and no standing, only a beast, a cart and a reputation. Both the Republic and the Empir"
-05 New Star Wars - Careers (revised).md,2470,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2476,characteristic,Intuition (for Initiative?),Intuition,"ance, Entertain (Storytelling), Gossip, *Haggle*, Intuition, Outdoor Survival, Stealth (Rural or Urban), Dodg"
-05 New Star Wars - Careers (revised).md,2481,skill rename,Drive / Row / Sail / Ride,Ride (,"nt, Creature Care, Evaluate, Profession (Tinker), Ride (Land)"
-05 New Star Wars - Careers (revised).md,2506,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2512,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Dodge, Endurance, Intimidate, Intuition, Lore (Tradition), Medicine, Melee (1H/2H), Outdo"
-05 New Star Wars - Careers (revised).md,2543,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2543,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2557,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Dodge, Ranged (Blaster), Intuition, Lore (Local), Melee (1H/Brawling), Perception"
-05 New Star Wars - Careers (revised).md,2589,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2589,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2603,characteristic,Intuition (for Initiative?),Intuition,"lls:** Cool, Dodge, Entertain (Acting), Evaluate, Intuition, Perception"
-05 New Star Wars - Careers (revised).md,2635,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2635,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2649,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Intimidate, Intuition, Perception, Codes (Smuggler), Profession (Engrav"
-05 New Star Wars - Careers (revised).md,2682,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2688,characteristic,Intuition (for Initiative?),Intuition,"kills:** Charm, Cool, Evaluate, *Gamble*, Gossip, Intuition, Perception, Sleight of Hand, Ranged (Blaster), I"
-05 New Star Wars - Careers (revised).md,2717,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2717,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2739,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Gossip, Intuition, Leadership, Ride (Land)"
-05 New Star Wars - Careers (revised).md,2739,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Gossip, Intuition, Leadership, Ride (Land)"
-05 New Star Wars - Careers (revised).md,2764,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2780,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Perception, Ranged (Exotic/Thrown)"
-05 New Star Wars - Careers (revised).md,2799,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2799,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2805,characteristic,Intuition (for Initiative?),Intuition,"ills:** Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Ranged (Blaster), C"
-05 New Star Wars - Careers (revised).md,2846,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2852,characteristic,Intuition (for Initiative?),Intuition,"*Skills:** Climb, Cool, Dodge, Endurance, Gossip, Intuition, *Perception*, Stealth (Any), Athletics, Ranged ("
-05 New Star Wars - Careers (revised).md,2884,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2920,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2936,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Climb, Cool, Intuition, Leadership"
-05 New Star Wars - Careers (revised).md,2943,d20 term,ranks,Rank,"**Trappings:** Customs Patrol Craft and Crew, Rank Cylinder"
-05 New Star Wars - Careers (revised).md,2956,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2972,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Charm, Intuition, Melee (2H), Perception"
-05 New Star Wars - Careers (revised).md,2989,units,yards,Yards,"hand. Every major port has them, from Kuat Drive Yards and the Coruscant orbital rings to the shadowport"
-05 New Star Wars - Careers (revised).md,2992,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,2998,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Orbital Lanes), Lore (Local), *Perception*"
-05 New Star Wars - Careers (revised).md,3028,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3044,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Evaluate, Intuition, Leadership"
-05 New Star Wars - Careers (revised).md,3064,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3100,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3116,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Codes (Trade Guild), Intuition, Language (Trade Cant), Research"
-05 New Star Wars - Careers (revised).md,3136,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3172,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3183,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Bribery, Cool, Demolitions, Intuition, Navigation, Perception"
-05 New Star Wars - Careers (revised).md,3205,d20 term,ranks,ranks,"ers, merchants and privateers all draw from their ranks."
-05 New Star Wars - Careers (revised).md,3208,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3219,characteristic,Intuition (for Initiative?),Intuition,"s:** Athletics, Entertain (Storytelling), Haggle, Intuition, Lore (Hyperlanes), Perception"
-05 New Star Wars - Careers (revised).md,3241,d20 term,ranks,rank,"gunnery, damage control and cargo mastery to the rank of bosun, and the best end their days as masters"
-05 New Star Wars - Careers (revised).md,3244,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3282,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3320,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3341,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Lore (Dark Side)"
-05 New Star Wars - Careers (revised).md,3356,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3372,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Navigation, Pilot (Speeder)"
-05 New Star Wars - Careers (revised).md,3374,d20 term,ranks,Rank,"ed Combat archive, Quality Two-Handed Vibroblade, Rank Insignia"
-05 New Star Wars - Careers (revised).md,3379,d20 term,ranks,Rank,"icer's Commission, Speeder Bike, Quality Uniform, Rank Insignia"
-05 New Star Wars - Careers (revised).md,3392,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3403,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Bribery, Charm, Intuition, Ranged (Blaster), Perception, Pilot (Speeder)"
-05 New Star Wars - Careers (revised).md,3427,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3427,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3433,characteristic,Intuition (for Initiative?),Intuition,"urance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (1H/2H), Perception, Lore (Local), Ranged"
-05 New Star Wars - Careers (revised).md,3474,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3492,d20 term,ranks,Rank,"**Trappings:** Gun Crew, Macrobinoculars, Rank Insignia"
-05 New Star Wars - Careers (revised).md,3505,d20 term,ranks,rank,"*You are the rank-and-file heavy infantry, the wall of force pikes"
-05 New Star Wars - Careers (revised).md,3507,d20 term,ranks,ranks,"y militia needs stiffening, they rise through the ranks on discipline rather than flair, and a veteran Li"
-05 New Star Wars - Careers (revised).md,3510,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3526,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Navigation, Pilot (Speeder)"
-05 New Star Wars - Careers (revised).md,3528,d20 term,ranks,Rank,"**Trappings:** Rank Insignia, Quality Uniform, Macrobinoculars"
-05 New Star Wars - Careers (revised).md,3533,d20 term,ranks,Rank,"of Commission, Speeder Bike, Quality Vibrosword, Rank Insignia"
-05 New Star Wars - Careers (revised).md,3546,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3557,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Climb, Intimidate, Intuition, Lore (Martial Arts), Melee (1H/2H), Ranged (Blas"
-05 New Star Wars - Careers (revised).md,3582,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3598,characteristic,Intuition (for Initiative?),Intuition,"kills:** Lore (Galactic Geography), Charm, Dodge, Intuition"
-05 New Star Wars - Careers (revised).md,3600,d20 term,ranks,Rank,"**Trappings:** Captain's Rank Insignia, Starship to Command, Captain's Log Data"
-05 New Star Wars - Careers (revised).md,3617,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3617,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3631,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Haggle, Intuition, Melee (1H/2H/Brawling), Ranged (Thrown), Percept"
-05 New Star Wars - Careers (revised).md,3664,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3682,d20 term,ranks,Rank,"**Trappings:** Rank Insignia, Quality Uniform, Macrobinoculars"
-05 New Star Wars - Careers (revised).md,3687,d20 term,ranks,Rank,"*Trappings:** Officer's Commission, Speeder Bike, Rank Insignia"
-05 New Star Wars - Careers (revised).md,3699,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3699,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3721,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Medicine, Intuition, Leadership, Perception"
-05 New Star Wars - Careers (revised).md,3725,d20 term,ranks,Rank,"**Trappings:** Symbol of Rank, Unit of Troops"
-05 New Star Wars - Careers (revised).md,3733,d20 term,ranks,Rank,"ers, Unit of Soldiers, Quality Uniform, Symbol of Rank"
-05 New Star Wars - Careers (revised).md,3746,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
-05 New Star Wars - Careers (revised).md,3752,skill rename,Drive / Row / Sail / Ride,Ride (,"*Pilot (Speeder)*, Profession (Speeder Mechanic), Ride (Land), Dodge, Ranged (Blaster)"
-05 New Star Wars - Careers (revised).md,3762,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intimidate, Intuition, Leadership, Lore (Warfare)"
-05 New Star Wars - Careers (revised).md,3764,d20 term,ranks,Rank,**Trappings:** Rank Insignia
+05 New Star Wars - Careers (revised).md,1462,placeholder,xx placeholder,xx,Force Sorcerer: xx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1464,placeholder,xx placeholder,xx,Sith Sorcerer: xx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1466,placeholder,xx placeholder,xxx,**3. Jedi Councillor / (Tradition) xxx / Sith Apprentice — Gold 2** `[review: placeholde
+05 New Star Wars - Careers (revised).md,1476,placeholder,xx placeholder,xxx,(Tradition) xxx: `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1490,placeholder,xx placeholder,xxx,Force Master: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1516,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1516,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1533,placeholder,xx placeholder,xxx,Acolyte: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1535,placeholder,xx placeholder,xxx,Sith Acolyte: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1547,placeholder,xx placeholder,xxx,Force Shadow: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1563,placeholder,xx placeholder,xxx,Grand Inquisitor: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1575,placeholder,xx placeholder,xxx,Force Master: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1607,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1607,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1634,d20 term,ranks,rank,t: You have faced the Trials and been granted the rank of Knight. The galaxy is now your responsibility.
+05 New Star Wars - Careers (revised).md,1650,placeholder,xx placeholder,xxx,(Tradition) Protector: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1664,placeholder,xx placeholder,xxx,Force Master: xxx `[review: placeholder]`
+05 New Star Wars - Careers (revised).md,1679,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1685,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Use the Force, Endurance, Intuition, Language (The Force), Lore (Folklore), *Lore (Bo"
+05 New Star Wars - Careers (revised).md,1715,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1721,characteristic,Intuition (for Initiative?),Intuition,"ine, Lore (The Force), *Meditate*, Use the Force, Intuition"
+05 New Star Wars - Careers (revised).md,1751,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1757,characteristic,Intuition (for Initiative?),Intuition,"ertain (Fortune Telling)*, Dodge, Gossip, Haggle, Intuition, Perception, Sleight of Hand, Meditate, Research"
+05 New Star Wars - Careers (revised).md,1784,fantasy residue,magic words,spell,"ith sorcery learned from a Korriban holocron, the spell-ichor of the Nightsisters of Dathomir, the Krath"
+05 New Star Wars - Careers (revised).md,1784,fantasy residue,magic words,witch,"e Empress Teta system, or any of a hundred lesser witch-cults on the Outer Rim. Where a Jedi feels the Fo"
+05 New Star Wars - Careers (revised).md,1787,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1793,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** *Use the Force*, Dodge, Intuition, Language (The Force), Lore (The Force), Melee (1"
+05 New Star Wars - Careers (revised).md,1800,d20 term,ranks,Rank,**Trappings:** Tradition Sigil of Rank
+05 New Star Wars - Careers (revised).md,1803,skill rename,Drive / Row / Sail / Ride,Ride (,"kills:** Creature Care, Evaluate, Lore (Warfare), Ride (Land)"
+05 New Star Wars - Careers (revised).md,1823,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1839,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Lore (Force Traditions), Intuition, Perception, Pilot (Speeder)"
+05 New Star Wars - Careers (revised).md,1861,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1877,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Cool, Intimidate, Outdoor Survival, Ride (Land)"
+05 New Star Wars - Careers (revised).md,1882,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership"
+05 New Star Wars - Careers (revised).md,1897,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1903,skill rename,Drive / Row / Sail / Ride,Ride (,"y Cant), Medicine, Melee (1H), Outdoor Survival, *Ride (Land)*, Haggle, Ranged (Blaster/Thrown)"
+05 New Star Wars - Careers (revised).md,1913,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Lore (Warfare), Pilot (Speeder)"
+05 New Star Wars - Careers (revised).md,1932,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1932,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1938,characteristic,Intuition (for Initiative?),Intuition,"ills:** Bribery, Charm, Gossip, Ranged (Blaster), Intuition, Melee (1H/Brawling), Outdoor Survival, Perceptio"
+05 New Star Wars - Careers (revised).md,1954,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Ranged (Ordnance), Climb, Ride (Land), Swim"
+05 New Star Wars - Careers (revised).md,1979,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,1990,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Charm Creature, Intuition, Ranged (Blaster), Codes (Scout), Codes (Ranger),"
+05 New Star Wars - Careers (revised).md,2015,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2021,characteristic,Intuition (for Initiative?),Intuition,"Gossip, Melee (Brawling), Navigation, Perception, Intuition, Ranged (Blaster)"
+05 New Star Wars - Careers (revised).md,2051,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2057,skill rename,Drive / Row / Sail / Ride,Ride (,"Perception, *Pilot (Speeder)*, Ranged (Blaster), Ride (Land), Dodge, Haggle"
+05 New Star Wars - Careers (revised).md,2062,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Local), Navigation, Ranged (Ordnance)"
+05 New Star Wars - Careers (revised).md,2087,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2123,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2129,skill rename,Drive / Row / Sail / Ride,Ride (,"elee (1H/2H)*, Outdoor Survival, Pilot (Speeder), Ride (Land), Creature Care, Ranged (Blaster)"
+05 New Star Wars - Careers (revised).md,2134,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Dodge, Endurance, Intimidate, Intuition, Melee (1H/2H/Brawling)"
+05 New Star Wars - Careers (revised).md,2159,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2175,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Melee (1H/2H/Brawling), Intuition, Leadership, Perception"
+05 New Star Wars - Careers (revised).md,2195,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2206,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Intuition, Melee (1H), Ranged (Exotic/Thrown), Codes (Hunte"
+05 New Star Wars - Careers (revised).md,2211,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Navigation, Ride (Land), Swim, Track"
+05 New Star Wars - Careers (revised).md,2231,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2237,characteristic,Intuition (for Initiative?),Intuition,"kills:** Charm, Consume Intoxicant, *Intimidate*, Intuition, Lore (Interrogation), Medicine, Melee (Brawling/"
+05 New Star Wars - Careers (revised).md,2267,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2278,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Creature Care, Endurance, Intimidate, Intuition, Outdoor Survival, Pilot (Speeder)"
+05 New Star Wars - Careers (revised).md,2285,d20 term,ranks,Rank,"ter Pistol with Power Pack, Riot Shield, Badge of Rank"
+05 New Star Wars - Careers (revised).md,2303,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2314,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Endurance, Gamble, Intuition, Language (Military Cant), Lore (Hyperlanes), Pro"
+05 New Star Wars - Careers (revised).md,2326,d20 term,ranks,Rank,"**Trappings:** Quality Flight Suit, Symbol of Rank, Command of a Squadron"
+05 New Star Wars - Careers (revised).md,2338,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2338,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2344,characteristic,Intuition (for Initiative?),Intuition,"Local), Melee (1H), Outdoor Survival, Perception, Intuition, Charm Creature"
+05 New Star Wars - Careers (revised).md,2352,skill rename,Drive / Row / Sail / Ride,Ride (,"Athletics, Navigation, Ranged (Archaic/Blaster), Ride (Land), Stealth (Rural), Track"
+05 New Star Wars - Careers (revised).md,2385,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2401,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Endurance, Dodge, Intuition"
+05 New Star Wars - Careers (revised).md,2420,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2420,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2442,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Evaluate, Intimidate, Intuition, Lore (Hyperlanes)"
+05 New Star Wars - Careers (revised).md,2464,fantasy residue,medieval kit,cart,"ld, no warehouse and no standing, only a beast, a cart and a reputation. Both the Republic and the Empir"
+05 New Star Wars - Careers (revised).md,2467,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2473,characteristic,Intuition (for Initiative?),Intuition,"ance, Entertain (Storytelling), Gossip, *Haggle*, Intuition, Outdoor Survival, Stealth (Rural or Urban), Dodg"
+05 New Star Wars - Careers (revised).md,2478,skill rename,Drive / Row / Sail / Ride,Ride (,"nt, Creature Care, Evaluate, Profession (Tinker), Ride (Land)"
+05 New Star Wars - Careers (revised).md,2503,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2509,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Dodge, Endurance, Intimidate, Intuition, Lore (Tradition), Medicine, Melee (1H/2H), Outdo"
+05 New Star Wars - Careers (revised).md,2540,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2540,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2554,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Dodge, Ranged (Blaster), Intuition, Lore (Local), Melee (1H/Brawling), Perception"
+05 New Star Wars - Careers (revised).md,2586,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2586,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2600,characteristic,Intuition (for Initiative?),Intuition,"lls:** Cool, Dodge, Entertain (Acting), Evaluate, Intuition, Perception"
+05 New Star Wars - Careers (revised).md,2632,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2632,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2646,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Intimidate, Intuition, Perception, Codes (Smuggler), Profession (Engrav"
+05 New Star Wars - Careers (revised).md,2679,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2685,characteristic,Intuition (for Initiative?),Intuition,"kills:** Charm, Cool, Evaluate, *Gamble*, Gossip, Intuition, Perception, Sleight of Hand, Ranged (Blaster), I"
+05 New Star Wars - Careers (revised).md,2714,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2714,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2736,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Gossip, Intuition, Leadership, Ride (Land)"
+05 New Star Wars - Careers (revised).md,2736,skill rename,Drive / Row / Sail / Ride,Ride (,"**Skills:** Gossip, Intuition, Leadership, Ride (Land)"
+05 New Star Wars - Careers (revised).md,2761,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2777,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Perception, Ranged (Exotic/Thrown)"
+05 New Star Wars - Careers (revised).md,2796,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2796,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2802,characteristic,Intuition (for Initiative?),Intuition,"ills:** Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Ranged (Blaster), C"
+05 New Star Wars - Careers (revised).md,2843,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2849,characteristic,Intuition (for Initiative?),Intuition,"*Skills:** Climb, Cool, Dodge, Endurance, Gossip, Intuition, *Perception*, Stealth (Any), Athletics, Ranged ("
+05 New Star Wars - Careers (revised).md,2881,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2917,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2933,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Climb, Cool, Intuition, Leadership"
+05 New Star Wars - Careers (revised).md,2940,d20 term,ranks,Rank,"**Trappings:** Customs Patrol Craft and Crew, Rank Cylinder"
+05 New Star Wars - Careers (revised).md,2953,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2969,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Charm, Intuition, Melee (2H), Perception"
+05 New Star Wars - Careers (revised).md,2986,units,yards,Yards,"hand. Every major port has them, from Kuat Drive Yards and the Coruscant orbital rings to the shadowport"
+05 New Star Wars - Careers (revised).md,2989,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,2995,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Consume Intoxicant, Gossip, Intuition, Lore (Orbital Lanes), Lore (Local), *Perception*"
+05 New Star Wars - Careers (revised).md,3025,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3041,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Cool, Evaluate, Intuition, Leadership"
+05 New Star Wars - Careers (revised).md,3061,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3097,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3113,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Codes (Trade Guild), Intuition, Language (Trade Cant), Research"
+05 New Star Wars - Careers (revised).md,3133,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3169,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3180,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Bribery, Cool, Demolitions, Intuition, Navigation, Perception"
+05 New Star Wars - Careers (revised).md,3202,d20 term,ranks,ranks,"ers, merchants and privateers all draw from their ranks."
+05 New Star Wars - Careers (revised).md,3205,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3216,characteristic,Intuition (for Initiative?),Intuition,"s:** Athletics, Entertain (Storytelling), Haggle, Intuition, Lore (Hyperlanes), Perception"
+05 New Star Wars - Careers (revised).md,3238,d20 term,ranks,rank,"gunnery, damage control and cargo mastery to the rank of bosun, and the best end their days as masters"
+05 New Star Wars - Careers (revised).md,3241,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3279,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3317,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3338,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Lore (Dark Side)"
+05 New Star Wars - Careers (revised).md,3353,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3369,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Navigation, Pilot (Speeder)"
+05 New Star Wars - Careers (revised).md,3371,d20 term,ranks,Rank,"ed Combat archive, Quality Two-Handed Vibroblade, Rank Insignia"
+05 New Star Wars - Careers (revised).md,3376,d20 term,ranks,Rank,"icer's Commission, Speeder Bike, Quality Uniform, Rank Insignia"
+05 New Star Wars - Careers (revised).md,3389,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3400,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Bribery, Charm, Intuition, Ranged (Blaster), Perception, Pilot (Speeder)"
+05 New Star Wars - Careers (revised).md,3424,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3424,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3430,characteristic,Intuition (for Initiative?),Intuition,"urance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (1H/2H), Perception, Lore (Local), Ranged"
+05 New Star Wars - Careers (revised).md,3471,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3489,d20 term,ranks,Rank,"**Trappings:** Gun Crew, Macrobinoculars, Rank Insignia"
+05 New Star Wars - Careers (revised).md,3502,d20 term,ranks,rank,"*You are the rank-and-file heavy infantry, the wall of force pikes"
+05 New Star Wars - Careers (revised).md,3504,d20 term,ranks,ranks,"y militia needs stiffening, they rise through the ranks on discipline rather than flair, and a veteran Li"
+05 New Star Wars - Careers (revised).md,3507,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3523,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intuition, Leadership, Navigation, Pilot (Speeder)"
+05 New Star Wars - Careers (revised).md,3525,d20 term,ranks,Rank,"**Trappings:** Rank Insignia, Quality Uniform, Macrobinoculars"
+05 New Star Wars - Careers (revised).md,3530,d20 term,ranks,Rank,"of Commission, Speeder Bike, Quality Vibrosword, Rank Insignia"
+05 New Star Wars - Careers (revised).md,3543,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3554,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Climb, Intimidate, Intuition, Lore (Martial Arts), Melee (1H/2H), Ranged (Blas"
+05 New Star Wars - Careers (revised).md,3579,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3595,characteristic,Intuition (for Initiative?),Intuition,"kills:** Lore (Galactic Geography), Charm, Dodge, Intuition"
+05 New Star Wars - Careers (revised).md,3597,d20 term,ranks,Rank,"**Trappings:** Captain's Rank Insignia, Starship to Command, Captain's Log Data"
+05 New Star Wars - Careers (revised).md,3614,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3614,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3628,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Haggle, Intuition, Melee (1H/2H/Brawling), Ranged (Thrown), Percept"
+05 New Star Wars - Careers (revised).md,3661,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3679,d20 term,ranks,Rank,"**Trappings:** Rank Insignia, Quality Uniform, Macrobinoculars"
+05 New Star Wars - Careers (revised).md,3684,d20 term,ranks,Rank,"*Trappings:** Officer's Commission, Speeder Bike, Rank Insignia"
+05 New Star Wars - Careers (revised).md,3696,characteristic,Dexterity / Dex,Dex,** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3696,characteristic,Agi (vs Ag),Agi,| **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3718,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Medicine, Intuition, Leadership, Perception"
+05 New Star Wars - Careers (revised).md,3722,d20 term,ranks,Rank,"**Trappings:** Symbol of Rank, Unit of Troops"
+05 New Star Wars - Careers (revised).md,3730,d20 term,ranks,Rank,"ers, Unit of Soldiers, Quality Uniform, Symbol of Rank"
+05 New Star Wars - Careers (revised).md,3743,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** |
+05 New Star Wars - Careers (revised).md,3749,skill rename,Drive / Row / Sail / Ride,Ride (,"*Pilot (Speeder)*, Profession (Speeder Mechanic), Ride (Land), Dodge, Ranged (Blaster)"
+05 New Star Wars - Careers (revised).md,3759,characteristic,Intuition (for Initiative?),Intuition,"**Skills:** Intimidate, Intuition, Leadership, Lore (Warfare)"
+05 New Star Wars - Careers (revised).md,3761,d20 term,ranks,Rank,**Trappings:** Rank Insignia
 06 New Star Wars - Skills.md,17,characteristic,Intuition (for Initiative?),Intuition,"e, Entertain, Gamble, Gossip, Haggle, Intimidate, Intuition, Leadership, Melee (1H/2H/Brawling/\*Lightsaber),"
 06 New Star Wars - Skills.md,17,skill rename,Drive / Row / Sail / Ride,Ride (,"l, Perception, Pilot (Speeder), Pilot (Starship), Ride (Air/Land/Water), Stealth (Rural/Underground/Urban)"
 06 New Star Wars - Skills.md,41,characteristic,Dexterity / Dex,Dex,"### **Art (Dex) basic, grouped**"
-06 New Star Wars - Skills.md,47,dead reference,page number,page 164,y general physical activity. Refer to Moving (see page 164) for details on using Athletics in combat movemen
-06 New Star Wars - Skills.md,51,dead reference,page number,page 52,"heir cooperation using the target’s Earnings (see page 52), increasing the amount according to their usual"
-06 New Star Wars - Skills.md,55,dead reference,page number,page 152,public speaking. An Astounding Failure (-6) (see page 152) in a Charm Test means your crowd quickly becomes
-06 New Star Wars - Skills.md,87,dead reference,page number,page 165,"5-6 For any other climbing, refer to page 165, which also handles Climbing during combat. You m"
 06 New Star Wars - Skills.md,99,characteristic,Dexterity / Dex,Dex,"you fail, you suffer a –10 penalty to WS, BS, Ag, Dex, and Int, to a maximum of –30 per Characteristic."
-06 New Star Wars - Skills.md,103,dead reference,page number,page 157,"either Move or take an Action, but not both (see page 157)."
-06 New Star Wars - Skills.md,105,dead reference,page number,page 190,all your existing Prejudices and Animosities (see page 190).
-06 New Star Wars - Skills.md,107,dead reference,page number,page 169,icant Test or also gain a Poisoned Condition (see page 169).
-06 New Star Wars - Skills.md,111,dead reference,page number,page 190,ke Yer All On!’: Gain Animosity (Everybody!) (see page 190).
-06 New Star Wars - Skills.md,113,dead reference,page number,page 171,being drunk until the end of the next round (see page 171).
-06 New Star Wars - Skills.md,117,dead reference,page number,page 190,o the primary Skill used to limit Psychology (see page 190).
 06 New Star Wars - Skills.md,121,skill rename,Heal (now Medicine),heal,"are Skill lets you tend and care for animals, and heal them should they fall sick or become wounded. Hav"
-06 New Star Wars - Skills.md,131,dead reference,page number,page 118,y an animal belonging to your Specialisation (see page 118). The Creature Training Skill also allows you to
-06 New Star Wars - Skills.md,131,dead reference,page number,page 196,"eature Training Endeavour between adventures (see page 196). In combat, a successful Opposed Creature Traini"
-06 New Star Wars - Skills.md,131,dead reference,page number,page 190,"mal targeted until the end of your next turn (see page 190). When causing Fear in this way,you may subsequen"
 06 New Star Wars - Skills.md,149,characteristic,Dexterity / Dex,Dex,### **Demolitions (Dex) advanced**
 06 New Star Wars - Skills.md,194,characteristic,Intuition (for Initiative?),Intuition,### **Intuition (I) basic**
 06 New Star Wars - Skills.md,196,characteristic,Intuition (for Initiative?),Intuition,The Intuition Skill allows you to get a feel for your surroundi
 06 New Star Wars - Skills.md,196,characteristic,Intuition (for Initiative?),Intuition,iding something from you. A successful use of the Intuition Skill gives you subtle or implicit intelligence r
 06 New Star Wars - Skills.md,196,characteristic,Intuition (for Initiative?),Intuition,"trying to hide their intent, they may resist your Intuition with Cool or Entertain (Acting). In combat, a suc"
 06 New Star Wars - Skills.md,196,characteristic,Intuition (for Initiative?),Intuition,"ol or Entertain (Acting). In combat, a successful Intuition Test may be used to give you +1 Advantage as you"
-06 New Star Wars - Skills.md,212,dead reference,page number,page 190,"hology Tests until the end of the next round (see page 190). Further, Leadership can be used to transfer Adv"
 06 New Star Wars - Skills.md,212,characteristic,Intuition (for Initiative?),Intuition,"se with some ruffians for three Rounds, using his Intuition Skill to build up 3 Advantage. Feeling it is goin"
 06 New Star Wars - Skills.md,214,d20 term,ranks,ranks,"rs who are of differing social class, or military ranks, be sure to discuss how this will be reflected in"
-06 New Star Wars - Skills.md,226,dead reference,page number,page 188,"ness, infection, or disease. Treat a disease (see page 188). Medicine wounds equal to your Intelligence Bonu"
-06 New Star Wars - Skills.md,226,dead reference,page number,page 181,"d, no Infection will develop from the injury (see page 181). Staunch a Bleeding Condition, with each SL remo"
-06 New Star Wars - Skills.md,228,dead reference,page number,page 187,"patient will also contract a Minor Infection (see page 187). If administering to someone who has a disease,"
 06 New Star Wars - Skills.md,253,characteristic,Intuition (for Initiative?),Intuition,"Test to receive +1 Advantage, in the same way as Intuition, to a maximum number of Advantage equal to your I"
-06 New Star Wars - Skills.md,259,dead reference,page number,page 303,the Demolitions Skill to place Animal traps (see page 303). Feeds the same number of people as Hunting and
-06 New Star Wars - Skills.md,259,dead reference,page number,page 307,"gathers enough for a dose of the sought herb (see page 307), with each SL adding an extra dose. Gathering te"
 06 New Star Wars - Skills.md,265,characteristic,Dexterity / Dex,Dex,### **Slice Security System (Dex) advanced**
 06 New Star Wars - Skills.md,269,characteristic,Dexterity / Dex,Dexterity,d characters can attempt a single Very Hard (–30) Dexterity Test to pick the lock. The following provides som
 06 New Star Wars - Skills.md,289,characteristic,Intuition (for Initiative?),Intuition,Perception is about what is there; Intuition is about what it means. Perception spots the blas
@@ -400,14 +379,10 @@ doc,line,group,term,matched,context
 06 New Star Wars - Skills.md,325,characteristic,Dexterity / Dex,Dex,"### **Play (Dex) advanced, grouped**"
 06 New Star Wars - Skills.md,329,characteristic,Dexterity / Dex,Dexterity,". Play is also an Advanced Skill, this time using Dexterity. It represents training in specific musical instr"
 06 New Star Wars - Skills.md,331,characteristic,Dexterity / Dex,Dex,"### **Profession (Dex) advanced, grouped**"
-06 New Star Wars - Skills.md,337,dead reference,page number,page 197,also used for enacting a Crafting Endeavour (see page 197).
 06 New Star Wars - Skills.md,337,characteristic,Dexterity / Dex,Dex,"circumstances, the GM may prefer to use Int over Dex as the base Characteristic, though often this is"
 06 New Star Wars - Skills.md,359,skill rename,Drive / Row / Sail / Ride,Ride (,"### **Ride (Ag) basic, grouped**"
 06 New Star Wars - Skills.md,363,skill rename,Drive / Row / Sail / Ride,Ride (,"you are at riding a particular group of animals; Ride (Land), for example, will let you ride Banthas, Mul"
 06 New Star Wars - Skills.md,365,characteristic,Dexterity / Dex,Dex,### **Sleight of Hand (Dex) advanced**
-06 New Star Wars - Skills.md,375,dead reference,page number,page 155,uires a Combined Perception and Stealth Test (see page 155). If the target is actively trying to lose a tail
-06 New Star Wars - Skills.md,380,dead reference,page number,page 164,"rate, using the normal rules for moving found on page 164."
-06 New Star Wars - Skills.md,384,dead reference,page number,page 166,if you manage to track down a fleeing quarry (see page 166).
 06 New Star Wars - Skills.md,392,d20 term,ranks,rank,"e Alter (Discipline) talent, which adds +1 SL per rank. Without the discipline talent the GM may allow a"
 07 New Star Wars - Talents (revised).md,3,d20 term,ranks,rank,"+1 SL to successful Tests of that kind for every rank taken, on top of its written rule. Talents are bo"
 07 New Star Wars - Talents (revised).md,3,d20 term,ranks,rank,"ter's career for 100 XP, then 200 XP for a second rank, 300 XP for a third, and so on. Talents outside t"
@@ -573,15 +548,12 @@ doc,line,group,term,matched,context
 11 New Star Wars - How to Play.md,88,characteristic,Intuition (for Initiative?),Intuition,"ion sizing up the situation with a fitting skill (Intuition, Lore (Warfare), Outdoor Survival, Perception and"
 11 New Star Wars - How to Play.md,181,d20 term,ranks,rank,"ill by 1. A **talent** costs 100 XP for its first rank, 200 for the second, 300 for the third, up to its"
 11 New Star Wars - How to Play.md,205,d20 term,ranks,rank,- **XP:** talents 100 per rank; characteristics and skills by the table; non-car
-11 New Star Wars - How to Play.md,208,old name,Warhammer,WFRP,one Critical per day are SL100 proposals with no WFRP source; align with the medical gear prices in [[S
 All about hyperspace.md,18,d20 term,squares,square,"ne, travel took roughly 8 hours per galactic grid square at Class 1. A Class 1 drive travelling the Rimma"
 All about hyperspace.md,18,d20 term,squares,squares,mma Trade Route from Sullust to Thyferra — 4 grid squares — would take approximately 24 hours. [Fandom](htt
 All about hyperspace.md,18,d20 term,d20 / Saga,swse,uld take approximately 24 hours. [Fandom](https://swse.fandom.com/wiki/Hyperspace_Travel_Times)
 All about hyperspace.md,19,d20 term,squares,square,"- A single galactic grid square on the standard map is approximately 1,500 parsec"
 Special Materials.md,80,d20 term,ranks,rank,"r traditionally wore it, and it was tied to their rank system (they awarded clasps signifying rank)."
 Special Materials.md,80,d20 term,ranks,rank,their rank system (they awarded clasps signifying rank).
-Star Wars Bestiary.md,3,old name,Warhammer,WFRP,"Each creature uses the standard WFRP 4e characteristic line — Movement, Weapon Skill,"
-Star Wars Bestiary.md,3,old name,Warhammer,WFRP,". Traits without a note are used exactly as their WFRP equivalents. New, Star Wars-specific traits are m"
 Star Wars Bestiary.md,3,characteristic,Dexterity / Dex,Dexterity,"Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, and Wounds"
 Star Wars Bestiary.md,26,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
 Star Wars Bestiary.md,39,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
@@ -648,9 +620,7 @@ Star Wars Bestiary.md,819,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S*
 Star Wars Bestiary.md,832,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
 Star Wars Bestiary.md,845,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
 Star Wars Bestiary.md,858,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
-Star Wars Bestiary.md,867,old name,Warhammer,WFRP,"with \* above are new for this bestiary. Existing WFRP traits (Bestial, Armour, Fear, Terror, Undead, Et"
 Star Wars Bestiary.md,957,d20 term,standard / full-round / swift action,half action,"Strike:&#32;**May curl into a defensive ball as a half action (treat as Armour +2 while curled), then unfurl an"
-Star Wars Mounts_Vehicles.md,3,dead reference,page number,page 306,"g the Core Rulebook's Animals and Vehicles table (page 306), each mount also lists Cost to buy, Carries (the"
 Star Wars Mounts_Vehicles.md,3,characteristic,Dexterity / Dex,Dexterity,"Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, Wounds - pl"
 Star Wars Mounts_Vehicles.md,17,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
 Star Wars Mounts_Vehicles.md,32,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
@@ -664,11 +634,8 @@ Star Wars Mounts_Vehicles.md,141,characteristic,Dexterity / Dex,Dex,S** | **BS**
 Star Wars Mounts_Vehicles.md,156,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
 Star Wars Mounts_Vehicles.md,175,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
 Star Wars Mounts_Vehicles.md,190,characteristic,Dexterity / Dex,Dex,S** | **BS** | **S** | **T** | **I** | **Ag** | **Dex** | **Int** | **WP** | **Fel** | **W** |
-Star Wars Space Ships.md,3,dead reference,page number,pages 92,"lled on the boat-building tables of Sea of Claws (pages 92-99): each vessel lists its Era and Affiliation, H"
-Star Wars Space Ships.md,3,old name,Warhammer,WFRP,"Menace), Cargo capacity in Encumbrance points (as WFRP 4e own Carries characteristic uses - here 1 Enc i"
 Star Wars Space Ships.md,7,d20 term,d20 / Saga,swse,*Additional sources:&#32;*[https://swse.fandom.com/wiki/Star\_Wars\_Saga\_Edition\_Wikia]
 Star Wars Space Ships.md,7,d20 term,d20 / Saga,swse,om/wiki/Star\_Wars\_Saga\_Edition\_Wikia](https://swse.fandom.com/wiki/Star_Wars_Saga_Edition_Wikia)
-Star Wars Space Ships.md,186,old name,Warhammer,WFRP,"rade grants a bonus to a Skill Test, that follows WFRP 4e's usual +10/+20/+30 convention for Easy/Hard/V"
 Talent List (revised).md,3,d20 term,ranks,ranks,L100:Talents|Talents]] page. Max is the number of ranks allowed; Tests are the Tests the talent adds +1 S
 Talent List (revised).md,3,d20 term,ranks,rank,ed; Tests are the Tests the talent adds +1 SL per rank to.
 Talent List (revised).md,17,characteristic,Dexterity / Dex,Dexterity,| Artistic | Dexterity Bonus | Profession (Artist) |

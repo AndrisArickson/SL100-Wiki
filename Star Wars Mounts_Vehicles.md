@@ -1,6 +1,6 @@
 **Star Wars Mounts & Vehicles**
 
-Living Mounts (Air, Land, Sea) use the same creature stat line as the Star Wars Bestiary - Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, Wounds - plus Traits and Optional add-ons. Following the Core Rulebook's Animals and Vehicles table (page 306), each mount also lists Cost to buy, Carries (the Encumbrance points of rider, tack, and cargo it can bear - 1 Enc = 10kg, matching the Starship Compendium's conversion), and Availability (Common, Scarce, Rare, Exotic, or Military/Restricted).
+Living Mounts (Air, Land, Sea) use the same creature stat line as the Star Wars Bestiary - Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, Wounds - plus Traits and Optional add-ons. Each mount also lists Cost to buy, Carries (the Encumbrance points of rider, tack, and cargo it can bear - 1 Enc = 10kg, matching the Starship Compendium's conversion), and Availability (Common, Scarce, Rare, Exotic, or Military/Restricted).
 
 *Tanks and Walkers are vehicles, not creatures, so they use the Starship Compendium's table format instead: Era/Faction, Size, Crew, Cargo capacity in Encumbrance points, Cost, Speed (in km/h rather than MGLT, since these are ground vehicles with no hyperdrive or sublight space engine), Weapons, and Availability.*
 

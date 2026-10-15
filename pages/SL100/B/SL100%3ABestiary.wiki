@@ -4,7 +4,7 @@
 
 === Star Wars Bestiary ===
 
-Each creature uses the standard WFRP 4e characteristic line — Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, and Wounds — plus a Traits list (always active) and an Optional list (situational add-ons a GM may bolt on for a tougher or reflavoured specimen). Traits without a note are used exactly as their WFRP equivalents. New, Star Wars-specific traits are marked with an asterisk (*) and defined in the glossary at the end of this document.
+Each creature uses the standard characteristic line — Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative, Agility, Dexterity, Intelligence, Willpower, Fellowship, and Wounds — plus a Traits list (always active) and an Optional list (situational add-ons a GM may bolt on for a tougher or reflavoured specimen). Traits without a note are used exactly as described in the creature rules. New, Star Wars-specific traits are marked with an asterisk (*) and defined in the glossary at the end of this document.
 
 ''Armour values represent physical Armour Points as normal; where a creature's hide or plating specifically shrugs off lightsabers or blaster fire, that's called out in its Traits.''
 
@@ -1063,7 +1063,7 @@ Colossal armour-plated predators of Malastare, thought extinct for millennia. It
 
 == New Traits Glossary ==
 
-''Traits marked with * above are new for this bestiary. Existing WFRP traits (Bestial, Armour, Fear, Terror, Undead, Ethereal, Construct, Regeneration, Corruption, etc.) function exactly as written in the Core Rulebook.''
+''Traits marked with * above are new for this bestiary. The standard traits (Bestial, Armour, Fear, Terror, Undead, Ethereal, Construct, Regeneration, Corruption, etc.) work as usual.''
 
 '''Tunneller: '''Can move through loose sand or soft rock at full Movement, and may attempt to ambush from below (Surprise) any target standing on suitable ground.
 

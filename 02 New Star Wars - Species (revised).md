@@ -750,9 +750,9 @@ Average height 2.23 – 2.54 meters
 | --- |
 
 **Characteristics:** Int +10, Fel +10
-**Talents:** Datapad Use, Suave, Dealmaker, roll 1 talents from the random talents list
+**Talents:** Datapad Use, Small, Suave, Dealmaker, roll 1 talents from the random talents list
 **Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
-**Size:** Average  **Natural weapons:** none  **Traits:** none
+**Size:** Small  **Natural weapons:** none  **Traits:** none
 
 ### [Bith](https://starwars.fandom.com/wiki/Bith/Legends)
 
@@ -794,7 +794,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** I +10, Int +10, Fel +10
 **Talents:** Datapad Use, Savvy, Suave, roll 1 talents from the random talents list
 **Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
-**Size:** Average  **Natural weapons:** none  **Traits:** Fur ripples with emotion: those who know the signs read a Bothan's mood easily
+**Size:** Average `[review: possibly Small: described as short; Size left Average]`  **Natural weapons:** none  **Traits:** Fur ripples with emotion: those who know the signs read a Bothan's mood easily
 
 ### [Caamasi](https://starwars.fandom.com/wiki/Caamasi/Legends)
 
@@ -1158,7 +1158,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** T +20, Int +10, WP +10, Fel −10
 **Talents:** Datapad Use, Night Vision, Resistance (Cold), roll 1 talent from the random talents list
 **Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
-**Size:** Average  **Natural weapons:** Tusks +SB+2  **Traits:** dazzled by bright light (−10 to Perception in full daylight without eye protection); cheek pouches store food
+**Size:** Average `[review: possibly Small: described as short and stocky; Size left Average]`  **Natural weapons:** Tusks +SB+2  **Traits:** dazzled by bright light (−10 to Perception in full daylight without eye protection); cheek pouches store food
 
 ### [Elomin](https://starwars.fandom.com/wiki/Elomin/Legends)
 
@@ -1312,7 +1312,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** T +10, I +10, WP +10
 **Talents:** Datapad Use, Regeneration (Minor), Sixth Sense, roll 1 talent from the random talents list
 **Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
-**Size:** Average  **Natural weapons:** none  **Traits:** exoskeleton (1 AP on all locations); regrows lost limbs in days; sees into the ultraviolet; breather Gands need an ammonia breath mask in oxygen, lungless Gands do not breathe and ignore poisonous gases
+**Size:** Average `[review: possibly Small: described as short; Size left Average]`  **Natural weapons:** none  **Traits:** exoskeleton (1 AP on all locations); regrows lost limbs in days; sees into the ultraviolet; breather Gands need an ammonia breath mask in oxygen, lungless Gands do not breathe and ignore poisonous gases
 
 ### [Gen'Dai](https://starwars.fandom.com/wiki/Gen'Dai/Legends)
 
@@ -1970,7 +1970,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** S +10, Fel +10
 **Talents:** Datapad Use, Sturdy, Resistance (Poison), roll 1 talent from the random talents list
 **Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
-**Size:** Average  **Natural weapons:** none  **Traits:** Breathes toxic or polluted air without harm; pupil-less eyes
+**Size:** Average `[review: possibly Small: described as short, 1.1 to 1.6 metres tall; Size left Average]`  **Natural weapons:** none  **Traits:** Breathes toxic or polluted air without harm; pupil-less eyes
 
 ### [Menahuun](https://starwars.fandom.com/wiki/Menahuun)
 
@@ -2306,7 +2306,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** S +10, T +20, Int +10, Ag −10
 **Talents:** Datapad Use, Hardy, roll 2 talents from the random talents list
 **Movement:** 3  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
-**Size:** Average  **Natural weapons:** Tusks +SB+2, Tail +SB+2 (Pummel)  **Traits:** Caste fixed at birth by tusk pattern (scholar, warrior or farmer); often wear robotic stilts, which raise Movement to 4 but hinder Agility Tests
+**Size:** Average `[review: possibly Small: described as short and squat; Size left Average]`  **Natural weapons:** Tusks +SB+2, Tail +SB+2 (Pummel)  **Traits:** Caste fixed at birth by tusk pattern (scholar, warrior or farmer); often wear robotic stilts, which raise Movement to 4 but hinder Agility Tests
 
 ### [Paigun](https://starwars.fandom.com/wiki/Paigun)
 
@@ -2502,7 +2502,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** T +10, I +10, Ag +10, Dex +10, WP −10
 **Talents:** Datapad Use, Amphibious, Acute Sense (Smell), roll 1 talents from the random talents list
 **Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
-**Size:** Average  **Natural weapons:** none  **Traits:** tongue tastes airborne scents and pheromones (flicks rapidly when the Rybet is afraid, which others can read)
+**Size:** Average `[review: possibly Small: males barely 1.5 metres, females up to 1.9; Size left Average]`  **Natural weapons:** none  **Traits:** tongue tastes airborne scents and pheromones (flicks rapidly when the Rybet is afraid, which others can read)
 
 ### [Ryn](https://starwars.fandom.com/wiki/Ryn/Legends)
 
@@ -2810,7 +2810,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** I +10, Dex +10
 **Talents:** Datapad Use, Night Vision, Orientation, roll 2 talents from the random talents list
 **Movement:** 4  **Destiny:** 2  **Resilience:** 1  **Extra points:** 3
-**Size:** Average  **Natural weapons:** none  **Traits:** near-Human; never forgets a route once travelled
+**Size:** Average `[review: possibly Small: described as diminutive, 1 to 1.8 metres tall; Size left Average]`  **Natural weapons:** none  **Traits:** near-Human; never forgets a route once travelled
 
 ### [Svivreni](https://starwars.fandom.com/wiki/Svivreni)
 
@@ -2824,7 +2824,7 @@ Average height 2.23 – 2.54 meters
 **Characteristics:** S +10, T +10, Ag −10, WP +20
 **Talents:** Datapad Use, Tenacious, Hardy, roll 1 talents from the random talents list
 **Movement:** 4  **Destiny:** 1  **Resilience:** 1  **Extra points:** 2
-**Size:** Average  **Natural weapons:** none  **Traits:** none
+**Size:** Average `[review: possibly Small: described as short and stout; Size left Average]`  **Natural weapons:** none  **Traits:** none
 
 ### [Swokes Swokes](https://starwars.fandom.com/wiki/Swokes_Swokes/Legends)
 

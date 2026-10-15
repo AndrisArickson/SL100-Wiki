@@ -1,6 +1,6 @@
 **Star Wars Starship Compendium**
 
-Modelled on the boat-building tables of Sea of Claws (pages 92-99): each vessel lists its Era and Affiliation, Hyperdrive Class (lower is faster; N/A means the craft has no hyperdrive and cannot leave a system), Size in metres, Crew complement, whether it's Astromech Compatible (uses a dedicated astromech droid socket for in-flight repairs and system control, as on an X-wing or the Naboo starfighters of The Phantom Menace), Cargo capacity in Encumbrance points (as WFRP 4e own Carries characteristic uses - here 1 Enc is set equal to 10kg, matching the Core Rulebook personal-gear scale, so 1 metric ton of cargo = 100 Enc), Cost to buy new in Galactic Credits, Engine capacity (sublight speed in MGLT - Megalights per hour - the standard galactic unit), and Defensive Turrets (the number of independently-tracking gun emplacements, not counting fixed forward-firing weapons). Categories run smallest to largest - starfighter-scale craft first, Space Stations last - and ships within each category are likewise ordered by Size.
+Each vessel lists its Era and Affiliation, Hyperdrive Class (lower is faster; N/A means the craft has no hyperdrive and cannot leave a system), Size in metres, Crew complement, whether it's Astromech Compatible (uses a dedicated astromech droid socket for in-flight repairs and system control, as on an X-wing or the Naboo starfighters of The Phantom Menace), Cargo capacity in Encumbrance points (1 Enc = 10 kg, the personal-gear scale, so 1 metric ton of cargo = 100 Enc), Cost to buy new in Galactic Credits, Engine capacity (sublight speed in MGLT - Megalights per hour - the standard galactic unit), and Defensive Turrets (the number of independently-tracking gun emplacements, not counting fixed forward-firing weapons). Categories run smallest to largest - starfighter-scale craft first, Space Stations last - and ships within each category are likewise ordered by Size.
 
 *Costs for capital ships are rarely a matter of public record; where no canon price survives, a GM own-estimate figure is given, in the same spirit as the Sourcebooks own not available for sale (estimated) listings.*
 
@@ -183,7 +183,7 @@ Hyperdrive docking rings usually cost the same as a hyperdrive of the same speed
 
 **Ship Upgrades**
 
-*Refits, ship upgrades and add-ons that can be installed on any vessel in this compendium, priced at the Fighter x1 cost scale. For anything bigger, multiply the listed cost by that class's multiplier below - each class up the size ladder doubles the previous one, a GM's-estimate scaling in the same spirit as the rest of this document's costs. Where an upgrade grants a bonus to a Skill Test, that follows WFRP 4e's usual +10/+20/+30 convention for Easy/Hard/Very Hard levels of improvement.*
+*Refits, ship upgrades and add-ons that can be installed on any vessel in this compendium, priced at the Fighter x1 cost scale. For anything bigger, multiply the listed cost by that class's multiplier below - each class up the size ladder doubles the previous one, a GM's-estimate scaling in the same spirit as the rest of this document's costs. Where an upgrade grants a bonus to a Skill Test, that follows the usual +10/+20/+30 convention for Easy/Hard/Very Hard levels of improvement.*
 
 *Emplacement points? When can you upgrade a ship with what systems?*
 

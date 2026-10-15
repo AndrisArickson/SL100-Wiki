@@ -6,7 +6,7 @@ A character's '''career''' is what they do for a living and how they grow: a cla
 
 **Status tags.** All 91 careers are `[sl100]`. Placeholders still to be written are marked `[review: placeholder]`. Datapad Use is not a career talent: it comes from a character's species and origin, and characters from uncivilised worlds learn it through downtime or at character creation.
 
-**Classes.** Academics, Citizens, Dignitaries, Force Wielders, Freelancers, Scoundrels, Spacers (new: starship crews, dock and customs work, salvage and piracy, replacing WFRP's Riverfolk) and Warriors.
+**Classes.** Academics, Citizens, Dignitaries, Force Wielders, Freelancers, Scoundrels, Spacers (starship crews, dock and customs work, salvage and piracy) and Warriors.
 
 ## Index
 
@@ -1433,7 +1433,6 @@ Where a Sith Warrior channels rage into their body and blade, the Sorcerer turns
 | **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
 | **3** |   |   |   | **1** | **4** |   | **1** | **1** | **2** |
  
-*Custom scheme built on the Knight's (rulebook p. 111): Intelligence replaces Strength, and the level order is rearranged.*
 
 *Career Path*
 **1. Padawan / Force Acolyte / Sith Acolyte — Silver 3**
@@ -1517,7 +1516,6 @@ You are the most dangerous thing in any room you enter, and no one realises it u
 | **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
 | **2** |   |   |   | **1** | **1** | **1** |   | **4** | **3** |
  
-*Custom scheme built on the Knight's (rulebook p. 111): Dexterity replaces Strength, and Willpower and Fellowship trade places.*
 
 *Career Path*
 **1. Padawan/ Acolyte / Sith Acolyte — Silver 3**
@@ -1609,7 +1607,6 @@ You do not stride into battle. You descend upon it. Where the Jedi Guardian is a
 | **WS** | **BS** | **S** | **T** | **I** | **Agi** | **Dex** | **Int** | **WP** | **Fel** |
 | **1** |   | **1** |   | **1** | **2** |   |   | **3** | **4** |
  
-*The Knight's scheme (rulebook p. 111) with Weapon Skill and Agility trading places.*
 
 *Career Path*
 **1. Padawan / Force Acolyte / Sith Acolyte — Silver 3**
