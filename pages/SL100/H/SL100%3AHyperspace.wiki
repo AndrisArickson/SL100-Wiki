@@ -1,9 +1,10 @@
-{{SL100 Rules|chapter=Hyperspace|status=Lore essay (about 70%); travel rules still to be written|source=All about hyperspace.md}}
+<!-- Built from All about hyperspace.md by tools/build_pages.py -->
+{{SL100 Rules|section=Hyperspace|status=Lore essay (about 70%); travel rules still to be written}}
 '''Hyperspace''' travel in the campaign era: hyperlanes, jump beacons, hyperdrive classes and how long a journey takes.
 
 The exploration of hyperspace happened concurrently with the expansion of the HoloNet, and went through three distinct technology phases.  For much of galactic history, starships lacked the computing power to calculate safe routes and were confined to jumps within networks of jump beacons. In war, this allowed navies to effectively pin ships at a certain point by disabling a beacon.
 
-=== Summary of Hyperspace Technologies&#32; ===
+'''Summary of Hyperspace Technologies '''
 
 * '''S-threads''' - the underlying infrastructure
 *** HoloNet transceivers were placed within S-thread beacons, and when a ship (or homing beacon signal) crossed an S-thread, the event was logged. [[Homing beacon/Legends|Fandom]]
@@ -21,7 +22,7 @@ The exploration of hyperspace happened concurrently with the expansion of the Ho
 * On a well-charted major hyperlane, travel took roughly 8 hours per galactic grid square at Class 1. A Class 1 drive travelling the Rimma Trade Route from Sullust to Thyferra — 4 grid squares — would take approximately 24 hours. [https://swse.fandom.com/wiki/Hyperspace_Travel_Times Fandom]
 * A single galactic grid square on the standard map is approximately 1,500 parsecs, so Class 1 effectively covered \~1,500 parsecs in 8 hours
 
-=== FACTORS THAT AFFECTED SPEED IN ALL ERAS ===
+'''FACTORS THAT AFFECTED SPEED IN ALL ERAS'''
 
 * Route quality mattered enormously — whether a cleared hyperlane existed for a continuous journey, and how much stellar matter (planets, stars, asteroids, nebulae) was in the path, since ships could not travel in a straight line through obstacles.
 * Travel in the Deep Core was slower due to the dense concentration of stars, whereas the Outer Rim allowed faster transit because there was less to navigate around.
@@ -34,7 +35,7 @@ The exploration of hyperspace happened concurrently with the expansion of the Ho
 * Think of them like invisible fence-lines strung across hyperspace — ships don't aim for them, they simply cross them as they travel, and those crossings are recorded.
 * Ships traveling through hyperspace crossed at least one S-thread per hour. [[Homing beacon/Legends|Fandom]]
 
-=== Hyperspace Lane Discovery Timeline ===
+'''Hyperspace Lane Discovery Timeline'''
 
 Five major super-hyperroutes of the galaxy (per the Essential Atlas) are:Perlemian Trade Route (H1), Corellian Run (H2), Corellian Trade Spine (H3), Rimma Trade Route (H4), and Hydian Way (H5).
 
@@ -58,7 +59,7 @@ c. 3,705–3,694 BBY — Hydian Way
 
 c. 3,701–3,699 BBY — Seswenna Expansion
 
-=== S-thread boosters ===
+'''S-thread boosters'''
 
 * S-thread boosters were technology that could create new hyperspace routes and keep existing ones open. They could be deployed in realspace or in hyperspace, with the latter called non-mass S-thread boosters. [[S-thread booster/Legends|Fandom]]
 * Over the millennia following the settlement of the Koros system around 27,500 BBY and culminating shortly before the founding of the Galactic Republic in 25,053 BBY, hyperspace scouts used S-thread boosters to chart and maintain the Koros Trunk Line connecting the Koros system to Coruscant. So S-thread boosters predate the Republic itself. [[S-thread booster/Legends|Fandom]]
@@ -74,28 +75,28 @@ These are the things pilots actually navigated ''to'':
 * The Salin Corridor, one of the oldest hyperlanes in the Outer Rim, was forged by Xim the Despot's empire and maintained by a "lighthouse network" of jump beacons. [[The galaxy/Legends|Fandom]]
 * Beacon route travel was slow and laborious - not a single sustained hyperspace transit. In the early days of the Galactic Republic, hyperspace travel via beacons required numerous reversions to realspace to ensure safe passage. Each hop meant dropping out of hyperspace, re-acquiring the next beacon, downloading updated astrogation data, and jumping again.
 
-=== Who maintained them ===
+'''Who maintained them'''
 
 * The Bureau of Ships and Services (BoSS) — a separate body — was not attached to any one government and remained omnipresent across Republic, Empire, and New Republic eras. On at least two occasions it used beacon access as leverage to end wars, including threatening to withhold navigational data to force an end to the First Alsakan Conflict. That's remarkable institutional power — essentially holding the galaxy's road network hostage. [[Bureau of Ships and Services/Legends|Fandom]]
 * The beacons were later maintained and patrolled by the Republic Spacelane Bureau. [[Hyperspace beacon/Legends|Fandom]]
 * The Republic Spacelane Bureau also fought to end private control of hyperlane data and established a protected set of beacons for major pathways, liberating them from privately held charts. [[Hyperdrive/Legends|Fandom]]
 
-=== Vulnerability and Hyperspace warfare ===
+'''Vulnerability and Hyperspace warfare'''
 
 * Pirates and Hutts sometimes reprogrammed beacons to transmit incorrect coordinates, sending ships into deep space for ambush. [[Hyperspace beacon/Legends|Fandom]]
 * By 4100 BBY, navigation computers had advanced to the point that jump beacons were no longer needed, making the military control of hyperspace routes far more difficult — blockading one route simply pushed ships onto alternative ones. [[Space warfare/Legends|Fandom]]
 * However, statistically speaking, only a few of these routes could be traversed quickly, and a military force that controlled the fast routes could rapidly redeploy to intercept an adversary using the slow ones. 
 * Hyperlanes thus determined the strategic geography of space warfare, and fleets repeatedly battled over the same planets on significant hyperspace routes,
 
-=== Hyperspace Lanes in detail ===
+'''Hyperspace Lanes in detail'''
 
-=== PRE-REPUBLIC ERA ===
+'''PRE-REPUBLIC ERA'''
 
 '''c. 27,000 BBY — Koros Trunk Line'''
 
 One of the oldest known hyperlanes, connecting Coruscant to Koros Major (later Empress Teta) in the Deep Core. Predates even the Rakatan Infinite Empire. Discovered using the primitive S-thread beacon method, requiring frequent reversions to realspace.
 
-=== EARLY REPUBLIC ERA ===
+'''EARLY REPUBLIC ERA'''
 
 '''c. 25,000 BBY — Perlemian Trade Route'''
 
@@ -109,7 +110,7 @@ Mapped during roughly the same period as the Perlemian. Began at Coruscant, loop
 
 First established as a spur of the Corellian Run around the same time as the great early lanes, though it was not completed in full until approximately 5,500 BBY. Built incrementally over millennia, eventually stretching from Corellia toward the galactic edge, past the Greater Javin region.
 
-=== OLD REPUBLIC ERA ===
+'''OLD REPUBLIC ERA'''
 
 '''c. 5,500 BBY — Rimma Trade Route'''
 
@@ -127,7 +128,7 @@ An extension of the Goluud Corridor, blazed by Gav and Jori Daragon in a single,
 
 An older secondary route running from the Core out through Hutt Space. It became obsolete in approximately 4,000 BBY when a supernova in the Kyyr system destroyed the route, diverting traffic to the Corellian Run and accelerating the decline of Nal Hutta as a trade hub.
 
-=== NOT YET DISCOVERED ===
+'''NOT YET DISCOVERED'''
 
 '''c. 3,705–3,694 BBY — Hydian Way'''
 
@@ -139,7 +140,7 @@ Blazed by Freia Kallea of Brentaal IV and later completed with the help of Duros
 
 Charted by Neimoidian scouts during the period when Freia Kallea was stranded and unable to complete the Hydian Way. The Neimoidians scouted this southward extension from Malastare, reaching the Rimma Trade Route south of Eriadu, capitalising on Kallea’s absence.
 
-=== NOTES ===
+'''NOTES'''
 
 * Hundreds of secondary and thousands of minor routes were blazed throughout galactic history; dates for most are unrecorded.
 

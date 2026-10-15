@@ -36,7 +36,7 @@ Pilot (Starship),Ag,basic,,
 Pilot (Capital Ship),Ag,advanced,yes,"Mega Freighter, Capital Ship, Space Station"
 Play,Dex,advanced,yes,"Bandfill, Kloo Horn, Fanfar, Omni Box, Chidinkalu, Quetarra, Valachord, Drums"
 Profession,Dex,advanced,yes,"Mechanic, Droid Technician, Slicer, Cybernetics, Medic, Starship Engineer, Weapons Technician, Armourer, Art Supplies, Artist, Astrogator, Brewer, Charms, Chemist, Demolitionist, Engineer, Engraver, Fabricator, Journalist, Pharmacist, Poisoner, Speeder Mechanic, Starship Mechanic, Stellar Cartographer, Tinker, Vintner, Weaponsmith"
-Ranged,BS,advanced,yes,"Blaster, Archaic, Thrown, Exotic, Ordnance"
+Ranged,BS,advanced,yes,"Archaic, Blaster, Exotic, Ordnance, Thrown"
 Research,Int,advanced,,
 Ride,Ag,basic,yes,"Air, Land, Water"
 Sleight of Hand,Dex,advanced,,

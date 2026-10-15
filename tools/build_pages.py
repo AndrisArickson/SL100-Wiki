@@ -1,9 +1,14 @@
-"""Build the SL100 player-facing wiki pages from the rules markdown.   python3 tools/build_pages.py [--only Title]
+"""Rebuild SL100:Main Page, the card grid that links the rules pages.   python3 tools/build_pages.py
 
-Every numbered rules file (01 ... 10) and the setting files are converted to wikitext and saved as SL100: pages;
-SL100:Main Page is rebuilt as the card grid that links them. Re-run after editing any markdown file. Pages are
-saved through the normal local-edit path when the database is writable (history in data/history/); otherwise the
-.wiki files are written directly and serve.py registers new ones when it next starts.
+The SL100: rules pages are the master copy of the rules and are edited in the wiki (see CONTRIBUTING.md); this
+script no longer writes them. It only rebuilds the front page, counting the talents on SL100:Talents.
+
+    python3 tools/build_pages.py --from-markdown DIR [--only Title]
+        one-off import: rebuild the rules pages from the original markdown files in DIR. This REPLACES the pages and
+        every edit made to them in the wiki, so only use it to start again from the markdown.
+
+Pages are saved through the normal local-edit path when the database is writable (history in data/history/);
+otherwise the .wiki files are written directly and serve.py registers new ones when it next starts.
 """
 import re
 import sys
@@ -24,11 +29,11 @@ PAGES = [
      "How a character's ten '''characteristics''' are rolled or bought, what each one measures, and the Characteristic Bonus that drives damage, Wounds and talent limits."),
     ("SL100:Species", ["02 New Star Wars - Species (revised).md"], "223 species, complete for now (13 Oct 2026)",
      "The playable '''species''' of the Legends galaxy with their characteristic modifiers, talents, Movement, Destiny and Resilience. Each entry links to its Legends article; the index at the top shows which entries are settled and which await review."),
-    ("SL100:Origin", ["03 New Star Wars - Origin.md"], "Reconciled draft (12 Oct): full d100 table, skills matched to chapter 06, Legends example worlds",
+    ("SL100:Origin", ["03 New Star Wars - Origin.md"], "Draft: full d100 table, twelve skills per world, Legends example worlds",
      "'''Origin''' is the kind of world you grew up on. It adds to your characteristics and gives the twelve skills you may start with."),
     ("SL100:Faction", ["04 New Star Wars - Faction.md"], "Lore draft, checked against Legends (12 Oct); mechanics still to be written",
      "The '''factions''' a character may have belonged to before being recruited by a Patron: Force traditions, the underworld, the mega-corporations and the Imperial bureaux, by era."),
-    ("SL100:Careers", ["05 New Star Wars - Careers (revised).md"], "24 design-group careers [sl100] (names converted) + 57 added [review]",
+    ("SL100:Careers", ["05 New Star Wars - Careers (revised).md"], "91 careers [sl100]; Force Wielder placeholders still to be written",
      "'''Careers''' are grouped into classes and have four levels each. Every level lists the skills, talents, trappings and status that come with it."),
     ("SL100:Skills", ["06 New Star Wars - Skills.md"], "Draft (about 65%)",
      "Every '''skill''' in the game, the characteristic it is tested against, whether it is Basic or Advanced, and its specialisations."),
@@ -59,7 +64,7 @@ CARDS = [
         ("Game Master", "Game Master", "Running the game, downtime Endeavours, rewards and the campaign era."),
     ]),
     ("Build a character", [
-        ("Character creation", "Character creation", "The steps in order: species, origin, career, characteristics, skills, talents and trappings."),
+        ("Characteristics#CREATING A CHARACTER", "Character creation", "The steps in order: species, origin, career, characteristics, skills, talents and trappings."),
         ("Characteristics", "Characteristics", "The ten characteristics, how they are rolled and what each one does."),
         ("Species", "Species", "Playable Legends species with their modifiers, talents and traits."),
         ("Origin", "Origin", "The world you grew up on: Hive, Feral, Industrial, Force Nexus and more."),
@@ -85,7 +90,7 @@ CARD = ('<div style="flex:1 1 230px;max-width:320px;border:1px solid #8a8f98;bor
 # SL100 original card art (images/generated/originals; prompts in meta/generated_images.tsv). Cards without an entry show text only.
 CARD_ART = {
     "How to Play": "SL100 Card How to Play.jpg", "Combat": "SL100 Card Combat.jpg", "The Force": "SL100 Card The Force.jpg",
-    "Game Master": "SL100 Card Game Master.jpg", "Character creation": "SL100 Card Character creation.jpg",
+    "Game Master": "SL100 Card Game Master.jpg", "Characteristics#CREATING A CHARACTER": "SL100 Card Character creation.jpg",
     "Characteristics": "SL100 Card Characteristics.jpg", "Species": "SL100 Card Species.jpg", "Origin": "SL100 Origin Hive.jpg",
     "Faction": "SL100 Faction Galactic Senate.jpg", "Careers": "SL100 Card Careers.jpg", "Skills": "SL100 Card Skills.jpg",
     "Talents": "SL100 Card Talents.jpg", "Weapons": "SL100 Gear Blaster Rifle.jpg", "Armour": "SL100 Gear Combat Armour.jpg",
@@ -105,13 +110,12 @@ MAIN_TAIL = """
 == Gallery ==
 [[SL100:Gallery]] holds all of our original artwork in one place: places, people, creatures, Force powers and materials to show at the table.
 
-== Working papers ==
-Design notes and look-ups that sit behind the rules: [[SL100:Collation]] (reports from the source books), [[SL100:Source books]], [[SL100:Careers compared with WFRP]], [[SL100:Example Weapon]].
-
 == How this wiki is organised ==
 * Pages starting with <code>SL100:</code> are our own game material; pages ending in <code>/Legends</code> are the Wookieepedia (Legends) reference.
-* The Weapons, Armour and Gear catalogues are generated by <code>tools/convert/equipment.py</code> from chapter 08, Special Materials and the d20 stat tables; items marked ''(converted)'' are awaiting review.
-* Red cards are pages still to be written; press ''Edit'' on any page to work on it. The rules pages are generated from the markdown chapters by <code>tools/build_pages.py</code>, so edit the markdown and re-run it rather than editing those pages here. [[SL100:Example Weapon]] shows the layout for a statistics page.
+* The rules pages are the master copy of the rules. Press ''Edit'' on any page to propose a change: it is saved as a draft and the page is flagged until you submit it from [[Special:Review|Review changes]], which sends it for approval. See CONTRIBUTING.md in the repository for the whole process.
+* Notes for reviewers (marked ''review'') are hidden; press ''Show review notes'' at the top of a page to see them.
+* The Weapons, Armour and Gear catalogues are built by <code>tools/convert/equipment.py</code> from the Equipment page, Special Materials and the d20 stat tables; items marked ''(converted)'' are awaiting review.
+* Red cards are pages still to be written. [[SL100:Example Weapon]] shows the layout for a statistics page.
 
 [[Category:SL100]]
 """
@@ -196,7 +200,7 @@ def md_to_wiki(md, drop_title=True):
             continue
         m = re.match(r"^(#{1,6})\s*(.*)$", ln)
         if m:
-            text = inline(m.group(2)).strip().strip("'").strip()
+            text = re.sub(r"'{2,}", "", inline(m.group(2))).strip()     # headings are plain text: no bold or italic
             if not text:
                 i += 1
                 continue
@@ -207,11 +211,6 @@ def md_to_wiki(md, drop_title=True):
             first = False
             eq = "=" * max(2, min(len(m.group(1)) - base + 2, 6))
             out.append("%s %s %s" % (eq, text, eq))
-            i += 1
-            continue
-        b = re.match(r"^\*\*([^*]{2,40})\*\*:?\s*$", ln)      # a short line that is only bold text: treat as a heading
-        if b and " — " not in b.group(1) and not b.group(1).endswith("."):
-            out.append("=== %s ===" % b.group(1).strip().rstrip(":"))
             i += 1
             continue
         l = re.match(r"^(\s*)([-*]|\d+\.)\s+(.*)$", ln)
@@ -280,8 +279,8 @@ def build_page(title, files, status, lead):
         if len(files) > 1:
             body = "== %s ==\n" % Path(f).stem.replace("Star Wars ", "").replace("_", " / ") + re.sub(r"^(=+) (.*?) \1$", lambda m: "=" + m.group(0) + "=", body, flags=re.M)
         parts.append(body)
-    box = ("{{SL100 Rules|chapter=%s|status=%s|source=%s%s}}\n" %
-           (title.split(":", 1)[1], status, "; ".join(files), "|entries=%d" % n if n else ""))
+    box = ("<!-- Built from %s by tools/build_pages.py -->\n{{SL100 Rules|section=%s|status=%s%s}}\n" %
+           ("; ".join(files), title.split(":", 1)[1], status, "|entries=%d" % n if n else ""))
     body_text = "\n\n".join(parts)
     notoc = "__NOTOC__\n" if (extra or re.search(r"^== Index ==", body_text, re.M)) else ""
     text = notoc + box + lead + "\n\n" + (extra + "\n\n" if extra else "") + body_text + "\n\n[[Category:SL100]]\n[[Category:SL100 rules]]\n"
@@ -305,19 +304,27 @@ def write_direct(title, text):
     write_atomic(PAGES_DIR / page_relpath(title, ns), text)
 
 
+def talent_count():
+    """Rows in the index on SL100:Talents (one per talent)."""
+    text = (PAGES_DIR / page_relpath("SL100:Talents", 3000)).read_text(encoding="utf-8")
+    return len(re.findall(r"^\| \[\[#", text, re.M)) or 191
+
+
 def main():
     import sqlite3
+    src = Path(sys.argv[sys.argv.index("--from-markdown") + 1]) if "--from-markdown" in sys.argv else None
     only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
-    pages, n_talents = [], 167
-    for title, files, status, lead in PAGES:
-        if only and title != only and title.split(":", 1)[1] != only:
-            continue
-        text, n = build_page(title, files, status, lead)
-        if n:
-            n_talents = n
-        pages.append((title, text, "Built from %s by tools/build_pages.py" % "; ".join(files)))
+    pages = []
+    if src:
+        global ROOT
+        ROOT = src                      # build_page() reads the markdown files from ROOT
+        for title, files, status, lead in PAGES:
+            if only and title != only and title.split(":", 1)[1] != only:
+                continue
+            text, _ = build_page(title, files, status, lead)
+            pages.append((title, text, "Imported from markdown by tools/build_pages.py --from-markdown"))
     if not only:
-        pages.append(("SL100:Main Page", build_main(n_talents), "Front page card grid (tools/build_pages.py)"))
+        pages.append(("SL100:Main Page", build_main(talent_count()), "Front page card grid (tools/build_pages.py)"))
     try:
         con = db_connect()
         serve.load_index()

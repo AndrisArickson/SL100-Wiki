@@ -30,8 +30,8 @@ Model G8,Blaster rifle,Ranged (Blaster),9,E,80,,2,1,1100,Common,M,Stun setting,M
 "Blaster, lt. repeat","Blaster, lt. repeat",Ranged (Blaster),9,E,80,,3,2,2000,,,Rapid Fire,,d20 Core table 7-2,converted,baseline: Repeating Blaster
 "Blaster, sporting","Blaster, sporting",Ranged (Blaster),7,M,16,,1,0,300,,,,Sporting blaster/Legends,d20 Core table 7-2,converted,baseline: Sporting Blaster Pistol
 Bow,Bow,Ranged (Archaic),5,M,24,,2,1,300,,,,Bow/Legends,d20 Core table 7-2,converted,baseline: Bow
-Battle Gloves,Brawling,Melee (Brawling),1+StrB,,,,0,0,30,Common,,,,08 Equipment,sl100,
-Unarmed,Brawling,Melee (Brawling),0+StrB,,,,1,0,-,-,,,,08 Equipment; d20 Core table 7-2; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of 08 0;
+Battle Gloves,Brawling,Melee (Brawling),1+StrB,,,,0,0,30,Common,,,,Equipment,sl100,
+Unarmed,Brawling,Melee (Brawling),0+StrB,,,,1,0,-,-,,,,Equipment; d20 Core table 7-2; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of Equipment 0;
 Bullets (10),Bullets (10),,,,,,0,0,5,,,,,d20 Core table 7-2,converted,
 Drolan Plasteel Repeating Crossbow,Crossbow,Ranged (Archaic),5,L,32,,3,2,400,Scarce,,,Repeating crossbow,d20 A&E p.26,converted,Drolan Plasteel; baseline: Bow
 Protector PRP-502 Hold-Out Shooter,Dart shooter,Ranged (Exotic),4,S,8,,0,0,300,Uncommon,,"Solid Projectile, Poison",PRP-502 hold-out dart shooter,d20 A&E p.24,converted,Prax Arms; baseline: Dart Shooter
@@ -40,7 +40,7 @@ DX-2 (Typical Disruptor Pistal),Disruptor pistol,Ranged (Blaster),8,S,4,,1,0,225
 Model MSD-32 Disruptor Pistol,Disruptor pistol,Ranged (Blaster),8,S,4,,1,0,4000,Rare,I,"Penetrating, Damaging",Model MSD-32 Disruptor Pistol,d20 A&E p.21,converted,"Merr-Sonn Munitions, Inc.; baseline: Disruptor Pistol"
 DXR-B Disruptor (Typical Disruptor Rifle),Disruptor rifle,Ranged (Blaster),8,S,4,,2,1,3500,Rare,I,"Penetrating, Damaging",DXR-6 disruptor rifle,d20 A&E p.21,converted,Tenloss Syndicate; baseline: Disruptor Rifle
 Electro-net,Electro-net,Ranged (Exotic),,S,4,,1,0,300,,,Entangle,,d20 Core table 7-2,converted,
-Demolition Charge,Engineering,Demolitions,14,,,,1,0,1500,Common,,,,08 Equipment,sl100,
+Demolition Charge,Engineering,Demolitions,14,,,,1,0,1500,Common,,,,Equipment,sl100,
 CZ Wrist-Mounted Flame Projector,Flame projector,Ranged (Exotic),7,S,4,,3,2,800,Uncommon,I,"Ablaze, Spread",CZ wrist-mounted flame projector,d20 A&E p.35,converted,Czerka Arms; baseline: Hand Flamer
 Model C-22 Flame Carbine,Flame projector,Ranged (Exotic),9,S,4,,3,2,500,Scarce,R,"Ablaze, Spread",Model C-22 flame carbine,d20 A&E p.35,converted,"Merr-Sonn Munitions, Inc.; baseline: Hand Flamer"
 Model CR-24/Czerka CZ-24 Flamemaster Flame Rifle,Flame projector,Ranged (Exotic),10,S,4,,3,2,700,Scarce,M,"Ablaze, Spread",CZ-24 Flamemaster flame rifle,d20 A&E p.36,converted,Czerka Arms; baseline: Hand Flamer
@@ -62,16 +62,16 @@ MobileMortar-3,Grenade launcher,Ranged (Ordnance),,E,200,,0,0,4000,Uncommon,M,Bl
 "TTT-54 ""Thumper""",Grenade launcher,Ranged (Ordnance),,E,100,,0,0,4000,Uncommon,M,Blast (3),"TTT-54 ""Thumper""",d20 A&E p.34,converted,"Merr-Sonn Munitions, Inc.; baseline: Grenade Launcher"
 "Grenade, frag","Grenade, frag",Ranged (Thrown),10,S,8,,0,0,500,,,"Blast (3), Thrown",,d20 Core table 7-2,converted,baseline: Grenade
 "Grenade, stun","Grenade, stun",Ranged (Thrown),,S,8,,0,0,600,,,"Blast (3), Thrown",Stun grenade/Legends,d20 Core table 7-2,converted,baseline: Grenade
-Arkanian's Missile,Heavy Weapon (Ranged Heavy Weapon skill),,14,,,,1,0,-,Rare,,,,08 Equipment,sl100,
-Frag Missile,Heavy Weapon (Ranged Heavy Weapon skill),,7,,,,1,0,-,Scarce,,,,08 Equipment,sl100,
-Grenade Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,-,Long,,6,2,1,4000,Rare,,,,08 Equipment,sl100,Under-barrel or standalone launcher cycling multiple grenades rapidly; used by infantry support teams.
-Heavy Auto Machine Gun,Heavy Weapon (Ranged Heavy Weapon skill),,7,Long,,100,4,3,6000,Rare,,"Slow, Penetrating (2), MSolid Projectile",,08 Equipment,sl100,
-Minigun (Blaster / Solid Slug),Heavy Weapon (Ranged Heavy Weapon skill),,7,Long,,200,5,4,8000,Rare,,"Slow, Penetrating (2), Rapid Fire 4",,08 Equipment,sl100,
-Missile Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,08 Equipment,sl100,Guided missile system capable of tracking fast-moving targets including speeder bikes and starfighters.
-PLX Rocket Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,08 Equipment,sl100,Merr-Sonn man-portable anti-vehicle rocket with dual-stage warhead; standard Rebel heavy weapon.
-Portable Missile Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,-,Extreme,,1,3,2,4000,Rare,,Slow,,08 Equipment,sl100,
-Repeating Blaster,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Rare,,,,08 Equipment,sl100,Tripod-mounted heavy blaster delivering sustained automatic fire; requires a gunner and power generator.
-Rocket Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,08 Equipment,sl100,Shoulder-fired single-shot weapon launching explosive warheads; used against vehicles and fortifications.
+Arkanian's Missile,Heavy Weapon (Ranged Heavy Weapon skill),,14,,,,1,0,-,Rare,,,,Equipment,sl100,
+Frag Missile,Heavy Weapon (Ranged Heavy Weapon skill),,7,,,,1,0,-,Scarce,,,,Equipment,sl100,
+Grenade Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,-,Long,,6,2,1,4000,Rare,,,,Equipment,sl100,Under-barrel or standalone launcher cycling multiple grenades rapidly; used by infantry support teams.
+Heavy Auto Machine Gun,Heavy Weapon (Ranged Heavy Weapon skill),,7,Long,,100,4,3,6000,Rare,,"Slow, Penetrating (2), MSolid Projectile",,Equipment,sl100,
+Minigun (Blaster / Solid Slug),Heavy Weapon (Ranged Heavy Weapon skill),,7,Long,,200,5,4,8000,Rare,,"Slow, Penetrating (2), Rapid Fire 4",,Equipment,sl100,
+Missile Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,Equipment,sl100,Guided missile system capable of tracking fast-moving targets including speeder bikes and starfighters.
+PLX Rocket Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,Equipment,sl100,Merr-Sonn man-portable anti-vehicle rocket with dual-stage warhead; standard Rebel heavy weapon.
+Portable Missile Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,-,Extreme,,1,3,2,4000,Rare,,Slow,,Equipment,sl100,
+Repeating Blaster,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Rare,,,,Equipment,sl100,Tripod-mounted heavy blaster delivering sustained automatic fire; requires a gunner and power generator.
+Rocket Launcher,Heavy Weapon (Ranged Heavy Weapon skill),,,,,,,,,Exotic,,,,Equipment,sl100,Shoulder-fired single-shot weapon launching explosive warheads; used against vehicles and fortifications.
 """Power"" 5 Heavy Blaster Pistol",Heavy blaster,Ranged (Blaster),9,M,16,,3,2,825,Common,R,"Rapid Fire, Stun setting",Power 5 heavy blaster pistol,d20 A&E p.11,converted,"Merr-Sonn Munitions, Inc.; baseline: Heavy Blaster Rifle"
 """Renegade"" Heavy Blaster",Heavy blaster,Ranged (Blaster),10,M,16,,3,2,840,Uncommon,R,Rapid Fire,"""Renegade"" heavy blaster pistol/Legends",d20 A&E p.12,converted,SoroSuub Corporation; baseline: Heavy Blaster Rifle
 Blaster cannon,Heavy blaster,Ranged (Blaster),11,E,80,,4,3,3000,,,Rapid Fire,Blaster cannon/Legends,d20 Core table 7-2,converted,baseline: Heavy Blaster Rifle Crew-served.
@@ -96,43 +96,43 @@ Ion gun pistol,Ion gun pistol,Ranged (Blaster),8,M,16,,1,0,250,,,,Ion pistol,d20
 Deck Sweeper Stun Blaster,Light repeating blaster,Ranged (Blaster),6,L,30,,3,2,2000,Uncommon,R,"Rapid Fire, Stun setting",,d20 A&E p.17,converted,baseline: Repeating Blaster
 T-21 Light Repeating Blaster (Typical Light Repeating Blaster),Light repeating blaster,Ranged (Blaster),9,E,80,,3,2,2000,Common,M,Rapid Fire,T-21 light repeating blaster/Legends,d20 A&E p.19,converted,BlasTech Industries; baseline: Repeating Blaster
 Underslung Rotary Blaster Carbine,Light repeating blaster,Ranged (Blaster),10,L,60,,3,2,2400,Uncommon,M,Rapid Fire,Underslung rotary blaster carbine,d20 A&E p.20,converted,Merr-Sonn; baseline: Repeating Blaster
-Autorifle,Long Gun,Ranged (Archaic),7,L,,50,2,1,300,Common,,"2H, Solid Projectile",,08 Equipment,sl100,
-Backpack Flamer,Long Gun,Ranged (Archaic),10,M,,20,2,1,700,Scarce,,,,08 Equipment,sl100,Short-range weapon projecting a sustained stream of burning fuel; terrifying in close quarters.
-Blaster Carbine,Long Gun,Ranged (Blaster),8,L,40,50,1,0,900,Common,,,Blaster carbine/Legends,08 Equipment; d20 Core table 7-2,merged,"Shorter-barrelled rifle offering a balance of portability and stopping power; common in military service. enc: SL100 scale 1 instead of 08 2; ruling 12 Oct: carbine is arm-sized, 1"
-Blaster Rifle,Long Gun,Ranged (Blaster),9,L,60,50,2,1,1000,Common,,"2H,",Blaster rifle/Legends,08 Equipment; d20 Core table 7-2,merged,Standard military long arm; the E-11 is the Imperial benchmark. Good range and accuracy.
-Blaster Sniper Rifle,Long Gun,Ranged (Blaster),11,L,,10,3,2,1000,Rare,,"2H, Damaging Impale",,08 Equipment,sl100,
-Bowcaster,Long Gun,Ranged (Blaster),10,L,20,5,3,2,1500,Exotic,,"2H, Solid Projectile, Penetrating",Bowcaster/Legends,08 Equipment; d20 Core table 7-2,merged,Traditional Wookiee explosive quarrel launcher; fires energised bolts with high stopping power. 08 value kept (ruling 12 Oct) heavy Wookiee weapon; WFRP two-handed weapons and the long rifle are Enc 3
-Heavy Blaster Rifle,Long Gun,Ranged (Blaster),10,,,50,2,1,,Scarce,,Damaging,,08 Equipment,sl100,High-output military rifle delivering sustained fire; used by clone commanders and heavy infantry.
-Ion Gun Rifle,Long Gun,Ranged (Blaster),8,M,60,20,2,1,800,Common,,"2H, Damages Electrics",Ion rifle/Legends,08 Equipment; d20 Core table 7-2,merged,Long-range ion weapon used by anti-droid specialists and slicer teams.
-Needle Rifle,Long Gun,Ranged (Archaic),1,L,,6,2,1,600,Exotic,,"Penetrating (6), Melee (2H)",,08 Equipment,sl100,
-Shotgun,Long Gun,Ranged (Archaic),7,M,,12,2,1,1200,Scarce,,"2H, Spread, Solid Projectile,",,08 Equipment,sl100,
-Sniper Rifle,Long Gun,Ranged (Archaic),8,E,,6,2,1,360,Scarce,,"2H, Solid Projectile, Penetrating (2)",,08 Equipment,sl100,
-Webber,Long Gun,Ranged (Archaic),-,M,,3,1,0,1200,Rare,,Melee (2H),,08 Equipment,sl100,
+Autorifle,Long Gun,Ranged (Archaic),7,L,,50,2,1,300,Common,,"2H, Solid Projectile",,Equipment,sl100,
+Backpack Flamer,Long Gun,Ranged (Archaic),10,M,,20,2,1,700,Scarce,,,,Equipment,sl100,Short-range weapon projecting a sustained stream of burning fuel; terrifying in close quarters.
+Blaster Carbine,Long Gun,Ranged (Blaster),8,L,40,50,1,0,900,Common,,,Blaster carbine/Legends,Equipment; d20 Core table 7-2,merged,"Shorter-barrelled rifle offering a balance of portability and stopping power; common in military service. enc: SL100 scale 1 instead of Equipment 2; ruling 12 Oct: carbine is arm-sized, 1"
+Blaster Rifle,Long Gun,Ranged (Blaster),9,L,60,50,2,1,1000,Common,,"2H,",Blaster rifle/Legends,Equipment; d20 Core table 7-2,merged,Standard military long arm; the E-11 is the Imperial benchmark. Good range and accuracy.
+Blaster Sniper Rifle,Long Gun,Ranged (Blaster),11,L,,10,3,2,1000,Rare,,"2H, Damaging Impale",,Equipment,sl100,
+Bowcaster,Long Gun,Ranged (Blaster),10,L,20,5,3,2,1500,Exotic,,"2H, Solid Projectile, Penetrating",Bowcaster/Legends,Equipment; d20 Core table 7-2,merged,Traditional Wookiee explosive quarrel launcher; fires energised bolts with high stopping power. Equipment value kept (ruling 12 Oct) heavy Wookiee weapon; WFRP two-handed weapons and the long rifle are Enc 3
+Heavy Blaster Rifle,Long Gun,Ranged (Blaster),10,,,50,2,1,,Scarce,,Damaging,,Equipment,sl100,High-output military rifle delivering sustained fire; used by clone commanders and heavy infantry.
+Ion Gun Rifle,Long Gun,Ranged (Blaster),8,M,60,20,2,1,800,Common,,"2H, Damages Electrics",Ion rifle/Legends,Equipment; d20 Core table 7-2,merged,Long-range ion weapon used by anti-droid specialists and slicer teams.
+Needle Rifle,Long Gun,Ranged (Archaic),1,L,,6,2,1,600,Exotic,,"Penetrating (6), Melee (2H)",,Equipment,sl100,
+Shotgun,Long Gun,Ranged (Archaic),7,M,,12,2,1,1200,Scarce,,"2H, Spread, Solid Projectile,",,Equipment,sl100,
+Sniper Rifle,Long Gun,Ranged (Archaic),8,E,,6,2,1,360,Scarce,,"2H, Solid Projectile, Penetrating (2)",,Equipment,sl100,
+Webber,Long Gun,Ranged (Archaic),-,M,,3,1,0,1200,Rare,,Melee (2H),,Equipment,sl100,
 Frohard's Galactic Firearms Magna Caster-100,Magna caster,Ranged (Exotic),9,L,40,,1,0,2000,Uncommon,R,,,d20 A&E p.26,converted,
 Verpine Shatter Gun,Magnetic accelerator weapon,Ranged (Exotic),11,L,40,,1,0,15000,Rare,I,,Verpine shatter gun,d20 A&E p.38,converted,
-Axe,Melee (1H),Melee (1H),4+StrB,,,,1,0,80,Common,,,,08 Equipment,sl100,
-Cortosis Blade,Melee (1H),Melee (1H),4+SB,,,,1,0,,Exotic,,,,08 Equipment,sl100,Blade woven with cortosis ore; one of the few melee weapons capable of shorting a lightsaber.
-Electrostaff,Melee (1H),Melee (2H),,,,,2,1,,Rare,,,,08 Equipment,sl100,Double-ended staff generating electrified ends; used by MagnaGuard and elite soldiers.
-Gaderffii (Gaffi Stick),Melee (1H),Melee (1H),4+SB,,,,1,0,50,Exotic,,,Gaderffii/Legends,08 Equipment; d20 Core table 7-2,merged,Traditional Tusken Raider weapon; a heavy club/spike combination tool and weapon. 08 value kept (ruling 12 Oct)
-Hammer,Melee (1H),Melee (1H),4+StrB,,,,1,0,25,Common,,,,08 Equipment,sl100,
-Knife / Dagger,Melee (1H),Melee (1H),2+StrB,,,,0,0,50,Common,,,,08 Equipment,sl100,
-Lightsaber,Melee (1H),Melee (\*Lightsaber),6+Form Bonus,,,,1,0,-,Unique,I,Fast Penetrating (6) Shield(2) Hack,Lightsaber/Legends,08 Equipment; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of 08 0; cost: d20 3000 used instead of 08 -; Not sold on any open market: built by the wielder or bought on the black market at whatever the seller dares ask.
-Lightwhip,Melee (1H),Melee (\*Lightsaber),,,,,0,0,,Exotic,,,,08 Equipment,sl100,Rare flexible plasma whip variant; unpredictable and difficult to defend against.
-Ryyk Blade,Melee (1H),Melee (1H),4+SB,,,,1,0,500,Exotic,,,Ryyk blade/Legends,08 Equipment; d20 A&E p.29,merged,Traditional Wookiee curved blade; massive and difficult for non-Wookiees to wield effectively.
-Stun Baton,Melee (1H),Melee (1H),1+StrB,,,,0,0,500,Scarce,R,"Pummel, Undamaging",Merr-Sonn stun baton,08 Equipment; d20 A&E p.31; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of 08 0; cost: d20 50 used instead of 08 500; cost: d20 500 used instead of 08 50; 08 value kept (ruling 12 Oct)
-Sword,Melee (1H),Melee (1H),4+StrB,,,,1,0,150,Common,,,,08 Equipment,sl100,
-Vibro-axe,Melee (1H),Melee (1H),5+StrB,,,,1,0,160,Scarce,,,,08 Equipment,sl100,Heavy Melee (2H) vibrating axe; devastating against armoured targets.
-Vibro-blade,Melee (1H),Melee (1H),5+StrB,,,,1,0,300,Scarce,,,,08 Equipment,sl100,Standard-issue vibrating mono-molecular blade; cuts through most materials with ease.
-Vibro-dagger,Melee (1H),Melee (1H),3+StrB,,,,0,0,100,Scarce,,,,08 Equipment,sl100,Compact vibrating blade for close quarters; easily concealed on the body.
-Vibrosword,Melee (1H),Melee (1H),5+StrB,,,,1,0,,Scarce,,,,08 Equipment,sl100,Heavy vibrating sword delivering brutal strikes; used by warriors who prefer raw cutting power.
-Whip,Melee (1H),Melee (1H),2+StrB,,,,1,0,60,Common,,Entangle,,08 Equipment,sl100,
-Double Lightsaber,Melee (2H),,7+Form Bonus/7+Form Bonus,,,,1,0,-,Unique,,,,08 Equipment,sl100,Not sold on any open market.
-Electro-Staff,Melee (2H),,5+StrB,,,,2,1,500,Scarce,,,,08 Equipment,sl100,
-Force Pike,Melee (2H),Melee (2H),6+StrB,,,,2,1,500,Rare,,"Impact, Shock, Two-Handed",Force pike/Legends,08 Equipment; d20 Core table 7-2,merged,"cost: d20 500 used instead of 08 2000; long but light, like a WFRP spear or quarterstaff (Enc 2)"
-Great Lightsaber,Melee (2H),,8+Form Bonus,,,,1,0,-,Unique,,,,08 Equipment,sl100,Penetrating (8) Shield(3) Hack Damaging Not sold on any open market.
-Great Weapon,Melee (2H),,6+StrB,,,,2,1,300,Common,,,,08 Equipment,sl100,
-Improvised (Melee (2H)),Melee (2H),,2+StrB,,,,3,2,-,-,,,,08 Equipment,sl100,
-Staff,Melee (2H),,4+StrB,,,,2,1,25,Common,,,,08 Equipment,sl100,
+Axe,Melee (1H),Melee (1H),4+StrB,,,,1,0,80,Common,,,,Equipment,sl100,
+Cortosis Blade,Melee (1H),Melee (1H),4+SB,,,,1,0,,Exotic,,,,Equipment,sl100,Blade woven with cortosis ore; one of the few melee weapons capable of shorting a lightsaber.
+Electrostaff,Melee (1H),Melee (2H),,,,,2,1,,Rare,,,,Equipment,sl100,Double-ended staff generating electrified ends; used by MagnaGuard and elite soldiers.
+Gaderffii (Gaffi Stick),Melee (1H),Melee (1H),4+SB,,,,1,0,50,Exotic,,,Gaderffii/Legends,Equipment; d20 Core table 7-2,merged,Traditional Tusken Raider weapon; a heavy club/spike combination tool and weapon. Equipment value kept (ruling 12 Oct)
+Hammer,Melee (1H),Melee (1H),4+StrB,,,,1,0,25,Common,,,,Equipment,sl100,
+Knife / Dagger,Melee (1H),Melee (1H),2+StrB,,,,0,0,50,Common,,,,Equipment,sl100,
+Lightsaber,Melee (1H),Melee (\*Lightsaber),6+Form Bonus,,,,1,0,-,Unique,I,Fast Penetrating (6) Shield(2) Hack,Lightsaber/Legends,Equipment; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of Equipment 0; cost: d20 3000 used instead of Equipment -; Not sold on any open market: built by the wielder or bought on the black market at whatever the seller dares ask.
+Lightwhip,Melee (1H),Melee (\*Lightsaber),,,,,0,0,,Exotic,,,,Equipment,sl100,Rare flexible plasma whip variant; unpredictable and difficult to defend against.
+Ryyk Blade,Melee (1H),Melee (1H),4+SB,,,,1,0,500,Exotic,,,Ryyk blade/Legends,Equipment; d20 A&E p.29,merged,Traditional Wookiee curved blade; massive and difficult for non-Wookiees to wield effectively.
+Stun Baton,Melee (1H),Melee (1H),1+StrB,,,,0,0,500,Scarce,R,"Pummel, Undamaging",Merr-Sonn stun baton,Equipment; d20 A&E p.31; d20 Core table 7-2,merged,enc: SL100 scale 1 instead of Equipment 0; cost: d20 50 used instead of Equipment 500; cost: d20 500 used instead of Equipment 50; Equipment value kept (ruling 12 Oct)
+Sword,Melee (1H),Melee (1H),4+StrB,,,,1,0,150,Common,,,,Equipment,sl100,
+Vibro-axe,Melee (1H),Melee (1H),5+StrB,,,,1,0,160,Scarce,,,,Equipment,sl100,Heavy Melee (2H) vibrating axe; devastating against armoured targets.
+Vibro-blade,Melee (1H),Melee (1H),5+StrB,,,,1,0,300,Scarce,,,,Equipment,sl100,Standard-issue vibrating mono-molecular blade; cuts through most materials with ease.
+Vibro-dagger,Melee (1H),Melee (1H),3+StrB,,,,0,0,100,Scarce,,,,Equipment,sl100,Compact vibrating blade for close quarters; easily concealed on the body.
+Vibrosword,Melee (1H),Melee (1H),5+StrB,,,,1,0,,Scarce,,,,Equipment,sl100,Heavy vibrating sword delivering brutal strikes; used by warriors who prefer raw cutting power.
+Whip,Melee (1H),Melee (1H),2+StrB,,,,1,0,60,Common,,Entangle,,Equipment,sl100,
+Double Lightsaber,Melee (2H),,7+Form Bonus/7+Form Bonus,,,,1,0,-,Unique,,,,Equipment,sl100,Not sold on any open market.
+Electro-Staff,Melee (2H),,5+StrB,,,,2,1,500,Scarce,,,,Equipment,sl100,
+Force Pike,Melee (2H),Melee (2H),6+StrB,,,,2,1,500,Rare,,"Impact, Shock, Two-Handed",Force pike/Legends,Equipment; d20 Core table 7-2,merged,"cost: d20 500 used instead of Equipment 2000; long but light, like a WFRP spear or quarterstaff (Enc 2)"
+Great Lightsaber,Melee (2H),,8+Form Bonus,,,,1,0,-,Unique,,,,Equipment,sl100,Penetrating (8) Shield(3) Hack Damaging Not sold on any open market.
+Great Weapon,Melee (2H),,6+StrB,,,,2,1,300,Common,,,,Equipment,sl100,
+Improvised (Melee (2H)),Melee (2H),,2+StrB,,,,3,2,-,-,,,,Equipment,sl100,
+Staff,Melee (2H),,4+StrB,,,,2,1,25,Common,,,,Equipment,sl100,
 Atlatl,Melee weapon,Melee (1H),+SB+3,,,,1,0,50,,,,Atlatl/Legends,d20 Core table 7-2,converted,
 Cesta,Melee weapon,Melee (1H),+SB+3,,,,1,0,100,,,,Cesta/Legends,d20 Core table 7-2,converted,
 Club/baton,Melee weapon,Melee (1H),+SB+2,,,,1,0,15,,,"Pummel, Undamaging",,d20 Core table 7-2,converted,
@@ -162,16 +162,16 @@ Vibroknucklers,Melee weapon,Melee (Brawling),+SB+2,,,,0,0,200,Uncommon,R,,,d20 A
 Xana Exotic Arms MSW-8 Molecular Stiletto,Melee weapon,Melee (1H),+SB+2,,,,1,0,700,Uncommon,,,,d20 A&E p.30,converted,
 Z2 Stun Baton,Melee weapon,Melee (1H),,,,,1,0,700,Uncommon,R,"Pummel, Undamaging",Z2 Stun Baton/Legends,d20 A&E p.31,converted,"Merr-Sonn Munitions, Inc.; "
 Net,Net,Ranged (Exotic),,S,4,,1,0,25,,,Entangle,Net/Legends,d20 Core table 7-2,converted,
-Autopistol,Pistol,Ranged (Archaic),5,S,,20,0,0,325,Common,,Solid Projectile,,08 Equipment,sl100,
-Blaster Pistol,Pistol,Ranged (Blaster),7,M,20,20,1,0,500,Common,,,Blaster pistol/Legends,08 Equipment; d20 Core table 7-2,merged,"Standard sidearm of soldiers, bounty hunters, and civilians galaxy-wide. Reliable and versatile. enc: SL100 scale 1 instead of 08 0;"
-Disruptor Pistol,Pistol,Ranged (Blaster),XX,M,,,1,0,,Exotic,,,,08 Equipment,sl100,"Illegal in most jurisdictions; fires a beam that breaks molecular bonds, disintegrating targets."
-Hand Flamer,Pistol,Ranged (Archaic),8,S,,6,1,0,500,Rare,,,,08 Equipment,sl100,
-Heavy Blaster Pistol,Pistol,Ranged (Blaster),8,M,,,1,0,,Common,,Damaging,,08 Equipment,sl100,More powerful than a standard pistol; the DL-44 is the iconic example. Favoured by Han Solo.
-Hold-out Blaster,Pistol,Ranged (Blaster),6,S,,,0,0,,Scarce,,,,08 Equipment,sl100,"Compact, easily concealed pistol favoured by civilians, spies, and assassins. Short range, low power."
-Ion Pistol,Pistol,Ranged (Blaster),,S,,,1,0,,Scarce,,,,08 Equipment,sl100,Fires ionised energy bolts that disable droids and electronics without destroying them.
-Needle Pistol,Pistol,Ranged (Archaic),2,M,,4,1,0,300,Exotic,,Penetrating (6),,08 Equipment,sl100,
-Sporting Blaster,Pistol,Ranged (Blaster),6,M,,,1,0,,Common,,,,08 Equipment,sl100,Low-powered civilian blaster designed for hunting and personal protection; non-military appearance.
-Web Pistol,Pistol,Ranged (Archaic),-,S,,3,1,0,1000,Rare,,,,08 Equipment,sl100,
+Autopistol,Pistol,Ranged (Archaic),5,S,,20,0,0,325,Common,,Solid Projectile,,Equipment,sl100,
+Blaster Pistol,Pistol,Ranged (Blaster),7,M,20,20,1,0,500,Common,,,Blaster pistol/Legends,Equipment; d20 Core table 7-2,merged,"Standard sidearm of soldiers, bounty hunters, and civilians galaxy-wide. Reliable and versatile. enc: SL100 scale 1 instead of Equipment 0;"
+Disruptor Pistol,Pistol,Ranged (Blaster),XX,M,,,1,0,,Exotic,,,,Equipment,sl100,"Illegal in most jurisdictions; fires a beam that breaks molecular bonds, disintegrating targets."
+Hand Flamer,Pistol,Ranged (Archaic),8,S,,6,1,0,500,Rare,,,,Equipment,sl100,
+Heavy Blaster Pistol,Pistol,Ranged (Blaster),8,M,,,1,0,,Common,,Damaging,,Equipment,sl100,More powerful than a standard pistol; the DL-44 is the iconic example. Favoured by Han Solo.
+Hold-out Blaster,Pistol,Ranged (Blaster),6,S,,,0,0,,Scarce,,,,Equipment,sl100,"Compact, easily concealed pistol favoured by civilians, spies, and assassins. Short range, low power."
+Ion Pistol,Pistol,Ranged (Blaster),,S,,,1,0,,Scarce,,,,Equipment,sl100,Fires ionised energy bolts that disable droids and electronics without destroying them.
+Needle Pistol,Pistol,Ranged (Archaic),2,M,,4,1,0,300,Exotic,,Penetrating (6),,Equipment,sl100,
+Sporting Blaster,Pistol,Ranged (Blaster),6,M,,,1,0,,Common,,,,Equipment,sl100,Low-powered civilian blaster designed for hunting and personal protection; non-military appearance.
+Web Pistol,Pistol,Ranged (Archaic),-,S,,3,1,0,1000,Rare,,,,Equipment,sl100,
 Quarrels (10),Quarrels (10),,,,,,0,0,400,,,,,d20 Core table 7-2,converted,
 Rheshalva Interstellar Armaments Rodian Repulsor Throwing-Razor,Repulsor throwing-razor,Ranged (Thrown),7,M,20,,0,0,3000,Rare,L,,,d20 A&E p.37,converted,
 Sling,Sling,Ranged (Archaic),4,M,12,,0,0,35,,,,Sling/Legends,d20 Core table 7-2,converted,baseline: Bow
@@ -187,7 +187,7 @@ Oriolanis Defense Systems Blaster Buster,Slugthrower pistol J,Ranged (Archaic),7
 Adventurer,Slugthrower rifle,Ranged (Archaic),8,L,60,,2,1,360,Common,L,Solid Projectile,,d20 A&E p.23,converted,baseline: Slugthrower Rifle
 Dresselian Projectile Rifle (Typical Slugthrower Rifle),Slugthrower rifle,Ranged (Archaic),8,L,40,,2,1,300,Common,L,Solid Projectile,,d20 A&E p.23,converted,baseline: Slugthrower Rifle
 "Pacnorval Defense Systems, Limited Sg-B2 Sonic Rifle",Sonic weapon,Ranged (Blaster),9,S,8,,1,0,2000,Uncommon,R,"Stun, Spread",,d20 A&E p.36,converted,baseline: Sonic Blaster
-Sonic Pistol,Sonic weapon,Ranged (Blaster),8,S,4,,1,0,3000,Uncommon,L,"Stun, Spread",Sonic pistol,d20 A&E p.36; d20 A&E p.37,merged,baseline: Sonic Blaster cost: d20 3000 used instead of 08 1000;
+Sonic Pistol,Sonic weapon,Ranged (Blaster),8,S,4,,1,0,3000,Uncommon,L,"Stun, Spread",Sonic pistol,d20 A&E p.36; d20 A&E p.37,merged,baseline: Sonic Blaster cost: d20 3000 used instead of Equipment 1000;
 Defense Conglomerate Defender (Typical Sporting Blaster Pistol),Sporting blaster pistol,Ranged (Blaster),7,M,16,,1,0,300,Common,L,Stun setting,,d20 A&E p.14,converted,baseline: Sporting Blaster Pistol
 Luxan Penetrator MB-450,Sporting blaster pistol,Ranged (Blaster),8,M,12,,1,0,550,Rare,L,Stun setting,Penetrator MB-450,d20 A&E p.14,converted,"Luxan Personal Armaments, Ltd.; baseline: Sporting Blaster Pistol"
 "Model B ""Quick-B""",Sporting blaster pistol,Ranged (Blaster),6,M,16,,1,0,360,Common,L,Stun setting,,d20 A&E p.15,converted,baseline: Sporting Blaster Pistol
@@ -199,17 +199,17 @@ LD-1 Target Blaster Rifle,Sporting blaster rifle,Ranged (Blaster),9,E,80,,2,1,11
 X-45 Sniper Rifle,Sporting blaster rifle,Ranged (Blaster),8,E,100,,2,1,1000,Uncommon,M,Stun setting,X-45 sniper rifle,d20 A&E p.19,converted,SoroSuub Corporation; baseline: Sporting Blaster Rifle
 Xerrol Nightstinger,Sporting blaster rifle,Ranged (Blaster),8,E,80,,2,1,1500,Common,R,Stun setting,,d20 A&E p.19,converted,baseline: Sporting Blaster Rifle
 Squib Tensor Rifle,Tensor rifle,Ranged (Exotic),9,L,40,,2,1,10000,Rare,R,,Tensor rifle,d20 A&E p.37,converted,Amberlandrax Armaments; 
-Arkanian's Grenade,Thrown (Ranged Archaic),,11,,,,0,0,1000,Scarce,,,,08 Equipment,sl100,
-Choke Grenade,Thrown (Ranged Archaic),,-,,,,0,0,250,Common,,,,08 Equipment,sl100,
-Fire Bomb,Thrown (Ranged Archaic),,6,,,,1,0,750,Scarce,,,,08 Equipment,sl100,
-Frag Grenade,Thrown (Ranged Archaic),,10,,,,0,0,500,Common,,,,08 Equipment,sl100,Standard fragmentation grenade; produces a lethal shrapnel burst on detonation.
-Ion Grenade,Thrown (Ranged Archaic),,,,,,,,,,,,,08 Equipment,sl100,Grenade releasing an ion pulse; disables droids and electronic systems in the blast radius.
-Photon Flash Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Rare,,,,08 Equipment,sl100,
-Proton Grenade,Thrown (Ranged Archaic),,,,,,,,,,,,,08 Equipment,sl100,High-yield military grenade producing a proton detonation; restricted to military use.
-Smoke Grenade,Thrown (Ranged Archaic),,-,,,,0,0,250,Common,,,,08 Equipment,sl100,Grenade producing a dense smoke cloud obscuring vision and sensor targeting.
-Stun Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Common,,,,08 Equipment,sl100,Non-lethal grenade releasing a concussive stun pulse; used for crowd control and captures.
-Thermal Detonator,Thrown (Ranged Archaic),Ranged (Thrown),30,S,8,,0,0,2000,Scarce,,"Blast (3), Thrown",Thermal detonator/Legends,08 Equipment; d20 Core table 7-2,merged,Sphere-shaped high-yield explosive capable of levelling a room; iconic and feared galaxy-wide. cost: d20 2000 used instead of 08 10000;
-Web Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Rare,,,,08 Equipment,sl100,
+Arkanian's Grenade,Thrown (Ranged Archaic),,11,,,,0,0,1000,Scarce,,,,Equipment,sl100,
+Choke Grenade,Thrown (Ranged Archaic),,-,,,,0,0,250,Common,,,,Equipment,sl100,
+Fire Bomb,Thrown (Ranged Archaic),,6,,,,1,0,750,Scarce,,,,Equipment,sl100,
+Frag Grenade,Thrown (Ranged Archaic),,10,,,,0,0,500,Common,,,,Equipment,sl100,Standard fragmentation grenade; produces a lethal shrapnel burst on detonation.
+Ion Grenade,Thrown (Ranged Archaic),,,,,,,,,,,,,Equipment,sl100,Grenade releasing an ion pulse; disables droids and electronic systems in the blast radius.
+Photon Flash Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Rare,,,,Equipment,sl100,
+Proton Grenade,Thrown (Ranged Archaic),,,,,,,,,,,,,Equipment,sl100,High-yield military grenade producing a proton detonation; restricted to military use.
+Smoke Grenade,Thrown (Ranged Archaic),,-,,,,0,0,250,Common,,,,Equipment,sl100,Grenade producing a dense smoke cloud obscuring vision and sensor targeting.
+Stun Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Common,,,,Equipment,sl100,Non-lethal grenade releasing a concussive stun pulse; used for crowd control and captures.
+Thermal Detonator,Thrown (Ranged Archaic),Ranged (Thrown),30,S,8,,0,0,2000,Scarce,,"Blast (3), Thrown",Thermal detonator/Legends,Equipment; d20 Core table 7-2,merged,Sphere-shaped high-yield explosive capable of levelling a room; iconic and feared galaxy-wide. cost: d20 2000 used instead of Equipment 10000;
+Web Grenade,Thrown (Ranged Archaic),,-,,,,0,0,600,Rare,,,,Equipment,sl100,
 Galan Arms Vac Attack Mk-127,Wrist-mounted blade launcher,Ranged (Exotic),9,S,8,,3,2,700,Uncommon,R,,Vac Attack Mk-127/Legends,d20 A&E p.27,converted,Golan Arms; 
 Drolan Plasteel QuickShot Wrist-Caster,Wrist-mounted crossbow,Ranged (Exotic),4,S,8,,1,0,500,Uncommon,R,,,d20 A&E p.27,converted,
 LG-5 Laser Gauntlet,Wrist-mounted laser,Ranged (Exotic),6,M,20,,1,0,1500,Uncommon,R,,LG-5 laser gauntlet,d20 A&E p.28,converted,Prax Arms; 

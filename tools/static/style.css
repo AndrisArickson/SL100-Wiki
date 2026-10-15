@@ -72,3 +72,16 @@ main:has(.sl-hero)>h1{display:none}
 header .logo{font-family:"Bruno Ace SC",system-ui,sans-serif;letter-spacing:.06em}
 /* narrow screens: pictures sit above their text instead of squeezing it */
 @media(max-width:700px){figure.thumb.tright,figure.thumb.tleft,figure.thumb.tnone{float:none;margin:6px 0 10px;width:auto!important;max-width:100%}figure.thumb img{max-width:100%;height:auto}}
+/* reviewer workflow: draft banners, diffs, hidden review notes */
+.draftnote{margin:0 0 12px;padding:8px 12px;border-left:4px solid #d08a00;background:rgba(208,138,0,.12);font-size:.9em}
+.draftnote.submitted{border-color:#2e8b57;background:rgba(46,139,87,.12)}.draftnote.error{border-color:#c0392b;background:rgba(192,57,43,.12)}
+.draftnote form{margin:0}.linkish{background:none;border:0;padding:0;color:var(--accent);text-decoration:underline;cursor:pointer;font:inherit}
+.diff{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.82em;border:1px solid rgba(127,127,127,.4);overflow-x:auto}
+.diff div{white-space:pre-wrap;padding:0 6px}.d-add{background:rgba(46,139,87,.18)}.d-del{background:rgba(192,57,43,.18)}.d-hunk{color:var(--muted);background:rgba(127,127,127,.12)}
+.sl-review{display:none}
+.show-review .sl-review{display:inline;background:rgba(208,138,0,.18);border:1px dashed #d08a00;border-radius:4px;padding:0 4px;font-size:.88em}
+.sl-review-toggle{float:right;margin:0 0 8px 8px;font-size:.8em}
+/* reviewer image download / upload */
+.imgpanel{margin:20px 0;border:1px solid rgba(127,127,127,.35);border-radius:6px;padding:6px 10px}
+.imgpanel summary{cursor:pointer;font-weight:bold}.imgpanel td{vertical-align:top}
+.imgctl{font-size:.85em}.imgctl form{margin:4px 0}.imgdiff{display:flex;gap:16px;flex-wrap:wrap}.imgdiff figure{margin:0}

@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Skills|status=Draft (about 65%)|source=06 New Star Wars - Skills.md}}
+<!-- Built from 06 New Star Wars - Skills.md by tools/build_pages.py -->
+{{SL100 Rules|section=Skills|status=Draft (about 65%)}}
 Every '''skill''' in the game, the characteristic it is tested against, whether it is Basic or Advanced, and its specialisations.
 
 Skills
@@ -13,21 +14,21 @@ Blasting away at a door/object? Using a simple weapon skill in an Opposed check 
 
 Advanced Skills require specialist knowledge, training, or firsthand experience to even attempt to use. You may only Test an Advanced Skill if you have taken at least one Advance in it. If you have not, you cannot attempt to Test the Skill. So, no matter how intelligent you are, you will not understand the finer points of law without the Lore (Law) Skill.
 
-=== Complete Skill List ===
+'''Complete Skill List'''
 
-=== Basic Skills ===
+'''Basic Skills'''
 
-Art, Athletics, Bribery, Charm, Climb, Consume Intoxicant, Cool, Dodge, Endurance, Entertain, Gamble, Gossip, Haggle, Intimidate, Intuition, Leadership, Melee (1H, 2H, Brawling, *Lightsaber), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Pilot (Starship), Ride (Air/Land/Water), Stealth (Rural/Underground/Urban)
+Art, Athletics, Bribery, Charm, Climb, Consume Intoxicant, Cool, Dodge, Endurance, Entertain, Gamble, Gossip, Haggle, Intimidate, Intuition, Leadership, Melee (1H/2H/Brawling/*Lightsaber), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Pilot (Starship), Ride (Air/Land/Water), Stealth (Rural/Underground/Urban)
 
 *Lightsabers impose a penalty of -20 to wielders who are not force sensitive.
 
 Example: Adhemar has an Intelligence of 36 and no Advances in either the Basic Gamble Skill or the Advanced Medicine Skill, both based on Intelligence. He can Test the Gamble Skill at 36% as it is Basic, and anyone can Test Basic Skills. The Medicine Skill is an Advanced Skill, so Adhemar has no idea how to patch up wounds beyond screaming loudly for a doctor!
 
-=== Advanced Skills ===
+'''Advanced Skills''' 
 
-Codes (Faction), Creature Care, Creature Training, Demolitions, Evaluate, Language, Lore, Medicine, Meditate, Perform, Pilot (Capital Ship), Play, Profession, Ranged (Blaster, Archaic, Thrown, Exotic, Ordnance), Research, Sleight of Hand, Slice Security System, Swim, Track, Use the Force
+Codes (Faction), Creature Care, Creature Training, Demolitions, Evaluate, Language, Lore, Medicine, Meditate, Perform, Pilot (Capital Ship), Play, Profession, Ranged (Archaic/Blaster/Exotic/Ordnance/Thrown), Research, Sleight of Hand, Slice Security System, Swim, Track, Use the Force
 
-=== Grouped Skills and Specialisation ===
+'''Grouped Skills and Specialisation'''
 
 Some Skills are classified as Grouped. This means the Skill is an array of related Skills under one heading. Each related Skill is called a Specialisation. When a Specialisation is mentioned in the rules, it is marked in brackets. 
 
@@ -47,15 +48,15 @@ Create works of art in your chosen medium. Not having access to appropriate Prof
 
 === Athletics (Ag) basic ===
 
-Your ability to run, jump and move with speed or grace, and to perform any general physical activity. Refer to Moving (see page 164) for details on using Athletics in combat movement.
+Your ability to run, jump and move with speed or grace, and to perform any general physical activity. Refer to [[SL100:How to Play#Movement and Time in Rounds|Movement]] for details on using Athletics in combat movement.
 
 === Bribery (Fel) basic ===
 
-Your ability to judge how likely a person is to accept a bribe, and how best to offer the bribe so they will accept it. A successful Bribery Test tells you if a target may be bribed. If so, your GM will secretly determine the price of their cooperation using the target’s Earnings (see page 52), increasing the amount according to their usual honesty and the risk involved in taking the bribe. You then guess that target amount and the GM will tell you if the price is higher, lower, or equal. Each SL from your initial Bribery Test gives you another guess. At the end of this process, you determine how much credits to offer, based on what you have gleaned.
+Your ability to judge how likely a person is to accept a bribe, and how best to offer the bribe so they will accept it. A successful Bribery Test tells you if a target may be bribed. If so, your GM will secretly determine the price of their cooperation using the target’s Status (see [[SL100:How to Play#Status and Standing|Status and Standing]]), increasing the amount according to their usual honesty and the risk involved in taking the bribe. You then guess that target amount and the GM will tell you if the price is higher, lower, or equal. Each SL from your initial Bribery Test gives you another guess. At the end of this process, you determine how much credits to offer, based on what you have gleaned.
 
 Example: Snorri is trying to bribe his way past a city watchman; a character of the Lower-class Tier 2, meaning they roll 4d10 credits for Income. The GM decides the guard can be bribed and secretly rolls 21 on the 4d10, meaning the price for bribing the guard is 21 credits. Letting Snorri through isn’t too risky for the watchman, and he does it often, so the GM doesn’t increase the bribe required. Snorri rolls 1 SL on his Bribery Test; so, he knows the watchman is open to a bribe, and has 2 guesses as to his price. Snorri’s first guess is 15 credits, to which his GM replies ‘higher’. His second guess is 40, to which his GM replies ‘lower’. Snorri now knows he must bribe the watchman between 15 and 40 credits, so decides to aim high, and offers 30. Smiling, the watchman waves Snorri through.
 
-Public Speaking The Charm Skill can be used to make impressive speeches to sway multiple targets to your way of thinking. Assuming they can hear you and are inclined to listen, you can influence up to your Fellowship Bonus + SL targets with a single Charm Test, influencing targets with the lowest Willpower first. If the crowd is unruly, or not receptive to your words, the Test is Opposed by the crowd’s average Willpower (typically 35). A failure shows the crowd is unconvinced. The Public Speaking and Master Orator Talents can significantly increase the number of people you affect with public speaking. An Astounding Failure (-6) (see page 152) in a Charm Test means your crowd quickly becomes an angry mob, with you as the target of their ire…
+Public Speaking The Charm Skill can be used to make impressive speeches to sway multiple targets to your way of thinking. Assuming they can hear you and are inclined to listen, you can influence up to your Fellowship Bonus + SL targets with a single Charm Test, influencing targets with the lowest Willpower first. If the crowd is unruly, or not receptive to your words, the Test is Opposed by the crowd’s average Willpower (typically 35). A failure shows the crowd is unconvinced. The Public Speaking and Master Orator Talents can significantly increase the number of people you affect with public speaking. An Astounding Failure (-6) (see [[SL100:How to Play#Tests|Tests]]) in a Charm Test means your crowd quickly becomes an angry mob, with you as the target of their ire…
 
 In combat, you may use Bribery as above to try to stop the fight, but treat the Test as Hard (–20) owing to the stress of the situation. If your target is not susceptible, you cannot afford the fee, or your foes do not speak your language, your pathetic attempts to buy them off will be doomed to fail. Of course, if they have the advantage of numbers, what’s to prevent them from taking all of your credits?
 
@@ -87,7 +88,7 @@ The ability to ascend steep or vertical surfaces.
 
 3-4 If time isn’t an issue, and a climb is relatively easy, anyone with Climb Skill is automatically assumed to be able to climb any reasonably small height.
 
-5-6 For any other climbing, refer to page 165, which also handles Climbing during combat. You may even find yourself climbing large opponents, though whether that is prudent is debatable.
+5-6 For any other climbing, see [[SL100:How to Play#Movement and Time in Rounds|Movement]], which also covers climbing during combat. You may even find yourself climbing large opponents, though whether that is prudent is debatable.
 
 === Codes (Int) advanced, grouped ===
 
@@ -101,23 +102,23 @@ Your ability to handle alcohol without letting it cloud your judgment or render 
 
 After each alcoholic drink make a Consume Intoxicant Test, modified by the strength of the drink. For each Test you fail, you suffer a –10 penalty to WS, BS, Ag, Dex, and Int, to a maximum of –30 per Characteristic. After you fail a number of Tests equal to your Toughness Bonus, you are Stinking Drunk. Roll on the following table to see what happens:
 
-=== 1d10 Stinking Drunk ===
+'''1d10 Stinking Drunk'''
 
-1-2 ‘Why’s Everything Wobbling!’: On your Turn, you can either Move or take an Action, but not both (see page 157).
+1-2 ‘Why’s Everything Wobbling!’: On your Turn, you can either Move or take an Action, but not both (see [[SL100:How to Play#Movement and Time in Rounds|Rounds]]).
 
-3-4 ‘You’re My Besht Mate!’: Ignore all your existing Prejudices and Animosities (see page 190).
+3-4 ‘You’re My Besht Mate!’: Ignore all your existing Prejudices and Animosities (see [[SL100:How to Play#Fear, Rage and the Mind|Fear, Rage and the Mind]]).
 
-5-6 ‘How Did I Get here?’: You wake up the next day, massively hungover, with little memory of what transpired. The GM and other players with you will fill in the embarrassing gaps if 7-8 you investigate. Pass a Consume Intoxicant Test or also gain a Poisoned Condition (see page 169).
+5-6 ‘How Did I Get here?’: You wake up the next day, massively hungover, with little memory of what transpired. The GM and other players with you will fill in the embarrassing gaps if 7-8 you investigate. Pass a Consume Intoxicant Test or also gain a Poisoned Condition (see [[SL100:How to Play#Conditions|Conditions]]).
 
 9 ‘Corellian’s Courage!’: Gain a bonus of +20 to your Cool Skill.
 
-10 ‘I’ll Take Yer All On!’: Gain Animosity (Everybody!) (see page 190).
+10 ‘I’ll Take Yer All On!’: Gain Animosity (Everybody!) (see [[SL100:How to Play#Fear, Rage and the Mind|Fear, Rage and the Mind]]).
 
-After not drinking for an hour, enact a Challenging (+0) Consume Intoxicant Test. The effects of being drunk will wear off after 10–SL hours, with any Characteristic modifiers for being drunk lost over that time. After all effects wear off, enact another Challenging (+0) Consume Intoxicant Test. You now gain a hangover, which is an Fatigued Condition that cannot be removed for 5–SL hours. You may expend 1 Resolve point to ignore the negative modifiers of being drunk until the end of the next round (see page 171).
+After not drinking for an hour, enact a Challenging (+0) Consume Intoxicant Test. The effects of being drunk will wear off after 10–SL hours, with any Characteristic modifiers for being drunk lost over that time. After all effects wear off, enact another Challenging (+0) Consume Intoxicant Test. You now gain a hangover, which is an Fatigued Condition that cannot be removed for 5–SL hours. You may expend 1 Resolve point to ignore the negative modifiers of being drunk until the end of the next round.
 
 === Cool (WP) basic ===
 
-Cool allows you to remain calm under stress, resist fear when faced with horror, and stick to your convictions. Cool is generally used to resist other Skills — Charm, Intimidate, and similar — but you may also be required to make a Cool Test when faced with anything forcing you to do something you would rather not. Cool is also the primary Skill used to limit Psychology (see page 190).
+Cool allows you to remain calm under stress, resist fear when faced with horror, and stick to your convictions. Cool is generally used to resist other Skills — Charm, Intimidate, and similar — but you may also be required to make a Cool Test when faced with anything forcing you to do something you would rather not. Cool is also the primary Skill used to limit Psychology (see [[SL100:How to Play#Fear, Rage and the Mind|Fear, Rage and the Mind]]).
 
 === Creature Care (Int) advanced ===
 
@@ -131,13 +132,13 @@ Animals Whether a creature does, or does not come under the auspices of Creature
 
 === Creature Training (Int) advanced, grouped ===
 
-Creature Training represents your understanding of a particular type of animal, and your ability to train them. A successful use of the Skill allows you to identify the Trained abilities possessed by an animal belonging to your Specialisation (see page 118). The Creature Training Skill also allows you to undertake the Creature Training Endeavour between adventures (see page 196). In combat, a successful Opposed Creature Training/Willpower Test allows you to intimidate a single animal belonging to your Specialisation; you cause Fear in the animal targeted until the end of your next turn (see page 190). When causing Fear in this way,you may subsequently use your Creature Training Skill instead of Melee when defending against your target; with your GM’s approval you may also use Creature Training to attack your target, issuing specific commands. Example: Facing a slavering war-hound, Ilse passes an Opposed Creature Training (Akk Dog) roll, in the first round of combat, causing Fear in the beast, and gaining +1 Advantage. In the next round she ‘attacks’ her target with her Creature Training Skill, beating the dog’s defence. Her GM allows her to instruct the beast to flee, which it does, its tail between its legs. Specialisations: Bantha, Tauntaun, Dewback, Varactyl, Massiff, Nexu, Akk Dog, Mynock
+Creature Training represents your understanding of a particular type of animal, and your ability to train them. A successful use of the Skill allows you to identify the Trained abilities possessed by an animal belonging to your Specialisation. The Creature Training Skill also allows you to undertake the Creature Training Endeavour between adventures (see [[SL100:How to Play#Between Adventures|Between Adventures]]). In combat, a successful Opposed Creature Training/Willpower Test allows you to intimidate a single animal belonging to your Specialisation; you cause Fear in the animal targeted until the end of your next turn (see [[SL100:How to Play#Fear, Rage and the Mind|Fear, Rage and the Mind]]). When causing Fear in this way,you may subsequently use your Creature Training Skill instead of Melee when defending against your target; with your GM’s approval you may also use Creature Training to attack your target, issuing specific commands. Example: Facing a slavering war-hound, Ilse passes an Opposed Creature Training (Akk Dog) roll, in the first round of combat, causing Fear in the beast, and gaining +1 Advantage. In the next round she ‘attacks’ her target with her Creature Training Skill, beating the dog’s defence. Her GM allows her to instruct the beast to flee, which it does, its tail between its legs. Specialisations: Bantha, Tauntaun, Dewback, Varactyl, Massiff, Nexu, Akk Dog, Mynock
 
 === Dodge (Ag) basic ===
 
 Dodge is your ability to avoid things, through ducking, diving, and moving quickly, and is used extensively to sidestep falling rocks, incoming weapons, unexpected traps, and the like.
 
-In combat, Dodge is generally used to resist attacks or avoid damage. Refer to Chapter 5: Rules for more on this.
+In combat, Dodge is generally used to resist attacks or avoid damage. Refer to [[SL100:Combat|Combat]] for more on this.
 
 === Entertain (Fel) basic, grouped ===
 
@@ -151,7 +152,7 @@ Lets you determine the value of rare artefacts, unusual trade goods, and works o
 
 === Demolitions (Dex) advanced ===
 
-From a simple tripwire, or proximity mine, to more spectacular devices like Czerka Intruder-Snare, players are unlikely to venture far in the galaxy without encountering traps. The Demolitions Skill measures your ability to set and disarm traps of all varieties. Anyone with the skill is automatically assumed to be able to activate and disarm traps given enough time. A Test is normally only required if attempting to use the Skill swiftly or if otherwise under pressure, or if the trap is especially complex. A selection of simple traps can be found in Chapter 11: Consumers’ Guide.
+From a simple tripwire, or proximity mine, to more spectacular devices like Czerka Intruder-Snare, players are unlikely to venture far in the galaxy without encountering traps. The Demolitions Skill measures your ability to set and disarm traps of all varieties. Anyone with the skill is automatically assumed to be able to activate and disarm traps given enough time. A Test is normally only required if attempting to use the Skill swiftly or if otherwise under pressure, or if the trap is especially complex. A selection of simple traps can be found in [[SL100:Equipment|Equipment]].
 
 If you pass the Perception Test, and fail the Stealth Test you follow your target, but are spotted. If you fail the Perception Test, yet pass the Stealth Test, you lose your target, but go unnoticed.
 
@@ -175,7 +176,7 @@ Half-heard Whispers While it may be expedient for GMs to quickly share informati
 
 === Haggle (Fel) basic ===
 
-Haggle allows you to secure better deals when negotiating with others. In general, Haggle is used to see whether you do, or do not, make a good deal, most commonly with an Opposed Haggle Test. Specifically, it can be used when shopping to secure better prices. For information on this, refer to Chapter 11: Consumers’ Guide.
+Haggle allows you to secure better deals when negotiating with others. In general, Haggle is used to see whether you do, or do not, make a good deal, most commonly with an Opposed Haggle Test. Specifically, it can be used when shopping to secure better prices. For information on this, refer to [[SL100:Equipment|Equipment]].
 
 === Intimidate (S) basic ===
 
@@ -202,7 +203,7 @@ The Intuition Skill allows you to get a feel for your surroundings, leading you 
 
 The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak Galactic Basic, without ever having to Test. If your game is not set in the Galactic Empire, replace Galactic Basic with the local language. If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.
 
-Note: Language (The Force) is used to use Force powers and may occasionally be Tested, with… unpleasant consequences if failed. Refer to Chapter 8: The Force, for more on this.
+Note: Language (The Force) is used to use Force powers and may occasionally be Tested, with… unpleasant consequences if failed. Refer to [[SL100:The Force|The Force]] for more on this.
 
 Specialisations: Basic (Galactic Standard), Huttese, Mando’a, Shyriiwook, Bocce, Ryl, Rodese, Sullustese, Ewokese, Jawaese, Binary (droidspeak), Sith, Ancient Sith, Old Galactic Standard, Military Cant, Hand Sign, Trade Cant, Underworld Cant, Diplomacy, The Force
 
@@ -212,7 +213,7 @@ Options: Battle Tongue Battle Tongue represents a series of simple commands and 
 
 GM to supply you with relevant facts. If you are seeking specific, less well-known information, you will be required to make a Lore Test, modified by how obscure the information is, with the SL indicating how much detail you recall.
 
-A measure of your ability to lead others and command their respect. While most often associated with martial situations, a resolute leader can quickly direct a fast response to a fire or other such calamity, and nobles use the Skill frequently to command their lessers. A successful Leadership Test allows you to issue orders to a number of targets equal to your Fellowship Bonus + SL. If the targets are your natural subordinates — a noble commanding serfs, or a sergeant commanding his troops — commands are usually unopposed. If there is no natural hierarchy in place, or the order is particularly challenging — such as ordering your soldiers to charge a Hydra head on — the Test is Opposed by your targets’ Cool. In combat, you may use Leadership to encourage your subordinates. A successful Leadership Test confers a bonus of +10 to all Psychology Tests until the end of the next round (see page 190). Further, Leadership can be used to transfer Advantage to allies able to hear you; following a successful Leadership Test, you may transfer an Advantage to one ally of your choice, plus a further +1 Advantage per SL scored, which can again go to any allies of your choice within earshot. Example: Lord Ludwig von Schemp has been watching his two bodyguards discourse with some ruffians for three Rounds, using his Intuition Skill to build up 3 Advantage. Feeling it is going nowhere, he issues a peremptory order to attack the ringleader; passing his Leadership Test with 5 SL, he gives one bodyguard 2 of his Advantage, and the remaining bodyguard 1 Advantage, hoping this will bring a swift end to proceedings.
+A measure of your ability to lead others and command their respect. While most often associated with martial situations, a resolute leader can quickly direct a fast response to a fire or other such calamity, and nobles use the Skill frequently to command their lessers. A successful Leadership Test allows you to issue orders to a number of targets equal to your Fellowship Bonus + SL. If the targets are your natural subordinates — a noble commanding serfs, or a sergeant commanding his troops — commands are usually unopposed. If there is no natural hierarchy in place, or the order is particularly challenging — such as ordering your soldiers to charge a Hydra head on — the Test is Opposed by your targets’ Cool. In combat, you may use Leadership to encourage your subordinates. A successful Leadership Test confers a bonus of +10 to all Psychology Tests until the end of the next round (see [[SL100:How to Play#Fear, Rage and the Mind|Fear, Rage and the Mind]]). Further, Leadership can be used to transfer Advantage to allies able to hear you; following a successful Leadership Test, you may transfer an Advantage to one ally of your choice, plus a further +1 Advantage per SL scored, which can again go to any allies of your choice within earshot. Example: Lord Ludwig von Schemp has been watching his two bodyguards discourse with some ruffians for three Rounds, using his Intuition Skill to build up 3 Advantage. Feeling it is going nowhere, he issues a peremptory order to attack the ringleader; passing his Leadership Test with 5 SL, he gives one bodyguard 2 of his Advantage, and the remaining bodyguard 1 Advantage, hoping this will bring a swift end to proceedings.
 
 Who’s the Boss? GMs should be aware that having Players issue orders to other Players may cause friction within the party. If you have Players who are of differing social class, or military ranks, be sure to discuss how this will be reflected in your intraparty dynamics to ensure a smooth and enjoyable game for everyone.
 
@@ -226,9 +227,9 @@ In combat, successful Lore Tests may afford you +1 Advantage if appropriate (wit
 
 You’ve been trained to deal with injuries and diseases. A successful Medicine Test allows you to do one of the following:
 
-Diagnose an illness, infection, or disease. Treat a disease (see page 188). Medicine wounds equal to your Intelligence Bonus + SL (Note: a patient can only benefit from one Medicine roll after each encounter). If sterile liquids or appropriate poultices and dressings are used, no Infection will develop from the injury (see page 181). Staunch a Bleeding Condition, with each SL removing an extra Bleeding Condition.
+Diagnose an illness, infection, or disease. Treat a disease (see [[SL100:How to Play#Wounds and Injury|Wounds and Injury]]). Medicine wounds equal to your Intelligence Bonus + SL (Note: a patient can only benefit from one Medicine roll after each encounter). If sterile liquids or appropriate poultices and dressings are used, no Infection will develop from the injury (see [[SL100:How to Play#Wounds and Injury|Wounds and Injury]]). Staunch a Bleeding Condition, with each SL removing an extra Bleeding Condition.
 
-A Failed Medicine Test can potentially cause Wounds if your Intelligence Bonus + SL totals less than 0. On an Astounding Failure, your patient will also contract a Minor Infection (see page 187). If administering to someone who has a disease, a successful Medicine Test ensures that you do not contract the disease for that day. Each SL also prevents one other character encountering the patient that day from catching the disease. For each full day the patient spends resting under your care, the duration of the disease is reduced by one, to a minimum of one. For more information see Disease and Infection in Chapter 5: Rules. Certain injuries require Surgery; see the Surgery Talent for details. For more information on healing wounds, refer to Injury in Chapter 5: Rules. Your GM may apply modifiers to Medicine Tests to reflect the virulence of the disease, the suitability of conditions and materials, or the stress of your circumstances. If healing during combat, Tests will likely be Challenging (+0) at the very least.
+A Failed Medicine Test can potentially cause Wounds if your Intelligence Bonus + SL totals less than 0. On an Astounding Failure, your patient will also contract a Minor Infection (see [[SL100:How to Play#Wounds and Injury|Wounds and Injury]]). If administering to someone who has a disease, a successful Medicine Test ensures that you do not contract the disease for that day. Each SL also prevents one other character encountering the patient that day from catching the disease. For each full day the patient spends resting under your care, the duration of the disease is reduced by one, to a minimum of one. For more information see Disease and Infection in [[SL100:How to Play|How to Play]]. Certain injuries require Surgery; see the Surgery Talent for details. For more information on healing wounds, refer to Wounds and Injury in [[SL100:How to Play|How to Play]]. Your GM may apply modifiers to Medicine Tests to reflect the virulence of the disease, the suitability of conditions and materials, or the stress of your circumstances. If healing during combat, Tests will likely be Challenging (+0) at the very least.
 
 === Meditate (WP) advanced ===
 
@@ -244,7 +245,7 @@ In combat, if the GM allows it, you may spend your Action centring yourself. Eac
 
 === Melee (WS) basic, grouped ===
 
-The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialisation indicates training in using a specific class of weapon. If you don’t have the correct Specialisation for a weapon you wish to use, refer to Chapter 11: Consumers’ Guide for the correct weapon entry, and what penalties you will suffer.See Chapter 5: Rules for more detail about combat and using the Melee Skill. Specialisations: 1H (one-handed weapons: vibroblades, vibroknives, stun batons, axes, clubs, swords and improvised weapons held in one hand), 2H (weapons that need both hands: vibro-axes, force pikes, electrostaffs, quarterstaffs and other great weapons), Brawling (unarmed strikes, knuckle-dusters, shock gloves, grapples and wrestling; also used to defend when you have no weapon), *Lightsaber (all lightsabers, including double-bladed sabers and lightsaber pikes; −20 unless you have Force Sensitive). A weapon used with the wrong Specialisation is Tested on bare Weapon Skill (see Chapter 10).
+The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialisation indicates training in using a specific class of weapon. If you don’t have the correct Specialisation for a weapon you wish to use, refer to [[SL100:Equipment|Equipment]] for the correct weapon entry, and what penalties you will suffer.See [[SL100:Combat|Combat]] for more detail about combat and using the Melee Skill. Specialisations: 1H (one-handed weapons: vibroblades, vibroknives, stun batons, axes, clubs, swords and improvised weapons held in one hand), 2H (weapons that need both hands: vibro-axes, force pikes, electrostaffs, quarterstaffs and other great weapons), Brawling (unarmed strikes, knuckle-dusters, shock gloves, grapples and wrestling; also used to defend when you have no weapon), *Lightsaber (all lightsabers, including double-bladed sabers and lightsaber pikes; −20 unless you have Force Sensitive). A weapon used with the wrong Specialisation is Tested on bare Weapon Skill (see [[SL100:Combat|Combat]]). Careers and Origins write a choice of Specialisations with slashes, e.g. Melee (1H/2H): you pick one and record it as a single skill, e.g. Melee (1H). Only careers with a Force tradition offer Lightsaber.
 
 === Navigation (I) basic ===
 
@@ -258,7 +259,7 @@ Options: Gathering Food and Herbs Gathering food or herbs normally takes around 
 
 Hunting and foraging parties make one Assisted Outdoor Survival Test for the group, with the Difficulty determined by the circumstances, the surrounding environment and your opponents, as determined by the GM.
 
-Foraging: A success grants enough food for one character. Every SL yields sufficient extra food for one more person. Hunting and Fishing: If you have appropriate bows, spears, fishing rods, or nets, a successful Test feeds two people, and an extra two people per SL. Trapping: Use the Demolitions Skill to place Animal traps (see page 303). Feeds the same number of people as Hunting and Fishing. Lore (Xenology): If you are instead gathering herbs using Lore (Xenology), a success gathers enough for a dose of the sought herb (see page 307), with each SL adding an extra dose. Gathering tests are modified by herb Availability: Common (0), Scarce (–10), Rare (–20), or Exotic (–30).
+Foraging: A success grants enough food for one character. Every SL yields sufficient extra food for one more person. Hunting and Fishing: If you have appropriate bows, spears, fishing rods, or nets, a successful Test feeds two people, and an extra two people per SL. Trapping: Use the Demolitions Skill to place Animal traps. Feeds the same number of people as Hunting and Fishing. Lore (Xenology): If you are instead gathering herbs using Lore (Xenology), a success gathers enough for a dose of the sought herb, with each SL adding an extra dose. Gathering tests are modified by herb Availability: Common (0), Scarce (–10), Rare (–20), or Exotic (–30).
 
 === Perform (Ag) advanced, grouped ===
 
@@ -318,7 +319,7 @@ In combat, Pilot (Speeder) may be used if circumstances allow, for instance, if 
 
 === Pilot (Starship) (Ag) basic ===
 
-Your prowess at pulling an oar and moving a boat through the water. The Pilot (Starship) Skill is typically only used when racing, navigating rapids, desperately avoiding Sarlacc, or similar unusual or dangerous feats. Anyone with the Skill is automatically presumed
+Your prowess at flying a starship, from a light freighter to a starfighter. The Pilot (Starship) Skill is typically only used when racing, threading an asteroid field, evading pursuit, or similar unusual or dangerous feats. Anyone with the Skill is automatically presumed able to fly a starship under normal conditions.
 
 === Pilot (Capital Ship) (Ag) advanced, grouped ===
 
@@ -336,17 +337,17 @@ Most folk of the Core Worlds follow a trade; even adventurers often have a more 
 
 The Profession Skill represents your ability to create something or provide a service, as well as your knowledge of the relevant lore surrounding your trade. Having the Skill is enough to automatically perform the tasks associated with your trade, assuming you have the correct resources and tools. You need only Test your Profession Skill if you are seeking to create something quickly, conditions are adverse, or you are seeking to invent or create a high-quality item. Often Profession Tests of this type are extended Test, with the SL and time required depending upon the scope or scale of what is being produced; a quick meal with Profession (Cook) to impress a local lord will take far less time than constructing a warship with Profession (Starship Engineer). 
 
-You may also make a Profession Test as a Lore Skill, to determine information relevant to the trade in question. In such circumstances, the GM may prefer to use Int over Dex as the base Characteristic, though often this is ignored to keep play simple. While most Profession Skills have little function in combat, there are as many Profession Skills as there are trades, and some may be of use depending upon the circumstances. For example, a successful Profession (Medic) Test may be useful if fighting in a Medbay as you identify some astringent chemicals to hurl at your foes. The Profession Skill is also used for enacting a Crafting Endeavour (see page 197). 
+You may also make a Profession Test as a Lore Skill, to determine information relevant to the trade in question. In such circumstances, the GM may prefer to use Int over Dex as the base Characteristic, though often this is ignored to keep play simple. While most Profession Skills have little function in combat, there are as many Profession Skills as there are trades, and some may be of use depending upon the circumstances. For example, a successful Profession (Medic) Test may be useful if fighting in a Medbay as you identify some astringent chemicals to hurl at your foes. The Profession Skill is also used for enacting a Crafting Endeavour (see [[SL100:How to Play#Between Adventures|Between Adventures]]). 
 
 Specialisations: Mechanic, Droid Technician, Slicer, Cybernetics, Medic, Starship Engineer, Weapons Technician, Armourer, Art Supplies, Artist, Astrogator, Brewer, Charms, Chemist, Demolitionist, Engineer, Engraver, Fabricator, Journalist, Pharmacist, Poisoner, Speeder Mechanic, Starship Mechanic, Stellar Cartographer, Tinker, Vintner, Weaponsmith
 
 === Ranged (BS) advanced, grouped ===
 
-Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialisation is specific to a group of ranged weapons. If you don’t have the Ranged Specialisation for a weapon you wish to use, refer to Chapter 11: Consumers’ Guide to see what penalties you will suffer when using the weapon. See Chapter 5: Rules for full detail about ranged combat. Specialisations: Blaster (every blaster from hold-out pistols to heavy repeating blasters and the E-Web, together with ion, disruptor and sonic weapons: the standard ranged skill of the galaxy), Archaic (bows, crossbows, slings, slugthrowers, bowcasters and any other projectile weapon that must be aimed rather than pointed), Thrown (grenades, thermal detonators, throwing knives, darts, spears and anything else hurled by hand), Exotic (nets and net launchers, whips used at range, flame projectors, glue and adhesive projectors, dart and flechette launchers, wrist-mounted weapons, Mandalorian mini-rockets and other unusual ranged weapons), Ordnance (missile and rocket launchers, grenade launchers, mortars and crew-served artillery fired by hand; mounted vehicle and starship weapons are covered in the Starships chapter). A weapon used with the wrong Specialisation is Tested on bare Ballistic Skill with the weapon's penalties (see Chapter 10).
+Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialisation is specific to a group of ranged weapons. If you don’t have the Ranged Specialisation for a weapon you wish to use, refer to [[SL100:Equipment|Equipment]] to see what penalties you will suffer when using the weapon. See [[SL100:Combat|Combat]] for full detail about ranged combat. Specialisations: Archaic (bows, crossbows, slings, slugthrowers, bowcasters and any other projectile weapon that must be aimed rather than pointed), Blaster (every hand-held blaster from hold-out pistols to blaster rifles and repeating blasters, together with ion, disruptor and sonic weapons: the skill for any futuristic personal weapon and the standard ranged skill of the galaxy), Exotic (nets and net launchers, whips used at range, flame projectors, glue and adhesive projectors, dart and flechette launchers, wrist-mounted weapons, Mandalorian mini-rockets and other unusual ranged weapons), Ordnance (large, heavy and turreted weapons: missile and rocket launchers, grenade launchers, mortars, the E-Web and other crew-served or tripod weapons, and the turreted and mounted guns of vehicles and starships: for simplicity every starship weapon uses this skill), Thrown (grenades, thermal detonators, throwing knives, darts, spears and anything else hurled by hand). Careers and Origins write a choice with slashes, e.g. Ranged (Blaster/Ordnance). A weapon used with the wrong Specialisation is Tested on bare Ballistic Skill with the weapon's penalties (see [[SL100:Combat|Combat]]).
 
 === Research (Int) advanced ===
 
-How adept you are at pulling useful and frequently obscure knowledge from archives and other such storehouses of information. Research requires you have the Datapad Literacy Talent (see page142). Simply possessing the Research Skill indicates you can find straightforward information from a clearly indexed archive without a Test given enough time. If you are seeking specific,
+How adept you are at pulling useful and frequently obscure knowledge from archives and other such storehouses of information. Research requires the [[SL100:Talents#Datapad Use|Datapad Use]] Talent. Simply possessing the Research Skill indicates you can find straightforward information from a clearly indexed archive without a Test given enough time. If you are seeking specific,
 
 less well-known information, or you are in a rush, you will be required to make an Extended Research Test, with the Difficulty modified by the archive size, and the target SL depending upon the obscurity of the topic.
 
@@ -354,15 +355,15 @@ Research has no use in combat beyond perhaps finding you a useful manual on swor
 
 Your ability to operate and manoeuvre a piloting starship — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your starship, you only use the Pilot (Capital Ship) Skill when you must push your starship to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply piloting with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Pilot (Capital Ship). The skill can also be used for piloting-related activities like tying knots, or tying others up in knots.
 
-=== Research and Libraries ===
+'''Research and Libraries'''
 
 Libraries of the galaxy vary from small personal archives of a few dozen datapads to vast archives found in the universities and Force shrines of the towns and cities. Using a Research Test in a small archive, perhaps to find a specific datapad, only takes about 5 minutes. By comparison, Research Tests in large archives can easily takes an hour or more per Test, but are far more likely to find esoteric lore.
 
 === Ride (Ag) basic, grouped ===
 
-The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat. Specialisations: Air, Land, Water
+The Ride skill can be used extensively in combat. See [[SL100:Combat|Combat]] for more on mounted combat. Specialisations: Air, Land, Water
 
-How proficient you are at riding a particular group of animals; Ride (Land), for example, will let you ride Banthas, Mules, Donkeys, and similar. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test. If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary.
+How proficient you are at riding a particular group of animals; Ride (Land), for example, will let you ride Banthas, Mules, Donkeys, and similar. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test. If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see [[SL100:Bestiary|Bestiary]].
 
 === Sleight of Hand (Dex) advanced ===
 
@@ -370,27 +371,27 @@ Lets you pick pockets, palm objects, and perform minor tricks, as well as cheati
 
 === Stealth (Ag) basic, grouped ===
 
-Allows you to creep quietly and conceal yourself in shadows more readily than most. Stealth is generally Opposed by an opponent’s Perception Skill, and Tests will be modified by how dark or well concealed your route is, as well as how circumspectly you are dressed. An Impressive or Astounding Failure on a Stealth Test will likely draw the immediate attention of the enemies you were trying to avoid in the first place. Stealth has many potential applications in combat, most usefully to hide oneself in preparation for an Ambush, or to creep around an opponent in order to attack from behind. See Chapter 5: Rules for the implications of this. Of course, you can also use the Skill to escape a conflict unseen… Specialisations: Rural, Underground, Urban
+Allows you to creep quietly and conceal yourself in shadows more readily than most. Stealth is generally Opposed by an opponent’s Perception Skill, and Tests will be modified by how dark or well concealed your route is, as well as how circumspectly you are dressed. An Impressive or Astounding Failure on a Stealth Test will likely draw the immediate attention of the enemies you were trying to avoid in the first place. Stealth has many potential applications in combat, most usefully to hide oneself in preparation for an Ambush, or to creep around an opponent in order to attack from behind. See [[SL100:Combat|Combat]] for the implications of this. Of course, you can also use the Skill to escape a conflict unseen… Specialisations: Rural, Underground, Urban
 
-=== Options: Shadowing ===
+'''Options: Shadowing'''
 
-Shadowing is following someone secretly. To do this requires a Combined Perception and Stealth Test (see page 155). If the target is actively trying to lose a tail, it is Opposed with the target’s Stealth Skill.
+Shadowing is following someone secretly. To do this requires a Combined Perception and Stealth Test (see [[SL100:How to Play#Group Tests|Group Tests]]). If the target is actively trying to lose a tail, it is Opposed with the target’s Stealth Skill.
 
 === Swim (S) advanced ===
 
-Your ability to swim in water without drowning. If you have the Swim Skill, you are automatically presumed to be able to swim freely without a Test. But if you find yourself in difficult currents, racing, or fleeing from an oversized shark sent by a Sarlacc, a Test will be required. This may be modified by the condition of the water, or how encumbered you are by clothes, armour, and other trappings. Swim is only used in combat if you happen to be fighting in the water, where it replaces Skills like Athletics to govern Movement. If exact speeds are required, you swim at half your Movement rate, using the normal rules for moving found on page 164.
+Your ability to swim in water without drowning. If you have the Swim Skill, you are automatically presumed to be able to swim freely without a Test. But if you find yourself in difficult currents, racing, or fleeing from an oversized shark sent by a Sarlacc, a Test will be required. This may be modified by the condition of the water, or how encumbered you are by clothes, armour, and other trappings. Swim is only used in combat if you happen to be fighting in the water, where it replaces Skills like Athletics to govern Movement. If exact speeds are required, you swim at half your Movement rate, using the normal rules for moving in [[SL100:How to Play#Movement and Time in Rounds|Movement]].
 
 === Track (I) advanced ===
 
-Your ability to follow subtle trails left by others. Track is used to follow difficult trails across the wilderness. This is not a skill for following a set of footprints in the snow — a simple Perception test covers that — Track involves deeper knowledge and awareness used to recognise the subtle signs of a quarry’s passage. You can also attempt to hide your trail, in which case use your Track skill to oppose your pursuer’s Track Test. Often an Extended Track Test is required to follow a trail, with the Difficulty modified by how fresh the tracks are, and how suitable the ground is: damp earth betrays passage better than stony ground. The GM may also use the Pursuit rules to determine if you manage to track down a fleeing quarry (see page 166).
+Your ability to follow subtle trails left by others. Track is used to follow difficult trails across the wilderness. This is not a skill for following a set of footprints in the snow — a simple Perception test covers that — Track involves deeper knowledge and awareness used to recognise the subtle signs of a quarry’s passage. You can also attempt to hide your trail, in which case use your Track skill to oppose your pursuer’s Track Test. Often an Extended Track Test is required to follow a trail, with the Difficulty modified by how fresh the tracks are, and how suitable the ground is: damp earth betrays passage better than stony ground. The GM may also use the Pursuit rules to determine if you manage to track down a fleeing quarry.
 
 === Use the Force (WP) advanced, grouped ===
 
 <code>[review]</code>
 
-Your trained ability to reach out to the Force and shape it. Each Specialisation is one of the three disciplines: '''Sense''' (perceiving through the Force: feeling emotions and intent, sensing danger, finding distant life, reading the past of a place or object), '''Control''' (mastering your own body and mind: healing, calm, speed, endurance, resisting fear and the dark side) and '''Alter''' (acting on the world beyond yourself: moving objects, influencing minds, Force lightning, projecting or absorbing energy). Use the Force (Discipline) is the Test for every Force power of that discipline (see Chapter 09: Force Influence); each power states its difficulty and what extra Success Levels buy.
+Your trained ability to reach out to the Force and shape it. Each Specialisation is one of the three disciplines: '''Sense''' (perceiving through the Force: feeling emotions and intent, sensing danger, finding distant life, reading the past of a place or object), '''Control''' (mastering your own body and mind: healing, calm, speed, endurance, resisting fear and the dark side) and '''Alter''' (acting on the world beyond yourself: moving objects, influencing minds, Force lightning, projecting or absorbing energy). Use the Force (Discipline) is the Test for every Force power of that discipline (see [[SL100:The Force|The Force]]); each power states its difficulty and what extra Success Levels buy.
 
-You may only Advance this Skill if you have the Force Sensitive (Tradition) talent, and you may only Test a discipline in which you hold the matching Force Sense, Force Control or Force Alter (Discipline) talent, which adds +1 SL per rank. Without the discipline talent the GM may allow a −20 Test for the simplest uses (a feeling of danger, a calming breath, a nudge to a small object) and nothing more. Non-Force-sensitives cannot Test this Skill at all. Failing by 6 or more SL, or rolling a double on a failed Test, exposes you to the dark side as described in Chapter 09. Language (The Force) is the scholarly understanding of the Force kept by the traditions and is not needed to use it. Specialisations: Sense, Control, Alter
+You may only Advance this Skill if you have the Force Sensitive (Tradition) talent, and you may only Test a discipline in which you hold the matching Force Sense, Force Control or Force Alter (Discipline) talent, which adds +1 SL per rank. Without the discipline talent the GM may allow a −20 Test for the simplest uses (a feeling of danger, a calming breath, a nudge to a small object) and nothing more. Non-Force-sensitives cannot Test this Skill at all. Failing by 6 or more SL, or rolling a double on a failed Test, exposes you to the dark side as described in [[SL100:The Force|The Force]]. Language (The Force) is the scholarly understanding of the Force kept by the traditions and is not needed to use it. Specialisations: Sense, Control, Alter
 
 [[Category:SL100]]
 [[Category:SL100 rules]]

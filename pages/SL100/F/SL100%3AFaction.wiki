@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Faction|status=Lore draft, checked against Legends (12 Oct); mechanics still to be written|source=04 New Star Wars - Faction.md}}
+<!-- Built from 04 New Star Wars - Faction.md by tools/build_pages.py -->
+{{SL100 Rules|section=Faction|status=Lore draft, checked against Legends (12 Oct); mechanics still to be written}}
 The '''factions''' a character may have belonged to before being recruited by a Patron: Force traditions, the underworld, the mega-corporations and the Imperial bureaux, by era.
 
 
@@ -87,7 +88,7 @@ Most Factions recruit from anywhere, and your Origin does not limit your choice.
 
 === Force Traditions ===
 
-==== ☀'''Light Side Traditions ====
+==== ☀Light Side Traditions ====
 
 [[File:SL100 Faction Light Side.jpg|thumb|right|360px|Light Side traditions (SL100 original art)]]
 
@@ -114,7 +115,7 @@ Most Factions recruit from anywhere, and your Origin does not limit your choice.
 |}
 
 <div style="clear:both"></div>
-==== ◈'''Neutral / Grey Traditions ====
+==== ◈Neutral / Grey Traditions ====
 
 [[File:SL100 Faction Grey Traditions.jpg|thumb|right|360px|Neutral and grey traditions (SL100 original art)]]
 
@@ -133,7 +134,7 @@ Most Factions recruit from anywhere, and your Origin does not limit your choice.
 |}
 
 <div style="clear:both"></div>
-==== ⚡'''Dark Side Traditions ====
+==== ⚡Dark Side Traditions ====
 
 [[File:SL100 Faction Dark Side.jpg|thumb|right|360px|Dark Side traditions (SL100 original art)]]
 
@@ -162,7 +163,7 @@ Most Factions recruit from anywhere, and your Origin does not limit your choice.
 
 The great states of the galaxy and the forces that serve them. Most are only available as Factions in the dates shown.
 
-==== 🏛'''Governments and States ====
+==== 🏛Governments and States ====
 
 [[File:SL100 Faction Galactic Senate.jpg|thumb|right|360px|A galactic senate in session (SL100 original art)]]
 
@@ -201,7 +202,7 @@ The great states of the galaxy and the forces that serve them. Most are only ava
 The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They are enemies for the Game Director's use, not a Faction for player characters.
 
 <div style="clear:both"></div>
-==== ⚔'''Militaries and Security Services ====
+==== ⚔Militaries and Security Services ====
 
 [[File:SL100 Faction Militaries.jpg|thumb|right|360px|Militaries and security services (SL100 original art)]]
 
@@ -244,7 +245,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 |}
 
 <div style="clear:both"></div>
-==== 🛡'''Mandalorians ====
+==== 🛡Mandalorians ====
 
 [[File:SL100 Faction Warrior Clans.jpg|thumb|right|360px|Warrior clans (SL100 original art)]]
 
@@ -267,7 +268,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 <div style="clear:both"></div>
 === Criminal Underworld ===
 
-==== ◆'''Major Crime Syndicates ====
+==== ◆Major Crime Syndicates ====
 
 [[File:SL100 Faction Crime Syndicates.jpg|thumb|right|360px|Crime syndicates (SL100 original art)]]
 
@@ -288,7 +289,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 |}
 
 <div style="clear:both"></div>
-==== ⚓'''Smugglers & Pirate Gangs ====
+==== ⚓Smugglers & Pirate Gangs ====
 
 [[File:SL100 Faction Smugglers and Pirates.jpg|thumb|right|360px|Smugglers and pirates (SL100 original art)]]
 
@@ -307,7 +308,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 |}
 
 <div style="clear:both"></div>
-==== ⛓'''Spice Trafficking & Slaving Operations ====
+==== ⛓Spice Trafficking & Slaving Operations ====
 
 [[File:SL100 Faction Spice Trade.jpg|thumb|right|360px|The spice trade (SL100 original art)]]
 
@@ -326,7 +327,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 |}
 
 <div style="clear:both"></div>
-==== 🎯'''Bounty Hunter Guilds & Associations ====
+==== 🎯Bounty Hunter Guilds & Associations ====
 
 [[File:SL100 Faction Bounty Hunters.jpg|thumb|right|360px|Bounty hunter guilds (SL100 original art)]]
 
@@ -349,7 +350,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 <div style="clear:both"></div>
 === Mega Corporations and Federations ===
 
-==== 🚀'''Starship & Capital Ship Manufacturers ====
+==== 🚀Starship & Capital Ship Manufacturers ====
 
 [[File:SL100 Faction Mega Corporations.jpg|thumb|right|360px|Mega-corporations (SL100 original art)]]
 
@@ -386,7 +387,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 |}
 
 <div style="clear:both"></div>
-==== 🔫'''Weapons & Military Hardware Manufacturers ====
+==== 🔫Weapons & Military Hardware Manufacturers ====
 
 {| class="wikitable"
 ! '''Corporation''' !! '''Description''' !! '''Era'''
@@ -412,7 +413,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 | '''[[Sienar Intelligence Systems/Legends|Sienar Intelligence Systems]]''' || Sienar subsidiary producing electronic warfare suites, sensor arrays, and classified weapons for the Empire. || ''Imperial era (19 BBY–4 ABY)''
 |}
 
-==== 🧬'''Clone Production & Biotech Corporations ====
+==== 🧬Clone Production & Biotech Corporations ====
 
 {| class="wikitable"
 ! '''Corporation''' !! '''Description''' !! '''Era'''
@@ -430,7 +431,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 | '''Geonosis Hive Industries''' || Geonosian-operated foundries that mass-produced Separatist battle droids and super battle droids at industrial scale. ''SL100 homebrew: no Legends article.'' See [[Geonosis/Legends|Geonosis]]. || ''Prequel / Clone Wars era''
 |}
 
-==== ☢'''Superweapon & Advanced Research Bodies ====
+==== ☢Superweapon & Advanced Research Bodies ====
 
 [[File:SL100 Faction Secret Research.jpg|thumb|right|360px|Secret weapons research (SL100 original art)]]
 
@@ -453,7 +454,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 
 ''Starship Construction, Weapons Development & Military Production — Legends / Legacy Continuity''
 
-==== ⚓'''Naval Construction & Shipyard Commands ====
+==== ⚓Naval Construction & Shipyard Commands ====
 
 [[File:SL100 Faction Empire.jpg|thumb|right|360px|Imperial power (SL100 original art)]]
 
@@ -478,7 +479,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 |}
 
 <div style="clear:both"></div>
-==== ✈'''Starfighter & Shuttle Production Bodies ====
+==== ✈Starfighter & Shuttle Production Bodies ====
 
 {| class="wikitable"
 ! '''Organisation''' !! '''Description''' !! '''Era'''
@@ -494,7 +495,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 | '''[[Santhe/Sienar Technologies]]''' || Parent conglomerate controlling Sienar Fleet Systems; held classified development contracts for next-generation Imperial starfighters. || ''Imperial era (19 BBY–4 ABY)''
 |}
 
-==== 🔫'''Weapons, Ordnance & Superweapon Programmes ====
+==== 🔫Weapons, Ordnance & Superweapon Programmes ====
 
 {| class="wikitable"
 ! '''Organisation''' !! '''Description''' !! '''Era'''
@@ -514,7 +515,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 | '''Imperial Torpedo Sphere Programme''' || Engineering programme producing Torpedo Sphere platforms designed to overwhelm planetary shields for orbital bombardment. ''SL100 homebrew: no Legends article.'' See [[Torpedo Sphere/Legends|Torpedo Sphere]]. || ''Imperial era (19 BBY–4 ABY)''
 |}
 
-==== 🔩'''Ground Vehicle & Armour Production ====
+==== 🔩Ground Vehicle & Armour Production ====
 
 {| class="wikitable"
 ! '''Organisation''' !! '''Description''' !! '''Era'''
@@ -530,7 +531,7 @@ The [[Yuuzhan Vong]] are invaders from outside the galaxy (25–29 ABY). They ar
 | '''[[Aratech Repulsor Company/Legends|Aratech Repulsor Company (Imperial contracts)]]''' || Produced 74-Z speeder bikes and Imperial repulsorlift scout vehicles under exclusive military contracts. || ''Imperial era (19 BBY–4 ABY)''
 |}
 
-==== 🧬'''Cloning Programmes & Bioweapons Research ====
+==== 🧬Cloning Programmes & Bioweapons Research ====
 
 {| class="wikitable"
 ! '''Organisation''' !! '''Description''' !! '''Era'''

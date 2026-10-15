@@ -1,7 +1,8 @@
 __NOTOC__
-{{SL100 Rules|chapter=Weapons|status=Catalogue: 219 items, 149 converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}
+<!-- Built from Equipment + Source_Text/tables by tools/convert/equipment.py -->
+{{SL100 Rules|section=Weapons|status=Catalogue: 219 items, 149 converted from d20 and awaiting review}}
 
-Every '''weapon''' a character can buy, with its SL100 statistics. Items marked ''(converted)'' were built from the d20 books by the conversion rules in [[SL100:Equipment]] and have not yet been reviewed; items without the mark are from chapter 08. Each name links to its Legends article where one is matched. Damage for ranged weapons is a flat value; melee damage adds your Strength Bonus. Range bands: Point Blank = Range/10, Short = Range/2, Long = 2 x Range, Extreme = 3 x Range (see Combat).
+Every '''weapon''' a character can buy, with its SL100 statistics. Items marked ''(converted)'' were built from the d20 books by the conversion rules in [[SL100:Equipment]] and have not yet been reviewed; items without the mark are from the [[SL100:Equipment|Equipment]] page. Each name links to its Legends article where one is matched. Damage for ranged weapons is a flat value; melee damage adds your Strength Bonus. Range bands: Point Blank = Range/10, Short = Range/2, Long = 2 x Range, Extreme = 3 x Range (see Combat).
 
 Legality: L licensed, R restricted, M military, I illegal. Availability: Common, Uncommon, Scarce, Rare, Exotic, Unique (see [[SL100:Special Materials]] for the stock chances by settlement).
 
@@ -44,7 +45,7 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 |-
 | [[Model MSD-32 Disruptor Pistol|Model MSD-32 Disruptor Pistol]] ''(converted)'' || Ranged (Blaster) || 8 || S || 4 ||  || 1 || 0 || 4000 || Rare || I || Penetrating, Damaging || d20 A&E p.21
 |-
-| Demolition Charge || Demolitions || 14 ||  ||  ||  || 1 || 0 || 1500 || Common ||  ||  || 08 Equipment
+| Demolition Charge || Demolitions || 14 ||  ||  ||  || 1 || 0 || 1500 || Common ||  ||  || Equipment
 |-
 | 411 ''(converted)'' || Ranged (Blaster) || 6 || M || 12 ||  || 0 || 0 || 300 || Common || R || Stun setting || d20 A&E p.12
 |-
@@ -64,17 +65,17 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 |-
 | [[Ion pistol|Ion gun pistol]] ''(converted)'' || Ranged (Blaster) || 8 || M || 16 ||  || 1 || 0 || 250 ||  ||  ||  || d20 Core table 7-2
 |-
-| [[Blaster pistol/Legends|Blaster Pistol]] || Ranged (Blaster) || 7 || M || 20 || 20 || 1 || 0 || 500 || Common ||  ||  || 08 Equipment; d20 Core table 7-2
+| [[Blaster pistol/Legends|Blaster Pistol]] || Ranged (Blaster) || 7 || M || 20 || 20 || 1 || 0 || 500 || Common ||  ||  || Equipment; d20 Core table 7-2
 |-
-| Disruptor Pistol || Ranged (Blaster) || XX || M ||  ||  || 1 || 0 ||  || Exotic ||  ||  || 08 Equipment
+| Disruptor Pistol || Ranged (Blaster) || XX || M ||  ||  || 1 || 0 ||  || Exotic ||  ||  || Equipment
 |-
-| Heavy Blaster Pistol || Ranged (Blaster) || 8 || M ||  ||  || 1 || 0 ||  || Common ||  || Damaging || 08 Equipment
+| Heavy Blaster Pistol || Ranged (Blaster) || 8 || M ||  ||  || 1 || 0 ||  || Common ||  || Damaging || Equipment
 |-
-| Hold-out Blaster || Ranged (Blaster) || 6 || S ||  ||  || 0 || 0 ||  || Scarce ||  ||  || 08 Equipment
+| Hold-out Blaster || Ranged (Blaster) || 6 || S ||  ||  || 0 || 0 ||  || Scarce ||  ||  || Equipment
 |-
-| Ion Pistol || Ranged (Blaster) ||  || S ||  ||  || 1 || 0 ||  || Scarce ||  ||  || 08 Equipment
+| Ion Pistol || Ranged (Blaster) ||  || S ||  ||  || 1 || 0 ||  || Scarce ||  ||  || Equipment
 |-
-| Sporting Blaster || Ranged (Blaster) || 6 || M ||  ||  || 1 || 0 ||  || Common ||  ||  || 08 Equipment
+| Sporting Blaster || Ranged (Blaster) || 6 || M ||  ||  || 1 || 0 ||  || Common ||  ||  || Equipment
 |-
 | Pacnorval Defense Systems, Limited Sg-B2 Sonic Rifle ''(converted)'' || Ranged (Blaster) || 9 || S || 8 ||  || 1 || 0 || 2000 || Uncommon || R || Stun, Spread || d20 A&E p.36
 |-
@@ -128,17 +129,17 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 |-
 | [[DXR-6 disruptor rifle|DXR-B Disruptor (Typical Disruptor Rifle)]] ''(converted)'' || Ranged (Blaster) || 8 || S || 4 ||  || 2 || 1 || 3500 || Rare || I || Penetrating, Damaging || d20 A&E p.21
 |-
-| [[Blaster carbine/Legends|Blaster Carbine]] || Ranged (Blaster) || 8 || L || 40 || 50 || 1 || 0 || 900 || Common ||  ||  || 08 Equipment; d20 Core table 7-2
+| [[Blaster carbine/Legends|Blaster Carbine]] || Ranged (Blaster) || 8 || L || 40 || 50 || 1 || 0 || 900 || Common ||  ||  || Equipment; d20 Core table 7-2
 |-
-| [[Blaster rifle/Legends|Blaster Rifle]] || Ranged (Blaster) || 9 || L || 60 || 50 || 2 || 1 || 1000 || Common ||  || 2H, || 08 Equipment; d20 Core table 7-2
+| [[Blaster rifle/Legends|Blaster Rifle]] || Ranged (Blaster) || 9 || L || 60 || 50 || 2 || 1 || 1000 || Common ||  || 2H, || Equipment; d20 Core table 7-2
 |-
-| Blaster Sniper Rifle || Ranged (Blaster) || 11 || L ||  || 10 || 3 || 2 || 1000 || Rare ||  || 2H, Damaging Impale || 08 Equipment
+| Blaster Sniper Rifle || Ranged (Blaster) || 11 || L ||  || 10 || 3 || 2 || 1000 || Rare ||  || 2H, Damaging Impale || Equipment
 |-
-| [[Bowcaster/Legends|Bowcaster]] || Ranged (Blaster) || 10 || L || 20 || 5 || 3 || 2 || 1500 || Exotic ||  || 2H, Solid Projectile, Penetrating || 08 Equipment; d20 Core table 7-2
+| [[Bowcaster/Legends|Bowcaster]] || Ranged (Blaster) || 10 || L || 20 || 5 || 3 || 2 || 1500 || Exotic ||  || 2H, Solid Projectile, Penetrating || Equipment; d20 Core table 7-2
 |-
-| Heavy Blaster Rifle || Ranged (Blaster) || 10 ||  ||  || 50 || 2 || 1 ||  || Scarce ||  || Damaging || 08 Equipment
+| Heavy Blaster Rifle || Ranged (Blaster) || 10 ||  ||  || 50 || 2 || 1 ||  || Scarce ||  || Damaging || Equipment
 |-
-| [[Ion rifle/Legends|Ion Gun Rifle]] || Ranged (Blaster) || 8 || M || 60 || 20 || 2 || 1 || 800 || Common ||  || 2H, Damages Electrics || 08 Equipment; d20 Core table 7-2
+| [[Ion rifle/Legends|Ion Gun Rifle]] || Ranged (Blaster) || 8 || M || 60 || 20 || 2 || 1 || 800 || Common ||  || 2H, Damages Electrics || Equipment; d20 Core table 7-2
 |-
 | Defense Conglomerate "Light Sport" (Typical Sporting Blaster Rifle) ''(converted)'' || Ranged (Blaster) || 8 || E || 80 ||  || 2 || 1 || 800 || Common || R || Stun setting || d20 A&E p.18
 |-
@@ -201,25 +202,25 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 |-
 | [[Repeating crossbow|Drolan Plasteel Repeating Crossbow]] ''(converted)'' || Ranged (Archaic) || 5 || L || 32 ||  || 3 || 2 || 400 || Scarce ||  ||  || d20 A&E p.26
 |-
-| Autorifle || Ranged (Archaic) || 7 || L ||  || 50 || 2 || 1 || 300 || Common ||  || 2H, Solid Projectile || 08 Equipment
+| Autorifle || Ranged (Archaic) || 7 || L ||  || 50 || 2 || 1 || 300 || Common ||  || 2H, Solid Projectile || Equipment
 |-
-| Backpack Flamer || Ranged (Archaic) || 10 || M ||  || 20 || 2 || 1 || 700 || Scarce ||  ||  || 08 Equipment
+| Backpack Flamer || Ranged (Archaic) || 10 || M ||  || 20 || 2 || 1 || 700 || Scarce ||  ||  || Equipment
 |-
-| Needle Rifle || Ranged (Archaic) || 1 || L ||  || 6 || 2 || 1 || 600 || Exotic ||  || Penetrating (6), Melee (2H) || 08 Equipment
+| Needle Rifle || Ranged (Archaic) || 1 || L ||  || 6 || 2 || 1 || 600 || Exotic ||  || Penetrating (6), Melee (2H) || Equipment
 |-
-| Shotgun || Ranged (Archaic) || 7 || M ||  || 12 || 2 || 1 || 1200 || Scarce ||  || 2H, Spread, Solid Projectile, || 08 Equipment
+| Shotgun || Ranged (Archaic) || 7 || M ||  || 12 || 2 || 1 || 1200 || Scarce ||  || 2H, Spread, Solid Projectile, || Equipment
 |-
-| Sniper Rifle || Ranged (Archaic) || 8 || E ||  || 6 || 2 || 1 || 360 || Scarce ||  || 2H, Solid Projectile, Penetrating (2) || 08 Equipment
+| Sniper Rifle || Ranged (Archaic) || 8 || E ||  || 6 || 2 || 1 || 360 || Scarce ||  || 2H, Solid Projectile, Penetrating (2) || Equipment
 |-
-| Webber || Ranged (Archaic) || - || M ||  || 3 || 1 || 0 || 1200 || Rare ||  || Melee (2H) || 08 Equipment
+| Webber || Ranged (Archaic) || - || M ||  || 3 || 1 || 0 || 1200 || Rare ||  || Melee (2H) || Equipment
 |-
-| Autopistol || Ranged (Archaic) || 5 || S ||  || 20 || 0 || 0 || 325 || Common ||  || Solid Projectile || 08 Equipment
+| Autopistol || Ranged (Archaic) || 5 || S ||  || 20 || 0 || 0 || 325 || Common ||  || Solid Projectile || Equipment
 |-
-| Hand Flamer || Ranged (Archaic) || 8 || S ||  || 6 || 1 || 0 || 500 || Rare ||  ||  || 08 Equipment
+| Hand Flamer || Ranged (Archaic) || 8 || S ||  || 6 || 1 || 0 || 500 || Rare ||  ||  || Equipment
 |-
-| Needle Pistol || Ranged (Archaic) || 2 || M ||  || 4 || 1 || 0 || 300 || Exotic ||  || Penetrating (6) || 08 Equipment
+| Needle Pistol || Ranged (Archaic) || 2 || M ||  || 4 || 1 || 0 || 300 || Exotic ||  || Penetrating (6) || Equipment
 |-
-| Web Pistol || Ranged (Archaic) || - || S ||  || 3 || 1 || 0 || 1000 || Rare ||  ||  || 08 Equipment
+| Web Pistol || Ranged (Archaic) || - || S ||  || 3 || 1 || 0 || 1000 || Rare ||  ||  || Equipment
 |-
 | [[Sling/Legends|Sling]] ''(converted)'' || Ranged (Archaic) || 4 || M || 12 ||  || 0 || 0 || 35 ||  ||  ||  || d20 Core table 7-2
 |-
@@ -275,7 +276,7 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 |-
 | Rheshalva Interstellar Armaments Rodian Repulsor Throwing-Razor ''(converted)'' || Ranged (Thrown) || 7 || M || 20 ||  || 0 || 0 || 3000 || Rare || L ||  || d20 A&E p.37
 |-
-| [[Thermal detonator/Legends|Thermal Detonator]] || Ranged (Thrown) || 30 || S || 8 ||  || 0 || 0 || 2000 || Scarce ||  || Blast (3), Thrown || 08 Equipment; d20 Core table 7-2
+| [[Thermal detonator/Legends|Thermal Detonator]] || Ranged (Thrown) || 30 || S || 8 ||  || 0 || 0 || 2000 || Scarce ||  || Blast (3), Thrown || Equipment; d20 Core table 7-2
 |}
 
 == Exotic ranged weapons (18) ==
@@ -339,39 +340,39 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 {| class="wikitable sortable"
 ! Weapon !! Skill !! Dam !! Band !! Range (m) !! Mag !! Enc !! Worn !! Cost !! Avail !! Legal !! Traits !! Source
 |-
-| Battle Gloves || Melee (Brawling) || 1+StrB ||  ||  ||  || 0 || 0 || 30 || Common ||  ||  || 08 Equipment
+| Battle Gloves || Melee (Brawling) || 1+StrB ||  ||  ||  || 0 || 0 || 30 || Common ||  ||  || Equipment
 |-
-| Unarmed || Melee (Brawling) || 0+StrB ||  ||  ||  || 1 || 0 || - || - ||  ||  || 08 Equipment; d20 Core table 7-2; d20 Core table 7-2
+| Unarmed || Melee (Brawling) || 0+StrB ||  ||  ||  || 1 || 0 || - || - ||  ||  || Equipment; d20 Core table 7-2; d20 Core table 7-2
 |-
-| Axe || Melee (1H) || 4+StrB ||  ||  ||  || 1 || 0 || 80 || Common ||  ||  || 08 Equipment
+| Axe || Melee (1H) || 4+StrB ||  ||  ||  || 1 || 0 || 80 || Common ||  ||  || Equipment
 |-
-| Cortosis Blade || Melee (1H) || 4+SB ||  ||  ||  || 1 || 0 ||  || Exotic ||  ||  || 08 Equipment
+| Cortosis Blade || Melee (1H) || 4+SB ||  ||  ||  || 1 || 0 ||  || Exotic ||  ||  || Equipment
 |-
-| Electrostaff || Melee (2H) ||  ||  ||  ||  || 2 || 1 ||  || Rare ||  ||  || 08 Equipment
+| Electrostaff || Melee (2H) ||  ||  ||  ||  || 2 || 1 ||  || Rare ||  ||  || Equipment
 |-
-| [[Gaderffii/Legends|Gaderffii (Gaffi Stick)]] || Melee (1H) || 4+SB ||  ||  ||  || 1 || 0 || 50 || Exotic ||  ||  || 08 Equipment; d20 Core table 7-2
+| [[Gaderffii/Legends|Gaderffii (Gaffi Stick)]] || Melee (1H) || 4+SB ||  ||  ||  || 1 || 0 || 50 || Exotic ||  ||  || Equipment; d20 Core table 7-2
 |-
-| Hammer || Melee (1H) || 4+StrB ||  ||  ||  || 1 || 0 || 25 || Common ||  ||  || 08 Equipment
+| Hammer || Melee (1H) || 4+StrB ||  ||  ||  || 1 || 0 || 25 || Common ||  ||  || Equipment
 |-
-| Knife / Dagger || Melee (1H) || 2+StrB ||  ||  ||  || 0 || 0 || 50 || Common ||  ||  || 08 Equipment
+| Knife / Dagger || Melee (1H) || 2+StrB ||  ||  ||  || 0 || 0 || 50 || Common ||  ||  || Equipment
 |-
-| [[Ryyk blade/Legends|Ryyk Blade]] || Melee (1H) || 4+SB ||  ||  ||  || 1 || 0 || 500 || Exotic ||  ||  || 08 Equipment; d20 A&E p.29
+| [[Ryyk blade/Legends|Ryyk Blade]] || Melee (1H) || 4+SB ||  ||  ||  || 1 || 0 || 500 || Exotic ||  ||  || Equipment; d20 A&E p.29
 |-
-| [[Merr-Sonn stun baton|Stun Baton]] || Melee (1H) || 1+StrB ||  ||  ||  || 0 || 0 || 500 || Scarce || R || Pummel, Undamaging || 08 Equipment; d20 A&E p.31; d20 Core table 7-2
+| [[Merr-Sonn stun baton|Stun Baton]] || Melee (1H) || 1+StrB ||  ||  ||  || 0 || 0 || 500 || Scarce || R || Pummel, Undamaging || Equipment; d20 A&E p.31; d20 Core table 7-2
 |-
-| Sword || Melee (1H) || 4+StrB ||  ||  ||  || 1 || 0 || 150 || Common ||  ||  || 08 Equipment
+| Sword || Melee (1H) || 4+StrB ||  ||  ||  || 1 || 0 || 150 || Common ||  ||  || Equipment
 |-
-| Vibro-axe || Melee (1H) || 5+StrB ||  ||  ||  || 1 || 0 || 160 || Scarce ||  ||  || 08 Equipment
+| Vibro-axe || Melee (1H) || 5+StrB ||  ||  ||  || 1 || 0 || 160 || Scarce ||  ||  || Equipment
 |-
-| Vibro-blade || Melee (1H) || 5+StrB ||  ||  ||  || 1 || 0 || 300 || Scarce ||  ||  || 08 Equipment
+| Vibro-blade || Melee (1H) || 5+StrB ||  ||  ||  || 1 || 0 || 300 || Scarce ||  ||  || Equipment
 |-
-| Vibro-dagger || Melee (1H) || 3+StrB ||  ||  ||  || 0 || 0 || 100 || Scarce ||  ||  || 08 Equipment
+| Vibro-dagger || Melee (1H) || 3+StrB ||  ||  ||  || 0 || 0 || 100 || Scarce ||  ||  || Equipment
 |-
-| Vibrosword || Melee (1H) || 5+StrB ||  ||  ||  || 1 || 0 ||  || Scarce ||  ||  || 08 Equipment
+| Vibrosword || Melee (1H) || 5+StrB ||  ||  ||  || 1 || 0 ||  || Scarce ||  ||  || Equipment
 |-
-| Whip || Melee (1H) || 2+StrB ||  ||  ||  || 1 || 0 || 60 || Common ||  || Entangle || 08 Equipment
+| Whip || Melee (1H) || 2+StrB ||  ||  ||  || 1 || 0 || 60 || Common ||  || Entangle || Equipment
 |-
-| [[Force pike/Legends|Force Pike]] || Melee (2H) || 6+StrB ||  ||  ||  || 2 || 1 || 500 || Rare ||  || Impact, Shock, Two-Handed || 08 Equipment; d20 Core table 7-2
+| [[Force pike/Legends|Force Pike]] || Melee (2H) || 6+StrB ||  ||  ||  || 2 || 1 || 500 || Rare ||  || Impact, Shock, Two-Handed || Equipment; d20 Core table 7-2
 |-
 | [[Atlatl/Legends|Atlatl]] ''(converted)'' || Melee (1H) || +SB+3 ||  ||  ||  || 1 || 0 || 50 ||  ||  ||  || d20 Core table 7-2
 |-
@@ -430,9 +431,9 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 {| class="wikitable sortable"
 ! Weapon !! Skill !! Dam !! Band !! Range (m) !! Mag !! Enc !! Worn !! Cost !! Avail !! Legal !! Traits !! Source
 |-
-| [[Lightsaber/Legends|Lightsaber]] || Melee (\*Lightsaber) || 6+Form Bonus ||  ||  ||  || 1 || 0 || - || Unique || I || Fast Penetrating (6) Shield(2) Hack || 08 Equipment; d20 Core table 7-2
+| [[Lightsaber/Legends|Lightsaber]] || Melee (\*Lightsaber) || 6+Form Bonus ||  ||  ||  || 1 || 0 || - || Unique || I || Fast Penetrating (6) Shield(2) Hack || Equipment; d20 Core table 7-2
 |-
-| Lightwhip || Melee (\*Lightsaber) ||  ||  ||  ||  || 0 || 0 ||  || Exotic ||  ||  || 08 Equipment
+| Lightwhip || Melee (\*Lightsaber) ||  ||  ||  ||  || 0 || 0 ||  || Exotic ||  ||  || Equipment
 |-
 | [[Double-bladed lightsaber/Legends|Lightsaber, double]] ''(converted)'' || Melee (\*Lightsaber) || +SB+5 ||  ||  ||  || 1 || 0 || - || Unique ||  || Penetrating, Damaging, Hack || d20 Core table 7-2
 |}
@@ -445,61 +446,61 @@ Legality: L licensed, R restricted, M military, I illegal. Availability: Common,
 |-
 | Bullets (10) ''(converted)'' ||  ||  ||  ||  ||  || 0 || 0 || 5 ||  ||  ||  || d20 Core table 7-2
 |-
-| Arkanian's Missile ||  || 14 ||  ||  ||  || 1 || 0 || - || Rare ||  ||  || 08 Equipment
+| Arkanian's Missile ||  || 14 ||  ||  ||  || 1 || 0 || - || Rare ||  ||  || Equipment
 |-
-| Frag Missile ||  || 7 ||  ||  ||  || 1 || 0 || - || Scarce ||  ||  || 08 Equipment
+| Frag Missile ||  || 7 ||  ||  ||  || 1 || 0 || - || Scarce ||  ||  || Equipment
 |-
-| Grenade Launcher ||  || - || Long ||  || 6 || 2 || 1 || 4000 || Rare ||  ||  || 08 Equipment
+| Grenade Launcher ||  || - || Long ||  || 6 || 2 || 1 || 4000 || Rare ||  ||  || Equipment
 |-
-| Heavy Auto Machine Gun ||  || 7 || Long ||  || 100 || 4 || 3 || 6000 || Rare ||  || Slow, Penetrating (2), MSolid Projectile || 08 Equipment
+| Heavy Auto Machine Gun ||  || 7 || Long ||  || 100 || 4 || 3 || 6000 || Rare ||  || Slow, Penetrating (2), MSolid Projectile || Equipment
 |-
-| Minigun (Blaster / Solid Slug) ||  || 7 || Long ||  || 200 || 5 || 4 || 8000 || Rare ||  || Slow, Penetrating (2), Rapid Fire 4 || 08 Equipment
+| Minigun (Blaster / Solid Slug) ||  || 7 || Long ||  || 200 || 5 || 4 || 8000 || Rare ||  || Slow, Penetrating (2), Rapid Fire 4 || Equipment
 |-
-| Missile Launcher ||  ||  ||  ||  ||  ||  ||  ||  || Exotic ||  ||  || 08 Equipment
+| Missile Launcher ||  ||  ||  ||  ||  ||  ||  ||  || Exotic ||  ||  || Equipment
 |-
-| PLX Rocket Launcher ||  ||  ||  ||  ||  ||  ||  ||  || Exotic ||  ||  || 08 Equipment
+| PLX Rocket Launcher ||  ||  ||  ||  ||  ||  ||  ||  || Exotic ||  ||  || Equipment
 |-
-| Portable Missile Launcher ||  || - || Extreme ||  || 1 || 3 || 2 || 4000 || Rare ||  || Slow || 08 Equipment
+| Portable Missile Launcher ||  || - || Extreme ||  || 1 || 3 || 2 || 4000 || Rare ||  || Slow || Equipment
 |-
-| Repeating Blaster ||  ||  ||  ||  ||  ||  ||  ||  || Rare ||  ||  || 08 Equipment
+| Repeating Blaster ||  ||  ||  ||  ||  ||  ||  ||  || Rare ||  ||  || Equipment
 |-
-| Rocket Launcher ||  ||  ||  ||  ||  ||  ||  ||  || Exotic ||  ||  || 08 Equipment
+| Rocket Launcher ||  ||  ||  ||  ||  ||  ||  ||  || Exotic ||  ||  || Equipment
 |-
-| Double Lightsaber ||  || 7+Form Bonus/7+Form Bonus ||  ||  ||  || 1 || 0 || - || Unique ||  ||  || 08 Equipment
+| Double Lightsaber ||  || 7+Form Bonus/7+Form Bonus ||  ||  ||  || 1 || 0 || - || Unique ||  ||  || Equipment
 |-
-| Electro-Staff ||  || 5+StrB ||  ||  ||  || 2 || 1 || 500 || Scarce ||  ||  || 08 Equipment
+| Electro-Staff ||  || 5+StrB ||  ||  ||  || 2 || 1 || 500 || Scarce ||  ||  || Equipment
 |-
-| Great Lightsaber ||  || 8+Form Bonus ||  ||  ||  || 1 || 0 || - || Unique ||  ||  || 08 Equipment
+| Great Lightsaber ||  || 8+Form Bonus ||  ||  ||  || 1 || 0 || - || Unique ||  ||  || Equipment
 |-
-| Great Weapon ||  || 6+StrB ||  ||  ||  || 2 || 1 || 300 || Common ||  ||  || 08 Equipment
+| Great Weapon ||  || 6+StrB ||  ||  ||  || 2 || 1 || 300 || Common ||  ||  || Equipment
 |-
-| Improvised (Melee (2H)) ||  || 2+StrB ||  ||  ||  || 3 || 2 || - || - ||  ||  || 08 Equipment
+| Improvised (Melee (2H)) ||  || 2+StrB ||  ||  ||  || 3 || 2 || - || - ||  ||  || Equipment
 |-
-| Staff ||  || 4+StrB ||  ||  ||  || 2 || 1 || 25 || Common ||  ||  || 08 Equipment
+| Staff ||  || 4+StrB ||  ||  ||  || 2 || 1 || 25 || Common ||  ||  || Equipment
 |-
 | Energy balls (10) ''(converted)'' ||  || +SB+5 ||  ||  ||  || 0 || 0 || 200 ||  ||  ||  || d20 Core table 7-2
 |-
 | Quarrels (10) ''(converted)'' ||  ||  ||  ||  ||  || 0 || 0 || 400 ||  ||  ||  || d20 Core table 7-2
 |-
-| Arkanian's Grenade ||  || 11 ||  ||  ||  || 0 || 0 || 1000 || Scarce ||  ||  || 08 Equipment
+| Arkanian's Grenade ||  || 11 ||  ||  ||  || 0 || 0 || 1000 || Scarce ||  ||  || Equipment
 |-
-| Choke Grenade ||  || - ||  ||  ||  || 0 || 0 || 250 || Common ||  ||  || 08 Equipment
+| Choke Grenade ||  || - ||  ||  ||  || 0 || 0 || 250 || Common ||  ||  || Equipment
 |-
-| Fire Bomb ||  || 6 ||  ||  ||  || 1 || 0 || 750 || Scarce ||  ||  || 08 Equipment
+| Fire Bomb ||  || 6 ||  ||  ||  || 1 || 0 || 750 || Scarce ||  ||  || Equipment
 |-
-| Frag Grenade ||  || 10 ||  ||  ||  || 0 || 0 || 500 || Common ||  ||  || 08 Equipment
+| Frag Grenade ||  || 10 ||  ||  ||  || 0 || 0 || 500 || Common ||  ||  || Equipment
 |-
-| Ion Grenade ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 08 Equipment
+| Ion Grenade ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || Equipment
 |-
-| Photon Flash Grenade ||  || - ||  ||  ||  || 0 || 0 || 600 || Rare ||  ||  || 08 Equipment
+| Photon Flash Grenade ||  || - ||  ||  ||  || 0 || 0 || 600 || Rare ||  ||  || Equipment
 |-
-| Proton Grenade ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 08 Equipment
+| Proton Grenade ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || Equipment
 |-
-| Smoke Grenade ||  || - ||  ||  ||  || 0 || 0 || 250 || Common ||  ||  || 08 Equipment
+| Smoke Grenade ||  || - ||  ||  ||  || 0 || 0 || 250 || Common ||  ||  || Equipment
 |-
-| Stun Grenade ||  || - ||  ||  ||  || 0 || 0 || 600 || Common ||  ||  || 08 Equipment
+| Stun Grenade ||  || - ||  ||  ||  || 0 || 0 || 600 || Common ||  ||  || Equipment
 |-
-| Web Grenade ||  || - ||  ||  ||  || 0 || 0 || 600 || Rare ||  ||  || 08 Equipment
+| Web Grenade ||  || - ||  ||  ||  || 0 || 0 || 600 || Rare ||  ||  || Equipment
 |}
 
 [[Category:SL100]]

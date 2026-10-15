@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Characteristics|status=Revised draft (12 Oct): ten characteristics, creation steps, Wounds, Movement, Destiny and Resilience|source=01 New Star Wars - Introduction & Characteristics.md}}
+<!-- Built from 01 New Star Wars - Introduction & Characteristics.md by tools/build_pages.py -->
+{{SL100 Rules|section=Characteristics|status=Revised draft (12 Oct): ten characteristics, creation steps, Wounds, Movement, Destiny and Resilience}}
 How a character's ten '''characteristics''' are rolled or bought, what each one measures, and the Characteristic Bonus that drives damage, Wounds and talent limits.
 
 
@@ -15,21 +16,21 @@ So, my intrepid friend, join us on this extraordinary odyssey, where the realms 
 A ''Star Legends – Galactic Wars'' character is built in layers. Your Characteristics are the raw material; your '''species''' gives you a body and a heritage; your '''Origin''' is the kind of world that raised you; your '''career''' is what you have done with your life so far; and your '''Faction''' is who you answered to before your Patron found you. Work through the steps in order:
 
 {| class="wikitable"
-! Step !! What you do !! Chapter
+! Step !! What you do !! Wiki page
 |-
-| 1 || Generate your ten Characteristics (roll or point-buy). || 01
+| 1 || Generate your ten Characteristics (roll or point-buy). || [[SL100:Characteristics|Characteristics]]
 |-
-| 2 || Choose or roll your '''species''': Characteristic modifiers, species talents, Movement, Destiny, Resilience and Extra Points. || 02
+| 2 || Choose or roll your '''species''': Characteristic modifiers, species talents, Movement, Destiny, Resilience and Extra Points. || [[SL100:Species|Species]]
 |-
-| 3 || Choose or roll your '''Origin''' world: +5 to one Characteristic, +5 to one of three others, and skill advances from its list of twelve. || 03
+| 3 || Choose or roll your '''Origin''' world: +5 to one Characteristic, +5 to one of three others, and skill advances from its list of twelve. || [[SL100:Origin|Origin]]
 |-
-| 4 || Choose your '''class and career''', and start at its first level: skills, talents, trappings and Status. || 05
+| 4 || Choose your '''class and career''', and start at its first level: skills, talents, trappings and Status. || [[SL100:Careers|Careers]]
 |-
-| 5 || Choose your '''Faction''': the organisation or tradition you came from, and your Patron. || 04
+| 5 || Choose your '''Faction''': the organisation or tradition you came from, and your Patron. || [[SL100:Faction|Faction]]
 |-
-| 6 || Work out your '''Wounds''', '''Movement''', '''Destiny and Fortune''', '''Resilience and Resolve''', and pick a '''Motivation'''. || 01
+| 6 || Work out your '''Wounds''', '''Movement''', '''Destiny and Fortune''', '''Resilience and Resolve''', and pick a '''Motivation'''. || [[SL100:Characteristics|Characteristics]]
 |-
-| 7 || Spend any bonus XP from step 1 on Advances in your career. || 05
+| 7 || Spend any bonus XP from step 1 on Advances in your career. || [[SL100:Careers|Careers]]
 |-
 | 8 || Add the details: name, age, appearance, and your character's first goals. || —
 |}
@@ -102,9 +103,29 @@ Wounds measure how much punishment you can take before you are seriously hurt. C
 
 '''Wounds = Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus'''
 
-Talents such as Hardy add to this total. Whenever one of these Bonuses changes, recalculate your Wounds.
+That is the formula for an Average-sized character. A character's Size changes it:
 
-'''Example:''' A Trandoshan with S 41, T 45 and WP 33 has 4 + (2 × 4) + 3 = '''15 Wounds'''.
+{| class="wikitable"
+! Size !! Wounds
+|-
+| Tiny || 1
+|-
+| Little || Toughness Bonus
+|-
+| Small || (2 × Toughness Bonus) + Willpower Bonus
+|-
+| Average || Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus
+|-
+| Large || (Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus) × 2
+|-
+| Enormous || (Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus) × 4
+|-
+| Monstrous || (Strength Bonus + (2 × Toughness Bonus) + Willpower Bonus) × 8
+|}
+
+Playable species are Small, Average or Large. A character with the [[SL100:Talents#Small|Small]] talent is Small and one with the [[SL100:Talents#Large|Large]] talent is Large; everyone else is Average. Talents such as Hardy add to the total after Size is applied. Whenever one of these Bonuses or your Size changes, recalculate your Wounds.
+
+'''Example:''' A Trandoshan with S 41, T 45 and WP 33 has 4 + (2 × 4) + 3 = '''15 Wounds'''. A Jawa (Small) with S 25, T 30 and WP 35 has (2 × 3) + 3 = '''9 Wounds'''.
 
 === MOVEMENT ===
 

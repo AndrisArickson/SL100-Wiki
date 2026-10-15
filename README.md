@@ -64,11 +64,25 @@ saves the whole page (ticked = replace, the rest = OK); "Auto-approve" accepts e
 `meta/image_replace.tsv` lists the images marked for replacement, with the pages that use them, as a work list for new art.
 
 ## Editing and adding game content
-Browse to any page and press **Edit**. Saves go straight to the `.wiki` file (old versions are kept in `data/history/`).
-Use the `SL100:` prefix for our own pages (e.g. `SL100:Weapons/Blaster pistol`) and put game statistics in an
+The `SL100:` rules pages (`SL100:Characteristics` ... `SL100:Vehicles and Starships`) are the **master copy of the rules**.
+Edit them in the wiki: press **Edit**, then **Save draft**. The page is flagged *Edited – not yet submitted* until you send
+it from **Review changes**, which submits your drafts to GitHub as a pull request for the owner to approve. The whole
+process, including the GitHub token reviewers need, is in [CONTRIBUTING.md](CONTRIBUTING.md). Old versions of every page
+are kept in `data/history/`. Notes for reviewers are written `` `[review: ...]` `` and stay hidden until a reader presses
+*Show review notes*. Each page also lists its pictures under *Images on this page*, with a link to the original on
+Wookieepedia, **Download & replace** (fetches it as WebP) and an upload box; a new picture is a draft submitted the same way.
+
+Use the `SL100:` prefix for new game pages (e.g. `SL100:Weapons/Blaster pistol`) and put game statistics in an
 infobox-style template, for example `{{SL100 Weapon|name=...|damage=...|price=...|availability=...}}` - see
-`SL100:Example Weapon`. The front page cards and every rules page (`SL100:Characteristics` ... `SL100:Vehicles and Starships`) are generated from the markdown chapters in this folder by `python3 tools/build_pages.py`; edit the markdown, not those pages. The Weapons, Armour and Gear catalogues (`rules/equipment/*.csv`, pages `SL100:Weapons`, `SL100:Armour`, `SL100:Gear`) are built by `python3 tools/convert/equipment.py` from chapter 08, Special Materials and the d20 tables in `../Source_Text/tables/`; `rules/equipment/REVIEW.md` lists the 08-vs-d20 conflicts. Link each game page to its Legends source article. The renderer shows any template with three or
-more named parameters as an infobox, so new stat templates need no extra code.
+`SL100:Example Weapon`. The renderer shows any template with three or more named parameters as an infobox, so new stat
+templates need no extra code. `python3 tools/build_pages.py` rebuilds the front-page cards.
+
+The repository holds only the finished wiki: the pages and their WebP images. The original markdown chapters and the
+design and review documents stay on the owner's computer (`.gitignore` lists them). Tools that read the rules as markdown -
+the consistency and collation scripts, the equipment converter and the Roll20 sheet generator - read copies written by
+`./wiki.sh rules-md` into `build/rules/`. The Weapons, Armour and Gear catalogues (`rules/equipment/*.csv`, pages
+`SL100:Weapons`, `SL100:Armour`, `SL100:Gear`) are built by `python3 tools/convert/equipment.py` from the Equipment and
+Special Materials pages and the d20 tables in `../Source_Text/tables/`.
 
 ## Pushing to GitHub
 ```bash

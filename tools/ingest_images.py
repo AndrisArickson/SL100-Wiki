@@ -28,7 +28,7 @@ import images as I  # noqa: E402
 ROOT = C.ROOT
 INCOMING = C.IMG_DIR / "incoming"
 DONE = INCOMING / "done"
-SPECIES_MD = ROOT / "02 New Star Wars - Species (revised).md"
+SPECIES_MD = C.RULES_DIR / "02 New Star Wars - Species (revised).md"
 SPECIES_TSV = C.META_DIR / "species_images.tsv"
 EXTS = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".bmp", ".tif", ".tiff", ".avif"}
 

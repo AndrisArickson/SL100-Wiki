@@ -43,6 +43,39 @@ def load_config():
 
 CFG = load_config()
 PAGES_DIR = ROOT / "pages"
+
+# Rules markdown file -> the wiki page it is published as. Reports name the page, not the file, so the files can be
+# renumbered or rearranged freely. Superseded originals (02 Species, 05 Careers, 07 Talents, Talent List) are not listed.
+RULES_PAGES = {
+    "01 New Star Wars - Introduction & Characteristics.md": "Characteristics",
+    "02 New Star Wars - Species (revised).md": "Species",
+    "03 New Star Wars - Origin.md": "Origin",
+    "04 New Star Wars - Faction.md": "Faction",
+    "05 New Star Wars - Careers (revised).md": "Careers",
+    "06 New Star Wars - Skills.md": "Skills",
+    "07 New Star Wars - Talents (revised).md": "Talents",
+    "Talent List (revised).md": "Talents (index)",
+    "08 New Star Wars - Equipment.md": "Equipment",
+    "09 New Star Wars - Force Influence.md": "The Force",
+    "10 New Star Wars - Combat and Lightsaber Forms.md": "Combat",
+    "11 New Star Wars - How to Play.md": "How to Play",
+    "Special Materials.md": "Special Materials",
+    "All about hyperspace.md": "Hyperspace",
+    "Star Wars Bestiary.md": "Bestiary",
+    "Star Wars Mounts_Vehicles.md": "Vehicles and Starships (mounts and vehicles)",
+    "Star Wars Space Ships.md": "Vehicles and Starships (starships)",
+    "Starships circa 3000-4000 BBY.md": "Vehicles and Starships (3,000-4,000 BBY)",
+}
+# Markdown copies of the rules pages, written by tools/export_rules.py for the scripts that read markdown.
+RULES_DIR = Path(os.environ.get("SL100_RULES") or (ROOT / "build" / "rules"))
+SUPERSEDED = ("02 New Star Wars - Species.md", "05 New Star Wars - Careers.md", "07 New Star Wars - Talents.md", "Talent List.md")
+
+
+def page_of(fname):
+    """Wiki page name for a rules markdown file (falls back to the file stem)."""
+    name = Path(str(fname)).name
+    return RULES_PAGES.get(name, Path(name).stem)
+
 DATA_DIR = ROOT / "data"
 META_DIR = ROOT / "meta"
 IMG_DIR = ROOT / "images"

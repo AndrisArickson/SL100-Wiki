@@ -1,7 +1,7 @@
 """Build the SL100 equipment catalogue.   python3 tools/convert/equipment.py
 
 Merges three sources by item name:
-  1. chapter 08 (08 New Star Wars - Equipment.md) and Special Materials.md   - authoritative SL100 values and traits
+  1. the Equipment page (08 New Star Wars - Equipment.md) and Special Materials.md   - authoritative SL100 values and traits
   2. the d20 stat tables in ../Source_Text/tables/*.csv                        - item list, cost, weight, era, text
   3. ../Source_Text/tables/wiki_match.csv                                       - the Legends article for each item
 and writes converted SL100 statistics (nothing d20-mechanical survives) to rules/equipment/{weapons,armour,gear}.csv,
@@ -34,6 +34,7 @@ ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT.parent / "Source_Text" / "tables"
 OUT = ROOT / "rules" / "equipment"
 sys.path.insert(0, str(ROOT / "tools"))
+import common as C  # noqa: E402
 
 
 # ---------------------------------------------------------------- helpers
@@ -287,7 +288,7 @@ def md_tables(path):
 
 def read_08():
     weapons, armour, gear = [], [], []
-    for t in md_tables(ROOT / "08 New Star Wars - Equipment.md"):
+    for t in md_tables(C.RULES_DIR / "08 New Star Wars - Equipment.md"):
         h = t["head"]
         if "Dam" in h and "Name" in h:
             for r in t["rows"]:
@@ -296,7 +297,7 @@ def read_08():
                 weapons.append({"name": clean(r["Name"]).lstrip("\\*").strip(), "group": t["sec"], "skill": r.get("Skill", ""),
                                 "damage": r.get("Dam", ""), "range": r.get("Range", ""), "range_m": "", "mag": r.get("Mag", ""),
                                 "enc": r.get("Enc", ""), "cost": r.get("Cost", ""), "avail": r.get("Avail", ""), "legality": "",
-                                "traits": r.get("Traits", ""), "legends": "", "source": "08 Equipment", "status": "sl100",
+                                "traits": r.get("Traits", ""), "legends": "", "source": "Equipment", "status": "sl100",
                                 "notes": r.get("Description", "")})
         elif h[0] in ("ARMOUR",) or (h[0] == "Name" and "Location" in h):
             for r in t["rows"]:
@@ -309,19 +310,19 @@ def read_08():
                                "material": r.get("Material", ""), "ap": m.group(1) if m else num(apr) and str(int(num(apr))) or "",
                                "resist": m.group(2) if m else "", "enc": r.get("Enc", ""), "cost": r.get("Price", "") or r.get("Cost", ""),
                                "avail": r.get("Avail", ""), "legality": "", "traits": r.get("Qual / Flaw", "") or r.get("Traits", ""),
-                               "legends": "", "source": "08 Equipment", "status": "sl100", "notes": ""})
+                               "legends": "", "source": "Equipment", "status": "sl100", "notes": ""})
         elif h[:3] == ["Name", "Cost", "Enc"]:
             for r in t["rows"]:
                 if r.get("Name"):
                     gear.append({"name": clean(r["Name"]), "class": t["sec"], "carries": "", "enc": r.get("Enc", ""), "cost": r.get("Cost", ""),
-                                 "avail": "", "legality": "", "traits": r.get("Traits", ""), "legends": "", "source": "08 Equipment",
+                                 "avail": "", "legality": "", "traits": r.get("Traits", ""), "legends": "", "source": "Equipment",
                                  "status": "sl100", "notes": ""})
     return weapons, armour, gear
 
 
 def read_materials():
     mats = {}
-    for t in md_tables(ROOT / "Special Materials.md"):
+    for t in md_tables(C.RULES_DIR / "Special Materials.md"):
         if t["head"] and t["head"][0] == "Material" and "Armour Points - Resist" in t["head"]:
             for r in t["rows"]:
                 m = re.search(r"(\d+)\s*-\s*(?:Resist\s*)?(\d+)", r.get("Armour Points - Resist", ""))
@@ -460,10 +461,10 @@ def merge(sl, d20, fields, enc_rule="08"):
                     s[f] = d[f]
                 elif s.get(f) and d.get(f) and clean(s[f]) != clean(d[f]):
                     if f == "cost" and num(d[f]):
-                        s["notes"] = (s.get("notes", "") + " cost: d20 %s used instead of 08 %s;" % (d[f], s[f])).strip()
+                        s["notes"] = (s.get("notes", "") + " cost: d20 %s used instead of Equipment %s;" % (d[f], s[f])).strip()
                         s[f] = d[f]
                     elif f == "enc" and enc_rule == "computed":
-                        s["notes"] = (s.get("notes", "") + " enc: SL100 scale %s instead of 08 %s;" % (d[f], s[f])).strip()
+                        s["notes"] = (s.get("notes", "") + " enc: SL100 scale %s instead of Equipment %s;" % (d[f], s[f])).strip()
                         s[f] = d[f]
                     elif f in ("cost", "enc"):
                         conflicts.append((s["name"], f, s[f], d[f], d["source"]))
@@ -622,8 +623,8 @@ def weapons_page(rows, n_conv):
     labels = ["Weapon", "Skill", "Dam", "Band", "Range (m)", "Mag", "Enc", "Worn", "Cost", "Avail", "Legal", "Traits", "Source"]
     order = ["Blaster pistols and sidearms", "Blaster rifles and carbines", "Heavy weapons", "Slugthrowers and archaic weapons",
              "Grenades and explosives", "Exotic ranged weapons", "Launchers", "Melee weapons", "Lightsabers", "Ammunition and power", "Unclassified (review)"]
-    parts = ["__NOTOC__\n{{SL100 Rules|chapter=Weapons|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
-             "Every '''weapon''' a character can buy, with its SL100 statistics. Items marked ''(converted)'' were built from the d20 books by the conversion rules in [[SL100:Equipment]] and have not yet been reviewed; items without the mark are from chapter 08. Each name links to its Legends article where one is matched. Damage for ranged weapons is a flat value; melee damage adds your Strength Bonus. Range bands: Point Blank = Range/10, Short = Range/2, Long = 2 x Range, Extreme = 3 x Range (see Combat).",
+    parts = ["__NOTOC__\n<!-- Built from Equipment + Source_Text/tables by tools/convert/equipment.py -->\n{{SL100 Rules|section=Weapons|status=Catalogue: %d items, %d converted from d20 and awaiting review}}" % (len(rows), n_conv),
+             "Every '''weapon''' a character can buy, with its SL100 statistics. Items marked ''(converted)'' were built from the d20 books by the conversion rules in [[SL100:Equipment]] and have not yet been reviewed; items without the mark are from the [[SL100:Equipment|Equipment]] page. Each name links to its Legends article where one is matched. Damage for ranged weapons is a flat value; melee damage adds your Strength Bonus. Range bands: Point Blank = Range/10, Short = Range/2, Long = 2 x Range, Extreme = 3 x Range (see Combat).",
              "Legality: L licensed, R restricted, M military, I illegal. Availability: Common, Uncommon, Scarce, Rare, Exotic, Unique (see [[SL100:Special Materials]] for the stock chances by settlement)."]
     for g in order:
         sub = [r for r in rows if group_of(r) == g]
@@ -639,7 +640,7 @@ def weapons_page(rows, n_conv):
 def armour_page(rows, n_conv):
     cols = ["name", "type", "form", "locations", "material", "ap", "resist", "enc", "worn", "cost", "avail", "legality", "traits", "source"]
     labels = ["Armour", "Type", "Suit / piece", "Locations", "Material", "AP", "Resist", "Enc", "Worn", "Cost", "Avail", "Legal", "Qualities / Flaws", "Source"]
-    parts = ["__NOTOC__\n{{SL100 Rules|chapter=Armour|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Special Materials + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
+    parts = ["__NOTOC__\n<!-- Built from Equipment + Special Materials + Source_Text/tables by tools/convert/equipment.py -->\n{{SL100 Rules|section=Armour|status=Catalogue: %d items, %d converted from d20 and awaiting review}}" % (len(rows), n_conv),
              "'''Armour''' carries two values: '''AP''' (Armour Points) against blasters, slugs and blows, and '''Resist''' against lightsabers. Both come from the material the piece is made of (see [[SL100:Special Materials]]), never from the d20 books. Items marked ''(converted)'' took their AP and Resist from the default material for their type and need checking. A '''suit''' covers all locations and carries the whole-suit Enc (light 2, medium 6, heavy 10, powered 14 carried / 10 worn); a '''piece''' covers the locations listed and its Enc alone. Worn armour counts 1 Enc less (see [[SL100:Gear#Encumbrance|Encumbrance]]).",
              art("SL100 Gear Combat Armour.jpg", "Light combat armour", 220), table(rows, cols, labels), "[[Category:SL100]]\n[[Category:SL100 rules]]\n[[Category:SL100 armour]]"]
     return "\n\n".join(parts)
@@ -648,7 +649,7 @@ def armour_page(rows, n_conv):
 def gear_page(rows, n_conv):
     cols = ["name", "class", "enc", "worn", "carries", "cost", "avail", "legality", "traits", "source"]
     labels = ["Item", "Class", "Enc", "Worn", "Carries", "Cost", "Avail", "Legal", "Effect / Traits", "Source"]
-    parts = ["__NOTOC__\n{{SL100 Rules|chapter=Gear|status=Catalogue: %d items, %d converted from d20 and awaiting review|source=08 Equipment + Source_Text/tables (tools/convert/equipment.py)}}" % (len(rows), n_conv),
+    parts = ["__NOTOC__\n<!-- Built from Equipment + Source_Text/tables by tools/convert/equipment.py -->\n{{SL100 Rules|section=Gear|status=Catalogue: %d items, %d converted from d20 and awaiting review}}" % (len(rows), n_conv),
              art_strip(GEAR_ART), ENC_NOTE, "'''General equipment''': tools, medical supplies, communications, survival gear, security and slicing kit, and the rest of a character's trappings. Items marked ''(converted)'' have cost, Encumbrance and availability from the d20 books and still need their SL100 effect written.",
              table(rows, cols, labels), "[[Category:SL100]]\n[[Category:SL100 rules]]\n[[Category:SL100 equipment]]"]
     return "\n\n".join(parts)
@@ -690,14 +691,14 @@ def main():
     write_csv(OUT / "weapons.csv", weapons, wf)
     write_csv(OUT / "armour.csv", armour, af)
     write_csv(OUT / "gear.csv", gear, gf)
-    rep = ["# Equipment catalogue: review report", "", "Generated by tools/convert/equipment.py. 08 values win; every disagreement between 08 and a d20 source is listed here for a ruling.", ""]
+    rep = ["# Equipment catalogue: review report", "", "Generated by tools/convert/equipment.py. Equipment page values win; every disagreement between the Equipment page and a d20 source is listed here for a ruling.", ""]
     for title, conf in (("Weapons", cw), ("Armour", ca), ("Gear", cg)):
         rep.append("## %s: %d conflicts" % (title, len(conf)))
-        rep.append("| Item | Field | 08 value | d20 value | d20 source |\n| --- | --- | --- | --- | --- |")
+        rep.append("| Item | Field | Equipment value | d20 value | d20 source |\n| --- | --- | --- | --- | --- |")
         rep += ["| %s | %s | %s | %s | %s |" % c for c in conf]
         rep.append("")
     nc = lambda rows: sum(1 for r in rows if r["status"] == "converted")
-    rep.append("## Counts\n\n| Table | Items | From 08 | Merged | Converted (unreviewed) | With Legends link |\n| --- | --- | --- | --- | --- | --- |")
+    rep.append("## Counts\n\n| Table | Items | From Equipment | Merged | Converted (unreviewed) | With Legends link |\n| --- | --- | --- | --- | --- | --- |")
     for title, rows in (("Weapons", weapons), ("Armour", armour), ("Gear", gear)):
         rep.append("| %s | %d | %d | %d | %d | %d |" % (title, len(rows), sum(r["status"] == "sl100" for r in rows), sum(r["status"] == "merged" for r in rows), nc(rows), sum(bool(r["legends"]) for r in rows)))
     rep.append("\n## Materials read from Special Materials\n\n" + ", ".join("%s (%s-%s)" % (k, v[0], v[1]) for k, v in sorted(mats.items())))

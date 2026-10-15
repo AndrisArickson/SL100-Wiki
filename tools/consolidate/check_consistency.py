@@ -2,7 +2,10 @@
 """Cross-chapter consistency check: skills and talents referenced vs defined. Writes docs/rules-review/consistency-report.md data."""
 import re, pathlib, collections, json
 ROOT = pathlib.Path(__file__).resolve().parents[2]
-rd = lambda f: (ROOT / f).read_text(encoding="utf-8")
+import os  # noqa: E402
+# Markdown copies of the rules pages (tools/export_rules.py).
+RULES = pathlib.Path(os.environ.get("SL100_RULES") or (ROOT / "build" / "rules"))
+rd = lambda f: (RULES / f).read_text(encoding="utf-8")
 def base(s):
     s = re.sub(r"`\[[^\]]*\]`", "", s).strip().strip("*").strip()
     m = re.match(r"([^(]+?)\s*\((.*)\)\s*$", s)
