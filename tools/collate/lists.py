@@ -19,7 +19,8 @@ F07 = WIKI / "07 New Star Wars - Talents (revised).md"
 if not F07.exists():
     F07 = WIKI / "07 New Star Wars - Talents.md"
 F06 = WIKI / "06 New Star Wars - Skills.md"
-F05 = WIKI / "05 New Star Wars - Careers.md"
+F05 = WIKI / "05 New Star Wars - Careers (revised).md"
+REVISED05 = "(revised)" in str(F05)
 FTL = WIKI / "Talent List (revised).md"
 if not FTL.exists():
     FTL = WIKI / "Talent List.md"
@@ -100,11 +101,16 @@ def careers05():
     rows, cls, career, level = [], "", "", ""
     for i, ln in enumerate(F05.read_text(encoding="utf-8", errors="replace").split("\n"), 1):
         s = ln.strip()
-        if re.match(r"^#\s", s):
-            cls = plain(s.lstrip("#"))
-        elif re.match(r"^##\s", s):
+        if re.match(r"^###\s", s):
             career = plain(s.lstrip("#"))
-        lv = re.match(r"^\*\*(\d)\.\s*(.*?)\*\*$", s)
+        elif re.match(r"^##\s", s):
+            if REVISED05:
+                cls, career = ("" if plain(s.lstrip("#")) == "Index" else plain(s.lstrip("#"))), ""
+            else:
+                career = plain(s.lstrip("#"))
+        elif re.match(r"^#\s", s):
+            cls = plain(s.lstrip("#"))
+        lv = re.match(r"^\*\*(\d)\.\s*(.*?)\*\*(?:\s*`\[[^\]]*\]`)?$", s)
         if lv:
             level = lv.group(1) + ". " + plain(lv.group(2))
         km = re.match(r"^\*\*(Skills|Talents)\s*:?\*\*\s*:?\s*(.*)$", s)

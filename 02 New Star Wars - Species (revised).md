@@ -316,7 +316,7 @@ In terms of society and governance, the Echani have a matriarchal structure, wit
 
 In the wider galaxy, Echani are respected for their combat prowess and their skills are sought after by various factions and organizations. Some Echani serve as bodyguards or mercenaries, while others may be found in the ranks of elite military units or even as Jedi, using their unique skills and perspectives to serve the greater good.
 
-The Thyrasian sub species of Echani is known for their dark hair and skin, rather than the white skin and eyes that defined the Echani. They are fond of heavy weapons and often are trained in Ordinance class weapons.
+The Thyrasian sub species of Echani is known for their dark hair and skin, rather than the white skin and eyes that defined the Echani. They are fond of heavy weapons and often are trained in Ranged (Ordnance) weapons.
 
 **WS** +10**&#32;&#32;BS** +10**&#32;&#32;AG** +10**&#32;&#32;Talents:&#32;**Combat Aware, Datapad Use**,** Warrior Born, roll 2 talents from the random talents list.
 

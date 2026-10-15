@@ -7,7 +7,7 @@ Talk with your Game Director about the Origin of your character and alternative 
 ### How an Origin works
 
 - **Characteristics:** add +5 to the Origin's fixed Characteristic, and +5 to one Characteristic you choose from its three options.
-- **Skills:** each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says *(Any)*, pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them.
+- **Skills:** each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says *(Any)*, pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. Weapon choices are written with slashes, e.g. Melee (1H/2H/Brawling) or Ranged (Blaster/Ordnance): pick one group, e.g. Melee (1H).
 
 | D100 | Origin | +5 to | and +5 to one of |
 | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Planets with a social structure based on feudalism, with a ruling class that con
 
 **Starting Characteristics:** +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship.
 
-**Starting Skills:** Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (Any), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural)
+**Starting Skills:** Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (1H/2H/Brawling), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural)
 
 ### Feral Worlds
 
@@ -85,7 +85,7 @@ Planets with a low level of civilisation and technology, often inhabited by prim
 
 **Starting Characteristics:** +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative.
 
-**Starting Skills:** Athletics, Climb, Creature Training (Any), Dodge, Melee (Any), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track
+**Starting Skills:** Athletics, Climb, Creature Training (Any), Dodge, Melee (1H/2H/Brawling), Ranged (Archaic/Blaster), Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track
 
 ### Industrial Worlds
 
@@ -97,7 +97,7 @@ Planets with a high level of industrial activity, or even dedicated to heavy ind
 
 **Starting Characteristics:** +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility.
 
-**Starting Skills:** Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (Any), Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban)
+**Starting Skills:** Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (1H/2H/Brawling), Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban)
 
 ### Lava Worlds
 
@@ -121,7 +121,7 @@ Planets or moons that are extremely hostile to life, through extreme weather, da
 
 **Starting Characteristics:** +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness.
 
-**Starting Skills:** Athletics, Climb, Creature Training (Any), Dodge, Melee (Any), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim
+**Starting Skills:** Athletics, Climb, Creature Training (Any), Dodge, Melee (1H/2H/Brawling), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim
 
 ### Agri Worlds
 
@@ -133,7 +133,7 @@ Planets primarily used for agriculture, with large areas given over to farming o
 
 **Starting Characteristics:** +5 Strength, and +5 to one of Toughness, Agility or Willpower.
 
-**Starting Skills:** Athletics, Climb, Creature Care, Creature Training (Any), Dodge, Haggle, Melee (Any), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim, Track
+**Starting Skills:** Athletics, Climb, Creature Care, Creature Training (Any), Dodge, Haggle, Melee (1H/2H/Brawling), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim, Track
 
 ### Ocean Worlds
 
@@ -145,7 +145,7 @@ Planets almost entirely covered by water, with very little or no land.
 
 **Starting Characteristics:** +5 Toughness, and +5 to one of Agility, Initiative or Fellowship.
 
-**Starting Skills:** Athletics, Cool, Creature Training (Any), Dodge, Endurance, Melee (Any), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic), Ride (Air, Land or Water), Swim
+**Starting Skills:** Athletics, Cool, Creature Training (Any), Dodge, Endurance, Melee (1H/2H/Brawling), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic/Blaster), Ride (Air, Land or Water), Swim
 
 ### Tundra Worlds
 
@@ -157,7 +157,7 @@ Planets almost entirely covered by ice and snow.
 
 **Starting Characteristics:** +5 Toughness, and +5 to one of Agility, Initiative or Strength.
 
-**Starting Skills:** Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intimidate, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
+**Starting Skills:** Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic/Blaster), Ride (Air, Land or Water), Stealth (Rural)
 
 ### Space
 
@@ -167,7 +167,7 @@ You were born on or around starships and asteroid colonies, and spent your forma
 
 **Starting Characteristics:** +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship.
 
-**Starting Skills:** Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster or Ordnance)
+**Starting Skills:** Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster/Ordnance)
 
 ### Force Nexus Worlds
 
@@ -179,4 +179,4 @@ Worlds with a strong connection to the Force, known as Force nexuses. They may a
 
 **Starting Characteristics:** +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship.
 
-**Starting Skills:** Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural)
+**Starting Skills:** Athletics, Cool, Creature Training (Any), Dodge, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Rural)

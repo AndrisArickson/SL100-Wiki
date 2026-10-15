@@ -11,9 +11,11 @@ from pathlib import Path
 
 WIKI = Path(__file__).resolve().parent.parent.parent
 OUT = WIKI / "docs" / "collation"
-D = {k: WIKI / v for k, v in {"01": "01 New Star Wars - Introduction & Characteristics.md", "02": "02 New Star Wars - Species.md",
+D = {k: WIKI / v for k, v in {"01": "01 New Star Wars - Introduction & Characteristics.md", "02": "02 New Star Wars - Species (revised).md",
                                "03": "03 New Star Wars - Origin.md", "04": "04 New Star Wars - Faction.md",
-                               "05": "05 New Star Wars - Careers.md"}.items()}
+                               "05": "05 New Star Wars - Careers (revised).md"}.items()}
+REVISED05 = "(revised)" in str(D["05"])
+REVISED02 = "(revised)" in str(D["02"])
 CHAR = r"(WS|BS|S|STR|T|TOU|I|INI|AG|AGI|AGL|DEX|INT|WP|WIL|WILL|FEL)"
 
 
@@ -33,7 +35,8 @@ def species():
     for i, ln in enumerate(txt("02").split("\n"), 1):
         m = re.match(r"^(?:#{1,6}\s*)?\[([^\]]+)\]\((https?://[^)]+)\)\s*$", ln.strip())
         h = re.match(r"^#{2,6}\s*([A-Z][^\[\]]{1,40})$", ln.strip())
-        if m or (h and plain(h.group(1)).upper() != "SPECIES"):
+        # 02 (revised) gives every species a linked heading; its other headings are sections.
+        if m or (h and not REVISED02 and plain(h.group(1)).upper() != "SPECIES"):
             cur = {"species": plain(m.group(1) if m else h.group(1)), "wookieepedia": m.group(2) if m else "", "line": i,
                    "characteristics": "", "talents": "", "movement": "", "fate": "", "resilience": "", "extra_points": "",
                    "size": "", "natural_weapons": "", "other": ""}
@@ -49,7 +52,7 @@ def species():
         t = re.search(r"Talents\s*:?\s*(.*?)(?=$|Mv\b|Movement)", p, re.I)
         if t and not cur["talents"]:
             cur["talents"] = t.group(1).strip(" ,.")
-        for key, rx in (("movement", r"(?:Mv|Movement)\s*:?\s*(\d+)"), ("fate", r"Fate\s*:?\s*(\d+)"),
+        for key, rx in (("movement", r"(?:Mv|Movement)\s*:?\s*(\d+)"), ("fate", r"(?:Destiny|Fate)\s*:?\s*(\d+)"),
                         ("resilience", r"Resilience\s*:?\s*(\d+)"), ("extra_points", r"Extra [Pp]oints\s*:?\s*(\d+)"),
                         ("size", r"Size\s*:?\s*(\w+)"), ("natural_weapons", r"Natural Weapons?\s*:?\s*(.*)$")):
             v = re.search(rx, p, re.I)
@@ -105,11 +108,16 @@ def careers():
     rows, cls, career, take = [], "", "", False
     for ln in txt("05").split("\n"):
         s = ln.strip()
-        if re.match(r"^#\s", s):
-            cls = plain(s[1:])
+        if re.match(r"^###\s", s):
+            career = plain(s[3:])
         elif re.match(r"^##\s", s):
-            career = plain(s[2:])
-        m = re.match(r"^\*\*(\d)\.\s*(.*?)\*\*$", s)
+            if REVISED05:
+                cls, career = ("" if plain(s[2:]) == "Index" else plain(s[2:])), ""
+            else:
+                career = plain(s[2:])
+        elif re.match(r"^#\s", s):
+            cls = plain(s[1:])
+        m = re.match(r"^\*\*(\d)\.\s*(.*?)\*\*(?:\s*`\[[^\]]*\]`)?$", s)
         if m:
             take = m.group(1) == "1"
             if take and career:
@@ -158,7 +166,7 @@ def main():
           "## Gaps the collation found (for the rules discussion)", ""]
     gaps = []
     gaps += ["- Species with missing fields: " + "; ".join("%s (%s)" % (r["species"], r["other"][9:]) for r in sp if r["other"])]
-    if "nine" in txt("01").lower():
+    if "nine characteristics" in txt("01").lower():
         gaps.append("- 01 says 'nine Characteristics'; the 05 Advance Schemes and the Roll20 sheet have ten (with Dex).")
     if "Origin" in txt("01") and not re.search(r"Species", txt("01")):
         gaps.append("- 01 sends you from Characteristics straight to '2) Origin'; Species (02) is not mentioned in 01's steps.")
