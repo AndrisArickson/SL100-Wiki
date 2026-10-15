@@ -58,7 +58,7 @@ PAGES = [
 
 CARDS = [
     ("Play the game", [
-        ("How to Play", "How to Play", "Tests, Success Levels, Advantage, Fate and Resolve, Conditions and Critical Wounds: the core d100 rules."),
+        ("How to Play", "How to Play", "Tests, Success Levels, Advantage, Fortune and Resolve, Conditions and Critical Wounds: the core d100 rules."),
         ("Combat", "Combat", "Blasters, lightsabers, stun settings, armour and shields, hit locations, lightsaber and combat forms."),
         ("The Force", "The Force", "Sense, Control and Alter disciplines, Force powers, sorcerous traditions and Force Influence."),
         ("Game Master", "Game Master", "Running the game, downtime Endeavours, rewards and the campaign era."),
