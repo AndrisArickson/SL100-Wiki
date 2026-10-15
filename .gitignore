@@ -3,7 +3,7 @@ data/
 __pycache__/
 *.pyc
 *.tmp
-# Images: every image the wiki serves is committed, as WebP only (decision 13 Oct): Wookieepedia images
+# Images: every image the wiki serves is committed, as WebP or (when smaller) SVG: Wookieepedia images
 # (free, fair use or untagged, attribution in meta/image_licences.tsv) and the group's own artwork.
 # Non-WebP originals live outside the repo in ../art_originals.
 images/**/*.png

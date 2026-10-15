@@ -71,14 +71,18 @@ def path_of(rec):
     return rec.get("path") or "pages/" + rec["rel"]
 
 
+def paths_of(rec):
+    """Every file the draft touches: the file itself, and for an image the copy in the other format it replaced."""
+    return [path_of(rec)] + [p for p in rec.get("removed", []) if p != path_of(rec)]
+
+
 def drafts():
     """{key: {path, kind, editors, summaries, first, last, state, pr}}. The key is the page title, or "File:<name>" for
     an image. Drafts whose file matches the pulled version are removed."""
     d = _load(DRAFTS, {})
     changed = False
     for key in list(d):
-        path = path_of(d[key])
-        if current_bytes(path) == base_bytes(path):
+        if all(current_bytes(p) == base_bytes(p) for p in paths_of(d[key])):
             del d[key]
             changed = True
     if changed:
@@ -86,9 +90,15 @@ def drafts():
     return d
 
 
-def _record(key, path, kind, editor, summary):
+def _record(key, path, kind, editor, summary, removed=()):
     d = _load(DRAFTS, {})
     rec = d.get(key) or {"editors": [], "summaries": [], "first": now_iso(), "state": "draft", "pr": ""}
+    old = path_of(rec) if ("path" in rec or "rel" in rec) else None
+    gone = set(rec.get("removed", [])) | set(removed)
+    if old and old != path:
+        gone.add(old)                          # e.g. a WebP replaced by an SVG: the WebP goes
+    gone.discard(path)
+    rec["removed"] = sorted(gone)
     rec["path"], rec["kind"] = path, kind
     rec.pop("rel", None)
     if editor and editor not in rec["editors"]:
@@ -106,9 +116,10 @@ def record_edit(title, rel, editor, summary):
     _record(title, "pages/" + rel, "page", editor, summary)
 
 
-def record_image(name, path, editor, summary):
-    """An image downloaded or uploaded into the wiki (path is its repository path, images/full/...)."""
-    _record("File:" + name, path, "image", editor, summary)
+def record_image(name, path, editor, summary, removed=()):
+    """An image downloaded or uploaded into the wiki (path is its repository path, images/full/...; removed lists the
+    copy in the other format, WebP or SVG, that it replaces)."""
+    _record("File:" + name, path, "image", editor, summary, removed)
 
 
 def forget(keys):
@@ -148,13 +159,14 @@ def discard(key):
     rec = _load(DRAFTS, {}).get(key)
     if not rec:
         return False
-    path = path_of(rec)
-    cur, base = ROOT / path, base_bytes(path)
-    if base is None:
-        if cur.exists():
-            cur.unlink()
-    else:
-        cur.write_bytes(base)
+    for path in paths_of(rec):
+        cur, base = ROOT / path, base_bytes(path)
+        if base is None:
+            if cur.exists():
+                cur.unlink()
+        else:
+            cur.parent.mkdir(parents=True, exist_ok=True)
+            cur.write_bytes(base)
     forget([key])
     return True
 
@@ -166,11 +178,15 @@ def diff_html(key, context=3):
     path = path_of(rec)
     old, new = base_bytes(path), current_bytes(path)
     if rec.get("kind") == "image":
+        for r in rec.get("removed", []):
+            old = old or base_bytes(r)                 # the picture it replaces, in the other format
         def pic(data, label):
             if not data:
                 return '<figure><figcaption>%s</figcaption><p class="hint">none (placeholder)</p></figure>' % label
-            return ('<figure><img src="data:image/webp;base64,%s" style="max-width:360px"><figcaption>%s, %d KB</figcaption></figure>'
-                    % (base64.b64encode(data).decode("ascii"), label, len(data) // 1024))
+            svg = data.lstrip()[:5] in (b"<?xml", b"<svg ") or b"<svg" in data[:2048]
+            return ('<figure><img src="data:%s;base64,%s" style="max-width:360px"><figcaption>%s, %s, %s KB</figcaption></figure>'
+                    % ("image/svg+xml" if svg else "image/webp", base64.b64encode(data).decode("ascii"), label,
+                       "SVG" if svg else "WebP", max(1, round(len(data) / 1024))))
         return '<div class="imgdiff">%s%s</div>' % (pic(old, "Pulled"), pic(new, "Draft"))
     old_lines = (old or b"").decode("utf-8", errors="replace").splitlines()
     new_lines = (new or b"").decode("utf-8", errors="replace").splitlines()
@@ -230,17 +246,18 @@ def submit(titles, pr_title, description):
     # 1. Refuse pages that changed on GitHub since this computer pulled them, so nobody's edit is overwritten.
     stale = []
     for t in chosen:
-        path = path_of(d[t])
-        pulled = base_bytes(path)
-        try:
-            remote = _api("GET", "/repos/%s/contents/%s?ref=%s" % (upstream, _q(path), base), tok)
-            remote_sha = remote.get("sha")
-        except GitHubError as e:
-            if " 404 " not in str(e) + " ":
-                raise
-            remote_sha = None
-        if (pulled is None) != (remote_sha is None) or (pulled is not None and blob_sha(pulled) != remote_sha):
-            stale.append(t)
+        for path in paths_of(d[t]):
+            pulled = base_bytes(path)
+            try:
+                remote = _api("GET", "/repos/%s/contents/%s?ref=%s" % (upstream, _q(path), base), tok)
+                remote_sha = remote.get("sha")
+            except GitHubError as e:
+                if " 404 " not in str(e) + " ":
+                    raise
+                remote_sha = None
+            if (pulled is None) != (remote_sha is None) or (pulled is not None and blob_sha(pulled) != remote_sha):
+                stale.append(t)
+                break
     if stale:
         raise GitHubError("these changed on GitHub since you last pulled: %s. Pull (git pull), check your "
                           "draft still reads right, then submit again." % ", ".join(stale))
@@ -260,6 +277,9 @@ def submit(titles, pr_title, description):
         blob = _api("POST", "/repos/%s/git/blobs" % target, tok,
                     {"content": base64.b64encode(data).decode("ascii"), "encoding": "base64"})
         entries.append({"path": path, "mode": "100644", "type": "blob", "sha": blob["sha"]})
+        for gone in paths_of(d[t])[1:]:
+            if base_bytes(gone) is not None:           # delete the replaced copy (sha None removes it from the tree)
+                entries.append({"path": gone, "mode": "100644", "type": "blob", "sha": None})
     new_tree = _api("POST", "/repos/%s/git/trees" % target, tok, {"base_tree": tree, "tree": entries})["sha"]
     who = s["name"] or "a reviewer"
     lines = ["- %s%s" % (t, (": " + "; ".join(d[t]["summaries"])) if d[t]["summaries"] else "") for t in chosen]
