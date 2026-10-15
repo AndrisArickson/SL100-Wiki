@@ -128,3 +128,34 @@ Slash notation was also normalised everywhere: "X or Y" became "X/Y" and `\*Ligh
 - **Sharpshooter**: L1 trapping: Slugthrower Rifle with 2 Magazines -> Blaster Sniper Rifle with 2 power packs; L2 trapping: Quality Slugthrower Rifle with Scope -> Quality Blaster Sniper Rifle with Scope; L1 skill: Ranged (Archaic) -> Ranged (Blaster); L1 skill: Ranged (Blaster) -> Ranged (Archaic/Exotic)
 - **Soldier**: L1 skill: Melee (1H) -> Melee (1H/2H); L2 skill: Melee (Any) -> Melee (1H/2H/Brawling); L2 skill: Ranged (Any) -> Ranged (Ordnance/Thrown)
 - **Speeder Trooper**: L2 trapping: Riot Shield removed; L1 skill: Athletics -> Ranged (Blaster); L2 skill: Ranged (Blaster) -> Ranged (Ordnance); L2 talent: Trick Riding -> Ace Pilot
+
+## Other chapters
+
+- **03 Origin:**
+  - `Melee (Any)` became `Melee (1H/2H/Brawling)` on Feudal, Feral, Industrial, Hostile, Agri and Ocean worlds.
+  - `Ranged (Blaster or Ordnance)` became `Ranged (Blaster/Ordnance)` (Space).
+  - Ranged (Blaster) was added where it was missing:
+    - Feral: Ranged (Archaic/Blaster) replaces Navigation.
+    - Ocean: Ranged (Archaic) became Ranged (Archaic/Blaster).
+    - Tundra: Ranged (Archaic/Blaster) replaces Intimidate.
+    - Force Nexus: Ranged (Blaster) replaces Endurance.
+- **06 Skills:**
+  - The Melee and Ranged lists are in slash form.
+  - Ordnance covers large, heavy, tripod and turreted weapons, and every vehicle and starship weapon.
+  - The E-Web and mounted repeating blasters moved from Blaster to Ordnance.
+  - Blaster is the skill for any futuristic personal weapon.
+- **08 Equipment:**
+  - A Skill column was added to the Heavy Weapon, Melee (2H) and Thrown tables.
+  - "Heavy Weapon (Ranged Heavy Weapon skill)" became "Heavy Weapon", all Ranged (Ordnance).
+  - "Thrown (Ranged Archaic)" became "Thrown", all Ranged (Thrown).
+  - Skills were aligned with 06:
+    - Hand Flamer, Backpack Flamer, Needle Pistol, Needle Rifle, Web Pistol and Webber are Ranged (Exotic).
+    - Bowcaster is Ranged (Archaic).
+    - Vibro-axe is Melee (2H).
+- **02 Species:** the Thyrasian Echani line reads Ranged (Ordnance).
+
+## Not regenerated
+
+`rules/equipment/*.csv` and the SL100:Weapons, Armour and Gear pages come from `tools/convert/equipment.py`, which needs
+`../Source_Text`. That folder isn't in the repository, so they weren't rebuilt. The `wiki.sh collate` steps that need it were
+skipped too; `lists.py`, `assembly.py` and `vocab.py` were run.
