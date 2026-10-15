@@ -70,7 +70,7 @@ it from **Review changes**, which submits your drafts to GitHub as a pull reques
 process, including the GitHub token reviewers need, is in [CONTRIBUTING.md](CONTRIBUTING.md). Old versions of every page
 are kept in `data/history/`. Notes for reviewers are written `` `[review: ...]` `` and stay hidden until a reader presses
 *Show review notes*. Each page also lists its pictures under *Images on this page*, with a link to the original on
-Wookieepedia, **Download & replace** (fetches it as WebP) and an upload box; a new picture is a draft submitted the same way.
+Wookieepedia, **Download & replace** (fetches it as WebP, or as SVG when that is smaller) and an upload box; a new picture is a draft submitted the same way.
 
 Use the `SL100:` prefix for new game pages (e.g. `SL100:Weapons/Blaster pistol`) and put game statistics in an
 infobox-style template, for example `{{SL100 Weapon|name=...|damage=...|price=...|availability=...}}` - see

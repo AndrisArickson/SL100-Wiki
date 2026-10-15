@@ -162,7 +162,7 @@ def image_controls(name, back):
             '<form method="post" action="/image/fetch"><input type="hidden" name="name" value="%s">'
             '<input type="hidden" name="back" value="%s"><button>Download &amp; replace from Wookieepedia</button></form>'
             '<form method="post" action="/image/upload" enctype="multipart/form-data"><input type="hidden" name="name" value="%s">'
-            '<input type="hidden" name="back" value="%s"><input type="file" name="file" accept="image/webp,image/*" required> '
+            '<input type="hidden" name="back" value="%s"><input type="file" name="file" accept="image/webp,image/svg+xml,.svg,image/*" required> '
             '<button>Upload instead</button></form></div>'
             % (esc(imagefetch.file_page_url(name)), q, esc(back), q, esc(back)))
 
@@ -547,15 +547,15 @@ class H(BaseHTTPRequestHandler):
         if not name:
             return self.send("bad request", 400, "text/plain")
         try:
-            path, size, meta = imagefetch.download(name)
+            path, size, meta, removed = imagefetch.download(name)
         except imagefetch.ImageError as e:
             return self.image_done(name, back, error="Not downloaded: %s. You can save the image from the Wookieepedia file "
                                                      "page yourself and use Upload instead." % e)
         lic = meta.get("licence") or "licence not stated"
-        review.record_image(name, path, review.settings()["name"], "Downloaded from Wookieepedia (%s%s)" %
-                            (lic, ", by " + meta["artist"] if meta.get("artist") else ""))
-        self.image_done(name, back, message="Downloaded as WebP (%d KB, %s). It is a draft until you submit it from Review changes."
-                        % (size // 1024, esc(lic)))
+        review.record_image(name, path, review.settings()["name"], "Downloaded from Wookieepedia as %s (%s%s)" %
+                            (meta["format"], lic, ", by " + meta["artist"] if meta.get("artist") else ""), removed)
+        self.image_done(name, back, message="Downloaded as %s (%s KB, %s). It is a draft until you submit it from Review changes."
+                        % (meta["format"], max(1, round(size / 1024)), esc(lic)))
 
     def image_upload(self, raw):
         from email.parser import BytesParser
@@ -572,11 +572,12 @@ class H(BaseHTTPRequestHandler):
         if not name:
             return self.send("bad request", 400, "text/plain")
         try:
-            path, size = imagefetch.save_upload(name, data)
+            path, size, fmt, removed = imagefetch.save_upload(name, data)
         except imagefetch.ImageError as e:
             return self.image_done(name, back, error="Not saved: %s." % e)
-        review.record_image(name, path, review.settings()["name"], "Uploaded by hand")
-        self.image_done(name, back, message="Saved as WebP (%d KB). It is a draft until you submit it from Review changes." % (size // 1024))
+        review.record_image(name, path, review.settings()["name"], "Uploaded by hand as %s" % fmt, removed)
+        self.image_done(name, back, message="Saved as %s (%s KB). It is a draft until you submit it from Review changes."
+                        % (fmt, max(1, round(size / 1024))))
 
     def home(self, con):
         n = con.execute("SELECT COUNT(*) FROM pages WHERE path IS NOT NULL").fetchone()[0]
@@ -763,7 +764,7 @@ class H(BaseHTTPRequestHandler):
                      (esc(lic[1] or "not stated"), esc(lic[0]), (" &middot; <b>Author:</b> " + esc(lic[2])) if lic[2] else "",
                       (" &middot; <b>Credit:</b> " + esc(lic[3])) if lic[3] else "", esc(lic[4] or "#"),
                       " Shown in this private local wiki only; not published." if lic[0] != "free" else ""))
-        body = (draft_banner("File:" + name) + '<img class="wimg" src="/img/%s" style="max-width:100%%">%s' % (img_info(name)[0], info) +
+        body = (draft_banner("File:" + name) + '<img class="wimg" src="%s" style="max-width:100%%">%s' % (img_info(name)[0], info) +
                 '<h3>Download or replace</h3>' + image_controls(name, "File:" + name) + '<h3>Used on</h3><ul>%s</ul>' % used)
         self.send(layout("File:" + esc(name), body))
 
@@ -773,8 +774,11 @@ class H(BaseHTTPRequestHandler):
         for real, ctype in ((FULL_IMG_DIR / rel.replace(".webp", ""), None), (FULL_IMG_DIR / rel, "image/webp"),
                             (ROOT / "images" / "local" / rel, "image/webp")):      # hand-placed file, free WebP, local-only WebP
             if real.is_file():
-                return self.send(real.read_bytes(), 200, ctype or mimetypes.guess_type(str(real))[0] or "image/jpeg",
-                                 {"Cache-Control": "no-cache"})
+                ctype = ctype or mimetypes.guess_type(str(real))[0] or "image/jpeg"
+                headers = {"Cache-Control": "no-cache"}
+                if ctype == "image/svg+xml":       # an SVG opened on its own must not run anything
+                    headers["Content-Security-Policy"] = "default-src 'none'; style-src 'unsafe-inline'; img-src data:"
+                return self.send(real.read_bytes(), 200, ctype, headers)
         w, h = DIMS.get(name, (None, None))
         p = placeholders.ensure_placeholder(name, w, h)
         self.send(p.read_bytes(), 200, "image/webp", {"Cache-Control": "no-cache"})

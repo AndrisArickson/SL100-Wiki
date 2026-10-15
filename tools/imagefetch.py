@@ -1,11 +1,14 @@
 """Download or upload one image into the wiki, for reviewers (the "Images on this page" panel).
 
     info(name)              the Wookieepedia file details: original URL, size, type, licence, author, file page
-    download(name)          fetch it from Wookieepedia as WebP (max 800 px wide) into images/full/
-    save_upload(name, data) store an image the reviewer saved by hand (WebP, or any picture when Pillow is installed)
+    download(name)          fetch it from Wookieepedia as WebP (max 800 px wide) into images/full/; for an SVG original,
+                            fetch both the SVG and a WebP copy and keep whichever is smaller
+    save_upload(name, data) store an image the reviewer saved by hand (WebP or SVG, or any picture when Pillow is
+                            installed)
 
 Wookieepedia's image server (Fandom's) returns WebP when asked with format=webp; anything else is converted with
-Pillow when it is installed, and refused otherwise. The file lands where the wiki serves it from, and the caller
+Pillow when it is installed, and refused otherwise. An SVG is kept as SVG (at images/full/<x>/<name>.svg, which the
+wiki serves in place of the WebP) after scripts, event handlers and outside links are removed from it. The file lands where the wiki serves it from, and the caller
 records it as a draft (tools/review.py) so it can be submitted to GitHub with the reviewer's other changes.
 """
 import json
@@ -31,9 +34,29 @@ def is_webp(data):
     return data[:4] == b"RIFF" and data[8:12] == b"WEBP"
 
 
-def repo_path(name):
-    """Where the wiki serves this image from, relative to the repository root."""
-    return "images/full/" + placeholders.placeholder_relpath(name)
+def is_svg(data):
+    head = data[:2048].lstrip(b"\xef\xbb\xbf \t\r\n").lower()
+    return (head.startswith((b"<?xml", b"<svg", b"<!doctype svg", b"<!--")) and b"<svg" in head) or head.startswith(b"<svg")
+
+
+def clean_svg(data):
+    """An SVG can carry scripts: drop scripts, foreign HTML, event handlers and links that leave the file."""
+    s = data.decode("utf-8", errors="replace")
+    s = re.sub(r"<script\b.*?</script\s*>|<script\b[^>]*/>", "", s, flags=re.I | re.S)
+    s = re.sub(r"<foreignObject\b.*?</foreignObject\s*>|<foreignObject\b[^>]*/>", "", s, flags=re.I | re.S)
+    s = re.sub(r"""\s+on[a-z]+\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)""", "", s, flags=re.I)
+    s = re.sub(r"""\s+(?:xlink:)?href\s*=\s*("|')\s*(?!#|data:image/)[^"']*\1""", "", s, flags=re.I)
+    if re.search(r"<script|javascript:|<iframe|<object|<embed", s, re.I):
+        raise ImageError("the SVG holds scripts or embedded pages that could not be removed safely")
+    if "<svg" not in s.lower():
+        raise ImageError("not an SVG picture")
+    return s.encode("utf-8")
+
+
+def repo_path(name, svg=False):
+    """Where the wiki serves this image from, relative to the repository root (the SVG copy, when svg is True)."""
+    rel = "images/full/" + placeholders.placeholder_relpath(name)
+    return rel[:-len(".webp")] if svg else rel
 
 
 def file_page_url(name):
@@ -92,14 +115,19 @@ def to_webp(data):
         raise ImageError("not a picture the wiki can use (%s)" % e)
 
 
-def _store(name, data):
-    path = repo_path(name)
+def _store(name, data, svg=False):
+    """Save the image; remove the copy in the other format so the wiki serves this one. Returns (path, removed)."""
+    path, other = repo_path(name, svg), repo_path(name, not svg)
     f = C.ROOT / path
     f.parent.mkdir(parents=True, exist_ok=True)
-    tmp = f.with_suffix(".tmp")
+    tmp = f.parent / (f.name + ".tmp")
     tmp.write_bytes(data)
     tmp.replace(f)
-    return path
+    removed = []
+    if (C.ROOT / other).is_file():
+        (C.ROOT / other).unlink()
+        removed.append(other)
+    return path, removed
 
 
 def _mark(name, meta, path, size):
@@ -123,22 +151,42 @@ def _mark(name, meta, path, size):
 
 
 def download(name):
-    """Fetch the image from Wookieepedia as WebP and save it. Returns (repository path, size in bytes, details)."""
+    """Fetch the image from Wookieepedia and save it. Returns (repository path, size in bytes, details, removed paths);
+    details["format"] says which format was kept."""
     meta = info(name)
     if not meta["url"]:
         raise ImageError("Wookieepedia lists no file to download for %s" % name)
-    data, _ = _get(webp_url(meta["url"], meta.get("width")))
-    data = to_webp(data)
-    path = _store(name, data)
+    svg = None
+    if meta.get("mime") == "image/svg+xml" or name.lower().endswith(".svg"):
+        raw, _ = _get(meta["url"])                       # the original drawing
+        if is_svg(raw):
+            svg = clean_svg(raw)
+    webp = None
+    try:
+        data, _ = _get(webp_url(meta["url"], meta.get("width") or (MAX_W + 1 if svg else None)))
+        webp = to_webp(data) if not is_svg(data) else None
+    except ImageError:
+        if svg is None:
+            raise
+    if svg is not None and (webp is None or len(svg) <= len(webp)):
+        data, meta["format"] = svg, "SVG"
+    elif webp is not None:
+        data, meta["format"] = webp, "WebP"
+    else:
+        raise ImageError("Wookieepedia sent neither a WebP nor an SVG picture")
+    path, removed = _store(name, data, svg=meta["format"] == "SVG")
     _mark(name, meta, path, len(data))
-    return path, len(data), meta
+    return path, len(data), meta, removed
 
 
 def save_upload(name, data):
-    """Save a picture the reviewer downloaded by hand. Returns (repository path, size in bytes)."""
+    """Save a picture the reviewer downloaded by hand. Returns (repository path, size in bytes, format, removed)."""
     if not data:
         raise ImageError("no file was uploaded")
-    data = to_webp(data)
-    path = _store(name, data)
+    if is_svg(data):
+        data, fmt = clean_svg(data), "SVG"
+    else:
+        data, fmt = to_webp(data), "WebP"
+    path, removed = _store(name, data, svg=fmt == "SVG")
     _mark(name, {}, path, len(data))
-    return path, len(data)
+    return path, len(data), fmt, removed

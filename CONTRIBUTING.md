@@ -48,8 +48,13 @@ same controls). For each picture:
 
 1. **Wookieepedia file page** opens the original, so you can check its size, licence and author before using it.
 2. **Download & replace from Wookieepedia** fetches it as WebP (at most 800 pixels wide) and shows it in the wiki at once.
-3. If the download fails, save the picture from the Wookieepedia page yourself and use **Upload instead**. WebP files
-   are used as they are; other formats are converted when Pillow is installed (`pip install pillow`).
+   When the original is an SVG drawing (emblems, logos, maps), the wiki fetches both the SVG and a WebP copy and keeps
+   whichever file is smaller.
+3. If the download fails, save the picture from the Wookieepedia page yourself and use **Upload instead**. WebP and SVG
+   files are used as they are; other formats are converted when Pillow is installed (`pip install pillow`).
+
+SVG files can carry scripts, so the wiki removes scripts, event handlers and links to other sites from every SVG it
+saves, refuses one it cannot clean, and serves SVGs in a way that cannot run code.
 
 A new picture is a draft like a page edit: it appears on **Review changes**, where *changes* shows the old and new
 picture side by side, and it reaches GitHub (and so the other reviewers) only when you **submit** it.
