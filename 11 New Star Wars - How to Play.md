@@ -1,10 +1,10 @@
-# 11 How to Play
+# How to Play
 
 `[review]`
 
 *Star Legends – Galactic Wars* is played with percentile dice. Almost everything your character tries, from talking a customs officer out of a cargo inspection to deflecting a blaster bolt, comes down to one question: did you roll under your number? This chapter explains that question in full, then the things that hang off it: Success Levels, Advantage, Conditions, Wounds, fear, and how your character grows from a frightened farm kid on Tatooine into someone the galaxy has heard of.
 
-The rules for character creation are in chapters 01 to 07, equipment is in chapter 08, the Force in chapter 09 and fighting in chapter 10. Everything here applies to all of them.
+Character creation is covered by [[SL100:Characteristics|Characteristics]], [[SL100:Species|Species]], [[SL100:Origin|Origin]], [[SL100:Faction|Faction]], [[SL100:Careers|Careers]], [[SL100:Skills|Skills]] and [[SL100:Talents|Talents]]; equipment is in [[SL100:Equipment|Equipment]], the Force in [[SL100:The Force|The Force]] and fighting in [[SL100:Combat|Combat]]. Everything here applies to all of them.
 
 ## The Core Loop
 
@@ -24,7 +24,7 @@ Any die roll may only be rerolled once, however many talents or points would let
 
 To make a Test, roll d100 and compare the result with your **Target**: the characteristic or skill being Tested, plus or minus any modifiers. A roll equal to or under the Target succeeds; over it fails. A roll of 01 to 05 always succeeds and 96 to 00 always fails, whatever the Target.
 
-The ten characteristics are described in chapter 01. A skill is its characteristic plus the Advances you have bought in it, so a Smuggler with Fellowship 38 and 8 Advances in Charm has Charm 46. Basic skills (Athletics, Charm, Dodge, Perception and the rest marked *basic* in chapter 06) may be Tested on the bare characteristic even with no Advances. Advanced skills (Medicine, Pilot (Capital Ship), Slice Security System, Use the Force) cannot be attempted without at least one Advance; you simply do not know how. Grouped skills such as Lore, Ranged and Profession are bought one specialisation at a time; chapter 06 lists them.
+The ten characteristics are described in [[SL100:Characteristics|Characteristics]]. A skill is its characteristic plus the Advances you have bought in it, so a Smuggler with Fellowship 38 and 8 Advances in Charm has Charm 46. Basic skills (Athletics, Charm, Dodge, Perception and the rest marked *basic* on the [[SL100:Skills|Skills]] page) may be Tested on the bare characteristic even with no Advances. Advanced skills (Medicine, Pilot (Capital Ship), Slice Security System, Use the Force) cannot be attempted without at least one Advance; you simply do not know how. Grouped skills such as Lore, Ranged and Profession are bought one specialisation at a time; [[SL100:Skills|Skills]] lists them.
 
 ### Simple and Dramatic Tests
 
@@ -63,7 +63,7 @@ Situational modifiers (darkness, cover, haste, the right tools, the wrong atmosp
 
 ### Doubles: Criticals and Fumbles
 
-In combat, a successful attack or defence on a double is a **Critical**, which inflicts a Critical Wound (see Wounds and Injury, and chapter 10). A failed attack on a double is a **Fumble**: the GM rolls on the Oops! table in chapter 10, which runs from dropping your weapon to shooting the nearest friend. The GM may extend this to any Test: a double on a success is then an Astounding Success whatever the SL, and a double on a failure an Astounding Failure. A blaster whose power pack is faulty, or a Force power channelled in anger, may carry its own consequences for doubles.
+In combat, a successful attack or defence on a double is a **Critical**, which inflicts a Critical Wound (see Wounds and Injury, and [[SL100:Combat|Combat]]). A failed attack on a double is a **Fumble**: the GM rolls on the Oops! table in [[SL100:Combat|Combat]], which runs from dropping your weapon to shooting the nearest friend. The GM may extend this to any Test: a double on a success is then an Astounding Success whatever the SL, and a double on a failure an Astounding Failure. A blaster whose power pack is faulty, or a Force power channelled in anger, may carry its own consequences for doubles.
 
 ### Opposed Tests
 
@@ -89,17 +89,17 @@ Combat and other confrontations have momentum, and *Star Legends* tracks it as *
 
 **You lose all your Advantage when you** lose an Opposed Test in combat, suffer any Condition, or lose any Wounds. You lose 1 Advantage at the end of a Round in which you gained none, or in which you ended outnumbered. All Advantage is gone when the fight ends.
 
-A character with more Advantage than any opponent engaging them may spend all of it to Disengage and walk away without a Test. A Leadership Test can pass Advantage to allies. Force powers are helped by Advantage; the long meditation of a channelled power is not (chapter 09). The GM may cap Advantage at the character's Initiative Bonus, or at a flat value, if runaway momentum is making fights one-sided.
+A character with more Advantage than any opponent engaging them may spend all of it to Disengage and walk away without a Test. A Leadership Test can pass Advantage to allies. Force powers are helped by Advantage; the long meditation of a channelled power is not ([[SL100:The Force|The Force]]). The GM may cap Advantage at the character's Initiative Bonus, or at a flat value, if runaway momentum is making fights one-sided.
 
 ## Fortune, Resolve and Destiny in Play
 
-Chapter 01 explains where these points come from. In play they work like this. **Fortune** is renewed at the start of each session to your Destiny score. Spend one to reroll a failed Test, to add +1 SL to a Test after rolling, or to choose where in the Initiative order you act this Round. **Resolve** is renewed whenever you act on your Motivation. Spend one to ignore fear and all other Psychology for a Round, to ignore the modifiers of your Critical Wounds for a Round, or to remove one Condition (removing Prone also heals 1 Wound). **Destiny** and **Resilience** are permanent and precious. A Destiny point burned keeps you alive when you should have died, either by removing you from the scene unconscious or by ignoring the blow entirely. A Resilience point burned lets you refuse a pull of the dark side (chapter 09) or declare that you will not fail: you set the dice to whatever you want, or win an Opposed Test by +1 SL, even after the roll.
+[[SL100:Characteristics|Characteristics]] explains where these points come from. In play they work like this. **Fortune** is renewed at the start of each session to your Destiny score. Spend one to reroll a failed Test, to add +1 SL to a Test after rolling, or to choose where in the Initiative order you act this Round. **Resolve** is renewed whenever you act on your Motivation. Spend one to ignore fear and all other Psychology for a Round, to ignore the modifiers of your Critical Wounds for a Round, or to remove one Condition (removing Prone also heals 1 Wound). **Destiny** and **Resilience** are permanent and precious. A Destiny point burned keeps you alive when you should have died, either by removing you from the scene unconscious or by ignoring the blow entirely. A Resilience point burned lets you refuse a pull of the dark side ([[SL100:The Force|The Force]]) or declare that you will not fail: you set the dice to whatever you want, or win an Opposed Test by +1 SL, even after the roll.
 
 ## Movement and Time in Rounds
 
-When the GM calls for Rounds, characters act in order of Initiative, highest first, Agility breaking ties (or by one of the rolled-initiative options in chapter 10). On your Turn you have one **Move** and one **Action**, in either order, plus any number of Free Actions that need no Test: drawing a blaster, shouting a warning, dropping prone, keying a comlink.
+When the GM calls for Rounds, characters act in order of Initiative, highest first, Agility breaking ties (or by one of the rolled-initiative options in [[SL100:Combat|Combat]]). On your Turn you have one **Move** and one **Action**, in either order, plus any number of Free Actions that need no Test: drawing a blaster, shouting a warning, dropping prone, keying a comlink.
 
-Your Move carries you up to Walk (2 × Movement metres) in any direction. **Running** uses your Action as well and takes you Run (4 × Movement metres); an Average Athletics Test adds SL more metres. Climbing, swimming and crawling halve your pace unless a skill or talent says otherwise. Jumping, falling and other stunts are in chapter 10.
+Your Move carries you up to Walk (2 × Movement metres) in any direction. **Running** uses your Action as well and takes you Run (4 × Movement metres); an Average Athletics Test adds SL more metres. Climbing, swimming and crawling halve your pace unless a skill or talent says otherwise. Jumping, falling and other stunts are in [[SL100:Combat|Combat]].
 
 ## Conditions
 
@@ -124,15 +124,15 @@ The GM will invent Conditions for the setting as needed: **Ionised** for droids 
 
 ## Wounds and Injury
 
-Your Wounds (chapter 01) are your reserve of punishment. Losing Wounds carries no penalty until they run out; a hero at 1 Wound fights as well as at full. When an attack hits, its Damage is the weapon's Damage plus the attacker's SL; Wounds lost are Damage minus your Toughness Bonus minus the Armour Points at the location struck, to a minimum of 1 (stun and other Undamaging weapons have no minimum). Chapter 10 gives the full combat procedure, hit locations and the lightsaber's Resist rule.
+Your Wounds ([[SL100:Characteristics|Characteristics]]) are your reserve of punishment. Losing Wounds carries no penalty until they run out; a hero at 1 Wound fights as well as at full. When an attack hits, its Damage is the weapon's Damage plus the attacker's SL; Wounds lost are Damage minus your Toughness Bonus minus the Armour Points at the location struck, to a minimum of 1 (stun and other Undamaging weapons have no minimum). [[SL100:Combat|Combat]] gives the full combat procedure, hit locations and the lightsaber's Resist rule.
 
 **At 0 Wounds** you are knocked Prone and, after Toughness Bonus Rounds, fall Unconscious unless healed. Any further damage while at 0 Wounds inflicts a Critical Wound.
 
-**Critical Wounds** come from a Critical (a double on a successful attack), from damage that would take you below 0 Wounds (the overflow decides how badly: if the overflow is less than your Toughness Bonus, roll on the Critical table at −20), and from certain weapon qualities. Reverse the attack roll for the location and roll d100 on that location's Critical table in chapter 10. The result gives a fixed Wound loss that ignores armour and Toughness, plus an injury: Conditions, a broken bone, a torn muscle, a severed limb, or on a 00, death. Critical Wounds stay with you until treated.
+**Critical Wounds** come from a Critical (a double on a successful attack), from damage that would take you below 0 Wounds (the overflow decides how badly: if the overflow is less than your Toughness Bonus, roll on the Critical table at −20), and from certain weapon qualities. Reverse the attack roll for the location and roll d100 on that location's Critical table in [[SL100:Combat|Combat]]. The result gives a fixed Wound loss that ignores armour and Toughness, plus an injury: Conditions, a broken bone, a torn muscle, a severed limb, or on a 00, death. Critical Wounds stay with you until treated.
 
 **Death.** If you are Unconscious at 0 Wounds with more Critical Wounds than your Toughness Bonus, you die at the end of the Round unless someone heals at least one of them. A helpless character can simply be killed by anyone who takes the time. Destiny is the last word: a player may burn a point to walk away from certain death.
 
-**Healing.** Each day, after a night's sleep, make an Average Endurance Test and recover SL + Toughness Bonus Wounds (minimum 0); a full day of rest adds Toughness Bonus more. The Medicine skill restores Intelligence Bonus + SL Wounds to a patient once per encounter and treats Bleeding and Poisoned. A **medpac** adds +10 to the Medicine Test and prevents infection; a **bacta patch** heals 1d10 Wounds over an hour; a **bacta tank** heals Toughness Bonus × 2 Wounds per hour of immersion and clears one Critical Wound per day of treatment. Surgery (a medical droid or a Medicine Test with the Surgery talent) is needed for the Critical results that say so. Broken bones mend in 30 + 1d10 days (a failed Endurance Test afterward leaves −5 permanently to the characteristic concerned), torn muscles in 30 − Toughness Bonus days, and a lost limb is lost unless replaced by a cybernetic (chapter 08).
+**Healing.** Each day, after a night's sleep, make an Average Endurance Test and recover SL + Toughness Bonus Wounds (minimum 0); a full day of rest adds Toughness Bonus more. The Medicine skill restores Intelligence Bonus + SL Wounds to a patient once per encounter and treats Bleeding and Poisoned. A **medpac** adds +10 to the Medicine Test and prevents infection; a **bacta patch** heals 1d10 Wounds over an hour; a **bacta tank** heals Toughness Bonus × 2 Wounds per hour of immersion and clears one Critical Wound per day of treatment. Surgery (a medical droid or a Medicine Test with the Surgery talent) is needed for the Critical results that say so. Broken bones mend in 30 + 1d10 days (a failed Endurance Test afterward leaves −5 permanently to the characteristic concerned), torn muscles in 30 − Toughness Bonus days, and a lost limb is lost unless replaced by a cybernetic ([[SL100:Equipment|Equipment]]).
 
 The GM may use the **Sudden Death** option for unnamed enemies: a stormtrooper or a Gamorrean guard reduced to 0 Wounds simply falls.
 
@@ -146,13 +146,13 @@ Some things shake even hardened spacers. **Psychology** Tests are Cool Tests, an
 
 **Frenzy.** Berserkers, Wookiees whose family is threatened, dark-side adepts giving in to rage. Make a Willpower Test to enter Frenzy (or to avoid it when provoked): you are immune to Psychology, must Charge the nearest enemy, make a free Melee Test every Round, add +1 to Strength Bonus for damage, and gain a Fatigued Condition when it ends.
 
-The GM can build other traits from the same pieces: a **Phobia** is Fear (1) of something specific; **Trauma** forces a Cool Test when a memory is triggered; **Loyalty** gives +1 SL defending a person or cause and a Cool Test to abandon them. Species notes in chapter 02 list traits that come with a people.
+The GM can build other traits from the same pieces: a **Phobia** is Fear (1) of something specific; **Trauma** forces a Cool Test when a memory is triggered; **Loyalty** gives +1 SL defending a person or cause and a Cool Test to abandon them. Species notes in [[SL100:Species|Species]] list traits that come with a people.
 
 ## Status and Standing
 
 Every career level carries a Status: a tier (Fringe, Citizen or Elite, written Brass, Silver and Gold in the current career lists until the renaming is applied) and a Standing from 1 to 5. Status is who will talk to you and how. Charm gains +10 against a lower tier and −10 against a higher; Intimidate gains +10 against a lower tier; Gossip is −10 across tiers; Leadership gains +10 per tier you stand above those you command. Travelling incognito you count as the lowest tier, Standing 3.
 
-Status must be maintained. Living to your Standing costs roughly half your Standing in the tier's coin each day: a few credits for the Fringe, tens of credits for Citizens, hundreds for the Elite. Fall short and you lose 1 Standing per week; at Standing 0 you drop a tier. Earning is an Endeavour (see below): a week of work with your career's Earning skill at Average difficulty brings in the tier's base per point of Standing, half on a failure and nothing on a disaster. The credit values for each tier are in chapter 08.
+Status must be maintained. Living to your Standing costs roughly half your Standing in the tier's coin each day: a few credits for the Fringe, tens of credits for Citizens, hundreds for the Elite. Fall short and you lose 1 Standing per week; at Standing 0 you drop a tier. Earning is an Endeavour (see below): a week of work with your career's Earning skill at Average difficulty brings in the tier's base per point of Standing, half on a failure and nothing on a disaster. The credit values for each tier are in [[SL100:Equipment|Equipment]].
 
 ## Experience and Advancement
 
@@ -205,8 +205,8 @@ Downtime is spent in **Endeavours**, one per free week up to three between adven
 - **XP:** talents 100 per rank; characteristics and skills by the table; non-career double; change career 100 or 200.
 
 *Conversion notes:*
-`[review: medpac +10, bacta patch 1d10 Wounds per hour, bacta tank TB x 2 Wounds per hour and one Critical per day are SL100 proposals with no WFRP source; align with chapter 08 medical gear prices]`
+`[review: medpac +10, bacta patch 1d10 Wounds per hour, bacta tank TB x 2 Wounds per hour and one Critical per day are SL100 proposals with no WFRP source; align with the medical gear prices in [[SL100:Equipment|Equipment]]]`
 `[review: Ionised, Irradiated and Suffocating are proposed setting Conditions; Suffocating replaces the exposure/starvation ladder]`
-`[review: Status tier names written as Fringe / Citizen / Elite with the Brass / Silver / Gold names noted, pending the renaming decision; credit values per tier are deferred to chapter 08]`
+`[review: Status tier names written as Fringe / Citizen / Elite with the Brass / Silver / Gold names noted, pending the renaming decision; credit values per tier are deferred to [[SL100:Equipment|Equipment]]]`
 `[review: session XP guidance (50-150) and the Sudden Death option are GM advice, not rules]`
-`[review: the Oops! (fumble) table, the Critical Wound tables by location and the Events table are referenced here but still to be written in chapter 10 and the Game Master page]`
+`[review: the Oops! (fumble) table, the Critical Wound tables by location and the Events table are referenced here but still to be written in [[SL100:Combat|Combat]] and the Game Master page]`

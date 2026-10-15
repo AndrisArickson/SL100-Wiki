@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Skills|status=Draft (about 65%)|source=06 New Star Wars - Skills.md}}
+<!-- Built from 06 New Star Wars - Skills.md by tools/build_pages.py -->
+{{SL100 Rules|section=Skills|status=Draft (about 65%)}}
 Every '''skill''' in the game, the characteristic it is tested against, whether it is Basic or Advanced, and its specialisations.
 
 Skills
@@ -137,7 +138,7 @@ Creature Training represents your understanding of a particular type of animal, 
 
 Dodge is your ability to avoid things, through ducking, diving, and moving quickly, and is used extensively to sidestep falling rocks, incoming weapons, unexpected traps, and the like.
 
-In combat, Dodge is generally used to resist attacks or avoid damage. Refer to Chapter 5: Rules for more on this.
+In combat, Dodge is generally used to resist attacks or avoid damage. Refer to [[SL100:Combat|Combat]] for more on this.
 
 === Entertain (Fel) basic, grouped ===
 
@@ -151,7 +152,7 @@ Lets you determine the value of rare artefacts, unusual trade goods, and works o
 
 === Demolitions (Dex) advanced ===
 
-From a simple tripwire, or proximity mine, to more spectacular devices like Czerka Intruder-Snare, players are unlikely to venture far in the galaxy without encountering traps. The Demolitions Skill measures your ability to set and disarm traps of all varieties. Anyone with the skill is automatically assumed to be able to activate and disarm traps given enough time. A Test is normally only required if attempting to use the Skill swiftly or if otherwise under pressure, or if the trap is especially complex. A selection of simple traps can be found in Chapter 11: Consumers’ Guide.
+From a simple tripwire, or proximity mine, to more spectacular devices like Czerka Intruder-Snare, players are unlikely to venture far in the galaxy without encountering traps. The Demolitions Skill measures your ability to set and disarm traps of all varieties. Anyone with the skill is automatically assumed to be able to activate and disarm traps given enough time. A Test is normally only required if attempting to use the Skill swiftly or if otherwise under pressure, or if the trap is especially complex. A selection of simple traps can be found in [[SL100:Equipment|Equipment]].
 
 If you pass the Perception Test, and fail the Stealth Test you follow your target, but are spotted. If you fail the Perception Test, yet pass the Stealth Test, you lose your target, but go unnoticed.
 
@@ -175,7 +176,7 @@ Half-heard Whispers While it may be expedient for GMs to quickly share informati
 
 === Haggle (Fel) basic ===
 
-Haggle allows you to secure better deals when negotiating with others. In general, Haggle is used to see whether you do, or do not, make a good deal, most commonly with an Opposed Haggle Test. Specifically, it can be used when shopping to secure better prices. For information on this, refer to Chapter 11: Consumers’ Guide.
+Haggle allows you to secure better deals when negotiating with others. In general, Haggle is used to see whether you do, or do not, make a good deal, most commonly with an Opposed Haggle Test. Specifically, it can be used when shopping to secure better prices. For information on this, refer to [[SL100:Equipment|Equipment]].
 
 === Intimidate (S) basic ===
 
@@ -202,7 +203,7 @@ The Intuition Skill allows you to get a feel for your surroundings, leading you 
 
 The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak Galactic Basic, without ever having to Test. If your game is not set in the Galactic Empire, replace Galactic Basic with the local language. If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.
 
-Note: Language (The Force) is used to use Force powers and may occasionally be Tested, with… unpleasant consequences if failed. Refer to Chapter 8: The Force, for more on this.
+Note: Language (The Force) is used to use Force powers and may occasionally be Tested, with… unpleasant consequences if failed. Refer to [[SL100:The Force|The Force]] for more on this.
 
 Specialisations: Basic (Galactic Standard), Huttese, Mando’a, Shyriiwook, Bocce, Ryl, Rodese, Sullustese, Ewokese, Jawaese, Binary (droidspeak), Sith, Ancient Sith, Old Galactic Standard, Military Cant, Hand Sign, Trade Cant, Underworld Cant, Diplomacy, The Force
 
@@ -228,7 +229,7 @@ You’ve been trained to deal with injuries and diseases. A successful Medicine 
 
 Diagnose an illness, infection, or disease. Treat a disease (see page 188). Medicine wounds equal to your Intelligence Bonus + SL (Note: a patient can only benefit from one Medicine roll after each encounter). If sterile liquids or appropriate poultices and dressings are used, no Infection will develop from the injury (see page 181). Staunch a Bleeding Condition, with each SL removing an extra Bleeding Condition.
 
-A Failed Medicine Test can potentially cause Wounds if your Intelligence Bonus + SL totals less than 0. On an Astounding Failure, your patient will also contract a Minor Infection (see page 187). If administering to someone who has a disease, a successful Medicine Test ensures that you do not contract the disease for that day. Each SL also prevents one other character encountering the patient that day from catching the disease. For each full day the patient spends resting under your care, the duration of the disease is reduced by one, to a minimum of one. For more information see Disease and Infection in Chapter 5: Rules. Certain injuries require Surgery; see the Surgery Talent for details. For more information on healing wounds, refer to Injury in Chapter 5: Rules. Your GM may apply modifiers to Medicine Tests to reflect the virulence of the disease, the suitability of conditions and materials, or the stress of your circumstances. If healing during combat, Tests will likely be Challenging (+0) at the very least.
+A Failed Medicine Test can potentially cause Wounds if your Intelligence Bonus + SL totals less than 0. On an Astounding Failure, your patient will also contract a Minor Infection (see page 187). If administering to someone who has a disease, a successful Medicine Test ensures that you do not contract the disease for that day. Each SL also prevents one other character encountering the patient that day from catching the disease. For each full day the patient spends resting under your care, the duration of the disease is reduced by one, to a minimum of one. For more information see Disease and Infection in [[SL100:How to Play|How to Play]]. Certain injuries require Surgery; see the Surgery Talent for details. For more information on healing wounds, refer to Wounds and Injury in [[SL100:How to Play|How to Play]]. Your GM may apply modifiers to Medicine Tests to reflect the virulence of the disease, the suitability of conditions and materials, or the stress of your circumstances. If healing during combat, Tests will likely be Challenging (+0) at the very least.
 
 === Meditate (WP) advanced ===
 
@@ -244,7 +245,7 @@ In combat, if the GM allows it, you may spend your Action centring yourself. Eac
 
 === Melee (WS) basic, grouped ===
 
-The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialisation indicates training in using a specific class of weapon. If you don’t have the correct Specialisation for a weapon you wish to use, refer to Chapter 11: Consumers’ Guide for the correct weapon entry, and what penalties you will suffer.See Chapter 5: Rules for more detail about combat and using the Melee Skill. Specialisations: 1H (one-handed weapons: vibroblades, vibroknives, stun batons, axes, clubs, swords and improvised weapons held in one hand), 2H (weapons that need both hands: vibro-axes, force pikes, electrostaffs, quarterstaffs and other great weapons), Brawling (unarmed strikes, knuckle-dusters, shock gloves, grapples and wrestling; also used to defend when you have no weapon), *Lightsaber (all lightsabers, including double-bladed sabers and lightsaber pikes; −20 unless you have Force Sensitive). A weapon used with the wrong Specialisation is Tested on bare Weapon Skill (see Chapter 10). Careers and Origins write a choice of Specialisations with slashes, e.g. Melee (1H/2H): you pick one and record it as a single skill, e.g. Melee (1H). Only careers with a Force tradition offer Lightsaber.
+The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialisation indicates training in using a specific class of weapon. If you don’t have the correct Specialisation for a weapon you wish to use, refer to [[SL100:Equipment|Equipment]] for the correct weapon entry, and what penalties you will suffer.See [[SL100:Combat|Combat]] for more detail about combat and using the Melee Skill. Specialisations: 1H (one-handed weapons: vibroblades, vibroknives, stun batons, axes, clubs, swords and improvised weapons held in one hand), 2H (weapons that need both hands: vibro-axes, force pikes, electrostaffs, quarterstaffs and other great weapons), Brawling (unarmed strikes, knuckle-dusters, shock gloves, grapples and wrestling; also used to defend when you have no weapon), *Lightsaber (all lightsabers, including double-bladed sabers and lightsaber pikes; −20 unless you have Force Sensitive). A weapon used with the wrong Specialisation is Tested on bare Weapon Skill (see [[SL100:Combat|Combat]]). Careers and Origins write a choice of Specialisations with slashes, e.g. Melee (1H/2H): you pick one and record it as a single skill, e.g. Melee (1H). Only careers with a Force tradition offer Lightsaber.
 
 === Navigation (I) basic ===
 
@@ -342,7 +343,7 @@ Specialisations: Mechanic, Droid Technician, Slicer, Cybernetics, Medic, Starshi
 
 === Ranged (BS) advanced, grouped ===
 
-Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialisation is specific to a group of ranged weapons. If you don’t have the Ranged Specialisation for a weapon you wish to use, refer to Chapter 11: Consumers’ Guide to see what penalties you will suffer when using the weapon. See Chapter 5: Rules for full detail about ranged combat. Specialisations: Archaic (bows, crossbows, slings, slugthrowers, bowcasters and any other projectile weapon that must be aimed rather than pointed), Blaster (every hand-held blaster from hold-out pistols to blaster rifles and repeating blasters, together with ion, disruptor and sonic weapons: the skill for any futuristic personal weapon and the standard ranged skill of the galaxy), Exotic (nets and net launchers, whips used at range, flame projectors, glue and adhesive projectors, dart and flechette launchers, wrist-mounted weapons, Mandalorian mini-rockets and other unusual ranged weapons), Ordnance (large, heavy and turreted weapons: missile and rocket launchers, grenade launchers, mortars, the E-Web and other crew-served or tripod weapons, and the turreted and mounted guns of vehicles and starships: for simplicity every starship weapon uses this skill), Thrown (grenades, thermal detonators, throwing knives, darts, spears and anything else hurled by hand). Careers and Origins write a choice with slashes, e.g. Ranged (Blaster/Ordnance). A weapon used with the wrong Specialisation is Tested on bare Ballistic Skill with the weapon's penalties (see Chapter 10).
+Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialisation is specific to a group of ranged weapons. If you don’t have the Ranged Specialisation for a weapon you wish to use, refer to [[SL100:Equipment|Equipment]] to see what penalties you will suffer when using the weapon. See [[SL100:Combat|Combat]] for full detail about ranged combat. Specialisations: Archaic (bows, crossbows, slings, slugthrowers, bowcasters and any other projectile weapon that must be aimed rather than pointed), Blaster (every hand-held blaster from hold-out pistols to blaster rifles and repeating blasters, together with ion, disruptor and sonic weapons: the skill for any futuristic personal weapon and the standard ranged skill of the galaxy), Exotic (nets and net launchers, whips used at range, flame projectors, glue and adhesive projectors, dart and flechette launchers, wrist-mounted weapons, Mandalorian mini-rockets and other unusual ranged weapons), Ordnance (large, heavy and turreted weapons: missile and rocket launchers, grenade launchers, mortars, the E-Web and other crew-served or tripod weapons, and the turreted and mounted guns of vehicles and starships: for simplicity every starship weapon uses this skill), Thrown (grenades, thermal detonators, throwing knives, darts, spears and anything else hurled by hand). Careers and Origins write a choice with slashes, e.g. Ranged (Blaster/Ordnance). A weapon used with the wrong Specialisation is Tested on bare Ballistic Skill with the weapon's penalties (see [[SL100:Combat|Combat]]).
 
 === Research (Int) advanced ===
 
@@ -360,9 +361,9 @@ Libraries of the galaxy vary from small personal archives of a few dozen datapad
 
 === Ride (Ag) basic, grouped ===
 
-The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat. Specialisations: Air, Land, Water
+The Ride skill can be used extensively in combat. See [[SL100:Combat|Combat]] for more on mounted combat. Specialisations: Air, Land, Water
 
-How proficient you are at riding a particular group of animals; Ride (Land), for example, will let you ride Banthas, Mules, Donkeys, and similar. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test. If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary.
+How proficient you are at riding a particular group of animals; Ride (Land), for example, will let you ride Banthas, Mules, Donkeys, and similar. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test. If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see [[SL100:Bestiary|Bestiary]].
 
 === Sleight of Hand (Dex) advanced ===
 
@@ -370,7 +371,7 @@ Lets you pick pockets, palm objects, and perform minor tricks, as well as cheati
 
 === Stealth (Ag) basic, grouped ===
 
-Allows you to creep quietly and conceal yourself in shadows more readily than most. Stealth is generally Opposed by an opponent’s Perception Skill, and Tests will be modified by how dark or well concealed your route is, as well as how circumspectly you are dressed. An Impressive or Astounding Failure on a Stealth Test will likely draw the immediate attention of the enemies you were trying to avoid in the first place. Stealth has many potential applications in combat, most usefully to hide oneself in preparation for an Ambush, or to creep around an opponent in order to attack from behind. See Chapter 5: Rules for the implications of this. Of course, you can also use the Skill to escape a conflict unseen… Specialisations: Rural, Underground, Urban
+Allows you to creep quietly and conceal yourself in shadows more readily than most. Stealth is generally Opposed by an opponent’s Perception Skill, and Tests will be modified by how dark or well concealed your route is, as well as how circumspectly you are dressed. An Impressive or Astounding Failure on a Stealth Test will likely draw the immediate attention of the enemies you were trying to avoid in the first place. Stealth has many potential applications in combat, most usefully to hide oneself in preparation for an Ambush, or to creep around an opponent in order to attack from behind. See [[SL100:Combat|Combat]] for the implications of this. Of course, you can also use the Skill to escape a conflict unseen… Specialisations: Rural, Underground, Urban
 
 === Options: Shadowing ===
 
@@ -388,9 +389,9 @@ Your ability to follow subtle trails left by others. Track is used to follow dif
 
 <code>[review]</code>
 
-Your trained ability to reach out to the Force and shape it. Each Specialisation is one of the three disciplines: '''Sense''' (perceiving through the Force: feeling emotions and intent, sensing danger, finding distant life, reading the past of a place or object), '''Control''' (mastering your own body and mind: healing, calm, speed, endurance, resisting fear and the dark side) and '''Alter''' (acting on the world beyond yourself: moving objects, influencing minds, Force lightning, projecting or absorbing energy). Use the Force (Discipline) is the Test for every Force power of that discipline (see Chapter 09: Force Influence); each power states its difficulty and what extra Success Levels buy.
+Your trained ability to reach out to the Force and shape it. Each Specialisation is one of the three disciplines: '''Sense''' (perceiving through the Force: feeling emotions and intent, sensing danger, finding distant life, reading the past of a place or object), '''Control''' (mastering your own body and mind: healing, calm, speed, endurance, resisting fear and the dark side) and '''Alter''' (acting on the world beyond yourself: moving objects, influencing minds, Force lightning, projecting or absorbing energy). Use the Force (Discipline) is the Test for every Force power of that discipline (see [[SL100:The Force|The Force]]); each power states its difficulty and what extra Success Levels buy.
 
-You may only Advance this Skill if you have the Force Sensitive (Tradition) talent, and you may only Test a discipline in which you hold the matching Force Sense, Force Control or Force Alter (Discipline) talent, which adds +1 SL per rank. Without the discipline talent the GM may allow a −20 Test for the simplest uses (a feeling of danger, a calming breath, a nudge to a small object) and nothing more. Non-Force-sensitives cannot Test this Skill at all. Failing by 6 or more SL, or rolling a double on a failed Test, exposes you to the dark side as described in Chapter 09. Language (The Force) is the scholarly understanding of the Force kept by the traditions and is not needed to use it. Specialisations: Sense, Control, Alter
+You may only Advance this Skill if you have the Force Sensitive (Tradition) talent, and you may only Test a discipline in which you hold the matching Force Sense, Force Control or Force Alter (Discipline) talent, which adds +1 SL per rank. Without the discipline talent the GM may allow a −20 Test for the simplest uses (a feeling of danger, a calming breath, a nudge to a small object) and nothing more. Non-Force-sensitives cannot Test this Skill at all. Failing by 6 or more SL, or rolling a double on a failed Test, exposes you to the dark side as described in [[SL100:The Force|The Force]]. Language (The Force) is the scholarly understanding of the Force kept by the traditions and is not needed to use it. Specialisations: Sense, Control, Alter
 
 [[Category:SL100]]
 [[Category:SL100 rules]]

@@ -9,9 +9,9 @@ Double Lightsaber,weapons,avail,Unique,
 Double Lightsaber,weapons,cost,-,Not sold on any open market.
 "Lightsaber, double",weapons,avail,Unique,
 "Lightsaber, double",weapons,cost,-,Not sold on any open market.
-Stun Baton,weapons,enc,0,08 value kept (ruling 12 Oct)
-Gaderffii (Gaffi Stick),weapons,enc,1,08 value kept (ruling 12 Oct)
-Bowcaster,weapons,enc,3,08 value kept (ruling 12 Oct)
+Stun Baton,weapons,enc,0,Equipment value kept (ruling 12 Oct)
+Gaderffii (Gaffi Stick),weapons,enc,1,Equipment value kept (ruling 12 Oct)
+Bowcaster,weapons,enc,3,Equipment value kept (ruling 12 Oct)
 "Blaster, E-Web",weapons,enc,5,Crew-served; carried broken down by two.
 Blaster cannon,weapons,enc,4,Crew-served.
 Field Kit,gear,enc,1,ruling 12 Oct

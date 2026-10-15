@@ -1,4 +1,4 @@
-# 1 Introduction
+# Introduction
 
 Ah, behold the audacity of your inquiry! Madness, you say? Nay, for it is the spark of brilliance that sets us apart from the mundane masses. To create yet another Star Wars table-top game system
 
@@ -12,15 +12,15 @@ So, my intrepid friend, join us on this extraordinary odyssey, where the realms 
 
 A *Star Legends – Galactic Wars* character is built in layers. Your Characteristics are the raw material; your **species** gives you a body and a heritage; your **Origin** is the kind of world that raised you; your **career** is what you have done with your life so far; and your **Faction** is who you answered to before your Patron found you. Work through the steps in order:
 
-| Step | What you do | Chapter |
+| Step | What you do | Wiki page |
 | --- | --- | --- |
-| 1 | Generate your ten Characteristics (roll or point-buy). | 01 |
-| 2 | Choose or roll your **species**: Characteristic modifiers, species talents, Movement, Destiny, Resilience and Extra Points. | 02 |
-| 3 | Choose or roll your **Origin** world: +5 to one Characteristic, +5 to one of three others, and skill advances from its list of twelve. | 03 |
-| 4 | Choose your **class and career**, and start at its first level: skills, talents, trappings and Status. | 05 |
-| 5 | Choose your **Faction**: the organisation or tradition you came from, and your Patron. | 04 |
-| 6 | Work out your **Wounds**, **Movement**, **Destiny and Fortune**, **Resilience and Resolve**, and pick a **Motivation**. | 01 |
-| 7 | Spend any bonus XP from step 1 on Advances in your career. | 05 |
+| 1 | Generate your ten Characteristics (roll or point-buy). | [[SL100:Characteristics|Characteristics]] |
+| 2 | Choose or roll your **species**: Characteristic modifiers, species talents, Movement, Destiny, Resilience and Extra Points. | [[SL100:Species|Species]] |
+| 3 | Choose or roll your **Origin** world: +5 to one Characteristic, +5 to one of three others, and skill advances from its list of twelve. | [[SL100:Origin|Origin]] |
+| 4 | Choose your **class and career**, and start at its first level: skills, talents, trappings and Status. | [[SL100:Careers|Careers]] |
+| 5 | Choose your **Faction**: the organisation or tradition you came from, and your Patron. | [[SL100:Faction|Faction]] |
+| 6 | Work out your **Wounds**, **Movement**, **Destiny and Fortune**, **Resilience and Resolve**, and pick a **Motivation**. | [[SL100:Characteristics|Characteristics]] |
+| 7 | Spend any bonus XP from step 1 on Advances in your career. | [[SL100:Careers|Careers]] |
 | 8 | Add the details: name, age, appearance, and your character's first goals. | — |
 
 ## CHARACTERISTICS

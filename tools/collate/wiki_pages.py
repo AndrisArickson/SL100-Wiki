@@ -81,9 +81,8 @@ def main():
                "\n\n[[Category:SL100]] [[Category:SL100 collation]]")
     # Collation index + subpages
     subs = [("Legends check", "legends_check_summary.md", "Names in the rules documents looked up in the Legends wiki: canon-only names, canon links."),
-            ("Talent and skill lists", "lists_report.md", "07 vs Talent List vs 06 vs 05: missing, undefined, duplicate talents and skills."),
-            ("Vocabulary", "vocab_report.md", "Leftover WFRP / d20 / fantasy words, placeholders and dead page references."),
-            ("Intuition fixes", "intuition_fixes.md", "Where 'Intuition' was changed to 'Initiative' (characteristic uses only).")]
+            ("Talent and skill lists", "lists_report.md", "Talents, the Talents index, Skills and Careers compared: missing, undefined, duplicate talents and skills."),
+            ("Vocabulary", "vocab_report.md", "Leftover WFRP / d20 / fantasy words, placeholders and dead page references.")]
     cards = []
     for name, fn, blurb in subs:
         f = COL / fn
@@ -115,7 +114,10 @@ def main():
                    "\n\nThe level-by-level differences (skills, talents and trappings of every matching career) are in "
                    "<code>Source_Text/collation/careers_compare.md</code> on your computer; they quote the WFRP rulebook, so they stay off the wiki.\n\n"
                    "[[Category:SL100 collation]]")
-    # Source books
+    # Source books (needs ../Source_Text; left as it is when that folder is not on this machine)
+    if not any(TEXT.glob("SW_*")):
+        con.commit()
+        return
     rows = []
     for d in sorted(TEXT.glob("SW_*")):
         if (d / "pages").is_dir():

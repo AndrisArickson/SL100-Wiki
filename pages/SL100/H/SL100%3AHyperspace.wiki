@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Hyperspace|status=Lore essay (about 70%); travel rules still to be written|source=All about hyperspace.md}}
+<!-- Built from All about hyperspace.md by tools/build_pages.py -->
+{{SL100 Rules|section=Hyperspace|status=Lore essay (about 70%); travel rules still to be written}}
 '''Hyperspace''' travel in the campaign era: hyperlanes, jump beacons, hyperdrive classes and how long a journey takes.
 
 The exploration of hyperspace happened concurrently with the expansion of the HoloNet, and went through three distinct technology phases.  For much of galactic history, starships lacked the computing power to calculate safe routes and were confined to jumps within networks of jump beacons. In war, this allowed navies to effectively pin ships at a certain point by disabling a beacon.

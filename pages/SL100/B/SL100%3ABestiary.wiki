@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Bestiary|status=Draft (about 80%)|source=Star Wars Bestiary.md}}
+<!-- Built from Star Wars Bestiary.md by tools/build_pages.py -->
+{{SL100 Rules|section=Bestiary|status=Draft (about 80%)}}
 '''Creatures''' of the Legends galaxy with full d100 stat blocks and traits.
 
 === Star Wars Bestiary ===

@@ -6,7 +6,7 @@ Your character starts play with equipment determined by your Origin, Faction, an
 
 # 
 
-**Weapon Group / Skill**: Each weapon is listed under its group heading, and its Skill column gives the Melee or Ranged Specialisation used to attack with it (Melee: 1H, 2H, Brawling, Lightsaber; Ranged: Archaic, Blaster, Exotic, Ordnance, Thrown; see chapter 06). Two-handed weapons are marked 2H. Every starship and vehicle weapon uses Ranged (Ordnance).
+**Weapon Group / Skill**: Each weapon is listed under its group heading, and its Skill column gives the Melee or Ranged Specialisation used to attack with it (Melee: 1H, 2H, Brawling, Lightsaber; Ranged: Archaic, Blaster, Exotic, Ordnance, Thrown; see [[SL100:Skills|Skills]]). Two-handed weapons are marked 2H. Every starship and vehicle weapon uses Ranged (Ordnance).
 
 **Price**: The price for an average example of the weapon.
 

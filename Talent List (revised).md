@@ -1,6 +1,6 @@
 # Talent List
 
-Index of every talent in chapter 07 (revised). Max is the number of ranks allowed; Tests are the Tests the talent adds +1 SL per rank to.
+Index of every talent on the [[SL100:Talents|Talents]] page. Max is the number of ranks allowed; Tests are the Tests the talent adds +1 SL per rank to.
 
 ## General talents (168)
 

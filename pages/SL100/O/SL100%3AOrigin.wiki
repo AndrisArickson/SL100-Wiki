@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Origin|status=Reconciled draft (12 Oct): full d100 table, skills matched to chapter 06, Legends example worlds|source=03 New Star Wars - Origin.md}}
+<!-- Built from 03 New Star Wars - Origin.md by tools/build_pages.py -->
+{{SL100 Rules|section=Origin|status=Draft: full d100 table, twelve skills per world, Legends example worlds}}
 '''Origin''' is the kind of world you grew up on. It adds to your characteristics and gives the twelve skills you may start with.
 
 
@@ -9,7 +10,7 @@ Talk with your Game Director about the Origin of your character and alternative 
 === How an Origin works ===
 
 * '''Characteristics:''' add +5 to the Origin's fixed Characteristic, and +5 to one Characteristic you choose from its three options.
-* '''Skills:''' each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says ''(Any)'', pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. Weapon choices are written with slashes, e.g. Melee (1H/2H/Brawling) or Ranged (Blaster/Ordnance): pick one group, e.g. Melee (1H).
+* '''Skills:''' each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says ''(Any)'', pick one Specialisation from [[SL100:Skills|Skills]]; where it lists options, pick one of them. Weapon choices are written with slashes, e.g. Melee (1H/2H/Brawling) or Ranged (Blaster/Ordnance): pick one group, e.g. Melee (1H).
 
 {| class="wikitable"
 ! D100 !! Origin !! +5 to !! and +5 to one of

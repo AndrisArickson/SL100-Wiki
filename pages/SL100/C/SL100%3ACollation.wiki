@@ -5,9 +5,8 @@ Reports that line up the rules documents, the WFRP rulebook, the d20 books and t
 
 <div class="sl-cards small">
 {{SL100 Card|link=SL100:Collation/Legends check|title=Legends check|text=Names in the rules documents looked up in the Legends wiki: canon-only names, canon links.}}
-{{SL100 Card|link=SL100:Collation/Talent and skill lists|title=Talent and skill lists|text=07 vs Talent List vs 06 vs 05: missing, undefined, duplicate talents and skills.}}
+{{SL100 Card|link=SL100:Collation/Talent and skill lists|title=Talent and skill lists|text=Talents, the Talents index, Skills and Careers compared: missing, undefined, duplicate talents and skills.}}
 {{SL100 Card|link=SL100:Collation/Vocabulary|title=Vocabulary|text=Leftover WFRP / d20 / fantasy words, placeholders and dead page references.}}
-{{SL100 Card|link=SL100:Collation/Intuition fixes|title=Intuition fixes|text=Where 'Intuition' was changed to 'Initiative' (characteristic uses only).}}
 {{SL100 Card|link=SL100:Careers compared with WFRP|title=Careers compared with WFRP|text=Which WFRP 4e careers SL100 has, which are missing, and what changed level by level.}}
 {{SL100 Card|link=SL100:Character creation|title=Character creation|text=What each layer gives: characteristics, species, origin, career, faction.}}
 </div>

@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Vehicles and Starships|status=Draft tables (about 55%); vehicle and ship combat still to be written|source=Star Wars Mounts_Vehicles.md; Star Wars Space Ships.md; Starships circa 3000-4000 BBY.md}}
+<!-- Built from Star Wars Mounts_Vehicles.md; Star Wars Space Ships.md; Starships circa 3000-4000 BBY.md by tools/build_pages.py -->
+{{SL100 Rules|section=Vehicles and Starships|status=Draft tables (about 55%); vehicle and ship combat still to be written}}
 '''Mounts, vehicles and starships''': riding beasts, speeders, walkers and tanks, then the starship compendium and its upgrades, and the ships in service in the 3,000 to 4,000 BBY era.
 
 == Mounts / Vehicles ==

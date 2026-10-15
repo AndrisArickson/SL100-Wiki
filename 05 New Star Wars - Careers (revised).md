@@ -2,9 +2,9 @@
 
 A character's '''career''' is what they do for a living and how they grow: a class, a career of four levels, an Advance Scheme that says which characteristics each level opens, and at every level the Status, Skills, Talents and Trappings that come with it. Level 1 lists 10 skills, level 2 adds 6, level 3 adds 4 and level 4 adds 2; every level grants 4 talents. Level 1 also keeps **2 empty skill slots** for skills a career may gain through special circumstances (how those are granted is decided case by case). Completing a level takes 5, 10, 15 or 20 Advances in each of its characteristics and in 8 of its skills, plus one of its talents. Changing career costs 100 XP if the current level is complete, 200 if not, and 100 more to change class. Status tiers are still written Brass / Silver / Gold n; renaming them is an open decision.
 
-**Weapon skills.** Melee (Basic) has four groups: 1H, 2H, Brawling and Lightsaber. Ranged (Advanced) has five: Archaic, Blaster, Exotic, Ordnance and Thrown (see chapter 06). Where a career offers a choice it is written with slashes, e.g. Melee (1H/2H) or Ranged (Blaster/Ordnance): the player picks one group and writes that single skill, e.g. Melee (1H), on their character. Lightsaber is offered only by careers with a Force tradition. Star Legends puts ranged combat first, so Ranged (Blaster) appears early in almost every career, and every career with a starship-combat side offers Ranged (Ordnance), the skill for turreted and heavy ship weapons.
+**Weapon skills.** Melee (Basic) has four groups: 1H, 2H, Brawling and Lightsaber. Ranged (Advanced) has five: Archaic, Blaster, Exotic, Ordnance and Thrown (see [[SL100:Skills|Skills]]). Where a career offers a choice it is written with slashes, e.g. Melee (1H/2H) or Ranged (Blaster/Ordnance): the player picks one group and writes that single skill, e.g. Melee (1H), on their character. Lightsaber is offered only by careers with a Force tradition. Star Legends puts ranged combat first, so Ranged (Blaster) appears early in almost every career, and every career with a starship-combat side offers Ranged (Ordnance), the skill for turreted and heavy ship weapons.
 
-**Status tags.** All 91 careers are `[sl100]`. The 24 written by the design group were converted to the SL100 skill and talent lists on 12 Oct 2026; the other 67 were added that day, converted from WFRP 4e core and supplement careers or written as Star Wars-native careers (Pilot, Slicer, Mechanic, Politician, Gambler, Holonet Journalist, Pirate, Marine and Martial Artist). Their Conversion notes were accepted on 15 Oct 2026 and removed from the entries; every note and what was done with it is recorded in docs/rules-review/conversion-notes-accepted.md. Placeholders still to be written are marked `[review: placeholder]`. Datapad Use is not a career talent: it comes from a character's species and origin, and characters from uncivilised worlds learn it through downtime or at character creation.
+**Status tags.** All 91 careers are `[sl100]`. Placeholders still to be written are marked `[review: placeholder]`. Datapad Use is not a career talent: it comes from a character's species and origin, and characters from uncivilised worlds learn it through downtime or at character creation.
 
 **Classes.** Academics, Citizens, Dignitaries, Force Wielders, Freelancers, Scoundrels, Spacers (new: starship crews, dock and customs work, salvage and piracy, replacing WFRP's Riverfolk) and Warriors.
 
@@ -1327,8 +1327,6 @@ Wardens see to the care and stewardship of their employer's holdings. Failure to
 **Trappings:** Aide, Governor’s Residence, Servant
 
 ## Force Wielders
-
-*Conversion notes:*
 
 ### Dark Side Cultist
 

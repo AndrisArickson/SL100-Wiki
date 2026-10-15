@@ -1,4 +1,4 @@
-## 2.3 ORIGIN
+## ORIGIN
 
 The circumstances of your early life are known as your Origin. It can determine some of your Characteristics and your chances of being part of a specific Faction. The dominant environment of your character's formative years is what influenced them the most. For example, a Padawan raised in the Jedi Temple on Coruscant could have the Hive Origin if they were most influenced by the metropolis, the Force Nexus Origin if they were most influenced by their Force Tradition's teachings, or even the Industrial or Space Origin if they spent all their time in the starship pool with the Jedi Sentinels. Wandering about with your Jedi Master could conceivably mean your Origin was anything else.
 
@@ -7,7 +7,7 @@ Talk with your Game Director about the Origin of your character and alternative 
 ### How an Origin works
 
 - **Characteristics:** add +5 to the Origin's fixed Characteristic, and +5 to one Characteristic you choose from its three options.
-- **Skills:** each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says *(Any)*, pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. Weapon choices are written with slashes, e.g. Melee (1H/2H/Brawling) or Ranged (Blaster/Ordnance): pick one group, e.g. Melee (1H).
+- **Skills:** each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says *(Any)*, pick one Specialisation from [[SL100:Skills|Skills]]; where it lists options, pick one of them. Weapon choices are written with slashes, e.g. Melee (1H/2H/Brawling) or Ranged (Blaster/Ordnance): pick one group, e.g. Melee (1H).
 
 | D100 | Origin | +5 to | and +5 to one of |
 | --- | --- | --- | --- |

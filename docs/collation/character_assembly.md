@@ -1,26 +1,26 @@
 # How an SL100 character is assembled (as the documents describe it today)
 
-Collated by `tools/collate/assembly.py` from 01-05. Everything below is quoted or tabulated from the documents; nothing has been added or decided. Where a document is silent, that is shown as a gap. Full tables: `species.csv`, `origins.csv`, `careers_l1.csv`, `factions.csv`.
+Collated by `tools/collate/assembly.py` from the Characteristics, Species, Origin, Faction and Careers pages. Everything below is quoted or tabulated from the documents; nothing has been added or decided. Where a document is silent, that is shown as a gap. Full tables: `species.csv`, `origins.csv`, `careers_l1.csv`, `factions.csv`.
 
-| Step | Layer (document) | What it gives the character, as written | Where the detail is |
+| Step | Layer (wiki page) | What it gives the character, as written | Where the detail is |
 |---|---|---|---|
-| 1 | Characteristics (01) | Roll 2d10 + 20 for each of the ten Characteristics in order and make a note of the results. | 01, 'Determine Characteristics' |
-| 2 | Species (02) | characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons | species.csv (223 species) |
-| 3 | Origin - world upbringing (03) | each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (Any), pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. Weapon choices ... | origins.csv (13 world types) |
-| 4 | Career (05) | class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics | careers_l1.csv (level 1 of 91 careers); 05 |
-| 5 | Faction (04) | Your career path is a summary of what your character has done before your character started along their Star Wars journey. This path begins with your birth, and winds from your childhood to your place in the Faction's hierarchy as an adult. You can ... | factions.csv (145 entries) |
+| 1 | Characteristics | Roll 2d10 + 20 for each of the ten Characteristics in order and make a note of the results. | Characteristics, 'Creating a Character' |
+| 2 | Species | characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons | species.csv (223 species) |
+| 3 | Origin - world upbringing | each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (Any), pick one Specialisation from Skills; where it lists options, pick one of them. Weapon choices are written ... | origins.csv (13 world types) |
+| 4 | Careers | class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics | careers_l1.csv (level 1 of 91 careers); Careers |
+| 5 | Faction | Your career path is a summary of what your character has done before your character started along their Star Wars journey. This path begins with your birth, and winds from your childhood to your place in the Faction's hierarchy as an adult. You can ... | factions.csv (145 entries) |
 
 ## What each layer says about the next (cross-references in the text)
 
-- 01 -> 03: "(not found in 01 New Star Wars - Introduction & Characteristics.md)"
-- 01 step order: "(not found in 01 New Star Wars - Introduction & Characteristics.md)"
-- 03 -> 04: "The circumstances of your early life are known as your Origin. It can determine some of your Characteristics and your chances of being part of a specific Faction."
-- 04 -> Patron / Force traditions: "Your Faction describes the focus of your life until you were recruited by your Patron. Some Factions search for specific attributes, such as force sensitivity to join a Force Tradition, for the Black Sun as an example it could be a myriad of things ..."
+- Characteristics -> Origin: "(not found on Characteristics)"
+- Characteristics step order: "(not found on Characteristics)"
+- Origin -> Faction: "The circumstances of your early life are known as your Origin. It can determine some of your Characteristics and your chances of being part of a specific Faction."
+- Faction -> Patron / Force traditions: "Your Faction describes the focus of your life until you were recruited by your Patron. Some Factions search for specific attributes, such as force sensitivity to join a Force Tradition, for the Black Sun as an example it could be a myriad of things ..."
 
 ## Gaps the collation found (for the rules discussion)
 
 - Species with missing fields: Human (characteristics); Nautolan (talents); Otolla Gungan (characteristics); Togruta (characteristics); Wookiee (movement, fate, resilience); Zabrak (movement, fate, resilience)
-- 03's d100 table: values as printed are 01–10, 11–30, 31–35, 36–40, 41–50, 51–55, 56–60, 61–65, 66–70, 71–75, 76–80, 81–95, 96–00.
+- Origin's d100 table: values as printed are 01–10, 11–30, 31–35, 36–40, 41–50, 51–55, 56–60, 61–65, 66–70, 71–75, 76–80, 81–95, 96–00.
 
 ## Species at a glance
 

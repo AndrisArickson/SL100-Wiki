@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Special Materials|status=Reference draft (about 70%)|source=Special Materials.md}}
+<!-- Built from Special Materials.md by tools/build_pages.py -->
+{{SL100 Rules|section=Special Materials|status=Reference draft (about 70%)}}
 The '''materials''' of the galaxy: fabrics, alloys, gases, crystals and organics, with the Armour Points, Resist, weight, availability and price each one gives to the things made from it.
 
 === Materials Reference ===

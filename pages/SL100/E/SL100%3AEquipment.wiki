@@ -1,4 +1,5 @@
-{{SL100 Rules|chapter=Equipment|status=Draft (about 45%); many values still to be filled|source=08 New Star Wars - Equipment.md}}
+<!-- Built from 08 New Star Wars - Equipment.md by tools/build_pages.py -->
+{{SL100 Rules|section=Equipment|status=Draft (about 45%); many values still to be filled}}
 '''Weapons, armour and gear''' with their d100 statistics: damage, range, magazine, encumbrance, cost, availability and traits. Armour carries two values, Armour Points against blasters and kinetic damage and Resist against lightsabers.
 
 
@@ -6,7 +7,7 @@ Your character starts play with equipment determined by your Origin, Faction, an
 
 == Weapons ==
 
-'''Weapon Group / Skill''': Each weapon is listed under its group heading, and its Skill column gives the Melee or Ranged Specialisation used to attack with it (Melee: 1H, 2H, Brawling, Lightsaber; Ranged: Archaic, Blaster, Exotic, Ordnance, Thrown; see chapter 06). Two-handed weapons are marked 2H. Every starship and vehicle weapon uses Ranged (Ordnance).
+'''Weapon Group / Skill''': Each weapon is listed under its group heading, and its Skill column gives the Melee or Ranged Specialisation used to attack with it (Melee: 1H, 2H, Brawling, Lightsaber; Ranged: Archaic, Blaster, Exotic, Ordnance, Thrown; see [[SL100:Skills|Skills]]). Two-handed weapons are marked 2H. Every starship and vehicle weapon uses Ranged (Ordnance).
 
 '''Price''': The price for an average example of the weapon.
 
