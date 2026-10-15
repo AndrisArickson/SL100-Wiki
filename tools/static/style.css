@@ -81,3 +81,7 @@ header .logo{font-family:"Bruno Ace SC",system-ui,sans-serif;letter-spacing:.06e
 .sl-review{display:none}
 .show-review .sl-review{display:inline;background:rgba(208,138,0,.18);border:1px dashed #d08a00;border-radius:4px;padding:0 4px;font-size:.88em}
 .sl-review-toggle{float:right;margin:0 0 8px 8px;font-size:.8em}
+/* reviewer image download / upload */
+.imgpanel{margin:20px 0;border:1px solid rgba(127,127,127,.35);border-radius:6px;padding:6px 10px}
+.imgpanel summary{cursor:pointer;font-weight:bold}.imgpanel td{vertical-align:top}
+.imgctl{font-size:.85em}.imgctl form{margin:4px 0}.imgdiff{display:flex;gap:16px;flex-wrap:wrap}.imgdiff figure{margin:0}

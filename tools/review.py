@@ -1,7 +1,7 @@
 """Reviewer workflow for the local wiki: drafts, diffs and submitting changes to GitHub as a pull request.
 
 An edit made in the wiki is saved to pages/ straight away (so the wiki shows it) and recorded as a draft in
-data/drafts.json. The page carries an "Edited - not yet submitted" banner until the draft is submitted or discarded.
+data/drafts.json. An image downloaded from Wookieepedia or uploaded (tools/imagefetch.py) is a draft the same way. The page carries an "Edited - not yet submitted" banner until the draft is submitted or discarded.
 Submitting sends every chosen draft to GitHub as one commit on a new branch and opens a pull request against the
 main branch; the project owner reviews and merges it there. Once the merge has been pulled, a draft whose page
 matches the pulled version is cleared by itself.
@@ -21,7 +21,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-from common import DATA_DIR, PAGES_DIR, ROOT, now_iso
+from common import DATA_DIR, ROOT, now_iso
 
 DRAFTS = DATA_DIR / "drafts.json"
 SETTINGS = DATA_DIR / "reviewer.json"
@@ -66,40 +66,55 @@ def save_settings(form):
     return s
 
 
+def path_of(rec):
+    """Repository path of a draft's file (drafts saved before images were added only have "rel" under pages/)."""
+    return rec.get("path") or "pages/" + rec["rel"]
+
+
 def drafts():
-    """{title: {rel, editors, summaries, first, last, state, pr}}, with drafts that match the pulled page removed."""
+    """{key: {path, kind, editors, summaries, first, last, state, pr}}. The key is the page title, or "File:<name>" for
+    an image. Drafts whose file matches the pulled version are removed."""
     d = _load(DRAFTS, {})
     changed = False
-    for title in list(d):
-        rec = d[title]
-        cur = PAGES_DIR / rec["rel"]
-        now = cur.read_text(encoding="utf-8", errors="replace") if cur.exists() else None
-        if now == base_text(rec["rel"]):
-            del d[title]
+    for key in list(d):
+        path = path_of(d[key])
+        if current_bytes(path) == base_bytes(path):
+            del d[key]
             changed = True
     if changed:
         _save(DRAFTS, d)
     return d
 
 
-def record_edit(title, rel, editor, summary):
+def _record(key, path, kind, editor, summary):
     d = _load(DRAFTS, {})
-    rec = d.get(title) or {"rel": rel, "editors": [], "summaries": [], "first": now_iso(), "state": "draft", "pr": ""}
-    rec["rel"] = rel
+    rec = d.get(key) or {"editors": [], "summaries": [], "first": now_iso(), "state": "draft", "pr": ""}
+    rec["path"], rec["kind"] = path, kind
+    rec.pop("rel", None)
     if editor and editor not in rec["editors"]:
         rec["editors"].append(editor)
     if summary:
         rec["summaries"].append(summary)
     rec["last"] = now_iso()
     rec["state"] = "draft"                     # a new edit after submitting needs submitting again
-    d[title] = rec
+    d[key] = rec
     _save(DRAFTS, d)
 
 
-def forget(titles):
+def record_edit(title, rel, editor, summary):
+    """A page saved in the wiki (rel is its path under pages/)."""
+    _record(title, "pages/" + rel, "page", editor, summary)
+
+
+def record_image(name, path, editor, summary):
+    """An image downloaded or uploaded into the wiki (path is its repository path, images/full/...)."""
+    _record("File:" + name, path, "image", editor, summary)
+
+
+def forget(keys):
     d = _load(DRAFTS, {})
-    for t in titles:
-        d.pop(t, None)
+    for k in keys:
+        d.pop(k, None)
     _save(DRAFTS, d)
 
 
@@ -111,44 +126,56 @@ def _git(*args):
         return None
 
 
-def base_text(rel):
-    """The page as it is in the last commit pulled (git HEAD); None for a page that is new in this draft."""
-    r = _git("show", "HEAD:pages/" + rel)
+def base_bytes(path):
+    """The file as it is in the last commit pulled (git HEAD); None for a file that is new in this draft."""
+    r = _git("show", "HEAD:" + path)
     if r is None or r.returncode != 0:
         return None
-    return r.stdout.decode("utf-8", errors="replace")
+    return r.stdout
 
 
-def blob_sha(text):
-    b = text.encode("utf-8")
-    return hashlib.sha1(b"blob %d\0" % len(b) + b).hexdigest()
+def current_bytes(path):
+    f = ROOT / path
+    return f.read_bytes() if f.is_file() else None
 
 
-def discard(title):
-    """Put the page back as it was pulled (or remove a new page) and forget the draft."""
-    rec = _load(DRAFTS, {}).get(title)
+def blob_sha(data):
+    return hashlib.sha1(b"blob %d\0" % len(data) + data).hexdigest()
+
+
+def discard(key):
+    """Put the file back as it was pulled (or remove a new one) and forget the draft."""
+    rec = _load(DRAFTS, {}).get(key)
     if not rec:
         return False
-    cur = PAGES_DIR / rec["rel"]
-    base = base_text(rec["rel"])
+    path = path_of(rec)
+    cur, base = ROOT / path, base_bytes(path)
     if base is None:
         if cur.exists():
             cur.unlink()
     else:
-        cur.write_text(base, encoding="utf-8")
-    forget([title])
+        cur.write_bytes(base)
+    forget([key])
     return True
 
 
-def diff_html(title, context=3):
-    rec = _load(DRAFTS, {}).get(title)
+def diff_html(key, context=3):
+    rec = _load(DRAFTS, {}).get(key)
     if not rec:
         return "<p>No draft.</p>"
-    old = (base_text(rec["rel"]) or "").splitlines()
-    cur = PAGES_DIR / rec["rel"]
-    new = (cur.read_text(encoding="utf-8", errors="replace") if cur.exists() else "").splitlines()
+    path = path_of(rec)
+    old, new = base_bytes(path), current_bytes(path)
+    if rec.get("kind") == "image":
+        def pic(data, label):
+            if not data:
+                return '<figure><figcaption>%s</figcaption><p class="hint">none (placeholder)</p></figure>' % label
+            return ('<figure><img src="data:image/webp;base64,%s" style="max-width:360px"><figcaption>%s, %d KB</figcaption></figure>'
+                    % (base64.b64encode(data).decode("ascii"), label, len(data) // 1024))
+        return '<div class="imgdiff">%s%s</div>' % (pic(old, "Pulled"), pic(new, "Draft"))
+    old_lines = (old or b"").decode("utf-8", errors="replace").splitlines()
+    new_lines = (new or b"").decode("utf-8", errors="replace").splitlines()
     rows = []
-    for ln in difflib.unified_diff(old, new, "pulled", "draft", n=context, lineterm=""):
+    for ln in difflib.unified_diff(old_lines, new_lines, "pulled", "draft", n=context, lineterm=""):
         if ln.startswith(("---", "+++")):
             continue
         cls = "ctx"
@@ -203,10 +230,10 @@ def submit(titles, pr_title, description):
     # 1. Refuse pages that changed on GitHub since this computer pulled them, so nobody's edit is overwritten.
     stale = []
     for t in chosen:
-        rel = d[t]["rel"]
-        pulled = base_text(rel)
+        path = path_of(d[t])
+        pulled = base_bytes(path)
         try:
-            remote = _api("GET", "/repos/%s/contents/%s?ref=%s" % (upstream, _q("pages/" + rel), base), tok)
+            remote = _api("GET", "/repos/%s/contents/%s?ref=%s" % (upstream, _q(path), base), tok)
             remote_sha = remote.get("sha")
         except GitHubError as e:
             if " 404 " not in str(e) + " ":
@@ -215,7 +242,7 @@ def submit(titles, pr_title, description):
         if (pulled is None) != (remote_sha is None) or (pulled is not None and blob_sha(pulled) != remote_sha):
             stale.append(t)
     if stale:
-        raise GitHubError("these pages changed on GitHub since you last pulled: %s. Pull (git pull), check your "
+        raise GitHubError("these changed on GitHub since you last pulled: %s. Pull (git pull), check your "
                           "draft still reads right, then submit again." % ", ".join(stale))
 
     # 2. One commit with every chosen page, on top of the current main branch.
@@ -228,11 +255,11 @@ def submit(titles, pr_title, description):
     tree = _api("GET", "/repos/%s/git/commits/%s" % (upstream, head), tok)["tree"]["sha"]
     entries = []
     for t in chosen:
-        cur = PAGES_DIR / d[t]["rel"]
-        text = cur.read_text(encoding="utf-8") if cur.exists() else ""
+        path = path_of(d[t])
+        data = current_bytes(path) or b""
         blob = _api("POST", "/repos/%s/git/blobs" % target, tok,
-                    {"content": base64.b64encode(text.encode("utf-8")).decode("ascii"), "encoding": "base64"})
-        entries.append({"path": "pages/" + d[t]["rel"], "mode": "100644", "type": "blob", "sha": blob["sha"]})
+                    {"content": base64.b64encode(data).decode("ascii"), "encoding": "base64"})
+        entries.append({"path": path, "mode": "100644", "type": "blob", "sha": blob["sha"]})
     new_tree = _api("POST", "/repos/%s/git/trees" % target, tok, {"base_tree": tree, "tree": entries})["sha"]
     who = s["name"] or "a reviewer"
     lines = ["- %s%s" % (t, (": " + "; ".join(d[t]["summaries"])) if d[t]["summaries"] else "") for t in chosen]
@@ -243,7 +270,7 @@ def submit(titles, pr_title, description):
     _api("POST", "/repos/%s/git/refs" % target, tok, {"ref": "refs/heads/" + branch, "sha": commit})
 
     # 3. The pull request, for the owner to review and merge.
-    body = "%s\n\n**Pages:**\n%s\n\nSubmitted from the wiki by %s." % (description.strip() or "Wiki edits.", "\n".join(lines), who)
+    body = "%s\n\n**Pages and images:**\n%s\n\nSubmitted from the wiki by %s." % (description.strip() or "Wiki edits.", "\n".join(lines), who)
     head_ref = ("%s:%s" % (target.split("/")[0], branch)) if s["fork"] else branch
     pr = _api("POST", "/repos/%s/pulls" % upstream, tok, {"title": pr_title, "head": head_ref, "base": base, "body": body})
     for t in chosen:

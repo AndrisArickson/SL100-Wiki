@@ -41,6 +41,19 @@ Submitting needs a GitHub account and a personal access token.
 If the owner has added you as a collaborator, leave **Your fork** empty. Otherwise, press **Fork** on the
 repository page on GitHub and enter your fork (for example `yourname/SL100-Wiki`) under **Your fork**.
 
+## Pictures
+
+Every page with pictures has a folded **Images on this page** list at the bottom (each picture's own File page has the
+same controls). For each picture:
+
+1. **Wookieepedia file page** opens the original, so you can check its size, licence and author before using it.
+2. **Download & replace from Wookieepedia** fetches it as WebP (at most 800 pixels wide) and shows it in the wiki at once.
+3. If the download fails, save the picture from the Wookieepedia page yourself and use **Upload instead**. WebP files
+   are used as they are; other formats are converted when Pillow is installed (`pip install pillow`).
+
+A new picture is a draft like a page edit: it appears on **Review changes**, where *changes* shows the old and new
+picture side by side, and it reaches GitHub (and so the other reviewers) only when you **submit** it.
+
 ## Review notes
 
 A note for other reviewers goes straight into the page text, in backticks:

@@ -15,6 +15,7 @@ import urllib.parse
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 import common as C
+import imagefetch
 import placeholders
 import review
 from common import (CFG, DATA_DIR, FULL_IMG_DIR, META_DIR, PAGES_DIR, PLACEHOLDER_DIR, ROOT, db_connect,
@@ -148,6 +149,48 @@ def discard_draft(title):
     load_index()
 
 
+def has_real_image(name):
+    rel = placeholders.placeholder_relpath(name)
+    return any(p.is_file() for p in (FULL_IMG_DIR / rel, FULL_IMG_DIR / rel.replace(".webp", "")))
+
+
+def image_controls(name, back):
+    """Links to the original on Wookieepedia, Download & replace, and an upload box for a file saved by hand."""
+    q = esc(name)
+    return ('<div class="imgctl"><a href="%s" target="_blank" rel="noopener">Wookieepedia file page</a> '
+            '<span class="hint">(the original, its size, licence and author)</span>'
+            '<form method="post" action="/image/fetch"><input type="hidden" name="name" value="%s">'
+            '<input type="hidden" name="back" value="%s"><button>Download &amp; replace from Wookieepedia</button></form>'
+            '<form method="post" action="/image/upload" enctype="multipart/form-data"><input type="hidden" name="name" value="%s">'
+            '<input type="hidden" name="back" value="%s"><input type="file" name="file" accept="image/webp,image/*" required> '
+            '<button>Upload instead</button></form></div>'
+            % (esc(imagefetch.file_page_url(name)), q, esc(back), q, esc(back)))
+
+
+def images_panel(title, names):
+    """Every page with pictures gets a folded "Images on this page" list for reviewers."""
+    seen = []
+    for n in names:
+        if n and n not in seen:
+            seen.append(n)
+    if not seen:
+        return ""
+    d = review.drafts()
+    rows = []
+    for n in seen:
+        rec = d.get("File:" + n)
+        state = ("new image, not yet submitted" if rec and rec["state"] == "draft" else
+                 "new image submitted for approval" if rec else
+                 "image in the wiki" if has_real_image(n) else "placeholder only")
+        rows.append('<tr><td><img src="%s" loading="lazy" style="max-width:96px;max-height:72px"></td><td><a href="%s">%s</a><br>'
+                    '<small>%s</small></td><td>%s</td></tr>' % (img_info(n)[0], wiki_href("File:" + n), esc(n), state,
+                                                                image_controls(n, title)))
+    return ('<details class="imgpanel" id="images"><summary>Images on this page (%d)</summary><p class="hint">Check the original '
+            'on Wookieepedia (size, licence, author), then download it as WebP or upload a copy you saved yourself. The new '
+            'image is a draft: submit it from <a href="/review">Review changes</a> so it reaches GitHub for everyone.</p>'
+            '<table class="wikitable">%s</table></details>' % (len(seen), "".join(rows)))
+
+
 def draft_banner(title):
     rec = review.drafts().get(title)
     if not rec:
@@ -258,7 +301,14 @@ class H(BaseHTTPRequestHandler):
             return self.send("forbidden", 403, "text/plain")
         path = urllib.parse.unquote(urllib.parse.urlparse(self.path).path)
         n = int(self.headers.get("Content-Length") or 0)
-        form = urllib.parse.parse_qs(self.rfile.read(n).decode("utf-8"), keep_blank_values=True)
+        if n > 25 * 1024 * 1024:
+            return self.send("too large", 413, "text/plain")
+        raw = self.rfile.read(n)
+        if path == "/image/upload":
+            return self.image_upload(raw)
+        form = urllib.parse.parse_qs(raw.decode("utf-8"), keep_blank_values=True)
+        if path == "/image/fetch":
+            return self.image_fetch({k: v[0] for k, v in form.items()})
         if path == "/match-review":
             return self.match_review_save(form)
         if path == "/image-review":
@@ -312,7 +362,8 @@ class H(BaseHTTPRequestHandler):
             banner += '<div class="localnote">This page has local edits and is protected from re-download.</div>'
         body = mark_review_notes(body)
         cats = "".join('<a href="/category/%s">%s</a>' % (urllib.parse.quote(c.replace(" ", "_")), esc(c)) for c in r.cats)
-        body = banner + body + ('<div class="catlinks"><b>Categories:</b> %s</div>' % cats if cats else "") + attribution(title, rec)
+        body = banner + body + images_panel(title, r.images) + \
+            ('<div class="catlinks"><b>Categories:</b> %s</div>' % cats if cats else "") + attribution(title, rec)
         shown = re.sub(r"/Legends$", ' <span class="legends">Legends</span>', esc(title))
         self.send(layout(shown, body, tabs=self.tabs(title, True)))
 
@@ -481,6 +532,51 @@ class H(BaseHTTPRequestHandler):
             return self.review_page({}, message='Submitted. <a href="%s">Open the pull request</a>; the pages go live for '
                                                 'everyone once the owner approves and merges it.' % esc(url))
         return self.send("bad request", 400, "text/plain")
+
+    # ---- reviewer image download / upload (tools/imagefetch.py)
+    def image_done(self, name, back, message="", error=""):
+        load_index()
+        note = ('<div class="draftnote error">%s</div>' % esc(error)) if error else ('<div class="draftnote submitted">%s</div>' % message)
+        body = (note + '<p><img src="%s" style="max-width:360px"></p><p><a href="%s">Back to %s</a> &middot; '
+                '<a href="%s">File page</a> &middot; <a href="/review">Review changes</a></p>'
+                % (img_info(name)[0], wiki_href(back or "File:" + name), esc(back or "the file page"), wiki_href("File:" + name)))
+        self.send(layout("Image: " + esc(name), body), 200 if not error else 502)
+
+    def image_fetch(self, form):
+        name, back = norm_title(form.get("name", "")), form.get("back", "")
+        if not name:
+            return self.send("bad request", 400, "text/plain")
+        try:
+            path, size, meta = imagefetch.download(name)
+        except imagefetch.ImageError as e:
+            return self.image_done(name, back, error="Not downloaded: %s. You can save the image from the Wookieepedia file "
+                                                     "page yourself and use Upload instead." % e)
+        lic = meta.get("licence") or "licence not stated"
+        review.record_image(name, path, review.settings()["name"], "Downloaded from Wookieepedia (%s%s)" %
+                            (lic, ", by " + meta["artist"] if meta.get("artist") else ""))
+        self.image_done(name, back, message="Downloaded as WebP (%d KB, %s). It is a draft until you submit it from Review changes."
+                        % (size // 1024, esc(lic)))
+
+    def image_upload(self, raw):
+        from email.parser import BytesParser
+        from email.policy import default as policy
+        msg = BytesParser(policy=policy).parsebytes(b"Content-Type: " + (self.headers.get("Content-Type") or "").encode() + b"\r\n\r\n" + raw)
+        fields, data = {}, b""
+        for part in (msg.iter_parts() if msg.is_multipart() else []):
+            key = part.get_param("name", header="content-disposition")
+            if key == "file":
+                data = part.get_payload(decode=True) or b""
+            elif key:
+                fields[key] = (part.get_payload(decode=True) or b"").decode("utf-8", errors="replace")
+        name, back = norm_title(fields.get("name", "")), fields.get("back", "")
+        if not name:
+            return self.send("bad request", 400, "text/plain")
+        try:
+            path, size = imagefetch.save_upload(name, data)
+        except imagefetch.ImageError as e:
+            return self.image_done(name, back, error="Not saved: %s." % e)
+        review.record_image(name, path, review.settings()["name"], "Uploaded by hand")
+        self.image_done(name, back, message="Saved as WebP (%d KB). It is a draft until you submit it from Review changes." % (size // 1024))
 
     def home(self, con):
         n = con.execute("SELECT COUNT(*) FROM pages WHERE path IS NOT NULL").fetchone()[0]
@@ -667,7 +763,8 @@ class H(BaseHTTPRequestHandler):
                      (esc(lic[1] or "not stated"), esc(lic[0]), (" &middot; <b>Author:</b> " + esc(lic[2])) if lic[2] else "",
                       (" &middot; <b>Credit:</b> " + esc(lic[3])) if lic[3] else "", esc(lic[4] or "#"),
                       " Shown in this private local wiki only; not published." if lic[0] != "free" else ""))
-        body = '<img class="wimg" src="/img/%s" style="max-width:100%%">%s<h3>Used on</h3><ul>%s</ul>' % (urllib.parse.quote(name), info, used)
+        body = (draft_banner("File:" + name) + '<img class="wimg" src="/img/%s" style="max-width:100%%">%s' % (img_info(name)[0], info) +
+                '<h3>Download or replace</h3>' + image_controls(name, "File:" + name) + '<h3>Used on</h3><ul>%s</ul>' % used)
         self.send(layout("File:" + esc(name), body))
 
     def image(self, con, name):
