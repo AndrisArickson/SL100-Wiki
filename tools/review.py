@@ -259,8 +259,8 @@ def submit(titles, pr_title, description):
                 stale.append(t)
                 break
     if stale:
-        raise GitHubError("these changed on GitHub since you last pulled: %s. Pull (git pull), check your "
-                          "draft still reads right, then submit again." % ", ".join(stale))
+        raise GitHubError("these changed on GitHub since you last pulled: %s. Copy your text, discard the draft, run "
+                          "./wiki.sh pull, make the edit again on the new version, then submit again." % ", ".join(stale))
 
     # 2. One commit with every chosen page, on top of the current main branch.
     if s["fork"]:

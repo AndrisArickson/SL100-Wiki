@@ -28,6 +28,7 @@ case "${1:-help}" in
   export)     "$PY" tools/crawl.py export ;;
   rebuild)    "$PY" tools/crawl.py rebuild ;;   # recreate data/wiki.db from meta/pages.tsv after a git clone
   push)       shift; bash tools/push.sh "$@" ;;
+  pull)       "$PY" tools/pull.py ;;   # bring in approved changes; clears your own merged edits first
   rules-md)   "$PY" tools/export_rules.py "$@" ;;   # markdown copies of the rules pages in build/rules (for the tools and the Roll20 sheet)
   images-classify) shift; "$PY" tools/images.py classify "$@" ;;      # licence lookup for every image our pages use (~1 h)
   images-fetch)   shift   # download + convert to WebP in the background; everything -> images/full (pushed)
@@ -77,6 +78,7 @@ Usage: ./wiki.sh <command>
   images-ingest    convert images saved into images/incoming/ to WebP and add them to the wiki
   collate    re-run the collation reports (d20-to-wiki match, Legends check, talent/skill lists, vocabulary, ship comparison)
   rules-md   write markdown copies of the rules pages to build/rules (the tools and the Roll20 sheet read them)
+  pull       bring in approved changes from GitHub (use instead of git pull)
   push       commit new/changed files in chunks and push to GitHub
 EOF
   ;;
