@@ -6,7 +6,7 @@ Your character starts play with equipment determined by your Origin, Faction, an
 
 == Weapons ==
 
-'''Weapon Group''': Each Weapon is listed by its Weapon Group. If a weapon is two-handed, it is marked (2H)
+'''Weapon Group / Skill''': Each weapon is listed under its group heading, and its Skill column gives the Melee or Ranged Specialisation used to attack with it (Melee: 1H, 2H, Brawling, Lightsaber; Ranged: Archaic, Blaster, Exotic, Ordnance, Thrown; see chapter 06). Two-handed weapons are marked 2H. Every starship and vehicle weapon uses Ranged (Ordnance).
 
 '''Price''': The price for an average example of the weapon.
 
@@ -53,15 +53,15 @@ E = Extreme
 {| class="wikitable"
 ! Name !! Skill !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! '''Description''' !! '''Special Notes'''
 |-
-| Hand Flamer || Ranged (Archaic) || 8 || S || 6 || 1 || 500 || Rare ||  ||  || 
+| Hand Flamer || Ranged (Exotic) || 8 || S || 6 || 1 || 500 || Rare ||  ||  || 
 |-
 | *Blaster Pistol || Ranged (Blaster) || 7 || M || 20 || 0 || 500 || Common ||  || Standard sidearm of soldiers, bounty hunters, and civilians galaxy-wide. Reliable and versatile. || None. The baseline personal sidearm; widely available, no special restrictions.
 |-
 | Autopistol || Ranged (Archaic) || 5 || S || 20 || 0 || 325 || Common || Solid Projectile ||  || 
 |-
-| Needle Pistol || Ranged (Archaic) || 2 || M || 4 || 1 || 300 || Exotic || Penetrating (6) ||  || 
+| Needle Pistol || Ranged (Exotic) || 2 || M || 4 || 1 || 300 || Exotic || Penetrating (6) ||  || 
 |-
-| **Web Pistol || Ranged (Archaic) || - || S || 3 || 1 || 1000 || Rare ||  ||  || 
+| **Web Pistol || Ranged (Exotic) || - || S || 3 || 1 || 1000 || Rare ||  ||  || 
 |-
 | Hold-out Blaster || Ranged (Blaster) || 6 || S ||  || 0 ||  || Scarce ||  || Compact, easily concealed pistol favoured by civilians, spies, and assassins. Short range, low power. || Easily concealed; +5 to Stealth when hidden on person. Counts as a pistol.
 |-
@@ -83,7 +83,7 @@ E = Extreme
 |-
 | *Blaster Sniper Rifle || Ranged (Blaster) || 11 || L || 10 || 3 || 1000 || Rare || 2H, Damaging<br/><br/>Impale ||  || 
 |-
-| Bowcaster || Ranged (Blaster) || 10 || L || 5 || 3 || 1500 || Exotic || 2H, Solid Projectile, Penetrating || Traditional Wookiee explosive quarrel launcher; fires energised bolts with high stopping power. || Knockback: target pushed 1 square on hit. Wookiees may fire without the Exotic Weapon feat.
+| Bowcaster || Ranged (Archaic) || 10 || L || 5 || 3 || 1500 || Exotic || 2H, Solid Projectile, Penetrating || Traditional Wookiee explosive quarrel launcher; fires energised bolts with high stopping power. || Knockback: target pushed 1 square on hit. Wookiees may fire without the Exotic Weapon feat.
 |-
 | Ion Gun Rifle || Ranged (Blaster) || 8 || M || 20 || 2 || 800 || Common || 2H, Damages Electrics || Long-range ion weapon used by anti-droid specialists and slicer teams. || Ion damage. Can disable vehicle systems on a hit. Counts as a rifle.
 |-
@@ -93,41 +93,41 @@ E = Extreme
 |-
 | Sniper Rifle || Ranged (Archaic) || 8 || E || 6 || 2 || 360 || Scarce || 2H, Solid Projectile, Penetrating (2) ||  || 
 |-
-| Needle Rifle || Ranged (Archaic) || 1 || L || 6 || 2 || 600 || Exotic || Penetrating (6), Melee (2H) ||  || 
+| Needle Rifle || Ranged (Exotic) || 1 || L || 6 || 2 || 600 || Exotic || Penetrating (6), Melee (2H) ||  || 
 |-
-| **Webber || Ranged (Archaic) || - || M || 3 || 1 || 1200 || Rare || Melee (2H) ||  || 
+| **Webber || Ranged (Exotic) || - || M || 3 || 1 || 1200 || Rare || Melee (2H) ||  || 
 |-
-| Backpack Flamer || Ranged (Archaic) || 10 || M || 20 || 2 || 700 || Scarce ||  || Short-range weapon projecting a sustained stream of burning fuel; terrifying in close quarters. || Persistent fire: target continues burning (1d6/round) until extinguished. Burst cone 6 squares.
+| Backpack Flamer || Ranged (Exotic) || 10 || M || 20 || 2 || 700 || Scarce ||  || Short-range weapon projecting a sustained stream of burning fuel; terrifying in close quarters. || Persistent fire: target continues burning (1d6/round) until extinguished. Burst cone 6 squares.
 |-
 | Blaster Carbine || Ranged (Blaster) || 8 ||  || 50 || 2 ||  || Common ||  || Shorter-barrelled rifle offering a balance of portability and stopping power; common in military service. || May be used with Rifle proficiency. Autofire capable on military models.
 |-
 | Heavy Blaster Rifle || Ranged (Blaster) || 10 ||  || 50 || 2 ||  || Scarce || Damaging || High-output military rifle delivering sustained fire; used by clone commanders and heavy infantry. || Autofire. Penalty to Stealth; too large to conceal. Requires both hands.
 |}
 
-== Heavy Weapon (Ranged Heavy Weapon skill) ==
+== Heavy Weapon ==
 
 {| class="wikitable"
-! Name !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! '''Description''' !! '''Special Notes'''
+! Name !! Skill !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! '''Description''' !! '''Special Notes'''
 |-
-| Rocket Launcher ||  ||  ||  ||  ||  || Exotic ||  || Shoulder-fired single-shot weapon launching explosive warheads; used against vehicles and fortifications. || Burst 2 squares. +10 to attack vs vehicles. Reload is a full-round action.
+| Rocket Launcher || Ranged (Ordnance) ||  ||  ||  ||  ||  || Exotic ||  || Shoulder-fired single-shot weapon launching explosive warheads; used against vehicles and fortifications. || Burst 2 squares. +10 to attack vs vehicles. Reload is a full-round action.
 |-
-| Missile Launcher ||  ||  ||  ||  ||  || Exotic ||  || Guided missile system capable of tracking fast-moving targets including speeder bikes and starfighters. || Guided: re-roll one missed attack per shot. Effective vs vehicles and airborne targets.
+| Missile Launcher || Ranged (Ordnance) ||  ||  ||  ||  ||  || Exotic ||  || Guided missile system capable of tracking fast-moving targets including speeder bikes and starfighters. || Guided: re-roll one missed attack per shot. Effective vs vehicles and airborne targets.
 |-
-| Repeating Blaster ||  ||  ||  ||  ||  || Rare ||  || Tripod-mounted heavy blaster delivering sustained automatic fire; requires a gunner and power generator. || Autofire only. Suppressing Fire: all targets in a 6-square cone are pinned (move only or full attack, not both).
+| Repeating Blaster || Ranged (Ordnance) ||  ||  ||  ||  ||  || Rare ||  || Tripod-mounted heavy blaster delivering sustained automatic fire; requires a gunner and power generator. || Autofire only. Suppressing Fire: all targets in a 6-square cone are pinned (move only or full attack, not both).
 |-
-| PLX Rocket Launcher ||  ||  ||  ||  ||  || Exotic ||  || Merr-Sonn man-portable anti-vehicle rocket with dual-stage warhead; standard Rebel heavy weapon. || Penetrating warhead: ignores 10 points of vehicle DR. Single shot; requires reload action.
+| PLX Rocket Launcher || Ranged (Ordnance) ||  ||  ||  ||  ||  || Exotic ||  || Merr-Sonn man-portable anti-vehicle rocket with dual-stage warhead; standard Rebel heavy weapon. || Penetrating warhead: ignores 10 points of vehicle DR. Single shot; requires reload action.
 |-
-| Grenade Launcher || - || Long || 6 || 2 || 4000 || Rare ||  || Under-barrel or standalone launcher cycling multiple grenades rapidly; used by infantry support teams. || Fires any grenade type. Semi-auto: can fire 2 grenades per round as a full-round action.
+| Grenade Launcher || Ranged (Ordnance) || - || Long || 6 || 2 || 4000 || Rare ||  || Under-barrel or standalone launcher cycling multiple grenades rapidly; used by infantry support teams. || Fires any grenade type. Semi-auto: can fire 2 grenades per round as a full-round action.
 |-
-| Portable Missile Launcher || - || Extreme || 1 || 3 || 4000 || Rare || Slow ||  || 
+| Portable Missile Launcher || Ranged (Ordnance) || - || Extreme || 1 || 3 || 4000 || Rare || Slow ||  || 
 |-
-| Minigun (Blaster / Solid Slug) || 7 || Long || 200 || 5 || 8000 || Rare || Slow, Penetrating (2), Rapid Fire 4 ||  || 
+| Minigun (Blaster / Solid Slug) || Ranged (Ordnance) || 7 || Long || 200 || 5 || 8000 || Rare || Slow, Penetrating (2), Rapid Fire 4 ||  || 
 |-
-| Heavy Auto Machine Gun || 7 || Long || 100 || 4 || 6000 || Rare || Slow, Penetrating (2), MSolid Projectile ||  || 
+| Heavy Auto Machine Gun || Ranged (Ordnance) || 7 || Long || 100 || 4 || 6000 || Rare || Slow, Penetrating (2), MSolid Projectile ||  || 
 |-
-| Arkanian's Missile || 14 ||  ||  || 1 || - || Rare ||  ||  || Penetrating (6),
+| Arkanian's Missile || Ranged (Ordnance) || 14 ||  ||  || 1 || - || Rare ||  ||  || Penetrating (6),
 |-
-| Frag Missile || 7 ||  ||  || 1 || - || Scarce ||  ||  || 
+| Frag Missile || Ranged (Ordnance) || 7 ||  ||  || 1 || - || Scarce ||  ||  || 
 |}
 
 == Brawling ==
@@ -157,7 +157,7 @@ E = Extreme
 |-
 | Whip || Melee (1H) || 2+StrB ||  ||  || 1 || 60 || Common || Entangle ||  || Undamaging
 |-
-| Vibro-axe || Melee (1H) || 5+StrB ||  ||  || 1 || 160 || Scarce ||  || Heavy Melee (2H) vibrating axe; devastating against armoured targets. || Fast; Cleave-capable. On kill, may make immediate attack vs adjacent target as free action.
+| Vibro-axe || Melee (2H) || 5+StrB ||  ||  || 1 || 160 || Scarce ||  || Heavy Melee (2H) vibrating axe; devastating against armoured targets. || Fast; Cleave-capable. On kill, may make immediate attack vs adjacent target as free action.
 |-
 | Vibro-blade || Melee (1H) || 5+StrB ||  ||  || 1 || 300 || Scarce ||  || Standard-issue vibrating mono-molecular blade; cuts through most materials with ease. || Fast; Ignores 2 points of equipment bonus to Reflex Defence.
 |-
@@ -165,13 +165,13 @@ E = Extreme
 |-
 | Stun Baton || Melee (1H) || 1+StrB ||  ||  || 0 || 500 || Scarce ||  ||  || Undamaging
 |-
-| Lightsaber || Melee (*Lightsaber) || 6+Form Bonus ||  ||  || 0 || - || Exotic || Fast<br/><br/>Penetrating (6)<br/><br/>Shield(2)<br/><br/>Hack ||  || Defensive, Shield (2) Lightsaber Resistant, Hack, Penetrating (?), Impact, Fast
+| Lightsaber || Melee (Lightsaber) || 6+Form Bonus ||  ||  || 0 || - || Exotic || Fast<br/><br/>Penetrating (6)<br/><br/>Shield(2)<br/><br/>Hack ||  || Defensive, Shield (2) Lightsaber Resistant, Hack, Penetrating (?), Impact, Fast
 |-
 | Vibrosword || Melee (1H) || 5+StrB ||  ||  || 1 ||  || Scarce ||  || Heavy vibrating sword delivering brutal strikes; used by warriors who prefer raw cutting power. || Sweep: on a full attack, may attack two adjacent targets with a single roll.
 |-
 | Electrostaff || Melee (2H) ||  ||  ||  || 2 ||  || Rare ||  || Double-ended staff generating electrified ends; used by MagnaGuard and elite soldiers. || Double weapon (both ends usable). Blocks lightsabers: wielder is not disarmed by lightsaber attacks.
 |-
-| Lightwhip || Melee (*Lightsaber) ||  ||  ||  || 0 ||  || Exotic ||  || Rare flexible plasma whip variant; unpredictable and difficult to defend against. || Reach (2 squares). Entangle: on hit, target is flat-footed until end of next turn.
+| Lightwhip || Melee (Lightsaber) ||  ||  ||  || 0 ||  || Exotic ||  || Rare flexible plasma whip variant; unpredictable and difficult to defend against. || Reach (2 squares). Entangle: on hit, target is flat-footed until end of next turn.
 |-
 | Cortosis Blade || Melee (1H) || 4+SB ||  ||  || 1 ||  || Exotic ||  || Blade woven with cortosis ore; one of the few melee weapons capable of shorting a lightsaber. || Short Lightsaber: on successful block, shuts down enemy lightsaber for 1 round.
 |-
@@ -183,49 +183,49 @@ E = Extreme
 == Melee (2H) ==
 
 {| class="wikitable"
-! Name !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! Description !! Special Notes
+! Name !! Skill !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! Description !! Special Notes
 |-
-| Great Weapon || 6+StrB ||  ||  || 2 || 300 || Common ||  ||  || Damaging, Hack
+| Great Weapon || Melee (2H) || 6+StrB ||  ||  || 2 || 300 || Common ||  ||  || Damaging, Hack
 |-
-| Improvised (Melee (2H)) || 2+StrB ||  ||  || 3 || - || - ||  ||  || Undamaging
+| Improvised (Melee (2H)) || Melee (2H) || 2+StrB ||  ||  || 3 || - || - ||  ||  || Undamaging
 |-
-| Staff || 4+StrB ||  ||  || 2 || 25 || Common ||  ||  || Defensive, Fast
+| Staff || Melee (2H) || 4+StrB ||  ||  || 2 || 25 || Common ||  ||  || Defensive, Fast
 |-
-| Electro-Staff || 5+StrB ||  ||  || 2 || 500 || Scarce ||  ||  || Reach, Defensive, Pummel, Fast
+| Electro-Staff || Melee (2H) || 5+StrB ||  ||  || 2 || 500 || Scarce ||  ||  || Reach, Defensive, Pummel, Fast
 |-
-| Force Pike || 6+StrB ||  ||  || 2 || 2000 || Rare ||  ||  || Reach, Lightsaber Resistant, Impale
+| Force Pike || Melee (2H) || 6+StrB ||  ||  || 2 || 2000 || Rare ||  ||  || Reach, Lightsaber Resistant, Impale
 |-
-| Great Lightsaber || 8+Form Bonus ||  ||  || 1 || - || Exotic ||  || Penetrating (8)<br/><br/>Shield(3)<br/><br/>Hack<br/><br/>Damaging || Defensive, Shield (3) Lightsaber Resistant, Hack, Penetrating (?), Impact, Fast
+| Great Lightsaber || Melee (Lightsaber) || 8+Form Bonus ||  ||  || 1 || - || Exotic ||  || Penetrating (8)<br/><br/>Shield(3)<br/><br/>Hack<br/><br/>Damaging || Defensive, Shield (3) Lightsaber Resistant, Hack, Penetrating (?), Impact, Fast
 |-
-| Double Lightsaber || 7+Form Bonus/7+Form Bonus ||  ||  || 1 || - || Exotic ||  ||  || Defensive, Shield (2) Lightsaber Resistant, Hack, Penetrating (7, Impact, Fast
+| Double Lightsaber || Melee (Lightsaber) || 7+Form Bonus/7+Form Bonus ||  ||  || 1 || - || Exotic ||  ||  || Defensive, Shield (2) Lightsaber Resistant, Hack, Penetrating (7, Impact, Fast
 |}
 
-== Thrown (Ranged Archaic) ==
+== Thrown ==
 
 {| class="wikitable"
-! Name !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! '''Description''' !! '''Special Notes'''
+! Name !! Skill !! Dam !! Range !! Mag !! Enc !! Cost !! Avail !! Traits !! '''Description''' !! '''Special Notes'''
 |-
-| Arkanian's Grenade || 11 ||  ||  || 0 || 1000 || Scarce ||  ||  || Penetrating (4)
+| Arkanian's Grenade || Ranged (Thrown) || 11 ||  ||  || 0 || 1000 || Scarce ||  ||  || Penetrating (4)
 |-
-| Choke Grenade || - ||  ||  || 0 || 250 || Common ||  ||  || Inflict (Stunned)
+| Choke Grenade || Ranged (Thrown) || - ||  ||  || 0 || 250 || Common ||  ||  || Inflict (Stunned)
 |-
-| Frag Grenade || 10 ||  ||  || 0 || 500 || Common ||  || Standard fragmentation grenade; produces a lethal shrapnel burst on detonation. || Burst 2 squares. Reflex DC 15 for half. Knocked prone on failed save.
+| Frag Grenade || Ranged (Thrown) || 10 ||  ||  || 0 || 500 || Common ||  || Standard fragmentation grenade; produces a lethal shrapnel burst on detonation. || Burst 2 squares. Reflex DC 15 for half. Knocked prone on failed save.
 |-
-| Photon Flash Grenade || - ||  ||  || 0 || 600 || Rare ||  ||  || Inflict (Blinded)
+| Photon Flash Grenade || Ranged (Thrown) || - ||  ||  || 0 || 600 || Rare ||  ||  || Inflict (Blinded)
 |-
-| Smoke Grenade || - ||  ||  || 0 || 250 || Common ||  || Grenade producing a dense smoke cloud obscuring vision and sensor targeting. || Gives Cover (?); Creates concealment (–5 to ranged attacks) in burst 3. Lasts 5 rounds or until dispersed.
+| Smoke Grenade || Ranged (Thrown) || - ||  ||  || 0 || 250 || Common ||  || Grenade producing a dense smoke cloud obscuring vision and sensor targeting. || Gives Cover (?); Creates concealment (–5 to ranged attacks) in burst 3. Lasts 5 rounds or until dispersed.
 |-
-| Stun Grenade || - ||  ||  || 0 || 600 || Common ||  || Non-lethal grenade releasing a concussive stun pulse; used for crowd control and captures. || Inflicts (Stun); Stun only. Burst 2 squares. Stunned condition on failed Fortitude DC 15 save.
+| Stun Grenade || Ranged (Thrown) || - ||  ||  || 0 || 600 || Common ||  || Non-lethal grenade releasing a concussive stun pulse; used for crowd control and captures. || Inflicts (Stun); Stun only. Burst 2 squares. Stunned condition on failed Fortitude DC 15 save.
 |-
-| Thermal Detonator || 30 ||  ||  || 0 || 10000 || Scarce ||  || Sphere-shaped high-yield explosive capable of levelling a room; iconic and feared galaxy-wide. || Burst 4 squares. Vaporise: anything within 1 square of detonation with HP below threshold is destroyed.; Penetrating (4)
+| Thermal Detonator || Ranged (Thrown) || 30 ||  ||  || 0 || 10000 || Scarce ||  || Sphere-shaped high-yield explosive capable of levelling a room; iconic and feared galaxy-wide. || Burst 4 squares. Vaporise: anything within 1 square of detonation with HP below threshold is destroyed.; Penetrating (4)
 |-
-| Ion Grenade ||  ||  ||  ||  ||  ||  ||  || Grenade releasing an ion pulse; disables droids and electronic systems in the blast radius. || Burst 2 squares. Ion damage only. Disables droids: move –2 and –2 attack for 3 rounds.
+| Ion Grenade || Ranged (Thrown) ||  ||  ||  ||  ||  ||  ||  || Grenade releasing an ion pulse; disables droids and electronic systems in the blast radius. || Burst 2 squares. Ion damage only. Disables droids: move –2 and –2 attack for 3 rounds.
 |-
-| Proton Grenade ||  ||  ||  ||  ||  ||  ||  || High-yield military grenade producing a proton detonation; restricted to military use. || Burst 3 squares. Armour-piercing: ignores 5 points of equipment bonus to Reflex Defence.
+| Proton Grenade || Ranged (Thrown) ||  ||  ||  ||  ||  ||  ||  || High-yield military grenade producing a proton detonation; restricted to military use. || Burst 3 squares. Armour-piercing: ignores 5 points of equipment bonus to Reflex Defence.
 |-
-| Fire Bomb || 6 ||  ||  || 1 || 750 || Scarce ||  ||  || Inflict (Ablaze),
+| Fire Bomb || Ranged (Thrown) || 6 ||  ||  || 1 || 750 || Scarce ||  ||  || Inflict (Ablaze),
 |-
-| Web Grenade || - ||  ||  || 0 || 600 || Rare ||  ||  || Inflict (Restrained),
+| Web Grenade || Ranged (Thrown) || - ||  ||  || 0 || 600 || Rare ||  ||  || Inflict (Restrained),
 |}
 
 == Engineering ==

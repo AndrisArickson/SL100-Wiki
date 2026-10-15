@@ -5,9 +5,9 @@ Collated by `tools/collate/assembly.py` from 01-05. Everything below is quoted o
 | Step | Layer (document) | What it gives the character, as written | Where the detail is |
 |---|---|---|---|
 | 1 | Characteristics (01) | Roll 2d10 + 20 for each of the ten Characteristics in order and make a note of the results. | 01, 'Determine Characteristics' |
-| 2 | Species (02) | characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons | species.csv (17 species) |
-| 3 | Origin - world upbringing (03) | each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (Any), pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. | origins.csv (13 world types) |
-| 4 | Career (05) | class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics | careers_l1.csv (level 1 of 24 careers); 05 |
+| 2 | Species (02) | characteristic modifiers, talents (some 'roll 3 random talents'), Movement, Fate, Resilience, Extra Points; some list Size and natural weapons | species.csv (223 species) |
+| 3 | Origin - world upbringing (03) | each Origin lists 12 skills. Choose six of them: put +5 advances into three and +3 advances into the other three. Where a skill says (Any), pick one Specialisation from chapter 06 (Skills); where it lists options, pick one of them. Weapon choices ... | origins.csv (13 world types) |
+| 4 | Career (05) | class, career and four levels; each level lists Skills, Talents, Trappings and a Status; the Advance Scheme opens characteristics | careers_l1.csv (level 1 of 91 careers); 05 |
 | 5 | Faction (04) | Your career path is a summary of what your character has done before your character started along their Star Wars journey. This path begins with your birth, and winds from your childhood to your place in the Faction's hierarchy as an adult. You can ... | factions.csv (145 entries) |
 
 ## What each layer says about the next (cross-references in the text)
@@ -19,31 +19,236 @@ Collated by `tools/collate/assembly.py` from 01-05. Everything below is quoted o
 
 ## Gaps the collation found (for the rules discussion)
 
-- Species with missing fields: Arkanian (fate); Besalisk (fate); Chironian (fate); Chiss (fate); Echani (fate); Human (characteristics, fate); Kel Dor (fate); Miraluka (fate); Nautolan (talents, fate); Otolla Gungan (characteristics, fate); Togruta (characteristics, fate); Trandoshan (fate); T'surr (fate); Twi'lek (fate); Weequay (fate); Wookiee (movement, fate, resilience); Zabrak (movement, fate, resilience)
-- 01 says 'nine Characteristics'; the 05 Advance Schemes and the Roll20 sheet have ten (with Dex).
+- Species with missing fields: Human (characteristics); Nautolan (talents); Otolla Gungan (characteristics); Togruta (characteristics); Wookiee (movement, fate, resilience); Zabrak (movement, fate, resilience)
 - 03's d100 table: values as printed are 01–10, 11–30, 31–35, 36–40, 41–50, 51–55, 56–60, 61–65, 66–70, 71–75, 76–80, 81–95, 96–00.
 
 ## Species at a glance
 
 | Species | Characteristics | Talents | Mv | Fate | Res | Extra |
 |---|---|---|---|---|---|---|
-| Arkanian | INT +20 WILL +10 T +10 FEL -10 | Bookish, Datapad Use, Eidetic Memory, Night Vision (Thermal), Resistance (Cold) | 4 |  | 1 | 2 |
-| Besalisk | S +10 T +10 AGI -10 FEL +10 | Datapad Use, Ambidextrous, roll 3 talents from the random talents list | 4 |  | 1 | 2 |
-| Chironian | S +20 | Datapad Use, Sprinter, roll 3 talents from the random talents list | 7 |  | 1 | 2 |
-| Chiss | I +10 S +10 WILL +10 | Datapad Use, Night Vision (Thermal), Resistance (Cold), Strider (Cold), Combat Aware | 4 |  | 1 | 2 |
-| Echani | WS +10 BS +10 AG +10 | Combat Aware, Datapad Use, Warrior Born, roll 2 talents from the random talents list | 4 |  | 1 | 2 |
-| Human |  | Datapad Use, roll 4 talents from the random talents list | 4 |  | 1 | 3 |
-| Kel Dor | I +10 WP +10 AG +10 | Datapad Use, Force Sense, Force Control or Force Alter (Discipline), roll 3 talents from t | 4 |  | 1 | 1 |
-| Miraluka | WP +10 | from the random talents list | 4 |  | 1 | 2 |
-| Nautolan | S +10 T +10 I +10 |  | 4 |  | 1 | 2 |
-| Otolla Gungan |  | Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer | 4 |  | 1 | 3 |
-| Togruta |  | Acute Sense (Hearing), Acute Sense (Sight), Datapad Use, roll 2 talents from the random ta | 4 |  | 1 | 3 |
-| Trandoshan | WS +10 S +10 T +10 | Datapad Use, Night Vision (Thermal), Regeneration (Minor), Warrior Born, Roll 1 talent fro | 4 |  | 1 | 2 |
-| T'surr | WS +10 S +20 T +10 | Datapad Use, Hardy, Sturdy, Very Resilient, Warrior Born | 4 |  | 1 | 2 |
-| Twi'lek | AG +10 FEL +20 T +10 WP -10 | Attractive or Beneath Notice, Datapad Use, Roll 3 talents from the random talents list | 4 |  | 1 | 2 |
-| Weequay | WS +10 T +10 S +10 | Datapad Use, Robust, Warrior Born, roll 2 talents from the random talents list | 4 |  | 1 | 2 |
+| Arkanian | INT +20 WILL +10 T +10 FEL -10 | Bookish, Datapad Use, Eidetic Memory, Night Vision (Thermal), Resistance (Cold) | 4 | 1 | 1 | 2 |
+| Besalisk | S +10 T +10 AGI -10 FEL +10 | Datapad Use, Ambidextrous, roll 3 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Chironian | S +20 | Datapad Use, Sprinter, roll 3 talents from the random talents list | 7 | 1 | 1 | 2 |
+| Chiss | I +10 S +10 WILL +10 | Datapad Use, Night Vision (Thermal), Resistance (Cold), Strider (Cold), Combat Aware | 4 | 1 | 1 | 2 |
+| Echani | WS +10 BS +10 AG +10 | Combat Aware, Datapad Use, Warrior Born, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Human |  | Datapad Use, roll 4 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Kel Dor | I +10 WP +10 AG +10 | Datapad Use, Force Sense, Force Control or Force Alter (Discipline), roll 3 talents from t | 4 | 2 | 1 | 1 |
+| Miraluka | WP +10 | from the random talents list | 4 | 2 | 1 | 2 |
+| Nautolan | S +10 T +10 I +10 |  | 4 | 1 | 1 | 2 |
+| Otolla Gungan |  | Amphibious, Contortionist, Strider (Aquatic), Strong Legs, Strong Swimmer | 4 | 2 | 1 | 3 |
+| Togruta |  | Acute Sense (Hearing), Acute Sense (Sight), Datapad Use, roll 2 talents from the random ta | 4 | 2 | 1 | 3 |
+| Trandoshan | WS +10 S +10 T +10 | Datapad Use, Night Vision (Thermal), Regeneration (Minor), Warrior Born, Roll 1 talent fro | 4 | 1 | 1 | 2 |
+| T'surr | WS +10 S +20 T +10 | Datapad Use, Hardy, Sturdy, Very Resilient, Warrior Born | 4 | 1 | 1 | 2 |
+| Twi'lek | AG +10 FEL +20 T +10 WP -10 | Attractive or Beneath Notice, Datapad Use, Roll 3 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Weequay | WS +10 T +10 S +10 | Datapad Use, Robust, Warrior Born, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
 | Wookiee | STR +20 FEL -10 INT +10 AGI +10 | Craftsman (Profession), Datapad Use, Very Strong, roll 2 talents from the random talents l |  |  |  |  |
 | Zabrak | T +10 WP +20 | Craftsman (Profession) or Strider (Terrain), Datapad Use, Resistance (Poison), Warrior Bor |  |  |  |  |
+| Abyssin | WS +10 S +10 T +20 FEL −10 | Datapad Use, Regeneration (Minor), Hardy, roll 1 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Adarian | I +10 INT +10 WP +10 | Datapad Use, Acute Sense (Hearing), roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Advozse | T +10 INT +10 WP +10 | Datapad Use, Night Vision, Resistance (Heat), roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Aleena | S −10 I +10 AG +20 DEX +10 | Datapad Use, Small, Lightning Reflexes, roll 2 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Anomid | INT +20 DEX +10 | Datapad Use, Savvy, Craftsman (Profession), roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Anx | S +20 T +10 | Datapad Use, Large, Acute Sense (Smell), Hardy, roll 1 talents from the random talents lis | 5 | 1 | 1 | 2 |
+| Anzat | I +10 AG +10 WP +10 | Datapad Use, Sixth Sense, Menacing, roll 1 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Aqualish | WS +10 S +20 T +10 FEL −10 | Datapad Use, Amphibious, Menacing, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Arcona | T +10 INT +10 FEL +10 | Datapad Use, Resistance (Heat), Hardy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Askajian | T +10 WP +10 | no Datapad Use (uncivilised), Tenacious, Stone Soup, roll 1 talents from the random talent | 4 | 2 | 1 | 3 |
+| Ayrou | AG +10 INT +10 FEL +10 | Datapad Use, Attractive, Savvy, roll 1 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Balosar | I +10 AG +10 INT +10 | Datapad Use, Resistance (Poison), Alley Cat, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Barabel | S +10 T +20 I +10 FEL −10 | Datapad Use, Night Vision, Hardy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Baragwin | T +20 I +10 INT +10 AG −10 | Datapad Use, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Bardottan | INT +10 WP +20 | Datapad Use, Sixth Sense, roll 2 talents from the random talents list | 3 | 0 | 2 | 2 |
+| Bartokk | WS +10 S +10 T +20 FEL −10 | Datapad Use, Regeneration (Minor), Menacing, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Bimm | INT +10 FEL +10 | Datapad Use, Suave, Dealmaker, roll 1 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Bith | S −10 I +10 DEX +10 INT +20 | Datapad Use, Acute Sense (Hearing), Perfect Pitch, roll 1 talents from the random talents  | 4 | 1 | 1 | 2 |
+| Blood Carver | AG +10 DEX +10 WP +10 | Datapad Use, Contortionist, Acute Sense (Smell), roll 1 talents from the random talents li | 4 | 1 | 1 | 2 |
+| Bothan | I +10 INT +10 FEL +10 | Datapad Use, Savvy, Suave, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Caamasi | WP +10 FEL +20 | Datapad Use, Suave, Coolheaded, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Caarite | INT +10 FEL +20 | Datapad Use, Linguistics, Dealmaker, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Cathar | WS +10 S +10 AG +10 | Datapad Use, Warrior Born, Lightning Reflexes, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Celegian | S −10 INT +20 WP +20 | Datapad Use, Large, Savvy, Sixth Sense, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Cerean | I +10 AG −10 INT +20 WP +10 | Datapad Use, Savvy, Coolheaded, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Chadra-Fan | S −10 I +20 AG +10 DEX +10 | Datapad Use, Small, Acute Sense (Smell), Night Vision, roll 1 talents from the random tale | 3 | 1 | 1 | 2 |
+| Chagrian | S +10 T +10 WP +10 | Datapad Use, Amphibious, Night Vision, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Charon | S +20 T +10 WP +10 FEL −10 | Datapad Use, Large, Frightening, Hardy, roll 1 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Chev | T +10 WP +10 | Datapad Use, Beneath Notice, Tenacious, roll 1 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Chevin | S +20 T +10 I +10 FEL −10 | Datapad Use, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Clawdite | AG +10 WP +10 FEL +10 | Datapad Use, Beneath Notice, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Colicoid | WS +10 S +10 T +10 I +10 FEL −10 | Datapad Use, Acute Sense (Smell), Menacing, roll 1 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Cragmoloid | S +20 T +10 WP +10 AG −10 | Datapad Use, Large, Menacing, Sturdy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Dantari | S +10 T +10 | no Datapad Use (uncivilised), Hardy, Rover, roll 1 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Dashade | WS +10 S +10 T +10 | Datapad Use, Force Resistance, Resistance (Radiation), roll 1 talents from the random tale | 4 | 1 | 1 | 2 |
+| Dathomirian | WS +10 T +10 WP +10 | no Datapad Use (uncivilised), Sixth Sense, Hardy, roll 1 talents from the random talents l | 4 | 0 | 2 | 2 |
+| Defel | S +10 I +10 AG +10 | Datapad Use, Night Vision, Beneath Notice, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Devaronian | S +10 T +10 I +10 | Datapad Use, Resistance (Poison), Rover, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Diathim | T −10 AG +10 WP +10 FEL +20 | Datapad Use, Attractive, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Drall | S −10 I +10 INT +20 WP +10 | Datapad Use, Small, Eidetic Memory, Savvy, roll 1 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Dressellian | BS +10 I +10 WP +10 | Datapad Use, Rover, Marksman, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Dug | WS +10 S +10 AG +20 FEL −10 | Datapad Use, Scale Sheer Surface, Catfall, roll 1 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Duinuogwuin | S +20 T +10 AG −10 INT +10 WP +10 | Datapad Use, Large, Regeneration (Minor), roll 2 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Duros | I +10 AG +10 INT +10 | Datapad Use, Orientation, Eidetic Memory, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Ebranite | WS +10 S +10 T +10 | no Datapad Use (uncivilised), Scale Sheer Surface, Night Vision, roll 1 talent from the ra | 3 | 1 | 1 | 2 |
+| Elom | T +20 INT +10 WP +10 FEL −10 | Datapad Use, Night Vision, Resistance (Cold), roll 1 talent from the random talents list | 3 | 1 | 1 | 2 |
+| Elomin | T +10 INT +10 WP +10 | Datapad Use, Savvy, Coolheaded, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Em'liy | WS +10 S +10 T +10 | Datapad Use, Warrior Born, Tenacious, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Esh-kha | WS +10 S +10 T +10 WP +10 FEL −10 | Datapad Use, Hatred (Outsiders), Warrior Born, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Ewok | S +10 I +10 AG +10 | no Datapad Use (uncivilised), Small, Acute Sense (Smell), Strider (Woodland), roll 1 talen | 3 | 1 | 1 | 2 |
+| Falleen | WP +10 FEL +20 | Datapad Use, Attractive, Coolheaded, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Farghul | S +10 AG +10 FEL +10 | Datapad Use, Catfall, Lightning Reflexes, roll 1 talent from the random talents list | 5 | 1 | 1 | 2 |
+| Feeorin | WS +10 S +20 T +10 FEL −10 | Datapad Use, Very Strong, Tenacious, roll 1 talent from the random talents list | 4 | 0 | 2 | 2 |
+| Filordus | T +10 INT +10 FEL +10 | Datapad Use, Dealmaker, Hardy, roll 1 talent from the random talents list | 6 | 1 | 1 | 2 |
+| Frozian | T −10 AG +10 DEX +10 INT +10 WP +10 | Datapad Use, Savvy, Contortionist, roll 1 talent from the random talents list | 5 | 1 | 1 | 2 |
+| Gamorrean | WS +10 S +20 T +10 INT −10 | no Datapad Use (uncivilised), Very Strong, Menacing, roll 1 talent from the random talents | 4 | 1 | 1 | 2 |
+| Gand | T +10 I +10 WP +10 | Datapad Use, Regeneration (Minor), Sixth Sense, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Gen'Dai | S +10 T +20 WP +10 FEL −10 | Datapad Use, Regeneration (Minor), Very Resilient, roll 1 talent from the random talents l | 4 | 0 | 2 | 2 |
+| Geonosian | BS +10 S +10 T +10 INT +10 FEL −10 | Datapad Use, Craftsman (Engineer), Hardy, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Givin | T +10 INT +20 WP +10 FEL −10 | Datapad Use, Super Numerate, Orientation, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Gossam | T −10 AG +10 DEX +10 INT +10 FEL +10 | Datapad Use, Small, Dealmaker, Savvy, roll 1 talent from the random talents list | 3 | 1 | 1 | 2 |
+| Gotal | I +20 WP +10 | Datapad Use, Sixth Sense, Acute Sense (Electromagnetic), roll 1 talent from the random tal | 4 | 1 | 1 | 2 |
+| Gran | I +10 WP +10 FEL +10 | Datapad Use, Acute Sense (Sight), Night Vision, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| H'nemthe | T +10 AG +10 INT +10 | Datapad Use, Rover, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Hapan | FEL +20 | Datapad Use, Attractive, Suave, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Herglic | S +20 T +10 AG −10 FEL +10 | Datapad Use, Large, Strong Swimmer, Sturdy, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Ho'Din | DEX +10 INT +10 WP +10 | Datapad Use, Large, Scale Sheer Surface, Concoct, roll 1 talent from the random talents li | 5 | 1 | 1 | 2 |
+| Houk | WS +10 S +20 T +10 FEL −10 | Datapad Use, Very Strong, Menacing, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Hrakian | T +10 WP +10 | Datapad Use, Tenacious, Spacer, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Huralok | S +10 T +10 INT +10 WP +10 FEL −10 | Datapad Use, Schemer, Menacing, roll 1 talent from the random talents list | 4 | 0 | 2 | 2 |
+| Hutt | S +10 T +20 AG −10 INT +10 WP +10 | Datapad Use, Large, Force Resistance, Very Resilient, roll 1 talent from the random talent | 3 | 0 | 2 | 2 |
+| Iktotchi | T +10 I +10 DEX −10 INT +10 WP +10 | Datapad Use, Sixth Sense, Coolheaded, roll 1 talent from the random talents list | 4 | 0 | 2 | 2 |
+| Iotran | WS +10 BS +10 S +10 WP +10 FEL −10 | Datapad Use, Warrior Born, Coolheaded, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Ishi Tib | I +10 INT +10 WP +10 | Datapad Use, Amphibious, Acute Sense (Smell), roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Ithorian | T +10 I −10 INT +10 WP +10 FEL +10 | Datapad Use, Savvy, Creature Affinity, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Jawa | AG +10 DEX +10 INT +10 | Datapad Use, Small, Night Vision, Scavenger, roll 1 talent from the random talents list | 3 | 1 | 1 | 2 |
+| Jenet | T +10 I +10 AG +10 INT +10 FEL −10 | Datapad Use, Eidetic Memory, Contortionist, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Kadas'sa'Nikto | S +10 T +10 AG +10 | Datapad Use, Scale Sheer Surface, Hardy, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Kage | WS +10 AG +10 | Datapad Use, Lightning Reflexes, Night Vision, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Kaleesh | WS +10 S +10 T +10 WP +10 FEL −10 | Datapad Use, Warrior Born, Menacing, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Kaminoan | S −10 I +10 INT +20 WP +10 | Datapad Use, Strong Swimmer, Savant (Genetics), roll 1 talent from the random talents list | 5 | 1 | 1 | 2 |
+| Kerestian | WS +10 S +10 T +10 I +10 FEL −10 | Datapad Use, Hunter's Eye, Resistance (Cold), roll 1 talent from the random talents list | 5 | 1 | 1 | 2 |
+| Keshiri | S +10 FEL +10 | no Datapad Use (uncivilised), Attractive, Artistic, roll 1 talent from the random talents  | 4 | 2 | 1 | 3 |
+| Khil | INT +10 WP +10 FEL +10 | Datapad Use, Perfect Pitch, Tenacious, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Khommite | INT +10 WP +10 | Datapad Use, Coolheaded, Savvy, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Kian'thar | S +10 WP +10 FEL +10 | Datapad Use, Sixth Sense, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Kiffar | WP +10 I +10 | Datapad Use, Clan Markings, Coolheaded, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Kilmaulsi | WS +10 T +10 WP +10 | Datapad Use, Warrior Born, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Kitonak | T +20 WP +20 AG −10 | Datapad Use, Small, Coolheaded, Stone Soup, roll 1 talent from the random talents list | 3 | 0 | 2 | 2 |
+| Klatooinian | WS +10 S +10 T +10 | Datapad Use, Hardy, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Kobok | WS +10 S +10 AG +10 I +10 T −10 | Datapad Use, Warrior Born, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Koorivar | INT +10 I +10 FEL +10 | Datapad Use, Dealmaker, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Korun | T +10 WP +10 | Datapad Use, Force Sensitive (Korunnai), Resistance (Poison), roll 1 talent from the rando | 4 | 2 | 1 | 3 |
+| Krevaaki | T +10 INT +10 WP +20 FEL −10 | Datapad Use, Coolheaded, roll 2 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Krish | WS +10 AG +10 INT +10 | Datapad Use, Tenacious, roll 2 talents from the random talents list | 4 | 2 | 0 | 2 |
+| Kubaz | I +10 DEX +10 INT +10 | Datapad Use, Acute Sense (Sight), roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Kushiban | AG +20 I +10 WP +10 S −10 | Datapad Use, Small, Beneath Notice, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Kyuzo | WS +10 AG +20 | Datapad Use, Lightning Reflexes, roll 2 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Lannik | WS +10 T +10 WP +10 | Datapad Use, Small, Warrior Born, roll 2 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Lepi | AG +10 I +10 FEL +10 | Datapad Use, Sprinter, Acute Sense (Hearing), roll 1 talent from the random talents list | 5 | 2 | 0 | 2 |
+| Lorrdian | I +10 FEL +10 | Datapad Use, Mimic, Lip Reading, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Lutrillian | T +10 INT +10 FEL +10 | Datapad Use, Resistance (Cold), Dealmaker, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Massassi | WS +10 S +20 T +10 INT −10 | no Datapad Use (uncivilised), Menacing, Force Sensitive (Sith), roll 1 talent from the ran | 4 | 1 | 1 | 2 |
+| Meerian | S +10 FEL +10 | Datapad Use, Sturdy, Resistance (Poison), roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Menahuun | AG +20 I +10 INT +10 S −10 | no Datapad Use (uncivilised), Small, Night Vision, Scale Sheer Surface, roll 1 talent from | 3 | 2 | 0 | 2 |
+| Mirialan | AG +10 I +10 | Datapad Use, Lightning Reflexes, Catfall, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Mon Calamari | INT +10 WP +10 FEL +10 | Datapad Use, Amphibious, Coolheaded, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Morseerian | I +10 DEX +10 INT +10 | Datapad Use, Orientation, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Mrlssi | I +10 INT +20 FEL +10 S −10 | Datapad Use, Small, Savvy, roll 2 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Murachaun | S +10 T +10 FEL +10 | Datapad Use, Hardy, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Mustafarian | S +10 T +10 WP +10 | Datapad Use, Resistance (Heat), Hardy, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Muun | INT +20 WP +10 FEL +10 S −10 | Datapad Use, Savvy, Dealmaker, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Myneyrsh | S +10 I +20 AG +10 FEL −10 | no Datapad Use (uncivilised), Rover, Sixth Sense, roll 1 talent from the random talents li | 4 | 1 | 1 | 2 |
+| Nagai | AG +10 WP +10 | Datapad Use, Coolheaded, Warrior Born, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Nazzar | S +10 AG +10 WP +10 | Datapad Use, Coolheaded, roll 2 talents from the random talents list | 5 | 0 | 2 | 2 |
+| Neimoidian | DEX +10 INT +20 FEL +10 WP −10 | Datapad Use, Dealmaker, Briber, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Nelvaanian | S +10 I +10 WP +10 | no Datapad Use (uncivilised), Acute Sense (Smell), Resistance (Cold), roll 1 talent from t | 4 | 1 | 1 | 2 |
+| Neti | T +20 INT +10 WP +10 AG −10 | Datapad Use, Regeneration (Minor), roll 2 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Nikto | WS +10 S +10 T +10 | Datapad Use, Hardy, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Noehon | I +10 AG +10 DEX +10 INT +10 FEL −10 | Datapad Use, Small, Scale Sheer Surface, roll 2 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Noghri | WS +10 S +10 AG +10 I +10 FEL −10 | Datapad Use, Small, Acute Sense (Smell), Lightning Reflexes, roll 1 talent from the random | 4 | 1 | 1 | 2 |
+| Nosaurian | WS +10 T +10 WP +10 | Datapad Use, Hardy, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Nuknog | T +10 I +20 DEX +10 INT −10 | Datapad Use, Small, Acute Sense (Hearing), Craftsman (Technician), roll 1 talent from the  | 3 | 2 | 0 | 2 |
+| Omwati | DEX +10 INT +10 | Datapad Use, Eidetic Memory, Savvy, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Ongree | I +10 AG +10 FEL +10 | Datapad Use, Amphibious, Suave, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Ortolan | T +20 I +10 FEL +10 DEX −10 | Datapad Use, Acute Sense (Hearing), Resistance (Cold), roll 1 talent from the random talen | 3 | 1 | 1 | 2 |
+| Pa'lowick | T +10 WP +10 FEL +10 | Datapad Use, Strong Swimmer, Perfect Pitch, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Pacithhip | S +10 T +20 INT +10 AG −10 | Datapad Use, Hardy, roll 2 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Paigun | WS −10 T +10 DEX +10 INT +20 | Datapad Use, Savvy, Craftsman (Engineer), roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Pau'an | WP +10 FEL +10 | Datapad Use, Night Vision, Menacing, roll 2 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Phindian | WP −10 AG +10 DEX +10 INT +10 FEL +10 | Datapad Use, Flee!, Scale Sheer Surface, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Pho Ph'eahian | S +10 INT +10 FEL +10 | Datapad Use, Resistance (Cold), Night Vision, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Psadan | S +10 T +20 AG −10 WP +10 | Datapad Use, Hardy, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Quarren | S +10 T +10 INT +10 WP +10 FEL −10 | Datapad Use, Amphibious, Strong Swimmer, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Quermian | S −10 INT +20 WP +10 FEL +10 | Datapad Use, Sixth Sense, Savvy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Rakata | WS +10 T +10 INT +10 WP +10 FEL −10 | Datapad Use, Menacing, Warrior Born, roll 1 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Ranat | T +10 I +10 AG +20 INT −10 | Datapad Use, Small, Night Vision, Duct Crawler, roll 1 talents from the random talents lis | 3 | 2 | 0 | 2 |
+| Ranth | S +10 T +10 I +10 | Datapad Use, Acute Sense (Hearing), Resistance (Cold), roll 1 talents from the random tale | 4 | 1 | 1 | 2 |
+| Rattataki | WS +10 T +10 | Datapad Use, Warrior Born, Menacing, roll 2 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Rodian | BS +10 I +10 AG +10 | Datapad Use, Acute Sense (Smell), Scale Sheer Surface, roll 1 talents from the random tale | 4 | 1 | 1 | 2 |
+| Ruurian | S −10 T +10 DEX +10 INT +20 | Datapad Use, Small, Eidetic Memory, Savvy, roll 1 talents from the random talents list | 3 | 1 | 1 | 2 |
+| Rybet | T +10 I +10 AG +10 DEX +10 WP −10 | Datapad Use, Amphibious, Acute Sense (Smell), roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Ryn | AG +10 DEX +10 FEL +10 | Datapad Use, Perfect Pitch, Suave, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| S'kytri | WS +10 S +10 FEL +10 | Datapad Use, Attractive, Warrior Born, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Saheelindeeli | S +10 T +10 AG +10 | no Datapad Use (uncivilised), Scale Sheer Surface, Hardy, roll 1 talents from the random t | 4 | 1 | 1 | 2 |
+| Sakiyan | S +10 I +20 INT +10 FEL −10 | Datapad Use, Acute Sense (Smell), Night Vision, roll 1 talents from the random talents lis | 4 | 1 | 1 | 2 |
+| Sanyassan | WS +10 S +10 T +10 INT −10 WP +10 | no Datapad Use (uncivilised), Menacing, Hardy, roll 1 talents from the random talents list | 4 | 2 | 0 | 2 |
+| Sarkan | S +10 T +10 INT +10 | Datapad Use, Night Vision, Dealmaker, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Saurin | WS +10 S +10 T +10 | Datapad Use, Hardy, Menacing, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Selkath | INT +10 WP +10 FEL +10 | Datapad Use, Amphibious, Strong Swimmer, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Selonian | S +10 T +10 AG +10 | Datapad Use, Strong Swimmer, Duct Crawler, roll 1 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Sephi | DEX +10 FEL +10 | Datapad Use, Suave, Craftsman (Artist), roll 2 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Shi'ido | T +10 INT +10 WP +10 | Datapad Use, Contortionist, Beneath Notice, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Shistavanen | S +10 T +10 I +10 AG +10 FEL −10 | Datapad Use, Night Vision, Acute Sense (Smell), roll 1 talents from the random talents lis | 5 | 1 | 1 | 2 |
+| Sith | WS +10 S +10 WP +10 | Datapad Use, Force Sensitive (Sith), Menacing, roll 1 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Skakoan | T +10 DEX +10 INT +20 FEL −10 | Datapad Use, Savvy, Craftsman (Technician), roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Skrilling | S +10 T +10 INT +10 | Datapad Use, Acute Sense (Smell), Dealmaker, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Sluissi | S −10 DEX +10 INT +20 WP +10 | Datapad Use, Craftsman (Starship Technician), Coolheaded, roll 1 talents from the random t | 4 | 1 | 1 | 2 |
+| Snivvian | T +10 I +10 INT +10 | Datapad Use, Acute Sense (Smell), Resistance (Cold), roll 1 talents from the random talent | 4 | 1 | 1 | 2 |
+| Spiner | BS +10 T +10 AG +10 | Datapad Use, Marksman, Hardy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Squalris | T +10 AG −10 INT +10 FEL +20 | Datapad Use, Dealmaker, Suave, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Squib | S −10 I +10 AG +10 INT +10 FEL +10 | Datapad Use, Small, Dealmaker, Acute Sense (Hearing), roll 1 talents from the random talen | 3 | 2 | 0 | 2 |
+| Ssi-ruu | WS +10 S +10 T +10 INT +10 FEL −10 | Datapad Use, Menacing, Acute Sense (Smell), roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Sullustan | I +10 DEX +10 | Datapad Use, Night Vision, Orientation, roll 2 talents from the random talents list | 4 | 2 | 1 | 3 |
+| Svivreni | S +10 T +10 AG −10 WP +20 | Datapad Use, Tenacious, Hardy, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Swokes Swokes | S +10 T +20 AG −10 WP +10 | Datapad Use, Regeneration (Minor), Menacing, roll 1 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Talz | S +20 T +10 INT −10 WP +10 | no Datapad Use (uncivilised), Large, Night Vision, Resistance (Cold), roll 1 talents from  | 4 | 1 | 1 | 2 |
+| Tarasin | S −10 I +10 INT +20 WP +10 | Datapad Use, Sixth Sense, Resistance (Heat), roll 1 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Tarro | WS +10 S +10 T +10 I +10 FEL −10 | Datapad Use, Menacing, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Temolak | S +10 T +10 INT +10 | Datapad Use, Scavenger, Hardy, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Thakwaash | S +20 T +10 I +10 WP −10 | Datapad Use, Large, Very Strong, Mimic, roll 1 talent from the random talents list | 5 | 1 | 1 | 2 |
+| Theelin | DEX +10 FEL +10 | Datapad Use, Artistic, Perfect Pitch, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Thisspiasian | S +10 T +10 WP +10 | Datapad Use, Tenacious, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Tholothian | WP +10 FEL +10 | Datapad Use, Savvy, Suave, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Tiss'shar | S +10 DEX +10 INT +10 | Datapad Use, Dealmaker, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Togorian | WS +10 S +10 T +10 | Datapad Use, Night Vision, Hardy, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Toong | I +10 AG +10 INT +20 WP −10 | Datapad Use, Flee!, roll 2 talents from the random talents list | 5 | 1 | 1 | 2 |
+| Toydarian | DEX +10 INT +10 WP +10 | Datapad Use, Small, Force Resistance, Dealmaker, roll 1 talent from the random talents lis | 4 | 1 | 1 | 2 |
+| Trianii | S +10 AG +10 I +10 | Datapad Use, Catfall, Acute Sense (Sight), roll 1 talent from the random talents list | 5 | 1 | 1 | 2 |
+| Tunroth | S +10 T +10 I +10 | Datapad Use, Hunter's Eye, Menacing, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Tusken Raider | WS +10 S +10 T +10 I +10 FEL −10 | no Datapad Use (uncivilised), Strider (Desert), Resistance (Heat), roll 1 talent from the  | 4 | 1 | 1 | 2 |
+| Tynnan | T +10 INT +10 WP +10 | Datapad Use, Small, Strong Swimmer, Resistance (Cold), roll 1 talent from the random talen | 3 | 1 | 1 | 2 |
+| Ubese | BS +10 T +10 AG +10 WP +10 FEL −10 | Datapad Use, Marksman, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Ugnaught | T +10 DEX +10 WP +10 | Datapad Use, Small, Craftsman (Any), Hardy, roll 1 talent from the random talents list | 3 | 0 | 2 | 2 |
+| Umbaran | INT +10 WP +10 | Datapad Use, Night Vision, Schemer, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Utai | T +10 DEX +10 I +10 | Datapad Use, Small, Night Vision, Creature Affinity, roll 1 talent from the random talents | 3 | 2 | 0 | 2 |
+| Verpine | S −10 T +10 DEX +10 INT +20 | Datapad Use, Tinker, Acute Sense (Sight), roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Vodran | S +10 T +10 AG +10 | Datapad Use, Strider (Swamp), roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Vor | T −10 I +10 AG +10 DEX +10 INT +10 | Datapad Use, Perfect Pitch, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Vorzydiak | INT +10 WP +10 | Datapad Use, Craftsman (Any), Bookish, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Voss | WS +10 T +10 WP +10 | Datapad Use, Coolheaded, Sixth Sense, roll 1 talent from the random talents list | 4 | 0 | 2 | 2 |
+| Vratix | S +10 AG +10 INT +10 | Datapad Use, Scale Sheer Surface, Concoct, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Vurk | S +10 T +10 WP +10 | Datapad Use, Amphibious, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Vuvrian | T −10 I +20 INT +10 FEL +10 | Datapad Use, Acute Sense (Touch), Suave, roll 1 talent from the random talents list | 4 | 1 | 1 | 2 |
+| Whiphid | S +20 T +10 I +10 FEL −10 | Datapad Use, Large, Resistance (Cold), roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Woostoid | DEX +10 INT +20 | Datapad Use, Savant (Computers), roll 2 talents from the random talents list | 4 | 0 | 2 | 2 |
+| Wroonian | WP +10 FEL +10 | Datapad Use, Carouser, Gregarious, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Xexto | I +10 AG +10 DEX +10 | Datapad Use, Small, Coolheaded, roll 2 talents from the random talents list | 3 | 2 | 0 | 2 |
+| Yarkora | T +10 I +10 FEL +10 | Datapad Use, Acute Sense (Sight), Cat-tongued, roll 1 talent from the random talents list | 4 | 0 | 2 | 2 |
+| Yevetha | WS +10 AG +10 INT +10 WP +10 FEL −10 | Datapad Use, Hatred (Non-Yevetha), roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
+| Yinchorri | WS +10 S +10 T +20 INT −10 | Datapad Use, Force Resistance, Resistance (Heat), roll 1 talent from the random talents li | 4 | 1 | 1 | 2 |
+| Yuuzhan Vong | WS +10 S +10 T +10 WP +10 FEL −10 | no Datapad Use (shun mechanical technology), Force Resistance, Hardy, roll 1 talent from t | 4 | 1 | 1 | 2 |
+| Yuzzem | S +20 T +10 WP +10 FEL −10 | no Datapad Use (uncivilised), Large, Very Strong, roll 2 talents from the random talents l | 4 | 1 | 1 | 2 |
+| Yuzzum | I +10 AG +10 FEL +10 | no Datapad Use (uncivilised), Perfect Pitch, Rover, roll 1 talent from the random talents  | 5 | 1 | 1 | 2 |
+| Zeltron | FEL +20 | Datapad Use, Attractive, Carouser, roll 1 talent from the random talents list | 4 | 2 | 1 | 3 |
+| Zygerrian | WS +10 I +10 AG +10 | Datapad Use, Menacing, roll 2 talents from the random talents list | 4 | 1 | 1 | 2 |
 
 ## Origins at a glance
 
@@ -52,42 +257,109 @@ Collated by `tools/collate/assembly.py` from 01-05. Everything below is quoted o
 | 01–10 | Hive Worlds | +5 Agility, and +5 to one of Ballistic Skill, Initiative or Fellowship. | Bribery, Charm, Consume Intoxicant, Cool, Dodge, Evaluate, Haggle, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban) |
 | 11–30 | Civilized Worlds | +5 Intelligence, and +5 to one of Willpower, Initiative or Fellowship. | Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Haggle, Intimidate, Leadership, Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban) |
 | 31–35 | Paradise Worlds | +5 Fellowship, and +5 to one of Weapon Skill, Ballistic Skill or Toughness. | Athletics, Bribery, Charm, Consume Intoxicant, Creature Training (Any), Entertain (Any), Leadership, Pilot (Speeder), Pilot (Starship), Play (Any), Ranged (Blaster), Swim |
-| 36–40 | Feudal Worlds | +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship. | Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (Any), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural) |
-| 41–50 | Feral Worlds | +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative. | Athletics, Climb, Creature Training (Any), Dodge, Melee (Any), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track |
-| 51–55 | Industrial Worlds | +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility. | Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (Any), Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban) |
+| 36–40 | Feudal Worlds | +5 Weapon Skill, and +5 to one of Strength, Willpower or Fellowship. | Bribery, Charm, Consume Intoxicant, Cool, Dodge, Gamble, Gossip, Melee (1H/2H/Brawling), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Urban or Rural) |
+| 41–50 | Feral Worlds | +5 Toughness, and +5 to one of Weapon Skill, Strength or Initiative. | Athletics, Climb, Creature Training (Any), Dodge, Melee (1H/2H/Brawling), Ranged (Archaic/Blaster), Outdoor Survival, Perception, Pilot (Speeder), Ride (Air, Land or Water), Swim, Track |
+| 51–55 | Industrial Worlds | +5 Intelligence, and +5 to one of Ballistic Skill, Toughness or Agility. | Athletics, Bribery, Charm, Consume Intoxicant, Dodge, Evaluate, Intuition, Melee (1H/2H/Brawling), Pilot (Speeder), Pilot (Starship), Ranged (Blaster), Stealth (Urban) |
 | 56–60 | Lava Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Strength. | Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Leadership, Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster) |
-| 61–65 | Hostile Worlds | +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness. | Athletics, Climb, Creature Training (Any), Dodge, Melee (Any), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim |
-| 66–70 | Agri Worlds | +5 Strength, and +5 to one of Toughness, Agility or Willpower. | Athletics, Climb, Creature Care, Creature Training (Any), Dodge, Haggle, Melee (Any), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim, Track |
-| 71–75 | Ocean Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Fellowship. | Athletics, Cool, Creature Training (Any), Dodge, Endurance, Melee (Any), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic), Ride (Air, Land or Water), Swim |
-| 76–80 | Tundra Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Strength. | Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intimidate, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural) |
-| 81–95 | Space | +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship. | Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster or Ordnance) |
-| 96–00 | Force Nexus Worlds | +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship. | Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ride (Air, Land or Water), Stealth (Rural) |
+| 61–65 | Hostile Worlds | +5 Ballistic Skill, and +5 to one of Weapon Skill, Initiative or Toughness. | Athletics, Climb, Creature Training (Any), Dodge, Melee (1H/2H/Brawling), Navigation, Outdoor Survival, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim |
+| 66–70 | Agri Worlds | +5 Strength, and +5 to one of Toughness, Agility or Willpower. | Athletics, Climb, Creature Care, Creature Training (Any), Dodge, Haggle, Melee (1H/2H/Brawling), Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Swim, Track |
+| 71–75 | Ocean Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Fellowship. | Athletics, Cool, Creature Training (Any), Dodge, Endurance, Melee (1H/2H/Brawling), Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic/Blaster), Ride (Air, Land or Water), Swim |
+| 76–80 | Tundra Worlds | +5 Toughness, and +5 to one of Agility, Initiative or Strength. | Athletics, Cool, Creature Training (Any), Dodge, Endurance, Intuition, Navigation, Outdoor Survival, Pilot (Speeder), Ranged (Archaic/Blaster), Ride (Air, Land or Water), Stealth (Rural) |
+| 81–95 | Space | +5 Agility, and +5 to one of Ballistic Skill, Intelligence or Fellowship. | Athletics, Bribery, Charm, Cool, Evaluate, Gamble, Haggle, Intuition, Navigation, Perception, Pilot (Starship), Ranged (Blaster/Ordnance) |
+| 96–00 | Force Nexus Worlds | +5 Willpower, and +5 to one of Intelligence, Initiative or Fellowship. | Athletics, Cool, Creature Training (Any), Dodge, Intuition, Leadership, Meditate, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Air, Land or Water), Stealth (Rural) |
 
 ## Careers (level 1) at a glance
 
 | Class | Career | Level 1 | Skills | Talents |
 |---|---|---|---|---|
-| Academics | Physician (Medic) | Physician’s Apprentice — Brass 4 | Bribery, Cool, Pilot (Land Vehicle), Endurance, Gossip, Medicine, Perception, Sleight of Hand | Bookish, Field Dressing, Datapad Use, Strike to Stun |
-| Citizens | Agitator | Pamphleteer — Brass 1 | Art (Writing), Bribery, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer) | Blather, Gregarious, Panhandle, Datapad Use |
-| Citizens | Artisan | Apprentice Artisan — Brass 2 | Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any) | Artistic, Craftsman (Any), Strong Back, Very Strong |
-| Citizens | Investigator | Sleuth — Silver 1 | Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track | Alley Cat, Beneath Notice, Datapad Use, Sharp |
-| Citizens | Merchant | Trader — Silver 2 | Creature Care, Bribery, Charm, Consume Intoxicant, Pilot (Land Vehicle), Gamble, Gossip, Haggle | Blather, Dealmaker, Datapad Use, Suave |
-| Dignitaries | Advisor | Aide — Silver 2 | Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Galactic Standard), Lore (Politics), Perception | Beneath Notice, Etiquette (Any), Gregarious, Datapad Use |
-| Dignitaries | Envoy | Herald — Silver 2 | Athletics, Charm, Pilot (Land Vehicle), Dodge, Endurance, Intuition, Ride (Land), Pilot (Starship) | Blather, Etiquette (Nobles), Datapad Use, Suave |
-| Dignitaries | Noble | Scion — Gold 1 | Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (1H), Play (Any) | Etiquette (Nobles), Luck, Noble Blood, Datapad Use |
-| Dignitaries | Spy | Informer — Brass 3 | Bribery, Charm, Cool, Gamble, Gossip, Haggle, Perception, Stealth (Any) | Blather, Carouser, Gregarious, Shadow |
-| Dignitaries | Warden | Custodian — Silver 1 | Athletics, Creature Training (Any), Consume Intoxicant, Cool, Endurance, Intuition, Lore (Local), Perception | Menacing, Night Vision, Sharp, Strike to Stun |
-| Force Wielders | Force Savant | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Lore (Force Traditions), Charm, Medicine, Lore (Galactic Cultures), Melee (Lightsaber — defensive form only), Pilot (Speeder), Profession (Armourer — lightsaber construction) | Etiquette (Senate or Diplomatic Corps), Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions), Savant (Lore), Linguistics |
-| Force Wielders | Force Shadow | Padawan/ Acolyte / Sith Acolyte — Silver 3 | Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth, Medicine, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction) | Etiquette (Underworld — how to behave in places that will kill you for standing out), Flee!, Sturdy, Warrior Born |
-| Force Wielders | Force Warrior | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Medicine, Lore (Galactic Sigils), Melee (Force Tradition Weapon), | Etiquette (Senate or Military), Ace Pilot or Roughrider, Sturdy, Warrior Born |
-| Freelancers | Bounty Hunter | Thief-taker — Silver 1 | Bribery, Charm, Gossip, Haggle, Intuition, Melee (1H), Outdoor Survival, Perception, Pilot (Speeder) | Break and Enter, Shadow, Strike to Stun, Suave, Pilot |
-| Freelancers | Scout | Guide — Brass 3 | Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (1H), Outdoor Survival, Perception | Orientation, Rover, Sharp, Strider (Any) |
-| Freelancers | Smuggler | River Runner — Brass 2 | Athletics, Bribery, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim | Criminal, Scavenger, Strider (Wastelands), Strong Back |
-| Scoundrels | Bawd | Hustler — Brass 1 | Bribery, Charm, Consume Intoxicant, Entertain (Any), Gamble, Gossip, Haggle, Intimidate | Attractive, Alley Cat, Blather, Gregarious |
-| Scoundrels | Charlatan | Swindler — Brass 3 | Bribery, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand | Cardsharp, Diceman, Etiquette (Any), Luck |
-| Scoundrels | Fence | Broker — Silver 1 | Charm, Consume Intoxicant, Dodge, Evaluate, Gamble, Gossip, Haggle, Melee (1H) | Alley Cat, Cardsharp, Dealmaker, Gregarious |
-| Scoundrels | Outlaw | Brigand — Brass 1 | Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (1H), Outdoor Survival | Combat Aware, Criminal, Rover, Flee! |
-| Scoundrels | Thief | Prowler — Brass 1 | Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban) | Alley Cat, Criminal, Flee!, Strike to Stun |
-| Warriors | Guard | Sentry — Silver 1 | Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (1H), Perception | Diceman, Etiquette (Servants), Strike to Stun, Tenacious |
-| Warriors | Pit Fighter | Pugilist — Brass 4 | Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling) | Dirty Fighting, In-fighter, Iron Jaw, Reversal |
-| Warriors | Soldier | Recruit — Silver 1 | Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (1H), Play (Drums or Horn) | Diceman, Marksman, Strong Back, Warrior Born |
+| Academics | Advocate | Law Student — Brass 4 | Consume Intoxicant, Endurance, Haggle, Language (Old Galactic Standard), Lore (Law), Lore (Galactic Republic or Galactic Empire), Perception, Research, Entertain (Rhetoric), Ranged (Blaster) | Blather, Etiquette (Scholars), Supportive, Speedreader |
+| Academics | Engineer | Student Engineer — Brass 4 | Consume Intoxicant, Cool, Endurance, Language (Old Galactic Standard), Lore (Engineering), Perception, Ranged (Blaster/Ordnance), Profession (Engineer), Evaluate, Profession (Fabricator) | Artistic, Heavy Gunner, Well-Prepared, Tinker |
+| Academics | Pharmacist | Pharmacist's Apprentice — Brass 3 | Consume Intoxicant, Medicine, Language (Old Galactic Standard), Lore (Chemistry), Lore (Medicine), Lore (Botany), Profession (Pharmacist), Profession (Poisoner), Ranged (Blaster), Sleight of Hand | Concoct, Craftsman (Pharmacist), Etiquette (Scholars), Speedreader |
+| Academics | Physician (Medic) | Physician’s Apprentice — Brass 4 | Bribery, Cool, Pilot (Speeder), Endurance, Gossip, Medicine, Perception, Sleight of Hand, Intuition, Ranged (Blaster) | Bookish, Field Dressing, Supportive, Strike to Stun |
+| Academics | Scholar | Student — Brass 3 | Consume Intoxicant, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Old Galactic Standard), Lore (Any), Research, Ranged (Blaster), Lore (Galactic History) | Carouser, Argumentative, Savvy, Super Numerate |
+| Academics | Slicer | Apprentice Slicer — Brass 3 | Codes (Underworld), Cool, Gossip, Perception, Profession (Slicer), Research, Sleight of Hand, Stealth (Urban), Lore (Science), Intuition | Bookish, Super Numerate, Nimble Fingered, Speedreader |
+| Citizens | Agitator | Pamphleteer — Brass 1 | Art (Writing), Bribery, Charm, Consume Intoxicant, Gossip, Haggle, Lore (Politics), Profession (Slicer), Entertain (Speeches), Stealth (Urban) | Blather, Gregarious, Panhandle, Distract |
+| Citizens | Artisan | Apprentice Artisan — Brass 2 | Athletics, Cool, Consume Intoxicant, Dodge, Endurance, Evaluate, Stealth (Urban), Profession (Any), Art (Any), Ranged (Blaster) | Artistic, Craftsman (Any), Strong Back, Very Strong |
+| Citizens | Beggar | Pauper — Brass 0 | Athletics, Charm, Consume Intoxicant, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Gamble, Climb | Panhandle, Resistance (Disease), Stone Soup, Very Resilient |
+| Citizens | Camp Follower | Camp Hanger-on — Brass 1 | Charm, Consume Intoxicant, Dodge, Entertain (Any), Gossip, Haggle, Melee (Brawling), Outdoor Survival, Perception, Perform (Dancing) | Attractive, Beneath Notice, Blather, Dirty Fighting |
+| Citizens | Chemist | Harvester — Brass 2 | Charm Creature, Climb, Endurance, Lore (Botany), Outdoor Survival, Perception, Swim, Profession (Chemist), Evaluate, Ranged (Blaster) | Acute Sense (Taste), Orientation, Rover, Strider (Any) |
+| Citizens | Citizen | Clerk — Silver 1 | Charm, Climb, Consume Intoxicant, Pilot (Speeder), Dodge, Gamble, Gossip, Haggle, Athletics, Endurance | Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy |
+| Citizens | Colonist | Settler — Brass 2 | Athletics, Consume Intoxicant, Creature Care, Endurance, Gossip, Lore (Local), Melee (Brawling), Outdoor Survival, Ranged (Archaic/Blaster), Navigation | Rover, Stone Soup, Strong Back, Strong-Minded |
+| Citizens | Fieldwarden | Novice Warden — Brass 4 | Athletics, Climb, Intuition, Navigation, Perception, Ranged (Archaic/Blaster), Stealth (Rural), Profession (Any), Lore (Local), Swim | Careful Strike, Distract, Fast Shot, Stout-Hearted |
+| Citizens | Holonet Journalist | Stringer — Brass 3 | Art (Holography), Charm, Gossip, Intuition, Lore (Local), Perception, Profession (Journalist), Research, Ranged (Blaster), Lore (Galactic History) | Blather, Gregarious, Nose for Trouble, Speedreader |
+| Citizens | Investigator | Sleuth — Silver 1 | Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track, Research, Ranged (Blaster) | Alley Cat, Beneath Notice, Nose for Trouble, Sharp |
+| Citizens | Mechanic | Apprentice Mechanic — Brass 3 | Athletics, Cool, Endurance, Evaluate, Language (Binary), Lore (Engineering), Perception, Profession (Mechanic), Intuition, Ranged (Blaster) | Craftsman (Mechanic), Super Numerate, Scavenger, Tinker |
+| Citizens | Merchant | Trader — Silver 2 | Creature Care, Bribery, Charm, Consume Intoxicant, Pilot (Speeder), Gamble, Gossip, Haggle, Pilot (Starship), Lore (Hyperlanes) | Blather, Dealmaker, Gregarious, Suave |
+| Citizens | Miner | Prospector — Brass 2 | Cool, Endurance, Intuition, Lore (Local), Melee (1H/2H), Outdoor Survival, Perception, Swim, Athletics, Ranged (Blaster) | Rover, Strider (Rocky), Sturdy, Tenacious |
+| Citizens | Security Officer | Security Recruit — Brass 3 | Athletics, Climb, Consume Intoxicant, Dodge, Endurance, Gamble, Melee (1H/Brawling), Perception, Ranged (Blaster), Stealth (Urban) | Drilled, Hardy, Strike to Stun, Tenacious |
+| Citizens | Vermin Hunter | Rat Hunter — Brass 3 | Athletics, Creature Training (Massiff), Charm Creature, Consume Intoxicant, Endurance, Melee (1H), Ranged (Archaic/Blaster), Stealth (Underground or Urban), Outdoor Survival, Lore (Beasts) | Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun |
+| Dignitaries | Advisor | Aide — Silver 2 | Bribery, Consume Intoxicant, Endurance, Gossip, Haggle, Language (Old Galactic Standard), Lore (Politics), Perception, Research, Lore (Law) | Beneath Notice, Etiquette (Any), Gregarious, Savvy |
+| Dignitaries | Artist | Apprentice Artist — Silver 1 | Art (Any), Cool, Consume Intoxicant, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Climb, Entertain (Storytelling) | Artistic, Sharp, Strong Back, Tenacious |
+| Dignitaries | Attendant | Menial — Silver 1 | Athletics, Climb, Pilot (Speeder), Dodge, Endurance, Intuition, Perception, Stealth (Any), Sleight of Hand, Melee (Brawling) | Beneath Notice, Strong Back, Strong-Minded, Sturdy |
+| Dignitaries | Envoy | Herald — Silver 2 | Athletics, Charm, Pilot (Speeder), Dodge, Endurance, Intuition, Ranged (Blaster), Pilot (Starship), Perception, Evaluate | Blather, Etiquette (Nobles), Linguistics, Suave |
+| Dignitaries | Gunslinger | Gun Hand — Silver 3 | Athletics, Cool, Dodge, Endurance, Intuition, Medicine, Perception, Ranged (Blaster), Ride (Land), Stealth (Urban) | Quick Draw, Distract, Fast Shot, Step Aside |
+| Dignitaries | Noble | Scion — Gold 1 | Bribery, Consume Intoxicant, Gamble, Intimidate, Leadership, Lore (Galactic Sigils), Melee (1H), Play (Any), Evaluate, Pilot (Speeder) | Etiquette (Nobles), Luck, Noble Blood, Gregarious |
+| Dignitaries | Politician | Political Aide — Silver 3 | Bribery, Charm, Cool, Gossip, Intuition, Lore (Politics), Perception, Research, Consume Intoxicant, Ranged (Blaster) | Argumentative, Blather, Gregarious, Suave |
+| Dignitaries | Revenue Agent | Tax Collector — Silver 1 | Cool, Dodge, Endurance, Gossip, Haggle, Intimidate, Melee (1H), Perception, Ranged (Blaster), Research | Embezzle, Numismatics, Strong Back, Tenacious |
+| Dignitaries | Spy | Informer — Brass 3 | Bribery, Charm, Cool, Gamble, Gossip, Haggle, Perception, Stealth (Any), Slice Security System, Ranged (Blaster) | Blather, Carouser, Gregarious, Shadow |
+| Dignitaries | Warden | Custodian — Silver 1 | Athletics, Creature Training (Any), Consume Intoxicant, Cool, Endurance, Intuition, Lore (Local), Perception, Track, Navigation | Menacing, Night Vision, Sharp, Strike to Stun |
+| Force Wielders | Dark Side Cultist | Cult Initiate — Brass 1 | Cool, Endurance, Gossip, Intimidate, Language (The Force), Sleight of Hand, Stealth (Rural), Use the Force, Meditate, Outdoor Survival | Fluent Incantation, Menacing, Minor Sorcery, Wild Talent |
+| Force Wielders | Force Mystic | Initiate — Brass 2 | Athletics, Cool, Endurance, Intuition, Lore (The Force), Perception, Meditate, Research, Dodge, Language (The Force) | Force Sensitive (Tradition), Force Sense (Discipline), Force Visions, Coolheaded |
+| Force Wielders | Force Savant | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Lore (Force Traditions), Charm, Medicine, Lore (Galactic Cultures), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction), Use the Force, Meditate | Etiquette (Senate or Diplomatic Corps), Acute Sense (Force Sensitivity — heightened perception of emotional states and intentions), Savant (Lore), Linguistics |
+| Force Wielders | Force Shadow | Padawan/ Acolyte / Sith Acolyte — Silver 3 | Athletics, Sleight of Hand (Conceal — hiding weapons, identities, intentions), Stealth (Urban), Medicine, Lore (Criminal Organisations), Melee (Lightsaber), Pilot (Speeder), Profession (Armourer — lightsaber construction), Use the Force, Perception | Etiquette (Underworld — how to behave in places that will kill you for standing out), Flee!, Sturdy, Warrior Born |
+| Force Wielders | Force Warrior | Padawan / Force Acolyte / Sith Acolyte — Silver 3 | Athletics, Medicine, Lore (Galactic Sigils), Melee (2H/Lightsaber), Use the Force, Meditate, Perception, Pilot (Speeder), Lore (The Force), Ranged (Blaster/Ordnance) | Etiquette (Senate or Military), Ace Pilot or Roughrider, Sturdy, Warrior Born |
+| Force Wielders | Hedge Adept | Hedge Apprentice — Brass 1 | Use the Force, Endurance, Intuition, Language (The Force), Lore (Folklore), Lore (Botany), Outdoor Survival, Perception, Charm Creature, Stealth (Rural) | Fast Hands, Wild Talent, Rover, Strider (Forest) |
+| Force Wielders | Monastic | Novitiate — Brass 1 | Art (Writing), Cool, Endurance, Entertain (Storytelling), Gossip, Medicine, Lore (The Force), Meditate, Use the Force, Intuition | Force Sensitive (Tradition), Force Control (Discipline), Stone Soup, Bookish |
+| Force Wielders | Seer | Fortune Teller — Brass 1 | Charm, Entertain (Fortune Telling), Dodge, Gossip, Haggle, Intuition, Perception, Sleight of Hand, Meditate, Research | Attractive, Luck, Force Sight, Suave |
+| Force Wielders | Sorcerer | Sorcerer's Apprentice — Brass 3 | Use the Force, Dodge, Intuition, Language (The Force), Lore (The Force), Melee (1H/Lightsaber), Cool, Perception, Meditate, Endurance | Force Sensitive (Tradition), Force Attunement, Minor Sorcery, Force Sight |
+| Force Wielders | Templar | Novitiate — Brass 2 | Cool, Dodge, Endurance, Leadership, Lore (The Force), Meditate, Medicine, Melee (Lightsaber), Use the Force, Athletics | Code (Tradition), Force Control (Discipline), Force Sensitive (Tradition), Strong-Minded |
+| Freelancers | Beast Handler | Drover — Silver 1 | Athletics, Creature Care, Dodge, Endurance, Melee (1H), Perception, Ranged (Archaic/Blaster/Exotic), Stealth (Rural), Consume Intoxicant, Demolitions | Flee!, Marksman, Rover, Strider (Mountains) |
+| Freelancers | Beast Rider | Outrider — Brass 3 | Creature Care, Dodge, Endurance, Language (Military Cant), Medicine, Melee (1H), Outdoor Survival, Ride (Land), Haggle, Ranged (Blaster/Thrown) | Etiquette (Soldiers), Field Dressing, Flee!, Strong Back |
+| Freelancers | Bounty Hunter | Thief-taker — Silver 1 | Bribery, Charm, Gossip, Ranged (Blaster), Intuition, Melee (1H/Brawling), Outdoor Survival, Perception, Pilot (Speeder), Cool | Break and Enter, Shadow, Strike to Stun, Suave |
+| Freelancers | Clan Ranger | Hold Runner — Brass 3 | Climb, Dodge, Endurance, Profession (Stellar Cartographer), Melee (1H), Outdoor Survival, Perception, Pilot (Speeder), Lore (Beasts), Stealth (Rural) | Implacable, Orientation, Strider (Any), Strong Back |
+| Freelancers | Courier | Runner — Brass 3 | Athletics, Climb, Dodge, Endurance, Gossip, Melee (Brawling), Navigation, Perception, Intuition, Ranged (Blaster) | Flee!, Fleet Footed, Sprinter, Step Aside |
+| Freelancers | Driver | Swoop Jockey — Silver 1 | Charm Creature, Climb, Creature Care, Endurance, Perception, Pilot (Speeder), Ranged (Blaster), Ride (Land), Dodge, Haggle | Creature Affinity, Seasoned Traveller, Tenacious, Trick Riding |
+| Freelancers | Entertainer | Busker — Brass 3 | Athletics, Charm, Entertain (Any), Gossip, Haggle, Perform (Any), Play (Any), Sleight of Hand, Cool, Dodge | Attractive, Mimic, Public Speaker, Suave |
+| Freelancers | Freelance | Mercenary Squire — Silver 1 | Athletics, Consume Intoxicant, Gossip, Medicine, Melee (1H/2H), Outdoor Survival, Pilot (Speeder), Ride (Land), Creature Care, Ranged (Blaster) | Roughrider, Sturdy, Warrior Born, Combat Aware |
+| Freelancers | Hired Gun | Fresh Meat — Brass 3 | Athletics, Consume Intoxicant, Cool, Dodge, Endurance, Intimidate, Language (Military Cant), Melee (1H/2H/Brawling), Ranged (Blaster), Outdoor Survival | Dirty Fighting, Menacing, Sturdy, Strong Back |
+| Freelancers | Hunter | Trapper — Brass 2 | Charm Creature, Climb, Endurance, Lore (Beasts), Outdoor Survival, Perception, Ranged (Archaic/Blaster), Profession (Trapper), Athletics, Dodge | Hardy, Rover, Strider (Any), Trapper |
+| Freelancers | Inquisitor | Interrogator — Silver 1 | Charm, Consume Intoxicant, Intimidate, Intuition, Lore (Interrogation), Medicine, Melee (Brawling/Lightsaber), Perception, Research, Lore (The Force) | Coolheaded, Nose for Trouble, Menacing, Resolute |
+| Freelancers | Marshal | Customs Deputy — Brass 5 | Bribery, Consume Intoxicant, Gamble, Gossip, Haggle, Melee (1H/Brawling), Perception, Ranged (Blaster), Cool, Dodge | Coolheaded, Embezzle, Marksman, Numismatics |
+| Freelancers | Pilot | Cadet Pilot — Brass 3 | Cool, Dodge, Gossip, Navigation, Perception, Pilot (Speeder), Pilot (Starship), Ranged (Blaster/Ordnance), Athletics, Evaluate | Orientation, Pilot, Spacer, Vacuum Legs |
+| Freelancers | Scout | Guide — Brass 3 | Creature Training (Any), Climb, Endurance, Gossip, Lore (Local), Melee (1H), Outdoor Survival, Perception, Intuition, Charm Creature | Orientation, Rover, Sharp, Strider (Any) |
+| Freelancers | Shadow Scout | Pathfinder Recruit — Brass 3 | Climb, Lore (Beasts), Navigation, Outdoor Survival, Perception, Ranged (Archaic/Blaster), Stealth (Any), Profession (Weaponsmith), Lore (Local), Swim | Accurate Shot, Fleet Footed, Shadow, Strider (Jungle) |
+| Freelancers | Smuggler | River Runner — Brass 2 | Athletics, Bribery, Cool, Consume Intoxicant, Pilot (Starship), Pilot (Capital Ship), Stealth (Rural or Urban), Swim, Navigation, Ranged (Blaster/Ordnance) | Criminal, Scavenger, Strider (Wastelands), Strong Back |
+| Freelancers | Trader | Scrap Hawker — Brass 1 | Charm, Endurance, Entertain (Storytelling), Gossip, Haggle, Intuition, Outdoor Survival, Stealth (Rural or Urban), Dodge, Ranged (Archaic/Blaster) | Flee!, Scavenger, Rover, Tinker |
+| Freelancers | Zealot | Zealot — Brass 0 | Dodge, Endurance, Intimidate, Intuition, Lore (Tradition), Medicine, Melee (1H/2H), Outdoor Survival, Meditate, Consume Intoxicant | Berserk Charge, Resolute, Frenzy, Stone Soup |
+| Scoundrels | Bawd | Hustler — Brass 1 | Bribery, Charm, Consume Intoxicant, Entertain (Any), Gamble, Gossip, Haggle, Intimidate, Sleight of Hand, Stealth (Urban) | Attractive, Alley Cat, Blather, Gregarious |
+| Scoundrels | Charlatan | Swindler — Brass 3 | Bribery, Consume Intoxicant, Charm, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand, Lore (Local), Ranged (Blaster) | Cardsharp, Diceman, Etiquette (Any), Luck |
+| Scoundrels | Fence | Broker — Silver 1 | Charm, Consume Intoxicant, Dodge, Evaluate, Ranged (Blaster), Gossip, Haggle, Melee (1H/Brawling), Sleight of Hand, Stealth (Urban) | Alley Cat, Cardsharp, Dealmaker, Gregarious |
+| Scoundrels | Gambler | Hustler — Brass 2 | Charm, Cool, Evaluate, Gamble, Gossip, Intuition, Perception, Sleight of Hand, Ranged (Blaster), Intimidate | Cardsharp, Diceman, Luck, Nimble Fingered |
+| Scoundrels | Outlaw | Brigand — Brass 1 | Athletics, Consume Intoxicant, Cool, Endurance, Gamble, Intimidate, Melee (1H/2H/Brawling), Outdoor Survival, Climb, Ranged (Blaster) | Combat Aware, Criminal, Rover, Flee! |
+| Scoundrels | Racketeer | Thug — Brass 3 | Consume Intoxicant, Cool, Dodge, Endurance, Intimidate, Lore (Local), Melee (1H/Brawling), Stealth (Urban), Ranged (Blaster), Athletics | Criminal, Etiquette (Criminals), Menacing, Strike Mighty Blow |
+| Scoundrels | Thief | Prowler — Brass 1 | Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Ranged (Blaster), Codes (Underworld) | Alley Cat, Criminal, Flee!, Strike to Stun |
+| Scoundrels | Tomb Raider | Relic Scrounger — Brass 2 | Climb, Cool, Dodge, Endurance, Gossip, Intuition, Perception, Stealth (Any), Athletics, Ranged (Archaic/Blaster) | Alley Cat, Criminal, Flee!, Strong Back |
+| Spacers | Beachcomber | Wreck Picker — Brass 1 | Climb, Haggle, Lore (Hyperlanes), Melee (1H), Outdoor Survival, Perception, Pilot (Speeder), Stealth (Rural), Dodge, Ranged (Blaster) | Scavenger, Orientation, Strider (Scrapfields), Strong Back |
+| Spacers | Customs Officer | Customs Recruit — Silver 1 | Athletics, Dodge, Endurance, Evaluate, Melee (1H), Perception, Pilot (Starship), Pilot (Capital Ship), Haggle, Ranged (Blaster) | Nose for Trouble, Strong Back, Very Strong, Spacer |
+| Spacers | Deckhand | Greenhand — Brass 2 | Athletics, Consume Intoxicant, Dodge, Endurance, Gossip, Outdoor Survival, Pilot (Starship), Profession (Starship Mechanic), Climb, Melee (Brawling) | Scavenger, Gregarious, Strider (Starship Decks), Vacuum Legs |
+| Spacers | Dock Pilot | Traffic Spotter — Brass 4 | Consume Intoxicant, Gossip, Intuition, Lore (Orbital Lanes), Lore (Local), Perception, Pilot (Speeder), Pilot (Starship), Endurance, Ranged (Blaster/Ordnance) | Night Vision, Orientation, Scavenger, Spacer |
+| Spacers | Dock Worker | Dockhand — Brass 3 | Athletics, Climb, Consume Intoxicant, Dodge, Endurance, Gossip, Melee (1H), Profession (Droid Handler), Haggle, Lore (Local) | Dirty Fighting, Strong Back, Sturdy, Very Strong |
+| Spacers | Marine | Marine Recruit — Brass 3 | Athletics, Climb, Cool, Dodge, Endurance, Intimidate, Melee (1H/2H), Ranged (Blaster), Gamble, Gossip | Drilled, Enclosed Fighter, Strong Back, Vacuum Legs |
+| Spacers | Navigator | Surveyor — Silver 1 | Art (Holography), Evaluate, Lore (Galactic Geography), Ranged (Blaster/Ordnance), Navigation, Outdoor Survival, Perception, Pilot (Starship), Climb, Lore (Hyperlanes) | Artistic, Super Numerate, Orientation, Rover |
+| Spacers | Pirate | Deckhand — Brass 2 | Athletics, Climb, Consume Intoxicant, Dodge, Intimidate, Melee (1H/2H/Brawling), Pilot (Starship), Ranged (Blaster/Ordnance), Gamble, Gossip | Criminal, Dirty Fighting, Spacer, Vacuum Legs |
+| Spacers | Salvager | Hull Scavenger — Brass 2 | Climb, Consume Intoxicant, Dodge, Endurance, Melee (1H), Outdoor Survival, Pilot (Starship), Ranged (Blaster/Ordnance), Evaluate, Athletics | Break and Enter, Criminal, Scavenger, Strong Back |
+| Spacers | Spacer | Deckhand — Silver 1 | Consume Intoxicant, Cool, Dodge, Endurance, Gossip, Melee (1H), Pilot (Capital Ship), Pilot (Starship), Gamble, Ranged (Blaster/Ordnance) | Dirty Fighting, Scavenger, Strong Back, Vacuum Legs |
+| Spacers | Starship Crew | Spacehand — Silver 1 | Climb, Consume Intoxicant, Gamble, Gossip, Melee (Brawling), Pilot (Starship), Pilot (Capital Ship), Ranged (Blaster/Ordnance), Haggle, Lore (Hyperlanes) | Scavenger, Strider (Spaceport), Strong Back, Sturdy |
+| Warriors | Armoured Knight | Initiate — Silver 3 | Athletics, Language (Old Galactic Standard), Lore (Galactic Sigils), Lore (Any), Medicine, Melee (1H/2H), Ranged (Blaster), Pilot (Speeder), Creature Care, Charm Creature | Drilled, Etiquette (Any), Roughrider, Warrior Born |
+| Warriors | Berserker | Berserker — Brass 2 | Consume Intoxicant, Cool, Dodge, Endurance, Gamble, Lore (Beasts), Medicine, Melee (1H/2H/Brawling), Athletics, Climb | Dual Wielder, Fearless (Everything), Frenzy, Slayer |
+| Warriors | Elite Guard | Guard Cadet — Silver 1 | Athletics, Cool, Dodge, Endurance, Gossip, Language (Military Cant), Ranged (Blaster), Melee (1H/2H), Consume Intoxicant, Play (Any) | Coolheaded, Drilled, Strong Back, Warrior Born |
+| Warriors | Enforcer | Bruiser — Brass 2 | Athletics, Dodge, Endurance, Entertain (Taunt), Gossip, Haggle, Intimidate, Melee (1H/Brawling), Consume Intoxicant, Stealth (Urban) | Dirty Fighting, In-fighter, Menacing, Warrior Born |
+| Warriors | Guard | Sentry — Silver 1 | Consume Intoxicant, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (1H/2H), Perception, Lore (Local), Ranged (Blaster) | Diceman, Etiquette (Servants), Strike to Stun, Tenacious |
+| Warriors | Gunner | Gun Crew — Brass 3 | Athletics, Dodge, Endurance, Language (Military Cant), Melee (Brawling), Perception, Ranged (Ordnance), Pilot (Capital Ship), Ranged (Blaster), Intimidate | Rapid Reload, Spacer, Strong Back, Vacuum Legs |
+| Warriors | Line Trooper | Line Recruit — Silver 1 | Athletics, Consume Intoxicant, Cool, Dodge, Endurance, Language (Military Cant), Melee (1H/Brawling), Melee (2H), Ranged (Blaster), Ranged (Thrown) | Diceman, Drilled, Strong Back, Warrior Born |
+| Warriors | Martial Artist | Initiate — Brass 3 | Athletics, Cool, Dodge, Endurance, Meditate, Melee (Brawling), Perception, Perform (Acrobatics), Medicine, Sleight of Hand | Jump Up, Martial Artist, Step Aside, Strong Legs |
+| Warriors | Officer | Midshipman — Silver 1 | Athletics, Gossip, Leadership, Melee (1H), Outdoor Survival, Perception, Pilot (Capital Ship), Pilot (Starship), Ranged (Blaster), Lore (Warfare) | Drilled, Etiquette (Spacers), Orientation, Vacuum Legs |
+| Warriors | Pit Fighter | Pugilist — Brass 4 | Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (1H/2H), Melee (Brawling), Climb, Entertain (Taunt) | Dirty Fighting, In-fighter, Iron Jaw, Reversal |
+| Warriors | Sharpshooter | Rifleman — Silver 1 | Athletics, Climb, Dodge, Endurance, Language (Military Cant), Perception, Ranged (Archaic/Exotic), Stealth (Rural), Ranged (Blaster), Consume Intoxicant | Accurate Shot, Fast Shot, Strong Back, Warrior Born |
+| Warriors | Soldier | Recruit — Silver 1 | Athletics, Climb, Cool, Dodge, Endurance, Language (Military Cant), Melee (1H/2H), Play (Drums or Horn), Ranged (Blaster), Intimidate | Diceman, Marksman, Strong Back, Warrior Born |
+| Warriors | Speeder Trooper | Scout Trooper Recruit — Silver 2 | Endurance, Language (Military Cant), Melee (1H), Outdoor Survival, Perception, Pilot (Speeder), Profession (Speeder Mechanic), Ride (Land), Dodge, Ranged (Blaster) | Combat Aware, Crack the Whip, Lightning Reflexes, Roughrider |

@@ -49,14 +49,14 @@
   "Codes": "Rebel, Imperial, Hutt Cartel, Bounty Hunter, Smuggler, Mandalorian, Jedi/Sith, Black Sun, Force Tradition, Hunter, Miner, Order, Ranger, Scout, Shadow Cipher, Spacer, Trade Guild, Underworld",
   "Creature Training": "Bantha, Tauntaun, Dewback, Varactyl, Massiff, Nexu, Akk Dog, Mynock",
   "Entertain": "Acting, Comedy, Singing, Storytelling, Holodrama, Sabacc Patter, Bellow, Fortune Telling, Lecture, Prophecy, Rhetoric, Speeches, Taunt",
-  "Language": "Basic (Galactic Standard), Huttese, Mando’a, Shyriiwook, Bocce, Ryl, Rodese, Sullustese, Ewokese, Jawaese, Binary (droidspeak), Sith, Ancient Sith, Old Tongue. Replace Battle Tongue with Military Cant or Hand Sign, Binary, Diplomacy, Military Cant, Old Galactic Standard, The Force, Trade Cant",
+  "Language": "Basic (Galactic Standard), Huttese, Mando’a, Shyriiwook, Bocce, Ryl, Rodese, Sullustese, Ewokese, Jawaese, Binary (droidspeak), Sith, Ancient Sith, Old Galactic Standard, Military Cant, Hand Sign, Trade Cant, Underworld Cant, Diplomacy, The Force",
   "Lore": "Galactic History, Xenology, Underworld, Politics, Bureaucracy, Astrogation, Technology, Cybernetics, Galactic Sigils, History, Law, Science, The Force, Anatomy, Art, Beasts, Botany, Chemistry, Clan Holds, Criminal Organisations, Dark Side, Engineering, Etiquette, Folklore, Force Spirits, Force Traditions, Galactic Cultures, Galactic Empire, Galactic Geography, Geology, Gunnery, Hyperlanes, Imperial Revenue, Interrogation, Krayt Dragons, Local, Martial Arts, Medicine, Noble Houses, Pharmacology, Prophecy, Rancors, Salvage, Sith & Dark Side Cults, Sith Lore, Tradition, Warfare",
-  "Melee": "1H (one-handed weapons: vibroblades, vibroknives, stun batons, axes, clubs, swords and improvised weapons held in one hand), 2H (weapons that need both hands: vibro-axes, force pikes, electrostaffs, quarterstaffs and other great weapons), Brawling (unarmed strikes, knuckle-dusters, shock gloves, grapples and wrestling; also used to defend when you have no weapon), \\*Lightsaber (all lightsabers, including double-bladed sabers and lightsaber pikes; −20 unless you have Force Sensitive). A weapon used with the wrong Specialisation is Tested on bare Weapon Skill (see Chapter 10).",
+  "Melee": "1H (one-handed weapons: vibroblades, vibroknives, stun batons, axes, clubs, swords and improvised weapons held in one hand), 2H (weapons that need both hands: vibro-axes, force pikes, electrostaffs, quarterstaffs and other great weapons), Brawling (unarmed strikes, knuckle-dusters, shock gloves, grapples and wrestling; also used to defend when you have no weapon), \\*Lightsaber (all lightsabers, including double-bladed sabers and lightsaber pikes; −20 unless you have Force Sensitive). A weapon used with the wrong Specialisation is Tested on bare Weapon Skill (see Chapter 10). Careers and Origins write a choice of Specialisations with slashes, e.g. Melee (1H/2H): you pick one and record it as a single skill, e.g. Melee (1H). Only careers with a Force tradition offer Lightsaber.",
   "Perform": "Acrobatics, Dancing, Acting, Miming, Holo-Performance, Zero-G Acrobatics, Fight",
   "Pilot": "Mega Freighter, Capital Ship, Space Station",
   "Play": "Bandfill, Kloo Horn, Fanfar, Omni Box, Chidinkalu, Quetarra, Valachord, Drums",
   "Profession": "Mechanic, Droid Technician, Slicer, Cybernetics, Medic, Starship Engineer, Weapons Technician, Armourer, Art Supplies, Artist, Astrogator, Brewer, Charms, Chemist, Demolitionist, Engineer, Engraver, Fabricator, Journalist, Pharmacist, Poisoner, Speeder Mechanic, Starship Mechanic, Stellar Cartographer, Tinker, Vintner, Weaponsmith",
-  "Ranged": "Blaster (every blaster from hold-out pistols to heavy repeating blasters and the E-Web, together with ion, disruptor and sonic weapons: the standard ranged skill of the galaxy), Archaic (bows, crossbows, slings, slugthrowers, bowcasters and any other projectile weapon that must be aimed rather than pointed), Thrown (grenades, thermal detonators, throwing knives, darts, spears and anything else hurled by hand), Exotic (nets and net launchers, whips used at range, flame projectors, glue and adhesive projectors, dart and flechette launchers, wrist-mounted weapons, Mandalorian mini-rockets and other unusual ranged weapons), Ordnance (missile and rocket launchers, grenade launchers, mortars and crew-served artillery fired by hand; mounted vehicle and starship weapons are covered in the Starships chapter). A weapon used with the wrong Specialisation is Tested on bare Ballistic Skill with the weapon's penalties (see Chapter 10).",
+  "Ranged": "Archaic (bows, crossbows, slings, slugthrowers, bowcasters and any other projectile weapon that must be aimed rather than pointed), Blaster (every hand-held blaster from hold-out pistols to blaster rifles and repeating blasters, together with ion, disruptor and sonic weapons: the skill for any futuristic personal weapon and the standard ranged skill of the galaxy), Exotic (nets and net launchers, whips used at range, flame projectors, glue and adhesive projectors, dart and flechette launchers, wrist-mounted weapons, Mandalorian mini-rockets and other unusual ranged weapons), Ordnance (large, heavy and turreted weapons: missile and rocket launchers, grenade launchers, mortars, the E-Web and other crew-served or tripod weapons, and the turreted and mounted guns of vehicles and starships; for simplicity every starship weapon uses Ranged (Ordnance)), Thrown (grenades, thermal detonators, throwing knives, darts, spears and anything else hurled by hand). Careers and Origins write a choice with slashes, e.g. Ranged (Blaster/Ordnance). A weapon used with the wrong Specialisation is Tested on bare Ballistic Skill with the weapon's penalties (see Chapter 10).",
   "Ride": "Air, Land, Water",
   "Stealth": "Rural, Underground, Urban"
  },
@@ -609,7 +609,6 @@
    "Salvage": 1,
    "Hyperlanes": 1,
    "Geology": 1,
-   "Pharmacology": 1,
    "Art": 1,
    "Imperial Revenue": 1,
    "Dark Side": 1,
@@ -624,19 +623,20 @@
    "Any — a Shadow accumulates knowledge like scar tissue": 1,
    "Folklore": 1,
    "Force Spirits": 1,
-   "Astrogation": 1,
    "Prophecy": 1,
    "Law or Galactic Sigils": 1,
    "Clan Holds": 1,
+   "Galactic Geography": 1,
    "Interrogation": 1,
    "Galactic Empire": 1,
-   "Galactic Geography": 1,
    "Tradition": 1,
+   "Orbital Lanes": 1,
    "Rancors": 1,
    "Krayt Dragons": 1,
    "Etiquette": 1,
    "Gunnery": 1,
    "Martial Arts": 1,
+   "Pharmacology": 1,
    "chosen Lore": 1
   },
   "Entertain": {
@@ -652,10 +652,29 @@
    "Singing": 1,
    "Taunt": 1
   },
+  "Ranged": {
+   "Blaster": 1,
+   "Blaster/Ordnance": 1,
+   "Archaic/Blaster": 1,
+   "Archaic/Exotic": 1,
+   "Thrown": 1,
+   "Archaic/Blaster/Exotic": 1,
+   "Blaster/Thrown": 1,
+   "Archaic": 1,
+   "Archaic/Thrown": 1,
+   "Exotic": 1,
+   "Ordnance": 1,
+   "Archaic/Blaster/Exotic/Ordnance/Thrown": 1,
+   "Exotic/Thrown": 1,
+   "Blaster/Exotic": 1,
+   "Archaic/Ordnance": 1,
+   "Archaic/Blaster/Thrown": 1,
+   "Archaic/Blaster/Exotic/Thrown": 1,
+   "Ordnance/Thrown": 1
+  },
   "Codes": {
    "Trade Guild": 1,
    "Underworld": 1,
-   "Spacer": 1,
    "Scout": 1,
    "Miner": 1,
    "Any": 1,
@@ -666,15 +685,6 @@
    "Bounty Hunter": 1,
    "Smuggler": 1,
    "Order": 1
-  },
-  "Ranged": {
-   "Blaster": 1,
-   "Archaic": 1,
-   "Thrown": 1,
-   "Exotic": 1,
-   "Any": 1,
-   "Ordnance": 1,
-   "Blaster or Ordnance": 1
   },
   "Profession": {
    "Engineer": 1,
@@ -696,8 +706,10 @@
    "Brewer": 1,
    "Vintner": 1,
    "Stellar Cartographer": 1,
+   "Trapper": 1,
    "Tinker": 1,
    "Engraver": 1,
+   "Droid Handler": 1,
    "Astrogator": 1,
    "Speeder Mechanic": 1,
    "Artist": 1
@@ -709,15 +721,10 @@
    "Starship) or Pilot (Capital Ship": 1,
    "any spaceworthy vessel": 1
   },
-  "Ride": {
-   "Land": 1,
-   "Air, Land or Water": 1
-  },
   "Art": {
    "Writing": 1,
    "Any": 1,
-   "Holography": 1,
-   "Star Charts": 1
+   "Holography": 1
   },
   "Stealth": {
    "Urban": 1,
@@ -731,11 +738,19 @@
   "Melee": {
    "Brawling": 1,
    "1H": 1,
-   "2H": 1,
-   "Lightsaber — defensive form only": 1,
+   "1H/2H": 1,
+   "1H/Brawling": 1,
    "Lightsaber": 1,
-   "Any": 1,
-   "Force Tradition Weapon": 1
+   "1H/2H/Brawling/Lightsaber": 1,
+   "2H/Lightsaber": 1,
+   "1H/Lightsaber": 1,
+   "2H": 1,
+   "1H/2H/Brawling": 1,
+   "Brawling/Lightsaber": 1
+  },
+  "Ride": {
+   "Land": 1,
+   "Air, Land or Water": 1
   },
   "Perform": {
    "Dancing": 1,
@@ -743,15 +758,15 @@
    "Any": 1,
    "Fight": 1
   },
-  "Play": {
-   "Any": 1,
-   "Drums or Horn": 1
-  },
   "Creature Training": {
    "Massiff": 1,
    "Any": 1,
    "Bantha": 1,
    "Tauntaun": 1
+  },
+  "Play": {
+   "Any": 1,
+   "Drums or Horn": 1
   },
   "Charm": {
    "Persuasion — primary weapon": 1,
