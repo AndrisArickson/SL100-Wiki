@@ -18,11 +18,13 @@ change them in the wiki, and the change reaches everyone once the project owner 
 4. **Submit**: open **Review changes** in the menu. Check each draft with *changes*, tick the ones to send, give the batch
    a title and press **Submit for approval**. The banner turns green: **Submitted for approval**, with a link.
 5. **Approval**: the owner reviews the submission on GitHub and merges it, or replies there with questions.
-6. **Pull** before your next session, so you are editing the latest pages:
+6. **Pull** before your next session, so you are editing the latest pages, then restart the wiki:
    ```bash
-   git pull
+   ./wiki.sh pull
    ```
-   Drafts that have been merged clear themselves once you have pulled.
+   Use this rather than `git pull`. Once one of your submissions is merged, your own copy of that page or picture
+   blocks a plain `git pull`, even though GitHub now holds the same file; `./wiki.sh pull` clears those copies first.
+   Drafts that have been merged clear themselves.
 
 You can keep several drafts on the go and submit them together. To throw a draft away, press *Discard* in its
 banner or on Review changes; the page goes back to the version you last pulled.
@@ -82,8 +84,9 @@ the wiki remembers your choice. Remove a note once its question is settled.
 ## If the wiki says a page changed on GitHub
 
 Submitting refuses a page that someone else changed on GitHub after your last pull, so nobody's work is overwritten.
-Run `git pull`, open the page, check your draft still reads right (Git merges the two versions when it can), then
-submit again. If `git pull` reports a conflict in a page, ask the owner for help.
+`./wiki.sh pull` then stops too and lists that page, because your draft and the new version differ. Copy your text
+from the Edit box, discard the draft on Review changes, run `./wiki.sh pull`, and make your edit again on the new
+version. If you get stuck, ask the owner for help.
 
 ## For the owner: tools that read the rules
 
