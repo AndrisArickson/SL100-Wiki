@@ -2,6 +2,8 @@
 
 Binds to 127.0.0.1 only. Edits are written straight to pages/*.wiki and flagged local_edit=1 so the
 crawler will never overwrite them. Previous versions are kept in data/history/.
+Every edit is also a draft (tools/review.py): the page is flagged until the draft is submitted to GitHub as a pull
+request from the Review changes page, or discarded.
 """
 import html
 import json
@@ -14,6 +16,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 import common as C
 import placeholders
+import review
 from common import (CFG, DATA_DIR, FULL_IMG_DIR, META_DIR, PAGES_DIR, PLACEHOLDER_DIR, ROOT, db_connect,
                     norm_title, now_iso, page_relpath, title_ns, write_atomic)
 from wikitext import Renderer, wiki_href
@@ -99,17 +102,67 @@ def save_page(con, title, text, summary=""):
 
 def layout(title, body, q="", tabs="", extra_head=""):
     return """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<title>%s - Star Legends Wiki</title><link rel="stylesheet" href="/static/style.css">%s</head><body>
+<title>%s - Star Legends Wiki</title><link rel="stylesheet" href="/static/style.css">%s
+<script>try{if(localStorage.getItem("sl-review")==="1")document.documentElement.classList.add("show-review")}catch(e){}
+function slToggleReview(){var on=document.documentElement.classList.toggle("show-review");try{localStorage.setItem("sl-review",on?"1":"0")}catch(e){}
+document.querySelectorAll(".sl-review-toggle").forEach(function(b){b.textContent=(on?"Hide":"Show")+" review notes ("+b.dataset.n+")"})}</script></head><body>
 <header><a class="logo" href="/">Star Legends<br><small>Galactic Wars - SL100</small></a>
 <form action="/search" method="get"><input name="q" value="%s" placeholder="Search titles &amp; text" autofocus><button>Go</button></form></header>
 <div class="wrap"><nav>
-<h4>Navigate</h4><a href="/">Main page</a><a href="/special/recent">Local edits</a><a href="/random">Random page</a>
+<h4>Navigate</h4><a href="/">Main page</a><a href="/review">Review changes%s</a><a href="/review/settings">Reviewer settings</a><a href="/special/recent">Local edits</a><a href="/random">Random page</a>
 <a href="/special/allpages">All pages</a><a href="/special/images">Image list</a><a href="/special/status">Harvest status</a>
-<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Characteristics#CREATING_A_CHARACTER">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/image-review">Image review</a><a href="/wiki/SL100:Collation">Collation reports</a><a href="/edit/SL100:New_page">Create game page</a>
+<h4>Game (SL100)</h4><a href="/wiki/SL100:Main_Page">SL100 home</a><a href="/wiki/SL100:Characteristics#CREATING_A_CHARACTER">Character creation</a><a href="/books">Source books (d20)</a><a href="/match-review">Match review</a><a href="/image-review">Image review</a><a href="/edit/SL100:New_page">Create game page</a>
 <h4>Reference</h4><a href="/category/Weapons">Weapons</a><a href="/category/Armor">Armor</a><a href="/category/Starships">Starships</a>
 <a href="/category/Vehicles">Vehicles</a><a href="/category/Droids">Droids</a><a href="/category/Planets">Planets</a>
 </nav><main><div class="tabs">%s</div><h1>%s</h1>%s</main></div></body></html>""" % (
-        esc(re.sub(r"<[^>]+>", "", title)), extra_head, esc(q), tabs, title, body)
+        esc(re.sub(r"<[^>]+>", "", title)), extra_head, esc(q), draft_count(), tabs, title, body)
+
+
+def draft_count():
+    n = len(review.drafts())
+    return " (%d)" % n if n else ""
+
+
+def mark_review_notes(body):
+    """Reviewer notes, written `[review: ...]` in the page, are hidden until the reader asks for them."""
+    body, n = re.subn(r"<code>(\[review\b[^<]*\])</code>", r'<span class="sl-review">\1</span>', body)
+    if n:
+        body = ('<button type="button" class="sl-review-toggle" data-n="%d" onclick="slToggleReview()">Show review notes (%d)</button>'
+                '<script>if(document.documentElement.classList.contains("show-review"))document.currentScript.previousSibling.textContent="Hide review notes (%d)"</script>'
+                % (n, n, n)) + body
+    return body
+
+
+def discard_draft(title):
+    """Throw a draft away: the page goes back to the pulled version, and a page the draft created is removed."""
+    if not review.discard(title):
+        return
+    con = db_connect()
+    try:
+        r = con.execute("SELECT path FROM pages WHERE title=?", (title,)).fetchone()
+        if r and r[0] and not (PAGES_DIR / r[0]).exists():
+            con.execute("UPDATE pages SET path=NULL WHERE title=?", (title,))
+            con.commit()
+    finally:
+        con.close()
+    load_index()
+
+
+def draft_banner(title):
+    rec = review.drafts().get(title)
+    if not rec:
+        return ""
+    t = urllib.parse.quote(title.replace(" ", "_"))
+    who = ", ".join(rec["editors"]) or "you"
+    if rec["state"] == "submitted":
+        return ('<div class="draftnote submitted"><b>Submitted for approval</b> by %s on %s. '
+                '<a href="%s">See the pull request</a>. It goes live for everyone once it is approved and merged.</div>'
+                % (esc(who), esc(rec["last"][:16].replace("T", " ")), esc(rec["pr"])))
+    return ('<div class="draftnote"><b>Edited - not yet submitted</b> (by %s, %s). '
+            '<a href="/review/diff/%s">See changes</a> &middot; <a href="/review">Review and submit</a> &middot; '
+            '<form method="post" action="/review/discard" style="display:inline"><input type="hidden" name="title" value="%s">'
+            '<button class="linkish" onclick="return confirm(\'Throw away the changes to this page?\')">Discard</button></form></div>'
+            % (esc(who), esc(rec["last"][:16].replace("T", " ")), t, esc(title)))
 
 
 def attribution(title, rec):
@@ -159,6 +212,12 @@ class H(BaseHTTPRequestHandler):
         try:
             if path == "/":
                 return self.view(con, HOME_TITLE, home=True)
+            if path in ("/wiki/Special:Review", "/review"):
+                return self.review_page(qs)
+            if path.startswith("/review/diff/"):
+                return self.review_diff(norm_title(path[13:]))
+            if path == "/review/settings":
+                return self.review_settings()
             if path.startswith("/wiki/"):
                 return self.view(con, norm_title(path[6:]), redirected=qs.get("from", [""])[0], noredirect="redirect" in qs)
             if path.startswith("/edit/"):
@@ -204,6 +263,8 @@ class H(BaseHTTPRequestHandler):
             return self.match_review_save(form)
         if path == "/image-review":
             return self.image_review_save(form)
+        if path.startswith("/review"):
+            return self.review_post(path, form)
         if not path.startswith("/edit/"):
             return self.send("bad request", 400, "text/plain")
         title = norm_title(path[6:])
@@ -211,7 +272,13 @@ class H(BaseHTTPRequestHandler):
         con = db_connect()
         try:
             if "save" in form and title:
-                save_page(con, title, text, form.get("summary", [""])[0])
+                summary = form.get("summary", [""])[0].strip()
+                editor = form.get("editor", [""])[0].strip()
+                if editor and editor != review.settings()["name"]:
+                    review.save_settings({"name": editor})
+                save_page(con, title, text, summary)
+                rel = con.execute("SELECT path FROM pages WHERE title=?", (title,)).fetchone()[0]
+                review.record_edit(title, rel, editor, summary)
                 return self.redirect(wiki_href(title))
             return self.edit_form(con, title, text=text, preview=True)
         finally:
@@ -240,8 +307,10 @@ class H(BaseHTTPRequestHandler):
             return self.redirect(wiki_href(rec["redirect_to"]) + "?from=" + urllib.parse.quote(title))
         body, r = self.render(title, text)
         banner = ('<div class="redirnote">Redirected from <a href="%s?redirect=no">%s</a></div>' % (wiki_href(redirected), esc(redirected))) if redirected else ""
-        if rec["local_edit"]:
+        banner += draft_banner(title)
+        if rec["local_edit"] and not title.lower().startswith("sl100:"):
             banner += '<div class="localnote">This page has local edits and is protected from re-download.</div>'
+        body = mark_review_notes(body)
         cats = "".join('<a href="/category/%s">%s</a>' % (urllib.parse.quote(c.replace(" ", "_")), esc(c)) for c in r.cats)
         body = banner + body + ('<div class="catlinks"><b>Categories:</b> %s</div>' % cats if cats else "") + attribution(title, rec)
         shown = re.sub(r"/Legends$", ' <span class="legends">Legends</span>', esc(title))
@@ -261,11 +330,17 @@ class H(BaseHTTPRequestHandler):
         if preview:
             h, r = self.render(title, text)
             pv = '<div class="preview"><h3>Preview</h3>%s</div>' % h
+        name = review.settings()["name"]
         body = ('%s<form method="post" action="/edit/%s"><textarea name="text" spellcheck="false">%s</textarea>'
-                '<p><input name="summary" placeholder="Edit summary" size="60"> <button name="preview" value="1">Show preview</button> '
-                '<button name="save" value="1" class="primary">Save to disk</button></p></form>'
-                '<p class="hint">Saved as MediaWiki wikitext in <code>pages/</code>. Prefix game pages with <code>SL100:</code>.</p>' %
-                (pv, urllib.parse.quote(title.replace(" ", "_")), esc(text)))
+                '<p><input name="editor" placeholder="Your name" size="18" value="%s" required> '
+                '<input name="summary" placeholder="What did you change, and why?" size="50"> '
+                '<button name="preview" value="1">Show preview</button> '
+                '<button name="save" value="1" class="primary">Save draft</button></p></form>'
+                '<p class="hint">Saving keeps your change as a <b>draft</b> on this computer: the page shows it straight away, '
+                'flagged as edited. Send your drafts for approval from <a href="/review">Review changes</a>. '
+                'To leave a note for reviewers, write <code>`[review: your note]`</code> in the text; such notes stay hidden '
+                'until a reader presses "Show review notes". Prefix new game pages with <code>SL100:</code>.</p>' %
+                (pv, urllib.parse.quote(title.replace(" ", "_")), esc(text), esc(name)))
         self.send(layout("Editing " + esc(title), body, tabs=self.tabs(title, rec is not None)))
 
     def search(self, con, q):
@@ -329,6 +404,83 @@ class H(BaseHTTPRequestHandler):
             nxt = "<p><a href='?from=%d'>Next 500 &raquo;</a></p>" % (start + 500) if len(rows) > 500 else ""
             return self.send(layout("All pages", "<ul class='cols'>%s</ul>%s" % (li, nxt)))
         self.send(layout("Not found", ""), 404)
+
+    # ---- reviewer workflow (tools/review.py)
+    def review_page(self, qs, message="", error=""):
+        d = review.drafts()
+        s = review.settings()
+        note = ('<div class="draftnote submitted">%s</div>' % message if message else "") + \
+               ('<div class="draftnote error">%s</div>' % esc(error) if error else "")
+        if not d:
+            return self.send(layout("Review changes", note + "<p>You have no drafts. Edit a page and save it to start one.</p>"))
+        rows = []
+        for title, rec in sorted(d.items(), key=lambda x: x[1]["last"], reverse=True):
+            t = urllib.parse.quote(title.replace(" ", "_"))
+            state = ('submitted - <a href="%s">pull request</a>' % esc(rec["pr"])) if rec["state"] == "submitted" else "not yet submitted"
+            rows.append('<tr><td><input type="checkbox" name="title" value="%s"%s></td><td><a href="%s">%s</a></td>'
+                        '<td>%s</td><td>%s</td><td>%s</td><td><a href="/review/diff/%s">changes</a></td></tr>' %
+                        (esc(title), "" if rec["state"] == "submitted" else " checked", wiki_href(title), esc(title),
+                         esc(", ".join(rec["editors"])), esc("; ".join(rec["summaries"]) or "-"), state, t))
+        warn = "" if s["token"] else ('<p class="hint">Add your GitHub token under <a href="/review/settings">Reviewer settings</a> '
+                                      'before submitting.</p>')
+        default_title = "Wiki edits by %s" % (s["name"] or "a reviewer")
+        body = (note + '<p>Drafts saved on this computer. Tick the ones to send, give them a title, and submit: they go to '
+                'GitHub as one pull request, which the project owner approves and merges. Until then only you see them.</p>'
+                '<form method="post" action="/review/submit"><table class="wikitable"><tr><th></th><th>Page</th><th>Edited by</th>'
+                '<th>Summary</th><th>State</th><th></th></tr>%s</table>'
+                '<p><input name="pr_title" size="60" value="%s" required></p>'
+                '<p><textarea name="description" rows="4" placeholder="Anything the approver should know (optional)"></textarea></p>'
+                '<p><button class="primary" name="submit" value="1">Submit for approval</button> '
+                '<button name="discard" value="1" onclick="return confirm(\'Throw away the ticked drafts?\')">Discard ticked</button></p>'
+                '</form>%s' % ("".join(rows), esc(default_title), warn))
+        self.send(layout("Review changes", body))
+
+    def review_diff(self, title):
+        body = ('<p>Changes to <a href="%s">%s</a> compared with the version you last pulled. '
+                '<span class="d-add">Added lines</span> and <span class="d-del">removed lines</span> are marked.</p>%s'
+                '<p><a href="/review">Back to Review changes</a></p>' % (wiki_href(title), esc(title), review.diff_html(title)))
+        self.send(layout("Changes: " + esc(title), body))
+
+    def review_settings(self, saved=False):
+        s = review.settings()
+        body = (('<div class="draftnote submitted">Saved.</div>' if saved else "") +
+                '<form method="post" action="/review/settings"><table class="wikitable">'
+                '<tr><td>Your name</td><td><input name="name" value="%s" size="30"></td></tr>'
+                '<tr><td>GitHub token</td><td><input name="token" type="password" size="44" placeholder="%s"> '
+                '<label><input type="checkbox" name="forget_token" value="1"> forget the saved token</label></td></tr>'
+                '<tr><td>Repository</td><td><input name="repo" value="%s" size="30"></td></tr>'
+                '<tr><td>Branch to submit to</td><td><input name="base" value="%s" size="12"></td></tr>'
+                '<tr><td>Your fork</td><td><input name="fork" value="%s" size="30" placeholder="only if you cannot push to the repository"></td></tr>'
+                '</table><p><button class="primary">Save</button></p></form>'
+                '<p class="hint">The token is kept in <code>data/reviewer.json</code> on this computer only (data/ is never committed). '
+                'Create one on GitHub under Settings, Developer settings, Fine-grained tokens, for the SL100-Wiki repository with '
+                '<b>Contents: read and write</b> and <b>Pull requests: read and write</b>. Reviewers the owner has added as '
+                'collaborators submit straight to the repository; anyone else forks it on GitHub and enters the fork here.</p>'
+                % (esc(s["name"]), "saved - leave empty to keep it" if s["token"] else "paste a token", esc(s["repo"]),
+                   esc(s["base"]), esc(s["fork"])))
+        self.send(layout("Reviewer settings", body))
+
+    def review_post(self, path, form):
+        first = {k: v[0] for k, v in form.items()}
+        if path == "/review/settings":
+            review.save_settings(first)
+            return self.review_settings(saved=True)
+        if path == "/review/discard":
+            discard_draft(first.get("title", ""))
+            return self.redirect(wiki_href(first.get("title", "")) if first.get("title") else "/review")
+        if path == "/review/submit":
+            titles = form.get("title", [])
+            if "discard" in form:
+                for t in titles:
+                    discard_draft(t)
+                return self.review_page({}, message="Discarded %d draft(s)." % len(titles))
+            try:
+                url = review.submit(titles, first.get("pr_title", "Wiki edits").strip() or "Wiki edits", first.get("description", ""))
+            except review.GitHubError as e:
+                return self.review_page({}, error="Not submitted: %s" % e)
+            return self.review_page({}, message='Submitted. <a href="%s">Open the pull request</a>; the pages go live for '
+                                                'everyone once the owner approves and merges it.' % esc(url))
+        return self.send("bad request", 400, "text/plain")
 
     def home(self, con):
         n = con.execute("SELECT COUNT(*) FROM pages WHERE path IS NOT NULL").fetchone()[0]
