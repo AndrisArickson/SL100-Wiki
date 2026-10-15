@@ -19,7 +19,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Arkanian|Arkanian]] || [[Arkanian/Legends|Legends Arkanian]] || Average || INT +20  WILL +10  T +10  FEL -10 || sl100
 |-
-| [[#Besalisk|Besalisk]] || [[Besalisk/Legends|Legends Besalisk]] || Average || Characteristics:S +10  T +10  AGI -10  FEL +10 || sl100
+| [[#Besalisk|Besalisk]] || [[Besalisk/Legends|Legends Besalisk]] || Large || Characteristics:S +10  T +10  AGI -10  FEL +10 || sl100
 |-
 | [[#Chironian|Chironian]] || [[Chironian|Legends Chironian]] || Large || S +20 || sl100
 |-
@@ -39,7 +39,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Togruta|Togruta]] || [[Togruta/Legends|Legends Togruta]] || Average || (see entry) || sl100
 |-
-| [[#Trandoshan|Trandoshan]] || [[Trandoshan/Legends|Legends Trandoshan]] || Average || WS +10  S +10T +10 || sl100
+| [[#Trandoshan|Trandoshan]] || [[Trandoshan/Legends|Legends Trandoshan]] || Large || WS +10  S +10T +10 || sl100
 |-
 | [[#T'surr|T'surr]] || [[T'surr|Legends T'surr]] || Average || WS +10  S +20  T +10  FEL: -10 || sl100
 |-
@@ -51,7 +51,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Zabrak|Zabrak]] || [[Zabrak/Legends|Legends Zabrak]] || Average || T +10  WP +20 || sl100
 |-
-| [[#Abyssin|Abyssin]] || [[Abyssin/Legends|Legends Abyssin]] || Average || WS +10, S +10, T +20, Fel −10 || sl100
+| [[#Abyssin|Abyssin]] || [[Abyssin/Legends|Legends Abyssin]] || Large || WS +10, S +10, T +20, Fel −10 || sl100
 |-
 | [[#Adarian|Adarian]] || [[Adarian/Legends|Legends Adarian]] || Average || I +10, Int +10, WP +10 || sl100
 |-
@@ -109,7 +109,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Chev|Chev]] || [[Chev|Legends Chev]] || Average || T +10, WP +10 || sl100
 |-
-| [[#Chevin|Chevin]] || [[Chevin/Legends|Legends Chevin]] || Average || S +20, T +10, I +10, Fel −10 || sl100
+| [[#Chevin|Chevin]] || [[Chevin/Legends|Legends Chevin]] || Large || S +20, T +10, I +10, Fel −10 || sl100
 |-
 | [[#Clawdite|Clawdite]] || [[Clawdite/Legends|Legends Clawdite]] || Average || Ag +10, WP +10, Fel +10 || sl100
 |-
@@ -145,7 +145,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Elomin|Elomin]] || [[Elomin/Legends|Legends Elomin]] || Average || T +10, Int +10, WP +10 || sl100
 |-
-| [[#Em'liy|Em'liy]] || [[Em'liy/Legends|Legends Em'liy]] || Average || WS +10, S +10, T +10 || sl100
+| [[#Em'liy|Em'liy]] || [[Em'liy/Legends|Legends Em'liy]] || Large || WS +10, S +10, T +10 || sl100
 |-
 | [[#Esh-kha|Esh-kha]] || [[Esh-kha|Legends Esh-kha]] || Average || WS +10, S +10, T +10, WP +10, Fel −10 || sl100
 |-
@@ -211,9 +211,9 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Kaleesh|Kaleesh]] || [[Kaleesh/Legends|Legends Kaleesh]] || Average || WS +10, S +10, T +10, WP +10, Fel −10 || sl100
 |-
-| [[#Kaminoan|Kaminoan]] || [[Kaminoan/Legends|Legends Kaminoan]] || Average || S −10, I +10, Int +20, WP +10 || sl100
+| [[#Kaminoan|Kaminoan]] || [[Kaminoan/Legends|Legends Kaminoan]] || Large || S −10, I +10, Int +20, WP +10 || sl100
 |-
-| [[#Kerestian|Kerestian]] || [[Kerestian/Legends|Legends Kerestian]] || Average || WS +10, S +10, T +10, I +10, Fel −10 || sl100
+| [[#Kerestian|Kerestian]] || [[Kerestian/Legends|Legends Kerestian]] || Large || WS +10, S +10, T +10, I +10, Fel −10 || sl100
 |-
 | [[#Keshiri|Keshiri]] || [[Keshiri/Legends|Legends Keshiri]] || Average || S +10, Fel +10 || sl100
 |-
@@ -221,7 +221,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Khommite|Khommite]] || [[Khommite/Legends|Legends Khommite]] || Average || Int +10, WP +10 || sl100
 |-
-| [[#Kian'thar|Kian'thar]] || [[Kian'thar|Legends Kian'thar]] || Average || S +10, WP +10, Fel +10 || sl100
+| [[#Kian'thar|Kian'thar]] || [[Kian'thar|Legends Kian'thar]] || Large || S +10, WP +10, Fel +10 || sl100
 |-
 | [[#Kiffar|Kiffar]] || [[Kiffar/Legends|Legends Kiffar]] || Average || WP +10, I +10 || sl100
 |-
@@ -279,7 +279,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Nagai|Nagai]] || [[Nagai/Legends|Legends Nagai]] || Average || Ag +10, WP +10 || sl100
 |-
-| [[#Nazzar|Nazzar]] || [[Nazzar/Legends|Legends Nazzar]] || Average || S +10, Ag +10, WP +10 || sl100
+| [[#Nazzar|Nazzar]] || [[Nazzar/Legends|Legends Nazzar]] || Large || S +10, Ag +10, WP +10 || sl100
 |-
 | [[#Neimoidian|Neimoidian]] || [[Neimoidian/Legends|Legends Neimoidian]] || Average || Dex +10, Int +20, Fel +10, WP −10 || sl100
 |-
@@ -407,9 +407,9 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Toydarian|Toydarian]] || [[Toydarian/Legends|Legends Toydarian]] || Small || Dex +10, Int +10, WP +10 || sl100
 |-
-| [[#Trianii|Trianii]] || [[Trianii/Legends|Legends Trianii]] || Average || S +10, Ag +10, I +10 || sl100
+| [[#Trianii|Trianii]] || [[Trianii/Legends|Legends Trianii]] || Large || S +10, Ag +10, I +10 || sl100
 |-
-| [[#Tunroth|Tunroth]] || [[Tunroth|Legends Tunroth]] || Average || S +10, T +10, I +10 || sl100
+| [[#Tunroth|Tunroth]] || [[Tunroth|Legends Tunroth]] || Large || S +10, T +10, I +10 || sl100
 |-
 | [[#Tusken Raider|Tusken Raider]] || [[Tusken Raider/Legends|Legends Tusken Raider]] || Average || WS +10, S +10, T +10, I +10, Fel −10 || sl100
 |-
@@ -447,7 +447,7 @@ Every species links to its entry below and, as "Legends <name>", to the copy of 
 |-
 | [[#Xexto|Xexto]] || [[Xexto/Legends|Legends Xexto]] || Small || I +10, Ag +10, Dex +10 || sl100
 |-
-| [[#Yarkora|Yarkora]] || [[Yarkora/Legends|Legends Yarkora]] || Average || T +10, I +10, Fel +10 || sl100
+| [[#Yarkora|Yarkora]] || [[Yarkora/Legends|Legends Yarkora]] || Large || T +10, I +10, Fel +10 || sl100
 |-
 | [[#Yevetha|Yevetha]] || [[Yevetha|Legends Yevetha]] || Average || WS +10, Ag +10, Int +10, WP +10, Fel −10 || sl100
 |-
@@ -501,6 +501,10 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 '''Characteristics: '''S +10  T +10  AGI -10  FEL +10 '''Talents: '''Datapad Use''',''' Ambidextrous, roll 3 talents from the random talents list.
 
 '''Movement''': 4, '''Destiny''': 1, '''Resilience''': 1, '''Extra points''': 2
+
+'''Size:''' Large
+
+'''Size talent:''' Large
 
 <div style="clear:both"></div>
 === [[Chironian]] ===
@@ -699,6 +703,10 @@ She watches over the Trandoshan people, blessing or punishing them based on the 
 
 Trandoshan are capable of seeing into the infrared spectrum
 
+'''Size:''' Large
+
+'''Size talent:''' Large
+
 <div style="clear:both"></div>
 === [[T'surr]] ===
 
@@ -812,9 +820,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' WS +10, S +10, T +20, Fel −10
-'''Talents:''' Datapad Use, Regeneration (Minor), Hardy, roll 1 talents from the random talents list
+'''Talents:''' Datapad Use, Large, Regeneration (Minor), Hardy, roll 1 talents from the random talents list
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Single eye (poor depth perception); regrows lost limbs and organs over weeks; lifespan up to 300 years
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Single eye (poor depth perception); regrows lost limbs and organs over weeks; lifespan up to 300 years
 
 <div style="clear:both"></div>
 === [[Adarian/Legends|Adarian]] ===
@@ -1276,9 +1284,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +20, T +10, I +10, Fel −10
-'''Talents:''' Datapad Use, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list
+'''Talents:''' Datapad Use, Large, Acute Sense (Smell), Hardy, roll 1 talents from the random talents list
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Transparent second eyelid protects against dust and wind; comfortable in heat and cold alike
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Transparent second eyelid protects against dust and wind; comfortable in heat and cold alike
 
 <div style="clear:both"></div>
 === [[Clawdite/Legends|Clawdite]] ===
@@ -1564,9 +1572,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' WS +10, S +10, T +10
-'''Talents:''' Datapad Use, Warrior Born, Tenacious, roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Warrior Born, Tenacious, roll 1 talent from the random talents list
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' none
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' none
 
 <div style="clear:both"></div>
 === [[Esh-kha]] ===
@@ -2092,9 +2100,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S −10, I +10, Int +20, WP +10
-'''Talents:''' Datapad Use, Strong Swimmer, Savant (Genetics), roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Strong Swimmer, Savant (Genetics), roll 1 talent from the random talents list
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' sees ultraviolet and in dark or murky water; digitigrade; adult at 11 years; dispassionate toward other species
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' sees ultraviolet and in dark or murky water; digitigrade; adult at 11 years; dispassionate toward other species
 
 <div style="clear:both"></div>
 === [[Kerestian/Legends|Kerestian]] ===
@@ -2108,9 +2116,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' WS +10, S +10, T +10, I +10, Fel −10
-'''Talents:''' Datapad Use, Hunter's Eye, Resistance (Cold), roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Hunter's Eye, Resistance (Cold), roll 1 talent from the random talents list
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' vestigial breather tubes; embrace death (+10 to Cool Tests against Fear)
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' vestigial breather tubes; embrace death (+10 to Cool Tests against Fear)
 
 <div style="clear:both"></div>
 === [[Keshiri/Legends|Keshiri]] ===
@@ -2172,9 +2180,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +10, WP +10, Fel +10
-'''Talents:''' Datapad Use, Sixth Sense, roll 2 talents from the random talents list
+'''Talents:''' Datapad Use, Large, Sixth Sense, roll 2 talents from the random talents list
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Empathic sense: reads the emotional state of any being within sight, including non-Kian'thar (+10 to Intuition and Charm Tests that turn on a target's mood)
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Empathic sense: reads the emotional state of any being within sight, including non-Kian'thar (+10 to Intuition and Charm Tests that turn on a target's mood)
 
 <div style="clear:both"></div>
 === [[Kiffar/Legends|Kiffar]] ===
@@ -2636,9 +2644,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +10, Ag +10, WP +10
-'''Talents:''' Datapad Use, Coolheaded, roll 2 talents from the random talents list
+'''Talents:''' Datapad Use, Large, Coolheaded, roll 2 talents from the random talents list
 '''Movement:''' 5  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Lifespan about 125 years; an offworld Nazzar is almost certainly an outcast from the Ulizra
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Lifespan about 125 years; an offworld Nazzar is almost certainly an outcast from the Ulizra
 
 <div style="clear:both"></div>
 === [[Neimoidian/Legends|Neimoidian]] ===
@@ -3660,9 +3668,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +10, Ag +10, I +10
-'''Talents:''' Datapad Use, Catfall, Acute Sense (Sight), roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Catfall, Acute Sense (Sight), roll 1 talent from the random talents list
 '''Movement:''' 5  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Prehensile tail can grip and carry small objects but not wield weapons
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Prehensile tail can grip and carry small objects but not wield weapons
 
 <div style="clear:both"></div>
 === [[Tunroth]] ===
@@ -3676,9 +3684,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' S +10, T +10, I +10
-'''Talents:''' Datapad Use, Hunter's Eye, Menacing, roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Hunter's Eye, Menacing, roll 1 talent from the random talents list
 '''Movement:''' 4  '''Destiny:''' 1  '''Resilience:''' 1  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Quarry sense: +10 to Track Tests against a quarry the Tunroth has seen or met
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Quarry sense: +10 to Track Tests against a quarry the Tunroth has seen or met
 
 <div style="clear:both"></div>
 === [[Tusken Raider/Legends|Tusken Raider]] ===
@@ -3980,9 +3988,9 @@ Average height 2.23 – 2.54 meters
 |}
 
 '''Characteristics:''' T +10, I +10, Fel +10
-'''Talents:''' Datapad Use, Acute Sense (Sight), Cat-tongued, roll 1 talent from the random talents list
+'''Talents:''' Datapad Use, Large, Acute Sense (Sight), Cat-tongued, roll 1 talent from the random talents list
 '''Movement:''' 4  '''Destiny:''' 0  '''Resilience:''' 2  '''Extra points:''' 2
-'''Size:''' Average  '''Natural weapons:''' none  '''Traits:''' Redundant organs, internal Criticals reduced one step; very long-lived; possible empathic sense
+'''Size:''' Large  '''Natural weapons:''' none  '''Traits:''' Redundant organs, internal Criticals reduced one step; very long-lived; possible empathic sense
 
 <div style="clear:both"></div>
 === [[Yevetha]] ===
